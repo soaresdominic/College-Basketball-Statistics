@@ -1,0 +1,346 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:56,Duke,RJ Barrett,Missed Jumper,0,0
+19:56,Duke,Zion Williamson,Offensive Rebound,0,0
+19:52,Duke,Cam Reddish,Missed Three Point Jumper,0,0
+19:52,Duke,Javin DeLaurier,Offensive Rebound,0,0
+19:47,Duke,RJ Barrett,Missed Three Point Jumper,0,0
+19:47,Duke,Javin DeLaurier,Offensive Rebound,0,0
+19:42,Duke,Zion Williamson,Foul,0,0
+19:42,Duke,Zion Williamson,Turnover,0,0
+19:25,Princeton,Richmond Aririguzoh,Turnover,0,0
+19:14,Duke,Cam Reddish,Turnover,0,0
+19:14,Princeton,Myles Stephens,Steal,0,0
+19:08,Duke,RJ Barrett,Foul,0,0
+19:08,Princeton,Myles Stephens,Free Throw,1,0
+19:08,Princeton,Myles Stephens,Free Throw,2,0
+18:48,Duke,RJ Barrett,Missed Layup,2,0
+18:48,Princeton,Princeton,Defensive Rebound,2,0
+18:24,Princeton,Richmond Aririguzoh,Turnover,2,0
+18:19,Duke,Cam Reddish,Missed Three Point Jumper,2,0
+18:19,Princeton,Myles Stephens,Defensive Rebound,2,0
+18:01,Princeton,Myles Stephens,Layup,4,0
+17:43,Duke,RJ Barrett,Missed Jumper,4,0
+17:43,Princeton,Richmond Aririguzoh,Defensive Rebound,4,0
+17:12,Princeton,Myles Stephens,Missed Layup,4,0
+17:12,Duke,Zion Williamson,Block,4,0
+17:12,Princeton,Richmond Aririguzoh,Offensive Rebound,4,0
+17:07,Princeton,Devin Cannady,Missed Three Point Jumper,4,0
+17:07,Duke,Zion Williamson,Defensive Rebound,4,0
+16:57,Duke,Tre Jones,Missed Three Point Jumper,4,0
+16:57,Princeton,Devin Cannady,Defensive Rebound,4,0
+16:41,Princeton,Jaelin Llewellyn,Layup,6,0
+16:31,Duke,RJ Barrett,Missed Three Point Jumper,6,0
+16:31,Princeton,Devin Cannady,Defensive Rebound,6,0
+16:14,Princeton,Myles Stephens,Layup,8,0
+15:54,Duke,RJ Barrett,Jumper,8,2
+15:17,Princeton,Jose Morales,Missed Jumper,8,2
+15:17,Duke,Javin DeLaurier,Block,8,2
+15:17,Duke,Tre Jones,Defensive Rebound,8,2
+15:07,Duke,Javin DeLaurier,Jumper,8,4
+14:46,Princeton,Richmond Aririguzoh,Layup,10,4
+14:41,Princeton,Jaelin Llewellyn,Foul,10,4
+14:41,Duke,None,None,10,4
+14:41,Duke,RJ Barrett,Missed Free Throw,10,4
+14:41,Duke,None,Team Rebound,10,4
+14:41,Duke,RJ Barrett,Free Throw,10,5
+14:28,Princeton,Ryan Schwieger,Three Point Jumper,13,5
+14:09,Duke,RJ Barrett,Layup,13,7
+13:48,Princeton,Jaelin Llewellyn,Missed Layup,13,7
+13:48,Duke,Jack White,Defensive Rebound,13,7
+13:43,Duke,Alex O'Connell,Missed Three Point Jumper,13,7
+13:43,Duke,Jack White,Offensive Rebound,13,7
+13:38,Duke,Tre Jones,Missed Three Point Jumper,13,7
+13:38,Princeton,Ryan Schwieger,Defensive Rebound,13,7
+13:23,Princeton,Jaelin Llewellyn,Turnover,13,7
+13:23,Duke,Alex O'Connell,Steal,13,7
+13:04,Duke,Alex O'Connell,Turnover,13,7
+13:04,Princeton,Devin Cannady,Steal,13,7
+12:44,Princeton,Devin Cannady,Missed Three Point Jumper,13,7
+12:44,Duke,Marques Bolden,Defensive Rebound,13,7
+12:29,Duke,RJ Barrett,Missed Layup,13,7
+12:29,Princeton,Ryan Schwieger,Defensive Rebound,13,7
+12:16,Princeton,Jerome Desrosiers,Turnover,13,7
+12:16,Duke,Alex O'Connell,Steal,13,7
+12:12,Duke,Alex O'Connell,Missed Layup,13,7
+12:12,Duke,RJ Barrett,Offensive Rebound,13,7
+12:10,Princeton,Jaelin Llewellyn,Foul,13,7
+12:10,Duke,RJ Barrett,Free Throw,13,8
+12:10,Duke,RJ Barrett,Free Throw,13,9
+12:04,Princeton,Jose Morales,Turnover,13,9
+12:04,Duke,Zion Williamson,Steal,13,9
+11:58,Duke,Zion Williamson,Layup,13,11
+11:28,Princeton,Devin Cannady,Missed Three Point Jumper,13,11
+11:28,Duke,Marques Bolden,Defensive Rebound,13,11
+11:19,Duke,Cam Reddish,Turnover,13,11
+11:17,Duke,None,None,13,11
+10:51,Princeton,Myles Stephens,Three Point Jumper,16,11
+10:33,Duke,Jack White,Three Point Jumper,16,14
+10:17,Princeton,Jose Morales,Turnover,16,14
+10:17,Duke,Javin DeLaurier,Steal,16,14
+10:12,Duke,Cam Reddish,Missed Three Point Jumper,16,14
+10:12,Duke,Jordan Goldwire,Offensive Rebound,16,14
+9:49,Duke,Javin DeLaurier,Turnover,16,14
+9:49,Princeton,Myles Stephens,Steal,16,14
+9:21,Princeton,Myles Stephens,Missed Three Point Jumper,16,14
+9:21,Duke,Duke,Defensive Rebound,16,14
+9:02,Duke,Zion Williamson,Missed Three Point Jumper,16,14
+9:02,Duke,Tre Jones,Offensive Rebound,16,14
+9:02,Duke,None,None,16,14
+9:02,Princeton,Richmond Aririguzoh,Defensive Rebound,16,14
+8:33,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,16,14
+8:33,Duke,Jack White,Block,16,14
+8:33,Duke,Cam Reddish,Defensive Rebound,16,14
+8:26,Duke,RJ Barrett,Missed Three Point Jumper,16,14
+8:26,Duke,Zion Williamson,Offensive Rebound,16,14
+8:13,Duke,RJ Barrett,Layup,16,16
+7:58,Princeton,Drew Friberg,Layup,18,16
+7:48,Duke,Zion Williamson,Missed Layup,18,16
+7:48,Duke,RJ Barrett,Offensive Rebound,18,16
+7:41,Duke,RJ Barrett,Missed Layup,18,16
+7:41,Duke,Cam Reddish,Offensive Rebound,18,16
+7:37,Duke,Cam Reddish,Turnover,18,16
+7:37,Princeton,Myles Stephens,Steal,18,16
+7:36,Duke,None,None,18,16
+7:29,Princeton,Jaelin Llewellyn,Turnover,18,16
+7:14,Duke,RJ Barrett,Turnover,18,16
+7:14,Princeton,Devin Cannady,Steal,18,16
+6:53,Princeton,Myles Stephens,Missed Three Point Jumper,18,16
+6:53,Duke,RJ Barrett,Defensive Rebound,18,16
+6:36,Duke,Tre Jones,Missed Jumper,18,16
+6:36,Princeton,Devin Cannady,Defensive Rebound,18,16
+6:16,Princeton,Devin Cannady,Missed Three Point Jumper,18,16
+6:16,Duke,Javin DeLaurier,Defensive Rebound,18,16
+6:02,Duke,Cam Reddish,Three Point Jumper,18,19
+5:34,Princeton,Devin Cannady,Turnover,18,19
+5:34,Duke,Jack White,Steal,18,19
+5:26,Princeton,Myles Stephens,Foul,18,19
+5:26,Duke,Jack White,Free Throw,18,20
+5:26,Duke,Jack White,Free Throw,18,21
+5:14,Princeton,Drew Friberg,Missed Three Point Jumper,18,21
+5:14,Duke,RJ Barrett,Defensive Rebound,18,21
+4:57,Duke,Alex O'Connell,Three Point Jumper,18,24
+4:44,Princeton,None,None,18,24
+4:35,Princeton,Jaelin Llewellyn,Missed Jumper,18,24
+4:35,Duke,Zion Williamson,Defensive Rebound,18,24
+4:21,Duke,Zion Williamson,Layup,18,26
+4:21,Princeton,Jose Morales,Foul,18,26
+4:21,Duke,Zion Williamson,Free Throw,18,27
+4:10,Princeton,Jose Morales,Turnover,18,27
+3:53,Duke,None,None,18,27
+3:50,Duke,RJ Barrett,Missed Dunk,18,27
+3:50,Princeton,Jerome Desrosiers,Defensive Rebound,18,27
+3:35,Princeton,Devin Cannady,Three Point Jumper,21,27
+3:20,Duke,Marques Bolden,Layup,21,29
+2:57,Princeton,Jaelin Llewellyn,Missed Jumper,21,29
+2:57,Duke,Marques Bolden,Defensive Rebound,21,29
+2:45,Duke,RJ Barrett,Jumper,21,31
+2:21,Princeton,Jaelin Llewellyn,Turnover,21,31
+2:11,Princeton,Richmond Aririguzoh,Foul,21,31
+2:10,Duke,RJ Barrett,Layup,21,33
+1:58,Princeton,Devin Cannady,Jumper,23,33
+1:43,Duke,Zion Williamson,Layup,23,35
+1:10,Princeton,Devin Cannady,Missed Three Point Jumper,23,35
+1:10,Duke,RJ Barrett,Block,23,35
+1:10,Duke,Cam Reddish,Defensive Rebound,23,35
+1:04,Duke,Cam Reddish,Three Point Jumper,23,38
+0:46,Princeton,Jaelin Llewellyn,Three Point Jumper,26,38
+0:29,Princeton,Richmond Aririguzoh,Foul,26,38
+0:29,Duke,Zion Williamson,Missed Free Throw,26,38
+0:29,Duke,None,Team Rebound,26,38
+0:29,Duke,Zion Williamson,Free Throw,26,39
+0:12,Duke,Tre Jones,Foul,26,39
+0:09,Duke,Jordan Goldwire,Foul,26,39
+0:05,Duke,Jordan Goldwire,Foul,26,39
+0:02,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,26,39
+0:02,Duke,Duke,Defensive Rebound,26,39
+0:00,Duke,None,None,26,39
+20:00,Princeton,None,None,26,39
+19:51,Princeton,Devin Cannady,Missed Three Point Jumper,26,39
+19:51,Duke,Duke,Defensive Rebound,26,39
+19:38,Duke,RJ Barrett,Layup,26,41
+19:14,Princeton,Myles Stephens,Jumper,28,41
+19:03,Duke,Tre Jones,Three Point Jumper,28,44
+18:45,Princeton,Myles Stephens,Missed Three Point Jumper,28,44
+18:45,Duke,RJ Barrett,Defensive Rebound,28,44
+18:30,Duke,RJ Barrett,Jumper,28,46
+18:13,Princeton,Jose Morales,Turnover,28,46
+18:13,Duke,Cam Reddish,Steal,28,46
+18:09,Duke,RJ Barrett,Dunk,28,48
+17:41,Princeton,Jaelin Llewellyn,Missed Jumper,28,48
+17:41,Duke,Zion Williamson,Block,28,48
+17:41,Duke,RJ Barrett,Defensive Rebound,28,48
+17:34,Duke,Cam Reddish,Missed Three Point Jumper,28,48
+17:34,Princeton,Jose Morales,Defensive Rebound,28,48
+17:20,Princeton,Myles Stephens,Missed Three Point Jumper,28,48
+17:20,Duke,Tre Jones,Defensive Rebound,28,48
+17:10,Duke,Cam Reddish,Missed Three Point Jumper,28,48
+17:10,Princeton,Myles Stephens,Defensive Rebound,28,48
+16:56,Princeton,None,None,28,48
+16:43,Princeton,Richmond Aririguzoh,Missed Layup,28,48
+16:43,Duke,Marques Bolden,Block,28,48
+16:43,Princeton,Princeton,Offensive Rebound,28,48
+16:36,Princeton,Princeton ,Turnover,28,48
+16:30,Duke,Zion Williamson,Three Point Jumper,28,51
+16:05,Princeton,Jaelin Llewellyn,Jumper,30,51
+15:59,Duke,Cam Reddish,Three Point Jumper,30,54
+15:41,Princeton,Jose Morales,Turnover,30,54
+15:41,Duke,Zion Williamson,Steal,30,54
+15:35,Duke,Cam Reddish,Missed Dunk,30,54
+15:35,Duke,Zion Williamson,Offensive Rebound,30,54
+15:33,Princeton,Richmond Aririguzoh,Foul,30,54
+15:33,Duke,None,None,30,54
+15:33,Duke,Zion Williamson,Free Throw,30,55
+15:33,Duke,Zion Williamson,Free Throw,30,56
+15:21,Princeton,Jerome Desrosiers,Turnover,30,56
+15:21,Duke,Cam Reddish,Steal,30,56
+15:17,Duke,Cam Reddish,Missed Jumper,30,56
+15:17,Princeton,Myles Stephens,Defensive Rebound,30,56
+15:03,Princeton,Myles Stephens,Three Point Jumper,33,56
+14:49,Duke,RJ Barrett,Layup,33,58
+14:49,Princeton,Jerome Desrosiers,Foul,33,58
+14:49,Duke,RJ Barrett,Free Throw,33,59
+14:35,Princeton,Jaelin Llewellyn,Missed Layup,33,59
+14:35,Duke,Marques Bolden,Block,33,59
+14:35,Duke,Jack White,Defensive Rebound,33,59
+14:18,Duke,RJ Barrett,Layup,33,61
+14:18,Princeton,Ryan Schwieger,Foul,33,61
+14:18,Duke,RJ Barrett,Free Throw,33,62
+14:02,Princeton,Ryan Schwieger,Missed Layup,33,62
+14:02,Duke,Marques Bolden,Block,33,62
+14:02,Duke,Zion Williamson,Defensive Rebound,33,62
+13:57,Duke,Alex O'Connell,Three Point Jumper,33,65
+13:44,Princeton,Myles Stephens,Three Point Jumper,36,65
+13:34,Duke,Zion Williamson,Turnover,36,65
+13:34,Princeton,Devin Cannady,Steal,36,65
+13:29,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,36,65
+13:29,Duke,Zion Williamson,Defensive Rebound,36,65
+13:04,Duke,Marques Bolden,Turnover,36,65
+13:04,Princeton,Devin Cannady,Steal,36,65
+12:56,Princeton,Jerome Desrosiers,Missed Three Point Jumper,36,65
+12:56,Duke,Tre Jones,Defensive Rebound,36,65
+12:47,Duke,Tre Jones,Missed Three Point Jumper,36,65
+12:47,Princeton,Devin Cannady,Defensive Rebound,36,65
+12:29,Duke,Tre Jones,Foul,36,65
+12:20,Duke,Alex O'Connell,Foul,36,65
+12:16,Princeton,Myles Stephens,Missed Jumper,36,65
+12:16,Duke,Zion Williamson,Defensive Rebound,36,65
+11:59,Duke,Alex O'Connell,Turnover,36,65
+11:59,Princeton,Jose Morales,Steal,36,65
+11:47,Duke,Jack White,Foul,36,65
+11:47,Duke,None,None,36,65
+11:47,Princeton,Myles Stephens,Free Throw,37,65
+11:47,Princeton,Myles Stephens,Free Throw,38,65
+11:35,Duke,Javin DeLaurier,Dunk,38,67
+11:18,Princeton,Devin Cannady,Missed Three Point Jumper,38,67
+11:18,Duke,Zion Williamson,Defensive Rebound,38,67
+11:02,Duke,Jack White,Layup,38,69
+10:50,Duke,Jack White,Foul,38,69
+10:50,Princeton,Jaelin Llewellyn,Missed Free Throw,38,69
+10:50,Princeton,None,Team Rebound,38,69
+10:50,Princeton,Jaelin Llewellyn,Free Throw,39,69
+10:30,Duke,Zion Williamson,Layup,39,71
+10:04,Princeton,Max Johns,Turnover,39,71
+10:04,Duke,Zion Williamson,Steal,39,71
+10:00,Duke,Javin DeLaurier,Dunk,39,73
+9:42,Princeton,Ryan Schwieger,Turnover,39,73
+9:42,Duke,Jordan Goldwire,Steal,39,73
+9:37,Duke,RJ Barrett,Jumper,39,75
+9:26,Princeton,None,None,39,75
+9:21,Princeton,Richmond Aririguzoh,Turnover,39,75
+9:21,Duke,RJ Barrett,Steal,39,75
+9:14,Princeton,Jaelin Llewellyn,Foul,39,75
+9:11,Duke,Cam Reddish,Missed Jumper,39,75
+9:11,Princeton,Jaelin Llewellyn,Defensive Rebound,39,75
+8:51,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,39,75
+8:51,Duke,Cam Reddish,Block,39,75
+8:51,Duke,Alex O'Connell,Defensive Rebound,39,75
+8:34,Duke,RJ Barrett,Missed Jumper,39,75
+8:34,Princeton,Devin Cannady,Defensive Rebound,39,75
+8:21,Duke,Jordan Goldwire,Foul,39,75
+8:16,Princeton,Devin Cannady,Three Point Jumper,42,75
+7:57,Princeton,Devin Cannady,Foul,42,75
+7:57,Duke,None,None,42,75
+7:57,Duke,Marques Bolden,Missed Free Throw,42,75
+7:57,Duke,None,Team Rebound,42,75
+7:57,Duke,Marques Bolden,Free Throw,42,76
+7:39,Princeton,Richmond Aririguzoh,Missed Jumper,42,76
+7:39,Duke,Marques Bolden,Block,42,76
+7:39,Princeton,Princeton,Offensive Rebound,42,76
+7:37,Princeton,Drew Friberg,Missed Jumper,42,76
+7:37,Duke,Marques Bolden,Defensive Rebound,42,76
+7:18,Princeton,Richmond Aririguzoh,Foul,42,76
+7:18,Duke,Marques Bolden,Free Throw,42,77
+7:18,Duke,Marques Bolden,Free Throw,42,78
+7:03,Princeton,Jerome Desrosiers,Missed Three Point Jumper,42,78
+7:03,Princeton,Princeton,Offensive Rebound,42,78
+6:56,Princeton,Devin Cannady,Missed Three Point Jumper,42,78
+6:56,Duke,Marques Bolden,Defensive Rebound,42,78
+6:53,Princeton,Jerome Desrosiers,Foul,42,78
+6:53,Duke,Marques Bolden,Free Throw,42,79
+6:53,Duke,Marques Bolden,Free Throw,42,80
+6:44,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,42,80
+6:44,Duke,Zion Williamson,Defensive Rebound,42,80
+6:33,Duke,Zion Williamson,Layup,42,82
+6:16,Princeton,Myles Stephens,Missed Three Point Jumper,42,82
+6:16,Duke,Duke,Defensive Rebound,42,82
+5:53,Duke,Jordan Goldwire,Jumper,42,84
+5:32,Princeton,Jaelin Llewellyn,Missed Jumper,42,84
+5:32,Duke,Jack White,Block,42,84
+5:32,Princeton,Princeton,Offensive Rebound,42,84
+5:23,Princeton,Jose Morales,Layup,44,84
+5:05,Duke,Justin Robinson,Three Point Jumper,44,87
+4:55,Princeton,Jose Morales,Missed Three Point Jumper,44,87
+4:55,Duke,Jack White,Defensive Rebound,44,87
+4:38,Princeton,Richmond Aririguzoh,Foul,44,87
+4:38,Duke,Alex O'Connell,Free Throw,44,88
+4:38,Duke,Alex O'Connell,Free Throw,44,89
+4:28,Princeton,Ryan Schwieger,Missed Three Point Jumper,44,89
+4:28,Duke,Jordan Goldwire,Defensive Rebound,44,89
+4:03,Princeton,Myles Stephens,Foul,44,89
+4:03,Duke,Antonio Vrankovic,Missed Free Throw,44,89
+4:03,Duke,None,Team Rebound,44,89
+4:03,Duke,Antonio Vrankovic,Free Throw,44,90
+3:57,Princeton,Jose Morales,Turnover,44,90
+3:57,Duke,Jack White,Steal,44,90
+3:53,Duke,Jack White,Missed Layup,44,90
+3:53,Duke,Jordan Goldwire,Offensive Rebound,44,90
+3:53,Duke,Jordan Goldwire,Missed Dunk,44,90
+3:53,Duke,Alex O'Connell,Offensive Rebound,44,90
+3:44,Duke,Alex O'Connell,Dunk,44,92
+3:20,Princeton,Myles Stephens,Missed Jumper,44,92
+3:20,Duke,Justin Robinson,Block,44,92
+3:20,Princeton,Jaelin Llewellyn,Offensive Rebound,44,92
+3:13,Princeton,Jaelin Llewellyn,Missed Layup,44,92
+3:13,Duke,Justin Robinson,Defensive Rebound,44,92
+3:08,Duke,Jack White,Three Point Jumper,44,95
+2:42,Princeton,Jaelin Llewellyn,Missed Jumper,44,95
+2:42,Princeton,Ryan Schwieger,Offensive Rebound,44,95
+2:38,Princeton,Drew Friberg,Three Point Jumper,47,95
+2:37,Princeton,None,None,47,95
+2:16,Duke,Brennan Besser,Missed Three Point Jumper,47,95
+2:16,Princeton,Max Johns,Defensive Rebound,47,95
+1:56,Princeton,Max Johns,Missed Three Point Jumper,47,95
+1:56,Duke,Justin Robinson,Defensive Rebound,47,95
+1:49,Duke,Alex O'Connell,Missed Three Point Jumper,47,95
+1:49,Duke,Antonio Vrankovic,Offensive Rebound,47,95
+1:45,Duke,Antonio Vrankovic,Layup,47,97
+1:31,Princeton,Elijah Barnes,Turnover,47,97
+1:18,Duke,Justin Robinson,Missed Three Point Jumper,47,97
+1:18,Duke,Brennan Besser,Offensive Rebound,47,97
+1:12,Princeton,Elijah Barnes,Foul,47,97
+1:12,Duke,Brennan Besser,Free Throw,47,98
+1:12,Duke,Brennan Besser,Free Throw,47,99
+1:00,Princeton,Charlie Bagin,Missed Jumper,47,99
+1:00,Duke,Justin Robinson,Block,47,99
+1:00,Duke,Alex O'Connell,Defensive Rebound,47,99
+0:53,Duke,Justin Robinson,Turnover,47,99
+0:53,Princeton,Charlie Bagin,Steal,47,99
+0:49,Princeton,Charlie Bagin,Missed Layup,47,99
+0:49,Duke,Antonio Vrankovic,Block,47,99
+0:49,Princeton,Princeton,Offensive Rebound,47,99
+0:45,Princeton,Charlie Bagin,Three Point Jumper,50,99
+0:29,Duke,Justin Robinson,Dunk,50,101
+0:13,Princeton,Elijah Barnes,Missed Jumper,50,101
+0:13,Duke,Antonio Vrankovic,Defensive Rebound,50,101
+0:00,Duke,None,None,50,101

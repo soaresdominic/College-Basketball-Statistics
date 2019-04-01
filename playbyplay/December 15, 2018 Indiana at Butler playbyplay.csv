@@ -1,0 +1,281 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,Indiana,Justin Smith,Turnover,0,0
+19:43,Butler,Aaron Thompson,Steal,0,0
+19:30,Butler,Nate Fowler,Turnover,0,0
+19:30,Indiana,Aljami Durham,Steal,0,0
+19:21,Indiana,Aljami Durham,Missed Jumper,0,0
+19:18,Butler,Kamar Baldwin,Defensive Rebound,0,0
+19:10,Butler,Paul Jorgensen,Missed Three Point Jumper,0,0
+19:07,Indiana,Rob Phinisee,Defensive Rebound,0,0
+18:51,Indiana,Aljami Durham,Missed Three Point Jumper,0,0
+18:48,Butler,Kamar Baldwin,Defensive Rebound,0,0
+18:41,Butler,Kamar Baldwin,Missed Jumper,0,0
+18:38,Indiana,Rob Phinisee,Defensive Rebound,0,0
+18:30,Indiana,Rob Phinisee,Missed Three Point Jumper,0,0
+18:26,Butler,Nate Fowler,Defensive Rebound,0,0
+18:08,Butler,Paul Jorgensen,Layup,0,2
+18:00,Indiana,Rob Phinisee,Turnover,0,2
+17:35,Indiana,Juwan Morgan,Foul,0,2
+17:30,Butler,Sean McDermott,Missed Layup,0,2
+17:30,Indiana,Juwan Morgan,Block,0,2
+17:28,Butler,Paul Jorgensen,Offensive Rebound,0,2
+17:15,Butler,Aaron Thompson,Layup,0,4
+16:47,Indiana,Juwan Morgan,Jumper,2,4
+16:26,Butler,Nate Fowler,Missed Jumper,2,4
+16:23,Indiana,Justin Smith,Defensive Rebound,2,4
+16:16,Indiana,Romeo Langford,Missed Three Point Jumper,2,4
+16:11,Butler,Paul Jorgensen,Defensive Rebound,2,4
+15:50,Butler,Nate Fowler,Missed Three Point Jumper,2,4
+15:46,Indiana,Romeo Langford,Defensive Rebound,2,4
+15:41,Indiana,Devonte Green,Foul,2,4
+15:41,Indiana,Devonte Green,Turnover,2,4
+15:41,Butler,None,None,2,4
+15:15,Butler,Paul Jorgensen,Three Point Jumper,2,7
+15:05,Indiana,Justin Smith,Jumper,4,7
+14:45,Butler,Paul Jorgensen,Missed Jumper,4,7
+14:42,Indiana,Justin Smith,Defensive Rebound,4,7
+14:37,Indiana,Juwan Morgan,Turnover,4,7
+14:37,Butler,Sean McDermott,Steal,4,7
+14:32,Butler,Paul Jorgensen,Missed Layup,4,7
+14:32,Indiana,Juwan Morgan,Block,4,7
+14:32,Butler,Butler,Offensive Rebound,4,7
+14:30,Butler,Sean McDermott,Three Point Jumper,4,10
+14:19,Indiana,Devonte Green,Missed Jumper,4,10
+14:19,Butler,Aaron Thompson,Block,4,10
+14:18,Butler,Aaron Thompson,Defensive Rebound,4,10
+14:17,Butler,Aaron Thompson,Turnover,4,10
+13:58,Indiana,De'Ron Davis,Foul,4,10
+13:58,Indiana,De'Ron Davis,Turnover,4,10
+13:42,Butler,Joey Brunk,Missed Layup,4,10
+13:42,Indiana,De'Ron Davis,Block,4,10
+13:38,Indiana,De'Ron Davis,Defensive Rebound,4,10
+13:31,Indiana,Zach McRoberts,Missed Three Point Jumper,4,10
+13:25,Butler,Joey Brunk,Defensive Rebound,4,10
+13:14,Butler,Aaron Thompson,Jumper,4,12
+12:58,Indiana,Devonte Green,Dunk,6,12
+12:37,Butler,Aaron Thompson,Three Point Jumper,6,15
+12:16,Indiana,Devonte Green,Missed Layup,6,15
+12:14,Butler,Sean McDermott,Defensive Rebound,6,15
+12:09,Butler,Kamar Baldwin,Turnover,6,15
+12:09,Indiana,Zach McRoberts,Steal,6,15
+12:06,Indiana,Romeo Langford,Turnover,6,15
+12:06,Butler,Kamar Baldwin,Steal,6,15
+11:56,Butler,Paul Jorgensen,Missed Three Point Jumper,6,15
+11:51,Indiana,Zach McRoberts,Defensive Rebound,6,15
+11:50,Butler,None,None,6,15
+11:39,Indiana,Juwan Morgan,Layup,8,15
+11:22,Butler,Nate Fowler,Jumper,8,17
+11:02,Indiana,Juwan Morgan,Three Point Jumper,11,17
+10:45,Butler,Paul Jorgensen,Missed Jumper,11,17
+10:41,Indiana,Rob Phinisee,Defensive Rebound,11,17
+10:31,Indiana,Juwan Morgan,Layup,13,17
+10:04,Indiana,Rob Phinisee,Foul,13,17
+10:04,Butler,Kamar Baldwin,Foul,13,17
+10:04,Butler,Kamar Baldwin,Turnover,13,17
+9:50,Indiana,Juwan Morgan,Missed Three Point Jumper,13,17
+9:46,Indiana,Zach McRoberts,Offensive Rebound,13,17
+9:37,Indiana,Juwan Morgan,Turnover,13,17
+9:17,Butler,Jordan Tucker,Three Point Jumper,13,20
+8:58,Indiana,Justin Smith,Missed Jumper,13,20
+8:54,Butler,Jordan Tucker,Defensive Rebound,13,20
+8:49,Butler,Sean McDermott,Missed Three Point Jumper,13,20
+8:44,Butler,Henry Baddley,Offensive Rebound,13,20
+8:44,Butler,Henry Baddley,Layup,13,22
+8:44,Indiana,None,None,13,22
+8:37,Butler,Nate Fowler,Foul,13,22
+8:32,Indiana,Rob Phinisee,Three Point Jumper,16,22
+8:08,Butler,Jordan Tucker,Missed Three Point Jumper,16,22
+8:03,Butler,Nate Fowler,Offensive Rebound,16,22
+7:42,Butler,Sean McDermott,Three Point Jumper,16,25
+7:17,Indiana,Juwan Morgan,Missed Three Point Jumper,16,25
+7:15,Indiana,Indiana,Offensive Rebound,16,25
+7:15,Butler,None,None,16,25
+7:12,Butler,Aaron Thompson,Foul,16,25
+7:09,Indiana,Juwan Morgan,Layup,18,25
+6:39,Butler,Joey Brunk,Dunk,18,27
+6:31,Indiana,Romeo Langford,Missed Jumper,18,27
+6:27,Butler,Sean McDermott,Defensive Rebound,18,27
+6:21,Butler,Kamar Baldwin,Jumper,18,29
+6:10,Indiana,Juwan Morgan,Layup,20,29
+6:10,Butler,Paul Jorgensen,Foul,20,29
+6:10,Indiana,Juwan Morgan,Free Throw,21,29
+5:56,Indiana,Romeo Langford,Foul,21,29
+5:50,Butler,Joey Brunk,Missed Layup,21,29
+5:50,Indiana,Romeo Langford,Block,21,29
+5:49,Butler,Butler,Offensive Rebound,21,29
+5:45,Butler,Kamar Baldwin,Missed Jumper,21,29
+5:43,Indiana,Devonte Green,Defensive Rebound,21,29
+5:38,Indiana,Romeo Langford,Jumper,23,29
+5:14,Butler,Sean McDermott,Missed Three Point Jumper,23,29
+5:10,Indiana,Romeo Langford,Defensive Rebound,23,29
+5:03,Indiana,Justin Smith,Foul,23,29
+5:03,Indiana,Justin Smith,Turnover,23,29
+4:44,Butler,Nate Fowler,Foul,23,29
+4:44,Butler,Nate Fowler,Turnover,23,29
+4:17,Indiana,Rob Phinisee,Missed Layup,23,29
+4:17,Indiana,Romeo Langford,Offensive Rebound,23,29
+4:17,Indiana,Romeo Langford,Layup,25,29
+4:17,Butler,Sean McDermott,Foul,25,29
+4:17,Indiana,Romeo Langford,Free Throw,26,29
+3:55,Butler,Kamar Baldwin,Layup,26,31
+3:37,Indiana,Evan Fitzner,Jumper,28,31
+3:25,Butler,Kamar Baldwin,Layup,28,33
+3:25,Indiana,Devonte Green,Foul,28,33
+3:25,Butler,None,None,28,33
+3:25,Butler,Kamar Baldwin,Free Throw,28,34
+3:16,Butler,Aaron Thompson,Foul,28,34
+3:16,Indiana,Romeo Langford,Missed Free Throw,28,34
+3:14,Butler,Sean McDermott,Defensive Rebound,28,34
+2:52,Butler,Kamar Baldwin,Missed Jumper,28,34
+2:49,Butler,Henry Baddley,Offensive Rebound,28,34
+2:26,Butler,Kamar Baldwin,Missed Three Point Jumper,28,34
+2:21,Butler,Joey Brunk,Offensive Rebound,28,34
+2:21,Butler,Joey Brunk,Layup,28,36
+2:06,Indiana,Juwan Morgan,Jumper,30,36
+1:52,Butler,Sean McDermott,Missed Jumper,30,36
+1:49,Indiana,Romeo Langford,Defensive Rebound,30,36
+1:45,Indiana,Romeo Langford,Layup,32,36
+1:19,Butler,Kamar Baldwin,Jumper,32,38
+1:01,Butler,Jordan Tucker,Foul,32,38
+1:01,Indiana,Juwan Morgan,Free Throw,33,38
+1:01,Indiana,Juwan Morgan,Free Throw,34,38
+0:51,Butler,Kamar Baldwin,Missed Jumper,34,38
+0:48,Indiana,Zach McRoberts,Defensive Rebound,34,38
+0:40,Indiana,Romeo Langford,Foul,34,38
+0:40,Indiana,Romeo Langford,Turnover,34,38
+0:12,Butler,Kamar Baldwin,Missed Jumper,34,38
+0:10,Indiana,Indiana,Defensive Rebound,34,38
+0:04,Indiana,Rob Phinisee,Missed Layup,34,38
+0:01,Indiana,De'Ron Davis,Offensive Rebound,34,38
+0:00,Butler,None,None,34,38
+19:46,Butler,Nate Fowler,Jumper,34,40
+19:24,Indiana,Romeo Langford,Missed Three Point Jumper,34,40
+19:21,Indiana,Juwan Morgan,Offensive Rebound,34,40
+19:20,Indiana,Romeo Langford,Dunk,36,40
+19:20,Butler,Sean McDermott,Foul,36,40
+19:20,Indiana,Romeo Langford,Missed Free Throw,36,40
+19:19,Butler,Kamar Baldwin,Defensive Rebound,36,40
+19:01,Butler,Sean McDermott,Three Point Jumper,36,43
+18:34,Indiana,Romeo Langford,Missed Jumper,36,43
+18:30,Indiana,Romeo Langford,Offensive Rebound,36,43
+18:29,Indiana,Rob Phinisee,Three Point Jumper,39,43
+17:55,Butler,Nate Fowler,Layup,39,45
+17:55,Indiana,Aljami Durham,Foul,39,45
+17:55,Butler,Nate Fowler,Free Throw,39,46
+17:42,Indiana,Romeo Langford,Turnover,39,46
+17:22,Butler,Sean McDermott,Three Point Jumper,39,49
+16:55,Indiana,Rob Phinisee,Missed Three Point Jumper,39,49
+16:51,Butler,Sean McDermott,Defensive Rebound,39,49
+16:48,Butler,Kamar Baldwin,Turnover,39,49
+16:31,Indiana,Romeo Langford,Turnover,39,49
+16:31,Butler,Sean McDermott,Steal,39,49
+16:26,Butler,Paul Jorgensen,Missed Three Point Jumper,39,49
+16:22,Butler,Nate Fowler,Offensive Rebound,39,49
+16:01,Butler,Paul Jorgensen,Missed Three Point Jumper,39,49
+15:57,Butler,Nate Fowler,Offensive Rebound,39,49
+15:54,Butler,Kamar Baldwin,Missed Layup,39,49
+15:54,Indiana,Romeo Langford,Block,39,49
+15:54,Butler,Butler,Offensive Rebound,39,49
+15:54,Butler,None,None,39,49
+15:47,Butler,Nate Fowler,Missed Jumper,39,49
+15:47,Indiana,De'Ron Davis,Block,39,49
+15:44,Indiana,Zach McRoberts,Defensive Rebound,39,49
+15:32,Indiana,De'Ron Davis,Missed Jumper,39,49
+15:27,Butler,Aaron Thompson,Defensive Rebound,39,49
+15:24,Butler,Paul Jorgensen,Missed Three Point Jumper,39,49
+15:20,Indiana,Devonte Green,Defensive Rebound,39,49
+15:09,Indiana,Juwan Morgan,Turnover,39,49
+14:59,Butler,Sean McDermott,Missed Three Point Jumper,39,49
+14:52,Indiana,Zach McRoberts,Defensive Rebound,39,49
+14:32,Butler,Sean McDermott,Foul,39,49
+14:21,Indiana,Juwan Morgan,Three Point Jumper,42,49
+14:03,Butler,Joey Brunk,Dunk,42,51
+13:48,Indiana,Devonte Green,Three Point Jumper,45,51
+13:45,Indiana,None,None,45,51
+13:45,Butler,None,None,45,51
+13:18,Butler,Kamar Baldwin,Three Point Jumper,45,54
+12:52,Indiana,Juwan Morgan,Three Point Jumper,48,54
+12:38,Butler,Jordan Tucker,Missed Three Point Jumper,48,54
+12:35,Indiana,Indiana,Defensive Rebound,48,54
+12:27,Indiana,Juwan Morgan,Turnover,48,54
+12:02,Butler,Henry Baddley,Missed Three Point Jumper,48,54
+11:59,Indiana,Juwan Morgan,Defensive Rebound,48,54
+11:49,Indiana,Romeo Langford,Layup,50,54
+11:40,Butler,None,None,50,54
+11:40,Butler,None,None,50,54
+11:22,Butler,Joey Brunk,Jumper,50,56
+10:59,Indiana,Devonte Green,Missed Jumper,50,56
+10:56,Butler,Joey Brunk,Defensive Rebound,50,56
+10:56,Indiana,Juwan Morgan,Foul,50,56
+10:36,Butler,Sean McDermott,Three Point Jumper,50,59
+10:11,Indiana,Juwan Morgan,Layup,52,59
+9:50,Butler,Sean McDermott,Turnover,52,59
+9:50,Indiana,Juwan Morgan,Steal,52,59
+9:40,Indiana,Devonte Green,Missed Jumper,52,59
+9:37,Butler,Sean McDermott,Defensive Rebound,52,59
+9:31,Butler,Sean McDermott,Layup,52,61
+9:02,Indiana,Juwan Morgan,Three Point Jumper,55,61
+8:38,Butler,Sean McDermott,Missed Three Point Jumper,55,61
+8:34,Indiana,Romeo Langford,Defensive Rebound,55,61
+8:32,Indiana,Romeo Langford,Turnover,55,61
+8:32,Butler,Sean McDermott,Steal,55,61
+8:24,Butler,Kamar Baldwin,Missed Three Point Jumper,55,61
+8:22,Indiana,Romeo Langford,Defensive Rebound,55,61
+8:22,Butler,Joey Brunk,Foul,55,61
+8:08,Indiana,Justin Smith,Three Point Jumper,58,61
+7:43,Butler,Kamar Baldwin,Missed Jumper,58,61
+7:40,Indiana,Juwan Morgan,Defensive Rebound,58,61
+7:19,Indiana,Aljami Durham,Missed Three Point Jumper,58,61
+7:14,Butler,Sean McDermott,Defensive Rebound,58,61
+6:56,Butler,Paul Jorgensen,Foul,58,61
+6:56,Butler,Paul Jorgensen,Turnover,58,61
+6:56,Butler,None,None,58,61
+6:43,Indiana,Romeo Langford,Layup,60,61
+6:27,Indiana,Romeo Langford,Foul,60,61
+6:07,Butler,Joey Brunk,Missed Jumper,60,61
+6:04,Indiana,Justin Smith,Defensive Rebound,60,61
+5:54,Indiana,Justin Smith,Missed Jumper,60,61
+5:52,Butler,Joey Brunk,Defensive Rebound,60,61
+5:41,Butler,Kamar Baldwin,Turnover,60,61
+5:41,Indiana,Rob Phinisee,Steal,60,61
+5:22,Indiana,Justin Smith,Foul,60,61
+5:22,Indiana,Justin Smith,Turnover,60,61
+5:01,Butler,Kamar Baldwin,Missed Jumper,60,61
+4:58,Indiana,Devonte Green,Defensive Rebound,60,61
+4:31,Indiana,Rob Phinisee,Missed Three Point Jumper,60,61
+4:26,Indiana,Justin Smith,Missed Layup,60,61
+4:26,Indiana,Justin Smith,Offensive Rebound,60,61
+4:25,Butler,Kamar Baldwin,Defensive Rebound,60,61
+4:19,Butler,Sean McDermott,Three Point Jumper,60,64
+4:07,Butler,Nate Fowler,Foul,60,64
+4:06,Butler,Nate Fowler,Foul,60,64
+4:06,Indiana,Juwan Morgan,Free Throw,61,64
+4:06,Indiana,Juwan Morgan,Free Throw,62,64
+3:56,Butler,Aaron Thompson,Turnover,62,64
+3:56,Indiana,Juwan Morgan,Steal,62,64
+3:54,Butler,Aaron Thompson,Foul,62,64
+3:54,Butler,None,None,62,64
+3:54,Indiana,Juwan Morgan,Free Throw,63,64
+3:54,Indiana,Juwan Morgan,Free Throw,64,64
+3:33,Butler,Kamar Baldwin,Missed Jumper,64,64
+3:28,Butler,Joey Brunk,Offensive Rebound,64,64
+3:28,Butler,Joey Brunk,Missed Layup,64,64
+3:27,Indiana,Rob Phinisee,Defensive Rebound,64,64
+3:05,Indiana,Juwan Morgan,Layup,66,64
+2:43,Butler,Aaron Thompson,Missed Jumper,66,64
+2:39,Indiana,Rob Phinisee,Defensive Rebound,66,64
+2:13,Indiana,Zach McRoberts,Missed Three Point Jumper,66,64
+2:09,Butler,Butler,Defensive Rebound,66,64
+1:48,Butler,Kamar Baldwin,Layup,66,66
+1:27,Indiana,Romeo Langford,Missed Three Point Jumper,66,66
+1:24,Butler,Butler,Defensive Rebound,66,66
+1:04,Butler,Kamar Baldwin,Missed Jumper,66,66
+1:03,Indiana,Indiana,Defensive Rebound,66,66
+0:59,Indiana,None,None,66,66
+0:39,Indiana,Justin Smith,Dunk,68,66
+0:34,Butler,None,None,68,66
+0:23,Butler,Kamar Baldwin,Jumper,68,68
+0:18,Indiana,None,None,68,68
+0:00,Indiana,Rob Phinisee,Three Point Jumper,71,68
+0:00,Butler,None,None,68,68
+0:00,Butler,None,None,71,68

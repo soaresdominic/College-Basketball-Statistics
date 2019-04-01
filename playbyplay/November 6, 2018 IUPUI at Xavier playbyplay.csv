@@ -1,0 +1,365 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:50,Xavier,Tyrique Jones,Dunk,0,2
+19:25,Xavier,Tyrique Jones,Foul,0,2
+19:13,IUPUI,Ahmed Ismail,Foul,0,2
+19:13,IUPUI,Ahmed Ismail,Turnover,0,2
+18:54,Xavier,Naji Marshall,Missed Three Point Jumper,0,2
+18:54,IUPUI,Ahmed Ismail,Defensive Rebound,0,2
+18:44,IUPUI,Camron Justice,Missed Layup,0,2
+18:44,Xavier,Paul Scruggs,Defensive Rebound,0,2
+18:32,Xavier,Paul Scruggs,Jumper,0,4
+18:19,IUPUI,Grant Weatherford,Turnover,0,4
+18:03,Xavier,Tyrique Jones,Missed Layup,0,4
+18:03,IUPUI,Ahmed Ismail,Defensive Rebound,0,4
+17:53,IUPUI,Grant Weatherford,Missed Three Point Jumper,0,4
+17:53,Xavier,Kyle Castlin,Defensive Rebound,0,4
+17:43,Xavier,Paul Scruggs,Turnover,0,4
+17:33,IUPUI,Camron Justice,Missed Three Point Jumper,0,4
+17:33,Xavier,Paul Scruggs,Defensive Rebound,0,4
+17:27,IUPUI,Ahmed Ismail,Foul,0,4
+17:27,Xavier,Zach Hankins,Free Throw,0,5
+17:27,Xavier,Zach Hankins,Missed Free Throw,0,5
+17:27,IUPUI,Camron Justice,Defensive Rebound,0,5
+17:21,IUPUI,Camron Justice,Turnover,0,5
+17:20,Xavier,Paul Scruggs,Steal,0,5
+17:15,Xavier,Paul Scruggs,Turnover,0,5
+17:14,IUPUI,Camron Justice,Steal,0,5
+17:12,IUPUI,Camron Justice,Turnover,0,5
+17:10,Xavier,Zach Hankins,Steal,0,5
+17:03,Xavier,Naji Marshall,Layup,0,7
+17:01,IUPUI,None,None,0,7
+16:39,IUPUI,D.J. McCall,Missed Jumper,0,7
+16:39,Xavier,Paul Scruggs,Defensive Rebound,0,7
+16:31,Xavier,Zach Hankins,Missed Dunk,0,7
+16:31,IUPUI,Elyjah Goss,Block,0,7
+16:29,IUPUI,Brandon Kenyon,Defensive Rebound,0,7
+16:20,IUPUI,Brandon Kenyon,Missed Layup,0,7
+16:20,Xavier,Zach Hankins,Block,0,7
+16:18,IUPUI,IUPUI,Offensive Rebound,0,7
+16:14,IUPUI,Jaylen Minnett,Missed Three Point Jumper,0,7
+16:14,IUPUI,D.J. McCall,Offensive Rebound,0,7
+16:10,IUPUI,None,None,0,7
+16:10,Xavier,Kyle Castlin,Defensive Rebound,0,7
+16:02,Xavier,Paul Scruggs,Three Point Jumper,0,10
+15:47,Xavier,Kyle Castlin,Foul,0,10
+15:47,Xavier,None,None,0,10
+15:44,IUPUI,Camron Justice,Missed Three Point Jumper,0,10
+15:44,Xavier,Zach Hankins,Defensive Rebound,0,10
+15:36,Xavier,Elias Harden,Missed Three Point Jumper,0,10
+15:36,IUPUI,Elyjah Goss,Defensive Rebound,0,10
+15:20,Xavier,Elias Harden,Foul,0,10
+15:20,IUPUI,Camron Justice,Free Throw,1,10
+15:20,IUPUI,Camron Justice,Free Throw,2,10
+14:59,Xavier,Naji Marshall,Turnover,2,10
+14:57,IUPUI,Elyjah Goss,Steal,2,10
+14:53,IUPUI,Camron Justice,Three Point Jumper,5,10
+14:45,Xavier,Ryan Welage,Missed Three Point Jumper,5,10
+14:45,IUPUI,Camron Justice,Defensive Rebound,5,10
+14:38,IUPUI,Jaylen Minnett,Missed Three Point Jumper,5,10
+14:38,Xavier,Elias Harden,Defensive Rebound,5,10
+14:28,Xavier,Ryan Welage,Missed Three Point Jumper,5,10
+14:28,IUPUI,Jaylen Minnett,Defensive Rebound,5,10
+14:14,IUPUI,Camron Justice,Turnover,5,10
+14:04,IUPUI,Brandon Kenyon,Foul,5,10
+14:02,IUPUI,Jaylen Minnett,Foul,5,10
+13:54,Xavier,Tyrique Jones,Dunk,5,12
+13:33,IUPUI,Jaylen Minnett,Jumper,7,12
+13:12,IUPUI,Grant Weatherford,Foul,7,12
+13:05,IUPUI,Jack Hansen,Foul,7,12
+13:03,Xavier,Dontarius James,Missed Jumper,7,12
+13:03,IUPUI,Nick Rogers,Defensive Rebound,7,12
+12:58,IUPUI,Jack Hansen,Three Point Jumper,10,12
+12:40,Xavier,Elias Harden,Three Point Jumper,10,15
+12:28,Xavier,Elias Harden,Foul,10,15
+12:20,IUPUI,Jack Hansen,Missed Three Point Jumper,10,15
+12:20,IUPUI,Ahmed Ismail,Offensive Rebound,10,15
+12:14,IUPUI,Jaylen Minnett,Missed Jumper,10,15
+12:14,Xavier,Naji Marshall,Defensive Rebound,10,15
+12:11,IUPUI,Grant Weatherford,Foul,10,15
+12:11,Xavier,Naji Marshall,Free Throw,10,16
+12:11,Xavier,Naji Marshall,Free Throw,10,17
+12:06,IUPUI,Nick Rogers,Turnover,10,17
+12:05,Xavier,Tyrique Jones,Steal,10,17
+12:03,Xavier,Tyrique Jones,Dunk,10,19
+11:47,IUPUI,Jack Hansen,Missed Three Point Jumper,10,19
+11:47,Xavier,Naji Marshall,Defensive Rebound,10,19
+11:39,Xavier,Naji Marshall,Missed Jumper,10,19
+11:39,Xavier,Kyle Castlin,Offensive Rebound,10,19
+11:33,IUPUI,Camron Justice,Foul,10,19
+11:33,Xavier,None,None,10,19
+11:33,Xavier,Naji Marshall,Missed Free Throw,10,19
+11:33,IUPUI,Ahmed Ismail,Defensive Rebound,10,19
+11:21,IUPUI,Jaylen Minnett,Turnover,10,19
+11:20,Xavier,Tyrique Jones,Steal,10,19
+11:18,Xavier,Tyrique Jones,Dunk,10,21
+11:00,Xavier,Paul Scruggs,Foul,10,21
+11:00,IUPUI,Camron Justice,Free Throw,11,21
+11:00,IUPUI,Camron Justice,Free Throw,12,21
+10:49,Xavier,Keonte Kennedy,Foul,12,21
+10:49,Xavier,Keonte Kennedy,Turnover,12,21
+10:23,IUPUI,Jaylen Minnett,Three Point Jumper,15,21
+10:04,Xavier,Tyrique Jones,Missed Jumper,15,21
+10:04,IUPUI,Ahmed Ismail,Defensive Rebound,15,21
+9:57,IUPUI,Camron Justice,Missed Three Point Jumper,15,21
+9:57,Xavier,Paul Scruggs,Defensive Rebound,15,21
+9:45,Xavier,Tyrique Jones,Layup,15,23
+9:31,IUPUI,Ahmed Ismail,Foul,15,23
+9:31,IUPUI,Ahmed Ismail,Turnover,15,23
+9:15,IUPUI,Jaylen Minnett,Foul,15,23
+9:15,Xavier,Naji Marshall,Free Throw,15,24
+9:15,Xavier,Naji Marshall,Free Throw,15,25
+8:59,Xavier,Naji Marshall,Foul,15,25
+8:59,IUPUI,Camron Justice,Free Throw,16,25
+8:59,IUPUI,Camron Justice,Free Throw,17,25
+8:35,Xavier,Ryan Welage,Missed Three Point Jumper,17,25
+8:35,Xavier,Zach Hankins,Offensive Rebound,17,25
+8:28,Xavier,Ryan Welage,Missed Three Point Jumper,17,25
+8:28,IUPUI,Camron Justice,Defensive Rebound,17,25
+8:26,Xavier,Paul Scruggs,Foul,17,25
+8:26,IUPUI,Camron Justice,Missed Free Throw,17,25
+8:26,Xavier,Zach Hankins,Defensive Rebound,17,25
+8:14,Xavier,Kyle Castlin,Missed Layup,17,25
+8:14,Xavier,Kyle Castlin,Offensive Rebound,17,25
+8:11,Xavier,None,None,17,27
+7:51,IUPUI,Elyjah Goss,Missed Three Point Jumper,17,27
+7:51,Xavier,Xavier,Defensive Rebound,17,27
+7:48,Xavier,None,None,17,27
+7:34,Xavier,Zach Hankins,Dunk,17,29
+7:03,IUPUI,D.J. McCall,Missed Three Point Jumper,17,29
+7:03,Xavier,Kyle Castlin,Defensive Rebound,17,29
+6:50,Xavier,Elias Harden,Layup,17,31
+6:31,IUPUI,Camron Justice,Missed Jumper,17,31
+6:31,Xavier,Zach Hankins,Block,17,31
+6:30,Xavier,Kyle Castlin,Defensive Rebound,17,31
+6:29,IUPUI,Camron Justice,Foul,17,31
+6:29,IUPUI,Camron Justice,Foul,17,31
+6:29,Xavier,Zach Hankins,Missed Free Throw,17,31
+6:29,Xavier,None,Team Rebound,17,31
+6:29,Xavier,Zach Hankins,Free Throw,17,32
+6:04,Xavier,Naji Marshall,Missed Three Point Jumper,17,32
+6:04,IUPUI,Jack Hansen,Defensive Rebound,17,32
+5:44,IUPUI,Jack Hansen,Missed Three Point Jumper,17,32
+5:44,Xavier,Kyle Castlin,Defensive Rebound,17,32
+5:34,Xavier,Ryan Welage,Three Point Jumper,17,35
+5:20,IUPUI,Jaylen Minnett,Three Point Jumper,20,35
+4:56,Xavier,Zach Hankins,Foul,20,35
+4:56,Xavier,Zach Hankins,Turnover,20,35
+4:39,IUPUI,Brandon Kenyon,Missed Jumper,20,35
+4:39,IUPUI,D.J. McCall,Offensive Rebound,20,35
+4:35,IUPUI,D.J. McCall,Missed Layup,20,35
+4:35,Xavier,Ryan Welage,Defensive Rebound,20,35
+4:12,Xavier,Naji Marshall,Turnover,20,35
+4:03,Xavier,Tyrique Jones,Foul,20,35
+4:03,IUPUI,Brandon Kenyon,Free Throw,21,35
+4:03,IUPUI,Brandon Kenyon,Free Throw,22,35
+3:45,Xavier,Zach Hankins,Dunk,22,37
+3:24,Xavier,None,None,24,37
+3:24,IUPUI,Brandon Kenyon,Layup,24,37
+3:24,Xavier,Ryan Welage,Foul,24,37
+3:24,Xavier,None,None,24,37
+3:24,IUPUI,Brandon Kenyon,Free Throw,25,37
+3:23,Xavier,Keonte Kennedy,Turnover,25,37
+3:21,IUPUI,Grant Weatherford,Steal,25,37
+3:18,Xavier,Zach Hankins,Foul,25,37
+3:18,IUPUI,Jaylen Minnett,Free Throw,26,37
+3:18,IUPUI,Jaylen Minnett,Free Throw,27,37
+3:07,Xavier,Zach Hankins,Missed Jumper,27,37
+3:07,IUPUI,Grant Weatherford,Defensive Rebound,27,37
+2:51,IUPUI,Brandon Kenyon,Missed Three Point Jumper,27,37
+2:51,Xavier,Xavier,Defensive Rebound,27,37
+2:34,Xavier,Keonte Kennedy,Missed Three Point Jumper,27,37
+2:34,IUPUI,Jack Hansen,Defensive Rebound,27,37
+2:25,IUPUI,D.J. McCall,Dunk,29,37
+2:03,Xavier,Naji Marshall,Missed Jumper,29,37
+2:03,IUPUI,Elyjah Goss,Block,29,37
+2:01,IUPUI,Grant Weatherford,Defensive Rebound,29,37
+1:54,IUPUI,Jaylen Minnett,Three Point Jumper,32,37
+1:52,Xavier,None,None,32,37
+1:31,Xavier,Dontarius James,Turnover,32,37
+1:19,IUPUI,D.J. McCall,Missed Dunk,32,37
+1:19,Xavier,Paul Scruggs,Defensive Rebound,32,37
+1:10,Xavier,Kyle Castlin,Turnover,32,37
+0:50,IUPUI,Jaylen Minnett,Missed Jumper,32,37
+0:50,IUPUI,Elyjah Goss,Offensive Rebound,32,37
+0:45,IUPUI,None,None,32,37
+0:45,Xavier,Zach Hankins,Defensive Rebound,32,37
+0:31,Xavier,Keonte Kennedy,Missed Three Point Jumper,32,37
+0:31,Xavier,Zach Hankins,Offensive Rebound,32,37
+0:29,IUPUI,Grant Weatherford,Foul,32,37
+0:29,Xavier,Zach Hankins,Missed Free Throw,32,37
+0:29,Xavier,None,Team Rebound,32,37
+0:29,Xavier,Zach Hankins,Missed Free Throw,32,37
+0:29,IUPUI,Elyjah Goss,Defensive Rebound,32,37
+0:28,Xavier,Paul Scruggs,Foul,32,37
+0:28,IUPUI,Elyjah Goss,Missed Free Throw,32,37
+0:28,IUPUI,None,Team Rebound,32,37
+0:28,IUPUI,Elyjah Goss,Missed Free Throw,32,37
+0:28,IUPUI,Jack Hansen,Offensive Rebound,32,37
+0:25,Xavier,Elias Harden,Foul,32,37
+0:25,IUPUI,Jack Hansen,Free Throw,33,37
+0:25,IUPUI,Jack Hansen,Free Throw,34,37
+0:01,Xavier,Naji Marshall,Missed Three Point Jumper,34,37
+0:01,IUPUI,Elyjah Goss,Defensive Rebound,34,37
+0:00,Xavier,None,None,34,37
+19:47,IUPUI,Jaylen Minnett,Three Point Jumper,37,37
+19:20,Xavier,Kyle Castlin,Three Point Jumper,37,40
+18:58,IUPUI,Elyjah Goss,Dunk,39,40
+18:35,Xavier,Naji Marshall,Missed Three Point Jumper,39,40
+18:35,IUPUI,D.J. McCall,Defensive Rebound,39,40
+18:26,IUPUI,Jaylen Minnett,Three Point Jumper,42,40
+18:12,Xavier,Elias Harden,Turnover,42,40
+18:11,IUPUI,Jaylen Minnett,Steal,42,40
+18:07,IUPUI,Grant Weatherford,Missed Jumper,42,40
+18:07,Xavier,Tyrique Jones,Defensive Rebound,42,40
+17:57,Xavier,Kyle Castlin,Layup,42,42
+17:37,IUPUI,Elyjah Goss,Layup,44,42
+17:14,Xavier,Ryan Welage,Three Point Jumper,44,45
+16:44,Xavier,Naji Marshall,Foul,44,45
+16:30,IUPUI,Jaylen Minnett,Missed Three Point Jumper,44,45
+16:30,Xavier,Tyrique Jones,Defensive Rebound,44,45
+16:28,IUPUI,D.J. McCall,Foul,44,45
+16:06,IUPUI,Brandon Kenyon,Foul,44,45
+16:06,Xavier,Kyle Castlin,Free Throw,44,46
+16:06,Xavier,Kyle Castlin,Free Throw,44,47
+15:53,Xavier,Tyrique Jones,Foul,44,47
+15:53,Xavier,None,None,44,47
+15:53,IUPUI,Grant Weatherford,Free Throw,45,47
+15:53,IUPUI,Grant Weatherford,Free Throw,46,47
+15:28,Xavier,Zach Hankins,Missed Layup,46,47
+15:28,IUPUI,Elyjah Goss,Defensive Rebound,46,47
+15:06,IUPUI,Grant Weatherford,Missed Layup,46,47
+15:06,Xavier,Zach Hankins,Block,46,47
+15:04,IUPUI,Elyjah Goss,Offensive Rebound,46,47
+15:03,IUPUI,Elyjah Goss,Missed Layup,46,47
+15:03,Xavier,Zach Hankins,Block,46,47
+15:02,Xavier,Zach Hankins,Defensive Rebound,46,47
+14:52,Xavier,Ryan Welage,Three Point Jumper,46,50
+14:33,IUPUI,Grant Weatherford,Layup,48,50
+14:09,Xavier,Ryan Welage,Three Point Jumper,48,53
+13:46,IUPUI,Jack Hansen,Layup,50,53
+13:23,Xavier,Zach Hankins,Missed Layup,50,53
+13:23,Xavier,Zach Hankins,Offensive Rebound,50,53
+13:21,IUPUI,Jack Hansen,Foul,50,53
+13:20,Xavier,Ryan Welage,Jumper,50,55
+13:06,IUPUI,Jack Hansen,Missed Jumper,50,55
+13:06,Xavier,Ryan Welage,Defensive Rebound,50,55
+12:54,Xavier,Ryan Welage,Missed Jumper,50,55
+12:54,Xavier,Ryan Welage,Offensive Rebound,50,55
+12:51,Xavier,Ryan Welage,Layup,50,57
+12:51,IUPUI,None,None,50,57
+12:37,IUPUI,Grant Weatherford,Jumper,52,57
+12:15,Xavier,Ryan Welage,Missed Three Point Jumper,52,57
+12:15,IUPUI,Nick Rogers,Defensive Rebound,52,57
+12:08,IUPUI,Grant Weatherford,Layup,54,57
+11:50,Xavier,Kyle Castlin,Missed Three Point Jumper,54,57
+11:50,Xavier,Naji Marshall,Offensive Rebound,54,57
+11:45,Xavier,Zach Hankins,Missed Layup,54,57
+11:45,IUPUI,Jack Hansen,Block,54,57
+11:44,IUPUI,Jack Hansen,Defensive Rebound,54,57
+11:42,Xavier,None,None,54,57
+11:30,IUPUI,Jaylen Minnett,Missed Three Point Jumper,54,57
+11:30,Xavier,Xavier,Defensive Rebound,54,57
+11:09,Xavier,Ryan Welage,Three Point Jumper,54,60
+10:48,IUPUI,Nick Rogers,Three Point Jumper,57,60
+10:29,Xavier,Ryan Welage,Jumper,57,62
+10:04,IUPUI,Nick Rogers,Turnover,57,62
+10:03,Xavier,Paul Scruggs,Steal,57,62
+9:59,IUPUI,Ahmed Ismail,Foul,57,62
+9:59,Xavier,Naji Marshall,Missed Free Throw,57,62
+9:59,Xavier,None,Team Rebound,57,62
+9:59,Xavier,Naji Marshall,Free Throw,57,63
+9:50,IUPUI,Brandon Kenyon,Jumper,59,63
+9:33,Xavier,Ryan Welage,Missed Three Point Jumper,59,63
+9:33,Xavier,Tyrique Jones,Offensive Rebound,59,63
+9:31,IUPUI,Brandon Kenyon,Foul,59,63
+9:28,Xavier,Naji Marshall,Turnover,59,63
+9:08,IUPUI,Grant Weatherford,Missed Jumper,59,63
+9:08,Xavier,Ryan Welage,Defensive Rebound,59,63
+8:48,Xavier,Paul Scruggs,Missed Three Point Jumper,59,63
+8:48,Xavier,Tyrique Jones,Offensive Rebound,59,63
+8:46,IUPUI,Brandon Kenyon,Foul,59,63
+8:39,Xavier,Ryan Welage,Missed Three Point Jumper,59,63
+8:39,Xavier,Paul Scruggs,Offensive Rebound,59,63
+8:34,IUPUI,Nick Rogers,Foul,59,63
+8:34,Xavier,Paul Scruggs,Missed Free Throw,59,63
+8:34,Xavier,Tyrique Jones,Offensive Rebound,59,63
+8:27,Xavier,Ryan Welage,Three Point Jumper,59,66
+8:08,IUPUI,Grant Weatherford,Turnover,59,66
+8:07,Xavier,Tyrique Jones,Steal,59,66
+7:49,Xavier,Paul Scruggs,Foul,59,66
+7:49,Xavier,Paul Scruggs,Turnover,59,66
+7:49,Xavier,None,None,59,66
+7:40,IUPUI,Brandon Kenyon,Foul,59,66
+7:40,IUPUI,Brandon Kenyon,Turnover,59,66
+7:22,Xavier,Tyrique Jones,Dunk,59,68
+6:50,IUPUI,Elyjah Goss,Turnover,59,68
+6:50,Xavier,Tyrique Jones,Steal,59,68
+6:50,Xavier,None,None,59,68
+6:37,Xavier,Tyrique Jones,Missed Jumper,59,68
+6:37,IUPUI,Elyjah Goss,Defensive Rebound,59,68
+6:27,IUPUI,Jaylen Minnett,Missed Three Point Jumper,59,68
+6:27,Xavier,Kyle Castlin,Defensive Rebound,59,68
+6:03,Xavier,Elias Harden,Missed Three Point Jumper,59,68
+6:03,IUPUI,Jaylen Minnett,Defensive Rebound,59,68
+5:56,Xavier,Keonte Kennedy,Foul,59,68
+5:56,IUPUI,Jaylen Minnett,Free Throw,60,68
+5:56,IUPUI,Jaylen Minnett,Free Throw,61,68
+5:41,Xavier,Naji Marshall,Missed Jumper,61,68
+5:41,Xavier,Tyrique Jones,Offensive Rebound,61,68
+5:27,Xavier,Tyrique Jones,Layup,61,70
+5:17,IUPUI,Jaylen Minnett,Missed Three Point Jumper,61,70
+5:17,Xavier,Keonte Kennedy,Defensive Rebound,61,70
+5:07,Xavier,Keonte Kennedy,Missed Jumper,61,70
+5:07,Xavier,Naji Marshall,Offensive Rebound,61,70
+4:53,Xavier,Naji Marshall,Missed Three Point Jumper,61,70
+4:53,IUPUI,Elyjah Goss,Defensive Rebound,61,70
+4:35,IUPUI,Grant Weatherford,Turnover,61,70
+4:34,Xavier,Naji Marshall,Steal,61,70
+4:30,Xavier,Keonte Kennedy,Dunk,61,72
+4:28,IUPUI,None,None,61,72
+4:28,Xavier,None,None,61,72
+4:14,IUPUI,Jack Hansen,Missed Three Point Jumper,61,72
+4:14,Xavier,Ryan Welage,Defensive Rebound,61,72
+3:58,Xavier,Naji Marshall,Layup,61,74
+3:50,IUPUI,Nick Rogers,Turnover,61,74
+3:49,Xavier,Keonte Kennedy,Steal,61,74
+3:47,IUPUI,Nick Rogers,Foul,61,74
+3:47,Xavier,Elias Harden,Free Throw,61,75
+3:47,Xavier,Elias Harden,Missed Free Throw,61,75
+3:47,IUPUI,Ahmed Ismail,Defensive Rebound,61,75
+3:33,IUPUI,Jaylen Minnett,Turnover,61,75
+3:32,Xavier,Ryan Welage,Steal,61,75
+3:28,Xavier,Tyrique Jones,Dunk,61,77
+3:28,IUPUI,Nick Rogers,Foul,61,77
+3:28,Xavier,Tyrique Jones,Free Throw,61,78
+3:15,IUPUI,Jack Hansen,Three Point Jumper,64,78
+2:42,Xavier,Naji Marshall,Jumper,64,80
+2:27,Xavier,Tyrique Jones,Foul,64,80
+2:27,IUPUI,Ahmed Ismail,Missed Free Throw,64,80
+2:27,IUPUI,None,Team Rebound,64,80
+2:27,IUPUI,Ahmed Ismail,Free Throw,65,80
+2:08,Xavier,Naji Marshall,Jumper,65,82
+1:45,Xavier,Tyrique Jones,Foul,65,82
+1:45,IUPUI,Ahmed Ismail,Free Throw,66,82
+1:45,IUPUI,Ahmed Ismail,Free Throw,67,82
+1:22,Xavier,Naji Marshall,Missed Three Point Jumper,67,82
+1:22,IUPUI,Jaylen Minnett,Defensive Rebound,67,82
+1:12,IUPUI,D.J. McCall,Missed Layup,67,82
+1:12,Xavier,Zach Hankins,Block,67,82
+1:11,IUPUI,D.J. McCall,Offensive Rebound,67,82
+1:10,IUPUI,D.J. McCall,Layup,69,82
+0:58,Xavier,Paul Scruggs,Foul,69,82
+0:58,Xavier,Paul Scruggs,Turnover,69,82
+0:44,IUPUI,Jaylen Minnett,Missed Three Point Jumper,69,82
+0:44,IUPUI,D.J. McCall,Offensive Rebound,69,82
+0:42,Xavier,Naji Marshall,Foul,69,82
+0:42,IUPUI,D.J. McCall,Missed Free Throw,69,82
+0:42,IUPUI,None,Team Rebound,69,82
+0:42,IUPUI,D.J. McCall,Missed Free Throw,69,82
+0:42,Xavier,Ryan Welage,Defensive Rebound,69,82
+0:19,Xavier,Dontarius James,Missed Three Point Jumper,69,82
+0:19,IUPUI,Nick Rogers,Defensive Rebound,69,82
+0:12,IUPUI,Nick Rogers,Missed Layup,69,82
+0:12,Xavier,Ryan Welage,Block,69,82
+0:11,Xavier,Ryan Welage,Defensive Rebound,69,82
+0:00,Xavier,None,None,69,82

@@ -1,0 +1,338 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:47,Marist,David Knudsen,Missed Three Point Jumper,0,0
+19:47,Iona,Rickey McGill,Defensive Rebound,0,0
+19:25,Iona,Rickey McGill,Turnover,0,0
+19:24,Marist,Darius Hines,Steal,0,0
+18:59,Marist,Brian Parker,Jumper,0,2
+18:38,Iona,Andrija Ristanovic,Jumper,2,2
+18:09,Iona,Andrija Ristanovic,Foul,2,2
+18:09,Marist,Isaiah Lamb,Free Throw,2,3
+18:09,Marist,Isaiah Lamb,Free Throw,2,4
+17:46,Iona,Jahnathan Maxwell,Missed Three Point Jumper,2,4
+17:46,Iona,Andrija Ristanovic,Offensive Rebound,2,4
+17:33,Marist,Tobias Sjoberg,Foul,2,4
+17:20,Iona,E.J. Crawford,Layup,4,4
+17:00,Marist,Tobias Sjoberg,Turnover,4,4
+17:00,Iona,Ben Perez,Steal,4,4
+16:48,Iona,Ben Perez,Missed Three Point Jumper,4,4
+16:48,Iona,Jahnathan Maxwell,Offensive Rebound,4,4
+16:41,Iona,Andrija Ristanovic,Three Point Jumper,7,4
+16:21,Marist,Darius Hines,Three Point Jumper,7,7
+16:00,Iona,Ben Perez,Three Point Jumper,10,7
+15:47,Marist,David Knudsen,Three Point Jumper,10,10
+15:37,Iona,Jahnathan Maxwell,Missed Three Point Jumper,10,10
+15:37,Marist,David Knudsen,Defensive Rebound,10,10
+15:23,Marist,Brian Parker,Layup,10,12
+15:12,Iona,Rickey McGill,Jumper,12,12
+14:51,Marist,Darius Hines,Three Point Jumper,12,15
+14:37,Iona,Rickey McGill,Turnover,12,15
+14:37,Marist,None,None,12,15
+14:10,Marist,Aleksandar Dozic,Turnover,12,15
+14:09,Iona,Ben Perez,Steal,12,15
+13:49,Iona,Tajuan Agee,Three Point Jumper,15,15
+13:33,Marist,Isaiah Lamb,Three Point Jumper,15,18
+13:24,Iona,Asante Gist,Missed Three Point Jumper,15,18
+13:24,Marist,Isaiah Lamb,Defensive Rebound,15,18
+13:07,Marist,Isaiah Lamb,Missed Three Point Jumper,15,18
+13:07,Iona,Ben Perez,Defensive Rebound,15,18
+12:58,Iona,E.J. Crawford,Foul,15,18
+12:58,Iona,E.J. Crawford,Turnover,15,18
+12:47,Iona,Ben Perez,Foul,15,18
+12:47,Marist,Matthew Herasme,Free Throw,15,19
+12:47,Marist,Matthew Herasme,Free Throw,15,20
+12:35,Iona,Tajuan Agee,Missed Three Point Jumper,15,20
+12:35,Iona,Ben Perez,Offensive Rebound,15,20
+12:33,Marist,Darius Hines,Foul,15,20
+12:19,Iona,E.J. Crawford,Missed Three Point Jumper,15,20
+12:19,Marist,Austin Williams,Defensive Rebound,15,20
+11:56,Marist,Aleksandar Dozic,Missed Jumper,15,20
+11:56,Marist,Austin Williams,Offensive Rebound,15,20
+11:53,Marist,None,None,15,22
+11:33,Iona,Asante Gist,Three Point Jumper,18,22
+11:31,Marist,None,None,18,22
+11:13,Marist,Aleksandar Dozic,Layup,18,24
+10:59,Iona,Rickey McGill,Three Point Jumper,21,24
+10:40,Marist,Austin Williams,Missed Layup,21,24
+10:40,Iona,Jahnathan Maxwell,Defensive Rebound,21,24
+10:31,Marist,Matthew Herasme,Foul,21,24
+10:23,Iona,E.J. Crawford,Layup,23,24
+10:10,Marist,David Knudsen,Missed Three Point Jumper,23,24
+10:10,Marist,Ryan Funk,Offensive Rebound,23,24
+10:06,Marist,Ryan Funk,Layup,23,26
+9:50,Iona,E.J. Crawford,Missed Layup,23,26
+9:50,Marist,Aleksandar Dozic,Block,23,26
+9:49,Marist,Austin Williams,Defensive Rebound,23,26
+9:27,Marist,Austin Williams,Missed Layup,23,26
+9:27,Iona,Rickey McGill,Block,23,26
+9:25,Marist,Matthew Herasme,Offensive Rebound,23,26
+9:24,Marist,Matthew Herasme,Missed Layup,23,26
+9:24,Iona,E.J. Crawford,Defensive Rebound,23,26
+8:56,Iona,Rickey McGill,Missed Three Point Jumper,23,26
+8:56,Marist,David Knudsen,Defensive Rebound,23,26
+8:43,Marist,David Knudsen,Three Point Jumper,23,29
+8:26,Iona,Rickey McGill,Turnover,23,29
+8:06,Marist,Brian Parker,Missed Layup,23,29
+8:06,Iona,E.J. Crawford,Block,23,29
+8:06,Marist,Marist,Offensive Rebound,23,29
+8:05,Marist,Luke Nedrow,Missed Layup,23,29
+8:05,Iona,Asante Gist,Defensive Rebound,23,29
+7:43,Iona,Jahnathan Maxwell,Missed Three Point Jumper,23,29
+7:43,Marist,Isaiah Lamb,Defensive Rebound,23,29
+7:30,Marist,Brian Parker,Turnover,23,29
+7:30,Marist,None,None,23,29
+7:09,Marist,Luke Nedrow,Foul,23,29
+7:09,Iona,Tajuan Agee,Missed Free Throw,23,29
+7:09,Iona,None,Team Rebound,23,29
+7:09,Iona,Tajuan Agee,Free Throw,24,29
+6:45,Marist,Brian Parker,Three Point Jumper,24,32
+6:22,Iona,Tajuan Agee,Missed Jumper,24,32
+6:22,Iona,E.J. Crawford,Offensive Rebound,24,32
+6:17,Iona,Tajuan Agee,Missed Layup,24,32
+6:17,Marist,Tobias Sjoberg,Defensive Rebound,24,32
+5:59,Marist,Tobias Sjoberg,Foul,24,32
+5:59,Marist,Tobias Sjoberg,Turnover,24,32
+5:48,Iona,Asante Gist,Turnover,24,32
+5:48,Marist,David Knudsen,Steal,24,32
+5:27,Marist,Austin Williams,Missed Three Point Jumper,24,32
+5:27,Iona,Rickey McGill,Defensive Rebound,24,32
+5:22,Iona,Asante Gist,Missed Three Point Jumper,24,32
+5:22,Marist,Austin Williams,Defensive Rebound,24,32
+5:09,Marist,Aleksandar Dozic,Missed Jumper,24,32
+5:09,Iona,E.J. Crawford,Defensive Rebound,24,32
+4:59,Iona,Tajuan Agee,Missed Layup,24,32
+4:59,Marist,Aleksandar Dozic,Block,24,32
+4:56,Marist,Aleksandar Dozic,Defensive Rebound,24,32
+4:52,Iona,Tajuan Agee,Foul,24,32
+4:52,Marist,Isaiah Lamb,Free Throw,24,33
+4:52,Marist,Isaiah Lamb,Free Throw,24,34
+4:36,Marist,Isaiah Lamb,Three Point Jumper,24,37
+4:20,Iona,Ben Perez,Missed Three Point Jumper,24,37
+4:20,Marist,Aleksandar Dozic,Defensive Rebound,24,37
+4:09,Marist,Isaiah Lamb,Three Point Jumper,24,40
+4:08,Iona,None,None,24,40
+3:54,Iona,Rickey McGill,Layup,26,40
+3:54,Marist,Austin Williams,Foul,26,40
+3:54,Iona,Rickey McGill,Free Throw,27,40
+3:28,Marist,David Knudsen,Missed Jumper,27,40
+3:28,Iona,Andrija Ristanovic,Defensive Rebound,27,40
+3:16,Iona,Rickey McGill,Turnover,27,40
+3:15,Marist,Aleksandar Dozic,Steal,27,40
+2:59,Marist,Aleksandar Dozic,Layup,27,42
+2:42,Iona,E.J. Crawford,Missed Layup,27,42
+2:42,Iona,E.J. Crawford,Offensive Rebound,27,42
+2:41,Iona,E.J. Crawford,Layup,29,42
+2:21,Marist,Darius Hines,Three Point Jumper,29,45
+2:14,Iona,Rickey McGill,Missed Jumper,29,45
+2:14,Marist,Isaiah Lamb,Block,29,45
+2:12,Iona,Ben Perez,Offensive Rebound,29,45
+2:01,Iona,Ben Perez,Missed Three Point Jumper,29,45
+2:01,Marist,Austin Williams,Defensive Rebound,29,45
+1:36,Marist,Aleksandar Dozic,Missed Jumper,29,45
+1:36,Iona,Andrija Ristanovic,Block,29,45
+1:35,Marist,Austin Williams,Offensive Rebound,29,45
+1:32,Marist,Isaiah Lamb,Turnover,29,45
+1:21,Iona,Rickey McGill,Missed Layup,29,45
+1:21,Iona,Rickey McGill,Offensive Rebound,29,45
+1:17,Iona,Rickey McGill,Turnover,29,45
+1:03,Marist,Brian Parker,Missed Jumper,29,45
+1:03,Marist,Aleksandar Dozic,Offensive Rebound,29,45
+0:53,Marist,Brian Parker,Missed Jumper,29,45
+0:53,Iona,Asante Gist,Defensive Rebound,29,45
+0:49,Iona,E.J. Crawford,Missed Layup,29,45
+0:49,Iona,E.J. Crawford,Offensive Rebound,29,45
+0:48,Marist,Isaiah Lamb,Foul,29,45
+0:48,Iona,E.J. Crawford,Free Throw,30,45
+0:48,Iona,E.J. Crawford,Free Throw,31,45
+0:20,Marist,Brian Parker,Missed Layup,31,45
+0:20,Iona,Andrija Ristanovic,Block,31,45
+0:20,Marist,Marist,Offensive Rebound,31,45
+0:17,Marist,Isaiah Lamb,Jumper,31,47
+0:02,Iona,Asante Gist,Three Point Jumper,34,47
+0:00,Marist,None,None,34,47
+19:50,Marist,Isaiah Lamb,Missed Three Point Jumper,34,47
+19:50,Iona,None,Team Rebound,34,47
+19:47,Marist,Tobias Sjoberg,Foul,34,47
+19:31,Iona,Asante Gist,Layup,36,47
+19:18,Marist,Brian Parker,Missed Jumper,36,47
+19:18,Marist,David Knudsen,Offensive Rebound,36,47
+19:09,Marist,Brian Parker,Missed Three Point Jumper,36,47
+19:09,Iona,Tajuan Agee,Defensive Rebound,36,47
+18:55,Marist,Darius Hines,Foul,36,47
+18:38,Iona,Asante Gist,Missed Three Point Jumper,36,47
+18:38,Marist,Tobias Sjoberg,Defensive Rebound,36,47
+18:23,Marist,Darius Hines,Missed Three Point Jumper,36,47
+18:23,Iona,Iona,Defensive Rebound,36,47
+17:55,Iona,Rickey McGill,Missed Three Point Jumper,36,47
+17:55,Iona,Rickey McGill,Offensive Rebound,36,47
+17:52,Iona,Rickey McGill,Missed Layup,36,47
+17:52,Marist,Aleksandar Dozic,Block,36,47
+17:51,Iona,Iona,Offensive Rebound,36,47
+17:42,Iona,E.J. Crawford,Layup,38,47
+17:42,Marist,Darius Hines,Foul,38,47
+17:42,Iona,E.J. Crawford,Free Throw,39,47
+17:28,Marist,Aleksandar Dozic,Three Point Jumper,39,50
+17:06,Iona,Asante Gist,Three Point Jumper,42,50
+16:52,Iona,Asante Gist,Foul,42,50
+16:49,Marist,Brian Parker,Turnover,42,50
+16:48,Iona,Rickey McGill,Steal,42,50
+16:44,Iona,E.J. Crawford,Layup,44,50
+16:23,Marist,Austin Williams,Turnover,44,50
+16:23,Marist,None,None,44,50
+16:08,Marist,Isaiah Lamb,Foul,44,50
+16:08,Iona,Rickey McGill,Missed Free Throw,44,50
+16:08,Iona,None,Team Rebound,44,50
+16:08,Iona,Rickey McGill,Free Throw,45,50
+15:44,Marist,Aleksandar Dozic,Jumper,45,52
+15:37,Iona,Rickey McGill,Missed Layup,45,52
+15:37,Marist,Aleksandar Dozic,Defensive Rebound,45,52
+15:30,Marist,Isaiah Lamb,Missed Three Point Jumper,45,52
+15:30,Iona,E.J. Crawford,Defensive Rebound,45,52
+15:16,Marist,None,None,45,52
+15:15,Marist,None,None,45,52
+15:11,Iona,E.J. Crawford,Layup,47,52
+14:54,Marist,Brian Parker,Layup,47,54
+14:45,Iona,Asante Gist,Turnover,47,54
+14:44,Marist,Matthew Herasme,Steal,47,54
+14:42,Marist,Brian Parker,Layup,47,56
+14:33,Iona,Tajuan Agee,Missed Jumper,47,56
+14:33,Marist,Matthew Herasme,Defensive Rebound,47,56
+14:18,Marist,Aleksandar Dozic,Jumper,47,58
+14:15,Iona,None,None,47,58
+14:05,Iona,Rickey McGill,Foul,47,58
+14:05,Iona,Rickey McGill,Turnover,47,58
+13:43,Marist,Matthew Herasme,Turnover,47,58
+13:21,Iona,E.J. Crawford,Three Point Jumper,50,58
+12:56,Marist,Aleksandar Dozic,Missed Three Point Jumper,50,58
+12:56,Iona,Payton Hudson,Defensive Rebound,50,58
+12:45,Iona,Andrija Ristanovic,Missed Three Point Jumper,50,58
+12:45,Iona,Ben Perez,Offensive Rebound,50,58
+12:36,Marist,Matthew Herasme,Foul,50,58
+12:34,Iona,Rickey McGill,Turnover,50,58
+12:09,Marist,Brian Parker,Missed Three Point Jumper,50,58
+12:09,Marist,Matthew Herasme,Offensive Rebound,50,58
+11:55,Marist,Matthew Herasme,Layup,50,60
+11:55,Iona,E.J. Crawford,Foul,50,60
+11:55,Marist,Matthew Herasme,Missed Free Throw,50,60
+11:55,Iona,None,Team Rebound,50,60
+11:55,Marist,Luke Nedrow,Foul,50,60
+11:31,Iona,Asante Gist,Missed Layup,50,60
+11:31,Marist,Ryan Funk,Block,50,60
+11:30,Marist,Ryan Funk,Defensive Rebound,50,60
+11:09,Iona,Asante Gist,Foul,50,60
+10:58,Iona,Payton Hudson,Foul,50,60
+10:58,Marist,Luke Nedrow,Free Throw,50,61
+10:58,Marist,Luke Nedrow,Missed Free Throw,50,61
+10:58,Iona,Rickey McGill,Defensive Rebound,50,61
+10:44,Iona,Tajuan Agee,Missed Layup,50,61
+10:44,Marist,Luke Nedrow,Defensive Rebound,50,61
+10:29,Marist,Luke Nedrow,Missed Three Point Jumper,50,61
+10:29,Iona,Rickey McGill,Defensive Rebound,50,61
+10:24,Marist,Luke Nedrow,Foul,50,61
+10:24,Iona,Tajuan Agee,Free Throw,51,61
+10:24,Iona,Tajuan Agee,Free Throw,52,61
+9:58,Marist,Brian Parker,Turnover,52,61
+9:42,Iona,E.J. Crawford,Layup,54,61
+9:27,Marist,Darius Hines,Foul,54,61
+9:27,Marist,Darius Hines,Turnover,54,61
+9:23,Iona,Rickey McGill,Missed Layup,54,61
+9:23,Marist,Austin Williams,Defensive Rebound,54,61
+9:04,Iona,Tajuan Agee,Foul,54,61
+8:54,Marist,Brian Parker,Missed Three Point Jumper,54,61
+8:54,Iona,E.J. Crawford,Defensive Rebound,54,61
+8:45,Iona,Asante Gist,Missed Three Point Jumper,54,61
+8:45,Marist,David Knudsen,Defensive Rebound,54,61
+8:32,Marist,David Knudsen,Turnover,54,61
+8:24,Iona,Asante Gist,Turnover,54,61
+8:00,Marist,Ryan Funk,Missed Jumper,54,61
+8:00,Marist,Aleksandar Dozic,Offensive Rebound,54,61
+7:58,Marist,None,None,54,63
+7:58,Iona,Tajuan Agee,Foul,54,63
+7:58,Marist,None,None,54,63
+7:58,Marist,Aleksandar Dozic,Free Throw,54,64
+7:44,Iona,Payton Hudson,Missed Three Point Jumper,54,64
+7:44,Marist,Aleksandar Dozic,Defensive Rebound,54,64
+7:32,Marist,Marist ,Turnover,54,64
+7:15,Iona,E.J. Crawford,Turnover,54,64
+7:14,Marist,Matthew Herasme,Steal,54,64
+6:54,Marist,Brian Parker,Missed Layup,54,64
+6:54,Iona,Andrija Ristanovic,Block,54,64
+6:53,Iona,E.J. Crawford,Defensive Rebound,54,64
+6:45,Iona,Rickey McGill,Turnover,54,64
+6:29,Marist,Austin Williams,Missed Layup,54,64
+6:29,Iona,Andrija Ristanovic,Defensive Rebound,54,64
+6:13,Iona,Rickey McGill,Turnover,54,64
+6:12,Marist,Ryan Funk,Steal,54,64
+6:01,Marist,Aleksandar Dozic,Missed Jumper,54,64
+6:01,Marist,Aleksandar Dozic,Offensive Rebound,54,64
+5:58,Marist,None,None,54,64
+5:58,Iona,Rickey McGill,Defensive Rebound,54,64
+5:38,Iona,Ben Perez,Three Point Jumper,57,64
+5:22,Marist,Aleksandar Dozic,Turnover,57,64
+5:20,Iona,Ben Perez,Steal,57,64
+5:13,Iona,E.J. Crawford,Layup,59,64
+5:12,Marist,None,None,59,64
+4:52,Marist,Ryan Funk,Three Point Jumper,59,67
+4:37,Iona,Asante Gist,Missed Three Point Jumper,59,67
+4:37,Marist,Aleksandar Dozic,Defensive Rebound,59,67
+4:03,Marist,Darius Hines,Missed Three Point Jumper,59,67
+4:03,Marist,Darius Hines,Offensive Rebound,59,67
+3:59,Marist,Darius Hines,Missed Jumper,59,67
+3:59,Iona,Tajuan Agee,Defensive Rebound,59,67
+3:52,Marist,Ryan Funk,Foul,59,67
+3:52,Marist,None,None,59,67
+3:52,Iona,Rickey McGill,Free Throw,60,67
+3:52,Iona,Rickey McGill,Free Throw,61,67
+3:37,Marist,Aleksandar Dozic,Turnover,61,67
+3:21,Marist,Aleksandar Dozic,Foul,61,67
+3:21,Iona,Rickey McGill,Missed Free Throw,61,67
+3:21,Iona,None,Team Rebound,61,67
+3:21,Iona,Rickey McGill,Free Throw,62,67
+3:08,Marist,Darius Hines,Layup,62,69
+2:47,Iona,Tajuan Agee,Missed Jumper,62,69
+2:47,Marist,Brian Parker,Defensive Rebound,62,69
+2:25,Iona,Tajuan Agee,Foul,62,69
+2:25,Marist,Ryan Funk,Free Throw,62,70
+2:25,Marist,Ryan Funk,Free Throw,62,71
+2:25,Marist,Ryan Funk,Free Throw,62,72
+2:13,Iona,Rickey McGill,Missed Layup,62,72
+2:13,Iona,Tajuan Agee,Offensive Rebound,62,72
+2:09,Marist,Brian Parker,Foul,62,72
+2:09,Iona,Tajuan Agee,Free Throw,63,72
+2:09,Iona,Tajuan Agee,Free Throw,64,72
+2:01,Marist,Ryan Funk,Foul,64,72
+2:01,Marist,Ryan Funk,Turnover,64,72
+1:51,Iona,Asante Gist,Three Point Jumper,67,72
+1:22,Marist,Brian Parker,Missed Jumper,67,72
+1:22,Iona,Tajuan Agee,Block,67,72
+1:20,Iona,Tajuan Agee,Defensive Rebound,67,72
+1:11,Iona,Asante Gist,Missed Layup,67,72
+1:11,Marist,Aleksandar Dozic,Defensive Rebound,67,72
+0:53,Marist,Darius Hines,Turnover,67,72
+0:52,Iona,Rickey McGill,Steal,67,72
+0:50,Iona,None,None,67,72
+0:40,Iona,Tajuan Agee,Layup,69,72
+0:39,Iona,Asante Gist,Foul,69,72
+0:39,Marist,Darius Hines,Free Throw,69,73
+0:39,Marist,Darius Hines,Missed Free Throw,69,73
+0:39,Iona,Rickey McGill,Defensive Rebound,69,73
+0:29,Marist,Matthew Herasme,Foul,69,73
+0:29,Iona,Rickey McGill,Free Throw,70,73
+0:29,Iona,Rickey McGill,Free Throw,71,73
+0:23,Iona,Rickey McGill,Foul,71,73
+0:23,Marist,Brian Parker,Missed Free Throw,71,73
+0:23,Marist,None,Team Rebound,71,73
+0:23,Marist,Brian Parker,Missed Free Throw,71,73
+0:23,Iona,Tajuan Agee,Defensive Rebound,71,73
+0:12,Iona,Asante Gist,Missed Three Point Jumper,71,73
+0:12,Marist,Marist,Defensive Rebound,71,73
+0:09,Iona,Tajuan Agee,Foul,71,73
+0:09,Marist,Ryan Funk,Free Throw,71,74
+0:07,Iona,Asante Gist,Foul,71,74
+0:07,Marist,Ryan Funk,Free Throw,71,75
+0:07,Marist,Ryan Funk,Free Throw,71,76
+0:02,Iona,Ben Perez,Three Point Jumper,74,76
+0:02,Iona,None,None,74,76
+0:02,Iona,Ben Perez,Foul,74,76
+0:02,Marist,Darius Hines,Free Throw,74,77
+0:02,Marist,Darius Hines,Free Throw,74,78
+0:00,Marist,None,None,74,78

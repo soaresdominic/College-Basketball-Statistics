@@ -1,0 +1,361 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,UCLA,Jaylen Hands,Jumper,2,0
+19:22,UCLA,Kris Wilkes,Steal,2,0
+19:22,USC,Nick Rakocevic,Turnover,2,0
+19:17,UCLA,Chris Smith,Turnover,2,0
+19:17,USC,Bennie Boatwright,Steal,2,0
+19:13,USC,Jonah Mathews,Layup,2,2
+19:00,UCLA,Chris Smith,Missed Three Point Jumper,2,2
+18:57,UCLA,Moses Brown,Offensive Rebound,2,2
+18:55,USC,Nick Rakocevic,Foul,2,2
+18:46,UCLA,Moses Brown,Missed Jumper,2,2
+18:44,USC,Bennie Boatwright,Defensive Rebound,2,2
+18:39,USC,Shaqquan Aaron,Three Point Jumper,2,5
+18:31,UCLA,Jaylen Hands,Turnover,2,5
+18:31,USC,Shaqquan Aaron,Steal,2,5
+18:25,USC,Shaqquan Aaron,Missed Jumper,2,5
+18:22,UCLA,Moses Brown,Defensive Rebound,2,5
+18:08,UCLA,Chris Smith,Missed Jumper,2,5
+18:04,USC,Nick Rakocevic,Defensive Rebound,2,5
+17:43,USC,Nick Rakocevic,Layup,2,7
+17:41,UCLA,None,None,2,7
+17:23,UCLA,Moses Brown,Missed Dunk,2,7
+17:23,USC,Shaqquan Aaron,Block,2,7
+17:14,USC,None,Team Rebound,2,7
+17:12,USC,Jonah Mathews,Three Point Jumper,2,10
+17:00,UCLA,Kris Wilkes,Layup,4,10
+16:46,UCLA,Moses Brown,Block,4,10
+16:46,USC,Nick Rakocevic,Missed Layup,4,10
+16:41,UCLA,Kris Wilkes,Defensive Rebound,4,10
+16:37,UCLA,Jaylen Hands,Missed Three Point Jumper,4,10
+16:33,USC,Jonah Mathews,Defensive Rebound,4,10
+16:17,USC,Nick Rakocevic,Layup,4,12
+16:03,UCLA,Prince Ali,Turnover,4,12
+16:03,USC,Shaqquan Aaron,Steal,4,12
+16:00,UCLA,Chris Smith,Foul,4,12
+16:00,USC,None,None,4,12
+16:00,USC,Nick Rakocevic,Free Throw,4,13
+16:00,USC,Nick Rakocevic,Free Throw,4,14
+15:47,UCLA,Kris Wilkes,Missed Layup,4,14
+15:47,USC,Nick Rakocevic,Defensive Rebound,4,14
+15:32,USC,Jonah Mathews,Missed Three Point Jumper,4,14
+15:28,USC,Nick Rakocevic,Offensive Rebound,4,14
+15:22,USC,Bennie Boatwright,Jumper,4,16
+14:50,UCLA,Kris Wilkes,Missed Three Point Jumper,4,16
+14:50,USC,Derryck Thornton,Defensive Rebound,4,16
+14:48,USC,Derryck Thornton,Turnover,4,16
+14:45,UCLA,Cody Riley,Layup,6,16
+14:22,USC,Jonah Mathews,Turnover,6,16
+14:09,UCLA,Jaylen Hands,Jumper,8,16
+13:43,USC,Bennie Boatwright,Missed Three Point Jumper,8,16
+13:40,UCLA,Cody Riley,Defensive Rebound,8,16
+13:40,UCLA,Cody Riley,Turnover,8,16
+13:37,USC,Bennie Boatwright,Missed Three Point Jumper,8,16
+13:34,UCLA,Kris Wilkes,Defensive Rebound,8,16
+13:21,UCLA,Cody Riley,Layup,10,16
+13:19,USC,None,None,10,16
+13:00,USC,Bennie Boatwright,Jumper,10,18
+12:38,UCLA,Kris Wilkes,Layup,12,18
+12:38,UCLA,Kris Wilkes,Missed Free Throw,12,18
+12:38,USC,Nick Rakocevic,Foul,12,18
+12:38,USC,Shaqquan Aaron,Defensive Rebound,12,18
+12:15,USC,Jonah Mathews,Missed Jumper,12,18
+12:13,UCLA,Kris Wilkes,Defensive Rebound,12,18
+12:02,USC,Shaqquan Aaron,Foul,12,18
+11:59,UCLA,Kris Wilkes,Missed Three Point Jumper,12,18
+11:56,USC,Shaqquan Aaron,Defensive Rebound,12,18
+11:39,UCLA,Jaylen Hands,Steal,12,18
+11:39,USC,Jonah Mathews,Turnover,12,18
+11:34,UCLA,Jaylen Hands,Missed Layup,12,18
+11:30,UCLA,Prince Ali,Offensive Rebound,12,18
+11:30,UCLA,Prince Ali,Layup,14,18
+11:12,USC,Jonah Mathews,Missed Three Point Jumper,14,18
+11:09,UCLA,Kris Wilkes,Defensive Rebound,14,18
+11:05,UCLA,Prince Ali,Missed Three Point Jumper,14,18
+11:05,USC,USC,Defensive Rebound,14,18
+11:04,USC,None,None,14,18
+10:49,USC,Derryck Thornton,Missed Three Point Jumper,14,18
+10:45,UCLA,Jaylen Hands,Defensive Rebound,14,18
+10:38,USC,Victor Uyaelunmo,Foul,14,18
+10:35,USC,Victor Uyaelunmo,Foul,14,18
+10:35,UCLA,Moses Brown,Missed Free Throw,14,18
+10:35,UCLA,None,Team Rebound,14,18
+10:35,UCLA,Moses Brown,Missed Free Throw,14,18
+10:35,USC,J'Raan Brooks,Defensive Rebound,14,18
+10:13,USC,Bennie Boatwright,Missed Jumper,14,18
+10:11,UCLA,Moses Brown,Defensive Rebound,14,18
+10:11,USC,J'Raan Brooks,Foul,14,18
+9:42,UCLA,Cody Riley,Missed Three Point Jumper,14,18
+9:39,USC,Jonah Mathews,Defensive Rebound,14,18
+9:33,USC,J'Raan Brooks,Turnover,14,18
+9:33,UCLA,Prince Ali,Steal,14,18
+9:30,USC,Elijah Weaver,Foul,14,18
+9:30,UCLA,Jaylen Hands,Free Throw,15,18
+9:30,UCLA,Jaylen Hands,Free Throw,16,18
+9:19,USC,J'Raan Brooks,Layup,16,20
+9:19,UCLA,Moses Brown,Foul,16,20
+9:19,USC,J'Raan Brooks,Missed Free Throw,16,20
+9:19,UCLA,Cody Riley,Defensive Rebound,16,20
+9:02,UCLA,Jules Bernard,Layup,18,20
+8:53,USC,Shaqquan Aaron,Missed Three Point Jumper,18,20
+8:50,UCLA,Jules Bernard,Defensive Rebound,18,20
+8:43,UCLA,Jaylen Hands,Missed Dunk,18,20
+8:43,USC,Bennie Boatwright,Defensive Rebound,18,20
+8:43,USC,Bennie Boatwright,Block,18,20
+8:34,USC,J'Raan Brooks,Jumper,18,22
+8:24,UCLA,Prince Ali,Missed Layup,18,22
+8:22,UCLA,Moses Brown,Offensive Rebound,18,22
+8:22,USC,Bennie Boatwright,Foul,18,22
+8:22,UCLA,Moses Brown,Missed Free Throw,18,22
+8:22,UCLA,None,Team Rebound,18,22
+8:22,UCLA,Moses Brown,Missed Free Throw,18,22
+8:22,USC,J'Raan Brooks,Defensive Rebound,18,22
+8:05,USC,Shaqquan Aaron,Turnover,18,22
+8:05,UCLA,Cody Riley,Steal,18,22
+8:00,UCLA,Moses Brown,Foul,18,22
+8:00,UCLA,Moses Brown,Turnover,18,22
+8:00,USC,None,None,18,22
+7:48,USC,Derryck Thornton,Turnover,18,22
+7:48,UCLA,Jules Bernard,Steal,18,22
+7:42,UCLA,Cody Riley,Missed Layup,18,22
+7:38,UCLA,Jalen Hill,Offensive Rebound,18,22
+7:38,UCLA,Jalen Hill,Dunk,20,22
+7:24,USC,Bennie Boatwright,Missed Three Point Jumper,20,22
+7:21,UCLA,Jules Bernard,Defensive Rebound,20,22
+7:18,UCLA,Kris Wilkes,Three Point Jumper,23,22
+6:59,USC,Jonah Mathews,Missed Three Point Jumper,23,22
+6:56,UCLA,Cody Riley,Defensive Rebound,23,22
+6:49,UCLA,Kris Wilkes,Missed Layup,23,22
+6:46,USC,J'Raan Brooks,Defensive Rebound,23,22
+6:36,USC,Shaqquan Aaron,Missed Three Point Jumper,23,22
+6:33,UCLA,Jules Bernard,Defensive Rebound,23,22
+6:26,UCLA,Jules Bernard,Missed Layup,23,22
+6:16,USC,Jonah Mathews,Defensive Rebound,23,22
+6:12,USC,Derryck Thornton,Jumper,23,24
+5:56,UCLA,Jules Bernard,Turnover,23,24
+5:56,USC,Derryck Thornton,Steal,23,24
+5:37,USC,Elijah Weaver,Layup,23,26
+5:29,UCLA,Kris Wilkes,Turnover,23,26
+5:29,USC,Elijah Weaver,Steal,23,26
+5:06,USC,Jonah Mathews,Three Point Jumper,23,29
+4:54,UCLA,Cody Riley,Layup,25,29
+4:23,USC,Derryck Thornton,Missed Jumper,25,29
+4:20,UCLA,Cody Riley,Defensive Rebound,25,29
+4:15,UCLA,Prince Ali,Missed Three Point Jumper,25,29
+4:15,USC,Derryck Thornton,Block,25,29
+4:10,USC,Jonah Mathews,Defensive Rebound,25,29
+4:05,USC,Jonah Mathews,Missed Three Point Jumper,25,29
+4:05,USC,USC,Offensive Rebound,25,29
+3:59,UCLA,Jalen Hill,Foul,25,29
+3:59,USC,Shaqquan Aaron,Missed Jumper,25,29
+3:59,UCLA,Jaylen Hands,Defensive Rebound,25,29
+3:59,UCLA,Jaylen Hands,Turnover,25,29
+3:59,USC,Derryck Thornton,Steal,25,29
+3:59,USC,Derryck Thornton,Missed Layup,25,29
+3:59,UCLA,Kris Wilkes,Defensive Rebound,25,29
+3:59,UCLA,Kris Wilkes,Layup,27,29
+3:59,USC,Derryck Thornton,Turnover,27,29
+3:59,UCLA,Jaylen Hands,Steal,27,29
+3:23,UCLA,Jaylen Hands,Missed Three Point Jumper,27,29
+3:23,UCLA,Kenneth Nwuba,Offensive Rebound,27,29
+3:23,USC,Derryck Thornton,Foul,27,29
+3:23,UCLA,Kenneth Nwuba,Missed Free Throw,27,29
+3:23,USC,Bennie Boatwright,Defensive Rebound,27,29
+3:02,UCLA,Cody Riley,Foul,27,29
+3:02,USC,J'Raan Brooks,Missed Free Throw,27,29
+3:02,USC,None,Team Rebound,27,29
+3:02,USC,J'Raan Brooks,Free Throw,27,30
+3:02,UCLA,Kris Wilkes,Layup,29,30
+2:25,USC,Bennie Boatwright,Three Point Jumper,29,33
+2:13,UCLA,Jaylen Hands,Turnover,29,33
+2:13,USC,Bennie Boatwright,Missed Jumper,29,33
+2:13,UCLA,Cody Riley,Defensive Rebound,29,33
+1:46,UCLA,Kenneth Nwuba,Missed Jumper,29,33
+1:46,USC,Bennie Boatwright,Block,29,33
+1:46,UCLA,UCLA,Offensive Rebound,29,33
+1:46,UCLA,Kenneth Nwuba,Foul,29,33
+1:46,UCLA,Kenneth Nwuba,Turnover,29,33
+1:34,USC,Shaqquan Aaron,Three Point Jumper,29,36
+1:08,UCLA,Kris Wilkes,Turnover,29,36
+1:08,USC,Jonah Mathews,Steal,29,36
+1:02,USC,Elijah Weaver,Turnover,29,36
+0:55,UCLA,Jaylen Hands,Jumper,31,36
+0:35,USC,Shaqquan Aaron,Missed Three Point Jumper,31,36
+0:35,UCLA,UCLA,Defensive Rebound,31,36
+0:16,UCLA,Jaylen Hands,Layup,33,36
+0:03,USC,Bennie Boatwright,Missed Jumper,33,36
+0:00,UCLA,Prince Ali,Defensive Rebound,33,36
+0:00,USC,None,None,33,36
+19:50,UCLA,Moses Brown,Missed Layup,33,36
+19:47,USC,Shaqquan Aaron,Defensive Rebound,33,36
+19:45,USC,Shaqquan Aaron,Turnover,33,36
+19:45,UCLA,Prince Ali,Steal,33,36
+19:40,USC,Jonah Mathews,Foul,33,36
+19:38,UCLA,Prince Ali,Three Point Jumper,36,36
+19:18,USC,Shaqquan Aaron,Missed Jumper,36,36
+19:12,USC,Nick Rakocevic,Offensive Rebound,36,36
+19:10,USC,Nick Rakocevic,Layup,36,38
+19:02,UCLA,Moses Brown,Layup,38,38
+18:44,USC,Jonah Mathews,Missed Three Point Jumper,38,38
+18:40,UCLA,Jaylen Hands,Defensive Rebound,38,38
+18:34,UCLA,Chris Smith,Missed Three Point Jumper,38,38
+18:30,USC,Bennie Boatwright,Defensive Rebound,38,38
+18:26,USC,Bennie Boatwright,Three Point Jumper,38,41
+18:06,UCLA,Chris Smith,Missed Layup,38,41
+18:03,USC,Bennie Boatwright,Defensive Rebound,38,41
+17:54,USC,Bennie Boatwright,Missed Jumper,38,41
+17:54,UCLA,Moses Brown,Block,38,41
+17:47,USC,Nick Rakocevic,Offensive Rebound,38,41
+17:45,USC,Bennie Boatwright,Three Point Jumper,38,44
+17:26,UCLA,Jaylen Hands,Foul,38,44
+17:26,UCLA,Jaylen Hands,Turnover,38,44
+17:22,USC,Derryck Thornton,Missed Three Point Jumper,38,44
+17:22,UCLA,Prince Ali,Defensive Rebound,38,44
+17:10,UCLA,Prince Ali,Layup,40,44
+17:02,USC,Shaqquan Aaron,Missed Jumper,40,44
+17:02,USC,Nick Rakocevic,Offensive Rebound,40,44
+16:58,USC,Nick Rakocevic,Missed Dunk,40,44
+16:58,UCLA,Moses Brown,Defensive Rebound,40,44
+16:26,UCLA,Kris Wilkes,Turnover,40,44
+16:26,USC,Derryck Thornton,Steal,40,44
+16:21,USC,Jonah Mathews,Missed Layup,40,44
+16:21,UCLA,Prince Ali,Block,40,44
+16:15,USC,Nick Rakocevic,Offensive Rebound,40,44
+16:15,USC,Nick Rakocevic,Layup,40,46
+16:15,USC,Jonah Mathews,Foul,40,46
+15:55,UCLA,Prince Ali,Missed Layup,40,46
+15:50,UCLA,Jalen Hill,Offensive Rebound,40,46
+15:50,UCLA,Jalen Hill,Dunk,42,46
+15:30,USC,Shaqquan Aaron,Layup,42,48
+15:30,USC,None,None,42,48
+15:13,UCLA,Prince Ali,Missed Jumper,42,48
+15:09,USC,Bennie Boatwright,Defensive Rebound,42,48
+15:09,UCLA,Jalen Hill,Foul,42,48
+14:44,USC,Nick Rakocevic,Dunk,42,50
+14:19,UCLA,Jaylen Hands,Turnover,42,50
+14:12,USC,Elijah Weaver,Three Point Jumper,42,53
+14:05,UCLA,None,None,42,53
+14:05,USC,None,None,42,53
+13:55,UCLA,Kris Wilkes,Missed Layup,42,53
+13:55,UCLA,Moses Brown,Offensive Rebound,42,53
+13:54,UCLA,Moses Brown,Missed Layup,42,53
+13:54,UCLA,Moses Brown,Offensive Rebound,42,53
+13:54,USC,Elijah Weaver,Foul,42,53
+13:54,UCLA,Moses Brown,Missed Free Throw,42,53
+13:54,UCLA,None,Team Rebound,42,53
+13:54,UCLA,Moses Brown,Missed Free Throw,42,53
+13:53,USC,USC,Defensive Rebound,42,53
+13:38,USC,Bennie Boatwright,Three Point Jumper,42,56
+13:25,UCLA,Moses Brown,Turnover,42,56
+13:25,USC,Elijah Weaver,Steal,42,56
+12:59,USC,Bennie Boatwright,Missed Three Point Jumper,42,56
+12:56,UCLA,Cody Riley,Defensive Rebound,42,56
+12:47,UCLA,Cody Riley,Turnover,42,56
+12:27,USC,Shaqquan Aaron,Turnover,42,56
+11:57,UCLA,Chris Smith,Missed Three Point Jumper,42,56
+11:53,USC,Nick Rakocevic,Defensive Rebound,42,56
+11:37,USC,Jonah Mathews,Missed Three Point Jumper,42,56
+11:34,USC,Nick Rakocevic,Offensive Rebound,42,56
+11:30,USC,Bennie Boatwright,Jumper,42,58
+11:21,UCLA,Chris Smith,Turnover,42,58
+11:21,USC,Elijah Weaver,Steal,42,58
+11:07,USC,Nick Rakocevic,Layup,42,60
+11:07,UCLA,Jules Bernard,Foul,42,60
+11:07,USC,None,None,42,60
+11:07,USC,Nick Rakocevic,Free Throw,42,61
+10:45,UCLA,Jaylen Hands,Turnover,42,61
+10:45,USC,Jonah Mathews,Steal,42,61
+10:29,USC,Nick Rakocevic,Dunk,42,63
+10:08,UCLA,Prince Ali,Three Point Jumper,45,63
+9:28,USC,Shaqquan Aaron,Turnover,45,63
+9:26,UCLA,Kris Wilkes,Missed Three Point Jumper,45,63
+9:26,USC,Shaqquan Aaron,Defensive Rebound,45,63
+9:05,UCLA,Jaylen Hands,Missed Three Point Jumper,45,63
+9:01,UCLA,Prince Ali,Offensive Rebound,45,63
+8:59,UCLA,Prince Ali,Missed Layup,45,63
+8:59,USC,Nick Rakocevic,Block,45,63
+8:54,USC,Bennie Boatwright,Defensive Rebound,45,63
+8:35,USC,Jonah Mathews,Three Point Jumper,45,66
+8:17,UCLA,Cody Riley,Turnover,45,66
+8:02,USC,Bennie Boatwright,Missed Jumper,45,66
+7:59,UCLA,Kris Wilkes,Defensive Rebound,45,66
+7:50,UCLA,Kris Wilkes,Layup,47,66
+7:21,USC,Shaqquan Aaron,Missed Three Point Jumper,47,66
+7:17,UCLA,Kris Wilkes,Defensive Rebound,47,66
+7:12,UCLA,Kris Wilkes,Missed Jumper,47,66
+7:09,USC,Shaqquan Aaron,Defensive Rebound,47,66
+7:07,USC,None,None,47,66
+7:07,USC,None,None,47,66
+6:47,USC,Shaqquan Aaron,Missed Three Point Jumper,47,66
+6:43,UCLA,Cody Riley,Defensive Rebound,47,66
+6:27,UCLA,Prince Ali,Missed Jumper,47,66
+6:24,UCLA,UCLA,Offensive Rebound,47,66
+6:10,UCLA,Prince Ali,Missed Three Point Jumper,47,66
+6:07,USC,Shaqquan Aaron,Defensive Rebound,47,66
+6:04,USC,Elijah Weaver,Foul,47,66
+6:04,USC,Elijah Weaver,Turnover,47,66
+5:50,UCLA,Cody Riley,Missed Three Point Jumper,47,66
+5:50,USC,USC,Defensive Rebound,47,66
+5:41,USC,Jonah Mathews,Three Point Jumper,47,69
+5:21,UCLA,Cody Riley,Turnover,47,69
+5:21,USC,Derryck Thornton,Steal,47,69
+5:05,USC,Nick Rakocevic,Missed Layup,47,69
+5:05,UCLA,Moses Brown,Block,47,69
+4:58,USC,Nick Rakocevic,Offensive Rebound,47,69
+4:58,USC,Nick Rakocevic,Layup,47,71
+4:57,UCLA,None,None,47,71
+4:36,UCLA,Prince Ali,Three Point Jumper,50,71
+4:01,USC,Shaqquan Aaron,Missed Jumper,50,71
+3:55,USC,Nick Rakocevic,Offensive Rebound,50,71
+3:53,USC,Nick Rakocevic,Layup,50,73
+3:31,UCLA,Jules Bernard,Jumper,52,73
+3:24,USC,None,None,52,73
+3:03,UCLA,Jalen Hill,Foul,52,73
+3:03,USC,Jonah Mathews,Free Throw,52,74
+3:03,USC,Jonah Mathews,Free Throw,52,75
+2:52,UCLA,Jaylen Hands,Missed Jumper,52,75
+2:49,USC,Nick Rakocevic,Defensive Rebound,52,75
+2:28,UCLA,Jules Bernard,Foul,52,75
+2:19,UCLA,Kris Wilkes,Foul,52,75
+2:05,USC,Bennie Boatwright,Three Point Jumper,52,78
+1:47,UCLA,Jules Bernard,Three Point Jumper,55,78
+1:38,UCLA,Jules Bernard,Foul,55,78
+1:38,USC,Derryck Thornton,Missed Free Throw,55,78
+1:38,UCLA,Kris Wilkes,Defensive Rebound,55,78
+1:33,UCLA,Kris Wilkes,Missed Three Point Jumper,55,78
+1:30,USC,Derryck Thornton,Defensive Rebound,55,78
+1:27,UCLA,Jules Bernard,Foul,55,78
+1:27,USC,Derryck Thornton,Free Throw,55,79
+1:27,USC,Derryck Thornton,Free Throw,55,80
+1:17,USC,Elijah Weaver,Foul,55,80
+1:13,UCLA,Prince Ali,Missed Three Point Jumper,55,80
+1:08,UCLA,Jules Bernard,Offensive Rebound,55,80
+1:07,UCLA,Jules Bernard,Missed Jumper,55,80
+1:07,UCLA,None,Team Rebound,55,80
+1:07,USC,Victor Uyaelunmo,Foul,55,80
+1:05,UCLA,Jalen Hill,Layup,57,80
+1:05,USC,Victor Uyaelunmo,Foul,57,80
+1:05,UCLA,Jalen Hill,Free Throw,58,80
+0:55,USC,Elijah Weaver,Turnover,58,80
+0:51,UCLA,Jaylen Hands,Layup,60,80
+0:51,USC,Victor Uyaelunmo,Foul,60,80
+0:51,UCLA,Jaylen Hands,Free Throw,61,80
+0:47,USC,Elijah Weaver,Turnover,61,80
+0:39,UCLA,Jules Bernard,Missed Layup,61,80
+0:34,UCLA,Jaylen Hands,Offensive Rebound,61,80
+0:34,UCLA,Jaylen Hands,Missed Layup,61,80
+0:33,UCLA,Prince Ali,Offensive Rebound,61,80
+0:30,UCLA,Kris Wilkes,Missed Three Point Jumper,61,80
+0:27,UCLA,Jules Bernard,Missed Layup,61,80
+0:27,UCLA,Jalen Hill,Offensive Rebound,61,80
+0:25,UCLA,Jules Bernard,Offensive Rebound,61,80
+0:25,UCLA,Jalen Hill,Dunk,63,80
+0:24,USC,J'Raan Brooks,Turnover,63,80
+0:24,UCLA,Jaylen Hands,Steal,63,80
+0:24,UCLA,Jaylen Hands,Layup,65,80
+0:15,UCLA,Jalen Hill,Foul,65,80
+0:15,USC,Elijah Weaver,Missed Free Throw,65,80
+0:15,UCLA,Kris Wilkes,Defensive Rebound,65,80
+0:05,UCLA,Prince Ali,Layup,67,80
+0:00,USC,None,None,67,80
+0:00,USC,None,None,67,80

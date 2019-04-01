@@ -1,0 +1,313 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Louisville,None,None,0,0
+19:45,Louisville,Steven Enoch,Missed Dunk,0,0
+19:45,Louisville,Dwayne Sutton,Offensive Rebound,0,0
+19:36,Louisville,Dwayne Sutton,Layup,0,2
+19:19,Miami,Anthony Lawrence II,Missed Three Point Jumper,0,2
+19:19,Louisville,Jordan Nwora,Defensive Rebound,0,2
+19:10,Louisville,Jordan Nwora,Missed Three Point Jumper,0,2
+19:10,Miami,Ebuka Izundu,Defensive Rebound,0,2
+18:55,Miami,Anthony Lawrence II,Three Point Jumper,3,2
+18:34,Louisville,Steven Enoch,Foul,3,2
+18:34,Louisville,Steven Enoch,Turnover,3,2
+18:34,Miami,Anthony Mack,Three Point Jumper,6,2
+18:27,Louisville,Darius Perry,Missed Three Point Jumper,6,2
+18:27,Louisville,Louisville,Offensive Rebound,6,2
+18:02,Louisville,Darius Perry,Turnover,6,2
+18:02,Miami,Zach Johnson,Steal,6,2
+17:58,Miami,Zach Johnson,Jumper,8,2
+17:30,Louisville,Jordan Nwora,Jumper,8,4
+17:13,Miami,Chris Lykes,Missed Layup,8,4
+17:13,Miami,Ebuka Izundu,Offensive Rebound,8,4
+17:07,Miami,None,None,8,4
+17:06,Louisville,Dwayne Sutton,Defensive Rebound,8,4
+17:01,Louisville,Darius Perry,Turnover,8,4
+17:01,Miami,Anthony Lawrence II,Steal,8,4
+16:57,Miami,Chris Lykes,Turnover,8,4
+16:38,Louisville,Ryan McMahon,Missed Three Point Jumper,8,4
+16:38,Louisville,Malik Williams,Offensive Rebound,8,4
+16:29,Louisville,Malik Williams,Layup,8,6
+16:16,Miami,Zach Johnson,Turnover,8,6
+16:16,Louisville,Jordan Nwora,Steal,8,6
+16:08,Louisville,Malik Williams,Missed Three Point Jumper,8,6
+16:08,Miami,Anthony Mack,Defensive Rebound,8,6
+15:56,Louisville,Ryan McMahon,Foul,8,6
+15:56,Louisville,None,None,8,6
+15:56,Miami,Zach Johnson,Free Throw,9,6
+15:56,Miami,Zach Johnson,Free Throw,10,6
+15:25,Louisville,Jordan Nwora,Missed Jumper,10,6
+15:25,Miami,Dejan Vasiljevic,Defensive Rebound,10,6
+15:09,Miami,Anthony Lawrence II,Turnover,10,6
+14:57,Louisville,Ryan McMahon,Missed Three Point Jumper,10,6
+14:57,Miami,Sam Waardenburg,Defensive Rebound,10,6
+14:44,Louisville,Christen Cunningham,Foul,10,6
+14:44,Miami,Chris Lykes,Free Throw,11,6
+14:44,Miami,Chris Lykes,Free Throw,12,6
+14:29,Louisville,Christen Cunningham,Layup,12,8
+14:29,Miami,Anthony Mack,Foul,12,8
+14:29,Louisville,Christen Cunningham,Missed Free Throw,12,8
+14:29,Miami,Ebuka Izundu,Defensive Rebound,12,8
+14:16,Miami,Sam Waardenburg,Turnover,12,8
+13:52,Louisville,Jordan Nwora,Missed Three Point Jumper,12,8
+13:52,Miami,Chris Lykes,Defensive Rebound,12,8
+13:50,Louisville,V.J. King,Foul,12,8
+13:36,Miami,Sam Waardenburg,Jumper,14,8
+13:21,Louisville,Jordan Nwora,Foul,14,8
+13:21,Louisville,Jordan Nwora,Turnover,14,8
+12:58,Miami,Zach Johnson,Layup,16,8
+12:54,Louisville,None,None,16,8
+12:36,Miami,Ebuka Izundu,Foul,16,8
+12:36,Louisville,Malik Williams,Missed Free Throw,16,8
+12:36,Louisville,None,Team Rebound,16,8
+12:36,Louisville,Malik Williams,Free Throw,16,9
+12:20,Miami,Dejan Vasiljevic,Three Point Jumper,19,9
+11:51,Louisville,Christen Cunningham,Turnover,19,9
+11:51,Miami,Zach Johnson,Steal,19,9
+11:42,Miami,Chris Lykes,Missed Three Point Jumper,19,9
+11:42,Miami,Sam Waardenburg,Offensive Rebound,19,9
+11:38,Louisville,Steven Enoch,Foul,19,9
+11:38,Louisville,None,None,19,9
+11:38,Miami,Dejan Vasiljevic,Missed Jumper,19,9
+11:38,Louisville,Jordan Nwora,Defensive Rebound,19,9
+11:30,Miami,Sam Waardenburg,Foul,19,9
+11:30,Louisville,Dwayne Sutton,Free Throw,19,10
+11:30,Louisville,Dwayne Sutton,Free Throw,19,11
+11:18,Miami,Dejan Vasiljevic,Three Point Jumper,22,11
+11:08,Louisville,Dwayne Sutton,Missed Three Point Jumper,22,11
+11:08,Miami,Zach Johnson,Defensive Rebound,22,11
+10:53,Miami,Sam Waardenburg,Missed Layup,22,11
+10:53,Miami,Sam Waardenburg,Offensive Rebound,22,11
+10:47,Louisville,Khwan Fore,Foul,22,11
+10:47,Miami,Chris Lykes,Free Throw,23,11
+10:47,Miami,Chris Lykes,Free Throw,24,11
+10:33,Miami,Zach Johnson,Foul,24,11
+10:33,Louisville,Darius Perry,Free Throw,24,12
+10:33,Louisville,Darius Perry,Free Throw,24,13
+10:25,Miami,Zach Johnson,Missed Layup,24,13
+10:25,Miami,Sam Waardenburg,Offensive Rebound,24,13
+10:20,Miami,Chris Lykes,Three Point Jumper,27,13
+10:20,Louisville,Darius Perry,Foul,27,13
+10:20,Miami,Chris Lykes,Missed Free Throw,27,13
+10:20,Louisville,Malik Williams,Defensive Rebound,27,13
+10:02,Louisville,Jordan Nwora,Jumper,27,15
+9:28,Miami,Ebuka Izundu,Layup,29,15
+9:28,Louisville,Ryan McMahon,Foul,29,15
+9:28,Miami,Ebuka Izundu,Free Throw,30,15
+9:24,Louisville,Jordan Nwora,Three Point Jumper,30,18
+9:06,Louisville,Dwayne Sutton,Foul,30,18
+9:06,Miami,Ebuka Izundu,Free Throw,31,18
+9:06,Miami,Ebuka Izundu,Free Throw,32,18
+8:51,Louisville,Malik Williams,Missed Three Point Jumper,32,18
+8:51,Miami,Chris Lykes,Defensive Rebound,32,18
+8:42,Miami,Anthony Lawrence II,Turnover,32,18
+8:34,Miami,Anthony Lawrence II,Foul,32,18
+8:31,Louisville,Jordan Nwora,Jumper,32,20
+8:31,Miami,Anthony Lawrence II,Foul,32,20
+8:31,Louisville,Jordan Nwora,Free Throw,32,21
+8:20,Miami,Anthony Mack,Missed Three Point Jumper,32,21
+8:20,Miami,Sam Waardenburg,Offensive Rebound,32,21
+8:07,Miami,Zach Johnson,Missed Three Point Jumper,32,21
+8:07,Louisville,Christen Cunningham,Defensive Rebound,32,21
+7:52,Louisville,Jordan Nwora,Three Point Jumper,32,24
+7:22,Miami,Sam Waardenburg,Foul,32,24
+7:22,Miami,Sam Waardenburg,Turnover,32,24
+7:10,Louisville,Dwayne Sutton,Layup,32,26
+7:10,Miami,Anthony Mack,Foul,32,26
+7:10,Louisville,Dwayne Sutton,Free Throw,32,27
+6:52,Miami,Anthony Mack,Missed Jumper,32,27
+6:52,Louisville,Malik Williams,Block,32,27
+6:52,Louisville,Ryan McMahon,Defensive Rebound,32,27
+6:41,Louisville,Jordan Nwora,Dunk,32,29
+6:41,Miami,None,None,32,29
+6:29,Louisville,None,None,32,29
+6:15,Miami,Chris Lykes,Three Point Jumper,35,29
+5:58,Louisville,Jordan Nwora,Three Point Jumper,35,32
+5:46,Miami,Chris Lykes,Missed Three Point Jumper,35,32
+5:46,Louisville,Dwayne Sutton,Defensive Rebound,35,32
+5:35,Louisville,Dwayne Sutton,Missed Three Point Jumper,35,32
+5:35,Miami,Ebuka Izundu,Defensive Rebound,35,32
+5:18,Miami,Zach Johnson,Jumper,37,32
+4:59,Louisville,Malik Williams,Three Point Jumper,37,35
+4:30,Miami,Dejan Vasiljevic,Three Point Jumper,40,35
+4:20,Miami,Dejan Vasiljevic,Foul,40,35
+4:20,Louisville,Ryan McMahon,Free Throw,40,36
+4:20,Louisville,Ryan McMahon,Missed Free Throw,40,36
+4:20,Miami,Ebuka Izundu,Defensive Rebound,40,36
+3:50,Miami,Ebuka Izundu,Turnover,40,36
+3:49,Louisville,None,None,40,36
+3:33,Louisville,Akoy Agau,Missed Layup,40,36
+3:33,Miami,Ebuka Izundu,Defensive Rebound,40,36
+3:05,Miami,Ebuka Izundu,Foul,40,36
+3:05,Miami,Ebuka Izundu,Turnover,40,36
+2:56,Louisville,Ryan McMahon,Missed Three Point Jumper,40,36
+2:56,Miami,Zach Johnson,Defensive Rebound,40,36
+2:50,Miami,Zach Johnson,Turnover,40,36
+2:44,Miami,Anthony Mack,Foul,40,36
+2:44,Louisville,Dwayne Sutton,Free Throw,40,37
+2:44,Louisville,Dwayne Sutton,Missed Free Throw,40,37
+2:44,Miami,Anthony Mack,Defensive Rebound,40,37
+2:31,Miami,Dejan Vasiljevic,Missed Three Point Jumper,40,37
+2:31,Louisville,Christen Cunningham,Defensive Rebound,40,37
+2:22,Louisville,Dwayne Sutton,Turnover,40,37
+2:22,Miami,Zach Johnson,Steal,40,37
+2:15,Miami,Sam Waardenburg,Missed Three Point Jumper,40,37
+2:15,Louisville,Jordan Nwora,Defensive Rebound,40,37
+1:57,Louisville,Akoy Agau,Foul,40,37
+1:57,Louisville,Akoy Agau,Turnover,40,37
+1:41,Miami,Chris Lykes,Turnover,40,37
+1:33,Louisville,None,None,40,37
+1:20,Louisville,Malik Williams,Missed Layup,40,37
+1:20,Louisville,Malik Williams,Offensive Rebound,40,37
+1:19,Louisville,Jordan Nwora,Missed Layup,40,37
+1:19,Miami,Sam Waardenburg,Defensive Rebound,40,37
+1:01,Louisville,Malik Williams,Foul,40,37
+1:01,Miami,Zach Johnson,Free Throw,41,37
+1:01,Miami,Zach Johnson,Missed Free Throw,41,37
+1:01,Louisville,Malik Williams,Defensive Rebound,41,37
+0:44,Louisville,Dwayne Sutton,Three Point Jumper,41,40
+0:08,Miami,Miami ,Turnover,41,40
+0:01,Louisville,Ryan McMahon,Missed Jumper,41,40
+0:01,Louisville,Malik Williams,Offensive Rebound,41,40
+0:01,Louisville,Malik Williams,Missed Jumper,41,40
+0:01,Miami,Sam Waardenburg,Defensive Rebound,41,40
+0:00,Louisville,None,None,41,40
+20:00,Miami,None,None,41,40
+19:30,Miami,Chris Lykes,Layup,43,40
+19:12,Louisville,Malik Williams,Missed Layup,43,40
+19:12,Miami,Chris Lykes,Defensive Rebound,43,40
+18:58,Louisville,Christen Cunningham,Foul,43,40
+18:58,Miami,Zach Johnson,Missed Free Throw,43,40
+18:58,Miami,None,Team Rebound,43,40
+18:58,Miami,Zach Johnson,Free Throw,44,40
+18:40,Louisville,Dwayne Sutton,Missed Three Point Jumper,44,40
+18:40,Louisville,Dwayne Sutton,Offensive Rebound,44,40
+18:34,Louisville,Jordan Nwora,Missed Jumper,44,40
+18:34,Louisville,Malik Williams,Offensive Rebound,44,40
+18:32,Miami,Anthony Lawrence II,Foul,44,40
+18:29,Louisville,Malik Williams,Jumper,44,42
+18:02,Miami,Zach Johnson,Jumper,46,42
+17:46,Louisville,Christen Cunningham,Three Point Jumper,46,45
+17:28,Miami,Zach Johnson,Missed Three Point Jumper,46,45
+17:28,Miami,Ebuka Izundu,Offensive Rebound,46,45
+17:19,Miami,Anthony Lawrence II,Missed Three Point Jumper,46,45
+17:19,Miami,Chris Lykes,Offensive Rebound,46,45
+17:09,Miami,Anthony Lawrence II,Missed Three Point Jumper,46,45
+17:09,Louisville,Malik Williams,Defensive Rebound,46,45
+17:06,Louisville,Christen Cunningham,Missed Jumper,46,45
+17:06,Louisville,Jordan Nwora,Offensive Rebound,46,45
+17:01,Louisville,Jordan Nwora,Missed Jumper,46,45
+17:01,Miami,Dejan Vasiljevic,Defensive Rebound,46,45
+16:45,Miami,Zach Johnson,Jumper,48,45
+16:31,Louisville,Khwan Fore,Missed Jumper,48,45
+16:31,Miami,Dejan Vasiljevic,Defensive Rebound,48,45
+16:20,Miami,Anthony Lawrence II,Missed Three Point Jumper,48,45
+16:20,Louisville,Jordan Nwora,Defensive Rebound,48,45
+16:06,Louisville,Steven Enoch,Jumper,48,47
+15:44,Miami,Chris Lykes,Jumper,50,47
+15:37,Louisville,None,None,50,47
+15:19,Louisville,Dwayne Sutton,Missed Layup,50,47
+15:19,Louisville,Dwayne Sutton,Offensive Rebound,50,47
+15:09,Louisville,Dwayne Sutton,Missed Three Point Jumper,50,47
+15:09,Miami,Anthony Lawrence II,Defensive Rebound,50,47
+14:49,Miami,Zach Johnson,Missed Layup,50,47
+14:49,Louisville,Dwayne Sutton,Defensive Rebound,50,47
+14:41,Louisville,Christen Cunningham,Three Point Jumper,50,50
+14:21,Miami,Dejan Vasiljevic,Missed Three Point Jumper,50,50
+14:21,Louisville,Jordan Nwora,Defensive Rebound,50,50
+14:11,Louisville,Christen Cunningham,Three Point Jumper,50,53
+13:55,Miami,Chris Lykes,Missed Three Point Jumper,50,53
+13:55,Louisville,Ryan McMahon,Defensive Rebound,50,53
+13:46,Louisville,Christen Cunningham,Missed Three Point Jumper,50,53
+13:46,Miami,Zach Johnson,Defensive Rebound,50,53
+13:33,Miami,Sam Waardenburg,Missed Three Point Jumper,50,53
+13:33,Louisville,Steven Enoch,Defensive Rebound,50,53
+13:21,Louisville,Ryan McMahon,Missed Three Point Jumper,50,53
+13:21,Miami,Sam Waardenburg,Defensive Rebound,50,53
+13:02,Miami,Chris Lykes,Missed Layup,50,53
+13:02,Louisville,Christen Cunningham,Defensive Rebound,50,53
+12:54,Miami,Dejan Vasiljevic,Foul,50,53
+12:42,Louisville,Ryan McMahon,Missed Three Point Jumper,50,53
+12:42,Louisville,V.J. King,Offensive Rebound,50,53
+12:42,Louisville,None,None,50,55
+12:14,Miami,Zach Johnson,Missed Jumper,50,55
+12:14,Miami,Ebuka Izundu,Offensive Rebound,50,55
+12:13,Louisville,V.J. King,Foul,50,55
+12:13,Miami,Ebuka Izundu,Free Throw,51,55
+12:13,Miami,Ebuka Izundu,Free Throw,52,55
+12:02,Louisville,Ryan McMahon,Missed Three Point Jumper,52,55
+12:02,Louisville,Malik Williams,Offensive Rebound,52,55
+11:51,Louisville,Ryan McMahon,Three Point Jumper,52,58
+11:30,Miami,Sam Waardenburg,Missed Jumper,52,58
+11:30,Louisville,Malik Williams,Defensive Rebound,52,58
+11:22,Louisville,Christen Cunningham,Missed Layup,52,58
+11:22,Louisville,V.J. King,Offensive Rebound,52,58
+11:22,Louisville,None,None,52,60
+11:07,Miami,None,None,52,60
+10:51,Miami,Anthony Lawrence II,Missed Layup,52,60
+10:51,Louisville,Ryan McMahon,Defensive Rebound,52,60
+10:44,Louisville,Ryan McMahon,Three Point Jumper,52,63
+10:23,Miami,Dejan Vasiljevic,Three Point Jumper,55,63
+10:00,Louisville,Jordan Nwora,Jumper,55,65
+9:40,Miami,Zach Johnson,Missed Jumper,55,65
+9:40,Miami,Ebuka Izundu,Offensive Rebound,55,65
+9:39,Miami,Ebuka Izundu,Missed Layup,55,65
+9:39,Miami,Miami,Offensive Rebound,55,65
+9:38,Louisville,None,None,55,65
+9:22,Miami,Zach Johnson,Turnover,55,65
+9:08,Louisville,Steven Enoch,Missed Jumper,55,65
+9:08,Miami,Dejan Vasiljevic,Defensive Rebound,55,65
+8:45,Miami,Ebuka Izundu,Missed Jumper,55,65
+8:45,Louisville,Christen Cunningham,Defensive Rebound,55,65
+8:31,Louisville,Ryan McMahon,Three Point Jumper,55,68
+8:21,Miami,None,None,55,68
+8:02,Louisville,Khwan Fore,Foul,55,68
+8:02,Miami,Ebuka Izundu,Missed Free Throw,55,68
+8:02,Miami,None,Team Rebound,55,68
+8:02,Miami,Ebuka Izundu,Free Throw,56,68
+7:49,Louisville,Malik Williams,Missed Jumper,56,68
+7:49,Louisville,V.J. King,Offensive Rebound,56,68
+7:41,Louisville,V.J. King,Missed Layup,56,68
+7:41,Miami,Zach Johnson,Defensive Rebound,56,68
+7:32,Miami,Ebuka Izundu,Foul,56,68
+7:32,Miami,Ebuka Izundu,Turnover,56,68
+7:16,Louisville,Malik Williams,Jumper,56,70
+6:52,Miami,Dejan Vasiljevic,Three Point Jumper,59,70
+6:32,Louisville,Malik Williams,Jumper,59,72
+6:09,Miami,Dejan Vasiljevic,Jumper,61,72
+5:51,Louisville,Malik Williams,Three Point Jumper,61,75
+5:28,Miami,Dejan Vasiljevic,Jumper,63,75
+5:20,Louisville,Malik Williams,Layup,63,77
+5:18,Louisville,None,None,63,77
+5:01,Miami,Dejan Vasiljevic,Missed Three Point Jumper,63,77
+5:01,Miami,Ebuka Izundu,Offensive Rebound,63,77
+5:01,Miami,None,None,63,77
+5:01,Louisville,Malik Williams,Defensive Rebound,63,77
+4:42,Louisville,Malik Williams,Jumper,63,79
+4:28,Louisville,Malik Williams,Foul,63,79
+4:28,Miami,Anthony Lawrence II,Free Throw,64,79
+4:28,Miami,Anthony Lawrence II,Missed Free Throw,64,79
+4:28,Louisville,Jordan Nwora,Defensive Rebound,64,79
+4:06,Louisville,Jordan Nwora,Missed Three Point Jumper,64,79
+4:06,Louisville,Malik Williams,Offensive Rebound,64,79
+3:50,Louisville,Khwan Fore,Three Point Jumper,64,82
+3:34,Miami,Chris Lykes,Jumper,66,82
+3:10,Louisville,Christen Cunningham,Missed Three Point Jumper,66,82
+3:10,Miami,Anthony Mack,Defensive Rebound,66,82
+3:00,Miami,Chris Lykes,Jumper,68,82
+2:57,Miami,None,None,68,82
+2:49,Louisville,Jordan Nwora,Missed Jumper,68,82
+2:49,Louisville,Dwayne Sutton,Offensive Rebound,68,82
+2:49,Louisville,None,None,68,84
+2:39,Miami,Chris Lykes,Missed Jumper,68,84
+2:39,Louisville,Steven Enoch,Defensive Rebound,68,84
+2:19,Louisville,Steven Enoch,Jumper,68,86
+1:52,Miami,Zach Johnson,Jumper,70,86
+1:21,Louisville,Steven Enoch,Dunk,70,88
+1:08,Miami,Zach Johnson,Three Point Jumper,73,88
+0:41,Miami,Chris Lykes,Foul,73,88
+0:28,Miami,Dejan Vasiljevic,Foul,73,88
+0:28,Louisville,Ryan McMahon,Free Throw,73,89
+0:28,Louisville,Ryan McMahon,Free Throw,73,90
+0:23,Miami,Zach Johnson,Missed Three Point Jumper,73,90
+0:23,Louisville,Khwan Fore,Defensive Rebound,73,90
+0:00,Louisville,None,None,73,90

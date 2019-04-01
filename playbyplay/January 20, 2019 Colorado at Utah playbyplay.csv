@@ -1,0 +1,352 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Utah,None,None,0,0
+19:37,Utah,Sedrick Barefield,Turnover,0,0
+19:37,Colorado,Tyler Bey,Steal,0,0
+19:30,Colorado,Tyler Bey,Missed Layup,0,0
+19:28,Colorado,Tyler Bey,Offensive Rebound,0,0
+19:26,Colorado,Tyler Bey,Missed Layup,0,0
+19:26,Utah,Jayce Johnson,Defensive Rebound,0,0
+19:24,Utah,Sedrick Barefield,Three Point Jumper,0,3
+18:53,Colorado,Shane Gatling,Missed Three Point Jumper,0,3
+18:53,Utah,Timmy Allen,Defensive Rebound,0,3
+18:34,Colorado,Eli Parquet,Foul,0,3
+18:26,Utah,Sedrick Barefield,Three Point Jumper,0,6
+18:10,Colorado,Lucas Siewert,Three Point Jumper,3,6
+18:01,Utah,Sedrick Barefield,Missed Three Point Jumper,3,6
+18:01,Colorado,Tyler Bey,Defensive Rebound,3,6
+17:50,Colorado,Eli Parquet,Missed Jumper,3,6
+17:50,Utah,Jayce Johnson,Defensive Rebound,3,6
+17:40,Utah,Parker Van Dyke,Three Point Jumper,3,9
+17:08,Colorado,Colorado ,Turnover,3,9
+16:53,Utah,Riley Battin,Missed Three Point Jumper,3,9
+16:53,Colorado,Shane Gatling,Defensive Rebound,3,9
+16:45,Colorado,Shane Gatling,Missed Three Point Jumper,3,9
+16:45,Utah,Riley Battin,Defensive Rebound,3,9
+16:29,Utah,Sedrick Barefield,Missed Layup,3,9
+16:29,Colorado,Lucas Siewert,Defensive Rebound,3,9
+16:10,Colorado,Eli Parquet,Layup,5,9
+15:50,Utah,Timmy Allen,Missed Layup,5,9
+15:50,Colorado,Shane Gatling,Defensive Rebound,5,9
+15:44,Utah,Parker Van Dyke,Foul,5,9
+15:44,Utah,None,None,5,9
+15:31,Colorado,Daylen Kountz,Jumper,7,9
+15:06,Utah,Parker Van Dyke,Missed Jumper,7,9
+15:06,Utah,Timmy Allen,Offensive Rebound,7,9
+14:55,Utah,Jayce Johnson,Missed Jumper,7,9
+14:55,Colorado,Lucas Siewert,Defensive Rebound,7,9
+14:41,Colorado,Daylen Kountz,Missed Three Point Jumper,7,9
+14:41,Colorado,Colorado,Offensive Rebound,7,9
+14:25,Colorado,Shane Gatling,Missed Jumper,7,9
+14:25,Utah,Donnie Tillman,Block,7,9
+14:25,Utah,Jayce Johnson,Defensive Rebound,7,9
+14:07,Utah,Donnie Tillman,Three Point Jumper,7,12
+13:42,Colorado,Evan Battey,Missed Jumper,7,12
+13:42,Utah,Utah,Defensive Rebound,7,12
+13:07,Utah,Utah ,Turnover,7,12
+12:46,Colorado,Evan Battey,Turnover,7,12
+12:46,Utah,Donnie Tillman,Steal,7,12
+12:46,Colorado,Evan Battey,Foul,7,12
+12:27,Utah,Sedrick Barefield,Missed Three Point Jumper,7,12
+12:27,Utah,Timmy Allen,Offensive Rebound,7,12
+12:21,Colorado,D'Shawn Schwartz,Foul,7,12
+12:21,Utah,Timmy Allen,Missed Free Throw,7,12
+12:21,Utah,None,Team Rebound,7,12
+12:21,Utah,Timmy Allen,Missed Free Throw,7,12
+12:21,Colorado,Tyler Bey,Defensive Rebound,7,12
+12:13,Colorado,Alexander Strating,Turnover,7,12
+11:58,Utah,Novak Topalovic,Missed Layup,7,12
+11:58,Utah,Novak Topalovic,Offensive Rebound,7,12
+11:55,Utah,Novak Topalovic,Missed Layup,7,12
+11:55,Utah,Timmy Allen,Offensive Rebound,7,12
+11:49,Utah,Timmy Allen,Layup,7,14
+11:49,Colorado,Evan Battey,Foul,7,14
+11:49,Utah,None,None,7,14
+11:49,Utah,Timmy Allen,Free Throw,7,15
+11:34,Colorado,Lucas Siewert,Turnover,7,15
+11:34,Utah,Timmy Allen,Steal,7,15
+11:30,Utah,Both Gach,Dunk,7,17
+11:11,Colorado,D'Shawn Schwartz,Turnover,7,17
+11:11,Utah,Both Gach,Steal,7,17
+11:08,Utah,Timmy Allen,Dunk,7,19
+11:07,Colorado,None,None,7,19
+11:00,Colorado,Shane Gatling,Turnover,7,19
+11:00,Utah,Sedrick Barefield,Steal,7,19
+10:55,Utah,Timmy Allen,Dunk,7,21
+10:42,Colorado,Tyler Bey,Turnover,7,21
+10:42,Utah,Timmy Allen,Steal,7,21
+10:37,Utah,Sedrick Barefield,Turnover,7,21
+10:13,Colorado,None,None,7,21
+10:06,Colorado,Shane Gatling,Missed Three Point Jumper,7,21
+10:06,Colorado,Lucas Siewert,Offensive Rebound,7,21
+10:00,Colorado,Daylen Kountz,Turnover,7,21
+10:00,Utah,Donnie Tillman,Steal,7,21
+9:55,Utah,Both Gach,Foul,7,21
+9:55,Utah,Both Gach,Turnover,7,21
+9:40,Colorado,Lucas Siewert,Jumper,9,21
+9:10,Utah,Both Gach,Missed Three Point Jumper,9,21
+9:10,Colorado,Colorado,Defensive Rebound,9,21
+8:44,Colorado,Lucas Siewert,Missed Jumper,9,21
+8:44,Utah,Jayce Johnson,Block,9,21
+8:44,Colorado,Shane Gatling,Offensive Rebound,9,21
+8:37,Colorado,D'Shawn Schwartz,Missed Jumper,9,21
+8:37,Utah,Donnie Tillman,Defensive Rebound,9,21
+8:27,Colorado,Tyler Bey,Foul,9,21
+8:24,Utah,Sedrick Barefield,Three Point Jumper,9,24
+8:11,Colorado,Shane Gatling,Missed Jumper,9,24
+8:11,Utah,Parker Van Dyke,Defensive Rebound,9,24
+8:00,Utah,Jayce Johnson,Missed Jumper,9,24
+8:00,Colorado,Tyler Bey,Defensive Rebound,9,24
+7:58,Utah,Jayce Johnson,Foul,9,24
+7:57,Utah,None,None,9,24
+7:51,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,9,24
+7:51,Colorado,Lucas Siewert,Offensive Rebound,9,24
+7:51,Colorado,None,None,11,24
+7:20,Colorado,Eli Parquet,Foul,11,24
+7:16,Utah,Sedrick Barefield,Three Point Jumper,11,27
+6:55,Colorado,Tyler Bey,Missed Jumper,11,27
+6:55,Utah,Timmy Allen,Defensive Rebound,11,27
+6:34,Colorado,Tyler Bey,Foul,11,27
+6:34,Utah,Timmy Allen,Free Throw,11,28
+6:34,Utah,Timmy Allen,Free Throw,11,29
+6:19,Colorado,Daylen Kountz,Turnover,11,29
+6:19,Utah,Jayce Johnson,Steal,11,29
+6:11,Utah,Sedrick Barefield,Three Point Jumper,11,32
+6:07,Colorado,None,None,11,32
+5:58,Utah,Both Gach,Foul,11,32
+5:52,Colorado,Namon Wright,Turnover,11,32
+5:52,Utah,Donnie Tillman,Steal,11,32
+5:49,Colorado,Namon Wright,Foul,11,32
+5:49,Utah,Donnie Tillman,Free Throw,11,33
+5:49,Utah,Donnie Tillman,Free Throw,11,34
+5:37,Colorado,Evan Battey,Layup,13,34
+5:37,Utah,Jayce Johnson,Foul,13,34
+5:37,Colorado,Evan Battey,Missed Free Throw,13,34
+5:37,Utah,Novak Topalovic,Defensive Rebound,13,34
+5:32,Utah,Novak Topalovic,Turnover,13,34
+5:32,Colorado,Shane Gatling,Steal,13,34
+5:32,Colorado,Alexander Strating,Missed Layup,13,34
+5:32,Utah,Donnie Tillman,Defensive Rebound,13,34
+5:17,Utah,Charles Jones Jr,Three Point Jumper,13,37
+5:01,Colorado,Evan Battey,Missed Jumper,13,37
+5:01,Utah,Timmy Allen,Defensive Rebound,13,37
+4:37,Utah,Novak Topalovic,Missed Jumper,13,37
+4:37,Colorado,Evan Battey,Defensive Rebound,13,37
+4:30,Colorado,Shane Gatling,Missed Three Point Jumper,13,37
+4:30,Utah,Sedrick Barefield,Defensive Rebound,13,37
+4:07,Utah,Sedrick Barefield,Missed Layup,13,37
+4:07,Colorado,Daylen Kountz,Defensive Rebound,13,37
+4:01,Colorado,Daylen Kountz,Layup,15,37
+3:36,Colorado,Shane Gatling,Foul,15,37
+3:36,Utah,None,None,15,37
+3:36,Utah,Timmy Allen,Missed Free Throw,15,37
+3:36,Utah,None,Team Rebound,15,37
+3:36,Utah,Timmy Allen,Free Throw,15,38
+3:28,Utah,Donnie Tillman,Foul,15,38
+3:15,Colorado,Daylen Kountz,Turnover,15,38
+3:15,Utah,Timmy Allen,Steal,15,38
+3:02,Colorado,Alexander Strating,Foul,15,38
+3:02,Utah,Novak Topalovic,Missed Free Throw,15,38
+3:02,Utah,None,Team Rebound,15,38
+3:02,Utah,Novak Topalovic,Missed Free Throw,15,38
+3:02,Colorado,Shane Gatling,Defensive Rebound,15,38
+2:59,Colorado,Shane Gatling,Missed Layup,15,38
+2:59,Utah,Novak Topalovic,Block,15,38
+2:59,Utah,Timmy Allen,Defensive Rebound,15,38
+2:51,Utah,Sedrick Barefield,Layup,15,40
+2:38,Utah,Novak Topalovic,Foul,15,40
+2:38,Colorado,Evan Battey,Missed Free Throw,15,40
+2:38,Utah,Timmy Allen,Defensive Rebound,15,40
+2:29,Utah,Sedrick Barefield,Missed Three Point Jumper,15,40
+2:28,Colorado,Alexander Strating,Defensive Rebound,15,40
+2:21,Colorado,D'Shawn Schwartz,Missed Jumper,15,40
+2:20,Utah,Novak Topalovic,Defensive Rebound,15,40
+2:13,Colorado,Evan Battey,Foul,15,40
+2:13,Utah,Timmy Allen,Missed Free Throw,15,40
+2:13,Utah,None,Team Rebound,15,40
+2:13,Utah,Timmy Allen,Free Throw,15,41
+1:59,Colorado,Lucas Siewert,Missed Jumper,15,41
+1:59,Utah,Donnie Tillman,Defensive Rebound,15,41
+1:40,Utah,Timmy Allen,Missed Jumper,15,41
+1:40,Colorado,Colorado,Defensive Rebound,15,41
+1:27,Colorado,Alexander Strating,Layup,17,41
+1:06,Utah,Donnie Tillman,Missed Jumper,17,41
+1:06,Utah,Charles Jones Jr,Offensive Rebound,17,41
+0:57,Utah,Charles Jones Jr,Foul,17,41
+0:57,Utah,Charles Jones Jr,Turnover,17,41
+0:42,Colorado,Lucas Siewert,Layup,19,41
+0:29,Utah,Donnie Tillman,Foul,19,41
+0:29,Utah,Donnie Tillman,Turnover,19,41
+0:02,Colorado,Alexander Strating,Missed Jumper,19,41
+0:02,Utah,Novak Topalovic,Defensive Rebound,19,41
+0:00,Utah,None,None,19,41
+20:00,Utah,None,None,19,41
+19:46,Utah,Sedrick Barefield,Missed Three Point Jumper,19,41
+19:46,Colorado,Tyler Bey,Defensive Rebound,19,41
+19:35,Colorado,Shane Gatling,Missed Three Point Jumper,19,41
+19:35,Utah,Sedrick Barefield,Defensive Rebound,19,41
+19:21,Utah,Jayce Johnson,Missed Jumper,19,41
+19:21,Colorado,Tyler Bey,Defensive Rebound,19,41
+19:10,Colorado,Tyler Bey,Missed Jumper,19,41
+19:10,Utah,Timmy Allen,Defensive Rebound,19,41
+18:55,Colorado,D'Shawn Schwartz,Foul,19,41
+18:55,Utah,Timmy Allen,Free Throw,19,42
+18:55,Utah,Timmy Allen,Free Throw,19,43
+18:42,Colorado,Lucas Siewert,Missed Jumper,19,43
+18:42,Utah,Jayce Johnson,Defensive Rebound,19,43
+18:15,Utah,Parker Van Dyke,Missed Three Point Jumper,19,43
+18:15,Colorado,D'Shawn Schwartz,Defensive Rebound,19,43
+17:51,Colorado,Tyler Bey,Missed Jumper,19,43
+17:51,Utah,Jayce Johnson,Block,19,43
+17:51,Utah,Jayce Johnson,Defensive Rebound,19,43
+17:44,Utah,Timmy Allen,Layup,19,45
+17:29,Utah,Riley Battin,Foul,19,45
+17:29,Colorado,Shane Gatling,Free Throw,20,45
+17:29,Colorado,Shane Gatling,Free Throw,21,45
+17:11,Utah,Riley Battin,Missed Jumper,21,45
+17:11,Utah,Riley Battin,Offensive Rebound,21,45
+17:11,Utah,None,None,21,47
+16:51,Colorado,Eli Parquet,Missed Jumper,21,47
+16:51,Colorado,Colorado,Offensive Rebound,21,47
+16:49,Utah,Riley Battin,Foul,21,47
+16:46,Colorado,Shane Gatling,Missed Layup,21,47
+16:46,Utah,Parker Van Dyke,Defensive Rebound,21,47
+16:35,Utah,Riley Battin,Layup,21,49
+16:27,Colorado,None,None,21,49
+16:16,Colorado,Shane Gatling,Missed Three Point Jumper,21,49
+16:16,Colorado,D'Shawn Schwartz,Offensive Rebound,21,49
+16:11,Colorado,D'Shawn Schwartz,Layup,23,49
+16:01,Utah,Parker Van Dyke,Missed Three Point Jumper,23,49
+16:01,Colorado,Tyler Bey,Defensive Rebound,23,49
+15:52,Utah,Parker Van Dyke,Foul,23,49
+15:52,Utah,None,None,23,49
+15:38,Colorado,Tyler Bey,Missed Jumper,23,49
+15:38,Colorado,D'Shawn Schwartz,Offensive Rebound,23,49
+15:32,Colorado,D'Shawn Schwartz,Missed Jumper,23,49
+15:32,Utah,Both Gach,Defensive Rebound,23,49
+15:27,Utah,Timmy Allen,Layup,23,51
+15:05,Colorado,Evan Battey,Missed Jumper,23,51
+15:05,Utah,Timmy Allen,Defensive Rebound,23,51
+14:49,Utah,Both Gach,Missed Three Point Jumper,23,51
+14:49,Colorado,Tyler Bey,Defensive Rebound,23,51
+14:32,Utah,Both Gach,Foul,23,51
+14:28,Colorado,Shane Gatling,Three Point Jumper,26,51
+14:13,Utah,Timmy Allen,Missed Jumper,26,51
+14:13,Colorado,Evan Battey,Defensive Rebound,26,51
+14:05,Colorado,Evan Battey,Jumper,28,51
+13:43,Utah,Sedrick Barefield,Turnover,28,51
+13:43,Colorado,Tyler Bey,Steal,28,51
+13:33,Colorado,Shane Gatling,Layup,30,51
+13:13,Utah,Sedrick Barefield,Missed Three Point Jumper,30,51
+13:13,Utah,Donnie Tillman,Offensive Rebound,30,51
+12:44,Colorado,Tyler Bey,Foul,30,51
+12:34,Utah,Both Gach,Jumper,30,53
+12:16,Colorado,Shane Gatling,Jumper,32,53
+11:43,Colorado,Evan Battey,Foul,32,53
+11:43,Utah,None,None,32,53
+11:43,Utah,Timmy Allen,Free Throw,32,54
+11:43,Utah,Timmy Allen,Free Throw,32,55
+11:35,Colorado,D'Shawn Schwartz,Three Point Jumper,35,55
+11:17,Utah,Donnie Tillman,Missed Jumper,35,55
+11:17,Colorado,D'Shawn Schwartz,Block,35,55
+11:17,Utah,Utah,Offensive Rebound,35,55
+11:02,Colorado,Alexander Strating,Foul,35,55
+11:00,Utah,Donnie Tillman,Dunk,35,57
+11:00,Colorado,D'Shawn Schwartz,Foul,35,57
+11:00,Utah,Donnie Tillman,Missed Free Throw,35,57
+11:00,Colorado,Lucas Siewert,Defensive Rebound,35,57
+10:45,Utah,Novak Topalovic,Foul,35,57
+10:45,Colorado,Shane Gatling,Free Throw,36,57
+10:45,Colorado,Shane Gatling,Free Throw,37,57
+10:18,Utah,Donnie Tillman,Layup,37,59
+10:12,Utah,Charles Jones Jr,Foul,37,59
+10:01,Colorado,Shane Gatling,Missed Three Point Jumper,37,59
+10:01,Colorado,Eli Parquet,Offensive Rebound,37,59
+9:53,Colorado,Alexander Strating,Missed Layup,37,59
+9:53,Utah,Novak Topalovic,Block,37,59
+9:53,Colorado,Colorado,Offensive Rebound,37,59
+9:39,Colorado,Daylen Kountz,Layup,39,59
+9:39,Utah,Novak Topalovic,Foul,39,59
+9:39,Colorado,Daylen Kountz,Free Throw,40,59
+9:19,Colorado,Shane Gatling,Foul,40,59
+9:14,Utah,Riley Battin,Missed Three Point Jumper,40,59
+9:14,Colorado,Tyler Bey,Defensive Rebound,40,59
+9:06,Colorado,Shane Gatling,Missed Jumper,40,59
+9:06,Utah,Utah,Defensive Rebound,40,59
+8:43,Utah,Riley Battin,Layup,40,61
+8:43,Colorado,Eli Parquet,Foul,40,61
+8:43,Utah,Riley Battin,Free Throw,40,62
+8:25,Colorado,D'Shawn Schwartz,Jumper,42,62
+8:05,Utah,Novak Topalovic,Missed Jumper,42,62
+8:05,Colorado,Tyler Bey,Defensive Rebound,42,62
+7:57,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,42,62
+7:57,Colorado,Alexander Strating,Offensive Rebound,42,62
+7:51,Utah,Donnie Tillman,Foul,42,62
+7:51,Utah,None,None,42,62
+7:51,Colorado,D'Shawn Schwartz,Free Throw,43,62
+7:51,Colorado,D'Shawn Schwartz,Free Throw,44,62
+7:43,Utah,Sedrick Barefield,Layup,44,64
+7:12,Colorado,D'Shawn Schwartz,Jumper,46,64
+6:46,Colorado,Tyler Bey,Foul,46,64
+6:46,Utah,Jayce Johnson,Free Throw,46,65
+6:46,Utah,Jayce Johnson,Free Throw,46,66
+6:32,Colorado,Daylen Kountz,Missed Jumper,46,66
+6:32,Utah,Jayce Johnson,Defensive Rebound,46,66
+6:25,Utah,Both Gach,Missed Layup,46,66
+6:25,Colorado,Daylen Kountz,Defensive Rebound,46,66
+6:18,Colorado,Tyler Bey,Layup,48,66
+6:12,Utah,Sedrick Barefield,Missed Three Point Jumper,48,66
+6:12,Utah,Jayce Johnson,Offensive Rebound,48,66
+6:07,Colorado,Tyler Bey,Foul,48,66
+6:07,Utah,Jayce Johnson,Free Throw,48,67
+6:07,Utah,Jayce Johnson,Free Throw,48,68
+5:53,Utah,Timmy Allen,Foul,48,68
+5:53,Colorado,Shane Gatling,Free Throw,49,68
+5:53,Colorado,Shane Gatling,Free Throw,50,68
+5:36,Utah,Timmy Allen,Foul,50,68
+5:36,Utah,Timmy Allen,Turnover,50,68
+5:26,Colorado,Lucas Siewert,Three Point Jumper,53,68
+4:49,Utah,Donnie Tillman,Layup,53,70
+4:27,Colorado,Daylen Kountz,Layup,55,70
+4:03,Colorado,Shane Gatling,Foul,55,70
+4:03,Utah,Jayce Johnson,Missed Free Throw,55,70
+4:03,Utah,None,Team Rebound,55,70
+4:03,Utah,Jayce Johnson,Missed Free Throw,55,70
+4:03,Colorado,D'Shawn Schwartz,Defensive Rebound,55,70
+3:58,Colorado,Shane Gatling,Three Point Jumper,58,70
+3:46,Utah,None,None,58,70
+3:46,Utah,None,None,58,70
+3:34,Utah,Timmy Allen,Turnover,58,70
+3:34,Colorado,Evan Battey,Steal,58,70
+3:28,Colorado,Daylen Kountz,Layup,60,70
+3:28,Utah,Sedrick Barefield,Foul,60,70
+3:28,Colorado,Daylen Kountz,Missed Free Throw,60,70
+3:28,Utah,Jayce Johnson,Defensive Rebound,60,70
+3:19,Utah,Both Gach,Three Point Jumper,60,73
+2:55,Utah,Jayce Johnson,Foul,60,73
+2:55,Colorado,Evan Battey,Missed Free Throw,60,73
+2:55,Colorado,None,Team Rebound,60,73
+2:55,Colorado,Evan Battey,Free Throw,61,73
+2:38,Colorado,Evan Battey,Foul,61,73
+2:38,Utah,Sedrick Barefield,Missed Free Throw,61,73
+2:38,Utah,None,Team Rebound,61,73
+2:38,Utah,Sedrick Barefield,Free Throw,61,74
+2:26,Colorado,Lucas Siewert,Missed Jumper,61,74
+2:26,Colorado,Lucas Siewert,Offensive Rebound,61,74
+2:25,Utah,Timmy Allen,Foul,61,74
+2:25,Colorado,Lucas Siewert,Missed Free Throw,61,74
+2:25,Colorado,None,Team Rebound,61,74
+2:25,Colorado,Lucas Siewert,Free Throw,62,74
+2:02,Utah,Timmy Allen,Jumper,62,76
+1:49,Colorado,Daylen Kountz,Missed Three Point Jumper,62,76
+1:49,Utah,Both Gach,Defensive Rebound,62,76
+1:21,Colorado,Shane Gatling,Foul,62,76
+1:21,Utah,Sedrick Barefield,Free Throw,62,77
+1:21,Utah,Sedrick Barefield,Free Throw,62,78
+1:15,Colorado,Daylen Kountz,Dunk,64,78
+0:43,Utah,Beau Rydalch,Missed Three Point Jumper,64,78
+0:43,Colorado,Daylen Kountz,Defensive Rebound,64,78
+0:37,Colorado,Shane Gatling,Three Point Jumper,67,78
+0:35,Colorado,None,None,67,78
+0:09,Utah,Both Gach,Turnover,67,78
+0:05,Colorado,Shane Gatling,Jumper,69,78
+0:00,Utah,None,None,69,78

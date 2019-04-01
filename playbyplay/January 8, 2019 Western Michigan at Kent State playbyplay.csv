@@ -1,0 +1,338 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:38,Western Michigan,Josh Davis,Missed Jumper,0,0
+19:36,Kent State,BJ Duling,Defensive Rebound,0,0
+19:08,Kent State,Kain Harris,Turnover,0,0
+19:08,Western Michigan,Kawanise Wilkins,Steal,0,0
+19:02,Western Michigan,Michael Flowers,Missed Three Point Jumper,0,0
+18:59,Western Michigan,Seth Dugan,Offensive Rebound,0,0
+18:57,Kent State,Kain Harris,Foul,0,0
+18:47,Western Michigan,Jared Printy,Three Point Jumper,3,0
+18:22,Kent State,Kain Harris,Missed Three Point Jumper,3,0
+18:19,Kent State,Jalen Avery,Offensive Rebound,3,0
+18:06,Kent State,Philip Whittington,Layup,3,2
+17:56,Western Michigan,Seth Dugan,Turnover,3,2
+17:56,Kent State,BJ Duling,Steal,3,2
+17:51,Kent State,Kain Harris,Three Point Jumper,3,5
+17:31,Western Michigan,Seth Dugan,Missed Layup,3,5
+17:27,Western Michigan,Seth Dugan,Offensive Rebound,3,5
+17:27,Western Michigan,Seth Dugan,Missed Layup,3,5
+17:25,Western Michigan,Kawanise Wilkins,Offensive Rebound,3,5
+17:24,Western Michigan,Kawanise Wilkins,Missed Layup,3,5
+17:24,Kent State,Philip Whittington,Block,3,5
+17:20,Kent State,Jaylin Walker,Defensive Rebound,3,5
+17:15,Kent State,Jaylin Walker,Jumper,3,7
+17:05,Western Michigan,Michael Flowers,Three Point Jumper,6,7
+16:41,Kent State,BJ Duling,Missed Three Point Jumper,6,7
+16:38,Western Michigan,Josh Davis,Defensive Rebound,6,7
+16:33,Western Michigan,Seth Dugan,Missed Layup,6,7
+16:27,Kent State,Philip Whittington,Defensive Rebound,6,7
+16:25,Kent State,Jaylin Walker,Missed Layup,6,7
+16:20,Kent State,Philip Whittington,Offensive Rebound,6,7
+16:19,Kent State,Jalen Avery,Three Point Jumper,6,10
+16:01,Western Michigan,Jared Printy,Missed Three Point Jumper,6,10
+15:58,Kent State,Jalen Avery,Defensive Rebound,6,10
+15:51,Kent State,Philip Whittington,Foul,6,10
+15:51,Kent State,Philip Whittington,Turnover,6,10
+15:51,Kent State,None,None,6,10
+15:25,Western Michigan,Michael Flowers,Jumper,8,10
+15:10,Western Michigan,Jared Printy,Foul,8,10
+15:10,Kent State,Antonio Williams,Missed Free Throw,8,10
+15:10,Kent State,None,Team Rebound,8,10
+15:10,Kent State,Antonio Williams,Free Throw,8,11
+14:51,Western Michigan,Josh Davis,Jumper,10,11
+14:31,Kent State,Anthony Roberts,Missed Three Point Jumper,10,11
+14:28,Western Michigan,Seth Dugan,Defensive Rebound,10,11
+14:23,Western Michigan,Jared Printy,Missed Three Point Jumper,10,11
+14:19,Kent State,Jalen Avery,Defensive Rebound,10,11
+14:11,Western Michigan,Jared Printy,Foul,10,11
+14:11,Kent State,Jaylin Walker,Missed Free Throw,10,11
+14:11,Kent State,None,Team Rebound,10,11
+14:11,Kent State,Jaylin Walker,Free Throw,10,12
+13:57,Western Michigan,Adida Ikongshul,Missed Jumper,10,12
+13:54,Kent State,Anthony Roberts,Defensive Rebound,10,12
+13:49,Kent State,Anthony Roberts,Missed Jumper,10,12
+13:47,Western Michigan,William Boyer-Richard,Defensive Rebound,10,12
+13:35,Western Michigan,Michael Flowers,Turnover,10,12
+13:21,Kent State,Antonio Williams,Layup,10,14
+12:59,Western Michigan,Josh Davis,Turnover,10,14
+12:59,Kent State,BJ Duling,Steal,10,14
+12:55,Kent State,Antonio Williams,Dunk,10,16
+12:27,Western Michigan,Josh Davis,Three Point Jumper,13,16
+12:04,Kent State,BJ Duling,Layup,13,18
+12:04,Western Michigan,TJ Clifford,Foul,13,18
+12:04,Kent State,BJ Duling,Free Throw,13,19
+11:48,Western Michigan,Kawanise Wilkins,Missed Layup,13,19
+11:46,Kent State,Mitch Peterson,Defensive Rebound,13,19
+11:41,Kent State,Jalen Avery,Layup,13,21
+11:28,Western Michigan,Patrick Emilien,Missed Three Point Jumper,13,21
+11:25,Kent State,Philip Whittington,Defensive Rebound,13,21
+11:11,Kent State,Philip Whittington,Turnover,13,21
+11:11,Western Michigan,William Boyer-Richard,Steal,13,21
+10:58,Western Michigan,William Boyer-Richard,Missed Layup,13,21
+10:53,Kent State,Jalen Avery,Defensive Rebound,13,21
+10:38,Western Michigan,William Boyer-Richard,Foul,13,21
+10:38,Kent State,None,None,13,21
+10:20,Kent State,C.J. Williamson,Missed Three Point Jumper,13,21
+10:16,Kent State,Philip Whittington,Offensive Rebound,13,21
+10:16,Kent State,Philip Whittington,Turnover,13,21
+9:52,Western Michigan,Kawanise Wilkins,Missed Three Point Jumper,13,21
+9:49,Kent State,Mitch Peterson,Defensive Rebound,13,21
+9:34,Western Michigan,William Boyer-Richard,Foul,13,21
+9:25,Kent State,Jalen Avery,Layup,13,23
+9:07,Western Michigan,Michael Flowers,Jumper,15,23
+8:57,Kent State,Jaylin Walker,Turnover,15,23
+8:26,Western Michigan,Adrian Martin,Missed Jumper,15,23
+8:26,Kent State,Philip Whittington,Block,15,23
+8:26,Western Michigan,Western Michigan ,Turnover,15,23
+8:26,Western Michigan,None,Team Rebound,15,23
+8:04,Kent State,Jaylin Walker,Missed Three Point Jumper,15,23
+8:02,Kent State,None,Team Rebound,15,23
+8:02,Western Michigan,Michael Flowers,Foul,15,23
+8:02,Kent State,C.J. Williamson,Free Throw,15,24
+8:02,Kent State,C.J. Williamson,Free Throw,15,25
+7:58,Western Michigan,None,None,15,25
+7:58,Kent State,None,None,15,25
+7:46,Kent State,BJ Duling,Foul,15,25
+7:46,Western Michigan,Seth Dugan,Free Throw,16,25
+7:46,Western Michigan,Seth Dugan,Free Throw,17,25
+7:34,Kent State,Jaylin Walker,Turnover,17,25
+7:20,Western Michigan,Seth Dugan,Layup,19,25
+7:20,Kent State,C.J. Williamson,Foul,19,25
+7:20,Western Michigan,Seth Dugan,Free Throw,20,25
+7:01,Kent State,Jaylin Walker,Jumper,20,27
+6:48,Kent State,Anthony Roberts,Foul,20,27
+6:48,Western Michigan,Kawanise Wilkins,Missed Free Throw,20,27
+6:48,Western Michigan,None,Team Rebound,20,27
+6:48,Western Michigan,Kawanise Wilkins,Free Throw,21,27
+6:18,Kent State,Antonio Williams,Missed Jumper,21,27
+6:15,Kent State,Philip Whittington,Offensive Rebound,21,27
+6:14,Kent State,Philip Whittington,Jumper,21,29
+5:52,Western Michigan,Patrick Emilien,Turnover,21,29
+5:52,Kent State,Kain Harris,Steal,21,29
+5:45,Kent State,Kain Harris,Missed Three Point Jumper,21,29
+5:43,Western Michigan,Patrick Emilien,Defensive Rebound,21,29
+5:29,Western Michigan,Seth Dugan,Missed Layup,21,29
+5:27,Kent State,Philip Whittington,Defensive Rebound,21,29
+5:22,Kent State,Antonio Williams,Layup,21,31
+5:11,Western Michigan,Josh Davis,Turnover,21,31
+5:11,Kent State,Philip Whittington,Steal,21,31
+5:11,Western Michigan,Josh Davis,Foul,21,31
+5:11,Kent State,Jaylin Walker,Free Throw,21,32
+5:11,Kent State,Jaylin Walker,Missed Free Throw,21,32
+5:11,Kent State,None,Team Rebound,21,32
+5:01,Kent State,Jaylin Walker,Turnover,21,32
+4:41,Western Michigan,Michael Flowers,Missed Three Point Jumper,21,32
+4:39,Kent State,Mitch Peterson,Defensive Rebound,21,32
+4:16,Kent State,Jaylin Walker,Missed Three Point Jumper,21,32
+4:13,Western Michigan,Jared Printy,Defensive Rebound,21,32
+4:07,Western Michigan,Michael Flowers,Missed Jumper,21,32
+4:06,Western Michigan,None,Team Rebound,21,32
+4:06,Kent State,Jalen Avery,Foul,21,32
+4:03,Kent State,Antonio Williams,Foul,21,32
+4:03,Western Michigan,Seth Dugan,Free Throw,22,32
+4:03,Western Michigan,Seth Dugan,Missed Free Throw,22,32
+4:01,Kent State,Philip Whittington,Defensive Rebound,22,32
+3:42,Kent State,C.J. Williamson,Three Point Jumper,22,35
+3:30,Kent State,Jaylin Walker,Foul,22,35
+3:30,Kent State,None,None,22,35
+3:30,Western Michigan,Seth Dugan,Missed Free Throw,22,35
+3:30,Western Michigan,None,Team Rebound,22,35
+3:30,Western Michigan,Seth Dugan,Missed Free Throw,22,35
+3:28,Kent State,Philip Whittington,Defensive Rebound,22,35
+3:11,Kent State,C.J. Williamson,Jumper,22,37
+2:45,Kent State,Philip Whittington,Missed Layup,24,37
+2:39,Kent State,Philip Whittington,Offensive Rebound,24,37
+2:39,Kent State,Philip Whittington,Missed Layup,24,37
+2:39,Western Michigan,Patrick Emilien,Block,24,37
+2:37,Western Michigan,Patrick Emilien,Defensive Rebound,24,37
+2:34,Western Michigan,Josh Davis,Missed Three Point Jumper,24,37
+2:31,Kent State,Philip Whittington,Defensive Rebound,24,37
+2:12,Kent State,C.J. Williamson,Missed Jumper,24,37
+2:09,Western Michigan,Michael Flowers,Defensive Rebound,24,37
+2:02,Western Michigan,Seth Dugan,Layup,26,37
+1:54,Kent State,None,None,26,37
+1:53,Kent State,Mitch Peterson,Foul,26,37
+1:53,Kent State,Mitch Peterson,Turnover,26,37
+1:41,Western Michigan,Seth Dugan,Turnover,26,37
+1:29,Kent State,Jaylin Walker,Missed Three Point Jumper,26,37
+1:26,Western Michigan,Jared Printy,Defensive Rebound,26,37
+1:19,Western Michigan,Michael Flowers,Missed Layup,26,37
+1:17,Kent State,Jalen Avery,Defensive Rebound,26,37
+1:12,Kent State,Antonio Williams,Layup,26,39
+0:58,Western Michigan,Josh Davis,Layup,28,39
+0:35,Kent State,Jaylin Walker,Jumper,28,41
+0:30,Western Michigan,William Boyer-Richard,Three Point Jumper,31,41
+0:01,Kent State,Jaylin Walker,Three Point Jumper,31,44
+0:00,Kent State,None,None,31,44
+19:48,Western Michigan,Kawanise Wilkins,Foul,31,44
+19:48,Kent State,BJ Duling,Missed Free Throw,31,44
+19:48,Kent State,None,Team Rebound,31,44
+19:48,Kent State,BJ Duling,Missed Free Throw,31,44
+19:46,Western Michigan,Kawanise Wilkins,Defensive Rebound,31,44
+19:33,Western Michigan,Josh Davis,Turnover,31,44
+19:01,Kent State,Jaylin Walker,Missed Jumper,31,44
+19:01,Kent State,Kent State,Offensive Rebound,31,44
+19:01,Kent State,Kent State ,Turnover,31,44
+18:36,Kent State,BJ Duling,Foul,31,44
+18:36,Western Michigan,Kawanise Wilkins,Missed Free Throw,31,44
+18:36,Western Michigan,None,Team Rebound,31,44
+18:36,Western Michigan,Kawanise Wilkins,Free Throw,32,44
+18:13,Western Michigan,Josh Davis,Foul,32,44
+18:05,Kent State,Kain Harris,Missed Layup,32,44
+18:05,Western Michigan,Kawanise Wilkins,Block,32,44
+18:02,Western Michigan,Michael Flowers,Defensive Rebound,32,44
+17:59,Western Michigan,Jared Printy,Missed Three Point Jumper,32,44
+17:54,Western Michigan,Kawanise Wilkins,Offensive Rebound,32,44
+17:54,Western Michigan,Kawanise Wilkins,Missed Layup,32,44
+17:54,Kent State,Kain Harris,Block,32,44
+17:51,Western Michigan,Josh Davis,Offensive Rebound,32,44
+17:49,Western Michigan,Josh Davis,Missed Layup,32,44
+17:44,Kent State,Jalen Avery,Defensive Rebound,32,44
+17:44,Kent State,Philip Whittington,Layup,32,46
+17:44,Western Michigan,Michael Flowers,Foul,32,46
+17:44,Kent State,Philip Whittington,Free Throw,32,47
+17:34,Western Michigan,Michael Flowers,Missed Layup,32,47
+17:25,Western Michigan,Josh Davis,Offensive Rebound,32,47
+17:25,Western Michigan,Josh Davis,Missed Layup,32,47
+17:24,Kent State,Antonio Williams,Defensive Rebound,32,47
+17:22,Kent State,Jalen Avery,Three Point Jumper,32,50
+17:17,Western Michigan,None,None,32,50
+17:17,Kent State,None,None,32,50
+17:01,Western Michigan,Western Michigan,Offensive Rebound,32,50
+16:54,Western Michigan,Michael Flowers,Missed Jumper,32,50
+16:52,Kent State,Philip Whittington,Defensive Rebound,32,50
+16:46,Kent State,Jaylin Walker,Missed Three Point Jumper,32,50
+16:42,Western Michigan,Jared Printy,Defensive Rebound,32,50
+16:39,Kent State,Antonio Williams,Foul,32,50
+16:29,Western Michigan,Josh Davis,Missed Jumper,32,50
+16:26,Western Michigan,Josh Davis,Offensive Rebound,32,50
+16:26,Kent State,BJ Duling,Foul,32,50
+16:26,Western Michigan,Josh Davis,Free Throw,33,50
+16:26,Western Michigan,Josh Davis,Missed Free Throw,33,50
+16:25,Kent State,Philip Whittington,Defensive Rebound,33,50
+16:09,Kent State,Jalen Avery,Missed Three Point Jumper,33,50
+16:06,Western Michigan,Western Michigan,Defensive Rebound,33,50
+15:53,Western Michigan,Michael Flowers,Three Point Jumper,36,50
+15:36,Western Michigan,Seth Dugan,Foul,36,50
+15:36,Kent State,None,None,36,50
+15:36,Kent State,Jalen Avery,Free Throw,36,51
+15:36,Kent State,Jalen Avery,Free Throw,36,52
+15:22,Western Michigan,Josh Davis,Jumper,38,52
+14:50,Western Michigan,Jared Printy,Defensive Rebound,38,52
+14:46,Kent State,Philip Whittington,Foul,38,52
+14:40,Western Michigan,Seth Dugan,Missed Layup,38,52
+14:36,Western Michigan,Seth Dugan,Offensive Rebound,38,52
+14:36,Western Michigan,Seth Dugan,Layup,40,52
+14:20,Kent State,C.J. Williamson,Missed Jumper,40,52
+14:18,Western Michigan,Seth Dugan,Defensive Rebound,40,52
+14:10,Kent State,Anthony Roberts,Foul,40,52
+14:10,Western Michigan,Kawanise Wilkins,Free Throw,41,52
+14:10,Western Michigan,Kawanise Wilkins,Free Throw,42,52
+13:48,Kent State,Antonio Williams,Turnover,42,52
+13:48,Western Michigan,Kawanise Wilkins,Steal,42,52
+13:41,Western Michigan,William Boyer-Richard,Three Point Jumper,45,52
+13:21,Western Michigan,William Boyer-Richard,Foul,45,52
+13:10,Kent State,Anthony Roberts,Missed Layup,45,52
+13:07,Western Michigan,Kawanise Wilkins,Defensive Rebound,45,52
+13:01,Western Michigan,William Boyer-Richard,Three Point Jumper,48,52
+12:53,Kent State,None,None,48,52
+12:39,Kent State,Jaylin Walker,Missed Layup,48,52
+12:37,Western Michigan,Adida Ikongshul,Defensive Rebound,48,52
+12:35,Western Michigan,Michael Flowers,Turnover,48,52
+12:19,Western Michigan,Kawanise Wilkins,Foul,48,52
+12:19,Kent State,Jaylin Walker,Free Throw,48,53
+12:19,Kent State,Jaylin Walker,Free Throw,48,54
+11:59,Western Michigan,Adrian Martin,Missed Three Point Jumper,48,54
+11:57,Western Michigan,Western Michigan,Offensive Rebound,48,54
+11:57,Kent State,None,None,48,54
+11:49,Western Michigan,Patrick Emilien,Foul,48,54
+11:49,Western Michigan,Patrick Emilien,Turnover,48,54
+11:30,Kent State,Jaylin Walker,Three Point Jumper,48,57
+11:11,Western Michigan,Josh Davis,Missed Layup,48,57
+11:08,Kent State,Jalen Avery,Defensive Rebound,48,57
+11:04,Kent State,Mitch Peterson,Three Point Jumper,48,60
+10:58,Western Michigan,None,None,48,60
+10:46,Kent State,Mitch Peterson,Foul,48,60
+10:46,Western Michigan,Seth Dugan,Free Throw,49,60
+10:46,Western Michigan,Seth Dugan,Free Throw,50,60
+10:29,Kent State,Mitch Peterson,Layup,50,62
+10:14,Western Michigan,Michael Flowers,Three Point Jumper,53,62
+9:57,Kent State,Mitch Peterson,Foul,53,62
+9:57,Kent State,Mitch Peterson,Turnover,53,62
+9:42,Western Michigan,William Boyer-Richard,Missed Three Point Jumper,53,62
+9:40,Western Michigan,Western Michigan,Offensive Rebound,53,62
+9:36,Western Michigan,Michael Flowers,Missed Jumper,53,62
+9:31,Kent State,BJ Duling,Defensive Rebound,53,62
+9:25,Kent State,Jaylin Walker,Three Point Jumper,53,65
+9:06,Western Michigan,Michael Flowers,Missed Three Point Jumper,53,65
+9:01,Kent State,BJ Duling,Defensive Rebound,53,65
+8:54,Kent State,Jaylin Walker,Jumper,53,67
+8:43,Western Michigan,Michael Flowers,Missed Layup,53,67
+8:43,Kent State,BJ Duling,Block,53,67
+8:40,Western Michigan,Michael Flowers,Offensive Rebound,53,67
+8:38,Western Michigan,Michael Flowers,Missed Layup,53,67
+8:34,Kent State,Philip Whittington,Defensive Rebound,53,67
+8:28,Kent State,Philip Whittington,Layup,53,69
+8:23,Western Michigan,Michael Flowers,Turnover,53,69
+8:10,Kent State,Jaylin Walker,Missed Three Point Jumper,53,69
+8:07,Western Michigan,Kawanise Wilkins,Defensive Rebound,53,69
+8:03,Western Michigan,Michael Flowers,Layup,55,69
+8:03,Kent State,BJ Duling,Foul,55,69
+8:03,Western Michigan,Michael Flowers,Free Throw,56,69
+7:50,Kent State,Jaylin Walker,Missed Jumper,56,69
+7:46,Western Michigan,Seth Dugan,Defensive Rebound,56,69
+7:33,Western Michigan,William Boyer-Richard,Three Point Jumper,59,69
+7:12,Kent State,Jaylin Walker,Turnover,59,69
+7:12,Kent State,None,None,59,69
+7:01,Kent State,Antonio Williams,Foul,59,69
+7:01,Western Michigan,Patrick Emilien,Free Throw,60,69
+7:00,Western Michigan,Patrick Emilien,Missed Free Throw,60,69
+6:55,Kent State,Jaylin Walker,Defensive Rebound,60,69
+6:40,Kent State,Philip Whittington,Missed Layup,60,69
+6:40,Western Michigan,Seth Dugan,Block,60,69
+6:33,Kent State,Philip Whittington,Offensive Rebound,60,69
+6:32,Kent State,Philip Whittington,Layup,60,71
+6:18,Western Michigan,Patrick Emilien,Missed Three Point Jumper,60,71
+6:15,Kent State,Antonio Williams,Defensive Rebound,60,71
+6:11,Kent State,Mitch Peterson,Layup,60,73
+5:54,Western Michigan,Kawanise Wilkins,Foul,60,73
+5:54,Western Michigan,Kawanise Wilkins,Turnover,60,73
+5:42,Kent State,Jaylin Walker,Missed Three Point Jumper,60,73
+5:38,Kent State,Mitch Peterson,Offensive Rebound,60,73
+5:35,Kent State,Mitch Peterson,Missed Three Point Jumper,60,73
+5:32,Western Michigan,Kawanise Wilkins,Defensive Rebound,60,73
+4:57,Kent State,Jalen Avery,Missed Three Point Jumper,62,73
+4:54,Western Michigan,Michael Flowers,Defensive Rebound,62,73
+4:50,Western Michigan,Kawanise Wilkins,Three Point Jumper,65,73
+4:25,Kent State,Jaylin Walker,Missed Layup,65,73
+4:22,Kent State,Philip Whittington,Offensive Rebound,65,73
+4:22,Kent State,Philip Whittington,Layup,65,75
+3:57,Western Michigan,William Boyer-Richard,Turnover,65,75
+3:57,Kent State,Philip Whittington,Steal,65,75
+3:49,Kent State,Mitch Peterson,Three Point Jumper,65,78
+3:35,Western Michigan,Michael Flowers,Missed Three Point Jumper,65,78
+3:30,Western Michigan,Josh Davis,Offensive Rebound,65,78
+3:29,Western Michigan,Josh Davis,Missed Three Point Jumper,65,78
+3:26,Western Michigan,Josh Davis,Offensive Rebound,65,78
+3:26,Western Michigan,Josh Davis,Turnover,65,78
+3:26,Kent State,None,None,65,78
+3:16,Western Michigan,Kawanise Wilkins,Foul,65,78
+3:16,Kent State,Antonio Williams,Missed Free Throw,65,78
+3:16,Kent State,None,Team Rebound,65,78
+3:16,Kent State,Antonio Williams,Free Throw,65,79
+3:05,Kent State,Antonio Williams,Foul,65,79
+3:05,Western Michigan,Michael Flowers,Missed Free Throw,65,79
+3:05,Western Michigan,None,Team Rebound,65,79
+3:05,Western Michigan,Michael Flowers,Free Throw,66,79
+2:57,Kent State,Jaylin Walker,Dunk,66,81
+2:34,Western Michigan,Josh Davis,Jumper,68,81
+2:06,Kent State,Mitch Peterson,Three Point Jumper,68,84
+1:48,Western Michigan,William Boyer-Richard,Missed Three Point Jumper,68,84
+1:46,Kent State,Jaylin Walker,Defensive Rebound,68,84
+1:46,Western Michigan,None,None,68,84
+1:17,Kent State,Antonio Williams,Layup,68,86
+0:59,Western Michigan,Michael Flowers,Three Point Jumper,71,86
+0:31,Kent State,Antonio Williams,Jumper,71,88
+0:21,Western Michigan,Josh Davis,Layup,73,88
+0:00,Kent State,None,None,73,88
+0:00,Kent State,None,None,73,88

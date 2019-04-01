@@ -1,0 +1,329 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Xavier,None,None,0,0
+19:40,Xavier,Paul Scruggs,Missed Three Point Jumper,0,0
+19:40,Toledo,Luke Knapke,Defensive Rebound,0,0
+19:29,Toledo,Jaelan Sanford,Three Point Jumper,3,0
+18:55,Xavier,Naji Marshall,Missed Three Point Jumper,3,0
+18:55,Toledo,Chris Darrington,Defensive Rebound,3,0
+18:45,Toledo,Jaelan Sanford,Turnover,3,0
+18:24,Xavier,Zach Hankins,Jumper,3,2
+18:06,Toledo,Jaelan Sanford,Missed Jumper,3,2
+18:06,Xavier,Naji Marshall,Defensive Rebound,3,2
+17:43,Xavier,Paul Scruggs,Missed Jumper,3,2
+17:43,Xavier,Paul Scruggs,Offensive Rebound,3,2
+17:38,Xavier,Paul Scruggs,Missed Jumper,3,2
+17:38,Toledo,Luke Knapke,Block,3,2
+17:38,Toledo,Jaelan Sanford,Defensive Rebound,3,2
+17:27,Xavier,Zach Hankins,Foul,3,2
+17:25,Toledo,Luke Knapke,Missed Three Point Jumper,3,2
+17:25,Xavier,Naji Marshall,Defensive Rebound,3,2
+17:04,Xavier,Quentin Goodin,Missed Three Point Jumper,3,2
+17:04,Xavier,Paul Scruggs,Offensive Rebound,3,2
+16:54,Xavier,Kyle Castlin,Jumper,3,4
+16:39,Toledo,Chris Darrington,Three Point Jumper,6,4
+16:16,Xavier,Tyrique Jones,Missed Dunk,6,4
+16:16,Xavier,Paul Scruggs,Offensive Rebound,6,4
+15:55,Xavier,Paul Scruggs,Missed Three Point Jumper,6,4
+15:55,Xavier,Naji Marshall,Offensive Rebound,6,4
+15:42,Xavier,Kyle Castlin,Missed Jumper,6,4
+15:42,Toledo,Chris Darrington,Defensive Rebound,6,4
+15:29,Toledo,AJ Edu,Missed Jumper,6,4
+15:29,Xavier,Naji Marshall,Defensive Rebound,6,4
+15:19,Xavier,Naji Marshall,Jumper,6,6
+15:02,Toledo,Chris Darrington,Jumper,8,6
+14:42,Xavier,Tyrique Jones,Jumper,8,8
+14:14,Toledo,Chris Darrington,Missed Three Point Jumper,8,8
+14:14,Xavier,Naji Marshall,Defensive Rebound,8,8
+14:00,Xavier,Naji Marshall,Jumper,8,10
+13:30,Toledo,Luke Knapke,Missed Jumper,8,10
+13:30,Xavier,Naji Marshall,Defensive Rebound,8,10
+13:23,Xavier,Tyrique Jones,Turnover,8,10
+13:23,Toledo,AJ Edu,Steal,8,10
+13:05,Toledo,Nate Navigato,Jumper,10,10
+13:05,Xavier,Paul Scruggs,Foul,10,10
+13:05,Xavier,None,None,10,10
+13:05,Toledo,Nate Navigato,Missed Free Throw,10,10
+13:05,Toledo,Nate Navigato,Offensive Rebound,10,10
+13:04,Xavier,None,None,11,10
+12:50,Toledo,Jaelan Sanford,Missed Three Point Jumper,10,10
+12:50,Xavier,Kyle Castlin,Defensive Rebound,10,10
+12:39,Xavier,Kyle Castlin,Missed Jumper,10,10
+12:39,Toledo,Chris Darrington,Defensive Rebound,10,10
+12:31,Toledo,Nate Navigato,Jumper,12,10
+12:13,Xavier,Zach Hankins,Jumper,12,12
+11:45,Toledo,Luke Knapke,Missed Jumper,12,12
+11:45,Xavier,Naji Marshall,Defensive Rebound,12,12
+11:31,Xavier,Naji Marshall,Missed Jumper,12,12
+11:31,Toledo,Chris Darrington,Defensive Rebound,12,12
+11:14,Toledo,Jaelan Sanford,Jumper,14,12
+10:51,Xavier,Kyle Castlin,Missed Three Point Jumper,14,12
+10:51,Toledo,Luke Knapke,Defensive Rebound,14,12
+10:39,Toledo,Chris Darrington,Missed Jumper,14,12
+10:39,Xavier,Naji Marshall,Defensive Rebound,14,12
+10:28,Xavier,Naji Marshall,Missed Jumper,14,12
+10:28,Xavier,Kyle Castlin,Offensive Rebound,14,12
+10:13,Toledo,Luke Knapke,Foul,14,12
+10:13,Xavier,None,None,14,12
+10:13,Xavier,Kyle Castlin,Missed Free Throw,14,12
+10:13,Xavier,None,Team Rebound,14,12
+10:13,Xavier,Kyle Castlin,Free Throw,14,13
+10:11,Toledo,Chris Darrington,Turnover,14,13
+10:11,Xavier,Ryan Welage,Steal,14,13
+9:57,Xavier,Naji Marshall,Turnover,14,13
+9:57,Toledo,Nate Navigato,Steal,14,13
+9:46,Toledo,Nate Navigato,Three Point Jumper,17,13
+9:27,Xavier,Ryan Welage,Three Point Jumper,17,16
+9:03,Toledo,AJ Edu,Missed Three Point Jumper,17,16
+9:03,Xavier,Naji Marshall,Defensive Rebound,17,16
+8:50,Xavier,Elias Harden,Missed Three Point Jumper,17,16
+8:50,Toledo,Jaelan Sanford,Defensive Rebound,17,16
+8:34,Toledo,Jaelan Sanford,Jumper,19,16
+8:18,Xavier,Quentin Goodin,Turnover,19,16
+8:03,Toledo,Spencer Littleson,Foul,19,16
+8:03,Toledo,Spencer Littleson,Turnover,19,16
+7:49,Xavier,Elias Harden,Three Point Jumper,19,19
+7:20,Toledo,Luke Knapke,Missed Three Point Jumper,19,19
+7:20,Xavier,Kyle Castlin,Defensive Rebound,19,19
+7:13,Xavier,Elias Harden,Missed Three Point Jumper,19,19
+7:13,Toledo,AJ Edu,Block,19,19
+7:13,Xavier,Xavier,Offensive Rebound,19,19
+7:13,Xavier,None,None,19,19
+6:48,Xavier,Quentin Goodin,Missed Jumper,19,19
+6:48,Xavier,Tyrique Jones,Offensive Rebound,19,19
+6:48,Xavier,None,None,19,21
+6:29,Xavier,Kyle Castlin,Foul,19,21
+6:26,Toledo,Jaelan Sanford,Missed Jumper,19,21
+6:26,Xavier,Quentin Goodin,Defensive Rebound,19,21
+6:05,Xavier,Tyrique Jones,Missed Jumper,19,21
+6:05,Toledo,Spencer Littleson,Defensive Rebound,19,21
+6:03,Toledo,None,None,19,21
+5:51,Toledo,Chris Darrington,Missed Jumper,19,21
+5:51,Xavier,Elias Harden,Defensive Rebound,19,21
+5:20,Xavier,Elias Harden,Turnover,19,21
+5:20,Toledo,Luke Knapke,Steal,19,21
+5:06,Toledo,Chris Darrington,Three Point Jumper,22,21
+4:45,Xavier,Elias Harden,Jumper,22,23
+4:14,Toledo,Jaelan Sanford,Missed Three Point Jumper,22,23
+4:14,Xavier,Elias Harden,Defensive Rebound,22,23
+4:04,Xavier,Paul Scruggs,Missed Three Point Jumper,22,23
+4:03,Xavier,Xavier,Offensive Rebound,22,23
+4:02,Toledo,Luke Knapke,Foul,22,23
+3:54,Xavier,Paul Scruggs,Missed Three Point Jumper,22,23
+3:54,Toledo,Jaelan Sanford,Defensive Rebound,22,23
+3:41,Toledo,James Gordon IV,Missed Jumper,22,23
+3:41,Xavier,Quentin Goodin,Defensive Rebound,22,23
+3:23,Xavier,Quentin Goodin,Missed Jumper,22,23
+3:23,Toledo,Chris Darrington,Defensive Rebound,22,23
+3:16,Toledo,Chris Darrington,Missed Jumper,22,23
+3:16,Toledo,AJ Edu,Offensive Rebound,22,23
+3:16,Toledo,None,None,22,23
+3:16,Xavier,Naji Marshall,Defensive Rebound,22,23
+3:08,Toledo,Chris Darrington,Foul,22,23
+3:08,Xavier,None,None,22,23
+2:46,Xavier,Naji Marshall,Missed Jumper,22,23
+2:46,Toledo,AJ Edu,Defensive Rebound,22,23
+2:21,Toledo,Nate Navigato,Three Point Jumper,25,23
+2:01,Xavier,Paul Scruggs,Missed Three Point Jumper,25,23
+2:01,Toledo,Jaelan Sanford,Defensive Rebound,25,23
+1:50,Toledo,Luke Knapke,Missed Three Point Jumper,25,23
+1:50,Xavier,Paul Scruggs,Defensive Rebound,25,23
+1:34,Xavier,Naji Marshall,Missed Three Point Jumper,25,23
+1:34,Toledo,Luke Knapke,Defensive Rebound,25,23
+1:18,Toledo,Chris Darrington,Missed Jumper,25,23
+1:18,Xavier,Tyrique Jones,Block,25,23
+1:18,Xavier,Quentin Goodin,Defensive Rebound,25,23
+1:08,Xavier,Quentin Goodin,Dunk,25,25
+0:47,Xavier,Naji Marshall,Foul,25,25
+0:43,Toledo,Jaelan Sanford,Jumper,27,25
+0:30,Xavier,None,None,27,25
+0:15,Xavier,Paul Scruggs,Missed Three Point Jumper,27,25
+0:15,Xavier,Tyrique Jones,Offensive Rebound,27,25
+0:15,Xavier,None,None,27,27
+0:01,Toledo,Nate Navigato,Turnover,27,27
+0:01,Xavier,Naji Marshall,Steal,27,27
+0:00,Xavier,None,None,27,27
+20:00,Xavier,None,None,27,27
+19:33,Xavier,Zach Hankins,Missed Jumper,27,27
+19:33,Xavier,Tyrique Jones,Offensive Rebound,27,27
+19:33,Xavier,None,None,27,29
+19:06,Toledo,Chris Darrington,Missed Three Point Jumper,27,29
+19:06,Xavier,Naji Marshall,Defensive Rebound,27,29
+18:55,Xavier,Naji Marshall,Turnover,27,29
+18:55,Toledo,AJ Edu,Steal,27,29
+18:49,Toledo,Jaelan Sanford,Jumper,29,29
+18:34,Toledo,AJ Edu,Foul,29,29
+18:34,Xavier,Quentin Goodin,Free Throw,29,30
+18:34,Xavier,Quentin Goodin,Missed Free Throw,29,30
+18:34,Xavier,Tyrique Jones,Offensive Rebound,29,30
+18:26,Xavier,Quentin Goodin,Three Point Jumper,29,33
+18:14,Toledo,Nate Navigato,Turnover,29,33
+18:14,Xavier,Zach Hankins,Steal,29,33
+18:03,Xavier,Quentin Goodin,Missed Three Point Jumper,29,33
+18:03,Toledo,Nate Navigato,Defensive Rebound,29,33
+17:54,Toledo,Nate Navigato,Three Point Jumper,32,33
+17:33,Xavier,Naji Marshall,Missed Three Point Jumper,32,33
+17:33,Toledo,Nate Navigato,Defensive Rebound,32,33
+17:10,Toledo,AJ Edu,Turnover,32,33
+17:10,Xavier,Tyrique Jones,Steal,32,33
+17:02,Xavier,Paul Scruggs,Jumper,32,35
+16:43,Toledo,Jaelan Sanford,Jumper,34,35
+16:27,Toledo,Luke Knapke,Foul,34,35
+16:20,Xavier,Quentin Goodin,Missed Jumper,34,35
+16:20,Toledo,AJ Edu,Block,34,35
+16:20,Toledo,Luke Knapke,Defensive Rebound,34,35
+16:05,Toledo,Chris Darrington,Jumper,36,35
+15:51,Xavier,Paul Scruggs,Three Point Jumper,36,38
+15:27,Toledo,Chris Darrington,Turnover,36,38
+15:27,Xavier,Naji Marshall,Steal,36,38
+15:21,Xavier,Naji Marshall,Dunk,36,40
+14:54,Toledo,Luke Knapke,Missed Jumper,36,40
+14:54,Xavier,Tyrique Jones,Block,36,40
+14:54,Toledo,Toledo,Offensive Rebound,36,40
+14:54,Xavier,None,None,36,40
+14:52,Xavier,None,None,36,40
+14:49,Toledo,Jaelan Sanford,Turnover,36,40
+14:49,Xavier,Naji Marshall,Steal,36,40
+14:44,Toledo,Jaelan Sanford,Foul,36,40
+14:32,Xavier,Tyrique Jones,Dunk,36,42
+14:08,Toledo,Chris Darrington,Turnover,36,42
+14:08,Xavier,Naji Marshall,Steal,36,42
+13:54,Xavier,Paul Scruggs,Missed Jumper,36,42
+13:54,Toledo,Spencer Littleson,Block,36,42
+13:54,Xavier,Paul Scruggs,Offensive Rebound,36,42
+13:46,Xavier,Kyle Castlin,Missed Jumper,36,42
+13:46,Toledo,Nate Navigato,Block,36,42
+13:46,Toledo,AJ Edu,Defensive Rebound,36,42
+13:34,Toledo,Jaelan Sanford,Missed Three Point Jumper,36,42
+13:34,Xavier,Naji Marshall,Defensive Rebound,36,42
+13:30,Xavier,Naji Marshall,Jumper,36,44
+13:30,Toledo,Spencer Littleson,Foul,36,44
+13:30,Xavier,Naji Marshall,Free Throw,36,45
+13:27,Xavier,None,None,36,45
+13:27,Toledo,None,None,36,45
+13:15,Toledo,Jaelan Sanford,Jumper,38,45
+12:57,Xavier,Paul Scruggs,Three Point Jumper,38,48
+12:25,Toledo,Luke Knapke,Missed Three Point Jumper,38,48
+12:25,Toledo,Spencer Littleson,Offensive Rebound,38,48
+12:25,Toledo,None,None,38,48
+12:25,Xavier,Paul Scruggs,Defensive Rebound,38,48
+12:09,Xavier,Naji Marshall,Missed Three Point Jumper,38,48
+12:09,Toledo,Luke Knapke,Defensive Rebound,38,48
+11:51,Toledo,Jaelan Sanford,Missed Jumper,38,48
+11:51,Xavier,Zach Hankins,Defensive Rebound,38,48
+11:37,Toledo,Jaelan Sanford,Foul,38,48
+11:37,Xavier,None,None,38,48
+11:37,Xavier,Naji Marshall,Free Throw,38,49
+11:37,Xavier,Naji Marshall,Free Throw,38,50
+11:24,Toledo,Jaelan Sanford,Missed Three Point Jumper,38,50
+11:24,Xavier,Zach Hankins,Defensive Rebound,38,50
+11:14,Xavier,Quentin Goodin,Jumper,38,52
+10:56,Toledo,Chris Darrington,Missed Three Point Jumper,38,52
+10:56,Xavier,Quentin Goodin,Defensive Rebound,38,52
+10:46,Xavier,Quentin Goodin,Three Point Jumper,38,55
+10:44,Toledo,None,None,38,55
+10:40,Toledo,Spencer Littleson,Missed Three Point Jumper,38,55
+10:40,Xavier,Naji Marshall,Defensive Rebound,38,55
+10:32,Xavier,Naji Marshall,Three Point Jumper,38,58
+10:11,Toledo,Nate Navigato,Three Point Jumper,41,58
+9:54,Xavier,Zach Hankins,Dunk,41,60
+9:33,Xavier,Zach Hankins,Foul,41,60
+9:33,Toledo,Jaelan Sanford,Free Throw,42,60
+9:33,Toledo,Jaelan Sanford,Free Throw,43,60
+9:22,Xavier,Paul Scruggs,Missed Three Point Jumper,43,60
+9:22,Xavier,Naji Marshall,Offensive Rebound,43,60
+9:12,Xavier,Paul Scruggs,Turnover,43,60
+9:02,Toledo,Nate Navigato,Missed Three Point Jumper,43,60
+9:02,Xavier,Naji Marshall,Defensive Rebound,43,60
+8:54,Toledo,Chris Darrington,Foul,43,60
+8:48,Xavier,Naji Marshall,Missed Three Point Jumper,43,60
+8:48,Xavier,Tyrique Jones,Offensive Rebound,43,60
+8:43,Xavier,Tyrique Jones,Jumper,43,62
+8:32,Xavier,Tyrique Jones,Foul,43,62
+8:16,Xavier,Quentin Goodin,Foul,43,62
+8:16,Toledo,AJ Edu,Free Throw,44,62
+8:16,Toledo,AJ Edu,Missed Free Throw,44,62
+8:16,Xavier,Tyrique Jones,Defensive Rebound,44,62
+8:02,Xavier,Quentin Goodin,Missed Three Point Jumper,44,62
+8:02,Toledo,Jaelan Sanford,Defensive Rebound,44,62
+7:48,Toledo,Chris Darrington,Three Point Jumper,47,62
+7:26,Xavier,Paul Scruggs,Missed Jumper,47,62
+7:26,Toledo,Nate Navigato,Defensive Rebound,47,62
+7:15,Toledo,AJ Edu,Missed Jumper,47,62
+7:15,Xavier,Naji Marshall,Defensive Rebound,47,62
+7:08,Xavier,Paul Scruggs,Jumper,47,64
+7:06,Xavier,None,None,47,64
+7:06,Xavier,None,None,47,64
+7:06,Xavier,Elias Harden,Foul,47,64
+6:49,Toledo,Jaelan Sanford,Jumper,49,64
+6:24,Xavier,Elias Harden,Missed Jumper,49,64
+6:24,Toledo,Luke Knapke,Defensive Rebound,49,64
+6:16,Toledo,Spencer Littleson,Missed Three Point Jumper,49,64
+6:16,Xavier,Quentin Goodin,Defensive Rebound,49,64
+5:55,Xavier,Tyrique Jones,Missed Jumper,49,64
+5:55,Xavier,Xavier,Offensive Rebound,49,64
+5:52,Toledo,Chris Darrington,Foul,49,64
+5:45,Xavier,Quentin Goodin,Missed Jumper,49,64
+5:45,Toledo,Luke Knapke,Defensive Rebound,49,64
+5:37,Toledo,Nate Navigato,Missed Three Point Jumper,49,64
+5:37,Xavier,Tyrique Jones,Defensive Rebound,49,64
+5:21,Toledo,Spencer Littleson,Foul,49,64
+5:21,Xavier,Naji Marshall,Free Throw,49,65
+5:21,Xavier,Naji Marshall,Free Throw,49,66
+5:01,Toledo,Jaelan Sanford,Missed Three Point Jumper,49,66
+5:01,Xavier,Naji Marshall,Defensive Rebound,49,66
+4:54,Xavier,Ryan Welage,Three Point Jumper,49,69
+4:35,Toledo,Luke Knapke,Dunk,51,69
+4:06,Xavier,Tyrique Jones,Missed Jumper,51,69
+4:06,Toledo,Luke Knapke,Block,51,69
+4:06,Toledo,AJ Edu,Defensive Rebound,51,69
+3:50,Xavier,Ryan Welage,Foul,51,69
+3:50,Xavier,None,None,51,69
+3:50,Toledo,Jaelan Sanford,Free Throw,52,69
+3:50,Toledo,Jaelan Sanford,Free Throw,53,69
+3:17,Xavier,Naji Marshall,Missed Dunk,53,69
+3:17,Toledo,Toledo,Defensive Rebound,53,69
+3:14,Toledo,Chris Darrington,Three Point Jumper,56,69
+3:04,Xavier,Naji Marshall,Missed Jumper,56,69
+3:04,Xavier,Naji Marshall,Offensive Rebound,56,69
+3:04,Xavier,None,None,56,69
+3:04,Xavier,Naji Marshall,Offensive Rebound,56,69
+2:50,Toledo,Jaelan Sanford,Foul,56,69
+2:50,Xavier,Naji Marshall,Free Throw,56,70
+2:50,Xavier,Naji Marshall,Free Throw,56,71
+2:44,Toledo,Jaelan Sanford,Missed Jumper,56,71
+2:44,Xavier,Tyrique Jones,Block,56,71
+2:44,Xavier,Naji Marshall,Defensive Rebound,56,71
+2:37,Xavier,Elias Harden,Three Point Jumper,56,74
+2:21,Toledo,Luke Knapke,Jumper,58,74
+2:12,Xavier,Paul Scruggs,Turnover,58,74
+2:12,Toledo,Chris Darrington,Steal,58,74
+2:08,Toledo,Chris Darrington,Missed Jumper,58,74
+2:08,Toledo,Jaelan Sanford,Offensive Rebound,58,74
+2:07,Xavier,Elias Harden,Foul,58,74
+2:07,Toledo,Jaelan Sanford,Free Throw,59,74
+2:07,Toledo,Jaelan Sanford,Free Throw,60,74
+2:06,Xavier,Dontarius James,Turnover,60,74
+2:06,Toledo,Chris Darrington,Steal,60,74
+1:59,Toledo,Chris Darrington,Jumper,62,74
+1:50,Toledo,Jaelan Sanford,Foul,62,74
+1:50,Xavier,Naji Marshall,Free Throw,62,75
+1:50,Xavier,Naji Marshall,Free Throw,62,76
+1:38,Toledo,Chris Darrington,Missed Three Point Jumper,62,76
+1:38,Xavier,Naji Marshall,Defensive Rebound,62,76
+1:29,Xavier,Tyrique Jones,Dunk,62,78
+1:08,Toledo,Nate Navigato,Missed Three Point Jumper,62,78
+1:08,Xavier,Tyrique Jones,Defensive Rebound,62,78
+0:57,Xavier,None,None,62,78
+0:55,Xavier,Dontarius James,Missed Three Point Jumper,62,78
+0:55,Xavier,A.J. Frazier,Offensive Rebound,62,78
+0:44,Xavier,Dontarius James,Missed Three Point Jumper,62,78
+0:44,Xavier,Ramon Singh,Offensive Rebound,62,78
+0:37,Toledo,AJ Edu,Foul,62,78
+0:37,Xavier,A.J. Frazier,Missed Free Throw,62,78
+0:37,Xavier,None,Team Rebound,62,78
+0:37,Xavier,A.J. Frazier,Missed Free Throw,62,78
+0:37,Toledo,AJ Edu,Defensive Rebound,62,78
+0:26,Xavier,Dontarius James,Foul,62,78
+0:26,Toledo,James Gordon IV,Free Throw,63,78
+0:26,Toledo,James Gordon IV,Free Throw,64,78
+0:00,Xavier,None,None,64,78

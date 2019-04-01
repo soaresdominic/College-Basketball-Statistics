@@ -1,0 +1,322 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,Idaho State,Jared Stutzman,Jumper,2,0
+19:18,Santa Clara,Josip Vrankic,Three Point Jumper,2,3
+18:56,Santa Clara,Ezekiel Richards,Foul,2,3
+18:56,Idaho State,Balint Mocsan,Free Throw,3,3
+18:56,Idaho State,Balint Mocsan,Free Throw,4,3
+18:31,Santa Clara,Ezekiel Richards,Turnover,4,3
+18:31,Santa Clara,Ezekiel Richards,Foul,4,3
+18:13,Santa Clara,Henrik Jadersten,Foul,4,3
+18:13,Idaho State,Kelvin Jones,Free Throw,5,3
+18:13,Idaho State,Kelvin Jones,Free Throw,6,3
+17:51,Santa Clara,Josh Martin,Turnover,6,3
+17:50,Idaho State,Chier Maker,Steal,6,3
+17:30,Idaho State,Chier Maker,Missed Layup,6,3
+17:30,Santa Clara,Josip Vrankic,Defensive Rebound,6,3
+17:26,Idaho State,Balint Mocsan,Foul,6,3
+17:26,Santa Clara,Josip Vrankic,Missed Layup,6,3
+17:26,Santa Clara,Henrik Jadersten,Offensive Rebound,6,3
+17:26,Santa Clara,Trey Wertz,Three Point Jumper,6,6
+17:06,Idaho State,Kelvin Jones,Missed Jumper,6,6
+17:06,Santa Clara,Josh Martin,Defensive Rebound,6,6
+16:45,Santa Clara,Henrik Jadersten,Turnover,6,6
+16:07,Idaho State,Brandon Boyd,Turnover,6,6
+15:54,Santa Clara,Josh Martin,Turnover,6,6
+15:52,Idaho State,Alonzo Walker,Steal,6,6
+15:40,Idaho State,Alonzo Walker,Missed Layup,6,6
+15:40,Santa Clara,Josh Martin,Defensive Rebound,6,6
+15:26,Idaho State,Lyle Sutton,Foul,6,6
+15:26,Santa Clara,None,None,6,6
+15:14,Santa Clara,Trey Wertz,Missed Layup,6,6
+15:14,Idaho State,Alonzo Walker,Defensive Rebound,6,6
+14:54,Idaho State,Chier Maker,Layup,8,6
+14:36,Santa Clara,Henrik Jadersten,Layup,8,8
+14:16,Idaho State,Brandon Boyd,Missed Jumper,8,8
+14:16,Idaho State,Alonzo Walker,Offensive Rebound,8,8
+14:02,Idaho State,Chier Maker,Missed Layup,8,8
+14:02,Santa Clara,Josip Vrankic,Defensive Rebound,8,8
+13:52,Santa Clara,Tahj Eaddy,Jumper,8,10
+13:32,Idaho State,Alonzo Walker,Missed Jumper,8,10
+13:32,Santa Clara,Josh Martin,Defensive Rebound,8,10
+13:29,Idaho State,Lyle Sutton,Foul,8,10
+13:20,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,8,10
+13:20,Idaho State,Brandon Boyd,Defensive Rebound,8,10
+13:09,Idaho State,Balint Mocsan,Layup,10,10
+12:48,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,10,10
+12:48,Idaho State,Kelvin Jones,Defensive Rebound,10,10
+12:28,Idaho State,Alonzo Walker,Missed Three Point Jumper,10,10
+12:28,Santa Clara,Trey Wertz,Defensive Rebound,10,10
+12:19,Santa Clara,Henrik Jadersten,Missed Three Point Jumper,10,10
+12:19,Idaho State,Alonzo Walker,Defensive Rebound,10,10
+12:07,Idaho State,Brandon Boyd,Missed Layup,10,10
+12:07,Santa Clara,Guglielmo Caruso,Block,10,10
+12:07,Santa Clara,Guglielmo Caruso,Defensive Rebound,10,10
+12:02,Santa Clara,Trey Wertz,Layup,10,12
+12:02,Idaho State,Kelvin Jones,Foul,10,12
+12:02,Santa Clara,Trey Wertz,Free Throw,10,13
+12:02,Santa Clara,Tahj Eaddy,Foul,10,13
+12:02,Santa Clara,None,None,10,13
+11:53,Santa Clara,None,None,10,13
+11:37,Idaho State,Kelvin Jones,Layup,12,13
+11:15,Santa Clara,Keshawn Justice,Layup,12,15
+10:45,Idaho State,Sam Dowd,Missed Jumper,12,15
+10:45,Santa Clara,Josip Vrankic,Block,12,15
+10:45,Santa Clara,Keshawn Justice,Defensive Rebound,12,15
+10:30,Santa Clara,Tahj Eaddy,Turnover,12,15
+10:29,Idaho State,Sam Dowd,Steal,12,15
+10:28,Idaho State,Sam Dowd,Layup,14,15
+10:05,Santa Clara,Keshawn Justice,Jumper,14,17
+9:47,Idaho State,Kelvin Jones,Missed Layup,14,17
+9:47,Santa Clara,Josh Martin,Block,14,17
+9:47,Idaho State,Balint Mocsan,Offensive Rebound,14,17
+9:39,Santa Clara,Josip Vrankic,Foul,14,17
+9:39,Idaho State,Chidi Udengwu,Free Throw,15,17
+9:39,Idaho State,Chidi Udengwu,Free Throw,16,17
+9:20,Santa Clara,Trey Wertz,Missed Jumper,16,17
+9:20,Idaho State,Balint Mocsan,Defensive Rebound,16,17
+9:01,Idaho State,Balint Mocsan,Missed Jumper,16,17
+9:01,Santa Clara,Trey Wertz,Defensive Rebound,16,17
+8:49,Santa Clara,Trey Wertz,Turnover,16,17
+8:48,Idaho State,Chidi Udengwu,Steal,16,17
+8:45,Idaho State,Gary Chivichyan,Three Point Jumper,19,17
+8:20,Santa Clara,Henrik Jadersten,Missed Layup,19,17
+8:20,Idaho State,Chidi Udengwu,Defensive Rebound,19,17
+8:12,Idaho State,Sam Dowd,Missed Layup,19,17
+8:12,Santa Clara,Josip Vrankic,Defensive Rebound,19,17
+8:05,Santa Clara,Trey Wertz,Missed Layup,19,17
+8:05,Idaho State,Chidi Udengwu,Defensive Rebound,19,17
+7:57,Idaho State,Chidi Udengwu,Turnover,19,17
+7:57,Santa Clara,Trey Wertz,Steal,19,17
+7:57,Idaho State,Brandon Boyd,Foul,19,17
+7:57,Santa Clara,Trey Wertz,Free Throw,19,18
+7:57,Santa Clara,Trey Wertz,Free Throw,19,19
+7:39,Idaho State,Brandon Boyd,Jumper,21,19
+7:13,Santa Clara,None,None,21,19
+7:09,Santa Clara,Trey Wertz,Missed Three Point Jumper,21,19
+7:09,Idaho State,Chidi Udengwu,Defensive Rebound,21,19
+6:48,Idaho State,Gary Chivichyan,Jumper,23,19
+6:32,Santa Clara,Tahj Eaddy,Missed Jumper,23,19
+6:32,Idaho State,Gary Chivichyan,Defensive Rebound,23,19
+6:22,Idaho State,Brandon Boyd,Jumper,25,19
+6:09,Santa Clara,Trey Wertz,Turnover,25,19
+6:09,Santa Clara,None,None,25,19
+5:45,Idaho State,Kelvin Jones,Jumper,27,19
+5:21,Santa Clara,Ezekiel Richards,Dunk,27,21
+5:21,Idaho State,Kelvin Jones,Foul,27,21
+5:21,Santa Clara,Ezekiel Richards,Missed Free Throw,27,21
+5:21,Idaho State,Brandon Boyd,Defensive Rebound,27,21
+5:07,Idaho State,Gary Chivichyan,Missed Jumper,27,21
+5:07,Santa Clara,Keshawn Justice,Defensive Rebound,27,21
+4:53,Santa Clara,Keshawn Justice,Three Point Jumper,27,24
+4:28,Idaho State,Gary Chivichyan,Missed Three Point Jumper,27,24
+4:28,Idaho State,Alonzo Walker,Offensive Rebound,27,24
+4:20,Idaho State,None,None,27,24
+4:20,Santa Clara,None,None,27,24
+4:18,Idaho State,Brandon Boyd,Turnover,27,24
+4:17,Santa Clara,Ezekiel Richards,Steal,27,24
+4:05,Santa Clara,Josip Vrankic,Missed Jumper,27,24
+4:05,Idaho State,Brandon Boyd,Defensive Rebound,27,24
+3:51,Idaho State,Brandon Boyd,Missed Jumper,27,24
+3:51,Santa Clara,Ezekiel Richards,Defensive Rebound,27,24
+3:34,Santa Clara,Trey Wertz,Layup,27,26
+3:09,Idaho State,Jared Stutzman,Layup,29,26
+2:51,Idaho State,Alonzo Walker,Foul,29,26
+2:51,Santa Clara,Trey Wertz,Missed Free Throw,29,26
+2:51,Santa Clara,None,Team Rebound,29,26
+2:51,Santa Clara,Trey Wertz,Free Throw,29,27
+2:30,Idaho State,Jared Stutzman,Missed Jumper,29,27
+2:30,Idaho State,Chier Maker,Offensive Rebound,29,27
+2:11,Idaho State,Alonzo Walker,Missed Jumper,29,27
+2:11,Santa Clara,Keshawn Justice,Defensive Rebound,29,27
+1:53,Idaho State,Jared Stutzman,Foul,29,27
+1:53,Santa Clara,Keshawn Justice,Free Throw,29,28
+1:53,Santa Clara,Keshawn Justice,Free Throw,29,29
+1:34,Idaho State,Chidi Udengwu,Missed Layup,29,29
+1:34,Santa Clara,Guglielmo Caruso,Block,29,29
+1:34,Idaho State,Chidi Udengwu,Offensive Rebound,29,29
+1:32,Idaho State,Chidi Udengwu,Missed Layup,29,29
+1:32,Santa Clara,Guglielmo Caruso,Block,29,29
+1:32,Santa Clara,Guglielmo Caruso,Defensive Rebound,29,29
+1:13,Santa Clara,Keshawn Justice,Missed Three Point Jumper,29,29
+1:13,Idaho State,Chidi Udengwu,Defensive Rebound,29,29
+0:49,Idaho State,Balint Mocsan,Missed Three Point Jumper,29,29
+0:49,Idaho State,Chidi Udengwu,Offensive Rebound,29,29
+0:47,Santa Clara,Guglielmo Caruso,Foul,29,29
+0:40,Idaho State,Alonzo Walker,Missed Layup,29,29
+0:40,Idaho State,Chidi Udengwu,Offensive Rebound,29,29
+0:34,Idaho State,Chidi Udengwu,Layup,31,29
+0:07,Santa Clara,Trey Wertz,Missed Layup,31,29
+0:07,Idaho State,Chidi Udengwu,Defensive Rebound,31,29
+0:01,Idaho State,Brandon Boyd,Three Point Jumper,34,29
+0:00,Santa Clara,None,None,34,29
+19:34,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,34,29
+19:34,Santa Clara,Josip Vrankic,Offensive Rebound,34,29
+19:32,Idaho State,Chier Maker,Foul,34,29
+19:28,Santa Clara,Josh Martin,Missed Three Point Jumper,34,29
+19:28,Santa Clara,Ezekiel Richards,Offensive Rebound,34,29
+19:24,Santa Clara,Ezekiel Richards,Layup,34,31
+18:52,Idaho State,Kelvin Jones,Missed Layup,34,31
+18:52,Santa Clara,Josh Martin,Defensive Rebound,34,31
+18:26,Santa Clara,Josh Martin,Missed Layup,34,31
+18:26,Idaho State,Kelvin Jones,Block,34,31
+18:26,Santa Clara,Josh Martin,Offensive Rebound,34,31
+18:21,Santa Clara,Josip Vrankic,Missed Three Point Jumper,34,31
+18:21,Idaho State,Chier Maker,Block,34,31
+18:21,Idaho State,Balint Mocsan,Defensive Rebound,34,31
+18:13,Idaho State,Jared Stutzman,Missed Three Point Jumper,34,31
+18:13,Idaho State,Chier Maker,Offensive Rebound,34,31
+17:52,Idaho State,Chier Maker,Missed Layup,34,31
+17:52,Santa Clara,Josip Vrankic,Defensive Rebound,34,31
+17:32,Idaho State,Kelvin Jones,Foul,34,31
+17:32,Santa Clara,Josip Vrankic,Missed Free Throw,34,31
+17:32,Santa Clara,None,Team Rebound,34,31
+17:32,Santa Clara,Josip Vrankic,Missed Free Throw,34,31
+17:32,Idaho State,Chidi Udengwu,Defensive Rebound,34,31
+17:19,Idaho State,Jared Stutzman,Missed Three Point Jumper,34,31
+17:19,Idaho State,Chier Maker,Offensive Rebound,34,31
+17:14,Idaho State,Chier Maker,Layup,36,31
+16:52,Idaho State,Brandon Boyd,Foul,36,31
+16:52,Santa Clara,Tahj Eaddy,Free Throw,36,32
+16:52,Santa Clara,Tahj Eaddy,Free Throw,36,33
+16:40,Santa Clara,Guglielmo Caruso,Foul,36,33
+16:35,Santa Clara,Josh Martin,Foul,36,33
+16:35,Idaho State,Balint Mocsan,Missed Free Throw,36,33
+16:35,Idaho State,None,Team Rebound,36,33
+16:35,Idaho State,Balint Mocsan,Free Throw,37,33
+16:23,Santa Clara,Josh Martin,Three Point Jumper,37,36
+15:58,Idaho State,Brandon Boyd,Missed Jumper,37,36
+15:58,Santa Clara,Josh Martin,Defensive Rebound,37,36
+15:50,Santa Clara,Trey Wertz,Missed Three Point Jumper,37,36
+15:50,Idaho State,Alonzo Walker,Defensive Rebound,37,36
+15:25,Idaho State,Brandon Boyd,Turnover,37,36
+15:24,Santa Clara,Tahj Eaddy,Steal,37,36
+15:22,Santa Clara,Tahj Eaddy,Layup,37,38
+14:49,Idaho State,Gary Chivichyan,Missed Layup,37,38
+14:49,Santa Clara,Ezekiel Richards,Defensive Rebound,37,38
+14:39,Santa Clara,Tahj Eaddy,Three Point Jumper,37,41
+14:30,Idaho State,None,None,37,41
+14:30,Santa Clara,None,None,37,41
+14:19,Idaho State,Brandon Boyd,Missed Layup,37,41
+14:19,Santa Clara,Guglielmo Caruso,Block,37,41
+14:19,Santa Clara,Guglielmo Caruso,Defensive Rebound,37,41
+14:14,Santa Clara,Tahj Eaddy,Layup,37,43
+14:14,Idaho State,Chidi Udengwu,Foul,37,43
+14:14,Santa Clara,None,None,37,43
+14:14,Santa Clara,Tahj Eaddy,Free Throw,37,44
+14:01,Santa Clara,Trey Wertz,Foul,37,44
+13:50,Idaho State,Gary Chivichyan,Missed Three Point Jumper,37,44
+13:50,Santa Clara,Keshawn Justice,Defensive Rebound,37,44
+13:41,Santa Clara,Tahj Eaddy,Turnover,37,44
+13:39,Idaho State,Sam Dowd,Steal,37,44
+13:34,Idaho State,Sam Dowd,Turnover,37,44
+13:33,Santa Clara,Keshawn Justice,Steal,37,44
+13:32,Santa Clara,Trey Wertz,Layup,37,46
+13:20,Idaho State,Gary Chivichyan,Three Point Jumper,40,46
+12:55,Santa Clara,Keshawn Justice,Missed Layup,40,46
+12:55,Idaho State,Alonzo Walker,Block,40,46
+12:55,Santa Clara,Henrik Jadersten,Offensive Rebound,40,46
+12:54,Idaho State,Chidi Udengwu,Foul,40,46
+12:54,Santa Clara,Henrik Jadersten,Free Throw,40,47
+12:54,Santa Clara,Henrik Jadersten,Free Throw,40,48
+12:33,Idaho State,Balint Mocsan,Missed Three Point Jumper,40,48
+12:33,Santa Clara,Guglielmo Caruso,Defensive Rebound,40,48
+12:24,Santa Clara,Henrik Jadersten,Layup,40,50
+12:05,Idaho State,Balint Mocsan,Missed Jumper,40,50
+12:05,Santa Clara,Tahj Eaddy,Defensive Rebound,40,50
+11:50,Santa Clara,Keshawn Justice,Three Point Jumper,40,53
+11:17,Idaho State,Kelvin Jones,Missed Jumper,40,53
+11:17,Idaho State,Alonzo Walker,Offensive Rebound,40,53
+11:17,Santa Clara,Guglielmo Caruso,Foul,40,53
+11:17,Santa Clara,None,None,40,53
+11:17,Idaho State,Alonzo Walker,Missed Free Throw,40,53
+11:17,Idaho State,None,Team Rebound,40,53
+11:17,Idaho State,Alonzo Walker,Free Throw,41,53
+11:08,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,41,53
+11:08,Idaho State,Balint Mocsan,Defensive Rebound,41,53
+10:43,Idaho State,Balint Mocsan,Missed Layup,41,53
+10:43,Santa Clara,Josh Martin,Block,41,53
+10:43,Idaho State,Chier Maker,Offensive Rebound,41,53
+10:26,Idaho State,Chier Maker,Missed Layup,41,53
+10:26,Santa Clara,Josip Vrankic,Block,41,53
+10:26,Santa Clara,Josip Vrankic,Defensive Rebound,41,53
+10:26,Santa Clara,Josip Vrankic,Layup,41,55
+10:04,Santa Clara,Henrik Jadersten,Foul,41,55
+10:04,Idaho State,Jared Stutzman,Missed Three Point Jumper,41,55
+10:04,Idaho State,Idaho State,Offensive Rebound,41,55
+9:59,Santa Clara,Keshawn Justice,Foul,41,55
+9:59,Idaho State,Brandon Boyd,Missed Layup,41,55
+9:59,Santa Clara,Josh Martin,Defensive Rebound,41,55
+9:59,Santa Clara,Keshawn Justice,Missed Three Point Jumper,41,55
+9:59,Santa Clara,Santa Clara,Offensive Rebound,41,55
+9:28,Santa Clara,Josip Vrankic,Turnover,41,55
+9:27,Idaho State,Balint Mocsan,Steal,41,55
+9:24,Idaho State,Brandon Boyd,Layup,43,55
+9:05,Santa Clara,Keshawn Justice,Missed Layup,43,55
+9:05,Idaho State,Kelvin Jones,Defensive Rebound,43,55
+9:03,Santa Clara,Josip Vrankic,Foul,43,55
+9:03,Idaho State,Kelvin Jones,Free Throw,44,55
+9:03,Idaho State,Kelvin Jones,Free Throw,45,55
+8:51,Santa Clara,Trey Wertz,Turnover,45,55
+8:33,Idaho State,Kelvin Jones,Jumper,47,55
+8:11,Santa Clara,Josip Vrankic,Missed Jumper,47,55
+8:11,Idaho State,Balint Mocsan,Defensive Rebound,47,55
+8:04,Idaho State,Chier Maker,Three Point Jumper,50,55
+7:34,Santa Clara,Henrik Jadersten,Jumper,50,57
+7:12,Idaho State,Kelvin Jones,Layup,52,57
+6:49,Santa Clara,Tahj Eaddy,Three Point Jumper,52,60
+6:24,Idaho State,Balint Mocsan,Three Point Jumper,55,60
+6:02,Santa Clara,Trey Wertz,Turnover,55,60
+6:01,Idaho State,Brandon Boyd,Steal,55,60
+5:57,Santa Clara,Josip Vrankic,Foul,55,60
+5:57,Santa Clara,None,None,55,60
+5:57,Idaho State,Jared Stutzman,Free Throw,56,60
+5:57,Idaho State,Jared Stutzman,Free Throw,57,60
+5:35,Santa Clara,Tahj Eaddy,Jumper,57,62
+5:19,Idaho State,Chidi Udengwu,Missed Layup,57,62
+5:19,Santa Clara,Josh Martin,Defensive Rebound,57,62
+5:11,Santa Clara,Guglielmo Caruso,Layup,57,64
+4:50,Idaho State,Sam Dowd,Layup,59,64
+4:50,Santa Clara,Tahj Eaddy,Foul,59,64
+4:50,Idaho State,Sam Dowd,Free Throw,60,64
+4:44,Santa Clara,Tahj Eaddy,Turnover,60,64
+4:43,Idaho State,Chier Maker,Steal,60,64
+4:36,Idaho State,Sam Dowd,Missed Layup,60,64
+4:36,Santa Clara,Josip Vrankic,Defensive Rebound,60,64
+4:14,Santa Clara,Guglielmo Caruso,Missed Layup,60,64
+4:14,Idaho State,Kelvin Jones,Defensive Rebound,60,64
+3:47,Idaho State,Kelvin Jones,Jumper,62,64
+3:36,Santa Clara,None,None,62,64
+3:36,Santa Clara,None,None,62,64
+3:15,Santa Clara,Josip Vrankic,Missed Three Point Jumper,62,64
+3:15,Idaho State,Jared Stutzman,Defensive Rebound,62,64
+2:54,Idaho State,Kelvin Jones,Missed Layup,62,64
+2:54,Santa Clara,Josip Vrankic,Defensive Rebound,62,64
+2:47,Santa Clara,Henrik Jadersten,Layup,62,66
+2:31,Idaho State,Chier Maker,Missed Layup,62,66
+2:31,Santa Clara,Josh Martin,Defensive Rebound,62,66
+2:03,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,62,66
+2:03,Santa Clara,Josh Martin,Offensive Rebound,62,66
+1:58,Santa Clara,Santa Clara ,Turnover,62,66
+1:46,Idaho State,Kelvin Jones,Layup,64,66
+1:46,Santa Clara,Josip Vrankic,Foul,64,66
+1:46,Idaho State,Kelvin Jones,Free Throw,65,66
+1:15,Santa Clara,Tahj Eaddy,Missed Jumper,65,66
+1:15,Idaho State,Jared Stutzman,Defensive Rebound,65,66
+0:59,Idaho State,Brandon Boyd,Missed Jumper,65,66
+0:59,Santa Clara,Josh Martin,Defensive Rebound,65,66
+0:38,Santa Clara,Josh Martin,Missed Three Point Jumper,65,66
+0:38,Idaho State,Idaho State,Defensive Rebound,65,66
+0:34,Santa Clara,None,None,65,66
+0:17,Idaho State,Kelvin Jones,Layup,67,66
+0:15,Idaho State,None,None,67,66
+0:04,Santa Clara,Tahj Eaddy,Missed Jumper,67,66
+0:04,Idaho State,Kelvin Jones,Defensive Rebound,67,66
+0:02,Santa Clara,Henrik Jadersten,Foul,67,66
+0:02,Idaho State,Kelvin Jones,Missed Free Throw,67,66
+0:02,Idaho State,None,Team Rebound,67,66
+0:02,Idaho State,None,None,67,66
+0:02,Idaho State,Kelvin Jones,Free Throw,68,66
+0:00,Santa Clara,Trey Wertz,Turnover,68,66
+0:00,Idaho State,Balint Mocsan,Steal,68,66
+0:00,Santa Clara,None,None,68,66
+0:00,Santa Clara,None,None,68,66

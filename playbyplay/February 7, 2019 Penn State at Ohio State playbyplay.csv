@@ -1,0 +1,337 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Penn State,None,None,0,0
+19:55,Penn State,Myles Dread,Missed Layup,0,0
+19:55,Ohio State,C.J. Jackson,Block,0,0
+19:55,Ohio State,Luther Muhammad,Defensive Rebound,0,0
+19:37,Penn State,Jamari Wheeler,Foul,0,0
+19:16,Ohio State,Kaleb Wesson,Turnover,0,0
+19:16,Penn State,Mike Watkins,Steal,0,0
+18:55,Penn State,Myles Dread,Turnover,0,0
+18:55,Ohio State,Kaleb Wesson,Steal,0,0
+18:41,Ohio State,Musa Jallow,Missed Three Point Jumper,0,0
+18:41,Penn State,Lamar Stevens,Defensive Rebound,0,0
+18:33,Penn State,Josh Reaves,Three Point Jumper,3,0
+18:01,Ohio State,Kaleb Wesson,Turnover,3,0
+18:01,Penn State,Josh Reaves,Steal,3,0
+17:55,Penn State,Josh Reaves,Dunk,5,0
+17:40,Ohio State,Andre Wesson,Jumper,5,2
+17:23,Penn State,Lamar Stevens,Missed Layup,5,2
+17:23,Ohio State,Andre Wesson,Defensive Rebound,5,2
+17:17,Ohio State,C.J. Jackson,Turnover,5,2
+17:17,Penn State,Josh Reaves,Steal,5,2
+17:11,Penn State,Josh Reaves,Layup,7,2
+17:11,Ohio State,C.J. Jackson,Foul,7,2
+17:11,Penn State,Josh Reaves,Free Throw,8,2
+16:59,Ohio State,Luther Muhammad,Jumper,8,4
+16:45,Penn State,Jamari Wheeler,Missed Layup,8,4
+16:45,Ohio State,Luther Muhammad,Defensive Rebound,8,4
+16:35,Ohio State,C.J. Jackson,Three Point Jumper,8,7
+16:09,Penn State,Rasir Bolton,Missed Jumper,8,7
+16:09,Ohio State,Kaleb Wesson,Defensive Rebound,8,7
+15:59,Ohio State,C.J. Jackson,Missed Jumper,8,7
+15:59,Ohio State,Andre Wesson,Offensive Rebound,8,7
+15:57,Penn State,Mike Watkins,Foul,8,7
+15:57,Ohio State,None,None,8,7
+15:57,Ohio State,Andre Wesson,Free Throw,8,8
+15:57,Ohio State,Andre Wesson,Free Throw,8,9
+15:39,Penn State,Lamar Stevens,Turnover,8,9
+15:39,Ohio State,Kaleb Wesson,Steal,8,9
+15:32,Penn State,Josh Reaves,Foul,8,9
+15:32,Ohio State,Luther Muhammad,Free Throw,8,10
+15:32,Ohio State,Luther Muhammad,Free Throw,8,11
+15:07,Ohio State,Kaleb Wesson,Foul,8,11
+14:58,Penn State,Rasir Bolton,Missed Jumper,8,11
+14:58,Ohio State,Kyle Young,Defensive Rebound,8,11
+14:53,Ohio State,Kyle Young,Turnover,8,11
+14:53,Penn State,Josh Reaves,Steal,8,11
+14:50,Penn State,John Harrar,Missed Jumper,8,11
+14:50,Ohio State,C.J. Jackson,Defensive Rebound,8,11
+14:47,Penn State,John Harrar,Foul,8,11
+14:24,Ohio State,C.J. Jackson,Missed Three Point Jumper,8,11
+14:24,Penn State,Penn State,Defensive Rebound,8,11
+14:07,Penn State,Josh Reaves,Turnover,8,11
+13:50,Ohio State,Andre Wesson,Layup,8,13
+13:40,Penn State,Josh Reaves,Missed Three Point Jumper,8,13
+13:40,Ohio State,Keyshawn Woods,Defensive Rebound,8,13
+13:28,Ohio State,Luther Muhammad,Missed Three Point Jumper,8,13
+13:28,Ohio State,Ohio State,Offensive Rebound,8,13
+13:14,Ohio State,Keyshawn Woods,Missed Three Point Jumper,8,13
+13:14,Penn State,Lamar Stevens,Defensive Rebound,8,13
+13:04,Ohio State,Luther Muhammad,Foul,8,13
+13:04,Penn State,Lamar Stevens,Missed Free Throw,8,13
+13:04,Penn State,None,Team Rebound,8,13
+13:04,Penn State,Lamar Stevens,Free Throw,9,13
+12:55,Ohio State,C.J. Jackson,Jumper,9,15
+12:33,Penn State,Mike Watkins,Missed Jumper,9,15
+12:33,Ohio State,Kyle Young,Defensive Rebound,9,15
+12:26,Ohio State,Duane Washington Jr.,Missed Layup,9,15
+12:26,Penn State,Jamari Wheeler,Defensive Rebound,9,15
+12:20,Penn State,None,None,9,15
+12:20,Ohio State,None,None,9,15
+12:08,Penn State,Lamar Stevens,Turnover,9,15
+12:08,Ohio State,Kaleb Wesson,Steal,9,15
+11:50,Ohio State,Keyshawn Woods,Missed Jumper,9,15
+11:50,Ohio State,Kyle Young,Offensive Rebound,9,15
+11:42,Ohio State,C.J. Jackson,Missed Three Point Jumper,9,15
+11:42,Penn State,Lamar Stevens,Defensive Rebound,9,15
+11:38,Penn State,Rasir Bolton,Turnover,9,15
+11:14,Ohio State,Duane Washington Jr.,Turnover,9,15
+11:14,Penn State,Mike Watkins,Steal,9,15
+11:09,Penn State,Lamar Stevens,Missed Three Point Jumper,9,15
+11:09,Ohio State,Keyshawn Woods,Defensive Rebound,9,15
+10:55,Ohio State,C.J. Jackson,Jumper,9,17
+10:36,Penn State,Rasir Bolton,Foul,9,17
+10:36,Penn State,Rasir Bolton,Turnover,9,17
+10:19,Ohio State,Luther Muhammad,Three Point Jumper,9,20
+10:01,Ohio State,Keyshawn Woods,Foul,9,20
+9:51,Penn State,Jamari Wheeler,Missed Jumper,9,20
+9:51,Ohio State,Keyshawn Woods,Defensive Rebound,9,20
+9:34,Ohio State,Kaleb Wesson,Three Point Jumper,9,23
+9:17,Penn State,Mike Watkins,Jumper,11,23
+9:00,Ohio State,Kaleb Wesson,Turnover,11,23
+8:44,Penn State,Mike Watkins,Dunk,13,23
+8:29,Ohio State,Duane Washington Jr.,Missed Layup,13,23
+8:29,Penn State,Mike Watkins,Block,13,23
+8:29,Ohio State,Ohio State,Offensive Rebound,13,23
+8:27,Penn State,Lamar Stevens,Foul,13,23
+8:22,Ohio State,Duane Washington Jr.,Three Point Jumper,13,26
+8:12,Ohio State,Kaleb Wesson,Foul,13,26
+7:57,Penn State,Josh Reaves,Missed Three Point Jumper,13,26
+7:57,Ohio State,Kyle Young,Defensive Rebound,13,26
+7:31,Ohio State,Andre Wesson,Missed Jumper,13,26
+7:31,Penn State,Lamar Stevens,Defensive Rebound,13,26
+7:26,Ohio State,Kyle Young,Foul,13,26
+7:26,Ohio State,None,None,13,26
+7:16,Penn State,Rasir Bolton,Missed Three Point Jumper,13,26
+7:16,Ohio State,Kyle Young,Defensive Rebound,13,26
+6:54,Ohio State,None,None,13,26
+6:52,Ohio State,Musa Jallow,Missed Jumper,13,26
+6:52,Penn State,Lamar Stevens,Defensive Rebound,13,26
+6:36,Penn State,Lamar Stevens,Missed Layup,13,26
+6:36,Ohio State,Kyle Young,Block,13,26
+6:36,Ohio State,Kyle Young,Defensive Rebound,13,26
+6:22,Ohio State,Kyle Young,Turnover,13,26
+6:17,Penn State,Josh Reaves,Missed Three Point Jumper,13,26
+6:17,Ohio State,Ohio State,Defensive Rebound,13,26
+6:01,Ohio State,Keyshawn Woods,Missed Jumper,13,26
+6:01,Penn State,Penn State,Defensive Rebound,13,26
+5:32,Penn State,Mike Watkins,Missed Jumper,13,26
+5:32,Ohio State,Andre Wesson,Defensive Rebound,13,26
+5:17,Ohio State,Luther Muhammad,Layup,13,28
+5:00,Penn State,Rasir Bolton,Three Point Jumper,16,28
+4:24,Ohio State,Andre Wesson,Turnover,16,28
+4:18,Penn State,Josh Reaves,Layup,18,28
+3:48,Ohio State,Andre Wesson,Three Point Jumper,18,31
+3:32,Penn State,Mike Watkins,Dunk,20,31
+3:07,Ohio State,Kyle Young,Layup,20,33
+3:04,Ohio State,None,None,20,33
+3:04,Ohio State,None,None,20,33
+2:51,Penn State,Lamar Stevens,Missed Jumper,20,33
+2:51,Penn State,Penn State,Offensive Rebound,20,33
+2:47,Penn State,Lamar Stevens,Jumper,22,33
+2:27,Penn State,Myles Dread,Foul,22,33
+2:27,Ohio State,Jaedon LeDee,Missed Free Throw,22,33
+2:27,Ohio State,None,Team Rebound,22,33
+2:27,Ohio State,Jaedon LeDee,Free Throw,22,34
+2:08,Ohio State,Keyshawn Woods,Foul,22,34
+2:08,Penn State,Rasir Bolton,Free Throw,23,34
+2:08,Penn State,Rasir Bolton,Free Throw,24,34
+2:04,Ohio State,C.J. Jackson,Turnover,24,34
+2:04,Penn State,Jamari Wheeler,Steal,24,34
+1:59,Penn State,Josh Reaves,Layup,26,34
+1:59,Ohio State,Duane Washington Jr.,Foul,26,34
+1:59,Penn State,Josh Reaves,Missed Free Throw,26,34
+1:59,Ohio State,Luther Muhammad,Defensive Rebound,26,34
+1:48,Ohio State,C.J. Jackson,Turnover,26,34
+1:48,Penn State,Jamari Wheeler,Steal,26,34
+1:48,Penn State,None,None,26,34
+1:22,Ohio State,C.J. Jackson,Foul,26,34
+1:22,Penn State,Lamar Stevens,Free Throw,27,34
+1:22,Penn State,Lamar Stevens,Free Throw,28,34
+1:09,Ohio State,Andre Wesson,Turnover,28,34
+1:09,Penn State,Jamari Wheeler,Steal,28,34
+1:09,Penn State,None,None,28,34
+1:07,Penn State,Lamar Stevens,Missed Jumper,28,34
+1:07,Ohio State,Luther Muhammad,Defensive Rebound,28,34
+0:44,Ohio State,Luther Muhammad,Missed Jumper,28,34
+0:44,Penn State,Jamari Wheeler,Defensive Rebound,28,34
+0:15,Penn State,Lamar Stevens,Jumper,30,34
+0:15,Ohio State,Kyle Young,Foul,30,34
+0:15,Penn State,Lamar Stevens,Free Throw,31,34
+0:02,Ohio State,Keyshawn Woods,Turnover,31,34
+0:00,Ohio State,None,None,31,34
+20:00,Ohio State,None,None,31,34
+19:36,Ohio State,Luther Muhammad,Missed Three Point Jumper,31,34
+19:36,Penn State,Myles Dread,Defensive Rebound,31,34
+19:14,Penn State,Lamar Stevens,Missed Jumper,31,34
+19:09,Penn State,Jamari Wheeler,Offensive Rebound,31,34
+19:05,Penn State,Jamari Wheeler,Layup,33,34
+18:39,Ohio State,Luther Muhammad,Missed Jumper,33,34
+18:39,Ohio State,Andre Wesson,Offensive Rebound,33,34
+18:39,Penn State,Mike Watkins,Foul,33,34
+18:39,Ohio State,Andre Wesson,Free Throw,33,35
+18:39,Ohio State,Andre Wesson,Free Throw,33,36
+18:17,Penn State,Josh Reaves,Jumper,35,36
+17:51,Ohio State,Andre Wesson,Layup,35,38
+17:51,Penn State,Jamari Wheeler,Foul,35,38
+17:51,Ohio State,Andre Wesson,Free Throw,35,39
+17:47,Ohio State,Luther Muhammad,Foul,35,39
+17:43,Penn State,Rasir Bolton,Layup,37,39
+17:20,Ohio State,Luther Muhammad,Jumper,37,41
+17:06,Penn State,Josh Reaves,Missed Layup,37,41
+17:06,Ohio State,Andre Wesson,Defensive Rebound,37,41
+16:57,Ohio State,Luther Muhammad,Three Point Jumper,37,44
+16:41,Penn State,Mike Watkins,Missed Jumper,37,44
+16:41,Ohio State,Kaleb Wesson,Defensive Rebound,37,44
+16:29,Ohio State,Keyshawn Woods,Jumper,37,46
+16:26,Penn State,None,None,37,46
+16:16,Penn State,Josh Reaves,Turnover,37,46
+16:07,Ohio State,Luther Muhammad,Missed Jumper,37,46
+16:07,Penn State,Josh Reaves,Defensive Rebound,37,46
+15:58,Ohio State,Kaleb Wesson,Foul,37,46
+15:58,Ohio State,None,None,37,46
+15:43,Ohio State,Andre Wesson,Foul,37,46
+15:36,Ohio State,Andre Wesson,Foul,37,46
+15:33,Penn State,Rasir Bolton,Layup,39,46
+15:33,Ohio State,Kyle Young,Foul,39,46
+15:33,Penn State,Rasir Bolton,Free Throw,40,46
+15:18,Ohio State,Keyshawn Woods,Turnover,40,46
+15:18,Penn State,Jamari Wheeler,Steal,40,46
+14:57,Penn State,None,None,40,46
+14:49,Penn State,Rasir Bolton,Three Point Jumper,43,46
+14:34,Ohio State,Keyshawn Woods,Turnover,43,46
+14:22,Penn State,John Harrar,Missed Layup,43,46
+14:22,Ohio State,Luther Muhammad,Defensive Rebound,43,46
+14:14,Ohio State,Keyshawn Woods,Missed Jumper,43,46
+14:14,Penn State,Jamari Wheeler,Defensive Rebound,43,46
+13:50,Penn State,John Harrar,Layup,45,46
+13:50,Ohio State,Kyle Young,Foul,45,46
+13:50,Penn State,John Harrar,Missed Free Throw,45,46
+13:50,Ohio State,Andre Wesson,Defensive Rebound,45,46
+13:20,Ohio State,Andre Wesson,Missed Jumper,45,46
+13:20,Penn State,Lamar Stevens,Defensive Rebound,45,46
+13:04,Penn State,Lamar Stevens,Layup,47,46
+12:39,Ohio State,Andre Wesson,Missed Three Point Jumper,47,46
+12:39,Penn State,Josh Reaves,Defensive Rebound,47,46
+12:19,Ohio State,Keyshawn Woods,Foul,47,46
+12:19,Penn State,Lamar Stevens,Free Throw,48,46
+12:19,Penn State,Lamar Stevens,Free Throw,49,46
+11:52,Ohio State,Duane Washington Jr.,Three Point Jumper,49,49
+11:43,Penn State,Rasir Bolton,Missed Jumper,49,49
+11:43,Ohio State,Andre Wesson,Defensive Rebound,49,49
+11:36,Penn State,Josh Reaves,Foul,49,49
+11:36,Ohio State,None,None,49,49
+11:36,Ohio State,C.J. Jackson,Free Throw,49,50
+11:36,Ohio State,C.J. Jackson,Free Throw,49,51
+11:16,Ohio State,Kaleb Wesson,Foul,49,51
+11:16,Penn State,Mike Watkins,Missed Free Throw,49,51
+11:16,Penn State,Jamari Wheeler,Offensive Rebound,49,51
+11:14,Penn State,Rasir Bolton,Missed Three Point Jumper,49,51
+11:08,Penn State,None,None,51,51
+11:08,Penn State,Josh Reaves,Offensive Rebound,51,51
+10:46,Ohio State,Kaleb Wesson,Missed Layup,51,51
+10:46,Penn State,Mike Watkins,Defensive Rebound,51,51
+10:38,Penn State,Rasir Bolton,Turnover,51,51
+10:38,Ohio State,Andre Wesson,Steal,51,51
+10:30,Ohio State,Duane Washington Jr.,Jumper,51,53
+10:04,Penn State,Rasir Bolton,Turnover,51,53
+9:52,Penn State,Rasir Bolton,Foul,51,53
+9:52,Ohio State,Duane Washington Jr.,Free Throw,51,54
+9:52,Ohio State,Duane Washington Jr.,Missed Free Throw,51,54
+9:52,Penn State,Josh Reaves,Defensive Rebound,51,54
+9:29,Penn State,Jamari Wheeler,Layup,53,54
+9:12,Penn State,Josh Reaves,Foul,53,54
+9:12,Penn State,Myles Dread,Foul,53,54
+9:02,Penn State,Myreon Jones,Foul,53,54
+9:02,Ohio State,Andre Wesson,Missed Free Throw,53,54
+9:02,Penn State,Myreon Jones,Defensive Rebound,53,54
+8:44,Penn State,Lamar Stevens,Missed Layup,53,54
+8:44,Penn State,Lamar Stevens,Offensive Rebound,53,54
+8:32,Penn State,Jamari Wheeler,Missed Layup,53,54
+8:32,Ohio State,Andre Wesson,Defensive Rebound,53,54
+8:21,Ohio State,C.J. Jackson,Turnover,53,54
+8:21,Penn State,Jamari Wheeler,Steal,53,54
+8:11,Ohio State,Duane Washington Jr.,Foul,53,54
+8:11,Penn State,Lamar Stevens,Free Throw,54,54
+8:11,Penn State,Lamar Stevens,Free Throw,55,54
+7:46,Ohio State,Kyle Young,Jumper,55,56
+7:18,Penn State,Rasir Bolton,Missed Layup,55,56
+7:18,Ohio State,Duane Washington Jr.,Defensive Rebound,55,56
+7:06,Ohio State,C.J. Jackson,Missed Jumper,55,56
+7:06,Penn State,Myreon Jones,Defensive Rebound,55,56
+6:58,Penn State,Rasir Bolton,Missed Three Point Jumper,55,56
+6:58,Penn State,Penn State,Offensive Rebound,55,56
+6:53,Ohio State,None,None,55,56
+6:44,Penn State,Lamar Stevens,Layup,57,56
+6:17,Penn State,Josh Reaves,Foul,57,56
+6:17,Ohio State,Luther Muhammad,Free Throw,57,57
+6:17,Ohio State,Luther Muhammad,Free Throw,57,58
+6:07,Penn State,Lamar Stevens,Missed Jumper,57,58
+6:07,Ohio State,Keyshawn Woods,Defensive Rebound,57,58
+5:40,Penn State,Jamari Wheeler,Foul,57,58
+5:40,Ohio State,Luther Muhammad,Free Throw,57,59
+5:40,Ohio State,Luther Muhammad,Free Throw,57,60
+5:26,Penn State,Lamar Stevens,Missed Layup,57,60
+5:26,Ohio State,Andre Wesson,Block,57,60
+5:26,Penn State,Lamar Stevens,Offensive Rebound,57,60
+5:21,Penn State,Lamar Stevens,Layup,59,60
+4:59,Penn State,John Harrar,Foul,59,60
+4:59,Ohio State,Luther Muhammad,Free Throw,59,61
+4:59,Ohio State,Luther Muhammad,Free Throw,59,62
+4:34,Penn State,Myles Dread,Missed Three Point Jumper,59,62
+4:34,Ohio State,Andre Wesson,Defensive Rebound,59,62
+4:17,Ohio State,Keyshawn Woods,Turnover,59,62
+4:00,Penn State,Rasir Bolton,Turnover,59,62
+4:00,Ohio State,C.J. Jackson,Steal,59,62
+3:56,Ohio State,C.J. Jackson,Layup,59,64
+3:49,Penn State,Lamar Stevens,Layup,61,64
+3:46,Ohio State,None,None,61,64
+3:14,Ohio State,C.J. Jackson,Jumper,61,66
+3:14,Penn State,John Harrar,Foul,61,66
+3:14,Ohio State,Kaleb Wesson,Free Throw,61,67
+3:14,Ohio State,Kaleb Wesson,Free Throw,61,68
+3:06,Ohio State,C.J. Jackson,Turnover,61,68
+3:06,Penn State,Josh Reaves,Steal,61,68
+3:01,Penn State,Josh Reaves,Dunk,63,68
+2:43,Ohio State,None,None,63,68
+2:32,Ohio State,Luther Muhammad,Missed Jumper,63,68
+2:32,Penn State,Lamar Stevens,Defensive Rebound,63,68
+2:16,Penn State,Myles Dread,Three Point Jumper,66,68
+1:57,Penn State,Lamar Stevens,Foul,66,68
+1:57,Ohio State,Kaleb Wesson,Free Throw,66,69
+1:57,Ohio State,Kaleb Wesson,Missed Free Throw,66,69
+1:57,Penn State,Lamar Stevens,Defensive Rebound,66,69
+1:45,Ohio State,Kaleb Wesson,Foul,66,69
+1:45,Penn State,Rasir Bolton,Free Throw,67,69
+1:45,Penn State,Rasir Bolton,Free Throw,68,69
+1:42,Ohio State,Andre Wesson,Turnover,68,69
+1:42,Penn State,Josh Reaves,Steal,68,69
+1:38,Penn State,Josh Reaves,Dunk,70,69
+1:19,Ohio State,None,None,70,69
+1:19,Ohio State,Keyshawn Woods,Foul,70,69
+1:19,Ohio State,Keyshawn Woods,Foul,70,69
+1:19,Penn State,Jamari Wheeler,Foul,70,69
+1:19,Penn State,Jamari Wheeler,Foul,70,69
+1:03,Ohio State,Kyle Young,Layup,70,71
+1:03,Penn State,Lamar Stevens,Foul,70,71
+1:03,Ohio State,Kyle Young,Missed Free Throw,70,71
+1:03,Penn State,Lamar Stevens,Defensive Rebound,70,71
+0:47,Penn State,None,None,70,71
+0:36,Penn State,Lamar Stevens,Missed Layup,70,71
+0:36,Ohio State,Kyle Young,Block,70,71
+0:36,Penn State,Penn State,Offensive Rebound,70,71
+0:32,Penn State,Penn State ,Turnover,70,71
+0:29,Penn State,Rasir Bolton,Foul,70,71
+0:29,Ohio State,Andre Wesson,Missed Free Throw,70,71
+0:29,Ohio State,None,Team Rebound,70,71
+0:29,Ohio State,Andre Wesson,Free Throw,70,72
+0:19,Penn State,Rasir Bolton,Missed Layup,70,72
+0:19,Ohio State,C.J. Jackson,Defensive Rebound,70,72
+0:19,Penn State,Jamari Wheeler,Foul,70,72
+0:19,Ohio State,C.J. Jackson,Free Throw,70,73
+0:19,Ohio State,C.J. Jackson,Free Throw,70,74
+0:11,Penn State,Josh Reaves,Missed Three Point Jumper,70,74
+0:11,Penn State,Lamar Stevens,Offensive Rebound,70,74
+0:02,Penn State,Josh Reaves,Missed Three Point Jumper,70,74
+0:02,Ohio State,Andre Wesson,Defensive Rebound,70,74
+0:00,Ohio State,None,None,70,74

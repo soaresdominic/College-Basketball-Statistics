@@ -1,0 +1,364 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:27,Seattle,Seattle ,Turnover,0,0
+19:02,Fairfield,Taj Benning,Missed Layup,0,0
+18:59,Seattle,Matej Kavas,Defensive Rebound,0,0
+18:57,Seattle,Myles Carter,Foul,0,0
+18:57,Seattle,Myles Carter,Turnover,0,0
+18:44,Fairfield,Landon Taliaferro,Missed Layup,0,0
+18:44,Seattle,Myles Carter,Block,0,0
+18:44,Fairfield,None,Team Rebound,0,0
+18:35,Fairfield,Neftali Alvarez,Foul,0,0
+18:35,Fairfield,Neftali Alvarez,Turnover,0,0
+18:20,Seattle,Delante Jones,Three Point Jumper,0,3
+18:01,Fairfield,Neftali Alvarez,Three Point Jumper,3,3
+17:52,Seattle,Myles Carter,Layup,3,5
+17:52,Fairfield,Landon Taliaferro,Foul,3,5
+17:52,Seattle,Myles Carter,Free Throw,3,6
+17:38,Fairfield,Neftali Alvarez,Missed Three Point Jumper,3,6
+17:33,Seattle,Terrell Brown,Defensive Rebound,3,6
+17:24,Seattle,Myles Carter,Turnover,3,6
+17:06,Fairfield,Jonathan Kasibabu,Missed Three Point Jumper,3,6
+17:01,Seattle,Terrell Brown,Defensive Rebound,3,6
+16:57,Seattle,Terrell Brown,Missed Layup,3,6
+16:54,Seattle,Terrell Brown,Offensive Rebound,3,6
+16:54,Seattle,Terrell Brown,Missed Layup,3,6
+16:49,Fairfield,Taj Benning,Defensive Rebound,3,6
+16:48,Fairfield,Jesus Cruz,Layup,5,6
+16:32,Fairfield,Jesus Cruz,Foul,5,6
+16:32,Seattle,Matej Kavas,Free Throw,5,7
+16:32,Seattle,Matej Kavas,Free Throw,5,8
+16:23,Fairfield,Taj Benning,Missed Layup,5,8
+16:23,Seattle,Myles Carter,Block,5,8
+16:23,Fairfield,None,Team Rebound,5,8
+16:16,Fairfield,Felix Lemetti,Three Point Jumper,8,8
+15:58,Fairfield,Jonathan Kasibabu,Foul,8,8
+15:58,Seattle,None,None,8,8
+15:47,Seattle,Delante Jones,Turnover,8,8
+15:30,Fairfield,Neftali Alvarez,Layup,10,8
+15:13,Fairfield,Felix Lemetti,Foul,10,8
+15:13,Seattle,Morgan Means,Free Throw,10,9
+15:13,Seattle,Morgan Means,Free Throw,10,10
+14:59,Fairfield,Jonathan Kasibabu,Missed Three Point Jumper,10,10
+14:55,Seattle,Matej Kavas,Defensive Rebound,10,10
+14:43,Seattle,Matej Kavas,Missed Jumper,10,10
+14:40,Fairfield,Jonathan Kasibabu,Defensive Rebound,10,10
+14:33,Fairfield,Jonathan Kasibabu,Foul,10,10
+14:33,Fairfield,Jonathan Kasibabu,Turnover,10,10
+14:33,Seattle,None,None,10,10
+14:24,Fairfield,Neftali Alvarez,Foul,10,10
+14:24,Seattle,Delante Jones,Missed Free Throw,10,10
+14:24,Fairfield,Taj Benning,Defensive Rebound,10,10
+14:06,Fairfield,Jesus Cruz,Missed Three Point Jumper,10,10
+14:03,Seattle,Morgan Means,Defensive Rebound,10,10
+13:52,Fairfield,Matija Milin,Foul,10,10
+13:52,Seattle,Myles Carter,Free Throw,10,11
+13:52,Seattle,Myles Carter,Free Throw,10,12
+13:28,Fairfield,Jesus Cruz,Missed Jumper,10,12
+13:24,Fairfield,Matija Milin,Offensive Rebound,10,12
+13:23,Fairfield,Taj Benning,Turnover,10,12
+13:23,Seattle,Terrell Brown,Steal,10,12
+13:19,Seattle,Terrell Brown,Layup,10,14
+13:14,Seattle,Morgan Means,Foul,10,14
+13:02,Seattle,Aaron Nettles,Foul,10,14
+13:02,Fairfield,Aidas Kavaliauskas,Free Throw,11,14
+13:02,Fairfield,Aidas Kavaliauskas,Free Throw,12,14
+12:47,Seattle,Morgan Means,Turnover,12,14
+12:41,Fairfield,Landon Taliaferro,Foul,12,14
+12:41,Fairfield,Landon Taliaferro,Turnover,12,14
+12:32,Fairfield,Aidas Kavaliauskas,Foul,12,14
+12:32,Seattle,Terrell Brown,Free Throw,12,15
+12:32,Seattle,Terrell Brown,Free Throw,12,16
+12:15,Fairfield,Matija Milin,Missed Jumper,12,16
+12:12,Seattle,Matej Kavas,Defensive Rebound,12,16
+11:58,Seattle,Terrell Brown,Layup,12,18
+11:34,Fairfield,Jesus Cruz,Three Point Jumper,15,18
+11:34,Seattle,Anand Hundal,Foul,15,18
+11:34,Seattle,None,None,15,18
+11:27,Fairfield,Calvin Whipple,Missed Three Point Jumper,15,18
+11:24,Seattle,Myles Carter,Defensive Rebound,15,18
+11:19,Fairfield,Taj Benning,Foul,15,18
+11:19,Seattle,Terrell Brown,Missed Free Throw,15,18
+11:19,Seattle,None,Team Rebound,15,18
+11:19,Seattle,Terrell Brown,Free Throw,15,19
+10:58,Fairfield,Taj Benning,Missed Jumper,15,19
+10:51,Seattle,Matej Kavas,Defensive Rebound,15,19
+10:43,Seattle,Matej Kavas,Three Point Jumper,15,22
+10:15,Seattle,Matej Kavas,Foul,15,22
+10:15,Fairfield,Matija Milin,Free Throw,16,22
+10:15,Fairfield,Matija Milin,Free Throw,17,22
+10:01,Seattle,Myles Carter,Dunk,17,24
+9:44,Fairfield,Wassef Methnani,Missed Three Point Jumper,17,24
+9:42,Seattle,Matej Kavas,Defensive Rebound,17,24
+9:26,Seattle,Morgan Means,Turnover,17,24
+9:26,Fairfield,Felix Lemetti,Steal,17,24
+9:10,Fairfield,Jesus Cruz,Missed Layup,17,24
+8:53,Seattle,Morgan Means,Missed Layup,17,24
+8:53,Fairfield,Calvin Whipple,Block,17,24
+8:45,Seattle,Morgan Means,Offensive Rebound,17,24
+8:45,Seattle,Aaron Nettles,Three Point Jumper,17,27
+8:31,Fairfield,Felix Lemetti,Missed Three Point Jumper,17,27
+8:28,Fairfield,Jesus Cruz,Offensive Rebound,17,27
+8:27,Fairfield,Jesus Cruz,Layup,19,27
+8:13,Seattle,Morgan Means,Turnover,19,27
+7:57,Fairfield,Wassef Methnani,Layup,21,27
+7:49,Fairfield,Taj Benning,Foul,21,27
+7:49,Seattle,None,None,21,27
+7:49,Seattle,Delante Jones,Free Throw,21,28
+7:49,Seattle,Delante Jones,Free Throw,21,29
+7:28,Fairfield,Fairfield ,Turnover,21,29
+7:22,Fairfield,Wassef Methnani,Foul,21,29
+7:22,Seattle,Myles Carter,Missed Free Throw,21,29
+7:22,Seattle,None,Team Rebound,21,29
+7:22,Seattle,Myles Carter,Missed Free Throw,21,29
+7:22,Fairfield,Wassef Methnani,Defensive Rebound,21,29
+7:01,Fairfield,Wassef Methnani,Missed Jumper,21,29
+6:59,Seattle,Myles Carter,Defensive Rebound,21,29
+6:52,Seattle,Delante Jones,Foul,21,29
+6:52,Seattle,Delante Jones,Turnover,21,29
+6:42,Seattle,Aaron Nettles,Foul,21,29
+6:42,Fairfield,Felix Lemetti,Missed Free Throw,21,29
+6:41,Seattle,Myles Carter,Defensive Rebound,21,29
+6:28,Seattle,Terrell Brown,Missed Jumper,21,29
+6:24,Fairfield,Calvin Whipple,Defensive Rebound,21,29
+6:18,Fairfield,Jesus Cruz,Missed Jumper,21,29
+6:15,Fairfield,Calvin Whipple,Offensive Rebound,21,29
+5:59,Fairfield,Felix Lemetti,Missed Three Point Jumper,21,29
+5:52,Seattle,Aaron Nettles,Defensive Rebound,21,29
+5:50,Seattle,Aaron Nettles,Missed Three Point Jumper,21,29
+5:46,Fairfield,Jesus Cruz,Defensive Rebound,21,29
+5:34,Fairfield,Wassef Methnani,Missed Three Point Jumper,21,29
+5:31,Seattle,Terrell Brown,Defensive Rebound,21,29
+5:09,Seattle,Morgan Means,Foul,21,29
+5:09,Seattle,Morgan Means,Turnover,21,29
+4:53,Fairfield,Matija Milin,Jumper,23,29
+4:49,Fairfield,Felix Lemetti,Foul,23,29
+4:49,Seattle,Terrell Brown,Missed Free Throw,23,29
+4:49,Seattle,None,Team Rebound,23,29
+4:49,Seattle,Terrell Brown,Free Throw,23,30
+4:32,Fairfield,Taj Benning,Layup,25,30
+4:32,Seattle,Myles Carter,Foul,25,30
+4:32,Fairfield,Taj Benning,Free Throw,26,30
+4:25,Seattle,Myles Carter,Jumper,26,32
+4:12,Fairfield,Calvin Whipple,Missed Three Point Jumper,26,32
+4:09,Seattle,Matej Kavas,Defensive Rebound,26,32
+3:55,Seattle,Trey Hopkins,Missed Three Point Jumper,26,32
+3:51,Seattle,Matej Kavas,Offensive Rebound,26,32
+3:46,Seattle,Matej Kavas,Missed Jumper,26,32
+3:42,Fairfield,Matija Milin,Defensive Rebound,26,32
+3:30,Fairfield,Calvin Whipple,Missed Three Point Jumper,26,32
+3:27,Seattle,Matej Kavas,Defensive Rebound,26,32
+3:12,Seattle,Matej Kavas,Three Point Jumper,26,35
+2:58,Seattle,None,None,26,35
+2:47,Fairfield,Taj Benning,Missed Layup,26,35
+2:42,Seattle,Delante Jones,Defensive Rebound,26,35
+2:38,Seattle,Delante Jones,Foul,26,35
+2:38,Seattle,Delante Jones,Turnover,26,35
+2:23,Fairfield,Jesus Cruz,Missed Three Point Jumper,26,35
+2:19,Seattle,Trey Hopkins,Defensive Rebound,26,35
+2:05,Seattle,Matej Kavas,Jumper,26,37
+1:51,Fairfield,Matija Milin,Missed Three Point Jumper,26,37
+1:46,Seattle,Morgan Means,Defensive Rebound,26,37
+1:44,Fairfield,Calvin Whipple,Foul,26,37
+1:44,Seattle,Morgan Means,Missed Free Throw,26,37
+1:44,Seattle,None,Team Rebound,26,37
+1:44,Seattle,Morgan Means,Free Throw,26,38
+1:40,Fairfield,Felix Lemetti,Three Point Jumper,29,38
+1:23,Seattle,Matej Kavas,Missed Jumper,29,38
+1:14,Fairfield,None,Team Rebound,29,38
+0:46,Fairfield,Felix Lemetti,Missed Layup,29,38
+0:43,Seattle,Terrell Brown,Defensive Rebound,29,38
+0:32,Fairfield,Felix Lemetti,Foul,29,38
+0:32,Seattle,Riley Grigsby,Missed Free Throw,29,38
+0:32,Seattle,None,Team Rebound,29,38
+0:32,Seattle,Riley Grigsby,Missed Free Throw,29,38
+0:32,Seattle,Mattia Da Campo,Offensive Rebound,29,38
+0:03,Seattle,Trey Hopkins,Turnover,29,38
+0:03,Fairfield,Aidas Kavaliauskas,Steal,29,38
+0:00,Seattle,Riley Grigsby,Foul,29,38
+0:00,Fairfield,None,None,29,38
+0:00,Fairfield,Taj Benning,Free Throw,30,38
+0:00,Fairfield,Taj Benning,Free Throw,31,38
+0:00,Seattle,Aaron Nettles,Defensive Rebound,31,38
+0:00,Seattle,None,None,31,38
+19:39,Seattle,Morgan Means,Missed Jumper,31,38
+19:38,Seattle,None,Team Rebound,31,38
+19:31,Seattle,Morgan Means,Three Point Jumper,31,41
+19:07,Fairfield,Landon Taliaferro,Missed Jumper,31,41
+19:00,Seattle,Delante Jones,Defensive Rebound,31,41
+18:59,Seattle,Delante Jones,Turnover,31,41
+18:59,Fairfield,Jonathan Kasibabu,Steal,31,41
+18:51,Fairfield,Jonathan Kasibabu,Layup,33,41
+18:46,Seattle,Myles Carter,Turnover,33,41
+18:46,Fairfield,Taj Benning,Steal,33,41
+18:34,Fairfield,Neftali Alvarez,Layup,35,41
+18:07,Seattle,Terrell Brown,Missed Jumper,35,41
+18:03,Fairfield,Taj Benning,Defensive Rebound,35,41
+17:59,Fairfield,Landon Taliaferro,Missed Layup,35,41
+17:55,Seattle,Myles Carter,Defensive Rebound,35,41
+17:46,Seattle,Myles Carter,Foul,35,41
+17:46,Seattle,Myles Carter,Turnover,35,41
+17:46,Seattle,None,None,35,41
+17:25,Fairfield,Jonathan Kasibabu,Jumper,37,41
+17:09,Seattle,Myles Carter,Dunk,37,43
+16:51,Seattle,Myles Carter,Foul,37,43
+16:49,Fairfield,Landon Taliaferro,Missed Jumper,37,43
+16:46,Seattle,Anand Hundal,Foul,37,43
+16:46,Fairfield,Jonathan Kasibabu,Free Throw,38,43
+16:46,Fairfield,Jonathan Kasibabu,Missed Free Throw,38,43
+16:46,Seattle,Anand Hundal,Defensive Rebound,38,43
+16:45,Fairfield,Jesus Cruz,Foul,38,43
+16:42,Fairfield,Landon Taliaferro,Foul,38,43
+16:32,Seattle,Morgan Means,Missed Jumper,38,43
+16:29,Fairfield,Jesus Cruz,Defensive Rebound,38,43
+16:23,Seattle,Anand Hundal,Foul,38,43
+16:23,Fairfield,Jonathan Kasibabu,Free Throw,39,43
+16:23,Fairfield,Jonathan Kasibabu,Missed Free Throw,39,43
+16:23,Seattle,Riley Grigsby,Defensive Rebound,39,43
+16:10,Seattle,Matej Kavas,Missed Layup,39,43
+16:10,Seattle,Riley Grigsby,Layup,39,45
+16:10,Seattle,Riley Grigsby,Offensive Rebound,39,45
+16:10,Fairfield,Jonathan Kasibabu,Foul,39,45
+16:10,Seattle,Riley Grigsby,Free Throw,39,46
+15:52,Fairfield,Landon Taliaferro,Three Point Jumper,42,46
+15:41,Seattle,Delante Jones,Layup,42,48
+15:31,Fairfield,Neftali Alvarez,Missed Layup,42,48
+15:27,Fairfield,Neftali Alvarez,Offensive Rebound,42,48
+15:25,Fairfield,Neftali Alvarez,Missed Layup,42,48
+15:22,Seattle,Morgan Means,Defensive Rebound,42,48
+15:20,Fairfield,Jonathan Kasibabu,Foul,42,48
+15:20,Seattle,None,None,42,48
+15:17,Seattle,Matej Kavas,Missed Jumper,42,48
+15:17,Seattle,Riley Grigsby,Offensive Rebound,42,48
+15:17,Fairfield,Aidas Kavaliauskas,Foul,42,48
+14:47,Seattle,Matej Kavas,Jumper,42,50
+14:22,Fairfield,Matija Milin,Missed Layup,42,50
+14:21,Seattle,Riley Grigsby,Defensive Rebound,42,50
+14:21,Fairfield,Matija Milin,Foul,42,50
+14:04,Seattle,Delante Jones,Layup,42,52
+13:59,Fairfield,None,None,42,52
+13:47,Fairfield,Landon Taliaferro,Three Point Jumper,45,52
+13:29,Seattle,Riley Grigsby,Layup,45,54
+13:25,Fairfield,Neftali Alvarez,Foul,45,54
+13:25,Fairfield,Neftali Alvarez,Turnover,45,54
+13:16,Seattle,Morgan Means,Turnover,45,54
+13:16,Fairfield,Wassef Methnani,Steal,45,54
+13:15,Seattle,Terrell Brown,Foul,45,54
+13:02,Fairfield,Wassef Methnani,Missed Jumper,45,54
+13:00,Seattle,Delante Jones,Defensive Rebound,45,54
+12:41,Seattle,Riley Grigsby,Missed Jumper,45,54
+12:37,Fairfield,Wassef Methnani,Defensive Rebound,45,54
+12:32,Fairfield,Taj Benning,Missed Three Point Jumper,45,54
+12:29,Seattle,Riley Grigsby,Defensive Rebound,45,54
+12:13,Seattle,Riley Grigsby,Layup,45,56
+11:51,Fairfield,Aidas Kavaliauskas,Three Point Jumper,48,56
+11:40,Seattle,None,None,48,56
+11:34,Fairfield,Taj Benning,Foul,48,56
+11:34,Seattle,Morgan Means,Free Throw,48,57
+11:34,Seattle,Morgan Means,Free Throw,48,58
+11:17,Fairfield,Jesus Cruz,Layup,50,58
+11:05,Fairfield,Taj Benning,Foul,50,58
+11:05,Seattle,Morgan Means,Free Throw,50,59
+11:05,Seattle,Morgan Means,Free Throw,50,60
+10:42,Fairfield,Landon Taliaferro,Missed Jumper,50,60
+10:39,Fairfield,Jesus Cruz,Offensive Rebound,50,60
+10:38,Fairfield,Jesus Cruz,Layup,52,60
+10:17,Seattle,Delante Jones,Missed Three Point Jumper,52,60
+10:13,Fairfield,Felix Lemetti,Defensive Rebound,52,60
+10:13,Fairfield,Neftali Alvarez,Layup,54,60
+10:13,Seattle,Terrell Brown,Foul,54,60
+10:13,Fairfield,Neftali Alvarez,Missed Free Throw,54,60
+10:13,Seattle,Riley Grigsby,Defensive Rebound,54,60
+9:58,Seattle,Morgan Means,Missed Layup,54,60
+9:58,Fairfield,Wassef Methnani,Block,54,60
+9:57,Fairfield,None,Team Rebound,54,60
+9:34,Fairfield,Wassef Methnani,Layup,56,60
+9:34,Seattle,Riley Grigsby,Foul,56,60
+9:34,Fairfield,Wassef Methnani,Free Throw,57,60
+9:18,Seattle,Matej Kavas,Three Point Jumper,57,63
+9:02,Fairfield,Neftali Alvarez,Layup,59,63
+8:56,Fairfield,Jesus Cruz,Foul,59,63
+8:56,Seattle,Myles Carter,Missed Free Throw,59,63
+8:56,Seattle,None,Team Rebound,59,63
+8:56,Seattle,Myles Carter,Free Throw,59,64
+8:28,Fairfield,Neftali Alvarez,Missed Layup,59,64
+8:28,Seattle,Myles Carter,Block,59,64
+8:22,Seattle,Morgan Means,Defensive Rebound,59,64
+8:15,Seattle,Morgan Means,Missed Three Point Jumper,59,64
+8:12,Fairfield,Wassef Methnani,Defensive Rebound,59,64
+7:57,Fairfield,Jesus Cruz,Layup,61,64
+7:38,Seattle,Myles Carter,Missed Jumper,61,64
+7:35,Fairfield,Jesus Cruz,Defensive Rebound,61,64
+7:21,Fairfield,Neftali Alvarez,Three Point Jumper,64,64
+7:10,Fairfield,Felix Lemetti,Foul,64,64
+7:10,Seattle,None,None,64,64
+7:10,Seattle,Terrell Brown,Missed Free Throw,64,64
+7:10,Seattle,None,Team Rebound,64,64
+7:10,Seattle,Terrell Brown,Missed Free Throw,64,64
+7:08,Fairfield,Neftali Alvarez,Defensive Rebound,64,64
+6:55,Fairfield,Neftali Alvarez,Missed Jumper,64,64
+6:52,Seattle,Myles Carter,Defensive Rebound,64,64
+6:29,Seattle,Delante Jones,Jumper,64,66
+6:29,Seattle,None,None,64,66
+6:04,Fairfield,Landon Taliaferro,Missed Layup,64,66
+6:00,Seattle,Morgan Means,Defensive Rebound,64,66
+6:00,Fairfield,Wassef Methnani,Foul,64,66
+6:00,Seattle,Morgan Means,Missed Free Throw,64,66
+6:00,Seattle,None,Team Rebound,64,66
+6:00,Seattle,Morgan Means,Free Throw,64,67
+5:45,Fairfield,Neftali Alvarez,Layup,66,67
+5:26,Seattle,Delante Jones,Jumper,66,69
+5:11,Fairfield,Neftali Alvarez,Missed Layup,66,69
+5:11,Seattle,Morgan Means,Defensive Rebound,66,69
+5:11,Fairfield,Wassef Methnani,Foul,66,69
+5:11,Seattle,Morgan Means,Free Throw,66,70
+5:11,Seattle,Morgan Means,Free Throw,66,71
+4:52,Fairfield,Wassef Methnani,Missed Jumper,66,71
+4:52,Seattle,Myles Carter,Block,66,71
+4:49,Seattle,None,Team Rebound,66,71
+4:29,Seattle,Matej Kavas,Jumper,66,73
+4:21,Fairfield,None,None,66,73
+4:08,Fairfield,Landon Taliaferro,Three Point Jumper,69,73
+3:41,Seattle,Delante Jones,Layup,69,75
+3:22,Fairfield,Neftali Alvarez,Missed Three Point Jumper,69,75
+3:19,Seattle,Matej Kavas,Defensive Rebound,69,75
+3:17,Fairfield,Jesus Cruz,Foul,69,75
+3:17,Seattle,Matej Kavas,Free Throw,69,76
+3:15,Seattle,Matej Kavas,Missed Free Throw,69,76
+3:13,Fairfield,Neftali Alvarez,Defensive Rebound,69,76
+3:03,Seattle,Myles Carter,Foul,69,76
+3:03,Fairfield,Jonathan Kasibabu,Missed Free Throw,69,76
+3:03,Fairfield,None,Team Rebound,69,76
+3:03,Fairfield,Jonathan Kasibabu,Free Throw,70,76
+2:48,Fairfield,Neftali Alvarez,Missed Jumper,70,76
+2:48,Seattle,Morgan Means,Defensive Rebound,70,76
+2:48,Fairfield,Jonathan Kasibabu,Foul,70,76
+2:48,Seattle,Morgan Means,Free Throw,70,77
+2:48,Seattle,Morgan Means,Missed Free Throw,70,77
+2:48,Fairfield,Neftali Alvarez,Defensive Rebound,70,77
+2:28,Fairfield,Neftali Alvarez,Turnover,70,77
+2:03,Seattle,Delante Jones,Jumper,70,79
+1:49,Fairfield,Felix Lemetti,Three Point Jumper,73,79
+1:49,Fairfield,None,None,73,79
+1:22,Seattle,Delante Jones,Missed Layup,73,79
+1:17,Fairfield,Jesus Cruz,Defensive Rebound,73,79
+1:11,Seattle,Morgan Means,Foul,73,79
+1:11,Fairfield,Wassef Methnani,Free Throw,74,79
+1:11,Fairfield,Wassef Methnani,Free Throw,75,79
+1:04,Fairfield,Landon Taliaferro,Foul,75,79
+1:04,Seattle,Matej Kavas,Free Throw,75,80
+1:04,Seattle,Matej Kavas,Free Throw,75,81
+0:51,Seattle,Riley Grigsby,Foul,75,81
+0:51,Fairfield,Wassef Methnani,Free Throw,76,81
+0:51,Fairfield,Wassef Methnani,Free Throw,77,81
+0:48,Seattle,Morgan Means,Turnover,77,81
+0:48,Fairfield,Jesus Cruz,Steal,77,81
+0:43,Fairfield,Landon Taliaferro,Three Point Jumper,80,81
+0:43,Seattle,None,None,80,81
+0:21,Seattle,Morgan Means,Missed Jumper,80,81
+0:18,Seattle,Morgan Means,Offensive Rebound,80,81
+0:18,Fairfield,Jesus Cruz,Foul,80,81
+0:18,Seattle,Morgan Means,Free Throw,80,82
+0:18,Seattle,Morgan Means,Free Throw,80,83
+0:00,Fairfield,Jonathan Kasibabu,Offensive Rebound,80,83
+0:00,Seattle,None,None,80,83
+0:00,Seattle,None,None,80,83

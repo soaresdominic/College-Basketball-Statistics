@@ -1,0 +1,403 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Kentucky,None,None,0,0
+19:43,Kentucky,Keldon Johnson,Missed Jumper,0,0
+19:43,Duke,Cam Reddish,Defensive Rebound,0,0
+19:38,Kentucky,Ashton Hagans,Foul,0,0
+19:30,Duke,Tre Jones,Three Point Jumper,3,0
+19:07,Kentucky,Keldon Johnson,Jumper,3,2
+19:02,Duke,Cam Reddish,Three Point Jumper,6,2
+18:36,Kentucky,Ashton Hagans,Missed Three Point Jumper,6,2
+18:36,Duke,RJ Barrett,Defensive Rebound,6,2
+18:26,Duke,RJ Barrett,Jumper,8,2
+18:14,Duke,Zion Williamson,Foul,8,2
+18:10,Kentucky,Ashton Hagans,Jumper,8,4
+17:53,Duke,Zion Williamson,Three Point Jumper,11,4
+17:36,Kentucky,Tyler Herro,Missed Three Point Jumper,11,4
+17:36,Duke,Zion Williamson,Defensive Rebound,11,4
+17:28,Duke,Zion Williamson,Turnover,11,4
+17:07,Kentucky,Keldon Johnson,Layup,11,6
+16:46,Duke,RJ Barrett,Missed Three Point Jumper,11,6
+16:46,Kentucky,Tyler Herro,Defensive Rebound,11,6
+16:39,Kentucky,Keldon Johnson,Jumper,11,8
+16:25,Duke,RJ Barrett,Missed Layup,11,8
+16:25,Kentucky,Reid Travis,Defensive Rebound,11,8
+16:17,Duke,Cam Reddish,Foul,11,8
+16:13,Kentucky,Tyler Herro,Missed Three Point Jumper,11,8
+16:13,Duke,Javin DeLaurier,Defensive Rebound,11,8
+16:04,Duke,Cam Reddish,Three Point Jumper,14,8
+15:40,Kentucky,Reid Travis,Foul,14,8
+15:40,Kentucky,Reid Travis,Turnover,14,8
+15:40,Kentucky,None,None,14,8
+15:24,Duke,Cam Reddish,Missed Jumper,14,8
+15:24,Kentucky,Nick Richards,Defensive Rebound,14,8
+15:03,Duke,Javin DeLaurier,Foul,14,8
+15:03,Kentucky,Keldon Johnson,Missed Free Throw,14,8
+15:03,Kentucky,None,Team Rebound,14,8
+15:03,Kentucky,Keldon Johnson,Missed Free Throw,14,8
+15:03,Duke,Javin DeLaurier,Defensive Rebound,14,8
+14:55,Duke,Tre Jones,Missed Layup,14,8
+14:55,Kentucky,Nick Richards,Block,14,8
+14:55,Kentucky,Immanuel Quickley,Defensive Rebound,14,8
+14:47,Kentucky,Keldon Johnson,Missed Three Point Jumper,14,8
+14:47,Kentucky,None,Team Rebound,14,8
+14:42,Duke,Javin DeLaurier,Foul,14,8
+14:38,Kentucky,PJ Washington,Missed Layup,14,8
+14:38,Duke,Zion Williamson,Defensive Rebound,14,8
+14:33,Duke,Tre Jones,Layup,16,8
+14:19,Kentucky,Quade Green,Missed Jumper,16,8
+14:19,Duke,RJ Barrett,Defensive Rebound,16,8
+14:11,Duke,RJ Barrett,Missed Jumper,16,8
+14:11,Duke,Marques Bolden,Offensive Rebound,16,8
+14:06,Duke,Marques Bolden,Layup,18,8
+14:06,Kentucky,PJ Washington,Foul,18,8
+14:06,Duke,Marques Bolden,Missed Free Throw,18,8
+14:06,Kentucky,Tyler Herro,Defensive Rebound,18,8
+13:57,Kentucky,PJ Washington,Missed Jumper,18,8
+13:57,Duke,None,Team Rebound,18,8
+13:56,Kentucky,Nick Richards,Foul,18,8
+13:42,Duke,Jack White,Missed Three Point Jumper,18,8
+13:42,Duke,Zion Williamson,Offensive Rebound,18,8
+13:34,Duke,RJ Barrett,Missed Layup,18,8
+13:34,Kentucky,Quade Green,Defensive Rebound,18,8
+13:28,Kentucky,Quade Green,Turnover,18,8
+13:28,Duke,Cam Reddish,Steal,18,8
+13:21,Duke,RJ Barrett,Dunk,20,8
+13:20,Kentucky,None,None,20,8
+13:06,Duke,Cam Reddish,Foul,20,8
+13:06,Kentucky,Tyler Herro,Free Throw,20,9
+13:06,Kentucky,Tyler Herro,Free Throw,20,10
+12:56,Duke,Zion Williamson,Jumper,22,10
+12:56,Kentucky,EJ Montgomery,Foul,22,10
+12:56,Duke,Zion Williamson,Free Throw,23,10
+12:49,Duke,Tre Jones,Foul,23,10
+12:38,Kentucky,PJ Washington,Missed Three Point Jumper,23,10
+12:38,Duke,Tre Jones,Defensive Rebound,23,10
+12:29,Duke,Zion Williamson,Missed Layup,23,10
+12:29,Duke,Jack White,Offensive Rebound,23,10
+12:29,Duke,None,None,25,10
+12:11,Duke,Jack White,Foul,25,10
+12:11,Kentucky,Keldon Johnson,Missed Free Throw,25,10
+12:11,Duke,Jack White,Defensive Rebound,25,10
+11:47,Duke,RJ Barrett,Layup,27,10
+11:47,Kentucky,Tyler Herro,Foul,27,10
+11:47,Kentucky,None,None,27,10
+11:47,Duke,RJ Barrett,Missed Free Throw,27,10
+11:47,Kentucky,PJ Washington,Defensive Rebound,27,10
+11:38,Kentucky,Ashton Hagans,Turnover,27,10
+11:38,Duke,Jack White,Steal,27,10
+11:35,Duke,Zion Williamson,Dunk,29,10
+11:27,Duke,Zion Williamson,Foul,29,10
+11:27,Kentucky,PJ Washington,Free Throw,29,11
+11:27,Kentucky,PJ Washington,Missed Free Throw,29,11
+11:27,Duke,Jack White,Defensive Rebound,29,11
+11:11,Duke,RJ Barrett,Three Point Jumper,32,11
+10:51,Kentucky,Keldon Johnson,Layup,32,13
+10:39,Duke,RJ Barrett,Layup,34,13
+10:29,Kentucky,Quade Green,Missed Three Point Jumper,34,13
+10:29,Duke,Javin DeLaurier,Defensive Rebound,34,13
+10:08,Duke,Marques Bolden,Missed Jumper,34,13
+10:08,Kentucky,Keldon Johnson,Defensive Rebound,34,13
+9:57,Kentucky,PJ Washington,Three Point Jumper,34,16
+9:28,Duke,Tre Jones,Missed Jumper,34,16
+9:28,Kentucky,Reid Travis,Defensive Rebound,34,16
+9:19,Kentucky,Keldon Johnson,Missed Jumper,34,16
+9:19,Kentucky,Keldon Johnson,Offensive Rebound,34,16
+9:19,Kentucky,Keldon Johnson,Missed Layup,34,16
+9:19,Duke,Jack White,Defensive Rebound,34,16
+9:09,Duke,RJ Barrett,Missed Layup,34,16
+9:09,Kentucky,Reid Travis,Defensive Rebound,34,16
+9:01,Duke,Javin DeLaurier,Foul,34,16
+9:01,Kentucky,Keldon Johnson,Free Throw,34,17
+9:01,Kentucky,Keldon Johnson,Free Throw,34,18
+8:48,Duke,Cam Reddish,Missed Three Point Jumper,34,18
+8:48,Kentucky,None,Team Rebound,34,18
+8:40,Duke,Antonio Vrankovic,Foul,34,18
+8:40,Kentucky,Reid Travis,Missed Free Throw,34,18
+8:40,Kentucky,None,Team Rebound,34,18
+8:40,Kentucky,Reid Travis,Free Throw,34,19
+8:26,Duke,RJ Barrett,Missed Jumper,34,19
+8:26,Duke,None,Team Rebound,34,19
+8:25,Kentucky,PJ Washington,Foul,34,19
+8:25,Duke,Antonio Vrankovic,Free Throw,35,19
+8:25,Duke,Antonio Vrankovic,Free Throw,36,19
+8:09,Kentucky,Reid Travis,Layup,36,21
+8:09,Duke,Antonio Vrankovic,Foul,36,21
+8:09,Kentucky,Reid Travis,Free Throw,36,22
+7:57,Kentucky,Keldon Johnson,Foul,36,22
+7:57,Duke,Cam Reddish,Free Throw,37,22
+7:57,Kentucky,None,None,36,22
+7:57,Duke,Cam Reddish,Free Throw,38,22
+7:34,Duke,Alex O'Connell,Foul,38,22
+7:34,Kentucky,Immanuel Quickley,Free Throw,38,23
+7:34,Kentucky,Immanuel Quickley,Free Throw,38,24
+7:20,Duke,Cam Reddish,Missed Three Point Jumper,38,24
+7:20,Duke,Alex O'Connell,Offensive Rebound,38,24
+7:15,Duke,Alex O'Connell,Missed Jumper,38,24
+7:15,Kentucky,Tyler Herro,Block,38,24
+7:15,Kentucky,Kentucky,Defensive Rebound,38,24
+6:52,Kentucky,Keldon Johnson,Jumper,38,26
+6:41,Kentucky,Ashton Hagans,Foul,38,26
+6:41,Duke,Cam Reddish,Free Throw,39,26
+6:41,Duke,Cam Reddish,Free Throw,40,26
+6:30,Kentucky,Immanuel Quickley,Missed Jumper,40,26
+6:30,Duke,Jack White,Defensive Rebound,40,26
+6:19,Duke,RJ Barrett,Layup,42,26
+6:02,Kentucky,Nick Richards,Foul,42,26
+6:02,Kentucky,Nick Richards,Turnover,42,26
+5:54,Duke,Zion Williamson,Missed Jumper,42,26
+5:54,Duke,Marques Bolden,Offensive Rebound,42,26
+5:48,Duke,RJ Barrett,Three Point Jumper,45,26
+5:43,Kentucky,None,None,45,26
+5:29,Duke,Marques Bolden,Foul,45,26
+5:29,Kentucky,Reid Travis,Free Throw,45,27
+5:29,Kentucky,Reid Travis,Free Throw,45,28
+5:06,Duke,Zion Williamson,Layup,47,28
+4:51,Duke,Jack White,Foul,47,28
+4:51,Kentucky,Tyler Herro,Free Throw,47,29
+4:51,Kentucky,Tyler Herro,Free Throw,47,30
+4:51,Kentucky,Tyler Herro,Free Throw,47,31
+4:43,Kentucky,EJ Montgomery,Foul,47,31
+4:43,Duke,Zion Williamson,Free Throw,48,31
+4:43,Duke,Zion Williamson,Missed Free Throw,48,31
+4:43,Kentucky,Keldon Johnson,Defensive Rebound,48,31
+4:35,Kentucky,Reid Travis,Layup,48,33
+4:21,Duke,RJ Barrett,Missed Three Point Jumper,48,33
+4:21,Duke,Jack White,Offensive Rebound,48,33
+4:11,Duke,Zion Williamson,Jumper,50,33
+3:49,Kentucky,Quade Green,Missed Three Point Jumper,50,33
+3:49,Duke,Zion Williamson,Defensive Rebound,50,33
+3:42,Duke,Javin DeLaurier,Turnover,50,33
+3:40,Kentucky,None,None,50,33
+3:21,Kentucky,Reid Travis,Missed Jumper,50,33
+3:21,Kentucky,EJ Montgomery,Offensive Rebound,50,33
+3:18,Kentucky,EJ Montgomery,Layup,50,35
+2:59,Duke,RJ Barrett,Foul,50,35
+2:59,Duke,RJ Barrett,Turnover,50,35
+2:45,Kentucky,Keldon Johnson,Jumper,50,37
+2:34,Duke,Cam Reddish,Layup,52,37
+2:24,Kentucky,Tyler Herro,Missed Jumper,52,37
+2:24,Kentucky,EJ Montgomery,Offensive Rebound,52,37
+2:19,Kentucky,EJ Montgomery,Layup,52,39
+2:03,Duke,RJ Barrett,Jumper,54,39
+1:43,Kentucky,EJ Montgomery,Layup,54,41
+1:33,Kentucky,Immanuel Quickley,Foul,54,41
+1:33,Duke,Tre Jones,Free Throw,55,41
+1:33,Duke,Tre Jones,Missed Free Throw,55,41
+1:33,Kentucky,EJ Montgomery,Defensive Rebound,55,41
+1:31,Kentucky,Tyler Herro,Missed Three Point Jumper,55,41
+1:31,Duke,Tre Jones,Defensive Rebound,55,41
+1:24,Duke,RJ Barrett,Layup,57,41
+0:57,Kentucky,Tyler Herro,Missed Jumper,57,41
+0:57,Kentucky,Reid Travis,Offensive Rebound,57,41
+0:52,Kentucky,Reid Travis,Foul,57,41
+0:52,Kentucky,Reid Travis,Turnover,57,41
+0:52,Duke,None,None,57,41
+0:42,Duke,Marques Bolden,Dunk,59,41
+0:20,Duke,Marques Bolden,Foul,59,41
+0:20,Kentucky,Quade Green,Free Throw,59,42
+0:20,Kentucky,Quade Green,Missed Free Throw,59,42
+0:20,Duke,Jack White,Defensive Rebound,59,42
+0:02,Duke,RJ Barrett,Missed Three Point Jumper,59,42
+0:02,Kentucky,Kentucky,Defensive Rebound,59,42
+0:01,Kentucky,Keldon Johnson,Missed Three Point Jumper,59,42
+0:01,Kentucky,Kentucky,Offensive Rebound,59,42
+0:00,Kentucky,None,None,59,42
+20:00,Duke,None,None,59,42
+19:49,Duke,Zion Williamson,Layup,61,42
+19:25,Kentucky,Ashton Hagans,Missed Jumper,61,42
+19:25,Duke,Cam Reddish,Defensive Rebound,61,42
+19:13,Duke,Cam Reddish,Three Point Jumper,64,42
+19:06,Kentucky,None,None,64,42
+18:50,Kentucky,PJ Washington,Missed Jumper,64,42
+18:50,Duke,Marques Bolden,Block,64,42
+18:50,Kentucky,PJ Washington,Offensive Rebound,64,42
+18:47,Kentucky,None,None,64,42
+18:39,Duke,Marques Bolden,Foul,64,42
+18:39,Kentucky,Reid Travis,Missed Free Throw,64,42
+18:39,Kentucky,None,Team Rebound,64,42
+18:39,Kentucky,Reid Travis,Missed Free Throw,64,42
+18:39,Duke,RJ Barrett,Defensive Rebound,64,42
+18:35,Duke,Cam Reddish,Missed Three Point Jumper,64,42
+18:35,Kentucky,EJ Montgomery,Defensive Rebound,64,42
+18:28,Kentucky,EJ Montgomery,Turnover,64,42
+18:28,Duke,Cam Reddish,Steal,64,42
+18:26,Duke,Cam Reddish,Dunk,66,42
+18:03,Duke,Cam Reddish,Foul,66,42
+18:03,Kentucky,Keldon Johnson,Missed Free Throw,66,42
+18:03,Kentucky,None,Team Rebound,66,42
+18:03,Kentucky,Keldon Johnson,Free Throw,66,43
+17:49,Duke,RJ Barrett,Turnover,66,43
+17:49,Kentucky,Keldon Johnson,Steal,66,43
+17:45,Kentucky,PJ Washington,Dunk,66,45
+17:31,Kentucky,PJ Washington,Foul,66,45
+17:31,Duke,Cam Reddish,Free Throw,67,45
+17:31,Duke,Cam Reddish,Free Throw,68,45
+17:17,Duke,Marques Bolden,Foul,68,45
+17:11,Kentucky,EJ Montgomery,Missed Layup,68,45
+17:11,Kentucky,EJ Montgomery,Offensive Rebound,68,45
+17:08,Duke,None,None,68,45
+17:08,Kentucky,EJ Montgomery,Turnover,68,45
+17:08,Duke,Javin DeLaurier,Steal,68,45
+17:05,Duke,Tre Jones,Missed Jumper,68,45
+17:05,Kentucky,EJ Montgomery,Defensive Rebound,68,45
+17:00,Kentucky,Keldon Johnson,Missed Layup,68,45
+17:00,Kentucky,Reid Travis,Offensive Rebound,68,45
+16:56,Kentucky,Reid Travis,Jumper,68,47
+16:36,Duke,Zion Williamson,Jumper,70,47
+16:25,Kentucky,Immanuel Quickley,Turnover,70,47
+16:25,Duke,Jack White,Steal,70,47
+16:18,Duke,RJ Barrett,Jumper,72,47
+15:57,Kentucky,Keldon Johnson,Missed Jumper,72,47
+15:57,Duke,Tre Jones,Defensive Rebound,72,47
+15:49,Kentucky,Keldon Johnson,Foul,72,47
+15:49,Kentucky,None,None,72,47
+15:49,Duke,RJ Barrett,Missed Free Throw,72,47
+15:49,Duke,None,Team Rebound,72,47
+15:49,Duke,RJ Barrett,Missed Free Throw,72,47
+15:49,Kentucky,Tyler Herro,Defensive Rebound,72,47
+15:47,Kentucky,Ashton Hagans,Turnover,72,47
+15:47,Duke,Tre Jones,Steal,72,47
+15:42,Duke,Tre Jones,Missed Layup,72,47
+15:42,Duke,Zion Williamson,Offensive Rebound,72,47
+15:39,Duke,Zion Williamson,Dunk,74,47
+15:14,Kentucky,EJ Montgomery,Missed Jumper,74,47
+15:14,Duke,Tre Jones,Defensive Rebound,74,47
+14:59,Duke,Jack White,Missed Three Point Jumper,74,47
+14:59,Duke,Zion Williamson,Offensive Rebound,74,47
+14:53,Kentucky,EJ Montgomery,Foul,74,47
+14:53,Duke,Zion Williamson,Missed Free Throw,74,47
+14:53,Duke,None,Team Rebound,74,47
+14:53,Duke,Zion Williamson,Free Throw,75,47
+14:41,Kentucky,Nick Richards,Missed Layup,75,47
+14:41,Duke,Zion Williamson,Block,75,47
+14:41,Duke,Zion Williamson,Defensive Rebound,75,47
+14:38,Duke,RJ Barrett,Layup,77,47
+14:38,Kentucky,PJ Washington,Foul,77,47
+14:38,Duke,RJ Barrett,Free Throw,78,47
+14:25,Duke,Javin DeLaurier,Foul,78,47
+14:25,Kentucky,Reid Travis,Free Throw,78,48
+14:25,Kentucky,Reid Travis,Free Throw,78,49
+14:11,Duke,Zion Williamson,Layup,80,49
+13:56,Duke,Zion Williamson,Foul,80,49
+13:56,Kentucky,Reid Travis,Missed Free Throw,80,49
+13:56,Kentucky,None,Team Rebound,80,49
+13:56,Kentucky,Reid Travis,Free Throw,80,50
+13:47,Duke,RJ Barrett,Missed Jumper,80,50
+13:47,Duke,Jack White,Offensive Rebound,80,50
+13:43,Kentucky,Keldon Johnson,Foul,80,50
+13:40,Duke,Marques Bolden,Dunk,82,50
+13:26,Duke,RJ Barrett,Foul,82,50
+13:26,Kentucky,Reid Travis,Free Throw,82,51
+13:26,Kentucky,Reid Travis,Free Throw,82,52
+13:13,Duke,Jack White,Three Point Jumper,85,52
+12:53,Kentucky,Reid Travis,Turnover,85,52
+12:37,Duke,RJ Barrett,Missed Jumper,85,52
+12:37,Kentucky,Tyler Herro,Defensive Rebound,85,52
+12:22,Duke,Jack White,Foul,85,52
+12:22,Kentucky,Keldon Johnson,Free Throw,85,53
+12:22,Kentucky,Keldon Johnson,Free Throw,85,54
+12:10,Duke,Alex O'Connell,Three Point Jumper,88,54
+11:53,Kentucky,Tyler Herro,Turnover,88,54
+11:53,Duke,Cam Reddish,Steal,88,54
+11:48,Duke,Alex O'Connell,Three Point Jumper,91,54
+11:32,Kentucky,Immanuel Quickley,Missed Three Point Jumper,91,54
+11:32,Kentucky,Reid Travis,Offensive Rebound,91,54
+11:26,Kentucky,PJ Washington,Dunk,91,56
+11:15,Duke,Cam Reddish,Missed Layup,91,56
+11:15,Kentucky,Reid Travis,Block,91,56
+11:15,Kentucky,Tyler Herro,Defensive Rebound,91,56
+11:09,Kentucky,Reid Travis,Layup,91,58
+11:02,Kentucky,Immanuel Quickley,Foul,91,58
+11:02,Kentucky,None,None,91,58
+10:52,Duke,Jack White,Missed Three Point Jumper,91,58
+10:52,Duke,Marques Bolden,Offensive Rebound,91,58
+10:44,Duke,Tre Jones,Missed Jumper,91,58
+10:44,Kentucky,Tyler Herro,Defensive Rebound,91,58
+10:19,Kentucky,Reid Travis,Three Point Jumper,91,61
+10:09,Duke,Cam Reddish,Missed Three Point Jumper,91,61
+10:09,Duke,Jack White,Offensive Rebound,91,61
+10:04,Duke,Jack White,Layup,93,61
+9:55,Kentucky,Tyler Herro,Missed Three Point Jumper,93,61
+9:55,Kentucky,Reid Travis,Offensive Rebound,93,61
+9:51,Kentucky,Reid Travis,Missed Jumper,93,61
+9:51,Duke,Alex O'Connell,Defensive Rebound,93,61
+9:30,Kentucky,PJ Washington,Foul,93,61
+9:30,Duke,Zion Williamson,Free Throw,94,61
+9:30,Duke,Zion Williamson,Free Throw,95,61
+9:22,Kentucky,Keldon Johnson,Jumper,95,63
+9:22,Duke,Cam Reddish,Foul,95,63
+9:22,Kentucky,Keldon Johnson,Free Throw,95,64
+9:13,Duke,Zion Williamson,Dunk,97,64
+9:02,Kentucky,Tyler Herro,Layup,97,66
+8:36,Duke,RJ Barrett,Missed Jumper,97,66
+8:36,Kentucky,Ashton Hagans,Defensive Rebound,97,66
+8:30,Kentucky,Tyler Herro,Layup,97,68
+8:10,Duke,Cam Reddish,Missed Jumper,97,68
+8:10,Kentucky,Keldon Johnson,Block,97,68
+8:10,Kentucky,Tyler Herro,Defensive Rebound,97,68
+8:00,Kentucky,Reid Travis,Layup,97,70
+7:48,Duke,None,None,97,70
+7:48,Kentucky,None,None,97,70
+7:38,Duke,RJ Barrett,Three Point Jumper,100,70
+7:20,Kentucky,EJ Montgomery,Turnover,100,70
+7:20,Duke,Javin DeLaurier,Steal,100,70
+6:58,Duke,Zion Williamson,Jumper,102,70
+6:40,Kentucky,Keldon Johnson,Three Point Jumper,102,73
+6:12,Duke,RJ Barrett,Missed Jumper,102,73
+6:12,Kentucky,Keldon Johnson,Defensive Rebound,102,73
+6:02,Kentucky,Keldon Johnson,Missed Jumper,102,73
+6:02,Duke,Javin DeLaurier,Block,102,73
+6:02,Duke,RJ Barrett,Defensive Rebound,102,73
+5:57,Kentucky,Ashton Hagans,Foul,102,73
+5:57,Duke,RJ Barrett,Missed Free Throw,102,73
+5:57,Duke,None,Team Rebound,102,73
+5:57,Duke,RJ Barrett,Free Throw,103,73
+5:49,Kentucky,Tyler Herro,Three Point Jumper,103,76
+5:20,Duke,RJ Barrett,Missed Three Point Jumper,103,76
+5:20,Duke,Jack White,Offensive Rebound,103,76
+5:13,Duke,RJ Barrett,Layup,105,76
+5:00,Kentucky,Ashton Hagans,Turnover,105,76
+5:00,Duke,Zion Williamson,Steal,105,76
+4:54,Kentucky,Ashton Hagans,Foul,105,76
+4:54,Duke,RJ Barrett,Free Throw,106,76
+4:54,Duke,RJ Barrett,Free Throw,107,76
+4:39,Kentucky,Tyler Herro,Jumper,107,78
+4:15,Duke,Cam Reddish,Missed Three Point Jumper,107,78
+4:15,Kentucky,Tyler Herro,Defensive Rebound,107,78
+4:03,Kentucky,Quade Green,Missed Jumper,107,78
+4:03,Duke,Marques Bolden,Defensive Rebound,107,78
+3:37,Kentucky,EJ Montgomery,Foul,107,78
+3:37,Kentucky,None,None,107,78
+3:37,Duke,Marques Bolden,Missed Free Throw,107,78
+3:37,Duke,None,Team Rebound,107,78
+3:37,Duke,Marques Bolden,Free Throw,108,78
+3:26,Kentucky,Nick Richards,Foul,108,78
+3:26,Kentucky,Nick Richards,Turnover,108,78
+3:16,Duke,Cam Reddish,Layup,110,78
+3:16,Kentucky,Quade Green,Foul,110,78
+3:16,Duke,Cam Reddish,Free Throw,111,78
+3:02,Kentucky,Nick Richards,Turnover,111,78
+3:02,Duke,Cam Reddish,Steal,111,78
+2:57,Duke,Alex O'Connell,Three Point Jumper,114,78
+2:32,Kentucky,EJ Montgomery,Jumper,114,80
+2:21,Duke,None,None,114,80
+2:09,Duke,Jack White,Jumper,116,80
+1:56,Kentucky,Tyler Herro,Missed Three Point Jumper,116,80
+1:56,Kentucky,Kentucky,Offensive Rebound,116,80
+1:48,Kentucky,Immanuel Quickley,Missed Three Point Jumper,116,80
+1:40,Duke,Alex O'Connell,Defensive Rebound,116,80
+1:30,Duke,Jack White,Missed Three Point Jumper,116,80
+1:30,Kentucky,Tyler Herro,Defensive Rebound,116,80
+1:20,Duke,Antonio Vrankovic,Foul,116,80
+1:20,Kentucky,Immanuel Quickley,Free Throw,116,81
+1:20,Kentucky,Immanuel Quickley,Free Throw,116,82
+1:00,Duke,Alex O'Connell,Missed Jumper,116,82
+1:00,Kentucky,Tyler Herro,Block,116,82
+1:00,Kentucky,Nick Richards,Defensive Rebound,116,82
+0:54,Duke,Jack White,Foul,116,82
+0:54,Kentucky,Immanuel Quickley,Free Throw,116,83
+0:54,Kentucky,Immanuel Quickley,Free Throw,116,84
+0:41,Duke,Alex O'Connell,Missed Three Point Jumper,116,84
+0:41,Duke,Jack White,Offensive Rebound,116,84
+0:13,Duke,Antonio Vrankovic,Layup,118,84
+0:00,Kentucky,None,None,118,84

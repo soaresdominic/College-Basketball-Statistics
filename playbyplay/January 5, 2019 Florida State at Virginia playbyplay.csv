@@ -1,0 +1,315 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Virginia,None,None,0,0
+19:45,Virginia,Ty Jerome,Missed Jumper,0,0
+19:45,Florida State,Trent Forrest,Defensive Rebound,0,0
+19:19,Florida State,M.J. Walker,Turnover,0,0
+19:19,Virginia,Mamadi Diakite,Steal,0,0
+18:54,Florida State,Trent Forrest,Foul,0,0
+18:54,Virginia,Ty Jerome,Free Throw,0,1
+18:54,Virginia,Ty Jerome,Free Throw,0,2
+18:26,Florida State,M.J. Walker,Three Point Jumper,3,2
+17:59,Virginia,Mamadi Diakite,Layup,3,4
+17:44,Florida State,PJ Savoy,Missed Three Point Jumper,3,4
+17:44,Virginia,Ty Jerome,Defensive Rebound,3,4
+17:26,Virginia,Ty Jerome,Missed Three Point Jumper,3,4
+17:26,Florida State,M.J. Walker,Block,3,4
+17:26,Florida State,Phil Cofer,Defensive Rebound,3,4
+17:12,Florida State,Christ Koumadje,Dunk,5,4
+16:42,Virginia,Kyle Guy,Turnover,5,4
+16:42,Florida State,PJ Savoy,Steal,5,4
+16:36,Florida State,M.J. Walker,Missed Three Point Jumper,5,4
+16:36,Virginia,De'Andre Hunter,Defensive Rebound,5,4
+16:27,Virginia,De'Andre Hunter,Missed Jumper,5,4
+16:27,Florida State,PJ Savoy,Defensive Rebound,5,4
+16:12,Florida State,Phil Cofer,Three Point Jumper,8,4
+15:45,Florida State,PJ Savoy,Foul,8,4
+15:45,Virginia,None,None,8,4
+15:38,Virginia,De'Andre Hunter,Missed Three Point Jumper,8,4
+15:38,Virginia,Ty Jerome,Offensive Rebound,8,4
+15:32,Virginia,Kyle Guy,Layup,8,6
+15:28,Florida State,Mfiondu Kabengele,Turnover,8,6
+15:28,Virginia,Kyle Guy,Steal,8,6
+15:11,Virginia,Mamadi Diakite,Missed Jumper,8,6
+15:11,Florida State,Mfiondu Kabengele,Defensive Rebound,8,6
+14:47,Virginia,Jack Salt,Foul,8,6
+14:47,Florida State,Mfiondu Kabengele,Missed Free Throw,8,6
+14:47,Florida State,None,Team Rebound,8,6
+14:47,Florida State,Mfiondu Kabengele,Missed Free Throw,8,6
+14:47,Virginia,Mamadi Diakite,Defensive Rebound,8,6
+14:26,Virginia,Kyle Guy,Layup,8,8
+14:09,Virginia,Mamadi Diakite,Foul,8,8
+14:09,Florida State,Phil Cofer,Missed Free Throw,8,8
+14:09,Florida State,None,Team Rebound,8,8
+14:09,Florida State,Phil Cofer,Free Throw,9,8
+14:09,Florida State,Phil Cofer,Missed Free Throw,9,8
+14:09,Virginia,Jack Salt,Defensive Rebound,9,8
+13:58,Virginia,Ty Jerome,Missed Jumper,9,8
+13:58,Florida State,Mfiondu Kabengele,Defensive Rebound,9,8
+13:37,Florida State,Phil Cofer,Missed Three Point Jumper,9,8
+13:37,Virginia,Ty Jerome,Defensive Rebound,9,8
+13:12,Florida State,Terance Mann,Foul,9,8
+13:07,Virginia,Ty Jerome,Missed Three Point Jumper,9,8
+13:07,Virginia,Kihei Clark,Offensive Rebound,9,8
+12:56,Virginia,Ty Jerome,Missed Layup,9,8
+12:56,Florida State,Terance Mann,Defensive Rebound,9,8
+12:49,Florida State,Terance Mann,Foul,9,8
+12:49,Florida State,Terance Mann,Turnover,9,8
+12:35,Virginia,Kihei Clark,Turnover,9,8
+12:35,Florida State,David Nichols,Steal,9,8
+12:20,Florida State,Mfiondu Kabengele,Missed Layup,9,8
+12:20,Virginia,Kyle Guy,Defensive Rebound,9,8
+12:09,Virginia,Braxton Key,Layup,9,10
+11:53,Florida State,Raiquan Gray,Missed Three Point Jumper,9,10
+11:53,Virginia,Braxton Key,Defensive Rebound,9,10
+11:35,Virginia,Kyle Guy,Three Point Jumper,9,13
+11:21,Florida State,David Nichols,Missed Three Point Jumper,9,13
+11:21,Virginia,Braxton Key,Defensive Rebound,9,13
+10:56,Virginia,De'Andre Hunter,Missed Layup,9,13
+10:56,Florida State,Raiquan Gray,Defensive Rebound,9,13
+10:49,Virginia,Braxton Key,Foul,9,13
+10:49,Virginia,None,None,9,13
+10:49,Florida State,Anthony Polite,Free Throw,10,13
+10:49,Florida State,Anthony Polite,Free Throw,11,13
+10:24,Florida State,Christ Koumadje,Foul,11,13
+10:24,Virginia,Braxton Key,Missed Three Point Jumper,11,13
+10:14,Florida State,Christ Koumadje,Defensive Rebound,11,13
+9:46,Florida State,Trent Forrest,Missed Layup,11,13
+9:46,Florida State,Florida State,Offensive Rebound,11,13
+9:44,Virginia,Jay Huff,Foul,11,13
+9:44,Florida State,Christ Koumadje,Missed Free Throw,11,13
+9:44,Florida State,None,Team Rebound,11,13
+9:44,Florida State,Christ Koumadje,Missed Free Throw,11,13
+9:44,Virginia,Kyle Guy,Defensive Rebound,11,13
+9:17,Virginia,Kyle Guy,Three Point Jumper,11,16
+8:46,Florida State,Christ Koumadje,Missed Jumper,11,16
+8:46,Virginia,Ty Jerome,Defensive Rebound,11,16
+8:46,Florida State,Christ Koumadje,Offensive Rebound,11,16
+8:46,Virginia,Jay Huff,Block,11,16
+8:33,Florida State,Phil Cofer,Foul,11,16
+8:33,Virginia,De'Andre Hunter,Free Throw,11,17
+8:33,Virginia,De'Andre Hunter,Free Throw,11,18
+8:13,Virginia,Jay Huff,Foul,11,18
+8:13,Florida State,M.J. Walker,Free Throw,12,18
+8:13,Florida State,M.J. Walker,Free Throw,13,18
+7:50,Virginia,De'Andre Hunter,Missed Jumper,13,18
+7:50,Florida State,Trent Forrest,Defensive Rebound,13,18
+7:34,Florida State,Phil Cofer,Jumper,15,18
+7:09,Virginia,Ty Jerome,Layup,15,20
+6:55,Florida State,PJ Savoy,Turnover,15,20
+6:55,Virginia,None,None,15,20
+6:42,Virginia,De'Andre Hunter,Layup,15,22
+6:19,Florida State,Mfiondu Kabengele,Missed Jumper,15,22
+6:19,Florida State,Mfiondu Kabengele,Offensive Rebound,15,22
+6:13,Virginia,De'Andre Hunter,Foul,15,22
+6:13,Florida State,Mfiondu Kabengele,Free Throw,16,22
+6:13,Florida State,Mfiondu Kabengele,Missed Free Throw,16,22
+6:13,Virginia,Braxton Key,Defensive Rebound,16,22
+5:53,Virginia,Kyle Guy,Missed Jumper,16,22
+5:53,Virginia,De'Andre Hunter,Offensive Rebound,16,22
+5:46,Virginia,Braxton Key,Three Point Jumper,16,25
+5:26,Florida State,PJ Savoy,Three Point Jumper,19,25
+5:26,Florida State,Mfiondu Kabengele,Foul,19,25
+5:26,Virginia,Mamadi Diakite,Missed Free Throw,19,25
+5:26,Florida State,Mfiondu Kabengele,Defensive Rebound,19,25
+5:07,Florida State,David Nichols,Turnover,19,25
+4:58,Florida State,M.J. Walker,Foul,19,25
+4:58,Virginia,Kyle Guy,Free Throw,19,26
+4:58,Virginia,Kyle Guy,Free Throw,19,27
+4:48,Virginia,De'Andre Hunter,Foul,19,27
+4:48,Florida State,M.J. Walker,Free Throw,20,27
+4:48,Florida State,M.J. Walker,Free Throw,21,27
+4:25,Virginia,Braxton Key,Three Point Jumper,21,30
+4:05,Florida State,Anthony Polite,Turnover,21,30
+4:05,Virginia,Braxton Key,Steal,21,30
+4:01,Florida State,Mfiondu Kabengele,Foul,21,30
+4:01,Virginia,Braxton Key,Free Throw,21,31
+4:01,Virginia,Braxton Key,Free Throw,21,32
+3:49,Florida State,Anthony Polite,Missed Three Point Jumper,21,32
+3:49,Virginia,Virginia,Defensive Rebound,21,32
+3:43,Virginia,None,None,21,32
+3:17,Virginia,Braxton Key,Missed Three Point Jumper,21,32
+3:17,Virginia,Virginia,Offensive Rebound,21,32
+3:12,Virginia,Virginia ,Turnover,21,32
+3:11,Florida State,Phil Cofer,Foul,21,32
+3:11,Florida State,Phil Cofer,Foul,21,32
+3:11,Virginia,Jack Salt,Foul,21,32
+3:11,Virginia,Jack Salt,Foul,21,32
+3:00,Florida State,Raiquan Gray,Foul,21,32
+3:00,Florida State,Raiquan Gray,Turnover,21,32
+2:38,Virginia,Ty Jerome,Missed Three Point Jumper,21,32
+2:38,Florida State,Anthony Polite,Defensive Rebound,21,32
+2:29,Florida State,David Nichols,Missed Three Point Jumper,21,32
+2:29,Virginia,Mamadi Diakite,Defensive Rebound,21,32
+2:24,Florida State,Christ Koumadje,Foul,21,32
+2:24,Virginia,Mamadi Diakite,Free Throw,21,33
+2:24,Virginia,Mamadi Diakite,Free Throw,21,34
+2:08,Florida State,David Nichols,Turnover,21,34
+1:44,Virginia,Kyle Guy,Three Point Jumper,21,37
+1:15,Florida State,Raiquan Gray,Jumper,23,37
+0:59,Virginia,Kyle Guy,Three Point Jumper,23,40
+0:40,Florida State,M.J. Walker,Missed Three Point Jumper,23,40
+0:40,Virginia,Braxton Key,Defensive Rebound,23,40
+0:11,Virginia,Braxton Key,Layup,23,42
+0:02,Florida State,Raiquan Gray,Missed Three Point Jumper,23,42
+0:02,Florida State,Harrison Prieto,Offensive Rebound,23,42
+0:00,Virginia,None,None,23,42
+20:00,Virginia,None,None,23,42
+19:37,Virginia,Kyle Guy,Three Point Jumper,23,45
+19:19,Florida State,Phil Cofer,Three Point Jumper,26,45
+18:50,Virginia,Ty Jerome,Layup,26,47
+18:29,Florida State,M.J. Walker,Turnover,26,47
+18:05,Virginia,Mamadi Diakite,Missed Jumper,26,47
+18:05,Virginia,Jack Salt,Offensive Rebound,26,47
+18:00,Virginia,Mamadi Diakite,Dunk,26,49
+17:43,Florida State,Phil Cofer,Missed Three Point Jumper,26,49
+17:43,Virginia,De'Andre Hunter,Defensive Rebound,26,49
+17:28,Virginia,Jack Salt,Missed Jumper,26,49
+17:28,Florida State,Christ Koumadje,Block,26,49
+17:28,Virginia,Virginia,Offensive Rebound,26,49
+17:20,Virginia,Kyle Guy,Missed Three Point Jumper,26,49
+17:20,Virginia,Jack Salt,Offensive Rebound,26,49
+17:05,Florida State,David Nichols,Foul,26,49
+17:05,Virginia,None,None,26,49
+17:05,Florida State,None,None,26,49
+16:51,Virginia,Ty Jerome,Missed Three Point Jumper,26,49
+16:51,Florida State,Mfiondu Kabengele,Defensive Rebound,26,49
+16:32,Florida State,Trent Forrest,Missed Layup,26,49
+16:32,Florida State,Mfiondu Kabengele,Offensive Rebound,26,49
+16:27,Florida State,Mfiondu Kabengele,Layup,28,49
+16:06,Virginia,De'Andre Hunter,Jumper,28,51
+15:39,Florida State,Mfiondu Kabengele,Missed Jumper,28,51
+15:39,Virginia,Mamadi Diakite,Block,28,51
+15:39,Virginia,Kyle Guy,Defensive Rebound,28,51
+15:17,Virginia,None,None,28,51
+15:16,Florida State,Terance Mann,Foul,28,51
+15:15,Virginia,Ty Jerome,Turnover,28,51
+15:15,Florida State,Terance Mann,Steal,28,51
+15:12,Florida State,Terance Mann,Missed Jumper,28,51
+15:12,Virginia,Mamadi Diakite,Defensive Rebound,28,51
+14:51,Virginia,Mamadi Diakite,Turnover,28,51
+14:34,Florida State,David Nichols,Missed Layup,28,51
+14:34,Virginia,Jack Salt,Defensive Rebound,28,51
+14:19,Virginia,Kyle Guy,Missed Jumper,28,51
+14:19,Florida State,Mfiondu Kabengele,Defensive Rebound,28,51
+14:10,Florida State,Mfiondu Kabengele,Missed Three Point Jumper,28,51
+14:10,Virginia,De'Andre Hunter,Defensive Rebound,28,51
+13:44,Virginia,Jack Salt,Missed Layup,28,51
+13:44,Florida State,Mfiondu Kabengele,Block,28,51
+13:44,Virginia,Mamadi Diakite,Offensive Rebound,28,51
+13:44,Virginia,Mamadi Diakite,Missed Layup,28,51
+13:44,Florida State,Phil Cofer,Defensive Rebound,28,51
+13:40,Virginia,Mamadi Diakite,Foul,28,51
+13:19,Florida State,Phil Cofer,Missed Jumper,28,51
+13:19,Virginia,De'Andre Hunter,Defensive Rebound,28,51
+13:09,Virginia,De'Andre Hunter,Missed Layup,28,51
+13:09,Florida State,M.J. Walker,Defensive Rebound,28,51
+13:04,Florida State,M.J. Walker,Turnover,28,51
+12:44,Florida State,Mfiondu Kabengele,Foul,28,51
+12:44,Virginia,Jack Salt,Free Throw,28,52
+12:44,Virginia,Jack Salt,Free Throw,28,53
+12:29,Florida State,Anthony Polite,Three Point Jumper,31,53
+12:06,Virginia,De'Andre Hunter,Missed Layup,31,53
+12:06,Florida State,Mfiondu Kabengele,Block,31,53
+12:06,Florida State,Phil Cofer,Defensive Rebound,31,53
+11:56,Virginia,None,None,31,53
+11:44,Florida State,Mfiondu Kabengele,Turnover,31,53
+11:44,Virginia,Kihei Clark,Steal,31,53
+11:28,Florida State,David Nichols,Foul,31,53
+11:09,Virginia,Ty Jerome,Missed Jumper,31,53
+11:09,Florida State,David Nichols,Defensive Rebound,31,53
+10:53,Virginia,Kyle Guy,Foul,31,53
+10:53,Florida State,Trent Forrest,Free Throw,32,53
+10:53,Florida State,Trent Forrest,Missed Free Throw,32,53
+10:53,Virginia,Jack Salt,Defensive Rebound,32,53
+10:32,Virginia,Kyle Guy,Missed Jumper,32,53
+10:32,Florida State,Trent Forrest,Defensive Rebound,32,53
+10:15,Florida State,Mfiondu Kabengele,Missed Three Point Jumper,32,53
+10:15,Virginia,Braxton Key,Defensive Rebound,32,53
+9:46,Virginia,Kihei Clark,Missed Jumper,32,53
+9:46,Florida State,Anthony Polite,Defensive Rebound,32,53
+9:10,Florida State,Florida State ,Turnover,32,53
+8:51,Virginia,Braxton Key,Missed Layup,32,53
+8:51,Florida State,Terance Mann,Block,32,53
+8:51,Virginia,Virginia,Offensive Rebound,32,53
+8:43,Virginia,Braxton Key,Jumper,32,55
+8:18,Florida State,M.J. Walker,Missed Jumper,32,55
+8:18,Virginia,De'Andre Hunter,Defensive Rebound,32,55
+7:57,Virginia,Ty Jerome,Missed Jumper,32,55
+7:57,Florida State,Terance Mann,Defensive Rebound,32,55
+7:47,Virginia,None,None,32,55
+7:43,Virginia,De'Andre Hunter,Foul,32,55
+7:31,Florida State,Phil Cofer,Missed Three Point Jumper,32,55
+7:31,Virginia,Kyle Guy,Defensive Rebound,32,55
+7:10,Virginia,Mamadi Diakite,Missed Jumper,32,55
+7:10,Florida State,Raiquan Gray,Defensive Rebound,32,55
+6:49,Florida State,Raiquan Gray,Missed Three Point Jumper,32,55
+6:49,Florida State,Phil Cofer,Offensive Rebound,32,55
+6:40,Florida State,Phil Cofer,Missed Three Point Jumper,32,55
+6:40,Florida State,Raiquan Gray,Offensive Rebound,32,55
+6:40,Florida State,Raiquan Gray,Missed Layup,32,55
+6:35,Florida State,Florida State ,Turnover,32,55
+6:35,Florida State,None,None,32,55
+6:14,Virginia,Kihei Clark,Missed Layup,32,55
+6:14,Florida State,Trent Forrest,Block,32,55
+6:14,Florida State,Trent Forrest,Defensive Rebound,32,55
+5:43,Florida State,Raiquan Gray,Turnover,32,55
+5:24,Virginia,Braxton Key,Layup,32,57
+5:04,Florida State,Terance Mann,Missed Jumper,32,57
+5:04,Virginia,Kyle Guy,Defensive Rebound,32,57
+4:52,Florida State,Raiquan Gray,Foul,32,57
+4:52,Virginia,Braxton Key,Free Throw,32,58
+4:52,Virginia,Braxton Key,Free Throw,32,59
+4:41,Florida State,David Nichols,Layup,34,59
+4:19,Virginia,Braxton Key,Layup,34,61
+4:02,Florida State,Terance Mann,Missed Three Point Jumper,34,61
+4:02,Virginia,Braxton Key,Defensive Rebound,34,61
+3:33,Virginia,Braxton Key,Missed Three Point Jumper,34,61
+3:33,Florida State,Florida State,Defensive Rebound,34,61
+3:28,Virginia,None,None,34,61
+3:11,Florida State,PJ Savoy,Turnover,34,61
+2:50,Florida State,Mfiondu Kabengele,Foul,34,61
+2:50,Virginia,Marco Anthony,Free Throw,34,62
+2:50,Virginia,Marco Anthony,Free Throw,34,63
+2:38,Florida State,Mfiondu Kabengele,Jumper,36,63
+2:19,Virginia,Francesco Badocchi,Jumper,36,65
+2:04,Florida State,PJ Savoy,Three Point Jumper,39,65
+1:58,Florida State,None,None,39,65
+1:38,Virginia,Kody Stattmann,Turnover,39,65
+1:38,Florida State,PJ Savoy,Steal,39,65
+1:34,Virginia,Jayden Nixon,Foul,39,65
+1:34,Florida State,Devin Vassell,Free Throw,40,65
+1:34,Florida State,Devin Vassell,Missed Free Throw,40,65
+1:34,Florida State,Florida State,Offensive Rebound,40,65
+1:30,Florida State,PJ Savoy,Missed Three Point Jumper,40,65
+1:30,Virginia,Kody Stattmann,Defensive Rebound,40,65
+1:24,Florida State,PJ Savoy,Foul,40,65
+1:24,Virginia,Kody Stattmann,Missed Free Throw,40,65
+1:24,Florida State,Raiquan Gray,Defensive Rebound,40,65
+1:04,Florida State,David Nichols,Layup,42,65
+1:04,Virginia,Jayden Nixon,Foul,42,65
+1:04,Florida State,David Nichols,Free Throw,43,65
+0:53,Virginia,Jayden Nixon,Turnover,43,65
+0:53,Florida State,David Nichols,Steal,43,65
+0:47,Virginia,Kody Stattmann,Foul,43,65
+0:47,Florida State,Devin Vassell,Free Throw,44,65
+0:47,Florida State,Devin Vassell,Free Throw,45,65
+0:42,Virginia,Grant Kersey,Turnover,45,65
+0:42,Florida State,PJ Savoy,Steal,45,65
+0:40,Virginia,Kody Stattmann,Foul,45,65
+0:40,Florida State,Devin Vassell,Missed Free Throw,45,65
+0:40,Florida State,None,Team Rebound,45,65
+0:40,Florida State,Devin Vassell,Free Throw,46,65
+0:36,Virginia,Kody Stattmann,Turnover,46,65
+0:36,Florida State,PJ Savoy,Steal,46,65
+0:31,Florida State,PJ Savoy,Dunk,48,65
+0:25,Virginia,Marco Anthony,Turnover,48,65
+0:25,Florida State,Wyatt Wilkes,Steal,48,65
+0:20,Florida State,Devin Vassell,Layup,50,65
+0:17,Virginia,Marco Anthony,Turnover,50,65
+0:17,Florida State,PJ Savoy,Steal,50,65
+0:05,Virginia,Austin Katstra,Foul,50,65
+0:05,Florida State,Wyatt Wilkes,Free Throw,51,65
+0:05,Florida State,Wyatt Wilkes,Missed Free Throw,51,65
+0:05,Florida State,None,Team Rebound,51,65
+0:05,Florida State,Wyatt Wilkes,Free Throw,52,65
+0:00,Virginia,None,None,52,65

@@ -1,0 +1,381 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas Southern,None,None,0,0
+19:48,Texas Southern,Jalyn Patterson,Three Point Jumper,3,0
+19:28,Gonzaga,Brandon Clarke,Missed Jumper,3,0
+19:28,Texas Southern,Jeremy Combs,Defensive Rebound,3,0
+19:18,Texas Southern,Trayvon Reed,Missed Jumper,3,0
+19:18,Gonzaga,Rui Hachimura,Defensive Rebound,3,0
+19:11,Gonzaga,Rui Hachimura,Jumper,3,2
+18:47,Texas Southern,Trayvon Reed,Turnover,3,2
+18:47,Gonzaga,Josh Perkins,Steal,3,2
+18:43,Gonzaga,Josh Perkins,Layup,3,4
+18:19,Gonzaga,Brandon Clarke,Foul,3,4
+18:14,Texas Southern,Jalyn Patterson,Missed Layup,3,4
+18:14,Gonzaga,Brandon Clarke,Block,3,4
+18:14,Texas Southern,Texas Southern,Offensive Rebound,3,4
+18:03,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,3,4
+18:03,Gonzaga,Zach Norvell Jr.,Defensive Rebound,3,4
+17:56,Gonzaga,Corey Kispert,Missed Three Point Jumper,3,4
+17:56,Gonzaga,Brandon Clarke,Offensive Rebound,3,4
+17:50,Gonzaga,Brandon Clarke,Layup,3,6
+17:40,Texas Southern,Cainan McClelland,Turnover,3,6
+17:36,Gonzaga,Zach Norvell Jr.,Missed Jumper,3,6
+17:36,Texas Southern,Trayvon Reed,Defensive Rebound,3,6
+17:18,Texas Southern,Jalyn Patterson,Turnover,3,6
+17:04,Gonzaga,Rui Hachimura,Layup,3,8
+17:04,Texas Southern,Trayvon Reed,Foul,3,8
+17:04,Gonzaga,Rui Hachimura,Free Throw,3,9
+16:58,Texas Southern,None,None,3,9
+16:40,Texas Southern,Cainan McClelland,Missed Three Point Jumper,3,9
+16:40,Gonzaga,Filip Petrusev,Defensive Rebound,3,9
+16:29,Gonzaga,Filip Petrusev,Missed Jumper,3,9
+16:22,Gonzaga,Zach Norvell Jr.,Offensive Rebound,3,9
+16:22,Gonzaga,Josh Perkins,Layup,3,11
+16:19,Texas Southern,Trayvon Reed,Dunk,5,11
+15:54,Gonzaga,Rui Hachimura,Missed Jumper,5,11
+15:54,Texas Southern,Jalyn Patterson,Defensive Rebound,5,11
+15:48,Texas Southern,Jeremy Combs,Turnover,5,11
+15:48,Gonzaga,Rui Hachimura,Steal,5,11
+15:31,Gonzaga,Filip Petrusev,Layup,5,13
+15:04,Gonzaga,Zach Norvell Jr.,Foul,5,13
+15:04,Gonzaga,None,None,5,13
+14:46,Gonzaga,Rui Hachimura,Foul,5,13
+14:44,Texas Southern,Jeremy Combs,Layup,7,13
+14:24,Texas Southern,Jeremy Combs,Foul,7,13
+14:09,Gonzaga,Geno Crandall,Turnover,7,13
+14:09,Texas Southern,Jeremy Combs,Steal,7,13
+14:09,Texas Southern,Jeremy Combs,Turnover,7,13
+14:09,Gonzaga,Geno Crandall,Steal,7,13
+14:09,Gonzaga,None,None,7,13
+14:06,Gonzaga,Corey Kispert,Missed Three Point Jumper,7,13
+14:06,Texas Southern,Trayvon Reed,Defensive Rebound,7,13
+13:49,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,7,13
+13:49,Gonzaga,Filip Petrusev,Defensive Rebound,7,13
+13:34,Gonzaga,Josh Perkins,Missed Three Point Jumper,7,13
+13:29,Gonzaga,Corey Kispert,Offensive Rebound,7,13
+13:25,Gonzaga,Geno Crandall,Turnover,7,13
+13:25,Texas Southern,Tyrik Armstrong,Steal,7,13
+13:10,Texas Southern,Devocio Butler,Three Point Jumper,10,13
+12:50,Gonzaga,Filip Petrusev,Missed Jumper,10,13
+12:50,Texas Southern,Tyrik Armstrong,Defensive Rebound,10,13
+12:44,Texas Southern,Tyrik Armstrong,Missed Layup,10,13
+12:44,Gonzaga,Corey Kispert,Defensive Rebound,10,13
+12:37,Gonzaga,Corey Kispert,Missed Layup,10,13
+12:37,Texas Southern,Trayvon Reed,Defensive Rebound,10,13
+12:28,Texas Southern,Devocio Butler,Missed Jumper,10,13
+12:28,Gonzaga,Gonzaga,Defensive Rebound,10,13
+12:12,Gonzaga,Josh Perkins,Turnover,10,13
+12:12,Texas Southern,Derrick Bruce,Steal,10,13
+12:06,Texas Southern,Justin Hopkins,Missed Layup,10,13
+12:06,Gonzaga,Brandon Clarke,Block,10,13
+12:06,Texas Southern,Jeremy Combs,Offensive Rebound,10,13
+11:59,Texas Southern,Jeremy Combs,Missed Layup,10,13
+11:59,Gonzaga,Filip Petrusev,Defensive Rebound,10,13
+11:59,Texas Southern,Derrick Bruce,Foul,10,13
+11:59,Gonzaga,None,None,10,13
+11:40,Gonzaga,Filip Petrusev,Missed Three Point Jumper,10,13
+11:40,Gonzaga,Rui Hachimura,Offensive Rebound,10,13
+11:36,Gonzaga,Rui Hachimura,Missed Layup,10,13
+11:36,Gonzaga,Rui Hachimura,Offensive Rebound,10,13
+11:36,Texas Southern,Devocio Butler,Foul,10,13
+11:36,Gonzaga,Rui Hachimura,Missed Free Throw,10,13
+11:36,Gonzaga,None,Team Rebound,10,13
+11:36,Gonzaga,Rui Hachimura,Free Throw,10,14
+11:11,Texas Southern,Devocio Butler,Jumper,12,14
+10:55,Gonzaga,Rui Hachimura,Foul,12,14
+10:55,Gonzaga,Rui Hachimura,Turnover,12,14
+10:45,Texas Southern,Justin Hopkins,Turnover,12,14
+10:32,Gonzaga,Brandon Clarke,Layup,12,16
+10:14,Texas Southern,Devocio Butler,Turnover,12,16
+9:55,Gonzaga,Brandon Clarke,Missed Layup,12,16
+9:55,Texas Southern,Trayvon Reed,Defensive Rebound,12,16
+9:41,Gonzaga,Zach Norvell Jr.,Foul,12,16
+9:41,Texas Southern,Justin Hopkins,Free Throw,13,16
+9:41,Texas Southern,Justin Hopkins,Free Throw,14,16
+9:29,Gonzaga,Geno Crandall,Missed Three Point Jumper,14,16
+9:29,Gonzaga,Brandon Clarke,Offensive Rebound,14,16
+9:24,Texas Southern,Devocio Butler,Foul,14,16
+9:22,Gonzaga,Zach Norvell Jr.,Layup,14,18
+9:04,Texas Southern,Trayvon Reed,Missed Jumper,14,18
+9:04,Gonzaga,Josh Perkins,Defensive Rebound,14,18
+8:55,Gonzaga,Zach Norvell Jr.,Three Point Jumper,14,21
+8:43,Gonzaga,Zach Norvell Jr.,Foul,14,21
+8:43,Texas Southern,Trayvon Reed,Free Throw,15,21
+8:43,Texas Southern,Trayvon Reed,Missed Free Throw,15,21
+8:43,Gonzaga,Corey Kispert,Defensive Rebound,15,21
+8:33,Gonzaga,Geno Crandall,Missed Three Point Jumper,15,21
+8:33,Gonzaga,Brandon Clarke,Offensive Rebound,15,21
+8:28,Gonzaga,Brandon Clarke,Layup,15,23
+8:11,Texas Southern,Jalyn Patterson,Missed Layup,15,23
+8:11,Gonzaga,Brandon Clarke,Defensive Rebound,15,23
+8:05,Texas Southern,Cainan McClelland,Foul,15,23
+8:05,Gonzaga,Corey Kispert,Free Throw,15,24
+8:05,Gonzaga,Corey Kispert,Free Throw,15,25
+7:52,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,15,25
+7:52,Gonzaga,Brandon Clarke,Defensive Rebound,15,25
+7:43,Gonzaga,Brandon Clarke,Missed Jumper,15,25
+7:43,Gonzaga,Brandon Clarke,Offensive Rebound,15,25
+7:43,Gonzaga,None,None,15,25
+7:43,Texas Southern,Trayvon Reed,Defensive Rebound,15,25
+7:31,Texas Southern,Jalyn Patterson,Layup,17,25
+7:06,Gonzaga,Brandon Clarke,Layup,17,27
+6:51,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,17,27
+6:51,Gonzaga,Josh Perkins,Defensive Rebound,17,27
+6:47,Texas Southern,Justin Hopkins,Foul,17,27
+6:47,Gonzaga,None,None,17,27
+6:47,Gonzaga,Josh Perkins,Free Throw,17,28
+6:47,Gonzaga,Josh Perkins,Free Throw,17,29
+6:32,Texas Southern,Derrick Bruce,Missed Jumper,17,29
+6:32,Texas Southern,Texas Southern,Offensive Rebound,17,29
+6:24,Texas Southern,Jalyn Patterson,Turnover,17,29
+6:24,Gonzaga,Geno Crandall,Steal,17,29
+6:18,Gonzaga,Corey Kispert,Three Point Jumper,17,32
+6:05,Texas Southern,Derrick Bruce,Missed Three Point Jumper,17,32
+6:05,Texas Southern,Trayvon Reed,Offensive Rebound,17,32
+6:01,Texas Southern,Trayvon Reed,Layup,19,32
+5:49,Gonzaga,Corey Kispert,Missed Three Point Jumper,19,32
+5:49,Texas Southern,Derrick Bruce,Defensive Rebound,19,32
+5:42,Texas Southern,Derrick Bruce,Missed Layup,19,32
+5:42,Gonzaga,Corey Kispert,Defensive Rebound,19,32
+5:24,Texas Southern,Derrick Bruce,Foul,19,32
+5:24,Gonzaga,Josh Perkins,Free Throw,19,33
+5:24,Gonzaga,Josh Perkins,Free Throw,19,34
+5:05,Texas Southern,Jalyn Patterson,Missed Jumper,19,34
+5:05,Gonzaga,Brandon Clarke,Block,19,34
+5:05,Gonzaga,Brandon Clarke,Defensive Rebound,19,34
+4:54,Texas Southern,Derrick Bruce,Foul,19,34
+4:54,Gonzaga,Josh Perkins,Free Throw,19,35
+4:54,Gonzaga,Josh Perkins,Free Throw,19,36
+4:28,Texas Southern,Jalyn Patterson,Missed Layup,19,36
+4:28,Gonzaga,Brandon Clarke,Block,19,36
+4:28,Gonzaga,Filip Petrusev,Defensive Rebound,19,36
+4:17,Gonzaga,Josh Perkins,Foul,19,36
+4:17,Gonzaga,Josh Perkins,Turnover,19,36
+4:03,Texas Southern,Cainan McClelland,Missed Jumper,19,36
+4:03,Gonzaga,Josh Perkins,Defensive Rebound,19,36
+3:53,Gonzaga,Corey Kispert,Foul,19,36
+3:53,Gonzaga,Corey Kispert,Turnover,19,36
+3:53,Gonzaga,None,None,19,36
+3:30,Texas Southern,Jalyn Patterson,Missed Layup,19,36
+3:30,Gonzaga,Brandon Clarke,Defensive Rebound,19,36
+3:25,Gonzaga,Josh Perkins,Missed Three Point Jumper,19,36
+3:25,Texas Southern,Trayvon Reed,Defensive Rebound,19,36
+3:13,Texas Southern,Jeremy Combs,Foul,19,36
+3:13,Texas Southern,Jeremy Combs,Turnover,19,36
+2:51,Gonzaga,Filip Petrusev,Missed Layup,19,36
+2:51,Gonzaga,Filip Petrusev,Offensive Rebound,19,36
+2:47,Gonzaga,Filip Petrusev,Missed Layup,19,36
+2:47,Texas Southern,Trayvon Reed,Block,19,36
+2:47,Texas Southern,Trayvon Reed,Defensive Rebound,19,36
+2:35,Texas Southern,Trayvon Reed,Missed Jumper,19,36
+2:35,Gonzaga,Corey Kispert,Defensive Rebound,19,36
+2:26,Texas Southern,Jalyn Patterson,Foul,19,36
+2:26,Gonzaga,Brandon Clarke,Free Throw,19,37
+2:26,Gonzaga,Brandon Clarke,Missed Free Throw,19,37
+2:26,Texas Southern,Trayvon Reed,Defensive Rebound,19,37
+2:10,Texas Southern,Devocio Butler,Three Point Jumper,22,37
+1:47,Gonzaga,Jeremy Jones,Three Point Jumper,22,40
+1:29,Texas Southern,Cainan McClelland,Missed Jumper,22,40
+1:29,Gonzaga,Corey Kispert,Defensive Rebound,22,40
+1:19,Texas Southern,Jeremy Combs,Foul,22,40
+1:19,Gonzaga,Geno Crandall,Free Throw,22,41
+1:19,Gonzaga,Geno Crandall,Free Throw,22,42
+0:57,Texas Southern,Devocio Butler,Missed Three Point Jumper,22,42
+0:57,Gonzaga,Jeremy Jones,Defensive Rebound,22,42
+0:41,Gonzaga,Brandon Clarke,Jumper,22,44
+0:09,Gonzaga,Brandon Clarke,Foul,22,44
+0:09,Texas Southern,Jalyn Patterson,Missed Free Throw,22,44
+0:09,Texas Southern,None,Team Rebound,22,44
+0:09,Texas Southern,Jalyn Patterson,Free Throw,23,44
+0:09,Texas Southern,Jalyn Patterson,Free Throw,24,44
+0:04,Texas Southern,Trayvon Reed,Foul,24,44
+0:04,Gonzaga,Jeremy Jones,Free Throw,24,45
+0:04,Gonzaga,Jeremy Jones,Free Throw,24,46
+0:04,Gonzaga,None,None,24,46
+0:01,Texas Southern,Tyrik Armstrong,Missed Three Point Jumper,24,46
+0:01,Texas Southern,None,Team Rebound,24,46
+0:00,Gonzaga,None,None,24,46
+20:00,Texas Southern,None,None,24,46
+19:46,Texas Southern,Cainan McClelland,Turnover,24,46
+19:34,Gonzaga,Rui Hachimura,Dunk,24,48
+19:03,Texas Southern,Trayvon Reed,Missed Jumper,24,48
+19:03,Texas Southern,Jeremy Combs,Offensive Rebound,24,48
+19:00,Gonzaga,Zach Norvell Jr.,Foul,24,48
+19:00,Texas Southern,Jeremy Combs,Missed Free Throw,24,48
+19:00,Texas Southern,None,Team Rebound,24,48
+19:00,Texas Southern,Jeremy Combs,Missed Free Throw,24,48
+19:00,Gonzaga,Rui Hachimura,Defensive Rebound,24,48
+18:54,Gonzaga,Rui Hachimura,Missed Three Point Jumper,24,48
+18:54,Texas Southern,Jalyn Patterson,Defensive Rebound,24,48
+18:47,Texas Southern,Devocio Butler,Missed Three Point Jumper,24,48
+18:47,Gonzaga,Brandon Clarke,Defensive Rebound,24,48
+18:30,Gonzaga,Rui Hachimura,Missed Layup,24,48
+18:30,Texas Southern,Trayvon Reed,Block,24,48
+18:30,Texas Southern,Trayvon Reed,Defensive Rebound,24,48
+18:22,Gonzaga,Corey Kispert,Foul,24,48
+18:22,Texas Southern,Jeremy Combs,Free Throw,25,48
+18:22,Texas Southern,Jeremy Combs,Free Throw,26,48
+18:00,Texas Southern,Jalyn Patterson,Foul,26,48
+17:57,Gonzaga,Josh Perkins,Missed Jumper,26,48
+17:57,Texas Southern,Trayvon Reed,Block,26,48
+17:57,Gonzaga,Gonzaga,Offensive Rebound,26,48
+17:54,Gonzaga,Rui Hachimura,Missed Jumper,26,48
+17:54,Texas Southern,Trayvon Reed,Defensive Rebound,26,48
+17:36,Texas Southern,Trayvon Reed,Turnover,26,48
+17:36,Gonzaga,Brandon Clarke,Steal,26,48
+17:31,Gonzaga,Brandon Clarke,Dunk,26,50
+17:09,Texas Southern,Trayvon Reed,Missed Layup,26,50
+17:09,Gonzaga,Brandon Clarke,Defensive Rebound,26,50
+17:00,Gonzaga,Brandon Clarke,Dunk,26,52
+16:45,Texas Southern,None,None,26,52
+16:31,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,26,52
+16:31,Gonzaga,Rui Hachimura,Defensive Rebound,26,52
+16:12,Gonzaga,Geno Crandall,Layup,26,54
+15:59,Gonzaga,Geno Crandall,Foul,26,54
+15:59,Gonzaga,None,None,26,54
+15:45,Texas Southern,Jalyn Patterson,Missed Jumper,26,54
+15:45,Gonzaga,Brandon Clarke,Block,26,54
+15:45,Texas Southern,Trayvon Reed,Offensive Rebound,26,54
+15:38,Texas Southern,Trayvon Reed,Layup,28,54
+15:36,Gonzaga,Geno Crandall,Turnover,28,54
+15:20,Texas Southern,Jalyn Patterson,Three Point Jumper,31,54
+15:08,Gonzaga,Josh Perkins,Layup,31,56
+15:00,Texas Southern,Jalyn Patterson,Missed Layup,31,56
+15:00,Gonzaga,Brandon Clarke,Block,31,56
+15:00,Gonzaga,Geno Crandall,Defensive Rebound,31,56
+14:50,Texas Southern,Jeremy Combs,Foul,31,56
+14:50,Gonzaga,Rui Hachimura,Missed Free Throw,31,56
+14:50,Gonzaga,None,Team Rebound,31,56
+14:50,Gonzaga,Rui Hachimura,Free Throw,31,57
+14:31,Texas Southern,Devocio Butler,Missed Three Point Jumper,31,57
+14:31,Gonzaga,Brandon Clarke,Defensive Rebound,31,57
+14:15,Gonzaga,Josh Perkins,Layup,31,59
+13:57,Texas Southern,Trayvon Reed,Dunk,33,59
+13:36,Gonzaga,Geno Crandall,Layup,33,61
+13:29,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,33,61
+13:29,Gonzaga,Rui Hachimura,Defensive Rebound,33,61
+13:15,Gonzaga,Josh Perkins,Missed Layup,33,61
+13:15,Gonzaga,Brandon Clarke,Offensive Rebound,33,61
+13:08,Gonzaga,Brandon Clarke,Layup,33,63
+13:03,Texas Southern,Derrick Bruce,Jumper,35,63
+12:45,Gonzaga,Rui Hachimura,Jumper,35,65
+12:33,Texas Southern,Derrick Bruce,Layup,37,65
+12:33,Gonzaga,Filip Petrusev,Foul,37,65
+12:33,Texas Southern,Derrick Bruce,Free Throw,38,65
+12:17,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,38,65
+12:17,Texas Southern,Devocio Butler,Defensive Rebound,38,65
+11:56,Texas Southern,Justin Hopkins,Jumper,40,65
+11:46,Gonzaga,Filip Petrusev,Three Point Jumper,40,68
+11:29,Texas Southern,Justin Hopkins,Layup,42,68
+11:17,Gonzaga,Filip Petrusev,Jumper,42,70
+11:01,Texas Southern,Jeremy Combs,Missed Jumper,42,70
+11:01,Gonzaga,Zach Norvell Jr.,Defensive Rebound,42,70
+10:53,Gonzaga,Rui Hachimura,Turnover,42,70
+10:53,Texas Southern,Jeremy Combs,Steal,42,70
+10:49,Texas Southern,Derrick Bruce,Missed Three Point Jumper,42,70
+10:49,Gonzaga,Corey Kispert,Defensive Rebound,42,70
+10:38,Texas Southern,Justin Hopkins,Foul,42,70
+10:38,Gonzaga,None,None,42,70
+10:36,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,42,70
+10:36,Gonzaga,Corey Kispert,Offensive Rebound,42,70
+10:32,Gonzaga,Corey Kispert,Layup,42,72
+10:12,Texas Southern,Trayvon Reed,Missed Jumper,42,72
+10:12,Gonzaga,Zach Norvell Jr.,Defensive Rebound,42,72
+10:05,Gonzaga,Josh Perkins,Three Point Jumper,42,75
+9:51,Texas Southern,None,None,42,75
+9:42,Gonzaga,Jeremy Jones,Foul,42,75
+9:42,Texas Southern,Justin Hopkins,Free Throw,43,75
+9:42,Texas Southern,Justin Hopkins,Free Throw,44,75
+9:32,Gonzaga,Josh Perkins,Jumper,44,77
+9:21,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,44,77
+9:21,Gonzaga,Zach Norvell Jr.,Defensive Rebound,44,77
+9:11,Gonzaga,Josh Perkins,Missed Three Point Jumper,44,77
+9:11,Texas Southern,Justin Hopkins,Defensive Rebound,44,77
+9:03,Texas Southern,Justin Hopkins,Jumper,46,77
+8:46,Gonzaga,Filip Petrusev,Foul,46,77
+8:46,Gonzaga,Filip Petrusev,Turnover,46,77
+8:33,Texas Southern,Jalyn Patterson,Turnover,46,77
+8:33,Gonzaga,Brandon Clarke,Steal,46,77
+8:24,Gonzaga,Brandon Clarke,Dunk,46,79
+8:10,Texas Southern,Derrick Bruce,Three Point Jumper,49,79
+7:57,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,49,79
+7:57,Texas Southern,Trayvon Reed,Defensive Rebound,49,79
+7:43,Texas Southern,Devocio Butler,Layup,51,79
+7:35,Gonzaga,Corey Kispert,Missed Three Point Jumper,51,79
+7:35,Gonzaga,Brandon Clarke,Offensive Rebound,51,79
+7:26,Gonzaga,Rui Hachimura,Layup,51,81
+7:15,Texas Southern,Devocio Butler,Missed Layup,51,81
+7:15,Gonzaga,Josh Perkins,Defensive Rebound,51,81
+7:04,Gonzaga,Rui Hachimura,Foul,51,81
+7:04,Gonzaga,Rui Hachimura,Turnover,51,81
+7:04,Gonzaga,None,None,51,81
+6:51,Texas Southern,Trayvon Reed,Dunk,53,81
+6:33,Gonzaga,Rui Hachimura,Jumper,53,83
+6:13,Texas Southern,Justin Hopkins,Missed Three Point Jumper,53,83
+6:13,Texas Southern,Jalyn Patterson,Offensive Rebound,53,83
+6:02,Texas Southern,Justin Hopkins,Missed Layup,53,83
+6:02,Texas Southern,Trayvon Reed,Offensive Rebound,53,83
+6:02,Gonzaga,Brandon Clarke,Foul,53,83
+6:02,Texas Southern,Trayvon Reed,Missed Free Throw,53,83
+6:02,Texas Southern,None,Team Rebound,53,83
+6:02,Texas Southern,Trayvon Reed,Free Throw,54,83
+5:53,Gonzaga,Rui Hachimura,Jumper,54,85
+5:45,Texas Southern,Devocio Butler,Dunk,56,85
+5:30,Gonzaga,Zach Norvell Jr.,Three Point Jumper,56,88
+5:06,Texas Southern,Jalyn Patterson,Three Point Jumper,59,88
+4:48,Gonzaga,Rui Hachimura,Missed Three Point Jumper,59,88
+4:48,Texas Southern,Devocio Butler,Defensive Rebound,59,88
+4:39,Texas Southern,Devocio Butler,Missed Jumper,59,88
+4:39,Texas Southern,Trayvon Reed,Offensive Rebound,59,88
+4:36,Texas Southern,Justin Hopkins,Turnover,59,88
+4:24,Gonzaga,Geno Crandall,Missed Three Point Jumper,59,88
+4:24,Texas Southern,Texas Southern,Defensive Rebound,59,88
+4:12,Texas Southern,Jalyn Patterson,Missed Jumper,59,88
+4:12,Gonzaga,Jeremy Jones,Defensive Rebound,59,88
+4:00,Texas Southern,Justin Hopkins,Foul,59,88
+4:00,Gonzaga,None,None,59,88
+3:57,Gonzaga,Filip Petrusev,Three Point Jumper,59,91
+3:40,Texas Southern,Derrick Bruce,Missed Three Point Jumper,59,91
+3:40,Texas Southern,Trayvon Reed,Offensive Rebound,59,91
+3:34,Texas Southern,Trayvon Reed,Missed Layup,59,91
+3:34,Gonzaga,Filip Petrusev,Block,59,91
+3:34,Gonzaga,Geno Crandall,Defensive Rebound,59,91
+3:30,Texas Southern,Jalyn Patterson,Foul,59,91
+3:22,Gonzaga,Greg Foster Jr.,Three Point Jumper,59,94
+3:06,Texas Southern,Trayvon Reed,Dunk,61,94
+2:43,Texas Southern,Tyrik Armstrong,Foul,61,94
+2:38,Gonzaga,Geno Crandall,Turnover,61,94
+2:38,Texas Southern,John Jones,Steal,61,94
+2:31,Texas Southern,Cainan McClelland,Missed Three Point Jumper,61,94
+2:31,Gonzaga,Jeremy Jones,Defensive Rebound,61,94
+2:24,Gonzaga,Joel Ayayi,Missed Three Point Jumper,61,94
+2:24,Texas Southern,Cainan McClelland,Defensive Rebound,61,94
+2:15,Texas Southern,Jeremy Combs,Turnover,61,94
+2:15,Gonzaga,Greg Foster Jr.,Steal,61,94
+2:11,Gonzaga,Greg Foster Jr.,Turnover,61,94
+2:11,Texas Southern,Cainan McClelland,Steal,61,94
+2:05,Texas Southern,Jeremy Combs,Layup,63,94
+1:52,Gonzaga,Geno Crandall,Missed Layup,63,94
+1:52,Gonzaga,Joel Ayayi,Offensive Rebound,63,94
+1:49,Gonzaga,Joel Ayayi,Layup,63,96
+1:45,Texas Southern,Tyrik Armstrong,Three Point Jumper,66,96
+1:32,Texas Southern,Jeremy Combs,Foul,66,96
+1:32,Gonzaga,Filip Petrusev,Free Throw,66,97
+1:32,Gonzaga,Filip Petrusev,Free Throw,66,98
+1:22,Texas Southern,John Jones,Missed Three Point Jumper,66,98
+1:22,Gonzaga,Joel Ayayi,Defensive Rebound,66,98
+1:12,Texas Southern,Tyrik Armstrong,Foul,66,98
+1:12,Gonzaga,Jeremy Jones,Free Throw,66,99
+1:12,Gonzaga,Jeremy Jones,Free Throw,66,100
+1:01,Gonzaga,Geno Crandall,Foul,66,100
+1:01,Texas Southern,Tyrik Armstrong,Free Throw,67,100
+1:01,Texas Southern,Tyrik Armstrong,Missed Free Throw,67,100
+1:01,Gonzaga,Jeremy Jones,Defensive Rebound,67,100
+0:49,Gonzaga,Joel Ayayi,Layup,67,102
+0:42,Texas Southern,Tyrik Armstrong,Turnover,67,102
+0:40,Texas Southern,Michael Dobbins,Foul,67,102
+0:40,Gonzaga,Filip Petrusev,Free Throw,67,103
+0:40,Gonzaga,Filip Petrusev,Free Throw,67,104
+0:31,Texas Southern,John Jones,Missed Three Point Jumper,67,104
+0:31,Gonzaga,Jeremy Jones,Defensive Rebound,67,104
+0:00,Gonzaga,None,None,67,104

@@ -1,0 +1,353 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Tennessee,None,None,0,0
+19:49,Tennessee,Jordan Bone,Missed Layup,0,0
+19:49,Tennessee,Jordan Bone,Offensive Rebound,0,0
+19:37,Georgia,Derek Ogbeide,Foul,0,0
+19:37,Tennessee,Grant Williams,Missed Free Throw,0,0
+19:37,Tennessee,None,Team Rebound,0,0
+19:37,Tennessee,Grant Williams,Free Throw,0,1
+19:17,Georgia,Rayshaun Hammonds,Missed Three Point Jumper,0,1
+19:16,Tennessee,Kyle Alexander,Defensive Rebound,0,1
+19:03,Georgia,Derek Ogbeide,Foul,0,1
+19:03,Tennessee,Grant Williams,Missed Free Throw,0,1
+19:03,Tennessee,None,Team Rebound,0,1
+19:03,Tennessee,Grant Williams,Free Throw,0,2
+18:47,Tennessee,Kyle Alexander,Foul,0,2
+18:32,Georgia,Teshaun Hightower,Turnover,0,2
+18:23,Tennessee,Admiral Schofield,Missed Jumper,0,2
+18:23,Tennessee,Grant Williams,Offensive Rebound,0,2
+18:19,Georgia,Rayshaun Hammonds,Foul,0,2
+18:14,Tennessee,Kyle Alexander,Missed Layup,0,2
+18:14,Georgia,William Jackson II,Defensive Rebound,0,2
+18:04,Georgia,Teshaun Hightower,Jumper,2,2
+17:48,Tennessee,Jordan Bone,Three Point Jumper,2,5
+17:21,Georgia,William Jackson II,Missed Three Point Jumper,2,5
+17:21,Tennessee,Tennessee,Defensive Rebound,2,5
+17:21,Georgia,Nicolas Claxton,Foul,2,5
+17:04,Tennessee,Grant Williams,Layup,2,7
+16:43,Georgia,Nicolas Claxton,Layup,4,7
+16:19,Tennessee,Grant Williams,Jumper,4,9
+15:55,Georgia,Rayshaun Hammonds,Missed Jumper,4,9
+15:55,Georgia,Nicolas Claxton,Offensive Rebound,4,9
+15:48,Georgia,Teshaun Hightower,Missed Three Point Jumper,4,9
+15:48,Georgia,Georgia,Offensive Rebound,4,9
+15:46,Georgia,Georgia ,Turnover,4,9
+15:46,Tennessee,None,None,4,9
+15:30,Tennessee,Admiral Schofield,Jumper,4,11
+15:02,Tennessee,Jordan Bone,Foul,4,11
+15:02,Georgia,William Jackson II,Free Throw,5,11
+15:02,Georgia,William Jackson II,Free Throw,6,11
+14:55,Tennessee,John Fulkerson,Missed Layup,6,11
+14:55,Georgia,Nicolas Claxton,Block,6,11
+14:55,Georgia,Nicolas Claxton,Defensive Rebound,6,11
+14:51,Tennessee,John Fulkerson,Foul,6,11
+14:40,Georgia,E'Torrion Wilridge,Missed Layup,6,11
+14:40,Tennessee,John Fulkerson,Block,6,11
+14:40,Tennessee,Grant Williams,Defensive Rebound,6,11
+14:35,Tennessee,Jordan Bowden,Missed Three Point Jumper,6,11
+14:35,Georgia,E'Torrion Wilridge,Defensive Rebound,6,11
+14:26,Georgia,Teshaun Hightower,Missed Layup,6,11
+14:26,Tennessee,Jordan Bowden,Block,6,11
+14:26,Tennessee,Admiral Schofield,Defensive Rebound,6,11
+14:22,Tennessee,Admiral Schofield,Turnover,6,11
+14:22,Georgia,Rayshaun Hammonds,Steal,6,11
+13:58,Georgia,Tye Fagan,Missed Layup,6,11
+13:58,Tennessee,Lamonte Turner,Defensive Rebound,6,11
+13:50,Tennessee,Jordan Bone,Missed Jumper,6,11
+13:50,Georgia,Tye Fagan,Defensive Rebound,6,11
+13:49,Tennessee,John Fulkerson,Foul,6,11
+13:33,Georgia,Nicolas Claxton,Dunk,8,11
+13:15,Tennessee,Jordan Bowden,Turnover,8,11
+13:15,Georgia,Jordan Harris,Steal,8,11
+13:11,Georgia,Jordan Harris,Layup,10,11
+12:52,Tennessee,Admiral Schofield,Layup,10,13
+12:52,Georgia,Tye Fagan,Foul,10,13
+12:52,Tennessee,Admiral Schofield,Free Throw,10,14
+12:29,Georgia,Jordan Harris,Missed Jumper,10,14
+12:29,Tennessee,Kyle Alexander,Defensive Rebound,10,14
+12:15,Tennessee,Lamonte Turner,Missed Three Point Jumper,10,14
+12:15,Georgia,Nicolas Claxton,Defensive Rebound,10,14
+12:08,Tennessee,Lamonte Turner,Foul,10,14
+12:08,Georgia,Tyree Crump,Free Throw,11,14
+12:08,Georgia,Tyree Crump,Free Throw,12,14
+12:00,Tennessee,Admiral Schofield,Three Point Jumper,12,17
+11:32,Georgia,Rayshaun Hammonds,Foul,12,17
+11:32,Georgia,Rayshaun Hammonds,Turnover,12,17
+11:32,Tennessee,None,None,12,17
+11:18,Tennessee,Admiral Schofield,Missed Jumper,12,17
+11:18,Tennessee,Jordan Bowden,Offensive Rebound,12,17
+11:11,Tennessee,Jordan Bowden,Missed Three Point Jumper,12,17
+11:11,Tennessee,Kyle Alexander,Offensive Rebound,12,17
+11:03,Tennessee,Kyle Alexander,Jumper,12,19
+10:39,Georgia,Tyree Crump,Missed Three Point Jumper,12,19
+10:39,Tennessee,Kyle Alexander,Defensive Rebound,12,19
+10:29,Tennessee,Jordan Bowden,Jumper,12,21
+9:58,Georgia,Derek Ogbeide,Missed Jumper,12,21
+9:58,Tennessee,Jordan Bowden,Defensive Rebound,12,21
+9:45,Georgia,Nicolas Claxton,Foul,12,21
+9:45,Tennessee,Grant Williams,Free Throw,12,22
+9:45,Tennessee,Grant Williams,Free Throw,12,23
+9:29,Georgia,Nicolas Claxton,Missed Three Point Jumper,12,23
+9:29,Tennessee,Kyle Alexander,Defensive Rebound,12,23
+9:20,Tennessee,Jordan Bone,Layup,12,25
+9:17,Georgia,None,None,12,25
+8:51,Georgia,Derek Ogbeide,Layup,14,25
+8:38,Tennessee,Admiral Schofield,Missed Jumper,14,25
+8:38,Tennessee,Kyle Alexander,Offensive Rebound,14,25
+8:36,Georgia,Jordan Harris,Foul,14,25
+8:36,Tennessee,Jordan Bowden,Free Throw,14,26
+8:36,Tennessee,Jordan Bowden,Free Throw,14,27
+8:17,Georgia,Tyree Crump,Missed Jumper,14,27
+8:17,Georgia,Georgia,Offensive Rebound,14,27
+8:11,Georgia,Ignas Sargiunas,Turnover,14,27
+7:55,Tennessee,Jordan Bowden,Jumper,14,29
+7:44,Georgia,Rayshaun Hammonds,Turnover,14,29
+7:44,Tennessee,None,None,14,29
+7:28,Tennessee,Jordan Bowden,Three Point Jumper,14,32
+7:08,Tennessee,Lamonte Turner,Foul,14,32
+7:00,Georgia,William Jackson II,Jumper,16,32
+6:44,Georgia,William Jackson II,Foul,16,32
+6:44,Tennessee,Grant Williams,Free Throw,16,33
+6:44,Tennessee,Grant Williams,Free Throw,16,34
+6:24,Tennessee,Admiral Schofield,Foul,16,34
+6:24,Georgia,William Jackson II,Missed Free Throw,16,34
+6:24,Georgia,None,Team Rebound,16,34
+6:24,Georgia,William Jackson II,Free Throw,17,34
+6:10,Georgia,Rayshaun Hammonds,Foul,17,34
+6:10,Tennessee,Grant Williams,Free Throw,17,35
+6:10,Tennessee,Grant Williams,Free Throw,17,36
+5:56,Georgia,William Jackson II,Turnover,17,36
+5:56,Tennessee,Grant Williams,Steal,17,36
+5:48,Tennessee,Jordan Bone,Jumper,17,38
+5:26,Georgia,Nicolas Claxton,Foul,17,38
+5:26,Georgia,Nicolas Claxton,Turnover,17,38
+5:05,Tennessee,Jordan Bowden,Layup,17,40
+4:53,Georgia,Derek Ogbeide,Layup,19,40
+4:30,Tennessee,Kyle Alexander,Missed Layup,19,40
+4:30,Georgia,Nicolas Claxton,Block,19,40
+4:30,Georgia,E'Torrion Wilridge,Defensive Rebound,19,40
+4:24,Georgia,Derek Ogbeide,Layup,21,40
+4:01,Georgia,Nicolas Claxton,Foul,21,40
+4:01,Tennessee,Admiral Schofield,Free Throw,21,41
+4:01,Tennessee,Admiral Schofield,Free Throw,21,42
+3:37,Georgia,Tyree Crump,Missed Three Point Jumper,21,42
+3:37,Tennessee,Kyle Alexander,Defensive Rebound,21,42
+3:23,Tennessee,Jordan Bone,Missed Three Point Jumper,21,42
+3:23,Georgia,Mike Edwards,Defensive Rebound,21,42
+3:17,Georgia,Tyree Crump,Layup,23,42
+2:55,Tennessee,Admiral Schofield,Three Point Jumper,23,45
+2:32,Tennessee,Admiral Schofield,Foul,23,45
+2:32,Tennessee,None,None,23,45
+2:32,Georgia,Teshaun Hightower,Free Throw,24,45
+2:32,Georgia,Teshaun Hightower,Missed Free Throw,24,45
+2:32,Tennessee,Kyle Alexander,Defensive Rebound,24,45
+2:29,Tennessee,Jalen Johnson,Missed Layup,24,45
+2:29,Georgia,Derek Ogbeide,Defensive Rebound,24,45
+2:01,Georgia,Derek Ogbeide,Turnover,24,45
+2:01,Tennessee,Jordan Bone,Steal,24,45
+1:58,Tennessee,Jordan Bowden,Dunk,24,47
+1:44,Georgia,Tyree Crump,Missed Jumper,24,47
+1:44,Tennessee,Grant Williams,Defensive Rebound,24,47
+1:32,Tennessee,Kyle Alexander,Jumper,24,49
+1:09,Georgia,Mike Edwards,Missed Three Point Jumper,24,49
+1:09,Tennessee,Tennessee,Defensive Rebound,24,49
+0:51,Tennessee,Grant Williams,Layup,24,51
+0:51,Georgia,Amanze Ngumezi,Foul,24,51
+0:51,Tennessee,Grant Williams,Free Throw,24,52
+0:24,Georgia,E'Torrion Wilridge,Missed Jumper,24,52
+0:24,Georgia,Georgia,Offensive Rebound,24,52
+0:22,Tennessee,Derrick Walker,Foul,24,52
+0:22,Georgia,Mike Edwards,Missed Free Throw,24,52
+0:22,Georgia,Georgia,Offensive Rebound,24,52
+0:15,Georgia,Amanze Ngumezi,Missed Three Point Jumper,24,52
+0:15,Tennessee,Derrick Walker,Defensive Rebound,24,52
+0:13,Georgia,JoJo Toppin,Foul,24,52
+0:13,Tennessee,Derrick Walker,Free Throw,24,53
+0:13,Tennessee,Derrick Walker,Missed Free Throw,24,53
+0:13,Georgia,Tyree Crump,Defensive Rebound,24,53
+0:01,Georgia,E'Torrion Wilridge,Missed Layup,24,53
+0:01,Tennessee,Kyle Alexander,Block,24,53
+0:01,Georgia,None,Team Rebound,24,53
+0:00,Tennessee,None,None,24,53
+20:00,Georgia,None,None,24,53
+19:53,Georgia,Teshaun Hightower,Missed Three Point Jumper,24,53
+19:53,Tennessee,Kyle Alexander,Defensive Rebound,24,53
+19:31,Tennessee,Grant Williams,Three Point Jumper,24,56
+19:12,Tennessee,Admiral Schofield,Foul,24,56
+19:12,Georgia,Teshaun Hightower,Missed Free Throw,24,56
+19:12,Georgia,None,Team Rebound,24,56
+19:12,Georgia,Teshaun Hightower,Missed Free Throw,24,56
+19:12,Tennessee,Grant Williams,Defensive Rebound,24,56
+19:01,Georgia,Derek Ogbeide,Foul,24,56
+18:59,Tennessee,Jordan Bone,Turnover,24,56
+18:59,Georgia,William Jackson II,Steal,24,56
+18:36,Tennessee,Yves Pons,Foul,24,56
+18:34,Georgia,Teshaun Hightower,Missed Three Point Jumper,24,56
+18:34,Tennessee,Grant Williams,Defensive Rebound,24,56
+18:20,Tennessee,Jordan Bowden,Missed Jumper,24,56
+18:20,Georgia,Christian Harrison,Defensive Rebound,24,56
+17:51,Georgia,Derek Ogbeide,Dunk,26,56
+17:33,Tennessee,Jordan Bowden,Missed Three Point Jumper,26,56
+17:33,Tennessee,Tennessee,Offensive Rebound,26,56
+17:25,Georgia,Rayshaun Hammonds,Foul,26,56
+17:25,Tennessee,Jordan Bone,Free Throw,26,57
+17:25,Tennessee,Jordan Bone,Free Throw,26,58
+16:56,Georgia,William Jackson II,Missed Jumper,26,58
+16:56,Tennessee,Grant Williams,Block,26,58
+16:56,Tennessee,Jordan Bowden,Defensive Rebound,26,58
+16:50,Tennessee,Jordan Bone,Layup,26,60
+16:36,Georgia,E'Torrion Wilridge,Missed Three Point Jumper,26,60
+16:36,Tennessee,Kyle Alexander,Defensive Rebound,26,60
+16:07,Tennessee,Grant Williams,Missed Jumper,26,60
+16:07,Georgia,Derek Ogbeide,Defensive Rebound,26,60
+15:55,Georgia,Tyree Crump,Missed Three Point Jumper,26,60
+15:55,Tennessee,Jordan Bone,Defensive Rebound,26,60
+15:53,Tennessee,None,None,26,60
+15:33,Tennessee,Grant Williams,Turnover,26,60
+15:33,Georgia,Christian Harrison,Steal,26,60
+15:28,Georgia,Derek Ogbeide,Missed Layup,26,60
+15:28,Tennessee,Yves Pons,Block,26,60
+15:28,Tennessee,Tennessee,Defensive Rebound,26,60
+15:09,Tennessee,Jordan Bowden,Layup,26,62
+14:45,Georgia,Christian Harrison,Dunk,28,62
+14:27,Tennessee,Kyle Alexander,Dunk,28,64
+14:27,Georgia,Tyree Crump,Foul,28,64
+14:27,Tennessee,Kyle Alexander,Missed Free Throw,28,64
+14:27,Georgia,William Jackson II,Defensive Rebound,28,64
+14:10,Tennessee,Jordan Bowden,Foul,28,64
+13:58,Georgia,Derek Ogbeide,Missed Jumper,28,64
+13:58,Tennessee,Admiral Schofield,Defensive Rebound,28,64
+13:49,Tennessee,Lamonte Turner,Missed Three Point Jumper,28,64
+13:49,Georgia,Derek Ogbeide,Defensive Rebound,28,64
+13:40,Tennessee,Yves Pons,Foul,28,64
+13:35,Tennessee,John Fulkerson,Foul,28,64
+13:35,Georgia,Derek Ogbeide,Free Throw,29,64
+13:35,Georgia,Derek Ogbeide,Free Throw,30,64
+13:30,Tennessee,Lamonte Turner,Layup,30,66
+13:12,Tennessee,John Fulkerson,Foul,30,66
+13:12,Georgia,Derek Ogbeide,Free Throw,31,66
+13:12,Georgia,Derek Ogbeide,Free Throw,32,66
+13:07,Tennessee,Jalen Johnson,Layup,32,68
+12:39,Georgia,Jordan Harris,Missed Three Point Jumper,32,68
+12:39,Tennessee,Kyle Alexander,Defensive Rebound,32,68
+12:27,Tennessee,Jalen Johnson,Turnover,32,68
+12:06,Georgia,William Jackson II,Missed Three Point Jumper,32,68
+12:06,Tennessee,Kyle Alexander,Defensive Rebound,32,68
+11:50,Tennessee,Admiral Schofield,Three Point Jumper,32,71
+11:36,Georgia,Nicolas Claxton,Turnover,32,71
+11:36,Tennessee,Lamonte Turner,Steal,32,71
+11:29,Georgia,Christian Harrison,Foul,32,71
+11:29,Tennessee,None,None,32,71
+11:29,Tennessee,Lamonte Turner,Free Throw,32,72
+11:29,Tennessee,Lamonte Turner,Free Throw,32,73
+11:14,Georgia,Jordan Harris,Turnover,32,73
+10:53,Tennessee,Admiral Schofield,Jumper,32,75
+10:35,Georgia,Amanze Ngumezi,Three Point Jumper,35,75
+10:24,Tennessee,Jalen Johnson,Missed Three Point Jumper,35,75
+10:24,Tennessee,Admiral Schofield,Offensive Rebound,35,75
+10:09,Tennessee,Jordan Bone,Missed Jumper,35,75
+10:09,Georgia,Georgia,Defensive Rebound,35,75
+10:08,Tennessee,Jalen Johnson,Foul,35,75
+10:07,Georgia,Christian Harrison,Missed Free Throw,35,75
+10:07,Tennessee,Tennessee,Defensive Rebound,35,75
+9:52,Tennessee,Admiral Schofield,Turnover,35,75
+9:37,Georgia,Amanze Ngumezi,Missed Three Point Jumper,35,75
+9:37,Tennessee,Grant Williams,Defensive Rebound,35,75
+9:27,Tennessee,Kyle Alexander,Dunk,35,77
+9:07,Tennessee,Grant Williams,Foul,35,77
+9:07,Georgia,Amanze Ngumezi,Missed Free Throw,35,77
+9:07,Georgia,None,Team Rebound,35,77
+9:07,Georgia,Amanze Ngumezi,Missed Free Throw,35,77
+9:07,Tennessee,Admiral Schofield,Defensive Rebound,35,77
+9:01,Tennessee,Admiral Schofield,Missed Three Point Jumper,35,77
+9:01,Georgia,Tyree Crump,Defensive Rebound,35,77
+8:42,Tennessee,Derrick Walker,Foul,35,77
+8:42,Georgia,Nicolas Claxton,Missed Free Throw,35,77
+8:42,Tennessee,Grant Williams,Defensive Rebound,35,77
+8:34,Tennessee,Yves Pons,Missed Dunk,35,77
+8:34,Tennessee,Admiral Schofield,Offensive Rebound,35,77
+8:18,Tennessee,Jordan Bowden,Jumper,35,79
+8:18,Georgia,Tyree Crump,Foul,35,79
+8:18,Tennessee,Jordan Bowden,Free Throw,35,80
+7:59,Georgia,Tyree Crump,Turnover,35,80
+7:59,Tennessee,None,None,35,80
+7:48,Tennessee,Admiral Schofield,Missed Layup,35,80
+7:48,Tennessee,Derrick Walker,Offensive Rebound,35,80
+7:42,Tennessee,Derrick Walker,Layup,35,82
+7:28,Georgia,Rayshaun Hammonds,Missed Three Point Jumper,35,82
+7:28,Tennessee,Grant Williams,Defensive Rebound,35,82
+7:20,Tennessee,Jordan Bowden,Layup,35,84
+7:10,Georgia,Rayshaun Hammonds,Missed Layup,35,84
+7:09,Tennessee,Admiral Schofield,Defensive Rebound,35,84
+6:33,Tennessee,Jordan Bowden,Missed Jumper,35,84
+6:33,Georgia,Derek Ogbeide,Defensive Rebound,35,84
+6:24,Georgia,Teshaun Hightower,Turnover,35,84
+6:24,Tennessee,Grant Williams,Steal,35,84
+6:17,Tennessee,Derrick Walker,Missed Layup,35,84
+6:17,Georgia,Rayshaun Hammonds,Defensive Rebound,35,84
+6:08,Georgia,Teshaun Hightower,Missed Three Point Jumper,35,84
+6:08,Georgia,Tyree Crump,Offensive Rebound,35,84
+6:06,Tennessee,Grant Williams,Foul,35,84
+6:06,Georgia,Tyree Crump,Free Throw,36,84
+6:06,Georgia,Tyree Crump,Free Throw,37,84
+5:58,Tennessee,Lamonte Turner,Missed Three Point Jumper,37,84
+5:51,Georgia,Nicolas Claxton,Defensive Rebound,37,84
+5:46,Georgia,Tyree Crump,Missed Three Point Jumper,37,84
+5:46,Georgia,Derek Ogbeide,Offensive Rebound,37,84
+5:42,Georgia,Derek Ogbeide,Layup,39,84
+5:42,Tennessee,Derrick Walker,Foul,39,84
+5:42,Georgia,Derek Ogbeide,Missed Free Throw,39,84
+5:42,Georgia,Nicolas Claxton,Offensive Rebound,39,84
+5:41,Georgia,Nicolas Claxton,Layup,41,84
+5:11,Tennessee,Jordan Bone,Missed Three Point Jumper,41,84
+5:11,Georgia,Georgia,Defensive Rebound,41,84
+5:04,Tennessee,Lamonte Turner,Foul,41,84
+5:04,Georgia,Ignas Sargiunas,Free Throw,42,84
+5:04,Georgia,Ignas Sargiunas,Free Throw,43,84
+4:35,Tennessee,Jordan Bone,Missed Three Point Jumper,43,84
+4:35,Tennessee,Kyle Alexander,Offensive Rebound,43,84
+4:30,Tennessee,Kyle Alexander,Layup,43,86
+4:21,Georgia,Derek Ogbeide,Foul,43,86
+4:21,Georgia,Derek Ogbeide,Turnover,43,86
+3:56,Tennessee,Yves Pons,Turnover,43,86
+3:56,Georgia,Tyree Crump,Steal,43,86
+3:50,Georgia,Tyree Crump,Missed Layup,43,86
+3:50,Tennessee,Yves Pons,Block,43,86
+3:50,Tennessee,Kyle Alexander,Defensive Rebound,43,86
+3:37,Tennessee,None,None,43,86
+3:36,Tennessee,Kyle Alexander,Layup,43,88
+3:10,Georgia,Ignas Sargiunas,Turnover,43,88
+2:56,Tennessee,Lamonte Turner,Layup,43,90
+2:48,Georgia,Nicolas Claxton,Missed Three Point Jumper,43,90
+2:48,Georgia,Derek Ogbeide,Offensive Rebound,43,90
+2:43,Georgia,Derek Ogbeide,Dunk,45,90
+2:36,Tennessee,Derrick Walker,Dunk,45,92
+2:07,Tennessee,Jalen Johnson,Foul,45,92
+2:07,Georgia,Derek Ogbeide,Missed Free Throw,45,92
+2:07,Georgia,None,Team Rebound,45,92
+2:07,Georgia,Derek Ogbeide,Free Throw,46,92
+1:44,Tennessee,Lucas Campbell,Missed Jumper,46,92
+1:44,Georgia,Ignas Sargiunas,Defensive Rebound,46,92
+1:37,Georgia,Ignas Sargiunas,Layup,48,92
+1:37,Tennessee,Lamonte Turner,Foul,48,92
+1:37,Georgia,Ignas Sargiunas,Missed Free Throw,48,92
+1:37,Tennessee,Brock Jancek,Defensive Rebound,48,92
+1:28,Tennessee,Jalen Johnson,Missed Layup,48,92
+1:28,Tennessee,Jalen Johnson,Offensive Rebound,48,92
+1:19,Tennessee,Jacob Fleschman,Turnover,48,92
+1:19,Georgia,JoJo Toppin,Steal,48,92
+1:16,Georgia,JoJo Toppin,Missed Jumper,48,92
+1:16,Tennessee,Jalen Johnson,Defensive Rebound,48,92
+0:51,Tennessee,Brad Woodson,Missed Three Point Jumper,48,92
+0:51,Georgia,Ignas Sargiunas,Defensive Rebound,48,92
+0:39,Georgia,Mike Edwards,Turnover,48,92
+0:39,Tennessee,Lucas Campbell,Steal,48,92
+0:34,Tennessee,Lucas Campbell,Layup,48,94
+0:25,Georgia,Tye Fagan,Layup,50,94
+0:19,Georgia,Ignas Sargiunas,Foul,50,94
+0:19,Tennessee,Brad Woodson,Free Throw,50,95
+0:19,Tennessee,Brad Woodson,Free Throw,50,96
+0:11,Georgia,JoJo Toppin,Missed Layup,50,96
+0:11,Tennessee,Brock Jancek,Block,50,96
+0:11,Tennessee,Lucas Campbell,Defensive Rebound,50,96
+0:00,Tennessee,None,None,50,96

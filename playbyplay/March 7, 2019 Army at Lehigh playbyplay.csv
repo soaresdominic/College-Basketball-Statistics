@@ -1,0 +1,371 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:48,Lehigh,Pat Andree,Three Point Jumper,0,3
+19:31,Army,Alex King,Missed Three Point Jumper,0,3
+19:31,Lehigh,Kyle Leufroy,Defensive Rebound,0,3
+19:24,Lehigh,Pat Andree,Missed Three Point Jumper,0,3
+19:24,Army,Tommy Funk,Defensive Rebound,0,3
+18:59,Army,Tommy Funk,Missed Three Point Jumper,0,3
+18:59,Lehigh,Lance Tejada,Defensive Rebound,0,3
+18:45,Lehigh,James Karnik,Layup,0,5
+18:12,Lehigh,Lance Tejada,Foul,0,5
+18:12,Army,Jordan Fox,Free Throw,1,5
+18:12,Army,Jordan Fox,Missed Free Throw,1,5
+18:12,Army,None,Team Rebound,1,5
+18:12,Army,Jordan Fox,Free Throw,2,5
+17:59,Lehigh,Lance Tejada,Missed Three Point Jumper,2,5
+17:59,Army,Tommy Funk,Defensive Rebound,2,5
+17:50,Army,Alex King,Turnover,2,5
+17:37,Lehigh,Pat Andree,Missed Three Point Jumper,2,5
+17:37,Army,Tommy Funk,Defensive Rebound,2,5
+17:30,Army,Alex King,Layup,4,5
+17:12,Lehigh,James Karnik,Layup,4,7
+16:47,Army,Matt Wilson,Layup,6,7
+16:33,Lehigh,James Karnik,Turnover,6,7
+16:32,Army,Matt Wilson,Steal,6,7
+16:21,Army,Matt Wilson,Turnover,6,7
+16:09,Lehigh,Lance Tejada,Missed Layup,6,7
+16:09,Army,Lonnie Grayson,Defensive Rebound,6,7
+16:02,Army,Lonnie Grayson,Three Point Jumper,9,7
+15:37,Lehigh,Lance Tejada,Jumper,9,9
+15:21,Army,Matt Wilson,Jumper,11,9
+15:01,Lehigh,James Karnik,Missed Layup,11,9
+15:01,Army,John Emezie,Block,11,9
+15:01,Lehigh,Lehigh,Offensive Rebound,11,9
+15:00,Lehigh,None,None,11,9
+14:48,Lehigh,Kyle Leufroy,Turnover,11,9
+14:48,Lehigh,Kyle Leufroy,Foul,11,9
+14:22,Army,Cayne Edwards,Layup,13,9
+14:22,Lehigh,Jeameril Wilson,Foul,13,9
+14:22,Army,Cayne Edwards,Free Throw,14,9
+14:00,Lehigh,Kyle Leufroy,Missed Jumper,14,9
+14:00,Army,Cayne Edwards,Defensive Rebound,14,9
+13:49,Army,Lonnie Grayson,Missed Three Point Jumper,14,9
+13:49,Lehigh,James Karnik,Defensive Rebound,14,9
+13:39,Lehigh,James Karnik,Dunk,14,11
+13:14,Army,Tommy Funk,Jumper,16,11
+12:59,Lehigh,Lance Tejada,Missed Three Point Jumper,16,11
+12:59,Lehigh,James Karnik,Offensive Rebound,16,11
+12:55,Lehigh,James Karnik,Layup,16,13
+12:34,Army,Cayne Edwards,Missed Layup,16,13
+12:34,Lehigh,Lance Tejada,Defensive Rebound,16,13
+12:29,Army,John Emezie,Foul,16,13
+12:29,Lehigh,Lance Tejada,Free Throw,16,14
+12:29,Lehigh,Lance Tejada,Free Throw,16,15
+12:17,Army,Jordan Fox,Missed Layup,16,15
+12:17,Army,Matt Wilson,Offensive Rebound,16,15
+12:15,Army,Matt Wilson,Jumper,18,15
+12:02,Lehigh,Jeameril Wilson,Missed Layup,18,15
+12:02,Lehigh,Lehigh,Offensive Rebound,18,15
+12:02,Army,Matt Wilson,Foul,18,15
+11:51,Lehigh,Jeameril Wilson,Layup,18,17
+11:38,Army,Jordan Fox,Layup,20,17
+11:24,Lehigh,Pat Andree,Three Point Jumper,20,20
+11:12,Lehigh,Pat Andree,Foul,20,20
+11:12,Lehigh,None,None,20,20
+11:06,Army,Tommy Funk,Missed Jumper,20,20
+11:06,Lehigh,Pat Andree,Defensive Rebound,20,20
+10:49,Lehigh,Pat Andree,Missed Three Point Jumper,20,20
+10:49,Army,Jordan Fox,Defensive Rebound,20,20
+10:40,Army,Tommy Funk,Missed Layup,20,20
+10:40,Lehigh,Nic Lynch,Defensive Rebound,20,20
+10:28,Lehigh,Nic Lynch,Turnover,20,20
+10:12,Army,Jordan Fox,Missed Layup,20,20
+10:12,Lehigh,Lehigh,Defensive Rebound,20,20
+10:12,Army,Matt Wilson,Foul,20,20
+10:00,Lehigh,Kyle Leufroy,Turnover,20,20
+9:59,Army,Tommy Funk,Steal,20,20
+9:56,Army,Tommy Funk,Layup,22,20
+9:56,Lehigh,Jordan Cohen,Foul,22,20
+9:56,Army,Tommy Funk,Free Throw,23,20
+9:48,Lehigh,Kyle Leufroy,Missed Three Point Jumper,23,20
+9:48,Army,Jordan Fox,Defensive Rebound,23,20
+9:41,Army,John Emezie,Missed Three Point Jumper,23,20
+9:41,Lehigh,Pat Andree,Defensive Rebound,23,20
+9:24,Lehigh,James Karnik,Turnover,23,20
+9:23,Army,John Emezie,Steal,23,20
+9:19,Army,Jordan Fox,Layup,25,20
+9:18,Lehigh,None,None,25,20
+9:07,Army,Lonnie Grayson,Foul,25,20
+8:55,Lehigh,Lance Tejada,Missed Layup,25,20
+8:55,Army,Tommy Funk,Defensive Rebound,25,20
+8:47,Army,Lonnie Grayson,Missed Three Point Jumper,25,20
+8:47,Lehigh,Pat Andree,Defensive Rebound,25,20
+8:28,Lehigh,Jordan Cohen,Missed Three Point Jumper,25,20
+8:28,Army,Lonnie Grayson,Defensive Rebound,25,20
+8:22,Army,Cayne Edwards,Turnover,25,20
+8:06,Army,Cayne Edwards,Foul,25,20
+8:02,Army,Jordan Fox,Foul,25,20
+8:02,Lehigh,Lance Tejada,Free Throw,25,21
+8:02,Lehigh,Lance Tejada,Free Throw,25,22
+7:36,Army,John Emezie,Layup,27,22
+7:18,Lehigh,Jeameril Wilson,Turnover,27,22
+7:18,Lehigh,None,None,27,22
+7:07,Army,Tommy Funk,Missed Layup,27,22
+7:07,Lehigh,Jeameril Wilson,Block,27,22
+7:06,Army,Cayne Edwards,Offensive Rebound,27,22
+7:04,Army,Cayne Edwards,Missed Layup,27,22
+7:04,Lehigh,Ed Porter,Defensive Rebound,27,22
+6:58,Army,Jacob Kessler,Foul,27,22
+6:58,Lehigh,Jordan Cohen,Free Throw,27,23
+6:58,Lehigh,Jordan Cohen,Free Throw,27,24
+6:38,Army,Matt Wilson,Layup,29,24
+6:20,Army,Aaron Duhart,Foul,29,24
+6:20,Lehigh,Jordan Cohen,Free Throw,29,25
+6:20,Lehigh,Jordan Cohen,Free Throw,29,26
+6:03,Army,Aaron Duhart,Turnover,29,26
+5:47,Army,Lonnie Grayson,Foul,29,26
+5:47,Lehigh,James Karnik,Free Throw,29,27
+5:47,Lehigh,James Karnik,Missed Free Throw,29,27
+5:47,Army,Matt Wilson,Defensive Rebound,29,27
+5:28,Army,Alex King,Turnover,29,27
+5:27,Lehigh,James Karnik,Steal,29,27
+5:23,Lehigh,Kyle Leufroy,Missed Three Point Jumper,29,27
+5:23,Army,Lonnie Grayson,Defensive Rebound,29,27
+5:10,Army,Matt Wilson,Missed Jumper,29,27
+5:10,Lehigh,Pat Andree,Defensive Rebound,29,27
+4:58,Lehigh,Lance Tejada,Missed Three Point Jumper,29,27
+4:58,Army,Tommy Funk,Defensive Rebound,29,27
+4:51,Army,Tommy Funk,Turnover,29,27
+4:50,Lehigh,Kyle Leufroy,Steal,29,27
+4:39,Lehigh,Kyle Leufroy,Turnover,29,27
+4:22,Army,Matt Wilson,Layup,31,27
+4:00,Lehigh,Jordan Cohen,Missed Layup,31,27
+4:00,Lehigh,Joe Foley,Offensive Rebound,31,27
+3:56,Lehigh,Pat Andree,Missed Three Point Jumper,31,27
+3:56,Army,Lonnie Grayson,Defensive Rebound,31,27
+3:36,Army,Jordan Fox,Three Point Jumper,34,27
+3:14,Lehigh,James Karnik,Turnover,34,27
+3:14,Lehigh,James Karnik,Foul,34,27
+3:14,Lehigh,None,None,34,27
+3:02,Army,Tommy Funk,Layup,36,27
+2:46,Lehigh,Joe Foley,Turnover,36,27
+2:46,Lehigh,Joe Foley,Foul,36,27
+2:37,Army,Tommy Funk,Missed Three Point Jumper,36,27
+2:37,Lehigh,Joe Foley,Defensive Rebound,36,27
+2:27,Lehigh,James Karnik,Missed Layup,36,27
+2:27,Army,Cayne Edwards,Block,36,27
+2:26,Lehigh,Jordan Cohen,Offensive Rebound,36,27
+2:22,Lehigh,Joe Foley,Missed Layup,36,27
+2:22,Army,John Emezie,Defensive Rebound,36,27
+2:04,Army,Jordan Fox,Missed Three Point Jumper,36,27
+2:04,Lehigh,Lehigh,Defensive Rebound,36,27
+1:47,Army,Cayne Edwards,Foul,36,27
+1:47,Lehigh,Kyle Leufroy,Free Throw,36,28
+1:47,Lehigh,Kyle Leufroy,Free Throw,36,29
+1:38,Army,Tommy Funk,Turnover,36,29
+1:38,Army,Tommy Funk,Foul,36,29
+1:26,Lehigh,Jordan Cohen,Missed Three Point Jumper,36,29
+1:26,Army,John Emezie,Defensive Rebound,36,29
+1:16,Army,John Emezie,Three Point Jumper,39,29
+0:55,Lehigh,Lance Tejada,Missed Jumper,39,29
+0:55,Army,Lonnie Grayson,Defensive Rebound,39,29
+0:33,Army,John Emezie,Jumper,41,29
+0:04,Lehigh,Lance Tejada,Missed Three Point Jumper,41,29
+0:04,Army,Lonnie Grayson,Defensive Rebound,41,29
+0:00,Army,Jordan Fox,Missed Three Point Jumper,41,29
+0:00,Lehigh,None,Team Rebound,41,29
+0:00,Lehigh,None,None,41,29
+19:46,Army,Tommy Funk,Three Point Jumper,44,29
+19:22,Lehigh,Jordan Cohen,Missed Three Point Jumper,44,29
+19:22,Army,Jordan Fox,Defensive Rebound,44,29
+19:17,Army,Alex King,Missed Three Point Jumper,44,29
+19:17,Lehigh,Kyle Leufroy,Defensive Rebound,44,29
+19:08,Lehigh,Kyle Leufroy,Missed Layup,44,29
+19:08,Army,Jordan Fox,Defensive Rebound,44,29
+19:03,Army,Jacob Kessler,Missed Layup,44,29
+19:03,Lehigh,Pat Andree,Block,44,29
+19:02,Lehigh,Lance Tejada,Defensive Rebound,44,29
+18:57,Lehigh,Lance Tejada,Layup,44,31
+18:40,Army,Alex King,Turnover,44,31
+18:39,Lehigh,Pat Andree,Steal,44,31
+18:34,Army,Jacob Kessler,Foul,44,31
+18:34,Lehigh,Jordan Cohen,Free Throw,44,32
+18:34,Lehigh,Jordan Cohen,Free Throw,44,33
+18:10,Army,Jordan Fox,Missed Three Point Jumper,44,33
+18:10,Lehigh,Kyle Leufroy,Block,44,33
+18:08,Lehigh,Lance Tejada,Defensive Rebound,44,33
+18:08,Army,John Emezie,Foul,44,33
+17:56,Lehigh,Jordan Cohen,Jumper,44,35
+17:39,Army,John Emezie,Missed Layup,44,35
+17:39,Lehigh,Jordan Cohen,Block,44,35
+17:38,Lehigh,Jordan Cohen,Defensive Rebound,44,35
+17:31,Lehigh,James Karnik,Missed Layup,44,35
+17:31,Lehigh,Jordan Cohen,Offensive Rebound,44,35
+17:26,Lehigh,James Karnik,Turnover,44,35
+17:26,Army,John Emezie,Steal,44,35
+17:11,Army,Lonnie Grayson,Missed Three Point Jumper,44,35
+17:11,Lehigh,Kyle Leufroy,Defensive Rebound,44,35
+16:54,Lehigh,Kyle Leufroy,Missed Jumper,44,35
+16:54,Lehigh,Jordan Cohen,Offensive Rebound,44,35
+16:47,Lehigh,Kyle Leufroy,Turnover,44,35
+16:46,Army,Lonnie Grayson,Steal,44,35
+16:41,Army,Jordan Fox,Missed Three Point Jumper,44,35
+16:41,Lehigh,Kyle Leufroy,Defensive Rebound,44,35
+16:13,Lehigh,Pat Andree,Missed Three Point Jumper,44,35
+16:13,Lehigh,James Karnik,Offensive Rebound,44,35
+15:52,Lehigh,Jordan Cohen,Layup,44,37
+15:34,Lehigh,James Karnik,Foul,44,37
+15:34,Lehigh,None,None,44,37
+15:34,Army,Tommy Funk,Missed Free Throw,44,37
+15:34,Army,None,Team Rebound,44,37
+15:34,Army,Tommy Funk,Missed Free Throw,44,37
+15:34,Army,None,Team Rebound,44,37
+15:34,Army,Tommy Funk,Free Throw,45,37
+15:24,Lehigh,Jordan Cohen,Layup,45,39
+15:01,Army,Aaron Duhart,Missed Jumper,45,39
+15:01,Lehigh,Jordan Cohen,Defensive Rebound,45,39
+14:55,Army,Cayne Edwards,Foul,45,39
+14:55,Lehigh,Jeameril Wilson,Free Throw,45,40
+14:55,Lehigh,Jeameril Wilson,Free Throw,45,41
+14:35,Army,Lonnie Grayson,Turnover,45,41
+14:35,Army,Lonnie Grayson,Foul,45,41
+14:24,Lehigh,Jordan Cohen,Turnover,45,41
+14:24,Lehigh,Jordan Cohen,Foul,45,41
+14:06,Army,Aaron Duhart,Missed Three Point Jumper,45,41
+14:06,Lehigh,Jeameril Wilson,Defensive Rebound,45,41
+13:47,Army,Aaron Duhart,Foul,45,41
+13:47,Lehigh,Jordan Cohen,Free Throw,45,42
+13:47,Lehigh,Jordan Cohen,Free Throw,45,43
+13:26,Army,Tommy Funk,Missed Layup,45,43
+13:26,Army,Matt Wilson,Offensive Rebound,45,43
+13:26,Army,Matt Wilson,Layup,47,43
+12:57,Lehigh,Jordan Cohen,Missed Three Point Jumper,47,43
+12:57,Army,Jordan Fox,Defensive Rebound,47,43
+12:47,Army,Jordan Fox,Turnover,47,43
+12:30,Lehigh,Jeameril Wilson,Three Point Jumper,47,46
+12:25,Army,None,None,47,46
+12:25,Lehigh,None,None,47,46
+12:10,Lehigh,Lance Tejada,Foul,47,46
+12:07,Lehigh,Jeameril Wilson,Foul,47,46
+11:53,Army,Matt Wilson,Turnover,47,46
+11:53,Lehigh,Kyle Leufroy,Steal,47,46
+11:50,Army,Tommy Funk,Foul,47,46
+11:50,Lehigh,None,None,47,46
+11:50,Lehigh,Kyle Leufroy,Free Throw,47,47
+11:50,Lehigh,Kyle Leufroy,Free Throw,47,48
+11:41,Army,Jordan Fox,Turnover,47,48
+11:41,Army,Jordan Fox,Foul,47,48
+11:31,Army,Matt Wilson,Foul,47,48
+11:30,Lehigh,Jeameril Wilson,Free Throw,47,49
+11:30,Lehigh,Jeameril Wilson,Free Throw,47,50
+11:12,Army,Tommy Funk,Missed Three Point Jumper,47,50
+11:12,Lehigh,Kyle Leufroy,Defensive Rebound,47,50
+10:57,Lehigh,Jeameril Wilson,Missed Three Point Jumper,47,50
+10:57,Army,Lonnie Grayson,Defensive Rebound,47,50
+10:42,Lehigh,Jeameril Wilson,Foul,47,50
+10:42,Army,John Emezie,Missed Free Throw,47,50
+10:42,Army,None,Team Rebound,47,50
+10:42,Army,John Emezie,Missed Free Throw,47,50
+10:42,Lehigh,James Karnik,Defensive Rebound,47,50
+10:22,Lehigh,Lance Tejada,Layup,47,52
+10:11,Army,Lonnie Grayson,Three Point Jumper,50,52
+9:45,Lehigh,James Karnik,Missed Layup,50,52
+9:45,Lehigh,James Karnik,Offensive Rebound,50,52
+9:43,Army,Jordan Fox,Foul,50,52
+9:43,Lehigh,James Karnik,Free Throw,50,53
+9:43,Lehigh,James Karnik,Free Throw,50,54
+9:29,Army,Tommy Funk,Missed Three Point Jumper,50,54
+9:29,Lehigh,James Karnik,Defensive Rebound,50,54
+9:05,Lehigh,James Karnik,Dunk,50,56
+8:53,Army,Matt Wilson,Layup,52,56
+8:53,Lehigh,James Karnik,Foul,52,56
+8:53,Army,Matt Wilson,Free Throw,53,56
+8:37,Lehigh,Lance Tejada,Turnover,53,56
+8:11,Army,Lonnie Grayson,Missed Three Point Jumper,53,56
+8:11,Lehigh,Jeameril Wilson,Block,53,56
+8:11,Army,Army,Offensive Rebound,53,56
+8:08,Army,Tommy Funk,Missed Three Point Jumper,53,56
+8:08,Lehigh,Jeameril Wilson,Defensive Rebound,53,56
+7:58,Lehigh,Nic Lynch,Turnover,53,56
+7:58,Lehigh,Nic Lynch,Foul,53,56
+7:58,Lehigh,None,None,53,56
+7:45,Army,Tommy Funk,Turnover,53,56
+7:44,Lehigh,Jordan Cohen,Steal,53,56
+7:41,Lehigh,Jordan Cohen,Turnover,53,56
+7:39,Army,Tommy Funk,Steal,53,56
+7:36,Lehigh,Pat Andree,Foul,53,56
+7:36,Army,John Emezie,Missed Free Throw,53,56
+7:36,Army,None,Team Rebound,53,56
+7:36,Army,John Emezie,Missed Free Throw,53,56
+7:36,Lehigh,Pat Andree,Defensive Rebound,53,56
+7:07,Lehigh,Lance Tejada,Missed Three Point Jumper,53,56
+7:07,Army,John Emezie,Defensive Rebound,53,56
+7:00,Army,John Emezie,Missed Layup,53,56
+7:00,Lehigh,James Karnik,Defensive Rebound,53,56
+6:44,Lehigh,Jeameril Wilson,Missed Layup,53,56
+6:44,Army,John Emezie,Block,53,56
+6:44,Lehigh,Lehigh,Offensive Rebound,53,56
+6:30,Army,Lonnie Grayson,Foul,53,56
+6:30,Lehigh,Lance Tejada,Free Throw,53,57
+6:30,Lehigh,Lance Tejada,Free Throw,53,58
+6:30,Lehigh,Lance Tejada,Missed Free Throw,53,58
+6:30,Army,John Emezie,Defensive Rebound,53,58
+6:13,Army,Lonnie Grayson,Missed Three Point Jumper,53,58
+6:13,Lehigh,Jeameril Wilson,Defensive Rebound,53,58
+6:07,Lehigh,Lance Tejada,Layup,53,60
+6:06,Army,None,None,53,60
+5:54,Army,Tommy Funk,Layup,55,60
+5:22,Lehigh,Jordan Cohen,Missed Three Point Jumper,55,60
+5:22,Army,Jordan Fox,Defensive Rebound,55,60
+5:18,Army,Tommy Funk,Layup,57,60
+5:07,Lehigh,None,None,57,60
+4:52,Lehigh,Lance Tejada,Missed Three Point Jumper,57,60
+4:52,Army,Tucker Blackwell,Defensive Rebound,57,60
+4:44,Lehigh,Jordan Cohen,Foul,57,60
+4:43,Army,Tommy Funk,Free Throw,58,60
+4:43,Army,Tommy Funk,Free Throw,59,60
+4:29,Lehigh,Lance Tejada,Jumper,59,62
+4:19,Army,Tommy Funk,Layup,61,62
+4:19,Lehigh,James Karnik,Foul,61,62
+4:19,Army,Tommy Funk,Free Throw,62,62
+4:05,Lehigh,Jordan Cohen,Jumper,62,64
+3:52,Army,Tommy Funk,Missed Layup,62,64
+3:51,Army,Army,Offensive Rebound,62,64
+3:51,Lehigh,None,None,62,64
+3:42,Lehigh,Lance Tejada,Foul,62,64
+3:42,Army,Matt Wilson,Missed Free Throw,62,64
+3:42,Army,None,Team Rebound,62,64
+3:42,Army,Matt Wilson,Free Throw,63,64
+3:29,Lehigh,Kyle Leufroy,Turnover,63,64
+3:10,Army,Tommy Funk,Missed Three Point Jumper,63,64
+3:10,Army,Army,Offensive Rebound,63,64
+2:48,Army,Tucker Blackwell,Missed Three Point Jumper,63,64
+2:48,Lehigh,Jordan Cohen,Defensive Rebound,63,64
+2:24,Lehigh,Jeameril Wilson,Missed Layup,63,64
+2:24,Lehigh,James Karnik,Offensive Rebound,63,64
+2:18,Lehigh,James Karnik,Missed Layup,63,64
+2:18,Lehigh,James Karnik,Offensive Rebound,63,64
+2:16,Lehigh,James Karnik,Layup,63,66
+2:05,Army,John Emezie,Missed Three Point Jumper,63,66
+2:05,Lehigh,Lance Tejada,Defensive Rebound,63,66
+1:42,Lehigh,Kyle Leufroy,Three Point Jumper,63,69
+1:32,Lehigh,Jeameril Wilson,Foul,63,69
+1:32,Army,Matt Wilson,Free Throw,64,69
+1:32,Army,Matt Wilson,Missed Free Throw,64,69
+1:32,Lehigh,Kyle Leufroy,Defensive Rebound,64,69
+1:05,Lehigh,Jordan Cohen,Missed Jumper,64,69
+1:05,Army,Army,Defensive Rebound,64,69
+1:05,Lehigh,James Karnik,Foul,64,69
+1:05,Army,Lonnie Grayson,Missed Free Throw,64,69
+1:05,Army,None,Team Rebound,64,69
+1:05,Army,Lonnie Grayson,Free Throw,65,69
+1:03,Army,Alex King,Foul,65,69
+1:03,Lehigh,Jeameril Wilson,Missed Free Throw,65,69
+1:03,Lehigh,None,Team Rebound,65,69
+1:03,Lehigh,Jeameril Wilson,Free Throw,65,70
+0:51,Army,John Emezie,Layup,67,70
+0:51,Lehigh,Pat Andree,Foul,67,70
+0:51,Army,John Emezie,Free Throw,68,70
+0:21,Lehigh,Jordan Cohen,Layup,68,72
+0:16,Lehigh,Kyle Leufroy,Foul,68,72
+0:16,Army,Tommy Funk,Free Throw,69,72
+0:16,Army,Tommy Funk,Free Throw,70,72
+0:14,Lehigh,None,None,70,72
+0:12,Army,Aaron Duhart,Foul,70,72
+0:12,Lehigh,Jeameril Wilson,Missed Free Throw,70,72
+0:12,Lehigh,None,Team Rebound,70,72
+0:12,Army,None,None,70,72
+0:12,Lehigh,Jeameril Wilson,Free Throw,70,73
+0:02,Army,Jordan Fox,Missed Three Point Jumper,70,73
+0:02,Lehigh,Kyle Leufroy,Defensive Rebound,70,73
+0:00,Lehigh,None,None,70,73

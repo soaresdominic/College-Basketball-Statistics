@@ -1,0 +1,398 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Michigan State,None,None,0,0
+19:46,Michigan State,Nick Ward,Missed Jumper,0,0
+19:46,Michigan State,Kenny Goins,Offensive Rebound,0,0
+19:37,Michigan State,Cassius Winston,Three Point Jumper,0,3
+19:23,Indiana,Romeo Langford,Layup,2,3
+18:53,Michigan State,Cassius Winston,Missed Three Point Jumper,2,3
+18:53,Indiana,Aljami Durham,Defensive Rebound,2,3
+18:39,Indiana,Juwan Morgan,Missed Jumper,2,3
+18:39,Michigan State,Aaron Henry,Defensive Rebound,2,3
+18:26,Michigan State,Kenny Goins,Missed Three Point Jumper,2,3
+18:26,Michigan State,Matt McQuaid,Offensive Rebound,2,3
+18:23,Indiana,Rob Phinisee,Foul,2,3
+18:08,Michigan State,Aaron Henry,Jumper,2,5
+17:54,Indiana,Aljami Durham,Turnover,2,5
+17:54,Michigan State,Cassius Winston,Steal,2,5
+17:44,Michigan State,Nick Ward,Jumper,2,7
+17:30,Indiana,Juwan Morgan,Jumper,4,7
+17:20,Michigan State,Nick Ward,Missed Layup,4,7
+17:20,Indiana,Aljami Durham,Defensive Rebound,4,7
+17:07,Indiana,Romeo Langford,Missed Layup,4,7
+17:07,Michigan State,Kenny Goins,Block,4,7
+17:07,Indiana,Romeo Langford,Offensive Rebound,4,7
+16:47,Indiana,Justin Smith,Layup,6,7
+16:34,Michigan State,Cassius Winston,Jumper,6,9
+16:33,Michigan State,Aaron Henry,Foul,6,9
+16:32,Indiana,Romeo Langford,Free Throw,7,9
+16:32,Indiana,Romeo Langford,Free Throw,8,9
+16:14,Michigan State,Cassius Winston,Missed Three Point Jumper,8,9
+16:14,Indiana,Juwan Morgan,Defensive Rebound,8,9
+15:56,Indiana,Juwan Morgan,Three Point Jumper,11,9
+15:36,Michigan State,Matt McQuaid,Missed Three Point Jumper,11,9
+15:36,Indiana,Justin Smith,Defensive Rebound,11,9
+15:19,Indiana,Devonte Green,Turnover,11,9
+15:19,Michigan State,None,None,11,9
+15:19,Michigan State,Cassius Winston,Steal,11,9
+15:19,Michigan State,None,None,11,9
+15:01,Indiana,Justin Smith,Foul,11,9
+15:01,Michigan State,Xavier Tillman,Missed Free Throw,11,9
+15:01,Michigan State,None,Team Rebound,11,9
+15:01,Michigan State,Xavier Tillman,Missed Free Throw,11,9
+15:01,Indiana,Juwan Morgan,Defensive Rebound,11,9
+14:49,Indiana,Justin Smith,Missed Jumper,11,9
+14:49,Michigan State,Xavier Tillman,Block,11,9
+14:49,Indiana,Justin Smith,Offensive Rebound,11,9
+14:49,Indiana,None,None,11,9
+14:42,Indiana,Devonte Green,Missed Three Point Jumper,11,9
+14:42,Indiana,Romeo Langford,Offensive Rebound,11,9
+14:26,Indiana,Aljami Durham,Missed Layup,11,9
+14:26,Michigan State,Xavier Tillman,Defensive Rebound,11,9
+14:11,Michigan State,Kyle Ahrens,Missed Three Point Jumper,11,9
+14:11,Indiana,De'Ron Davis,Defensive Rebound,11,9
+13:45,Indiana,De'Ron Davis,Jumper,13,9
+13:37,Indiana,De'Ron Davis,Foul,13,9
+13:12,Michigan State,Cassius Winston,Missed Jumper,13,9
+13:12,Indiana,Rob Phinisee,Defensive Rebound,13,9
+13:04,Indiana,Romeo Langford,Turnover,13,9
+12:44,Indiana,De'Ron Davis,Foul,13,9
+12:32,Michigan State,Nick Ward,Missed Jumper,13,9
+12:32,Indiana,Devonte Green,Defensive Rebound,13,9
+12:15,Indiana,Evan Fitzner,Missed Layup,13,9
+12:15,Michigan State,Nick Ward,Defensive Rebound,13,9
+12:04,Michigan State,Nick Ward,Missed Jumper,13,9
+12:04,Indiana,Evan Fitzner,Defensive Rebound,13,9
+11:48,Indiana,Juwan Morgan,Missed Layup,13,9
+11:48,Michigan State,Nick Ward,Block,13,9
+11:48,Michigan State,Kenny Goins,Defensive Rebound,13,9
+11:44,Indiana,Rob Phinisee,Foul,13,9
+11:44,Michigan State,None,None,13,9
+11:34,Michigan State,Aaron Henry,Missed Jumper,13,9
+11:34,Indiana,Juwan Morgan,Defensive Rebound,13,9
+11:32,Michigan State,Nick Ward,Foul,13,9
+11:04,Indiana,Aljami Durham,Missed Jumper,13,9
+11:04,Indiana,Juwan Morgan,Offensive Rebound,13,9
+10:54,Indiana,Devonte Green,Missed Jumper,13,9
+10:54,Michigan State,Kenny Goins,Block,13,9
+10:54,Indiana,Devonte Green,Offensive Rebound,13,9
+10:42,Indiana,Damezi Anderson,Missed Three Point Jumper,13,9
+10:42,Michigan State,Cassius Winston,Defensive Rebound,13,9
+10:26,Michigan State,Cassius Winston,Missed Jumper,13,9
+10:26,Indiana,Juwan Morgan,Defensive Rebound,13,9
+10:16,Indiana,Evan Fitzner,Missed Three Point Jumper,13,9
+10:16,Michigan State,Aaron Henry,Defensive Rebound,13,9
+10:05,Michigan State,Kenny Goins,Missed Layup,13,9
+10:05,Michigan State,Kenny Goins,Offensive Rebound,13,9
+9:59,Michigan State,Cassius Winston,Three Point Jumper,13,12
+9:46,Indiana,Aljami Durham,Missed Three Point Jumper,13,12
+9:46,Indiana,Juwan Morgan,Offensive Rebound,13,12
+9:42,Michigan State,Matt McQuaid,Foul,13,12
+9:33,Indiana,Devonte Green,Missed Jumper,13,12
+9:33,Michigan State,Aaron Henry,Defensive Rebound,13,12
+9:17,Michigan State,Cassius Winston,Layup,13,14
+9:01,Indiana,Romeo Langford,Missed Three Point Jumper,13,14
+9:01,Michigan State,Aaron Henry,Defensive Rebound,13,14
+8:47,Michigan State,Xavier Tillman,Layup,13,16
+8:46,Michigan State,None,None,13,16
+8:46,Indiana,None,None,13,16
+8:28,Michigan State,Kyle Ahrens,Foul,13,16
+8:13,Indiana,Devonte Green,Three Point Jumper,16,16
+8:02,Michigan State,Xavier Tillman,Jumper,16,18
+7:39,Michigan State,Xavier Tillman,Foul,16,18
+7:39,Michigan State,None,None,16,18
+7:39,Indiana,De'Ron Davis,Missed Free Throw,16,18
+7:39,Indiana,None,Team Rebound,16,18
+7:39,Indiana,De'Ron Davis,Free Throw,17,18
+7:38,Michigan State,Cassius Winston,Missed Three Point Jumper,17,18
+7:38,Michigan State,Xavier Tillman,Offensive Rebound,17,18
+7:11,Michigan State,Xavier Tillman,Missed Dunk,17,18
+7:11,Indiana,Justin Smith,Block,17,18
+7:11,Michigan State,Michigan State,Offensive Rebound,17,18
+7:06,Michigan State,Kenny Goins,Jumper,17,20
+6:50,Indiana,Romeo Langford,Missed Jumper,17,20
+6:50,Indiana,Romeo Langford,Offensive Rebound,17,20
+6:43,Indiana,Justin Smith,Missed Three Point Jumper,17,20
+6:43,Michigan State,Cassius Winston,Defensive Rebound,17,20
+6:35,Michigan State,Cassius Winston,Turnover,17,20
+6:23,Indiana,Juwan Morgan,Missed Layup,17,20
+6:23,Michigan State,Kenny Goins,Block,17,20
+6:23,Indiana,Indiana,Offensive Rebound,17,20
+6:08,Indiana,Justin Smith,Turnover,17,20
+6:08,Michigan State,Kyle Ahrens,Steal,17,20
+6:04,Michigan State,None,None,17,20
+5:53,Michigan State,Nick Ward,Missed Layup,17,20
+5:53,Indiana,De'Ron Davis,Block,17,20
+5:53,Indiana,De'Ron Davis,Defensive Rebound,17,20
+5:37,Indiana,De'Ron Davis,Jumper,19,20
+5:11,Michigan State,Xavier Tillman,Jumper,19,22
+4:45,Michigan State,Matt McQuaid,Foul,19,22
+4:26,Indiana,Romeo Langford,Missed Three Point Jumper,19,22
+4:26,Michigan State,Cassius Winston,Defensive Rebound,19,22
+4:18,Michigan State,Aaron Henry,Dunk,19,24
+4:05,Indiana,Romeo Langford,Missed Layup,19,24
+4:05,Michigan State,Kenny Goins,Block,19,24
+4:05,Indiana,Indiana,Offensive Rebound,19,24
+3:59,Indiana,Romeo Langford,Jumper,21,24
+3:37,Michigan State,Kenny Goins,Three Point Jumper,21,27
+3:10,Indiana,Aljami Durham,Three Point Jumper,24,27
+3:02,Michigan State,Xavier Tillman,Dunk,24,29
+2:37,Indiana,De'Ron Davis,Missed Jumper,24,29
+2:37,Michigan State,Cassius Winston,Defensive Rebound,24,29
+2:26,Michigan State,Cassius Winston,Turnover,24,29
+2:26,Indiana,Devonte Green,Steal,24,29
+2:22,Indiana,Romeo Langford,Missed Layup,24,29
+2:22,Michigan State,Kenny Goins,Block,24,29
+2:22,Indiana,Indiana,Offensive Rebound,24,29
+2:22,Michigan State,None,None,24,29
+2:17,Indiana,Romeo Langford,Missed Jumper,24,29
+2:17,Indiana,Jake Forrester,Offensive Rebound,24,29
+2:17,Indiana,None,None,24,29
+2:17,Michigan State,Cassius Winston,Defensive Rebound,24,29
+2:06,Michigan State,Cassius Winston,Turnover,24,29
+1:42,Indiana,Jake Forrester,Missed Layup,24,29
+1:42,Indiana,Justin Smith,Offensive Rebound,24,29
+1:42,Indiana,None,None,24,29
+1:42,Indiana,Indiana,Offensive Rebound,24,29
+1:24,Indiana,Jake Forrester,Dunk,26,29
+1:03,Indiana,Jake Forrester,Foul,26,29
+0:58,Michigan State,Nick Ward,Dunk,26,31
+0:30,Indiana,Justin Smith,Layup,28,31
+0:12,Michigan State,None,None,28,31
+0:03,Michigan State,Cassius Winston,Missed Jumper,28,31
+0:03,Michigan State,Xavier Tillman,Offensive Rebound,28,31
+0:03,Michigan State,Xavier Tillman,Missed Jumper,28,31
+0:03,Indiana,Jake Forrester,Defensive Rebound,28,31
+0:00,Michigan State,None,None,28,31
+20:00,Indiana,None,None,28,31
+19:37,Michigan State,Nick Ward,Foul,28,31
+19:28,Indiana,De'Ron Davis,Jumper,30,31
+19:11,Michigan State,Nick Ward,Missed Layup,30,31
+19:11,Michigan State,Nick Ward,Offensive Rebound,30,31
+19:11,Indiana,Romeo Langford,Foul,30,31
+19:03,Michigan State,Aaron Henry,Turnover,30,31
+18:48,Indiana,Romeo Langford,Turnover,30,31
+18:48,Michigan State,Aaron Henry,Steal,30,31
+18:40,Michigan State,Aaron Henry,Turnover,30,31
+18:40,Indiana,Aljami Durham,Steal,30,31
+18:37,Indiana,Justin Smith,Missed Layup,30,31
+18:37,Indiana,Justin Smith,Offensive Rebound,30,31
+18:37,Indiana,Justin Smith,Layup,32,31
+18:37,Michigan State,Kenny Goins,Foul,32,31
+18:37,Indiana,Justin Smith,Missed Free Throw,32,31
+18:37,Michigan State,Kenny Goins,Defensive Rebound,32,31
+18:33,Michigan State,Matt McQuaid,Three Point Jumper,32,34
+17:57,Indiana,De'Ron Davis,Missed Jumper,32,34
+17:57,Michigan State,Nick Ward,Block,32,34
+17:57,Indiana,De'Ron Davis,Offensive Rebound,32,34
+17:54,Indiana,Indiana ,Turnover,32,34
+17:40,Indiana,Rob Phinisee,Foul,32,34
+17:40,Michigan State,Cassius Winston,Free Throw,32,35
+17:40,Michigan State,Cassius Winston,Free Throw,32,36
+17:26,Indiana,Devonte Green,Missed Jumper,32,36
+17:26,Michigan State,Kenny Goins,Block,32,36
+17:26,Indiana,Indiana,Offensive Rebound,32,36
+17:20,Indiana,Aljami Durham,Missed Three Point Jumper,32,36
+17:20,Michigan State,Cassius Winston,Defensive Rebound,32,36
+17:14,Michigan State,Cassius Winston,Missed Three Point Jumper,32,36
+17:14,Indiana,Jake Forrester,Defensive Rebound,32,36
+16:59,Michigan State,Kyle Ahrens,Foul,32,36
+16:59,Indiana,Justin Smith,Missed Free Throw,32,36
+16:59,Indiana,None,Team Rebound,32,36
+16:59,Indiana,Justin Smith,Free Throw,33,36
+16:54,Indiana,Jake Forrester,Foul,33,36
+16:42,Indiana,Justin Smith,Foul,33,36
+16:42,Michigan State,Nick Ward,Missed Free Throw,33,36
+16:42,Michigan State,None,Team Rebound,33,36
+16:42,Michigan State,Nick Ward,Missed Free Throw,33,36
+16:42,Indiana,Devonte Green,Defensive Rebound,33,36
+16:30,Indiana,Justin Smith,Missed Layup,33,36
+16:30,Michigan State,Kenny Goins,Block,33,36
+16:23,Michigan State,Michigan State,Defensive Rebound,33,36
+16:04,Michigan State,Cassius Winston,Layup,33,38
+15:50,Indiana,Evan Fitzner,Three Point Jumper,36,38
+15:30,Indiana,Jake Forrester,Foul,36,38
+15:30,Michigan State,None,None,36,38
+15:20,Michigan State,Nick Ward,Jumper,36,40
+14:56,Indiana,Romeo Langford,Missed Jumper,36,40
+14:56,Michigan State,Xavier Tillman,Defensive Rebound,36,40
+14:40,Michigan State,Xavier Tillman,Turnover,36,40
+14:40,Indiana,Evan Fitzner,Steal,36,40
+14:28,Indiana,Aljami Durham,Dunk,38,40
+14:12,Michigan State,Xavier Tillman,Dunk,38,42
+14:01,Michigan State,Matt McQuaid,Foul,38,42
+13:47,Indiana,Devonte Green,Layup,40,42
+13:40,Michigan State,Cassius Winston,Missed Three Point Jumper,40,42
+13:40,Indiana,Romeo Langford,Defensive Rebound,40,42
+13:37,Michigan State,Aaron Henry,Foul,40,42
+13:37,Indiana,Romeo Langford,Free Throw,41,42
+13:37,Indiana,Romeo Langford,Missed Free Throw,41,42
+13:37,Indiana,None,Team Rebound,41,42
+13:14,Indiana,Aljami Durham,Three Point Jumper,44,42
+12:45,Michigan State,Kenny Goins,Missed Layup,44,42
+12:45,Michigan State,Kenny Goins,Offensive Rebound,44,42
+12:39,Michigan State,Kyle Ahrens,Three Point Jumper,44,45
+12:15,Indiana,De'Ron Davis,Missed Layup,44,45
+12:15,Michigan State,Kenny Goins,Defensive Rebound,44,45
+12:04,Michigan State,Cassius Winston,Layup,44,47
+11:39,Indiana,De'Ron Davis,Missed Jumper,44,47
+11:39,Michigan State,Xavier Tillman,Defensive Rebound,44,47
+11:31,Michigan State,Cassius Winston,Foul,44,47
+11:31,Michigan State,Cassius Winston,Turnover,44,47
+11:31,Michigan State,None,None,44,47
+11:21,Indiana,Romeo Langford,Missed Jumper,44,47
+11:21,Michigan State,Aaron Henry,Block,44,47
+11:21,Indiana,Indiana,Offensive Rebound,44,47
+11:06,Indiana,Aljami Durham,Turnover,44,47
+10:54,Michigan State,Nick Ward,Layup,44,49
+10:38,Indiana,Romeo Langford,Missed Jumper,44,49
+10:38,Michigan State,Aaron Henry,Block,44,49
+10:38,Michigan State,Cassius Winston,Defensive Rebound,44,49
+10:26,Michigan State,Aaron Henry,Missed Layup,44,49
+10:26,Indiana,Jake Forrester,Block,44,49
+10:26,Michigan State,Nick Ward,Offensive Rebound,44,49
+10:26,Indiana,Rob Phinisee,Foul,44,49
+10:26,Michigan State,Nick Ward,Missed Free Throw,44,49
+10:26,Michigan State,None,Team Rebound,44,49
+10:26,Michigan State,Nick Ward,Missed Free Throw,44,49
+10:26,Indiana,Justin Smith,Defensive Rebound,44,49
+10:08,Indiana,Devonte Green,Turnover,44,49
+9:50,Michigan State,Cassius Winston,Missed Layup,44,49
+9:50,Michigan State,Nick Ward,Offensive Rebound,44,49
+9:39,Michigan State,Kyle Ahrens,Missed Jumper,44,49
+9:39,Indiana,Devonte Green,Defensive Rebound,44,49
+9:33,Indiana,Justin Smith,Layup,46,49
+9:26,Michigan State,Cassius Winston,Three Point Jumper,46,52
+9:08,Indiana,Justin Smith,Layup,48,52
+8:56,Indiana,De'Ron Davis,Foul,48,52
+8:56,Michigan State,Nick Ward,Missed Free Throw,48,52
+8:56,Indiana,Justin Smith,Defensive Rebound,48,52
+8:39,Indiana,Justin Smith,Missed Jumper,48,52
+8:39,Michigan State,Kenny Goins,Block,48,52
+8:39,Michigan State,Nick Ward,Defensive Rebound,48,52
+8:14,Michigan State,Nick Ward,Turnover,48,52
+7:55,Michigan State,Kenny Goins,Foul,48,52
+7:55,Michigan State,None,None,48,52
+7:55,Indiana,Romeo Langford,Free Throw,49,52
+7:55,Indiana,Romeo Langford,Free Throw,50,52
+7:36,Indiana,Damezi Anderson,Foul,50,52
+7:36,Michigan State,Aaron Henry,Missed Free Throw,50,52
+7:36,Indiana,Justin Smith,Defensive Rebound,50,52
+7:16,Indiana,Devonte Green,Three Point Jumper,53,52
+6:50,Michigan State,Xavier Tillman,Dunk,53,54
+6:32,Indiana,Aljami Durham,Three Point Jumper,56,54
+6:07,Michigan State,Matt McQuaid,Foul,56,54
+6:07,Michigan State,Matt McQuaid,Turnover,56,54
+5:49,Indiana,Romeo Langford,Foul,56,54
+5:49,Indiana,Romeo Langford,Turnover,56,54
+5:32,Indiana,Jake Forrester,Foul,56,54
+5:32,Michigan State,Matt McQuaid,Missed Free Throw,56,54
+5:32,Michigan State,None,Team Rebound,56,54
+5:32,Michigan State,Matt McQuaid,Free Throw,56,55
+5:22,Indiana,Romeo Langford,Three Point Jumper,59,55
+5:07,Michigan State,Kenny Goins,Three Point Jumper,59,58
+4:49,Indiana,Devonte Green,Turnover,59,58
+4:49,Michigan State,Cassius Winston,Steal,59,58
+4:40,Michigan State,Cassius Winston,Missed Layup,59,58
+4:40,Indiana,Romeo Langford,Block,59,58
+4:40,Michigan State,Michigan State,Offensive Rebound,59,58
+4:32,Michigan State,Cassius Winston,Layup,59,60
+4:15,Indiana,Devonte Green,Three Point Jumper,62,60
+3:58,Indiana,Justin Smith,Foul,62,60
+3:58,Michigan State,None,None,62,60
+3:58,Michigan State,Kenny Goins,Missed Free Throw,62,60
+3:58,Michigan State,None,Team Rebound,62,60
+3:58,Michigan State,Kenny Goins,Free Throw,62,61
+3:36,Indiana,Romeo Langford,Jumper,64,61
+3:16,Michigan State,Cassius Winston,Missed Jumper,64,61
+3:16,Indiana,Devonte Green,Block,64,61
+3:16,Michigan State,Cassius Winston,Offensive Rebound,64,61
+3:09,Michigan State,Matt McQuaid,Missed Three Point Jumper,64,61
+3:09,Indiana,Jake Forrester,Defensive Rebound,64,61
+2:44,Indiana,Rob Phinisee,Missed Jumper,64,61
+2:44,Michigan State,Xavier Tillman,Defensive Rebound,64,61
+2:23,Indiana,Jake Forrester,Foul,64,61
+2:23,Michigan State,Xavier Tillman,Free Throw,64,62
+2:23,Michigan State,Xavier Tillman,Missed Free Throw,64,62
+2:23,Indiana,Justin Smith,Defensive Rebound,64,62
+2:06,Indiana,Justin Smith,Missed Three Point Jumper,64,62
+2:06,Michigan State,Matt McQuaid,Defensive Rebound,64,62
+1:39,Michigan State,Xavier Tillman,Missed Layup,64,62
+1:39,Indiana,Justin Smith,Block,64,62
+1:39,Indiana,De'Ron Davis,Defensive Rebound,64,62
+1:19,Indiana,Romeo Langford,Missed Jumper,64,62
+1:19,Michigan State,Xavier Tillman,Block,64,62
+1:19,Michigan State,Michigan State,Defensive Rebound,64,62
+1:14,Michigan State,None,None,64,62
+1:04,Michigan State,Kenny Goins,Three Point Jumper,64,65
+0:53,Indiana,None,None,64,65
+0:33,Indiana,Romeo Langford,Layup,66,65
+0:30,Michigan State,None,None,66,65
+0:18,Indiana,Aljami Durham,Foul,66,65
+0:18,Michigan State,Nick Ward,Missed Free Throw,66,65
+0:18,Michigan State,None,Team Rebound,66,65
+0:18,Michigan State,Nick Ward,Free Throw,66,66
+0:14,Indiana,None,None,66,66
+0:03,Indiana,Romeo Langford,Missed Three Point Jumper,66,66
+0:03,Michigan State,Michigan State,Defensive Rebound,66,66
+0:00,Michigan State,None,None,66,66
+5:00,Michigan State,None,None,66,66
+4:34,Michigan State,Nick Ward,Missed Jumper,66,66
+4:34,Michigan State,Nick Ward,Offensive Rebound,66,66
+4:34,Michigan State,None,None,66,68
+4:08,Indiana,De'Ron Davis,Layup,68,68
+3:52,Michigan State,Aaron Henry,Jumper,68,70
+3:24,Indiana,Justin Smith,Missed Layup,68,70
+3:24,Indiana,Justin Smith,Offensive Rebound,68,70
+3:16,Indiana,Justin Smith,Missed Layup,68,70
+3:16,Indiana,Aljami Durham,Offensive Rebound,68,70
+3:10,Indiana,Romeo Langford,Three Point Jumper,71,70
+3:03,Michigan State,Kenny Goins,Missed Three Point Jumper,71,70
+3:03,Indiana,Rob Phinisee,Defensive Rebound,71,70
+2:53,Michigan State,Matt McQuaid,Foul,71,70
+2:53,Indiana,Aljami Durham,Free Throw,72,70
+2:53,Indiana,Aljami Durham,Free Throw,73,70
+2:43,Indiana,Justin Smith,Foul,73,70
+2:43,Michigan State,Nick Ward,Missed Free Throw,73,70
+2:43,Michigan State,None,Team Rebound,73,70
+2:43,Michigan State,Nick Ward,Missed Free Throw,73,70
+2:43,Michigan State,Kenny Goins,Offensive Rebound,73,70
+2:28,Indiana,Rob Phinisee,Foul,73,70
+2:28,Michigan State,Cassius Winston,Free Throw,73,71
+2:28,Michigan State,Cassius Winston,Free Throw,73,72
+2:08,Indiana,Justin Smith,Missed Jumper,73,72
+2:08,Indiana,Justin Smith,Offensive Rebound,73,72
+2:08,Indiana,None,None,75,72
+1:53,Michigan State,Kyle Ahrens,Missed Three Point Jumper,75,72
+1:53,Indiana,Romeo Langford,Defensive Rebound,75,72
+1:22,Indiana,Justin Smith,Missed Jumper,75,72
+1:22,Indiana,None,Team Rebound,75,72
+1:21,Indiana,Indiana ,Turnover,75,72
+1:21,Indiana,None,None,75,72
+1:15,Michigan State,Kenny Goins,Foul,75,72
+1:15,Michigan State,Kenny Goins,Turnover,75,72
+0:57,Michigan State,Kyle Ahrens,Foul,75,72
+0:57,Indiana,Aljami Durham,Free Throw,76,72
+0:57,Indiana,Aljami Durham,Missed Free Throw,76,72
+0:57,Michigan State,Xavier Tillman,Defensive Rebound,76,72
+0:49,Michigan State,Xavier Tillman,Missed Three Point Jumper,76,72
+0:49,Indiana,Devonte Green,Defensive Rebound,76,72
+0:38,Indiana,Devonte Green,Turnover,76,72
+0:38,Michigan State,Kenny Goins,Steal,76,72
+0:37,Michigan State,None,None,76,72
+0:30,Michigan State,Cassius Winston,Three Point Jumper,76,75
+0:30,Michigan State,None,None,76,75
+0:28,Indiana,Aljami Durham,Turnover,76,75
+0:28,Michigan State,Kyle Ahrens,Steal,76,75
+0:14,Michigan State,Cassius Winston,Missed Jumper,76,75
+0:14,Indiana,De'Ron Davis,Defensive Rebound,76,75
+0:11,Michigan State,Kenny Goins,Foul,76,75
+0:11,Indiana,De'Ron Davis,Free Throw,77,75
+0:11,Indiana,De'Ron Davis,Missed Free Throw,77,75
+0:11,Michigan State,Kenny Goins,Defensive Rebound,77,75
+0:04,Michigan State,Cassius Winston,Missed Layup,77,75
+0:04,Indiana,Justin Smith,Block,77,75
+0:04,Indiana,De'Ron Davis,Defensive Rebound,77,75
+0:03,Michigan State,Xavier Tillman,Foul,77,75
+0:03,Indiana,De'Ron Davis,Free Throw,78,75
+0:03,Indiana,De'Ron Davis,Free Throw,79,75
+0:00,Michigan State,None,None,79,75

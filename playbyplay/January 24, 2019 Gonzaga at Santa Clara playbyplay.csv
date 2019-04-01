@@ -1,0 +1,310 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Gonzaga,None,None,0,0
+19:34,Gonzaga,Brandon Clarke,Missed Layup,0,0
+19:34,Gonzaga,Brandon Clarke,Offensive Rebound,0,0
+19:30,Gonzaga,Brandon Clarke,Layup,2,0
+19:10,Santa Clara,Josip Vrankic,Missed Layup,2,0
+19:10,Gonzaga,Rui Hachimura,Defensive Rebound,2,0
+18:56,Gonzaga,Brandon Clarke,Missed Layup,2,0
+18:56,Santa Clara,Josh Martin,Block,2,0
+18:56,Santa Clara,Josip Vrankic,Defensive Rebound,2,0
+18:30,Santa Clara,Josip Vrankic,Missed Jumper,2,0
+18:30,Gonzaga,Rui Hachimura,Defensive Rebound,2,0
+18:22,Gonzaga,Josh Perkins,Missed Three Point Jumper,2,0
+18:22,Gonzaga,Brandon Clarke,Offensive Rebound,2,0
+18:12,Gonzaga,Rui Hachimura,Jumper,4,0
+17:40,Santa Clara,Tahj Eaddy,Missed Jumper,4,0
+17:40,Gonzaga,Rui Hachimura,Block,4,0
+17:40,Gonzaga,Gonzaga,Defensive Rebound,4,0
+17:29,Gonzaga,Rui Hachimura,Jumper,6,0
+16:56,Santa Clara,Trey Wertz,Missed Three Point Jumper,6,0
+16:56,Gonzaga,Gonzaga,Defensive Rebound,6,0
+16:51,Santa Clara,None,None,6,0
+16:33,Gonzaga,Corey Kispert,Three Point Jumper,9,0
+15:59,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,9,0
+15:59,Gonzaga,Corey Kispert,Defensive Rebound,9,0
+15:48,Gonzaga,Brandon Clarke,Dunk,11,0
+15:26,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,11,0
+15:26,Gonzaga,Zach Norvell Jr.,Defensive Rebound,11,0
+15:11,Gonzaga,Brandon Clarke,Missed Layup,11,0
+15:11,Santa Clara,Josip Vrankic,Defensive Rebound,11,0
+15:01,Santa Clara,Tahj Eaddy,Foul,11,0
+15:01,Santa Clara,Tahj Eaddy,Turnover,11,0
+15:00,Santa Clara,None,None,11,0
+14:46,Gonzaga,Josh Perkins,Three Point Jumper,14,0
+14:12,Gonzaga,Rui Hachimura,Foul,14,0
+14:04,Santa Clara,Tahj Eaddy,Jumper,14,2
+13:53,Gonzaga,Rui Hachimura,Layup,16,2
+13:24,Santa Clara,Trey Wertz,Missed Three Point Jumper,16,2
+13:24,Gonzaga,Zach Norvell Jr.,Defensive Rebound,16,2
+13:14,Santa Clara,Trey Wertz,Foul,16,2
+13:14,Gonzaga,Zach Norvell Jr.,Free Throw,17,2
+13:14,Gonzaga,Zach Norvell Jr.,Missed Free Throw,17,2
+13:14,Santa Clara,Josip Vrankic,Defensive Rebound,17,2
+12:48,Santa Clara,Henrik Jadersten,Missed Three Point Jumper,17,2
+12:48,Gonzaga,Gonzaga,Defensive Rebound,17,2
+12:28,Gonzaga,Corey Kispert,Three Point Jumper,20,2
+12:05,Santa Clara,Josip Vrankic,Layup,20,4
+11:45,Gonzaga,Brandon Clarke,Missed Layup,20,4
+11:45,Santa Clara,Henrik Jadersten,Block,20,4
+11:45,Santa Clara,Henrik Jadersten,Defensive Rebound,20,4
+11:23,Santa Clara,Josip Vrankic,Layup,20,6
+11:11,Gonzaga,Killian Tillie,Missed Three Point Jumper,20,6
+11:11,Santa Clara,Henrik Jadersten,Defensive Rebound,20,6
+10:58,Santa Clara,Keshawn Justice,Missed Jumper,20,6
+10:58,Gonzaga,Josh Perkins,Defensive Rebound,20,6
+10:39,Gonzaga,Corey Kispert,Missed Three Point Jumper,20,6
+10:22,Gonzaga,Josh Perkins,Offensive Rebound,20,6
+10:19,Gonzaga,Josh Perkins,Jumper,22,6
+9:58,Santa Clara,Trey Wertz,Missed Jumper,22,6
+9:58,Gonzaga,Killian Tillie,Defensive Rebound,22,6
+9:46,Gonzaga,Josh Perkins,Layup,24,6
+9:29,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,24,6
+9:29,Gonzaga,Killian Tillie,Defensive Rebound,24,6
+9:17,Santa Clara,Henrik Jadersten,Foul,24,6
+9:17,Santa Clara,None,None,24,6
+9:17,Gonzaga,Josh Perkins,Free Throw,25,6
+9:17,Gonzaga,Josh Perkins,Free Throw,26,6
+9:04,Santa Clara,Josip Vrankic,Foul,26,6
+9:04,Santa Clara,Josip Vrankic,Turnover,26,6
+8:46,Gonzaga,Josh Perkins,Jumper,28,6
+8:17,Santa Clara,Trey Wertz,Missed Layup,28,6
+8:17,Gonzaga,Zach Norvell Jr.,Defensive Rebound,28,6
+8:08,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,28,6
+8:08,Gonzaga,Geno Crandall,Offensive Rebound,28,6
+7:52,Gonzaga,Geno Crandall,Missed Jumper,28,6
+7:52,Gonzaga,Brandon Clarke,Offensive Rebound,28,6
+7:49,Gonzaga,Brandon Clarke,Dunk,30,6
+7:24,Santa Clara,Trey Wertz,Three Point Jumper,30,9
+7:00,Gonzaga,Zach Norvell Jr.,Missed Jumper,30,9
+7:00,Gonzaga,Rui Hachimura,Offensive Rebound,30,9
+6:51,Gonzaga,Zach Norvell Jr.,Three Point Jumper,33,9
+6:23,Santa Clara,Keshawn Justice,Missed Three Point Jumper,33,9
+6:23,Gonzaga,Rui Hachimura,Defensive Rebound,33,9
+6:14,Gonzaga,Zach Norvell Jr.,Three Point Jumper,36,9
+5:52,Santa Clara,Ezekiel Richards,Missed Layup,36,9
+5:52,Gonzaga,Brandon Clarke,Block,36,9
+5:52,Gonzaga,Brandon Clarke,Defensive Rebound,36,9
+5:37,Gonzaga,Rui Hachimura,Layup,38,9
+5:36,Santa Clara,None,None,38,9
+5:16,Gonzaga,Killian Tillie,Foul,38,9
+5:16,Santa Clara,Ezekiel Richards,Free Throw,38,10
+5:16,Santa Clara,Ezekiel Richards,Missed Free Throw,38,10
+5:16,Gonzaga,Zach Norvell Jr.,Defensive Rebound,38,10
+4:47,Gonzaga,Rui Hachimura,Missed Layup,38,10
+4:47,Gonzaga,Rui Hachimura,Offensive Rebound,38,10
+4:47,Gonzaga,None,None,40,10
+4:37,Santa Clara,Trey Wertz,Turnover,40,10
+4:37,Gonzaga,Killian Tillie,Steal,40,10
+4:22,Gonzaga,Rui Hachimura,Layup,42,10
+3:56,Santa Clara,Josh Martin,Missed Three Point Jumper,42,10
+3:56,Gonzaga,Zach Norvell Jr.,Defensive Rebound,42,10
+3:35,Gonzaga,Zach Norvell Jr.,Jumper,44,10
+3:24,Santa Clara,Trey Wertz,Turnover,44,10
+3:23,Santa Clara,None,None,44,10
+3:12,Santa Clara,Trey Wertz,Foul,44,10
+3:12,Gonzaga,Rui Hachimura,Free Throw,45,10
+3:12,Gonzaga,Rui Hachimura,Free Throw,46,10
+2:49,Santa Clara,Josip Vrankic,Missed Jumper,46,10
+2:49,Gonzaga,Zach Norvell Jr.,Defensive Rebound,46,10
+2:40,Gonzaga,Corey Kispert,Missed Three Point Jumper,46,10
+2:40,Santa Clara,Santa Clara,Defensive Rebound,46,10
+2:26,Santa Clara,Guglielmo Caruso,Foul,46,10
+2:26,Santa Clara,Guglielmo Caruso,Turnover,46,10
+2:19,Gonzaga,Josh Perkins,Missed Three Point Jumper,46,10
+2:19,Santa Clara,Tahj Eaddy,Defensive Rebound,46,10
+2:09,Santa Clara,Trey Wertz,Foul,46,10
+2:09,Santa Clara,Trey Wertz,Turnover,46,10
+1:59,Gonzaga,Corey Kispert,Dunk,48,10
+1:39,Santa Clara,Tahj Eaddy,Jumper,48,12
+1:32,Gonzaga,Brandon Clarke,Layup,50,12
+1:24,Santa Clara,Tahj Eaddy,Three Point Jumper,50,15
+1:16,Gonzaga,Corey Kispert,Missed Three Point Jumper,50,15
+1:16,Gonzaga,Josh Perkins,Offensive Rebound,50,15
+1:01,Gonzaga,Brandon Clarke,Missed Layup,50,15
+1:01,Santa Clara,Josip Vrankic,Defensive Rebound,50,15
+0:56,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,50,15
+0:56,Gonzaga,Brandon Clarke,Defensive Rebound,50,15
+0:50,Gonzaga,Josh Perkins,Three Point Jumper,53,15
+0:31,Santa Clara,Josip Vrankic,Layup,53,17
+0:01,Gonzaga,Josh Perkins,Missed Layup,53,17
+0:01,Gonzaga,Brandon Clarke,Offensive Rebound,53,17
+0:00,Santa Clara,None,None,53,17
+20:00,Santa Clara,None,None,53,17
+19:45,Santa Clara,Josip Vrankic,Missed Layup,53,17
+19:45,Gonzaga,Rui Hachimura,Defensive Rebound,53,17
+19:35,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,53,17
+19:35,Santa Clara,Josip Vrankic,Defensive Rebound,53,17
+19:24,Santa Clara,Trey Wertz,Turnover,53,17
+19:15,Gonzaga,Josh Perkins,Missed Three Point Jumper,53,17
+19:15,Santa Clara,Josh Martin,Defensive Rebound,53,17
+18:53,Gonzaga,Rui Hachimura,Foul,53,17
+18:53,Santa Clara,Josip Vrankic,Missed Free Throw,53,17
+18:53,Santa Clara,None,Team Rebound,53,17
+18:53,Santa Clara,Josip Vrankic,Free Throw,53,18
+18:41,Gonzaga,Corey Kispert,Three Point Jumper,56,18
+18:26,Santa Clara,Trey Wertz,Turnover,56,18
+18:26,Gonzaga,Rui Hachimura,Steal,56,18
+18:19,Santa Clara,Josh Martin,Foul,56,18
+18:19,Gonzaga,Rui Hachimura,Free Throw,57,18
+18:19,Gonzaga,Rui Hachimura,Free Throw,58,18
+18:03,Santa Clara,Josh Martin,Missed Jumper,58,18
+18:03,Gonzaga,Corey Kispert,Defensive Rebound,58,18
+17:57,Gonzaga,Brandon Clarke,Dunk,60,18
+17:35,Santa Clara,Trey Wertz,Missed Layup,60,18
+17:35,Gonzaga,Brandon Clarke,Block,60,18
+17:35,Gonzaga,Zach Norvell Jr.,Defensive Rebound,60,18
+17:29,Gonzaga,Corey Kispert,Missed Layup,60,18
+17:29,Santa Clara,Josh Martin,Defensive Rebound,60,18
+17:17,Santa Clara,Tahj Eaddy,Turnover,60,18
+17:17,Gonzaga,Rui Hachimura,Steal,60,18
+17:13,Gonzaga,Josh Perkins,Layup,62,18
+16:52,Santa Clara,Josip Vrankic,Layup,62,20
+16:38,Gonzaga,Brandon Clarke,Dunk,64,20
+16:26,Santa Clara,Trey Wertz,Layup,64,22
+16:14,Gonzaga,Brandon Clarke,Turnover,64,22
+16:14,Santa Clara,Guglielmo Caruso,Steal,64,22
+15:55,Santa Clara,None,None,64,22
+15:45,Santa Clara,Keshawn Justice,Three Point Jumper,64,25
+15:28,Gonzaga,Josh Perkins,Missed Three Point Jumper,64,25
+15:28,Santa Clara,Henrik Jadersten,Defensive Rebound,64,25
+14:59,Santa Clara,Josip Vrankic,Turnover,64,25
+14:59,Gonzaga,Brandon Clarke,Steal,64,25
+14:59,Gonzaga,None,None,64,25
+14:55,Gonzaga,Zach Norvell Jr.,Missed Jumper,64,25
+14:55,Santa Clara,Keshawn Justice,Defensive Rebound,64,25
+14:33,Gonzaga,Killian Tillie,Foul,64,25
+14:26,Santa Clara,Henrik Jadersten,Turnover,64,25
+14:26,Gonzaga,Josh Perkins,Steal,64,25
+14:21,Gonzaga,Josh Perkins,Missed Jumper,64,25
+14:21,Santa Clara,Henrik Jadersten,Block,64,25
+14:21,Gonzaga,Gonzaga,Offensive Rebound,64,25
+14:16,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,64,25
+14:16,Gonzaga,Killian Tillie,Offensive Rebound,64,25
+14:06,Gonzaga,Josh Perkins,Jumper,66,25
+14:01,Santa Clara,Josip Vrankic,Turnover,66,25
+14:01,Gonzaga,Zach Norvell Jr.,Steal,66,25
+13:58,Gonzaga,Zach Norvell Jr.,Layup,68,25
+13:47,Gonzaga,Killian Tillie,Foul,68,25
+13:47,Santa Clara,Josip Vrankic,Free Throw,68,26
+13:47,Santa Clara,Josip Vrankic,Missed Free Throw,68,26
+13:47,Gonzaga,Zach Norvell Jr.,Defensive Rebound,68,26
+13:34,Gonzaga,Zach Norvell Jr.,Three Point Jumper,71,26
+13:20,Santa Clara,Josh Martin,Turnover,71,26
+13:20,Gonzaga,Geno Crandall,Steal,71,26
+13:13,Gonzaga,Killian Tillie,Missed Three Point Jumper,71,26
+13:13,Santa Clara,Ezekiel Richards,Defensive Rebound,71,26
+12:58,Santa Clara,Keshawn Justice,Layup,71,28
+12:44,Gonzaga,Filip Petrusev,Layup,73,28
+12:29,Santa Clara,Keshawn Justice,Missed Three Point Jumper,73,28
+12:29,Gonzaga,Killian Tillie,Defensive Rebound,73,28
+12:13,Gonzaga,Zach Norvell Jr.,Layup,75,28
+12:00,Gonzaga,Filip Petrusev,Foul,75,28
+12:00,Santa Clara,None,None,75,28
+12:00,Santa Clara,Trey Wertz,Free Throw,75,29
+12:00,Santa Clara,Trey Wertz,Free Throw,75,30
+11:55,Santa Clara,Josh Martin,Foul,75,30
+11:54,Santa Clara,Josh Martin,Foul,75,30
+11:35,Gonzaga,Jeremy Jones,Missed Three Point Jumper,75,30
+11:35,Santa Clara,Tahj Eaddy,Defensive Rebound,75,30
+11:12,Santa Clara,Josh Martin,Turnover,75,30
+11:12,Gonzaga,Jeremy Jones,Steal,75,30
+11:07,Santa Clara,Keshawn Justice,Foul,75,30
+11:07,Gonzaga,Geno Crandall,Free Throw,76,30
+11:07,Gonzaga,Geno Crandall,Free Throw,77,30
+10:42,Santa Clara,Josip Vrankic,Missed Layup,77,30
+10:42,Gonzaga,Filip Petrusev,Defensive Rebound,77,30
+10:34,Santa Clara,Ezekiel Richards,Foul,77,30
+10:34,Gonzaga,Killian Tillie,Free Throw,78,30
+10:34,Gonzaga,Killian Tillie,Missed Free Throw,78,30
+10:34,Santa Clara,Trey Wertz,Defensive Rebound,78,30
+10:33,Gonzaga,Killian Tillie,Foul,78,30
+10:23,Santa Clara,Tahj Eaddy,Missed Jumper,78,30
+10:23,Gonzaga,Filip Petrusev,Defensive Rebound,78,30
+10:12,Gonzaga,Geno Crandall,Three Point Jumper,81,30
+9:56,Santa Clara,None,None,81,30
+9:43,Santa Clara,Keshawn Justice,Missed Three Point Jumper,81,30
+9:43,Gonzaga,Jeremy Jones,Defensive Rebound,81,30
+9:38,Gonzaga,Jeremy Jones,Turnover,81,30
+9:23,Santa Clara,Guglielmo Caruso,Turnover,81,30
+9:06,Gonzaga,Corey Kispert,Layup,83,30
+9:06,Santa Clara,Guglielmo Caruso,Foul,83,30
+9:06,Gonzaga,Corey Kispert,Missed Free Throw,83,30
+9:06,Santa Clara,Guglielmo Caruso,Defensive Rebound,83,30
+8:46,Gonzaga,Filip Petrusev,Foul,83,30
+8:34,Santa Clara,Guglielmo Caruso,Layup,83,32
+8:34,Gonzaga,Filip Petrusev,Foul,83,32
+8:34,Santa Clara,Guglielmo Caruso,Free Throw,83,33
+8:17,Santa Clara,Ezekiel Richards,Foul,83,33
+8:17,Gonzaga,Filip Petrusev,Free Throw,84,33
+8:17,Gonzaga,Filip Petrusev,Free Throw,85,33
+8:05,Santa Clara,Trey Wertz,Turnover,85,33
+7:58,Gonzaga,Geno Crandall,Three Point Jumper,88,33
+7:33,Santa Clara,Josip Vrankic,Missed Layup,88,33
+7:33,Santa Clara,Ezekiel Richards,Offensive Rebound,88,33
+7:32,Santa Clara,Ezekiel Richards,Missed Layup,88,33
+7:32,Santa Clara,Santa Clara,Offensive Rebound,88,33
+7:30,Santa Clara,None,None,88,33
+7:22,Santa Clara,Tahj Eaddy,Missed Jumper,88,33
+7:22,Santa Clara,Ezekiel Richards,Offensive Rebound,88,33
+7:22,Santa Clara,None,None,88,33
+7:22,Gonzaga,Jeremy Jones,Defensive Rebound,88,33
+7:01,Santa Clara,Tahj Eaddy,Foul,88,33
+7:01,Gonzaga,Filip Petrusev,Free Throw,89,33
+7:01,Gonzaga,Filip Petrusev,Free Throw,90,33
+6:39,Gonzaga,Joel Ayayi,Foul,90,33
+6:39,Santa Clara,Josip Vrankic,Missed Free Throw,90,33
+6:39,Santa Clara,None,Team Rebound,90,33
+6:39,Santa Clara,Josip Vrankic,Missed Free Throw,90,33
+6:39,Gonzaga,Killian Tillie,Defensive Rebound,90,33
+6:22,Gonzaga,Geno Crandall,Missed Layup,90,33
+6:22,Santa Clara,Josip Vrankic,Defensive Rebound,90,33
+6:02,Gonzaga,Filip Petrusev,Foul,90,33
+6:02,Santa Clara,Josip Vrankic,Free Throw,90,34
+6:02,Santa Clara,Josip Vrankic,Free Throw,90,35
+5:44,Gonzaga,Killian Tillie,Missed Jumper,90,35
+5:44,Santa Clara,Guglielmo Caruso,Defensive Rebound,90,35
+5:33,Santa Clara,Guglielmo Caruso,Missed Three Point Jumper,90,35
+5:33,Gonzaga,Killian Tillie,Defensive Rebound,90,35
+5:23,Santa Clara,Ezekiel Richards,Foul,90,35
+5:23,Gonzaga,Filip Petrusev,Free Throw,91,35
+5:23,Gonzaga,Filip Petrusev,Free Throw,92,35
+5:01,Santa Clara,Trey Wertz,Layup,92,37
+4:43,Gonzaga,Filip Petrusev,Missed Jumper,92,37
+4:43,Gonzaga,Gonzaga,Offensive Rebound,92,37
+4:39,Gonzaga,Joel Ayayi,Missed Three Point Jumper,92,37
+4:39,Santa Clara,Ezekiel Richards,Defensive Rebound,92,37
+4:17,Santa Clara,Guglielmo Caruso,Missed Jumper,92,37
+4:17,Gonzaga,Killian Tillie,Defensive Rebound,92,37
+3:57,Gonzaga,Joel Ayayi,Missed Three Point Jumper,92,37
+3:57,Santa Clara,Trey Wertz,Defensive Rebound,92,37
+3:29,Santa Clara,Keshawn Justice,Missed Jumper,92,37
+3:29,Gonzaga,Joel Ayayi,Defensive Rebound,92,37
+3:23,Gonzaga,Geno Crandall,Missed Three Point Jumper,92,37
+3:23,Gonzaga,Joel Ayayi,Offensive Rebound,92,37
+3:19,Gonzaga,Joel Ayayi,Layup,94,37
+2:47,Santa Clara,Keshawn Justice,Missed Three Point Jumper,94,37
+2:47,Gonzaga,Joel Ayayi,Defensive Rebound,94,37
+2:35,Gonzaga,Filip Petrusev,Dunk,96,37
+2:13,Santa Clara,Trey Wertz,Missed Three Point Jumper,96,37
+2:13,Gonzaga,Filip Petrusev,Defensive Rebound,96,37
+1:59,Gonzaga,Killian Tillie,Missed Three Point Jumper,96,37
+1:59,Gonzaga,Filip Petrusev,Offensive Rebound,96,37
+1:53,Gonzaga,Filip Petrusev,Layup,98,37
+1:52,Gonzaga,None,None,98,37
+1:43,Santa Clara,Keshawn Justice,Turnover,98,37
+1:43,Gonzaga,Greg Foster Jr.,Steal,98,37
+1:36,Gonzaga,Greg Foster Jr.,Missed Layup,98,37
+1:36,Santa Clara,Josh Martin,Defensive Rebound,98,37
+1:14,Santa Clara,Henrik Jadersten,Missed Jumper,98,37
+1:14,Gonzaga,Jeremy Jones,Block,98,37
+1:14,Santa Clara,Santa Clara,Offensive Rebound,98,37
+1:05,Gonzaga,Jack Beach,Foul,98,37
+1:05,Santa Clara,Trey Wertz,Free Throw,98,38
+1:05,Santa Clara,Trey Wertz,Free Throw,98,39
+0:45,Gonzaga,Filip Petrusev,Missed Jumper,98,39
+0:45,Santa Clara,Josh Martin,Defensive Rebound,98,39
+0:12,Santa Clara,Keshawn Justice,Missed Three Point Jumper,98,39
+0:12,Santa Clara,Tahj Eaddy,Offensive Rebound,98,39
+0:07,Santa Clara,Max Dorward,Turnover,98,39
+0:00,Santa Clara,None,None,98,39

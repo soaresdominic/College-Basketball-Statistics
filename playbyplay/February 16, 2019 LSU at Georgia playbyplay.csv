@@ -1,0 +1,322 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Georgia,None,None,0,0
+19:48,Georgia,Nicolas Claxton,Jumper,0,2
+19:25,LSU,Tremont Waters,Jumper,2,2
+19:01,Georgia,Christian Harrison,Missed Layup,2,2
+19:01,LSU,Kavell Bigby-Williams,Block,2,2
+19:01,Georgia,Jordan Harris,Offensive Rebound,2,2
+18:52,Georgia,Nicolas Claxton,Missed Three Point Jumper,2,2
+18:52,LSU,Skylar Mays,Defensive Rebound,2,2
+18:35,Georgia,Nicolas Claxton,Foul,2,2
+18:32,LSU,Naz Reid,Turnover,2,2
+18:32,Georgia,William Jackson II,Steal,2,2
+18:28,Georgia,William Jackson II,Turnover,2,2
+18:28,LSU,Tremont Waters,Steal,2,2
+18:22,LSU,Tremont Waters,Missed Three Point Jumper,2,2
+18:22,Georgia,Rayshaun Hammonds,Defensive Rebound,2,2
+18:11,LSU,Marlon Taylor,Foul,2,2
+18:11,Georgia,Rayshaun Hammonds,Free Throw,2,3
+18:11,Georgia,Rayshaun Hammonds,Free Throw,2,4
+17:51,LSU,Naz Reid,Missed Jumper,2,4
+17:51,LSU,Kavell Bigby-Williams,Offensive Rebound,2,4
+17:51,LSU,None,None,4,4
+17:37,Georgia,Rayshaun Hammonds,Missed Jumper,4,4
+17:37,Georgia,Jordan Harris,Offensive Rebound,4,4
+17:33,Georgia,William Jackson II,Three Point Jumper,4,7
+17:06,LSU,Marlon Taylor,Missed Three Point Jumper,4,7
+17:06,Georgia,Jordan Harris,Defensive Rebound,4,7
+16:58,Georgia,Jordan Harris,Foul,4,7
+16:58,Georgia,Jordan Harris,Turnover,4,7
+16:38,Georgia,Jordan Harris,Foul,4,7
+16:29,LSU,Tremont Waters,Layup,6,7
+16:18,Georgia,Rayshaun Hammonds,Turnover,6,7
+16:18,LSU,Kavell Bigby-Williams,Steal,6,7
+15:59,LSU,Naz Reid,Turnover,6,7
+15:59,Georgia,Christian Harrison,Steal,6,7
+15:52,Georgia,Tyree Crump,Missed Jumper,6,7
+15:52,LSU,Naz Reid,Defensive Rebound,6,7
+15:42,LSU,Skylar Mays,Missed Layup,6,7
+15:42,Georgia,William Jackson II,Defensive Rebound,6,7
+15:35,Georgia,Tyree Crump,Turnover,6,7
+15:35,Georgia,None,None,6,7
+15:16,LSU,Kavell Bigby-Williams,Missed Jumper,6,7
+15:16,Georgia,Derek Ogbeide,Defensive Rebound,6,7
+14:55,Georgia,Rayshaun Hammonds,Missed Three Point Jumper,6,7
+14:55,LSU,Tremont Waters,Defensive Rebound,6,7
+14:41,LSU,Naz Reid,Missed Jumper,6,7
+14:41,Georgia,William Jackson II,Defensive Rebound,6,7
+14:22,LSU,Naz Reid,Foul,6,7
+14:22,Georgia,Rayshaun Hammonds,Missed Free Throw,6,7
+14:22,Georgia,None,Team Rebound,6,7
+14:22,Georgia,Rayshaun Hammonds,Free Throw,6,8
+14:22,Georgia,Rayshaun Hammonds,Missed Free Throw,6,8
+14:22,LSU,Naz Reid,Defensive Rebound,6,8
+14:04,LSU,Tremont Waters,Missed Three Point Jumper,6,8
+14:04,Georgia,Nicolas Claxton,Defensive Rebound,6,8
+13:52,Georgia,Derek Ogbeide,Layup,6,10
+13:31,LSU,Ja'vonte Smart,Layup,8,10
+13:07,Georgia,Derek Ogbeide,Dunk,8,12
+12:44,LSU,Tremont Waters,Jumper,10,12
+12:20,LSU,Emmitt Williams,Foul,10,12
+12:20,Georgia,Tyree Crump,Free Throw,10,13
+12:20,Georgia,Tyree Crump,Free Throw,10,14
+12:20,Georgia,Tyree Crump,Free Throw,10,15
+12:11,LSU,Tremont Waters,Jumper,12,15
+11:46,Georgia,Nicolas Claxton,Jumper,12,17
+11:38,Georgia,Derek Ogbeide,Foul,12,17
+11:38,Georgia,None,None,12,17
+11:38,LSU,Ja'vonte Smart,Free Throw,13,17
+11:38,LSU,Ja'vonte Smart,Free Throw,14,17
+11:31,Georgia,Tyree Crump,Three Point Jumper,14,20
+11:19,LSU,Darius Days,Missed Layup,14,20
+11:19,LSU,Marlon Taylor,Offensive Rebound,14,20
+11:13,LSU,Marlon Taylor,Jumper,16,20
+10:55,Georgia,E'Torrion Wilridge,Missed Layup,16,20
+10:55,LSU,Kavell Bigby-Williams,Defensive Rebound,16,20
+10:42,LSU,Ja'vonte Smart,Jumper,18,20
+10:36,Georgia,Derek Ogbeide,Missed Layup,18,20
+10:36,LSU,LSU,Defensive Rebound,18,20
+10:11,LSU,Tremont Waters,Three Point Jumper,21,20
+9:45,Georgia,William Jackson II,Missed Layup,21,20
+9:45,LSU,Kavell Bigby-Williams,Defensive Rebound,21,20
+9:40,Georgia,Amanze Ngumezi,Foul,21,20
+9:30,Georgia,Teshaun Hightower,Foul,21,20
+9:30,LSU,Kavell Bigby-Williams,Foul,21,20
+9:30,LSU,Kavell Bigby-Williams,Turnover,21,20
+9:17,Georgia,Amanze Ngumezi,Jumper,21,22
+8:57,Georgia,Amanze Ngumezi,Foul,21,22
+8:57,LSU,Marlon Taylor,Free Throw,22,22
+8:57,LSU,Marlon Taylor,Free Throw,23,22
+8:37,Georgia,Nicolas Claxton,Missed Jumper,23,22
+8:37,LSU,Marlon Taylor,Defensive Rebound,23,22
+8:23,LSU,Ja'vonte Smart,Turnover,23,22
+8:23,Georgia,Christian Harrison,Steal,23,22
+8:18,Georgia,Teshaun Hightower,Missed Layup,23,22
+8:18,LSU,LSU,Defensive Rebound,23,22
+8:05,LSU,Skylar Mays,Missed Layup,23,22
+8:05,LSU,Darius Days,Offensive Rebound,23,22
+8:00,LSU,Darius Days,Dunk,25,22
+7:38,Georgia,Tye Fagan,Missed Jumper,25,22
+7:38,LSU,Naz Reid,Defensive Rebound,25,22
+7:22,LSU,Naz Reid,Turnover,25,22
+7:22,Georgia,Tye Fagan,Steal,25,22
+6:58,LSU,Darius Days,Foul,25,22
+6:58,Georgia,None,None,25,22
+6:40,Georgia,Teshaun Hightower,Missed Layup,25,22
+6:40,LSU,Marlon Taylor,Block,25,22
+6:40,LSU,Skylar Mays,Defensive Rebound,25,22
+6:28,LSU,None,None,25,22
+6:14,LSU,Emmitt Williams,Jumper,27,22
+5:58,Georgia,Jordan Harris,Turnover,27,22
+5:41,LSU,Tremont Waters,Jumper,29,22
+5:24,Georgia,Tye Fagan,Turnover,29,22
+5:24,LSU,Tremont Waters,Steal,29,22
+5:21,LSU,Skylar Mays,Layup,31,22
+5:16,Georgia,None,None,31,22
+4:54,Georgia,Tyree Crump,Layup,31,24
+4:39,LSU,Naz Reid,Turnover,31,24
+4:28,Georgia,Nicolas Claxton,Layup,31,26
+4:23,LSU,Tremont Waters,Three Point Jumper,34,26
+4:06,Georgia,Nicolas Claxton,Jumper,34,28
+3:52,LSU,Tremont Waters,Turnover,34,28
+3:52,Georgia,William Jackson II,Steal,34,28
+3:48,Georgia,Tyree Crump,Missed Layup,34,28
+3:48,Georgia,Georgia,Offensive Rebound,34,28
+3:45,Georgia,None,None,34,28
+3:37,LSU,Darius Days,Foul,34,28
+3:37,Georgia,Jordan Harris,Free Throw,34,29
+3:37,Georgia,Jordan Harris,Free Throw,34,30
+3:20,LSU,Marlon Taylor,Dunk,36,30
+2:48,Georgia,Nicolas Claxton,Jumper,36,32
+2:25,LSU,Ja'vonte Smart,Three Point Jumper,39,32
+2:08,Georgia,William Jackson II,Three Point Jumper,39,35
+1:50,Georgia,Derek Ogbeide,Foul,39,35
+1:50,LSU,Kavell Bigby-Williams,Missed Free Throw,39,35
+1:50,Georgia,Nicolas Claxton,Defensive Rebound,39,35
+1:49,LSU,Darius Days,Foul,39,35
+1:49,Georgia,Derek Ogbeide,Turnover,39,35
+1:28,LSU,Naz Reid,Missed Layup,39,35
+1:28,LSU,Kavell Bigby-Williams,Offensive Rebound,39,35
+1:28,LSU,None,None,41,35
+1:11,Georgia,Tyree Crump,Missed Jumper,41,35
+1:11,Georgia,Derek Ogbeide,Offensive Rebound,41,35
+1:05,Georgia,Derek Ogbeide,Dunk,41,37
+0:33,LSU,Tremont Waters,Turnover,41,37
+0:17,Georgia,Nicolas Claxton,Missed Jumper,41,37
+0:17,LSU,Naz Reid,Block,41,37
+0:17,LSU,Kavell Bigby-Williams,Defensive Rebound,41,37
+0:09,LSU,Marlon Taylor,Missed Three Point Jumper,41,37
+0:09,Georgia,William Jackson II,Defensive Rebound,41,37
+0:00,Georgia,None,None,41,37
+20:00,Georgia,None,None,41,37
+19:50,Georgia,Rayshaun Hammonds,Jumper,41,39
+19:25,Georgia,Nicolas Claxton,Foul,41,39
+19:25,LSU,Naz Reid,Free Throw,42,39
+19:25,LSU,Naz Reid,Free Throw,43,39
+19:07,Georgia,Nicolas Claxton,Missed Three Point Jumper,43,39
+19:07,LSU,Marlon Taylor,Defensive Rebound,43,39
+18:52,LSU,Naz Reid,Jumper,45,39
+18:41,Georgia,Jordan Harris,Three Point Jumper,45,42
+18:19,LSU,Tremont Waters,Missed Layup,45,42
+18:19,Georgia,Christian Harrison,Block,45,42
+18:19,Georgia,Nicolas Claxton,Defensive Rebound,45,42
+18:10,Georgia,Rayshaun Hammonds,Three Point Jumper,45,45
+17:52,Georgia,Rayshaun Hammonds,Foul,45,45
+17:52,LSU,Kavell Bigby-Williams,Free Throw,46,45
+17:52,LSU,Kavell Bigby-Williams,Missed Free Throw,46,45
+17:52,Georgia,Rayshaun Hammonds,Defensive Rebound,46,45
+17:33,Georgia,Jordan Harris,Jumper,46,47
+17:15,LSU,Naz Reid,Jumper,48,47
+16:58,Georgia,Rayshaun Hammonds,Turnover,48,47
+16:58,LSU,Kavell Bigby-Williams,Steal,48,47
+16:41,LSU,Kavell Bigby-Williams,Missed Jumper,48,47
+16:41,LSU,Naz Reid,Offensive Rebound,48,47
+16:37,LSU,Naz Reid,Dunk,50,47
+16:31,LSU,Kavell Bigby-Williams,Foul,50,47
+16:31,Georgia,Rayshaun Hammonds,Free Throw,50,48
+16:31,Georgia,Rayshaun Hammonds,Missed Free Throw,50,48
+16:31,Georgia,Jordan Harris,Offensive Rebound,50,48
+16:29,Georgia,William Jackson II,Three Point Jumper,50,51
+16:25,LSU,None,None,50,51
+15:59,LSU,Tremont Waters,Missed Three Point Jumper,50,51
+15:59,Georgia,Georgia,Defensive Rebound,50,51
+15:59,Georgia,None,None,50,51
+15:44,Georgia,Rayshaun Hammonds,Layup,50,53
+15:32,LSU,Tremont Waters,Missed Jumper,50,53
+15:32,LSU,Kavell Bigby-Williams,Offensive Rebound,50,53
+15:17,Georgia,Christian Harrison,Foul,50,53
+14:59,LSU,Naz Reid,Missed Three Point Jumper,50,53
+14:59,LSU,LSU,Offensive Rebound,50,53
+14:49,LSU,Naz Reid,Jumper,52,53
+14:31,Georgia,Jordan Harris,Dunk,52,55
+14:10,Georgia,Rayshaun Hammonds,Foul,52,55
+14:10,LSU,Skylar Mays,Free Throw,53,55
+14:10,LSU,Skylar Mays,Missed Free Throw,53,55
+14:10,Georgia,Jordan Harris,Defensive Rebound,53,55
+13:58,Georgia,E'Torrion Wilridge,Three Point Jumper,53,58
+13:31,Georgia,E'Torrion Wilridge,Foul,53,58
+13:31,LSU,Ja'vonte Smart,Free Throw,54,58
+13:31,LSU,Ja'vonte Smart,Free Throw,55,58
+13:26,LSU,Marlon Taylor,Foul,55,58
+13:05,LSU,Skylar Mays,Foul,55,58
+13:05,Georgia,Nicolas Claxton,Missed Free Throw,55,58
+13:05,Georgia,None,Team Rebound,55,58
+13:05,Georgia,Nicolas Claxton,Free Throw,55,59
+12:46,LSU,Ja'vonte Smart,Missed Layup,55,59
+12:46,Georgia,Derek Ogbeide,Block,55,59
+12:46,LSU,LSU,Offensive Rebound,55,59
+12:38,Georgia,Nicolas Claxton,Foul,55,59
+12:38,LSU,Naz Reid,Missed Free Throw,55,59
+12:38,LSU,None,Team Rebound,55,59
+12:38,LSU,Naz Reid,Free Throw,56,59
+12:14,Georgia,Tyree Crump,Missed Three Point Jumper,56,59
+12:14,LSU,Marlon Taylor,Defensive Rebound,56,59
+12:05,LSU,Ja'vonte Smart,Three Point Jumper,59,59
+11:57,LSU,Ja'vonte Smart,Foul,59,59
+11:57,LSU,Ja'vonte Smart,Foul,59,59
+11:57,Georgia,None,None,59,59
+11:57,Georgia,Tyree Crump,Missed Free Throw,59,59
+11:57,Georgia,None,Team Rebound,59,59
+11:57,Georgia,Tyree Crump,Free Throw,59,60
+11:43,Georgia,Rayshaun Hammonds,Jumper,59,62
+11:31,LSU,Ja'vonte Smart,Missed Three Point Jumper,59,62
+11:31,LSU,Emmitt Williams,Offensive Rebound,59,62
+11:28,Georgia,E'Torrion Wilridge,Foul,59,62
+11:28,LSU,Emmitt Williams,Free Throw,60,62
+11:28,LSU,Emmitt Williams,Free Throw,61,62
+11:00,LSU,Marlon Taylor,Foul,61,62
+10:49,LSU,Ja'vonte Smart,Foul,61,62
+10:46,Georgia,Tyree Crump,Turnover,61,62
+10:46,LSU,Naz Reid,Steal,61,62
+10:22,LSU,Ja'vonte Smart,Three Point Jumper,64,62
+9:59,Georgia,Derek Ogbeide,Dunk,64,64
+9:40,Georgia,Rayshaun Hammonds,Foul,64,64
+9:40,LSU,Marlon Taylor,Free Throw,65,64
+9:40,LSU,Marlon Taylor,Free Throw,66,64
+9:21,Georgia,Tyree Crump,Missed Three Point Jumper,66,64
+9:21,Georgia,Nicolas Claxton,Offensive Rebound,66,64
+8:55,Georgia,Tyree Crump,Turnover,66,64
+8:37,LSU,Naz Reid,Missed Layup,66,64
+8:37,LSU,Emmitt Williams,Offensive Rebound,66,64
+8:32,LSU,Emmitt Williams,Jumper,68,64
+8:05,Georgia,Christian Harrison,Layup,68,66
+7:58,Georgia,None,None,68,66
+7:35,LSU,Ja'vonte Smart,Missed Layup,68,66
+7:35,Georgia,Nicolas Claxton,Defensive Rebound,68,66
+7:11,Georgia,William Jackson II,Missed Jumper,68,66
+7:11,Georgia,William Jackson II,Offensive Rebound,68,66
+7:05,Georgia,Christian Harrison,Missed Layup,68,66
+7:04,Georgia,Jordan Harris,Offensive Rebound,68,66
+7:03,LSU,Darius Days,Foul,68,66
+7:03,Georgia,Jordan Harris,Free Throw,68,67
+7:03,Georgia,Jordan Harris,Free Throw,68,68
+6:42,LSU,Ja'vonte Smart,Layup,70,68
+6:25,Georgia,Nicolas Claxton,Missed Three Point Jumper,70,68
+6:25,Georgia,Christian Harrison,Offensive Rebound,70,68
+6:08,Georgia,Amanze Ngumezi,Missed Jumper,70,68
+6:08,LSU,Skylar Mays,Defensive Rebound,70,68
+5:48,Georgia,Christian Harrison,Foul,70,68
+5:48,LSU,Tremont Waters,Free Throw,71,68
+5:48,LSU,Tremont Waters,Free Throw,72,68
+5:29,Georgia,Nicolas Claxton,Jumper,72,70
+5:29,LSU,Naz Reid,Foul,72,70
+5:29,Georgia,Nicolas Claxton,Free Throw,72,71
+5:13,LSU,Kavell Bigby-Williams,Layup,74,71
+4:55,Georgia,Nicolas Claxton,Missed Layup,74,71
+4:55,LSU,Ja'vonte Smart,Defensive Rebound,74,71
+4:45,LSU,Naz Reid,Foul,74,71
+4:45,Georgia,Nicolas Claxton,Foul,74,71
+4:38,LSU,Kavell Bigby-Williams,Dunk,76,71
+4:15,Georgia,Jordan Harris,Missed Layup,76,71
+4:15,Georgia,Derek Ogbeide,Offensive Rebound,76,71
+4:11,Georgia,Derek Ogbeide,Dunk,76,73
+3:41,LSU,Skylar Mays,Layup,78,73
+3:26,Georgia,William Jackson II,Turnover,78,73
+3:26,LSU,Skylar Mays,Steal,78,73
+3:21,LSU,Tremont Waters,Layup,80,73
+3:19,Georgia,None,None,80,73
+3:05,LSU,Ja'vonte Smart,Foul,80,73
+3:05,Georgia,Jordan Harris,Missed Free Throw,80,73
+3:05,Georgia,None,Team Rebound,80,73
+3:05,Georgia,Jordan Harris,Free Throw,80,74
+2:43,LSU,Naz Reid,Missed Jumper,80,74
+2:43,LSU,Naz Reid,Offensive Rebound,80,74
+2:43,LSU,None,None,82,74
+2:20,Georgia,William Jackson II,Missed Three Point Jumper,82,74
+2:20,Georgia,Nicolas Claxton,Offensive Rebound,82,74
+2:16,Georgia,Nicolas Claxton,Dunk,82,76
+1:53,LSU,Tremont Waters,Missed Three Point Jumper,82,76
+1:53,Georgia,Jordan Harris,Defensive Rebound,82,76
+1:32,LSU,Naz Reid,Foul,82,76
+1:32,Georgia,Nicolas Claxton,Free Throw,82,77
+1:32,Georgia,Nicolas Claxton,Missed Free Throw,82,77
+1:32,LSU,Kavell Bigby-Williams,Defensive Rebound,82,77
+1:11,LSU,Ja'vonte Smart,Missed Layup,82,77
+1:11,Georgia,Nicolas Claxton,Block,82,77
+1:11,Georgia,Derek Ogbeide,Defensive Rebound,82,77
+1:05,Georgia,Nicolas Claxton,Missed Layup,82,77
+1:05,LSU,Kavell Bigby-Williams,Block,82,77
+1:05,Georgia,Georgia,Offensive Rebound,82,77
+0:57,Georgia,Nicolas Claxton,Missed Jumper,82,77
+0:57,Georgia,Derek Ogbeide,Offensive Rebound,82,77
+0:53,LSU,Kavell Bigby-Williams,Foul,82,77
+0:53,Georgia,Derek Ogbeide,Free Throw,82,78
+0:53,Georgia,Derek Ogbeide,Free Throw,82,79
+0:46,LSU,None,None,82,79
+0:37,LSU,Naz Reid,Missed Jumper,82,79
+0:37,Georgia,Christian Harrison,Defensive Rebound,82,79
+0:29,Georgia,None,None,82,79
+0:21,Georgia,Nicolas Claxton,Missed Layup,82,79
+0:21,LSU,Naz Reid,Defensive Rebound,82,79
+0:15,Georgia,Rayshaun Hammonds,Foul,82,79
+0:15,LSU,Skylar Mays,Missed Free Throw,82,79
+0:15,LSU,None,Team Rebound,82,79
+0:15,LSU,Skylar Mays,Free Throw,83,79
+0:15,LSU,None,None,83,79
+0:04,Georgia,Jordan Harris,Missed Three Point Jumper,83,79
+0:04,LSU,Kavell Bigby-Williams,Block,83,79
+0:04,Georgia,Georgia,Offensive Rebound,83,79
+0:03,Georgia,None,None,83,79
+0:01,Georgia,Jordan Harris,Missed Three Point Jumper,83,79
+0:01,LSU,Kavell Bigby-Williams,Defensive Rebound,83,79
+0:00,Georgia,None,None,83,79

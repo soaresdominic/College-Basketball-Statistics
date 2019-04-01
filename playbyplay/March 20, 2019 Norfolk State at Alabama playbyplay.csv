@@ -1,0 +1,382 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Alabama,None,None,0,0
+19:48,Alabama,Riley Norris,Missed Three Point Jumper,0,0
+19:48,Norfolk State,Mastadi Pitt,Defensive Rebound,0,0
+19:34,Norfolk State,Steven Whitley,Missed Jumper,0,0
+19:34,Alabama,Donta Hall,Defensive Rebound,0,0
+19:13,Alabama,Donta Hall,Missed Jumper,0,0
+19:13,Alabama,Riley Norris,Offensive Rebound,0,0
+19:07,Alabama,Riley Norris,Missed Layup,0,0
+19:07,Alabama,Riley Norris,Offensive Rebound,0,0
+19:01,Alabama,Riley Norris,Missed Jumper,0,0
+19:01,Norfolk State,Jordan Butler,Defensive Rebound,0,0
+18:49,Norfolk State,Jordan Butler,Jumper,2,0
+18:34,Alabama,Donta Hall,Turnover,2,0
+18:34,Norfolk State,Steven Whitley,Steal,2,0
+18:27,Norfolk State,Alex Long,Missed Jumper,2,0
+18:27,Norfolk State,Jordan Butler,Offensive Rebound,2,0
+18:19,Norfolk State,Mastadi Pitt,Missed Three Point Jumper,2,0
+18:19,Alabama,Donta Hall,Defensive Rebound,2,0
+18:04,Alabama,Galin Smith,Missed Jumper,2,0
+18:04,Norfolk State,Jordan Butler,Defensive Rebound,2,0
+17:57,Norfolk State,Steven Whitley,Layup,4,0
+17:55,Alabama,None,None,4,0
+17:47,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,4,0
+17:47,Alabama,Alex Reese,Offensive Rebound,4,0
+17:36,Alabama,Galin Smith,Dunk,4,2
+17:06,Norfolk State,Nic Thomas,Missed Three Point Jumper,4,2
+17:06,Alabama,Kira Lewis Jr.,Defensive Rebound,4,2
+16:53,Alabama,John Petty,Missed Three Point Jumper,4,2
+16:53,Norfolk State,Jordan Butler,Defensive Rebound,4,2
+16:42,Norfolk State,Nic Thomas,Missed Three Point Jumper,4,2
+16:42,Alabama,Alabama,Defensive Rebound,4,2
+16:30,Alabama,Kira Lewis Jr.,Layup,4,4
+16:00,Norfolk State,Jordan Butler,Missed Jumper,4,4
+16:00,Norfolk State,Jordan Butler,Offensive Rebound,4,4
+16:00,Norfolk State,None,None,6,4
+15:48,Alabama,Alex Reese,Three Point Jumper,6,7
+15:33,Norfolk State,Mastadi Pitt,Missed Jumper,6,7
+15:33,Alabama,John Petty,Defensive Rebound,6,7
+15:19,Alabama,Dazon Ingram,Jumper,6,9
+14:53,Norfolk State,Alex Long,Missed Layup,6,9
+14:53,Alabama,Galin Smith,Block,6,9
+14:53,Alabama,Galin Smith,Defensive Rebound,6,9
+14:53,Alabama,None,None,6,9
+14:40,Alabama,Dazon Ingram,Missed Three Point Jumper,6,9
+14:40,Alabama,Alex Reese,Offensive Rebound,6,9
+14:31,Alabama,John Petty,Missed Jumper,6,9
+14:31,Norfolk State,Alex Long,Defensive Rebound,6,9
+14:17,Norfolk State,Mastadi Pitt,Missed Jumper,6,9
+14:17,Alabama,John Petty,Defensive Rebound,6,9
+14:11,Alabama,Dazon Ingram,Layup,6,11
+14:05,Norfolk State,Steven Whitley,Missed Three Point Jumper,6,11
+14:05,Norfolk State,Jordan Butler,Offensive Rebound,6,11
+13:43,Norfolk State,Jordan Butler,Jumper,8,11
+13:27,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,8,11
+13:27,Alabama,Donta Hall,Offensive Rebound,8,11
+13:21,Alabama,John Petty,Three Point Jumper,8,14
+12:58,Norfolk State,Nic Thomas,Missed Layup,8,14
+12:58,Alabama,Dazon Ingram,Defensive Rebound,8,14
+12:38,Alabama,Kira Lewis Jr.,Jumper,8,16
+12:33,Norfolk State,None,None,8,16
+12:12,Norfolk State,Nic Thomas,Missed Layup,8,16
+12:12,Norfolk State,Steven Whitley,Offensive Rebound,8,16
+12:12,Norfolk State,None,None,10,16
+11:58,Norfolk State,Armani Branch,Foul,10,16
+11:58,Alabama,None,None,10,16
+11:56,Alabama,Dazon Ingram,Turnover,10,16
+11:56,Norfolk State,Nic Thomas,Steal,10,16
+11:52,Norfolk State,Nic Thomas,Layup,12,16
+11:39,Alabama,Dazon Ingram,Turnover,12,16
+11:39,Norfolk State,Steven Whitley,Steal,12,16
+11:30,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,12,16
+11:30,Norfolk State,Armani Branch,Offensive Rebound,12,16
+11:24,Norfolk State,Jordan Butler,Jumper,14,16
+11:15,Alabama,Dazon Ingram,Missed Three Point Jumper,14,16
+11:15,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,14,16
+11:03,Norfolk State,Nic Thomas,Missed Layup,14,16
+11:03,Alabama,Donta Hall,Defensive Rebound,14,16
+10:58,Alabama,Tevin Mack,Missed Three Point Jumper,14,16
+10:58,Norfolk State,Steven Whitley,Defensive Rebound,14,16
+10:28,Norfolk State,Steven Whitley,Turnover,14,16
+10:28,Alabama,Avery Johnson Jr.,Steal,14,16
+10:24,Alabama,Dazon Ingram,Turnover,14,16
+10:24,Norfolk State,Nic Thomas,Steal,14,16
+10:14,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,14,16
+10:14,Alabama,Dazon Ingram,Defensive Rebound,14,16
+9:53,Alabama,Tevin Mack,Missed Three Point Jumper,14,16
+9:53,Alabama,Donta Hall,Offensive Rebound,14,16
+9:53,Norfolk State,Jordan Butler,Foul,14,16
+9:41,Alabama,Tevin Mack,Turnover,14,16
+9:41,Norfolk State,Mastadi Pitt,Steal,14,16
+9:36,Norfolk State,Armani Branch,Layup,16,16
+9:35,Alabama,None,None,16,16
+9:25,Norfolk State,Derrik Jamerson Jr.,Foul,16,16
+9:17,Alabama,Galin Smith,Turnover,16,16
+8:52,Norfolk State,Armani Branch,Turnover,16,16
+8:52,Alabama,Alex Reese,Steal,16,16
+8:34,Alabama,Avery Johnson Jr.,Jumper,16,18
+8:12,Norfolk State,Alex Long,Missed Jumper,16,18
+8:12,Alabama,Alex Reese,Defensive Rebound,16,18
+8:00,Norfolk State,Armani Branch,Foul,16,18
+8:00,Alabama,None,None,16,18
+8:00,Alabama,Herbert Jones,Free Throw,16,19
+8:00,Alabama,Herbert Jones,Missed Free Throw,16,19
+8:00,Norfolk State,C.J. Kelly,Defensive Rebound,16,19
+7:49,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,16,19
+7:49,Norfolk State,Jordan Butler,Offensive Rebound,16,19
+7:46,Alabama,Riley Norris,Foul,16,19
+7:28,Norfolk State,C.J. Kelly,Missed Jumper,16,19
+7:28,Alabama,Galin Smith,Defensive Rebound,16,19
+7:20,Norfolk State,C.J. Kelly,Foul,16,19
+6:56,Alabama,Galin Smith,Missed Jumper,16,19
+6:56,Norfolk State,Alex Long,Block,16,19
+6:56,Norfolk State,Nic Thomas,Defensive Rebound,16,19
+6:56,Norfolk State,C.J. Kelly,Missed Layup,16,19
+6:56,Norfolk State,Alex Long,Offensive Rebound,16,19
+6:47,Norfolk State,Alex Long,Layup,18,19
+6:24,Alabama,Alex Reese,Missed Three Point Jumper,18,19
+6:24,Norfolk State,Alex Long,Defensive Rebound,18,19
+6:02,Norfolk State,Mastadi Pitt,Turnover,18,19
+5:42,Alabama,Kira Lewis Jr.,Jumper,18,21
+5:14,Norfolk State,C.J. Kelly,Turnover,18,21
+5:14,Alabama,John Petty,Steal,18,21
+5:01,Alabama,Galin Smith,Turnover,18,21
+4:53,Norfolk State,Nic Thomas,Missed Three Point Jumper,18,21
+4:53,Alabama,John Petty,Defensive Rebound,18,21
+4:45,Alabama,Alex Reese,Turnover,18,21
+4:45,Norfolk State,Nic Thomas,Steal,18,21
+4:40,Norfolk State,Mastadi Pitt,Layup,20,21
+4:26,Alabama,Kira Lewis Jr.,Turnover,20,21
+4:26,Norfolk State,Jordan Butler,Steal,20,21
+4:17,Norfolk State,Mastadi Pitt,Missed Jumper,20,21
+4:17,Alabama,Kira Lewis Jr.,Defensive Rebound,20,21
+4:09,Alabama,Alex Reese,Missed Three Point Jumper,20,21
+4:09,Alabama,Riley Norris,Offensive Rebound,20,21
+3:49,Alabama,John Petty,Missed Three Point Jumper,20,21
+3:49,Alabama,Dazon Ingram,Offensive Rebound,20,21
+3:34,Alabama,Alex Reese,Missed Jumper,20,21
+3:34,Norfolk State,Jordan Butler,Defensive Rebound,20,21
+3:16,Norfolk State,Steven Whitley,Layup,22,21
+2:57,Norfolk State,Steven Whitley,Foul,22,21
+2:57,Alabama,None,None,22,21
+2:57,Alabama,Alex Reese,Free Throw,22,22
+2:57,Alabama,Alex Reese,Free Throw,22,23
+2:42,Norfolk State,Jordan Butler,Missed Jumper,22,23
+2:42,Alabama,Alex Reese,Defensive Rebound,22,23
+2:35,Alabama,Alex Reese,Three Point Jumper,22,26
+2:11,Norfolk State,Alex Long,Missed Jumper,22,26
+2:11,Alabama,Donta Hall,Defensive Rebound,22,26
+2:05,Alabama,Alex Reese,Three Point Jumper,22,29
+1:49,Norfolk State,Mastadi Pitt,Missed Jumper,22,29
+1:49,Alabama,Alex Reese,Defensive Rebound,22,29
+1:33,Alabama,Donta Hall,Missed Layup,22,29
+1:33,Norfolk State,Jordan Butler,Block,22,29
+1:33,Alabama,Donta Hall,Offensive Rebound,22,29
+1:24,Alabama,Alex Reese,Three Point Jumper,22,32
+1:24,Norfolk State,None,None,22,32
+1:17,Norfolk State,Nic Thomas,Three Point Jumper,25,32
+1:08,Alabama,Alex Reese,Three Point Jumper,25,35
+0:37,Norfolk State,Steven Whitley,Missed Jumper,25,35
+0:37,Alabama,Donta Hall,Block,25,35
+0:37,Alabama,Alex Reese,Defensive Rebound,25,35
+0:26,Alabama,John Petty,Missed Three Point Jumper,25,35
+0:26,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,25,35
+0:06,Norfolk State,Derrik Jamerson Jr.,Three Point Jumper,28,35
+0:00,Alabama,None,None,28,35
+20:00,Alabama,None,None,28,35
+19:43,Alabama,Galin Smith,Missed Jumper,28,35
+19:43,Norfolk State,Alex Long,Defensive Rebound,28,35
+19:36,Alabama,Riley Norris,Foul,28,35
+19:14,Norfolk State,Steven Whitley,Jumper,30,35
+18:43,Alabama,Galin Smith,Dunk,30,37
+18:43,Norfolk State,Steven Whitley,Foul,30,37
+18:43,Alabama,Galin Smith,Missed Free Throw,30,37
+18:43,Norfolk State,Alex Long,Defensive Rebound,30,37
+18:21,Alabama,Galin Smith,Foul,30,37
+18:11,Norfolk State,Nic Thomas,Missed Jumper,30,37
+18:11,Norfolk State,Jordan Butler,Offensive Rebound,30,37
+18:05,Norfolk State,Alex Long,Turnover,30,37
+17:42,Alabama,Kira Lewis Jr.,Three Point Jumper,30,40
+17:21,Alabama,Galin Smith,Foul,30,40
+17:21,Norfolk State,Alex Long,Missed Free Throw,30,40
+17:21,Norfolk State,None,Team Rebound,30,40
+17:21,Norfolk State,Alex Long,Free Throw,31,40
+17:08,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,31,40
+17:08,Norfolk State,Steven Whitley,Defensive Rebound,31,40
+17:00,Norfolk State,Derrik Jamerson Jr.,Three Point Jumper,34,40
+16:36,Alabama,Alex Reese,Missed Three Point Jumper,34,40
+16:36,Alabama,Riley Norris,Offensive Rebound,34,40
+16:24,Alabama,Dazon Ingram,Missed Jumper,34,40
+16:24,Norfolk State,Alex Long,Defensive Rebound,34,40
+16:15,Norfolk State,Derrik Jamerson Jr.,Three Point Jumper,37,40
+15:57,Alabama,Donta Hall,Turnover,37,40
+15:47,Norfolk State,Nic Thomas,Three Point Jumper,40,40
+15:21,Alabama,Kira Lewis Jr.,Missed Layup,40,40
+15:21,Alabama,Alex Reese,Offensive Rebound,40,40
+15:13,Alabama,Alex Reese,Missed Layup,40,40
+15:13,Norfolk State,Alex Long,Defensive Rebound,40,40
+15:07,Norfolk State,Nic Thomas,Foul,40,40
+15:07,Norfolk State,Nic Thomas,Turnover,40,40
+15:07,Alabama,None,None,40,40
+14:53,Alabama,Herbert Jones,Missed Jumper,40,40
+14:53,Alabama,Alabama,Offensive Rebound,40,40
+14:47,Alabama,Galin Smith,Turnover,40,40
+14:34,Norfolk State,Nic Thomas,Missed Jumper,40,40
+14:34,Alabama,Galin Smith,Block,40,40
+14:34,Alabama,Alabama,Defensive Rebound,40,40
+14:27,Norfolk State,Jordan Butler,Foul,40,40
+14:27,Alabama,Herbert Jones,Missed Free Throw,40,40
+14:27,Alabama,None,Team Rebound,40,40
+14:27,Alabama,Herbert Jones,Free Throw,40,41
+14:02,Norfolk State,Nic Thomas,Missed Three Point Jumper,40,41
+14:02,Norfolk State,Alex Long,Offensive Rebound,40,41
+14:02,Norfolk State,None,None,42,41
+13:50,Alabama,Alex Reese,Turnover,42,41
+13:50,Norfolk State,Alex Long,Steal,42,41
+13:44,Norfolk State,Nic Thomas,Missed Three Point Jumper,42,41
+13:44,Norfolk State,Norfolk State,Offensive Rebound,42,41
+13:32,Norfolk State,Derrik Jamerson Jr.,Three Point Jumper,45,41
+13:20,Alabama,Herbert Jones,Jumper,45,43
+13:20,Norfolk State,Steven Whitley,Foul,45,43
+13:20,Alabama,Herbert Jones,Free Throw,45,44
+13:06,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,45,44
+13:06,Alabama,John Petty,Defensive Rebound,45,44
+12:53,Alabama,Herbert Jones,Missed Jumper,45,44
+12:53,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,45,44
+12:23,Norfolk State,Mastadi Pitt,Missed Jumper,45,44
+12:23,Alabama,Herbert Jones,Defensive Rebound,45,44
+12:14,Alabama,John Petty,Missed Three Point Jumper,45,44
+12:14,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,45,44
+11:54,Norfolk State,Armani Branch,Missed Three Point Jumper,45,44
+11:54,Norfolk State,Norfolk State,Offensive Rebound,45,44
+11:50,Alabama,None,None,45,44
+11:41,Norfolk State,Nic Thomas,Three Point Jumper,48,44
+11:18,Alabama,Herbert Jones,Dunk,48,46
+10:53,Norfolk State,Nic Thomas,Missed Jumper,48,46
+10:53,Alabama,Donta Hall,Defensive Rebound,48,46
+10:43,Alabama,Tevin Mack,Three Point Jumper,48,49
+10:22,Norfolk State,Jordan Butler,Layup,50,49
+10:22,Alabama,Donta Hall,Foul,50,49
+10:22,Norfolk State,Jordan Butler,Free Throw,51,49
+10:07,Alabama,Herbert Jones,Jumper,51,51
+9:46,Alabama,Tevin Mack,Foul,51,51
+9:46,Norfolk State,Mastadi Pitt,Missed Free Throw,51,51
+9:46,Norfolk State,None,Team Rebound,51,51
+9:46,Norfolk State,Mastadi Pitt,Free Throw,52,51
+9:26,Alabama,Avery Johnson Jr.,Jumper,52,53
+9:12,Norfolk State,Mastadi Pitt,Jumper,54,53
+8:52,Alabama,Herbert Jones,Jumper,54,55
+8:31,Norfolk State,None,None,54,55
+8:21,Norfolk State,Jordan Butler,Turnover,54,55
+8:21,Alabama,Donta Hall,Steal,54,55
+8:06,Alabama,Donta Hall,Turnover,54,55
+8:06,Norfolk State,Alex Long,Steal,54,55
+7:51,Norfolk State,Jordan Butler,Missed Jumper,54,55
+7:51,Alabama,Riley Norris,Defensive Rebound,54,55
+7:36,Alabama,None,None,54,55
+7:31,Alabama,Herbert Jones,Turnover,54,55
+7:31,Norfolk State,Steven Whitley,Steal,54,55
+7:26,Norfolk State,Steven Whitley,Layup,56,55
+7:17,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,56,55
+7:17,Alabama,Riley Norris,Offensive Rebound,56,55
+7:11,Alabama,Riley Norris,Missed Layup,56,55
+7:11,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,56,55
+7:04,Norfolk State,Steven Whitley,Foul,56,55
+7:04,Norfolk State,Steven Whitley,Turnover,56,55
+6:47,Alabama,Tevin Mack,Missed Jumper,56,55
+6:47,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,56,55
+6:21,Norfolk State,Mastadi Pitt,Missed Three Point Jumper,56,55
+6:21,Alabama,John Petty,Defensive Rebound,56,55
+6:09,Alabama,John Petty,Three Point Jumper,56,58
+5:57,Norfolk State,Mastadi Pitt,Missed Jumper,56,58
+5:57,Norfolk State,Derrik Jamerson Jr.,Offensive Rebound,56,58
+5:51,Norfolk State,Derrik Jamerson Jr.,Jumper,58,58
+5:37,Alabama,Riley Norris,Missed Three Point Jumper,58,58
+5:37,Norfolk State,Jordan Butler,Defensive Rebound,58,58
+5:26,Norfolk State,Nic Thomas,Missed Three Point Jumper,58,58
+5:26,Norfolk State,Jordan Butler,Offensive Rebound,58,58
+5:21,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,58,58
+5:21,Norfolk State,Alex Long,Offensive Rebound,58,58
+5:20,Alabama,Riley Norris,Foul,58,58
+5:18,Norfolk State,Mastadi Pitt,Missed Layup,58,58
+5:18,Alabama,Tevin Mack,Block,58,58
+5:18,Alabama,Kira Lewis Jr.,Defensive Rebound,58,58
+5:06,Alabama,John Petty,Layup,58,60
+4:44,Norfolk State,Derrik Jamerson Jr.,Three Point Jumper,61,60
+4:31,Alabama,Galin Smith,Missed Jumper,61,60
+4:31,Alabama,Herbert Jones,Offensive Rebound,61,60
+4:28,Norfolk State,Derrik Jamerson Jr.,Foul,61,60
+4:28,Alabama,Herbert Jones,Free Throw,61,61
+4:28,Alabama,Herbert Jones,Missed Free Throw,61,61
+4:28,Norfolk State,Steven Whitley,Defensive Rebound,61,61
+4:04,Norfolk State,Steven Whitley,Missed Three Point Jumper,61,61
+4:04,Norfolk State,Nic Thomas,Offensive Rebound,61,61
+3:59,Alabama,John Petty,Foul,61,61
+3:59,Alabama,None,None,61,61
+3:59,Norfolk State,Nic Thomas,Free Throw,62,61
+3:59,Norfolk State,Nic Thomas,Free Throw,63,61
+3:49,Alabama,Herbert Jones,Missed Jumper,63,61
+3:49,Norfolk State,Nic Thomas,Defensive Rebound,63,61
+3:39,Norfolk State,Alex Long,Jumper,65,61
+3:14,Alabama,Tevin Mack,Jumper,65,63
+2:50,Norfolk State,Steven Whitley,Missed Jumper,65,63
+2:50,Norfolk State,Jordan Butler,Offensive Rebound,65,63
+2:39,Norfolk State,Jordan Butler,Missed Layup,65,63
+2:39,Norfolk State,Alex Long,Offensive Rebound,65,63
+2:26,Norfolk State,Steven Whitley,Missed Jumper,65,63
+2:26,Norfolk State,Alex Long,Offensive Rebound,65,63
+2:16,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,65,63
+2:16,Alabama,Herbert Jones,Defensive Rebound,65,63
+2:14,Norfolk State,Alex Long,Missed Layup,65,63
+2:14,Norfolk State,Steven Whitley,Offensive Rebound,65,63
+2:08,Alabama,None,None,65,63
+1:51,Norfolk State,Jordan Butler,Foul,65,63
+1:51,Alabama,Kira Lewis Jr.,Missed Free Throw,65,63
+1:51,Alabama,None,Team Rebound,65,63
+1:51,Alabama,Kira Lewis Jr.,Free Throw,65,64
+1:28,Norfolk State,Alex Long,Jumper,67,64
+1:05,Norfolk State,Alex Long,Foul,67,64
+1:05,Alabama,Donta Hall,Missed Free Throw,67,64
+1:05,Alabama,None,Team Rebound,67,64
+1:05,Alabama,Donta Hall,Missed Free Throw,67,64
+1:05,Norfolk State,Steven Whitley,Defensive Rebound,67,64
+0:34,Norfolk State,Nic Thomas,Missed Layup,67,64
+0:34,Alabama,Galin Smith,Block,67,64
+0:34,Norfolk State,Norfolk State,Offensive Rebound,67,64
+0:34,Norfolk State,Norfolk State ,Turnover,67,64
+0:20,Alabama,John Petty,Three Point Jumper,67,67
+0:06,Alabama,Kira Lewis Jr.,Foul,67,67
+0:06,Norfolk State,None,None,67,67
+0:03,Norfolk State,Steven Whitley,Missed Layup,67,67
+0:03,Alabama,Donta Hall,Block,67,67
+0:03,Norfolk State,Jordan Butler,Offensive Rebound,67,67
+0:03,Norfolk State,Jordan Butler,Missed Layup,67,67
+0:03,Alabama,Donta Hall,Defensive Rebound,67,67
+0:00,Alabama,None,None,67,67
+5:00,Alabama,None,None,67,67
+4:42,Alabama,Galin Smith,Turnover,67,67
+4:42,Norfolk State,Steven Whitley,Steal,67,67
+4:38,Norfolk State,Derrik Jamerson Jr.,Three Point Jumper,70,67
+4:20,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,70,67
+4:20,Alabama,Donta Hall,Offensive Rebound,70,67
+4:18,Alabama,Donta Hall,Layup,70,69
+3:47,Norfolk State,Nic Thomas,Turnover,70,69
+3:47,Alabama,Herbert Jones,Steal,70,69
+3:42,Alabama,Herbert Jones,Missed Layup,70,69
+3:42,Alabama,Donta Hall,Offensive Rebound,70,69
+3:42,Alabama,Donta Hall,Dunk,70,71
+3:15,Norfolk State,Steven Whitley,Three Point Jumper,73,71
+2:49,Alabama,Donta Hall,Missed Jumper,73,71
+2:49,Norfolk State,Mastadi Pitt,Defensive Rebound,73,71
+2:24,Norfolk State,Nic Thomas,Missed Three Point Jumper,73,71
+2:24,Alabama,Donta Hall,Defensive Rebound,73,71
+2:13,Alabama,Kira Lewis Jr.,Turnover,73,71
+2:13,Norfolk State,Nic Thomas,Steal,73,71
+2:08,Alabama,Herbert Jones,Foul,73,71
+1:54,Alabama,Riley Norris,Foul,73,71
+1:54,Norfolk State,Nic Thomas,Free Throw,74,71
+1:54,Norfolk State,Nic Thomas,Free Throw,75,71
+1:44,Alabama,John Petty,Missed Three Point Jumper,75,71
+1:44,Norfolk State,Steven Whitley,Defensive Rebound,75,71
+1:18,Norfolk State,Mastadi Pitt,Missed Jumper,75,71
+1:18,Alabama,Riley Norris,Defensive Rebound,75,71
+1:15,Norfolk State,Derrik Jamerson Jr.,Foul,75,71
+1:15,Alabama,None,None,75,71
+1:00,Norfolk State,Nic Thomas,Foul,75,71
+1:00,Alabama,Donta Hall,Free Throw,75,72
+1:00,Alabama,Donta Hall,Free Throw,75,73
+0:40,Norfolk State,Derrik Jamerson Jr.,Three Point Jumper,78,73
+0:28,Alabama,Herbert Jones,Layup,78,75
+0:28,Norfolk State,Steven Whitley,Foul,78,75
+0:28,Alabama,Herbert Jones,Free Throw,78,76
+0:17,Alabama,John Petty,Foul,78,76
+0:17,Norfolk State,Derrik Jamerson Jr.,Free Throw,79,76
+0:17,Norfolk State,Derrik Jamerson Jr.,Free Throw,80,76
+0:17,Norfolk State,None,None,80,76
+0:09,Alabama,Herbert Jones,Three Point Jumper,80,79
+0:06,Alabama,None,None,80,79
+0:05,Norfolk State,Nic Thomas,Turnover,80,79
+0:01,Alabama,Riley Norris,Missed Jumper,80,79
+0:01,Norfolk State,Mastadi Pitt,Defensive Rebound,80,79
+0:00,Alabama,None,None,80,79

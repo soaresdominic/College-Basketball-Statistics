@@ -1,0 +1,326 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Illinois,None,None,0,0
+19:47,Illinois,Aaron Jordan,Missed Three Point Jumper,0,0
+19:47,Illinois,Ayo Dosunmu,Offensive Rebound,0,0
+19:40,Illinois,Ayo Dosunmu,Layup,0,2
+19:27,Michigan State,Cassius Winston,Turnover,0,2
+19:15,Illinois,Aaron Jordan,Turnover,0,2
+19:15,Michigan State,Matt McQuaid,Steal,0,2
+19:06,Michigan State,Xavier Tillman,Missed Layup,0,2
+19:06,Illinois,Aaron Jordan,Defensive Rebound,0,2
+19:00,Illinois,Trent Frazier,Missed Three Point Jumper,0,2
+19:00,Michigan State,Xavier Tillman,Defensive Rebound,0,2
+18:51,Michigan State,Kyle Ahrens,Layup,2,2
+18:37,Michigan State,Xavier Tillman,Foul,2,2
+18:37,Illinois,Aaron Jordan,Free Throw,2,3
+18:37,Illinois,Aaron Jordan,Free Throw,2,4
+18:19,Michigan State,Cassius Winston,Layup,4,4
+18:02,Illinois,Da'Monte Williams,Missed Three Point Jumper,4,4
+18:02,Michigan State,Matt McQuaid,Defensive Rebound,4,4
+17:56,Michigan State,Cassius Winston,Turnover,4,4
+17:56,Illinois,Trent Frazier,Steal,4,4
+17:45,Illinois,Giorgi Bezhanishvili,Missed Layup,4,4
+17:45,Michigan State,Kenny Goins,Defensive Rebound,4,4
+17:38,Michigan State,Cassius Winston,Missed Three Point Jumper,4,4
+17:38,Illinois,Giorgi Bezhanishvili,Defensive Rebound,4,4
+17:26,Illinois,Aaron Jordan,Three Point Jumper,4,7
+16:58,Michigan State,Kenny Goins,Turnover,4,7
+16:38,Illinois,Giorgi Bezhanishvili,Turnover,4,7
+16:38,Michigan State,Matt McQuaid,Steal,4,7
+16:35,Michigan State,Nick Ward,Turnover,4,7
+16:35,Illinois,Trent Frazier,Steal,4,7
+16:29,Illinois,Trent Frazier,Three Point Jumper,4,10
+16:20,Michigan State,Nick Ward,Layup,6,10
+16:20,Illinois,Tevian Jones,Foul,6,10
+16:20,Michigan State,Nick Ward,Free Throw,7,10
+16:00,Michigan State,Matt McQuaid,Foul,7,10
+16:00,Illinois,None,None,7,10
+16:00,Illinois,Trent Frazier,Free Throw,7,11
+16:00,Illinois,Trent Frazier,Missed Free Throw,7,11
+16:00,Michigan State,Kenny Goins,Defensive Rebound,7,11
+15:44,Michigan State,Aaron Henry,Turnover,7,11
+15:18,Illinois,Giorgi Bezhanishvili,Jumper,7,13
+15:02,Michigan State,Aaron Henry,Turnover,7,13
+14:38,Illinois,Giorgi Bezhanishvili,Missed Jumper,7,13
+14:38,Michigan State,Michigan State,Defensive Rebound,7,13
+14:25,Michigan State,Cassius Winston,Turnover,7,13
+14:19,Illinois,Ayo Dosunmu,Jumper,7,15
+13:59,Illinois,Kipper Nichols,Foul,7,15
+13:59,Michigan State,Xavier Tillman,Free Throw,8,15
+13:59,Michigan State,Xavier Tillman,Free Throw,9,15
+13:39,Illinois,Ayo Dosunmu,Turnover,9,15
+13:33,Michigan State,Nick Ward,Missed Layup,9,15
+13:33,Illinois,Kipper Nichols,Block,9,15
+13:33,Illinois,Giorgi Bezhanishvili,Defensive Rebound,9,15
+13:21,Illinois,Ayo Dosunmu,Three Point Jumper,9,18
+13:03,Illinois,Trent Frazier,Foul,9,18
+13:03,Michigan State,Cassius Winston,Free Throw,10,18
+13:03,Michigan State,Cassius Winston,Free Throw,11,18
+12:52,Illinois,Trent Frazier,Missed Three Point Jumper,11,18
+12:52,Illinois,Da'Monte Williams,Offensive Rebound,11,18
+12:42,Illinois,Da'Monte Williams,Missed Layup,11,18
+12:42,Michigan State,Kyle Ahrens,Defensive Rebound,11,18
+12:17,Michigan State,Xavier Tillman,Jumper,13,18
+11:59,Illinois,Ayo Dosunmu,Turnover,13,18
+11:59,Michigan State,Cassius Winston,Steal,13,18
+11:53,Michigan State,Xavier Tillman,Turnover,13,18
+11:53,Illinois,None,None,13,18
+11:29,Illinois,Andres Feliz,Three Point Jumper,13,21
+11:21,Michigan State,Matt McQuaid,Three Point Jumper,16,21
+10:59,Illinois,Ayo Dosunmu,Missed Jumper,16,21
+10:59,Michigan State,Kyle Ahrens,Defensive Rebound,16,21
+10:38,Illinois,Aaron Jordan,Foul,16,21
+10:27,Michigan State,Cassius Winston,Jumper,18,21
+10:12,Illinois,Kipper Nichols,Missed Three Point Jumper,18,21
+10:12,Illinois,Illinois,Offensive Rebound,18,21
+9:58,Illinois,Andres Feliz,Jumper,18,23
+9:53,Michigan State,None,None,18,23
+9:42,Michigan State,Cassius Winston,Turnover,18,23
+9:42,Illinois,Tevian Jones,Steal,18,23
+9:20,Illinois,Adonis De La Rosa,Jumper,18,25
+9:12,Michigan State,Cassius Winston,Foul,18,25
+9:12,Michigan State,Cassius Winston,Turnover,18,25
+9:00,Illinois,Kipper Nichols,Dunk,18,27
+8:46,Illinois,Adonis De La Rosa,Foul,18,27
+8:35,Michigan State,Nick Ward,Foul,18,27
+8:35,Michigan State,Nick Ward,Turnover,18,27
+8:23,Illinois,Adonis De La Rosa,Foul,18,27
+8:23,Illinois,Adonis De La Rosa,Turnover,18,27
+8:13,Michigan State,Aaron Henry,Turnover,18,27
+8:13,Illinois,Andres Feliz,Steal,18,27
+7:45,Illinois,Ayo Dosunmu,Turnover,18,27
+7:45,Michigan State,Matt McQuaid,Steal,18,27
+7:35,Michigan State,Aaron Henry,Turnover,18,27
+7:35,Illinois,None,None,18,27
+7:08,Illinois,Giorgi Bezhanishvili,Missed Jumper,18,27
+7:08,Michigan State,Xavier Tillman,Defensive Rebound,18,27
+6:48,Michigan State,Kyle Ahrens,Three Point Jumper,21,27
+6:39,Illinois,Tevian Jones,Missed Three Point Jumper,21,27
+6:39,Michigan State,Kyle Ahrens,Defensive Rebound,21,27
+6:25,Michigan State,Cassius Winston,Turnover,21,27
+6:25,Illinois,Kipper Nichols,Steal,21,27
+6:19,Illinois,Ayo Dosunmu,Missed Three Point Jumper,21,27
+6:19,Michigan State,Kenny Goins,Defensive Rebound,21,27
+6:04,Michigan State,Cassius Winston,Turnover,21,27
+6:04,Illinois,Ayo Dosunmu,Steal,21,27
+6:00,Illinois,Ayo Dosunmu,Dunk,21,29
+5:34,Michigan State,Kenny Goins,Turnover,21,29
+5:34,Illinois,Ayo Dosunmu,Steal,21,29
+5:27,Illinois,Ayo Dosunmu,Layup,21,31
+5:25,Michigan State,None,None,21,31
+5:13,Illinois,Kipper Nichols,Foul,21,31
+5:13,Michigan State,Kyle Ahrens,Free Throw,22,31
+5:13,Michigan State,Kyle Ahrens,Free Throw,23,31
+4:54,Illinois,Giorgi Bezhanishvili,Dunk,23,33
+4:31,Illinois,Giorgi Bezhanishvili,Foul,23,33
+4:31,Michigan State,Nick Ward,Free Throw,24,33
+4:31,Michigan State,Nick Ward,Free Throw,25,33
+4:14,Illinois,Ayo Dosunmu,Three Point Jumper,25,36
+3:45,Michigan State,Matt McQuaid,Missed Jumper,25,36
+3:45,Illinois,Da'Monte Williams,Defensive Rebound,25,36
+3:40,Illinois,Ayo Dosunmu,Turnover,25,36
+3:40,Michigan State,Kenny Goins,Steal,25,36
+3:34,Michigan State,Matt McQuaid,Missed Three Point Jumper,25,36
+3:34,Illinois,Giorgi Bezhanishvili,Defensive Rebound,25,36
+3:04,Illinois,Giorgi Bezhanishvili,Jumper,25,38
+2:50,Michigan State,Kenny Goins,Three Point Jumper,28,38
+2:32,Illinois,Aaron Jordan,Missed Three Point Jumper,28,38
+2:32,Michigan State,Cassius Winston,Defensive Rebound,28,38
+2:22,Michigan State,Kyle Ahrens,Missed Three Point Jumper,28,38
+2:22,Illinois,Giorgi Bezhanishvili,Defensive Rebound,28,38
+1:55,Illinois,Trent Frazier,Three Point Jumper,28,41
+1:48,Michigan State,Nick Ward,Layup,30,41
+1:22,Illinois,Giorgi Bezhanishvili,Turnover,30,41
+1:22,Illinois,None,None,30,41
+1:11,Michigan State,Xavier Tillman,Dunk,32,41
+0:53,Illinois,Kipper Nichols,Missed Jumper,32,41
+0:53,Michigan State,Xavier Tillman,Defensive Rebound,32,41
+0:45,Illinois,Andres Feliz,Foul,32,41
+0:45,Michigan State,Cassius Winston,Missed Free Throw,32,41
+0:45,Michigan State,Kyle Ahrens,Offensive Rebound,32,41
+0:41,Michigan State,Kyle Ahrens,Turnover,32,41
+0:41,Illinois,Trent Frazier,Steal,32,41
+0:38,Illinois,Trent Frazier,Missed Three Point Jumper,32,41
+0:38,Illinois,Aaron Jordan,Offensive Rebound,32,41
+0:29,Illinois,None,None,32,41
+0:06,Illinois,Ayo Dosunmu,Missed Three Point Jumper,32,41
+0:06,Illinois,Trent Frazier,Offensive Rebound,32,41
+0:03,Illinois,Trent Frazier,Turnover,32,41
+0:01,Michigan State,Cassius Winston,Missed Three Point Jumper,32,41
+0:01,Illinois,Illinois,Defensive Rebound,32,41
+0:00,Illinois,None,None,32,41
+20:00,Michigan State,None,None,32,41
+19:51,Illinois,Trent Frazier,Foul,32,41
+19:51,Michigan State,Xavier Tillman,Missed Free Throw,32,41
+19:51,Michigan State,None,Team Rebound,32,41
+19:51,Michigan State,Xavier Tillman,Free Throw,33,41
+19:25,Illinois,Trent Frazier,Three Point Jumper,33,44
+19:15,Illinois,Giorgi Bezhanishvili,Foul,33,44
+19:15,Michigan State,Kyle Ahrens,Free Throw,34,44
+19:15,Michigan State,Kyle Ahrens,Free Throw,35,44
+18:48,Illinois,Trent Frazier,Missed Three Point Jumper,35,44
+18:48,Michigan State,Xavier Tillman,Block,35,44
+18:48,Illinois,Da'Monte Williams,Offensive Rebound,35,44
+18:38,Illinois,Da'Monte Williams,Missed Jumper,35,44
+18:38,Michigan State,Matt McQuaid,Defensive Rebound,35,44
+18:30,Michigan State,Cassius Winston,Turnover,35,44
+18:30,Illinois,Da'Monte Williams,Steal,35,44
+18:18,Illinois,Giorgi Bezhanishvili,Jumper,35,46
+17:58,Michigan State,Kyle Ahrens,Missed Three Point Jumper,35,46
+17:58,Illinois,Aaron Jordan,Defensive Rebound,35,46
+17:40,Illinois,Giorgi Bezhanishvili,Dunk,35,48
+17:29,Michigan State,Cassius Winston,Jumper,37,48
+17:02,Illinois,Ayo Dosunmu,Missed Three Point Jumper,37,48
+17:02,Michigan State,Kenny Goins,Defensive Rebound,37,48
+16:52,Illinois,Ayo Dosunmu,Foul,37,48
+16:48,Illinois,Adonis De La Rosa,Foul,37,48
+16:36,Michigan State,Nick Ward,Foul,37,48
+16:36,Michigan State,Nick Ward,Turnover,37,48
+16:17,Illinois,Tevian Jones,Dunk,37,50
+16:17,Michigan State,Matt McQuaid,Foul,37,50
+16:17,Illinois,Tevian Jones,Free Throw,37,51
+16:14,Michigan State,Nick Ward,Layup,39,51
+15:57,Illinois,Andres Feliz,Missed Three Point Jumper,39,51
+15:57,Illinois,Adonis De La Rosa,Offensive Rebound,39,51
+15:51,Illinois,Trent Frazier,Turnover,39,51
+15:50,Illinois,None,None,39,51
+15:37,Michigan State,Cassius Winston,Turnover,39,51
+15:37,Illinois,Andres Feliz,Steal,39,51
+15:32,Illinois,Trent Frazier,Missed Jumper,39,51
+15:32,Illinois,Andres Feliz,Offensive Rebound,39,51
+15:24,Illinois,Andres Feliz,Missed Jumper,39,51
+15:24,Michigan State,Nick Ward,Defensive Rebound,39,51
+15:15,Michigan State,Cassius Winston,Jumper,41,51
+14:58,Illinois,Kipper Nichols,Missed Jumper,41,51
+14:58,Illinois,Andres Feliz,Offensive Rebound,41,51
+14:54,Illinois,Andres Feliz,Jumper,41,53
+14:50,Michigan State,Cassius Winston,Missed Three Point Jumper,41,53
+14:50,Michigan State,Matt McQuaid,Offensive Rebound,41,53
+14:44,Michigan State,Nick Ward,Layup,43,53
+14:15,Illinois,Giorgi Bezhanishvili,Missed Jumper,43,53
+14:15,Illinois,Kipper Nichols,Offensive Rebound,43,53
+13:58,Illinois,Giorgi Bezhanishvili,Jumper,43,55
+13:39,Michigan State,Kyle Ahrens,Missed Jumper,43,55
+13:39,Illinois,Andres Feliz,Defensive Rebound,43,55
+13:34,Michigan State,Matt McQuaid,Foul,43,55
+13:34,Illinois,Trent Frazier,Missed Free Throw,43,55
+13:34,Illinois,None,Team Rebound,43,55
+13:34,Illinois,Trent Frazier,Free Throw,43,56
+13:19,Illinois,Giorgi Bezhanishvili,Foul,43,56
+13:19,Michigan State,Xavier Tillman,Free Throw,44,56
+13:19,Michigan State,Kenny Goins,Turnover,44,56
+13:11,Illinois,Kipper Nichols,Jumper,44,58
+12:53,Michigan State,Xavier Tillman,Layup,46,58
+12:34,Illinois,None,None,46,58
+12:11,Illinois,Ayo Dosunmu,Turnover,46,58
+12:11,Michigan State,Aaron Henry,Steal,46,58
+12:05,Michigan State,Kenny Goins,Missed Three Point Jumper,46,58
+12:05,Illinois,Da'Monte Williams,Defensive Rebound,46,58
+11:57,Michigan State,Kenny Goins,Foul,46,58
+11:57,Illinois,None,None,46,58
+11:48,Illinois,Kipper Nichols,Missed Jumper,46,58
+11:48,Michigan State,Kenny Goins,Defensive Rebound,46,58
+11:30,Michigan State,Kenny Goins,Turnover,46,58
+11:15,Illinois,Da'Monte Williams,Turnover,46,58
+11:06,Michigan State,Aaron Henry,Missed Three Point Jumper,46,58
+11:06,Michigan State,Xavier Tillman,Offensive Rebound,46,58
+11:01,Illinois,Da'Monte Williams,Foul,46,58
+10:48,Michigan State,Xavier Tillman,Turnover,46,58
+10:48,Illinois,Aaron Jordan,Steal,46,58
+10:40,Michigan State,Xavier Tillman,Foul,46,58
+10:32,Illinois,Aaron Jordan,Foul,46,58
+10:32,Illinois,Aaron Jordan,Turnover,46,58
+10:21,Michigan State,Xavier Tillman,Jumper,48,58
+9:48,Michigan State,Cassius Winston,Foul,48,58
+9:28,Illinois,Trent Frazier,Missed Jumper,48,58
+9:28,Michigan State,Kyle Ahrens,Defensive Rebound,48,58
+9:26,Illinois,Andres Feliz,Foul,48,58
+9:26,Michigan State,Kyle Ahrens,Free Throw,49,58
+9:26,Michigan State,Kyle Ahrens,Free Throw,50,58
+9:09,Michigan State,Nick Ward,Foul,50,58
+9:09,Illinois,Giorgi Bezhanishvili,Free Throw,50,59
+9:09,Illinois,Giorgi Bezhanishvili,Missed Free Throw,50,59
+9:09,Michigan State,Kenny Goins,Defensive Rebound,50,59
+9:09,Michigan State,Matt McQuaid,Three Point Jumper,53,59
+8:29,Illinois,Ayo Dosunmu,Missed Jumper,53,59
+8:29,Illinois,Illinois,Offensive Rebound,53,59
+8:25,Michigan State,Matt McQuaid,Foul,53,59
+8:25,Illinois,Ayo Dosunmu,Free Throw,53,60
+8:25,Illinois,Ayo Dosunmu,Free Throw,53,61
+8:14,Illinois,Trent Frazier,Foul,53,61
+8:14,Michigan State,Cassius Winston,Free Throw,54,61
+8:14,Michigan State,Cassius Winston,Free Throw,55,61
+7:49,Illinois,Trent Frazier,Missed Layup,55,61
+7:49,Michigan State,Kyle Ahrens,Defensive Rebound,55,61
+7:42,Michigan State,Aaron Henry,Missed Dunk,55,61
+7:42,Michigan State,Cassius Winston,Offensive Rebound,55,61
+7:35,Michigan State,Cassius Winston,Three Point Jumper,58,61
+7:35,Illinois,None,None,58,61
+7:30,Michigan State,Kenny Goins,Foul,58,61
+7:30,Illinois,Giorgi Bezhanishvili,Free Throw,58,62
+7:30,Illinois,Giorgi Bezhanishvili,Free Throw,58,63
+7:15,Michigan State,Kenny Goins,Three Point Jumper,61,63
+6:45,Illinois,Giorgi Bezhanishvili,Missed Jumper,61,63
+6:45,Michigan State,Xavier Tillman,Defensive Rebound,61,63
+6:21,Michigan State,Kenny Goins,Three Point Jumper,64,63
+5:43,Illinois,Andres Feliz,Missed Jumper,64,63
+5:43,Michigan State,Aaron Henry,Defensive Rebound,64,63
+5:27,Michigan State,Cassius Winston,Missed Jumper,64,63
+5:27,Michigan State,Xavier Tillman,Offensive Rebound,64,63
+5:24,Michigan State,Xavier Tillman,Layup,66,63
+5:24,Illinois,None,None,66,63
+5:12,Michigan State,Cassius Winston,Foul,66,63
+5:12,Illinois,Ayo Dosunmu,Free Throw,66,64
+5:12,Illinois,Ayo Dosunmu,Free Throw,66,65
+4:47,Michigan State,Cassius Winston,Layup,68,65
+4:16,Illinois,Andres Feliz,Layup,68,67
+4:16,Michigan State,Cassius Winston,Foul,68,67
+4:16,Illinois,Andres Feliz,Free Throw,68,68
+3:53,Michigan State,Nick Ward,Missed Jumper,68,68
+3:53,Illinois,Aaron Jordan,Defensive Rebound,68,68
+3:25,Illinois,Aaron Jordan,Missed Three Point Jumper,68,68
+3:25,Michigan State,Kyle Ahrens,Defensive Rebound,68,68
+3:20,Illinois,None,None,68,68
+2:55,Michigan State,Cassius Winston,Missed Jumper,68,68
+2:55,Michigan State,Xavier Tillman,Offensive Rebound,68,68
+2:48,Michigan State,Kyle Ahrens,Missed Three Point Jumper,68,68
+2:48,Illinois,Aaron Jordan,Block,68,68
+2:48,Illinois,Giorgi Bezhanishvili,Defensive Rebound,68,68
+2:35,Illinois,Ayo Dosunmu,Three Point Jumper,68,71
+2:20,Michigan State,Kyle Ahrens,Turnover,68,71
+2:20,Illinois,Ayo Dosunmu,Steal,68,71
+1:57,Illinois,Ayo Dosunmu,Three Point Jumper,68,74
+1:52,Michigan State,None,None,68,74
+1:38,Michigan State,Kyle Ahrens,Missed Three Point Jumper,68,74
+1:38,Illinois,Ayo Dosunmu,Defensive Rebound,68,74
+1:06,Illinois,Ayo Dosunmu,Missed Three Point Jumper,68,74
+1:06,Illinois,Illinois,Offensive Rebound,68,74
+1:06,Illinois,Illinois ,Turnover,68,74
+0:57,Illinois,Giorgi Bezhanishvili,Foul,68,74
+0:57,Michigan State,Cassius Winston,Free Throw,69,74
+0:57,Michigan State,Cassius Winston,Free Throw,70,74
+0:57,Michigan State,None,None,70,74
+0:55,Michigan State,Kenny Goins,Foul,70,74
+0:55,Illinois,Trent Frazier,Free Throw,70,75
+0:55,Illinois,Trent Frazier,Free Throw,70,76
+0:47,Illinois,Trent Frazier,Foul,70,76
+0:47,Michigan State,Cassius Winston,Free Throw,71,76
+0:47,Michigan State,Cassius Winston,Free Throw,72,76
+0:47,Michigan State,Xavier Tillman,Foul,72,76
+0:47,Illinois,Giorgi Bezhanishvili,Missed Free Throw,72,76
+0:47,Illinois,None,Team Rebound,72,76
+0:47,Illinois,Giorgi Bezhanishvili,Free Throw,72,77
+0:40,Michigan State,Cassius Winston,Missed Layup,72,77
+0:40,Illinois,Kipper Nichols,Block,72,77
+0:40,Michigan State,Michigan State,Offensive Rebound,72,77
+0:27,Michigan State,Cassius Winston,Missed Three Point Jumper,72,77
+0:27,Michigan State,Xavier Tillman,Offensive Rebound,72,77
+0:25,Illinois,Kipper Nichols,Foul,72,77
+0:25,Michigan State,Xavier Tillman,Free Throw,73,77
+0:25,Michigan State,Xavier Tillman,Free Throw,74,77
+0:24,Michigan State,Gabe Brown,Foul,74,77
+0:24,Illinois,Trent Frazier,Free Throw,74,78
+0:24,Illinois,Trent Frazier,Free Throw,74,79
+0:09,Michigan State,Kenny Goins,Missed Three Point Jumper,74,79
+0:09,Illinois,Trent Frazier,Defensive Rebound,74,79
+0:00,Illinois,None,None,74,79

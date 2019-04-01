@@ -1,0 +1,354 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:55,South Florida,LaQuincy Rideau,Turnover,0,0
+19:38,Stetson,Abayomi Iyiola,Jumper,2,0
+19:18,South Florida,Michael Durr,Layup,2,2
+19:00,Stetson,Leo Goodman,Missed Jumper,2,2
+19:00,South Florida,Alexis Yetna,Block,2,2
+18:55,South Florida,Alexis Yetna,Defensive Rebound,2,2
+18:52,South Florida,T.J. Lang,Layup,2,4
+18:41,Stetson,Abayomi Iyiola,Missed Jumper,2,4
+18:41,South Florida,Michael Durr,Defensive Rebound,2,4
+18:18,Stetson,Leo Goodman,Foul,2,4
+18:18,South Florida,LaQuincy Rideau,Free Throw,2,5
+18:18,South Florida,LaQuincy Rideau,Free Throw,2,6
+17:58,Stetson,Leo Goodman,Layup,4,6
+17:40,South Florida,Alexis Yetna,Missed Layup,4,6
+17:40,South Florida,Alexis Yetna,Offensive Rebound,4,6
+17:38,Stetson,Kenny Aninye,Foul,4,6
+17:38,South Florida,Alexis Yetna,Free Throw,4,7
+17:38,South Florida,Alexis Yetna,Free Throw,4,8
+17:28,Stetson,Abayomi Iyiola,Layup,6,8
+17:28,South Florida,T.J. Lang,Foul,6,8
+17:28,Stetson,Abayomi Iyiola,Missed Free Throw,6,8
+17:28,South Florida,Alexis Yetna,Defensive Rebound,6,8
+17:05,South Florida,Michael Durr,Missed Layup,6,8
+17:05,Stetson,Abayomi Iyiola,Block,6,8
+17:04,South Florida,Alexis Yetna,Offensive Rebound,6,8
+16:56,South Florida,David Collins,Missed Layup,6,8
+16:56,Stetson,Abayomi Iyiola,Defensive Rebound,6,8
+16:51,Stetson,Christiaan Jones,Dunk,8,8
+16:32,Stetson,Kenny Aninye,Foul,8,8
+16:28,South Florida,T.J. Lang,Three Point Jumper,8,11
+15:56,Stetson,Jahlil Rawley,Jumper,10,11
+15:42,South Florida,T.J. Lang,Missed Three Point Jumper,10,11
+15:42,Stetson,Abayomi Iyiola,Defensive Rebound,10,11
+15:28,Stetson,Abayomi Iyiola,Layup,12,11
+15:07,South Florida,Alexis Yetna,Jumper,12,13
+14:45,Stetson,Marques Sumner,Three Point Jumper,15,13
+14:24,South Florida,Alexis Yetna,Turnover,15,13
+14:21,Stetson,Christiaan Jones,Steal,15,13
+14:18,Stetson,Leo Goodman,Missed Three Point Jumper,15,13
+14:18,South Florida,LaQuincy Rideau,Defensive Rebound,15,13
+14:03,South Florida,LaQuincy Rideau,Missed Three Point Jumper,15,13
+14:03,South Florida,Antun Maricevic,Offensive Rebound,15,13
+13:59,Stetson,Christiaan Jones,Foul,15,13
+13:59,South Florida,None,None,15,13
+13:56,South Florida,Mayan Kiir,Turnover,15,13
+13:56,Stetson,Jahlil Rawley,Steal,15,13
+13:26,Stetson,Stetson ,Turnover,15,13
+13:05,South Florida,Mayan Kiir,Missed Layup,15,13
+13:05,Stetson,Stetson,Defensive Rebound,15,13
+13:00,Stetson,Jahlil Rawley,Turnover,15,13
+12:58,South Florida,Justin Brown,Steal,15,13
+12:55,South Florida,LaQuincy Rideau,Layup,15,15
+12:42,Stetson,Ricardo Lynch,Missed Layup,15,15
+12:42,South Florida,Antun Maricevic,Block,15,15
+12:40,South Florida,Justin Brown,Defensive Rebound,15,15
+12:26,South Florida,Mayan Kiir,Layup,15,17
+12:26,Stetson,Ricardo Lynch,Foul,15,17
+12:26,South Florida,Mayan Kiir,Missed Free Throw,15,17
+12:26,Stetson,Ricardo Lynch,Defensive Rebound,15,17
+12:00,Stetson,Jahlil Rawley,Missed Jumper,15,17
+12:00,Stetson,Jahlil Rawley,Offensive Rebound,15,17
+11:34,Stetson,Raine McKeython,Missed Layup,15,17
+11:34,Stetson,Stetson,Offensive Rebound,15,17
+11:33,South Florida,Antun Maricevic,Foul,15,17
+11:33,South Florida,None,None,15,17
+11:21,Stetson,Ricardo Lynch,Missed Three Point Jumper,15,17
+11:21,South Florida,LaQuincy Rideau,Defensive Rebound,15,17
+11:15,Stetson,Ricardo Lynch,Foul,15,17
+11:08,South Florida,Mayan Kiir,Turnover,15,17
+11:06,Stetson,Clay Verk,Steal,15,17
+11:03,Stetson,Christiaan Jones,Missed Layup,15,17
+11:03,South Florida,David Collins,Block,15,17
+11:01,Stetson,Christiaan Jones,Offensive Rebound,15,17
+10:56,Stetson,Leo Goodman,Jumper,17,17
+10:30,Stetson,Clay Verk,Foul,17,17
+10:30,South Florida,Michael Durr,Missed Free Throw,17,17
+10:30,South Florida,None,Team Rebound,17,17
+10:30,South Florida,Michael Durr,Missed Free Throw,17,17
+10:30,Stetson,Leo Goodman,Defensive Rebound,17,17
+10:14,Stetson,Christiaan Jones,Missed Three Point Jumper,17,17
+10:14,South Florida,Michael Durr,Defensive Rebound,17,17
+10:05,South Florida,David Collins,Layup,17,19
+9:33,Stetson,Christiaan Jones,Three Point Jumper,20,19
+9:18,South Florida,Xavier Castaneda,Missed Layup,20,19
+9:18,Stetson,Clay Verk,Defensive Rebound,20,19
+9:04,Stetson,Leo Goodman,Missed Three Point Jumper,20,19
+9:04,South Florida,David Collins,Defensive Rebound,20,19
+8:53,South Florida,David Collins,Missed Jumper,20,19
+8:53,South Florida,Michael Durr,Offensive Rebound,20,19
+8:49,South Florida,Michael Durr,Turnover,20,19
+8:48,Stetson,Marques Sumner,Steal,20,19
+8:40,Stetson,Jahlil Rawley,Jumper,22,19
+8:28,South Florida,Alexis Yetna,Dunk,22,21
+8:19,Stetson,Marques Sumner,Missed Jumper,22,21
+8:19,South Florida,Justin Brown,Defensive Rebound,22,21
+8:05,Stetson,Leo Goodman,Foul,22,21
+8:05,South Florida,Alexis Yetna,Free Throw,22,22
+8:05,South Florida,Alexis Yetna,Missed Free Throw,22,22
+8:05,South Florida,Alexis Yetna,Offensive Rebound,22,22
+7:40,South Florida,LaQuincy Rideau,Missed Layup,22,22
+7:40,Stetson,Abayomi Iyiola,Block,22,22
+7:38,Stetson,Abayomi Iyiola,Defensive Rebound,22,22
+7:25,South Florida,Alexis Yetna,Foul,22,22
+7:25,South Florida,None,None,22,22
+7:25,Stetson,Abayomi Iyiola,Missed Free Throw,22,22
+7:25,Stetson,None,Team Rebound,22,22
+7:25,Stetson,Abayomi Iyiola,Free Throw,23,22
+7:12,South Florida,T.J. Lang,Missed Three Point Jumper,23,22
+7:12,Stetson,Jahlil Rawley,Defensive Rebound,23,22
+7:01,Stetson,Ricardo Lynch,Missed Layup,23,22
+7:01,South Florida,Michael Durr,Block,23,22
+7:00,South Florida,South Florida,Defensive Rebound,23,22
+6:48,South Florida,Alexis Yetna,Layup,23,24
+6:35,Stetson,Abayomi Iyiola,Layup,25,24
+6:26,South Florida,Alexis Yetna,Three Point Jumper,25,27
+5:57,Stetson,Marques Sumner,Three Point Jumper,28,27
+5:25,South Florida,LaQuincy Rideau,Three Point Jumper,28,30
+5:04,South Florida,LaQuincy Rideau,Foul,28,30
+5:04,Stetson,Abayomi Iyiola,Free Throw,29,30
+5:04,Stetson,Abayomi Iyiola,Free Throw,30,30
+4:51,Stetson,Jahlil Rawley,Foul,30,30
+4:51,South Florida,Antun Maricevic,Free Throw,30,31
+4:51,South Florida,Antun Maricevic,Free Throw,30,32
+4:24,Stetson,Christiaan Jones,Missed Three Point Jumper,30,32
+4:24,South Florida,LaQuincy Rideau,Defensive Rebound,30,32
+4:16,South Florida,Alexis Yetna,Missed Layup,30,32
+4:16,South Florida,Justin Brown,Offensive Rebound,30,32
+4:11,South Florida,Justin Brown,Turnover,30,32
+4:07,Stetson,Jahlil Rawley,Foul,30,32
+4:07,Stetson,Jahlil Rawley,Turnover,30,32
+3:41,South Florida,LaQuincy Rideau,Three Point Jumper,30,35
+3:28,Stetson,Christiaan Jones,Turnover,30,35
+3:27,South Florida,David Collins,Steal,30,35
+3:18,South Florida,Alexis Yetna,Missed Layup,30,35
+3:18,South Florida,Antun Maricevic,Offensive Rebound,30,35
+3:16,Stetson,Abayomi Iyiola,Foul,30,35
+3:16,South Florida,None,None,30,35
+3:16,South Florida,Antun Maricevic,Missed Free Throw,30,35
+3:16,South Florida,None,Team Rebound,30,35
+3:16,South Florida,Antun Maricevic,Free Throw,30,36
+2:53,Stetson,Christiaan Jones,Missed Three Point Jumper,30,36
+2:53,Stetson,Stetson,Offensive Rebound,30,36
+2:49,Stetson,Marques Sumner,Missed Three Point Jumper,30,36
+2:49,Stetson,Abayomi Iyiola,Offensive Rebound,30,36
+2:23,Stetson,Ricardo Lynch,Missed Three Point Jumper,30,36
+2:23,Stetson,Marques Sumner,Offensive Rebound,30,36
+2:17,Stetson,Abayomi Iyiola,Missed Jumper,30,36
+2:17,Stetson,Christiaan Jones,Offensive Rebound,30,36
+2:14,Stetson,Christiaan Jones,Layup,32,36
+2:12,South Florida,None,None,32,36
+1:46,South Florida,LaQuincy Rideau,Missed Three Point Jumper,32,36
+1:46,Stetson,Marques Sumner,Defensive Rebound,32,36
+1:35,Stetson,Abayomi Iyiola,Layup,34,36
+0:56,South Florida,T.J. Lang,Missed Three Point Jumper,34,36
+0:56,Stetson,Jahlil Rawley,Defensive Rebound,34,36
+0:54,South Florida,Nikola Scekic,Foul,34,36
+0:45,Stetson,Jahlil Rawley,Turnover,34,36
+0:44,South Florida,LaQuincy Rideau,Steal,34,36
+0:42,Stetson,Jahlil Rawley,Foul,34,36
+0:42,South Florida,LaQuincy Rideau,Free Throw,34,37
+0:42,South Florida,LaQuincy Rideau,Free Throw,34,38
+0:31,Stetson,Kenny Aninye,Turnover,34,38
+0:30,South Florida,LaQuincy Rideau,Steal,34,38
+0:27,South Florida,Nikola Scekic,Dunk,34,40
+0:20,Stetson,None,None,34,40
+0:05,Stetson,Abayomi Iyiola,Missed Jumper,34,40
+0:05,South Florida,Antun Maricevic,Defensive Rebound,34,40
+0:00,South Florida,LaQuincy Rideau,Missed Three Point Jumper,34,40
+0:00,Stetson,Stetson,Defensive Rebound,34,40
+0:00,South Florida,None,None,34,40
+19:50,Stetson,Abayomi Iyiola,Jumper,36,40
+19:32,South Florida,David Collins,Layup,36,42
+19:12,Stetson,Christiaan Jones,Jumper,38,42
+18:54,South Florida,T.J. Lang,Layup,38,44
+18:37,Stetson,Kenny Aninye,Turnover,38,44
+18:36,South Florida,David Collins,Steal,38,44
+18:33,South Florida,David Collins,Layup,38,46
+18:24,Stetson,Abayomi Iyiola,Missed Layup,38,46
+18:24,South Florida,Michael Durr,Block,38,46
+18:23,Stetson,Abayomi Iyiola,Offensive Rebound,38,46
+18:21,Stetson,Abayomi Iyiola,Missed Layup,38,46
+18:21,South Florida,Alexis Yetna,Defensive Rebound,38,46
+18:15,South Florida,LaQuincy Rideau,Turnover,38,46
+18:14,Stetson,Christiaan Jones,Steal,38,46
+18:11,Stetson,Marques Sumner,Missed Layup,38,46
+18:11,South Florida,David Collins,Defensive Rebound,38,46
+17:55,Stetson,Kenny Aninye,Foul,38,46
+17:55,South Florida,Michael Durr,Foul,38,46
+17:55,South Florida,Michael Durr,Turnover,38,46
+17:34,Stetson,Marques Sumner,Three Point Jumper,41,46
+17:13,South Florida,Alexis Yetna,Layup,41,48
+16:53,Stetson,Marques Sumner,Missed Layup,41,48
+16:53,Stetson,Abayomi Iyiola,Offensive Rebound,41,48
+16:50,Stetson,Abayomi Iyiola,Layup,43,48
+16:29,South Florida,T.J. Lang,Missed Three Point Jumper,43,48
+16:29,Stetson,Marques Sumner,Defensive Rebound,43,48
+16:23,South Florida,David Collins,Foul,43,48
+16:23,Stetson,Kenny Aninye,Free Throw,44,48
+16:23,Stetson,Kenny Aninye,Missed Free Throw,44,48
+16:23,South Florida,Alexis Yetna,Defensive Rebound,44,48
+16:08,South Florida,David Collins,Missed Three Point Jumper,44,48
+16:08,Stetson,Kenny Aninye,Defensive Rebound,44,48
+16:01,Stetson,Kenny Aninye,Turnover,44,48
+16:00,South Florida,David Collins,Steal,44,48
+15:34,South Florida,LaQuincy Rideau,Turnover,44,48
+15:34,Stetson,Abayomi Iyiola,Steal,44,48
+15:34,South Florida,None,None,44,48
+15:15,Stetson,Kenny Aninye,Turnover,44,48
+15:15,South Florida,David Collins,Steal,44,48
+15:01,South Florida,David Collins,Missed Jumper,44,48
+15:01,Stetson,Christiaan Jones,Defensive Rebound,44,48
+14:51,Stetson,Abayomi Iyiola,Layup,46,48
+14:31,South Florida,Antun Maricevic,Layup,46,50
+14:14,Stetson,Marques Sumner,Missed Jumper,46,50
+14:14,South Florida,T.J. Lang,Defensive Rebound,46,50
+14:06,South Florida,Antun Maricevic,Layup,46,52
+14:06,Stetson,Abayomi Iyiola,Foul,46,52
+14:06,South Florida,Antun Maricevic,Free Throw,46,53
+13:55,South Florida,Mayan Kiir,Foul,46,53
+13:38,Stetson,Adam Webb,Foul,46,53
+13:38,Stetson,Adam Webb,Turnover,46,53
+13:27,South Florida,Justin Brown,Missed Three Point Jumper,46,53
+13:27,South Florida,Mayan Kiir,Offensive Rebound,46,53
+13:23,Stetson,Ricardo Lynch,Foul,46,53
+13:23,South Florida,Mayan Kiir,Free Throw,46,54
+13:23,South Florida,Mayan Kiir,Free Throw,46,55
+13:00,Stetson,Christiaan Jones,Layup,48,55
+13:00,South Florida,Mayan Kiir,Foul,48,55
+13:00,Stetson,Christiaan Jones,Free Throw,49,55
+12:47,South Florida,Mayan Kiir,Three Point Jumper,49,58
+12:22,Stetson,Ricardo Lynch,Turnover,49,58
+12:20,South Florida,LaQuincy Rideau,Steal,49,58
+12:16,South Florida,Justin Brown,Missed Three Point Jumper,49,58
+12:16,South Florida,Mayan Kiir,Offensive Rebound,49,58
+12:12,South Florida,Mayan Kiir,Missed Layup,49,58
+12:12,South Florida,Xavier Castaneda,Offensive Rebound,49,58
+11:52,South Florida,LaQuincy Rideau,Missed Layup,49,58
+11:52,Stetson,Adam Webb,Block,49,58
+11:52,South Florida,South Florida,Offensive Rebound,49,58
+11:51,South Florida,None,None,49,58
+11:43,Stetson,Jahlil Rawley,Foul,49,58
+11:28,South Florida,David Collins,Turnover,49,58
+11:13,Stetson,Raine McKeython,Three Point Jumper,52,58
+10:49,South Florida,Mayan Kiir,Missed Layup,52,58
+10:49,Stetson,Adam Webb,Block,52,58
+10:48,South Florida,Justin Brown,Offensive Rebound,52,58
+10:47,Stetson,Kenny Aninye,Foul,52,58
+10:47,South Florida,Justin Brown,Free Throw,52,59
+10:47,South Florida,Justin Brown,Free Throw,52,60
+10:33,Stetson,Leo Goodman,Missed Three Point Jumper,52,60
+10:33,Stetson,Raine McKeython,Offensive Rebound,52,60
+10:30,Stetson,Raine McKeython,Layup,54,60
+10:04,South Florida,Xavier Castaneda,Missed Layup,54,60
+10:04,Stetson,Adam Webb,Block,54,60
+10:02,South Florida,Xavier Castaneda,Offensive Rebound,54,60
+10:00,South Florida,Justin Brown,Missed Jumper,54,60
+10:00,South Florida,Antun Maricevic,Offensive Rebound,54,60
+10:00,Stetson,Raine McKeython,Foul,54,60
+10:00,South Florida,Antun Maricevic,Free Throw,54,61
+10:00,South Florida,Antun Maricevic,Free Throw,54,62
+9:53,Stetson,Adam Webb,Turnover,54,62
+9:45,South Florida,David Collins,Layup,54,64
+9:25,Stetson,Raine McKeython,Missed Three Point Jumper,54,64
+9:25,South Florida,David Collins,Defensive Rebound,54,64
+9:15,South Florida,Mayan Kiir,Missed Layup,54,64
+9:15,Stetson,Raine McKeython,Block,54,64
+9:14,Stetson,Kenny Aninye,Defensive Rebound,54,64
+9:13,South Florida,David Collins,Foul,54,64
+9:12,Stetson,Abayomi Iyiola,Layup,56,64
+9:12,South Florida,Mayan Kiir,Foul,56,64
+9:12,Stetson,Abayomi Iyiola,Free Throw,57,64
+8:44,South Florida,David Collins,Missed Layup,57,64
+8:44,South Florida,Michael Durr,Offensive Rebound,57,64
+8:42,Stetson,Abayomi Iyiola,Foul,57,64
+8:42,South Florida,Michael Durr,Free Throw,57,65
+8:42,South Florida,Michael Durr,Missed Free Throw,57,65
+8:42,Stetson,Leo Goodman,Defensive Rebound,57,65
+8:21,Stetson,Leo Goodman,Layup,59,65
+8:08,South Florida,David Collins,Turnover,59,65
+7:47,Stetson,Raine McKeython,Turnover,59,65
+7:46,South Florida,None,None,59,65
+7:21,South Florida,Alexis Yetna,Turnover,59,65
+7:08,Stetson,Leo Goodman,Missed Layup,59,65
+7:08,South Florida,Michael Durr,Defensive Rebound,59,65
+7:01,South Florida,LaQuincy Rideau,Turnover,59,65
+7:00,Stetson,Abayomi Iyiola,Steal,59,65
+6:49,South Florida,Michael Durr,Foul,59,65
+6:49,Stetson,Abayomi Iyiola,Free Throw,60,65
+6:49,Stetson,Abayomi Iyiola,Missed Free Throw,60,65
+6:49,South Florida,Alexis Yetna,Defensive Rebound,60,65
+6:31,South Florida,David Collins,Missed Three Point Jumper,60,65
+6:31,Stetson,Stetson,Defensive Rebound,60,65
+6:16,Stetson,Christiaan Jones,Layup,62,65
+5:51,South Florida,David Collins,Layup,62,67
+5:31,Stetson,Abayomi Iyiola,Layup,64,67
+5:23,Stetson,Abayomi Iyiola,Foul,64,67
+5:23,South Florida,David Collins,Missed Free Throw,64,67
+5:23,South Florida,Alexis Yetna,Offensive Rebound,64,67
+5:19,South Florida,Alexis Yetna,Missed Layup,64,67
+5:19,Stetson,Abayomi Iyiola,Block,64,67
+5:19,South Florida,South Florida,Offensive Rebound,64,67
+5:15,South Florida,T.J. Lang,Three Point Jumper,64,70
+4:55,Stetson,Christiaan Jones,Three Point Jumper,67,70
+4:53,Stetson,None,None,67,70
+4:53,South Florida,None,None,67,70
+4:25,Stetson,Clay Verk,Foul,67,70
+4:25,South Florida,T.J. Lang,Free Throw,67,71
+4:25,South Florida,T.J. Lang,Missed Free Throw,67,71
+4:25,Stetson,Christiaan Jones,Defensive Rebound,67,71
+4:02,Stetson,Marques Sumner,Turnover,67,71
+4:01,South Florida,David Collins,Steal,67,71
+3:57,South Florida,None,None,67,71
+3:38,South Florida,Alexis Yetna,Layup,67,73
+3:21,South Florida,LaQuincy Rideau,Foul,67,73
+3:21,Stetson,Abayomi Iyiola,Free Throw,68,73
+3:21,Stetson,Abayomi Iyiola,Missed Free Throw,68,73
+3:21,South Florida,Alexis Yetna,Defensive Rebound,68,73
+3:05,South Florida,David Collins,Missed Layup,68,73
+3:05,Stetson,Abayomi Iyiola,Block,68,73
+3:05,South Florida,South Florida,Offensive Rebound,68,73
+2:50,South Florida,South Florida ,Turnover,68,73
+2:32,Stetson,Christiaan Jones,Three Point Jumper,71,73
+2:07,Stetson,Abayomi Iyiola,Foul,71,73
+2:07,Stetson,None,None,71,73
+2:07,South Florida,Alexis Yetna,Missed Free Throw,71,73
+2:07,South Florida,None,Team Rebound,71,73
+2:07,South Florida,Alexis Yetna,Free Throw,71,74
+1:40,Stetson,Adam Webb,Foul,71,74
+1:40,Stetson,Adam Webb,Turnover,71,74
+1:22,South Florida,LaQuincy Rideau,Missed Layup,71,74
+1:22,Stetson,Marques Sumner,Defensive Rebound,71,74
+0:53,Stetson,Christiaan Jones,Missed Three Point Jumper,71,74
+0:53,South Florida,David Collins,Defensive Rebound,71,74
+0:25,South Florida,LaQuincy Rideau,Missed Three Point Jumper,71,74
+0:25,Stetson,Christiaan Jones,Defensive Rebound,71,74
+0:17,Stetson,Marques Sumner,Missed Three Point Jumper,71,74
+0:17,South Florida,Alexis Yetna,Defensive Rebound,71,74
+0:14,Stetson,Adam Webb,Foul,71,74
+0:14,South Florida,Alexis Yetna,Missed Free Throw,71,74
+0:14,South Florida,None,Team Rebound,71,74
+0:14,South Florida,Alexis Yetna,Missed Free Throw,71,74
+0:14,Stetson,Leo Goodman,Defensive Rebound,71,74
+0:10,South Florida,T.J. Lang,Foul,71,74
+0:10,Stetson,Christiaan Jones,Missed Free Throw,71,74
+0:10,South Florida,Alexis Yetna,Defensive Rebound,71,74
+0:09,Stetson,Adam Webb,Foul,71,74
+0:09,South Florida,Alexis Yetna,Missed Free Throw,71,74
+0:09,South Florida,None,Team Rebound,71,74
+0:09,South Florida,Alexis Yetna,Free Throw,71,75
+0:09,South Florida,None,None,71,75
+0:05,Stetson,Raine McKeython,Missed Three Point Jumper,71,75
+0:05,South Florida,Alexis Yetna,Defensive Rebound,71,75
+0:00,South Florida,None,None,71,75

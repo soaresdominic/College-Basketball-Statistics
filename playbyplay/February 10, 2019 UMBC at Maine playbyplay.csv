@@ -1,0 +1,290 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:45,UMBC,K.J. Jackson,Turnover,0,0
+19:43,Maine,Sergio El Darwich,Steal,0,0
+19:41,Maine,Sergio El Darwich,Dunk,0,2
+19:36,UMBC,K.J. Jackson,Foul,0,2
+19:36,Maine,Sergio El Darwich,Missed Free Throw,0,2
+19:36,UMBC,Joe Sherburne,Defensive Rebound,0,2
+19:26,UMBC,Joe Sherburne,Missed Three Point Jumper,0,2
+19:26,Maine,Sergio El Darwich,Defensive Rebound,0,2
+18:59,Maine,Sergio El Darwich,Missed Jumper,0,2
+18:59,UMBC,Arkel Lamar,Defensive Rebound,0,2
+18:47,UMBC,K.J. Jackson,Missed Three Point Jumper,0,2
+18:47,UMBC,Joe Sherburne,Offensive Rebound,0,2
+18:43,UMBC,Joe Sherburne,Layup,2,2
+18:23,Maine,Vilgot Larsson,Turnover,2,2
+18:20,UMBC,Arkel Lamar,Steal,2,2
+18:11,UMBC,Nolan Gerrity,Layup,4,2
+17:55,Maine,Andrew Fleming,Three Point Jumper,4,5
+17:39,UMBC,Joe Sherburne,Turnover,4,5
+17:38,Maine,Sergio El Darwich,Steal,4,5
+17:35,Maine,Isaiah White,Layup,4,7
+17:16,UMBC,Arkel Lamar,Missed Three Point Jumper,4,7
+17:16,UMBC,Joe Sherburne,Offensive Rebound,4,7
+17:13,UMBC,Joe Sherburne,Layup,6,7
+16:43,Maine,Isaiah White,Missed Three Point Jumper,6,7
+16:43,UMBC,Joe Sherburne,Defensive Rebound,6,7
+16:20,UMBC,Joe Sherburne,Missed Three Point Jumper,6,7
+16:20,Maine,Isaiah White,Defensive Rebound,6,7
+16:04,UMBC,Nolan Gerrity,Foul,6,7
+16:02,Maine,Isaiah White,Jumper,6,9
+15:44,UMBC,Nolan Gerrity,Dunk,8,9
+15:27,Maine,Vincent Eze,Jumper,8,11
+15:11,UMBC,Joe Sherburne,Turnover,8,11
+15:11,Maine,None,None,8,11
+14:50,Maine,Sergio El Darwich,Turnover,8,11
+14:41,UMBC,Joe Sherburne,Three Point Jumper,11,11
+14:13,Maine,Vincent Eze,Missed Jumper,11,11
+14:13,UMBC,Joe Sherburne,Block,11,11
+14:11,UMBC,R.J. Eytle-Rock,Defensive Rebound,11,11
+13:56,UMBC,Arkel Lamar,Missed Three Point Jumper,11,11
+13:56,UMBC,Joe Sherburne,Offensive Rebound,11,11
+13:37,UMBC,Arkel Lamar,Missed Jumper,11,11
+13:37,Maine,Isaiah White,Defensive Rebound,11,11
+13:20,Maine,Isaiah White,Three Point Jumper,11,14
+12:56,UMBC,K.J. Jackson,Missed Three Point Jumper,11,14
+12:56,UMBC,UMBC,Offensive Rebound,11,14
+12:45,UMBC,Jose Placer,Missed Three Point Jumper,11,14
+12:45,Maine,Vilgot Larsson,Defensive Rebound,11,14
+12:29,Maine,Vilgot Larsson,Three Point Jumper,11,17
+12:10,UMBC,Arkel Lamar,Turnover,11,17
+11:51,Maine,Vincent Eze,Dunk,11,19
+11:25,UMBC,Nolan Gerrity,Turnover,11,19
+11:24,Maine,Andrew Fleming,Steal,11,19
+11:18,Maine,Sergio El Darwich,Turnover,11,19
+11:15,UMBC,Jose Placer,Steal,11,19
+10:54,Maine,Vilgot Larsson,Foul,11,19
+10:54,Maine,None,None,11,19
+10:37,UMBC,Jose Placer,Jumper,13,19
+10:18,UMBC,Jose Placer,Foul,13,19
+10:04,Maine,Andrew Fleming,Missed Three Point Jumper,13,19
+10:04,UMBC,Joe Sherburne,Defensive Rebound,13,19
+9:59,UMBC,Joe Sherburne,Turnover,13,19
+9:58,Maine,Sergio El Darwich,Steal,13,19
+9:56,Maine,Vilgot Larsson,Missed Three Point Jumper,13,19
+9:56,UMBC,Nolan Gerrity,Defensive Rebound,13,19
+9:46,UMBC,Joe Sherburne,Turnover,13,19
+9:45,Maine,Isaiah White,Steal,13,19
+9:36,UMBC,R.J. Eytle-Rock,Foul,13,19
+9:29,Maine,Vincent Eze,Foul,13,19
+9:29,Maine,Vincent Eze,Turnover,13,19
+9:16,UMBC,K.J. Jackson,Layup,15,19
+8:54,Maine,Andrew Fleming,Missed Jumper,15,19
+8:54,Maine,Andrew Fleming,Offensive Rebound,15,19
+8:42,Maine,Isaiah White,Turnover,15,19
+8:40,UMBC,K.J. Jackson,Steal,15,19
+8:28,UMBC,Joe Sherburne,Missed Three Point Jumper,15,19
+8:28,Maine,Andrew Fleming,Defensive Rebound,15,19
+8:21,UMBC,Joe Sherburne,Foul,15,19
+8:11,Maine,Sergio El Darwich,Missed Three Point Jumper,15,19
+8:11,UMBC,Joe Sherburne,Defensive Rebound,15,19
+8:05,UMBC,Ricky Council II,Dunk,17,19
+8:05,Maine,Sergio El Darwich,Foul,17,19
+8:05,UMBC,Ricky Council II,Free Throw,18,19
+7:38,Maine,Sergio El Darwich,Missed Three Point Jumper,18,19
+7:38,Maine,Andrew Fleming,Offensive Rebound,18,19
+7:35,Maine,Andrew Fleming,Layup,18,21
+7:18,Maine,None,None,18,21
+7:17,UMBC,Joe Sherburne,Jumper,20,21
+7:03,Maine,Isaiah White,Three Point Jumper,20,24
+6:46,UMBC,Ricky Council II,Jumper,22,24
+6:21,Maine,Isaiah White,Missed Three Point Jumper,22,24
+6:21,UMBC,Arkel Lamar,Defensive Rebound,22,24
+6:15,UMBC,Joe Sherburne,Missed Layup,22,24
+6:15,Maine,Isaiah White,Defensive Rebound,22,24
+6:06,Maine,Andrew Fleming,Turnover,22,24
+5:45,UMBC,R.J. Eytle-Rock,Turnover,22,24
+5:23,Maine,Miks Antoms,Missed Jumper,22,24
+5:23,UMBC,R.J. Eytle-Rock,Defensive Rebound,22,24
+5:13,UMBC,Ricky Council II,Missed Three Point Jumper,22,24
+5:13,Maine,Isaiah White,Defensive Rebound,22,24
+4:49,Maine,Miks Antoms,Turnover,22,24
+4:48,UMBC,Ricky Council II,Steal,22,24
+4:35,UMBC,Arkel Lamar,Missed Three Point Jumper,22,24
+4:35,Maine,Sergio El Darwich,Defensive Rebound,22,24
+4:29,Maine,Andrew Fleming,Layup,22,26
+4:04,UMBC,Ricky Council II,Missed Three Point Jumper,22,26
+4:04,UMBC,UMBC,Offensive Rebound,22,26
+3:43,UMBC,K.J. Jackson,Three Point Jumper,25,26
+3:25,Maine,Vilgot Larsson,Missed Three Point Jumper,25,26
+3:25,UMBC,K.J. Jackson,Defensive Rebound,25,26
+3:17,UMBC,K.J. Jackson,Layup,27,26
+3:04,Maine,Vilgot Larsson,Turnover,27,26
+3:04,Maine,None,None,27,26
+2:41,UMBC,Ricky Council II,Missed Three Point Jumper,27,26
+2:41,Maine,Maine,Defensive Rebound,27,26
+2:06,Maine,Isaiah White,Layup,27,28
+1:52,Maine,Sergio El Darwich,Foul,27,28
+1:35,UMBC,K.J. Jackson,Missed Three Point Jumper,27,28
+1:35,Maine,Isaiah White,Defensive Rebound,27,28
+1:27,Maine,Sergio El Darwich,Layup,27,30
+1:06,UMBC,Ricky Council II,Three Point Jumper,30,30
+0:44,Maine,Vincent Eze,Jumper,30,32
+0:29,UMBC,K.J. Jackson,Jumper,32,32
+0:02,Maine,Vilgot Larsson,Missed Three Point Jumper,32,32
+0:02,UMBC,R.J. Eytle-Rock,Defensive Rebound,32,32
+0:00,Maine,None,None,32,32
+19:42,UMBC,K.J. Jackson,Foul,32,32
+19:42,UMBC,K.J. Jackson,Turnover,32,32
+19:13,Maine,Sergio El Darwich,Missed Layup,32,32
+19:13,UMBC,Arkel Lamar,Block,32,32
+19:13,Maine,Maine,Offensive Rebound,32,32
+19:10,Maine,Vilgot Larsson,Missed Three Point Jumper,32,32
+19:10,Maine,Sergio El Darwich,Offensive Rebound,32,32
+18:46,Maine,Andrew Fleming,Missed Jumper,32,32
+18:46,UMBC,Arkel Lamar,Defensive Rebound,32,32
+18:32,UMBC,K.J. Jackson,Missed Three Point Jumper,32,32
+18:32,Maine,Andrew Fleming,Defensive Rebound,32,32
+18:02,Maine,Isaiah White,Missed Three Point Jumper,32,32
+18:02,Maine,Isaiah White,Offensive Rebound,32,32
+17:38,Maine,Isaiah White,Missed Layup,32,32
+17:38,Maine,Andrew Fleming,Offensive Rebound,32,32
+17:36,Maine,Andrew Fleming,Layup,32,34
+17:23,Maine,Vilgot Larsson,Foul,32,34
+17:20,UMBC,R.J. Eytle-Rock,Missed Layup,32,34
+17:20,Maine,Vincent Eze,Defensive Rebound,32,34
+17:14,Maine,Andrew Fleming,Layup,32,36
+17:09,UMBC,None,None,32,36
+16:54,UMBC,K.J. Jackson,Three Point Jumper,35,36
+16:33,Maine,Andrew Fleming,Three Point Jumper,35,39
+16:12,UMBC,Nolan Gerrity,Missed Layup,35,39
+16:12,Maine,Vincent Eze,Block,35,39
+16:10,Maine,Vincent Eze,Defensive Rebound,35,39
+15:52,UMBC,R.J. Eytle-Rock,Foul,35,39
+15:52,Maine,None,None,35,39
+15:52,Maine,Vincent Eze,Missed Free Throw,35,39
+15:52,Maine,None,Team Rebound,35,39
+15:52,Maine,Vincent Eze,Missed Free Throw,35,39
+15:52,UMBC,Arkel Lamar,Defensive Rebound,35,39
+15:24,UMBC,K.J. Jackson,Missed Jumper,35,39
+15:24,Maine,Vincent Eze,Defensive Rebound,35,39
+15:04,Maine,Sergio El Darwich,Missed Jumper,35,39
+15:04,UMBC,K.J. Jackson,Defensive Rebound,35,39
+14:58,UMBC,Arkel Lamar,Missed Three Point Jumper,35,39
+14:58,UMBC,K.J. Jackson,Offensive Rebound,35,39
+14:53,UMBC,K.J. Jackson,Missed Three Point Jumper,35,39
+14:53,Maine,Vincent Eze,Defensive Rebound,35,39
+14:38,Maine,Isaiah White,Three Point Jumper,35,42
+14:23,UMBC,Ricky Council II,Three Point Jumper,38,42
+13:49,Maine,Isaiah White,Missed Layup,38,42
+13:49,Maine,Maine,Offensive Rebound,38,42
+13:49,Maine,Isaiah White,Foul,38,42
+13:49,Maine,Isaiah White,Turnover,38,42
+13:30,UMBC,Joe Sherburne,Missed Three Point Jumper,38,42
+13:30,UMBC,R.J. Eytle-Rock,Offensive Rebound,38,42
+13:27,UMBC,R.J. Eytle-Rock,Layup,40,42
+13:03,Maine,Sergio El Darwich,Three Point Jumper,40,45
+12:50,UMBC,Joe Sherburne,Layup,42,45
+12:28,UMBC,Jose Placer,Foul,42,45
+12:09,UMBC,Joe Sherburne,Foul,42,45
+12:09,Maine,Vincent Eze,Free Throw,42,46
+12:09,Maine,Vincent Eze,Free Throw,42,47
+11:51,UMBC,Jose Placer,Missed Three Point Jumper,42,47
+11:51,UMBC,Ricky Council II,Offensive Rebound,42,47
+11:43,UMBC,Joe Sherburne,Missed Three Point Jumper,42,47
+11:43,Maine,Sergio El Darwich,Defensive Rebound,42,47
+11:27,Maine,Sergio El Darwich,Missed Layup,42,47
+11:27,UMBC,R.J. Eytle-Rock,Defensive Rebound,42,47
+11:19,UMBC,R.J. Eytle-Rock,Turnover,42,47
+11:17,Maine,Andrew Fleming,Steal,42,47
+11:04,Maine,Vincent Eze,Missed Layup,42,47
+11:04,UMBC,Joe Sherburne,Defensive Rebound,42,47
+10:58,Maine,None,None,42,47
+10:55,UMBC,Joe Sherburne,Layup,44,47
+10:37,Maine,Vincent Eze,Turnover,44,47
+10:33,UMBC,K.J. Jackson,Steal,44,47
+10:24,UMBC,K.J. Jackson,Missed Three Point Jumper,44,47
+10:24,Maine,Dennis Ashley,Defensive Rebound,44,47
+10:00,Maine,Sergio El Darwich,Jumper,44,49
+9:47,UMBC,Ricky Council II,Missed Three Point Jumper,44,49
+9:47,UMBC,K.J. Jackson,Offensive Rebound,44,49
+9:41,UMBC,Arkel Lamar,Missed Three Point Jumper,44,49
+9:41,Maine,Maine,Defensive Rebound,44,49
+9:35,UMBC,Ricky Council II,Foul,44,49
+9:25,Maine,Dennis Ashley,Turnover,44,49
+9:23,UMBC,Joe Sherburne,Steal,44,49
+9:21,UMBC,Joe Sherburne,Layup,46,49
+9:21,Maine,Andrew Fleming,Turnover,46,49
+9:10,UMBC,K.J. Jackson,Missed Layup,46,49
+9:01,Maine,Dennis Ashley,Missed Three Point Jumper,46,49
+9:01,Maine,Andrew Fleming,Offensive Rebound,46,49
+8:56,Maine,Andrew Fleming,Missed Layup,46,49
+8:56,UMBC,Jose Placer,Defensive Rebound,46,49
+8:52,UMBC,Ricky Council II,Missed Jumper,46,49
+8:52,Maine,Vilgot Larsson,Defensive Rebound,46,49
+8:22,Maine,Sergio El Darwich,Missed Three Point Jumper,46,49
+8:22,UMBC,Ricky Council II,Defensive Rebound,46,49
+8:15,UMBC,K.J. Jackson,Layup,48,49
+8:15,Maine,Sergio El Darwich,Foul,48,49
+8:15,UMBC,K.J. Jackson,Free Throw,49,49
+7:53,UMBC,Jose Placer,Foul,49,49
+7:53,Maine,None,None,49,49
+7:53,Maine,Dennis Ashley,Free Throw,49,50
+7:53,Maine,Dennis Ashley,Free Throw,49,51
+7:34,UMBC,K.J. Jackson,Missed Jumper,49,51
+7:34,Maine,Miks Antoms,Block,49,51
+7:32,Maine,Isaiah White,Defensive Rebound,49,51
+7:07,Maine,Miks Antoms,Turnover,49,51
+7:06,UMBC,Ricky Council II,Steal,49,51
+7:01,UMBC,Nolan Gerrity,Layup,51,51
+6:50,UMBC,K.J. Jackson,Foul,51,51
+6:50,Maine,Dennis Ashley,Free Throw,51,52
+6:50,Maine,Dennis Ashley,Free Throw,51,53
+6:33,UMBC,Ricky Council II,Missed Three Point Jumper,51,53
+6:33,Maine,Sergio El Darwich,Defensive Rebound,51,53
+6:25,Maine,Sergio El Darwich,Missed Three Point Jumper,51,53
+6:25,UMBC,UMBC,Defensive Rebound,51,53
+5:54,UMBC,R.J. Eytle-Rock,Missed Layup,51,53
+5:54,Maine,Andrew Fleming,Defensive Rebound,51,53
+5:51,Maine,Andrew Fleming,Turnover,51,53
+5:50,UMBC,Joe Sherburne,Steal,51,53
+5:32,UMBC,K.J. Jackson,Layup,53,53
+5:02,Maine,Isaiah White,Missed Three Point Jumper,53,53
+5:02,Maine,Vilgot Larsson,Offensive Rebound,53,53
+4:58,Maine,Vilgot Larsson,Missed Layup,53,53
+4:58,UMBC,Joe Sherburne,Block,53,53
+4:57,UMBC,UMBC,Defensive Rebound,53,53
+4:37,UMBC,K.J. Jackson,Turnover,53,53
+4:37,Maine,Vilgot Larsson,Steal,53,53
+4:31,Maine,Andrew Fleming,Turnover,53,53
+4:10,Maine,Sergio El Darwich,Foul,53,53
+3:51,UMBC,Joe Sherburne,Turnover,53,53
+3:51,Maine,None,None,53,53
+3:38,Maine,Vilgot Larsson,Layup,53,55
+3:11,UMBC,K.J. Jackson,Three Point Jumper,56,55
+2:49,UMBC,Ricky Council II,Foul,56,55
+2:49,Maine,Vilgot Larsson,Free Throw,56,56
+2:49,Maine,Vilgot Larsson,Missed Free Throw,56,56
+2:49,UMBC,R.J. Eytle-Rock,Defensive Rebound,56,56
+2:39,UMBC,Joe Sherburne,Three Point Jumper,59,56
+2:29,UMBC,K.J. Jackson,Foul,59,56
+2:29,Maine,Sergio El Darwich,Free Throw,59,57
+2:29,Maine,Sergio El Darwich,Free Throw,59,58
+2:07,UMBC,Joe Sherburne,Three Point Jumper,62,58
+1:51,UMBC,Arkel Lamar,Foul,62,58
+1:51,Maine,Andrew Fleming,Free Throw,62,59
+1:51,Maine,Andrew Fleming,Missed Free Throw,62,59
+1:51,UMBC,Arkel Lamar,Defensive Rebound,62,59
+1:31,UMBC,Ricky Council II,Three Point Jumper,65,59
+1:13,Maine,None,None,65,59
+0:59,Maine,Isaiah White,Layup,65,61
+0:30,UMBC,K.J. Jackson,Missed Jumper,65,61
+0:30,Maine,Andrew Fleming,Defensive Rebound,65,61
+0:23,Maine,Isaiah White,Missed Layup,65,61
+0:23,Maine,Vincent Eze,Offensive Rebound,65,61
+0:20,Maine,Vincent Eze,Missed Layup,65,61
+0:20,UMBC,Joe Sherburne,Defensive Rebound,65,61
+0:16,Maine,Isaiah White,Foul,65,61
+0:15,Maine,Dennis Ashley,Foul,65,61
+0:13,Maine,Vilgot Larsson,Foul,65,61
+0:13,UMBC,K.J. Jackson,Free Throw,66,61
+0:13,UMBC,K.J. Jackson,Free Throw,67,61
+0:09,Maine,Dennis Ashley,Missed Jumper,67,61
+0:09,UMBC,K.J. Jackson,Block,67,61
+0:07,Maine,Dennis Ashley,Offensive Rebound,67,61
+0:05,Maine,Dennis Ashley,Three Point Jumper,67,64
+0:05,Maine,None,None,67,64
+0:02,UMBC,R.J. Eytle-Rock,Turnover,67,64
+0:02,Maine,Vincent Eze,Steal,67,64
+0:02,Maine,Vincent Eze,Layup,67,66
+0:00,Maine,None,None,67,66

@@ -1,0 +1,354 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Kansas,None,None,0,0
+19:50,Kansas,Devon Dotson,Missed Layup,0,0
+19:50,Iowa State,Talen Horton-Tucker,Defensive Rebound,0,0
+19:43,Iowa State,Talen Horton-Tucker,Layup,2,0
+19:32,Kansas,Quentin Grimes,Missed Jumper,2,0
+19:32,Kansas,Ochai Agbaji,Offensive Rebound,2,0
+19:26,Kansas,Quentin Grimes,Layup,2,2
+18:59,Iowa State,Nick Weiler-Babb,Turnover,2,2
+18:59,Kansas,Dedric Lawson,Steal,2,2
+18:54,Kansas,Ochai Agbaji,Missed Three Point Jumper,2,2
+18:54,Kansas,David McCormack,Offensive Rebound,2,2
+18:49,Kansas,David McCormack,Layup,2,4
+18:21,Iowa State,Marial Shayok,Missed Three Point Jumper,2,4
+18:21,Kansas,Dedric Lawson,Defensive Rebound,2,4
+18:06,Kansas,Ochai Agbaji,Missed Jumper,2,4
+18:06,Iowa State,Michael Jacobson,Block,2,4
+18:06,Iowa State,Michael Jacobson,Defensive Rebound,2,4
+17:57,Kansas,Ochai Agbaji,Foul,2,4
+17:52,Iowa State,Talen Horton-Tucker,Missed Jumper,2,4
+17:52,Kansas,David McCormack,Defensive Rebound,2,4
+17:35,Kansas,Devon Dotson,Turnover,2,4
+17:35,Iowa State,Michael Jacobson,Steal,2,4
+17:20,Iowa State,Michael Jacobson,Jumper,4,4
+17:04,Kansas,Ochai Agbaji,Turnover,4,4
+17:04,Iowa State,Tyrese Haliburton,Steal,4,4
+16:55,Kansas,Quentin Grimes,Foul,4,4
+16:55,Iowa State,Talen Horton-Tucker,Free Throw,5,4
+16:55,Iowa State,Talen Horton-Tucker,Missed Free Throw,5,4
+16:55,Kansas,Marcus Garrett,Defensive Rebound,5,4
+16:37,Kansas,Dedric Lawson,Jumper,5,6
+16:24,Iowa State,Michael Jacobson,Three Point Jumper,8,6
+16:07,Kansas,David McCormack,Turnover,8,6
+16:07,Iowa State,Nick Weiler-Babb,Steal,8,6
+16:05,Kansas,David McCormack,Foul,8,6
+15:49,Iowa State,Talen Horton-Tucker,Missed Three Point Jumper,8,6
+15:49,Kansas,Marcus Garrett,Defensive Rebound,8,6
+15:36,Kansas,Dedric Lawson,Missed Jumper,8,6
+15:36,Kansas,Dedric Lawson,Offensive Rebound,8,6
+15:31,Kansas,Dedric Lawson,Layup,8,8
+15:22,Iowa State,Tyrese Haliburton,Three Point Jumper,11,8
+14:58,Kansas,Marcus Garrett,Missed Layup,11,8
+14:58,Iowa State,Talen Horton-Tucker,Defensive Rebound,11,8
+14:44,Iowa State,Michael Jacobson,Missed Layup,11,8
+14:44,Kansas,Mitch Lightfoot,Block,11,8
+14:44,Kansas,Devon Dotson,Defensive Rebound,11,8
+14:38,Kansas,Quentin Grimes,Missed Three Point Jumper,11,8
+14:38,Kansas,Dedric Lawson,Offensive Rebound,11,8
+14:33,Kansas,Dedric Lawson,Missed Jumper,11,8
+14:33,Iowa State,Nick Weiler-Babb,Defensive Rebound,11,8
+14:28,Iowa State,Marial Shayok,Jumper,13,8
+14:08,Kansas,Dedric Lawson,Missed Layup,13,8
+14:08,Iowa State,Nick Weiler-Babb,Defensive Rebound,13,8
+14:02,Iowa State,Marial Shayok,Missed Three Point Jumper,13,8
+14:02,Kansas,Mitch Lightfoot,Defensive Rebound,13,8
+13:44,Kansas,Marcus Garrett,Missed Jumper,13,8
+13:43,Iowa State,Tyrese Haliburton,Block,13,8
+13:42,Kansas,Marcus Garrett,Offensive Rebound,13,8
+13:40,Iowa State,Tyrese Haliburton,Foul,13,8
+13:40,Kansas,None,None,13,8
+13:38,Kansas,Dedric Lawson,Missed Layup,13,8
+13:38,Iowa State,Cameron Lard,Defensive Rebound,13,8
+13:13,Iowa State,Marial Shayok,Missed Three Point Jumper,13,8
+13:13,Kansas,Dedric Lawson,Defensive Rebound,13,8
+13:00,Kansas,Devon Dotson,Layup,13,10
+12:48,Iowa State,Talen Horton-Tucker,Missed Jumper,13,10
+12:48,Kansas,Quentin Grimes,Defensive Rebound,13,10
+12:36,Kansas,Dedric Lawson,Missed Jumper,13,10
+12:36,Iowa State,Tyrese Haliburton,Defensive Rebound,13,10
+12:25,Iowa State,Cameron Lard,Layup,15,10
+12:25,Kansas,Marcus Garrett,Foul,15,10
+12:25,Iowa State,Cameron Lard,Missed Free Throw,15,10
+12:25,Kansas,Mitch Lightfoot,Defensive Rebound,15,10
+12:19,Kansas,Quentin Grimes,Missed Three Point Jumper,15,10
+12:19,Iowa State,Cameron Lard,Block,15,10
+12:19,Iowa State,Cameron Lard,Defensive Rebound,15,10
+12:12,Iowa State,Lindell Wigginton,Missed Layup,15,10
+12:12,Kansas,Quentin Grimes,Block,15,10
+12:12,Kansas,Marcus Garrett,Defensive Rebound,15,10
+12:05,Iowa State,Nick Weiler-Babb,Foul,15,10
+11:59,Iowa State,Lindell Wigginton,Foul,15,10
+11:59,Kansas,None,None,15,10
+11:43,Kansas,Devon Dotson,Missed Three Point Jumper,15,10
+11:43,Iowa State,Cameron Lard,Defensive Rebound,15,10
+11:18,Iowa State,Marial Shayok,Missed Three Point Jumper,15,10
+11:18,Kansas,Marcus Garrett,Defensive Rebound,15,10
+11:08,Kansas,Marcus Garrett,Missed Three Point Jumper,15,10
+11:08,Kansas,Devon Dotson,Offensive Rebound,15,10
+11:00,Kansas,Devon Dotson,Missed Layup,15,10
+11:00,Iowa State,Lindell Wigginton,Defensive Rebound,15,10
+10:54,Iowa State,Marial Shayok,Missed Three Point Jumper,15,10
+10:54,Kansas,Marcus Garrett,Defensive Rebound,15,10
+10:31,Iowa State,Cameron Lard,Foul,15,10
+10:24,Kansas,Dedric Lawson,Missed Layup,15,10
+10:24,Iowa State,Nick Weiler-Babb,Defensive Rebound,15,10
+10:21,Kansas,Devon Dotson,Foul,15,10
+10:07,Iowa State,Marial Shayok,Turnover,15,10
+10:07,Kansas,Devon Dotson,Steal,15,10
+10:03,Kansas,Devon Dotson,Layup,15,12
+9:43,Iowa State,Nick Weiler-Babb,Missed Layup,15,12
+9:43,Kansas,Quentin Grimes,Block,15,12
+9:43,Kansas,Marcus Garrett,Defensive Rebound,15,12
+9:36,Kansas,Quentin Grimes,Layup,15,14
+9:36,Iowa State,Cameron Lard,Foul,15,14
+9:36,Kansas,Quentin Grimes,Missed Free Throw,15,14
+9:36,Iowa State,Lindell Wigginton,Defensive Rebound,15,14
+9:13,Kansas,Mitch Lightfoot,Foul,15,14
+9:13,Iowa State,Lindell Wigginton,Missed Free Throw,15,14
+9:13,Iowa State,None,Team Rebound,15,14
+9:13,Iowa State,Lindell Wigginton,Missed Free Throw,15,14
+9:13,Iowa State,Michael Jacobson,Offensive Rebound,15,14
+9:10,Iowa State,Michael Jacobson,Jumper,17,14
+8:43,Kansas,Charlie Moore,Layup,17,16
+8:21,Iowa State,Tyrese Haliburton,Layup,19,16
+8:00,Iowa State,Michael Jacobson,Foul,19,16
+8:00,Kansas,None,None,19,16
+7:51,Kansas,David McCormack,Jumper,19,18
+7:36,Iowa State,Lindell Wigginton,Layup,21,18
+7:19,Iowa State,Tyrese Haliburton,Foul,21,18
+7:19,Kansas,Marcus Garrett,Missed Free Throw,21,18
+7:19,Kansas,None,Team Rebound,21,18
+7:19,Kansas,Marcus Garrett,Free Throw,21,19
+7:00,Iowa State,Lindell Wigginton,Missed Jumper,21,19
+7:00,Kansas,Devon Dotson,Defensive Rebound,21,19
+6:50,Iowa State,Michael Jacobson,Foul,21,19
+6:50,Kansas,Marcus Garrett,Missed Free Throw,21,19
+6:50,Kansas,None,Team Rebound,21,19
+6:50,Kansas,Marcus Garrett,Missed Free Throw,21,19
+6:50,Iowa State,Marial Shayok,Defensive Rebound,21,19
+6:42,Iowa State,Talen Horton-Tucker,Missed Three Point Jumper,21,19
+6:42,Kansas,Marcus Garrett,Defensive Rebound,21,19
+6:35,Kansas,Devon Dotson,Layup,21,21
+6:35,Iowa State,Talen Horton-Tucker,Foul,21,21
+6:35,Kansas,Devon Dotson,Missed Free Throw,21,21
+6:35,Iowa State,Marial Shayok,Defensive Rebound,21,21
+6:19,Iowa State,Marial Shayok,Layup,23,21
+6:06,Kansas,Marcus Garrett,Missed Layup,23,21
+6:06,Kansas,Kansas,Offensive Rebound,23,21
+5:58,Kansas,Quentin Grimes,Missed Three Point Jumper,23,21
+5:58,Iowa State,Lindell Wigginton,Defensive Rebound,23,21
+5:29,Kansas,Devon Dotson,Foul,23,21
+5:29,Iowa State,Talen Horton-Tucker,Free Throw,24,21
+5:29,Iowa State,Talen Horton-Tucker,Free Throw,25,21
+5:06,Kansas,Marcus Garrett,Missed Three Point Jumper,25,21
+5:06,Iowa State,Lindell Wigginton,Defensive Rebound,25,21
+4:51,Iowa State,Lindell Wigginton,Missed Jumper,25,21
+4:51,Kansas,Mitch Lightfoot,Block,25,21
+4:51,Iowa State,Marial Shayok,Offensive Rebound,25,21
+4:38,Iowa State,Lindell Wigginton,Turnover,25,21
+4:25,Kansas,Dedric Lawson,Missed Layup,25,21
+4:25,Iowa State,George Conditt IV,Block,25,21
+4:25,Iowa State,Nick Weiler-Babb,Defensive Rebound,25,21
+4:15,Iowa State,George Conditt IV,Layup,27,21
+4:12,Kansas,None,None,27,21
+4:12,Kansas,None,None,27,21
+3:53,Kansas,Charlie Moore,Turnover,27,21
+3:53,Iowa State,Nick Weiler-Babb,Steal,27,21
+3:49,Iowa State,Marial Shayok,Turnover,27,21
+3:49,Kansas,Charlie Moore,Steal,27,21
+3:33,Kansas,Dedric Lawson,Missed Jumper,27,21
+3:33,Iowa State,Talen Horton-Tucker,Defensive Rebound,27,21
+3:27,Iowa State,None,None,27,21
+3:05,Iowa State,Lindell Wigginton,Three Point Jumper,30,21
+2:46,Kansas,K.J. Lawson,Missed Three Point Jumper,30,21
+2:46,Kansas,Dedric Lawson,Offensive Rebound,30,21
+2:31,Kansas,Dedric Lawson,Missed Jumper,30,21
+2:31,Iowa State,George Conditt IV,Defensive Rebound,30,21
+2:23,Iowa State,Talen Horton-Tucker,Turnover,30,21
+2:23,Kansas,K.J. Lawson,Steal,30,21
+2:19,Kansas,K.J. Lawson,Turnover,30,21
+2:19,Iowa State,Marial Shayok,Steal,30,21
+1:57,Iowa State,Lindell Wigginton,Missed Jumper,30,21
+1:57,Iowa State,George Conditt IV,Offensive Rebound,30,21
+1:50,Iowa State,Talen Horton-Tucker,Jumper,32,21
+1:50,Kansas,None,None,32,21
+1:40,Kansas,Dedric Lawson,Turnover,32,21
+1:19,Iowa State,Talen Horton-Tucker,Turnover,32,21
+1:02,Kansas,Marcus Garrett,Missed Jumper,32,21
+1:02,Kansas,Ochai Agbaji,Offensive Rebound,32,21
+0:59,Kansas,Ochai Agbaji,Turnover,32,21
+0:59,Iowa State,Nick Weiler-Babb,Steal,32,21
+0:53,Iowa State,Lindell Wigginton,Missed Three Point Jumper,32,21
+0:53,Kansas,Marcus Garrett,Defensive Rebound,32,21
+0:40,Iowa State,George Conditt IV,Foul,32,21
+0:40,Kansas,Dedric Lawson,Missed Free Throw,32,21
+0:40,Kansas,None,Team Rebound,32,21
+0:40,Kansas,Dedric Lawson,Free Throw,32,22
+0:25,Iowa State,Talen Horton-Tucker,Missed Layup,32,22
+0:25,Kansas,Dedric Lawson,Block,32,22
+0:25,Iowa State,Iowa State,Offensive Rebound,32,22
+0:25,Iowa State,None,None,32,22
+0:22,Iowa State,Nick Weiler-Babb,Missed Jumper,32,22
+0:22,Kansas,K.J. Lawson,Defensive Rebound,32,22
+0:01,Kansas,Quentin Grimes,Missed Three Point Jumper,32,22
+0:01,Iowa State,Nick Weiler-Babb,Defensive Rebound,32,22
+0:00,Kansas,None,None,32,22
+20:00,Kansas,None,None,32,22
+19:43,Kansas,Devon Dotson,Layup,32,24
+19:33,Iowa State,Tyrese Haliburton,Three Point Jumper,35,24
+19:08,Iowa State,Marial Shayok,Foul,35,24
+19:05,Kansas,Ochai Agbaji,Missed Three Point Jumper,35,24
+19:05,Kansas,Kansas,Offensive Rebound,35,24
+18:53,Kansas,Dedric Lawson,Missed Jumper,35,24
+18:53,Iowa State,Michael Jacobson,Block,35,24
+18:53,Iowa State,Talen Horton-Tucker,Defensive Rebound,35,24
+18:46,Kansas,Quentin Grimes,Foul,35,24
+18:46,Iowa State,Talen Horton-Tucker,Free Throw,36,24
+18:46,Iowa State,Talen Horton-Tucker,Missed Free Throw,36,24
+18:46,Kansas,Ochai Agbaji,Defensive Rebound,36,24
+18:32,Kansas,Quentin Grimes,Turnover,36,24
+18:32,Iowa State,Talen Horton-Tucker,Steal,36,24
+18:26,Kansas,Devon Dotson,Foul,36,24
+18:26,Iowa State,Marial Shayok,Missed Free Throw,36,24
+18:26,Iowa State,None,Team Rebound,36,24
+18:26,Iowa State,Marial Shayok,Free Throw,37,24
+18:15,Kansas,Devon Dotson,Turnover,37,24
+18:15,Iowa State,Talen Horton-Tucker,Steal,37,24
+18:09,Iowa State,Talen Horton-Tucker,Missed Layup,37,24
+18:09,Iowa State,Tyrese Haliburton,Offensive Rebound,37,24
+18:03,Iowa State,Marial Shayok,Jumper,39,24
+17:59,Kansas,None,None,39,24
+17:49,Kansas,Devon Dotson,Missed Layup,39,24
+17:49,Iowa State,Talen Horton-Tucker,Defensive Rebound,39,24
+17:20,Iowa State,Michael Jacobson,Jumper,41,24
+17:03,Kansas,Dedric Lawson,Layup,41,26
+17:03,Iowa State,Talen Horton-Tucker,Foul,41,26
+17:03,Kansas,Dedric Lawson,Free Throw,41,27
+16:49,Iowa State,Nick Weiler-Babb,Layup,43,27
+16:36,Kansas,Marcus Garrett,Layup,43,29
+16:11,Iowa State,Nick Weiler-Babb,Turnover,43,29
+16:11,Kansas,Dedric Lawson,Steal,43,29
+16:06,Kansas,Quentin Grimes,Layup,43,31
+15:46,Iowa State,Marial Shayok,Missed Jumper,43,31
+15:46,Kansas,Marcus Garrett,Defensive Rebound,43,31
+15:27,Kansas,Ochai Agbaji,Turnover,43,31
+15:27,Kansas,None,None,43,31
+15:02,Iowa State,Michael Jacobson,Turnover,43,31
+15:02,Kansas,Dedric Lawson,Steal,43,31
+14:51,Kansas,Devon Dotson,Layup,43,33
+14:22,Iowa State,Lindell Wigginton,Layup,45,33
+14:10,Kansas,Devon Dotson,Layup,45,35
+13:43,Iowa State,Michael Jacobson,Three Point Jumper,48,35
+13:26,Kansas,Quentin Grimes,Missed Three Point Jumper,48,35
+13:26,Kansas,Marcus Garrett,Offensive Rebound,48,35
+13:21,Kansas,Marcus Garrett,Missed Layup,48,35
+13:21,Kansas,Dedric Lawson,Offensive Rebound,48,35
+13:21,Kansas,None,None,48,35
+13:21,Iowa State,Marial Shayok,Defensive Rebound,48,35
+13:03,Kansas,Dedric Lawson,Foul,48,35
+13:03,Kansas,Ochai Agbaji,Foul,48,35
+12:57,Iowa State,Michael Jacobson,Layup,50,35
+12:44,Kansas,Marcus Garrett,Missed Layup,50,35
+12:44,Iowa State,Michael Jacobson,Defensive Rebound,50,35
+12:33,Iowa State,Marial Shayok,Jumper,52,35
+12:13,Kansas,Ochai Agbaji,Missed Jumper,52,35
+12:13,Iowa State,Nick Weiler-Babb,Defensive Rebound,52,35
+11:48,Iowa State,Michael Jacobson,Foul,52,35
+11:48,Iowa State,Michael Jacobson,Turnover,52,35
+11:48,Kansas,None,None,52,35
+11:25,Kansas,Devon Dotson,Three Point Jumper,52,38
+10:59,Iowa State,Marial Shayok,Turnover,52,38
+10:59,Kansas,Quentin Grimes,Steal,52,38
+10:53,Kansas,Quentin Grimes,Layup,52,40
+10:27,Kansas,Quentin Grimes,Foul,52,40
+10:21,Iowa State,Tyrese Haliburton,Missed Three Point Jumper,52,40
+10:21,Kansas,Marcus Garrett,Defensive Rebound,52,40
+10:08,Kansas,Dedric Lawson,Layup,52,42
+9:41,Iowa State,Tyrese Haliburton,Three Point Jumper,55,42
+9:25,Kansas,Quentin Grimes,Layup,55,44
+8:58,Iowa State,Lindell Wigginton,Layup,57,44
+8:58,Kansas,Quentin Grimes,Foul,57,44
+8:58,Iowa State,Lindell Wigginton,Free Throw,58,44
+8:44,Kansas,Charlie Moore,Three Point Jumper,58,47
+8:17,Kansas,Marcus Garrett,Foul,58,47
+8:17,Iowa State,Lindell Wigginton,Free Throw,59,47
+8:17,Iowa State,Lindell Wigginton,Free Throw,60,47
+7:59,Iowa State,George Conditt IV,Foul,60,47
+7:59,Kansas,None,None,60,47
+7:52,Kansas,Dedric Lawson,Layup,60,49
+7:23,Iowa State,Nick Weiler-Babb,Missed Three Point Jumper,60,49
+7:23,Kansas,Marcus Garrett,Defensive Rebound,60,49
+7:11,Kansas,Dedric Lawson,Layup,60,51
+7:06,Iowa State,None,None,60,51
+6:44,Kansas,Marcus Garrett,Foul,60,51
+6:44,Iowa State,Nick Weiler-Babb,Free Throw,61,51
+6:44,Iowa State,Nick Weiler-Babb,Free Throw,62,51
+6:34,Kansas,Marcus Garrett,Missed Layup,62,51
+6:34,Iowa State,Tyrese Haliburton,Block,62,51
+6:34,Kansas,Charlie Moore,Offensive Rebound,62,51
+6:26,Kansas,Charlie Moore,Missed Jumper,62,51
+6:26,Iowa State,Lindell Wigginton,Defensive Rebound,62,51
+6:02,Iowa State,Nick Weiler-Babb,Three Point Jumper,65,51
+5:53,Kansas,None,None,65,51
+5:44,Kansas,Dedric Lawson,Missed Three Point Jumper,65,51
+5:44,Kansas,Ochai Agbaji,Offensive Rebound,65,51
+5:38,Kansas,Ochai Agbaji,Layup,65,53
+5:12,Kansas,Devon Dotson,Foul,65,53
+5:12,Iowa State,Lindell Wigginton,Free Throw,66,53
+5:12,Iowa State,Lindell Wigginton,Free Throw,67,53
+5:12,Iowa State,Lindell Wigginton,Free Throw,68,53
+5:07,Iowa State,Michael Jacobson,Foul,68,53
+5:07,Kansas,Devon Dotson,Free Throw,68,54
+5:07,Kansas,Devon Dotson,Free Throw,68,55
+4:50,Iowa State,Marial Shayok,Jumper,70,55
+4:39,Kansas,Ochai Agbaji,Missed Three Point Jumper,70,55
+4:39,Kansas,Marcus Garrett,Offensive Rebound,70,55
+4:33,Iowa State,Lindell Wigginton,Foul,70,55
+4:33,Kansas,Marcus Garrett,Free Throw,70,56
+4:33,Kansas,Marcus Garrett,Free Throw,70,57
+4:28,Iowa State,Marial Shayok,Turnover,70,57
+4:28,Kansas,Marcus Garrett,Steal,70,57
+4:24,Kansas,Marcus Garrett,Missed Layup,70,57
+4:24,Iowa State,Marial Shayok,Block,70,57
+4:24,Kansas,Marcus Garrett,Offensive Rebound,70,57
+4:14,Kansas,Marcus Garrett,Layup,70,59
+3:49,Iowa State,Marial Shayok,Missed Layup,70,59
+3:49,Iowa State,Michael Jacobson,Offensive Rebound,70,59
+3:49,Iowa State,None,None,70,59
+3:49,Kansas,Dedric Lawson,Defensive Rebound,70,59
+3:41,Kansas,Quentin Grimes,Missed Three Point Jumper,70,59
+3:41,Iowa State,Lindell Wigginton,Defensive Rebound,70,59
+3:19,Iowa State,Lindell Wigginton,Missed Jumper,70,59
+3:19,Kansas,Ochai Agbaji,Block,70,59
+3:19,Iowa State,Nick Weiler-Babb,Offensive Rebound,70,59
+3:14,Iowa State,Tyrese Haliburton,Missed Three Point Jumper,70,59
+3:14,Kansas,Ochai Agbaji,Defensive Rebound,70,59
+3:06,Kansas,Devon Dotson,Missed Layup,70,59
+3:06,Kansas,Dedric Lawson,Offensive Rebound,70,59
+3:06,Kansas,None,None,70,61
+2:53,Iowa State,None,None,70,61
+2:53,Kansas,None,None,70,61
+2:32,Iowa State,Nick Weiler-Babb,Jumper,72,61
+2:22,Kansas,Dedric Lawson,Layup,72,63
+1:54,Iowa State,Nick Weiler-Babb,Missed Three Point Jumper,72,63
+1:54,Kansas,Ochai Agbaji,Defensive Rebound,72,63
+1:44,Kansas,Marcus Garrett,Turnover,72,63
+1:44,Iowa State,Lindell Wigginton,Steal,72,63
+1:21,Kansas,Dedric Lawson,Foul,72,63
+1:21,Iowa State,Marial Shayok,Free Throw,73,63
+1:21,Iowa State,Marial Shayok,Free Throw,74,63
+1:21,Kansas,Quentin Grimes,Foul,74,63
+1:21,Iowa State,Lindell Wigginton,Free Throw,75,63
+1:21,Iowa State,Lindell Wigginton,Free Throw,76,63
+1:14,Kansas,Dedric Lawson,Missed Jumper,76,63
+1:14,Iowa State,Nick Weiler-Babb,Defensive Rebound,76,63
+0:42,Iowa State,Lindell Wigginton,Missed Jumper,76,63
+0:42,Kansas,None,Team Rebound,76,63
+0:30,Kansas,Ochai Agbaji,Three Point Jumper,76,66
+0:11,Kansas,Marcus Garrett,Foul,76,66
+0:11,Iowa State,Marial Shayok,Free Throw,77,66
+0:11,Iowa State,Marial Shayok,Free Throw,78,66
+0:05,Kansas,Devon Dotson,Missed Three Point Jumper,78,66
+0:05,Iowa State,Michael Jacobson,Defensive Rebound,78,66
+0:00,Kansas,None,None,78,66

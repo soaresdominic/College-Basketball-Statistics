@@ -1,0 +1,348 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:45,Duke,Marques Bolden,Dunk,0,2
+19:26,Hartford,Travis Weatherington,Missed Layup,0,2
+19:26,Duke,Marques Bolden,Block,0,2
+19:26,Duke,RJ Barrett,Defensive Rebound,0,2
+19:18,Duke,Zion Williamson,Missed Three Point Jumper,0,2
+19:18,Hartford,J.R. Lynch,Defensive Rebound,0,2
+18:52,Hartford,Jason Dunne,Missed Jumper,0,2
+18:52,Duke,Cam Reddish,Defensive Rebound,0,2
+18:32,Hartford,John Carroll,Foul,0,2
+18:23,Duke,Cam Reddish,Missed Jumper,0,2
+18:23,Duke,Zion Williamson,Offensive Rebound,0,2
+18:20,Duke,Zion Williamson,Missed Layup,0,2
+18:20,Hartford,J.R. Lynch,Defensive Rebound,0,2
+18:06,Hartford,John Carroll,Missed Jumper,0,2
+18:06,Duke,RJ Barrett,Defensive Rebound,0,2
+17:56,Duke,Zion Williamson,Dunk,0,4
+17:30,Hartford,J.R. Lynch,Turnover,0,4
+17:04,Duke,Cam Reddish,Turnover,0,4
+17:04,Hartford,Jason Dunne,Steal,0,4
+16:36,Hartford,George Blagojevic,Missed Layup,0,4
+16:36,Hartford,George Blagojevic,Offensive Rebound,0,4
+16:33,Hartford,George Blagojevic,Layup,2,4
+16:26,Duke,RJ Barrett,Missed Layup,2,4
+16:26,Hartford,Travis Weatherington,Defensive Rebound,2,4
+16:13,Hartford,J.R. Lynch,Missed Layup,2,4
+16:13,Duke,Zion Williamson,Defensive Rebound,2,4
+16:03,Duke,Cam Reddish,Missed Three Point Jumper,2,4
+16:03,Hartford,George Blagojevic,Defensive Rebound,2,4
+15:43,Hartford,John Carroll,Missed Three Point Jumper,2,4
+15:43,Duke,Marques Bolden,Block,2,4
+15:43,Duke,RJ Barrett,Defensive Rebound,2,4
+15:35,Duke,RJ Barrett,Layup,2,6
+15:12,Hartford,John Carroll,Foul,2,6
+15:12,Hartford,John Carroll,Turnover,2,6
+15:10,Duke,None,None,2,6
+14:52,Duke,Jack White,Missed Three Point Jumper,2,6
+14:52,Hartford,George Blagojevic,Defensive Rebound,2,6
+14:27,Hartford,George Blagojevic,Missed Jumper,2,6
+14:27,Duke,RJ Barrett,Defensive Rebound,2,6
+14:16,Duke,Tre Jones,Missed Three Point Jumper,2,6
+14:16,Duke,RJ Barrett,Offensive Rebound,2,6
+14:10,Duke,RJ Barrett,Layup,2,8
+13:49,Hartford,John Carroll,Missed Three Point Jumper,2,8
+13:49,Duke,RJ Barrett,Defensive Rebound,2,8
+13:37,Duke,Cam Reddish,Missed Three Point Jumper,2,8
+13:37,Hartford,George Blagojevic,Defensive Rebound,2,8
+13:16,Hartford,Jason Dunne,Missed Three Point Jumper,2,8
+13:16,Duke,RJ Barrett,Defensive Rebound,2,8
+13:08,Duke,Cam Reddish,Layup,2,10
+12:51,Hartford,Travis Weatherington,Turnover,2,10
+12:51,Duke,Javin DeLaurier,Steal,2,10
+12:47,Duke,Javin DeLaurier,Dunk,2,12
+12:25,Hartford,J.R. Lynch,Missed Layup,2,12
+12:25,Hartford,George Blagojevic,Offensive Rebound,2,12
+12:22,Duke,Jack White,Foul,2,12
+12:22,Hartford,George Blagojevic,Missed Free Throw,2,12
+12:22,Hartford,None,Team Rebound,2,12
+12:22,Hartford,George Blagojevic,Missed Free Throw,2,12
+12:22,Duke,Zion Williamson,Defensive Rebound,2,12
+12:11,Duke,Alex O'Connell,Turnover,2,12
+12:01,Hartford,Jason Dunne,Turnover,2,12
+12:01,Duke,Alex O'Connell,Steal,2,12
+11:49,Duke,Alex O'Connell,Missed Three Point Jumper,2,12
+11:49,Hartford,George Blagojevic,Defensive Rebound,2,12
+11:24,Hartford,George Blagojevic,Missed Jumper,2,12
+11:24,Duke,Javin DeLaurier,Defensive Rebound,2,12
+11:05,Duke,Zion Williamson,Missed Dunk,2,12
+11:05,Duke,Alex O'Connell,Offensive Rebound,2,12
+11:01,Duke,Jack White,Missed Three Point Jumper,2,12
+11:01,Hartford,J.R. Lynch,Defensive Rebound,2,12
+10:52,Hartford,Max Twyman,Three Point Jumper,5,12
+10:37,Duke,Jordan Goldwire,Missed Three Point Jumper,5,12
+10:37,Duke,Zion Williamson,Offensive Rebound,5,12
+10:33,Duke,Zion Williamson,Layup,5,14
+10:13,Hartford,J.R. Lynch,Layup,7,14
+10:09,Duke,None,None,7,14
+9:57,Duke,Zion Williamson,Turnover,7,14
+9:57,Hartford,Max Twyman,Steal,7,14
+9:31,Hartford,Jason Dunne,Missed Three Point Jumper,7,14
+9:31,Duke,Tre Jones,Defensive Rebound,7,14
+9:24,Duke,Tre Jones,Layup,7,16
+9:06,Hartford,Romain Boxus,Turnover,7,16
+9:06,Duke,Tre Jones,Steal,7,16
+9:06,Hartford,J.R. Lynch,Foul,7,16
+8:54,Duke,RJ Barrett,Missed Three Point Jumper,7,16
+8:54,Hartford,Jason Dunne,Defensive Rebound,7,16
+8:42,Hartford,George Blagojevic,Layup,9,16
+8:29,Duke,Cam Reddish,Missed Three Point Jumper,9,16
+8:29,Hartford,Jason Dunne,Defensive Rebound,9,16
+8:11,Hartford,Jason Dunne,Missed Three Point Jumper,9,16
+8:11,Duke,Zion Williamson,Defensive Rebound,9,16
+8:03,Duke,RJ Barrett,Three Point Jumper,9,19
+7:35,Duke,Marques Bolden,Foul,9,19
+7:35,Duke,None,None,9,19
+7:35,Hartford,J.R. Lynch,Free Throw,10,19
+7:35,Hartford,J.R. Lynch,Free Throw,11,19
+7:25,Duke,RJ Barrett,Missed Jumper,11,19
+7:25,Duke,Duke,Offensive Rebound,11,19
+7:13,Duke,Javin DeLaurier,Layup,11,21
+6:46,Hartford,J.R. Lynch,Missed Three Point Jumper,11,21
+6:46,Hartford,Hartford,Offensive Rebound,11,21
+6:31,Hartford,John Carroll,Turnover,11,21
+6:31,Duke,Cam Reddish,Steal,11,21
+6:27,Duke,Javin DeLaurier,Foul,11,21
+6:27,Duke,Cam Reddish,Turnover,11,21
+6:02,Hartford,Jason Dunne,Three Point Jumper,14,21
+5:43,Duke,RJ Barrett,Three Point Jumper,14,24
+5:13,Hartford,John Carroll,Jumper,16,24
+4:57,Duke,Cam Reddish,Missed Three Point Jumper,16,24
+4:57,Hartford,George Blagojevic,Defensive Rebound,16,24
+4:35,Hartford,John Carroll,Missed Layup,16,24
+4:35,Duke,RJ Barrett,Block,16,24
+4:35,Hartford,Travis Weatherington,Offensive Rebound,16,24
+4:25,Hartford,Travis Weatherington,Turnover,16,24
+4:25,Duke,Javin DeLaurier,Steal,16,24
+4:25,Hartford,Jason Dunne,Foul,16,24
+4:18,Duke,Marques Bolden,Missed Layup,16,24
+4:18,Hartford,George Blagojevic,Block,16,24
+4:18,Duke,Tre Jones,Offensive Rebound,16,24
+4:07,Duke,Tre Jones,Jumper,16,26
+3:49,Hartford,George Blagojevic,Missed Jumper,16,26
+3:49,Hartford,Travis Weatherington,Offensive Rebound,16,26
+3:42,Hartford,George Blagojevic,Layup,18,26
+3:22,Duke,Alex O'Connell,Missed Three Point Jumper,18,26
+3:22,Duke,Marques Bolden,Offensive Rebound,18,26
+3:18,Hartford,George Blagojevic,Foul,18,26
+3:18,Duke,None,None,18,26
+3:18,Duke,Marques Bolden,Free Throw,18,27
+3:18,Duke,Marques Bolden,Free Throw,18,28
+2:53,Hartford,George Blagojevic,Missed Jumper,18,28
+2:53,Duke,RJ Barrett,Defensive Rebound,18,28
+2:44,Duke,Jack White,Three Point Jumper,18,31
+2:38,Duke,Alex O'Connell,Foul,18,31
+2:32,Hartford,Jason Dunne,Turnover,18,31
+2:17,Duke,Cam Reddish,Missed Jumper,18,31
+2:17,Hartford,John Carroll,Defensive Rebound,18,31
+2:16,Duke,Cam Reddish,Foul,18,31
+1:46,Duke,RJ Barrett,Foul,18,31
+1:46,Hartford,J.R. Lynch,Free Throw,19,31
+1:46,Hartford,J.R. Lynch,Free Throw,20,31
+1:35,Duke,Zion Williamson,Turnover,20,31
+1:35,Hartford,George Blagojevic,Steal,20,31
+1:06,Hartford,J.R. Lynch,Layup,22,31
+0:53,Duke,Cam Reddish,Missed Three Point Jumper,22,31
+0:53,Duke,Duke,Offensive Rebound,22,31
+0:43,Duke,RJ Barrett,Missed Jumper,22,31
+0:43,Duke,Zion Williamson,Offensive Rebound,22,31
+0:39,Duke,Zion Williamson,Layup,22,33
+0:32,Hartford,None,None,22,33
+0:27,Hartford,J.R. Lynch,Layup,24,33
+0:21,Duke,None,None,24,33
+0:06,Duke,Tre Jones,Foul,24,33
+0:06,Duke,Tre Jones,Turnover,24,33
+0:01,Hartford,Jason Dunne,Missed Three Point Jumper,24,33
+0:01,Duke,Duke,Defensive Rebound,24,33
+0:00,Duke,None,None,24,33
+20:00,Hartford,None,None,24,33
+19:53,Hartford,John Carroll,Layup,26,33
+19:29,Duke,Zion Williamson,Layup,26,35
+19:09,Hartford,George Blagojevic,Turnover,26,35
+19:09,Duke,Zion Williamson,Steal,26,35
+19:00,Hartford,John Carroll,Foul,26,35
+19:00,Duke,RJ Barrett,Free Throw,26,36
+19:00,Duke,RJ Barrett,Missed Free Throw,26,36
+19:00,Hartford,Travis Weatherington,Defensive Rebound,26,36
+18:37,Hartford,Travis Weatherington,Missed Three Point Jumper,26,36
+18:37,Hartford,J.R. Lynch,Offensive Rebound,26,36
+18:26,Hartford,John Carroll,Layup,28,36
+18:26,Duke,Zion Williamson,Foul,28,36
+18:26,Hartford,John Carroll,Missed Free Throw,28,36
+18:26,Hartford,George Blagojevic,Offensive Rebound,28,36
+18:25,Hartford,Jason Dunne,Three Point Jumper,31,36
+18:15,Duke,None,None,31,36
+18:09,Duke,Cam Reddish,Missed Three Point Jumper,31,36
+18:09,Hartford,Travis Weatherington,Defensive Rebound,31,36
+17:50,Hartford,Jason Dunne,Missed Three Point Jumper,31,36
+17:50,Duke,RJ Barrett,Defensive Rebound,31,36
+17:40,Duke,RJ Barrett,Foul,31,36
+17:40,Duke,RJ Barrett,Turnover,31,36
+17:23,Hartford,J.R. Lynch,Turnover,31,36
+17:23,Duke,Cam Reddish,Steal,31,36
+17:16,Duke,Zion Williamson,Missed Layup,31,36
+17:16,Duke,Tre Jones,Offensive Rebound,31,36
+17:12,Duke,Tre Jones,Jumper,31,38
+16:49,Duke,Tre Jones,Foul,31,38
+16:33,Hartford,Travis Weatherington,Missed Three Point Jumper,31,38
+16:33,Duke,Zion Williamson,Defensive Rebound,31,38
+16:24,Duke,Tre Jones,Missed Jumper,31,38
+16:24,Duke,Zion Williamson,Offensive Rebound,31,38
+16:21,Duke,Zion Williamson,Layup,31,40
+16:01,Hartford,Jason Dunne,Missed Layup,31,40
+16:01,Duke,Javin DeLaurier,Block,31,40
+16:01,Hartford,Hartford,Offensive Rebound,31,40
+15:59,Duke,None,None,31,40
+15:55,Hartford,John Carroll,Foul,31,40
+15:55,Hartford,John Carroll,Turnover,31,40
+15:38,Duke,Zion Williamson,Missed Layup,31,40
+15:38,Duke,Javin DeLaurier,Offensive Rebound,31,40
+15:38,Duke,None,None,31,42
+15:21,Hartford,Jason Dunne,Missed Three Point Jumper,31,42
+15:21,Duke,Jack White,Defensive Rebound,31,42
+15:16,Duke,Tre Jones,Layup,31,44
+15:02,Hartford,John Carroll,Missed Layup,31,44
+15:02,Duke,Javin DeLaurier,Block,31,44
+15:02,Hartford,Hartford,Offensive Rebound,31,44
+14:45,Hartford,Travis Weatherington,Layup,33,44
+14:34,Duke,Zion Williamson,Missed Dunk,33,44
+14:34,Hartford,Jason Dunne,Defensive Rebound,33,44
+14:29,Hartford,Jason Dunne,Missed Layup,33,44
+14:29,Duke,Javin DeLaurier,Block,33,44
+14:29,Hartford,George Blagojevic,Offensive Rebound,33,44
+14:22,Hartford,George Blagojevic,Turnover,33,44
+14:12,Duke,Javin DeLaurier,Layup,33,46
+13:51,Hartford,John Carroll,Foul,33,46
+13:51,Hartford,John Carroll,Turnover,33,46
+13:44,Duke,Jordan Goldwire,Missed Three Point Jumper,33,46
+13:44,Hartford,George Blagojevic,Defensive Rebound,33,46
+13:20,Hartford,Travis Weatherington,Three Point Jumper,36,46
+13:14,Hartford,None,None,36,46
+13:06,Duke,Tre Jones,Turnover,36,46
+13:06,Hartford,Travis Weatherington,Steal,36,46
+13:06,Hartford,George Blagojevic,Missed Jumper,36,46
+13:06,Duke,Cam Reddish,Block,36,46
+13:06,Duke,Cam Reddish,Defensive Rebound,36,46
+12:31,Hartford,Romain Boxus,Foul,36,46
+12:31,Duke,RJ Barrett,Missed Free Throw,36,46
+12:31,Duke,None,Team Rebound,36,46
+12:31,Duke,RJ Barrett,Free Throw,36,47
+12:14,Hartford,Jason Dunne,Three Point Jumper,39,47
+12:00,Hartford,Romain Boxus,Foul,39,47
+12:00,Duke,None,None,39,47
+12:00,Duke,Zion Williamson,Free Throw,39,48
+12:00,Duke,Zion Williamson,Free Throw,39,49
+11:49,Hartford,Jason Dunne,Turnover,39,49
+11:49,Duke,Jack White,Steal,39,49
+11:45,Duke,Jack White,Dunk,39,51
+11:30,Hartford,Romain Boxus,Missed Three Point Jumper,39,51
+11:30,Duke,RJ Barrett,Defensive Rebound,39,51
+11:21,Duke,Cam Reddish,Three Point Jumper,39,54
+10:50,Hartford,J.R. Lynch,Missed Layup,39,54
+10:50,Duke,Zion Williamson,Block,39,54
+10:50,Duke,RJ Barrett,Defensive Rebound,39,54
+10:45,Duke,Jack White,Missed Three Point Jumper,39,54
+10:45,Duke,Zion Williamson,Offensive Rebound,39,54
+10:39,Duke,Jack White,Turnover,39,54
+10:39,Hartford,D.J. Mitchell,Steal,39,54
+10:35,Hartford,Jason Dunne,Three Point Jumper,42,54
+10:21,Duke,Tre Jones,Missed Three Point Jumper,42,54
+10:21,Duke,RJ Barrett,Offensive Rebound,42,54
+10:13,Duke,RJ Barrett,Layup,42,56
+9:45,Hartford,Jason Dunne,Turnover,42,56
+9:45,Duke,Cam Reddish,Steal,42,56
+9:40,Duke,RJ Barrett,Three Point Jumper,42,59
+9:21,Hartford,George Blagojevic,Three Point Jumper,45,59
+9:17,Hartford,None,None,45,59
+9:02,Hartford,Jason Dunne,Foul,45,59
+8:53,Duke,Cam Reddish,Turnover,45,59
+8:53,Hartford,J.R. Lynch,Steal,45,59
+8:36,Hartford,Max Twyman,Turnover,45,59
+8:36,Duke,Zion Williamson,Steal,45,59
+8:33,Duke,Zion Williamson,Dunk,45,61
+8:27,Hartford,Jason Dunne,Missed Three Point Jumper,45,61
+8:27,Hartford,George Blagojevic,Offensive Rebound,45,61
+8:20,Hartford,George Blagojevic,Missed Layup,45,61
+8:20,Duke,Jack White,Defensive Rebound,45,61
+8:15,Duke,Cam Reddish,Missed Three Point Jumper,45,61
+8:15,Hartford,J.R. Lynch,Defensive Rebound,45,61
+8:01,Hartford,George Blagojevic,Missed Three Point Jumper,45,61
+8:01,Hartford,Max Twyman,Offensive Rebound,45,61
+7:56,Hartford,J.R. Lynch,Missed Three Point Jumper,45,61
+7:56,Duke,Jack White,Defensive Rebound,45,61
+7:39,Duke,RJ Barrett,Jumper,45,63
+7:39,Hartford,George Blagojevic,Foul,45,63
+7:39,Duke,None,None,45,63
+7:39,Duke,RJ Barrett,Free Throw,45,64
+7:24,Hartford,Travis Weatherington,Missed Three Point Jumper,45,64
+7:24,Duke,Jack White,Defensive Rebound,45,64
+7:14,Duke,Jack White,Missed Three Point Jumper,45,64
+7:14,Duke,Zion Williamson,Offensive Rebound,45,64
+7:10,Duke,Zion Williamson,Layup,45,66
+6:54,Hartford,George Blagojevic,Missed Layup,45,66
+6:53,Duke,Zion Williamson,Defensive Rebound,45,66
+6:47,Duke,Zion Williamson,Turnover,45,66
+6:47,Hartford,George Blagojevic,Steal,45,66
+6:45,Hartford,George Blagojevic,Missed Layup,45,66
+6:40,Duke,Cam Reddish,Foul,45,66
+6:38,Hartford,Romain Boxus,Missed Three Point Jumper,45,66
+6:38,Duke,Zion Williamson,Defensive Rebound,45,66
+6:34,Duke,Javin DeLaurier,Defensive Rebound,45,66
+6:18,Duke,Tre Jones,Missed Jumper,45,66
+6:18,Hartford,Max Twyman,Defensive Rebound,45,66
+5:59,Hartford,Travis Weatherington,Missed Three Point Jumper,45,66
+5:59,Duke,RJ Barrett,Defensive Rebound,45,66
+5:49,Duke,RJ Barrett,Dunk,45,68
+5:28,Hartford,J.R. Lynch,Three Point Jumper,48,68
+5:23,Hartford,None,None,48,68
+5:07,Duke,Cam Reddish,Missed Three Point Jumper,48,68
+5:07,Hartford,Travis Weatherington,Defensive Rebound,48,68
+4:52,Hartford,Travis Weatherington,Missed Jumper,48,68
+4:52,Duke,Javin DeLaurier,Defensive Rebound,48,68
+4:35,Duke,Tre Jones,Turnover,48,68
+4:35,Hartford,Romain Boxus,Steal,48,68
+4:32,Hartford,D.J. Mitchell,Turnover,48,68
+4:32,Duke,Tre Jones,Steal,48,68
+4:29,Duke,Tre Jones,Layup,48,70
+4:07,Hartford,Jason Dunne,Turnover,48,70
+4:07,Duke,Cam Reddish,Steal,48,70
+4:04,Duke,RJ Barrett,Dunk,48,72
+3:42,Hartford,D.J. Mitchell,Turnover,48,72
+3:42,Duke,Alex O'Connell,Steal,48,72
+3:35,Duke,Javin DeLaurier,Dunk,48,74
+3:15,Hartford,Eddie Davis III,Missed Jumper,48,74
+3:15,Duke,Javin DeLaurier,Block,48,74
+3:15,Duke,RJ Barrett,Defensive Rebound,48,74
+3:15,Duke,Zion Williamson,Turnover,48,74
+3:10,Hartford,Romain Boxus,Foul,48,74
+3:10,Duke,None,None,48,74
+3:10,Duke,RJ Barrett,Free Throw,48,75
+3:10,Duke,RJ Barrett,Missed Free Throw,48,75
+3:10,Hartford,Hartford,Defensive Rebound,48,75
+3:03,Hartford,Travis Weatherington,Missed Layup,48,75
+3:03,Duke,Javin DeLaurier,Block,48,75
+3:03,Duke,RJ Barrett,Defensive Rebound,48,75
+2:56,Duke,Zion Williamson,Dunk,48,77
+2:40,Hartford,Travis Weatherington,Turnover,48,77
+2:40,Duke,Zion Williamson,Steal,48,77
+2:33,Duke,RJ Barrett,Dunk,48,79
+2:08,Hartford,Travis Weatherington,Missed Three Point Jumper,48,79
+2:08,Hartford,Hartford,Offensive Rebound,48,79
+1:51,Duke,Javin DeLaurier,Foul,48,79
+1:40,Hartford,D.J. Mitchell,Turnover,48,79
+1:40,Duke,Javin DeLaurier,Steal,48,79
+1:37,Duke,Jordan Goldwire,Layup,48,81
+1:29,Hartford,D.J. Mitchell,Jumper,50,81
+1:14,Duke,Alex O'Connell,Missed Three Point Jumper,50,81
+1:14,Duke,Jack White,Offensive Rebound,50,81
+0:59,Hartford,Max Twyman,Foul,50,81
+0:59,Duke,Alex O'Connell,Free Throw,50,82
+0:59,Duke,Alex O'Connell,Missed Free Throw,50,82
+0:59,Hartford,Zach Brown,Defensive Rebound,50,82
+0:42,Duke,Javin DeLaurier,Foul,50,82
+0:42,Hartford,Nikola Colovic,Free Throw,51,82
+0:42,Hartford,Nikola Colovic,Free Throw,52,82
+0:23,Duke,Alex O'Connell,Jumper,52,84
+0:09,Hartford,Nikola Colovic,Layup,54,84
+0:00,Duke,None,None,54,84

@@ -1,0 +1,334 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:46,Western Carolina,D.J. Myers,Foul,0,0
+19:46,SMU,Ethan Chargois,Missed Free Throw,0,0
+19:46,SMU,None,Team Rebound,0,0
+19:46,SMU,Ethan Chargois,Free Throw,0,1
+19:34,Western Carolina,Matt Halvorsen,Turnover,0,1
+19:34,SMU,Jimmy Whitt Jr.,Steal,0,1
+19:28,SMU,Jimmy Whitt Jr.,Layup,0,3
+19:17,SMU,Nat Dixon,Foul,0,3
+19:04,Western Carolina,Carlos Dotson,Turnover,0,3
+18:45,SMU,Ethan Chargois,Layup,0,5
+18:40,Western Carolina,None,None,0,5
+18:28,Western Carolina,Kameron Gibson,Turnover,0,5
+18:28,SMU,Jimmy Whitt Jr.,Steal,0,5
+18:18,SMU,Jimmy Whitt Jr.,Layup,0,7
+18:07,Western Carolina,Carlos Dotson,Missed Layup,0,7
+18:00,SMU,Ethan Chargois,Defensive Rebound,0,7
+17:54,SMU,Jahmal McMurray,Jumper,0,9
+17:39,Western Carolina,D.J. Myers,Missed Layup,0,9
+17:39,SMU,Ethan Chargois,Block,0,9
+17:31,SMU,Jahmal McMurray,Defensive Rebound,0,9
+17:29,SMU,Ethan Chargois,Missed Jumper,0,9
+17:29,Western Carolina,Carlos Dotson,Defensive Rebound,0,9
+17:29,SMU,Ethan Chargois,Foul,0,9
+17:10,Western Carolina,Carlos Dotson,Turnover,0,9
+17:03,SMU,Jimmy Whitt Jr.,Dunk,0,11
+16:49,Western Carolina,Kameron Gibson,Missed Three Point Jumper,0,11
+16:40,SMU,Isiaha Mike,Defensive Rebound,0,11
+16:37,SMU,Nat Dixon,Missed Three Point Jumper,0,11
+16:32,SMU,Ethan Chargois,Offensive Rebound,0,11
+16:31,SMU,Ethan Chargois,Layup,0,13
+16:17,Western Carolina,Josh Cottrell,Three Point Jumper,3,13
+15:45,SMU,Jahmal McMurray,Three Point Jumper,3,16
+15:39,SMU,None,None,3,16
+15:12,Western Carolina,Marc Gosselin,Missed Jumper,3,16
+15:12,Western Carolina,Western Carolina,Offensive Rebound,3,16
+15:12,Western Carolina,Western Carolina ,Turnover,3,16
+14:55,SMU,Isiaha Mike,Turnover,3,16
+14:42,Western Carolina,Marc Gosselin,Foul,3,16
+14:42,Western Carolina,Marc Gosselin,Turnover,3,16
+14:32,SMU,Jimmy Whitt Jr.,Foul,3,16
+14:32,SMU,Jimmy Whitt Jr.,Turnover,3,16
+14:12,Western Carolina,Kameron Gibson,Turnover,3,16
+14:02,SMU,Isiaha Mike,Layup,3,18
+13:49,Western Carolina,Kameron Gibson,Jumper,5,18
+13:33,SMU,Isiaha Mike,Three Point Jumper,5,21
+13:22,Western Carolina,Onno Steger,Three Point Jumper,8,21
+13:05,SMU,Jimmy Whitt Jr.,Layup,8,23
+12:53,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,8,23
+12:49,SMU,Feron Hunt,Defensive Rebound,8,23
+12:36,SMU,Isiaha Mike,Missed Three Point Jumper,8,23
+12:32,Western Carolina,Kameron Gibson,Defensive Rebound,8,23
+12:24,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,8,23
+12:19,SMU,Jahmal McMurray,Defensive Rebound,8,23
+12:14,SMU,Jahmal McMurray,Missed Jumper,8,23
+12:10,Western Carolina,Matt Halvorsen,Defensive Rebound,8,23
+12:08,Western Carolina,Matt Halvorsen,Turnover,8,23
+12:08,SMU,Jahmal McMurray,Steal,8,23
+12:02,SMU,Jahmal McMurray,Layup,8,25
+11:49,Western Carolina,Onno Steger,Three Point Jumper,11,25
+11:28,SMU,Jahmal McMurray,Layup,11,27
+11:18,SMU,Isiaha Mike,Foul,11,27
+11:18,SMU,None,None,11,27
+11:18,Western Carolina,D.J. Myers,Free Throw,12,27
+11:18,Western Carolina,D.J. Myers,Free Throw,13,27
+11:02,SMU,CJ White,Turnover,13,27
+11:02,Western Carolina,D.J. Myers,Steal,13,27
+10:53,Western Carolina,D.J. Myers,Missed Layup,13,27
+10:47,SMU,Ethan Chargois,Defensive Rebound,13,27
+10:32,SMU,Feron Hunt,Layup,13,29
+10:09,Western Carolina,Marc Gosselin,Missed Three Point Jumper,13,29
+10:03,SMU,Feron Hunt,Defensive Rebound,13,29
+9:56,Western Carolina,Marc Gosselin,Foul,13,29
+9:56,SMU,Nat Dixon,Missed Free Throw,13,29
+9:56,SMU,None,Team Rebound,13,29
+9:56,SMU,Nat Dixon,Free Throw,13,30
+9:45,Western Carolina,Onno Steger,Missed Three Point Jumper,13,30
+9:42,SMU,Feron Hunt,Defensive Rebound,13,30
+9:42,Western Carolina,Onno Steger,Foul,13,30
+9:20,SMU,Ethan Chargois,Missed Three Point Jumper,13,30
+9:15,Western Carolina,Onno Steger,Defensive Rebound,13,30
+9:11,SMU,William Douglas,Foul,13,30
+8:55,Western Carolina,Onno Steger,Missed Three Point Jumper,13,30
+8:50,SMU,CJ White,Defensive Rebound,13,30
+8:48,Western Carolina,Marcus Thomas,Foul,13,30
+8:41,SMU,CJ White,Three Point Jumper,13,33
+8:31,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,13,33
+8:26,SMU,Jimmy Whitt Jr.,Defensive Rebound,13,33
+8:21,SMU,Jimmy Whitt Jr.,Missed Jumper,13,33
+8:15,Western Carolina,D.J. Myers,Defensive Rebound,13,33
+8:01,Western Carolina,Marcus Thomas,Three Point Jumper,16,33
+7:40,SMU,CJ White,Layup,16,35
+7:40,Western Carolina,Matt Halvorsen,Foul,16,35
+7:40,SMU,None,None,16,35
+7:40,SMU,CJ White,Free Throw,16,36
+7:29,SMU,Jahmar Young Jr.,Foul,16,36
+7:17,Western Carolina,Marcus Thomas,Missed Jumper,16,36
+7:09,SMU,Ethan Chargois,Defensive Rebound,16,36
+6:56,SMU,Ethan Chargois,Jumper,16,38
+6:35,Western Carolina,Carlos Dotson,Missed Layup,16,38
+6:35,SMU,Jahmar Young Jr.,Block,16,38
+6:28,Western Carolina,Matt Halvorsen,Offensive Rebound,16,38
+6:25,Western Carolina,Kameron Gibson,Three Point Jumper,19,38
+6:02,SMU,Jahmal McMurray,Layup,19,40
+5:55,Western Carolina,Marcus Thomas,Missed Three Point Jumper,19,40
+5:50,Western Carolina,Carlos Dotson,Offensive Rebound,19,40
+5:49,Western Carolina,Carlos Dotson,Layup,21,40
+5:24,Western Carolina,D.J. Myers,Foul,21,40
+5:24,SMU,Ethan Chargois,Missed Free Throw,21,40
+5:24,Western Carolina,Kameron Gibson,Defensive Rebound,21,40
+5:13,SMU,Jahmar Young Jr.,Foul,21,40
+5:04,Western Carolina,Matt Halvorsen,Turnover,21,40
+5:04,SMU,Feron Hunt,Steal,21,40
+5:00,SMU,Feron Hunt,Dunk,21,42
+4:45,Western Carolina,Kameron Gibson,Turnover,21,42
+4:33,SMU,CJ White,Missed Three Point Jumper,21,42
+4:28,Western Carolina,Kameron Gibson,Defensive Rebound,21,42
+4:24,SMU,Jahmar Young Jr.,Foul,21,42
+4:24,Western Carolina,Carlos Dotson,Free Throw,22,42
+4:24,Western Carolina,Carlos Dotson,Missed Free Throw,22,42
+4:24,SMU,Feron Hunt,Defensive Rebound,22,42
+4:11,SMU,Jimmy Whitt Jr.,Missed Layup,22,42
+4:07,Western Carolina,Matt Halvorsen,Defensive Rebound,22,42
+4:03,Western Carolina,Matt Halvorsen,Three Point Jumper,25,42
+3:40,SMU,Feron Hunt,Turnover,25,42
+3:40,SMU,None,None,25,42
+3:30,Western Carolina,Kameron Gibson,Turnover,25,42
+3:30,SMU,Nat Dixon,Steal,25,42
+3:19,SMU,Jahmal McMurray,Jumper,25,44
+3:05,Western Carolina,Kameron Gibson,Three Point Jumper,28,44
+2:44,Western Carolina,Kameron Gibson,Foul,28,44
+2:44,SMU,William Douglas,Free Throw,28,45
+2:44,SMU,William Douglas,Free Throw,28,46
+2:29,Western Carolina,Onno Steger,Missed Three Point Jumper,28,46
+2:24,SMU,Ethan Chargois,Defensive Rebound,28,46
+2:12,SMU,Jimmy Whitt Jr.,Jumper,28,48
+2:02,Western Carolina,Matt Halvorsen,Turnover,28,48
+2:02,SMU,William Douglas,Steal,28,48
+1:55,SMU,Jahmal McMurray,Missed Three Point Jumper,28,48
+1:52,SMU,Ethan Chargois,Offensive Rebound,28,48
+1:49,Western Carolina,Kameron Gibson,Foul,28,48
+1:49,SMU,Ethan Chargois,Missed Free Throw,28,48
+1:49,SMU,None,Team Rebound,28,48
+1:49,SMU,Ethan Chargois,Missed Free Throw,28,48
+1:49,SMU,William Douglas,Offensive Rebound,28,48
+1:49,SMU,Ethan Chargois,Missed Jumper,28,48
+1:49,Western Carolina,D.J. Myers,Defensive Rebound,28,48
+1:43,Western Carolina,Kameron Gibson,Jumper,30,48
+1:09,SMU,Jahmal McMurray,Jumper,30,50
+0:58,Western Carolina,Josh Cottrell,Missed Three Point Jumper,30,50
+0:53,SMU,Jimmy Whitt Jr.,Defensive Rebound,30,50
+0:49,SMU,None,None,30,50
+0:37,Western Carolina,Matt Halvorsen,Foul,30,50
+0:37,SMU,Jimmy Whitt Jr.,Free Throw,30,51
+0:37,SMU,Jimmy Whitt Jr.,Free Throw,30,52
+0:13,Western Carolina,Kameron Gibson,Layup,32,52
+0:02,SMU,Jimmy Whitt Jr.,Missed Jumper,32,52
+0:02,SMU,Feron Hunt,Offensive Rebound,32,52
+0:02,SMU,Feron Hunt,Missed Layup,32,52
+0:02,Western Carolina,Carlos Dotson,Block,32,52
+0:00,SMU,None,Team Rebound,32,52
+0:00,SMU,None,None,31,52
+19:48,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,32,52
+19:41,Western Carolina,Onno Steger,Offensive Rebound,32,52
+19:41,Western Carolina,Onno Steger,Layup,34,52
+19:25,SMU,Jahmal McMurray,Jumper,34,54
+19:04,Western Carolina,Onno Steger,Turnover,34,54
+19:04,SMU,Ethan Chargois,Steal,34,54
+19:00,Western Carolina,Onno Steger,Foul,34,54
+19:00,SMU,Ethan Chargois,Missed Free Throw,34,54
+19:00,SMU,None,Team Rebound,34,54
+19:00,SMU,Ethan Chargois,Free Throw,34,55
+18:49,Western Carolina,D.J. Myers,Missed Jumper,34,55
+18:49,SMU,Isiaha Mike,Block,34,55
+18:45,SMU,Jimmy Whitt Jr.,Defensive Rebound,34,55
+18:26,Western Carolina,D.J. Myers,Foul,34,55
+18:09,SMU,Jimmy Whitt Jr.,Missed Jumper,34,55
+18:05,SMU,Ethan Chargois,Offensive Rebound,34,55
+18:03,SMU,Jahmal McMurray,Three Point Jumper,34,58
+17:41,Western Carolina,Kameron Gibson,Three Point Jumper,37,58
+17:14,SMU,Ethan Chargois,Missed Layup,37,58
+17:14,SMU,SMU,Offensive Rebound,37,58
+17:14,Western Carolina,Carlos Dotson,Block,37,58
+17:09,SMU,Jimmy Whitt Jr.,Jumper,37,60
+17:00,Western Carolina,Carlos Dotson,Missed Layup,37,60
+17:00,SMU,Jimmy Whitt Jr.,Block,37,60
+16:52,SMU,Jimmy Whitt Jr.,Defensive Rebound,37,60
+16:50,SMU,Jimmy Whitt Jr.,Turnover,37,60
+16:41,Western Carolina,Kameron Gibson,Three Point Jumper,40,60
+16:22,SMU,Isiaha Mike,Layup,40,62
+16:11,Western Carolina,Josh Cottrell,Missed Three Point Jumper,40,62
+16:07,SMU,Isiaha Mike,Defensive Rebound,40,62
+16:02,SMU,Jahmal McMurray,Jumper,40,64
+15:34,SMU,Jahmal McMurray,Foul,40,64
+15:34,SMU,None,None,40,64
+15:32,Western Carolina,Kameron Gibson,Missed Three Point Jumper,40,64
+15:28,SMU,Nat Dixon,Defensive Rebound,40,64
+15:16,SMU,Isiaha Mike,Missed Three Point Jumper,40,64
+15:13,SMU,Ethan Chargois,Offensive Rebound,40,64
+15:01,SMU,Nat Dixon,Three Point Jumper,40,67
+14:50,SMU,Nat Dixon,Foul,40,67
+14:39,Western Carolina,Marc Gosselin,Missed Jumper,40,67
+14:35,SMU,Isiaha Mike,Defensive Rebound,40,67
+14:30,SMU,Ethan Chargois,Layup,40,69
+14:03,SMU,Nat Dixon,Foul,40,69
+14:03,Western Carolina,Western Carolina ,Turnover,40,69
+13:44,SMU,Ethan Chargois,Turnover,40,69
+13:34,Western Carolina,Matt Halvorsen,Turnover,40,69
+13:16,SMU,Jahmal McMurray,Missed Three Point Jumper,40,69
+13:12,Western Carolina,Marcus Thomas,Defensive Rebound,40,69
+13:08,Western Carolina,Marcus Thomas,Layup,42,69
+12:52,Western Carolina,Adam Sledd,Foul,42,69
+12:52,SMU,Isiaha Mike,Free Throw,42,70
+12:52,SMU,Isiaha Mike,Free Throw,42,71
+12:39,SMU,Jimmy Whitt Jr.,Foul,42,71
+12:39,Western Carolina,Kameron Gibson,Free Throw,43,71
+12:39,Western Carolina,Kameron Gibson,Free Throw,44,71
+12:16,SMU,Jimmy Whitt Jr.,Missed Jumper,44,71
+12:12,SMU,Isiaha Mike,Offensive Rebound,44,71
+11:55,SMU,CJ White,Missed Three Point Jumper,44,71
+11:51,SMU,Feron Hunt,Offensive Rebound,44,71
+11:51,SMU,None,None,44,71
+11:40,SMU,Isiaha Mike,Turnover,44,71
+11:28,SMU,William Douglas,Foul,44,71
+11:26,Western Carolina,Carlos Dotson,Foul,44,71
+11:26,Western Carolina,Carlos Dotson,Turnover,44,71
+11:18,SMU,Isiaha Mike,Missed Three Point Jumper,44,71
+11:11,Western Carolina,Kameron Gibson,Defensive Rebound,44,71
+10:56,Western Carolina,Onno Steger,Turnover,44,71
+10:47,SMU,Feron Hunt,Turnover,44,71
+10:25,Western Carolina,Marcus Thomas,Turnover,44,71
+10:25,SMU,Nat Dixon,Steal,44,71
+10:16,SMU,Ethan Chargois,Missed Three Point Jumper,44,71
+10:11,SMU,Jimmy Whitt Jr.,Offensive Rebound,44,71
+10:09,SMU,Nat Dixon,Missed Jumper,44,71
+10:05,SMU,Feron Hunt,Offensive Rebound,44,71
+9:48,SMU,Nat Dixon,Missed Layup,44,71
+9:47,Western Carolina,Western Carolina,Defensive Rebound,44,71
+9:17,Western Carolina,Kameron Gibson,Three Point Jumper,47,71
+8:56,SMU,Feron Hunt,Layup,47,73
+8:41,Western Carolina,Jason McMillan,Turnover,47,73
+8:41,SMU,Feron Hunt,Steal,47,73
+8:40,SMU,Feron Hunt,Turnover,47,73
+8:40,Western Carolina,Kameron Gibson,Steal,47,73
+8:38,Western Carolina,Kameron Gibson,Three Point Jumper,50,73
+8:20,SMU,Nat Dixon,Three Point Jumper,50,76
+8:06,Western Carolina,Carlos Dotson,Turnover,50,76
+7:48,SMU,Ethan Chargois,Layup,50,78
+7:29,Western Carolina,Kameron Gibson,Three Point Jumper,53,78
+7:09,SMU,Jahmal McMurray,Jumper,53,80
+7:09,Western Carolina,Jason McMillan,Foul,53,80
+7:09,SMU,None,None,53,80
+7:09,SMU,Jahmal McMurray,Free Throw,53,81
+7:00,Western Carolina,Kameron Gibson,Layup,55,81
+6:46,SMU,Nat Dixon,Turnover,55,81
+6:32,Western Carolina,D.J. Myers,Missed Layup,55,81
+6:32,SMU,Ethan Chargois,Block,55,81
+6:26,SMU,CJ White,Defensive Rebound,55,81
+6:23,SMU,CJ White,Missed Layup,55,81
+6:13,SMU,Feron Hunt,Offensive Rebound,55,81
+6:12,SMU,Feron Hunt,Missed Layup,55,81
+6:07,Western Carolina,Kameron Gibson,Defensive Rebound,55,81
+6:05,Western Carolina,Kameron Gibson,Three Point Jumper,58,81
+5:57,SMU,Jahmal McMurray,Three Point Jumper,58,84
+5:40,Western Carolina,Marcus Thomas,Turnover,58,84
+5:40,SMU,Nat Dixon,Steal,58,84
+5:34,SMU,Jahmal McMurray,Three Point Jumper,58,87
+5:17,Western Carolina,Yalim Olcay,Missed Jumper,58,87
+5:17,SMU,Feron Hunt,Block,58,87
+5:10,SMU,Ethan Chargois,Defensive Rebound,58,87
+5:07,SMU,Jahmal McMurray,Three Point Jumper,58,90
+4:40,Western Carolina,Kameron Gibson,Missed Three Point Jumper,58,90
+4:37,SMU,Ethan Chargois,Defensive Rebound,58,90
+4:37,Western Carolina,D.J. Myers,Foul,58,90
+4:22,SMU,Feron Hunt,Layup,58,92
+4:14,Western Carolina,Matt Halvorsen,Turnover,58,92
+4:14,SMU,William Douglas,Steal,58,92
+4:07,SMU,CJ White,Three Point Jumper,58,95
+3:45,Western Carolina,Onno Steger,Missed Three Point Jumper,58,95
+3:44,SMU,SMU,Defensive Rebound,58,95
+3:42,SMU,None,None,58,95
+3:30,SMU,CJ White,Missed Jumper,58,95
+3:30,SMU,Jahmar Young Jr.,Offensive Rebound,58,95
+3:30,Western Carolina,Carlos Dotson,Foul,58,95
+3:30,SMU,Jahmar Young Jr.,Free Throw,58,96
+3:30,SMU,Jahmar Young Jr.,Missed Free Throw,58,96
+3:28,SMU,Isiaha Mike,Offensive Rebound,58,96
+3:17,Western Carolina,Marc Gosselin,Foul,58,96
+3:17,SMU,Isiaha Mike,Foul,58,96
+3:17,Western Carolina,Marc Gosselin,Missed Free Throw,58,96
+3:17,Western Carolina,None,Team Rebound,58,96
+3:17,Western Carolina,Marc Gosselin,Free Throw,59,96
+3:17,SMU,Isiaha Mike,Missed Free Throw,59,96
+3:17,SMU,None,Team Rebound,59,96
+3:17,SMU,Isiaha Mike,Free Throw,59,97
+3:17,Western Carolina,Marcus Thomas,Missed Three Point Jumper,59,97
+3:17,Western Carolina,Carlos Dotson,Offensive Rebound,59,97
+3:14,Western Carolina,D.J. Myers,Dunk,61,97
+3:04,SMU,William Douglas,Missed Jumper,61,97
+3:00,SMU,CJ White,Offensive Rebound,61,97
+2:59,SMU,CJ White,Missed Layup,61,97
+2:55,Western Carolina,D.J. Myers,Defensive Rebound,61,97
+2:33,SMU,Nat Dixon,Foul,61,97
+2:33,Western Carolina,Marcus Thomas,Free Throw,62,97
+2:33,Western Carolina,Marcus Thomas,Missed Free Throw,62,97
+2:31,SMU,Feron Hunt,Defensive Rebound,62,97
+2:23,SMU,Feron Hunt,Turnover,62,97
+2:23,Western Carolina,D.J. Myers,Steal,62,97
+2:17,SMU,William Douglas,Foul,62,97
+2:17,Western Carolina,Marcus Thomas,Free Throw,63,97
+2:17,Western Carolina,Marcus Thomas,Missed Free Throw,63,97
+2:16,SMU,CJ White,Defensive Rebound,63,97
+2:09,Western Carolina,Josh Cottrell,Foul,63,97
+2:09,SMU,CJ White,Free Throw,63,98
+2:09,SMU,CJ White,Missed Free Throw,63,98
+2:07,Western Carolina,Adam Sledd,Defensive Rebound,63,98
+1:47,Western Carolina,D.J. Myers,Missed Layup,63,98
+1:47,SMU,Jahmar Young Jr.,Block,63,98
+1:40,SMU,Isiaha Mike,Defensive Rebound,63,98
+1:39,SMU,Isiaha Mike,Turnover,63,98
+1:21,Western Carolina,Marcus Thomas,Missed Three Point Jumper,63,98
+1:16,SMU,Isiaha Mike,Defensive Rebound,63,98
+0:55,SMU,Isiaha Mike,Missed Three Point Jumper,63,98
+0:50,Western Carolina,Marcus Thomas,Defensive Rebound,63,98
+0:47,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,63,98
+0:44,Western Carolina,Onno Steger,Offensive Rebound,63,98
+0:44,SMU,William Douglas,Foul,63,98
+0:44,Western Carolina,Onno Steger,Free Throw,64,98
+0:44,Western Carolina,Onno Steger,Free Throw,65,98
+0:37,SMU,Isiaha Mike,Missed Layup,65,98
+0:34,Western Carolina,D.J. Myers,Defensive Rebound,65,98
+0:26,Western Carolina,Matt Halvorsen,Turnover,65,98
+0:00,SMU,None,None,65,98
+0:00,SMU,None,None,65,98

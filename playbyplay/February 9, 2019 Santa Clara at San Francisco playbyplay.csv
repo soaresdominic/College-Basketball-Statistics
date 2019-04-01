@@ -1,0 +1,324 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:51,San Francisco,Jimbo Lull,Missed Layup,0,0
+19:51,Santa Clara,Guglielmo Caruso,Block,0,0
+19:43,Santa Clara,Santa Clara,Defensive Rebound,0,0
+19:30,Santa Clara,Josip Vrankic,Missed Jumper,0,0
+19:30,San Francisco,Nate Renfro,Block,0,0
+19:29,Santa Clara,Santa Clara,Offensive Rebound,0,0
+19:22,Santa Clara,Guglielmo Caruso,Jumper,2,0
+19:07,Santa Clara,Guglielmo Caruso,Foul,2,0
+18:52,San Francisco,Nate Renfro,Turnover,2,0
+18:52,Santa Clara,Josip Vrankic,Steal,2,0
+18:22,Santa Clara,Guglielmo Caruso,Missed Jumper,2,0
+18:22,San Francisco,Jimbo Lull,Block,2,0
+18:20,San Francisco,Jimbo Lull,Defensive Rebound,2,0
+18:03,San Francisco,Jimbo Lull,Layup,2,2
+17:43,Santa Clara,Trey Wertz,Three Point Jumper,5,2
+17:31,San Francisco,Jordan Ratinho,Missed Three Point Jumper,5,2
+17:31,Santa Clara,Santa Clara,Defensive Rebound,5,2
+17:11,Santa Clara,Henrik Jadersten,Missed Jumper,5,2
+17:11,San Francisco,Nate Renfro,Defensive Rebound,5,2
+17:07,San Francisco,Charles Minlend,Turnover,5,2
+17:04,Santa Clara,Josip Vrankic,Steal,5,2
+17:00,Santa Clara,Josip Vrankic,Jumper,7,2
+16:44,San Francisco,Frankie Ferrari,Layup,7,4
+16:18,Santa Clara,Trey Wertz,Layup,9,4
+15:53,San Francisco,Charles Minlend,Missed Three Point Jumper,9,4
+15:53,San Francisco,Nate Renfro,Offensive Rebound,9,4
+15:51,Santa Clara,Josip Vrankic,Foul,9,4
+15:50,San Francisco,Remu Raitanen,Three Point Jumper,9,7
+15:35,Santa Clara,Josh Martin,Missed Three Point Jumper,9,7
+15:35,San Francisco,Jamaree Bouyea,Defensive Rebound,9,7
+15:30,San Francisco,Frankie Ferrari,Missed Three Point Jumper,9,7
+15:30,Santa Clara,Josh Martin,Defensive Rebound,9,7
+15:19,Santa Clara,Henrik Jadersten,Three Point Jumper,12,7
+14:59,San Francisco,Matt McCarthy,Jumper,12,9
+14:56,Santa Clara,Tahj Eaddy,Missed Jumper,12,9
+14:56,Santa Clara,Henrik Jadersten,Offensive Rebound,12,9
+14:52,Santa Clara,Henrik Jadersten,Turnover,12,9
+14:19,San Francisco,Jordan Ratinho,Jumper,12,11
+13:47,Santa Clara,Trey Wertz,Missed Three Point Jumper,12,11
+13:47,San Francisco,Frankie Ferrari,Defensive Rebound,12,11
+13:37,San Francisco,Remu Raitanen,Missed Three Point Jumper,12,11
+13:37,Santa Clara,Trey Wertz,Defensive Rebound,12,11
+13:20,Santa Clara,Guglielmo Caruso,Foul,12,11
+13:20,Santa Clara,Guglielmo Caruso,Turnover,12,11
+13:13,San Francisco,Charles Minlend,Missed Jumper,12,11
+13:13,Santa Clara,Trey Wertz,Defensive Rebound,12,11
+12:59,Santa Clara,Keshawn Justice,Missed Layup,12,11
+12:59,Santa Clara,Ezekiel Richards,Offensive Rebound,12,11
+12:56,Santa Clara,None,None,12,11
+12:56,Santa Clara,Josip Vrankic,Offensive Rebound,12,11
+12:53,Santa Clara,Josip Vrankic,Layup,14,11
+12:44,San Francisco,Remu Raitanen,Missed Layup,14,11
+12:44,Santa Clara,Ezekiel Richards,Defensive Rebound,14,11
+12:35,Santa Clara,Josip Vrankic,Turnover,14,11
+12:13,San Francisco,Jimbo Lull,Jumper,14,13
+11:55,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,14,13
+11:55,San Francisco,Nate Renfro,Defensive Rebound,14,13
+11:40,Santa Clara,Ezekiel Richards,Foul,14,13
+11:40,San Francisco,None,None,14,13
+11:40,San Francisco,Nate Renfro,Free Throw,14,14
+11:40,San Francisco,Nate Renfro,Missed Free Throw,14,14
+11:40,Santa Clara,Josip Vrankic,Defensive Rebound,14,14
+11:08,Santa Clara,Josip Vrankic,Turnover,14,14
+11:07,San Francisco,Jamaree Bouyea,Steal,14,14
+11:05,San Francisco,Charles Minlend,Dunk,14,16
+10:48,Santa Clara,Fallou Ndoye,Jumper,16,16
+10:26,San Francisco,Nate Renfro,Turnover,16,16
+9:56,Santa Clara,Josip Vrankic,Missed Three Point Jumper,16,16
+9:56,Santa Clara,Santa Clara,Offensive Rebound,16,16
+9:56,Santa Clara,Santa Clara ,Turnover,16,16
+9:48,San Francisco,Nate Renfro,Layup,16,18
+9:48,Santa Clara,Fallou Ndoye,Foul,16,18
+9:48,San Francisco,Nate Renfro,Free Throw,16,19
+9:31,Santa Clara,Josip Vrankic,Jumper,18,19
+9:10,Santa Clara,Trey Wertz,Foul,18,19
+9:10,San Francisco,Jimbo Lull,Free Throw,18,20
+9:10,San Francisco,Jimbo Lull,Free Throw,18,21
+8:51,Santa Clara,Trey Wertz,Missed Layup,18,21
+8:51,San Francisco,Jamaree Bouyea,Defensive Rebound,18,21
+8:41,San Francisco,Jimbo Lull,Missed Jumper,18,21
+8:41,Santa Clara,Josip Vrankic,Defensive Rebound,18,21
+8:26,Santa Clara,Josh Martin,Turnover,18,21
+8:18,San Francisco,Nate Renfro,Missed Three Point Jumper,18,21
+8:18,Santa Clara,Josh Martin,Defensive Rebound,18,21
+8:13,San Francisco,Charles Minlend,Foul,18,21
+7:55,San Francisco,Taavi Jurkatamm,Foul,18,21
+7:55,San Francisco,None,None,18,21
+7:47,San Francisco,Matt McCarthy,Foul,18,21
+7:47,Santa Clara,Josip Vrankic,Free Throw,19,21
+7:47,Santa Clara,Josip Vrankic,Free Throw,20,21
+7:35,San Francisco,Charles Minlend,Turnover,20,21
+7:11,Santa Clara,Josip Vrankic,Missed Jumper,20,21
+7:11,Santa Clara,Henrik Jadersten,Offensive Rebound,20,21
+7:06,Santa Clara,Henrik Jadersten,Missed Layup,20,21
+7:06,San Francisco,Matt McCarthy,Defensive Rebound,20,21
+6:52,San Francisco,Jordan Ratinho,Three Point Jumper,20,24
+6:42,Santa Clara,None,None,20,24
+6:35,Santa Clara,Henrik Jadersten,Dunk,22,24
+6:16,San Francisco,Jamaree Bouyea,Three Point Jumper,22,27
+5:59,San Francisco,Matt McCarthy,Foul,22,27
+5:59,Santa Clara,Keshawn Justice,Free Throw,23,27
+5:59,Santa Clara,Keshawn Justice,Free Throw,24,27
+5:38,Santa Clara,Henrik Jadersten,Foul,24,27
+5:38,San Francisco,Jamaree Bouyea,Missed Free Throw,24,27
+5:38,San Francisco,None,Team Rebound,24,27
+5:38,San Francisco,Jamaree Bouyea,Free Throw,24,28
+5:15,Santa Clara,Tahj Eaddy,Turnover,24,28
+5:14,San Francisco,Jamaree Bouyea,Steal,24,28
+5:14,Santa Clara,Tahj Eaddy,Foul,24,28
+5:14,San Francisco,Jamaree Bouyea,Free Throw,24,29
+5:14,San Francisco,Jamaree Bouyea,Free Throw,24,30
+4:47,Santa Clara,Keshawn Justice,Missed Three Point Jumper,24,30
+4:47,San Francisco,Jamaree Bouyea,Defensive Rebound,24,30
+4:14,San Francisco,Nate Renfro,Missed Three Point Jumper,24,30
+4:14,Santa Clara,Henrik Jadersten,Defensive Rebound,24,30
+4:01,Santa Clara,Trey Wertz,Turnover,24,30
+3:51,San Francisco,Frankie Ferrari,Missed Three Point Jumper,24,30
+3:51,Santa Clara,Josip Vrankic,Defensive Rebound,24,30
+3:44,Santa Clara,Trey Wertz,Missed Layup,24,30
+3:44,San Francisco,Jimbo Lull,Defensive Rebound,24,30
+3:31,San Francisco,Charles Minlend,Missed Three Point Jumper,24,30
+3:31,Santa Clara,Trey Wertz,Defensive Rebound,24,30
+3:19,Santa Clara,Josip Vrankic,Jumper,26,30
+3:02,San Francisco,Frankie Ferrari,Turnover,26,30
+3:02,Santa Clara,Josip Vrankic,Steal,26,30
+2:59,Santa Clara,Josip Vrankic,Layup,28,30
+2:30,San Francisco,Remu Raitanen,Missed Jumper,28,30
+2:30,Santa Clara,Fallou Ndoye,Block,28,30
+2:28,Santa Clara,Keshawn Justice,Defensive Rebound,28,30
+2:11,Santa Clara,Keshawn Justice,Missed Jumper,28,30
+2:11,San Francisco,Remu Raitanen,Defensive Rebound,28,30
+2:06,Santa Clara,Keshawn Justice,Foul,28,30
+2:06,San Francisco,None,None,28,30
+2:06,San Francisco,Frankie Ferrari,Free Throw,28,31
+2:06,San Francisco,Frankie Ferrari,Free Throw,28,32
+1:49,Santa Clara,Josip Vrankic,Missed Layup,28,32
+1:49,Santa Clara,Josip Vrankic,Offensive Rebound,28,32
+1:48,San Francisco,Jimbo Lull,Foul,28,32
+1:48,Santa Clara,Josip Vrankic,Missed Free Throw,28,32
+1:48,Santa Clara,None,Team Rebound,28,32
+1:48,Santa Clara,Josip Vrankic,Free Throw,29,32
+1:37,San Francisco,Jamaree Bouyea,Foul,29,32
+1:37,San Francisco,Jamaree Bouyea,Turnover,29,32
+1:24,Santa Clara,Tahj Eaddy,Missed Layup,29,32
+1:24,Santa Clara,Josip Vrankic,Offensive Rebound,29,32
+1:21,Santa Clara,None,None,31,32
+1:04,San Francisco,Jordan Ratinho,Three Point Jumper,31,35
+0:39,Santa Clara,Keshawn Justice,Three Point Jumper,34,35
+0:23,Santa Clara,Tahj Eaddy,Foul,34,35
+0:23,San Francisco,Frankie Ferrari,Free Throw,34,36
+0:23,San Francisco,Frankie Ferrari,Free Throw,34,37
+0:00,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,34,37
+0:00,Santa Clara,Santa Clara,Offensive Rebound,34,37
+0:00,San Francisco,None,None,34,37
+19:47,San Francisco,Charles Minlend,Turnover,34,37
+19:29,Santa Clara,Guglielmo Caruso,Missed Jumper,34,37
+19:29,San Francisco,Jimbo Lull,Defensive Rebound,34,37
+19:15,San Francisco,Nate Renfro,Missed Layup,34,37
+19:15,San Francisco,Nate Renfro,Offensive Rebound,34,37
+19:07,San Francisco,Frankie Ferrari,Missed Layup,34,37
+19:07,Santa Clara,Guglielmo Caruso,Block,34,37
+19:03,Santa Clara,Trey Wertz,Defensive Rebound,34,37
+18:56,Santa Clara,Trey Wertz,Three Point Jumper,37,37
+18:41,San Francisco,Frankie Ferrari,Missed Three Point Jumper,37,37
+18:41,Santa Clara,Keshawn Justice,Defensive Rebound,37,37
+18:27,Santa Clara,Trey Wertz,Turnover,37,37
+18:26,San Francisco,Jamaree Bouyea,Steal,37,37
+18:25,Santa Clara,Trey Wertz,Foul,37,37
+18:16,San Francisco,Jimbo Lull,Turnover,37,37
+17:57,San Francisco,Nate Renfro,Foul,37,37
+17:57,Santa Clara,Josip Vrankic,Free Throw,38,37
+17:57,Santa Clara,Josip Vrankic,Missed Free Throw,38,37
+17:57,San Francisco,Jamaree Bouyea,Defensive Rebound,38,37
+17:43,San Francisco,Jamaree Bouyea,Missed Layup,38,37
+17:43,San Francisco,Jimbo Lull,Offensive Rebound,38,37
+17:36,San Francisco,Jimbo Lull,Layup,38,39
+17:30,Santa Clara,Guglielmo Caruso,Missed Three Point Jumper,38,39
+17:30,San Francisco,Jamaree Bouyea,Defensive Rebound,38,39
+17:15,San Francisco,Nate Renfro,Dunk,38,41
+17:00,Santa Clara,Guglielmo Caruso,Dunk,40,41
+16:45,Santa Clara,Keshawn Justice,Foul,40,41
+16:34,San Francisco,Nate Renfro,Turnover,40,41
+16:16,Santa Clara,Keshawn Justice,Missed Jumper,40,41
+16:16,San Francisco,Jimbo Lull,Defensive Rebound,40,41
+16:09,San Francisco,Jamaree Bouyea,Missed Layup,40,41
+16:09,Santa Clara,Josip Vrankic,Defensive Rebound,40,41
+16:04,San Francisco,Jordan Ratinho,Foul,40,41
+16:04,Santa Clara,Tahj Eaddy,Free Throw,41,41
+16:04,Santa Clara,Tahj Eaddy,Free Throw,42,41
+15:43,San Francisco,Charles Minlend,Layup,42,43
+15:33,San Francisco,Taavi Jurkatamm,Foul,42,43
+15:33,San Francisco,None,None,42,43
+15:07,Santa Clara,Santa Clara ,Turnover,42,43
+15:02,San Francisco,Charles Minlend,Jumper,42,45
+14:42,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,42,45
+14:42,Santa Clara,Josip Vrankic,Offensive Rebound,42,45
+14:34,San Francisco,Taavi Jurkatamm,Foul,42,45
+14:31,Santa Clara,Henrik Jadersten,Missed Three Point Jumper,42,45
+14:31,Santa Clara,Josip Vrankic,Offensive Rebound,42,45
+14:14,Santa Clara,Trey Wertz,Turnover,42,45
+13:57,San Francisco,Matt McCarthy,Dunk,42,47
+13:37,Santa Clara,Tahj Eaddy,Missed Jumper,42,47
+13:37,San Francisco,Nate Renfro,Defensive Rebound,42,47
+13:28,San Francisco,Jamaree Bouyea,Layup,42,49
+13:20,Santa Clara,None,None,42,49
+13:09,Santa Clara,Josip Vrankic,Jumper,44,49
+12:50,San Francisco,Charles Minlend,Jumper,44,51
+12:20,Santa Clara,Henrik Jadersten,Missed Jumper,44,51
+12:20,San Francisco,Nate Renfro,Defensive Rebound,44,51
+11:58,San Francisco,Nate Renfro,Three Point Jumper,44,54
+11:23,Santa Clara,Josip Vrankic,Turnover,44,54
+11:23,San Francisco,None,None,44,54
+10:49,San Francisco,Nate Renfro,Missed Dunk,44,54
+10:49,San Francisco,Jimbo Lull,Offensive Rebound,44,54
+10:40,San Francisco,Jimbo Lull,Layup,44,56
+10:22,Santa Clara,Keshawn Justice,Turnover,44,56
+10:20,San Francisco,Frankie Ferrari,Steal,44,56
+10:18,San Francisco,Jordan Ratinho,Missed Three Point Jumper,44,56
+10:18,Santa Clara,Josh Martin,Defensive Rebound,44,56
+10:13,San Francisco,Nate Renfro,Foul,44,56
+9:54,Santa Clara,Fallou Ndoye,Missed Jumper,44,56
+9:54,San Francisco,Jimbo Lull,Defensive Rebound,44,56
+9:43,San Francisco,Charles Minlend,Three Point Jumper,44,59
+9:24,Santa Clara,Tahj Eaddy,Layup,46,59
+8:59,Santa Clara,Fallou Ndoye,Foul,46,59
+8:55,San Francisco,Jordan Ratinho,Missed Three Point Jumper,46,59
+8:55,Santa Clara,Santa Clara,Defensive Rebound,46,59
+8:52,San Francisco,Jimbo Lull,Foul,46,59
+8:38,Santa Clara,Trey Wertz,Three Point Jumper,49,59
+8:13,San Francisco,Jimbo Lull,Layup,49,61
+7:56,Santa Clara,Fallou Ndoye,Missed Jumper,49,61
+7:56,Santa Clara,Guglielmo Caruso,Offensive Rebound,49,61
+7:49,Santa Clara,None,None,51,61
+7:45,Santa Clara,Guglielmo Caruso,Foul,51,61
+7:45,San Francisco,None,None,51,61
+7:24,San Francisco,Jamaree Bouyea,Missed Three Point Jumper,51,61
+7:24,Santa Clara,Josip Vrankic,Defensive Rebound,51,61
+7:04,Santa Clara,Guglielmo Caruso,Jumper,53,61
+6:48,San Francisco,Taavi Jurkatamm,Foul,53,61
+6:48,San Francisco,Taavi Jurkatamm,Turnover,53,61
+6:36,San Francisco,Nate Renfro,Foul,53,61
+6:36,Santa Clara,Josip Vrankic,Free Throw,54,61
+6:36,Santa Clara,Josip Vrankic,Free Throw,55,61
+6:20,San Francisco,Matt McCarthy,Missed Jumper,55,61
+6:20,Santa Clara,Josip Vrankic,Defensive Rebound,55,61
+6:10,Santa Clara,Guglielmo Caruso,Dunk,57,61
+6:10,San Francisco,Jamaree Bouyea,Foul,57,61
+6:10,Santa Clara,Guglielmo Caruso,Missed Free Throw,57,61
+6:10,San Francisco,Matt McCarthy,Defensive Rebound,57,61
+5:53,Santa Clara,Josip Vrankic,Foul,57,61
+5:35,San Francisco,Frankie Ferrari,Missed Three Point Jumper,57,61
+5:35,San Francisco,Charles Minlend,Offensive Rebound,57,61
+5:30,Santa Clara,Tahj Eaddy,Foul,57,61
+5:19,San Francisco,Frankie Ferrari,Layup,57,63
+5:19,Santa Clara,Tahj Eaddy,Foul,57,63
+5:19,San Francisco,Frankie Ferrari,Missed Free Throw,57,63
+5:19,Santa Clara,Josip Vrankic,Defensive Rebound,57,63
+4:58,Santa Clara,Keshawn Justice,Turnover,57,63
+4:57,San Francisco,Jamaree Bouyea,Steal,57,63
+4:54,San Francisco,Jamaree Bouyea,Missed Jumper,57,63
+4:54,San Francisco,Jimbo Lull,Offensive Rebound,57,63
+4:52,Santa Clara,Trey Wertz,Foul,57,63
+4:52,San Francisco,Jimbo Lull,Free Throw,57,64
+4:52,San Francisco,Jimbo Lull,Free Throw,57,65
+4:35,Santa Clara,Guglielmo Caruso,Foul,57,65
+4:35,Santa Clara,Guglielmo Caruso,Turnover,57,65
+4:25,San Francisco,Nate Renfro,Jumper,57,67
+4:17,Santa Clara,None,None,57,67
+4:17,San Francisco,None,None,57,67
+4:05,San Francisco,Nate Renfro,Foul,57,67
+4:05,Santa Clara,Josip Vrankic,Free Throw,58,67
+4:05,Santa Clara,Josip Vrankic,Free Throw,59,67
+3:51,San Francisco,Jamaree Bouyea,Missed Three Point Jumper,59,67
+3:51,Santa Clara,Josip Vrankic,Defensive Rebound,59,67
+3:34,Santa Clara,Keshawn Justice,Missed Three Point Jumper,59,67
+3:34,San Francisco,Charles Minlend,Block,59,67
+3:30,Santa Clara,Josip Vrankic,Offensive Rebound,59,67
+3:26,Santa Clara,Josip Vrankic,Jumper,61,67
+3:06,San Francisco,Charles Minlend,Missed Jumper,61,67
+3:06,Santa Clara,Trey Wertz,Defensive Rebound,61,67
+2:56,Santa Clara,Trey Wertz,Layup,63,67
+2:54,San Francisco,None,None,63,67
+2:41,San Francisco,Jordan Ratinho,Missed Three Point Jumper,63,67
+2:41,Santa Clara,Santa Clara,Defensive Rebound,63,67
+2:26,Santa Clara,Josip Vrankic,Foul,63,67
+2:26,Santa Clara,Josip Vrankic,Turnover,63,67
+2:19,San Francisco,Frankie Ferrari,Missed Jumper,63,67
+2:19,Santa Clara,Santa Clara,Defensive Rebound,63,67
+1:49,Santa Clara,Josip Vrankic,Turnover,63,67
+1:45,San Francisco,Charles Minlend,Steal,63,67
+1:36,San Francisco,Jordan Ratinho,Missed Three Point Jumper,63,67
+1:36,San Francisco,Nate Renfro,Offensive Rebound,63,67
+1:35,San Francisco,Jimbo Lull,Jumper,63,69
+1:35,San Francisco,None,None,63,69
+1:27,Santa Clara,Tahj Eaddy,Missed Jumper,63,69
+1:27,San Francisco,Jimbo Lull,Defensive Rebound,63,69
+0:59,San Francisco,Charles Minlend,Jumper,63,71
+0:50,Santa Clara,Guglielmo Caruso,Foul,63,71
+0:39,Santa Clara,Trey Wertz,Foul,63,71
+0:39,San Francisco,Frankie Ferrari,Free Throw,63,72
+0:39,San Francisco,Frankie Ferrari,Free Throw,63,73
+0:32,Santa Clara,Trey Wertz,Layup,65,73
+0:31,Santa Clara,None,None,65,73
+0:30,Santa Clara,Tahj Eaddy,Foul,65,73
+0:30,San Francisco,Frankie Ferrari,Free Throw,65,74
+0:30,San Francisco,Frankie Ferrari,Free Throw,65,75
+0:21,Santa Clara,Trey Wertz,Missed Jumper,65,75
+0:21,Santa Clara,Ezekiel Richards,Offensive Rebound,65,75
+0:19,San Francisco,Matt McCarthy,Foul,65,75
+0:19,Santa Clara,Ezekiel Richards,Free Throw,66,75
+0:19,Santa Clara,Ezekiel Richards,Free Throw,67,75
+0:19,San Francisco,None,None,67,75
+0:16,Santa Clara,Josh Martin,Foul,67,75
+0:16,San Francisco,Charles Minlend,Free Throw,67,76
+0:16,San Francisco,Charles Minlend,Missed Free Throw,67,76
+0:16,Santa Clara,Josip Vrankic,Defensive Rebound,67,76
+0:11,Santa Clara,Trey Wertz,Jumper,69,76
+0:07,Santa Clara,Trey Wertz,Foul,69,76
+0:07,San Francisco,Frankie Ferrari,Free Throw,69,77
+0:07,San Francisco,Frankie Ferrari,Free Throw,69,78
+0:03,Santa Clara,Keshawn Justice,Three Point Jumper,72,78
+0:00,San Francisco,None,None,72,78
+0:00,San Francisco,None,None,72,78

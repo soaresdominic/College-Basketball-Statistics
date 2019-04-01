@@ -1,0 +1,324 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Ole Miss,None,None,0,0
+19:48,Ole Miss,Blake Hinson,Missed Jumper,0,0
+19:48,Alabama,Alabama,Defensive Rebound,0,0
+19:28,Alabama,Herbert Jones,Turnover,0,0
+19:28,Ole Miss,Breein Tyree,Steal,0,0
+19:20,Ole Miss,Breein Tyree,Missed Layup,0,0
+19:20,Alabama,Herbert Jones,Block,0,0
+19:20,Alabama,Riley Norris,Defensive Rebound,0,0
+19:14,Alabama,Kira Lewis Jr.,Layup,2,0
+19:05,Ole Miss,Devontae Shuler,Turnover,2,0
+18:53,Alabama,Galin Smith,Missed Jumper,2,0
+18:53,Ole Miss,Blake Hinson,Defensive Rebound,2,0
+18:41,Ole Miss,Devontae Shuler,Missed Three Point Jumper,2,0
+18:41,Alabama,Riley Norris,Defensive Rebound,2,0
+18:30,Alabama,Donta Hall,Missed Jumper,2,0
+18:30,Ole Miss,Terence Davis,Defensive Rebound,2,0
+18:17,Ole Miss,Bruce Stevens,Jumper,2,2
+17:56,Alabama,Galin Smith,Foul,2,2
+17:56,Alabama,Galin Smith,Turnover,2,2
+17:45,Ole Miss,Terence Davis,Missed Jumper,2,2
+17:45,Alabama,Riley Norris,Defensive Rebound,2,2
+17:33,Alabama,Riley Norris,Missed Three Point Jumper,2,2
+17:33,Ole Miss,Devontae Shuler,Defensive Rebound,2,2
+17:26,Ole Miss,Breein Tyree,Missed Three Point Jumper,2,2
+17:26,Ole Miss,Blake Hinson,Offensive Rebound,2,2
+17:14,Ole Miss,Breein Tyree,Missed Three Point Jumper,2,2
+17:14,Alabama,Riley Norris,Defensive Rebound,2,2
+17:03,Alabama,Herbert Jones,Turnover,2,2
+16:47,Ole Miss,Devontae Shuler,Jumper,2,4
+16:30,Alabama,Alex Reese,Missed Jumper,2,4
+16:30,Alabama,Donta Hall,Offensive Rebound,2,4
+16:19,Alabama,Alex Reese,Missed Three Point Jumper,2,4
+16:19,Ole Miss,KJ Buffen,Defensive Rebound,2,4
+16:11,Ole Miss,Breein Tyree,Missed Three Point Jumper,2,4
+16:11,Alabama,None,Team Rebound,2,4
+16:05,Ole Miss,Dominik Olejniczak,Foul,2,4
+15:47,Alabama,Donta Hall,Turnover,2,4
+15:47,Ole Miss,None,None,2,4
+15:30,Ole Miss,KJ Buffen,Jumper,2,6
+15:08,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,2,6
+15:08,Ole Miss,Breein Tyree,Defensive Rebound,2,6
+14:58,Ole Miss,Terence Davis,Missed Jumper,2,6
+14:58,Alabama,Donta Hall,Defensive Rebound,2,6
+14:46,Alabama,Dazon Ingram,Missed Jumper,2,6
+14:46,Alabama,Donta Hall,Offensive Rebound,2,6
+14:40,Alabama,Donta Hall,Layup,4,6
+14:24,Alabama,Dazon Ingram,Foul,4,6
+14:18,Ole Miss,KJ Buffen,Missed Layup,4,6
+14:18,Alabama,Galin Smith,Defensive Rebound,4,6
+14:08,Alabama,Galin Smith,Jumper,6,6
+13:52,Ole Miss,Breein Tyree,Missed Jumper,6,6
+13:52,Alabama,Dazon Ingram,Defensive Rebound,6,6
+13:39,Alabama,Kira Lewis Jr.,Missed Layup,6,6
+13:39,Ole Miss,Devontae Shuler,Defensive Rebound,6,6
+13:32,Ole Miss,KJ Buffen,Jumper,6,8
+13:10,Alabama,John Petty,Turnover,6,8
+13:10,Ole Miss,Terence Davis,Steal,6,8
+13:04,Ole Miss,Breein Tyree,Three Point Jumper,6,11
+13:00,Alabama,None,None,6,11
+12:41,Alabama,Dazon Ingram,Missed Three Point Jumper,6,11
+12:41,Alabama,Herbert Jones,Offensive Rebound,6,11
+12:35,Alabama,Herbert Jones,Missed Layup,6,11
+12:35,Ole Miss,KJ Buffen,Block,6,11
+12:35,Ole Miss,Blake Hinson,Defensive Rebound,6,11
+12:10,Ole Miss,Bruce Stevens,Jumper,6,13
+11:47,Alabama,John Petty,Missed Three Point Jumper,6,13
+11:47,Ole Miss,Blake Hinson,Defensive Rebound,6,13
+11:25,Ole Miss,Devontae Shuler,Three Point Jumper,6,16
+11:03,Ole Miss,KJ Buffen,Foul,6,16
+11:03,Ole Miss,None,None,6,16
+10:55,Ole Miss,Blake Hinson,Foul,6,16
+10:52,Alabama,Tevin Mack,Missed Three Point Jumper,6,16
+10:52,Ole Miss,Breein Tyree,Defensive Rebound,6,16
+10:34,Ole Miss,Terence Davis,Missed Jumper,6,16
+10:34,Alabama,Herbert Jones,Defensive Rebound,6,16
+10:23,Ole Miss,Blake Hinson,Foul,6,16
+10:23,Alabama,Galin Smith,Layup,8,16
+10:23,Alabama,Galin Smith,Missed Free Throw,8,16
+10:23,Ole Miss,Terence Davis,Defensive Rebound,8,16
+9:55,Alabama,Galin Smith,Foul,8,16
+9:48,Ole Miss,Breein Tyree,Missed Three Point Jumper,8,16
+9:48,Alabama,Tevin Mack,Defensive Rebound,8,16
+9:39,Alabama,Herbert Jones,Turnover,8,16
+9:39,Ole Miss,Breein Tyree,Steal,8,16
+9:34,Ole Miss,Breein Tyree,Missed Dunk,8,16
+9:34,Alabama,Herbert Jones,Block,8,16
+9:34,Ole Miss,KJ Buffen,Offensive Rebound,8,16
+9:16,Ole Miss,Terence Davis,Missed Three Point Jumper,8,16
+9:16,Ole Miss,Dominik Olejniczak,Offensive Rebound,8,16
+9:11,Ole Miss,Dominik Olejniczak,Missed Layup,8,16
+9:11,Alabama,Donta Hall,Defensive Rebound,8,16
+8:48,Ole Miss,Breein Tyree,Foul,8,16
+8:47,Alabama,Tevin Mack,Three Point Jumper,11,16
+8:23,Ole Miss,Bruce Stevens,Jumper,11,18
+7:53,Alabama,Tevin Mack,Turnover,11,18
+7:53,Ole Miss,None,None,11,18
+7:30,Ole Miss,Terence Davis,Missed Three Point Jumper,11,18
+7:30,Alabama,Donta Hall,Defensive Rebound,11,18
+7:11,Alabama,Kira Lewis Jr.,Turnover,11,18
+7:11,Ole Miss,Bruce Stevens,Steal,11,18
+7:02,Ole Miss,Devontae Shuler,Layup,11,20
+6:50,Alabama,Kira Lewis Jr.,Missed Layup,11,20
+6:50,Ole Miss,Bruce Stevens,Defensive Rebound,11,20
+6:23,Ole Miss,Devontae Shuler,Layup,11,22
+5:56,Alabama,Dazon Ingram,Jumper,13,22
+5:27,Ole Miss,KJ Buffen,Jumper,13,24
+5:12,Alabama,Tevin Mack,Three Point Jumper,16,24
+4:50,Ole Miss,Terence Davis,Missed Three Point Jumper,16,24
+4:50,Alabama,Riley Norris,Defensive Rebound,16,24
+4:42,Alabama,Donta Hall,Dunk,18,24
+4:39,Ole Miss,None,None,18,24
+4:27,Ole Miss,Blake Hinson,Three Point Jumper,18,27
+4:01,Alabama,Tevin Mack,Turnover,18,27
+3:49,Ole Miss,Blake Hinson,Three Point Jumper,18,30
+3:22,Alabama,Galin Smith,Layup,20,30
+3:03,Ole Miss,Dominik Olejniczak,Jumper,20,32
+2:38,Alabama,Riley Norris,Missed Three Point Jumper,20,32
+2:38,Alabama,Donta Hall,Offensive Rebound,20,32
+2:27,Alabama,Donta Hall,Turnover,20,32
+2:27,Ole Miss,None,None,20,32
+2:11,Ole Miss,Dominik Olejniczak,Layup,20,34
+1:53,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,20,34
+1:53,Ole Miss,Terence Davis,Defensive Rebound,20,34
+1:43,Alabama,None,None,20,34
+1:43,Ole Miss,Devontae Shuler,Turnover,20,34
+1:43,Alabama,Kira Lewis Jr.,Steal,20,34
+1:31,Alabama,Tevin Mack,Jumper,22,34
+1:15,Ole Miss,Breein Tyree,Jumper,22,36
+0:58,Alabama,Tevin Mack,Missed Three Point Jumper,22,36
+0:58,Alabama,Alex Reese,Offensive Rebound,22,36
+0:53,Alabama,Alex Reese,Layup,24,36
+0:24,Ole Miss,Devontae Shuler,Jumper,24,38
+0:04,Alabama,Herbert Jones,Missed Layup,24,38
+0:04,Ole Miss,Breein Tyree,Defensive Rebound,24,38
+0:00,Ole Miss,None,None,24,38
+20:00,Ole Miss,None,None,24,38
+19:42,Ole Miss,Blake Hinson,Jumper,24,40
+19:20,Alabama,Kira Lewis Jr.,Three Point Jumper,27,40
+18:58,Ole Miss,Terence Davis,Missed Three Point Jumper,27,40
+18:58,Alabama,Donta Hall,Defensive Rebound,27,40
+18:46,Alabama,Tevin Mack,Missed Layup,27,40
+18:46,Ole Miss,Breein Tyree,Block,27,40
+18:46,Alabama,Tevin Mack,Offensive Rebound,27,40
+18:38,Alabama,Tevin Mack,Layup,29,40
+18:24,Alabama,Donta Hall,Foul,29,40
+18:24,Ole Miss,Blake Hinson,Missed Free Throw,29,40
+18:24,Ole Miss,None,Team Rebound,29,40
+18:24,Ole Miss,Blake Hinson,Free Throw,29,41
+18:11,Alabama,Herbert Jones,Turnover,29,41
+17:54,Ole Miss,Bruce Stevens,Turnover,29,41
+17:54,Alabama,Donta Hall,Steal,29,41
+17:41,Alabama,Galin Smith,Missed Layup,29,41
+17:41,Alabama,Tevin Mack,Offensive Rebound,29,41
+17:41,Alabama,None,None,31,41
+17:11,Ole Miss,Devontae Shuler,Jumper,31,43
+16:59,Alabama,Galin Smith,Missed Layup,31,43
+16:59,Ole Miss,Bruce Stevens,Block,31,43
+16:59,Alabama,Galin Smith,Offensive Rebound,31,43
+16:57,Ole Miss,Breein Tyree,Foul,31,43
+16:57,Alabama,Galin Smith,Missed Free Throw,31,43
+16:57,Alabama,None,Team Rebound,31,43
+16:57,Alabama,Galin Smith,Free Throw,32,43
+16:42,Ole Miss,Devontae Shuler,Missed Three Point Jumper,32,43
+16:42,Alabama,Alabama,Defensive Rebound,32,43
+16:22,Alabama,Donta Hall,Missed Jumper,32,43
+16:22,Ole Miss,Devontae Shuler,Defensive Rebound,32,43
+16:13,Ole Miss,Blake Hinson,Missed Three Point Jumper,32,43
+16:13,Alabama,Donta Hall,Defensive Rebound,32,43
+16:00,Alabama,Kira Lewis Jr.,Missed Layup,32,43
+16:00,Ole Miss,Dominik Olejniczak,Block,32,43
+16:00,Alabama,Alabama,Offensive Rebound,32,43
+16:00,Ole Miss,None,None,32,43
+16:00,Alabama,Galin Smith,Foul,32,43
+16:00,Alabama,Galin Smith,Foul,32,43
+16:00,Ole Miss,Blake Hinson,Foul,32,43
+16:00,Ole Miss,Blake Hinson,Foul,32,43
+15:59,Alabama,Tevin Mack,Three Point Jumper,35,43
+15:37,Ole Miss,KJ Buffen,Missed Three Point Jumper,35,43
+15:37,Alabama,Riley Norris,Defensive Rebound,35,43
+15:26,Alabama,Tevin Mack,Foul,35,43
+15:26,Alabama,Tevin Mack,Turnover,35,43
+15:12,Ole Miss,Devontae Shuler,Turnover,35,43
+14:51,Alabama,Tevin Mack,Three Point Jumper,38,43
+14:36,Ole Miss,None,None,38,43
+14:29,Ole Miss,Devontae Shuler,Missed Jumper,38,43
+14:29,Alabama,Donta Hall,Defensive Rebound,38,43
+14:13,Alabama,Kira Lewis Jr.,Layup,40,43
+14:13,Ole Miss,D.C. Davis,Foul,40,43
+14:13,Alabama,Kira Lewis Jr.,Missed Free Throw,40,43
+14:13,Ole Miss,Blake Hinson,Defensive Rebound,40,43
+13:57,Ole Miss,KJ Buffen,Missed Jumper,40,43
+13:57,Alabama,Donta Hall,Defensive Rebound,40,43
+13:43,Alabama,Galin Smith,Layup,42,43
+13:25,Ole Miss,Terence Davis,Turnover,42,43
+13:25,Alabama,Riley Norris,Steal,42,43
+13:16,Alabama,Kira Lewis Jr.,Layup,44,43
+12:47,Ole Miss,Terence Davis,Turnover,44,43
+12:47,Alabama,Kira Lewis Jr.,Steal,44,43
+12:40,Alabama,Tevin Mack,Missed Jumper,44,43
+12:40,Alabama,Donta Hall,Offensive Rebound,44,43
+12:32,Ole Miss,Bruce Stevens,Foul,44,43
+12:32,Alabama,Donta Hall,Missed Free Throw,44,43
+12:32,Alabama,None,Team Rebound,44,43
+12:32,Alabama,Donta Hall,Missed Free Throw,44,43
+12:32,Ole Miss,Blake Hinson,Defensive Rebound,44,43
+12:19,Ole Miss,Bruce Stevens,Three Point Jumper,44,46
+12:19,Alabama,Alex Reese,Foul,44,46
+12:08,Ole Miss,Blake Hinson,Missed Three Point Jumper,44,46
+12:08,Alabama,Donta Hall,Defensive Rebound,44,46
+11:43,Alabama,Alex Reese,Missed Jumper,44,46
+11:43,Alabama,Donta Hall,Offensive Rebound,44,46
+11:39,Alabama,Donta Hall,Dunk,46,46
+11:39,Ole Miss,Breein Tyree,Foul,46,46
+11:39,Ole Miss,None,None,46,46
+11:39,Alabama,Donta Hall,Free Throw,47,46
+11:25,Ole Miss,Terence Davis,Turnover,47,46
+11:25,Alabama,Dazon Ingram,Steal,47,46
+10:59,Alabama,Riley Norris,Missed Three Point Jumper,47,46
+10:59,Ole Miss,Breein Tyree,Defensive Rebound,47,46
+10:50,Ole Miss,Breein Tyree,Missed Three Point Jumper,47,46
+10:50,Alabama,Riley Norris,Defensive Rebound,47,46
+10:44,Ole Miss,KJ Buffen,Foul,47,46
+10:27,Alabama,John Petty,Turnover,47,46
+10:07,Ole Miss,Terence Davis,Missed Jumper,47,46
+10:07,Ole Miss,KJ Buffen,Offensive Rebound,47,46
+10:07,Ole Miss,KJ Buffen,Dunk,47,48
+9:45,Alabama,Donta Hall,Turnover,47,48
+9:45,Ole Miss,Terence Davis,Steal,47,48
+9:41,Ole Miss,Devontae Shuler,Missed Dunk,47,48
+9:41,Alabama,Kira Lewis Jr.,Defensive Rebound,47,48
+9:34,Alabama,Kira Lewis Jr.,Turnover,47,48
+9:34,Alabama,Kira Lewis Jr.,Foul,47,48
+9:19,Ole Miss,Breein Tyree,Missed Layup,47,48
+9:19,Alabama,Tevin Mack,Defensive Rebound,47,48
+9:01,Alabama,Riley Norris,Missed Layup,47,48
+9:01,Ole Miss,Terence Davis,Defensive Rebound,47,48
+8:44,Ole Miss,Breein Tyree,Missed Three Point Jumper,47,48
+8:37,Alabama,Tevin Mack,Defensive Rebound,47,48
+8:25,Ole Miss,KJ Buffen,Foul,47,48
+8:25,Alabama,Tevin Mack,Free Throw,48,48
+8:25,Alabama,Tevin Mack,Missed Free Throw,48,48
+8:25,Ole Miss,Devontae Shuler,Defensive Rebound,48,48
+8:16,Ole Miss,Terence Davis,Three Point Jumper,48,51
+7:54,Ole Miss,KJ Buffen,Foul,48,51
+7:54,Ole Miss,None,None,48,51
+7:54,Alabama,Galin Smith,Missed Free Throw,48,51
+7:54,Ole Miss,Devontae Shuler,Defensive Rebound,48,51
+7:47,Ole Miss,Devontae Shuler,Missed Layup,48,51
+7:47,Alabama,Riley Norris,Defensive Rebound,48,51
+7:33,Alabama,Tevin Mack,Missed Jumper,48,51
+7:33,Alabama,Riley Norris,Offensive Rebound,48,51
+7:33,Alabama,None,None,50,51
+7:14,Ole Miss,Breein Tyree,Missed Jumper,50,51
+7:14,Alabama,Galin Smith,Defensive Rebound,50,51
+6:54,Alabama,Donta Hall,Missed Jumper,50,51
+6:54,Alabama,Galin Smith,Offensive Rebound,50,51
+6:30,Ole Miss,Breein Tyree,Foul,50,51
+6:30,Alabama,Kira Lewis Jr.,Free Throw,51,51
+6:30,Alabama,Kira Lewis Jr.,Free Throw,52,51
+6:17,Ole Miss,KJ Buffen,Turnover,52,51
+6:17,Alabama,Kira Lewis Jr.,Steal,52,51
+6:05,Alabama,Kira Lewis Jr.,Missed Layup,52,51
+6:05,Ole Miss,Devontae Shuler,Block,52,51
+6:05,Alabama,Alabama,Offensive Rebound,52,51
+5:47,Alabama,Dazon Ingram,Missed Layup,52,51
+5:47,Ole Miss,Ole Miss,Defensive Rebound,52,51
+5:26,Ole Miss,Terence Davis,Missed Jumper,52,51
+5:26,Alabama,Galin Smith,Block,52,51
+5:26,Alabama,Galin Smith,Defensive Rebound,52,51
+5:18,Alabama,None,None,52,51
+4:59,Alabama,Riley Norris,Missed Three Point Jumper,52,51
+4:59,Ole Miss,Terence Davis,Defensive Rebound,52,51
+4:44,Ole Miss,Bruce Stevens,Three Point Jumper,52,54
+4:26,Ole Miss,Bruce Stevens,Foul,52,54
+4:26,Alabama,Galin Smith,Missed Free Throw,52,54
+4:26,Alabama,None,Team Rebound,52,54
+4:26,Alabama,Galin Smith,Free Throw,53,54
+4:14,Ole Miss,Breein Tyree,Jumper,53,56
+3:55,Alabama,Herbert Jones,Missed Jumper,53,56
+3:55,Ole Miss,Devontae Shuler,Block,53,56
+3:55,Alabama,Alabama,Offensive Rebound,53,56
+3:55,Ole Miss,None,None,53,56
+3:42,Alabama,Tevin Mack,Layup,55,56
+3:21,Alabama,Galin Smith,Foul,55,56
+3:21,Ole Miss,Devontae Shuler,Missed Free Throw,55,56
+3:21,Ole Miss,None,Team Rebound,55,56
+3:21,Ole Miss,Devontae Shuler,Free Throw,55,57
+3:05,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,55,57
+3:05,Ole Miss,Terence Davis,Defensive Rebound,55,57
+2:36,Ole Miss,Breein Tyree,Missed Three Point Jumper,55,57
+2:36,Alabama,Donta Hall,Defensive Rebound,55,57
+2:24,Alabama,Galin Smith,Missed Jumper,55,57
+2:24,Alabama,Alabama,Offensive Rebound,55,57
+2:14,Alabama,Kira Lewis Jr.,Turnover,55,57
+1:53,Ole Miss,Breein Tyree,Missed Jumper,55,57
+1:53,Alabama,Tevin Mack,Defensive Rebound,55,57
+1:44,Alabama,None,None,55,57
+1:36,Alabama,Kira Lewis Jr.,Layup,57,57
+1:26,Ole Miss,None,None,57,57
+1:14,Ole Miss,Terence Davis,Turnover,57,57
+1:14,Alabama,Kira Lewis Jr.,Steal,57,57
+1:07,Alabama,Kira Lewis Jr.,Missed Layup,57,57
+1:07,Alabama,John Petty,Offensive Rebound,57,57
+1:07,Alabama,John Petty,Dunk,59,57
+0:46,Ole Miss,Bruce Stevens,Missed Jumper,59,57
+0:46,Ole Miss,KJ Buffen,Offensive Rebound,59,57
+0:43,Ole Miss,KJ Buffen,Missed Jumper,59,57
+0:43,Alabama,Galin Smith,Defensive Rebound,59,57
+0:43,Ole Miss,KJ Buffen,Foul,59,57
+0:43,Alabama,Galin Smith,Free Throw,60,57
+0:43,Alabama,Galin Smith,Missed Free Throw,60,57
+0:43,Ole Miss,Devontae Shuler,Defensive Rebound,60,57
+0:29,Ole Miss,Devontae Shuler,Missed Three Point Jumper,60,57
+0:29,Alabama,Galin Smith,Defensive Rebound,60,57
+0:21,Alabama,None,None,60,57
+0:20,Ole Miss,Breein Tyree,Foul,60,57
+0:20,Alabama,Dazon Ingram,Free Throw,61,57
+0:20,Alabama,Dazon Ingram,Free Throw,62,57
+0:16,Ole Miss,Terence Davis,Missed Three Point Jumper,62,57
+0:16,Ole Miss,Devontae Shuler,Offensive Rebound,62,57
+0:09,Ole Miss,Devontae Shuler,Missed Three Point Jumper,62,57
+0:09,Alabama,Donta Hall,Defensive Rebound,62,57
+0:00,Ole Miss,None,None,62,57

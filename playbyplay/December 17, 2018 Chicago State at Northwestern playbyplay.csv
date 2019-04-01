@@ -1,0 +1,334 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Northwestern,None,None,0,0
+19:42,Northwestern,Miller Kopp,Missed Three Point Jumper,0,0
+19:42,Chicago State,Anthony Harris,Defensive Rebound,0,0
+19:23,Chicago State,Anthony Harris,Foul,0,0
+19:23,Chicago State,Anthony Harris,Turnover,0,0
+19:05,Northwestern,Miller Kopp,Three Point Jumper,0,3
+18:45,Northwestern,Vic Law,Foul,0,3
+18:45,Chicago State,Anthony Harris,Free Throw,1,3
+18:45,Chicago State,Anthony Harris,Free Throw,2,3
+18:33,Northwestern,Dererk Pardon,Jumper,2,5
+18:11,Chicago State,Patrick Szpir,Missed Jumper,2,5
+18:11,Chicago State,Rob Shaw,Offensive Rebound,2,5
+18:01,Chicago State,Travon Bell,Missed Three Point Jumper,2,5
+18:01,Northwestern,Dererk Pardon,Defensive Rebound,2,5
+17:42,Northwestern,Miller Kopp,Jumper,2,7
+17:14,Chicago State,Rob Shaw,Missed Jumper,2,7
+17:14,Chicago State,Chicago State,Offensive Rebound,2,7
+17:02,Chicago State,Anthony Harris,Missed Layup,2,7
+17:02,Northwestern,Miller Kopp,Defensive Rebound,2,7
+16:50,Northwestern,A.J. Turner,Turnover,2,7
+16:50,Chicago State,Christian Jacob,Steal,2,7
+16:40,Chicago State,Rob Shaw,Jumper,4,7
+16:26,Northwestern,Vic Law,Jumper,4,9
+16:06,Chicago State,Travon Bell,Missed Three Point Jumper,4,9
+16:06,Northwestern,Northwestern,Defensive Rebound,4,9
+15:54,Northwestern,A.J. Turner,Turnover,4,9
+15:54,Chicago State,Travon Bell,Steal,4,9
+15:53,Chicago State,Travon Bell,Turnover,4,9
+15:53,Northwestern,None,None,4,9
+15:39,Northwestern,Miller Kopp,Jumper,4,11
+15:13,Chicago State,Travon Bell,Three Point Jumper,7,11
+14:33,Chicago State,Christian Jacob,Foul,7,11
+14:33,Northwestern,Vic Law,Missed Free Throw,7,11
+14:33,Northwestern,None,Team Rebound,7,11
+14:33,Northwestern,Vic Law,Free Throw,7,12
+14:21,Chicago State,Rob Shaw,Turnover,7,12
+14:21,Northwestern,Vic Law,Steal,7,12
+14:05,Northwestern,Ryan Taylor,Missed Three Point Jumper,7,12
+14:05,Northwestern,Anthony Gaines,Offensive Rebound,7,12
+13:47,Northwestern,Ryan Greer,Three Point Jumper,7,15
+13:32,Chicago State,Rob Shaw,Turnover,7,15
+13:32,Northwestern,Ryan Greer,Steal,7,15
+13:26,Northwestern,Ryan Greer,Layup,7,17
+13:26,Chicago State,Travon Bell,Foul,7,17
+13:26,Northwestern,None,None,7,17
+13:26,Northwestern,Ryan Greer,Missed Free Throw,7,17
+13:26,Chicago State,Anthony Harris,Defensive Rebound,7,17
+13:17,Chicago State,Anthony Harris,Jumper,9,17
+13:08,Northwestern,Anthony Gaines,Layup,9,19
+12:49,Chicago State,Delshon Strickland,Turnover,9,19
+12:49,Northwestern,Ryan Taylor,Steal,9,19
+12:36,Northwestern,Ryan Greer,Turnover,9,19
+12:28,Chicago State,Anthony Harris,Layup,11,19
+12:28,Northwestern,Barret Benson,Foul,11,19
+12:28,Chicago State,Anthony Harris,Free Throw,12,19
+12:09,Northwestern,Pete Nance,Jumper,12,21
+11:52,Chicago State,Patrick Szpir,Foul,12,21
+11:52,Chicago State,Patrick Szpir,Turnover,12,21
+11:52,Northwestern,None,None,12,21
+11:37,Northwestern,Pete Nance,Missed Three Point Jumper,12,21
+11:37,Chicago State,Delshon Strickland,Defensive Rebound,12,21
+11:10,Northwestern,Pete Nance,Foul,12,21
+10:56,Chicago State,Rob Shaw,Layup,14,21
+10:42,Chicago State,Patrick Szpir,Foul,14,21
+10:42,Northwestern,Dererk Pardon,Missed Free Throw,14,21
+10:42,Northwestern,None,Team Rebound,14,21
+10:42,Northwestern,Dererk Pardon,Free Throw,14,22
+10:29,Chicago State,Rob Shaw,Turnover,14,22
+10:12,Northwestern,Vic Law,Jumper,14,24
+9:42,Chicago State,Anthony Harris,Missed Jumper,14,24
+9:42,Northwestern,Miller Kopp,Defensive Rebound,14,24
+9:31,Northwestern,A.J. Turner,Three Point Jumper,14,27
+9:08,Northwestern,Miller Kopp,Foul,14,27
+9:08,Chicago State,Ken Odiase,Missed Free Throw,14,27
+9:08,Chicago State,None,Team Rebound,14,27
+9:08,Chicago State,Ken Odiase,Missed Free Throw,14,27
+9:08,Northwestern,Anthony Gaines,Defensive Rebound,14,27
+9:04,Northwestern,Miller Kopp,Missed Three Point Jumper,14,27
+9:04,Chicago State,Delshon Strickland,Defensive Rebound,14,27
+8:52,Chicago State,Christian Jacob,Missed Layup,14,27
+8:52,Northwestern,Dererk Pardon,Block,14,27
+8:52,Northwestern,A.J. Turner,Defensive Rebound,14,27
+8:41,Northwestern,Dererk Pardon,Missed Layup,14,27
+8:41,Chicago State,Ken Odiase,Block,14,27
+8:41,Chicago State,Ken Odiase,Defensive Rebound,14,27
+8:11,Northwestern,Ryan Taylor,Foul,14,27
+8:11,Chicago State,Rob Shaw,Free Throw,15,27
+8:11,Chicago State,Rob Shaw,Missed Free Throw,15,27
+8:11,Chicago State,None,Team Rebound,15,27
+8:11,Chicago State,Rob Shaw,Free Throw,16,27
+8:00,Northwestern,Ryan Taylor,Missed Three Point Jumper,16,27
+8:00,Chicago State,Anthony Harris,Defensive Rebound,16,27
+7:43,Chicago State,Christian Jacob,Turnover,16,27
+7:42,Northwestern,None,None,16,27
+7:31,Northwestern,Vic Law,Missed Three Point Jumper,16,27
+7:31,Chicago State,Rob Shaw,Defensive Rebound,16,27
+7:07,Chicago State,Anthony Harris,Missed Jumper,16,27
+7:07,Northwestern,Dererk Pardon,Block,16,27
+7:07,Chicago State,Chicago State,Offensive Rebound,16,27
+6:58,Chicago State,Christian Jacob,Layup,18,27
+6:44,Northwestern,Ryan Taylor,Missed Three Point Jumper,18,27
+6:44,Northwestern,Dererk Pardon,Offensive Rebound,18,27
+6:44,Northwestern,None,None,18,29
+6:17,Chicago State,Anthony Harris,Turnover,18,29
+6:17,Northwestern,Dererk Pardon,Steal,18,29
+6:16,Chicago State,Ken Odiase,Foul,18,29
+6:06,Northwestern,Ryan Taylor,Missed Jumper,18,29
+6:06,Chicago State,Rob Shaw,Defensive Rebound,18,29
+5:55,Chicago State,Rob Shaw,Missed Layup,18,29
+5:55,Northwestern,Dererk Pardon,Defensive Rebound,18,29
+5:48,Northwestern,Anthony Gaines,Missed Jumper,18,29
+5:48,Chicago State,Christian Jacob,Defensive Rebound,18,29
+5:42,Northwestern,None,None,18,29
+5:42,Northwestern,None,None,18,29
+5:41,Chicago State,Rob Shaw,Layup,20,29
+5:34,Northwestern,A.J. Turner,Missed Three Point Jumper,20,29
+5:34,Chicago State,Rob Shaw,Defensive Rebound,20,29
+5:25,Chicago State,Anthony Harris,Missed Layup,20,29
+5:25,Northwestern,Dererk Pardon,Defensive Rebound,20,29
+5:16,Northwestern,Vic Law,Jumper,20,31
+4:55,Chicago State,Travon Bell,Three Point Jumper,23,31
+4:37,Northwestern,Vic Law,Missed Three Point Jumper,23,31
+4:37,Northwestern,Northwestern,Offensive Rebound,23,31
+4:33,Chicago State,Ken Odiase,Foul,23,31
+4:33,Northwestern,Dererk Pardon,Free Throw,23,32
+4:33,Northwestern,Dererk Pardon,Free Throw,23,33
+4:21,Northwestern,Vic Law,Missed Jumper,23,33
+4:21,Northwestern,Anthony Gaines,Offensive Rebound,23,33
+4:03,Northwestern,A.J. Turner,Missed Jumper,23,33
+4:03,Chicago State,Anthony Harris,Block,23,33
+4:03,Northwestern,Northwestern,Offensive Rebound,23,33
+3:55,Northwestern,Anthony Gaines,Three Point Jumper,23,36
+3:29,Chicago State,Anthony Harris,Missed Layup,23,36
+3:29,Northwestern,Dererk Pardon,Defensive Rebound,23,36
+3:17,Northwestern,Vic Law,Three Point Jumper,23,39
+2:54,Chicago State,Christian Jacob,Layup,25,39
+2:38,Northwestern,Anthony Gaines,Missed Three Point Jumper,25,39
+2:38,Northwestern,Vic Law,Offensive Rebound,25,39
+2:31,Northwestern,Anthony Gaines,Turnover,25,39
+2:31,Chicago State,Anthony Harris,Steal,25,39
+2:24,Chicago State,Travon Bell,Missed Three Point Jumper,25,39
+2:24,Northwestern,Dererk Pardon,Defensive Rebound,25,39
+2:12,Northwestern,Ryan Taylor,Three Point Jumper,25,42
+1:42,Chicago State,Delshon Strickland,Missed Jumper,25,42
+1:42,Northwestern,A.J. Turner,Defensive Rebound,25,42
+1:30,Northwestern,Vic Law,Missed Three Point Jumper,25,42
+1:30,Chicago State,Rob Shaw,Defensive Rebound,25,42
+1:27,Northwestern,None,None,25,42
+1:27,Northwestern,Ryan Taylor,Foul,25,42
+1:14,Northwestern,Dererk Pardon,Foul,25,42
+1:14,Chicago State,Christian Jacob,Missed Free Throw,25,42
+1:14,Chicago State,None,Team Rebound,25,42
+1:14,Chicago State,Christian Jacob,Missed Free Throw,25,42
+1:14,Chicago State,Travon Bell,Offensive Rebound,25,42
+0:59,Chicago State,Travon Bell,Missed Three Point Jumper,25,42
+0:59,Chicago State,Christian Jacob,Offensive Rebound,25,42
+0:52,Northwestern,Dererk Pardon,Foul,25,42
+0:52,Chicago State,Christian Jacob,Free Throw,26,42
+0:52,Chicago State,Christian Jacob,Free Throw,27,42
+0:31,Chicago State,Anthony Harris,Foul,27,42
+0:31,Northwestern,Vic Law,Free Throw,27,43
+0:31,Northwestern,Vic Law,Free Throw,27,44
+0:07,Chicago State,Delshon Strickland,Missed Jumper,27,44
+0:07,Northwestern,Barret Benson,Defensive Rebound,27,44
+0:00,Northwestern,None,None,27,44
+20:00,Chicago State,None,None,27,44
+19:42,Chicago State,Patrick Szpir,Missed Jumper,27,44
+19:42,Northwestern,Vic Law,Defensive Rebound,27,44
+19:35,Northwestern,Ryan Taylor,Missed Three Point Jumper,27,44
+19:35,Northwestern,Vic Law,Offensive Rebound,27,44
+19:24,Northwestern,Dererk Pardon,Jumper,27,46
+19:16,Chicago State,None,None,27,46
+19:11,Chicago State,Anthony Harris,Missed Jumper,27,46
+19:11,Chicago State,Patrick Szpir,Offensive Rebound,27,46
+19:00,Chicago State,Rob Shaw,Turnover,27,46
+19:00,Northwestern,Vic Law,Steal,27,46
+18:54,Northwestern,Dererk Pardon,Missed Jumper,27,46
+18:54,Northwestern,Miller Kopp,Offensive Rebound,27,46
+18:54,Northwestern,None,None,27,48
+18:32,Chicago State,Travon Bell,Missed Jumper,27,48
+18:32,Northwestern,Miller Kopp,Block,27,48
+18:32,Chicago State,Chicago State,Offensive Rebound,27,48
+18:19,Chicago State,Travon Bell,Missed Three Point Jumper,27,48
+18:19,Northwestern,Ryan Taylor,Defensive Rebound,27,48
+18:05,Northwestern,Miller Kopp,Turnover,27,48
+18:05,Chicago State,Anthony Harris,Steal,27,48
+17:58,Chicago State,Anthony Harris,Missed Jumper,27,48
+17:58,Northwestern,Vic Law,Block,27,48
+17:58,Chicago State,Christian Jacob,Offensive Rebound,27,48
+17:54,Chicago State,Christian Jacob,Jumper,29,48
+17:35,Northwestern,Ryan Taylor,Missed Three Point Jumper,29,48
+17:35,Chicago State,Delshon Strickland,Defensive Rebound,29,48
+17:25,Chicago State,Rob Shaw,Missed Jumper,29,48
+17:25,Northwestern,Ryan Taylor,Defensive Rebound,29,48
+17:16,Northwestern,Vic Law,Jumper,29,50
+16:56,Chicago State,Travon Bell,Jumper,31,50
+16:44,Northwestern,Vic Law,Three Point Jumper,31,53
+16:44,Chicago State,Rob Shaw,Missed Jumper,31,53
+16:44,Northwestern,Dererk Pardon,Defensive Rebound,31,53
+16:44,Northwestern,Miller Kopp,Missed Three Point Jumper,31,53
+16:44,Northwestern,Vic Law,Offensive Rebound,31,53
+16:21,Northwestern,Ryan Taylor,Three Point Jumper,31,56
+16:04,Chicago State,Christian Jacob,Missed Jumper,31,56
+16:04,Northwestern,A.J. Turner,Defensive Rebound,31,56
+15:59,Northwestern,Dererk Pardon,Missed Jumper,31,56
+15:59,Chicago State,Delshon Strickland,Block,31,56
+15:59,Chicago State,Delshon Strickland,Defensive Rebound,31,56
+15:42,Chicago State,Delshon Strickland,Jumper,33,56
+15:22,Chicago State,Ken Odiase,Foul,33,56
+15:22,Northwestern,None,None,33,56
+15:18,Northwestern,Dererk Pardon,Jumper,33,58
+15:01,Chicago State,Travon Bell,Turnover,33,58
+15:01,Northwestern,Vic Law,Steal,33,58
+14:59,Chicago State,Travon Bell,Foul,33,58
+14:47,Chicago State,Michael Johnson,Foul,33,58
+14:31,Northwestern,Vic Law,Missed Three Point Jumper,33,58
+14:31,Chicago State,Travon Bell,Defensive Rebound,33,58
+14:23,Northwestern,Ryan Taylor,Foul,33,58
+14:23,Chicago State,Anthony Harris,Free Throw,34,58
+14:23,Chicago State,Anthony Harris,Free Throw,35,58
+13:57,Northwestern,Anthony Gaines,Missed Three Point Jumper,35,58
+13:57,Northwestern,Northwestern,Offensive Rebound,35,58
+13:51,Northwestern,Northwestern ,Turnover,35,58
+13:25,Chicago State,Travon Bell,Missed Jumper,35,58
+13:25,Northwestern,Anthony Gaines,Defensive Rebound,35,58
+13:12,Northwestern,Barret Benson,Three Point Jumper,35,61
+12:36,Chicago State,Rob Shaw,Missed Three Point Jumper,35,61
+12:36,Chicago State,Chicago State,Offensive Rebound,35,61
+12:33,Northwestern,Ryan Greer,Foul,35,61
+12:28,Chicago State,Anthony Harris,Missed Jumper,35,61
+12:28,Northwestern,Barret Benson,Defensive Rebound,35,61
+12:05,Northwestern,Barret Benson,Missed Jumper,35,61
+12:05,Chicago State,Rob Shaw,Defensive Rebound,35,61
+11:45,Chicago State,Anthony Harris,Missed Jumper,35,61
+11:45,Northwestern,Barret Benson,Block,35,61
+11:45,Northwestern,Barret Benson,Defensive Rebound,35,61
+11:38,Northwestern,Pete Nance,Dunk,35,63
+11:23,Chicago State,Anthony Harris,Turnover,35,63
+11:23,Northwestern,None,None,35,63
+11:10,Northwestern,Pete Nance,Missed Three Point Jumper,35,63
+11:10,Northwestern,Pete Nance,Offensive Rebound,35,63
+10:55,Northwestern,Barret Benson,Dunk,35,65
+10:22,Chicago State,Chicago State ,Turnover,35,65
+9:58,Northwestern,Anthony Gaines,Missed Jumper,35,65
+9:58,Chicago State,Anthony Harris,Defensive Rebound,35,65
+9:50,Chicago State,Travon Bell,Missed Three Point Jumper,35,65
+9:50,Chicago State,Patrick Szpir,Offensive Rebound,35,65
+9:40,Northwestern,Ryan Greer,Foul,35,65
+9:40,Chicago State,Rob Shaw,Missed Free Throw,35,65
+9:40,Chicago State,None,Team Rebound,35,65
+9:40,Chicago State,Rob Shaw,Free Throw,36,65
+9:24,Northwestern,Ryan Taylor,Three Point Jumper,36,68
+9:10,Chicago State,Travon Bell,Jumper,38,68
+8:43,Chicago State,Eugene Witherspoon,Foul,38,68
+8:25,Northwestern,Dererk Pardon,Layup,38,70
+8:19,Chicago State,Rob Shaw,Jumper,40,70
+7:54,Northwestern,Pete Nance,Missed Three Point Jumper,40,70
+7:54,Chicago State,Rob Shaw,Defensive Rebound,40,70
+7:35,Northwestern,Jordan Ash,Foul,40,70
+7:35,Northwestern,None,None,40,70
+7:33,Chicago State,Travon Bell,Missed Three Point Jumper,40,70
+7:33,Chicago State,Anthony Harris,Offensive Rebound,40,70
+7:13,Northwestern,Ryan Greer,Foul,40,70
+7:06,Chicago State,Christian Jacob,Missed Jumper,40,70
+7:06,Northwestern,Jordan Ash,Defensive Rebound,40,70
+6:38,Northwestern,Jordan Ash,Missed Jumper,40,70
+6:38,Chicago State,None,Team Rebound,40,70
+6:26,Chicago State,Anthony Harris,Foul,40,70
+6:26,Chicago State,Anthony Harris,Turnover,40,70
+6:21,Northwestern,Aaron Falzon,Missed Three Point Jumper,40,70
+6:21,Northwestern,Ryan Greer,Offensive Rebound,40,70
+6:09,Chicago State,Delshon Strickland,Foul,40,70
+6:09,Northwestern,Barret Benson,Layup,40,72
+6:09,Northwestern,Barret Benson,Missed Free Throw,40,72
+6:09,Northwestern,Pete Nance,Offensive Rebound,40,72
+6:07,Northwestern,Aaron Falzon,Missed Three Point Jumper,40,72
+6:07,Northwestern,Northwestern,Offensive Rebound,40,72
+5:50,Northwestern,Miller Kopp,Jumper,40,74
+5:39,Chicago State,Christian Jacob,Turnover,40,74
+5:39,Northwestern,Ryan Greer,Steal,40,74
+5:30,Chicago State,Anthony Harris,Foul,40,74
+5:30,Northwestern,Miller Kopp,Missed Free Throw,40,74
+5:30,Northwestern,None,Team Rebound,40,74
+5:30,Northwestern,Miller Kopp,Free Throw,40,75
+5:08,Chicago State,Christian Jacob,Turnover,40,75
+4:39,Northwestern,Miller Kopp,Foul,40,75
+4:39,Northwestern,Miller Kopp,Turnover,40,75
+4:24,Chicago State,Rob Shaw,Missed Three Point Jumper,40,75
+4:24,Chicago State,Chicago State,Offensive Rebound,40,75
+4:20,Northwestern,Miller Kopp,Foul,40,75
+4:20,Chicago State,Anthony Harris,Free Throw,41,75
+4:20,Chicago State,Anthony Harris,Missed Free Throw,41,75
+4:20,Northwestern,Barret Benson,Defensive Rebound,41,75
+4:13,Chicago State,Eugene Witherspoon,Foul,41,75
+4:13,Northwestern,Barret Benson,Free Throw,41,76
+4:13,Northwestern,Barret Benson,Free Throw,41,77
+4:02,Chicago State,Anthony Harris,Turnover,41,77
+3:55,Northwestern,Miller Kopp,Three Point Jumper,41,80
+3:32,Chicago State,Christian Jacob,Missed Jumper,41,80
+3:32,Northwestern,Barret Benson,Block,41,80
+3:32,Northwestern,Ryan Greer,Defensive Rebound,41,80
+3:12,Northwestern,Miller Kopp,Missed Three Point Jumper,41,80
+3:12,Chicago State,Anthony Harris,Defensive Rebound,41,80
+3:03,Chicago State,Christian Jacob,Layup,43,80
+2:50,Northwestern,Miller Kopp,Turnover,43,80
+2:50,Chicago State,Travon Bell,Steal,43,80
+2:45,Northwestern,Miller Kopp,Foul,43,80
+2:45,Northwestern,None,None,43,80
+2:45,Northwestern,None,None,44,80
+2:45,Northwestern,None,None,43,80
+2:45,Chicago State,Travon Bell,Free Throw,45,80
+2:45,Northwestern,None,None,44,80
+2:45,Northwestern,None,None,43,80
+2:45,Northwestern,None,None,44,80
+2:45,Northwestern,None,None,43,80
+2:45,Northwestern,None,None,44,80
+2:45,Northwestern,None,None,43,80
+2:45,Chicago State,Travon Bell,Free Throw,44,80
+2:29,Northwestern,Aaron Falzon,Three Point Jumper,45,83
+1:55,Chicago State,Jordan Reed,Turnover,45,83
+1:55,Northwestern,Barret Benson,Steal,45,83
+1:40,Northwestern,Miller Kopp,Layup,45,85
+1:30,Chicago State,Rob Shaw,Missed Jumper,45,85
+1:30,Northwestern,Miller Kopp,Defensive Rebound,45,85
+1:08,Northwestern,Aaron Falzon,Three Point Jumper,45,88
+0:45,Northwestern,Barret Benson,Foul,45,88
+0:45,Chicago State,Anthony Harris,Missed Free Throw,45,88
+0:45,Chicago State,None,Team Rebound,45,88
+0:45,Chicago State,Anthony Harris,Free Throw,46,88
+0:27,Northwestern,Pete Nance,Missed Jumper,46,88
+0:27,Chicago State,Eugene Witherspoon,Block,46,88
+0:27,Northwestern,Northwestern,Offensive Rebound,46,88
+0:00,Northwestern,None,None,46,88

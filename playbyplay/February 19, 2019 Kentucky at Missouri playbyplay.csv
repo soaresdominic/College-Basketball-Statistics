@@ -1,0 +1,287 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Kentucky,None,None,0,0
+19:47,Kentucky,Keldon Johnson,Missed Jumper,0,0
+19:47,Missouri,Missouri,Defensive Rebound,0,0
+19:32,Missouri,Xavier Pinson,Three Point Jumper,0,3
+19:09,Kentucky,PJ Washington,Three Point Jumper,3,3
+18:34,Missouri,Xavier Pinson,Turnover,3,3
+18:21,Kentucky,Reid Travis,Missed Three Point Jumper,3,3
+18:21,Kentucky,Keldon Johnson,Offensive Rebound,3,3
+18:02,Kentucky,Tyler Herro,Three Point Jumper,6,3
+17:28,Kentucky,Reid Travis,Foul,6,3
+17:27,Missouri,Jordan Geist,Missed Jumper,6,3
+17:27,Missouri,Kevin Puryear,Offensive Rebound,6,3
+17:23,Missouri,Kevin Puryear,Layup,6,5
+17:07,Kentucky,Keldon Johnson,Missed Jumper,6,5
+17:07,Kentucky,Keldon Johnson,Offensive Rebound,6,5
+17:04,Missouri,Ronnie Suggs,Foul,6,5
+16:57,Kentucky,Reid Travis,Layup,8,5
+16:57,Missouri,Kevin Puryear,Foul,8,5
+16:57,Kentucky,Reid Travis,Free Throw,9,5
+16:48,Missouri,Kevin Puryear,Missed Three Point Jumper,9,5
+16:48,Missouri,Jeremiah Tilmon,Offensive Rebound,9,5
+16:43,Missouri,Jeremiah Tilmon,Missed Jumper,9,5
+16:43,Kentucky,Keldon Johnson,Defensive Rebound,9,5
+16:32,Missouri,Kevin Puryear,Foul,9,5
+16:32,Kentucky,PJ Washington,Free Throw,10,5
+16:32,Kentucky,PJ Washington,Missed Free Throw,10,5
+16:32,Missouri,Mitchell Smith,Defensive Rebound,10,5
+16:19,Missouri,Jeremiah Tilmon,Foul,10,5
+16:19,Missouri,Jeremiah Tilmon,Turnover,10,5
+15:53,Kentucky,Ashton Hagans,Foul,10,5
+15:53,Kentucky,Ashton Hagans,Turnover,10,5
+15:53,Missouri,None,None,10,5
+15:37,Missouri,Ronnie Suggs,Jumper,10,7
+15:09,Kentucky,PJ Washington,Missed Jumper,10,7
+15:09,Missouri,Mark Smith,Defensive Rebound,10,7
+14:59,Missouri,Jeremiah Tilmon,Foul,10,7
+14:59,Missouri,Jeremiah Tilmon,Turnover,10,7
+14:38,Kentucky,Nick Richards,Turnover,10,7
+14:20,Missouri,Reed Nikko,Turnover,10,7
+14:12,Kentucky,Tyler Herro,Missed Three Point Jumper,10,7
+14:12,Kentucky,Nick Richards,Offensive Rebound,10,7
+14:03,Kentucky,Kentucky ,Turnover,10,7
+13:55,Kentucky,EJ Montgomery,Foul,10,7
+13:55,Missouri,Xavier Pinson,Free Throw,10,8
+13:55,Missouri,Xavier Pinson,Free Throw,10,9
+13:40,Kentucky,Reid Travis,Missed Layup,10,9
+13:40,Missouri,Mitchell Smith,Defensive Rebound,10,9
+13:32,Missouri,Mark Smith,Missed Jumper,10,9
+13:32,Kentucky,Tyler Herro,Defensive Rebound,10,9
+13:02,Kentucky,Ashton Hagans,Missed Three Point Jumper,10,9
+13:02,Missouri,Javon Pickett,Defensive Rebound,10,9
+12:42,Missouri,Mitchell Smith,Jumper,10,11
+12:22,Kentucky,PJ Washington,Dunk,12,11
+12:02,Missouri,Jordan Geist,Turnover,12,11
+12:02,Kentucky,Tyler Herro,Steal,12,11
+11:58,Missouri,Javon Pickett,Foul,12,11
+11:58,Missouri,None,None,12,11
+11:58,Kentucky,Tyler Herro,Free Throw,13,11
+11:58,Kentucky,Tyler Herro,Free Throw,14,11
+11:55,Kentucky,Tyler Herro,Jumper,16,11
+11:27,Missouri,Javon Pickett,Missed Layup,16,11
+11:27,Kentucky,PJ Washington,Defensive Rebound,16,11
+11:16,Kentucky,Tyler Herro,Three Point Jumper,19,11
+10:44,Missouri,Jordan Geist,Missed Jumper,19,11
+10:44,Kentucky,Reid Travis,Defensive Rebound,19,11
+10:36,Kentucky,Keldon Johnson,Missed Three Point Jumper,19,11
+10:36,Missouri,Xavier Pinson,Defensive Rebound,19,11
+10:27,Kentucky,Keldon Johnson,Foul,19,11
+10:14,Missouri,Ronnie Suggs,Three Point Jumper,19,14
+9:49,Kentucky,Immanuel Quickley,Three Point Jumper,22,14
+9:19,Missouri,Mark Smith,Missed Three Point Jumper,22,14
+9:15,Kentucky,Reid Travis,Defensive Rebound,22,14
+9:15,Kentucky,Reid Travis,Turnover,22,14
+9:05,Kentucky,Jemarl Baker Jr.,Foul,22,14
+9:05,Missouri,Jordan Geist,Missed Free Throw,22,14
+9:05,Missouri,None,Team Rebound,22,14
+9:05,Missouri,Jordan Geist,Free Throw,22,15
+8:48,Kentucky,Immanuel Quickley,Missed Three Point Jumper,22,15
+8:48,Missouri,Reed Nikko,Defensive Rebound,22,15
+8:23,Missouri,Kevin Puryear,Missed Layup,22,15
+8:23,Kentucky,PJ Washington,Defensive Rebound,22,15
+8:11,Kentucky,Reid Travis,Foul,22,15
+8:11,Kentucky,Reid Travis,Turnover,22,15
+7:58,Missouri,Mitchell Smith,Missed Three Point Jumper,22,15
+7:58,Kentucky,Jemarl Baker Jr.,Defensive Rebound,22,15
+7:49,Missouri,Torrence Watson,Foul,22,15
+7:49,Missouri,None,None,22,15
+7:49,Kentucky,Jemarl Baker Jr.,Missed Free Throw,22,15
+7:49,Missouri,Ronnie Suggs,Defensive Rebound,22,15
+7:27,Missouri,Jordan Geist,Layup,22,17
+7:06,Kentucky,EJ Montgomery,Missed Layup,22,17
+7:06,Kentucky,PJ Washington,Offensive Rebound,22,17
+7:02,Kentucky,None,None,24,17
+6:50,Missouri,Jordan Geist,Missed Three Point Jumper,24,17
+6:50,Kentucky,PJ Washington,Defensive Rebound,24,17
+6:32,Kentucky,PJ Washington,Three Point Jumper,27,17
+5:58,Missouri,Torrence Watson,Missed Three Point Jumper,27,17
+5:58,Missouri,Kevin Puryear,Offensive Rebound,27,17
+5:53,Missouri,Kevin Puryear,Missed Layup,27,17
+5:53,Kentucky,PJ Washington,Defensive Rebound,27,17
+5:36,Kentucky,PJ Washington,Missed Three Point Jumper,27,17
+5:36,Missouri,Missouri,Defensive Rebound,27,17
+5:31,Kentucky,EJ Montgomery,Foul,27,17
+5:31,Missouri,Kevin Puryear,Free Throw,27,18
+5:31,Missouri,Kevin Puryear,Free Throw,27,19
+5:06,Kentucky,Nick Richards,Layup,29,19
+4:54,Missouri,Kevin Puryear,Missed Three Point Jumper,29,19
+4:54,Kentucky,Nick Richards,Defensive Rebound,29,19
+4:43,Kentucky,Ashton Hagans,Turnover,29,19
+4:43,Missouri,Ronnie Suggs,Steal,29,19
+4:39,Missouri,Ronnie Suggs,Missed Layup,29,19
+4:39,Kentucky,Tyler Herro,Defensive Rebound,29,19
+4:30,Kentucky,PJ Washington,Missed Three Point Jumper,29,19
+4:30,Missouri,Jordan Geist,Defensive Rebound,29,19
+4:18,Missouri,Jordan Geist,Foul,29,19
+4:18,Missouri,Jordan Geist,Turnover,29,19
+4:05,Kentucky,Keldon Johnson,Jumper,31,19
+4:05,Missouri,Javon Pickett,Foul,31,19
+4:05,Kentucky,Keldon Johnson,Free Throw,32,19
+3:46,Missouri,Reed Nikko,Missed Jumper,32,19
+3:46,Kentucky,Tyler Herro,Defensive Rebound,32,19
+3:27,Kentucky,PJ Washington,Foul,32,19
+3:27,Kentucky,PJ Washington,Turnover,32,19
+3:27,Missouri,None,None,32,19
+3:11,Missouri,Reed Nikko,Dunk,32,21
+2:50,Kentucky,PJ Washington,Jumper,34,21
+2:39,Missouri,Xavier Pinson,Turnover,34,21
+2:22,Kentucky,PJ Washington,Jumper,36,21
+2:06,Missouri,Mark Smith,Missed Three Point Jumper,36,21
+2:06,Kentucky,Tyler Herro,Defensive Rebound,36,21
+1:55,Kentucky,None,None,36,21
+1:45,Kentucky,Ashton Hagans,Turnover,36,21
+1:45,Missouri,Jordan Geist,Steal,36,21
+1:41,Missouri,Jordan Geist,Layup,36,23
+1:18,Kentucky,PJ Washington,Missed Jumper,36,23
+1:18,Kentucky,Nick Richards,Offensive Rebound,36,23
+1:15,Kentucky,Nick Richards,Layup,38,23
+1:00,Missouri,Mark Smith,Missed Layup,38,23
+1:00,Kentucky,Keldon Johnson,Defensive Rebound,38,23
+0:49,Kentucky,Keldon Johnson,Missed Three Point Jumper,38,23
+0:49,Kentucky,Nick Richards,Offensive Rebound,38,23
+0:41,Kentucky,Tyler Herro,Missed Three Point Jumper,38,23
+0:41,Missouri,K.J. Santos,Defensive Rebound,38,23
+0:28,Missouri,Javon Pickett,Turnover,38,23
+0:06,Kentucky,Nick Richards,Dunk,40,23
+0:06,Missouri,Reed Nikko,Foul,40,23
+0:06,Kentucky,Nick Richards,Free Throw,41,23
+0:01,Missouri,Xavier Pinson,Missed Layup,41,23
+0:01,Missouri,Missouri,Offensive Rebound,41,23
+0:00,Missouri,None,None,41,23
+20:00,Missouri,None,None,41,23
+19:44,Missouri,Xavier Pinson,Missed Three Point Jumper,41,23
+19:44,Missouri,Jeremiah Tilmon,Offensive Rebound,41,23
+19:44,Missouri,None,None,41,25
+19:19,Kentucky,Ashton Hagans,Turnover,41,25
+19:19,Missouri,Jordan Geist,Steal,41,25
+19:11,Missouri,Jordan Geist,Three Point Jumper,41,28
+19:09,Kentucky,None,None,41,28
+18:55,Kentucky,Tyler Herro,Missed Jumper,41,28
+18:55,Missouri,Jordan Geist,Defensive Rebound,41,28
+18:51,Kentucky,Reid Travis,Foul,41,28
+18:31,Missouri,Javon Pickett,Turnover,41,28
+18:08,Missouri,Xavier Pinson,Foul,41,28
+18:08,Kentucky,PJ Washington,Missed Free Throw,41,28
+18:08,Kentucky,None,Team Rebound,41,28
+18:08,Kentucky,PJ Washington,Free Throw,42,28
+17:43,Missouri,Mark Smith,Missed Three Point Jumper,42,28
+17:43,Kentucky,EJ Montgomery,Defensive Rebound,42,28
+17:17,Kentucky,Ashton Hagans,Three Point Jumper,45,28
+16:43,Missouri,Mark Smith,Missed Three Point Jumper,45,28
+16:43,Kentucky,PJ Washington,Defensive Rebound,45,28
+16:27,Kentucky,PJ Washington,Missed Jumper,45,28
+16:27,Missouri,Jordan Geist,Defensive Rebound,45,28
+16:19,Missouri,Jordan Geist,Missed Layup,45,28
+16:19,Kentucky,EJ Montgomery,Block,45,28
+16:19,Kentucky,Keldon Johnson,Defensive Rebound,45,28
+16:15,Missouri,Javon Pickett,Foul,45,28
+16:01,Kentucky,Ashton Hagans,Three Point Jumper,48,28
+15:39,Missouri,Jordan Geist,Three Point Jumper,48,31
+15:21,Kentucky,PJ Washington,Missed Layup,48,31
+15:21,Missouri,Jeremiah Tilmon,Defensive Rebound,48,31
+15:00,Kentucky,EJ Montgomery,Foul,48,31
+15:00,Missouri,None,None,48,31
+14:59,Missouri,Ronnie Suggs,Three Point Jumper,48,34
+14:34,Missouri,Jordan Geist,Foul,48,34
+14:34,Kentucky,Ashton Hagans,Free Throw,49,34
+14:34,Kentucky,Ashton Hagans,Free Throw,50,34
+14:17,Kentucky,Nick Richards,Foul,50,34
+14:10,Kentucky,Ashton Hagans,Foul,50,34
+13:56,Missouri,Jeremiah Tilmon,Layup,50,36
+13:24,Kentucky,Tyler Herro,Jumper,52,36
+12:56,Missouri,Mark Smith,Missed Three Point Jumper,52,36
+12:56,Missouri,Javon Pickett,Offensive Rebound,52,36
+12:50,Missouri,Javon Pickett,Three Point Jumper,52,39
+12:26,Kentucky,Ashton Hagans,Missed Three Point Jumper,52,39
+12:26,Missouri,Mark Smith,Defensive Rebound,52,39
+11:57,Missouri,Ronnie Suggs,Missed Layup,52,39
+11:57,Missouri,Ronnie Suggs,Offensive Rebound,52,39
+11:54,Missouri,Ronnie Suggs,Turnover,52,39
+11:54,Kentucky,Reid Travis,Steal,52,39
+11:48,Kentucky,PJ Washington,Dunk,54,39
+11:23,Missouri,Jordan Geist,Turnover,54,39
+11:23,Kentucky,Keldon Johnson,Steal,54,39
+11:16,Kentucky,Keldon Johnson,Missed Layup,54,39
+11:16,Missouri,Javon Pickett,Defensive Rebound,54,39
+11:09,Missouri,Jordan Geist,Missed Layup,54,39
+11:09,Kentucky,PJ Washington,Block,54,39
+11:09,Kentucky,PJ Washington,Defensive Rebound,54,39
+11:00,Kentucky,Tyler Herro,Missed Three Point Jumper,54,39
+11:00,Missouri,Jeremiah Tilmon,Defensive Rebound,54,39
+10:32,Missouri,Jordan Geist,Missed Three Point Jumper,54,39
+10:32,Kentucky,Keldon Johnson,Defensive Rebound,54,39
+10:24,Kentucky,None,None,54,39
+10:06,Kentucky,Tyler Herro,Turnover,54,39
+10:06,Missouri,Javon Pickett,Steal,54,39
+9:56,Missouri,Torrence Watson,Missed Three Point Jumper,54,39
+9:56,Missouri,Ronnie Suggs,Offensive Rebound,54,39
+9:25,Missouri,Xavier Pinson,Turnover,54,39
+9:25,Kentucky,None,None,54,39
+9:14,Kentucky,Jemarl Baker Jr.,Turnover,54,39
+8:48,Missouri,Jeremiah Tilmon,Missed Jumper,54,39
+8:48,Missouri,Jeremiah Tilmon,Offensive Rebound,54,39
+8:44,Kentucky,Keldon Johnson,Foul,54,39
+8:44,Kentucky,EJ Montgomery,Foul,54,39
+8:34,Missouri,Javon Pickett,Layup,54,41
+8:07,Missouri,Jeremiah Tilmon,Foul,54,41
+7:59,Missouri,Ronnie Suggs,Foul,54,41
+7:59,Missouri,None,None,54,41
+7:44,Kentucky,PJ Washington,Foul,54,41
+7:44,Kentucky,PJ Washington,Turnover,54,41
+7:27,Missouri,Ronnie Suggs,Missed Three Point Jumper,54,41
+7:27,Missouri,Jeremiah Tilmon,Offensive Rebound,54,41
+7:27,Kentucky,Nick Richards,Foul,54,41
+7:27,Missouri,Jeremiah Tilmon,Missed Free Throw,54,41
+7:27,Kentucky,Kentucky,Defensive Rebound,54,41
+7:27,Missouri,Javon Pickett,Foul,54,41
+6:59,Kentucky,Ashton Hagans,Jumper,56,41
+6:42,Missouri,Ronnie Suggs,Missed Three Point Jumper,56,41
+6:42,Missouri,Missouri,Offensive Rebound,56,41
+6:28,Missouri,Jeremiah Tilmon,Missed Layup,56,41
+6:28,Kentucky,PJ Washington,Defensive Rebound,56,41
+5:56,Kentucky,Kentucky ,Turnover,56,41
+5:28,Missouri,Javon Pickett,Jumper,56,43
+5:04,Kentucky,PJ Washington,Turnover,56,43
+4:58,Missouri,None,None,56,43
+4:40,Missouri,Javon Pickett,Jumper,56,45
+4:14,Missouri,Jeremiah Tilmon,Foul,56,45
+4:14,Kentucky,Tyler Herro,Free Throw,57,45
+4:14,Kentucky,Tyler Herro,Free Throw,58,45
+3:45,Missouri,Jeremiah Tilmon,Dunk,58,47
+3:14,Missouri,Torrence Watson,Foul,58,47
+3:14,Missouri,None,None,58,47
+3:14,Kentucky,Tyler Herro,Free Throw,59,47
+3:14,Kentucky,Tyler Herro,Free Throw,60,47
+2:55,Missouri,Javon Pickett,Missed Layup,60,47
+2:55,Kentucky,EJ Montgomery,Block,60,47
+2:55,Missouri,Missouri,Offensive Rebound,60,47
+2:49,Missouri,Javon Pickett,Missed Three Point Jumper,60,47
+2:49,Missouri,Jordan Geist,Offensive Rebound,60,47
+2:40,Missouri,Torrence Watson,Three Point Jumper,60,50
+2:38,Missouri,None,None,60,50
+2:11,Missouri,Javon Pickett,Foul,60,50
+2:11,Kentucky,Keldon Johnson,Free Throw,61,50
+2:11,Kentucky,Keldon Johnson,Free Throw,62,50
+1:44,Missouri,Ronnie Suggs,Layup,62,52
+1:27,Kentucky,None,None,62,52
+1:16,Kentucky,Tyler Herro,Missed Three Point Jumper,62,52
+1:16,Missouri,Ronnie Suggs,Defensive Rebound,62,52
+1:04,Missouri,Ronnie Suggs,Three Point Jumper,62,55
+0:47,Missouri,Torrence Watson,Foul,62,55
+0:47,Kentucky,Ashton Hagans,Free Throw,63,55
+0:47,Kentucky,Ashton Hagans,Free Throw,64,55
+0:35,Missouri,Torrence Watson,Missed Three Point Jumper,64,55
+0:35,Missouri,Jordan Geist,Offensive Rebound,64,55
+0:24,Missouri,Torrence Watson,Missed Three Point Jumper,64,55
+0:24,Missouri,Jeremiah Tilmon,Offensive Rebound,64,55
+0:20,Missouri,Jeremiah Tilmon,Missed Layup,64,55
+0:20,Missouri,Jordan Geist,Offensive Rebound,64,55
+0:14,Missouri,Torrence Watson,Three Point Jumper,64,58
+0:13,Missouri,None,None,64,58
+0:11,Missouri,Torrence Watson,Foul,64,58
+0:11,Kentucky,Tyler Herro,Free Throw,65,58
+0:11,Kentucky,Tyler Herro,Free Throw,66,58
+0:03,Missouri,Jeremiah Tilmon,Missed Jumper,66,58
+0:03,Kentucky,Tyler Herro,Defensive Rebound,66,58
+0:00,Missouri,None,None,66,58

@@ -1,0 +1,345 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Syracuse,None,None,0,0
+19:59,Georgia Tech,None,None,0,0
+19:42,Syracuse,Marek Dolezaj,Foul,0,0
+19:38,Georgia Tech,Curtis Haywood II,Turnover,0,0
+19:11,Syracuse,Tyus Battle,Missed Jumper,0,0
+19:11,Georgia Tech,James Banks III,Block,0,0
+19:11,Syracuse,Tyus Battle,Offensive Rebound,0,0
+18:57,Georgia Tech,Michael Devoe,Missed Three Point Jumper,0,0
+18:57,Syracuse,Oshae Brissett,Defensive Rebound,0,0
+18:33,Syracuse,Elijah Hughes,Missed Three Point Jumper,0,0
+18:33,Syracuse,Tyus Battle,Offensive Rebound,0,0
+18:29,Georgia Tech,Jose Alvarado,Foul,0,0
+18:10,Syracuse,Marek Dolezaj,Missed Three Point Jumper,0,0
+18:10,Georgia Tech,Michael Devoe,Defensive Rebound,0,0
+17:51,Georgia Tech,Curtis Haywood II,Turnover,0,0
+17:51,Syracuse,Frank Howard,Steal,0,0
+17:43,Syracuse,Tyus Battle,Three Point Jumper,0,3
+17:25,Georgia Tech,James Banks III,Turnover,0,3
+17:25,Syracuse,Marek Dolezaj,Steal,0,3
+17:10,Syracuse,Tyus Battle,Missed Jumper,0,3
+17:10,Georgia Tech,James Banks III,Defensive Rebound,0,3
+17:00,Georgia Tech,Michael Devoe,Missed Layup,0,3
+17:00,Syracuse,Tyus Battle,Block,0,3
+17:00,Georgia Tech,Georgia Tech,Offensive Rebound,0,3
+16:46,Georgia Tech,James Banks III,Dunk,2,3
+16:30,Syracuse,Frank Howard,Missed Three Point Jumper,2,3
+16:25,Syracuse,Syracuse,Offensive Rebound,2,3
+16:16,Syracuse,Tyus Battle,Missed Three Point Jumper,2,3
+16:16,Georgia Tech,Georgia Tech,Defensive Rebound,2,3
+15:55,Georgia Tech,Abdoulaye Gueye,Jumper,4,3
+15:44,Syracuse,Oshae Brissett,Missed Three Point Jumper,4,3
+15:32,Georgia Tech,Abdoulaye Gueye,Defensive Rebound,4,3
+15:16,Georgia Tech,Michael Devoe,Foul,4,3
+15:16,Georgia Tech,Michael Devoe,Turnover,4,3
+14:47,Georgia Tech,Abdoulaye Gueye,Foul,4,3
+14:47,Syracuse,Marek Dolezaj,Free Throw,4,4
+14:47,Syracuse,Marek Dolezaj,Free Throw,4,5
+14:38,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,4,5
+14:38,Georgia Tech,Abdoulaye Gueye,Offensive Rebound,4,5
+14:38,Georgia Tech,Abdoulaye Gueye,Missed Jumper,4,5
+14:38,Syracuse,Marek Dolezaj,Defensive Rebound,4,5
+14:24,Georgia Tech,James Banks III,Missed Layup,4,5
+14:24,Georgia Tech,James Banks III,Offensive Rebound,4,5
+14:04,Syracuse,Oshae Brissett,Missed Three Point Jumper,4,5
+14:04,Georgia Tech,Michael Devoe,Defensive Rebound,4,5
+13:49,Georgia Tech,Abdoulaye Gueye,Jumper,6,5
+13:25,Syracuse,Marek Dolezaj,Turnover,6,5
+13:25,Georgia Tech,Abdoulaye Gueye,Steal,6,5
+13:10,Georgia Tech,James Banks III,Turnover,6,5
+13:10,Syracuse,Elijah Hughes,Steal,6,5
+13:01,Syracuse,Tyus Battle,Layup,6,7
+13:01,Georgia Tech,Abdoulaye Gueye,Foul,6,7
+13:01,Syracuse,Tyus Battle,Free Throw,6,8
+12:41,Georgia Tech,Jose Alvarado,Three Point Jumper,9,8
+12:32,Georgia Tech,Curtis Haywood II,Foul,9,8
+12:22,Syracuse,Tyus Battle,Missed Three Point Jumper,9,8
+12:22,Georgia Tech,Evan Cole,Defensive Rebound,9,8
+11:56,Georgia Tech,Abdoulaye Gueye,Layup,11,8
+11:31,Syracuse,Elijah Hughes,Missed Three Point Jumper,11,8
+11:31,Syracuse,Bourama Sidibe,Offensive Rebound,11,8
+11:27,Georgia Tech,Khalid Moore,Foul,11,8
+11:27,Syracuse,None,None,11,8
+11:27,Syracuse,Bourama Sidibe,Missed Free Throw,11,8
+11:27,Syracuse,None,Team Rebound,11,8
+11:27,Syracuse,Bourama Sidibe,Missed Free Throw,11,8
+11:27,Georgia Tech,James Banks III,Defensive Rebound,11,8
+11:19,Georgia Tech,James Banks III,Dunk,13,8
+10:54,Syracuse,Jalen Carey,Turnover,13,8
+10:54,Georgia Tech,Jose Alvarado,Steal,13,8
+10:34,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,13,8
+10:34,Georgia Tech,Curtis Haywood II,Offensive Rebound,13,8
+10:26,Georgia Tech,Curtis Haywood II,Missed Layup,13,8
+10:26,Syracuse,Elijah Hughes,Defensive Rebound,13,8
+10:12,Syracuse,Elijah Hughes,Jumper,13,10
+9:52,Georgia Tech,James Banks III,Missed Jumper,13,10
+9:52,Syracuse,Paschal Chukwu,Block,13,10
+9:52,Syracuse,Paschal Chukwu,Defensive Rebound,13,10
+9:36,Syracuse,Elijah Hughes,Missed Three Point Jumper,13,10
+9:36,Syracuse,Paschal Chukwu,Offensive Rebound,13,10
+9:27,Syracuse,Elijah Hughes,Three Point Jumper,13,13
+9:12,Georgia Tech,Brandon Alston,Missed Jumper,13,13
+9:12,Syracuse,Paschal Chukwu,Defensive Rebound,13,13
+9:04,Georgia Tech,James Banks III,Foul,13,13
+9:04,Syracuse,Elijah Hughes,Missed Free Throw,13,13
+9:04,Syracuse,None,Team Rebound,13,13
+9:04,Syracuse,Elijah Hughes,Free Throw,13,14
+8:57,Georgia Tech,Michael Devoe,Missed Three Point Jumper,13,14
+8:57,Syracuse,Frank Howard,Defensive Rebound,13,14
+8:45,Syracuse,Frank Howard,Turnover,13,14
+8:45,Georgia Tech,Michael Devoe,Steal,13,14
+8:38,Georgia Tech,Michael Devoe,Turnover,13,14
+8:38,Syracuse,Paschal Chukwu,Steal,13,14
+8:31,Syracuse,Elijah Hughes,Missed Three Point Jumper,13,14
+8:31,Syracuse,Paschal Chukwu,Offensive Rebound,13,14
+8:29,Syracuse,Paschal Chukwu,Turnover,13,14
+8:03,Syracuse,Paschal Chukwu,Foul,13,14
+8:03,Georgia Tech,James Banks III,Missed Free Throw,13,14
+8:03,Georgia Tech,None,Team Rebound,13,14
+8:03,Georgia Tech,James Banks III,Free Throw,14,14
+7:39,Syracuse,None,None,14,14
+7:22,Syracuse,Frank Howard,Turnover,14,14
+7:22,Georgia Tech,Jose Alvarado,Steal,14,14
+7:14,Georgia Tech,Michael Devoe,Turnover,14,14
+6:46,Syracuse,Frank Howard,Three Point Jumper,14,17
+6:24,Georgia Tech,Abdoulaye Gueye,Turnover,14,17
+6:23,Syracuse,Frank Howard,Turnover,14,17
+6:23,Georgia Tech,Michael Devoe,Steal,14,17
+6:13,Syracuse,Oshae Brissett,Foul,14,17
+6:13,Georgia Tech,Michael Devoe,Missed Free Throw,14,17
+6:13,Georgia Tech,None,Team Rebound,14,17
+6:13,Georgia Tech,Michael Devoe,Free Throw,15,17
+5:48,Syracuse,Buddy Boeheim,Three Point Jumper,15,20
+5:12,Georgia Tech,Abdoulaye Gueye,Jumper,17,20
+4:56,Syracuse,Frank Howard,Missed Three Point Jumper,17,20
+4:56,Syracuse,Syracuse,Offensive Rebound,17,20
+4:36,Syracuse,Buddy Boeheim,Missed Three Point Jumper,17,20
+4:36,Georgia Tech,Curtis Haywood II,Defensive Rebound,17,20
+4:14,Georgia Tech,Jose Alvarado,Turnover,17,20
+3:57,Syracuse,Oshae Brissett,Missed Jumper,17,20
+3:57,Georgia Tech,Michael Devoe,Defensive Rebound,17,20
+3:45,Georgia Tech,Abdoulaye Gueye,Turnover,17,20
+3:44,Syracuse,None,None,17,20
+3:23,Syracuse,Elijah Hughes,Missed Three Point Jumper,17,20
+3:23,Georgia Tech,James Banks III,Defensive Rebound,17,20
+3:11,Georgia Tech,James Banks III,Dunk,19,20
+2:45,Syracuse,Frank Howard,Three Point Jumper,19,23
+2:17,Syracuse,Elijah Hughes,Foul,19,23
+2:17,Georgia Tech,Jose Alvarado,Free Throw,20,23
+2:17,Georgia Tech,Jose Alvarado,Free Throw,21,23
+2:17,Georgia Tech,Jose Alvarado,Free Throw,22,23
+2:08,Syracuse,Marek Dolezaj,Jumper,22,25
+1:46,Georgia Tech,James Banks III,Dunk,24,25
+1:46,Syracuse,Elijah Hughes,Foul,24,25
+1:46,Georgia Tech,James Banks III,Free Throw,25,25
+1:19,Syracuse,Elijah Hughes,Missed Three Point Jumper,25,25
+1:19,Georgia Tech,Curtis Haywood II,Defensive Rebound,25,25
+0:50,Syracuse,Marek Dolezaj,Foul,25,25
+0:37,Georgia Tech,Abdoulaye Gueye,Jumper,27,25
+0:28,Syracuse,None,None,27,25
+0:04,Georgia Tech,Jose Alvarado,Foul,27,25
+0:04,Syracuse,Tyus Battle,Missed Free Throw,27,25
+0:04,Syracuse,None,Team Rebound,27,25
+0:04,Syracuse,Tyus Battle,Free Throw,27,26
+0:00,Syracuse,None,None,27,26
+20:00,Syracuse,None,None,27,26
+19:40,Syracuse,Frank Howard,Missed Three Point Jumper,27,26
+19:40,Georgia Tech,Jose Alvarado,Defensive Rebound,27,26
+19:26,Georgia Tech,Jose Alvarado,Jumper,29,26
+19:09,Syracuse,Oshae Brissett,Jumper,29,28
+18:48,Syracuse,Elijah Hughes,Foul,29,28
+18:30,Georgia Tech,Abdoulaye Gueye,Missed Jumper,29,28
+18:30,Syracuse,Marek Dolezaj,Defensive Rebound,29,28
+17:56,Syracuse,Syracuse ,Turnover,29,28
+17:50,Georgia Tech,Michael Devoe,Missed Three Point Jumper,29,28
+17:50,Georgia Tech,Michael Devoe,Offensive Rebound,29,28
+17:40,Georgia Tech,James Banks III,Dunk,31,28
+17:22,Syracuse,Frank Howard,Missed Three Point Jumper,31,28
+17:22,Georgia Tech,James Banks III,Defensive Rebound,31,28
+17:12,Georgia Tech,Abdoulaye Gueye,Turnover,31,28
+17:03,Syracuse,Tyus Battle,Missed Jumper,31,28
+17:03,Georgia Tech,Jose Alvarado,Defensive Rebound,31,28
+16:53,Georgia Tech,Jose Alvarado,Three Point Jumper,34,28
+16:50,Syracuse,None,None,34,28
+16:36,Syracuse,Oshae Brissett,Missed Three Point Jumper,34,28
+16:36,Georgia Tech,Jose Alvarado,Defensive Rebound,34,28
+16:29,Georgia Tech,Curtis Haywood II,Layup,36,28
+16:09,Syracuse,Elijah Hughes,Missed Three Point Jumper,36,28
+16:09,Syracuse,Marek Dolezaj,Offensive Rebound,36,28
+16:09,Syracuse,Marek Dolezaj,Turnover,36,28
+16:09,Georgia Tech,Curtis Haywood II,Steal,36,28
+15:58,Georgia Tech,Jose Alvarado,Three Point Jumper,39,28
+15:55,Syracuse,None,None,39,28
+15:54,Syracuse,None,None,39,28
+15:42,Syracuse,Oshae Brissett,Layup,39,30
+15:12,Georgia Tech,Michael Devoe,Missed Jumper,39,30
+15:12,Syracuse,Syracuse,Defensive Rebound,39,30
+14:51,Syracuse,Tyus Battle,Turnover,39,30
+14:51,Georgia Tech,James Banks III,Steal,39,30
+14:45,Georgia Tech,Curtis Haywood II,Three Point Jumper,42,30
+14:37,Georgia Tech,Michael Devoe,Foul,42,30
+14:30,Syracuse,Oshae Brissett,Turnover,42,30
+14:30,Georgia Tech,Michael Devoe,Steal,42,30
+14:24,Georgia Tech,Michael Devoe,Layup,44,30
+14:14,Syracuse,Tyus Battle,Missed Three Point Jumper,44,30
+14:14,Georgia Tech,James Banks III,Defensive Rebound,44,30
+13:55,Georgia Tech,Michael Devoe,Turnover,44,30
+13:42,Syracuse,Jalen Carey,Missed Three Point Jumper,44,30
+13:42,Syracuse,Marek Dolezaj,Offensive Rebound,44,30
+13:34,Georgia Tech,Evan Cole,Foul,44,30
+13:34,Syracuse,Oshae Brissett,Free Throw,44,31
+13:34,Syracuse,Oshae Brissett,Missed Free Throw,44,31
+13:34,Georgia Tech,Curtis Haywood II,Defensive Rebound,44,31
+13:27,Georgia Tech,James Banks III,Layup,46,31
+13:27,Syracuse,Tyus Battle,Foul,46,31
+13:27,Georgia Tech,James Banks III,Missed Free Throw,46,31
+13:27,Syracuse,Paschal Chukwu,Defensive Rebound,46,31
+12:59,Syracuse,Elijah Hughes,Layup,46,33
+12:43,Georgia Tech,Curtis Haywood II,Three Point Jumper,49,33
+12:24,Syracuse,Frank Howard,Missed Jumper,49,33
+12:24,Georgia Tech,Evan Cole,Defensive Rebound,49,33
+12:17,Georgia Tech,Jose Alvarado,Layup,51,33
+12:14,Syracuse,None,None,51,33
+11:48,Syracuse,Jalen Carey,Turnover,51,33
+11:48,Georgia Tech,Evan Cole,Steal,51,33
+11:39,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,51,33
+11:39,Syracuse,Elijah Hughes,Defensive Rebound,51,33
+11:39,Georgia Tech,Evan Cole,Foul,51,33
+11:29,Syracuse,Frank Howard,Layup,51,35
+11:21,Syracuse,Frank Howard,Foul,51,35
+11:11,Georgia Tech,Jose Alvarado,Turnover,51,35
+11:06,Syracuse,Buddy Boeheim,Missed Three Point Jumper,51,35
+11:06,Syracuse,Syracuse,Offensive Rebound,51,35
+10:55,Syracuse,Buddy Boeheim,Three Point Jumper,51,38
+10:43,Syracuse,Buddy Boeheim,Foul,51,38
+10:27,Georgia Tech,Jose Alvarado,Turnover,51,38
+10:17,Syracuse,Buddy Boeheim,Three Point Jumper,51,41
+10:04,Georgia Tech,None,None,51,41
+10:01,Syracuse,Paschal Chukwu,Foul,51,41
+10:01,Georgia Tech,Evan Cole,Free Throw,52,41
+10:01,Georgia Tech,Evan Cole,Missed Free Throw,52,41
+10:01,Syracuse,Frank Howard,Defensive Rebound,52,41
+9:56,Syracuse,Buddy Boeheim,Missed Three Point Jumper,52,41
+9:56,Georgia Tech,Evan Cole,Defensive Rebound,52,41
+9:22,Georgia Tech,Curtis Haywood II,Jumper,54,41
+9:05,Georgia Tech,James Banks III,Foul,54,41
+9:05,Syracuse,Elijah Hughes,Free Throw,54,42
+9:05,Syracuse,Elijah Hughes,Free Throw,54,43
+8:57,Georgia Tech,Jose Alvarado,Missed Jumper,54,43
+8:57,Georgia Tech,Evan Cole,Offensive Rebound,54,43
+8:47,Georgia Tech,Evan Cole,Jumper,56,43
+8:41,Georgia Tech,James Banks III,Foul,56,43
+8:41,Syracuse,Oshae Brissett,Free Throw,56,44
+8:41,Syracuse,Oshae Brissett,Free Throw,56,45
+8:26,Syracuse,Paschal Chukwu,Foul,56,45
+8:26,Georgia Tech,James Banks III,Free Throw,57,45
+8:26,Georgia Tech,James Banks III,Free Throw,58,45
+8:09,Syracuse,Buddy Boeheim,Missed Three Point Jumper,58,45
+8:09,Georgia Tech,Georgia Tech,Defensive Rebound,58,45
+8:07,Syracuse,Oshae Brissett,Foul,58,45
+8:07,Georgia Tech,Jose Alvarado,Free Throw,59,45
+8:07,Georgia Tech,Jose Alvarado,Missed Free Throw,59,45
+7:56,Syracuse,Oshae Brissett,Defensive Rebound,59,45
+7:47,Syracuse,Tyus Battle,Missed Jumper,59,45
+7:47,Syracuse,Buddy Boeheim,Offensive Rebound,59,45
+7:39,Syracuse,Elijah Hughes,Missed Jumper,59,45
+7:39,Syracuse,Elijah Hughes,Offensive Rebound,59,45
+7:32,Syracuse,Elijah Hughes,Layup,59,47
+7:24,Georgia Tech,James Banks III,Missed Layup,59,47
+7:24,Syracuse,Paschal Chukwu,Block,59,47
+7:24,Syracuse,Oshae Brissett,Defensive Rebound,59,47
+7:05,Syracuse,Buddy Boeheim,Missed Jumper,59,47
+7:05,Georgia Tech,Curtis Haywood II,Block,59,47
+7:05,Georgia Tech,Georgia Tech,Defensive Rebound,59,47
+7:03,Syracuse,None,None,59,47
+6:33,Georgia Tech,Georgia Tech ,Turnover,59,47
+6:07,Syracuse,Oshae Brissett,Missed Jumper,59,47
+6:07,Georgia Tech,James Banks III,Block,59,47
+6:07,Syracuse,Syracuse,Offensive Rebound,59,47
+6:05,Syracuse,Oshae Brissett,Turnover,59,47
+6:05,Georgia Tech,Michael Devoe,Steal,59,47
+5:54,Georgia Tech,Curtis Haywood II,Three Point Jumper,62,47
+5:36,Syracuse,Tyus Battle,Missed Jumper,62,47
+5:36,Georgia Tech,James Banks III,Defensive Rebound,62,47
+5:18,Georgia Tech,James Banks III,Missed Jumper,62,47
+5:18,Syracuse,Paschal Chukwu,Block,62,47
+5:18,Georgia Tech,Evan Cole,Offensive Rebound,62,47
+5:17,Georgia Tech,Evan Cole,Layup,64,47
+5:01,Syracuse,Buddy Boeheim,Missed Jumper,64,47
+5:01,Syracuse,Buddy Boeheim,Offensive Rebound,64,47
+4:52,Syracuse,Paschal Chukwu,Turnover,64,47
+4:52,Georgia Tech,Jose Alvarado,Steal,64,47
+4:48,Syracuse,Marek Dolezaj,Foul,64,47
+4:48,Georgia Tech,Michael Devoe,Missed Free Throw,64,47
+4:48,Georgia Tech,None,Team Rebound,64,47
+4:48,Georgia Tech,Michael Devoe,Missed Free Throw,64,47
+4:48,Syracuse,Marek Dolezaj,Defensive Rebound,64,47
+4:41,Georgia Tech,Curtis Haywood II,Foul,64,47
+4:33,Syracuse,Oshae Brissett,Turnover,64,47
+4:33,Georgia Tech,Curtis Haywood II,Steal,64,47
+4:25,Georgia Tech,Curtis Haywood II,Turnover,64,47
+4:25,Syracuse,Frank Howard,Steal,64,47
+4:15,Syracuse,Tyus Battle,Missed Layup,64,47
+4:15,Georgia Tech,James Banks III,Block,64,47
+4:15,Syracuse,Syracuse,Offensive Rebound,64,47
+4:05,Syracuse,Buddy Boeheim,Missed Three Point Jumper,64,47
+4:05,Syracuse,Syracuse,Offensive Rebound,64,47
+3:58,Georgia Tech,James Banks III,Foul,64,47
+3:58,Syracuse,None,None,64,47
+3:58,Syracuse,Oshae Brissett,Free Throw,64,48
+3:58,Syracuse,Oshae Brissett,Free Throw,64,49
+3:56,Georgia Tech,Curtis Haywood II,Turnover,64,49
+3:56,Syracuse,Marek Dolezaj,Steal,64,49
+3:49,Syracuse,Oshae Brissett,Dunk,64,51
+3:49,Syracuse,Tyus Battle,Foul,64,51
+3:49,Georgia Tech,Michael Devoe,Free Throw,65,51
+3:49,Georgia Tech,Michael Devoe,Free Throw,66,51
+3:38,Syracuse,Tyus Battle,Turnover,66,51
+3:35,Georgia Tech,Curtis Haywood II,Turnover,66,51
+3:35,Syracuse,Marek Dolezaj,Steal,66,51
+3:27,Syracuse,Oshae Brissett,Dunk,66,53
+3:17,Georgia Tech,Michael Devoe,Turnover,66,53
+2:56,Syracuse,Jalen Carey,Turnover,66,53
+2:56,Georgia Tech,James Banks III,Steal,66,53
+2:48,Syracuse,Marek Dolezaj,Foul,66,53
+2:48,Georgia Tech,Michael Devoe,Missed Free Throw,66,53
+2:48,Georgia Tech,None,Team Rebound,66,53
+2:48,Georgia Tech,Michael Devoe,Missed Free Throw,66,53
+2:48,Syracuse,Marek Dolezaj,Defensive Rebound,66,53
+2:35,Syracuse,Jalen Carey,Turnover,66,53
+2:35,Georgia Tech,James Banks III,Steal,66,53
+2:34,Georgia Tech,None,None,66,53
+2:19,Georgia Tech,Evan Cole,Turnover,66,53
+2:19,Syracuse,Tyus Battle,Steal,66,53
+2:19,Georgia Tech,Curtis Haywood II,Foul,66,53
+2:19,Syracuse,Tyus Battle,Free Throw,66,54
+2:19,Syracuse,Tyus Battle,Free Throw,66,55
+2:04,Syracuse,Tyus Battle,Foul,66,55
+2:04,Georgia Tech,Jose Alvarado,Free Throw,67,55
+2:04,Georgia Tech,Jose Alvarado,Free Throw,68,55
+1:49,Syracuse,Tyus Battle,Jumper,68,57
+1:41,Syracuse,Tyus Battle,Foul,68,57
+1:41,Georgia Tech,Evan Cole,Free Throw,69,57
+1:41,Georgia Tech,Evan Cole,Missed Free Throw,69,57
+1:41,Syracuse,Oshae Brissett,Defensive Rebound,69,57
+1:31,Syracuse,Jalen Carey,Missed Three Point Jumper,69,57
+1:31,Georgia Tech,Evan Cole,Defensive Rebound,69,57
+1:27,Georgia Tech,Evan Cole,Turnover,69,57
+1:27,Syracuse,Marek Dolezaj,Steal,69,57
+1:24,Syracuse,Tyus Battle,Turnover,69,57
+1:24,Georgia Tech,Khalid Moore,Steal,69,57
+1:14,Georgia Tech,Curtis Haywood II,Layup,71,57
+1:07,Syracuse,Buddy Boeheim,Missed Jumper,71,57
+1:07,Georgia Tech,Evan Cole,Defensive Rebound,71,57
+1:07,Syracuse,Oshae Brissett,Foul,71,57
+1:07,Georgia Tech,Evan Cole,Free Throw,72,57
+1:07,Georgia Tech,Evan Cole,Free Throw,73,57
+1:01,Syracuse,Oshae Brissett,Missed Three Point Jumper,73,57
+1:01,Georgia Tech,Evan Cole,Defensive Rebound,73,57
+0:32,Georgia Tech,Jose Alvarado,Turnover,73,57
+0:32,Syracuse,Marek Dolezaj,Steal,73,57
+0:24,Georgia Tech,Khalid Moore,Foul,73,57
+0:24,Syracuse,Oshae Brissett,Free Throw,73,58
+0:24,Syracuse,Oshae Brissett,Free Throw,73,59
+0:00,Syracuse,None,None,73,59

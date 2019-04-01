@@ -1,0 +1,327 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,California,None,None,0,0
+19:54,California,Juhwan Harris-Dyson,Turnover,0,0
+19:41,Stanford,KZ Okpala,Missed Three Point Jumper,0,0
+19:41,Stanford,Oscar da Silva,Offensive Rebound,0,0
+19:35,Stanford,Oscar da Silva,Turnover,0,0
+19:35,California,Justice Sueing,Steal,0,0
+19:27,California,Justice Sueing,Layup,0,2
+19:17,Stanford,Oscar da Silva,Missed Three Point Jumper,0,2
+19:17,California,Juhwan Harris-Dyson,Defensive Rebound,0,2
+18:52,California,Darius McNeill,Turnover,0,2
+18:52,Stanford,Daejon Davis,Steal,0,2
+18:33,Stanford,Oscar da Silva,Layup,2,2
+18:09,California,Juhwan Harris-Dyson,Layup,2,4
+17:55,Stanford,Bryce Wills,Turnover,2,4
+17:55,California,Darius McNeill,Steal,2,4
+17:50,Stanford,Josh Sharma,Foul,2,4
+17:50,California,Justice Sueing,Free Throw,2,5
+17:50,California,Justice Sueing,Missed Free Throw,2,5
+17:50,Stanford,Oscar da Silva,Defensive Rebound,2,5
+17:32,Stanford,Daejon Davis,Layup,4,5
+17:23,California,Paris Austin,Jumper,4,7
+17:09,Stanford,Daejon Davis,Missed Layup,4,7
+17:09,Stanford,Daejon Davis,Offensive Rebound,4,7
+16:56,Stanford,Bryce Wills,Jumper,6,7
+16:43,Stanford,Oscar da Silva,Foul,6,7
+16:29,California,Paris Austin,Missed Jumper,6,7
+16:29,California,California,Offensive Rebound,6,7
+16:24,California,Justice Sueing,Missed Jumper,6,7
+16:24,Stanford,Josh Sharma,Defensive Rebound,6,7
+16:17,Stanford,Daejon Davis,Turnover,6,7
+16:06,California,Matt Bradley,Turnover,6,7
+15:47,Stanford,Jaiden Delaire,Missed Three Point Jumper,6,7
+15:47,Stanford,Josh Sharma,Offensive Rebound,6,7
+15:40,Stanford,Josh Sharma,Missed Layup,6,7
+15:40,California,Justice Sueing,Defensive Rebound,6,7
+15:40,Stanford,Jaiden Delaire,Foul,6,7
+15:40,California,None,None,6,7
+15:40,Stanford,Josh Sharma,Foul,6,7
+15:40,California,Connor Vanover,Missed Free Throw,6,7
+15:40,California,None,Team Rebound,6,7
+15:40,California,Connor Vanover,Free Throw,6,8
+15:09,Stanford,Jaiden Delaire,Missed Jumper,6,8
+15:09,California,Matt Bradley,Defensive Rebound,6,8
+14:58,California,Connor Vanover,Three Point Jumper,6,11
+14:40,Stanford,Daejon Davis,Three Point Jumper,9,11
+14:11,California,Connor Vanover,Missed Three Point Jumper,9,11
+14:11,Stanford,Cormac Ryan,Defensive Rebound,9,11
+14:04,Stanford,KZ Okpala,Dunk,11,11
+13:49,California,Connor Vanover,Dunk,11,13
+13:31,Stanford,Cormac Ryan,Missed Three Point Jumper,11,13
+13:31,California,Juhwan Harris-Dyson,Defensive Rebound,11,13
+13:31,California,Paris Austin,Turnover,11,13
+13:04,California,Paris Austin,Foul,11,13
+12:52,Stanford,Oscar da Silva,Three Point Jumper,14,13
+12:33,California,Andre Kelly,Turnover,14,13
+12:33,Stanford,KZ Okpala,Steal,14,13
+12:29,Stanford,KZ Okpala,Layup,16,13
+12:09,California,Darius McNeill,Foul,16,13
+12:09,California,Darius McNeill,Turnover,16,13
+11:56,Stanford,KZ Okpala,Turnover,16,13
+11:56,California,Darius McNeill,Steal,16,13
+11:52,California,None,None,16,13
+11:48,California,Andre Kelly,Layup,16,15
+11:39,Stanford,Bryce Wills,Foul,16,15
+11:39,Stanford,Bryce Wills,Turnover,16,15
+11:20,California,Matt Bradley,Three Point Jumper,16,18
+10:50,California,Andre Kelly,Foul,16,18
+10:50,Stanford,Cormac Ryan,Missed Free Throw,16,18
+10:50,Stanford,None,Team Rebound,16,18
+10:50,Stanford,Cormac Ryan,Free Throw,17,18
+10:35,California,Andre Kelly,Dunk,17,20
+10:11,Stanford,KZ Okpala,Layup,19,20
+10:11,Stanford,Daejon Davis,Foul,19,20
+10:00,California,Paris Austin,Turnover,19,20
+10:00,Stanford,KZ Okpala,Steal,19,20
+9:52,Stanford,Bryce Wills,Dunk,21,20
+9:38,California,None,None,21,20
+9:38,Stanford,None,None,21,20
+9:24,California,Darius McNeill,Missed Three Point Jumper,21,20
+9:24,California,Justice Sueing,Offensive Rebound,21,20
+9:15,California,Justice Sueing,Layup,21,22
+9:04,California,Andre Kelly,Foul,21,22
+9:04,Stanford,KZ Okpala,Missed Free Throw,21,22
+9:04,Stanford,None,Team Rebound,21,22
+9:04,Stanford,KZ Okpala,Free Throw,22,22
+8:51,California,Matt Bradley,Missed Layup,22,22
+8:51,Stanford,Oscar da Silva,Block,22,22
+8:51,Stanford,Oscar da Silva,Defensive Rebound,22,22
+8:42,Stanford,Marcus Sheffield,Missed Three Point Jumper,22,22
+8:42,California,Connor Vanover,Defensive Rebound,22,22
+8:30,California,Paris Austin,Layup,22,24
+8:14,Stanford,KZ Okpala,Missed Jumper,22,24
+8:14,California,Justice Sueing,Defensive Rebound,22,24
+8:07,California,Justice Sueing,Layup,22,26
+8:07,Stanford,Bryce Wills,Foul,22,26
+8:07,California,Justice Sueing,Free Throw,22,27
+7:49,California,Connor Vanover,Foul,22,27
+7:49,California,None,None,22,27
+7:49,Stanford,KZ Okpala,Free Throw,23,27
+7:49,Stanford,KZ Okpala,Free Throw,24,27
+7:23,California,Matt Bradley,Missed Three Point Jumper,24,27
+7:23,Stanford,KZ Okpala,Defensive Rebound,24,27
+7:05,Stanford,Isaac White,Turnover,24,27
+6:46,California,Connor Vanover,Missed Three Point Jumper,24,27
+6:46,Stanford,Oscar da Silva,Defensive Rebound,24,27
+6:37,Stanford,Daejon Davis,Missed Jumper,24,27
+6:37,California,Darius McNeill,Defensive Rebound,24,27
+6:29,California,Darius McNeill,Layup,24,29
+6:12,Stanford,Oscar da Silva,Foul,24,29
+6:12,Stanford,Oscar da Silva,Turnover,24,29
+6:00,California,Connor Vanover,Turnover,24,29
+5:49,California,Justice Sueing,Foul,24,29
+5:36,Stanford,Cormac Ryan,Three Point Jumper,27,29
+5:13,California,Justice Sueing,Missed Jumper,27,29
+5:13,Stanford,KZ Okpala,Defensive Rebound,27,29
+4:57,Stanford,Lukas Kisunas,Layup,29,29
+4:34,California,Connor Vanover,Dunk,29,31
+4:18,Stanford,KZ Okpala,Missed Three Point Jumper,29,31
+4:18,California,Justice Sueing,Defensive Rebound,29,31
+4:10,California,Matt Bradley,Missed Layup,29,31
+4:10,Stanford,Lukas Kisunas,Block,29,31
+4:10,Stanford,KZ Okpala,Defensive Rebound,29,31
+3:59,Stanford,Cormac Ryan,Turnover,29,31
+3:44,California,Paris Austin,Missed Layup,29,31
+3:44,Stanford,Lukas Kisunas,Defensive Rebound,29,31
+3:37,Stanford,Daejon Davis,Turnover,29,31
+3:37,California,Grant Anticevich,Steal,29,31
+3:32,California,Paris Austin,Layup,29,33
+3:32,California,None,None,29,33
+3:20,Stanford,Lukas Kisunas,Turnover,29,33
+3:07,California,Paris Austin,Missed Jumper,29,33
+3:07,Stanford,None,Team Rebound,29,33
+3:05,California,Grant Anticevich,Foul,29,33
+3:05,Stanford,Lukas Kisunas,Free Throw,30,33
+3:05,Stanford,Lukas Kisunas,Free Throw,31,33
+2:44,California,Grant Anticevich,Missed Jumper,31,33
+2:44,Stanford,Lukas Kisunas,Defensive Rebound,31,33
+2:35,Stanford,Daejon Davis,Turnover,31,33
+2:35,California,Paris Austin,Steal,31,33
+2:22,California,Justice Sueing,Missed Three Point Jumper,31,33
+2:22,Stanford,KZ Okpala,Defensive Rebound,31,33
+2:04,Stanford,KZ Okpala,Layup,33,33
+1:42,California,Juhwan Harris-Dyson,Missed Dunk,33,33
+1:42,California,Connor Vanover,Offensive Rebound,33,33
+1:32,California,Paris Austin,Missed Three Point Jumper,33,33
+1:32,Stanford,Jaiden Delaire,Defensive Rebound,33,33
+1:32,California,Juhwan Harris-Dyson,Foul,33,33
+1:32,Stanford,Jaiden Delaire,Free Throw,34,33
+1:32,Stanford,Jaiden Delaire,Free Throw,35,33
+1:19,California,Justice Sueing,Jumper,35,35
+0:47,Stanford,Daejon Davis,Missed Jumper,35,35
+0:47,California,Connor Vanover,Defensive Rebound,35,35
+0:40,California,Matt Bradley,Three Point Jumper,35,38
+0:15,Stanford,Kodye Pugh,Jumper,37,38
+0:04,California,Paris Austin,Missed Jumper,37,38
+0:04,California,Justice Sueing,Offensive Rebound,37,38
+0:02,California,Justice Sueing,Missed Jumper,37,38
+0:02,Stanford,None,Team Rebound,37,38
+0:00,California,None,None,37,38
+20:00,Stanford,None,None,37,38
+19:33,Stanford,Daejon Davis,Three Point Jumper,40,38
+18:59,California,Darius McNeill,Missed Jumper,40,38
+18:59,Stanford,Josh Sharma,Defensive Rebound,40,38
+18:44,Stanford,Oscar da Silva,Turnover,40,38
+18:22,Stanford,Daejon Davis,Foul,40,38
+18:22,California,Paris Austin,Free Throw,40,39
+18:22,California,Paris Austin,Missed Free Throw,40,39
+18:10,Stanford,KZ Okpala,Layup,42,39
+18:10,California,Paris Austin,Foul,42,39
+18:10,Stanford,KZ Okpala,Free Throw,43,39
+17:53,California,Andre Kelly,Missed Jumper,43,39
+17:53,Stanford,KZ Okpala,Defensive Rebound,43,39
+17:47,Stanford,KZ Okpala,Turnover,43,39
+17:47,California,Juhwan Harris-Dyson,Steal,43,39
+17:41,California,Paris Austin,Layup,43,41
+17:26,Stanford,KZ Okpala,Layup,45,41
+17:11,Stanford,Oscar da Silva,Foul,45,41
+17:11,California,Justice Sueing,Missed Free Throw,45,41
+17:11,California,None,Team Rebound,45,41
+17:11,California,Justice Sueing,Free Throw,45,42
+16:59,California,Juhwan Harris-Dyson,Foul,45,42
+16:47,Stanford,Cormac Ryan,Missed Jumper,45,42
+16:47,California,California,Defensive Rebound,45,42
+16:45,Stanford,Josh Sharma,Foul,45,42
+16:32,California,Justice Sueing,Jumper,45,44
+16:14,California,Connor Vanover,Foul,45,44
+16:14,Stanford,KZ Okpala,Missed Free Throw,45,44
+16:14,Stanford,None,Team Rebound,45,44
+16:14,Stanford,KZ Okpala,Missed Free Throw,45,44
+16:14,California,Justice Sueing,Defensive Rebound,45,44
+16:03,California,Connor Vanover,Three Point Jumper,45,47
+15:44,Stanford,KZ Okpala,Jumper,47,47
+15:28,California,Justice Sueing,Layup,47,49
+15:09,Stanford,Bryce Wills,Missed Three Point Jumper,47,49
+15:09,California,Darius McNeill,Defensive Rebound,47,49
+14:57,California,Connor Vanover,Missed Jumper,47,49
+14:57,Stanford,Bryce Wills,Defensive Rebound,47,49
+14:35,Stanford,Daejon Davis,Missed Jumper,47,49
+14:35,Stanford,Stanford,Offensive Rebound,47,49
+14:33,California,None,None,47,49
+14:28,Stanford,Bryce Wills,Jumper,49,49
+14:09,California,Connor Vanover,Jumper,49,51
+13:55,Stanford,Daejon Davis,Missed Three Point Jumper,49,51
+13:55,Stanford,KZ Okpala,Offensive Rebound,49,51
+13:52,California,Darius McNeill,Foul,49,51
+13:36,Stanford,Daejon Davis,Missed Three Point Jumper,49,51
+13:36,California,Paris Austin,Defensive Rebound,49,51
+13:30,California,Paris Austin,Layup,49,53
+13:10,Stanford,KZ Okpala,Turnover,49,53
+13:10,California,Paris Austin,Steal,49,53
+13:07,Stanford,KZ Okpala,Foul,49,53
+12:48,California,Matt Bradley,Three Point Jumper,49,56
+12:28,Stanford,KZ Okpala,Missed Three Point Jumper,49,56
+12:28,California,Paris Austin,Defensive Rebound,49,56
+12:18,California,Paris Austin,Turnover,49,56
+12:18,Stanford,Bryce Wills,Steal,49,56
+12:12,Stanford,Bryce Wills,Dunk,51,56
+11:51,California,Jacobi Gordon,Missed Jumper,51,56
+11:51,Stanford,Josh Sharma,Defensive Rebound,51,56
+11:37,Stanford,KZ Okpala,Missed Three Point Jumper,51,56
+11:37,Stanford,Bryce Wills,Offensive Rebound,51,56
+11:29,Stanford,Bryce Wills,Layup,53,56
+11:08,California,Paris Austin,Jumper,53,58
+10:40,Stanford,Josh Sharma,Layup,55,58
+10:26,California,Matt Bradley,Turnover,55,58
+10:10,California,Connor Vanover,Foul,55,58
+10:10,California,None,None,55,58
+10:10,Stanford,KZ Okpala,Missed Free Throw,55,58
+10:10,Stanford,None,Team Rebound,55,58
+10:08,Stanford,KZ Okpala,Missed Free Throw,55,58
+10:08,California,Justice Sueing,Defensive Rebound,55,58
+9:44,California,Paris Austin,Missed Jumper,55,58
+9:44,Stanford,KZ Okpala,Defensive Rebound,55,58
+9:35,Stanford,Cormac Ryan,Three Point Jumper,58,58
+9:09,California,Connor Vanover,Missed Three Point Jumper,58,58
+9:09,Stanford,Cormac Ryan,Defensive Rebound,58,58
+8:52,Stanford,Daejon Davis,Turnover,58,58
+8:39,California,Darius McNeill,Three Point Jumper,58,61
+8:21,Stanford,KZ Okpala,Missed Layup,58,61
+8:21,California,Paris Austin,Defensive Rebound,58,61
+8:15,California,Justice Sueing,Layup,58,63
+8:15,Stanford,Bryce Wills,Foul,58,63
+8:15,California,Justice Sueing,Free Throw,58,64
+7:57,Stanford,KZ Okpala,Dunk,60,64
+7:57,California,Juhwan Harris-Dyson,Foul,60,64
+7:57,California,None,None,60,64
+7:57,Stanford,KZ Okpala,Free Throw,61,64
+7:36,Stanford,Daejon Davis,Foul,61,64
+7:36,California,Juhwan Harris-Dyson,Free Throw,61,65
+7:36,California,Juhwan Harris-Dyson,Free Throw,61,66
+7:32,California,Paris Austin,Foul,61,66
+7:32,Stanford,Daejon Davis,Free Throw,62,66
+7:32,Stanford,Daejon Davis,Free Throw,63,66
+7:10,Stanford,Oscar da Silva,Foul,63,66
+7:10,California,Matt Bradley,Free Throw,63,67
+7:10,California,Matt Bradley,Free Throw,63,68
+6:49,Stanford,Cormac Ryan,Turnover,63,68
+6:49,California,Justice Sueing,Steal,63,68
+6:40,California,Juhwan Harris-Dyson,Missed Layup,63,68
+6:40,California,Juhwan Harris-Dyson,Offensive Rebound,63,68
+6:27,California,Justice Sueing,Missed Jumper,63,68
+6:27,Stanford,Josh Sharma,Defensive Rebound,63,68
+6:12,Stanford,Daejon Davis,Turnover,63,68
+6:12,California,Juhwan Harris-Dyson,Steal,63,68
+6:07,Stanford,Bryce Wills,Foul,63,68
+6:07,Stanford,None,None,63,68
+6:07,California,Juhwan Harris-Dyson,Free Throw,63,69
+6:07,California,Juhwan Harris-Dyson,Free Throw,63,70
+5:51,Stanford,KZ Okpala,Layup,65,70
+5:29,California,Juhwan Harris-Dyson,Missed Jumper,65,70
+5:29,Stanford,None,Team Rebound,65,70
+5:28,California,Andre Kelly,Foul,65,70
+5:28,Stanford,Bryce Wills,Free Throw,66,70
+5:28,Stanford,Bryce Wills,Free Throw,67,70
+5:14,Stanford,KZ Okpala,Foul,67,70
+5:14,California,Justice Sueing,Free Throw,67,71
+5:14,California,Justice Sueing,Free Throw,67,72
+5:01,California,Justice Sueing,Foul,67,72
+5:01,Stanford,KZ Okpala,Free Throw,68,72
+5:01,Stanford,KZ Okpala,Free Throw,69,72
+4:49,California,Darius McNeill,Missed Jumper,69,72
+4:49,Stanford,Daejon Davis,Defensive Rebound,69,72
+4:26,Stanford,Bryce Wills,Layup,71,72
+4:01,California,None,None,71,72
+3:56,California,Paris Austin,Missed Jumper,71,72
+3:56,Stanford,Bryce Wills,Defensive Rebound,71,72
+3:51,California,Darius McNeill,Foul,71,72
+3:51,Stanford,Bryce Wills,Free Throw,72,72
+3:51,Stanford,Bryce Wills,Free Throw,73,72
+3:34,California,Connor Vanover,Jumper,73,74
+3:15,Stanford,KZ Okpala,Missed Layup,73,74
+3:15,California,Connor Vanover,Block,73,74
+3:15,Stanford,KZ Okpala,Offensive Rebound,73,74
+3:07,Stanford,KZ Okpala,Layup,75,74
+2:48,California,Justice Sueing,Missed Three Point Jumper,75,74
+2:48,Stanford,Daejon Davis,Defensive Rebound,75,74
+2:25,Stanford,KZ Okpala,Turnover,75,74
+2:25,California,Matt Bradley,Steal,75,74
+2:17,California,Connor Vanover,Missed Three Point Jumper,75,74
+2:17,Stanford,Josh Sharma,Defensive Rebound,75,74
+2:00,California,Matt Bradley,Foul,75,74
+2:00,Stanford,KZ Okpala,Free Throw,76,74
+2:00,Stanford,KZ Okpala,Free Throw,77,74
+1:46,California,Matt Bradley,Jumper,77,76
+1:28,California,Justice Sueing,Foul,77,76
+1:28,Stanford,Daejon Davis,Free Throw,78,76
+1:28,Stanford,Daejon Davis,Free Throw,79,76
+1:28,Stanford,None,None,79,76
+1:11,California,Justice Sueing,Layup,79,78
+1:11,Stanford,Josh Sharma,Foul,79,78
+1:11,California,Justice Sueing,Free Throw,79,79
+1:11,California,None,None,79,79
+0:43,Stanford,Oscar da Silva,Layup,81,79
+0:34,California,Paris Austin,Jumper,81,81
+0:34,California,None,None,81,81
+0:25,Stanford,Daejon Davis,Jumper,83,81
+0:24,Stanford,None,None,83,81
+0:14,California,Matt Bradley,Turnover,83,81
+0:14,California,Matt Bradley,Foul,83,81
+0:14,California,Matt Bradley,Foul,83,81
+0:14,Stanford,KZ Okpala,Missed Free Throw,83,81
+0:14,Stanford,None,Team Rebound,83,81
+0:14,Stanford,KZ Okpala,Free Throw,84,81
+0:10,California,Paris Austin,Missed Three Point Jumper,84,81
+0:10,Stanford,None,Team Rebound,84,81
+0:00,California,None,None,84,81

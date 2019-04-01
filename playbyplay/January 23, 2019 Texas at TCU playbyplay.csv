@@ -1,0 +1,328 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas,None,None,0,0
+19:34,Texas,Kerwin Roach II,Three Point Jumper,3,0
+19:12,TCU,Desmond Bane,Missed Layup,3,0
+19:12,Texas,Dylan Osetkowski,Defensive Rebound,3,0
+18:59,Texas,Matt Coleman III,Missed Jumper,3,0
+18:59,TCU,Desmond Bane,Defensive Rebound,3,0
+18:40,TCU,Kevin Samuel,Missed Layup,3,0
+18:40,TCU,Kouat Noi,Offensive Rebound,3,0
+18:35,TCU,Kouat Noi,Turnover,3,0
+18:35,Texas,Matt Coleman III,Steal,3,0
+18:27,TCU,Desmond Bane,Foul,3,0
+18:27,Texas,Jaxson Hayes,Free Throw,4,0
+18:27,Texas,Jaxson Hayes,Missed Free Throw,4,0
+18:27,TCU,Kouat Noi,Defensive Rebound,4,0
+18:15,TCU,Alex Robinson,Turnover,4,0
+18:15,Texas,Courtney Ramey,Steal,4,0
+17:58,Texas,Courtney Ramey,Missed Three Point Jumper,4,0
+17:58,TCU,Kouat Noi,Defensive Rebound,4,0
+17:40,TCU,Desmond Bane,Three Point Jumper,4,3
+17:33,Texas,Kerwin Roach II,Missed Layup,4,3
+17:33,TCU,Desmond Bane,Defensive Rebound,4,3
+17:24,TCU,JD Miller,Missed Three Point Jumper,4,3
+17:24,Texas,Kerwin Roach II,Defensive Rebound,4,3
+17:14,Texas,Matt Coleman III,Three Point Jumper,7,3
+16:43,TCU,JD Miller,Three Point Jumper,7,6
+16:19,Texas,Jaxson Hayes,Layup,9,6
+16:19,TCU,Alex Robinson,Foul,9,6
+16:19,Texas,Jaxson Hayes,Free Throw,10,6
+16:01,Texas,Jase Febres,Foul,10,6
+16:01,TCU,Kouat Noi,Free Throw,10,7
+16:01,TCU,Kouat Noi,Free Throw,10,8
+15:54,Texas,Kerwin Roach II,Jumper,12,8
+15:38,TCU,Kouat Noi,Missed Jumper,12,8
+15:38,Texas,Jericho Sims,Defensive Rebound,12,8
+15:29,Texas,Jericho Sims,Turnover,12,8
+15:29,TCU,JD Miller,Steal,12,8
+15:24,TCU,Kouat Noi,Layup,12,10
+15:13,Texas,Dylan Osetkowski,Missed Three Point Jumper,12,10
+15:13,TCU,Alex Robinson,Defensive Rebound,12,10
+14:52,Texas,Matt Coleman III,Foul,12,10
+14:52,TCU,None,None,12,10
+14:46,TCU,RJ Nembhard,Layup,12,12
+14:46,Texas,Jericho Sims,Foul,12,12
+14:46,TCU,RJ Nembhard,Missed Free Throw,12,12
+14:46,Texas,Dylan Osetkowski,Defensive Rebound,12,12
+14:35,Texas,Dylan Osetkowski,Foul,12,12
+14:35,Texas,Dylan Osetkowski,Turnover,12,12
+14:19,TCU,RJ Nembhard,Turnover,12,12
+14:19,Texas,Courtney Ramey,Steal,12,12
+14:14,Texas,Elijah Mitrou-Long,Missed Three Point Jumper,12,12
+14:14,TCU,Desmond Bane,Defensive Rebound,12,12
+14:04,TCU,RJ Nembhard,Turnover,12,12
+14:04,Texas,Jase Febres,Steal,12,12
+13:56,Texas,Elijah Mitrou-Long,Turnover,12,12
+13:42,TCU,Alex Robinson,Missed Layup,12,12
+13:42,Texas,Jaxson Hayes,Defensive Rebound,12,12
+13:34,Texas,Jaxson Hayes,Missed Layup,12,12
+13:34,TCU,Alex Robinson,Defensive Rebound,12,12
+13:27,Texas,Courtney Ramey,Foul,12,12
+13:25,TCU,Desmond Bane,Jumper,12,14
+13:08,Texas,Courtney Ramey,Missed Three Point Jumper,12,14
+13:08,TCU,Desmond Bane,Defensive Rebound,12,14
+13:02,Texas,Kerwin Roach II,Foul,12,14
+12:55,TCU,Kendric Davis,Three Point Jumper,12,17
+12:21,Texas,Dylan Osetkowski,Missed Layup,12,17
+12:21,TCU,Kevin Samuel,Defensive Rebound,12,17
+12:10,TCU,Desmond Bane,Missed Three Point Jumper,12,17
+12:10,Texas,Jase Febres,Defensive Rebound,12,17
+12:00,Texas,Jaxson Hayes,Layup,14,17
+11:30,TCU,Desmond Bane,Missed Three Point Jumper,14,17
+11:30,Texas,Jase Febres,Defensive Rebound,14,17
+11:23,TCU,Kendric Davis,Foul,14,17
+11:23,TCU,None,None,14,17
+11:15,Texas,Dylan Osetkowski,Three Point Jumper,17,17
+10:44,TCU,JD Miller,Missed Jumper,17,17
+10:44,Texas,Jaxson Hayes,Defensive Rebound,17,17
+10:24,Texas,Jaxson Hayes,Missed Jumper,17,17
+10:24,TCU,Kevin Samuel,Defensive Rebound,17,17
+10:11,TCU,Kendric Davis,Turnover,17,17
+10:11,Texas,Matt Coleman III,Steal,17,17
+9:48,Texas,Courtney Ramey,Three Point Jumper,20,17
+9:22,TCU,Alex Robinson,Missed Layup,20,17
+9:22,Texas,Jaxson Hayes,Block,20,17
+9:22,TCU,Kevin Samuel,Offensive Rebound,20,17
+9:15,TCU,Kevin Samuel,Dunk,20,19
+9:09,Texas,Jase Febres,Missed Three Point Jumper,20,19
+9:09,TCU,Kevin Samuel,Defensive Rebound,20,19
+8:49,TCU,Kouat Noi,Missed Layup,20,19
+8:49,Texas,Dylan Osetkowski,Defensive Rebound,20,19
+8:40,Texas,Kerwin Roach II,Three Point Jumper,23,19
+8:37,TCU,None,None,23,19
+8:32,TCU,Desmond Bane,Layup,23,21
+8:12,Texas,Dylan Osetkowski,Foul,23,21
+8:12,Texas,Dylan Osetkowski,Turnover,23,21
+7:42,TCU,Desmond Bane,Missed Jumper,23,21
+7:42,Texas,Jaxson Hayes,Defensive Rebound,23,21
+7:27,TCU,None,None,23,21
+7:23,Texas,Kerwin Roach II,Turnover,23,21
+7:23,TCU,JD Miller,Steal,23,21
+7:18,TCU,JD Miller,Missed Three Point Jumper,23,21
+7:18,TCU,Kouat Noi,Offensive Rebound,23,21
+7:14,Texas,Kamaka Hepa,Foul,23,21
+7:14,TCU,Kouat Noi,Missed Free Throw,23,21
+7:14,Texas,Kerwin Roach II,Defensive Rebound,23,21
+7:05,Texas,Jaxson Hayes,Dunk,25,21
+6:36,TCU,Desmond Bane,Missed Jumper,25,21
+6:36,Texas,Jaxson Hayes,Defensive Rebound,25,21
+6:07,Texas,Matt Coleman III,Turnover,25,21
+5:53,TCU,Kouat Noi,Three Point Jumper,25,24
+5:33,Texas,Kerwin Roach II,Missed Three Point Jumper,25,24
+5:33,Texas,Kamaka Hepa,Offensive Rebound,25,24
+5:10,Texas,Jericho Sims,Layup,27,24
+4:48,TCU,Alex Robinson,Foul,27,24
+4:48,TCU,Alex Robinson,Turnover,27,24
+4:27,Texas,Courtney Ramey,Turnover,27,24
+4:27,TCU,Kevin Samuel,Steal,27,24
+4:17,TCU,Kouat Noi,Missed Three Point Jumper,27,24
+4:17,TCU,JD Miller,Offensive Rebound,27,24
+4:17,TCU,None,None,27,26
+3:56,Texas,Matt Coleman III,Turnover,27,26
+3:56,TCU,None,None,27,26
+3:45,TCU,Kendric Davis,Missed Jumper,27,26
+3:45,Texas,Jaxson Hayes,Block,27,26
+3:45,Texas,Jaxson Hayes,Defensive Rebound,27,26
+3:29,Texas,Matt Coleman III,Turnover,27,26
+3:29,TCU,Kendric Davis,Steal,27,26
+3:19,TCU,JD Miller,Missed Layup,27,26
+3:19,TCU,Kouat Noi,Offensive Rebound,27,26
+3:19,TCU,None,None,27,28
+2:47,Texas,Kerwin Roach II,Missed Jumper,27,28
+2:47,TCU,Kevin Samuel,Defensive Rebound,27,28
+2:38,Texas,Jaxson Hayes,Foul,27,28
+2:38,TCU,JD Miller,Free Throw,27,29
+2:38,TCU,JD Miller,Missed Free Throw,27,29
+2:38,TCU,Kevin Samuel,Offensive Rebound,27,29
+2:38,TCU,Kevin Samuel,Turnover,27,29
+2:38,Texas,Courtney Ramey,Steal,27,29
+2:36,Texas,Courtney Ramey,Layup,29,29
+2:14,TCU,Kouat Noi,Missed Three Point Jumper,29,29
+2:14,TCU,Kevin Samuel,Offensive Rebound,29,29
+2:08,TCU,Kendric Davis,Jumper,29,31
+1:49,Texas,Jase Febres,Missed Three Point Jumper,29,31
+1:49,TCU,Kevin Samuel,Defensive Rebound,29,31
+1:31,TCU,Kendric Davis,Turnover,29,31
+1:31,Texas,Matt Coleman III,Steal,29,31
+1:28,Texas,Kerwin Roach II,Turnover,29,31
+1:28,TCU,Kouat Noi,Steal,29,31
+1:11,Texas,Jase Febres,Foul,29,31
+1:11,TCU,Kouat Noi,Free Throw,29,32
+1:11,TCU,Kouat Noi,Free Throw,29,33
+1:09,Texas,Courtney Ramey,Missed Layup,29,33
+1:09,TCU,Kevin Samuel,Defensive Rebound,29,33
+0:53,TCU,Kendric Davis,Turnover,29,33
+0:53,Texas,Elijah Mitrou-Long,Steal,29,33
+0:47,Texas,Elijah Mitrou-Long,Missed Layup,29,33
+0:47,Texas,Courtney Ramey,Offensive Rebound,29,33
+0:47,Texas,None,None,31,33
+0:17,TCU,Kendric Davis,Missed Three Point Jumper,31,33
+0:17,TCU,Kouat Noi,Offensive Rebound,31,33
+0:11,TCU,Kouat Noi,Dunk,31,35
+0:09,Texas,None,None,31,35
+0:07,TCU,RJ Nembhard,Foul,31,35
+0:05,TCU,JD Miller,Foul,31,35
+0:02,Texas,Matt Coleman III,Missed Three Point Jumper,31,35
+0:02,TCU,Kouat Noi,Defensive Rebound,31,35
+0:00,TCU,None,None,31,35
+20:00,TCU,None,None,31,35
+19:46,TCU,JD Miller,Jumper,31,37
+19:14,Texas,Dylan Osetkowski,Missed Jumper,31,37
+19:14,TCU,Kouat Noi,Defensive Rebound,31,37
+19:05,TCU,Alex Robinson,Missed Three Point Jumper,31,37
+19:05,TCU,Kevin Samuel,Offensive Rebound,31,37
+18:55,TCU,Desmond Bane,Missed Jumper,31,37
+18:55,Texas,Dylan Osetkowski,Defensive Rebound,31,37
+18:48,Texas,Courtney Ramey,Three Point Jumper,34,37
+18:32,Texas,Courtney Ramey,Foul,34,37
+18:23,TCU,Kevin Samuel,Dunk,34,39
+17:58,Texas,Kerwin Roach II,Jumper,36,39
+17:39,TCU,Alex Robinson,Missed Jumper,36,39
+17:39,TCU,Desmond Bane,Offensive Rebound,36,39
+17:35,Texas,Kerwin Roach II,Foul,36,39
+17:23,TCU,Kevin Samuel,Layup,36,41
+17:15,Texas,Courtney Ramey,Turnover,36,41
+17:05,TCU,Kevin Samuel,Dunk,36,43
+16:56,Texas,Kerwin Roach II,Missed Three Point Jumper,36,43
+16:56,TCU,TCU,Defensive Rebound,36,43
+16:53,Texas,None,None,36,43
+16:22,TCU,TCU ,Turnover,36,43
+16:06,Texas,Jaxson Hayes,Turnover,36,43
+16:06,TCU,Alex Robinson,Steal,36,43
+16:00,TCU,Desmond Bane,Missed Three Point Jumper,36,43
+16:00,Texas,Matt Coleman III,Defensive Rebound,36,43
+15:54,Texas,Matt Coleman III,Missed Layup,36,43
+15:54,TCU,Desmond Bane,Block,36,43
+15:54,TCU,Kevin Samuel,Defensive Rebound,36,43
+15:45,TCU,Kouat Noi,Missed Dunk,36,43
+15:45,TCU,TCU,Offensive Rebound,36,43
+15:45,TCU,None,None,36,43
+15:19,TCU,None,None,36,43
+15:14,TCU,Desmond Bane,Jumper,36,45
+15:01,Texas,Kerwin Roach II,Missed Three Point Jumper,36,45
+15:01,TCU,JD Miller,Defensive Rebound,36,45
+14:43,TCU,Alex Robinson,Three Point Jumper,36,48
+14:28,Texas,Dylan Osetkowski,Turnover,36,48
+14:28,TCU,Kevin Samuel,Steal,36,48
+14:18,TCU,Alex Robinson,Missed Three Point Jumper,36,48
+14:18,TCU,Kevin Samuel,Offensive Rebound,36,48
+13:54,TCU,Alex Robinson,Turnover,36,48
+13:54,Texas,Matt Coleman III,Steal,36,48
+13:50,Texas,Kerwin Roach II,Missed Three Point Jumper,36,48
+13:50,TCU,Desmond Bane,Defensive Rebound,36,48
+13:44,Texas,Matt Coleman III,Foul,36,48
+13:31,TCU,Desmond Bane,Missed Jumper,36,48
+13:31,Texas,Jase Febres,Defensive Rebound,36,48
+13:08,Texas,Courtney Ramey,Missed Jumper,36,48
+13:08,Texas,Dylan Osetkowski,Offensive Rebound,36,48
+13:03,Texas,Dylan Osetkowski,Dunk,38,48
+12:26,TCU,Alex Robinson,Missed Three Point Jumper,38,48
+12:26,Texas,Elijah Mitrou-Long,Defensive Rebound,38,48
+12:20,Texas,Elijah Mitrou-Long,Missed Layup,38,48
+12:20,Texas,Dylan Osetkowski,Offensive Rebound,38,48
+12:14,Texas,Dylan Osetkowski,Dunk,40,48
+11:48,TCU,Kouat Noi,Missed Layup,40,48
+11:48,Texas,Dylan Osetkowski,Defensive Rebound,40,48
+11:21,Texas,Elijah Mitrou-Long,Three Point Jumper,43,48
+11:02,TCU,None,None,43,48
+10:44,TCU,JD Miller,Missed Three Point Jumper,43,48
+10:44,Texas,Courtney Ramey,Defensive Rebound,43,48
+10:33,Texas,Courtney Ramey,Missed Jumper,43,48
+10:33,Texas,Texas,Offensive Rebound,43,48
+10:33,TCU,Russell Barlow,Foul,43,48
+10:27,Texas,Dylan Osetkowski,Missed Three Point Jumper,43,48
+10:27,TCU,Kendric Davis,Defensive Rebound,43,48
+10:01,TCU,Kendric Davis,Missed Layup,43,48
+10:01,Texas,Jaxson Hayes,Block,43,48
+10:01,Texas,Jase Febres,Defensive Rebound,43,48
+9:50,Texas,Jase Febres,Missed Three Point Jumper,43,48
+9:50,Texas,Dylan Osetkowski,Offensive Rebound,43,48
+9:46,Texas,Courtney Ramey,Turnover,43,48
+9:46,TCU,Desmond Bane,Steal,43,48
+9:40,TCU,Kendric Davis,Layup,43,50
+9:32,Texas,Jase Febres,Layup,45,50
+9:15,TCU,Alex Robinson,Missed Jumper,45,50
+9:15,Texas,Dylan Osetkowski,Defensive Rebound,45,50
+9:00,Texas,Elijah Mitrou-Long,Jumper,47,50
+8:31,Texas,Jase Febres,Foul,47,50
+8:31,TCU,Desmond Bane,Free Throw,47,51
+8:31,TCU,Desmond Bane,Free Throw,47,52
+8:11,Texas,Elijah Mitrou-Long,Missed Jumper,47,52
+8:11,Texas,Dylan Osetkowski,Offensive Rebound,47,52
+8:05,TCU,Lat Mayen,Foul,47,52
+8:05,Texas,Dylan Osetkowski,Free Throw,48,52
+8:05,Texas,Dylan Osetkowski,Free Throw,49,52
+7:39,TCU,Kouat Noi,Missed Layup,49,52
+7:39,Texas,Jaxson Hayes,Block,49,52
+7:39,TCU,Kouat Noi,Offensive Rebound,49,52
+7:30,TCU,Kouat Noi,Layup,49,54
+7:23,Texas,Elijah Mitrou-Long,Missed Layup,49,54
+7:23,TCU,Kevin Samuel,Block,49,54
+7:23,TCU,Lat Mayen,Defensive Rebound,49,54
+7:05,TCU,Kevin Samuel,Missed Layup,49,54
+7:05,Texas,Jaxson Hayes,Block,49,54
+7:05,Texas,Jase Febres,Defensive Rebound,49,54
+6:54,Texas,Courtney Ramey,Missed Layup,49,54
+6:54,TCU,Lat Mayen,Defensive Rebound,49,54
+6:43,Texas,Jaxson Hayes,Foul,49,54
+6:43,TCU,None,None,49,54
+6:43,TCU,Desmond Bane,Free Throw,49,55
+6:43,TCU,Desmond Bane,Free Throw,49,56
+6:32,Texas,Kerwin Roach II,Layup,51,56
+6:04,TCU,Kouat Noi,Missed Three Point Jumper,51,56
+6:04,Texas,Kerwin Roach II,Defensive Rebound,51,56
+5:56,Texas,Kerwin Roach II,Three Point Jumper,54,56
+5:40,TCU,Desmond Bane,Missed Three Point Jumper,54,56
+5:40,TCU,Kouat Noi,Offensive Rebound,54,56
+5:32,Texas,Jericho Sims,Foul,54,56
+5:32,TCU,JD Miller,Free Throw,54,57
+5:32,TCU,JD Miller,Free Throw,54,58
+5:06,Texas,Kerwin Roach II,Missed Jumper,54,58
+5:06,TCU,Kevin Samuel,Block,54,58
+5:06,Texas,Jericho Sims,Offensive Rebound,54,58
+5:06,TCU,Kevin Samuel,Foul,54,58
+5:06,Texas,Jericho Sims,Missed Free Throw,54,58
+5:06,Texas,None,Team Rebound,54,58
+5:06,Texas,Jericho Sims,Missed Free Throw,54,58
+5:06,TCU,Kevin Samuel,Defensive Rebound,54,58
+5:04,Texas,Jase Febres,Foul,54,58
+5:04,TCU,Kevin Samuel,Missed Free Throw,54,58
+5:04,Texas,Kerwin Roach II,Defensive Rebound,54,58
+4:51,TCU,Alex Robinson,Foul,54,58
+4:34,Texas,Matt Coleman III,Missed Three Point Jumper,54,58
+4:34,TCU,Kouat Noi,Defensive Rebound,54,58
+4:22,TCU,Desmond Bane,Layup,54,60
+4:06,Texas,Matt Coleman III,Foul,54,60
+4:06,Texas,Matt Coleman III,Turnover,54,60
+4:04,TCU,Desmond Bane,Layup,54,62
+3:53,Texas,None,None,54,62
+3:36,Texas,Jase Febres,Jumper,56,62
+3:10,TCU,Alex Robinson,Turnover,56,62
+3:00,Texas,Jase Febres,Three Point Jumper,59,62
+2:21,TCU,TCU ,Turnover,59,62
+2:06,Texas,Courtney Ramey,Missed Three Point Jumper,59,62
+2:06,TCU,TCU,Defensive Rebound,59,62
+1:42,TCU,Alex Robinson,Layup,59,64
+1:32,Texas,Kerwin Roach II,Turnover,59,64
+1:15,TCU,Lat Mayen,Missed Three Point Jumper,59,64
+1:15,Texas,Jase Febres,Defensive Rebound,59,64
+1:15,Texas,Jase Febres,Turnover,59,64
+0:44,TCU,TCU ,Turnover,59,64
+0:37,Texas,Kerwin Roach II,Missed Three Point Jumper,59,64
+0:37,TCU,Desmond Bane,Defensive Rebound,59,64
+0:29,TCU,Desmond Bane,Turnover,59,64
+0:29,Texas,Elijah Mitrou-Long,Steal,59,64
+0:24,Texas,Jaxson Hayes,Layup,61,64
+0:22,Texas,Jaxson Hayes,Foul,61,64
+0:22,TCU,Lat Mayen,Missed Free Throw,61,64
+0:22,Texas,Jaxson Hayes,Defensive Rebound,61,64
+0:12,Texas,None,None,61,64
+0:09,TCU,Desmond Bane,Foul,61,64
+0:06,TCU,Desmond Bane,Foul,61,64
+0:01,Texas,Elijah Mitrou-Long,Missed Three Point Jumper,61,64
+0:01,TCU,JD Miller,Defensive Rebound,61,64
+0:01,Texas,Jaxson Hayes,Foul,61,64
+0:01,TCU,JD Miller,Missed Free Throw,61,64
+0:01,TCU,None,Team Rebound,61,64
+0:01,TCU,JD Miller,Free Throw,61,65
+0:00,TCU,None,None,61,65

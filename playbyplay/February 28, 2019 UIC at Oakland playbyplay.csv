@@ -1,0 +1,361 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,UIC,Tarkus Ferguson,Turnover,0,0
+19:26,UIC,Jordan Blount,Foul,0,0
+19:22,Oakland,Xavier Hill-Mais,Layup,0,2
+19:04,UIC,Marcus Ottey,Turnover,0,2
+18:50,Oakland,Jaevin Cumberland,Three Point Jumper,0,5
+18:26,UIC,Rob Howard Jr.,Missed Jumper,0,5
+18:26,Oakland,Jaevin Cumberland,Defensive Rebound,0,5
+18:10,Oakland,Jaevin Cumberland,Missed Layup,0,5
+18:10,UIC,Godwin Boahen,Block,0,5
+18:07,UIC,Jordan Blount,Defensive Rebound,0,5
+18:02,UIC,Godwin Boahen,Missed Three Point Jumper,0,5
+18:02,Oakland,Brad Brechting,Defensive Rebound,0,5
+17:45,Oakland,Brad Brechting,Jumper,0,7
+17:27,UIC,Michael Diggins,Turnover,0,7
+17:11,Oakland,Xavier Hill-Mais,Missed Layup,0,7
+17:11,UIC,Rob Howard Jr.,Block,0,7
+17:08,UIC,Marcus Ottey,Defensive Rebound,0,7
+17:01,UIC,Michael Diggins,Three Point Jumper,3,7
+16:43,Oakland,Braden Norris,Missed Three Point Jumper,3,7
+16:43,UIC,Tarkus Ferguson,Defensive Rebound,3,7
+16:40,Oakland,Jaevin Cumberland,Foul,3,7
+16:28,UIC,Michael Diggins,Missed Dunk,3,7
+16:28,UIC,Rob Howard Jr.,Offensive Rebound,3,7
+16:16,UIC,Marcus Ottey,Layup,5,7
+15:57,Oakland,None,None,5,7
+15:47,Oakland,Jaevin Cumberland,Missed Three Point Jumper,5,7
+15:47,UIC,Marcus Ottey,Defensive Rebound,5,7
+15:40,UIC,Tarkus Ferguson,Missed Three Point Jumper,5,7
+15:40,Oakland,Jaevin Cumberland,Defensive Rebound,5,7
+15:26,Oakland,Brad Brechting,Jumper,5,9
+15:09,UIC,Rob Howard Jr.,Jumper,7,9
+14:55,Oakland,Brad Brechting,Layup,7,11
+14:40,UIC,Godwin Boahen,Missed Three Point Jumper,7,11
+14:40,Oakland,Brad Brechting,Defensive Rebound,7,11
+14:20,Oakland,Braden Norris,Missed Three Point Jumper,7,11
+14:20,UIC,Tarkus Ferguson,Defensive Rebound,7,11
+14:09,UIC,Michael Diggins,Missed Three Point Jumper,7,11
+14:09,Oakland,Brad Brechting,Defensive Rebound,7,11
+13:55,Oakland,Brad Brechting,Missed Three Point Jumper,7,11
+13:55,UIC,Tarkus Ferguson,Defensive Rebound,7,11
+13:44,UIC,Marcus Ottey,Layup,9,11
+13:15,UIC,Rob Howard Jr.,Foul,9,11
+13:15,Oakland,Brad Brechting,Free Throw,9,12
+13:15,Oakland,Brad Brechting,Free Throw,9,13
+13:02,UIC,Marcus Ottey,Turnover,9,13
+13:02,Oakland,Braden Norris,Steal,9,13
+12:35,Oakland,Braden Norris,Missed Three Point Jumper,9,13
+12:35,Oakland,Brad Brechting,Offensive Rebound,9,13
+12:29,UIC,Michael Diggins,Foul,9,13
+12:29,Oakland,Brad Brechting,Free Throw,9,14
+12:29,Oakland,Brad Brechting,Free Throw,9,15
+12:15,UIC,Jordan Blount,Layup,11,15
+12:15,Oakland,Kenny Pittman Jr.,Foul,11,15
+12:15,UIC,Jordan Blount,Free Throw,12,15
+11:54,Oakland,Jaevin Cumberland,Jumper,12,17
+11:36,UIC,Jamie Ahale,Missed Three Point Jumper,12,17
+11:36,Oakland,James Beck,Defensive Rebound,12,17
+11:13,UIC,Jordan Blount,Foul,12,17
+11:13,Oakland,None,None,12,17
+11:12,Oakland,Brad Brechting,Free Throw,12,18
+11:12,Oakland,Brad Brechting,Free Throw,12,19
+10:59,UIC,Tarkus Ferguson,Three Point Jumper,15,19
+10:38,UIC,Rob Howard Jr.,Foul,15,19
+10:38,Oakland,Xavier Hill-Mais,Free Throw,15,20
+10:38,Oakland,Xavier Hill-Mais,Missed Free Throw,15,20
+10:38,UIC,Jacob Wiley,Defensive Rebound,15,20
+10:25,UIC,Jacob Wiley,Dunk,17,20
+10:17,Oakland,Xavier Hill-Mais,Missed Three Point Jumper,17,20
+10:17,UIC,UIC,Defensive Rebound,17,20
+10:05,UIC,Tarkus Ferguson,Missed Three Point Jumper,17,20
+10:05,Oakland,Karmari Newman,Defensive Rebound,17,20
+9:50,Oakland,Tray Maddox Jr.,Three Point Jumper,17,23
+9:28,UIC,Rob Howard Jr.,Three Point Jumper,20,23
+9:05,Oakland,Tray Maddox Jr.,Three Point Jumper,20,26
+8:47,UIC,Godwin Boahen,Three Point Jumper,23,26
+8:30,Oakland,James Beck,Missed Jumper,23,26
+8:30,UIC,Tarkus Ferguson,Defensive Rebound,23,26
+8:21,UIC,Jamie Ahale,Missed Three Point Jumper,23,26
+8:21,UIC,Jacob Wiley,Offensive Rebound,23,26
+8:17,UIC,Jacob Wiley,Missed Jumper,23,26
+8:17,Oakland,Karmari Newman,Defensive Rebound,23,26
+8:10,Oakland,Tray Maddox Jr.,Missed Three Point Jumper,23,26
+8:10,UIC,Godwin Boahen,Defensive Rebound,23,26
+8:03,UIC,Tarkus Ferguson,Three Point Jumper,26,26
+7:56,Oakland,None,None,26,26
+7:51,Oakland,None,None,26,26
+7:41,Oakland,Xavier Hill-Mais,Layup,26,28
+7:26,UIC,Godwin Boahen,Jumper,28,28
+7:17,UIC,Rob Howard Jr.,Foul,28,28
+7:05,Oakland,Brad Brechting,Missed Layup,28,28
+7:05,UIC,Tarkus Ferguson,Defensive Rebound,28,28
+6:57,UIC,Jordan Blount,Turnover,28,28
+6:55,Oakland,Jaevin Cumberland,Steal,28,28
+6:52,Oakland,Jaevin Cumberland,Turnover,28,28
+6:51,UIC,Godwin Boahen,Steal,28,28
+6:46,UIC,Tarkus Ferguson,Turnover,28,28
+6:44,Oakland,Jaevin Cumberland,Steal,28,28
+6:26,Oakland,Xavier Hill-Mais,Missed Three Point Jumper,28,28
+6:26,UIC,Marcus Ottey,Defensive Rebound,28,28
+6:16,UIC,Marcus Ottey,Turnover,28,28
+6:16,Oakland,Braden Norris,Steal,28,28
+5:56,Oakland,Braden Norris,Missed Three Point Jumper,28,28
+5:56,UIC,Tarkus Ferguson,Defensive Rebound,28,28
+5:46,UIC,Tarkus Ferguson,Missed Jumper,28,28
+5:46,Oakland,Tray Maddox Jr.,Defensive Rebound,28,28
+5:37,Oakland,Brad Brechting,Dunk,28,30
+5:12,UIC,Jordan Blount,Missed Jumper,28,30
+5:12,UIC,Jordan Blount,Offensive Rebound,28,30
+5:12,UIC,Jordan Blount,Turnover,28,30
+5:05,Oakland,Tray Maddox Jr.,Missed Jumper,28,30
+5:05,UIC,Jordan Blount,Defensive Rebound,28,30
+5:04,Oakland,Brad Brechting,Foul,28,30
+4:45,UIC,Travell Washington,Missed Three Point Jumper,28,30
+4:45,Oakland,Brad Brechting,Defensive Rebound,28,30
+4:29,Oakland,Brad Brechting,Layup,28,32
+4:13,UIC,Travell Washington,Turnover,28,32
+3:56,Oakland,Brad Brechting,Turnover,28,32
+3:54,UIC,Godwin Boahen,Steal,28,32
+3:49,Oakland,Brad Brechting,Foul,28,32
+3:49,Oakland,None,None,28,32
+3:47,Oakland,Karmari Newman,Foul,28,32
+3:47,UIC,Godwin Boahen,Free Throw,29,32
+3:47,UIC,Godwin Boahen,Free Throw,30,32
+3:47,UIC,Godwin Boahen,Free Throw,31,32
+3:35,UIC,Jacob Wiley,Foul,31,32
+3:35,Oakland,Xavier Hill-Mais,Missed Free Throw,31,32
+3:35,UIC,Jacob Wiley,Defensive Rebound,31,32
+3:23,UIC,Jacob Wiley,Dunk,33,32
+3:04,Oakland,Xavier Hill-Mais,Layup,33,34
+2:56,UIC,Tarkus Ferguson,Three Point Jumper,36,34
+2:34,Oakland,Braden Norris,Missed Jumper,36,34
+2:34,UIC,Jacob Wiley,Defensive Rebound,36,34
+2:26,UIC,Godwin Boahen,Missed Three Point Jumper,36,34
+2:26,Oakland,Xavier Hill-Mais,Defensive Rebound,36,34
+2:16,Oakland,Jaevin Cumberland,Missed Three Point Jumper,36,34
+2:16,UIC,Jacob Wiley,Defensive Rebound,36,34
+1:57,UIC,Tarkus Ferguson,Turnover,36,34
+1:32,UIC,Marcus Ottey,Foul,36,34
+1:32,Oakland,Jaevin Cumberland,Free Throw,36,35
+1:32,Oakland,Jaevin Cumberland,Missed Free Throw,36,35
+1:32,Oakland,None,Team Rebound,36,35
+1:32,Oakland,Jaevin Cumberland,Free Throw,36,36
+1:18,UIC,Godwin Boahen,Turnover,36,36
+1:16,Oakland,Karmari Newman,Steal,36,36
+1:09,UIC,Godwin Boahen,Foul,36,36
+1:09,Oakland,Karmari Newman,Missed Free Throw,36,36
+1:09,Oakland,None,Team Rebound,36,36
+1:09,Oakland,Karmari Newman,Missed Free Throw,36,36
+1:09,Oakland,None,Team Rebound,36,36
+1:09,Oakland,Karmari Newman,Free Throw,36,37
+0:54,UIC,Tarkus Ferguson,Missed Layup,36,37
+0:54,Oakland,Xavier Hill-Mais,Defensive Rebound,36,37
+0:46,Oakland,Tray Maddox Jr.,Turnover,36,37
+0:27,UIC,Tarkus Ferguson,Turnover,36,37
+0:24,Oakland,Tray Maddox Jr.,Steal,36,37
+0:21,Oakland,Karmari Newman,Layup,36,39
+0:05,Oakland,Jaevin Cumberland,Foul,36,39
+0:05,UIC,None,None,36,39
+0:00,UIC,Marcus Ottey,Missed Jumper,36,39
+0:00,UIC,None,Team Rebound,36,39
+0:00,Oakland,None,None,36,39
+19:48,UIC,Godwin Boahen,Three Point Jumper,39,39
+19:25,Oakland,Jaevin Cumberland,Turnover,39,39
+19:23,UIC,Godwin Boahen,Steal,39,39
+19:20,UIC,Marcus Ottey,Turnover,39,39
+19:18,Oakland,Braden Norris,Steal,39,39
+19:10,Oakland,Brad Brechting,Missed Jumper,39,39
+19:10,UIC,Jordan Blount,Defensive Rebound,39,39
+18:50,UIC,Jordan Blount,Missed Jumper,39,39
+18:50,Oakland,Xavier Hill-Mais,Defensive Rebound,39,39
+18:48,UIC,Jordan Blount,Foul,39,39
+18:23,Oakland,Brad Brechting,Missed Layup,39,39
+18:23,UIC,Jordan Blount,Defensive Rebound,39,39
+18:11,Oakland,Xavier Hill-Mais,Foul,39,39
+18:11,UIC,Marcus Ottey,Missed Free Throw,39,39
+18:11,UIC,None,Team Rebound,39,39
+18:11,UIC,Marcus Ottey,Missed Free Throw,39,39
+18:11,Oakland,Brad Brechting,Defensive Rebound,39,39
+17:53,Oakland,Jaevin Cumberland,Turnover,39,39
+17:41,UIC,Tarkus Ferguson,Missed Jumper,39,39
+17:41,Oakland,Jaevin Cumberland,Defensive Rebound,39,39
+17:33,Oakland,Jaevin Cumberland,Missed Three Point Jumper,39,39
+17:33,UIC,Jordan Blount,Defensive Rebound,39,39
+17:26,UIC,Jacob Wiley,Missed Layup,39,39
+17:26,Oakland,Oakland,Defensive Rebound,39,39
+17:13,Oakland,Karmari Newman,Missed Three Point Jumper,39,39
+17:13,Oakland,Xavier Hill-Mais,Offensive Rebound,39,39
+17:10,UIC,Jacob Wiley,Foul,39,39
+17:07,Oakland,Brad Brechting,Missed Jumper,39,39
+17:07,UIC,Jacob Wiley,Defensive Rebound,39,39
+16:52,Oakland,Braden Norris,Foul,39,39
+16:42,UIC,Jacob Wiley,Turnover,39,39
+16:27,Oakland,Xavier Hill-Mais,Missed Jumper,39,39
+16:27,UIC,Jordan Blount,Defensive Rebound,39,39
+16:14,UIC,Jacob Wiley,Turnover,39,39
+15:55,Oakland,Xavier Hill-Mais,Layup,39,41
+15:55,UIC,Michael Diggins,Foul,39,41
+15:55,Oakland,None,None,39,41
+15:55,Oakland,Xavier Hill-Mais,Free Throw,39,42
+15:37,UIC,Godwin Boahen,Turnover,39,42
+15:35,Oakland,Xavier Hill-Mais,Steal,39,42
+15:19,UIC,UIC,Foul,39,42
+15:19,UIC,UIC,Foul,39,42
+15:19,Oakland,Jaevin Cumberland,Missed Free Throw,39,42
+15:19,Oakland,None,Team Rebound,39,42
+15:19,Oakland,Jaevin Cumberland,Free Throw,39,43
+15:09,Oakland,Jaevin Cumberland,Turnover,39,43
+15:07,UIC,Godwin Boahen,Steal,39,43
+15:02,UIC,Tarkus Ferguson,Turnover,39,43
+14:59,Oakland,Karmari Newman,Steal,39,43
+14:57,Oakland,Jaevin Cumberland,Foul,39,43
+14:57,Oakland,Jaevin Cumberland,Turnover,39,43
+14:46,UIC,Michael Diggins,Missed Jumper,39,43
+14:46,UIC,Jordan Blount,Offensive Rebound,39,43
+14:44,Oakland,Brad Brechting,Foul,39,43
+14:44,UIC,Jordan Blount,Free Throw,40,43
+14:44,UIC,Jordan Blount,Missed Free Throw,40,43
+14:44,Oakland,Brad Brechting,Defensive Rebound,40,43
+14:27,UIC,Michael Diggins,Foul,40,43
+14:27,Oakland,Karmari Newman,Free Throw,40,44
+14:27,Oakland,Karmari Newman,Missed Free Throw,40,44
+14:27,UIC,Jacob Wiley,Defensive Rebound,40,44
+14:05,UIC,Tarkus Ferguson,Layup,42,44
+13:49,Oakland,James Beck,Missed Layup,42,44
+13:49,UIC,Jacob Wiley,Defensive Rebound,42,44
+13:38,UIC,Jacob Wiley,Layup,44,44
+13:19,UIC,Godwin Boahen,Foul,44,44
+13:19,Oakland,Karmari Newman,Free Throw,44,45
+13:19,Oakland,Karmari Newman,Free Throw,44,46
+13:05,UIC,Tarkus Ferguson,Missed Three Point Jumper,44,46
+13:05,Oakland,Jaevin Cumberland,Defensive Rebound,44,46
+12:50,Oakland,Karmari Newman,Missed Three Point Jumper,44,46
+12:50,UIC,Godwin Boahen,Defensive Rebound,44,46
+12:41,UIC,Tarkus Ferguson,Missed Layup,44,46
+12:41,Oakland,Tray Maddox Jr.,Defensive Rebound,44,46
+12:31,Oakland,Karmari Newman,Layup,44,48
+12:13,UIC,Rob Howard Jr.,Layup,46,48
+11:58,UIC,Jacob Wiley,Foul,46,48
+11:58,Oakland,None,None,46,48
+11:58,UIC,Tarkus Ferguson,Foul,46,48
+11:58,UIC,Tarkus Ferguson,Foul,46,48
+11:58,Oakland,Jaevin Cumberland,Free Throw,46,49
+11:58,Oakland,Jaevin Cumberland,Free Throw,46,50
+11:58,Oakland,Tray Maddox Jr.,Free Throw,46,51
+11:58,Oakland,Tray Maddox Jr.,Free Throw,46,52
+11:41,UIC,Rob Howard Jr.,Layup,48,52
+11:41,Oakland,Xavier Hill-Mais,Foul,48,52
+11:41,UIC,Rob Howard Jr.,Free Throw,49,52
+11:24,Oakland,Xavier Hill-Mais,Layup,49,54
+11:24,UIC,Rob Howard Jr.,Foul,49,54
+11:24,Oakland,Xavier Hill-Mais,Free Throw,49,55
+11:00,UIC,Jamie Ahale,Missed Three Point Jumper,49,55
+11:00,UIC,Jamie Ahale,Offensive Rebound,49,55
+10:54,UIC,Tarkus Ferguson,Missed Three Point Jumper,49,55
+10:54,Oakland,Jaevin Cumberland,Defensive Rebound,49,55
+10:42,Oakland,Braden Norris,Three Point Jumper,49,58
+10:27,Oakland,None,None,49,58
+10:12,UIC,Tarkus Ferguson,Three Point Jumper,52,58
+9:44,Oakland,Tray Maddox Jr.,Three Point Jumper,52,61
+9:13,UIC,Jamie Ahale,Missed Three Point Jumper,52,61
+9:13,Oakland,Jaevin Cumberland,Defensive Rebound,52,61
+8:40,Oakland,Xavier Hill-Mais,Missed Jumper,52,61
+8:40,UIC,Jordan Blount,Block,52,61
+8:40,Oakland,None,Team Rebound,52,61
+8:40,Oakland,Oakland ,Turnover,52,61
+8:29,UIC,Godwin Boahen,Three Point Jumper,55,61
+8:14,UIC,Jordan Blount,Foul,55,61
+8:14,Oakland,Brad Brechting,Free Throw,55,62
+8:14,Oakland,Brad Brechting,Free Throw,55,63
+8:02,UIC,Jamie Ahale,Missed Three Point Jumper,55,63
+8:02,Oakland,Karmari Newman,Defensive Rebound,55,63
+7:48,Oakland,Tray Maddox Jr.,Layup,55,65
+7:30,UIC,Godwin Boahen,Missed Jumper,55,65
+7:30,Oakland,Brad Brechting,Defensive Rebound,55,65
+7:15,Oakland,Karmari Newman,Three Point Jumper,55,68
+6:52,UIC,Tarkus Ferguson,Missed Jumper,55,68
+6:52,UIC,Jacob Wiley,Offensive Rebound,55,68
+6:48,UIC,Jacob Wiley,Missed Layup,55,68
+6:48,Oakland,Braden Norris,Defensive Rebound,55,68
+6:46,UIC,Godwin Boahen,Foul,55,68
+6:46,Oakland,None,None,55,68
+6:46,Oakland,Braden Norris,Free Throw,55,69
+6:46,Oakland,Braden Norris,Free Throw,55,70
+6:25,UIC,Jacob Wiley,Missed Layup,55,70
+6:25,Oakland,Jaevin Cumberland,Block,55,70
+6:21,Oakland,Braden Norris,Defensive Rebound,55,70
+6:05,Oakland,Jaevin Cumberland,Layup,55,72
+6:05,UIC,Godwin Boahen,Foul,55,72
+6:05,Oakland,Jaevin Cumberland,Free Throw,55,73
+5:47,UIC,Jacob Wiley,Layup,57,73
+5:26,Oakland,Karmari Newman,Layup,57,75
+5:26,UIC,Tarkus Ferguson,Foul,57,75
+5:26,Oakland,Karmari Newman,Missed Free Throw,57,75
+5:26,UIC,Michael Diggins,Defensive Rebound,57,75
+5:15,UIC,Jamie Ahale,Missed Three Point Jumper,57,75
+5:15,Oakland,Braden Norris,Defensive Rebound,57,75
+5:09,Oakland,Braden Norris,Turnover,57,75
+4:57,Oakland,Karmari Newman,Foul,57,75
+4:50,UIC,Godwin Boahen,Layup,59,75
+4:50,UIC,None,None,59,75
+4:24,Oakland,Brad Brechting,Missed Layup,59,75
+4:24,UIC,Jacob Wiley,Defensive Rebound,59,75
+4:14,UIC,Tarkus Ferguson,Turnover,59,75
+4:14,Oakland,Karmari Newman,Steal,59,75
+4:01,Oakland,Xavier Hill-Mais,Missed Jumper,59,75
+4:01,UIC,Godwin Boahen,Defensive Rebound,59,75
+3:54,UIC,Tarkus Ferguson,Layup,61,75
+3:54,Oakland,Xavier Hill-Mais,Foul,61,75
+3:54,Oakland,None,None,61,75
+3:54,UIC,Tarkus Ferguson,Missed Free Throw,61,75
+3:54,Oakland,Tray Maddox Jr.,Defensive Rebound,61,75
+3:28,Oakland,Tray Maddox Jr.,Missed Layup,61,75
+3:28,Oakland,Tray Maddox Jr.,Offensive Rebound,61,75
+3:24,Oakland,Tray Maddox Jr.,Layup,61,77
+3:20,UIC,Michael Diggins,Layup,63,77
+3:20,Oakland,Tray Maddox Jr.,Foul,63,77
+3:20,UIC,Michael Diggins,Free Throw,64,77
+2:57,Oakland,Xavier Hill-Mais,Missed Jumper,64,77
+2:57,UIC,Jamie Ahale,Defensive Rebound,64,77
+2:49,UIC,Tarkus Ferguson,Missed Three Point Jumper,64,77
+2:49,Oakland,Karmari Newman,Defensive Rebound,64,77
+2:41,Oakland,Braden Norris,Turnover,64,77
+2:39,UIC,Michael Diggins,Steal,64,77
+2:37,UIC,Godwin Boahen,Layup,66,77
+2:22,Oakland,None,None,66,77
+2:07,Oakland,Jaevin Cumberland,Layup,66,79
+1:56,Oakland,Karmari Newman,Foul,66,79
+1:56,UIC,Jacob Wiley,Free Throw,67,79
+1:56,UIC,Jacob Wiley,Free Throw,68,79
+1:55,UIC,Jamie Ahale,Foul,68,79
+1:55,Oakland,Braden Norris,Free Throw,68,80
+1:55,Oakland,Braden Norris,Free Throw,68,81
+1:45,UIC,Jamie Ahale,Missed Three Point Jumper,68,81
+1:45,UIC,Godwin Boahen,Offensive Rebound,68,81
+1:43,UIC,Godwin Boahen,Layup,70,81
+1:43,UIC,None,None,70,81
+1:37,Oakland,Jaevin Cumberland,Turnover,70,81
+1:37,UIC,Tarkus Ferguson,Steal,70,81
+1:37,UIC,None,None,70,81
+1:37,UIC,UIC,Foul,70,81
+1:37,Oakland,Jaevin Cumberland,Free Throw,70,82
+1:27,UIC,Tarkus Ferguson,Turnover,70,82
+1:25,Oakland,Jaevin Cumberland,Steal,70,82
+1:12,Oakland,Jaevin Cumberland,Turnover,70,82
+1:11,UIC,Michael Diggins,Steal,70,82
+1:08,UIC,Tarkus Ferguson,Missed Layup,70,82
+1:08,Oakland,Tray Maddox Jr.,Defensive Rebound,70,82
+0:58,UIC,Godwin Boahen,Foul,70,82
+0:58,Oakland,Brad Brechting,Free Throw,70,83
+0:58,Oakland,Brad Brechting,Free Throw,70,84
+0:46,UIC,Jacob Wiley,Missed Jumper,70,84
+0:46,Oakland,Babatunde Sowunmi,Defensive Rebound,70,84
+0:31,Oakland,Kenny Pittman Jr.,Missed Three Point Jumper,70,84
+0:31,UIC,Tarkus Ferguson,Defensive Rebound,70,84
+0:29,Oakland,Babatunde Sowunmi,Foul,70,84
+0:29,UIC,Tarkus Ferguson,Free Throw,71,84
+0:29,UIC,Tarkus Ferguson,Free Throw,72,84
+0:14,Oakland,Babatunde Sowunmi,Layup,72,86
+0:02,UIC,Jacob Wiley,Turnover,72,86
+0:00,Oakland,None,None,72,86

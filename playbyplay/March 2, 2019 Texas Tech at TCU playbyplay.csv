@@ -1,0 +1,296 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,TCU,None,None,0,0
+19:36,TCU,Kouat Noi,Missed Layup,0,0
+19:36,Texas Tech,Tariq Owens,Defensive Rebound,0,0
+19:17,Texas Tech,Davide Moretti,Turnover,0,0
+19:17,TCU,Alex Robinson,Steal,0,0
+18:55,TCU,JD Miller,Jumper,0,2
+18:30,Texas Tech,Davide Moretti,Missed Three Point Jumper,0,2
+18:30,TCU,JD Miller,Defensive Rebound,0,2
+18:20,TCU,Kouat Noi,Missed Jumper,0,2
+18:20,Texas Tech,Tariq Owens,Block,0,2
+18:20,Texas Tech,Tariq Owens,Defensive Rebound,0,2
+18:10,Texas Tech,Jarrett Culver,Missed Layup,0,2
+18:10,TCU,Kevin Samuel,Block,0,2
+18:10,Texas Tech,Texas Tech,Offensive Rebound,0,2
+18:00,Texas Tech,Matt Mooney,Jumper,2,2
+17:36,TCU,Desmond Bane,Missed Three Point Jumper,2,2
+17:36,Texas Tech,Jarrett Culver,Defensive Rebound,2,2
+17:18,Texas Tech,Norense Odiase,Layup,4,2
+16:55,TCU,Kevin Samuel,Missed Layup,4,2
+16:55,TCU,Kevin Samuel,Offensive Rebound,4,2
+16:55,Texas Tech,Tariq Owens,Foul,4,2
+16:55,TCU,Kevin Samuel,Missed Free Throw,4,2
+16:55,TCU,None,Team Rebound,4,2
+16:55,TCU,Kevin Samuel,Free Throw,4,3
+16:34,Texas Tech,Matt Mooney,Turnover,4,3
+16:34,TCU,Desmond Bane,Steal,4,3
+16:26,Texas Tech,Jarrett Culver,Foul,4,3
+16:26,TCU,Desmond Bane,Free Throw,4,4
+16:26,TCU,Desmond Bane,Free Throw,4,5
+16:08,Texas Tech,Davide Moretti,Three Point Jumper,7,5
+15:49,TCU,Desmond Bane,Missed Three Point Jumper,7,5
+15:49,Texas Tech,Matt Mooney,Defensive Rebound,7,5
+15:25,Texas Tech,Brandone Francis,Missed Three Point Jumper,7,5
+15:25,Texas Tech,Jarrett Culver,Offensive Rebound,7,5
+15:25,Texas Tech,None,None,9,5
+14:58,TCU,Kouat Noi,Foul,9,5
+14:58,TCU,Kouat Noi,Turnover,9,5
+14:58,TCU,None,None,9,5
+14:32,Texas Tech,Tariq Owens,Dunk,11,5
+14:08,TCU,Alex Robinson,Missed Jumper,11,5
+14:08,TCU,Desmond Bane,Offensive Rebound,11,5
+14:08,TCU,None,None,11,7
+13:46,Texas Tech,Davide Moretti,Missed Three Point Jumper,11,7
+13:46,TCU,Kevin Samuel,Defensive Rebound,11,7
+13:34,TCU,Alex Robinson,Layup,11,9
+13:16,Texas Tech,Jarrett Culver,Missed Three Point Jumper,11,9
+13:16,Texas Tech,Brandone Francis,Offensive Rebound,11,9
+13:11,Texas Tech,Matt Mooney,Missed Jumper,11,9
+13:11,TCU,Kevin Samuel,Defensive Rebound,11,9
+13:04,TCU,RJ Nembhard,Missed Jumper,11,9
+13:04,Texas Tech,Matt Mooney,Defensive Rebound,11,9
+12:47,Texas Tech,Matt Mooney,Jumper,13,9
+12:10,TCU,TCU ,Turnover,13,9
+11:59,Texas Tech,Deshawn Corprew,Three Point Jumper,16,9
+11:45,TCU,RJ Nembhard,Turnover,16,9
+11:45,TCU,None,None,16,9
+11:41,Texas Tech,Brandone Francis,Jumper,18,9
+11:18,TCU,Kouat Noi,Turnover,18,9
+11:18,Texas Tech,Jarrett Culver,Steal,18,9
+11:14,Texas Tech,Brandone Francis,Layup,20,9
+11:11,Texas Tech,None,None,20,9
+10:57,TCU,Kendric Davis,Turnover,20,9
+10:57,Texas Tech,Jarrett Culver,Steal,20,9
+10:52,Texas Tech,Brandone Francis,Layup,22,9
+10:30,Texas Tech,Brandone Francis,Foul,22,9
+10:30,TCU,Kevin Samuel,Missed Free Throw,22,9
+10:30,TCU,None,Team Rebound,22,9
+10:30,TCU,Kevin Samuel,Free Throw,22,10
+10:21,Texas Tech,Brandone Francis,Turnover,22,10
+10:06,Texas Tech,Brandone Francis,Foul,22,10
+10:06,TCU,Kevin Samuel,Missed Free Throw,22,10
+10:06,TCU,None,Team Rebound,22,10
+10:06,TCU,Kevin Samuel,Free Throw,22,11
+9:43,Texas Tech,Deshawn Corprew,Layup,24,11
+9:22,TCU,Alex Robinson,Missed Jumper,24,11
+9:22,Texas Tech,Davide Moretti,Defensive Rebound,24,11
+9:18,Texas Tech,Davide Moretti,Turnover,24,11
+9:18,TCU,Kouat Noi,Steal,24,11
+9:12,TCU,Kouat Noi,Missed Three Point Jumper,24,11
+9:12,Texas Tech,Tariq Owens,Defensive Rebound,24,11
+8:49,Texas Tech,Matt Mooney,Missed Three Point Jumper,24,11
+8:49,Texas Tech,Tariq Owens,Offensive Rebound,24,11
+8:49,Texas Tech,None,None,26,11
+8:32,TCU,Alex Robinson,Turnover,26,11
+8:32,Texas Tech,Matt Mooney,Steal,26,11
+8:22,TCU,RJ Nembhard,Foul,26,11
+8:09,Texas Tech,Tariq Owens,Jumper,28,11
+7:52,TCU,Kendric Davis,Missed Three Point Jumper,28,11
+7:52,TCU,JD Miller,Offensive Rebound,28,11
+7:48,TCU,None,None,28,11
+7:33,TCU,Kouat Noi,Missed Jumper,28,11
+7:33,TCU,None,Team Rebound,28,11
+7:33,TCU,TCU ,Turnover,28,11
+7:16,Texas Tech,Matt Mooney,Turnover,28,11
+7:16,TCU,JD Miller,Steal,28,11
+7:11,TCU,Kouat Noi,Missed Three Point Jumper,28,11
+7:11,Texas Tech,Tariq Owens,Defensive Rebound,28,11
+6:51,Texas Tech,Kyler Edwards,Three Point Jumper,31,11
+6:28,TCU,JD Miller,Missed Layup,31,11
+6:28,Texas Tech,Jarrett Culver,Block,31,11
+6:28,Texas Tech,Davide Moretti,Defensive Rebound,31,11
+6:22,Texas Tech,Matt Mooney,Turnover,31,11
+6:22,TCU,JD Miller,Steal,31,11
+6:01,TCU,Desmond Bane,Missed Jumper,31,11
+6:01,TCU,JD Miller,Offensive Rebound,31,11
+5:57,TCU,JD Miller,Turnover,31,11
+5:36,Texas Tech,Davide Moretti,Jumper,33,11
+5:18,TCU,Alex Robinson,Missed Jumper,33,11
+5:18,TCU,JD Miller,Offensive Rebound,33,11
+5:18,TCU,None,None,33,13
+5:00,Texas Tech,Kyler Edwards,Missed Jumper,33,13
+5:00,TCU,Desmond Bane,Defensive Rebound,33,13
+4:54,TCU,Kouat Noi,Turnover,33,13
+4:35,TCU,Desmond Bane,Foul,33,13
+4:35,Texas Tech,Jarrett Culver,Missed Free Throw,33,13
+4:35,Texas Tech,None,Team Rebound,33,13
+4:35,Texas Tech,Jarrett Culver,Free Throw,34,13
+4:22,TCU,JD Miller,Missed Jumper,34,13
+4:22,Texas Tech,Norense Odiase,Defensive Rebound,34,13
+4:15,Texas Tech,Jarrett Culver,Jumper,36,13
+4:11,TCU,None,None,36,13
+4:00,TCU,Desmond Bane,Three Point Jumper,36,16
+3:33,Texas Tech,Jarrett Culver,Layup,38,16
+3:33,TCU,Alex Robinson,Foul,38,16
+3:33,Texas Tech,Jarrett Culver,Free Throw,39,16
+3:22,TCU,Desmond Bane,Missed Layup,39,16
+3:22,Texas Tech,Norense Odiase,Block,39,16
+3:22,TCU,JD Miller,Offensive Rebound,39,16
+3:14,TCU,Kouat Noi,Three Point Jumper,39,19
+2:56,Texas Tech,Jarrett Culver,Missed Jumper,39,19
+2:56,Texas Tech,Tariq Owens,Offensive Rebound,39,19
+2:44,Texas Tech,None,None,39,19
+2:30,Texas Tech,Jarrett Culver,Turnover,39,19
+2:28,TCU,Kouat Noi,Three Point Jumper,39,22
+2:10,Texas Tech,Matt Mooney,Missed Jumper,39,22
+2:10,TCU,Desmond Bane,Defensive Rebound,39,22
+1:59,TCU,Kouat Noi,Jumper,39,24
+1:52,TCU,None,None,39,24
+1:41,Texas Tech,Jarrett Culver,Missed Layup,39,24
+1:41,Texas Tech,Tariq Owens,Offensive Rebound,39,24
+1:41,Texas Tech,None,None,41,24
+1:19,TCU,Kouat Noi,Missed Three Point Jumper,41,24
+1:19,TCU,JD Miller,Offensive Rebound,41,24
+1:18,Texas Tech,Davide Moretti,Foul,41,24
+1:18,TCU,JD Miller,Free Throw,41,25
+1:18,TCU,JD Miller,Missed Free Throw,41,25
+1:18,Texas Tech,Jarrett Culver,Defensive Rebound,41,25
+0:59,Texas Tech,Tariq Owens,Jumper,43,25
+0:43,TCU,Desmond Bane,Missed Three Point Jumper,43,25
+0:43,Texas Tech,Matt Mooney,Defensive Rebound,43,25
+0:18,Texas Tech,Jarrett Culver,Missed Three Point Jumper,43,25
+0:18,TCU,Kendric Davis,Defensive Rebound,43,25
+0:10,TCU,JD Miller,Missed Jumper,43,25
+0:10,Texas Tech,Texas Tech,Defensive Rebound,43,25
+0:02,TCU,Kendric Davis,Foul,43,25
+0:01,Texas Tech,Jarrett Culver,Missed Layup,43,25
+0:01,TCU,Desmond Bane,Block,43,25
+0:01,Texas Tech,Texas Tech,Offensive Rebound,43,25
+0:00,TCU,None,None,43,25
+20:00,TCU,None,None,43,25
+19:50,TCU,Kouat Noi,Layup,43,27
+19:36,Texas Tech,None,None,43,27
+19:32,Texas Tech,Davide Moretti,Turnover,43,27
+19:32,TCU,Alex Robinson,Steal,43,27
+19:23,Texas Tech,Davide Moretti,Foul,43,27
+19:09,TCU,Alex Robinson,Three Point Jumper,43,30
+18:56,Texas Tech,Norense Odiase,Turnover,43,30
+18:56,TCU,Kouat Noi,Steal,43,30
+18:40,TCU,Desmond Bane,Turnover,43,30
+18:40,Texas Tech,Jarrett Culver,Steal,43,30
+18:13,Texas Tech,Jarrett Culver,Turnover,43,30
+18:13,TCU,Kevin Samuel,Steal,43,30
+18:05,TCU,Desmond Bane,Missed Jumper,43,30
+18:05,TCU,Alex Robinson,Offensive Rebound,43,30
+17:56,Texas Tech,Matt Mooney,Foul,43,30
+17:56,TCU,Alex Robinson,Missed Jumper,43,30
+17:56,Texas Tech,Jarrett Culver,Defensive Rebound,43,30
+17:56,Texas Tech,Brandone Francis,Missed Three Point Jumper,43,30
+17:56,TCU,Kevin Samuel,Defensive Rebound,43,30
+17:19,TCU,Kouat Noi,Three Point Jumper,43,33
+17:03,Texas Tech,Brandone Francis,Missed Three Point Jumper,43,33
+17:03,TCU,Desmond Bane,Defensive Rebound,43,33
+16:50,TCU,Alex Robinson,Layup,43,35
+16:50,Texas Tech,None,None,43,35
+16:36,TCU,Kevin Samuel,Foul,43,35
+16:34,Texas Tech,Davide Moretti,Three Point Jumper,46,35
+16:21,TCU,Alex Robinson,Layup,46,37
+16:02,Texas Tech,Tariq Owens,Missed Jumper,46,37
+16:02,TCU,Kevin Samuel,Defensive Rebound,46,37
+15:46,TCU,Kevin Samuel,Dunk,46,39
+15:27,Texas Tech,Deshawn Corprew,Three Point Jumper,49,39
+15:06,TCU,Alex Robinson,Turnover,49,39
+15:06,Texas Tech,Jarrett Culver,Steal,49,39
+14:58,Texas Tech,Matt Mooney,Missed Three Point Jumper,49,39
+14:58,Texas Tech,Deshawn Corprew,Offensive Rebound,49,39
+14:58,Texas Tech,None,None,51,39
+14:31,TCU,Kouat Noi,Missed Three Point Jumper,51,39
+14:31,Texas Tech,Tariq Owens,Defensive Rebound,51,39
+14:15,Texas Tech,Matt Mooney,Three Point Jumper,54,39
+14:04,TCU,None,None,54,39
+13:40,TCU,Alex Robinson,Missed Three Point Jumper,54,39
+13:40,TCU,TCU,Offensive Rebound,54,39
+13:40,Texas Tech,Matt Mooney,Foul,54,39
+13:21,Texas Tech,Deshawn Corprew,Foul,54,39
+13:21,TCU,Alex Robinson,Free Throw,54,40
+13:21,TCU,Alex Robinson,Free Throw,54,41
+13:11,Texas Tech,Jarrett Culver,Turnover,54,41
+13:11,TCU,Kouat Noi,Steal,54,41
+13:06,TCU,Alex Robinson,Missed Three Point Jumper,54,41
+13:06,Texas Tech,Matt Mooney,Defensive Rebound,54,41
+12:47,Texas Tech,Matt Mooney,Missed Jumper,54,41
+12:47,TCU,Desmond Bane,Defensive Rebound,54,41
+12:31,TCU,Kevin Samuel,Layup,54,43
+12:18,Texas Tech,Jarrett Culver,Layup,56,43
+12:18,TCU,Kevin Samuel,Foul,56,43
+12:18,Texas Tech,Jarrett Culver,Free Throw,57,43
+12:13,TCU,Kouat Noi,Dunk,57,45
+11:50,TCU,Alex Robinson,Foul,57,45
+11:50,TCU,None,None,57,45
+11:50,Texas Tech,Davide Moretti,Free Throw,58,45
+11:50,Texas Tech,Davide Moretti,Free Throw,59,45
+11:19,TCU,Kevin Samuel,Missed Jumper,59,45
+11:19,TCU,Kevin Samuel,Offensive Rebound,59,45
+11:19,TCU,None,None,59,45
+11:19,Texas Tech,Texas Tech,Defensive Rebound,59,45
+11:00,Texas Tech,Davide Moretti,Jumper,61,45
+10:40,TCU,JD Miller,Missed Jumper,61,45
+10:40,Texas Tech,Tariq Owens,Block,61,45
+10:40,TCU,JD Miller,Offensive Rebound,61,45
+10:40,Texas Tech,Tariq Owens,Foul,61,45
+10:40,TCU,JD Miller,Missed Free Throw,61,45
+10:40,TCU,None,Team Rebound,61,45
+10:40,TCU,JD Miller,Free Throw,61,46
+10:28,TCU,Alex Robinson,Foul,61,46
+10:28,Texas Tech,Jarrett Culver,Free Throw,62,46
+10:28,Texas Tech,Jarrett Culver,Free Throw,63,46
+10:20,TCU,Kouat Noi,Missed Three Point Jumper,63,46
+10:20,TCU,Kevin Samuel,Offensive Rebound,63,46
+10:07,TCU,Alex Robinson,Missed Three Point Jumper,63,46
+10:07,Texas Tech,Tariq Owens,Defensive Rebound,63,46
+9:47,Texas Tech,Davide Moretti,Missed Three Point Jumper,63,46
+9:47,TCU,Kouat Noi,Defensive Rebound,63,46
+9:41,TCU,Alex Robinson,Layup,63,48
+9:11,Texas Tech,Matt Mooney,Missed Jumper,63,48
+9:11,TCU,Kevin Samuel,Defensive Rebound,63,48
+9:11,Texas Tech,Norense Odiase,Foul,63,48
+8:53,TCU,JD Miller,Three Point Jumper,63,51
+7:56,Texas Tech,Davide Moretti,Three Point Jumper,66,51
+7:50,TCU,Kouat Noi,Missed Three Point Jumper,66,51
+7:50,Texas Tech,Tariq Owens,Defensive Rebound,66,51
+7:45,Texas Tech,Deshawn Corprew,Missed Three Point Jumper,66,51
+7:45,Texas Tech,Tariq Owens,Offensive Rebound,66,51
+7:40,Texas Tech,Matt Mooney,Jumper,68,51
+7:22,TCU,Alex Robinson,Layup,68,53
+6:48,Texas Tech,Norense Odiase,Layup,70,53
+6:29,TCU,Alex Robinson,Missed Layup,70,53
+6:29,Texas Tech,Tariq Owens,Block,70,53
+6:29,TCU,Alex Robinson,Offensive Rebound,70,53
+6:18,TCU,Alex Robinson,Missed Jumper,70,53
+6:18,TCU,Kouat Noi,Offensive Rebound,70,53
+6:18,TCU,None,None,70,53
+6:13,TCU,Kevin Samuel,Dunk,70,55
+5:44,Texas Tech,Kyler Edwards,Missed Layup,70,55
+5:44,TCU,JD Miller,Defensive Rebound,70,55
+5:34,TCU,Kouat Noi,Missed Layup,70,55
+5:34,TCU,TCU,Offensive Rebound,70,55
+5:11,TCU,Alex Robinson,Missed Layup,70,55
+5:11,Texas Tech,Jarrett Culver,Defensive Rebound,70,55
+4:36,Texas Tech,Jarrett Culver,Dunk,72,55
+4:28,TCU,Kouat Noi,Missed Three Point Jumper,72,55
+4:28,Texas Tech,Matt Mooney,Defensive Rebound,72,55
+4:23,Texas Tech,Tariq Owens,Missed Dunk,72,55
+4:23,TCU,RJ Nembhard,Defensive Rebound,72,55
+4:17,TCU,RJ Nembhard,Missed Three Point Jumper,72,55
+4:17,Texas Tech,Jarrett Culver,Defensive Rebound,72,55
+3:57,Texas Tech,Jarrett Culver,Turnover,72,55
+3:57,TCU,Kouat Noi,Steal,72,55
+3:54,TCU,RJ Nembhard,Turnover,72,55
+3:54,Texas Tech,Jarrett Culver,Steal,72,55
+3:32,Texas Tech,Tariq Owens,Dunk,74,55
+3:01,TCU,Alex Robinson,Layup,74,57
+2:33,Texas Tech,Brandone Francis,Missed Three Point Jumper,74,57
+2:33,Texas Tech,Tariq Owens,Offensive Rebound,74,57
+2:27,Texas Tech,Brandone Francis,Three Point Jumper,77,57
+2:17,TCU,None,None,77,57
+2:14,TCU,JD Miller,Three Point Jumper,77,60
+1:47,Texas Tech,Matt Mooney,Jumper,79,60
+1:37,TCU,RJ Nembhard,Missed Three Point Jumper,79,60
+1:37,Texas Tech,Tariq Owens,Defensive Rebound,79,60
+1:02,Texas Tech,Brandone Francis,Missed Three Point Jumper,79,60
+1:02,TCU,Kevin Samuel,Defensive Rebound,79,60
+0:54,TCU,JD Miller,Three Point Jumper,79,63
+0:13,Texas Tech,Deshawn Corprew,Jumper,81,63
+0:08,TCU,JD Miller,Three Point Jumper,81,66
+0:00,TCU,None,None,81,66

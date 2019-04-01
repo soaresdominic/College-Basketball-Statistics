@@ -1,0 +1,314 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Michigan,None,None,0,0
+19:47,Michigan,Jordan Poole,Layup,2,0
+19:28,Villanova,Collin Gillespie,Missed Layup,2,0
+19:28,Michigan,Zavier Simpson,Block,2,0
+19:28,Michigan,Jon Teske,Defensive Rebound,2,0
+19:01,Michigan,Jordan Poole,Missed Three Point Jumper,2,0
+19:01,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,2,0
+18:49,Villanova,Eric Paschall,Foul,2,0
+18:49,Villanova,Eric Paschall,Turnover,2,0
+18:36,Michigan,Charles Matthews,Dunk,4,0
+18:10,Villanova,Jermaine Samuels,Missed Three Point Jumper,4,0
+18:10,Michigan,Zavier Simpson,Defensive Rebound,4,0
+18:03,Michigan,Jon Teske,Missed Three Point Jumper,4,0
+18:03,Villanova,Collin Gillespie,Defensive Rebound,4,0
+17:50,Villanova,Jermaine Samuels,Missed Three Point Jumper,4,0
+17:50,Villanova,Jermaine Samuels,Offensive Rebound,4,0
+17:18,Michigan,Jordan Poole,Foul,4,0
+17:18,Villanova,Dhamir Cosby-Roundtree,Free Throw,4,1
+17:18,Villanova,Dhamir Cosby-Roundtree,Free Throw,4,2
+16:58,Michigan,Charles Matthews,Missed Three Point Jumper,4,2
+16:58,Michigan,Ignas Brazdeikis,Offensive Rebound,4,2
+16:54,Michigan,Ignas Brazdeikis,Dunk,6,2
+16:33,Villanova,Phil Booth,Missed Three Point Jumper,6,2
+16:33,Michigan,Zavier Simpson,Defensive Rebound,6,2
+16:27,Michigan,Charles Matthews,Layup,8,2
+16:27,Villanova,None,None,8,2
+16:09,Villanova,Eric Paschall,Missed Layup,8,2
+16:09,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,8,2
+16:09,Villanova,None,None,8,2
+16:09,Michigan,Jon Teske,Defensive Rebound,8,2
+15:51,Michigan,Charles Matthews,Jumper,10,2
+15:29,Villanova,Collin Gillespie,Layup,10,4
+15:10,Villanova,Phil Booth,Foul,10,4
+15:10,Michigan,Zavier Simpson,Layup,12,4
+14:31,Villanova,Eric Paschall,Missed Layup,12,4
+14:30,Michigan,Isaiah Livers,Defensive Rebound,12,4
+14:11,Michigan,Charles Matthews,Missed Three Point Jumper,12,4
+14:10,Villanova,Villanova,Defensive Rebound,12,4
+13:50,Villanova,Phil Booth,Three Point Jumper,12,7
+13:43,Michigan,Zavier Simpson,Layup,14,7
+13:18,Villanova,Eric Paschall,Missed Layup,14,7
+13:18,Michigan,Michigan,Defensive Rebound,14,7
+13:00,Michigan,Zavier Simpson,Turnover,14,7
+12:37,Villanova,Phil Booth,Turnover,14,7
+12:37,Michigan,Zavier Simpson,Steal,14,7
+12:29,Michigan,Zavier Simpson,Missed Layup,14,7
+12:29,Villanova,Phil Booth,Block,14,7
+12:29,Villanova,Jermaine Samuels,Defensive Rebound,14,7
+12:14,Michigan,Eli Brooks,Foul,14,7
+12:07,Villanova,Jermaine Samuels,Turnover,14,7
+11:40,Michigan,Isaiah Livers,Missed Jumper,14,7
+11:40,Villanova,Collin Gillespie,Defensive Rebound,14,7
+11:18,Michigan,Austin Davis,Foul,14,7
+11:18,Villanova,None,None,14,7
+11:18,Villanova,Collin Gillespie,Free Throw,14,8
+11:18,Villanova,Collin Gillespie,Missed Free Throw,14,8
+11:18,Villanova,Villanova,Offensive Rebound,14,8
+11:05,Villanova,Collin Gillespie,Turnover,14,8
+10:45,Michigan,Eli Brooks,Three Point Jumper,17,8
+10:15,Villanova,Eric Paschall,Missed Layup,17,8
+10:15,Michigan,Eli Brooks,Block,17,8
+10:15,Villanova,Saddiq Bey,Offensive Rebound,17,8
+10:06,Villanova,Phil Booth,Missed Three Point Jumper,17,8
+10:06,Michigan,Eli Brooks,Defensive Rebound,17,8
+10:00,Michigan,Isaiah Livers,Three Point Jumper,20,8
+10:00,Villanova,Jermaine Samuels,Foul,20,8
+9:56,Michigan,Charles Matthews,Jumper,22,8
+9:34,Villanova,Dhamir Cosby-Roundtree,Layup,22,10
+9:15,Michigan,Ignas Brazdeikis,Layup,24,10
+8:57,Michigan,Eli Brooks,Foul,24,10
+8:49,Villanova,Saddiq Bey,Missed Three Point Jumper,24,10
+8:49,Michigan,Ignas Brazdeikis,Defensive Rebound,24,10
+8:31,Michigan,Zavier Simpson,Missed Three Point Jumper,24,10
+8:31,Villanova,Eric Paschall,Defensive Rebound,24,10
+8:10,Villanova,Collin Gillespie,Turnover,24,10
+8:10,Michigan,Zavier Simpson,Steal,24,10
+8:02,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,24,10
+8:02,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,24,10
+7:53,Villanova,Eric Paschall,Missed Layup,24,10
+7:53,Michigan,Ignas Brazdeikis,Defensive Rebound,24,10
+7:26,Michigan,Zavier Simpson,Layup,26,10
+7:05,Michigan,Isaiah Livers,Foul,26,10
+7:05,Villanova,None,None,26,10
+7:00,Villanova,Jahvon Quinerly,Missed Three Point Jumper,26,10
+7:00,Villanova,Saddiq Bey,Offensive Rebound,26,10
+6:56,Villanova,Phil Booth,Three Point Jumper,26,13
+6:34,Michigan,Isaiah Livers,Missed Layup,26,13
+6:34,Michigan,Charles Matthews,Offensive Rebound,26,13
+6:30,Michigan,Charles Matthews,Dunk,28,13
+6:06,Villanova,Joe Cremo,Missed Layup,28,13
+6:06,Michigan,Ignas Brazdeikis,Defensive Rebound,28,13
+5:53,Michigan,Jordan Poole,Missed Three Point Jumper,28,13
+5:53,Michigan,Charles Matthews,Offensive Rebound,28,13
+5:45,Michigan,Isaiah Livers,Three Point Jumper,31,13
+5:10,Villanova,Phil Booth,Turnover,31,13
+5:01,Villanova,Jahvon Quinerly,Foul,31,13
+4:46,Michigan,Jordan Poole,Three Point Jumper,34,13
+4:27,Michigan,Ignas Brazdeikis,Foul,34,13
+4:16,Villanova,Jahvon Quinerly,Turnover,34,13
+4:16,Michigan,Zavier Simpson,Steal,34,13
+3:55,Michigan,Jordan Poole,Missed Layup,34,13
+3:55,Michigan,Ignas Brazdeikis,Offensive Rebound,34,13
+3:52,Michigan,Ignas Brazdeikis,Layup,36,13
+3:52,Villanova,Jermaine Samuels,Foul,36,13
+3:52,Villanova,None,None,36,13
+3:52,Michigan,Ignas Brazdeikis,Free Throw,37,13
+3:32,Villanova,Cole Swider,Foul,37,13
+3:32,Villanova,Cole Swider,Turnover,37,13
+3:16,Michigan,Charles Matthews,Layup,39,13
+2:47,Villanova,Cole Swider,Layup,39,15
+2:27,Villanova,Collin Gillespie,Foul,39,15
+2:27,Michigan,Charles Matthews,Free Throw,40,15
+2:27,Michigan,Charles Matthews,Free Throw,41,15
+2:14,Villanova,Eric Paschall,Dunk,41,17
+1:55,Villanova,Phil Booth,Foul,41,17
+1:55,Michigan,Charles Matthews,Missed Free Throw,41,17
+1:55,Villanova,Saddiq Bey,Defensive Rebound,41,17
+1:29,Villanova,Eric Paschall,Missed Layup,41,17
+1:29,Michigan,Charles Matthews,Block,41,17
+1:29,Villanova,Eric Paschall,Offensive Rebound,41,17
+1:29,Villanova,Phil Booth,Missed Layup,41,17
+1:29,Michigan,Charles Matthews,Block,41,17
+1:29,Villanova,Villanova,Offensive Rebound,41,17
+1:23,Villanova,Eric Paschall,Missed Layup,41,17
+1:23,Michigan,Charles Matthews,Block,41,17
+1:23,Villanova,Villanova,Offensive Rebound,41,17
+1:17,Villanova,Villanova ,Turnover,41,17
+1:00,Michigan,Jordan Poole,Missed Three Point Jumper,41,17
+1:00,Villanova,Phil Booth,Defensive Rebound,41,17
+0:53,Villanova,Cole Swider,Missed Three Point Jumper,41,17
+0:53,Michigan,Isaiah Livers,Defensive Rebound,41,17
+0:50,Villanova,Saddiq Bey,Foul,41,17
+0:50,Michigan,Isaiah Livers,Free Throw,42,17
+0:50,Michigan,Isaiah Livers,Missed Free Throw,42,17
+0:50,Villanova,Eric Paschall,Defensive Rebound,42,17
+0:47,Villanova,Eric Paschall,Turnover,42,17
+0:47,Michigan,Charles Matthews,Steal,42,17
+0:39,Michigan,Charles Matthews,Layup,44,17
+0:30,Villanova,Saddiq Bey,Missed Three Point Jumper,44,17
+0:30,Michigan,Zavier Simpson,Defensive Rebound,44,17
+0:21,Michigan,None,None,44,17
+0:04,Michigan,Zavier Simpson,Missed Jumper,44,17
+0:04,Villanova,Dhamir Cosby-Roundtree,Block,44,17
+0:04,Michigan,Michigan,Offensive Rebound,44,17
+0:01,Michigan,Zavier Simpson,Missed Jumper,44,17
+0:01,Villanova,Collin Gillespie,Defensive Rebound,44,17
+0:00,Villanova,None,None,44,17
+20:00,Villanova,None,None,44,17
+19:36,Villanova,Collin Gillespie,Turnover,44,17
+19:36,Michigan,Jon Teske,Steal,44,17
+19:21,Michigan,Zavier Simpson,Layup,46,17
+19:01,Villanova,Phil Booth,Turnover,46,17
+19:01,Michigan,Ignas Brazdeikis,Steal,46,17
+18:51,Michigan,Ignas Brazdeikis,Missed Jumper,46,17
+18:51,Villanova,Villanova,Defensive Rebound,46,17
+18:25,Villanova,Eric Paschall,Missed Three Point Jumper,46,17
+18:25,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,46,17
+18:22,Villanova,Dhamir Cosby-Roundtree,Turnover,46,17
+18:22,Michigan,Zavier Simpson,Steal,46,17
+18:11,Michigan,Ignas Brazdeikis,Layup,48,17
+18:11,Villanova,Jermaine Samuels,Foul,48,17
+18:11,Michigan,Ignas Brazdeikis,Free Throw,49,17
+17:49,Villanova,Joe Cremo,Jumper,49,19
+17:46,Villanova,Collin Gillespie,Foul,49,19
+17:46,Michigan,Zavier Simpson,Missed Free Throw,49,19
+17:46,Michigan,None,Team Rebound,49,19
+17:46,Michigan,Zavier Simpson,Free Throw,50,19
+17:33,Michigan,Zavier Simpson,Foul,50,19
+17:33,Villanova,Collin Gillespie,Free Throw,50,20
+17:33,Villanova,Collin Gillespie,Free Throw,50,21
+17:05,Michigan,Zavier Simpson,Missed Jumper,50,21
+17:05,Villanova,Collin Gillespie,Defensive Rebound,50,21
+16:56,Villanova,Eric Paschall,Dunk,50,23
+16:22,Michigan,Charles Matthews,Missed Three Point Jumper,50,23
+16:22,Villanova,Saddiq Bey,Defensive Rebound,50,23
+16:14,Michigan,Jon Teske,Foul,50,23
+16:09,Villanova,Eric Paschall,Missed Jumper,50,23
+16:09,Michigan,Jordan Poole,Defensive Rebound,50,23
+15:43,Michigan,Zavier Simpson,Turnover,50,23
+15:43,Villanova,Eric Paschall,Steal,50,23
+15:29,Villanova,Phil Booth,Turnover,50,23
+15:29,Michigan,Jordan Poole,Steal,50,23
+15:25,Michigan,Isaiah Livers,Layup,52,23
+15:02,Michigan,Isaiah Livers,Foul,52,23
+15:02,Villanova,None,None,52,23
+14:50,Villanova,Collin Gillespie,Missed Layup,52,23
+14:50,Michigan,Michigan,Defensive Rebound,52,23
+14:39,Michigan,Isaiah Livers,Foul,52,23
+14:39,Michigan,Isaiah Livers,Turnover,52,23
+14:21,Villanova,Collin Gillespie,Turnover,52,23
+14:04,Villanova,Saddiq Bey,Foul,52,23
+13:50,Michigan,Charles Matthews,Missed Three Point Jumper,52,23
+13:50,Villanova,Eric Paschall,Defensive Rebound,52,23
+13:39,Michigan,Jordan Poole,Foul,52,23
+13:39,Villanova,Cole Swider,Missed Free Throw,52,23
+13:39,Villanova,None,Team Rebound,52,23
+13:39,Villanova,Cole Swider,Free Throw,52,24
+13:17,Michigan,Charles Matthews,Missed Layup,52,24
+13:17,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,52,24
+13:17,Michigan,Brandon Johns Jr.,Foul,52,24
+12:58,Villanova,Collin Gillespie,Turnover,52,24
+12:58,Michigan,Zavier Simpson,Steal,52,24
+12:58,Villanova,Dhamir Cosby-Roundtree,Foul,52,24
+12:58,Michigan,Zavier Simpson,Foul,52,24
+12:58,Michigan,Zavier Simpson,Foul,52,24
+12:58,Villanova,Dhamir Cosby-Roundtree,Missed Free Throw,52,24
+12:58,Villanova,Dhamir Cosby-Roundtree,Free Throw,52,25
+12:42,Villanova,Phil Booth,Missed Jumper,52,25
+12:42,Villanova,Eric Paschall,Offensive Rebound,52,25
+12:42,Villanova,Eric Paschall,Turnover,52,25
+12:30,Michigan,Ignas Brazdeikis,Layup,54,25
+12:03,Michigan,Zavier Simpson,Foul,54,25
+12:03,Villanova,Phil Booth,Free Throw,54,26
+12:03,Villanova,Phil Booth,Free Throw,54,27
+12:03,Villanova,Phil Booth,Free Throw,54,28
+11:52,Villanova,Joe Cremo,Foul,54,28
+11:52,Villanova,None,None,54,28
+11:42,Michigan,Jordan Poole,Layup,56,28
+11:15,Villanova,Phil Booth,Missed Three Point Jumper,56,28
+11:15,Michigan,Michigan,Defensive Rebound,56,28
+10:55,Michigan,Jordan Poole,Foul,56,28
+10:55,Michigan,Jordan Poole,Turnover,56,28
+10:40,Villanova,Eric Paschall,Missed Layup,56,28
+10:40,Michigan,Ignas Brazdeikis,Defensive Rebound,56,28
+10:25,Michigan,Ignas Brazdeikis,Layup,58,28
+10:00,Villanova,Eric Paschall,Dunk,58,30
+9:50,Michigan,Eli Brooks,Layup,60,30
+9:14,Villanova,Villanova ,Turnover,60,30
+9:14,Villanova,None,None,60,30
+9:14,Villanova,None,None,60,30
+8:48,Michigan,Ignas Brazdeikis,Missed Jumper,60,30
+8:48,Villanova,Jermaine Samuels,Defensive Rebound,60,30
+8:22,Michigan,Jon Teske,Foul,60,30
+8:22,Villanova,Eric Paschall,Free Throw,60,31
+8:22,Villanova,Eric Paschall,Free Throw,60,32
+8:13,Michigan,Ignas Brazdeikis,Layup,62,32
+7:53,Villanova,Jermaine Samuels,Three Point Jumper,62,35
+7:44,Michigan,Ignas Brazdeikis,Missed Layup,62,35
+7:44,Michigan,Ignas Brazdeikis,Offensive Rebound,62,35
+7:44,Michigan,Ignas Brazdeikis,Turnover,62,35
+7:44,Villanova,None,None,62,35
+7:35,Michigan,Isaiah Livers,Foul,62,35
+7:35,Villanova,Eric Paschall,Free Throw,62,36
+7:35,Villanova,Eric Paschall,Free Throw,62,37
+7:08,Villanova,Saddiq Bey,Foul,62,37
+7:08,Michigan,Charles Matthews,Missed Free Throw,62,37
+7:08,Michigan,None,Team Rebound,62,37
+7:08,Michigan,Charles Matthews,Free Throw,63,37
+6:54,Villanova,Jahvon Quinerly,Missed Layup,63,37
+6:54,Michigan,Jon Teske,Block,63,37
+6:54,Michigan,Charles Matthews,Defensive Rebound,63,37
+6:36,Villanova,Jahvon Quinerly,Foul,63,37
+6:36,Michigan,Charles Matthews,Free Throw,64,37
+6:36,Michigan,Charles Matthews,Free Throw,65,37
+6:26,Villanova,Phil Booth,Missed Three Point Jumper,65,37
+6:26,Michigan,Zavier Simpson,Defensive Rebound,65,37
+6:06,Villanova,Collin Gillespie,Foul,65,37
+6:06,Michigan,Zavier Simpson,Missed Free Throw,65,37
+6:06,Villanova,Eric Paschall,Defensive Rebound,65,37
+5:51,Villanova,Eric Paschall,Missed Layup,65,37
+5:51,Michigan,Charles Matthews,Defensive Rebound,65,37
+5:23,Michigan,Eli Brooks,Turnover,65,37
+5:12,Villanova,Saddiq Bey,Turnover,65,37
+4:50,Michigan,Eli Brooks,Missed Layup,65,37
+4:50,Villanova,Saddiq Bey,Block,65,37
+4:50,Michigan,Michigan,Offensive Rebound,65,37
+4:42,Villanova,Brandon Slater,Foul,65,37
+4:42,Michigan,Jon Teske,Missed Free Throw,65,37
+4:42,Villanova,Saddiq Bey,Defensive Rebound,65,37
+4:37,Villanova,Brandon Slater,Turnover,65,37
+4:37,Michigan,Ignas Brazdeikis,Steal,65,37
+4:09,Michigan,Charles Matthews,Missed Jumper,65,37
+4:09,Villanova,Cole Swider,Defensive Rebound,65,37
+3:56,Villanova,Saddiq Bey,Layup,65,39
+3:21,Michigan,Eli Brooks,Turnover,65,39
+3:21,Villanova,None,None,65,39
+3:02,Villanova,Saddiq Bey,Turnover,65,39
+3:02,Michigan,Isaiah Livers,Steal,65,39
+3:02,Villanova,Cole Swider,Foul,65,39
+3:02,Michigan,Ignas Brazdeikis,Free Throw,66,39
+3:02,Michigan,Ignas Brazdeikis,Free Throw,67,39
+2:52,Villanova,Jahvon Quinerly,Layup,67,41
+2:52,Michigan,Adrien Nunez,Foul,67,41
+2:52,Villanova,Jahvon Quinerly,Missed Free Throw,67,41
+2:52,Michigan,Brandon Johns Jr.,Defensive Rebound,67,41
+2:37,Michigan,David DeJulius,Three Point Jumper,70,41
+2:20,Villanova,Jahvon Quinerly,Missed Layup,70,41
+2:20,Michigan,Michigan,Defensive Rebound,70,41
+2:05,Michigan,Brandon Johns Jr.,Missed Layup,70,41
+2:05,Michigan,Colin Castleton,Offensive Rebound,70,41
+2:05,Michigan,None,None,70,41
+2:05,Michigan,Colin Castleton,Offensive Rebound,70,41
+2:05,Michigan,None,None,72,41
+1:44,Villanova,Cole Swider,Layup,72,43
+1:44,Michigan,Adrien Nunez,Foul,72,43
+1:44,Villanova,Cole Swider,Missed Free Throw,72,43
+1:44,Michigan,Brandon Johns Jr.,Defensive Rebound,72,43
+1:26,Villanova,Jahvon Quinerly,Foul,72,43
+1:26,Michigan,David DeJulius,Free Throw,73,43
+1:26,Michigan,David DeJulius,Missed Free Throw,73,43
+1:26,Villanova,Villanova,Defensive Rebound,73,43
+1:26,Michigan,Colin Castleton,Foul,73,43
+1:26,Villanova,Saddiq Bey,Free Throw,73,44
+1:26,Villanova,Saddiq Bey,Missed Free Throw,73,44
+1:26,Michigan,Colin Castleton,Defensive Rebound,73,44
+1:20,Michigan,David DeJulius,Missed Three Point Jumper,73,44
+1:20,Villanova,Villanova,Defensive Rebound,73,44
+1:07,Villanova,Jahvon Quinerly,Layup,73,46
+0:30,Michigan,Adrien Nunez,Missed Three Point Jumper,73,46
+0:30,Villanova,Joe Cremo,Defensive Rebound,73,46
+0:19,Villanova,Jahvon Quinerly,Missed Three Point Jumper,73,46
+0:19,Michigan,Brandon Johns Jr.,Defensive Rebound,73,46
+0:00,Villanova,None,None,73,46

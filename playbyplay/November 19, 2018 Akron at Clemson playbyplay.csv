@@ -1,0 +1,318 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,Clemson,Aamir Simms,Three Point Jumper,0,3
+19:12,Akron,Loren Cristian Jackson,Missed Three Point Jumper,0,3
+19:12,Clemson,Shelton Mitchell,Defensive Rebound,0,3
+18:41,Clemson,Shelton Mitchell,Missed Jumper,0,3
+18:41,Akron,Deng Riak,Defensive Rebound,0,3
+18:24,Akron,Daniel Utomi,Missed Three Point Jumper,0,3
+18:24,Clemson,Shelton Mitchell,Defensive Rebound,0,3
+18:07,Clemson,Elijah Thomas,Missed Layup,0,3
+18:07,Akron,Daniel Utomi,Defensive Rebound,0,3
+17:52,Akron,Deng Riak,Three Point Jumper,3,3
+17:32,Clemson,Aamir Simms,Missed Three Point Jumper,3,3
+17:32,Clemson,Elijah Thomas,Offensive Rebound,3,3
+17:26,Clemson,Elijah Thomas,Layup,3,5
+17:03,Clemson,David Skara,Foul,3,5
+16:59,Akron,Daniel Utomi,Missed Jumper,3,5
+16:59,Clemson,Elijah Thomas,Defensive Rebound,3,5
+16:47,Clemson,Marcquise Reed,Missed Three Point Jumper,3,5
+16:47,Akron,Jimond Ivey,Defensive Rebound,3,5
+16:32,Akron,Jimond Ivey,Missed Three Point Jumper,3,5
+16:32,Clemson,Shelton Mitchell,Defensive Rebound,3,5
+16:12,Clemson,Elijah Thomas,Missed Jumper,3,5
+16:12,Akron,Deng Riak,Defensive Rebound,3,5
+16:00,Akron,Loren Cristian Jackson,Turnover,3,5
+15:57,Clemson,Shelton Mitchell,Steal,3,5
+15:52,Akron,Loren Cristian Jackson,Foul,3,5
+15:52,Clemson,None,None,3,5
+15:52,Clemson,Shelton Mitchell,Free Throw,3,6
+15:52,Clemson,Shelton Mitchell,Missed Free Throw,3,6
+15:52,Akron,Akron,Defensive Rebound,3,6
+15:37,Akron,Loren Cristian Jackson,Three Point Jumper,6,6
+15:12,Clemson,Marcquise Reed,Layup,6,8
+14:42,Akron,Tyler Cheese,Missed Jumper,6,8
+14:42,Clemson,John Newman III,Defensive Rebound,6,8
+14:26,Clemson,Aamir Simms,Turnover,6,8
+14:25,Akron,Emmanuel Olojakpoke,Steal,6,8
+14:16,Akron,Tyler Cheese,Missed Jumper,6,8
+14:16,Akron,Akron,Offensive Rebound,6,8
+14:01,Akron,Jimond Ivey,Turnover,6,8
+13:57,Clemson,Aamir Simms,Layup,6,10
+13:57,Akron,Daniel Utomi,Foul,6,10
+13:57,Akron,None,None,6,10
+13:57,Clemson,Aamir Simms,Free Throw,6,11
+13:41,Akron,Channel Banks,Turnover,6,11
+13:39,Clemson,Clyde Trapp,Steal,6,11
+13:37,Clemson,Aamir Simms,Foul,6,11
+13:37,Clemson,Aamir Simms,Turnover,6,11
+13:18,Akron,Loren Cristian Jackson,Missed Jumper,6,11
+13:18,Clemson,John Newman III,Defensive Rebound,6,11
+13:17,Akron,Deng Riak,Foul,6,11
+13:05,Clemson,Marcquise Reed,Layup,6,13
+12:45,Akron,Tyler Cheese,Turnover,6,13
+12:44,Clemson,Marcquise Reed,Steal,6,13
+12:41,Clemson,Marcquise Reed,Turnover,6,13
+12:41,Akron,Tyler Cheese,Steal,6,13
+12:20,Akron,Daniel Utomi,Jumper,8,13
+12:11,Clemson,Javan White,Foul,8,13
+12:11,Clemson,Javan White,Turnover,8,13
+11:50,Akron,Tyler Cheese,Three Point Jumper,11,13
+11:38,Clemson,Marcquise Reed,Foul,11,13
+11:38,Clemson,Marcquise Reed,Turnover,11,13
+11:38,Clemson,None,None,11,13
+11:23,Akron,Daniel Utomi,Missed Three Point Jumper,11,13
+11:23,Clemson,Clemson,Defensive Rebound,11,13
+10:59,Akron,Jaden Sayles,Foul,11,13
+10:49,Clemson,David Skara,Foul,11,13
+10:49,Clemson,David Skara,Turnover,11,13
+10:32,Akron,Loren Cristian Jackson,Missed Three Point Jumper,11,13
+10:32,Clemson,Clyde Trapp,Defensive Rebound,11,13
+10:20,Clemson,Shelton Mitchell,Three Point Jumper,11,16
+9:55,Akron,Daniel Utomi,Jumper,13,16
+9:39,Clemson,Aamir Simms,Layup,13,18
+9:14,Akron,Daniel Utomi,Turnover,13,18
+9:00,Clemson,Clyde Trapp,Missed Three Point Jumper,13,18
+9:00,Akron,Loren Cristian Jackson,Defensive Rebound,13,18
+8:42,Clemson,Elijah Thomas,Foul,13,18
+8:35,Akron,Jimond Ivey,Missed Jumper,13,18
+8:35,Akron,Daniel Utomi,Offensive Rebound,13,18
+8:32,Clemson,Marcquise Reed,Foul,13,18
+8:32,Akron,Daniel Utomi,Free Throw,14,18
+8:32,Akron,Daniel Utomi,Free Throw,15,18
+8:13,Clemson,Elijah Thomas,Layup,15,20
+7:54,Akron,Jimond Ivey,Turnover,15,20
+7:54,Clemson,None,None,15,20
+7:43,Clemson,Aamir Simms,Turnover,15,20
+7:42,Akron,Jimond Ivey,Steal,15,20
+7:20,Akron,Tyler Cheese,Jumper,17,20
+7:03,Clemson,Shelton Mitchell,Jumper,17,22
+6:42,Akron,Emmanuel Olojakpoke,Layup,19,22
+6:24,Clemson,Shelton Mitchell,Missed Three Point Jumper,19,22
+6:24,Akron,Tyler Cheese,Defensive Rebound,19,22
+6:18,Clemson,Aamir Simms,Foul,19,22
+6:18,Akron,Jimond Ivey,Free Throw,20,22
+6:18,Akron,Jimond Ivey,Free Throw,21,22
+6:06,Clemson,Elijah Thomas,Turnover,21,22
+6:05,Akron,Deng Riak,Steal,21,22
+6:02,Akron,Loren Cristian Jackson,Missed Three Point Jumper,21,22
+6:02,Akron,Akron,Offensive Rebound,21,22
+5:55,Akron,Tyler Cheese,Jumper,23,22
+5:35,Clemson,John Newman III,Missed Jumper,23,22
+5:35,Akron,Loren Cristian Jackson,Defensive Rebound,23,22
+5:15,Akron,Jimond Ivey,Turnover,23,22
+5:14,Clemson,Shelton Mitchell,Steal,23,22
+5:11,Akron,Channel Banks,Foul,23,22
+5:11,Clemson,Shelton Mitchell,Free Throw,23,23
+5:11,Clemson,Shelton Mitchell,Free Throw,23,24
+5:00,Akron,Jimond Ivey,Turnover,23,24
+4:59,Clemson,Shelton Mitchell,Steal,23,24
+4:56,Clemson,John Newman III,Turnover,23,24
+4:39,Akron,Loren Cristian Jackson,Turnover,23,24
+4:37,Clemson,Shelton Mitchell,Steal,23,24
+4:36,Clemson,Clyde Trapp,Turnover,23,24
+4:19,Akron,Tyler Cheese,Missed Jumper,23,24
+4:19,Clemson,Javan White,Defensive Rebound,23,24
+3:59,Clemson,Shelton Mitchell,Jumper,23,26
+3:38,Akron,Daniel Utomi,Missed Three Point Jumper,23,26
+3:38,Clemson,Javan White,Defensive Rebound,23,26
+3:16,Akron,Tyler Cheese,Foul,23,26
+3:11,Clemson,John Newman III,Turnover,23,26
+2:54,Akron,Loren Cristian Jackson,Turnover,23,26
+2:42,Clemson,Shelton Mitchell,Missed Layup,23,26
+2:42,Clemson,Elijah Thomas,Offensive Rebound,23,26
+2:39,Clemson,None,None,23,26
+2:39,Clemson,Elijah Thomas,Offensive Rebound,23,26
+2:38,Akron,Emmanuel Olojakpoke,Foul,23,26
+2:38,Clemson,Elijah Thomas,Free Throw,23,27
+2:38,Clemson,Elijah Thomas,Missed Free Throw,23,27
+2:38,Akron,Channel Banks,Defensive Rebound,23,27
+2:24,Akron,Loren Cristian Jackson,Foul,23,27
+2:24,Akron,Loren Cristian Jackson,Turnover,23,27
+2:08,Clemson,John Newman III,Layup,23,29
+1:47,Clemson,Clyde Trapp,Foul,23,29
+1:47,Akron,Daniel Utomi,Free Throw,24,29
+1:47,Akron,Daniel Utomi,Missed Free Throw,24,29
+1:47,Clemson,Hunter Tyson,Defensive Rebound,24,29
+1:34,Clemson,Clyde Trapp,Missed Three Point Jumper,24,29
+1:34,Akron,Jimond Ivey,Defensive Rebound,24,29
+1:15,Akron,Deng Riak,Missed Jumper,24,29
+1:15,Clemson,Clyde Trapp,Defensive Rebound,24,29
+0:56,Clemson,Elijah Thomas,Layup,24,31
+0:35,Akron,Deng Riak,Missed Layup,24,31
+0:35,Clemson,John Newman III,Defensive Rebound,24,31
+0:28,Clemson,None,None,24,31
+0:07,Clemson,Marcquise Reed,Missed Jumper,24,31
+0:07,Akron,Akron,Defensive Rebound,24,31
+0:01,Akron,Loren Cristian Jackson,Missed Three Point Jumper,24,31
+0:01,Clemson,Hunter Tyson,Defensive Rebound,24,31
+0:00,Clemson,None,None,24,31
+19:39,Akron,Daniel Utomi,Missed Three Point Jumper,24,31
+19:39,Clemson,Shelton Mitchell,Defensive Rebound,24,31
+19:18,Akron,Jimond Ivey,Foul,24,31
+19:18,Clemson,David Skara,Free Throw,24,32
+19:18,Clemson,David Skara,Free Throw,24,33
+18:51,Clemson,Marcquise Reed,Foul,24,33
+18:51,Akron,Loren Cristian Jackson,Free Throw,25,33
+18:51,Akron,Loren Cristian Jackson,Free Throw,26,33
+18:51,Akron,Loren Cristian Jackson,Missed Free Throw,26,33
+18:51,Clemson,Elijah Thomas,Defensive Rebound,26,33
+18:35,Clemson,Elijah Thomas,Layup,26,35
+18:12,Akron,Channel Banks,Missed Three Point Jumper,26,35
+18:12,Clemson,Elijah Thomas,Defensive Rebound,26,35
+18:00,Clemson,Elijah Thomas,Missed Jumper,26,35
+18:00,Akron,Deng Riak,Defensive Rebound,26,35
+17:52,Akron,Loren Cristian Jackson,Missed Three Point Jumper,26,35
+17:52,Clemson,Elijah Thomas,Defensive Rebound,26,35
+17:26,Clemson,Aamir Simms,Layup,26,37
+17:25,Akron,None,None,26,37
+16:57,Akron,Loren Cristian Jackson,Jumper,28,37
+16:38,Akron,Emmanuel Olojakpoke,Foul,28,37
+16:26,Clemson,Shelton Mitchell,Turnover,28,37
+16:25,Akron,Tyler Cheese,Steal,28,37
+16:23,Akron,Loren Cristian Jackson,Missed Three Point Jumper,28,37
+16:21,Clemson,Aamir Simms,Defensive Rebound,28,37
+16:00,Clemson,David Skara,Missed Jumper,28,37
+15:59,Akron,Jimond Ivey,Defensive Rebound,28,37
+15:50,Akron,Daniel Utomi,Missed Three Point Jumper,28,37
+15:50,Clemson,Clyde Trapp,Defensive Rebound,28,37
+15:30,Clemson,Shelton Mitchell,Missed Jumper,28,37
+15:29,Akron,Daniel Utomi,Defensive Rebound,28,37
+15:11,Akron,Loren Cristian Jackson,Missed Layup,28,37
+15:10,Clemson,Elijah Thomas,Defensive Rebound,28,37
+15:00,Clemson,Shelton Mitchell,Layup,28,39
+14:35,Akron,Tyler Cheese,Missed Jumper,28,39
+14:35,Akron,Daniel Utomi,Offensive Rebound,28,39
+14:20,Akron,Emmanuel Olojakpoke,Turnover,28,39
+14:20,Clemson,None,None,28,39
+14:06,Clemson,Aamir Simms,Missed Layup,28,39
+14:06,Clemson,Aamir Simms,Offensive Rebound,28,39
+14:02,Clemson,Aamir Simms,Layup,28,41
+13:46,Akron,Jimond Ivey,Dunk,30,41
+13:25,Akron,Jaden Sayles,Foul,30,41
+13:25,Clemson,Shelton Mitchell,Missed Free Throw,30,41
+13:25,Clemson,None,Team Rebound,30,41
+13:25,Clemson,Shelton Mitchell,Free Throw,30,42
+13:10,Akron,Deng Riak,Missed Jumper,30,42
+13:10,Clemson,Clemson,Defensive Rebound,30,42
+12:43,Clemson,Clyde Trapp,Turnover,30,42
+12:42,Akron,Channel Banks,Steal,30,42
+12:37,Akron,Channel Banks,Three Point Jumper,33,42
+12:10,Clemson,Shelton Mitchell,Layup,33,44
+12:00,Akron,Tyler Cheese,Layup,35,44
+12:00,Clemson,Javan White,Foul,35,44
+12:00,Clemson,None,None,35,44
+12:00,Akron,Tyler Cheese,Free Throw,36,44
+11:36,Clemson,Marcquise Reed,Missed Jumper,36,44
+11:36,Clemson,Elijah Thomas,Offensive Rebound,36,44
+11:35,Akron,Channel Banks,Foul,36,44
+11:16,Clemson,Elijah Thomas,Dunk,36,46
+10:55,Akron,Deng Riak,Foul,36,46
+10:55,Akron,Deng Riak,Turnover,36,46
+10:35,Clemson,Elijah Thomas,Jumper,36,48
+10:23,Akron,Jeremy Roscoe,Layup,38,48
+9:58,Clemson,Marcquise Reed,Jumper,38,50
+9:48,Akron,Tyler Cheese,Missed Three Point Jumper,38,50
+9:48,Clemson,Marcquise Reed,Defensive Rebound,38,50
+9:37,Clemson,Shelton Mitchell,Layup,38,52
+9:37,Akron,Deng Riak,Foul,38,52
+9:37,Clemson,Shelton Mitchell,Free Throw,38,53
+9:21,Akron,Daniel Utomi,Missed Three Point Jumper,38,53
+9:21,Clemson,Javan White,Defensive Rebound,38,53
+8:54,Clemson,Marcquise Reed,Missed Layup,38,53
+8:54,Akron,Mark Kostelac,Block,38,53
+8:53,Akron,Loren Cristian Jackson,Defensive Rebound,38,53
+8:49,Clemson,David Skara,Foul,38,53
+8:43,Clemson,Aamir Simms,Foul,38,53
+8:28,Akron,Mark Kostelac,Jumper,40,53
+8:19,Akron,Loren Cristian Jackson,Foul,40,53
+8:19,Clemson,Clyde Trapp,Free Throw,40,54
+8:19,Clemson,Clyde Trapp,Free Throw,40,55
+7:54,Clemson,Elijah Thomas,Foul,40,55
+7:54,Clemson,None,None,40,55
+7:49,Akron,Loren Cristian Jackson,Three Point Jumper,43,55
+7:27,Clemson,Shelton Mitchell,Missed Jumper,43,55
+7:27,Clemson,Shelton Mitchell,Offensive Rebound,43,55
+7:24,Clemson,Shelton Mitchell,Missed Jumper,43,55
+7:24,Akron,Tyler Cheese,Defensive Rebound,43,55
+7:21,Clemson,Elijah Thomas,Foul,43,55
+7:04,Akron,Tyler Cheese,Missed Three Point Jumper,43,55
+7:04,Akron,Akron,Offensive Rebound,43,55
+6:55,Akron,Daniel Utomi,Three Point Jumper,46,55
+6:34,Clemson,Aamir Simms,Missed Three Point Jumper,46,55
+6:34,Akron,Loren Cristian Jackson,Defensive Rebound,46,55
+6:25,Akron,Loren Cristian Jackson,Three Point Jumper,49,55
+6:17,Clemson,None,None,49,55
+6:03,Clemson,Shelton Mitchell,Missed Three Point Jumper,49,55
+6:03,Clemson,Marcquise Reed,Offensive Rebound,49,55
+5:57,Clemson,Marcquise Reed,Layup,49,57
+5:32,Akron,Daniel Utomi,Foul,49,57
+5:32,Akron,Daniel Utomi,Turnover,49,57
+5:19,Clemson,Marcquise Reed,Three Point Jumper,49,60
+4:59,Akron,Jaden Sayles,Dunk,51,60
+4:40,Akron,Jaden Sayles,Foul,51,60
+4:40,Clemson,Shelton Mitchell,Free Throw,51,61
+4:40,Clemson,Shelton Mitchell,Missed Free Throw,51,61
+4:40,Akron,Daniel Utomi,Defensive Rebound,51,61
+4:29,Clemson,Marcquise Reed,Foul,51,61
+4:29,Akron,Loren Cristian Jackson,Free Throw,52,61
+4:29,Akron,Loren Cristian Jackson,Free Throw,53,61
+4:12,Clemson,Shelton Mitchell,Missed Three Point Jumper,53,61
+4:12,Clemson,Elijah Thomas,Offensive Rebound,53,61
+4:08,Clemson,Elijah Thomas,Jumper,53,63
+4:08,Akron,Emmanuel Olojakpoke,Foul,53,63
+4:08,Clemson,Elijah Thomas,Missed Free Throw,53,63
+4:08,Akron,Jeremy Roscoe,Defensive Rebound,53,63
+3:56,Akron,Loren Cristian Jackson,Three Point Jumper,56,63
+3:30,Clemson,Elijah Thomas,Missed Layup,56,63
+3:30,Clemson,Clyde Trapp,Offensive Rebound,56,63
+3:14,Clemson,Shelton Mitchell,Missed Three Point Jumper,56,63
+3:14,Akron,Daniel Utomi,Defensive Rebound,56,63
+2:58,Akron,Loren Cristian Jackson,Three Point Jumper,59,63
+2:53,Akron,None,None,59,63
+2:53,Clemson,None,None,59,63
+2:37,Clemson,Elijah Thomas,Missed Layup,59,63
+2:37,Clemson,Elijah Thomas,Offensive Rebound,59,63
+2:36,Akron,Channel Banks,Foul,59,63
+2:36,Clemson,Elijah Thomas,Missed Free Throw,59,63
+2:36,Clemson,None,Team Rebound,59,63
+2:36,Clemson,Elijah Thomas,Missed Free Throw,59,63
+2:36,Akron,Daniel Utomi,Defensive Rebound,59,63
+2:18,Akron,Daniel Utomi,Turnover,59,63
+1:55,Akron,Deng Riak,Foul,59,63
+1:55,Clemson,Marcquise Reed,Free Throw,59,64
+1:55,Clemson,Marcquise Reed,Free Throw,59,65
+1:40,Akron,Loren Cristian Jackson,Missed Jumper,59,65
+1:40,Clemson,Clemson,Defensive Rebound,59,65
+1:12,Clemson,Marcquise Reed,Three Point Jumper,59,68
+1:09,Akron,None,None,59,68
+0:59,Akron,Daniel Utomi,Missed Three Point Jumper,59,68
+0:59,Clemson,Clyde Trapp,Defensive Rebound,59,68
+0:40,Akron,Loren Cristian Jackson,Foul,59,68
+0:40,Clemson,Shelton Mitchell,Free Throw,59,69
+0:40,Clemson,Shelton Mitchell,Free Throw,59,70
+0:33,Akron,Loren Cristian Jackson,Missed Three Point Jumper,59,70
+0:33,Akron,Akron,Offensive Rebound,59,70
+0:27,Akron,Tyler Cheese,Three Point Jumper,62,70
+0:25,Clemson,Shelton Mitchell,Turnover,62,70
+0:25,Clemson,Marcquise Reed,Foul,62,70
+0:25,Akron,Loren Cristian Jackson,Missed Free Throw,62,70
+0:25,Clemson,Elijah Thomas,Defensive Rebound,62,70
+0:22,Akron,Tyler Cheese,Foul,62,70
+0:22,Clemson,Clyde Trapp,Missed Free Throw,62,70
+0:22,Clemson,None,Team Rebound,62,70
+0:22,Clemson,Clyde Trapp,Free Throw,62,71
+0:18,Clemson,Clyde Trapp,Foul,62,71
+0:18,Akron,Loren Cristian Jackson,Free Throw,63,71
+0:18,Akron,Loren Cristian Jackson,Free Throw,64,71
+0:13,Akron,Channel Banks,Foul,64,71
+0:13,Clemson,Shelton Mitchell,Missed Free Throw,64,71
+0:13,Clemson,None,Team Rebound,64,71
+0:13,Clemson,Shelton Mitchell,Free Throw,64,72
+0:09,Akron,Loren Cristian Jackson,Layup,66,72
+0:06,Akron,Jimond Ivey,Foul,66,72
+0:06,Clemson,Clyde Trapp,Missed Free Throw,66,72
+0:06,Clemson,None,Team Rebound,66,72
+0:06,Clemson,Clyde Trapp,Missed Free Throw,66,72
+0:06,Akron,Daniel Utomi,Defensive Rebound,66,72
+0:01,Akron,Daniel Utomi,Three Point Jumper,69,72
+0:00,Clemson,None,None,69,72

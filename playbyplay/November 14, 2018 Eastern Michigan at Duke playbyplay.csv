@@ -1,0 +1,379 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:51,Duke,Tre Jones,Turnover,0,0
+19:51,Eastern Michigan,Boubacar Toure,Steal,0,0
+19:22,Eastern Michigan,Paul Jackson,Layup,2,0
+19:03,Duke,Zion Williamson,Dunk,2,2
+18:32,Eastern Michigan,Elijah Minnie,Turnover,2,2
+18:32,Duke,Cam Reddish,Steal,2,2
+18:26,Duke,RJ Barrett,Layup,2,4
+18:04,Eastern Michigan,Paul Jackson,Missed Three Point Jumper,2,4
+18:04,Duke,Cam Reddish,Defensive Rebound,2,4
+17:55,Duke,Cam Reddish,Missed Three Point Jumper,2,4
+17:55,Duke,Zion Williamson,Offensive Rebound,2,4
+17:45,Eastern Michigan,Elijah Minnie,Foul,2,4
+17:45,Duke,RJ Barrett,Missed Free Throw,2,4
+17:45,Duke,None,Team Rebound,2,4
+17:45,Duke,RJ Barrett,Missed Free Throw,2,4
+17:45,Duke,None,Team Rebound,2,4
+17:45,Duke,RJ Barrett,Free Throw,2,5
+17:40,Eastern Michigan,Elijah Minnie,Missed Three Point Jumper,2,5
+17:40,Eastern Michigan,James Thompson IV,Offensive Rebound,2,5
+17:35,Eastern Michigan,James Thompson IV,Missed Layup,2,5
+17:35,Duke,Marques Bolden,Block,2,5
+17:35,Duke,Zion Williamson,Defensive Rebound,2,5
+17:28,Duke,Cam Reddish,Three Point Jumper,2,8
+17:09,Eastern Michigan,Damari Parris,Missed Three Point Jumper,2,8
+17:09,Duke,Zion Williamson,Block,2,8
+17:09,Duke,Marques Bolden,Defensive Rebound,2,8
+16:50,Duke,Zion Williamson,Turnover,2,8
+16:50,Eastern Michigan,Damari Parris,Steal,2,8
+16:41,Duke,Zion Williamson,Foul,2,8
+16:41,Eastern Michigan,Damari Parris,Free Throw,3,8
+16:41,Eastern Michigan,Damari Parris,Missed Free Throw,3,8
+16:41,Duke,Jack White,Defensive Rebound,3,8
+16:33,Duke,RJ Barrett,Missed Jumper,3,8
+16:33,Eastern Michigan,James Thompson IV,Defensive Rebound,3,8
+16:25,Eastern Michigan,Paul Jackson,Turnover,3,8
+16:25,Duke,Jack White,Steal,3,8
+16:17,Duke,Cam Reddish,Missed Three Point Jumper,3,8
+16:17,Duke,Javin DeLaurier,Offensive Rebound,3,8
+16:11,Duke,Javin DeLaurier,Layup,3,10
+16:11,Eastern Michigan,None,None,3,10
+16:02,Eastern Michigan,Elijah Minnie,Turnover,3,10
+16:02,Duke,Tre Jones,Steal,3,10
+15:59,Duke,Zion Williamson,Dunk,3,12
+15:42,Eastern Michigan,Elijah Minnie,Missed Three Point Jumper,3,12
+15:42,Duke,Javin DeLaurier,Defensive Rebound,3,12
+15:29,Duke,RJ Barrett,Missed Layup,3,12
+15:29,Duke,Zion Williamson,Offensive Rebound,3,12
+15:10,Duke,Tre Jones,Missed Three Point Jumper,3,12
+15:10,Eastern Michigan,Elijah Minnie,Defensive Rebound,3,12
+14:52,Eastern Michigan,Kevin McAdoo,Missed Jumper,3,12
+14:52,Duke,Javin DeLaurier,Block,3,12
+14:52,Duke,Jack White,Defensive Rebound,3,12
+14:46,Duke,RJ Barrett,Dunk,3,14
+14:34,Eastern Michigan,Paul Jackson,Turnover,3,14
+14:34,Duke,Javin DeLaurier,Steal,3,14
+14:14,Duke,Zion Williamson,Dunk,3,16
+13:54,Duke,Tre Jones,Foul,3,16
+13:38,Eastern Michigan,James Thompson IV,Missed Jumper,3,16
+13:38,Eastern Michigan,Elijah Minnie,Offensive Rebound,3,16
+13:34,Eastern Michigan,Elijah Minnie,Missed Jumper,3,16
+13:34,Duke,Marques Bolden,Block,3,16
+13:34,Eastern Michigan,Elijah Minnie,Offensive Rebound,3,16
+13:33,Eastern Michigan,Eastern Michigan ,Turnover,3,16
+13:24,Duke,RJ Barrett,Layup,3,18
+13:08,Eastern Michigan,Paul Jackson,Missed Three Point Jumper,3,18
+13:08,Duke,RJ Barrett,Defensive Rebound,3,18
+12:58,Duke,Cam Reddish,Missed Layup,3,18
+12:58,Eastern Michigan,James Thompson IV,Block,3,18
+12:58,Eastern Michigan,Kevin McAdoo,Defensive Rebound,3,18
+12:57,Eastern Michigan,Damari Parris,Missed Jumper,3,18
+12:57,Duke,Duke,Defensive Rebound,3,18
+12:55,Eastern Michigan,Boubacar Toure,Foul,3,18
+12:55,Eastern Michigan,Boubacar Toure,Turnover,3,18
+12:45,Duke,Marques Bolden,Dunk,3,20
+12:32,Eastern Michigan,Paul Jackson,Turnover,3,20
+12:32,Duke,RJ Barrett,Steal,3,20
+12:10,Eastern Michigan,James Thompson IV,Foul,3,20
+12:10,Duke,RJ Barrett,Missed Free Throw,3,20
+12:10,Duke,None,Team Rebound,3,20
+12:10,Duke,RJ Barrett,Free Throw,3,21
+12:03,Eastern Michigan,Boubacar Toure,Dunk,5,21
+11:49,Duke,Zion Williamson,Turnover,5,21
+11:49,Eastern Michigan,Malik Ellison,Steal,5,21
+11:42,Eastern Michigan,Ty Groce,Layup,7,21
+11:28,Duke,Marques Bolden,Dunk,7,23
+11:02,Eastern Michigan,None,None,7,23
+11:02,Duke,None,None,7,23
+10:58,Eastern Michigan,Boubacar Toure,Missed Jumper,7,23
+10:58,Duke,Marques Bolden,Defensive Rebound,7,23
+10:50,Eastern Michigan,Malik Ellison,Foul,7,23
+10:50,Duke,Alex O'Connell,Three Point Jumper,7,26
+10:37,Eastern Michigan,Elijah Minnie,Turnover,7,26
+10:37,Duke,Cam Reddish,Steal,7,26
+10:32,Duke,Zion Williamson,Dunk,7,28
+10:20,Eastern Michigan,Elijah Minnie,Turnover,7,28
+10:14,Duke,Alex O'Connell,Turnover,7,28
+10:14,Eastern Michigan,Ty Groce,Steal,7,28
+10:11,Eastern Michigan,Ty Groce,Turnover,7,28
+10:11,Duke,Alex O'Connell,Steal,7,28
+9:55,Duke,Cam Reddish,Missed Three Point Jumper,7,28
+9:55,Duke,Alex O'Connell,Offensive Rebound,7,28
+9:48,Duke,Tre Jones,Missed Jumper,7,28
+9:48,Eastern Michigan,Boubacar Toure,Defensive Rebound,7,28
+9:29,Eastern Michigan,Paul Jackson,Missed Jumper,7,28
+9:29,Duke,Zion Williamson,Defensive Rebound,7,28
+9:05,Duke,Cam Reddish,Turnover,7,28
+8:55,Eastern Michigan,Jalen King,Layup,9,28
+8:48,Duke,RJ Barrett,Missed Layup,9,28
+8:48,Eastern Michigan,Malik Ellison,Defensive Rebound,9,28
+8:32,Eastern Michigan,Malik Ellison,Missed Jumper,9,28
+8:32,Duke,Tre Jones,Block,9,28
+8:32,Duke,Jack White,Defensive Rebound,9,28
+8:21,Duke,Javin DeLaurier,Layup,9,30
+8:21,Eastern Michigan,Malik Ellison,Foul,9,30
+8:21,Duke,Javin DeLaurier,Free Throw,9,31
+8:03,Eastern Michigan,James Thompson IV,Missed Three Point Jumper,9,31
+8:03,Duke,Javin DeLaurier,Defensive Rebound,9,31
+7:43,Duke,Javin DeLaurier,Dunk,9,33
+7:20,Eastern Michigan,Elijah Minnie,Missed Three Point Jumper,9,33
+7:20,Duke,Jack White,Defensive Rebound,9,33
+7:13,Eastern Michigan,Jalen King,Foul,9,33
+7:13,Duke,None,None,9,33
+6:58,Duke,RJ Barrett,Missed Three Point Jumper,9,33
+6:58,Duke,Antonio Vrankovic,Offensive Rebound,9,33
+6:52,Duke,None,None,9,33
+6:51,Duke,Jack White,Three Point Jumper,9,36
+6:30,Eastern Michigan,James Thompson IV,Missed Three Point Jumper,9,36
+6:30,Duke,Jack White,Defensive Rebound,9,36
+6:14,Duke,RJ Barrett,Missed Three Point Jumper,9,36
+6:14,Duke,Cam Reddish,Offensive Rebound,9,36
+6:06,Duke,RJ Barrett,Missed Layup,9,36
+6:06,Duke,Duke,Offensive Rebound,9,36
+5:55,Duke,Zion Williamson,Missed Jumper,9,36
+5:55,Duke,Antonio Vrankovic,Offensive Rebound,9,36
+5:50,Eastern Michigan,Elijah Minnie,Foul,9,36
+5:50,Duke,Antonio Vrankovic,Missed Free Throw,9,36
+5:50,Duke,None,Team Rebound,9,36
+5:50,Duke,Antonio Vrankovic,Missed Free Throw,9,36
+5:50,Eastern Michigan,Elijah Minnie,Defensive Rebound,9,36
+5:41,Duke,Zion Williamson,Foul,9,36
+5:37,Eastern Michigan,Paul Jackson,Missed Jumper,9,36
+5:37,Duke,Tre Jones,Defensive Rebound,9,36
+5:29,Duke,Zion Williamson,Layup,9,38
+5:15,Eastern Michigan,Boubacar Toure,Turnover,9,38
+5:15,Duke,Marques Bolden,Steal,9,38
+5:09,Duke,RJ Barrett,Layup,9,40
+4:56,Eastern Michigan,Malik Ellison,Missed Three Point Jumper,9,40
+4:56,Duke,RJ Barrett,Defensive Rebound,9,40
+4:41,Duke,Zion Williamson,Layup,9,42
+4:41,Eastern Michigan,Paul Jackson,Foul,9,42
+4:41,Duke,Zion Williamson,Missed Free Throw,9,42
+4:41,Duke,Javin DeLaurier,Offensive Rebound,9,42
+4:37,Duke,Javin DeLaurier,Turnover,9,42
+4:37,Eastern Michigan,Elijah Minnie,Steal,9,42
+4:37,Eastern Michigan,None,None,9,42
+4:26,Eastern Michigan,Eastern Michigan ,Turnover,9,42
+4:17,Eastern Michigan,James Thompson IV,Foul,9,42
+4:17,Duke,Javin DeLaurier,Free Throw,9,43
+4:17,Duke,Javin DeLaurier,Missed Free Throw,9,43
+4:17,Eastern Michigan,Bud Jones,Defensive Rebound,9,43
+4:08,Eastern Michigan,James Thompson IV,Missed Layup,9,43
+4:08,Duke,Cam Reddish,Defensive Rebound,9,43
+3:57,Duke,RJ Barrett,Turnover,9,43
+3:57,Eastern Michigan,Elijah Minnie,Steal,9,43
+3:44,Eastern Michigan,Paul Jackson,Turnover,9,43
+3:44,Duke,Javin DeLaurier,Steal,9,43
+3:36,Duke,Jack White,Three Point Jumper,9,46
+3:28,Duke,None,None,9,46
+3:28,Eastern Michigan,None,None,9,46
+3:21,Duke,None,None,9,46
+3:19,Duke,Jordan Goldwire,Foul,9,46
+3:09,Eastern Michigan,Damari Parris,Turnover,9,46
+3:09,Duke,Alex O'Connell,Steal,9,46
+2:53,Duke,Jack White,Missed Three Point Jumper,9,46
+2:53,Eastern Michigan,Paul Jackson,Defensive Rebound,9,46
+2:29,Eastern Michigan,Paul Jackson,Jumper,11,46
+2:07,Duke,RJ Barrett,Jumper,11,48
+1:40,Eastern Michigan,Paul Jackson,Missed Jumper,11,48
+1:40,Duke,Jordan Goldwire,Defensive Rebound,11,48
+1:30,Duke,Jordan Goldwire,Turnover,11,48
+1:30,Eastern Michigan,Paul Jackson,Steal,11,48
+1:26,Eastern Michigan,Elijah Minnie,Missed Dunk,11,48
+1:26,Duke,Justin Robinson,Defensive Rebound,11,48
+1:03,Duke,Alex O'Connell,Missed Jumper,11,48
+1:03,Eastern Michigan,Elijah Minnie,Defensive Rebound,11,48
+0:46,Eastern Michigan,Elijah Minnie,Jumper,13,48
+0:22,Duke,Javin DeLaurier,Turnover,13,48
+0:22,Eastern Michigan,James Thompson IV,Steal,13,48
+0:04,Eastern Michigan,Kevin McAdoo,Missed Jumper,13,48
+0:04,Duke,Duke,Defensive Rebound,13,48
+0:00,Duke,None,None,13,48
+20:00,Duke,None,None,13,48
+19:48,Duke,Marques Bolden,Missed Dunk,13,48
+19:48,Duke,Marques Bolden,Offensive Rebound,13,48
+19:44,Duke,RJ Barrett,Missed Three Point Jumper,13,48
+19:44,Duke,Zion Williamson,Offensive Rebound,13,48
+19:36,Eastern Michigan,Paul Jackson,Foul,13,48
+19:36,Duke,Zion Williamson,Missed Free Throw,13,48
+19:36,Duke,None,Team Rebound,13,48
+19:36,Duke,Zion Williamson,Free Throw,13,49
+19:23,Eastern Michigan,Damari Parris,Missed Jumper,13,49
+19:23,Duke,Zion Williamson,Defensive Rebound,13,49
+19:10,Duke,RJ Barrett,Missed Jumper,13,49
+19:10,Duke,RJ Barrett,Offensive Rebound,13,49
+19:05,Duke,Tre Jones,Missed Jumper,13,49
+19:05,Duke,Tre Jones,Offensive Rebound,13,49
+19:00,Duke,Tre Jones,Missed Jumper,13,49
+19:00,Eastern Michigan,Damari Parris,Defensive Rebound,13,49
+18:53,Eastern Michigan,James Thompson IV,Layup,15,49
+18:29,Duke,Jack White,Layup,15,51
+18:10,Eastern Michigan,Damari Parris,Turnover,15,51
+18:10,Duke,Tre Jones,Steal,15,51
+18:05,Duke,Zion Williamson,Dunk,15,53
+17:45,Eastern Michigan,Damari Parris,Missed Three Point Jumper,15,53
+17:45,Duke,Zion Williamson,Defensive Rebound,15,53
+17:35,Duke,RJ Barrett,Missed Layup,15,53
+17:35,Duke,Marques Bolden,Offensive Rebound,15,53
+17:35,Duke,Marques Bolden,Dunk,15,55
+17:21,Eastern Michigan,Elijah Minnie,Missed Three Point Jumper,15,55
+17:21,Eastern Michigan,James Thompson IV,Offensive Rebound,15,55
+17:16,Eastern Michigan,James Thompson IV,Layup,17,55
+17:12,Duke,Tre Jones,Jumper,17,57
+17:01,Eastern Michigan,Paul Jackson,Missed Jumper,17,57
+17:01,Duke,Jack White,Block,17,57
+17:01,Eastern Michigan,Eastern Michigan,Offensive Rebound,17,57
+16:41,Eastern Michigan,Paul Jackson,Missed Jumper,17,57
+16:41,Eastern Michigan,Boubacar Toure,Offensive Rebound,17,57
+16:30,Duke,Javin DeLaurier,Foul,17,57
+16:28,Eastern Michigan,Paul Jackson,Jumper,19,57
+16:20,Duke,RJ Barrett,Layup,19,59
+16:06,Eastern Michigan,Paul Jackson,Missed Jumper,19,59
+16:06,Duke,Tre Jones,Block,19,59
+16:06,Duke,Javin DeLaurier,Defensive Rebound,19,59
+15:58,Duke,Zion Williamson,Layup,19,61
+15:44,Eastern Michigan,Damari Parris,Three Point Jumper,22,61
+15:27,Duke,RJ Barrett,Missed Jumper,22,61
+15:27,Duke,Javin DeLaurier,Offensive Rebound,22,61
+15:24,Duke,Javin DeLaurier,Missed Layup,22,61
+15:24,Eastern Michigan,Boubacar Toure,Block,22,61
+15:24,Duke,Zion Williamson,Offensive Rebound,22,61
+15:19,Duke,None,None,22,61
+15:19,Duke,None,None,22,61
+15:11,Eastern Michigan,Paul Jackson,Foul,22,61
+15:11,Duke,Javin DeLaurier,Dunk,22,63
+14:48,Eastern Michigan,Boubacar Toure,Dunk,24,63
+14:28,Duke,Zion Williamson,Layup,24,65
+13:57,Eastern Michigan,James Thompson IV,Layup,26,65
+13:51,Duke,Alex O'Connell,Missed Three Point Jumper,26,65
+13:51,Duke,RJ Barrett,Offensive Rebound,26,65
+13:51,Duke,None,None,26,67
+13:35,Eastern Michigan,Damari Parris,Three Point Jumper,29,67
+13:20,Duke,RJ Barrett,Turnover,29,67
+13:20,Eastern Michigan,Boubacar Toure,Steal,29,67
+13:02,Eastern Michigan,None,None,29,67
+12:53,Eastern Michigan,James Thompson IV,Missed Jumper,29,67
+12:53,Eastern Michigan,Boubacar Toure,Offensive Rebound,29,67
+12:48,Eastern Michigan,Eastern Michigan ,Turnover,29,67
+12:36,Duke,RJ Barrett,Missed Jumper,29,67
+12:36,Eastern Michigan,James Thompson IV,Defensive Rebound,29,67
+12:27,Eastern Michigan,Paul Jackson,Missed Layup,29,67
+12:27,Eastern Michigan,James Thompson IV,Offensive Rebound,29,67
+12:27,Eastern Michigan,None,None,29,67
+12:27,Duke,Jordan Goldwire,Defensive Rebound,29,67
+12:14,Eastern Michigan,Elijah Minnie,Foul,29,67
+12:14,Duke,RJ Barrett,Free Throw,29,68
+12:14,Duke,RJ Barrett,Free Throw,29,69
+12:04,Eastern Michigan,Paul Jackson,Missed Jumper,29,69
+12:04,Eastern Michigan,Paul Jackson,Offensive Rebound,29,69
+12:04,Eastern Michigan,Paul Jackson,Turnover,29,69
+12:04,Duke,Antonio Vrankovic,Steal,29,69
+11:57,Duke,None,None,29,69
+11:57,Duke,None,None,29,69
+11:48,Duke,Marques Bolden,Dunk,29,71
+11:23,Eastern Michigan,Damari Parris,Missed Three Point Jumper,29,71
+11:23,Eastern Michigan,James Thompson IV,Offensive Rebound,29,71
+11:19,Duke,Antonio Vrankovic,Foul,29,71
+11:17,Eastern Michigan,Damari Parris,Jumper,31,71
+10:53,Duke,Jordan Goldwire,Missed Jumper,31,71
+10:53,Eastern Michigan,James Thompson IV,Defensive Rebound,31,71
+10:42,Eastern Michigan,Paul Jackson,Turnover,31,71
+10:42,Duke,Alex O'Connell,Steal,31,71
+10:37,Duke,Zion Williamson,Dunk,31,73
+10:21,Eastern Michigan,Damari Parris,Missed Three Point Jumper,31,73
+10:21,Duke,Zion Williamson,Defensive Rebound,31,73
+10:08,Duke,Zion Williamson,Missed Three Point Jumper,31,73
+10:08,Eastern Michigan,Damari Parris,Defensive Rebound,31,73
+9:50,Eastern Michigan,Damari Parris,Missed Jumper,31,73
+9:50,Duke,Jack White,Block,31,73
+9:50,Eastern Michigan,Damari Parris,Offensive Rebound,31,73
+9:41,Eastern Michigan,Paul Jackson,Missed Layup,31,73
+9:41,Duke,Zion Williamson,Block,31,73
+9:41,Duke,Alex O'Connell,Defensive Rebound,31,73
+9:31,Duke,Jack White,Dunk,31,75
+9:25,Eastern Michigan,Paul Jackson,Turnover,31,75
+9:25,Duke,Jordan Goldwire,Steal,31,75
+9:24,Duke,RJ Barrett,Jumper,31,77
+8:58,Eastern Michigan,Boubacar Toure,Missed Layup,31,77
+8:58,Duke,Alex O'Connell,Defensive Rebound,31,77
+8:48,Duke,RJ Barrett,Missed Layup,31,77
+8:48,Eastern Michigan,Ty Groce,Block,31,77
+8:48,Eastern Michigan,Ty Groce,Defensive Rebound,31,77
+8:45,Duke,Jordan Goldwire,Foul,31,77
+8:36,Eastern Michigan,Kevin McAdoo,Jumper,33,77
+8:18,Eastern Michigan,Jalen King,Foul,33,77
+8:06,Duke,Tre Jones,Missed Jumper,33,77
+8:06,Eastern Michigan,Jalen King,Defensive Rebound,33,77
+7:48,Eastern Michigan,Isaiah Green,Missed Jumper,33,77
+7:48,Eastern Michigan,Ty Groce,Offensive Rebound,33,77
+7:42,Eastern Michigan,Ty Groce,Layup,35,77
+7:32,Duke,RJ Barrett,Missed Three Point Jumper,35,77
+7:32,Duke,Tre Jones,Offensive Rebound,35,77
+7:24,Eastern Michigan,Isaiah Green,Foul,35,77
+7:24,Duke,None,None,35,77
+7:21,Duke,Tre Jones,Missed Three Point Jumper,35,77
+7:21,Duke,Tre Jones,Offensive Rebound,35,77
+7:12,Eastern Michigan,Jalen King,Foul,35,77
+6:57,Eastern Michigan,Jalen King,Foul,35,77
+6:57,Duke,Marques Bolden,Missed Free Throw,35,77
+6:57,Eastern Michigan,Jalen King,Defensive Rebound,35,77
+6:43,Eastern Michigan,Malik Ellison,Missed Layup,35,77
+6:43,Duke,Jack White,Block,35,77
+6:43,Eastern Michigan,Isaiah Green,Offensive Rebound,35,77
+6:34,Eastern Michigan,Isaiah Green,Layup,37,77
+6:24,Duke,Jack White,Missed Three Point Jumper,37,77
+6:24,Eastern Michigan,Jalen King,Defensive Rebound,37,77
+6:10,Eastern Michigan,Kevin McAdoo,Jumper,39,77
+5:37,Duke,Alex O'Connell,Jumper,39,79
+5:03,Eastern Michigan,Ty Groce,Missed Layup,39,79
+5:03,Duke,Jack White,Block,39,79
+5:03,Duke,Jack White,Defensive Rebound,39,79
+4:57,Duke,Justin Robinson,Missed Three Point Jumper,39,79
+4:57,Eastern Michigan,None,Team Rebound,39,79
+4:46,Eastern Michigan,Jalen King,Layup,41,79
+4:28,Duke,Jack White,Missed Three Point Jumper,41,79
+4:28,Duke,Justin Robinson,Offensive Rebound,41,79
+4:14,Duke,Justin Robinson,Missed Three Point Jumper,41,79
+4:14,Eastern Michigan,Isaiah Green,Block,41,79
+4:14,Eastern Michigan,Ty Groce,Defensive Rebound,41,79
+4:04,Eastern Michigan,Kevin McAdoo,Three Point Jumper,44,79
+3:46,Duke,Alex O'Connell,Three Point Jumper,44,82
+3:20,Eastern Michigan,Kevin McAdoo,Layup,46,82
+3:20,Duke,Antonio Vrankovic,Foul,46,82
+3:20,Duke,None,None,46,82
+3:20,Eastern Michigan,Kevin McAdoo,Missed Free Throw,46,82
+3:20,Duke,Jordan Goldwire,Defensive Rebound,46,82
+3:00,Duke,Jordan Goldwire,Missed Three Point Jumper,46,82
+3:00,Eastern Michigan,Kevin McAdoo,Defensive Rebound,46,82
+2:50,Eastern Michigan,Kevin McAdoo,Missed Jumper,46,82
+2:50,Eastern Michigan,Jalen King,Offensive Rebound,46,82
+2:43,Eastern Michigan,Jalen King,Turnover,46,82
+2:18,Duke,Antonio Vrankovic,Layup,46,84
+1:56,Eastern Michigan,Kevin McAdoo,Missed Jumper,46,84
+1:56,Duke,Antonio Vrankovic,Defensive Rebound,46,84
+1:47,Duke,Mike Buckmire,Missed Jumper,46,84
+1:47,Eastern Michigan,Andre Rafus Jr.,Defensive Rebound,46,84
+1:20,Eastern Michigan,Andre Rafus Jr.,Missed Three Point Jumper,46,84
+1:20,Duke,Jordan Goldwire,Defensive Rebound,46,84
+1:04,Duke,Alex O'Connell,Missed Three Point Jumper,46,84
+1:04,Duke,Mike Buckmire,Offensive Rebound,46,84
+0:56,Duke,Brennan Besser,Missed Layup,46,84
+0:56,Duke,Duke,Offensive Rebound,46,84
+0:48,Duke,Brennan Besser,Missed Three Point Jumper,46,84
+0:48,Duke,Mike Buckmire,Offensive Rebound,46,84
+0:43,Duke,Mike Buckmire,Missed Jumper,46,84
+0:43,Eastern Michigan,Derek Ballard Jr.,Block,46,84
+0:43,Eastern Michigan,Isaiah Green,Defensive Rebound,46,84
+0:24,Eastern Michigan,Andre Rafus Jr.,Missed Three Point Jumper,46,84
+0:24,Eastern Michigan,Derek Ballard Jr.,Offensive Rebound,46,84
+0:17,Eastern Michigan,Derek Ballard Jr.,Missed Jumper,46,84
+0:17,Duke,Brennan Besser,Defensive Rebound,46,84
+0:15,Duke,Brennan Besser,Turnover,46,84
+0:15,Eastern Michigan,Tariq Silver,Steal,46,84
+0:15,Eastern Michigan,Tariq Silver,Missed Dunk,46,84
+0:15,Eastern Michigan,Eastern Michigan,Offensive Rebound,46,84
+0:14,Eastern Michigan,Derek Ballard Jr.,Missed Jumper,46,84
+0:14,Duke,Mike Buckmire,Defensive Rebound,46,84
+0:00,Duke,None,None,46,84

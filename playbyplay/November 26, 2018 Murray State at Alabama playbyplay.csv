@@ -1,0 +1,361 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:37,Alabama,Donta Hall,Turnover,0,0
+19:35,Murray State,Ja Morant,Steal,0,0
+19:28,Murray State,Ja Morant,Jumper,2,0
+19:17,Alabama,Herbert Jones,Turnover,2,0
+19:15,Murray State,Shaq Buchanan,Steal,2,0
+19:11,Murray State,Ja Morant,Layup,4,0
+19:05,Alabama,Kira Lewis Jr.,Missed Jumper,4,0
+19:05,Murray State,Anthony Smith,Block,4,0
+19:05,Alabama,Alabama,Offensive Rebound,4,0
+19:05,Alabama,John Petty,Jumper,4,2
+18:54,Murray State,Tevin Brown,Missed Three Point Jumper,4,2
+18:54,Alabama,Herbert Jones,Defensive Rebound,4,2
+18:37,Alabama,Herbert Jones,Missed Jumper,4,2
+18:37,Alabama,Herbert Jones,Offensive Rebound,4,2
+18:32,Alabama,Herbert Jones,Turnover,4,2
+18:04,Murray State,Anthony Smith,Missed Jumper,4,2
+18:04,Alabama,John Petty,Block,4,2
+18:02,Alabama,Donta Hall,Defensive Rebound,4,2
+17:49,Murray State,Anthony Smith,Foul,4,2
+17:32,Alabama,Donta Hall,Missed Jumper,4,2
+17:32,Murray State,Shaq Buchanan,Defensive Rebound,4,2
+17:00,Murray State,Anthony Smith,Missed Jumper,4,2
+17:00,Alabama,Galin Smith,Block,4,2
+16:59,Alabama,Herbert Jones,Defensive Rebound,4,2
+16:44,Alabama,John Petty,Turnover,4,2
+16:43,Murray State,Brion Sanchious,Steal,4,2
+16:39,Murray State,Tevin Brown,Three Point Jumper,7,2
+16:18,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,7,2
+16:18,Alabama,John Petty,Offensive Rebound,7,2
+16:14,Alabama,John Petty,Missed Jumper,7,2
+16:14,Murray State,Anthony Smith,Block,7,2
+16:14,Alabama,Alabama,Offensive Rebound,7,2
+15:55,Alabama,Herbert Jones,Jumper,7,4
+15:34,Murray State,Shaq Buchanan,Missed Three Point Jumper,7,4
+15:34,Murray State,Anthony Smith,Offensive Rebound,7,4
+15:31,Murray State,Anthony Smith,Jumper,9,4
+15:24,Alabama,Kira Lewis Jr.,Foul,9,4
+15:24,Alabama,Kira Lewis Jr.,Turnover,9,4
+15:08,Alabama,Dazon Ingram,Foul,9,4
+14:58,Murray State,Brion Sanchious,Missed Jumper,9,4
+14:58,Alabama,Herbert Jones,Defensive Rebound,9,4
+14:40,Alabama,Alex Reese,Missed Three Point Jumper,9,4
+14:40,Murray State,Brion Sanchious,Defensive Rebound,9,4
+14:29,Murray State,Ja Morant,Turnover,9,4
+14:17,Alabama,Alex Reese,Three Point Jumper,9,7
+14:00,Murray State,Ja Morant,Missed Layup,9,7
+14:00,Alabama,John Petty,Defensive Rebound,9,7
+13:57,Alabama,John Petty,Turnover,9,7
+13:53,Murray State,Shaq Buchanan,Layup,11,7
+13:48,Alabama,Dazon Ingram,Turnover,11,7
+13:47,Murray State,Shaq Buchanan,Steal,11,7
+13:43,Murray State,Ja Morant,Layup,13,7
+13:19,Alabama,Alex Reese,Three Point Jumper,13,10
+12:51,Murray State,Darnell Cowart,Missed Jumper,13,10
+12:51,Murray State,Darnell Cowart,Offensive Rebound,13,10
+12:49,Murray State,Darnell Cowart,Missed Jumper,13,10
+12:49,Murray State,Anthony Smith,Offensive Rebound,13,10
+12:48,Alabama,Herbert Jones,Foul,13,10
+12:43,Murray State,Ja Morant,Missed Three Point Jumper,13,10
+12:43,Alabama,John Petty,Defensive Rebound,13,10
+12:32,Alabama,Alex Reese,Missed Jumper,13,10
+12:32,Murray State,Darnell Cowart,Defensive Rebound,13,10
+12:23,Murray State,Ja Morant,Missed Layup,13,10
+12:23,Alabama,Dazon Ingram,Defensive Rebound,13,10
+12:20,Murray State,Shaq Buchanan,Foul,13,10
+12:10,Alabama,Dazon Ingram,Layup,13,12
+11:48,Murray State,Darnell Cowart,Missed Jumper,13,12
+11:48,Alabama,Donta Hall,Block,13,12
+11:44,Murray State,Darnell Cowart,Offensive Rebound,13,12
+11:42,Murray State,Darnell Cowart,Missed Jumper,13,12
+11:42,Alabama,Donta Hall,Block,13,12
+11:41,Alabama,Tevin Mack,Defensive Rebound,13,12
+11:41,Murray State,Tevin Brown,Foul,13,12
+11:41,Alabama,None,None,13,12
+11:41,Alabama,Kira Lewis Jr.,Free Throw,13,13
+11:41,Alabama,Kira Lewis Jr.,Missed Free Throw,13,13
+11:41,Murray State,Ja Morant,Defensive Rebound,13,13
+11:28,Murray State,Shaq Buchanan,Foul,13,13
+11:28,Murray State,Shaq Buchanan,Turnover,13,13
+11:10,Alabama,Donta Hall,Missed Jumper,13,13
+11:10,Murray State,Ja Morant,Defensive Rebound,13,13
+10:55,Murray State,Darnell Cowart,Missed Jumper,13,13
+10:55,Alabama,Donta Hall,Block,13,13
+10:53,Alabama,Alabama,Defensive Rebound,13,13
+10:33,Alabama,Tevin Mack,Jumper,13,15
+10:08,Murray State,Ja Morant,Missed Jumper,13,15
+10:08,Alabama,Alex Reese,Block,13,15
+10:06,Murray State,Darnell Cowart,Offensive Rebound,13,15
+10:04,Murray State,Darnell Cowart,Jumper,15,15
+9:53,Murray State,Darnell Cowart,Foul,15,15
+9:53,Alabama,Donta Hall,Free Throw,15,16
+9:53,Alabama,Donta Hall,Free Throw,15,17
+9:27,Murray State,Ja Morant,Jumper,17,17
+9:09,Alabama,Tevin Mack,Three Point Jumper,17,20
+8:48,Murray State,Ja Morant,Missed Jumper,17,20
+8:48,Alabama,Tevin Mack,Defensive Rebound,17,20
+8:33,Alabama,Donta Hall,Turnover,17,20
+8:21,Alabama,Galin Smith,Foul,17,20
+8:21,Murray State,Ja Morant,Free Throw,18,20
+8:21,Murray State,Ja Morant,Missed Free Throw,18,20
+8:21,Alabama,Galin Smith,Defensive Rebound,18,20
+8:06,Alabama,Galin Smith,Jumper,18,22
+7:40,Murray State,Brion Whitley,Missed Three Point Jumper,18,22
+7:40,Murray State,Ja Morant,Offensive Rebound,18,22
+7:37,Murray State,Ja Morant,Missed Jumper,18,22
+7:37,Alabama,Herbert Jones,Block,18,22
+7:35,Alabama,Herbert Jones,Defensive Rebound,18,22
+7:34,Murray State,Murray State,Foul,18,22
+7:34,Alabama,None,None,18,22
+7:34,Alabama,Kira Lewis Jr.,Missed Free Throw,18,22
+7:34,Alabama,None,Team Rebound,18,22
+7:34,Alabama,Kira Lewis Jr.,Free Throw,18,23
+7:34,Murray State,Murray State,Foul,18,23
+7:16,Alabama,Herbert Jones,Dunk,18,25
+7:12,Murray State,Mike Davis,Turnover,18,25
+7:05,Murray State,Tevin Brown,Foul,18,25
+7:05,Alabama,Herbert Jones,Missed Free Throw,18,25
+7:05,Alabama,None,Team Rebound,18,25
+7:05,Alabama,Herbert Jones,Free Throw,18,26
+6:40,Murray State,Ja Morant,Turnover,18,26
+6:39,Alabama,John Petty,Steal,18,26
+6:34,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,18,26
+6:34,Murray State,Ja Morant,Defensive Rebound,18,26
+6:28,Murray State,Ja Morant,Layup,20,26
+6:05,Alabama,Galin Smith,Turnover,20,26
+5:43,Murray State,Ja Morant,Layup,22,26
+5:20,Alabama,Kira Lewis Jr.,Missed Jumper,22,26
+5:20,Murray State,Jaiveon Eaves,Block,22,26
+5:20,Alabama,Alabama,Offensive Rebound,22,26
+5:18,Murray State,Ja Morant,Foul,22,26
+5:18,Alabama,Kira Lewis Jr.,Missed Free Throw,22,26
+5:18,Alabama,None,Team Rebound,22,26
+5:18,Alabama,Kira Lewis Jr.,Free Throw,22,27
+5:08,Murray State,Mike Davis,Missed Three Point Jumper,22,27
+5:08,Murray State,Ja Morant,Offensive Rebound,22,27
+4:48,Murray State,Jaiveon Eaves,Turnover,22,27
+4:35,Murray State,Jaiveon Eaves,Foul,22,27
+4:35,Alabama,John Petty,Missed Three Point Jumper,22,27
+4:35,Alabama,Alabama,Offensive Rebound,22,27
+4:35,Alabama,John Petty,Free Throw,22,28
+4:35,Alabama,John Petty,Free Throw,22,29
+4:07,Murray State,Jaiveon Eaves,Missed Three Point Jumper,22,29
+4:06,Murray State,Brion Sanchious,Offensive Rebound,22,29
+4:02,Alabama,Alex Reese,Foul,22,29
+3:38,Murray State,Ja Morant,Missed Jumper,22,29
+3:38,Alabama,Donta Hall,Defensive Rebound,22,29
+3:29,Murray State,Anthony Smith,Foul,22,29
+3:29,Alabama,None,None,22,29
+3:29,Alabama,Dazon Ingram,Free Throw,22,30
+3:29,Alabama,Dazon Ingram,Free Throw,22,31
+3:13,Murray State,Ja Morant,Missed Layup,22,31
+3:13,Alabama,Dazon Ingram,Defensive Rebound,22,31
+3:06,Alabama,Avery Johnson Jr.,Missed Three Point Jumper,22,31
+3:06,Alabama,Donta Hall,Offensive Rebound,22,31
+2:53,Alabama,Avery Johnson Jr.,Layup,22,33
+2:31,Murray State,Tevin Brown,Turnover,22,33
+2:30,Alabama,Donta Hall,Steal,22,33
+2:27,Alabama,John Petty,Layup,22,35
+2:25,Murray State,None,None,22,35
+2:13,Murray State,Shaq Buchanan,Jumper,24,35
+2:02,Alabama,Avery Johnson Jr.,Layup,24,37
+1:51,Murray State,Mike Davis,Three Point Jumper,27,37
+1:44,Murray State,Mike Davis,Foul,27,37
+1:44,Alabama,Dazon Ingram,Free Throw,27,38
+1:44,Alabama,Dazon Ingram,Free Throw,27,39
+1:29,Murray State,Ja Morant,Missed Three Point Jumper,27,39
+1:29,Alabama,Donta Hall,Defensive Rebound,27,39
+1:28,Alabama,Herbert Jones,Foul,27,39
+1:28,Alabama,Herbert Jones,Turnover,27,39
+1:06,Murray State,Mike Davis,Turnover,27,39
+0:47,Alabama,Avery Johnson Jr.,Missed Three Point Jumper,27,39
+0:47,Alabama,Tevin Mack,Offensive Rebound,27,39
+0:44,Alabama,Tevin Mack,Missed Jumper,27,39
+0:44,Murray State,Tevin Brown,Block,27,39
+0:42,Murray State,Shaq Buchanan,Defensive Rebound,27,39
+0:35,Murray State,Shaq Buchanan,Layup,29,39
+0:31,Alabama,Alex Reese,Turnover,29,39
+0:30,Murray State,Shaq Buchanan,Steal,29,39
+0:02,Murray State,Ja Morant,Missed Three Point Jumper,29,39
+0:02,Alabama,Dazon Ingram,Defensive Rebound,29,39
+0:00,Alabama,None,None,29,39
+19:48,Murray State,Ja Morant,Dunk,31,39
+19:48,Alabama,Galin Smith,Foul,31,39
+19:48,Murray State,Ja Morant,Free Throw,32,39
+19:38,Alabama,Herbert Jones,Missed Jumper,32,39
+19:38,Alabama,Galin Smith,Offensive Rebound,32,39
+19:36,Alabama,Galin Smith,Turnover,32,39
+19:21,Murray State,Tevin Brown,Three Point Jumper,35,39
+18:59,Alabama,Dazon Ingram,Turnover,35,39
+18:43,Murray State,Ja Morant,Layup,37,39
+18:38,Alabama,None,None,37,39
+18:17,Alabama,Dazon Ingram,Missed Jumper,37,39
+18:17,Murray State,Tevin Brown,Defensive Rebound,37,39
+18:03,Murray State,Ja Morant,Turnover,37,39
+18:01,Alabama,Kira Lewis Jr.,Steal,37,39
+18:00,Alabama,Kira Lewis Jr.,Layup,37,41
+17:32,Murray State,Shaq Buchanan,Missed Jumper,37,41
+17:32,Alabama,Donta Hall,Defensive Rebound,37,41
+17:19,Alabama,Donta Hall,Missed Jumper,37,41
+17:19,Murray State,Tevin Brown,Defensive Rebound,37,41
+17:11,Murray State,Ja Morant,Foul,37,41
+17:11,Murray State,Ja Morant,Turnover,37,41
+16:57,Alabama,John Petty,Missed Three Point Jumper,37,41
+16:57,Murray State,Ja Morant,Defensive Rebound,37,41
+16:44,Murray State,Anthony Smith,Jumper,39,41
+16:30,Alabama,Kira Lewis Jr.,Jumper,39,43
+16:09,Murray State,Ja Morant,Turnover,39,43
+16:08,Alabama,Herbert Jones,Steal,39,43
+16:02,Alabama,Dazon Ingram,Turnover,39,43
+15:41,Murray State,Shaq Buchanan,Three Point Jumper,42,43
+15:26,Alabama,John Petty,Missed Three Point Jumper,42,43
+15:26,Murray State,Brion Sanchious,Defensive Rebound,42,43
+15:19,Murray State,Ja Morant,Layup,44,43
+15:11,Alabama,Kira Lewis Jr.,Jumper,44,45
+14:39,Murray State,Shaq Buchanan,Missed Jumper,44,45
+14:39,Alabama,Kira Lewis Jr.,Block,44,45
+14:37,Alabama,Kira Lewis Jr.,Defensive Rebound,44,45
+14:35,Murray State,Tevin Brown,Foul,44,45
+14:35,Alabama,None,None,44,45
+14:35,Alabama,Dazon Ingram,Free Throw,44,46
+14:35,Alabama,Dazon Ingram,Free Throw,44,47
+14:14,Murray State,Anthony Smith,Turnover,44,47
+13:58,Alabama,Alex Reese,Missed Jumper,44,47
+13:58,Murray State,Shaq Buchanan,Defensive Rebound,44,47
+13:46,Murray State,Ja Morant,Layup,46,47
+13:35,Alabama,Herbert Jones,Turnover,46,47
+13:23,Murray State,Ja Morant,Turnover,46,47
+13:22,Alabama,Herbert Jones,Steal,46,47
+13:18,Alabama,Kira Lewis Jr.,Missed Layup,46,47
+13:18,Alabama,Tevin Mack,Offensive Rebound,46,47
+13:16,Alabama,Tevin Mack,Missed Jumper,46,47
+13:16,Murray State,Anthony Smith,Block,46,47
+13:14,Alabama,Alabama,Offensive Rebound,46,47
+12:54,Murray State,Shaq Buchanan,Foul,46,47
+12:43,Alabama,Dazon Ingram,Turnover,46,47
+12:27,Murray State,Shaq Buchanan,Missed Three Point Jumper,46,47
+12:27,Murray State,Brion Sanchious,Offensive Rebound,46,47
+12:23,Murray State,Brion Sanchious,Dunk,48,47
+12:05,Alabama,Tevin Mack,Jumper,48,49
+12:05,Murray State,Brion Whitley,Foul,48,49
+12:05,Alabama,Tevin Mack,Missed Free Throw,48,49
+12:05,Alabama,John Petty,Offensive Rebound,48,49
+11:53,Alabama,Avery Johnson Jr.,Missed Three Point Jumper,48,49
+11:53,Murray State,Shaq Buchanan,Defensive Rebound,48,49
+11:45,Alabama,Galin Smith,Foul,48,49
+11:45,Alabama,None,None,48,49
+11:35,Murray State,Brion Whitley,Missed Layup,48,49
+11:35,Alabama,Tevin Mack,Block,48,49
+11:33,Alabama,Galin Smith,Defensive Rebound,48,49
+11:27,Alabama,Herbert Jones,Layup,48,51
+10:55,Murray State,Shaq Buchanan,Missed Three Point Jumper,48,51
+10:55,Alabama,Herbert Jones,Defensive Rebound,48,51
+10:46,Alabama,Tevin Mack,Missed Three Point Jumper,48,51
+10:46,Murray State,Brion Whitley,Defensive Rebound,48,51
+10:33,Alabama,Avery Johnson Jr.,Foul,48,51
+10:27,Murray State,Ja Morant,Missed Layup,48,51
+10:27,Murray State,Darnell Cowart,Offensive Rebound,48,51
+10:24,Alabama,John Petty,Foul,48,51
+10:24,Murray State,Darnell Cowart,Free Throw,49,51
+10:24,Murray State,Darnell Cowart,Free Throw,50,51
+10:08,Alabama,Tevin Mack,Turnover,50,51
+10:06,Murray State,Mike Davis,Steal,50,51
+10:04,Murray State,Darnell Cowart,Missed Layup,50,51
+10:04,Murray State,Ja Morant,Offensive Rebound,50,51
+10:01,Murray State,Ja Morant,Jumper,52,51
+9:43,Alabama,John Petty,Missed Three Point Jumper,52,51
+9:43,Murray State,Ja Morant,Defensive Rebound,52,51
+9:34,Murray State,Ja Morant,Turnover,52,51
+9:10,Alabama,Galin Smith,Jumper,52,53
+8:56,Murray State,Ja Morant,Missed Layup,52,53
+8:56,Alabama,Alex Reese,Block,52,53
+8:55,Alabama,Dazon Ingram,Defensive Rebound,52,53
+8:51,Alabama,Kira Lewis Jr.,Jumper,52,55
+8:21,Murray State,Darnell Cowart,Turnover,52,55
+8:19,Alabama,Alex Reese,Steal,52,55
+8:17,Alabama,Kira Lewis Jr.,Three Point Jumper,52,58
+8:11,Murray State,None,None,52,58
+7:59,Murray State,Brion Sanchious,Jumper,54,58
+7:34,Alabama,Alex Reese,Three Point Jumper,54,61
+7:14,Murray State,Tevin Brown,Missed Three Point Jumper,54,61
+7:14,Alabama,John Petty,Defensive Rebound,54,61
+6:52,Alabama,Galin Smith,Missed Jumper,54,61
+6:52,Murray State,Shaq Buchanan,Defensive Rebound,54,61
+6:30,Murray State,Anthony Smith,Missed Jumper,54,61
+6:30,Alabama,John Petty,Defensive Rebound,54,61
+6:23,Alabama,Galin Smith,Foul,54,61
+6:23,Alabama,Galin Smith,Turnover,54,61
+6:12,Alabama,Kira Lewis Jr.,Foul,54,61
+6:08,Alabama,Herbert Jones,Foul,54,61
+6:08,Murray State,Ja Morant,Missed Free Throw,54,61
+6:08,Alabama,John Petty,Defensive Rebound,54,61
+5:47,Alabama,John Petty,Layup,54,63
+5:30,Murray State,Mike Davis,Three Point Jumper,57,63
+5:30,Murray State,None,None,57,63
+5:19,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,57,63
+5:19,Murray State,Tevin Brown,Defensive Rebound,57,63
+4:59,Murray State,Tevin Brown,Foul,57,63
+4:59,Murray State,Tevin Brown,Turnover,57,63
+4:37,Alabama,Dazon Ingram,Turnover,57,63
+4:37,Murray State,Ja Morant,Dunk,59,63
+4:37,Alabama,Alex Reese,Missed Jumper,59,63
+4:37,Alabama,Kira Lewis Jr.,Offensive Rebound,59,63
+4:37,Alabama,Kira Lewis Jr.,Missed Jumper,59,63
+4:37,Alabama,Herbert Jones,Offensive Rebound,59,63
+4:37,Alabama,Kira Lewis Jr.,Layup,59,65
+4:20,Murray State,Ja Morant,Turnover,59,65
+3:51,Alabama,None,None,59,65
+3:24,Alabama,John Petty,Dunk,59,67
+3:06,Murray State,Ja Morant,Missed Three Point Jumper,59,67
+3:06,Alabama,Herbert Jones,Defensive Rebound,59,67
+2:40,Alabama,Herbert Jones,Turnover,59,67
+2:24,Alabama,Dazon Ingram,Foul,59,67
+2:24,Murray State,Mike Davis,Missed Free Throw,59,67
+2:24,Murray State,None,Team Rebound,59,67
+2:19,Murray State,Mike Davis,Free Throw,60,67
+2:12,Alabama,Dazon Ingram,Turnover,60,67
+2:10,Murray State,Shaq Buchanan,Steal,60,67
+2:08,Murray State,Ja Morant,Layup,62,67
+2:06,Alabama,None,None,62,67
+1:56,Alabama,Alex Reese,Missed Three Point Jumper,62,67
+1:56,Murray State,Shaq Buchanan,Defensive Rebound,62,67
+1:47,Alabama,Dazon Ingram,Foul,62,67
+1:47,Murray State,Ja Morant,Free Throw,63,67
+1:47,Murray State,Ja Morant,Free Throw,64,67
+1:39,Alabama,None,None,64,67
+1:36,Alabama,John Petty,Layup,64,69
+1:25,Murray State,Ja Morant,Turnover,64,69
+1:24,Alabama,Alex Reese,Steal,64,69
+1:22,Murray State,Shaq Buchanan,Foul,64,69
+1:22,Alabama,Dazon Ingram,Free Throw,64,70
+1:22,Alabama,Dazon Ingram,Missed Free Throw,64,70
+1:22,Alabama,Donta Hall,Offensive Rebound,64,70
+0:54,Alabama,Alex Reese,Missed Jumper,64,70
+0:54,Murray State,Shaq Buchanan,Defensive Rebound,64,70
+0:50,Alabama,Alex Reese,Foul,64,70
+0:50,Murray State,Ja Morant,Free Throw,65,70
+0:50,Murray State,Ja Morant,Free Throw,66,70
+0:34,Murray State,Brion Whitley,Foul,66,70
+0:34,Alabama,John Petty,Missed Free Throw,66,70
+0:34,Murray State,Brion Sanchious,Defensive Rebound,66,70
+0:26,Murray State,Ja Morant,Jumper,68,70
+0:24,Murray State,Mike Davis,Foul,68,70
+0:24,Alabama,John Petty,Free Throw,68,71
+0:24,Alabama,John Petty,Free Throw,68,72
+0:18,Murray State,Ja Morant,Turnover,68,72
+0:14,Murray State,Mike Davis,Foul,68,72
+0:14,Alabama,Kira Lewis Jr.,Free Throw,68,73
+0:14,Alabama,Kira Lewis Jr.,Free Throw,68,74
+0:09,Murray State,Ja Morant,Dunk,70,74
+0:09,Murray State,None,None,70,74
+0:08,Murray State,Anthony Smith,Foul,70,74
+0:08,Alabama,Kira Lewis Jr.,Free Throw,70,75
+0:08,Alabama,Kira Lewis Jr.,Free Throw,70,76
+0:03,Murray State,Shaq Buchanan,Missed Three Point Jumper,70,76
+0:03,Murray State,Ja Morant,Offensive Rebound,70,76
+0:01,Murray State,Ja Morant,Dunk,72,76
+0:01,Murray State,Tevin Brown,Foul,72,76
+0:01,Alabama,John Petty,Free Throw,72,77
+0:01,Alabama,John Petty,Free Throw,72,78
+0:00,Alabama,None,None,72,78

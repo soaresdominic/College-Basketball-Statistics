@@ -1,0 +1,329 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,Charlotte,Malik Martin,Turnover,0,0
+19:41,Rice,Ako Adams,Steal,0,0
+19:17,Rice,Dylan Jones,Layup,0,2
+18:41,Charlotte,Jon Davis,Turnover,0,2
+18:41,Rice,Oliver Xu,Steal,0,2
+18:29,Rice,Oliver Xu,Missed Jumper,0,2
+18:29,Charlotte,Jon Davis,Defensive Rebound,0,2
+18:15,Charlotte,Malik Martin,Three Point Jumper,3,2
+17:47,Rice,Jack Williams,Missed Jumper,3,2
+17:47,Charlotte,Milos Supica,Defensive Rebound,3,2
+17:40,Charlotte,Jaylan McGill,Missed Three Point Jumper,3,2
+17:40,Rice,Trey Murphy III,Defensive Rebound,3,2
+17:19,Rice,Chris Mullins,Layup,3,4
+16:59,Charlotte,Milos Supica,Missed Jumper,3,4
+16:59,Rice,Quentin Millora-Brown,Block,3,4
+16:59,Rice,Trey Murphy III,Defensive Rebound,3,4
+16:50,Rice,Jack Williams,Jumper,3,6
+16:30,Charlotte,Cooper Robb,Missed Three Point Jumper,3,6
+16:30,Rice,Jack Williams,Defensive Rebound,3,6
+16:12,Rice,Ako Adams,Turnover,3,6
+16:11,Charlotte,Milos Supica,Steal,3,6
+16:08,Charlotte,Jon Davis,Jumper,5,6
+15:48,Rice,Quentin Millora-Brown,Missed Jumper,5,6
+15:48,Charlotte,Cooper Robb,Defensive Rebound,5,6
+15:39,Charlotte,Jon Davis,Missed Three Point Jumper,5,6
+15:39,Rice,Trey Murphy III,Defensive Rebound,5,6
+15:31,Charlotte,Cooper Robb,Foul,5,6
+15:31,Rice,None,None,5,6
+15:30,Charlotte,Jailan Haslem,Foul,5,6
+15:30,Rice,Quentin Millora-Brown,Missed Free Throw,5,6
+15:30,Rice,None,Team Rebound,5,6
+15:30,Rice,Quentin Millora-Brown,Free Throw,5,7
+15:15,Charlotte,Cooper Robb,Missed Jumper,5,7
+15:15,Rice,Rice,Defensive Rebound,5,7
+15:01,Rice,Robert Martin,Missed Three Point Jumper,5,7
+15:01,Rice,Quentin Millora-Brown,Offensive Rebound,5,7
+14:53,Rice,Quentin Millora-Brown,Missed Layup,5,7
+14:53,Charlotte,Dravon Mangum,Defensive Rebound,5,7
+14:46,Charlotte,Jailan Haslem,Dunk,7,7
+14:46,Rice,Trey Murphy III,Foul,7,7
+14:46,Charlotte,Jailan Haslem,Missed Free Throw,7,7
+14:46,Rice,Robert Martin,Defensive Rebound,7,7
+14:27,Charlotte,Jaylan McGill,Foul,7,7
+14:27,Rice,Rice ,Turnover,7,7
+14:09,Charlotte,Cooper Robb,Missed Jumper,7,7
+14:09,Rice,Quentin Millora-Brown,Block,7,7
+14:07,Rice,Robert Martin,Defensive Rebound,7,7
+14:03,Rice,Robert Martin,Jumper,7,9
+14:03,Charlotte,Jaylan McGill,Foul,7,9
+14:03,Rice,Robert Martin,Free Throw,7,10
+13:47,Charlotte,Dravon Mangum,Three Point Jumper,10,10
+13:39,Rice,Ako Adams,Missed Three Point Jumper,10,10
+13:39,Charlotte,Jon Davis,Defensive Rebound,10,10
+13:28,Charlotte,Jon Davis,Missed Jumper,10,10
+13:28,Rice,Rice,Defensive Rebound,10,10
+13:27,Charlotte,Milos Supica,Foul,10,10
+12:57,Rice,Robert Martin,Three Point Jumper,10,13
+12:43,Charlotte,Malik Martin,Missed Three Point Jumper,10,13
+12:43,Rice,Jack Williams,Defensive Rebound,10,13
+12:14,Rice,Drew Peterson,Turnover,10,13
+12:13,Charlotte,Jon Davis,Steal,10,13
+12:08,Charlotte,Jon Davis,Layup,12,13
+12:08,Rice,Drew Peterson,Foul,12,13
+12:08,Charlotte,Jon Davis,Free Throw,13,13
+11:48,Rice,Payton Moore,Missed Three Point Jumper,13,13
+11:48,Charlotte,Charlotte,Defensive Rebound,13,13
+11:45,Rice,None,None,13,13
+11:25,Charlotte,Milos Supica,Missed Jumper,13,13
+11:25,Rice,Drew Peterson,Defensive Rebound,13,13
+11:08,Rice,Ako Adams,Missed Layup,13,13
+11:08,Rice,Rice,Offensive Rebound,13,13
+11:06,Rice,Jack Williams,Three Point Jumper,13,16
+10:51,Charlotte,Milos Supica,Missed Jumper,13,16
+10:51,Rice,Payton Moore,Defensive Rebound,13,16
+10:41,Rice,Drew Peterson,Missed Three Point Jumper,13,16
+10:41,Charlotte,Malik Martin,Defensive Rebound,13,16
+10:20,Charlotte,Jon Davis,Turnover,13,16
+10:19,Rice,Drew Peterson,Steal,13,16
+10:13,Charlotte,Bo Blight,Foul,13,16
+10:06,Rice,Chris Mullins,Missed Three Point Jumper,13,16
+10:06,Rice,Quentin Millora-Brown,Offensive Rebound,13,16
+10:05,Charlotte,Milos Supica,Foul,13,16
+10:05,Rice,Quentin Millora-Brown,Free Throw,13,17
+10:05,Rice,Quentin Millora-Brown,Missed Free Throw,13,17
+10:05,Charlotte,Malik Martin,Defensive Rebound,13,17
+9:42,Charlotte,Jailan Haslem,Missed Jumper,13,17
+9:42,Rice,Quentin Millora-Brown,Defensive Rebound,13,17
+9:17,Rice,Jack Williams,Missed Jumper,13,17
+9:17,Charlotte,Jailan Haslem,Defensive Rebound,13,17
+9:00,Charlotte,Jailan Haslem,Turnover,13,17
+8:59,Rice,Ako Adams,Steal,13,17
+8:53,Rice,Payton Moore,Dunk,13,19
+8:36,Charlotte,Jailan Haslem,Free Throw,14,19
+8:36,Rice,Ako Adams,Foul,14,19
+8:35,Charlotte,Jailan Haslem,Layup,16,19
+8:27,Rice,Quentin Millora-Brown,Layup,16,21
+8:12,Charlotte,Jon Davis,Missed Jumper,16,21
+8:12,Charlotte,Jailan Haslem,Offensive Rebound,16,21
+7:54,Charlotte,Malik Martin,Turnover,16,21
+7:53,Rice,Payton Moore,Steal,16,21
+7:53,Rice,None,None,16,21
+7:42,Rice,Chris Mullins,Missed Jumper,16,21
+7:42,Charlotte,Cooper Robb,Defensive Rebound,16,21
+7:35,Charlotte,Malik Martin,Three Point Jumper,19,21
+7:19,Charlotte,Bo Blight,Foul,19,21
+7:19,Rice,Payton Moore,Missed Free Throw,19,21
+7:19,Rice,None,Team Rebound,19,21
+7:19,Rice,Payton Moore,Free Throw,19,22
+7:08,Rice,Trey Murphy III,Foul,19,22
+6:55,Charlotte,Jon Davis,Turnover,19,22
+6:31,Rice,Chris Mullins,Missed Jumper,19,22
+6:31,Charlotte,Jon Davis,Defensive Rebound,19,22
+6:03,Charlotte,Jon Davis,Missed Three Point Jumper,19,22
+6:03,Rice,Chris Mullins,Defensive Rebound,19,22
+5:41,Rice,Robert Martin,Jumper,19,24
+5:12,Charlotte,Cooper Robb,Three Point Jumper,22,24
+5:01,Rice,Trey Murphy III,Missed Jumper,22,24
+5:01,Charlotte,Malik Martin,Defensive Rebound,22,24
+4:41,Charlotte,Dravon Mangum,Missed Three Point Jumper,22,24
+4:41,Rice,Robert Martin,Defensive Rebound,22,24
+4:10,Rice,Robert Martin,Jumper,22,26
+4:04,Charlotte,John Kitoko,Missed Three Point Jumper,22,26
+4:04,Charlotte,Jon Davis,Offensive Rebound,22,26
+3:57,Charlotte,Jon Davis,Jumper,24,26
+3:26,Rice,None,None,24,26
+3:10,Rice,Chris Mullins,Jumper,24,28
+2:44,Charlotte,Malik Martin,Three Point Jumper,27,28
+2:30,Rice,Ako Adams,Missed Three Point Jumper,27,28
+2:30,Charlotte,Jon Davis,Defensive Rebound,27,28
+2:23,Charlotte,Jon Davis,Missed Three Point Jumper,27,28
+2:23,Charlotte,Jailan Haslem,Offensive Rebound,27,28
+2:19,Charlotte,Jailan Haslem,Dunk,29,28
+2:19,Rice,None,None,29,28
+2:09,Rice,Chris Mullins,Turnover,29,28
+1:45,Charlotte,Malik Martin,Jumper,31,28
+1:26,Rice,Quentin Millora-Brown,Jumper,31,30
+1:06,Charlotte,Malik Martin,Missed Three Point Jumper,31,30
+1:06,Rice,Ako Adams,Defensive Rebound,31,30
+0:41,Rice,Drew Peterson,Missed Three Point Jumper,31,30
+0:41,Charlotte,Jailan Haslem,Defensive Rebound,31,30
+0:31,Charlotte,None,None,31,30
+0:10,Charlotte,Jaylan McGill,Missed Three Point Jumper,31,30
+0:10,Charlotte,Bo Blight,Offensive Rebound,31,30
+0:06,Charlotte,Bo Blight,Layup,33,30
+0:00,Rice,Chris Mullins,Missed Three Point Jumper,33,30
+0:00,Charlotte,Charlotte,Defensive Rebound,33,30
+0:00,Rice,None,None,33,30
+19:43,Rice,Trey Murphy III,Three Point Jumper,33,33
+19:24,Charlotte,Jon Davis,Missed Three Point Jumper,33,33
+19:24,Charlotte,Jailan Haslem,Offensive Rebound,33,33
+19:14,Charlotte,Jaylan McGill,Missed Three Point Jumper,33,33
+19:14,Rice,Ako Adams,Defensive Rebound,33,33
+18:54,Charlotte,Malik Martin,Foul,33,33
+18:46,Rice,Ako Adams,Missed Jumper,33,33
+18:46,Charlotte,Jailan Haslem,Defensive Rebound,33,33
+18:27,Charlotte,Malik Martin,Missed Three Point Jumper,33,33
+18:27,Rice,Trey Murphy III,Defensive Rebound,33,33
+18:10,Rice,Chris Mullins,Missed Jumper,33,33
+18:10,Charlotte,Jaylan McGill,Block,33,33
+18:08,Rice,Jack Williams,Offensive Rebound,33,33
+18:08,Charlotte,Cooper Robb,Foul,33,33
+18:08,Rice,Jack Williams,Free Throw,33,34
+18:08,Rice,Jack Williams,Free Throw,33,35
+17:40,Charlotte,Jon Davis,Missed Three Point Jumper,33,35
+17:40,Charlotte,Milos Supica,Offensive Rebound,33,35
+17:37,Rice,Ako Adams,Foul,33,35
+17:34,Charlotte,Milos Supica,Missed Layup,33,35
+17:34,Rice,Quentin Millora-Brown,Defensive Rebound,33,35
+17:33,Charlotte,Milos Supica,Foul,33,35
+17:12,Charlotte,Milos Supica,Foul,33,35
+17:10,Rice,Quentin Millora-Brown,Missed Jumper,33,35
+17:10,Charlotte,Malik Martin,Defensive Rebound,33,35
+17:01,Charlotte,Jaylan McGill,Missed Jumper,33,35
+17:01,Rice,Quentin Millora-Brown,Block,33,35
+16:59,Rice,Quentin Millora-Brown,Defensive Rebound,33,35
+16:43,Rice,Ako Adams,Three Point Jumper,33,38
+16:40,Charlotte,None,None,33,38
+16:26,Charlotte,Malik Martin,Missed Three Point Jumper,33,38
+16:26,Charlotte,Jailan Haslem,Offensive Rebound,33,38
+16:23,Charlotte,Jailan Haslem,Jumper,35,38
+16:23,Rice,Quentin Millora-Brown,Foul,35,38
+16:23,Charlotte,Jailan Haslem,Free Throw,36,38
+15:56,Charlotte,Jaylan McGill,Foul,36,38
+15:56,Rice,None,None,36,38
+15:56,Rice,Ako Adams,Free Throw,36,39
+15:56,Rice,Ako Adams,Free Throw,36,40
+15:44,Charlotte,Cooper Robb,Turnover,36,40
+15:43,Rice,Chris Mullins,Steal,36,40
+15:41,Rice,Ako Adams,Layup,36,42
+15:17,Charlotte,Jon Davis,Turnover,36,42
+15:16,Rice,Ako Adams,Steal,36,42
+15:11,Rice,Ako Adams,Missed Jumper,36,42
+15:11,Charlotte,Charlotte,Defensive Rebound,36,42
+14:43,Charlotte,Jon Davis,Missed Three Point Jumper,36,42
+14:43,Charlotte,Dravon Mangum,Offensive Rebound,36,42
+14:39,Charlotte,Dravon Mangum,Jumper,38,42
+14:22,Rice,Drew Peterson,Turnover,38,42
+14:04,Charlotte,Jon Davis,Turnover,38,42
+13:45,Rice,Chris Mullins,Layup,38,44
+13:45,Charlotte,Cooper Robb,Foul,38,44
+13:45,Rice,Chris Mullins,Free Throw,38,45
+13:30,Charlotte,Malik Martin,Turnover,38,45
+13:30,Rice,Robert Martin,Steal,38,45
+13:30,Charlotte,Malik Martin,Foul,38,45
+13:30,Rice,Robert Martin,Free Throw,38,46
+13:30,Rice,Robert Martin,Free Throw,38,47
+13:13,Charlotte,Cooper Robb,Three Point Jumper,41,47
+12:48,Rice,Chris Mullins,Turnover,41,47
+12:23,Rice,Chris Mullins,Foul,41,47
+12:23,Charlotte,Jon Davis,Free Throw,42,47
+12:23,Charlotte,Jon Davis,Missed Free Throw,42,47
+12:23,Rice,Robert Martin,Defensive Rebound,42,47
+11:56,Rice,Robert Martin,Missed Jumper,42,47
+11:56,Charlotte,Dravon Mangum,Defensive Rebound,42,47
+11:43,Rice,Quentin Millora-Brown,Foul,42,47
+11:43,Rice,None,None,42,47
+11:38,Rice,Payton Moore,Foul,42,47
+11:31,Charlotte,Dravon Mangum,Missed Three Point Jumper,42,47
+11:31,Rice,Payton Moore,Defensive Rebound,42,47
+11:04,Rice,Robert Martin,Missed Three Point Jumper,42,47
+11:04,Rice,Payton Moore,Offensive Rebound,42,47
+10:39,Rice,Quentin Millora-Brown,Missed Jumper,42,47
+10:39,Charlotte,Cooper Robb,Defensive Rebound,42,47
+10:30,Charlotte,Cooper Robb,Layup,44,47
+10:30,Rice,Payton Moore,Foul,44,47
+10:29,Charlotte,Cooper Robb,Missed Free Throw,44,47
+10:29,Rice,Jack Williams,Defensive Rebound,44,47
+10:09,Charlotte,Jaylan McGill,Foul,44,47
+10:09,Rice,Chris Mullins,Free Throw,44,48
+10:09,Rice,Chris Mullins,Free Throw,44,49
+9:50,Charlotte,Jon Davis,Layup,46,49
+9:29,Rice,Chris Mullins,Missed Jumper,46,49
+9:29,Charlotte,Dravon Mangum,Block,46,49
+9:28,Charlotte,Jon Davis,Defensive Rebound,46,49
+9:23,Charlotte,Jon Davis,Layup,48,49
+9:23,Rice,Payton Moore,Foul,48,49
+9:23,Charlotte,Jon Davis,Free Throw,49,49
+9:10,Rice,Chris Mullins,Missed Three Point Jumper,49,49
+9:10,Rice,Jack Williams,Offensive Rebound,49,49
+9:06,Rice,Jack Williams,Missed Jumper,49,49
+9:06,Charlotte,Dravon Mangum,Defensive Rebound,49,49
+9:00,Charlotte,Dravon Mangum,Dunk,51,49
+8:48,Rice,None,None,51,49
+8:33,Rice,Robert Martin,Three Point Jumper,51,52
+8:09,Charlotte,Jon Davis,Missed Jumper,51,52
+8:09,Rice,Robert Martin,Defensive Rebound,51,52
+8:02,Rice,Robert Martin,Turnover,51,52
+8:02,Charlotte,Bo Blight,Steal,51,52
+7:54,Rice,Ako Adams,Foul,51,52
+7:54,Rice,None,None,51,52
+7:54,Charlotte,Cooper Robb,Free Throw,52,52
+7:54,Charlotte,Cooper Robb,Free Throw,53,52
+7:29,Rice,Trey Murphy III,Jumper,53,54
+7:29,Charlotte,Bo Blight,Foul,53,54
+7:29,Rice,Trey Murphy III,Free Throw,53,55
+7:15,Charlotte,Charlotte ,Turnover,53,55
+6:59,Rice,Chris Mullins,Missed Three Point Jumper,53,55
+6:59,Charlotte,Jailan Haslem,Defensive Rebound,53,55
+6:27,Charlotte,Jon Davis,Jumper,55,55
+6:11,Rice,Chris Mullins,Jumper,55,57
+5:46,Charlotte,Cooper Robb,Missed Three Point Jumper,55,57
+5:46,Charlotte,Dravon Mangum,Offensive Rebound,55,57
+5:42,Rice,Trey Murphy III,Foul,55,57
+5:42,Charlotte,Dravon Mangum,Missed Free Throw,55,57
+5:42,Rice,Chris Mullins,Defensive Rebound,55,57
+5:24,Rice,Ako Adams,Layup,55,59
+4:53,Charlotte,Jon Davis,Jumper,57,59
+4:37,Rice,Ako Adams,Missed Jumper,57,59
+4:37,Charlotte,Bo Blight,Block,57,59
+4:37,Rice,Rice,Offensive Rebound,57,59
+4:27,Rice,Chris Mullins,Foul,57,59
+4:27,Rice,Chris Mullins,Turnover,57,59
+4:15,Rice,Trey Murphy III,Foul,57,59
+4:15,Charlotte,Jon Davis,Missed Free Throw,57,59
+4:15,Charlotte,None,Team Rebound,57,59
+4:15,Charlotte,Jon Davis,Free Throw,58,59
+4:05,Charlotte,Dravon Mangum,Foul,58,59
+4:05,Rice,Quentin Millora-Brown,Missed Free Throw,58,59
+4:05,Rice,None,Team Rebound,58,59
+4:05,Rice,Quentin Millora-Brown,Missed Free Throw,58,59
+4:05,Charlotte,Bo Blight,Defensive Rebound,58,59
+3:41,Charlotte,Jon Davis,Three Point Jumper,61,59
+3:17,Rice,Quentin Millora-Brown,Missed Jumper,61,59
+3:17,Charlotte,Cooper Robb,Defensive Rebound,61,59
+2:54,Charlotte,Jon Davis,Three Point Jumper,64,59
+2:53,Charlotte,None,None,64,59
+2:42,Rice,Ako Adams,Missed Jumper,64,59
+2:42,Charlotte,Dravon Mangum,Block,64,59
+2:40,Charlotte,Jon Davis,Defensive Rebound,64,59
+2:15,Charlotte,Jon Davis,Three Point Jumper,67,59
+1:44,Rice,Robert Martin,Missed Three Point Jumper,67,59
+1:44,Charlotte,Jon Davis,Defensive Rebound,67,59
+1:17,Charlotte,Dravon Mangum,Layup,69,59
+1:10,Rice,Ako Adams,Missed Three Point Jumper,69,59
+1:10,Charlotte,Jon Davis,Defensive Rebound,69,59
+1:07,Rice,Jack Williams,Foul,69,59
+1:07,Charlotte,Jon Davis,Missed Free Throw,69,59
+1:07,Charlotte,None,Team Rebound,69,59
+1:07,Charlotte,Jon Davis,Free Throw,70,59
+0:59,Rice,Jack Williams,Jumper,70,61
+0:49,Rice,Drew Peterson,Foul,70,61
+0:49,Charlotte,Malik Martin,Free Throw,71,61
+0:49,Charlotte,Malik Martin,Free Throw,72,61
+0:37,Rice,Jack Williams,Layup,72,63
+0:36,Rice,None,None,72,63
+0:35,Rice,Drew Peterson,Foul,72,63
+0:35,Charlotte,Malik Martin,Free Throw,73,63
+0:35,Charlotte,Malik Martin,Missed Free Throw,73,63
+0:35,Rice,Jack Williams,Defensive Rebound,73,63
+0:25,Charlotte,Bo Blight,Foul,73,63
+0:25,Rice,Chris Mullins,Free Throw,73,64
+0:25,Rice,Chris Mullins,Free Throw,73,65
+0:24,Rice,Robert Martin,Foul,73,65
+0:24,Charlotte,Dravon Mangum,Free Throw,74,65
+0:24,Charlotte,Dravon Mangum,Free Throw,75,65
+0:19,Rice,Ako Adams,Layup,75,67
+0:19,Rice,None,None,75,67
+0:18,Rice,Drew Peterson,Foul,75,67
+0:18,Charlotte,Malik Martin,Free Throw,76,67
+0:18,Charlotte,Malik Martin,Free Throw,77,67
+0:14,Rice,Ako Adams,Three Point Jumper,77,70
+0:10,Rice,Ako Adams,Foul,77,70
+0:06,Charlotte,Bo Blight,Defensive Rebound,77,70
+0:02,Rice,Robert Martin,Missed Jumper,77,70
+0:00,Charlotte,Cooper Robb,Missed Free Throw,77,70
+0:00,Charlotte,None,Team Rebound,77,70
+0:00,Charlotte,Cooper Robb,Free Throw,78,70
+0:00,Rice,None,None,77,70

@@ -1,0 +1,371 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,UConn,None,None,0,0
+19:35,UConn,Christian Vital,Turnover,0,0
+19:07,Iowa,Tyler Cook,Turnover,0,0
+19:07,UConn,Alterique Gilbert,Steal,0,0
+19:02,UConn,Alterique Gilbert,Layup,2,0
+18:51,Iowa,Jordan Bohannon,Missed Jumper,2,0
+18:51,UConn,Alterique Gilbert,Defensive Rebound,2,0
+18:48,Iowa,Jordan Bohannon,Foul,2,0
+18:31,Iowa,Jordan Bohannon,Foul,2,0
+18:15,UConn,Alterique Gilbert,Missed Three Point Jumper,2,0
+18:14,UConn,None,Team Rebound,2,0
+18:13,UConn,UConn ,Turnover,2,0
+17:57,Iowa,Luka Garza,Turnover,2,0
+17:42,UConn,Jalen Adams,Turnover,2,0
+17:42,Iowa,Isaiah Moss,Steal,2,0
+17:36,UConn,Tyler Polley,Foul,2,0
+17:36,Iowa,Isaiah Moss,Free Throw,2,1
+17:36,Iowa,Isaiah Moss,Free Throw,2,2
+17:29,UConn,Alterique Gilbert,Turnover,2,2
+17:13,UConn,Josh Carlton,Foul,2,2
+16:57,UConn,Alterique Gilbert,Foul,2,2
+16:57,Iowa,Connor McCaffery,Missed Free Throw,2,2
+16:57,Iowa,None,Team Rebound,2,2
+16:57,Iowa,Connor McCaffery,Free Throw,2,3
+16:49,UConn,Jalen Adams,Turnover,2,3
+16:40,Iowa,Tyler Cook,Turnover,2,3
+16:40,UConn,Tyler Polley,Steal,2,3
+16:37,UConn,Tyler Polley,Dunk,4,3
+16:20,Iowa,Tyler Cook,Missed Dunk,4,3
+16:20,Iowa,Joe Wieskamp,Offensive Rebound,4,3
+16:13,Iowa,None,None,4,3
+16:10,UConn,Christian Vital,Foul,4,3
+16:01,Iowa,Luka Garza,Jumper,4,5
+15:42,UConn,Josh Carlton,Turnover,4,5
+15:42,Iowa,None,None,4,5
+15:19,Iowa,Luka Garza,Missed Layup,4,5
+15:19,UConn,Alterique Gilbert,Defensive Rebound,4,5
+15:13,UConn,Jalen Adams,Missed Layup,4,5
+15:13,Iowa,Iowa,Defensive Rebound,4,5
+14:54,Iowa,Tyler Cook,Jumper,4,7
+14:37,UConn,Alterique Gilbert,Turnover,4,7
+14:32,Iowa,Joe Wieskamp,Missed Three Point Jumper,4,7
+14:32,Iowa,Connor McCaffery,Offensive Rebound,4,7
+14:28,Iowa,Luka Garza,Jumper,4,9
+14:00,UConn,Tyler Polley,Missed Three Point Jumper,4,9
+14:00,Iowa,Luka Garza,Defensive Rebound,4,9
+13:52,Iowa,Isaiah Moss,Three Point Jumper,4,12
+13:47,UConn,None,None,4,12
+13:41,UConn,Tyler Polley,Missed Layup,4,12
+13:41,UConn,Eric Cobb,Offensive Rebound,4,12
+13:41,UConn,None,None,4,12
+13:41,UConn,Eric Cobb,Offensive Rebound,4,12
+13:37,UConn,Eric Cobb,Layup,6,12
+13:17,Iowa,Tyler Cook,Layup,6,14
+12:55,UConn,Eric Cobb,Layup,8,14
+12:42,UConn,Eric Cobb,Foul,8,14
+12:25,Iowa,Tyler Cook,Missed Jumper,8,14
+12:25,UConn,Christian Vital,Defensive Rebound,8,14
+12:25,UConn,Christian Vital,Turnover,8,14
+12:12,Iowa,Connor McCaffery,Layup,8,16
+11:51,UConn,Christian Vital,Missed Three Point Jumper,8,16
+11:51,UConn,Eric Cobb,Offensive Rebound,8,16
+11:47,Iowa,Nicholas Baer,Foul,8,16
+11:47,Iowa,None,None,8,16
+11:47,UConn,Eric Cobb,Free Throw,9,16
+11:47,UConn,Eric Cobb,Missed Free Throw,9,16
+11:47,Iowa,None,Team Rebound,9,16
+11:32,Iowa,Nicholas Baer,Layup,9,18
+11:09,Iowa,Ryan Kriener,Foul,9,18
+11:09,UConn,Christian Vital,Free Throw,10,18
+11:09,UConn,Christian Vital,Missed Free Throw,10,18
+11:09,Iowa,Luka Garza,Defensive Rebound,10,18
+11:09,UConn,Kassoum Yakwe,Foul,10,18
+11:09,Iowa,Luka Garza,Free Throw,10,19
+11:09,Iowa,Luka Garza,Free Throw,10,20
+11:09,UConn,Kassoum Yakwe,Turnover,10,20
+10:49,UConn,Tarin Smith,Foul,10,20
+10:49,Iowa,Tyler Cook,Free Throw,10,21
+10:49,Iowa,Tyler Cook,Missed Free Throw,10,21
+10:49,UConn,Eric Cobb,Defensive Rebound,10,21
+10:37,UConn,Alterique Gilbert,Layup,12,21
+10:16,Iowa,Maishe Dailey,Missed Three Point Jumper,12,21
+10:16,UConn,Tyler Polley,Defensive Rebound,12,21
+10:00,UConn,Alterique Gilbert,Turnover,12,21
+10:00,Iowa,Nicholas Baer,Steal,12,21
+9:51,Iowa,Tyler Cook,Missed Layup,12,21
+9:51,Iowa,Luka Garza,Offensive Rebound,12,21
+9:47,Iowa,Luka Garza,Missed Layup,12,21
+9:47,Iowa,Iowa,Offensive Rebound,12,21
+9:38,Iowa,Luka Garza,Missed Jumper,12,21
+9:38,Iowa,Nicholas Baer,Offensive Rebound,12,21
+9:24,Iowa,Luka Garza,Three Point Jumper,12,24
+9:14,UConn,Christian Vital,Missed Jumper,12,24
+9:14,Iowa,Connor McCaffery,Defensive Rebound,12,24
+9:06,UConn,Eric Cobb,Foul,12,24
+9:06,Iowa,Luka Garza,Free Throw,12,25
+9:06,Iowa,Luka Garza,Free Throw,12,26
+8:56,UConn,Tyler Polley,Turnover,12,26
+8:39,Iowa,Connor McCaffery,Jumper,12,28
+8:24,Iowa,Connor McCaffery,Foul,12,28
+8:14,UConn,Jalen Adams,Missed Three Point Jumper,12,28
+8:14,UConn,Tyler Polley,Offensive Rebound,12,28
+8:08,UConn,Tyler Polley,Turnover,12,28
+8:01,Iowa,Isaiah Moss,Foul,12,28
+8:01,Iowa,Isaiah Moss,Turnover,12,28
+7:47,UConn,Jalen Adams,Jumper,14,28
+7:27,Iowa,Isaiah Moss,Three Point Jumper,14,31
+7:14,Iowa,Luka Garza,Foul,14,31
+7:14,Iowa,None,None,14,31
+7:14,UConn,Josh Carlton,Free Throw,15,31
+7:14,UConn,Josh Carlton,Free Throw,16,31
+6:58,Iowa,Tyler Cook,Jumper,16,33
+6:58,UConn,Tyler Polley,Foul,16,33
+6:58,Iowa,Tyler Cook,Missed Free Throw,16,33
+6:58,UConn,Josh Carlton,Defensive Rebound,16,33
+6:48,UConn,Josh Carlton,Missed Layup,16,33
+6:48,Iowa,Luka Garza,Block,16,33
+6:48,UConn,UConn,Offensive Rebound,16,33
+6:44,UConn,Jalen Adams,Missed Three Point Jumper,16,33
+6:44,Iowa,Joe Wieskamp,Defensive Rebound,16,33
+6:26,UConn,None,None,16,33
+6:26,Iowa,Joe Wieskamp,Turnover,16,33
+6:26,UConn,Tarin Smith,Steal,16,33
+6:09,UConn,Tyler Polley,Missed Jumper,16,33
+6:09,UConn,Josh Carlton,Offensive Rebound,16,33
+6:00,UConn,Josh Carlton,Missed Layup,16,33
+6:00,Iowa,Joe Wieskamp,Defensive Rebound,16,33
+5:52,Iowa,Isaiah Moss,Missed Three Point Jumper,16,33
+5:52,UConn,UConn,Defensive Rebound,16,33
+5:38,UConn,Alterique Gilbert,Missed Three Point Jumper,16,33
+5:38,UConn,Tyler Polley,Offensive Rebound,16,33
+5:34,UConn,Tyler Polley,Layup,18,33
+5:17,Iowa,Luka Garza,Missed Three Point Jumper,18,33
+5:17,UConn,Tarin Smith,Defensive Rebound,18,33
+5:09,UConn,Tarin Smith,Missed Jumper,18,33
+5:09,Iowa,Luka Garza,Defensive Rebound,18,33
+5:00,Iowa,Joe Wieskamp,Missed Jumper,18,33
+5:00,UConn,Alterique Gilbert,Defensive Rebound,18,33
+4:54,UConn,Tarin Smith,Layup,20,33
+4:42,Iowa,Isaiah Moss,Missed Layup,20,33
+4:42,UConn,UConn,Defensive Rebound,20,33
+4:14,UConn,Jalen Adams,Layup,22,33
+4:12,Iowa,None,None,22,33
+4:01,UConn,Isaiah Whaley,Foul,22,33
+4:01,Iowa,Tyler Cook,Missed Free Throw,22,33
+4:01,Iowa,None,Team Rebound,22,33
+4:01,Iowa,Tyler Cook,Free Throw,22,34
+3:38,UConn,Jalen Adams,Missed Jumper,22,34
+3:38,UConn,Kassoum Yakwe,Offensive Rebound,22,34
+3:34,UConn,Kassoum Yakwe,Layup,24,34
+3:17,Iowa,Luka Garza,Three Point Jumper,24,37
+2:59,UConn,Kassoum Yakwe,Missed Jumper,24,37
+2:59,Iowa,Tyler Cook,Defensive Rebound,24,37
+2:56,UConn,Kassoum Yakwe,Foul,24,37
+2:56,Iowa,Tyler Cook,Missed Free Throw,24,37
+2:56,Iowa,None,Team Rebound,24,37
+2:56,Iowa,Tyler Cook,Free Throw,24,38
+2:42,UConn,Tarin Smith,Turnover,24,38
+2:42,Iowa,Tyler Cook,Steal,24,38
+2:34,Iowa,Luka Garza,Layup,24,40
+2:26,UConn,Alterique Gilbert,Missed Jumper,24,40
+2:26,Iowa,Nicholas Baer,Block,24,40
+2:26,Iowa,Nicholas Baer,Defensive Rebound,24,40
+2:08,Iowa,Luka Garza,Missed Three Point Jumper,24,40
+2:08,UConn,Kassoum Yakwe,Defensive Rebound,24,40
+1:53,UConn,Tarin Smith,Missed Three Point Jumper,24,40
+1:53,Iowa,Nicholas Baer,Defensive Rebound,24,40
+1:29,Iowa,Connor McCaffery,Missed Three Point Jumper,24,40
+1:29,UConn,Jalen Adams,Defensive Rebound,24,40
+1:17,Iowa,Tyler Cook,Foul,24,40
+1:17,UConn,Tarin Smith,Missed Free Throw,24,40
+1:17,Iowa,Nicholas Baer,Defensive Rebound,24,40
+1:04,UConn,Alterique Gilbert,Foul,24,40
+1:04,Iowa,Connor McCaffery,Missed Free Throw,24,40
+1:04,Iowa,None,Team Rebound,24,40
+1:04,Iowa,Connor McCaffery,Free Throw,24,41
+0:53,UConn,Eric Cobb,Layup,26,41
+0:53,Iowa,Isaiah Moss,Foul,26,41
+0:53,UConn,Eric Cobb,Free Throw,27,41
+0:34,Iowa,Connor McCaffery,Missed Layup,27,41
+0:34,Iowa,Luka Garza,Offensive Rebound,27,41
+0:30,Iowa,Luka Garza,Layup,27,43
+0:05,UConn,Jalen Adams,Missed Jumper,27,43
+0:05,Iowa,Iowa,Defensive Rebound,27,43
+0:00,Iowa,None,None,27,43
+20:00,Iowa,None,None,27,43
+19:50,UConn,Tyler Polley,Foul,27,43
+19:48,Iowa,Luka Garza,Jumper,27,45
+19:41,UConn,Alterique Gilbert,Layup,29,45
+19:21,UConn,Christian Vital,Foul,29,45
+19:11,Iowa,Isaiah Moss,Missed Layup,29,45
+19:11,UConn,Tyler Polley,Defensive Rebound,29,45
+19:04,UConn,Jalen Adams,Missed Layup,29,45
+19:04,UConn,Eric Cobb,Offensive Rebound,29,45
+19:00,UConn,Eric Cobb,Layup,31,45
+18:46,Iowa,Tyler Cook,Jumper,31,47
+18:19,UConn,Alterique Gilbert,Missed Three Point Jumper,31,47
+18:19,Iowa,Iowa,Defensive Rebound,31,47
+18:01,UConn,Tyler Polley,Foul,31,47
+18:01,Iowa,Tyler Cook,Free Throw,31,48
+18:01,Iowa,Tyler Cook,Free Throw,31,49
+17:49,UConn,Jalen Adams,Missed Jumper,31,49
+17:49,Iowa,Joe Wieskamp,Defensive Rebound,31,49
+17:32,Iowa,Tyler Cook,Jumper,31,51
+17:14,Iowa,Tyler Cook,Foul,31,51
+17:14,UConn,Christian Vital,Missed Free Throw,31,51
+17:14,UConn,None,Team Rebound,31,51
+17:14,UConn,Christian Vital,Free Throw,32,51
+16:51,Iowa,Tyler Cook,Turnover,32,51
+16:51,UConn,Tarin Smith,Steal,32,51
+16:36,UConn,Jalen Adams,Missed Layup,32,51
+16:36,UConn,Eric Cobb,Offensive Rebound,32,51
+16:36,UConn,None,None,34,51
+16:11,Iowa,Isaiah Moss,Foul,34,51
+16:11,Iowa,Isaiah Moss,Turnover,34,51
+15:58,UConn,Alterique Gilbert,Turnover,34,51
+15:58,Iowa,Joe Wieskamp,Steal,34,51
+15:49,UConn,Christian Vital,Foul,34,51
+15:49,Iowa,None,None,34,51
+15:49,Iowa,Joe Wieskamp,Missed Free Throw,34,51
+15:49,Iowa,None,Team Rebound,34,51
+15:49,Iowa,Joe Wieskamp,Free Throw,34,52
+15:25,UConn,Tarin Smith,Turnover,34,52
+15:15,Iowa,Iowa ,Turnover,34,52
+15:01,UConn,Eric Cobb,Turnover,34,52
+15:01,Iowa,Joe Wieskamp,Steal,34,52
+14:58,Iowa,Joe Wieskamp,Turnover,34,52
+14:58,UConn,Alterique Gilbert,Steal,34,52
+14:55,UConn,Alterique Gilbert,Missed Three Point Jumper,34,52
+14:55,UConn,UConn,Offensive Rebound,34,52
+14:44,UConn,Brendan Adams,Missed Three Point Jumper,34,52
+14:44,Iowa,Luka Garza,Defensive Rebound,34,52
+14:22,Iowa,Nicholas Baer,Turnover,34,52
+14:22,UConn,Eric Cobb,Steal,34,52
+14:17,UConn,Jalen Adams,Layup,36,52
+13:52,Iowa,Tyler Cook,Dunk,36,54
+13:39,UConn,Tarin Smith,Missed Three Point Jumper,36,54
+13:39,Iowa,Iowa,Defensive Rebound,36,54
+13:19,Iowa,Connor McCaffery,Jumper,36,56
+13:03,UConn,Eric Cobb,Jumper,38,56
+12:46,Iowa,Luka Garza,Missed Jumper,38,56
+12:46,Iowa,Ryan Kriener,Offensive Rebound,38,56
+12:42,Iowa,Ryan Kriener,Layup,38,58
+12:21,UConn,Christian Vital,Missed Three Point Jumper,38,58
+12:21,Iowa,Nicholas Baer,Defensive Rebound,38,58
+12:11,Iowa,Ryan Kriener,Turnover,38,58
+11:55,UConn,Jalen Adams,Jumper,40,58
+11:43,Iowa,Connor McCaffery,Layup,40,60
+11:43,UConn,Kassoum Yakwe,Foul,40,60
+11:43,Iowa,None,None,40,60
+11:43,Iowa,Connor McCaffery,Free Throw,40,61
+11:25,UConn,Christian Vital,Layup,42,61
+11:17,UConn,Christian Vital,Foul,42,61
+11:08,Iowa,Ryan Kriener,Missed Jumper,42,61
+11:08,Iowa,Ryan Kriener,Offensive Rebound,42,61
+11:05,Iowa,Ryan Kriener,Jumper,42,63
+10:48,UConn,Jalen Adams,Turnover,42,63
+10:33,Iowa,Maishe Dailey,Turnover,42,63
+10:33,UConn,Tarin Smith,Steal,42,63
+10:26,UConn,Tyler Polley,Missed Layup,42,63
+10:26,Iowa,Tyler Cook,Defensive Rebound,42,63
+10:20,UConn,UConn,Foul,42,63
+10:20,UConn,UConn,Foul,42,63
+10:20,Iowa,Jordan Bohannon,Missed Free Throw,42,63
+10:20,Iowa,None,Team Rebound,42,63
+10:20,Iowa,Jordan Bohannon,Free Throw,42,64
+10:11,Iowa,Jordan Bohannon,Jumper,42,66
+9:51,UConn,Alterique Gilbert,Three Point Jumper,45,66
+9:48,UConn,None,None,45,66
+9:32,UConn,Jalen Adams,Foul,45,66
+9:32,Iowa,Connor McCaffery,Free Throw,45,67
+9:32,Iowa,Connor McCaffery,Free Throw,45,68
+9:18,UConn,Tarin Smith,Jumper,47,68
+8:49,Iowa,Tyler Cook,Missed Jumper,47,68
+8:49,UConn,Alterique Gilbert,Defensive Rebound,47,68
+8:41,UConn,Tyler Polley,Missed Layup,47,68
+8:41,Iowa,Jordan Bohannon,Defensive Rebound,47,68
+8:37,Iowa,Jordan Bohannon,Turnover,47,68
+8:37,UConn,Eric Cobb,Steal,47,68
+8:34,UConn,Alterique Gilbert,Missed Three Point Jumper,47,68
+8:34,Iowa,Tyler Cook,Defensive Rebound,47,68
+8:26,Iowa,Tyler Cook,Dunk,47,70
+8:10,UConn,Tarin Smith,Missed Jumper,47,70
+8:10,Iowa,Tyler Cook,Defensive Rebound,47,70
+7:55,Iowa,Isaiah Moss,Missed Jumper,47,70
+7:55,UConn,Tarin Smith,Defensive Rebound,47,70
+7:50,Iowa,Connor McCaffery,Foul,47,70
+7:50,Iowa,None,None,47,70
+7:40,UConn,Jalen Adams,Missed Three Point Jumper,47,70
+7:40,Iowa,Joe Wieskamp,Defensive Rebound,47,70
+7:19,Iowa,Joe Wieskamp,Turnover,47,70
+7:19,UConn,Tarin Smith,Steal,47,70
+7:14,UConn,Christian Vital,Missed Layup,47,70
+7:14,Iowa,Isaiah Moss,Defensive Rebound,47,70
+7:07,Iowa,Tyler Cook,Dunk,47,72
+6:51,UConn,Christian Vital,Three Point Jumper,50,72
+6:47,UConn,None,None,50,72
+6:28,Iowa,Jordan Bohannon,Missed Three Point Jumper,50,72
+6:28,Iowa,Joe Wieskamp,Offensive Rebound,50,72
+6:12,Iowa,Joe Wieskamp,Turnover,50,72
+6:02,UConn,Alterique Gilbert,Missed Three Point Jumper,50,72
+6:02,UConn,Jalen Adams,Offensive Rebound,50,72
+5:58,Iowa,Joe Wieskamp,Foul,50,72
+5:58,UConn,Jalen Adams,Free Throw,51,72
+5:58,UConn,Jalen Adams,Free Throw,52,72
+5:46,Iowa,Luka Garza,Missed Three Point Jumper,52,72
+5:46,Iowa,Tyler Cook,Offensive Rebound,52,72
+5:41,Iowa,Tyler Cook,Turnover,52,72
+5:41,UConn,Brendan Adams,Steal,52,72
+5:35,UConn,Jalen Adams,Three Point Jumper,55,72
+5:14,UConn,Jalen Adams,Foul,55,72
+5:14,Iowa,Jordan Bohannon,Free Throw,55,73
+5:14,Iowa,Jordan Bohannon,Free Throw,55,74
+5:04,UConn,Jalen Adams,Three Point Jumper,58,74
+4:49,Iowa,Nicholas Baer,Turnover,58,74
+4:45,Iowa,Luka Garza,Foul,58,74
+4:45,UConn,Alterique Gilbert,Free Throw,59,74
+4:45,UConn,Alterique Gilbert,Missed Free Throw,59,74
+4:45,Iowa,Tyler Cook,Defensive Rebound,59,74
+4:30,Iowa,Jordan Bohannon,Turnover,59,74
+4:30,UConn,Jalen Adams,Steal,59,74
+4:26,UConn,Jalen Adams,Layup,61,74
+4:24,Iowa,None,None,61,74
+4:03,UConn,Tarin Smith,Foul,61,74
+4:03,Iowa,Connor McCaffery,Free Throw,61,75
+4:03,Iowa,Connor McCaffery,Free Throw,61,76
+3:53,UConn,Alterique Gilbert,Layup,63,76
+3:27,UConn,Eric Cobb,Foul,63,76
+3:27,Iowa,Luka Garza,Free Throw,63,77
+3:27,Iowa,Luka Garza,Free Throw,63,78
+3:18,UConn,Alterique Gilbert,Missed Three Point Jumper,63,78
+3:18,Iowa,Luka Garza,Defensive Rebound,63,78
+3:04,Iowa,Luka Garza,Missed Jumper,63,78
+3:04,Iowa,Tyler Cook,Offensive Rebound,63,78
+3:04,Iowa,None,None,63,80
+3:00,UConn,Eric Cobb,Foul,63,80
+3:00,Iowa,Tyler Cook,Free Throw,63,81
+2:47,UConn,Jalen Adams,Layup,65,81
+2:42,Iowa,Connor McCaffery,Turnover,65,81
+2:42,UConn,Christian Vital,Steal,65,81
+2:40,UConn,Christian Vital,Layup,67,81
+2:40,Iowa,Connor McCaffery,Foul,67,81
+2:40,UConn,Christian Vital,Free Throw,68,81
+2:33,Iowa,Connor McCaffery,Missed Layup,68,81
+2:33,Iowa,Tyler Cook,Offensive Rebound,68,81
+2:33,Iowa,Tyler Cook,Dunk,68,83
+2:18,UConn,Eric Cobb,Layup,70,83
+1:58,Iowa,Jordan Bohannon,Missed Three Point Jumper,70,83
+1:58,UConn,Eric Cobb,Defensive Rebound,70,83
+1:50,UConn,Tarin Smith,Missed Three Point Jumper,70,83
+1:50,Iowa,Connor McCaffery,Defensive Rebound,70,83
+1:44,UConn,Christian Vital,Foul,70,83
+1:44,UConn,UConn,Foul,70,83
+1:44,UConn,UConn,Foul,70,83
+1:44,Iowa,Jordan Bohannon,Free Throw,70,84
+1:44,Iowa,Jordan Bohannon,Free Throw,70,85
+1:44,Iowa,Connor McCaffery,Free Throw,70,86
+1:44,Iowa,Connor McCaffery,Free Throw,70,87
+1:34,UConn,Alterique Gilbert,Missed Three Point Jumper,70,87
+1:34,UConn,Brendan Adams,Offensive Rebound,70,87
+1:28,UConn,Jalen Adams,Missed Three Point Jumper,70,87
+1:28,Iowa,Nicholas Baer,Defensive Rebound,70,87
+1:20,Iowa,Connor McCaffery,Layup,70,89
+1:00,UConn,Tarin Smith,Missed Three Point Jumper,70,89
+1:00,Iowa,Jordan Bohannon,Defensive Rebound,70,89
+0:39,Iowa,Nicholas Baer,Missed Jumper,70,89
+0:39,UConn,Brendan Adams,Defensive Rebound,70,89
+0:30,UConn,Brendan Adams,Jumper,72,89
+0:05,Iowa,Ryan Kriener,Dunk,72,91
+0:00,Iowa,None,None,72,91

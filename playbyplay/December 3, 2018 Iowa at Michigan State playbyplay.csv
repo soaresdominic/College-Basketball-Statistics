@@ -1,0 +1,382 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Michigan State,None,None,0,0
+19:45,Michigan State,Kenny Goins,Layup,0,2
+19:16,Iowa,Jordan Bohannon,Three Point Jumper,3,2
+18:41,Michigan State,Cassius Winston,Missed Layup,3,2
+18:41,Michigan State,Nick Ward,Offensive Rebound,3,2
+18:41,Michigan State,Nick Ward,Turnover,3,2
+18:26,Iowa,Luka Garza,Missed Jumper,3,2
+18:26,Iowa,Joe Wieskamp,Offensive Rebound,3,2
+18:26,Iowa,None,None,5,2
+18:26,Michigan State,Kyle Ahrens,Foul,5,2
+18:26,Iowa,Joe Wieskamp,Free Throw,6,2
+18:02,Michigan State,Joshua Langford,Missed Jumper,6,2
+18:02,Michigan State,Kenny Goins,Offensive Rebound,6,2
+17:57,Michigan State,Kenny Goins,Layup,6,4
+17:48,Iowa,Isaiah Moss,Three Point Jumper,9,4
+17:39,Michigan State,Joshua Langford,Jumper,9,6
+17:26,Iowa,Tyler Cook,Missed Jumper,9,6
+17:26,Michigan State,Kenny Goins,Defensive Rebound,9,6
+17:16,Iowa,Isaiah Moss,Foul,9,6
+17:16,Michigan State,Nick Ward,Free Throw,9,7
+17:16,Michigan State,Nick Ward,Missed Free Throw,9,7
+17:16,Iowa,Tyler Cook,Defensive Rebound,9,7
+17:02,Iowa,Joe Wieskamp,Foul,9,7
+17:02,Iowa,Joe Wieskamp,Turnover,9,7
+16:52,Michigan State,Cassius Winston,Missed Layup,9,7
+16:52,Michigan State,Xavier Tillman,Offensive Rebound,9,7
+16:46,Michigan State,Joshua Langford,Missed Three Point Jumper,9,7
+16:46,Iowa,Tyler Cook,Defensive Rebound,9,7
+16:38,Iowa,Tyler Cook,Layup,11,7
+16:33,Michigan State,Kenny Goins,Turnover,11,7
+16:33,Iowa,Joe Wieskamp,Steal,11,7
+16:27,Iowa,Jordan Bohannon,Missed Three Point Jumper,11,7
+16:27,Iowa,Luka Garza,Offensive Rebound,11,7
+16:22,Iowa,Isaiah Moss,Jumper,13,7
+16:04,Michigan State,Xavier Tillman,Layup,13,9
+15:45,Iowa,Jordan Bohannon,Missed Layup,13,9
+15:45,Michigan State,Kenny Goins,Defensive Rebound,13,9
+15:33,Michigan State,Joshua Langford,Missed Three Point Jumper,13,9
+15:33,Michigan State,Michigan State,Offensive Rebound,13,9
+15:29,Michigan State,None,None,13,9
+15:13,Michigan State,Kenny Goins,Missed Jumper,13,9
+15:13,Iowa,Jordan Bohannon,Defensive Rebound,13,9
+14:37,Iowa,Ryan Kriener,Missed Three Point Jumper,13,9
+14:37,Iowa,Iowa,Offensive Rebound,13,9
+14:37,Iowa,Iowa ,Turnover,13,9
+14:20,Michigan State,Joshua Langford,Three Point Jumper,13,12
+14:04,Michigan State,Cassius Winston,Foul,13,12
+14:04,Iowa,Joe Wieskamp,Free Throw,14,12
+14:04,Iowa,Joe Wieskamp,Missed Free Throw,14,12
+14:04,Iowa,None,Team Rebound,14,12
+14:04,Iowa,Joe Wieskamp,Free Throw,15,12
+13:58,Iowa,Ryan Kriener,Foul,15,12
+13:58,Michigan State,Cassius Winston,Missed Free Throw,15,12
+13:58,Michigan State,None,Team Rebound,15,12
+13:58,Michigan State,Cassius Winston,Free Throw,15,13
+13:47,Iowa,Ryan Kriener,Missed Three Point Jumper,15,13
+13:47,Michigan State,Xavier Tillman,Defensive Rebound,15,13
+13:17,Iowa,Connor McCaffery,Foul,15,13
+13:08,Michigan State,Nick Ward,Dunk,15,15
+12:51,Iowa,Tyler Cook,Jumper,17,15
+12:39,Michigan State,Nick Ward,Layup,17,17
+12:14,Iowa,Tyler Cook,Missed Layup,17,17
+12:14,Michigan State,Nick Ward,Block,17,17
+12:14,Iowa,Iowa,Offensive Rebound,17,17
+12:14,Iowa,Nicholas Baer,Layup,19,17
+12:02,Michigan State,Nick Ward,Layup,19,19
+11:45,Michigan State,Joshua Langford,Foul,19,19
+11:45,Michigan State,None,None,19,19
+11:34,Iowa,Tyler Cook,Missed Dunk,19,19
+11:34,Iowa,Luka Garza,Offensive Rebound,19,19
+11:31,Iowa,Luka Garza,Turnover,19,19
+11:31,Michigan State,Kyle Ahrens,Steal,19,19
+11:28,Iowa,Connor McCaffery,Foul,19,19
+11:06,Michigan State,Kenny Goins,Missed Jumper,19,19
+11:06,Michigan State,Nick Ward,Offensive Rebound,19,19
+11:02,Iowa,Luka Garza,Foul,19,19
+11:00,Michigan State,Kyle Ahrens,Missed Three Point Jumper,19,19
+11:00,Iowa,Iowa,Defensive Rebound,19,19
+10:46,Iowa,Luka Garza,Turnover,19,19
+10:28,Michigan State,Xavier Tillman,Layup,19,21
+10:17,Iowa,Isaiah Moss,Missed Layup,19,21
+10:17,Michigan State,Xavier Tillman,Block,19,21
+10:17,Iowa,Iowa,Offensive Rebound,19,21
+9:49,Iowa,Luka Garza,Missed Jumper,19,21
+9:49,Michigan State,Kenny Goins,Defensive Rebound,19,21
+9:46,Iowa,Luka Garza,Foul,19,21
+9:46,Michigan State,Kenny Goins,Free Throw,19,22
+9:46,Michigan State,Kenny Goins,Missed Free Throw,19,22
+9:46,Iowa,Tyler Cook,Defensive Rebound,19,22
+9:33,Iowa,Jordan Bohannon,Layup,21,22
+9:18,Michigan State,Joshua Langford,Missed Jumper,21,22
+9:18,Michigan State,Kyle Ahrens,Offensive Rebound,21,22
+8:50,Michigan State,Kyle Ahrens,Missed Jumper,21,22
+8:50,Iowa,Tyler Cook,Defensive Rebound,21,22
+8:44,Michigan State,Kenny Goins,Foul,21,22
+8:42,Iowa,Isaiah Moss,Missed Jumper,21,22
+8:42,Michigan State,Xavier Tillman,Defensive Rebound,21,22
+8:33,Iowa,Ryan Kriener,Foul,21,22
+8:33,Michigan State,Nick Ward,Free Throw,21,23
+8:33,Michigan State,Nick Ward,Free Throw,21,24
+8:11,Iowa,Jordan Bohannon,Missed Three Point Jumper,21,24
+8:11,Michigan State,Xavier Tillman,Defensive Rebound,21,24
+8:00,Michigan State,Kyle Ahrens,Missed Three Point Jumper,21,24
+8:00,Iowa,Joe Wieskamp,Defensive Rebound,21,24
+7:51,Iowa,Joe Wieskamp,Layup,23,24
+7:51,Michigan State,Kyle Ahrens,Foul,23,24
+7:51,Michigan State,None,None,23,24
+7:51,Iowa,Joe Wieskamp,Missed Free Throw,23,24
+7:51,Michigan State,Xavier Tillman,Defensive Rebound,23,24
+7:33,Michigan State,Cassius Winston,Missed Three Point Jumper,23,24
+7:33,Iowa,Joe Wieskamp,Block,23,24
+7:33,Michigan State,Michigan State,Offensive Rebound,23,24
+7:24,Michigan State,Nick Ward,Layup,23,26
+6:54,Iowa,Nicholas Baer,Jumper,25,26
+6:33,Iowa,Nicholas Baer,Foul,25,26
+6:33,Michigan State,Nick Ward,Missed Free Throw,25,26
+6:33,Iowa,Tyler Cook,Defensive Rebound,25,26
+6:17,Iowa,Tyler Cook,Missed Jumper,25,26
+6:17,Michigan State,Kenny Goins,Defensive Rebound,25,26
+6:10,Michigan State,Aaron Henry,Dunk,25,28
+5:49,Iowa,Joe Wieskamp,Missed Jumper,25,28
+5:49,Michigan State,Nick Ward,Defensive Rebound,25,28
+5:25,Michigan State,Joshua Langford,Missed Jumper,25,28
+5:25,Iowa,Nicholas Baer,Defensive Rebound,25,28
+5:14,Iowa,Nicholas Baer,Missed Layup,25,28
+5:14,Iowa,Iowa,Offensive Rebound,25,28
+4:56,Michigan State,Xavier Tillman,Foul,25,28
+4:56,Iowa,Tyler Cook,Missed Free Throw,25,28
+4:56,Iowa,None,Team Rebound,25,28
+4:56,Iowa,Tyler Cook,Free Throw,26,28
+4:49,Michigan State,Xavier Tillman,Missed Jumper,26,28
+4:49,Michigan State,Kenny Goins,Offensive Rebound,26,28
+4:46,Iowa,Riley Till,Foul,26,28
+4:46,Michigan State,Kenny Goins,Free Throw,26,29
+4:46,Michigan State,Kenny Goins,Free Throw,26,30
+4:35,Iowa,Tyler Cook,Missed Layup,26,30
+4:35,Michigan State,Xavier Tillman,Block,26,30
+4:35,Michigan State,Kenny Goins,Defensive Rebound,26,30
+4:27,Michigan State,Cassius Winston,Three Point Jumper,26,33
+4:26,Iowa,None,None,26,33
+4:26,Michigan State,None,None,26,33
+4:09,Iowa,Tyler Cook,Turnover,26,33
+3:46,Michigan State,Xavier Tillman,Layup,26,35
+3:20,Iowa,Jordan Bohannon,Layup,28,35
+3:06,Michigan State,Xavier Tillman,Layup,28,37
+2:56,Michigan State,Xavier Tillman,Foul,28,37
+2:56,Iowa,Tyler Cook,Missed Free Throw,28,37
+2:56,Michigan State,Nick Ward,Defensive Rebound,28,37
+2:49,Michigan State,Joshua Langford,Missed Layup,28,37
+2:49,Iowa,Joe Wieskamp,Defensive Rebound,28,37
+2:48,Michigan State,Nick Ward,Foul,28,37
+2:48,Iowa,Joe Wieskamp,Free Throw,29,37
+2:48,Iowa,Joe Wieskamp,Missed Free Throw,29,37
+2:48,Michigan State,Kenny Goins,Defensive Rebound,29,37
+2:22,Michigan State,Nick Ward,Layup,29,39
+2:05,Michigan State,Aaron Henry,Foul,29,39
+2:05,Iowa,Isaiah Moss,Free Throw,30,39
+2:05,Iowa,Isaiah Moss,Free Throw,31,39
+1:52,Michigan State,Nick Ward,Layup,31,41
+1:26,Michigan State,Nick Ward,Foul,31,41
+1:26,Iowa,Jordan Bohannon,Free Throw,32,41
+1:26,Iowa,Jordan Bohannon,Missed Free Throw,32,41
+1:26,Michigan State,Kenny Goins,Defensive Rebound,32,41
+0:57,Iowa,Nicholas Baer,Foul,32,41
+0:57,Michigan State,Cassius Winston,Free Throw,32,42
+0:57,Michigan State,Cassius Winston,Free Throw,32,43
+0:46,Michigan State,Thomas Kithier,Foul,32,43
+0:46,Iowa,Ryan Kriener,Missed Free Throw,32,43
+0:46,Iowa,None,Team Rebound,32,43
+0:46,Iowa,Ryan Kriener,Free Throw,33,43
+0:18,Michigan State,Cassius Winston,Missed Jumper,33,43
+0:18,Michigan State,Thomas Kithier,Offensive Rebound,33,43
+0:09,Michigan State,None,None,33,43
+0:01,Michigan State,Thomas Kithier,Missed Jumper,33,43
+0:01,Iowa,Ryan Kriener,Block,33,43
+0:01,Michigan State,Thomas Kithier,Offensive Rebound,33,43
+0:00,Michigan State,None,None,33,43
+20:00,Michigan State,None,None,33,43
+19:40,Michigan State,Joshua Langford,Three Point Jumper,33,46
+19:11,Iowa,Luka Garza,Missed Jumper,33,46
+19:11,Michigan State,Nick Ward,Defensive Rebound,33,46
+19:01,Iowa,Luka Garza,Foul,33,46
+18:56,Michigan State,Joshua Langford,Missed Jumper,33,46
+18:56,Michigan State,Kyle Ahrens,Offensive Rebound,33,46
+18:50,Michigan State,Cassius Winston,Jumper,33,48
+18:36,Iowa,Isaiah Moss,Turnover,33,48
+18:36,Michigan State,Kyle Ahrens,Steal,33,48
+18:27,Michigan State,Kenny Goins,Missed Jumper,33,48
+18:27,Michigan State,Nick Ward,Offensive Rebound,33,48
+18:23,Iowa,Nicholas Baer,Foul,33,48
+18:12,Michigan State,Nick Ward,Layup,33,50
+18:01,Iowa,Jordan Bohannon,Turnover,33,50
+18:01,Michigan State,Joshua Langford,Steal,33,50
+17:57,Iowa,Jordan Bohannon,Foul,33,50
+17:57,Michigan State,Nick Ward,Missed Free Throw,33,50
+17:57,Michigan State,None,Team Rebound,33,50
+17:57,Michigan State,Nick Ward,Missed Free Throw,33,50
+17:57,Iowa,Ryan Kriener,Defensive Rebound,33,50
+17:34,Iowa,Ryan Kriener,Missed Jumper,33,50
+17:34,Michigan State,Kyle Ahrens,Defensive Rebound,33,50
+17:03,Michigan State,Kenny Goins,Missed Three Point Jumper,33,50
+17:03,Iowa,Tyler Cook,Defensive Rebound,33,50
+16:55,Iowa,Tyler Cook,Missed Dunk,33,50
+16:55,Iowa,Isaiah Moss,Offensive Rebound,33,50
+16:50,Iowa,Jordan Bohannon,Missed Three Point Jumper,33,50
+16:50,Michigan State,Nick Ward,Defensive Rebound,33,50
+16:40,Michigan State,Kenny Goins,Jumper,33,52
+16:37,Michigan State,Nick Ward,Foul,33,52
+16:21,Iowa,Jordan Bohannon,Three Point Jumper,36,52
+16:10,Iowa,Joe Wieskamp,Foul,36,52
+16:10,Michigan State,Joshua Langford,Free Throw,36,53
+16:10,Michigan State,Joshua Langford,Free Throw,36,54
+15:51,Iowa,Connor McCaffery,Missed Layup,36,54
+15:51,Michigan State,Xavier Tillman,Block,36,54
+15:51,Michigan State,Michigan State,Defensive Rebound,36,54
+15:51,Michigan State,None,None,36,54
+15:42,Michigan State,Kenny Goins,Layup,36,56
+15:35,Michigan State,Kenny Goins,Foul,36,56
+15:31,Iowa,Isaiah Moss,Turnover,36,56
+15:31,Michigan State,Cassius Winston,Steal,36,56
+15:08,Michigan State,Kenny Goins,Missed Three Point Jumper,36,56
+15:08,Michigan State,Michigan State,Offensive Rebound,36,56
+14:51,Michigan State,Nick Ward,Turnover,36,56
+14:51,Iowa,Joe Wieskamp,Steal,36,56
+14:37,Iowa,Joe Wieskamp,Turnover,36,56
+14:37,Michigan State,Kyle Ahrens,Steal,36,56
+14:10,Michigan State,Cassius Winston,Turnover,36,56
+14:10,Iowa,Ryan Kriener,Steal,36,56
+14:10,Michigan State,Kyle Ahrens,Foul,36,56
+13:46,Iowa,Connor McCaffery,Missed Jumper,36,56
+13:46,Iowa,Joe Wieskamp,Offensive Rebound,36,56
+13:42,Michigan State,Aaron Henry,Foul,36,56
+13:41,Iowa,Joe Wieskamp,Missed Three Point Jumper,36,56
+13:41,Iowa,Luka Garza,Offensive Rebound,36,56
+13:36,Iowa,Luka Garza,Missed Layup,36,56
+13:36,Michigan State,Nick Ward,Block,36,56
+13:36,Iowa,Iowa,Offensive Rebound,36,56
+13:34,Iowa,Jordan Bohannon,Missed Three Point Jumper,36,56
+13:34,Iowa,Iowa,Offensive Rebound,36,56
+13:24,Michigan State,Nick Ward,Foul,36,56
+13:10,Iowa,Jordan Bohannon,Missed Jumper,36,56
+13:10,Michigan State,Xavier Tillman,Block,36,56
+13:10,Iowa,Iowa,Offensive Rebound,36,56
+13:04,Iowa,Jordan Bohannon,Missed Three Point Jumper,36,56
+13:04,Iowa,Connor McCaffery,Offensive Rebound,36,56
+12:52,Iowa,Joe Wieskamp,Missed Jumper,36,56
+12:52,Michigan State,Xavier Tillman,Defensive Rebound,36,56
+12:45,Michigan State,Joshua Langford,Layup,36,58
+12:33,Iowa,Luka Garza,Missed Three Point Jumper,36,58
+12:33,Michigan State,Kenny Goins,Defensive Rebound,36,58
+12:24,Michigan State,Cassius Winston,Missed Three Point Jumper,36,58
+12:24,Iowa,Tyler Cook,Defensive Rebound,36,58
+12:13,Iowa,Connor McCaffery,Missed Three Point Jumper,36,58
+12:13,Iowa,Luka Garza,Offensive Rebound,36,58
+12:10,Michigan State,Joshua Langford,Foul,36,58
+12:09,Iowa,Jordan Bohannon,Missed Jumper,36,58
+12:09,Michigan State,Xavier Tillman,Defensive Rebound,36,58
+11:47,Iowa,Tyler Cook,Foul,36,58
+11:47,Michigan State,None,None,36,58
+11:47,Michigan State,Xavier Tillman,Free Throw,36,59
+11:47,Michigan State,Xavier Tillman,Free Throw,36,60
+11:32,Iowa,Luka Garza,Missed Jumper,36,60
+11:32,Michigan State,Kenny Goins,Defensive Rebound,36,60
+11:17,Michigan State,Kenny Goins,Jumper,36,62
+10:54,Iowa,Isaiah Moss,Missed Three Point Jumper,36,62
+10:54,Iowa,Connor McCaffery,Offensive Rebound,36,62
+10:49,Michigan State,Xavier Tillman,Foul,36,62
+10:49,Iowa,Connor McCaffery,Missed Free Throw,36,62
+10:49,Michigan State,Kenny Goins,Defensive Rebound,36,62
+10:42,Michigan State,Xavier Tillman,Dunk,36,64
+10:37,Iowa,Luka Garza,Missed Layup,36,64
+10:37,Michigan State,Xavier Tillman,Defensive Rebound,36,64
+10:20,Iowa,Tyler Cook,Foul,36,64
+10:20,Michigan State,Xavier Tillman,Free Throw,36,65
+10:20,Michigan State,Xavier Tillman,Free Throw,36,66
+10:11,Iowa,Nicholas Baer,Missed Three Point Jumper,36,66
+10:11,Iowa,Luka Garza,Offensive Rebound,36,66
+10:11,Michigan State,Xavier Tillman,Foul,36,66
+10:11,Iowa,Luka Garza,Free Throw,37,66
+10:11,Iowa,Luka Garza,Free Throw,38,66
+9:49,Michigan State,Nick Ward,Layup,38,68
+9:39,Iowa,Isaiah Moss,Jumper,40,68
+9:39,Michigan State,Kyle Ahrens,Foul,40,68
+9:39,Iowa,Isaiah Moss,Free Throw,41,68
+9:17,Iowa,Nicholas Baer,Foul,41,68
+9:17,Michigan State,Kenny Goins,Free Throw,41,69
+9:17,Michigan State,Kenny Goins,Free Throw,41,70
+9:01,Iowa,Luka Garza,Missed Jumper,41,70
+9:01,Michigan State,Kenny Goins,Defensive Rebound,41,70
+9:01,Iowa,Tyler Cook,Foul,41,70
+9:01,Michigan State,Kenny Goins,Free Throw,41,71
+9:01,Michigan State,Kenny Goins,Free Throw,41,72
+8:51,Iowa,Connor McCaffery,Turnover,41,72
+8:51,Michigan State,Kenny Goins,Steal,41,72
+8:36,Michigan State,Nick Ward,Dunk,41,74
+8:25,Iowa,Isaiah Moss,Three Point Jumper,44,74
+8:13,Michigan State,Cassius Winston,Missed Jumper,44,74
+8:13,Michigan State,Nick Ward,Offensive Rebound,44,74
+8:13,Iowa,Tyler Cook,Foul,44,74
+8:13,Michigan State,Nick Ward,Free Throw,44,75
+8:13,Michigan State,Nick Ward,Free Throw,44,76
+7:59,Iowa,Tyler Cook,Jumper,46,76
+7:33,Michigan State,Joshua Langford,Missed Jumper,46,76
+7:33,Iowa,Luka Garza,Defensive Rebound,46,76
+7:20,Iowa,Tyler Cook,Layup,48,76
+7:06,Michigan State,None,None,48,76
+7:06,Michigan State,None,None,48,76
+6:55,Michigan State,Cassius Winston,Missed Jumper,48,76
+6:55,Iowa,Luka Garza,Block,48,76
+6:55,Iowa,Connor McCaffery,Defensive Rebound,48,76
+6:44,Iowa,Connor McCaffery,Missed Layup,48,76
+6:44,Michigan State,Joshua Langford,Defensive Rebound,48,76
+6:38,Michigan State,Joshua Langford,Turnover,48,76
+6:38,Iowa,Isaiah Moss,Steal,48,76
+6:28,Michigan State,Aaron Henry,Foul,48,76
+6:28,Michigan State,None,None,48,76
+6:28,Iowa,Luka Garza,Free Throw,49,76
+6:28,Iowa,Luka Garza,Free Throw,50,76
+6:06,Michigan State,Nick Ward,Dunk,50,78
+5:58,Michigan State,Kenny Goins,Foul,50,78
+5:58,Iowa,Tyler Cook,Free Throw,51,78
+5:58,Iowa,Tyler Cook,Free Throw,52,78
+5:42,Iowa,Connor McCaffery,Foul,52,78
+5:42,Michigan State,Nick Ward,Missed Free Throw,52,78
+5:42,Michigan State,None,Team Rebound,52,78
+5:42,Michigan State,Nick Ward,Free Throw,52,79
+5:25,Iowa,Tyler Cook,Jumper,54,79
+5:06,Michigan State,Joshua Langford,Jumper,54,81
+4:54,Iowa,Luka Garza,Missed Three Point Jumper,54,81
+4:54,Iowa,Connor McCaffery,Offensive Rebound,54,81
+4:50,Michigan State,Foster Loyer,Foul,54,81
+4:50,Iowa,Connor McCaffery,Free Throw,55,81
+4:50,Iowa,Connor McCaffery,Missed Free Throw,55,81
+4:50,Michigan State,Nick Ward,Defensive Rebound,55,81
+4:36,Michigan State,Nick Ward,Turnover,55,81
+4:36,Iowa,Tyler Cook,Steal,55,81
+4:28,Iowa,Tyler Cook,Turnover,55,81
+4:28,Michigan State,Kenny Goins,Steal,55,81
+4:21,Michigan State,Aaron Henry,Layup,55,83
+4:21,Iowa,Maishe Dailey,Foul,55,83
+4:21,Michigan State,Aaron Henry,Free Throw,55,84
+4:09,Iowa,Maishe Dailey,Three Point Jumper,58,84
+3:52,Michigan State,Foster Loyer,Turnover,58,84
+3:52,Iowa,Tyler Cook,Steal,58,84
+3:47,Iowa,Tyler Cook,Dunk,60,84
+3:14,Michigan State,Aaron Henry,Missed Layup,60,84
+3:14,Iowa,Luka Garza,Defensive Rebound,60,84
+3:05,Iowa,Isaiah Moss,Missed Jumper,60,84
+3:05,Iowa,Tyler Cook,Offensive Rebound,60,84
+2:57,Iowa,Luka Garza,Three Point Jumper,63,84
+2:34,Michigan State,Marcus Bingham Jr.,Missed Three Point Jumper,63,84
+2:34,Iowa,Luka Garza,Defensive Rebound,63,84
+2:25,Iowa,Tyler Cook,Missed Jumper,63,84
+2:25,Michigan State,Kenny Goins,Defensive Rebound,63,84
+2:06,Michigan State,Kenny Goins,Dunk,63,86
+1:49,Iowa,Maishe Dailey,Missed Three Point Jumper,63,86
+1:49,Iowa,Luka Garza,Offensive Rebound,63,86
+1:44,Iowa,Connor McCaffery,Missed Three Point Jumper,63,86
+1:44,Michigan State,Michigan State,Defensive Rebound,63,86
+1:38,Michigan State,None,None,63,86
+1:27,Iowa,Riley Till,Foul,63,86
+1:27,Michigan State,Gabe Brown,Free Throw,63,87
+1:27,Michigan State,Gabe Brown,Free Throw,63,88
+1:18,Iowa,Maishe Dailey,Missed Three Point Jumper,63,88
+1:18,Iowa,Riley Till,Offensive Rebound,63,88
+1:10,Michigan State,Braden Burke,Foul,63,88
+1:10,Iowa,Riley Till,Free Throw,64,88
+1:10,Iowa,Riley Till,Free Throw,65,88
+0:53,Michigan State,Jack Hoiberg,Missed Layup,65,88
+0:53,Michigan State,Braden Burke,Offensive Rebound,65,88
+0:53,Michigan State,None,None,65,90
+0:39,Michigan State,Conner George,Foul,65,90
+0:39,Iowa,Riley Till,Missed Free Throw,65,90
+0:39,Iowa,None,Team Rebound,65,90
+0:39,Iowa,Riley Till,Free Throw,66,90
+0:21,Michigan State,Braden Burke,Missed Jumper,66,90
+0:21,Michigan State,Thomas Kithier,Offensive Rebound,66,90
+0:16,Michigan State,Thomas Kithier,Turnover,66,90
+0:16,Iowa,Maishe Dailey,Steal,66,90
+0:07,Iowa,Maishe Dailey,Layup,68,90
+0:00,Michigan State,None,None,68,90

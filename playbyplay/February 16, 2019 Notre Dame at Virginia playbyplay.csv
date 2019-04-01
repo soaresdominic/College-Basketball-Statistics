@@ -1,0 +1,281 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Virginia,None,None,0,0
+19:34,Virginia,Kyle Guy,Layup,0,2
+19:02,Notre Dame,John Mooney,Missed Jumper,0,2
+19:02,Notre Dame,Nikola Djogo,Offensive Rebound,0,2
+18:52,Notre Dame,TJ Gibbs,Jumper,2,2
+18:32,Virginia,Kyle Guy,Missed Three Point Jumper,2,2
+18:32,Notre Dame,John Mooney,Defensive Rebound,2,2
+18:08,Notre Dame,John Mooney,Turnover,2,2
+17:58,Virginia,De'Andre Hunter,Missed Jumper,2,2
+17:58,Notre Dame,Prentiss Hubb,Defensive Rebound,2,2
+17:48,Notre Dame,TJ Gibbs,Jumper,4,2
+17:22,Virginia,Kihei Clark,Missed Three Point Jumper,4,2
+17:22,Notre Dame,D.J. Harvey,Defensive Rebound,4,2
+17:13,Notre Dame,TJ Gibbs,Missed Three Point Jumper,4,2
+17:13,Virginia,Ty Jerome,Defensive Rebound,4,2
+16:44,Virginia,Ty Jerome,Missed Jumper,4,2
+16:44,Notre Dame,D.J. Harvey,Defensive Rebound,4,2
+16:24,Notre Dame,John Mooney,Missed Jumper,4,2
+16:24,Virginia,Kyle Guy,Defensive Rebound,4,2
+16:06,Virginia,Ty Jerome,Missed Three Point Jumper,4,2
+16:06,Notre Dame,None,Team Rebound,4,2
+16:00,Virginia,Jack Salt,Foul,4,2
+16:00,Virginia,None,None,4,2
+15:31,Notre Dame,TJ Gibbs,Missed Jumper,4,2
+15:31,Virginia,De'Andre Hunter,Block,4,2
+15:31,Notre Dame,Notre Dame,Offensive Rebound,4,2
+15:30,Notre Dame,Notre Dame ,Turnover,4,2
+15:17,Virginia,De'Andre Hunter,Missed Jumper,4,2
+15:17,Notre Dame,D.J. Harvey,Defensive Rebound,4,2
+14:59,Notre Dame,D.J. Harvey,Missed Three Point Jumper,4,2
+14:59,Virginia,De'Andre Hunter,Defensive Rebound,4,2
+14:30,Virginia,Kyle Guy,Missed Jumper,4,2
+14:30,Notre Dame,D.J. Harvey,Block,4,2
+14:30,Notre Dame,D.J. Harvey,Defensive Rebound,4,2
+14:24,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,4,2
+14:24,Virginia,Kihei Clark,Defensive Rebound,4,2
+13:55,Virginia,Kyle Guy,Three Point Jumper,4,5
+13:34,Notre Dame,Prentiss Hubb,Missed Jumper,4,5
+13:34,Virginia,Kihei Clark,Defensive Rebound,4,5
+13:09,Virginia,Kyle Guy,Three Point Jumper,4,8
+12:52,Notre Dame,Nate Laszewski,Missed Three Point Jumper,4,8
+12:52,Virginia,Kihei Clark,Defensive Rebound,4,8
+12:41,Virginia,Braxton Key,Missed Three Point Jumper,4,8
+12:41,Notre Dame,Prentiss Hubb,Defensive Rebound,4,8
+12:09,Notre Dame,Nate Laszewski,Missed Three Point Jumper,4,8
+12:09,Notre Dame,Notre Dame,Offensive Rebound,4,8
+12:06,Notre Dame,Notre Dame ,Turnover,4,8
+11:53,Virginia,Kihei Clark,Missed Three Point Jumper,4,8
+11:53,Notre Dame,Juwan Durham,Defensive Rebound,4,8
+11:33,Notre Dame,Nate Laszewski,Missed Jumper,4,8
+11:33,Virginia,Mamadi Diakite,Defensive Rebound,4,8
+11:18,Virginia,Ty Jerome,Three Point Jumper,4,11
+10:45,Notre Dame,TJ Gibbs,Three Point Jumper,7,11
+10:21,Virginia,Kyle Guy,Missed Three Point Jumper,7,11
+10:21,Notre Dame,Nate Laszewski,Defensive Rebound,7,11
+10:13,Notre Dame,TJ Gibbs,Three Point Jumper,10,11
+9:48,Virginia,Braxton Key,Missed Three Point Jumper,10,11
+9:48,Notre Dame,Juwan Durham,Defensive Rebound,10,11
+9:32,Notre Dame,TJ Gibbs,Missed Three Point Jumper,10,11
+9:32,Virginia,Braxton Key,Defensive Rebound,10,11
+9:19,Virginia,Kyle Guy,Jumper,10,13
+8:55,Notre Dame,Juwan Durham,Missed Jumper,10,13
+8:55,Virginia,Kihei Clark,Defensive Rebound,10,13
+8:36,Virginia,Braxton Key,Layup,10,15
+8:10,Notre Dame,Dane Goodwin,Missed Three Point Jumper,10,15
+8:10,Virginia,Kyle Guy,Defensive Rebound,10,15
+7:52,Notre Dame,Dane Goodwin,Foul,10,15
+7:52,Virginia,None,None,10,15
+7:52,Virginia,Mamadi Diakite,Missed Free Throw,10,15
+7:52,Virginia,None,Team Rebound,10,15
+7:52,Virginia,Mamadi Diakite,Free Throw,10,16
+7:39,Notre Dame,Nikola Djogo,Turnover,10,16
+7:39,Virginia,None,None,10,16
+7:23,Virginia,Kyle Guy,Missed Jumper,10,16
+7:23,Virginia,Virginia,Offensive Rebound,10,16
+7:05,Virginia,De'Andre Hunter,Missed Three Point Jumper,10,16
+7:05,Notre Dame,D.J. Harvey,Defensive Rebound,10,16
+6:45,Notre Dame,D.J. Harvey,Jumper,12,16
+6:25,Virginia,Ty Jerome,Missed Jumper,12,16
+6:25,Notre Dame,Nate Laszewski,Defensive Rebound,12,16
+6:10,Notre Dame,D.J. Harvey,Three Point Jumper,15,16
+5:50,Virginia,De'Andre Hunter,Jumper,15,18
+5:25,Notre Dame,Nate Laszewski,Missed Three Point Jumper,15,18
+5:25,Virginia,De'Andre Hunter,Defensive Rebound,15,18
+5:13,Virginia,De'Andre Hunter,Jumper,15,20
+4:49,Virginia,Mamadi Diakite,Foul,15,20
+4:49,Notre Dame,John Mooney,Free Throw,16,20
+4:49,Notre Dame,John Mooney,Free Throw,17,20
+4:34,Virginia,Kyle Guy,Missed Three Point Jumper,17,20
+4:34,Notre Dame,John Mooney,Defensive Rebound,17,20
+4:11,Notre Dame,D.J. Harvey,Layup,19,20
+3:41,Virginia,Ty Jerome,Missed Jumper,19,20
+3:41,Notre Dame,D.J. Harvey,Block,19,20
+3:41,Notre Dame,John Mooney,Defensive Rebound,19,20
+3:13,Notre Dame,D.J. Harvey,Missed Three Point Jumper,19,20
+3:13,Notre Dame,John Mooney,Offensive Rebound,19,20
+3:09,Notre Dame,John Mooney,Missed Layup,19,20
+3:09,Virginia,Braxton Key,Block,19,20
+3:09,Virginia,Braxton Key,Defensive Rebound,19,20
+2:53,Virginia,De'Andre Hunter,Three Point Jumper,19,23
+2:30,Notre Dame,Prentiss Hubb,Turnover,19,23
+2:30,Virginia,Braxton Key,Steal,19,23
+2:24,Notre Dame,TJ Gibbs,Foul,19,23
+2:24,Virginia,None,None,19,23
+2:24,Virginia,Braxton Key,Missed Free Throw,19,23
+2:24,Virginia,None,Team Rebound,19,23
+2:24,Virginia,Braxton Key,Free Throw,19,24
+2:15,Notre Dame,John Mooney,Missed Three Point Jumper,19,24
+2:15,Virginia,Braxton Key,Defensive Rebound,19,24
+1:54,Virginia,Ty Jerome,Three Point Jumper,19,27
+1:38,Notre Dame,None,None,19,27
+1:26,Notre Dame,D.J. Harvey,Three Point Jumper,22,27
+1:10,Virginia,Kyle Guy,Missed Three Point Jumper,22,27
+1:10,Notre Dame,John Mooney,Defensive Rebound,22,27
+0:47,Notre Dame,John Mooney,Three Point Jumper,25,27
+0:19,Virginia,Ty Jerome,Missed Jumper,25,27
+0:19,Virginia,De'Andre Hunter,Offensive Rebound,25,27
+0:11,Virginia,Jack Salt,Layup,25,29
+0:00,Virginia,None,None,25,29
+20:00,Notre Dame,None,None,25,29
+19:48,Notre Dame,John Mooney,Jumper,27,29
+19:26,Virginia,Kyle Guy,Jumper,27,31
+19:08,Notre Dame,D.J. Harvey,Turnover,27,31
+19:08,Virginia,De'Andre Hunter,Steal,27,31
+18:56,Virginia,Mamadi Diakite,Missed Jumper,27,31
+18:56,Notre Dame,John Mooney,Defensive Rebound,27,31
+18:38,Notre Dame,D.J. Harvey,Missed Three Point Jumper,27,31
+18:38,Notre Dame,John Mooney,Offensive Rebound,27,31
+18:32,Notre Dame,Nikola Djogo,Missed Layup,27,31
+18:32,Virginia,Mamadi Diakite,Block,27,31
+18:32,Virginia,De'Andre Hunter,Defensive Rebound,27,31
+18:19,Virginia,Kyle Guy,Three Point Jumper,27,34
+17:44,Notre Dame,John Mooney,Missed Three Point Jumper,27,34
+17:44,Virginia,Kyle Guy,Defensive Rebound,27,34
+17:33,Virginia,Kyle Guy,Missed Three Point Jumper,27,34
+17:33,Notre Dame,John Mooney,Defensive Rebound,27,34
+17:06,Notre Dame,TJ Gibbs,Missed Jumper,27,34
+17:06,Virginia,Mamadi Diakite,Defensive Rebound,27,34
+17:00,Virginia,Mamadi Diakite,Turnover,27,34
+16:54,Notre Dame,Juwan Durham,Missed Jumper,27,34
+16:54,Virginia,Mamadi Diakite,Defensive Rebound,27,34
+16:39,Virginia,Ty Jerome,Missed Jumper,27,34
+16:39,Notre Dame,TJ Gibbs,Block,27,34
+16:39,Virginia,Kyle Guy,Offensive Rebound,27,34
+16:35,Virginia,Kihei Clark,Missed Three Point Jumper,27,34
+16:35,Notre Dame,D.J. Harvey,Defensive Rebound,27,34
+16:17,Notre Dame,Dane Goodwin,Missed Jumper,27,34
+16:17,Virginia,Ty Jerome,Defensive Rebound,27,34
+16:09,Virginia,Kihei Clark,Missed Three Point Jumper,27,34
+16:09,Notre Dame,Prentiss Hubb,Defensive Rebound,27,34
+16:01,Notre Dame,Prentiss Hubb,Three Point Jumper,30,34
+15:44,Virginia,De'Andre Hunter,Three Point Jumper,30,37
+15:13,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,30,37
+15:13,Virginia,De'Andre Hunter,Defensive Rebound,30,37
+14:57,Virginia,Mamadi Diakite,Dunk,30,39
+14:47,Notre Dame,None,None,30,39
+14:47,Virginia,None,None,30,39
+14:35,Virginia,Braxton Key,Foul,30,39
+14:35,Virginia,None,None,30,39
+14:35,Notre Dame,Nate Laszewski,Free Throw,31,39
+14:35,Notre Dame,Nate Laszewski,Free Throw,32,39
+14:18,Virginia,Braxton Key,Missed Layup,32,39
+14:18,Notre Dame,John Mooney,Defensive Rebound,32,39
+14:07,Notre Dame,Nate Laszewski,Three Point Jumper,35,39
+13:39,Virginia,Ty Jerome,Missed Jumper,35,39
+13:39,Notre Dame,Nate Laszewski,Defensive Rebound,35,39
+13:18,Notre Dame,John Mooney,Missed Three Point Jumper,35,39
+13:18,Virginia,Braxton Key,Defensive Rebound,35,39
+13:02,Virginia,Braxton Key,Missed Three Point Jumper,35,39
+13:02,Notre Dame,John Mooney,Defensive Rebound,35,39
+12:56,Virginia,Mamadi Diakite,Foul,35,39
+12:45,Notre Dame,John Mooney,Missed Layup,35,39
+12:45,Virginia,Mamadi Diakite,Block,35,39
+12:45,Notre Dame,John Mooney,Offensive Rebound,35,39
+12:43,Virginia,None,None,35,39
+12:43,Notre Dame,John Mooney,Turnover,35,39
+12:43,Virginia,Mamadi Diakite,Steal,35,39
+12:28,Virginia,Ty Jerome,Turnover,35,39
+12:28,Notre Dame,John Mooney,Steal,35,39
+12:21,Notre Dame,TJ Gibbs,Three Point Jumper,38,39
+12:06,Virginia,Kyle Guy,Missed Three Point Jumper,38,39
+11:58,Virginia,Braxton Key,Offensive Rebound,38,39
+11:58,Notre Dame,None,None,38,39
+11:58,Virginia,Braxton Key,Turnover,38,39
+11:58,Notre Dame,John Mooney,Steal,38,39
+11:58,Virginia,None,None,38,39
+11:38,Notre Dame,TJ Gibbs,Turnover,38,39
+11:38,Virginia,De'Andre Hunter,Steal,38,39
+11:33,Notre Dame,John Mooney,Foul,38,39
+11:18,Notre Dame,John Mooney,Foul,38,39
+11:11,Virginia,Mamadi Diakite,Dunk,38,41
+10:52,Virginia,Mamadi Diakite,Foul,38,41
+10:52,Notre Dame,Nate Laszewski,Free Throw,39,41
+10:52,Notre Dame,Nate Laszewski,Free Throw,40,41
+10:37,Notre Dame,Dane Goodwin,Foul,40,41
+10:37,Virginia,De'Andre Hunter,Free Throw,40,42
+10:37,Virginia,De'Andre Hunter,Free Throw,40,43
+10:15,Notre Dame,TJ Gibbs,Missed Three Point Jumper,40,43
+10:15,Virginia,Kihei Clark,Defensive Rebound,40,43
+9:54,Virginia,De'Andre Hunter,Jumper,40,45
+9:44,Notre Dame,None,None,40,45
+9:29,Notre Dame,D.J. Harvey,Turnover,40,45
+9:29,Virginia,Kihei Clark,Steal,40,45
+9:13,Notre Dame,John Mooney,Foul,40,45
+9:09,Virginia,De'Andre Hunter,Turnover,40,45
+9:09,Notre Dame,TJ Gibbs,Steal,40,45
+8:49,Notre Dame,TJ Gibbs,Layup,42,45
+8:30,Virginia,Ty Jerome,Turnover,42,45
+8:18,Notre Dame,John Mooney,Dunk,44,45
+7:59,Virginia,De'Andre Hunter,Jumper,44,47
+7:39,Notre Dame,D.J. Harvey,Missed Three Point Jumper,44,47
+7:39,Virginia,De'Andre Hunter,Defensive Rebound,44,47
+7:23,Virginia,Kihei Clark,Turnover,44,47
+7:23,Notre Dame,John Mooney,Steal,44,47
+7:14,Notre Dame,TJ Gibbs,Missed Three Point Jumper,44,47
+7:14,Virginia,Jack Salt,Defensive Rebound,44,47
+6:52,Notre Dame,Prentiss Hubb,Foul,44,47
+6:52,Virginia,None,None,44,47
+6:40,Virginia,Kyle Guy,Three Point Jumper,44,50
+6:14,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,44,50
+6:14,Virginia,De'Andre Hunter,Defensive Rebound,44,50
+5:41,Virginia,Braxton Key,Missed Jumper,44,50
+5:41,Virginia,De'Andre Hunter,Offensive Rebound,44,50
+5:35,Notre Dame,Dane Goodwin,Foul,44,50
+5:35,Virginia,De'Andre Hunter,Free Throw,44,51
+5:35,Virginia,De'Andre Hunter,Free Throw,44,52
+5:35,Virginia,None,None,44,52
+5:19,Notre Dame,John Mooney,Missed Three Point Jumper,44,52
+5:19,Virginia,Mamadi Diakite,Defensive Rebound,44,52
+4:55,Notre Dame,D.J. Harvey,Foul,44,52
+4:55,Virginia,De'Andre Hunter,Free Throw,44,53
+4:55,Virginia,De'Andre Hunter,Free Throw,44,54
+4:39,Notre Dame,Prentiss Hubb,Missed Layup,44,54
+4:39,Virginia,De'Andre Hunter,Defensive Rebound,44,54
+4:18,Virginia,Mamadi Diakite,Missed Jumper,44,54
+4:18,Virginia,Mamadi Diakite,Offensive Rebound,44,54
+4:04,Virginia,Ty Jerome,Turnover,44,54
+4:04,Notre Dame,TJ Gibbs,Steal,44,54
+3:44,Notre Dame,TJ Gibbs,Missed Layup,44,54
+3:44,Virginia,Kyle Guy,Defensive Rebound,44,54
+3:17,Virginia,De'Andre Hunter,Missed Jumper,44,54
+3:17,Notre Dame,John Mooney,Defensive Rebound,44,54
+3:07,Notre Dame,Prentiss Hubb,Dunk,46,54
+2:32,Virginia,None,None,46,54
+2:28,Virginia,De'Andre Hunter,Missed Jumper,46,54
+2:28,Virginia,Kyle Guy,Offensive Rebound,46,54
+2:07,Virginia,Mamadi Diakite,Missed Jumper,46,54
+2:07,Notre Dame,Nate Laszewski,Defensive Rebound,46,54
+1:50,Virginia,Mamadi Diakite,Foul,46,54
+1:50,Notre Dame,TJ Gibbs,Free Throw,47,54
+1:50,Notre Dame,TJ Gibbs,Free Throw,48,54
+1:22,Virginia,Braxton Key,Missed Jumper,48,54
+1:22,Notre Dame,John Mooney,Defensive Rebound,48,54
+1:08,Notre Dame,Nate Laszewski,Missed Three Point Jumper,48,54
+1:08,Notre Dame,John Mooney,Offensive Rebound,48,54
+1:04,Notre Dame,TJ Gibbs,Missed Three Point Jumper,48,54
+1:04,Virginia,De'Andre Hunter,Defensive Rebound,48,54
+0:58,Notre Dame,D.J. Harvey,Foul,48,54
+0:58,Virginia,De'Andre Hunter,Missed Free Throw,48,54
+0:58,Notre Dame,John Mooney,Defensive Rebound,48,54
+0:43,Notre Dame,Prentiss Hubb,Layup,50,54
+0:42,Notre Dame,None,None,50,54
+0:37,Virginia,Kyle Guy,Turnover,50,54
+0:37,Notre Dame,Nate Laszewski,Steal,50,54
+0:35,Notre Dame,Nate Laszewski,Layup,52,54
+0:35,Virginia,None,None,52,54
+0:24,Notre Dame,D.J. Harvey,Foul,52,54
+0:24,Virginia,Kyle Guy,Free Throw,52,55
+0:24,Virginia,Kyle Guy,Free Throw,52,56
+0:17,Notre Dame,John Mooney,Dunk,54,56
+0:12,Notre Dame,John Mooney,Foul,54,56
+0:12,Virginia,Kyle Guy,Free Throw,54,57
+0:12,Virginia,Kyle Guy,Free Throw,54,58
+0:12,Virginia,None,None,54,58
+0:07,Notre Dame,John Mooney,Missed Three Point Jumper,54,58
+0:07,Virginia,Ty Jerome,Defensive Rebound,54,58
+0:02,Notre Dame,Prentiss Hubb,Foul,54,58
+0:02,Virginia,Ty Jerome,Free Throw,54,59
+0:02,Virginia,Ty Jerome,Free Throw,54,60
+0:00,Virginia,None,None,54,60

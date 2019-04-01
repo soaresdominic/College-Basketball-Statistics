@@ -1,0 +1,347 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Buffalo,None,None,0,0
+19:52,Buffalo,Davonta Jordan,Missed Layup,0,0
+19:52,Akron,Tyler Cheese,Defensive Rebound,0,0
+19:45,Akron,Loren Cristian Jackson,Missed Three Point Jumper,0,0
+19:45,Akron,Deng Riak,Offensive Rebound,0,0
+19:22,Akron,Tyler Cheese,Layup,0,2
+19:01,Buffalo,Davonta Jordan,Missed Three Point Jumper,0,2
+19:01,Akron,Jimond Ivey,Defensive Rebound,0,2
+18:48,Akron,Loren Cristian Jackson,Missed Jumper,0,2
+18:48,Buffalo,Jeremy Harris,Defensive Rebound,0,2
+18:40,Buffalo,Jayvon Graves,Three Point Jumper,3,2
+18:17,Akron,Tyler Cheese,Missed Jumper,3,2
+18:17,Akron,Deng Riak,Offensive Rebound,3,2
+18:14,Akron,Jimond Ivey,Missed Three Point Jumper,3,2
+18:14,Buffalo,Jayvon Graves,Defensive Rebound,3,2
+18:01,Buffalo,Jeremy Harris,Three Point Jumper,6,2
+17:42,Akron,Daniel Utomi,Turnover,6,2
+17:42,Buffalo,Jeremy Harris,Steal,6,2
+17:38,Buffalo,Davonta Jordan,Layup,8,2
+17:35,Akron,None,None,8,2
+17:11,Akron,Daniel Utomi,Three Point Jumper,8,5
+16:43,Buffalo,Montell McRae,Turnover,8,5
+16:43,Akron,Tyler Cheese,Steal,8,5
+16:35,Akron,Tyler Cheese,Missed Layup,8,5
+16:35,Buffalo,Jayvon Graves,Defensive Rebound,8,5
+16:24,Buffalo,CJ Massinburg,Missed Jumper,8,5
+16:24,Akron,Daniel Utomi,Block,8,5
+16:24,Buffalo,CJ Massinburg,Offensive Rebound,8,5
+16:16,Buffalo,Jayvon Graves,Missed Three Point Jumper,8,5
+16:16,Buffalo,Jeremy Harris,Offensive Rebound,8,5
+16:09,Buffalo,Davonta Jordan,Three Point Jumper,11,5
+15:59,Buffalo,Montell McRae,Foul,11,5
+15:59,Akron,None,None,11,5
+15:59,Akron,Tyler Cheese,Missed Free Throw,11,5
+15:59,Akron,None,Team Rebound,11,5
+15:59,Akron,Tyler Cheese,Free Throw,11,6
+15:47,Buffalo,Nick Perkins,Missed Three Point Jumper,11,6
+15:47,Akron,Tyler Cheese,Defensive Rebound,11,6
+15:43,Buffalo,Dontay Caruthers,Foul,11,6
+15:22,Akron,Deng Riak,Turnover,11,6
+15:22,Buffalo,Jeremy Harris,Steal,11,6
+15:17,Buffalo,Dontay Caruthers,Layup,13,6
+14:57,Akron,Daniel Utomi,Missed Three Point Jumper,13,6
+14:57,Buffalo,Dontay Caruthers,Defensive Rebound,13,6
+14:40,Buffalo,Jeremy Harris,Foul,13,6
+14:40,Buffalo,Jeremy Harris,Turnover,13,6
+14:24,Akron,Tyler Cheese,Layup,13,8
+13:52,Akron,Deng Riak,Foul,13,8
+13:52,Buffalo,Jayvon Graves,Missed Free Throw,13,8
+13:52,Buffalo,None,Team Rebound,13,8
+13:52,Buffalo,Jayvon Graves,Free Throw,14,8
+13:27,Akron,Jimond Ivey,Turnover,14,8
+13:27,Buffalo,Dontay Caruthers,Steal,14,8
+13:08,Buffalo,Davonta Jordan,Turnover,14,8
+13:08,Akron,Tyler Cheese,Steal,14,8
+13:08,Buffalo,Davonta Jordan,Foul,14,8
+12:57,Akron,Loren Cristian Jackson,Jumper,14,10
+12:42,Buffalo,Jeenathan Williams,Three Point Jumper,17,10
+12:39,Buffalo,Jeenathan Williams,Foul,17,10
+12:39,Buffalo,Jeenathan Williams,Foul,17,10
+12:39,Akron,Loren Cristian Jackson,Missed Free Throw,17,10
+12:39,Akron,None,Team Rebound,17,10
+12:39,Akron,Loren Cristian Jackson,Free Throw,17,11
+12:16,Akron,Loren Cristian Jackson,Jumper,17,13
+12:05,Akron,Daniel Utomi,Foul,17,13
+11:58,Buffalo,Ronaldo Segu,Turnover,17,13
+11:58,Akron,None,None,17,13
+11:48,Akron,Tyler Cheese,Missed Jumper,17,13
+11:48,Buffalo,Nick Perkins,Defensive Rebound,17,13
+11:40,Buffalo,Dontay Caruthers,Jumper,19,13
+11:09,Akron,Tyler Cheese,Missed Jumper,19,13
+11:09,Akron,Tyler Cheese,Offensive Rebound,19,13
+11:04,Akron,Emmanuel Olojakpoke,Foul,19,13
+11:04,Akron,Emmanuel Olojakpoke,Turnover,19,13
+11:04,Akron,Akron,Foul,19,13
+11:04,Akron,Akron,Foul,19,13
+11:04,Buffalo,Jeremy Harris,Free Throw,20,13
+11:04,Buffalo,Jeremy Harris,Free Throw,21,13
+10:50,Akron,Emmanuel Olojakpoke,Turnover,21,13
+10:36,Buffalo,Jeenathan Williams,Turnover,21,13
+10:36,Akron,Deng Riak,Steal,21,13
+10:22,Akron,Tyler Cheese,Missed Three Point Jumper,21,13
+10:22,Buffalo,CJ Massinburg,Defensive Rebound,21,13
+10:11,Buffalo,CJ Massinburg,Missed Three Point Jumper,21,13
+10:11,Akron,Jimond Ivey,Defensive Rebound,21,13
+9:59,Akron,Jimond Ivey,Layup,21,15
+9:47,Buffalo,Nick Perkins,Missed Three Point Jumper,21,15
+9:47,Akron,Akron,Defensive Rebound,21,15
+9:31,Akron,Jimond Ivey,Three Point Jumper,21,18
+9:16,Buffalo,Davonta Jordan,Turnover,21,18
+9:16,Akron,Tyler Cheese,Steal,21,18
+8:47,Akron,Daniel Utomi,Jumper,21,20
+8:37,Buffalo,Davonta Jordan,Foul,21,20
+8:37,Buffalo,Davonta Jordan,Turnover,21,20
+8:18,Akron,Deng Riak,Jumper,21,22
+8:11,Buffalo,Dontay Caruthers,Turnover,21,22
+8:11,Akron,Tyler Cheese,Steal,21,22
+8:04,Akron,Tyler Cheese,Turnover,21,22
+8:04,Buffalo,Ronaldo Segu,Steal,21,22
+7:58,Buffalo,Ronaldo Segu,Layup,23,22
+7:39,Akron,Tyler Cheese,Foul,23,22
+7:39,Akron,Tyler Cheese,Turnover,23,22
+7:39,Akron,None,None,23,22
+7:27,Buffalo,Jeremy Harris,Missed Jumper,23,22
+7:27,Buffalo,Montell McRae,Offensive Rebound,23,22
+7:20,Buffalo,Jeremy Harris,Missed Three Point Jumper,23,22
+7:20,Akron,Jimond Ivey,Defensive Rebound,23,22
+6:58,Akron,Daniel Utomi,Three Point Jumper,23,25
+6:32,Buffalo,Jeremy Harris,Missed Three Point Jumper,23,25
+6:32,Akron,Emmanuel Olojakpoke,Defensive Rebound,23,25
+6:19,Buffalo,Ronaldo Segu,Foul,23,25
+6:19,Akron,Loren Cristian Jackson,Free Throw,23,26
+6:19,Akron,Loren Cristian Jackson,Missed Free Throw,23,26
+6:19,Buffalo,Jayvon Graves,Defensive Rebound,23,26
+5:54,Buffalo,Jeremy Harris,Missed Jumper,23,26
+5:54,Akron,Akron,Defensive Rebound,23,26
+5:37,Akron,Channel Banks,Missed Three Point Jumper,23,26
+5:37,Buffalo,Dontay Caruthers,Defensive Rebound,23,26
+5:27,Buffalo,CJ Massinburg,Layup,25,26
+5:01,Akron,Daniel Utomi,Missed Jumper,25,26
+5:01,Buffalo,Buffalo,Defensive Rebound,25,26
+4:45,Buffalo,Dontay Caruthers,Foul,25,26
+4:45,Buffalo,Dontay Caruthers,Turnover,25,26
+4:29,Akron,Loren Cristian Jackson,Jumper,25,28
+4:16,Buffalo,Jayvon Graves,Missed Three Point Jumper,25,28
+4:16,Akron,Channel Banks,Defensive Rebound,25,28
+4:06,Akron,Jeremy Roscoe,Missed Three Point Jumper,25,28
+4:06,Buffalo,Jayvon Graves,Defensive Rebound,25,28
+3:57,Buffalo,Jayvon Graves,Turnover,25,28
+3:55,Akron,None,None,25,28
+3:34,Akron,Daniel Utomi,Missed Jumper,25,28
+3:34,Buffalo,Nick Perkins,Defensive Rebound,25,28
+3:07,Buffalo,Jeenathan Williams,Missed Three Point Jumper,25,28
+3:07,Akron,Jimond Ivey,Defensive Rebound,25,28
+2:47,Akron,Tyler Cheese,Missed Jumper,25,28
+2:47,Buffalo,Nick Perkins,Defensive Rebound,25,28
+2:40,Buffalo,CJ Massinburg,Three Point Jumper,28,28
+2:11,Akron,Channel Banks,Missed Three Point Jumper,28,28
+2:11,Buffalo,CJ Massinburg,Defensive Rebound,28,28
+2:04,Buffalo,Jeenathan Williams,Turnover,28,28
+2:04,Akron,Tyler Cheese,Steal,28,28
+1:54,Akron,Daniel Utomi,Missed Three Point Jumper,28,28
+1:54,Buffalo,Jeremy Harris,Defensive Rebound,28,28
+1:32,Buffalo,Nick Perkins,Missed Three Point Jumper,28,28
+1:32,Akron,Tyler Cheese,Defensive Rebound,28,28
+1:02,Akron,Tyler Cheese,Missed Jumper,28,28
+1:02,Buffalo,Davonta Jordan,Defensive Rebound,28,28
+0:45,Buffalo,None,None,28,28
+0:34,Buffalo,Davonta Jordan,Missed Three Point Jumper,28,28
+0:34,Buffalo,Nick Perkins,Offensive Rebound,28,28
+0:34,Buffalo,Nick Perkins,Layup,30,28
+0:00,Akron,Loren Cristian Jackson,Missed Three Point Jumper,30,28
+0:00,Buffalo,Buffalo,Defensive Rebound,30,28
+0:00,Akron,None,None,30,28
+20:00,Akron,None,None,30,28
+19:54,Akron,Daniel Utomi,Turnover,30,28
+19:54,Buffalo,Jayvon Graves,Steal,30,28
+19:49,Buffalo,Jayvon Graves,Layup,32,28
+19:18,Akron,Jimond Ivey,Missed Three Point Jumper,32,28
+19:18,Akron,Daniel Utomi,Offensive Rebound,32,28
+19:11,Akron,Deng Riak,Layup,32,30
+18:58,Buffalo,Nick Perkins,Turnover,32,30
+18:33,Akron,Loren Cristian Jackson,Missed Jumper,32,30
+18:33,Buffalo,Jayvon Graves,Defensive Rebound,32,30
+18:24,Buffalo,Davonta Jordan,Layup,34,30
+17:49,Akron,Daniel Utomi,Missed Jumper,34,30
+17:49,Akron,Loren Cristian Jackson,Offensive Rebound,34,30
+17:27,Akron,Deng Riak,Dunk,34,32
+17:12,Buffalo,CJ Massinburg,Three Point Jumper,37,32
+16:54,Akron,Loren Cristian Jackson,Turnover,37,32
+16:43,Buffalo,Nick Perkins,Layup,39,32
+16:43,Akron,Deng Riak,Foul,39,32
+16:43,Buffalo,Nick Perkins,Free Throw,40,32
+16:28,Akron,Loren Cristian Jackson,Missed Layup,40,32
+16:28,Buffalo,Nick Perkins,Defensive Rebound,40,32
+16:22,Akron,Tyler Cheese,Foul,40,32
+16:20,Buffalo,Nick Perkins,Missed Layup,40,32
+16:20,Buffalo,Jeremy Harris,Offensive Rebound,40,32
+16:14,Buffalo,CJ Massinburg,Missed Three Point Jumper,40,32
+16:14,Akron,Daniel Utomi,Defensive Rebound,40,32
+16:06,Akron,Tyler Cheese,Turnover,40,32
+16:06,Buffalo,CJ Massinburg,Steal,40,32
+15:59,Buffalo,Davonta Jordan,Missed Three Point Jumper,40,32
+15:59,Akron,Jimond Ivey,Defensive Rebound,40,32
+15:49,Akron,Daniel Utomi,Missed Layup,40,32
+15:49,Akron,Channel Banks,Offensive Rebound,40,32
+15:37,Akron,Channel Banks,Missed Jumper,40,32
+15:37,Akron,Jimond Ivey,Offensive Rebound,40,32
+15:32,Akron,Daniel Utomi,Missed Three Point Jumper,40,32
+15:32,Buffalo,Davonta Jordan,Defensive Rebound,40,32
+15:28,Buffalo,Jeremy Harris,Missed Layup,40,32
+15:28,Akron,Tyler Cheese,Block,40,32
+15:28,Akron,Tyler Cheese,Defensive Rebound,40,32
+15:17,Akron,Tyler Cheese,Missed Layup,40,32
+15:17,Buffalo,Davonta Jordan,Defensive Rebound,40,32
+15:05,Buffalo,Jayvon Graves,Turnover,40,32
+15:05,Akron,Tyler Cheese,Steal,40,32
+15:00,Akron,Jimond Ivey,Dunk,40,34
+14:46,Akron,Emmanuel Olojakpoke,Foul,40,34
+14:46,Akron,None,None,40,34
+14:46,Buffalo,CJ Massinburg,Free Throw,41,34
+14:46,Buffalo,CJ Massinburg,Free Throw,42,34
+14:30,Akron,Jimond Ivey,Foul,42,34
+14:30,Akron,Jimond Ivey,Turnover,42,34
+14:18,Buffalo,Montell McRae,Missed Jumper,42,34
+14:18,Akron,Daniel Utomi,Defensive Rebound,42,34
+14:09,Buffalo,Dontay Caruthers,Foul,42,34
+14:01,Akron,Tyler Cheese,Layup,42,36
+13:42,Buffalo,Jeremy Harris,Jumper,44,36
+13:08,Akron,Daniel Utomi,Missed Three Point Jumper,44,36
+13:08,Buffalo,Montell McRae,Defensive Rebound,44,36
+12:56,Buffalo,Jeremy Harris,Missed Three Point Jumper,44,36
+12:56,Akron,Jeremy Roscoe,Defensive Rebound,44,36
+12:32,Akron,Deng Riak,Missed Layup,44,36
+12:32,Buffalo,Montell McRae,Block,44,36
+12:32,Buffalo,Davonta Jordan,Defensive Rebound,44,36
+12:18,Buffalo,Davonta Jordan,Three Point Jumper,47,36
+12:05,Akron,None,None,47,36
+11:52,Buffalo,Davonta Jordan,Foul,47,36
+11:52,Akron,None,None,47,36
+11:50,Akron,Jimond Ivey,Missed Three Point Jumper,47,36
+11:50,Buffalo,Jayvon Graves,Defensive Rebound,47,36
+11:41,Akron,Emmanuel Olojakpoke,Foul,47,36
+11:37,Buffalo,Dontay Caruthers,Missed Three Point Jumper,47,36
+11:37,Akron,Daniel Utomi,Defensive Rebound,47,36
+11:22,Akron,Daniel Utomi,Three Point Jumper,47,39
+11:02,Buffalo,Nick Perkins,Missed Jumper,47,39
+11:02,Buffalo,Dontay Caruthers,Offensive Rebound,47,39
+11:02,Buffalo,None,None,49,39
+10:24,Akron,Akron ,Turnover,49,39
+10:13,Buffalo,Jeremy Harris,Jumper,51,39
+9:55,Akron,Tyler Cheese,Jumper,51,41
+9:47,Buffalo,Nick Perkins,Missed Three Point Jumper,51,41
+9:47,Akron,Tyler Cheese,Defensive Rebound,51,41
+9:33,Buffalo,Jayvon Graves,Foul,51,41
+9:28,Akron,Deng Riak,Turnover,51,41
+9:06,Buffalo,Dontay Caruthers,Layup,53,41
+8:42,Akron,Tyler Cheese,Jumper,53,43
+8:35,Buffalo,Jeremy Harris,Turnover,53,43
+8:35,Akron,Daniel Utomi,Steal,53,43
+8:17,Akron,Tyler Cheese,Jumper,53,45
+8:11,Buffalo,Dontay Caruthers,Layup,55,45
+7:48,Akron,Tyler Cheese,Foul,55,45
+7:48,Akron,Tyler Cheese,Turnover,55,45
+7:48,Akron,None,None,55,45
+7:32,Buffalo,Davonta Jordan,Missed Layup,55,45
+7:32,Akron,Jimond Ivey,Defensive Rebound,55,45
+7:27,Akron,Tyler Cheese,Turnover,55,45
+7:27,Buffalo,Jayvon Graves,Steal,55,45
+7:19,Akron,Deng Riak,Foul,55,45
+7:19,Buffalo,Nick Perkins,Free Throw,56,45
+7:19,Buffalo,Nick Perkins,Free Throw,57,45
+6:53,Akron,Jimond Ivey,Missed Three Point Jumper,57,45
+6:53,Akron,Loren Cristian Jackson,Offensive Rebound,57,45
+6:36,Akron,Loren Cristian Jackson,Jumper,57,47
+6:19,Buffalo,Davonta Jordan,Turnover,57,47
+6:01,Akron,Deng Riak,Layup,57,49
+5:40,Akron,Deng Riak,Foul,57,49
+5:40,Buffalo,Nick Perkins,Free Throw,58,49
+5:40,Buffalo,Nick Perkins,Missed Free Throw,58,49
+5:40,Akron,Akron,Defensive Rebound,58,49
+5:39,Buffalo,Jayvon Graves,Foul,58,49
+5:29,Akron,Loren Cristian Jackson,Three Point Jumper,58,52
+5:18,Buffalo,Jayvon Graves,Missed Jumper,58,52
+5:18,Buffalo,Nick Perkins,Offensive Rebound,58,52
+5:12,Buffalo,Nick Perkins,Turnover,58,52
+5:12,Akron,Channel Banks,Steal,58,52
+5:04,Akron,Loren Cristian Jackson,Missed Three Point Jumper,58,52
+5:04,Buffalo,Jeremy Harris,Defensive Rebound,58,52
+4:57,Akron,Daniel Utomi,Foul,58,52
+4:57,Buffalo,CJ Massinburg,Free Throw,59,52
+4:57,Buffalo,CJ Massinburg,Free Throw,60,52
+4:47,Akron,Loren Cristian Jackson,Three Point Jumper,60,55
+4:23,Buffalo,Dontay Caruthers,Missed Layup,60,55
+4:23,Akron,Daniel Utomi,Block,60,55
+4:23,Akron,Akron,Defensive Rebound,60,55
+4:14,Akron,Tyler Cheese,Missed Three Point Jumper,60,55
+4:14,Buffalo,Nick Perkins,Defensive Rebound,60,55
+3:54,Buffalo,Davonta Jordan,Layup,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Buffalo,Davonta Jordan,Missed Free Throw,62,55
+3:54,Akron,Daniel Utomi,Defensive Rebound,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,None,None,62,55
+3:54,Akron,Tyler Cheese,Foul,62,55
+3:42,Buffalo,Davonta Jordan,Foul,62,55
+3:25,Akron,Jimond Ivey,Three Point Jumper,62,58
+3:07,Akron,Channel Banks,Foul,62,58
+3:07,Buffalo,CJ Massinburg,Free Throw,63,58
+3:07,Buffalo,CJ Massinburg,Free Throw,64,58
+2:56,Akron,Loren Cristian Jackson,Missed Jumper,64,58
+2:56,Buffalo,Davonta Jordan,Defensive Rebound,64,58
+2:45,Buffalo,CJ Massinburg,Layup,66,58
+2:43,Akron,None,None,66,58
+2:33,Akron,Loren Cristian Jackson,Missed Three Point Jumper,66,58
+2:33,Buffalo,Jeremy Harris,Defensive Rebound,66,58
+2:25,Buffalo,Davonta Jordan,Missed Three Point Jumper,66,58
+2:25,Buffalo,CJ Massinburg,Offensive Rebound,66,58
+2:02,Akron,Daniel Utomi,Foul,66,58
+2:02,Buffalo,CJ Massinburg,Free Throw,67,58
+2:02,Buffalo,CJ Massinburg,Free Throw,68,58
+1:49,Akron,Jimond Ivey,Layup,68,60
+1:34,Akron,Daniel Utomi,Foul,68,60
+1:34,Buffalo,Dontay Caruthers,Missed Free Throw,68,60
+1:34,Buffalo,None,Team Rebound,68,60
+1:34,Buffalo,Dontay Caruthers,Free Throw,69,60
+1:24,Buffalo,Davonta Jordan,Foul,69,60
+1:22,Akron,Jimond Ivey,Missed Three Point Jumper,69,60
+1:22,Buffalo,Nick Perkins,Defensive Rebound,69,60
+1:06,Buffalo,CJ Massinburg,Turnover,69,60
+1:01,Akron,Loren Cristian Jackson,Jumper,69,62
+0:56,Akron,Jimond Ivey,Foul,69,62
+0:56,Buffalo,Dontay Caruthers,Free Throw,70,62
+0:56,Buffalo,Dontay Caruthers,Free Throw,71,62
+0:48,Akron,Loren Cristian Jackson,Jumper,71,64
+0:46,Akron,None,None,71,64
+0:42,Akron,Emmanuel Olojakpoke,Foul,71,64
+0:42,Buffalo,CJ Massinburg,Free Throw,72,64
+0:42,Buffalo,CJ Massinburg,Free Throw,73,64
+0:25,Akron,Tyler Cheese,Jumper,73,66
+0:25,Buffalo,Jayvon Graves,Foul,73,66
+0:25,Akron,Tyler Cheese,Free Throw,73,67
+0:22,Buffalo,CJ Massinburg,Turnover,73,67
+0:18,Akron,Daniel Utomi,Three Point Jumper,73,70
+0:16,Akron,Channel Banks,Foul,73,70
+0:16,Buffalo,CJ Massinburg,Free Throw,74,70
+0:16,Buffalo,None,None,74,70
+0:16,Buffalo,CJ Massinburg,Missed Free Throw,74,70
+0:16,Buffalo,Dontay Caruthers,Offensive Rebound,74,70
+0:13,Buffalo,Dontay Caruthers,Layup,76,70
+0:09,Akron,Tyler Cheese,Missed Three Point Jumper,76,70
+0:09,Buffalo,Nick Perkins,Defensive Rebound,76,70
+0:00,Akron,None,None,76,70

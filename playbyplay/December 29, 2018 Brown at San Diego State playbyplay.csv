@@ -1,0 +1,324 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,Brown,Tamenang Choh,Turnover,0,0
+19:41,San Diego State,Jordan Schakel,Steal,0,0
+19:37,San Diego State,Devin Watson,Jumper,0,2
+19:24,Brown,Zach Hunsaker,Three Point Jumper,3,2
+19:02,San Diego State,Matt Mitchell,Jumper,3,4
+19:01,Brown,Zach Hunsaker,Foul,3,4
+19:01,San Diego State,Matt Mitchell,Free Throw,3,5
+18:52,Brown,Tamenang Choh,Layup,5,5
+18:34,San Diego State,Matt Mitchell,Missed Three Point Jumper,5,5
+18:34,Brown,Zach Hunsaker,Defensive Rebound,5,5
+18:14,Brown,Joshua Howard,Three Point Jumper,8,5
+17:57,San Diego State,Devin Watson,Missed Jumper,8,5
+17:57,Brown,Tamenang Choh,Defensive Rebound,8,5
+17:49,Brown,Joshua Howard,Three Point Jumper,11,5
+17:20,San Diego State,Jeremy Hemsley,Foul,11,5
+17:20,San Diego State,Jeremy Hemsley,Turnover,11,5
+17:08,Brown,Desmond Cambridge,Missed Three Point Jumper,11,5
+17:08,San Diego State,Jalen McDaniels,Defensive Rebound,11,5
+17:02,San Diego State,Devin Watson,Turnover,11,5
+16:50,Brown,Zach Hunsaker,Missed Three Point Jumper,11,5
+16:50,San Diego State,Jalen McDaniels,Defensive Rebound,11,5
+16:42,San Diego State,Jeremy Hemsley,Missed Three Point Jumper,11,5
+16:42,San Diego State,None,Team Rebound,11,5
+16:39,Brown,Joshua Howard,Foul,11,5
+16:33,San Diego State,Matt Mitchell,Jumper,11,7
+16:00,Brown,Tamenang Choh,Jumper,13,7
+15:38,San Diego State,Jalen McDaniels,Turnover,13,7
+15:38,San Diego State,None,None,13,7
+15:24,Brown,Desmond Cambridge,Jumper,15,7
+15:00,San Diego State,Matt Mitchell,Missed Three Point Jumper,15,7
+15:00,Brown,Joshua Howard,Defensive Rebound,15,7
+14:42,Brown,Joshua Howard,Layup,17,7
+14:28,San Diego State,Jalen McDaniels,Foul,17,7
+14:28,San Diego State,Jalen McDaniels,Turnover,17,7
+14:07,Brown,Tamenang Choh,Layup,19,7
+13:50,San Diego State,Jalen McDaniels,Missed Jumper,19,7
+13:50,Brown,Joshua Howard,Defensive Rebound,19,7
+13:28,Brown,Brandon Anderson,Missed Three Point Jumper,19,7
+13:28,Brown,Joshua Howard,Offensive Rebound,19,7
+13:06,Brown,Obi Okolie,Missed Jumper,19,7
+13:06,San Diego State,Jordan Schakel,Defensive Rebound,19,7
+12:59,Brown,Joshua Howard,Foul,19,7
+12:59,San Diego State,Jalen McDaniels,Free Throw,19,8
+12:59,San Diego State,Jalen McDaniels,Free Throw,19,9
+12:43,Brown,Desmond Cambridge,Missed Jumper,19,9
+12:43,San Diego State,Jeremy Hemsley,Block,19,9
+12:40,Brown,Desmond Cambridge,Offensive Rebound,19,9
+12:38,Brown,Desmond Cambridge,Jumper,21,9
+12:20,Brown,Brandon Anderson,Foul,21,9
+12:16,San Diego State,Matt Mitchell,Foul,21,9
+12:16,San Diego State,Matt Mitchell,Turnover,21,9
+12:09,Brown,Brandon Anderson,Turnover,21,9
+12:07,San Diego State,Jordan Schakel,Steal,21,9
+12:04,San Diego State,Jordan Schakel,Turnover,21,9
+12:02,Brown,Zach Hunsaker,Steal,21,9
+11:51,Brown,Brandon Anderson,Missed Three Point Jumper,21,9
+11:51,San Diego State,Devin Watson,Defensive Rebound,21,9
+11:41,San Diego State,Jordan Schakel,Three Point Jumper,21,12
+11:27,Brown,Tamenang Choh,Foul,21,12
+11:27,Brown,Tamenang Choh,Turnover,21,12
+11:27,San Diego State,None,None,21,12
+11:09,San Diego State,Matt Mitchell,Turnover,21,12
+10:38,Brown,Brown ,Turnover,21,12
+10:25,San Diego State,Nathan Mensah,Missed Jumper,21,12
+10:25,Brown,Obi Okolie,Defensive Rebound,21,12
+10:06,Brown,Brandon Anderson,Three Point Jumper,24,12
+9:37,San Diego State,None,None,24,12
+9:35,San Diego State,Jordan Schakel,Missed Three Point Jumper,24,12
+9:35,San Diego State,Nathan Mensah,Offensive Rebound,24,12
+9:31,San Diego State,Nathan Mensah,Jumper,24,14
+9:29,Brown,Travis Fuller,Foul,24,14
+9:29,San Diego State,Nathan Mensah,Free Throw,24,15
+9:17,Brown,Brandon Anderson,Turnover,24,15
+9:02,San Diego State,Aguek Arop,Missed Jumper,24,15
+9:02,San Diego State,Aguek Arop,Offensive Rebound,24,15
+8:58,San Diego State,Aguek Arop,Missed Layup,24,15
+8:58,San Diego State,Nathan Mensah,Offensive Rebound,24,15
+8:54,San Diego State,Aguek Arop,Layup,24,17
+8:39,Brown,Brandon Anderson,Missed Three Point Jumper,24,17
+8:39,San Diego State,Jalen McDaniels,Defensive Rebound,24,17
+8:32,San Diego State,Aguek Arop,Three Point Jumper,24,20
+8:26,Brown,None,None,24,20
+8:26,San Diego State,None,None,24,20
+8:06,Brown,Tamenang Choh,Layup,26,20
+7:46,San Diego State,Jalen McDaniels,Missed Jumper,26,20
+7:46,San Diego State,Aguek Arop,Offensive Rebound,26,20
+7:40,San Diego State,Aguek Arop,Missed Jumper,26,20
+7:40,San Diego State,Aguek Arop,Offensive Rebound,26,20
+7:24,San Diego State,Jordan Schakel,Missed Jumper,26,20
+7:24,Brown,Travis Fuller,Defensive Rebound,26,20
+7:04,Brown,Desmond Cambridge,Three Point Jumper,29,20
+6:48,San Diego State,Aguek Arop,Turnover,29,20
+6:45,Brown,Desmond Cambridge,Steal,29,20
+6:41,San Diego State,Aguek Arop,Foul,29,20
+6:40,Brown,Desmond Cambridge,Three Point Jumper,32,20
+6:23,San Diego State,Nathan Mensah,Foul,32,20
+6:23,San Diego State,Nathan Mensah,Turnover,32,20
+6:11,Brown,Obi Okolie,Three Point Jumper,35,20
+5:34,San Diego State,Jalen McDaniels,Missed Jumper,35,20
+5:34,Brown,Tamenang Choh,Defensive Rebound,35,20
+5:07,Brown,Desmond Cambridge,Three Point Jumper,38,20
+4:58,San Diego State,None,None,38,20
+4:42,San Diego State,Jalen McDaniels,Missed Three Point Jumper,38,20
+4:42,Brown,Obi Okolie,Defensive Rebound,38,20
+4:23,Brown,Obi Okolie,Three Point Jumper,41,20
+3:59,San Diego State,Matt Mitchell,Missed Jumper,41,20
+3:59,Brown,Chris Sullivan,Defensive Rebound,41,20
+3:39,Brown,Tamenang Choh,Foul,41,20
+3:39,Brown,Tamenang Choh,Turnover,41,20
+3:39,San Diego State,None,None,41,20
+3:27,Brown,David Mitchell,Foul,41,20
+3:27,San Diego State,Matt Mitchell,Missed Free Throw,41,20
+3:27,Brown,Desmond Cambridge,Defensive Rebound,41,20
+3:13,Brown,Obi Okolie,Jumper,43,20
+2:49,San Diego State,Devin Watson,Missed Three Point Jumper,43,20
+2:49,San Diego State,San Diego State,Offensive Rebound,43,20
+2:46,San Diego State,Devin Watson,Turnover,43,20
+2:44,Brown,Desmond Cambridge,Steal,43,20
+2:40,Brown,Travis Fuller,Layup,45,20
+2:28,San Diego State,Jalen McDaniels,Missed Jumper,45,20
+2:28,Brown,Desmond Cambridge,Defensive Rebound,45,20
+2:13,Brown,Desmond Cambridge,Three Point Jumper,48,20
+1:58,San Diego State,Jeremy Hemsley,Missed Layup,48,20
+1:58,Brown,Desmond Cambridge,Block,48,20
+1:56,Brown,David Mitchell,Defensive Rebound,48,20
+1:34,Brown,Travis Fuller,Turnover,48,20
+1:32,San Diego State,Jalen McDaniels,Steal,48,20
+1:29,San Diego State,Matt Mitchell,Turnover,48,20
+1:27,Brown,Obi Okolie,Steal,48,20
+1:21,Brown,Obi Okolie,Layup,50,20
+1:19,San Diego State,Matt Mitchell,Foul,50,20
+1:19,Brown,Obi Okolie,Missed Free Throw,50,20
+1:19,San Diego State,Jalen McDaniels,Defensive Rebound,50,20
+1:08,San Diego State,Aguek Arop,Missed Jumper,50,20
+1:08,Brown,Zach Hunsaker,Defensive Rebound,50,20
+0:51,Brown,Chris Sullivan,Foul,50,20
+0:51,Brown,Chris Sullivan,Turnover,50,20
+0:29,San Diego State,Aguek Arop,Dunk,50,22
+0:06,Brown,Desmond Cambridge,Missed Three Point Jumper,50,22
+0:06,San Diego State,San Diego State,Defensive Rebound,50,22
+0:00,San Diego State,Devin Watson,Missed Three Point Jumper,50,22
+0:00,San Diego State,None,Team Rebound,50,22
+0:00,San Diego State,None,None,50,22
+19:47,San Diego State,Jeremy Hemsley,Missed Jumper,50,22
+19:47,Brown,Tamenang Choh,Defensive Rebound,50,22
+19:36,Brown,Obi Okolie,Foul,50,22
+19:36,Brown,Obi Okolie,Turnover,50,22
+19:26,San Diego State,Jalen McDaniels,Missed Layup,50,22
+19:26,Brown,Tamenang Choh,Block,50,22
+19:22,Brown,Desmond Cambridge,Defensive Rebound,50,22
+19:16,Brown,Desmond Cambridge,Three Point Jumper,53,22
+19:05,San Diego State,Jalen McDaniels,Jumper,53,24
+18:39,Brown,Obi Okolie,Missed Jumper,53,24
+18:39,Brown,Obi Okolie,Offensive Rebound,53,24
+18:35,Brown,Obi Okolie,Missed Jumper,53,24
+18:35,San Diego State,Jordan Schakel,Block,53,24
+18:33,San Diego State,Jordan Schakel,Defensive Rebound,53,24
+18:28,San Diego State,Jeremy Hemsley,Missed Three Point Jumper,53,24
+18:28,Brown,Obi Okolie,Defensive Rebound,53,24
+18:13,Brown,Tamenang Choh,Layup,55,24
+17:50,San Diego State,Matt Mitchell,Missed Jumper,55,24
+17:50,Brown,Tamenang Choh,Defensive Rebound,55,24
+17:41,Brown,Desmond Cambridge,Three Point Jumper,58,24
+17:22,San Diego State,Jalen McDaniels,Jumper,58,26
+17:09,San Diego State,Devin Watson,Foul,58,26
+17:07,Brown,Tamenang Choh,Layup,60,26
+16:55,Brown,Tamenang Choh,Foul,60,26
+16:49,Brown,Desmond Cambridge,Foul,60,26
+16:49,San Diego State,Jordan Schakel,Free Throw,60,27
+16:49,San Diego State,Jordan Schakel,Free Throw,60,28
+16:33,Brown,Zach Hunsaker,Missed Three Point Jumper,60,28
+16:33,San Diego State,Devin Watson,Defensive Rebound,60,28
+16:26,San Diego State,Matt Mitchell,Dunk,60,30
+16:13,San Diego State,Jordan Schakel,Foul,60,30
+15:51,Brown,Obi Okolie,Three Point Jumper,63,30
+15:32,Brown,Desmond Cambridge,Foul,63,30
+15:32,San Diego State,None,None,63,30
+15:29,San Diego State,Jalen McDaniels,Jumper,63,32
+15:04,Brown,Obi Okolie,Missed Three Point Jumper,63,32
+15:04,San Diego State,Jeremy Hemsley,Defensive Rebound,63,32
+14:53,San Diego State,Devin Watson,Missed Three Point Jumper,63,32
+14:53,Brown,Zach Hunsaker,Defensive Rebound,63,32
+14:41,Brown,Joshua Howard,Missed Three Point Jumper,63,32
+14:41,San Diego State,Jalen McDaniels,Defensive Rebound,63,32
+14:28,San Diego State,Jalen McDaniels,Missed Jumper,63,32
+14:28,Brown,Brown,Defensive Rebound,63,32
+14:12,San Diego State,Aguek Arop,Foul,63,32
+14:07,Brown,Desmond Cambridge,Missed Jumper,63,32
+14:07,San Diego State,Nathan Mensah,Defensive Rebound,63,32
+14:04,Brown,Desmond Cambridge,Foul,63,32
+13:56,San Diego State,Devin Watson,Missed Jumper,63,32
+13:56,San Diego State,San Diego State,Offensive Rebound,63,32
+13:49,Brown,Brandon Anderson,Foul,63,32
+13:49,San Diego State,Devin Watson,Missed Free Throw,63,32
+13:49,San Diego State,None,Team Rebound,63,32
+13:49,San Diego State,Devin Watson,Free Throw,63,33
+13:34,San Diego State,Jeremy Hemsley,Foul,63,33
+13:26,Brown,Obi Okolie,Missed Layup,63,33
+13:26,San Diego State,Aguek Arop,Defensive Rebound,63,33
+13:23,Brown,David Mitchell,Foul,63,33
+13:23,San Diego State,Aguek Arop,Free Throw,63,34
+13:23,San Diego State,Aguek Arop,Free Throw,63,35
+13:14,Brown,Zach Hunsaker,Missed Three Point Jumper,63,35
+13:14,Brown,David Mitchell,Offensive Rebound,63,35
+13:10,Brown,David Mitchell,Layup,65,35
+13:01,San Diego State,Jalen McDaniels,Foul,65,35
+13:01,San Diego State,Jalen McDaniels,Turnover,65,35
+12:47,San Diego State,Nathan Mensah,Foul,65,35
+12:34,Brown,Joshua Howard,Missed Layup,65,35
+12:34,San Diego State,Nathan Mensah,Block,65,35
+12:32,San Diego State,Jeremy Hemsley,Defensive Rebound,65,35
+12:28,San Diego State,Jordan Schakel,Three Point Jumper,65,38
+12:17,Brown,Brandon Anderson,Turnover,65,38
+12:15,San Diego State,Jalen McDaniels,Steal,65,38
+11:57,Brown,Joshua Howard,Foul,65,38
+11:57,San Diego State,None,None,65,38
+11:57,San Diego State,Jalen McDaniels,Free Throw,65,39
+11:57,San Diego State,Jalen McDaniels,Missed Free Throw,65,39
+11:57,Brown,Travis Fuller,Defensive Rebound,65,39
+11:44,Brown,Brandon Anderson,Missed Layup,65,39
+11:44,San Diego State,Jalen McDaniels,Block,65,39
+11:41,San Diego State,Nathan Mensah,Defensive Rebound,65,39
+11:37,Brown,Zach Hunsaker,Foul,65,39
+11:37,San Diego State,Devin Watson,Free Throw,65,40
+11:37,San Diego State,Devin Watson,Missed Free Throw,65,40
+11:37,Brown,Travis Fuller,Defensive Rebound,65,40
+11:29,Brown,Joshua Howard,Turnover,65,40
+11:27,San Diego State,Jalen McDaniels,Steal,65,40
+11:24,San Diego State,Jordan Schakel,Missed Three Point Jumper,65,40
+11:24,Brown,Zach Hunsaker,Defensive Rebound,65,40
+11:06,Brown,Travis Fuller,Turnover,65,40
+10:52,San Diego State,Jalen McDaniels,Jumper,65,42
+10:20,Brown,Tamenang Choh,Jumper,67,42
+10:07,San Diego State,Matt Mitchell,Missed Three Point Jumper,67,42
+10:07,Brown,Joshua Howard,Defensive Rebound,67,42
+9:40,Brown,Brandon Anderson,Jumper,69,42
+9:12,San Diego State,Jalen McDaniels,Jumper,69,44
+9:03,Brown,Desmond Cambridge,Three Point Jumper,72,44
+8:59,Brown,None,None,72,44
+8:59,San Diego State,None,None,72,44
+8:45,Brown,Desmond Cambridge,Foul,72,44
+8:45,San Diego State,Matt Mitchell,Missed Free Throw,72,44
+8:45,San Diego State,None,Team Rebound,72,44
+8:45,San Diego State,Matt Mitchell,Free Throw,72,45
+8:31,San Diego State,Devin Watson,Foul,72,45
+8:31,Brown,Brandon Anderson,Free Throw,73,45
+8:31,Brown,Brandon Anderson,Missed Free Throw,73,45
+8:31,Brown,Brown,Offensive Rebound,73,45
+8:17,Brown,Brandon Anderson,Missed Jumper,73,45
+8:17,San Diego State,Nolan Narain,Block,73,45
+8:15,San Diego State,Jalen McDaniels,Defensive Rebound,73,45
+8:11,Brown,Chris Sullivan,Foul,73,45
+8:11,San Diego State,Nolan Narain,Free Throw,73,46
+8:11,San Diego State,Nolan Narain,Missed Free Throw,73,46
+8:11,Brown,Chris Sullivan,Defensive Rebound,73,46
+7:45,San Diego State,Nolan Narain,Foul,73,46
+7:45,San Diego State,None,None,73,46
+7:45,Brown,Joshua Howard,Missed Free Throw,73,46
+7:45,Brown,None,Team Rebound,73,46
+7:45,Brown,Joshua Howard,Free Throw,74,46
+7:30,San Diego State,Jalen McDaniels,Three Point Jumper,74,49
+7:11,Brown,Joshua Howard,Layup,76,49
+6:55,Brown,Chris Sullivan,Foul,76,49
+6:55,San Diego State,Jordan Schakel,Free Throw,76,50
+6:55,San Diego State,Jordan Schakel,Missed Free Throw,76,50
+6:55,Brown,Joshua Howard,Defensive Rebound,76,50
+6:44,Brown,Zach Hunsaker,Missed Layup,76,50
+6:44,San Diego State,Jalen McDaniels,Block,76,50
+6:42,San Diego State,Matt Mitchell,Defensive Rebound,76,50
+6:31,San Diego State,Devin Watson,Missed Three Point Jumper,76,50
+6:31,Brown,Tamenang Choh,Defensive Rebound,76,50
+5:59,Brown,Tamenang Choh,Missed Jumper,76,50
+5:59,San Diego State,Jordan Schakel,Defensive Rebound,76,50
+5:48,San Diego State,Jalen McDaniels,Three Point Jumper,76,53
+5:23,San Diego State,Nathan Mensah,Foul,76,53
+5:23,Brown,Tamenang Choh,Free Throw,77,53
+5:23,Brown,Tamenang Choh,Free Throw,78,53
+5:08,Brown,Joshua Howard,Foul,78,53
+5:08,San Diego State,Nathan Mensah,Free Throw,78,54
+5:08,San Diego State,Nathan Mensah,Free Throw,78,55
+4:57,Brown,Tamenang Choh,Missed Layup,78,55
+4:57,San Diego State,Nathan Mensah,Block,78,55
+4:54,San Diego State,Ed Chang,Defensive Rebound,78,55
+4:51,San Diego State,Ed Chang,Turnover,78,55
+4:40,San Diego State,Joel Mensah,Missed Layup,78,55
+4:40,San Diego State,Nathan Mensah,Offensive Rebound,78,55
+4:35,San Diego State,Nathan Mensah,Dunk,78,57
+4:17,Brown,Desmond Cambridge,Missed Three Point Jumper,78,57
+4:17,San Diego State,Nathan Mensah,Defensive Rebound,78,57
+3:53,San Diego State,Ed Chang,Turnover,78,57
+3:51,Brown,Zach Hunsaker,Steal,78,57
+3:42,Brown,Brandon Anderson,Three Point Jumper,81,57
+3:16,San Diego State,Joel Mensah,Missed Jumper,81,57
+3:16,Brown,Tamenang Choh,Defensive Rebound,81,57
+2:58,Brown,Desmond Cambridge,Missed Three Point Jumper,81,57
+2:58,San Diego State,San Diego State,Defensive Rebound,81,57
+2:55,San Diego State,None,None,81,57
+2:43,Brown,George Mawanda-Kalema,Missed Jumper,81,57
+2:43,San Diego State,Aguek Arop,Defensive Rebound,81,57
+2:19,San Diego State,Aguek Arop,Missed Jumper,81,57
+2:19,Brown,Davis Franks,Defensive Rebound,81,57
+1:47,Brown,Thomas Shaughnessy,Turnover,81,57
+1:45,San Diego State,Aguek Arop,Steal,81,57
+1:42,Brown,Travis Fuller,Foul,81,57
+1:42,San Diego State,Aguek Arop,Free Throw,81,58
+1:42,San Diego State,Aguek Arop,Free Throw,81,59
+1:16,Brown,Jake Shaper,Missed Three Point Jumper,81,59
+1:16,San Diego State,San Diego State,Defensive Rebound,81,59
+1:03,San Diego State,Joel Mensah,Missed Jumper,81,59
+1:03,San Diego State,Nathan Mensah,Offensive Rebound,81,59
+1:00,San Diego State,Nathan Mensah,Dunk,81,61
+0:57,Brown,Davis Franks,Foul,81,61
+0:57,San Diego State,Nathan Mensah,Missed Free Throw,81,61
+0:57,Brown,Jake Shaper,Defensive Rebound,81,61
+0:42,Brown,George Mawanda-Kalema,Missed Jumper,81,61
+0:42,Brown,Jake Shaper,Offensive Rebound,81,61
+0:36,San Diego State,Joel Mensah,Foul,81,61
+0:36,Brown,Jake Shaper,Missed Free Throw,81,61
+0:36,Brown,None,Team Rebound,81,61
+0:36,Brown,Jake Shaper,Free Throw,82,61
+0:27,San Diego State,Joel Mensah,Missed Jumper,82,61
+0:27,Brown,Thomas Shaughnessy,Defensive Rebound,82,61
+0:00,San Diego State,None,None,82,61

@@ -1,0 +1,363 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Wisconsin,None,None,0,0
+19:33,Wisconsin,Ethan Happ,Turnover,0,0
+19:33,Purdue,Grady Eifert,Steal,0,0
+19:25,Purdue,Carsen Edwards,Missed Layup,0,0
+19:25,Wisconsin,Nate Reuvers,Block,0,0
+19:25,Purdue,Purdue,Offensive Rebound,0,0
+19:10,Purdue,Trevion Williams,Missed Jumper,0,0
+19:10,Wisconsin,Ethan Happ,Defensive Rebound,0,0
+18:50,Wisconsin,Khalil Iverson,Layup,0,2
+18:25,Purdue,Grady Eifert,Three Point Jumper,3,2
+18:11,Purdue,Trevion Williams,Foul,3,2
+18:07,Wisconsin,Khalil Iverson,Layup,3,4
+17:54,Purdue,Ryan Cline,Three Point Jumper,6,4
+17:32,Wisconsin,Nate Reuvers,Missed Jumper,6,4
+17:32,Purdue,Grady Eifert,Defensive Rebound,6,4
+17:22,Purdue,Nojel Eastern,Jumper,8,4
+16:58,Wisconsin,Ethan Happ,Layup,8,6
+16:39,Purdue,Carsen Edwards,Three Point Jumper,11,6
+16:03,Wisconsin,D'Mitrik Trice,Missed Jumper,11,6
+16:03,Purdue,Nojel Eastern,Block,11,6
+16:03,Wisconsin,Khalil Iverson,Offensive Rebound,11,6
+15:55,Wisconsin,Khalil Iverson,Missed Jumper,11,6
+15:55,Purdue,Matt Haarms,Defensive Rebound,11,6
+15:48,Purdue,Carsen Edwards,Turnover,11,6
+15:48,Wisconsin,None,None,11,6
+15:30,Wisconsin,Brad Davison,Missed Jumper,11,6
+15:30,Wisconsin,Ethan Happ,Offensive Rebound,11,6
+15:30,Wisconsin,None,None,11,8
+15:05,Purdue,Matt Haarms,Missed Jumper,11,8
+15:05,Wisconsin,Ethan Happ,Defensive Rebound,11,8
+14:42,Wisconsin,Nate Reuvers,Missed Three Point Jumper,11,8
+14:42,Purdue,Grady Eifert,Defensive Rebound,11,8
+14:31,Purdue,Nojel Eastern,Missed Layup,11,8
+14:31,Purdue,Purdue,Offensive Rebound,11,8
+14:25,Purdue,Ryan Cline,Missed Jumper,11,8
+14:25,Wisconsin,Wisconsin,Defensive Rebound,11,8
+14:04,Wisconsin,Ethan Happ,Layup,11,10
+13:41,Purdue,Trevion Williams,Layup,13,10
+13:19,Wisconsin,Ethan Happ,Turnover,13,10
+13:02,Purdue,Trevion Williams,Dunk,15,10
+12:22,Wisconsin,Kobe King,Turnover,15,10
+12:22,Purdue,Aaron Wheeler,Steal,15,10
+12:15,Purdue,Carsen Edwards,Missed Layup,15,10
+12:15,Purdue,Aaron Wheeler,Offensive Rebound,15,10
+12:15,Purdue,None,None,17,10
+11:52,Wisconsin,D'Mitrik Trice,Missed Jumper,17,10
+11:52,Purdue,Carsen Edwards,Defensive Rebound,17,10
+11:40,Purdue,Eric Hunter Jr.,Missed Layup,17,10
+11:40,Purdue,Aaron Wheeler,Offensive Rebound,17,10
+11:40,Purdue,Carsen Edwards,Three Point Jumper,20,10
+11:40,Wisconsin,None,None,20,10
+11:31,Wisconsin,Brevin Pritzl,Layup,20,12
+11:10,Purdue,Carsen Edwards,Foul,20,12
+11:10,Purdue,Carsen Edwards,Turnover,20,12
+10:59,Wisconsin,Ethan Happ,Layup,20,14
+10:28,Wisconsin,Brevin Pritzl,Foul,20,14
+10:21,Purdue,Carsen Edwards,Three Point Jumper,23,14
+10:08,Wisconsin,Aleem Ford,Missed Three Point Jumper,23,14
+10:08,Purdue,Aaron Wheeler,Defensive Rebound,23,14
+9:49,Purdue,Nojel Eastern,Missed Jumper,23,14
+9:49,Wisconsin,Ethan Happ,Defensive Rebound,23,14
+9:42,Purdue,Aaron Wheeler,Foul,23,14
+9:42,Wisconsin,D'Mitrik Trice,Missed Layup,23,14
+9:42,Wisconsin,Khalil Iverson,Offensive Rebound,23,14
+9:42,Wisconsin,None,None,23,14
+9:42,Purdue,Matt Haarms,Block,23,14
+9:42,Purdue,Matt Haarms,Defensive Rebound,23,14
+9:42,Purdue,Carsen Edwards,Jumper,25,14
+8:36,Wisconsin,Ethan Happ,Missed Jumper,25,14
+8:36,Wisconsin,Ethan Happ,Offensive Rebound,25,14
+8:36,Wisconsin,Ethan Happ,Layup,25,16
+8:36,Purdue,Ryan Cline,Foul,25,16
+8:36,Wisconsin,Ethan Happ,Missed Free Throw,25,16
+8:36,Purdue,Nojel Eastern,Defensive Rebound,25,16
+8:25,Wisconsin,Khalil Iverson,Foul,25,16
+8:16,Purdue,Matt Haarms,Layup,27,16
+7:47,Wisconsin,Ethan Happ,Layup,27,18
+7:25,Purdue,Matt Haarms,Foul,27,18
+7:25,Wisconsin,None,None,27,18
+7:25,Purdue,Matt Haarms,Turnover,27,18
+7:25,Wisconsin,Brad Davison,Missed Free Throw,27,18
+7:25,Wisconsin,None,None,27,18
+7:25,Purdue,Matt Haarms,Foul,27,18
+7:25,Purdue,Matt Haarms,Foul,27,18
+7:25,Wisconsin,Brad Davison,Missed Free Throw,27,18
+7:01,Wisconsin,D'Mitrik Trice,Three Point Jumper,27,21
+6:39,Purdue,Trevion Williams,Missed Layup,27,21
+6:39,Wisconsin,D'Mitrik Trice,Defensive Rebound,27,21
+6:39,Purdue,Ryan Cline,Foul,27,21
+6:39,Wisconsin,Khalil Iverson,Free Throw,27,22
+6:39,Wisconsin,Khalil Iverson,Missed Free Throw,27,22
+6:39,Purdue,Nojel Eastern,Defensive Rebound,27,22
+6:18,Wisconsin,Khalil Iverson,Foul,27,22
+6:18,Purdue,Carsen Edwards,Missed Free Throw,27,22
+6:18,Purdue,None,Team Rebound,27,22
+6:18,Purdue,Carsen Edwards,Free Throw,28,22
+6:18,Purdue,Carsen Edwards,Missed Free Throw,28,22
+6:18,Wisconsin,Ethan Happ,Defensive Rebound,28,22
+5:53,Wisconsin,Ethan Happ,Jumper,28,24
+5:34,Purdue,Carsen Edwards,Missed Three Point Jumper,28,24
+5:34,Purdue,Nojel Eastern,Offensive Rebound,28,24
+5:34,Wisconsin,Kobe King,Foul,28,24
+5:21,Purdue,Nojel Eastern,Missed Jumper,28,24
+5:21,Wisconsin,Ethan Happ,Defensive Rebound,28,24
+5:12,Wisconsin,Nate Reuvers,Layup,28,26
+4:46,Purdue,Carsen Edwards,Missed Three Point Jumper,28,26
+4:46,Purdue,Trevion Williams,Offensive Rebound,28,26
+4:46,Wisconsin,Nate Reuvers,Foul,28,26
+4:35,Wisconsin,D'Mitrik Trice,Foul,28,26
+4:35,Purdue,Trevion Williams,Missed Free Throw,28,26
+4:35,Purdue,None,Team Rebound,28,26
+4:35,Purdue,Trevion Williams,Missed Free Throw,28,26
+4:35,Wisconsin,Kobe King,Defensive Rebound,28,26
+4:14,Purdue,Eric Hunter Jr.,Foul,28,26
+4:14,Wisconsin,D'Mitrik Trice,Free Throw,28,27
+4:14,Wisconsin,D'Mitrik Trice,Free Throw,28,28
+4:01,Wisconsin,Kobe King,Foul,28,28
+4:01,Purdue,Sasha Stefanovic,Missed Free Throw,28,28
+4:01,Wisconsin,Nate Reuvers,Defensive Rebound,28,28
+3:47,Wisconsin,Nate Reuvers,Turnover,28,28
+3:47,Wisconsin,None,None,28,28
+3:23,Purdue,Sasha Stefanovic,Missed Jumper,28,28
+3:23,Wisconsin,Aleem Ford,Defensive Rebound,28,28
+3:14,Purdue,Eric Hunter Jr.,Foul,28,28
+3:14,Wisconsin,Aleem Ford,Free Throw,28,29
+3:14,Wisconsin,Aleem Ford,Free Throw,28,30
+3:05,Purdue,Carsen Edwards,Missed Jumper,28,30
+3:05,Wisconsin,Ethan Happ,Block,28,30
+3:05,Wisconsin,Kobe King,Defensive Rebound,28,30
+2:47,Wisconsin,Ethan Happ,Layup,28,32
+2:39,Purdue,None,None,28,32
+2:21,Purdue,Trevion Williams,Layup,30,32
+2:10,Wisconsin,D'Mitrik Trice,Turnover,30,32
+2:06,Purdue,Carsen Edwards,Jumper,32,32
+1:47,Wisconsin,Ethan Happ,Layup,32,34
+1:26,Purdue,Nojel Eastern,Layup,34,34
+1:26,Wisconsin,D'Mitrik Trice,Foul,34,34
+1:26,Purdue,Nojel Eastern,Free Throw,35,34
+1:04,Purdue,None,None,35,34
+1:04,Wisconsin,Ethan Happ,Turnover,35,34
+1:04,Purdue,Trevion Williams,Steal,35,34
+0:54,Purdue,Nojel Eastern,Dunk,37,34
+0:31,Wisconsin,Brad Davison,Jumper,37,36
+0:02,Purdue,Carsen Edwards,Missed Three Point Jumper,37,36
+0:02,Wisconsin,Ethan Happ,Defensive Rebound,37,36
+0:01,Wisconsin,Kobe King,Missed Jumper,37,36
+0:01,Purdue,None,Team Rebound,37,36
+0:00,Wisconsin,None,None,37,36
+20:00,Wisconsin,None,None,37,36
+19:46,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,37,36
+19:46,Purdue,Trevion Williams,Defensive Rebound,37,36
+19:27,Purdue,Carsen Edwards,Three Point Jumper,40,36
+19:06,Purdue,Trevion Williams,Foul,40,36
+19:06,Wisconsin,Ethan Happ,Turnover,40,36
+19:06,Purdue,Trevion Williams,Steal,40,36
+18:48,Purdue,Nojel Eastern,Foul,40,36
+18:48,Purdue,Nojel Eastern,Turnover,40,36
+18:36,Wisconsin,Khalil Iverson,Turnover,40,36
+18:36,Purdue,Carsen Edwards,Steal,40,36
+18:19,Purdue,Grady Eifert,Missed Three Point Jumper,40,36
+18:19,Wisconsin,Brad Davison,Defensive Rebound,40,36
+18:03,Wisconsin,D'Mitrik Trice,Turnover,40,36
+17:46,Purdue,Trevion Williams,Turnover,40,36
+17:46,Wisconsin,Khalil Iverson,Steal,40,36
+17:32,Wisconsin,Nate Reuvers,Three Point Jumper,40,39
+17:15,Purdue,Carsen Edwards,Jumper,42,39
+17:01,Wisconsin,Brad Davison,Three Point Jumper,42,42
+16:42,Purdue,Carsen Edwards,Missed Three Point Jumper,42,42
+16:42,Purdue,Trevion Williams,Offensive Rebound,42,42
+16:42,Purdue,None,None,42,42
+16:42,Wisconsin,Ethan Happ,Defensive Rebound,42,42
+16:19,Wisconsin,Brad Davison,Missed Jumper,42,42
+16:19,Purdue,Ryan Cline,Defensive Rebound,42,42
+15:55,Purdue,Grady Eifert,Layup,44,42
+15:35,Wisconsin,Khalil Iverson,Missed Layup,44,42
+15:35,Purdue,Trevion Williams,Defensive Rebound,44,42
+15:18,Purdue,Carsen Edwards,Missed Jumper,44,42
+15:18,Wisconsin,Ethan Happ,Defensive Rebound,44,42
+15:18,Wisconsin,None,None,44,42
+14:56,Wisconsin,Brad Davison,Jumper,44,44
+14:37,Purdue,Eric Hunter Jr.,Missed Three Point Jumper,44,44
+14:37,Wisconsin,Brad Davison,Defensive Rebound,44,44
+14:24,Wisconsin,Brad Davison,Three Point Jumper,44,47
+14:04,Wisconsin,Brad Davison,Foul,44,47
+14:04,Wisconsin,None,None,44,47
+14:04,Purdue,Carsen Edwards,Free Throw,45,47
+14:04,Purdue,Carsen Edwards,Missed Free Throw,45,47
+14:04,Purdue,None,Team Rebound,45,47
+14:04,Purdue,Carsen Edwards,Free Throw,46,47
+13:49,Wisconsin,Aleem Ford,Three Point Jumper,46,50
+13:26,Purdue,Ryan Cline,Three Point Jumper,49,50
+12:55,Wisconsin,Ethan Happ,Layup,49,52
+12:26,Purdue,Carsen Edwards,Missed Three Point Jumper,49,52
+12:26,Purdue,Aaron Wheeler,Offensive Rebound,49,52
+12:18,Purdue,Ryan Cline,Three Point Jumper,52,52
+12:08,Wisconsin,Aleem Ford,Missed Three Point Jumper,52,52
+12:08,Purdue,Carsen Edwards,Defensive Rebound,52,52
+11:58,Purdue,Carsen Edwards,Three Point Jumper,55,52
+11:32,Wisconsin,Ethan Happ,Turnover,55,52
+11:32,Purdue,Eric Hunter Jr.,Steal,55,52
+11:32,Wisconsin,None,None,55,52
+11:18,Purdue,Carsen Edwards,Turnover,55,52
+11:18,Wisconsin,Khalil Iverson,Steal,55,52
+10:59,Wisconsin,Khalil Iverson,Turnover,55,52
+10:43,Purdue,Aaron Wheeler,Missed Three Point Jumper,55,52
+10:43,Purdue,Purdue,Offensive Rebound,55,52
+10:43,Wisconsin,Nate Reuvers,Foul,55,52
+10:36,Purdue,Matt Haarms,Foul,55,52
+10:36,Purdue,Matt Haarms,Turnover,55,52
+10:24,Wisconsin,D'Mitrik Trice,Three Point Jumper,55,55
+9:59,Purdue,Carsen Edwards,Missed Jumper,55,55
+9:59,Purdue,Nojel Eastern,Offensive Rebound,55,55
+9:48,Purdue,Trevion Williams,Missed Jumper,55,55
+9:48,Purdue,Trevion Williams,Offensive Rebound,55,55
+9:48,Purdue,None,None,55,55
+9:48,Wisconsin,Ethan Happ,Defensive Rebound,55,55
+9:36,Wisconsin,D'Mitrik Trice,Missed Jumper,55,55
+9:36,Purdue,Ryan Cline,Defensive Rebound,55,55
+9:27,Purdue,Ryan Cline,Missed Jumper,55,55
+9:27,Wisconsin,None,Team Rebound,55,55
+9:27,Purdue,Trevion Williams,Foul,55,55
+8:59,Wisconsin,D'Mitrik Trice,Missed Jumper,55,55
+8:59,Purdue,Carsen Edwards,Defensive Rebound,55,55
+8:48,Purdue,Carsen Edwards,Missed Jumper,55,55
+8:48,Purdue,Nojel Eastern,Offensive Rebound,55,55
+8:48,Purdue,None,None,57,55
+8:21,Purdue,Carsen Edwards,Jumper,59,55
+7:54,Wisconsin,Ethan Happ,Jumper,59,57
+7:54,Purdue,Matt Haarms,Foul,59,57
+7:54,Wisconsin,None,None,59,57
+7:54,Wisconsin,Ethan Happ,Free Throw,59,58
+7:30,Wisconsin,Brad Davison,Foul,59,58
+7:30,Purdue,Nojel Eastern,Missed Free Throw,59,58
+7:30,Purdue,None,Team Rebound,59,58
+7:30,Purdue,Nojel Eastern,Free Throw,60,58
+7:12,Wisconsin,Ethan Happ,Missed Layup,60,58
+7:12,Purdue,Trevion Williams,Block,60,58
+7:12,Purdue,Trevion Williams,Defensive Rebound,60,58
+6:47,Purdue,Carsen Edwards,Missed Three Point Jumper,60,58
+6:47,Purdue,Trevion Williams,Offensive Rebound,60,58
+6:47,Wisconsin,Brad Davison,Foul,60,58
+6:35,Purdue,None,None,60,58
+6:26,Purdue,Ryan Cline,Missed Three Point Jumper,60,58
+6:26,Purdue,Trevion Williams,Offensive Rebound,60,58
+6:26,Wisconsin,Aleem Ford,Foul,60,58
+6:26,Purdue,Trevion Williams,Missed Free Throw,60,58
+6:26,Purdue,None,Team Rebound,60,58
+6:26,Purdue,Trevion Williams,Missed Free Throw,60,58
+6:26,Wisconsin,Aleem Ford,Defensive Rebound,60,58
+6:13,Wisconsin,Aleem Ford,Turnover,60,58
+6:13,Purdue,Trevion Williams,Steal,60,58
+6:03,Purdue,Trevion Williams,Layup,62,58
+5:50,Wisconsin,Ethan Happ,Layup,62,60
+5:19,Wisconsin,Khalil Iverson,Foul,62,60
+5:11,Purdue,Matt Haarms,Dunk,64,60
+5:00,Wisconsin,Ethan Happ,Turnover,64,60
+5:00,Purdue,Grady Eifert,Steal,64,60
+4:51,Purdue,Ryan Cline,Three Point Jumper,67,60
+4:43,Wisconsin,None,None,67,60
+4:19,Wisconsin,Brad Davison,Missed Layup,67,60
+4:19,Wisconsin,Khalil Iverson,Offensive Rebound,67,60
+4:12,Wisconsin,Khalil Iverson,Missed Layup,67,60
+4:12,Wisconsin,Nate Reuvers,Offensive Rebound,67,60
+4:06,Wisconsin,Khalil Iverson,Jumper,67,62
+3:45,Purdue,Ryan Cline,Missed Three Point Jumper,67,62
+3:45,Wisconsin,Wisconsin,Defensive Rebound,67,62
+3:45,Wisconsin,None,None,67,62
+3:26,Wisconsin,Ethan Happ,Layup,67,64
+3:02,Purdue,Carsen Edwards,Foul,67,64
+3:02,Purdue,Carsen Edwards,Turnover,67,64
+2:30,Wisconsin,D'Mitrik Trice,Missed Jumper,67,64
+2:30,Wisconsin,Khalil Iverson,Offensive Rebound,67,64
+2:23,Wisconsin,Brad Davison,Three Point Jumper,67,67
+2:22,Purdue,None,None,67,67
+2:11,Purdue,Carsen Edwards,Missed Three Point Jumper,67,67
+2:11,Purdue,Matt Haarms,Offensive Rebound,67,67
+2:11,Wisconsin,Brad Davison,Foul,67,67
+2:11,Purdue,Carsen Edwards,Free Throw,68,67
+2:11,Purdue,Carsen Edwards,Free Throw,69,67
+1:59,Purdue,Grady Eifert,Foul,69,67
+1:59,Wisconsin,Ethan Happ,Free Throw,69,68
+1:59,Wisconsin,Ethan Happ,Missed Free Throw,69,68
+1:59,Purdue,Nojel Eastern,Defensive Rebound,69,68
+1:31,Purdue,Ryan Cline,Missed Three Point Jumper,69,68
+1:31,Wisconsin,Ethan Happ,Defensive Rebound,69,68
+1:13,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,69,68
+1:13,Purdue,Grady Eifert,Defensive Rebound,69,68
+0:45,Purdue,Carsen Edwards,Three Point Jumper,72,68
+0:30,Wisconsin,None,None,72,68
+0:22,Wisconsin,Brevin Pritzl,Missed Three Point Jumper,72,68
+0:22,Wisconsin,Ethan Happ,Offensive Rebound,72,68
+0:21,Wisconsin,D'Mitrik Trice,Three Point Jumper,72,71
+0:21,Wisconsin,Khalil Iverson,Foul,72,71
+0:21,Purdue,Carsen Edwards,Free Throw,73,71
+0:21,Purdue,Carsen Edwards,Free Throw,74,71
+0:14,Wisconsin,D'Mitrik Trice,Three Point Jumper,74,74
+0:03,Purdue,Carsen Edwards,Missed Three Point Jumper,74,74
+0:03,Wisconsin,Wisconsin,Defensive Rebound,74,74
+0:00,Wisconsin,None,None,74,74
+5:00,Wisconsin,None,None,74,74
+4:45,Wisconsin,Ethan Happ,Turnover,74,74
+4:19,Purdue,Grady Eifert,Layup,76,74
+3:52,Purdue,Trevion Williams,Foul,76,74
+3:52,Wisconsin,Ethan Happ,Missed Free Throw,76,74
+3:52,Wisconsin,None,Team Rebound,76,74
+3:52,Wisconsin,Ethan Happ,Free Throw,76,75
+3:28,Wisconsin,Ethan Happ,Foul,76,75
+3:28,Purdue,Trevion Williams,Missed Free Throw,76,75
+3:28,Purdue,None,Team Rebound,76,75
+3:28,Purdue,Trevion Williams,Free Throw,77,75
+3:15,Purdue,Nojel Eastern,Foul,77,75
+3:15,Wisconsin,D'Mitrik Trice,Free Throw,77,76
+3:15,Wisconsin,D'Mitrik Trice,Free Throw,77,77
+3:15,Wisconsin,D'Mitrik Trice,Missed Free Throw,77,77
+3:15,Purdue,Trevion Williams,Defensive Rebound,77,77
+3:00,Purdue,Carsen Edwards,Missed Jumper,77,77
+3:00,Purdue,Trevion Williams,Offensive Rebound,77,77
+2:52,Purdue,Trevion Williams,Missed Layup,77,77
+2:52,Wisconsin,Wisconsin,Defensive Rebound,77,77
+2:41,Wisconsin,Ethan Happ,Missed Jumper,77,77
+2:41,Purdue,Nojel Eastern,Defensive Rebound,77,77
+2:17,Purdue,Carsen Edwards,Missed Jumper,77,77
+2:17,Purdue,Nojel Eastern,Offensive Rebound,77,77
+2:17,Purdue,None,None,77,77
+2:17,Purdue,Trevion Williams,Offensive Rebound,77,77
+2:17,Purdue,None,None,77,77
+2:17,Wisconsin,Ethan Happ,Block,77,77
+2:17,Wisconsin,Brad Davison,Defensive Rebound,77,77
+2:06,Wisconsin,Ethan Happ,Layup,77,79
+2:06,Purdue,None,None,77,79
+1:41,Wisconsin,D'Mitrik Trice,Foul,77,79
+1:41,Purdue,Carsen Edwards,Missed Free Throw,77,79
+1:41,Purdue,None,Team Rebound,77,79
+1:41,Purdue,Carsen Edwards,Free Throw,78,79
+1:18,Wisconsin,Brevin Pritzl,Turnover,78,79
+1:18,Purdue,Ryan Cline,Steal,78,79
+1:18,Wisconsin,Ethan Happ,Foul,78,79
+1:18,Purdue,Ryan Cline,Free Throw,79,79
+1:18,Purdue,Ryan Cline,Missed Free Throw,79,79
+1:18,Wisconsin,Khalil Iverson,Defensive Rebound,79,79
+0:55,Wisconsin,Ethan Happ,Turnover,79,79
+0:55,Purdue,Ryan Cline,Steal,79,79
+0:46,Purdue,None,None,79,79
+0:38,Wisconsin,Khalil Iverson,Foul,79,79
+0:38,Purdue,Grady Eifert,Free Throw,80,79
+0:38,Purdue,Grady Eifert,Free Throw,81,79
+0:24,Wisconsin,D'Mitrik Trice,Missed Layup,81,79
+0:24,Purdue,Nojel Eastern,Defensive Rebound,81,79
+0:15,Wisconsin,Kobe King,Foul,81,79
+0:15,Purdue,Ryan Cline,Missed Free Throw,81,79
+0:15,Purdue,None,Team Rebound,81,79
+0:15,Purdue,Ryan Cline,Free Throw,82,79
+0:09,Purdue,Nojel Eastern,Foul,82,79
+0:09,Wisconsin,D'Mitrik Trice,Free Throw,82,80
+0:09,Wisconsin,D'Mitrik Trice,Missed Free Throw,82,80
+0:09,Purdue,Carsen Edwards,Defensive Rebound,82,80
+0:08,Wisconsin,Ethan Happ,Foul,82,80
+0:08,Purdue,Carsen Edwards,Free Throw,83,80
+0:08,Purdue,Carsen Edwards,Free Throw,84,80
+0:04,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,84,80
+0:04,Purdue,Matt Haarms,Defensive Rebound,84,80
+0:00,Wisconsin,None,None,84,80

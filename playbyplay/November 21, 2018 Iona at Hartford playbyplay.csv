@@ -1,0 +1,315 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:46,Hartford,George Blagojevic,Layup,0,2
+19:19,Hartford,John Carroll,Foul,0,2
+19:19,Iona,Niksa Nikolic,Missed Free Throw,0,2
+19:19,Iona,None,Team Rebound,0,2
+19:19,Iona,Niksa Nikolic,Free Throw,1,2
+18:52,Hartford,Jason Dunne,Turnover,1,2
+18:51,Iona,E.J. Crawford,Steal,1,2
+18:46,Iona,E.J. Crawford,Turnover,1,2
+18:31,Hartford,George Blagojevic,Missed Layup,1,2
+18:31,Iona,Asante Gist,Defensive Rebound,1,2
+18:22,Iona,Rickey McGill,Missed Jumper,1,2
+18:22,Hartford,George Blagojevic,Defensive Rebound,1,2
+18:01,Hartford,John Carroll,Missed Jumper,1,2
+18:01,Hartford,George Blagojevic,Offensive Rebound,1,2
+17:58,Hartford,George Blagojevic,Turnover,1,2
+17:49,Iona,Asante Gist,Three Point Jumper,4,2
+17:15,Iona,Isaiah Still,Foul,4,2
+17:05,Hartford,J.R. Lynch,Foul,4,2
+17:05,Hartford,Jason Dunne,Turnover,4,2
+16:53,Hartford,Travis Weatherington,Foul,4,2
+16:42,Iona,Niksa Nikolic,Missed Layup,4,2
+16:42,Iona,Niksa Nikolic,Offensive Rebound,4,2
+16:40,Iona,None,None,6,2
+16:30,Hartford,George Blagojevic,Missed Layup,6,2
+16:30,Iona,Asante Gist,Defensive Rebound,6,2
+16:12,Iona,E.J. Crawford,Layup,8,2
+15:49,Hartford,John Carroll,Three Point Jumper,8,5
+15:21,Iona,E.J. Crawford,Missed Layup,8,5
+15:21,Hartford,George Blagojevic,Defensive Rebound,8,5
+15:14,Hartford,John Carroll,Missed Three Point Jumper,8,5
+15:14,Iona,Rickey McGill,Defensive Rebound,8,5
+15:06,Iona,Asante Gist,Missed Jumper,8,5
+15:06,Hartford,John Carroll,Defensive Rebound,8,5
+14:45,Hartford,J.R. Lynch,Jumper,8,7
+14:20,Hartford,George Blagojevic,Foul,8,7
+14:20,Hartford,None,None,8,7
+14:04,Iona,E.J. Crawford,Missed Three Point Jumper,8,7
+14:04,Hartford,John Carroll,Defensive Rebound,8,7
+13:39,Hartford,J.R. Lynch,Turnover,8,7
+13:11,Iona,Isaiah Still,Three Point Jumper,11,7
+12:46,Iona,Tajuan Agee,Foul,11,7
+12:46,Hartford,John Carroll,Free Throw,11,8
+12:46,Hartford,John Carroll,Free Throw,11,9
+12:29,Iona,E.J. Crawford,Layup,13,9
+12:08,Hartford,Jason Dunne,Missed Three Point Jumper,13,9
+12:08,Iona,Tajuan Agee,Defensive Rebound,13,9
+11:52,Iona,Tajuan Agee,Missed Layup,13,9
+11:52,Hartford,John Carroll,Defensive Rebound,13,9
+11:41,Hartford,John Carroll,Jumper,13,11
+11:24,Iona,Isaiah Still,Turnover,13,11
+11:24,Hartford,None,None,13,11
+11:09,Hartford,John Carroll,Layup,13,13
+10:35,Iona,E.J. Crawford,Missed Jumper,13,13
+10:35,Iona,Ben Perez,Offensive Rebound,13,13
+10:16,Iona,Isaiah Still,Turnover,13,13
+9:59,Hartford,Max Twyman,Missed Three Point Jumper,13,13
+9:59,Iona,Andrija Ristanovic,Defensive Rebound,13,13
+9:47,Iona,Andrija Ristanovic,Three Point Jumper,16,13
+9:27,Iona,Rickey McGill,Foul,16,13
+9:17,Hartford,Jason Dunne,Missed Jumper,16,13
+9:17,Iona,Tajuan Agee,Defensive Rebound,16,13
+9:02,Iona,E.J. Crawford,Layup,18,13
+8:40,Iona,E.J. Crawford,Foul,18,13
+8:32,Hartford,John Carroll,Missed Three Point Jumper,18,13
+8:32,Iona,Tajuan Agee,Defensive Rebound,18,13
+8:23,Iona,Rickey McGill,Turnover,18,13
+8:22,Hartford,J.R. Lynch,Steal,18,13
+8:19,Iona,Ben Perez,Foul,18,13
+8:19,Hartford,Jason Dunne,Free Throw,18,14
+8:19,Hartford,Jason Dunne,Free Throw,18,15
+8:06,Iona,Andrija Ristanovic,Three Point Jumper,21,15
+7:41,Hartford,George Blagojevic,Layup,21,17
+7:21,Iona,Tajuan Agee,Jumper,23,17
+7:05,Hartford,None,None,23,17
+7:02,Hartford,Hartford ,Turnover,23,17
+6:54,Iona,Tajuan Agee,Missed Three Point Jumper,23,17
+6:54,Hartford,Travis Weatherington,Defensive Rebound,23,17
+6:41,Iona,Tajuan Agee,Foul,23,17
+6:37,Iona,Jahnathan Maxwell,Foul,23,17
+6:37,Hartford,John Carroll,Free Throw,23,18
+6:37,Hartford,John Carroll,Free Throw,23,19
+6:23,Iona,Jahnathan Maxwell,Foul,23,19
+6:23,Iona,Jahnathan Maxwell,Turnover,23,19
+6:08,Hartford,J.R. Lynch,Missed Three Point Jumper,23,19
+6:08,Iona,Jahnathan Maxwell,Defensive Rebound,23,19
+5:57,Iona,Asante Gist,Turnover,23,19
+5:56,Hartford,J.R. Lynch,Steal,23,19
+5:53,Hartford,J.R. Lynch,Layup,23,21
+5:39,Iona,Jahnathan Maxwell,Three Point Jumper,26,21
+5:17,Hartford,John Carroll,Layup,26,23
+5:09,Iona,Asante Gist,Jumper,28,23
+4:49,Hartford,Travis Weatherington,Missed Three Point Jumper,28,23
+4:49,Iona,Jahnathan Maxwell,Defensive Rebound,28,23
+4:39,Iona,Rickey McGill,Layup,30,23
+4:39,Hartford,None,None,30,23
+4:15,Hartford,John Carroll,Dunk,30,25
+4:01,Iona,Andrija Ristanovic,Three Point Jumper,33,25
+3:35,Hartford,Jason Dunne,Missed Three Point Jumper,33,25
+3:35,Iona,Andrija Ristanovic,Defensive Rebound,33,25
+3:25,Iona,Asante Gist,Three Point Jumper,36,25
+2:56,Iona,Asante Gist,Foul,36,25
+2:56,Hartford,None,None,36,25
+2:56,Hartford,J.R. Lynch,Missed Free Throw,36,25
+2:56,Hartford,None,Team Rebound,36,25
+2:56,Hartford,J.R. Lynch,Free Throw,36,26
+2:56,Hartford,Jason Dunne,Free Throw,36,27
+2:56,Hartford,Jason Dunne,Free Throw,36,28
+2:56,Iona,Iona,Foul,36,26
+2:41,Hartford,Romain Boxus,Foul,36,28
+2:35,Iona,Asante Gist,Missed Jumper,36,28
+2:35,Hartford,Jason Dunne,Defensive Rebound,36,28
+2:13,Hartford,John Carroll,Missed Jumper,36,28
+2:13,Iona,Rickey McGill,Defensive Rebound,36,28
+1:48,Iona,Andrija Ristanovic,Turnover,36,28
+1:30,Hartford,Jason Dunne,Three Point Jumper,36,31
+1:14,Iona,Rickey McGill,Jumper,38,31
+1:01,Hartford,J.R. Lynch,Turnover,38,31
+0:43,Iona,Jahnathan Maxwell,Missed Three Point Jumper,38,31
+0:43,Hartford,J.R. Lynch,Defensive Rebound,38,31
+0:35,Hartford,J.R. Lynch,Missed Three Point Jumper,38,31
+0:35,Hartford,J.R. Lynch,Offensive Rebound,38,31
+0:26,Hartford,J.R. Lynch,Layup,38,33
+0:00,Iona,Andrija Ristanovic,Missed Three Point Jumper,38,33
+0:00,Hartford,Hartford,Defensive Rebound,38,33
+0:00,Hartford,None,None,38,33
+19:39,Iona,Niksa Nikolic,Turnover,38,33
+19:39,Hartford,John Carroll,Steal,38,33
+19:23,Hartford,John Carroll,Missed Jumper,38,33
+19:23,Hartford,Hartford,Offensive Rebound,38,33
+19:16,Hartford,Jason Dunne,Turnover,38,33
+18:49,Iona,Niksa Nikolic,Layup,40,33
+18:28,Iona,Isaiah Still,Foul,40,33
+18:28,Hartford,John Carroll,Missed Free Throw,40,33
+18:28,Hartford,None,Team Rebound,40,33
+18:28,Hartford,John Carroll,Free Throw,40,34
+18:19,Iona,E.J. Crawford,Jumper,42,34
+17:57,Iona,Niksa Nikolic,Foul,42,34
+17:57,Hartford,John Carroll,Missed Free Throw,42,34
+17:57,Hartford,None,Team Rebound,42,34
+17:57,Hartford,John Carroll,Free Throw,42,35
+17:42,Iona,E.J. Crawford,Layup,44,35
+17:42,Hartford,Jason Dunne,Foul,44,35
+17:42,Iona,E.J. Crawford,Free Throw,45,35
+17:19,Hartford,George Blagojevic,Layup,45,37
+16:55,Iona,Asante Gist,Missed Three Point Jumper,45,37
+16:55,Hartford,Jason Dunne,Defensive Rebound,45,37
+16:45,Hartford,George Blagojevic,Turnover,45,37
+16:44,Iona,Rickey McGill,Steal,45,37
+16:41,Iona,Isaiah Still,Turnover,45,37
+16:40,Hartford,Jason Dunne,Steal,45,37
+16:35,Hartford,George Blagojevic,Layup,45,39
+16:19,Iona,Isaiah Still,Three Point Jumper,48,39
+16:07,Hartford,John Carroll,Three Point Jumper,48,42
+15:50,Hartford,None,None,48,42
+15:49,Hartford,Jason Dunne,Missed Jumper,48,42
+15:49,Iona,Tajuan Agee,Defensive Rebound,48,42
+15:44,Hartford,George Blagojevic,Missed Three Point Jumper,48,42
+15:44,Iona,Tajuan Agee,Defensive Rebound,48,42
+15:30,Iona,Tajuan Agee,Layup,50,42
+15:07,Iona,Tajuan Agee,Foul,50,42
+14:50,Iona,E.J. Crawford,Foul,50,42
+14:32,Hartford,Jason Dunne,Turnover,50,42
+14:01,Iona,Rickey McGill,Jumper,52,42
+13:47,Hartford,John Carroll,Missed Jumper,52,42
+13:47,Hartford,George Blagojevic,Offensive Rebound,52,42
+13:42,Hartford,George Blagojevic,Layup,52,44
+13:32,Iona,Rickey McGill,Missed Jumper,52,44
+13:32,Hartford,J.R. Lynch,Defensive Rebound,52,44
+13:21,Iona,Asante Gist,Foul,52,44
+13:10,Hartford,John Carroll,Missed Layup,52,44
+13:10,Hartford,George Blagojevic,Offensive Rebound,52,44
+13:06,Hartford,None,None,52,46
+12:49,Iona,E.J. Crawford,Missed Three Point Jumper,52,46
+12:49,Iona,Isaiah Still,Offensive Rebound,52,46
+12:45,Hartford,Jason Dunne,Foul,52,46
+12:21,Iona,E.J. Crawford,Jumper,54,46
+12:02,Hartford,Jason Dunne,Turnover,54,46
+12:01,Iona,Andrija Ristanovic,Steal,54,46
+12:00,Iona,Rickey McGill,Turnover,54,46
+11:52,Hartford,J.R. Lynch,Jumper,54,48
+11:32,Iona,Asante Gist,Missed Three Point Jumper,54,48
+11:32,Hartford,J.R. Lynch,Defensive Rebound,54,48
+11:06,Hartford,John Carroll,Layup,54,50
+10:50,Iona,Andrija Ristanovic,Turnover,54,50
+10:50,Hartford,None,None,54,50
+10:37,Hartford,John Carroll,Layup,54,52
+10:25,Iona,E.J. Crawford,Jumper,56,52
+10:04,Hartford,George Blagojevic,Missed Layup,56,52
+10:04,Iona,Rickey McGill,Defensive Rebound,56,52
+9:57,Iona,Andrija Ristanovic,Missed Jumper,56,52
+9:57,Hartford,John Carroll,Defensive Rebound,56,52
+9:46,Hartford,J.R. Lynch,Layup,56,54
+9:33,Iona,Ben Perez,Missed Three Point Jumper,56,54
+9:33,Hartford,George Blagojevic,Defensive Rebound,56,54
+9:11,Iona,Rickey McGill,Foul,56,54
+9:09,Iona,Rickey McGill,Foul,56,54
+9:09,Hartford,George Blagojevic,Free Throw,56,55
+9:09,Hartford,George Blagojevic,Free Throw,56,56
+8:55,Iona,Rickey McGill,Layup,58,56
+8:25,Hartford,J.R. Lynch,Layup,58,58
+8:00,Iona,Tajuan Agee,Layup,60,58
+7:41,Hartford,George Blagojevic,Missed Layup,60,58
+7:41,Iona,E.J. Crawford,Block,60,58
+7:39,Iona,E.J. Crawford,Defensive Rebound,60,58
+7:34,Hartford,Jason Dunne,Foul,60,58
+7:34,Hartford,None,None,60,58
+7:22,Iona,Rickey McGill,Turnover,60,58
+7:21,Hartford,Jason Dunne,Steal,60,58
+7:18,Hartford,J.R. Lynch,Missed Three Point Jumper,60,58
+7:18,Hartford,George Blagojevic,Offensive Rebound,60,58
+7:14,Iona,Isaiah Still,Foul,60,58
+7:14,Hartford,George Blagojevic,Missed Free Throw,60,58
+7:14,Hartford,None,Team Rebound,60,58
+7:14,Hartford,George Blagojevic,Missed Free Throw,60,58
+7:14,Iona,Tajuan Agee,Defensive Rebound,60,58
+6:55,Iona,Tajuan Agee,Missed Layup,60,58
+6:55,Hartford,Max Twyman,Defensive Rebound,60,58
+6:42,Hartford,John Carroll,Missed Three Point Jumper,60,58
+6:42,Iona,Tajuan Agee,Defensive Rebound,60,58
+6:33,Iona,Ben Perez,Three Point Jumper,63,58
+6:15,Hartford,J.R. Lynch,Missed Jumper,63,58
+6:15,Iona,E.J. Crawford,Defensive Rebound,63,58
+6:13,Iona,E.J. Crawford,Turnover,63,58
+6:10,Hartford,J.R. Lynch,Layup,63,60
+5:52,Iona,Rickey McGill,Missed Three Point Jumper,63,60
+5:52,Hartford,Hartford,Defensive Rebound,63,60
+5:33,Hartford,John Carroll,Missed Layup,63,60
+5:33,Hartford,John Carroll,Offensive Rebound,63,60
+5:29,Iona,E.J. Crawford,Foul,63,60
+5:29,Hartford,John Carroll,Free Throw,63,61
+5:29,Hartford,John Carroll,Free Throw,63,62
+5:04,Hartford,Jason Dunne,Foul,63,62
+5:04,Iona,Tajuan Agee,Missed Free Throw,63,62
+5:04,Iona,None,Team Rebound,63,62
+5:04,Iona,Tajuan Agee,Free Throw,64,62
+4:52,Hartford,Jason Dunne,Three Point Jumper,64,65
+4:49,Hartford,Jason Dunne,Foul,64,65
+4:48,Iona,E.J. Crawford,Foul,64,65
+4:47,Iona,E.J. Crawford,Foul,64,65
+4:47,Hartford,Jason Dunne,Foul,64,65
+4:27,Iona,Tajuan Agee,Layup,66,65
+4:00,Hartford,Travis Weatherington,Missed Three Point Jumper,66,65
+4:00,Iona,E.J. Crawford,Defensive Rebound,66,65
+3:49,Iona,E.J. Crawford,Layup,68,65
+3:31,Hartford,George Blagojevic,Layup,68,67
+3:31,Iona,Rickey McGill,Foul,68,67
+3:31,Hartford,None,None,68,67
+3:31,Hartford,George Blagojevic,Free Throw,68,68
+3:16,Iona,Ben Perez,Missed Three Point Jumper,68,68
+3:16,Hartford,Travis Weatherington,Defensive Rebound,68,68
+2:52,Hartford,John Carroll,Missed Jumper,68,68
+2:52,Iona,Tajuan Agee,Defensive Rebound,68,68
+2:41,Hartford,Max Twyman,Foul,68,68
+2:41,Iona,Isaiah Still,Free Throw,69,68
+2:41,Iona,Isaiah Still,Free Throw,70,68
+2:37,Hartford,J.R. Lynch,Missed Three Point Jumper,70,68
+2:37,Iona,Asante Gist,Defensive Rebound,70,68
+2:24,Hartford,George Blagojevic,Foul,70,68
+2:24,Iona,Rickey McGill,Free Throw,71,68
+2:24,Iona,Rickey McGill,Free Throw,72,68
+2:12,Hartford,John Carroll,Turnover,72,68
+2:12,Iona,Rickey McGill,Steal,72,68
+2:12,Iona,Rickey McGill,Missed Free Throw,72,68
+2:12,Hartford,Hartford,Defensive Rebound,72,68
+1:55,Hartford,George Blagojevic,Missed Jumper,72,68
+1:55,Hartford,Max Twyman,Offensive Rebound,72,68
+1:50,Hartford,George Blagojevic,Layup,72,70
+1:47,Hartford,None,None,72,70
+1:22,Iona,Isaiah Still,Missed Three Point Jumper,72,70
+1:22,Hartford,George Blagojevic,Defensive Rebound,72,70
+1:07,Hartford,George Blagojevic,Turnover,72,70
+1:07,Iona,Isaiah Still,Steal,72,70
+1:07,Hartford,George Blagojevic,Foul,72,70
+1:07,Iona,Isaiah Still,Missed Free Throw,72,70
+1:07,Iona,None,Team Rebound,72,70
+1:07,Iona,Isaiah Still,Missed Free Throw,72,70
+1:07,Iona,Iona,Offensive Rebound,72,70
+1:07,Iona,None,None,72,70
+0:40,Hartford,John Carroll,Foul,72,70
+0:40,Hartford,Romain Boxus,Foul,72,70
+0:40,Hartford,Romain Boxus,Foul,72,70
+0:40,Iona,Tajuan Agee,Free Throw,73,70
+0:40,Iona,Tajuan Agee,Missed Free Throw,73,70
+0:40,Iona,None,Team Rebound,73,70
+0:40,Iona,E.J. Crawford,Free Throw,74,70
+0:40,Iona,E.J. Crawford,Free Throw,75,70
+0:39,Hartford,Max Twyman,Foul,75,70
+0:39,Iona,Asante Gist,Free Throw,76,70
+0:39,Iona,Asante Gist,Missed Free Throw,76,70
+0:39,Hartford,George Blagojevic,Defensive Rebound,76,70
+0:35,Hartford,J.R. Lynch,Missed Layup,76,70
+0:35,Iona,Tajuan Agee,Defensive Rebound,76,70
+0:27,Hartford,George Blagojevic,Foul,76,70
+0:15,Iona,Tajuan Agee,Missed Free Throw,76,70
+0:15,Iona,None,Team Rebound,76,70
+0:15,Iona,Tajuan Agee,Free Throw,77,70
+0:15,Hartford,J.R. Lynch,Turnover,77,70
+0:15,Iona,Rickey McGill,Steal,77,70
+0:12,Iona,Isaiah Still,Turnover,77,70
+0:12,Hartford,Travis Weatherington,Steal,77,70
+0:11,Hartford,Max Twyman,Layup,77,72
+0:05,Iona,None,None,77,72
+0:05,Hartford,John Carroll,Foul,77,72
+0:05,Iona,Tajuan Agee,Free Throw,78,72
+0:05,Iona,Tajuan Agee,Missed Free Throw,78,72
+0:05,Hartford,John Carroll,Defensive Rebound,78,72
+0:05,Hartford,Travis Weatherington,Three Point Jumper,78,75
+0:05,Hartford,None,None,78,75
+0:04,Hartford,John Carroll,Foul,78,75
+0:04,Iona,Rickey McGill,Free Throw,79,75
+0:04,Iona,Rickey McGill,Free Throw,80,75
+0:00,Hartford,George Blagojevic,Missed Three Point Jumper,80,75
+0:00,Hartford,J.R. Lynch,Offensive Rebound,80,75
+0:00,Hartford,None,None,80,75

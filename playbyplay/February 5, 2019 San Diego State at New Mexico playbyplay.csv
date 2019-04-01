@@ -1,0 +1,346 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,San Diego State,None,None,0,0
+19:45,San Diego State,Jeremy Hemsley,Jumper,2,0
+19:19,New Mexico,Keith McGee,Three Point Jumper,2,3
+18:54,San Diego State,Jeremy Hemsley,Jumper,4,3
+18:33,San Diego State,Matt Mitchell,Foul,4,3
+18:33,New Mexico,Dane Kuiper,Missed Free Throw,4,3
+18:33,New Mexico,None,Team Rebound,4,3
+18:33,New Mexico,Dane Kuiper,Free Throw,4,4
+18:09,San Diego State,Jalen McDaniels,Jumper,6,4
+17:55,New Mexico,Keith McGee,Turnover,6,4
+17:49,San Diego State,Jeremy Hemsley,Turnover,6,4
+17:49,New Mexico,Keith McGee,Steal,6,4
+17:39,New Mexico,Keith McGee,Missed Three Point Jumper,6,4
+17:39,San Diego State,Jeremy Hemsley,Defensive Rebound,6,4
+17:30,San Diego State,Jeremy Hemsley,Missed Jumper,6,4
+17:30,New Mexico,Dane Kuiper,Block,6,4
+17:30,San Diego State,San Diego State,Offensive Rebound,6,4
+17:24,San Diego State,Matt Mitchell,Three Point Jumper,9,4
+17:13,New Mexico,Makuach Maluach,Missed Three Point Jumper,9,4
+17:13,San Diego State,Matt Mitchell,Defensive Rebound,9,4
+17:00,San Diego State,Matt Mitchell,Jumper,11,4
+16:51,New Mexico,None,None,11,4
+16:48,New Mexico,Keith McGee,Layup,11,6
+16:27,San Diego State,Jalen McDaniels,Jumper,13,6
+16:14,New Mexico,Dane Kuiper,Missed Jumper,13,6
+16:14,San Diego State,Nathan Mensah,Defensive Rebound,13,6
+16:03,San Diego State,Jalen McDaniels,Three Point Jumper,16,6
+15:42,San Diego State,Matt Mitchell,Foul,16,6
+15:42,New Mexico,None,None,16,6
+15:33,New Mexico,Keith McGee,Three Point Jumper,16,9
+15:10,San Diego State,Nathan Mensah,Missed Jumper,16,9
+15:10,New Mexico,Corey Manigault,Defensive Rebound,16,9
+14:52,New Mexico,Makuach Maluach,Missed Layup,16,9
+14:52,San Diego State,Jordan Schakel,Block,16,9
+14:52,San Diego State,Nathan Mensah,Defensive Rebound,16,9
+14:35,San Diego State,Nathan Mensah,Missed Jumper,16,9
+14:35,New Mexico,Vance Jackson,Defensive Rebound,16,9
+14:17,San Diego State,Nathan Mensah,Foul,16,9
+14:16,New Mexico,Dane Kuiper,Jumper,16,11
+13:51,San Diego State,Nathan Mensah,Missed Jumper,16,11
+13:51,New Mexico,Carlton Bragg,Defensive Rebound,16,11
+13:42,New Mexico,Corey Manigault,Missed Jumper,16,11
+13:42,New Mexico,Vance Jackson,Offensive Rebound,16,11
+13:33,New Mexico,Corey Manigault,Layup,16,13
+13:06,San Diego State,Nathan Mensah,Turnover,16,13
+12:52,New Mexico,Carlton Bragg,Missed Layup,16,13
+12:52,San Diego State,Jeremy Hemsley,Defensive Rebound,16,13
+12:39,San Diego State,Jalen McDaniels,Turnover,16,13
+12:39,New Mexico,Carlton Bragg,Steal,16,13
+12:35,New Mexico,Carlton Bragg,Dunk,16,15
+12:16,San Diego State,Jalen McDaniels,Jumper,18,15
+12:00,New Mexico,Dane Kuiper,Turnover,18,15
+12:00,New Mexico,None,None,18,15
+11:42,New Mexico,Anthony Mathis,Foul,18,15
+11:36,San Diego State,Jalen McDaniels,Missed Jumper,18,15
+11:36,New Mexico,Carlton Bragg,Defensive Rebound,18,15
+11:17,New Mexico,Makuach Maluach,Three Point Jumper,18,18
+10:55,San Diego State,Jalen McDaniels,Dunk,20,18
+10:38,New Mexico,Keith McGee,Jumper,20,20
+10:14,New Mexico,Makuach Maluach,Foul,20,20
+10:12,San Diego State,Devin Watson,Missed Three Point Jumper,20,20
+10:12,New Mexico,Carlton Bragg,Defensive Rebound,20,20
+10:03,New Mexico,Corey Manigault,Layup,20,22
+9:38,New Mexico,Tavian Percy,Foul,20,22
+9:38,San Diego State,Aguek Arop,Free Throw,21,22
+9:38,San Diego State,Aguek Arop,Free Throw,22,22
+9:26,San Diego State,Nolan Narain,Foul,22,22
+9:05,New Mexico,New Mexico ,Turnover,22,22
+8:42,San Diego State,Aguek Arop,Missed Jumper,22,22
+8:42,San Diego State,Nolan Narain,Offensive Rebound,22,22
+8:42,San Diego State,None,None,22,22
+8:42,San Diego State,Nolan Narain,Offensive Rebound,22,22
+8:42,San Diego State,None,None,24,22
+8:29,New Mexico,Corey Manigault,Foul,24,22
+8:29,New Mexico,Corey Manigault,Turnover,24,22
+8:15,San Diego State,Nolan Narain,Jumper,26,22
+8:03,New Mexico,Tavian Percy,Turnover,26,22
+8:03,San Diego State,Devin Watson,Steal,26,22
+7:53,San Diego State,Devin Watson,Missed Layup,26,22
+7:52,San Diego State,Jalen McDaniels,Offensive Rebound,26,22
+7:51,San Diego State,None,None,28,22
+7:37,New Mexico,Vance Jackson,Missed Three Point Jumper,28,22
+7:37,San Diego State,Aguek Arop,Defensive Rebound,28,22
+7:28,San Diego State,Aguek Arop,Missed Three Point Jumper,28,22
+7:28,San Diego State,Jalen McDaniels,Offensive Rebound,28,22
+7:22,San Diego State,Jalen McDaniels,Missed Jumper,28,22
+7:22,New Mexico,New Mexico,Defensive Rebound,28,22
+7:16,San Diego State,Nolan Narain,Foul,28,22
+7:16,New Mexico,None,None,28,22
+7:05,New Mexico,Vance Jackson,Missed Dunk,28,22
+7:05,San Diego State,Nathan Mensah,Block,28,22
+7:05,San Diego State,Jalen McDaniels,Defensive Rebound,28,22
+6:52,San Diego State,Devin Watson,Missed Jumper,28,22
+6:52,New Mexico,Vance Jackson,Defensive Rebound,28,22
+6:37,New Mexico,Makuach Maluach,Turnover,28,22
+6:37,San Diego State,Jordan Schakel,Steal,28,22
+6:32,San Diego State,Jordan Schakel,Layup,30,22
+6:24,New Mexico,Anthony Mathis,Foul,30,22
+6:24,San Diego State,Devin Watson,Missed Free Throw,30,22
+6:24,New Mexico,Anthony Mathis,Foul,30,22
+6:24,San Diego State,Devin Watson,Free Throw,31,22
+6:24,New Mexico,New Mexico ,Turnover,31,22
+6:17,San Diego State,Devin Watson,Missed Jumper,31,22
+6:17,New Mexico,Carlton Bragg,Defensive Rebound,31,22
+5:55,San Diego State,Jalen McDaniels,Foul,31,22
+5:50,New Mexico,Vance Jackson,Missed Jumper,31,22
+5:50,New Mexico,Makuach Maluach,Offensive Rebound,31,22
+5:45,New Mexico,Makuach Maluach,Missed Layup,31,22
+5:45,San Diego State,Nathan Mensah,Defensive Rebound,31,22
+5:37,New Mexico,Vance Jackson,Foul,31,22
+5:37,San Diego State,Jeremy Hemsley,Free Throw,32,22
+5:37,San Diego State,Jeremy Hemsley,Free Throw,33,22
+5:27,New Mexico,Keith McGee,Layup,33,24
+5:17,San Diego State,Devin Watson,Missed Jumper,33,24
+5:17,New Mexico,Corey Manigault,Defensive Rebound,33,24
+5:07,New Mexico,Vance Jackson,Layup,33,26
+4:57,San Diego State,Jalen McDaniels,Turnover,33,26
+4:47,San Diego State,Nathan Mensah,Foul,33,26
+4:47,New Mexico,Corey Manigault,Free Throw,33,27
+4:47,New Mexico,Corey Manigault,Missed Free Throw,33,27
+4:47,New Mexico,Drue Drinnon,Offensive Rebound,33,27
+4:34,New Mexico,Corey Manigault,Jumper,33,29
+4:20,San Diego State,Jeremy Hemsley,Foul,33,29
+4:20,San Diego State,Jeremy Hemsley,Turnover,33,29
+4:20,New Mexico,None,None,33,29
+4:19,New Mexico,None,None,33,29
+4:14,New Mexico,Carlton Bragg,Missed Jumper,33,29
+4:14,San Diego State,Jalen McDaniels,Defensive Rebound,33,29
+3:47,New Mexico,Carlton Bragg,Foul,33,29
+3:47,San Diego State,Jalen McDaniels,Free Throw,34,29
+3:47,San Diego State,Jalen McDaniels,Free Throw,35,29
+3:31,New Mexico,Anthony Mathis,Missed Three Point Jumper,35,29
+3:31,San Diego State,Devin Watson,Defensive Rebound,35,29
+3:13,San Diego State,Jalen McDaniels,Layup,37,29
+2:50,New Mexico,Carlton Bragg,Turnover,37,29
+2:40,San Diego State,Devin Watson,Turnover,37,29
+2:40,New Mexico,Keith McGee,Steal,37,29
+2:33,New Mexico,Makuach Maluach,Three Point Jumper,37,32
+2:16,San Diego State,Nolan Narain,Turnover,37,32
+2:16,New Mexico,Vladimir Pinchuk,Steal,37,32
+2:12,New Mexico,Keith McGee,Layup,37,34
+1:55,San Diego State,Jalen McDaniels,Turnover,37,34
+1:55,San Diego State,Jalen McDaniels,Foul,37,34
+1:41,New Mexico,Keith McGee,Foul,37,34
+1:41,New Mexico,Keith McGee,Turnover,37,34
+1:35,San Diego State,Devin Watson,Foul,37,34
+1:35,San Diego State,Devin Watson,Turnover,37,34
+1:28,New Mexico,Anthony Mathis,Missed Three Point Jumper,37,34
+1:28,San Diego State,Adam Seiko,Block,37,34
+1:28,New Mexico,Anthony Mathis,Offensive Rebound,37,34
+1:12,New Mexico,Anthony Mathis,Missed Three Point Jumper,37,34
+1:12,New Mexico,Vladimir Pinchuk,Offensive Rebound,37,34
+1:12,New Mexico,None,None,37,36
+1:08,San Diego State,Nolan Narain,Foul,37,36
+1:08,New Mexico,Vladimir Pinchuk,Missed Free Throw,37,36
+1:08,San Diego State,Joel Mensah,Defensive Rebound,37,36
+0:46,San Diego State,Devin Watson,Missed Jumper,37,36
+0:46,San Diego State,Jeremy Hemsley,Offensive Rebound,37,36
+0:40,San Diego State,Jeremy Hemsley,Missed Jumper,37,36
+0:40,New Mexico,Vance Jackson,Defensive Rebound,37,36
+0:11,New Mexico,Keith McGee,Turnover,37,36
+0:01,San Diego State,Jeremy Hemsley,Missed Three Point Jumper,37,36
+0:01,New Mexico,New Mexico,Defensive Rebound,37,36
+0:00,New Mexico,None,None,37,36
+20:00,New Mexico,None,None,37,36
+19:38,New Mexico,Makuach Maluach,Missed Jumper,37,36
+19:38,San Diego State,Nathan Mensah,Defensive Rebound,37,36
+19:23,San Diego State,Nathan Mensah,Jumper,39,36
+19:04,New Mexico,Keith McGee,Layup,39,38
+19:04,San Diego State,Nathan Mensah,Foul,39,38
+19:04,New Mexico,Keith McGee,Free Throw,39,39
+18:36,San Diego State,Devin Watson,Missed Jumper,39,39
+18:36,San Diego State,Nathan Mensah,Offensive Rebound,39,39
+18:36,San Diego State,None,None,41,39
+18:15,New Mexico,Keith McGee,Layup,41,41
+17:56,San Diego State,Devin Watson,Missed Three Point Jumper,41,41
+17:56,New Mexico,Anthony Mathis,Defensive Rebound,41,41
+17:41,San Diego State,Jalen McDaniels,Foul,41,41
+17:41,New Mexico,Anthony Mathis,Free Throw,41,42
+17:41,New Mexico,Anthony Mathis,Free Throw,41,43
+17:41,New Mexico,Anthony Mathis,Free Throw,41,44
+17:18,New Mexico,Dane Kuiper,Foul,41,44
+17:18,San Diego State,Matt Mitchell,Foul,41,44
+17:18,San Diego State,Matt Mitchell,Turnover,41,44
+17:11,New Mexico,Anthony Mathis,Three Point Jumper,41,47
+16:45,San Diego State,Jeremy Hemsley,Missed Jumper,41,47
+16:45,New Mexico,Carlton Bragg,Block,41,47
+16:45,New Mexico,New Mexico,Defensive Rebound,41,47
+16:23,San Diego State,Nathan Mensah,Foul,41,47
+16:23,New Mexico,Makuach Maluach,Free Throw,41,48
+16:23,New Mexico,Makuach Maluach,Missed Free Throw,41,48
+16:23,San Diego State,Jalen McDaniels,Defensive Rebound,41,48
+16:08,San Diego State,Jalen McDaniels,Missed Jumper,41,48
+16:08,New Mexico,Makuach Maluach,Block,41,48
+16:08,New Mexico,Makuach Maluach,Defensive Rebound,41,48
+15:54,New Mexico,Carlton Bragg,Layup,41,50
+15:54,San Diego State,Jordan Schakel,Foul,41,50
+15:54,New Mexico,None,None,41,50
+15:54,New Mexico,Carlton Bragg,Free Throw,41,51
+15:40,San Diego State,Jalen McDaniels,Missed Jumper,41,51
+15:40,New Mexico,Carlton Bragg,Defensive Rebound,41,51
+15:30,New Mexico,Vance Jackson,Missed Layup,41,51
+15:30,San Diego State,Jalen McDaniels,Block,41,51
+15:30,New Mexico,Carlton Bragg,Offensive Rebound,41,51
+15:26,San Diego State,Jordan Schakel,Foul,41,51
+15:26,New Mexico,Carlton Bragg,Missed Free Throw,41,51
+15:26,New Mexico,None,Team Rebound,41,51
+15:26,New Mexico,Carlton Bragg,Free Throw,41,52
+15:22,San Diego State,None,None,41,52
+15:04,San Diego State,Matt Mitchell,Missed Jumper,41,52
+15:04,San Diego State,Jalen McDaniels,Offensive Rebound,41,52
+14:57,San Diego State,Matt Mitchell,Missed Jumper,41,52
+14:57,San Diego State,San Diego State,Offensive Rebound,41,52
+14:55,New Mexico,Carlton Bragg,Foul,41,52
+14:45,San Diego State,Jeremy Hemsley,Turnover,41,52
+14:45,New Mexico,Carlton Bragg,Steal,41,52
+14:32,New Mexico,Anthony Mathis,Three Point Jumper,41,55
+14:06,San Diego State,Jalen McDaniels,Jumper,43,55
+13:49,New Mexico,Anthony Mathis,Three Point Jumper,43,58
+13:29,San Diego State,Devin Watson,Missed Three Point Jumper,43,58
+13:29,New Mexico,Vance Jackson,Defensive Rebound,43,58
+13:12,New Mexico,Anthony Mathis,Missed Three Point Jumper,43,58
+13:12,San Diego State,Jeremy Hemsley,Defensive Rebound,43,58
+13:05,New Mexico,Drue Drinnon,Foul,43,58
+12:58,San Diego State,Devin Watson,Missed Jumper,43,58
+12:58,San Diego State,Nolan Narain,Offensive Rebound,43,58
+12:58,San Diego State,Nolan Narain,Missed Layup,45,58
+12:58,New Mexico,Makuach Maluach,Block,45,58
+12:58,San Diego State,San Diego State,Offensive Rebound,45,58
+12:57,San Diego State,Nolan Narain,Jumper,45,58
+12:40,New Mexico,Corey Manigault,Foul,45,58
+12:40,San Diego State,Nolan Narain,Missed Free Throw,45,58
+12:40,New Mexico,Vance Jackson,Defensive Rebound,45,58
+12:29,New Mexico,Vance Jackson,Turnover,45,58
+12:29,San Diego State,Matt Mitchell,Steal,45,58
+12:26,San Diego State,Matt Mitchell,Missed Layup,45,58
+12:26,New Mexico,Makuach Maluach,Block,45,58
+12:26,San Diego State,San Diego State,Offensive Rebound,45,58
+12:21,San Diego State,Nolan Narain,Missed Three Point Jumper,45,58
+12:21,New Mexico,Vance Jackson,Defensive Rebound,45,58
+12:04,New Mexico,Keith McGee,Missed Three Point Jumper,45,58
+12:04,San Diego State,Jeremy Hemsley,Block,45,58
+12:04,New Mexico,New Mexico,Offensive Rebound,45,58
+11:57,New Mexico,Carlton Bragg,Foul,45,58
+11:57,New Mexico,Carlton Bragg,Turnover,45,58
+11:57,New Mexico,None,None,45,58
+11:35,San Diego State,Jeremy Hemsley,Turnover,45,58
+11:35,New Mexico,Corey Manigault,Steal,45,58
+11:30,New Mexico,Dane Kuiper,Missed Layup,45,58
+11:30,San Diego State,Jeremy Hemsley,Block,45,58
+11:30,New Mexico,Carlton Bragg,Offensive Rebound,45,58
+11:26,San Diego State,Nolan Narain,Foul,45,58
+11:26,New Mexico,Carlton Bragg,Free Throw,45,59
+11:26,New Mexico,Carlton Bragg,Free Throw,45,60
+11:12,San Diego State,Matt Mitchell,Missed Jumper,45,60
+11:12,San Diego State,Nathan Mensah,Offensive Rebound,45,60
+10:57,San Diego State,Devin Watson,Missed Jumper,45,60
+10:57,New Mexico,Carlton Bragg,Defensive Rebound,45,60
+10:48,New Mexico,Keith McGee,Turnover,45,60
+10:48,San Diego State,Matt Mitchell,Steal,45,60
+10:41,San Diego State,Devin Watson,Layup,47,60
+10:26,San Diego State,Jordan Schakel,Foul,47,60
+10:26,New Mexico,Anthony Mathis,Free Throw,47,61
+10:26,New Mexico,Anthony Mathis,Free Throw,47,62
+10:17,San Diego State,Jalen McDaniels,Jumper,49,62
+9:54,New Mexico,Vance Jackson,Turnover,49,62
+9:54,San Diego State,Devin Watson,Steal,49,62
+9:34,San Diego State,Devin Watson,Turnover,49,62
+9:34,New Mexico,Anthony Mathis,Steal,49,62
+9:27,New Mexico,Anthony Mathis,Layup,49,64
+9:27,San Diego State,Devin Watson,Foul,49,64
+9:27,New Mexico,Anthony Mathis,Free Throw,49,65
+9:06,San Diego State,Jalen McDaniels,Missed Jumper,49,65
+9:06,New Mexico,Carlton Bragg,Defensive Rebound,49,65
+8:49,New Mexico,Makuach Maluach,Dunk,49,67
+8:36,San Diego State,None,None,49,67
+8:26,San Diego State,Jalen McDaniels,Missed Jumper,49,67
+8:26,New Mexico,Carlton Bragg,Defensive Rebound,49,67
+8:09,San Diego State,Aguek Arop,Foul,49,67
+8:09,New Mexico,Vance Jackson,Free Throw,49,68
+8:09,New Mexico,Vance Jackson,Free Throw,49,69
+7:51,New Mexico,Vance Jackson,Foul,49,69
+7:51,New Mexico,None,None,49,69
+7:51,San Diego State,Nathan Mensah,Free Throw,50,69
+7:51,San Diego State,Nathan Mensah,Free Throw,51,69
+7:47,New Mexico,Vance Jackson,Turnover,51,69
+7:47,San Diego State,Aguek Arop,Steal,51,69
+7:41,San Diego State,Aguek Arop,Layup,53,69
+7:41,New Mexico,Vance Jackson,Foul,53,69
+7:41,San Diego State,Aguek Arop,Free Throw,54,69
+7:41,New Mexico,None,None,54,69
+7:15,New Mexico,Drue Drinnon,Layup,54,71
+6:54,San Diego State,Jeremy Hemsley,Foul,54,71
+6:54,San Diego State,Jeremy Hemsley,Turnover,54,71
+6:48,San Diego State,Aguek Arop,Foul,54,71
+6:48,New Mexico,Drue Drinnon,Free Throw,54,72
+6:48,New Mexico,Drue Drinnon,Free Throw,54,73
+6:38,San Diego State,Devin Watson,Jumper,56,73
+6:08,New Mexico,Dane Kuiper,Missed Three Point Jumper,56,73
+6:08,San Diego State,Matt Mitchell,Defensive Rebound,56,73
+5:57,San Diego State,Jeremy Hemsley,Missed Layup,56,73
+5:57,San Diego State,Jalen McDaniels,Offensive Rebound,56,73
+5:51,San Diego State,Jalen McDaniels,Missed Layup,56,73
+5:51,New Mexico,Carlton Bragg,Defensive Rebound,56,73
+5:43,San Diego State,Jeremy Hemsley,Foul,56,73
+5:43,New Mexico,Makuach Maluach,Free Throw,56,74
+5:43,New Mexico,Makuach Maluach,Free Throw,56,75
+5:31,San Diego State,Devin Watson,Jumper,58,75
+5:01,New Mexico,Drue Drinnon,Layup,58,77
+4:46,San Diego State,Matt Mitchell,Missed Three Point Jumper,58,77
+4:46,New Mexico,Makuach Maluach,Defensive Rebound,58,77
+4:22,New Mexico,Makuach Maluach,Missed Three Point Jumper,58,77
+4:22,San Diego State,Devin Watson,Defensive Rebound,58,77
+4:12,San Diego State,Devin Watson,Layup,60,77
+4:12,New Mexico,Drue Drinnon,Foul,60,77
+4:12,San Diego State,Devin Watson,Free Throw,61,77
+3:58,New Mexico,Dane Kuiper,Layup,61,79
+3:43,San Diego State,Jalen McDaniels,Jumper,63,79
+3:25,New Mexico,Keith McGee,Turnover,63,79
+3:25,New Mexico,None,None,63,79
+3:19,San Diego State,Jalen McDaniels,Missed Jumper,63,79
+3:19,New Mexico,Anthony Mathis,Defensive Rebound,63,79
+2:46,New Mexico,Corey Manigault,Missed Three Point Jumper,63,79
+2:46,San Diego State,Adam Seiko,Defensive Rebound,63,79
+2:31,San Diego State,Devin Watson,Missed Three Point Jumper,63,79
+2:31,San Diego State,Jalen McDaniels,Offensive Rebound,63,79
+2:26,San Diego State,Jalen McDaniels,Dunk,65,79
+2:15,New Mexico,None,None,65,79
+1:58,New Mexico,Drue Drinnon,Layup,65,81
+1:45,San Diego State,Matt Mitchell,Turnover,65,81
+1:45,New Mexico,Dane Kuiper,Steal,65,81
+1:40,New Mexico,Dane Kuiper,Dunk,65,83
+1:25,San Diego State,Devin Watson,Jumper,67,83
+1:25,New Mexico,Anthony Mathis,Foul,67,83
+1:25,San Diego State,Devin Watson,Free Throw,68,83
+1:01,New Mexico,Makuach Maluach,Missed Three Point Jumper,68,83
+1:01,New Mexico,New Mexico,Offensive Rebound,68,83
+0:51,New Mexico,Drue Drinnon,Foul,68,83
+0:51,San Diego State,Ed Chang,Free Throw,69,83
+0:51,San Diego State,Ed Chang,Free Throw,70,83
+0:30,New Mexico,Anthony Mathis,Missed Three Point Jumper,70,83
+0:30,San Diego State,Jalen McDaniels,Defensive Rebound,70,83
+0:20,San Diego State,Devin Watson,Turnover,70,83
+0:20,New Mexico,Makuach Maluach,Steal,70,83
+0:00,New Mexico,None,None,70,83

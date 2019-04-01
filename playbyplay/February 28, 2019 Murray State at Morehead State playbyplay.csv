@@ -1,0 +1,364 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Murray State,None,None,0,0
+19:47,Murray State,KJ Williams,Missed Jumper,0,0
+19:47,Morehead State,Jordan Walker,Defensive Rebound,0,0
+19:23,Morehead State,A.J. Hicks,Layup,0,2
+19:12,Murray State,Ja Morant,Three Point Jumper,3,2
+18:52,Morehead State,James Baker,Missed Three Point Jumper,3,2
+18:52,Murray State,Ja Morant,Defensive Rebound,3,2
+18:28,Murray State,Tevin Brown,Three Point Jumper,6,2
+18:01,Morehead State,James Baker,Missed Jumper,6,2
+18:01,Murray State,KJ Williams,Defensive Rebound,6,2
+17:44,Murray State,Darnell Cowart,Jumper,8,2
+17:17,Morehead State,Malek Green,Layup,8,4
+17:03,Murray State,Darnell Cowart,Missed Jumper,8,4
+17:03,Morehead State,Malek Green,Defensive Rebound,8,4
+16:51,Morehead State,Jordan Walker,Missed Jumper,8,4
+16:47,Morehead State,Morehead State,Offensive Rebound,8,4
+16:35,Morehead State,James Baker,Jumper,8,6
+16:11,Murray State,Devin Gilmore,Layup,10,6
+15:42,Morehead State,Jordan Walker,Missed Three Point Jumper,10,6
+15:42,Murray State,Darnell Cowart,Defensive Rebound,10,6
+15:31,Murray State,Darnell Cowart,Foul,10,6
+15:31,Murray State,Darnell Cowart,Turnover,10,6
+15:31,Morehead State,None,None,10,6
+15:29,Morehead State,None,None,10,6
+15:19,Morehead State,Jordan Walker,Missed Layup,10,6
+15:19,Murray State,Brion Sanchious,Defensive Rebound,10,6
+15:00,Murray State,Shaq Buchanan,Three Point Jumper,13,6
+14:45,Morehead State,De'Von Cooper,Missed Three Point Jumper,13,6
+14:45,Morehead State,Djimon Henson,Offensive Rebound,13,6
+14:45,Morehead State,None,None,13,6
+14:45,Murray State,Ja Morant,Block,13,6
+14:45,Murray State,Ja Morant,Defensive Rebound,13,6
+14:24,Murray State,Ja Morant,Turnover,13,6
+14:24,Morehead State,Djimon Henson,Steal,13,6
+14:15,Murray State,Brion Sanchious,Foul,13,6
+14:15,Morehead State,James Baker,Free Throw,13,7
+14:15,Morehead State,James Baker,Free Throw,13,8
+13:56,Murray State,Ja Morant,Missed Three Point Jumper,13,8
+13:56,Morehead State,De'Von Cooper,Defensive Rebound,13,8
+13:46,Morehead State,De'Von Cooper,Missed Layup,13,8
+13:46,Murray State,Tevin Brown,Defensive Rebound,13,8
+13:38,Murray State,Ja Morant,Turnover,13,8
+13:38,Morehead State,Jordan Walker,Steal,13,8
+13:26,Morehead State,Jordan Walker,Missed Three Point Jumper,13,8
+13:26,Morehead State,Malek Green,Offensive Rebound,13,8
+13:26,Morehead State,None,None,13,10
+13:04,Murray State,Brion Sanchious,Layup,15,10
+12:43,Morehead State,Malek Green,Missed Three Point Jumper,15,10
+12:43,Murray State,Ja Morant,Defensive Rebound,15,10
+12:35,Murray State,Darnell Cowart,Layup,17,10
+12:16,Morehead State,James Baker,Missed Jumper,17,10
+12:16,Murray State,Darnell Cowart,Defensive Rebound,17,10
+12:07,Murray State,Tevin Brown,Missed Three Point Jumper,17,10
+12:07,Morehead State,James Baker,Defensive Rebound,17,10
+12:01,Murray State,Ja Morant,Foul,17,10
+11:55,Morehead State,Djimon Henson,Missed Three Point Jumper,17,10
+11:55,Murray State,Darnell Cowart,Defensive Rebound,17,10
+11:42,Murray State,Ja Morant,Missed Layup,17,10
+11:42,Morehead State,Djimon Henson,Defensive Rebound,17,10
+11:31,Morehead State,James Baker,Missed Three Point Jumper,17,10
+11:31,Morehead State,Djimon Henson,Offensive Rebound,17,10
+11:31,Morehead State,None,None,17,10
+11:31,Murray State,Ja Morant,Defensive Rebound,17,10
+11:19,Murray State,Jaiveon Eaves,Missed Three Point Jumper,17,10
+11:19,Morehead State,Djimon Henson,Defensive Rebound,17,10
+10:53,Morehead State,A.J. Hicks,Missed Layup,17,10
+10:53,Murray State,Darnell Cowart,Defensive Rebound,17,10
+10:38,Murray State,KJ Williams,Jumper,19,10
+10:18,Morehead State,Ja'Cori Wilson,Foul,19,10
+10:18,Morehead State,Ja'Cori Wilson,Turnover,19,10
+10:18,Morehead State,None,None,19,10
+10:10,Murray State,KJ Williams,Layup,21,10
+9:56,Morehead State,James Baker,Missed Layup,21,10
+9:56,Murray State,Darnell Cowart,Defensive Rebound,21,10
+9:45,Murray State,KJ Williams,Layup,23,10
+9:45,Morehead State,None,None,23,10
+9:29,Morehead State,De'Von Cooper,Turnover,23,10
+9:29,Murray State,Shaq Buchanan,Steal,23,10
+9:25,Morehead State,Jordan Walker,Foul,23,10
+9:25,Murray State,Jaiveon Eaves,Free Throw,24,10
+9:25,Murray State,Jaiveon Eaves,Free Throw,25,10
+9:07,Morehead State,A.J. Hicks,Missed Three Point Jumper,25,10
+9:07,Morehead State,James Baker,Offensive Rebound,25,10
+8:41,Morehead State,A.J. Hicks,Missed Jumper,25,10
+8:41,Murray State,Shaq Buchanan,Defensive Rebound,25,10
+8:33,Murray State,Darnell Cowart,Layup,27,10
+8:10,Murray State,Jaiveon Eaves,Foul,27,10
+7:56,Morehead State,Jordan Walker,Missed Three Point Jumper,27,10
+7:56,Murray State,Darnell Cowart,Defensive Rebound,27,10
+7:50,Murray State,Jaiveon Eaves,Three Point Jumper,30,10
+7:31,Morehead State,James Baker,Missed Three Point Jumper,30,10
+7:31,Murray State,Ja Morant,Defensive Rebound,30,10
+7:20,Murray State,Ja Morant,Three Point Jumper,33,10
+7:20,Morehead State,None,None,33,10
+7:20,Morehead State,None,None,33,10
+7:02,Morehead State,Jordan Walker,Missed Layup,33,10
+7:02,Morehead State,Morehead State,Offensive Rebound,33,10
+6:44,Morehead State,Djimon Henson,Missed Jumper,33,10
+6:44,Murray State,Darnell Cowart,Block,33,10
+6:44,Murray State,Jaiveon Eaves,Defensive Rebound,33,10
+6:19,Murray State,Jaiveon Eaves,Jumper,35,10
+5:57,Morehead State,De'Von Cooper,Missed Layup,35,10
+5:57,Murray State,Brion Sanchious,Defensive Rebound,35,10
+5:41,Murray State,Darnell Cowart,Layup,37,10
+5:25,Murray State,Darnell Cowart,Foul,37,10
+5:25,Morehead State,James Baker,Free Throw,37,11
+5:25,Morehead State,James Baker,Free Throw,37,12
+5:25,Murray State,Devin Gilmore,Missed Layup,37,12
+5:25,Morehead State,James Baker,Defensive Rebound,37,12
+5:01,Murray State,Devin Gilmore,Foul,37,12
+4:57,Morehead State,Jordan Walker,Foul,37,12
+4:57,Morehead State,Jordan Walker,Turnover,37,12
+4:40,Murray State,Shaq Buchanan,Missed Three Point Jumper,37,12
+4:40,Morehead State,Malek Green,Defensive Rebound,37,12
+4:23,Morehead State,Malek Green,Missed Jumper,37,12
+4:23,Murray State,Devin Gilmore,Block,37,12
+4:19,Morehead State,Malek Green,Offensive Rebound,37,12
+4:19,Morehead State,None,None,37,12
+4:19,Morehead State,None,None,37,12
+4:14,Murray State,KJ Williams,Foul,37,12
+4:14,Morehead State,James Baker,Free Throw,37,13
+4:14,Morehead State,James Baker,Free Throw,37,14
+3:46,Murray State,Ja Morant,Missed Three Point Jumper,37,14
+3:46,Morehead State,Morehead State,Defensive Rebound,37,14
+3:27,Morehead State,De'Von Cooper,Turnover,37,14
+3:27,Murray State,Shaq Buchanan,Steal,37,14
+3:20,Murray State,Tevin Brown,Missed Three Point Jumper,37,14
+3:20,Morehead State,De'Von Cooper,Defensive Rebound,37,14
+3:03,Morehead State,De'Von Cooper,Missed Three Point Jumper,37,14
+3:03,Morehead State,Morehead State,Offensive Rebound,37,14
+3:01,Morehead State,None,None,37,14
+2:53,Morehead State,De'Von Cooper,Missed Three Point Jumper,37,14
+2:53,Murray State,Ja Morant,Defensive Rebound,37,14
+2:51,Morehead State,Ja'Cori Wilson,Foul,37,14
+2:41,Murray State,KJ Williams,Missed Jumper,37,14
+2:41,Morehead State,Ja'Cori Wilson,Defensive Rebound,37,14
+2:35,Morehead State,A.J. Hicks,Turnover,37,14
+2:35,Murray State,KJ Williams,Steal,37,14
+2:33,Morehead State,De'Von Cooper,Foul,37,14
+2:33,Murray State,Ja Morant,Missed Free Throw,37,14
+2:33,Murray State,None,Team Rebound,37,14
+2:33,Murray State,Ja Morant,Free Throw,38,14
+2:20,Murray State,Ja Morant,Turnover,38,14
+2:10,Murray State,KJ Williams,Foul,38,14
+2:10,Morehead State,James Baker,Missed Free Throw,38,14
+2:06,Murray State,Brion Sanchious,Defensive Rebound,38,14
+1:48,Murray State,Shaq Buchanan,Missed Three Point Jumper,38,14
+1:48,Morehead State,Ja'Cori Wilson,Defensive Rebound,38,14
+1:28,Morehead State,Djimon Henson,Foul,38,14
+1:28,Morehead State,Djimon Henson,Turnover,38,14
+1:14,Murray State,Jaiveon Eaves,Missed Layup,38,14
+1:11,Murray State,Jaiveon Eaves,Offensive Rebound,38,14
+1:10,Murray State,None,None,40,14
+0:31,Morehead State,James Baker,Missed Layup,40,14
+0:31,Murray State,Tevin Brown,Defensive Rebound,40,14
+0:31,Murray State,Mike Davis,Foul,40,14
+0:31,Murray State,Mike Davis,Turnover,40,14
+0:05,Morehead State,Djimon Henson,Missed Jumper,40,14
+0:05,Murray State,Mike Davis,Defensive Rebound,40,14
+0:00,Murray State,Ja Morant,Missed Three Point Jumper,40,14
+0:00,Morehead State,Morehead State,Defensive Rebound,40,14
+0:00,Morehead State,None,None,40,14
+20:00,Murray State,None,None,40,14
+19:46,Murray State,Ja Morant,Missed Jumper,40,14
+19:46,Murray State,Ja Morant,Offensive Rebound,40,14
+19:46,Murray State,None,None,40,14
+19:46,Murray State,Darnell Cowart,Offensive Rebound,40,14
+19:46,Murray State,None,None,42,14
+19:46,Morehead State,James Baker,Foul,42,14
+19:46,Murray State,Darnell Cowart,Free Throw,43,14
+19:30,Morehead State,Malek Green,Dunk,43,16
+19:07,Murray State,Darnell Cowart,Missed Jumper,43,16
+19:07,Morehead State,De'Von Cooper,Defensive Rebound,43,16
+19:00,Morehead State,De'Von Cooper,Turnover,43,16
+19:00,Murray State,Darnell Cowart,Steal,43,16
+18:55,Murray State,KJ Williams,Dunk,45,16
+18:42,Morehead State,Jordan Walker,Layup,45,18
+18:24,Murray State,Tevin Brown,Missed Three Point Jumper,45,18
+18:24,Morehead State,A.J. Hicks,Defensive Rebound,45,18
+18:16,Morehead State,A.J. Hicks,Missed Layup,45,18
+18:16,Morehead State,Malek Green,Offensive Rebound,45,18
+18:16,Morehead State,None,None,45,18
+18:16,Murray State,Tevin Brown,Defensive Rebound,45,18
+18:05,Murray State,Ja Morant,Dunk,47,18
+18:02,Murray State,Darnell Cowart,Foul,47,18
+18:02,Morehead State,Malek Green,Free Throw,47,19
+18:02,Morehead State,Malek Green,Missed Free Throw,47,19
+18:02,Murray State,KJ Williams,Defensive Rebound,47,19
+17:39,Murray State,Tevin Brown,Missed Jumper,47,19
+17:39,Morehead State,De'Von Cooper,Defensive Rebound,47,19
+17:26,Morehead State,De'Von Cooper,Missed Layup,47,19
+17:26,Morehead State,Malek Green,Foul,47,19
+17:26,Murray State,KJ Williams,Defensive Rebound,47,19
+17:12,Murray State,Ja Morant,Missed Three Point Jumper,47,19
+17:12,Murray State,Shaq Buchanan,Offensive Rebound,47,19
+17:06,Murray State,KJ Williams,Turnover,47,19
+16:52,Morehead State,Malek Green,Missed Jumper,47,19
+16:52,Murray State,Brion Sanchious,Block,47,19
+16:52,Murray State,Tevin Brown,Defensive Rebound,47,19
+16:40,Murray State,Ja Morant,Missed Dunk,47,19
+16:40,Morehead State,James Baker,Block,47,19
+16:40,Morehead State,A.J. Hicks,Defensive Rebound,47,19
+16:38,Morehead State,A.J. Hicks,Missed Layup,47,19
+16:38,Murray State,Tevin Brown,Defensive Rebound,47,19
+16:18,Murray State,Tevin Brown,Missed Three Point Jumper,47,19
+16:18,Morehead State,James Baker,Defensive Rebound,47,19
+16:15,Murray State,Brion Sanchious,Foul,47,19
+16:04,Morehead State,Ja'Cori Wilson,Missed Three Point Jumper,47,19
+16:04,Murray State,Shaq Buchanan,Defensive Rebound,47,19
+16:02,Morehead State,James Baker,Foul,47,19
+15:43,Murray State,Brion Sanchious,Missed Jumper,47,19
+15:43,Morehead State,James Baker,Defensive Rebound,47,19
+15:25,Morehead State,Djimon Henson,Missed Three Point Jumper,47,19
+15:25,Morehead State,Ja'Cori Wilson,Offensive Rebound,47,19
+15:18,Morehead State,Jordan Walker,Missed Three Point Jumper,47,19
+15:18,Murray State,Ja Morant,Defensive Rebound,47,19
+15:18,Murray State,Tevin Brown,Layup,49,19
+15:18,Morehead State,None,None,49,19
+14:57,Morehead State,Jordan Walker,Missed Three Point Jumper,49,19
+14:57,Murray State,KJ Williams,Defensive Rebound,49,19
+14:49,Murray State,Brion Sanchious,Missed Layup,49,19
+14:49,Morehead State,James Baker,Defensive Rebound,49,19
+14:40,Morehead State,James Baker,Missed Three Point Jumper,49,19
+14:40,Murray State,Ja Morant,Defensive Rebound,49,19
+14:14,Murray State,Shaq Buchanan,Missed Jumper,49,19
+14:14,Morehead State,Jordan Walker,Defensive Rebound,49,19
+14:07,Murray State,Tevin Brown,Foul,49,19
+14:07,Morehead State,Jordan Walker,Missed Free Throw,49,19
+14:07,Morehead State,None,Team Rebound,49,19
+14:07,Morehead State,Jordan Walker,Missed Free Throw,49,19
+14:07,Murray State,KJ Williams,Defensive Rebound,49,19
+13:43,Murray State,Jaiveon Eaves,Missed Three Point Jumper,49,19
+13:43,Morehead State,Malek Green,Defensive Rebound,49,19
+13:25,Morehead State,Djimon Henson,Missed Jumper,49,19
+13:25,Murray State,Jaiveon Eaves,Defensive Rebound,49,19
+13:18,Murray State,Shaq Buchanan,Dunk,51,19
+13:04,Morehead State,Malek Green,Foul,51,19
+13:04,Morehead State,Malek Green,Turnover,51,19
+12:59,Morehead State,A.J. Hicks,Foul,51,19
+12:51,Murray State,Brion Sanchious,Turnover,51,19
+12:51,Morehead State,A.J. Hicks,Steal,51,19
+12:48,Morehead State,A.J. Hicks,Layup,51,21
+12:19,Murray State,Shaq Buchanan,Missed Three Point Jumper,51,21
+12:19,Morehead State,Malek Green,Defensive Rebound,51,21
+12:08,Murray State,Jaiveon Eaves,Foul,51,21
+12:08,Morehead State,A.J. Hicks,Free Throw,51,22
+12:08,Morehead State,A.J. Hicks,Free Throw,51,23
+11:49,Murray State,Jaiveon Eaves,Missed Jumper,51,23
+11:49,Morehead State,Malek Green,Defensive Rebound,51,23
+11:45,Morehead State,None,None,51,23
+11:31,Morehead State,Jordan Walker,Missed Three Point Jumper,51,23
+11:31,Murray State,Ja Morant,Defensive Rebound,51,23
+11:22,Murray State,Ja Morant,Turnover,51,23
+11:16,Morehead State,A.J. Hicks,Three Point Jumper,51,26
+10:56,Murray State,Tevin Brown,Three Point Jumper,54,26
+10:39,Murray State,Darnell Cowart,Foul,54,26
+10:39,Morehead State,Malek Green,Missed Free Throw,54,26
+10:39,Morehead State,None,Team Rebound,54,26
+10:39,Morehead State,Malek Green,Free Throw,54,27
+10:26,Murray State,Tevin Brown,Three Point Jumper,57,27
+10:10,Morehead State,Jordan Walker,Layup,57,29
+9:59,Murray State,Ja Morant,Turnover,57,29
+9:59,Morehead State,Jordan Walker,Steal,57,29
+9:55,Morehead State,Jordan Walker,Turnover,57,29
+9:32,Murray State,Brion Whitley,Missed Jumper,57,29
+9:32,Murray State,Murray State,Offensive Rebound,57,29
+9:30,Morehead State,A.J. Hicks,Foul,57,29
+9:28,Morehead State,James Baker,Foul,57,29
+9:28,Murray State,Ja Morant,Free Throw,58,29
+9:28,Murray State,Ja Morant,Free Throw,59,29
+9:11,Morehead State,James Baker,Missed Three Point Jumper,59,29
+9:11,Murray State,KJ Williams,Defensive Rebound,59,29
+8:43,Murray State,Devin Gilmore,Missed Jumper,59,29
+8:43,Murray State,KJ Williams,Offensive Rebound,59,29
+8:32,Murray State,KJ Williams,Layup,61,29
+8:23,Morehead State,James Baker,Missed Jumper,61,29
+8:23,Morehead State,James Baker,Offensive Rebound,61,29
+8:23,Morehead State,None,None,61,31
+8:08,Murray State,Devin Gilmore,Missed Jumper,61,31
+8:08,Morehead State,Jordan Walker,Defensive Rebound,61,31
+7:57,Morehead State,Djimon Henson,Three Point Jumper,61,34
+7:41,Murray State,Brion Whitley,Three Point Jumper,64,34
+7:18,Morehead State,Djimon Henson,Missed Three Point Jumper,64,34
+7:18,Morehead State,Malek Green,Offensive Rebound,64,34
+7:16,Murray State,KJ Williams,Foul,64,34
+7:16,Morehead State,None,None,64,34
+6:58,Morehead State,James Baker,Missed Jumper,64,34
+6:58,Murray State,Devin Gilmore,Block,64,34
+6:58,Murray State,Jaiveon Eaves,Defensive Rebound,64,34
+6:54,Morehead State,Malik Riddle,Foul,64,34
+6:54,Murray State,KJ Williams,Missed Free Throw,64,34
+6:54,Murray State,None,Team Rebound,64,34
+6:54,Murray State,KJ Williams,Missed Free Throw,64,34
+6:54,Morehead State,Sasha Sukhanov,Defensive Rebound,64,34
+6:41,Morehead State,Malik Riddle,Missed Three Point Jumper,64,34
+6:41,Murray State,KJ Williams,Defensive Rebound,64,34
+6:39,Morehead State,Sasha Sukhanov,Foul,64,34
+6:39,Murray State,KJ Williams,Missed Free Throw,64,34
+6:39,Morehead State,Malik Riddle,Defensive Rebound,64,34
+6:31,Morehead State,Djimon Henson,Missed Three Point Jumper,64,34
+6:31,Murray State,Jaiveon Eaves,Defensive Rebound,64,34
+6:16,Murray State,Jaiveon Eaves,Missed Three Point Jumper,64,34
+6:16,Morehead State,Sasha Sukhanov,Defensive Rebound,64,34
+6:03,Morehead State,Jordan Walker,Missed Jumper,64,34
+6:03,Murray State,Devin Gilmore,Defensive Rebound,64,34
+5:38,Murray State,KJ Williams,Missed Jumper,64,34
+5:38,Morehead State,Sasha Sukhanov,Block,64,34
+5:38,Murray State,KJ Williams,Offensive Rebound,64,34
+5:36,Murray State,KJ Williams,Turnover,64,34
+5:20,Morehead State,Djimon Henson,Three Point Jumper,64,37
+4:53,Murray State,Jaiveon Eaves,Turnover,64,37
+4:53,Morehead State,A.J. Hicks,Steal,64,37
+4:47,Morehead State,Malik Riddle,Layup,64,39
+4:47,Murray State,Tevin Brown,Foul,64,39
+4:47,Morehead State,Malik Riddle,Missed Free Throw,64,39
+4:47,Morehead State,Sasha Sukhanov,Offensive Rebound,64,39
+4:44,Morehead State,A.J. Hicks,Missed Three Point Jumper,64,39
+4:44,Murray State,Mike Davis,Defensive Rebound,64,39
+4:31,Murray State,Brion Whitley,Three Point Jumper,67,39
+4:22,Morehead State,Malik Riddle,Jumper,67,41
+3:56,Murray State,Tevin Brown,Turnover,67,41
+3:56,Morehead State,A.J. Hicks,Steal,67,41
+3:52,Murray State,Tevin Brown,Foul,67,41
+3:52,Morehead State,None,None,67,41
+3:52,Morehead State,A.J. Hicks,Free Throw,67,42
+3:52,Morehead State,A.J. Hicks,Free Throw,67,43
+3:27,Murray State,Brion Whitley,Missed Jumper,67,43
+3:27,Morehead State,Ja'Cori Wilson,Block,67,43
+3:27,Morehead State,Djimon Henson,Defensive Rebound,67,43
+3:20,Morehead State,Djimon Henson,Three Point Jumper,67,46
+3:01,Murray State,Devin Gilmore,Missed Jumper,67,46
+3:01,Murray State,Brion Whitley,Offensive Rebound,67,46
+3:01,Murray State,None,None,69,46
+2:47,Murray State,Jalen Johnson,Foul,69,46
+2:47,Morehead State,A.J. Hicks,Missed Free Throw,69,46
+2:47,Morehead State,None,Team Rebound,69,46
+2:47,Morehead State,A.J. Hicks,Free Throw,69,47
+2:47,Morehead State,A.J. Hicks,Missed Free Throw,69,47
+2:47,Murray State,Devin Gilmore,Defensive Rebound,69,47
+2:23,Murray State,Jalen Johnson,Missed Three Point Jumper,69,47
+2:23,Morehead State,Morehead State,Defensive Rebound,69,47
+2:12,Morehead State,A.J. Hicks,Turnover,69,47
+1:56,Murray State,Devin Gilmore,Jumper,71,47
+1:52,Murray State,Brion Whitley,Foul,71,47
+1:52,Morehead State,A.J. Hicks,Missed Free Throw,71,47
+1:52,Morehead State,None,Team Rebound,71,47
+1:52,Morehead State,A.J. Hicks,Free Throw,71,48
+1:44,Murray State,Brion Whitley,Missed Three Point Jumper,71,48
+1:44,Morehead State,Ja'Cori Wilson,Defensive Rebound,71,48
+1:30,Morehead State,Malik Riddle,Missed Three Point Jumper,71,48
+1:30,Morehead State,A.J. Hicks,Offensive Rebound,71,48
+1:24,Morehead State,A.J. Hicks,Missed Three Point Jumper,71,48
+1:24,Murray State,Devin Gilmore,Defensive Rebound,71,48
+1:02,Murray State,Jalen Johnson,Missed Layup,71,48
+1:02,Morehead State,Sasha Sukhanov,Block,71,48
+1:02,Morehead State,A.J. Hicks,Defensive Rebound,71,48
+0:55,Morehead State,Malik Riddle,Dunk,71,50
+0:55,Morehead State,None,None,71,50
+0:32,Murray State,Jaiveon Eaves,Missed Jumper,71,50
+0:32,Morehead State,Sasha Sukhanov,Block,71,50
+0:32,Morehead State,Ja'Cori Wilson,Defensive Rebound,71,50
+0:10,Morehead State,Malik Riddle,Dunk,71,52
+0:00,Morehead State,None,None,71,52

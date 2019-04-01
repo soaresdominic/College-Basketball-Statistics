@@ -1,0 +1,334 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Oregon State,None,None,0,0
+19:44,Oregon State,Stephen Thompson Jr.,Jumper,0,2
+19:29,USC,Bennie Boatwright,Jumper,2,2
+19:09,Oregon State,Kylor Kelley,Jumper,2,4
+18:41,USC,Nick Rakocevic,Missed Jumper,2,4
+18:41,Oregon State,Alfred Hollins,Defensive Rebound,2,4
+18:32,Oregon State,Alfred Hollins,Missed Three Point Jumper,2,4
+18:32,USC,Bennie Boatwright,Defensive Rebound,2,4
+18:24,Oregon State,Kylor Kelley,Foul,2,4
+18:24,USC,Nick Rakocevic,Missed Free Throw,2,4
+18:24,USC,None,Team Rebound,2,4
+18:24,USC,Nick Rakocevic,Missed Free Throw,2,4
+18:24,Oregon State,Alfred Hollins,Defensive Rebound,2,4
+18:09,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,2,4
+18:09,USC,Nick Rakocevic,Defensive Rebound,2,4
+17:57,USC,Jonah Mathews,Jumper,4,4
+17:40,Oregon State,Stephen Thompson Jr.,Jumper,4,6
+17:14,USC,Nick Rakocevic,Turnover,4,6
+17:14,Oregon State,Ethan Thompson,Steal,4,6
+17:06,Oregon State,Ethan Thompson,Missed Jumper,4,6
+17:06,USC,Nick Rakocevic,Block,4,6
+17:06,Oregon State,Oregon State,Offensive Rebound,4,6
+17:02,Oregon State,Kylor Kelley,Missed Jumper,4,6
+17:02,USC,Shaqquan Aaron,Defensive Rebound,4,6
+16:38,USC,Bennie Boatwright,Jumper,6,6
+16:19,Oregon State,Ethan Thompson,Layup,6,8
+15:57,USC,Jonah Mathews,Jumper,8,8
+15:41,Oregon State,Ethan Thompson,Missed Three Point Jumper,8,8
+15:41,USC,Derryck Thornton,Defensive Rebound,8,8
+15:30,USC,Bennie Boatwright,Jumper,10,8
+15:07,Oregon State,Zach Reichle,Three Point Jumper,10,11
+14:46,USC,Derryck Thornton,Missed Jumper,10,11
+14:46,Oregon State,Ethan Thompson,Defensive Rebound,10,11
+14:34,Oregon State,None,None,10,11
+14:25,Oregon State,Kylor Kelley,Turnover,10,11
+14:25,USC,Elijah Weaver,Steal,10,11
+14:16,USC,Elijah Weaver,Missed Layup,10,11
+14:16,USC,USC,Offensive Rebound,10,11
+14:12,USC,Jonah Mathews,Three Point Jumper,13,11
+13:44,Oregon State,Alfred Hollins,Missed Three Point Jumper,13,11
+13:44,USC,Kevin Porter Jr.,Defensive Rebound,13,11
+13:33,USC,Kevin Porter Jr.,Three Point Jumper,16,11
+13:08,Oregon State,Zach Reichle,Turnover,16,11
+13:08,USC,Kevin Porter Jr.,Steal,16,11
+13:01,USC,Kevin Porter Jr.,Layup,18,11
+13:00,Oregon State,None,None,18,11
+12:57,Oregon State,Ethan Thompson,Missed Jumper,18,11
+12:57,Oregon State,Gligorije Rakocevic,Offensive Rebound,18,11
+12:49,Oregon State,Gligorije Rakocevic,Missed Jumper,18,11
+12:49,USC,Bennie Boatwright,Defensive Rebound,18,11
+12:43,USC,Bennie Boatwright,Layup,20,11
+12:24,Oregon State,Stephen Thompson Jr.,Three Point Jumper,20,14
+12:02,Oregon State,Ethan Thompson,Foul,20,14
+12:02,USC,Nick Rakocevic,Free Throw,21,14
+12:02,USC,Nick Rakocevic,Free Throw,22,14
+11:54,USC,Kevin Porter Jr.,Foul,22,14
+11:54,Oregon State,None,None,22,14
+11:38,Oregon State,Zach Reichle,Missed Jumper,22,14
+11:38,USC,Kevin Porter Jr.,Defensive Rebound,22,14
+11:14,Oregon State,Gligorije Rakocevic,Foul,22,14
+11:02,USC,Kevin Porter Jr.,Missed Three Point Jumper,22,14
+11:02,USC,Bennie Boatwright,Offensive Rebound,22,14
+10:58,Oregon State,Stephen Thompson Jr.,Foul,22,14
+10:58,USC,Bennie Boatwright,Layup,24,14
+10:58,USC,Bennie Boatwright,Free Throw,25,14
+10:53,USC,Shaqquan Aaron,Foul,25,14
+10:35,Oregon State,Gligorije Rakocevic,Layup,25,16
+10:21,USC,Derryck Thornton,Missed Three Point Jumper,25,16
+10:21,Oregon State,Antoine Vernon,Defensive Rebound,25,16
+9:54,Oregon State,Stephen Thompson Jr.,Three Point Jumper,25,19
+9:37,USC,Bennie Boatwright,Missed Three Point Jumper,25,19
+9:37,Oregon State,Oregon State,Defensive Rebound,25,19
+9:33,USC,None,None,25,19
+9:10,USC,J'Raan Brooks,Foul,25,19
+8:57,Oregon State,Stephen Thompson Jr.,Jumper,25,21
+8:33,USC,Derryck Thornton,Missed Three Point Jumper,25,21
+8:33,Oregon State,Warren Washington,Defensive Rebound,25,21
+8:22,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,25,21
+8:22,USC,Nick Rakocevic,Defensive Rebound,25,21
+8:13,USC,Jonah Mathews,Missed Three Point Jumper,25,21
+8:13,Oregon State,Stephen Thompson Jr.,Defensive Rebound,25,21
+8:06,USC,Shaqquan Aaron,Foul,25,21
+8:06,Oregon State,Warren Washington,Missed Free Throw,25,21
+8:06,Oregon State,None,Team Rebound,25,21
+8:06,Oregon State,Warren Washington,Free Throw,25,22
+7:53,USC,Kevin Porter Jr.,Missed Jumper,25,22
+7:53,Oregon State,Alfred Hollins,Defensive Rebound,25,22
+7:42,Oregon State,Warren Washington,Dunk,25,24
+7:42,USC,J'Raan Brooks,Foul,25,24
+7:42,Oregon State,Warren Washington,Missed Free Throw,25,24
+7:42,USC,Bennie Boatwright,Defensive Rebound,25,24
+7:39,Oregon State,None,None,25,24
+7:26,USC,Bennie Boatwright,Missed Jumper,25,24
+7:26,Oregon State,Gligorije Rakocevic,Defensive Rebound,25,24
+7:10,Oregon State,Alfred Hollins,Foul,25,24
+7:10,Oregon State,Alfred Hollins,Turnover,25,24
+7:03,USC,Kevin Porter Jr.,Turnover,25,24
+7:03,Oregon State,Antoine Vernon,Steal,25,24
+6:57,Oregon State,Stephen Thompson Jr.,Layup,25,26
+6:33,USC,Nick Rakocevic,Missed Jumper,25,26
+6:33,Oregon State,Stephen Thompson Jr.,Defensive Rebound,25,26
+6:09,Oregon State,Stephen Thompson Jr.,Three Point Jumper,25,29
+5:46,USC,Bennie Boatwright,Missed Three Point Jumper,25,29
+5:46,Oregon State,Alfred Hollins,Defensive Rebound,25,29
+5:38,Oregon State,Antoine Vernon,Three Point Jumper,25,32
+5:32,USC,None,None,25,32
+5:12,USC,Bennie Boatwright,Layup,27,32
+4:40,Oregon State,Alfred Hollins,Missed Layup,27,32
+4:40,Oregon State,Warren Washington,Offensive Rebound,27,32
+4:34,Oregon State,Warren Washington,Missed Jumper,27,32
+4:31,USC,Derryck Thornton,Defensive Rebound,27,32
+4:25,USC,Derryck Thornton,Layup,29,32
+3:58,Oregon State,Gligorije Rakocevic,Layup,29,34
+3:36,USC,Shaqquan Aaron,Turnover,29,34
+3:36,Oregon State,None,None,29,34
+3:15,Oregon State,Warren Washington,Jumper,29,36
+2:38,USC,Bennie Boatwright,Layup,31,36
+2:18,Oregon State,Zach Reichle,Missed Layup,31,36
+2:18,USC,Bennie Boatwright,Block,31,36
+2:18,USC,USC,Defensive Rebound,31,36
+1:48,USC,Nick Rakocevic,Turnover,31,36
+1:23,Oregon State,Stephen Thompson Jr.,Turnover,31,36
+1:23,USC,Jonah Mathews,Steal,31,36
+1:17,USC,Derryck Thornton,Missed Three Point Jumper,31,36
+1:17,USC,Nick Rakocevic,Offensive Rebound,31,36
+1:10,USC,Nick Rakocevic,Missed Layup,31,36
+1:10,Oregon State,Kylor Kelley,Block,31,36
+1:10,Oregon State,Oregon State,Defensive Rebound,31,36
+1:00,Oregon State,Ethan Thompson,Turnover,31,36
+0:44,USC,Jonah Mathews,Missed Three Point Jumper,31,36
+0:44,Oregon State,Oregon State,Defensive Rebound,31,36
+0:25,USC,Kevin Porter Jr.,Foul,31,36
+0:16,Oregon State,Ethan Thompson,Missed Jumper,31,36
+0:16,Oregon State,Stephen Thompson Jr.,Offensive Rebound,31,36
+0:03,Oregon State,Zach Reichle,Missed Three Point Jumper,31,36
+0:03,USC,USC,Defensive Rebound,31,36
+0:00,Oregon State,None,None,31,36
+20:00,USC,None,None,31,36
+19:51,USC,Shaqquan Aaron,Missed Three Point Jumper,31,36
+19:51,Oregon State,Stephen Thompson Jr.,Defensive Rebound,31,36
+19:28,Oregon State,Stephen Thompson Jr.,Three Point Jumper,31,39
+19:10,USC,Bennie Boatwright,Missed Jumper,31,39
+19:10,Oregon State,Zach Reichle,Defensive Rebound,31,39
+18:55,Oregon State,Alfred Hollins,Missed Three Point Jumper,31,39
+18:55,USC,Shaqquan Aaron,Defensive Rebound,31,39
+18:40,Oregon State,Alfred Hollins,Foul,31,39
+18:40,USC,Bennie Boatwright,Free Throw,32,39
+18:40,USC,Bennie Boatwright,Free Throw,33,39
+18:26,Oregon State,Kylor Kelley,Layup,33,41
+18:09,USC,Derryck Thornton,Three Point Jumper,36,41
+17:42,Oregon State,Ethan Thompson,Layup,36,43
+17:15,USC,Nick Rakocevic,Missed Jumper,36,43
+17:15,Oregon State,Kylor Kelley,Defensive Rebound,36,43
+17:06,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,36,43
+17:06,USC,Jonah Mathews,Defensive Rebound,36,43
+16:58,USC,Bennie Boatwright,Missed Layup,36,43
+16:58,Oregon State,Kylor Kelley,Block,36,43
+16:58,USC,USC,Offensive Rebound,36,43
+16:50,USC,Shaqquan Aaron,Jumper,38,43
+16:34,USC,Derryck Thornton,Foul,38,43
+16:34,Oregon State,Ethan Thompson,Free Throw,38,44
+16:34,Oregon State,Ethan Thompson,Missed Free Throw,38,44
+16:34,USC,Nick Rakocevic,Defensive Rebound,38,44
+16:20,USC,Nick Rakocevic,Missed Jumper,38,44
+16:20,Oregon State,Kylor Kelley,Block,38,44
+16:20,USC,Nick Rakocevic,Offensive Rebound,38,44
+16:14,USC,Nick Rakocevic,Turnover,38,44
+16:14,Oregon State,Kylor Kelley,Steal,38,44
+16:07,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,38,44
+16:07,USC,Bennie Boatwright,Defensive Rebound,38,44
+15:46,USC,Jonah Mathews,Turnover,38,44
+15:45,Oregon State,None,None,38,44
+15:27,Oregon State,Alfred Hollins,Turnover,38,44
+15:27,USC,Victor Uyaelunmo,Steal,38,44
+15:03,USC,Victor Uyaelunmo,Missed Layup,38,44
+15:03,Oregon State,Kylor Kelley,Block,38,44
+15:03,Oregon State,Stephen Thompson Jr.,Defensive Rebound,38,44
+14:57,USC,Jonah Mathews,Foul,38,44
+14:43,USC,Victor Uyaelunmo,Foul,38,44
+14:43,Oregon State,Alfred Hollins,Free Throw,38,45
+14:43,Oregon State,Alfred Hollins,Free Throw,38,46
+14:23,USC,Kevin Porter Jr.,Missed Layup,38,46
+14:23,Oregon State,Kylor Kelley,Block,38,46
+14:23,Oregon State,Alfred Hollins,Defensive Rebound,38,46
+14:16,USC,Bennie Boatwright,Foul,38,46
+14:14,Oregon State,Kylor Kelley,Missed Jumper,38,46
+14:14,USC,Kevin Porter Jr.,Defensive Rebound,38,46
+13:58,USC,Bennie Boatwright,Jumper,40,46
+13:27,Oregon State,Kylor Kelley,Turnover,40,46
+13:08,USC,Victor Uyaelunmo,Dunk,42,46
+12:49,Oregon State,Stephen Thompson Jr.,Three Point Jumper,42,49
+12:24,USC,Jonah Mathews,Three Point Jumper,45,49
+12:00,Oregon State,None,None,45,49
+11:55,Oregon State,Stephen Thompson Jr.,Turnover,45,49
+11:55,USC,Bennie Boatwright,Steal,45,49
+11:47,USC,Elijah Weaver,Missed Layup,45,49
+11:47,Oregon State,Stephen Thompson Jr.,Defensive Rebound,45,49
+11:34,Oregon State,Warren Washington,Dunk,45,51
+11:10,USC,Kevin Porter Jr.,Missed Three Point Jumper,45,51
+11:10,Oregon State,Stephen Thompson Jr.,Defensive Rebound,45,51
+10:58,Oregon State,Stephen Thompson Jr.,Missed Layup,45,51
+10:58,USC,Victor Uyaelunmo,Block,45,51
+10:58,USC,Victor Uyaelunmo,Defensive Rebound,45,51
+10:47,USC,Bennie Boatwright,Three Point Jumper,48,51
+10:16,Oregon State,Warren Washington,Missed Three Point Jumper,48,51
+10:12,Oregon State,Gligorije Rakocevic,Offensive Rebound,48,51
+10:12,USC,Victor Uyaelunmo,Foul,48,51
+10:12,Oregon State,Gligorije Rakocevic,Free Throw,48,52
+10:12,Oregon State,Gligorije Rakocevic,Free Throw,48,53
+9:58,USC,Bennie Boatwright,Missed Jumper,48,53
+9:58,USC,Shaqquan Aaron,Offensive Rebound,48,53
+9:46,USC,Derryck Thornton,Missed Three Point Jumper,48,53
+9:46,Oregon State,Oregon State,Defensive Rebound,48,53
+9:27,Oregon State,Kylor Kelley,Turnover,48,53
+9:27,USC,Nick Rakocevic,Steal,48,53
+9:19,USC,Bennie Boatwright,Three Point Jumper,51,53
+8:56,Oregon State,Ethan Thompson,Three Point Jumper,51,56
+8:40,USC,Derryck Thornton,Turnover,51,56
+8:25,Oregon State,Gligorije Rakocevic,Jumper,51,58
+8:03,Oregon State,Zach Reichle,Foul,51,58
+7:52,USC,Jonah Mathews,Three Point Jumper,54,58
+7:33,USC,Derryck Thornton,Foul,54,58
+7:33,Oregon State,None,None,54,58
+7:17,Oregon State,Gligorije Rakocevic,Jumper,54,60
+7:00,Oregon State,Gligorije Rakocevic,Foul,54,60
+6:54,USC,Nick Rakocevic,Jumper,56,60
+6:23,USC,Derryck Thornton,Foul,56,60
+6:23,Oregon State,Stephen Thompson Jr.,Free Throw,56,61
+6:23,Oregon State,Stephen Thompson Jr.,Free Throw,56,62
+5:59,USC,Nick Rakocevic,Missed Jumper,56,62
+5:59,Oregon State,Warren Washington,Block,56,62
+5:59,Oregon State,Warren Washington,Defensive Rebound,56,62
+5:47,Oregon State,Ethan Thompson,Missed Layup,56,62
+5:47,USC,Nick Rakocevic,Block,56,62
+5:47,USC,Jonah Mathews,Defensive Rebound,56,62
+5:47,Oregon State,Warren Washington,Foul,56,62
+5:34,USC,Bennie Boatwright,Three Point Jumper,59,62
+5:04,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,59,62
+5:04,USC,Shaqquan Aaron,Defensive Rebound,59,62
+4:55,USC,Shaqquan Aaron,Layup,61,62
+4:55,Oregon State,Zach Reichle,Foul,61,62
+4:55,USC,Shaqquan Aaron,Missed Free Throw,61,62
+4:55,Oregon State,Warren Washington,Defensive Rebound,61,62
+4:29,Oregon State,Stephen Thompson Jr.,Jumper,61,64
+4:28,Oregon State,None,None,61,64
+4:07,USC,Nick Rakocevic,Missed Jumper,61,64
+4:07,Oregon State,Stephen Thompson Jr.,Defensive Rebound,61,64
+3:34,Oregon State,Zach Reichle,Turnover,61,64
+3:34,Oregon State,None,None,61,64
+3:19,Oregon State,Warren Washington,Foul,61,64
+3:05,USC,Jonah Mathews,Missed Jumper,61,64
+3:05,USC,Bennie Boatwright,Offensive Rebound,61,64
+2:59,USC,Bennie Boatwright,Three Point Jumper,64,64
+2:30,Oregon State,Kylor Kelley,Missed Layup,64,64
+2:30,USC,Kevin Porter Jr.,Defensive Rebound,64,64
+2:21,USC,Nick Rakocevic,Layup,66,64
+2:19,Oregon State,None,None,66,64
+2:07,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,66,64
+2:07,USC,Derryck Thornton,Defensive Rebound,66,64
+1:40,USC,Bennie Boatwright,Missed Jumper,66,64
+1:40,Oregon State,Ethan Thompson,Defensive Rebound,66,64
+1:09,Oregon State,Stephen Thompson Jr.,Missed Jumper,66,64
+1:09,USC,USC,Defensive Rebound,66,64
+1:03,USC,None,None,66,64
+0:38,USC,Nick Rakocevic,Missed Jumper,66,64
+0:38,Oregon State,Kylor Kelley,Block,66,64
+0:38,Oregon State,Ethan Thompson,Defensive Rebound,66,64
+0:19,Oregon State,Warren Washington,Missed Layup,66,64
+0:19,USC,Nick Rakocevic,Block,66,64
+0:19,Oregon State,Ethan Thompson,Offensive Rebound,66,64
+0:18,Oregon State,Ethan Thompson,Layup,66,66
+0:18,USC,None,None,66,66
+0:04,USC,Bennie Boatwright,Missed Three Point Jumper,66,66
+0:04,Oregon State,Warren Washington,Defensive Rebound,66,66
+0:00,Oregon State,None,None,66,66
+5:00,USC,None,None,66,66
+4:55,USC,Bennie Boatwright,Layup,68,66
+4:40,Oregon State,Ethan Thompson,Turnover,68,66
+4:19,USC,Nick Rakocevic,Missed Jumper,68,66
+4:19,Oregon State,Stephen Thompson Jr.,Defensive Rebound,68,66
+4:14,USC,Bennie Boatwright,Foul,68,66
+4:14,Oregon State,Stephen Thompson Jr.,Free Throw,68,67
+4:14,Oregon State,Stephen Thompson Jr.,Free Throw,68,68
+3:56,Oregon State,Warren Washington,Foul,68,68
+3:56,USC,Bennie Boatwright,Free Throw,69,68
+3:56,USC,Bennie Boatwright,Free Throw,70,68
+3:56,USC,Bennie Boatwright,Missed Free Throw,70,68
+3:56,Oregon State,Warren Washington,Defensive Rebound,70,68
+3:39,Oregon State,Stephen Thompson Jr.,Jumper,70,70
+3:13,USC,Derryck Thornton,Turnover,70,70
+2:59,USC,Kevin Porter Jr.,Foul,70,70
+2:59,Oregon State,Antoine Vernon,Free Throw,70,71
+2:59,Oregon State,Antoine Vernon,Free Throw,70,72
+2:44,USC,Jonah Mathews,Missed Three Point Jumper,70,72
+2:44,USC,Nick Rakocevic,Offensive Rebound,70,72
+2:34,Oregon State,Stephen Thompson Jr.,Foul,70,72
+2:34,USC,Derryck Thornton,Free Throw,71,72
+2:34,USC,Derryck Thornton,Free Throw,72,72
+2:18,Oregon State,Ethan Thompson,Missed Jumper,72,72
+2:18,Oregon State,Warren Washington,Offensive Rebound,72,72
+2:13,Oregon State,Antoine Vernon,Missed Three Point Jumper,72,72
+2:13,Oregon State,Kylor Kelley,Offensive Rebound,72,72
+1:51,Oregon State,Stephen Thompson Jr.,Turnover,72,72
+1:32,USC,Bennie Boatwright,Jumper,74,72
+1:03,Oregon State,Ethan Thompson,Three Point Jumper,74,75
+1:00,Oregon State,None,None,74,75
+0:42,USC,Bennie Boatwright,Missed Three Point Jumper,74,75
+0:42,Oregon State,Kylor Kelley,Defensive Rebound,74,75
+0:27,USC,Jonah Mathews,Foul,74,75
+0:27,Oregon State,Stephen Thompson Jr.,Free Throw,74,76
+0:27,Oregon State,Stephen Thompson Jr.,Missed Free Throw,74,76
+0:27,USC,Bennie Boatwright,Defensive Rebound,74,76
+0:21,USC,Kevin Porter Jr.,Missed Jumper,74,76
+0:21,Oregon State,Kylor Kelley,Block,74,76
+0:21,Oregon State,Stephen Thompson Jr.,Defensive Rebound,74,76
+0:18,USC,Nick Rakocevic,Foul,74,76
+0:18,Oregon State,Stephen Thompson Jr.,Free Throw,74,77
+0:18,Oregon State,Stephen Thompson Jr.,Free Throw,74,78
+0:18,USC,None,None,74,78
+0:14,USC,Bennie Boatwright,Missed Three Point Jumper,74,78
+0:14,Oregon State,Kylor Kelley,Defensive Rebound,74,78
+0:10,USC,Nick Rakocevic,Foul,74,78
+0:10,Oregon State,Kylor Kelley,Free Throw,74,79
+0:10,Oregon State,Kylor Kelley,Missed Free Throw,74,79
+0:10,USC,Nick Rakocevic,Defensive Rebound,74,79
+0:06,USC,Derryck Thornton,Missed Three Point Jumper,74,79
+0:06,Oregon State,Kylor Kelley,Defensive Rebound,74,79
+0:03,USC,Kevin Porter Jr.,Foul,74,79
+0:03,Oregon State,Kylor Kelley,Missed Free Throw,74,79
+0:03,Oregon State,None,Team Rebound,74,79
+0:03,Oregon State,Kylor Kelley,Missed Free Throw,74,79
+0:03,USC,Bennie Boatwright,Defensive Rebound,74,79
+0:00,Oregon State,None,None,74,79

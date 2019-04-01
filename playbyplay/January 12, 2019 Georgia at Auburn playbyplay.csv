@@ -1,0 +1,350 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Auburn,None,None,0,0
+19:41,Auburn,Chuma Okeke,Missed Layup,0,0
+19:41,Georgia,Derek Ogbeide,Block,0,0
+19:41,Auburn,Auburn,Offensive Rebound,0,0
+19:40,Auburn,Jared Harper,Three Point Jumper,0,3
+19:20,Georgia,Derek Ogbeide,Turnover,0,3
+19:20,Auburn,Samir Doughty,Steal,0,3
+19:15,Auburn,Samir Doughty,Missed Layup,0,3
+19:15,Georgia,Rayshaun Hammonds,Defensive Rebound,0,3
+19:15,Georgia,Rayshaun Hammonds,Turnover,0,3
+19:01,Auburn,Samir Doughty,Three Point Jumper,0,6
+18:44,Georgia,Teshaun Hightower,Three Point Jumper,3,6
+18:27,Auburn,Austin Wiley,Jumper,3,8
+18:05,Georgia,Teshaun Hightower,Missed Three Point Jumper,3,8
+18:05,Auburn,Auburn,Defensive Rebound,3,8
+17:34,Georgia,Derek Ogbeide,Foul,3,8
+17:25,Auburn,Bryce Brown,Turnover,3,8
+17:12,Auburn,Chuma Okeke,Foul,3,8
+17:07,Auburn,Chuma Okeke,Foul,3,8
+17:07,Georgia,Nicolas Claxton,Missed Free Throw,3,8
+17:07,Georgia,None,Team Rebound,3,8
+17:07,Georgia,Nicolas Claxton,Free Throw,4,8
+16:51,Auburn,Jared Harper,Three Point Jumper,4,11
+16:46,Georgia,Teshaun Hightower,Turnover,4,11
+16:46,Auburn,Samir Doughty,Steal,4,11
+16:36,Georgia,Rayshaun Hammonds,Foul,4,11
+16:28,Auburn,Horace Spencer,Layup,4,13
+16:15,Georgia,William Jackson II,Jumper,6,13
+16:08,Auburn,Jared Harper,Missed Three Point Jumper,6,13
+16:08,Georgia,Nicolas Claxton,Defensive Rebound,6,13
+15:59,Georgia,Nicolas Claxton,Missed Jumper,6,13
+15:59,Georgia,Derek Ogbeide,Offensive Rebound,6,13
+15:59,Georgia,None,None,8,13
+15:41,Auburn,Anfernee McLemore,Missed Three Point Jumper,8,13
+15:41,Georgia,Derek Ogbeide,Defensive Rebound,8,13
+15:31,Auburn,None,None,8,13
+15:23,Georgia,Rayshaun Hammonds,Turnover,8,13
+15:00,Auburn,Malik Dunbar,Missed Layup,8,13
+15:00,Georgia,Rayshaun Hammonds,Defensive Rebound,8,13
+15:00,Auburn,J'Von McCormick,Foul,8,13
+14:52,Georgia,Teshaun Hightower,Layup,10,13
+14:41,Auburn,Malik Dunbar,Three Point Jumper,10,16
+14:11,Georgia,Nicolas Claxton,Dunk,12,16
+13:56,Auburn,J'Von McCormick,Jumper,12,18
+13:35,Auburn,Malik Dunbar,Foul,12,18
+13:34,Auburn,Malik Dunbar,Foul,12,18
+13:34,Georgia,Nicolas Claxton,Free Throw,13,18
+13:34,Georgia,Nicolas Claxton,Free Throw,14,18
+13:26,Georgia,William Jackson II,Foul,14,18
+13:24,Auburn,Malik Dunbar,Layup,14,20
+13:03,Georgia,Rayshaun Hammonds,Missed Three Point Jumper,14,20
+13:03,Georgia,Rayshaun Hammonds,Offensive Rebound,14,20
+12:56,Georgia,William Jackson II,Three Point Jumper,17,20
+12:38,Auburn,Samir Doughty,Missed Layup,17,20
+12:38,Georgia,Georgia,Defensive Rebound,17,20
+12:13,Georgia,Nicolas Claxton,Missed Three Point Jumper,17,20
+12:13,Auburn,Austin Wiley,Defensive Rebound,17,20
+12:06,Auburn,Austin Wiley,Foul,17,20
+12:06,Auburn,Austin Wiley,Turnover,17,20
+11:51,Georgia,Nicolas Claxton,Jumper,19,20
+11:29,Auburn,Bryce Brown,Turnover,19,20
+11:29,Georgia,Jordan Harris,Steal,19,20
+11:15,Georgia,Jordan Harris,Three Point Jumper,22,20
+11:03,Auburn,Austin Wiley,Dunk,22,22
+10:37,Georgia,Nicolas Claxton,Jumper,24,22
+10:26,Auburn,Austin Wiley,Foul,24,22
+10:26,Auburn,Austin Wiley,Turnover,24,22
+10:26,Auburn,None,None,24,22
+10:16,Georgia,Tyree Crump,Layup,26,22
+9:59,Auburn,Anfernee McLemore,Layup,26,24
+9:39,Auburn,Horace Spencer,Foul,26,24
+9:39,Georgia,Rayshaun Hammonds,Free Throw,27,24
+9:39,Georgia,Rayshaun Hammonds,Free Throw,28,24
+9:29,Auburn,Bryce Brown,Layup,28,26
+8:59,Georgia,Derek Ogbeide,Missed Layup,28,26
+8:59,Georgia,Rayshaun Hammonds,Offensive Rebound,28,26
+8:53,Georgia,Rayshaun Hammonds,Missed Jumper,28,26
+8:53,Auburn,Anfernee McLemore,Block,28,26
+8:53,Auburn,Bryce Brown,Defensive Rebound,28,26
+8:46,Auburn,Bryce Brown,Layup,28,28
+8:40,Georgia,Derek Ogbeide,Missed Jumper,28,28
+8:40,Auburn,Horace Spencer,Defensive Rebound,28,28
+8:26,Auburn,Samir Doughty,Missed Layup,28,28
+8:26,Auburn,Auburn,Offensive Rebound,28,28
+8:18,Auburn,Anfernee McLemore,Layup,28,30
+8:18,Georgia,Derek Ogbeide,Foul,28,30
+8:18,Auburn,Anfernee McLemore,Free Throw,28,31
+8:11,Auburn,Jared Harper,Foul,28,31
+8:11,Georgia,William Jackson II,Free Throw,29,31
+8:11,Georgia,William Jackson II,Free Throw,30,31
+7:58,Auburn,Jared Harper,Missed Jumper,30,31
+7:58,Auburn,Anfernee McLemore,Offensive Rebound,30,31
+7:53,Auburn,Anfernee McLemore,Layup,30,33
+7:33,Georgia,Amanze Ngumezi,Missed Three Point Jumper,30,33
+7:33,Georgia,Georgia,Offensive Rebound,30,33
+7:28,Auburn,None,None,30,33
+7:23,Georgia,William Jackson II,Turnover,30,33
+7:23,Auburn,Horace Spencer,Steal,30,33
+7:23,Georgia,William Jackson II,Foul,30,33
+7:12,Auburn,Anfernee McLemore,Missed Three Point Jumper,30,33
+7:12,Georgia,Rayshaun Hammonds,Defensive Rebound,30,33
+6:52,Georgia,Rayshaun Hammonds,Missed Jumper,30,33
+6:52,Auburn,Chuma Okeke,Defensive Rebound,30,33
+6:35,Auburn,Bryce Brown,Layup,30,35
+6:23,Georgia,Rayshaun Hammonds,Missed Layup,30,35
+6:23,Georgia,Rayshaun Hammonds,Offensive Rebound,30,35
+6:17,Georgia,Rayshaun Hammonds,Layup,32,35
+6:17,Auburn,Samir Doughty,Foul,32,35
+6:17,Georgia,Rayshaun Hammonds,Free Throw,33,35
+6:01,Auburn,Bryce Brown,Missed Jumper,33,35
+6:01,Auburn,Bryce Brown,Offensive Rebound,33,35
+5:45,Auburn,Anfernee McLemore,Dunk,33,37
+5:28,Georgia,Nicolas Claxton,Turnover,33,37
+5:12,Auburn,Samir Doughty,Missed Three Point Jumper,33,37
+5:12,Georgia,Nicolas Claxton,Defensive Rebound,33,37
+4:49,Georgia,Tyree Crump,Foul,33,37
+4:49,Georgia,Tyree Crump,Turnover,33,37
+4:34,Auburn,Samir Doughty,Layup,33,39
+4:24,Georgia,Teshaun Hightower,Foul,33,39
+4:24,Georgia,Teshaun Hightower,Turnover,33,39
+4:15,Georgia,Rayshaun Hammonds,Foul,33,39
+4:15,Auburn,Jared Harper,Free Throw,33,40
+4:15,Auburn,Jared Harper,Free Throw,33,41
+4:00,Georgia,William Jackson II,Missed Three Point Jumper,33,41
+4:00,Auburn,Anfernee McLemore,Defensive Rebound,33,41
+3:51,Auburn,Samir Doughty,Turnover,33,41
+3:51,Georgia,Ignas Sargiunas,Steal,33,41
+3:42,Georgia,Nicolas Claxton,Layup,35,41
+3:19,Auburn,Anfernee McLemore,Missed Layup,35,41
+3:19,Auburn,Horace Spencer,Offensive Rebound,35,41
+3:13,Auburn,Horace Spencer,Layup,35,43
+2:54,Georgia,Teshaun Hightower,Missed Three Point Jumper,35,43
+2:54,Auburn,Auburn,Defensive Rebound,35,43
+2:51,Auburn,None,None,35,43
+2:32,Auburn,Samir Doughty,Missed Layup,35,43
+2:32,Georgia,Nicolas Claxton,Block,35,43
+2:32,Auburn,Horace Spencer,Offensive Rebound,35,43
+2:32,Auburn,Horace Spencer,Missed Jumper,35,43
+2:32,Auburn,Anfernee McLemore,Offensive Rebound,35,43
+2:15,Auburn,Anfernee McLemore,Dunk,35,45
+2:01,Georgia,William Jackson II,Missed Jumper,35,45
+2:01,Auburn,Horace Spencer,Defensive Rebound,35,45
+1:53,Auburn,Jared Harper,Missed Three Point Jumper,35,45
+1:53,Georgia,E'Torrion Wilridge,Defensive Rebound,35,45
+1:39,Georgia,Ignas Sargiunas,Three Point Jumper,38,45
+1:34,Auburn,Bryce Brown,Three Point Jumper,38,48
+1:25,Georgia,William Jackson II,Missed Three Point Jumper,38,48
+1:25,Auburn,Anfernee McLemore,Defensive Rebound,38,48
+0:57,Auburn,Bryce Brown,Missed Layup,38,48
+0:57,Georgia,Nicolas Claxton,Block,38,48
+0:57,Georgia,Ignas Sargiunas,Defensive Rebound,38,48
+0:48,Georgia,E'Torrion Wilridge,Missed Three Point Jumper,38,48
+0:48,Auburn,Samir Doughty,Defensive Rebound,38,48
+0:38,Auburn,Jared Harper,Missed Layup,38,48
+0:38,Georgia,Nicolas Claxton,Block,38,48
+0:38,Auburn,Auburn,Offensive Rebound,38,48
+0:34,Auburn,None,None,38,48
+0:20,Auburn,Jared Harper,Missed Jumper,38,48
+0:20,Georgia,E'Torrion Wilridge,Block,38,48
+0:20,Auburn,Jared Harper,Offensive Rebound,38,48
+0:13,Auburn,Jared Harper,Missed Three Point Jumper,38,48
+0:13,Georgia,Jordan Harris,Defensive Rebound,38,48
+0:08,Georgia,Jordan Harris,Missed Layup,38,48
+0:08,Auburn,Anfernee McLemore,Block,38,48
+0:08,Georgia,Georgia,Offensive Rebound,38,48
+0:08,Georgia,None,None,38,48
+0:03,Georgia,Nicolas Claxton,Missed Jumper,38,48
+0:03,Auburn,Horace Spencer,Defensive Rebound,38,48
+0:00,Auburn,None,None,38,48
+20:00,Georgia,None,None,38,48
+19:44,Georgia,Nicolas Claxton,Layup,40,48
+19:34,Georgia,Derek Ogbeide,Foul,40,48
+19:28,Auburn,Bryce Brown,Missed Layup,40,48
+19:28,Auburn,Austin Wiley,Offensive Rebound,40,48
+19:25,Georgia,Nicolas Claxton,Foul,40,48
+19:25,Auburn,Austin Wiley,Free Throw,40,49
+19:25,Auburn,Austin Wiley,Missed Free Throw,40,49
+19:25,Georgia,E'Torrion Wilridge,Defensive Rebound,40,49
+19:20,Georgia,Teshaun Hightower,Turnover,40,49
+19:06,Auburn,Chuma Okeke,Missed Three Point Jumper,40,49
+19:06,Georgia,Rayshaun Hammonds,Defensive Rebound,40,49
+18:54,Georgia,William Jackson II,Three Point Jumper,43,49
+18:32,Auburn,Bryce Brown,Missed Three Point Jumper,43,49
+18:32,Auburn,Austin Wiley,Offensive Rebound,43,49
+18:27,Auburn,Austin Wiley,Jumper,43,51
+18:27,Georgia,Nicolas Claxton,Foul,43,51
+18:27,Auburn,Austin Wiley,Missed Free Throw,43,51
+18:27,Georgia,Rayshaun Hammonds,Defensive Rebound,43,51
+18:20,Georgia,Teshaun Hightower,Dunk,45,51
+17:56,Auburn,Samir Doughty,Turnover,45,51
+17:56,Georgia,E'Torrion Wilridge,Steal,45,51
+17:52,Auburn,Chuma Okeke,Foul,45,51
+17:43,Georgia,Teshaun Hightower,Missed Layup,45,51
+17:43,Auburn,Samir Doughty,Defensive Rebound,45,51
+17:38,Georgia,Teshaun Hightower,Foul,45,51
+17:20,Auburn,Samir Doughty,Three Point Jumper,45,54
+17:02,Georgia,Teshaun Hightower,Three Point Jumper,48,54
+16:33,Auburn,Jared Harper,Layup,48,56
+16:22,Georgia,Rayshaun Hammonds,Turnover,48,56
+16:22,Auburn,Bryce Brown,Steal,48,56
+16:16,Auburn,Bryce Brown,Missed Layup,48,56
+16:16,Georgia,E'Torrion Wilridge,Defensive Rebound,48,56
+16:07,Georgia,Teshaun Hightower,Missed Three Point Jumper,48,56
+16:07,Auburn,Jared Harper,Defensive Rebound,48,56
+16:00,Auburn,Anfernee McLemore,Layup,48,58
+15:38,Georgia,Nicolas Claxton,Missed Jumper,48,58
+15:38,Auburn,Samir Doughty,Defensive Rebound,48,58
+15:31,Auburn,Jared Harper,Three Point Jumper,48,61
+15:26,Georgia,None,None,48,61
+15:26,Auburn,None,None,48,61
+15:11,Georgia,Rayshaun Hammonds,Three Point Jumper,51,61
+14:55,Auburn,None,None,51,61
+14:52,Auburn,Austin Wiley,Missed Jumper,51,61
+14:52,Georgia,Rayshaun Hammonds,Defensive Rebound,51,61
+14:45,Georgia,Tyree Crump,Missed Three Point Jumper,51,61
+14:45,Auburn,Malik Dunbar,Defensive Rebound,51,61
+14:33,Georgia,Rayshaun Hammonds,Foul,51,61
+14:33,Auburn,Chuma Okeke,Free Throw,51,62
+14:33,Auburn,Chuma Okeke,Free Throw,51,63
+14:17,Georgia,Tyree Crump,Missed Layup,51,63
+14:17,Auburn,Chuma Okeke,Block,51,63
+14:17,Georgia,Georgia,Offensive Rebound,51,63
+14:14,Georgia,Tyree Crump,Layup,53,63
+13:58,Auburn,Jared Harper,Jumper,53,65
+13:34,Georgia,Derek Ogbeide,Layup,55,65
+13:07,Georgia,William Jackson II,Foul,55,65
+13:07,Auburn,Malik Dunbar,Free Throw,55,66
+13:07,Auburn,Malik Dunbar,Missed Free Throw,55,66
+13:07,Auburn,Chuma Okeke,Offensive Rebound,55,66
+13:04,Auburn,Malik Dunbar,Three Point Jumper,55,69
+12:48,Georgia,Tyree Crump,Layup,57,69
+12:25,Auburn,Malik Dunbar,Missed Three Point Jumper,57,69
+12:25,Georgia,Jordan Harris,Defensive Rebound,57,69
+12:15,Auburn,Bryce Brown,Foul,57,69
+12:15,Georgia,Tyree Crump,Free Throw,58,69
+12:15,Georgia,Tyree Crump,Free Throw,59,69
+12:05,Georgia,Jordan Harris,Foul,59,69
+12:05,Auburn,Austin Wiley,Free Throw,59,70
+12:05,Auburn,Austin Wiley,Free Throw,59,71
+11:43,Georgia,Nicolas Claxton,Missed Jumper,59,71
+11:43,Auburn,Horace Spencer,Block,59,71
+11:43,Georgia,Georgia,Offensive Rebound,59,71
+11:43,Auburn,None,None,59,71
+11:41,Georgia,Tyree Crump,Missed Jumper,59,71
+11:41,Georgia,Nicolas Claxton,Offensive Rebound,59,71
+11:34,Georgia,Nicolas Claxton,Turnover,59,71
+11:34,Auburn,Horace Spencer,Steal,59,71
+11:16,Auburn,Bryce Brown,Three Point Jumper,59,74
+11:00,Auburn,Anfernee McLemore,Foul,59,74
+10:42,Georgia,Tyree Crump,Missed Three Point Jumper,59,74
+10:42,Auburn,Chuma Okeke,Defensive Rebound,59,74
+10:35,Auburn,Malik Dunbar,Missed Three Point Jumper,59,74
+10:35,Auburn,Chuma Okeke,Offensive Rebound,59,74
+10:14,Auburn,Chuma Okeke,Missed Jumper,59,74
+10:14,Georgia,Derek Ogbeide,Defensive Rebound,59,74
+10:03,Auburn,Anfernee McLemore,Foul,59,74
+10:03,Georgia,Nicolas Claxton,Missed Free Throw,59,74
+10:03,Georgia,None,Team Rebound,59,74
+10:03,Georgia,Nicolas Claxton,Missed Free Throw,59,74
+10:03,Auburn,Anfernee McLemore,Defensive Rebound,59,74
+10:03,Georgia,Derek Ogbeide,Foul,59,74
+10:03,Auburn,Anfernee McLemore,Missed Free Throw,59,74
+10:03,Georgia,Jordan Harris,Defensive Rebound,59,74
+10:02,Auburn,Chuma Okeke,Foul,59,74
+9:37,Auburn,Jared Harper,Foul,59,74
+9:27,Auburn,Malik Dunbar,Foul,59,74
+9:27,Georgia,Jordan Harris,Free Throw,60,74
+9:27,Georgia,Jordan Harris,Free Throw,61,74
+9:18,Auburn,Bryce Brown,Three Point Jumper,61,77
+8:58,Georgia,William Jackson II,Missed Three Point Jumper,61,77
+8:58,Georgia,Jordan Harris,Offensive Rebound,61,77
+8:50,Georgia,William Jackson II,Three Point Jumper,64,77
+8:17,Auburn,Jared Harper,Missed Layup,64,77
+8:17,Georgia,Nicolas Claxton,Block,64,77
+8:17,Auburn,Auburn,Offensive Rebound,64,77
+8:13,Auburn,Anfernee McLemore,Turnover,64,77
+7:58,Georgia,Nicolas Claxton,Jumper,66,77
+7:37,Auburn,Bryce Brown,Turnover,66,77
+7:37,Georgia,Nicolas Claxton,Steal,66,77
+7:33,Auburn,Horace Spencer,Foul,66,77
+7:33,Auburn,None,None,66,77
+7:33,Georgia,Nicolas Claxton,Missed Free Throw,66,77
+7:33,Auburn,Horace Spencer,Defensive Rebound,66,77
+7:21,Auburn,Horace Spencer,Missed Jumper,66,77
+7:21,Georgia,Nicolas Claxton,Block,66,77
+7:21,Georgia,Rayshaun Hammonds,Defensive Rebound,66,77
+6:54,Auburn,Anfernee McLemore,Foul,66,77
+6:54,Georgia,Rayshaun Hammonds,Missed Free Throw,66,77
+6:54,Georgia,None,Team Rebound,66,77
+6:54,Georgia,Rayshaun Hammonds,Free Throw,67,77
+6:37,Auburn,Austin Wiley,Missed Jumper,67,77
+6:37,Auburn,Austin Wiley,Offensive Rebound,67,77
+6:32,Auburn,Austin Wiley,Missed Jumper,67,77
+6:32,Georgia,Nicolas Claxton,Block,67,77
+6:32,Georgia,Jordan Harris,Defensive Rebound,67,77
+6:24,Georgia,Nicolas Claxton,Missed Three Point Jumper,67,77
+6:24,Georgia,Jordan Harris,Offensive Rebound,67,77
+6:17,Georgia,Jordan Harris,Missed Three Point Jumper,67,77
+6:17,Georgia,Georgia,Offensive Rebound,67,77
+6:12,Georgia,Rayshaun Hammonds,Turnover,67,77
+6:12,Auburn,Malik Dunbar,Steal,67,77
+5:49,Auburn,Chuma Okeke,Missed Three Point Jumper,67,77
+5:49,Auburn,Auburn,Offensive Rebound,67,77
+5:20,Auburn,Austin Wiley,Turnover,67,77
+5:20,Georgia,Rayshaun Hammonds,Steal,67,77
+4:49,Georgia,Jordan Harris,Turnover,67,77
+4:49,Auburn,Jared Harper,Steal,67,77
+4:41,Auburn,Samir Doughty,Three Point Jumper,67,80
+4:33,Auburn,Austin Wiley,Foul,67,80
+4:33,Georgia,Teshaun Hightower,Free Throw,68,80
+4:33,Georgia,Teshaun Hightower,Free Throw,69,80
+4:16,Auburn,Jared Harper,Missed Three Point Jumper,69,80
+4:16,Auburn,Auburn,Offensive Rebound,69,80
+4:16,Auburn,Chuma Okeke,Turnover,69,80
+4:16,Georgia,Rayshaun Hammonds,Steal,69,80
+4:15,Georgia,Rayshaun Hammonds,Turnover,69,80
+4:15,Auburn,Jared Harper,Steal,69,80
+4:12,Auburn,Malik Dunbar,Dunk,69,82
+4:05,Georgia,None,None,69,82
+3:44,Georgia,Nicolas Claxton,Turnover,69,82
+3:44,Auburn,Malik Dunbar,Steal,69,82
+3:25,Auburn,Chuma Okeke,Dunk,69,84
+3:07,Georgia,Jordan Harris,Missed Three Point Jumper,69,84
+3:07,Auburn,Anfernee McLemore,Defensive Rebound,69,84
+2:42,Auburn,Jared Harper,Three Point Jumper,69,87
+2:35,Georgia,William Jackson II,Three Point Jumper,72,87
+2:15,Georgia,Jordan Harris,Foul,72,87
+2:15,Auburn,Jared Harper,Free Throw,72,88
+2:15,Auburn,Jared Harper,Free Throw,72,89
+2:04,Georgia,William Jackson II,Missed Three Point Jumper,72,89
+2:04,Auburn,Anfernee McLemore,Defensive Rebound,72,89
+2:04,Auburn,Anfernee McLemore,Turnover,72,89
+2:04,Georgia,E'Torrion Wilridge,Steal,72,89
+1:56,Georgia,Tyree Crump,Three Point Jumper,75,89
+1:46,Auburn,Jared Harper,Turnover,75,89
+1:46,Georgia,William Jackson II,Steal,75,89
+1:41,Georgia,Tyree Crump,Turnover,75,89
+1:39,Georgia,William Jackson II,Foul,75,89
+1:39,Auburn,Jared Harper,Free Throw,75,90
+1:39,Auburn,Jared Harper,Free Throw,75,91
+1:32,Georgia,Tyree Crump,Missed Three Point Jumper,75,91
+1:32,Auburn,Anfernee McLemore,Defensive Rebound,75,91
+1:07,Auburn,Anfernee McLemore,Dunk,75,93
+0:51,Georgia,E'Torrion Wilridge,Missed Three Point Jumper,75,93
+0:51,Auburn,Anfernee McLemore,Defensive Rebound,75,93
+0:22,Auburn,Jared Harper,Missed Three Point Jumper,75,93
+0:22,Georgia,William Jackson II,Defensive Rebound,75,93
+0:17,Georgia,Tyree Crump,Three Point Jumper,78,93
+0:00,Auburn,None,None,78,93

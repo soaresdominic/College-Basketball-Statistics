@@ -1,0 +1,334 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Kentucky,None,None,0,0
+19:45,Kentucky,PJ Washington,Foul,0,0
+19:45,Kentucky,PJ Washington,Turnover,0,0
+19:30,Tennessee,Grant Williams,Turnover,0,0
+19:30,Kentucky,Keldon Johnson,Steal,0,0
+19:20,Kentucky,Ashton Hagans,Missed Layup,0,0
+19:20,Tennessee,Grant Williams,Defensive Rebound,0,0
+19:11,Tennessee,Jordan Bone,Jumper,2,0
+18:44,Kentucky,PJ Washington,Three Point Jumper,2,3
+18:15,Tennessee,Kyle Alexander,Missed Jumper,2,3
+18:15,Kentucky,PJ Washington,Block,2,3
+18:15,Kentucky,Tyler Herro,Defensive Rebound,2,3
+17:56,Kentucky,PJ Washington,Missed Three Point Jumper,2,3
+17:56,Tennessee,Grant Williams,Defensive Rebound,2,3
+17:35,Tennessee,Jordan Bone,Missed Jumper,2,3
+17:35,Kentucky,Tyler Herro,Defensive Rebound,2,3
+17:14,Kentucky,PJ Washington,Jumper,2,5
+16:47,Tennessee,Lamonte Turner,Missed Jumper,2,5
+16:47,Kentucky,Reid Travis,Defensive Rebound,2,5
+16:20,Tennessee,Kyle Alexander,Foul,2,5
+16:20,Kentucky,PJ Washington,Missed Free Throw,2,5
+16:20,Kentucky,None,Team Rebound,2,5
+16:20,Kentucky,PJ Washington,Missed Free Throw,2,5
+16:20,Kentucky,PJ Washington,Offensive Rebound,2,5
+16:07,Kentucky,Reid Travis,Turnover,2,5
+16:07,Tennessee,Jordan Bowden,Steal,2,5
+15:50,Tennessee,Admiral Schofield,Jumper,4,5
+15:25,Kentucky,PJ Washington,Jumper,4,7
+15:08,Kentucky,None,None,4,7
+14:56,Tennessee,Lamonte Turner,Missed Three Point Jumper,4,7
+14:56,Kentucky,EJ Montgomery,Defensive Rebound,4,7
+14:48,Kentucky,Tyler Herro,Missed Layup,4,7
+14:48,Tennessee,John Fulkerson,Block,4,7
+14:48,Kentucky,Keldon Johnson,Offensive Rebound,4,7
+14:41,Kentucky,Keldon Johnson,Missed Jumper,4,7
+14:41,Kentucky,Kentucky,Offensive Rebound,4,7
+14:26,Kentucky,Keldon Johnson,Jumper,4,9
+14:14,Tennessee,Grant Williams,Three Point Jumper,7,9
+13:47,Kentucky,Immanuel Quickley,Turnover,7,9
+13:28,Tennessee,Jordan Bone,Missed Jumper,7,9
+13:28,Kentucky,EJ Montgomery,Defensive Rebound,7,9
+13:19,Kentucky,Keldon Johnson,Missed Jumper,7,9
+13:19,Kentucky,Nick Richards,Offensive Rebound,7,9
+12:51,Kentucky,EJ Montgomery,Dunk,7,11
+12:31,Tennessee,Jordan Bowden,Missed Three Point Jumper,7,11
+12:31,Kentucky,Tyler Herro,Defensive Rebound,7,11
+12:17,Tennessee,John Fulkerson,Foul,7,11
+12:17,Kentucky,Nick Richards,Missed Free Throw,7,11
+12:17,Kentucky,None,Team Rebound,7,11
+12:17,Kentucky,Nick Richards,Free Throw,7,12
+12:04,Tennessee,Admiral Schofield,Missed Three Point Jumper,7,12
+12:04,Tennessee,Kyle Alexander,Offensive Rebound,7,12
+11:58,Tennessee,Kyle Alexander,Layup,9,12
+11:34,Kentucky,Keldon Johnson,Jumper,9,14
+11:23,Tennessee,Jordan Bone,Layup,11,14
+11:10,Kentucky,Keldon Johnson,Three Point Jumper,11,17
+10:50,Tennessee,Grant Williams,Turnover,11,17
+10:50,Kentucky,Ashton Hagans,Steal,11,17
+10:43,Kentucky,Keldon Johnson,Missed Three Point Jumper,11,17
+10:43,Tennessee,Lamonte Turner,Defensive Rebound,11,17
+10:36,Tennessee,Jordan Bone,Jumper,13,17
+10:14,Kentucky,Keldon Johnson,Three Point Jumper,13,20
+9:55,Tennessee,Admiral Schofield,Jumper,15,20
+9:31,Kentucky,Ashton Hagans,Missed Three Point Jumper,15,20
+9:31,Kentucky,Reid Travis,Offensive Rebound,15,20
+9:21,Kentucky,Keldon Johnson,Three Point Jumper,15,23
+8:47,Tennessee,Jordan Bone,Missed Jumper,15,23
+8:47,Kentucky,Keldon Johnson,Defensive Rebound,15,23
+8:38,Kentucky,Jemarl Baker Jr.,Missed Three Point Jumper,15,23
+8:38,Tennessee,Admiral Schofield,Defensive Rebound,15,23
+8:12,Tennessee,Admiral Schofield,Missed Three Point Jumper,15,23
+8:12,Kentucky,PJ Washington,Defensive Rebound,15,23
+7:42,Kentucky,Reid Travis,Missed Jumper,15,23
+7:42,Tennessee,Kyle Alexander,Defensive Rebound,15,23
+7:26,Tennessee,Admiral Schofield,Missed Jumper,15,23
+7:26,Kentucky,PJ Washington,Defensive Rebound,15,23
+6:59,Kentucky,Keldon Johnson,Missed Three Point Jumper,15,23
+6:59,Tennessee,Grant Williams,Defensive Rebound,15,23
+6:41,Tennessee,Grant Williams,Three Point Jumper,18,23
+6:25,Tennessee,Lamonte Turner,Foul,18,23
+6:25,Kentucky,None,None,18,23
+6:15,Tennessee,Grant Williams,Foul,18,23
+6:15,Kentucky,None,None,18,23
+6:00,Kentucky,Nick Richards,Layup,18,25
+5:35,Tennessee,None,None,18,25
+5:34,Tennessee,Yves Pons,Three Point Jumper,21,25
+5:18,Kentucky,Tyler Herro,Jumper,21,27
+4:54,Tennessee,Kyle Alexander,Missed Jumper,21,27
+4:54,Kentucky,PJ Washington,Block,21,27
+4:54,Kentucky,Ashton Hagans,Defensive Rebound,21,27
+4:47,Kentucky,Ashton Hagans,Layup,21,29
+4:26,Tennessee,Lamonte Turner,Missed Three Point Jumper,21,29
+4:26,Kentucky,Tyler Herro,Defensive Rebound,21,29
+4:01,Kentucky,Tyler Herro,Missed Jumper,21,29
+4:01,Kentucky,Nick Richards,Offensive Rebound,21,29
+3:56,Tennessee,Jordan Bowden,Foul,21,29
+3:56,Kentucky,None,None,21,29
+3:49,Kentucky,Nick Richards,Foul,21,29
+3:49,Kentucky,Nick Richards,Turnover,21,29
+3:38,Tennessee,Jordan Bowden,Missed Layup,21,29
+3:38,Kentucky,Nick Richards,Block,21,29
+3:38,Tennessee,Lamonte Turner,Offensive Rebound,21,29
+3:27,Tennessee,Admiral Schofield,Layup,23,29
+3:07,Kentucky,PJ Washington,Jumper,23,31
+2:52,Tennessee,Admiral Schofield,Missed Three Point Jumper,23,31
+2:52,Tennessee,Grant Williams,Offensive Rebound,23,31
+2:38,Tennessee,Jordan Bowden,Missed Three Point Jumper,23,31
+2:38,Tennessee,Jordan Bowden,Offensive Rebound,23,31
+2:33,Kentucky,Nick Richards,Foul,23,31
+2:19,Tennessee,Admiral Schofield,Layup,25,31
+1:58,Kentucky,Immanuel Quickley,Turnover,25,31
+1:58,Tennessee,Grant Williams,Steal,25,31
+1:48,Tennessee,Lamonte Turner,Layup,27,31
+1:46,Kentucky,None,None,27,31
+1:29,Kentucky,PJ Washington,Jumper,27,33
+1:13,Tennessee,Lamonte Turner,Missed Three Point Jumper,27,33
+1:13,Tennessee,Grant Williams,Offensive Rebound,27,33
+1:05,Tennessee,Grant Williams,Layup,29,33
+0:47,Kentucky,PJ Washington,Jumper,29,35
+0:32,Tennessee,Jordan Bone,Jumper,31,35
+0:11,Tennessee,Jordan Bone,Foul,31,35
+0:11,Tennessee,None,None,31,35
+0:03,Kentucky,Ashton Hagans,Layup,31,37
+0:00,Kentucky,None,None,31,37
+20:00,Kentucky,None,None,31,37
+19:39,Kentucky,PJ Washington,Jumper,31,39
+19:21,Tennessee,Jordan Bone,Turnover,31,39
+19:21,Kentucky,PJ Washington,Steal,31,39
+19:15,Kentucky,Ashton Hagans,Missed Layup,31,39
+19:15,Kentucky,Reid Travis,Offensive Rebound,31,39
+19:09,Kentucky,Tyler Herro,Three Point Jumper,31,42
+19:07,Tennessee,None,None,31,42
+18:56,Tennessee,Lamonte Turner,Turnover,31,42
+18:56,Kentucky,Tyler Herro,Steal,31,42
+18:47,Tennessee,Kyle Alexander,Foul,31,42
+18:47,Kentucky,Reid Travis,Free Throw,31,43
+18:47,Kentucky,Reid Travis,Free Throw,31,44
+18:39,Kentucky,Reid Travis,Foul,31,44
+18:37,Tennessee,Admiral Schofield,Missed Jumper,31,44
+18:37,Kentucky,Tyler Herro,Defensive Rebound,31,44
+18:27,Tennessee,Kyle Alexander,Foul,31,44
+18:13,Kentucky,Tyler Herro,Missed Three Point Jumper,31,44
+18:13,Tennessee,Jordan Bone,Defensive Rebound,31,44
+18:07,Tennessee,Lamonte Turner,Missed Three Point Jumper,31,44
+18:07,Kentucky,Reid Travis,Defensive Rebound,31,44
+17:58,Kentucky,Keldon Johnson,Layup,31,46
+17:39,Tennessee,Admiral Schofield,Missed Three Point Jumper,31,46
+17:39,Kentucky,Tyler Herro,Defensive Rebound,31,46
+17:21,Tennessee,Admiral Schofield,Foul,31,46
+17:21,Kentucky,PJ Washington,Free Throw,31,47
+17:21,Kentucky,PJ Washington,Missed Free Throw,31,47
+17:21,Tennessee,Admiral Schofield,Defensive Rebound,31,47
+17:13,Tennessee,Jordan Bone,Turnover,31,47
+16:56,Kentucky,Ashton Hagans,Jumper,31,49
+16:45,Tennessee,Admiral Schofield,Missed Layup,31,49
+16:45,Kentucky,Tyler Herro,Defensive Rebound,31,49
+16:36,Kentucky,Keldon Johnson,Layup,31,51
+16:31,Tennessee,None,None,31,51
+16:07,Kentucky,PJ Washington,Foul,31,51
+16:07,Tennessee,Grant Williams,Free Throw,32,51
+16:07,Tennessee,Grant Williams,Free Throw,33,51
+15:50,Tennessee,Jordan Bone,Foul,33,51
+15:50,Kentucky,None,None,33,51
+15:38,Tennessee,Admiral Schofield,Foul,33,51
+15:38,Kentucky,Tyler Herro,Free Throw,33,52
+15:38,Kentucky,Tyler Herro,Free Throw,33,53
+15:19,Tennessee,Grant Williams,Missed Jumper,33,53
+15:19,Tennessee,Admiral Schofield,Offensive Rebound,33,53
+15:19,Tennessee,None,None,35,53
+15:02,Tennessee,Jordan Bowden,Foul,35,53
+14:53,Tennessee,Kyle Alexander,Foul,35,53
+14:53,Kentucky,Reid Travis,Free Throw,35,54
+14:53,Kentucky,Reid Travis,Free Throw,35,55
+14:35,Kentucky,Reid Travis,Foul,35,55
+14:35,Tennessee,Grant Williams,Missed Free Throw,35,55
+14:35,Tennessee,None,Team Rebound,35,55
+14:35,Tennessee,Grant Williams,Free Throw,36,55
+14:26,Tennessee,Admiral Schofield,Foul,36,55
+14:26,Kentucky,Reid Travis,Free Throw,36,56
+14:26,Kentucky,Reid Travis,Missed Free Throw,36,56
+14:26,Tennessee,Admiral Schofield,Defensive Rebound,36,56
+14:11,Tennessee,Jordan Bowden,Missed Jumper,36,56
+14:11,Kentucky,Reid Travis,Block,36,56
+14:11,Kentucky,Keldon Johnson,Defensive Rebound,36,56
+14:03,Kentucky,Tyler Herro,Missed Layup,36,56
+14:03,Kentucky,EJ Montgomery,Offensive Rebound,36,56
+14:03,Kentucky,EJ Montgomery,Dunk,36,58
+13:47,Kentucky,EJ Montgomery,Foul,36,58
+13:47,Kentucky,Immanuel Quickley,Foul,36,58
+13:46,Tennessee,Admiral Schofield,Missed Jumper,36,58
+13:46,Tennessee,Grant Williams,Offensive Rebound,36,58
+13:41,Tennessee,Jordan Bowden,Missed Three Point Jumper,36,58
+13:41,Kentucky,Tyler Herro,Defensive Rebound,36,58
+13:24,Kentucky,Reid Travis,Jumper,36,60
+13:11,Kentucky,Ashton Hagans,Foul,36,60
+13:08,Tennessee,Admiral Schofield,Missed Jumper,36,60
+13:08,Tennessee,Admiral Schofield,Offensive Rebound,36,60
+13:08,Tennessee,None,None,38,60
+12:36,Kentucky,Reid Travis,Jumper,38,62
+12:26,Tennessee,Admiral Schofield,Missed Three Point Jumper,38,62
+12:26,Kentucky,Reid Travis,Defensive Rebound,38,62
+12:03,Kentucky,Jemarl Baker Jr.,Missed Jumper,38,62
+12:03,Tennessee,Grant Williams,Defensive Rebound,38,62
+11:54,Tennessee,Lamonte Turner,Missed Layup,38,62
+11:54,Kentucky,Jemarl Baker Jr.,Block,38,62
+11:54,Kentucky,Reid Travis,Defensive Rebound,38,62
+11:25,Kentucky,Reid Travis,Turnover,38,62
+11:25,Kentucky,None,None,38,62
+11:10,Tennessee,Jordan Bone,Three Point Jumper,41,62
+10:50,Tennessee,Lamonte Turner,Foul,41,62
+10:50,Kentucky,Ashton Hagans,Missed Free Throw,41,62
+10:50,Tennessee,None,Team Rebound,41,62
+10:50,Kentucky,Nick Richards,Foul,41,62
+10:50,Tennessee,Kyle Alexander,Free Throw,42,62
+10:50,Tennessee,Kyle Alexander,Free Throw,43,62
+10:24,Kentucky,Tyler Herro,Missed Jumper,43,62
+10:24,Tennessee,Admiral Schofield,Defensive Rebound,43,62
+10:11,Kentucky,Nick Richards,Foul,43,62
+10:11,Tennessee,Grant Williams,Free Throw,44,62
+10:11,Tennessee,Grant Williams,Free Throw,45,62
+10:11,Tennessee,Grant Williams,Free Throw,46,62
+10:04,Kentucky,Keldon Johnson,Missed Three Point Jumper,46,62
+10:04,Tennessee,Tennessee,Defensive Rebound,46,62
+9:40,Tennessee,Admiral Schofield,Three Point Jumper,49,62
+9:33,Kentucky,None,None,49,62
+9:08,Kentucky,Keldon Johnson,Missed Jumper,49,62
+9:08,Tennessee,Grant Williams,Defensive Rebound,49,62
+8:59,Tennessee,Jordan Bone,Missed Layup,49,62
+8:59,Tennessee,Kyle Alexander,Offensive Rebound,49,62
+8:56,Tennessee,None,None,49,62
+8:49,Kentucky,Keldon Johnson,Foul,49,62
+8:49,Tennessee,Admiral Schofield,Missed Free Throw,49,62
+8:49,Tennessee,None,Team Rebound,49,62
+8:49,Tennessee,Admiral Schofield,Free Throw,50,62
+8:49,Tennessee,Admiral Schofield,Free Throw,51,62
+8:28,Kentucky,PJ Washington,Layup,51,64
+8:11,Tennessee,Grant Williams,Turnover,51,64
+8:11,Kentucky,PJ Washington,Steal,51,64
+8:05,Tennessee,Kyle Alexander,Foul,51,64
+8:05,Kentucky,PJ Washington,Free Throw,51,65
+8:05,Kentucky,PJ Washington,Free Throw,51,66
+7:42,Tennessee,Admiral Schofield,Missed Layup,51,66
+7:42,Kentucky,Reid Travis,Block,51,66
+7:42,Kentucky,Ashton Hagans,Defensive Rebound,51,66
+7:30,Kentucky,Ashton Hagans,Turnover,51,66
+7:16,Tennessee,Jordan Bowden,Jumper,53,66
+6:51,Kentucky,Tyler Herro,Missed Jumper,53,66
+6:51,Kentucky,Tyler Herro,Offensive Rebound,53,66
+6:47,Kentucky,Tyler Herro,Missed Jumper,53,66
+6:47,Kentucky,Tyler Herro,Offensive Rebound,53,66
+6:45,Kentucky,Tyler Herro,Jumper,53,68
+6:45,Tennessee,Admiral Schofield,Foul,53,68
+6:45,Kentucky,None,None,53,68
+6:45,Kentucky,Tyler Herro,Missed Free Throw,53,68
+6:45,Tennessee,Tennessee,Defensive Rebound,53,68
+6:28,Tennessee,Admiral Schofield,Turnover,53,68
+6:10,Kentucky,Tyler Herro,Missed Three Point Jumper,53,68
+6:10,Kentucky,Reid Travis,Offensive Rebound,53,68
+6:05,Kentucky,Tyler Herro,Turnover,53,68
+6:05,Tennessee,Lamonte Turner,Steal,53,68
+5:56,Tennessee,Lamonte Turner,Missed Three Point Jumper,53,68
+5:56,Kentucky,Tyler Herro,Defensive Rebound,53,68
+5:41,Kentucky,Reid Travis,Missed Jumper,53,68
+5:41,Tennessee,John Fulkerson,Defensive Rebound,53,68
+5:26,Kentucky,Immanuel Quickley,Foul,53,68
+5:26,Tennessee,Jordan Bowden,Free Throw,54,68
+5:26,Tennessee,Jordan Bowden,Missed Free Throw,54,68
+5:26,Kentucky,Tyler Herro,Defensive Rebound,54,68
+5:14,Kentucky,Keldon Johnson,Turnover,54,68
+4:53,Kentucky,Reid Travis,Foul,54,68
+4:53,Tennessee,Grant Williams,Free Throw,55,68
+4:53,Tennessee,Grant Williams,Free Throw,56,68
+4:45,Kentucky,PJ Washington,Missed Layup,56,68
+4:45,Kentucky,PJ Washington,Offensive Rebound,56,68
+4:42,Kentucky,PJ Washington,Layup,56,70
+4:42,Tennessee,Admiral Schofield,Foul,56,70
+4:42,Kentucky,PJ Washington,Free Throw,56,71
+4:24,Tennessee,Jordan Bone,Turnover,56,71
+4:24,Kentucky,Ashton Hagans,Steal,56,71
+4:07,Kentucky,Keldon Johnson,Turnover,56,71
+4:07,Tennessee,Grant Williams,Steal,56,71
+4:02,Tennessee,Lamonte Turner,Layup,58,71
+3:51,Tennessee,Lamonte Turner,Foul,58,71
+3:51,Kentucky,None,None,58,71
+3:51,Kentucky,Ashton Hagans,Free Throw,58,72
+3:51,Kentucky,Ashton Hagans,Free Throw,58,73
+3:43,Tennessee,Jordan Bowden,Turnover,58,73
+3:22,Kentucky,Keldon Johnson,Jumper,58,75
+3:02,Tennessee,John Fulkerson,Layup,60,75
+3:02,Tennessee,None,None,60,75
+2:32,Kentucky,PJ Washington,Missed Jumper,60,75
+2:32,Tennessee,John Fulkerson,Defensive Rebound,60,75
+2:14,Tennessee,Lamonte Turner,Missed Three Point Jumper,60,75
+2:14,Kentucky,PJ Washington,Defensive Rebound,60,75
+1:59,Kentucky,Kentucky ,Turnover,60,75
+1:50,Tennessee,Jordan Bone,Three Point Jumper,63,75
+1:35,Tennessee,Jordan Bowden,Foul,63,75
+1:35,Kentucky,Ashton Hagans,Free Throw,63,76
+1:35,Kentucky,Ashton Hagans,Missed Free Throw,63,76
+1:35,Tennessee,None,Team Rebound,63,76
+1:35,Kentucky,EJ Montgomery,Foul,63,76
+1:35,Tennessee,John Fulkerson,Missed Free Throw,63,76
+1:35,Tennessee,None,Team Rebound,63,76
+1:35,Tennessee,John Fulkerson,Free Throw,64,76
+1:32,Tennessee,Grant Williams,Foul,64,76
+1:32,Kentucky,Reid Travis,Missed Free Throw,64,76
+1:32,Kentucky,None,Team Rebound,64,76
+1:32,Kentucky,Reid Travis,Free Throw,64,77
+1:27,Tennessee,Jordan Bone,Jumper,66,77
+1:17,Tennessee,Lamonte Turner,Foul,66,77
+1:17,Kentucky,Tyler Herro,Free Throw,66,78
+1:17,Kentucky,Tyler Herro,Free Throw,66,79
+1:13,Tennessee,Lamonte Turner,Missed Three Point Jumper,66,79
+1:13,Kentucky,Reid Travis,Defensive Rebound,66,79
+1:09,Tennessee,Grant Williams,Foul,66,79
+1:09,Kentucky,Reid Travis,Free Throw,66,80
+1:09,Kentucky,Reid Travis,Missed Free Throw,66,80
+1:09,Tennessee,Lamonte Turner,Defensive Rebound,66,80
+1:01,Tennessee,Jordan Bone,Three Point Jumper,69,80
+0:59,Tennessee,Jordan Bone,Foul,69,80
+0:59,Kentucky,Tyler Herro,Free Throw,69,81
+0:59,Kentucky,Tyler Herro,Free Throw,69,82
+0:54,Tennessee,Jordan Bowden,Missed Three Point Jumper,69,82
+0:54,Kentucky,Tyler Herro,Defensive Rebound,69,82
+0:47,Tennessee,Jordan Bone,Foul,69,82
+0:47,Kentucky,Tyler Herro,Free Throw,69,83
+0:47,Kentucky,Tyler Herro,Free Throw,69,84
+0:44,Tennessee,Jordan Bone,Missed Three Point Jumper,69,84
+0:44,Kentucky,Keldon Johnson,Defensive Rebound,69,84
+0:32,Kentucky,EJ Montgomery,Dunk,69,86
+0:25,Tennessee,Jalen Johnson,Missed Three Point Jumper,69,86
+0:25,Kentucky,EJ Montgomery,Defensive Rebound,69,86
+0:00,Kentucky,None,None,69,86

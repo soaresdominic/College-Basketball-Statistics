@@ -1,0 +1,297 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,San Diego,Tyler Williams,Three Point Jumper,0,3
+19:22,Loyola Marymount,Eli Scott,Jumper,2,3
+18:57,Loyola Marymount,Jeffery McClendon,Foul,2,3
+18:51,San Diego,Joey Calcaterra,Jumper,2,5
+18:22,Loyola Marymount,Jeffery McClendon,Jumper,4,5
+17:57,San Diego,Yauhen Massalski,Foul,4,5
+17:57,San Diego,Yauhen Massalski,Turnover,4,5
+17:37,Loyola Marymount,James Batemon,Missed Three Point Jumper,4,5
+17:37,San Diego,Joey Calcaterra,Defensive Rebound,4,5
+17:27,San Diego,Yauhen Massalski,Dunk,4,7
+16:50,Loyola Marymount,James Batemon,Jumper,6,7
+16:28,San Diego,Joey Calcaterra,Missed Three Point Jumper,6,7
+16:28,Loyola Marymount,Mattias Markusson,Defensive Rebound,6,7
+15:58,Loyola Marymount,Eli Scott,Jumper,8,7
+15:34,San Diego,Yauhen Massalski,Dunk,8,9
+15:13,Loyola Marymount,Jeffery McClendon,Missed Three Point Jumper,8,9
+15:13,San Diego,Yauhen Massalski,Defensive Rebound,8,9
+15:00,San Diego,Tyler Williams,Three Point Jumper,8,12
+14:29,Loyola Marymount,Mattias Markusson,Jumper,10,12
+14:06,San Diego,Tyler Williams,Missed Three Point Jumper,10,12
+14:06,San Diego,Isaiah Wright,Offensive Rebound,10,12
+13:57,San Diego,Isaiah Pineiro,Missed Three Point Jumper,10,12
+13:57,San Diego,Yauhen Massalski,Offensive Rebound,10,12
+13:55,Loyola Marymount,Jeffery McClendon,Foul,10,12
+13:55,San Diego,None,None,10,12
+13:55,Loyola Marymount,Dameane Douglas,Foul,10,12
+13:50,San Diego,Isaiah Pineiro,Jumper,10,14
+13:33,Loyola Marymount,James Batemon,Jumper,12,14
+13:13,Loyola Marymount,Dameane Douglas,Foul,12,14
+13:02,San Diego,Isaiah Pineiro,Free Throw,12,15
+13:02,San Diego,Isaiah Pineiro,Missed Free Throw,12,15
+13:02,Loyola Marymount,Eli Scott,Defensive Rebound,12,15
+12:31,Loyola Marymount,James Batemon,Missed Three Point Jumper,12,15
+12:31,San Diego,Finn Sullivan,Defensive Rebound,12,15
+12:17,San Diego,Alex Floresca,Foul,12,15
+12:17,San Diego,Alex Floresca,Turnover,12,15
+11:52,Loyola Marymount,Eli Scott,Turnover,12,15
+11:51,San Diego,Finn Sullivan,Steal,12,15
+11:48,San Diego,Finn Sullivan,Foul,12,15
+11:48,San Diego,Finn Sullivan,Turnover,12,15
+11:48,San Diego,None,None,12,15
+11:27,Loyola Marymount,Jordan Bell,Foul,12,15
+11:27,Loyola Marymount,Jordan Bell,Turnover,12,15
+11:01,San Diego,Isaiah Wright,Missed Three Point Jumper,12,15
+11:01,Loyola Marymount,Zafir Williams,Defensive Rebound,12,15
+10:52,Loyola Marymount,Jordan Bell,Turnover,12,15
+10:38,San Diego,Isaiah Pineiro,Missed Jumper,12,15
+10:38,San Diego,Isaiah Pineiro,Offensive Rebound,12,15
+10:36,Loyola Marymount,Jordan Bell,Foul,12,15
+10:36,San Diego,Isaiah Pineiro,Free Throw,12,16
+10:36,San Diego,Isaiah Pineiro,Missed Free Throw,12,16
+10:36,Loyola Marymount,Mattias Markusson,Defensive Rebound,12,16
+10:26,Loyola Marymount,Joe Quintana,Turnover,12,16
+10:26,San Diego,Finn Sullivan,Steal,12,16
+10:23,San Diego,Isaiah Wright,Missed Three Point Jumper,12,16
+10:23,San Diego,Joey Calcaterra,Offensive Rebound,12,16
+10:23,Loyola Marymount,Zafir Williams,Foul,12,16
+10:23,San Diego,Joey Calcaterra,Free Throw,12,17
+10:23,San Diego,Joey Calcaterra,Missed Free Throw,12,17
+10:23,Loyola Marymount,Loyola Marymount,Defensive Rebound,12,17
+10:15,Loyola Marymount,Donald Gipson,Turnover,12,17
+10:14,San Diego,Isaiah Pineiro,Steal,12,17
+10:09,San Diego,Joey Calcaterra,Foul,12,17
+10:09,San Diego,Joey Calcaterra,Turnover,12,17
+9:51,Loyola Marymount,Joe Quintana,Missed Three Point Jumper,12,17
+9:51,Loyola Marymount,Mattias Markusson,Offensive Rebound,12,17
+9:45,Loyola Marymount,Mattias Markusson,Layup,14,17
+9:28,San Diego,Finn Sullivan,Missed Three Point Jumper,14,17
+9:28,San Diego,Isaiah Pineiro,Offensive Rebound,14,17
+9:13,San Diego,Isaiah Pineiro,Turnover,14,17
+9:01,San Diego,Andrew Ferguson,Foul,14,17
+8:42,Loyola Marymount,Jeffery McClendon,Missed Jumper,14,17
+8:42,San Diego,Isaiah Pineiro,Defensive Rebound,14,17
+8:26,San Diego,Tyler Williams,Missed Layup,14,17
+8:26,Loyola Marymount,Zafir Williams,Defensive Rebound,14,17
+8:05,Loyola Marymount,Zafir Williams,Missed Jumper,14,17
+8:05,San Diego,Tyler Williams,Defensive Rebound,14,17
+8:01,Loyola Marymount,Jeffery McClendon,Foul,14,17
+8:01,San Diego,None,None,14,17
+8:01,San Diego,Isaiah Wright,Free Throw,14,18
+8:01,San Diego,Isaiah Wright,Missed Free Throw,14,18
+8:01,Loyola Marymount,Mattias Markusson,Defensive Rebound,14,18
+7:37,Loyola Marymount,Mattias Markusson,Jumper,16,18
+7:14,San Diego,Andrew Ferguson,Three Point Jumper,16,21
+6:54,Loyola Marymount,Mattias Markusson,Layup,18,21
+6:37,Loyola Marymount,Mattias Markusson,Foul,18,21
+6:37,San Diego,Isaiah Wright,Free Throw,18,22
+6:37,San Diego,Isaiah Wright,Free Throw,18,23
+6:24,Loyola Marymount,Mattias Markusson,Layup,20,23
+6:01,San Diego,Isaiah Wright,Missed Three Point Jumper,20,23
+6:01,Loyola Marymount,Erik Johansson,Defensive Rebound,20,23
+6:00,San Diego,Yauhen Massalski,Foul,20,23
+5:44,Loyola Marymount,Eli Scott,Missed Jumper,20,23
+5:44,Loyola Marymount,Eli Scott,Offensive Rebound,20,23
+5:44,San Diego,Isaiah Pineiro,Foul,20,23
+5:44,Loyola Marymount,Eli Scott,Missed Free Throw,20,23
+5:44,Loyola Marymount,None,Team Rebound,20,23
+5:44,Loyola Marymount,Eli Scott,Free Throw,21,23
+5:29,San Diego,Alex Floresca,Turnover,21,23
+5:28,Loyola Marymount,Joe Quintana,Steal,21,23
+5:25,Loyola Marymount,Joe Quintana,Layup,23,23
+5:05,San Diego,Joey Calcaterra,Missed Jumper,23,23
+5:05,San Diego,Tyler Williams,Offensive Rebound,23,23
+5:04,Loyola Marymount,Erik Johansson,Foul,23,23
+5:04,San Diego,Alex Floresca,Missed Free Throw,23,23
+5:04,San Diego,None,Team Rebound,23,23
+5:04,San Diego,Alex Floresca,Free Throw,23,24
+4:44,Loyola Marymount,Joe Quintana,Turnover,23,24
+4:21,San Diego,Tyler Williams,Missed Jumper,23,24
+4:21,Loyola Marymount,Joe Quintana,Defensive Rebound,23,24
+4:13,Loyola Marymount,James Batemon,Jumper,25,24
+3:59,San Diego,Andrew Ferguson,Turnover,25,24
+3:58,Loyola Marymount,Joe Quintana,Steal,25,24
+3:47,San Diego,Andrew Ferguson,Foul,25,24
+3:47,San Diego,None,None,25,24
+3:47,Loyola Marymount,James Batemon,Free Throw,26,24
+3:47,Loyola Marymount,James Batemon,Missed Free Throw,26,24
+3:47,San Diego,Isaiah Wright,Defensive Rebound,26,24
+3:17,San Diego,Isaiah Wright,Missed Three Point Jumper,26,24
+3:17,Loyola Marymount,Eli Scott,Defensive Rebound,26,24
+3:08,Loyola Marymount,James Batemon,Missed Jumper,26,24
+3:08,San Diego,Isaiah Wright,Defensive Rebound,26,24
+3:01,San Diego,Joey Calcaterra,Three Point Jumper,26,27
+2:29,Loyola Marymount,Joe Quintana,Missed Three Point Jumper,26,27
+2:29,San Diego,Alex Floresca,Defensive Rebound,26,27
+2:27,Loyola Marymount,Mattias Markusson,Foul,26,27
+2:27,San Diego,Alex Floresca,Free Throw,26,28
+2:27,San Diego,Alex Floresca,Missed Free Throw,26,28
+2:27,Loyola Marymount,Jordan Bell,Defensive Rebound,26,28
+2:01,Loyola Marymount,Eli Scott,Missed Jumper,26,28
+2:01,San Diego,Alex Floresca,Defensive Rebound,26,28
+1:42,San Diego,Isaiah Pineiro,Missed Jumper,26,28
+1:42,Loyola Marymount,James Batemon,Defensive Rebound,26,28
+1:31,San Diego,Isaiah Pineiro,Foul,26,28
+1:31,Loyola Marymount,James Batemon,Free Throw,27,28
+1:31,Loyola Marymount,James Batemon,Free Throw,28,28
+1:23,San Diego,Joey Calcaterra,Missed Jumper,28,28
+1:23,Loyola Marymount,Joe Quintana,Defensive Rebound,28,28
+1:01,Loyola Marymount,James Batemon,Turnover,28,28
+0:58,San Diego,Alex Floresca,Steal,28,28
+0:56,San Diego,Joey Calcaterra,Turnover,28,28
+0:55,Loyola Marymount,James Batemon,Steal,28,28
+0:52,Loyola Marymount,Erik Johansson,Missed Three Point Jumper,28,28
+0:52,San Diego,Tyler Williams,Defensive Rebound,28,28
+0:45,San Diego,None,None,28,28
+0:27,San Diego,Alex Floresca,Missed Jumper,28,28
+0:27,San Diego,San Diego,Offensive Rebound,28,28
+0:26,San Diego,Tyler Williams,Turnover,28,28
+0:26,Loyola Marymount,Joe Quintana,Steal,28,28
+0:21,Loyola Marymount,Eli Scott,Jumper,30,28
+0:14,San Diego,Joey Calcaterra,Foul,30,28
+0:05,Loyola Marymount,Eli Scott,Missed Free Throw,30,28
+0:05,San Diego,Isaiah Pineiro,Defensive Rebound,30,28
+0:00,San Diego,Tyler Williams,Three Point Jumper,30,31
+0:00,San Diego,None,None,30,28
+19:29,Loyola Marymount,Mattias Markusson,Missed Jumper,30,31
+19:29,San Diego,Yauhen Massalski,Block,30,31
+19:27,San Diego,Yauhen Massalski,Defensive Rebound,30,31
+19:08,San Diego,Tyler Williams,Missed Jumper,30,31
+19:08,Loyola Marymount,James Batemon,Defensive Rebound,30,31
+18:51,Loyola Marymount,James Batemon,Turnover,30,31
+18:49,San Diego,Isaiah Wright,Steal,30,31
+18:44,San Diego,Tyler Williams,Three Point Jumper,30,34
+18:21,Loyola Marymount,Joe Quintana,Turnover,30,34
+18:19,San Diego,Yauhen Massalski,Steal,30,34
+18:15,San Diego,Joey Calcaterra,Missed Three Point Jumper,30,34
+18:15,Loyola Marymount,Mattias Markusson,Defensive Rebound,30,34
+17:45,Loyola Marymount,Eli Scott,Jumper,32,34
+17:23,San Diego,Tyler Williams,Missed Jumper,32,34
+17:23,Loyola Marymount,James Batemon,Block,32,34
+17:21,Loyola Marymount,Mattias Markusson,Defensive Rebound,32,34
+17:10,San Diego,Yauhen Massalski,Foul,32,34
+17:01,Loyola Marymount,Jeffery McClendon,Turnover,32,34
+17:00,San Diego,Isaiah Pineiro,Steal,32,34
+16:57,San Diego,Isaiah Pineiro,Layup,32,36
+16:38,San Diego,Isaiah Pineiro,Foul,32,36
+16:28,Loyola Marymount,Eli Scott,Missed Jumper,32,36
+16:28,San Diego,Yauhen Massalski,Defensive Rebound,32,36
+16:12,San Diego,Yauhen Massalski,Dunk,32,38
+15:44,Loyola Marymount,James Batemon,Layup,34,38
+15:34,San Diego,Isaiah Pineiro,Three Point Jumper,34,41
+15:14,Loyola Marymount,Mattias Markusson,Jumper,36,41
+14:48,San Diego,Isaiah Wright,Missed Three Point Jumper,36,41
+14:48,San Diego,Yauhen Massalski,Offensive Rebound,36,41
+14:48,Loyola Marymount,Eli Scott,Foul,36,41
+14:48,San Diego,None,None,36,41
+14:36,San Diego,Joey Calcaterra,Missed Three Point Jumper,36,41
+14:36,Loyola Marymount,Jordan Bell,Defensive Rebound,36,41
+14:14,San Diego,Isaiah Pineiro,Foul,36,41
+13:58,Loyola Marymount,Jordan Bell,Jumper,38,41
+13:58,San Diego,Alex Floresca,Foul,38,41
+13:58,Loyola Marymount,Jordan Bell,Free Throw,39,41
+13:37,San Diego,Isaiah Wright,Missed Three Point Jumper,39,41
+13:37,Loyola Marymount,Dameane Douglas,Defensive Rebound,39,41
+13:20,Loyola Marymount,Jordan Bell,Missed Jumper,39,41
+13:20,San Diego,Tyler Williams,Defensive Rebound,39,41
+13:10,San Diego,Isaiah Wright,Jumper,39,43
+12:48,Loyola Marymount,Joe Quintana,Jumper,41,43
+12:24,Loyola Marymount,Joe Quintana,Foul,41,43
+12:24,San Diego,Joey Calcaterra,Free Throw,41,44
+12:24,San Diego,Joey Calcaterra,Free Throw,41,45
+12:24,Loyola Marymount,Dameane Douglas,Missed Jumper,41,45
+12:24,Loyola Marymount,Zafir Williams,Offensive Rebound,41,45
+12:24,Loyola Marymount,Zafir Williams,Missed Jumper,41,45
+12:24,San Diego,Yauhen Massalski,Block,41,45
+12:24,San Diego,Isaiah Wright,Defensive Rebound,41,45
+11:47,San Diego,Tyler Williams,Jumper,41,47
+11:40,Loyola Marymount,None,None,41,47
+11:30,Loyola Marymount,Mattias Markusson,Turnover,41,47
+11:29,San Diego,Yauhen Massalski,Steal,41,47
+11:05,San Diego,Isaiah Wright,Missed Three Point Jumper,41,47
+11:05,San Diego,Tyler Williams,Offensive Rebound,41,47
+11:02,San Diego,None,None,41,47
+11:02,San Diego,Finn Sullivan,Three Point Jumper,41,50
+10:39,Loyola Marymount,Erik Johansson,Missed Three Point Jumper,41,50
+10:39,Loyola Marymount,Zafir Williams,Offensive Rebound,41,50
+10:37,Loyola Marymount,Zafir Williams,Jumper,43,50
+10:07,San Diego,Yauhen Massalski,Missed Jumper,43,50
+10:07,Loyola Marymount,Mattias Markusson,Block,43,50
+10:04,Loyola Marymount,Dameane Douglas,Defensive Rebound,43,50
+9:42,Loyola Marymount,Zafir Williams,Jumper,45,50
+9:21,San Diego,Tyler Williams,Missed Three Point Jumper,45,50
+9:21,Loyola Marymount,Zafir Williams,Block,45,50
+9:19,Loyola Marymount,Dameane Douglas,Defensive Rebound,45,50
+9:08,Loyola Marymount,James Batemon,Missed Jumper,45,50
+9:08,San Diego,Finn Sullivan,Defensive Rebound,45,50
+9:04,San Diego,None,None,45,50
+8:48,San Diego,Tyler Williams,Missed Three Point Jumper,45,50
+8:48,Loyola Marymount,Mattias Markusson,Defensive Rebound,45,50
+8:27,San Diego,Tyler Williams,Foul,45,50
+8:10,San Diego,Alex Floresca,Foul,45,50
+7:54,Loyola Marymount,Mattias Markusson,Missed Jumper,45,50
+7:54,San Diego,Alex Floresca,Defensive Rebound,45,50
+7:54,Loyola Marymount,Dameane Douglas,Foul,45,50
+7:54,San Diego,None,None,45,50
+7:25,San Diego,Isaiah Wright,Turnover,45,50
+7:23,Loyola Marymount,James Batemon,Steal,45,50
+7:19,Loyola Marymount,Eli Scott,Foul,45,50
+7:19,Loyola Marymount,Eli Scott,Turnover,45,50
+6:57,Loyola Marymount,James Batemon,Foul,45,50
+6:57,San Diego,Yauhen Massalski,Free Throw,45,51
+6:57,San Diego,Yauhen Massalski,Free Throw,45,52
+6:35,Loyola Marymount,Jeffery McClendon,Missed Jumper,45,52
+6:35,San Diego,Alex Floresca,Defensive Rebound,45,52
+6:06,San Diego,Alex Floresca,Missed Jumper,45,52
+6:06,Loyola Marymount,Dameane Douglas,Defensive Rebound,45,52
+5:38,Loyola Marymount,Dameane Douglas,Jumper,47,52
+5:20,San Diego,Yauhen Massalski,Dunk,47,54
+4:57,Loyola Marymount,Dameane Douglas,Missed Jumper,47,54
+4:57,San Diego,Joey Calcaterra,Block,47,54
+4:55,San Diego,Isaiah Wright,Defensive Rebound,47,54
+4:44,San Diego,Yauhen Massalski,Dunk,47,56
+4:39,Loyola Marymount,None,None,47,56
+4:21,San Diego,Yauhen Massalski,Foul,47,56
+4:21,Loyola Marymount,Mattias Markusson,Free Throw,48,56
+4:21,Loyola Marymount,Mattias Markusson,Missed Free Throw,48,56
+4:21,San Diego,Alex Floresca,Defensive Rebound,48,56
+4:05,San Diego,Isaiah Wright,Missed Jumper,48,56
+4:05,Loyola Marymount,Mattias Markusson,Defensive Rebound,48,56
+3:54,Loyola Marymount,Eli Scott,Missed Jumper,48,56
+3:54,San Diego,Tyler Williams,Block,48,56
+3:52,San Diego,Andrew Ferguson,Defensive Rebound,48,56
+3:23,San Diego,San Diego ,Turnover,48,56
+3:23,San Diego,None,None,48,56
+3:08,Loyola Marymount,James Batemon,Layup,50,56
+2:50,San Diego,Andrew Ferguson,Three Point Jumper,50,59
+2:34,Loyola Marymount,Eli Scott,Layup,52,59
+2:23,Loyola Marymount,James Batemon,Foul,52,59
+1:59,San Diego,Isaiah Wright,Jumper,52,61
+1:47,Loyola Marymount,James Batemon,Three Point Jumper,55,61
+1:26,San Diego,Tyler Williams,Missed Three Point Jumper,55,61
+1:26,Loyola Marymount,Dameane Douglas,Defensive Rebound,55,61
+1:20,Loyola Marymount,Eli Scott,Layup,57,61
+0:48,San Diego,Joey Calcaterra,Layup,57,63
+0:36,Loyola Marymount,Loyola Marymount,Foul,57,63
+0:36,Loyola Marymount,James Batemon,Foul,57,63
+0:36,San Diego,Isaiah Pineiro,Free Throw,57,66
+0:36,Loyola Marymount,James Batemon,Turnover,57,63
+0:36,San Diego,Isaiah Pineiro,Dunk,57,65
+0:36,Loyola Marymount,None,None,57,65
+0:36,Loyola Marymount,Loyola Marymount,Foul,57,65
+0:36,San Diego,Isaiah Pineiro,Free Throw,57,67
+0:25,Loyola Marymount,Dameane Douglas,Turnover,57,67
+0:24,San Diego,Joey Calcaterra,Steal,57,67
+0:22,San Diego,Joey Calcaterra,Layup,57,69
+0:19,San Diego,Isaiah Wright,Foul,57,69
+0:19,Loyola Marymount,James Batemon,Free Throw,58,69
+0:19,Loyola Marymount,James Batemon,Missed Free Throw,58,69
+0:19,San Diego,Isaiah Pineiro,Defensive Rebound,58,69
+0:17,San Diego,None,None,58,69
+0:13,Loyola Marymount,Zafir Williams,Foul,58,69
+0:13,San Diego,Isaiah Wright,Free Throw,58,70
+0:13,San Diego,Isaiah Wright,Free Throw,58,71
+0:07,Loyola Marymount,James Batemon,Missed Three Point Jumper,58,71
+0:07,San Diego,Tyler Williams,Defensive Rebound,58,71
+0:00,San Diego,None,None,58,71

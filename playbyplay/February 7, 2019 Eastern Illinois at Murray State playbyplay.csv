@@ -1,0 +1,336 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Murray State,None,None,0,0
+19:59,Eastern Illinois,None,None,0,0
+19:23,Eastern Illinois,Shareef Smith,Three Point Jumper,3,0
+18:58,Murray State,Ja Morant,Three Point Jumper,3,3
+18:44,Eastern Illinois,Josiah Wallace,Turnover,3,3
+18:34,Murray State,Darnell Cowart,Missed Layup,3,3
+18:34,Murray State,Darnell Cowart,Offensive Rebound,3,3
+18:24,Murray State,Darnell Cowart,Missed Layup,3,3
+18:24,Eastern Illinois,Rade Kukobat,Block,3,3
+18:24,Murray State,Darnell Cowart,Offensive Rebound,3,3
+18:24,Murray State,Darnell Cowart,Foul,3,3
+18:21,Murray State,Shaq Buchanan,Missed Three Point Jumper,3,3
+18:21,Eastern Illinois,Shareef Smith,Defensive Rebound,3,3
+18:03,Eastern Illinois,Mack Smith,Missed Jumper,3,3
+18:03,Murray State,Darnell Cowart,Defensive Rebound,3,3
+17:51,Murray State,Ja Morant,Three Point Jumper,3,6
+17:37,Eastern Illinois,Rade Kukobat,Missed Jumper,3,6
+17:37,Murray State,Tevin Brown,Defensive Rebound,3,6
+17:16,Murray State,Darnell Cowart,Foul,3,6
+17:15,Murray State,Darnell Cowart,Turnover,3,6
+16:51,Eastern Illinois,JaQualis Matlock,Missed Layup,3,6
+16:51,Murray State,Ja Morant,Three Point Jumper,3,9
+16:42,Eastern Illinois,Cam Burrell,Layup,5,9
+16:42,Eastern Illinois,Cam Burrell,Offensive Rebound,5,9
+16:07,Eastern Illinois,Josiah Wallace,Missed Jumper,5,9
+16:07,Murray State,Ja Morant,Defensive Rebound,5,9
+15:55,Murray State,Ja Morant,Turnover,5,9
+15:55,Eastern Illinois,Josiah Wallace,Steal,5,9
+15:48,Eastern Illinois,JaQualis Matlock,Missed Jumper,5,9
+15:48,Murray State,KJ Williams,Defensive Rebound,5,9
+15:39,Murray State,Ja Morant,Three Point Jumper,5,12
+15:13,Eastern Illinois,Mack Smith,Layup,7,12
+14:55,Murray State,KJ Williams,Missed Jumper,7,12
+14:55,Eastern Illinois,JaQualis Matlock,Block,7,12
+14:55,Murray State,KJ Williams,Offensive Rebound,7,12
+14:41,Murray State,Shaq Buchanan,Three Point Jumper,7,15
+14:21,Eastern Illinois,Mack Smith,Turnover,7,15
+14:21,Murray State,KJ Williams,Steal,7,15
+13:59,Murray State,KJ Williams,Dunk,7,17
+13:48,Eastern Illinois,Josiah Wallace,Missed Three Point Jumper,7,17
+13:48,Eastern Illinois,Mack Smith,Offensive Rebound,7,17
+13:33,Eastern Illinois,Mack Smith,Three Point Jumper,10,17
+13:30,Murray State,Shaq Buchanan,Missed Layup,10,17
+13:30,Eastern Illinois,Cam Burrell,Block,10,17
+13:30,Murray State,Murray State,Offensive Rebound,10,17
+13:30,Murray State,None,None,10,17
+13:29,Murray State,None,None,10,17
+13:19,Eastern Illinois,Shareef Smith,Missed Three Point Jumper,10,17
+13:19,Murray State,Murray State,Defensive Rebound,10,17
+13:07,Murray State,Devin Gilmore,Dunk,10,19
+12:49,Eastern Illinois,Cam Burrell,Layup,12,19
+12:31,Murray State,Shaq Buchanan,Missed Three Point Jumper,12,19
+12:31,Eastern Illinois,Cam Burrell,Defensive Rebound,12,19
+12:08,Eastern Illinois,Josiah Wallace,Missed Three Point Jumper,12,19
+12:08,Eastern Illinois,JaQualis Matlock,Offensive Rebound,12,19
+12:01,Eastern Illinois,Shawn Wilson,Jumper,14,19
+11:46,Murray State,Ja Morant,Missed Jumper,14,19
+11:46,Eastern Illinois,JaQualis Matlock,Defensive Rebound,14,19
+11:15,Eastern Illinois,JaQualis Matlock,Layup,16,19
+11:08,Murray State,Tevin Brown,Missed Three Point Jumper,16,19
+11:08,Eastern Illinois,Josiah Wallace,Defensive Rebound,16,19
+10:58,Eastern Illinois,Josiah Wallace,Missed Layup,16,19
+10:58,Murray State,Brion Sanchious,Block,16,19
+10:58,Murray State,Tevin Brown,Defensive Rebound,16,19
+10:45,Murray State,Devin Gilmore,Missed Layup,16,19
+10:45,Eastern Illinois,Ben Harvey,Defensive Rebound,16,19
+10:39,Eastern Illinois,Shawn Wilson,Turnover,16,19
+10:39,Murray State,None,None,16,19
+10:29,Murray State,Ja Morant,Missed Three Point Jumper,16,19
+10:29,Eastern Illinois,Ben Harvey,Defensive Rebound,16,19
+10:29,Eastern Illinois,Mack Smith,Three Point Jumper,19,19
+9:48,Eastern Illinois,Shareef Smith,Foul,19,19
+9:43,Murray State,Mike Davis,Missed Three Point Jumper,19,19
+9:43,Eastern Illinois,Mack Smith,Defensive Rebound,19,19
+9:26,Eastern Illinois,JaQualis Matlock,Three Point Jumper,22,19
+8:55,Murray State,Ja Morant,Turnover,22,19
+8:55,Eastern Illinois,Shareef Smith,Steal,22,19
+8:48,Eastern Illinois,Mack Smith,Layup,24,19
+8:48,Murray State,None,None,24,19
+8:33,Murray State,Darnell Cowart,Missed Layup,24,19
+8:33,Eastern Illinois,Ben Harvey,Defensive Rebound,24,19
+8:21,Eastern Illinois,JaQualis Matlock,Three Point Jumper,27,19
+8:03,Murray State,Mike Davis,Layup,27,21
+8:03,Eastern Illinois,JaQualis Matlock,Foul,27,21
+8:03,Murray State,Mike Davis,Missed Free Throw,27,21
+8:03,Murray State,Shaq Buchanan,Offensive Rebound,27,21
+7:49,Murray State,Darnell Cowart,Jumper,27,23
+7:47,Murray State,None,None,27,23
+7:23,Eastern Illinois,Josiah Wallace,Layup,29,23
+7:06,Murray State,Ja Morant,Missed Jumper,29,23
+7:06,Eastern Illinois,JaQualis Matlock,Defensive Rebound,29,23
+6:57,Eastern Illinois,Shareef Smith,Missed Three Point Jumper,29,23
+6:57,Eastern Illinois,JaQualis Matlock,Offensive Rebound,29,23
+6:45,Eastern Illinois,Shareef Smith,Layup,31,23
+6:31,Murray State,Darnell Cowart,Layup,31,25
+6:14,Eastern Illinois,JaQualis Matlock,Missed Three Point Jumper,31,25
+6:14,Murray State,Tevin Brown,Defensive Rebound,31,25
+5:59,Murray State,Shaq Buchanan,Missed Jumper,31,25
+5:59,Eastern Illinois,Mack Smith,Block,31,25
+5:59,Eastern Illinois,Mack Smith,Defensive Rebound,31,25
+5:39,Eastern Illinois,Mack Smith,Three Point Jumper,34,25
+5:28,Murray State,Darnell Cowart,Missed Layup,34,25
+5:28,Murray State,Darnell Cowart,Offensive Rebound,34,25
+5:19,Murray State,Darnell Cowart,Layup,34,27
+5:08,Eastern Illinois,Josiah Wallace,Turnover,34,27
+5:08,Murray State,Ja Morant,Steal,34,27
+4:46,Murray State,Shaq Buchanan,Missed Three Point Jumper,34,27
+4:46,Eastern Illinois,Kashawn Charles,Defensive Rebound,34,27
+4:32,Eastern Illinois,Ben Harvey,Turnover,34,27
+4:21,Murray State,Darnell Cowart,Layup,34,29
+4:21,Eastern Illinois,Rade Kukobat,Foul,34,29
+4:21,Murray State,Darnell Cowart,Free Throw,34,30
+4:10,Eastern Illinois,Rade Kukobat,Three Point Jumper,37,30
+3:57,Murray State,Ja Morant,Missed Three Point Jumper,37,30
+3:57,Eastern Illinois,Mack Smith,Defensive Rebound,37,30
+3:37,Eastern Illinois,Cam Burrell,Layup,39,30
+3:16,Murray State,Ja Morant,Missed Layup,39,30
+3:16,Eastern Illinois,Rade Kukobat,Defensive Rebound,39,30
+3:10,Murray State,Brion Whitley,Foul,39,30
+3:10,Murray State,None,None,39,30
+3:10,Eastern Illinois,Ben Harvey,Free Throw,40,30
+3:10,Eastern Illinois,Ben Harvey,Missed Free Throw,40,30
+3:10,Murray State,Devin Gilmore,Defensive Rebound,40,30
+3:04,Eastern Illinois,Shareef Smith,Foul,40,30
+3:04,Murray State,Ja Morant,Free Throw,40,31
+3:04,Murray State,Ja Morant,Missed Free Throw,40,31
+3:04,Eastern Illinois,Ben Harvey,Defensive Rebound,40,31
+2:42,Eastern Illinois,Ben Harvey,Missed Jumper,40,31
+2:42,Murray State,Darnell Cowart,Defensive Rebound,40,31
+2:28,Murray State,Tevin Brown,Layup,40,33
+2:03,Eastern Illinois,Ben Harvey,Turnover,40,33
+2:03,Eastern Illinois,Ben Harvey,Foul,40,33
+1:49,Murray State,Tevin Brown,Missed Three Point Jumper,40,33
+1:49,Murray State,Darnell Cowart,Offensive Rebound,40,33
+1:39,Murray State,Darnell Cowart,Missed Layup,40,33
+1:39,Eastern Illinois,Rade Kukobat,Block,40,33
+1:39,Eastern Illinois,Mack Smith,Defensive Rebound,40,33
+1:17,Eastern Illinois,Mack Smith,Missed Jumper,40,33
+1:17,Eastern Illinois,Shawn Wilson,Offensive Rebound,40,33
+0:55,Eastern Illinois,Josiah Wallace,Missed Three Point Jumper,40,33
+0:55,Murray State,Brion Whitley,Defensive Rebound,40,33
+0:44,Murray State,Devin Gilmore,Missed Layup,40,33
+0:44,Eastern Illinois,Rade Kukobat,Block,40,33
+0:44,Eastern Illinois,Shawn Wilson,Defensive Rebound,40,33
+0:44,Eastern Illinois,Mack Smith,Missed Three Point Jumper,40,33
+0:44,Murray State,Ja Morant,Defensive Rebound,40,33
+0:44,Murray State,Brion Whitley,Missed Three Point Jumper,40,33
+0:44,Eastern Illinois,JaQualis Matlock,Defensive Rebound,40,33
+0:44,Eastern Illinois,JaQualis Matlock,Turnover,40,33
+0:44,Murray State,Devin Gilmore,Steal,40,33
+0:44,Murray State,Ja Morant,Free Throw,40,34
+0:44,Eastern Illinois,Rade Kukobat,Foul,40,35
+0:44,Murray State,Ja Morant,Free Throw,40,37
+0:44,Murray State,Ja Morant,Free Throw,40,36
+0:44,Eastern Illinois,Shawn Wilson,Foul,40,34
+0:44,Murray State,Ja Morant,Free Throw,40,35
+0:36,Murray State,Shaq Buchanan,Three Point Jumper,40,40
+0:20,Eastern Illinois,Mack Smith,Missed Layup,40,40
+0:20,Eastern Illinois,JaQualis Matlock,Offensive Rebound,40,40
+0:19,Eastern Illinois,JaQualis Matlock,Missed Layup,40,40
+0:18,Murray State,Devin Gilmore,Block,40,40
+0:12,Murray State,Shaq Buchanan,Defensive Rebound,40,40
+0:10,Murray State,Shaq Buchanan,Missed Three Point Jumper,40,40
+0:01,Eastern Illinois,JaQualis Matlock,Defensive Rebound,40,40
+0:00,Murray State,None,None,40,40
+20:00,Murray State,None,None,40,40
+19:48,Murray State,Darnell Cowart,Layup,40,42
+19:36,Eastern Illinois,Rade Kukobat,Turnover,40,42
+19:36,Murray State,Tevin Brown,Steal,40,42
+19:26,Murray State,Ja Morant,Missed Jumper,40,42
+19:26,Murray State,KJ Williams,Offensive Rebound,40,42
+19:18,Murray State,KJ Williams,Missed Layup,40,42
+19:18,Eastern Illinois,Rade Kukobat,Defensive Rebound,40,42
+19:06,Eastern Illinois,Josiah Wallace,Missed Jumper,40,42
+19:06,Murray State,Darnell Cowart,Defensive Rebound,40,42
+18:46,Murray State,Ja Morant,Missed Jumper,40,42
+18:46,Murray State,Darnell Cowart,Offensive Rebound,40,42
+18:40,Eastern Illinois,JaQualis Matlock,Foul,40,42
+18:40,Murray State,KJ Williams,Missed Free Throw,40,42
+18:40,Murray State,None,Team Rebound,40,42
+18:40,Murray State,KJ Williams,Free Throw,40,43
+18:13,Eastern Illinois,Josiah Wallace,Missed Three Point Jumper,40,43
+18:13,Murray State,Darnell Cowart,Defensive Rebound,40,43
+18:05,Murray State,KJ Williams,Dunk,40,45
+18:03,Eastern Illinois,None,None,40,45
+17:39,Eastern Illinois,Lucas Jones,Three Point Jumper,43,45
+17:26,Eastern Illinois,Lucas Jones,Foul,43,45
+17:26,Murray State,Darnell Cowart,Free Throw,43,46
+17:26,Murray State,Darnell Cowart,Free Throw,43,47
+17:14,Murray State,Darnell Cowart,Foul,43,47
+17:14,Eastern Illinois,Cam Burrell,Free Throw,44,47
+17:14,Eastern Illinois,Cam Burrell,Missed Free Throw,44,47
+17:14,Murray State,KJ Williams,Defensive Rebound,44,47
+16:59,Murray State,Ja Morant,Missed Three Point Jumper,44,47
+16:59,Eastern Illinois,Shareef Smith,Defensive Rebound,44,47
+16:56,Murray State,Tevin Brown,Foul,44,47
+16:56,Eastern Illinois,Cam Burrell,Free Throw,45,47
+16:56,Eastern Illinois,Cam Burrell,Free Throw,46,47
+16:54,Murray State,Ja Morant,Turnover,46,47
+16:54,Eastern Illinois,JaQualis Matlock,Steal,46,47
+16:39,Eastern Illinois,Cam Burrell,Missed Layup,46,47
+16:39,Murray State,Devin Gilmore,Block,46,47
+16:39,Murray State,Devin Gilmore,Defensive Rebound,46,47
+16:21,Murray State,Shaq Buchanan,Three Point Jumper,46,50
+16:02,Eastern Illinois,Mack Smith,Missed Layup,46,50
+16:02,Murray State,Tevin Brown,Defensive Rebound,46,50
+15:48,Murray State,Shaq Buchanan,Missed Three Point Jumper,46,50
+15:48,Eastern Illinois,Josiah Wallace,Defensive Rebound,46,50
+15:38,Eastern Illinois,Josiah Wallace,Jumper,48,50
+15:16,Eastern Illinois,Mack Smith,Foul,48,50
+15:16,Murray State,None,None,48,50
+15:16,Murray State,Tevin Brown,Free Throw,48,51
+15:16,Murray State,Tevin Brown,Free Throw,48,52
+14:51,Eastern Illinois,Josiah Wallace,Three Point Jumper,51,52
+14:38,Murray State,Shaq Buchanan,Layup,51,54
+14:18,Eastern Illinois,Rade Kukobat,Dunk,53,54
+13:53,Murray State,Devin Gilmore,Layup,53,56
+13:35,Eastern Illinois,Josiah Wallace,Missed Layup,53,56
+13:35,Eastern Illinois,Josiah Wallace,Offensive Rebound,53,56
+13:28,Eastern Illinois,Josiah Wallace,Layup,55,56
+13:18,Murray State,Ja Morant,Layup,55,58
+13:05,Eastern Illinois,Kashawn Charles,Three Point Jumper,58,58
+12:43,Murray State,Mike Davis,Missed Layup,58,58
+12:43,Eastern Illinois,Kashawn Charles,Defensive Rebound,58,58
+12:26,Eastern Illinois,Kashawn Charles,Turnover,58,58
+12:26,Murray State,Tevin Brown,Steal,58,58
+11:50,Eastern Illinois,JaQualis Matlock,Foul,58,58
+11:50,Murray State,None,None,58,58
+11:45,Eastern Illinois,Cam Burrell,Foul,58,58
+11:45,Murray State,Darnell Cowart,Free Throw,58,59
+11:45,Murray State,Darnell Cowart,Free Throw,58,60
+11:32,Eastern Illinois,Josiah Wallace,Jumper,60,60
+11:19,Murray State,Shaq Buchanan,Jumper,60,62
+10:54,Eastern Illinois,Cam Burrell,Layup,62,62
+10:33,Murray State,Ja Morant,Missed Three Point Jumper,62,62
+10:33,Eastern Illinois,Mack Smith,Defensive Rebound,62,62
+10:23,Eastern Illinois,Josiah Wallace,Three Point Jumper,65,62
+10:19,Murray State,None,None,65,62
+10:04,Murray State,Darnell Cowart,Layup,65,64
+9:52,Eastern Illinois,Ben Harvey,Missed Jumper,65,64
+9:52,Murray State,Darnell Cowart,Defensive Rebound,65,64
+9:44,Murray State,Ja Morant,Turnover,65,64
+9:44,Eastern Illinois,Shareef Smith,Steal,65,64
+9:30,Eastern Illinois,Ben Harvey,Three Point Jumper,68,64
+9:09,Eastern Illinois,Josiah Wallace,Foul,68,64
+9:08,Murray State,Darnell Cowart,Turnover,68,64
+9:08,Eastern Illinois,Ben Harvey,Steal,68,64
+9:04,Eastern Illinois,Ben Harvey,Dunk,70,64
+9:04,Murray State,Brion Whitley,Foul,70,64
+9:04,Eastern Illinois,Ben Harvey,Free Throw,71,64
+8:58,Murray State,Ja Morant,Turnover,71,64
+8:58,Eastern Illinois,Rade Kukobat,Steal,71,64
+8:50,Eastern Illinois,Kashawn Charles,Missed Three Point Jumper,71,64
+8:50,Murray State,Brion Whitley,Defensive Rebound,71,64
+8:47,Eastern Illinois,Rade Kukobat,Foul,71,64
+8:47,Murray State,Brion Whitley,Missed Free Throw,71,64
+8:47,Eastern Illinois,Eastern Illinois,Defensive Rebound,71,64
+8:24,Eastern Illinois,Mack Smith,Missed Three Point Jumper,71,64
+8:24,Murray State,Shaq Buchanan,Defensive Rebound,71,64
+8:10,Murray State,Tevin Brown,Missed Three Point Jumper,71,64
+8:10,Eastern Illinois,Kashawn Charles,Defensive Rebound,71,64
+7:58,Eastern Illinois,Rade Kukobat,Missed Three Point Jumper,71,64
+7:58,Murray State,Tevin Brown,Defensive Rebound,71,64
+7:50,Murray State,Ja Morant,Missed Jumper,71,64
+7:50,Murray State,Darnell Cowart,Offensive Rebound,71,64
+7:46,Eastern Illinois,Rade Kukobat,Foul,71,64
+7:46,Murray State,None,None,71,64
+7:46,Murray State,Darnell Cowart,Free Throw,71,65
+7:46,Murray State,Darnell Cowart,Free Throw,71,66
+7:40,Eastern Illinois,Shareef Smith,Missed Three Point Jumper,71,66
+7:40,Murray State,Tevin Brown,Block,71,66
+7:40,Murray State,Tevin Brown,Defensive Rebound,71,66
+7:15,Murray State,Shaq Buchanan,Three Point Jumper,71,69
+7:15,Eastern Illinois,Shareef Smith,Foul,71,69
+7:15,Murray State,Shaq Buchanan,Free Throw,71,70
+7:10,Eastern Illinois,Josiah Wallace,Turnover,71,70
+7:10,Murray State,Ja Morant,Steal,71,70
+6:50,Murray State,Tevin Brown,Three Point Jumper,71,73
+6:46,Eastern Illinois,None,None,71,73
+6:39,Murray State,Ja Morant,Foul,71,73
+6:14,Eastern Illinois,Eastern Illinois ,Turnover,71,73
+6:05,Murray State,Darnell Cowart,Layup,71,75
+5:43,Eastern Illinois,Shareef Smith,Turnover,71,75
+5:43,Murray State,Brion Whitley,Steal,71,75
+5:33,Murray State,Ja Morant,Missed Jumper,71,75
+5:33,Eastern Illinois,Cam Burrell,Defensive Rebound,71,75
+5:25,Eastern Illinois,Mack Smith,Missed Three Point Jumper,71,75
+5:25,Murray State,Tevin Brown,Defensive Rebound,71,75
+5:00,Murray State,Brion Whitley,Missed Three Point Jumper,71,75
+5:00,Murray State,Darnell Cowart,Offensive Rebound,71,75
+4:55,Murray State,Darnell Cowart,Layup,71,77
+4:49,Eastern Illinois,None,None,71,77
+4:37,Murray State,Brion Whitley,Foul,71,77
+4:32,Murray State,Darnell Cowart,Foul,71,77
+4:23,Eastern Illinois,Mack Smith,Missed Jumper,71,77
+4:23,Murray State,Tevin Brown,Defensive Rebound,71,77
+4:09,Murray State,KJ Williams,Layup,71,79
+3:47,Eastern Illinois,Mack Smith,Missed Jumper,71,79
+3:47,Murray State,Brion Whitley,Defensive Rebound,71,79
+3:24,Murray State,Ja Morant,Missed Three Point Jumper,71,79
+3:24,Eastern Illinois,Ben Harvey,Defensive Rebound,71,79
+3:11,Eastern Illinois,Mack Smith,Turnover,71,79
+3:11,Eastern Illinois,Mack Smith,Foul,71,79
+3:11,Murray State,None,None,71,79
+3:11,Eastern Illinois,JaQualis Matlock,Foul,71,79
+2:58,Murray State,Ja Morant,Turnover,71,79
+2:58,Eastern Illinois,JaQualis Matlock,Steal,71,79
+2:37,Murray State,Brion Whitley,Foul,71,79
+2:37,Eastern Illinois,Josiah Wallace,Free Throw,72,79
+2:37,Eastern Illinois,Josiah Wallace,Free Throw,73,79
+2:08,Murray State,Shaq Buchanan,Missed Three Point Jumper,73,79
+2:08,Eastern Illinois,JaQualis Matlock,Block,73,79
+2:08,Murray State,Murray State,Offensive Rebound,73,79
+2:07,Murray State,Murray State ,Turnover,73,79
+2:00,Eastern Illinois,Ben Harvey,Missed Three Point Jumper,73,79
+2:00,Murray State,Tevin Brown,Defensive Rebound,73,79
+1:29,Murray State,Ja Morant,Jumper,73,81
+1:16,Eastern Illinois,Josiah Wallace,Layup,75,81
+0:45,Eastern Illinois,JaQualis Matlock,Foul,75,81
+0:45,Murray State,Shaq Buchanan,Missed Free Throw,75,81
+0:45,Murray State,None,Team Rebound,75,81
+0:45,Murray State,Shaq Buchanan,Free Throw,75,82
+0:44,Eastern Illinois,Josiah Wallace,Turnover,75,82
+0:44,Murray State,Ja Morant,Steal,75,82
+0:36,Murray State,Ja Morant,Dunk,75,84
+0:28,Eastern Illinois,Kashawn Charles,Missed Three Point Jumper,75,84
+0:28,Eastern Illinois,Cam Burrell,Offensive Rebound,75,84
+0:22,Eastern Illinois,Mack Smith,Missed Three Point Jumper,75,84
+0:22,Murray State,Tevin Brown,Defensive Rebound,75,84
+0:22,Eastern Illinois,Cam Burrell,Foul,75,84
+0:22,Murray State,Tevin Brown,Free Throw,75,85
+0:22,Murray State,Tevin Brown,Free Throw,75,86
+0:12,Eastern Illinois,Josiah Wallace,Missed Three Point Jumper,75,86
+0:12,Murray State,Tevin Brown,Defensive Rebound,75,86
+0:00,Murray State,None,None,75,86

@@ -1,0 +1,305 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:42,San Diego State,Matt Mitchell,Three Point Jumper,3,0
+19:21,Utah State,Brock Miller,Missed Jumper,3,0
+19:21,San Diego State,Jeremy Hemsley,Defensive Rebound,3,0
+19:11,Utah State,Sam Merrill,Foul,3,0
+19:11,San Diego State,Devin Watson,Missed Free Throw,3,0
+19:11,San Diego State,None,Team Rebound,3,0
+19:11,San Diego State,Devin Watson,Free Throw,4,0
+18:51,San Diego State,Jalen McDaniels,Foul,4,0
+18:51,Utah State,Quinn Taylor,Free Throw,4,1
+18:51,Utah State,Quinn Taylor,Free Throw,4,2
+18:30,San Diego State,Matt Mitchell,Missed Three Point Jumper,4,2
+18:30,San Diego State,Nathan Mensah,Offensive Rebound,4,2
+18:29,Utah State,Neemias Queta,Foul,4,2
+18:29,San Diego State,Nathan Mensah,Free Throw,5,2
+18:29,San Diego State,Nathan Mensah,Free Throw,6,2
+18:01,Utah State,Quinn Taylor,Jumper,6,4
+17:37,San Diego State,Devin Watson,Missed Layup,6,4
+17:37,Utah State,Neemias Queta,Block,6,4
+17:35,Utah State,Abel Porter,Defensive Rebound,6,4
+17:13,Utah State,Quinn Taylor,Missed Three Point Jumper,6,4
+17:13,San Diego State,Matt Mitchell,Defensive Rebound,6,4
+16:58,San Diego State,Jeremy Hemsley,Missed Jumper,6,4
+16:58,Utah State,Abel Porter,Defensive Rebound,6,4
+16:45,Utah State,Neemias Queta,Missed Layup,6,4
+16:45,San Diego State,Nathan Mensah,Block,6,4
+16:43,San Diego State,Jalen McDaniels,Defensive Rebound,6,4
+16:37,San Diego State,Jalen McDaniels,Missed Jumper,6,4
+16:37,Utah State,Brock Miller,Defensive Rebound,6,4
+16:17,Utah State,Sam Merrill,Layup,6,6
+15:55,San Diego State,Jalen McDaniels,Missed Jumper,6,6
+15:55,Utah State,Abel Porter,Defensive Rebound,6,6
+15:49,Utah State,Quinn Taylor,Missed Layup,6,6
+15:49,San Diego State,Jalen McDaniels,Defensive Rebound,6,6
+15:41,San Diego State,Devin Watson,Missed Layup,6,6
+15:41,Utah State,Neemias Queta,Defensive Rebound,6,6
+15:18,Utah State,Sam Merrill,Layup,6,8
+14:55,Utah State,Abel Porter,Foul,6,8
+14:55,Utah State,None,None,6,8
+14:44,San Diego State,Matt Mitchell,Missed Jumper,6,8
+14:44,Utah State,Utah State,Defensive Rebound,6,8
+14:26,Utah State,Dwayne Brown Jr.,Turnover,6,8
+14:08,San Diego State,Matt Mitchell,Turnover,6,8
+13:50,Utah State,Dwayne Brown Jr.,Missed Three Point Jumper,6,8
+13:50,San Diego State,Devin Watson,Defensive Rebound,6,8
+13:41,San Diego State,Devin Watson,Missed Layup,6,8
+13:41,Utah State,Abel Porter,Defensive Rebound,6,8
+13:24,Utah State,Neemias Queta,Layup,6,10
+13:06,San Diego State,Nolan Narain,Three Point Jumper,9,10
+12:46,Utah State,Sam Merrill,Layup,9,12
+12:28,San Diego State,Nolan Narain,Missed Layup,9,12
+12:28,Utah State,Neemias Queta,Block,9,12
+12:27,San Diego State,Devin Watson,Offensive Rebound,9,12
+12:22,San Diego State,Devin Watson,Missed Layup,9,12
+12:22,Utah State,Sam Merrill,Defensive Rebound,9,12
+12:16,Utah State,Diogo Brito,Layup,9,14
+11:53,San Diego State,Devin Watson,Turnover,9,14
+11:53,Utah State,Abel Porter,Steal,9,14
+11:49,Utah State,Dwayne Brown Jr.,Dunk,9,16
+11:37,San Diego State,Jordan Schakel,Turnover,9,16
+11:37,San Diego State,Jordan Schakel,Foul,9,16
+11:37,Utah State,None,None,9,16
+11:15,Utah State,Neemias Queta,Layup,9,18
+10:42,Utah State,Diogo Brito,Foul,9,18
+10:42,San Diego State,Adam Seiko,Missed Free Throw,9,18
+10:42,San Diego State,None,Team Rebound,9,18
+10:42,San Diego State,Adam Seiko,Free Throw,10,18
+10:26,Utah State,Sam Merrill,Missed Three Point Jumper,10,18
+10:26,San Diego State,Jeremy Hemsley,Block,10,18
+10:24,San Diego State,Nathan Mensah,Defensive Rebound,10,18
+10:16,San Diego State,Nathan Mensah,Missed Jumper,10,18
+10:16,San Diego State,Jordan Schakel,Offensive Rebound,10,18
+10:11,San Diego State,None,None,12,18
+9:51,Utah State,Dwayne Brown Jr.,Layup,12,20
+9:37,Utah State,Dwayne Brown Jr.,Foul,12,20
+9:37,San Diego State,Aguek Arop,Missed Free Throw,12,20
+9:37,San Diego State,None,Team Rebound,12,20
+9:37,San Diego State,Aguek Arop,Free Throw,13,20
+9:13,Utah State,Diogo Brito,Missed Three Point Jumper,13,20
+9:13,San Diego State,Nathan Mensah,Defensive Rebound,13,20
+8:57,San Diego State,Nathan Mensah,Missed Jumper,13,20
+8:57,Utah State,Justin Bean,Defensive Rebound,13,20
+8:46,Utah State,Brock Miller,Missed Layup,13,20
+8:46,Utah State,Justin Bean,Offensive Rebound,13,20
+8:43,Utah State,Justin Bean,Missed Layup,13,20
+8:43,San Diego State,Aguek Arop,Block,13,20
+8:41,San Diego State,San Diego State,Defensive Rebound,13,20
+8:16,San Diego State,Jalen McDaniels,Missed Jumper,13,20
+8:16,Utah State,Abel Porter,Defensive Rebound,13,20
+7:49,Utah State,None,None,13,20
+7:40,Utah State,Quinn Taylor,Turnover,13,20
+7:39,San Diego State,Nathan Mensah,Steal,13,20
+7:27,San Diego State,Jeremy Hemsley,Turnover,13,20
+7:07,San Diego State,Jalen McDaniels,Foul,13,20
+6:54,San Diego State,Matt Mitchell,Foul,13,20
+6:54,Utah State,Brock Miller,Missed Free Throw,13,20
+6:54,Utah State,None,Team Rebound,13,20
+6:54,Utah State,Brock Miller,Missed Free Throw,13,20
+6:54,San Diego State,Nathan Mensah,Defensive Rebound,13,20
+6:33,San Diego State,Matt Mitchell,Missed Jumper,13,20
+6:33,Utah State,Brock Miller,Block,13,20
+6:30,Utah State,Neemias Queta,Defensive Rebound,13,20
+6:21,Utah State,Neemias Queta,Turnover,13,20
+6:21,Utah State,Neemias Queta,Foul,13,20
+6:08,San Diego State,Matt Mitchell,Turnover,13,20
+5:53,San Diego State,Jeremy Hemsley,Foul,13,20
+5:53,Utah State,Sam Merrill,Free Throw,13,21
+5:53,Utah State,Sam Merrill,Free Throw,13,22
+5:25,San Diego State,Jeremy Hemsley,Missed Jumper,13,22
+5:25,San Diego State,Nathan Mensah,Offensive Rebound,13,22
+5:22,San Diego State,Nathan Mensah,Missed Layup,13,22
+5:22,San Diego State,Aguek Arop,Offensive Rebound,13,22
+5:19,Utah State,Neemias Queta,Foul,13,22
+5:19,San Diego State,Aguek Arop,Missed Free Throw,13,22
+5:19,San Diego State,None,Team Rebound,13,22
+5:19,San Diego State,Aguek Arop,Missed Free Throw,13,22
+5:19,Utah State,Diogo Brito,Defensive Rebound,13,22
+4:58,Utah State,Diogo Brito,Three Point Jumper,13,25
+4:26,San Diego State,Devin Watson,Missed Three Point Jumper,13,25
+4:26,Utah State,Abel Porter,Defensive Rebound,13,25
+4:04,Utah State,Quinn Taylor,Missed Layup,13,25
+4:04,San Diego State,Nathan Mensah,Block,13,25
+4:02,Utah State,Quinn Taylor,Offensive Rebound,13,25
+3:56,Utah State,Abel Porter,Turnover,13,25
+3:56,San Diego State,Aguek Arop,Steal,13,25
+3:50,San Diego State,Devin Watson,Layup,15,25
+3:32,Utah State,Quinn Taylor,Missed Dunk,15,25
+3:32,Utah State,Justin Bean,Offensive Rebound,15,25
+3:30,Utah State,Sam Merrill,Missed Three Point Jumper,15,25
+3:30,San Diego State,Nathan Mensah,Defensive Rebound,15,25
+3:17,Utah State,None,None,15,25
+3:09,San Diego State,Jordan Schakel,Three Point Jumper,18,25
+2:47,Utah State,Sam Merrill,Missed Jumper,18,25
+2:47,San Diego State,Jordan Schakel,Defensive Rebound,18,25
+2:39,San Diego State,Devin Watson,Missed Layup,18,25
+2:39,Utah State,Sam Merrill,Block,18,25
+2:38,Utah State,Abel Porter,Defensive Rebound,18,25
+2:32,Utah State,Abel Porter,Missed Three Point Jumper,18,25
+2:32,Utah State,Diogo Brito,Offensive Rebound,18,25
+2:19,Utah State,Diogo Brito,Missed Three Point Jumper,18,25
+2:19,San Diego State,San Diego State,Defensive Rebound,18,25
+2:05,San Diego State,Jordan Schakel,Missed Three Point Jumper,18,25
+2:05,Utah State,Abel Porter,Defensive Rebound,18,25
+1:47,Utah State,Abel Porter,Missed Layup,18,25
+1:47,San Diego State,Nolan Narain,Block,18,25
+1:45,Utah State,Quinn Taylor,Offensive Rebound,18,25
+1:42,Utah State,None,None,18,27
+1:25,San Diego State,Nolan Narain,Missed Three Point Jumper,18,27
+1:25,Utah State,Abel Porter,Defensive Rebound,18,27
+1:17,Utah State,Sam Merrill,Missed Three Point Jumper,18,27
+1:17,Utah State,Quinn Taylor,Offensive Rebound,18,27
+1:15,San Diego State,Nolan Narain,Foul,18,27
+1:09,Utah State,Quinn Taylor,Layup,18,29
+1:03,San Diego State,None,None,18,29
+0:52,San Diego State,Matt Mitchell,Layup,20,29
+0:52,Utah State,Brock Miller,Foul,20,29
+0:52,San Diego State,Matt Mitchell,Free Throw,21,29
+0:42,Utah State,Sam Merrill,Missed Three Point Jumper,21,29
+0:42,San Diego State,Nathan Mensah,Defensive Rebound,21,29
+0:33,San Diego State,Devin Watson,Missed Layup,21,29
+0:33,Utah State,Quinn Taylor,Defensive Rebound,21,29
+0:27,San Diego State,Matt Mitchell,Foul,21,29
+0:27,Utah State,Diogo Brito,Free Throw,21,30
+0:27,Utah State,Diogo Brito,Free Throw,21,31
+0:07,San Diego State,Jalen McDaniels,Missed Three Point Jumper,21,31
+0:07,Utah State,Sam Merrill,Defensive Rebound,21,31
+0:01,Utah State,Sam Merrill,Missed Three Point Jumper,21,31
+0:01,Utah State,Quinn Taylor,Offensive Rebound,21,31
+0:00,Utah State,None,None,21,31
+19:51,Utah State,Sam Merrill,Missed Three Point Jumper,21,31
+19:51,Utah State,Justin Bean,Offensive Rebound,21,31
+19:46,Utah State,None,None,21,33
+19:21,San Diego State,Jalen McDaniels,Turnover,21,33
+19:06,Utah State,Sam Merrill,Missed Three Point Jumper,21,33
+19:06,San Diego State,Matt Mitchell,Defensive Rebound,21,33
+18:57,San Diego State,Matt Mitchell,Missed Layup,21,33
+18:57,Utah State,Brock Miller,Defensive Rebound,21,33
+18:45,Utah State,Abel Porter,Missed Three Point Jumper,21,33
+18:45,San Diego State,Nathan Mensah,Defensive Rebound,21,33
+18:14,San Diego State,Jalen McDaniels,Jumper,23,33
+17:57,Utah State,Quinn Taylor,Missed Three Point Jumper,23,33
+17:57,San Diego State,Matt Mitchell,Defensive Rebound,23,33
+17:51,San Diego State,Matt Mitchell,Turnover,23,33
+17:48,Utah State,Brock Miller,Steal,23,33
+17:47,Utah State,Brock Miller,Missed Layup,23,33
+17:47,Utah State,Justin Bean,Offensive Rebound,23,33
+17:45,Utah State,Justin Bean,Layup,23,35
+17:35,San Diego State,None,None,23,35
+17:16,San Diego State,Devin Watson,Missed Layup,23,35
+17:16,Utah State,Justin Bean,Block,23,35
+17:15,San Diego State,San Diego State,Offensive Rebound,23,35
+17:10,San Diego State,Devin Watson,Jumper,25,35
+16:50,Utah State,Justin Bean,Layup,25,37
+16:26,San Diego State,Jordan Schakel,Three Point Jumper,28,37
+15:53,Utah State,Brock Miller,Missed Jumper,28,37
+15:53,San Diego State,Nolan Narain,Block,28,37
+15:51,San Diego State,Devin Watson,Defensive Rebound,28,37
+15:49,San Diego State,Devin Watson,Missed Three Point Jumper,28,37
+15:49,Utah State,Sam Merrill,Defensive Rebound,28,37
+15:47,San Diego State,Nolan Narain,Foul,28,37
+15:47,Utah State,None,None,28,37
+15:30,Utah State,Sam Merrill,Missed Layup,28,37
+15:30,Utah State,Neemias Queta,Offensive Rebound,28,37
+15:27,Utah State,None,None,28,39
+15:02,Utah State,Diogo Brito,Foul,28,39
+15:02,San Diego State,Jeremy Hemsley,Turnover,28,39
+14:49,Utah State,Abel Porter,Turnover,28,39
+14:49,Utah State,Abel Porter,Foul,28,39
+14:31,San Diego State,Jordan Schakel,Three Point Jumper,31,39
+14:08,Utah State,Diogo Brito,Layup,31,41
+13:55,San Diego State,Jalen McDaniels,Layup,33,41
+13:44,Utah State,Abel Porter,Missed Layup,33,41
+13:44,San Diego State,Aguek Arop,Block,33,41
+13:41,San Diego State,Jordan Schakel,Defensive Rebound,33,41
+13:20,San Diego State,Nathan Mensah,Jumper,35,41
+12:54,San Diego State,Jalen McDaniels,Foul,35,41
+12:49,Utah State,Sam Merrill,Three Point Jumper,35,44
+12:26,San Diego State,Nathan Mensah,Layup,37,44
+12:10,Utah State,Neemias Queta,Layup,37,46
+12:10,San Diego State,Nathan Mensah,Foul,37,46
+12:10,Utah State,Neemias Queta,Foul,37,46
+12:10,Utah State,Neemias Queta,Foul,37,46
+12:10,San Diego State,Jordan Schakel,Free Throw,38,46
+12:10,San Diego State,Jordan Schakel,Free Throw,39,46
+12:10,Utah State,Neemias Queta,Free Throw,39,47
+11:53,San Diego State,Nathan Mensah,Missed Jumper,39,47
+11:53,Utah State,Sam Merrill,Defensive Rebound,39,47
+11:37,San Diego State,Jordan Schakel,Foul,39,47
+11:37,Utah State,None,None,39,47
+11:37,Utah State,Quinn Taylor,Layup,39,49
+11:13,San Diego State,Jalen McDaniels,Missed Three Point Jumper,39,49
+11:13,Utah State,Quinn Taylor,Defensive Rebound,39,49
+11:02,Utah State,Sam Merrill,Layup,39,51
+10:38,Utah State,Diogo Brito,Foul,39,51
+10:38,San Diego State,Jalen McDaniels,Free Throw,40,51
+10:38,San Diego State,Jalen McDaniels,Missed Free Throw,40,51
+10:38,Utah State,Quinn Taylor,Defensive Rebound,40,51
+10:27,Utah State,Sam Merrill,Missed Layup,40,51
+10:27,San Diego State,Devin Watson,Defensive Rebound,40,51
+10:22,San Diego State,Devin Watson,Missed Layup,40,51
+10:22,Utah State,Quinn Taylor,Defensive Rebound,40,51
+10:13,San Diego State,Matt Mitchell,Foul,40,51
+10:13,Utah State,Sam Merrill,Free Throw,40,52
+10:13,Utah State,Sam Merrill,Free Throw,40,53
+9:57,San Diego State,Jalen McDaniels,Missed Jumper,40,53
+9:57,Utah State,Diogo Brito,Defensive Rebound,40,53
+9:34,San Diego State,Aguek Arop,Foul,40,53
+9:34,Utah State,Sam Merrill,Free Throw,40,54
+9:34,Utah State,Sam Merrill,Free Throw,40,55
+9:20,San Diego State,Jalen McDaniels,Jumper,42,55
+8:57,Utah State,Justin Bean,Dunk,42,57
+8:40,San Diego State,Jalen McDaniels,Missed Layup,42,57
+8:40,Utah State,Sam Merrill,Defensive Rebound,42,57
+8:30,Utah State,Quinn Taylor,Missed Layup,42,57
+8:30,Utah State,Quinn Taylor,Offensive Rebound,42,57
+8:29,San Diego State,Nathan Mensah,Foul,42,57
+8:29,Utah State,Quinn Taylor,Missed Free Throw,42,57
+8:29,Utah State,None,Team Rebound,42,57
+8:29,Utah State,Quinn Taylor,Free Throw,42,58
+8:09,San Diego State,Jeremy Hemsley,Turnover,42,58
+8:08,Utah State,Justin Bean,Steal,42,58
+8:04,Utah State,Justin Bean,Layup,42,60
+7:56,San Diego State,None,None,42,60
+7:56,Utah State,None,None,42,60
+7:51,San Diego State,Devin Watson,Missed Jumper,42,60
+7:51,San Diego State,San Diego State,Offensive Rebound,42,60
+7:43,San Diego State,Aguek Arop,Layup,44,60
+7:10,Utah State,Sam Merrill,Missed Jumper,44,60
+7:10,San Diego State,San Diego State,Defensive Rebound,44,60
+6:52,San Diego State,Nolan Narain,Missed Jumper,44,60
+6:52,Utah State,Justin Bean,Defensive Rebound,44,60
+6:30,Utah State,Justin Bean,Missed Jumper,44,60
+6:30,Utah State,Quinn Taylor,Offensive Rebound,44,60
+6:26,Utah State,None,None,44,62
+5:57,San Diego State,Devin Watson,Missed Layup,44,62
+5:57,Utah State,Justin Bean,Defensive Rebound,44,62
+5:26,Utah State,Quinn Taylor,Turnover,44,62
+5:25,San Diego State,Jeremy Hemsley,Steal,44,62
+5:22,San Diego State,Jeremy Hemsley,Missed Layup,44,62
+5:22,Utah State,Diogo Brito,Defensive Rebound,44,62
+4:53,Utah State,Diogo Brito,Missed Three Point Jumper,44,62
+4:53,Utah State,Quinn Taylor,Offensive Rebound,44,62
+4:22,Utah State,Sam Merrill,Layup,44,64
+3:53,San Diego State,Nolan Narain,Layup,46,64
+3:26,Utah State,Abel Porter,Three Point Jumper,46,67
+3:08,Utah State,Abel Porter,Foul,46,67
+3:08,Utah State,None,None,46,67
+2:59,San Diego State,Jordan Schakel,Jumper,48,67
+2:33,Utah State,Sam Merrill,Missed Three Point Jumper,48,67
+2:33,San Diego State,Jalen McDaniels,Defensive Rebound,48,67
+2:23,San Diego State,Matt Mitchell,Turnover,48,67
+2:23,San Diego State,Matt Mitchell,Foul,48,67
+2:01,Utah State,Sam Merrill,Missed Layup,48,67
+2:01,San Diego State,Matt Mitchell,Block,48,67
+2:00,San Diego State,Aguek Arop,Defensive Rebound,48,67
+1:52,San Diego State,Matt Mitchell,Three Point Jumper,51,67
+1:19,Utah State,Sam Merrill,Missed Jumper,51,67
+1:19,Utah State,Justin Bean,Offensive Rebound,51,67
+1:16,Utah State,Diogo Brito,Three Point Jumper,51,70
+1:00,San Diego State,Nolan Narain,Missed Three Point Jumper,51,70
+1:00,Utah State,Abel Porter,Defensive Rebound,51,70
+0:30,Utah State,Quinn Taylor,Missed Three Point Jumper,51,70
+0:30,San Diego State,Jalen McDaniels,Defensive Rebound,51,70
+0:14,San Diego State,Matt Mitchell,Three Point Jumper,54,70
+0:00,Utah State,None,None,54,70

@@ -1,0 +1,320 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:33,Rutgers,Montez Mathis,Turnover,0,0
+19:33,Northwestern,Dererk Pardon,Steal,0,0
+19:13,Northwestern,Vic Law,Turnover,0,0
+18:59,Rutgers,Geo Baker,Three Point Jumper,0,3
+18:48,Northwestern,Barret Benson,Foul,0,3
+18:48,Northwestern,Barret Benson,Turnover,0,3
+18:18,Rutgers,Shaq Carter,Jumper,0,5
+17:59,Northwestern,Vic Law,Turnover,0,5
+17:59,Rutgers,Ron Harper Jr.,Steal,0,5
+17:58,Rutgers,Montez Mathis,Dunk,0,7
+17:57,Northwestern,None,None,0,7
+17:35,Northwestern,Vic Law,Missed Three Point Jumper,0,7
+17:32,Rutgers,Ron Harper Jr.,Defensive Rebound,0,7
+17:09,Rutgers,Geo Baker,Missed Three Point Jumper,0,7
+17:09,Northwestern,Northwestern,Defensive Rebound,0,7
+16:52,Northwestern,Ryan Taylor,Three Point Jumper,3,7
+16:27,Rutgers,Shaq Carter,Layup,3,9
+15:54,Northwestern,Ryan Taylor,Turnover,3,9
+15:54,Rutgers,Shaquille Doorson,Steal,3,9
+15:45,Rutgers,Shaquille Doorson,Missed Layup,3,9
+15:44,Northwestern,Barret Benson,Defensive Rebound,3,9
+15:27,Rutgers,Geo Baker,Foul,3,9
+15:27,Rutgers,None,None,3,9
+15:15,Northwestern,Pete Nance,Three Point Jumper,6,9
+14:47,Rutgers,Montez Mathis,Missed Layup,6,9
+14:47,Northwestern,Anthony Gaines,Block,6,9
+14:43,Northwestern,Pete Nance,Defensive Rebound,6,9
+14:20,Rutgers,Montez Mathis,Turnover,8,9
+14:20,Northwestern,Vic Law,Steal,8,9
+14:12,Northwestern,Ryan Taylor,Missed Three Point Jumper,8,9
+14:10,Northwestern,Vic Law,Offensive Rebound,8,9
+14:00,Northwestern,Ryan Taylor,Missed Three Point Jumper,8,9
+13:57,Rutgers,Myles Johnson,Defensive Rebound,8,9
+13:42,Rutgers,Shaq Carter,Three Point Jumper,8,12
+13:18,Northwestern,Anthony Gaines,Missed Layup,8,12
+13:15,Rutgers,Caleb McConnell,Defensive Rebound,8,12
+12:59,Rutgers,Geo Baker,Missed Three Point Jumper,8,12
+12:56,Northwestern,Vic Law,Defensive Rebound,8,12
+12:08,Rutgers,Montez Mathis,Missed Three Point Jumper,10,12
+12:06,Northwestern,Dererk Pardon,Defensive Rebound,10,12
+11:59,Northwestern,Dererk Pardon,Dunk,12,12
+11:35,Rutgers,None,None,12,12
+11:29,Rutgers,Caleb McConnell,Turnover,12,12
+11:29,Northwestern,A.J. Turner,Steal,12,12
+11:25,Rutgers,Peter Kiss,Foul,12,12
+11:06,Northwestern,Miller Kopp,Turnover,12,12
+10:43,Rutgers,Ron Harper Jr.,Missed Three Point Jumper,12,12
+10:43,Northwestern,Northwestern,Defensive Rebound,12,12
+10:25,Northwestern,Miller Kopp,Three Point Jumper,15,12
+10:03,Rutgers,Caleb McConnell,Turnover,15,12
+9:46,Northwestern,A.J. Turner,Missed Three Point Jumper,15,12
+9:43,Rutgers,Ron Harper Jr.,Defensive Rebound,15,12
+9:42,Northwestern,Miller Kopp,Foul,15,12
+9:35,Rutgers,Geo Baker,Missed Layup,15,12
+9:35,Northwestern,Anthony Gaines,Block,15,12
+9:29,Northwestern,Dererk Pardon,Defensive Rebound,15,12
+9:28,Northwestern,Dererk Pardon,Turnover,15,12
+9:28,Rutgers,Geo Baker,Steal,15,12
+9:22,Rutgers,Peter Kiss,Three Point Jumper,15,15
+8:58,Northwestern,Ryan Taylor,Three Point Jumper,18,15
+8:37,Northwestern,Ryan Taylor,Foul,18,15
+8:22,Rutgers,Shaq Carter,Turnover,18,15
+8:22,Northwestern,Vic Law,Steal,18,15
+8:07,Rutgers,Issa Thiam,Foul,18,15
+7:57,Northwestern,Ryan Taylor,Jumper,20,15
+7:47,Northwestern,Vic Law,Foul,20,15
+7:47,Rutgers,None,None,20,15
+7:31,Rutgers,Montez Mathis,Layup,20,17
+7:12,Northwestern,Vic Law,Missed Three Point Jumper,20,17
+7:08,Rutgers,Shaq Carter,Defensive Rebound,20,17
+7:03,Rutgers,Geo Baker,Jumper,20,19
+6:45,Northwestern,None,None,20,19
+6:23,Rutgers,Shaquille Doorson,Foul,22,19
+6:23,Rutgers,Shaquille Doorson,Turnover,22,19
+6:03,Northwestern,Vic Law,Missed Jumper,22,19
+5:59,Northwestern,Dererk Pardon,Offensive Rebound,22,19
+5:59,Northwestern,Dererk Pardon,Layup,24,19
+5:45,Rutgers,Myles Johnson,Layup,24,21
+5:29,Rutgers,Montez Mathis,Foul,24,21
+5:21,Northwestern,Vic Law,Turnover,24,21
+5:21,Rutgers,Montez Mathis,Steal,24,21
+5:06,Rutgers,Geo Baker,Missed Jumper,24,21
+5:06,Rutgers,Caleb McConnell,Offensive Rebound,24,21
+5:06,Northwestern,Dererk Pardon,Foul,24,21
+5:06,Rutgers,Myles Johnson,Missed Free Throw,24,21
+5:06,Rutgers,None,Team Rebound,24,21
+5:06,Rutgers,Myles Johnson,Free Throw,24,22
+4:43,Northwestern,Pete Nance,Jumper,26,22
+4:17,Rutgers,Ron Harper Jr.,Missed Layup,26,22
+4:13,Northwestern,Anthony Gaines,Defensive Rebound,26,22
+4:04,Northwestern,Ryan Taylor,Missed Three Point Jumper,26,22
+4:02,Rutgers,Montez Mathis,Defensive Rebound,26,22
+4:00,Northwestern,Vic Law,Foul,26,22
+4:00,Rutgers,None,None,26,22
+4:00,Rutgers,Montez Mathis,Free Throw,26,23
+4:00,Rutgers,Montez Mathis,Free Throw,26,24
+3:29,Northwestern,Ryan Taylor,Missed Jumper,26,24
+3:26,Rutgers,Myles Johnson,Defensive Rebound,26,24
+3:23,Rutgers,Geo Baker,Missed Three Point Jumper,26,24
+3:20,Northwestern,Ryan Taylor,Defensive Rebound,26,24
+3:07,Northwestern,Dererk Pardon,Layup,28,24
+3:07,Rutgers,Myles Johnson,Foul,28,24
+3:07,Northwestern,Dererk Pardon,Missed Free Throw,28,24
+3:07,Rutgers,Caleb McConnell,Defensive Rebound,28,24
+2:49,Rutgers,Caleb McConnell,Missed Three Point Jumper,28,24
+2:44,Northwestern,Barret Benson,Defensive Rebound,28,24
+2:29,Northwestern,Anthony Gaines,Missed Layup,28,24
+2:29,Rutgers,Montez Mathis,Block,28,24
+2:21,Rutgers,Shaquille Doorson,Defensive Rebound,28,24
+2:20,Rutgers,Shaq Carter,Layup,28,26
+1:45,Rutgers,Geo Baker,Missed Layup,30,26
+1:42,Northwestern,Dererk Pardon,Defensive Rebound,30,26
+1:32,Northwestern,Barret Benson,Three Point Jumper,33,26
+1:30,Rutgers,None,None,33,26
+1:00,Rutgers,Rutgers ,Turnover,33,26
+0:38,Rutgers,Shaq Carter,Defensive Rebound,33,26
+0:33,Rutgers,Caleb McConnell,Missed Layup,33,26
+0:33,Northwestern,Dererk Pardon,Block,33,26
+0:27,Northwestern,Barret Benson,Defensive Rebound,33,26
+0:03,Northwestern,Anthony Gaines,Missed Three Point Jumper,33,26
+0:00,Rutgers,Issa Thiam,Defensive Rebound,33,26
+0:00,Rutgers,None,None,33,26
+19:38,Northwestern,Ryan Taylor,Missed Three Point Jumper,33,26
+19:38,Rutgers,Rutgers,Defensive Rebound,33,26
+19:24,Rutgers,Montez Mathis,Missed Layup,33,26
+19:24,Northwestern,Northwestern,Defensive Rebound,33,26
+18:56,Northwestern,Dererk Pardon,Missed Jumper,33,26
+18:53,Northwestern,Barret Benson,Offensive Rebound,33,26
+18:52,Northwestern,Barret Benson,Missed Jumper,33,26
+18:47,Rutgers,Ron Harper Jr.,Defensive Rebound,33,26
+18:46,Northwestern,Ryan Taylor,Foul,33,26
+18:46,Rutgers,Ron Harper Jr.,Missed Free Throw,33,26
+18:46,Rutgers,None,Team Rebound,33,26
+18:46,Rutgers,Ron Harper Jr.,Free Throw,33,27
+18:23,Northwestern,Anthony Gaines,Three Point Jumper,36,27
+17:58,Rutgers,Shaq Carter,Missed Layup,36,27
+17:55,Northwestern,Vic Law,Defensive Rebound,36,27
+17:45,Rutgers,Shaquille Doorson,Foul,36,27
+17:45,Northwestern,Dererk Pardon,Free Throw,37,27
+17:45,Northwestern,Dererk Pardon,Missed Free Throw,37,27
+17:45,Rutgers,Shaq Carter,Defensive Rebound,37,27
+17:28,Rutgers,Ron Harper Jr.,Missed Jumper,37,27
+17:25,Rutgers,Shaq Carter,Offensive Rebound,37,27
+17:22,Rutgers,Montez Mathis,Layup,37,29
+17:10,Rutgers,Montez Mathis,Foul,37,29
+16:57,Northwestern,Ryan Taylor,Missed Jumper,37,29
+16:52,Rutgers,Shaq Carter,Defensive Rebound,37,29
+16:51,Rutgers,Geo Baker,Turnover,37,29
+16:51,Northwestern,Dererk Pardon,Steal,37,29
+16:45,Rutgers,Geo Baker,Foul,37,29
+16:34,Northwestern,Dererk Pardon,Missed Three Point Jumper,37,29
+16:30,Rutgers,Montez Mathis,Defensive Rebound,37,29
+16:29,Northwestern,Vic Law,Foul,37,29
+16:23,Rutgers,Peter Kiss,Missed Three Point Jumper,37,29
+16:20,Northwestern,A.J. Turner,Defensive Rebound,37,29
+16:05,Northwestern,A.J. Turner,Missed Layup,37,29
+16:02,Rutgers,Shaq Carter,Defensive Rebound,37,29
+15:59,Rutgers,Myles Johnson,Foul,37,29
+15:59,Rutgers,None,None,37,29
+15:59,Rutgers,Myles Johnson,Turnover,37,29
+15:51,Northwestern,Barret Benson,Turnover,37,29
+15:51,Rutgers,Issa Thiam,Steal,37,29
+15:29,Rutgers,Issa Thiam,Three Point Jumper,37,32
+15:02,Northwestern,A.J. Turner,Turnover,37,32
+14:41,Rutgers,Myles Johnson,Missed Layup,37,32
+14:41,Northwestern,Dererk Pardon,Defensive Rebound,37,32
+14:40,Rutgers,Myles Johnson,Offensive Rebound,37,32
+14:39,Rutgers,Caleb McConnell,Foul,37,32
+14:37,Northwestern,A.J. Turner,Missed Layup,37,32
+14:34,Rutgers,Caleb McConnell,Defensive Rebound,37,32
+14:31,Rutgers,Peter Kiss,Dunk,37,34
+14:15,Northwestern,Anthony Gaines,Foul,37,34
+14:15,Northwestern,Anthony Gaines,Turnover,37,34
+13:35,Rutgers,Caleb McConnell,Missed Three Point Jumper,37,34
+13:32,Northwestern,Vic Law,Defensive Rebound,37,34
+13:13,Rutgers,Shaq Carter,Foul,37,34
+13:05,Northwestern,Anthony Gaines,Missed Layup,37,34
+13:05,Northwestern,Anthony Gaines,Offensive Rebound,37,34
+13:03,Northwestern,Anthony Gaines,Missed Layup,37,34
+13:02,Rutgers,Myles Johnson,Defensive Rebound,37,34
+13:01,Northwestern,Miller Kopp,Foul,37,34
+13:01,Rutgers,Ron Harper Jr.,Free Throw,37,35
+13:01,Rutgers,Ron Harper Jr.,Free Throw,37,36
+12:52,Rutgers,Ron Harper Jr.,Foul,37,36
+12:52,Northwestern,Pete Nance,Free Throw,38,36
+12:52,Northwestern,Pete Nance,Free Throw,39,36
+12:34,Rutgers,Caleb McConnell,Turnover,39,36
+12:34,Northwestern,Miller Kopp,Steal,39,36
+12:25,Northwestern,Miller Kopp,Missed Layup,39,36
+12:19,Northwestern,Anthony Gaines,Offensive Rebound,39,36
+12:19,Northwestern,Anthony Gaines,Dunk,41,36
+12:17,Rutgers,Caleb McConnell,Turnover,41,36
+11:57,Rutgers,Myles Johnson,Foul,41,36
+11:57,Rutgers,None,None,41,36
+11:57,Northwestern,Barret Benson,Missed Free Throw,41,36
+11:57,Northwestern,None,Team Rebound,41,36
+11:57,Northwestern,Barret Benson,Free Throw,42,36
+11:48,Northwestern,Pete Nance,Foul,42,36
+11:37,Rutgers,Ron Harper Jr.,Missed Three Point Jumper,42,36
+11:36,Northwestern,Northwestern,Defensive Rebound,42,36
+11:12,Northwestern,Vic Law,Missed Three Point Jumper,42,36
+11:09,Rutgers,Ron Harper Jr.,Defensive Rebound,42,36
+11:07,Rutgers,Ron Harper Jr.,Missed Jumper,42,36
+11:04,Northwestern,Anthony Gaines,Defensive Rebound,42,36
+10:41,Northwestern,Vic Law,Turnover,42,36
+10:41,Rutgers,Issa Thiam,Steal,42,36
+10:37,Northwestern,Pete Nance,Foul,42,36
+10:37,Rutgers,Montez Mathis,Missed Free Throw,42,36
+10:37,Rutgers,None,Team Rebound,42,36
+10:37,Rutgers,Montez Mathis,Free Throw,42,37
+9:46,Rutgers,Geo Baker,Missed Layup,44,37
+9:46,Northwestern,Anthony Gaines,Block,44,37
+9:40,Northwestern,Anthony Gaines,Defensive Rebound,44,37
+9:40,Northwestern,Miller Kopp,Three Point Jumper,47,37
+9:40,Rutgers,None,None,47,37
+9:40,Rutgers,None,None,47,37
+9:31,Northwestern,Ryan Taylor,Foul,47,37
+9:31,Rutgers,Geo Baker,Missed Free Throw,47,37
+9:29,Northwestern,Anthony Gaines,Defensive Rebound,47,37
+9:12,Northwestern,Vic Law,Missed Jumper,47,37
+9:09,Rutgers,Shaq Carter,Defensive Rebound,47,37
+8:17,Northwestern,Vic Law,Missed Jumper,47,39
+8:14,Rutgers,Shaq Carter,Defensive Rebound,47,39
+8:11,Northwestern,Ryan Taylor,Foul,47,39
+8:11,Rutgers,Geo Baker,Free Throw,47,40
+8:11,Rutgers,Geo Baker,Free Throw,47,41
+8:05,Rutgers,Shaquille Doorson,Foul,47,41
+8:05,Northwestern,Anthony Gaines,Free Throw,48,41
+8:05,Northwestern,Anthony Gaines,Free Throw,49,41
+7:55,Northwestern,Miller Kopp,Foul,49,41
+7:55,Rutgers,None,None,49,41
+7:55,Rutgers,Montez Mathis,Missed Free Throw,49,41
+7:55,Rutgers,Shaquille Doorson,Offensive Rebound,49,41
+7:50,Rutgers,Montez Mathis,Turnover,49,41
+7:35,Northwestern,Anthony Gaines,Missed Layup,49,41
+7:35,Rutgers,Shaquille Doorson,Block,49,41
+7:35,Northwestern,Northwestern,Offensive Rebound,49,41
+7:20,Northwestern,Miller Kopp,Missed Jumper,49,41
+7:19,Rutgers,Montez Mathis,Defensive Rebound,49,41
+7:18,Northwestern,Barret Benson,Foul,49,41
+7:18,Rutgers,Montez Mathis,Free Throw,49,42
+7:18,Rutgers,Montez Mathis,Free Throw,49,43
+6:59,Northwestern,Barret Benson,Turnover,49,43
+6:59,Rutgers,Montez Mathis,Steal,49,43
+6:55,Rutgers,Montez Mathis,Dunk,49,45
+6:36,Northwestern,Anthony Gaines,Turnover,49,45
+6:36,Rutgers,Geo Baker,Steal,49,45
+6:35,Rutgers,Geo Baker,Layup,49,47
+6:35,Northwestern,None,None,49,47
+6:11,Rutgers,Shaq Carter,Defensive Rebound,49,47
+5:58,Rutgers,Montez Mathis,Layup,49,49
+5:58,Northwestern,Barret Benson,Foul,49,49
+5:58,Rutgers,Montez Mathis,Missed Free Throw,49,49
+5:58,Northwestern,Vic Law,Defensive Rebound,49,49
+5:32,Northwestern,Anthony Gaines,Missed Layup,49,49
+5:32,Rutgers,Shaq Carter,Block,49,49
+5:27,Rutgers,Montez Mathis,Defensive Rebound,49,49
+5:23,Rutgers,Montez Mathis,Missed Three Point Jumper,49,49
+5:21,Northwestern,Barret Benson,Defensive Rebound,49,49
+5:03,Northwestern,Vic Law,Missed Three Point Jumper,49,49
+5:00,Rutgers,Issa Thiam,Defensive Rebound,49,49
+4:55,Rutgers,Issa Thiam,Missed Three Point Jumper,49,49
+4:52,Rutgers,Shaquille Doorson,Offensive Rebound,49,49
+4:45,Rutgers,Shaq Carter,Foul,49,49
+4:45,Rutgers,Shaq Carter,Turnover,49,49
+4:25,Northwestern,Vic Law,Layup,51,49
+3:57,Rutgers,Geo Baker,Missed Jumper,51,49
+3:57,Rutgers,Shaquille Doorson,Offensive Rebound,51,49
+3:57,Northwestern,Dererk Pardon,Foul,51,49
+3:57,Rutgers,None,None,51,49
+3:57,Rutgers,Shaquille Doorson,Missed Free Throw,51,49
+3:57,Rutgers,None,Team Rebound,51,49
+3:57,Rutgers,Shaquille Doorson,Free Throw,51,50
+3:42,Northwestern,Ryan Taylor,Three Point Jumper,54,50
+3:27,Rutgers,Geo Baker,Layup,54,52
+3:02,Rutgers,Shaquille Doorson,Foul,54,52
+3:02,Northwestern,Dererk Pardon,Free Throw,55,52
+3:02,Northwestern,Dererk Pardon,Free Throw,56,52
+2:48,Rutgers,Geo Baker,Missed Three Point Jumper,56,52
+2:48,Northwestern,Vic Law,Defensive Rebound,56,52
+2:47,Northwestern,None,None,56,52
+2:29,Northwestern,Ryan Taylor,Three Point Jumper,59,52
+2:18,Northwestern,A.J. Turner,Foul,59,52
+2:18,Rutgers,Montez Mathis,Missed Free Throw,59,52
+2:18,Rutgers,None,Team Rebound,59,52
+2:18,Rutgers,Montez Mathis,Free Throw,59,53
+2:18,Rutgers,None,None,59,53
+1:52,Northwestern,Ryan Taylor,Missed Three Point Jumper,59,53
+1:48,Rutgers,Shaq Carter,Defensive Rebound,59,53
+1:44,Rutgers,Geo Baker,Missed Jumper,59,53
+1:41,Northwestern,Dererk Pardon,Defensive Rebound,59,53
+1:15,Northwestern,Vic Law,Missed Three Point Jumper,59,53
+1:15,Northwestern,Dererk Pardon,Offensive Rebound,59,53
+1:15,Rutgers,Shaquille Doorson,Foul,59,53
+1:15,Northwestern,Dererk Pardon,Free Throw,60,53
+1:15,Northwestern,Dererk Pardon,Free Throw,61,53
+1:05,Northwestern,A.J. Turner,Foul,61,53
+1:05,Rutgers,Ron Harper Jr.,Free Throw,61,54
+1:05,Rutgers,Ron Harper Jr.,Missed Free Throw,61,54
+1:05,Northwestern,Vic Law,Defensive Rebound,61,54
+0:52,Rutgers,Ron Harper Jr.,Foul,61,54
+0:52,Northwestern,Vic Law,Free Throw,62,54
+0:52,Northwestern,Vic Law,Free Throw,63,54
+0:37,Rutgers,Montez Mathis,Missed Layup,63,54
+0:37,Rutgers,Ron Harper Jr.,Offensive Rebound,63,54
+0:37,Rutgers,Ron Harper Jr.,Layup,63,56
+0:37,Rutgers,None,None,63,56
+0:36,Northwestern,Ryan Taylor,Turnover,63,56
+0:33,Northwestern,Vic Law,Foul,63,56
+0:33,Rutgers,Geo Baker,Missed Free Throw,63,56
+0:33,Rutgers,None,Team Rebound,63,56
+0:33,Rutgers,Geo Baker,Free Throw,63,57
+0:28,Rutgers,Ron Harper Jr.,Foul,63,57
+0:28,Northwestern,Anthony Gaines,Free Throw,64,57
+0:28,Northwestern,Anthony Gaines,Free Throw,65,57
+0:14,Rutgers,Peter Kiss,Missed Three Point Jumper,65,57
+0:11,Northwestern,Ryan Taylor,Defensive Rebound,65,57
+0:00,Rutgers,None,None,65,57
+0:00,Rutgers,None,None,65,57

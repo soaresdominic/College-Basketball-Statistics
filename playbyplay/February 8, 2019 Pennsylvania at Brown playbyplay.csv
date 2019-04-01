@@ -1,0 +1,339 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:35,Brown,Matt DeWolf,Turnover,0,0
+19:34,Pennsylvania,Devon Goodman,Steal,0,0
+19:31,Pennsylvania,Devon Goodman,Layup,2,0
+19:17,Brown,Desmond Cambridge,Turnover,2,0
+19:15,Pennsylvania,Devon Goodman,Steal,2,0
+19:13,Pennsylvania,Devon Goodman,Layup,4,0
+18:52,Brown,Tamenang Choh,Three Point Jumper,4,3
+18:20,Pennsylvania,AJ Brodeur,Missed Jumper,4,3
+18:20,Brown,Tamenang Choh,Defensive Rebound,4,3
+18:12,Brown,Tamenang Choh,Missed Layup,4,3
+18:12,Pennsylvania,AJ Brodeur,Defensive Rebound,4,3
+18:04,Pennsylvania,AJ Brodeur,Layup,6,3
+17:53,Brown,Desmond Cambridge,Missed Jumper,6,3
+17:53,Pennsylvania,Devon Goodman,Defensive Rebound,6,3
+17:39,Pennsylvania,AJ Brodeur,Three Point Jumper,9,3
+17:21,Brown,Matt DeWolf,Missed Layup,9,3
+17:21,Pennsylvania,AJ Brodeur,Block,9,3
+17:19,Pennsylvania,Devon Goodman,Defensive Rebound,9,3
+17:15,Pennsylvania,Bryce Washington,Missed Three Point Jumper,9,3
+17:15,Brown,Zach Hunsaker,Defensive Rebound,9,3
+17:08,Brown,Zach Hunsaker,Missed Layup,9,3
+17:08,Pennsylvania,AJ Brodeur,Defensive Rebound,9,3
+16:44,Pennsylvania,AJ Brodeur,Layup,11,3
+16:22,Brown,Desmond Cambridge,Missed Jumper,11,3
+16:22,Pennsylvania,AJ Brodeur,Defensive Rebound,11,3
+16:01,Brown,Matt DeWolf,Foul,11,3
+15:51,Pennsylvania,Max Rothschild,Layup,13,3
+15:49,Brown,None,None,13,3
+15:49,Brown,None,None,13,3
+15:37,Brown,Desmond Cambridge,Layup,13,5
+15:13,Pennsylvania,AJ Brodeur,Missed Layup,13,5
+15:13,Brown,Tamenang Choh,Defensive Rebound,13,5
+15:06,Brown,David Mitchell,Missed Layup,13,5
+15:06,Pennsylvania,Antonio Woods,Defensive Rebound,13,5
+14:50,Pennsylvania,AJ Brodeur,Missed Layup,13,5
+14:50,Brown,David Mitchell,Block,13,5
+14:48,Brown,Zach Hunsaker,Defensive Rebound,13,5
+14:45,Brown,Desmond Cambridge,Missed Three Point Jumper,13,5
+14:45,Brown,Zach Hunsaker,Offensive Rebound,13,5
+14:31,Brown,Zach Hunsaker,Turnover,13,5
+14:31,Brown,Zach Hunsaker,Foul,13,5
+14:21,Pennsylvania,Devon Goodman,Three Point Jumper,16,5
+14:09,Brown,David Mitchell,Missed Three Point Jumper,16,5
+14:09,Brown,Desmond Cambridge,Offensive Rebound,16,5
+14:06,Brown,George Mawanda-Kalema,Missed Three Point Jumper,16,5
+14:06,Pennsylvania,Bryce Washington,Defensive Rebound,16,5
+13:45,Pennsylvania,Max Rothschild,Turnover,16,5
+13:45,Pennsylvania,Max Rothschild,Foul,16,5
+13:32,Brown,Desmond Cambridge,Three Point Jumper,16,8
+13:09,Pennsylvania,Devon Goodman,Missed Three Point Jumper,16,8
+13:09,Brown,Brown,Defensive Rebound,16,8
+12:46,Brown,Obi Okolie,Layup,16,10
+12:33,Pennsylvania,Jake Silpe,Layup,18,10
+12:20,Brown,Obi Okolie,Turnover,18,10
+12:20,Brown,Obi Okolie,Foul,18,10
+12:02,Pennsylvania,Michael Wang,Turnover,18,10
+12:01,Brown,David Mitchell,Steal,18,10
+11:49,Brown,Tamenang Choh,Missed Layup,18,10
+11:49,Pennsylvania,Jake Silpe,Defensive Rebound,18,10
+11:43,Pennsylvania,Jackson Donahue,Missed Three Point Jumper,18,10
+11:43,Pennsylvania,Michael Wang,Offensive Rebound,18,10
+11:30,Pennsylvania,Michael Wang,Three Point Jumper,21,10
+11:14,Brown,Tamenang Choh,Turnover,21,10
+11:14,Brown,None,None,21,10
+10:54,Pennsylvania,Michael Wang,Turnover,21,10
+10:39,Brown,Desmond Cambridge,Missed Jumper,21,10
+10:39,Pennsylvania,AJ Brodeur,Defensive Rebound,21,10
+10:20,Pennsylvania,Antonio Woods,Missed Three Point Jumper,21,10
+10:20,Brown,Obi Okolie,Defensive Rebound,21,10
+10:11,Brown,Obi Okolie,Jumper,21,12
+9:49,Pennsylvania,Jake Silpe,Three Point Jumper,24,12
+9:36,Brown,Desmond Cambridge,Three Point Jumper,24,15
+9:19,Pennsylvania,AJ Brodeur,Missed Three Point Jumper,24,15
+9:19,Brown,Brown,Defensive Rebound,24,15
+8:49,Brown,Brandon Anderson,Missed Layup,24,15
+8:49,Pennsylvania,AJ Brodeur,Defensive Rebound,24,15
+8:38,Pennsylvania,Antonio Woods,Missed Three Point Jumper,24,15
+8:38,Brown,Tamenang Choh,Defensive Rebound,24,15
+8:31,Brown,Brandon Anderson,Layup,24,17
+8:08,Pennsylvania,Bryce Washington,Three Point Jumper,27,17
+7:56,Brown,Desmond Cambridge,Missed Jumper,27,17
+7:56,Pennsylvania,Bryce Washington,Defensive Rebound,27,17
+7:36,Brown,Brandon Anderson,Foul,27,17
+7:36,Brown,None,None,27,17
+7:36,Pennsylvania,Bryce Washington,Free Throw,28,17
+7:36,Pennsylvania,Bryce Washington,Missed Free Throw,28,17
+7:36,Pennsylvania,None,Team Rebound,28,17
+7:36,Pennsylvania,Bryce Washington,Free Throw,29,17
+7:29,Pennsylvania,AJ Brodeur,Foul,29,17
+7:15,Brown,Desmond Cambridge,Jumper,29,19
+6:56,Pennsylvania,AJ Brodeur,Jumper,31,19
+6:42,Pennsylvania,AJ Brodeur,Foul,31,19
+6:42,Brown,Brandon Anderson,Missed Free Throw,31,19
+6:42,Brown,None,Team Rebound,31,19
+6:42,Brown,Brandon Anderson,Missed Free Throw,31,19
+6:42,Pennsylvania,Antonio Woods,Defensive Rebound,31,19
+6:27,Pennsylvania,Devon Goodman,Turnover,31,19
+6:27,Pennsylvania,Devon Goodman,Foul,31,19
+6:17,Brown,Tamenang Choh,Missed Three Point Jumper,31,19
+6:17,Pennsylvania,Devon Goodman,Defensive Rebound,31,19
+6:03,Pennsylvania,Max Rothschild,Layup,33,19
+5:54,Brown,Desmond Cambridge,Three Point Jumper,33,22
+5:36,Pennsylvania,Max Rothschild,Missed Layup,33,22
+5:36,Pennsylvania,Pennsylvania,Offensive Rebound,33,22
+5:17,Brown,Obi Okolie,Foul,33,22
+5:15,Pennsylvania,Bryce Washington,Missed Layup,33,22
+5:15,Brown,Obi Okolie,Defensive Rebound,33,22
+5:08,Brown,Obi Okolie,Layup,33,24
+4:41,Pennsylvania,Michael Wang,Three Point Jumper,36,24
+4:15,Brown,Zach Hunsaker,Three Point Jumper,36,27
+3:48,Pennsylvania,Michael Wang,Three Point Jumper,39,27
+3:37,Brown,Desmond Cambridge,Turnover,39,27
+3:36,Pennsylvania,Max Rothschild,Steal,39,27
+3:33,Pennsylvania,Max Rothschild,Missed Layup,39,27
+3:33,Brown,Tamenang Choh,Block,39,27
+3:32,Pennsylvania,Max Rothschild,Offensive Rebound,39,27
+3:16,Pennsylvania,Max Rothschild,Turnover,39,27
+3:16,Brown,David Mitchell,Steal,39,27
+3:16,Brown,None,None,39,27
+3:05,Pennsylvania,Jake Silpe,Foul,39,27
+3:01,Brown,Tamenang Choh,Jumper,39,29
+2:31,Pennsylvania,None,None,39,29
+2:28,Pennsylvania,Antonio Woods,Missed Three Point Jumper,39,29
+2:28,Pennsylvania,Michael Wang,Offensive Rebound,39,29
+2:23,Pennsylvania,Devon Goodman,Missed Three Point Jumper,39,29
+2:23,Pennsylvania,Max Rothschild,Offensive Rebound,39,29
+2:12,Pennsylvania,Devon Goodman,Layup,41,29
+1:39,Brown,Obi Okolie,Jumper,41,31
+1:23,Pennsylvania,Antonio Woods,Three Point Jumper,44,31
+1:06,Brown,Obi Okolie,Missed Layup,44,31
+1:06,Brown,Obi Okolie,Offensive Rebound,44,31
+1:05,Brown,Obi Okolie,Layup,44,33
+1:05,Pennsylvania,Max Rothschild,Foul,44,33
+1:05,Brown,Obi Okolie,Free Throw,44,34
+0:50,Pennsylvania,Max Rothschild,Layup,46,34
+0:35,Brown,Tamenang Choh,Missed Layup,46,34
+0:35,Pennsylvania,Michael Wang,Defensive Rebound,46,34
+0:03,Pennsylvania,Michael Wang,Missed Jumper,46,34
+0:03,Brown,Desmond Cambridge,Defensive Rebound,46,34
+0:00,Brown,None,None,46,34
+19:48,Pennsylvania,Bryce Washington,Turnover,46,34
+19:46,Brown,Obi Okolie,Steal,46,34
+19:22,Brown,Matt DeWolf,Missed Jumper,46,34
+19:22,Pennsylvania,Max Rothschild,Defensive Rebound,46,34
+19:11,Pennsylvania,Antonio Woods,Missed Three Point Jumper,46,34
+19:11,Brown,Tamenang Choh,Defensive Rebound,46,34
+19:04,Brown,Matt DeWolf,Layup,46,36
+18:37,Pennsylvania,Bryce Washington,Three Point Jumper,49,36
+18:24,Brown,Desmond Cambridge,Turnover,49,36
+18:23,Pennsylvania,AJ Brodeur,Steal,49,36
+18:13,Pennsylvania,Devon Goodman,Three Point Jumper,52,36
+18:00,Pennsylvania,Max Rothschild,Foul,52,36
+17:52,Brown,Desmond Cambridge,Missed Jumper,52,36
+17:52,Pennsylvania,Michael Wang,Defensive Rebound,52,36
+17:37,Pennsylvania,Antonio Woods,Missed Jumper,52,36
+17:37,Brown,Obi Okolie,Defensive Rebound,52,36
+17:29,Brown,Tamenang Choh,Missed Layup,52,36
+17:29,Pennsylvania,AJ Brodeur,Block,52,36
+17:27,Brown,Tamenang Choh,Offensive Rebound,52,36
+17:22,Brown,Tamenang Choh,Layup,52,38
+17:02,Pennsylvania,AJ Brodeur,Missed Three Point Jumper,52,38
+17:02,Brown,Tamenang Choh,Defensive Rebound,52,38
+16:40,Brown,Tamenang Choh,Turnover,52,38
+16:39,Pennsylvania,Antonio Woods,Steal,52,38
+16:35,Pennsylvania,Bryce Washington,Layup,54,38
+16:24,Brown,Desmond Cambridge,Missed Three Point Jumper,54,38
+16:24,Pennsylvania,AJ Brodeur,Defensive Rebound,54,38
+16:16,Pennsylvania,Michael Wang,Missed Three Point Jumper,54,38
+16:16,Brown,Desmond Cambridge,Defensive Rebound,54,38
+16:03,Brown,Zach Hunsaker,Three Point Jumper,54,41
+15:35,Pennsylvania,AJ Brodeur,Layup,56,41
+15:19,Brown,Obi Okolie,Layup,56,43
+14:55,Pennsylvania,Bryce Washington,Three Point Jumper,59,43
+14:36,Brown,Zach Hunsaker,Missed Three Point Jumper,59,43
+14:36,Brown,Tamenang Choh,Offensive Rebound,59,43
+14:30,Brown,Obi Okolie,Layup,59,45
+14:30,Pennsylvania,Bryce Washington,Foul,59,45
+14:30,Brown,None,None,59,45
+14:30,Brown,Obi Okolie,Free Throw,59,46
+14:08,Pennsylvania,Michael Wang,Layup,61,46
+13:53,Pennsylvania,Antonio Woods,Foul,61,46
+13:45,Pennsylvania,Jake Silpe,Foul,61,46
+13:33,Brown,Desmond Cambridge,Missed Three Point Jumper,61,46
+13:33,Brown,George Mawanda-Kalema,Offensive Rebound,61,46
+13:20,Pennsylvania,Bryce Washington,Foul,61,46
+13:20,Brown,George Mawanda-Kalema,Missed Free Throw,61,46
+13:20,Brown,None,Team Rebound,61,46
+13:20,Brown,George Mawanda-Kalema,Free Throw,61,47
+13:08,Brown,David Mitchell,Foul,61,47
+12:59,Brown,Desmond Cambridge,Foul,61,47
+12:59,Pennsylvania,AJ Brodeur,Missed Free Throw,61,47
+12:59,Pennsylvania,None,Team Rebound,61,47
+12:59,Pennsylvania,AJ Brodeur,Free Throw,62,47
+12:45,Brown,George Mawanda-Kalema,Missed Three Point Jumper,62,47
+12:45,Brown,George Mawanda-Kalema,Offensive Rebound,62,47
+12:40,Brown,George Mawanda-Kalema,Missed Layup,62,47
+12:40,Brown,Tamenang Choh,Offensive Rebound,62,47
+12:38,Brown,Tamenang Choh,Layup,62,49
+12:18,Pennsylvania,Jake Silpe,Missed Three Point Jumper,62,49
+12:18,Brown,Brown,Defensive Rebound,62,49
+11:59,Brown,Obi Okolie,Missed Three Point Jumper,62,49
+11:59,Pennsylvania,Jake Silpe,Defensive Rebound,62,49
+11:48,Pennsylvania,AJ Brodeur,Dunk,64,49
+11:32,Brown,George Mawanda-Kalema,Layup,64,51
+11:32,Pennsylvania,Jake Silpe,Foul,64,51
+11:32,Brown,None,None,64,51
+11:32,Brown,George Mawanda-Kalema,Free Throw,64,52
+11:10,Pennsylvania,AJ Brodeur,Turnover,64,52
+11:02,Brown,Desmond Cambridge,Missed Three Point Jumper,64,52
+11:02,Pennsylvania,Bryce Washington,Defensive Rebound,64,52
+10:57,Brown,Tamenang Choh,Foul,64,52
+10:37,Pennsylvania,Devon Goodman,Three Point Jumper,67,52
+10:11,Brown,Desmond Cambridge,Missed Layup,67,52
+10:11,Pennsylvania,Antonio Woods,Defensive Rebound,67,52
+9:58,Brown,Desmond Cambridge,Foul,67,52
+9:46,Brown,Desmond Cambridge,Foul,67,52
+9:46,Pennsylvania,Antonio Woods,Missed Free Throw,67,52
+9:46,Pennsylvania,None,Team Rebound,67,52
+9:46,Pennsylvania,Antonio Woods,Free Throw,68,52
+9:35,Brown,Zach Hunsaker,Missed Jumper,68,52
+9:35,Brown,Tamenang Choh,Offensive Rebound,68,52
+9:32,Brown,Tamenang Choh,Missed Layup,68,52
+9:32,Pennsylvania,Devon Goodman,Defensive Rebound,68,52
+9:10,Pennsylvania,Devon Goodman,Missed Jumper,68,52
+9:10,Brown,Desmond Cambridge,Block,68,52
+9:10,Pennsylvania,Pennsylvania,Offensive Rebound,68,52
+9:06,Pennsylvania,Devon Goodman,Jumper,70,52
+9:06,Brown,David Mitchell,Foul,70,52
+9:06,Pennsylvania,Devon Goodman,Free Throw,71,52
+8:53,Brown,Zach Hunsaker,Missed Three Point Jumper,71,52
+8:53,Pennsylvania,Bryce Washington,Defensive Rebound,71,52
+8:29,Pennsylvania,AJ Brodeur,Missed Layup,71,52
+8:29,Brown,Tamenang Choh,Defensive Rebound,71,52
+8:24,Brown,Chris Sullivan,Three Point Jumper,71,55
+8:21,Brown,None,None,71,55
+8:00,Pennsylvania,Max Rothschild,Turnover,71,55
+8:00,Brown,None,None,71,55
+7:42,Pennsylvania,Devon Goodman,Foul,71,55
+7:42,Brown,Tamenang Choh,Missed Free Throw,71,55
+7:42,Brown,None,Team Rebound,71,55
+7:42,Brown,Tamenang Choh,Free Throw,71,56
+7:19,Pennsylvania,Bryce Washington,Three Point Jumper,74,56
+7:07,Brown,David Mitchell,Missed Three Point Jumper,74,56
+7:07,Pennsylvania,Pennsylvania,Defensive Rebound,74,56
+6:46,Pennsylvania,Antonio Woods,Turnover,74,56
+6:45,Brown,Desmond Cambridge,Steal,74,56
+6:44,Brown,Tamenang Choh,Turnover,74,56
+6:43,Pennsylvania,Devon Goodman,Steal,74,56
+6:23,Pennsylvania,AJ Brodeur,Jumper,76,56
+5:55,Brown,Obi Okolie,Jumper,76,58
+5:33,Pennsylvania,AJ Brodeur,Layup,78,58
+5:04,Brown,David Mitchell,Layup,78,60
+5:04,Pennsylvania,AJ Brodeur,Foul,78,60
+5:04,Brown,David Mitchell,Free Throw,78,61
+5:01,Brown,Zach Hunsaker,Foul,78,61
+5:01,Pennsylvania,Antonio Woods,Missed Free Throw,78,61
+5:01,Pennsylvania,Jake Silpe,Offensive Rebound,78,61
+4:59,Brown,Obi Okolie,Foul,78,61
+4:59,Pennsylvania,Jake Silpe,Free Throw,79,61
+4:59,Pennsylvania,Jake Silpe,Free Throw,80,61
+4:51,Brown,Desmond Cambridge,Three Point Jumper,80,64
+4:48,Brown,None,None,80,64
+4:19,Pennsylvania,AJ Brodeur,Turnover,80,64
+4:05,Brown,Obi Okolie,Three Point Jumper,80,67
+3:49,Brown,Travis Fuller,Foul,80,67
+3:49,Brown,None,None,80,67
+3:49,Pennsylvania,AJ Brodeur,Missed Free Throw,80,67
+3:49,Brown,Desmond Cambridge,Defensive Rebound,80,67
+3:33,Pennsylvania,Devon Goodman,Foul,80,67
+3:33,Brown,Desmond Cambridge,Free Throw,80,68
+3:33,Brown,Desmond Cambridge,Free Throw,80,69
+3:32,Brown,Tamenang Choh,Foul,80,69
+3:32,Pennsylvania,Max Rothschild,Free Throw,81,69
+3:32,Pennsylvania,Max Rothschild,Missed Free Throw,81,69
+3:32,Brown,Obi Okolie,Defensive Rebound,81,69
+3:09,Brown,George Mawanda-Kalema,Missed Layup,81,69
+3:09,Brown,Tamenang Choh,Offensive Rebound,81,69
+3:07,Pennsylvania,Jake Silpe,Foul,81,69
+3:07,Brown,Tamenang Choh,Missed Free Throw,81,69
+3:07,Brown,None,Team Rebound,81,69
+3:07,Brown,Tamenang Choh,Free Throw,81,70
+3:05,Brown,David Mitchell,Foul,81,70
+3:05,Pennsylvania,Devon Goodman,Missed Free Throw,81,70
+3:05,Pennsylvania,None,Team Rebound,81,70
+3:05,Pennsylvania,Devon Goodman,Free Throw,82,70
+2:50,Brown,Desmond Cambridge,Missed Three Point Jumper,82,70
+2:50,Brown,Brown,Offensive Rebound,82,70
+2:41,Brown,George Mawanda-Kalema,Jumper,82,72
+2:08,Brown,Tamenang Choh,Foul,82,72
+2:08,Pennsylvania,AJ Brodeur,Missed Free Throw,82,72
+2:08,Pennsylvania,None,Team Rebound,82,72
+2:08,Pennsylvania,AJ Brodeur,Missed Free Throw,82,72
+2:08,Brown,Tamenang Choh,Defensive Rebound,82,72
+1:57,Brown,Tamenang Choh,Turnover,82,72
+1:56,Pennsylvania,Max Rothschild,Steal,82,72
+1:53,Pennsylvania,Devon Goodman,Layup,84,72
+1:41,Pennsylvania,AJ Brodeur,Foul,84,72
+1:41,Brown,Obi Okolie,Missed Free Throw,84,72
+1:41,Brown,None,Team Rebound,84,72
+1:41,Brown,Obi Okolie,Free Throw,84,73
+1:41,Brown,Obi Okolie,Free Throw,84,74
+1:28,Brown,Chris Sullivan,Foul,84,74
+1:28,Pennsylvania,Jake Silpe,Free Throw,85,74
+1:28,Pennsylvania,Jake Silpe,Free Throw,86,74
+1:20,Pennsylvania,AJ Brodeur,Foul,86,74
+1:20,Brown,Obi Okolie,Free Throw,86,75
+1:20,Brown,Obi Okolie,Free Throw,86,76
+1:16,Brown,Tamenang Choh,Foul,86,76
+1:16,Pennsylvania,Max Rothschild,Free Throw,87,76
+1:16,Pennsylvania,Max Rothschild,Free Throw,88,76
+1:08,Brown,Desmond Cambridge,Missed Three Point Jumper,88,76
+1:08,Brown,George Mawanda-Kalema,Offensive Rebound,88,76
+1:03,Brown,Zach Hunsaker,Three Point Jumper,88,79
+1:00,Brown,None,None,88,79
+0:57,Pennsylvania,Jake Silpe,Turnover,88,79
+0:57,Brown,Chris Sullivan,Steal,88,79
+0:52,Brown,Zach Hunsaker,Missed Three Point Jumper,88,79
+0:52,Brown,Chris Sullivan,Offensive Rebound,88,79
+0:46,Brown,Desmond Cambridge,Missed Three Point Jumper,88,79
+0:46,Pennsylvania,Bryce Washington,Defensive Rebound,88,79
+0:43,Brown,Chris Sullivan,Foul,88,79
+0:43,Pennsylvania,Bryce Washington,Free Throw,89,79
+0:43,Pennsylvania,Bryce Washington,Free Throw,90,79
+0:35,Brown,Desmond Cambridge,Three Point Jumper,90,82
+0:33,Brown,Desmond Cambridge,Foul,90,82
+0:33,Pennsylvania,Max Rothschild,Missed Free Throw,90,82
+0:33,Pennsylvania,None,Team Rebound,90,82
+0:33,Pennsylvania,Max Rothschild,Missed Free Throw,90,82
+0:33,Brown,Tamenang Choh,Defensive Rebound,90,82
+0:21,Brown,Desmond Cambridge,Missed Three Point Jumper,90,82
+0:21,Pennsylvania,Pennsylvania,Defensive Rebound,90,82
+0:18,Brown,Zach Hunsaker,Foul,90,82
+0:18,Pennsylvania,Bryce Washington,Free Throw,91,82
+0:18,Pennsylvania,Bryce Washington,Free Throw,92,82
+0:18,Pennsylvania,None,None,92,82
+0:10,Brown,George Mawanda-Kalema,Missed Three Point Jumper,92,82
+0:10,Pennsylvania,Max Rothschild,Defensive Rebound,92,82
+0:00,Brown,None,None,92,82

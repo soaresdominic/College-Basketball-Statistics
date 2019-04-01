@@ -1,0 +1,369 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:41,UCLA,Cody Riley,Jumper,0,2
+19:10,Loyola Marymount,Jeffery McClendon,Missed Jumper,0,2
+19:06,Loyola Marymount,Zafir Williams,Offensive Rebound,0,2
+19:04,Loyola Marymount,Zafir Williams,Missed Layup,0,2
+19:01,UCLA,Moses Brown,Defensive Rebound,0,2
+18:56,UCLA,Moses Brown,Dunk,0,4
+18:41,Loyola Marymount,Mattias Markusson,Jumper,2,4
+18:32,UCLA,Cody Riley,Turnover,2,4
+18:32,Loyola Marymount,Jeffery McClendon,Steal,2,4
+18:24,Loyola Marymount,James Batemon,Missed Jumper,2,4
+18:24,UCLA,Jaylen Hands,Defensive Rebound,2,4
+18:24,Loyola Marymount,Jeffery McClendon,Foul,2,4
+18:20,UCLA,Jaylen Hands,Missed Three Point Jumper,2,4
+18:16,Loyola Marymount,Dameane Douglas,Defensive Rebound,2,4
+18:10,Loyola Marymount,Dameane Douglas,Missed Layup,2,4
+18:06,Loyola Marymount,Dameane Douglas,Offensive Rebound,2,4
+18:04,Loyola Marymount,Zafir Williams,Missed Three Point Jumper,2,4
+18:00,UCLA,Moses Brown,Defensive Rebound,2,4
+17:56,UCLA,Kris Wilkes,Missed Three Point Jumper,2,4
+17:52,Loyola Marymount,Jeffery McClendon,Defensive Rebound,2,4
+17:45,Loyola Marymount,James Batemon,Missed Three Point Jumper,2,4
+17:41,UCLA,Kris Wilkes,Defensive Rebound,2,4
+17:23,UCLA,Cody Riley,Missed Jumper,2,4
+17:19,Loyola Marymount,Dameane Douglas,Defensive Rebound,2,4
+16:53,UCLA,Cody Riley,Foul,2,4
+16:53,Loyola Marymount,James Batemon,Missed Free Throw,2,4
+16:53,Loyola Marymount,Loyola Marymount,Offensive Rebound,2,4
+16:53,Loyola Marymount,James Batemon,Free Throw,3,4
+16:43,UCLA,Moses Brown,Dunk,3,6
+16:29,Loyola Marymount,James Batemon,Missed Layup,3,6
+16:26,UCLA,Moses Brown,Defensive Rebound,3,6
+16:20,UCLA,Jaylen Hands,Three Point Jumper,3,9
+16:16,Loyola Marymount,None,None,3,9
+16:16,UCLA,None,None,3,9
+15:59,Loyola Marymount,Dameane Douglas,Missed Jumper,3,9
+15:55,UCLA,Cody Riley,Defensive Rebound,3,9
+15:52,UCLA,Prince Ali,Missed Three Point Jumper,3,9
+15:47,Loyola Marymount,Mattias Markusson,Defensive Rebound,3,9
+15:27,Loyola Marymount,Mattias Markusson,Missed Layup,3,9
+15:24,Loyola Marymount,Dameane Douglas,Offensive Rebound,3,9
+15:20,Loyola Marymount,Jeffery McClendon,Layup,5,9
+15:14,Loyola Marymount,Zafir Williams,Foul,5,9
+14:55,UCLA,Cody Riley,Layup,5,11
+14:55,Loyola Marymount,Zafir Williams,Foul,5,11
+14:55,UCLA,Cody Riley,Missed Free Throw,5,11
+14:52,Loyola Marymount,Eli Scott,Defensive Rebound,5,11
+14:44,UCLA,Cody Riley,Foul,5,11
+14:44,Loyola Marymount,Dameane Douglas,Free Throw,6,11
+14:44,Loyola Marymount,Dameane Douglas,Free Throw,7,11
+14:31,UCLA,Moses Brown,Dunk,7,13
+14:09,Loyola Marymount,James Batemon,Turnover,7,13
+14:01,UCLA,Kris Wilkes,Missed Three Point Jumper,7,13
+13:58,Loyola Marymount,Mattias Markusson,Defensive Rebound,7,13
+13:41,Loyola Marymount,Eli Scott,Layup,9,13
+13:23,UCLA,Kris Wilkes,Three Point Jumper,9,16
+12:57,Loyola Marymount,Eli Scott,Missed Three Point Jumper,9,16
+12:52,UCLA,Jalen Hill,Defensive Rebound,9,16
+12:46,UCLA,Kris Wilkes,Missed Three Point Jumper,9,16
+12:42,Loyola Marymount,Petr Herman,Defensive Rebound,9,16
+12:29,UCLA,Chris Smith,Foul,9,16
+12:23,Loyola Marymount,Dameane Douglas,Layup,11,16
+11:59,UCLA,Jules Bernard,Three Point Jumper,11,19
+11:46,UCLA,Kris Wilkes,Foul,11,19
+11:46,UCLA,None,None,11,19
+11:30,Loyola Marymount,James Batemon,Missed Three Point Jumper,11,19
+11:25,UCLA,David Singleton,Defensive Rebound,11,19
+11:18,UCLA,Chris Smith,Three Point Jumper,11,22
+10:55,Loyola Marymount,Petr Herman,Jumper,13,22
+10:46,UCLA,Jules Bernard,Turnover,13,22
+10:22,Loyola Marymount,Eli Scott,Missed Jumper,13,22
+10:19,UCLA,Jules Bernard,Defensive Rebound,13,22
+10:14,UCLA,Chris Smith,Missed Jumper,13,22
+10:14,UCLA,Jules Bernard,Offensive Rebound,13,22
+10:14,Loyola Marymount,Mattias Markusson,Foul,13,22
+9:57,UCLA,Jaylen Hands,Missed Three Point Jumper,13,22
+9:52,Loyola Marymount,Petr Herman,Defensive Rebound,13,22
+9:38,Loyola Marymount,James Batemon,Missed Layup,13,22
+9:34,UCLA,Chris Smith,Defensive Rebound,13,22
+9:31,UCLA,Jules Bernard,Missed Three Point Jumper,13,22
+9:26,Loyola Marymount,Joe Quintana,Defensive Rebound,13,22
+9:24,Loyola Marymount,Eli Scott,Foul,13,22
+9:24,Loyola Marymount,Eli Scott,Turnover,13,22
+9:13,Loyola Marymount,Dameane Douglas,Foul,13,22
+9:08,UCLA,Chris Smith,Missed Layup,13,22
+9:08,Loyola Marymount,Petr Herman,Block,13,22
+9:02,UCLA,Moses Brown,Offensive Rebound,13,22
+9:00,UCLA,Moses Brown,Layup,13,24
+8:52,Loyola Marymount,Petr Herman,Missed Jumper,13,24
+8:47,UCLA,Moses Brown,Defensive Rebound,13,24
+8:45,Loyola Marymount,Joe Quintana,Foul,13,24
+8:45,UCLA,Jules Bernard,Free Throw,13,25
+8:45,UCLA,Jules Bernard,Free Throw,13,26
+8:24,Loyola Marymount,Eli Scott,Turnover,13,26
+8:24,UCLA,David Singleton,Steal,13,26
+8:18,UCLA,Moses Brown,Missed Layup,13,26
+8:15,UCLA,Jules Bernard,Offensive Rebound,13,26
+8:14,UCLA,Jalen Hill,Turnover,13,26
+8:14,Loyola Marymount,James Batemon,Steal,13,26
+7:48,Loyola Marymount,Eli Scott,Missed Jumper,13,26
+7:45,UCLA,Moses Brown,Defensive Rebound,13,26
+7:41,UCLA,Chris Smith,Missed Three Point Jumper,13,26
+7:37,Loyola Marymount,Dameane Douglas,Defensive Rebound,13,26
+7:24,Loyola Marymount,Jeffery McClendon,Three Point Jumper,16,26
+6:58,Loyola Marymount,Dameane Douglas,Foul,16,26
+6:58,UCLA,None,None,16,26
+6:58,UCLA,Moses Brown,Missed Free Throw,16,26
+6:58,UCLA,UCLA,Offensive Rebound,16,26
+6:58,UCLA,Moses Brown,Missed Free Throw,16,26
+6:58,Loyola Marymount,Loyola Marymount,Defensive Rebound,16,26
+6:47,Loyola Marymount,James Batemon,Missed Layup,16,26
+6:43,Loyola Marymount,Eli Scott,Offensive Rebound,16,26
+6:43,Loyola Marymount,Eli Scott,Missed Layup,16,26
+6:39,Loyola Marymount,Mattias Markusson,Offensive Rebound,16,26
+6:38,Loyola Marymount,Mattias Markusson,Layup,18,26
+6:12,UCLA,Cody Riley,Foul,18,26
+6:12,UCLA,Cody Riley,Turnover,18,26
+5:44,Loyola Marymount,Mattias Markusson,Missed Jumper,18,26
+5:43,Loyola Marymount,Eli Scott,Offensive Rebound,18,26
+5:43,Loyola Marymount,Loyola Marymount ,Turnover,18,26
+5:27,UCLA,Jaylen Hands,Missed Layup,18,26
+5:22,UCLA,Jaylen Hands,Offensive Rebound,18,26
+5:22,UCLA,Jaylen Hands,Layup,18,28
+5:01,Loyola Marymount,James Batemon,Turnover,18,28
+5:01,UCLA,Jaylen Hands,Steal,18,28
+4:55,UCLA,Prince Ali,Missed Three Point Jumper,18,28
+4:55,UCLA,Chris Smith,Offensive Rebound,18,28
+4:55,UCLA,Chris Smith,Layup,18,30
+4:55,Loyola Marymount,Jeffery McClendon,Foul,18,30
+4:55,UCLA,Chris Smith,Free Throw,18,31
+4:51,Loyola Marymount,Ivan Alipiev,Missed Three Point Jumper,18,31
+4:51,UCLA,Chris Smith,Defensive Rebound,18,31
+4:51,UCLA,Jaylen Hands,Turnover,18,31
+4:51,Loyola Marymount,Jeffery McClendon,Steal,18,31
+4:51,Loyola Marymount,Petr Herman,Dunk,20,31
+4:37,UCLA,Moses Brown,Turnover,20,31
+4:37,Loyola Marymount,Petr Herman,Steal,20,31
+3:44,UCLA,Moses Brown,Foul,20,31
+3:43,Loyola Marymount,Petr Herman,Missed Free Throw,21,31
+3:43,Loyola Marymount,Petr Herman,Free Throw,21,31
+3:40,UCLA,Jalen Hill,Defensive Rebound,21,31
+3:29,Loyola Marymount,Petr Herman,Foul,21,31
+3:29,UCLA,Jalen Hill,Missed Free Throw,21,31
+3:29,UCLA,UCLA,Offensive Rebound,21,31
+3:29,UCLA,Jalen Hill,Free Throw,21,32
+3:01,UCLA,Kris Wilkes,Foul,21,32
+3:01,Loyola Marymount,Ivan Alipiev,Free Throw,22,32
+3:01,Loyola Marymount,Ivan Alipiev,Free Throw,23,32
+2:33,UCLA,Chris Smith,Missed Jumper,23,32
+2:33,Loyola Marymount,Petr Herman,Block,23,32
+2:25,UCLA,Chris Smith,Offensive Rebound,23,32
+2:24,UCLA,Chris Smith,Layup,23,34
+2:11,Loyola Marymount,Petr Herman,Layup,25,34
+1:52,UCLA,Prince Ali,Missed Three Point Jumper,25,34
+1:48,UCLA,Jules Bernard,Offensive Rebound,25,34
+1:47,UCLA,Jules Bernard,Missed Jumper,25,34
+1:42,UCLA,Prince Ali,Offensive Rebound,25,34
+1:42,UCLA,Prince Ali,Layup,25,36
+1:18,Loyola Marymount,Ivan Alipiev,Missed Jumper,25,36
+1:15,Loyola Marymount,Eli Scott,Offensive Rebound,25,36
+1:15,Loyola Marymount,Eli Scott,Missed Jumper,25,36
+1:15,Loyola Marymount,Petr Herman,Offensive Rebound,25,36
+1:15,UCLA,Jalen Hill,Foul,25,36
+1:15,Loyola Marymount,Petr Herman,Missed Free Throw,25,36
+1:15,Loyola Marymount,Loyola Marymount,Offensive Rebound,25,36
+1:15,Loyola Marymount,Petr Herman,Free Throw,26,36
+0:58,UCLA,Prince Ali,Three Point Jumper,26,39
+0:33,Loyola Marymount,Petr Herman,Missed Jumper,26,39
+0:32,Loyola Marymount,Eli Scott,Offensive Rebound,26,39
+0:32,UCLA,Jules Bernard,Foul,26,39
+0:32,Loyola Marymount,Eli Scott,Free Throw,27,39
+0:32,Loyola Marymount,Eli Scott,Missed Free Throw,27,39
+0:30,UCLA,Prince Ali,Defensive Rebound,27,39
+0:29,UCLA,None,None,27,39
+0:07,UCLA,Jaylen Hands,Missed Three Point Jumper,27,39
+0:02,Loyola Marymount,Eli Scott,Defensive Rebound,27,39
+0:00,UCLA,None,None,27,39
+19:41,Loyola Marymount,Dameane Douglas,Three Point Jumper,30,39
+19:21,Loyola Marymount,Mattias Markusson,Foul,30,39
+19:21,UCLA,Kris Wilkes,Free Throw,30,40
+19:21,UCLA,Kris Wilkes,Free Throw,30,41
+19:11,Loyola Marymount,James Batemon,Foul,30,41
+19:11,Loyola Marymount,James Batemon,Turnover,30,41
+19:05,UCLA,Chris Smith,Missed Layup,30,41
+18:56,UCLA,Moses Brown,Offensive Rebound,30,41
+18:56,UCLA,Moses Brown,Dunk,30,43
+18:41,Loyola Marymount,James Batemon,Missed Jumper,30,43
+18:36,Loyola Marymount,Dameane Douglas,Offensive Rebound,30,43
+18:35,UCLA,Kris Wilkes,Foul,30,43
+18:16,Loyola Marymount,Petr Herman,Missed Jumper,30,43
+18:10,Loyola Marymount,Zafir Williams,Offensive Rebound,30,43
+18:10,Loyola Marymount,Zafir Williams,Layup,32,43
+17:56,UCLA,Jaylen Hands,Layup,32,45
+17:39,Loyola Marymount,Dameane Douglas,Missed Jumper,32,45
+17:34,Loyola Marymount,Petr Herman,Offensive Rebound,32,45
+17:34,Loyola Marymount,Petr Herman,Layup,34,45
+17:16,UCLA,Chris Smith,Missed Jumper,34,45
+17:16,Loyola Marymount,Petr Herman,Block,34,45
+17:09,Loyola Marymount,James Batemon,Defensive Rebound,34,45
+17:03,UCLA,Prince Ali,Foul,34,45
+17:03,Loyola Marymount,Dameane Douglas,Free Throw,35,45
+17:03,Loyola Marymount,Dameane Douglas,Free Throw,36,45
+16:40,UCLA,Prince Ali,Missed Three Point Jumper,36,45
+16:37,Loyola Marymount,Zafir Williams,Defensive Rebound,36,45
+16:35,Loyola Marymount,Dameane Douglas,Missed Layup,36,45
+16:35,UCLA,Chris Smith,Block,36,45
+16:29,UCLA,Chris Smith,Defensive Rebound,36,45
+16:28,UCLA,Jaylen Hands,Turnover,36,45
+16:28,Loyola Marymount,Jeffery McClendon,Steal,36,45
+16:22,Loyola Marymount,Jeffery McClendon,Missed Three Point Jumper,36,45
+16:19,Loyola Marymount,Loyola Marymount,Offensive Rebound,36,45
+16:15,Loyola Marymount,Ivan Alipiev,Missed Three Point Jumper,36,45
+16:10,UCLA,Chris Smith,Defensive Rebound,36,45
+16:03,UCLA,Prince Ali,Missed Layup,36,45
+15:57,UCLA,Moses Brown,Offensive Rebound,36,45
+15:57,UCLA,Moses Brown,Dunk,36,47
+15:48,UCLA,Chris Smith,Foul,36,47
+15:48,UCLA,None,None,36,47
+15:41,Loyola Marymount,James Batemon,Missed Three Point Jumper,36,47
+15:36,UCLA,Cody Riley,Defensive Rebound,36,47
+15:24,UCLA,Jaylen Hands,Missed Three Point Jumper,36,47
+15:17,UCLA,Kris Wilkes,Offensive Rebound,36,47
+15:14,UCLA,Cody Riley,Jumper,36,49
+15:14,Loyola Marymount,Eli Scott,Foul,36,49
+15:14,UCLA,Cody Riley,Free Throw,36,50
+14:57,Loyola Marymount,Dameane Douglas,Missed Layup,36,50
+14:57,UCLA,Moses Brown,Block,36,50
+14:51,Loyola Marymount,Dameane Douglas,Offensive Rebound,36,50
+14:50,Loyola Marymount,Dameane Douglas,Missed Layup,36,50
+14:50,UCLA,Moses Brown,Block,36,50
+14:39,Loyola Marymount,James Batemon,Offensive Rebound,36,50
+14:38,Loyola Marymount,James Batemon,Missed Jumper,36,50
+14:38,UCLA,Kris Wilkes,Defensive Rebound,36,50
+14:38,Loyola Marymount,James Batemon,Foul,36,50
+14:38,UCLA,Kris Wilkes,Missed Free Throw,36,50
+14:38,UCLA,UCLA,Offensive Rebound,36,50
+14:38,UCLA,Kris Wilkes,Free Throw,36,51
+14:38,UCLA,Kris Wilkes,Free Throw,36,52
+14:31,Loyola Marymount,James Batemon,Layup,38,52
+14:19,UCLA,Kris Wilkes,Jumper,38,54
+14:13,UCLA,Jaylen Hands,Foul,38,54
+13:57,Loyola Marymount,James Batemon,Jumper,40,54
+13:48,Loyola Marymount,Dameane Douglas,Foul,40,54
+13:48,UCLA,Jaylen Hands,Free Throw,40,55
+13:48,UCLA,Jaylen Hands,Free Throw,40,56
+13:35,UCLA,Jalen Hill,Foul,40,56
+13:19,Loyola Marymount,Zafir Williams,Jumper,42,56
+13:02,UCLA,Kris Wilkes,Missed Jumper,42,56
+12:58,Loyola Marymount,Dameane Douglas,Defensive Rebound,42,56
+12:34,UCLA,Jules Bernard,Foul,42,56
+12:34,Loyola Marymount,Dameane Douglas,Missed Free Throw,42,56
+12:34,Loyola Marymount,Loyola Marymount,Offensive Rebound,42,56
+12:34,Loyola Marymount,Dameane Douglas,Missed Free Throw,42,56
+12:31,UCLA,Cody Riley,Defensive Rebound,42,56
+12:07,Loyola Marymount,James Batemon,Foul,42,56
+12:07,UCLA,Jules Bernard,Free Throw,42,57
+12:07,UCLA,Jules Bernard,Free Throw,42,58
+11:47,Loyola Marymount,James Batemon,Missed Jumper,42,58
+11:45,Loyola Marymount,Loyola Marymount,Offensive Rebound,42,58
+11:45,UCLA,None,None,42,58
+11:37,Loyola Marymount,Mattias Markusson,Jumper,44,58
+11:16,Loyola Marymount,Joe Quintana,Foul,44,58
+11:16,UCLA,Cody Riley,Missed Free Throw,44,58
+11:13,Loyola Marymount,Mattias Markusson,Defensive Rebound,44,58
+10:55,UCLA,Jules Bernard,Foul,44,58
+10:55,Loyola Marymount,James Batemon,Free Throw,45,58
+10:55,Loyola Marymount,James Batemon,Free Throw,46,58
+10:27,UCLA,Jaylen Hands,Missed Three Point Jumper,46,58
+10:24,Loyola Marymount,Mattias Markusson,Defensive Rebound,46,58
+10:24,UCLA,Cody Riley,Foul,46,58
+10:24,Loyola Marymount,Mattias Markusson,Free Throw,47,58
+10:24,Loyola Marymount,Mattias Markusson,Free Throw,48,58
+9:57,UCLA,Prince Ali,Layup,48,60
+9:48,UCLA,Prince Ali,Foul,48,60
+9:48,Loyola Marymount,James Batemon,Missed Free Throw,48,60
+9:45,UCLA,David Singleton,Defensive Rebound,48,60
+9:26,UCLA,David Singleton,Foul,48,60
+9:26,UCLA,David Singleton,Turnover,48,60
+9:06,Loyola Marymount,Mattias Markusson,Missed Jumper,48,60
+9:00,Loyola Marymount,Jeffery McClendon,Offensive Rebound,48,60
+9:00,Loyola Marymount,Jeffery McClendon,Layup,50,60
+8:40,Loyola Marymount,Joe Quintana,Foul,50,60
+8:40,UCLA,Jaylen Hands,Free Throw,50,61
+8:40,UCLA,Jaylen Hands,Free Throw,50,62
+8:26,Loyola Marymount,Jeffery McClendon,Missed Layup,50,62
+8:22,UCLA,Moses Brown,Defensive Rebound,50,62
+8:19,UCLA,Prince Ali,Dunk,50,64
+7:51,Loyola Marymount,Jeffery McClendon,Layup,52,64
+7:40,Loyola Marymount,Joe Quintana,Foul,52,64
+7:40,UCLA,None,None,52,64
+7:40,UCLA,Jaylen Hands,Free Throw,52,65
+7:40,UCLA,Jaylen Hands,Free Throw,52,66
+7:28,Loyola Marymount,Dameane Douglas,Missed Layup,52,66
+7:25,UCLA,Chris Smith,Defensive Rebound,52,66
+7:09,Loyola Marymount,Eli Scott,Foul,52,66
+7:09,UCLA,Jaylen Hands,Free Throw,52,67
+7:09,UCLA,Jaylen Hands,Free Throw,52,68
+6:57,Loyola Marymount,Eli Scott,Turnover,52,68
+6:44,UCLA,Jaylen Hands,Turnover,52,68
+6:44,Loyola Marymount,James Batemon,Steal,52,68
+6:35,Loyola Marymount,Dameane Douglas,Layup,54,68
+6:11,UCLA,Kris Wilkes,Missed Three Point Jumper,54,68
+6:06,Loyola Marymount,Mattias Markusson,Defensive Rebound,54,68
+5:57,Loyola Marymount,Jeffery McClendon,Missed Layup,54,68
+5:57,UCLA,Moses Brown,Block,54,68
+5:50,UCLA,Chris Smith,Defensive Rebound,54,68
+5:48,UCLA,Kris Wilkes,Dunk,54,70
+5:36,Loyola Marymount,James Batemon,Missed Three Point Jumper,54,70
+5:32,Loyola Marymount,Jeffery McClendon,Offensive Rebound,54,70
+5:30,Loyola Marymount,Jeffery McClendon,Missed Layup,54,70
+5:26,Loyola Marymount,Jeffery McClendon,Offensive Rebound,54,70
+5:22,Loyola Marymount,Dameane Douglas,Turnover,54,70
+5:22,UCLA,Jaylen Hands,Steal,54,70
+5:17,UCLA,Jaylen Hands,Dunk,54,72
+5:16,Loyola Marymount,None,None,54,72
+4:58,Loyola Marymount,James Batemon,Missed Three Point Jumper,54,72
+4:53,Loyola Marymount,Zafir Williams,Offensive Rebound,54,72
+4:48,Loyola Marymount,Zafir Williams,Missed Jumper,54,72
+4:44,UCLA,Moses Brown,Defensive Rebound,54,72
+4:35,UCLA,Kris Wilkes,Layup,54,74
+4:35,Loyola Marymount,Jeffery McClendon,Foul,54,74
+4:35,UCLA,Kris Wilkes,Free Throw,54,75
+4:30,UCLA,Jaylen Hands,Foul,54,75
+4:30,Loyola Marymount,Jordan Bell,Free Throw,55,75
+4:30,Loyola Marymount,Jordan Bell,Free Throw,56,75
+4:12,UCLA,Jaylen Hands,Missed Layup,56,75
+4:06,UCLA,Jalen Hill,Offensive Rebound,56,75
+4:06,UCLA,Jalen Hill,Missed Layup,56,75
+4:03,Loyola Marymount,Donald Gipson,Defensive Rebound,56,75
+3:53,Loyola Marymount,Ivan Alipiev,Missed Jumper,56,75
+3:49,UCLA,Jalen Hill,Defensive Rebound,56,75
+3:49,UCLA,Prince Ali,Foul,56,75
+3:49,UCLA,Prince Ali,Turnover,56,75
+3:49,UCLA,None,None,56,75
+3:31,Loyola Marymount,Joe Quintana,Missed Jumper,56,75
+3:27,UCLA,Chris Smith,Defensive Rebound,56,75
+3:16,UCLA,Kris Wilkes,Layup,56,77
+3:16,Loyola Marymount,Jordan Bell,Foul,56,77
+3:16,UCLA,Kris Wilkes,Free Throw,56,78
+3:01,Loyola Marymount,Ivan Alipiev,Missed Three Point Jumper,56,78
+2:57,UCLA,Chris Smith,Defensive Rebound,56,78
+2:44,UCLA,Prince Ali,Missed Three Point Jumper,56,78
+2:40,Loyola Marymount,Jordan Bell,Defensive Rebound,56,78
+2:28,Loyola Marymount,Joe Quintana,Missed Three Point Jumper,56,78
+2:22,UCLA,Jules Bernard,Defensive Rebound,56,78
+2:19,Loyola Marymount,Ivan Alipiev,Foul,56,78
+2:19,UCLA,David Singleton,Free Throw,56,79
+2:19,UCLA,David Singleton,Free Throw,56,80
+1:57,Loyola Marymount,Jordan Bell,Missed Jumper,56,80
+1:50,UCLA,Jalen Hill,Defensive Rebound,56,80
+1:46,Loyola Marymount,Jordan Bell,Foul,56,80
+1:46,UCLA,Prince Ali,Missed Free Throw,56,80
+1:46,UCLA,UCLA,Offensive Rebound,56,80
+1:46,UCLA,Prince Ali,Missed Free Throw,56,80
+1:45,Loyola Marymount,Petr Herman,Defensive Rebound,56,80
+1:31,Loyola Marymount,Petr Herman,Missed Jumper,56,80
+1:29,Loyola Marymount,Jordan Bell,Offensive Rebound,56,80
+1:29,Loyola Marymount,Jordan Bell,Layup,58,80
+1:16,Loyola Marymount,Erik Johansson,Foul,58,80
+1:16,UCLA,Jules Bernard,Free Throw,58,81
+1:16,UCLA,Jules Bernard,Free Throw,58,82
+0:48,Loyola Marymount,Donald Gipson,Missed Three Point Jumper,58,82
+0:45,UCLA,Jules Bernard,Defensive Rebound,58,82
+0:31,UCLA,Jules Bernard,Turnover,58,82
+0:31,Loyola Marymount,Donald Gipson,Steal,58,82
+0:25,Loyola Marymount,Joe Quintana,Missed Three Point Jumper,58,82
+0:20,UCLA,David Singleton,Defensive Rebound,58,82
+0:00,UCLA,None,None,58,82
+0:00,UCLA,None,None,58,82

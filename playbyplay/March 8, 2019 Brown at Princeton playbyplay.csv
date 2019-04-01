@@ -1,0 +1,361 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:42,Princeton,Richmond Aririguzoh,Missed Layup,0,0
+19:42,Brown,Desmond Cambridge,Defensive Rebound,0,0
+19:32,Brown,Tamenang Choh,Turnover,0,0
+19:24,Princeton,Richmond Aririguzoh,Foul,0,0
+19:24,Princeton,Richmond Aririguzoh,Turnover,0,0
+19:08,Brown,Joshua Howard,Missed Three Point Jumper,0,0
+19:08,Princeton,Myles Stephens,Defensive Rebound,0,0
+18:50,Princeton,Jerome Desrosiers,Missed Three Point Jumper,0,0
+18:50,Brown,Desmond Cambridge,Defensive Rebound,0,0
+18:39,Brown,Desmond Cambridge,Three Point Jumper,3,0
+18:16,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,3,0
+18:16,Brown,Desmond Cambridge,Defensive Rebound,3,0
+18:00,Brown,Obi Okolie,Layup,5,0
+17:42,Princeton,Myles Stephens,Turnover,5,0
+17:42,Brown,Obi Okolie,Steal,5,0
+17:40,Brown,Joshua Howard,Turnover,5,0
+17:40,Princeton,Myles Stephens,Steal,5,0
+17:36,Princeton,Max Johns,Missed Three Point Jumper,5,0
+17:36,Brown,Joshua Howard,Defensive Rebound,5,0
+17:13,Brown,Tamenang Choh,Missed Jumper,5,0
+17:13,Princeton,Myles Stephens,Defensive Rebound,5,0
+17:03,Brown,Desmond Cambridge,Foul,5,0
+17:03,Princeton,Richmond Aririguzoh,Missed Free Throw,5,0
+17:03,Princeton,None,Team Rebound,5,0
+17:03,Princeton,Richmond Aririguzoh,Free Throw,5,1
+16:49,Brown,Desmond Cambridge,Layup,7,1
+16:28,Princeton,Richmond Aririguzoh,Layup,7,3
+16:13,Brown,Joshua Howard,Missed Layup,7,3
+16:13,Princeton,Jerome Desrosiers,Block,7,3
+16:13,Princeton,Princeton,Defensive Rebound,7,3
+16:00,Princeton,Max Johns,Turnover,7,3
+16:00,Princeton,None,None,7,3
+15:37,Princeton,Max Johns,Foul,7,3
+15:37,Brown,Tamenang Choh,Free Throw,8,3
+15:37,Brown,Tamenang Choh,Missed Free Throw,8,3
+15:37,Princeton,Ethan Wright,Defensive Rebound,8,3
+15:12,Princeton,Ethan Wright,Turnover,8,3
+15:11,Brown,Zach Hunsaker,Steal,8,3
+15:04,Brown,Desmond Cambridge,Turnover,8,3
+15:04,Princeton,Ethan Wright,Steal,8,3
+15:01,Princeton,Myles Stephens,Layup,8,5
+14:40,Brown,Obi Okolie,Missed Layup,8,5
+14:40,Princeton,Jerome Desrosiers,Defensive Rebound,8,5
+14:32,Princeton,Myles Stephens,Foul,8,5
+14:32,Princeton,Myles Stephens,Turnover,8,5
+14:16,Brown,David Mitchell,Turnover,8,5
+14:07,Brown,David Mitchell,Foul,8,5
+14:07,Princeton,Ethan Wright,Missed Free Throw,8,5
+14:07,Princeton,None,Team Rebound,8,5
+14:07,Princeton,Ethan Wright,Missed Free Throw,8,5
+14:07,Brown,David Mitchell,Defensive Rebound,8,5
+13:39,Brown,Desmond Cambridge,Missed Three Point Jumper,8,5
+13:39,Brown,David Mitchell,Offensive Rebound,8,5
+13:35,Brown,David Mitchell,Layup,10,5
+13:35,Princeton,Jose Morales,Foul,10,5
+13:35,Brown,David Mitchell,Turnover,10,5
+13:20,Princeton,Richmond Aririguzoh,Turnover,10,5
+13:20,Brown,Tamenang Choh,Steal,10,5
+13:17,Brown,Tamenang Choh,Missed Layup,10,5
+13:17,Princeton,Myles Stephens,Defensive Rebound,10,5
+13:01,Princeton,Myles Stephens,Turnover,10,5
+13:00,Brown,Brandon Anderson,Steal,10,5
+12:56,Brown,Brandon Anderson,Turnover,10,5
+12:56,Princeton,Jose Morales,Steal,10,5
+12:51,Princeton,Ethan Wright,Three Point Jumper,10,8
+12:27,Brown,Tamenang Choh,Turnover,10,8
+12:11,Princeton,Myles Stephens,Missed Three Point Jumper,10,8
+12:11,Brown,Tamenang Choh,Defensive Rebound,10,8
+11:56,Brown,Obi Okolie,Missed Three Point Jumper,10,8
+11:56,Princeton,Richmond Aririguzoh,Defensive Rebound,10,8
+11:35,Princeton,None,None,10,8
+11:35,Princeton,Richmond Aririguzoh,Turnover,10,8
+11:35,Brown,David Mitchell,Steal,10,8
+11:35,Princeton,None,None,10,8
+11:17,Brown,Joshua Howard,Turnover,10,8
+11:16,Princeton,Max Johns,Steal,10,8
+11:13,Princeton,Max Johns,Missed Layup,10,8
+11:13,Brown,Obi Okolie,Block,10,8
+11:13,Princeton,Princeton,Offensive Rebound,10,8
+10:59,Princeton,Richmond Aririguzoh,Turnover,10,8
+10:38,Brown,Joshua Howard,Missed Three Point Jumper,10,8
+10:38,Princeton,Jose Morales,Defensive Rebound,10,8
+10:19,Princeton,Elijah Barnes,Missed Three Point Jumper,10,8
+10:19,Brown,Joshua Howard,Defensive Rebound,10,8
+10:05,Brown,Tamenang Choh,Layup,12,8
+9:41,Princeton,Richmond Aririguzoh,Layup,12,10
+9:25,Brown,Brandon Anderson,Layup,14,10
+9:11,Princeton,Jose Morales,Layup,14,12
+8:54,Brown,Brandon Anderson,Three Point Jumper,17,12
+8:34,Princeton,Richmond Aririguzoh,Layup,17,14
+8:11,Princeton,Ethan Wright,Foul,17,14
+8:08,Brown,Brandon Anderson,Layup,19,14
+7:58,Princeton,Myles Stephens,Missed Three Point Jumper,19,14
+7:58,Brown,Brown,Defensive Rebound,19,14
+7:52,Princeton,None,None,19,14
+7:34,Brown,Joshua Howard,Layup,21,14
+7:13,Princeton,Max Johns,Missed Layup,21,14
+7:13,Brown,Joshua Howard,Block,21,14
+7:11,Princeton,Max Johns,Offensive Rebound,21,14
+7:09,Princeton,Max Johns,Turnover,21,14
+7:09,Brown,Joshua Howard,Steal,21,14
+7:00,Princeton,Ethan Wright,Foul,21,14
+6:58,Brown,Desmond Cambridge,Jumper,23,14
+6:43,Princeton,Jose Morales,Missed Three Point Jumper,23,14
+6:43,Brown,Desmond Cambridge,Defensive Rebound,23,14
+6:35,Brown,Desmond Cambridge,Missed Three Point Jumper,23,14
+6:35,Princeton,Jerome Desrosiers,Defensive Rebound,23,14
+6:19,Princeton,Myles Stephens,Missed Three Point Jumper,23,14
+6:19,Brown,Joshua Howard,Defensive Rebound,23,14
+6:01,Brown,Brandon Anderson,Missed Three Point Jumper,23,14
+6:01,Princeton,Jerome Desrosiers,Defensive Rebound,23,14
+5:51,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,23,14
+5:51,Brown,Brandon Anderson,Defensive Rebound,23,14
+5:34,Brown,Joshua Howard,Foul,23,14
+5:34,Brown,Joshua Howard,Turnover,23,14
+5:10,Princeton,Jose Morales,Turnover,23,14
+5:09,Brown,Tamenang Choh,Steal,23,14
+5:03,Brown,David Mitchell,Missed Three Point Jumper,23,14
+5:03,Princeton,Jaelin Llewellyn,Defensive Rebound,23,14
+4:50,Brown,David Mitchell,Foul,23,14
+4:46,Princeton,Richmond Aririguzoh,Layup,23,16
+4:45,Brown,Zach Hunsaker,Foul,23,16
+4:45,Princeton,Richmond Aririguzoh,Free Throw,23,17
+4:27,Brown,Joshua Howard,Missed Three Point Jumper,23,17
+4:27,Princeton,Jaelin Llewellyn,Defensive Rebound,23,17
+4:16,Princeton,Jerome Desrosiers,Missed Jumper,23,17
+4:16,Brown,Obi Okolie,Defensive Rebound,23,17
+4:10,Brown,Zach Hunsaker,Missed Three Point Jumper,23,17
+4:10,Princeton,Richmond Aririguzoh,Defensive Rebound,23,17
+4:01,Princeton,Jaelin Llewellyn,Jumper,23,19
+3:47,Brown,Zach Hunsaker,Turnover,23,19
+3:47,Princeton,None,None,23,19
+3:37,Princeton,Myles Stephens,Turnover,23,19
+3:36,Brown,Joshua Howard,Steal,23,19
+3:13,Brown,Brandon Anderson,Missed Jumper,23,19
+3:13,Princeton,Richmond Aririguzoh,Defensive Rebound,23,19
+3:04,Princeton,Myles Stephens,Foul,23,19
+3:04,Princeton,Myles Stephens,Turnover,23,19
+2:53,Brown,Brandon Anderson,Turnover,23,19
+2:41,Princeton,Jerome Desrosiers,Missed Three Point Jumper,23,19
+2:41,Brown,Tamenang Choh,Defensive Rebound,23,19
+2:31,Brown,Desmond Cambridge,Missed Three Point Jumper,23,19
+2:31,Princeton,Richmond Aririguzoh,Defensive Rebound,23,19
+2:18,Princeton,Richmond Aririguzoh,Foul,23,19
+2:18,Princeton,Richmond Aririguzoh,Turnover,23,19
+2:04,Brown,Desmond Cambridge,Jumper,25,19
+1:52,Princeton,Ethan Wright,Three Point Jumper,25,22
+1:38,Brown,Obi Okolie,Three Point Jumper,28,22
+1:23,Brown,Brandon Anderson,Foul,28,22
+1:23,Princeton,Jaelin Llewellyn,Free Throw,28,23
+1:23,Princeton,Jaelin Llewellyn,Missed Free Throw,28,23
+1:23,Brown,Desmond Cambridge,Defensive Rebound,28,23
+1:06,Brown,Obi Okolie,Three Point Jumper,31,23
+0:58,Princeton,None,None,31,23
+0:50,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,31,23
+0:50,Brown,Obi Okolie,Defensive Rebound,31,23
+0:41,Brown,Desmond Cambridge,Missed Three Point Jumper,31,23
+0:41,Princeton,Jerome Desrosiers,Defensive Rebound,31,23
+0:16,Princeton,Noah Bramlage,Turnover,31,23
+0:03,Brown,Brandon Anderson,Missed Layup,31,23
+0:03,Princeton,Jaelin Llewellyn,Block,31,23
+0:02,Princeton,Elijah Barnes,Defensive Rebound,31,23
+0:01,Princeton,Elijah Barnes,Turnover,31,23
+0:01,Brown,Zach Hunsaker,Steal,31,23
+0:00,Princeton,None,None,31,26
+19:40,Brown,Tamenang Choh,Missed Jumper,31,23
+19:40,Princeton,Myles Stephens,Defensive Rebound,31,23
+19:18,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,31,23
+19:18,Princeton,Myles Stephens,Offensive Rebound,31,23
+19:01,Princeton,Myles Stephens,Missed Jumper,31,23
+19:01,Brown,Zach Hunsaker,Defensive Rebound,31,23
+18:54,Brown,Zach Hunsaker,Layup,33,23
+18:29,Princeton,Jaelin Llewellyn,Layup,33,25
+18:09,Brown,Desmond Cambridge,Missed Jumper,33,25
+18:09,Brown,Joshua Howard,Offensive Rebound,33,25
+17:49,Brown,Obi Okolie,Layup,35,25
+17:31,Princeton,Richmond Aririguzoh,Layup,35,27
+17:20,Princeton,Jerome Desrosiers,Foul,35,27
+17:20,Brown,Tamenang Choh,Free Throw,36,27
+17:20,Brown,Tamenang Choh,Free Throw,37,27
+17:07,Brown,Joshua Howard,Foul,37,27
+17:00,Princeton,Ethan Wright,Missed Layup,37,27
+17:00,Brown,David Mitchell,Defensive Rebound,37,27
+16:45,Brown,Obi Okolie,Missed Layup,37,27
+16:45,Princeton,Jerome Desrosiers,Defensive Rebound,37,27
+16:29,Princeton,Jaelin Llewellyn,Missed Layup,37,27
+16:29,Princeton,Richmond Aririguzoh,Offensive Rebound,37,27
+16:27,Princeton,Richmond Aririguzoh,Layup,37,29
+16:00,Brown,Tamenang Choh,Turnover,37,29
+15:59,Princeton,Jaelin Llewellyn,Steal,37,29
+15:57,Princeton,Ethan Wright,Missed Layup,37,29
+15:57,Brown,Desmond Cambridge,Block,37,29
+15:57,Princeton,Princeton,Offensive Rebound,37,29
+15:57,Princeton,None,None,37,29
+15:56,Princeton,Drew Friberg,Missed Jumper,37,29
+15:56,Brown,None,Team Rebound,37,29
+15:56,Princeton,None,None,37,29
+15:54,Brown,David Mitchell,Foul,37,29
+15:49,Princeton,Ethan Wright,Missed Three Point Jumper,37,29
+15:49,Brown,Tamenang Choh,Defensive Rebound,37,29
+15:44,Brown,Tamenang Choh,Turnover,37,29
+15:34,Princeton,Jaelin Llewellyn,Turnover,37,29
+15:34,Brown,Tamenang Choh,Steal,37,29
+15:30,Brown,Obi Okolie,Missed Three Point Jumper,37,29
+15:30,Princeton,Myles Stephens,Defensive Rebound,37,29
+15:14,Princeton,Richmond Aririguzoh,Missed Layup,37,29
+15:14,Princeton,Ethan Wright,Offensive Rebound,37,29
+15:11,Princeton,Ethan Wright,Missed Layup,37,29
+15:11,Princeton,Princeton,Offensive Rebound,37,29
+15:01,Princeton,Myles Stephens,Turnover,37,29
+14:56,Brown,Obi Okolie,Turnover,37,29
+14:51,Princeton,Myles Stephens,Layup,37,31
+14:33,Brown,Desmond Cambridge,Missed Jumper,37,31
+14:33,Princeton,Ethan Wright,Defensive Rebound,37,31
+14:25,Princeton,Ethan Wright,Turnover,37,31
+14:05,Brown,Zach Hunsaker,Three Point Jumper,40,31
+13:42,Princeton,Myles Stephens,Three Point Jumper,40,34
+13:22,Princeton,Richmond Aririguzoh,Foul,40,34
+13:22,Brown,Brandon Anderson,Missed Free Throw,40,34
+13:22,Brown,None,Team Rebound,40,34
+13:22,Brown,Brandon Anderson,Free Throw,41,34
+12:59,Princeton,Ethan Wright,Turnover,41,34
+12:59,Brown,Zach Hunsaker,Steal,41,34
+12:30,Brown,Brandon Anderson,Jumper,43,34
+12:21,Princeton,Myles Stephens,Layup,43,36
+12:04,Princeton,Jaelin Llewellyn,Foul,43,36
+12:04,Brown,Brandon Anderson,Free Throw,44,36
+12:04,Brown,Brandon Anderson,Free Throw,45,36
+11:55,Princeton,Vittorio Reynoso-Avila,Turnover,45,36
+11:54,Brown,Brandon Anderson,Steal,45,36
+11:52,Brown,Brandon Anderson,Layup,47,36
+11:51,Princeton,None,None,47,36
+11:51,Princeton,None,None,47,36
+11:42,Princeton,Jose Morales,Missed Layup,47,36
+11:42,Princeton,Richmond Aririguzoh,Offensive Rebound,47,36
+11:38,Princeton,None,None,47,36
+11:38,Princeton,Richmond Aririguzoh,Offensive Rebound,47,36
+11:38,Princeton,None,None,47,36
+11:38,Princeton,Richmond Aririguzoh,Offensive Rebound,47,36
+11:38,Brown,David Mitchell,Foul,47,36
+11:38,Princeton,None,None,47,36
+11:38,Princeton,Richmond Aririguzoh,Free Throw,47,37
+11:38,Princeton,Richmond Aririguzoh,Free Throw,47,38
+11:20,Brown,Brandon Anderson,Jumper,49,38
+11:01,Brown,Chris Sullivan,Foul,49,38
+10:57,Princeton,Myles Stephens,Missed Three Point Jumper,49,38
+10:57,Brown,Brandon Anderson,Defensive Rebound,49,38
+10:34,Brown,Obi Okolie,Turnover,49,38
+10:33,Princeton,Myles Stephens,Steal,49,38
+10:16,Princeton,Richmond Aririguzoh,Layup,49,40
+9:59,Brown,Desmond Cambridge,Missed Layup,49,40
+9:59,Princeton,Ethan Wright,Defensive Rebound,49,40
+9:43,Princeton,Ethan Wright,Turnover,49,40
+9:32,Princeton,Richmond Aririguzoh,Foul,49,40
+9:32,Brown,Joshua Howard,Missed Free Throw,49,40
+9:32,Brown,None,Team Rebound,49,40
+9:32,Brown,Joshua Howard,Free Throw,50,40
+9:06,Princeton,Jerome Desrosiers,Missed Three Point Jumper,50,40
+9:06,Princeton,None,Team Rebound,50,40
+9:03,Brown,Obi Okolie,Foul,50,40
+8:59,Princeton,Myles Stephens,Missed Three Point Jumper,50,40
+8:59,Brown,Tamenang Choh,Defensive Rebound,50,40
+8:51,Brown,Brandon Anderson,Layup,52,40
+8:36,Princeton,Drew Friberg,Missed Three Point Jumper,52,40
+8:36,Brown,Brandon Anderson,Defensive Rebound,52,40
+8:13,Brown,Brandon Anderson,Missed Three Point Jumper,52,40
+8:13,Princeton,Myles Stephens,Defensive Rebound,52,40
+7:52,Princeton,Jaelin Llewellyn,Turnover,52,40
+7:51,Brown,Brandon Anderson,Steal,52,40
+7:45,Brown,None,None,52,40
+7:45,Princeton,None,None,52,40
+7:27,Brown,Desmond Cambridge,Missed Dunk,52,40
+7:27,Princeton,Jaelin Llewellyn,Defensive Rebound,52,40
+7:21,Princeton,Jaelin Llewellyn,Missed Jumper,52,40
+7:21,Brown,Tamenang Choh,Defensive Rebound,52,40
+7:18,Princeton,Jaelin Llewellyn,Foul,52,40
+7:04,Brown,Zach Hunsaker,Missed Three Point Jumper,52,40
+7:04,Brown,Desmond Cambridge,Offensive Rebound,52,40
+7:00,Brown,Desmond Cambridge,Missed Dunk,52,40
+7:00,Brown,Joshua Howard,Offensive Rebound,52,40
+6:50,Brown,Tamenang Choh,Turnover,52,40
+6:49,Princeton,Jaelin Llewellyn,Steal,52,40
+6:43,Princeton,Myles Stephens,Jumper,52,42
+6:40,Princeton,None,None,52,42
+6:21,Brown,Brandon Anderson,Turnover,52,42
+5:56,Princeton,Ethan Wright,Missed Three Point Jumper,52,42
+5:56,Brown,Obi Okolie,Defensive Rebound,52,42
+5:40,Brown,Obi Okolie,Three Point Jumper,55,42
+5:29,Princeton,Richmond Aririguzoh,Turnover,55,42
+5:06,Brown,Brandon Anderson,Missed Three Point Jumper,55,42
+5:06,Princeton,Ethan Wright,Defensive Rebound,55,42
+4:55,Princeton,Jose Morales,Three Point Jumper,55,45
+4:26,Brown,Desmond Cambridge,Missed Three Point Jumper,55,45
+4:26,Princeton,Ethan Wright,Defensive Rebound,55,45
+4:17,Princeton,Richmond Aririguzoh,Missed Layup,55,45
+4:17,Brown,Desmond Cambridge,Block,55,45
+4:15,Princeton,Richmond Aririguzoh,Offensive Rebound,55,45
+4:05,Princeton,Myles Stephens,Missed Layup,55,45
+4:05,Brown,Desmond Cambridge,Block,55,45
+4:03,Brown,Brandon Anderson,Defensive Rebound,55,45
+4:00,Princeton,Ethan Wright,Foul,55,45
+4:00,Princeton,None,None,55,45
+3:37,Brown,Brandon Anderson,Jumper,57,45
+3:23,Princeton,Jose Morales,Turnover,57,45
+3:11,Brown,Desmond Cambridge,Missed Dunk,57,45
+3:11,Princeton,Richmond Aririguzoh,Defensive Rebound,57,45
+3:01,Princeton,Jose Morales,Missed Three Point Jumper,57,45
+3:01,Princeton,Richmond Aririguzoh,Offensive Rebound,57,45
+2:55,Princeton,Richmond Aririguzoh,Layup,57,47
+2:44,Brown,Desmond Cambridge,Missed Three Point Jumper,57,47
+2:44,Princeton,Ethan Wright,Defensive Rebound,57,47
+2:31,Princeton,Jose Morales,Missed Layup,57,47
+2:31,Brown,Tamenang Choh,Defensive Rebound,57,47
+2:17,Brown,Chris Sullivan,Three Point Jumper,60,47
+2:14,Brown,None,None,60,47
+2:06,Princeton,Drew Friberg,Missed Three Point Jumper,60,47
+2:06,Princeton,Ethan Wright,Offensive Rebound,60,47
+1:59,Brown,Brandon Anderson,Foul,60,47
+1:59,Princeton,Drew Friberg,Free Throw,60,48
+1:59,Princeton,Drew Friberg,Free Throw,60,49
+1:41,Princeton,Jose Morales,Foul,60,49
+1:41,Brown,Brandon Anderson,Missed Free Throw,60,49
+1:41,Princeton,Ethan Wright,Defensive Rebound,60,49
+1:29,Princeton,Jaelin Llewellyn,Three Point Jumper,60,52
+1:27,Princeton,None,None,60,52
+1:19,Brown,Zach Hunsaker,Turnover,60,52
+1:18,Princeton,Jose Morales,Steal,60,52
+1:16,Princeton,Jaelin Llewellyn,Three Point Jumper,60,55
+1:00,Princeton,Drew Friberg,Foul,60,55
+1:00,Brown,Obi Okolie,Free Throw,61,55
+1:00,Brown,Obi Okolie,Free Throw,62,55
+0:56,Brown,Brandon Anderson,Foul,62,55
+0:56,Princeton,Jose Morales,Free Throw,62,56
+0:56,Princeton,Jose Morales,Free Throw,62,57
+0:52,Princeton,Jose Morales,Foul,62,57
+0:52,Brown,Obi Okolie,Missed Free Throw,62,57
+0:52,Princeton,Ethan Wright,Defensive Rebound,62,57
+0:46,Princeton,Jose Morales,Three Point Jumper,62,60
+0:41,Brown,Tamenang Choh,Layup,64,60
+0:36,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,64,60
+0:36,Brown,Desmond Cambridge,Defensive Rebound,64,60
+0:30,Princeton,Drew Friberg,Foul,64,60
+0:30,Brown,Desmond Cambridge,Missed Free Throw,64,60
+0:30,Brown,None,Team Rebound,64,60
+0:30,Brown,Desmond Cambridge,Missed Free Throw,64,60
+0:30,Princeton,Drew Friberg,Defensive Rebound,64,60
+0:24,Princeton,Drew Friberg,Missed Three Point Jumper,64,60
+0:24,Brown,Desmond Cambridge,Defensive Rebound,64,60
+0:18,Brown,None,None,64,60
+0:13,Princeton,Jaelin Llewellyn,Foul,64,60
+0:13,Brown,Zach Hunsaker,Free Throw,65,60
+0:13,Brown,Zach Hunsaker,Free Throw,66,60
+0:07,Princeton,Ethan Wright,Three Point Jumper,66,63
+0:06,Princeton,Jose Morales,Foul,66,63
+0:06,Brown,Brandon Anderson,Free Throw,67,63
+0:06,Brown,Brandon Anderson,Missed Free Throw,67,63
+0:06,Princeton,Drew Friberg,Defensive Rebound,67,63
+0:01,Princeton,Jose Morales,Missed Jumper,67,63
+0:01,Princeton,None,Team Rebound,67,63
+0:00,Princeton,None,None,67,63

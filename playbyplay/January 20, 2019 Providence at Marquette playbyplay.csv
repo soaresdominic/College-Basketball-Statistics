@@ -1,0 +1,359 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Providence,None,None,0,0
+19:45,Providence,Maliek White,Missed Jumper,0,0
+19:45,Marquette,Joey Hauser,Defensive Rebound,0,0
+19:23,Marquette,Sam Hauser,Missed Three Point Jumper,0,0
+19:23,Providence,Maliek White,Defensive Rebound,0,0
+18:56,Providence,David Duke,Missed Jumper,0,0
+18:56,Marquette,Theo John,Block,0,0
+18:56,Marquette,Markus Howard,Defensive Rebound,0,0
+18:34,Marquette,Theo John,Missed Jumper,0,0
+18:34,Providence,David Duke,Defensive Rebound,0,0
+18:22,Providence,Jimmy Nichols Jr.,Missed Three Point Jumper,0,0
+18:22,Marquette,Sam Hauser,Defensive Rebound,0,0
+18:22,Providence,Maliek White,Foul,0,0
+18:22,Marquette,Markus Howard,Free Throw,0,1
+18:22,Marquette,Markus Howard,Free Throw,0,2
+18:00,Providence,Nate Watson,Jumper,2,2
+17:33,Marquette,Markus Howard,Missed Jumper,2,2
+17:33,Providence,Jimmy Nichols Jr.,Defensive Rebound,2,2
+17:13,Providence,Nate Watson,Missed Jumper,2,2
+17:13,Providence,Jimmy Nichols Jr.,Offensive Rebound,2,2
+17:12,Marquette,Joey Hauser,Foul,2,2
+17:12,Providence,Jimmy Nichols Jr.,Free Throw,3,2
+17:12,Providence,Jimmy Nichols Jr.,Missed Free Throw,3,2
+17:12,Providence,Providence,Offensive Rebound,3,2
+17:10,Providence,Jimmy Nichols Jr.,Jumper,5,2
+16:56,Marquette,Markus Howard,Turnover,5,2
+16:56,Providence,Alpha Diallo,Steal,5,2
+16:50,Providence,Alpha Diallo,Dunk,7,2
+16:38,Marquette,Joey Hauser,Three Point Jumper,7,5
+16:21,Providence,Jimmy Nichols Jr.,Foul,7,5
+16:21,Providence,Jimmy Nichols Jr.,Turnover,7,5
+16:06,Marquette,Sacar Anim,Missed Three Point Jumper,7,5
+16:06,Providence,Maliek White,Defensive Rebound,7,5
+15:58,Providence,David Duke,Layup,9,5
+15:31,Marquette,Theo John,Turnover,9,5
+15:31,Providence,Maliek White,Steal,9,5
+15:24,Providence,Maliek White,Missed Jumper,9,5
+15:24,Marquette,Sacar Anim,Defensive Rebound,9,5
+15:15,Marquette,Markus Howard,Three Point Jumper,9,8
+14:43,Providence,Alpha Diallo,Missed Three Point Jumper,9,8
+14:43,Providence,David Duke,Offensive Rebound,9,8
+14:23,Providence,David Duke,Missed Three Point Jumper,9,8
+14:23,Marquette,Markus Howard,Defensive Rebound,9,8
+14:05,Marquette,Joey Hauser,Turnover,9,8
+14:05,Providence,Maliek White,Steal,9,8
+13:54,Providence,Nate Watson,Dunk,11,8
+13:54,Marquette,Joey Hauser,Foul,11,8
+13:54,Marquette,None,None,11,8
+13:54,Providence,Nate Watson,Free Throw,12,8
+13:31,Providence,David Duke,Foul,12,8
+13:15,Marquette,Brendan Bailey,Three Point Jumper,12,11
+12:59,Providence,Makai Ashton-Langford,Layup,14,11
+12:45,Marquette,Markus Howard,Missed Three Point Jumper,14,11
+12:45,Providence,Alpha Diallo,Defensive Rebound,14,11
+12:36,Providence,Isaiah Jackson,Missed Three Point Jumper,14,11
+12:36,Providence,Providence,Offensive Rebound,14,11
+12:14,Providence,Isaiah Jackson,Missed Three Point Jumper,14,11
+12:14,Providence,Kalif Young,Offensive Rebound,14,11
+12:06,Marquette,Ed Morrow,Foul,14,11
+12:06,Providence,Kalif Young,Free Throw,15,11
+12:06,Providence,Kalif Young,Free Throw,16,11
+11:57,Marquette,Markus Howard,Three Point Jumper,16,14
+11:34,Providence,Drew Edwards,Jumper,18,14
+11:23,Providence,Makai Ashton-Langford,Foul,18,14
+11:23,Marquette,None,None,18,14
+11:04,Marquette,Joseph Chartouny,Missed Three Point Jumper,18,14
+11:04,Providence,Providence,Defensive Rebound,18,14
+10:54,Providence,Kris Monroe,Three Point Jumper,21,14
+10:41,Marquette,Brendan Bailey,Missed Three Point Jumper,21,14
+10:41,Providence,Makai Ashton-Langford,Defensive Rebound,21,14
+10:29,Providence,Makai Ashton-Langford,Missed Three Point Jumper,21,14
+10:29,Marquette,Sam Hauser,Defensive Rebound,21,14
+10:14,Providence,Drew Edwards,Foul,21,14
+9:55,Marquette,Brendan Bailey,Missed Three Point Jumper,21,14
+9:55,Providence,Jimmy Nichols Jr.,Defensive Rebound,21,14
+9:25,Providence,Nate Watson,Missed Jumper,21,14
+9:25,Marquette,Sam Hauser,Defensive Rebound,21,14
+9:25,Marquette,Markus Howard,Missed Layup,21,14
+9:25,Providence,Jimmy Nichols Jr.,Block,21,14
+9:25,Providence,Kris Monroe,Turnover,21,14
+9:25,Marquette,Brendan Bailey,Steal,21,14
+9:12,Marquette,None,None,21,14
+9:03,Marquette,Sam Hauser,Missed Jumper,21,14
+9:03,Providence,Nate Watson,Defensive Rebound,21,14
+9:03,Providence,Makai Ashton-Langford,Defensive Rebound,21,14
+8:40,Providence,Alpha Diallo,Missed Jumper,21,14
+8:40,Marquette,Theo John,Defensive Rebound,21,14
+8:32,Marquette,Markus Howard,Missed Three Point Jumper,21,14
+8:32,Providence,Nate Watson,Defensive Rebound,21,14
+8:23,Providence,Alpha Diallo,Layup,23,14
+8:22,Marquette,None,None,23,14
+8:11,Marquette,Sacar Anim,Missed Jumper,23,14
+8:11,Providence,Alpha Diallo,Defensive Rebound,23,14
+7:49,Providence,Alpha Diallo,Missed Three Point Jumper,23,14
+7:49,Marquette,Markus Howard,Defensive Rebound,23,14
+7:41,Marquette,Sacar Anim,Missed Layup,23,14
+7:41,Providence,Jimmy Nichols Jr.,Block,23,14
+7:41,Providence,Providence,Defensive Rebound,23,14
+7:25,Providence,Alpha Diallo,Turnover,23,14
+7:25,Marquette,Markus Howard,Steal,23,14
+7:13,Providence,Alpha Diallo,Foul,23,14
+7:07,Marquette,Sam Hauser,Missed Jumper,23,14
+7:07,Providence,David Duke,Defensive Rebound,23,14
+6:48,Marquette,Theo John,Foul,23,14
+6:48,Providence,David Duke,Missed Free Throw,23,14
+6:48,Providence,None,Team Rebound,23,14
+6:48,Providence,David Duke,Missed Free Throw,23,14
+6:48,Marquette,Theo John,Defensive Rebound,23,14
+6:26,Marquette,Sam Hauser,Three Point Jumper,23,17
+6:01,Providence,Maliek White,Missed Layup,23,17
+6:01,Marquette,Theo John,Block,23,17
+6:01,Marquette,Joseph Chartouny,Defensive Rebound,23,17
+5:48,Marquette,Brendan Bailey,Missed Three Point Jumper,23,17
+5:48,Providence,Maliek White,Defensive Rebound,23,17
+5:39,Providence,David Duke,Missed Three Point Jumper,23,17
+5:39,Providence,Jimmy Nichols Jr.,Offensive Rebound,23,17
+5:10,Providence,Alpha Diallo,Three Point Jumper,26,17
+4:36,Marquette,Sam Hauser,Jumper,26,19
+4:15,Marquette,Brendan Bailey,Foul,26,19
+4:04,Providence,Alpha Diallo,Layup,28,19
+3:49,Providence,David Duke,Foul,28,19
+3:49,Marquette,None,None,28,19
+3:49,Marquette,Markus Howard,Free Throw,28,20
+3:49,Marquette,Markus Howard,Free Throw,28,21
+3:29,Providence,Alpha Diallo,Missed Jumper,28,21
+3:29,Marquette,Markus Howard,Defensive Rebound,28,21
+3:20,Marquette,Markus Howard,Missed Jumper,28,21
+3:20,Providence,Makai Ashton-Langford,Defensive Rebound,28,21
+2:50,Providence,Drew Edwards,Jumper,30,21
+2:33,Marquette,Sacar Anim,Missed Jumper,30,21
+2:33,Providence,Isaiah Jackson,Defensive Rebound,30,21
+2:25,Providence,Makai Ashton-Langford,Missed Three Point Jumper,30,21
+2:25,Providence,Isaiah Jackson,Offensive Rebound,30,21
+2:16,Providence,Isaiah Jackson,Missed Three Point Jumper,30,21
+2:16,Marquette,Markus Howard,Defensive Rebound,30,21
+2:05,Marquette,Sam Hauser,Missed Three Point Jumper,30,21
+2:05,Providence,Isaiah Jackson,Defensive Rebound,30,21
+1:55,Providence,Makai Ashton-Langford,Missed Jumper,30,21
+1:55,Providence,Providence,Offensive Rebound,30,21
+1:41,Providence,Nate Watson,Missed Jumper,30,21
+1:41,Marquette,Marquette,Defensive Rebound,30,21
+1:41,Providence,Nate Watson,Foul,30,21
+1:41,Marquette,Ed Morrow,Free Throw,30,22
+1:41,Marquette,Ed Morrow,Free Throw,30,23
+1:19,Providence,Nate Watson,Missed Layup,30,23
+1:19,Providence,Alpha Diallo,Offensive Rebound,30,23
+1:19,Providence,None,None,32,23
+1:00,Marquette,Ed Morrow,Dunk,32,25
+0:35,Providence,Isaiah Jackson,Foul,32,25
+0:35,Providence,Isaiah Jackson,Turnover,32,25
+0:10,Marquette,Markus Howard,Turnover,32,25
+0:10,Providence,Drew Edwards,Steal,32,25
+0:10,Providence,None,None,32,25
+0:10,Marquette,Ed Morrow,Foul,32,25
+0:10,Marquette,Ed Morrow,Foul,32,25
+0:10,Providence,Alpha Diallo,Free Throw,33,25
+0:10,Providence,Alpha Diallo,Missed Free Throw,33,25
+0:10,Providence,None,Team Rebound,33,25
+0:05,Providence,Kris Monroe,Missed Three Point Jumper,33,25
+0:05,Marquette,Marquette,Defensive Rebound,33,25
+0:00,Marquette,None,None,33,25
+20:00,Marquette,None,None,33,25
+19:44,Providence,Alpha Diallo,Foul,33,25
+19:26,Marquette,Joey Hauser,Missed Layup,33,25
+19:26,Providence,Alpha Diallo,Defensive Rebound,33,25
+18:59,Providence,None,None,33,25
+18:57,Providence,Alpha Diallo,Missed Jumper,33,25
+18:57,Marquette,Theo John,Defensive Rebound,33,25
+18:55,Providence,Nate Watson,Foul,33,25
+18:41,Marquette,Markus Howard,Jumper,33,27
+18:41,Providence,Maliek White,Foul,33,27
+18:41,Marquette,Markus Howard,Free Throw,33,28
+18:27,Marquette,Sam Hauser,Foul,33,28
+18:14,Providence,Nate Watson,Jumper,35,28
+17:58,Marquette,Sacar Anim,Missed Layup,35,28
+17:58,Marquette,Theo John,Offensive Rebound,35,28
+17:48,Marquette,Theo John,Layup,35,30
+17:26,Providence,Maliek White,Missed Jumper,35,30
+17:26,Marquette,Theo John,Block,35,30
+17:26,Providence,Jimmy Nichols Jr.,Offensive Rebound,35,30
+17:14,Providence,Jimmy Nichols Jr.,Dunk,37,30
+17:13,Providence,Alpha Diallo,Foul,37,30
+17:13,Marquette,Sam Hauser,Free Throw,37,31
+17:13,Marquette,Sam Hauser,Free Throw,37,32
+16:42,Marquette,Markus Howard,Foul,37,32
+16:34,Providence,Makai Ashton-Langford,Missed Three Point Jumper,37,32
+16:34,Marquette,Theo John,Defensive Rebound,37,32
+16:22,Marquette,Sam Hauser,Missed Three Point Jumper,37,32
+16:22,Providence,Isaiah Jackson,Defensive Rebound,37,32
+16:02,Providence,David Duke,Turnover,37,32
+16:02,Marquette,Theo John,Steal,37,32
+16:02,Providence,David Duke,Foul,37,32
+15:57,Marquette,Sacar Anim,Jumper,37,34
+15:30,Marquette,Theo John,Foul,37,34
+15:30,Marquette,None,None,37,34
+15:30,Providence,Drew Edwards,Free Throw,38,34
+15:30,Providence,Drew Edwards,Missed Free Throw,38,34
+15:30,Marquette,Sam Hauser,Defensive Rebound,38,34
+15:13,Marquette,Theo John,Missed Jumper,38,34
+15:13,Providence,Nate Watson,Defensive Rebound,38,34
+15:06,Providence,Makai Ashton-Langford,Missed Layup,38,34
+15:06,Marquette,Sam Hauser,Block,38,34
+15:06,Marquette,Joey Hauser,Defensive Rebound,38,34
+14:44,Marquette,Sam Hauser,Three Point Jumper,38,37
+14:02,Providence,Drew Edwards,Missed Three Point Jumper,38,37
+14:02,Marquette,Markus Howard,Defensive Rebound,38,37
+14:01,Providence,Makai Ashton-Langford,Foul,38,37
+14:01,Marquette,Markus Howard,Missed Free Throw,38,37
+14:01,Marquette,None,Team Rebound,38,37
+14:01,Marquette,Markus Howard,Free Throw,38,38
+13:59,Providence,Drew Edwards,Missed Jumper,38,38
+13:59,Providence,Alpha Diallo,Offensive Rebound,38,38
+13:52,Providence,Alpha Diallo,Missed Layup,38,38
+13:52,Marquette,Theo John,Block,38,38
+13:52,Marquette,Markus Howard,Defensive Rebound,38,38
+13:47,Marquette,Markus Howard,Missed Jumper,38,38
+13:47,Providence,Makai Ashton-Langford,Defensive Rebound,38,38
+13:46,Marquette,Markus Howard,Foul,38,38
+13:31,Marquette,Theo John,Foul,38,38
+13:31,Providence,Nate Watson,Free Throw,39,38
+13:31,Providence,Nate Watson,Missed Free Throw,39,38
+13:31,Marquette,Sam Hauser,Defensive Rebound,39,38
+13:11,Providence,Makai Ashton-Langford,Foul,39,38
+13:11,Marquette,Markus Howard,Missed Free Throw,39,38
+13:11,Marquette,None,Team Rebound,39,38
+13:11,Marquette,Markus Howard,Free Throw,39,39
+13:11,Marquette,Markus Howard,Free Throw,39,40
+12:57,Providence,Alpha Diallo,Missed Jumper,39,40
+12:57,Providence,Nate Watson,Offensive Rebound,39,40
+12:57,Providence,None,None,41,40
+12:48,Marquette,Sacar Anim,Missed Layup,41,40
+12:48,Providence,David Duke,Defensive Rebound,41,40
+12:37,Providence,Nate Watson,Missed Jumper,41,40
+12:37,Marquette,Joey Hauser,Defensive Rebound,41,40
+12:26,Marquette,Ed Morrow,Layup,41,42
+12:06,Providence,Alpha Diallo,Layup,43,42
+11:45,Marquette,Markus Howard,Missed Jumper,43,42
+11:45,Marquette,Ed Morrow,Offensive Rebound,43,42
+11:42,Marquette,Ed Morrow,Turnover,43,42
+11:42,Providence,Drew Edwards,Steal,43,42
+11:40,Providence,David Duke,Missed Layup,43,42
+11:40,Marquette,Marquette,Defensive Rebound,43,42
+11:40,Marquette,None,None,43,42
+11:26,Marquette,Joey Hauser,Layup,43,44
+11:01,Providence,Alpha Diallo,Turnover,43,44
+11:01,Marquette,Joseph Chartouny,Steal,43,44
+10:47,Marquette,Markus Howard,Missed Jumper,43,44
+10:47,Providence,Isaiah Jackson,Defensive Rebound,43,44
+10:40,Providence,Isaiah Jackson,Jumper,45,44
+10:40,Marquette,Joseph Chartouny,Foul,45,44
+10:40,Providence,Isaiah Jackson,Missed Free Throw,45,44
+10:40,Marquette,Joey Hauser,Defensive Rebound,45,44
+10:24,Marquette,Joseph Chartouny,Missed Three Point Jumper,45,44
+10:24,Providence,Isaiah Jackson,Defensive Rebound,45,44
+10:17,Providence,David Duke,Foul,45,44
+10:17,Providence,David Duke,Turnover,45,44
+10:01,Marquette,Sacar Anim,Three Point Jumper,45,47
+9:51,Providence,None,None,45,47
+9:47,Providence,Alpha Diallo,Missed Layup,45,47
+9:47,Marquette,Sam Hauser,Defensive Rebound,45,47
+9:26,Marquette,Sam Hauser,Jumper,45,49
+9:16,Marquette,Sacar Anim,Foul,45,49
+9:16,Providence,Makai Ashton-Langford,Missed Free Throw,45,49
+9:16,Marquette,Theo John,Defensive Rebound,45,49
+8:51,Providence,Kalif Young,Foul,45,49
+8:51,Marquette,Markus Howard,Free Throw,45,50
+8:51,Marquette,Markus Howard,Free Throw,45,51
+8:38,Marquette,Theo John,Foul,45,51
+8:38,Providence,Nate Watson,Free Throw,46,51
+8:38,Providence,Nate Watson,Free Throw,47,51
+8:28,Marquette,Ed Morrow,Layup,47,53
+8:28,Providence,Jimmy Nichols Jr.,Foul,47,53
+8:28,Marquette,Ed Morrow,Free Throw,47,54
+8:04,Providence,Jimmy Nichols Jr.,Jumper,49,54
+7:38,Marquette,Markus Howard,Missed Jumper,49,54
+7:38,Marquette,Markus Howard,Offensive Rebound,49,54
+7:34,Marquette,Markus Howard,Missed Three Point Jumper,49,54
+7:34,Providence,Jimmy Nichols Jr.,Defensive Rebound,49,54
+7:33,Marquette,Ed Morrow,Foul,49,54
+7:33,Marquette,None,None,49,54
+7:33,Providence,Jimmy Nichols Jr.,Missed Free Throw,49,54
+7:33,Providence,Makai Ashton-Langford,Offensive Rebound,49,54
+7:17,Providence,Nate Watson,Turnover,49,54
+6:51,Marquette,Ed Morrow,Missed Jumper,49,54
+6:51,Providence,Alpha Diallo,Defensive Rebound,49,54
+6:43,Providence,Nate Watson,Layup,51,54
+6:15,Marquette,Sam Hauser,Jumper,51,56
+5:54,Providence,Maliek White,Three Point Jumper,54,56
+5:42,Providence,Alpha Diallo,Foul,54,56
+5:42,Marquette,Sam Hauser,Free Throw,54,57
+5:42,Marquette,Sam Hauser,Free Throw,54,58
+5:31,Providence,Nate Watson,Dunk,56,58
+5:18,Marquette,Sam Hauser,Three Point Jumper,56,61
+5:01,Providence,Nate Watson,Jumper,58,61
+5:01,Marquette,Ed Morrow,Foul,58,61
+5:01,Providence,Nate Watson,Free Throw,59,61
+4:36,Marquette,Markus Howard,Jumper,59,63
+4:09,Providence,Nate Watson,Turnover,59,63
+3:58,Marquette,Sam Hauser,Layup,59,65
+3:58,Providence,Jimmy Nichols Jr.,Foul,59,65
+3:58,Marquette,None,None,59,65
+3:58,Marquette,None,None,59,66
+3:58,Marquette,None,None,59,65
+3:58,Marquette,None,None,59,66
+3:58,Marquette,None,None,59,65
+3:58,Marquette,None,None,59,66
+3:58,Marquette,None,None,59,65
+3:58,Marquette,None,None,59,66
+3:58,Marquette,None,None,59,65
+3:58,Marquette,None,None,59,66
+3:58,Marquette,None,None,59,65
+3:58,Marquette,None,None,59,66
+3:58,Marquette,None,None,59,65
+3:58,Marquette,None,None,59,66
+3:58,Marquette,None,None,59,65
+3:58,Marquette,None,None,59,66
+3:58,Marquette,None,None,59,65
+3:58,Marquette,Sam Hauser,Free Throw,59,66
+3:39,Providence,Nate Watson,Missed Layup,59,66
+3:39,Providence,Nate Watson,Offensive Rebound,59,66
+3:35,Providence,Nate Watson,Layup,61,66
+3:09,Marquette,Joey Hauser,Jumper,61,68
+3:09,Providence,Makai Ashton-Langford,Foul,61,68
+3:09,Marquette,Joey Hauser,Free Throw,61,69
+3:00,Providence,Isaiah Jackson,Missed Three Point Jumper,61,69
+3:00,Marquette,Markus Howard,Defensive Rebound,61,69
+2:40,Marquette,Sam Hauser,Three Point Jumper,61,72
+2:35,Providence,None,None,61,72
+2:25,Providence,Alpha Diallo,Jumper,63,72
+2:13,Providence,Maliek White,Foul,63,72
+2:13,Marquette,Markus Howard,Free Throw,63,73
+2:13,Marquette,Markus Howard,Free Throw,63,74
+2:06,Providence,Isaiah Jackson,Three Point Jumper,66,74
+2:04,Providence,None,None,66,74
+1:46,Marquette,Joey Hauser,Three Point Jumper,66,77
+1:31,Marquette,Joey Hauser,Foul,66,77
+1:31,Providence,Maliek White,Missed Free Throw,66,77
+1:31,Providence,None,Team Rebound,66,77
+1:31,Providence,Maliek White,Missed Free Throw,66,77
+1:31,Marquette,Sam Hauser,Defensive Rebound,66,77
+1:06,Marquette,Markus Howard,Missed Jumper,66,77
+1:06,Providence,Kalif Young,Defensive Rebound,66,77
+1:00,Providence,Makai Ashton-Langford,Missed Jumper,66,77
+1:00,Marquette,Theo John,Block,66,77
+1:00,Providence,Isaiah Jackson,Offensive Rebound,66,77
+1:00,Marquette,Joey Hauser,Foul,66,77
+1:00,Providence,Isaiah Jackson,Free Throw,67,77
+1:00,Providence,Isaiah Jackson,Free Throw,68,77
+0:45,Marquette,Markus Howard,Turnover,68,77
+0:45,Providence,David Duke,Steal,68,77
+0:39,Providence,Makai Ashton-Langford,Turnover,68,77
+0:39,Marquette,Sacar Anim,Steal,68,77
+0:15,Providence,Alpha Diallo,Foul,68,77
+0:15,Marquette,Markus Howard,Free Throw,68,78
+0:15,Marquette,Markus Howard,Free Throw,68,79
+0:10,Providence,Kris Monroe,Missed Three Point Jumper,68,79
+0:10,Marquette,Marquette,Defensive Rebound,68,79
+0:00,Marquette,None,None,68,79

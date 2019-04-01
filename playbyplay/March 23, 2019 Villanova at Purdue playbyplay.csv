@@ -1,0 +1,285 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Purdue,None,None,0,0
+19:45,Purdue,Carsen Edwards,Missed Three Point Jumper,0,0
+19:45,Villanova,Phil Booth,Defensive Rebound,0,0
+19:31,Villanova,Jermaine Samuels,Missed Three Point Jumper,0,0
+19:31,Purdue,Purdue,Defensive Rebound,0,0
+19:05,Purdue,Matt Haarms,Dunk,0,2
+18:34,Villanova,Eric Paschall,Jumper,2,2
+18:13,Purdue,Matt Haarms,Missed Jumper,2,2
+18:13,Purdue,Matt Haarms,Offensive Rebound,2,2
+18:07,Purdue,Matt Haarms,Layup,2,4
+17:45,Villanova,Collin Gillespie,Three Point Jumper,5,4
+17:23,Purdue,Carsen Edwards,Three Point Jumper,5,7
+16:59,Villanova,Collin Gillespie,Missed Three Point Jumper,5,7
+16:59,Purdue,Grady Eifert,Defensive Rebound,5,7
+16:50,Purdue,Carsen Edwards,Three Point Jumper,5,10
+16:21,Villanova,Collin Gillespie,Three Point Jumper,8,10
+16:03,Purdue,Carsen Edwards,Missed Three Point Jumper,8,10
+16:03,Purdue,Matt Haarms,Offensive Rebound,8,10
+15:52,Purdue,Ryan Cline,Three Point Jumper,8,13
+15:29,Villanova,Eric Paschall,Missed Jumper,8,13
+15:29,Purdue,Nojel Eastern,Defensive Rebound,8,13
+15:14,Purdue,Nojel Eastern,Missed Layup,8,13
+15:14,Purdue,Grady Eifert,Offensive Rebound,8,13
+15:09,Purdue,Carsen Edwards,Three Point Jumper,8,16
+14:48,Villanova,Jermaine Samuels,Layup,10,16
+14:37,Purdue,Carsen Edwards,Three Point Jumper,10,19
+14:02,Villanova,Eric Paschall,Turnover,10,19
+14:02,Purdue,None,None,10,19
+13:58,Purdue,Trevion Williams,Missed Jumper,10,19
+13:58,Villanova,Phil Booth,Defensive Rebound,10,19
+13:47,Villanova,Collin Gillespie,Missed Three Point Jumper,10,19
+13:47,Purdue,Carsen Edwards,Defensive Rebound,10,19
+13:40,Purdue,Ryan Cline,Missed Three Point Jumper,10,19
+13:40,Purdue,Trevion Williams,Offensive Rebound,10,19
+13:34,Purdue,Ryan Cline,Missed Three Point Jumper,10,19
+13:34,Villanova,Jermaine Samuels,Defensive Rebound,10,19
+13:17,Villanova,Saddiq Bey,Missed Three Point Jumper,10,19
+13:17,Purdue,Ryan Cline,Defensive Rebound,10,19
+12:59,Purdue,Trevion Williams,Missed Layup,10,19
+12:59,Purdue,Trevion Williams,Offensive Rebound,10,19
+12:52,Purdue,Trevion Williams,Missed Layup,10,19
+12:52,Purdue,Grady Eifert,Offensive Rebound,10,19
+12:52,Villanova,Collin Gillespie,Foul,10,19
+12:39,Purdue,Carsen Edwards,Turnover,10,19
+12:39,Villanova,Collin Gillespie,Steal,10,19
+12:35,Purdue,Carsen Edwards,Foul,10,19
+12:35,Villanova,Collin Gillespie,Free Throw,11,19
+12:35,Villanova,Collin Gillespie,Free Throw,12,19
+12:10,Purdue,Aaron Wheeler,Three Point Jumper,12,22
+11:49,Villanova,Phil Booth,Missed Three Point Jumper,12,22
+11:49,Villanova,Collin Gillespie,Offensive Rebound,12,22
+11:35,Villanova,Saddiq Bey,Turnover,12,22
+11:35,Purdue,None,None,12,22
+11:23,Purdue,Sasha Stefanovic,Three Point Jumper,12,25
+10:58,Villanova,Phil Booth,Turnover,12,25
+10:58,Purdue,Aaron Wheeler,Steal,12,25
+10:53,Purdue,Aaron Wheeler,Turnover,12,25
+10:53,Villanova,Dhamir Cosby-Roundtree,Steal,12,25
+10:44,Villanova,Collin Gillespie,Missed Three Point Jumper,12,25
+10:44,Purdue,Purdue,Defensive Rebound,12,25
+10:20,Purdue,Aaron Wheeler,Foul,12,25
+10:20,Purdue,Aaron Wheeler,Turnover,12,25
+10:02,Villanova,Phil Booth,Missed Layup,12,25
+10:02,Purdue,Aaron Wheeler,Block,12,25
+10:02,Villanova,Phil Booth,Offensive Rebound,12,25
+9:53,Villanova,Jermaine Samuels,Three Point Jumper,15,25
+9:24,Purdue,Matt Haarms,Dunk,15,27
+9:00,Villanova,Phil Booth,Jumper,17,27
+8:45,Purdue,Matt Haarms,Missed Jumper,17,27
+8:45,Purdue,Nojel Eastern,Offensive Rebound,17,27
+8:39,Purdue,Carsen Edwards,Missed Three Point Jumper,17,27
+8:39,Villanova,Villanova,Defensive Rebound,17,27
+8:39,Purdue,Matt Haarms,Foul,17,27
+8:25,Villanova,Phil Booth,Turnover,17,27
+8:03,Villanova,None,None,17,27
+8:03,Purdue,Trevion Williams,Turnover,17,27
+8:03,Villanova,Phil Booth,Steal,17,27
+7:46,Villanova,Eric Paschall,Jumper,19,27
+7:46,Purdue,Grady Eifert,Foul,19,27
+7:46,Purdue,None,None,19,27
+7:46,Villanova,Eric Paschall,Free Throw,20,27
+7:26,Purdue,Carsen Edwards,Three Point Jumper,20,30
+7:01,Villanova,Phil Booth,Missed Three Point Jumper,20,30
+7:01,Purdue,Trevion Williams,Defensive Rebound,20,30
+6:39,Villanova,Phil Booth,Foul,20,30
+6:39,Purdue,Carsen Edwards,Free Throw,20,31
+6:39,Purdue,Carsen Edwards,Free Throw,20,32
+6:22,Villanova,Eric Paschall,Missed Jumper,20,32
+6:22,Purdue,Carsen Edwards,Defensive Rebound,20,32
+6:14,Purdue,Ryan Cline,Missed Three Point Jumper,20,32
+6:14,Villanova,Collin Gillespie,Defensive Rebound,20,32
+6:06,Villanova,Eric Paschall,Missed Three Point Jumper,20,32
+6:06,Purdue,Grady Eifert,Defensive Rebound,20,32
+5:37,Purdue,Ryan Cline,Missed Layup,20,32
+5:37,Purdue,Matt Haarms,Offensive Rebound,20,32
+5:34,Purdue,Matt Haarms,Missed Layup,20,32
+5:34,Purdue,Matt Haarms,Offensive Rebound,20,32
+5:34,Villanova,Collin Gillespie,Foul,20,32
+5:23,Purdue,Aaron Wheeler,Turnover,20,32
+5:08,Villanova,Phil Booth,Jumper,22,32
+4:50,Purdue,Ryan Cline,Three Point Jumper,22,35
+4:27,Villanova,Jermaine Samuels,Missed Three Point Jumper,22,35
+4:27,Purdue,Aaron Wheeler,Defensive Rebound,22,35
+4:24,Purdue,None,None,22,35
+4:00,Purdue,Ryan Cline,Missed Three Point Jumper,22,35
+4:00,Villanova,Jermaine Samuels,Defensive Rebound,22,35
+3:47,Villanova,Eric Paschall,Missed Three Point Jumper,22,35
+3:47,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,22,35
+3:44,Purdue,Ryan Cline,Foul,22,35
+3:43,Purdue,None,None,22,35
+3:43,Villanova,Villanova ,Turnover,22,35
+3:24,Purdue,Matt Haarms,Layup,22,37
+2:59,Villanova,Phil Booth,Missed Three Point Jumper,22,37
+2:59,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,22,37
+2:50,Villanova,Dhamir Cosby-Roundtree,Missed Layup,22,37
+2:47,Purdue,Purdue,Defensive Rebound,22,37
+2:47,Villanova,None,None,22,37
+2:22,Purdue,Carsen Edwards,Missed Three Point Jumper,22,37
+2:22,Purdue,Nojel Eastern,Offensive Rebound,22,37
+2:13,Purdue,Nojel Eastern,Layup,22,39
+1:57,Villanova,Phil Booth,Turnover,22,39
+1:57,Purdue,Grady Eifert,Steal,22,39
+1:48,Purdue,Matt Haarms,Missed Three Point Jumper,22,39
+1:48,Villanova,Jermaine Samuels,Defensive Rebound,22,39
+1:34,Villanova,Dhamir Cosby-Roundtree,Turnover,22,39
+1:34,Purdue,Ryan Cline,Steal,22,39
+1:25,Purdue,Matt Haarms,Dunk,22,41
+0:47,Villanova,Eric Paschall,Jumper,24,41
+0:25,Purdue,Matt Haarms,Dunk,24,43
+0:01,Villanova,Phil Booth,Turnover,24,43
+0:00,Purdue,None,None,24,43
+20:00,Villanova,None,None,24,43
+19:36,Villanova,Jermaine Samuels,Missed Three Point Jumper,24,43
+19:36,Purdue,Ryan Cline,Defensive Rebound,24,43
+19:17,Purdue,Nojel Eastern,Turnover,24,43
+19:17,Villanova,Jermaine Samuels,Steal,24,43
+19:07,Villanova,Phil Booth,Missed Three Point Jumper,24,43
+19:07,Purdue,Matt Haarms,Defensive Rebound,24,43
+18:58,Purdue,Carsen Edwards,Three Point Jumper,24,46
+18:37,Villanova,Eric Paschall,Missed Three Point Jumper,24,46
+18:37,Villanova,Saddiq Bey,Offensive Rebound,24,46
+18:31,Villanova,Saddiq Bey,Turnover,24,46
+18:13,Villanova,Phil Booth,Foul,24,46
+18:12,Purdue,Carsen Edwards,Missed Three Point Jumper,24,46
+18:12,Villanova,Collin Gillespie,Defensive Rebound,24,46
+17:58,Villanova,Phil Booth,Missed Jumper,24,46
+17:58,Purdue,Matt Haarms,Defensive Rebound,24,46
+17:49,Villanova,Saddiq Bey,Foul,24,46
+17:41,Purdue,Carsen Edwards,Layup,24,48
+17:19,Villanova,Collin Gillespie,Missed Jumper,24,48
+17:19,Purdue,Purdue,Defensive Rebound,24,48
+17:11,Purdue,Ryan Cline,Three Point Jumper,24,51
+16:37,Villanova,Phil Booth,Foul,24,51
+16:37,Villanova,Phil Booth,Turnover,24,51
+16:31,Purdue,Carsen Edwards,Three Point Jumper,24,54
+16:09,Villanova,Collin Gillespie,Missed Three Point Jumper,24,54
+16:09,Purdue,Nojel Eastern,Defensive Rebound,24,54
+16:01,Purdue,Carsen Edwards,Missed Three Point Jumper,24,54
+16:01,Purdue,Ryan Cline,Offensive Rebound,24,54
+15:54,Purdue,Nojel Eastern,Layup,24,56
+15:52,Villanova,None,None,24,56
+15:40,Villanova,Saddiq Bey,Missed Three Point Jumper,24,56
+15:40,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,24,56
+15:33,Villanova,Phil Booth,Missed Jumper,24,56
+15:33,Purdue,Ryan Cline,Defensive Rebound,24,56
+15:09,Villanova,Collin Gillespie,Foul,24,56
+15:09,Purdue,None,None,24,56
+14:50,Purdue,Nojel Eastern,Missed Jumper,24,56
+14:50,Villanova,Eric Paschall,Defensive Rebound,24,56
+14:38,Villanova,Eric Paschall,Missed Jumper,24,56
+14:38,Purdue,Carsen Edwards,Defensive Rebound,24,56
+14:23,Purdue,Ryan Cline,Three Point Jumper,24,59
+14:05,Villanova,Eric Paschall,Jumper,26,59
+14:05,Purdue,Matt Haarms,Foul,26,59
+14:05,Villanova,Eric Paschall,Missed Free Throw,26,59
+14:05,Purdue,Grady Eifert,Defensive Rebound,26,59
+13:38,Purdue,Matt Haarms,Dunk,26,61
+13:21,Villanova,Jermaine Samuels,Three Point Jumper,29,61
+13:05,Purdue,Carsen Edwards,Missed Jumper,29,61
+13:05,Villanova,Cole Swider,Defensive Rebound,29,61
+12:54,Villanova,Phil Booth,Three Point Jumper,32,61
+12:29,Purdue,Carsen Edwards,Layup,32,63
+12:29,Villanova,Cole Swider,Foul,32,63
+12:29,Purdue,Carsen Edwards,Free Throw,32,64
+12:04,Villanova,Eric Paschall,Three Point Jumper,35,64
+11:46,Purdue,Eric Hunter Jr.,Missed Three Point Jumper,35,64
+11:46,Villanova,Joe Cremo,Defensive Rebound,35,64
+11:34,Purdue,Aaron Wheeler,Foul,35,64
+11:34,Purdue,None,None,35,64
+11:29,Villanova,Joe Cremo,Missed Three Point Jumper,35,64
+11:29,Villanova,Villanova,Offensive Rebound,35,64
+11:26,Purdue,Aaron Wheeler,Foul,35,64
+11:26,Villanova,Eric Paschall,Free Throw,36,64
+11:26,Villanova,Eric Paschall,Free Throw,37,64
+11:21,Villanova,Jermaine Samuels,Foul,37,64
+11:21,Purdue,Trevion Williams,Missed Free Throw,37,64
+11:21,Purdue,None,Team Rebound,37,64
+11:21,Purdue,Trevion Williams,Missed Free Throw,37,64
+11:21,Villanova,Joe Cremo,Defensive Rebound,37,64
+11:15,Purdue,Aaron Wheeler,Foul,37,64
+11:06,Villanova,Saddiq Bey,Missed Layup,37,64
+11:06,Purdue,Eric Hunter Jr.,Defensive Rebound,37,64
+10:50,Villanova,Collin Gillespie,Foul,37,64
+10:50,Purdue,Trevion Williams,Missed Free Throw,37,64
+10:50,Villanova,Phil Booth,Defensive Rebound,37,64
+10:37,Villanova,Eric Paschall,Missed Three Point Jumper,37,64
+10:37,Villanova,Joe Cremo,Offensive Rebound,37,64
+10:26,Villanova,Saddiq Bey,Three Point Jumper,40,64
+9:52,Purdue,Eric Hunter Jr.,Missed Three Point Jumper,40,64
+9:52,Purdue,Purdue,Offensive Rebound,40,64
+9:51,Purdue,Purdue ,Turnover,40,64
+9:43,Villanova,Eric Paschall,Jumper,42,64
+9:17,Purdue,Carsen Edwards,Foul,42,64
+9:17,Purdue,Carsen Edwards,Turnover,42,64
+8:59,Villanova,Eric Paschall,Missed Jumper,42,64
+8:59,Purdue,Matt Haarms,Block,42,64
+8:59,Purdue,Carsen Edwards,Defensive Rebound,42,64
+8:51,Villanova,Jermaine Samuels,Foul,42,64
+8:51,Purdue,Carsen Edwards,Free Throw,42,65
+8:51,Purdue,Carsen Edwards,Free Throw,42,66
+8:34,Villanova,Joe Cremo,Missed Three Point Jumper,42,66
+8:34,Purdue,Grady Eifert,Defensive Rebound,42,66
+8:12,Purdue,Carsen Edwards,Turnover,42,66
+8:12,Villanova,Phil Booth,Steal,42,66
+8:06,Villanova,Eric Paschall,Missed Three Point Jumper,42,66
+8:06,Purdue,Matt Haarms,Defensive Rebound,42,66
+7:43,Villanova,Jermaine Samuels,Foul,42,66
+7:43,Purdue,None,None,42,66
+7:43,Purdue,Grady Eifert,Free Throw,42,67
+7:43,Purdue,Grady Eifert,Free Throw,42,68
+7:22,Villanova,Saddiq Bey,Missed Three Point Jumper,42,68
+7:22,Purdue,Matt Haarms,Defensive Rebound,42,68
+7:08,Purdue,Carsen Edwards,Missed Layup,42,68
+7:08,Villanova,Eric Paschall,Defensive Rebound,42,68
+7:00,Villanova,Eric Paschall,Missed Three Point Jumper,42,68
+7:00,Purdue,Nojel Eastern,Defensive Rebound,42,68
+6:35,Purdue,Carsen Edwards,Three Point Jumper,42,71
+6:13,Purdue,Grady Eifert,Foul,42,71
+6:08,Villanova,Phil Booth,Three Point Jumper,45,71
+5:40,Purdue,Carsen Edwards,Missed Three Point Jumper,45,71
+5:40,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,45,71
+5:25,Villanova,Phil Booth,Jumper,47,71
+5:01,Villanova,Dhamir Cosby-Roundtree,Foul,47,71
+5:01,Purdue,Matt Haarms,Free Throw,47,72
+5:01,Purdue,Matt Haarms,Free Throw,47,73
+4:42,Purdue,Nojel Eastern,Foul,47,73
+4:42,Villanova,Phil Booth,Free Throw,48,73
+4:42,Villanova,Phil Booth,Free Throw,49,73
+4:42,Villanova,Phil Booth,Free Throw,50,73
+4:34,Purdue,Matt Haarms,Dunk,50,75
+4:16,Villanova,Eric Paschall,Three Point Jumper,53,75
+3:53,Purdue,Carsen Edwards,Layup,53,77
+3:27,Villanova,Jermaine Samuels,Three Point Jumper,56,77
+3:27,Villanova,None,None,56,77
+3:24,Purdue,Carsen Edwards,Turnover,56,77
+3:14,Villanova,Phil Booth,Missed Layup,56,77
+3:14,Purdue,Matt Haarms,Defensive Rebound,56,77
+2:51,Purdue,Grady Eifert,Three Point Jumper,56,80
+2:33,Villanova,Eric Paschall,Missed Three Point Jumper,56,80
+2:33,Purdue,Carsen Edwards,Defensive Rebound,56,80
+2:30,Villanova,Jermaine Samuels,Foul,56,80
+2:30,Purdue,Carsen Edwards,Free Throw,56,81
+2:30,Purdue,Carsen Edwards,Free Throw,56,82
+2:19,Villanova,Jermaine Samuels,Missed Three Point Jumper,56,82
+2:19,Purdue,Carsen Edwards,Defensive Rebound,56,82
+2:01,Purdue,Carsen Edwards,Three Point Jumper,56,85
+1:47,Villanova,Collin Gillespie,Missed Three Point Jumper,56,85
+1:47,Purdue,Grady Eifert,Defensive Rebound,56,85
+1:31,Purdue,Nojel Eastern,Turnover,56,85
+1:31,Villanova,Cole Swider,Steal,56,85
+1:25,Villanova,Cole Swider,Missed Three Point Jumper,56,85
+1:25,Villanova,Eric Paschall,Offensive Rebound,56,85
+1:20,Villanova,Cole Swider,Three Point Jumper,59,85
+0:58,Villanova,Jermaine Samuels,Foul,59,85
+0:58,Purdue,Carsen Edwards,Free Throw,59,86
+0:58,Purdue,Carsen Edwards,Free Throw,59,87
+0:48,Purdue,Aaron Wheeler,Foul,59,87
+0:48,Villanova,Cole Swider,Free Throw,60,87
+0:48,Villanova,Cole Swider,Free Throw,61,87
+0:37,Purdue,Kyle King,Turnover,61,87
+0:37,Villanova,Joe Cremo,Steal,61,87
+0:29,Villanova,Brandon Slater,Missed Three Point Jumper,61,87
+0:29,Purdue,Eric Hunter Jr.,Defensive Rebound,61,87
+0:00,Purdue,None,None,61,87

@@ -1,0 +1,406 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Alabama,None,None,0,0
+19:36,Alabama,Dazon Ingram,Missed Jumper,0,0
+19:36,Alabama,Donta Hall,Offensive Rebound,0,0
+19:31,Alabama,Donta Hall,Layup,0,2
+19:03,Mississippi State,Nick Weatherspoon,Jumper,2,2
+18:54,Alabama,Donta Hall,Layup,2,4
+18:33,Mississippi State,Aric Holman,Missed Jumper,2,4
+18:33,Alabama,Tevin Mack,Defensive Rebound,2,4
+18:21,Alabama,Tevin Mack,Missed Layup,2,4
+18:21,Mississippi State,Abdul Ado,Block,2,4
+18:21,Mississippi State,Nick Weatherspoon,Defensive Rebound,2,4
+18:05,Mississippi State,Nick Weatherspoon,Jumper,4,4
+17:48,Alabama,Donta Hall,Turnover,4,4
+17:48,Mississippi State,Nick Weatherspoon,Steal,4,4
+17:40,Mississippi State,Aric Holman,Jumper,6,4
+17:30,Alabama,Kira Lewis Jr.,Turnover,6,4
+17:30,Mississippi State,Quinndary Weatherspoon,Steal,6,4
+17:06,Mississippi State,Aric Holman,Missed Jumper,6,4
+17:06,Alabama,Kira Lewis Jr.,Defensive Rebound,6,4
+16:57,Alabama,Kira Lewis Jr.,Layup,6,6
+16:34,Mississippi State,Lamar Peters,Missed Layup,6,6
+16:34,Alabama,Herbert Jones,Defensive Rebound,6,6
+16:12,Alabama,Tevin Mack,Jumper,6,8
+15:54,Mississippi State,Lamar Peters,Missed Layup,6,8
+15:54,Alabama,Tevin Mack,Block,6,8
+15:54,Alabama,Donta Hall,Defensive Rebound,6,8
+15:41,Alabama,Herbert Jones,Missed Jumper,6,8
+15:41,Mississippi State,Abdul Ado,Defensive Rebound,6,8
+15:17,Mississippi State,Nick Weatherspoon,Missed Jumper,6,8
+15:17,Alabama,Tevin Mack,Block,6,8
+15:17,Mississippi State,Aric Holman,Offensive Rebound,6,8
+15:17,Alabama,Donta Hall,Block,6,8
+15:17,Alabama,Dazon Ingram,Defensive Rebound,6,8
+15:17,Alabama,Dazon Ingram,Turnover,6,8
+15:17,Mississippi State,Quinndary Weatherspoon,Steal,6,8
+15:04,Alabama,Herbert Jones,Foul,6,8
+15:04,Alabama,None,None,6,8
+15:04,Mississippi State,Aric Holman,Missed Free Throw,6,8
+15:04,Mississippi State,Aric Holman,Missed Free Throw,6,8
+15:04,Alabama,Tevin Mack,Defensive Rebound,6,8
+14:54,Alabama,Donta Hall,Jumper,6,10
+14:34,Mississippi State,Nick Weatherspoon,Layup,8,10
+14:17,Alabama,Kira Lewis Jr.,Turnover,8,10
+14:17,Mississippi State,Quinndary Weatherspoon,Steal,8,10
+14:05,Mississippi State,Lamar Peters,Jumper,10,10
+13:53,Alabama,John Petty,Missed Three Point Jumper,10,10
+13:53,Mississippi State,Abdul Ado,Defensive Rebound,10,10
+13:28,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,10,10
+13:28,Mississippi State,Aric Holman,Offensive Rebound,10,10
+13:20,Mississippi State,Lamar Peters,Missed Three Point Jumper,10,10
+13:20,Alabama,Dazon Ingram,Defensive Rebound,10,10
+13:11,Alabama,Donta Hall,Dunk,10,12
+13:10,Mississippi State,None,None,10,12
+12:57,Mississippi State,Quinndary Weatherspoon,Turnover,10,12
+12:57,Alabama,Donta Hall,Steal,10,12
+12:57,Mississippi State,Tyson Carter,Foul,10,12
+12:52,Alabama,Donta Hall,Dunk,10,14
+12:32,Mississippi State,Nick Weatherspoon,Missed Three Point Jumper,10,14
+12:32,Alabama,Donta Hall,Defensive Rebound,10,14
+12:11,Alabama,Riley Norris,Layup,10,16
+11:51,Mississippi State,Tyson Carter,Missed Jumper,10,16
+11:51,Mississippi State,Reggie Perry,Offensive Rebound,10,16
+11:42,Mississippi State,Reggie Perry,Turnover,10,16
+11:42,Alabama,Dazon Ingram,Steal,10,16
+11:33,Alabama,John Petty,Missed Three Point Jumper,10,16
+11:33,Mississippi State,Abdul Ado,Defensive Rebound,10,16
+11:21,Mississippi State,Quinndary Weatherspoon,Layup,12,16
+11:07,Alabama,Donta Hall,Missed Layup,12,16
+11:07,Mississippi State,Reggie Perry,Block,12,16
+11:07,Mississippi State,Nick Weatherspoon,Defensive Rebound,12,16
+11:07,Mississippi State,Quinndary Weatherspoon,Missed Layup,12,16
+11:07,Alabama,John Petty,Defensive Rebound,12,16
+11:07,Mississippi State,Reggie Perry,Foul,12,16
+11:07,Alabama,None,None,12,16
+10:37,Mississippi State,Reggie Perry,Foul,12,16
+10:37,Alabama,Riley Norris,Free Throw,12,17
+10:37,Alabama,Riley Norris,Free Throw,12,18
+10:37,Alabama,Riley Norris,Free Throw,12,19
+10:34,Mississippi State,Lamar Peters,Layup,14,19
+10:13,Alabama,Riley Norris,Missed Three Point Jumper,14,19
+10:13,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,14,19
+9:55,Mississippi State,Quinndary Weatherspoon,Turnover,14,19
+9:45,Mississippi State,Robert Woodard,Foul,14,19
+9:26,Alabama,Herbert Jones,Dunk,14,21
+9:08,Mississippi State,Lamar Peters,Missed Three Point Jumper,14,21
+9:08,Alabama,Herbert Jones,Block,14,21
+9:08,Mississippi State,Mississippi State,Offensive Rebound,14,21
+9:02,Mississippi State,Lamar Peters,Free Throw,15,21
+9:02,Mississippi State,Lamar Peters,Free Throw,16,21
+9:02,Alabama,Galin Smith,Foul,14,21
+8:48,Alabama,Herbert Jones,Missed Dunk,16,21
+8:48,Alabama,Avery Johnson Jr.,Offensive Rebound,16,21
+8:40,Alabama,Avery Johnson Jr.,Jumper,16,23
+8:21,Mississippi State,Lamar Peters,Missed Jumper,16,23
+8:21,Mississippi State,Aric Holman,Offensive Rebound,16,23
+8:15,Alabama,Herbert Jones,Foul,16,23
+8:15,Mississippi State,Robert Woodard,Missed Free Throw,16,23
+8:15,Mississippi State,None,Team Rebound,16,23
+8:15,Mississippi State,Robert Woodard,Missed Free Throw,16,23
+8:15,Alabama,Riley Norris,Defensive Rebound,16,23
+8:02,Alabama,Galin Smith,Missed Jumper,16,23
+8:02,Mississippi State,Abdul Ado,Block,16,23
+8:02,Mississippi State,Abdul Ado,Defensive Rebound,16,23
+7:54,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,16,23
+7:54,Mississippi State,Robert Woodard,Offensive Rebound,16,23
+7:45,Mississippi State,Robert Woodard,Dunk,18,23
+7:30,Alabama,Avery Johnson Jr.,Missed Three Point Jumper,18,23
+7:30,Alabama,Galin Smith,Offensive Rebound,18,23
+7:24,Alabama,Galin Smith,Layup,18,25
+7:24,Mississippi State,Quinndary Weatherspoon,Foul,18,25
+7:24,Alabama,None,None,18,25
+7:24,Alabama,Galin Smith,Free Throw,18,26
+7:07,Mississippi State,None,None,18,26
+7:07,Mississippi State,None,None,18,26
+7:07,Mississippi State,None,None,18,26
+7:01,Mississippi State,Reggie Perry,Layup,20,26
+6:43,Alabama,Donta Hall,Dunk,20,28
+6:43,Mississippi State,Abdul Ado,Foul,20,28
+6:43,Alabama,Donta Hall,Missed Free Throw,20,28
+6:43,Alabama,Riley Norris,Offensive Rebound,20,28
+6:36,Alabama,Tevin Mack,Missed Three Point Jumper,20,28
+6:36,Mississippi State,Reggie Perry,Defensive Rebound,20,28
+6:17,Alabama,Dazon Ingram,Foul,20,28
+6:14,Alabama,Dazon Ingram,Foul,20,28
+5:59,Mississippi State,Tyson Carter,Missed Jumper,20,28
+5:59,Mississippi State,Abdul Ado,Offensive Rebound,20,28
+5:57,Alabama,Alex Reese,Foul,20,28
+5:57,Mississippi State,Abdul Ado,Free Throw,21,28
+5:57,Mississippi State,Abdul Ado,Free Throw,22,28
+5:40,Alabama,Kira Lewis Jr.,Missed Layup,22,28
+5:40,Mississippi State,Reggie Perry,Defensive Rebound,22,28
+5:32,Mississippi State,Tyson Carter,Missed Three Point Jumper,22,28
+5:32,Mississippi State,Reggie Perry,Offensive Rebound,22,28
+5:28,Mississippi State,Aric Holman,Three Point Jumper,25,28
+5:11,Alabama,Kira Lewis Jr.,Turnover,25,28
+5:05,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,25,28
+5:05,Mississippi State,Mississippi State,Offensive Rebound,25,28
+5:05,Alabama,Donta Hall,Foul,25,28
+5:05,Mississippi State,Reggie Perry,Missed Free Throw,25,28
+5:05,Alabama,Tevin Mack,Defensive Rebound,25,28
+4:59,Alabama,Tevin Mack,Jumper,25,30
+4:41,Mississippi State,Nick Weatherspoon,Turnover,25,30
+4:33,Alabama,Kira Lewis Jr.,Layup,25,32
+4:11,Mississippi State,Reggie Perry,Missed Three Point Jumper,25,32
+4:11,Alabama,Tevin Mack,Defensive Rebound,25,32
+4:00,Alabama,Donta Hall,Missed Jumper,25,32
+4:00,Mississippi State,Nick Weatherspoon,Defensive Rebound,25,32
+3:53,Mississippi State,Quinndary Weatherspoon,Missed Layup,25,32
+3:53,Alabama,Donta Hall,Block,25,32
+3:53,Mississippi State,Reggie Perry,Offensive Rebound,25,32
+3:53,Mississippi State,Reggie Perry,Layup,27,32
+3:53,Alabama,Donta Hall,Foul,27,32
+3:48,Alabama,None,None,27,32
+3:39,Alabama,None,None,27,32
+3:39,Mississippi State,Reggie Perry,Missed Free Throw,27,32
+3:39,Alabama,Alex Reese,Defensive Rebound,27,32
+3:20,Alabama,John Petty,Missed Jumper,27,32
+3:20,Alabama,Tevin Mack,Offensive Rebound,27,32
+3:06,Alabama,Tevin Mack,Jumper,27,34
+2:57,Mississippi State,Lamar Peters,Turnover,27,34
+2:57,Alabama,Kira Lewis Jr.,Steal,27,34
+2:49,Alabama,Kira Lewis Jr.,Missed Layup,27,34
+2:49,Mississippi State,Abdul Ado,Defensive Rebound,27,34
+2:49,Mississippi State,Abdul Ado,Turnover,27,34
+2:47,Mississippi State,Lamar Peters,Foul,27,34
+2:47,Alabama,John Petty,Free Throw,27,35
+2:47,Alabama,John Petty,Free Throw,27,36
+2:36,Mississippi State,Lamar Peters,Missed Jumper,27,36
+2:36,Mississippi State,Abdul Ado,Offensive Rebound,27,36
+2:36,Alabama,Tevin Mack,Foul,27,36
+2:34,Mississippi State,Abdul Ado,Missed Free Throw,27,36
+2:34,Alabama,Tevin Mack,Defensive Rebound,27,36
+2:25,Alabama,Galin Smith,Missed Jumper,27,36
+2:25,Alabama,John Petty,Offensive Rebound,27,36
+2:16,Alabama,John Petty,Jumper,27,38
+1:58,Alabama,John Petty,Foul,27,38
+1:58,Mississippi State,Nick Weatherspoon,Free Throw,28,38
+1:58,Mississippi State,Nick Weatherspoon,Missed Free Throw,28,38
+1:58,Mississippi State,Aric Holman,Offensive Rebound,28,38
+1:48,Mississippi State,Aric Holman,Turnover,28,38
+1:39,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,28,38
+1:39,Mississippi State,Aric Holman,Defensive Rebound,28,38
+1:18,Mississippi State,Lamar Peters,Turnover,28,38
+1:18,Alabama,John Petty,Steal,28,38
+1:13,Alabama,Tevin Mack,Missed Three Point Jumper,28,38
+1:13,Mississippi State,Nick Weatherspoon,Defensive Rebound,28,38
+1:06,Mississippi State,Nick Weatherspoon,Missed Dunk,28,38
+1:06,Alabama,Riley Norris,Defensive Rebound,28,38
+0:46,Mississippi State,Tyson Carter,Foul,28,38
+0:46,Alabama,John Petty,Free Throw,28,39
+0:46,Alabama,John Petty,Free Throw,28,40
+0:28,Alabama,Galin Smith,Foul,28,40
+0:28,Mississippi State,Abdul Ado,Missed Free Throw,28,40
+0:28,Mississippi State,None,Team Rebound,28,40
+0:28,Mississippi State,Abdul Ado,Free Throw,29,40
+0:28,Alabama,None,None,29,40
+0:03,Mississippi State,Lamar Peters,Foul,29,40
+0:03,Alabama,Alex Reese,Missed Free Throw,29,40
+0:03,Alabama,None,Team Rebound,29,40
+0:03,Alabama,Alex Reese,Missed Free Throw,29,40
+0:03,Alabama,None,Team Rebound,29,40
+0:03,Alabama,Alex Reese,Free Throw,29,41
+0:03,Mississippi State,Lamar Peters,Missed Three Point Jumper,29,41
+0:03,Mississippi State,Robert Woodard,Offensive Rebound,29,41
+0:00,Alabama,None,None,29,41
+20:00,Mississippi State,None,None,29,41
+19:52,Mississippi State,Lamar Peters,Jumper,31,41
+19:18,Mississippi State,Quinndary Weatherspoon,Foul,31,41
+19:12,Alabama,Dazon Ingram,Jumper,31,43
+18:49,Alabama,Herbert Jones,Foul,31,43
+18:43,Mississippi State,Aric Holman,Missed Jumper,31,43
+18:43,Alabama,Tevin Mack,Defensive Rebound,31,43
+18:35,Alabama,Donta Hall,Dunk,31,45
+18:13,Mississippi State,Aric Holman,Dunk,33,45
+18:01,Alabama,Kira Lewis Jr.,Layup,33,47
+17:42,Mississippi State,Lamar Peters,Jumper,35,47
+17:22,Alabama,Tevin Mack,Missed Jumper,35,47
+17:22,Alabama,Tevin Mack,Offensive Rebound,35,47
+17:10,Mississippi State,Aric Holman,Foul,35,47
+17:10,Alabama,Tevin Mack,Missed Free Throw,35,47
+17:10,Alabama,None,Team Rebound,35,47
+17:10,Alabama,Tevin Mack,Missed Free Throw,35,47
+17:10,Mississippi State,Aric Holman,Defensive Rebound,35,47
+16:57,Alabama,Donta Hall,Foul,35,47
+16:44,Mississippi State,Lamar Peters,Turnover,35,47
+16:44,Alabama,Dazon Ingram,Steal,35,47
+16:29,Alabama,Herbert Jones,Layup,35,49
+16:29,Mississippi State,Quinndary Weatherspoon,Foul,35,49
+16:29,Alabama,Herbert Jones,Missed Free Throw,35,49
+16:29,Mississippi State,Tyson Carter,Defensive Rebound,35,49
+16:05,Mississippi State,Lamar Peters,Missed Three Point Jumper,35,49
+16:05,Mississippi State,Aric Holman,Offensive Rebound,35,49
+15:47,Mississippi State,Tyson Carter,Missed Layup,35,49
+15:47,Alabama,Tevin Mack,Block,35,49
+15:47,Mississippi State,Mississippi State,Offensive Rebound,35,49
+15:47,Alabama,None,None,35,49
+15:39,Mississippi State,Reggie Perry,Jumper,37,49
+15:17,Alabama,John Petty,Turnover,37,49
+15:17,Mississippi State,Lamar Peters,Steal,37,49
+15:08,Mississippi State,Aric Holman,Turnover,37,49
+15:08,Alabama,Galin Smith,Steal,37,49
+15:02,Alabama,Galin Smith,Dunk,37,51
+14:52,Mississippi State,Reggie Perry,Layup,39,51
+14:41,Alabama,Kira Lewis Jr.,Missed Layup,39,51
+14:41,Alabama,Galin Smith,Offensive Rebound,39,51
+14:34,Alabama,Galin Smith,Layup,39,53
+14:15,Mississippi State,Robert Woodard,Three Point Jumper,42,53
+13:59,Mississippi State,Reggie Perry,Foul,42,53
+13:59,Alabama,Kira Lewis Jr.,Free Throw,42,54
+13:59,Alabama,Kira Lewis Jr.,Missed Free Throw,42,54
+13:59,Mississippi State,Robert Woodard,Defensive Rebound,42,54
+13:40,Mississippi State,Tyson Carter,Jumper,44,54
+13:17,Alabama,Kira Lewis Jr.,Turnover,44,54
+13:17,Mississippi State,Robert Woodard,Steal,44,54
+13:15,Alabama,Herbert Jones,Foul,44,54
+13:15,Mississippi State,Robert Woodard,Free Throw,45,54
+13:15,Mississippi State,Robert Woodard,Free Throw,46,54
+12:58,Alabama,Avery Johnson Jr.,Missed Layup,46,54
+12:58,Mississippi State,Abdul Ado,Block,46,54
+12:58,Alabama,Alabama,Offensive Rebound,46,54
+12:50,Alabama,Riley Norris,Missed Three Point Jumper,46,54
+12:50,Alabama,Galin Smith,Offensive Rebound,46,54
+12:47,Mississippi State,Abdul Ado,Foul,46,54
+12:39,Alabama,Galin Smith,Missed Dunk,46,54
+12:39,Mississippi State,Robert Woodard,Block,46,54
+12:39,Mississippi State,Robert Woodard,Defensive Rebound,46,54
+12:29,Mississippi State,Quinndary Weatherspoon,Layup,48,54
+12:29,Alabama,Donta Hall,Foul,48,54
+12:29,Mississippi State,Quinndary Weatherspoon,Free Throw,49,54
+12:17,Alabama,Avery Johnson Jr.,Missed Three Point Jumper,49,54
+12:17,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,49,54
+12:05,Mississippi State,Quinndary Weatherspoon,Jumper,51,54
+12:03,Alabama,None,None,51,54
+12:03,Alabama,None,None,51,54
+11:43,Alabama,John Petty,Jumper,51,56
+11:25,Mississippi State,Quinndary Weatherspoon,Foul,51,56
+11:25,Mississippi State,Quinndary Weatherspoon,Turnover,51,56
+11:25,Alabama,None,None,51,56
+11:08,Alabama,John Petty,Layup,51,58
+10:39,Mississippi State,Lamar Peters,Missed Jumper,51,58
+10:39,Alabama,Avery Johnson Jr.,Defensive Rebound,51,58
+10:29,Mississippi State,Lamar Peters,Foul,51,58
+10:29,Alabama,Dazon Ingram,Free Throw,51,59
+10:29,Alabama,Dazon Ingram,Missed Free Throw,51,59
+10:29,Mississippi State,Reggie Perry,Defensive Rebound,51,59
+10:19,Mississippi State,Aric Holman,Layup,53,59
+10:19,Alabama,Riley Norris,Foul,53,59
+10:15,Mississippi State,Aric Holman,Free Throw,54,59
+10:09,Alabama,Riley Norris,Layup,54,61
+9:46,Mississippi State,Aric Holman,Missed Jumper,54,61
+9:46,Mississippi State,Robert Woodard,Offensive Rebound,54,61
+9:40,Mississippi State,Robert Woodard,Missed Jumper,54,61
+9:40,Alabama,Alex Reese,Defensive Rebound,54,61
+9:27,Alabama,Avery Johnson Jr.,Missed Three Point Jumper,54,61
+9:27,Alabama,Riley Norris,Offensive Rebound,54,61
+9:27,Alabama,Riley Norris,Layup,54,63
+9:27,Mississippi State,Aric Holman,Foul,54,63
+9:27,Alabama,Riley Norris,Free Throw,54,64
+9:12,Mississippi State,Aric Holman,Missed Jumper,54,64
+9:12,Alabama,Kira Lewis Jr.,Defensive Rebound,54,64
+8:49,Alabama,Riley Norris,Missed Three Point Jumper,54,64
+8:49,Mississippi State,Robert Woodard,Defensive Rebound,54,64
+8:36,Mississippi State,Quinndary Weatherspoon,Three Point Jumper,57,64
+8:34,Mississippi State,None,None,57,64
+8:15,Alabama,John Petty,Three Point Jumper,57,67
+7:47,Mississippi State,Robert Woodard,Missed Three Point Jumper,57,67
+7:47,Alabama,Riley Norris,Defensive Rebound,57,67
+7:24,Alabama,John Petty,Missed Layup,57,67
+7:24,Mississippi State,Robert Woodard,Defensive Rebound,57,67
+7:16,Mississippi State,Robert Woodard,Turnover,57,67
+7:16,Alabama,Kira Lewis Jr.,Steal,57,67
+7:16,Alabama,Kira Lewis Jr.,Layup,57,69
+7:16,Mississippi State,None,None,57,69
+7:16,Alabama,None,None,57,69
+7:02,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,57,69
+7:02,Alabama,Kira Lewis Jr.,Defensive Rebound,57,69
+6:39,Alabama,John Petty,Missed Three Point Jumper,57,69
+6:39,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,57,69
+6:30,Mississippi State,Lamar Peters,Layup,59,69
+6:09,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,59,69
+6:09,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,59,69
+5:58,Mississippi State,Quinndary Weatherspoon,Layup,61,69
+5:38,Alabama,Tevin Mack,Foul,61,69
+5:38,Alabama,Tevin Mack,Turnover,61,69
+5:29,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,61,69
+5:29,Alabama,Alabama,Defensive Rebound,61,69
+5:03,Mississippi State,Abdul Ado,Foul,61,69
+5:03,Alabama,Donta Hall,Missed Free Throw,61,69
+5:03,Alabama,None,Team Rebound,61,69
+5:03,Alabama,Donta Hall,Free Throw,61,70
+4:57,Mississippi State,Reggie Perry,Dunk,63,70
+4:35,Alabama,Riley Norris,Missed Three Point Jumper,63,70
+4:35,Alabama,Donta Hall,Offensive Rebound,63,70
+4:26,Alabama,Dazon Ingram,Dunk,63,72
+4:13,Mississippi State,Reggie Perry,Missed Jumper,63,72
+4:13,Alabama,Donta Hall,Defensive Rebound,63,72
+4:05,Alabama,Herbert Jones,Dunk,63,74
+4:00,Mississippi State,None,None,63,74
+4:00,Alabama,None,None,63,74
+3:42,Mississippi State,Reggie Perry,Jumper,65,74
+3:23,Alabama,Dazon Ingram,Missed Layup,65,74
+3:23,Mississippi State,Reggie Perry,Block,65,74
+3:23,Mississippi State,Tyson Carter,Defensive Rebound,65,74
+3:07,Mississippi State,Lamar Peters,Missed Three Point Jumper,65,74
+3:07,Mississippi State,Reggie Perry,Offensive Rebound,65,74
+3:01,Mississippi State,Reggie Perry,Layup,67,74
+2:44,Mississippi State,Tyson Carter,Foul,67,74
+2:44,Alabama,Donta Hall,Missed Free Throw,67,74
+2:44,Alabama,Donta Hall,Free Throw,67,75
+2:28,Mississippi State,Reggie Perry,Jumper,69,75
+2:10,Alabama,Kira Lewis Jr.,Turnover,69,75
+2:10,Mississippi State,Lamar Peters,Steal,69,75
+2:02,Mississippi State,Lamar Peters,Missed Three Point Jumper,69,75
+2:02,Alabama,John Petty,Defensive Rebound,69,75
+1:54,Alabama,John Petty,Turnover,69,75
+1:54,Alabama,Kira Lewis Jr.,Foul,69,75
+1:48,Mississippi State,Tyson Carter,Free Throw,70,75
+1:48,Mississippi State,Tyson Carter,Free Throw,71,75
+1:48,Mississippi State,Mississippi State,Offensive Rebound,71,75
+1:42,Alabama,John Petty,Turnover,71,75
+1:42,Mississippi State,Aric Holman,Steal,71,75
+1:31,Mississippi State,Quinndary Weatherspoon,Turnover,71,75
+1:31,Alabama,None,None,71,75
+1:06,Mississippi State,Aric Holman,Foul,71,75
+1:06,Alabama,Riley Norris,Missed Free Throw,71,75
+1:06,Alabama,None,Team Rebound,71,75
+1:06,Alabama,Riley Norris,Free Throw,71,76
+0:59,Mississippi State,Reggie Perry,Jumper,73,76
+0:53,Mississippi State,Aric Holman,Foul,73,76
+0:53,Alabama,Dazon Ingram,Free Throw,73,77
+0:53,Alabama,Dazon Ingram,Free Throw,73,78
+0:42,Mississippi State,Lamar Peters,Layup,75,78
+0:39,Alabama,Dazon Ingram,Turnover,75,78
+0:31,Mississippi State,Tyson Carter,Missed Three Point Jumper,75,78
+0:31,Alabama,Herbert Jones,Block,75,78
+0:31,Mississippi State,Quinndary Weatherspoon,Offensive Rebound,75,78
+0:29,Mississippi State,Tyson Carter,Foul,75,78
+0:29,Alabama,Donta Hall,Free Throw,75,79
+0:29,Alabama,Donta Hall,Free Throw,75,80
+0:29,Mississippi State,Lamar Peters,Missed Jumper,75,80
+0:29,Alabama,Herbert Jones,Block,75,80
+0:29,Mississippi State,Quinndary Weatherspoon,Offensive Rebound,75,80
+0:20,Mississippi State,Quinndary Weatherspoon,Layup,77,80
+0:20,Alabama,Dazon Ingram,Foul,77,80
+0:20,Mississippi State,Quinndary Weatherspoon,Missed Free Throw,77,80
+0:20,Alabama,Donta Hall,Defensive Rebound,77,80
+0:20,Mississippi State,Reggie Perry,Foul,77,80
+0:20,Alabama,Donta Hall,Missed Free Throw,77,80
+0:20,Alabama,None,Team Rebound,77,80
+0:20,Alabama,Donta Hall,Free Throw,77,81
+0:14,Mississippi State,Lamar Peters,Missed Jumper,77,81
+0:14,Alabama,Herbert Jones,Defensive Rebound,77,81
+0:13,Mississippi State,Lamar Peters,Foul,77,81
+0:13,Alabama,Herbert Jones,Missed Free Throw,77,81
+0:13,Alabama,None,Team Rebound,77,81
+0:13,Alabama,Herbert Jones,Free Throw,77,82
+0:07,Mississippi State,Reggie Perry,Missed Dunk,77,82
+0:07,Alabama,Herbert Jones,Block,77,82
+0:07,Mississippi State,Aric Holman,Offensive Rebound,77,82
+0:02,Mississippi State,Aric Holman,Layup,79,82
+0:02,Mississippi State,Tyson Carter,Foul,79,82
+0:02,Alabama,Herbert Jones,Missed Free Throw,79,82
+0:02,Alabama,None,Team Rebound,79,82
+0:02,Alabama,Herbert Jones,Free Throw,79,83
+0:00,Alabama,None,None,79,83

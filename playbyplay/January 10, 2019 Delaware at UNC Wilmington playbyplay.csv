@@ -1,0 +1,280 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:56,Delaware,Ithiel Horton,Turnover,0,0
+19:34,Delaware,Eric Carter,Defensive Rebound,0,0
+19:31,Delaware,Ithiel Horton,Three Point Jumper,3,0
+19:14,UNC Wilmington,Jeantal Cylla,Missed Layup,3,0
+19:11,Delaware,Eric Carter,Defensive Rebound,3,0
+19:01,Delaware,Ryan Allen,Missed Three Point Jumper,3,0
+18:56,UNC Wilmington,Devontae Cacok,Defensive Rebound,3,0
+18:48,UNC Wilmington,Kai Toews,Missed Jumper,3,0
+18:45,Delaware,Eric Carter,Defensive Rebound,3,0
+18:23,Delaware,Ithiel Horton,Three Point Jumper,6,0
+17:44,Delaware,Matt Veretto,Missed Three Point Jumper,6,2
+17:40,UNC Wilmington,Jaylen Fornes,Defensive Rebound,6,2
+17:33,UNC Wilmington,Jaylen Fornes,Layup,6,4
+17:17,Delaware,Ithiel Horton,Three Point Jumper,9,4
+16:58,UNC Wilmington,Kai Toews,Missed Jumper,9,4
+16:54,UNC Wilmington,Devontae Cacok,Offensive Rebound,9,4
+16:53,UNC Wilmington,Devontae Cacok,Layup,9,6
+16:29,Delaware,Matt Veretto,Missed Three Point Jumper,9,6
+16:25,UNC Wilmington,Jay Estime',Defensive Rebound,9,6
+16:22,UNC Wilmington,Jaylen Fornes,Foul,9,6
+16:22,UNC Wilmington,Jaylen Fornes,Turnover,9,6
+15:49,Delaware,Ithiel Horton,Three Point Jumper,12,6
+15:31,UNC Wilmington,Jeantal Cylla,Missed Three Point Jumper,12,6
+15:26,UNC Wilmington,Jay Estime',Offensive Rebound,12,6
+15:23,UNC Wilmington,Jay Estime',Three Point Jumper,12,9
+15:05,UNC Wilmington,Jaylen Fornes,Foul,12,9
+15:05,UNC Wilmington,None,None,12,9
+14:46,Delaware,Delaware ,Turnover,12,9
+14:21,UNC Wilmington,Ty Gadsden,Turnover,12,9
+14:21,Delaware,Ithiel Horton,Steal,12,9
+14:16,Delaware,Ithiel Horton,Missed Layup,12,9
+14:16,UNC Wilmington,Devontae Cacok,Block,12,9
+14:07,Delaware,Eric Carter,Offensive Rebound,12,9
+14:06,Delaware,Eric Carter,Layup,14,9
+14:00,UNC Wilmington,Jay Estime',Missed Three Point Jumper,14,9
+13:56,UNC Wilmington,Shawn O'Connell,Offensive Rebound,14,9
+13:50,Delaware,Eric Carter,Foul,14,9
+13:43,UNC Wilmington,Ty Gadsden,Three Point Jumper,14,12
+13:15,Delaware,Ithiel Horton,Missed Three Point Jumper,14,12
+13:11,UNC Wilmington,Ty Taylor II,Defensive Rebound,14,12
+12:55,UNC Wilmington,Jeantal Cylla,Jumper,14,14
+12:38,Delaware,Ryan Allen,Missed Three Point Jumper,14,14
+12:34,Delaware,Delaware,Offensive Rebound,14,14
+12:15,Delaware,Kevin Anderson,Turnover,14,14
+12:15,UNC Wilmington,Ty Taylor II,Steal,14,14
+12:12,Delaware,Kevin Anderson,Foul,14,14
+12:12,UNC Wilmington,Ty Taylor II,Missed Free Throw,14,14
+12:12,UNC Wilmington,None,Team Rebound,14,14
+12:12,UNC Wilmington,Ty Taylor II,Missed Free Throw,14,14
+12:12,Delaware,Collin Goss,Defensive Rebound,14,14
+12:04,Delaware,Ryan Allen,Missed Three Point Jumper,14,14
+11:59,UNC Wilmington,Jaylen Sims,Defensive Rebound,14,14
+11:54,UNC Wilmington,Kai Toews,Layup,14,16
+11:31,Delaware,Ryan Allen,Three Point Jumper,17,16
+11:17,UNC Wilmington,Jeantal Cylla,Jumper,17,18
+10:55,Delaware,Ithiel Horton,Three Point Jumper,20,18
+10:39,UNC Wilmington,Kai Toews,Three Point Jumper,20,21
+10:22,Delaware,Collin Goss,Layup,22,21
+10:10,UNC Wilmington,Ty Taylor II,Missed Jumper,22,21
+10:06,Delaware,Collin Goss,Defensive Rebound,22,21
+9:55,Delaware,Ryan Johnson,Layup,24,21
+9:35,UNC Wilmington,Jaylen Sims,Missed Three Point Jumper,24,21
+9:31,Delaware,Kevin Anderson,Defensive Rebound,24,21
+9:12,Delaware,Ryan Allen,Three Point Jumper,27,21
+9:01,UNC Wilmington,None,None,27,21
+9:01,UNC Wilmington,None,None,27,21
+8:43,UNC Wilmington,Jeantal Cylla,Missed Jumper,27,21
+8:39,Delaware,Ryan Johnson,Defensive Rebound,27,21
+8:20,Delaware,Darian Bryant,Missed Three Point Jumper,27,21
+8:17,UNC Wilmington,Jay Estime',Defensive Rebound,27,21
+8:04,UNC Wilmington,Jay Estime',Jumper,27,23
+7:44,Delaware,Ryan Johnson,Missed Three Point Jumper,27,23
+7:40,UNC Wilmington,Devontae Cacok,Defensive Rebound,27,23
+7:33,UNC Wilmington,Jay Estime',Layup,27,25
+7:11,Delaware,Eric Carter,Jumper,29,25
+6:56,UNC Wilmington,Kai Toews,Missed Jumper,29,25
+6:49,UNC Wilmington,Devontae Cacok,Offensive Rebound,29,25
+6:48,UNC Wilmington,Devontae Cacok,Missed Layup,29,25
+6:43,Delaware,Kevin Anderson,Defensive Rebound,29,25
+6:25,Delaware,Darian Bryant,Missed Three Point Jumper,29,25
+6:21,Delaware,Eric Carter,Offensive Rebound,29,25
+6:20,Delaware,Eric Carter,Layup,31,25
+5:48,UNC Wilmington,UNC Wilmington ,Turnover,31,25
+5:48,UNC Wilmington,None,None,31,25
+5:19,Delaware,Eric Carter,Missed Layup,31,25
+5:16,UNC Wilmington,Devontae Cacok,Defensive Rebound,31,25
+4:56,UNC Wilmington,Devontae Cacok,Foul,31,25
+4:56,UNC Wilmington,Devontae Cacok,Turnover,31,25
+4:27,Delaware,Darian Bryant,Missed Jumper,31,25
+4:23,UNC Wilmington,Jay Estime',Defensive Rebound,31,25
+4:03,UNC Wilmington,Jay Estime',Missed Jumper,31,25
+4:00,UNC Wilmington,Devontae Cacok,Offensive Rebound,31,25
+3:59,UNC Wilmington,Devontae Cacok,Layup,31,27
+3:38,Delaware,Kevin Anderson,Turnover,31,27
+3:38,UNC Wilmington,None,None,31,27
+3:15,UNC Wilmington,Devontae Cacok,Missed Jumper,31,27
+3:10,Delaware,Ithiel Horton,Defensive Rebound,31,27
+2:56,Delaware,Ryan Allen,Missed Three Point Jumper,31,27
+2:53,UNC Wilmington,Jaylen Sims,Defensive Rebound,31,27
+2:33,UNC Wilmington,Jaylen Sims,Missed Jumper,31,27
+2:29,UNC Wilmington,Devontae Cacok,Offensive Rebound,31,27
+2:27,UNC Wilmington,Ty Taylor II,Missed Three Point Jumper,31,27
+2:25,Delaware,Ithiel Horton,Defensive Rebound,31,27
+2:25,UNC Wilmington,Devontae Cacok,Foul,31,27
+2:25,Delaware,Ithiel Horton,Free Throw,33,27
+2:25,Delaware,Ithiel Horton,Free Throw,32,27
+2:25,Delaware,Darian Bryant,Foul,33,27
+2:25,UNC Wilmington,Devontae Cacok,Missed Free Throw,33,27
+2:25,UNC Wilmington,None,Team Rebound,33,27
+2:25,UNC Wilmington,Devontae Cacok,Free Throw,33,28
+2:24,Delaware,Darian Bryant,Layup,35,28
+2:14,UNC Wilmington,Shawn O'Connell,Missed Three Point Jumper,35,28
+2:09,Delaware,Eric Carter,Defensive Rebound,35,28
+2:04,Delaware,Darian Bryant,Three Point Jumper,38,28
+1:47,Delaware,None,None,38,28
+1:42,UNC Wilmington,Shawn O'Connell,Missed Jumper,38,28
+1:38,Delaware,Eric Carter,Defensive Rebound,38,28
+1:23,Delaware,Ithiel Horton,Three Point Jumper,41,28
+1:09,UNC Wilmington,Ty Taylor II,Missed Three Point Jumper,41,28
+1:02,UNC Wilmington,Shawn O'Connell,Offensive Rebound,41,28
+1:02,UNC Wilmington,Shawn O'Connell,Layup,41,30
+0:33,Delaware,Kevin Anderson,Foul,41,30
+0:33,UNC Wilmington,Shawn O'Connell,Free Throw,41,31
+0:01,Delaware,Ryan Allen,Missed Three Point Jumper,41,31
+0:00,UNC Wilmington,Jaylen Sims,Defensive Rebound,41,31
+0:00,UNC Wilmington,None,None,41,31
+19:47,UNC Wilmington,Devontae Cacok,Missed Layup,41,31
+19:41,Delaware,Eric Carter,Defensive Rebound,41,31
+19:21,Delaware,Matt Veretto,Three Point Jumper,44,31
+19:07,UNC Wilmington,Jaylen Fornes,Missed Jumper,44,31
+19:02,Delaware,Ryan Allen,Defensive Rebound,44,31
+19:00,Delaware,Ithiel Horton,Missed Three Point Jumper,44,31
+18:56,UNC Wilmington,Jaylen Fornes,Defensive Rebound,44,31
+18:49,UNC Wilmington,Jay Estime',Three Point Jumper,44,34
+18:29,Delaware,Eric Carter,Layup,46,34
+18:17,UNC Wilmington,Jeantal Cylla,Missed Layup,46,34
+18:16,Delaware,Delaware,Defensive Rebound,46,34
+18:09,Delaware,Matt Veretto,Three Point Jumper,49,34
+18:07,UNC Wilmington,None,None,49,34
+18:07,UNC Wilmington,None,None,49,34
+17:47,UNC Wilmington,Ty Gadsden,Missed Layup,49,34
+17:43,Delaware,Eric Carter,Defensive Rebound,49,34
+17:20,UNC Wilmington,Shawn O'Connell,Foul,49,34
+17:20,Delaware,Ryan Allen,Free Throw,50,34
+17:20,Delaware,Ryan Allen,Free Throw,51,34
+17:13,Delaware,Darian Bryant,Foul,51,34
+17:09,UNC Wilmington,Devontae Cacok,Missed Jumper,51,34
+17:05,UNC Wilmington,Shawn O'Connell,Offensive Rebound,51,34
+17:05,Delaware,Matt Veretto,Foul,51,34
+17:05,UNC Wilmington,Shawn O'Connell,Free Throw,51,35
+17:05,UNC Wilmington,Shawn O'Connell,Missed Free Throw,51,35
+17:05,Delaware,Matt Veretto,Defensive Rebound,51,35
+16:53,Delaware,Ryan Allen,Turnover,51,35
+16:39,UNC Wilmington,Kai Toews,Missed Layup,51,35
+16:37,UNC Wilmington,Devontae Cacok,Offensive Rebound,51,35
+16:37,Delaware,Darian Bryant,Foul,51,35
+16:37,UNC Wilmington,Devontae Cacok,Missed Free Throw,51,35
+16:37,UNC Wilmington,None,Team Rebound,51,35
+16:37,UNC Wilmington,Devontae Cacok,Free Throw,51,36
+16:08,Delaware,Ithiel Horton,Missed Three Point Jumper,51,36
+16:05,Delaware,Eric Carter,Offensive Rebound,51,36
+16:03,Delaware,Ryan Johnson,Turnover,51,36
+15:44,UNC Wilmington,Jaylen Sims,Missed Three Point Jumper,51,36
+15:41,Delaware,Eric Carter,Defensive Rebound,51,36
+15:32,Delaware,Eric Carter,Missed Jumper,51,36
+15:29,UNC Wilmington,Devontae Cacok,Defensive Rebound,51,36
+15:11,UNC Wilmington,None,None,51,36
+14:58,UNC Wilmington,Ty Gadsden,Turnover,51,36
+14:34,Delaware,Kevin Anderson,Turnover,51,36
+14:34,UNC Wilmington,Shawn O'Connell,Steal,51,36
+14:26,UNC Wilmington,Ty Gadsden,Three Point Jumper,51,39
+14:02,Delaware,Kevin Anderson,Missed Three Point Jumper,51,39
+14:00,Delaware,Eric Carter,Offensive Rebound,51,39
+14:00,UNC Wilmington,Devontae Cacok,Foul,51,39
+13:45,UNC Wilmington,Shawn O'Connell,Foul,51,39
+13:45,Delaware,Eric Carter,Free Throw,52,39
+13:45,Delaware,Eric Carter,Free Throw,53,39
+13:25,Delaware,Kevin Anderson,Foul,53,39
+13:25,UNC Wilmington,Jeantal Cylla,Missed Free Throw,53,39
+13:25,UNC Wilmington,None,Team Rebound,53,39
+13:25,UNC Wilmington,Jeantal Cylla,Free Throw,53,40
+13:15,Delaware,Ithiel Horton,Three Point Jumper,56,40
+13:03,Delaware,Ithiel Horton,Foul,56,40
+12:55,UNC Wilmington,Jaylen Sims,Missed Jumper,56,40
+12:51,Delaware,Ryan Allen,Defensive Rebound,56,40
+12:27,UNC Wilmington,Jaylen Sims,Foul,56,40
+12:11,Delaware,Ryan Johnson,Missed Jumper,56,40
+12:07,UNC Wilmington,Devontae Cacok,Defensive Rebound,56,40
+12:03,UNC Wilmington,Kai Toews,Missed Jumper,56,40
+11:59,Delaware,Eric Carter,Defensive Rebound,56,40
+11:34,Delaware,Ryan Allen,Missed Three Point Jumper,56,40
+11:30,UNC Wilmington,Ty Taylor II,Defensive Rebound,56,40
+11:16,UNC Wilmington,Jay Estime',Three Point Jumper,56,43
+11:04,Delaware,None,None,56,43
+11:04,UNC Wilmington,None,None,56,43
+10:44,Delaware,Ithiel Horton,Jumper,58,43
+10:20,UNC Wilmington,Jeantal Cylla,Jumper,58,45
+10:01,Delaware,Ithiel Horton,Three Point Jumper,61,45
+9:54,Delaware,Kevin Anderson,Foul,61,45
+9:54,UNC Wilmington,Ty Taylor II,Missed Free Throw,61,45
+9:54,UNC Wilmington,None,Team Rebound,61,45
+9:54,UNC Wilmington,Ty Taylor II,Missed Free Throw,61,45
+9:54,UNC Wilmington,Devontae Cacok,Offensive Rebound,61,45
+9:52,UNC Wilmington,Devontae Cacok,Layup,61,47
+9:21,Delaware,Darian Bryant,Jumper,63,47
+9:05,Delaware,Collin Goss,Foul,63,47
+9:05,UNC Wilmington,Devontae Cacok,Free Throw,63,48
+9:05,UNC Wilmington,Devontae Cacok,Free Throw,63,49
+8:42,Delaware,Ithiel Horton,Three Point Jumper,66,49
+8:40,Delaware,Ithiel Horton,Foul,66,49
+8:40,UNC Wilmington,Ty Gadsden,Free Throw,66,50
+8:40,UNC Wilmington,Ty Gadsden,Free Throw,66,51
+8:24,UNC Wilmington,Ty Gadsden,Missed Jumper,66,51
+8:19,UNC Wilmington,Jeantal Cylla,Offensive Rebound,66,51
+8:18,UNC Wilmington,Jeantal Cylla,Layup,66,53
+7:53,Delaware,Matt Veretto,Missed Three Point Jumper,66,53
+7:48,UNC Wilmington,Ty Taylor II,Defensive Rebound,66,53
+7:46,UNC Wilmington,Jeantal Cylla,Missed Three Point Jumper,66,53
+7:43,Delaware,Matt Veretto,Defensive Rebound,66,53
+7:11,Delaware,Ryan Allen,Missed Three Point Jumper,66,53
+7:11,UNC Wilmington,Jeantal Cylla,Defensive Rebound,66,53
+7:11,Delaware,Matt Veretto,Foul,66,53
+7:11,UNC Wilmington,None,None,66,53
+7:11,UNC Wilmington,Jeantal Cylla,Free Throw,66,54
+7:11,UNC Wilmington,Jeantal Cylla,Free Throw,66,55
+6:50,Delaware,Ryan Allen,Layup,68,55
+6:27,UNC Wilmington,Jay Estime',Jumper,68,57
+5:55,Delaware,Ithiel Horton,Missed Three Point Jumper,68,57
+5:50,UNC Wilmington,Devontae Cacok,Defensive Rebound,68,57
+5:43,UNC Wilmington,Jay Estime',Missed Three Point Jumper,68,57
+5:41,Delaware,Ryan Johnson,Defensive Rebound,68,57
+5:41,UNC Wilmington,Jeantal Cylla,Foul,68,57
+5:41,Delaware,None,None,68,57
+5:26,UNC Wilmington,Jay Estime',Foul,68,57
+5:17,Delaware,Ryan Johnson,Three Point Jumper,71,57
+5:08,UNC Wilmington,Jay Estime',Missed Three Point Jumper,71,57
+5:03,Delaware,Kevin Anderson,Defensive Rebound,71,57
+4:40,Delaware,Kevin Anderson,Missed Three Point Jumper,71,57
+4:34,UNC Wilmington,Ty Gadsden,Defensive Rebound,71,57
+4:19,UNC Wilmington,Jeantal Cylla,Missed Jumper,71,57
+4:16,Delaware,Ryan Allen,Defensive Rebound,71,57
+4:16,Delaware,Ryan Allen,Turnover,71,57
+4:15,UNC Wilmington,Kai Toews,Turnover,71,57
+4:15,Delaware,Kevin Anderson,Steal,71,57
+4:08,Delaware,Kevin Anderson,Dunk,73,57
+3:30,UNC Wilmington,Jay Estime',Foul,73,59
+3:30,UNC Wilmington,None,None,73,59
+3:30,Delaware,Eric Carter,Free Throw,74,59
+3:30,Delaware,Eric Carter,Free Throw,75,59
+3:09,UNC Wilmington,Kai Toews,Missed Three Point Jumper,75,59
+3:05,Delaware,Ithiel Horton,Defensive Rebound,75,59
+2:35,Delaware,Ryan Johnson,Missed Three Point Jumper,75,59
+2:30,UNC Wilmington,Jay Estime',Defensive Rebound,75,59
+2:15,UNC Wilmington,Ty Gadsden,Three Point Jumper,75,62
+2:12,UNC Wilmington,Devontae Cacok,Foul,75,62
+2:12,Delaware,Eric Carter,Free Throw,76,62
+2:12,Delaware,Eric Carter,Free Throw,77,62
+1:49,UNC Wilmington,Ty Gadsden,Missed Three Point Jumper,77,62
+1:44,Delaware,Eric Carter,Defensive Rebound,77,62
+1:36,Delaware,Ryan Allen,Turnover,77,62
+1:26,UNC Wilmington,Jaylen Fornes,Missed Three Point Jumper,77,62
+1:21,UNC Wilmington,Jaylen Sims,Offensive Rebound,77,62
+1:20,UNC Wilmington,Jaylen Sims,Layup,77,64
+1:15,UNC Wilmington,Ty Gadsden,Foul,77,64
+1:15,Delaware,Darian Bryant,Free Throw,78,64
+1:15,Delaware,Darian Bryant,Free Throw,79,64
+1:03,UNC Wilmington,Ty Gadsden,Missed Three Point Jumper,79,64
+0:59,Delaware,Ryan Johnson,Defensive Rebound,79,64
+0:51,UNC Wilmington,Ty Taylor II,Foul,79,64
+0:51,Delaware,Kevin Anderson,Missed Free Throw,79,64
+0:51,Delaware,None,Team Rebound,79,64
+0:51,Delaware,Kevin Anderson,Free Throw,80,64
+0:48,Delaware,Ryan Johnson,Foul,80,64
+0:48,UNC Wilmington,Jaylen Fornes,Free Throw,80,65
+0:48,UNC Wilmington,Jaylen Fornes,Free Throw,80,66
+0:31,Delaware,Ryan Johnson,Layup,82,66
+0:19,UNC Wilmington,Jaylen Fornes,Three Point Jumper,82,69
+0:00,UNC Wilmington,None,None,82,69
+0:00,UNC Wilmington,None,None,82,69

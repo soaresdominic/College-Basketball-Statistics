@@ -1,0 +1,363 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Morgan State,None,None,0,0
+19:39,Morgan State,Jordan Little,Missed Jumper,0,0
+19:39,Villanova,Phil Booth,Defensive Rebound,0,0
+19:14,Villanova,Collin Gillespie,Three Point Jumper,0,3
+18:54,Morgan State,David Syfax,Layup,2,3
+18:31,Villanova,Jermaine Samuels,Three Point Jumper,2,6
+18:16,Morgan State,Jordan Little,Layup,4,6
+17:58,Villanova,Phil Booth,Missed Three Point Jumper,4,6
+17:58,Villanova,Jermaine Samuels,Offensive Rebound,4,6
+17:53,Villanova,Jermaine Samuels,Turnover,4,6
+17:53,Morgan State,Sherwyn Devonish-Prince Jr.,Steal,4,6
+17:46,Morgan State,Sherwyn Devonish-Prince Jr.,Missed Three Point Jumper,4,6
+17:46,Villanova,Collin Gillespie,Defensive Rebound,4,6
+17:43,Morgan State,Victor Curry,Foul,4,6
+17:34,Villanova,Eric Paschall,Dunk,4,8
+17:09,Morgan State,Sherwyn Devonish-Prince Jr.,Turnover,4,8
+17:09,Villanova,Eric Paschall,Steal,4,8
+17:03,Villanova,Eric Paschall,Dunk,4,10
+16:47,Morgan State,Victor Curry,Missed Jumper,4,10
+16:47,Villanova,Dhamir Cosby-Roundtree,Block,4,10
+16:47,Morgan State,Victor Curry,Offensive Rebound,4,10
+16:40,Morgan State,Martez Cameron,Layup,6,10
+16:40,Villanova,Eric Paschall,Foul,6,10
+16:40,Morgan State,Martez Cameron,Free Throw,7,10
+16:37,Villanova,Jahvon Quinerly,Turnover,7,10
+16:37,Morgan State,Martez Cameron,Steal,7,10
+16:32,Morgan State,Martez Cameron,Missed Jumper,7,10
+16:31,Villanova,Eric Paschall,Defensive Rebound,7,10
+16:28,Villanova,Jahvon Quinerly,Missed Three Point Jumper,7,10
+16:28,Villanova,Villanova,Offensive Rebound,7,10
+16:28,Morgan State,David Syfax,Foul,7,10
+16:19,Villanova,Saddiq Bey,Three Point Jumper,7,13
+16:08,Morgan State,Sherwyn Devonish-Prince Jr.,Missed Jumper,7,13
+16:08,Villanova,Collin Gillespie,Defensive Rebound,7,13
+15:59,Villanova,Saddiq Bey,Three Point Jumper,7,16
+15:44,Villanova,None,None,7,16
+15:23,Morgan State,Stanley Davis,Missed Three Point Jumper,7,16
+15:23,Villanova,Cole Swider,Defensive Rebound,7,16
+15:12,Villanova,Phil Booth,Turnover,7,16
+15:12,Morgan State,Isaiah Burke,Steal,7,16
+15:08,Morgan State,Isaiah Burke,Layup,9,16
+14:41,Morgan State,Stanley Davis,Foul,9,16
+14:41,Villanova,Saddiq Bey,Missed Free Throw,9,16
+14:41,Villanova,None,Team Rebound,9,16
+14:41,Villanova,Saddiq Bey,Free Throw,9,17
+14:23,Morgan State,Kyson Rawls,Jumper,11,17
+14:09,Villanova,Jahvon Quinerly,Three Point Jumper,11,20
+14:00,Morgan State,Kyson Rawls,Layup,13,20
+13:42,Villanova,Phil Booth,Missed Three Point Jumper,13,20
+13:42,Villanova,Saddiq Bey,Offensive Rebound,13,20
+13:36,Villanova,Cole Swider,Missed Three Point Jumper,13,20
+13:36,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,13,20
+13:32,Villanova,Dhamir Cosby-Roundtree,Turnover,13,20
+13:32,Morgan State,Isaiah Burke,Steal,13,20
+13:19,Morgan State,Kyson Rawls,Missed Three Point Jumper,13,20
+13:19,Villanova,Dhamir Cosby-Roundtree,Block,13,20
+13:19,Morgan State,Kyson Rawls,Offensive Rebound,13,20
+13:11,Morgan State,LaPri McCray-Pace,Layup,15,20
+13:04,Morgan State,Taron Oliver Jr.,Foul,15,20
+12:55,Villanova,Joe Cremo,Three Point Jumper,15,23
+12:43,Morgan State,Isaiah Burke,Missed Three Point Jumper,15,23
+12:43,Villanova,Joe Cremo,Defensive Rebound,15,23
+12:32,Villanova,Eric Paschall,Layup,15,25
+12:32,Morgan State,LaPri McCray-Pace,Foul,15,25
+12:32,Villanova,Eric Paschall,Free Throw,15,26
+12:26,Morgan State,Stanley Davis,Missed Layup,15,26
+12:26,Morgan State,Stanley Davis,Offensive Rebound,15,26
+12:24,Morgan State,Stanley Davis,Turnover,15,26
+12:23,Morgan State,Kyson Rawls,Foul,15,26
+12:12,Villanova,Joe Cremo,Missed Three Point Jumper,15,26
+12:12,Morgan State,David Syfax,Defensive Rebound,15,26
+11:58,Morgan State,David Syfax,Jumper,17,26
+11:58,Villanova,Joe Cremo,Foul,17,26
+11:58,Villanova,None,None,17,26
+11:58,Morgan State,David Syfax,Free Throw,18,26
+11:46,Villanova,Eric Paschall,Turnover,18,26
+11:33,Morgan State,Stanley Davis,Jumper,20,26
+11:21,Villanova,Joe Cremo,Missed Three Point Jumper,20,26
+11:21,Villanova,Eric Paschall,Offensive Rebound,20,26
+11:15,Villanova,Brandon Slater,Turnover,20,26
+11:15,Morgan State,Martez Cameron,Steal,20,26
+11:06,Morgan State,Stanley Davis,Layup,22,26
+11:06,Villanova,None,None,22,26
+10:54,Villanova,Phil Booth,Jumper,22,28
+10:43,Morgan State,Jordan Little,Missed Jumper,22,28
+10:43,Villanova,Collin Gillespie,Defensive Rebound,22,28
+10:39,Villanova,Collin Gillespie,Turnover,22,28
+10:39,Morgan State,Martez Cameron,Steal,22,28
+10:35,Morgan State,Martez Cameron,Missed Jumper,22,28
+10:35,Villanova,Phil Booth,Defensive Rebound,22,28
+10:29,Morgan State,Sherwyn Devonish-Prince Jr.,Foul,22,28
+10:29,Villanova,Phil Booth,Free Throw,22,29
+10:29,Villanova,Phil Booth,Free Throw,22,30
+10:15,Morgan State,Martez Cameron,Turnover,22,30
+10:01,Villanova,Phil Booth,Layup,22,32
+9:42,Morgan State,Sherwyn Devonish-Prince Jr.,Turnover,22,32
+9:29,Villanova,Jermaine Samuels,Missed Three Point Jumper,22,32
+9:29,Villanova,Eric Paschall,Offensive Rebound,22,32
+9:23,Villanova,Eric Paschall,Layup,22,34
+9:10,Morgan State,David Syfax,Missed Jumper,22,34
+9:10,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,22,34
+8:55,Villanova,Phil Booth,Jumper,22,36
+8:24,Villanova,Saddiq Bey,Foul,22,36
+8:24,Morgan State,Victor Curry,Free Throw,23,36
+8:24,Morgan State,Victor Curry,Free Throw,24,36
+8:08,Villanova,Jahvon Quinerly,Turnover,24,36
+7:53,Morgan State,Stanley Davis,Layup,26,36
+7:30,Villanova,Jermaine Samuels,Turnover,26,36
+7:30,Morgan State,Victor Curry,Steal,26,36
+7:23,Morgan State,Isaiah Burke,Three Point Jumper,29,36
+6:52,Villanova,None,None,29,36
+6:42,Villanova,Joe Cremo,Three Point Jumper,29,39
+6:18,Morgan State,Isaiah Burke,Jumper,31,39
+6:08,Villanova,Eric Paschall,Three Point Jumper,31,42
+5:43,Morgan State,Martez Cameron,Missed Jumper,31,42
+5:43,Villanova,Cole Swider,Defensive Rebound,31,42
+5:37,Villanova,Cole Swider,Missed Three Point Jumper,31,42
+5:37,Morgan State,Isaiah Burke,Defensive Rebound,31,42
+5:26,Morgan State,Martez Cameron,Missed Jumper,31,42
+5:26,Villanova,Eric Paschall,Defensive Rebound,31,42
+5:24,Morgan State,Martez Cameron,Foul,31,42
+5:24,Villanova,Eric Paschall,Free Throw,31,43
+5:24,Villanova,Eric Paschall,Free Throw,31,44
+5:06,Morgan State,Kyson Rawls,Missed Layup,31,44
+5:06,Villanova,Cole Swider,Block,31,44
+5:06,Morgan State,Morgan State,Offensive Rebound,31,44
+4:58,Morgan State,Kyson Rawls,Missed Three Point Jumper,31,44
+4:58,Villanova,Phil Booth,Defensive Rebound,31,44
+4:29,Morgan State,David Syfax,Foul,31,44
+4:29,Villanova,Eric Paschall,Free Throw,31,45
+4:29,Villanova,Eric Paschall,Free Throw,31,46
+4:12,Morgan State,Isaiah Burke,Three Point Jumper,34,46
+3:49,Villanova,Cole Swider,Jumper,34,48
+3:32,Morgan State,Sherwyn Devonish-Prince Jr.,Missed Three Point Jumper,34,48
+3:32,Morgan State,Morgan State,Offensive Rebound,34,48
+3:28,Villanova,Saddiq Bey,Foul,34,48
+3:28,Villanova,None,None,34,48
+3:19,Morgan State,Sherwyn Devonish-Prince Jr.,Three Point Jumper,37,48
+3:04,Villanova,Cole Swider,Missed Three Point Jumper,37,48
+3:04,Morgan State,Kyson Rawls,Defensive Rebound,37,48
+2:55,Morgan State,Stanley Davis,Layup,39,48
+2:30,Villanova,Jahvon Quinerly,Missed Three Point Jumper,39,48
+2:30,Morgan State,Stanley Davis,Defensive Rebound,39,48
+2:20,Morgan State,Stanley Davis,Jumper,41,48
+1:50,Morgan State,Stanley Davis,Foul,41,48
+1:50,Villanova,Eric Paschall,Missed Free Throw,41,48
+1:50,Villanova,None,Team Rebound,41,48
+1:50,Villanova,Eric Paschall,Free Throw,41,49
+1:37,Morgan State,Kyson Rawls,Foul,41,49
+1:37,Morgan State,Kyson Rawls,Turnover,41,49
+1:25,Villanova,Phil Booth,Missed Jumper,41,49
+1:25,Morgan State,Malik Miller,Defensive Rebound,41,49
+1:15,Morgan State,Isaiah Burke,Turnover,41,49
+1:15,Morgan State,None,None,41,49
+1:14,Villanova,Eric Paschall,Turnover,41,49
+1:14,Morgan State,Isaiah Burke,Steal,41,49
+0:55,Morgan State,Jordan Little,Jumper,43,49
+0:39,Villanova,Phil Booth,Three Point Jumper,43,52
+0:16,Morgan State,Jordan Little,Turnover,43,52
+0:04,Villanova,Eric Paschall,Jumper,43,54
+0:00,Villanova,None,None,43,54
+20:00,Villanova,None,None,43,54
+19:46,Villanova,Eric Paschall,Missed Three Point Jumper,43,54
+19:46,Villanova,Dylan Painter,Offensive Rebound,43,54
+19:37,Villanova,Dylan Painter,Layup,43,56
+19:20,Morgan State,Jordan Little,Missed Three Point Jumper,43,56
+19:20,Villanova,Eric Paschall,Defensive Rebound,43,56
+19:17,Villanova,Collin Gillespie,Missed Three Point Jumper,43,56
+19:17,Villanova,Jermaine Samuels,Offensive Rebound,43,56
+19:09,Villanova,Jermaine Samuels,Missed Layup,43,56
+19:09,Morgan State,Jordan Little,Defensive Rebound,43,56
+19:02,Morgan State,Martez Cameron,Missed Jumper,43,56
+19:02,Villanova,Jermaine Samuels,Defensive Rebound,43,56
+19:00,Morgan State,Martez Cameron,Foul,43,56
+19:00,Villanova,None,None,43,56
+19:00,Morgan State,None,None,43,56
+18:59,Villanova,Jermaine Samuels,Missed Three Point Jumper,43,56
+18:59,Morgan State,Martez Cameron,Defensive Rebound,43,56
+18:51,Morgan State,Kyson Rawls,Missed Three Point Jumper,43,56
+18:51,Villanova,Jermaine Samuels,Defensive Rebound,43,56
+18:40,Villanova,Collin Gillespie,Missed Three Point Jumper,43,56
+18:40,Villanova,Villanova,Offensive Rebound,43,56
+18:37,Morgan State,Sherwyn Devonish-Prince Jr.,Foul,43,56
+18:28,Villanova,Collin Gillespie,Jumper,43,58
+18:07,Morgan State,Stanley Davis,Layup,45,58
+17:47,Villanova,Jermaine Samuels,Dunk,45,60
+17:47,Morgan State,Kyson Rawls,Foul,45,60
+17:47,Villanova,Jermaine Samuels,Missed Free Throw,45,60
+17:47,Morgan State,Jordan Little,Defensive Rebound,45,60
+17:47,Villanova,Dylan Painter,Foul,45,60
+17:36,Morgan State,Isaiah Burke,Missed Jumper,45,60
+17:36,Villanova,Jermaine Samuels,Block,45,60
+17:36,Villanova,Eric Paschall,Defensive Rebound,45,60
+17:29,Villanova,Eric Paschall,Missed Three Point Jumper,45,60
+17:29,Morgan State,Morgan State,Defensive Rebound,45,60
+17:21,Villanova,Dylan Painter,Foul,45,60
+16:58,Morgan State,Isaiah Burke,Turnover,45,60
+16:58,Villanova,Phil Booth,Steal,45,60
+16:53,Villanova,Eric Paschall,Missed Layup,45,60
+16:53,Morgan State,Martez Cameron,Defensive Rebound,45,60
+16:50,Villanova,Collin Gillespie,Foul,45,60
+16:50,Morgan State,Martez Cameron,Missed Free Throw,45,60
+16:50,Morgan State,None,Team Rebound,45,60
+16:50,Morgan State,Martez Cameron,Free Throw,46,60
+16:43,Villanova,Saddiq Bey,Foul,46,60
+16:43,Villanova,Saddiq Bey,Turnover,46,60
+16:30,Morgan State,Martez Cameron,Jumper,48,60
+16:06,Morgan State,Isaiah Burke,Foul,48,60
+15:51,Villanova,Collin Gillespie,Missed Layup,48,60
+15:51,Morgan State,Sherwyn Devonish-Prince Jr.,Defensive Rebound,48,60
+15:44,Morgan State,Sherwyn Devonish-Prince Jr.,Missed Layup,48,60
+15:44,Villanova,Jermaine Samuels,Block,48,60
+15:43,Morgan State,Jordan Little,Offensive Rebound,48,60
+15:29,Morgan State,Martez Cameron,Turnover,48,60
+15:29,Villanova,Collin Gillespie,Steal,48,60
+15:25,Villanova,None,None,48,60
+15:10,Morgan State,Jordan Little,Foul,48,60
+15:10,Villanova,Joe Cremo,Missed Free Throw,48,60
+15:10,Villanova,None,Team Rebound,48,60
+15:10,Villanova,Joe Cremo,Free Throw,48,61
+15:00,Morgan State,Stanley Davis,Layup,50,61
+14:39,Morgan State,Stanley Davis,Foul,50,61
+14:31,Villanova,Phil Booth,Jumper,50,63
+14:07,Morgan State,Sherwyn Devonish-Prince Jr.,Jumper,52,63
+13:50,Morgan State,Jordan Little,Foul,52,63
+13:50,Villanova,Cole Swider,Missed Free Throw,52,63
+13:50,Villanova,None,Team Rebound,52,63
+13:50,Villanova,Cole Swider,Free Throw,52,64
+13:39,Morgan State,Malik Miller,Layup,54,64
+13:15,Villanova,Jermaine Samuels,Turnover,54,64
+13:15,Morgan State,Martez Cameron,Steal,54,64
+13:12,Morgan State,Sherwyn Devonish-Prince Jr.,Layup,56,64
+12:44,Villanova,Eric Paschall,Missed Jumper,56,64
+12:44,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,56,64
+12:44,Villanova,None,None,56,64
+12:44,Morgan State,Martez Cameron,Defensive Rebound,56,64
+12:36,Villanova,Phil Booth,Foul,56,64
+12:36,Morgan State,Sherwyn Devonish-Prince Jr.,Missed Free Throw,56,64
+12:36,Morgan State,None,Team Rebound,56,64
+12:36,Morgan State,Sherwyn Devonish-Prince Jr.,Free Throw,57,64
+12:29,Villanova,Joe Cremo,Three Point Jumper,57,67
+12:19,Morgan State,Martez Cameron,Turnover,57,67
+12:19,Villanova,Collin Gillespie,Steal,57,67
+12:13,Villanova,Phil Booth,Missed Three Point Jumper,57,67
+12:13,Morgan State,David Syfax,Defensive Rebound,57,67
+11:55,Morgan State,Isaiah Burke,Missed Layup,57,67
+11:55,Villanova,Collin Gillespie,Defensive Rebound,57,67
+11:49,Villanova,None,None,57,67
+11:37,Villanova,Eric Paschall,Layup,57,69
+11:17,Morgan State,Kyson Rawls,Foul,57,69
+11:17,Morgan State,Kyson Rawls,Turnover,57,69
+11:02,Morgan State,Jordan Little,Foul,57,69
+11:02,Villanova,Eric Paschall,Free Throw,57,70
+11:02,Villanova,Eric Paschall,Free Throw,57,71
+10:51,Morgan State,David Syfax,Missed Jumper,57,71
+10:51,Villanova,Villanova,Defensive Rebound,57,71
+10:28,Morgan State,Victor Curry,Foul,57,71
+10:28,Villanova,Eric Paschall,Free Throw,57,72
+10:28,Villanova,Eric Paschall,Free Throw,57,73
+10:28,Villanova,Eric Paschall,Free Throw,57,74
+10:17,Morgan State,Sherwyn Devonish-Prince Jr.,Missed Jumper,57,74
+10:17,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,57,74
+10:08,Villanova,Phil Booth,Jumper,57,76
+9:59,Morgan State,Isaiah Burke,Layup,59,76
+9:42,Villanova,Saddiq Bey,Three Point Jumper,59,79
+9:25,Morgan State,Victor Curry,Missed Layup,59,79
+9:25,Villanova,Dhamir Cosby-Roundtree,Block,59,79
+9:25,Morgan State,Morgan State,Offensive Rebound,59,79
+9:19,Morgan State,Martez Cameron,Layup,61,79
+8:57,Villanova,Phil Booth,Missed Three Point Jumper,61,79
+8:57,Villanova,Villanova,Offensive Rebound,61,79
+8:51,Morgan State,Isaiah Burke,Foul,61,79
+8:51,Villanova,Saddiq Bey,Free Throw,61,80
+8:51,Villanova,Saddiq Bey,Free Throw,61,81
+8:42,Villanova,Joe Cremo,Foul,61,81
+8:38,Morgan State,David Syfax,Missed Layup,61,81
+8:38,Villanova,Saddiq Bey,Defensive Rebound,61,81
+8:29,Villanova,Joe Cremo,Foul,61,81
+8:29,Villanova,Joe Cremo,Turnover,61,81
+8:20,Morgan State,Sherwyn Devonish-Prince Jr.,Three Point Jumper,64,81
+8:09,Villanova,Joe Cremo,Turnover,64,81
+8:09,Morgan State,Kyson Rawls,Steal,64,81
+8:02,Morgan State,Kyson Rawls,Turnover,64,81
+7:53,Villanova,Saddiq Bey,Missed Three Point Jumper,64,81
+7:53,Morgan State,David Syfax,Defensive Rebound,64,81
+7:45,Morgan State,Stanley Davis,Missed Layup,64,81
+7:45,Villanova,Brandon Slater,Block,64,81
+7:45,Villanova,Brandon Slater,Defensive Rebound,64,81
+7:31,Villanova,Joe Cremo,Dunk,64,83
+7:23,Morgan State,Isaiah Burke,Jumper,66,83
+6:59,Villanova,Saddiq Bey,Missed Layup,66,83
+6:59,Villanova,Saddiq Bey,Offensive Rebound,66,83
+6:59,Villanova,None,None,66,85
+6:46,Morgan State,David Syfax,Missed Jumper,66,85
+6:46,Villanova,Brandon Slater,Block,66,85
+6:46,Villanova,Saddiq Bey,Defensive Rebound,66,85
+6:29,Villanova,Jahvon Quinerly,Missed Three Point Jumper,66,85
+6:29,Morgan State,Jordan Little,Defensive Rebound,66,85
+6:23,Villanova,Joe Cremo,Foul,66,85
+6:23,Villanova,None,None,66,85
+6:23,Morgan State,Isaiah Burke,Missed Free Throw,66,85
+6:23,Villanova,Eric Paschall,Defensive Rebound,66,85
+6:05,Villanova,Jermaine Samuels,Missed Three Point Jumper,66,85
+6:05,Morgan State,Martez Cameron,Defensive Rebound,66,85
+5:45,Morgan State,Malik Miller,Missed Jumper,66,85
+5:45,Morgan State,Malik Miller,Offensive Rebound,66,85
+5:45,Morgan State,Malik Miller,Missed Layup,66,85
+5:45,Villanova,Dylan Painter,Block,66,85
+5:45,Villanova,Dylan Painter,Defensive Rebound,66,85
+5:45,Morgan State,Malik Miller,Foul,66,85
+5:45,Villanova,Dylan Painter,Missed Free Throw,66,85
+5:45,Villanova,None,Team Rebound,66,85
+5:45,Villanova,Dylan Painter,Free Throw,66,86
+5:41,Morgan State,Martez Cameron,Missed Jumper,66,86
+5:41,Villanova,Dylan Painter,Defensive Rebound,66,86
+5:25,Villanova,Phil Booth,Missed Three Point Jumper,66,86
+5:25,Villanova,Jermaine Samuels,Offensive Rebound,66,86
+5:18,Villanova,Jermaine Samuels,Layup,66,88
+5:07,Morgan State,Isaiah Burke,Missed Three Point Jumper,66,88
+5:07,Morgan State,Stanley Davis,Offensive Rebound,66,88
+5:02,Morgan State,None,None,66,88
+4:52,Morgan State,Sherwyn Devonish-Prince Jr.,Missed Jumper,66,88
+4:52,Villanova,Eric Paschall,Defensive Rebound,66,88
+4:41,Morgan State,Sherwyn Devonish-Prince Jr.,Foul,66,88
+4:41,Villanova,Collin Gillespie,Free Throw,66,89
+4:41,Villanova,Collin Gillespie,Missed Free Throw,66,89
+4:41,Morgan State,Malik Miller,Defensive Rebound,66,89
+4:37,Morgan State,Isaiah Burke,Three Point Jumper,69,89
+4:10,Villanova,Saddiq Bey,Missed Three Point Jumper,69,89
+4:10,Morgan State,Stanley Davis,Defensive Rebound,69,89
+4:03,Morgan State,Stanley Davis,Missed Jumper,69,89
+4:03,Morgan State,Tyler Streeter,Offensive Rebound,69,89
+4:03,Morgan State,None,None,71,89
+3:33,Villanova,Eric Paschall,Missed Three Point Jumper,71,89
+3:33,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,71,89
+3:24,Villanova,Phil Booth,Layup,71,91
+3:03,Morgan State,Tyler Streeter,Layup,73,91
+3:03,Villanova,Saddiq Bey,Foul,73,91
+3:03,Villanova,None,None,73,91
+3:03,Morgan State,Tyler Streeter,Missed Free Throw,73,91
+3:03,Villanova,Joe Cremo,Defensive Rebound,73,91
+2:42,Villanova,Collin Gillespie,Missed Three Point Jumper,73,91
+2:42,Villanova,Cole Swider,Offensive Rebound,73,91
+2:35,Villanova,Collin Gillespie,Missed Three Point Jumper,73,91
+2:35,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,73,91
+2:30,Villanova,Dhamir Cosby-Roundtree,Layup,73,93
+2:14,Morgan State,Stanley Davis,Turnover,73,93
+2:14,Villanova,Eric Paschall,Steal,73,93
+2:06,Villanova,Cole Swider,Missed Three Point Jumper,73,93
+2:06,Morgan State,Morgan State,Defensive Rebound,73,93
+1:42,Morgan State,Sherwyn Devonish-Prince Jr.,Jumper,75,93
+1:25,Villanova,Dhamir Cosby-Roundtree,Layup,75,95
+1:16,Morgan State,Tyler Streeter,Missed Jumper,75,95
+1:16,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,75,95
+0:56,Villanova,Cole Swider,Missed Jumper,75,95
+0:56,Morgan State,Tyler Streeter,Defensive Rebound,75,95
+0:48,Morgan State,Isaiah Burke,Missed Jumper,75,95
+0:48,Villanova,Cole Swider,Defensive Rebound,75,95
+0:40,Villanova,Jermaine Samuels,Layup,75,97
+0:24,Morgan State,Tyler Streeter,Jumper,77,97
+0:02,Villanova,Jermaine Samuels,Three Point Jumper,77,100
+0:00,Villanova,None,None,77,100

@@ -1,0 +1,372 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Louisville,None,None,0,0
+19:34,Louisville,V.J. King,Three Point Jumper,3,0
+19:02,Marquette,Theo John,Jumper,3,2
+18:46,Louisville,Steven Enoch,Three Point Jumper,6,2
+18:26,Marquette,Joey Hauser,Missed Layup,6,2
+18:26,Louisville,V.J. King,Defensive Rebound,6,2
+18:14,Louisville,Ryan McMahon,Missed Jumper,6,2
+18:14,Marquette,Theo John,Block,6,2
+18:14,Louisville,Louisville,Offensive Rebound,6,2
+18:08,Louisville,Dwayne Sutton,Missed Jumper,6,2
+18:08,Marquette,Jamal Cain,Defensive Rebound,6,2
+17:52,Marquette,Theo John,Missed Jumper,6,2
+17:52,Louisville,V.J. King,Defensive Rebound,6,2
+17:43,Louisville,Ryan McMahon,Turnover,6,2
+17:43,Marquette,Markus Howard,Steal,6,2
+17:33,Louisville,Ryan McMahon,Foul,6,2
+17:15,Marquette,Sam Hauser,Missed Three Point Jumper,6,2
+17:15,Louisville,Steven Enoch,Defensive Rebound,6,2
+17:02,Louisville,Ryan McMahon,Missed Three Point Jumper,6,2
+17:02,Marquette,Theo John,Defensive Rebound,6,2
+16:52,Marquette,Theo John,Layup,6,4
+16:34,Louisville,V.J. King,Missed Three Point Jumper,6,4
+16:34,Marquette,Jamal Cain,Defensive Rebound,6,4
+16:31,Marquette,Jamal Cain,Turnover,6,4
+16:12,Louisville,V.J. King,Missed Jumper,6,4
+16:12,Marquette,Markus Howard,Defensive Rebound,6,4
+15:55,Louisville,Ryan McMahon,Foul,6,4
+15:55,Marquette,None,None,6,4
+15:55,Marquette,Sacar Anim,Missed Free Throw,6,4
+15:55,Marquette,None,Team Rebound,6,4
+15:55,Marquette,Sacar Anim,Missed Free Throw,6,4
+15:55,Louisville,Jordan Nwora,Defensive Rebound,6,4
+15:31,Louisville,Dwayne Sutton,Turnover,6,4
+15:23,Marquette,Sacar Anim,Missed Jumper,6,4
+15:23,Louisville,Dwayne Sutton,Defensive Rebound,6,4
+14:57,Louisville,Dwayne Sutton,Missed Three Point Jumper,6,4
+14:57,Marquette,Joseph Chartouny,Defensive Rebound,6,4
+14:44,Marquette,Ed Morrow,Foul,6,4
+14:44,Marquette,Ed Morrow,Turnover,6,4
+14:36,Louisville,Malik Williams,Missed Jumper,6,4
+14:36,Marquette,Sacar Anim,Defensive Rebound,6,4
+14:22,Louisville,Jordan Nwora,Foul,6,4
+14:22,Marquette,Sam Hauser,Free Throw,6,5
+14:22,Marquette,Sam Hauser,Free Throw,6,6
+14:00,Louisville,Khwan Fore,Turnover,6,6
+14:00,Marquette,Sacar Anim,Steal,6,6
+13:44,Marquette,None,None,6,6
+13:41,Marquette,Markus Howard,Missed Layup,6,6
+13:41,Louisville,Malik Williams,Block,6,6
+13:41,Louisville,Malik Williams,Defensive Rebound,6,6
+13:28,Louisville,Jordan Nwora,Missed Jumper,6,6
+13:28,Marquette,Sacar Anim,Defensive Rebound,6,6
+13:24,Louisville,V.J. King,Foul,6,6
+13:07,Marquette,Joey Hauser,Missed Three Point Jumper,6,6
+13:07,Marquette,Sacar Anim,Offensive Rebound,6,6
+13:01,Marquette,Markus Howard,Three Point Jumper,6,9
+12:34,Louisville,Jordan Nwora,Jumper,8,9
+12:34,Marquette,Joseph Chartouny,Foul,8,9
+12:34,Louisville,Jordan Nwora,Free Throw,9,9
+12:25,Louisville,Darius Perry,Foul,9,9
+12:15,Marquette,Ed Morrow,Jumper,9,11
+11:55,Louisville,Darius Perry,Layup,11,11
+11:43,Marquette,Joseph Chartouny,Missed Layup,11,11
+11:43,Louisville,Steven Enoch,Block,11,11
+11:43,Marquette,Marquette,Offensive Rebound,11,11
+11:40,Marquette,None,None,11,11
+11:26,Marquette,Theo John,Missed Jumper,11,11
+11:26,Louisville,Steven Enoch,Defensive Rebound,11,11
+11:13,Louisville,Christen Cunningham,Missed Jumper,11,11
+11:13,Louisville,Louisville,Offensive Rebound,11,11
+11:13,Louisville,None,None,11,11
+11:04,Louisville,Steven Enoch,Jumper,13,11
+10:38,Marquette,Theo John,Missed Jumper,13,11
+10:38,Marquette,Marquette,Offensive Rebound,13,11
+10:31,Marquette,Joseph Chartouny,Missed Layup,13,11
+10:31,Louisville,Steven Enoch,Defensive Rebound,13,11
+10:21,Louisville,Jordan Nwora,Missed Three Point Jumper,13,11
+10:21,Marquette,Joseph Chartouny,Defensive Rebound,13,11
+10:10,Marquette,Theo John,Missed Jumper,13,11
+10:10,Louisville,Steven Enoch,Block,13,11
+10:10,Marquette,Sam Hauser,Offensive Rebound,13,11
+10:05,Marquette,Markus Howard,Missed Three Point Jumper,13,11
+10:05,Louisville,Jordan Nwora,Defensive Rebound,13,11
+9:46,Louisville,Steven Enoch,Layup,15,11
+9:18,Marquette,Sam Hauser,Missed Jumper,15,11
+9:18,Louisville,Dwayne Sutton,Defensive Rebound,15,11
+8:56,Louisville,Christen Cunningham,Three Point Jumper,18,11
+8:49,Marquette,None,None,18,11
+8:36,Marquette,Sam Hauser,Jumper,18,13
+8:19,Louisville,Akoy Agau,Missed Jumper,18,13
+8:19,Louisville,Dwayne Sutton,Offensive Rebound,18,13
+8:14,Marquette,Ed Morrow,Foul,18,13
+8:04,Marquette,Matt Heldt,Foul,18,13
+8:04,Louisville,Akoy Agau,Missed Free Throw,18,13
+8:04,Louisville,None,Team Rebound,18,13
+8:04,Louisville,Akoy Agau,Free Throw,19,13
+7:53,Marquette,Joseph Chartouny,Turnover,19,13
+7:53,Louisville,Dwayne Sutton,Steal,19,13
+7:41,Louisville,Jordan Nwora,Jumper,21,13
+7:09,Marquette,Sam Hauser,Three Point Jumper,21,16
+6:50,Marquette,None,None,21,16
+6:37,Louisville,Akoy Agau,Layup,23,16
+6:22,Marquette,Sam Hauser,Jumper,23,18
+6:05,Louisville,Christen Cunningham,Layup,25,18
+5:33,Louisville,Dwayne Sutton,Foul,25,18
+5:27,Marquette,Sam Hauser,Missed Layup,25,18
+5:27,Louisville,Dwayne Sutton,Defensive Rebound,25,18
+5:15,Louisville,Christen Cunningham,Missed Jumper,25,18
+5:15,Louisville,V.J. King,Offensive Rebound,25,18
+5:09,Louisville,V.J. King,Missed Layup,25,18
+5:09,Louisville,Steven Enoch,Offensive Rebound,25,18
+5:08,Louisville,Steven Enoch,Turnover,25,18
+5:08,Marquette,Theo John,Steal,25,18
+4:52,Louisville,V.J. King,Foul,25,18
+4:52,Marquette,Joey Hauser,Free Throw,25,19
+4:52,Marquette,Joey Hauser,Free Throw,25,20
+4:31,Louisville,Jordan Nwora,Missed Jumper,25,20
+4:31,Marquette,Joey Hauser,Defensive Rebound,25,20
+4:16,Marquette,Theo John,Jumper,25,22
+3:52,Louisville,None,None,25,22
+3:52,Marquette,None,None,25,22
+3:43,Louisville,Jordan Nwora,Jumper,27,22
+3:31,Marquette,Sacar Anim,Turnover,27,22
+3:31,Louisville,Khwan Fore,Steal,27,22
+3:26,Louisville,Jordan Nwora,Dunk,29,22
+3:05,Marquette,Brendan Bailey,Three Point Jumper,29,25
+2:45,Louisville,Malik Williams,Missed Three Point Jumper,29,25
+2:45,Marquette,Sacar Anim,Defensive Rebound,29,25
+2:41,Louisville,Jordan Nwora,Foul,29,25
+2:41,Marquette,Sacar Anim,Free Throw,29,26
+2:41,Marquette,Sacar Anim,Free Throw,29,27
+2:28,Louisville,Khwan Fore,Layup,31,27
+2:18,Marquette,Markus Howard,Missed Layup,31,27
+2:18,Louisville,Dwayne Sutton,Block,31,27
+2:18,Louisville,V.J. King,Defensive Rebound,31,27
+1:50,Louisville,V.J. King,Missed Jumper,31,27
+1:50,Louisville,Dwayne Sutton,Offensive Rebound,31,27
+1:40,Louisville,Dwayne Sutton,Turnover,31,27
+1:30,Marquette,Sam Hauser,Missed Jumper,31,27
+1:30,Louisville,Louisville,Defensive Rebound,31,27
+1:10,Louisville,Malik Williams,Missed Layup,31,27
+1:10,Marquette,Joey Hauser,Defensive Rebound,31,27
+1:05,Marquette,Joey Hauser,Turnover,31,27
+1:05,Louisville,V.J. King,Steal,31,27
+1:01,Louisville,V.J. King,Dunk,33,27
+0:50,Marquette,Sam Hauser,Three Point Jumper,33,30
+0:16,Louisville,Christen Cunningham,Missed Jumper,33,30
+0:16,Louisville,Malik Williams,Offensive Rebound,33,30
+0:05,Marquette,Joey Hauser,Foul,33,30
+0:05,Louisville,Malik Williams,Free Throw,34,30
+0:05,Louisville,Malik Williams,Free Throw,35,30
+0:01,Marquette,Joseph Chartouny,Missed Layup,35,30
+0:01,Louisville,Louisville,Defensive Rebound,35,30
+0:00,Marquette,None,None,35,30
+20:00,Marquette,None,None,35,30
+19:49,Marquette,Jamal Cain,Turnover,35,30
+19:49,Louisville,V.J. King,Steal,35,30
+19:28,Louisville,Steven Enoch,Missed Jumper,35,30
+19:28,Marquette,Sam Hauser,Defensive Rebound,35,30
+19:16,Marquette,Joey Hauser,Missed Three Point Jumper,35,30
+19:16,Louisville,Ryan McMahon,Defensive Rebound,35,30
+18:59,Louisville,Steven Enoch,Missed Jumper,35,30
+18:59,Marquette,Sam Hauser,Defensive Rebound,35,30
+18:39,Marquette,Theo John,Missed Jumper,35,30
+18:39,Louisville,V.J. King,Defensive Rebound,35,30
+18:15,Louisville,Ryan McMahon,Jumper,37,30
+17:52,Marquette,Sam Hauser,Three Point Jumper,37,33
+17:29,Louisville,Steven Enoch,Missed Jumper,37,33
+17:29,Marquette,Sam Hauser,Defensive Rebound,37,33
+17:19,Marquette,Markus Howard,Jumper,37,35
+16:50,Marquette,Theo John,Foul,37,35
+16:50,Louisville,Steven Enoch,Free Throw,38,35
+16:50,Louisville,Steven Enoch,Free Throw,39,35
+16:39,Marquette,Markus Howard,Turnover,39,35
+16:39,Louisville,Dwayne Sutton,Steal,39,35
+16:35,Marquette,Joey Hauser,Foul,39,35
+16:22,Louisville,Dwayne Sutton,Layup,41,35
+16:15,Marquette,Brendan Bailey,Missed Three Point Jumper,41,35
+16:15,Marquette,Sam Hauser,Offensive Rebound,41,35
+16:09,Marquette,Sam Hauser,Layup,41,37
+15:47,Louisville,Dwayne Sutton,Foul,41,37
+15:47,Louisville,Dwayne Sutton,Turnover,41,37
+15:47,Marquette,None,None,41,37
+15:39,Marquette,Markus Howard,Layup,41,39
+15:17,Louisville,Khwan Fore,Three Point Jumper,44,39
+14:59,Marquette,Brendan Bailey,Missed Jumper,44,39
+14:59,Marquette,Joey Hauser,Offensive Rebound,44,39
+14:54,Marquette,Joey Hauser,Missed Jumper,44,39
+14:54,Louisville,Malik Williams,Defensive Rebound,44,39
+14:39,Louisville,Darius Perry,Layup,46,39
+14:23,Marquette,None,None,46,39
+14:15,Marquette,Ed Morrow,Dunk,46,41
+14:01,Louisville,Darius Perry,Missed Layup,46,41
+14:01,Marquette,Sacar Anim,Defensive Rebound,46,41
+13:51,Marquette,Sacar Anim,Missed Three Point Jumper,46,41
+13:51,Louisville,Jordan Nwora,Defensive Rebound,46,41
+13:30,Marquette,Markus Howard,Foul,46,41
+13:21,Louisville,Jordan Nwora,Missed Three Point Jumper,46,41
+13:21,Louisville,Akoy Agau,Offensive Rebound,46,41
+13:12,Louisville,Akoy Agau,Turnover,46,41
+13:12,Marquette,Markus Howard,Steal,46,41
+12:47,Marquette,Markus Howard,Missed Layup,46,41
+12:47,Louisville,Louisville,Defensive Rebound,46,41
+12:20,Louisville,Darius Perry,Missed Three Point Jumper,46,41
+12:20,Louisville,Louisville,Offensive Rebound,46,41
+12:14,Marquette,Sam Hauser,Foul,46,41
+12:07,Louisville,V.J. King,Missed Layup,46,41
+12:07,Louisville,Akoy Agau,Offensive Rebound,46,41
+12:00,Louisville,Christen Cunningham,Three Point Jumper,49,41
+11:43,Louisville,Akoy Agau,Foul,49,41
+11:43,Marquette,None,None,49,41
+11:31,Marquette,Ed Morrow,Layup,49,43
+11:04,Louisville,Christen Cunningham,Jumper,51,43
+10:57,Marquette,Markus Howard,Three Point Jumper,51,46
+10:31,Marquette,Markus Howard,Foul,51,46
+10:15,Louisville,Khwan Fore,Missed Layup,51,46
+10:15,Marquette,Ed Morrow,Defensive Rebound,51,46
+9:57,Marquette,Ed Morrow,Missed Layup,51,46
+9:57,Marquette,Sacar Anim,Offensive Rebound,51,46
+9:57,Marquette,None,None,51,46
+9:57,Louisville,Steven Enoch,Defensive Rebound,51,46
+9:42,Louisville,V.J. King,Missed Three Point Jumper,51,46
+9:42,Marquette,Ed Morrow,Defensive Rebound,51,46
+9:17,Marquette,Sam Hauser,Missed Three Point Jumper,51,46
+9:17,Louisville,Jordan Nwora,Defensive Rebound,51,46
+8:48,Louisville,Jordan Nwora,Jumper,53,46
+8:35,Marquette,Sam Hauser,Three Point Jumper,53,49
+8:03,Louisville,Steven Enoch,Missed Three Point Jumper,53,49
+8:03,Marquette,Joseph Chartouny,Defensive Rebound,53,49
+7:52,Louisville,Jordan Nwora,Foul,53,49
+7:52,Marquette,None,None,53,49
+7:52,Marquette,Ed Morrow,Free Throw,53,50
+7:52,Marquette,Ed Morrow,Free Throw,53,51
+7:44,Louisville,Ryan McMahon,Missed Three Point Jumper,53,51
+7:44,Marquette,Theo John,Defensive Rebound,53,51
+7:21,Marquette,Joey Hauser,Jumper,53,53
+6:56,Louisville,Ryan McMahon,Turnover,53,53
+6:56,Marquette,Theo John,Steal,53,53
+6:42,Marquette,Theo John,Dunk,53,55
+6:30,Louisville,None,None,53,55
+6:23,Marquette,Joseph Chartouny,Foul,53,55
+6:15,Louisville,Ryan McMahon,Layup,55,55
+6:01,Marquette,Markus Howard,Missed Jumper,55,55
+6:01,Marquette,Theo John,Offensive Rebound,55,55
+6:01,Marquette,None,None,55,55
+6:01,Marquette,Theo John,Offensive Rebound,55,55
+6:01,Marquette,None,None,55,55
+6:01,Marquette,Theo John,Offensive Rebound,55,55
+6:01,Marquette,Theo John,Missed Layup,55,55
+6:01,Louisville,Louisville,Defensive Rebound,55,55
+5:50,Marquette,Theo John,Foul,55,55
+5:50,Louisville,Malik Williams,Missed Free Throw,55,55
+5:50,Marquette,Joseph Chartouny,Defensive Rebound,55,55
+5:32,Louisville,Darius Perry,Foul,55,55
+5:30,Marquette,Markus Howard,Missed Three Point Jumper,55,55
+5:30,Louisville,Jordan Nwora,Defensive Rebound,55,55
+5:12,Louisville,Akoy Agau,Missed Jumper,55,55
+5:12,Marquette,Theo John,Block,55,55
+5:12,Louisville,Darius Perry,Offensive Rebound,55,55
+5:05,Marquette,Markus Howard,Foul,55,55
+5:05,Louisville,Jordan Nwora,Free Throw,56,55
+5:05,Louisville,Jordan Nwora,Free Throw,57,55
+4:53,Marquette,Theo John,Dunk,57,57
+4:35,Louisville,Akoy Agau,Layup,59,57
+4:31,Marquette,Joseph Chartouny,Foul,59,57
+4:31,Louisville,Akoy Agau,Free Throw,60,57
+4:07,Marquette,Sam Hauser,Missed Three Point Jumper,60,57
+4:07,Louisville,Jordan Nwora,Defensive Rebound,60,57
+3:44,Louisville,Darius Perry,Foul,60,57
+3:44,Louisville,Darius Perry,Turnover,60,57
+3:44,Marquette,None,None,60,57
+3:29,Louisville,Malik Williams,Foul,60,57
+3:25,Marquette,Ed Morrow,Missed Jumper,60,57
+3:25,Louisville,Malik Williams,Defensive Rebound,60,57
+2:54,Louisville,Christen Cunningham,Layup,62,57
+2:43,Louisville,Malik Williams,Foul,62,57
+2:43,Marquette,Markus Howard,Free Throw,62,58
+2:43,Marquette,Markus Howard,Free Throw,62,59
+2:29,Louisville,Malik Williams,Missed Jumper,62,59
+2:29,Marquette,Joey Hauser,Block,62,59
+2:29,Marquette,Theo John,Defensive Rebound,62,59
+2:20,Marquette,Markus Howard,Missed Three Point Jumper,62,59
+2:20,Louisville,Jordan Nwora,Defensive Rebound,62,59
+2:14,Marquette,Joey Hauser,Foul,62,59
+2:14,Louisville,Jordan Nwora,Free Throw,63,59
+2:14,Louisville,Jordan Nwora,Free Throw,64,59
+2:05,Louisville,Khwan Fore,Foul,64,59
+2:05,Marquette,Markus Howard,Free Throw,64,60
+2:05,Marquette,Markus Howard,Free Throw,64,61
+1:38,Louisville,Christen Cunningham,Missed Jumper,64,61
+1:38,Marquette,Sam Hauser,Defensive Rebound,64,61
+1:25,Marquette,Joey Hauser,Missed Jumper,64,61
+1:25,Louisville,Akoy Agau,Block,64,61
+1:25,Louisville,Christen Cunningham,Defensive Rebound,64,61
+1:17,Louisville,None,None,64,61
+1:03,Louisville,Dwayne Sutton,Turnover,64,61
+1:03,Marquette,Joey Hauser,Steal,64,61
+1:03,Louisville,Dwayne Sutton,Foul,64,61
+1:03,Marquette,Joey Hauser,Free Throw,64,62
+1:03,Marquette,Joey Hauser,Free Throw,64,63
+0:46,Louisville,Dwayne Sutton,Three Point Jumper,67,63
+0:39,Marquette,None,None,67,63
+0:33,Marquette,Markus Howard,Layup,67,65
+0:33,Louisville,Malik Williams,Foul,67,65
+0:33,Marquette,Markus Howard,Free Throw,67,66
+0:27,Marquette,Sam Hauser,Foul,67,66
+0:27,Louisville,Christen Cunningham,Missed Free Throw,67,66
+0:27,Louisville,None,Team Rebound,67,66
+0:27,Louisville,Christen Cunningham,Free Throw,68,66
+0:20,Marquette,Markus Howard,Missed Jumper,68,66
+0:20,Marquette,Joey Hauser,Offensive Rebound,68,66
+0:20,Marquette,None,None,68,68
+0:08,Louisville,Darius Perry,Missed Three Point Jumper,68,68
+0:08,Louisville,V.J. King,Offensive Rebound,68,68
+0:03,Louisville,V.J. King,Missed Layup,68,68
+0:03,Louisville,Dwayne Sutton,Offensive Rebound,68,68
+0:01,Louisville,Dwayne Sutton,Missed Jumper,68,68
+0:01,Marquette,Markus Howard,Defensive Rebound,68,68
+0:00,Marquette,None,None,68,68
+5:00,Louisville,None,None,68,68
+4:48,Louisville,Steven Enoch,Missed Jumper,68,68
+4:48,Marquette,Sam Hauser,Defensive Rebound,68,68
+4:32,Louisville,Dwayne Sutton,Foul,68,68
+4:32,Marquette,Sam Hauser,Free Throw,68,69
+4:32,Marquette,Sam Hauser,Free Throw,68,70
+4:22,Louisville,Jordan Nwora,Missed Jumper,68,70
+4:22,Louisville,Louisville,Offensive Rebound,68,70
+4:10,Louisville,Ryan McMahon,Layup,70,70
+3:43,Marquette,Theo John,Foul,70,70
+3:43,Marquette,Theo John,Turnover,70,70
+3:27,Louisville,Jordan Nwora,Missed Three Point Jumper,70,70
+3:27,Marquette,Markus Howard,Defensive Rebound,70,70
+3:15,Marquette,Sacar Anim,Turnover,70,70
+3:15,Louisville,Jordan Nwora,Steal,70,70
+3:04,Louisville,Jordan Nwora,Missed Jumper,70,70
+3:04,Marquette,Joey Hauser,Defensive Rebound,70,70
+2:46,Marquette,Markus Howard,Jumper,70,72
+2:14,Marquette,Theo John,Foul,70,72
+2:14,Louisville,Steven Enoch,Free Throw,71,72
+2:14,Louisville,Steven Enoch,Missed Free Throw,71,72
+2:14,Marquette,Sacar Anim,Defensive Rebound,71,72
+1:53,Louisville,V.J. King,Foul,71,72
+1:53,Marquette,Joey Hauser,Missed Free Throw,71,72
+1:53,Marquette,None,Team Rebound,71,72
+1:53,Marquette,Joey Hauser,Free Throw,71,73
+1:37,Marquette,Markus Howard,Foul,71,73
+1:37,Louisville,Christen Cunningham,Missed Free Throw,71,73
+1:37,Louisville,None,Team Rebound,71,73
+1:37,Louisville,Christen Cunningham,Free Throw,72,73
+1:27,Marquette,Markus Howard,Missed Three Point Jumper,72,73
+1:27,Louisville,Louisville,Defensive Rebound,72,73
+1:06,Marquette,Theo John,Foul,72,73
+1:06,Louisville,Christen Cunningham,Free Throw,73,73
+1:06,Louisville,Christen Cunningham,Free Throw,74,73
+0:57,Marquette,Markus Howard,Jumper,74,75
+0:36,Louisville,Christen Cunningham,Missed Jumper,74,75
+0:36,Louisville,V.J. King,Offensive Rebound,74,75
+0:31,Louisville,V.J. King,Missed Layup,74,75
+0:31,Marquette,Sam Hauser,Block,74,75
+0:31,Marquette,Ed Morrow,Defensive Rebound,74,75
+0:19,Marquette,None,None,74,75
+0:19,Marquette,None,None,74,75
+0:18,Louisville,Dwayne Sutton,Foul,74,75
+0:18,Louisville,None,None,74,75
+0:18,Marquette,Joey Hauser,Free Throw,74,76
+0:18,Marquette,Joey Hauser,Free Throw,74,77
+0:06,Louisville,Christen Cunningham,Missed Three Point Jumper,74,77
+0:06,Louisville,Christen Cunningham,Offensive Rebound,74,77
+0:02,Louisville,Christen Cunningham,Missed Three Point Jumper,74,77
+0:02,Marquette,Marquette,Defensive Rebound,74,77
+0:00,Marquette,None,None,74,77

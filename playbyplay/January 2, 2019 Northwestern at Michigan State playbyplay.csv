@@ -1,0 +1,318 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Northwestern,None,None,0,0
+19:43,Northwestern,A.J. Turner,Layup,2,0
+19:31,Michigan State,Nick Ward,Layup,2,2
+19:11,Northwestern,A.J. Turner,Jumper,4,2
+19:00,Michigan State,Kyle Ahrens,Turnover,4,2
+18:51,Northwestern,Dererk Pardon,Jumper,6,2
+18:21,Michigan State,Cassius Winston,Jumper,6,4
+18:03,Northwestern,A.J. Turner,Missed Jumper,6,4
+18:03,Michigan State,Nick Ward,Defensive Rebound,6,4
+17:50,Michigan State,Matt McQuaid,Missed Three Point Jumper,6,4
+17:50,Michigan State,Kenny Goins,Offensive Rebound,6,4
+17:41,Michigan State,Nick Ward,Missed Jumper,6,4
+17:41,Michigan State,Kenny Goins,Offensive Rebound,6,4
+17:20,Michigan State,Kyle Ahrens,Three Point Jumper,6,7
+17:08,Northwestern,Dererk Pardon,Layup,8,7
+17:01,Northwestern,Vic Law,Foul,8,7
+16:46,Michigan State,Matt McQuaid,Missed Layup,8,7
+16:46,Michigan State,Matt McQuaid,Offensive Rebound,8,7
+16:46,Michigan State,None,None,8,7
+16:46,Northwestern,Northwestern,Defensive Rebound,8,7
+16:32,Northwestern,Miller Kopp,Missed Jumper,8,7
+16:32,Michigan State,Kenny Goins,Defensive Rebound,8,7
+16:18,Northwestern,A.J. Turner,Foul,8,7
+16:18,Michigan State,Cassius Winston,Free Throw,8,8
+16:18,Michigan State,Cassius Winston,Free Throw,8,9
+15:55,Northwestern,Vic Law,Three Point Jumper,11,9
+15:43,Northwestern,Miller Kopp,Foul,11,9
+15:43,Michigan State,None,None,11,9
+15:43,Michigan State,Xavier Tillman,Missed Free Throw,11,9
+15:43,Michigan State,None,Team Rebound,11,9
+15:43,Michigan State,Xavier Tillman,Free Throw,11,10
+15:38,Northwestern,A.J. Turner,Layup,13,10
+15:23,Michigan State,Xavier Tillman,Layup,13,12
+15:10,Northwestern,Barret Benson,Missed Layup,13,12
+15:10,Michigan State,Xavier Tillman,Block,13,12
+15:10,Michigan State,Michigan State,Defensive Rebound,13,12
+14:51,Michigan State,Nick Ward,Jumper,13,14
+14:30,Northwestern,A.J. Turner,Missed Jumper,13,14
+14:30,Michigan State,Nick Ward,Block,13,14
+14:30,Michigan State,Xavier Tillman,Defensive Rebound,13,14
+14:23,Northwestern,Barret Benson,Foul,13,14
+14:06,Michigan State,Xavier Tillman,Layup,13,16
+13:36,Northwestern,Dererk Pardon,Jumper,15,16
+13:22,Michigan State,Nick Ward,Layup,15,18
+13:00,Northwestern,Pete Nance,Missed Three Point Jumper,15,18
+13:00,Michigan State,Aaron Henry,Defensive Rebound,15,18
+12:49,Northwestern,Dererk Pardon,Foul,15,18
+12:43,Michigan State,Nick Ward,Missed Jumper,15,18
+12:43,Northwestern,Anthony Gaines,Defensive Rebound,15,18
+12:31,Northwestern,Dererk Pardon,Missed Jumper,15,18
+12:31,Michigan State,Matt McQuaid,Defensive Rebound,15,18
+12:21,Michigan State,Nick Ward,Layup,15,20
+11:53,Northwestern,Dererk Pardon,Jumper,17,20
+11:41,Michigan State,Matt McQuaid,Jumper,17,22
+11:28,Northwestern,Anthony Gaines,Missed Jumper,17,22
+11:28,Michigan State,Aaron Henry,Defensive Rebound,17,22
+11:15,Northwestern,A.J. Turner,Foul,17,22
+11:01,Northwestern,Dererk Pardon,Foul,17,22
+11:01,Michigan State,Nick Ward,Missed Free Throw,17,22
+11:01,Northwestern,Pete Nance,Defensive Rebound,17,22
+11:00,Michigan State,Kyle Ahrens,Foul,17,22
+10:51,Northwestern,Ryan Taylor,Missed Three Point Jumper,17,22
+10:51,Northwestern,Barret Benson,Offensive Rebound,17,22
+10:51,Northwestern,None,None,19,22
+10:40,Michigan State,Nick Ward,Missed Jumper,19,22
+10:40,Northwestern,Pete Nance,Defensive Rebound,19,22
+10:28,Michigan State,Kenny Goins,Foul,19,22
+10:25,Northwestern,Ryan Taylor,Missed Jumper,19,22
+10:25,Michigan State,Kenny Goins,Defensive Rebound,19,22
+10:09,Michigan State,Nick Ward,Dunk,19,24
+10:09,Northwestern,Barret Benson,Foul,19,24
+10:09,Michigan State,Nick Ward,Missed Free Throw,19,24
+10:09,Northwestern,Anthony Gaines,Defensive Rebound,19,24
+9:46,Northwestern,Miller Kopp,Three Point Jumper,22,24
+9:35,Michigan State,Cassius Winston,Missed Jumper,22,24
+9:35,Michigan State,Nick Ward,Offensive Rebound,22,24
+9:35,Michigan State,None,None,22,26
+9:13,Northwestern,Barret Benson,Missed Jumper,22,26
+9:13,Michigan State,Matt McQuaid,Defensive Rebound,22,26
+9:03,Michigan State,Nick Ward,Missed Jumper,22,26
+9:03,Northwestern,Miller Kopp,Defensive Rebound,22,26
+8:34,Northwestern,Miller Kopp,Jumper,24,26
+8:20,Michigan State,Matt McQuaid,Layup,24,28
+7:57,Michigan State,Matt McQuaid,Foul,24,28
+7:45,Northwestern,Miller Kopp,Missed Jumper,24,28
+7:45,Michigan State,Xavier Tillman,Defensive Rebound,24,28
+7:25,Michigan State,Kyle Ahrens,Layup,24,30
+7:11,Northwestern,Vic Law,Missed Three Point Jumper,24,30
+7:11,Michigan State,Aaron Henry,Defensive Rebound,24,30
+6:57,Michigan State,Kenny Goins,Layup,24,32
+6:55,Northwestern,None,None,24,32
+6:37,Northwestern,Vic Law,Missed Jumper,24,32
+6:37,Michigan State,Kenny Goins,Defensive Rebound,24,32
+6:33,Michigan State,Cassius Winston,Jumper,24,34
+6:14,Northwestern,Vic Law,Turnover,24,34
+6:04,Michigan State,Xavier Tillman,Foul,24,34
+6:04,Michigan State,Xavier Tillman,Turnover,24,34
+5:54,Northwestern,Dererk Pardon,Missed Layup,24,34
+5:54,Michigan State,Xavier Tillman,Block,24,34
+5:54,Michigan State,Nick Ward,Defensive Rebound,24,34
+5:46,Northwestern,A.J. Turner,Foul,24,34
+5:46,Michigan State,Cassius Winston,Missed Free Throw,24,34
+5:46,Michigan State,None,Team Rebound,24,34
+5:46,Michigan State,Cassius Winston,Free Throw,24,35
+5:33,Northwestern,Dererk Pardon,Missed Layup,24,35
+5:33,Michigan State,Matt McQuaid,Defensive Rebound,24,35
+5:16,Northwestern,Vic Law,Foul,24,35
+5:16,Michigan State,Nick Ward,Free Throw,24,36
+5:16,Michigan State,Nick Ward,Free Throw,24,37
+4:47,Northwestern,Dererk Pardon,Layup,26,37
+4:35,Michigan State,Xavier Tillman,Layup,26,39
+4:17,Northwestern,Vic Law,Missed Jumper,26,39
+4:17,Michigan State,Aaron Henry,Defensive Rebound,26,39
+4:09,Michigan State,Xavier Tillman,Three Point Jumper,26,42
+3:52,Northwestern,Dererk Pardon,Missed Jumper,26,42
+3:52,Michigan State,Aaron Henry,Defensive Rebound,26,42
+3:37,Michigan State,Nick Ward,Dunk,26,44
+3:17,Northwestern,Pete Nance,Missed Jumper,26,44
+3:17,Michigan State,Nick Ward,Defensive Rebound,26,44
+3:09,Michigan State,Matt McQuaid,Three Point Jumper,26,47
+3:09,Northwestern,None,None,26,47
+2:46,Northwestern,Vic Law,Jumper,28,47
+2:25,Michigan State,Xavier Tillman,Foul,28,47
+2:25,Michigan State,Xavier Tillman,Turnover,28,47
+2:15,Northwestern,Ryan Taylor,Jumper,30,47
+2:07,Michigan State,Nick Ward,Layup,30,49
+1:37,Northwestern,Vic Law,Foul,30,49
+1:37,Northwestern,Vic Law,Turnover,30,49
+1:13,Michigan State,Nick Ward,Layup,30,51
+0:50,Northwestern,Miller Kopp,Missed Layup,30,51
+0:50,Northwestern,Dererk Pardon,Offensive Rebound,30,51
+0:50,Northwestern,None,None,32,51
+0:40,Michigan State,None,None,32,51
+0:30,Michigan State,Nick Ward,Missed Layup,32,51
+0:30,Michigan State,Nick Ward,Offensive Rebound,32,51
+0:30,Northwestern,Dererk Pardon,Foul,32,51
+0:30,Michigan State,Nick Ward,Free Throw,32,52
+0:30,Michigan State,Nick Ward,Missed Free Throw,32,52
+0:30,Northwestern,Barret Benson,Defensive Rebound,32,52
+0:01,Northwestern,Ryan Greer,Turnover,32,52
+0:00,Michigan State,None,None,32,52
+20:00,Michigan State,None,None,32,52
+19:42,Michigan State,Kenny Goins,Jumper,32,54
+19:28,Northwestern,Miller Kopp,Missed Jumper,32,54
+19:28,Michigan State,Kenny Goins,Block,32,54
+19:28,Michigan State,Kenny Goins,Defensive Rebound,32,54
+19:19,Michigan State,Kyle Ahrens,Layup,32,56
+19:19,Northwestern,None,None,32,56
+18:57,Northwestern,Ryan Taylor,Three Point Jumper,35,56
+18:28,Michigan State,Kenny Goins,Missed Layup,35,56
+18:28,Northwestern,Dererk Pardon,Defensive Rebound,35,56
+18:20,Northwestern,Vic Law,Missed Three Point Jumper,35,56
+18:20,Michigan State,Matt McQuaid,Defensive Rebound,35,56
+18:02,Michigan State,Cassius Winston,Three Point Jumper,35,59
+17:40,Northwestern,Dererk Pardon,Layup,37,59
+17:34,Michigan State,Kyle Ahrens,Layup,37,61
+17:15,Michigan State,Kenny Goins,Foul,37,61
+17:09,Northwestern,Ryan Taylor,Missed Three Point Jumper,37,61
+17:09,Michigan State,Kenny Goins,Defensive Rebound,37,61
+16:46,Michigan State,Cassius Winston,Turnover,37,61
+16:36,Michigan State,Cassius Winston,Foul,37,61
+16:36,Northwestern,A.J. Turner,Free Throw,38,61
+16:36,Northwestern,A.J. Turner,Missed Free Throw,38,61
+16:36,Michigan State,Kenny Goins,Defensive Rebound,38,61
+16:23,Michigan State,Kenny Goins,Layup,38,63
+16:11,Michigan State,Kyle Ahrens,Foul,38,63
+15:58,Northwestern,Ryan Taylor,Missed Jumper,38,63
+15:58,Michigan State,Xavier Tillman,Defensive Rebound,38,63
+15:50,Michigan State,Kyle Ahrens,Turnover,38,63
+15:50,Northwestern,Dererk Pardon,Steal,38,63
+15:42,Northwestern,Ryan Taylor,Missed Jumper,38,63
+15:42,Northwestern,Dererk Pardon,Offensive Rebound,38,63
+15:42,Northwestern,None,None,40,63
+15:42,Michigan State,Kyle Ahrens,Foul,40,63
+15:42,Michigan State,None,None,40,63
+15:42,Northwestern,Dererk Pardon,Free Throw,41,63
+15:36,Michigan State,Matt McQuaid,Three Point Jumper,41,66
+15:29,Northwestern,None,None,41,66
+15:21,Northwestern,Anthony Gaines,Turnover,41,66
+15:13,Michigan State,Xavier Tillman,Foul,41,66
+15:13,Michigan State,Xavier Tillman,Turnover,41,66
+14:52,Northwestern,Vic Law,Missed Three Point Jumper,41,66
+14:52,Michigan State,Kenny Goins,Defensive Rebound,41,66
+14:44,Michigan State,Xavier Tillman,Layup,41,68
+14:33,Northwestern,A.J. Turner,Turnover,41,68
+14:33,Michigan State,Xavier Tillman,Steal,41,68
+14:13,Michigan State,Cassius Winston,Turnover,41,68
+14:13,Northwestern,Vic Law,Steal,41,68
+13:58,Northwestern,Vic Law,Missed Three Point Jumper,41,68
+13:58,Michigan State,Xavier Tillman,Defensive Rebound,41,68
+13:40,Michigan State,Xavier Tillman,Layup,41,70
+13:29,Northwestern,A.J. Turner,Missed Three Point Jumper,41,70
+13:29,Michigan State,Kenny Goins,Defensive Rebound,41,70
+13:19,Michigan State,Cassius Winston,Missed Jumper,41,70
+13:19,Northwestern,A.J. Turner,Block,41,70
+13:19,Michigan State,Cassius Winston,Offensive Rebound,41,70
+13:12,Michigan State,Kenny Goins,Layup,41,72
+12:50,Michigan State,Matt McQuaid,Foul,41,72
+12:46,Northwestern,A.J. Turner,Turnover,41,72
+12:46,Michigan State,Cassius Winston,Steal,41,72
+12:34,Northwestern,Barret Benson,Foul,41,72
+12:28,Michigan State,Nick Ward,Foul,41,72
+12:28,Michigan State,Nick Ward,Turnover,41,72
+12:18,Michigan State,Gabe Brown,Foul,41,72
+12:18,Northwestern,Anthony Gaines,Free Throw,42,72
+12:18,Northwestern,Anthony Gaines,Missed Free Throw,42,72
+12:18,Michigan State,Nick Ward,Defensive Rebound,42,72
+12:08,Northwestern,Anthony Gaines,Foul,42,72
+12:02,Northwestern,Anthony Gaines,Foul,42,72
+11:50,Michigan State,Gabe Brown,Turnover,42,72
+11:50,Northwestern,Barret Benson,Steal,42,72
+11:26,Northwestern,Barret Benson,Missed Layup,42,72
+11:26,Michigan State,Kenny Goins,Block,42,72
+11:26,Northwestern,Northwestern,Offensive Rebound,42,72
+11:26,Michigan State,None,None,42,72
+11:24,Northwestern,Ryan Greer,Turnover,42,72
+11:24,Michigan State,Gabe Brown,Steal,42,72
+11:18,Michigan State,Aaron Henry,Turnover,42,72
+11:00,Northwestern,Ryan Greer,Missed Layup,42,72
+11:00,Michigan State,Nick Ward,Block,42,72
+11:00,Northwestern,Northwestern,Offensive Rebound,42,72
+10:59,Northwestern,Ryan Greer,Turnover,42,72
+10:59,Michigan State,Aaron Henry,Steal,42,72
+10:55,Northwestern,Vic Law,Foul,42,72
+10:54,Michigan State,Xavier Tillman,Missed Layup,42,72
+10:54,Northwestern,Aaron Falzon,Block,42,72
+10:54,Michigan State,Michigan State,Offensive Rebound,42,72
+10:43,Michigan State,Xavier Tillman,Turnover,42,72
+10:38,Northwestern,Aaron Falzon,Missed Three Point Jumper,42,72
+10:38,Michigan State,Xavier Tillman,Defensive Rebound,42,72
+10:15,Northwestern,Dererk Pardon,Foul,42,72
+9:52,Michigan State,Nick Ward,Missed Jumper,42,72
+9:52,Michigan State,None,Team Rebound,42,72
+9:50,Michigan State,Michigan State ,Turnover,42,72
+9:47,Michigan State,Nick Ward,Foul,42,72
+9:47,Northwestern,Dererk Pardon,Missed Free Throw,42,72
+9:47,Michigan State,Xavier Tillman,Defensive Rebound,42,72
+9:29,Northwestern,Aaron Falzon,Foul,42,72
+9:14,Michigan State,Kyle Ahrens,Missed Three Point Jumper,42,72
+9:14,Michigan State,Nick Ward,Offensive Rebound,42,72
+9:14,Michigan State,None,None,42,72
+9:14,Northwestern,A.J. Turner,Defensive Rebound,42,72
+9:01,Northwestern,A.J. Turner,Missed Layup,42,72
+9:01,Michigan State,Kyle Ahrens,Defensive Rebound,42,72
+8:51,Michigan State,Gabe Brown,Missed Three Point Jumper,42,72
+8:51,Northwestern,Miller Kopp,Defensive Rebound,42,72
+8:36,Northwestern,Ryan Taylor,Missed Jumper,42,72
+8:36,Michigan State,Xavier Tillman,Defensive Rebound,42,72
+8:25,Michigan State,Nick Ward,Foul,42,72
+8:25,Michigan State,Nick Ward,Turnover,42,72
+8:18,Northwestern,Dererk Pardon,Dunk,44,72
+7:53,Michigan State,Kyle Ahrens,Missed Three Point Jumper,44,72
+7:53,Northwestern,Miller Kopp,Defensive Rebound,44,72
+7:31,Northwestern,Dererk Pardon,Missed Three Point Jumper,44,72
+7:31,Michigan State,Cassius Winston,Defensive Rebound,44,72
+7:14,Michigan State,Kenny Goins,Missed Three Point Jumper,44,72
+7:14,Northwestern,Northwestern,Defensive Rebound,44,72
+7:11,Michigan State,None,None,44,72
+7:06,Northwestern,Dererk Pardon,Missed Jumper,44,72
+7:06,Michigan State,Xavier Tillman,Defensive Rebound,44,72
+6:47,Michigan State,Kyle Ahrens,Layup,44,74
+6:34,Northwestern,Aaron Falzon,Missed Three Point Jumper,44,74
+6:34,Michigan State,Kyle Ahrens,Defensive Rebound,44,74
+6:09,Michigan State,Cassius Winston,Layup,44,76
+5:35,Northwestern,Miller Kopp,Missed Three Point Jumper,44,76
+5:35,Michigan State,Kenny Goins,Defensive Rebound,44,76
+5:23,Michigan State,Xavier Tillman,Turnover,44,76
+5:23,Northwestern,Ryan Taylor,Steal,44,76
+5:17,Northwestern,Ryan Taylor,Layup,46,76
+4:40,Northwestern,A.J. Turner,Foul,46,76
+4:40,Michigan State,Cassius Winston,Missed Free Throw,46,76
+4:40,Michigan State,None,Team Rebound,46,76
+4:40,Michigan State,Cassius Winston,Free Throw,46,77
+4:30,Northwestern,Pete Nance,Missed Three Point Jumper,46,77
+4:30,Michigan State,Kenny Goins,Block,46,77
+4:30,Michigan State,Thomas Kithier,Defensive Rebound,46,77
+4:22,Michigan State,Kenny Goins,Missed Jumper,46,77
+4:22,Northwestern,Barret Benson,Defensive Rebound,46,77
+4:11,Northwestern,Ryan Greer,Missed Layup,46,77
+4:11,Northwestern,Barret Benson,Offensive Rebound,46,77
+4:11,Michigan State,Kenny Goins,Foul,46,77
+4:11,Northwestern,Barret Benson,Free Throw,47,77
+4:11,Northwestern,Barret Benson,Missed Free Throw,47,77
+4:11,Michigan State,Kenny Goins,Defensive Rebound,47,77
+3:58,Michigan State,Aaron Henry,Missed Jumper,47,77
+3:58,Northwestern,Ryan Taylor,Defensive Rebound,47,77
+3:51,Michigan State,None,None,47,77
+3:51,Michigan State,Foster Loyer,Foul,47,77
+3:51,Northwestern,Ryan Taylor,Free Throw,48,77
+3:51,Northwestern,Ryan Taylor,Free Throw,49,77
+3:43,Michigan State,Aaron Henry,Jumper,49,79
+3:21,Northwestern,Ryan Taylor,Missed Three Point Jumper,49,79
+3:21,Michigan State,Foster Loyer,Defensive Rebound,49,79
+3:00,Michigan State,Gabe Brown,Missed Three Point Jumper,49,79
+3:00,Northwestern,Ryan Greer,Defensive Rebound,49,79
+2:45,Michigan State,Thomas Kithier,Foul,49,79
+2:45,Northwestern,Barret Benson,Free Throw,50,79
+2:45,Northwestern,Barret Benson,Free Throw,51,79
+2:29,Michigan State,Aaron Henry,Missed Jumper,51,79
+2:29,Northwestern,Barret Benson,Defensive Rebound,51,79
+2:11,Northwestern,Barret Benson,Missed Jumper,51,79
+2:11,Michigan State,Marcus Bingham Jr.,Defensive Rebound,51,79
+1:49,Michigan State,Aaron Henry,Jumper,51,81
+1:27,Northwestern,Pete Nance,Jumper,53,81
+1:10,Michigan State,Foster Loyer,Missed Three Point Jumper,53,81
+1:10,Michigan State,Gabe Brown,Offensive Rebound,53,81
+1:10,Northwestern,Anthony Gaines,Foul,53,81
+1:10,Michigan State,Gabe Brown,Missed Free Throw,53,81
+1:10,Northwestern,Pete Nance,Defensive Rebound,53,81
+0:54,Northwestern,Pete Nance,Missed Jumper,53,81
+0:54,Northwestern,Barret Benson,Offensive Rebound,53,81
+0:54,Northwestern,Barret Benson,Layup,55,81
+0:25,Michigan State,Conner George,Missed Jumper,55,81
+0:25,Northwestern,Barret Benson,Defensive Rebound,55,81
+0:05,Northwestern,Ryan Greer,Missed Three Point Jumper,55,81
+0:05,Michigan State,Marcus Bingham Jr.,Defensive Rebound,55,81
+0:00,Michigan State,None,None,55,81

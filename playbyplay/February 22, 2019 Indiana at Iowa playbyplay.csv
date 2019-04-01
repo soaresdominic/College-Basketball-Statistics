@@ -1,0 +1,371 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Iowa,None,None,0,0
+19:51,Iowa,Joe Wieskamp,Missed Layup,0,0
+19:51,Indiana,De'Ron Davis,Block,0,0
+19:51,Indiana,Rob Phinisee,Defensive Rebound,0,0
+19:40,Indiana,De'Ron Davis,Layup,2,0
+19:40,Iowa,Tyler Cook,Foul,2,0
+19:40,Indiana,De'Ron Davis,Free Throw,3,0
+19:19,Iowa,Luka Garza,Missed Jumper,3,0
+19:19,Indiana,Juwan Morgan,Defensive Rebound,3,0
+19:02,Indiana,Rob Phinisee,Three Point Jumper,6,0
+18:27,Iowa,Iowa ,Turnover,6,0
+18:07,Indiana,De'Ron Davis,Jumper,8,0
+17:53,Iowa,Tyler Cook,Missed Layup,8,0
+17:53,Iowa,Luka Garza,Offensive Rebound,8,0
+17:46,Iowa,Luka Garza,Layup,8,2
+17:20,Indiana,Juwan Morgan,Turnover,8,2
+17:20,Iowa,Isaiah Moss,Steal,8,2
+17:15,Indiana,Aljami Durham,Foul,8,2
+17:15,Iowa,Isaiah Moss,Missed Free Throw,8,2
+17:15,Iowa,None,Team Rebound,8,2
+17:15,Iowa,Isaiah Moss,Free Throw,8,3
+16:55,Indiana,Romeo Langford,Turnover,8,3
+16:43,Iowa,Luka Garza,Turnover,8,3
+16:43,Indiana,Juwan Morgan,Steal,8,3
+16:25,Iowa,Luka Garza,Foul,8,3
+16:25,Indiana,De'Ron Davis,Missed Free Throw,8,3
+16:25,Indiana,None,Team Rebound,8,3
+16:25,Indiana,De'Ron Davis,Missed Free Throw,8,3
+16:25,Iowa,Isaiah Moss,Defensive Rebound,8,3
+16:17,Iowa,Luka Garza,Missed Jumper,8,3
+16:17,Indiana,Juwan Morgan,Block,8,3
+16:17,Iowa,Luka Garza,Offensive Rebound,8,3
+16:08,Iowa,Tyler Cook,Layup,8,5
+15:56,Indiana,Juwan Morgan,Missed Three Point Jumper,8,5
+15:56,Iowa,Isaiah Moss,Defensive Rebound,8,5
+15:47,Iowa,Isaiah Moss,Missed Three Point Jumper,8,5
+15:47,Indiana,Rob Phinisee,Defensive Rebound,8,5
+15:39,Indiana,Rob Phinisee,Layup,10,5
+15:20,Indiana,De'Ron Davis,Foul,10,5
+15:20,Iowa,None,None,10,5
+15:20,Iowa,Tyler Cook,Missed Free Throw,10,5
+15:20,Iowa,None,Team Rebound,10,5
+15:20,Iowa,Tyler Cook,Free Throw,10,6
+15:12,Indiana,Rob Phinisee,Turnover,10,6
+15:12,Iowa,Isaiah Moss,Steal,10,6
+15:08,Iowa,Nicholas Baer,Missed Three Point Jumper,10,6
+15:08,Iowa,Tyler Cook,Offensive Rebound,10,6
+15:01,Iowa,Jordan Bohannon,Missed Three Point Jumper,10,6
+15:01,Indiana,Romeo Langford,Defensive Rebound,10,6
+14:30,Indiana,Aljami Durham,Missed Three Point Jumper,10,6
+14:30,Iowa,Nicholas Baer,Defensive Rebound,10,6
+14:26,Indiana,Juwan Morgan,Foul,10,6
+14:06,Iowa,Jordan Bohannon,Missed Three Point Jumper,10,6
+14:06,Iowa,Nicholas Baer,Offensive Rebound,10,6
+13:49,Iowa,Tyler Cook,Turnover,10,6
+13:49,Indiana,Juwan Morgan,Steal,10,6
+13:44,Indiana,Romeo Langford,Three Point Jumper,13,6
+13:26,Iowa,Isaiah Moss,Missed Jumper,13,6
+13:26,Iowa,Luka Garza,Offensive Rebound,13,6
+13:26,Iowa,None,None,13,8
+13:03,Indiana,Aljami Durham,Missed Three Point Jumper,13,8
+13:03,Iowa,Nicholas Baer,Defensive Rebound,13,8
+12:48,Indiana,De'Ron Davis,Foul,13,8
+12:42,Iowa,Ryan Kriener,Layup,13,10
+12:12,Indiana,Devonte Green,Missed Three Point Jumper,13,10
+12:10,Indiana,Justin Smith,Offensive Rebound,13,10
+12:09,Indiana,Justin Smith,Dunk,15,10
+11:53,Iowa,None,None,15,10
+11:44,Iowa,Luka Garza,Jumper,15,12
+11:44,Indiana,Race Thompson,Foul,15,12
+11:44,Iowa,Luka Garza,Free Throw,15,13
+11:15,Indiana,Aljami Durham,Missed Three Point Jumper,15,13
+11:15,Indiana,Race Thompson,Offensive Rebound,15,13
+11:11,Indiana,Romeo Langford,Missed Three Point Jumper,15,13
+11:11,Iowa,Ryan Kriener,Defensive Rebound,15,13
+10:59,Iowa,Luka Garza,Layup,15,15
+10:31,Indiana,Devonte Green,Turnover,15,15
+10:25,Indiana,Rob Phinisee,Foul,15,15
+10:16,Iowa,Ryan Kriener,Missed Three Point Jumper,15,15
+10:16,Indiana,Rob Phinisee,Defensive Rebound,15,15
+9:44,Iowa,Luka Garza,Foul,15,15
+9:44,Indiana,Juwan Morgan,Missed Three Point Jumper,15,15
+9:44,Indiana,Indiana,Offensive Rebound,15,15
+9:31,Iowa,Connor McCaffery,Foul,15,15
+9:18,Indiana,Rob Phinisee,Missed Three Point Jumper,15,15
+9:18,Iowa,Nicholas Baer,Defensive Rebound,15,15
+8:54,Iowa,Nicholas Baer,Missed Three Point Jumper,15,15
+8:54,Indiana,Indiana,Defensive Rebound,15,15
+8:25,Indiana,Romeo Langford,Missed Jumper,15,15
+8:25,Iowa,Nicholas Baer,Defensive Rebound,15,15
+8:17,Indiana,Aljami Durham,Foul,15,15
+8:16,Iowa,Ryan Kriener,Free Throw,15,16
+8:16,Iowa,Ryan Kriener,Free Throw,15,17
+8:05,Indiana,Justin Smith,Turnover,15,17
+7:55,Indiana,Juwan Morgan,Foul,15,17
+7:55,Iowa,None,None,15,17
+7:55,Iowa,Tyler Cook,Missed Free Throw,15,17
+7:55,Indiana,Justin Smith,Defensive Rebound,15,17
+7:37,Indiana,Rob Phinisee,Missed Layup,15,17
+7:37,Indiana,Race Thompson,Offensive Rebound,15,17
+7:30,Indiana,Justin Smith,Turnover,15,17
+7:05,Iowa,Joe Wieskamp,Layup,15,19
+6:37,Iowa,Maishe Dailey,Foul,15,19
+6:30,Indiana,Evan Fitzner,Jumper,17,19
+6:08,Iowa,Ryan Kriener,Dunk,17,21
+5:43,Indiana,Evan Fitzner,Missed Three Point Jumper,17,21
+5:43,Indiana,Race Thompson,Offensive Rebound,17,21
+5:06,Indiana,Evan Fitzner,Jumper,19,21
+4:52,Iowa,Joe Wieskamp,Missed Three Point Jumper,19,21
+4:52,Indiana,Race Thompson,Defensive Rebound,19,21
+4:41,Indiana,Devonte Green,Jumper,21,21
+4:22,Iowa,Tyler Cook,Turnover,21,21
+4:10,Iowa,Isaiah Moss,Foul,21,21
+4:10,Indiana,Devonte Green,Free Throw,22,21
+4:10,Indiana,Devonte Green,Missed Free Throw,22,21
+4:10,Indiana,None,Team Rebound,22,21
+4:10,Indiana,Devonte Green,Missed Free Throw,22,21
+4:10,Iowa,Tyler Cook,Defensive Rebound,22,21
+3:53,Indiana,Zach McRoberts,Foul,22,21
+3:53,Iowa,None,None,22,21
+3:53,Iowa,Isaiah Moss,Free Throw,22,22
+3:53,Iowa,Isaiah Moss,Free Throw,22,23
+3:33,Indiana,Evan Fitzner,Missed Three Point Jumper,22,23
+3:33,Iowa,Jordan Bohannon,Defensive Rebound,22,23
+3:23,Iowa,Jordan Bohannon,Turnover,22,23
+3:23,Indiana,Devonte Green,Steal,22,23
+2:57,Indiana,Jake Forrester,Missed Jumper,22,23
+2:57,Iowa,Nicholas Baer,Block,22,23
+2:57,Iowa,Nicholas Baer,Defensive Rebound,22,23
+2:47,Iowa,Nicholas Baer,Turnover,22,23
+2:47,Indiana,Jake Forrester,Steal,22,23
+2:41,Indiana,Jake Forrester,Missed Layup,22,23
+2:41,Indiana,Romeo Langford,Offensive Rebound,22,23
+2:40,Indiana,Devonte Green,Missed Three Point Jumper,22,23
+2:40,Indiana,Evan Fitzner,Offensive Rebound,22,23
+2:31,Indiana,Evan Fitzner,Layup,24,23
+2:20,Iowa,Tyler Cook,Dunk,24,25
+2:00,Iowa,Nicholas Baer,Foul,24,25
+2:00,Indiana,Romeo Langford,Free Throw,25,25
+2:00,Indiana,Romeo Langford,Free Throw,26,25
+1:41,Iowa,Tyler Cook,Missed Jumper,26,25
+1:41,Indiana,Jake Forrester,Defensive Rebound,26,25
+1:13,Indiana,Devonte Green,Jumper,28,25
+1:13,Iowa,Jordan Bohannon,Foul,28,25
+1:13,Indiana,Devonte Green,Missed Free Throw,28,25
+1:13,Iowa,Tyler Cook,Defensive Rebound,28,25
+0:56,Iowa,Jordan Bohannon,Missed Three Point Jumper,28,25
+0:56,Iowa,Joe Wieskamp,Offensive Rebound,28,25
+0:50,Iowa,Joe Wieskamp,Layup,28,27
+0:50,Indiana,Zach McRoberts,Foul,28,27
+0:50,Iowa,Joe Wieskamp,Free Throw,28,28
+0:25,Indiana,Rob Phinisee,Missed Jumper,28,28
+0:25,Iowa,Joe Wieskamp,Defensive Rebound,28,28
+0:05,Iowa,Isaiah Moss,Missed Jumper,28,28
+0:05,Indiana,Devonte Green,Defensive Rebound,28,28
+0:00,Iowa,None,None,28,28
+20:00,Indiana,None,None,28,28
+19:42,Indiana,De'Ron Davis,Turnover,28,28
+19:17,Iowa,Luka Garza,Missed Jumper,28,28
+19:17,Indiana,Juwan Morgan,Block,28,28
+19:17,Iowa,Iowa,Offensive Rebound,28,28
+19:11,Iowa,Joe Wieskamp,Missed Three Point Jumper,28,28
+19:11,Indiana,Romeo Langford,Block,28,28
+19:11,Iowa,Joe Wieskamp,Offensive Rebound,28,28
+19:11,Iowa,Iowa ,Turnover,28,28
+19:01,Indiana,Juwan Morgan,Jumper,30,28
+18:48,Iowa,Isaiah Moss,Missed Jumper,30,28
+18:48,Indiana,Romeo Langford,Defensive Rebound,30,28
+18:37,Indiana,Romeo Langford,Missed Jumper,30,28
+18:37,Iowa,Tyler Cook,Block,30,28
+18:37,Indiana,Romeo Langford,Offensive Rebound,30,28
+18:33,Indiana,Romeo Langford,Layup,32,28
+18:22,Iowa,Joe Wieskamp,Missed Three Point Jumper,32,28
+18:22,Indiana,De'Ron Davis,Defensive Rebound,32,28
+18:10,Indiana,Juwan Morgan,Layup,34,28
+17:52,Iowa,Tyler Cook,Missed Layup,34,28
+17:52,Indiana,Juwan Morgan,Block,34,28
+17:52,Indiana,Aljami Durham,Defensive Rebound,34,28
+17:41,Indiana,De'Ron Davis,Missed Layup,34,28
+17:41,Iowa,Tyler Cook,Defensive Rebound,34,28
+17:35,Indiana,Juwan Morgan,Foul,34,28
+17:35,Iowa,Tyler Cook,Missed Free Throw,34,28
+17:35,Iowa,None,Team Rebound,34,28
+17:35,Iowa,Tyler Cook,Free Throw,34,29
+17:22,Indiana,Romeo Langford,Turnover,34,29
+17:22,Iowa,Luka Garza,Steal,34,29
+17:13,Iowa,Isaiah Moss,Three Point Jumper,34,32
+17:06,Iowa,Tyler Cook,Foul,34,32
+17:06,Indiana,Rob Phinisee,Free Throw,35,32
+17:06,Indiana,Rob Phinisee,Free Throw,36,32
+16:58,Iowa,Luka Garza,Turnover,36,32
+16:58,Indiana,Rob Phinisee,Steal,36,32
+16:45,Indiana,Romeo Langford,Layup,38,32
+16:34,Iowa,Tyler Cook,Dunk,38,34
+16:03,Indiana,Evan Fitzner,Three Point Jumper,41,34
+15:40,Iowa,Luka Garza,Jumper,41,36
+15:40,Indiana,Evan Fitzner,Foul,41,36
+15:40,Iowa,None,None,41,36
+15:40,Iowa,Luka Garza,Free Throw,41,37
+15:22,Indiana,Romeo Langford,Missed Layup,41,37
+15:22,Indiana,Evan Fitzner,Offensive Rebound,41,37
+15:22,Indiana,Evan Fitzner,Layup,43,37
+14:59,Indiana,Romeo Langford,Foul,43,37
+14:59,Iowa,Nicholas Baer,Free Throw,43,38
+14:59,Iowa,Nicholas Baer,Free Throw,43,39
+14:40,Indiana,Devonte Green,Missed Three Point Jumper,43,39
+14:40,Iowa,Luka Garza,Defensive Rebound,43,39
+14:29,Indiana,Aljami Durham,Foul,43,39
+14:29,Iowa,Tyler Cook,Free Throw,43,40
+14:29,Iowa,Tyler Cook,Missed Free Throw,43,40
+14:29,Indiana,De'Ron Davis,Defensive Rebound,43,40
+14:19,Indiana,De'Ron Davis,Missed Jumper,43,40
+14:19,Iowa,Luka Garza,Defensive Rebound,43,40
+13:58,Iowa,Luka Garza,Missed Three Point Jumper,43,40
+13:58,Indiana,Rob Phinisee,Defensive Rebound,43,40
+13:50,Indiana,Rob Phinisee,Layup,45,40
+13:38,Iowa,Tyler Cook,Missed Jumper,45,40
+13:38,Indiana,Juwan Morgan,Block,45,40
+13:38,Indiana,Romeo Langford,Defensive Rebound,45,40
+13:26,Indiana,Evan Fitzner,Missed Three Point Jumper,45,40
+13:26,Iowa,Maishe Dailey,Defensive Rebound,45,40
+13:17,Iowa,Maishe Dailey,Missed Three Point Jumper,45,40
+13:17,Iowa,Ryan Kriener,Offensive Rebound,45,40
+13:17,Iowa,Ryan Kriener,Layup,45,42
+12:57,Iowa,Ryan Kriener,Foul,45,42
+12:57,Indiana,Romeo Langford,Free Throw,46,42
+12:57,Indiana,Romeo Langford,Free Throw,47,42
+12:43,Iowa,Nicholas Baer,Missed Three Point Jumper,47,42
+12:43,Indiana,Rob Phinisee,Defensive Rebound,47,42
+12:15,Indiana,Rob Phinisee,Missed Three Point Jumper,47,42
+12:15,Iowa,Maishe Dailey,Defensive Rebound,47,42
+11:51,Iowa,Nicholas Baer,Three Point Jumper,47,45
+11:28,Indiana,Romeo Langford,Missed Three Point Jumper,47,45
+11:28,Indiana,Juwan Morgan,Offensive Rebound,47,45
+11:20,Indiana,Juwan Morgan,Layup,49,45
+11:20,Iowa,Nicholas Baer,Foul,49,45
+11:20,Iowa,None,None,49,45
+11:20,Indiana,Juwan Morgan,Missed Free Throw,49,45
+11:20,Iowa,Maishe Dailey,Defensive Rebound,49,45
+11:06,Iowa,Luka Garza,Turnover,49,45
+11:06,Indiana,Rob Phinisee,Steal,49,45
+11:02,Indiana,Rob Phinisee,Missed Layup,49,45
+11:02,Iowa,Luka Garza,Defensive Rebound,49,45
+10:52,Iowa,Jordan Bohannon,Three Point Jumper,49,48
+10:35,Indiana,Romeo Langford,Three Point Jumper,52,48
+10:16,Iowa,Luka Garza,Layup,52,50
+9:47,Iowa,Ryan Kriener,Foul,52,50
+9:44,Indiana,Rob Phinisee,Three Point Jumper,55,50
+9:23,Iowa,Ryan Kriener,Missed Jumper,55,50
+9:23,Indiana,Juwan Morgan,Block,55,50
+9:23,Iowa,Iowa,Offensive Rebound,55,50
+9:16,Iowa,Luka Garza,Layup,55,52
+8:44,Indiana,Devonte Green,Missed Three Point Jumper,55,52
+8:44,Iowa,Luka Garza,Defensive Rebound,55,52
+8:35,Iowa,Connor McCaffery,Turnover,55,52
+8:35,Indiana,Juwan Morgan,Steal,55,52
+8:29,Iowa,Jordan Bohannon,Foul,55,52
+8:29,Indiana,Aljami Durham,Missed Free Throw,55,52
+8:29,Indiana,None,Team Rebound,55,52
+8:29,Indiana,Aljami Durham,Missed Free Throw,55,52
+8:29,Iowa,Maishe Dailey,Defensive Rebound,55,52
+8:20,Iowa,Tyler Cook,Layup,55,54
+7:51,Indiana,Devonte Green,Foul,55,54
+7:51,Indiana,Devonte Green,Turnover,55,54
+7:51,Iowa,None,None,55,54
+7:51,Iowa,Connor McCaffery,Steal,55,54
+7:51,Iowa,None,None,55,54
+7:43,Iowa,Jordan Bohannon,Turnover,55,54
+7:43,Indiana,Rob Phinisee,Steal,55,54
+7:19,Indiana,Romeo Langford,Foul,55,54
+7:19,Indiana,Romeo Langford,Turnover,55,54
+6:58,Iowa,Tyler Cook,Missed Jumper,55,54
+6:58,Indiana,Rob Phinisee,Defensive Rebound,55,54
+6:33,Indiana,Juwan Morgan,Layup,57,54
+6:16,Iowa,Luka Garza,Missed Three Point Jumper,57,54
+6:16,Indiana,Romeo Langford,Defensive Rebound,57,54
+5:45,Indiana,Rob Phinisee,Missed Layup,57,54
+5:45,Iowa,Luka Garza,Defensive Rebound,57,54
+5:35,Iowa,Maishe Dailey,Missed Three Point Jumper,57,54
+5:35,Indiana,Juwan Morgan,Defensive Rebound,57,54
+5:13,Indiana,Rob Phinisee,Missed Three Point Jumper,57,54
+5:13,Iowa,Tyler Cook,Defensive Rebound,57,54
+4:53,Iowa,Luka Garza,Missed Jumper,57,54
+4:53,Iowa,Tyler Cook,Offensive Rebound,57,54
+4:53,Iowa,None,None,57,56
+4:21,Iowa,Tyler Cook,Foul,57,56
+4:19,Indiana,Devonte Green,Missed Jumper,57,56
+4:19,Indiana,Devonte Green,Offensive Rebound,57,56
+3:55,Indiana,Juwan Morgan,Missed Three Point Jumper,57,56
+3:55,Indiana,De'Ron Davis,Offensive Rebound,57,56
+3:51,Indiana,De'Ron Davis,Layup,59,56
+3:32,Indiana,Devonte Green,Foul,59,56
+3:32,Iowa,None,None,59,56
+3:32,Iowa,Isaiah Moss,Missed Free Throw,59,56
+3:32,Indiana,Juwan Morgan,Defensive Rebound,59,56
+3:19,Indiana,Juwan Morgan,Missed Layup,59,56
+3:19,Iowa,Ryan Kriener,Defensive Rebound,59,56
+2:54,Iowa,Nicholas Baer,Missed Three Point Jumper,59,56
+2:54,Indiana,Devonte Green,Defensive Rebound,59,56
+2:27,Indiana,Juwan Morgan,Three Point Jumper,62,56
+2:17,Indiana,Rob Phinisee,Foul,62,56
+2:17,Iowa,Jordan Bohannon,Free Throw,62,57
+2:17,Iowa,Jordan Bohannon,Free Throw,62,58
+1:49,Indiana,Juwan Morgan,Missed Layup,62,58
+1:49,Iowa,Nicholas Baer,Block,62,58
+1:49,Iowa,Nicholas Baer,Defensive Rebound,62,58
+1:49,Indiana,None,None,62,58
+1:41,Iowa,Jordan Bohannon,Missed Layup,62,58
+1:41,Indiana,Juwan Morgan,Block,62,58
+1:41,Iowa,Iowa,Offensive Rebound,62,58
+1:33,Iowa,Tyler Cook,Layup,62,60
+1:31,Iowa,None,None,62,60
+1:14,Indiana,None,None,62,60
+1:05,Indiana,Romeo Langford,Foul,62,60
+1:05,Indiana,Romeo Langford,Turnover,62,60
+0:53,Iowa,Jordan Bohannon,Missed Jumper,62,60
+0:53,Iowa,Jordan Bohannon,Offensive Rebound,62,60
+0:44,Iowa,Isaiah Moss,Missed Jumper,62,60
+0:44,Iowa,Tyler Cook,Offensive Rebound,62,60
+0:40,Iowa,Tyler Cook,Turnover,62,60
+0:40,Indiana,Rob Phinisee,Steal,62,60
+0:38,Iowa,Nicholas Baer,Foul,62,60
+0:38,Indiana,Rob Phinisee,Free Throw,63,60
+0:38,Indiana,Rob Phinisee,Missed Free Throw,63,60
+0:38,Iowa,Nicholas Baer,Defensive Rebound,63,60
+0:31,Iowa,Jordan Bohannon,Three Point Jumper,63,63
+0:06,Indiana,Romeo Langford,Missed Three Point Jumper,63,63
+0:06,Iowa,Jordan Bohannon,Defensive Rebound,63,63
+0:00,Iowa,None,None,63,63
+5:00,Iowa,None,None,63,63
+4:35,Iowa,Isaiah Moss,Missed Jumper,63,63
+4:35,Indiana,Rob Phinisee,Defensive Rebound,63,63
+4:06,Indiana,Rob Phinisee,Missed Jumper,63,63
+4:06,Iowa,Nicholas Baer,Block,63,63
+4:06,Iowa,Connor McCaffery,Defensive Rebound,63,63
+3:44,Iowa,Isaiah Moss,Missed Three Point Jumper,63,63
+3:44,Indiana,Romeo Langford,Defensive Rebound,63,63
+3:39,Iowa,Isaiah Moss,Foul,63,63
+3:39,Indiana,Romeo Langford,Missed Free Throw,63,63
+3:39,Iowa,Nicholas Baer,Defensive Rebound,63,63
+3:28,Iowa,Tyler Cook,Jumper,63,65
+3:05,Iowa,Connor McCaffery,Foul,63,65
+3:05,Indiana,Juwan Morgan,Free Throw,64,65
+3:05,Indiana,Juwan Morgan,Free Throw,65,65
+2:55,Iowa,Jordan Bohannon,Missed Three Point Jumper,65,65
+2:55,Iowa,Luka Garza,Offensive Rebound,65,65
+2:50,Iowa,Jordan Bohannon,Three Point Jumper,65,68
+2:25,Indiana,De'Ron Davis,Layup,67,68
+2:25,Iowa,Luka Garza,Foul,67,68
+2:25,Indiana,De'Ron Davis,Free Throw,68,68
+2:01,Iowa,Jordan Bohannon,Three Point Jumper,68,71
+1:44,Indiana,Devonte Green,Missed Three Point Jumper,68,71
+1:44,Iowa,Nicholas Baer,Defensive Rebound,68,71
+1:10,Indiana,De'Ron Davis,Foul,68,71
+1:10,Iowa,Tyler Cook,Missed Free Throw,68,71
+1:10,Iowa,None,Team Rebound,68,71
+1:10,Iowa,Tyler Cook,Free Throw,68,72
+0:54,Indiana,Romeo Langford,Missed Three Point Jumper,68,72
+0:54,Indiana,Juwan Morgan,Offensive Rebound,68,72
+0:54,Indiana,Juwan Morgan,Layup,70,72
+0:26,Iowa,None,None,70,72
+0:23,Iowa,Jordan Bohannon,Three Point Jumper,70,75
+0:20,Indiana,None,None,70,75
+0:10,Indiana,Romeo Langford,Missed Jumper,70,75
+0:10,Iowa,Tyler Cook,Defensive Rebound,70,75
+0:04,Indiana,Romeo Langford,Foul,70,75
+0:04,Iowa,Connor McCaffery,Free Throw,70,76
+0:04,Iowa,Connor McCaffery,Missed Free Throw,70,76
+0:04,Indiana,Aljami Durham,Defensive Rebound,70,76
+0:00,Iowa,None,None,70,76

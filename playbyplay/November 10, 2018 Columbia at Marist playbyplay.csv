@@ -1,0 +1,349 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:37,Marist,Brian Parker,Jumper,0,2
+19:12,Columbia,Mike Smith,Missed Three Point Jumper,0,2
+19:12,Marist,Brian Parker,Defensive Rebound,0,2
+18:54,Marist,David Knudsen,Missed Three Point Jumper,0,2
+18:54,Marist,Marist,Offensive Rebound,0,2
+18:44,Columbia,Tai Bibbs,Foul,0,2
+18:44,Marist,Brian Parker,Free Throw,0,3
+18:44,Marist,Brian Parker,Missed Free Throw,0,3
+18:44,Marist,Marist,Offensive Rebound,0,3
+18:38,Marist,David Knudsen,Missed Jumper,0,3
+18:38,Columbia,Rodney Hunter,Block,0,3
+18:36,Columbia,Rodney Hunter,Defensive Rebound,0,3
+18:29,Columbia,Gabe Stefanini,Turnover,0,3
+18:23,Marist,Darius Hines,Turnover,0,3
+18:23,Columbia,Mike Smith,Steal,0,3
+18:19,Columbia,Mike Smith,Layup,2,3
+17:53,Marist,Isaiah Lamb,Turnover,2,3
+17:52,Columbia,Tai Bibbs,Steal,2,3
+17:51,Columbia,Tai Bibbs,Turnover,2,3
+17:49,Marist,Isaiah Lamb,Steal,2,3
+17:48,Marist,Isaiah Lamb,Layup,2,5
+17:33,Columbia,Gabe Stefanini,Jumper,4,5
+17:16,Marist,Brian Parker,Missed Layup,4,5
+17:16,Columbia,Mike Smith,Defensive Rebound,4,5
+17:09,Columbia,Mike Smith,Missed Layup,4,5
+17:09,Columbia,Ike Nweke,Offensive Rebound,4,5
+17:04,Columbia,None,None,6,5
+16:40,Marist,Brian Parker,Missed Layup,6,5
+16:40,Marist,Tobias Sjoberg,Offensive Rebound,6,5
+16:37,Marist,None,None,6,5
+16:37,Marist,Tobias Sjoberg,Offensive Rebound,6,5
+16:34,Marist,David Knudsen,Three Point Jumper,6,8
+16:13,Columbia,Mike Smith,Turnover,6,8
+16:04,Marist,Ryan Funk,Three Point Jumper,6,11
+15:41,Columbia,Quinton Adlesh,Turnover,6,11
+15:41,Marist,None,None,6,11
+15:11,Marist,Brian Parker,Three Point Jumper,6,14
+14:50,Columbia,Randy Brumant,Layup,8,14
+14:33,Marist,Isaiah Lamb,Turnover,8,14
+14:16,Columbia,Randy Brumant,Missed Jumper,8,14
+14:16,Marist,Ryan Funk,Defensive Rebound,8,14
+13:57,Marist,David Knudsen,Three Point Jumper,8,17
+13:48,Columbia,Quinton Adlesh,Missed Three Point Jumper,8,17
+13:48,Marist,David Knudsen,Defensive Rebound,8,17
+13:34,Marist,Matthew Herasme,Missed Three Point Jumper,8,17
+13:34,Columbia,Quinton Adlesh,Defensive Rebound,8,17
+13:20,Columbia,Mike Smith,Turnover,8,17
+13:19,Marist,Austin Williams,Steal,8,17
+13:13,Marist,Ryan Funk,Missed Three Point Jumper,8,17
+13:13,Marist,Luke Nedrow,Offensive Rebound,8,17
+13:10,Columbia,Randy Brumant,Foul,8,17
+12:47,Marist,Austin Williams,Layup,8,19
+12:34,Columbia,Jake Killingsworth,Foul,8,19
+12:34,Columbia,Jake Killingsworth,Turnover,8,19
+12:20,Marist,Darius Hines,Jumper,8,21
+12:07,Columbia,Ike Nweke,Missed Jumper,8,21
+12:07,Marist,Matthew Herasme,Defensive Rebound,8,21
+11:57,Marist,Aleksandar Dozic,Missed Three Point Jumper,8,21
+11:57,Columbia,Gabe Stefanini,Defensive Rebound,8,21
+11:39,Marist,None,None,8,21
+11:39,Columbia,Rodney Hunter,Missed Three Point Jumper,8,21
+11:39,Columbia,Columbia,Offensive Rebound,8,21
+11:39,Marist,None,None,8,21
+11:20,Marist,Austin Williams,Foul,8,21
+11:20,Columbia,Quinton Adlesh,Jumper,10,21
+10:56,Marist,Darius Hines,Turnover,10,21
+10:44,Columbia,Ike Nweke,Layup,12,21
+10:44,Marist,Tobias Sjoberg,Foul,12,21
+10:44,Marist,None,None,12,21
+10:44,Columbia,Ike Nweke,Free Throw,13,21
+10:21,Marist,Darius Hines,Layup,13,23
+10:13,Columbia,Rodney Hunter,Foul,13,23
+10:13,Columbia,Rodney Hunter,Turnover,13,23
+9:54,Marist,Darius Hines,Missed Three Point Jumper,13,23
+9:54,Marist,Luke Nedrow,Offensive Rebound,13,23
+9:52,Columbia,Ike Nweke,Foul,13,23
+9:44,Marist,Ryan Funk,Missed Three Point Jumper,13,23
+9:44,Columbia,Mike Smith,Defensive Rebound,13,23
+9:25,Marist,Ryan Funk,Foul,13,23
+9:25,Columbia,Ike Nweke,Free Throw,14,23
+9:25,Columbia,Ike Nweke,Missed Free Throw,14,23
+9:25,Marist,Brian Parker,Defensive Rebound,14,23
+9:14,Marist,Brian Parker,Turnover,14,23
+9:13,Columbia,Peter Barba,Steal,14,23
+8:54,Columbia,Mike Smith,Layup,16,23
+8:36,Marist,Brian Parker,Turnover,16,23
+8:36,Columbia,Quinton Adlesh,Steal,16,23
+8:23,Columbia,Peter Barba,Missed Three Point Jumper,16,23
+8:23,Columbia,Randy Brumant,Offensive Rebound,16,23
+8:17,Columbia,Gabe Stefanini,Jumper,18,23
+8:15,Marist,Tobias Sjoberg,Foul,18,23
+8:15,Columbia,Gabe Stefanini,Free Throw,19,23
+8:00,Marist,Darius Hines,Turnover,19,23
+7:59,Columbia,Randy Brumant,Steal,19,23
+7:57,Columbia,Randy Brumant,Dunk,21,23
+7:57,Marist,Austin Williams,Foul,21,23
+7:57,Marist,None,None,21,23
+7:57,Columbia,Randy Brumant,Missed Free Throw,21,23
+7:57,Marist,Brian Parker,Defensive Rebound,21,23
+7:30,Marist,Matthew Herasme,Layup,21,25
+7:18,Columbia,Gabe Stefanini,Missed Jumper,21,25
+7:18,Marist,Ryan Funk,Defensive Rebound,21,25
+7:06,Marist,Matthew Herasme,Missed Three Point Jumper,21,25
+7:06,Columbia,Randy Brumant,Defensive Rebound,21,25
+7:06,Marist,Aleksandar Dozic,Foul,21,25
+6:41,Columbia,Gabe Stefanini,Turnover,21,25
+6:31,Columbia,Rodney Hunter,Foul,21,25
+6:31,Marist,Brian Parker,Missed Free Throw,21,25
+6:31,Marist,None,Team Rebound,21,25
+6:31,Marist,Brian Parker,Free Throw,21,26
+6:22,Columbia,Mike Smith,Missed Layup,21,26
+6:22,Marist,Aleksandar Dozic,Defensive Rebound,21,26
+6:05,Marist,Ryan Funk,Three Point Jumper,21,29
+5:41,Columbia,Randy Brumant,Missed Layup,21,29
+5:41,Columbia,Randy Brumant,Offensive Rebound,21,29
+5:38,Columbia,None,None,21,29
+5:38,Columbia,Peter Barba,Offensive Rebound,21,29
+5:38,Marist,Matthew Herasme,Foul,21,29
+5:38,Columbia,Peter Barba,Free Throw,22,29
+5:38,Columbia,Peter Barba,Free Throw,23,29
+5:16,Marist,Isaiah Lamb,Missed Three Point Jumper,23,29
+5:16,Marist,Luke Nedrow,Offensive Rebound,23,29
+5:11,Columbia,Jake Killingsworth,Foul,23,29
+5:11,Marist,Matthew Herasme,Free Throw,23,30
+5:11,Marist,Matthew Herasme,Free Throw,23,31
+5:00,Columbia,Gabe Stefanini,Missed Three Point Jumper,23,31
+5:00,Marist,Darius Hines,Defensive Rebound,23,31
+4:37,Marist,Luke Nedrow,Three Point Jumper,23,34
+4:22,Columbia,Mike Smith,Layup,25,34
+3:59,Marist,Matthew Herasme,Layup,25,36
+3:48,Marist,Matthew Herasme,Foul,25,36
+3:48,Marist,None,None,25,36
+3:48,Columbia,Ike Nweke,Free Throw,26,36
+3:48,Columbia,Ike Nweke,Free Throw,27,36
+3:34,Marist,Brian Parker,Turnover,27,36
+3:33,Columbia,Mike Smith,Steal,27,36
+3:28,Columbia,Gabe Stefanini,Three Point Jumper,30,36
+3:07,Marist,Ryan Funk,Layup,30,38
+2:56,Columbia,Mike Smith,Missed Three Point Jumper,30,38
+2:56,Columbia,Ike Nweke,Offensive Rebound,30,38
+2:45,Columbia,Ike Nweke,Missed Layup,30,38
+2:45,Marist,Darius Hines,Defensive Rebound,30,38
+2:40,Marist,David Knudsen,Missed Jumper,30,38
+2:40,Columbia,Ike Nweke,Defensive Rebound,30,38
+2:24,Marist,Brian Parker,Foul,30,38
+2:24,Columbia,Mike Smith,Free Throw,31,38
+2:24,Columbia,Mike Smith,Free Throw,32,38
+1:58,Marist,Aleksandar Dozic,Foul,32,38
+1:58,Marist,Aleksandar Dozic,Turnover,32,38
+1:43,Columbia,Randy Brumant,Missed Jumper,32,38
+1:43,Marist,Ryan Funk,Defensive Rebound,32,38
+1:32,Marist,Ryan Funk,Missed Three Point Jumper,32,38
+1:32,Marist,David Knudsen,Offensive Rebound,32,38
+1:19,Marist,Brian Parker,Missed Jumper,32,38
+1:19,Columbia,Ike Nweke,Defensive Rebound,32,38
+1:16,Marist,Luke Nedrow,Foul,32,38
+1:16,Columbia,Ike Nweke,Free Throw,33,38
+1:16,Columbia,Ike Nweke,Missed Free Throw,33,38
+1:16,Marist,Isaiah Lamb,Defensive Rebound,33,38
+1:02,Marist,Brian Parker,Missed Layup,33,38
+1:02,Columbia,Randy Brumant,Block,33,38
+0:58,Columbia,Quinton Adlesh,Defensive Rebound,33,38
+0:42,Columbia,Randy Brumant,Layup,35,38
+0:19,Marist,Brian Parker,Turnover,35,38
+0:17,Columbia,None,None,35,38
+0:05,Columbia,Quinton Adlesh,Foul,35,38
+0:05,Columbia,Quinton Adlesh,Turnover,35,38
+0:01,Marist,Brian Parker,Missed Three Point Jumper,35,38
+0:01,Columbia,Quinton Adlesh,Defensive Rebound,35,38
+0:00,Marist,None,None,35,38
+19:45,Marist,Brian Parker,Jumper,35,40
+19:14,Columbia,Gabe Stefanini,Missed Three Point Jumper,35,40
+19:14,Marist,Tobias Sjoberg,Defensive Rebound,35,40
+19:07,Marist,David Knudsen,Missed Three Point Jumper,35,40
+19:07,Marist,Tobias Sjoberg,Offensive Rebound,35,40
+18:47,Marist,Brian Parker,Missed Layup,35,40
+18:47,Columbia,Columbia,Defensive Rebound,35,40
+18:24,Columbia,Mike Smith,Missed Jumper,35,40
+18:24,Marist,Brian Parker,Defensive Rebound,35,40
+18:17,Marist,David Knudsen,Three Point Jumper,35,43
+17:57,Columbia,Tai Bibbs,Missed Three Point Jumper,35,43
+17:57,Marist,David Knudsen,Defensive Rebound,35,43
+17:45,Marist,David Knudsen,Missed Three Point Jumper,35,43
+17:45,Marist,Isaiah Lamb,Offensive Rebound,35,43
+17:39,Marist,Isaiah Lamb,Missed Jumper,35,43
+17:39,Columbia,Ike Nweke,Defensive Rebound,35,43
+17:19,Columbia,Mike Smith,Three Point Jumper,38,43
+17:03,Marist,Brian Parker,Layup,38,45
+17:03,Columbia,Tai Bibbs,Foul,38,45
+17:03,Marist,Brian Parker,Foul,38,45
+17:03,Marist,Brian Parker,Foul,38,45
+17:03,Columbia,Mike Smith,Free Throw,39,45
+17:03,Columbia,Mike Smith,Free Throw,40,45
+17:03,Marist,Brian Parker,Missed Free Throw,40,45
+17:03,Columbia,Jake Killingsworth,Defensive Rebound,40,45
+17:03,Marist,Matthew Herasme,Foul,40,45
+16:58,Marist,Matthew Herasme,Foul,40,45
+16:36,Marist,Austin Williams,Foul,40,45
+16:33,Columbia,Mike Smith,Three Point Jumper,43,45
+16:13,Marist,Brian Parker,Turnover,43,45
+16:03,Columbia,Quinton Adlesh,Missed Three Point Jumper,43,45
+16:03,Columbia,Maka Ellis,Offensive Rebound,43,45
+15:58,Columbia,Maka Ellis,Missed Layup,43,45
+15:58,Marist,Ryan Funk,Block,43,45
+15:56,Marist,Ryan Funk,Defensive Rebound,43,45
+15:38,Columbia,Mike Smith,Foul,43,45
+15:38,Marist,None,None,43,45
+15:23,Marist,Darius Hines,Turnover,43,45
+15:22,Columbia,Mike Smith,Steal,43,45
+15:19,Columbia,Mike Smith,Turnover,43,45
+15:18,Marist,Tobias Sjoberg,Steal,43,45
+14:56,Marist,Isaiah Lamb,Missed Three Point Jumper,43,45
+14:56,Columbia,Mike Smith,Defensive Rebound,43,45
+14:45,Marist,Tobias Sjoberg,Foul,43,45
+14:41,Columbia,Quinton Adlesh,Jumper,45,45
+14:14,Marist,Darius Hines,Jumper,45,47
+13:52,Columbia,Jake Killingsworth,Missed Three Point Jumper,45,47
+13:52,Marist,David Knudsen,Defensive Rebound,45,47
+13:49,Columbia,Maka Ellis,Foul,45,47
+13:40,Marist,Brian Parker,Three Point Jumper,45,50
+13:18,Columbia,Quinton Adlesh,Three Point Jumper,48,50
+13:00,Columbia,Maka Ellis,Foul,48,50
+12:59,Marist,Ryan Funk,Missed Jumper,48,50
+12:59,Columbia,Jake Killingsworth,Defensive Rebound,48,50
+12:46,Columbia,Maka Ellis,Foul,48,50
+12:46,Columbia,Maka Ellis,Turnover,48,50
+12:28,Marist,Isaiah Lamb,Missed Layup,48,50
+12:28,Marist,Isaiah Lamb,Offensive Rebound,48,50
+12:24,Marist,Isaiah Lamb,Layup,48,52
+12:10,Marist,Luke Nedrow,Foul,48,52
+11:50,Columbia,Quinton Adlesh,Missed Three Point Jumper,48,52
+11:50,Marist,Isaiah Lamb,Defensive Rebound,48,52
+11:37,Marist,Brian Parker,Foul,48,52
+11:37,Marist,Brian Parker,Turnover,48,52
+11:37,Marist,None,None,48,52
+11:26,Columbia,Tai Bibbs,Missed Three Point Jumper,48,52
+11:26,Marist,Ryan Funk,Defensive Rebound,48,52
+11:02,Marist,Austin Williams,Turnover,48,52
+11:02,Columbia,Randy Brumant,Steal,48,52
+10:50,Columbia,Randy Brumant,Missed Jumper,48,52
+10:50,Marist,Luke Nedrow,Defensive Rebound,48,52
+10:30,Marist,Isaiah Lamb,Turnover,48,52
+10:22,Columbia,Ike Nweke,Turnover,48,52
+10:21,Marist,Isaiah Lamb,Steal,48,52
+10:18,Marist,Isaiah Lamb,Layup,48,54
+10:18,Columbia,Mike Smith,Foul,48,54
+10:18,Marist,Isaiah Lamb,Missed Free Throw,48,54
+10:18,Columbia,Jake Killingsworth,Defensive Rebound,48,54
+10:06,Columbia,Gabe Stefanini,Jumper,50,54
+9:47,Marist,Ryan Funk,Dunk,50,56
+9:25,Marist,Darius Hines,Foul,50,56
+9:25,Columbia,Mike Smith,Missed Free Throw,50,56
+9:25,Marist,Aleksandar Dozic,Defensive Rebound,50,56
+9:00,Marist,Ryan Funk,Missed Three Point Jumper,50,56
+9:00,Columbia,Mike Smith,Defensive Rebound,50,56
+8:48,Columbia,Maka Ellis,Missed Three Point Jumper,50,56
+8:48,Columbia,Ike Nweke,Offensive Rebound,50,56
+8:48,Marist,Aleksandar Dozic,Foul,50,56
+8:48,Columbia,Ike Nweke,Missed Free Throw,50,56
+8:48,Marist,David Knudsen,Defensive Rebound,50,56
+8:31,Marist,Brian Parker,Missed Layup,50,56
+8:31,Columbia,Rodney Hunter,Block,50,56
+8:31,Marist,Marist,Offensive Rebound,50,56
+8:20,Marist,Ryan Funk,Three Point Jumper,50,59
+7:52,Columbia,Mike Smith,Layup,52,59
+7:52,Marist,Tobias Sjoberg,Foul,52,59
+7:52,Marist,None,None,52,59
+7:52,Columbia,Mike Smith,Free Throw,53,59
+7:31,Columbia,Mike Smith,Foul,53,59
+7:31,Marist,David Knudsen,Missed Free Throw,53,59
+7:31,Marist,Luke Nedrow,Offensive Rebound,53,59
+7:30,Columbia,Ike Nweke,Foul,53,59
+7:30,Marist,Luke Nedrow,Missed Free Throw,53,59
+7:30,Columbia,Rodney Hunter,Defensive Rebound,53,59
+7:30,Marist,Austin Williams,Foul,53,59
+7:30,Columbia,Rodney Hunter,Missed Free Throw,53,59
+7:30,Columbia,None,Team Rebound,53,59
+7:30,Columbia,Rodney Hunter,Missed Free Throw,53,59
+7:30,Marist,Isaiah Lamb,Defensive Rebound,53,59
+7:08,Marist,David Knudsen,Three Point Jumper,53,62
+6:53,Columbia,Ike Nweke,Foul,53,62
+6:53,Columbia,Ike Nweke,Turnover,53,62
+6:33,Marist,Isaiah Lamb,Three Point Jumper,53,65
+6:12,Columbia,Randy Brumant,Three Point Jumper,56,65
+5:49,Marist,David Knudsen,Three Point Jumper,56,68
+5:30,Columbia,Quinton Adlesh,Three Point Jumper,59,68
+5:05,Columbia,Quinton Adlesh,Foul,59,68
+5:05,Marist,Brian Parker,Free Throw,59,69
+5:05,Marist,Brian Parker,Free Throw,59,70
+4:57,Columbia,Gabe Stefanini,Three Point Jumper,62,70
+4:33,Marist,David Knudsen,Missed Three Point Jumper,62,70
+4:33,Columbia,Gabe Stefanini,Defensive Rebound,62,70
+4:24,Columbia,Quinton Adlesh,Turnover,62,70
+4:10,Marist,Brian Parker,Jumper,62,72
+3:56,Columbia,Gabe Stefanini,Missed Jumper,62,72
+3:56,Marist,Brian Parker,Defensive Rebound,62,72
+3:28,Marist,Luke Nedrow,Layup,62,74
+3:12,Columbia,Ike Nweke,Layup,64,74
+3:12,Columbia,None,None,64,74
+2:50,Marist,Ryan Funk,Missed Three Point Jumper,64,74
+2:50,Columbia,Randy Brumant,Defensive Rebound,64,74
+2:41,Columbia,Mike Smith,Missed Three Point Jumper,64,74
+2:41,Marist,Brian Parker,Defensive Rebound,64,74
+2:24,Marist,Darius Hines,Layup,64,76
+2:07,Columbia,Quinton Adlesh,Missed Three Point Jumper,64,76
+2:07,Marist,Ryan Funk,Defensive Rebound,64,76
+1:52,Columbia,Quinton Adlesh,Foul,64,76
+1:52,Marist,None,None,64,76
+1:52,Marist,Brian Parker,Free Throw,64,77
+1:52,Marist,Brian Parker,Missed Free Throw,64,77
+1:52,Columbia,Randy Brumant,Defensive Rebound,64,77
+1:42,Columbia,Ike Nweke,Layup,66,77
+1:32,Marist,None,None,66,77
+1:26,Marist,Brian Parker,Turnover,66,77
+1:26,Columbia,Gabe Stefanini,Steal,66,77
+1:23,Columbia,Randy Brumant,Dunk,68,77
+1:23,Marist,None,None,68,77
+1:15,Columbia,Quinton Adlesh,Foul,68,77
+1:15,Marist,Darius Hines,Missed Free Throw,68,77
+1:15,Marist,None,Team Rebound,68,77
+1:15,Marist,Darius Hines,Free Throw,68,78
+1:06,Columbia,Mike Smith,Jumper,70,78
+0:42,Columbia,Randy Brumant,Foul,70,78
+0:42,Marist,Brian Parker,Missed Free Throw,70,78
+0:42,Marist,None,Team Rebound,70,78
+0:42,Marist,None,None,70,78
+0:42,Marist,Brian Parker,Missed Free Throw,70,78
+0:42,Columbia,Randy Brumant,Defensive Rebound,70,78
+0:36,Marist,Isaiah Lamb,Foul,70,78
+0:36,Columbia,Mike Smith,Free Throw,71,78
+0:36,Columbia,Mike Smith,Free Throw,72,78
+0:33,Columbia,Randy Brumant,Foul,72,78
+0:33,Marist,Darius Hines,Free Throw,72,79
+0:33,Marist,Darius Hines,Free Throw,72,80
+0:23,Columbia,Ike Nweke,Dunk,74,80
+0:23,Columbia,None,None,74,80
+0:20,Columbia,Mike Smith,Foul,74,80
+0:20,Marist,Brian Parker,Free Throw,74,81
+0:20,Marist,Brian Parker,Free Throw,74,82
+0:15,Columbia,Mike Smith,Missed Layup,74,82
+0:15,Marist,Luke Nedrow,Block,74,82
+0:15,Columbia,Columbia,Offensive Rebound,74,82
+0:12,Columbia,Quinton Adlesh,Missed Three Point Jumper,74,82
+0:12,Columbia,Ike Nweke,Offensive Rebound,74,82
+0:11,Marist,Luke Nedrow,Foul,74,82
+0:11,Columbia,Ike Nweke,Free Throw,75,82
+0:11,Columbia,Ike Nweke,Free Throw,76,82
+0:00,Marist,None,None,76,82

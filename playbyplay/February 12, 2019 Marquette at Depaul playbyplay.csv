@@ -1,0 +1,345 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Depaul,None,None,0,0
+19:48,Depaul,Jaylen Butz,Turnover,0,0
+19:48,Marquette,Joey Hauser,Steal,0,0
+19:31,Marquette,Sam Hauser,Three Point Jumper,3,0
+19:02,Marquette,Joey Hauser,Foul,3,0
+19:02,Depaul,Max Strus,Free Throw,3,1
+19:02,Depaul,Max Strus,Free Throw,3,2
+18:47,Marquette,Sam Hauser,Missed Three Point Jumper,3,2
+18:47,Depaul,Jaylen Butz,Defensive Rebound,3,2
+18:33,Depaul,Jaylen Butz,Turnover,3,2
+18:15,Marquette,Sacar Anim,Three Point Jumper,6,2
+18:03,Depaul,Paul Reed,Jumper,6,4
+17:40,Marquette,Joey Hauser,Three Point Jumper,9,4
+17:28,Depaul,Eli Cain,Missed Jumper,9,4
+17:28,Marquette,Markus Howard,Defensive Rebound,9,4
+17:20,Depaul,Eli Cain,Foul,9,4
+17:20,Marquette,Markus Howard,Missed Free Throw,9,4
+17:20,Marquette,None,Team Rebound,9,4
+17:20,Marquette,Markus Howard,Free Throw,10,4
+17:05,Depaul,Paul Reed,Missed Layup,10,4
+17:05,Marquette,Theo John,Block,10,4
+17:05,Depaul,Paul Reed,Offensive Rebound,10,4
+17:05,Depaul,Paul Reed,Missed Layup,10,4
+17:05,Marquette,Theo John,Block,10,4
+17:05,Marquette,Markus Howard,Defensive Rebound,10,4
+16:55,Marquette,Markus Howard,Three Point Jumper,13,4
+16:49,Depaul,None,None,13,4
+16:39,Depaul,Paul Reed,Jumper,13,6
+16:39,Marquette,Joey Hauser,Foul,13,6
+16:39,Depaul,Paul Reed,Free Throw,13,7
+16:19,Marquette,Markus Howard,Three Point Jumper,16,7
+16:06,Depaul,Paul Reed,Turnover,16,7
+16:06,Marquette,Ed Morrow,Steal,16,7
+15:58,Marquette,Markus Howard,Missed Three Point Jumper,16,7
+15:58,Depaul,Paul Reed,Defensive Rebound,16,7
+15:44,Depaul,Femi Olujobi,Three Point Jumper,16,10
+15:31,Marquette,Markus Howard,Missed Jumper,16,10
+15:31,Depaul,Max Strus,Defensive Rebound,16,10
+15:18,Depaul,Femi Olujobi,Three Point Jumper,16,13
+15:02,Marquette,Sacar Anim,Layup,18,13
+14:49,Depaul,Paul Reed,Missed Three Point Jumper,18,13
+14:49,Marquette,Markus Howard,Defensive Rebound,18,13
+14:41,Marquette,Sacar Anim,Layup,20,13
+14:16,Marquette,Ed Morrow,Foul,20,13
+14:16,Depaul,None,None,20,13
+14:16,Depaul,Eli Cain,Free Throw,20,14
+14:16,Depaul,Eli Cain,Missed Free Throw,20,14
+14:16,Marquette,Theo John,Defensive Rebound,20,14
+14:05,Marquette,Brendan Bailey,Missed Three Point Jumper,20,14
+14:05,Depaul,Femi Olujobi,Defensive Rebound,20,14
+13:44,Depaul,Femi Olujobi,Three Point Jumper,20,17
+13:27,Depaul,Femi Olujobi,Foul,20,17
+13:23,Marquette,Sam Hauser,Jumper,22,17
+13:23,Depaul,Jaylen Butz,Missed Layup,22,17
+13:23,Depaul,Jaylen Butz,Offensive Rebound,22,17
+13:23,Depaul,None,None,22,17
+13:13,Marquette,Sam Hauser,Defensive Rebound,22,17
+13:04,Marquette,Sam Hauser,Missed Three Point Jumper,22,17
+13:04,Depaul,Max Strus,Defensive Rebound,22,17
+13:00,Depaul,Devin Gage,Foul,22,17
+13:00,Depaul,Devin Gage,Turnover,22,17
+12:57,Marquette,Sam Hauser,Turnover,22,17
+12:57,Depaul,Femi Olujobi,Steal,22,17
+12:47,Depaul,Max Strus,Jumper,22,19
+12:24,Marquette,Sam Hauser,Jumper,24,19
+12:03,Depaul,Femi Olujobi,Jumper,24,21
+11:44,Marquette,Markus Howard,Missed Jumper,24,21
+11:44,Marquette,Theo John,Offensive Rebound,24,21
+11:40,Marquette,Theo John,Dunk,26,21
+11:18,Depaul,Lyrik Shreiner,Missed Layup,26,21
+11:18,Marquette,Theo John,Block,26,21
+11:18,Marquette,Sam Hauser,Defensive Rebound,26,21
+11:12,Marquette,Sam Hauser,Three Point Jumper,29,21
+10:53,Depaul,Max Strus,Missed Jumper,29,21
+10:53,Depaul,Jaylen Butz,Offensive Rebound,29,21
+10:51,Marquette,Theo John,Foul,29,21
+10:50,Depaul,None,None,29,21
+10:49,Depaul,None,None,29,21
+10:46,Depaul,Jaylen Butz,Layup,29,23
+10:33,Marquette,Markus Howard,Missed Three Point Jumper,29,23
+10:33,Depaul,Lyrik Shreiner,Defensive Rebound,29,23
+10:24,Depaul,Lyrik Shreiner,Three Point Jumper,29,26
+10:02,Marquette,Markus Howard,Jumper,31,26
+9:38,Depaul,Max Strus,Missed Jumper,31,26
+9:38,Depaul,DePaul,Offensive Rebound,31,26
+9:30,Depaul,Paul Reed,Missed Jumper,31,26
+9:30,Marquette,Marquette,Defensive Rebound,31,26
+9:14,Marquette,Sam Hauser,Missed Three Point Jumper,31,26
+9:14,Depaul,DePaul,Defensive Rebound,31,26
+8:50,Depaul,Lyrik Shreiner,Missed Three Point Jumper,31,26
+8:50,Depaul,DePaul,Offensive Rebound,31,26
+8:37,Depaul,Femi Olujobi,Layup,31,28
+8:16,Marquette,Ed Morrow,Turnover,31,28
+7:57,Marquette,Theo John,Foul,31,28
+7:57,Depaul,None,None,31,28
+7:57,Depaul,Femi Olujobi,Free Throw,31,29
+7:57,Depaul,Femi Olujobi,Free Throw,31,30
+7:42,Marquette,Ed Morrow,Jumper,33,30
+7:23,Depaul,Paul Reed,Missed Layup,33,30
+7:23,Marquette,Ed Morrow,Block,33,30
+7:23,Depaul,DePaul,Offensive Rebound,33,30
+7:09,Depaul,Max Strus,Missed Jumper,33,30
+7:09,Depaul,Max Strus,Offensive Rebound,33,30
+7:06,Marquette,Ed Morrow,Foul,33,30
+7:01,Depaul,Femi Olujobi,Turnover,33,30
+7:01,Marquette,Markus Howard,Steal,33,30
+6:55,Marquette,Joseph Chartouny,Missed Three Point Jumper,33,30
+6:55,Marquette,Ed Morrow,Offensive Rebound,33,30
+6:50,Marquette,Ed Morrow,Layup,35,30
+6:35,Depaul,Eli Cain,Missed Layup,35,30
+6:35,Depaul,Paul Reed,Offensive Rebound,35,30
+6:35,Depaul,Paul Reed,Dunk,35,32
+6:18,Marquette,Joseph Chartouny,Turnover,35,32
+5:58,Depaul,Devin Gage,Foul,35,32
+5:58,Depaul,Devin Gage,Turnover,35,32
+5:49,Marquette,Markus Howard,Missed Jumper,35,32
+5:49,Depaul,Eli Cain,Block,35,32
+5:49,Depaul,Paul Reed,Defensive Rebound,35,32
+5:39,Depaul,Max Strus,Layup,35,34
+5:14,Depaul,Eli Cain,Foul,35,34
+5:14,Marquette,Markus Howard,Free Throw,36,34
+5:14,Marquette,Markus Howard,Free Throw,37,34
+5:02,Depaul,Femi Olujobi,Missed Three Point Jumper,37,34
+5:02,Marquette,Sam Hauser,Defensive Rebound,37,34
+4:48,Marquette,Markus Howard,Layup,39,34
+4:31,Marquette,Markus Howard,Foul,39,34
+4:31,Depaul,Lyrik Shreiner,Missed Free Throw,39,34
+4:31,Marquette,Sam Hauser,Defensive Rebound,39,34
+4:18,Marquette,Markus Howard,Missed Three Point Jumper,39,34
+4:18,Marquette,Ed Morrow,Offensive Rebound,39,34
+4:14,Depaul,Femi Olujobi,Foul,39,34
+4:05,Marquette,Brendan Bailey,Missed Three Point Jumper,39,34
+4:05,Marquette,Ed Morrow,Offensive Rebound,39,34
+4:00,Marquette,Markus Howard,Missed Three Point Jumper,39,34
+4:00,Depaul,Jaylen Butz,Defensive Rebound,39,34
+3:44,Depaul,Femi Olujobi,Turnover,39,34
+3:44,Depaul,None,None,39,34
+3:22,Marquette,Brendan Bailey,Missed Layup,39,34
+3:22,Depaul,Paul Reed,Block,39,34
+3:22,Marquette,Marquette,Offensive Rebound,39,34
+3:15,Marquette,Markus Howard,Missed Three Point Jumper,39,34
+3:15,Depaul,DePaul,Defensive Rebound,39,34
+3:01,Depaul,Eli Cain,Missed Jumper,39,34
+3:01,Depaul,Paul Reed,Offensive Rebound,39,34
+2:43,Depaul,Lyrik Shreiner,Turnover,39,34
+2:29,Marquette,Ed Morrow,Jumper,41,34
+2:01,Depaul,Eli Cain,Turnover,41,34
+1:51,Marquette,Ed Morrow,Dunk,43,34
+1:41,Marquette,Ed Morrow,Foul,43,34
+1:41,Depaul,Jaylen Butz,Missed Free Throw,43,34
+1:41,Depaul,None,Team Rebound,43,34
+1:41,Depaul,Jaylen Butz,Missed Free Throw,43,34
+1:41,Marquette,Jamal Cain,Defensive Rebound,43,34
+1:27,Marquette,Jamal Cain,Three Point Jumper,46,34
+1:12,Depaul,Max Strus,Three Point Jumper,46,37
+0:55,Marquette,Markus Howard,Layup,48,37
+0:41,Depaul,Lyrik Shreiner,Turnover,48,37
+0:41,Marquette,None,None,48,37
+0:16,Marquette,Markus Howard,Three Point Jumper,51,37
+0:04,Depaul,Eli Cain,Missed Jumper,51,37
+0:04,Depaul,Paul Reed,Offensive Rebound,51,37
+0:01,Depaul,Max Strus,Jumper,51,39
+0:00,Depaul,None,None,51,39
+20:00,Marquette,None,None,51,39
+19:48,Depaul,Eli Cain,Foul,51,39
+19:48,Marquette,Markus Howard,Free Throw,52,39
+19:48,Marquette,Markus Howard,Free Throw,53,39
+19:48,Marquette,Markus Howard,Free Throw,54,39
+19:22,Depaul,Devin Gage,Missed Three Point Jumper,54,39
+19:22,Depaul,Jaylen Butz,Offensive Rebound,54,39
+19:19,Marquette,Theo John,Foul,54,39
+19:18,Depaul,Paul Reed,Missed Jumper,54,39
+19:18,Depaul,Jaylen Butz,Offensive Rebound,54,39
+19:13,Depaul,Jaylen Butz,Missed Jumper,54,39
+19:13,Depaul,Jaylen Butz,Offensive Rebound,54,39
+19:13,Depaul,None,None,54,39
+19:13,Depaul,Paul Reed,Offensive Rebound,54,39
+19:13,Depaul,None,None,54,41
+18:56,Marquette,Markus Howard,Layup,56,41
+18:29,Depaul,Max Strus,Three Point Jumper,56,44
+18:14,Marquette,Joey Hauser,Three Point Jumper,59,44
+17:43,Depaul,Max Strus,Missed Layup,59,44
+17:43,Marquette,Theo John,Block,59,44
+17:43,Depaul,DePaul,Offensive Rebound,59,44
+17:43,Marquette,Sam Hauser,Foul,59,44
+17:38,Depaul,Max Strus,Missed Three Point Jumper,59,44
+17:38,Marquette,Joey Hauser,Defensive Rebound,59,44
+17:26,Marquette,Sam Hauser,Missed Jumper,59,44
+17:26,Depaul,Paul Reed,Defensive Rebound,59,44
+17:02,Depaul,Devin Gage,Foul,59,44
+17:02,Depaul,Devin Gage,Turnover,59,44
+16:38,Marquette,Markus Howard,Jumper,61,44
+16:19,Marquette,Joey Hauser,Foul,61,44
+16:08,Depaul,Devin Gage,Layup,61,46
+15:46,Marquette,Sacar Anim,Three Point Jumper,64,46
+15:35,Depaul,Devin Gage,Layup,64,48
+15:35,Marquette,Markus Howard,Foul,64,48
+15:35,Depaul,None,None,64,48
+15:35,Depaul,Devin Gage,Free Throw,64,49
+15:13,Marquette,Sam Hauser,Missed Jumper,64,49
+15:13,Depaul,Devin Gage,Defensive Rebound,64,49
+14:59,Depaul,Devin Gage,Missed Layup,64,49
+14:59,Marquette,Ed Morrow,Defensive Rebound,64,49
+14:44,Marquette,Jamal Cain,Layup,66,49
+14:26,Depaul,Devin Gage,Missed Jumper,66,49
+14:26,Marquette,Jamal Cain,Defensive Rebound,66,49
+14:15,Marquette,Sacar Anim,Jumper,68,49
+14:05,Depaul,None,None,68,49
+13:54,Depaul,Max Strus,Foul,68,49
+13:54,Depaul,Max Strus,Turnover,68,49
+13:41,Depaul,Max Strus,Foul,68,49
+13:41,Marquette,Ed Morrow,Free Throw,69,49
+13:41,Marquette,Ed Morrow,Missed Free Throw,69,49
+13:41,Depaul,Paul Reed,Defensive Rebound,69,49
+13:27,Depaul,Paul Reed,Missed Jumper,69,49
+13:27,Depaul,Paul Reed,Offensive Rebound,69,49
+13:24,Depaul,Paul Reed,Missed Jumper,69,49
+13:24,Depaul,DePaul,Offensive Rebound,69,49
+13:13,Depaul,Lyrik Shreiner,Three Point Jumper,69,52
+12:57,Marquette,Markus Howard,Jumper,71,52
+12:42,Marquette,Sacar Anim,Foul,71,52
+12:33,Marquette,Jamal Cain,Foul,71,52
+12:33,Depaul,Eli Cain,Free Throw,71,53
+12:33,Depaul,Eli Cain,Missed Free Throw,71,53
+12:33,Depaul,Femi Olujobi,Offensive Rebound,71,53
+12:33,Depaul,Femi Olujobi,Foul,71,53
+12:31,Depaul,Femi Olujobi,Turnover,71,53
+12:17,Marquette,Ed Morrow,Foul,71,53
+12:17,Marquette,Ed Morrow,Turnover,71,53
+12:02,Depaul,Eli Cain,Missed Jumper,71,53
+12:02,Marquette,Theo John,Block,71,53
+12:02,Depaul,Eli Cain,Offensive Rebound,71,53
+11:53,Depaul,Eli Cain,Layup,71,55
+11:26,Marquette,Sacar Anim,Missed Jumper,71,55
+11:26,Depaul,Lyrik Shreiner,Defensive Rebound,71,55
+11:02,Marquette,Theo John,Foul,71,55
+11:02,Depaul,None,None,71,55
+11:02,Depaul,Lyrik Shreiner,Missed Free Throw,71,55
+11:02,Depaul,None,Team Rebound,71,55
+11:02,Depaul,Lyrik Shreiner,Free Throw,71,56
+10:49,Marquette,Sacar Anim,Missed Jumper,71,56
+10:49,Depaul,Eli Cain,Defensive Rebound,71,56
+10:34,Depaul,Max Strus,Missed Layup,71,56
+10:34,Marquette,Matt Heldt,Defensive Rebound,71,56
+10:27,Marquette,Sam Hauser,Three Point Jumper,74,56
+10:01,Marquette,Matt Heldt,Foul,74,56
+10:01,Depaul,Femi Olujobi,Free Throw,74,57
+10:01,Depaul,Femi Olujobi,Free Throw,74,58
+9:54,Marquette,Joey Hauser,Missed Three Point Jumper,74,58
+9:54,Depaul,Paul Reed,Defensive Rebound,74,58
+9:40,Depaul,Eli Cain,Missed Layup,74,58
+9:40,Marquette,Sacar Anim,Defensive Rebound,74,58
+9:13,Marquette,Sam Hauser,Missed Three Point Jumper,74,58
+9:13,Depaul,Eli Cain,Defensive Rebound,74,58
+8:54,Marquette,Matt Heldt,Foul,74,58
+8:54,Depaul,Jaylen Butz,Free Throw,74,59
+8:54,Depaul,Jaylen Butz,Missed Free Throw,74,59
+8:54,Marquette,Matt Heldt,Defensive Rebound,74,59
+8:53,Depaul,Max Strus,Foul,74,59
+8:51,Marquette,Markus Howard,Turnover,74,59
+8:32,Depaul,Lyrik Shreiner,Jumper,74,61
+8:15,Depaul,Max Strus,Foul,74,61
+8:15,Marquette,Sam Hauser,Free Throw,75,61
+8:15,Marquette,Sam Hauser,Free Throw,76,61
+7:58,Depaul,Eli Cain,Layup,76,63
+7:57,Depaul,None,None,76,63
+7:40,Marquette,Joey Hauser,Missed Layup,76,63
+7:40,Depaul,Paul Reed,Block,76,63
+7:40,Marquette,Marquette,Offensive Rebound,76,63
+7:38,Marquette,Sam Hauser,Missed Jumper,76,63
+7:38,Marquette,Marquette,Offensive Rebound,76,63
+7:19,Marquette,Joey Hauser,Missed Three Point Jumper,76,63
+7:19,Depaul,Eli Cain,Defensive Rebound,76,63
+7:07,Depaul,Eli Cain,Turnover,76,63
+6:51,Depaul,Eli Cain,Foul,76,63
+6:51,Marquette,Sam Hauser,Free Throw,77,63
+6:51,Marquette,Sam Hauser,Free Throw,78,63
+6:38,Depaul,Jaylen Butz,Missed Layup,78,63
+6:38,Depaul,DePaul,Offensive Rebound,78,63
+6:32,Marquette,Sacar Anim,Foul,78,63
+6:32,Depaul,Max Strus,Free Throw,78,64
+6:32,Depaul,Max Strus,Free Throw,78,65
+6:11,Marquette,Joey Hauser,Missed Layup,78,65
+6:11,Depaul,Paul Reed,Block,78,65
+6:11,Marquette,Brendan Bailey,Offensive Rebound,78,65
+6:06,Marquette,Markus Howard,Jumper,80,65
+5:56,Depaul,Max Strus,Missed Layup,80,65
+5:56,Depaul,Lyrik Shreiner,Offensive Rebound,80,65
+5:50,Marquette,Joey Hauser,Foul,80,65
+5:50,Depaul,Jaylen Butz,Missed Free Throw,80,65
+5:50,Depaul,None,Team Rebound,80,65
+5:50,Depaul,Jaylen Butz,Free Throw,80,66
+5:32,Marquette,Joey Hauser,Missed Three Point Jumper,80,66
+5:32,Depaul,Max Strus,Defensive Rebound,80,66
+5:19,Marquette,Brendan Bailey,Foul,80,66
+5:19,Depaul,Devin Gage,Free Throw,80,67
+5:19,Depaul,Devin Gage,Free Throw,80,68
+5:05,Marquette,Markus Howard,Missed Jumper,80,68
+5:05,Depaul,Lyrik Shreiner,Defensive Rebound,80,68
+5:05,Depaul,Lyrik Shreiner,Turnover,80,68
+4:54,Marquette,Markus Howard,Jumper,82,68
+4:54,Depaul,Lyrik Shreiner,Foul,82,68
+4:54,Marquette,Markus Howard,Free Throw,83,68
+4:42,Depaul,Paul Reed,Turnover,83,68
+4:42,Marquette,Brendan Bailey,Steal,83,68
+4:38,Marquette,Brendan Bailey,Dunk,85,68
+4:35,Depaul,None,None,85,68
+4:23,Depaul,Devin Gage,Missed Layup,85,68
+4:23,Marquette,Theo John,Defensive Rebound,85,68
+3:54,Depaul,Jaylen Butz,Foul,85,68
+3:54,Depaul,None,None,85,68
+3:54,Marquette,Joey Hauser,Missed Free Throw,85,68
+3:54,Marquette,None,Team Rebound,85,68
+3:54,Marquette,Joey Hauser,Free Throw,86,68
+3:45,Depaul,Max Strus,Missed Three Point Jumper,86,68
+3:45,Marquette,Markus Howard,Defensive Rebound,86,68
+3:18,Depaul,Devin Gage,Foul,86,68
+3:18,Marquette,Markus Howard,Missed Free Throw,86,68
+3:18,Marquette,None,Team Rebound,86,68
+3:18,Marquette,Markus Howard,Free Throw,87,68
+3:03,Marquette,Brendan Bailey,Foul,87,68
+3:03,Depaul,Femi Olujobi,Free Throw,87,69
+3:03,Depaul,Femi Olujobi,Free Throw,87,70
+2:40,Marquette,Joey Hauser,Missed Three Point Jumper,87,70
+2:40,Marquette,Theo John,Offensive Rebound,87,70
+2:34,Marquette,Markus Howard,Three Point Jumper,90,70
+2:15,Depaul,Femi Olujobi,Missed Jumper,90,70
+2:15,Marquette,Theo John,Defensive Rebound,90,70
+1:56,Marquette,Sacar Anim,Missed Jumper,90,70
+1:56,Depaul,Femi Olujobi,Block,90,70
+1:56,Depaul,Max Strus,Defensive Rebound,90,70
+1:50,Depaul,Devin Gage,Jumper,90,72
+1:50,Marquette,Markus Howard,Foul,90,72
+1:50,Depaul,Devin Gage,Free Throw,90,73
+1:23,Marquette,Markus Howard,Turnover,90,73
+1:05,Depaul,Femi Olujobi,Missed Jumper,90,73
+1:05,Marquette,Theo John,Block,90,73
+1:05,Marquette,Jamal Cain,Defensive Rebound,90,73
+0:41,Marquette,Joey Hauser,Missed Three Point Jumper,90,73
+0:41,Marquette,Brendan Bailey,Offensive Rebound,90,73
+0:41,Marquette,None,None,92,73
+0:24,Depaul,Max Strus,Missed Layup,92,73
+0:24,Marquette,Theo John,Defensive Rebound,92,73
+0:00,Depaul,None,None,92,73

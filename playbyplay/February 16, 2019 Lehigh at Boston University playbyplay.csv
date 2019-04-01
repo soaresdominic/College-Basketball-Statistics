@@ -1,0 +1,336 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:35,Boston University,Sukhmail Mathon,Missed Layup,0,0
+19:35,Lehigh,Pat Andree,Defensive Rebound,0,0
+19:17,Lehigh,Lance Tejada,Missed Three Point Jumper,0,0
+19:17,Boston University,Alex Vilarino,Defensive Rebound,0,0
+19:07,Boston University,Alex Vilarino,Jumper,0,2
+18:45,Boston University,Andrew Petcash,Foul,0,2
+18:34,Lehigh,James Karnik,Layup,2,2
+18:18,Boston University,Tyler Scanlon,Three Point Jumper,2,5
+17:59,Lehigh,Kyle Leufroy,Layup,4,5
+17:45,Boston University,Andrew Petcash,Missed Jumper,4,5
+17:45,Lehigh,Pat Andree,Defensive Rebound,4,5
+17:35,Lehigh,Pat Andree,Missed Three Point Jumper,4,5
+17:35,Lehigh,Jordan Cohen,Offensive Rebound,4,5
+17:24,Lehigh,Pat Andree,Missed Layup,4,5
+17:24,Boston University,Sukhmail Mathon,Defensive Rebound,4,5
+17:14,Boston University,Tyler Scanlon,Turnover,4,5
+17:13,Lehigh,Kyle Leufroy,Steal,4,5
+17:10,Lehigh,Kyle Leufroy,Missed Layup,4,5
+17:10,Lehigh,Pat Andree,Offensive Rebound,4,5
+17:04,Lehigh,None,None,6,5
+16:51,Boston University,Andrew Petcash,Three Point Jumper,6,8
+16:13,Lehigh,Lance Tejada,Missed Three Point Jumper,6,8
+16:13,Boston University,Andrew Petcash,Defensive Rebound,6,8
+15:53,Boston University,Max Mahoney,Missed Jumper,6,8
+15:53,Lehigh,Pat Andree,Defensive Rebound,6,8
+15:41,Lehigh,James Karnik,Layup,8,8
+15:18,Boston University,Tyler Scanlon,Missed Three Point Jumper,8,8
+15:18,Lehigh,Jordan Cohen,Defensive Rebound,8,8
+15:10,Lehigh,Jordan Cohen,Missed Three Point Jumper,8,8
+15:10,Lehigh,Pat Andree,Offensive Rebound,8,8
+15:05,Lehigh,None,None,10,8
+14:49,Boston University,Andrew Petcash,Three Point Jumper,10,11
+14:28,Lehigh,James Karnik,Dunk,12,11
+14:11,Boston University,Andrew Petcash,Layup,12,13
+13:48,Lehigh,Pat Andree,Jumper,14,13
+13:28,Boston University,Andrew Petcash,Three Point Jumper,14,16
+13:05,Lehigh,Kyle Leufroy,Three Point Jumper,17,16
+12:46,Boston University,Sukhmail Mathon,Missed Jumper,17,16
+12:46,Lehigh,Pat Andree,Defensive Rebound,17,16
+12:25,Lehigh,Pat Andree,Missed Three Point Jumper,17,16
+12:25,Boston University,Alex Vilarino,Defensive Rebound,17,16
+12:14,Boston University,Alex Vilarino,Missed Jumper,17,16
+12:14,Boston University,Tyler Scanlon,Offensive Rebound,17,16
+12:06,Boston University,None,None,17,16
+12:06,Lehigh,James Karnik,Defensive Rebound,17,16
+11:58,Boston University,Sukhmail Mathon,Foul,17,16
+11:54,Boston University,Jack Hemphill,Foul,17,16
+11:40,Lehigh,Lance Tejada,Jumper,19,16
+11:18,Boston University,Jonas Harper,Turnover,19,16
+11:02,Lehigh,Kyle Leufroy,Three Point Jumper,22,16
+10:43,Boston University,Jack Hemphill,Missed Jumper,22,16
+10:43,Lehigh,Lance Tejada,Defensive Rebound,22,16
+10:30,Lehigh,Lance Tejada,Jumper,24,16
+10:27,Boston University,None,None,24,16
+10:11,Boston University,Max Mahoney,Missed Layup,24,16
+10:11,Lehigh,Lance Tejada,Defensive Rebound,24,16
+9:57,Boston University,Jack Hemphill,Foul,24,16
+9:54,Lehigh,Kyle Leufroy,Missed Layup,24,16
+9:54,Boston University,Jonas Harper,Block,24,16
+9:53,Lehigh,Lehigh,Offensive Rebound,24,16
+9:45,Lehigh,Kyle Leufroy,Missed Three Point Jumper,24,16
+9:45,Boston University,Fletcher Tynen,Defensive Rebound,24,16
+9:30,Lehigh,Nic Lynch,Foul,24,16
+9:30,Boston University,Max Mahoney,Missed Free Throw,24,16
+9:30,Boston University,None,Team Rebound,24,16
+9:30,Boston University,Max Mahoney,Missed Free Throw,24,16
+9:30,Lehigh,Nic Lynch,Defensive Rebound,24,16
+9:04,Lehigh,Lance Tejada,Three Point Jumper,27,16
+8:44,Boston University,Jonas Harper,Turnover,27,16
+8:42,Lehigh,Nic Lynch,Steal,27,16
+8:18,Lehigh,Nic Lynch,Missed Layup,27,16
+8:18,Boston University,Tyler Scanlon,Defensive Rebound,27,16
+8:14,Boston University,Jonas Harper,Three Point Jumper,27,19
+7:59,Lehigh,Nic Lynch,Turnover,27,19
+7:58,Boston University,Tyler Scanlon,Steal,27,19
+7:38,Boston University,Garrett Pascoe,Three Point Jumper,27,22
+7:22,Lehigh,Jeameril Wilson,Jumper,29,22
+7:09,Boston University,Garrett Pascoe,Missed Three Point Jumper,29,22
+7:09,Lehigh,Jeameril Wilson,Defensive Rebound,29,22
+6:49,Lehigh,Jordan Cohen,Missed Layup,29,22
+6:49,Lehigh,Nic Lynch,Offensive Rebound,29,22
+6:43,Lehigh,Nic Lynch,Turnover,29,22
+6:42,Boston University,Jonas Harper,Steal,29,22
+6:35,Boston University,Jonas Harper,Missed Three Point Jumper,29,22
+6:35,Lehigh,Jeameril Wilson,Defensive Rebound,29,22
+6:11,Lehigh,Jordan Cohen,Three Point Jumper,32,22
+5:48,Boston University,Max Mahoney,Jumper,32,24
+5:36,Lehigh,Lance Tejada,Missed Three Point Jumper,32,24
+5:36,Boston University,Fletcher Tynen,Defensive Rebound,32,24
+5:12,Boston University,Max Mahoney,Missed Jumper,32,24
+5:12,Lehigh,Lance Tejada,Defensive Rebound,32,24
+4:51,Lehigh,Jordan Cohen,Three Point Jumper,35,24
+4:35,Lehigh,Jeameril Wilson,Foul,35,24
+4:35,Boston University,None,None,35,24
+4:25,Boston University,Alex Vilarino,Missed Layup,35,24
+4:25,Lehigh,Kyle Leufroy,Defensive Rebound,35,24
+4:18,Lehigh,Kyle Leufroy,Missed Jumper,35,24
+4:18,Boston University,Sukhmail Mathon,Defensive Rebound,35,24
+3:49,Boston University,Tyler Scanlon,Missed Layup,35,24
+3:49,Lehigh,Pat Andree,Block,35,24
+3:46,Lehigh,Kyle Leufroy,Defensive Rebound,35,24
+3:36,Lehigh,James Karnik,Layup,37,24
+3:22,Boston University,None,None,37,24
+3:19,Boston University,Tyler Scanlon,Missed Jumper,37,24
+3:19,Lehigh,Pat Andree,Defensive Rebound,37,24
+3:04,Lehigh,Kyle Leufroy,Missed Three Point Jumper,37,24
+3:04,Lehigh,James Karnik,Offensive Rebound,37,24
+2:57,Boston University,Fletcher Tynen,Foul,37,24
+2:57,Lehigh,Joe Foley,Free Throw,38,24
+2:57,Lehigh,Joe Foley,Free Throw,39,24
+2:48,Lehigh,Kyle Leufroy,Foul,39,24
+2:34,Boston University,Jonas Harper,Missed Three Point Jumper,39,24
+2:34,Lehigh,Pat Andree,Defensive Rebound,39,24
+2:23,Lehigh,Pat Andree,Turnover,39,24
+2:01,Boston University,Alex Vilarino,Three Point Jumper,39,27
+1:42,Boston University,Andrew Petcash,Foul,39,27
+1:38,Lehigh,Kyle Leufroy,Missed Jumper,39,27
+1:38,Boston University,Tyler Scanlon,Defensive Rebound,39,27
+1:31,Boston University,Max Mahoney,Layup,39,29
+1:31,Lehigh,James Karnik,Foul,39,29
+1:31,Boston University,Max Mahoney,Missed Free Throw,39,29
+1:31,Lehigh,James Karnik,Defensive Rebound,39,29
+1:07,Lehigh,Lance Tejada,Turnover,39,29
+0:54,Lehigh,Kyle Leufroy,Foul,39,29
+0:54,Boston University,Tyler Scanlon,Missed Free Throw,39,29
+0:54,Boston University,None,Team Rebound,39,29
+0:54,Boston University,Tyler Scanlon,Free Throw,39,30
+0:35,Lehigh,Pat Andree,Three Point Jumper,42,30
+0:32,Lehigh,None,None,42,30
+0:05,Boston University,Tyler Scanlon,Layup,42,32
+0:05,Lehigh,James Karnik,Foul,42,32
+0:05,Boston University,Tyler Scanlon,Missed Free Throw,42,32
+0:05,Lehigh,Pat Andree,Defensive Rebound,42,32
+0:00,Lehigh,Jordan Cohen,Three Point Jumper,45,32
+0:00,Boston University,None,None,45,32
+19:38,Lehigh,Jordan Cohen,Missed Three Point Jumper,45,32
+19:38,Boston University,Alex Vilarino,Defensive Rebound,45,32
+19:31,Boston University,Max Mahoney,Missed Jumper,45,32
+19:31,Lehigh,Jordan Cohen,Defensive Rebound,45,32
+19:22,Lehigh,James Karnik,Turnover,45,32
+19:20,Boston University,Tyler Scanlon,Steal,45,32
+19:13,Lehigh,Lance Tejada,Foul,45,32
+19:04,Boston University,Max Mahoney,Layup,45,34
+18:54,Boston University,Andrew Petcash,Foul,45,34
+18:54,Lehigh,Pat Andree,Missed Jumper,45,34
+18:54,Boston University,Max Mahoney,Defensive Rebound,45,34
+18:54,Boston University,Alex Vilarino,Missed Layup,45,34
+18:54,Boston University,Sukhmail Mathon,Offensive Rebound,45,34
+18:54,Boston University,Sukhmail Mathon,Layup,45,36
+18:43,Boston University,Tyler Scanlon,Foul,45,36
+18:16,Lehigh,Jordan Cohen,Missed Three Point Jumper,45,36
+18:16,Boston University,Fletcher Tynen,Defensive Rebound,45,36
+18:06,Boston University,Max Mahoney,Turnover,45,36
+18:03,Lehigh,Kyle Leufroy,Steal,45,36
+17:46,Boston University,Sukhmail Mathon,Foul,45,36
+17:46,Lehigh,Kyle Leufroy,Free Throw,46,36
+17:46,Lehigh,Kyle Leufroy,Free Throw,47,36
+17:23,Boston University,Max Mahoney,Layup,47,38
+17:15,Lehigh,Lance Tejada,Layup,49,38
+16:47,Boston University,Max Mahoney,Layup,49,40
+16:25,Lehigh,James Karnik,Foul,49,40
+16:25,Lehigh,James Karnik,Turnover,49,40
+16:14,Boston University,Tyler Scanlon,Missed Jumper,49,40
+16:14,Boston University,Sukhmail Mathon,Offensive Rebound,49,40
+16:08,Boston University,Alex Vilarino,Missed Three Point Jumper,49,40
+16:08,Boston University,Sukhmail Mathon,Offensive Rebound,49,40
+15:55,Boston University,Tyler Scanlon,Missed Jumper,49,40
+15:55,Lehigh,Nic Lynch,Block,49,40
+15:52,Lehigh,Pat Andree,Defensive Rebound,49,40
+15:46,Lehigh,Kyle Leufroy,Missed Three Point Jumper,49,40
+15:46,Boston University,Alex Vilarino,Defensive Rebound,49,40
+15:36,Boston University,Fletcher Tynen,Missed Three Point Jumper,49,40
+15:36,Lehigh,Pat Andree,Defensive Rebound,49,40
+15:23,Lehigh,Pat Andree,Turnover,49,40
+15:23,Boston University,None,None,49,40
+15:10,Boston University,Max Mahoney,Missed Layup,49,40
+15:10,Lehigh,Nic Lynch,Defensive Rebound,49,40
+15:02,Boston University,Garrett Pascoe,Foul,49,40
+15:02,Lehigh,Lance Tejada,Free Throw,50,40
+15:02,Lehigh,Lance Tejada,Free Throw,51,40
+14:49,Boston University,Jonas Harper,Layup,51,42
+14:30,Lehigh,Nic Lynch,Missed Layup,51,42
+14:30,Boston University,Jonas Harper,Defensive Rebound,51,42
+14:22,Boston University,Jonas Harper,Missed Three Point Jumper,51,42
+14:22,Lehigh,Kyle Leufroy,Defensive Rebound,51,42
+14:07,Boston University,Garrett Pascoe,Foul,51,42
+13:57,Lehigh,Lance Tejada,Three Point Jumper,54,42
+13:48,Boston University,Andrew Petcash,Missed Three Point Jumper,54,42
+13:48,Boston University,Max Mahoney,Offensive Rebound,54,42
+13:44,Lehigh,Nic Lynch,Foul,54,42
+13:32,Boston University,Garrett Pascoe,Missed Three Point Jumper,54,42
+13:32,Lehigh,Pat Andree,Defensive Rebound,54,42
+13:28,Lehigh,Kyle Leufroy,Turnover,54,42
+13:21,Boston University,Max Mahoney,Turnover,54,42
+13:19,Lehigh,Kyle Leufroy,Steal,54,42
+13:10,Lehigh,Lance Tejada,Missed Layup,54,42
+13:10,Boston University,Garrett Pascoe,Defensive Rebound,54,42
+12:49,Boston University,Jonas Harper,Missed Jumper,54,42
+12:49,Lehigh,Pat Andree,Defensive Rebound,54,42
+12:22,Lehigh,Lance Tejada,Turnover,54,42
+12:20,Boston University,Andrew Petcash,Steal,54,42
+12:19,Lehigh,Jeameril Wilson,Foul,54,42
+12:19,Boston University,Fletcher Tynen,Missed Free Throw,54,42
+12:19,Boston University,None,Team Rebound,54,42
+12:19,Boston University,Fletcher Tynen,Free Throw,54,43
+12:06,Lehigh,Lance Tejada,Three Point Jumper,57,43
+11:41,Boston University,Garrett Pascoe,Missed Three Point Jumper,57,43
+11:41,Lehigh,Jeameril Wilson,Defensive Rebound,57,43
+11:30,Boston University,Tyler Scanlon,Foul,57,43
+11:30,Boston University,None,None,57,43
+11:15,Lehigh,Joe Foley,Layup,59,43
+11:01,Boston University,Tyler Scanlon,Layup,59,45
+10:50,Lehigh,Ed Porter,Layup,61,45
+10:34,Boston University,Tyler Scanlon,Missed Three Point Jumper,61,45
+10:34,Lehigh,Jeameril Wilson,Defensive Rebound,61,45
+10:16,Lehigh,Jeameril Wilson,Missed Layup,61,45
+10:16,Boston University,Andrew Petcash,Defensive Rebound,61,45
+10:04,Lehigh,Kyle Leufroy,Foul,61,45
+9:59,Boston University,Tyler Scanlon,Turnover,61,45
+9:58,Lehigh,Kyle Leufroy,Steal,61,45
+9:56,Lehigh,Kyle Leufroy,Layup,63,45
+9:43,Lehigh,Jeameril Wilson,Foul,63,45
+9:35,Boston University,Andrew Petcash,Missed Three Point Jumper,63,45
+9:35,Boston University,Max Mahoney,Offensive Rebound,63,45
+9:31,Boston University,Max Mahoney,Missed Layup,63,45
+9:31,Boston University,Max Mahoney,Offensive Rebound,63,45
+9:31,Lehigh,Ed Porter,Foul,63,45
+9:31,Boston University,Max Mahoney,Free Throw,63,46
+9:31,Boston University,Max Mahoney,Missed Free Throw,63,46
+9:31,Lehigh,Pat Andree,Defensive Rebound,63,46
+9:21,Boston University,Max Mahoney,Foul,63,46
+9:21,Lehigh,Jeameril Wilson,Free Throw,64,46
+9:21,Lehigh,Jeameril Wilson,Free Throw,65,46
+8:59,Boston University,Alex Vilarino,Layup,65,48
+8:34,Lehigh,Jeameril Wilson,Turnover,65,48
+8:33,Boston University,Andrew Petcash,Steal,65,48
+8:27,Boston University,Alex Vilarino,Missed Layup,65,48
+8:27,Lehigh,Joe Foley,Block,65,48
+8:25,Boston University,Boston University,Offensive Rebound,65,48
+8:17,Boston University,Max Mahoney,Turnover,65,48
+8:16,Lehigh,Jordan Cohen,Steal,65,48
+8:13,Boston University,Alex Vilarino,Foul,65,48
+8:13,Boston University,None,None,65,48
+8:13,Lehigh,Jordan Cohen,Free Throw,66,48
+8:13,Lehigh,Jordan Cohen,Free Throw,67,48
+7:48,Boston University,Tyler Scanlon,Three Point Jumper,67,51
+7:18,Boston University,Max Mahoney,Foul,67,51
+7:18,Boston University,None,None,67,51
+7:18,Lehigh,James Karnik,Free Throw,68,51
+7:18,Lehigh,James Karnik,Free Throw,69,51
+7:04,Boston University,Fletcher Tynen,Layup,69,53
+7:04,Lehigh,Joe Foley,Foul,69,53
+7:04,Boston University,Fletcher Tynen,Free Throw,69,54
+6:50,Lehigh,James Karnik,Missed Dunk,69,54
+6:50,Boston University,Max Mahoney,Defensive Rebound,69,54
+6:42,Boston University,Tyler Scanlon,Missed Layup,69,54
+6:42,Lehigh,Jordan Cohen,Defensive Rebound,69,54
+6:13,Lehigh,Jeameril Wilson,Layup,71,54
+6:01,Boston University,Tyler Scanlon,Jumper,71,56
+5:36,Lehigh,Kyle Leufroy,Three Point Jumper,74,56
+5:02,Boston University,Tyler Scanlon,Three Point Jumper,74,59
+4:53,Lehigh,Jeameril Wilson,Turnover,74,59
+4:31,Boston University,Max Mahoney,Missed Layup,74,59
+4:31,Lehigh,Pat Andree,Defensive Rebound,74,59
+4:00,Lehigh,Pat Andree,Missed Three Point Jumper,74,59
+4:00,Boston University,Jonas Harper,Defensive Rebound,74,59
+3:49,Boston University,Garrett Pascoe,Foul,74,59
+3:49,Boston University,Garrett Pascoe,Turnover,74,59
+3:49,Boston University,None,None,74,59
+3:41,Lehigh,Kyle Leufroy,Turnover,74,59
+3:40,Boston University,Tyler Scanlon,Steal,74,59
+3:37,Boston University,Alex Vilarino,Layup,74,61
+3:19,Boston University,Max Mahoney,Foul,74,61
+3:19,Lehigh,Pat Andree,Missed Free Throw,74,61
+3:19,Lehigh,None,Team Rebound,74,61
+3:19,Lehigh,Pat Andree,Missed Free Throw,74,61
+3:19,Boston University,Tyler Scanlon,Defensive Rebound,74,61
+3:09,Boston University,Tyler Scanlon,Three Point Jumper,74,64
+3:06,Boston University,None,None,74,64
+3:05,Boston University,Max Mahoney,Foul,74,64
+3:05,Lehigh,Kyle Leufroy,Free Throw,75,64
+3:05,Lehigh,Kyle Leufroy,Free Throw,76,64
+2:51,Boston University,Jonas Harper,Foul,76,64
+2:51,Boston University,Jonas Harper,Turnover,76,64
+2:22,Lehigh,James Karnik,Turnover,76,64
+2:11,Boston University,Max Mahoney,Layup,76,66
+1:51,Lehigh,Kyle Leufroy,Turnover,76,66
+1:51,Boston University,Tyler Scanlon,Steal,76,66
+1:47,Boston University,Tyler Scanlon,Missed Three Point Jumper,76,66
+1:47,Boston University,Alex Vilarino,Offensive Rebound,76,66
+1:39,Boston University,Jonas Harper,Three Point Jumper,76,69
+1:30,Lehigh,Lance Tejada,Turnover,76,69
+1:28,Boston University,Tyler Scanlon,Steal,76,69
+1:27,Lehigh,Lance Tejada,Foul,76,69
+1:27,Boston University,None,None,76,69
+1:27,Boston University,Alex Vilarino,Free Throw,76,70
+1:27,Boston University,Alex Vilarino,Missed Free Throw,76,70
+1:27,Lehigh,Pat Andree,Defensive Rebound,76,70
+1:14,Lehigh,James Karnik,Dunk,78,70
+1:08,Boston University,Jonas Harper,Three Point Jumper,78,73
+1:06,Lehigh,None,None,78,73
+0:59,Boston University,Jonas Harper,Foul,78,73
+0:59,Lehigh,Jordan Cohen,Free Throw,79,73
+0:59,Lehigh,Jordan Cohen,Free Throw,80,73
+0:50,Boston University,Max Mahoney,Layup,80,75
+0:46,Lehigh,Joe Foley,Turnover,80,75
+0:44,Boston University,Alex Vilarino,Steal,80,75
+0:44,Lehigh,Jordan Cohen,Foul,80,75
+0:44,Boston University,Alex Vilarino,Free Throw,80,76
+0:44,Boston University,Alex Vilarino,Free Throw,80,77
+0:35,Boston University,Andrew Petcash,Foul,80,77
+0:35,Lehigh,Joe Foley,Free Throw,81,77
+0:35,Lehigh,Joe Foley,Missed Free Throw,81,77
+0:35,Boston University,Max Mahoney,Defensive Rebound,81,77
+0:25,Boston University,Alex Vilarino,Missed Layup,81,77
+0:25,Boston University,Max Mahoney,Offensive Rebound,81,77
+0:25,Boston University,None,None,81,79
+0:25,Boston University,None,None,81,79
+0:21,Boston University,Alex Vilarino,Foul,81,79
+0:21,Lehigh,Lance Tejada,Missed Free Throw,81,79
+0:21,Lehigh,None,Team Rebound,81,79
+0:21,Lehigh,Lance Tejada,Missed Free Throw,81,79
+0:21,Boston University,Max Mahoney,Defensive Rebound,81,79
+0:11,Boston University,Andrew Petcash,Missed Three Point Jumper,81,79
+0:11,Lehigh,James Karnik,Defensive Rebound,81,79
+0:08,Boston University,Max Mahoney,Foul,81,79
+0:08,Lehigh,James Karnik,Free Throw,82,79
+0:08,Lehigh,James Karnik,Free Throw,83,79
+0:03,Boston University,Alex Vilarino,Turnover,83,79
+0:03,Lehigh,None,None,83,79
+0:02,Boston University,Garrett Pascoe,Foul,83,79
+0:02,Lehigh,Kyle Leufroy,Missed Free Throw,83,79
+0:02,Lehigh,None,Team Rebound,83,79
+0:02,Lehigh,Kyle Leufroy,Free Throw,84,79
+0:00,Boston University,None,None,84,79

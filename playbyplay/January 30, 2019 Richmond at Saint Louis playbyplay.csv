@@ -1,0 +1,329 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:38,Saint Louis,D.J. Foreman,Dunk,0,2
+19:19,Richmond,Nathan Cayo,Jumper,2,2
+18:33,Richmond,Jacob Gilyard,Layup,4,4
+18:08,Saint Louis,Javon Bess,Jumper,4,6
+17:43,Richmond,Grant Golden,Missed Jumper,4,6
+17:40,Saint Louis,Jordan Goodwin,Defensive Rebound,4,6
+17:35,Saint Louis,Jordan Goodwin,Layup,4,8
+17:20,Richmond,Jake Wojcik,Missed Three Point Jumper,4,8
+17:18,Saint Louis,Saint Louis,Defensive Rebound,4,8
+17:02,Saint Louis,Tramaine Isabell Jr.,Missed Three Point Jumper,4,8
+16:58,Richmond,Nathan Cayo,Defensive Rebound,4,8
+16:44,Saint Louis,D.J. Foreman,Foul,4,8
+16:44,Richmond,Grant Golden,Free Throw,5,8
+16:44,Richmond,Grant Golden,Free Throw,6,8
+16:23,Saint Louis,Jordan Goodwin,Missed Three Point Jumper,6,8
+16:20,Richmond,Jacob Gilyard,Defensive Rebound,6,8
+16:10,Richmond,Jacob Gilyard,Turnover,6,8
+16:10,Saint Louis,Jordan Goodwin,Steal,6,8
+15:58,Saint Louis,Javon Bess,Missed Three Point Jumper,6,8
+15:54,Richmond,Grant Golden,Defensive Rebound,6,8
+15:44,Richmond,Jake Wojcik,Three Point Jumper,9,8
+15:31,Saint Louis,Jordan Goodwin,Missed Three Point Jumper,9,8
+15:29,Richmond,Richmond,Defensive Rebound,9,8
+15:29,Saint Louis,None,None,9,8
+15:11,Richmond,Nathan Cayo,Missed Jumper,9,8
+15:08,Saint Louis,Hasahn French,Defensive Rebound,9,8
+14:43,Saint Louis,D.J. Foreman,Jumper,9,10
+14:27,Richmond,Grant Golden,Layup,11,10
+14:03,Saint Louis,Fred Thatch Jr.,Layup,11,12
+13:45,Richmond,Nathan Cayo,Missed Jumper,11,12
+13:45,Saint Louis,Hasahn French,Block,11,12
+13:43,Richmond,Nathan Cayo,Offensive Rebound,11,12
+13:37,Saint Louis,Hasahn French,Foul,11,12
+13:37,Richmond,Andre Gustavson,Free Throw,12,12
+13:37,Richmond,Andre Gustavson,Free Throw,13,12
+13:21,Saint Louis,Javon Bess,Missed Jumper,13,12
+13:18,Saint Louis,Fred Thatch Jr.,Offensive Rebound,13,12
+13:16,Saint Louis,Fred Thatch Jr.,Turnover,13,12
+13:16,Richmond,Jacob Gilyard,Steal,13,12
+13:08,Richmond,Grant Golden,Missed Layup,13,12
+13:06,Saint Louis,D.J. Foreman,Defensive Rebound,13,12
+12:53,Saint Louis,D.J. Foreman,Missed Layup,13,12
+12:52,Richmond,Grant Golden,Defensive Rebound,13,12
+12:51,Saint Louis,D.J. Foreman,Foul,13,12
+12:35,Richmond,Grant Golden,Jumper,15,12
+12:10,Richmond,Jacob Gilyard,Defensive Rebound,15,12
+12:00,Saint Louis,Javon Bess,Foul,15,12
+12:00,Saint Louis,None,None,15,12
+12:00,Richmond,Jacob Gilyard,Free Throw,16,12
+12:00,Richmond,Jacob Gilyard,Free Throw,17,12
+11:43,Saint Louis,Javon Bess,Three Point Jumper,17,15
+11:18,Richmond,Grant Golden,Jumper,19,15
+10:59,Saint Louis,Hasahn French,Missed Layup,19,15
+10:57,Richmond,Julius Johnson,Defensive Rebound,19,15
+10:38,Richmond,Grant Golden,Layup,21,15
+10:27,Saint Louis,Hasahn French,Turnover,21,15
+10:27,Richmond,Julius Johnson,Steal,21,15
+10:14,Richmond,Jacob Gilyard,Turnover,21,15
+10:14,Saint Louis,Javon Bess,Steal,21,15
+9:55,Saint Louis,Javon Bess,Missed Jumper,21,15
+9:52,Richmond,Julius Johnson,Defensive Rebound,21,15
+9:43,Saint Louis,Fred Thatch Jr.,Foul,21,15
+9:42,Richmond,Noah Yates,Layup,23,15
+9:37,Saint Louis,None,None,23,15
+9:20,Saint Louis,Hasahn French,Layup,23,17
+9:01,Richmond,Grant Golden,Jumper,25,17
+8:40,Saint Louis,Javon Bess,Missed Layup,25,17
+8:38,Saint Louis,Hasahn French,Offensive Rebound,25,17
+8:38,Saint Louis,Hasahn French,Missed Layup,25,17
+8:37,Saint Louis,Hasahn French,Offensive Rebound,25,17
+8:36,Saint Louis,Hasahn French,Layup,25,19
+8:13,Richmond,Grant Golden,Three Point Jumper,28,19
+7:53,Saint Louis,Tramaine Isabell Jr.,Turnover,28,19
+7:53,Saint Louis,None,None,28,19
+7:43,Richmond,Andre Gustavson,Missed Three Point Jumper,28,19
+7:40,Saint Louis,D.J. Foreman,Defensive Rebound,28,19
+7:27,Saint Louis,Javon Bess,Three Point Jumper,28,22
+6:58,Richmond,Julius Johnson,Layup,30,22
+6:36,Saint Louis,Javon Bess,Three Point Jumper,30,25
+6:21,Richmond,Julius Johnson,Missed Three Point Jumper,30,25
+6:18,Richmond,Jacob Gilyard,Offensive Rebound,30,25
+6:16,Richmond,Jacob Gilyard,Turnover,30,25
+6:04,Saint Louis,Hasahn French,Turnover,30,25
+6:04,Richmond,Nathan Cayo,Steal,30,25
+5:52,Richmond,Nathan Cayo,Missed Jumper,30,25
+5:50,Richmond,Grant Golden,Offensive Rebound,30,25
+5:49,Richmond,Grant Golden,Missed Layup,30,25
+5:47,Saint Louis,D.J. Foreman,Defensive Rebound,30,25
+5:32,Saint Louis,Hasahn French,Jumper,30,27
+5:16,Richmond,Jacob Gilyard,Three Point Jumper,33,27
+5:02,Saint Louis,Jordan Goodwin,Layup,33,29
+4:44,Richmond,Jacob Gilyard,Jumper,35,29
+4:26,Saint Louis,Tramaine Isabell Jr.,Layup,35,31
+4:16,Richmond,Nathan Cayo,Layup,37,31
+4:15,Saint Louis,D.J. Foreman,Foul,37,31
+4:15,Richmond,Nathan Cayo,Free Throw,38,31
+4:00,Richmond,Nathan Cayo,Foul,38,31
+4:00,Saint Louis,None,None,38,31
+4:00,Saint Louis,Javon Bess,Missed Free Throw,38,31
+4:00,Saint Louis,None,Team Rebound,38,31
+4:00,Saint Louis,Javon Bess,Free Throw,38,32
+3:41,Richmond,Jacob Gilyard,Missed Three Point Jumper,38,32
+3:38,Saint Louis,Tramaine Isabell Jr.,Defensive Rebound,38,32
+3:28,Saint Louis,Tramaine Isabell Jr.,Foul,38,32
+3:28,Saint Louis,Tramaine Isabell Jr.,Turnover,38,32
+3:12,Richmond,Grant Golden,Layup,40,32
+2:55,Saint Louis,Jordan Goodwin,Missed Three Point Jumper,40,32
+2:53,Richmond,Grant Golden,Defensive Rebound,40,32
+2:41,Saint Louis,Hasahn French,Foul,40,32
+2:41,Richmond,Grant Golden,Free Throw,41,32
+2:41,Richmond,Grant Golden,Free Throw,42,32
+2:26,Saint Louis,Javon Bess,Three Point Jumper,42,35
+2:06,Richmond,Julius Johnson,Missed Layup,42,35
+2:06,Saint Louis,KC Hankton,Block,42,35
+2:04,Richmond,Nathan Cayo,Offensive Rebound,42,35
+2:03,Richmond,Nathan Cayo,Layup,44,35
+1:36,Saint Louis,Tramaine Isabell Jr.,Turnover,44,35
+1:13,Richmond,Jacob Gilyard,Turnover,44,35
+1:13,Saint Louis,Fred Thatch Jr.,Steal,44,35
+1:07,Saint Louis,Dion Wiley,Three Point Jumper,44,38
+0:50,Richmond,Grant Golden,Missed Jumper,44,38
+0:48,Saint Louis,KC Hankton,Defensive Rebound,44,38
+0:38,Saint Louis,KC Hankton,Layup,44,40
+0:26,Richmond,None,None,44,40
+0:02,Richmond,Jacob Gilyard,Three Point Jumper,47,40
+0:00,Saint Louis,None,None,44,40
+19:47,Richmond,Grant Golden,Block,47,40
+19:44,Saint Louis,D.J. Foreman,Offensive Rebound,47,40
+19:43,Saint Louis,D.J. Foreman,Free Throw,47,42
+19:43,Richmond,Jake Wojcik,Foul,47,40
+19:43,Saint Louis,D.J. Foreman,Free Throw,47,41
+19:28,Richmond,Jake Wojcik,Missed Three Point Jumper,47,42
+19:26,Saint Louis,Saint Louis,Defensive Rebound,47,42
+19:08,Saint Louis,Javon Bess,Three Point Jumper,47,45
+18:41,Richmond,Jacob Gilyard,Missed Three Point Jumper,47,45
+18:38,Saint Louis,D.J. Foreman,Defensive Rebound,47,45
+18:37,Richmond,Andre Gustavson,Foul,47,45
+18:27,Saint Louis,Jordan Goodwin,Missed Jumper,47,45
+18:27,Richmond,Nathan Cayo,Block,47,45
+18:27,Richmond,Nathan Cayo,Defensive Rebound,47,45
+18:11,Richmond,Grant Golden,Missed Layup,47,45
+18:11,Saint Louis,Hasahn French,Block,47,45
+18:09,Saint Louis,Hasahn French,Defensive Rebound,47,45
+17:53,Saint Louis,Javon Bess,Missed Jumper,47,45
+17:53,Richmond,Nathan Cayo,Block,47,45
+17:51,Saint Louis,Jordan Goodwin,Offensive Rebound,47,45
+17:48,Saint Louis,Hasahn French,Layup,47,47
+17:26,Richmond,Nathan Cayo,Layup,49,47
+17:05,Saint Louis,D.J. Foreman,Layup,49,49
+16:45,Richmond,Grant Golden,Turnover,49,49
+16:32,Saint Louis,Tramaine Isabell Jr.,Missed Three Point Jumper,49,49
+16:31,Saint Louis,Hasahn French,Offensive Rebound,49,49
+16:31,Richmond,Nathan Cayo,Foul,49,49
+16:26,Saint Louis,Javon Bess,Missed Three Point Jumper,49,49
+16:20,Richmond,Jacob Gilyard,Defensive Rebound,49,49
+16:10,Richmond,Nathan Cayo,Turnover,49,49
+16:10,Saint Louis,Tramaine Isabell Jr.,Steal,49,49
+16:04,Saint Louis,Tramaine Isabell Jr.,Missed Layup,49,49
+16:04,Richmond,Andre Gustavson,Block,49,49
+16:02,Saint Louis,Javon Bess,Offensive Rebound,49,49
+15:50,Saint Louis,Hasahn French,Foul,49,49
+15:50,Saint Louis,Hasahn French,Turnover,49,49
+15:50,Saint Louis,None,None,49,49
+15:25,Richmond,Nathan Cayo,Layup,51,49
+15:03,Richmond,Jacob Gilyard,Foul,51,49
+15:03,Saint Louis,Jordan Goodwin,Free Throw,51,50
+15:03,Saint Louis,Jordan Goodwin,Free Throw,51,51
+14:45,Richmond,Nathan Cayo,Turnover,51,51
+14:45,Saint Louis,KC Hankton,Steal,51,51
+14:19,Saint Louis,Javon Bess,Missed Jumper,51,51
+14:16,Saint Louis,Tramaine Isabell Jr.,Offensive Rebound,51,51
+14:07,Saint Louis,Javon Bess,Missed Three Point Jumper,51,51
+14:03,Richmond,Grant Golden,Defensive Rebound,51,51
+13:44,Richmond,Grant Golden,Missed Jumper,51,51
+13:42,Richmond,Jacob Gilyard,Offensive Rebound,51,51
+13:40,Richmond,Jacob Gilyard,Three Point Jumper,54,51
+13:21,Saint Louis,Jordan Goodwin,Offensive Rebound,54,51
+13:20,Saint Louis,Jordan Goodwin,Missed Layup,54,51
+13:19,Saint Louis,Hasahn French,Offensive Rebound,54,51
+13:06,Saint Louis,Javon Bess,Missed Layup,54,51
+13:04,Saint Louis,Hasahn French,Offensive Rebound,54,51
+13:04,Saint Louis,Hasahn French,Missed Layup,54,51
+13:02,Saint Louis,Javon Bess,Offensive Rebound,54,51
+13:02,Saint Louis,Javon Bess,Missed Layup,54,51
+13:00,Saint Louis,Hasahn French,Offensive Rebound,54,51
+13:00,Saint Louis,Hasahn French,Missed Layup,54,51
+12:59,Richmond,Jake Wojcik,Defensive Rebound,54,51
+12:34,Richmond,Jake Wojcik,Layup,56,51
+12:23,Saint Louis,KC Hankton,Three Point Jumper,56,54
+12:23,Richmond,Grant Golden,Foul,56,54
+12:23,Saint Louis,KC Hankton,Missed Free Throw,56,54
+12:23,Richmond,Grant Golden,Defensive Rebound,56,54
+12:00,Saint Louis,KC Hankton,Foul,56,54
+12:00,Saint Louis,None,None,56,54
+11:58,Richmond,Jake Wojcik,Three Point Jumper,59,54
+11:30,Saint Louis,Hasahn French,Turnover,59,54
+11:30,Richmond,Jacob Gilyard,Steal,59,54
+11:26,Richmond,Jacob Gilyard,Layup,61,54
+11:05,Saint Louis,KC Hankton,Missed Layup,61,54
+11:03,Saint Louis,Jordan Goodwin,Offensive Rebound,61,54
+11:03,Saint Louis,Jordan Goodwin,Missed Layup,61,54
+11:00,Richmond,Noah Yates,Defensive Rebound,61,54
+10:51,Richmond,Grant Golden,Turnover,61,54
+10:51,Saint Louis,KC Hankton,Steal,61,54
+10:47,Saint Louis,Javon Bess,Dunk,61,56
+10:16,Richmond,Jake Wojcik,Missed Jumper,61,56
+10:14,Saint Louis,None,Team Rebound,61,56
+9:50,Saint Louis,Javon Bess,Missed Jumper,61,56
+9:48,Saint Louis,KC Hankton,Offensive Rebound,61,56
+9:47,Saint Louis,KC Hankton,Turnover,61,56
+9:32,Richmond,Noah Yates,Missed Three Point Jumper,61,56
+9:30,Saint Louis,Hasahn French,Defensive Rebound,61,56
+9:13,Saint Louis,KC Hankton,Missed Three Point Jumper,61,56
+9:09,Saint Louis,KC Hankton,Offensive Rebound,61,56
+9:08,Saint Louis,KC Hankton,Jumper,61,58
+8:46,Richmond,Jacob Gilyard,Turnover,61,58
+8:46,Saint Louis,Jordan Goodwin,Steal,61,58
+8:43,Saint Louis,Javon Bess,Layup,61,60
+8:42,Richmond,None,None,61,60
+8:42,Saint Louis,None,None,61,60
+8:31,Saint Louis,Hasahn French,Foul,61,60
+8:31,Richmond,Grant Golden,Free Throw,62,60
+8:31,Richmond,Grant Golden,Free Throw,63,60
+8:13,Saint Louis,D.J. Foreman,Turnover,63,60
+8:13,Richmond,Jacob Gilyard,Steal,63,60
+7:58,Richmond,Grant Golden,Jumper,65,60
+7:35,Richmond,Jake Wojcik,Foul,65,60
+7:35,Saint Louis,None,None,65,60
+7:35,Saint Louis,Javon Bess,Free Throw,65,61
+7:35,Saint Louis,Javon Bess,Free Throw,65,62
+7:35,Saint Louis,Javon Bess,Free Throw,65,63
+7:20,Richmond,Noah Yates,Turnover,65,63
+7:20,Saint Louis,Javon Bess,Steal,65,63
+7:16,Saint Louis,Jordan Goodwin,Missed Dunk,65,63
+7:16,Saint Louis,D.J. Foreman,Offensive Rebound,65,63
+7:16,Richmond,Noah Yates,Block,65,63
+7:11,Saint Louis,Dion Wiley,Missed Three Point Jumper,65,63
+7:08,Saint Louis,KC Hankton,Offensive Rebound,65,63
+7:07,Saint Louis,KC Hankton,Layup,65,65
+6:48,Richmond,Nathan Cayo,Layup,67,65
+6:48,Saint Louis,Jordan Goodwin,Foul,67,65
+6:48,Richmond,Nathan Cayo,Free Throw,68,65
+6:33,Saint Louis,Dion Wiley,Missed Three Point Jumper,68,65
+6:31,Saint Louis,D.J. Foreman,Offensive Rebound,68,65
+6:28,Saint Louis,D.J. Foreman,Missed Layup,68,65
+6:26,Saint Louis,KC Hankton,Layup,68,67
+6:23,Saint Louis,KC Hankton,Offensive Rebound,68,67
+6:02,Richmond,Andre Gustavson,Layup,70,67
+5:38,Saint Louis,Jordan Goodwin,Turnover,70,67
+5:38,Richmond,Nathan Cayo,Steal,70,67
+5:34,Richmond,Nathan Cayo,Layup,72,67
+5:34,Saint Louis,Dion Wiley,Foul,72,67
+5:34,Saint Louis,None,None,72,67
+5:34,Richmond,Nathan Cayo,Free Throw,73,67
+5:26,Richmond,Andre Gustavson,Foul,73,67
+5:26,Saint Louis,Hasahn French,Missed Free Throw,73,67
+5:24,Richmond,Jake Wojcik,Defensive Rebound,73,67
+5:07,Richmond,Jacob Gilyard,Three Point Jumper,76,67
+4:49,Saint Louis,Dion Wiley,Missed Three Point Jumper,76,67
+4:46,Richmond,Andre Gustavson,Defensive Rebound,76,67
+4:23,Richmond,Jacob Gilyard,Missed Three Point Jumper,76,67
+4:21,Saint Louis,Hasahn French,Defensive Rebound,76,67
+4:16,Saint Louis,Javon Bess,Missed Jumper,76,67
+4:14,Richmond,Grant Golden,Defensive Rebound,76,67
+3:50,Richmond,Andre Gustavson,Missed Three Point Jumper,76,67
+3:47,Saint Louis,Javon Bess,Defensive Rebound,76,67
+3:38,Saint Louis,Hasahn French,Missed Layup,76,67
+3:38,Richmond,Grant Golden,Block,76,67
+3:36,Richmond,Andre Gustavson,Defensive Rebound,76,67
+3:06,Richmond,Jacob Gilyard,Missed Layup,76,67
+3:04,Saint Louis,KC Hankton,Defensive Rebound,76,67
+3:01,Saint Louis,Jordan Goodwin,Turnover,76,67
+3:01,Richmond,Andre Gustavson,Steal,76,67
+2:17,Richmond,Jacob Gilyard,Foul,78,67
+2:17,Saint Louis,None,None,78,67
+2:17,Saint Louis,Javon Bess,Free Throw,78,68
+2:17,Saint Louis,Javon Bess,Free Throw,78,69
+2:13,Richmond,Grant Golden,Turnover,78,69
+2:13,Saint Louis,Jordan Goodwin,Steal,78,69
+2:10,Saint Louis,Jordan Goodwin,Layup,78,71
+2:02,Richmond,Jacob Gilyard,Turnover,78,71
+2:02,Saint Louis,Jordan Goodwin,Steal,78,71
+2:00,Richmond,Andre Gustavson,Foul,78,71
+2:00,Saint Louis,Jordan Goodwin,Missed Free Throw,78,71
+2:00,Saint Louis,None,Team Rebound,78,71
+2:00,Saint Louis,Jordan Goodwin,Free Throw,78,72
+1:30,Richmond,Nathan Cayo,Missed Layup,78,72
+1:30,Saint Louis,Hasahn French,Block,78,72
+1:27,Saint Louis,Hasahn French,Defensive Rebound,78,72
+1:25,Saint Louis,Javon Bess,Missed Three Point Jumper,78,72
+1:23,Saint Louis,Hasahn French,Offensive Rebound,78,72
+1:22,Saint Louis,Hasahn French,Layup,78,74
+1:22,Saint Louis,None,None,78,74
+1:08,Richmond,Nathan Cayo,Layup,80,74
+0:56,Richmond,Grant Golden,Foul,80,74
+0:56,Saint Louis,Hasahn French,Missed Free Throw,80,74
+0:56,Saint Louis,None,Team Rebound,80,74
+0:56,Saint Louis,Hasahn French,Free Throw,80,75
+0:54,Saint Louis,Fred Thatch Jr.,Foul,80,75
+0:50,Richmond,Jacob Gilyard,Turnover,80,75
+0:41,Saint Louis,Javon Bess,Jumper,80,77
+0:41,Saint Louis,None,None,80,77
+0:38,Saint Louis,Javon Bess,Foul,80,77
+0:38,Richmond,Jacob Gilyard,Free Throw,81,77
+0:38,Richmond,Jacob Gilyard,Free Throw,82,77
+0:28,Saint Louis,Javon Bess,Jumper,82,79
+0:21,Richmond,Jake Wojcik,Turnover,82,79
+0:21,Saint Louis,Hasahn French,Steal,82,79
+0:18,Saint Louis,Fred Thatch Jr.,Layup,82,81
+0:18,Richmond,None,None,82,81
+0:15,Saint Louis,Javon Bess,Foul,82,81
+0:15,Richmond,Jacob Gilyard,Missed Free Throw,82,81
+0:15,Saint Louis,Javon Bess,Defensive Rebound,82,81
+0:06,Saint Louis,Javon Bess,Missed Jumper,82,81
+0:06,Richmond,Jake Wojcik,Block,82,81
+0:05,Richmond,Jacob Gilyard,Defensive Rebound,82,81
+0:04,Saint Louis,Tramaine Isabell Jr.,Foul,82,81
+0:04,Richmond,Jacob Gilyard,Free Throw,83,81
+0:04,Richmond,Jacob Gilyard,Free Throw,84,81
+0:03,Saint Louis,Javon Bess,Missed Three Point Jumper,84,81
+0:01,Richmond,Richmond,Defensive Rebound,84,81
+0:01,Richmond,None,None,84,81
+0:01,Richmond,Nathan Cayo,Turnover,84,81
+0:01,Saint Louis,Javon Bess,Steal,84,81
+0:00,Saint Louis,Javon Bess,Missed Three Point Jumper,84,81
+0:00,Saint Louis,None,Team Rebound,84,81
+0:00,Saint Louis,None,None,84,81
+0:00,Saint Louis,None,None,84,81

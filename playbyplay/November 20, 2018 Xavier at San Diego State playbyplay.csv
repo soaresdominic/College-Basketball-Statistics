@@ -1,0 +1,308 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Xavier,None,None,0,0
+19:45,Xavier,Tyrique Jones,Dunk,2,0
+19:22,San Diego State,Jalen McDaniels,Turnover,2,0
+19:22,Xavier,Tyrique Jones,Steal,2,0
+19:18,Xavier,Quentin Goodin,Dunk,4,0
+18:51,Xavier,Naji Marshall,Foul,4,0
+18:43,San Diego State,Jordan Schakel,Layup,4,2
+18:26,Xavier,Kyle Castlin,Turnover,4,2
+18:26,San Diego State,Devin Watson,Steal,4,2
+18:18,San Diego State,Jordan Schakel,Turnover,4,2
+18:18,Xavier,Paul Scruggs,Steal,4,2
+18:01,Xavier,Paul Scruggs,Layup,6,2
+18:01,San Diego State,Matt Mitchell,Foul,6,2
+18:01,Xavier,Paul Scruggs,Free Throw,7,2
+17:52,San Diego State,Devin Watson,Missed Three Point Jumper,7,2
+17:52,Xavier,Naji Marshall,Defensive Rebound,7,2
+17:37,Xavier,Zach Hankins,Missed Layup,7,2
+17:37,Xavier,Zach Hankins,Offensive Rebound,7,2
+17:30,Xavier,Zach Hankins,Layup,9,2
+17:22,San Diego State,Jalen McDaniels,Jumper,9,4
+16:49,Xavier,Xavier ,Turnover,9,4
+16:30,San Diego State,Matt Mitchell,Missed Three Point Jumper,9,4
+16:30,Xavier,Quentin Goodin,Defensive Rebound,9,4
+16:17,Xavier,Naji Marshall,Jumper,11,4
+15:49,San Diego State,Matt Mitchell,Layup,11,6
+15:33,Xavier,Paul Scruggs,Missed Layup,11,6
+15:33,Xavier,Zach Hankins,Offensive Rebound,11,6
+15:30,Xavier,Zach Hankins,Layup,13,6
+15:18,San Diego State,Matt Mitchell,Foul,13,6
+15:18,San Diego State,Matt Mitchell,Turnover,13,6
+15:18,San Diego State,None,None,13,6
+15:02,San Diego State,Jordan Schakel,Foul,13,6
+14:50,Xavier,Elias Harden,Three Point Jumper,16,6
+14:29,San Diego State,Jalen McDaniels,Jumper,16,8
+14:08,Xavier,Elias Harden,Three Point Jumper,19,8
+13:41,San Diego State,Jalen McDaniels,Three Point Jumper,19,11
+13:15,Xavier,Elias Harden,Missed Jumper,19,11
+13:15,Xavier,Xavier,Offensive Rebound,19,11
+13:09,San Diego State,Nolan Narain,Foul,19,11
+13:08,Xavier,Elias Harden,Missed Three Point Jumper,19,11
+13:08,San Diego State,Nolan Narain,Defensive Rebound,19,11
+13:05,Xavier,Tyrique Jones,Foul,19,11
+12:55,San Diego State,Jeremy Hemsley,Missed Jumper,19,11
+12:55,Xavier,Naji Marshall,Defensive Rebound,19,11
+12:47,Xavier,Naji Marshall,Three Point Jumper,22,11
+12:29,San Diego State,Devin Watson,Missed Three Point Jumper,22,11
+12:29,Xavier,Tyrique Jones,Defensive Rebound,22,11
+11:59,Xavier,Elias Harden,Three Point Jumper,25,11
+11:41,San Diego State,Jeremy Hemsley,Turnover,25,11
+11:41,Xavier,Naji Marshall,Steal,25,11
+11:36,Xavier,Naji Marshall,Missed Jumper,25,11
+11:36,San Diego State,Jalen McDaniels,Block,25,11
+11:36,Xavier,Xavier,Offensive Rebound,25,11
+11:32,San Diego State,None,None,25,11
+11:16,Xavier,Naji Marshall,Missed Three Point Jumper,25,11
+11:16,San Diego State,Jordan Schakel,Defensive Rebound,25,11
+11:09,San Diego State,Devin Watson,Turnover,25,11
+10:41,Xavier,Tyrique Jones,Jumper,27,11
+10:28,Xavier,Kyle Castlin,Foul,27,11
+10:21,San Diego State,Devin Watson,Jumper,27,13
+9:57,Xavier,Paul Scruggs,Jumper,29,13
+9:42,San Diego State,Jalen McDaniels,Turnover,29,13
+9:42,San Diego State,None,None,29,13
+9:23,Xavier,Kyle Castlin,Three Point Jumper,32,13
+9:05,San Diego State,Jordan Schakel,Layup,32,15
+8:38,Xavier,Kyle Castlin,Missed Three Point Jumper,32,15
+8:38,San Diego State,Nathan Mensah,Defensive Rebound,32,15
+8:25,San Diego State,Jordan Schakel,Missed Three Point Jumper,32,15
+8:25,San Diego State,Nathan Mensah,Offensive Rebound,32,15
+8:19,San Diego State,Nathan Mensah,Turnover,32,15
+8:19,Xavier,Kyle Castlin,Steal,32,15
+8:15,Xavier,Kyle Castlin,Foul,32,15
+8:15,Xavier,Kyle Castlin,Turnover,32,15
+8:04,San Diego State,Adam Seiko,Missed Three Point Jumper,32,15
+8:04,San Diego State,Devin Watson,Offensive Rebound,32,15
+7:57,San Diego State,Devin Watson,Missed Jumper,32,15
+7:57,San Diego State,Jalen McDaniels,Offensive Rebound,32,15
+7:54,Xavier,Quentin Goodin,Foul,32,15
+7:54,San Diego State,None,None,32,15
+7:54,San Diego State,Jalen McDaniels,Missed Free Throw,32,15
+7:54,San Diego State,None,Team Rebound,32,15
+7:54,San Diego State,Jalen McDaniels,Free Throw,32,16
+7:26,Xavier,Paul Scruggs,Missed Jumper,32,16
+7:26,Xavier,Xavier,Offensive Rebound,32,16
+7:22,Xavier,Xavier ,Turnover,32,16
+7:12,San Diego State,Devin Watson,Missed Jumper,32,16
+7:12,San Diego State,Nathan Mensah,Offensive Rebound,32,16
+7:12,San Diego State,Nathan Mensah,Layup,32,18
+6:48,Xavier,Ryan Welage,Turnover,32,18
+6:25,San Diego State,Jeremy Hemsley,Jumper,32,20
+6:08,Xavier,Paul Scruggs,Layup,34,20
+5:52,San Diego State,Jalen McDaniels,Missed Three Point Jumper,34,20
+5:52,Xavier,Paul Scruggs,Defensive Rebound,34,20
+5:40,Xavier,Quentin Goodin,Missed Three Point Jumper,34,20
+5:40,San Diego State,Jalen McDaniels,Defensive Rebound,34,20
+5:23,San Diego State,Devin Watson,Three Point Jumper,34,23
+5:08,San Diego State,Nathan Mensah,Foul,34,23
+5:08,Xavier,Quentin Goodin,Free Throw,35,23
+5:08,Xavier,Quentin Goodin,Free Throw,36,23
+4:51,San Diego State,Jordan Schakel,Missed Three Point Jumper,36,23
+4:51,San Diego State,Adam Seiko,Offensive Rebound,36,23
+4:32,San Diego State,Devin Watson,Three Point Jumper,36,26
+4:00,Xavier,Tyrique Jones,Foul,36,26
+4:00,Xavier,Tyrique Jones,Turnover,36,26
+4:00,San Diego State,None,None,36,26
+3:49,Xavier,Naji Marshall,Foul,36,26
+3:49,San Diego State,Jalen McDaniels,Free Throw,36,27
+3:49,San Diego State,Jalen McDaniels,Missed Free Throw,36,27
+3:49,Xavier,Paul Scruggs,Defensive Rebound,36,27
+3:29,Xavier,Elias Harden,Missed Three Point Jumper,36,27
+3:29,Xavier,Paul Scruggs,Offensive Rebound,36,27
+3:00,Xavier,Quentin Goodin,Missed Jumper,36,27
+3:00,San Diego State,Nathan Mensah,Block,36,27
+3:00,San Diego State,Jordan Schakel,Defensive Rebound,36,27
+2:54,San Diego State,Devin Watson,Missed Three Point Jumper,36,27
+2:54,San Diego State,Jalen McDaniels,Offensive Rebound,36,27
+2:49,San Diego State,Jalen McDaniels,Layup,36,29
+2:27,Xavier,Paul Scruggs,Missed Jumper,36,29
+2:27,Xavier,Zach Hankins,Offensive Rebound,36,29
+2:23,Xavier,Zach Hankins,Missed Jumper,36,29
+2:23,San Diego State,Jalen McDaniels,Block,36,29
+2:23,San Diego State,Jordan Schakel,Defensive Rebound,36,29
+2:03,San Diego State,Jalen McDaniels,Three Point Jumper,36,32
+1:58,Xavier,None,None,36,32
+1:37,Xavier,Zach Hankins,Layup,38,32
+1:21,Xavier,Elias Harden,Foul,38,32
+1:21,San Diego State,Jalen McDaniels,Free Throw,38,33
+1:21,San Diego State,Jalen McDaniels,Free Throw,38,34
+1:03,Xavier,Zach Hankins,Dunk,40,34
+0:44,San Diego State,Jordan Schakel,Three Point Jumper,40,37
+0:07,Xavier,Paul Scruggs,Missed Three Point Jumper,40,37
+0:07,San Diego State,Jalen McDaniels,Block,40,37
+0:07,Xavier,Xavier,Offensive Rebound,40,37
+0:04,Xavier,Xavier ,Turnover,40,37
+0:02,San Diego State,Devin Watson,Missed Three Point Jumper,40,37
+0:02,San Diego State,Nathan Mensah,Offensive Rebound,40,37
+0:00,San Diego State,None,None,40,37
+20:00,San Diego State,None,None,40,37
+19:48,San Diego State,Jalen McDaniels,Turnover,40,37
+19:48,Xavier,Paul Scruggs,Steal,40,37
+19:15,Xavier,Tyrique Jones,Dunk,42,37
+19:15,San Diego State,Nathan Mensah,Foul,42,37
+19:15,Xavier,Tyrique Jones,Missed Free Throw,42,37
+19:15,San Diego State,Nathan Mensah,Defensive Rebound,42,37
+18:59,San Diego State,Matt Mitchell,Missed Three Point Jumper,42,37
+18:59,Xavier,Tyrique Jones,Defensive Rebound,42,37
+18:47,Xavier,Quentin Goodin,Layup,44,37
+18:29,San Diego State,Jalen McDaniels,Missed Jumper,44,37
+18:29,Xavier,Paul Scruggs,Defensive Rebound,44,37
+18:06,Xavier,Naji Marshall,Missed Three Point Jumper,44,37
+18:06,Xavier,Tyrique Jones,Offensive Rebound,44,37
+18:02,Xavier,Paul Scruggs,Missed Three Point Jumper,44,37
+18:02,San Diego State,Jeremy Hemsley,Defensive Rebound,44,37
+17:53,San Diego State,Jeremy Hemsley,Missed Layup,44,37
+17:53,Xavier,Tyrique Jones,Block,44,37
+17:53,Xavier,Paul Scruggs,Defensive Rebound,44,37
+17:37,Xavier,Tyrique Jones,Missed Jumper,44,37
+17:37,Xavier,Tyrique Jones,Offensive Rebound,44,37
+17:28,Xavier,Naji Marshall,Missed Jumper,44,37
+17:28,San Diego State,Jalen McDaniels,Defensive Rebound,44,37
+17:25,Xavier,Tyrique Jones,Foul,44,37
+17:15,San Diego State,Jalen McDaniels,Missed Three Point Jumper,44,37
+17:15,Xavier,Naji Marshall,Defensive Rebound,44,37
+17:00,San Diego State,Jalen McDaniels,Foul,44,37
+16:54,Xavier,Paul Scruggs,Turnover,44,37
+16:44,San Diego State,Jalen McDaniels,Dunk,44,39
+16:25,Xavier,Zach Hankins,Layup,46,39
+16:25,San Diego State,Matt Mitchell,Foul,46,39
+16:25,Xavier,Zach Hankins,Free Throw,47,39
+16:06,San Diego State,Nolan Narain,Jumper,47,41
+15:42,Xavier,Paul Scruggs,Missed Three Point Jumper,47,41
+15:42,San Diego State,Devin Watson,Defensive Rebound,47,41
+15:27,San Diego State,Jordan Schakel,Three Point Jumper,47,44
+14:55,Xavier,Kyle Castlin,Missed Three Point Jumper,47,44
+14:55,San Diego State,Jordan Schakel,Defensive Rebound,47,44
+14:39,San Diego State,Devin Watson,Three Point Jumper,47,47
+14:09,Xavier,Zach Hankins,Foul,47,47
+14:09,Xavier,Zach Hankins,Turnover,47,47
+14:09,San Diego State,None,None,47,47
+14:01,San Diego State,Devin Watson,Missed Three Point Jumper,47,47
+14:01,Xavier,Naji Marshall,Defensive Rebound,47,47
+13:52,San Diego State,Jordan Schakel,Foul,47,47
+13:37,Xavier,Paul Scruggs,Missed Jumper,47,47
+13:37,San Diego State,Nolan Narain,Defensive Rebound,47,47
+13:30,San Diego State,Jeremy Hemsley,Missed Jumper,47,47
+13:30,Xavier,Naji Marshall,Defensive Rebound,47,47
+13:14,Xavier,Quentin Goodin,Turnover,47,47
+13:14,San Diego State,Nolan Narain,Steal,47,47
+13:12,San Diego State,Devin Watson,Three Point Jumper,47,50
+12:52,Xavier,Paul Scruggs,Layup,49,50
+12:26,San Diego State,Matt Mitchell,Three Point Jumper,49,53
+11:56,Xavier,None,None,49,53
+11:56,Xavier,Ryan Welage,Missed Three Point Jumper,49,53
+11:56,San Diego State,Matt Mitchell,Block,49,53
+11:56,Xavier,Xavier,Offensive Rebound,49,53
+11:54,San Diego State,None,None,49,53
+11:53,Xavier,Naji Marshall,Missed Three Point Jumper,49,53
+11:53,San Diego State,Matt Mitchell,Defensive Rebound,49,53
+11:44,San Diego State,Matt Mitchell,Layup,49,55
+11:10,Xavier,Tyrique Jones,Missed Jumper,49,55
+11:10,San Diego State,Jalen McDaniels,Defensive Rebound,49,55
+10:38,San Diego State,Devin Watson,Missed Three Point Jumper,49,55
+10:38,San Diego State,San Diego State,Offensive Rebound,49,55
+10:36,San Diego State,San Diego State ,Turnover,49,55
+10:20,Xavier,Paul Scruggs,Missed Jumper,49,55
+10:20,San Diego State,Nolan Narain,Block,49,55
+10:20,San Diego State,Nolan Narain,Defensive Rebound,49,55
+10:13,San Diego State,Jordan Schakel,Three Point Jumper,49,58
+9:52,San Diego State,Jordan Schakel,Foul,49,58
+9:49,San Diego State,Jordan Schakel,Foul,49,58
+9:45,Xavier,Paul Scruggs,Missed Three Point Jumper,49,58
+9:45,San Diego State,Devin Watson,Defensive Rebound,49,58
+9:34,San Diego State,Jalen McDaniels,Missed Layup,49,58
+9:34,Xavier,Tyrique Jones,Defensive Rebound,49,58
+9:27,Xavier,Ryan Welage,Missed Three Point Jumper,49,58
+9:27,San Diego State,Jalen McDaniels,Defensive Rebound,49,58
+9:20,San Diego State,Nolan Narain,Missed Three Point Jumper,49,58
+9:20,Xavier,Paul Scruggs,Defensive Rebound,49,58
+9:11,Xavier,Paul Scruggs,Jumper,51,58
+8:53,San Diego State,Devin Watson,Foul,51,58
+8:53,San Diego State,Devin Watson,Turnover,51,58
+8:33,San Diego State,Nathan Mensah,Foul,51,58
+8:33,Xavier,Tyrique Jones,Missed Free Throw,51,58
+8:33,San Diego State,San Diego State,Defensive Rebound,51,58
+8:03,San Diego State,Nathan Mensah,Missed Jumper,51,58
+8:03,Xavier,Ryan Welage,Defensive Rebound,51,58
+7:57,Xavier,Tyrique Jones,Dunk,53,58
+7:35,San Diego State,None,None,53,58
+7:23,San Diego State,Jalen McDaniels,Missed Jumper,53,58
+7:23,Xavier,Xavier,Defensive Rebound,53,58
+7:09,Xavier,Naji Marshall,Missed Three Point Jumper,53,58
+7:09,San Diego State,Jalen McDaniels,Defensive Rebound,53,58
+6:34,Xavier,Tyrique Jones,Foul,53,58
+6:33,San Diego State,Jalen McDaniels,Jumper,53,60
+6:09,Xavier,Ryan Welage,Turnover,53,60
+6:06,San Diego State,Devin Watson,Missed Three Point Jumper,53,60
+6:06,San Diego State,Nolan Narain,Offensive Rebound,53,60
+5:50,San Diego State,Jalen McDaniels,Jumper,53,62
+5:30,San Diego State,Nolan Narain,Foul,53,62
+5:30,Xavier,Quentin Goodin,Free Throw,54,62
+5:30,Xavier,Quentin Goodin,Missed Free Throw,54,62
+5:30,Xavier,Xavier,Offensive Rebound,54,62
+5:11,Xavier,Naji Marshall,Missed Jumper,54,62
+5:11,Xavier,Zach Hankins,Offensive Rebound,54,62
+5:09,San Diego State,Nolan Narain,Foul,54,62
+5:09,Xavier,Zach Hankins,Missed Free Throw,54,62
+5:09,Xavier,None,Team Rebound,54,62
+5:09,Xavier,Zach Hankins,Free Throw,55,62
+4:49,Xavier,Keonte Kennedy,Foul,55,62
+4:31,Xavier,Paul Scruggs,Foul,55,62
+4:31,San Diego State,Devin Watson,Free Throw,55,63
+4:31,San Diego State,Devin Watson,Free Throw,55,64
+4:11,Xavier,Zach Hankins,Layup,57,64
+4:11,San Diego State,Jeremy Hemsley,Foul,57,64
+4:11,Xavier,Zach Hankins,Free Throw,58,64
+3:53,San Diego State,None,None,58,64
+3:43,San Diego State,Devin Watson,Turnover,58,64
+3:43,Xavier,Quentin Goodin,Steal,58,64
+3:39,Xavier,Quentin Goodin,Layup,60,64
+3:19,San Diego State,Jeremy Hemsley,Missed Three Point Jumper,60,64
+3:19,Xavier,Xavier,Defensive Rebound,60,64
+3:03,Xavier,Quentin Goodin,Three Point Jumper,63,64
+2:44,San Diego State,Jeremy Hemsley,Turnover,63,64
+2:44,Xavier,Paul Scruggs,Steal,63,64
+2:38,Xavier,Quentin Goodin,Missed Three Point Jumper,63,64
+2:38,San Diego State,Jordan Schakel,Defensive Rebound,63,64
+2:15,San Diego State,Nolan Narain,Layup,63,66
+1:41,Xavier,Quentin Goodin,Missed Jumper,63,66
+1:41,San Diego State,Jalen McDaniels,Defensive Rebound,63,66
+1:14,San Diego State,Jalen McDaniels,Three Point Jumper,63,69
+1:02,Xavier,None,None,63,69
+0:59,San Diego State,Jordan Schakel,Foul,63,69
+0:59,Xavier,Naji Marshall,Missed Free Throw,63,69
+0:59,Xavier,None,Team Rebound,63,69
+0:59,Xavier,Naji Marshall,Free Throw,64,69
+0:50,Xavier,Naji Marshall,Foul,64,69
+0:48,Xavier,Quentin Goodin,Foul,64,69
+0:48,San Diego State,Devin Watson,Free Throw,64,70
+0:48,San Diego State,Devin Watson,Free Throw,64,71
+0:35,San Diego State,Jalen McDaniels,Foul,64,71
+0:35,Xavier,Naji Marshall,Free Throw,65,71
+0:35,Xavier,Naji Marshall,Free Throw,66,71
+0:33,Xavier,Paul Scruggs,Foul,66,71
+0:33,San Diego State,Jeremy Hemsley,Free Throw,66,72
+0:33,San Diego State,Jeremy Hemsley,Free Throw,66,73
+0:28,Xavier,Quentin Goodin,Three Point Jumper,69,73
+0:25,Xavier,None,None,69,73
+0:20,Xavier,Paul Scruggs,Foul,69,73
+0:20,San Diego State,Devin Watson,Free Throw,69,74
+0:20,San Diego State,Devin Watson,Missed Free Throw,69,74
+0:20,San Diego State,Nolan Narain,Offensive Rebound,69,74
+0:19,San Diego State,None,None,69,74
+0:19,Xavier,Paul Scruggs,Foul,69,74
+0:19,San Diego State,Matt Mitchell,Free Throw,69,75
+0:19,San Diego State,Matt Mitchell,Free Throw,69,76
+0:14,Xavier,Quentin Goodin,Dunk,71,76
+0:12,Xavier,Naji Marshall,Foul,71,76
+0:12,San Diego State,Devin Watson,Free Throw,71,77
+0:12,San Diego State,Devin Watson,Free Throw,71,78
+0:08,Xavier,Paul Scruggs,Missed Three Point Jumper,71,78
+0:08,Xavier,Naji Marshall,Offensive Rebound,71,78
+0:05,Xavier,Quentin Goodin,Three Point Jumper,74,78
+0:02,Xavier,Paul Scruggs,Foul,74,78
+0:02,San Diego State,Jalen McDaniels,Missed Free Throw,74,78
+0:02,San Diego State,None,Team Rebound,74,78
+0:02,San Diego State,Jalen McDaniels,Free Throw,74,79
+0:00,San Diego State,None,None,74,79

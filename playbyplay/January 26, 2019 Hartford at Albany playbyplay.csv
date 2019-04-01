@@ -1,0 +1,358 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:40,Albany,Antonio Rizzuto,Layup,0,2
+19:11,Albany,Adam Lulka,Foul,0,2
+19:11,Hartford,John Carroll,Free Throw,1,2
+19:11,Hartford,John Carroll,Missed Free Throw,1,2
+19:11,Albany,Antonio Rizzuto,Defensive Rebound,1,2
+18:52,Albany,Ahmad Clark,Three Point Jumper,1,5
+18:28,Hartford,George Blagojevic,Turnover,1,5
+18:26,Albany,Cameron Healy,Steal,1,5
+18:24,Albany,Cameron Healy,Layup,1,7
+18:24,Hartford,John Carroll,Foul,1,7
+18:24,Albany,Cameron Healy,Free Throw,1,8
+18:02,Hartford,John Carroll,Missed Layup,1,8
+18:02,Albany,Brent Hank,Block,1,8
+17:59,Hartford,John Carroll,Offensive Rebound,1,8
+17:56,Hartford,John Carroll,Layup,3,8
+17:40,Hartford,Jason Dunne,Foul,3,8
+17:31,Albany,Antonio Rizzuto,Three Point Jumper,3,11
+17:14,Hartford,John Carroll,Turnover,3,11
+17:12,Albany,Devonte Campbell,Steal,3,11
+17:09,Albany,Ahmad Clark,Layup,3,13
+16:50,Hartford,Jason Dunne,Missed Three Point Jumper,3,13
+16:50,Albany,Brent Hank,Defensive Rebound,3,13
+16:39,Albany,Ahmad Clark,Missed Three Point Jumper,3,13
+16:39,Hartford,George Blagojevic,Defensive Rebound,3,13
+16:34,Albany,Antonio Rizzuto,Foul,3,13
+16:22,Hartford,John Carroll,Layup,5,13
+15:58,Albany,Antonio Rizzuto,Turnover,5,13
+15:57,Hartford,Jason Dunne,Steal,5,13
+15:55,Hartford,Jason Dunne,Turnover,5,13
+15:54,Albany,None,None,5,13
+15:43,Albany,Ahmad Clark,Missed Three Point Jumper,5,13
+15:43,Hartford,J.R. Lynch,Defensive Rebound,5,13
+15:31,Hartford,J.R. Lynch,Turnover,5,13
+15:30,Albany,Ahmad Clark,Steal,5,13
+15:20,Albany,Antonio Rizzuto,Missed Three Point Jumper,5,13
+15:20,Albany,Antonio Rizzuto,Offensive Rebound,5,13
+15:17,Albany,Cameron Healy,Three Point Jumper,5,16
+14:55,Hartford,Jason Dunne,Missed Three Point Jumper,5,16
+14:55,Hartford,George Blagojevic,Offensive Rebound,5,16
+14:50,Albany,Cameron Healy,Foul,5,16
+14:50,Hartford,John Carroll,Free Throw,6,16
+14:50,Hartford,John Carroll,Free Throw,7,16
+14:41,Albany,Antonio Rizzuto,Three Point Jumper,7,19
+14:31,Hartford,Max Twyman,Turnover,7,19
+14:11,Albany,Antonio Rizzuto,Three Point Jumper,7,22
+13:41,Hartford,Jason Dunne,Missed Three Point Jumper,7,22
+13:41,Albany,Devonte Campbell,Defensive Rebound,7,22
+13:30,Albany,Adam Lulka,Turnover,7,22
+13:30,Hartford,John Carroll,Steal,7,22
+13:17,Hartford,J.R. Lynch,Three Point Jumper,10,22
+12:57,Albany,Cameron Healy,Layup,10,24
+12:57,Hartford,J.R. Lynch,Foul,10,24
+12:57,Albany,Cameron Healy,Free Throw,10,25
+12:35,Hartford,George Blagojevic,Turnover,10,25
+12:23,Albany,Adam Lulka,Layup,10,27
+12:04,Hartford,George Blagojevic,Missed Three Point Jumper,10,27
+12:04,Albany,Antonio Rizzuto,Defensive Rebound,10,27
+11:40,Albany,Antonio Rizzuto,Missed Three Point Jumper,10,27
+11:40,Hartford,Travis Weatherington,Defensive Rebound,10,27
+11:27,Albany,Devonte Campbell,Foul,10,27
+11:27,Albany,None,None,10,27
+11:27,Hartford,Travis Weatherington,Free Throw,11,27
+11:27,Hartford,Travis Weatherington,Free Throw,12,27
+11:27,Hartford,Travis Weatherington,Free Throw,13,27
+11:10,Albany,Adam Lulka,Layup,13,29
+10:48,Hartford,J.R. Lynch,Missed Jumper,13,29
+10:48,Albany,Rayshawn Miller,Defensive Rebound,13,29
+10:37,Hartford,George Blagojevic,Foul,13,29
+10:21,Albany,Ahmad Clark,Missed Three Point Jumper,13,29
+10:21,Hartford,Jason Dunne,Defensive Rebound,13,29
+10:15,Hartford,J.R. Lynch,Layup,15,29
+9:52,Albany,Adam Lulka,Layup,15,31
+9:31,Albany,Malachi De Sousa,Foul,15,31
+9:20,Hartford,Travis Weatherington,Three Point Jumper,18,31
+8:57,Albany,Devonte Campbell,Missed Jumper,18,31
+8:57,Albany,Adam Lulka,Offensive Rebound,18,31
+8:53,Albany,Adam Lulka,Turnover,18,31
+8:53,Hartford,John Carroll,Steal,18,31
+8:40,Hartford,J.R. Lynch,Missed Layup,18,31
+8:40,Albany,Ahmad Clark,Block,18,31
+8:38,Albany,Devonte Campbell,Defensive Rebound,18,31
+8:35,Hartford,Jason Dunne,Foul,18,31
+8:25,Albany,Ahmad Clark,Missed Three Point Jumper,18,31
+8:25,Albany,Antonio Rizzuto,Offensive Rebound,18,31
+8:23,Hartford,Travis Weatherington,Foul,18,31
+8:23,Albany,Antonio Rizzuto,Missed Free Throw,18,31
+8:23,Albany,None,Team Rebound,18,31
+8:23,Albany,Antonio Rizzuto,Free Throw,18,32
+8:17,Hartford,Travis Weatherington,Turnover,18,32
+8:17,Albany,Ahmad Clark,Steal,18,32
+7:52,Albany,Antonio Rizzuto,Missed Jumper,18,32
+7:52,Hartford,Travis Weatherington,Defensive Rebound,18,32
+7:46,Hartford,J.R. Lynch,Three Point Jumper,21,32
+7:40,Hartford,None,None,21,32
+7:40,Albany,None,None,21,32
+7:15,Albany,Kendall Lauderdale,Layup,21,34
+6:56,Hartford,John Carroll,Missed Layup,21,34
+6:56,Albany,Kendall Lauderdale,Defensive Rebound,21,34
+6:46,Albany,Brent Hank,Missed Layup,21,34
+6:46,Hartford,George Blagojevic,Block,21,34
+6:44,Hartford,John Carroll,Defensive Rebound,21,34
+6:37,Albany,Cameron Healy,Foul,21,34
+6:29,Hartford,George Blagojevic,Missed Layup,21,34
+6:29,Albany,Ahmad Clark,Defensive Rebound,21,34
+6:21,Albany,Rayshawn Miller,Missed Three Point Jumper,21,34
+6:21,Hartford,Jason Dunne,Block,21,34
+6:17,Hartford,J.R. Lynch,Defensive Rebound,21,34
+6:15,Albany,Antonio Rizzuto,Foul,21,34
+6:15,Hartford,George Blagojevic,Free Throw,22,34
+6:15,Hartford,George Blagojevic,Free Throw,23,34
+5:57,Albany,Devonte Campbell,Missed Jumper,23,34
+5:57,Albany,Adam Lulka,Offensive Rebound,23,34
+5:56,Albany,Adam Lulka,Layup,23,36
+5:45,Hartford,Jason Dunne,Three Point Jumper,26,36
+5:19,Albany,Adam Lulka,Turnover,26,36
+5:18,Hartford,J.R. Lynch,Steal,26,36
+5:10,Hartford,John Carroll,Missed Layup,26,36
+5:10,Albany,Kendall Lauderdale,Defensive Rebound,26,36
+4:52,Albany,Adam Lulka,Missed Three Point Jumper,26,36
+4:52,Hartford,Hartford,Defensive Rebound,26,36
+4:38,Hartford,J.R. Lynch,Turnover,26,36
+4:37,Albany,Rayshawn Miller,Steal,26,36
+4:15,Hartford,John Carroll,Foul,26,36
+4:15,Albany,Ahmad Clark,Free Throw,26,37
+4:15,Albany,Ahmad Clark,Free Throw,26,38
+4:02,Albany,Devonte Campbell,Foul,26,38
+4:02,Hartford,Jason Dunne,Free Throw,27,38
+4:02,Hartford,Jason Dunne,Free Throw,28,38
+3:38,Albany,Malachi De Sousa,Turnover,28,38
+3:38,Hartford,J.R. Lynch,Steal,28,38
+3:38,Albany,None,None,28,38
+3:30,Hartford,George Blagojevic,Layup,30,38
+3:30,Albany,Rayshawn Miller,Foul,30,38
+3:30,Hartford,George Blagojevic,Missed Free Throw,30,38
+3:30,Albany,Albany,Defensive Rebound,30,38
+3:15,Albany,Kendall Lauderdale,Dunk,30,40
+2:54,Hartford,Jason Dunne,Three Point Jumper,33,40
+2:52,Hartford,Jason Dunne,Foul,33,40
+2:52,Hartford,Jason Dunne,Foul,33,40
+2:52,Albany,Ahmad Clark,Missed Free Throw,33,40
+2:52,Albany,None,Team Rebound,33,40
+2:52,Albany,Ahmad Clark,Free Throw,33,41
+2:46,Albany,Ahmad Clark,Three Point Jumper,33,44
+2:34,Hartford,Romain Boxus,Missed Layup,33,44
+2:34,Albany,Adam Lulka,Defensive Rebound,33,44
+2:01,Hartford,George Blagojevic,Foul,33,44
+2:01,Albany,Rayshawn Miller,Free Throw,33,45
+2:01,Albany,Rayshawn Miller,Free Throw,33,46
+1:58,Hartford,George Blagojevic,Layup,35,46
+1:40,Albany,Rayshawn Miller,Missed Three Point Jumper,35,46
+1:40,Hartford,Romain Boxus,Defensive Rebound,35,46
+0:58,Hartford,J.R. Lynch,Missed Jumper,35,46
+0:58,Albany,Ahmad Clark,Defensive Rebound,35,46
+0:53,Hartford,Romain Boxus,Foul,35,46
+0:53,Albany,Ahmad Clark,Free Throw,35,47
+0:53,Albany,Ahmad Clark,Free Throw,35,48
+0:52,Hartford,George Blagojevic,Turnover,35,48
+0:51,Albany,Malachi De Sousa,Steal,35,48
+0:49,Albany,Malachi De Sousa,Missed Layup,35,48
+0:49,Hartford,George Blagojevic,Block,35,48
+0:47,Hartford,Romain Boxus,Defensive Rebound,35,48
+0:41,Hartford,Travis Weatherington,Missed Three Point Jumper,35,48
+0:41,Albany,Albany,Defensive Rebound,35,48
+0:36,Hartford,Romain Boxus,Foul,35,48
+0:36,Albany,Adam Lulka,Missed Free Throw,35,48
+0:36,Albany,None,Team Rebound,35,48
+0:36,Albany,Adam Lulka,Free Throw,35,49
+0:16,Hartford,J.R. Lynch,Turnover,35,49
+0:06,Albany,Ahmad Clark,Turnover,35,49
+0:05,Hartford,J.R. Lynch,Steal,35,49
+0:03,Hartford,Max Twyman,Missed Three Point Jumper,35,49
+0:03,Hartford,None,Team Rebound,35,49
+0:00,Albany,None,None,35,49
+19:49,Albany,Adam Lulka,Layup,35,51
+19:28,Hartford,George Blagojevic,Three Point Jumper,38,51
+19:08,Hartford,Michael Dunne,Foul,38,51
+18:54,Albany,Adam Lulka,Missed Layup,38,51
+18:54,Albany,Brent Hank,Offensive Rebound,38,51
+18:49,Hartford,John Carroll,Foul,38,51
+18:49,Albany,Cameron Healy,Free Throw,38,52
+18:49,Albany,Cameron Healy,Free Throw,38,53
+18:42,Albany,Antonio Rizzuto,Foul,38,53
+18:28,Albany,Brent Hank,Foul,38,53
+18:25,Hartford,George Blagojevic,Layup,40,53
+18:08,Albany,Ahmad Clark,Turnover,40,53
+17:54,Albany,Brent Hank,Foul,40,53
+17:54,Hartford,John Carroll,Missed Free Throw,40,53
+17:54,Hartford,None,Team Rebound,40,53
+17:54,Hartford,John Carroll,Free Throw,41,53
+17:41,Albany,Ahmad Clark,Layup,41,55
+17:41,Hartford,George Blagojevic,Foul,41,55
+17:41,Albany,Ahmad Clark,Free Throw,41,56
+17:33,Hartford,George Blagojevic,Missed Three Point Jumper,41,56
+17:33,Hartford,Travis Weatherington,Offensive Rebound,41,56
+17:31,Hartford,Travis Weatherington,Missed Layup,41,56
+17:31,Albany,Ahmad Clark,Defensive Rebound,41,56
+17:06,Albany,Cameron Healy,Three Point Jumper,41,59
+16:47,Hartford,George Blagojevic,Turnover,41,59
+16:45,Albany,Antonio Rizzuto,Steal,41,59
+16:30,Albany,Ahmad Clark,Missed Layup,41,59
+16:30,Hartford,J.R. Lynch,Defensive Rebound,41,59
+16:23,Hartford,Travis Weatherington,Missed Three Point Jumper,41,59
+16:23,Albany,Antonio Rizzuto,Defensive Rebound,41,59
+16:04,Albany,Cameron Healy,Missed Three Point Jumper,41,59
+16:04,Albany,Adam Lulka,Offensive Rebound,41,59
+16:02,Hartford,Michael Dunne,Foul,41,59
+16:02,Albany,Adam Lulka,Missed Free Throw,41,59
+16:02,Albany,None,Team Rebound,41,59
+16:02,Albany,Adam Lulka,Missed Free Throw,41,59
+16:02,Hartford,Hartford,Defensive Rebound,41,59
+16:00,Albany,None,None,41,59
+15:42,Hartford,John Carroll,Missed Three Point Jumper,41,59
+15:42,Albany,Brent Hank,Defensive Rebound,41,59
+15:11,Albany,Devonte Campbell,Missed Three Point Jumper,41,59
+15:11,Hartford,John Carroll,Defensive Rebound,41,59
+14:59,Hartford,George Blagojevic,Missed Layup,41,59
+14:59,Hartford,Hartford,Offensive Rebound,41,59
+14:47,Hartford,Jason Dunne,Missed Jumper,41,59
+14:47,Albany,Brent Hank,Defensive Rebound,41,59
+14:36,Albany,Cameron Healy,Foul,41,59
+14:36,Albany,Cameron Healy,Turnover,41,59
+14:31,Hartford,Travis Weatherington,Three Point Jumper,44,59
+14:18,Albany,Ahmad Clark,Turnover,44,59
+13:50,Albany,Brent Hank,Foul,44,59
+13:50,Hartford,George Blagojevic,Free Throw,45,59
+13:50,Hartford,George Blagojevic,Free Throw,46,59
+13:29,Albany,Devonte Campbell,Foul,46,59
+13:29,Albany,Devonte Campbell,Turnover,46,59
+13:24,Albany,Cameron Healy,Foul,46,59
+13:24,Hartford,John Carroll,Missed Free Throw,46,59
+13:24,Hartford,None,Team Rebound,46,59
+13:24,Hartford,John Carroll,Free Throw,47,59
+13:04,Albany,Antonio Rizzuto,Three Point Jumper,47,62
+12:42,Hartford,George Blagojevic,Layup,49,62
+12:18,Albany,Ahmad Clark,Missed Three Point Jumper,49,62
+12:18,Albany,Adam Lulka,Offensive Rebound,49,62
+12:12,Albany,Devonte Campbell,Missed Layup,49,62
+12:12,Hartford,J.R. Lynch,Block,49,62
+12:09,Hartford,J.R. Lynch,Offensive Rebound,49,62
+11:47,Hartford,J.R. Lynch,Layup,51,62
+11:43,Albany,Ahmad Clark,Layup,51,64
+11:22,Hartford,Jason Dunne,Foul,51,64
+11:22,Hartford,Jason Dunne,Turnover,51,64
+11:22,Albany,None,None,51,64
+11:11,Albany,Rayshawn Miller,Missed Jumper,51,64
+11:11,Albany,Adam Lulka,Offensive Rebound,51,64
+11:04,Albany,Antonio Rizzuto,Three Point Jumper,51,67
+10:40,Hartford,George Blagojevic,Turnover,51,67
+10:40,Albany,Devonte Campbell,Steal,51,67
+10:40,Albany,Devonte Campbell,Turnover,51,67
+10:39,Hartford,Jason Dunne,Three Point Jumper,54,67
+10:19,Albany,Rayshawn Miller,Turnover,54,67
+10:18,Hartford,J.R. Lynch,Steal,54,67
+10:13,Hartford,Travis Weatherington,Missed Three Point Jumper,54,67
+10:13,Albany,Ahmad Clark,Defensive Rebound,54,67
+9:49,Albany,Adam Lulka,Missed Layup,54,67
+9:49,Hartford,Travis Weatherington,Defensive Rebound,54,67
+9:30,Hartford,John Carroll,Turnover,54,67
+9:29,Albany,Devonte Campbell,Steal,54,67
+9:17,Albany,Ahmad Clark,Turnover,54,67
+9:17,Hartford,George Blagojevic,Steal,54,67
+9:17,Albany,Antonio Rizzuto,Foul,54,67
+9:17,Hartford,George Blagojevic,Free Throw,55,67
+9:17,Hartford,George Blagojevic,Free Throw,56,67
+8:56,Hartford,John Carroll,Foul,56,67
+8:56,Hartford,Hartford,Foul,56,67
+8:56,Albany,Ahmad Clark,Missed Free Throw,56,67
+8:56,Albany,None,Team Rebound,56,67
+8:56,Hartford,Hartford,Foul,56,67
+8:56,Albany,Ahmad Clark,Free Throw,56,68
+8:56,Albany,Devonte Campbell,Free Throw,56,69
+8:56,Albany,Devonte Campbell,Free Throw,56,70
+8:41,Hartford,George Blagojevic,Missed Layup,56,70
+8:41,Albany,Brent Hank,Defensive Rebound,56,70
+8:20,Albany,Rayshawn Miller,Turnover,56,70
+8:20,Hartford,Jason Dunne,Steal,56,70
+8:10,Hartford,George Blagojevic,Layup,58,70
+7:55,Albany,Devonte Campbell,Missed Jumper,58,70
+7:55,Hartford,Travis Weatherington,Defensive Rebound,58,70
+7:48,Hartford,J.R. Lynch,Turnover,58,70
+7:46,Albany,Rayshawn Miller,Steal,58,70
+7:17,Albany,Devonte Campbell,Missed Three Point Jumper,58,70
+7:17,Hartford,John Carroll,Defensive Rebound,58,70
+7:05,Hartford,Travis Weatherington,Three Point Jumper,61,70
+6:53,Albany,None,None,61,70
+6:53,Albany,None,None,61,70
+6:46,Albany,Adam Lulka,Layup,61,72
+6:31,Albany,Adam Lulka,Foul,61,72
+6:31,Albany,None,None,61,72
+6:31,Hartford,George Blagojevic,Missed Free Throw,61,72
+6:31,Hartford,None,Team Rebound,61,72
+6:31,Hartford,George Blagojevic,Missed Free Throw,61,72
+6:31,Hartford,Hartford,Offensive Rebound,61,72
+6:23,Hartford,Jason Dunne,Three Point Jumper,64,72
+6:05,Hartford,Jason Dunne,Foul,64,72
+6:05,Albany,Antonio Rizzuto,Free Throw,64,73
+6:05,Albany,Antonio Rizzuto,Free Throw,64,74
+6:05,Albany,Antonio Rizzuto,Free Throw,64,75
+5:55,Hartford,Travis Weatherington,Layup,66,75
+5:22,Albany,Devonte Campbell,Missed Three Point Jumper,66,75
+5:22,Hartford,Travis Weatherington,Defensive Rebound,66,75
+5:11,Hartford,J.R. Lynch,Missed Jumper,66,75
+5:11,Hartford,J.R. Lynch,Offensive Rebound,66,75
+5:09,Albany,Brent Hank,Foul,66,75
+5:09,Hartford,J.R. Lynch,Free Throw,67,75
+5:09,Albany,Cameron Healy,Defensive Rebound,67,75
+4:51,Albany,Ahmad Clark,Missed Three Point Jumper,67,75
+4:51,Hartford,Max Twyman,Defensive Rebound,67,75
+4:39,Hartford,J.R. Lynch,Missed Layup,67,75
+4:39,Hartford,J.R. Lynch,Offensive Rebound,67,75
+4:31,Hartford,John Carroll,Layup,69,75
+4:20,Albany,None,None,69,75
+4:20,Albany,None,None,69,75
+4:04,Albany,Adam Lulka,Foul,69,75
+4:04,Albany,Adam Lulka,Turnover,69,75
+3:50,Hartford,Travis Weatherington,Layup,71,75
+3:50,Albany,Antonio Rizzuto,Foul,71,75
+3:50,Hartford,Travis Weatherington,Free Throw,72,75
+3:24,Albany,Ahmad Clark,Layup,72,77
+3:24,Hartford,John Carroll,Foul,72,77
+3:24,Albany,Ahmad Clark,Free Throw,72,78
+3:12,Albany,Brent Hank,Foul,72,78
+3:12,Hartford,George Blagojevic,Missed Free Throw,72,78
+3:12,Hartford,None,Team Rebound,72,78
+3:12,Hartford,George Blagojevic,Missed Free Throw,72,78
+3:12,Albany,Cameron Healy,Defensive Rebound,72,78
+2:59,Albany,None,None,72,78
+2:29,Albany,Cameron Healy,Three Point Jumper,72,81
+2:23,Hartford,Travis Weatherington,Turnover,72,81
+2:23,Hartford,None,None,72,81
+1:57,Hartford,George Blagojevic,Foul,72,81
+1:57,Albany,Devonte Campbell,Missed Free Throw,72,81
+1:57,Albany,None,Team Rebound,72,81
+1:57,Albany,Devonte Campbell,Free Throw,72,82
+1:49,Hartford,J.R. Lynch,Missed Three Point Jumper,72,82
+1:49,Albany,Cameron Healy,Defensive Rebound,72,82
+1:18,Albany,Ahmad Clark,Turnover,72,82
+1:13,Hartford,J.R. Lynch,Missed Layup,72,82
+1:13,Albany,Cameron Healy,Block,72,82
+1:12,Albany,Cameron Healy,Defensive Rebound,72,82
+0:46,Albany,Cameron Healy,Missed Jumper,72,82
+0:46,Hartford,Travis Weatherington,Defensive Rebound,72,82
+0:30,Hartford,J.R. Lynch,Layup,74,82
+0:28,Hartford,None,None,74,82
+0:28,Hartford,Zach Brown,Foul,74,82
+0:28,Albany,Cameron Healy,Free Throw,74,83
+0:28,Albany,Cameron Healy,Free Throw,74,84
+0:17,Hartford,Travis Weatherington,Missed Three Point Jumper,74,84
+0:17,Albany,Malachi De Sousa,Defensive Rebound,74,84
+0:17,Hartford,Travis Weatherington,Foul,74,84
+0:17,Albany,Malachi De Sousa,Missed Free Throw,74,84
+0:17,Albany,None,Team Rebound,74,84
+0:17,Albany,Malachi De Sousa,Missed Free Throw,74,84
+0:17,Hartford,George Blagojevic,Defensive Rebound,74,84
+0:08,Hartford,D.J. Mitchell,Three Point Jumper,77,84
+0:06,Hartford,None,None,77,84
+0:00,Albany,None,None,77,84

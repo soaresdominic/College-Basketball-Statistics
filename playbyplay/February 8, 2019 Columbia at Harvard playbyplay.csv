@@ -1,0 +1,445 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:32,Columbia,Gabe Stefanini,Foul,0,0
+19:32,Harvard,Christian Juzang,Free Throw,0,1
+19:32,Harvard,Christian Juzang,Missed Free Throw,0,1
+19:32,Columbia,Patrick Tape,Defensive Rebound,0,1
+19:09,Columbia,Randy Brumant,Dunk,2,1
+18:57,Harvard,Bryce Aiken,Jumper,2,3
+18:42,Columbia,Gabe Stefanini,Turnover,2,3
+18:42,Harvard,Chris Lewis,Steal,2,3
+18:42,Columbia,Patrick Tape,Foul,2,3
+18:19,Harvard,Christian Juzang,Turnover,2,3
+18:09,Columbia,Gabe Stefanini,Turnover,2,3
+18:08,Harvard,Chris Lewis,Steal,2,3
+18:04,Harvard,Justin Bassey,Three Point Jumper,2,6
+17:53,Columbia,Jake Killingsworth,Three Point Jumper,5,6
+17:33,Harvard,Christian Juzang,Three Point Jumper,5,9
+17:10,Columbia,Quinton Adlesh,Missed Three Point Jumper,5,9
+17:10,Harvard,Robert Baker,Defensive Rebound,5,9
+16:58,Harvard,Bryce Aiken,Missed Three Point Jumper,5,9
+16:58,Columbia,Randy Brumant,Defensive Rebound,5,9
+16:43,Columbia,Quinton Adlesh,Turnover,5,9
+16:42,Harvard,Christian Juzang,Steal,5,9
+16:24,Harvard,Bryce Aiken,Missed Layup,5,9
+16:24,Columbia,Patrick Tape,Defensive Rebound,5,9
+16:14,Columbia,Jake Killingsworth,Missed Three Point Jumper,5,9
+16:14,Harvard,Chris Lewis,Defensive Rebound,5,9
+16:07,Harvard,Justin Bassey,Jumper,5,11
+15:48,Columbia,Randy Brumant,Missed Three Point Jumper,5,11
+15:48,Harvard,Bryce Aiken,Defensive Rebound,5,11
+15:45,Columbia,Jake Killingsworth,Foul,5,11
+15:45,Harvard,None,None,5,11
+15:37,Harvard,Christian Juzang,Missed Three Point Jumper,5,11
+15:37,Columbia,Quinton Adlesh,Defensive Rebound,5,11
+15:26,Columbia,Randy Brumant,Turnover,5,11
+15:26,Harvard,Robert Baker,Steal,5,11
+15:00,Harvard,Chris Lewis,Missed Layup,5,11
+15:00,Columbia,Randy Brumant,Defensive Rebound,5,11
+14:49,Columbia,Quinton Adlesh,Layup,7,11
+14:39,Harvard,Bryce Aiken,Turnover,7,11
+14:19,Columbia,Quinton Adlesh,Missed Jumper,7,11
+14:19,Harvard,Robert Baker,Defensive Rebound,7,11
+13:51,Harvard,Christian Juzang,Missed Jumper,7,11
+13:51,Columbia,Ike Nweke,Defensive Rebound,7,11
+13:37,Columbia,Ike Nweke,Missed Jumper,7,11
+13:37,Harvard,Henry Welsh,Defensive Rebound,7,11
+13:24,Harvard,Robert Baker,Missed Three Point Jumper,7,11
+13:24,Harvard,Henry Welsh,Offensive Rebound,7,11
+13:20,Harvard,Christian Juzang,Jumper,7,13
+13:00,Columbia,Randy Brumant,Turnover,7,13
+12:33,Harvard,Noah Kirkwood,Three Point Jumper,7,16
+12:20,Columbia,Ike Nweke,Jumper,9,16
+12:02,Columbia,Ike Nweke,Foul,9,16
+12:02,Harvard,Danilo Djuricic,Free Throw,9,17
+12:02,Harvard,Danilo Djuricic,Missed Free Throw,9,17
+12:02,Columbia,Patrick Tape,Defensive Rebound,9,17
+11:41,Columbia,Gabe Stefanini,Layup,11,17
+11:23,Harvard,Henry Welsh,Turnover,11,17
+11:23,Harvard,Henry Welsh,Foul,11,17
+11:23,Columbia,None,None,11,17
+11:08,Harvard,Danilo Djuricic,Foul,11,17
+11:08,Columbia,Gabe Stefanini,Free Throw,12,17
+11:08,Columbia,Gabe Stefanini,Free Throw,13,17
+10:59,Harvard,Danilo Djuricic,Missed Three Point Jumper,13,17
+10:59,Columbia,Peter Barba,Defensive Rebound,13,17
+10:43,Columbia,Peter Barba,Missed Three Point Jumper,13,17
+10:43,Harvard,Christian Juzang,Defensive Rebound,13,17
+10:28,Harvard,Justin Bassey,Missed Jumper,13,17
+10:28,Columbia,Peter Barba,Defensive Rebound,13,17
+10:16,Columbia,Gabe Stefanini,Missed Jumper,13,17
+10:16,Harvard,Danilo Djuricic,Defensive Rebound,13,17
+10:04,Columbia,Tai Bibbs,Foul,13,17
+10:04,Harvard,Justin Bassey,Free Throw,13,18
+10:04,Harvard,Justin Bassey,Free Throw,13,19
+9:42,Columbia,Quinton Adlesh,Turnover,13,19
+9:41,Harvard,Robert Baker,Steal,13,19
+9:37,Harvard,Robert Baker,Missed Three Point Jumper,13,19
+9:37,Columbia,Patrick Tape,Defensive Rebound,13,19
+9:30,Columbia,Tai Bibbs,Missed Dunk,13,19
+9:30,Harvard,Chris Lewis,Block,13,19
+9:24,Columbia,Peter Barba,Offensive Rebound,13,19
+9:23,Columbia,Tai Bibbs,Three Point Jumper,16,19
+9:22,Harvard,None,None,16,19
+9:02,Columbia,Quinton Adlesh,Foul,16,19
+9:02,Harvard,Bryce Aiken,Free Throw,16,20
+9:02,Harvard,Bryce Aiken,Free Throw,16,21
+8:45,Columbia,Quinton Adlesh,Three Point Jumper,19,21
+8:28,Harvard,Noah Kirkwood,Turnover,19,21
+8:26,Columbia,Quinton Adlesh,Steal,19,21
+8:20,Columbia,Quinton Adlesh,Missed Layup,19,21
+8:20,Harvard,Noah Kirkwood,Defensive Rebound,19,21
+8:04,Columbia,CJ Davis,Foul,19,21
+8:04,Harvard,Bryce Aiken,Free Throw,19,22
+8:04,Harvard,Bryce Aiken,Free Throw,19,23
+7:45,Columbia,Quinton Adlesh,Three Point Jumper,22,23
+7:24,Harvard,Justin Bassey,Jumper,22,25
+7:01,Columbia,Quinton Adlesh,Layup,24,25
+6:47,Harvard,Bryce Aiken,Turnover,24,25
+6:46,Columbia,Patrick Tape,Steal,24,25
+6:27,Columbia,Patrick Tape,Layup,26,25
+6:03,Harvard,Bryce Aiken,Missed Jumper,26,25
+6:03,Columbia,Patrick Tape,Defensive Rebound,26,25
+5:50,Columbia,Patrick Tape,Layup,28,25
+5:28,Harvard,Christian Juzang,Turnover,28,25
+5:28,Columbia,None,None,28,25
+5:15,Columbia,Tai Bibbs,Three Point Jumper,31,25
+4:47,Harvard,Christian Juzang,Missed Layup,31,25
+4:47,Columbia,Patrick Tape,Defensive Rebound,31,25
+4:30,Columbia,Tai Bibbs,Missed Three Point Jumper,31,25
+4:30,Harvard,Bryce Aiken,Defensive Rebound,31,25
+4:21,Harvard,Bryce Aiken,Missed Three Point Jumper,31,25
+4:21,Harvard,Justin Bassey,Offensive Rebound,31,25
+4:07,Harvard,Justin Bassey,Layup,31,27
+3:53,Columbia,CJ Davis,Turnover,31,27
+3:50,Harvard,Henry Welsh,Steal,31,27
+3:46,Columbia,None,None,31,29
+3:46,Harvard,Bryce Aiken,Layup,31,29
+3:46,Columbia,Tai Bibbs,Foul,31,29
+3:46,Harvard,Bryce Aiken,Free Throw,31,30
+3:33,Columbia,Gabe Stefanini,Turnover,31,30
+3:32,Harvard,Noah Kirkwood,Steal,31,30
+3:29,Harvard,Noah Kirkwood,Turnover,31,30
+3:29,Columbia,Quinton Adlesh,Steal,31,30
+3:23,Columbia,Jake Killingsworth,Three Point Jumper,34,30
+2:59,Harvard,Bryce Aiken,Three Point Jumper,34,33
+2:40,Columbia,Patrick Tape,Turnover,34,33
+2:29,Columbia,Ike Nweke,Foul,34,33
+2:29,Harvard,Chris Lewis,Missed Free Throw,34,33
+2:29,Columbia,Jake Killingsworth,Defensive Rebound,34,33
+2:17,Columbia,Gabe Stefanini,Missed Layup,34,33
+2:17,Harvard,Justin Bassey,Defensive Rebound,34,33
+2:06,Harvard,Chris Lewis,Dunk,34,35
+1:51,Columbia,Jake Killingsworth,Missed Three Point Jumper,34,35
+1:51,Harvard,Justin Bassey,Defensive Rebound,34,35
+1:41,Columbia,Peter Barba,Foul,34,35
+1:41,Harvard,Bryce Aiken,Free Throw,34,36
+1:41,Harvard,Bryce Aiken,Free Throw,34,37
+1:28,Columbia,Quinton Adlesh,Missed Jumper,34,37
+1:28,Harvard,Bryce Aiken,Defensive Rebound,34,37
+1:12,Harvard,Justin Bassey,Turnover,34,37
+1:12,Columbia,None,None,34,37
+0:55,Columbia,Randy Brumant,Layup,36,37
+0:54,Harvard,Chris Lewis,Foul,36,37
+0:54,Columbia,Randy Brumant,Missed Free Throw,36,37
+0:54,Harvard,Robert Baker,Defensive Rebound,36,37
+0:45,Harvard,Bryce Aiken,Missed Layup,36,37
+0:45,Columbia,Randy Brumant,Block,36,37
+0:43,Columbia,Jake Killingsworth,Defensive Rebound,36,37
+0:28,Columbia,Quinton Adlesh,Missed Layup,36,37
+0:28,Harvard,Christian Juzang,Defensive Rebound,36,37
+0:00,Harvard,None,None,36,39
+19:43,Columbia,Patrick Tape,Jumper,38,37
+19:19,Columbia,Randy Brumant,Foul,38,37
+19:19,Harvard,Robert Baker,Missed Free Throw,38,37
+19:19,Harvard,None,Team Rebound,38,37
+19:19,Harvard,Robert Baker,Free Throw,38,38
+19:03,Harvard,Christian Juzang,Foul,38,38
+19:03,Columbia,Patrick Tape,Missed Free Throw,38,38
+19:03,Columbia,None,Team Rebound,38,38
+19:03,Columbia,Patrick Tape,Free Throw,39,38
+18:45,Columbia,Jake Killingsworth,Foul,39,38
+18:39,Columbia,Patrick Tape,Foul,39,38
+18:39,Harvard,Christian Juzang,Free Throw,39,39
+18:39,Harvard,Christian Juzang,Missed Free Throw,39,39
+18:39,Columbia,Randy Brumant,Defensive Rebound,39,39
+18:37,Harvard,Robert Baker,Foul,39,39
+18:21,Columbia,Gabe Stefanini,Missed Layup,39,39
+18:21,Columbia,Randy Brumant,Offensive Rebound,39,39
+18:17,Columbia,Randy Brumant,Missed Layup,39,39
+18:17,Harvard,Bryce Aiken,Defensive Rebound,39,39
+18:10,Harvard,Bryce Aiken,Missed Layup,39,39
+18:10,Columbia,Randy Brumant,Defensive Rebound,39,39
+18:00,Columbia,Patrick Tape,Layup,41,39
+17:48,Harvard,Bryce Aiken,Missed Three Point Jumper,41,39
+17:48,Harvard,Chris Lewis,Offensive Rebound,41,39
+17:32,Harvard,Chris Lewis,Missed Layup,41,39
+17:32,Harvard,Robert Baker,Offensive Rebound,41,39
+17:26,Harvard,Justin Bassey,Turnover,41,39
+17:25,Columbia,Gabe Stefanini,Steal,41,39
+17:07,Columbia,Gabe Stefanini,Layup,43,39
+16:55,Harvard,Christian Juzang,Missed Jumper,43,39
+16:55,Columbia,Patrick Tape,Defensive Rebound,43,39
+16:33,Columbia,Randy Brumant,Missed Jumper,43,39
+16:33,Harvard,Harvard,Defensive Rebound,43,39
+16:13,Harvard,Henry Welsh,Three Point Jumper,43,42
+15:52,Columbia,Patrick Tape,Layup,45,42
+15:32,Harvard,Noah Kirkwood,Layup,45,44
+15:11,Columbia,Jake Killingsworth,Missed Three Point Jumper,45,44
+15:11,Harvard,Rio Haskett,Defensive Rebound,45,44
+15:08,Harvard,Rio Haskett,Turnover,45,44
+15:07,Columbia,Jake Killingsworth,Steal,45,44
+14:41,Columbia,Gabe Stefanini,Missed Jumper,45,44
+14:41,Harvard,Henry Welsh,Defensive Rebound,45,44
+14:28,Harvard,Bryce Aiken,Layup,45,46
+14:16,Harvard,Noah Kirkwood,Foul,45,46
+14:16,Columbia,None,None,45,46
+13:44,Columbia,Quinton Adlesh,Missed Three Point Jumper,45,46
+13:44,Harvard,Robert Baker,Block,45,46
+13:43,Harvard,Noah Kirkwood,Defensive Rebound,45,46
+13:23,Harvard,Bryce Aiken,Missed Three Point Jumper,45,46
+13:23,Harvard,Robert Baker,Offensive Rebound,45,46
+13:21,Harvard,None,None,45,48
+13:16,Columbia,Gabe Stefanini,Jumper,47,48
+12:51,Harvard,Rio Haskett,Three Point Jumper,47,51
+12:22,Columbia,Quinton Adlesh,Three Point Jumper,50,51
+11:56,Harvard,Bryce Aiken,Three Point Jumper,50,54
+11:34,Harvard,Henry Welsh,Foul,50,54
+11:34,Columbia,None,None,50,54
+11:34,Columbia,Peter Barba,Missed Layup,50,54
+11:34,Harvard,Robert Baker,Block,50,54
+11:34,Harvard,Christian Juzang,Defensive Rebound,50,54
+11:11,Harvard,Noah Kirkwood,Missed Three Point Jumper,50,54
+11:11,Harvard,Justin Bassey,Offensive Rebound,50,54
+11:05,Harvard,Justin Bassey,Missed Layup,50,54
+11:05,Harvard,Harvard,Offensive Rebound,50,54
+10:43,Harvard,Noah Kirkwood,Missed Three Point Jumper,50,54
+10:43,Columbia,Peter Barba,Defensive Rebound,50,54
+10:25,Columbia,Peter Barba,Foul,50,54
+10:25,Columbia,Peter Barba,Turnover,50,54
+10:14,Harvard,Noah Kirkwood,Missed Jumper,50,54
+10:14,Harvard,Chris Lewis,Offensive Rebound,50,54
+10:05,Harvard,Christian Juzang,Layup,50,56
+10:02,Columbia,None,None,50,56
+10:02,Columbia,None,None,50,56
+9:51,Harvard,Noah Kirkwood,Foul,50,56
+9:50,Columbia,Patrick Tape,Turnover,50,56
+9:48,Harvard,Christian Juzang,Steal,50,56
+9:26,Harvard,Christian Juzang,Three Point Jumper,50,59
+9:09,Columbia,Gabe Stefanini,Jumper,52,59
+8:35,Harvard,Chris Lewis,Missed Layup,52,59
+8:35,Columbia,Patrick Tape,Block,52,59
+8:33,Harvard,Justin Bassey,Offensive Rebound,52,59
+8:31,Harvard,Justin Bassey,Missed Layup,52,59
+8:31,Columbia,Tai Bibbs,Defensive Rebound,52,59
+8:12,Harvard,Noah Kirkwood,Offensive Rebound,52,59
+8:09,Columbia,Patrick Tape,Foul,52,59
+8:09,Columbia,Patrick Tape,Turnover,52,59
+7:42,Harvard,Chris Lewis,Missed Jumper,52,59
+7:42,Columbia,Patrick Tape,Defensive Rebound,52,59
+7:16,Columbia,Quinton Adlesh,Missed Three Point Jumper,52,59
+7:16,Columbia,Patrick Tape,Offensive Rebound,52,59
+7:12,Harvard,Christian Juzang,Foul,52,59
+7:12,Columbia,None,None,52,59
+7:12,Columbia,Patrick Tape,Free Throw,53,59
+7:12,Columbia,Patrick Tape,Free Throw,54,59
+6:52,Harvard,Bryce Aiken,Missed Layup,54,59
+6:52,Columbia,Gabe Stefanini,Defensive Rebound,54,59
+6:45,Columbia,Gabe Stefanini,Layup,56,59
+6:27,Harvard,Chris Lewis,Turnover,56,59
+6:25,Columbia,Randy Brumant,Steal,56,59
+6:12,Columbia,Patrick Tape,Layup,58,59
+6:09,Harvard,None,None,58,59
+5:58,Harvard,Robert Baker,Missed Three Point Jumper,58,59
+5:58,Columbia,Randy Brumant,Defensive Rebound,58,59
+5:38,Harvard,Henry Welsh,Foul,58,59
+5:38,Columbia,Patrick Tape,Missed Free Throw,58,59
+5:38,Harvard,Robert Baker,Defensive Rebound,58,59
+5:28,Harvard,Bryce Aiken,Missed Jumper,58,59
+5:28,Columbia,Gabe Stefanini,Defensive Rebound,58,59
+5:10,Columbia,Quinton Adlesh,Three Point Jumper,61,59
+4:42,Columbia,Gabe Stefanini,Foul,61,59
+4:42,Harvard,Justin Bassey,Free Throw,61,60
+4:42,Harvard,Justin Bassey,Free Throw,61,61
+4:20,Harvard,Henry Welsh,Foul,61,61
+4:20,Columbia,Gabe Stefanini,Missed Free Throw,61,61
+4:20,Columbia,None,Team Rebound,61,61
+4:20,Columbia,Gabe Stefanini,Missed Free Throw,61,61
+4:20,Harvard,Justin Bassey,Defensive Rebound,61,61
+4:01,Harvard,Bryce Aiken,Foul,61,61
+4:01,Harvard,Bryce Aiken,Turnover,61,61
+3:43,Columbia,Patrick Tape,Missed Layup,61,61
+3:43,Harvard,Robert Baker,Block,61,61
+3:43,Columbia,Columbia,Offensive Rebound,61,61
+3:43,Columbia,None,None,61,61
+3:40,Columbia,Gabe Stefanini,Missed Layup,61,61
+3:40,Harvard,Noah Kirkwood,Defensive Rebound,61,61
+3:16,Harvard,Christian Juzang,Missed Three Point Jumper,61,61
+3:16,Columbia,Patrick Tape,Defensive Rebound,61,61
+2:59,Columbia,Gabe Stefanini,Missed Jumper,61,61
+2:59,Harvard,Robert Baker,Defensive Rebound,61,61
+2:54,Harvard,Robert Baker,Turnover,61,61
+2:53,Columbia,Patrick Tape,Steal,61,61
+2:50,Columbia,Quinton Adlesh,Missed Three Point Jumper,61,61
+2:50,Harvard,Chris Lewis,Defensive Rebound,61,61
+2:32,Harvard,Noah Kirkwood,Turnover,61,61
+2:31,Columbia,Patrick Tape,Steal,61,61
+2:09,Harvard,Robert Baker,Foul,61,61
+2:09,Columbia,Randy Brumant,Free Throw,62,61
+2:09,Columbia,Randy Brumant,Missed Free Throw,62,61
+2:09,Harvard,Robert Baker,Defensive Rebound,62,61
+2:06,Columbia,Patrick Tape,Foul,62,61
+2:06,Harvard,Robert Baker,Free Throw,62,62
+2:06,Harvard,Robert Baker,Missed Free Throw,62,62
+2:06,Columbia,Columbia,Defensive Rebound,62,62
+1:56,Columbia,Quinton Adlesh,Missed Layup,62,62
+1:56,Columbia,Randy Brumant,Offensive Rebound,62,62
+1:50,Columbia,None,None,64,62
+1:38,Harvard,Bryce Aiken,Three Point Jumper,64,65
+1:34,Harvard,None,None,64,65
+1:21,Columbia,Patrick Tape,Dunk,66,65
+0:46,Harvard,Bryce Aiken,Jumper,66,67
+0:28,Columbia,Quinton Adlesh,Missed Jumper,66,67
+0:28,Columbia,Columbia,Offensive Rebound,66,67
+0:23,Columbia,None,None,66,67
+0:06,Columbia,Gabe Stefanini,Turnover,66,67
+0:06,Harvard,Robert Baker,Steal,66,67
+0:06,Columbia,Randy Brumant,Foul,66,67
+0:05,Harvard,Robert Baker,Free Throw,66,68
+0:05,Columbia,None,None,66,68
+0:05,Harvard,Robert Baker,Free Throw,66,69
+0:01,Columbia,Gabe Stefanini,Three Point Jumper,69,69
+0:00,Harvard,None,None,69,69
+4:40,Harvard,Justin Bassey,Turnover,69,69
+4:39,Columbia,Gabe Stefanini,Steal,69,69
+4:35,Columbia,Quinton Adlesh,Three Point Jumper,72,69
+4:16,Columbia,Randy Brumant,Foul,72,69
+4:16,Harvard,Bryce Aiken,Missed Free Throw,72,69
+4:16,Harvard,None,Team Rebound,72,69
+4:16,Harvard,Bryce Aiken,Missed Free Throw,72,69
+4:16,Columbia,Gabe Stefanini,Defensive Rebound,72,69
+4:03,Columbia,Gabe Stefanini,Foul,72,69
+4:03,Columbia,Gabe Stefanini,Turnover,72,69
+3:50,Harvard,Bryce Aiken,Layup,72,71
+3:28,Columbia,Patrick Tape,Layup,74,71
+3:07,Harvard,Bryce Aiken,Missed Layup,74,71
+3:07,Columbia,Patrick Tape,Defensive Rebound,74,71
+2:37,Columbia,Gabe Stefanini,Missed Three Point Jumper,74,71
+2:37,Harvard,Justin Bassey,Defensive Rebound,74,71
+2:20,Harvard,Robert Baker,Missed Three Point Jumper,74,71
+2:20,Columbia,Quinton Adlesh,Defensive Rebound,74,71
+1:46,Columbia,Gabe Stefanini,Three Point Jumper,77,71
+1:37,Harvard,None,None,77,71
+1:37,Harvard,None,None,77,71
+1:30,Harvard,Noah Kirkwood,Turnover,77,71
+0:59,Columbia,Gabe Stefanini,Missed Jumper,77,71
+0:59,Harvard,Robert Baker,Defensive Rebound,77,71
+0:48,Columbia,Randy Brumant,Foul,77,71
+0:48,Harvard,Bryce Aiken,Free Throw,77,72
+0:48,Harvard,Bryce Aiken,Free Throw,77,73
+0:48,Harvard,Bryce Aiken,Free Throw,77,74
+0:20,Columbia,None,None,77,74
+0:17,Columbia,Gabe Stefanini,Missed Jumper,77,74
+0:17,Harvard,Henry Welsh,Defensive Rebound,77,74
+0:11,Columbia,Tai Bibbs,Foul,77,74
+0:11,Harvard,Bryce Aiken,Free Throw,77,75
+0:11,Harvard,Bryce Aiken,Free Throw,77,76
+0:09,Harvard,Robert Baker,Foul,77,76
+0:09,Columbia,Patrick Tape,Free Throw,78,76
+0:09,Columbia,Patrick Tape,Free Throw,79,76
+0:06,Columbia,Tai Bibbs,Foul,79,76
+0:06,Harvard,Bryce Aiken,Free Throw,79,77
+0:06,Harvard,Bryce Aiken,Free Throw,79,78
+0:05,Harvard,Justin Bassey,Foul,79,78
+0:05,Columbia,Gabe Stefanini,Free Throw,80,78
+0:05,Columbia,Gabe Stefanini,Free Throw,81,78
+0:00,Harvard,Bryce Aiken,Three Point Jumper,81,81
+0:00,Harvard,None,None,81,81
+4:41,Harvard,Justin Bassey,Missed Three Point Jumper,81,81
+4:41,Columbia,Tai Bibbs,Defensive Rebound,81,81
+4:14,Columbia,Quinton Adlesh,Missed Three Point Jumper,81,81
+4:14,Harvard,Robert Baker,Defensive Rebound,81,81
+4:02,Harvard,Bryce Aiken,Layup,81,83
+3:43,Columbia,Gabe Stefanini,Missed Layup,81,83
+3:43,Harvard,Robert Baker,Defensive Rebound,81,83
+3:24,Harvard,Bryce Aiken,Missed Layup,81,83
+3:24,Columbia,Gabe Stefanini,Defensive Rebound,81,83
+3:00,Harvard,Robert Baker,Foul,81,83
+3:00,Columbia,Randy Brumant,Missed Free Throw,81,83
+3:00,Columbia,None,Team Rebound,81,83
+3:00,Columbia,Randy Brumant,Missed Free Throw,81,83
+3:00,Harvard,Justin Bassey,Defensive Rebound,81,83
+2:51,Harvard,Bryce Aiken,Layup,81,85
+2:34,Columbia,Gabe Stefanini,Missed Layup,81,85
+2:34,Columbia,Patrick Tape,Offensive Rebound,81,85
+2:32,Harvard,Justin Bassey,Foul,81,85
+2:32,Harvard,None,None,81,85
+2:32,Columbia,Patrick Tape,Missed Free Throw,81,85
+2:32,Columbia,None,Team Rebound,81,85
+2:32,Columbia,Patrick Tape,Free Throw,82,85
+2:09,Harvard,Noah Kirkwood,Turnover,82,85
+1:56,Columbia,Quinton Adlesh,Layup,84,85
+1:33,Harvard,None,None,84,85
+1:24,Harvard,Bryce Aiken,Missed Three Point Jumper,84,85
+1:24,Harvard,Noah Kirkwood,Offensive Rebound,84,85
+1:19,Columbia,Patrick Tape,Foul,84,85
+1:19,Harvard,Noah Kirkwood,Missed Free Throw,84,85
+1:19,Harvard,None,Team Rebound,84,85
+1:19,Harvard,Noah Kirkwood,Missed Free Throw,84,85
+1:19,Columbia,Quinton Adlesh,Defensive Rebound,84,85
+1:06,Columbia,Quinton Adlesh,Missed Three Point Jumper,84,85
+1:06,Columbia,Columbia,Offensive Rebound,84,85
+0:56,Columbia,Gabe Stefanini,Layup,86,85
+0:42,Harvard,Bryce Aiken,Layup,86,87
+0:30,Columbia,Gabe Stefanini,Missed Jumper,86,87
+0:30,Harvard,Christian Juzang,Defensive Rebound,86,87
+0:27,Columbia,Gabe Stefanini,Foul,86,87
+0:27,Harvard,Christian Juzang,Free Throw,86,88
+0:27,Harvard,Christian Juzang,Free Throw,86,89
+0:19,Columbia,Jake Killingsworth,Three Point Jumper,89,89
+0:02,Harvard,Bryce Aiken,Missed Jumper,89,89
+0:02,Columbia,Columbia,Defensive Rebound,89,89
+0:00,Harvard,None,None,89,89
+4:45,Harvard,Justin Bassey,Jumper,89,91
+4:20,Columbia,Gabe Stefanini,Jumper,91,91
+3:45,Harvard,Noah Kirkwood,Foul,91,91
+3:45,Harvard,Noah Kirkwood,Turnover,91,91
+3:32,Columbia,Gabe Stefanini,Missed Layup,91,91
+3:32,Columbia,Quinton Adlesh,Offensive Rebound,91,91
+3:12,Columbia,Gabe Stefanini,Layup,93,91
+2:58,Harvard,Bryce Aiken,Missed Three Point Jumper,93,91
+2:58,Columbia,Gabe Stefanini,Defensive Rebound,93,91
+2:54,Columbia,None,None,93,91
+2:54,Columbia,None,None,93,91
+2:45,Columbia,Jake Killingsworth,Missed Layup,93,91
+2:45,Harvard,Robert Baker,Block,93,91
+2:43,Columbia,Columbia,Offensive Rebound,93,91
+2:33,Columbia,Gabe Stefanini,Missed Layup,93,91
+2:33,Harvard,Justin Bassey,Defensive Rebound,93,91
+2:23,Harvard,Justin Bassey,Layup,93,93
+2:07,Columbia,Quinton Adlesh,Foul,93,93
+2:07,Columbia,Quinton Adlesh,Turnover,93,93
+1:49,Harvard,Bryce Aiken,Missed Layup,93,93
+1:49,Columbia,Tai Bibbs,Block,93,93
+1:46,Columbia,Gabe Stefanini,Defensive Rebound,93,93
+1:29,Columbia,Tai Bibbs,Missed Layup,93,93
+1:29,Harvard,Robert Baker,Defensive Rebound,93,93
+1:08,Harvard,Noah Kirkwood,Three Point Jumper,93,96
+0:50,Harvard,Christian Juzang,Foul,93,96
+0:50,Columbia,Quinton Adlesh,Free Throw,94,96
+0:50,Columbia,Quinton Adlesh,Free Throw,95,96
+0:24,Harvard,Christian Juzang,Missed Layup,95,96
+0:24,Columbia,Randy Brumant,Block,95,96
+0:23,Harvard,Harvard,Offensive Rebound,95,96
+0:21,Harvard,Christian Juzang,Missed Three Point Jumper,95,96
+0:21,Harvard,Justin Bassey,Offensive Rebound,95,96
+0:15,Columbia,Randy Brumant,Foul,95,96
+0:15,Harvard,Bryce Aiken,Free Throw,95,97
+0:15,Harvard,Bryce Aiken,Free Throw,95,98
+0:06,Columbia,Gabe Stefanini,Missed Three Point Jumper,95,98
+0:06,Harvard,Robert Baker,Block,95,98
+0:04,Columbia,Gabe Stefanini,Offensive Rebound,95,98
+0:01,Harvard,Christian Juzang,Foul,95,98
+0:01,Columbia,Quinton Adlesh,Missed Free Throw,95,98
+0:01,Columbia,None,Team Rebound,95,98
+0:01,Columbia,Quinton Adlesh,Free Throw,96,98
+0:01,Columbia,Quinton Adlesh,Turnover,96,98

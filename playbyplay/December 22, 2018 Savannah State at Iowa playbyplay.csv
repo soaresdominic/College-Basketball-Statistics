@@ -1,0 +1,334 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Iowa,None,None,0,0
+19:49,Iowa,Tyler Cook,Missed Layup,0,0
+19:49,Iowa,Tyler Cook,Offensive Rebound,0,0
+19:40,Iowa,Tyler Cook,Layup,0,2
+19:34,Savannah State,Jaquan Dotson,Missed Layup,0,2
+19:34,Iowa,Joe Wieskamp,Defensive Rebound,0,2
+19:25,Iowa,Tyler Cook,Layup,0,4
+19:08,Savannah State,Adam Saeed,Missed Layup,0,4
+19:08,Iowa,Nicholas Baer,Defensive Rebound,0,4
+19:03,Savannah State,Adam Saeed,Foul,0,4
+19:03,Iowa,Joe Wieskamp,Missed Free Throw,0,4
+19:03,Iowa,None,Team Rebound,0,4
+19:03,Iowa,Joe Wieskamp,Free Throw,0,5
+19:01,Savannah State,Zaquavian Smith,Three Point Jumper,3,5
+18:42,Iowa,Isaiah Moss,Turnover,3,5
+18:42,Savannah State,Tyrell Harper,Steal,3,5
+18:25,Savannah State,Adam Saeed,Turnover,3,5
+18:25,Iowa,Nicholas Baer,Steal,3,5
+18:16,Iowa,Joe Wieskamp,Three Point Jumper,3,8
+17:46,Savannah State,Zach Sellers,Jumper,5,8
+17:37,Savannah State,Adam Saeed,Foul,5,8
+17:37,Iowa,Tyler Cook,Free Throw,5,9
+17:37,Iowa,Tyler Cook,Missed Free Throw,5,9
+17:37,Savannah State,Romani Hansen,Defensive Rebound,5,9
+17:31,Savannah State,Zaquavian Smith,Missed Three Point Jumper,5,9
+17:31,Iowa,Isaiah Moss,Defensive Rebound,5,9
+17:23,Iowa,Joe Wieskamp,Missed Three Point Jumper,5,9
+17:23,Iowa,Tyler Cook,Offensive Rebound,5,9
+17:15,Iowa,Isaiah Moss,Three Point Jumper,5,12
+17:05,Savannah State,Zach Sellers,Missed Jumper,5,12
+17:05,Iowa,Joe Wieskamp,Defensive Rebound,5,12
+16:52,Savannah State,Romani Hansen,Foul,5,12
+16:52,Iowa,Tyler Cook,Free Throw,5,13
+16:52,Iowa,Tyler Cook,Missed Free Throw,5,13
+16:52,Savannah State,Tyrell Harper,Defensive Rebound,5,13
+16:40,Savannah State,Romani Hansen,Missed Layup,5,13
+16:40,Iowa,Nicholas Baer,Defensive Rebound,5,13
+16:33,Iowa,Jordan Bohannon,Three Point Jumper,5,16
+16:14,Savannah State,Tyrell Harper,Turnover,5,16
+16:05,Iowa,Jordan Bohannon,Three Point Jumper,5,19
+15:44,Savannah State,Jaquan Dotson,Missed Three Point Jumper,5,19
+15:44,Iowa,Nicholas Baer,Block,5,19
+15:44,Savannah State,Jaquan Dotson,Offensive Rebound,5,19
+15:33,Savannah State,Jaquan Dotson,Layup,7,19
+15:33,Iowa,Isaiah Moss,Foul,7,19
+15:33,Iowa,None,None,7,19
+15:33,Savannah State,Jaquan Dotson,Free Throw,8,19
+15:26,Iowa,Jordan Bohannon,Missed Three Point Jumper,8,19
+15:26,Iowa,Joe Wieskamp,Offensive Rebound,8,19
+15:21,Iowa,Joe Wieskamp,Layup,8,21
+15:21,Savannah State,Jaquan Dotson,Foul,8,21
+15:21,Iowa,Joe Wieskamp,Free Throw,8,22
+15:13,Savannah State,Jaquan Dotson,Turnover,8,22
+15:13,Iowa,Isaiah Moss,Steal,8,22
+15:08,Iowa,Tyler Cook,Foul,8,22
+15:08,Iowa,Tyler Cook,Turnover,8,22
+15:00,Savannah State,John Grant Jr.,Missed Three Point Jumper,8,22
+15:00,Iowa,Nicholas Baer,Defensive Rebound,8,22
+14:44,Iowa,Tyler Cook,Jumper,8,24
+14:29,Savannah State,Jaquan Dotson,Turnover,8,24
+14:23,Iowa,Joe Wieskamp,Layup,8,26
+14:12,Savannah State,Collins Joseph,Turnover,8,26
+14:06,Iowa,Joe Wieskamp,Three Point Jumper,8,29
+13:57,Savannah State,Zach Sellers,Missed Jumper,8,29
+13:57,Iowa,Jordan Bohannon,Defensive Rebound,8,29
+13:45,Iowa,Tyler Cook,Missed Jumper,8,29
+13:45,Savannah State,Romani Hansen,Defensive Rebound,8,29
+13:29,Savannah State,John Grant Jr.,Missed Three Point Jumper,8,29
+13:29,Savannah State,Romani Hansen,Offensive Rebound,8,29
+13:01,Savannah State,Zach Sellers,Three Point Jumper,11,29
+12:44,Iowa,Isaiah Moss,Three Point Jumper,11,32
+12:27,Savannah State,Zach Sellers,Missed Three Point Jumper,11,32
+12:27,Iowa,Tyler Cook,Defensive Rebound,11,32
+12:06,Savannah State,John Grant Jr.,Foul,11,32
+12:06,Iowa,Tyler Cook,Free Throw,11,33
+12:06,Iowa,Tyler Cook,Free Throw,11,34
+11:56,Savannah State,Jaquan Dotson,Turnover,11,34
+11:56,Iowa,Tyler Cook,Steal,11,34
+11:50,Iowa,Tyler Cook,Layup,11,36
+11:30,Savannah State,Collins Joseph,Missed Three Point Jumper,11,36
+11:30,Iowa,Maishe Dailey,Defensive Rebound,11,36
+11:22,Savannah State,Collins Joseph,Foul,11,36
+11:22,Iowa,None,None,11,36
+11:20,Iowa,Ryan Kriener,Missed Layup,11,36
+11:20,Savannah State,Jaquan Dotson,Block,11,36
+11:20,Savannah State,Jaquan Dotson,Defensive Rebound,11,36
+11:01,Savannah State,Romani Hansen,Turnover,11,36
+10:47,Iowa,Tyler Cook,Dunk,11,38
+10:31,Savannah State,Tyrell Harper,Missed Three Point Jumper,11,38
+10:31,Iowa,Ryan Kriener,Defensive Rebound,11,38
+10:26,Savannah State,Romani Hansen,Foul,11,38
+10:26,Iowa,Ryan Kriener,Missed Free Throw,11,38
+10:26,Savannah State,Tyrell Harper,Defensive Rebound,11,38
+10:22,Savannah State,Zaquavian Smith,Missed Three Point Jumper,11,38
+10:22,Iowa,Isaiah Moss,Defensive Rebound,11,38
+10:00,Iowa,Riley Till,Layup,11,40
+9:50,Savannah State,Zach Sellers,Missed Layup,11,40
+9:50,Savannah State,John Grant Jr.,Offensive Rebound,11,40
+9:50,Savannah State,None,None,11,40
+9:50,Iowa,Ryan Kriener,Defensive Rebound,11,40
+9:29,Iowa,Riley Till,Turnover,11,40
+9:22,Savannah State,Zach Sellers,Missed Layup,11,40
+9:22,Savannah State,Jaquan Dotson,Offensive Rebound,11,40
+9:15,Savannah State,Jaquan Dotson,Missed Three Point Jumper,11,40
+9:15,Iowa,Austin Ash,Defensive Rebound,11,40
+9:04,Iowa,Isaiah Moss,Missed Three Point Jumper,11,40
+9:04,Iowa,Iowa,Offensive Rebound,11,40
+8:52,Iowa,Austin Ash,Missed Three Point Jumper,11,40
+8:52,Savannah State,John Grant Jr.,Defensive Rebound,11,40
+8:49,Iowa,Ryan Kriener,Foul,11,40
+8:42,Savannah State,Zach Sellers,Turnover,11,40
+8:42,Iowa,Riley Till,Steal,11,40
+8:34,Iowa,Isaiah Moss,Dunk,11,42
+8:25,Savannah State,Zaquavian Smith,Missed Jumper,11,42
+8:25,Iowa,Riley Till,Defensive Rebound,11,42
+8:16,Iowa,Isaiah Moss,Layup,11,44
+8:12,Savannah State,None,None,11,44
+7:49,Savannah State,Zaquavian Smith,Missed Jumper,11,44
+7:49,Iowa,Ryan Kriener,Defensive Rebound,11,44
+7:36,Iowa,Maishe Dailey,Missed Jumper,11,44
+7:36,Savannah State,Tyrell Harper,Defensive Rebound,11,44
+7:31,Savannah State,Zaquavian Smith,Turnover,11,44
+7:31,Iowa,Ryan Kriener,Steal,11,44
+7:22,Savannah State,Tyrell Harper,Foul,11,44
+7:22,Iowa,Riley Till,Missed Free Throw,11,44
+7:22,Iowa,None,Team Rebound,11,44
+7:22,Iowa,Riley Till,Free Throw,11,45
+7:09,Savannah State,Romani Hansen,Missed Layup,11,45
+7:09,Savannah State,Jaquan Dotson,Offensive Rebound,11,45
+7:04,Savannah State,Tyrell Harper,Layup,13,45
+7:04,Iowa,Ryan Kriener,Foul,13,45
+7:04,Savannah State,Tyrell Harper,Missed Free Throw,13,45
+7:04,Iowa,Maishe Dailey,Defensive Rebound,13,45
+6:55,Iowa,Jordan Bohannon,Missed Three Point Jumper,13,45
+6:55,Savannah State,Savannah State,Defensive Rebound,13,45
+6:31,Savannah State,Zach Sellers,Missed Three Point Jumper,13,45
+6:31,Iowa,Maishe Dailey,Defensive Rebound,13,45
+6:09,Iowa,Austin Ash,Missed Three Point Jumper,13,45
+6:09,Iowa,Ryan Kriener,Offensive Rebound,13,45
+6:03,Iowa,Jordan Bohannon,Missed Three Point Jumper,13,45
+6:03,Savannah State,Jaquan Dotson,Defensive Rebound,13,45
+5:52,Savannah State,Jaquan Dotson,Three Point Jumper,16,45
+5:30,Iowa,Maishe Dailey,Missed Three Point Jumper,16,45
+5:30,Savannah State,Romani Hansen,Defensive Rebound,16,45
+5:06,Iowa,Riley Till,Foul,16,45
+5:05,Savannah State,Jaquan Dotson,Missed Three Point Jumper,16,45
+5:05,Iowa,Riley Till,Defensive Rebound,16,45
+4:44,Iowa,Jordan Bohannon,Three Point Jumper,16,48
+4:34,Savannah State,Collins Joseph,Missed Jumper,16,48
+4:34,Iowa,Maishe Dailey,Defensive Rebound,16,48
+4:26,Iowa,Riley Till,Layup,16,50
+4:06,Savannah State,Romani Hansen,Layup,18,50
+3:50,Iowa,Austin Ash,Three Point Jumper,18,53
+3:40,Savannah State,Jaquan Dotson,Missed Three Point Jumper,18,53
+3:40,Iowa,Nicholas Baer,Defensive Rebound,18,53
+3:35,Savannah State,Romani Hansen,Foul,18,53
+3:35,Iowa,None,None,18,53
+3:35,Iowa,Nicholas Baer,Free Throw,18,54
+3:35,Iowa,Nicholas Baer,Free Throw,18,55
+3:14,Savannah State,Zach Sellers,Three Point Jumper,21,55
+3:01,Iowa,Jordan Bohannon,Three Point Jumper,21,58
+2:41,Savannah State,Zach Sellers,Three Point Jumper,24,58
+2:23,Iowa,Maishe Dailey,Missed Three Point Jumper,24,58
+2:23,Savannah State,Tyrell Harper,Defensive Rebound,24,58
+2:03,Iowa,Nicholas Baer,Foul,24,58
+2:03,Savannah State,Adam Saeed,Missed Free Throw,24,58
+2:03,Savannah State,None,Team Rebound,24,58
+2:03,Savannah State,Adam Saeed,Free Throw,25,58
+1:52,Iowa,Jordan Bohannon,Missed Three Point Jumper,25,58
+1:52,Savannah State,Jaquan Dotson,Defensive Rebound,25,58
+1:42,Savannah State,Jaquan Dotson,Turnover,25,58
+1:31,Iowa,Jordan Bohannon,Missed Three Point Jumper,25,58
+1:31,Savannah State,Jaquan Dotson,Defensive Rebound,25,58
+1:21,Savannah State,Tyrell Harper,Layup,27,58
+1:03,Iowa,Austin Ash,Missed Three Point Jumper,27,58
+1:03,Savannah State,Tyrell Harper,Defensive Rebound,27,58
+0:52,Savannah State,Zach Sellers,Foul,27,58
+0:52,Savannah State,Zach Sellers,Turnover,27,58
+0:43,Iowa,Michael Baer,Turnover,27,58
+0:43,Savannah State,Zaquavian Smith,Steal,27,58
+0:35,Iowa,Jordan Bohannon,Foul,27,58
+0:35,Savannah State,Tyrell Harper,Free Throw,28,58
+0:35,Savannah State,Tyrell Harper,Missed Free Throw,28,58
+0:35,Iowa,Maishe Dailey,Defensive Rebound,28,58
+0:12,Iowa,Nicholas Baer,Missed Jumper,28,58
+0:12,Savannah State,Collins Joseph,Defensive Rebound,28,58
+0:02,Savannah State,Collins Joseph,Missed Three Point Jumper,28,58
+0:02,Iowa,Iowa,Defensive Rebound,28,58
+0:00,Iowa,None,None,28,58
+20:00,Savannah State,None,None,28,58
+19:34,Savannah State,Zach Sellers,Layup,30,58
+19:11,Iowa,Jordan Bohannon,Three Point Jumper,30,61
+18:53,Savannah State,Tyrell Harper,Turnover,30,61
+18:33,Iowa,Joe Wieskamp,Jumper,30,63
+18:33,Savannah State,Jaquan Dotson,Foul,30,63
+18:33,Iowa,Joe Wieskamp,Free Throw,30,64
+18:27,Savannah State,Tyrell Harper,Missed Three Point Jumper,30,64
+18:27,Iowa,Joe Wieskamp,Defensive Rebound,30,64
+18:20,Iowa,Isaiah Moss,Missed Three Point Jumper,30,64
+18:20,Savannah State,Tyrell Harper,Defensive Rebound,30,64
+18:12,Savannah State,Zach Sellers,Missed Three Point Jumper,30,64
+18:12,Savannah State,Zaquavian Smith,Offensive Rebound,30,64
+18:06,Savannah State,Zaquavian Smith,Missed Layup,30,64
+18:06,Iowa,Tyler Cook,Defensive Rebound,30,64
+17:54,Iowa,Jordan Bohannon,Missed Three Point Jumper,30,64
+17:54,Savannah State,Jaquan Dotson,Defensive Rebound,30,64
+17:26,Savannah State,Jaquan Dotson,Missed Three Point Jumper,30,64
+17:26,Iowa,Jordan Bohannon,Defensive Rebound,30,64
+17:18,Iowa,Jordan Bohannon,Three Point Jumper,30,67
+17:06,Savannah State,Zaquavian Smith,Missed Three Point Jumper,30,67
+17:06,Iowa,Isaiah Moss,Block,30,67
+17:06,Iowa,Jordan Bohannon,Defensive Rebound,30,67
+16:58,Iowa,Nicholas Baer,Jumper,30,69
+16:48,Savannah State,None,None,30,69
+16:27,Savannah State,Adam Saeed,Layup,32,69
+16:14,Iowa,Jordan Bohannon,Missed Three Point Jumper,32,69
+16:14,Savannah State,Jaquan Dotson,Defensive Rebound,32,69
+15:55,Savannah State,Zaquavian Smith,Missed Jumper,32,69
+15:55,Iowa,Nicholas Baer,Defensive Rebound,32,69
+15:45,Savannah State,Jaquan Dotson,Foul,32,69
+15:45,Iowa,None,None,32,69
+15:45,Iowa,Isaiah Moss,Free Throw,32,70
+15:45,Iowa,Isaiah Moss,Missed Free Throw,32,70
+15:45,Savannah State,Tyrell Harper,Defensive Rebound,32,70
+15:32,Savannah State,Zach Sellers,Missed Layup,32,70
+15:32,Savannah State,Romani Hansen,Offensive Rebound,32,70
+15:32,Savannah State,None,None,34,70
+15:18,Iowa,Joe Wieskamp,Three Point Jumper,34,73
+14:51,Savannah State,Collins Joseph,Three Point Jumper,37,73
+14:41,Savannah State,None,None,37,73
+14:25,Iowa,Joe Wieskamp,Three Point Jumper,37,76
+13:50,Savannah State,Tyrell Harper,Jumper,39,76
+13:41,Savannah State,Tyrell Harper,Foul,39,76
+13:39,Iowa,Jordan Bohannon,Missed Three Point Jumper,39,76
+13:39,Savannah State,Jaquan Dotson,Defensive Rebound,39,76
+13:28,Savannah State,Collins Joseph,Turnover,39,76
+13:28,Iowa,Joe Wieskamp,Steal,39,76
+13:21,Iowa,Joe Wieskamp,Missed Three Point Jumper,39,76
+13:21,Iowa,Iowa,Offensive Rebound,39,76
+13:15,Iowa,Isaiah Moss,Missed Three Point Jumper,39,76
+13:15,Savannah State,Jaquan Dotson,Defensive Rebound,39,76
+13:15,Savannah State,Tyrell Harper,Missed Layup,39,76
+13:15,Iowa,Ryan Kriener,Defensive Rebound,39,76
+12:59,Iowa,Isaiah Moss,Missed Layup,39,76
+12:59,Iowa,Tyler Cook,Offensive Rebound,39,76
+12:59,Iowa,None,None,39,78
+12:34,Savannah State,Collins Joseph,Three Point Jumper,42,78
+12:02,Savannah State,Adam Saeed,Foul,42,78
+11:51,Iowa,Riley Till,Layup,42,80
+11:51,Savannah State,Tyrell Harper,Foul,42,80
+11:51,Iowa,None,None,42,80
+11:51,Iowa,Riley Till,Free Throw,42,81
+11:43,Iowa,Isaiah Moss,Foul,42,81
+11:40,Savannah State,Tyrell Harper,Missed Three Point Jumper,42,81
+11:40,Iowa,Ryan Kriener,Defensive Rebound,42,81
+11:14,Iowa,Riley Till,Layup,42,83
+10:55,Savannah State,Adam Saeed,Layup,44,83
+10:29,Iowa,Isaiah Moss,Layup,44,85
+10:03,Savannah State,Zaquavian Smith,Missed Three Point Jumper,44,85
+10:03,Iowa,Ryan Kriener,Defensive Rebound,44,85
+9:55,Iowa,Joe Wieskamp,Three Point Jumper,44,88
+9:40,Savannah State,Jaquan Dotson,Missed Three Point Jumper,44,88
+9:40,Iowa,Isaiah Moss,Defensive Rebound,44,88
+9:21,Iowa,Ryan Kriener,Turnover,44,88
+8:56,Savannah State,Romani Hansen,Missed Layup,44,88
+8:56,Savannah State,Jaquan Dotson,Offensive Rebound,44,88
+8:51,Savannah State,Jaquan Dotson,Missed Layup,44,88
+8:51,Iowa,Ryan Kriener,Defensive Rebound,44,88
+8:43,Iowa,Isaiah Moss,Layup,44,90
+8:31,Savannah State,Zach Sellers,Missed Layup,44,90
+8:31,Iowa,Ryan Kriener,Defensive Rebound,44,90
+8:24,Iowa,Maishe Dailey,Missed Three Point Jumper,44,90
+8:24,Iowa,Isaiah Moss,Offensive Rebound,44,90
+8:20,Iowa,Austin Ash,Three Point Jumper,44,93
+8:02,Savannah State,Tyrell Harper,Turnover,44,93
+8:02,Iowa,Austin Ash,Steal,44,93
+7:56,Iowa,Ryan Kriener,Jumper,44,95
+7:25,Iowa,Ryan Kriener,Foul,44,95
+7:25,Iowa,None,None,44,95
+7:10,Savannah State,Zaquavian Smith,Missed Three Point Jumper,44,95
+7:10,Savannah State,Romani Hansen,Offensive Rebound,44,95
+6:57,Savannah State,Romani Hansen,Layup,46,95
+6:49,Iowa,Austin Ash,Missed Jumper,46,95
+6:49,Savannah State,Zach Sellers,Defensive Rebound,46,95
+6:37,Savannah State,Jaquan Dotson,Three Point Jumper,49,95
+6:19,Iowa,Nicolas Hobbs,Three Point Jumper,49,98
+5:59,Savannah State,Tyrell Harper,Turnover,49,98
+5:46,Iowa,Austin Ash,Missed Three Point Jumper,49,98
+5:46,Savannah State,Zach Sellers,Defensive Rebound,49,98
+5:36,Savannah State,Jaquan Dotson,Jumper,51,98
+5:04,Savannah State,Romani Hansen,Foul,51,98
+5:04,Iowa,Maishe Dailey,Missed Free Throw,51,98
+5:04,Iowa,None,Team Rebound,51,98
+5:04,Iowa,Maishe Dailey,Free Throw,51,99
+4:52,Savannah State,Romani Hansen,Jumper,53,99
+4:34,Iowa,Maishe Dailey,Three Point Jumper,53,102
+4:09,Savannah State,Romani Hansen,Layup,55,102
+4:02,Iowa,Nicolas Hobbs,Turnover,55,102
+4:02,Savannah State,Zach Sellers,Steal,55,102
+3:57,Savannah State,Zach Sellers,Dunk,57,102
+3:40,Iowa,Maishe Dailey,Missed Three Point Jumper,57,102
+3:40,Iowa,Riley Till,Offensive Rebound,57,102
+3:35,Iowa,Riley Till,Missed Layup,57,102
+3:35,Savannah State,Romani Hansen,Defensive Rebound,57,102
+3:25,Savannah State,Romani Hansen,Missed Three Point Jumper,57,102
+3:25,Savannah State,Jaquan Dotson,Offensive Rebound,57,102
+3:25,Savannah State,Jaquan Dotson,Dunk,59,102
+2:58,Iowa,None,None,59,102
+2:57,Iowa,Austin Ash,Three Point Jumper,59,105
+2:28,Savannah State,Zach Sellers,Missed Three Point Jumper,59,105
+2:28,Iowa,Nicolas Hobbs,Defensive Rebound,59,105
+2:05,Iowa,Nicolas Hobbs,Missed Three Point Jumper,59,105
+2:05,Savannah State,Jaquan Dotson,Defensive Rebound,59,105
+1:52,Iowa,Riley Till,Foul,59,105
+1:52,Savannah State,Collins Joseph,Free Throw,60,105
+1:52,Savannah State,Collins Joseph,Missed Free Throw,60,105
+1:52,Savannah State,None,Team Rebound,60,105
+1:52,Savannah State,Collins Joseph,Free Throw,61,105
+1:49,Savannah State,Zach Sellers,Foul,61,105
+1:49,Iowa,Riley Till,Missed Free Throw,61,105
+1:49,Iowa,None,Team Rebound,61,105
+1:49,Iowa,Riley Till,Missed Free Throw,61,105
+1:48,Iowa,Michael Baer,Offensive Rebound,61,105
+1:25,Iowa,Nicolas Hobbs,Layup,61,107
+1:19,Savannah State,Collins Joseph,Turnover,61,107
+1:19,Iowa,Riley Till,Steal,61,107
+0:59,Iowa,Austin Ash,Missed Three Point Jumper,61,107
+0:59,Savannah State,Romani Hansen,Defensive Rebound,61,107
+0:50,Savannah State,Jaquan Dotson,Missed Three Point Jumper,61,107
+0:50,Iowa,Michael Baer,Defensive Rebound,61,107
+0:32,Iowa,Michael Baer,Three Point Jumper,61,110
+0:18,Savannah State,Zach Sellers,Three Point Jumper,64,110
+0:00,Iowa,None,None,64,110

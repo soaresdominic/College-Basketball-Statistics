@@ -1,0 +1,336 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:34,Colorado,Shane Gatling,Missed Three Point Jumper,0,0
+19:28,Washington State,Jeff Pollard,Defensive Rebound,0,0
+19:05,Washington State,Marvin Cannon,Missed Three Point Jumper,0,0
+18:59,Colorado,Tyler Bey,Defensive Rebound,0,0
+18:49,Colorado,Shane Gatling,Turnover,0,0
+18:49,Washington State,Ahmed Ali,Steal,0,0
+18:46,Colorado,Shane Gatling,Foul,0,0
+18:46,Washington State,Viont'e Daniels,Free Throw,0,1
+18:46,Washington State,Viont'e Daniels,Free Throw,0,2
+18:21,Colorado,D'Shawn Schwartz,Three Point Jumper,3,2
+18:01,Colorado,Tyler Bey,Foul,3,2
+18:01,Washington State,Marvin Cannon,Free Throw,3,3
+18:01,Washington State,Marvin Cannon,Free Throw,3,4
+17:46,Colorado,Lucas Siewert,Three Point Jumper,6,4
+17:27,Washington State,Jeff Pollard,Jumper,6,6
+17:15,Washington State,Ahmed Ali,Foul,6,6
+17:03,Colorado,Lucas Siewert,Missed Three Point Jumper,6,6
+16:59,Colorado,Tyler Bey,Offensive Rebound,6,6
+16:57,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,6,6
+16:53,Washington State,Viont'e Daniels,Defensive Rebound,6,6
+16:49,Washington State,Ahmed Ali,Three Point Jumper,6,9
+16:27,Colorado,McKinley Wright IV,Jumper,8,9
+16:01,Washington State,Marvin Cannon,Missed Jumper,8,9
+15:59,Colorado,Tyler Bey,Defensive Rebound,8,9
+15:52,Colorado,Lucas Siewert,Foul,8,9
+15:52,Colorado,Lucas Siewert,Turnover,8,9
+15:52,Washington State,None,None,8,9
+15:20,Washington State,Robert Franks,Jumper,8,11
+15:00,Colorado,Evan Battey,Jumper,10,11
+14:34,Washington State,Marvin Cannon,Missed Three Point Jumper,10,11
+14:30,Colorado,Evan Battey,Defensive Rebound,10,11
+14:19,Colorado,McKinley Wright IV,Missed Layup,10,11
+14:19,Washington State,Marvin Cannon,Block,10,11
+14:19,Colorado,Colorado,Offensive Rebound,10,11
+14:04,Colorado,Shane Gatling,Missed Jumper,10,11
+14:00,Washington State,Marvin Cannon,Defensive Rebound,10,11
+13:45,Washington State,Jervae Robinson,Three Point Jumper,10,14
+13:23,Washington State,Isaiah Wade,Foul,10,14
+13:23,Colorado,Tyler Bey,Free Throw,11,14
+13:23,Colorado,Tyler Bey,Missed Free Throw,11,14
+13:21,Washington State,Robert Franks,Defensive Rebound,11,14
+13:12,Colorado,Evan Battey,Foul,11,14
+13:12,Washington State,Robert Franks,Free Throw,11,15
+13:12,Washington State,Robert Franks,Missed Free Throw,11,15
+13:11,Colorado,Colorado,Defensive Rebound,11,15
+12:45,Washington State,Aljaz Kunc,Foul,11,15
+12:31,Colorado,Shane Gatling,Turnover,11,15
+12:31,Washington State,Isaiah Wade,Steal,11,15
+12:24,Colorado,Tyler Bey,Foul,11,15
+12:18,Washington State,Robert Franks,Missed Jumper,11,15
+12:13,Colorado,Daylen Kountz,Defensive Rebound,11,15
+12:00,Washington State,CJ Elleby,Foul,11,15
+12:00,Washington State,None,None,11,15
+11:40,Colorado,D'Shawn Schwartz,Three Point Jumper,14,15
+11:23,Washington State,CJ Elleby,Missed Three Point Jumper,14,15
+11:18,Colorado,Eli Parquet,Defensive Rebound,14,15
+11:15,Colorado,Lucas Siewert,Missed Three Point Jumper,14,15
+11:10,Colorado,Eli Parquet,Offensive Rebound,14,15
+11:08,Colorado,Shane Gatling,Missed Three Point Jumper,14,15
+11:01,Washington State,CJ Elleby,Defensive Rebound,14,15
+10:59,Washington State,CJ Elleby,Turnover,14,15
+10:59,Colorado,Eli Parquet,Steal,14,15
+10:56,Colorado,Eli Parquet,Layup,16,15
+10:56,Washington State,Jervae Robinson,Foul,16,15
+10:56,Colorado,Eli Parquet,Free Throw,17,15
+10:43,Washington State,CJ Elleby,Jumper,17,17
+10:31,Washington State,Ahmed Ali,Foul,17,17
+10:31,Colorado,McKinley Wright IV,Free Throw,18,17
+10:31,Colorado,McKinley Wright IV,Free Throw,19,17
+10:13,Washington State,CJ Elleby,Layup,19,19
+9:58,Colorado,McKinley Wright IV,Jumper,21,19
+9:43,Washington State,CJ Elleby,Three Point Jumper,21,22
+9:21,Colorado,Lucas Siewert,Missed Layup,21,22
+9:21,Washington State,Marvin Cannon,Block,21,22
+9:17,Washington State,Robert Franks,Foul,21,22
+9:17,Washington State,Robert Franks,Turnover,21,22
+9:14,Washington State,Robert Franks,Defensive Rebound,21,22
+8:47,Washington State,Robert Franks,Foul,21,22
+8:47,Colorado,Evan Battey,Missed Free Throw,21,22
+8:47,Colorado,Colorado,Offensive Rebound,21,22
+8:47,Colorado,Evan Battey,Free Throw,22,22
+8:34,Colorado,Lucas Siewert,Foul,22,22
+8:34,Washington State,Robert Franks,Free Throw,22,23
+8:34,Washington State,Robert Franks,Free Throw,22,24
+8:13,Colorado,Daylen Kountz,Missed Jumper,22,24
+8:10,Washington State,CJ Elleby,Defensive Rebound,22,24
+8:07,Washington State,Ahmed Ali,Turnover,22,24
+8:02,Colorado,Daylen Kountz,Dunk,24,24
+8:02,Washington State,None,None,24,24
+7:47,Washington State,CJ Elleby,Missed Jumper,24,24
+7:43,Colorado,D'Shawn Schwartz,Defensive Rebound,24,24
+7:38,Colorado,D'Shawn Schwartz,Foul,24,24
+7:38,Colorado,D'Shawn Schwartz,Turnover,24,24
+7:28,Washington State,CJ Elleby,Foul,24,24
+7:28,Washington State,CJ Elleby,Turnover,24,24
+7:14,Colorado,Alexander Strating,Layup,26,24
+7:03,Washington State,Robert Franks,Missed Three Point Jumper,26,24
+6:57,Colorado,Shane Gatling,Defensive Rebound,26,24
+6:46,Colorado,McKinley Wright IV,Missed Jumper,26,24
+6:43,Washington State,CJ Elleby,Defensive Rebound,26,24
+6:33,Washington State,CJ Elleby,Missed Jumper,26,24
+6:30,Colorado,D'Shawn Schwartz,Defensive Rebound,26,24
+6:24,Colorado,Daylen Kountz,Missed Three Point Jumper,26,24
+6:19,Colorado,McKinley Wright IV,Offensive Rebound,26,24
+6:16,Colorado,McKinley Wright IV,Turnover,26,24
+6:16,Washington State,CJ Elleby,Steal,26,24
+5:56,Washington State,Jervae Robinson,Missed Three Point Jumper,26,24
+5:50,Colorado,Evan Battey,Defensive Rebound,26,24
+5:49,Colorado,Shane Gatling,Three Point Jumper,29,24
+5:30,Washington State,Robert Franks,Missed Jumper,29,24
+5:27,Colorado,McKinley Wright IV,Defensive Rebound,29,24
+4:58,Colorado,Shane Gatling,Missed Three Point Jumper,29,24
+4:55,Washington State,Marvin Cannon,Layup,29,26
+4:55,Colorado,D'Shawn Schwartz,Foul,29,26
+4:55,Washington State,Marvin Cannon,Free Throw,29,27
+4:54,Washington State,Viont'e Daniels,Defensive Rebound,29,27
+4:24,Colorado,Alexander Strating,Turnover,29,27
+4:24,Washington State,Isaiah Wade,Steal,29,27
+4:18,Washington State,Marvin Cannon,Turnover,29,27
+4:18,Colorado,McKinley Wright IV,Steal,29,27
+4:13,Colorado,Evan Battey,Dunk,31,27
+4:04,Washington State,Robert Franks,Three Point Jumper,31,30
+3:42,Colorado,Daylen Kountz,Missed Three Point Jumper,31,30
+3:38,Colorado,Alexander Strating,Offensive Rebound,31,30
+3:38,Colorado,Alexander Strating,Layup,33,30
+3:38,Washington State,Isaiah Wade,Foul,33,30
+3:38,Washington State,None,None,33,30
+3:38,Colorado,Alexander Strating,Missed Free Throw,33,30
+3:36,Washington State,Isaiah Wade,Defensive Rebound,33,30
+3:18,Washington State,Ahmed Ali,Jumper,33,32
+2:58,Colorado,Eli Parquet,Turnover,33,32
+2:58,Washington State,Isaiah Wade,Steal,33,32
+2:48,Washington State,Marvin Cannon,Turnover,33,32
+2:33,Colorado,Shane Gatling,Missed Three Point Jumper,33,32
+2:30,Washington State,Robert Franks,Defensive Rebound,33,32
+2:24,Washington State,Robert Franks,Missed Jumper,33,32
+2:21,Washington State,Isaiah Wade,Offensive Rebound,33,32
+2:20,Colorado,Evan Battey,Foul,33,32
+2:20,Washington State,Isaiah Wade,Missed Free Throw,33,32
+2:20,Washington State,Washington State,Offensive Rebound,33,32
+2:20,Washington State,Isaiah Wade,Free Throw,33,33
+1:58,Colorado,Evan Battey,Missed Jumper,33,33
+1:54,Washington State,Isaiah Wade,Defensive Rebound,33,33
+1:31,Washington State,Ahmed Ali,Missed Layup,33,33
+1:26,Colorado,McKinley Wright IV,Defensive Rebound,33,33
+1:24,Colorado,Shane Gatling,Foul,33,33
+1:24,Colorado,Shane Gatling,Turnover,33,33
+1:07,Washington State,Robert Franks,Missed Jumper,33,33
+1:03,Colorado,McKinley Wright IV,Defensive Rebound,33,33
+0:58,Colorado,Eli Parquet,Missed Dunk,33,33
+0:54,Washington State,Isaiah Wade,Defensive Rebound,33,33
+0:51,Washington State,Robert Franks,Three Point Jumper,33,36
+0:51,Colorado,None,None,33,36
+0:39,Colorado,Shane Gatling,Missed Jumper,33,36
+0:34,Washington State,Isaiah Wade,Defensive Rebound,33,36
+0:05,Washington State,Aljaz Kunc,Jumper,33,38
+0:01,Colorado,McKinley Wright IV,Three Point Jumper,36,38
+0:00,Washington State,None,None,36,38
+19:46,Washington State,Isaiah Wade,Foul,36,38
+19:46,Colorado,Tyler Bey,Free Throw,37,38
+19:46,Colorado,Tyler Bey,Free Throw,38,38
+19:22,Washington State,Ahmed Ali,Three Point Jumper,38,41
+18:58,Washington State,Isaiah Wade,Foul,38,41
+18:58,Colorado,Tyler Bey,Free Throw,39,41
+18:56,Colorado,Tyler Bey,Missed Free Throw,39,41
+18:55,Washington State,Marvin Cannon,Defensive Rebound,39,41
+18:44,Washington State,Marvin Cannon,Three Point Jumper,39,44
+18:26,Colorado,Tyler Bey,Layup,41,44
+18:11,Washington State,Ahmed Ali,Missed Layup,41,44
+18:08,Colorado,Tyler Bey,Defensive Rebound,41,44
+18:03,Colorado,McKinley Wright IV,Missed Three Point Jumper,41,44
+17:56,Colorado,D'Shawn Schwartz,Offensive Rebound,41,44
+17:55,Colorado,D'Shawn Schwartz,Missed Layup,41,44
+17:52,Washington State,Jeff Pollard,Defensive Rebound,41,44
+17:47,Washington State,Ahmed Ali,Three Point Jumper,41,47
+17:21,Colorado,Shane Gatling,Three Point Jumper,44,47
+17:03,Washington State,Robert Franks,Missed Three Point Jumper,44,47
+16:58,Colorado,Tyler Bey,Defensive Rebound,44,47
+16:49,Colorado,Shane Gatling,Three Point Jumper,47,47
+16:28,Colorado,McKinley Wright IV,Foul,47,47
+16:19,Washington State,Robert Franks,Turnover,47,47
+16:19,Colorado,Lucas Siewert,Steal,47,47
+16:13,Colorado,Lucas Siewert,Missed Three Point Jumper,47,47
+16:11,Washington State,Washington State,Defensive Rebound,47,47
+15:53,Washington State,CJ Elleby,Missed Jumper,47,47
+15:53,Colorado,McKinley Wright IV,Defensive Rebound,47,47
+15:53,Washington State,Jeff Pollard,Foul,47,47
+15:53,Washington State,None,None,47,47
+15:34,Colorado,McKinley Wright IV,Missed Jumper,47,47
+15:29,Washington State,Jeff Pollard,Defensive Rebound,47,47
+15:26,Washington State,Viont'e Daniels,Missed Jumper,47,47
+15:26,Colorado,Tyler Bey,Block,47,47
+15:20,Colorado,Tyler Bey,Defensive Rebound,47,47
+15:17,Colorado,Lucas Siewert,Missed Three Point Jumper,47,47
+15:12,Washington State,CJ Elleby,Defensive Rebound,47,47
+15:06,Washington State,Robert Franks,Turnover,47,47
+15:06,Colorado,Lucas Siewert,Steal,47,47
+15:00,Colorado,McKinley Wright IV,Layup,49,47
+14:43,Washington State,CJ Elleby,Missed Layup,49,47
+14:43,Washington State,CJ Elleby,Offensive Rebound,49,47
+14:43,Colorado,D'Shawn Schwartz,Foul,49,47
+14:43,Washington State,CJ Elleby,Free Throw,49,48
+14:43,Washington State,CJ Elleby,Free Throw,49,49
+14:24,Colorado,Shane Gatling,Missed Three Point Jumper,49,49
+14:20,Washington State,Washington State,Defensive Rebound,49,49
+14:08,Colorado,Evan Battey,Foul,49,49
+14:00,Colorado,Tyler Bey,Foul,49,49
+14:00,Washington State,CJ Elleby,Free Throw,49,50
+14:00,Washington State,CJ Elleby,Free Throw,49,51
+13:29,Colorado,Daylen Kountz,Three Point Jumper,52,51
+12:55,Washington State,Robert Franks,Layup,52,53
+12:38,Washington State,Jervae Robinson,Foul,52,53
+12:21,Colorado,McKinley Wright IV,Layup,54,53
+12:05,Washington State,CJ Elleby,Missed Jumper,54,53
+12:03,Colorado,Tyler Bey,Defensive Rebound,54,53
+12:01,Colorado,Daylen Kountz,Dunk,56,53
+12:01,Washington State,Jeff Pollard,Foul,56,53
+12:01,Washington State,None,None,56,53
+12:01,Colorado,Daylen Kountz,Free Throw,57,53
+11:36,Washington State,Robert Franks,Missed Three Point Jumper,57,53
+11:32,Colorado,Tyler Bey,Defensive Rebound,57,53
+11:29,Washington State,Marvin Cannon,Foul,57,53
+11:11,Colorado,Tyler Bey,Layup,59,53
+10:58,Colorado,Daylen Kountz,Foul,59,53
+10:41,Washington State,Robert Franks,Layup,59,55
+10:26,Colorado,Tyler Bey,Missed Jumper,59,55
+10:22,Washington State,CJ Elleby,Defensive Rebound,59,55
+10:19,Washington State,Marvin Cannon,Layup,59,57
+10:02,Colorado,Eli Parquet,Missed Three Point Jumper,59,57
+9:58,Washington State,CJ Elleby,Defensive Rebound,59,57
+9:43,Washington State,Marvin Cannon,Three Point Jumper,59,60
+9:26,Colorado,Lucas Siewert,Missed Three Point Jumper,59,60
+9:22,Colorado,Daylen Kountz,Offensive Rebound,59,60
+9:19,Colorado,Daylen Kountz,Turnover,59,60
+9:19,Washington State,Marvin Cannon,Steal,59,60
+9:05,Colorado,Shane Gatling,Foul,59,60
+8:59,Washington State,Robert Franks,Missed Layup,59,60
+8:59,Colorado,Lucas Siewert,Block,59,60
+8:55,Washington State,Robert Franks,Offensive Rebound,59,60
+8:53,Washington State,Robert Franks,Missed Layup,59,60
+8:50,Colorado,Daylen Kountz,Defensive Rebound,59,60
+8:46,Colorado,Tyler Bey,Missed Layup,59,60
+8:46,Washington State,Marvin Cannon,Block,59,60
+8:41,Washington State,Marvin Cannon,Defensive Rebound,59,60
+8:38,Washington State,CJ Elleby,Missed Three Point Jumper,59,60
+8:34,Colorado,Daylen Kountz,Defensive Rebound,59,60
+8:16,Colorado,Lucas Siewert,Missed Three Point Jumper,59,60
+8:10,Washington State,Aljaz Kunc,Defensive Rebound,59,60
+8:08,Washington State,CJ Elleby,Layup,59,62
+8:08,Colorado,None,None,59,62
+7:54,Colorado,Lucas Siewert,Missed Layup,59,62
+7:54,Washington State,Aljaz Kunc,Block,59,62
+7:52,Colorado,Evan Battey,Offensive Rebound,59,62
+7:52,Washington State,Marvin Cannon,Foul,59,62
+7:52,Washington State,None,None,59,62
+7:52,Colorado,Evan Battey,Free Throw,60,62
+7:52,Colorado,Evan Battey,Free Throw,61,62
+7:29,Washington State,Robert Franks,Missed Layup,61,62
+7:23,Colorado,Evan Battey,Defensive Rebound,61,62
+7:21,Colorado,Shane Gatling,Three Point Jumper,64,62
+6:57,Washington State,CJ Elleby,Three Point Jumper,64,65
+6:34,Colorado,Lucas Siewert,Missed Jumper,64,65
+6:29,Colorado,McKinley Wright IV,Offensive Rebound,64,65
+6:29,Colorado,McKinley Wright IV,Missed Jumper,64,65
+6:29,Colorado,Evan Battey,Offensive Rebound,64,65
+6:29,Washington State,Aljaz Kunc,Foul,64,65
+6:29,Colorado,Evan Battey,Free Throw,65,65
+6:29,Colorado,Evan Battey,Free Throw,66,65
+6:04,Washington State,CJ Elleby,Jumper,66,67
+5:46,Colorado,McKinley Wright IV,Missed Jumper,66,67
+5:42,Washington State,Robert Franks,Defensive Rebound,66,67
+5:42,Washington State,Marvin Cannon,Turnover,66,67
+5:28,Colorado,Tyler Bey,Missed Jumper,66,67
+5:26,Colorado,Tyler Bey,Offensive Rebound,66,67
+5:26,Colorado,D'Shawn Schwartz,Foul,66,67
+5:26,Colorado,D'Shawn Schwartz,Turnover,66,67
+5:08,Washington State,Jeff Pollard,Missed Jumper,66,67
+5:04,Colorado,Tyler Bey,Defensive Rebound,66,67
+5:01,Colorado,Evan Battey,Missed Layup,66,67
+4:58,Colorado,Evan Battey,Offensive Rebound,66,67
+4:56,Colorado,Evan Battey,Layup,68,67
+4:48,Washington State,Jervae Robinson,Layup,68,69
+4:30,Colorado,Evan Battey,Missed Jumper,68,69
+4:30,Washington State,CJ Elleby,Block,68,69
+4:24,Washington State,Robert Franks,Defensive Rebound,68,69
+4:07,Washington State,Robert Franks,Jumper,68,71
+4:07,Washington State,None,None,68,71
+3:45,Colorado,Evan Battey,Jumper,70,71
+3:19,Colorado,Evan Battey,Foul,70,71
+3:19,Washington State,Robert Franks,Free Throw,70,72
+3:19,Washington State,Robert Franks,Free Throw,70,73
+2:57,Colorado,Tyler Bey,Layup,72,73
+2:39,Washington State,Robert Franks,Missed Jumper,72,73
+2:36,Colorado,Evan Battey,Defensive Rebound,72,73
+2:12,Colorado,Shane Gatling,Missed Three Point Jumper,72,73
+2:10,Washington State,Washington State,Defensive Rebound,72,73
+1:57,Washington State,Jervae Robinson,Turnover,72,73
+1:57,Colorado,Shane Gatling,Steal,72,73
+1:51,Colorado,Shane Gatling,Turnover,72,73
+1:51,Washington State,Jervae Robinson,Steal,72,73
+1:51,Washington State,Jervae Robinson,Turnover,72,73
+1:51,Colorado,Tyler Bey,Steal,72,73
+1:51,Washington State,Jervae Robinson,Foul,72,73
+1:51,Colorado,Tyler Bey,Free Throw,73,73
+1:51,Colorado,Tyler Bey,Free Throw,74,73
+1:32,Washington State,Robert Franks,Missed Three Point Jumper,74,73
+1:28,Washington State,Isaiah Wade,Offensive Rebound,74,73
+1:26,Washington State,Isaiah Wade,Missed Layup,74,73
+1:24,Washington State,Marvin Cannon,Offensive Rebound,74,73
+1:24,Washington State,Marvin Cannon,Missed Layup,74,73
+1:24,Washington State,Isaiah Wade,Offensive Rebound,74,73
+1:24,Washington State,Isaiah Wade,Layup,74,75
+1:24,Colorado,None,None,74,75
+1:07,Colorado,Shane Gatling,Missed Jumper,74,75
+1:03,Colorado,McKinley Wright IV,Offensive Rebound,74,75
+0:49,Colorado,D'Shawn Schwartz,Missed Jumper,74,75
+0:46,Washington State,CJ Elleby,Defensive Rebound,74,75
+0:20,Washington State,Robert Franks,Missed Jumper,74,75
+0:17,Colorado,Tyler Bey,Defensive Rebound,74,75
+0:10,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,74,75
+0:10,Washington State,Isaiah Wade,Defensive Rebound,74,75
+0:10,Colorado,Evan Battey,Foul,74,75
+0:10,Colorado,None,None,74,75
+0:10,Washington State,Isaiah Wade,Free Throw,74,76
+0:10,Washington State,Isaiah Wade,Missed Free Throw,74,76
+0:09,Colorado,Tyler Bey,Defensive Rebound,74,76
+0:05,Colorado,McKinley Wright IV,Missed Three Point Jumper,74,76
+0:00,Washington State,Marvin Cannon,Defensive Rebound,74,76
+0:00,Washington State,Marvin Cannon,Turnover,74,76
+0:00,Colorado,McKinley Wright IV,Steal,74,76
+0:00,Colorado,None,None,74,76
+0:00,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,74,76
+0:00,Washington State,Washington State,Defensive Rebound,74,76
+0:00,Washington State,None,None,74,76
+0:00,Washington State,None,None,74,76

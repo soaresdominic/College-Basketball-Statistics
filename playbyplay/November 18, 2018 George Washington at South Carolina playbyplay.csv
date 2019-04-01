@@ -1,0 +1,365 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,South Carolina,None,None,0,0
+19:47,South Carolina,Maik Kotsar,Jumper,0,2
+19:08,George Washington,Arnaldo Toro,Foul,0,2
+19:08,George Washington,Arnaldo Toro,Turnover,0,2
+18:52,South Carolina,Tre Campbell,Three Point Jumper,0,5
+18:33,George Washington,DJ Williams,Missed Layup,0,5
+18:33,South Carolina,A.J. Lawson,Defensive Rebound,0,5
+18:27,George Washington,Terry Nolan Jr.,Foul,0,5
+18:27,South Carolina,A.J. Lawson,Free Throw,0,6
+18:27,South Carolina,A.J. Lawson,Free Throw,0,7
+18:10,George Washington,DJ Williams,Turnover,0,7
+18:10,South Carolina,Tre Campbell,Steal,0,7
+18:01,South Carolina,Justin Minaya,Three Point Jumper,0,10
+17:42,George Washington,Arnaldo Toro,Missed Jumper,0,10
+17:42,South Carolina,Justin Minaya,Defensive Rebound,0,10
+17:21,South Carolina,Maik Kotsar,Missed Jumper,0,10
+17:21,George Washington,Arnaldo Toro,Defensive Rebound,0,10
+17:14,George Washington,Justin Mazzulla,Missed Layup,0,10
+17:14,South Carolina,Justin Minaya,Block,0,10
+17:14,South Carolina,South Carolina,Defensive Rebound,0,10
+16:59,South Carolina,Chris Silva,Jumper,0,12
+16:55,George Washington,None,None,0,12
+16:47,George Washington,Terry Nolan Jr.,Missed Three Point Jumper,0,12
+16:47,South Carolina,Tre Campbell,Defensive Rebound,0,12
+16:32,South Carolina,Tre Campbell,Three Point Jumper,0,15
+16:11,George Washington,Armel Potter,Missed Three Point Jumper,0,15
+16:11,South Carolina,Chris Silva,Defensive Rebound,0,15
+16:01,South Carolina,Maik Kotsar,Missed Jumper,0,15
+16:01,George Washington,DJ Williams,Defensive Rebound,0,15
+15:52,George Washington,DJ Williams,Missed Jumper,0,15
+15:52,South Carolina,Chris Silva,Defensive Rebound,0,15
+15:45,South Carolina,Tre Campbell,Three Point Jumper,0,18
+15:29,George Washington,Armel Potter,Layup,2,18
+15:15,South Carolina,Maik Kotsar,Layup,2,20
+14:58,George Washington,DJ Williams,Missed Three Point Jumper,2,20
+14:58,South Carolina,Chris Silva,Defensive Rebound,2,20
+14:45,George Washington,Justin Mazzulla,Foul,2,20
+14:45,South Carolina,A.J. Lawson,Missed Free Throw,2,20
+14:45,South Carolina,None,Team Rebound,2,20
+14:45,South Carolina,A.J. Lawson,Missed Free Throw,2,20
+14:45,George Washington,George Washington,Defensive Rebound,2,20
+14:15,South Carolina,Hassani Gravett,Foul,2,20
+14:15,George Washington,Mezie Offurum,Missed Free Throw,2,20
+14:15,George Washington,None,Team Rebound,2,20
+14:15,George Washington,Mezie Offurum,Free Throw,3,20
+13:59,South Carolina,A.J. Lawson,Layup,3,22
+13:36,George Washington,Maceo Jack,Three Point Jumper,6,22
+13:22,South Carolina,Keyshawn Bryant,Missed Jumper,6,22
+13:22,South Carolina,South Carolina,Offensive Rebound,6,22
+13:15,South Carolina,Maik Kotsar,Missed Jumper,6,22
+13:15,George Washington,Mezie Offurum,Defensive Rebound,6,22
+13:01,George Washington,Maceo Jack,Missed Three Point Jumper,6,22
+13:01,South Carolina,Hassani Gravett,Defensive Rebound,6,22
+12:48,South Carolina,Keyshawn Bryant,Missed Jumper,6,22
+12:48,George Washington,DJ Williams,Defensive Rebound,6,22
+12:29,George Washington,Maceo Jack,Missed Layup,6,22
+12:29,George Washington,DJ Williams,Offensive Rebound,6,22
+12:21,George Washington,Maceo Jack,Missed Three Point Jumper,6,22
+12:21,South Carolina,Felipe Haase,Defensive Rebound,6,22
+12:15,South Carolina,Maik Kotsar,Missed Layup,6,22
+12:15,George Washington,Maceo Jack,Block,6,22
+12:15,George Washington,DJ Williams,Defensive Rebound,6,22
+12:00,George Washington,Arnaldo Toro,Foul,6,22
+12:00,George Washington,Arnaldo Toro,Turnover,6,22
+12:00,South Carolina,None,None,6,22
+11:49,South Carolina,Tre Campbell,Missed Jumper,6,22
+11:49,George Washington,Justin Mazzulla,Defensive Rebound,6,22
+11:42,South Carolina,Felipe Haase,Foul,6,22
+11:29,George Washington,Mezie Offurum,Foul,6,22
+11:29,George Washington,Mezie Offurum,Turnover,6,22
+11:18,South Carolina,Felipe Haase,Turnover,6,22
+11:18,George Washington,Javier Langarica,Steal,6,22
+11:08,George Washington,Terry Nolan Jr.,Missed Three Point Jumper,6,22
+11:08,George Washington,George Washington,Offensive Rebound,6,22
+10:49,George Washington,Javier Langarica,Missed Jumper,6,22
+10:49,South Carolina,South Carolina,Defensive Rebound,6,22
+10:37,South Carolina,Keyshawn Bryant,Missed Layup,6,22
+10:37,South Carolina,Keyshawn Bryant,Offensive Rebound,6,22
+10:37,South Carolina,None,None,6,24
+10:24,George Washington,Armel Potter,Turnover,6,24
+10:24,South Carolina,Tre Campbell,Steal,6,24
+10:20,South Carolina,Keyshawn Bryant,Dunk,6,26
+10:01,George Washington,Mezie Offurum,Turnover,6,26
+10:01,South Carolina,Maik Kotsar,Steal,6,26
+9:47,South Carolina,Chris Silva,Layup,6,28
+9:47,George Washington,Javier Langarica,Foul,6,28
+9:47,South Carolina,Chris Silva,Free Throw,6,29
+9:32,George Washington,Marcus Littles,Missed Layup,6,29
+9:32,South Carolina,Chris Silva,Block,6,29
+9:32,South Carolina,Chris Silva,Defensive Rebound,6,29
+9:21,South Carolina,Chris Silva,Three Point Jumper,6,32
+9:01,George Washington,DJ Williams,Turnover,6,32
+9:01,South Carolina,Maik Kotsar,Steal,6,32
+8:56,South Carolina,T.J. Moss,Three Point Jumper,6,35
+8:53,George Washington,None,None,6,35
+8:23,George Washington,Terry Nolan Jr.,Missed Jumper,6,35
+8:23,South Carolina,T.J. Moss,Defensive Rebound,6,35
+8:21,George Washington,Terry Nolan Jr.,Foul,6,35
+8:21,South Carolina,T.J. Moss,Free Throw,6,36
+8:21,South Carolina,T.J. Moss,Free Throw,6,37
+8:06,George Washington,Shandon Brown,Missed Three Point Jumper,6,37
+8:06,South Carolina,Maik Kotsar,Defensive Rebound,6,37
+7:56,South Carolina,A.J. Lawson,Three Point Jumper,6,40
+7:36,South Carolina,T.J. Moss,Foul,6,40
+7:36,George Washington,None,None,6,40
+7:36,George Washington,Maceo Jack,Missed Three Point Jumper,6,40
+7:36,George Washington,Javier Langarica,Offensive Rebound,6,40
+7:34,George Washington,Javier Langarica,Layup,8,40
+7:09,George Washington,Javier Langarica,Foul,8,40
+7:09,South Carolina,Maik Kotsar,Missed Free Throw,8,40
+7:09,South Carolina,South Carolina,Offensive Rebound,8,40
+6:48,South Carolina,Justin Minaya,Missed Three Point Jumper,8,40
+6:48,South Carolina,Chris Silva,Offensive Rebound,8,40
+6:44,George Washington,Justin Mazzulla,Foul,8,40
+6:44,South Carolina,Chris Silva,Free Throw,8,41
+6:44,South Carolina,Chris Silva,Free Throw,8,42
+6:24,George Washington,Justin Williams,Missed Layup,8,42
+6:24,South Carolina,Maik Kotsar,Defensive Rebound,8,42
+6:24,South Carolina,A.J. Lawson,Turnover,8,42
+6:24,George Washington,Arnaldo Toro,Steal,8,42
+5:54,George Washington,Arnaldo Toro,Missed Jumper,8,42
+5:54,South Carolina,A.J. Lawson,Defensive Rebound,8,42
+5:48,South Carolina,Maik Kotsar,Dunk,8,44
+5:37,George Washington,DJ Williams,Missed Jumper,8,44
+5:37,South Carolina,Justin Minaya,Defensive Rebound,8,44
+5:20,South Carolina,T.J. Moss,Three Point Jumper,8,47
+4:50,George Washington,Mezie Offurum,Turnover,8,47
+4:32,South Carolina,Felipe Haase,Layup,8,49
+4:17,George Washington,Arnaldo Toro,Turnover,8,49
+4:01,South Carolina,Hassani Gravett,Missed Three Point Jumper,8,49
+4:01,George Washington,George Washington,Defensive Rebound,8,49
+3:58,South Carolina,None,None,8,49
+3:57,South Carolina,None,None,8,49
+3:49,South Carolina,Keyshawn Bryant,Foul,8,49
+3:38,George Washington,Justin Mazzulla,Layup,10,49
+3:27,South Carolina,Keyshawn Bryant,Jumper,10,51
+3:17,George Washington,DJ Williams,Missed Three Point Jumper,10,51
+3:15,George Washington,George Washington,Offensive Rebound,10,51
+3:15,South Carolina,Felipe Haase,Foul,10,51
+3:08,South Carolina,Chris Silva,Foul,10,51
+2:56,George Washington,Terry Nolan Jr.,Turnover,10,51
+2:48,South Carolina,Keyshawn Bryant,Foul,10,51
+2:48,South Carolina,Keyshawn Bryant,Turnover,10,51
+2:35,South Carolina,Maik Kotsar,Foul,10,51
+2:35,George Washington,DJ Williams,Free Throw,11,51
+2:35,George Washington,DJ Williams,Free Throw,12,51
+2:28,South Carolina,Maik Kotsar,Turnover,12,51
+2:28,George Washington,Arnaldo Toro,Steal,12,51
+2:14,South Carolina,Justin Minaya,Foul,12,51
+2:14,George Washington,Arnaldo Toro,Free Throw,13,51
+2:14,George Washington,Arnaldo Toro,Free Throw,14,51
+1:56,South Carolina,A.J. Lawson,Three Point Jumper,14,54
+1:41,George Washington,Terry Nolan Jr.,Missed Three Point Jumper,14,54
+1:41,George Washington,DJ Williams,Offensive Rebound,14,54
+1:36,George Washington,DJ Williams,Missed Layup,14,54
+1:36,South Carolina,Chris Silva,Defensive Rebound,14,54
+1:26,South Carolina,Maik Kotsar,Layup,14,56
+1:00,South Carolina,Maik Kotsar,Foul,14,56
+1:00,George Washington,DJ Williams,Free Throw,15,56
+1:00,George Washington,DJ Williams,Free Throw,16,56
+0:45,South Carolina,Chris Silva,Missed Jumper,16,56
+0:45,George Washington,Terry Nolan Jr.,Defensive Rebound,16,56
+0:31,South Carolina,Keyshawn Bryant,Foul,16,56
+0:31,George Washington,Arnaldo Toro,Free Throw,17,56
+0:31,George Washington,Arnaldo Toro,Free Throw,18,56
+0:19,South Carolina,A.J. Lawson,Turnover,18,56
+0:19,George Washington,Arnaldo Toro,Steal,18,56
+0:03,George Washington,Armel Potter,Missed Three Point Jumper,18,56
+0:03,South Carolina,South Carolina,Defensive Rebound,18,56
+0:01,South Carolina,T.J. Moss,Turnover,18,56
+0:00,South Carolina,None,None,18,56
+20:00,George Washington,None,None,18,56
+19:51,George Washington,Terry Nolan Jr.,Missed Jumper,18,56
+19:51,South Carolina,Chris Silva,Defensive Rebound,18,56
+19:41,South Carolina,Justin Minaya,Missed Jumper,18,56
+19:41,South Carolina,Justin Minaya,Offensive Rebound,18,56
+19:33,South Carolina,Justin Minaya,Missed Jumper,18,56
+19:33,George Washington,Justin Mazzulla,Defensive Rebound,18,56
+19:23,George Washington,DJ Williams,Layup,20,56
+19:14,South Carolina,Maik Kotsar,Missed Layup,20,56
+19:14,George Washington,Justin Mazzulla,Defensive Rebound,20,56
+19:01,George Washington,Justin Mazzulla,Missed Three Point Jumper,20,56
+19:01,George Washington,DJ Williams,Offensive Rebound,20,56
+18:55,South Carolina,Justin Minaya,Foul,20,56
+18:55,George Washington,DJ Williams,Missed Free Throw,20,56
+18:55,George Washington,None,Team Rebound,20,56
+18:55,George Washington,DJ Williams,Free Throw,21,56
+18:35,South Carolina,Chris Silva,Missed Jumper,21,56
+18:35,George Washington,Arnaldo Toro,Defensive Rebound,21,56
+18:22,George Washington,Arnaldo Toro,Layup,23,56
+18:13,South Carolina,Tre Campbell,Missed Three Point Jumper,23,56
+18:13,George Washington,Arnaldo Toro,Defensive Rebound,23,56
+18:02,George Washington,Justin Mazzulla,Missed Jumper,23,56
+18:02,South Carolina,Justin Minaya,Defensive Rebound,23,56
+17:47,South Carolina,A.J. Lawson,Missed Three Point Jumper,23,56
+17:47,South Carolina,Chris Silva,Offensive Rebound,23,56
+17:35,South Carolina,Chris Silva,Layup,23,58
+17:22,South Carolina,A.J. Lawson,Foul,23,58
+17:09,George Washington,Justin Mazzulla,Missed Three Point Jumper,23,58
+17:09,South Carolina,Justin Minaya,Defensive Rebound,23,58
+16:53,South Carolina,Chris Silva,Jumper,23,60
+16:45,George Washington,Armel Potter,Turnover,23,60
+16:33,South Carolina,Felipe Haase,Missed Jumper,23,60
+16:33,George Washington,Arnaldo Toro,Defensive Rebound,23,60
+16:20,South Carolina,Keyshawn Bryant,Foul,23,60
+16:10,George Washington,DJ Williams,Missed Three Point Jumper,23,60
+16:10,George Washington,Armel Potter,Offensive Rebound,23,60
+15:59,George Washington,Armel Potter,Missed Three Point Jumper,23,60
+15:59,South Carolina,Keyshawn Bryant,Defensive Rebound,23,60
+15:49,South Carolina,Hassani Gravett,Turnover,23,60
+15:49,George Washington,Armel Potter,Steal,23,60
+15:45,George Washington,Terry Nolan Jr.,Layup,25,60
+15:30,South Carolina,Justin Minaya,Foul,25,60
+15:30,South Carolina,Justin Minaya,Turnover,25,60
+15:30,South Carolina,None,None,25,60
+15:15,South Carolina,Chris Silva,Foul,25,60
+15:15,George Washington,DJ Williams,Layup,27,60
+15:15,George Washington,DJ Williams,Missed Free Throw,27,60
+15:15,South Carolina,A.J. Lawson,Defensive Rebound,27,60
+15:07,South Carolina,Felipe Haase,Missed Jumper,27,60
+15:07,South Carolina,Chris Silva,Offensive Rebound,27,60
+15:02,South Carolina,Chris Silva,Missed Jumper,27,60
+15:02,George Washington,Justin Mazzulla,Defensive Rebound,27,60
+14:45,George Washington,Terry Nolan Jr.,Turnover,27,60
+14:45,George Washington,Terry Nolan Jr.,Foul,27,60
+14:29,South Carolina,A.J. Lawson,Missed Layup,27,60
+14:29,South Carolina,A.J. Lawson,Offensive Rebound,27,60
+14:27,George Washington,Arnaldo Toro,Foul,27,60
+14:27,South Carolina,A.J. Lawson,Free Throw,27,61
+14:27,South Carolina,A.J. Lawson,Missed Free Throw,27,61
+14:27,South Carolina,A.J. Lawson,Offensive Rebound,27,61
+14:27,South Carolina,Hassani Gravett,Missed Three Point Jumper,27,61
+14:27,South Carolina,South Carolina,Offensive Rebound,27,61
+14:23,George Washington,Arnaldo Toro,Foul,27,61
+14:13,South Carolina,A.J. Lawson,Jumper,27,63
+13:51,George Washington,Javier Langarica,Missed Jumper,27,63
+13:51,George Washington,Maceo Jack,Offensive Rebound,27,63
+13:47,South Carolina,A.J. Lawson,Foul,27,63
+13:47,George Washington,Maceo Jack,Free Throw,28,63
+13:47,George Washington,Maceo Jack,Free Throw,29,63
+13:29,South Carolina,Chris Silva,Layup,29,65
+13:08,George Washington,Mezie Offurum,Turnover,29,65
+13:08,South Carolina,T.J. Moss,Steal,29,65
+13:02,South Carolina,T.J. Moss,Foul,29,65
+13:02,South Carolina,T.J. Moss,Turnover,29,65
+12:53,George Washington,Maceo Jack,Missed Three Point Jumper,29,65
+12:53,South Carolina,A.J. Lawson,Defensive Rebound,29,65
+12:44,South Carolina,Hassani Gravett,Missed Three Point Jumper,29,65
+12:44,South Carolina,South Carolina,Offensive Rebound,29,65
+12:35,South Carolina,Hassani Gravett,Missed Jumper,29,65
+12:35,South Carolina,South Carolina,Offensive Rebound,29,65
+12:23,South Carolina,Felipe Haase,Missed Three Point Jumper,29,65
+12:23,George Washington,Shandon Brown,Defensive Rebound,29,65
+12:11,George Washington,Javier Langarica,Missed Three Point Jumper,29,65
+12:11,South Carolina,South Carolina,Defensive Rebound,29,65
+11:43,South Carolina,Felipe Haase,Missed Jumper,29,65
+11:43,South Carolina,South Carolina,Offensive Rebound,29,65
+11:43,George Washington,Javier Langarica,Foul,29,65
+11:43,South Carolina,None,None,29,65
+11:43,South Carolina,Chris Silva,Missed Free Throw,29,65
+11:43,South Carolina,None,Team Rebound,29,65
+11:43,South Carolina,Chris Silva,Free Throw,29,66
+11:35,South Carolina,Felipe Haase,Three Point Jumper,29,69
+11:22,George Washington,Justin Mazzulla,Foul,29,69
+11:22,George Washington,Justin Mazzulla,Turnover,29,69
+11:11,South Carolina,T.J. Moss,Missed Three Point Jumper,29,69
+11:11,George Washington,Maceo Jack,Defensive Rebound,29,69
+11:02,George Washington,Maceo Jack,Turnover,29,69
+11:02,South Carolina,Maik Kotsar,Steal,29,69
+11:01,South Carolina,T.J. Moss,Turnover,29,69
+10:32,South Carolina,Maik Kotsar,Foul,29,69
+10:32,George Washington,DJ Williams,Missed Free Throw,29,69
+10:32,George Washington,None,Team Rebound,29,69
+10:32,George Washington,DJ Williams,Free Throw,30,69
+10:15,South Carolina,Maik Kotsar,Missed Jumper,30,69
+10:15,South Carolina,Felipe Haase,Offensive Rebound,30,69
+9:56,South Carolina,Maik Kotsar,Jumper,30,71
+9:36,George Washington,DJ Williams,Missed Jumper,30,71
+9:36,South Carolina,Felipe Haase,Defensive Rebound,30,71
+9:31,South Carolina,T.J. Moss,Turnover,30,71
+9:23,George Washington,Terry Nolan Jr.,Missed Layup,30,71
+9:23,South Carolina,T.J. Moss,Defensive Rebound,30,71
+9:13,South Carolina,A.J. Lawson,Foul,30,71
+9:13,South Carolina,A.J. Lawson,Turnover,30,71
+9:03,George Washington,Terry Nolan Jr.,Three Point Jumper,33,71
+8:50,South Carolina,Felipe Haase,Three Point Jumper,33,74
+8:38,George Washington,Terry Nolan Jr.,Three Point Jumper,36,74
+8:16,South Carolina,Tre Campbell,Missed Three Point Jumper,36,74
+8:16,George Washington,DJ Williams,Defensive Rebound,36,74
+8:06,George Washington,Terry Nolan Jr.,Three Point Jumper,39,74
+7:45,South Carolina,Tre Campbell,Missed Jumper,39,74
+7:45,George Washington,Terry Nolan Jr.,Defensive Rebound,39,74
+7:34,George Washington,Marcus Littles,Missed Jumper,39,74
+7:34,South Carolina,A.J. Lawson,Defensive Rebound,39,74
+7:26,South Carolina,T.J. Moss,Three Point Jumper,39,77
+7:07,George Washington,Terry Nolan Jr.,Missed Three Point Jumper,39,77
+7:07,South Carolina,A.J. Lawson,Defensive Rebound,39,77
+7:01,South Carolina,A.J. Lawson,Layup,39,79
+6:47,South Carolina,Maik Kotsar,Foul,39,79
+6:47,South Carolina,None,None,39,79
+6:47,George Washington,DJ Williams,Missed Free Throw,39,79
+6:47,George Washington,None,Team Rebound,39,79
+6:47,George Washington,DJ Williams,Free Throw,40,79
+6:24,South Carolina,Keyshawn Bryant,Missed Jumper,40,79
+6:24,George Washington,Terry Nolan Jr.,Defensive Rebound,40,79
+6:05,George Washington,Terry Nolan Jr.,Missed Three Point Jumper,40,79
+6:05,South Carolina,Chris Silva,Defensive Rebound,40,79
+5:54,South Carolina,T.J. Moss,Missed Jumper,40,79
+5:54,George Washington,DJ Williams,Defensive Rebound,40,79
+5:46,George Washington,Terry Nolan Jr.,Layup,42,79
+5:36,South Carolina,T.J. Moss,Turnover,42,79
+5:36,George Washington,Shandon Brown,Steal,42,79
+5:31,South Carolina,T.J. Moss,Foul,42,79
+5:31,George Washington,DJ Williams,Missed Free Throw,42,79
+5:31,George Washington,None,Team Rebound,42,79
+5:31,George Washington,DJ Williams,Free Throw,43,79
+5:18,George Washington,DJ Williams,Missed Layup,43,79
+5:18,South Carolina,Chris Silva,Block,43,79
+5:18,South Carolina,Keyshawn Bryant,Defensive Rebound,43,79
+5:08,South Carolina,Chris Silva,Foul,43,79
+5:08,South Carolina,Chris Silva,Turnover,43,79
+4:53,George Washington,Marcus Littles,Layup,45,79
+4:45,South Carolina,Chris Silva,Three Point Jumper,45,82
+4:31,George Washington,Adam Mitola,Missed Three Point Jumper,45,82
+4:31,South Carolina,Justin Minaya,Defensive Rebound,45,82
+4:23,South Carolina,Hassani Gravett,Missed Three Point Jumper,45,82
+4:23,George Washington,DJ Williams,Defensive Rebound,45,82
+4:09,George Washington,Maceo Jack,Missed Three Point Jumper,45,82
+4:09,South Carolina,South Carolina,Defensive Rebound,45,82
+3:58,George Washington,Shandon Brown,Foul,45,82
+3:58,South Carolina,None,None,45,82
+3:58,South Carolina,A.J. Lawson,Missed Free Throw,45,82
+3:58,George Washington,Marcus Littles,Defensive Rebound,45,82
+3:32,South Carolina,Justin Minaya,Foul,45,82
+3:32,George Washington,Shandon Brown,Free Throw,46,82
+3:32,George Washington,Shandon Brown,Free Throw,47,82
+3:18,South Carolina,A.J. Lawson,Layup,47,84
+3:04,George Washington,Mezie Offurum,Turnover,47,84
+3:04,South Carolina,Felipe Haase,Steal,47,84
+2:57,South Carolina,Hassani Gravett,Foul,47,84
+2:57,South Carolina,Hassani Gravett,Turnover,47,84
+2:37,George Washington,Shandon Brown,Missed Three Point Jumper,47,84
+2:37,South Carolina,Keyshawn Bryant,Defensive Rebound,47,84
+2:30,South Carolina,A.J. Lawson,Dunk,47,86
+2:19,George Washington,Justin Williams,Jumper,49,86
+2:05,South Carolina,Keyshawn Bryant,Missed Three Point Jumper,49,86
+2:05,George Washington,Justin Williams,Defensive Rebound,49,86
+1:53,George Washington,Adam Mitola,Three Point Jumper,52,86
+1:46,South Carolina,None,None,52,86
+1:40,South Carolina,Felipe Haase,Missed Three Point Jumper,52,86
+1:40,South Carolina,Justin Minaya,Offensive Rebound,52,86
+1:22,South Carolina,Keyshawn Bryant,Jumper,52,88
+0:56,George Washington,Shandon Brown,Missed Layup,52,88
+0:56,South Carolina,Justin Minaya,Foul,52,88
+0:56,George Washington,George Washington,Offensive Rebound,52,88
+0:56,George Washington,Marcus Littles,Free Throw,53,88
+0:56,George Washington,Marcus Littles,Missed Free Throw,53,88
+0:56,South Carolina,A.J. Lawson,Defensive Rebound,53,88
+0:45,South Carolina,Maik Kotsar,Layup,53,90
+0:45,George Washington,Justin Williams,Foul,53,90
+0:45,South Carolina,Maik Kotsar,Missed Free Throw,53,90
+0:45,George Washington,Justin Williams,Defensive Rebound,53,90
+0:32,George Washington,Marcus Littles,Layup,55,90
+0:00,South Carolina,None,None,55,90

@@ -1,0 +1,330 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Arizona,None,None,0,0
+19:49,Arizona,Dylan Smith,Missed Three Point Jumper,0,0
+19:49,USC,Jonah Mathews,Defensive Rebound,0,0
+19:33,USC,Bennie Boatwright,Missed Jumper,0,0
+19:33,Arizona,Dylan Smith,Defensive Rebound,0,0
+19:17,Arizona,Ryan Luther,Jumper,2,0
+18:52,USC,Elijah Weaver,Missed Jumper,2,0
+18:52,Arizona,Dylan Smith,Block,2,0
+18:52,Arizona,Ira Lee,Defensive Rebound,2,0
+18:40,Arizona,Justin Coleman,Three Point Jumper,5,0
+18:27,USC,Shaqquan Aaron,Jumper,5,2
+18:07,Arizona,Brandon Williams,Three Point Jumper,8,2
+17:55,USC,Bennie Boatwright,Missed Three Point Jumper,8,2
+17:55,Arizona,Brandon Williams,Defensive Rebound,8,2
+17:49,Arizona,Justin Coleman,Missed Three Point Jumper,8,2
+17:49,USC,Bennie Boatwright,Defensive Rebound,8,2
+17:34,USC,Elijah Weaver,Three Point Jumper,8,5
+17:15,Arizona,Ryan Luther,Missed Jumper,8,5
+17:15,USC,Shaqquan Aaron,Defensive Rebound,8,5
+17:01,USC,Nick Rakocevic,Missed Layup,8,5
+17:01,Arizona,Ira Lee,Defensive Rebound,8,5
+16:51,USC,Kevin Porter Jr.,Foul,8,5
+16:51,Arizona,Brandon Williams,Free Throw,9,5
+16:51,Arizona,Brandon Williams,Free Throw,10,5
+16:37,USC,Elijah Weaver,Missed Jumper,10,5
+16:37,Arizona,Chase Jeter,Block,10,5
+16:37,USC,Elijah Weaver,Offensive Rebound,10,5
+16:27,USC,Elijah Weaver,Missed Three Point Jumper,10,5
+16:27,Arizona,Brandon Williams,Defensive Rebound,10,5
+16:16,Arizona,Chase Jeter,Missed Jumper,10,5
+16:16,USC,Bennie Boatwright,Block,10,5
+16:16,USC,Kevin Porter Jr.,Defensive Rebound,10,5
+16:14,Arizona,Brandon Williams,Foul,10,5
+15:57,USC,Bennie Boatwright,Missed Jumper,10,5
+15:57,USC,USC,Offensive Rebound,10,5
+15:56,USC,None,None,10,5
+15:49,USC,Elijah Weaver,Three Point Jumper,10,8
+15:36,Arizona,Devonaire Doutrive,Turnover,10,8
+15:12,USC,Bennie Boatwright,Missed Jumper,10,8
+15:12,Arizona,Arizona,Defensive Rebound,10,8
+14:56,Arizona,Devonaire Doutrive,Turnover,10,8
+14:56,Arizona,Devonaire Doutrive,Foul,10,8
+14:47,USC,Elijah Weaver,Turnover,10,8
+14:37,Arizona,Brandon Randolph,Missed Jumper,10,8
+14:37,USC,Bennie Boatwright,Defensive Rebound,10,8
+14:30,Arizona,Brandon Randolph,Foul,10,8
+14:18,USC,Kevin Porter Jr.,Missed Jumper,10,8
+14:18,Arizona,Brandon Williams,Defensive Rebound,10,8
+14:04,Arizona,Dylan Smith,Missed Three Point Jumper,10,8
+14:04,USC,Bennie Boatwright,Defensive Rebound,10,8
+13:52,USC,Derryck Thornton,Layup,10,10
+13:38,Arizona,Chase Jeter,Layup,12,10
+13:25,USC,Bennie Boatwright,Three Point Jumper,12,13
+13:08,Arizona,Brandon Williams,Turnover,12,13
+13:08,USC,Derryck Thornton,Steal,12,13
+13:03,USC,Derryck Thornton,Layup,12,15
+12:58,Arizona,None,None,12,15
+12:46,Arizona,Ryan Luther,Missed Layup,12,15
+12:45,USC,Kevin Porter Jr.,Block,12,15
+12:44,USC,Bennie Boatwright,Defensive Rebound,12,15
+12:35,USC,Kevin Porter Jr.,Three Point Jumper,12,18
+12:23,Arizona,Dylan Smith,Turnover,12,18
+12:23,USC,Derryck Thornton,Steal,12,18
+12:19,USC,Derryck Thornton,Layup,12,20
+12:00,USC,Nick Rakocevic,Foul,12,20
+12:00,USC,None,None,12,20
+12:00,Arizona,Chase Jeter,Foul,12,20
+12:00,USC,Nick Rakocevic,Free Throw,12,21
+12:00,Arizona,Chase Jeter,Foul,12,20
+12:00,USC,Nick Rakocevic,Missed Free Throw,12,21
+12:00,USC,None,Team Rebound,12,21
+11:54,USC,Kevin Porter Jr.,Turnover,12,21
+11:54,Arizona,Dylan Smith,Steal,12,21
+11:44,Arizona,Chase Jeter,Turnover,12,21
+11:26,USC,Jonah Mathews,Missed Jumper,12,21
+11:26,USC,Bennie Boatwright,Offensive Rebound,12,21
+11:22,USC,Bennie Boatwright,Jumper,12,23
+11:09,Arizona,Dylan Smith,Missed Layup,12,23
+11:09,USC,J'Raan Brooks,Block,12,23
+11:09,USC,Jonah Mathews,Defensive Rebound,12,23
+10:59,USC,Kevin Porter Jr.,Missed Three Point Jumper,12,23
+10:59,Arizona,Arizona,Defensive Rebound,12,23
+10:47,USC,Derryck Thornton,Foul,12,23
+10:47,Arizona,Brandon Williams,Free Throw,13,23
+10:47,Arizona,Brandon Williams,Free Throw,14,23
+10:47,Arizona,Brandon Williams,Free Throw,15,23
+10:37,USC,Shaqquan Aaron,Jumper,15,25
+10:21,Arizona,Brandon Randolph,Missed Layup,15,25
+10:21,USC,Nick Rakocevic,Defensive Rebound,15,25
+10:08,USC,Nick Rakocevic,Missed Jumper,15,25
+10:08,Arizona,Brandon Williams,Defensive Rebound,15,25
+9:56,Arizona,Brandon Williams,Layup,17,25
+9:49,USC,Derryck Thornton,Turnover,17,25
+9:49,Arizona,Brandon Williams,Steal,17,25
+9:47,USC,J'Raan Brooks,Foul,17,25
+9:47,Arizona,Brandon Williams,Missed Free Throw,17,25
+9:47,Arizona,None,Team Rebound,17,25
+9:47,Arizona,Brandon Williams,Free Throw,18,25
+9:23,USC,Derryck Thornton,Jumper,18,27
+9:10,USC,Derryck Thornton,Foul,18,27
+8:49,Arizona,Justin Coleman,Turnover,18,27
+8:49,USC,Jonah Mathews,Steal,18,27
+8:45,USC,Jonah Mathews,Foul,18,27
+8:45,USC,Jonah Mathews,Turnover,18,27
+8:34,Arizona,Devonaire Doutrive,Missed Jumper,18,27
+8:34,USC,Nick Rakocevic,Block,18,27
+8:34,USC,Jonah Mathews,Defensive Rebound,18,27
+8:17,USC,Elijah Weaver,Missed Three Point Jumper,18,27
+8:17,Arizona,Chase Jeter,Defensive Rebound,18,27
+8:02,Arizona,Dylan Smith,Missed Three Point Jumper,18,27
+8:02,Arizona,Chase Jeter,Offensive Rebound,18,27
+7:47,USC,Nick Rakocevic,Foul,18,27
+7:47,USC,None,None,18,27
+7:47,Arizona,Ira Lee,Missed Free Throw,18,27
+7:47,Arizona,None,Team Rebound,18,27
+7:47,Arizona,Ira Lee,Free Throw,19,27
+7:32,USC,Bennie Boatwright,Layup,19,29
+7:32,Arizona,Ira Lee,Foul,19,29
+7:32,USC,Bennie Boatwright,Missed Free Throw,19,29
+7:32,Arizona,Dylan Smith,Defensive Rebound,19,29
+7:04,Arizona,Ira Lee,Jumper,21,29
+6:38,USC,Jonah Mathews,Missed Three Point Jumper,21,29
+6:38,Arizona,Devonaire Doutrive,Defensive Rebound,21,29
+6:27,Arizona,Dylan Smith,Missed Jumper,21,29
+6:27,Arizona,Chase Jeter,Offensive Rebound,21,29
+6:24,USC,Shaqquan Aaron,Foul,21,29
+6:24,Arizona,Chase Jeter,Missed Free Throw,21,29
+6:24,Arizona,None,Team Rebound,21,29
+6:24,Arizona,Chase Jeter,Free Throw,22,29
+6:11,USC,Elijah Weaver,Jumper,22,31
+5:44,Arizona,Chase Jeter,Jumper,24,31
+5:18,USC,Kevin Porter Jr.,Foul,24,31
+5:18,USC,Kevin Porter Jr.,Turnover,24,31
+5:08,Arizona,Justin Coleman,Missed Three Point Jumper,24,31
+5:08,Arizona,Chase Jeter,Offensive Rebound,24,31
+5:03,Arizona,Chase Jeter,Turnover,24,31
+5:03,USC,Elijah Weaver,Steal,24,31
+4:58,USC,Bennie Boatwright,Three Point Jumper,24,34
+4:37,Arizona,Ryan Luther,Layup,26,34
+4:37,USC,Bennie Boatwright,Foul,26,34
+4:37,Arizona,Ryan Luther,Free Throw,27,34
+4:19,Arizona,Justin Coleman,Foul,27,34
+4:01,USC,Bennie Boatwright,Missed Three Point Jumper,27,34
+4:01,USC,USC,Offensive Rebound,27,34
+3:58,Arizona,Justin Coleman,Foul,27,34
+3:58,USC,None,None,27,34
+3:58,USC,Victor Uyaelunmo,Free Throw,27,35
+3:58,USC,Victor Uyaelunmo,Missed Free Throw,27,35
+3:58,Arizona,Brandon Williams,Defensive Rebound,27,35
+3:45,Arizona,Ryan Luther,Jumper,29,35
+3:24,USC,Bennie Boatwright,Missed Three Point Jumper,29,35
+3:24,Arizona,Justin Coleman,Defensive Rebound,29,35
+3:07,Arizona,Justin Coleman,Layup,31,35
+2:43,USC,Jonah Mathews,Three Point Jumper,31,38
+2:11,Arizona,Dylan Smith,Jumper,33,38
+1:51,USC,Jonah Mathews,Missed Three Point Jumper,33,38
+1:51,USC,Bennie Boatwright,Offensive Rebound,33,38
+1:33,USC,Bennie Boatwright,Turnover,33,38
+1:33,Arizona,Dylan Smith,Steal,33,38
+1:29,USC,Jonah Mathews,Foul,33,38
+1:29,Arizona,Dylan Smith,Free Throw,34,38
+1:29,Arizona,Dylan Smith,Free Throw,35,38
+1:14,USC,Derryck Thornton,Turnover,35,38
+1:03,Arizona,Ryan Luther,Three Point Jumper,38,38
+0:42,USC,Bennie Boatwright,Missed Three Point Jumper,38,38
+0:42,Arizona,Brandon Randolph,Defensive Rebound,38,38
+0:33,Arizona,Brandon Randolph,Layup,40,38
+0:06,USC,Derryck Thornton,Jumper,40,40
+0:00,USC,None,None,40,40
+20:00,USC,None,None,40,40
+19:45,USC,Nick Rakocevic,Jumper,40,42
+19:24,Arizona,Ryan Luther,Missed Jumper,40,42
+19:24,Arizona,Ryan Luther,Offensive Rebound,40,42
+19:13,USC,Elijah Weaver,Foul,40,42
+19:13,Arizona,Dylan Smith,Turnover,40,42
+18:59,Arizona,Ryan Luther,Foul,40,42
+18:54,USC,Bennie Boatwright,Foul,40,42
+18:54,USC,Bennie Boatwright,Turnover,40,42
+18:36,Arizona,Ira Lee,Layup,42,42
+18:22,USC,Bennie Boatwright,Three Point Jumper,42,45
+18:01,Arizona,Dylan Smith,Missed Three Point Jumper,42,45
+18:01,Arizona,Ira Lee,Offensive Rebound,42,45
+17:37,USC,Shaqquan Aaron,Foul,42,45
+17:21,Arizona,Brandon Randolph,Missed Layup,42,45
+17:21,USC,Bennie Boatwright,Defensive Rebound,42,45
+17:14,USC,Nick Rakocevic,Missed Dunk,42,45
+17:14,Arizona,Ira Lee,Block,42,45
+17:14,Arizona,Arizona,Defensive Rebound,42,45
+17:14,Arizona,None,None,42,45
+16:53,USC,Nick Rakocevic,Foul,42,45
+16:53,Arizona,Chase Jeter,Free Throw,43,45
+16:53,Arizona,Chase Jeter,Missed Free Throw,43,45
+16:53,USC,Shaqquan Aaron,Defensive Rebound,43,45
+16:47,USC,Bennie Boatwright,Three Point Jumper,43,48
+16:24,USC,J'Raan Brooks,Foul,43,48
+16:13,USC,Jonah Mathews,Foul,43,48
+16:05,Arizona,Brandon Williams,Missed Three Point Jumper,43,48
+16:05,USC,Derryck Thornton,Defensive Rebound,43,48
+15:58,USC,Derryck Thornton,Missed Layup,43,48
+15:58,Arizona,Dylan Smith,Block,43,48
+15:58,Arizona,Justin Coleman,Defensive Rebound,43,48
+15:40,Arizona,Brandon Williams,Missed Three Point Jumper,43,48
+15:40,USC,Derryck Thornton,Defensive Rebound,43,48
+15:30,USC,Bennie Boatwright,Missed Three Point Jumper,43,48
+15:30,USC,Bennie Boatwright,Offensive Rebound,43,48
+15:25,USC,Shaqquan Aaron,Layup,43,50
+15:17,Arizona,None,None,43,50
+15:17,USC,None,None,43,50
+15:07,Arizona,Ira Lee,Turnover,43,50
+15:07,USC,None,None,43,50
+14:55,USC,Bennie Boatwright,Jumper,43,52
+14:39,Arizona,Brandon Randolph,Missed Three Point Jumper,43,52
+14:39,USC,Kevin Porter Jr.,Defensive Rebound,43,52
+14:17,Arizona,Brandon Randolph,Foul,43,52
+14:17,USC,Kevin Porter Jr.,Missed Free Throw,43,52
+14:17,USC,None,Team Rebound,43,52
+14:17,USC,Kevin Porter Jr.,Missed Free Throw,43,52
+14:17,Arizona,Chase Jeter,Defensive Rebound,43,52
+13:51,Arizona,Chase Jeter,Missed Jumper,43,52
+13:51,USC,Shaqquan Aaron,Block,43,52
+13:51,Arizona,Arizona,Offensive Rebound,43,52
+13:47,Arizona,Ryan Luther,Missed Three Point Jumper,43,52
+13:47,USC,J'Raan Brooks,Defensive Rebound,43,52
+13:32,USC,Shaqquan Aaron,Layup,43,54
+13:32,Arizona,Chase Jeter,Foul,43,54
+13:32,USC,Shaqquan Aaron,Free Throw,43,55
+13:18,Arizona,Ryan Luther,Jumper,45,55
+12:56,USC,Kevin Porter Jr.,Missed Jumper,45,55
+12:56,Arizona,Brandon Williams,Defensive Rebound,45,55
+12:46,Arizona,Brandon Randolph,Missed Three Point Jumper,45,55
+12:46,Arizona,Ryan Luther,Offensive Rebound,45,55
+12:39,Arizona,Brandon Williams,Missed Three Point Jumper,45,55
+12:39,USC,Shaqquan Aaron,Defensive Rebound,45,55
+12:34,USC,Derryck Thornton,Missed Layup,45,55
+12:34,USC,Kevin Porter Jr.,Offensive Rebound,45,55
+12:34,USC,None,None,45,57
+12:08,Arizona,Chase Jeter,Turnover,45,57
+11:49,USC,Jonah Mathews,Jumper,45,59
+11:29,Arizona,Chase Jeter,Turnover,45,59
+11:29,USC,Derryck Thornton,Steal,45,59
+11:24,USC,Derryck Thornton,Layup,45,61
+10:58,Arizona,Alex Barcello,Missed Three Point Jumper,45,61
+10:58,USC,Kevin Porter Jr.,Defensive Rebound,45,61
+10:34,Arizona,Alex Barcello,Foul,45,61
+10:34,USC,None,None,45,61
+10:34,USC,Kevin Porter Jr.,Free Throw,45,62
+10:34,USC,Kevin Porter Jr.,Free Throw,45,63
+10:23,Arizona,Dylan Smith,Three Point Jumper,48,63
+10:00,USC,Jonah Mathews,Missed Jumper,48,63
+10:00,Arizona,Dylan Smith,Block,48,63
+10:00,Arizona,Chase Jeter,Defensive Rebound,48,63
+9:53,Arizona,Dylan Smith,Missed Three Point Jumper,48,63
+9:53,Arizona,Ira Lee,Offensive Rebound,48,63
+9:49,Arizona,Ira Lee,Dunk,50,63
+9:41,USC,None,None,50,63
+9:16,USC,Derryck Thornton,Missed Jumper,50,63
+9:16,Arizona,Alex Barcello,Defensive Rebound,50,63
+8:58,Arizona,Dylan Smith,Missed Jumper,50,63
+8:58,USC,Bennie Boatwright,Defensive Rebound,50,63
+8:55,USC,None,None,50,63
+8:39,USC,Kevin Porter Jr.,Dunk,50,65
+8:18,Arizona,Chase Jeter,Missed Jumper,50,65
+8:18,USC,Elijah Weaver,Defensive Rebound,50,65
+8:11,Arizona,Alex Barcello,Foul,50,65
+7:59,USC,None,None,50,65
+7:53,USC,Bennie Boatwright,Missed Three Point Jumper,50,65
+7:53,Arizona,Arizona,Defensive Rebound,50,65
+7:33,Arizona,Ira Lee,Layup,52,65
+7:14,Arizona,Devonaire Doutrive,Foul,52,65
+7:14,USC,Bennie Boatwright,Free Throw,52,66
+7:14,USC,Bennie Boatwright,Free Throw,52,67
+7:02,Arizona,Justin Coleman,Missed Three Point Jumper,52,67
+7:02,USC,USC,Defensive Rebound,52,67
+7:00,Arizona,Chase Jeter,Foul,52,67
+7:00,USC,Kevin Porter Jr.,Missed Free Throw,52,67
+7:00,Arizona,Devonaire Doutrive,Defensive Rebound,52,67
+6:45,USC,Nick Rakocevic,Foul,52,67
+6:45,Arizona,Brandon Williams,Free Throw,53,67
+6:45,Arizona,Brandon Williams,Free Throw,54,67
+6:25,USC,Bennie Boatwright,Jumper,54,69
+6:06,Arizona,Chase Jeter,Missed Layup,54,69
+6:06,USC,J'Raan Brooks,Defensive Rebound,54,69
+5:45,USC,Shaqquan Aaron,Missed Jumper,54,69
+5:45,Arizona,Devonaire Doutrive,Block,54,69
+5:45,Arizona,Ira Lee,Defensive Rebound,54,69
+5:43,Arizona,None,None,54,69
+5:33,Arizona,Chase Jeter,Missed Jumper,54,69
+5:33,USC,Bennie Boatwright,Defensive Rebound,54,69
+5:18,USC,Nick Rakocevic,Missed Jumper,54,69
+5:18,Arizona,Dylan Smith,Defensive Rebound,54,69
+5:09,Arizona,Chase Jeter,Missed Dunk,54,69
+5:09,USC,Nick Rakocevic,Defensive Rebound,54,69
+4:54,USC,Jonah Mathews,Jumper,54,71
+4:32,Arizona,Devonaire Doutrive,Three Point Jumper,57,71
+4:03,USC,Shaqquan Aaron,Layup,57,73
+3:43,Arizona,Chase Jeter,Missed Jumper,57,73
+3:43,Arizona,Devonaire Doutrive,Offensive Rebound,57,73
+3:33,Arizona,Devonaire Doutrive,Missed Three Point Jumper,57,73
+3:33,Arizona,Chase Jeter,Offensive Rebound,57,73
+3:29,USC,Jonah Mathews,Foul,57,73
+3:29,USC,None,None,57,73
+3:29,Arizona,Chase Jeter,Missed Free Throw,57,73
+3:29,Arizona,Ryan Luther,Offensive Rebound,57,73
+3:25,Arizona,Justin Coleman,Turnover,57,73
+3:25,USC,Nick Rakocevic,Steal,57,73
+3:01,USC,Jonah Mathews,Missed Three Point Jumper,57,73
+3:01,USC,USC,Offensive Rebound,57,73
+3:01,Arizona,Chase Jeter,Foul,57,73
+3:01,USC,Nick Rakocevic,Free Throw,57,74
+3:01,USC,Nick Rakocevic,Missed Free Throw,57,74
+3:01,Arizona,Dylan Smith,Defensive Rebound,57,74
+2:51,Arizona,Ryan Luther,Jumper,59,74
+2:33,USC,Bennie Boatwright,Missed Three Point Jumper,59,74
+2:33,Arizona,Dylan Smith,Defensive Rebound,59,74
+2:23,Arizona,Dylan Smith,Jumper,61,74
+2:14,USC,None,None,61,74
+1:52,Arizona,Ryan Luther,Foul,61,74
+1:52,USC,Nick Rakocevic,Free Throw,61,75
+1:52,USC,Nick Rakocevic,Free Throw,61,76
+1:38,Arizona,Ryan Luther,Jumper,63,76
+1:25,Arizona,Dylan Smith,Foul,63,76
+1:25,USC,Jonah Mathews,Free Throw,63,77
+1:25,USC,Jonah Mathews,Free Throw,63,78
+1:15,Arizona,Dylan Smith,Missed Three Point Jumper,63,78
+1:15,USC,Bennie Boatwright,Defensive Rebound,63,78
+0:48,USC,Jonah Mathews,Missed Three Point Jumper,63,78
+0:48,Arizona,Arizona,Defensive Rebound,63,78
+0:31,Arizona,Ira Lee,Jumper,65,78
+0:00,USC,None,None,65,78

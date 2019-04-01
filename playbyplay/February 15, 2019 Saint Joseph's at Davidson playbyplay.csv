@@ -1,0 +1,309 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Davidson,None,None,0,0
+19:52,Davidson,KiShawn Pritchett,Jumper,0,2
+19:38,Saint Joseph's,Charlie Brown Jr.,Turnover,0,2
+19:38,Davidson,KiShawn Pritchett,Steal,0,2
+19:32,Davidson,Jon Axel Gudmundsson,Layup,0,4
+19:15,Saint Joseph's,Taylor Funk,Three Point Jumper,3,4
+18:48,Davidson,KiShawn Pritchett,Missed Three Point Jumper,3,4
+18:48,Saint Joseph's,Taylor Funk,Defensive Rebound,3,4
+18:24,Saint Joseph's,Lorenzo Edwards,Three Point Jumper,6,4
+18:00,Davidson,Luka Brajkovic,Missed Jumper,6,4
+18:00,Saint Joseph's,Chris Clover,Defensive Rebound,6,4
+17:50,Saint Joseph's,Charlie Brown Jr.,Three Point Jumper,9,4
+17:31,Davidson,Jon Axel Gudmundsson,Missed Three Point Jumper,9,4
+17:31,Saint Joseph's,Charlie Brown Jr.,Defensive Rebound,9,4
+17:20,Saint Joseph's,Lorenzo Edwards,Missed Three Point Jumper,9,4
+17:20,Davidson,Luke Frampton,Defensive Rebound,9,4
+17:09,Saint Joseph's,Jared Bynum,Foul,9,4
+16:46,Davidson,Luke Frampton,Missed Three Point Jumper,9,4
+16:46,Saint Joseph's,Lorenzo Edwards,Defensive Rebound,9,4
+16:33,Saint Joseph's,Lorenzo Edwards,Missed Jumper,9,4
+16:33,Davidson,Luka Brajkovic,Defensive Rebound,9,4
+16:24,Saint Joseph's,Charlie Brown Jr.,Foul,9,4
+16:24,Davidson,Jon Axel Gudmundsson,Free Throw,9,5
+16:24,Davidson,Jon Axel Gudmundsson,Free Throw,9,6
+16:11,Saint Joseph's,Charlie Brown Jr.,Missed Layup,9,6
+16:11,Davidson,Carter Collins,Defensive Rebound,9,6
+15:56,Davidson,Kellan Grady,Missed Jumper,9,6
+15:56,Saint Joseph's,Taylor Funk,Block,9,6
+15:56,Saint Joseph's,Chris Clover,Defensive Rebound,9,6
+15:49,Saint Joseph's,Chris Clover,Layup,11,6
+15:30,Davidson,Luke Frampton,Missed Three Point Jumper,11,6
+15:30,Saint Joseph's,Jared Bynum,Defensive Rebound,11,6
+15:18,Saint Joseph's,Charlie Brown Jr.,Turnover,11,6
+15:18,Davidson,Kellan Grady,Steal,11,6
+15:12,Saint Joseph's,Chris Clover,Foul,11,6
+15:12,Davidson,None,None,11,6
+15:12,Davidson,Kellan Grady,Free Throw,11,7
+15:12,Davidson,Kellan Grady,Free Throw,11,8
+14:59,Saint Joseph's,Jared Bynum,Three Point Jumper,14,8
+14:40,Davidson,Luke Frampton,Three Point Jumper,14,11
+14:24,Davidson,Carter Collins,Foul,14,11
+14:15,Saint Joseph's,Chris Clover,Missed Layup,14,11
+14:15,Davidson,Dusan Kovacevic,Block,14,11
+14:15,Saint Joseph's,Chris Clover,Offensive Rebound,14,11
+14:09,Saint Joseph's,Chris Clover,Layup,16,11
+13:59,Davidson,Dusan Kovacevic,Missed Three Point Jumper,16,11
+13:59,Saint Joseph's,Charlie Brown Jr.,Defensive Rebound,16,11
+13:47,Saint Joseph's,Lorenzo Edwards,Missed Layup,16,11
+13:47,Davidson,Dusan Kovacevic,Defensive Rebound,16,11
+13:46,Saint Joseph's,Lorenzo Edwards,Foul,16,11
+13:29,Davidson,Carter Collins,Missed Layup,16,11
+13:29,Saint Joseph's,Lorenzo Edwards,Block,16,11
+13:29,Saint Joseph's,Charlie Brown Jr.,Defensive Rebound,16,11
+13:23,Saint Joseph's,Charlie Brown Jr.,Three Point Jumper,19,11
+13:09,Davidson,Jon Axel Gudmundsson,Foul,19,11
+13:09,Davidson,Jon Axel Gudmundsson,Turnover,19,11
+12:47,Saint Joseph's,Jared Bynum,Missed Three Point Jumper,19,11
+12:47,Saint Joseph's,Chris Clover,Offensive Rebound,19,11
+12:26,Saint Joseph's,Chris Clover,Jumper,21,11
+12:09,Davidson,Jon Axel Gudmundsson,Missed Layup,21,11
+12:09,Davidson,Davidson,Offensive Rebound,21,11
+11:55,Davidson,Carter Collins,Three Point Jumper,21,14
+11:37,Saint Joseph's,Taylor Funk,Missed Three Point Jumper,21,14
+11:37,Davidson,Kellan Grady,Defensive Rebound,21,14
+11:17,Davidson,Luka Brajkovic,Turnover,21,14
+11:15,Davidson,None,None,21,14
+10:44,Saint Joseph's,Charlie Brown Jr.,Missed Three Point Jumper,21,14
+10:44,Davidson,Luke Frampton,Defensive Rebound,21,14
+10:38,Davidson,Carter Collins,Turnover,21,14
+10:38,Saint Joseph's,Chris Clover,Steal,21,14
+10:32,Saint Joseph's,Taylor Funk,Missed Layup,21,14
+10:32,Davidson,Luka Brajkovic,Block,21,14
+10:32,Saint Joseph's,Saint Joseph's,Offensive Rebound,21,14
+10:23,Davidson,Luke Frampton,Foul,21,14
+10:22,Saint Joseph's,Taylor Funk,Turnover,21,14
+10:22,Davidson,Kellan Grady,Steal,21,14
+10:06,Davidson,Kellan Grady,Turnover,21,14
+10:06,Saint Joseph's,Chris Clover,Steal,21,14
+10:01,Saint Joseph's,Charlie Brown Jr.,Layup,23,14
+9:36,Davidson,Luke Frampton,Missed Three Point Jumper,23,14
+9:36,Saint Joseph's,Chris Clover,Defensive Rebound,23,14
+9:27,Davidson,Luke Frampton,Foul,23,14
+9:18,Saint Joseph's,Charlie Brown Jr.,Missed Jumper,23,14
+9:18,Davidson,Luka Brajkovic,Defensive Rebound,23,14
+9:06,Davidson,KiShawn Pritchett,Three Point Jumper,23,17
+8:41,Saint Joseph's,Lorenzo Edwards,Missed Three Point Jumper,23,17
+8:41,Davidson,Luka Brajkovic,Defensive Rebound,23,17
+8:28,Davidson,Kellan Grady,Layup,23,19
+8:23,Saint Joseph's,Troy Holston,Missed Three Point Jumper,23,19
+8:23,Davidson,Jon Axel Gudmundsson,Defensive Rebound,23,19
+8:14,Saint Joseph's,Lorenzo Edwards,Foul,23,19
+8:10,Davidson,Jon Axel Gudmundsson,Turnover,23,19
+7:51,Saint Joseph's,Anthony Longpre,Missed Three Point Jumper,23,19
+7:51,Saint Joseph's,Charlie Brown Jr.,Offensive Rebound,23,19
+7:39,Saint Joseph's,Troy Holston,Missed Three Point Jumper,23,19
+7:39,Saint Joseph's,Anthony Longpre,Offensive Rebound,23,19
+7:33,Saint Joseph's,Charlie Brown Jr.,Missed Jumper,23,19
+7:33,Davidson,Carter Collins,Defensive Rebound,23,19
+7:27,Davidson,Carter Collins,Layup,23,21
+7:02,Saint Joseph's,Troy Holston,Three Point Jumper,26,21
+6:45,Davidson,Jon Axel Gudmundsson,Layup,26,23
+6:33,Saint Joseph's,Taylor Funk,Three Point Jumper,29,23
+6:05,Davidson,Jon Axel Gudmundsson,Missed Three Point Jumper,29,23
+6:05,Saint Joseph's,Charlie Brown Jr.,Defensive Rebound,29,23
+5:43,Saint Joseph's,Charlie Brown Jr.,Missed Three Point Jumper,29,23
+5:43,Davidson,Luka Brajkovic,Defensive Rebound,29,23
+5:10,Davidson,KiShawn Pritchett,Layup,29,25
+5:01,Saint Joseph's,Taylor Funk,Missed Three Point Jumper,29,25
+5:01,Davidson,Kellan Grady,Defensive Rebound,29,25
+4:52,Davidson,Carter Collins,Missed Three Point Jumper,29,25
+4:52,Saint Joseph's,Saint Joseph's,Defensive Rebound,29,25
+4:45,Davidson,None,None,29,25
+4:27,Saint Joseph's,Charlie Brown Jr.,Missed Layup,29,25
+4:27,Davidson,Jon Axel Gudmundsson,Defensive Rebound,29,25
+4:27,Saint Joseph's,Anthony Longpre,Foul,29,25
+4:17,Davidson,Jon Axel Gudmundsson,Missed Jumper,29,25
+4:17,Davidson,Jon Axel Gudmundsson,Offensive Rebound,29,25
+4:10,Davidson,Kellan Grady,Turnover,29,25
+3:55,Saint Joseph's,Anthony Longpre,Foul,29,25
+3:55,Saint Joseph's,Anthony Longpre,Turnover,29,25
+3:55,Davidson,None,None,29,25
+3:41,Davidson,KiShawn Pritchett,Jumper,29,27
+3:14,Saint Joseph's,Charlie Brown Jr.,Three Point Jumper,32,27
+2:49,Saint Joseph's,Taylor Funk,Foul,32,27
+2:49,Davidson,Luka Brajkovic,Missed Free Throw,32,27
+2:49,Saint Joseph's,Troy Holston,Defensive Rebound,32,27
+2:35,Saint Joseph's,Chris Clover,Turnover,32,27
+2:26,Davidson,Luke Frampton,Missed Three Point Jumper,32,27
+2:26,Davidson,Luka Brajkovic,Offensive Rebound,32,27
+2:18,Saint Joseph's,Charlie Brown Jr.,Foul,32,27
+2:18,Davidson,Luka Brajkovic,Free Throw,32,28
+2:18,Davidson,Luka Brajkovic,Free Throw,32,29
+2:01,Saint Joseph's,Troy Holston,Three Point Jumper,35,29
+2:01,Davidson,Carter Collins,Foul,35,29
+2:01,Saint Joseph's,Troy Holston,Free Throw,36,29
+1:46,Davidson,KiShawn Pritchett,Three Point Jumper,36,32
+1:18,Saint Joseph's,Chris Clover,Missed Three Point Jumper,36,32
+1:18,Davidson,Carter Collins,Defensive Rebound,36,32
+1:00,Davidson,Carter Collins,Missed Three Point Jumper,36,32
+1:00,Saint Joseph's,Charlie Brown Jr.,Defensive Rebound,36,32
+0:52,Saint Joseph's,Chris Clover,Layup,38,32
+0:52,Davidson,KiShawn Pritchett,Foul,38,32
+0:52,Saint Joseph's,Chris Clover,Free Throw,39,32
+0:44,Davidson,Luke Frampton,Three Point Jumper,39,35
+0:39,Davidson,None,None,39,35
+0:17,Saint Joseph's,Taylor Funk,Missed Three Point Jumper,39,35
+0:17,Davidson,Carter Collins,Defensive Rebound,39,35
+0:10,Davidson,Kellan Grady,Missed Three Point Jumper,39,35
+0:10,Saint Joseph's,Chris Clover,Defensive Rebound,39,35
+0:01,Saint Joseph's,Taylor Funk,Three Point Jumper,42,35
+0:00,Davidson,None,None,42,35
+20:00,Saint Joseph's,None,None,42,35
+19:42,Saint Joseph's,Charlie Brown Jr.,Missed Jumper,42,35
+19:42,Davidson,Jon Axel Gudmundsson,Defensive Rebound,42,35
+19:31,Davidson,Jon Axel Gudmundsson,Three Point Jumper,42,38
+19:14,Saint Joseph's,Taylor Funk,Missed Three Point Jumper,42,38
+19:14,Davidson,Luke Frampton,Defensive Rebound,42,38
+18:47,Davidson,Luka Brajkovic,Turnover,42,38
+18:41,Saint Joseph's,Chris Clover,Three Point Jumper,45,38
+18:26,Davidson,Luka Brajkovic,Missed Three Point Jumper,45,38
+18:26,Saint Joseph's,Taylor Funk,Defensive Rebound,45,38
+18:19,Saint Joseph's,Lorenzo Edwards,Missed Three Point Jumper,45,38
+18:19,Saint Joseph's,Charlie Brown Jr.,Offensive Rebound,45,38
+18:10,Davidson,Kellan Grady,Foul,45,38
+18:10,Saint Joseph's,Charlie Brown Jr.,Free Throw,46,38
+18:10,Saint Joseph's,Charlie Brown Jr.,Missed Free Throw,46,38
+18:10,Davidson,Dusan Kovacevic,Defensive Rebound,46,38
+17:47,Saint Joseph's,Charlie Brown Jr.,Foul,46,38
+17:42,Davidson,Kellan Grady,Missed Three Point Jumper,46,38
+17:42,Davidson,KiShawn Pritchett,Offensive Rebound,46,38
+17:35,Davidson,Luke Frampton,Missed Three Point Jumper,46,38
+17:35,Saint Joseph's,Jared Bynum,Defensive Rebound,46,38
+17:15,Saint Joseph's,Charlie Brown Jr.,Layup,48,38
+17:03,Davidson,Kellan Grady,Layup,48,40
+16:33,Saint Joseph's,Charlie Brown Jr.,Foul,48,40
+16:33,Saint Joseph's,Charlie Brown Jr.,Turnover,48,40
+16:20,Davidson,Luke Frampton,Three Point Jumper,48,43
+16:06,Saint Joseph's,Chris Clover,Three Point Jumper,51,43
+15:58,Davidson,Luke Frampton,Three Point Jumper,51,46
+15:45,Saint Joseph's,Taylor Funk,Missed Three Point Jumper,51,46
+15:45,Davidson,Luka Brajkovic,Defensive Rebound,51,46
+15:27,Davidson,Jon Axel Gudmundsson,Missed Jumper,51,46
+15:27,Davidson,Luka Brajkovic,Offensive Rebound,51,46
+15:22,Davidson,Luke Frampton,Missed Three Point Jumper,51,46
+15:22,Saint Joseph's,Taylor Funk,Defensive Rebound,51,46
+15:07,Saint Joseph's,Troy Holston,Missed Three Point Jumper,51,46
+15:07,Saint Joseph's,Chris Clover,Offensive Rebound,51,46
+15:02,Saint Joseph's,Lorenzo Edwards,Missed Three Point Jumper,51,46
+15:02,Saint Joseph's,Taylor Funk,Offensive Rebound,51,46
+14:56,Davidson,Luke Frampton,Foul,51,46
+14:56,Davidson,None,None,51,46
+14:40,Davidson,Kellan Grady,Foul,51,46
+14:33,Davidson,Carter Collins,Foul,51,46
+14:33,Saint Joseph's,Jared Bynum,Free Throw,52,46
+14:33,Saint Joseph's,Jared Bynum,Missed Free Throw,52,46
+14:33,Davidson,Luke Frampton,Defensive Rebound,52,46
+14:17,Saint Joseph's,Lorenzo Edwards,Foul,52,46
+13:57,Davidson,Davidson ,Turnover,52,46
+13:40,Davidson,Luka Brajkovic,Foul,52,46
+13:40,Saint Joseph's,Anthony Longpre,Missed Free Throw,52,46
+13:40,Saint Joseph's,None,Team Rebound,52,46
+13:40,Saint Joseph's,Anthony Longpre,Free Throw,53,46
+13:28,Davidson,Luka Brajkovic,Dunk,53,48
+13:16,Saint Joseph's,Anthony Longpre,Missed Three Point Jumper,53,48
+13:16,Davidson,Jon Axel Gudmundsson,Defensive Rebound,53,48
+13:09,Saint Joseph's,Taylor Funk,Foul,53,48
+12:58,Davidson,Jon Axel Gudmundsson,Layup,53,50
+12:37,Saint Joseph's,Chris Clover,Turnover,53,50
+12:37,Davidson,KiShawn Pritchett,Steal,53,50
+12:29,Davidson,KiShawn Pritchett,Missed Three Point Jumper,53,50
+12:29,Saint Joseph's,Jared Bynum,Defensive Rebound,53,50
+12:08,Saint Joseph's,Anthony Longpre,Missed Jumper,53,50
+12:08,Davidson,Luka Brajkovic,Defensive Rebound,53,50
+11:41,Davidson,KiShawn Pritchett,Three Point Jumper,53,53
+11:15,Saint Joseph's,Jared Bynum,Layup,55,53
+10:57,Saint Joseph's,Troy Holston,Foul,55,53
+10:57,Davidson,None,None,55,53
+10:57,Davidson,Luka Brajkovic,Free Throw,55,54
+10:57,Davidson,Luka Brajkovic,Missed Free Throw,55,54
+10:57,Saint Joseph's,Chris Clover,Defensive Rebound,55,54
+10:35,Saint Joseph's,Lorenzo Edwards,Missed Jumper,55,54
+10:35,Davidson,Luka Brajkovic,Defensive Rebound,55,54
+10:01,Davidson,Jon Axel Gudmundsson,Three Point Jumper,55,57
+9:52,Davidson,Luka Brajkovic,Foul,55,57
+9:52,Saint Joseph's,Lorenzo Edwards,Free Throw,56,57
+9:52,Saint Joseph's,Lorenzo Edwards,Free Throw,57,57
+9:36,Davidson,Jon Axel Gudmundsson,Three Point Jumper,57,60
+9:21,Saint Joseph's,Taylor Funk,Missed Jumper,57,60
+9:21,Davidson,Luke Frampton,Defensive Rebound,57,60
+9:05,Davidson,Luke Frampton,Three Point Jumper,57,63
+9:01,Saint Joseph's,None,None,57,63
+8:50,Saint Joseph's,Chris Clover,Jumper,59,63
+8:30,Davidson,Luke Frampton,Missed Three Point Jumper,59,63
+8:30,Saint Joseph's,Chris Clover,Defensive Rebound,59,63
+8:20,Saint Joseph's,Chris Clover,Missed Jumper,59,63
+8:20,Davidson,Luka Brajkovic,Defensive Rebound,59,63
+8:10,Davidson,Luke Frampton,Turnover,59,63
+8:10,Saint Joseph's,Jared Bynum,Steal,59,63
+8:04,Saint Joseph's,Troy Holston,Layup,61,63
+7:52,Davidson,Carter Collins,Three Point Jumper,61,66
+7:28,Saint Joseph's,Lorenzo Edwards,Missed Three Point Jumper,61,66
+7:28,Saint Joseph's,Taylor Funk,Offensive Rebound,61,66
+7:22,Saint Joseph's,Lorenzo Edwards,Layup,63,66
+7:11,Saint Joseph's,Jared Bynum,Foul,63,66
+7:11,Davidson,None,None,63,66
+7:11,Davidson,Jon Axel Gudmundsson,Free Throw,63,67
+7:11,Davidson,Jon Axel Gudmundsson,Free Throw,63,68
+7:01,Saint Joseph's,Taylor Funk,Missed Three Point Jumper,63,68
+7:01,Davidson,Jon Axel Gudmundsson,Defensive Rebound,63,68
+6:49,Davidson,Kellan Grady,Missed Three Point Jumper,63,68
+6:49,Saint Joseph's,Saint Joseph's,Defensive Rebound,63,68
+6:35,Saint Joseph's,Taylor Funk,Missed Three Point Jumper,63,68
+6:35,Davidson,Luka Brajkovic,Defensive Rebound,63,68
+6:05,Davidson,KiShawn Pritchett,Three Point Jumper,63,71
+5:44,Davidson,KiShawn Pritchett,Foul,63,71
+5:44,Saint Joseph's,Troy Holston,Missed Free Throw,63,71
+5:44,Saint Joseph's,None,Team Rebound,63,71
+5:44,Saint Joseph's,Troy Holston,Free Throw,64,71
+5:28,Davidson,KiShawn Pritchett,Turnover,64,71
+5:17,Saint Joseph's,Charlie Brown Jr.,Dunk,66,71
+5:05,Saint Joseph's,Lorenzo Edwards,Foul,66,71
+5:05,Davidson,Jon Axel Gudmundsson,Free Throw,66,72
+5:05,Davidson,Jon Axel Gudmundsson,Free Throw,66,73
+4:52,Saint Joseph's,Jared Bynum,Missed Layup,66,73
+4:52,Davidson,Kellan Grady,Defensive Rebound,66,73
+4:45,Davidson,Jon Axel Gudmundsson,Missed Three Point Jumper,66,73
+4:45,Saint Joseph's,Lorenzo Edwards,Defensive Rebound,66,73
+4:34,Saint Joseph's,Lorenzo Edwards,Missed Three Point Jumper,66,73
+4:34,Davidson,Luke Frampton,Defensive Rebound,66,73
+4:05,Davidson,KiShawn Pritchett,Turnover,66,73
+4:05,Saint Joseph's,Charlie Brown Jr.,Steal,66,73
+4:04,Davidson,KiShawn Pritchett,Foul,66,73
+4:04,Saint Joseph's,Charlie Brown Jr.,Free Throw,67,73
+4:04,Saint Joseph's,Charlie Brown Jr.,Free Throw,68,73
+3:51,Davidson,Kellan Grady,Missed Layup,68,73
+3:51,Saint Joseph's,Chris Clover,Defensive Rebound,68,73
+3:32,Saint Joseph's,Charlie Brown Jr.,Missed Jumper,68,73
+3:32,Davidson,Luka Brajkovic,Defensive Rebound,68,73
+3:04,Davidson,Luka Brajkovic,Jumper,68,75
+2:55,Davidson,None,None,68,75
+2:40,Davidson,Carter Collins,Foul,68,75
+2:40,Saint Joseph's,Jared Bynum,Missed Free Throw,68,75
+2:40,Davidson,KiShawn Pritchett,Defensive Rebound,68,75
+2:25,Davidson,Luke Frampton,Missed Layup,68,75
+2:25,Saint Joseph's,Anthony Longpre,Defensive Rebound,68,75
+2:25,Davidson,Luke Frampton,Foul,68,75
+2:25,Saint Joseph's,Anthony Longpre,Free Throw,69,75
+2:25,Saint Joseph's,Anthony Longpre,Free Throw,70,75
+2:11,Saint Joseph's,Chris Clover,Foul,70,75
+2:11,Davidson,Luka Brajkovic,Free Throw,70,76
+2:11,Davidson,Luka Brajkovic,Free Throw,70,77
+2:06,Saint Joseph's,Troy Holston,Missed Three Point Jumper,70,77
+2:06,Saint Joseph's,Charlie Brown Jr.,Offensive Rebound,70,77
+2:02,Davidson,Kellan Grady,Foul,70,77
+2:02,Saint Joseph's,Charlie Brown Jr.,Free Throw,71,77
+2:02,Saint Joseph's,Charlie Brown Jr.,Free Throw,72,77
+1:44,Davidson,Jon Axel Gudmundsson,Missed Three Point Jumper,72,77
+1:44,Davidson,KiShawn Pritchett,Offensive Rebound,72,77
+1:14,Davidson,Luka Brajkovic,Missed Jumper,72,77
+1:14,Saint Joseph's,Jared Bynum,Defensive Rebound,72,77
+0:55,Saint Joseph's,Anthony Longpre,Turnover,72,77
+0:55,Davidson,Jon Axel Gudmundsson,Steal,72,77
+0:35,Davidson,None,None,72,77
+0:26,Davidson,Luke Frampton,Three Point Jumper,72,80
+0:18,Saint Joseph's,Jared Bynum,Missed Layup,72,80
+0:18,Davidson,KiShawn Pritchett,Block,72,80
+0:18,Davidson,KiShawn Pritchett,Defensive Rebound,72,80
+0:00,Davidson,None,None,72,80

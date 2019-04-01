@@ -1,0 +1,336 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,Lafayette,Justin Jaworski,Turnover,0,0
+19:43,Navy,Hasan Abdullah,Steal,0,0
+19:31,Navy,Evan Wieck,Jumper,0,2
+19:11,Lafayette,Kyle Stout,Missed Three Point Jumper,0,2
+19:11,Lafayette,Lukas Jarrett,Offensive Rebound,0,2
+18:51,Lafayette,Kyle Stout,Turnover,0,2
+18:50,Navy,Hasan Abdullah,Steal,0,2
+18:46,Navy,Cam Davis,Turnover,0,2
+18:44,Lafayette,Justin Jaworski,Steal,0,2
+18:41,Lafayette,E.J. Stephens,Layup,2,2
+18:25,Navy,Evan Wieck,Layup,2,4
+17:55,Lafayette,Lukas Jarrett,Turnover,2,4
+17:54,Navy,George Kiernan,Steal,2,4
+17:45,Navy,Cam Davis,Missed Layup,2,4
+17:45,Lafayette,Sean Good,Block,2,4
+17:43,Navy,Evan Wieck,Offensive Rebound,2,4
+17:43,Navy,Evan Wieck,Jumper,2,6
+17:43,Lafayette,Sean Good,Foul,2,6
+17:43,Navy,Evan Wieck,Free Throw,2,7
+17:16,Lafayette,Justin Jaworski,Three Point Jumper,5,7
+17:04,Navy,Hasan Abdullah,Jumper,5,9
+16:48,Lafayette,Paulius Zalys,Turnover,5,9
+16:48,Navy,Hasan Abdullah,Steal,5,9
+16:48,Navy,Hasan Abdullah,Turnover,5,9
+16:28,Lafayette,Alex Petrie,Three Point Jumper,8,9
+16:07,Navy,Cam Davis,Three Point Jumper,8,12
+15:51,Lafayette,Lukas Jarrett,Three Point Jumper,11,12
+15:31,Navy,George Kiernan,Missed Layup,11,12
+15:31,Lafayette,Lukas Jarrett,Block,11,12
+15:27,Lafayette,Paulius Zalys,Defensive Rebound,11,12
+15:19,Lafayette,Alex Petrie,Turnover,11,12
+15:19,Navy,None,None,11,12
+15:03,Navy,John Carter Jr.,Missed Three Point Jumper,11,12
+15:03,Navy,George Kiernan,Offensive Rebound,11,12
+14:53,Lafayette,Sean Good,Foul,11,12
+14:53,Navy,George Kiernan,Free Throw,11,13
+14:53,Navy,George Kiernan,Free Throw,11,14
+14:30,Lafayette,Isaac Suffren,Missed Three Point Jumper,11,14
+14:30,Navy,Evan Wieck,Defensive Rebound,11,14
+14:14,Navy,Cam Davis,Missed Three Point Jumper,11,14
+14:14,Lafayette,Justin Jaworski,Defensive Rebound,11,14
+13:58,Lafayette,Paulius Zalys,Missed Jumper,11,14
+13:58,Lafayette,Isaac Suffren,Offensive Rebound,11,14
+13:26,Lafayette,Alex Petrie,Jumper,13,14
+13:13,Navy,Hasan Abdullah,Missed Jumper,13,14
+13:13,Lafayette,Lukas Jarrett,Defensive Rebound,13,14
+13:12,Lafayette,Lukas Jarrett,Turnover,13,14
+13:07,Navy,George Kiernan,Three Point Jumper,13,17
+12:51,Lafayette,Tyrone Perry,Missed Three Point Jumper,13,17
+12:51,Navy,John Carter Jr.,Defensive Rebound,13,17
+12:42,Lafayette,Sean Good,Foul,13,17
+12:42,Navy,John Carter Jr.,Missed Free Throw,13,17
+12:42,Navy,None,Team Rebound,13,17
+12:42,Navy,John Carter Jr.,Free Throw,13,18
+12:25,Lafayette,Alex Petrie,Layup,15,18
+12:03,Navy,George Kiernan,Layup,15,20
+11:50,Lafayette,Paulius Zalys,Missed Layup,15,20
+11:50,Navy,Josiah Strong,Defensive Rebound,15,20
+11:42,Navy,Josiah Strong,Missed Jumper,15,20
+11:42,Navy,Luke Loehr,Offensive Rebound,15,20
+11:40,Navy,Luke Loehr,Missed Layup,15,20
+11:40,Lafayette,Dylan Hastings,Block,15,20
+11:40,Navy,Navy,Offensive Rebound,15,20
+11:39,Navy,None,None,15,20
+11:35,Navy,Luke Loehr,Turnover,15,20
+11:35,Navy,Luke Loehr,Foul,15,20
+11:13,Navy,John Carter Jr.,Foul,15,20
+11:13,Lafayette,Isaac Suffren,Missed Free Throw,15,20
+11:13,Lafayette,None,Team Rebound,15,20
+11:13,Lafayette,Isaac Suffren,Missed Free Throw,15,20
+11:13,Navy,John Carter Jr.,Defensive Rebound,15,20
+10:58,Navy,Greg Summers,Turnover,15,20
+10:56,Lafayette,Lukas Jarrett,Steal,15,20
+10:31,Lafayette,Dylan Hastings,Missed Three Point Jumper,15,20
+10:31,Navy,John Carter Jr.,Defensive Rebound,15,20
+10:18,Lafayette,Lukas Jarrett,Foul,15,20
+10:06,Navy,George Kiernan,Missed Three Point Jumper,15,20
+10:06,Lafayette,Dylan Hastings,Defensive Rebound,15,20
+9:54,Lafayette,Isaac Suffren,Missed Jumper,15,20
+9:54,Navy,John Carter Jr.,Defensive Rebound,15,20
+9:50,Lafayette,Isaac Suffren,Foul,15,20
+9:44,Navy,John Carter Jr.,Three Point Jumper,15,23
+9:36,Lafayette,Alex Petrie,Three Point Jumper,18,23
+9:22,Lafayette,Justin Jaworski,Foul,18,23
+9:22,Navy,Hasan Abdullah,Free Throw,18,24
+9:22,Navy,Hasan Abdullah,Free Throw,18,25
+9:11,Lafayette,Paulius Zalys,Missed Three Point Jumper,18,25
+9:11,Navy,John Carter Jr.,Defensive Rebound,18,25
+8:58,Navy,John Carter Jr.,Missed Three Point Jumper,18,25
+8:58,Navy,Evan Wieck,Offensive Rebound,18,25
+8:42,Navy,Luke Loehr,Layup,18,27
+8:26,Lafayette,Alex Petrie,Missed Jumper,18,27
+8:26,Navy,Evan Wieck,Defensive Rebound,18,27
+8:15,Navy,Evan Wieck,Turnover,18,27
+8:15,Navy,Evan Wieck,Foul,18,27
+8:01,Navy,Evan Wieck,Foul,18,27
+8:00,Lafayette,Paulius Zalys,Turnover,18,27
+7:59,Navy,None,None,18,27
+7:36,Lafayette,Justin Jaworski,Foul,18,27
+7:36,Navy,Cam Davis,Free Throw,18,28
+7:36,Navy,Cam Davis,Free Throw,18,29
+7:07,Lafayette,Alex Petrie,Missed Three Point Jumper,18,29
+7:07,Navy,Cam Davis,Defensive Rebound,18,29
+6:48,Navy,George Kiernan,Missed Jumper,18,29
+6:48,Navy,Isaiah Burnett,Offensive Rebound,18,29
+6:42,Navy,Luke Loehr,Layup,18,31
+6:31,Lafayette,E.J. Stephens,Missed Jumper,18,31
+6:31,Navy,Cam Davis,Defensive Rebound,18,31
+6:21,Navy,Hasan Abdullah,Missed Three Point Jumper,18,31
+6:21,Lafayette,Alex Petrie,Defensive Rebound,18,31
+6:14,Lafayette,E.J. Stephens,Dunk,20,31
+5:52,Navy,Hasan Abdullah,Missed Layup,20,31
+5:52,Lafayette,Isaac Suffren,Defensive Rebound,20,31
+5:25,Navy,Luke Loehr,Foul,20,31
+5:25,Lafayette,Isaac Suffren,Free Throw,21,31
+5:25,Lafayette,Isaac Suffren,Free Throw,22,31
+5:15,Navy,Isaiah Burnett,Turnover,22,31
+5:05,Lafayette,Justin Jaworski,Jumper,24,31
+4:46,Navy,George Kiernan,Missed Layup,24,31
+4:46,Lafayette,Auston Evans,Block,24,31
+4:44,Navy,George Kiernan,Offensive Rebound,24,31
+4:40,Navy,George Kiernan,Missed Jumper,24,31
+4:40,Lafayette,Dylan Hastings,Defensive Rebound,24,31
+4:27,Lafayette,Auston Evans,Turnover,24,31
+4:26,Navy,Cam Davis,Steal,24,31
+4:22,Navy,Josiah Strong,Layup,24,33
+4:04,Lafayette,Paulius Zalys,Jumper,26,33
+3:50,Navy,George Kiernan,Missed Jumper,26,33
+3:50,Lafayette,Kyle Stout,Block,26,33
+3:48,Lafayette,Paulius Zalys,Defensive Rebound,26,33
+3:35,Lafayette,Justin Jaworski,Missed Layup,26,33
+3:35,Navy,Cam Davis,Defensive Rebound,26,33
+3:27,Navy,Cam Davis,Layup,26,35
+3:27,Lafayette,Paulius Zalys,Foul,26,35
+3:27,Navy,None,None,26,35
+3:27,Navy,Cam Davis,Free Throw,26,36
+3:19,Lafayette,Justin Jaworski,Layup,28,36
+3:09,Navy,None,None,28,36
+2:52,Navy,John Carter Jr.,Turnover,28,36
+2:51,Lafayette,Paulius Zalys,Steal,28,36
+2:47,Lafayette,E.J. Stephens,Dunk,30,36
+2:34,Navy,Hasan Abdullah,Turnover,30,36
+2:32,Lafayette,Auston Evans,Steal,30,36
+2:32,Navy,Hasan Abdullah,Foul,30,36
+2:32,Lafayette,Auston Evans,Missed Free Throw,30,36
+2:32,Lafayette,None,Team Rebound,30,36
+2:32,Lafayette,Auston Evans,Missed Free Throw,30,36
+2:32,Lafayette,Lukas Jarrett,Offensive Rebound,30,36
+2:19,Lafayette,Kyle Stout,Missed Three Point Jumper,30,36
+2:19,Navy,John Carter Jr.,Defensive Rebound,30,36
+1:59,Navy,Luke Loehr,Layup,30,38
+1:59,Lafayette,Auston Evans,Foul,30,38
+1:59,Navy,Luke Loehr,Free Throw,30,39
+1:47,Lafayette,Paulius Zalys,Layup,32,39
+1:20,Navy,Cam Davis,Layup,32,41
+1:03,Lafayette,Lukas Jarrett,Missed Layup,32,41
+1:03,Lafayette,Paulius Zalys,Offensive Rebound,32,41
+0:58,Lafayette,Paulius Zalys,Missed Layup,32,41
+0:58,Lafayette,E.J. Stephens,Offensive Rebound,32,41
+0:57,Lafayette,E.J. Stephens,Missed Three Point Jumper,32,41
+0:57,Lafayette,Lukas Jarrett,Offensive Rebound,32,41
+0:55,Navy,John Carter Jr.,Foul,32,41
+0:55,Lafayette,Lukas Jarrett,Missed Free Throw,32,41
+0:55,Lafayette,Isaac Suffren,Offensive Rebound,32,41
+0:53,Lafayette,Isaac Suffren,Missed Layup,32,41
+0:53,Navy,Luke Loehr,Defensive Rebound,32,41
+0:36,Navy,Isaiah Burnett,Turnover,32,41
+0:28,Lafayette,Paulius Zalys,Layup,34,41
+0:04,Navy,Isaiah Burnett,Missed Three Point Jumper,34,41
+0:04,Lafayette,E.J. Stephens,Block,34,41
+0:03,Navy,Navy,Offensive Rebound,34,41
+0:02,Navy,Cam Davis,Missed Three Point Jumper,34,41
+0:02,Lafayette,Dylan Hastings,Defensive Rebound,34,41
+0:00,Navy,None,None,34,41
+20:00,Navy,Isaiah Burnett,Foul,34,41
+20:00,Navy,Isaiah Burnett,Foul,34,41
+20:00,Lafayette,Justin Jaworski,Free Throw,35,41
+20:00,Lafayette,Justin Jaworski,Free Throw,36,41
+19:47,Navy,Evan Wieck,Missed Jumper,36,41
+19:47,Lafayette,Kyle Stout,Defensive Rebound,36,41
+19:35,Lafayette,Justin Jaworski,Layup,38,41
+19:15,Navy,John Carter Jr.,Three Point Jumper,38,44
+18:46,Lafayette,E.J. Stephens,Missed Three Point Jumper,38,44
+18:46,Navy,Navy,Defensive Rebound,38,44
+18:21,Navy,John Carter Jr.,Missed Three Point Jumper,38,44
+18:21,Lafayette,Dylan Hastings,Defensive Rebound,38,44
+18:08,Navy,John Carter Jr.,Foul,38,44
+18:08,Lafayette,Dylan Hastings,Missed Free Throw,38,44
+18:08,Lafayette,None,Team Rebound,38,44
+18:08,Lafayette,Dylan Hastings,Missed Free Throw,38,44
+18:08,Lafayette,Lukas Jarrett,Offensive Rebound,38,44
+17:56,Lafayette,Kyle Stout,Three Point Jumper,41,44
+17:31,Navy,Cam Davis,Turnover,41,44
+17:09,Lafayette,Lukas Jarrett,Missed Jumper,41,44
+17:09,Navy,Evan Wieck,Defensive Rebound,41,44
+16:53,Lafayette,Kyle Stout,Foul,41,44
+16:50,Navy,John Carter Jr.,Jumper,41,46
+16:35,Lafayette,Kyle Stout,Three Point Jumper,44,46
+16:08,Navy,George Kiernan,Layup,44,48
+15:53,Lafayette,E.J. Stephens,Layup,46,48
+15:53,Navy,Hasan Abdullah,Foul,46,48
+15:53,Navy,None,None,46,48
+15:53,Lafayette,E.J. Stephens,Missed Free Throw,46,48
+15:53,Lafayette,Lukas Jarrett,Offensive Rebound,46,48
+15:44,Lafayette,Isaac Suffren,Missed Three Point Jumper,46,48
+15:44,Navy,George Kiernan,Defensive Rebound,46,48
+15:31,Navy,George Kiernan,Missed Layup,46,48
+15:31,Lafayette,Dylan Hastings,Defensive Rebound,46,48
+15:06,Lafayette,Paulius Zalys,Missed Three Point Jumper,46,48
+15:06,Navy,John Carter Jr.,Defensive Rebound,46,48
+14:57,Navy,Hasan Abdullah,Jumper,46,50
+14:40,Lafayette,Paulius Zalys,Jumper,48,50
+14:10,Navy,John Carter Jr.,Missed Three Point Jumper,48,50
+14:10,Navy,Cam Davis,Offensive Rebound,48,50
+13:56,Navy,George Kiernan,Three Point Jumper,48,53
+13:48,Navy,George Kiernan,Foul,48,53
+13:37,Lafayette,Tyrone Perry,Three Point Jumper,51,53
+13:17,Navy,Hasan Abdullah,Missed Jumper,51,53
+13:17,Lafayette,Lukas Jarrett,Defensive Rebound,51,53
+13:06,Lafayette,Paulius Zalys,Turnover,51,53
+12:46,Navy,Cam Davis,Missed Jumper,51,53
+12:46,Lafayette,Dylan Hastings,Defensive Rebound,51,53
+12:24,Lafayette,Justin Jaworski,Three Point Jumper,54,53
+12:16,Navy,Hasan Abdullah,Turnover,54,53
+12:00,Lafayette,Paulius Zalys,Layup,56,53
+11:37,Navy,Luke Loehr,Layup,56,55
+11:22,Lafayette,Paulius Zalys,Missed Three Point Jumper,56,55
+11:22,Navy,Hasan Abdullah,Defensive Rebound,56,55
+11:16,Navy,Hasan Abdullah,Turnover,56,55
+11:15,Lafayette,Dylan Hastings,Steal,56,55
+11:12,Lafayette,Dylan Hastings,Layup,58,55
+11:05,Navy,None,None,58,55
+10:54,Navy,None,None,58,55
+10:43,Navy,Cam Davis,Missed Three Point Jumper,58,55
+10:43,Navy,George Kiernan,Offensive Rebound,58,55
+10:35,Navy,Cam Davis,Layup,58,57
+10:35,Lafayette,Kyle Stout,Foul,58,57
+10:35,Navy,Cam Davis,Free Throw,58,58
+10:15,Lafayette,Paulius Zalys,Missed Layup,58,58
+10:15,Navy,Luke Loehr,Defensive Rebound,58,58
+10:00,Navy,Josiah Strong,Missed Three Point Jumper,58,58
+10:00,Lafayette,Paulius Zalys,Defensive Rebound,58,58
+9:50,Lafayette,Isaac Suffren,Turnover,58,58
+9:49,Navy,Luke Loehr,Steal,58,58
+9:49,Navy,Josiah Strong,Turnover,58,58
+9:49,Lafayette,Lukas Jarrett,Steal,58,58
+9:48,Navy,Josiah Strong,Foul,58,58
+9:48,Lafayette,Lukas Jarrett,Free Throw,59,58
+9:48,Lafayette,Lukas Jarrett,Free Throw,60,58
+9:34,Navy,George Kiernan,Turnover,60,58
+9:18,Lafayette,Paulius Zalys,Three Point Jumper,63,58
+8:59,Navy,Greg Summers,Missed Layup,63,58
+8:59,Lafayette,Justin Jaworski,Defensive Rebound,63,58
+8:51,Lafayette,Kyle Stout,Missed Three Point Jumper,63,58
+8:51,Navy,Luke Loehr,Defensive Rebound,63,58
+8:48,Lafayette,Paulius Zalys,Foul,63,58
+8:27,Lafayette,Paulius Zalys,Foul,63,58
+8:18,Lafayette,Isaac Suffren,Foul,63,58
+8:18,Navy,Cam Davis,Missed Free Throw,63,58
+8:18,Navy,None,Team Rebound,63,58
+8:18,Navy,Cam Davis,Free Throw,63,59
+7:51,Lafayette,Kyle Stout,Three Point Jumper,66,59
+7:34,Navy,None,None,66,59
+7:19,Navy,Greg Summers,Missed Jumper,66,59
+7:19,Lafayette,Kyle Stout,Defensive Rebound,66,59
+6:47,Lafayette,Justin Jaworski,Missed Jumper,66,59
+6:47,Lafayette,Lafayette,Offensive Rebound,66,59
+6:47,Lafayette,Lafayette ,Turnover,66,59
+6:37,Navy,Cam Davis,Turnover,66,59
+6:36,Lafayette,Isaac Suffren,Steal,66,59
+6:33,Lafayette,Isaac Suffren,Missed Dunk,66,59
+6:33,Navy,Cam Davis,Defensive Rebound,66,59
+6:21,Navy,John Carter Jr.,Three Point Jumper,66,62
+6:09,Lafayette,None,None,66,62
+6:02,Lafayette,Justin Jaworski,Turnover,66,62
+6:00,Navy,Evan Wieck,Steal,66,62
+5:49,Navy,Cam Davis,Layup,66,64
+5:34,Lafayette,E.J. Stephens,Missed Three Point Jumper,66,64
+5:34,Navy,Cam Davis,Defensive Rebound,66,64
+5:08,Navy,Evan Wieck,Turnover,66,64
+4:41,Lafayette,E.J. Stephens,Three Point Jumper,69,64
+4:19,Navy,John Carter Jr.,Layup,69,66
+4:08,Lafayette,Paulius Zalys,Jumper,71,66
+3:48,Navy,Evan Wieck,Missed Jumper,71,66
+3:48,Navy,John Carter Jr.,Offensive Rebound,71,66
+3:44,Navy,John Carter Jr.,Missed Layup,71,66
+3:44,Navy,Evan Wieck,Offensive Rebound,71,66
+3:43,Lafayette,Lukas Jarrett,Foul,71,66
+3:43,Navy,None,None,71,66
+3:43,Navy,Evan Wieck,Free Throw,71,67
+3:43,Navy,Evan Wieck,Free Throw,71,68
+3:24,Lafayette,Justin Jaworski,Missed Three Point Jumper,71,68
+3:24,Navy,Evan Wieck,Defensive Rebound,71,68
+2:55,Navy,Evan Wieck,Missed Layup,71,68
+2:55,Lafayette,Lukas Jarrett,Block,71,68
+2:53,Lafayette,Kyle Stout,Defensive Rebound,71,68
+2:28,Lafayette,Justin Jaworski,Layup,73,68
+2:07,Navy,Evan Wieck,Jumper,73,70
+1:50,Lafayette,Paulius Zalys,Missed Layup,73,70
+1:50,Navy,George Kiernan,Defensive Rebound,73,70
+1:38,Lafayette,Lukas Jarrett,Foul,73,70
+1:38,Navy,Evan Wieck,Missed Free Throw,73,70
+1:38,Lafayette,E.J. Stephens,Defensive Rebound,73,70
+1:28,Lafayette,None,None,73,70
+1:14,Lafayette,Paulius Zalys,Missed Three Point Jumper,73,70
+1:14,Navy,George Kiernan,Defensive Rebound,73,70
+0:59,Navy,Hasan Abdullah,Missed Layup,73,70
+0:59,Navy,Evan Wieck,Offensive Rebound,73,70
+0:56,Navy,Evan Wieck,Missed Layup,73,70
+0:56,Lafayette,Kyle Stout,Defensive Rebound,73,70
+0:35,Lafayette,Kyle Stout,Layup,75,70
+0:30,Navy,Cam Davis,Layup,75,72
+0:29,Navy,None,None,75,72
+0:29,Lafayette,None,None,75,72
+0:24,Lafayette,Isaac Suffren,Layup,77,72
+0:20,Navy,Greg Summers,Missed Layup,77,72
+0:20,Navy,Evan Wieck,Offensive Rebound,77,72
+0:16,Navy,Greg Summers,Missed Layup,77,72
+0:16,Lafayette,Lukas Jarrett,Block,77,72
+0:13,Navy,Greg Summers,Offensive Rebound,77,72
+0:10,Lafayette,Lukas Jarrett,Foul,77,72
+0:10,Navy,Greg Summers,Free Throw,77,73
+0:10,Navy,Greg Summers,Free Throw,77,74
+0:09,Navy,Cam Davis,Foul,77,74
+0:08,Navy,Cam Davis,Foul,77,74
+0:08,Lafayette,Justin Jaworski,Free Throw,78,74
+0:08,Lafayette,Justin Jaworski,Missed Free Throw,78,74
+0:08,Navy,George Kiernan,Defensive Rebound,78,74
+0:04,Navy,Hasan Abdullah,Turnover,78,74
+0:02,Navy,Evan Wieck,Foul,78,74
+0:02,Lafayette,Justin Jaworski,Free Throw,79,74
+0:02,Lafayette,Justin Jaworski,Free Throw,80,74
+0:00,Navy,Hasan Abdullah,Missed Three Point Jumper,80,74
+0:00,Navy,Navy,Offensive Rebound,80,74
+0:00,Navy,None,None,80,74

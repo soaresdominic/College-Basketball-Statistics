@@ -1,0 +1,339 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,Lafayette,E.J. Stephens,Jumper,0,2
+19:26,Cornell,Matt Morgan,Missed Layup,0,2
+19:26,Lafayette,Isaac Suffren,Block,0,2
+19:24,Lafayette,Isaac Suffren,Defensive Rebound,0,2
+19:19,Lafayette,Isaac Suffren,Turnover,0,2
+19:12,Cornell,Terrance McBride,Steal,0,2
+19:05,Cornell,Steven Julian,Missed Jumper,0,2
+19:05,Lafayette,Lukas Jarrett,Defensive Rebound,0,2
+18:42,Lafayette,E.J. Stephens,Three Point Jumper,0,5
+18:27,Cornell,Terrance McBride,Missed Three Point Jumper,0,5
+18:27,Lafayette,Myles Cherry,Defensive Rebound,0,5
+18:14,Lafayette,Myles Cherry,Layup,0,7
+17:56,Cornell,Josh Warren,Missed Three Point Jumper,0,7
+17:56,Lafayette,E.J. Stephens,Defensive Rebound,0,7
+17:43,Lafayette,Justin Jaworski,Layup,0,9
+17:34,Cornell,None,None,0,9
+17:21,Cornell,Josh Warren,Turnover,0,9
+17:20,Lafayette,Myles Cherry,Steal,0,9
+17:04,Lafayette,E.J. Stephens,Missed Three Point Jumper,0,9
+17:04,Cornell,Matt Morgan,Defensive Rebound,0,9
+16:43,Cornell,Terrance McBride,Jumper,2,9
+16:35,Lafayette,Myles Cherry,Missed Layup,2,9
+16:35,Cornell,Steven Julian,Block,2,9
+16:29,Lafayette,Myles Cherry,Offensive Rebound,2,9
+16:27,Lafayette,Myles Cherry,Layup,2,11
+16:13,Cornell,Steven Julian,Missed Jumper,2,11
+16:13,Lafayette,Myles Cherry,Defensive Rebound,2,11
+16:00,Cornell,Matt Morgan,Foul,2,11
+16:00,Lafayette,None,None,2,11
+15:38,Lafayette,Lukas Jarrett,Missed Three Point Jumper,2,11
+15:38,Lafayette,Isaac Suffren,Offensive Rebound,2,11
+15:23,Lafayette,Myles Cherry,Jumper,2,13
+15:10,Cornell,Jimmy Boeheim,Missed Three Point Jumper,2,13
+15:10,Lafayette,Myles Cherry,Defensive Rebound,2,13
+15:00,Lafayette,E.J. Stephens,Missed Jumper,2,13
+15:00,Cornell,Steven Julian,Defensive Rebound,2,13
+14:49,Cornell,Matt Morgan,Turnover,2,13
+14:47,Lafayette,Myles Cherry,Steal,2,13
+14:19,Lafayette,E.J. Stephens,Missed Three Point Jumper,2,13
+14:19,Cornell,Cornell,Defensive Rebound,2,13
+14:12,Lafayette,Kyle Stout,Foul,2,13
+14:01,Cornell,Terrance McBride,Missed Jumper,2,13
+14:01,Lafayette,Kyle Stout,Defensive Rebound,2,13
+13:39,Lafayette,Tyrone Perry,Turnover,2,13
+13:29,Cornell,Joel Davis,Missed Layup,2,13
+13:29,Lafayette,Kyle Stout,Defensive Rebound,2,13
+13:22,Lafayette,Sean Good,Turnover,2,13
+13:22,Lafayette,Sean Good,Foul,2,13
+13:01,Cornell,Jack Gordon,Missed Three Point Jumper,2,13
+13:01,Lafayette,Dylan Hastings,Defensive Rebound,2,13
+12:42,Lafayette,Tyrone Perry,Turnover,2,13
+12:39,Cornell,Joel Davis,Steal,2,13
+12:37,Cornell,Joel Davis,Dunk,4,13
+12:13,Cornell,Joel Davis,Foul,4,13
+11:53,Lafayette,Alex Petrie,Missed Three Point Jumper,4,13
+11:53,Cornell,Jake Kuhn,Defensive Rebound,4,13
+11:41,Lafayette,Sean Good,Foul,4,13
+11:41,Lafayette,None,None,4,13
+11:41,Cornell,Josh Warren,Free Throw,5,13
+11:41,Cornell,Josh Warren,Free Throw,6,13
+11:20,Lafayette,Myles Cherry,Turnover,6,13
+11:20,Lafayette,Myles Cherry,Foul,6,13
+11:10,Cornell,Joel Davis,Missed Three Point Jumper,6,13
+11:10,Lafayette,Dylan Hastings,Defensive Rebound,6,13
+10:55,Lafayette,Dylan Hastings,Missed Three Point Jumper,6,13
+10:55,Cornell,Josh Warren,Defensive Rebound,6,13
+10:42,Cornell,Jimmy Boeheim,Jumper,8,13
+10:11,Lafayette,Alex Petrie,Turnover,8,13
+9:45,Lafayette,E.J. Stephens,Foul,8,13
+9:35,Cornell,Matt Morgan,Three Point Jumper,11,13
+9:24,Lafayette,E.J. Stephens,Turnover,11,13
+9:13,Cornell,Jimmy Boeheim,Missed Jumper,11,13
+9:13,Lafayette,Isaac Suffren,Defensive Rebound,11,13
+9:06,Lafayette,Dylan Hastings,Layup,11,15
+8:54,Lafayette,Dylan Hastings,Foul,11,15
+8:54,Cornell,Josh Warren,Free Throw,12,15
+8:54,Cornell,Josh Warren,Missed Free Throw,12,15
+8:54,Lafayette,Myles Cherry,Defensive Rebound,12,15
+8:25,Lafayette,Justin Jaworski,Jumper,12,17
+8:14,Cornell,Jimmy Boeheim,Missed Three Point Jumper,12,17
+8:14,Lafayette,Isaac Suffren,Defensive Rebound,12,17
+7:59,Lafayette,Isaac Suffren,Missed Layup,12,17
+7:59,Lafayette,E.J. Stephens,Offensive Rebound,12,17
+7:55,Lafayette,E.J. Stephens,Layup,12,19
+7:45,Lafayette,Lukas Jarrett,Foul,12,19
+7:45,Lafayette,None,None,12,19
+7:45,Cornell,Josh Warren,Free Throw,13,19
+7:45,Cornell,Josh Warren,Free Throw,14,19
+7:25,Lafayette,E.J. Stephens,Missed Jumper,14,19
+7:25,Lafayette,Myles Cherry,Offensive Rebound,14,19
+7:25,Cornell,Steven Julian,Foul,14,19
+7:25,Lafayette,Alex Petrie,Missed Jumper,14,19
+7:25,Cornell,Cornell,Defensive Rebound,14,19
+6:57,Cornell,Jimmy Boeheim,Foul,14,19
+6:57,Cornell,Jimmy Boeheim,Turnover,14,19
+6:36,Cornell,Steven Julian,Defensive Rebound,14,19
+6:36,Lafayette,Lukas Jarrett,Missed Layup,14,19
+6:16,Cornell,Jimmy Boeheim,Missed Jumper,14,19
+6:15,Lafayette,Myles Cherry,Defensive Rebound,14,19
+5:50,Lafayette,Justin Jaworski,Layup,14,21
+5:42,Cornell,Jake Kuhn,Missed Three Point Jumper,14,21
+5:42,Lafayette,E.J. Stephens,Defensive Rebound,14,21
+5:37,Cornell,Jimmy Boeheim,Foul,14,21
+5:37,Lafayette,Justin Jaworski,Missed Free Throw,14,21
+5:37,Lafayette,None,Team Rebound,14,21
+5:37,Lafayette,Justin Jaworski,Free Throw,14,22
+5:37,Lafayette,Justin Jaworski,Free Throw,14,23
+5:28,Cornell,Troy Whiteside,Missed Three Point Jumper,14,23
+5:28,Lafayette,Kyle Stout,Defensive Rebound,14,23
+5:11,Lafayette,Tyrone Perry,Jumper,14,25
+4:34,Cornell,Jack Gordon,Missed Jumper,14,25
+4:34,Lafayette,Isaac Suffren,Block,14,25
+4:34,Cornell,Cornell,Offensive Rebound,14,25
+4:30,Cornell,Troy Whiteside,Missed Jumper,14,25
+4:30,Lafayette,Dylan Hastings,Defensive Rebound,14,25
+4:13,Lafayette,Isaac Suffren,Missed Layup,14,25
+4:13,Cornell,Steven Julian,Defensive Rebound,14,25
+4:05,Cornell,Joel Davis,Missed Layup,14,25
+4:05,Lafayette,Kyle Stout,Defensive Rebound,14,25
+3:49,Lafayette,Tyrone Perry,Turnover,14,25
+3:47,Cornell,Steven Julian,Steal,14,25
+3:24,Cornell,Steven Julian,Missed Three Point Jumper,14,25
+3:24,Lafayette,Lukas Jarrett,Block,14,25
+3:24,Cornell,Cornell,Offensive Rebound,14,25
+3:20,Cornell,Steven Julian,Layup,16,25
+3:12,Lafayette,Isaac Suffren,Missed Jumper,16,25
+3:12,Cornell,Steven Julian,Defensive Rebound,16,25
+3:02,Cornell,Matt Morgan,Missed Three Point Jumper,16,25
+3:02,Lafayette,Lukas Jarrett,Defensive Rebound,16,25
+2:41,Lafayette,Tyrone Perry,Missed Jumper,16,25
+2:41,Cornell,Steven Julian,Defensive Rebound,16,25
+2:32,Cornell,Steven Julian,Layup,18,25
+2:29,Lafayette,None,None,18,25
+2:18,Lafayette,Alex Petrie,Missed Jumper,18,25
+2:18,Cornell,Josh Warren,Defensive Rebound,18,25
+2:10,Cornell,Josh Warren,Layup,20,25
+1:27,Lafayette,Justin Jaworski,Missed Layup,20,25
+1:27,Cornell,Josh Warren,Defensive Rebound,20,25
+1:20,Cornell,Jack Gordon,Three Point Jumper,23,25
+0:54,Lafayette,Myles Cherry,Missed Jumper,23,25
+0:54,Cornell,Joel Davis,Defensive Rebound,23,25
+0:36,Cornell,Jack Gordon,Missed Three Point Jumper,23,25
+0:36,Lafayette,Myles Cherry,Defensive Rebound,23,25
+0:12,Cornell,Troy Whiteside,Foul,23,25
+0:05,Lafayette,Alex Petrie,Jumper,23,27
+0:00,Lafayette,None,None,23,27
+19:45,Cornell,Steven Julian,Missed Jumper,23,27
+19:45,Lafayette,Lukas Jarrett,Defensive Rebound,23,27
+19:34,Lafayette,Myles Cherry,Missed Jumper,23,27
+19:34,Cornell,Terrance McBride,Defensive Rebound,23,27
+19:20,Cornell,Josh Warren,Layup,25,27
+19:10,Cornell,Matt Morgan,Foul,25,27
+18:48,Lafayette,E.J. Stephens,Missed Jumper,25,27
+18:48,Cornell,Josh Warren,Defensive Rebound,25,27
+18:41,Cornell,Matt Morgan,Missed Layup,25,27
+18:41,Lafayette,Myles Cherry,Defensive Rebound,25,27
+18:33,Lafayette,Isaac Suffren,Missed Three Point Jumper,25,27
+18:33,Lafayette,E.J. Stephens,Offensive Rebound,25,27
+18:14,Lafayette,Myles Cherry,Missed Layup,25,27
+18:14,Cornell,Matt Morgan,Defensive Rebound,25,27
+17:45,Cornell,Josh Warren,Jumper,27,27
+17:33,Lafayette,Justin Jaworski,Missed Jumper,27,27
+17:33,Cornell,Troy Whiteside,Defensive Rebound,27,27
+17:28,Cornell,Troy Whiteside,Jumper,29,27
+17:03,Lafayette,Lukas Jarrett,Missed Jumper,29,27
+17:03,Cornell,Josh Warren,Defensive Rebound,29,27
+16:39,Lafayette,Kyle Stout,Foul,29,27
+16:19,Cornell,Matt Morgan,Missed Three Point Jumper,29,27
+16:19,Lafayette,Lukas Jarrett,Defensive Rebound,29,27
+15:49,Lafayette,Isaac Suffren,Missed Three Point Jumper,29,27
+15:49,Lafayette,Lukas Jarrett,Offensive Rebound,29,27
+15:41,Lafayette,Alex Petrie,Missed Layup,29,27
+15:41,Cornell,Steven Julian,Block,29,27
+15:39,Cornell,Terrance McBride,Defensive Rebound,29,27
+15:36,Lafayette,Dylan Hastings,Foul,29,27
+15:36,Lafayette,None,None,29,27
+15:36,Cornell,Matt Morgan,Missed Free Throw,29,27
+15:36,Cornell,Matt Morgan,Free Throw,30,27
+15:36,Cornell,None,Team Rebound,29,27
+15:01,Lafayette,Alex Petrie,Missed Three Point Jumper,30,27
+15:01,Lafayette,Myles Cherry,Offensive Rebound,30,27
+14:58,Cornell,Josh Warren,Foul,30,27
+14:54,Lafayette,Alex Petrie,Turnover,30,27
+14:36,Lafayette,Sean Good,Foul,30,27
+14:36,Cornell,Josh Warren,Missed Free Throw,30,27
+14:36,Cornell,None,Team Rebound,30,27
+14:36,Cornell,Josh Warren,Missed Free Throw,30,27
+14:36,Lafayette,Myles Cherry,Defensive Rebound,30,27
+14:17,Lafayette,Justin Jaworski,Missed Three Point Jumper,30,27
+14:17,Lafayette,Myles Cherry,Offensive Rebound,30,27
+14:16,Cornell,Jimmy Boeheim,Foul,30,27
+14:01,Lafayette,Alex Petrie,Layup,30,29
+13:35,Cornell,Matt Morgan,Missed Three Point Jumper,30,29
+13:35,Lafayette,E.J. Stephens,Defensive Rebound,30,29
+13:27,Lafayette,Alex Petrie,Missed Three Point Jumper,30,29
+13:27,Lafayette,Myles Cherry,Offensive Rebound,30,29
+13:25,Lafayette,Myles Cherry,Layup,30,31
+12:59,Cornell,Steven Julian,Turnover,30,31
+12:33,Lafayette,Alex Petrie,Missed Jumper,30,31
+12:33,Cornell,Jack Gordon,Defensive Rebound,30,31
+12:17,Lafayette,Dylan Hastings,Foul,30,31
+12:17,Cornell,Jimmy Boeheim,Free Throw,31,31
+12:17,Cornell,Jimmy Boeheim,Free Throw,32,31
+12:04,Lafayette,E.J. Stephens,Jumper,32,33
+11:40,Cornell,Jimmy Boeheim,Missed Jumper,32,33
+11:40,Lafayette,Myles Cherry,Defensive Rebound,32,33
+11:25,Lafayette,Justin Jaworski,Missed Three Point Jumper,32,33
+11:25,Cornell,Jake Kuhn,Defensive Rebound,32,33
+11:14,Cornell,Steven Julian,Missed Jumper,32,33
+11:14,Lafayette,Justin Jaworski,Defensive Rebound,32,33
+10:53,Lafayette,Myles Cherry,Layup,32,35
+10:40,Cornell,Jake Kuhn,Three Point Jumper,35,35
+10:27,Lafayette,Alex Petrie,Missed Three Point Jumper,35,35
+10:27,Cornell,Troy Whiteside,Defensive Rebound,35,35
+10:16,Cornell,Jake Kuhn,Three Point Jumper,38,35
+9:44,Lafayette,Lukas Jarrett,Missed Jumper,38,35
+9:44,Cornell,Jake Kuhn,Defensive Rebound,38,35
+9:31,Cornell,Jake Kuhn,Missed Three Point Jumper,38,35
+9:31,Lafayette,Alex Petrie,Defensive Rebound,38,35
+9:19,Lafayette,Alex Petrie,Missed Jumper,38,35
+9:19,Cornell,Troy Whiteside,Defensive Rebound,38,35
+9:16,Lafayette,Alex Petrie,Foul,38,35
+9:16,Lafayette,None,None,38,35
+9:03,Lafayette,Tyrone Perry,Foul,38,35
+9:03,Cornell,Jack Gordon,Missed Free Throw,38,35
+9:03,Cornell,None,Team Rebound,38,35
+9:03,Cornell,Jack Gordon,Missed Free Throw,38,35
+9:03,Lafayette,Myles Cherry,Defensive Rebound,38,35
+8:42,Lafayette,Isaac Suffren,Turnover,38,35
+8:20,Cornell,Josh Warren,Missed Layup,38,35
+8:20,Lafayette,Myles Cherry,Defensive Rebound,38,35
+8:11,Lafayette,Kyle Stout,Turnover,38,35
+8:11,Lafayette,Kyle Stout,Foul,38,35
+8:01,Lafayette,Kyle Stout,Foul,38,35
+8:01,Lafayette,None,None,38,35
+8:01,Cornell,Jake Kuhn,Missed Free Throw,38,35
+8:01,Lafayette,Myles Cherry,Defensive Rebound,38,35
+7:56,Cornell,Terrance McBride,Foul,38,35
+7:42,Lafayette,Justin Jaworski,Missed Jumper,38,35
+7:42,Lafayette,Justin Jaworski,Offensive Rebound,38,35
+7:42,Lafayette,Justin Jaworski,Three Point Jumper,38,38
+7:42,Cornell,Terrance McBride,Three Point Jumper,41,38
+7:40,Lafayette,Myles Cherry,Missed Layup,41,38
+7:40,Cornell,Josh Warren,Block,41,38
+7:38,Lafayette,Lafayette,Offensive Rebound,41,38
+6:08,Lafayette,Alex Petrie,Missed Three Point Jumper,41,38
+6:08,Lafayette,Dylan Hastings,Offensive Rebound,41,38
+6:04,Lafayette,E.J. Stephens,Missed Jumper,41,38
+6:04,Cornell,Troy Whiteside,Defensive Rebound,41,38
+5:44,Cornell,Matt Morgan,Turnover,41,38
+5:44,Lafayette,Myles Cherry,Steal,41,38
+5:29,Lafayette,Myles Cherry,Layup,41,40
+5:03,Cornell,None,None,41,40
+4:58,Cornell,Matt Morgan,Missed Layup,41,40
+4:58,Lafayette,Lukas Jarrett,Defensive Rebound,41,40
+4:48,Lafayette,Lukas Jarrett,Layup,41,42
+4:32,Cornell,Matt Morgan,Layup,43,42
+4:22,Lafayette,E.J. Stephens,Missed Jumper,43,42
+4:22,Lafayette,Isaac Suffren,Offensive Rebound,43,42
+4:22,Cornell,Troy Whiteside,Foul,43,42
+3:43,Cornell,Steven Julian,Foul,43,42
+3:43,Lafayette,None,None,43,42
+3:43,Lafayette,Alex Petrie,Missed Free Throw,43,42
+3:43,Lafayette,None,Team Rebound,43,42
+3:43,Lafayette,Alex Petrie,Free Throw,43,43
+3:28,Cornell,Troy Whiteside,Missed Jumper,43,43
+3:28,Lafayette,Lukas Jarrett,Block,43,43
+3:28,Cornell,Cornell,Offensive Rebound,43,43
+3:25,Cornell,Matt Morgan,Layup,45,43
+3:16,Lafayette,Isaac Suffren,Turnover,45,43
+2:48,Cornell,Matt Morgan,Missed Jumper,45,43
+2:48,Cornell,Cornell,Offensive Rebound,45,43
+2:24,Cornell,Jimmy Boeheim,Missed Three Point Jumper,45,43
+2:24,Lafayette,Alex Petrie,Defensive Rebound,45,43
+2:08,Lafayette,Lukas Jarrett,Dunk,45,45
+1:47,Cornell,Jack Gordon,Three Point Jumper,48,45
+1:46,Cornell,None,None,48,45
+1:33,Cornell,Terrance McBride,Foul,48,45
+1:33,Lafayette,Justin Jaworski,Free Throw,48,46
+1:33,Lafayette,Justin Jaworski,Free Throw,48,47
+1:10,Cornell,Terrance McBride,Jumper,50,47
+1:05,Lafayette,None,None,50,47
+0:50,Lafayette,Myles Cherry,Layup,50,49
+0:36,Cornell,None,None,50,49
+0:26,Cornell,Josh Warren,Layup,52,49
+0:25,Lafayette,None,None,52,49
+0:19,Lafayette,Justin Jaworski,Missed Layup,52,49
+0:19,Cornell,Jack Gordon,Defensive Rebound,52,49
+0:14,Cornell,Terrance McBride,Turnover,52,49
+0:11,Lafayette,Justin Jaworski,Steal,52,49
+0:08,Lafayette,Alex Petrie,Three Point Jumper,52,52
+0:06,Lafayette,None,None,52,52
+0:00,Cornell,Matt Morgan,Missed Jumper,52,52
+0:00,Lafayette,Lafayette,Defensive Rebound,52,52
+0:00,Lafayette,None,None,52,52
+4:59,Lafayette,Alex Petrie,Jumper,52,54
+4:46,Cornell,Josh Warren,Missed Layup,52,54
+4:46,Lafayette,Sean Good,Block,52,54
+4:43,Lafayette,Justin Jaworski,Defensive Rebound,52,54
+3:57,Lafayette,Justin Jaworski,Missed Jumper,52,54
+3:57,Cornell,Terrance McBride,Defensive Rebound,52,54
+3:34,Cornell,Josh Warren,Three Point Jumper,55,54
+3:19,Lafayette,Lukas Jarrett,Turnover,55,54
+2:58,Cornell,Jack Gordon,Missed Jumper,55,54
+2:57,Lafayette,Lukas Jarrett,Block,55,54
+2:56,Cornell,Cornell,Offensive Rebound,55,54
+2:53,Cornell,Terrance McBride,Missed Three Point Jumper,55,54
+2:53,Lafayette,Lukas Jarrett,Defensive Rebound,55,54
+2:30,Cornell,Terrance McBride,Foul,55,54
+2:30,Lafayette,Myles Cherry,Missed Free Throw,55,54
+2:30,Cornell,Jack Gordon,Defensive Rebound,55,54
+2:14,Cornell,Jack Gordon,Missed Three Point Jumper,55,54
+2:14,Lafayette,Isaac Suffren,Defensive Rebound,55,54
+1:56,Cornell,Josh Warren,Foul,55,54
+1:56,Lafayette,Alex Petrie,Missed Free Throw,55,54
+1:56,Cornell,Jack Gordon,Defensive Rebound,55,54
+1:26,Lafayette,Isaac Suffren,Foul,55,54
+1:26,Cornell,Josh Warren,Free Throw,56,54
+1:25,Cornell,Terrance McBride,Missed Free Throw,56,54
+1:25,Cornell,Josh Warren,Offensive Rebound,56,54
+1:06,Cornell,Jack Gordon,Layup,58,54
+0:57,Lafayette,Justin Jaworski,Missed Layup,58,54
+0:57,Lafayette,Justin Jaworski,Offensive Rebound,58,54
+0:56,Lafayette,Justin Jaworski,Layup,58,56
+0:41,Cornell,None,None,58,56
+0:31,Cornell,Matt Morgan,Layup,60,56
+0:25,Lafayette,None,None,60,56
+0:19,Cornell,Steven Julian,Foul,60,56
+0:19,Lafayette,Alex Petrie,Free Throw,60,57
+0:19,Lafayette,Alex Petrie,Free Throw,60,58
+0:16,Lafayette,Isaac Suffren,Foul,60,58
+0:16,Cornell,Matt Morgan,Free Throw,61,58
+0:16,Cornell,Matt Morgan,Free Throw,62,58
+0:08,Lafayette,Alex Petrie,Missed Layup,62,58
+0:08,Cornell,Josh Warren,Defensive Rebound,62,58
+0:06,Lafayette,E.J. Stephens,Foul,62,58
+0:06,Cornell,Troy Whiteside,Missed Free Throw,62,58
+0:06,Cornell,None,Team Rebound,62,58

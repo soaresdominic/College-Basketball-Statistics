@@ -1,0 +1,274 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:36,Boise State,Derrick Alston,Three Point Jumper,0,3
+19:09,Colorado State,Adam Thistlewood,Missed Jumper,0,3
+19:09,Boise State,Derrick Alston,Defensive Rebound,0,3
+18:48,Boise State,Zach Haney,Missed Jumper,0,3
+18:48,Colorado State,Nico Carvacho,Defensive Rebound,0,3
+18:39,Colorado State,Kendle Moore,Turnover,0,3
+18:39,Boise State,David Wacker,Steal,0,3
+18:25,Boise State,Zach Haney,Layup,0,5
+18:02,Colorado State,Adam Thistlewood,Missed Three Point Jumper,0,5
+18:02,Boise State,Boise State,Defensive Rebound,0,5
+17:42,Boise State,Justinian Jessup,Missed Three Point Jumper,0,5
+17:42,Boise State,David Wacker,Offensive Rebound,0,5
+17:20,Boise State,Derrick Alston,Missed Jumper,0,5
+17:20,Colorado State,None,Team Rebound,0,5
+17:20,Boise State,Derrick Alston,Foul,0,5
+16:58,Colorado State,Kris Martin,Jumper,2,5
+16:24,Boise State,Marcus Dickinson,Three Point Jumper,2,8
+16:02,Colorado State,Nico Carvacho,Jumper,4,8
+15:38,Boise State,Marcus Dickinson,Turnover,4,8
+15:36,Colorado State,J.D. Paige,Steal,4,8
+15:17,Colorado State,Kendle Moore,Missed Three Point Jumper,4,8
+15:17,Boise State,Zach Haney,Defensive Rebound,4,8
+14:54,Boise State,Zach Haney,Layup,4,10
+14:30,Colorado State,J.D. Paige,Missed Jumper,4,10
+14:30,Boise State,Justinian Jessup,Defensive Rebound,4,10
+14:12,Boise State,Marcus Dickinson,Missed Three Point Jumper,4,10
+14:12,Boise State,Justinian Jessup,Offensive Rebound,4,10
+14:09,Boise State,Justinian Jessup,Missed Three Point Jumper,4,10
+14:09,Colorado State,Nico Carvacho,Defensive Rebound,4,10
+13:54,Boise State,None,None,4,10
+13:42,Colorado State,Kris Martin,Layup,6,10
+13:09,Boise State,Boise State ,Turnover,6,10
+12:55,Colorado State,Kris Martin,Layup,8,10
+12:33,Boise State,Derrick Alston,Missed Layup,8,10
+12:33,Colorado State,Kris Martin,Defensive Rebound,8,10
+12:25,Colorado State,J.D. Paige,Three Point Jumper,11,10
+12:22,Boise State,None,None,11,10
+12:22,Boise State,None,None,11,10
+12:09,Boise State,Alex Hobbs,Layup,11,12
+11:44,Colorado State,Kendle Moore,Missed Three Point Jumper,11,12
+11:44,Colorado State,Logan Ryan,Offensive Rebound,11,12
+11:35,Colorado State,Kris Martin,Missed Three Point Jumper,11,12
+11:35,Boise State,Zach Haney,Defensive Rebound,11,12
+11:20,Boise State,Zach Haney,Missed Jumper,11,12
+11:20,Colorado State,Logan Ryan,Defensive Rebound,11,12
+11:09,Colorado State,J.D. Paige,Turnover,11,12
+11:08,Boise State,Pat Dembley,Steal,11,12
+10:47,Boise State,Zach Haney,Layup,11,14
+10:29,Colorado State,Kendle Moore,Turnover,11,14
+10:05,Colorado State,Adam Thistlewood,Foul,11,14
+9:57,Boise State,Zach Haney,Jumper,11,16
+9:26,Colorado State,Hyron Edwards,Missed Jumper,11,16
+9:26,Boise State,Pat Dembley,Defensive Rebound,11,16
+9:03,Boise State,Pat Dembley,Turnover,11,16
+9:01,Colorado State,Hyron Edwards,Steal,11,16
+9:01,Colorado State,Hyron Edwards,Layup,13,16
+9:01,Boise State,Pat Dembley,Foul,13,16
+9:01,Colorado State,Hyron Edwards,Free Throw,14,16
+8:47,Boise State,Justinian Jessup,Missed Three Point Jumper,14,16
+8:47,Colorado State,Hyron Edwards,Defensive Rebound,14,16
+8:41,Boise State,Marcus Dickinson,Foul,14,16
+8:38,Colorado State,Hyron Edwards,Missed Jumper,14,16
+8:38,Boise State,Boise State,Defensive Rebound,14,16
+8:11,Boise State,Marcus Dickinson,Turnover,14,16
+7:54,Colorado State,Nico Carvacho,Jumper,16,16
+7:34,Colorado State,Nico Carvacho,Foul,16,16
+7:34,Boise State,None,None,16,16
+7:34,Boise State,Zach Haney,Free Throw,16,17
+7:34,Boise State,Zach Haney,Free Throw,16,18
+7:23,Colorado State,J.D. Paige,Turnover,16,18
+7:18,Boise State,Alex Hobbs,Missed Layup,16,18
+7:18,Colorado State,Adam Thistlewood,Defensive Rebound,16,18
+7:10,Colorado State,J.D. Paige,Missed Three Point Jumper,16,18
+7:10,Colorado State,Colorado State,Offensive Rebound,16,18
+7:05,Boise State,Alex Hobbs,Foul,16,18
+7:02,Colorado State,Nico Carvacho,Turnover,16,18
+6:53,Boise State,Alex Hobbs,Layup,16,20
+6:48,Colorado State,None,None,16,20
+6:24,Colorado State,Kris Martin,Turnover,16,20
+6:24,Boise State,Marcus Dickinson,Steal,16,20
+6:11,Boise State,Justinian Jessup,Layup,16,22
+5:41,Colorado State,J.D. Paige,Missed Three Point Jumper,16,22
+5:41,Boise State,Marcus Dickinson,Defensive Rebound,16,22
+5:26,Boise State,RJ Williams,Jumper,16,24
+5:13,Boise State,Marcus Dickinson,Foul,16,24
+4:55,Colorado State,J.D. Paige,Missed Three Point Jumper,16,24
+4:55,Boise State,Alex Hobbs,Defensive Rebound,16,24
+4:44,Boise State,Justinian Jessup,Jumper,16,26
+4:20,Colorado State,J.D. Paige,Layup,18,26
+4:01,Boise State,RJ Williams,Jumper,18,28
+3:37,Colorado State,Adam Thistlewood,Missed Three Point Jumper,18,28
+3:37,Boise State,None,Team Rebound,18,28
+3:36,Colorado State,Logan Ryan,Foul,18,28
+3:36,Boise State,None,None,18,28
+3:23,Boise State,Alex Hobbs,Three Point Jumper,18,31
+2:52,Colorado State,Nico Carvacho,Jumper,20,31
+2:36,Boise State,Derrick Alston,Missed Three Point Jumper,20,31
+2:36,Colorado State,Nico Carvacho,Defensive Rebound,20,31
+2:20,Colorado State,J.D. Paige,Turnover,20,31
+2:18,Boise State,Justinian Jessup,Steal,20,31
+2:16,Boise State,Pat Dembley,Turnover,20,31
+1:47,Colorado State,Kris Martin,Missed Three Point Jumper,20,31
+1:47,Boise State,Pat Dembley,Defensive Rebound,20,31
+1:29,Boise State,Alex Hobbs,Missed Jumper,20,31
+1:29,Colorado State,Kris Martin,Defensive Rebound,20,31
+1:17,Colorado State,J.D. Paige,Layup,22,31
+1:07,Boise State,Pat Dembley,Turnover,22,31
+1:05,Colorado State,Hyron Edwards,Steal,22,31
+1:03,Colorado State,Hyron Edwards,Layup,24,31
+0:48,Boise State,Pat Dembley,Turnover,24,31
+0:46,Colorado State,Hyron Edwards,Steal,24,31
+0:46,Colorado State,Kris Martin,Turnover,24,31
+0:27,Colorado State,J.D. Paige,Foul,24,31
+0:21,Boise State,Derrick Alston,Layup,24,33
+0:04,Colorado State,Hyron Edwards,Missed Layup,24,33
+0:04,Boise State,Alex Hobbs,Block,24,33
+0:04,Colorado State,Colorado State,Offensive Rebound,24,33
+0:00,Colorado State,J.D. Paige,Layup,26,33
+0:00,Boise State,None,None,26,33
+19:47,Colorado State,Nico Carvacho,Jumper,28,33
+19:31,Boise State,Derrick Alston,Missed Three Point Jumper,28,33
+19:31,Boise State,Zach Haney,Offensive Rebound,28,33
+19:26,Boise State,Zach Haney,Jumper,28,35
+19:03,Colorado State,Kris Martin,Missed Jumper,28,35
+19:03,Boise State,Zach Haney,Defensive Rebound,28,35
+18:44,Boise State,Derrick Alston,Missed Three Point Jumper,28,35
+18:44,Colorado State,Kendle Moore,Defensive Rebound,28,35
+18:34,Colorado State,Nico Carvacho,Turnover,28,35
+18:33,Boise State,Marcus Dickinson,Steal,28,35
+18:30,Boise State,Marcus Dickinson,Turnover,28,35
+18:28,Colorado State,Kris Martin,Steal,28,35
+18:21,Colorado State,J.D. Paige,Turnover,28,35
+18:20,Boise State,Zach Haney,Steal,28,35
+18:15,Boise State,Marcus Dickinson,Turnover,28,35
+18:14,Colorado State,Kendle Moore,Steal,28,35
+18:11,Colorado State,Kris Martin,Foul,28,35
+18:11,Colorado State,Kris Martin,Turnover,28,35
+17:43,Boise State,Zach Haney,Missed Jumper,28,35
+17:43,Colorado State,Nico Carvacho,Defensive Rebound,28,35
+17:36,Colorado State,Kendle Moore,Turnover,28,35
+17:19,Boise State,David Wacker,Missed Jumper,28,35
+17:19,Colorado State,Kris Martin,Block,28,35
+17:17,Boise State,Zach Haney,Offensive Rebound,28,35
+17:15,Colorado State,Nico Carvacho,Foul,28,35
+17:15,Boise State,Zach Haney,Missed Free Throw,28,35
+17:15,Boise State,None,Team Rebound,28,35
+17:15,Boise State,Zach Haney,Free Throw,28,36
+16:45,Colorado State,Nico Carvacho,Jumper,30,36
+16:21,Colorado State,Kris Martin,Foul,30,36
+16:21,Boise State,Zach Haney,Free Throw,30,37
+16:21,Boise State,Zach Haney,Missed Free Throw,30,37
+16:21,Colorado State,Kris Martin,Defensive Rebound,30,37
+16:02,Colorado State,Hyron Edwards,Layup,32,37
+15:31,Boise State,Alex Hobbs,Missed Three Point Jumper,32,37
+15:31,Colorado State,J.D. Paige,Defensive Rebound,32,37
+15:14,Colorado State,Nico Carvacho,Missed Jumper,32,37
+15:14,Boise State,Alex Hobbs,Defensive Rebound,32,37
+14:51,Boise State,Derrick Alston,Turnover,32,37
+14:37,Colorado State,Adam Thistlewood,Missed Three Point Jumper,32,37
+14:37,Colorado State,J.D. Paige,Offensive Rebound,32,37
+14:34,Boise State,David Wacker,Foul,32,37
+14:34,Boise State,None,None,32,37
+14:34,Boise State,David Wacker,Foul,32,37
+14:32,Colorado State,J.D. Paige,Three Point Jumper,35,37
+14:08,Boise State,Alex Hobbs,Jumper,35,39
+13:44,Colorado State,Nico Carvacho,Turnover,35,39
+13:42,Boise State,Marcus Dickinson,Steal,35,39
+13:18,Colorado State,Adam Thistlewood,Foul,35,39
+13:18,Boise State,RJ Williams,Missed Free Throw,35,39
+13:18,Boise State,None,Team Rebound,35,39
+13:18,Boise State,RJ Williams,Free Throw,35,40
+13:04,Colorado State,Adam Thistlewood,Missed Three Point Jumper,35,40
+13:04,Boise State,Alex Hobbs,Defensive Rebound,35,40
+12:33,Boise State,Justinian Jessup,Missed Three Point Jumper,35,40
+12:33,Boise State,Zach Haney,Offensive Rebound,35,40
+12:30,Boise State,Zach Haney,Jumper,35,42
+12:07,Colorado State,Kris Martin,Three Point Jumper,38,42
+11:40,Boise State,RJ Williams,Missed Layup,38,42
+11:40,Boise State,Zach Haney,Offensive Rebound,38,42
+11:35,Boise State,Zach Haney,Turnover,38,42
+11:34,Colorado State,J.D. Paige,Steal,38,42
+11:31,Colorado State,J.D. Paige,Layup,40,42
+11:31,Boise State,Alex Hobbs,Foul,40,42
+11:30,Boise State,None,None,40,42
+11:30,Colorado State,J.D. Paige,Missed Free Throw,40,42
+11:30,Boise State,Justinian Jessup,Defensive Rebound,40,42
+11:03,Boise State,Boise State ,Turnover,40,42
+10:39,Colorado State,Adam Thistlewood,Missed Jumper,40,42
+10:39,Boise State,Justinian Jessup,Defensive Rebound,40,42
+10:14,Boise State,Alex Hobbs,Turnover,40,42
+10:12,Colorado State,Adam Thistlewood,Steal,40,42
+10:08,Colorado State,J.D. Paige,Missed Layup,40,42
+10:08,Boise State,RJ Williams,Block,40,42
+10:08,Colorado State,Colorado State,Offensive Rebound,40,42
+9:58,Colorado State,Hyron Edwards,Turnover,40,42
+9:56,Boise State,Derrick Alston,Steal,40,42
+9:43,Boise State,Derrick Alston,Three Point Jumper,40,45
+9:19,Colorado State,Hyron Edwards,Turnover,40,45
+9:18,Boise State,Zach Haney,Steal,40,45
+8:51,Boise State,Justinian Jessup,Layup,40,47
+8:30,Boise State,RJ Williams,Foul,40,47
+8:23,Colorado State,J.D. Paige,Missed Three Point Jumper,40,47
+8:23,Boise State,RJ Williams,Defensive Rebound,40,47
+8:01,Colorado State,Kris Martin,Foul,40,47
+8:01,Boise State,Derrick Alston,Free Throw,40,48
+8:01,Boise State,Derrick Alston,Free Throw,40,49
+7:40,Colorado State,Nico Carvacho,Jumper,42,49
+7:12,Colorado State,Kris Martin,Foul,42,49
+7:12,Boise State,None,None,42,49
+7:12,Boise State,Derrick Alston,Missed Free Throw,42,49
+7:12,Boise State,None,Team Rebound,42,49
+7:12,Boise State,Derrick Alston,Free Throw,42,50
+6:56,Colorado State,J.D. Paige,Missed Jumper,42,50
+6:56,Boise State,Derrick Alston,Defensive Rebound,42,50
+6:40,Boise State,Derrick Alston,Dunk,42,52
+6:22,Colorado State,Adam Thistlewood,Missed Three Point Jumper,42,52
+6:22,Boise State,David Wacker,Defensive Rebound,42,52
+5:51,Boise State,Justinian Jessup,Missed Three Point Jumper,42,52
+5:51,Colorado State,Kendle Moore,Defensive Rebound,42,52
+5:41,Boise State,Justinian Jessup,Foul,42,52
+5:33,Colorado State,Adam Thistlewood,Turnover,42,52
+5:09,Boise State,Marcus Dickinson,Three Point Jumper,42,55
+4:40,Colorado State,J.D. Paige,Three Point Jumper,45,55
+4:39,Colorado State,None,None,45,55
+4:39,Boise State,None,None,45,55
+4:17,Colorado State,Kendle Moore,Foul,45,55
+4:17,Boise State,Marcus Dickinson,Free Throw,45,56
+4:17,Boise State,Marcus Dickinson,Free Throw,45,57
+4:06,Colorado State,J.D. Paige,Missed Jumper,45,57
+4:06,Boise State,David Wacker,Defensive Rebound,45,57
+3:47,Colorado State,Kris Martin,Foul,45,57
+3:47,Boise State,None,None,45,57
+3:47,Boise State,Derrick Alston,Free Throw,45,58
+3:47,Boise State,Derrick Alston,Free Throw,45,59
+3:27,Boise State,David Wacker,Foul,45,59
+3:27,Colorado State,Hyron Edwards,Missed Free Throw,45,59
+3:27,Colorado State,None,Team Rebound,45,59
+3:27,Colorado State,Hyron Edwards,Free Throw,46,59
+3:06,Boise State,Alex Hobbs,Turnover,46,59
+2:39,Colorado State,Adam Thistlewood,Missed Jumper,46,59
+2:39,Boise State,Derrick Alston,Block,46,59
+2:38,Colorado State,Colorado State,Offensive Rebound,46,59
+2:35,Boise State,Justinian Jessup,Foul,46,59
+2:35,Colorado State,J.D. Paige,Free Throw,47,59
+2:35,Colorado State,J.D. Paige,Free Throw,48,59
+2:35,Colorado State,J.D. Paige,Free Throw,49,59
+2:35,Boise State,None,None,49,59
+2:35,Colorado State,Kendle Moore,Foul,49,59
+2:35,Boise State,Marcus Dickinson,Free Throw,49,60
+2:35,Boise State,Marcus Dickinson,Free Throw,49,61
+2:23,Colorado State,J.D. Paige,Three Point Jumper,52,61
+1:47,Boise State,Alex Hobbs,Missed Three Point Jumper,52,61
+1:47,Colorado State,J.D. Paige,Defensive Rebound,52,61
+1:40,Colorado State,J.D. Paige,Jumper,54,61
+1:38,Colorado State,None,None,54,61
+1:15,Boise State,David Wacker,Turnover,54,61
+1:06,Colorado State,Kendle Moore,Turnover,54,61
+0:55,Colorado State,Adam Thistlewood,Foul,54,61
+0:55,Boise State,Alex Hobbs,Free Throw,54,62
+0:55,Boise State,Alex Hobbs,Free Throw,54,63
+0:49,Colorado State,Hyron Edwards,Missed Three Point Jumper,54,63
+0:49,Boise State,Derrick Alston,Defensive Rebound,54,63
+0:39,Colorado State,Kendle Moore,Foul,54,63
+0:39,Boise State,Alex Hobbs,Free Throw,54,64
+0:39,Boise State,Alex Hobbs,Missed Free Throw,54,64
+0:39,Colorado State,Nico Carvacho,Defensive Rebound,54,64
+0:34,Colorado State,Kendle Moore,Three Point Jumper,57,64
+0:33,Colorado State,None,None,57,64
+0:27,Colorado State,Adam Thistlewood,Foul,57,64
+0:27,Boise State,Derrick Alston,Free Throw,57,65
+0:27,Boise State,Derrick Alston,Free Throw,57,66
+0:25,Colorado State,Hyron Edwards,Turnover,57,66
+0:00,Boise State,None,None,57,66

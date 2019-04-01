@@ -1,0 +1,302 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Wisconsin,None,None,0,0
+19:44,Wisconsin,Khalil Iverson,Missed Layup,0,0
+19:44,Nebraska,Isaiah Roby,Block,0,0
+19:44,Wisconsin,Wisconsin,Offensive Rebound,0,0
+19:41,Wisconsin,Khalil Iverson,Layup,0,2
+19:17,Nebraska,Thorir Thorbjarnarson,Missed Three Point Jumper,0,2
+19:17,Wisconsin,Nate Reuvers,Defensive Rebound,0,2
+19:05,Wisconsin,Khalil Iverson,Turnover,0,2
+18:42,Nebraska,James Palmer Jr.,Missed Three Point Jumper,0,2
+18:42,Wisconsin,Wisconsin,Defensive Rebound,0,2
+18:21,Wisconsin,Khalil Iverson,Jumper,0,4
+17:59,Nebraska,James Palmer Jr.,Turnover,0,4
+17:59,Wisconsin,D'Mitrik Trice,Steal,0,4
+17:45,Wisconsin,Ethan Happ,Layup,0,6
+17:29,Nebraska,Glynn Watson Jr.,Missed Jumper,0,6
+17:29,Wisconsin,Ethan Happ,Defensive Rebound,0,6
+17:19,Wisconsin,Nate Reuvers,Layup,0,8
+17:14,Nebraska,None,None,0,8
+16:58,Nebraska,Isaiah Roby,Layup,2,8
+16:37,Wisconsin,Nate Reuvers,Jumper,2,10
+16:11,Nebraska,Isaiah Roby,Missed Layup,2,10
+16:11,Wisconsin,Ethan Happ,Block,2,10
+16:11,Nebraska,Nebraska,Offensive Rebound,2,10
+16:11,Nebraska,None,None,2,10
+16:02,Nebraska,Johnny Trueblood,Layup,4,10
+15:28,Nebraska,Tanner Borchardt,Foul,4,10
+15:28,Wisconsin,None,None,4,10
+15:18,Wisconsin,Brevin Pritzl,Missed Three Point Jumper,4,10
+15:18,Nebraska,Isaiah Roby,Defensive Rebound,4,10
+15:12,Wisconsin,Nate Reuvers,Foul,4,10
+14:54,Nebraska,Johnny Trueblood,Missed Layup,4,10
+14:54,Wisconsin,Ethan Happ,Defensive Rebound,4,10
+14:30,Wisconsin,Brevin Pritzl,Missed Three Point Jumper,4,10
+14:30,Nebraska,Glynn Watson Jr.,Defensive Rebound,4,10
+14:30,Nebraska,Glynn Watson Jr.,Missed Layup,4,10
+14:30,Nebraska,Tanner Borchardt,Offensive Rebound,4,10
+14:10,Nebraska,Tanner Borchardt,Dunk,6,10
+13:37,Wisconsin,Ethan Happ,Missed Layup,6,10
+13:37,Wisconsin,Ethan Happ,Offensive Rebound,6,10
+13:37,Wisconsin,None,None,6,12
+13:23,Nebraska,James Palmer Jr.,Missed Three Point Jumper,6,12
+13:23,Nebraska,Nebraska,Offensive Rebound,6,12
+12:59,Nebraska,Isaiah Roby,Turnover,6,12
+12:58,Nebraska,Nebraska,Foul,6,12
+12:58,Wisconsin,Brad Davison,Free Throw,6,13
+12:58,Nebraska,Nebraska,Foul,6,12
+12:58,Wisconsin,Brad Davison,Free Throw,6,14
+12:50,Wisconsin,Aleem Ford,Three Point Jumper,6,17
+12:31,Nebraska,Glynn Watson Jr.,Jumper,8,17
+12:06,Wisconsin,Aleem Ford,Three Point Jumper,8,20
+12:06,Nebraska,Tanner Borchardt,Foul,8,20
+12:06,Wisconsin,Aleem Ford,Free Throw,8,21
+11:43,Nebraska,Glynn Watson Jr.,Three Point Jumper,11,21
+11:17,Wisconsin,Khalil Iverson,Missed Layup,11,21
+11:17,Nebraska,Isaiah Roby,Block,11,21
+11:17,Nebraska,Glynn Watson Jr.,Defensive Rebound,11,21
+11:09,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,11,21
+11:09,Wisconsin,Nate Reuvers,Defensive Rebound,11,21
+10:52,Wisconsin,Nate Reuvers,Layup,11,23
+10:34,Nebraska,James Palmer Jr.,Layup,13,23
+10:20,Wisconsin,Nate Reuvers,Turnover,13,23
+10:20,Nebraska,Isaiah Roby,Steal,13,23
+10:17,Nebraska,Isaiah Roby,Dunk,15,23
+10:17,Wisconsin,Khalil Iverson,Foul,15,23
+10:17,Wisconsin,None,None,15,23
+10:17,Nebraska,Isaiah Roby,Free Throw,16,23
+9:59,Wisconsin,Ethan Happ,Turnover,16,23
+9:59,Nebraska,Thorir Thorbjarnarson,Steal,16,23
+9:52,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,16,23
+9:52,Nebraska,Johnny Trueblood,Offensive Rebound,16,23
+9:35,Nebraska,James Palmer Jr.,Layup,18,23
+9:11,Wisconsin,Nate Reuvers,Layup,18,25
+8:54,Nebraska,James Palmer Jr.,Layup,20,25
+8:41,Wisconsin,Aleem Ford,Foul,20,25
+8:41,Wisconsin,Aleem Ford,Turnover,20,25
+8:26,Nebraska,Thorir Thorbjarnarson,Turnover,20,25
+8:14,Wisconsin,Nate Reuvers,Turnover,20,25
+8:14,Nebraska,Isaiah Roby,Steal,20,25
+8:07,Wisconsin,D'Mitrik Trice,Foul,20,25
+8:07,Nebraska,Isaiah Roby,Free Throw,21,25
+8:07,Nebraska,Isaiah Roby,Missed Free Throw,21,25
+8:07,Wisconsin,Nate Reuvers,Defensive Rebound,21,25
+8:02,Wisconsin,D'Mitrik Trice,Turnover,21,25
+8:02,Nebraska,James Palmer Jr.,Steal,21,25
+7:30,Nebraska,Isaiah Roby,Missed Jumper,21,25
+7:30,Wisconsin,Ethan Happ,Defensive Rebound,21,25
+7:22,Wisconsin,Brad Davison,Three Point Jumper,21,28
+6:57,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,21,28
+6:57,Wisconsin,Brad Davison,Defensive Rebound,21,28
+6:40,Wisconsin,Ethan Happ,Turnover,21,28
+6:40,Nebraska,James Palmer Jr.,Steal,21,28
+6:09,Nebraska,James Palmer Jr.,Missed Jumper,21,28
+6:09,Wisconsin,Ethan Happ,Block,21,28
+6:09,Nebraska,Nebraska,Offensive Rebound,21,28
+6:09,Wisconsin,None,None,21,28
+6:05,Nebraska,Nebraska ,Turnover,21,28
+5:40,Wisconsin,Khalil Iverson,Jumper,21,30
+5:20,Nebraska,Isaiah Roby,Turnover,21,30
+4:57,Wisconsin,Brad Davison,Missed Jumper,21,30
+4:57,Nebraska,Nebraska,Defensive Rebound,21,30
+4:45,Nebraska,James Palmer Jr.,Missed Jumper,21,30
+4:45,Wisconsin,Khalil Iverson,Defensive Rebound,21,30
+4:24,Nebraska,Thorir Thorbjarnarson,Foul,21,30
+4:24,Wisconsin,Khalil Iverson,Free Throw,21,31
+4:24,Wisconsin,Khalil Iverson,Free Throw,21,32
+4:11,Nebraska,Isaiah Roby,Foul,21,32
+4:11,Nebraska,Isaiah Roby,Turnover,21,32
+3:55,Wisconsin,Khalil Iverson,Layup,21,34
+3:34,Nebraska,Glynn Watson Jr.,Three Point Jumper,24,34
+3:08,Wisconsin,Aleem Ford,Missed Three Point Jumper,24,34
+3:08,Wisconsin,Nate Reuvers,Offensive Rebound,24,34
+2:57,Wisconsin,Nate Reuvers,Missed Layup,24,34
+2:57,Nebraska,Isaiah Roby,Defensive Rebound,24,34
+2:51,Nebraska,Isaiah Roby,Turnover,24,34
+2:51,Wisconsin,D'Mitrik Trice,Steal,24,34
+2:22,Wisconsin,Brad Davison,Missed Three Point Jumper,24,34
+2:22,Nebraska,None,Team Rebound,24,34
+2:15,Wisconsin,None,None,24,34
+2:15,Wisconsin,Khalil Iverson,Foul,24,34
+2:10,Nebraska,James Palmer Jr.,Missed Three Point Jumper,24,34
+2:10,Nebraska,Thorir Thorbjarnarson,Offensive Rebound,24,34
+1:50,Nebraska,Glynn Watson Jr.,Layup,26,34
+1:25,Wisconsin,Ethan Happ,Turnover,26,34
+1:14,Nebraska,James Palmer Jr.,Missed Jumper,26,34
+1:14,Wisconsin,Nate Reuvers,Defensive Rebound,26,34
+0:39,Wisconsin,Wisconsin ,Turnover,26,34
+0:25,Nebraska,Glynn Watson Jr.,Three Point Jumper,29,34
+0:03,Wisconsin,Brad Davison,Missed Jumper,29,34
+0:03,Nebraska,Glynn Watson Jr.,Block,29,34
+0:03,Wisconsin,Wisconsin,Offensive Rebound,29,34
+0:03,Wisconsin,None,None,29,34
+0:00,Wisconsin,None,None,29,34
+20:00,Wisconsin,None,None,29,34
+19:36,Wisconsin,Khalil Iverson,Layup,29,36
+19:09,Nebraska,Isaiah Roby,Jumper,31,36
+18:34,Wisconsin,Wisconsin ,Turnover,31,36
+18:31,Nebraska,James Palmer Jr.,Missed Three Point Jumper,31,36
+18:31,Nebraska,Nebraska,Offensive Rebound,31,36
+18:16,Nebraska,Isaiah Roby,Missed Layup,31,36
+18:16,Wisconsin,Nate Reuvers,Block,31,36
+18:16,Wisconsin,Nate Reuvers,Defensive Rebound,31,36
+18:09,Wisconsin,Brad Davison,Missed Three Point Jumper,31,36
+18:09,Nebraska,Tanner Borchardt,Defensive Rebound,31,36
+17:59,Wisconsin,Brad Davison,Foul,31,36
+17:58,Nebraska,Isaiah Roby,Three Point Jumper,34,36
+17:37,Wisconsin,Nate Reuvers,Three Point Jumper,34,39
+17:20,Nebraska,Isaiah Roby,Missed Three Point Jumper,34,39
+17:20,Wisconsin,Brad Davison,Defensive Rebound,34,39
+17:11,Wisconsin,Ethan Happ,Turnover,34,39
+17:11,Nebraska,Isaiah Roby,Steal,34,39
+17:03,Nebraska,Glynn Watson Jr.,Foul,34,39
+17:03,Nebraska,Glynn Watson Jr.,Turnover,34,39
+16:50,Wisconsin,D'Mitrik Trice,Missed Jumper,34,39
+16:50,Nebraska,Thorir Thorbjarnarson,Block,34,39
+16:50,Nebraska,Isaiah Roby,Defensive Rebound,34,39
+16:41,Wisconsin,D'Mitrik Trice,Foul,34,39
+16:41,Nebraska,James Palmer Jr.,Free Throw,35,39
+16:41,Nebraska,James Palmer Jr.,Free Throw,36,39
+16:37,Wisconsin,Brad Davison,Turnover,36,39
+16:25,Nebraska,James Palmer Jr.,Missed Jumper,36,39
+16:25,Wisconsin,Aleem Ford,Block,36,39
+16:25,Wisconsin,Aleem Ford,Defensive Rebound,36,39
+16:04,Wisconsin,Khalil Iverson,Missed Layup,36,39
+16:04,Nebraska,Isaiah Roby,Block,36,39
+16:04,Nebraska,Thorir Thorbjarnarson,Defensive Rebound,36,39
+15:36,Nebraska,Isaiah Roby,Turnover,36,39
+15:36,Wisconsin,Khalil Iverson,Steal,36,39
+15:27,Wisconsin,Khalil Iverson,Missed Layup,36,39
+15:27,Wisconsin,Brevin Pritzl,Offensive Rebound,36,39
+15:27,Wisconsin,None,None,36,41
+15:14,Nebraska,Glynn Watson Jr.,Jumper,38,41
+14:49,Wisconsin,Khalil Iverson,Jumper,38,43
+14:33,Nebraska,Glynn Watson Jr.,Three Point Jumper,41,43
+14:15,Wisconsin,Nate Reuvers,Foul,41,43
+14:15,Wisconsin,Nate Reuvers,Turnover,41,43
+14:15,Wisconsin,None,None,41,43
+14:10,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,41,43
+14:10,Wisconsin,Ethan Happ,Defensive Rebound,41,43
+13:42,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,41,43
+13:42,Nebraska,Isaiah Roby,Defensive Rebound,41,43
+13:20,Nebraska,Isaiah Roby,Missed Jumper,41,43
+13:20,Wisconsin,Ethan Happ,Defensive Rebound,41,43
+13:15,Wisconsin,Ethan Happ,Turnover,41,43
+13:15,Nebraska,James Palmer Jr.,Steal,41,43
+13:02,Nebraska,James Palmer Jr.,Foul,41,43
+13:02,Nebraska,James Palmer Jr.,Turnover,41,43
+13:02,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,41,43
+13:02,Nebraska,Glynn Watson Jr.,Block,41,43
+13:02,Nebraska,Glynn Watson Jr.,Defensive Rebound,41,43
+12:33,Wisconsin,Aleem Ford,Foul,41,43
+12:32,Nebraska,James Palmer Jr.,Missed Jumper,41,43
+12:32,Nebraska,Tanner Borchardt,Offensive Rebound,41,43
+12:11,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,41,43
+12:11,Nebraska,Isaiah Roby,Offensive Rebound,41,43
+12:06,Nebraska,Thorir Thorbjarnarson,Missed Jumper,41,43
+12:06,Wisconsin,Aleem Ford,Defensive Rebound,41,43
+11:51,Wisconsin,Brevin Pritzl,Missed Three Point Jumper,41,43
+11:51,Wisconsin,Kobe King,Offensive Rebound,41,43
+11:51,Wisconsin,None,None,41,45
+11:33,Nebraska,Thorir Thorbjarnarson,Three Point Jumper,44,45
+11:10,Wisconsin,Ethan Happ,Turnover,44,45
+11:10,Nebraska,Glynn Watson Jr.,Steal,44,45
+11:10,Wisconsin,None,None,44,45
+11:07,Nebraska,James Palmer Jr.,Missed Layup,44,45
+11:07,Wisconsin,Wisconsin,Defensive Rebound,44,45
+10:27,Wisconsin,Nate Reuvers,Missed Layup,44,45
+10:27,Nebraska,Isaiah Roby,Block,44,45
+10:27,Nebraska,None,Team Rebound,44,45
+10:22,Nebraska,James Palmer Jr.,Layup,46,45
+10:07,Wisconsin,Aleem Ford,Missed Three Point Jumper,46,45
+10:07,Nebraska,Johnny Trueblood,Defensive Rebound,46,45
+9:46,Nebraska,James Palmer Jr.,Missed Jumper,46,45
+9:46,Wisconsin,Brevin Pritzl,Defensive Rebound,46,45
+9:18,Wisconsin,Nate Reuvers,Three Point Jumper,46,48
+8:49,Nebraska,Isaiah Roby,Missed Layup,46,48
+8:49,Wisconsin,Nate Reuvers,Block,46,48
+8:43,Nebraska,Nebraska,Offensive Rebound,46,48
+8:42,Nebraska,James Palmer Jr.,Missed Jumper,46,48
+8:42,Nebraska,Johnny Trueblood,Offensive Rebound,46,48
+8:39,Wisconsin,Brevin Pritzl,Foul,46,48
+8:39,Nebraska,None,None,46,48
+8:38,Nebraska,Isaiah Roby,Missed Three Point Jumper,46,48
+8:38,Wisconsin,Brevin Pritzl,Defensive Rebound,46,48
+8:19,Wisconsin,Brad Davison,Jumper,46,50
+7:50,Nebraska,Glynn Watson Jr.,Missed Layup,46,50
+7:50,Wisconsin,Aleem Ford,Defensive Rebound,46,50
+7:44,Wisconsin,None,None,46,50
+7:44,Wisconsin,None,None,46,50
+7:24,Wisconsin,Brad Davison,Missed Jumper,46,50
+7:24,Wisconsin,Aleem Ford,Offensive Rebound,46,50
+7:19,Wisconsin,Aleem Ford,Layup,46,52
+6:57,Nebraska,James Palmer Jr.,Missed Jumper,46,52
+6:57,Wisconsin,Aleem Ford,Defensive Rebound,46,52
+6:38,Wisconsin,Aleem Ford,Missed Three Point Jumper,46,52
+6:38,Nebraska,James Palmer Jr.,Defensive Rebound,46,52
+6:31,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,46,52
+6:31,Wisconsin,Brevin Pritzl,Defensive Rebound,46,52
+6:02,Wisconsin,Brad Davison,Missed Jumper,46,52
+6:02,Nebraska,Nebraska,Defensive Rebound,46,52
+5:32,Wisconsin,Nate Reuvers,Foul,46,52
+5:32,Nebraska,Isaiah Roby,Free Throw,47,52
+5:32,Nebraska,Isaiah Roby,Free Throw,48,52
+5:20,Nebraska,Johnny Trueblood,Foul,48,52
+5:15,Wisconsin,Ethan Happ,Missed Layup,48,52
+5:15,Wisconsin,Ethan Happ,Offensive Rebound,48,52
+5:03,Wisconsin,D'Mitrik Trice,Three Point Jumper,48,55
+4:50,Nebraska,Glynn Watson Jr.,Jumper,50,55
+4:23,Wisconsin,Ethan Happ,Turnover,50,55
+4:23,Nebraska,Johnny Trueblood,Steal,50,55
+4:19,Nebraska,Glynn Watson Jr.,Three Point Jumper,53,55
+3:59,Wisconsin,Aleem Ford,Jumper,53,57
+3:38,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,53,57
+3:38,Wisconsin,Brevin Pritzl,Defensive Rebound,53,57
+3:24,Nebraska,James Palmer Jr.,Foul,53,57
+3:24,Wisconsin,None,None,53,57
+3:22,Nebraska,Glynn Watson Jr.,Foul,53,57
+3:11,Wisconsin,Khalil Iverson,Turnover,53,57
+3:11,Nebraska,James Palmer Jr.,Steal,53,57
+3:06,Nebraska,Johnny Trueblood,Layup,55,57
+2:34,Wisconsin,Brad Davison,Missed Three Point Jumper,55,57
+2:34,Wisconsin,Khalil Iverson,Offensive Rebound,55,57
+2:29,Nebraska,Isaiah Roby,Foul,55,57
+2:02,Wisconsin,Nate Reuvers,Missed Jumper,55,57
+2:02,Nebraska,Glynn Watson Jr.,Defensive Rebound,55,57
+1:59,Wisconsin,Aleem Ford,Foul,55,57
+1:59,Nebraska,Glynn Watson Jr.,Missed Free Throw,55,57
+1:59,Wisconsin,Aleem Ford,Defensive Rebound,55,57
+1:33,Wisconsin,Brad Davison,Missed Three Point Jumper,55,57
+1:33,Nebraska,Glynn Watson Jr.,Defensive Rebound,55,57
+1:17,Nebraska,Glynn Watson Jr.,Missed Jumper,55,57
+1:17,Wisconsin,Brad Davison,Defensive Rebound,55,57
+0:59,Wisconsin,None,None,55,57
+0:55,Wisconsin,D'Mitrik Trice,Three Point Jumper,55,60
+0:45,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,55,60
+0:45,Wisconsin,Brad Davison,Defensive Rebound,55,60
+0:39,Nebraska,James Palmer Jr.,Foul,55,60
+0:39,Wisconsin,Brad Davison,Free Throw,55,61
+0:39,Wisconsin,Brad Davison,Free Throw,55,62
+0:37,Nebraska,James Palmer Jr.,Missed Three Point Jumper,55,62
+0:37,Nebraska,Nebraska,Offensive Rebound,55,62
+0:34,Nebraska,Thorir Thorbjarnarson,Layup,57,62
+0:31,Nebraska,None,None,57,62
+0:30,Nebraska,Johnny Trueblood,Foul,57,62
+0:30,Wisconsin,Brad Davison,Free Throw,57,63
+0:30,Wisconsin,Brad Davison,Free Throw,57,64
+0:26,Nebraska,Thorir Thorbjarnarson,Missed Three Point Jumper,57,64
+0:26,Nebraska,Johnny Trueblood,Offensive Rebound,57,64
+0:19,Nebraska,Johnny Trueblood,Missed Three Point Jumper,57,64
+0:19,Nebraska,James Palmer Jr.,Offensive Rebound,57,64
+0:14,Nebraska,James Palmer Jr.,Layup,59,64
+0:14,Nebraska,None,None,59,64
+0:13,Nebraska,James Palmer Jr.,Foul,59,64
+0:13,Wisconsin,Brevin Pritzl,Missed Free Throw,59,64
+0:13,Nebraska,Isaiah Roby,Defensive Rebound,59,64
+0:08,Nebraska,James Palmer Jr.,Missed Three Point Jumper,59,64
+0:08,Wisconsin,Wisconsin,Defensive Rebound,59,64
+0:05,Nebraska,Glynn Watson Jr.,Foul,59,64
+0:05,Wisconsin,D'Mitrik Trice,Free Throw,59,65
+0:05,Wisconsin,D'Mitrik Trice,Free Throw,59,66
+0:01,Nebraska,James Palmer Jr.,Three Point Jumper,62,66
+0:00,Wisconsin,None,None,62,66

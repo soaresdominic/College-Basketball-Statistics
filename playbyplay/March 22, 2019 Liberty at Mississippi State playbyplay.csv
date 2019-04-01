@@ -1,0 +1,315 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Mississippi State,None,None,0,0
+19:38,Mississippi State,Quinndary Weatherspoon,Layup,0,2
+19:07,Liberty,Caleb Homesley,Turnover,0,2
+19:07,Mississippi State,Tyson Carter,Steal,0,2
+19:01,Mississippi State,Lamar Peters,Missed Layup,0,2
+19:01,Liberty,Elijah Cuffee,Defensive Rebound,0,2
+18:45,Liberty,Georgie Pacheco-Ortiz,Missed Three Point Jumper,0,2
+18:45,Mississippi State,Reggie Perry,Defensive Rebound,0,2
+18:34,Mississippi State,Tyson Carter,Missed Three Point Jumper,0,2
+18:34,Liberty,Liberty,Defensive Rebound,0,2
+18:23,Liberty,Caleb Homesley,Missed Three Point Jumper,0,2
+18:23,Mississippi State,Reggie Perry,Defensive Rebound,0,2
+17:58,Mississippi State,Abdul Ado,Missed Layup,0,2
+17:58,Liberty,Scottie James,Defensive Rebound,0,2
+17:40,Liberty,Scottie James,Missed Layup,0,2
+17:40,Mississippi State,Reggie Perry,Defensive Rebound,0,2
+17:34,Mississippi State,Quinndary Weatherspoon,Dunk,0,4
+17:16,Liberty,Lovell Cabbil Jr.,Missed Layup,0,4
+17:16,Mississippi State,Abdul Ado,Block,0,4
+17:16,Mississippi State,Abdul Ado,Defensive Rebound,0,4
+16:54,Mississippi State,Reggie Perry,Missed Layup,0,4
+16:54,Liberty,Caleb Homesley,Defensive Rebound,0,4
+16:35,Liberty,Caleb Homesley,Layup,2,4
+16:19,Mississippi State,Lamar Peters,Three Point Jumper,2,7
+15:56,Liberty,Caleb Homesley,Missed Three Point Jumper,2,7
+15:56,Liberty,Scottie James,Offensive Rebound,2,7
+15:50,Liberty,Scottie James,Turnover,2,7
+15:50,Mississippi State,Reggie Perry,Steal,2,7
+15:39,Liberty,Lovell Cabbil Jr.,Foul,2,7
+15:39,Mississippi State,None,None,2,7
+15:39,Mississippi State,Lamar Peters,Free Throw,2,8
+15:39,Mississippi State,Lamar Peters,Missed Free Throw,2,8
+15:39,Liberty,Scottie James,Defensive Rebound,2,8
+15:13,Liberty,Caleb Homesley,Missed Three Point Jumper,2,8
+15:13,Mississippi State,Robert Woodard,Defensive Rebound,2,8
+14:54,Mississippi State,Aric Holman,Missed Three Point Jumper,2,8
+14:54,Liberty,Elijah Cuffee,Defensive Rebound,2,8
+14:40,Mississippi State,Abdul Ado,Foul,2,8
+14:34,Liberty,Myo Baxter-Bell,Jumper,4,8
+14:09,Mississippi State,Tyson Carter,Missed Three Point Jumper,4,8
+14:09,Liberty,Myo Baxter-Bell,Defensive Rebound,4,8
+13:49,Liberty,Keenan Gumbs,Three Point Jumper,7,8
+13:20,Mississippi State,Quinndary Weatherspoon,Three Point Jumper,7,11
+12:52,Liberty,Caleb Homesley,Turnover,7,11
+12:52,Mississippi State,Aric Holman,Steal,7,11
+12:43,Mississippi State,Aric Holman,Turnover,7,11
+12:24,Liberty,Elijah Cuffee,Three Point Jumper,10,11
+12:07,Liberty,Myo Baxter-Bell,Foul,10,11
+12:03,Mississippi State,Lamar Peters,Layup,10,13
+11:38,Liberty,Elijah Cuffee,Missed Three Point Jumper,10,13
+11:38,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,10,13
+11:29,Mississippi State,Robert Woodard,Missed Three Point Jumper,10,13
+11:29,Mississippi State,Reggie Perry,Offensive Rebound,10,13
+11:17,Mississippi State,Reggie Perry,Missed Layup,10,13
+11:17,Mississippi State,Aric Holman,Offensive Rebound,10,13
+11:15,Mississippi State,Robert Woodard,Layup,10,15
+11:15,Liberty,Scottie James,Foul,10,15
+11:15,Mississippi State,None,None,10,15
+11:15,Mississippi State,Robert Woodard,Free Throw,10,16
+11:01,Liberty,Scottie James,Layup,12,16
+11:01,Mississippi State,Abdul Ado,Foul,12,16
+11:01,Liberty,Scottie James,Missed Free Throw,12,16
+11:01,Mississippi State,Aric Holman,Defensive Rebound,12,16
+10:49,Mississippi State,Tyson Carter,Layup,12,18
+10:27,Liberty,Lovell Cabbil Jr.,Layup,14,18
+10:11,Mississippi State,Lamar Peters,Missed Three Point Jumper,14,18
+10:11,Liberty,Lovell Cabbil Jr.,Defensive Rebound,14,18
+9:54,Liberty,Lovell Cabbil Jr.,Three Point Jumper,17,18
+9:31,Mississippi State,Aric Holman,Missed Three Point Jumper,17,18
+9:31,Mississippi State,Robert Woodard,Offensive Rebound,17,18
+9:26,Mississippi State,Robert Woodard,Dunk,17,20
+9:09,Liberty,Scottie James,Layup,19,20
+8:48,Mississippi State,Robert Woodard,Turnover,19,20
+8:48,Liberty,Lovell Cabbil Jr.,Steal,19,20
+8:43,Liberty,Lovell Cabbil Jr.,Missed Three Point Jumper,19,20
+8:43,Mississippi State,Aric Holman,Defensive Rebound,19,20
+8:16,Mississippi State,Aric Holman,Missed Layup,19,20
+8:16,Liberty,Scottie James,Defensive Rebound,19,20
+7:57,Mississippi State,Lamar Peters,Foul,19,20
+7:56,Mississippi State,None,None,19,20
+7:42,Liberty,Myo Baxter-Bell,Missed Three Point Jumper,19,20
+7:42,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,19,20
+7:19,Mississippi State,Reggie Perry,Missed Jumper,19,20
+7:19,Liberty,Caleb Homesley,Defensive Rebound,19,20
+7:04,Liberty,Elijah Cuffee,Turnover,19,20
+7:04,Mississippi State,Quinndary Weatherspoon,Steal,19,20
+7:01,Mississippi State,Robert Woodard,Layup,19,22
+6:46,Mississippi State,Reggie Perry,Foul,19,22
+6:46,Liberty,Myo Baxter-Bell,Free Throw,20,22
+6:46,Liberty,Myo Baxter-Bell,Free Throw,21,22
+6:33,Mississippi State,Lamar Peters,Layup,21,24
+6:08,Liberty,Myo Baxter-Bell,Layup,23,24
+5:49,Mississippi State,Lamar Peters,Turnover,23,24
+5:49,Liberty,Lovell Cabbil Jr.,Steal,23,24
+5:30,Liberty,Caleb Homesley,Three Point Jumper,26,24
+5:27,Mississippi State,None,None,26,24
+5:14,Mississippi State,Quinndary Weatherspoon,Missed Jumper,26,24
+5:14,Liberty,Caleb Homesley,Defensive Rebound,26,24
+4:54,Liberty,Elijah Cuffee,Missed Three Point Jumper,26,24
+4:54,Liberty,Scottie James,Offensive Rebound,26,24
+4:50,Mississippi State,Quinndary Weatherspoon,Foul,26,24
+4:34,Liberty,Scottie James,Turnover,26,24
+4:34,Mississippi State,Abdul Ado,Steal,26,24
+4:21,Liberty,Lovell Cabbil Jr.,Foul,26,24
+4:21,Mississippi State,Quinndary Weatherspoon,Free Throw,26,25
+4:21,Mississippi State,Quinndary Weatherspoon,Free Throw,26,26
+4:04,Liberty,Keenan Gumbs,Three Point Jumper,29,26
+3:43,Liberty,Georgie Pacheco-Ortiz,Foul,29,26
+3:43,Mississippi State,None,None,29,26
+3:42,Mississippi State,Quinndary Weatherspoon,Layup,29,28
+3:13,Liberty,Caleb Homesley,Three Point Jumper,32,28
+2:50,Mississippi State,Lamar Peters,Three Point Jumper,32,31
+2:20,Liberty,Elijah Cuffee,Missed Jumper,32,31
+2:20,Liberty,Georgie Pacheco-Ortiz,Offensive Rebound,32,31
+2:03,Liberty,Georgie Pacheco-Ortiz,Three Point Jumper,35,31
+1:40,Mississippi State,Aric Holman,Dunk,35,33
+1:13,Liberty,Keenan Gumbs,Turnover,35,33
+1:13,Mississippi State,Quinndary Weatherspoon,Steal,35,33
+1:10,Mississippi State,Lamar Peters,Three Point Jumper,35,36
+0:55,Liberty,None,None,35,36
+0:42,Liberty,Scottie James,Missed Layup,35,36
+0:42,Mississippi State,Reggie Perry,Defensive Rebound,35,36
+0:16,Liberty,Keenan Gumbs,Foul,35,36
+0:16,Mississippi State,Quinndary Weatherspoon,Free Throw,35,37
+0:16,Mississippi State,Quinndary Weatherspoon,Missed Free Throw,35,37
+0:16,Liberty,Keenan Gumbs,Defensive Rebound,35,37
+0:14,Liberty,None,None,35,37
+0:09,Liberty,Caleb Homesley,Missed Three Point Jumper,35,37
+0:09,Mississippi State,Reggie Perry,Defensive Rebound,35,37
+0:00,Mississippi State,None,None,35,37
+20:00,Liberty,None,None,35,37
+19:41,Mississippi State,Lamar Peters,Foul,35,37
+19:33,Liberty,Scottie James,Dunk,37,37
+19:19,Mississippi State,Quinndary Weatherspoon,Three Point Jumper,37,40
+18:56,Liberty,Scottie James,Missed Layup,37,40
+18:56,Mississippi State,Abdul Ado,Block,37,40
+18:56,Mississippi State,Abdul Ado,Defensive Rebound,37,40
+18:49,Liberty,Elijah Cuffee,Foul,37,40
+18:49,Mississippi State,Quinndary Weatherspoon,Missed Free Throw,37,40
+18:49,Mississippi State,None,Team Rebound,37,40
+18:49,Mississippi State,Quinndary Weatherspoon,Free Throw,37,41
+18:28,Liberty,Scottie James,Turnover,37,41
+18:10,Mississippi State,Lamar Peters,Layup,37,43
+17:49,Mississippi State,Abdul Ado,Foul,37,43
+17:49,Liberty,Lovell Cabbil Jr.,Free Throw,38,43
+17:49,Liberty,Lovell Cabbil Jr.,Free Throw,39,43
+17:41,Mississippi State,Aric Holman,Foul,39,43
+17:41,Mississippi State,Aric Holman,Turnover,39,43
+17:23,Liberty,Myo Baxter-Bell,Missed Jumper,39,43
+17:23,Mississippi State,Reggie Perry,Block,39,43
+17:23,Mississippi State,Lamar Peters,Defensive Rebound,39,43
+17:00,Liberty,Elijah Cuffee,Foul,39,43
+16:52,Mississippi State,Quinndary Weatherspoon,Foul,39,43
+16:52,Mississippi State,Quinndary Weatherspoon,Turnover,39,43
+16:30,Liberty,Caleb Homesley,Missed Three Point Jumper,39,43
+16:30,Mississippi State,Reggie Perry,Defensive Rebound,39,43
+16:21,Mississippi State,Lamar Peters,Turnover,39,43
+16:21,Liberty,Caleb Homesley,Steal,39,43
+16:15,Liberty,Caleb Homesley,Layup,41,43
+15:45,Mississippi State,Aric Holman,Three Point Jumper,41,46
+15:26,Liberty,Lovell Cabbil Jr.,Three Point Jumper,44,46
+15:03,Mississippi State,Lamar Peters,Missed Three Point Jumper,44,46
+15:03,Mississippi State,Aric Holman,Offensive Rebound,44,46
+14:56,Mississippi State,Aric Holman,Turnover,44,46
+14:56,Liberty,Georgie Pacheco-Ortiz,Steal,44,46
+14:46,Liberty,Lovell Cabbil Jr.,Missed Layup,44,46
+14:46,Mississippi State,Aric Holman,Block,44,46
+14:46,Liberty,Liberty,Offensive Rebound,44,46
+14:45,Mississippi State,None,None,44,46
+14:32,Mississippi State,Robert Woodard,Foul,44,46
+14:16,Liberty,Scottie James,Missed Layup,44,46
+14:16,Mississippi State,Aric Holman,Block,44,46
+14:16,Liberty,Liberty,Offensive Rebound,44,46
+14:16,Liberty,Caleb Homesley,Layup,46,46
+14:16,Mississippi State,Robert Woodard,Foul,46,46
+14:16,Liberty,Caleb Homesley,Free Throw,47,46
+13:55,Mississippi State,Reggie Perry,Missed Layup,47,46
+13:55,Liberty,Scottie James,Defensive Rebound,47,46
+13:33,Liberty,Keenan Gumbs,Missed Layup,47,46
+13:33,Mississippi State,Aric Holman,Block,47,46
+13:33,Mississippi State,Robert Woodard,Defensive Rebound,47,46
+13:28,Mississippi State,Quinndary Weatherspoon,Layup,47,48
+13:28,Liberty,Georgie Pacheco-Ortiz,Foul,47,48
+13:28,Mississippi State,Quinndary Weatherspoon,Free Throw,47,49
+13:15,Mississippi State,Aric Holman,Foul,47,49
+13:15,Liberty,Lovell Cabbil Jr.,Free Throw,48,49
+13:15,Liberty,Lovell Cabbil Jr.,Missed Free Throw,48,49
+13:15,Mississippi State,Aric Holman,Defensive Rebound,48,49
+13:01,Mississippi State,Aric Holman,Missed Jumper,48,49
+13:01,Liberty,Darius McGhee,Defensive Rebound,48,49
+12:43,Liberty,Myo Baxter-Bell,Jumper,50,49
+12:27,Mississippi State,Lamar Peters,Turnover,50,49
+12:16,Liberty,Myo Baxter-Bell,Missed Jumper,50,49
+12:16,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,50,49
+12:05,Liberty,Caleb Homesley,Foul,50,49
+12:05,Mississippi State,Quinndary Weatherspoon,Free Throw,50,50
+12:05,Mississippi State,Quinndary Weatherspoon,Free Throw,50,51
+11:53,Liberty,Darius McGhee,Missed Three Point Jumper,50,51
+11:53,Mississippi State,Abdul Ado,Defensive Rebound,50,51
+11:44,Mississippi State,Robert Woodard,Dunk,50,53
+11:18,Liberty,Georgie Pacheco-Ortiz,Missed Layup,50,53
+11:18,Mississippi State,Quinndary Weatherspoon,Block,50,53
+11:18,Liberty,Liberty,Offensive Rebound,50,53
+11:14,Mississippi State,None,None,50,53
+11:11,Mississippi State,Quinndary Weatherspoon,Foul,50,53
+11:11,Liberty,Caleb Homesley,Missed Free Throw,50,53
+11:11,Liberty,None,Team Rebound,50,53
+11:11,Liberty,Caleb Homesley,Free Throw,51,53
+11:00,Mississippi State,Lamar Peters,Turnover,51,53
+10:44,Liberty,Caleb Homesley,Layup,53,53
+10:09,Mississippi State,Mississippi State ,Turnover,53,53
+9:54,Liberty,Caleb Homesley,Missed Three Point Jumper,53,53
+9:54,Mississippi State,Tyson Carter,Defensive Rebound,53,53
+9:45,Mississippi State,Tyson Carter,Foul,53,53
+9:45,Mississippi State,Tyson Carter,Turnover,53,53
+9:31,Liberty,Elijah Cuffee,Missed Three Point Jumper,53,53
+9:31,Mississippi State,Aric Holman,Defensive Rebound,53,53
+9:15,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,53,53
+9:15,Mississippi State,Reggie Perry,Offensive Rebound,53,53
+9:09,Mississippi State,Lamar Peters,Three Point Jumper,53,56
+9:05,Mississippi State,None,None,53,56
+8:53,Liberty,Georgie Pacheco-Ortiz,Turnover,53,56
+8:53,Mississippi State,Reggie Perry,Steal,53,56
+8:48,Mississippi State,Tyson Carter,Three Point Jumper,53,59
+8:24,Liberty,Scottie James,Turnover,53,59
+8:06,Liberty,Elijah Cuffee,Foul,53,59
+8:06,Mississippi State,Quinndary Weatherspoon,Free Throw,53,60
+8:06,Mississippi State,Quinndary Weatherspoon,Free Throw,53,61
+7:45,Liberty,Georgie Pacheco-Ortiz,Missed Jumper,53,61
+7:45,Liberty,Myo Baxter-Bell,Offensive Rebound,53,61
+7:45,Liberty,None,None,53,61
+7:45,Mississippi State,Reggie Perry,Defensive Rebound,53,61
+7:21,Mississippi State,Lamar Peters,Layup,53,63
+7:11,Liberty,None,None,53,63
+6:58,Mississippi State,Lamar Peters,Foul,53,63
+6:58,Liberty,Caleb Homesley,Free Throw,54,63
+6:58,Liberty,Caleb Homesley,Free Throw,55,63
+6:58,Liberty,Caleb Homesley,Free Throw,56,63
+6:44,Mississippi State,Reggie Perry,Layup,56,65
+6:30,Liberty,Caleb Homesley,Three Point Jumper,59,65
+6:09,Mississippi State,Reggie Perry,Jumper,59,67
+5:54,Mississippi State,Lamar Peters,Foul,59,67
+5:54,Liberty,Myo Baxter-Bell,Free Throw,60,67
+5:54,Liberty,Myo Baxter-Bell,Free Throw,61,67
+5:37,Mississippi State,Quinndary Weatherspoon,Foul,61,67
+5:37,Mississippi State,Quinndary Weatherspoon,Turnover,61,67
+5:21,Liberty,Lovell Cabbil Jr.,Turnover,61,67
+5:04,Mississippi State,Reggie Perry,Missed Layup,61,67
+5:04,Liberty,Myo Baxter-Bell,Defensive Rebound,61,67
+4:49,Liberty,Caleb Homesley,Three Point Jumper,64,67
+4:45,Mississippi State,None,None,64,67
+4:34,Mississippi State,Lamar Peters,Missed Three Point Jumper,64,67
+4:34,Liberty,Elijah Cuffee,Defensive Rebound,64,67
+4:06,Liberty,Myo Baxter-Bell,Missed Layup,64,67
+4:06,Mississippi State,Abdul Ado,Block,64,67
+4:06,Mississippi State,Abdul Ado,Defensive Rebound,64,67
+3:48,Mississippi State,Tyson Carter,Missed Three Point Jumper,64,67
+3:48,Liberty,Lovell Cabbil Jr.,Defensive Rebound,64,67
+3:31,Liberty,Caleb Homesley,Dunk,66,67
+3:08,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,66,67
+3:08,Liberty,Elijah Cuffee,Block,66,67
+3:08,Liberty,Myo Baxter-Bell,Defensive Rebound,66,67
+2:39,Liberty,Caleb Homesley,Three Point Jumper,69,67
+2:34,Mississippi State,None,None,69,67
+2:23,Liberty,Elijah Cuffee,Foul,69,67
+2:23,Mississippi State,Reggie Perry,Missed Free Throw,69,67
+2:23,Mississippi State,None,Team Rebound,69,67
+2:23,Mississippi State,Reggie Perry,Free Throw,69,68
+1:58,Liberty,Georgie Pacheco-Ortiz,Missed Jumper,69,68
+1:58,Mississippi State,Robert Woodard,Defensive Rebound,69,68
+1:38,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,69,68
+1:38,Mississippi State,Robert Woodard,Offensive Rebound,69,68
+1:37,Liberty,Elijah Cuffee,Foul,69,68
+1:37,Mississippi State,Robert Woodard,Free Throw,69,69
+1:37,Mississippi State,Robert Woodard,Free Throw,69,70
+1:21,Liberty,Lovell Cabbil Jr.,Three Point Jumper,72,70
+0:56,Mississippi State,Quinndary Weatherspoon,Missed Layup,72,70
+0:56,Mississippi State,Robert Woodard,Offensive Rebound,72,70
+0:56,Mississippi State,None,None,72,70
+0:56,Liberty,Darius McGhee,Defensive Rebound,72,70
+0:50,Mississippi State,Reggie Perry,Foul,72,70
+0:50,Liberty,Darius McGhee,Missed Free Throw,72,70
+0:50,Liberty,None,Team Rebound,72,70
+0:50,Liberty,Darius McGhee,Free Throw,73,70
+0:44,Mississippi State,Lamar Peters,Missed Three Point Jumper,73,70
+0:44,Liberty,Caleb Homesley,Defensive Rebound,73,70
+0:31,Mississippi State,Tyson Carter,Foul,73,70
+0:31,Liberty,Myo Baxter-Bell,Free Throw,74,70
+0:31,Liberty,Myo Baxter-Bell,Missed Free Throw,74,70
+0:31,Mississippi State,Reggie Perry,Defensive Rebound,74,70
+0:22,Liberty,Georgie Pacheco-Ortiz,Foul,74,70
+0:22,Mississippi State,Quinndary Weatherspoon,Free Throw,74,71
+0:22,Mississippi State,Quinndary Weatherspoon,Free Throw,74,72
+0:15,Mississippi State,Robert Woodard,Foul,74,72
+0:15,Liberty,Lovell Cabbil Jr.,Free Throw,75,72
+0:15,Liberty,Lovell Cabbil Jr.,Free Throw,76,72
+0:11,Liberty,Caleb Homesley,Foul,76,72
+0:11,Mississippi State,Quinndary Weatherspoon,Free Throw,76,73
+0:11,Mississippi State,Quinndary Weatherspoon,Missed Free Throw,76,73
+0:11,Mississippi State,None,Team Rebound,76,73
+0:11,Mississippi State,Quinndary Weatherspoon,Free Throw,76,74
+0:10,Mississippi State,Tyson Carter,Foul,76,74
+0:10,Liberty,Lovell Cabbil Jr.,Free Throw,77,74
+0:10,Liberty,Lovell Cabbil Jr.,Free Throw,78,74
+0:06,Mississippi State,Lamar Peters,Missed Layup,78,74
+0:06,Mississippi State,Robert Woodard,Offensive Rebound,78,74
+0:06,Mississippi State,None,None,78,76
+0:04,Mississippi State,Reggie Perry,Foul,78,76
+0:04,Liberty,Myo Baxter-Bell,Free Throw,79,76
+0:04,Liberty,Myo Baxter-Bell,Free Throw,80,76
+0:04,Liberty,None,None,80,76
+0:01,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,80,76
+0:01,Liberty,Liberty,Defensive Rebound,80,76
+0:00,Mississippi State,None,None,80,76

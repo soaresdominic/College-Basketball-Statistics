@@ -1,0 +1,360 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Ohio State,None,None,0,0
+19:41,Ohio State,Musa Jallow,Missed Three Point Jumper,0,0
+19:41,Indiana,Indiana,Defensive Rebound,0,0
+19:17,Indiana,Aljami Durham,Missed Jumper,0,0
+19:17,Ohio State,Kaleb Wesson,Defensive Rebound,0,0
+19:09,Ohio State,Kaleb Wesson,Missed Three Point Jumper,0,0
+19:09,Ohio State,C.J. Jackson,Offensive Rebound,0,0
+18:48,Indiana,Rob Phinisee,Foul,0,0
+18:48,Ohio State,Kaleb Wesson,Free Throw,0,1
+18:48,Ohio State,Kaleb Wesson,Free Throw,0,2
+18:34,Indiana,Rob Phinisee,Turnover,0,2
+18:34,Ohio State,Andre Wesson,Steal,0,2
+18:29,Ohio State,Musa Jallow,Turnover,0,2
+18:29,Indiana,Justin Smith,Steal,0,2
+18:24,Indiana,Justin Smith,Missed Layup,0,2
+18:24,Ohio State,Kaleb Wesson,Defensive Rebound,0,2
+18:11,Ohio State,Andre Wesson,Missed Three Point Jumper,0,2
+18:11,Indiana,Juwan Morgan,Defensive Rebound,0,2
+18:02,Indiana,Romeo Langford,Three Point Jumper,3,2
+17:37,Ohio State,Kaleb Wesson,Missed Jumper,3,2
+17:37,Indiana,Aljami Durham,Defensive Rebound,3,2
+17:28,Indiana,Justin Smith,Missed Layup,3,2
+17:28,Ohio State,Musa Jallow,Defensive Rebound,3,2
+17:18,Indiana,Juwan Morgan,Foul,3,2
+17:18,Ohio State,Musa Jallow,Free Throw,3,3
+17:18,Ohio State,Musa Jallow,Free Throw,3,4
+17:07,Indiana,Rob Phinisee,Turnover,3,4
+16:51,Ohio State,Keyshawn Woods,Jumper,3,6
+16:29,Indiana,Romeo Langford,Missed Jumper,3,6
+16:29,Indiana,Romeo Langford,Offensive Rebound,3,6
+16:26,Indiana,Aljami Durham,Missed Three Point Jumper,3,6
+16:26,Indiana,Juwan Morgan,Offensive Rebound,3,6
+16:20,Indiana,Juwan Morgan,Missed Three Point Jumper,3,6
+16:20,Ohio State,Kaleb Wesson,Defensive Rebound,3,6
+15:58,Ohio State,Andre Wesson,Jumper,3,8
+15:39,Indiana,Justin Smith,Missed Three Point Jumper,3,8
+15:39,Indiana,None,Team Rebound,3,8
+15:39,Ohio State,Andre Wesson,Foul,3,8
+15:39,Ohio State,None,None,3,8
+15:34,Indiana,Juwan Morgan,Missed Layup,3,8
+15:34,Ohio State,Kaleb Wesson,Block,3,8
+15:34,Ohio State,C.J. Jackson,Defensive Rebound,3,8
+15:25,Indiana,Devonte Green,Foul,3,8
+15:16,Ohio State,Kaleb Wesson,Missed Jumper,3,8
+15:16,Indiana,De'Ron Davis,Block,3,8
+15:16,Indiana,Indiana,Defensive Rebound,3,8
+15:08,Indiana,Romeo Langford,Missed Three Point Jumper,3,8
+15:08,Indiana,De'Ron Davis,Offensive Rebound,3,8
+14:56,Indiana,De'Ron Davis,Layup,5,8
+14:36,Ohio State,Kaleb Wesson,Foul,5,8
+14:36,Ohio State,Kaleb Wesson,Turnover,5,8
+14:25,Indiana,Devonte Green,Missed Jumper,5,8
+14:25,Ohio State,Keyshawn Woods,Defensive Rebound,5,8
+14:17,Ohio State,Kaleb Wesson,Three Point Jumper,5,11
+14:05,Indiana,Devonte Green,Turnover,5,11
+13:47,Ohio State,Andre Wesson,Missed Jumper,5,11
+13:47,Ohio State,Musa Jallow,Offensive Rebound,5,11
+13:47,Ohio State,None,None,5,11
+13:47,Indiana,Juwan Morgan,Defensive Rebound,5,11
+13:33,Indiana,Juwan Morgan,Missed Layup,5,11
+13:33,Ohio State,Duane Washington Jr.,Defensive Rebound,5,11
+13:19,Ohio State,Duane Washington Jr.,Missed Three Point Jumper,5,11
+13:19,Ohio State,Kyle Young,Offensive Rebound,5,11
+13:19,Ohio State,None,None,5,11
+13:19,Indiana,De'Ron Davis,Defensive Rebound,5,11
+13:09,Indiana,Devonte Green,Missed Three Point Jumper,5,11
+13:09,Ohio State,Kyle Young,Defensive Rebound,5,11
+12:58,Ohio State,Duane Washington Jr.,Turnover,5,11
+12:43,Indiana,Devonte Green,Missed Jumper,5,11
+12:43,Ohio State,C.J. Jackson,Defensive Rebound,5,11
+12:29,Indiana,De'Ron Davis,Foul,5,11
+12:26,Ohio State,Justin Ahrens,Missed Three Point Jumper,5,11
+12:26,Indiana,De'Ron Davis,Defensive Rebound,5,11
+12:15,Indiana,Devonte Green,Three Point Jumper,8,11
+11:49,Ohio State,Kyle Young,Missed Three Point Jumper,8,11
+11:49,Indiana,Romeo Langford,Defensive Rebound,8,11
+11:36,Ohio State,Kyle Young,Foul,8,11
+11:36,Ohio State,None,None,8,11
+11:36,Indiana,De'Ron Davis,Missed Free Throw,8,11
+11:36,Indiana,None,Team Rebound,8,11
+11:36,Indiana,De'Ron Davis,Free Throw,9,11
+11:19,Ohio State,C.J. Jackson,Turnover,9,11
+11:19,Indiana,Evan Fitzner,Steal,9,11
+11:15,Indiana,Evan Fitzner,Missed Three Point Jumper,9,11
+11:15,Ohio State,Kaleb Wesson,Defensive Rebound,9,11
+11:03,Ohio State,Duane Washington Jr.,Turnover,9,11
+11:03,Indiana,Devonte Green,Steal,9,11
+10:43,Indiana,De'Ron Davis,Turnover,9,11
+10:43,Ohio State,Luther Muhammad,Steal,9,11
+10:36,Ohio State,Duane Washington Jr.,Layup,9,13
+10:17,Ohio State,Kyle Young,Foul,9,13
+10:17,Indiana,De'Ron Davis,Free Throw,10,13
+10:17,Indiana,De'Ron Davis,Free Throw,11,13
+10:04,Ohio State,C.J. Jackson,Missed Jumper,11,13
+10:04,Ohio State,C.J. Jackson,Offensive Rebound,11,13
+9:51,Ohio State,Kaleb Wesson,Layup,11,15
+9:51,Indiana,Evan Fitzner,Foul,11,15
+9:51,Ohio State,Kaleb Wesson,Missed Free Throw,11,15
+9:51,Indiana,Evan Fitzner,Defensive Rebound,11,15
+9:38,Indiana,Juwan Morgan,Layup,13,15
+9:24,Ohio State,Kaleb Wesson,Turnover,13,15
+9:24,Indiana,Evan Fitzner,Steal,13,15
+9:14,Indiana,Devonte Green,Jumper,15,15
+8:54,Ohio State,Luther Muhammad,Missed Three Point Jumper,15,15
+8:54,Indiana,Juwan Morgan,Defensive Rebound,15,15
+8:43,Indiana,Devonte Green,Turnover,15,15
+8:43,Ohio State,Andre Wesson,Steal,15,15
+8:33,Ohio State,Andre Wesson,Three Point Jumper,15,18
+8:16,Indiana,Juwan Morgan,Turnover,15,18
+8:16,Ohio State,Keyshawn Woods,Steal,15,18
+8:10,Ohio State,Keyshawn Woods,Layup,15,20
+7:59,Ohio State,Luther Muhammad,Foul,15,20
+7:59,Ohio State,None,None,15,20
+7:44,Indiana,Aljami Durham,Layup,17,20
+7:44,Ohio State,Keyshawn Woods,Foul,17,20
+7:44,Indiana,Aljami Durham,Free Throw,18,20
+7:25,Ohio State,Keyshawn Woods,Jumper,18,22
+7:08,Indiana,Devonte Green,Missed Jumper,18,22
+7:08,Ohio State,Musa Jallow,Defensive Rebound,18,22
+6:56,Ohio State,Kaleb Wesson,Missed Jumper,18,22
+6:56,Ohio State,Kaleb Wesson,Offensive Rebound,18,22
+6:52,Ohio State,Kaleb Wesson,Missed Jumper,18,22
+6:52,Indiana,Juwan Morgan,Block,18,22
+6:52,Indiana,Indiana,Defensive Rebound,18,22
+6:39,Indiana,Justin Smith,Missed Three Point Jumper,18,22
+6:39,Indiana,None,Team Rebound,18,22
+6:33,Ohio State,Musa Jallow,Foul,18,22
+6:33,Indiana,Juwan Morgan,Free Throw,19,22
+6:33,Indiana,Juwan Morgan,Free Throw,20,22
+6:19,Ohio State,Andre Wesson,Turnover,20,22
+6:19,Indiana,Juwan Morgan,Steal,20,22
+6:09,Indiana,Romeo Langford,Missed Three Point Jumper,20,22
+6:09,Ohio State,Luther Muhammad,Defensive Rebound,20,22
+6:00,Ohio State,Kaleb Wesson,Missed Three Point Jumper,20,22
+6:00,Indiana,Justin Smith,Defensive Rebound,20,22
+5:44,Indiana,Juwan Morgan,Layup,22,22
+5:32,Ohio State,Keyshawn Woods,Jumper,22,24
+5:13,Ohio State,Luther Muhammad,Foul,22,24
+5:13,Indiana,Rob Phinisee,Missed Free Throw,22,24
+5:13,Indiana,De'Ron Davis,Offensive Rebound,22,24
+5:13,Indiana,De'Ron Davis,Turnover,22,24
+5:13,Ohio State,Keyshawn Woods,Steal,22,24
+4:52,Ohio State,C.J. Jackson,Missed Jumper,22,24
+4:52,Ohio State,None,Team Rebound,22,24
+4:42,Indiana,De'Ron Davis,Foul,22,24
+4:41,Ohio State,C.J. Jackson,Missed Three Point Jumper,22,24
+4:41,Ohio State,Kyle Young,Offensive Rebound,22,24
+4:24,Ohio State,Kyle Young,Jumper,22,26
+4:06,Indiana,Juwan Morgan,Missed Three Point Jumper,22,26
+4:06,Ohio State,Ohio State,Defensive Rebound,22,26
+3:52,Ohio State,Andre Wesson,Three Point Jumper,22,29
+3:30,Indiana,Devonte Green,Three Point Jumper,25,29
+3:02,Ohio State,Keyshawn Woods,Foul,25,29
+3:02,Ohio State,Keyshawn Woods,Turnover,25,29
+3:02,Ohio State,None,None,25,29
+2:58,Indiana,Romeo Langford,Missed Three Point Jumper,25,29
+2:58,Indiana,Romeo Langford,Offensive Rebound,25,29
+2:52,Indiana,Romeo Langford,Missed Layup,25,29
+2:52,Ohio State,Kaleb Wesson,Defensive Rebound,25,29
+2:38,Ohio State,Duane Washington Jr.,Missed Layup,25,29
+2:38,Indiana,Aljami Durham,Block,25,29
+2:38,Indiana,Justin Smith,Defensive Rebound,25,29
+2:29,Indiana,Romeo Langford,Turnover,25,29
+2:29,Ohio State,C.J. Jackson,Steal,25,29
+2:21,Ohio State,Kaleb Wesson,Layup,25,31
+2:00,Indiana,Devonte Green,Three Point Jumper,28,31
+1:46,Ohio State,Musa Jallow,Missed Jumper,28,31
+1:46,Indiana,Juwan Morgan,Defensive Rebound,28,31
+1:35,Indiana,Devonte Green,Turnover,28,31
+1:35,Ohio State,C.J. Jackson,Steal,28,31
+1:29,Ohio State,C.J. Jackson,Layup,28,33
+1:06,Indiana,Devonte Green,Missed Three Point Jumper,28,33
+1:06,Ohio State,Musa Jallow,Defensive Rebound,28,33
+0:43,Ohio State,Duane Washington Jr.,Turnover,28,33
+0:32,Indiana,Romeo Langford,Turnover,28,33
+0:32,Ohio State,Duane Washington Jr.,Steal,28,33
+0:23,Ohio State,None,None,28,33
+0:04,Ohio State,Keyshawn Woods,Jumper,28,35
+0:00,Ohio State,None,None,28,35
+20:00,Indiana,None,None,28,35
+19:34,Indiana,Rob Phinisee,Missed Layup,28,35
+19:34,Ohio State,Kaleb Wesson,Defensive Rebound,28,35
+19:08,Ohio State,Kaleb Wesson,Missed Layup,28,35
+19:08,Indiana,Juwan Morgan,Block,28,35
+19:08,Ohio State,Keyshawn Woods,Offensive Rebound,28,35
+19:08,Ohio State,None,None,28,35
+19:06,Ohio State,Kaleb Wesson,Layup,28,37
+18:56,Indiana,Juwan Morgan,Foul,28,37
+18:56,Indiana,Juwan Morgan,Turnover,28,37
+18:44,Ohio State,Kaleb Wesson,Missed Jumper,28,37
+18:44,Ohio State,Musa Jallow,Offensive Rebound,28,37
+18:38,Ohio State,C.J. Jackson,Missed Three Point Jumper,28,37
+18:38,Ohio State,Kaleb Wesson,Offensive Rebound,28,37
+18:23,Ohio State,Kaleb Wesson,Foul,28,37
+18:23,Ohio State,Kaleb Wesson,Turnover,28,37
+18:06,Indiana,De'Ron Davis,Turnover,28,37
+18:06,Ohio State,Kaleb Wesson,Steal,28,37
+17:59,Ohio State,C.J. Jackson,Missed Layup,28,37
+17:59,Indiana,Devonte Green,Block,28,37
+17:59,Ohio State,Ohio State,Offensive Rebound,28,37
+17:38,Ohio State,Kaleb Wesson,Missed Three Point Jumper,28,37
+17:38,Indiana,Juwan Morgan,Defensive Rebound,28,37
+17:28,Ohio State,Andre Wesson,Foul,28,37
+17:28,Indiana,Aljami Durham,Free Throw,29,37
+17:28,Indiana,Aljami Durham,Free Throw,30,37
+17:14,Ohio State,C.J. Jackson,Three Point Jumper,30,40
+17:00,Indiana,Devonte Green,Three Point Jumper,33,40
+16:41,Indiana,Aljami Durham,Foul,33,40
+16:32,Ohio State,Andre Wesson,Turnover,33,40
+16:32,Indiana,Juwan Morgan,Steal,33,40
+16:25,Indiana,Aljami Durham,Missed Three Point Jumper,33,40
+16:25,Ohio State,Kaleb Wesson,Defensive Rebound,33,40
+16:15,Indiana,Aljami Durham,Foul,33,40
+16:05,Ohio State,C.J. Jackson,Jumper,33,42
+15:43,Indiana,None,None,33,42
+15:43,Ohio State,None,None,33,42
+15:35,Indiana,De'Ron Davis,Foul,33,42
+15:35,Indiana,De'Ron Davis,Turnover,33,42
+15:34,Ohio State,None,None,33,42
+15:26,Ohio State,Keyshawn Woods,Missed Jumper,33,42
+15:26,Indiana,Aljami Durham,Defensive Rebound,33,42
+15:10,Ohio State,Kyle Young,Foul,33,42
+15:10,Indiana,Juwan Morgan,Missed Free Throw,33,42
+15:10,Indiana,None,Team Rebound,33,42
+15:10,Indiana,Juwan Morgan,Free Throw,34,42
+15:01,Ohio State,C.J. Jackson,Three Point Jumper,34,45
+14:40,Indiana,Aljami Durham,Missed Layup,34,45
+14:40,Ohio State,Keyshawn Woods,Block,34,45
+14:40,Ohio State,Keyshawn Woods,Defensive Rebound,34,45
+14:27,Indiana,De'Ron Davis,Foul,34,45
+14:27,Ohio State,Kaleb Wesson,Free Throw,34,46
+14:27,Ohio State,Kaleb Wesson,Free Throw,34,47
+14:15,Indiana,Romeo Langford,Jumper,36,47
+13:58,Indiana,Juwan Morgan,Foul,36,47
+13:58,Ohio State,Kaleb Wesson,Free Throw,36,48
+13:58,Ohio State,Kaleb Wesson,Free Throw,36,49
+13:50,Indiana,Rob Phinisee,Layup,38,49
+13:37,Ohio State,Keyshawn Woods,Missed Three Point Jumper,38,49
+13:37,Indiana,Evan Fitzner,Defensive Rebound,38,49
+13:27,Indiana,Rob Phinisee,Missed Layup,38,49
+13:27,Ohio State,Kaleb Wesson,Defensive Rebound,38,49
+13:07,Ohio State,Keyshawn Woods,Missed Jumper,38,49
+13:07,Indiana,Romeo Langford,Defensive Rebound,38,49
+12:54,Indiana,Juwan Morgan,Layup,40,49
+12:54,Ohio State,Luther Muhammad,Foul,40,49
+12:54,Indiana,Juwan Morgan,Free Throw,41,49
+12:33,Ohio State,Andre Wesson,Turnover,41,49
+12:33,Indiana,Juwan Morgan,Steal,41,49
+12:33,Indiana,None,None,41,49
+12:28,Indiana,Juwan Morgan,Turnover,41,49
+12:28,Ohio State,Kaleb Wesson,Steal,41,49
+12:20,Ohio State,C.J. Jackson,Layup,41,51
+12:11,Indiana,Rob Phinisee,Missed Three Point Jumper,41,51
+12:11,Ohio State,Luther Muhammad,Defensive Rebound,41,51
+12:01,Ohio State,Musa Jallow,Missed Three Point Jumper,41,51
+12:01,Ohio State,Kaleb Wesson,Offensive Rebound,41,51
+11:37,Ohio State,Kaleb Wesson,Jumper,41,53
+11:13,Indiana,Juwan Morgan,Jumper,43,53
+11:13,Ohio State,Andre Wesson,Foul,43,53
+11:13,Ohio State,None,None,43,53
+11:13,Indiana,Juwan Morgan,Missed Free Throw,43,53
+11:13,Ohio State,Kaleb Wesson,Defensive Rebound,43,53
+11:10,Ohio State,None,None,43,53
+10:53,Ohio State,None,None,43,53
+10:48,Ohio State,Luther Muhammad,Three Point Jumper,43,56
+10:32,Indiana,Rob Phinisee,Missed Three Point Jumper,43,56
+10:32,Ohio State,C.J. Jackson,Defensive Rebound,43,56
+10:17,Ohio State,C.J. Jackson,Missed Three Point Jumper,43,56
+10:17,Indiana,Rob Phinisee,Defensive Rebound,43,56
+10:13,Indiana,Rob Phinisee,Turnover,43,56
+10:13,Ohio State,C.J. Jackson,Steal,43,56
+10:04,Ohio State,Luther Muhammad,Turnover,43,56
+9:52,Indiana,Romeo Langford,Missed Three Point Jumper,43,56
+9:52,Ohio State,Keyshawn Woods,Defensive Rebound,43,56
+9:29,Ohio State,Kaleb Wesson,Missed Jumper,43,56
+9:29,Indiana,Juwan Morgan,Defensive Rebound,43,56
+9:16,Indiana,Rob Phinisee,Missed Layup,43,56
+9:16,Ohio State,Kaleb Wesson,Defensive Rebound,43,56
+8:49,Ohio State,Keyshawn Woods,Jumper,43,58
+8:33,Indiana,None,None,43,58
+8:21,Indiana,Aljami Durham,Missed Three Point Jumper,43,58
+8:21,Ohio State,Keyshawn Woods,Defensive Rebound,43,58
+8:04,Indiana,Aljami Durham,Foul,43,58
+8:04,Ohio State,Andre Wesson,Free Throw,43,59
+8:04,Ohio State,Andre Wesson,Free Throw,43,60
+7:53,Indiana,Justin Smith,Missed Layup,43,60
+7:53,Ohio State,Kaleb Wesson,Block,43,60
+7:53,Ohio State,Keyshawn Woods,Defensive Rebound,43,60
+7:33,Ohio State,Luther Muhammad,Three Point Jumper,43,63
+7:14,Indiana,Devonte Green,Three Point Jumper,46,63
+7:14,Ohio State,Keyshawn Woods,Missed Layup,46,63
+7:14,Indiana,Devonte Green,Block,46,63
+7:14,Indiana,Indiana,Defensive Rebound,46,63
+6:53,Ohio State,None,None,46,63
+6:53,Ohio State,None,None,46,63
+6:53,Indiana,Romeo Langford,Missed Jumper,46,63
+6:53,Ohio State,Kaleb Wesson,Block,46,63
+6:53,Indiana,Evan Fitzner,Offensive Rebound,46,63
+6:40,Indiana,Evan Fitzner,Layup,48,63
+6:15,Ohio State,C.J. Jackson,Missed Jumper,48,63
+6:15,Indiana,Aljami Durham,Defensive Rebound,48,63
+6:03,Indiana,Evan Fitzner,Three Point Jumper,51,63
+5:26,Ohio State,C.J. Jackson,Missed Layup,51,63
+5:26,Indiana,Indiana,Defensive Rebound,51,63
+5:10,Indiana,Devonte Green,Three Point Jumper,54,63
+4:56,Ohio State,None,None,54,63
+4:43,Ohio State,Andre Wesson,Turnover,54,63
+4:43,Indiana,Devonte Green,Steal,54,63
+4:35,Indiana,Devonte Green,Missed Layup,54,63
+4:35,Indiana,Evan Fitzner,Offensive Rebound,54,63
+4:28,Indiana,Evan Fitzner,Missed Layup,54,63
+4:28,Indiana,Romeo Langford,Offensive Rebound,54,63
+4:23,Indiana,De'Ron Davis,Layup,56,63
+4:05,Ohio State,Kaleb Wesson,Foul,56,63
+4:05,Ohio State,Kaleb Wesson,Turnover,56,63
+4:00,Indiana,Devonte Green,Turnover,56,63
+4:00,Ohio State,Andre Wesson,Steal,56,63
+3:39,Ohio State,C.J. Jackson,Three Point Jumper,56,66
+3:22,Indiana,Aljami Durham,Layup,58,66
+2:56,Ohio State,Keyshawn Woods,Jumper,58,68
+2:36,Indiana,Aljami Durham,Layup,60,68
+2:00,Ohio State,None,None,60,68
+2:00,Ohio State,None,None,60,68
+1:58,Ohio State,Keyshawn Woods,Jumper,60,70
+1:45,Indiana,De'Ron Davis,Layup,62,70
+1:45,Ohio State,Andre Wesson,Foul,62,70
+1:45,Indiana,De'Ron Davis,Missed Free Throw,62,70
+1:45,Ohio State,Keyshawn Woods,Defensive Rebound,62,70
+1:33,Indiana,Devonte Green,Foul,62,70
+1:33,Ohio State,Andre Wesson,Free Throw,62,71
+1:33,Ohio State,Andre Wesson,Free Throw,62,72
+1:26,Indiana,Evan Fitzner,Three Point Jumper,65,72
+1:18,Indiana,Romeo Langford,Foul,65,72
+1:18,Ohio State,Luther Muhammad,Missed Free Throw,65,72
+1:18,Indiana,Devonte Green,Defensive Rebound,65,72
+1:16,Indiana,Romeo Langford,Layup,67,72
+1:04,Ohio State,C.J. Jackson,Turnover,67,72
+1:04,Indiana,Romeo Langford,Steal,67,72
+1:04,Indiana,None,None,67,72
+0:56,Indiana,Romeo Langford,Missed Layup,67,72
+0:56,Indiana,Romeo Langford,Offensive Rebound,67,72
+0:55,Indiana,Romeo Langford,Layup,69,72
+0:55,Ohio State,None,None,69,72
+0:36,Ohio State,Keyshawn Woods,Jumper,69,74
+0:19,Indiana,Evan Fitzner,Foul,69,74
+0:19,Indiana,Evan Fitzner,Turnover,69,74
+0:19,Ohio State,None,None,69,74
+0:16,Ohio State,Duane Washington Jr.,Dunk,69,76
+0:14,Indiana,Devonte Green,Three Point Jumper,72,76
+0:14,Indiana,None,None,72,76
+0:11,Indiana,Juwan Morgan,Foul,72,76
+0:11,Ohio State,Andre Wesson,Missed Free Throw,72,76
+0:11,Ohio State,None,Team Rebound,72,76
+0:11,Ohio State,Andre Wesson,Free Throw,72,77
+0:06,Indiana,Devonte Green,Three Point Jumper,75,77
+0:04,Indiana,Evan Fitzner,Foul,75,77
+0:04,Ohio State,C.J. Jackson,Free Throw,75,78
+0:04,Ohio State,C.J. Jackson,Free Throw,75,79
+0:00,Ohio State,None,None,75,79

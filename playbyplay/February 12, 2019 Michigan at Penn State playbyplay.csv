@@ -1,0 +1,321 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Penn State,None,None,0,0
+19:57,Penn State,None,None,0,0
+19:53,Penn State,Jamari Wheeler,Layup,0,2
+19:26,Michigan,Ignas Brazdeikis,Layup,2,2
+19:09,Penn State,Myles Dread,Turnover,2,2
+18:56,Michigan,Zavier Simpson,Missed Three Point Jumper,2,2
+18:56,Michigan,Jon Teske,Offensive Rebound,2,2
+18:32,Michigan,Charles Matthews,Three Point Jumper,5,2
+18:12,Penn State,Myles Dread,Missed Three Point Jumper,5,2
+18:12,Penn State,Jamari Wheeler,Offensive Rebound,5,2
+18:03,Penn State,Josh Reaves,Missed Three Point Jumper,5,2
+18:03,Michigan,Jon Teske,Defensive Rebound,5,2
+17:51,Michigan,Charles Matthews,Missed Jumper,5,2
+17:51,Penn State,Lamar Stevens,Defensive Rebound,5,2
+17:42,Penn State,Lamar Stevens,Jumper,5,4
+17:09,Michigan,Zavier Simpson,Missed Three Point Jumper,5,4
+17:09,Penn State,John Harrar,Defensive Rebound,5,4
+16:42,Penn State,Myles Dread,Three Point Jumper,5,7
+16:34,Michigan,Jordan Poole,Layup,7,7
+16:21,Penn State,Jamari Wheeler,Missed Layup,7,7
+16:21,Michigan,Jordan Poole,Defensive Rebound,7,7
+16:16,Michigan,Zavier Simpson,Turnover,7,7
+16:16,Penn State,Myles Dread,Steal,7,7
+16:12,Penn State,Myles Dread,Three Point Jumper,7,10
+15:46,Michigan,Zavier Simpson,Missed Three Point Jumper,7,10
+15:46,Penn State,Penn State,Defensive Rebound,7,10
+15:36,Penn State,None,None,7,10
+15:22,Penn State,Josh Reaves,Jumper,7,12
+15:02,Michigan,Ignas Brazdeikis,Layup,9,12
+14:49,Penn State,Rasir Bolton,Jumper,9,14
+14:20,Michigan,Jordan Poole,Missed Three Point Jumper,9,14
+14:20,Penn State,Jamari Wheeler,Defensive Rebound,9,14
+14:11,Penn State,Lamar Stevens,Jumper,9,16
+14:11,Michigan,Ignas Brazdeikis,Foul,9,16
+14:08,Penn State,Lamar Stevens,Free Throw,9,17
+13:44,Michigan,Jon Teske,Layup,11,17
+13:38,Penn State,Jamari Wheeler,Turnover,11,17
+13:38,Michigan,Charles Matthews,Steal,11,17
+13:32,Penn State,Jamari Wheeler,Foul,11,17
+13:32,Michigan,Charles Matthews,Free Throw,12,17
+13:32,Michigan,Charles Matthews,Missed Free Throw,12,17
+13:32,Penn State,Mike Watkins,Defensive Rebound,12,17
+13:17,Penn State,Lamar Stevens,Missed Jumper,12,17
+13:17,Penn State,Mike Watkins,Offensive Rebound,12,17
+13:12,Penn State,Mike Watkins,Missed Layup,12,17
+13:12,Penn State,Lamar Stevens,Offensive Rebound,12,17
+13:09,Penn State,Lamar Stevens,Missed Layup,12,17
+13:09,Penn State,Penn State,Offensive Rebound,12,17
+12:59,Penn State,Mike Watkins,Missed Jumper,12,17
+12:59,Michigan,Michigan,Defensive Rebound,12,17
+12:51,Penn State,Josh Reaves,Foul,12,17
+12:31,Michigan,Zavier Simpson,Missed Three Point Jumper,12,17
+12:31,Penn State,Mike Watkins,Defensive Rebound,12,17
+12:14,Michigan,Charles Matthews,Foul,12,17
+12:11,Penn State,Myles Dread,Missed Three Point Jumper,12,17
+12:11,Michigan,Isaiah Livers,Defensive Rebound,12,17
+11:51,Michigan,Charles Matthews,Jumper,14,17
+11:28,Penn State,Josh Reaves,Three Point Jumper,14,20
+11:04,Michigan,Isaiah Livers,Jumper,16,20
+10:52,Penn State,Rasir Bolton,Turnover,16,20
+10:52,Penn State,None,None,16,20
+10:39,Michigan,Jordan Poole,Jumper,18,20
+10:22,Penn State,Lamar Stevens,Layup,18,22
+9:51,Michigan,Brandon Johns Jr.,Missed Jumper,18,22
+9:51,Penn State,Penn State,Defensive Rebound,18,22
+9:35,Penn State,Lamar Stevens,Layup,18,24
+9:09,Michigan,Ignas Brazdeikis,Turnover,18,24
+9:09,Penn State,Josh Reaves,Steal,18,24
+9:02,Penn State,Lamar Stevens,Missed Three Point Jumper,18,24
+9:02,Michigan,Eli Brooks,Defensive Rebound,18,24
+8:56,Michigan,Zavier Simpson,Turnover,18,24
+8:56,Penn State,Jamari Wheeler,Steal,18,24
+8:23,Penn State,Jamari Wheeler,Missed Three Point Jumper,18,24
+8:23,Michigan,Isaiah Livers,Defensive Rebound,18,24
+8:01,Michigan,Eli Brooks,Missed Jumper,18,24
+8:01,Penn State,Lamar Stevens,Defensive Rebound,18,24
+7:48,Penn State,Josh Reaves,Missed Jumper,18,24
+7:48,Penn State,Josh Reaves,Offensive Rebound,18,24
+7:42,Penn State,Josh Reaves,Missed Jumper,18,24
+7:42,Michigan,Charles Matthews,Defensive Rebound,18,24
+7:36,Michigan,Ignas Brazdeikis,Jumper,20,24
+7:09,Penn State,Lamar Stevens,Missed Jumper,20,24
+7:09,Penn State,Rasir Bolton,Offensive Rebound,20,24
+7:01,Penn State,Rasir Bolton,Layup,20,26
+6:46,Michigan,Charles Matthews,Turnover,20,26
+6:45,Penn State,None,None,20,26
+6:35,Michigan,Ignas Brazdeikis,Foul,20,26
+6:35,Penn State,Myles Dread,Free Throw,20,27
+6:35,Penn State,Myles Dread,Missed Free Throw,20,27
+6:35,Michigan,Charles Matthews,Defensive Rebound,20,27
+6:15,Michigan,Jordan Poole,Missed Three Point Jumper,20,27
+6:15,Penn State,Lamar Stevens,Defensive Rebound,20,27
+6:03,Penn State,Lamar Stevens,Missed Three Point Jumper,20,27
+6:03,Michigan,Charles Matthews,Defensive Rebound,20,27
+5:33,Michigan,Jordan Poole,Turnover,20,27
+5:33,Michigan,None,None,20,27
+5:16,Penn State,Lamar Stevens,Jumper,20,29
+4:54,Michigan,Jordan Poole,Layup,22,29
+4:30,Penn State,Rasir Bolton,Missed Jumper,22,29
+4:30,Penn State,Lamar Stevens,Offensive Rebound,22,29
+4:30,Penn State,None,None,22,31
+4:01,Michigan,Jordan Poole,Missed Jumper,22,31
+4:01,Penn State,Lamar Stevens,Defensive Rebound,22,31
+3:40,Penn State,Lamar Stevens,Missed Jumper,22,31
+3:40,Penn State,Penn State,Offensive Rebound,22,31
+3:38,Michigan,Zavier Simpson,Foul,22,31
+3:38,Penn State,None,None,22,31
+3:32,Penn State,Lamar Stevens,Missed Jumper,22,31
+3:32,Michigan,Charles Matthews,Defensive Rebound,22,31
+3:02,Michigan,Charles Matthews,Three Point Jumper,25,31
+2:40,Michigan,Charles Matthews,Foul,25,31
+2:40,Penn State,Josh Reaves,Free Throw,25,32
+2:40,Penn State,Josh Reaves,Missed Free Throw,25,32
+2:40,Penn State,None,Team Rebound,25,32
+2:40,Penn State,Josh Reaves,Free Throw,25,33
+2:11,Penn State,Rasir Bolton,Foul,25,33
+2:06,Michigan,Zavier Simpson,Missed Layup,25,33
+2:06,Penn State,Lamar Stevens,Defensive Rebound,25,33
+2:00,Penn State,Myles Dread,Three Point Jumper,25,36
+1:40,Michigan,Eli Brooks,Jumper,27,36
+1:25,Penn State,Lamar Stevens,Jumper,27,38
+1:05,Michigan,Jordan Poole,Turnover,27,38
+0:43,Penn State,Lamar Stevens,Missed Jumper,27,38
+0:43,Michigan,Zavier Simpson,Defensive Rebound,27,38
+0:34,Michigan,Jordan Poole,Missed Jumper,27,38
+0:34,Penn State,Lamar Stevens,Block,27,38
+0:34,Michigan,Jordan Poole,Offensive Rebound,27,38
+0:18,Michigan,Zavier Simpson,Missed Layup,27,38
+0:18,Penn State,Lamar Stevens,Defensive Rebound,27,38
+0:00,Penn State,Rasir Bolton,Jumper,27,40
+0:00,Penn State,None,None,27,40
+20:00,Michigan,Michigan,Foul,27,40
+20:00,Penn State,Rasir Bolton,Free Throw,27,41
+20:00,Michigan,Michigan,Foul,27,40
+20:00,Penn State,Rasir Bolton,Missed Free Throw,27,41
+20:00,Michigan,Michigan,Foul,27,41
+20:00,Michigan,Michigan,Foul,27,41
+20:00,Penn State,Rasir Bolton,Free Throw,27,42
+20:00,Penn State,Rasir Bolton,Free Throw,27,43
+20:00,Michigan,None,None,27,43
+19:43,Michigan,Zavier Simpson,Three Point Jumper,30,43
+19:19,Michigan,Ignas Brazdeikis,Foul,30,43
+19:19,Penn State,Josh Reaves,Free Throw,30,44
+19:19,Penn State,Josh Reaves,Free Throw,30,45
+19:19,Penn State,Josh Reaves,Missed Free Throw,30,45
+19:19,Michigan,Charles Matthews,Defensive Rebound,30,45
+19:01,Michigan,Jordan Poole,Jumper,32,45
+19:01,Penn State,John Harrar,Foul,32,45
+19:01,Michigan,Jordan Poole,Free Throw,33,45
+18:43,Penn State,Lamar Stevens,Missed Jumper,33,45
+18:43,Michigan,Jon Teske,Defensive Rebound,33,45
+18:34,Michigan,Zavier Simpson,Turnover,33,45
+18:16,Penn State,Myles Dread,Foul,33,45
+18:16,Penn State,Myles Dread,Turnover,33,45
+18:02,Michigan,Jordan Poole,Missed Three Point Jumper,33,45
+18:02,Penn State,Jamari Wheeler,Defensive Rebound,33,45
+17:55,Penn State,Myles Dread,Three Point Jumper,33,48
+17:20,Penn State,John Harrar,Foul,33,48
+17:07,Michigan,Jordan Poole,Layup,35,48
+16:45,Penn State,John Harrar,Layup,35,50
+16:16,Michigan,Zavier Simpson,Turnover,35,50
+16:16,Penn State,Jamari Wheeler,Steal,35,50
+16:16,Penn State,None,None,35,50
+16:03,Penn State,Jamari Wheeler,Turnover,35,50
+15:34,Michigan,Isaiah Livers,Three Point Jumper,38,50
+15:23,Penn State,Rasir Bolton,Turnover,38,50
+15:23,Michigan,Jordan Poole,Steal,38,50
+15:15,Penn State,Jamari Wheeler,Foul,38,50
+15:15,Penn State,None,None,38,50
+15:15,Michigan,Isaiah Livers,Free Throw,39,50
+15:15,Michigan,Isaiah Livers,Free Throw,40,50
+14:54,Penn State,Lamar Stevens,Missed Jumper,40,50
+14:54,Michigan,Isaiah Livers,Defensive Rebound,40,50
+14:38,Michigan,Jordan Poole,Missed Three Point Jumper,40,50
+14:38,Penn State,Lamar Stevens,Defensive Rebound,40,50
+14:29,Penn State,Lamar Stevens,Jumper,40,52
+13:51,Michigan,Jon Teske,Turnover,40,52
+13:39,Penn State,Lamar Stevens,Missed Jumper,40,52
+13:39,Michigan,Jon Teske,Block,40,52
+13:39,Michigan,Jon Teske,Defensive Rebound,40,52
+13:22,Michigan,None,None,40,52
+13:16,Penn State,Josh Reaves,Foul,40,52
+13:16,Michigan,Zavier Simpson,Free Throw,41,52
+13:16,Michigan,Zavier Simpson,Free Throw,42,52
+12:44,Penn State,Penn State ,Turnover,42,52
+12:34,Michigan,Jon Teske,Layup,44,52
+12:34,Penn State,John Harrar,Foul,44,52
+12:34,Michigan,Jon Teske,Free Throw,45,52
+12:19,Penn State,Rasir Bolton,Turnover,45,52
+12:19,Michigan,Isaiah Livers,Steal,45,52
+12:00,Michigan,Charles Matthews,Jumper,47,52
+11:54,Penn State,None,None,47,52
+11:41,Michigan,Zavier Simpson,Foul,47,52
+11:41,Penn State,None,None,47,52
+11:31,Penn State,Rasir Bolton,Turnover,47,52
+11:20,Michigan,Zavier Simpson,Turnover,47,52
+11:20,Penn State,Rasir Bolton,Steal,47,52
+11:16,Penn State,Rasir Bolton,Missed Layup,47,52
+11:16,Penn State,Jamari Wheeler,Offensive Rebound,47,52
+11:08,Penn State,Jamari Wheeler,Layup,47,54
+10:46,Michigan,Zavier Simpson,Missed Layup,47,54
+10:46,Michigan,Jon Teske,Offensive Rebound,47,54
+10:40,Michigan,Jon Teske,Turnover,47,54
+10:40,Penn State,Jamari Wheeler,Steal,47,54
+10:25,Michigan,Jon Teske,Foul,47,54
+10:25,Penn State,Lamar Stevens,Missed Free Throw,47,54
+10:25,Penn State,None,Team Rebound,47,54
+10:25,Penn State,Lamar Stevens,Free Throw,47,55
+10:01,Michigan,Charles Matthews,Layup,49,55
+9:46,Penn State,Jamari Wheeler,Missed Three Point Jumper,49,55
+9:46,Michigan,Zavier Simpson,Defensive Rebound,49,55
+9:18,Penn State,Josh Reaves,Foul,49,55
+9:18,Michigan,Charles Matthews,Free Throw,50,55
+9:18,Michigan,Charles Matthews,Missed Free Throw,50,55
+9:18,Penn State,Penn State,Defensive Rebound,50,55
+8:54,Penn State,Josh Reaves,Turnover,50,55
+8:54,Michigan,Charles Matthews,Steal,50,55
+8:21,Penn State,Myles Dread,Foul,50,55
+8:21,Michigan,Charles Matthews,Missed Free Throw,50,55
+8:21,Michigan,None,Team Rebound,50,55
+8:21,Michigan,Charles Matthews,Free Throw,51,55
+7:56,Penn State,Lamar Stevens,Missed Three Point Jumper,51,55
+7:56,Michigan,Isaiah Livers,Defensive Rebound,51,55
+7:40,Michigan,Jordan Poole,Missed Three Point Jumper,51,55
+7:40,Penn State,Lamar Stevens,Defensive Rebound,51,55
+7:12,Penn State,Myles Dread,Three Point Jumper,51,58
+6:47,Michigan,Jordan Poole,Missed Three Point Jumper,51,58
+6:47,Penn State,Jamari Wheeler,Defensive Rebound,51,58
+6:36,Penn State,Lamar Stevens,Missed Jumper,51,58
+6:36,Penn State,Mike Watkins,Offensive Rebound,51,58
+6:31,Penn State,Mike Watkins,Layup,51,60
+6:22,Michigan,None,None,51,60
+6:05,Michigan,Charles Matthews,Missed Jumper,51,60
+6:05,Penn State,Mike Watkins,Defensive Rebound,51,60
+5:46,Penn State,Myles Dread,Missed Three Point Jumper,51,60
+5:46,Penn State,Mike Watkins,Offensive Rebound,51,60
+5:14,Penn State,Josh Reaves,Missed Jumper,51,60
+5:14,Michigan,Jon Teske,Block,51,60
+5:14,Michigan,Isaiah Livers,Defensive Rebound,51,60
+4:57,Michigan,Charles Matthews,Three Point Jumper,54,60
+4:25,Penn State,Lamar Stevens,Jumper,54,62
+4:20,Michigan,Ignas Brazdeikis,Missed Jumper,54,62
+4:20,Penn State,Lamar Stevens,Block,54,62
+4:20,Penn State,Lamar Stevens,Defensive Rebound,54,62
+3:54,Penn State,Jamari Wheeler,Turnover,54,62
+3:54,Michigan,Jon Teske,Steal,54,62
+3:50,Michigan,Isaiah Livers,Missed Layup,54,62
+3:50,Penn State,Lamar Stevens,Block,54,62
+3:50,Penn State,Myles Dread,Defensive Rebound,54,62
+3:50,Penn State,None,None,54,62
+3:50,Penn State,None,None,54,62
+3:50,Penn State,None,None,54,62
+3:42,Michigan,Jordan Poole,Foul,54,62
+3:26,Penn State,Lamar Stevens,Missed Jumper,54,62
+3:26,Michigan,Charles Matthews,Block,54,62
+3:26,Penn State,Mike Watkins,Offensive Rebound,54,62
+3:18,Penn State,Mike Watkins,Jumper,54,64
+3:11,Michigan,Isaiah Livers,Missed Three Point Jumper,54,64
+3:11,Penn State,Josh Reaves,Defensive Rebound,54,64
+2:57,Michigan,Charles Matthews,Foul,54,64
+2:57,Penn State,Josh Reaves,Missed Free Throw,54,64
+2:57,Penn State,None,Team Rebound,54,64
+2:57,Penn State,Jamari Wheeler,Offensive Rebound,54,64
+2:34,Michigan,Isaiah Livers,Foul,54,64
+2:34,Penn State,Lamar Stevens,Free Throw,54,65
+2:34,Penn State,Lamar Stevens,Missed Free Throw,54,65
+2:34,Michigan,Charles Matthews,Defensive Rebound,54,65
+2:14,Penn State,Mike Watkins,Foul,54,65
+2:14,Michigan,Charles Matthews,Free Throw,55,65
+2:14,Michigan,Charles Matthews,Free Throw,56,65
+2:14,Penn State,None,None,56,65
+1:52,Michigan,Charles Matthews,Foul,56,65
+1:52,Penn State,Rasir Bolton,Free Throw,56,66
+1:52,Penn State,Rasir Bolton,Free Throw,56,67
+1:41,Michigan,Charles Matthews,Missed Three Point Jumper,56,67
+1:41,Penn State,Myles Dread,Defensive Rebound,56,67
+1:27,Michigan,Jordan Poole,Foul,56,67
+1:27,Penn State,Rasir Bolton,Free Throw,56,68
+1:27,Penn State,Rasir Bolton,Missed Free Throw,56,68
+1:27,Michigan,Isaiah Livers,Defensive Rebound,56,68
+1:17,Penn State,Rasir Bolton,Foul,56,68
+1:17,Michigan,Jordan Poole,Free Throw,57,68
+1:17,Michigan,Jordan Poole,Missed Free Throw,57,68
+1:17,Michigan,Jordan Poole,Offensive Rebound,57,68
+1:16,Michigan,Jordan Poole,Layup,59,68
+1:04,Michigan,Zavier Simpson,Foul,59,68
+1:04,Penn State,Myles Dread,Free Throw,59,69
+1:04,Penn State,Myles Dread,Missed Free Throw,59,69
+1:04,Michigan,Jordan Poole,Defensive Rebound,59,69
+1:00,Michigan,Charles Matthews,Dunk,61,69
+0:54,Michigan,None,None,61,69
+0:53,Penn State,Josh Reaves,Turnover,61,69
+0:49,Michigan,Charles Matthews,Layup,63,69
+0:39,Michigan,Charles Matthews,Foul,63,69
+0:39,Penn State,Lamar Stevens,Missed Free Throw,63,69
+0:39,Penn State,None,Team Rebound,63,69
+0:39,Penn State,Lamar Stevens,Free Throw,63,70
+0:34,Michigan,Zavier Simpson,Three Point Jumper,66,70
+0:29,Michigan,Zavier Simpson,Foul,66,70
+0:29,Penn State,Lamar Stevens,Free Throw,66,71
+0:29,Penn State,Lamar Stevens,Free Throw,66,72
+0:25,Michigan,Zavier Simpson,Turnover,66,72
+0:25,Penn State,Rasir Bolton,Steal,66,72
+0:23,Michigan,Ignas Brazdeikis,Foul,66,72
+0:23,Penn State,Rasir Bolton,Missed Free Throw,66,72
+0:23,Penn State,None,Team Rebound,66,72
+0:23,Penn State,Rasir Bolton,Free Throw,66,73
+0:17,Michigan,Jordan Poole,Three Point Jumper,69,73
+0:17,Michigan,None,None,69,73
+0:16,Michigan,Jordan Poole,Foul,69,73
+0:16,Penn State,Lamar Stevens,Missed Free Throw,69,73
+0:16,Penn State,None,Team Rebound,69,73
+0:16,Penn State,Lamar Stevens,Free Throw,69,74
+0:09,Michigan,Jordan Poole,Missed Three Point Jumper,69,74
+0:09,Penn State,Lamar Stevens,Defensive Rebound,69,74
+0:03,Michigan,Isaiah Livers,Foul,69,74
+0:03,Penn State,Lamar Stevens,Free Throw,69,75
+0:03,Penn State,Lamar Stevens,Missed Free Throw,69,75
+0:03,Michigan,Isaiah Livers,Defensive Rebound,69,75
+0:00,Penn State,None,None,69,75

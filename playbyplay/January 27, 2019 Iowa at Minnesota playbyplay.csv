@@ -1,0 +1,336 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Iowa,None,None,0,0
+19:43,Iowa,Tyler Cook,Missed Jumper,0,0
+19:43,Minnesota,Amir Coffey,Defensive Rebound,0,0
+19:20,Iowa,Tyler Cook,Foul,0,0
+19:20,Minnesota,Jordan Murphy,Free Throw,0,1
+19:20,Minnesota,Jordan Murphy,Free Throw,0,2
+19:02,Iowa,Tyler Cook,Turnover,0,2
+19:02,Minnesota,Gabe Kalscheur,Steal,0,2
+18:53,Minnesota,Dupree McBrayer,Jumper,0,4
+18:38,Iowa,Tyler Cook,Dunk,2,4
+18:13,Minnesota,Jordan Murphy,Layup,2,6
+17:58,Iowa,Isaiah Moss,Three Point Jumper,5,6
+17:39,Minnesota,Eric Curry,Layup,5,8
+17:26,Iowa,Isaiah Moss,Three Point Jumper,8,8
+17:14,Minnesota,Gabe Kalscheur,Jumper,8,10
+16:54,Iowa,Luka Garza,Three Point Jumper,11,10
+16:31,Minnesota,Jordan Murphy,Dunk,11,12
+16:22,Iowa,Tyler Cook,Layup,13,12
+16:05,Minnesota,Gabe Kalscheur,Missed Jumper,13,12
+16:05,Iowa,Joe Wieskamp,Defensive Rebound,13,12
+16:01,Iowa,Jordan Bohannon,Turnover,13,12
+15:51,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,13,12
+15:51,Iowa,Tyler Cook,Defensive Rebound,13,12
+15:41,Iowa,Tyler Cook,Missed Layup,13,12
+15:41,Minnesota,Jordan Murphy,Block,13,12
+15:41,Minnesota,Jordan Murphy,Defensive Rebound,13,12
+15:35,Minnesota,Amir Coffey,Layup,13,14
+15:21,Iowa,Tyler Cook,Missed Jumper,13,14
+15:21,Minnesota,Amir Coffey,Defensive Rebound,13,14
+15:12,Minnesota,Matz Stockman,Layup,13,16
+14:59,Iowa,Joe Wieskamp,Missed Three Point Jumper,13,16
+14:59,Minnesota,Dupree McBrayer,Defensive Rebound,13,16
+14:53,Minnesota,Amir Coffey,Foul,13,16
+14:53,Minnesota,Amir Coffey,Turnover,13,16
+14:53,Minnesota,None,None,13,16
+14:30,Minnesota,Matz Stockman,Foul,13,16
+14:30,Iowa,Tyler Cook,Missed Free Throw,13,16
+14:30,Iowa,None,Team Rebound,13,16
+14:30,Iowa,Tyler Cook,Missed Free Throw,13,16
+14:30,Minnesota,Jordan Murphy,Defensive Rebound,13,16
+14:13,Minnesota,Matz Stockman,Dunk,13,18
+13:55,Iowa,Isaiah Moss,Foul,13,18
+13:55,Iowa,Isaiah Moss,Turnover,13,18
+13:33,Minnesota,Gabe Kalscheur,Three Point Jumper,13,21
+13:21,Iowa,Tyler Cook,Turnover,13,21
+13:21,Minnesota,Amir Coffey,Steal,13,21
+13:21,Minnesota,Amir Coffey,Missed Layup,13,21
+13:21,Iowa,Nicholas Baer,Block,13,21
+13:21,Iowa,Isaiah Moss,Defensive Rebound,13,21
+13:09,Iowa,Nicholas Baer,Three Point Jumper,16,21
+12:43,Minnesota,Isaiah Washington,Three Point Jumper,16,24
+12:33,Minnesota,Jarvis Omersa,Foul,16,24
+12:25,Iowa,Luka Garza,Layup,18,24
+12:14,Iowa,Maishe Dailey,Foul,18,24
+12:14,Minnesota,Gabe Kalscheur,Free Throw,18,25
+12:14,Minnesota,Gabe Kalscheur,Free Throw,18,26
+11:53,Minnesota,Jarvis Omersa,Foul,18,26
+11:53,Minnesota,None,None,18,26
+11:53,Iowa,Nicholas Baer,Free Throw,19,26
+11:53,Iowa,Nicholas Baer,Free Throw,20,26
+11:42,Minnesota,Isaiah Washington,Turnover,20,26
+11:42,Iowa,Maishe Dailey,Steal,20,26
+11:37,Iowa,Maishe Dailey,Missed Layup,20,26
+11:37,Iowa,Nicholas Baer,Offensive Rebound,20,26
+11:37,Iowa,None,None,22,26
+11:11,Minnesota,Isaiah Washington,Jumper,22,28
+10:49,Iowa,Luka Garza,Jumper,24,28
+10:42,Iowa,Nicholas Baer,Foul,24,28
+10:42,Minnesota,Jordan Murphy,Free Throw,24,29
+10:42,Minnesota,Jordan Murphy,Free Throw,24,30
+10:17,Iowa,Tyler Cook,Jumper,26,30
+9:54,Minnesota,Eric Curry,Layup,26,32
+9:47,Iowa,Jordan Bohannon,Foul,26,32
+9:47,Iowa,Jordan Bohannon,Turnover,26,32
+9:29,Minnesota,Dupree McBrayer,Missed Three Point Jumper,26,32
+9:29,Iowa,Tyler Cook,Defensive Rebound,26,32
+9:20,Minnesota,Jordan Murphy,Foul,26,32
+9:20,Iowa,Tyler Cook,Free Throw,27,32
+9:20,Iowa,Tyler Cook,Free Throw,28,32
+9:06,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,28,32
+9:06,Iowa,Isaiah Moss,Defensive Rebound,28,32
+8:54,Iowa,Joe Wieskamp,Missed Jumper,28,32
+8:54,Minnesota,Gabe Kalscheur,Block,28,32
+8:54,Minnesota,Jordan Murphy,Defensive Rebound,28,32
+8:49,Minnesota,Isaiah Washington,Jumper,28,34
+8:27,Iowa,Tyler Cook,Layup,30,34
+8:11,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,30,34
+8:11,Iowa,Isaiah Moss,Defensive Rebound,30,34
+7:50,Iowa,Luka Garza,Layup,32,34
+7:24,Minnesota,Amir Coffey,Missed Jumper,32,34
+7:24,Iowa,Iowa,Defensive Rebound,32,34
+7:22,Minnesota,None,None,32,34
+7:07,Iowa,Ryan Kriener,Missed Layup,32,34
+7:07,Iowa,Ryan Kriener,Offensive Rebound,32,34
+7:02,Iowa,Ryan Kriener,Missed Layup,32,34
+7:02,Minnesota,Jordan Murphy,Block,32,34
+7:02,Iowa,Ryan Kriener,Offensive Rebound,32,34
+6:53,Iowa,Isaiah Moss,Three Point Jumper,35,34
+6:24,Minnesota,Isaiah Washington,Missed Jumper,35,34
+6:24,Minnesota,Matz Stockman,Offensive Rebound,35,34
+6:24,Minnesota,None,None,35,36
+6:03,Iowa,Luka Garza,Layup,37,36
+5:51,Minnesota,Gabe Kalscheur,Three Point Jumper,37,39
+5:37,Iowa,Ryan Kriener,Jumper,39,39
+5:16,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,39,39
+5:16,Iowa,Isaiah Moss,Defensive Rebound,39,39
+5:06,Iowa,Jordan Bohannon,Missed Jumper,39,39
+5:06,Minnesota,Jordan Murphy,Defensive Rebound,39,39
+4:54,Minnesota,Gabe Kalscheur,Jumper,39,41
+4:43,Iowa,Luka Garza,Turnover,39,41
+4:43,Minnesota,Gabe Kalscheur,Steal,39,41
+4:37,Minnesota,Amir Coffey,Missed Layup,39,41
+4:37,Iowa,Isaiah Moss,Defensive Rebound,39,41
+4:21,Iowa,Luka Garza,Missed Three Point Jumper,39,41
+4:21,Minnesota,Minnesota,Defensive Rebound,39,41
+3:55,Minnesota,Amir Coffey,Jumper,39,43
+3:19,Iowa,Connor McCaffery,Missed Three Point Jumper,39,43
+3:19,Minnesota,Eric Curry,Defensive Rebound,39,43
+3:15,Minnesota,Eric Curry,Turnover,39,43
+3:15,Iowa,Isaiah Moss,Steal,39,43
+3:12,Iowa,Isaiah Moss,Missed Layup,39,43
+3:12,Iowa,Nicholas Baer,Offensive Rebound,39,43
+3:12,Iowa,None,None,41,43
+2:50,Minnesota,Amir Coffey,Three Point Jumper,41,46
+2:47,Minnesota,None,None,41,46
+2:47,Minnesota,None,None,41,46
+2:36,Iowa,Luka Garza,Turnover,41,46
+2:36,Minnesota,Matz Stockman,Steal,41,46
+2:32,Iowa,Connor McCaffery,Foul,41,46
+2:32,Minnesota,Amir Coffey,Free Throw,41,47
+2:32,Minnesota,Amir Coffey,Free Throw,41,48
+2:32,Iowa,Iowa ,Turnover,41,48
+2:05,Minnesota,Amir Coffey,Missed Three Point Jumper,41,48
+2:05,Minnesota,Jordan Murphy,Offensive Rebound,41,48
+1:41,Minnesota,Jordan Murphy,Dunk,41,50
+1:26,Minnesota,Dupree McBrayer,Foul,41,50
+1:10,Iowa,Isaiah Moss,Three Point Jumper,44,50
+0:43,Minnesota,Amir Coffey,Layup,44,52
+0:28,Iowa,Tyler Cook,Jumper,46,52
+0:02,Minnesota,Jordan Murphy,Three Point Jumper,46,55
+0:00,Minnesota,None,None,46,55
+20:00,Minnesota,None,None,46,55
+19:43,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,46,55
+19:43,Iowa,Luka Garza,Defensive Rebound,46,55
+19:25,Iowa,Tyler Cook,Missed Jumper,46,55
+19:25,Iowa,Luka Garza,Offensive Rebound,46,55
+19:20,Iowa,Luka Garza,Layup,48,55
+19:06,Minnesota,Jordan Murphy,Layup,48,57
+19:06,Iowa,Luka Garza,Foul,48,57
+19:06,Minnesota,Jordan Murphy,Missed Free Throw,48,57
+19:06,Iowa,Tyler Cook,Defensive Rebound,48,57
+19:01,Iowa,Tyler Cook,Missed Jumper,48,57
+19:01,Iowa,Iowa,Offensive Rebound,48,57
+18:55,Iowa,Isaiah Moss,Three Point Jumper,51,57
+18:24,Minnesota,Gabe Kalscheur,Layup,51,59
+18:18,Iowa,Tyler Cook,Turnover,51,59
+18:18,Minnesota,Eric Curry,Steal,51,59
+18:12,Minnesota,Amir Coffey,Dunk,51,61
+17:57,Iowa,Isaiah Moss,Missed Three Point Jumper,51,61
+17:57,Minnesota,Dupree McBrayer,Defensive Rebound,51,61
+17:50,Minnesota,Dupree McBrayer,Missed Layup,51,61
+17:50,Iowa,Tyler Cook,Defensive Rebound,51,61
+17:43,Minnesota,Jordan Murphy,Foul,51,61
+17:43,Iowa,Tyler Cook,Missed Free Throw,51,61
+17:43,Iowa,None,Team Rebound,51,61
+17:43,Iowa,Tyler Cook,Missed Free Throw,51,61
+17:43,Minnesota,Amir Coffey,Defensive Rebound,51,61
+17:28,Minnesota,Eric Curry,Missed Jumper,51,61
+17:28,Iowa,Iowa,Defensive Rebound,51,61
+16:53,Iowa,Jordan Bohannon,Missed Jumper,51,61
+16:53,Minnesota,Jordan Murphy,Defensive Rebound,51,61
+16:38,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,51,61
+16:38,Iowa,Luka Garza,Defensive Rebound,51,61
+16:31,Iowa,Luka Garza,Missed Layup,51,61
+16:31,Minnesota,Jordan Murphy,Defensive Rebound,51,61
+16:23,Minnesota,Jordan Murphy,Layup,51,63
+16:10,Iowa,Luka Garza,Three Point Jumper,54,63
+15:55,Minnesota,Amir Coffey,Layup,54,65
+15:55,Iowa,Luka Garza,Foul,54,65
+15:55,Minnesota,None,None,54,65
+15:55,Minnesota,Amir Coffey,Free Throw,54,66
+15:40,Iowa,Nicholas Baer,Missed Jumper,54,66
+15:40,Iowa,Nicholas Baer,Offensive Rebound,54,66
+15:30,Iowa,Ryan Kriener,Turnover,54,66
+15:01,Minnesota,Dupree McBrayer,Missed Three Point Jumper,54,66
+15:01,Iowa,Connor McCaffery,Defensive Rebound,54,66
+14:39,Iowa,Nicholas Baer,Turnover,54,66
+14:39,Minnesota,Dupree McBrayer,Steal,54,66
+14:34,Minnesota,Amir Coffey,Dunk,54,68
+14:16,Iowa,Ryan Kriener,Missed Jumper,54,68
+14:16,Minnesota,Matz Stockman,Defensive Rebound,54,68
+14:00,Minnesota,Jordan Murphy,Turnover,54,68
+14:00,Iowa,Riley Till,Steal,54,68
+13:49,Minnesota,Dupree McBrayer,Foul,54,68
+13:37,Minnesota,Isaiah Washington,Foul,54,68
+13:24,Iowa,Ryan Kriener,Jumper,56,68
+13:06,Minnesota,Amir Coffey,Turnover,56,68
+12:43,Iowa,Riley Till,Missed Three Point Jumper,56,68
+12:43,Minnesota,Minnesota,Defensive Rebound,56,68
+12:20,Iowa,Maishe Dailey,Foul,56,68
+12:20,Minnesota,Eric Curry,Free Throw,56,69
+12:20,Minnesota,Eric Curry,Free Throw,56,70
+12:11,Minnesota,Matz Stockman,Foul,56,70
+12:11,Iowa,Connor McCaffery,Missed Free Throw,56,70
+12:11,Iowa,None,Team Rebound,56,70
+12:11,Iowa,Connor McCaffery,Free Throw,57,70
+11:50,Iowa,Nicholas Baer,Foul,57,70
+11:50,Minnesota,None,None,57,70
+11:37,Iowa,Connor McCaffery,Foul,57,70
+11:18,Minnesota,Matz Stockman,Missed Jumper,57,70
+11:18,Iowa,Tyler Cook,Defensive Rebound,57,70
+11:14,Iowa,Isaiah Moss,Missed Three Point Jumper,57,70
+11:14,Iowa,Ryan Kriener,Offensive Rebound,57,70
+10:43,Iowa,Ryan Kriener,Jumper,59,70
+10:19,Minnesota,Isaiah Washington,Turnover,59,70
+10:19,Iowa,Connor McCaffery,Steal,59,70
+10:08,Iowa,Tyler Cook,Foul,59,70
+10:08,Iowa,Tyler Cook,Turnover,59,70
+9:40,Minnesota,Eric Curry,Turnover,59,70
+9:40,Iowa,Isaiah Moss,Steal,59,70
+9:35,Iowa,Isaiah Moss,Layup,61,70
+9:06,Minnesota,Jordan Murphy,Missed Jumper,61,70
+9:06,Minnesota,Jordan Murphy,Offensive Rebound,61,70
+9:04,Iowa,Ryan Kriener,Foul,61,70
+9:04,Minnesota,Jordan Murphy,Missed Free Throw,61,70
+9:04,Minnesota,None,Team Rebound,61,70
+9:04,Minnesota,Jordan Murphy,Free Throw,61,71
+8:52,Iowa,Luka Garza,Jumper,63,71
+8:32,Minnesota,Amir Coffey,Missed Jumper,63,71
+8:32,Iowa,Tyler Cook,Defensive Rebound,63,71
+8:27,Minnesota,Dupree McBrayer,Foul,63,71
+8:23,Iowa,Isaiah Moss,Missed Three Point Jumper,63,71
+8:23,Iowa,Maishe Dailey,Offensive Rebound,63,71
+8:06,Iowa,Luka Garza,Missed Jumper,63,71
+8:06,Minnesota,Eric Curry,Defensive Rebound,63,71
+7:58,Minnesota,Gabe Kalscheur,Three Point Jumper,63,74
+7:44,Iowa,Jordan Bohannon,Foul,63,74
+7:44,Iowa,Jordan Bohannon,Turnover,63,74
+7:44,Minnesota,None,None,63,74
+7:23,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,63,74
+7:23,Minnesota,Jordan Murphy,Offensive Rebound,63,74
+7:17,Minnesota,Jordan Murphy,Layup,63,76
+7:00,Iowa,Tyler Cook,Layup,65,76
+6:28,Minnesota,Gabe Kalscheur,Missed Layup,65,76
+6:28,Minnesota,Jordan Murphy,Offensive Rebound,65,76
+6:24,Iowa,Luka Garza,Foul,65,76
+6:24,Minnesota,Jordan Murphy,Free Throw,65,77
+6:24,Minnesota,Jordan Murphy,Free Throw,65,78
+6:10,Iowa,Isaiah Moss,Missed Jumper,65,78
+6:10,Minnesota,Gabe Kalscheur,Defensive Rebound,65,78
+5:50,Minnesota,Amir Coffey,Three Point Jumper,65,81
+5:33,Minnesota,Jordan Murphy,Foul,65,81
+5:33,Iowa,Luka Garza,Free Throw,66,81
+5:33,Iowa,Luka Garza,Free Throw,67,81
+5:22,Minnesota,Amir Coffey,Missed Three Point Jumper,67,81
+5:22,Iowa,Nicholas Baer,Defensive Rebound,67,81
+5:01,Iowa,Luka Garza,Missed Jumper,67,81
+5:01,Iowa,Isaiah Moss,Offensive Rebound,67,81
+4:54,Minnesota,Matz Stockman,Foul,67,81
+4:54,Iowa,Luka Garza,Free Throw,68,81
+4:54,Iowa,Luka Garza,Free Throw,69,81
+4:42,Minnesota,Dupree McBrayer,Turnover,69,81
+4:42,Iowa,Nicholas Baer,Steal,69,81
+4:23,Iowa,Tyler Cook,Missed Layup,69,81
+4:23,Minnesota,Dupree McBrayer,Defensive Rebound,69,81
+4:19,Iowa,Connor McCaffery,Foul,69,81
+4:19,Minnesota,Dupree McBrayer,Missed Free Throw,69,81
+4:19,Minnesota,None,Team Rebound,69,81
+4:19,Minnesota,Dupree McBrayer,Missed Free Throw,69,81
+4:19,Iowa,Tyler Cook,Defensive Rebound,69,81
+4:05,Iowa,Tyler Cook,Layup,71,81
+3:51,Minnesota,Amir Coffey,Turnover,71,81
+3:51,Iowa,Joe Wieskamp,Steal,71,81
+3:48,Iowa,Isaiah Moss,Layup,73,81
+3:37,Iowa,Isaiah Moss,Foul,73,81
+3:37,Minnesota,None,None,73,81
+3:37,Minnesota,Eric Curry,Missed Free Throw,73,81
+3:37,Minnesota,None,Team Rebound,73,81
+3:37,Minnesota,Eric Curry,Missed Free Throw,73,81
+3:37,Iowa,Joe Wieskamp,Defensive Rebound,73,81
+3:30,Iowa,Luka Garza,Three Point Jumper,76,81
+3:26,Iowa,None,None,76,81
+2:59,Iowa,Luka Garza,Foul,76,81
+2:59,Minnesota,Jordan Murphy,Missed Free Throw,76,81
+2:59,Minnesota,None,Team Rebound,76,81
+2:59,Minnesota,Jordan Murphy,Free Throw,76,82
+2:42,Iowa,Tyler Cook,Jumper,78,82
+2:29,Iowa,Joe Wieskamp,Foul,78,82
+2:29,Minnesota,Amir Coffey,Missed Free Throw,78,82
+2:29,Minnesota,None,Team Rebound,78,82
+2:29,Minnesota,Amir Coffey,Missed Free Throw,78,82
+2:29,Iowa,Joe Wieskamp,Defensive Rebound,78,82
+2:15,Minnesota,Eric Curry,Foul,78,82
+2:15,Iowa,Tyler Cook,Missed Free Throw,78,82
+2:15,Minnesota,Minnesota,Defensive Rebound,78,82
+1:48,Minnesota,Gabe Kalscheur,Jumper,78,84
+1:34,Minnesota,Gabe Kalscheur,Foul,78,84
+1:34,Iowa,Joe Wieskamp,Free Throw,79,84
+1:34,Iowa,Joe Wieskamp,Free Throw,80,84
+1:04,Minnesota,Amir Coffey,Missed Jumper,80,84
+1:04,Minnesota,Jordan Murphy,Offensive Rebound,80,84
+1:04,Minnesota,None,None,80,84
+1:04,Iowa,Tyler Cook,Defensive Rebound,80,84
+0:56,Iowa,Tyler Cook,Turnover,80,84
+0:56,Minnesota,Dupree McBrayer,Steal,80,84
+0:48,Iowa,Isaiah Moss,Foul,80,84
+0:48,Minnesota,Dupree McBrayer,Free Throw,80,85
+0:48,Minnesota,Dupree McBrayer,Missed Free Throw,80,85
+0:48,Iowa,Tyler Cook,Defensive Rebound,80,85
+0:40,Iowa,Isaiah Moss,Missed Three Point Jumper,80,85
+0:40,Minnesota,Dupree McBrayer,Defensive Rebound,80,85
+0:34,Minnesota,Eric Curry,Dunk,80,87
+0:26,Minnesota,Dupree McBrayer,Foul,80,87
+0:26,Iowa,Joe Wieskamp,Missed Free Throw,80,87
+0:26,Iowa,None,Team Rebound,80,87
+0:26,Iowa,Joe Wieskamp,Free Throw,81,87
+0:22,Iowa,Nicholas Baer,Foul,81,87
+0:22,Minnesota,Dupree McBrayer,Free Throw,81,88
+0:22,Minnesota,Dupree McBrayer,Free Throw,81,89
+0:15,Iowa,Jordan Bohannon,Layup,83,89
+0:14,Iowa,None,None,83,89
+0:12,Iowa,Maishe Dailey,Foul,83,89
+0:12,Minnesota,Amir Coffey,Free Throw,83,90
+0:12,Minnesota,Amir Coffey,Free Throw,83,91
+0:08,Minnesota,Amir Coffey,Foul,83,91
+0:08,Minnesota,None,None,83,91
+0:08,Iowa,Isaiah Moss,Missed Free Throw,83,91
+0:08,Iowa,None,Team Rebound,83,91
+0:08,Iowa,Isaiah Moss,Free Throw,84,91
+0:07,Iowa,Joe Wieskamp,Foul,84,91
+0:07,Minnesota,Dupree McBrayer,Free Throw,84,92
+0:07,Minnesota,Dupree McBrayer,Missed Free Throw,84,92
+0:07,Iowa,Nicholas Baer,Defensive Rebound,84,92
+0:02,Iowa,Isaiah Moss,Three Point Jumper,87,92
+0:00,Minnesota,None,None,87,92

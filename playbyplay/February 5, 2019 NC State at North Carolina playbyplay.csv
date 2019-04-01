@@ -1,0 +1,408 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,North Carolina,None,None,0,0
+19:52,North Carolina,Cameron Johnson,Three Point Jumper,0,3
+19:35,NC State,Torin Dorn,Missed Jumper,0,3
+19:35,North Carolina,Garrison Brooks,Defensive Rebound,0,3
+19:24,North Carolina,Coby White,Missed Jumper,0,3
+19:24,NC State,Markell Johnson,Defensive Rebound,0,3
+19:19,NC State,Markell Johnson,Turnover,0,3
+19:19,North Carolina,Luke Maye,Steal,0,3
+19:09,North Carolina,Kenny Williams,Layup,0,5
+18:57,NC State,Wyatt Walker,Jumper,2,5
+18:41,NC State,Wyatt Walker,Foul,2,5
+18:31,North Carolina,Coby White,Layup,2,7
+18:20,NC State,Braxton Beverly,Three Point Jumper,5,7
+18:00,North Carolina,Kenny Williams,Three Point Jumper,5,10
+17:38,NC State,C.J. Bryce,Missed Jumper,5,10
+17:38,North Carolina,Cameron Johnson,Block,5,10
+17:38,North Carolina,Luke Maye,Defensive Rebound,5,10
+17:28,North Carolina,Coby White,Missed Three Point Jumper,5,10
+17:28,North Carolina,Cameron Johnson,Offensive Rebound,5,10
+17:21,North Carolina,Kenny Williams,Missed Jumper,5,10
+17:21,NC State,NC State,Defensive Rebound,5,10
+17:11,NC State,Markell Johnson,Layup,7,10
+16:52,North Carolina,Luke Maye,Turnover,7,10
+16:52,NC State,Markell Johnson,Steal,7,10
+16:45,NC State,Braxton Beverly,Three Point Jumper,10,10
+16:18,North Carolina,Cameron Johnson,Missed Three Point Jumper,10,10
+16:18,NC State,Torin Dorn,Defensive Rebound,10,10
+16:04,NC State,Markell Johnson,Missed Jumper,10,10
+16:04,North Carolina,Coby White,Block,10,10
+16:04,NC State,NC State,Offensive Rebound,10,10
+15:54,NC State,Devon Daniels,Missed Jumper,10,10
+15:54,North Carolina,Coby White,Defensive Rebound,10,10
+15:44,North Carolina,Luke Maye,Missed Jumper,10,10
+15:44,North Carolina,Garrison Brooks,Offensive Rebound,10,10
+15:39,North Carolina,Cameron Johnson,Missed Three Point Jumper,10,10
+15:39,North Carolina,Kenny Williams,Offensive Rebound,10,10
+15:33,North Carolina,Kenny Williams,Layup,10,12
+15:10,NC State,Devon Daniels,Missed Three Point Jumper,10,12
+15:10,North Carolina,Luke Maye,Defensive Rebound,10,12
+15:02,North Carolina,Luke Maye,Jumper,10,14
+15:02,NC State,Markell Johnson,Foul,10,14
+15:02,North Carolina,None,None,10,14
+15:02,North Carolina,Luke Maye,Free Throw,10,15
+14:48,NC State,DJ Funderburk,Dunk,12,15
+14:28,North Carolina,Coby White,Missed Jumper,12,15
+14:28,NC State,NC State,Defensive Rebound,12,15
+14:26,North Carolina,Luke Maye,Foul,12,15
+14:16,NC State,Jericole Hellems,Missed Three Point Jumper,12,15
+14:16,North Carolina,Garrison Brooks,Defensive Rebound,12,15
+14:01,North Carolina,Brandon Robinson,Turnover,12,15
+14:01,NC State,Eric Lockett,Steal,12,15
+13:52,NC State,Devon Daniels,Layup,14,15
+13:26,North Carolina,Garrison Brooks,Dunk,14,17
+13:12,NC State,Jericole Hellems,Jumper,16,17
+12:49,NC State,DJ Funderburk,Foul,16,17
+12:49,North Carolina,Kenny Williams,Missed Free Throw,16,17
+12:49,North Carolina,None,Team Rebound,16,17
+12:49,North Carolina,Kenny Williams,Free Throw,16,18
+12:41,NC State,Devon Daniels,Missed Three Point Jumper,16,18
+12:41,North Carolina,Andrew Platek,Defensive Rebound,16,18
+12:29,North Carolina,Luke Maye,Jumper,16,20
+12:13,NC State,Devon Daniels,Turnover,16,20
+12:13,North Carolina,Seventh Woods,Steal,16,20
+12:03,North Carolina,Nassir Little,Missed Jumper,16,20
+12:03,North Carolina,North Carolina,Offensive Rebound,16,20
+11:56,North Carolina,Luke Maye,Missed Three Point Jumper,16,20
+11:56,NC State,Jericole Hellems,Defensive Rebound,16,20
+11:33,NC State,Markell Johnson,Missed Three Point Jumper,16,20
+11:33,NC State,Jericole Hellems,Offensive Rebound,16,20
+11:28,NC State,Jericole Hellems,Missed Layup,16,20
+11:28,North Carolina,Luke Maye,Defensive Rebound,16,20
+11:21,North Carolina,Seventh Woods,Missed Jumper,16,20
+11:21,North Carolina,Luke Maye,Offensive Rebound,16,20
+11:21,North Carolina,None,None,16,22
+11:00,North Carolina,Andrew Platek,Foul,16,22
+11:00,North Carolina,None,None,16,22
+11:00,NC State,Braxton Beverly,Three Point Jumper,19,22
+10:36,North Carolina,Kenny Williams,Turnover,19,22
+10:36,NC State,Braxton Beverly,Steal,19,22
+10:29,NC State,C.J. Bryce,Turnover,19,22
+10:29,North Carolina,Cameron Johnson,Steal,19,22
+10:21,NC State,Wyatt Walker,Foul,19,22
+10:21,North Carolina,Cameron Johnson,Missed Free Throw,19,22
+10:21,North Carolina,None,Team Rebound,19,22
+10:21,North Carolina,Cameron Johnson,Free Throw,19,23
+9:56,NC State,Torin Dorn,Foul,19,23
+9:56,NC State,Torin Dorn,Turnover,19,23
+9:51,NC State,Markell Johnson,Foul,19,23
+9:41,North Carolina,Cameron Johnson,Missed Jumper,19,23
+9:41,North Carolina,North Carolina,Offensive Rebound,19,23
+9:33,North Carolina,Luke Maye,Jumper,19,25
+9:33,NC State,Jericole Hellems,Foul,19,25
+9:33,North Carolina,Luke Maye,Free Throw,19,26
+9:16,NC State,DJ Funderburk,Dunk,21,26
+8:59,North Carolina,Coby White,Missed Three Point Jumper,21,26
+8:59,North Carolina,Luke Maye,Offensive Rebound,21,26
+8:54,North Carolina,Luke Maye,Missed Jumper,21,26
+8:54,NC State,DJ Funderburk,Block,21,26
+8:54,North Carolina,Garrison Brooks,Offensive Rebound,21,26
+8:46,North Carolina,Coby White,Three Point Jumper,21,29
+8:35,NC State,DJ Funderburk,Missed Jumper,21,29
+8:35,North Carolina,Kenny Williams,Defensive Rebound,21,29
+8:04,North Carolina,Garrison Brooks,Dunk,21,31
+8:01,North Carolina,None,None,21,31
+8:01,NC State,None,None,21,31
+7:39,North Carolina,Garrison Brooks,Foul,21,31
+7:37,NC State,Devon Daniels,Missed Jumper,21,31
+7:37,North Carolina,Nassir Little,Defensive Rebound,21,31
+7:20,NC State,Devon Daniels,Foul,21,31
+7:20,North Carolina,Nassir Little,Free Throw,21,32
+7:20,North Carolina,Nassir Little,Free Throw,21,33
+7:20,North Carolina,Garrison Brooks,Foul,21,33
+7:06,North Carolina,Brandon Huffman,Foul,21,33
+7:06,NC State,DJ Funderburk,Missed Free Throw,21,33
+7:06,NC State,None,Team Rebound,21,33
+7:06,NC State,DJ Funderburk,Missed Free Throw,21,33
+7:06,North Carolina,Kenny Williams,Defensive Rebound,21,33
+6:44,North Carolina,Coby White,Missed Three Point Jumper,21,33
+6:44,NC State,C.J. Bryce,Defensive Rebound,21,33
+6:36,NC State,Devon Daniels,Layup,23,33
+6:27,North Carolina,Cameron Johnson,Three Point Jumper,23,36
+6:04,NC State,C.J. Bryce,Layup,25,36
+5:42,North Carolina,Nassir Little,Dunk,25,38
+5:23,NC State,Braxton Beverly,Missed Layup,25,38
+5:23,North Carolina,Nassir Little,Block,25,38
+5:23,North Carolina,Luke Maye,Defensive Rebound,25,38
+5:18,NC State,Devon Daniels,Foul,25,38
+5:18,North Carolina,Nassir Little,Free Throw,25,39
+5:18,North Carolina,Nassir Little,Free Throw,25,40
+5:02,NC State,Eric Lockett,Jumper,27,40
+4:37,NC State,Jericole Hellems,Foul,27,40
+4:37,North Carolina,Luke Maye,Free Throw,27,41
+4:37,North Carolina,Luke Maye,Free Throw,27,42
+4:23,NC State,Jericole Hellems,Jumper,29,42
+4:12,North Carolina,Coby White,Missed Jumper,29,42
+4:12,NC State,NC State,Defensive Rebound,29,42
+4:09,North Carolina,Luke Maye,Foul,29,42
+3:59,NC State,Jericole Hellems,Missed Jumper,29,42
+3:59,North Carolina,Luke Maye,Block,29,42
+3:59,North Carolina,Luke Maye,Defensive Rebound,29,42
+3:50,North Carolina,Coby White,Layup,29,44
+3:50,North Carolina,None,None,29,44
+3:50,NC State,Braxton Beverly,Foul,29,44
+3:50,North Carolina,Coby White,Free Throw,29,45
+3:39,NC State,Braxton Beverly,Three Point Jumper,32,45
+3:22,North Carolina,Brandon Robinson,Missed Three Point Jumper,32,45
+3:22,North Carolina,Nassir Little,Offensive Rebound,32,45
+3:04,North Carolina,Coby White,Layup,32,47
+3:04,NC State,Eric Lockett,Foul,32,47
+3:04,North Carolina,Coby White,Free Throw,32,48
+2:49,North Carolina,Brandon Robinson,Foul,32,48
+2:49,NC State,C.J. Bryce,Missed Free Throw,32,48
+2:49,NC State,None,Team Rebound,32,48
+2:49,NC State,C.J. Bryce,Free Throw,33,48
+2:25,North Carolina,Coby White,Turnover,33,48
+2:11,NC State,Torin Dorn,Missed Jumper,33,48
+2:11,North Carolina,Coby White,Defensive Rebound,33,48
+2:05,North Carolina,Kenny Williams,Layup,33,50
+1:52,NC State,C.J. Bryce,Turnover,33,50
+1:52,North Carolina,Coby White,Steal,33,50
+1:46,NC State,Eric Lockett,Foul,33,50
+1:46,North Carolina,Brandon Robinson,Missed Free Throw,33,50
+1:46,North Carolina,None,Team Rebound,33,50
+1:46,North Carolina,Brandon Robinson,Free Throw,33,51
+1:37,NC State,Braxton Beverly,Jumper,35,51
+1:22,North Carolina,Nassir Little,Layup,35,53
+1:14,NC State,C.J. Bryce,Layup,37,53
+0:58,North Carolina,Coby White,Missed Layup,37,53
+0:58,North Carolina,Kenny Williams,Offensive Rebound,37,53
+0:52,North Carolina,Coby White,Three Point Jumper,37,56
+0:41,NC State,C.J. Bryce,Missed Jumper,37,56
+0:41,NC State,Eric Lockett,Offensive Rebound,37,56
+0:39,North Carolina,Kenny Williams,Foul,37,56
+0:39,NC State,Eric Lockett,Missed Free Throw,37,56
+0:39,NC State,NC State,Offensive Rebound,37,56
+0:30,NC State,Torin Dorn,Missed Jumper,37,56
+0:30,NC State,Eric Lockett,Offensive Rebound,37,56
+0:26,NC State,Eric Lockett,Missed Layup,37,56
+0:26,NC State,Eric Lockett,Offensive Rebound,37,56
+0:26,NC State,None,None,37,56
+0:04,NC State,C.J. Bryce,Three Point Jumper,40,56
+0:00,North Carolina,None,None,40,56
+20:00,North Carolina,None,None,40,56
+19:45,North Carolina,Coby White,Missed Jumper,40,56
+19:45,NC State,Markell Johnson,Block,40,56
+19:45,NC State,Torin Dorn,Defensive Rebound,40,56
+19:29,NC State,Torin Dorn,Missed Three Point Jumper,40,56
+19:29,North Carolina,Garrison Brooks,Defensive Rebound,40,56
+19:22,North Carolina,Coby White,Layup,40,58
+19:10,North Carolina,Coby White,Foul,40,58
+19:05,NC State,C.J. Bryce,Missed Jumper,40,58
+19:05,North Carolina,Garrison Brooks,Defensive Rebound,40,58
+19:03,NC State,Wyatt Walker,Foul,40,58
+18:36,North Carolina,Luke Maye,Three Point Jumper,40,61
+18:23,NC State,Markell Johnson,Dunk,42,61
+18:07,North Carolina,Luke Maye,Turnover,42,61
+18:07,NC State,C.J. Bryce,Steal,42,61
+18:03,NC State,C.J. Bryce,Turnover,42,61
+18:03,North Carolina,Coby White,Steal,42,61
+17:56,North Carolina,Cameron Johnson,Jumper,42,63
+17:41,NC State,Torin Dorn,Layup,44,63
+17:41,North Carolina,Garrison Brooks,Foul,44,63
+17:41,NC State,Torin Dorn,Missed Free Throw,44,63
+17:41,North Carolina,Cameron Johnson,Defensive Rebound,44,63
+17:34,North Carolina,Luke Maye,Dunk,44,65
+17:17,NC State,Wyatt Walker,Layup,46,65
+17:08,NC State,Torin Dorn,Foul,46,65
+17:08,North Carolina,Luke Maye,Free Throw,46,66
+17:08,North Carolina,Luke Maye,Free Throw,46,67
+16:48,NC State,C.J. Bryce,Layup,48,67
+16:38,North Carolina,Luke Maye,Missed Three Point Jumper,48,67
+16:38,North Carolina,North Carolina,Offensive Rebound,48,67
+16:38,NC State,C.J. Bryce,Foul,48,67
+16:15,North Carolina,Cameron Johnson,Layup,48,69
+16:03,North Carolina,Seventh Woods,Foul,48,69
+15:57,NC State,C.J. Bryce,Missed Jumper,48,69
+15:57,North Carolina,Luke Maye,Defensive Rebound,48,69
+15:46,North Carolina,Luke Maye,Missed Three Point Jumper,48,69
+15:46,NC State,DJ Funderburk,Defensive Rebound,48,69
+15:33,NC State,Braxton Beverly,Missed Three Point Jumper,48,69
+15:33,North Carolina,Nassir Little,Block,48,69
+15:33,North Carolina,Luke Maye,Defensive Rebound,48,69
+15:28,NC State,Braxton Beverly,Foul,48,69
+15:28,North Carolina,None,None,48,69
+15:28,North Carolina,Nassir Little,Missed Free Throw,48,69
+15:28,North Carolina,None,Team Rebound,48,69
+15:28,North Carolina,Nassir Little,Free Throw,48,70
+15:14,NC State,Devon Daniels,Jumper,50,70
+14:48,North Carolina,Kenny Williams,Jumper,50,72
+14:41,NC State,Devon Daniels,Missed Jumper,50,72
+14:41,NC State,DJ Funderburk,Offensive Rebound,50,72
+14:41,NC State,None,None,50,72
+14:41,North Carolina,Nassir Little,Defensive Rebound,50,72
+14:34,North Carolina,Cameron Johnson,Jumper,50,74
+14:33,NC State,Jericole Hellems,Foul,50,74
+14:33,North Carolina,Cameron Johnson,Free Throw,50,75
+14:25,NC State,Blake Harris,Missed Jumper,50,75
+14:24,North Carolina,Nassir Little,Defensive Rebound,50,75
+14:16,North Carolina,Garrison Brooks,Layup,50,77
+14:09,NC State,None,None,50,77
+14:00,NC State,Devon Daniels,Jumper,52,77
+13:39,NC State,DJ Funderburk,Foul,52,77
+13:33,North Carolina,Luke Maye,Turnover,52,77
+13:18,NC State,DJ Funderburk,Missed Dunk,52,77
+13:18,North Carolina,Luke Maye,Defensive Rebound,52,77
+13:09,North Carolina,Luke Maye,Turnover,52,77
+12:58,North Carolina,Brandon Robinson,Foul,52,77
+12:57,NC State,Markell Johnson,Missed Three Point Jumper,52,77
+12:57,North Carolina,Brandon Robinson,Defensive Rebound,52,77
+12:51,NC State,Jericole Hellems,Foul,52,77
+12:51,North Carolina,Nassir Little,Free Throw,52,78
+12:51,North Carolina,Nassir Little,Missed Free Throw,52,78
+12:51,NC State,DJ Funderburk,Defensive Rebound,52,78
+12:44,NC State,Devon Daniels,Missed Three Point Jumper,52,78
+12:44,NC State,NC State,Offensive Rebound,52,78
+12:24,NC State,Devon Daniels,Jumper,54,78
+12:02,North Carolina,Brandon Robinson,Jumper,54,80
+11:53,North Carolina,Brandon Robinson,Foul,54,80
+11:53,North Carolina,None,None,54,80
+11:53,NC State,Markell Johnson,Free Throw,55,80
+11:53,NC State,Markell Johnson,Missed Free Throw,55,80
+11:53,NC State,None,Team Rebound,55,80
+11:53,NC State,Markell Johnson,Free Throw,56,80
+11:45,North Carolina,Coby White,Turnover,56,80
+11:45,NC State,Devon Daniels,Steal,56,80
+11:41,NC State,Devon Daniels,Turnover,56,80
+11:37,NC State,Markell Johnson,Foul,56,80
+11:37,North Carolina,Coby White,Free Throw,56,81
+11:37,North Carolina,Coby White,Free Throw,56,82
+11:35,NC State,DJ Funderburk,Layup,58,82
+11:14,North Carolina,Cameron Johnson,Turnover,58,82
+11:10,NC State,Blake Harris,Missed Jumper,58,82
+11:10,NC State,Torin Dorn,Offensive Rebound,58,82
+11:10,NC State,None,None,60,82
+11:01,NC State,Markell Johnson,Foul,60,82
+11:01,North Carolina,Coby White,Free Throw,60,83
+11:01,North Carolina,Coby White,Free Throw,60,84
+10:53,NC State,DJ Funderburk,Layup,62,84
+10:53,North Carolina,Brandon Huffman,Foul,62,84
+10:53,NC State,DJ Funderburk,Free Throw,63,84
+10:36,North Carolina,Cameron Johnson,Turnover,63,84
+10:23,North Carolina,Coby White,Foul,63,84
+10:23,NC State,Blake Harris,Free Throw,64,84
+10:23,NC State,Blake Harris,Free Throw,65,84
+10:18,North Carolina,Andrew Platek,Missed Three Point Jumper,65,84
+10:18,North Carolina,North Carolina,Offensive Rebound,65,84
+10:15,NC State,Braxton Beverly,Foul,65,84
+10:15,North Carolina,Luke Maye,Free Throw,65,85
+10:15,North Carolina,Luke Maye,Free Throw,65,86
+10:06,NC State,Torin Dorn,Three Point Jumper,68,86
+9:54,North Carolina,Luke Maye,Layup,68,88
+9:54,NC State,Wyatt Walker,Foul,68,88
+9:54,North Carolina,Luke Maye,Free Throw,68,89
+9:41,NC State,C.J. Bryce,Missed Three Point Jumper,68,89
+9:41,North Carolina,Garrison Brooks,Defensive Rebound,68,89
+9:33,North Carolina,Luke Maye,Layup,68,91
+9:33,NC State,Braxton Beverly,Foul,68,91
+9:33,North Carolina,Luke Maye,Free Throw,68,92
+9:20,North Carolina,Luke Maye,Foul,68,92
+9:20,NC State,Eric Lockett,Missed Free Throw,68,92
+9:20,North Carolina,Luke Maye,Defensive Rebound,68,92
+9:07,North Carolina,Nassir Little,Turnover,68,92
+9:07,NC State,Eric Lockett,Steal,68,92
+8:54,NC State,Wyatt Walker,Missed Layup,68,92
+8:54,North Carolina,Kenny Williams,Block,68,92
+8:54,NC State,Wyatt Walker,Offensive Rebound,68,92
+8:43,NC State,Wyatt Walker,Layup,70,92
+8:39,North Carolina,Coby White,Missed Jumper,70,92
+8:39,NC State,Wyatt Walker,Block,70,92
+8:39,North Carolina,Garrison Brooks,Offensive Rebound,70,92
+8:28,North Carolina,Luke Maye,Layup,70,94
+8:14,NC State,Eric Lockett,Missed Jumper,70,94
+8:14,NC State,Torin Dorn,Offensive Rebound,70,94
+8:14,NC State,None,None,72,94
+7:53,North Carolina,Kenny Williams,Turnover,72,94
+7:53,North Carolina,None,None,72,94
+7:43,North Carolina,Coby White,Foul,72,94
+7:43,NC State,Braxton Beverly,Free Throw,73,94
+7:43,NC State,Braxton Beverly,Free Throw,74,94
+7:36,North Carolina,Coby White,Missed Jumper,74,94
+7:36,NC State,Wyatt Walker,Block,74,94
+7:36,North Carolina,Garrison Brooks,Offensive Rebound,74,94
+7:24,North Carolina,Garrison Brooks,Layup,74,96
+7:20,NC State,Eric Lockett,Missed Jumper,74,96
+7:20,North Carolina,Nassir Little,Defensive Rebound,74,96
+6:53,North Carolina,Nassir Little,Turnover,74,96
+6:53,North Carolina,Nassir Little,Foul,74,96
+6:53,NC State,Braxton Beverly,Missed Free Throw,74,96
+6:53,NC State,None,Team Rebound,74,96
+6:53,NC State,Braxton Beverly,Free Throw,75,96
+6:48,North Carolina,Seventh Woods,Turnover,75,96
+6:48,NC State,Braxton Beverly,Steal,75,96
+6:48,North Carolina,None,None,75,96
+6:38,NC State,Devon Daniels,Missed Jumper,75,96
+6:38,North Carolina,Luke Maye,Defensive Rebound,75,96
+6:06,North Carolina,Luke Maye,Layup,75,98
+5:53,NC State,Torin Dorn,Missed Jumper,75,98
+5:53,NC State,DJ Funderburk,Offensive Rebound,75,98
+5:49,NC State,DJ Funderburk,Layup,77,98
+5:38,North Carolina,Kenny Williams,Three Point Jumper,77,101
+5:27,NC State,Eric Lockett,Layup,79,101
+5:27,NC State,None,None,79,101
+5:08,NC State,Jericole Hellems,Foul,79,101
+5:08,North Carolina,Kenny Williams,Free Throw,79,102
+5:08,North Carolina,Kenny Williams,Free Throw,79,103
+4:57,NC State,Markell Johnson,Turnover,79,103
+4:57,North Carolina,Cameron Johnson,Steal,79,103
+4:39,North Carolina,Cameron Johnson,Three Point Jumper,79,106
+4:25,NC State,Markell Johnson,Turnover,79,106
+4:25,North Carolina,Cameron Johnson,Steal,79,106
+4:22,North Carolina,Cameron Johnson,Missed Jumper,79,106
+4:22,NC State,C.J. Bryce,Block,79,106
+4:22,North Carolina,North Carolina,Offensive Rebound,79,106
+4:12,NC State,Blake Harris,Foul,79,106
+4:12,North Carolina,Coby White,Free Throw,79,107
+4:12,North Carolina,Coby White,Missed Free Throw,79,107
+4:12,NC State,DJ Funderburk,Defensive Rebound,79,107
+4:02,NC State,Devon Daniels,Turnover,79,107
+3:47,North Carolina,Brandon Robinson,Missed Three Point Jumper,79,107
+3:47,North Carolina,Garrison Brooks,Offensive Rebound,79,107
+3:43,North Carolina,Nassir Little,Turnover,79,107
+3:43,NC State,Eric Lockett,Steal,79,107
+3:37,NC State,Devon Daniels,Turnover,79,107
+3:37,North Carolina,None,None,79,107
+3:37,North Carolina,Seventh Woods,Foul,79,107
+3:37,North Carolina,Seventh Woods,Turnover,79,107
+3:32,NC State,DJ Funderburk,Three Point Jumper,82,107
+3:19,NC State,DJ Funderburk,Foul,82,107
+3:19,North Carolina,Nassir Little,Free Throw,82,108
+3:19,North Carolina,Nassir Little,Free Throw,82,109
+3:07,NC State,Blake Harris,Free Throw,84,109
+3:07,North Carolina,Seventh Woods,Foul,82,109
+3:07,NC State,Blake Harris,Free Throw,83,109
+2:46,North Carolina,Nassir Little,Missed Three Point Jumper,84,109
+2:46,NC State,Blake Harris,Defensive Rebound,84,109
+2:40,NC State,Blake Harris,Missed Three Point Jumper,84,109
+2:40,North Carolina,Nassir Little,Defensive Rebound,84,109
+2:30,North Carolina,Walker Miller,Jumper,84,111
+2:17,NC State,Wyatt Walker,Layup,86,111
+2:04,North Carolina,Andrew Platek,Layup,86,113
+1:55,NC State,Eric Lockett,Layup,88,113
+1:46,North Carolina,Brandon Robinson,Turnover,88,113
+1:46,NC State,Blake Harris,Steal,88,113
+1:44,North Carolina,Brandon Robinson,Foul,88,113
+1:44,NC State,Blake Harris,Missed Free Throw,88,113
+1:44,NC State,None,Team Rebound,88,113
+1:44,NC State,Blake Harris,Free Throw,89,113
+1:40,North Carolina,Shea Rush,Missed Layup,89,113
+1:40,NC State,Torin Dorn,Defensive Rebound,89,113
+1:26,NC State,C.J. Bryce,Missed Layup,89,113
+1:26,NC State,C.J. Bryce,Offensive Rebound,89,113
+1:15,NC State,C.J. Bryce,Layup,91,113
+1:06,North Carolina,K.J. Smith,Missed Layup,91,113
+1:06,NC State,Wyatt Walker,Block,91,113
+1:06,NC State,Wyatt Walker,Defensive Rebound,91,113
+0:49,NC State,Torin Dorn,Missed Layup,91,113
+0:49,North Carolina,Walker Miller,Block,91,113
+0:49,NC State,NC State,Offensive Rebound,91,113
+0:46,NC State,C.J. Bryce,Jumper,93,113
+0:46,North Carolina,Shea Rush,Foul,93,113
+0:46,NC State,C.J. Bryce,Free Throw,94,113
+0:34,North Carolina,Shea Rush,Missed Three Point Jumper,94,113
+0:34,NC State,Wyatt Walker,Defensive Rebound,94,113
+0:18,North Carolina,Walker Miller,Foul,94,113
+0:18,NC State,Torin Dorn,Free Throw,95,113
+0:18,NC State,Torin Dorn,Free Throw,96,113
+0:00,North Carolina,None,None,96,113

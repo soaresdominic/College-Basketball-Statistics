@@ -1,0 +1,329 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Belmont,None,None,0,0
+19:48,Jacksonville State,Jamall Gregory,Jumper,2,0
+19:13,Belmont,Caleb Hollander,Missed Layup,2,0
+19:12,Belmont,Caleb Hollander,Offensive Rebound,2,0
+19:11,Belmont,Caleb Hollander,Layup,2,2
+18:51,Jacksonville State,Jamall Gregory,Three Point Jumper,5,2
+18:44,Belmont,Kevin McClain,Missed Jumper,5,2
+18:43,Belmont,Nick Muszynski,Offensive Rebound,5,2
+18:41,Belmont,Dylan Windler,Layup,5,4
+18:41,Jacksonville State,Ty Hudson,Turnover,5,4
+18:41,Belmont,Nick Muszynski,Steal,5,4
+18:37,Jacksonville State,Ty Hudson,Foul,5,4
+18:09,Belmont,Nick Muszynski,Layup,5,6
+17:47,Jacksonville State,Jamall Gregory,Missed Three Point Jumper,5,6
+17:47,Belmont,Kevin McClain,Defensive Rebound,5,6
+17:20,Belmont,Caleb Hollander,Missed Three Point Jumper,5,6
+17:20,Jacksonville State,Jamall Gregory,Defensive Rebound,5,6
+17:11,Jacksonville State,Jason Burnell,Three Point Jumper,8,6
+16:56,Belmont,Dylan Windler,Missed Three Point Jumper,8,6
+16:56,Jacksonville State,Christian Cunningham,Defensive Rebound,8,6
+16:45,Jacksonville State,Ty Hudson,Jumper,10,6
+16:45,Jacksonville State,Jamall Gregory,Foul,10,6
+16:31,Belmont,Seth Adelsperger,Jumper,10,8
+16:20,Jacksonville State,Ty Hudson,Three Point Jumper,13,8
+15:55,Belmont,Kevin McClain,Jumper,13,10
+15:36,Jacksonville State,Ty Hudson,Three Point Jumper,16,10
+15:11,Belmont,Caleb Hollander,Missed Three Point Jumper,16,10
+15:11,Jacksonville State,Jamall Gregory,Defensive Rebound,16,10
+15:04,Jacksonville State,Jamall Gregory,Missed Three Point Jumper,16,10
+15:04,Jacksonville State,Jason Burnell,Offensive Rebound,16,10
+14:50,Belmont,Caleb Hollander,Foul,16,10
+14:50,Belmont,None,None,16,10
+14:50,Jacksonville State,Jason Burnell,Free Throw,17,10
+14:50,Jacksonville State,Jason Burnell,Free Throw,18,10
+14:32,Belmont,Grayson Murphy,Three Point Jumper,18,13
+13:59,Jacksonville State,Jamall Gregory,Missed Jumper,18,13
+13:59,Belmont,Dylan Windler,Block,18,13
+13:59,Belmont,Grayson Murphy,Defensive Rebound,18,13
+13:46,Belmont,Kevin McClain,Missed Jumper,18,13
+13:46,Jacksonville State,Ty Hudson,Defensive Rebound,18,13
+13:31,Jacksonville State,Marlon Hunter,Layup,20,13
+13:23,Belmont,Grayson Murphy,Missed Three Point Jumper,20,13
+13:23,Jacksonville State,Jason Burnell,Defensive Rebound,20,13
+13:17,Jacksonville State,Jason Burnell,Missed Three Point Jumper,20,13
+13:17,Belmont,Grayson Murphy,Defensive Rebound,20,13
+12:54,Belmont,Michael Benkert,Missed Three Point Jumper,20,13
+12:54,Jacksonville State,Ty Hudson,Defensive Rebound,20,13
+12:42,Jacksonville State,Marlon Hunter,Missed Three Point Jumper,20,13
+12:42,Belmont,Seth Adelsperger,Defensive Rebound,20,13
+12:29,Belmont,Dylan Windler,Three Point Jumper,20,16
+12:11,Jacksonville State,Maros Zeliznak,Jumper,22,16
+11:59,Jacksonville State,Jason Burnell,Foul,22,16
+11:53,Belmont,Adam Kunkel,Turnover,22,16
+11:53,Belmont,Adam Kunkel,Foul,22,16
+11:53,Belmont,None,None,22,16
+11:47,Jacksonville State,Maurice Dunlap,Missed Three Point Jumper,22,16
+11:47,Belmont,Dylan Windler,Defensive Rebound,22,16
+11:26,Belmont,Nick Muszynski,Three Point Jumper,22,19
+11:05,Jacksonville State,Detrick Mostella,Missed Three Point Jumper,22,19
+11:05,Jacksonville State,Jason Burnell,Offensive Rebound,22,19
+10:46,Jacksonville State,Detrick Mostella,Layup,24,19
+10:26,Jacksonville State,Detrick Mostella,Foul,24,19
+10:26,Belmont,Adam Kunkel,Free Throw,24,20
+10:26,Belmont,Adam Kunkel,Free Throw,24,21
+10:00,Jacksonville State,Detrick Mostella,Missed Three Point Jumper,24,21
+10:00,Jacksonville State,Jason Burnell,Offensive Rebound,24,21
+10:00,Jacksonville State,None,None,26,21
+9:45,Belmont,Nick Muszynski,Turnover,26,21
+9:45,Jacksonville State,Jacara Cross,Missed Layup,26,21
+9:45,Belmont,Nick Muszynski,Block,26,21
+9:45,Belmont,Grayson Murphy,Defensive Rebound,26,21
+9:16,Belmont,Grayson Murphy,Turnover,26,21
+9:16,Jacksonville State,Jacara Cross,Steal,26,21
+9:12,Jacksonville State,Jacara Cross,Missed Layup,26,21
+9:12,Belmont,Caleb Hollander,Defensive Rebound,26,21
+9:05,Belmont,Caleb Hollander,Missed Three Point Jumper,26,21
+9:05,Jacksonville State,Maurice Dunlap,Defensive Rebound,26,21
+8:52,Jacksonville State,Jason Burnell,Missed Three Point Jumper,26,21
+8:52,Belmont,Caleb Hollander,Defensive Rebound,26,21
+8:34,Belmont,Caleb Hollander,Missed Three Point Jumper,26,21
+8:34,Jacksonville State,Derek St. Hilaire,Defensive Rebound,26,21
+8:18,Jacksonville State,Derek St. Hilaire,Missed Three Point Jumper,26,21
+8:18,Belmont,Caleb Hollander,Defensive Rebound,26,21
+8:12,Belmont,Kevin McClain,Layup,26,23
+8:05,Jacksonville State,Derek St. Hilaire,Foul,26,23
+8:05,Belmont,Kevin McClain,Free Throw,26,24
+8:04,Jacksonville State,Marlon Hunter,Jumper,28,24
+7:49,Belmont,Kevin McClain,Missed Jumper,28,24
+7:49,Belmont,Nick Muszynski,Offensive Rebound,28,24
+7:39,Belmont,Nick Muszynski,Missed Layup,28,24
+7:39,Belmont,Nick Muszynski,Offensive Rebound,28,24
+7:39,Belmont,None,None,28,24
+7:39,Jacksonville State,Christian Cunningham,Defensive Rebound,28,24
+7:27,Jacksonville State,Christian Cunningham,Missed Jumper,28,24
+7:27,Belmont,Dylan Windler,Defensive Rebound,28,24
+7:21,Belmont,Kevin McClain,Missed Three Point Jumper,28,24
+7:21,Jacksonville State,Christian Cunningham,Defensive Rebound,28,24
+7:07,Jacksonville State,Marlon Hunter,Missed Jumper,28,24
+7:07,Belmont,Nick Muszynski,Defensive Rebound,28,24
+6:59,Belmont,Nick Muszynski,Turnover,28,24
+6:59,Jacksonville State,Jason Burnell,Steal,28,24
+6:44,Jacksonville State,Ty Hudson,Missed Three Point Jumper,28,24
+6:44,Belmont,Dylan Windler,Defensive Rebound,28,24
+6:26,Belmont,Nick Muszynski,Missed Jumper,28,24
+6:26,Jacksonville State,Christian Cunningham,Block,28,24
+6:26,Jacksonville State,Jamall Gregory,Defensive Rebound,28,24
+6:20,Jacksonville State,Jamall Gregory,Turnover,28,24
+6:20,Belmont,Grayson Murphy,Steal,28,24
+6:17,Belmont,Grayson Murphy,Missed Layup,28,24
+6:17,Jacksonville State,Christian Cunningham,Defensive Rebound,28,24
+5:34,Belmont,Nick Muszynski,Foul,28,24
+5:34,Belmont,None,None,28,24
+5:34,Jacksonville State,Marlon Hunter,Free Throw,29,24
+5:34,Jacksonville State,Marlon Hunter,Missed Free Throw,29,24
+5:34,Belmont,Dylan Windler,Defensive Rebound,29,24
+5:09,Belmont,Seth Adelsperger,Turnover,29,24
+5:09,Jacksonville State,Jason Burnell,Steal,29,24
+4:49,Jacksonville State,Christian Cunningham,Turnover,29,24
+4:49,Belmont,Kevin McClain,Steal,29,24
+4:45,Belmont,Grayson Murphy,Layup,29,26
+4:20,Jacksonville State,Ty Hudson,Missed Jumper,29,26
+4:20,Jacksonville State,Marlon Hunter,Offensive Rebound,29,26
+4:14,Jacksonville State,Jason Burnell,Layup,31,26
+3:57,Belmont,Dylan Windler,Layup,31,28
+3:34,Jacksonville State,Jason Burnell,Jumper,33,28
+3:15,Belmont,Grayson Murphy,Turnover,33,28
+3:15,Belmont,None,None,33,28
+2:53,Jacksonville State,Ty Hudson,Missed Jumper,33,28
+2:53,Jacksonville State,Detrick Mostella,Offensive Rebound,33,28
+2:48,Jacksonville State,Detrick Mostella,Jumper,35,28
+2:29,Belmont,Tate Pierson,Missed Three Point Jumper,35,28
+2:29,Jacksonville State,Jamall Gregory,Defensive Rebound,35,28
+2:01,Jacksonville State,Detrick Mostella,Missed Jumper,35,28
+2:01,Belmont,Nick Muszynski,Defensive Rebound,35,28
+1:54,Belmont,Grayson Murphy,Turnover,35,28
+1:54,Jacksonville State,Detrick Mostella,Steal,35,28
+1:46,Jacksonville State,Ty Hudson,Missed Layup,35,28
+1:46,Belmont,Dylan Windler,Block,35,28
+1:46,Belmont,Grayson Murphy,Defensive Rebound,35,28
+1:37,Belmont,Kevin McClain,Layup,35,30
+1:09,Jacksonville State,Detrick Mostella,Three Point Jumper,38,30
+0:59,Belmont,None,None,38,30
+0:37,Jacksonville State,Maros Zeliznak,Foul,38,30
+0:37,Belmont,Dylan Windler,Free Throw,38,31
+0:37,Belmont,Dylan Windler,Free Throw,38,32
+0:37,Jacksonville State,None,None,38,32
+0:16,Jacksonville State,Ty Hudson,Missed Jumper,38,32
+0:16,Belmont,Dylan Windler,Defensive Rebound,38,32
+0:06,Belmont,Dylan Windler,Turnover,38,32
+0:06,Jacksonville State,Ty Hudson,Steal,38,32
+0:06,Jacksonville State,Jamall Gregory,Missed Layup,38,32
+0:06,Jacksonville State,Detrick Mostella,Offensive Rebound,38,32
+0:06,Jacksonville State,Detrick Mostella,Dunk,40,32
+0:00,Belmont,None,None,40,32
+20:00,Jacksonville State,None,None,40,32
+19:50,Jacksonville State,Christian Cunningham,Missed Layup,40,32
+19:50,Belmont,Nick Muszynski,Block,40,32
+19:50,Belmont,Kevin McClain,Defensive Rebound,40,32
+19:42,Belmont,Dylan Windler,Jumper,40,34
+19:23,Jacksonville State,Jason Burnell,Missed Jumper,40,34
+19:23,Belmont,Dylan Windler,Defensive Rebound,40,34
+18:58,Jacksonville State,Jason Burnell,Foul,40,34
+18:58,Belmont,Kevin McClain,Free Throw,40,35
+18:58,Belmont,Kevin McClain,Missed Free Throw,40,35
+18:58,Jacksonville State,Jason Burnell,Defensive Rebound,40,35
+18:53,Jacksonville State,Marlon Hunter,Jumper,42,35
+18:22,Belmont,Caleb Hollander,Missed Three Point Jumper,42,35
+18:22,Belmont,Nick Muszynski,Offensive Rebound,42,35
+18:13,Belmont,Nick Muszynski,Dunk,42,37
+17:59,Jacksonville State,Jamall Gregory,Missed Jumper,42,37
+17:59,Belmont,Caleb Hollander,Defensive Rebound,42,37
+17:41,Belmont,Kevin McClain,Turnover,42,37
+17:41,Jacksonville State,Ty Hudson,Steal,42,37
+17:35,Jacksonville State,Ty Hudson,Turnover,42,37
+17:35,Belmont,Grayson Murphy,Steal,42,37
+17:27,Belmont,Grayson Murphy,Layup,42,39
+17:00,Jacksonville State,Marlon Hunter,Missed Jumper,42,39
+17:00,Belmont,Nick Muszynski,Defensive Rebound,42,39
+16:48,Belmont,Dylan Windler,Missed Three Point Jumper,42,39
+16:48,Jacksonville State,Jacksonville State,Defensive Rebound,42,39
+16:15,Belmont,Seth Adelsperger,Foul,42,39
+16:09,Jacksonville State,Ty Hudson,Turnover,42,39
+16:09,Belmont,Dylan Windler,Steal,42,39
+15:58,Belmont,Caleb Hollander,Missed Layup,42,39
+15:58,Jacksonville State,Jason Burnell,Defensive Rebound,42,39
+15:57,Belmont,Caleb Hollander,Foul,42,39
+15:57,Belmont,None,None,42,39
+15:44,Jacksonville State,Jacara Cross,Layup,44,39
+15:44,Belmont,Caleb Hollander,Foul,44,39
+15:44,Jacksonville State,Jacara Cross,Free Throw,45,39
+15:24,Jacksonville State,Jason Burnell,Foul,45,39
+15:09,Jacksonville State,Jacara Cross,Foul,45,39
+15:09,Belmont,Kevin McClain,Free Throw,45,40
+15:09,Belmont,Kevin McClain,Missed Free Throw,45,40
+15:09,Jacksonville State,Jacara Cross,Defensive Rebound,45,40
+14:54,Jacksonville State,Ty Hudson,Layup,47,40
+14:25,Belmont,Michael Benkert,Missed Three Point Jumper,47,40
+14:25,Jacksonville State,Jamall Gregory,Defensive Rebound,47,40
+14:15,Belmont,Michael Benkert,Foul,47,40
+14:04,Jacksonville State,Jason Burnell,Turnover,47,40
+14:04,Belmont,Grayson Murphy,Steal,47,40
+13:57,Belmont,Kevin McClain,Three Point Jumper,47,43
+13:38,Jacksonville State,Detrick Mostella,Three Point Jumper,50,43
+13:25,Belmont,Kevin McClain,Three Point Jumper,50,46
+13:08,Belmont,Nick Muszynski,Foul,50,46
+13:08,Jacksonville State,Ty Hudson,Missed Free Throw,50,46
+13:08,Jacksonville State,None,Team Rebound,50,46
+13:08,Jacksonville State,Ty Hudson,Free Throw,51,46
+12:59,Belmont,Nick Muszynski,Jumper,51,48
+12:33,Jacksonville State,Detrick Mostella,Missed Three Point Jumper,51,48
+12:33,Jacksonville State,Jason Burnell,Offensive Rebound,51,48
+12:33,Jacksonville State,None,None,53,48
+12:00,Belmont,Nick Muszynski,Missed Layup,53,48
+12:00,Jacksonville State,Jason Burnell,Defensive Rebound,53,48
+11:43,Jacksonville State,Jason Burnell,Missed Jumper,53,48
+11:43,Belmont,Michael Benkert,Defensive Rebound,53,48
+11:29,Belmont,Dylan Windler,Three Point Jumper,53,51
+10:54,Belmont,None,None,53,51
+10:48,Jacksonville State,Ty Hudson,Missed Three Point Jumper,53,51
+10:48,Belmont,Dylan Windler,Defensive Rebound,53,51
+10:29,Belmont,Nick Muszynski,Missed Jumper,53,51
+10:29,Jacksonville State,Christian Cunningham,Block,53,51
+10:29,Jacksonville State,Jacksonville State,Defensive Rebound,53,51
+10:03,Jacksonville State,Ty Hudson,Missed Three Point Jumper,53,51
+10:03,Jacksonville State,Jason Burnell,Offensive Rebound,53,51
+9:57,Jacksonville State,Jason Burnell,Layup,55,51
+9:35,Belmont,Grayson Murphy,Missed Three Point Jumper,55,51
+9:35,Jacksonville State,Ty Hudson,Defensive Rebound,55,51
+9:16,Jacksonville State,Ty Hudson,Missed Jumper,55,51
+9:16,Jacksonville State,Jason Burnell,Offensive Rebound,55,51
+9:14,Belmont,Michael Benkert,Foul,55,51
+9:09,Jacksonville State,Derek St. Hilaire,Missed Jumper,55,51
+9:09,Belmont,Dylan Windler,Block,55,51
+9:09,Jacksonville State,Derek St. Hilaire,Offensive Rebound,55,51
+9:00,Jacksonville State,Derek St. Hilaire,Jumper,57,51
+8:50,Belmont,Dylan Windler,Three Point Jumper,57,54
+8:21,Jacksonville State,Christian Cunningham,Dunk,59,54
+8:01,Belmont,Caleb Hollander,Missed Three Point Jumper,59,54
+8:01,Jacksonville State,Derek St. Hilaire,Defensive Rebound,59,54
+7:42,Jacksonville State,Jason Burnell,Missed Three Point Jumper,59,54
+7:42,Jacksonville State,Jacksonville State,Offensive Rebound,59,54
+7:38,Jacksonville State,None,None,59,54
+7:24,Jacksonville State,Jason Burnell,Jumper,61,54
+7:07,Belmont,Kevin McClain,Turnover,61,54
+7:04,Belmont,None,None,61,54
+6:51,Jacksonville State,Derek St. Hilaire,Missed Layup,61,54
+6:51,Jacksonville State,Derek St. Hilaire,Offensive Rebound,61,54
+6:51,Belmont,Kevin McClain,Foul,61,54
+6:51,Jacksonville State,Derek St. Hilaire,Missed Free Throw,61,54
+6:51,Jacksonville State,None,Team Rebound,61,54
+6:51,Jacksonville State,Derek St. Hilaire,Free Throw,62,54
+6:42,Belmont,Michael Benkert,Missed Three Point Jumper,62,54
+6:42,Belmont,Dylan Windler,Offensive Rebound,62,54
+6:42,Belmont,None,None,62,56
+6:12,Jacksonville State,Jason Burnell,Missed Three Point Jumper,62,56
+6:12,Jacksonville State,Christian Cunningham,Offensive Rebound,62,56
+5:49,Jacksonville State,Derek St. Hilaire,Turnover,62,56
+5:32,Jacksonville State,Ty Hudson,Foul,62,56
+5:24,Belmont,Dylan Windler,Missed Three Point Jumper,62,56
+5:24,Jacksonville State,Jamall Gregory,Defensive Rebound,62,56
+4:51,Jacksonville State,Jamall Gregory,Missed Jumper,62,56
+4:51,Jacksonville State,Marlon Hunter,Offensive Rebound,62,56
+4:46,Jacksonville State,Marlon Hunter,Jumper,64,56
+4:29,Belmont,Grayson Murphy,Layup,64,58
+4:29,Jacksonville State,Jamall Gregory,Foul,64,58
+4:29,Belmont,Grayson Murphy,Missed Free Throw,64,58
+4:29,Jacksonville State,Jamall Gregory,Defensive Rebound,64,58
+4:16,Jacksonville State,Marlon Hunter,Turnover,64,58
+4:16,Belmont,Dylan Windler,Steal,64,58
+4:12,Belmont,Dylan Windler,Dunk,64,60
+3:57,Jacksonville State,None,None,64,60
+3:57,Belmont,None,None,64,60
+3:51,Jacksonville State,Ty Hudson,Missed Jumper,64,60
+3:51,Belmont,Grayson Murphy,Defensive Rebound,64,60
+3:29,Belmont,Nick Muszynski,Missed Jumper,64,60
+3:29,Jacksonville State,Jacksonville State,Defensive Rebound,64,60
+3:08,Belmont,Grayson Murphy,Foul,64,60
+3:08,Jacksonville State,Ty Hudson,Free Throw,65,60
+3:08,Jacksonville State,Ty Hudson,Free Throw,66,60
+2:52,Belmont,Grayson Murphy,Layup,66,62
+2:28,Jacksonville State,Detrick Mostella,Missed Three Point Jumper,66,62
+2:28,Jacksonville State,Jason Burnell,Offensive Rebound,66,62
+2:22,Jacksonville State,Jason Burnell,Layup,68,62
+1:56,Jacksonville State,Jamall Gregory,Foul,68,62
+1:56,Belmont,Kevin McClain,Free Throw,68,63
+1:56,Belmont,Kevin McClain,Free Throw,68,64
+1:56,Belmont,Kevin McClain,Free Throw,68,65
+1:49,Jacksonville State,Detrick Mostella,Three Point Jumper,71,65
+1:26,Belmont,Kevin McClain,Missed Jumper,71,65
+1:26,Jacksonville State,Christian Cunningham,Block,71,65
+1:26,Belmont,Nick Muszynski,Offensive Rebound,71,65
+1:20,Belmont,Kevin McClain,Turnover,71,65
+1:20,Jacksonville State,Maurice Dunlap,Steal,71,65
+1:20,Belmont,Adam Kunkel,Foul,71,65
+1:20,Belmont,Belmont,Foul,71,65
+1:20,Jacksonville State,Detrick Mostella,Free Throw,72,65
+1:20,Belmont,Belmont,Foul,71,65
+1:20,Jacksonville State,Detrick Mostella,Free Throw,73,65
+1:20,Jacksonville State,Maurice Dunlap,Free Throw,74,65
+1:19,Jacksonville State,Maurice Dunlap,Free Throw,75,65
+1:14,Belmont,Nick Muszynski,Missed Three Point Jumper,75,65
+1:14,Jacksonville State,Marlon Hunter,Defensive Rebound,75,65
+1:01,Belmont,Grayson Murphy,Foul,75,65
+1:01,Jacksonville State,Maurice Dunlap,Free Throw,76,65
+1:01,Jacksonville State,Maurice Dunlap,Free Throw,77,65
+0:49,Jacksonville State,Marlon Hunter,Foul,77,65
+0:49,Belmont,Dylan Windler,Free Throw,77,66
+0:49,Belmont,Dylan Windler,Free Throw,77,67
+0:43,Belmont,Adam Kunkel,Foul,77,67
+0:43,Jacksonville State,Marlon Hunter,Free Throw,78,67
+0:43,Jacksonville State,Marlon Hunter,Free Throw,79,67
+0:38,Belmont,Kevin McClain,Missed Three Point Jumper,79,67
+0:38,Belmont,Grayson Murphy,Offensive Rebound,79,67
+0:33,Belmont,Grayson Murphy,Layup,79,69
+0:33,Jacksonville State,Marlon Hunter,Foul,79,69
+0:33,Belmont,Grayson Murphy,Free Throw,79,70
+0:31,Belmont,Grayson Murphy,Foul,79,70
+0:31,Jacksonville State,Detrick Mostella,Free Throw,80,70
+0:31,Jacksonville State,Detrick Mostella,Free Throw,81,70
+0:26,Belmont,Kevin McClain,Three Point Jumper,81,73
+0:22,Belmont,Dylan Windler,Foul,81,73
+0:22,Jacksonville State,Ty Hudson,Free Throw,82,73
+0:22,Jacksonville State,Ty Hudson,Free Throw,83,73
+0:18,Belmont,Grayson Murphy,Missed Three Point Jumper,83,73
+0:13,Belmont,Adam Kunkel,Offensive Rebound,83,73
+0:07,Belmont,Adam Kunkel,Missed Layup,83,73
+0:07,Jacksonville State,Jason Burnell,Defensive Rebound,83,73
+0:00,Belmont,None,None,83,73

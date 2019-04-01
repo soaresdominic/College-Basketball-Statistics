@@ -1,0 +1,386 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Arizona State,None,None,0,0
+19:45,Arizona State,Zylan Cheatham,Missed Layup,0,0
+19:45,Arizona State,Romello White,Offensive Rebound,0,0
+19:41,Arizona State,Romello White,Missed Jumper,0,0
+19:41,St. John's,St. John's,Defensive Rebound,0,0
+19:26,St. John's,Mustapha Heron,Missed Three Point Jumper,0,0
+19:26,Arizona State,Rob Edwards,Defensive Rebound,0,0
+18:56,Arizona State,Zylan Cheatham,Missed Jumper,0,0
+18:56,St. John's,LJ Figueroa,Defensive Rebound,0,0
+18:42,St. John's,LJ Figueroa,Missed Layup,0,0
+18:42,Arizona State,Romello White,Defensive Rebound,0,0
+18:33,Arizona State,Rob Edwards,Three Point Jumper,0,3
+18:12,St. John's,Justin Simon,Missed Jumper,0,3
+18:12,Arizona State,Rob Edwards,Defensive Rebound,0,3
+18:00,Arizona State,Luguentz Dort,Layup,0,5
+17:43,St. John's,LJ Figueroa,Missed Jumper,0,5
+17:43,Arizona State,Rob Edwards,Defensive Rebound,0,5
+17:38,Arizona State,Rob Edwards,Turnover,0,5
+17:35,St. John's,Shamorie Ponds,Three Point Jumper,3,5
+17:20,Arizona State,Remy Martin,Turnover,3,5
+17:20,St. John's,Justin Simon,Steal,3,5
+17:17,St. John's,Justin Simon,Layup,5,5
+16:47,Arizona State,Zylan Cheatham,Jumper,5,7
+16:47,St. John's,Justin Simon,Foul,5,7
+16:47,Arizona State,Zylan Cheatham,Missed Free Throw,5,7
+16:47,St. John's,LJ Figueroa,Defensive Rebound,5,7
+16:36,St. John's,Marvin Clark II,Missed Three Point Jumper,5,7
+16:36,Arizona State,Rob Edwards,Defensive Rebound,5,7
+16:13,St. John's,Mustapha Heron,Foul,5,7
+16:13,Arizona State,Zylan Cheatham,Free Throw,5,8
+16:13,Arizona State,Zylan Cheatham,Missed Free Throw,5,8
+16:13,St. John's,Marvin Clark II,Defensive Rebound,5,8
+15:58,St. John's,Mustapha Heron,Missed Jumper,5,8
+15:58,Arizona State,Romello White,Block,5,8
+15:58,St. John's,St. John's,Offensive Rebound,5,8
+15:58,Arizona State,None,None,5,8
+15:48,St. John's,Shamorie Ponds,Three Point Jumper,8,8
+15:27,Arizona State,Luguentz Dort,Three Point Jumper,8,11
+15:08,St. John's,Shamorie Ponds,Missed Jumper,8,11
+15:08,Arizona State,Kimani Lawrence,Defensive Rebound,8,11
+14:56,Arizona State,Romello White,Jumper,8,13
+14:33,St. John's,Mustapha Heron,Missed Jumper,8,13
+14:33,Arizona State,Zylan Cheatham,Block,8,13
+14:33,St. John's,St. John's,Offensive Rebound,8,13
+14:33,St. John's,None,None,8,13
+14:19,St. John's,LJ Figueroa,Jumper,10,13
+13:54,Arizona State,None,None,10,13
+13:42,Arizona State,Arizona State ,Turnover,10,13
+13:27,St. John's,Justin Simon,Missed Jumper,10,13
+13:27,Arizona State,Taeshon Cherry,Defensive Rebound,10,13
+13:02,Arizona State,Kimani Lawrence,Three Point Jumper,10,16
+12:46,St. John's,Marvin Clark II,Missed Three Point Jumper,10,16
+12:46,Arizona State,Romello White,Defensive Rebound,10,16
+12:37,Arizona State,Rob Edwards,Missed Three Point Jumper,10,16
+12:37,St. John's,Marvin Clark II,Defensive Rebound,10,16
+12:26,St. John's,LJ Figueroa,Turnover,10,16
+12:26,Arizona State,Luguentz Dort,Steal,10,16
+12:23,Arizona State,Luguentz Dort,Missed Layup,10,16
+12:23,St. John's,LJ Figueroa,Defensive Rebound,10,16
+12:11,St. John's,Shamorie Ponds,Missed Three Point Jumper,10,16
+12:11,Arizona State,Rob Edwards,Defensive Rebound,10,16
+12:02,St. John's,Marvin Clark II,Foul,10,16
+12:02,Arizona State,Rob Edwards,Free Throw,10,17
+12:02,Arizona State,Rob Edwards,Free Throw,10,18
+11:50,St. John's,Marvin Clark II,Turnover,10,18
+11:24,Arizona State,De'Quon Lake,Layup,10,20
+11:24,Arizona State,None,None,10,20
+11:10,St. John's,Mustapha Heron,Missed Three Point Jumper,10,20
+11:10,Arizona State,Zylan Cheatham,Defensive Rebound,10,20
+10:49,Arizona State,Zylan Cheatham,Missed Layup,10,20
+10:49,Arizona State,De'Quon Lake,Offensive Rebound,10,20
+10:45,Arizona State,De'Quon Lake,Dunk,10,22
+10:35,Arizona State,De'Quon Lake,Foul,10,22
+10:31,St. John's,Mustapha Heron,Missed Three Point Jumper,10,22
+10:31,St. John's,Justin Simon,Offensive Rebound,10,22
+10:19,St. John's,Shamorie Ponds,Missed Three Point Jumper,10,22
+10:19,Arizona State,Taeshon Cherry,Defensive Rebound,10,22
+10:01,Arizona State,Remy Martin,Jumper,10,24
+9:37,Arizona State,Zylan Cheatham,Foul,10,24
+9:22,St. John's,Sedee Keita,Missed Layup,10,24
+9:22,Arizona State,Taeshon Cherry,Defensive Rebound,10,24
+9:06,Arizona State,De'Quon Lake,Foul,10,24
+9:06,Arizona State,De'Quon Lake,Turnover,10,24
+8:50,St. John's,Bryan Trimble Jr.,Three Point Jumper,13,24
+8:24,Arizona State,Zylan Cheatham,Missed Jumper,13,24
+8:24,St. John's,Sedee Keita,Defensive Rebound,13,24
+8:06,St. John's,Bryan Trimble Jr.,Turnover,13,24
+8:06,Arizona State,Zylan Cheatham,Steal,13,24
+8:01,Arizona State,Zylan Cheatham,Layup,13,26
+8:01,St. John's,Bryan Trimble Jr.,Foul,13,26
+8:01,Arizona State,Zylan Cheatham,Free Throw,13,27
+7:44,St. John's,Bryan Trimble Jr.,Missed Three Point Jumper,13,27
+7:44,Arizona State,Taeshon Cherry,Defensive Rebound,13,27
+7:35,Arizona State,Luguentz Dort,Layup,13,29
+7:26,St. John's,None,None,13,29
+7:10,St. John's,Shamorie Ponds,Jumper,15,29
+6:56,Arizona State,Luguentz Dort,Jumper,15,31
+6:28,Arizona State,Taeshon Cherry,Foul,15,31
+6:28,Arizona State,None,None,15,31
+6:28,St. John's,Justin Simon,Missed Free Throw,15,31
+6:28,St. John's,None,Team Rebound,15,31
+6:28,St. John's,Justin Simon,Missed Free Throw,15,31
+6:28,Arizona State,Zylan Cheatham,Defensive Rebound,15,31
+5:58,Arizona State,Remy Martin,Jumper,15,33
+5:41,St. John's,LJ Figueroa,Turnover,15,33
+5:41,Arizona State,Zylan Cheatham,Steal,15,33
+5:41,Arizona State,Zylan Cheatham,Turnover,15,33
+5:33,St. John's,Shamorie Ponds,Missed Three Point Jumper,15,33
+5:33,St. John's,St. John's,Offensive Rebound,15,33
+5:32,St. John's,Shamorie Ponds,Layup,17,33
+5:17,St. John's,Marvin Clark II,Foul,17,33
+5:17,Arizona State,Luguentz Dort,Free Throw,17,34
+5:17,Arizona State,Luguentz Dort,Free Throw,17,35
+5:01,St. John's,Shamorie Ponds,Missed Jumper,17,35
+5:01,St. John's,Justin Simon,Offensive Rebound,17,35
+4:58,Arizona State,Zylan Cheatham,Foul,17,35
+4:56,St. John's,Mustapha Heron,Turnover,17,35
+4:42,Arizona State,Romello White,Missed Jumper,17,35
+4:42,St. John's,LJ Figueroa,Defensive Rebound,17,35
+4:34,St. John's,Shamorie Ponds,Missed Three Point Jumper,17,35
+4:34,St. John's,Justin Simon,Offensive Rebound,17,35
+4:25,Arizona State,Romello White,Foul,17,35
+4:25,St. John's,Justin Simon,Free Throw,18,35
+4:25,St. John's,Justin Simon,Free Throw,19,35
+4:13,Arizona State,Luguentz Dort,Missed Three Point Jumper,19,35
+4:13,St. John's,Sedee Keita,Defensive Rebound,19,35
+4:01,St. John's,Mustapha Heron,Turnover,19,35
+3:48,Arizona State,Rob Edwards,Missed Jumper,19,35
+3:48,St. John's,Sedee Keita,Defensive Rebound,19,35
+3:23,Arizona State,De'Quon Lake,Foul,19,35
+3:23,Arizona State,None,None,19,35
+3:23,St. John's,Shamorie Ponds,Missed Free Throw,19,35
+3:23,St. John's,None,Team Rebound,19,35
+3:23,St. John's,Shamorie Ponds,Missed Free Throw,19,35
+3:23,Arizona State,Rob Edwards,Defensive Rebound,19,35
+3:05,Arizona State,Remy Martin,Turnover,19,35
+2:56,St. John's,Justin Simon,Layup,21,35
+2:34,Arizona State,Remy Martin,Turnover,21,35
+2:34,St. John's,Justin Simon,Steal,21,35
+2:27,St. John's,Shamorie Ponds,Turnover,21,35
+2:00,Arizona State,Rob Edwards,Missed Jumper,21,35
+2:00,St. John's,LJ Figueroa,Defensive Rebound,21,35
+1:45,St. John's,Mustapha Heron,Missed Jumper,21,35
+1:45,Arizona State,Kimani Lawrence,Defensive Rebound,21,35
+1:24,Arizona State,Luguentz Dort,Missed Layup,21,35
+1:24,St. John's,St. John's,Defensive Rebound,21,35
+1:16,St. John's,Mustapha Heron,Foul,21,35
+1:16,St. John's,Mustapha Heron,Turnover,21,35
+1:06,Arizona State,Taeshon Cherry,Three Point Jumper,21,38
+0:46,St. John's,Justin Simon,Layup,23,38
+0:25,Arizona State,Romello White,Foul,23,38
+0:25,Arizona State,Romello White,Turnover,23,38
+0:25,Arizona State,Arizona State,Foul,23,38
+0:25,St. John's,Shamorie Ponds,Free Throw,24,38
+0:25,Arizona State,Arizona State,Foul,23,38
+0:25,St. John's,Shamorie Ponds,Free Throw,25,38
+0:09,St. John's,Justin Simon,Missed Layup,25,38
+0:09,Arizona State,Vitaliy Shibel,Defensive Rebound,25,38
+0:00,Arizona State,None,None,25,38
+20:00,St. John's,None,None,25,38
+19:49,St. John's,Mustapha Heron,Missed Layup,25,38
+19:49,Arizona State,Remy Martin,Defensive Rebound,25,38
+19:40,Arizona State,Rob Edwards,Missed Jumper,25,38
+19:40,Arizona State,Luguentz Dort,Offensive Rebound,25,38
+19:39,St. John's,Mustapha Heron,Foul,25,38
+19:39,Arizona State,Rob Edwards,Free Throw,25,39
+19:39,Arizona State,Rob Edwards,Free Throw,25,40
+19:21,Arizona State,Kimani Lawrence,Missed Three Point Jumper,25,40
+19:21,St. John's,St. John's,Defensive Rebound,25,40
+19:04,St. John's,LJ Figueroa,Layup,27,40
+18:46,Arizona State,Zylan Cheatham,Missed Jumper,27,40
+18:46,Arizona State,Remy Martin,Offensive Rebound,27,40
+18:42,Arizona State,Remy Martin,Missed Jumper,27,40
+18:42,St. John's,Marvin Clark II,Defensive Rebound,27,40
+18:32,Arizona State,Rob Edwards,Foul,27,40
+18:32,St. John's,Mustapha Heron,Missed Free Throw,27,40
+18:32,St. John's,None,Team Rebound,27,40
+18:32,St. John's,Mustapha Heron,Missed Free Throw,27,40
+18:32,St. John's,None,Team Rebound,27,40
+18:32,St. John's,Mustapha Heron,Missed Free Throw,27,40
+18:32,Arizona State,Zylan Cheatham,Defensive Rebound,27,40
+18:11,Arizona State,Zylan Cheatham,Foul,27,40
+18:11,Arizona State,Zylan Cheatham,Turnover,27,40
+18:03,St. John's,Mustapha Heron,Jumper,29,40
+17:45,Arizona State,Rob Edwards,Turnover,29,40
+17:40,St. John's,LJ Figueroa,Jumper,31,40
+17:38,Arizona State,None,None,31,40
+17:23,Arizona State,Luguentz Dort,Turnover,31,40
+17:23,St. John's,Shamorie Ponds,Steal,31,40
+17:19,St. John's,Shamorie Ponds,Dunk,33,40
+17:00,Arizona State,Luguentz Dort,Turnover,33,40
+17:00,St. John's,Marvin Clark II,Steal,33,40
+16:56,St. John's,Shamorie Ponds,Missed Three Point Jumper,33,40
+16:56,Arizona State,Rob Edwards,Defensive Rebound,33,40
+16:38,Arizona State,Romello White,Layup,33,42
+16:11,St. John's,Mustapha Heron,Missed Three Point Jumper,33,42
+16:11,Arizona State,Luguentz Dort,Defensive Rebound,33,42
+15:43,St. John's,Marvin Clark II,Foul,33,42
+15:43,Arizona State,None,None,33,42
+15:43,Arizona State,Luguentz Dort,Free Throw,33,43
+15:43,Arizona State,Luguentz Dort,Free Throw,33,44
+15:31,St. John's,Justin Simon,Missed Jumper,33,44
+15:31,St. John's,Justin Simon,Offensive Rebound,33,44
+15:27,St. John's,Justin Simon,Missed Jumper,33,44
+15:27,St. John's,Justin Simon,Offensive Rebound,33,44
+15:22,Arizona State,Kimani Lawrence,Foul,33,44
+15:22,St. John's,Justin Simon,Free Throw,34,44
+15:22,St. John's,Justin Simon,Free Throw,35,44
+15:14,St. John's,Shamorie Ponds,Foul,35,44
+15:01,St. John's,Justin Simon,Foul,35,44
+15:01,Arizona State,Romello White,Free Throw,35,45
+15:01,Arizona State,Romello White,Missed Free Throw,35,45
+15:01,St. John's,Justin Simon,Defensive Rebound,35,45
+14:47,St. John's,Bryan Trimble Jr.,Missed Three Point Jumper,35,45
+14:47,St. John's,LJ Figueroa,Offensive Rebound,35,45
+14:34,St. John's,Justin Simon,Turnover,35,45
+14:13,St. John's,Bryan Trimble Jr.,Foul,35,45
+14:09,St. John's,Mustapha Heron,Foul,35,45
+13:59,Arizona State,Rob Edwards,Missed Three Point Jumper,35,45
+13:59,St. John's,Sedee Keita,Defensive Rebound,35,45
+13:59,St. John's,Sedee Keita,Turnover,35,45
+13:48,Arizona State,Luguentz Dort,Layup,35,47
+13:12,St. John's,Bryan Trimble Jr.,Turnover,35,47
+13:12,Arizona State,Rob Edwards,Steal,35,47
+12:48,Arizona State,Romello White,Missed Layup,35,47
+12:48,St. John's,Marvin Clark II,Defensive Rebound,35,47
+12:37,St. John's,Marvin Clark II,Missed Three Point Jumper,35,47
+12:37,St. John's,Shamorie Ponds,Offensive Rebound,35,47
+12:33,St. John's,Shamorie Ponds,Missed Layup,35,47
+12:33,Arizona State,Zylan Cheatham,Defensive Rebound,35,47
+12:27,Arizona State,Luguentz Dort,Missed Three Point Jumper,35,47
+12:27,Arizona State,Romello White,Offensive Rebound,35,47
+12:22,Arizona State,Romello White,Turnover,35,47
+12:22,St. John's,Justin Simon,Steal,35,47
+12:11,St. John's,Marvin Clark II,Missed Jumper,35,47
+12:11,St. John's,Sedee Keita,Offensive Rebound,35,47
+12:07,Arizona State,Luguentz Dort,Foul,35,47
+12:02,St. John's,Shamorie Ponds,Missed Three Point Jumper,35,47
+12:02,Arizona State,Zylan Cheatham,Defensive Rebound,35,47
+11:52,Arizona State,Zylan Cheatham,Missed Dunk,35,47
+11:52,St. John's,LJ Figueroa,Defensive Rebound,35,47
+11:45,St. John's,LJ Figueroa,Dunk,37,47
+11:22,Arizona State,Zylan Cheatham,Three Point Jumper,37,50
+10:59,St. John's,Bryan Trimble Jr.,Missed Three Point Jumper,37,50
+10:59,Arizona State,De'Quon Lake,Defensive Rebound,37,50
+10:29,Arizona State,Remy Martin,Missed Jumper,37,50
+10:29,Arizona State,Arizona State,Offensive Rebound,37,50
+10:29,Arizona State,None,None,37,50
+10:28,Arizona State,Remy Martin,Missed Jumper,37,50
+10:28,St. John's,Sedee Keita,Defensive Rebound,37,50
+10:19,St. John's,Mustapha Heron,Missed Jumper,37,50
+10:19,St. John's,St. John's,Offensive Rebound,37,50
+10:06,St. John's,Justin Simon,Turnover,37,50
+9:50,St. John's,Sedee Keita,Foul,37,50
+9:50,Arizona State,De'Quon Lake,Free Throw,37,51
+9:50,Arizona State,De'Quon Lake,Free Throw,37,52
+9:34,St. John's,LJ Figueroa,Three Point Jumper,40,52
+9:09,Arizona State,Remy Martin,Jumper,40,54
+8:54,St. John's,Mustapha Heron,Missed Three Point Jumper,40,54
+8:54,Arizona State,Remy Martin,Defensive Rebound,40,54
+8:46,Arizona State,Luguentz Dort,Layup,40,56
+8:35,St. John's,LJ Figueroa,Missed Layup,40,56
+8:35,Arizona State,Arizona State,Defensive Rebound,40,56
+8:34,Arizona State,Kimani Lawrence,Turnover,40,56
+8:29,Arizona State,Romello White,Foul,40,56
+8:29,St. John's,Mustapha Heron,Free Throw,41,56
+8:29,St. John's,Mustapha Heron,Free Throw,42,56
+8:13,Arizona State,Romello White,Missed Jumper,42,56
+8:13,St. John's,Mustapha Heron,Defensive Rebound,42,56
+8:07,St. John's,Marvin Clark II,Turnover,42,56
+8:07,Arizona State,Luguentz Dort,Steal,42,56
+8:00,Arizona State,Remy Martin,Foul,42,56
+8:00,Arizona State,Remy Martin,Turnover,42,56
+8:00,Arizona State,None,None,42,56
+7:45,St. John's,LJ Figueroa,Missed Layup,42,56
+7:45,St. John's,LJ Figueroa,Offensive Rebound,42,56
+7:41,St. John's,LJ Figueroa,Missed Jumper,42,56
+7:41,Arizona State,Remy Martin,Defensive Rebound,42,56
+7:38,Arizona State,Remy Martin,Turnover,42,56
+7:38,St. John's,Shamorie Ponds,Steal,42,56
+7:30,St. John's,Shamorie Ponds,Three Point Jumper,45,56
+7:27,St. John's,LJ Figueroa,Foul,45,56
+7:27,Arizona State,Luguentz Dort,Missed Free Throw,45,56
+7:27,St. John's,LJ Figueroa,Defensive Rebound,45,56
+7:18,St. John's,Shamorie Ponds,Jumper,47,56
+7:02,St. John's,LJ Figueroa,Foul,47,56
+7:02,Arizona State,Luguentz Dort,Free Throw,47,57
+7:02,Arizona State,Luguentz Dort,Free Throw,47,58
+7:00,St. John's,Marvin Clark II,Turnover,47,58
+6:44,St. John's,Marvin Clark II,Foul,47,58
+6:44,Arizona State,Romello White,Missed Free Throw,47,58
+6:44,Arizona State,None,Team Rebound,47,58
+6:44,Arizona State,Romello White,Missed Free Throw,47,58
+6:44,St. John's,Marvin Clark II,Defensive Rebound,47,58
+6:23,St. John's,Justin Simon,Turnover,47,58
+5:56,Arizona State,Kimani Lawrence,Jumper,47,60
+5:47,St. John's,Shamorie Ponds,Missed Three Point Jumper,47,60
+5:47,Arizona State,Zylan Cheatham,Defensive Rebound,47,60
+5:27,Arizona State,Zylan Cheatham,Missed Three Point Jumper,47,60
+5:27,St. John's,LJ Figueroa,Defensive Rebound,47,60
+5:18,St. John's,LJ Figueroa,Missed Jumper,47,60
+5:18,St. John's,Mustapha Heron,Offensive Rebound,47,60
+5:14,Arizona State,Kimani Lawrence,Foul,47,60
+5:14,St. John's,Justin Simon,Missed Free Throw,47,60
+5:14,Arizona State,Zylan Cheatham,Defensive Rebound,47,60
+5:02,Arizona State,Luguentz Dort,Missed Three Point Jumper,47,60
+5:02,St. John's,St. John's,Defensive Rebound,47,60
+4:46,St. John's,LJ Figueroa,Three Point Jumper,50,60
+4:42,St. John's,None,None,50,60
+4:39,Arizona State,Rob Edwards,Turnover,50,60
+4:39,St. John's,LJ Figueroa,Steal,50,60
+4:36,St. John's,LJ Figueroa,Layup,52,60
+4:27,Arizona State,Luguentz Dort,Turnover,52,60
+4:27,St. John's,Mustapha Heron,Steal,52,60
+4:23,St. John's,Shamorie Ponds,Missed Three Point Jumper,52,60
+4:23,St. John's,Mustapha Heron,Offensive Rebound,52,60
+4:23,St. John's,Mustapha Heron,Missed Dunk,52,60
+4:23,Arizona State,Rob Edwards,Defensive Rebound,52,60
+4:13,Arizona State,Taeshon Cherry,Layup,52,62
+3:59,St. John's,Shamorie Ponds,Three Point Jumper,55,62
+3:51,St. John's,Justin Simon,Foul,55,62
+3:51,Arizona State,None,None,55,62
+3:51,Arizona State,Luguentz Dort,Free Throw,55,63
+3:51,Arizona State,Luguentz Dort,Free Throw,55,64
+3:41,Arizona State,Remy Martin,Foul,55,64
+3:41,St. John's,Mustapha Heron,Free Throw,56,64
+3:41,St. John's,Mustapha Heron,Free Throw,57,64
+3:11,Arizona State,Remy Martin,Missed Jumper,57,64
+3:11,St. John's,Justin Simon,Block,57,64
+3:11,St. John's,Marvin Clark II,Defensive Rebound,57,64
+3:02,St. John's,Marvin Clark II,Missed Three Point Jumper,57,64
+3:02,Arizona State,Luguentz Dort,Defensive Rebound,57,64
+2:40,Arizona State,Remy Martin,Turnover,57,64
+2:40,St. John's,Mustapha Heron,Steal,57,64
+2:36,St. John's,Justin Simon,Turnover,57,64
+2:23,Arizona State,Zylan Cheatham,Missed Jumper,57,64
+2:23,St. John's,Shamorie Ponds,Defensive Rebound,57,64
+2:10,Arizona State,Remy Martin,Foul,57,64
+2:10,St. John's,Justin Simon,Missed Free Throw,57,64
+2:10,St. John's,None,Team Rebound,57,64
+2:10,St. John's,Justin Simon,Missed Free Throw,57,64
+2:10,Arizona State,Zylan Cheatham,Defensive Rebound,57,64
+1:59,Arizona State,Romello White,Dunk,57,66
+1:41,St. John's,Justin Simon,Missed Layup,57,66
+1:41,Arizona State,Zylan Cheatham,Defensive Rebound,57,66
+1:38,Arizona State,Zylan Cheatham,Turnover,57,66
+1:38,St. John's,Shamorie Ponds,Steal,57,66
+1:35,St. John's,Shamorie Ponds,Missed Layup,57,66
+1:35,Arizona State,Zylan Cheatham,Defensive Rebound,57,66
+1:25,St. John's,Marvin Clark II,Foul,57,66
+1:25,Arizona State,Kimani Lawrence,Missed Free Throw,57,66
+1:25,Arizona State,None,Team Rebound,57,66
+1:25,Arizona State,Kimani Lawrence,Free Throw,57,67
+1:19,St. John's,LJ Figueroa,Missed Three Point Jumper,57,67
+1:19,Arizona State,Arizona State,Defensive Rebound,57,67
+1:12,St. John's,Mustapha Heron,Foul,57,67
+1:12,Arizona State,Zylan Cheatham,Free Throw,57,68
+1:12,Arizona State,Zylan Cheatham,Missed Free Throw,57,68
+1:12,St. John's,Sedee Keita,Defensive Rebound,57,68
+0:59,St. John's,LJ Figueroa,Three Point Jumper,60,68
+0:55,St. John's,None,None,60,68
+0:46,St. John's,Sedee Keita,Foul,60,68
+0:46,Arizona State,Zylan Cheatham,Free Throw,60,69
+0:46,Arizona State,Zylan Cheatham,Free Throw,60,70
+0:39,St. John's,LJ Figueroa,Missed Three Point Jumper,60,70
+0:39,St. John's,Sedee Keita,Offensive Rebound,60,70
+0:39,St. John's,None,None,62,70
+0:35,St. John's,None,None,62,70
+0:31,Arizona State,None,None,62,70
+0:29,Arizona State,None,None,62,70
+0:27,St. John's,LJ Figueroa,Foul,62,70
+0:27,Arizona State,Rob Edwards,Free Throw,62,71
+0:27,Arizona State,Rob Edwards,Free Throw,62,72
+0:24,Arizona State,Luguentz Dort,Foul,62,72
+0:24,St. John's,Shamorie Ponds,Free Throw,63,72
+0:24,St. John's,Shamorie Ponds,Free Throw,64,72
+0:24,St. John's,Shamorie Ponds,Free Throw,65,72
+0:21,St. John's,Shamorie Ponds,Foul,65,72
+0:21,Arizona State,Zylan Cheatham,Free Throw,65,73
+0:21,Arizona State,Zylan Cheatham,Free Throw,65,74
+0:14,St. John's,Bryan Trimble Jr.,Missed Three Point Jumper,65,74
+0:14,Arizona State,Luguentz Dort,Defensive Rebound,65,74
+0:05,Arizona State,Luguentz Dort,Turnover,65,74
+0:05,St. John's,LJ Figueroa,Steal,65,74
+0:00,Arizona State,None,None,65,74

@@ -1,0 +1,333 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Southern Illinois,None,None,0,0
+19:45,Southern Illinois,Kavion Pippen,Jumper,2,0
+19:30,Kentucky,Keldon Johnson,Jumper,2,2
+19:05,Kentucky,Reid Travis,Foul,2,2
+18:54,Southern Illinois,Aaron Cook,Missed Jumper,2,2
+18:54,Kentucky,Keldon Johnson,Defensive Rebound,2,2
+18:47,Kentucky,PJ Washington,Foul,2,2
+18:47,Kentucky,PJ Washington,Turnover,2,2
+18:33,Southern Illinois,Armon Fletcher,Three Point Jumper,5,2
+18:18,Kentucky,Tyler Herro,Missed Jumper,5,2
+18:18,Southern Illinois,Kavion Pippen,Defensive Rebound,5,2
+17:56,Southern Illinois,Kavion Pippen,Jumper,7,2
+17:36,Southern Illinois,Armon Fletcher,Foul,7,2
+17:26,Kentucky,Keldon Johnson,Missed Three Point Jumper,7,2
+17:26,Kentucky,Nick Richards,Offensive Rebound,7,2
+17:07,Kentucky,Keldon Johnson,Turnover,7,2
+16:50,Southern Illinois,Kavion Pippen,Missed Jumper,7,2
+16:50,Kentucky,Nick Richards,Defensive Rebound,7,2
+16:42,Kentucky,Immanuel Quickley,Jumper,7,4
+16:20,Southern Illinois,Sean Lloyd Jr.,Missed Layup,7,4
+16:20,Kentucky,PJ Washington,Defensive Rebound,7,4
+16:13,Southern Illinois,Marcus Bartley,Foul,7,4
+16:13,Kentucky,Quade Green,Missed Free Throw,7,4
+16:13,Kentucky,None,Team Rebound,7,4
+16:13,Kentucky,Quade Green,Free Throw,7,5
+16:02,Southern Illinois,Sean Lloyd Jr.,Turnover,7,5
+15:59,Kentucky,Quade Green,Turnover,7,5
+15:59,Southern Illinois,Aaron Cook,Steal,7,5
+15:54,Southern Illinois,Aaron Cook,Three Point Jumper,10,5
+15:26,Kentucky,Keldon Johnson,Turnover,10,5
+15:26,Kentucky,None,None,10,5
+15:23,Kentucky,Reid Travis,Foul,10,5
+15:14,Southern Illinois,Armon Fletcher,Three Point Jumper,13,5
+14:48,Kentucky,Nick Richards,Missed Jumper,13,5
+14:48,Southern Illinois,Thik Bol,Defensive Rebound,13,5
+14:26,Southern Illinois,Armon Fletcher,Missed Three Point Jumper,13,5
+14:26,Kentucky,Nick Richards,Defensive Rebound,13,5
+14:02,Kentucky,PJ Washington,Turnover,13,5
+14:02,Southern Illinois,Armon Fletcher,Steal,13,5
+13:55,Southern Illinois,Armon Fletcher,Missed Jumper,13,5
+13:55,Kentucky,Keldon Johnson,Defensive Rebound,13,5
+13:50,Kentucky,Keldon Johnson,Turnover,13,5
+13:22,Kentucky,Ashton Hagans,Foul,13,5
+13:04,Southern Illinois,Sean Lloyd Jr.,Missed Jumper,13,5
+13:04,Kentucky,Nick Richards,Defensive Rebound,13,5
+12:55,Kentucky,Immanuel Quickley,Layup,13,7
+12:55,Southern Illinois,Aaron Cook,Foul,13,7
+12:55,Kentucky,Immanuel Quickley,Free Throw,13,8
+12:36,Southern Illinois,Rudy Stradnieks,Missed Three Point Jumper,13,8
+12:36,Kentucky,Nick Richards,Defensive Rebound,13,8
+12:24,Kentucky,EJ Montgomery,Turnover,13,8
+12:09,Southern Illinois,Kavion Pippen,Missed Jumper,13,8
+12:09,Southern Illinois,Rudy Stradnieks,Offensive Rebound,13,8
+12:00,Southern Illinois,Aaron Cook,Layup,15,8
+11:40,Kentucky,EJ Montgomery,Jumper,15,10
+11:24,Southern Illinois,Darius Beane,Missed Three Point Jumper,15,10
+11:24,Kentucky,EJ Montgomery,Defensive Rebound,15,10
+11:14,Kentucky,Ashton Hagans,Turnover,15,10
+11:14,Kentucky,None,None,15,10
+11:02,Southern Illinois,Darius Beane,Missed Layup,15,10
+11:02,Kentucky,EJ Montgomery,Block,15,10
+11:02,Kentucky,Tyler Herro,Defensive Rebound,15,10
+10:52,Kentucky,Tyler Herro,Turnover,15,10
+10:46,Southern Illinois,Darius Beane,Turnover,15,10
+10:46,Kentucky,Tyler Herro,Steal,15,10
+10:44,Kentucky,Immanuel Quickley,Turnover,15,10
+10:44,Southern Illinois,Sean Lloyd Jr.,Foul,15,10
+10:44,Southern Illinois,Sean Lloyd Jr.,Turnover,15,10
+10:30,Kentucky,PJ Washington,Layup,15,12
+10:24,Southern Illinois,Armon Fletcher,Turnover,15,12
+10:24,Kentucky,Immanuel Quickley,Steal,15,12
+10:19,Kentucky,Immanuel Quickley,Missed Jumper,15,12
+10:19,Southern Illinois,Armon Fletcher,Block,15,12
+10:19,Southern Illinois,Marcus Bartley,Defensive Rebound,15,12
+10:10,Southern Illinois,Kavion Pippen,Missed Jumper,15,12
+10:10,Kentucky,Immanuel Quickley,Defensive Rebound,15,12
+9:55,Southern Illinois,Sean Lloyd Jr.,Foul,15,12
+9:53,Southern Illinois,Armon Fletcher,Foul,15,12
+9:53,Kentucky,PJ Washington,Missed Free Throw,15,12
+9:53,Kentucky,None,Team Rebound,15,12
+9:53,Kentucky,PJ Washington,Free Throw,15,13
+9:32,Southern Illinois,Kavion Pippen,Turnover,15,13
+9:18,Kentucky,PJ Washington,Turnover,15,13
+8:59,Kentucky,Tyler Herro,Foul,15,13
+8:42,Southern Illinois,Aaron Cook,Turnover,15,13
+8:42,Kentucky,Immanuel Quickley,Steal,15,13
+8:33,Southern Illinois,Eric McGill,Foul,15,13
+8:33,Kentucky,Nick Richards,Missed Free Throw,15,13
+8:33,Southern Illinois,Kavion Pippen,Defensive Rebound,15,13
+8:10,Southern Illinois,Kavion Pippen,Missed Jumper,15,13
+8:10,Kentucky,Nick Richards,Defensive Rebound,15,13
+8:06,Kentucky,Nick Richards,Turnover,15,13
+8:06,Southern Illinois,Kavion Pippen,Steal,15,13
+8:03,Southern Illinois,Eric McGill,Layup,17,13
+7:48,Southern Illinois,Kavion Pippen,Foul,17,13
+7:48,Kentucky,None,None,17,13
+7:48,Kentucky,Keldon Johnson,Free Throw,17,14
+7:48,Kentucky,Keldon Johnson,Free Throw,17,15
+7:35,Southern Illinois,Marcus Bartley,Layup,19,15
+7:27,Kentucky,PJ Washington,Missed Layup,19,15
+7:27,Kentucky,Nick Richards,Offensive Rebound,19,15
+7:27,Kentucky,None,None,19,17
+7:06,Southern Illinois,Aaron Cook,Foul,19,17
+7:06,Southern Illinois,Aaron Cook,Turnover,19,17
+6:53,Kentucky,Quade Green,Missed Jumper,19,17
+6:53,Southern Illinois,Thik Bol,Block,19,17
+6:53,Kentucky,PJ Washington,Offensive Rebound,19,17
+6:44,Kentucky,Ashton Hagans,Turnover,19,17
+6:22,Southern Illinois,Rudy Stradnieks,Missed Layup,19,17
+6:22,Kentucky,Nick Richards,Block,19,17
+6:22,Kentucky,PJ Washington,Defensive Rebound,19,17
+6:15,Kentucky,Keldon Johnson,Layup,19,19
+6:05,Southern Illinois,None,None,19,19
+5:41,Southern Illinois,Rudy Stradnieks,Foul,19,19
+5:41,Southern Illinois,Rudy Stradnieks,Turnover,19,19
+5:21,Kentucky,Quade Green,Three Point Jumper,19,22
+5:02,Kentucky,PJ Washington,Foul,19,22
+5:00,Southern Illinois,Eric McGill,Missed Jumper,19,22
+5:00,Kentucky,Nick Richards,Block,19,22
+5:00,Kentucky,Nick Richards,Defensive Rebound,19,22
+4:56,Southern Illinois,Marcus Bartley,Foul,19,22
+4:56,Kentucky,Keldon Johnson,Missed Free Throw,19,22
+4:56,Kentucky,None,Team Rebound,19,22
+4:56,Kentucky,Keldon Johnson,Free Throw,19,23
+4:42,Kentucky,Ashton Hagans,Foul,19,23
+4:42,Southern Illinois,Aaron Cook,Missed Free Throw,19,23
+4:42,Kentucky,Nick Richards,Defensive Rebound,19,23
+4:21,Kentucky,Immanuel Quickley,Missed Three Point Jumper,19,23
+4:21,Kentucky,Nick Richards,Offensive Rebound,19,23
+4:14,Kentucky,Nick Richards,Missed Jumper,19,23
+4:14,Southern Illinois,Kavion Pippen,Defensive Rebound,19,23
+3:59,Southern Illinois,Kavion Pippen,Jumper,21,23
+3:43,Kentucky,Quade Green,Missed Three Point Jumper,21,23
+3:43,Kentucky,EJ Montgomery,Offensive Rebound,21,23
+3:36,Southern Illinois,Armon Fletcher,Foul,21,23
+3:36,Kentucky,None,None,21,23
+3:36,Kentucky,EJ Montgomery,Free Throw,21,24
+3:36,Kentucky,EJ Montgomery,Free Throw,21,25
+3:26,Southern Illinois,Aaron Cook,Jumper,23,25
+3:02,Kentucky,Immanuel Quickley,Missed Three Point Jumper,23,25
+3:02,Kentucky,EJ Montgomery,Offensive Rebound,23,25
+2:57,Kentucky,EJ Montgomery,Missed Jumper,23,25
+2:57,Kentucky,Tyler Herro,Offensive Rebound,23,25
+2:52,Kentucky,Tyler Herro,Missed Jumper,23,25
+2:52,Southern Illinois,Thik Bol,Defensive Rebound,23,25
+2:30,Southern Illinois,Marcus Bartley,Three Point Jumper,26,25
+2:07,Kentucky,Quade Green,Turnover,26,25
+2:07,Southern Illinois,Kavion Pippen,Steal,26,25
+1:56,Southern Illinois,Marcus Bartley,Missed Three Point Jumper,26,25
+1:56,Kentucky,Tyler Herro,Defensive Rebound,26,25
+1:46,Kentucky,None,None,26,25
+1:31,Kentucky,EJ Montgomery,Missed Jumper,26,25
+1:31,Kentucky,Nick Richards,Offensive Rebound,26,25
+1:31,Kentucky,Nick Richards,Dunk,26,27
+1:00,Southern Illinois,Thik Bol,Missed Layup,26,27
+1:00,Kentucky,Immanuel Quickley,Defensive Rebound,26,27
+0:53,Kentucky,Immanuel Quickley,Layup,26,29
+0:41,Southern Illinois,Darius Beane,Missed Three Point Jumper,26,29
+0:41,Southern Illinois,Kavion Pippen,Offensive Rebound,26,29
+0:36,Southern Illinois,Kavion Pippen,Layup,28,29
+0:08,Kentucky,EJ Montgomery,Missed Jumper,28,29
+0:08,Kentucky,Nick Richards,Offensive Rebound,28,29
+0:02,Southern Illinois,Kavion Pippen,Foul,28,29
+0:02,Kentucky,Nick Richards,Free Throw,28,30
+0:02,Kentucky,Nick Richards,Free Throw,28,31
+0:01,Southern Illinois,Marcus Bartley,Turnover,28,31
+0:00,Kentucky,None,None,28,31
+20:00,Southern Illinois,None,None,28,31
+19:46,Southern Illinois,Kavion Pippen,Missed Jumper,28,31
+19:46,Southern Illinois,Armon Fletcher,Offensive Rebound,28,31
+19:41,Kentucky,PJ Washington,Foul,28,31
+19:41,Southern Illinois,Armon Fletcher,Free Throw,29,31
+19:41,Southern Illinois,Armon Fletcher,Free Throw,30,31
+19:24,Southern Illinois,Sean Lloyd Jr.,Foul,30,31
+19:24,Kentucky,Reid Travis,Missed Free Throw,30,31
+19:24,Kentucky,None,Team Rebound,30,31
+19:24,Kentucky,Reid Travis,Free Throw,30,32
+19:00,Southern Illinois,Aaron Cook,Missed Three Point Jumper,30,32
+19:00,Southern Illinois,Kavion Pippen,Offensive Rebound,30,32
+18:54,Southern Illinois,Kavion Pippen,Layup,32,32
+18:27,Kentucky,Reid Travis,Missed Jumper,32,32
+18:27,Southern Illinois,Armon Fletcher,Defensive Rebound,32,32
+18:19,Kentucky,Immanuel Quickley,Foul,32,32
+18:19,Southern Illinois,Sean Lloyd Jr.,Free Throw,33,32
+18:19,Southern Illinois,Sean Lloyd Jr.,Free Throw,34,32
+18:08,Kentucky,Tyler Herro,Missed Three Point Jumper,34,32
+18:08,Kentucky,Reid Travis,Offensive Rebound,34,32
+18:03,Southern Illinois,Armon Fletcher,Foul,34,32
+17:52,Kentucky,Tyler Herro,Missed Three Point Jumper,34,32
+17:52,Kentucky,Nick Richards,Offensive Rebound,34,32
+17:44,Kentucky,Nick Richards,Missed Layup,34,32
+17:44,Southern Illinois,Thik Bol,Defensive Rebound,34,32
+17:38,Southern Illinois,Kavion Pippen,Jumper,36,32
+17:24,Southern Illinois,Marcus Bartley,Foul,36,32
+17:11,Kentucky,Tyler Herro,Missed Layup,36,32
+17:11,Kentucky,Nick Richards,Offensive Rebound,36,32
+17:11,Kentucky,None,None,36,34
+16:43,Southern Illinois,Thik Bol,Dunk,38,34
+16:17,Kentucky,Immanuel Quickley,Three Point Jumper,38,37
+16:00,Southern Illinois,Aaron Cook,Missed Jumper,38,37
+16:00,Kentucky,Nick Richards,Defensive Rebound,38,37
+15:50,Kentucky,Immanuel Quickley,Foul,38,37
+15:50,Kentucky,Immanuel Quickley,Turnover,38,37
+15:50,Kentucky,None,None,38,37
+15:49,Southern Illinois,Sean Lloyd Jr.,Dunk,40,37
+15:24,Kentucky,PJ Washington,Turnover,40,37
+15:24,Southern Illinois,Eric McGill,Steal,40,37
+15:13,Southern Illinois,Aaron Cook,Turnover,40,37
+15:03,Kentucky,Keldon Johnson,Missed Jumper,40,37
+15:03,Southern Illinois,Sean Lloyd Jr.,Defensive Rebound,40,37
+14:51,Southern Illinois,Sean Lloyd Jr.,Layup,42,37
+14:51,Kentucky,EJ Montgomery,Foul,42,37
+14:51,Southern Illinois,Sean Lloyd Jr.,Missed Free Throw,42,37
+14:51,Kentucky,Keldon Johnson,Defensive Rebound,42,37
+14:42,Kentucky,Keldon Johnson,Missed Three Point Jumper,42,37
+14:42,Kentucky,Kentucky,Offensive Rebound,42,37
+14:39,Southern Illinois,Kavion Pippen,Foul,42,37
+14:29,Kentucky,Keldon Johnson,Missed Three Point Jumper,42,37
+14:29,Kentucky,Nick Richards,Offensive Rebound,42,37
+14:28,Kentucky,Nick Richards,Turnover,42,37
+14:28,Southern Illinois,Aaron Cook,Steal,42,37
+14:19,Southern Illinois,Aaron Cook,Layup,44,37
+14:19,Kentucky,Ashton Hagans,Foul,44,37
+14:19,Kentucky,None,None,44,37
+14:19,Southern Illinois,Aaron Cook,Missed Free Throw,44,37
+14:19,Kentucky,Nick Richards,Defensive Rebound,44,37
+14:03,Kentucky,Quade Green,Three Point Jumper,44,40
+13:38,Kentucky,Nick Richards,Foul,44,40
+13:38,Southern Illinois,Aaron Cook,Free Throw,45,40
+13:38,Southern Illinois,Aaron Cook,Free Throw,46,40
+13:30,Kentucky,Immanuel Quickley,Three Point Jumper,46,43
+13:05,Southern Illinois,Sean Lloyd Jr.,Turnover,46,43
+13:05,Kentucky,Keldon Johnson,Steal,46,43
+13:00,Kentucky,Quade Green,Jumper,46,45
+12:52,Southern Illinois,None,None,46,45
+12:36,Southern Illinois,Thik Bol,Missed Jumper,46,45
+12:36,Kentucky,EJ Montgomery,Defensive Rebound,46,45
+12:25,Kentucky,Quade Green,Missed Three Point Jumper,46,45
+12:25,Kentucky,EJ Montgomery,Offensive Rebound,46,45
+12:14,Kentucky,EJ Montgomery,Layup,46,47
+12:00,Southern Illinois,Thik Bol,Missed Dunk,46,47
+12:00,Kentucky,EJ Montgomery,Block,46,47
+12:00,Kentucky,Immanuel Quickley,Defensive Rebound,46,47
+11:56,Kentucky,None,None,46,47
+11:45,Kentucky,Tyler Herro,Missed Jumper,46,47
+11:45,Southern Illinois,Armon Fletcher,Defensive Rebound,46,47
+11:16,Southern Illinois,Eric McGill,Missed Three Point Jumper,46,47
+11:16,Kentucky,Reid Travis,Defensive Rebound,46,47
+11:07,Kentucky,EJ Montgomery,Dunk,46,49
+10:41,Southern Illinois,Kavion Pippen,Jumper,48,49
+10:16,Kentucky,Immanuel Quickley,Jumper,48,51
+9:53,Southern Illinois,Eric McGill,Layup,50,51
+9:23,Kentucky,EJ Montgomery,Missed Jumper,50,51
+9:23,Kentucky,Reid Travis,Offensive Rebound,50,51
+9:20,Southern Illinois,Armon Fletcher,Foul,50,51
+9:20,Kentucky,Reid Travis,Free Throw,50,52
+9:20,Kentucky,Reid Travis,Free Throw,50,53
+9:02,Southern Illinois,Aaron Cook,Turnover,50,53
+8:54,Kentucky,Keldon Johnson,Dunk,50,55
+8:25,Southern Illinois,Marcus Bartley,Missed Three Point Jumper,50,55
+8:25,Southern Illinois,Kavion Pippen,Offensive Rebound,50,55
+8:20,Kentucky,Keldon Johnson,Foul,50,55
+8:20,Southern Illinois,Kavion Pippen,Missed Free Throw,50,55
+8:20,Kentucky,Reid Travis,Defensive Rebound,50,55
+8:05,Kentucky,Nick Richards,Turnover,50,55
+8:00,Southern Illinois,Aaron Cook,Layup,52,55
+7:40,Kentucky,Keldon Johnson,Layup,52,57
+7:40,Southern Illinois,Thik Bol,Foul,52,57
+7:40,Kentucky,None,None,52,57
+7:40,Kentucky,Keldon Johnson,Free Throw,52,58
+7:27,Southern Illinois,Sean Lloyd Jr.,Missed Three Point Jumper,52,58
+7:27,Kentucky,Immanuel Quickley,Defensive Rebound,52,58
+7:06,Kentucky,Immanuel Quickley,Missed Jumper,52,58
+7:06,Southern Illinois,Darius Beane,Defensive Rebound,52,58
+6:43,Southern Illinois,Sean Lloyd Jr.,Missed Three Point Jumper,52,58
+6:43,Kentucky,PJ Washington,Defensive Rebound,52,58
+6:22,Kentucky,PJ Washington,Turnover,52,58
+6:22,Southern Illinois,Sean Lloyd Jr.,Steal,52,58
+6:05,Southern Illinois,Kavion Pippen,Missed Layup,52,58
+6:05,Kentucky,Nick Richards,Block,52,58
+6:05,Southern Illinois,Southern Illinois,Offensive Rebound,52,58
+5:58,Southern Illinois,Kavion Pippen,Missed Jumper,52,58
+5:58,Kentucky,Nick Richards,Defensive Rebound,52,58
+5:39,Kentucky,Quade Green,Layup,52,60
+5:39,Southern Illinois,Eric McGill,Foul,52,60
+5:39,Kentucky,Quade Green,Free Throw,52,61
+5:11,Southern Illinois,Aaron Cook,Three Point Jumper,55,61
+4:47,Kentucky,Quade Green,Missed Three Point Jumper,55,61
+4:47,Southern Illinois,Southern Illinois,Defensive Rebound,55,61
+4:22,Southern Illinois,Aaron Cook,Missed Jumper,55,61
+4:22,Kentucky,EJ Montgomery,Defensive Rebound,55,61
+3:56,Kentucky,Nick Richards,Missed Jumper,55,61
+3:56,Kentucky,EJ Montgomery,Offensive Rebound,55,61
+3:47,Kentucky,EJ Montgomery,Layup,55,63
+3:47,Southern Illinois,Thik Bol,Foul,55,63
+3:47,Kentucky,None,None,55,63
+3:47,Kentucky,EJ Montgomery,Missed Free Throw,55,63
+3:47,Southern Illinois,Kavion Pippen,Defensive Rebound,55,63
+3:34,Kentucky,Nick Richards,Foul,55,63
+3:34,Southern Illinois,Kavion Pippen,Free Throw,56,63
+3:34,Southern Illinois,Kavion Pippen,Free Throw,57,63
+3:17,Southern Illinois,Eric McGill,Foul,57,63
+3:17,Kentucky,Quade Green,Free Throw,57,64
+3:17,Kentucky,Quade Green,Free Throw,57,65
+3:04,Southern Illinois,Marcus Bartley,Turnover,57,65
+3:04,Kentucky,Quade Green,Steal,57,65
+3:00,Kentucky,Keldon Johnson,Dunk,57,67
+2:48,Southern Illinois,None,None,57,67
+2:39,Southern Illinois,Aaron Cook,Layup,59,67
+2:09,Kentucky,Nick Richards,Missed Layup,59,67
+2:09,Kentucky,PJ Washington,Offensive Rebound,59,67
+1:54,Kentucky,Keldon Johnson,Missed Jumper,59,67
+1:54,Kentucky,Nick Richards,Offensive Rebound,59,67
+1:35,Southern Illinois,Marcus Bartley,Foul,59,67
+1:35,Kentucky,Keldon Johnson,Missed Free Throw,59,67
+1:35,Kentucky,None,Team Rebound,59,67
+1:35,Kentucky,Keldon Johnson,Free Throw,59,68
+1:11,Southern Illinois,Eric McGill,Missed Three Point Jumper,59,68
+1:11,Kentucky,Reid Travis,Defensive Rebound,59,68
+1:07,Southern Illinois,Kavion Pippen,Foul,59,68
+1:07,Kentucky,Reid Travis,Missed Free Throw,59,68
+1:07,Kentucky,None,Team Rebound,59,68
+1:07,Kentucky,Reid Travis,Free Throw,59,69
+0:57,Southern Illinois,Aaron Cook,Missed Layup,59,69
+0:57,Kentucky,Reid Travis,Block,59,69
+0:57,Kentucky,Keldon Johnson,Defensive Rebound,59,69
+0:34,Kentucky,Reid Travis,Jumper,59,71
+0:10,Southern Illinois,Kavion Pippen,Missed Jumper,59,71
+0:10,Southern Illinois,Eric McGill,Offensive Rebound,59,71
+0:10,Southern Illinois,None,None,59,71
+0:10,Kentucky,PJ Washington,Defensive Rebound,59,71
+0:00,Kentucky,None,None,59,71

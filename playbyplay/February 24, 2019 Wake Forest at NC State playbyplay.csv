@@ -1,0 +1,377 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,NC State,None,None,0,0
+19:33,Wake Forest,Ikenna Smart,Foul,0,0
+19:33,NC State,C.J. Bryce,Free Throw,0,1
+19:33,NC State,C.J. Bryce,Free Throw,0,2
+19:07,Wake Forest,Jaylen Hoard,Missed Jumper,0,2
+19:07,NC State,Markell Johnson,Defensive Rebound,0,2
+18:39,NC State,Markell Johnson,Layup,0,4
+18:14,NC State,Markell Johnson,Foul,0,4
+18:09,Wake Forest,Sharone Wright Jr.,Missed Three Point Jumper,0,4
+18:09,NC State,Torin Dorn,Defensive Rebound,0,4
+18:04,NC State,Braxton Beverly,Three Point Jumper,0,7
+17:49,Wake Forest,Chaundee Brown,Missed Three Point Jumper,0,7
+17:49,NC State,Torin Dorn,Defensive Rebound,0,7
+17:26,NC State,C.J. Bryce,Layup,0,9
+17:11,Wake Forest,Chaundee Brown,Missed Layup,0,9
+17:11,NC State,Torin Dorn,Defensive Rebound,0,9
+17:02,Wake Forest,Sharone Wright Jr.,Foul,0,9
+16:59,NC State,C.J. Bryce,Missed Jumper,0,9
+16:59,NC State,Markell Johnson,Offensive Rebound,0,9
+16:59,NC State,None,None,0,9
+16:59,NC State,Torin Dorn,Offensive Rebound,0,9
+16:53,NC State,Torin Dorn,Turnover,0,9
+16:35,Wake Forest,Brandon Childress,Three Point Jumper,3,9
+16:11,NC State,Braxton Beverly,Missed Three Point Jumper,3,9
+16:11,Wake Forest,Chaundee Brown,Defensive Rebound,3,9
+16:00,Wake Forest,Isaiah Mucius,Missed Jumper,3,9
+16:00,NC State,Markell Johnson,Defensive Rebound,3,9
+15:52,NC State,Wyatt Walker,Missed Layup,3,9
+15:52,NC State,Wyatt Walker,Offensive Rebound,3,9
+15:48,Wake Forest,Jaylen Hoard,Foul,3,9
+15:48,NC State,None,None,3,9
+15:48,NC State,Wyatt Walker,Missed Free Throw,3,9
+15:48,NC State,None,Team Rebound,3,9
+15:48,NC State,Wyatt Walker,Missed Free Throw,3,9
+15:48,NC State,Devon Daniels,Offensive Rebound,3,9
+15:46,NC State,Devon Daniels,Layup,3,11
+15:40,Wake Forest,Jaylen Hoard,Missed Layup,3,11
+15:40,Wake Forest,Jaylen Hoard,Offensive Rebound,3,11
+15:34,NC State,Wyatt Walker,Foul,3,11
+15:34,Wake Forest,Jaylen Hoard,Missed Free Throw,3,11
+15:34,Wake Forest,None,Team Rebound,3,11
+15:34,Wake Forest,Jaylen Hoard,Free Throw,4,11
+15:12,NC State,C.J. Bryce,Missed Three Point Jumper,4,11
+15:12,Wake Forest,Chaundee Brown,Defensive Rebound,4,11
+14:58,Wake Forest,Torry Johnson,Three Point Jumper,7,11
+14:33,NC State,Torin Dorn,Turnover,7,11
+14:33,Wake Forest,Sunday Okeke,Steal,7,11
+14:27,Wake Forest,Torry Johnson,Layup,9,11
+14:02,Wake Forest,Sunday Okeke,Foul,9,11
+14:02,NC State,Devon Daniels,Free Throw,9,12
+14:02,NC State,Devon Daniels,Missed Free Throw,9,12
+14:02,Wake Forest,Sunday Okeke,Defensive Rebound,9,12
+13:45,Wake Forest,Isaiah Mucius,Missed Layup,9,12
+13:45,Wake Forest,Michael Wynn,Offensive Rebound,9,12
+13:45,Wake Forest,Michael Wynn,Missed Layup,9,12
+13:45,NC State,DJ Funderburk,Block,9,12
+13:45,Wake Forest,Wake Forest,Offensive Rebound,9,12
+13:25,Wake Forest,Michael Wynn,Missed Three Point Jumper,9,12
+13:25,NC State,DJ Funderburk,Defensive Rebound,9,12
+12:58,NC State,Devon Daniels,Missed Jumper,9,12
+12:58,Wake Forest,Torry Johnson,Defensive Rebound,9,12
+12:52,Wake Forest,Torry Johnson,Turnover,9,12
+12:52,NC State,Braxton Beverly,Steal,9,12
+12:47,NC State,Blake Harris,Layup,9,14
+12:47,Wake Forest,Brandon Childress,Foul,9,14
+12:47,NC State,Blake Harris,Free Throw,9,15
+12:23,Wake Forest,Jaylen Hoard,Missed Jumper,9,15
+12:23,NC State,Markell Johnson,Defensive Rebound,9,15
+12:00,NC State,Jericole Hellems,Turnover,9,15
+12:00,Wake Forest,Sharone Wright Jr.,Steal,9,15
+11:53,Wake Forest,Sharone Wright Jr.,Layup,11,15
+11:33,NC State,Blake Harris,Missed Jumper,11,15
+11:33,Wake Forest,Sharone Wright Jr.,Defensive Rebound,11,15
+11:18,Wake Forest,Chaundee Brown,Jumper,13,15
+10:49,NC State,Markell Johnson,Three Point Jumper,13,18
+10:28,NC State,Devon Daniels,Foul,13,18
+10:28,NC State,None,None,13,18
+10:28,Wake Forest,Sharone Wright Jr.,Missed Free Throw,13,18
+10:28,Wake Forest,None,Team Rebound,13,18
+10:28,Wake Forest,Sharone Wright Jr.,Free Throw,14,18
+10:10,NC State,C.J. Bryce,Missed Jumper,14,18
+10:10,Wake Forest,Isaiah Mucius,Block,14,18
+10:10,NC State,C.J. Bryce,Offensive Rebound,14,18
+10:07,Wake Forest,Ikenna Smart,Foul,14,18
+9:53,NC State,Braxton Beverly,Missed Jumper,14,18
+9:53,Wake Forest,Sunday Okeke,Defensive Rebound,14,18
+9:41,Wake Forest,Chaundee Brown,Three Point Jumper,17,18
+9:23,NC State,Markell Johnson,Three Point Jumper,17,21
+9:09,Wake Forest,Chaundee Brown,Missed Three Point Jumper,17,21
+9:09,NC State,NC State,Defensive Rebound,17,21
+9:07,Wake Forest,Sunday Okeke,Foul,17,21
+9:07,NC State,Wyatt Walker,Free Throw,17,22
+9:07,NC State,Wyatt Walker,Missed Free Throw,17,22
+9:07,NC State,None,Team Rebound,17,22
+9:07,Wake Forest,Sunday Okeke,Turnover,17,22
+8:44,NC State,Torin Dorn,Missed Jumper,17,22
+8:44,NC State,Wyatt Walker,Offensive Rebound,17,22
+8:37,NC State,C.J. Bryce,Missed Three Point Jumper,17,22
+8:37,NC State,Torin Dorn,Offensive Rebound,17,22
+8:33,NC State,Braxton Beverly,Missed Three Point Jumper,17,22
+8:33,Wake Forest,Chaundee Brown,Defensive Rebound,17,22
+8:26,NC State,Braxton Beverly,Foul,17,22
+8:25,Wake Forest,Jaylen Hoard,Missed Jumper,17,22
+8:25,NC State,Braxton Beverly,Defensive Rebound,17,22
+8:19,NC State,Markell Johnson,Three Point Jumper,17,25
+7:57,Wake Forest,Isaiah Mucius,Turnover,17,25
+7:57,NC State,None,None,17,25
+7:36,Wake Forest,Jaylen Hoard,Foul,17,25
+7:36,NC State,Wyatt Walker,Missed Free Throw,17,25
+7:36,NC State,None,Team Rebound,17,25
+7:36,NC State,Wyatt Walker,Free Throw,17,26
+7:18,Wake Forest,Torry Johnson,Missed Three Point Jumper,17,26
+7:18,NC State,Devon Daniels,Defensive Rebound,17,26
+7:12,NC State,Devon Daniels,Turnover,17,26
+7:12,Wake Forest,Brandon Childress,Steal,17,26
+7:03,NC State,Devon Daniels,Foul,17,26
+7:03,Wake Forest,Sunday Okeke,Free Throw,18,26
+7:03,Wake Forest,Sunday Okeke,Free Throw,19,26
+6:51,NC State,Blake Harris,Missed Three Point Jumper,19,26
+6:51,Wake Forest,Chaundee Brown,Defensive Rebound,19,26
+6:38,Wake Forest,Sunday Okeke,Missed Layup,19,26
+6:38,NC State,Blake Harris,Defensive Rebound,19,26
+6:30,NC State,Markell Johnson,Missed Three Point Jumper,19,26
+6:30,Wake Forest,Brandon Childress,Defensive Rebound,19,26
+6:19,Wake Forest,Brandon Childress,Missed Jumper,19,26
+6:19,NC State,Torin Dorn,Defensive Rebound,19,26
+6:12,NC State,Torin Dorn,Layup,19,28
+6:10,NC State,Braxton Beverly,Foul,19,28
+5:38,Wake Forest,Chaundee Brown,Missed Jumper,19,28
+5:38,NC State,Blake Harris,Defensive Rebound,19,28
+5:24,NC State,Markell Johnson,Layup,19,30
+5:16,Wake Forest,Chaundee Brown,Three Point Jumper,22,30
+4:51,NC State,Torin Dorn,Missed Jumper,22,30
+4:51,Wake Forest,Jaylen Hoard,Block,22,30
+4:51,Wake Forest,Chaundee Brown,Defensive Rebound,22,30
+4:44,Wake Forest,Jaylen Hoard,Dunk,24,30
+4:18,NC State,Torin Dorn,Missed Three Point Jumper,24,30
+4:18,Wake Forest,Brandon Childress,Defensive Rebound,24,30
+4:08,Wake Forest,Jaylen Hoard,Missed Layup,24,30
+4:08,NC State,Markell Johnson,Defensive Rebound,24,30
+3:52,Wake Forest,Chaundee Brown,Foul,24,30
+3:52,NC State,None,None,24,30
+3:52,NC State,DJ Funderburk,Free Throw,24,31
+3:52,NC State,DJ Funderburk,Missed Free Throw,24,31
+3:52,Wake Forest,Jaylen Hoard,Defensive Rebound,24,31
+3:39,NC State,DJ Funderburk,Foul,24,31
+3:39,Wake Forest,Sharone Wright Jr.,Free Throw,25,31
+3:39,Wake Forest,Sharone Wright Jr.,Free Throw,26,31
+3:18,NC State,Jericole Hellems,Missed Three Point Jumper,26,31
+3:18,Wake Forest,Sharone Wright Jr.,Defensive Rebound,26,31
+2:58,Wake Forest,Ikenna Smart,Jumper,28,31
+2:46,NC State,C.J. Bryce,Missed Jumper,28,31
+2:46,NC State,DJ Funderburk,Offensive Rebound,28,31
+2:42,NC State,DJ Funderburk,Layup,28,33
+2:31,Wake Forest,Sharone Wright Jr.,Missed Layup,28,33
+2:31,NC State,DJ Funderburk,Block,28,33
+2:31,NC State,Blake Harris,Defensive Rebound,28,33
+2:14,NC State,Markell Johnson,Three Point Jumper,28,36
+1:50,Wake Forest,Jaylen Hoard,Layup,30,36
+1:39,Wake Forest,Torry Johnson,Foul,30,36
+1:39,NC State,Jericole Hellems,Free Throw,30,37
+1:39,NC State,Jericole Hellems,Free Throw,30,38
+1:19,Wake Forest,Torry Johnson,Missed Three Point Jumper,30,38
+1:19,NC State,C.J. Bryce,Defensive Rebound,30,38
+1:05,NC State,Markell Johnson,Three Point Jumper,30,41
+0:57,Wake Forest,None,None,30,41
+0:33,Wake Forest,Jaylen Hoard,Layup,32,41
+0:21,NC State,None,None,32,41
+0:01,NC State,DJ Funderburk,Missed Three Point Jumper,32,41
+0:01,Wake Forest,Sunday Okeke,Defensive Rebound,32,41
+0:00,NC State,None,None,32,41
+20:00,Wake Forest,None,None,32,41
+19:44,Wake Forest,Jaylen Hoard,Missed Jumper,32,41
+19:44,NC State,Wyatt Walker,Defensive Rebound,32,41
+19:25,NC State,C.J. Bryce,Missed Three Point Jumper,32,41
+19:25,NC State,C.J. Bryce,Offensive Rebound,32,41
+19:16,Wake Forest,Chaundee Brown,Foul,32,41
+19:16,NC State,Markell Johnson,Free Throw,32,42
+19:16,NC State,Markell Johnson,Missed Free Throw,32,42
+19:16,Wake Forest,Ikenna Smart,Defensive Rebound,32,42
+18:57,Wake Forest,Brandon Childress,Three Point Jumper,35,42
+18:39,NC State,Torin Dorn,Jumper,35,44
+18:17,Wake Forest,Jaylen Hoard,Layup,37,44
+18:17,NC State,C.J. Bryce,Foul,37,44
+18:17,Wake Forest,Jaylen Hoard,Free Throw,38,44
+18:06,Wake Forest,Jaylen Hoard,Foul,38,44
+17:54,NC State,Torin Dorn,Missed Layup,38,44
+17:54,Wake Forest,Chaundee Brown,Defensive Rebound,38,44
+17:47,Wake Forest,Chaundee Brown,Turnover,38,44
+17:47,NC State,Braxton Beverly,Steal,38,44
+17:42,NC State,Braxton Beverly,Missed Three Point Jumper,38,44
+17:42,Wake Forest,Wake Forest,Defensive Rebound,38,44
+17:25,NC State,Braxton Beverly,Foul,38,44
+17:23,Wake Forest,Chaundee Brown,Missed Three Point Jumper,38,44
+17:23,NC State,Devon Daniels,Defensive Rebound,38,44
+16:58,NC State,Braxton Beverly,Layup,38,46
+16:31,Wake Forest,Ikenna Smart,Missed Layup,38,46
+16:31,NC State,Devon Daniels,Block,38,46
+16:31,Wake Forest,Wake Forest,Offensive Rebound,38,46
+16:26,Wake Forest,Brandon Childress,Three Point Jumper,41,46
+16:14,NC State,Braxton Beverly,Missed Three Point Jumper,41,46
+16:14,Wake Forest,Brandon Childress,Defensive Rebound,41,46
+16:10,NC State,Torin Dorn,Foul,41,46
+16:10,Wake Forest,Jaylen Hoard,Turnover,41,46
+16:10,NC State,Torin Dorn,Steal,41,46
+16:05,Wake Forest,Jaylen Hoard,Foul,41,46
+16:01,NC State,Markell Johnson,Three Point Jumper,41,49
+15:38,Wake Forest,Ikenna Smart,Turnover,41,49
+15:38,NC State,None,None,41,49
+15:28,NC State,Markell Johnson,Missed Three Point Jumper,41,49
+15:28,NC State,Torin Dorn,Offensive Rebound,41,49
+15:21,NC State,Braxton Beverly,Three Point Jumper,41,52
+15:01,Wake Forest,Sunday Okeke,Missed Jumper,41,52
+15:01,NC State,Torin Dorn,Block,41,52
+15:01,NC State,Torin Dorn,Defensive Rebound,41,52
+14:50,NC State,Devon Daniels,Missed Three Point Jumper,41,52
+14:50,Wake Forest,Sunday Okeke,Defensive Rebound,41,52
+14:37,Wake Forest,Torry Johnson,Turnover,41,52
+14:31,NC State,Torin Dorn,Layup,41,54
+14:14,Wake Forest,Isaiah Mucius,Missed Three Point Jumper,41,54
+14:14,NC State,Markell Johnson,Defensive Rebound,41,54
+14:09,NC State,DJ Funderburk,Dunk,41,56
+14:04,Wake Forest,None,None,41,56
+13:52,Wake Forest,Torry Johnson,Missed Three Point Jumper,41,56
+13:52,NC State,Devon Daniels,Defensive Rebound,41,56
+13:28,NC State,Torin Dorn,Missed Jumper,41,56
+13:28,Wake Forest,Chaundee Brown,Defensive Rebound,41,56
+13:17,NC State,Braxton Beverly,Foul,41,56
+13:17,Wake Forest,Brandon Childress,Free Throw,42,56
+13:17,Wake Forest,Brandon Childress,Free Throw,43,56
+12:51,NC State,Markell Johnson,Missed Three Point Jumper,43,56
+12:51,Wake Forest,Chaundee Brown,Defensive Rebound,43,56
+12:38,Wake Forest,Isaiah Mucius,Missed Layup,43,56
+12:38,NC State,DJ Funderburk,Block,43,56
+12:38,NC State,DJ Funderburk,Defensive Rebound,43,56
+12:34,NC State,DJ Funderburk,Foul,43,56
+12:34,NC State,DJ Funderburk,Turnover,43,56
+12:30,Wake Forest,Brandon Childress,Missed Three Point Jumper,43,56
+12:30,NC State,C.J. Bryce,Defensive Rebound,43,56
+12:12,NC State,Devon Daniels,Missed Jumper,43,56
+12:12,NC State,Devon Daniels,Offensive Rebound,43,56
+12:07,NC State,C.J. Bryce,Three Point Jumper,43,59
+11:38,Wake Forest,Sunday Okeke,Layup,45,59
+11:21,NC State,Jericole Hellems,Jumper,45,61
+11:00,NC State,None,None,45,61
+11:00,Wake Forest,Brandon Childress,Layup,47,61
+11:00,NC State,Wyatt Walker,Foul,47,61
+11:00,NC State,None,None,47,61
+11:00,Wake Forest,Brandon Childress,Missed Free Throw,47,61
+11:00,NC State,DJ Funderburk,Defensive Rebound,47,61
+10:50,NC State,Devon Daniels,Missed Three Point Jumper,47,61
+10:50,Wake Forest,Isaiah Mucius,Defensive Rebound,47,61
+10:36,NC State,Jericole Hellems,Foul,47,61
+10:36,Wake Forest,Brandon Childress,Free Throw,48,61
+10:36,Wake Forest,Brandon Childress,Free Throw,49,61
+10:19,NC State,Markell Johnson,Layup,49,63
+9:50,Wake Forest,Sharone Wright Jr.,Turnover,49,63
+9:50,NC State,Markell Johnson,Steal,49,63
+9:46,NC State,Jericole Hellems,Turnover,49,63
+9:20,NC State,DJ Funderburk,Foul,49,63
+9:20,Wake Forest,Torry Johnson,Free Throw,50,63
+9:20,Wake Forest,Torry Johnson,Free Throw,51,63
+9:05,NC State,DJ Funderburk,Missed Layup,51,63
+9:05,NC State,DJ Funderburk,Offensive Rebound,51,63
+9:03,Wake Forest,Sunday Okeke,Foul,51,63
+9:03,NC State,DJ Funderburk,Missed Free Throw,51,63
+9:03,NC State,None,Team Rebound,51,63
+9:03,NC State,DJ Funderburk,Free Throw,51,64
+8:43,Wake Forest,Brandon Childress,Missed Jumper,51,64
+8:43,NC State,NC State,Defensive Rebound,51,64
+8:28,NC State,C.J. Bryce,Turnover,51,64
+8:28,Wake Forest,Jaylen Hoard,Steal,51,64
+8:23,Wake Forest,Brandon Childress,Turnover,51,64
+8:07,NC State,DJ Funderburk,Dunk,51,66
+7:45,Wake Forest,Brandon Childress,Missed Layup,51,66
+7:45,NC State,C.J. Bryce,Block,51,66
+7:45,Wake Forest,Sunday Okeke,Offensive Rebound,51,66
+7:45,NC State,Jericole Hellems,Foul,51,66
+7:45,NC State,None,None,51,66
+7:45,Wake Forest,Sunday Okeke,Free Throw,52,66
+7:45,Wake Forest,Sunday Okeke,Free Throw,53,66
+7:23,NC State,DJ Funderburk,Missed Jumper,53,66
+7:23,Wake Forest,Sunday Okeke,Defensive Rebound,53,66
+7:20,NC State,Devon Daniels,Foul,53,66
+7:20,Wake Forest,Sunday Okeke,Missed Free Throw,53,66
+7:20,Wake Forest,None,Team Rebound,53,66
+7:20,Wake Forest,Sunday Okeke,Missed Free Throw,53,66
+7:20,NC State,DJ Funderburk,Defensive Rebound,53,66
+7:14,NC State,Jericole Hellems,Three Point Jumper,53,69
+6:51,Wake Forest,Jaylen Hoard,Missed Three Point Jumper,53,69
+6:51,NC State,NC State,Defensive Rebound,53,69
+6:48,NC State,Jericole Hellems,Jumper,53,71
+6:31,Wake Forest,Sharone Wright Jr.,Missed Layup,53,71
+6:31,NC State,DJ Funderburk,Block,53,71
+6:31,NC State,Blake Harris,Defensive Rebound,53,71
+5:56,NC State,Devon Daniels,Missed Jumper,53,71
+5:56,NC State,DJ Funderburk,Offensive Rebound,53,71
+5:51,NC State,DJ Funderburk,Missed Jumper,53,71
+5:51,Wake Forest,Jaylen Hoard,Defensive Rebound,53,71
+5:36,Wake Forest,Jaylen Hoard,Turnover,53,71
+5:36,NC State,Blake Harris,Steal,53,71
+5:33,NC State,Jericole Hellems,Layup,53,73
+5:33,Wake Forest,Sharone Wright Jr.,Foul,53,73
+5:33,NC State,Jericole Hellems,Free Throw,53,74
+5:15,Wake Forest,Jaylen Hoard,Missed Layup,53,74
+5:15,Wake Forest,Sunday Okeke,Offensive Rebound,53,74
+5:10,Wake Forest,Jaylen Hoard,Layup,55,74
+5:02,NC State,Devon Daniels,Layup,55,76
+4:51,Wake Forest,Isaiah Mucius,Missed Layup,55,76
+4:51,Wake Forest,Jaylen Hoard,Offensive Rebound,55,76
+4:45,Wake Forest,Jaylen Hoard,Layup,57,76
+4:24,NC State,C.J. Bryce,Missed Three Point Jumper,57,76
+4:24,Wake Forest,Sunday Okeke,Defensive Rebound,57,76
+4:12,Wake Forest,Isaiah Mucius,Missed Layup,57,76
+4:12,Wake Forest,Isaiah Mucius,Offensive Rebound,57,76
+4:12,Wake Forest,None,None,59,76
+4:03,Wake Forest,Sunday Okeke,Foul,59,76
+3:54,NC State,Devon Daniels,Layup,59,78
+3:47,Wake Forest,Chaundee Brown,Layup,61,78
+3:30,NC State,Jericole Hellems,Missed Three Point Jumper,61,78
+3:30,Wake Forest,Sharone Wright Jr.,Defensive Rebound,61,78
+3:24,Wake Forest,Jaylen Hoard,Layup,63,78
+3:15,NC State,None,None,63,78
+3:15,NC State,None,None,63,78
+3:09,NC State,Torin Dorn,Foul,63,78
+3:09,NC State,Torin Dorn,Turnover,63,78
+3:03,NC State,Torin Dorn,Foul,63,78
+3:03,Wake Forest,Jaylen Hoard,Missed Free Throw,63,78
+3:03,Wake Forest,None,Team Rebound,63,78
+3:03,Wake Forest,Jaylen Hoard,Free Throw,64,78
+2:54,NC State,Devon Daniels,Turnover,64,78
+2:54,Wake Forest,Isaiah Mucius,Steal,64,78
+2:48,Wake Forest,Isaiah Mucius,Missed Layup,64,78
+2:48,NC State,Devon Daniels,Defensive Rebound,64,78
+2:42,NC State,Torin Dorn,Layup,64,80
+2:30,Wake Forest,Chaundee Brown,Missed Three Point Jumper,64,80
+2:30,Wake Forest,Sharone Wright Jr.,Offensive Rebound,64,80
+2:23,Wake Forest,Sharone Wright Jr.,Missed Jumper,64,80
+2:23,NC State,Wyatt Walker,Defensive Rebound,64,80
+2:23,Wake Forest,Isaiah Mucius,Foul,64,80
+2:23,NC State,Wyatt Walker,Free Throw,64,81
+2:23,NC State,Wyatt Walker,Free Throw,64,82
+2:11,Wake Forest,Chaundee Brown,Missed Three Point Jumper,64,82
+2:11,NC State,Blake Harris,Defensive Rebound,64,82
+2:02,Wake Forest,Jaylen Hoard,Foul,64,82
+2:02,NC State,Blake Harris,Free Throw,64,83
+2:02,NC State,Blake Harris,Free Throw,64,84
+1:55,Wake Forest,Brandon Childress,Missed Three Point Jumper,64,84
+1:55,Wake Forest,Chaundee Brown,Offensive Rebound,64,84
+1:52,Wake Forest,Chaundee Brown,Jumper,66,84
+1:47,Wake Forest,Brandon Childress,Foul,66,84
+1:47,NC State,Torin Dorn,Free Throw,66,85
+1:47,NC State,Torin Dorn,Free Throw,66,86
+1:41,NC State,Devon Daniels,Foul,66,86
+1:41,Wake Forest,Torry Johnson,Free Throw,67,86
+1:41,Wake Forest,Torry Johnson,Missed Free Throw,67,86
+1:41,NC State,Torin Dorn,Defensive Rebound,67,86
+1:39,Wake Forest,Chaundee Brown,Foul,67,86
+1:39,NC State,Jericole Hellems,Free Throw,67,87
+1:39,NC State,Jericole Hellems,Free Throw,67,88
+1:29,Wake Forest,Sharone Wright Jr.,Layup,69,88
+1:16,NC State,Devon Daniels,Three Point Jumper,69,91
+1:06,Wake Forest,Aaron Spivey,Jumper,71,91
+1:04,NC State,Jericole Hellems,Missed Three Point Jumper,71,91
+1:04,NC State,Torin Dorn,Offensive Rebound,71,91
+1:00,NC State,Torin Dorn,Layup,71,93
+0:48,Wake Forest,Sharone Wright Jr.,Missed Layup,71,93
+0:48,NC State,Braxton Beverly,Defensive Rebound,71,93
+0:23,Wake Forest,Isaiah Mucius,Foul,71,93
+0:23,NC State,Torin Dorn,Missed Free Throw,71,93
+0:23,NC State,None,Team Rebound,71,93
+0:23,NC State,Torin Dorn,Free Throw,71,94
+0:20,Wake Forest,Aaron Spivey,Missed Three Point Jumper,71,94
+0:20,Wake Forest,Blake Buchanan,Offensive Rebound,71,94
+0:16,Wake Forest,Aaron Spivey,Three Point Jumper,74,94
+0:00,NC State,None,None,74,94

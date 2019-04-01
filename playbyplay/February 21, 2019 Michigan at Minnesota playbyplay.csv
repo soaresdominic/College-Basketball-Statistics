@@ -1,0 +1,323 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Michigan,None,None,0,0
+19:37,Michigan,Jon Teske,Jumper,2,0
+19:11,Minnesota,Daniel Oturu,Layup,2,2
+18:43,Michigan,Jordan Poole,Missed Three Point Jumper,2,2
+18:43,Minnesota,Dupree McBrayer,Defensive Rebound,2,2
+18:31,Minnesota,Jordan Murphy,Missed Layup,2,2
+18:31,Minnesota,Jordan Murphy,Offensive Rebound,2,2
+18:26,Minnesota,Jordan Murphy,Layup,2,4
+18:05,Michigan,Zavier Simpson,Missed Layup,2,4
+18:05,Minnesota,Dupree McBrayer,Block,2,4
+18:05,Michigan,Zavier Simpson,Offensive Rebound,2,4
+17:56,Michigan,Jon Teske,Layup,4,4
+17:37,Minnesota,Amir Coffey,Missed Three Point Jumper,4,4
+17:37,Michigan,Charles Matthews,Defensive Rebound,4,4
+17:15,Michigan,Charles Matthews,Layup,6,4
+16:51,Minnesota,Jordan Murphy,Missed Jumper,6,4
+16:51,Michigan,Jon Teske,Block,6,4
+16:51,Minnesota,Jordan Murphy,Offensive Rebound,6,4
+16:48,Minnesota,Jordan Murphy,Layup,6,6
+16:20,Michigan,Jon Teske,Missed Three Point Jumper,6,6
+16:20,Minnesota,Daniel Oturu,Defensive Rebound,6,6
+16:02,Minnesota,Jordan Murphy,Missed Jumper,6,6
+16:02,Minnesota,Amir Coffey,Offensive Rebound,6,6
+16:02,Minnesota,None,None,6,6
+16:02,Michigan,Jon Teske,Defensive Rebound,6,6
+15:52,Michigan,Zavier Simpson,Missed Three Point Jumper,6,6
+15:52,Minnesota,Daniel Oturu,Defensive Rebound,6,6
+15:44,Minnesota,Amir Coffey,Missed Jumper,6,6
+15:44,Michigan,Zavier Simpson,Defensive Rebound,6,6
+15:29,Michigan,Jordan Poole,Three Point Jumper,9,6
+14:55,Minnesota,Amir Coffey,Missed Jumper,9,6
+14:55,Michigan,Michigan,Defensive Rebound,9,6
+14:51,Minnesota,None,None,9,6
+14:38,Michigan,Ignas Brazdeikis,Three Point Jumper,12,6
+14:10,Minnesota,Eric Curry,Missed Jumper,12,6
+14:03,Michigan,Jon Teske,Defensive Rebound,12,6
+13:54,Minnesota,Eric Curry,Foul,12,6
+13:49,Michigan,Jon Teske,Missed Three Point Jumper,12,6
+13:49,Minnesota,Jordan Murphy,Defensive Rebound,12,6
+13:31,Minnesota,Jordan Murphy,Missed Layup,12,6
+13:31,Michigan,Ignas Brazdeikis,Defensive Rebound,12,6
+13:27,Minnesota,Jordan Murphy,Foul,12,6
+13:18,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,12,6
+13:18,Minnesota,Amir Coffey,Defensive Rebound,12,6
+13:07,Minnesota,Amir Coffey,Missed Three Point Jumper,12,6
+13:07,Michigan,Ignas Brazdeikis,Defensive Rebound,12,6
+13:01,Michigan,Ignas Brazdeikis,Turnover,12,6
+13:01,Minnesota,Gabe Kalscheur,Steal,12,6
+12:55,Minnesota,Amir Coffey,Missed Dunk,12,6
+12:55,Michigan,Michigan,Defensive Rebound,12,6
+12:41,Michigan,Jordan Poole,Layup,14,6
+12:27,Michigan,Jordan Poole,Foul,14,6
+12:17,Minnesota,None,None,14,6
+12:14,Minnesota,Amir Coffey,Missed Jumper,14,6
+12:14,Michigan,Colin Castleton,Defensive Rebound,14,6
+11:58,Michigan,Zavier Simpson,Three Point Jumper,17,6
+11:55,Minnesota,None,None,17,6
+11:37,Minnesota,Amir Coffey,Missed Layup,17,6
+11:37,Minnesota,Daniel Oturu,Offensive Rebound,17,6
+11:33,Minnesota,Daniel Oturu,Layup,17,8
+11:10,Michigan,Charles Matthews,Missed Jumper,17,8
+11:10,Minnesota,Daniel Oturu,Defensive Rebound,17,8
+10:52,Michigan,Colin Castleton,Foul,17,8
+10:52,Minnesota,Dupree McBrayer,Free Throw,17,9
+10:52,Minnesota,Dupree McBrayer,Free Throw,17,10
+10:30,Michigan,Zavier Simpson,Missed Jumper,17,10
+10:30,Minnesota,Daniel Oturu,Defensive Rebound,17,10
+10:26,Minnesota,Daniel Oturu,Turnover,17,10
+10:26,Michigan,Zavier Simpson,Steal,17,10
+10:22,Michigan,Isaiah Livers,Missed Three Point Jumper,17,10
+10:22,Minnesota,Amir Coffey,Defensive Rebound,17,10
+10:09,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,17,10
+10:09,Michigan,Charles Matthews,Defensive Rebound,17,10
+9:58,Michigan,Charles Matthews,Missed Three Point Jumper,17,10
+9:58,Minnesota,Minnesota,Defensive Rebound,17,10
+9:37,Minnesota,Amir Coffey,Missed Three Point Jumper,17,10
+9:37,Michigan,Isaiah Livers,Defensive Rebound,17,10
+9:14,Michigan,Jordan Poole,Three Point Jumper,20,10
+8:53,Minnesota,Eric Curry,Jumper,20,12
+8:33,Michigan,Jon Teske,Missed Three Point Jumper,20,12
+8:33,Minnesota,Jordan Murphy,Defensive Rebound,20,12
+8:24,Michigan,David DeJulius,Foul,20,12
+8:17,Minnesota,Gabe Kalscheur,Turnover,20,12
+8:17,Michigan,Jordan Poole,Steal,20,12
+8:14,Michigan,David DeJulius,Layup,22,12
+7:47,Minnesota,Daniel Oturu,Missed Jumper,22,12
+7:47,Michigan,David DeJulius,Defensive Rebound,22,12
+7:41,Michigan,Ignas Brazdeikis,Missed Jumper,22,12
+7:41,Minnesota,Daniel Oturu,Defensive Rebound,22,12
+7:27,Minnesota,Daniel Oturu,Layup,22,14
+7:07,Michigan,Ignas Brazdeikis,Missed Jumper,22,14
+7:07,Minnesota,Jordan Murphy,Defensive Rebound,22,14
+6:56,Michigan,Jon Teske,Foul,22,14
+6:56,Minnesota,None,None,22,14
+6:56,Minnesota,Jordan Murphy,Missed Free Throw,22,14
+6:56,Minnesota,None,Team Rebound,22,14
+6:56,Minnesota,Jordan Murphy,Missed Free Throw,22,14
+6:56,Michigan,Ignas Brazdeikis,Defensive Rebound,22,14
+6:41,Michigan,Jon Teske,Missed Jumper,22,14
+6:41,Minnesota,Daniel Oturu,Defensive Rebound,22,14
+6:10,Minnesota,Isaiah Washington,Missed Jumper,22,14
+6:10,Minnesota,Jordan Murphy,Offensive Rebound,22,14
+6:07,Minnesota,Jordan Murphy,Turnover,22,14
+6:07,Michigan,Zavier Simpson,Steal,22,14
+5:56,Michigan,Ignas Brazdeikis,Missed Jumper,22,14
+5:56,Minnesota,Jordan Murphy,Defensive Rebound,22,14
+5:44,Minnesota,Jordan Murphy,Turnover,22,14
+5:44,Michigan,Zavier Simpson,Steal,22,14
+5:37,Michigan,Jordan Poole,Missed Layup,22,14
+5:37,Minnesota,Amir Coffey,Block,22,14
+5:37,Michigan,Michigan,Offensive Rebound,22,14
+5:28,Michigan,Jordan Poole,Missed Jumper,22,14
+5:28,Minnesota,Jordan Murphy,Defensive Rebound,22,14
+5:20,Minnesota,Isaiah Washington,Missed Jumper,22,14
+5:20,Michigan,Jon Teske,Block,22,14
+5:20,Minnesota,Minnesota,Offensive Rebound,22,14
+5:13,Minnesota,Dupree McBrayer,Missed Jumper,22,14
+5:13,Minnesota,Jordan Murphy,Offensive Rebound,22,14
+5:08,Minnesota,Jordan Murphy,Missed Layup,22,14
+5:08,Minnesota,Jordan Murphy,Offensive Rebound,22,14
+5:04,Minnesota,Jordan Murphy,Turnover,22,14
+5:04,Michigan,Charles Matthews,Steal,22,14
+4:50,Michigan,Jon Teske,Dunk,24,14
+4:24,Minnesota,Amir Coffey,Missed Jumper,24,14
+4:24,Michigan,Jon Teske,Block,24,14
+4:24,Minnesota,Minnesota,Offensive Rebound,24,14
+4:16,Minnesota,Eric Curry,Turnover,24,14
+4:02,Michigan,Colin Castleton,Missed Layup,24,14
+4:02,Minnesota,Daniel Oturu,Defensive Rebound,24,14
+3:50,Minnesota,Daniel Oturu,Missed Jumper,24,14
+3:50,Michigan,Charles Matthews,Defensive Rebound,24,14
+3:37,Michigan,Charles Matthews,Turnover,24,14
+3:37,Minnesota,None,None,24,14
+3:17,Minnesota,Daniel Oturu,Missed Jumper,24,14
+3:17,Michigan,Isaiah Livers,Defensive Rebound,24,14
+2:53,Michigan,Jordan Poole,Missed Three Point Jumper,24,14
+2:53,Minnesota,Dupree McBrayer,Defensive Rebound,24,14
+2:32,Minnesota,Eric Curry,Missed Layup,24,14
+2:32,Michigan,Isaiah Livers,Block,24,14
+2:32,Michigan,Isaiah Livers,Defensive Rebound,24,14
+2:19,Michigan,Charles Matthews,Foul,24,14
+2:19,Michigan,Charles Matthews,Turnover,24,14
+2:02,Minnesota,Daniel Oturu,Layup,24,16
+1:45,Michigan,Zavier Simpson,Turnover,24,16
+1:33,Minnesota,Gabe Kalscheur,Turnover,24,16
+1:15,Minnesota,Jordan Murphy,Foul,24,16
+1:15,Michigan,Isaiah Livers,Missed Free Throw,24,16
+1:15,Michigan,None,Team Rebound,24,16
+1:15,Michigan,Isaiah Livers,Free Throw,25,16
+1:06,Minnesota,Amir Coffey,Missed Jumper,25,16
+1:06,Michigan,Charles Matthews,Defensive Rebound,25,16
+1:00,Michigan,Charles Matthews,Missed Dunk,25,16
+1:00,Michigan,Isaiah Livers,Offensive Rebound,25,16
+0:56,Michigan,Jordan Poole,Three Point Jumper,28,16
+0:44,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,28,16
+0:44,Michigan,Isaiah Livers,Defensive Rebound,28,16
+0:33,Michigan,None,None,28,16
+0:12,Michigan,Charles Matthews,Turnover,28,16
+0:03,Minnesota,Dupree McBrayer,Missed Jumper,28,16
+0:03,Minnesota,Daniel Oturu,Offensive Rebound,28,16
+0:03,Minnesota,None,None,28,16
+0:02,Minnesota,Daniel Oturu,Offensive Rebound,28,16
+0:01,Minnesota,None,None,28,18
+0:00,Minnesota,None,None,28,18
+20:00,Michigan,None,None,28,18
+19:48,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,28,18
+19:48,Minnesota,Gabe Kalscheur,Defensive Rebound,28,18
+19:19,Minnesota,Dupree McBrayer,Missed Jumper,28,18
+19:19,Michigan,Zavier Simpson,Defensive Rebound,28,18
+19:17,Michigan,Zavier Simpson,Turnover,28,18
+19:09,Minnesota,Daniel Oturu,Missed Layup,28,18
+19:09,Michigan,Jon Teske,Block,28,18
+19:09,Minnesota,Jordan Murphy,Offensive Rebound,28,18
+19:05,Minnesota,Jordan Murphy,Missed Layup,28,18
+19:05,Michigan,Jon Teske,Block,28,18
+19:05,Minnesota,Jordan Murphy,Offensive Rebound,28,18
+19:05,Minnesota,None,None,28,18
+19:02,Minnesota,Amir Coffey,Layup,28,20
+18:37,Michigan,Ignas Brazdeikis,Layup,30,20
+18:37,Minnesota,Jordan Murphy,Foul,30,20
+18:37,Michigan,Ignas Brazdeikis,Missed Free Throw,30,20
+18:37,Minnesota,Daniel Oturu,Defensive Rebound,30,20
+18:16,Minnesota,Daniel Oturu,Missed Jumper,30,20
+18:16,Michigan,Jon Teske,Defensive Rebound,30,20
+17:58,Michigan,Ignas Brazdeikis,Three Point Jumper,33,20
+17:40,Minnesota,Jordan Murphy,Missed Layup,33,20
+17:40,Michigan,Ignas Brazdeikis,Block,33,20
+17:40,Michigan,Zavier Simpson,Defensive Rebound,33,20
+17:33,Michigan,Jordan Poole,Layup,35,20
+17:17,Minnesota,Gabe Kalscheur,Jumper,35,22
+16:58,Michigan,Ignas Brazdeikis,Layup,37,22
+16:37,Minnesota,Dupree McBrayer,Missed Three Point Jumper,37,22
+16:37,Michigan,Charles Matthews,Defensive Rebound,37,22
+16:07,Michigan,Jordan Poole,Missed Three Point Jumper,37,22
+16:07,Michigan,Jon Teske,Offensive Rebound,37,22
+15:55,Michigan,Jon Teske,Three Point Jumper,40,22
+15:51,Minnesota,None,None,40,22
+15:22,Michigan,Ignas Brazdeikis,Foul,40,22
+15:22,Minnesota,None,None,40,22
+15:22,Minnesota,Jordan Murphy,Free Throw,40,23
+15:22,Minnesota,Jordan Murphy,Missed Free Throw,40,23
+15:22,Michigan,Charles Matthews,Defensive Rebound,40,23
+15:08,Minnesota,Brock Stull,Foul,40,23
+15:07,Michigan,Charles Matthews,Missed Jumper,40,23
+15:07,Minnesota,Eric Curry,Defensive Rebound,40,23
+14:44,Minnesota,Daniel Oturu,Jumper,40,25
+14:21,Michigan,Jordan Poole,Three Point Jumper,43,25
+13:59,Minnesota,Daniel Oturu,Missed Jumper,43,25
+13:59,Michigan,Zavier Simpson,Defensive Rebound,43,25
+13:51,Minnesota,Gabe Kalscheur,Foul,43,25
+13:51,Michigan,Charles Matthews,Free Throw,44,25
+13:51,Michigan,Charles Matthews,Free Throw,45,25
+13:35,Minnesota,Amir Coffey,Missed Three Point Jumper,45,25
+13:35,Michigan,Jon Teske,Defensive Rebound,45,25
+13:17,Michigan,Zavier Simpson,Missed Three Point Jumper,45,25
+13:17,Minnesota,Amir Coffey,Defensive Rebound,45,25
+13:08,Minnesota,Amir Coffey,Jumper,45,27
+12:45,Michigan,Charles Matthews,Jumper,47,27
+12:17,Minnesota,Eric Curry,Jumper,47,29
+11:52,Michigan,Isaiah Livers,Three Point Jumper,50,29
+11:20,Minnesota,Jordan Murphy,Jumper,50,31
+10:55,Minnesota,Eric Curry,Foul,50,31
+10:55,Minnesota,None,None,50,31
+10:50,Minnesota,Dupree McBrayer,Foul,50,31
+10:39,Michigan,Jordan Poole,Missed Three Point Jumper,50,31
+10:39,Minnesota,Brock Stull,Defensive Rebound,50,31
+10:30,Minnesota,Jordan Murphy,Layup,50,33
+10:04,Michigan,Jordan Poole,Three Point Jumper,53,33
+9:45,Minnesota,Eric Curry,Missed Three Point Jumper,53,33
+9:45,Michigan,Charles Matthews,Defensive Rebound,53,33
+9:16,Michigan,Charles Matthews,Missed Jumper,53,33
+9:16,Minnesota,Dupree McBrayer,Defensive Rebound,53,33
+9:05,Minnesota,Jordan Murphy,Jumper,53,35
+8:41,Michigan,Charles Matthews,Missed Layup,53,35
+8:41,Michigan,Zavier Simpson,Offensive Rebound,53,35
+8:34,Michigan,Jordan Poole,Missed Layup,53,35
+8:34,Minnesota,Eric Curry,Defensive Rebound,53,35
+8:24,Minnesota,Gabe Kalscheur,Three Point Jumper,53,38
+8:02,Michigan,Isaiah Livers,Turnover,53,38
+8:02,Minnesota,Dupree McBrayer,Steal,53,38
+8:00,Minnesota,Dupree McBrayer,Dunk,53,40
+7:49,Michigan,None,None,53,40
+7:37,Michigan,Jon Teske,Layup,55,40
+7:09,Minnesota,Dupree McBrayer,Missed Layup,55,40
+7:09,Minnesota,Daniel Oturu,Offensive Rebound,55,40
+7:09,Minnesota,None,None,55,42
+6:45,Michigan,Zavier Simpson,Missed Jumper,55,42
+6:45,Minnesota,Jordan Murphy,Defensive Rebound,55,42
+6:42,Michigan,Jon Teske,Foul,55,42
+6:21,Michigan,Charles Matthews,Foul,55,42
+6:21,Minnesota,Jordan Murphy,Free Throw,55,43
+6:21,Minnesota,Jordan Murphy,Missed Free Throw,55,43
+6:21,Michigan,Charles Matthews,Defensive Rebound,55,43
+5:52,Michigan,Ignas Brazdeikis,Turnover,55,43
+5:52,Minnesota,Amir Coffey,Steal,55,43
+5:47,Minnesota,Amir Coffey,Missed Layup,55,43
+5:47,Michigan,Jordan Poole,Defensive Rebound,55,43
+5:37,Michigan,Charles Matthews,Three Point Jumper,58,43
+5:09,Minnesota,Jordan Murphy,Layup,58,45
+5:09,Michigan,Ignas Brazdeikis,Foul,58,45
+5:09,Minnesota,Jordan Murphy,Missed Free Throw,58,45
+5:09,Michigan,Jon Teske,Defensive Rebound,58,45
+4:52,Michigan,Charles Matthews,Missed Three Point Jumper,58,45
+4:52,Minnesota,Amir Coffey,Defensive Rebound,58,45
+4:45,Minnesota,Daniel Oturu,Dunk,58,47
+4:23,Michigan,Jon Teske,Three Point Jumper,61,47
+4:05,Minnesota,Daniel Oturu,Missed Jumper,61,47
+4:05,Michigan,Jon Teske,Defensive Rebound,61,47
+3:40,Michigan,Jon Teske,Three Point Jumper,64,47
+3:15,Michigan,Ignas Brazdeikis,Foul,64,47
+3:15,Minnesota,None,None,64,47
+3:15,Minnesota,Daniel Oturu,Free Throw,64,48
+3:15,Minnesota,Daniel Oturu,Free Throw,64,49
+2:45,Michigan,Jordan Poole,Jumper,66,49
+2:29,Minnesota,Jordan Murphy,Jumper,66,51
+2:29,Michigan,Isaiah Livers,Foul,66,51
+2:29,Minnesota,Jordan Murphy,Missed Free Throw,66,51
+2:29,Michigan,Charles Matthews,Defensive Rebound,66,51
+2:00,Michigan,Jordan Poole,Missed Three Point Jumper,66,51
+2:00,Michigan,Michigan,Offensive Rebound,66,51
+1:58,Michigan,Michigan ,Turnover,66,51
+1:50,Michigan,Zavier Simpson,Foul,66,51
+1:50,Minnesota,Dupree McBrayer,Missed Free Throw,66,51
+1:50,Minnesota,None,Team Rebound,66,51
+1:50,Minnesota,Dupree McBrayer,Missed Free Throw,66,51
+1:50,Minnesota,None,Team Rebound,66,51
+1:50,Minnesota,Dupree McBrayer,Free Throw,66,52
+1:39,Minnesota,Dupree McBrayer,Foul,66,52
+1:39,Minnesota,Dupree McBrayer,Foul,66,52
+1:39,Michigan,Zavier Simpson,Free Throw,67,52
+1:39,Michigan,Zavier Simpson,Free Throw,68,52
+1:31,Minnesota,Dupree McBrayer,Layup,68,54
+1:24,Michigan,Zavier Simpson,Turnover,68,54
+1:24,Minnesota,Gabe Kalscheur,Steal,68,54
+1:17,Michigan,Isaiah Livers,Foul,68,54
+1:17,Minnesota,Amir Coffey,Free Throw,68,55
+1:17,Minnesota,Amir Coffey,Missed Free Throw,68,55
+1:17,Minnesota,None,Team Rebound,68,55
+1:17,Minnesota,Amir Coffey,Free Throw,68,56
+1:17,Michigan,None,None,68,56
+1:14,Minnesota,Brock Stull,Foul,68,56
+1:14,Michigan,Jordan Poole,Missed Free Throw,68,56
+1:14,Minnesota,Brock Stull,Defensive Rebound,68,56
+1:07,Minnesota,Dupree McBrayer,Missed Layup,68,56
+1:07,Minnesota,Jordan Murphy,Offensive Rebound,68,56
+1:03,Minnesota,Jordan Murphy,Layup,68,58
+1:01,Minnesota,None,None,68,58
+1:00,Minnesota,Dupree McBrayer,Foul,68,58
+1:00,Michigan,Jordan Poole,Missed Free Throw,68,58
+1:00,Minnesota,Dupree McBrayer,Defensive Rebound,68,58
+0:54,Minnesota,Amir Coffey,Missed Three Point Jumper,68,58
+0:54,Michigan,Jordan Poole,Defensive Rebound,68,58
+0:49,Minnesota,Amir Coffey,Foul,68,58
+0:49,Michigan,Jordan Poole,Free Throw,69,58
+0:49,Michigan,Jordan Poole,Missed Free Throw,69,58
+0:49,Minnesota,Brock Stull,Defensive Rebound,69,58
+0:44,Minnesota,Dupree McBrayer,Turnover,69,58
+0:44,Michigan,Charles Matthews,Steal,69,58
+0:16,Michigan,Charles Matthews,Missed Layup,69,58
+0:16,Minnesota,Jordan Murphy,Defensive Rebound,69,58
+0:06,Minnesota,Brock Stull,Jumper,69,60
+0:00,Minnesota,None,None,69,60

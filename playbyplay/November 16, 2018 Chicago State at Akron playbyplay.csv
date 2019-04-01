@@ -1,0 +1,376 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:31,Chicago State,Christian Jacob,Missed Layup,0,0
+19:31,Akron,Deng Riak,Defensive Rebound,0,0
+19:21,Chicago State,Anthony Harris,Foul,0,0
+19:21,Akron,Deng Riak,Free Throw,0,1
+19:21,Akron,Deng Riak,Free Throw,0,2
+19:01,Akron,Daniel Utomi,Foul,0,2
+18:51,Chicago State,Rob Shaw,Missed Layup,0,2
+18:51,Chicago State,Christian Jacob,Offensive Rebound,0,2
+18:50,Akron,Channel Banks,Foul,0,2
+18:42,Chicago State,Christian Jacob,Missed Layup,0,2
+18:42,Akron,Channel Banks,Block,0,2
+18:39,Akron,Jimond Ivey,Defensive Rebound,0,2
+18:27,Akron,Daniel Utomi,Turnover,0,2
+18:26,Chicago State,Rob Shaw,Steal,0,2
+18:24,Chicago State,Cameron Bowles,Missed Layup,0,2
+18:24,Chicago State,Christian Jacob,Offensive Rebound,0,2
+18:20,Chicago State,Christian Jacob,Missed Layup,0,2
+18:20,Akron,Deng Riak,Defensive Rebound,0,2
+18:13,Akron,Jimond Ivey,Missed Jumper,0,2
+18:13,Chicago State,Anthony Harris,Defensive Rebound,0,2
+17:58,Chicago State,Rob Shaw,Layup,2,2
+17:39,Chicago State,Cameron Bowles,Foul,2,2
+17:31,Chicago State,Christian Jacob,Foul,2,2
+17:31,Akron,Channel Banks,Free Throw,2,3
+17:31,Akron,Channel Banks,Free Throw,2,4
+17:13,Chicago State,Anthony Harris,Missed Layup,2,4
+17:13,Akron,Akron,Defensive Rebound,2,4
+17:11,Chicago State,Christian Jacob,Foul,2,4
+16:56,Chicago State,Rob Shaw,Foul,2,4
+16:49,Akron,Channel Banks,Layup,2,6
+16:26,Chicago State,Rob Shaw,Missed Three Point Jumper,2,6
+16:26,Akron,Deng Riak,Defensive Rebound,2,6
+16:13,Akron,Deng Riak,Missed Layup,2,6
+15:46,Chicago State,Cameron Bowles,Turnover,2,6
+15:46,Chicago State,Cameron Bowles,Foul,2,6
+15:46,Chicago State,Delshon Strickland,Defensive Rebound,2,6
+15:46,Chicago State,Delshon Strickland,Turnover,2,6
+15:46,Akron,Tyler Cheese,Steal,2,6
+15:34,Akron,Loren Cristian Jackson,Three Point Jumper,2,9
+15:21,Akron,Daniel Utomi,Missed Three Point Jumper,2,9
+15:21,Chicago State,Chicago State,Defensive Rebound,2,9
+15:15,Chicago State,Delshon Strickland,Missed Layup,2,9
+15:15,Chicago State,Chicago State,Offensive Rebound,2,9
+15:15,Akron,Emmanuel Olojakpoke,Foul,2,9
+15:07,Chicago State,Anthony Harris,Layup,4,9
+14:45,Akron,Daniel Utomi,Three Point Jumper,4,12
+14:31,Chicago State,Ken Odiase,Turnover,4,12
+14:28,Chicago State,Ken Odiase,Foul,4,12
+14:15,Akron,Jimond Ivey,Layup,4,14
+13:57,Chicago State,Anthony Harris,Turnover,4,14
+13:37,Chicago State,None,None,4,14
+13:20,Akron,Tyler Cheese,Turnover,4,14
+12:57,Chicago State,Anthony Harris,Missed Three Point Jumper,4,14
+12:57,Akron,Jeremy Roscoe,Defensive Rebound,4,14
+12:49,Chicago State,Travon Bell,Foul,4,14
+12:49,Akron,Jeremy Roscoe,Free Throw,4,15
+12:49,Akron,Jeremy Roscoe,Free Throw,4,16
+12:37,Chicago State,Rob Shaw,Missed Layup,4,16
+12:37,Akron,Akron,Defensive Rebound,4,16
+12:20,Chicago State,Cameron Bowles,Foul,4,16
+12:20,Akron,Daniel Utomi,Free Throw,4,17
+12:20,Akron,Daniel Utomi,Missed Free Throw,4,17
+12:20,Chicago State,Delshon Strickland,Defensive Rebound,4,17
+12:08,Chicago State,Travon Bell,Missed Three Point Jumper,4,17
+12:08,Akron,Jimond Ivey,Defensive Rebound,4,17
+11:46,Akron,Daniel Utomi,Missed Three Point Jumper,4,17
+11:46,Chicago State,Rob Shaw,Defensive Rebound,4,17
+11:36,Chicago State,Travon Bell,Missed Layup,4,17
+11:36,Akron,Jeremy Roscoe,Defensive Rebound,4,17
+11:27,Chicago State,Patrick Szpir,Foul,4,17
+11:27,Akron,None,None,4,17
+11:27,Akron,Jeremy Roscoe,Free Throw,4,18
+11:27,Akron,Jeremy Roscoe,Free Throw,4,19
+11:09,Chicago State,Rob Shaw,Layup,6,19
+10:53,Akron,Channel Banks,Missed Three Point Jumper,6,19
+10:53,Chicago State,Chicago State,Defensive Rebound,6,19
+10:37,Akron,Loren Cristian Jackson,Foul,6,19
+10:36,Chicago State,Rob Shaw,Turnover,6,19
+10:20,Akron,Daniel Utomi,Jumper,6,21
+10:03,Chicago State,Delshon Strickland,Missed Three Point Jumper,6,21
+10:03,Akron,Daniel Utomi,Defensive Rebound,6,21
+9:55,Akron,Daniel Utomi,Missed Three Point Jumper,6,21
+9:55,Akron,Jimond Ivey,Offensive Rebound,6,21
+9:49,Akron,Deng Riak,Layup,6,23
+9:31,Chicago State,Anthony Harris,Turnover,6,23
+9:31,Chicago State,None,None,6,23
+9:13,Akron,Loren Cristian Jackson,Missed Three Point Jumper,6,23
+9:13,Akron,Akron,Offensive Rebound,6,23
+9:11,Chicago State,Noah Bigirumwami,Foul,6,23
+9:11,Akron,Jaden Sayles,Missed Free Throw,6,23
+9:11,Akron,None,Team Rebound,6,23
+9:11,Akron,Jaden Sayles,Missed Free Throw,6,23
+9:11,Chicago State,Miles Oliver,Defensive Rebound,6,23
+8:43,Chicago State,Anthony Harris,Missed Layup,6,23
+8:43,Akron,Jaden Sayles,Block,6,23
+8:41,Akron,Loren Cristian Jackson,Defensive Rebound,6,23
+8:36,Akron,Channel Banks,Layup,6,25
+8:36,Chicago State,Noah Bigirumwami,Foul,6,25
+8:36,Akron,Channel Banks,Missed Free Throw,6,25
+8:36,Chicago State,Delshon Strickland,Defensive Rebound,6,25
+8:18,Chicago State,Miles Oliver,Missed Layup,6,25
+8:18,Akron,Jaden Sayles,Block,6,25
+8:18,Chicago State,Chicago State,Offensive Rebound,6,25
+8:12,Akron,Loren Cristian Jackson,Foul,6,25
+8:12,Chicago State,Patrick Szpir,Missed Free Throw,6,25
+8:12,Chicago State,None,Team Rebound,6,25
+8:12,Chicago State,Patrick Szpir,Free Throw,7,25
+7:58,Akron,Tyler Cheese,Missed Three Point Jumper,7,25
+7:58,Akron,Jaden Sayles,Offensive Rebound,7,25
+7:52,Akron,Jimond Ivey,Missed Three Point Jumper,7,25
+7:52,Chicago State,Patrick Szpir,Defensive Rebound,7,25
+7:50,Akron,LePear Toles,Foul,7,25
+7:50,Akron,None,None,7,25
+7:28,Chicago State,Miles Oliver,Turnover,7,25
+7:28,Chicago State,Miles Oliver,Foul,7,25
+7:08,Akron,Jaden Sayles,Turnover,7,25
+7:08,Akron,Jaden Sayles,Foul,7,25
+6:43,Chicago State,Rob Shaw,Layup,9,25
+6:28,Akron,Jeremy Roscoe,Turnover,9,25
+6:25,Chicago State,Travon Bell,Missed Three Point Jumper,9,25
+6:25,Akron,Daniel Utomi,Defensive Rebound,9,25
+6:20,Akron,Daniel Utomi,Jumper,9,27
+6:20,Chicago State,Travon Bell,Foul,9,27
+6:20,Akron,Daniel Utomi,Missed Free Throw,9,27
+6:20,Chicago State,Delshon Strickland,Defensive Rebound,9,27
+6:04,Chicago State,Anthony Harris,Foul,9,27
+6:01,Chicago State,Delshon Strickland,Layup,11,27
+5:50,Akron,Tyler Cheese,Layup,11,29
+5:27,Chicago State,Anthony Harris,Turnover,11,29
+5:10,Akron,Deng Riak,Missed Three Point Jumper,11,29
+5:10,Chicago State,Anthony Harris,Defensive Rebound,11,29
+4:48,Chicago State,Rob Shaw,Jumper,13,29
+4:37,Akron,None,None,13,29
+4:29,Akron,Tyler Cheese,Turnover,13,29
+4:11,Chicago State,Travon Bell,Missed Three Point Jumper,13,29
+4:11,Akron,Daniel Utomi,Defensive Rebound,13,29
+3:56,Akron,Daniel Utomi,Missed Layup,13,29
+3:56,Chicago State,Anthony Harris,Defensive Rebound,13,29
+3:49,Chicago State,Delshon Strickland,Turnover,13,29
+3:49,Akron,Loren Cristian Jackson,Steal,13,29
+3:49,Akron,None,None,13,29
+3:49,Chicago State,Delshon Strickland,Foul,13,29
+3:49,Akron,Loren Cristian Jackson,Free Throw,13,30
+3:49,Akron,Loren Cristian Jackson,Free Throw,13,31
+3:35,Chicago State,Rob Shaw,Missed Layup,13,31
+3:35,Akron,Jimond Ivey,Defensive Rebound,13,31
+3:23,Akron,Jimond Ivey,Missed Three Point Jumper,13,31
+3:23,Chicago State,Delshon Strickland,Defensive Rebound,13,31
+3:04,Chicago State,Patrick Szpir,Missed Layup,13,31
+3:04,Akron,Emmanuel Olojakpoke,Block,13,31
+3:04,Chicago State,Chicago State,Offensive Rebound,13,31
+2:57,Chicago State,Rob Shaw,Missed Layup,13,31
+2:57,Akron,Emmanuel Olojakpoke,Defensive Rebound,13,31
+2:46,Akron,Daniel Utomi,Three Point Jumper,13,34
+2:26,Chicago State,Rob Shaw,Missed Layup,13,34
+2:26,Akron,Jimond Ivey,Defensive Rebound,13,34
+2:16,Chicago State,Patrick Szpir,Foul,13,34
+2:16,Akron,Emmanuel Olojakpoke,Missed Free Throw,13,34
+2:16,Akron,None,Team Rebound,13,34
+2:16,Akron,Emmanuel Olojakpoke,Free Throw,13,35
+2:02,Chicago State,Travon Bell,Missed Jumper,13,35
+2:02,Akron,Tyler Cheese,Defensive Rebound,13,35
+1:52,Akron,Daniel Utomi,Turnover,13,35
+1:49,Chicago State,Anthony Harris,Steal,13,35
+1:48,Chicago State,Ken Odiase,Foul,13,35
+1:48,Akron,Daniel Utomi,Foul,13,35
+1:48,Akron,Daniel Utomi,Foul,13,35
+1:48,Chicago State,Ken Odiase,Foul,13,35
+1:48,Chicago State,Anthony Harris,Turnover,13,35
+1:48,Chicago State,Anthony Harris,Foul,13,35
+1:48,Akron,Channel Banks,Foul,13,35
+1:48,Akron,Channel Banks,Foul,13,35
+1:48,Chicago State,Anthony Harris,Foul,13,35
+1:48,Chicago State,Delshon Strickland,Foul,13,35
+1:48,Akron,Tyler Cheese,Free Throw,13,36
+1:48,Akron,Tyler Cheese,Missed Free Throw,13,36
+1:48,Akron,None,Team Rebound,13,36
+1:39,Akron,Tyler Cheese,Turnover,13,36
+1:37,Chicago State,Anthony Harris,Steal,13,36
+1:35,Chicago State,Anthony Harris,Turnover,13,36
+1:34,Akron,Emmanuel Olojakpoke,Steal,13,36
+1:27,Akron,Emmanuel Olojakpoke,Layup,13,38
+1:04,Chicago State,Anthony Harris,Missed Jumper,13,38
+1:04,Akron,Daniel Utomi,Defensive Rebound,13,38
+0:51,Akron,Tyler Cheese,Missed Jumper,13,38
+0:51,Akron,Channel Banks,Offensive Rebound,13,38
+0:42,Akron,Daniel Utomi,Missed Three Point Jumper,13,38
+0:42,Chicago State,Chicago State,Defensive Rebound,13,38
+0:23,Chicago State,Miles Oliver,Missed Layup,13,38
+0:23,Akron,Jaden Sayles,Block,13,38
+0:21,Akron,Tyler Cheese,Defensive Rebound,13,38
+0:19,Chicago State,Anthony Harris,Foul,13,38
+0:19,Akron,Jimond Ivey,Missed Free Throw,13,38
+0:19,Akron,None,Team Rebound,13,38
+0:19,Akron,Jimond Ivey,Free Throw,13,39
+0:01,Chicago State,Ken Odiase,Turnover,13,39
+0:00,Akron,Tyler Cheese,Steal,13,39
+0:00,Akron,None,None,13,39
+19:36,Akron,Deng Riak,Turnover,13,39
+19:33,Chicago State,Christian Jacob,Steal,13,39
+19:16,Chicago State,Christian Jacob,Layup,15,39
+18:56,Akron,Channel Banks,Layup,15,41
+18:38,Chicago State,Rob Shaw,Turnover,15,41
+18:36,Akron,Deng Riak,Steal,15,41
+18:30,Akron,Channel Banks,Three Point Jumper,15,44
+18:12,Chicago State,Anthony Harris,Layup,17,44
+18:12,Akron,None,None,17,44
+17:54,Akron,Emmanuel Olojakpoke,Layup,17,46
+17:33,Chicago State,Rob Shaw,Jumper,19,46
+17:07,Akron,Daniel Utomi,Turnover,19,46
+16:51,Chicago State,Anthony Harris,Layup,21,46
+16:29,Akron,Daniel Utomi,Three Point Jumper,21,49
+16:09,Chicago State,Christian Jacob,Turnover,21,49
+16:08,Akron,Loren Cristian Jackson,Steal,21,49
+16:02,Akron,Channel Banks,Three Point Jumper,21,52
+15:53,Chicago State,Cameron Bowles,Missed Three Point Jumper,21,52
+15:53,Akron,Jimond Ivey,Defensive Rebound,21,52
+15:45,Akron,Jimond Ivey,Three Point Jumper,21,55
+15:42,Akron,None,None,21,55
+15:30,Chicago State,Travon Bell,Missed Three Point Jumper,21,55
+15:30,Akron,Channel Banks,Defensive Rebound,21,55
+15:23,Akron,Channel Banks,Missed Layup,21,55
+15:23,Chicago State,Travon Bell,Defensive Rebound,21,55
+15:15,Chicago State,Rob Shaw,Missed Layup,21,55
+15:15,Chicago State,Christian Jacob,Offensive Rebound,21,55
+15:13,Chicago State,Christian Jacob,Layup,23,55
+14:43,Akron,Tyler Cheese,Missed Three Point Jumper,23,55
+14:43,Chicago State,Ken Odiase,Offensive Rebound,23,55
+14:16,Akron,Jimond Ivey,Layup,23,57
+14:00,Akron,Loren Cristian Jackson,Three Point Jumper,23,60
+13:45,Chicago State,Rob Shaw,Missed Jumper,23,60
+13:45,Akron,Loren Cristian Jackson,Defensive Rebound,23,60
+13:32,Akron,Channel Banks,Three Point Jumper,23,63
+13:07,Chicago State,Christian Jacob,Missed Layup,23,63
+13:07,Akron,Jeremy Roscoe,Block,23,63
+13:06,Chicago State,Chicago State,Offensive Rebound,23,63
+13:02,Chicago State,Miles Oliver,Missed Jumper,23,63
+13:02,Akron,Daniel Utomi,Defensive Rebound,23,63
+12:49,Akron,Tyler Cheese,Missed Jumper,23,63
+12:49,Chicago State,Anthony Harris,Defensive Rebound,23,63
+12:36,Akron,Daniel Utomi,Foul,23,63
+12:29,Akron,Jeremy Roscoe,Foul,23,63
+12:10,Chicago State,Christian Jacob,Missed Layup,23,63
+12:10,Akron,Jaden Sayles,Block,23,63
+12:08,Akron,Scott Walter,Defensive Rebound,23,63
+11:59,Akron,Daniel Utomi,Missed Three Point Jumper,23,63
+11:59,Chicago State,Chicago State,Defensive Rebound,23,63
+11:48,Akron,Jeremy Roscoe,Foul,23,63
+11:48,Akron,None,None,23,63
+11:40,Chicago State,Christian Jacob,Missed Layup,23,63
+11:40,Akron,Scott Walter,Defensive Rebound,23,63
+11:32,Akron,Daniel Utomi,Missed Three Point Jumper,23,63
+11:32,Chicago State,Rob Shaw,Defensive Rebound,23,63
+11:25,Chicago State,Patrick Szpir,Turnover,23,63
+11:25,Akron,Jeremy Roscoe,Foul,23,63
+11:21,Chicago State,Christian Jacob,Missed Jumper,23,63
+11:21,Akron,Akron,Defensive Rebound,23,63
+11:05,Chicago State,Eugene Witherspoon,Free Throw,24,63
+11:05,Chicago State,Eugene Witherspoon,Missed Free Throw,24,63
+11:05,Chicago State,None,Team Rebound,24,63
+11:05,Chicago State,Eugene Witherspoon,Missed Free Throw,24,63
+11:05,Akron,Akron,Defensive Rebound,24,63
+11:04,Akron,Scott Walter,Layup,24,65
+11:03,Akron,Tyler Cheese,Missed Three Point Jumper,24,65
+11:03,Chicago State,Miles Oliver,Defensive Rebound,24,65
+10:54,Akron,Jimond Ivey,Missed Three Point Jumper,24,65
+10:50,Chicago State,Rob Shaw,Foul,24,65
+10:50,Akron,Mark Kostelac,Foul,24,65
+10:50,Chicago State,Christian Jacob,Missed Free Throw,24,65
+10:50,Chicago State,None,Team Rebound,24,65
+10:50,Chicago State,Christian Jacob,Free Throw,25,65
+10:26,Chicago State,Eugene Witherspoon,Defensive Rebound,25,65
+10:23,Chicago State,Patrick Szpir,Turnover,25,65
+10:22,Akron,Deng Riak,Steal,25,65
+10:20,Chicago State,Anthony Harris,Dunk,27,65
+10:01,Akron,Daniel Utomi,Three Point Jumper,27,68
+9:24,Akron,Scott Walter,Foul,27,68
+9:24,Chicago State,Eugene Witherspoon,Missed Free Throw,27,68
+9:24,Chicago State,None,Team Rebound,27,68
+9:24,Chicago State,Eugene Witherspoon,Free Throw,28,68
+8:56,Akron,Jimond Ivey,Missed Three Point Jumper,28,68
+8:56,Chicago State,Chicago State,Defensive Rebound,28,68
+8:53,Akron,LePear Toles,Foul,28,68
+8:50,Chicago State,Rob Shaw,Layup,30,68
+8:40,Akron,LePear Toles,Turnover,30,68
+8:36,Chicago State,Anthony Harris,Turnover,30,68
+8:34,Akron,LePear Toles,Steal,30,68
+8:31,Akron,LePear Toles,Turnover,30,68
+8:30,Chicago State,Christian Jacob,Steal,30,68
+8:16,Chicago State,Patrick Szpir,Missed Layup,30,68
+8:16,Akron,Tyler Cheese,Defensive Rebound,30,68
+8:10,Akron,Loren Cristian Jackson,Missed Three Point Jumper,30,68
+8:10,Chicago State,Eugene Witherspoon,Defensive Rebound,30,68
+7:41,Chicago State,Anthony Harris,Missed Layup,30,68
+7:41,Chicago State,Eugene Witherspoon,Offensive Rebound,30,68
+7:36,Akron,None,None,30,68
+7:36,Akron,Jimond Ivey,Free Throw,30,69
+7:36,Akron,Jimond Ivey,Missed Free Throw,30,69
+7:36,Chicago State,Eugene Witherspoon,Defensive Rebound,30,69
+7:32,Chicago State,Eugene Witherspoon,Turnover,30,69
+7:31,Akron,Tyler Cheese,Steal,30,69
+7:31,Chicago State,Patrick Szpir,Foul,30,69
+7:15,Chicago State,Travon Bell,Three Point Jumper,33,69
+6:57,Akron,Emmanuel Olojakpoke,Turnover,33,69
+6:57,Akron,Emmanuel Olojakpoke,Foul,33,69
+6:30,Chicago State,Rob Shaw,Turnover,33,69
+6:28,Akron,Loren Cristian Jackson,Steal,33,69
+6:23,Akron,Emmanuel Olojakpoke,Missed Layup,33,69
+5:55,Akron,Emmanuel Olojakpoke,Foul,33,69
+5:55,Akron,Emmanuel Olojakpoke,Turnover,33,69
+5:53,Chicago State,Christian Jacob,Free Throw,35,69
+5:53,Chicago State,Christian Jacob,Defensive Rebound,33,69
+5:53,Chicago State,Christian Jacob,Free Throw,34,69
+5:53,Chicago State,Travon Bell,Foul,35,69
+5:43,Chicago State,Eugene Witherspoon,Foul,35,69
+5:43,Akron,Tyler Cheese,Missed Free Throw,35,69
+5:43,Akron,None,Team Rebound,35,69
+5:43,Akron,Tyler Cheese,Free Throw,35,70
+5:30,Akron,Jeremy Roscoe,Foul,35,70
+5:30,Chicago State,Eugene Witherspoon,Missed Free Throw,35,70
+5:30,Akron,Akron,Defensive Rebound,35,70
+5:13,Akron,Jaden Sayles,Layup,35,72
+5:00,Chicago State,Christian Jacob,Layup,37,72
+4:38,Akron,Tyler Cheese,Missed Three Point Jumper,37,72
+4:38,Chicago State,Chicago State,Defensive Rebound,37,72
+4:17,Chicago State,Eugene Witherspoon,Missed Layup,37,72
+4:17,Akron,Scott Walter,Defensive Rebound,37,72
+4:11,Akron,Scott Walter,Layup,37,74
+4:02,Akron,Scott Walter,Foul,37,74
+3:56,Akron,None,None,37,74
+2:46,Akron,LePear Toles,Layup,37,76
+2:40,Chicago State,Christian Jacob,Foul,37,76
+2:16,Akron,LePear Toles,Missed Free Throw,37,76
+2:16,Chicago State,Eugene Witherspoon,Defensive Rebound,37,76
+2:03,Chicago State,Miles Oliver,Missed Free Throw,37,76
+2:03,Chicago State,Chicago State,Offensive Rebound,37,76
+2:01,Akron,Mark Kostelac,Foul,37,76
+2:01,Chicago State,Eugene Witherspoon,Missed Free Throw,37,76
+2:01,Chicago State,None,Team Rebound,37,76
+2:01,Chicago State,Eugene Witherspoon,Missed Free Throw,37,76
+2:01,Akron,Akron,Defensive Rebound,37,76
+1:53,Akron,Jaden Sayles,Layup,37,78
+1:47,Akron,Jaden Sayles,Foul,37,78
+1:47,Chicago State,Noah Bigirumwami,Free Throw,38,78
+1:47,Chicago State,Noah Bigirumwami,Missed Free Throw,38,78
+1:47,Chicago State,Christian Jacob,Offensive Rebound,38,78
+1:44,Chicago State,Christian Jacob,Layup,40,78
+1:40,Chicago State,Christian Jacob,Foul,40,78
+1:40,Chicago State,Christian Jacob,Foul,40,78
+1:40,Akron,Marquelle McIntyre,Missed Free Throw,40,78
+1:40,Akron,None,Team Rebound,40,78
+1:40,Akron,Marquelle McIntyre,Free Throw,40,79
+1:38,Chicago State,Miles Oliver,Foul,40,79
+1:38,Akron,Scott Walter,Missed Free Throw,40,79
+1:38,Akron,Scott Walter,Offensive Rebound,40,79
+1:36,Akron,Jake Fischer,Three Point Jumper,40,82
+1:36,Akron,Mark Kostelac,Foul,40,82
+1:36,Chicago State,Miles Oliver,Free Throw,41,82
+1:36,Chicago State,Miles Oliver,Free Throw,42,82
+1:21,Chicago State,Travon Bell,Foul,42,82
+1:21,Akron,Mark Kostelac,Free Throw,42,83
+1:21,Akron,Mark Kostelac,Free Throw,42,84
+1:14,Chicago State,Ken Odiase,Turnover,42,84
+0:49,Akron,Mark Kostelac,Jumper,42,86
+0:30,Chicago State,Ken Odiase,Layup,44,86
+0:19,Akron,Scott Walter,Turnover,44,86
+0:19,Chicago State,Miles Oliver,Steal,44,86
+0:19,Akron,Mark Kostelac,Foul,44,86
+0:19,Chicago State,Miles Oliver,Free Throw,45,86
+0:19,Chicago State,Miles Oliver,Free Throw,46,86
+0:05,Chicago State,Miles Oliver,Foul,46,86
+0:05,Akron,LePear Toles,Free Throw,46,87
+0:05,Akron,LePear Toles,Missed Free Throw,46,87
+0:05,Chicago State,Ken Odiase,Defensive Rebound,46,87
+0:00,Akron,None,None,46,87

@@ -1,0 +1,479 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:41,West Virginia,Jordan McCabe,Turnover,0,0
+19:40,TCU,Alex Robinson,Steal,0,0
+19:24,TCU,Kouat Noi,Missed Three Point Jumper,0,0
+19:24,West Virginia,Jordan McCabe,Defensive Rebound,0,0
+19:09,West Virginia,Lamont West,Missed Three Point Jumper,0,0
+19:09,West Virginia,Emmitt Matthews Jr.,Offensive Rebound,0,0
+19:05,West Virginia,Lamont West,Turnover,0,0
+19:03,TCU,Alex Robinson,Steal,0,0
+18:53,TCU,Alex Robinson,Layup,2,0
+18:32,West Virginia,Emmitt Matthews Jr.,Missed Layup,2,0
+18:32,TCU,Kouat Noi,Block,2,0
+18:31,TCU,Kouat Noi,Defensive Rebound,2,0
+18:23,TCU,Desmond Bane,Missed Jumper,2,0
+18:23,West Virginia,Lamont West,Defensive Rebound,2,0
+18:15,TCU,Alex Robinson,Foul,2,0
+17:49,West Virginia,Jermaine Haley,Missed Three Point Jumper,2,0
+17:49,TCU,TCU,Defensive Rebound,2,0
+17:34,TCU,Desmond Bane,Missed Jumper,2,0
+17:34,West Virginia,Derek Culver,Defensive Rebound,2,0
+17:06,West Virginia,Jermaine Haley,Layup,2,2
+16:43,TCU,Kouat Noi,Turnover,2,2
+16:25,West Virginia,Lamont West,Turnover,2,2
+16:23,TCU,Kevin Samuel,Steal,2,2
+16:18,TCU,JD Miller,Turnover,2,2
+15:48,West Virginia,Andrew Gordon,Jumper,2,4
+15:38,West Virginia,Andrew Gordon,Foul,2,4
+15:38,West Virginia,None,None,2,4
+15:38,TCU,Kevin Samuel,Free Throw,3,4
+15:38,TCU,Kevin Samuel,Missed Free Throw,3,4
+15:38,TCU,Kouat Noi,Offensive Rebound,3,4
+15:36,TCU,Kouat Noi,Layup,5,4
+15:18,West Virginia,Andrew Gordon,Missed Jumper,5,4
+15:18,West Virginia,Derek Culver,Offensive Rebound,5,4
+15:11,West Virginia,Derek Culver,Turnover,5,4
+15:10,TCU,Desmond Bane,Steal,5,4
+15:02,TCU,Kouat Noi,Three Point Jumper,8,4
+14:44,TCU,Kendric Davis,Foul,8,4
+14:35,West Virginia,Andrew Gordon,Turnover,8,4
+14:33,TCU,Kendric Davis,Steal,8,4
+14:29,TCU,Kendric Davis,Turnover,8,4
+14:27,West Virginia,Jordan McCabe,Steal,8,4
+14:22,West Virginia,Jordan McCabe,Missed Three Point Jumper,8,4
+14:22,West Virginia,Logan Routt,Offensive Rebound,8,4
+13:57,West Virginia,Jermaine Haley,Missed Three Point Jumper,8,4
+13:57,TCU,None,Team Rebound,8,4
+13:49,TCU,Kouat Noi,Missed Three Point Jumper,8,4
+13:49,West Virginia,Chase Harler,Defensive Rebound,8,4
+13:32,West Virginia,Chase Harler,Missed Jumper,8,4
+13:32,West Virginia,Andrew Gordon,Offensive Rebound,8,4
+13:29,West Virginia,Andrew Gordon,Missed Jumper,8,4
+13:29,TCU,Kouat Noi,Defensive Rebound,8,4
+13:28,West Virginia,Logan Routt,Foul,8,4
+13:17,TCU,Kendric Davis,Turnover,8,4
+13:03,West Virginia,Jordan McCabe,Jumper,8,6
+12:39,TCU,Desmond Bane,Missed Three Point Jumper,8,6
+12:39,West Virginia,West Virginia,Defensive Rebound,8,6
+12:10,West Virginia,Jordan McCabe,Three Point Jumper,8,9
+11:52,TCU,Kendric Davis,Missed Jumper,8,9
+11:52,TCU,Kendric Davis,Offensive Rebound,8,9
+11:49,TCU,Kendric Davis,Jumper,10,9
+11:31,TCU,Kevin Samuel,Foul,10,9
+11:31,West Virginia,None,None,10,9
+11:14,West Virginia,Jordan McCabe,Missed Three Point Jumper,10,9
+11:14,TCU,Kouat Noi,Defensive Rebound,10,9
+10:46,TCU,Kouat Noi,Turnover,10,9
+10:46,West Virginia,Lamont West,Steal,10,9
+10:27,West Virginia,Derek Culver,Layup,10,11
+10:08,TCU,JD Miller,Missed Layup,10,11
+10:08,TCU,TCU,Offensive Rebound,10,11
+9:55,TCU,Alex Robinson,Missed Jumper,10,11
+9:55,West Virginia,Jermaine Haley,Defensive Rebound,10,11
+9:50,West Virginia,Chase Harler,Layup,10,13
+9:26,TCU,Alex Robinson,Layup,12,13
+9:26,West Virginia,Jordan McCabe,Foul,12,13
+9:26,TCU,Alex Robinson,Missed Free Throw,12,13
+9:26,West Virginia,Derek Culver,Defensive Rebound,12,13
+9:06,West Virginia,Derek Culver,Layup,12,15
+8:43,TCU,Kouat Noi,Jumper,14,15
+8:28,West Virginia,Lamont West,Missed Jumper,14,15
+8:28,West Virginia,Derek Culver,Offensive Rebound,14,15
+8:22,TCU,Kouat Noi,Foul,14,15
+8:22,West Virginia,Derek Culver,Free Throw,14,16
+8:22,West Virginia,Derek Culver,Free Throw,14,17
+8:12,TCU,Alex Robinson,Jumper,16,17
+7:47,West Virginia,None,None,16,17
+7:39,West Virginia,Lamont West,Missed Three Point Jumper,16,17
+7:39,TCU,Kouat Noi,Block,16,17
+7:38,TCU,Alex Robinson,Defensive Rebound,16,17
+7:35,TCU,Desmond Bane,Layup,18,17
+7:18,West Virginia,Lamont West,Three Point Jumper,18,20
+6:42,TCU,Kendric Davis,Missed Jumper,18,20
+6:42,West Virginia,Derek Culver,Defensive Rebound,18,20
+6:30,West Virginia,Chase Harler,Turnover,18,20
+6:27,TCU,Desmond Bane,Steal,18,20
+6:25,TCU,Desmond Bane,Layup,20,20
+5:57,TCU,JD Miller,Foul,20,20
+5:57,West Virginia,Jermaine Haley,Layup,20,22
+5:29,TCU,Kouat Noi,Turnover,20,22
+5:28,West Virginia,Jermaine Haley,Steal,20,22
+5:27,TCU,Desmond Bane,Foul,20,22
+5:27,West Virginia,Jermaine Haley,Missed Free Throw,20,22
+5:27,West Virginia,None,Team Rebound,20,22
+5:27,West Virginia,Jermaine Haley,Free Throw,20,23
+5:15,TCU,Alex Robinson,Jumper,22,23
+5:05,West Virginia,Jordan McCabe,Jumper,22,25
+4:50,TCU,Alex Robinson,Missed Jumper,22,25
+4:50,West Virginia,Derek Culver,Defensive Rebound,22,25
+4:42,West Virginia,Chase Harler,Missed Jumper,22,25
+4:42,TCU,Desmond Bane,Defensive Rebound,22,25
+4:37,West Virginia,Jordan McCabe,Foul,22,25
+4:37,TCU,Alex Robinson,Missed Free Throw,22,25
+4:37,TCU,None,Team Rebound,22,25
+4:37,TCU,Alex Robinson,Missed Free Throw,22,25
+4:37,West Virginia,Derek Culver,Defensive Rebound,22,25
+4:26,West Virginia,Jermaine Haley,Missed Jumper,22,25
+4:26,TCU,Kevin Samuel,Block,22,25
+4:24,TCU,Kevin Samuel,Defensive Rebound,22,25
+4:17,TCU,Kouat Noi,Missed Three Point Jumper,22,25
+4:17,TCU,Kevin Samuel,Offensive Rebound,22,25
+4:05,TCU,Kendric Davis,Missed Jumper,22,25
+4:05,West Virginia,Jermaine Haley,Defensive Rebound,22,25
+4:02,TCU,Kevin Samuel,Foul,22,25
+4:02,West Virginia,Jermaine Haley,Free Throw,22,26
+4:02,West Virginia,Jermaine Haley,Free Throw,22,27
+3:57,TCU,RJ Nembhard,Jumper,24,27
+3:51,West Virginia,Chase Harler,Three Point Jumper,24,30
+3:24,TCU,Desmond Bane,Missed Jumper,24,30
+3:24,West Virginia,Lamont West,Defensive Rebound,24,30
+3:17,West Virginia,Lamont West,Missed Three Point Jumper,24,30
+3:17,TCU,Kouat Noi,Defensive Rebound,24,30
+3:06,West Virginia,Chase Harler,Foul,24,30
+3:06,West Virginia,None,None,24,30
+3:06,TCU,RJ Nembhard,Free Throw,25,30
+3:06,TCU,RJ Nembhard,Free Throw,26,30
+2:52,West Virginia,Lamont West,Jumper,26,32
+2:45,TCU,Desmond Bane,Layup,28,32
+2:19,West Virginia,Jermaine Haley,Missed Three Point Jumper,28,32
+2:19,TCU,JD Miller,Defensive Rebound,28,32
+2:08,TCU,RJ Nembhard,Missed Three Point Jumper,28,32
+2:08,TCU,Kouat Noi,Offensive Rebound,28,32
+2:03,TCU,Desmond Bane,Turnover,28,32
+1:42,West Virginia,Derek Culver,Turnover,28,32
+1:41,TCU,RJ Nembhard,Steal,28,32
+1:33,TCU,RJ Nembhard,Missed Three Point Jumper,28,32
+1:33,West Virginia,Jermaine Haley,Defensive Rebound,28,32
+1:25,West Virginia,Taevon Horton,Jumper,28,34
+1:18,TCU,Desmond Bane,Missed Layup,28,34
+1:18,West Virginia,Chase Harler,Defensive Rebound,28,34
+1:12,West Virginia,Taevon Horton,Missed Three Point Jumper,28,34
+1:12,TCU,Desmond Bane,Defensive Rebound,28,34
+1:03,TCU,JD Miller,Dunk,30,34
+0:56,West Virginia,None,None,30,34
+0:43,West Virginia,Lamont West,Layup,30,36
+0:43,TCU,JD Miller,Foul,30,36
+0:43,West Virginia,Lamont West,Missed Free Throw,30,36
+0:43,TCU,RJ Nembhard,Defensive Rebound,30,36
+0:30,TCU,None,None,30,36
+0:12,TCU,Alex Robinson,Missed Three Point Jumper,30,36
+0:12,West Virginia,Emmitt Matthews Jr.,Defensive Rebound,30,36
+0:08,TCU,JD Miller,Foul,30,36
+0:08,West Virginia,Emmitt Matthews Jr.,Missed Free Throw,30,36
+0:08,TCU,Kouat Noi,Defensive Rebound,30,36
+0:00,West Virginia,None,None,30,36
+19:49,TCU,Desmond Bane,Layup,32,36
+19:23,West Virginia,Lamont West,Jumper,32,38
+19:13,TCU,Kevin Samuel,Dunk,34,38
+18:42,West Virginia,Jordan McCabe,Turnover,34,38
+18:41,TCU,RJ Nembhard,Steal,34,38
+18:29,TCU,Kouat Noi,Three Point Jumper,37,38
+18:13,West Virginia,Lamont West,Missed Three Point Jumper,37,38
+18:13,TCU,Desmond Bane,Defensive Rebound,37,38
+18:06,West Virginia,Jermaine Haley,Foul,37,38
+18:06,TCU,Desmond Bane,Free Throw,38,38
+18:06,TCU,Desmond Bane,Free Throw,39,38
+17:47,West Virginia,Derek Culver,Missed Jumper,39,38
+17:47,TCU,RJ Nembhard,Defensive Rebound,39,38
+17:42,TCU,RJ Nembhard,Turnover,39,38
+17:41,West Virginia,Jordan McCabe,Steal,39,38
+17:34,West Virginia,Jermaine Haley,Layup,39,40
+17:16,TCU,Desmond Bane,Missed Jumper,39,40
+17:16,West Virginia,Derek Culver,Defensive Rebound,39,40
+16:57,West Virginia,Jermaine Haley,Missed Layup,39,40
+16:57,West Virginia,Derek Culver,Offensive Rebound,39,40
+16:56,West Virginia,Derek Culver,Layup,39,42
+16:44,TCU,Alex Robinson,Missed Three Point Jumper,39,42
+16:44,West Virginia,West Virginia,Defensive Rebound,39,42
+16:33,West Virginia,Emmitt Matthews Jr.,Missed Three Point Jumper,39,42
+16:33,TCU,Desmond Bane,Defensive Rebound,39,42
+16:24,TCU,Alex Robinson,Turnover,39,42
+16:01,West Virginia,Emmitt Matthews Jr.,Missed Layup,39,42
+16:01,TCU,Kevin Samuel,Defensive Rebound,39,42
+15:43,TCU,Alex Robinson,Missed Layup,39,42
+15:43,West Virginia,Derek Culver,Defensive Rebound,39,42
+15:37,West Virginia,Jordan McCabe,Turnover,39,42
+15:37,West Virginia,None,None,39,42
+15:13,TCU,JD Miller,Turnover,39,42
+14:59,West Virginia,Jermaine Haley,Turnover,39,42
+14:40,TCU,JD Miller,Three Point Jumper,42,42
+14:14,West Virginia,Jordan McCabe,Missed Three Point Jumper,42,42
+14:14,TCU,JD Miller,Defensive Rebound,42,42
+14:10,TCU,Alex Robinson,Turnover,42,42
+14:09,West Virginia,Jordan McCabe,Steal,42,42
+14:08,TCU,Kevin Samuel,Foul,42,42
+14:07,West Virginia,Jordan McCabe,Missed Jumper,42,42
+14:07,West Virginia,Derek Culver,Offensive Rebound,42,42
+14:05,West Virginia,Chase Harler,Missed Jumper,42,42
+14:05,West Virginia,Jermaine Haley,Offensive Rebound,42,42
+14:04,TCU,Kouat Noi,Foul,42,42
+14:02,West Virginia,Derek Culver,Turnover,42,42
+13:48,TCU,JD Miller,Missed Three Point Jumper,42,42
+13:48,West Virginia,Jordan McCabe,Defensive Rebound,42,42
+13:37,West Virginia,Jordan McCabe,Missed Layup,42,42
+13:37,TCU,Kevin Samuel,Block,42,42
+13:35,TCU,Alex Robinson,Defensive Rebound,42,42
+13:33,West Virginia,Jermaine Haley,Foul,42,42
+13:32,TCU,Alex Robinson,Turnover,42,42
+13:31,West Virginia,Jermaine Haley,Steal,42,42
+13:28,West Virginia,Lamont West,Turnover,42,42
+13:15,TCU,Kevin Samuel,Turnover,42,42
+13:15,TCU,Kevin Samuel,Foul,42,42
+13:02,West Virginia,Lamont West,Missed Jumper,42,42
+13:02,West Virginia,Derek Culver,Offensive Rebound,42,42
+13:00,West Virginia,Derek Culver,Layup,42,44
+13:00,TCU,Kouat Noi,Foul,42,44
+13:00,West Virginia,Derek Culver,Free Throw,42,45
+12:44,TCU,Kouat Noi,Three Point Jumper,45,45
+12:21,West Virginia,Chase Harler,Turnover,45,45
+12:20,TCU,Kendric Davis,Steal,45,45
+12:17,West Virginia,Jordan McCabe,Foul,45,45
+12:17,TCU,Alex Robinson,Missed Free Throw,45,45
+12:17,TCU,None,Team Rebound,45,45
+12:17,TCU,Alex Robinson,Missed Free Throw,45,45
+12:17,West Virginia,Derek Culver,Defensive Rebound,45,45
+12:11,West Virginia,Jordan McCabe,Missed Jumper,45,45
+12:11,TCU,Alex Robinson,Defensive Rebound,45,45
+12:04,TCU,Kendric Davis,Layup,47,45
+11:57,West Virginia,None,None,47,45
+11:33,West Virginia,Emmitt Matthews Jr.,Three Point Jumper,47,48
+11:10,TCU,Kouat Noi,Missed Three Point Jumper,47,48
+11:10,West Virginia,Derek Culver,Defensive Rebound,47,48
+10:56,West Virginia,Derek Culver,Jumper,47,50
+10:29,TCU,JD Miller,Jumper,49,50
+10:08,West Virginia,Jordan McCabe,Jumper,49,52
+9:52,TCU,Kendric Davis,Turnover,49,52
+9:52,TCU,Kendric Davis,Foul,49,52
+9:36,West Virginia,Jordan McCabe,Turnover,49,52
+9:34,TCU,Kouat Noi,Steal,49,52
+9:31,TCU,Kendric Davis,Missed Layup,49,52
+9:31,TCU,Desmond Bane,Offensive Rebound,49,52
+9:29,TCU,Desmond Bane,Missed Layup,49,52
+9:29,West Virginia,Jordan McCabe,Defensive Rebound,49,52
+9:22,West Virginia,Chase Harler,Three Point Jumper,49,55
+9:20,TCU,None,None,49,55
+9:10,West Virginia,Derek Culver,Foul,49,55
+9:10,TCU,JD Miller,Free Throw,50,55
+9:10,TCU,JD Miller,Free Throw,51,55
+8:45,West Virginia,Emmitt Matthews Jr.,Missed Three Point Jumper,51,55
+8:45,TCU,Alex Robinson,Defensive Rebound,51,55
+8:26,TCU,Alex Robinson,Missed Layup,51,55
+8:26,West Virginia,Emmitt Matthews Jr.,Defensive Rebound,51,55
+8:07,West Virginia,Derek Culver,Turnover,51,55
+8:06,TCU,Kouat Noi,Steal,51,55
+7:57,West Virginia,None,None,51,55
+7:57,TCU,JD Miller,Layup,53,55
+7:57,West Virginia,Derek Culver,Foul,53,55
+7:57,TCU,JD Miller,Free Throw,54,55
+7:38,West Virginia,Andrew Gordon,Missed Jumper,54,55
+7:38,West Virginia,Jermaine Haley,Offensive Rebound,54,55
+7:11,West Virginia,Jermaine Haley,Missed Three Point Jumper,54,55
+7:11,West Virginia,West Virginia,Offensive Rebound,54,55
+6:50,West Virginia,Andrew Gordon,Layup,54,57
+6:33,TCU,Alex Robinson,Jumper,56,57
+6:14,West Virginia,Jermaine Haley,Layup,56,59
+6:08,TCU,Desmond Bane,Dunk,58,59
+5:45,West Virginia,Andrew Gordon,Turnover,58,59
+5:45,TCU,Kouat Noi,Steal,58,59
+5:45,West Virginia,Jermaine Haley,Foul,58,59
+5:29,TCU,Alex Robinson,Missed Three Point Jumper,58,59
+5:29,TCU,Desmond Bane,Offensive Rebound,58,59
+4:59,TCU,RJ Nembhard,Missed Three Point Jumper,58,59
+4:59,West Virginia,Lamont West,Defensive Rebound,58,59
+4:29,West Virginia,Jordan McCabe,Missed Three Point Jumper,58,59
+4:29,West Virginia,Lamont West,Offensive Rebound,58,59
+4:26,West Virginia,Lamont West,Turnover,58,59
+4:10,TCU,Alex Robinson,Missed Jumper,58,59
+4:10,West Virginia,Derek Culver,Defensive Rebound,58,59
+3:48,West Virginia,Derek Culver,Layup,58,61
+3:32,TCU,Kouat Noi,Layup,60,61
+3:23,West Virginia,Chase Harler,Missed Three Point Jumper,60,61
+3:23,West Virginia,Derek Culver,Offensive Rebound,60,61
+3:21,West Virginia,Derek Culver,Layup,60,63
+3:03,TCU,RJ Nembhard,Layup,62,63
+2:42,West Virginia,Jordan McCabe,Three Point Jumper,62,66
+2:12,TCU,Kouat Noi,Turnover,62,66
+2:12,TCU,Kouat Noi,Foul,62,66
+2:12,West Virginia,None,None,62,66
+1:59,TCU,Alex Robinson,Foul,62,66
+1:59,West Virginia,Lamont West,Free Throw,62,67
+1:59,West Virginia,Lamont West,Free Throw,62,68
+1:45,TCU,Alex Robinson,Missed Layup,62,68
+1:45,West Virginia,Chase Harler,Block,62,68
+1:43,TCU,JD Miller,Offensive Rebound,62,68
+1:35,TCU,JD Miller,Missed Three Point Jumper,62,68
+1:35,West Virginia,Jordan McCabe,Defensive Rebound,62,68
+1:29,TCU,Alex Robinson,Foul,62,68
+1:29,West Virginia,Jordan McCabe,Missed Free Throw,62,68
+1:29,TCU,Kevin Samuel,Defensive Rebound,62,68
+1:25,TCU,JD Miller,Three Point Jumper,65,68
+1:20,TCU,None,None,65,68
+1:06,West Virginia,Lamont West,Missed Three Point Jumper,65,68
+1:06,TCU,Kouat Noi,Defensive Rebound,65,68
+0:58,TCU,Desmond Bane,Three Point Jumper,68,68
+0:48,West Virginia,None,None,68,68
+0:24,West Virginia,Jermaine Haley,Missed Layup,68,68
+0:24,TCU,Kevin Samuel,Block,68,68
+0:23,TCU,Kouat Noi,Defensive Rebound,68,68
+0:12,TCU,None,None,68,68
+0:00,TCU,Desmond Bane,Turnover,68,68
+0:00,West Virginia,Jordan McCabe,Steal,68,68
+0:00,West Virginia,Jordan McCabe,Missed Three Point Jumper,68,68
+0:00,TCU,TCU,Defensive Rebound,68,68
+0:00,West Virginia,None,None,68,68
+4:42,TCU,JD Miller,Layup,70,68
+4:21,West Virginia,Derek Culver,Missed Jumper,70,68
+4:21,West Virginia,West Virginia,Offensive Rebound,70,68
+4:07,West Virginia,Lamont West,Three Point Jumper,70,71
+3:53,TCU,JD Miller,Turnover,70,71
+3:52,West Virginia,Derek Culver,Steal,70,71
+3:31,TCU,Kevin Samuel,Foul,70,71
+3:31,West Virginia,Derek Culver,Free Throw,70,72
+3:31,West Virginia,Derek Culver,Free Throw,70,73
+3:21,TCU,Kendric Davis,Turnover,70,73
+3:20,West Virginia,Jordan McCabe,Steal,70,73
+3:08,West Virginia,Chase Harler,Missed Three Point Jumper,70,73
+3:08,TCU,Kouat Noi,Defensive Rebound,70,73
+2:55,TCU,Alex Robinson,Layup,72,73
+2:32,West Virginia,Jermaine Haley,Turnover,72,73
+2:19,TCU,Alex Robinson,Missed Layup,72,73
+2:19,TCU,JD Miller,Offensive Rebound,72,73
+2:13,TCU,Kouat Noi,Layup,74,73
+2:01,West Virginia,None,None,74,73
+2:01,West Virginia,None,None,74,73
+1:46,West Virginia,Derek Culver,Jumper,74,75
+1:29,West Virginia,Jordan McCabe,Foul,74,75
+1:29,TCU,Alex Robinson,Missed Free Throw,74,75
+1:29,TCU,None,Team Rebound,74,75
+1:29,TCU,Alex Robinson,Free Throw,75,75
+1:02,West Virginia,Emmitt Matthews Jr.,Missed Jumper,75,75
+1:02,West Virginia,Chase Harler,Offensive Rebound,75,75
+0:59,West Virginia,Chase Harler,Turnover,75,75
+0:58,TCU,RJ Nembhard,Steal,75,75
+0:55,TCU,RJ Nembhard,Layup,77,75
+0:55,West Virginia,None,None,77,75
+0:40,West Virginia,Chase Harler,Layup,77,77
+0:28,TCU,None,None,77,77
+0:14,TCU,Alex Robinson,Missed Jumper,77,77
+0:14,West Virginia,Chase Harler,Defensive Rebound,77,77
+0:03,West Virginia,Jordan McCabe,Missed Jumper,77,77
+0:03,West Virginia,Jordan McCabe,Offensive Rebound,77,77
+0:00,West Virginia,Jordan McCabe,Missed Three Point Jumper,77,77
+0:00,TCU,TCU,Defensive Rebound,77,77
+0:00,West Virginia,None,None,77,77
+4:48,West Virginia,Jermaine Haley,Turnover,77,77
+4:47,TCU,JD Miller,Steal,77,77
+4:46,TCU,Kouat Noi,Foul,77,77
+4:46,West Virginia,Jordan McCabe,Missed Free Throw,77,77
+4:46,West Virginia,None,Team Rebound,77,77
+4:46,West Virginia,Jordan McCabe,Missed Free Throw,77,77
+4:46,TCU,TCU,Defensive Rebound,77,77
+4:45,TCU,Kouat Noi,Turnover,77,77
+4:45,West Virginia,Jordan McCabe,Steal,77,77
+4:28,TCU,Kendric Davis,Missed Layup,77,77
+4:28,West Virginia,Chase Harler,Block,77,77
+4:28,West Virginia,West Virginia,Defensive Rebound,77,77
+4:06,West Virginia,Derek Culver,Missed Layup,77,77
+4:06,TCU,JD Miller,Block,77,77
+4:04,TCU,Desmond Bane,Defensive Rebound,77,77
+3:58,TCU,JD Miller,Foul,77,77
+3:58,TCU,Desmond Bane,Missed Layup,77,77
+3:58,West Virginia,Derek Culver,Defensive Rebound,77,77
+3:58,West Virginia,Derek Culver,Missed Free Throw,77,77
+3:58,West Virginia,None,Team Rebound,77,77
+3:58,West Virginia,Derek Culver,Free Throw,77,78
+3:47,TCU,Alex Robinson,Turnover,77,78
+3:37,TCU,Alex Robinson,Foul,77,78
+3:37,West Virginia,Jordan McCabe,Free Throw,77,79
+3:18,TCU,JD Miller,Jumper,79,79
+2:57,West Virginia,Jordan McCabe,Three Point Jumper,79,82
+2:38,TCU,JD Miller,Layup,81,82
+2:24,West Virginia,Jordan McCabe,Missed Jumper,81,82
+2:24,TCU,Alex Robinson,Defensive Rebound,81,82
+2:12,TCU,JD Miller,Three Point Jumper,84,82
+1:56,West Virginia,None,None,84,82
+1:45,TCU,Kendric Davis,Foul,84,82
+1:45,West Virginia,Jordan McCabe,Free Throw,84,83
+1:45,West Virginia,Jordan McCabe,Free Throw,84,84
+1:26,TCU,JD Miller,Turnover,84,84
+1:07,West Virginia,Derek Culver,Turnover,84,84
+1:07,West Virginia,Derek Culver,Foul,84,84
+0:58,West Virginia,Lamont West,Foul,84,84
+0:58,TCU,RJ Nembhard,Missed Free Throw,84,84
+0:58,TCU,None,Team Rebound,84,84
+0:58,TCU,RJ Nembhard,Free Throw,85,84
+0:46,TCU,RJ Nembhard,Foul,85,84
+0:46,West Virginia,Jermaine Haley,Free Throw,85,85
+0:46,West Virginia,Jermaine Haley,Free Throw,85,86
+0:37,West Virginia,Jordan McCabe,Layup,85,88
+0:34,TCU,JD Miller,Missed Three Point Jumper,85,88
+0:34,TCU,Desmond Bane,Offensive Rebound,85,88
+0:29,TCU,RJ Nembhard,Three Point Jumper,88,88
+0:22,West Virginia,None,None,88,88
+0:05,West Virginia,Derek Culver,Turnover,88,88
+0:05,TCU,Desmond Bane,Steal,88,88
+0:05,TCU,None,None,88,88
+0:04,TCU,JD Miller,Turnover,88,88
+0:00,West Virginia,Chase Harler,Missed Jumper,88,88
+0:00,West Virginia,Derek Culver,Offensive Rebound,88,88
+0:00,West Virginia,Derek Culver,Missed Layup,88,88
+0:00,TCU,TCU,Defensive Rebound,88,88
+0:00,West Virginia,None,None,88,88
+4:44,West Virginia,Jordan McCabe,Jumper,88,90
+4:18,TCU,Desmond Bane,Jumper,90,90
+4:05,West Virginia,Derek Culver,Turnover,90,90
+4:04,TCU,Desmond Bane,Steal,90,90
+3:44,West Virginia,Derek Culver,Foul,90,90
+3:44,TCU,Alex Robinson,Missed Free Throw,90,90
+3:44,TCU,None,Team Rebound,90,90
+3:44,TCU,Alex Robinson,Free Throw,91,90
+3:30,West Virginia,Lamont West,Missed Three Point Jumper,91,90
+3:30,TCU,Kendric Davis,Defensive Rebound,91,90
+3:18,TCU,Desmond Bane,Missed Layup,91,90
+3:18,West Virginia,Jermaine Haley,Block,91,90
+3:18,TCU,TCU,Offensive Rebound,91,90
+3:08,TCU,Desmond Bane,Missed Three Point Jumper,91,90
+3:08,West Virginia,Derek Culver,Defensive Rebound,91,90
+2:59,West Virginia,Lamont West,Three Point Jumper,91,93
+2:47,TCU,Alex Robinson,Missed Three Point Jumper,91,93
+2:47,West Virginia,Jermaine Haley,Defensive Rebound,91,93
+2:18,West Virginia,Jermaine Haley,Missed Layup,91,93
+2:18,TCU,JD Miller,Block,91,93
+2:17,West Virginia,Jermaine Haley,Offensive Rebound,91,93
+2:15,West Virginia,Jermaine Haley,Layup,91,95
+2:02,TCU,RJ Nembhard,Missed Three Point Jumper,91,95
+2:02,West Virginia,Jermaine Haley,Defensive Rebound,91,95
+1:31,West Virginia,Chase Harler,Three Point Jumper,91,98
+1:16,TCU,RJ Nembhard,Missed Jumper,91,98
+1:16,West Virginia,None,Team Rebound,91,98
+1:14,TCU,Kendric Davis,Foul,91,98
+1:14,West Virginia,Jermaine Haley,Free Throw,91,99
+1:14,West Virginia,Jermaine Haley,Missed Free Throw,91,99
+1:14,TCU,RJ Nembhard,Defensive Rebound,91,99
+1:04,TCU,Alex Robinson,Turnover,91,99
+0:59,TCU,Desmond Bane,Foul,91,99
+0:59,West Virginia,Jermaine Haley,Free Throw,91,100
+0:59,West Virginia,Jermaine Haley,Missed Free Throw,91,100
+0:59,TCU,RJ Nembhard,Defensive Rebound,91,100
+0:53,TCU,RJ Nembhard,Three Point Jumper,94,100
+0:50,TCU,None,None,94,100
+0:46,TCU,RJ Nembhard,Foul,94,100
+0:46,West Virginia,Jordan McCabe,Free Throw,94,101
+0:46,West Virginia,Jordan McCabe,Free Throw,94,102
+0:36,TCU,Kendric Davis,Missed Layup,94,102
+0:36,West Virginia,Derek Culver,Defensive Rebound,94,102
+0:35,West Virginia,Derek Culver,Turnover,94,102
+0:35,TCU,Alex Robinson,Steal,94,102
+0:34,TCU,JD Miller,Turnover,94,102
+0:29,TCU,Desmond Bane,Foul,94,102
+0:29,West Virginia,Jordan McCabe,Free Throw,94,103
+0:29,West Virginia,Jordan McCabe,Missed Free Throw,94,103
+0:29,TCU,RJ Nembhard,Defensive Rebound,94,103
+0:23,TCU,Alex Robinson,Layup,96,103
+0:20,TCU,RJ Nembhard,Foul,96,103
+0:20,West Virginia,Jermaine Haley,Missed Free Throw,96,103
+0:20,West Virginia,None,Team Rebound,96,103
+0:20,West Virginia,Jermaine Haley,Free Throw,96,104
+0:13,TCU,JD Miller,Missed Three Point Jumper,96,104
+0:13,West Virginia,Derek Culver,Defensive Rebound,96,104
+0:00,West Virginia,None,None,96,104

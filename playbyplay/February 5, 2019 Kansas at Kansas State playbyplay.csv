@@ -1,0 +1,344 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Kansas,None,None,0,0
+19:42,Kansas,Ochai Agbaji,Turnover,0,0
+19:33,Kansas State,Kamau Stokes,Three Point Jumper,0,3
+19:16,Kansas,Devon Dotson,Turnover,0,3
+19:16,Kansas State,Kamau Stokes,Steal,0,3
+19:10,Kansas State,Kamau Stokes,Layup,0,5
+18:41,Kansas,Ochai Agbaji,Missed Three Point Jumper,0,5
+18:41,Kansas,Kansas,Offensive Rebound,0,5
+18:27,Kansas State,Makol Mawien,Foul,0,5
+18:27,Kansas,Dedric Lawson,Missed Free Throw,0,5
+18:27,Kansas,None,Team Rebound,0,5
+18:27,Kansas,Dedric Lawson,Free Throw,1,5
+18:13,Kansas State,Dean Wade,Three Point Jumper,1,8
+17:58,Kansas State,Makol Mawien,Foul,1,8
+17:58,Kansas,Devon Dotson,Free Throw,2,8
+17:58,Kansas,Devon Dotson,Free Throw,3,8
+17:45,Kansas State,Levi Stockard III,Layup,3,10
+17:33,Kansas,Quentin Grimes,Three Point Jumper,6,10
+17:09,Kansas,Ochai Agbaji,Foul,6,10
+16:59,Kansas State,Kamau Stokes,Missed Three Point Jumper,6,10
+16:59,Kansas,Devon Dotson,Block,6,10
+16:59,Kansas State,Xavier Sneed,Offensive Rebound,6,10
+16:49,Kansas State,Xavier Sneed,Layup,6,12
+16:42,Kansas,Quentin Grimes,Turnover,6,12
+16:42,Kansas State,Kamau Stokes,Steal,6,12
+16:36,Kansas State,Barry Brown Jr.,Layup,6,14
+16:30,Kansas,None,None,6,14
+16:30,Kansas State,None,None,6,14
+16:13,Kansas,Charlie Moore,Turnover,6,14
+16:13,Kansas State,Levi Stockard III,Steal,6,14
+15:36,Kansas State,Xavier Sneed,Missed Jumper,6,14
+15:36,Kansas,Ochai Agbaji,Block,6,14
+15:36,Kansas,Kansas,Defensive Rebound,6,14
+15:21,Kansas,Devon Dotson,Missed Layup,6,14
+15:21,Kansas,Mitch Lightfoot,Offensive Rebound,6,14
+15:15,Kansas,Mitch Lightfoot,Layup,8,14
+14:53,Kansas State,Xavier Sneed,Three Point Jumper,8,17
+14:36,Kansas,Dedric Lawson,Foul,8,17
+14:36,Kansas,Dedric Lawson,Turnover,8,17
+14:26,Kansas State,Xavier Sneed,Missed Three Point Jumper,8,17
+14:26,Kansas State,Dean Wade,Offensive Rebound,8,17
+14:14,Kansas State,Levi Stockard III,Turnover,8,17
+14:14,Kansas,Charlie Moore,Steal,8,17
+13:56,Kansas,Devon Dotson,Layup,10,17
+13:35,Kansas State,Kamau Stokes,Missed Three Point Jumper,10,17
+13:35,Kansas State,Kansas State,Offensive Rebound,10,17
+13:21,Kansas State,Barry Brown Jr.,Missed Three Point Jumper,10,17
+13:21,Kansas State,Levi Stockard III,Offensive Rebound,10,17
+13:16,Kansas State,Levi Stockard III,Layup,10,19
+13:02,Kansas,Ochai Agbaji,Missed Jumper,10,19
+13:02,Kansas,Mitch Lightfoot,Offensive Rebound,10,19
+12:57,Kansas State,Mike McGuirl,Foul,10,19
+12:57,Kansas,Mitch Lightfoot,Free Throw,11,19
+12:57,Kansas,Mitch Lightfoot,Free Throw,12,19
+12:37,Kansas State,Barry Brown Jr.,Turnover,12,19
+12:37,Kansas,Devon Dotson,Steal,12,19
+12:32,Kansas,Devon Dotson,Layup,14,19
+12:13,Kansas State,Mike McGuirl,Missed Three Point Jumper,14,19
+12:13,Kansas,Mitch Lightfoot,Defensive Rebound,14,19
+12:00,Kansas,Devon Dotson,Missed Three Point Jumper,14,19
+12:00,Kansas,Dedric Lawson,Offensive Rebound,14,19
+11:50,Kansas,Dedric Lawson,Layup,16,19
+11:45,Kansas State,Cartier Diarra,Foul,16,19
+11:45,Kansas State,Cartier Diarra,Turnover,16,19
+11:45,Kansas State,None,None,16,19
+11:28,Kansas,Devon Dotson,Missed Jumper,16,19
+11:28,Kansas State,Barry Brown Jr.,Defensive Rebound,16,19
+11:19,Kansas State,Barry Brown Jr.,Layup,16,21
+11:19,Kansas,Quentin Grimes,Foul,16,21
+11:19,Kansas State,Barry Brown Jr.,Missed Free Throw,16,21
+11:19,Kansas,Mitch Lightfoot,Defensive Rebound,16,21
+11:01,Kansas State,Levi Stockard III,Foul,16,21
+11:01,Kansas,Ochai Agbaji,Missed Free Throw,16,21
+11:01,Kansas,None,Team Rebound,16,21
+11:01,Kansas,Ochai Agbaji,Missed Free Throw,16,21
+11:01,Kansas State,Barry Brown Jr.,Defensive Rebound,16,21
+10:40,Kansas State,Kamau Stokes,Three Point Jumper,16,24
+10:29,Kansas,Dedric Lawson,Missed Three Point Jumper,16,24
+10:29,Kansas,Mitch Lightfoot,Offensive Rebound,16,24
+10:23,Kansas,Mitch Lightfoot,Layup,18,24
+10:03,Kansas State,Xavier Sneed,Dunk,18,26
+9:36,Kansas,Dedric Lawson,Missed Jumper,18,26
+9:36,Kansas State,Cartier Diarra,Defensive Rebound,18,26
+9:28,Kansas State,Cartier Diarra,Foul,18,26
+9:28,Kansas State,Cartier Diarra,Turnover,18,26
+9:06,Kansas,Ochai Agbaji,Turnover,18,26
+9:06,Kansas State,Kamau Stokes,Steal,18,26
+8:50,Kansas State,Mike McGuirl,Missed Layup,18,26
+8:50,Kansas State,Dean Wade,Offensive Rebound,18,26
+8:44,Kansas State,Dean Wade,Missed Layup,18,26
+8:44,Kansas,Charlie Moore,Defensive Rebound,18,26
+8:34,Kansas,Charlie Moore,Three Point Jumper,21,26
+8:16,Kansas State,Xavier Sneed,Turnover,21,26
+8:16,Kansas,Charlie Moore,Steal,21,26
+8:07,Kansas,Ochai Agbaji,Dunk,23,26
+8:04,Kansas State,None,None,23,26
+8:04,Kansas State,None,None,23,26
+7:49,Kansas State,Dean Wade,Missed Jumper,23,26
+7:49,Kansas,K.J. Lawson,Defensive Rebound,23,26
+7:31,Kansas,Quentin Grimes,Foul,23,26
+7:31,Kansas,Quentin Grimes,Turnover,23,26
+7:20,Kansas State,Mike McGuirl,Missed Layup,23,26
+7:20,Kansas,Quentin Grimes,Defensive Rebound,23,26
+7:10,Kansas,Quentin Grimes,Three Point Jumper,26,26
+6:52,Kansas State,Barry Brown Jr.,Missed Three Point Jumper,26,26
+6:52,Kansas State,Mike McGuirl,Offensive Rebound,26,26
+6:48,Kansas,Devon Dotson,Foul,26,26
+6:40,Kansas State,Kamau Stokes,Missed Jumper,26,26
+6:40,Kansas,Kansas,Defensive Rebound,26,26
+6:24,Kansas,Quentin Grimes,Turnover,26,26
+6:24,Kansas State,Xavier Sneed,Steal,26,26
+6:06,Kansas,Ochai Agbaji,Foul,26,26
+5:58,Kansas State,Dean Wade,Missed Jumper,26,26
+5:58,Kansas,Ochai Agbaji,Defensive Rebound,26,26
+5:38,Kansas,Devon Dotson,Missed Jumper,26,26
+5:38,Kansas State,Xavier Sneed,Block,26,26
+5:38,Kansas,Kansas,Offensive Rebound,26,26
+5:28,Kansas,K.J. Lawson,Missed Three Point Jumper,26,26
+5:28,Kansas,Dedric Lawson,Offensive Rebound,26,26
+5:22,Kansas,Dedric Lawson,Turnover,26,26
+5:13,Kansas State,Kamau Stokes,Missed Three Point Jumper,26,26
+5:13,Kansas,Ochai Agbaji,Defensive Rebound,26,26
+5:03,Kansas,K.J. Lawson,Foul,26,26
+5:03,Kansas,K.J. Lawson,Turnover,26,26
+4:53,Kansas State,Dean Wade,Missed Jumper,26,26
+4:53,Kansas,Devon Dotson,Defensive Rebound,26,26
+4:42,Kansas,Charlie Moore,Three Point Jumper,29,26
+4:30,Kansas,Charlie Moore,Foul,29,26
+4:30,Kansas State,Kamau Stokes,Missed Free Throw,29,26
+4:30,Kansas State,Xavier Sneed,Offensive Rebound,29,26
+4:29,Kansas State,Xavier Sneed,Missed Dunk,29,26
+4:29,Kansas State,Kamau Stokes,Offensive Rebound,29,26
+4:29,Kansas State,None,None,29,26
+4:21,Kansas State,Xavier Sneed,Missed Jumper,29,26
+4:21,Kansas,Dedric Lawson,Defensive Rebound,29,26
+4:00,Kansas,Dedric Lawson,Missed Three Point Jumper,29,26
+4:00,Kansas State,Xavier Sneed,Defensive Rebound,29,26
+3:38,Kansas State,Barry Brown Jr.,Foul,29,26
+3:38,Kansas State,Barry Brown Jr.,Turnover,29,26
+3:38,Kansas State,None,None,29,26
+3:30,Kansas State,Levi Stockard III,Foul,29,26
+3:30,Kansas,Dedric Lawson,Free Throw,30,26
+3:30,Kansas,Dedric Lawson,Free Throw,31,26
+3:12,Kansas State,Xavier Sneed,Turnover,31,26
+3:12,Kansas,Ochai Agbaji,Steal,31,26
+2:48,Kansas,Dedric Lawson,Missed Layup,31,26
+2:48,Kansas State,Xavier Sneed,Defensive Rebound,31,26
+2:35,Kansas,Mitch Lightfoot,Foul,31,26
+2:35,Kansas State,Kamau Stokes,Missed Free Throw,31,26
+2:35,Kansas State,None,Team Rebound,31,26
+2:35,Kansas State,Kamau Stokes,Free Throw,31,27
+2:22,Kansas,Dedric Lawson,Missed Three Point Jumper,31,27
+2:22,Kansas,Ochai Agbaji,Offensive Rebound,31,27
+2:08,Kansas,Charlie Moore,Turnover,31,27
+1:47,Kansas State,Xavier Sneed,Missed Three Point Jumper,31,27
+1:47,Kansas,Dedric Lawson,Defensive Rebound,31,27
+1:32,Kansas State,Xavier Sneed,Foul,31,27
+1:32,Kansas,Dedric Lawson,Free Throw,32,27
+1:32,Kansas,Dedric Lawson,Free Throw,33,27
+1:12,Kansas State,Dean Wade,Turnover,33,27
+1:12,Kansas,Dedric Lawson,Steal,33,27
+1:00,Kansas,Devon Dotson,Missed Jumper,33,27
+1:00,Kansas State,Xavier Sneed,Defensive Rebound,33,27
+0:44,Kansas State,Mike McGuirl,Three Point Jumper,33,30
+0:09,Kansas,Dedric Lawson,Turnover,33,30
+0:02,Kansas State,Dean Wade,Missed Jumper,33,30
+0:02,Kansas State,Kansas State,Offensive Rebound,33,30
+0:00,Kansas State,None,None,33,30
+20:00,Kansas,None,None,33,30
+19:43,Kansas,Quentin Grimes,Turnover,33,30
+19:38,Kansas State,Dean Wade,Missed Layup,33,30
+19:38,Kansas,Dedric Lawson,Block,33,30
+19:38,Kansas,Dedric Lawson,Defensive Rebound,33,30
+19:26,Kansas,Charlie Moore,Missed Three Point Jumper,33,30
+19:26,Kansas State,Dean Wade,Defensive Rebound,33,30
+19:13,Kansas State,Xavier Sneed,Missed Three Point Jumper,33,30
+19:13,Kansas,Charlie Moore,Defensive Rebound,33,30
+19:09,Kansas,Charlie Moore,Layup,35,30
+19:09,Kansas State,Dean Wade,Missed Jumper,35,30
+19:09,Kansas,Dedric Lawson,Block,35,30
+19:09,Kansas State,Dean Wade,Offensive Rebound,35,30
+18:56,Kansas State,Dean Wade,Missed Jumper,35,30
+18:56,Kansas State,Dean Wade,Offensive Rebound,35,30
+18:50,Kansas State,Dean Wade,Layup,35,32
+18:39,Kansas,Devon Dotson,Turnover,35,32
+18:19,Kansas State,Kamau Stokes,Missed Three Point Jumper,35,32
+18:19,Kansas,Kansas,Defensive Rebound,35,32
+17:54,Kansas,Devon Dotson,Turnover,35,32
+17:54,Kansas State,Barry Brown Jr.,Steal,35,32
+17:44,Kansas,Charlie Moore,Foul,35,32
+17:40,Kansas State,Dean Wade,Jumper,35,34
+17:20,Kansas State,Makol Mawien,Foul,35,34
+17:20,Kansas,Devon Dotson,Free Throw,36,34
+17:20,Kansas,Devon Dotson,Missed Free Throw,36,34
+17:20,Kansas State,Makol Mawien,Defensive Rebound,36,34
+17:03,Kansas State,Barry Brown Jr.,Layup,36,36
+16:48,Kansas,Quentin Grimes,Missed Jumper,36,36
+16:48,Kansas State,Dean Wade,Defensive Rebound,36,36
+16:39,Kansas State,Barry Brown Jr.,Three Point Jumper,36,39
+16:22,Kansas,Dedric Lawson,Layup,38,39
+16:04,Kansas,Devon Dotson,Foul,38,39
+15:51,Kansas State,Cartier Diarra,Missed Jumper,38,39
+15:51,Kansas,Lagerald Vick,Defensive Rebound,38,39
+15:42,Kansas State,None,None,38,39
+15:39,Kansas,Dedric Lawson,Missed Jumper,38,39
+15:39,Kansas State,Barry Brown Jr.,Defensive Rebound,38,39
+15:30,Kansas State,Barry Brown Jr.,Turnover,38,39
+15:30,Kansas,Devon Dotson,Steal,38,39
+15:12,Kansas,Lagerald Vick,Turnover,38,39
+15:12,Kansas State,Barry Brown Jr.,Steal,38,39
+15:06,Kansas,Mitch Lightfoot,Foul,38,39
+15:06,Kansas State,Barry Brown Jr.,Free Throw,38,40
+15:06,Kansas State,Barry Brown Jr.,Free Throw,38,41
+14:48,Kansas,Lagerald Vick,Missed Three Point Jumper,38,41
+14:48,Kansas State,Dean Wade,Defensive Rebound,38,41
+14:33,Kansas State,Dean Wade,Jumper,38,43
+14:29,Kansas,None,None,38,43
+14:17,Kansas,Devon Dotson,Missed Jumper,38,43
+14:17,Kansas,Devon Dotson,Offensive Rebound,38,43
+14:10,Kansas,Ochai Agbaji,Missed Three Point Jumper,38,43
+14:10,Kansas State,Dean Wade,Defensive Rebound,38,43
+14:02,Kansas,Dedric Lawson,Foul,38,43
+14:02,Kansas State,Barry Brown Jr.,Missed Free Throw,38,43
+14:02,Kansas State,None,Team Rebound,38,43
+14:02,Kansas State,Barry Brown Jr.,Free Throw,38,44
+13:48,Kansas State,Levi Stockard III,Foul,38,44
+13:44,Kansas State,Levi Stockard III,Foul,38,44
+13:44,Kansas,Lagerald Vick,Free Throw,39,44
+13:44,Kansas,Lagerald Vick,Free Throw,40,44
+13:21,Kansas,Devon Dotson,Foul,40,44
+13:07,Kansas State,Kamau Stokes,Turnover,40,44
+13:07,Kansas,Lagerald Vick,Steal,40,44
+12:50,Kansas,Ochai Agbaji,Turnover,40,44
+12:34,Kansas State,Xavier Sneed,Three Point Jumper,40,47
+12:16,Kansas,Devon Dotson,Layup,42,47
+12:01,Kansas State,Cartier Diarra,Three Point Jumper,42,50
+11:45,Kansas,Lagerald Vick,Missed Three Point Jumper,42,50
+11:45,Kansas State,Dean Wade,Defensive Rebound,42,50
+11:39,Kansas State,Kamau Stokes,Turnover,42,50
+11:39,Kansas,Devon Dotson,Steal,42,50
+11:32,Kansas,Devon Dotson,Layup,44,50
+11:17,Kansas State,Barry Brown Jr.,Missed Jumper,44,50
+11:17,Kansas,Lagerald Vick,Defensive Rebound,44,50
+11:01,Kansas,Lagerald Vick,Turnover,44,50
+11:01,Kansas State,None,None,44,50
+10:43,Kansas State,Dean Wade,Jumper,44,52
+10:26,Kansas,Devon Dotson,Missed Jumper,44,52
+10:26,Kansas State,Kamau Stokes,Defensive Rebound,44,52
+10:04,Kansas State,Dean Wade,Turnover,44,52
+10:04,Kansas,Dedric Lawson,Steal,44,52
+9:56,Kansas,Ochai Agbaji,Layup,46,52
+9:42,Kansas State,Cartier Diarra,Missed Jumper,46,52
+9:42,Kansas,Ochai Agbaji,Defensive Rebound,46,52
+9:34,Kansas,Quentin Grimes,Layup,48,52
+9:01,Kansas State,Kamau Stokes,Missed Three Point Jumper,48,52
+9:01,Kansas,Devon Dotson,Defensive Rebound,48,52
+8:52,Kansas,Ochai Agbaji,Foul,48,52
+8:52,Kansas,Ochai Agbaji,Turnover,48,52
+8:39,Kansas State,Makol Mawien,Missed Jumper,48,52
+8:39,Kansas,Lagerald Vick,Defensive Rebound,48,52
+8:29,Kansas,Quentin Grimes,Turnover,48,52
+8:29,Kansas State,Makol Mawien,Steal,48,52
+8:03,Kansas,Dedric Lawson,Foul,48,52
+8:03,Kansas State,Barry Brown Jr.,Missed Free Throw,48,52
+8:03,Kansas State,None,Team Rebound,48,52
+8:03,Kansas State,Barry Brown Jr.,Free Throw,48,53
+7:48,Kansas,Dedric Lawson,Layup,50,53
+7:25,Kansas State,Barry Brown Jr.,Missed Three Point Jumper,50,53
+7:25,Kansas,Devon Dotson,Defensive Rebound,50,53
+7:15,Kansas,Dedric Lawson,Missed Layup,50,53
+7:15,Kansas,Dedric Lawson,Offensive Rebound,50,53
+7:09,Kansas,Dedric Lawson,Layup,52,53
+6:48,Kansas State,Mike McGuirl,Layup,52,55
+6:30,Kansas,Dedric Lawson,Missed Jumper,52,55
+6:30,Kansas State,Makol Mawien,Defensive Rebound,52,55
+6:26,Kansas,Quentin Grimes,Foul,52,55
+6:26,Kansas State,None,None,52,55
+6:26,Kansas State,Makol Mawien,Free Throw,52,56
+6:26,Kansas State,Makol Mawien,Missed Free Throw,52,56
+6:26,Kansas,Dedric Lawson,Defensive Rebound,52,56
+6:00,Kansas,Ochai Agbaji,Missed Jumper,52,56
+6:00,Kansas,Kansas,Offensive Rebound,52,56
+5:58,Kansas,Lagerald Vick,Jumper,54,56
+5:25,Kansas State,Barry Brown Jr.,Missed Three Point Jumper,54,56
+5:25,Kansas State,Xavier Sneed,Offensive Rebound,54,56
+5:22,Kansas,Devon Dotson,Foul,54,56
+5:22,Kansas State,Xavier Sneed,Missed Free Throw,54,56
+5:22,Kansas State,None,Team Rebound,54,56
+5:22,Kansas State,Xavier Sneed,Free Throw,54,57
+5:11,Kansas,Dedric Lawson,Turnover,54,57
+5:11,Kansas State,Cartier Diarra,Steal,54,57
+5:05,Kansas,Quentin Grimes,Foul,54,57
+5:05,Kansas State,Barry Brown Jr.,Free Throw,54,58
+5:05,Kansas State,Barry Brown Jr.,Missed Free Throw,54,58
+5:05,Kansas,Dedric Lawson,Defensive Rebound,54,58
+4:45,Kansas,Dedric Lawson,Layup,56,58
+4:18,Kansas State,Cartier Diarra,Three Point Jumper,56,61
+4:00,Kansas,Quentin Grimes,Missed Jumper,56,61
+4:00,Kansas State,Cartier Diarra,Defensive Rebound,56,61
+3:53,Kansas State,Barry Brown Jr.,Layup,56,63
+3:52,Kansas,None,None,56,63
+3:52,Kansas State,None,None,56,63
+3:40,Kansas,Lagerald Vick,Missed Three Point Jumper,56,63
+3:40,Kansas State,Barry Brown Jr.,Defensive Rebound,56,63
+3:19,Kansas,Dedric Lawson,Foul,56,63
+3:19,Kansas State,Dean Wade,Missed Free Throw,56,63
+3:19,Kansas State,None,Team Rebound,56,63
+3:19,Kansas State,Dean Wade,Free Throw,56,64
+3:00,Kansas,Charlie Moore,Missed Three Point Jumper,56,64
+3:00,Kansas State,Kamau Stokes,Defensive Rebound,56,64
+2:36,Kansas State,Dean Wade,Missed Jumper,56,64
+2:36,Kansas,Charlie Moore,Defensive Rebound,56,64
+2:29,Kansas,Lagerald Vick,Three Point Jumper,59,64
+2:10,Kansas State,None,None,59,64
+1:54,Kansas State,Dean Wade,Missed Three Point Jumper,59,64
+1:54,Kansas,Devon Dotson,Defensive Rebound,59,64
+1:42,Kansas,Devon Dotson,Layup,61,64
+1:15,Kansas State,Xavier Sneed,Three Point Jumper,61,67
+0:58,Kansas State,Dean Wade,Foul,61,67
+0:54,Kansas State,Cartier Diarra,Foul,61,67
+0:53,Kansas,Charlie Moore,Turnover,61,67
+0:53,Kansas State,Cartier Diarra,Steal,61,67
+0:48,Kansas State,Cartier Diarra,Dunk,61,69
+0:45,Kansas,Devon Dotson,Turnover,61,69
+0:45,Kansas State,Dean Wade,Steal,61,69
+0:32,Kansas,Devon Dotson,Foul,61,69
+0:32,Kansas State,Barry Brown Jr.,Free Throw,61,70
+0:32,Kansas State,Barry Brown Jr.,Free Throw,61,71
+0:32,Kansas State,None,None,61,71
+0:26,Kansas,Dedric Lawson,Three Point Jumper,64,71
+0:25,Kansas,None,None,64,71
+0:25,Kansas,K.J. Lawson,Foul,64,71
+0:25,Kansas State,Cartier Diarra,Free Throw,64,72
+0:25,Kansas State,Cartier Diarra,Free Throw,64,73
+0:21,Kansas State,Barry Brown Jr.,Foul,64,73
+0:17,Kansas,K.J. Lawson,Three Point Jumper,67,73
+0:15,Kansas,Garrett Luinstra,Foul,67,73
+0:15,Kansas State,Cartier Diarra,Free Throw,67,74
+0:15,Kansas State,Cartier Diarra,Missed Free Throw,67,74
+0:15,Kansas,Dedric Lawson,Defensive Rebound,67,74
+0:12,Kansas,Dedric Lawson,Missed Three Point Jumper,67,74
+0:12,Kansas State,Xavier Sneed,Defensive Rebound,67,74
+0:00,Kansas State,None,None,67,74

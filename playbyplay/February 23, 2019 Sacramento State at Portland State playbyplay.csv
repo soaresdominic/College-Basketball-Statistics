@@ -1,0 +1,341 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:27,Sacramento State,Calvin Martin,Foul,0,0
+19:27,Portland State,Sal Nuhu,Free Throw,0,1
+19:27,Portland State,Sal Nuhu,Free Throw,0,2
+19:18,Sacramento State,Marcus Graves,Missed Jumper,0,2
+19:18,Portland State,Jamie Orme,Block,0,2
+19:13,Portland State,Robert McCoy,Defensive Rebound,0,2
+19:03,Portland State,Derek Brown,Three Point Jumper,0,5
+18:39,Sacramento State,Bryce Fowler,Missed Jumper,0,5
+18:39,Portland State,Robert McCoy,Block,0,5
+18:38,Portland State,Sal Nuhu,Defensive Rebound,0,5
+18:30,Portland State,Derek Brown,Missed Three Point Jumper,0,5
+18:30,Sacramento State,Calvin Martin,Defensive Rebound,0,5
+18:19,Portland State,Robert McCoy,Foul,0,5
+18:06,Sacramento State,Marcus Graves,Missed Three Point Jumper,0,5
+18:06,Portland State,Sal Nuhu,Defensive Rebound,0,5
+17:50,Portland State,Holland Woods,Layup,0,7
+17:34,Sacramento State,Bryce Fowler,Three Point Jumper,3,7
+17:09,Sacramento State,Joshua Patton,Foul,3,7
+17:07,Portland State,Derek Brown,Missed Three Point Jumper,3,7
+17:07,Portland State,Sal Nuhu,Offensive Rebound,3,7
+16:55,Portland State,Holland Woods,Jumper,3,9
+16:22,Sacramento State,Calvin Martin,Dunk,5,9
+16:03,Portland State,Derek Brown,Foul,5,9
+16:03,Portland State,Derek Brown,Turnover,5,9
+15:36,Sacramento State,Joshua Patton,Jumper,7,9
+15:22,Portland State,Sal Nuhu,Missed Jumper,7,9
+15:22,Sacramento State,Bryce Fowler,Block,7,9
+15:20,Sacramento State,Calvin Martin,Defensive Rebound,7,9
+15:14,Sacramento State,Marcus Graves,Missed Jumper,7,9
+15:14,Portland State,Jamie Orme,Defensive Rebound,7,9
+14:57,Portland State,Holland Woods,Turnover,7,9
+14:55,Sacramento State,Bryce Fowler,Steal,7,9
+14:54,Portland State,Deante Strickland,Foul,7,9
+14:54,Portland State,None,None,7,9
+14:54,Sacramento State,Marcus Graves,Missed Free Throw,7,9
+14:54,Sacramento State,None,Team Rebound,7,9
+14:54,Sacramento State,Marcus Graves,Free Throw,8,9
+14:38,Portland State,Rashaad Goolsby,Turnover,8,9
+14:36,Sacramento State,Bryce Fowler,Steal,8,9
+14:33,Sacramento State,Bryce Fowler,Missed Jumper,8,9
+14:33,Portland State,Rashaad Goolsby,Block,8,9
+14:30,Sacramento State,Sacramento State,Offensive Rebound,8,9
+14:22,Sacramento State,Ethan Esposito,Layup,10,9
+14:08,Portland State,Michael Nuga,Foul,10,9
+14:08,Portland State,Michael Nuga,Turnover,10,9
+13:57,Sacramento State,Marcus Graves,Turnover,10,9
+13:43,Portland State,Deante Strickland,Three Point Jumper,10,12
+13:18,Sacramento State,Ethan Esposito,Missed Jumper,10,12
+13:18,Portland State,Brendan Rumel,Block,10,12
+13:16,Portland State,Rashaad Goolsby,Defensive Rebound,10,12
+13:11,Portland State,Holland Woods,Layup,10,14
+12:52,Sacramento State,Osi Nwachukwu,Missed Jumper,10,14
+12:52,Sacramento State,Ethan Esposito,Offensive Rebound,10,14
+12:45,Sacramento State,Ethan Esposito,Missed Jumper,10,14
+12:45,Portland State,Brendan Rumel,Block,10,14
+12:43,Portland State,Deante Strickland,Defensive Rebound,10,14
+12:35,Portland State,Deante Strickland,Layup,10,16
+12:07,Portland State,Brendan Rumel,Foul,10,16
+12:07,Sacramento State,Marcus Graves,Free Throw,11,16
+12:07,Sacramento State,Marcus Graves,Free Throw,12,16
+11:52,Portland State,Brendan Rumel,Dunk,12,18
+11:27,Sacramento State,Chibueze Jacobs,Dunk,14,18
+11:09,Portland State,Deante Strickland,Layup,14,20
+10:50,Sacramento State,Marcus Graves,Missed Three Point Jumper,14,20
+10:50,Sacramento State,Osi Nwachukwu,Offensive Rebound,14,20
+10:44,Sacramento State,Osi Nwachukwu,Missed Jumper,14,20
+10:44,Portland State,Rashaad Goolsby,Block,14,20
+10:42,Sacramento State,Chibueze Jacobs,Offensive Rebound,14,20
+10:38,Sacramento State,Osi Nwachukwu,Layup,16,20
+10:20,Portland State,Michael Nuga,Missed Jumper,16,20
+10:20,Sacramento State,Izayah Mauriohooho-Le'afa,Defensive Rebound,16,20
+10:08,Sacramento State,Joshua Patton,Jumper,18,20
+9:44,Sacramento State,Joshua Patton,Foul,18,20
+9:44,Portland State,None,None,18,20
+9:31,Portland State,Michael Mayhew,Missed Jumper,18,20
+9:31,Sacramento State,Bryce Fowler,Defensive Rebound,18,20
+8:59,Sacramento State,Ethan Esposito,Layup,20,20
+8:43,Portland State,Holland Woods,Missed Jumper,20,20
+8:43,Sacramento State,Izayah Mauriohooho-Le'afa,Defensive Rebound,20,20
+8:26,Sacramento State,Izayah Mauriohooho-Le'afa,Missed Jumper,20,20
+8:26,Portland State,Robert McCoy,Defensive Rebound,20,20
+8:01,Portland State,Holland Woods,Missed Jumper,20,20
+8:01,Sacramento State,Osi Nwachukwu,Block,20,20
+7:58,Sacramento State,Izayah Mauriohooho-Le'afa,Defensive Rebound,20,20
+7:44,Sacramento State,Bryce Fowler,Jumper,22,20
+7:20,Portland State,Michael Nuga,Missed Layup,22,20
+7:20,Sacramento State,Chibueze Jacobs,Defensive Rebound,22,20
+7:17,Portland State,None,None,22,20
+7:00,Sacramento State,Ethan Esposito,Jumper,24,20
+6:47,Sacramento State,Ethan Esposito,Foul,24,20
+6:45,Portland State,Sal Nuhu,Turnover,24,20
+6:43,Sacramento State,Osi Nwachukwu,Steal,24,20
+6:40,Sacramento State,Osi Nwachukwu,Layup,26,20
+6:16,Portland State,Jamie Orme,Missed Jumper,26,20
+6:16,Portland State,Rashaad Goolsby,Offensive Rebound,26,20
+6:14,Sacramento State,Bryce Fowler,Foul,26,20
+6:14,Portland State,Rashaad Goolsby,Missed Free Throw,26,20
+6:14,Portland State,None,Team Rebound,26,20
+6:14,Portland State,Rashaad Goolsby,Free Throw,26,21
+5:53,Sacramento State,Ethan Esposito,Missed Jumper,26,21
+5:53,Portland State,Sal Nuhu,Block,26,21
+5:50,Portland State,Holland Woods,Defensive Rebound,26,21
+5:46,Portland State,Deante Strickland,Missed Three Point Jumper,26,21
+5:46,Sacramento State,Sacramento State,Defensive Rebound,26,21
+5:44,Portland State,Jamie Orme,Foul,26,21
+5:31,Sacramento State,James Bridges,Missed Three Point Jumper,26,21
+5:31,Portland State,Jamie Orme,Defensive Rebound,26,21
+5:01,Portland State,Sal Nuhu,Missed Jumper,26,21
+5:01,Portland State,Jamie Orme,Offensive Rebound,26,21
+4:57,Portland State,Jamie Orme,Missed Jumper,26,21
+4:57,Portland State,Sal Nuhu,Offensive Rebound,26,21
+4:53,Portland State,Sal Nuhu,Layup,26,23
+4:47,Portland State,Deante Strickland,Foul,26,23
+4:47,Sacramento State,Marcus Graves,Free Throw,27,23
+4:47,Sacramento State,Marcus Graves,Missed Free Throw,27,23
+4:47,Portland State,Sal Nuhu,Defensive Rebound,27,23
+4:35,Portland State,Rashaad Goolsby,Missed Jumper,27,23
+4:35,Sacramento State,Osi Nwachukwu,Block,27,23
+4:33,Sacramento State,Osi Nwachukwu,Defensive Rebound,27,23
+4:10,Sacramento State,Marcus Graves,Turnover,27,23
+4:09,Portland State,Deante Strickland,Steal,27,23
+4:05,Portland State,Jamie Orme,Three Point Jumper,27,26
+3:53,Sacramento State,None,None,27,26
+3:41,Sacramento State,Izayah Mauriohooho-Le'afa,Turnover,27,26
+3:37,Portland State,Jamie Orme,Steal,27,26
+3:37,Portland State,Jamie Orme,Dunk,27,28
+3:37,Sacramento State,Izayah Mauriohooho-Le'afa,Foul,27,28
+3:37,Portland State,Jamie Orme,Free Throw,27,29
+3:08,Sacramento State,Chibueze Jacobs,Missed Jumper,27,29
+3:08,Portland State,Sal Nuhu,Defensive Rebound,27,29
+2:45,Portland State,Michael Nuga,Turnover,27,29
+2:43,Sacramento State,Marcus Graves,Steal,27,29
+2:34,Sacramento State,Marcus Graves,Missed Jumper,27,29
+2:34,Portland State,Jamie Orme,Defensive Rebound,27,29
+2:22,Portland State,Michael Nuga,Missed Three Point Jumper,27,29
+2:22,Sacramento State,Sacramento State,Defensive Rebound,27,29
+2:19,Portland State,Robert McCoy,Foul,27,29
+2:19,Sacramento State,Chibueze Jacobs,Free Throw,28,29
+2:19,Sacramento State,Chibueze Jacobs,Free Throw,29,29
+2:06,Portland State,Michael Nuga,Three Point Jumper,29,32
+1:45,Portland State,Jamie Orme,Foul,29,32
+1:45,Sacramento State,Ethan Esposito,Free Throw,30,32
+1:45,Sacramento State,Ethan Esposito,Free Throw,31,32
+1:20,Sacramento State,Joshua Patton,Foul,31,32
+1:20,Portland State,Sal Nuhu,Free Throw,31,33
+1:20,Portland State,Sal Nuhu,Free Throw,31,34
+0:55,Sacramento State,Marcus Graves,Missed Three Point Jumper,31,34
+0:55,Portland State,Sal Nuhu,Defensive Rebound,31,34
+0:47,Portland State,Holland Woods,Missed Layup,31,34
+0:47,Sacramento State,Bryce Fowler,Defensive Rebound,31,34
+0:31,Sacramento State,Chibueze Jacobs,Foul,31,34
+0:31,Sacramento State,Chibueze Jacobs,Turnover,31,34
+0:31,Portland State,None,None,31,34
+0:03,Sacramento State,Marcus Graves,Foul,31,34
+0:03,Portland State,Holland Woods,Missed Free Throw,31,34
+0:03,Portland State,None,Team Rebound,31,34
+0:03,Portland State,Holland Woods,Free Throw,31,35
+0:03,Portland State,Holland Woods,Free Throw,31,36
+0:00,Sacramento State,Marcus Graves,Missed Jumper,31,36
+0:00,Sacramento State,None,Team Rebound,31,36
+0:00,Portland State,None,None,31,36
+19:37,Sacramento State,Joshua Patton,Layup,33,36
+19:17,Portland State,Robert McCoy,Layup,33,38
+18:47,Sacramento State,Izayah Mauriohooho-Le'afa,Turnover,33,38
+18:46,Portland State,Sal Nuhu,Steal,33,38
+18:40,Portland State,Robert McCoy,Missed Three Point Jumper,33,38
+18:40,Sacramento State,Marcus Graves,Defensive Rebound,33,38
+18:14,Sacramento State,Izayah Mauriohooho-Le'afa,Missed Three Point Jumper,33,38
+18:14,Portland State,Robert McCoy,Defensive Rebound,33,38
+18:01,Portland State,Sal Nuhu,Turnover,33,38
+17:38,Sacramento State,Marcus Graves,Missed Layup,33,38
+17:38,Portland State,Sal Nuhu,Defensive Rebound,33,38
+17:34,Portland State,Sal Nuhu,Turnover,33,38
+17:32,Sacramento State,Marcus Graves,Steal,33,38
+17:25,Portland State,Robert McCoy,Foul,33,38
+17:25,Sacramento State,Joshua Patton,Missed Free Throw,33,38
+17:25,Sacramento State,None,Team Rebound,33,38
+17:25,Sacramento State,Joshua Patton,Missed Free Throw,33,38
+17:25,Portland State,Derek Brown,Defensive Rebound,33,38
+17:00,Portland State,Jamie Orme,Missed Three Point Jumper,33,38
+17:00,Portland State,Sal Nuhu,Offensive Rebound,33,38
+16:55,Portland State,Jamie Orme,Missed Layup,33,38
+16:55,Portland State,Robert McCoy,Offensive Rebound,33,38
+16:39,Portland State,Holland Woods,Missed Three Point Jumper,33,38
+16:39,Portland State,Derek Brown,Offensive Rebound,33,38
+16:31,Sacramento State,Chibueze Jacobs,Foul,33,38
+16:31,Portland State,Robert McCoy,Missed Free Throw,33,38
+16:31,Portland State,None,Team Rebound,33,38
+16:31,Portland State,Robert McCoy,Free Throw,33,39
+16:31,Portland State,Robert McCoy,Free Throw,33,40
+16:14,Portland State,Derek Brown,Foul,33,40
+16:05,Sacramento State,Marcus Graves,Missed Jumper,33,40
+16:05,Sacramento State,Joshua Patton,Offensive Rebound,33,40
+16:02,Sacramento State,Joshua Patton,Missed Jumper,33,40
+16:02,Portland State,Sal Nuhu,Block,33,40
+16:00,Portland State,Rashaad Goolsby,Defensive Rebound,33,40
+15:45,Portland State,Rashaad Goolsby,Jumper,33,42
+15:25,Sacramento State,Joshua Patton,Layup,35,42
+15:16,Portland State,Jamie Orme,Three Point Jumper,35,45
+15:07,Sacramento State,Bryce Fowler,Turnover,35,45
+15:06,Portland State,Jamie Orme,Steal,35,45
+14:58,Portland State,Rashaad Goolsby,Missed Jumper,35,45
+14:58,Sacramento State,Joshua Patton,Defensive Rebound,35,45
+14:51,Sacramento State,None,None,35,45
+14:45,Sacramento State,Bryce Fowler,Turnover,35,45
+14:43,Portland State,Holland Woods,Steal,35,45
+14:37,Sacramento State,Ethan Esposito,Foul,35,45
+14:37,Portland State,Rashaad Goolsby,Free Throw,35,46
+14:37,Portland State,Rashaad Goolsby,Free Throw,35,47
+14:17,Sacramento State,Bryce Fowler,Jumper,37,47
+13:44,Portland State,Holland Woods,Missed Layup,37,47
+13:44,Portland State,Brendan Rumel,Offensive Rebound,37,47
+13:41,Portland State,Brendan Rumel,Turnover,37,47
+13:39,Sacramento State,Bryce Fowler,Steal,37,47
+13:23,Sacramento State,Marcus Graves,Three Point Jumper,40,47
+12:59,Portland State,Rashaad Goolsby,Missed Jumper,40,47
+12:59,Sacramento State,Osi Nwachukwu,Defensive Rebound,40,47
+12:48,Sacramento State,Ethan Esposito,Layup,42,47
+12:48,Portland State,Michael Nuga,Foul,42,47
+12:48,Sacramento State,Ethan Esposito,Free Throw,43,47
+12:28,Portland State,Jamie Orme,Layup,43,49
+12:08,Sacramento State,Marcus Graves,Turnover,43,49
+12:06,Portland State,Deante Strickland,Steal,43,49
+12:02,Portland State,Sal Nuhu,Dunk,43,51
+11:42,Sacramento State,Ethan Esposito,Missed Jumper,43,51
+11:42,Portland State,Rashaad Goolsby,Defensive Rebound,43,51
+11:35,Portland State,Holland Woods,Missed Jumper,43,51
+11:35,Sacramento State,Bryce Fowler,Block,43,51
+11:35,Portland State,Portland State,Offensive Rebound,43,51
+11:35,Portland State,None,None,43,51
+11:23,Portland State,Holland Woods,Missed Jumper,43,51
+11:23,Sacramento State,Osi Nwachukwu,Defensive Rebound,43,51
+10:56,Sacramento State,Ethan Esposito,Missed Jumper,43,51
+10:56,Sacramento State,Joshua Patton,Offensive Rebound,43,51
+10:54,Portland State,Sal Nuhu,Foul,43,51
+10:36,Sacramento State,Marcus Graves,Missed Three Point Jumper,43,51
+10:36,Sacramento State,Marcus Graves,Offensive Rebound,43,51
+10:24,Portland State,Jamie Orme,Foul,43,51
+10:24,Sacramento State,Joshua Patton,Free Throw,44,51
+10:24,Sacramento State,Joshua Patton,Missed Free Throw,44,51
+10:24,Portland State,Sal Nuhu,Defensive Rebound,44,51
+10:03,Portland State,Sal Nuhu,Missed Jumper,44,51
+10:03,Sacramento State,Osi Nwachukwu,Defensive Rebound,44,51
+9:38,Portland State,Jamie Orme,Foul,44,51
+9:38,Sacramento State,Joshua Patton,Missed Free Throw,44,51
+9:38,Sacramento State,None,Team Rebound,44,51
+9:38,Sacramento State,Joshua Patton,Free Throw,45,51
+9:13,Portland State,Holland Woods,Missed Jumper,45,51
+9:13,Sacramento State,Joshua Patton,Block,45,51
+9:11,Sacramento State,Osi Nwachukwu,Defensive Rebound,45,51
+8:57,Sacramento State,Osi Nwachukwu,Missed Jumper,45,51
+8:57,Portland State,Deante Strickland,Defensive Rebound,45,51
+8:45,Portland State,Deante Strickland,Turnover,45,51
+8:44,Sacramento State,Chibueze Jacobs,Steal,45,51
+8:27,Sacramento State,Chibueze Jacobs,Missed Jumper,45,51
+8:27,Portland State,Portland State,Defensive Rebound,45,51
+8:22,Portland State,Michael Nuga,Turnover,45,51
+8:20,Sacramento State,Izayah Mauriohooho-Le'afa,Steal,45,51
+8:19,Sacramento State,Izayah Mauriohooho-Le'afa,Layup,47,51
+8:15,Sacramento State,Izayah Mauriohooho-Le'afa,Foul,47,51
+8:04,Portland State,Michael Nuga,Missed Three Point Jumper,47,51
+8:04,Portland State,Sal Nuhu,Offensive Rebound,47,51
+7:53,Portland State,Robert McCoy,Layup,47,53
+7:53,Sacramento State,Joshua Patton,Foul,47,53
+7:53,Portland State,None,None,47,53
+7:53,Portland State,Robert McCoy,Missed Free Throw,47,53
+7:53,Portland State,Deante Strickland,Offensive Rebound,47,53
+7:24,Portland State,Sal Nuhu,Jumper,47,55
+6:52,Portland State,Deante Strickland,Foul,47,55
+6:52,Sacramento State,Bryce Fowler,Free Throw,48,55
+6:52,Sacramento State,Bryce Fowler,Free Throw,49,55
+6:35,Portland State,Sal Nuhu,Missed Jumper,49,55
+6:35,Sacramento State,Joshua Patton,Block,49,55
+6:33,Sacramento State,Izayah Mauriohooho-Le'afa,Defensive Rebound,49,55
+6:15,Sacramento State,Bryce Fowler,Missed Jumper,49,55
+6:15,Portland State,Michael Nuga,Defensive Rebound,49,55
+5:48,Portland State,Sal Nuhu,Missed Jumper,49,55
+5:48,Sacramento State,Sacramento State,Defensive Rebound,49,55
+5:33,Sacramento State,Izayah Mauriohooho-Le'afa,Missed Three Point Jumper,49,55
+5:33,Portland State,Sal Nuhu,Defensive Rebound,49,55
+5:09,Portland State,Deante Strickland,Missed Three Point Jumper,49,55
+5:09,Portland State,Robert McCoy,Offensive Rebound,49,55
+4:38,Portland State,Holland Woods,Missed Jumper,49,55
+4:38,Portland State,Deante Strickland,Offensive Rebound,49,55
+4:08,Portland State,Holland Woods,Three Point Jumper,49,58
+4:04,Portland State,None,None,49,58
+3:44,Sacramento State,Osi Nwachukwu,Missed Jumper,49,58
+3:44,Portland State,Robert McCoy,Block,49,58
+3:42,Portland State,Holland Woods,Defensive Rebound,49,58
+3:34,Portland State,Robert McCoy,Missed Three Point Jumper,49,58
+3:34,Sacramento State,Sacramento State,Defensive Rebound,49,58
+3:24,Sacramento State,Osi Nwachukwu,Turnover,49,58
+3:22,Portland State,Deante Strickland,Steal,49,58
+2:58,Portland State,Michael Nuga,Layup,49,60
+2:36,Sacramento State,Osi Nwachukwu,Layup,51,60
+2:19,Portland State,Holland Woods,Turnover,51,60
+2:18,Sacramento State,Joshua Patton,Steal,51,60
+2:16,Sacramento State,Marcus Graves,Turnover,51,60
+2:14,Portland State,Michael Nuga,Steal,51,60
+1:48,Portland State,Sal Nuhu,Missed Layup,51,60
+1:48,Sacramento State,Joshua Patton,Defensive Rebound,51,60
+1:37,Sacramento State,Marcus Graves,Missed Layup,51,60
+1:37,Sacramento State,Osi Nwachukwu,Offensive Rebound,51,60
+1:31,Sacramento State,Osi Nwachukwu,Missed Layup,51,60
+1:31,Sacramento State,Osi Nwachukwu,Offensive Rebound,51,60
+1:30,Portland State,Michael Nuga,Foul,51,60
+1:30,Sacramento State,Joshua Patton,Free Throw,52,60
+1:30,Sacramento State,None,None,52,60
+1:30,Sacramento State,Joshua Patton,Free Throw,53,60
+1:21,Sacramento State,Osi Nwachukwu,Foul,53,60
+1:13,Sacramento State,Marcus Graves,Foul,53,60
+0:57,Portland State,Holland Woods,Turnover,53,60
+0:56,Sacramento State,Izayah Mauriohooho-Le'afa,Steal,53,60
+0:54,Sacramento State,Marcus Graves,Layup,55,60
+0:28,Portland State,Rashaad Goolsby,Layup,55,62
+0:28,Sacramento State,Joshua Patton,Foul,55,62
+0:28,Portland State,Rashaad Goolsby,Missed Free Throw,55,62
+0:28,Sacramento State,Marcus Graves,Defensive Rebound,55,62
+0:23,Portland State,Deante Strickland,Foul,55,62
+0:23,Sacramento State,Marcus Graves,Free Throw,56,62
+0:23,Sacramento State,Marcus Graves,Free Throw,57,62
+0:23,Portland State,None,None,57,62
+0:22,Sacramento State,Bryce Fowler,Foul,57,62
+0:22,Portland State,Holland Woods,Missed Free Throw,57,62
+0:22,Sacramento State,Marcus Graves,Defensive Rebound,57,62
+0:15,Sacramento State,Osi Nwachukwu,Missed Layup,57,62
+0:15,Portland State,Sal Nuhu,Block,57,62
+0:14,Portland State,Michael Nuga,Defensive Rebound,57,62
+0:14,Sacramento State,Izayah Mauriohooho-Le'afa,Foul,57,62
+0:14,Portland State,Michael Nuga,Free Throw,57,63
+0:14,Portland State,Michael Nuga,Missed Free Throw,57,63
+0:14,Sacramento State,Marcus Graves,Defensive Rebound,57,63
+0:09,Sacramento State,Marcus Graves,Missed Three Point Jumper,57,63
+0:09,Portland State,Sal Nuhu,Defensive Rebound,57,63
+0:05,Sacramento State,Bryce Fowler,Foul,57,63
+0:05,Portland State,Sal Nuhu,Free Throw,57,64
+0:05,Portland State,Sal Nuhu,Free Throw,57,65
+0:01,Sacramento State,Marcus Graves,Missed Three Point Jumper,57,65
+0:01,Portland State,Sal Nuhu,Defensive Rebound,57,65
+0:00,Portland State,None,None,57,65

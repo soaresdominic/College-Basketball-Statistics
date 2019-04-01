@@ -1,0 +1,397 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,TCU,None,None,0,0
+19:46,TCU,Kevin Samuel,Missed Layup,0,0
+19:46,TCU,Kevin Samuel,Offensive Rebound,0,0
+19:41,TCU,Kevin Samuel,Layup,0,2
+19:28,Kansas,Ochai Agbaji,Missed Three Point Jumper,0,2
+19:28,TCU,TCU,Defensive Rebound,0,2
+18:58,TCU,Desmond Bane,Three Point Jumper,0,5
+18:48,Kansas,Devon Dotson,Missed Jumper,0,5
+18:48,TCU,Alex Robinson,Block,0,5
+18:48,TCU,Kouat Noi,Defensive Rebound,0,5
+18:32,TCU,JD Miller,Layup,0,7
+18:26,Kansas,None,None,0,7
+18:05,TCU,Alex Robinson,Foul,0,7
+18:05,Kansas,Ochai Agbaji,Free Throw,1,7
+18:05,Kansas,Ochai Agbaji,Free Throw,2,7
+17:47,TCU,Desmond Bane,Layup,2,9
+17:28,Kansas,Quentin Grimes,Missed Three Point Jumper,2,9
+17:28,Kansas,Dedric Lawson,Offensive Rebound,2,9
+17:22,Kansas,Devon Dotson,Layup,4,9
+16:43,TCU,TCU ,Turnover,4,9
+16:30,Kansas,Quentin Grimes,Turnover,4,9
+16:30,TCU,Alex Robinson,Steal,4,9
+16:21,TCU,JD Miller,Missed Three Point Jumper,4,9
+16:21,Kansas,Ochai Agbaji,Defensive Rebound,4,9
+16:13,TCU,Kevin Samuel,Foul,4,9
+16:08,Kansas,Dedric Lawson,Missed Jumper,4,9
+16:08,TCU,Desmond Bane,Defensive Rebound,4,9
+15:52,TCU,JD Miller,Missed Layup,4,9
+15:52,Kansas,Ochai Agbaji,Defensive Rebound,4,9
+15:44,Kansas,Dedric Lawson,Missed Jumper,4,9
+15:44,TCU,JD Miller,Defensive Rebound,4,9
+15:38,TCU,Kouat Noi,Missed Three Point Jumper,4,9
+15:38,Kansas,Devon Dotson,Defensive Rebound,4,9
+15:20,Kansas,Ochai Agbaji,Three Point Jumper,7,9
+14:58,TCU,Kouat Noi,Three Point Jumper,7,12
+14:47,TCU,JD Miller,Foul,7,12
+14:47,TCU,None,None,7,12
+14:47,Kansas,Devon Dotson,Free Throw,8,12
+14:47,Kansas,Devon Dotson,Missed Free Throw,8,12
+14:47,TCU,JD Miller,Defensive Rebound,8,12
+14:32,TCU,Kouat Noi,Missed Three Point Jumper,8,12
+14:32,Kansas,Dedric Lawson,Defensive Rebound,8,12
+14:17,Kansas,Dedric Lawson,Turnover,8,12
+14:17,TCU,Alex Robinson,Steal,8,12
+13:55,Kansas,Mitch Lightfoot,Foul,8,12
+13:54,TCU,Desmond Bane,Missed Jumper,8,12
+13:54,Kansas,Mitch Lightfoot,Defensive Rebound,8,12
+13:42,Kansas,Devon Dotson,Three Point Jumper,11,12
+13:18,TCU,Kouat Noi,Missed Three Point Jumper,11,12
+13:18,Kansas,Kansas,Defensive Rebound,11,12
+12:49,Kansas,Dedric Lawson,Three Point Jumper,14,12
+12:29,TCU,Alex Robinson,Turnover,14,12
+12:17,Kansas,Dedric Lawson,Foul,14,12
+12:17,Kansas,Dedric Lawson,Turnover,14,12
+12:03,TCU,Lat Mayen,Missed Three Point Jumper,14,12
+12:03,Kansas,Dedric Lawson,Defensive Rebound,14,12
+11:56,Kansas,Charlie Moore,Turnover,14,12
+11:53,TCU,None,None,14,12
+11:48,TCU,Lat Mayen,Three Point Jumper,14,15
+11:32,Kansas,Quentin Grimes,Missed Three Point Jumper,14,15
+11:32,TCU,Lat Mayen,Defensive Rebound,14,15
+11:23,TCU,Alex Robinson,Turnover,14,15
+11:23,Kansas,Ochai Agbaji,Steal,14,15
+11:19,Kansas,Ochai Agbaji,Dunk,16,15
+10:53,TCU,Alex Robinson,Missed Jumper,16,15
+10:53,Kansas,Kansas,Defensive Rebound,16,15
+10:32,Kansas,Devon Dotson,Three Point Jumper,19,15
+10:15,TCU,Kevin Samuel,Jumper,19,17
+10:04,Kansas,Devon Dotson,Missed Three Point Jumper,19,17
+10:04,TCU,Kouat Noi,Defensive Rebound,19,17
+9:57,TCU,Kouat Noi,Layup,19,19
+9:37,Kansas,Ochai Agbaji,Missed Jumper,19,19
+9:37,TCU,TCU,Defensive Rebound,19,19
+9:21,TCU,Kouat Noi,Missed Jumper,19,19
+9:21,Kansas,Dedric Lawson,Defensive Rebound,19,19
+9:13,Kansas,Dedric Lawson,Missed Three Point Jumper,19,19
+9:13,Kansas,K.J. Lawson,Offensive Rebound,19,19
+9:10,TCU,Kouat Noi,Foul,19,19
+9:10,Kansas,K.J. Lawson,Free Throw,20,19
+9:10,Kansas,K.J. Lawson,Free Throw,21,19
+8:54,TCU,Desmond Bane,Missed Jumper,21,19
+8:54,Kansas,David McCormack,Defensive Rebound,21,19
+8:46,Kansas,Ochai Agbaji,Jumper,23,19
+8:46,TCU,RJ Nembhard,Foul,23,19
+8:46,Kansas,Ochai Agbaji,Free Throw,24,19
+8:25,Kansas,Charlie Moore,Foul,24,19
+8:25,TCU,RJ Nembhard,Missed Free Throw,24,19
+8:25,TCU,None,Team Rebound,24,19
+8:25,TCU,RJ Nembhard,Free Throw,24,20
+8:12,Kansas,David McCormack,Missed Jumper,24,20
+8:12,TCU,Kevin Samuel,Block,24,20
+8:12,TCU,JD Miller,Defensive Rebound,24,20
+7:59,Kansas,Quentin Grimes,Foul,24,20
+7:56,TCU,None,None,24,20
+7:50,TCU,Desmond Bane,Turnover,24,20
+7:40,Kansas,Charlie Moore,Missed Three Point Jumper,24,20
+7:40,TCU,TCU,Defensive Rebound,24,20
+7:27,Kansas,None,None,24,20
+7:27,TCU,RJ Nembhard,Turnover,24,20
+7:27,Kansas,Charlie Moore,Steal,24,20
+7:01,Kansas,K.J. Lawson,Layup,26,20
+6:46,TCU,Kendric Davis,Layup,26,22
+6:36,Kansas,Devon Dotson,Turnover,26,22
+6:36,TCU,Kendric Davis,Steal,26,22
+6:31,TCU,Kendric Davis,Three Point Jumper,26,25
+6:16,Kansas,Charlie Moore,Missed Jumper,26,25
+6:16,TCU,Kendric Davis,Defensive Rebound,26,25
+6:07,TCU,Desmond Bane,Missed Layup,26,25
+6:07,Kansas,David McCormack,Block,26,25
+6:07,TCU,Kouat Noi,Offensive Rebound,26,25
+5:52,Kansas,Quentin Grimes,Foul,26,25
+5:52,TCU,Kendric Davis,Free Throw,26,26
+5:52,TCU,Kendric Davis,Free Throw,26,27
+5:38,Kansas,Ochai Agbaji,Missed Three Point Jumper,26,27
+5:38,Kansas,K.J. Lawson,Offensive Rebound,26,27
+5:33,Kansas,K.J. Lawson,Missed Jumper,26,27
+5:33,Kansas,Ochai Agbaji,Offensive Rebound,26,27
+5:28,Kansas,Charlie Moore,Turnover,26,27
+5:28,TCU,Kouat Noi,Steal,26,27
+4:59,TCU,Alex Robinson,Missed Three Point Jumper,26,27
+4:59,Kansas,Ochai Agbaji,Defensive Rebound,26,27
+4:49,Kansas,K.J. Lawson,Layup,28,27
+4:16,TCU,Alex Robinson,Missed Three Point Jumper,28,27
+4:16,Kansas,Ochai Agbaji,Defensive Rebound,28,27
+4:05,Kansas,K.J. Lawson,Missed Three Point Jumper,28,27
+4:05,Kansas,Dedric Lawson,Offensive Rebound,28,27
+3:51,Kansas,Charlie Moore,Missed Three Point Jumper,28,27
+3:51,TCU,Kevin Samuel,Defensive Rebound,28,27
+3:43,TCU,Alex Robinson,Three Point Jumper,28,30
+3:21,Kansas,Ochai Agbaji,Missed Three Point Jumper,28,30
+3:21,TCU,Kevin Samuel,Defensive Rebound,28,30
+3:15,TCU,Kouat Noi,Missed Three Point Jumper,28,30
+3:15,Kansas,Charlie Moore,Defensive Rebound,28,30
+3:03,Kansas,Dedric Lawson,Missed Three Point Jumper,28,30
+3:03,TCU,Kevin Samuel,Defensive Rebound,28,30
+2:53,TCU,Kouat Noi,Layup,28,32
+2:51,Kansas,None,None,28,32
+2:41,Kansas,Devon Dotson,Three Point Jumper,31,32
+2:24,TCU,Kouat Noi,Missed Three Point Jumper,31,32
+2:24,Kansas,Devon Dotson,Defensive Rebound,31,32
+2:03,Kansas,David McCormack,Missed Layup,31,32
+2:03,Kansas,Mitch Lightfoot,Offensive Rebound,31,32
+2:03,Kansas,None,None,33,32
+1:49,TCU,Kendric Davis,Missed Three Point Jumper,33,32
+1:49,Kansas,Ochai Agbaji,Defensive Rebound,33,32
+1:32,Kansas,Devon Dotson,Turnover,33,32
+1:04,TCU,Kendric Davis,Jumper,33,34
+0:48,Kansas,Devon Dotson,Jumper,35,34
+0:17,TCU,Alex Robinson,Three Point Jumper,35,37
+0:04,Kansas,Quentin Grimes,Jumper,37,37
+0:00,TCU,None,None,37,37
+20:00,TCU,None,None,37,37
+19:52,TCU,Desmond Bane,Turnover,37,37
+19:52,Kansas,Devon Dotson,Steal,37,37
+19:52,Kansas,Ochai Agbaji,Layup,39,37
+19:52,TCU,Alex Robinson,Foul,39,37
+19:52,Kansas,Ochai Agbaji,Free Throw,40,37
+19:41,TCU,Desmond Bane,Jumper,40,39
+19:16,Kansas,Dedric Lawson,Missed Layup,40,39
+19:16,TCU,JD Miller,Block,40,39
+19:16,TCU,Desmond Bane,Defensive Rebound,40,39
+19:16,TCU,Desmond Bane,Missed Layup,40,39
+19:16,Kansas,Mitch Lightfoot,Block,40,39
+19:16,TCU,TCU,Offensive Rebound,40,39
+19:03,TCU,Alex Robinson,Missed Jumper,40,39
+19:03,Kansas,Dedric Lawson,Defensive Rebound,40,39
+18:59,TCU,Desmond Bane,Foul,40,39
+18:59,Kansas,Ochai Agbaji,Free Throw,41,39
+18:59,Kansas,Ochai Agbaji,Free Throw,42,39
+18:23,TCU,Kevin Samuel,Missed Jumper,42,39
+18:23,Kansas,Kansas,Defensive Rebound,42,39
+18:23,TCU,Kevin Samuel,Foul,42,39
+18:09,Kansas,Dedric Lawson,Missed Jumper,42,39
+18:09,TCU,TCU,Defensive Rebound,42,39
+17:50,TCU,Desmond Bane,Jumper,42,41
+17:26,Kansas,Dedric Lawson,Missed Layup,42,41
+17:26,TCU,Alex Robinson,Defensive Rebound,42,41
+17:18,TCU,Kendric Davis,Missed Three Point Jumper,42,41
+17:18,Kansas,Quentin Grimes,Defensive Rebound,42,41
+17:06,Kansas,Dedric Lawson,Three Point Jumper,45,41
+16:34,TCU,Alex Robinson,Missed Three Point Jumper,45,41
+16:34,Kansas,Ochai Agbaji,Defensive Rebound,45,41
+16:26,Kansas,Devon Dotson,Missed Jumper,45,41
+16:26,TCU,Desmond Bane,Defensive Rebound,45,41
+16:19,TCU,Desmond Bane,Layup,45,43
+15:59,Kansas,Dedric Lawson,Missed Layup,45,43
+15:59,TCU,Desmond Bane,Defensive Rebound,45,43
+15:54,TCU,Desmond Bane,Turnover,45,43
+15:52,TCU,None,None,45,43
+15:38,Kansas,Quentin Grimes,Missed Three Point Jumper,45,43
+15:38,TCU,Alex Robinson,Defensive Rebound,45,43
+15:26,TCU,JD Miller,Missed Jumper,45,43
+15:26,Kansas,Mitch Lightfoot,Block,45,43
+15:26,TCU,JD Miller,Offensive Rebound,45,43
+15:17,TCU,JD Miller,Missed Layup,45,43
+15:17,Kansas,Mitch Lightfoot,Defensive Rebound,45,43
+15:08,Kansas,Quentin Grimes,Three Point Jumper,48,43
+15:02,TCU,Kouat Noi,Missed Jumper,48,43
+15:02,Kansas,Mitch Lightfoot,Block,48,43
+15:02,Kansas,Ochai Agbaji,Defensive Rebound,48,43
+14:53,Kansas,Devon Dotson,Missed Layup,48,43
+14:53,Kansas,Dedric Lawson,Offensive Rebound,48,43
+14:47,Kansas,Dedric Lawson,Layup,50,43
+14:32,TCU,None,None,50,43
+14:16,TCU,Kouat Noi,Missed Jumper,50,43
+14:16,Kansas,Kansas,Defensive Rebound,50,43
+14:14,Kansas,Devon Dotson,Three Point Jumper,53,43
+14:13,TCU,Kendric Davis,Turnover,53,43
+14:13,Kansas,Devon Dotson,Steal,53,43
+14:04,TCU,Kendric Davis,Foul,53,43
+13:35,Kansas,Devon Dotson,Missed Three Point Jumper,53,43
+13:35,TCU,Kouat Noi,Defensive Rebound,53,43
+13:27,TCU,Desmond Bane,Missed Layup,53,43
+13:27,Kansas,Ochai Agbaji,Defensive Rebound,53,43
+13:06,Kansas,Quentin Grimes,Missed Layup,53,43
+13:06,TCU,TCU,Defensive Rebound,53,43
+13:06,Kansas,Mitch Lightfoot,Foul,53,43
+12:55,TCU,Alex Robinson,Turnover,53,43
+12:55,Kansas,Mitch Lightfoot,Steal,53,43
+12:46,Kansas,Ochai Agbaji,Missed Three Point Jumper,53,43
+12:46,Kansas,Mitch Lightfoot,Offensive Rebound,53,43
+12:46,Kansas,None,None,53,43
+12:46,TCU,Alex Robinson,Defensive Rebound,53,43
+12:34,TCU,Kendric Davis,Missed Layup,53,43
+12:34,TCU,Kouat Noi,Offensive Rebound,53,43
+12:30,TCU,Desmond Bane,Layup,53,45
+12:05,Kansas,Mitch Lightfoot,Missed Three Point Jumper,53,45
+12:05,TCU,Alex Robinson,Defensive Rebound,53,45
+11:59,Kansas,Devon Dotson,Foul,53,45
+11:54,TCU,None,None,53,45
+11:44,TCU,Kouat Noi,Layup,53,47
+11:26,TCU,Kevin Samuel,Foul,53,47
+11:23,Kansas,Ochai Agbaji,Dunk,55,47
+11:07,TCU,JD Miller,Missed Three Point Jumper,55,47
+11:07,Kansas,Devon Dotson,Defensive Rebound,55,47
+10:59,Kansas,Quentin Grimes,Missed Three Point Jumper,55,47
+10:59,TCU,JD Miller,Defensive Rebound,55,47
+10:53,TCU,JD Miller,Dunk,55,49
+10:26,Kansas,Dedric Lawson,Missed Jumper,55,49
+10:26,Kansas,Dedric Lawson,Offensive Rebound,55,49
+10:23,Kansas,Dedric Lawson,Layup,57,49
+10:04,Kansas,Dedric Lawson,Foul,57,49
+10:00,TCU,Desmond Bane,Missed Jumper,57,49
+10:00,TCU,JD Miller,Offensive Rebound,57,49
+9:55,Kansas,David McCormack,Foul,57,49
+9:53,TCU,Alex Robinson,Missed Jumper,57,49
+9:53,Kansas,Devon Dotson,Defensive Rebound,57,49
+9:32,TCU,Lat Mayen,Foul,57,49
+9:32,Kansas,David McCormack,Free Throw,58,49
+9:32,Kansas,David McCormack,Free Throw,59,49
+9:20,TCU,Alex Robinson,Turnover,59,49
+9:09,Kansas,David McCormack,Layup,61,49
+8:43,TCU,Alex Robinson,Missed Jumper,61,49
+8:43,TCU,TCU,Offensive Rebound,61,49
+8:12,TCU,Desmond Bane,Three Point Jumper,61,52
+7:49,Kansas,Ochai Agbaji,Turnover,61,52
+7:49,TCU,None,None,61,52
+7:41,TCU,Lat Mayen,Missed Three Point Jumper,61,52
+7:41,TCU,Kouat Noi,Offensive Rebound,61,52
+7:33,TCU,Kouat Noi,Missed Three Point Jumper,61,52
+7:33,Kansas,Devon Dotson,Defensive Rebound,61,52
+7:11,Kansas,Dedric Lawson,Foul,61,52
+7:11,Kansas,Dedric Lawson,Turnover,61,52
+7:00,TCU,Kevin Samuel,Turnover,61,52
+6:41,Kansas,Devon Dotson,Layup,63,52
+6:28,Kansas,Quentin Grimes,Foul,63,52
+6:28,TCU,Alex Robinson,Free Throw,63,53
+6:28,TCU,Alex Robinson,Free Throw,63,54
+6:13,Kansas,Dedric Lawson,Turnover,63,54
+6:04,TCU,Kouat Noi,Missed Three Point Jumper,63,54
+6:04,TCU,Desmond Bane,Offensive Rebound,63,54
+5:52,TCU,Alex Robinson,Missed Jumper,63,54
+5:52,Kansas,Devon Dotson,Defensive Rebound,63,54
+5:39,TCU,Kouat Noi,Foul,63,54
+5:39,Kansas,Mitch Lightfoot,Missed Free Throw,63,54
+5:39,TCU,Kendric Davis,Defensive Rebound,63,54
+5:39,TCU,Desmond Bane,Layup,63,56
+5:25,Kansas,Dedric Lawson,Missed Three Point Jumper,63,56
+5:25,TCU,Kendric Davis,Defensive Rebound,63,56
+5:18,TCU,Kendric Davis,Missed Layup,63,56
+5:18,TCU,Kevin Samuel,Offensive Rebound,63,56
+5:18,Kansas,Dedric Lawson,Foul,63,56
+5:18,TCU,Kevin Samuel,Missed Free Throw,63,56
+5:18,TCU,None,Team Rebound,63,56
+5:18,TCU,Kevin Samuel,Missed Free Throw,63,56
+5:18,Kansas,Ochai Agbaji,Defensive Rebound,63,56
+5:03,Kansas,Quentin Grimes,Missed Layup,63,56
+5:03,TCU,Kevin Samuel,Block,63,56
+5:03,Kansas,Mitch Lightfoot,Offensive Rebound,63,56
+4:58,Kansas,Mitch Lightfoot,Dunk,65,56
+4:51,TCU,None,None,65,56
+4:22,Kansas,Mitch Lightfoot,Foul,65,56
+4:22,TCU,Kendric Davis,Free Throw,65,57
+4:22,TCU,Kendric Davis,Free Throw,65,58
+4:15,Kansas,Devon Dotson,Turnover,65,58
+4:15,TCU,Alex Robinson,Steal,65,58
+4:08,TCU,Kendric Davis,Layup,65,60
+4:08,Kansas,Mitch Lightfoot,Foul,65,60
+4:08,TCU,Kendric Davis,Missed Free Throw,65,60
+4:08,Kansas,Mitch Lightfoot,Defensive Rebound,65,60
+3:56,TCU,Alex Robinson,Foul,65,60
+3:56,TCU,None,None,65,60
+3:56,Kansas,Devon Dotson,Missed Free Throw,65,60
+3:56,TCU,Kendric Davis,Defensive Rebound,65,60
+3:46,TCU,Kouat Noi,Layup,65,62
+3:32,Kansas,Devon Dotson,Turnover,65,62
+3:32,TCU,Kendric Davis,Steal,65,62
+3:27,TCU,Alex Robinson,Layup,65,64
+3:22,Kansas,None,None,65,64
+3:11,Kansas,Dedric Lawson,Turnover,65,64
+3:11,TCU,Alex Robinson,Steal,65,64
+3:04,TCU,Kendric Davis,Turnover,65,64
+2:54,Kansas,Devon Dotson,Turnover,65,64
+2:54,TCU,Desmond Bane,Steal,65,64
+2:50,TCU,Alex Robinson,Three Point Jumper,65,67
+2:34,TCU,JD Miller,Foul,65,67
+2:34,Kansas,Dedric Lawson,Missed Free Throw,65,67
+2:34,TCU,Desmond Bane,Defensive Rebound,65,67
+2:10,Kansas,Mitch Lightfoot,Foul,65,67
+2:10,TCU,JD Miller,Free Throw,65,68
+2:10,TCU,JD Miller,Free Throw,65,69
+1:57,Kansas,Quentin Grimes,Missed Three Point Jumper,65,69
+1:57,TCU,JD Miller,Defensive Rebound,65,69
+1:26,TCU,Alex Robinson,Missed Three Point Jumper,65,69
+1:26,Kansas,Quentin Grimes,Defensive Rebound,65,69
+1:13,Kansas,Ochai Agbaji,Missed Jumper,65,69
+1:13,Kansas,Dedric Lawson,Offensive Rebound,65,69
+1:10,Kansas,Dedric Lawson,Layup,67,69
+1:05,Kansas,None,None,67,69
+0:42,TCU,Kendric Davis,Turnover,67,69
+0:24,Kansas,K.J. Lawson,Jumper,69,69
+0:00,TCU,None,None,69,69
+5:00,TCU,None,None,69,69
+4:55,TCU,Desmond Bane,Missed Jumper,69,69
+4:55,Kansas,K.J. Lawson,Defensive Rebound,69,69
+4:38,Kansas,Devon Dotson,Foul,69,69
+4:38,Kansas,Devon Dotson,Turnover,69,69
+4:28,TCU,Kouat Noi,Missed Three Point Jumper,69,69
+4:28,Kansas,Devon Dotson,Defensive Rebound,69,69
+4:17,Kansas,Quentin Grimes,Missed Three Point Jumper,69,69
+4:17,TCU,Kendric Davis,Defensive Rebound,69,69
+3:56,TCU,JD Miller,Missed Layup,69,69
+3:56,Kansas,Ochai Agbaji,Block,69,69
+3:56,Kansas,Devon Dotson,Defensive Rebound,69,69
+3:43,Kansas,Ochai Agbaji,Three Point Jumper,72,69
+3:08,TCU,Kendric Davis,Missed Layup,72,69
+3:08,Kansas,Dedric Lawson,Defensive Rebound,72,69
+2:43,Kansas,Dedric Lawson,Layup,74,69
+2:40,TCU,None,None,74,69
+2:27,TCU,Kouat Noi,Layup,74,71
+2:27,Kansas,Dedric Lawson,Foul,74,71
+2:27,TCU,Kouat Noi,Free Throw,74,72
+2:15,Kansas,Devon Dotson,Missed Three Point Jumper,74,72
+2:15,Kansas,David McCormack,Offensive Rebound,74,72
+2:12,TCU,Alex Robinson,Foul,74,72
+2:12,Kansas,David McCormack,Missed Free Throw,74,72
+2:12,Kansas,None,Team Rebound,74,72
+2:12,Kansas,David McCormack,Missed Free Throw,74,72
+2:09,TCU,JD Miller,Defensive Rebound,74,72
+1:58,Kansas,Quentin Grimes,Foul,74,72
+1:58,TCU,Kendric Davis,Missed Free Throw,74,72
+1:58,TCU,None,Team Rebound,74,72
+1:58,TCU,Kendric Davis,Free Throw,74,73
+1:44,Kansas,Quentin Grimes,Missed Three Point Jumper,74,73
+1:44,TCU,Desmond Bane,Defensive Rebound,74,73
+1:29,Kansas,David McCormack,Foul,74,73
+1:29,TCU,JD Miller,Missed Free Throw,74,73
+1:29,TCU,None,Team Rebound,74,73
+1:29,TCU,JD Miller,Free Throw,74,74
+1:10,Kansas,K.J. Lawson,Jumper,76,74
+0:56,Kansas,Quentin Grimes,Foul,76,74
+0:56,TCU,Kendric Davis,Free Throw,76,75
+0:56,TCU,Kendric Davis,Missed Free Throw,76,75
+0:56,Kansas,Ochai Agbaji,Defensive Rebound,76,75
+0:41,TCU,JD Miller,Foul,76,75
+0:41,Kansas,Devon Dotson,Free Throw,77,75
+0:41,Kansas,Devon Dotson,Free Throw,78,75
+0:32,Kansas,David McCormack,Foul,78,75
+0:32,TCU,JD Miller,Free Throw,78,76
+0:32,TCU,JD Miller,Missed Free Throw,78,76
+0:32,Kansas,David McCormack,Defensive Rebound,78,76
+0:24,TCU,Desmond Bane,Foul,78,76
+0:24,Kansas,Devon Dotson,Free Throw,79,76
+0:24,Kansas,Devon Dotson,Free Throw,80,76
+0:12,TCU,Alex Robinson,Missed Layup,80,76
+0:12,Kansas,Devon Dotson,Defensive Rebound,80,76
+0:11,TCU,Alex Robinson,Foul,80,76
+0:11,Kansas,Devon Dotson,Free Throw,81,76
+0:11,Kansas,Devon Dotson,Free Throw,82,76
+0:06,Kansas,David McCormack,Foul,82,76
+0:06,TCU,Kendric Davis,Free Throw,82,77
+0:06,TCU,Kendric Davis,Missed Free Throw,82,77
+0:01,TCU,Lat Mayen,Offensive Rebound,82,77
+0:01,TCU,Lat Mayen,Missed Jumper,82,77
+0:01,Kansas,Devon Dotson,Defensive Rebound,82,77
+0:00,TCU,None,None,82,77

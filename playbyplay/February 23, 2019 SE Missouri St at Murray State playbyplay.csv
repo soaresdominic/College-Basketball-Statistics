@@ -1,0 +1,316 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Murray State,None,None,0,0
+19:45,Murray State,Ja Morant,Missed Layup,0,0
+19:45,SE Missouri St,Sage Tolbert,Block,0,0
+19:45,SE Missouri St,Jonathan Dalton,Defensive Rebound,0,0
+19:24,SE Missouri St,Jonathan Dalton,Turnover,0,0
+19:24,Murray State,KJ Williams,Steal,0,0
+19:09,Murray State,Tevin Brown,Three Point Jumper,0,3
+18:50,SE Missouri St,Sage Tolbert,Layup,2,3
+18:50,Murray State,KJ Williams,Foul,2,3
+18:50,SE Missouri St,Sage Tolbert,Free Throw,3,3
+18:28,Murray State,Tevin Brown,Missed Three Point Jumper,3,3
+18:28,Murray State,Ja Morant,Offensive Rebound,3,3
+18:26,Murray State,Ja Morant,Layup,3,5
+18:26,SE Missouri St,Sage Tolbert,Foul,3,5
+18:26,Murray State,Ja Morant,Missed Free Throw,3,5
+18:26,SE Missouri St,Sage Tolbert,Defensive Rebound,3,5
+18:12,SE Missouri St,Gabe McGlothan,Layup,5,5
+18:01,Murray State,KJ Williams,Missed Layup,5,5
+18:01,SE Missouri St,Nygal Russell,Defensive Rebound,5,5
+17:57,Murray State,KJ Williams,Foul,5,5
+17:46,SE Missouri St,Jonathan Dalton,Missed Layup,5,5
+17:46,SE Missouri St,Jonathan Dalton,Offensive Rebound,5,5
+17:45,SE Missouri St,Jonathan Dalton,Missed Layup,5,5
+17:45,Murray State,Darnell Cowart,Defensive Rebound,5,5
+17:43,Murray State,Ja Morant,Layup,5,7
+17:43,SE Missouri St,Nygal Russell,Foul,5,7
+17:43,Murray State,Ja Morant,Free Throw,5,8
+17:30,SE Missouri St,Skyler Hogan,Turnover,5,8
+17:22,Murray State,Darnell Cowart,Jumper,5,10
+16:51,SE Missouri St,Skyler Hogan,Missed Three Point Jumper,5,10
+16:51,Murray State,Murray State,Defensive Rebound,5,10
+16:35,Murray State,Darnell Cowart,Missed Jumper,5,10
+16:35,SE Missouri St,Nygal Russell,Defensive Rebound,5,10
+16:26,SE Missouri St,Nygal Russell,Missed Layup,5,10
+16:26,SE Missouri St,Sage Tolbert,Offensive Rebound,5,10
+16:12,SE Missouri St,Nygal Russell,Missed Three Point Jumper,5,10
+16:12,Murray State,Tevin Brown,Defensive Rebound,5,10
+16:00,Murray State,Darnell Cowart,Turnover,5,10
+16:00,SE Missouri St,Skyler Hogan,Steal,5,10
+15:54,SE Missouri St,Skyler Hogan,Missed Layup,5,10
+15:54,Murray State,Devin Gilmore,Block,5,10
+15:54,Murray State,Shaq Buchanan,Defensive Rebound,5,10
+15:44,Murray State,None,None,5,10
+15:44,SE Missouri St,Nygal Russell,Foul,5,10
+15:44,Murray State,None,None,5,10
+15:42,Murray State,Tevin Brown,Three Point Jumper,5,13
+15:18,SE Missouri St,Isaiah Gable,Three Point Jumper,8,13
+14:41,Murray State,Ja Morant,Missed Three Point Jumper,8,13
+14:41,Murray State,Murray State,Offensive Rebound,8,13
+14:34,Murray State,Murray State ,Turnover,8,13
+14:26,SE Missouri St,Isaiah Gable,Turnover,8,13
+14:26,Murray State,Shaq Buchanan,Steal,8,13
+14:22,Murray State,Shaq Buchanan,Layup,8,15
+14:09,SE Missouri St,Isaiah Gable,Turnover,8,15
+14:09,Murray State,Tevin Brown,Steal,8,15
+14:04,Murray State,Shaq Buchanan,Missed Dunk,8,15
+14:04,SE Missouri St,Ledarrius Brewer,Defensive Rebound,8,15
+13:53,SE Missouri St,Skyler Hogan,Three Point Jumper,11,15
+13:42,Murray State,Tevin Brown,Three Point Jumper,11,18
+13:25,SE Missouri St,Isaiah Gable,Missed Three Point Jumper,11,18
+13:25,Murray State,Shaq Buchanan,Defensive Rebound,11,18
+13:14,Murray State,Ja Morant,Layup,11,20
+12:55,SE Missouri St,Gabe McGlothan,Missed Layup,11,20
+12:55,Murray State,Devin Gilmore,Defensive Rebound,11,20
+12:47,Murray State,Shaq Buchanan,Missed Jumper,11,20
+12:47,SE Missouri St,Gabe McGlothan,Defensive Rebound,11,20
+12:25,SE Missouri St,Ledarrius Brewer,Missed Three Point Jumper,11,20
+12:25,Murray State,Ja Morant,Defensive Rebound,11,20
+12:17,Murray State,Shaq Buchanan,Layup,11,22
+12:14,SE Missouri St,None,None,11,22
+12:01,SE Missouri St,Jonathan Dalton,Missed Three Point Jumper,11,22
+12:01,Murray State,Darnell Cowart,Defensive Rebound,11,22
+11:46,Murray State,Tevin Brown,Missed Three Point Jumper,11,22
+11:46,SE Missouri St,Ledarrius Brewer,Defensive Rebound,11,22
+11:34,SE Missouri St,Isaiah Gable,Missed Three Point Jumper,11,22
+11:34,Murray State,Darnell Cowart,Defensive Rebound,11,22
+11:16,Murray State,Darnell Cowart,Missed Layup,11,22
+11:16,SE Missouri St,Mark Laros,Defensive Rebound,11,22
+11:03,SE Missouri St,Ledarrius Brewer,Missed Jumper,11,22
+11:03,SE Missouri St,Mark Laros,Offensive Rebound,11,22
+10:43,SE Missouri St,Mark Laros,Turnover,11,22
+10:43,Murray State,Ja Morant,Steal,11,22
+10:36,Murray State,Shaq Buchanan,Three Point Jumper,11,25
+10:24,SE Missouri St,Ledarrius Brewer,Layup,13,25
+9:55,Murray State,Brion Sanchious,Turnover,13,25
+9:55,SE Missouri St,Ledarrius Brewer,Steal,13,25
+9:46,SE Missouri St,Isaiah Gable,Missed Three Point Jumper,13,25
+9:46,Murray State,Tevin Brown,Defensive Rebound,13,25
+9:22,Murray State,Darnell Cowart,Turnover,13,25
+9:12,Murray State,Jaiveon Eaves,Foul,13,25
+9:12,SE Missouri St,Sage Tolbert,Free Throw,14,25
+9:12,SE Missouri St,Sage Tolbert,Free Throw,15,25
+8:41,Murray State,Ja Morant,Turnover,15,25
+8:41,SE Missouri St,Gabe McGlothan,Steal,15,25
+8:41,Murray State,Brion Sanchious,Foul,15,25
+8:34,SE Missouri St,Gabe McGlothan,Three Point Jumper,18,25
+8:32,Murray State,None,None,18,25
+8:14,Murray State,Ja Morant,Layup,18,27
+8:14,SE Missouri St,Sage Tolbert,Foul,18,27
+8:14,Murray State,Ja Morant,Free Throw,18,28
+7:55,SE Missouri St,Oscar Kao,Missed Jumper,18,28
+7:55,Murray State,Devin Gilmore,Defensive Rebound,18,28
+7:48,Murray State,KJ Williams,Layup,18,30
+7:35,SE Missouri St,Isaiah Gable,Layup,20,30
+7:03,Murray State,Jaiveon Eaves,Missed Three Point Jumper,20,30
+7:03,Murray State,KJ Williams,Offensive Rebound,20,30
+7:03,Murray State,KJ Williams,Missed Layup,20,30
+7:03,SE Missouri St,Southeast Missouri State,Defensive Rebound,20,30
+7:03,Murray State,None,None,20,30
+6:33,SE Missouri St,Gabe McGlothan,Missed Jumper,20,30
+6:33,Murray State,Darnell Cowart,Defensive Rebound,20,30
+6:17,Murray State,Darnell Cowart,Layup,20,32
+6:05,SE Missouri St,Gabe McGlothan,Turnover,20,32
+5:53,Murray State,KJ Williams,Dunk,20,34
+5:32,SE Missouri St,Skyler Hogan,Missed Jumper,20,34
+5:32,Murray State,Murray State,Defensive Rebound,20,34
+5:16,Murray State,Tevin Brown,Three Point Jumper,20,37
+4:55,SE Missouri St,Jonathan Dalton,Missed Layup,20,37
+4:55,Murray State,Darnell Cowart,Defensive Rebound,20,37
+4:46,Murray State,Ja Morant,Layup,20,39
+4:25,SE Missouri St,Isaiah Gable,Three Point Jumper,23,39
+4:09,Murray State,Shaq Buchanan,Dunk,23,41
+3:46,SE Missouri St,Isaiah Gable,Missed Three Point Jumper,23,41
+3:46,SE Missouri St,Oscar Kao,Offensive Rebound,23,41
+3:38,SE Missouri St,Skyler Hogan,Missed Layup,23,41
+3:38,Murray State,Ja Morant,Block,23,41
+3:38,Murray State,Darnell Cowart,Defensive Rebound,23,41
+3:29,Murray State,Shaq Buchanan,Three Point Jumper,23,44
+3:13,SE Missouri St,Oscar Kao,Missed Jumper,23,44
+3:13,Murray State,Mike Davis,Defensive Rebound,23,44
+2:51,Murray State,None,None,23,44
+2:45,Murray State,Shaq Buchanan,Missed Three Point Jumper,23,44
+2:45,SE Missouri St,Gabe McGlothan,Defensive Rebound,23,44
+2:38,Murray State,Mike Davis,Foul,23,44
+2:07,SE Missouri St,Oscar Kao,Missed Jumper,23,44
+2:07,Murray State,Ja Morant,Block,23,44
+2:07,Murray State,Darnell Cowart,Defensive Rebound,23,44
+2:02,Murray State,Tevin Brown,Missed Three Point Jumper,23,44
+2:02,Murray State,Tevin Brown,Offensive Rebound,23,44
+1:53,Murray State,Tevin Brown,Missed Layup,23,44
+1:53,Murray State,Darnell Cowart,Offensive Rebound,23,44
+1:47,Murray State,Darnell Cowart,Layup,23,46
+1:39,Murray State,Mike Davis,Foul,23,46
+1:27,SE Missouri St,Gabe McGlothan,Missed Layup,23,46
+1:27,SE Missouri St,Gabe McGlothan,Offensive Rebound,23,46
+1:19,SE Missouri St,Gabe McGlothan,Missed Layup,23,46
+1:19,Murray State,Tevin Brown,Defensive Rebound,23,46
+1:01,SE Missouri St,Jonathan Dalton,Foul,23,46
+0:58,Murray State,Shaq Buchanan,Missed Three Point Jumper,23,46
+0:58,SE Missouri St,Ledarrius Brewer,Defensive Rebound,23,46
+0:48,SE Missouri St,Skyler Hogan,Missed Layup,23,46
+0:48,SE Missouri St,Ledarrius Brewer,Offensive Rebound,23,46
+0:40,SE Missouri St,Ledarrius Brewer,Missed Layup,23,46
+0:40,Murray State,Brion Sanchious,Defensive Rebound,23,46
+0:29,Murray State,Ja Morant,Jumper,23,48
+0:12,SE Missouri St,Ledarrius Brewer,Three Point Jumper,26,48
+0:02,Murray State,Tevin Brown,Three Point Jumper,26,51
+0:00,Murray State,None,None,26,51
+20:00,SE Missouri St,None,None,26,51
+19:46,SE Missouri St,Nygal Russell,Layup,28,51
+19:29,Murray State,Darnell Cowart,Missed Jumper,28,51
+19:29,Murray State,Ja Morant,Offensive Rebound,28,51
+19:15,Murray State,Ja Morant,Turnover,28,51
+19:15,SE Missouri St,Sage Tolbert,Steal,28,51
+19:07,SE Missouri St,Sage Tolbert,Missed Layup,28,51
+19:07,Murray State,KJ Williams,Defensive Rebound,28,51
+18:49,Murray State,Darnell Cowart,Missed Layup,28,51
+18:49,SE Missouri St,Sage Tolbert,Block,28,51
+18:49,Murray State,Murray State,Offensive Rebound,28,51
+18:46,SE Missouri St,Jonathan Dalton,Foul,28,51
+18:36,SE Missouri St,Sage Tolbert,Foul,28,51
+18:35,SE Missouri St,Jonathan Dalton,Foul,28,51
+18:29,Murray State,Darnell Cowart,Layup,28,53
+18:12,SE Missouri St,Sage Tolbert,Missed Layup,28,53
+18:12,SE Missouri St,Sage Tolbert,Offensive Rebound,28,53
+18:12,SE Missouri St,Sage Tolbert,Missed Layup,28,53
+18:12,SE Missouri St,Southeast Missouri State,Offensive Rebound,28,53
+18:04,SE Missouri St,Gabe McGlothan,Dunk,30,53
+17:42,Murray State,Ja Morant,Turnover,30,53
+17:42,SE Missouri St,Gabe McGlothan,Steal,30,53
+17:34,SE Missouri St,Ledarrius Brewer,Missed Three Point Jumper,30,53
+17:34,Murray State,Darnell Cowart,Defensive Rebound,30,53
+17:25,Murray State,Tevin Brown,Missed Three Point Jumper,30,53
+17:25,SE Missouri St,Gabe McGlothan,Defensive Rebound,30,53
+17:15,SE Missouri St,Nygal Russell,Layup,32,53
+17:14,Murray State,None,None,32,53
+17:14,SE Missouri St,None,None,32,53
+16:59,Murray State,Shaq Buchanan,Dunk,32,55
+16:44,SE Missouri St,Sage Tolbert,Turnover,32,55
+16:18,SE Missouri St,Jonathan Dalton,Foul,32,55
+16:14,Murray State,KJ Williams,Dunk,32,57
+15:58,SE Missouri St,Southeast Missouri State ,Turnover,32,57
+15:58,Murray State,None,None,32,57
+15:30,Murray State,Devin Gilmore,Dunk,32,59
+15:17,SE Missouri St,Ledarrius Brewer,Turnover,32,59
+15:03,Murray State,Devin Gilmore,Missed Layup,32,59
+15:03,SE Missouri St,Gabe McGlothan,Block,32,59
+15:03,Murray State,Murray State,Offensive Rebound,32,59
+14:53,Murray State,Ja Morant,Three Point Jumper,32,62
+14:33,SE Missouri St,Nygal Russell,Missed Three Point Jumper,32,62
+14:33,Murray State,Murray State,Defensive Rebound,32,62
+14:24,Murray State,Ja Morant,Missed Layup,32,62
+14:24,SE Missouri St,Ledarrius Brewer,Defensive Rebound,32,62
+14:20,SE Missouri St,Gabe McGlothan,Foul,32,62
+14:20,SE Missouri St,Gabe McGlothan,Turnover,32,62
+14:03,Murray State,Shaq Buchanan,Missed Three Point Jumper,32,62
+14:03,SE Missouri St,Ledarrius Brewer,Defensive Rebound,32,62
+13:51,SE Missouri St,Nygal Russell,Layup,34,62
+13:51,Murray State,Tevin Brown,Foul,34,62
+13:51,SE Missouri St,Nygal Russell,Free Throw,35,62
+13:35,Murray State,Ja Morant,Layup,35,64
+13:27,Murray State,Devin Gilmore,Foul,35,64
+13:23,Murray State,Brion Sanchious,Foul,35,64
+13:23,SE Missouri St,Gabe McGlothan,Free Throw,36,64
+13:23,SE Missouri St,Gabe McGlothan,Missed Free Throw,36,64
+13:23,Murray State,Brion Sanchious,Defensive Rebound,36,64
+13:00,Murray State,Shaq Buchanan,Dunk,36,66
+12:48,Murray State,Devin Gilmore,Foul,36,66
+12:48,SE Missouri St,Nygal Russell,Free Throw,37,66
+12:48,SE Missouri St,Nygal Russell,Free Throw,38,66
+12:41,SE Missouri St,Ledarrius Brewer,Foul,38,66
+12:22,Murray State,Ja Morant,Layup,38,68
+12:10,SE Missouri St,Ledarrius Brewer,Three Point Jumper,41,68
+11:52,SE Missouri St,Ledarrius Brewer,Foul,41,68
+11:52,Murray State,None,None,41,68
+11:52,Murray State,Ja Morant,Free Throw,41,69
+11:52,Murray State,Ja Morant,Free Throw,41,70
+11:30,SE Missouri St,Mark Laros,Missed Layup,41,70
+11:30,Murray State,Ja Morant,Block,41,70
+11:30,Murray State,Jaiveon Eaves,Defensive Rebound,41,70
+10:58,Murray State,Murray State ,Turnover,41,70
+10:42,SE Missouri St,Ledarrius Brewer,Missed Three Point Jumper,41,70
+10:42,Murray State,Murray State,Defensive Rebound,41,70
+10:26,Murray State,Mike Davis,Missed Three Point Jumper,41,70
+10:26,Murray State,Brion Sanchious,Offensive Rebound,41,70
+10:19,SE Missouri St,Nygal Russell,Foul,41,70
+10:19,Murray State,Brion Whitley,Free Throw,41,71
+10:19,Murray State,Brion Whitley,Free Throw,41,72
+10:19,Murray State,Brion Whitley,Free Throw,41,73
+9:58,SE Missouri St,Gabe McGlothan,Missed Three Point Jumper,41,73
+9:58,Murray State,Ja Morant,Defensive Rebound,41,73
+9:50,SE Missouri St,Gabe McGlothan,Foul,41,73
+9:50,Murray State,Brion Sanchious,Free Throw,41,74
+9:50,Murray State,Brion Sanchious,Free Throw,41,75
+9:29,SE Missouri St,Isaiah Gable,Layup,43,75
+9:29,Murray State,Mike Davis,Foul,43,75
+9:29,SE Missouri St,Isaiah Gable,Free Throw,44,75
+9:09,Murray State,Darnell Cowart,Missed Layup,44,75
+9:09,Murray State,Darnell Cowart,Offensive Rebound,44,75
+9:02,Murray State,Darnell Cowart,Layup,44,77
+8:45,SE Missouri St,Ledarrius Brewer,Turnover,44,77
+8:45,Murray State,Ja Morant,Steal,44,77
+8:34,Murray State,Jaiveon Eaves,Dunk,44,79
+8:15,SE Missouri St,Ledarrius Brewer,Foul,44,79
+8:15,SE Missouri St,Jonathan Dalton,Turnover,44,79
+8:08,SE Missouri St,Ledarrius Brewer,Foul,44,79
+8:08,Murray State,Tevin Brown,Free Throw,44,80
+8:08,Murray State,Tevin Brown,Free Throw,44,81
+7:58,SE Missouri St,Isaiah Gable,Jumper,46,81
+7:33,Murray State,Brion Whitley,Missed Layup,46,81
+7:33,SE Missouri St,Mark Laros,Defensive Rebound,46,81
+7:24,SE Missouri St,Oscar Kao,Three Point Jumper,49,81
+7:09,Murray State,None,None,49,81
+6:51,Murray State,Darnell Cowart,Missed Layup,49,81
+6:51,SE Missouri St,Mark Laros,Defensive Rebound,49,81
+6:33,SE Missouri St,Skyler Hogan,Layup,51,81
+6:09,Murray State,Mike Davis,Three Point Jumper,51,84
+5:50,SE Missouri St,Isaiah Gable,Three Point Jumper,54,84
+5:26,Murray State,Jaiveon Eaves,Missed Three Point Jumper,54,84
+5:26,Murray State,Darnell Cowart,Offensive Rebound,54,84
+5:19,Murray State,Darnell Cowart,Missed Layup,54,84
+5:19,Murray State,Darnell Cowart,Offensive Rebound,54,84
+5:15,Murray State,Darnell Cowart,Layup,54,86
+5:09,SE Missouri St,Oscar Kao,Turnover,54,86
+5:09,Murray State,Jaiveon Eaves,Steal,54,86
+5:00,Murray State,Tevin Brown,Layup,54,88
+4:43,Murray State,Mike Davis,Foul,54,88
+4:34,SE Missouri St,Sage Tolbert,Missed Jumper,54,88
+4:34,Murray State,Mike Davis,Defensive Rebound,54,88
+4:27,Murray State,Mike Davis,Missed Layup,54,88
+4:27,SE Missouri St,Sage Tolbert,Defensive Rebound,54,88
+4:21,Murray State,Tevin Brown,Foul,54,88
+4:21,SE Missouri St,Nygal Russell,Free Throw,55,88
+4:21,SE Missouri St,Nygal Russell,Missed Free Throw,55,88
+4:21,Murray State,KJ Williams,Defensive Rebound,55,88
+4:18,Murray State,Brion Whitley,Three Point Jumper,55,91
+3:59,SE Missouri St,Nygal Russell,Turnover,55,91
+3:59,Murray State,Jaiveon Eaves,Steal,55,91
+3:54,Murray State,Tevin Brown,Layup,55,93
+3:24,SE Missouri St,Khalil Cuffee,Jumper,57,93
+3:09,Murray State,Jaiveon Eaves,Missed Three Point Jumper,57,93
+3:09,Murray State,KJ Williams,Offensive Rebound,57,93
+3:03,Murray State,KJ Williams,Layup,57,95
+2:46,SE Missouri St,Khalil Cuffee,Missed Three Point Jumper,57,95
+2:46,SE Missouri St,Sage Tolbert,Offensive Rebound,57,95
+2:40,SE Missouri St,Skyler Hogan,Three Point Jumper,60,95
+2:37,Murray State,None,None,60,95
+2:25,Murray State,Devin Gilmore,Dunk,60,97
+2:15,Murray State,Mike Davis,Foul,60,97
+2:15,SE Missouri St,Khalil Cuffee,Free Throw,61,97
+2:15,SE Missouri St,Khalil Cuffee,Free Throw,62,97
+1:49,Murray State,Jalen Johnson,Missed Three Point Jumper,62,97
+1:49,Murray State,Devin Gilmore,Offensive Rebound,62,97
+1:33,Murray State,Jaiveon Eaves,Missed Layup,62,97
+1:33,SE Missouri St,Gabe McGlothan,Defensive Rebound,62,97
+1:24,SE Missouri St,Oscar Kao,Turnover,62,97
+1:24,Murray State,Brion Whitley,Steal,62,97
+1:17,Murray State,KJ Williams,Layup,62,99
+0:57,SE Missouri St,Nygal Russell,Layup,64,99
+0:29,Murray State,Jalen Johnson,Layup,64,101
+0:19,SE Missouri St,Gabe McGlothan,Turnover,64,101
+0:19,Murray State,Brion Whitley,Steal,64,101
+0:14,Murray State,KJ Williams,Dunk,64,103
+0:04,SE Missouri St,Khalil Cuffee,Three Point Jumper,67,103
+0:00,Murray State,None,None,67,103

@@ -1,0 +1,334 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:45,Georgetown,Jamorko Pickett,Missed Jumper,0,0
+19:45,Georgetown,Trey Mourning,Offensive Rebound,0,0
+19:43,Campbell,Cory Gensler,Foul,0,0
+19:43,Georgetown,Trey Mourning,Missed Free Throw,0,0
+19:43,Georgetown,None,Team Rebound,0,0
+19:43,Georgetown,Trey Mourning,Free Throw,0,1
+19:35,Georgetown,Jessie Govan,Foul,0,1
+19:18,Campbell,Isaac Chatman,Missed Layup,0,1
+19:18,Georgetown,Jamorko Pickett,Defensive Rebound,0,1
+19:09,Georgetown,Trey Mourning,Missed Jumper,0,1
+19:09,Campbell,Andrew Eudy,Defensive Rebound,0,1
+19:02,Campbell,Chris Clemons,Missed Three Point Jumper,0,1
+19:02,Georgetown,Jessie Govan,Defensive Rebound,0,1
+18:50,Georgetown,Matthew McClung,Three Point Jumper,0,4
+18:30,Campbell,Cory Gensler,Missed Layup,0,4
+18:30,Georgetown,Jamorko Pickett,Defensive Rebound,0,4
+18:15,Georgetown,Trey Mourning,Missed Jumper,0,4
+18:15,Campbell,Cory Gensler,Defensive Rebound,0,4
+18:02,Campbell,Isaac Chatman,Missed Three Point Jumper,0,4
+18:02,Georgetown,Jessie Govan,Defensive Rebound,0,4
+17:54,Campbell,Andrew Eudy,Foul,0,4
+17:54,Georgetown,Trey Mourning,Free Throw,0,5
+17:54,Georgetown,Trey Mourning,Free Throw,0,6
+17:41,Campbell,Andrew Eudy,Missed Three Point Jumper,0,6
+17:41,Georgetown,Jamorko Pickett,Defensive Rebound,0,6
+17:33,Georgetown,Jessie Govan,Dunk,0,8
+17:16,Campbell,Chris Clemons,Turnover,0,8
+17:15,Georgetown,Jessie Govan,Steal,0,8
+17:12,Georgetown,Jamorko Pickett,Dunk,0,10
+17:11,Campbell,None,None,0,10
+16:44,Campbell,Chris Clemons,Missed Jumper,0,10
+16:44,Campbell,Andrew Eudy,Offensive Rebound,0,10
+16:39,Campbell,Chris Clemons,Three Point Jumper,3,10
+16:19,Georgetown,James Akinjo,Turnover,3,10
+16:19,Campbell,Chris Clemons,Steal,3,10
+16:08,Campbell,Chris Clemons,Jumper,5,10
+15:55,Georgetown,James Akinjo,Jumper,5,12
+15:35,Campbell,Ja'Cor Nelson,Turnover,5,12
+15:35,Georgetown,Matthew McClung,Steal,5,12
+15:35,Georgetown,None,None,5,12
+15:17,Georgetown,Jamorko Pickett,Turnover,5,12
+15:17,Campbell,Trey Spencer,Steal,5,12
+15:08,Campbell,Brooks Cluxton,Layup,7,12
+14:53,Georgetown,Jamorko Pickett,Missed Three Point Jumper,7,12
+14:53,Georgetown,Georgetown,Offensive Rebound,7,12
+14:46,Georgetown,James Akinjo,Missed Jumper,7,12
+14:46,Campbell,Cory Gensler,Defensive Rebound,7,12
+14:18,Campbell,Trey Spencer,Three Point Jumper,10,12
+14:01,Georgetown,Trey Mourning,Layup,10,14
+13:30,Campbell,Chris Clemons,Layup,12,14
+13:06,Georgetown,Matthew McClung,Missed Jumper,12,14
+13:06,Georgetown,Trey Mourning,Offensive Rebound,12,14
+13:03,Campbell,Trey Spencer,Foul,12,14
+13:03,Georgetown,Trey Mourning,Missed Free Throw,12,14
+13:03,Georgetown,None,Team Rebound,12,14
+13:03,Georgetown,Trey Mourning,Free Throw,12,15
+12:44,Campbell,Isaac Chatman,Turnover,12,15
+12:36,Georgetown,Matthew McClung,Three Point Jumper,12,18
+12:11,Campbell,Isaac Chatman,Missed Layup,12,18
+12:11,Campbell,Brooks Cluxton,Offensive Rebound,12,18
+12:11,Georgetown,Josh LeBlanc,Foul,12,18
+12:11,Campbell,Brooks Cluxton,Missed Free Throw,12,18
+12:11,Campbell,None,Team Rebound,12,18
+12:11,Campbell,Brooks Cluxton,Missed Free Throw,12,18
+12:11,Georgetown,James Akinjo,Defensive Rebound,12,18
+12:06,Campbell,Ja'Cor Nelson,Foul,12,18
+11:54,Georgetown,Josh LeBlanc,Layup,12,20
+11:37,Campbell,Ja'Cor Nelson,Layup,14,20
+11:22,Georgetown,None,None,14,20
+11:20,Georgetown,Jessie Govan,Jumper,14,22
+10:58,Campbell,Chris Clemons,Missed Three Point Jumper,14,22
+10:58,Georgetown,Jahvon Blair,Defensive Rebound,14,22
+10:32,Georgetown,Jessie Govan,Jumper,14,24
+10:07,Campbell,Isaac Chatman,Missed Three Point Jumper,14,24
+10:07,Georgetown,Jahvon Blair,Defensive Rebound,14,24
+9:59,Georgetown,Jagan Mosely,Three Point Jumper,14,27
+9:50,Campbell,Isaac Chatman,Layup,16,27
+9:50,Georgetown,Josh LeBlanc,Foul,16,27
+9:50,Campbell,Isaac Chatman,Missed Free Throw,16,27
+9:50,Georgetown,Trey Mourning,Defensive Rebound,16,27
+9:25,Georgetown,Trey Mourning,Missed Layup,16,27
+9:25,Campbell,Andrew Eudy,Block,16,27
+9:24,Campbell,Chris Clemons,Defensive Rebound,16,27
+9:13,Campbell,Andrew Eudy,Missed Jumper,16,27
+9:13,Georgetown,Greg Malinowski,Defensive Rebound,16,27
+9:10,Campbell,Ja'Cor Nelson,Foul,16,27
+9:05,Georgetown,Trey Mourning,Missed Jumper,16,27
+9:05,Campbell,Ja'Cor Nelson,Defensive Rebound,16,27
+8:56,Campbell,Chris Clemons,Three Point Jumper,19,27
+8:26,Georgetown,Jahvon Blair,Three Point Jumper,19,30
+8:05,Campbell,Cory Gensler,Missed Three Point Jumper,19,30
+8:05,Georgetown,Jahvon Blair,Defensive Rebound,19,30
+7:59,Georgetown,Kaleb Johnson,Layup,19,32
+7:42,Campbell,Andrew Eudy,Missed Three Point Jumper,19,32
+7:42,Campbell,Campbell,Offensive Rebound,19,32
+7:38,Georgetown,None,None,19,32
+7:36,Campbell,Andrew Eudy,Foul,19,32
+7:36,Campbell,Andrew Eudy,Turnover,19,32
+7:17,Georgetown,Jahvon Blair,Missed Three Point Jumper,19,32
+7:17,Georgetown,Trey Mourning,Offensive Rebound,19,32
+7:14,Georgetown,Trey Mourning,Layup,19,34
+7:14,Campbell,Andrew Eudy,Foul,19,34
+7:14,Georgetown,Trey Mourning,Free Throw,19,35
+6:57,Georgetown,Greg Malinowski,Foul,19,35
+6:57,Campbell,Cory Gensler,Free Throw,20,35
+6:57,Campbell,Cory Gensler,Missed Free Throw,20,35
+6:57,Georgetown,Jahvon Blair,Defensive Rebound,20,35
+6:48,Georgetown,Kaleb Johnson,Turnover,20,35
+6:46,Campbell,Trey Spencer,Steal,20,35
+6:43,Campbell,Trey Spencer,Three Point Jumper,23,35
+6:25,Georgetown,James Akinjo,Missed Jumper,23,35
+6:25,Campbell,Chris Clemons,Defensive Rebound,23,35
+6:20,Campbell,Cory Gensler,Missed Three Point Jumper,23,35
+6:20,Georgetown,Trey Mourning,Defensive Rebound,23,35
+6:12,Georgetown,Kaleb Johnson,Missed Layup,23,35
+6:12,Campbell,Isaac Chatman,Defensive Rebound,23,35
+5:53,Campbell,Chris Clemons,Three Point Jumper,26,35
+5:52,Georgetown,None,None,26,35
+5:34,Georgetown,Jahvon Blair,Missed Three Point Jumper,26,35
+5:34,Campbell,Trey Spencer,Defensive Rebound,26,35
+5:28,Campbell,Trey Spencer,Missed Three Point Jumper,26,35
+5:28,Georgetown,Jamorko Pickett,Defensive Rebound,26,35
+5:20,Georgetown,James Akinjo,Missed Jumper,26,35
+5:20,Campbell,Cory Gensler,Defensive Rebound,26,35
+5:11,Campbell,Chris Clemons,Three Point Jumper,29,35
+4:53,Georgetown,Jessie Govan,Missed Three Point Jumper,29,35
+4:53,Campbell,Cory Gensler,Defensive Rebound,29,35
+4:44,Campbell,Chris Clemons,Missed Three Point Jumper,29,35
+4:44,Campbell,Brooks Cluxton,Offensive Rebound,29,35
+4:31,Campbell,Chris Clemons,Missed Three Point Jumper,29,35
+4:31,Georgetown,Jamorko Pickett,Defensive Rebound,29,35
+4:24,Georgetown,Jessie Govan,Missed Jumper,29,35
+4:24,Georgetown,Trey Mourning,Offensive Rebound,29,35
+4:15,Campbell,Cory Gensler,Foul,29,35
+4:15,Georgetown,Trey Mourning,Free Throw,29,36
+4:15,Georgetown,Trey Mourning,Free Throw,29,37
+3:44,Campbell,Chris Clemons,Missed Three Point Jumper,29,37
+3:44,Georgetown,None,Team Rebound,29,37
+3:44,Georgetown,None,None,29,37
+3:34,Georgetown,Matthew McClung,Missed Jumper,29,37
+3:34,Campbell,Brooks Cluxton,Defensive Rebound,29,37
+3:14,Campbell,Trey Spencer,Turnover,29,37
+3:05,Georgetown,Trey Mourning,Jumper,29,39
+2:47,Campbell,Isaac Chatman,Layup,31,39
+2:37,Georgetown,James Akinjo,Missed Three Point Jumper,31,39
+2:37,Campbell,Ja'Cor Nelson,Defensive Rebound,31,39
+2:30,Georgetown,Matthew McClung,Foul,31,39
+2:30,Campbell,Ja'Cor Nelson,Missed Free Throw,31,39
+2:30,Campbell,None,Team Rebound,31,39
+2:30,Campbell,Ja'Cor Nelson,Missed Free Throw,31,39
+2:30,Georgetown,Jessie Govan,Defensive Rebound,31,39
+2:21,Georgetown,Jamorko Pickett,Turnover,31,39
+2:21,Campbell,Trey Spencer,Steal,31,39
+2:16,Campbell,Chris Clemons,Dunk,33,39
+2:02,Georgetown,Jamorko Pickett,Turnover,33,39
+2:02,Campbell,Isaac Chatman,Steal,33,39
+1:57,Georgetown,James Akinjo,Foul,33,39
+1:39,Campbell,Trey Spencer,Missed Three Point Jumper,33,39
+1:39,Georgetown,Jamorko Pickett,Defensive Rebound,33,39
+1:28,Georgetown,Jamorko Pickett,Three Point Jumper,33,42
+1:05,Campbell,Brooks Cluxton,Missed Layup,33,42
+1:05,Georgetown,Trey Mourning,Defensive Rebound,33,42
+1:00,Georgetown,James Akinjo,Layup,33,44
+1:00,Campbell,Chris Clemons,Foul,33,44
+1:00,Georgetown,James Akinjo,Free Throw,33,45
+0:37,Campbell,Brooks Cluxton,Turnover,33,45
+0:36,Georgetown,Jessie Govan,Steal,33,45
+0:31,Georgetown,James Akinjo,Jumper,33,47
+0:02,Campbell,Chris Clemons,Missed Three Point Jumper,33,47
+0:02,Georgetown,Jamorko Pickett,Defensive Rebound,33,47
+0:00,Georgetown,None,None,33,47
+19:52,Campbell,Chris Clemons,Turnover,33,47
+19:36,Georgetown,Matthew McClung,Missed Jumper,33,47
+19:36,Campbell,Andrew Eudy,Defensive Rebound,33,47
+19:14,Campbell,Andrew Eudy,Missed Jumper,33,47
+19:14,Georgetown,Trey Mourning,Defensive Rebound,33,47
+19:05,Georgetown,Trey Mourning,Three Point Jumper,33,50
+18:44,Georgetown,James Akinjo,Foul,33,50
+18:32,Campbell,Ja'Cor Nelson,Layup,35,50
+18:15,Georgetown,James Akinjo,Three Point Jumper,35,53
+17:43,Campbell,Chris Clemons,Three Point Jumper,38,53
+17:27,Georgetown,Matthew McClung,Missed Three Point Jumper,38,53
+17:27,Campbell,Chris Clemons,Defensive Rebound,38,53
+17:22,Campbell,Chris Clemons,Turnover,38,53
+17:21,Georgetown,James Akinjo,Steal,38,53
+17:16,Georgetown,Matthew McClung,Missed Three Point Jumper,38,53
+17:16,Georgetown,Jessie Govan,Offensive Rebound,38,53
+17:12,Georgetown,None,None,38,55
+16:53,Campbell,Isaac Chatman,Layup,40,55
+16:37,Georgetown,Jessie Govan,Jumper,40,57
+16:18,Campbell,Cory Gensler,Layup,42,57
+15:59,Georgetown,Jessie Govan,Missed Jumper,42,57
+15:59,Campbell,Isaac Chatman,Block,42,57
+15:57,Georgetown,Trey Mourning,Offensive Rebound,42,57
+15:55,Georgetown,Trey Mourning,Layup,42,59
+15:38,Campbell,Isaac Chatman,Three Point Jumper,45,59
+15:11,Georgetown,Trey Mourning,Turnover,45,59
+15:10,Campbell,Andrew Eudy,Steal,45,59
+15:05,Georgetown,Jamorko Pickett,Foul,45,59
+15:05,Georgetown,None,None,45,59
+15:02,Campbell,Isaac Chatman,Missed Three Point Jumper,45,59
+15:02,Georgetown,Matthew McClung,Defensive Rebound,45,59
+14:52,Campbell,Isaac Chatman,Foul,45,59
+14:36,Georgetown,James Akinjo,Missed Three Point Jumper,45,59
+14:36,Georgetown,Trey Mourning,Offensive Rebound,45,59
+14:32,Georgetown,None,None,45,61
+14:32,Campbell,Isaac Chatman,Foul,45,61
+14:32,Georgetown,Trey Mourning,Missed Free Throw,45,61
+14:32,Campbell,Andrew Eudy,Defensive Rebound,45,61
+14:32,Campbell,Chris Clemons,Jumper,47,61
+13:53,Campbell,Andrew Eudy,Foul,47,61
+13:45,Campbell,Chris Clemons,Foul,47,61
+13:45,Georgetown,Trey Mourning,Free Throw,47,62
+13:45,Georgetown,Trey Mourning,Free Throw,47,63
+13:34,Georgetown,Trey Mourning,Foul,47,63
+13:32,Georgetown,James Akinjo,Foul,47,63
+13:27,Campbell,Chris Clemons,Missed Three Point Jumper,47,63
+13:27,Georgetown,Trey Mourning,Defensive Rebound,47,63
+13:08,Georgetown,Jamorko Pickett,Missed Jumper,47,63
+13:08,Campbell,Cory Gensler,Defensive Rebound,47,63
+12:59,Campbell,Chris Clemons,Turnover,47,63
+12:41,Campbell,Isaac Chatman,Foul,47,63
+12:41,Georgetown,Jessie Govan,Free Throw,47,64
+12:41,Georgetown,Jessie Govan,Missed Free Throw,47,64
+12:41,Campbell,Cory Gensler,Defensive Rebound,47,64
+12:19,Campbell,Isaac Chatman,Jumper,49,64
+12:05,Georgetown,Jessie Govan,Missed Jumper,49,64
+12:05,Campbell,Brooks Cluxton,Defensive Rebound,49,64
+11:55,Campbell,Chris Clemons,Layup,51,64
+11:30,Georgetown,Josh LeBlanc,Turnover,51,64
+11:30,Campbell,Cory Gensler,Steal,51,64
+11:20,Campbell,Isaac Chatman,Turnover,51,64
+11:20,Georgetown,Josh LeBlanc,Steal,51,64
+11:16,Georgetown,None,None,51,64
+11:03,Georgetown,Greg Malinowski,Layup,51,66
+10:43,Campbell,Cory Gensler,Missed Three Point Jumper,51,66
+10:43,Georgetown,Jagan Mosely,Defensive Rebound,51,66
+10:36,Georgetown,Jessie Govan,Jumper,51,68
+10:24,Campbell,Chris Clemons,Missed Three Point Jumper,51,68
+10:24,Georgetown,Josh LeBlanc,Defensive Rebound,51,68
+10:18,Georgetown,Jahvon Blair,Missed Three Point Jumper,51,68
+10:18,Campbell,Chris Clemons,Defensive Rebound,51,68
+10:09,Georgetown,Greg Malinowski,Foul,51,68
+10:09,Campbell,Chris Clemons,Free Throw,52,68
+10:09,Campbell,Chris Clemons,Free Throw,53,68
+9:49,Georgetown,Greg Malinowski,Jumper,53,70
+9:27,Campbell,Andrew Eudy,Three Point Jumper,56,70
+9:25,Campbell,None,None,56,70
+9:25,Georgetown,None,None,56,70
+9:07,Georgetown,Trey Mourning,Jumper,56,72
+8:52,Campbell,Trey Spencer,Missed Three Point Jumper,56,72
+8:52,Georgetown,Greg Malinowski,Defensive Rebound,56,72
+8:35,Georgetown,Josh LeBlanc,Layup,56,74
+8:22,Campbell,Chris Clemons,Missed Jumper,56,74
+8:22,Georgetown,Jahvon Blair,Defensive Rebound,56,74
+8:15,Georgetown,Josh LeBlanc,Layup,56,76
+7:54,Campbell,Chris Clemons,Foul,56,76
+7:54,Campbell,Chris Clemons,Turnover,56,76
+7:54,Georgetown,None,None,56,76
+7:32,Georgetown,Greg Malinowski,Missed Three Point Jumper,56,76
+7:32,Georgetown,Trey Mourning,Offensive Rebound,56,76
+7:29,Georgetown,Josh LeBlanc,Layup,56,78
+6:58,Campbell,Trey Spencer,Missed Layup,56,78
+6:58,Georgetown,Greg Malinowski,Defensive Rebound,56,78
+6:49,Georgetown,Greg Malinowski,Turnover,56,78
+6:48,Campbell,Cory Gensler,Steal,56,78
+6:34,Georgetown,Jagan Mosely,Foul,56,78
+6:31,Campbell,Chris Clemons,Three Point Jumper,59,78
+6:14,Georgetown,Trey Mourning,Layup,59,80
+6:14,Campbell,Isaac Chatman,Foul,59,80
+6:14,Georgetown,Trey Mourning,Free Throw,59,81
+5:58,Campbell,Cory Gensler,Missed Three Point Jumper,59,81
+5:58,Campbell,Andrew Eudy,Offensive Rebound,59,81
+5:52,Campbell,Trey Spencer,Three Point Jumper,62,81
+5:38,Georgetown,Trey Mourning,Missed Layup,62,81
+5:38,Campbell,Chris Clemons,Defensive Rebound,62,81
+5:27,Campbell,Andrew Eudy,Three Point Jumper,65,81
+5:15,Georgetown,Jagan Mosely,Missed Three Point Jumper,65,81
+5:15,Campbell,Brooks Cluxton,Defensive Rebound,65,81
+5:05,Campbell,Chris Clemons,Three Point Jumper,68,81
+4:35,Georgetown,Jahvon Blair,Missed Three Point Jumper,68,81
+4:35,Campbell,Cory Gensler,Defensive Rebound,68,81
+4:20,Campbell,Andrew Eudy,Missed Three Point Jumper,68,81
+4:20,Georgetown,Josh LeBlanc,Defensive Rebound,68,81
+3:51,Georgetown,Jahvon Blair,Missed Layup,68,81
+3:51,Campbell,Chris Clemons,Defensive Rebound,68,81
+3:45,Georgetown,Trey Mourning,Foul,68,81
+3:45,Georgetown,None,None,68,81
+3:45,Campbell,Chris Clemons,Free Throw,69,81
+3:45,Campbell,Chris Clemons,Free Throw,70,81
+3:35,Georgetown,James Akinjo,Missed Three Point Jumper,70,81
+3:35,Georgetown,Jahvon Blair,Offensive Rebound,70,81
+3:18,Georgetown,Trey Mourning,Missed Three Point Jumper,70,81
+3:18,Campbell,Chris Clemons,Defensive Rebound,70,81
+2:58,Campbell,Cory Gensler,Layup,72,81
+2:38,Georgetown,James Akinjo,Layup,72,83
+2:38,Campbell,Chris Clemons,Foul,72,83
+2:38,Georgetown,James Akinjo,Free Throw,72,84
+2:20,Campbell,Chris Clemons,Jumper,74,84
+2:20,Georgetown,None,None,74,84
+1:56,Georgetown,Greg Malinowski,Missed Three Point Jumper,74,84
+1:56,Campbell,Cory Gensler,Defensive Rebound,74,84
+1:33,Campbell,Isaac Chatman,Missed Three Point Jumper,74,84
+1:33,Georgetown,James Akinjo,Defensive Rebound,74,84
+1:24,Georgetown,Josh LeBlanc,Missed Jumper,74,84
+1:24,Campbell,Chris Clemons,Defensive Rebound,74,84
+1:16,Campbell,Chris Clemons,Three Point Jumper,77,84
+0:46,Georgetown,Josh LeBlanc,Jumper,77,86
+0:32,Campbell,Cory Gensler,Missed Three Point Jumper,77,86
+0:32,Georgetown,Josh LeBlanc,Defensive Rebound,77,86
+0:28,Campbell,Cory Gensler,Foul,77,86
+0:28,Georgetown,Josh LeBlanc,Free Throw,77,87
+0:21,Campbell,Chris Clemons,Three Point Jumper,80,87
+0:20,Campbell,None,None,80,87
+0:19,Campbell,Ja'Cor Nelson,Foul,80,87
+0:19,Georgetown,Jahvon Blair,Free Throw,80,88
+0:19,Georgetown,Jahvon Blair,Free Throw,80,89
+0:13,Georgetown,Trey Mourning,Foul,80,89
+0:12,Campbell,Chris Clemons,Missed Three Point Jumper,80,89
+0:12,Georgetown,Josh LeBlanc,Block,80,89
+0:12,Campbell,Isaac Chatman,Offensive Rebound,80,89
+0:12,Campbell,Isaac Chatman,Layup,82,89
+0:12,Campbell,Isaac Chatman,Free Throw,83,89
+0:11,Campbell,Trey Spencer,Foul,83,89
+0:11,Georgetown,James Akinjo,Free Throw,83,90
+0:11,Georgetown,James Akinjo,Free Throw,83,91
+0:07,Campbell,Chris Clemons,Layup,85,91
+0:04,Campbell,Isaac Chatman,Foul,85,91
+0:04,Georgetown,James Akinjo,Free Throw,85,92
+0:04,Georgetown,James Akinjo,Free Throw,85,93
+0:02,Campbell,Chris Clemons,Missed Three Point Jumper,85,93
+0:01,Georgetown,Josh LeBlanc,Defensive Rebound,85,93
+0:00,Georgetown,None,None,85,93

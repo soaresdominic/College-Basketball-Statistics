@@ -1,0 +1,357 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,North Carolina,None,None,0,0
+19:53,North Carolina,Luke Maye,Missed Jumper,0,0
+19:53,Louisville,Jordan Nwora,Defensive Rebound,0,0
+19:29,Louisville,Malik Williams,Turnover,0,0
+19:29,North Carolina,Luke Maye,Steal,0,0
+19:13,North Carolina,Garrison Brooks,Layup,0,2
+19:13,Louisville,Khwan Fore,Foul,0,2
+19:13,North Carolina,Garrison Brooks,Free Throw,0,3
+19:00,Louisville,Dwayne Sutton,Three Point Jumper,3,3
+18:54,North Carolina,Coby White,Turnover,3,3
+18:54,Louisville,Khwan Fore,Steal,3,3
+18:52,North Carolina,Coby White,Foul,3,3
+18:38,Louisville,Jordan Nwora,Three Point Jumper,6,3
+18:19,North Carolina,Luke Maye,Missed Three Point Jumper,6,3
+18:19,Louisville,Dwayne Sutton,Defensive Rebound,6,3
+18:00,North Carolina,Garrison Brooks,Foul,6,3
+17:45,Louisville,Dwayne Sutton,Layup,8,3
+17:33,North Carolina,Coby White,Turnover,8,3
+17:33,Louisville,Christen Cunningham,Steal,8,3
+17:24,Louisville,Christen Cunningham,Jumper,10,3
+17:24,North Carolina,Coby White,Foul,10,3
+17:24,Louisville,Christen Cunningham,Missed Free Throw,10,3
+17:24,North Carolina,Luke Maye,Defensive Rebound,10,3
+17:10,Louisville,Dwayne Sutton,Foul,10,3
+17:10,North Carolina,Cameron Johnson,Free Throw,10,4
+17:10,North Carolina,Cameron Johnson,Missed Free Throw,10,4
+17:10,North Carolina,Cameron Johnson,Offensive Rebound,10,4
+17:06,North Carolina,Cameron Johnson,Layup,10,6
+16:44,Louisville,Dwayne Sutton,Layup,12,6
+16:27,North Carolina,Luke Maye,Missed Jumper,12,6
+16:27,Louisville,Malik Williams,Defensive Rebound,12,6
+16:06,Louisville,Malik Williams,Three Point Jumper,15,6
+15:59,North Carolina,Cameron Johnson,Jumper,15,8
+15:39,Louisville,Jordan Nwora,Three Point Jumper,18,8
+15:13,Louisville,Malik Williams,Foul,18,8
+15:13,North Carolina,None,None,18,8
+15:13,North Carolina,Luke Maye,Free Throw,18,9
+15:13,North Carolina,Luke Maye,Free Throw,18,10
+15:03,Louisville,None,None,18,10
+14:50,Louisville,Steven Enoch,Missed Jumper,18,10
+14:50,North Carolina,Seventh Woods,Defensive Rebound,18,10
+14:30,North Carolina,Seventh Woods,Missed Three Point Jumper,18,10
+14:30,North Carolina,North Carolina,Offensive Rebound,18,10
+14:29,Louisville,V.J. King,Foul,18,10
+14:22,North Carolina,Nassir Little,Missed Jumper,18,10
+14:22,Louisville,Steven Enoch,Defensive Rebound,18,10
+14:03,Louisville,Steven Enoch,Layup,20,10
+13:47,North Carolina,Cameron Johnson,Missed Three Point Jumper,20,10
+13:47,Louisville,Louisville,Defensive Rebound,20,10
+13:20,Louisville,Dwayne Sutton,Missed Three Point Jumper,20,10
+13:20,North Carolina,Luke Maye,Defensive Rebound,20,10
+13:12,North Carolina,Seventh Woods,Missed Layup,20,10
+13:12,North Carolina,Luke Maye,Offensive Rebound,20,10
+13:03,North Carolina,Seventh Woods,Layup,20,12
+12:28,Louisville,Darius Perry,Missed Three Point Jumper,20,12
+12:28,North Carolina,North Carolina,Defensive Rebound,20,12
+12:19,North Carolina,Leaky Black,Jumper,20,14
+11:51,Louisville,Steven Enoch,Three Point Jumper,23,14
+11:37,North Carolina,None,None,23,14
+11:27,North Carolina,Nassir Little,Missed Jumper,23,14
+11:27,Louisville,Darius Perry,Defensive Rebound,23,14
+11:19,Louisville,Jordan Nwora,Missed Jumper,23,14
+11:19,Louisville,Steven Enoch,Offensive Rebound,23,14
+11:13,Louisville,Steven Enoch,Turnover,23,14
+11:13,North Carolina,Leaky Black,Steal,23,14
+11:10,North Carolina,Leaky Black,Missed Layup,23,14
+11:10,Louisville,Ryan McMahon,Defensive Rebound,23,14
+11:03,Louisville,Steven Enoch,Missed Three Point Jumper,23,14
+11:03,Louisville,Dwayne Sutton,Offensive Rebound,23,14
+10:57,Louisville,Dwayne Sutton,Layup,25,14
+10:38,North Carolina,Nassir Little,Jumper,25,16
+10:16,North Carolina,Brandon Robinson,Foul,25,16
+10:05,Louisville,Ryan McMahon,Turnover,25,16
+10:05,North Carolina,Kenny Williams,Steal,25,16
+9:56,North Carolina,Luke Maye,Missed Layup,25,16
+9:56,North Carolina,North Carolina,Offensive Rebound,25,16
+9:55,Louisville,Ryan McMahon,Foul,25,16
+9:42,Louisville,Malik Williams,Foul,25,16
+9:42,North Carolina,Kenny Williams,Free Throw,25,17
+9:42,North Carolina,Kenny Williams,Free Throw,25,18
+9:23,Louisville,Steven Enoch,Layup,27,18
+9:08,North Carolina,Garrison Brooks,Foul,27,18
+9:08,North Carolina,Garrison Brooks,Turnover,27,18
+8:56,Louisville,Steven Enoch,Turnover,27,18
+8:56,North Carolina,Cameron Johnson,Steal,27,18
+8:49,North Carolina,Cameron Johnson,Missed Three Point Jumper,27,18
+8:49,Louisville,Ryan McMahon,Defensive Rebound,27,18
+8:32,Louisville,Ryan McMahon,Three Point Jumper,30,18
+8:12,North Carolina,Cameron Johnson,Turnover,30,18
+7:59,Louisville,Steven Enoch,Dunk,32,18
+7:50,North Carolina,Brandon Robinson,Missed Three Point Jumper,32,18
+7:50,North Carolina,North Carolina,Offensive Rebound,32,18
+7:49,North Carolina,None,None,32,18
+7:41,North Carolina,Kenny Williams,Jumper,32,20
+7:26,Louisville,Christen Cunningham,Layup,34,20
+7:10,North Carolina,Luke Maye,Three Point Jumper,34,23
+6:47,Louisville,Steven Enoch,Missed Layup,34,23
+6:47,North Carolina,Luke Maye,Defensive Rebound,34,23
+6:33,North Carolina,Coby White,Missed Three Point Jumper,34,23
+6:33,Louisville,Dwayne Sutton,Defensive Rebound,34,23
+6:01,Louisville,Ryan McMahon,Missed Three Point Jumper,34,23
+6:01,North Carolina,Nassir Little,Defensive Rebound,34,23
+5:50,North Carolina,Coby White,Missed Three Point Jumper,34,23
+5:50,Louisville,Christen Cunningham,Defensive Rebound,34,23
+5:39,Louisville,None,None,34,23
+5:23,Louisville,Christen Cunningham,Layup,36,23
+5:11,North Carolina,Nassir Little,Missed Three Point Jumper,36,23
+5:11,Louisville,Dwayne Sutton,Defensive Rebound,36,23
+4:59,Louisville,Jordan Nwora,Missed Jumper,36,23
+4:59,North Carolina,Luke Maye,Block,36,23
+4:59,Louisville,Louisville,Offensive Rebound,36,23
+4:56,Louisville,Jordan Nwora,Missed Three Point Jumper,36,23
+4:56,Louisville,Louisville,Offensive Rebound,36,23
+4:52,North Carolina,Cameron Johnson,Foul,36,23
+4:49,Louisville,Darius Perry,Missed Jumper,36,23
+4:49,Louisville,Malik Williams,Offensive Rebound,36,23
+4:45,Louisville,Malik Williams,Layup,38,23
+4:39,North Carolina,Kenny Williams,Missed Layup,38,23
+4:39,Louisville,Dwayne Sutton,Defensive Rebound,38,23
+4:33,Louisville,Jordan Nwora,Missed Three Point Jumper,38,23
+4:33,Louisville,Louisville,Offensive Rebound,38,23
+4:14,Louisville,Jordan Nwora,Missed Three Point Jumper,38,23
+4:14,North Carolina,Leaky Black,Defensive Rebound,38,23
+4:06,North Carolina,Luke Maye,Layup,38,25
+3:52,Louisville,Darius Perry,Missed Three Point Jumper,38,25
+3:52,North Carolina,Luke Maye,Defensive Rebound,38,25
+3:35,North Carolina,Kenny Williams,Three Point Jumper,38,28
+3:12,Louisville,Steven Enoch,Layup,40,28
+3:12,North Carolina,None,None,40,28
+2:59,Louisville,Steven Enoch,Foul,40,28
+2:59,North Carolina,Brandon Huffman,Free Throw,40,29
+2:59,North Carolina,Brandon Huffman,Free Throw,40,30
+2:40,Louisville,Darius Perry,Three Point Jumper,43,30
+2:18,North Carolina,Luke Maye,Missed Three Point Jumper,43,30
+2:18,Louisville,Dwayne Sutton,Defensive Rebound,43,30
+1:59,Louisville,Dwayne Sutton,Missed Three Point Jumper,43,30
+1:59,North Carolina,Luke Maye,Defensive Rebound,43,30
+1:50,North Carolina,Kenny Williams,Missed Three Point Jumper,43,30
+1:50,North Carolina,Luke Maye,Offensive Rebound,43,30
+1:40,North Carolina,Seventh Woods,Missed Three Point Jumper,43,30
+1:40,North Carolina,Brandon Huffman,Offensive Rebound,43,30
+1:33,North Carolina,Brandon Huffman,Layup,43,32
+1:33,Louisville,Darius Perry,Foul,43,32
+1:33,North Carolina,Brandon Huffman,Missed Free Throw,43,32
+1:33,Louisville,Steven Enoch,Defensive Rebound,43,32
+1:14,Louisville,Christen Cunningham,Turnover,43,32
+0:59,North Carolina,Cameron Johnson,Missed Three Point Jumper,43,32
+0:59,Louisville,Darius Perry,Defensive Rebound,43,32
+0:51,Louisville,Darius Perry,Missed Layup,43,32
+0:51,North Carolina,Cameron Johnson,Block,43,32
+0:51,Louisville,Louisville,Offensive Rebound,43,32
+0:47,Louisville,Christen Cunningham,Turnover,43,32
+0:47,North Carolina,Kenny Williams,Steal,43,32
+0:37,North Carolina,Cameron Johnson,Layup,43,34
+0:02,North Carolina,Seventh Woods,Foul,43,34
+0:02,Louisville,Darius Perry,Missed Free Throw,43,34
+0:02,North Carolina,Luke Maye,Defensive Rebound,43,34
+0:00,North Carolina,None,None,43,34
+20:00,North Carolina,None,None,43,34
+19:52,North Carolina,Garrison Brooks,Layup,43,36
+19:32,Louisville,Khwan Fore,Missed Jumper,43,36
+19:32,Louisville,Khwan Fore,Offensive Rebound,43,36
+19:31,Louisville,Khwan Fore,Turnover,43,36
+19:23,North Carolina,Garrison Brooks,Missed Layup,43,36
+19:23,Louisville,Dwayne Sutton,Defensive Rebound,43,36
+19:07,Louisville,Malik Williams,Missed Three Point Jumper,43,36
+19:07,North Carolina,Cameron Johnson,Defensive Rebound,43,36
+18:58,North Carolina,Coby White,Missed Three Point Jumper,43,36
+18:58,Louisville,Dwayne Sutton,Defensive Rebound,43,36
+18:39,North Carolina,Luke Maye,Foul,43,36
+18:39,Louisville,Jordan Nwora,Missed Free Throw,43,36
+18:39,Louisville,None,Team Rebound,43,36
+18:39,Louisville,Jordan Nwora,Free Throw,44,36
+18:22,North Carolina,Garrison Brooks,Turnover,44,36
+18:22,Louisville,Dwayne Sutton,Steal,44,36
+18:10,North Carolina,Garrison Brooks,Foul,44,36
+18:10,Louisville,Malik Williams,Missed Free Throw,44,36
+18:10,Louisville,None,Team Rebound,44,36
+18:10,Louisville,Malik Williams,Free Throw,45,36
+17:41,North Carolina,Luke Maye,Missed Three Point Jumper,45,36
+17:41,Louisville,Jordan Nwora,Defensive Rebound,45,36
+17:31,North Carolina,Luke Maye,Foul,45,36
+17:21,Louisville,Khwan Fore,Layup,47,36
+17:06,North Carolina,Nassir Little,Turnover,47,36
+16:52,Louisville,Jordan Nwora,Three Point Jumper,50,36
+16:31,North Carolina,Luke Maye,Missed Three Point Jumper,50,36
+16:31,Louisville,Dwayne Sutton,Defensive Rebound,50,36
+16:15,North Carolina,Kenny Williams,Foul,50,36
+16:15,Louisville,Malik Williams,Free Throw,51,36
+16:15,Louisville,Malik Williams,Missed Free Throw,51,36
+16:15,North Carolina,Luke Maye,Defensive Rebound,51,36
+16:05,Louisville,Malik Williams,Foul,51,36
+16:05,North Carolina,Coby White,Free Throw,51,37
+16:05,North Carolina,Coby White,Free Throw,51,38
+15:48,Louisville,Dwayne Sutton,Missed Three Point Jumper,51,38
+15:48,North Carolina,Nassir Little,Defensive Rebound,51,38
+15:38,North Carolina,Coby White,Turnover,51,38
+15:38,Louisville,Dwayne Sutton,Steal,51,38
+15:33,North Carolina,Nassir Little,Foul,51,38
+15:33,North Carolina,None,None,51,38
+15:33,North Carolina,Nassir Little,Turnover,51,38
+15:33,North Carolina,None,None,51,38
+15:33,Louisville,Jordan Nwora,Missed Free Throw,51,38
+15:33,Louisville,None,Team Rebound,51,38
+15:33,Louisville,Jordan Nwora,Free Throw,52,38
+15:17,North Carolina,Kenny Williams,Layup,52,40
+15:17,Louisville,Khwan Fore,Foul,52,40
+15:17,North Carolina,Kenny Williams,Free Throw,52,41
+14:58,Louisville,Dwayne Sutton,Missed Three Point Jumper,52,41
+14:58,North Carolina,North Carolina,Defensive Rebound,52,41
+14:44,North Carolina,Nassir Little,Missed Layup,52,41
+14:44,Louisville,Steven Enoch,Defensive Rebound,52,41
+14:30,Louisville,Steven Enoch,Missed Layup,52,41
+14:30,Louisville,Steven Enoch,Offensive Rebound,52,41
+14:29,Louisville,Steven Enoch,Missed Layup,52,41
+14:29,North Carolina,Luke Maye,Block,52,41
+14:29,Louisville,Louisville,Offensive Rebound,52,41
+14:29,Louisville,None,None,52,41
+14:21,Louisville,Ryan McMahon,Three Point Jumper,55,41
+14:00,North Carolina,Nassir Little,Jumper,55,43
+13:49,Louisville,Steven Enoch,Missed Jumper,55,43
+13:49,Louisville,Christen Cunningham,Offensive Rebound,55,43
+13:42,Louisville,Steven Enoch,Dunk,57,43
+13:22,North Carolina,Nassir Little,Foul,57,43
+13:22,North Carolina,Nassir Little,Turnover,57,43
+13:08,Louisville,Jordan Nwora,Turnover,57,43
+12:55,North Carolina,Kenny Williams,Turnover,57,43
+12:55,Louisville,Steven Enoch,Steal,57,43
+12:49,Louisville,Ryan McMahon,Missed Three Point Jumper,57,43
+12:49,North Carolina,Leaky Black,Defensive Rebound,57,43
+12:45,Louisville,Jordan Nwora,Foul,57,43
+12:34,North Carolina,Luke Maye,Missed Jumper,57,43
+12:34,North Carolina,Kenny Williams,Offensive Rebound,57,43
+12:28,North Carolina,Kenny Williams,Jumper,57,45
+12:00,North Carolina,Garrison Brooks,Foul,57,45
+12:00,North Carolina,None,None,57,45
+12:00,Louisville,Dwayne Sutton,Free Throw,58,45
+12:00,Louisville,Dwayne Sutton,Free Throw,59,45
+11:49,North Carolina,Brandon Huffman,Turnover,59,45
+11:49,Louisville,Dwayne Sutton,Steal,59,45
+11:45,Louisville,Dwayne Sutton,Layup,61,45
+11:22,North Carolina,Kenny Williams,Turnover,61,45
+11:22,Louisville,Dwayne Sutton,Steal,61,45
+10:57,Louisville,Christen Cunningham,Turnover,61,45
+10:57,North Carolina,Brandon Robinson,Steal,61,45
+10:55,Louisville,Steven Enoch,Foul,61,45
+10:27,North Carolina,Coby White,Turnover,61,45
+10:27,Louisville,Darius Perry,Steal,61,45
+10:06,North Carolina,Leaky Black,Foul,61,45
+10:06,Louisville,Christen Cunningham,Free Throw,62,45
+10:06,Louisville,Christen Cunningham,Free Throw,63,45
+9:55,North Carolina,Leaky Black,Missed Layup,63,45
+9:55,Louisville,Steven Enoch,Defensive Rebound,63,45
+9:41,Louisville,Darius Perry,Missed Three Point Jumper,63,45
+9:41,North Carolina,Brandon Robinson,Defensive Rebound,63,45
+9:37,North Carolina,Brandon Robinson,Turnover,63,45
+9:09,Louisville,Dwayne Sutton,Missed Three Point Jumper,63,45
+9:09,Louisville,Steven Enoch,Offensive Rebound,63,45
+9:09,North Carolina,Luke Maye,Foul,63,45
+9:09,Louisville,Steven Enoch,Missed Free Throw,63,45
+9:09,Louisville,None,Team Rebound,63,45
+9:09,Louisville,Steven Enoch,Free Throw,64,45
+8:55,North Carolina,Luke Maye,Missed Jumper,64,45
+8:55,Louisville,Steven Enoch,Defensive Rebound,64,45
+8:42,Louisville,Darius Perry,Turnover,64,45
+8:33,North Carolina,Seventh Woods,Layup,64,47
+8:09,North Carolina,Brandon Robinson,Foul,64,47
+8:09,Louisville,Ryan McMahon,Free Throw,65,47
+8:09,Louisville,Ryan McMahon,Free Throw,66,47
+7:51,Louisville,Malik Williams,Foul,66,47
+7:51,North Carolina,None,None,66,47
+7:51,North Carolina,Luke Maye,Missed Free Throw,66,47
+7:51,North Carolina,None,Team Rebound,66,47
+7:51,North Carolina,Luke Maye,Missed Free Throw,66,47
+7:51,Louisville,Khwan Fore,Defensive Rebound,66,47
+7:36,Louisville,Christen Cunningham,Turnover,66,47
+7:36,North Carolina,Seventh Woods,Steal,66,47
+7:36,North Carolina,None,None,66,47
+7:25,Louisville,Dwayne Sutton,Foul,66,47
+7:25,North Carolina,Cameron Johnson,Free Throw,66,48
+7:25,North Carolina,Cameron Johnson,Free Throw,66,49
+7:10,Louisville,Jordan Nwora,Three Point Jumper,69,49
+7:02,North Carolina,Brandon Robinson,Three Point Jumper,69,52
+6:41,Louisville,Steven Enoch,Layup,71,52
+6:32,North Carolina,Seventh Woods,Missed Layup,71,52
+6:32,North Carolina,Seventh Woods,Offensive Rebound,71,52
+6:32,North Carolina,None,None,71,52
+6:32,Louisville,Steven Enoch,Defensive Rebound,71,52
+6:31,North Carolina,Cameron Johnson,Foul,71,52
+6:31,Louisville,Steven Enoch,Missed Free Throw,71,52
+6:31,Louisville,None,Team Rebound,71,52
+6:31,Louisville,Steven Enoch,Free Throw,72,52
+6:11,North Carolina,Kenny Williams,Turnover,72,52
+5:58,Louisville,None,None,72,52
+5:53,North Carolina,Nassir Little,Foul,72,52
+5:53,Louisville,V.J. King,Free Throw,73,52
+5:53,Louisville,V.J. King,Free Throw,74,52
+5:35,Louisville,Dwayne Sutton,Foul,74,52
+5:35,North Carolina,Nassir Little,Free Throw,74,53
+5:35,North Carolina,Nassir Little,Missed Free Throw,74,53
+5:35,Louisville,Steven Enoch,Defensive Rebound,74,53
+5:25,North Carolina,Coby White,Foul,74,53
+5:25,Louisville,Christen Cunningham,Missed Free Throw,74,53
+5:25,Louisville,None,Team Rebound,74,53
+5:25,Louisville,Christen Cunningham,Missed Free Throw,74,53
+5:25,North Carolina,Nassir Little,Defensive Rebound,74,53
+5:10,Louisville,Jordan Nwora,Foul,74,53
+5:10,North Carolina,Nassir Little,Free Throw,74,54
+5:10,North Carolina,Nassir Little,Missed Free Throw,74,54
+5:10,North Carolina,Coby White,Offensive Rebound,74,54
+5:06,North Carolina,Coby White,Missed Layup,74,54
+5:06,Louisville,Jordan Nwora,Defensive Rebound,74,54
+4:35,Louisville,Christen Cunningham,Foul,74,54
+4:35,Louisville,Christen Cunningham,Turnover,74,54
+4:23,North Carolina,Kenny Williams,Missed Three Point Jumper,74,54
+4:23,North Carolina,Luke Maye,Offensive Rebound,74,54
+4:17,North Carolina,Kenny Williams,Missed Three Point Jumper,74,54
+4:17,North Carolina,Nassir Little,Offensive Rebound,74,54
+4:12,Louisville,V.J. King,Foul,74,54
+4:12,North Carolina,Cameron Johnson,Free Throw,74,55
+4:12,North Carolina,Cameron Johnson,Missed Free Throw,74,55
+4:12,Louisville,Steven Enoch,Defensive Rebound,74,55
+3:57,Louisville,Darius Perry,Missed Layup,74,55
+3:57,North Carolina,North Carolina,Defensive Rebound,74,55
+3:54,North Carolina,None,None,74,55
+3:45,North Carolina,Luke Maye,Missed Three Point Jumper,74,55
+3:45,Louisville,Dwayne Sutton,Defensive Rebound,74,55
+3:22,Louisville,Jordan Nwora,Three Point Jumper,77,55
+3:14,North Carolina,Cameron Johnson,Missed Three Point Jumper,77,55
+3:14,North Carolina,Kenny Williams,Offensive Rebound,77,55
+3:07,North Carolina,Luke Maye,Layup,77,57
+2:45,Louisville,Jordan Nwora,Turnover,77,57
+2:45,North Carolina,Cameron Johnson,Steal,77,57
+2:45,Louisville,Jordan Nwora,Foul,77,57
+2:45,North Carolina,Coby White,Free Throw,77,58
+2:45,North Carolina,Coby White,Free Throw,77,59
+2:25,Louisville,Ryan McMahon,Turnover,77,59
+2:25,North Carolina,Cameron Johnson,Steal,77,59
+2:18,North Carolina,Nassir Little,Missed Jumper,77,59
+2:18,Louisville,Louisville,Defensive Rebound,77,59
+1:56,Louisville,Christen Cunningham,Jumper,79,59
+1:44,North Carolina,Cameron Johnson,Missed Layup,79,59
+1:44,North Carolina,Luke Maye,Offensive Rebound,79,59
+1:37,North Carolina,Luke Maye,Missed Layup,79,59
+1:37,Louisville,Christen Cunningham,Defensive Rebound,79,59
+1:21,Louisville,None,None,79,59
+1:16,North Carolina,Andrew Platek,Foul,79,59
+1:16,Louisville,Dwayne Sutton,Free Throw,80,59
+1:16,Louisville,Dwayne Sutton,Free Throw,81,59
+0:53,North Carolina,Walker Miller,Dunk,81,61
+0:26,Louisville,Dwayne Sutton,Jumper,83,61
+0:18,Louisville,Steven Enoch,Foul,83,61
+0:18,North Carolina,Walker Miller,Free Throw,83,62
+0:18,North Carolina,Walker Miller,Missed Free Throw,83,62
+0:18,Louisville,V.J. King,Defensive Rebound,83,62
+0:00,North Carolina,None,None,83,62

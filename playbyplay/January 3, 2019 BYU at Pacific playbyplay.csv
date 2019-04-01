@@ -1,0 +1,373 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Pacific,None,None,0,0
+19:59,BYU,None,None,0,0
+19:29,Pacific,Anthony Townes,Foul,0,0
+19:29,BYU,Luke Worthington,Missed Free Throw,0,0
+19:29,BYU,None,Team Rebound,0,0
+19:29,BYU,Luke Worthington,Missed Free Throw,0,0
+19:29,Pacific,Jahlil Tripp,Defensive Rebound,0,0
+19:15,BYU,McKay Cannon,Foul,0,0
+19:08,Pacific,Jahlil Tripp,Missed Layup,0,0
+19:08,BYU,TJ Haws,Defensive Rebound,0,0
+18:57,BYU,Yoeli Childs,Three Point Jumper,3,0
+18:41,Pacific,Anthony Townes,Missed Jumper,3,0
+18:41,BYU,Yoeli Childs,Defensive Rebound,3,0
+18:28,BYU,TJ Haws,Jumper,5,0
+18:06,Pacific,Brandon McGhee,Jumper,5,2
+17:36,BYU,Connor Harding,Foul,5,2
+17:36,BYU,Connor Harding,Turnover,5,2
+17:22,Pacific,Lafayette Dorsey,Missed Three Point Jumper,5,2
+17:22,BYU,Connor Harding,Defensive Rebound,5,2
+17:09,BYU,McKay Cannon,Three Point Jumper,8,2
+16:52,Pacific,Ajare Sanni,Missed Jumper,8,2
+16:52,BYU,Luke Worthington,Defensive Rebound,8,2
+16:36,BYU,TJ Haws,Jumper,10,2
+16:19,Pacific,Ajare Sanni,Missed Jumper,10,2
+16:19,BYU,McKay Cannon,Defensive Rebound,10,2
+16:04,BYU,TJ Haws,Missed Three Point Jumper,10,2
+16:04,Pacific,Brandon McGhee,Defensive Rebound,10,2
+15:58,Pacific,Ajare Sanni,Jumper,10,4
+15:44,BYU,McKay Cannon,Three Point Jumper,13,4
+15:14,BYU,Luke Worthington,Foul,13,4
+15:14,Pacific,None,None,13,4
+15:00,Pacific,Jahlil Tripp,Layup,13,6
+14:45,BYU,Luke Worthington,Turnover,13,6
+14:45,BYU,Luke Worthington,Foul,13,6
+14:31,Pacific,Roberto Gallinat,Turnover,13,6
+14:31,BYU,TJ Haws,Steal,13,6
+14:15,Pacific,Roberto Gallinat,Foul,13,6
+14:12,BYU,Connor Harding,Three Point Jumper,16,6
+13:53,Pacific,Ajare Sanni,Turnover,16,6
+13:53,BYU,Connor Harding,Steal,16,6
+13:48,BYU,Connor Harding,Layup,18,6
+13:48,Pacific,None,None,18,6
+13:35,Pacific,Zach Cameron,Layup,18,8
+13:16,BYU,Connor Harding,Layup,20,8
+12:48,BYU,Zac Seljaas,Foul,20,8
+12:48,Pacific,Jahbril Price-Noel,Free Throw,20,9
+12:48,Pacific,Jahbril Price-Noel,Free Throw,20,10
+12:36,Pacific,Kendall Small,Foul,20,10
+12:36,BYU,TJ Haws,Free Throw,21,10
+12:36,BYU,TJ Haws,Missed Free Throw,21,10
+12:36,Pacific,Jeremiah Bailey,Defensive Rebound,21,10
+12:30,Pacific,Jeremiah Bailey,Missed Three Point Jumper,21,10
+12:30,BYU,Connor Harding,Defensive Rebound,21,10
+12:27,Pacific,Zach Cameron,Foul,21,10
+12:06,BYU,TJ Haws,Three Point Jumper,24,10
+11:56,Pacific,Kendall Small,Turnover,24,10
+11:56,Pacific,None,None,24,10
+11:47,BYU,Yoeli Childs,Dunk,26,10
+11:20,Pacific,Jahbril Price-Noel,Layup,26,12
+11:01,BYU,Nick Emery,Missed Three Point Jumper,26,12
+11:01,Pacific,Jahbril Price-Noel,Defensive Rebound,26,12
+10:37,Pacific,Jahbril Price-Noel,Turnover,26,12
+10:26,BYU,Nick Emery,Layup,28,12
+9:55,Pacific,Jahbril Price-Noel,Three Point Jumper,28,15
+9:35,BYU,Rylan Bergersen,Missed Three Point Jumper,28,15
+9:35,Pacific,Lafayette Dorsey,Defensive Rebound,28,15
+9:27,Pacific,Lafayette Dorsey,Layup,28,17
+9:13,BYU,Yoeli Childs,Missed Three Point Jumper,28,17
+9:13,Pacific,Lafayette Dorsey,Defensive Rebound,28,17
+9:03,BYU,Connor Harding,Foul,28,17
+9:03,Pacific,Lafayette Dorsey,Free Throw,28,18
+9:03,Pacific,Lafayette Dorsey,Free Throw,28,19
+8:44,BYU,Yoeli Childs,Jumper,30,19
+8:32,BYU,Rylan Bergersen,Foul,30,19
+8:32,Pacific,Jahbril Price-Noel,Missed Free Throw,30,19
+8:32,BYU,Dalton Nixon,Defensive Rebound,30,19
+8:12,Pacific,Anthony Townes,Foul,30,19
+8:03,BYU,TJ Haws,Three Point Jumper,33,19
+7:43,Pacific,Lafayette Dorsey,Missed Jumper,33,19
+7:43,Pacific,Anthony Townes,Offensive Rebound,33,19
+7:27,Pacific,Jahlil Tripp,Missed Three Point Jumper,33,19
+7:27,BYU,McKay Cannon,Defensive Rebound,33,19
+7:05,BYU,Yoeli Childs,Missed Three Point Jumper,33,19
+7:05,Pacific,Kendall Small,Defensive Rebound,33,19
+6:57,Pacific,Kendall Small,Layup,33,21
+6:50,BYU,TJ Haws,Missed Three Point Jumper,33,21
+6:50,BYU,Yoeli Childs,Offensive Rebound,33,21
+6:45,BYU,Yoeli Childs,Dunk,35,21
+6:30,Pacific,Lafayette Dorsey,Turnover,35,21
+6:30,Pacific,None,None,35,21
+6:30,BYU,Dalton Nixon,Steal,35,21
+6:30,Pacific,None,None,35,21
+6:27,BYU,Jahshire Hardnett,Three Point Jumper,38,21
+6:05,BYU,Jahshire Hardnett,Foul,38,21
+6:05,Pacific,Lafayette Dorsey,Free Throw,38,22
+6:05,Pacific,Lafayette Dorsey,Free Throw,38,23
+5:50,BYU,Yoeli Childs,Missed Jumper,38,23
+5:50,Pacific,Jahlil Tripp,Defensive Rebound,38,23
+5:32,Pacific,Ajare Sanni,Missed Three Point Jumper,38,23
+5:32,BYU,Yoeli Childs,Defensive Rebound,38,23
+5:27,BYU,Nick Emery,Three Point Jumper,41,23
+5:09,Pacific,Jahlil Tripp,Missed Jumper,41,23
+5:09,BYU,Yoeli Childs,Defensive Rebound,41,23
+5:02,Pacific,Ajare Sanni,Foul,41,23
+5:01,BYU,McKay Cannon,Turnover,41,23
+5:01,Pacific,Lafayette Dorsey,Steal,41,23
+5:01,BYU,Dalton Nixon,Foul,41,23
+5:01,Pacific,Lafayette Dorsey,Free Throw,41,24
+5:01,Pacific,Lafayette Dorsey,Free Throw,41,25
+4:35,BYU,Jahshire Hardnett,Missed Three Point Jumper,41,25
+4:35,Pacific,Lafayette Dorsey,Defensive Rebound,41,25
+4:27,Pacific,Lafayette Dorsey,Missed Jumper,41,25
+4:27,BYU,Dalton Nixon,Block,41,25
+4:27,BYU,Zac Seljaas,Defensive Rebound,41,25
+4:11,BYU,Zac Seljaas,Three Point Jumper,44,25
+3:48,Pacific,Jeremiah Bailey,Missed Three Point Jumper,44,25
+3:48,BYU,Nick Emery,Defensive Rebound,44,25
+3:37,BYU,Dalton Nixon,Dunk,46,25
+3:36,Pacific,None,None,46,25
+3:18,BYU,Nick Emery,Foul,46,25
+3:18,Pacific,Roberto Gallinat,Free Throw,46,26
+3:18,Pacific,Roberto Gallinat,Missed Free Throw,46,26
+3:18,Pacific,Zach Cameron,Offensive Rebound,46,26
+3:16,BYU,Yoeli Childs,Foul,46,26
+3:16,Pacific,Zach Cameron,Free Throw,46,27
+3:16,Pacific,Zach Cameron,Missed Free Throw,46,27
+3:16,BYU,Yoeli Childs,Defensive Rebound,46,27
+3:02,BYU,Jahshire Hardnett,Missed Three Point Jumper,46,27
+3:02,BYU,BYU,Offensive Rebound,46,27
+2:49,BYU,Yoeli Childs,Missed Jumper,46,27
+2:49,Pacific,Zach Cameron,Defensive Rebound,46,27
+2:26,Pacific,Jahlil Tripp,Missed Layup,46,27
+2:26,BYU,Nick Emery,Defensive Rebound,46,27
+2:18,BYU,TJ Haws,Turnover,46,27
+2:18,BYU,TJ Haws,Foul,46,27
+2:16,Pacific,Brandon McGhee,Missed Layup,46,27
+2:16,Pacific,Brandon McGhee,Offensive Rebound,46,27
+2:10,Pacific,Brandon McGhee,Layup,46,29
+2:04,BYU,Jahshire Hardnett,Missed Jumper,46,29
+2:04,Pacific,Ajare Sanni,Defensive Rebound,46,29
+1:44,Pacific,Ajare Sanni,Missed Layup,46,29
+1:44,Pacific,Jahlil Tripp,Offensive Rebound,46,29
+1:44,Pacific,Jahlil Tripp,Layup,46,31
+1:44,BYU,None,None,46,31
+1:35,Pacific,Roberto Gallinat,Foul,46,31
+1:35,BYU,TJ Haws,Free Throw,47,31
+1:35,BYU,TJ Haws,Free Throw,48,31
+1:19,BYU,Nick Emery,Foul,48,31
+1:19,Pacific,Jahlil Tripp,Free Throw,48,32
+1:19,Pacific,Jahlil Tripp,Free Throw,48,33
+1:11,BYU,Yoeli Childs,Turnover,48,33
+1:11,Pacific,Brandon McGhee,Steal,48,33
+1:05,Pacific,Jahlil Tripp,Layup,48,35
+0:50,BYU,Yoeli Childs,Missed Jumper,48,35
+0:50,BYU,Jahshire Hardnett,Offensive Rebound,48,35
+0:45,BYU,Jahshire Hardnett,Turnover,48,35
+0:45,Pacific,Kendall Small,Steal,48,35
+0:37,Pacific,Brandon McGhee,Missed Layup,48,35
+0:37,Pacific,Jahlil Tripp,Offensive Rebound,48,35
+0:36,BYU,Zac Seljaas,Foul,48,35
+0:36,Pacific,Jahlil Tripp,Free Throw,48,36
+0:36,Pacific,Jahlil Tripp,Free Throw,48,37
+0:22,Pacific,Zach Cameron,Foul,48,37
+0:22,BYU,TJ Haws,Free Throw,49,37
+0:22,BYU,TJ Haws,Missed Free Throw,49,37
+0:22,Pacific,Zach Cameron,Defensive Rebound,49,37
+0:04,Pacific,Kendall Small,Missed Jumper,49,37
+0:04,BYU,Kolby Lee,Defensive Rebound,49,37
+0:00,Pacific,None,None,49,37
+20:00,Pacific,None,None,49,37
+19:49,Pacific,Anthony Townes,Layup,49,39
+19:34,Pacific,Jahlil Tripp,Foul,49,39
+19:34,BYU,Yoeli Childs,Free Throw,50,39
+19:34,BYU,Yoeli Childs,Free Throw,51,39
+19:21,BYU,Luke Worthington,Foul,51,39
+19:09,Pacific,Jahlil Tripp,Turnover,51,39
+18:55,BYU,Yoeli Childs,Missed Jumper,51,39
+18:55,Pacific,Jahlil Tripp,Defensive Rebound,51,39
+18:44,Pacific,Ajare Sanni,Three Point Jumper,51,42
+18:28,BYU,Yoeli Childs,Jumper,53,42
+18:10,Pacific,Ajare Sanni,Three Point Jumper,53,45
+17:58,BYU,Connor Harding,Missed Three Point Jumper,53,45
+17:58,Pacific,Jahlil Tripp,Defensive Rebound,53,45
+17:43,Pacific,Jahlil Tripp,Foul,53,45
+17:43,Pacific,Jahlil Tripp,Turnover,53,45
+17:31,BYU,TJ Haws,Three Point Jumper,56,45
+17:06,Pacific,Ajare Sanni,Missed Three Point Jumper,56,45
+17:06,BYU,Yoeli Childs,Defensive Rebound,56,45
+16:58,Pacific,Lafayette Dorsey,Foul,56,45
+16:50,BYU,TJ Haws,Missed Three Point Jumper,56,45
+16:50,Pacific,Ajare Sanni,Defensive Rebound,56,45
+16:41,BYU,TJ Haws,Foul,56,45
+16:35,BYU,McKay Cannon,Foul,56,45
+16:23,Pacific,Jahbril Price-Noel,Missed Three Point Jumper,56,45
+16:23,BYU,TJ Haws,Defensive Rebound,56,45
+16:14,BYU,Nick Emery,Missed Three Point Jumper,56,45
+16:14,Pacific,Jahbril Price-Noel,Defensive Rebound,56,45
+16:06,Pacific,Ajare Sanni,Three Point Jumper,56,48
+15:43,BYU,Luke Worthington,Layup,58,48
+15:29,Pacific,Jahbril Price-Noel,Foul,58,48
+15:29,Pacific,Jahbril Price-Noel,Turnover,58,48
+15:29,Pacific,None,None,58,48
+15:19,BYU,Nick Emery,Turnover,58,48
+15:19,Pacific,Kendall Small,Steal,58,48
+14:54,Pacific,Jahbril Price-Noel,Missed Jumper,58,48
+14:52,Pacific,Anthony Townes,Offensive Rebound,58,48
+14:52,Pacific,Anthony Townes,Missed Layup,58,48
+14:51,BYU,Yoeli Childs,Block,58,48
+14:50,BYU,Nick Emery,Defensive Rebound,58,48
+14:42,BYU,Luke Worthington,Layup,60,48
+14:42,Pacific,Jahlil Tripp,Foul,60,48
+14:42,BYU,Luke Worthington,Free Throw,61,48
+14:34,Pacific,Roberto Gallinat,Jumper,61,50
+14:34,BYU,Nick Emery,Foul,61,50
+14:34,Pacific,Roberto Gallinat,Free Throw,61,51
+13:58,BYU,Yoeli Childs,Missed Layup,61,51
+13:58,BYU,Luke Worthington,Offensive Rebound,61,51
+13:52,BYU,Luke Worthington,Layup,63,51
+13:33,Pacific,Jahbril Price-Noel,Missed Layup,63,51
+13:33,BYU,Yoeli Childs,Defensive Rebound,63,51
+13:24,BYU,Yoeli Childs,Missed Three Point Jumper,63,51
+13:24,Pacific,Roberto Gallinat,Defensive Rebound,63,51
+13:13,Pacific,Roberto Gallinat,Missed Layup,63,51
+13:13,BYU,Yoeli Childs,Defensive Rebound,63,51
+12:44,BYU,Yoeli Childs,Missed Jumper,63,51
+12:44,Pacific,Pacific,Defensive Rebound,63,51
+12:20,Pacific,Jeremiah Bailey,Three Point Jumper,63,54
+12:02,Pacific,Kendall Small,Foul,63,54
+12:02,BYU,TJ Haws,Missed Free Throw,63,54
+12:02,BYU,None,Team Rebound,63,54
+12:02,BYU,TJ Haws,Free Throw,64,54
+11:45,Pacific,Roberto Gallinat,Missed Jumper,64,54
+11:45,BYU,Connor Harding,Defensive Rebound,64,54
+11:34,BYU,Connor Harding,Turnover,64,54
+11:34,Pacific,Kendall Small,Steal,64,54
+11:29,BYU,TJ Haws,Foul,64,54
+11:29,Pacific,None,None,64,54
+11:29,Pacific,Kendall Small,Missed Free Throw,64,54
+11:29,Pacific,None,Team Rebound,64,54
+11:29,Pacific,Kendall Small,Free Throw,64,55
+11:19,BYU,Nick Emery,Missed Jumper,64,55
+11:19,BYU,Yoeli Childs,Offensive Rebound,64,55
+11:13,BYU,Connor Harding,Missed Three Point Jumper,64,55
+11:13,Pacific,Roberto Gallinat,Defensive Rebound,64,55
+10:56,Pacific,Zach Cameron,Missed Jumper,64,55
+10:56,BYU,Yoeli Childs,Defensive Rebound,64,55
+10:46,BYU,Jahshire Hardnett,Missed Jumper,64,55
+10:46,Pacific,Jahbril Price-Noel,Defensive Rebound,64,55
+10:22,BYU,Yoeli Childs,Foul,64,55
+10:09,BYU,Connor Harding,Foul,64,55
+10:09,Pacific,Roberto Gallinat,Free Throw,64,56
+10:09,Pacific,Roberto Gallinat,Free Throw,64,57
+9:55,Pacific,Jeremiah Bailey,Foul,64,57
+9:55,BYU,Connor Harding,Missed Free Throw,64,57
+9:55,Pacific,Jahlil Tripp,Defensive Rebound,64,57
+9:47,BYU,Yoeli Childs,Foul,64,57
+9:47,Pacific,Roberto Gallinat,Free Throw,64,58
+9:47,Pacific,Roberto Gallinat,Free Throw,64,59
+9:32,BYU,TJ Haws,Missed Jumper,64,59
+9:32,Pacific,Zach Cameron,Defensive Rebound,64,59
+9:06,Pacific,Roberto Gallinat,Layup,64,61
+8:57,Pacific,Roberto Gallinat,Foul,64,61
+8:57,BYU,TJ Haws,Free Throw,65,61
+8:57,BYU,TJ Haws,Free Throw,66,61
+8:57,BYU,TJ Haws,Free Throw,67,61
+8:36,Pacific,Ajare Sanni,Jumper,67,63
+8:22,BYU,Luke Worthington,Foul,67,63
+8:22,BYU,Luke Worthington,Turnover,67,63
+8:12,Pacific,Roberto Gallinat,Layup,67,65
+8:06,BYU,Zac Seljaas,Turnover,67,65
+8:06,Pacific,Kendall Small,Steal,67,65
+7:56,Pacific,Kendall Small,Layup,67,67
+7:50,BYU,Jahshire Hardnett,Layup,69,67
+7:35,BYU,Connor Harding,Foul,69,67
+7:35,Pacific,None,None,69,67
+7:35,Pacific,Roberto Gallinat,Free Throw,69,68
+7:35,Pacific,Roberto Gallinat,Free Throw,69,69
+7:12,BYU,Jahshire Hardnett,Jumper,71,69
+7:12,Pacific,Jahlil Tripp,Foul,71,69
+7:12,BYU,Jahshire Hardnett,Free Throw,72,69
+6:54,Pacific,Roberto Gallinat,Jumper,72,71
+6:16,BYU,BYU ,Turnover,72,71
+5:56,Pacific,Jeremiah Bailey,Foul,72,71
+5:56,Pacific,Jeremiah Bailey,Turnover,72,71
+5:43,BYU,Jahshire Hardnett,Jumper,74,71
+5:31,Pacific,Anthony Townes,Missed Jumper,74,71
+5:31,BYU,Dalton Nixon,Defensive Rebound,74,71
+5:20,Pacific,Kendall Small,Foul,74,71
+5:20,BYU,Jahshire Hardnett,Free Throw,75,71
+5:20,BYU,Jahshire Hardnett,Missed Free Throw,75,71
+5:20,Pacific,Zach Cameron,Defensive Rebound,75,71
+5:20,BYU,Yoeli Childs,Foul,75,71
+5:20,Pacific,Zach Cameron,Free Throw,75,72
+5:20,Pacific,Zach Cameron,Free Throw,75,73
+5:07,BYU,TJ Haws,Missed Three Point Jumper,75,73
+5:07,BYU,McKay Cannon,Offensive Rebound,75,73
+5:04,Pacific,Kendall Small,Foul,75,73
+5:04,BYU,McKay Cannon,Free Throw,76,73
+5:04,BYU,McKay Cannon,Missed Free Throw,76,73
+5:04,Pacific,Zach Cameron,Defensive Rebound,76,73
+4:51,Pacific,Roberto Gallinat,Three Point Jumper,76,76
+4:19,Pacific,Kendall Small,Foul,76,76
+4:19,BYU,Jahshire Hardnett,Free Throw,77,76
+4:19,BYU,Jahshire Hardnett,Free Throw,78,76
+4:09,Pacific,Roberto Gallinat,Missed Layup,78,76
+4:09,BYU,Dalton Nixon,Defensive Rebound,78,76
+3:54,Pacific,None,None,78,76
+3:54,Pacific,Roberto Gallinat,Foul,78,76
+3:54,Pacific,None,None,78,76
+3:54,BYU,Luke Worthington,Missed Free Throw,78,76
+3:54,BYU,None,Team Rebound,78,76
+3:54,BYU,Luke Worthington,Missed Free Throw,78,76
+3:54,Pacific,Zach Cameron,Defensive Rebound,78,76
+3:41,BYU,Jahshire Hardnett,Foul,78,76
+3:41,Pacific,Roberto Gallinat,Free Throw,78,77
+3:41,Pacific,Roberto Gallinat,Free Throw,78,78
+3:28,BYU,Jahshire Hardnett,Missed Jumper,78,78
+3:28,Pacific,Jeremiah Bailey,Block,78,78
+3:28,BYU,Yoeli Childs,Offensive Rebound,78,78
+3:27,Pacific,Zach Cameron,Foul,78,78
+3:27,BYU,Yoeli Childs,Missed Free Throw,78,78
+3:27,BYU,None,Team Rebound,78,78
+3:27,BYU,Yoeli Childs,Missed Free Throw,78,78
+3:27,Pacific,Zach Cameron,Defensive Rebound,78,78
+3:12,BYU,Dalton Nixon,Foul,78,78
+3:12,Pacific,Zach Cameron,Free Throw,78,79
+3:12,Pacific,Zach Cameron,Missed Free Throw,78,79
+3:12,BYU,Yoeli Childs,Defensive Rebound,78,79
+3:00,BYU,Yoeli Childs,Foul,78,79
+3:00,BYU,Yoeli Childs,Turnover,78,79
+2:52,Pacific,Jeremiah Bailey,Foul,78,79
+2:52,Pacific,Jeremiah Bailey,Turnover,78,79
+2:46,BYU,TJ Haws,Three Point Jumper,81,79
+2:36,Pacific,None,None,81,79
+2:25,Pacific,Jahlil Tripp,Jumper,81,81
+2:17,BYU,None,None,81,81
+2:09,BYU,TJ Haws,Missed Jumper,81,81
+2:09,BYU,Luke Worthington,Offensive Rebound,81,81
+2:07,Pacific,Jeremiah Bailey,Foul,81,81
+2:07,BYU,Luke Worthington,Missed Free Throw,81,81
+2:07,BYU,None,Team Rebound,81,81
+2:07,BYU,Luke Worthington,Free Throw,82,81
+1:49,Pacific,Jahlil Tripp,Foul,82,81
+1:49,Pacific,Jahlil Tripp,Turnover,82,81
+1:28,BYU,Zac Seljaas,Jumper,84,81
+1:02,Pacific,Jeremiah Bailey,Layup,84,83
+1:02,BYU,Dalton Nixon,Foul,84,83
+1:02,Pacific,Jeremiah Bailey,Free Throw,84,84
+0:47,Pacific,Zach Cameron,Foul,84,84
+0:47,BYU,Jahshire Hardnett,Free Throw,85,84
+0:47,BYU,Jahshire Hardnett,Free Throw,86,84
+0:43,Pacific,None,None,86,84
+0:34,BYU,Jahshire Hardnett,Foul,86,84
+0:34,Pacific,Roberto Gallinat,Free Throw,86,85
+0:34,Pacific,Roberto Gallinat,Missed Free Throw,86,85
+0:34,BYU,Nick Emery,Defensive Rebound,86,85
+0:21,Pacific,Brandon McGhee,Foul,86,85
+0:21,BYU,Jahshire Hardnett,Free Throw,87,85
+0:21,BYU,Jahshire Hardnett,Free Throw,88,85
+0:14,BYU,Nick Emery,Foul,88,85
+0:14,Pacific,Ajare Sanni,Free Throw,88,86
+0:14,Pacific,Ajare Sanni,Missed Free Throw,88,86
+0:14,Pacific,None,Team Rebound,88,86
+0:14,BYU,None,None,88,86
+0:14,Pacific,Ajare Sanni,Free Throw,88,87
+0:13,Pacific,Lafayette Dorsey,Foul,88,87
+0:13,BYU,Nick Emery,Free Throw,89,87
+0:13,BYU,Nick Emery,Free Throw,90,87
+0:00,Pacific,Roberto Gallinat,Missed Three Point Jumper,90,87
+0:00,BYU,BYU,Defensive Rebound,90,87
+0:00,Pacific,None,None,90,87
+0:00,Pacific,None,None,90,87

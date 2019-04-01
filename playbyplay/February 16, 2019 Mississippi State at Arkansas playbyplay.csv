@@ -1,0 +1,356 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Mississippi State,None,None,0,0
+19:49,Mississippi State,Reggie Perry,Missed Jumper,0,0
+19:49,Arkansas,Daniel Gafford,Defensive Rebound,0,0
+19:41,Arkansas,Mason Jones,Three Point Jumper,0,3
+19:24,Mississippi State,Quinndary Weatherspoon,Turnover,0,3
+18:52,Arkansas,Adrio Bailey,Jumper,0,5
+18:23,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,0,5
+18:23,Arkansas,Jalen Harris,Defensive Rebound,0,5
+18:14,Arkansas,Jalen Harris,Turnover,0,5
+18:14,Mississippi State,Quinndary Weatherspoon,Steal,0,5
+18:07,Mississippi State,Abdul Ado,Layup,2,5
+17:43,Arkansas,None,None,2,5
+17:43,Arkansas,Daniel Gafford,Turnover,2,5
+17:43,Mississippi State,Quinndary Weatherspoon,Steal,2,5
+17:33,Mississippi State,Tyson Carter,Jumper,4,5
+17:04,Mississippi State,Tyson Carter,Foul,4,5
+17:04,Arkansas,Jalen Harris,Missed Free Throw,4,5
+17:04,Arkansas,None,Team Rebound,4,5
+17:04,Arkansas,Jalen Harris,Free Throw,4,6
+16:59,Mississippi State,Tyson Carter,Jumper,6,6
+16:43,Arkansas,Mason Jones,Three Point Jumper,6,9
+16:08,Mississippi State,Lamar Peters,Missed Three Point Jumper,6,9
+16:08,Mississippi State,Reggie Perry,Offensive Rebound,6,9
+15:59,Mississippi State,Reggie Perry,Turnover,6,9
+15:59,Arkansas,Daniel Gafford,Steal,6,9
+15:56,Arkansas,Adrio Bailey,Dunk,6,11
+15:38,Mississippi State,Quinndary Weatherspoon,Dunk,8,11
+15:24,Arkansas,None,None,8,11
+15:11,Mississippi State,Abdul Ado,Foul,8,11
+14:55,Arkansas,Adrio Bailey,Turnover,8,11
+14:42,Mississippi State,Aric Holman,Turnover,8,11
+14:14,Arkansas,Isaiah Joe,Three Point Jumper,8,14
+13:44,Mississippi State,Robert Woodard,Foul,8,14
+13:44,Mississippi State,Robert Woodard,Turnover,8,14
+13:20,Arkansas,Gabe Osabuohien,Turnover,8,14
+13:20,Mississippi State,Aric Holman,Steal,8,14
+13:04,Mississippi State,Lamar Peters,Missed Three Point Jumper,8,14
+13:04,Arkansas,Isaiah Joe,Defensive Rebound,8,14
+12:53,Arkansas,Gabe Osabuohien,Turnover,8,14
+12:53,Mississippi State,Reggie Perry,Steal,8,14
+12:48,Arkansas,Isaiah Joe,Foul,8,14
+12:48,Mississippi State,Quinndary Weatherspoon,Free Throw,9,14
+12:48,Mississippi State,Quinndary Weatherspoon,Free Throw,10,14
+12:32,Arkansas,Reggie Chaney,Turnover,10,14
+12:32,Mississippi State,Quinndary Weatherspoon,Steal,10,14
+12:28,Mississippi State,Quinndary Weatherspoon,Dunk,12,14
+12:07,Arkansas,Gabe Osabuohien,Turnover,12,14
+12:07,Mississippi State,Lamar Peters,Steal,12,14
+12:03,Mississippi State,Quinndary Weatherspoon,Turnover,12,14
+11:52,Mississippi State,Reggie Perry,Foul,12,14
+11:52,Arkansas,None,None,12,14
+11:49,Arkansas,Desi Sills,Missed Layup,12,14
+11:49,Mississippi State,Mississippi State,Defensive Rebound,12,14
+11:32,Mississippi State,Reggie Perry,Missed Layup,12,14
+11:32,Arkansas,Daniel Gafford,Defensive Rebound,12,14
+11:20,Arkansas,Reggie Chaney,Missed Jumper,12,14
+11:20,Mississippi State,Robert Woodard,Defensive Rebound,12,14
+11:12,Mississippi State,Tyson Carter,Missed Three Point Jumper,12,14
+11:12,Mississippi State,Reggie Perry,Offensive Rebound,12,14
+11:03,Mississippi State,Reggie Perry,Layup,14,14
+10:57,Arkansas,Keyshawn Embery-Simpson,Missed Three Point Jumper,14,14
+10:57,Mississippi State,Reggie Perry,Defensive Rebound,14,14
+10:28,Mississippi State,Lamar Peters,Foul,14,14
+10:28,Mississippi State,Lamar Peters,Turnover,14,14
+10:16,Arkansas,Isaiah Joe,Jumper,14,16
+10:06,Mississippi State,Aric Holman,Turnover,14,16
+10:06,Arkansas,Daniel Gafford,Steal,14,16
+10:00,Arkansas,Adrio Bailey,Dunk,14,18
+9:56,Mississippi State,None,None,14,18
+9:36,Mississippi State,Lamar Peters,Three Point Jumper,17,18
+9:24,Arkansas,Adrio Bailey,Missed Jumper,17,18
+9:24,Mississippi State,Abdul Ado,Defensive Rebound,17,18
+9:14,Mississippi State,Tyson Carter,Missed Three Point Jumper,17,18
+9:14,Mississippi State,Abdul Ado,Offensive Rebound,17,18
+9:10,Arkansas,Isaiah Joe,Foul,17,18
+8:58,Arkansas,Daniel Gafford,Foul,17,18
+8:48,Mississippi State,Quinndary Weatherspoon,Turnover,17,18
+8:48,Arkansas,Isaiah Joe,Steal,17,18
+8:36,Arkansas,Mason Jones,Three Point Jumper,17,21
+8:13,Mississippi State,Reggie Perry,Layup,19,21
+8:01,Arkansas,Daniel Gafford,Turnover,19,21
+8:01,Mississippi State,Quinndary Weatherspoon,Steal,19,21
+7:56,Mississippi State,Tyson Carter,Missed Jumper,19,21
+7:56,Arkansas,Daniel Gafford,Block,19,21
+7:56,Mississippi State,Mississippi State,Offensive Rebound,19,21
+7:56,Arkansas,None,None,19,21
+7:55,Arkansas,None,None,19,21
+7:48,Mississippi State,Robert Woodard,Three Point Jumper,22,21
+7:31,Arkansas,Mason Jones,Missed Three Point Jumper,22,21
+7:31,Mississippi State,Robert Woodard,Defensive Rebound,22,21
+7:03,Mississippi State,Abdul Ado,Missed Jumper,22,21
+7:03,Arkansas,Adrio Bailey,Defensive Rebound,22,21
+6:39,Arkansas,Daniel Gafford,Missed Layup,22,21
+6:39,Mississippi State,Abdul Ado,Defensive Rebound,22,21
+6:27,Mississippi State,Abdul Ado,Missed Jumper,22,21
+6:27,Arkansas,Arkansas,Defensive Rebound,22,21
+5:58,Arkansas,Mason Jones,Missed Three Point Jumper,22,21
+5:58,Mississippi State,Lamar Peters,Defensive Rebound,22,21
+5:50,Mississippi State,Robert Woodard,Layup,24,21
+5:38,Arkansas,Jalen Harris,Missed Three Point Jumper,24,21
+5:38,Mississippi State,Robert Woodard,Block,24,21
+5:38,Arkansas,Jalen Harris,Offensive Rebound,24,21
+5:27,Arkansas,Mason Jones,Three Point Jumper,24,24
+5:03,Mississippi State,Lamar Peters,Turnover,24,24
+5:03,Arkansas,Keyshawn Embery-Simpson,Steal,24,24
+4:58,Arkansas,Jalen Harris,Dunk,24,26
+4:37,Mississippi State,Reggie Perry,Missed Jumper,24,26
+4:37,Arkansas,Arkansas,Defensive Rebound,24,26
+4:10,Arkansas,Reggie Chaney,Turnover,24,26
+3:57,Mississippi State,Robert Woodard,Three Point Jumper,27,26
+3:39,Arkansas,Daniel Gafford,Missed Jumper,27,26
+3:39,Mississippi State,Mississippi State,Defensive Rebound,27,26
+3:39,Arkansas,None,None,27,26
+3:21,Mississippi State,Lamar Peters,Missed Jumper,27,26
+3:21,Arkansas,Daniel Gafford,Block,27,26
+3:21,Mississippi State,Mississippi State,Offensive Rebound,27,26
+3:14,Mississippi State,Lamar Peters,Turnover,27,26
+3:14,Arkansas,Desi Sills,Steal,27,26
+3:11,Arkansas,Mason Jones,Missed Layup,27,26
+3:11,Arkansas,Daniel Gafford,Offensive Rebound,27,26
+3:05,Arkansas,Daniel Gafford,Layup,27,28
+2:49,Arkansas,Reggie Chaney,Foul,27,28
+2:49,Mississippi State,Reggie Perry,Free Throw,28,28
+2:49,Mississippi State,Reggie Perry,Missed Free Throw,28,28
+2:49,Arkansas,Daniel Gafford,Defensive Rebound,28,28
+2:30,Arkansas,Reggie Chaney,Layup,28,30
+2:30,Mississippi State,Lamar Peters,Foul,28,30
+2:30,Arkansas,Reggie Chaney,Free Throw,28,31
+2:04,Arkansas,Keyshawn Embery-Simpson,Foul,28,31
+2:04,Mississippi State,Reggie Perry,Free Throw,29,31
+2:04,Mississippi State,Reggie Perry,Missed Free Throw,29,31
+2:04,Arkansas,Reggie Chaney,Defensive Rebound,29,31
+2:04,Mississippi State,Robert Woodard,Foul,29,31
+2:04,Arkansas,Reggie Chaney,Free Throw,29,32
+2:04,Arkansas,Reggie Chaney,Free Throw,29,33
+1:35,Mississippi State,Tyson Carter,Missed Three Point Jumper,29,33
+1:35,Arkansas,Jalen Harris,Defensive Rebound,29,33
+1:25,Arkansas,Keyshawn Embery-Simpson,Turnover,29,33
+1:10,Arkansas,Gabe Osabuohien,Foul,29,33
+1:07,Mississippi State,Tyson Carter,Missed Three Point Jumper,29,33
+1:07,Mississippi State,Abdul Ado,Offensive Rebound,29,33
+1:02,Arkansas,Reggie Chaney,Foul,29,33
+1:02,Mississippi State,Abdul Ado,Missed Free Throw,29,33
+1:02,Mississippi State,None,Team Rebound,29,33
+1:02,Mississippi State,Abdul Ado,Free Throw,30,33
+0:52,Arkansas,Keyshawn Embery-Simpson,Three Point Jumper,30,36
+0:36,Arkansas,Jalen Harris,Foul,30,36
+0:36,Mississippi State,Quinndary Weatherspoon,Free Throw,31,36
+0:36,Mississippi State,Quinndary Weatherspoon,Free Throw,32,36
+0:08,Arkansas,Jalen Harris,Jumper,32,38
+0:00,Arkansas,None,None,32,38
+20:00,Arkansas,None,None,32,38
+19:47,Arkansas,Daniel Gafford,Missed Jumper,32,38
+19:47,Arkansas,Daniel Gafford,Offensive Rebound,32,38
+19:47,Mississippi State,Reggie Perry,Foul,32,38
+19:47,Arkansas,Daniel Gafford,Free Throw,32,39
+19:47,Arkansas,Daniel Gafford,Free Throw,32,40
+19:27,Arkansas,Adrio Bailey,Foul,32,40
+19:14,Mississippi State,Reggie Perry,Layup,34,40
+18:59,Arkansas,Adrio Bailey,Turnover,34,40
+18:45,Arkansas,Daniel Gafford,Foul,34,40
+18:43,Mississippi State,Lamar Peters,Missed Three Point Jumper,34,40
+18:43,Arkansas,Adrio Bailey,Defensive Rebound,34,40
+18:34,Arkansas,Isaiah Joe,Missed Three Point Jumper,34,40
+18:34,Arkansas,Daniel Gafford,Offensive Rebound,34,40
+18:30,Mississippi State,Lamar Peters,Foul,34,40
+18:18,Arkansas,Mason Jones,Missed Layup,34,40
+18:18,Arkansas,Jalen Harris,Offensive Rebound,34,40
+18:18,Arkansas,None,None,34,40
+18:18,Mississippi State,Reggie Perry,Defensive Rebound,34,40
+18:08,Mississippi State,Tyson Carter,Layup,36,40
+18:08,Arkansas,Daniel Gafford,Turnover,36,40
+18:08,Arkansas,Daniel Gafford,Foul,36,40
+17:41,Arkansas,Gabe Osabuohien,Foul,36,40
+17:30,Mississippi State,Quinndary Weatherspoon,Three Point Jumper,39,40
+17:02,Arkansas,Mason Jones,Missed Three Point Jumper,39,40
+17:02,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,39,40
+16:54,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,39,40
+16:54,Arkansas,Mason Jones,Defensive Rebound,39,40
+16:46,Mississippi State,Abdul Ado,Foul,39,40
+16:46,Arkansas,Mason Jones,Free Throw,39,41
+16:46,Arkansas,Mason Jones,Missed Free Throw,39,41
+16:46,Arkansas,None,Team Rebound,39,41
+16:30,Arkansas,Mason Jones,Turnover,39,41
+16:30,Mississippi State,Tyson Carter,Steal,39,41
+16:26,Mississippi State,Tyson Carter,Dunk,41,41
+16:19,Arkansas,Isaiah Joe,Missed Three Point Jumper,41,41
+16:19,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,41,41
+16:11,Mississippi State,Tyson Carter,Dunk,43,41
+15:55,Arkansas,Adrio Bailey,Missed Jumper,43,41
+15:55,Mississippi State,Reggie Perry,Defensive Rebound,43,41
+15:42,Arkansas,Gabe Osabuohien,Foul,43,41
+15:42,Arkansas,None,None,43,41
+15:42,Mississippi State,Quinndary Weatherspoon,Missed Free Throw,43,41
+15:42,Mississippi State,None,Team Rebound,43,41
+15:42,Mississippi State,Quinndary Weatherspoon,Free Throw,44,41
+15:30,Arkansas,Gabe Osabuohien,Missed Layup,44,41
+15:30,Arkansas,Gabe Osabuohien,Offensive Rebound,44,41
+15:23,Arkansas,Mason Jones,Missed Three Point Jumper,44,41
+15:23,Mississippi State,Aric Holman,Defensive Rebound,44,41
+15:05,Mississippi State,Robert Woodard,Missed Jumper,44,41
+15:05,Mississippi State,Aric Holman,Offensive Rebound,44,41
+14:59,Mississippi State,Aric Holman,Dunk,46,41
+14:36,Arkansas,Jalen Harris,Missed Jumper,46,41
+14:36,Arkansas,Gabe Osabuohien,Offensive Rebound,46,41
+14:19,Arkansas,Mason Jones,Missed Layup,46,41
+14:19,Mississippi State,Abdul Ado,Defensive Rebound,46,41
+14:15,Mississippi State,Quinndary Weatherspoon,Dunk,48,41
+14:14,Arkansas,None,None,48,41
+14:00,Arkansas,Isaiah Joe,Turnover,48,41
+14:00,Mississippi State,Quinndary Weatherspoon,Steal,48,41
+13:58,Mississippi State,Tyson Carter,Layup,50,41
+13:49,Mississippi State,Aric Holman,Foul,50,41
+13:44,Arkansas,Isaiah Joe,Turnover,50,41
+13:44,Mississippi State,Aric Holman,Steal,50,41
+13:44,Arkansas,Isaiah Joe,Foul,50,41
+13:32,Mississippi State,Robert Woodard,Missed Three Point Jumper,50,41
+13:32,Mississippi State,Aric Holman,Offensive Rebound,50,41
+13:30,Arkansas,Jalen Harris,Foul,50,41
+13:30,Mississippi State,Aric Holman,Missed Free Throw,50,41
+13:30,Arkansas,Reggie Chaney,Defensive Rebound,50,41
+13:20,Mississippi State,Aric Holman,Foul,50,41
+13:11,Arkansas,Reggie Chaney,Missed Jumper,50,41
+13:11,Mississippi State,Aric Holman,Block,50,41
+13:11,Arkansas,Arkansas,Offensive Rebound,50,41
+13:03,Arkansas,Keyshawn Embery-Simpson,Missed Jumper,50,41
+13:03,Mississippi State,Reggie Perry,Defensive Rebound,50,41
+12:43,Mississippi State,Robert Woodard,Missed Three Point Jumper,50,41
+12:43,Mississippi State,Reggie Perry,Offensive Rebound,50,41
+12:38,Mississippi State,Reggie Perry,Layup,52,41
+12:22,Arkansas,Keyshawn Embery-Simpson,Missed Three Point Jumper,52,41
+12:22,Mississippi State,Tyson Carter,Defensive Rebound,52,41
+12:01,Mississippi State,Aric Holman,Three Point Jumper,55,41
+11:42,Arkansas,None,None,55,41
+11:42,Arkansas,None,None,55,41
+11:33,Arkansas,Mason Jones,Layup,55,43
+11:33,Mississippi State,Abdul Ado,Foul,55,43
+11:33,Arkansas,Mason Jones,Free Throw,55,44
+11:21,Mississippi State,Tyson Carter,Jumper,57,44
+11:07,Mississippi State,Tyson Carter,Foul,57,44
+11:07,Arkansas,Jalen Harris,Free Throw,57,45
+11:07,Arkansas,Jalen Harris,Missed Free Throw,57,45
+11:07,Mississippi State,Aric Holman,Defensive Rebound,57,45
+10:49,Mississippi State,Tyson Carter,Missed Jumper,57,45
+10:49,Mississippi State,Reggie Perry,Offensive Rebound,57,45
+10:45,Mississippi State,Reggie Perry,Layup,59,45
+10:40,Arkansas,Reggie Chaney,Foul,59,45
+10:40,Arkansas,Reggie Chaney,Foul,59,45
+10:40,Mississippi State,Reggie Perry,Foul,59,45
+10:40,Mississippi State,Reggie Perry,Foul,59,45
+10:28,Arkansas,Arkansas ,Turnover,59,45
+10:28,Mississippi State,Lamar Peters,Steal,59,45
+10:15,Arkansas,Mason Jones,Foul,59,45
+10:15,Mississippi State,Robert Woodard,Free Throw,60,45
+10:15,Mississippi State,Robert Woodard,Free Throw,61,45
+9:53,Mississippi State,Quinndary Weatherspoon,Foul,61,45
+9:53,Arkansas,Daniel Gafford,Missed Free Throw,61,45
+9:53,Mississippi State,Robert Woodard,Defensive Rebound,61,45
+9:34,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,61,45
+9:34,Arkansas,Mason Jones,Defensive Rebound,61,45
+9:25,Arkansas,Isaiah Joe,Missed Three Point Jumper,61,45
+9:25,Mississippi State,Tyson Carter,Defensive Rebound,61,45
+9:05,Mississippi State,Tyson Carter,Missed Jumper,61,45
+9:05,Arkansas,Daniel Gafford,Block,61,45
+9:05,Arkansas,Isaiah Joe,Defensive Rebound,61,45
+8:59,Arkansas,Mason Jones,Layup,61,47
+8:45,Mississippi State,None,None,61,47
+8:29,Mississippi State,Lamar Peters,Missed Three Point Jumper,61,47
+8:29,Arkansas,Adrio Bailey,Defensive Rebound,61,47
+8:23,Mississippi State,Lamar Peters,Foul,61,47
+8:23,Arkansas,Mason Jones,Free Throw,61,48
+8:23,Arkansas,Mason Jones,Free Throw,61,49
+8:01,Mississippi State,Quinndary Weatherspoon,Missed Jumper,61,49
+8:01,Arkansas,Daniel Gafford,Defensive Rebound,61,49
+7:53,Arkansas,Mason Jones,Missed Three Point Jumper,61,49
+7:53,Mississippi State,Robert Woodard,Defensive Rebound,61,49
+7:27,Mississippi State,Aric Holman,Turnover,61,49
+7:27,Arkansas,Isaiah Joe,Steal,61,49
+7:23,Arkansas,Mason Jones,Layup,61,51
+7:20,Mississippi State,None,None,61,51
+7:06,Mississippi State,Reggie Perry,Missed Jumper,61,51
+7:06,Arkansas,Daniel Gafford,Block,61,51
+7:06,Arkansas,Daniel Gafford,Defensive Rebound,61,51
+6:50,Arkansas,Adrio Bailey,Turnover,61,51
+6:50,Mississippi State,Reggie Perry,Steal,61,51
+6:46,Arkansas,Mason Jones,Foul,61,51
+6:46,Mississippi State,Quinndary Weatherspoon,Free Throw,62,51
+6:46,Mississippi State,Quinndary Weatherspoon,Missed Free Throw,62,51
+6:46,Arkansas,Adrio Bailey,Defensive Rebound,62,51
+6:21,Arkansas,Daniel Gafford,Missed Layup,62,51
+6:21,Mississippi State,Reggie Perry,Defensive Rebound,62,51
+6:01,Mississippi State,Reggie Perry,Missed Jumper,62,51
+6:01,Arkansas,Adrio Bailey,Block,62,51
+6:01,Arkansas,Arkansas,Defensive Rebound,62,51
+5:51,Arkansas,Adrio Bailey,Dunk,62,53
+5:25,Mississippi State,Abdul Ado,Missed Jumper,62,53
+5:25,Arkansas,Daniel Gafford,Defensive Rebound,62,53
+5:16,Arkansas,Jalen Harris,Turnover,62,53
+5:16,Mississippi State,Abdul Ado,Steal,62,53
+5:10,Mississippi State,Quinndary Weatherspoon,Dunk,64,53
+5:06,Mississippi State,Quinndary Weatherspoon,Foul,64,53
+5:06,Arkansas,Mason Jones,Free Throw,64,54
+5:06,Arkansas,Mason Jones,Free Throw,64,55
+5:05,Mississippi State,Tyson Carter,Turnover,64,55
+5:05,Arkansas,Jalen Harris,Steal,64,55
+4:42,Arkansas,Daniel Gafford,Missed Jumper,64,55
+4:42,Mississippi State,Abdul Ado,Defensive Rebound,64,55
+4:33,Arkansas,Adrio Bailey,Foul,64,55
+4:33,Mississippi State,Quinndary Weatherspoon,Free Throw,65,55
+4:33,Mississippi State,Quinndary Weatherspoon,Free Throw,66,55
+4:18,Arkansas,Isaiah Joe,Turnover,66,55
+4:01,Mississippi State,Tyson Carter,Missed Three Point Jumper,66,55
+4:01,Mississippi State,Reggie Perry,Offensive Rebound,66,55
+3:32,Mississippi State,Tyson Carter,Foul,66,55
+3:32,Mississippi State,Tyson Carter,Turnover,66,55
+3:32,Arkansas,None,None,66,55
+3:17,Arkansas,Jalen Harris,Jumper,66,57
+2:42,Mississippi State,Quinndary Weatherspoon,Three Point Jumper,69,57
+2:10,Arkansas,Daniel Gafford,Dunk,69,59
+1:33,Mississippi State,Quinndary Weatherspoon,Missed Layup,69,59
+1:33,Mississippi State,Abdul Ado,Offensive Rebound,69,59
+1:33,Mississippi State,None,None,71,59
+1:31,Mississippi State,None,None,71,59
+1:18,Mississippi State,Quinndary Weatherspoon,Foul,71,59
+1:18,Arkansas,Mason Jones,Missed Free Throw,71,59
+1:18,Arkansas,None,Team Rebound,71,59
+1:18,Arkansas,Mason Jones,Free Throw,71,60
+1:14,Arkansas,Jalen Harris,Foul,71,60
+1:14,Mississippi State,Lamar Peters,Missed Free Throw,71,60
+1:14,Mississippi State,None,Team Rebound,71,60
+1:14,Mississippi State,Lamar Peters,Missed Free Throw,71,60
+1:14,Arkansas,Arkansas,Defensive Rebound,71,60
+1:05,Arkansas,Mason Jones,Missed Three Point Jumper,71,60
+1:05,Arkansas,Daniel Gafford,Offensive Rebound,71,60
+1:03,Mississippi State,Reggie Perry,Foul,71,60
+1:03,Arkansas,Daniel Gafford,Free Throw,71,61
+1:03,Arkansas,Daniel Gafford,Free Throw,71,62
+1:00,Arkansas,Isaiah Joe,Foul,71,62
+1:00,Mississippi State,Tyson Carter,Free Throw,72,62
+1:00,Mississippi State,Tyson Carter,Free Throw,73,62
+0:51,Arkansas,Jalen Harris,Turnover,73,62
+0:51,Mississippi State,Quinndary Weatherspoon,Steal,73,62
+0:26,Mississippi State,Quinndary Weatherspoon,Missed Layup,73,62
+0:26,Arkansas,Daniel Gafford,Defensive Rebound,73,62
+0:21,Arkansas,Mason Jones,Layup,73,64
+0:19,Arkansas,Mason Jones,Foul,73,64
+0:19,Mississippi State,Tyson Carter,Free Throw,74,64
+0:19,Mississippi State,Tyson Carter,Free Throw,75,64
+0:13,Arkansas,Mason Jones,Three Point Jumper,75,67
+0:12,Arkansas,Jalen Harris,Foul,75,67
+0:12,Mississippi State,Lamar Peters,Free Throw,76,67
+0:12,Mississippi State,Lamar Peters,Free Throw,77,67
+0:06,Arkansas,Isaiah Joe,Missed Three Point Jumper,77,67
+0:06,Mississippi State,Tyson Carter,Defensive Rebound,77,67
+0:00,Arkansas,None,None,77,67

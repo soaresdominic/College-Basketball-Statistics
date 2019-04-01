@@ -1,0 +1,307 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Clemson,None,None,0,0
+19:38,Clemson,Shelton Mitchell,Three Point Jumper,3,0
+19:11,Georgia,Derek Ogbeide,Turnover,3,0
+19:01,Clemson,Shelton Mitchell,Missed Layup,3,0
+19:01,Georgia,Nicolas Claxton,Defensive Rebound,3,0
+18:50,Georgia,Derek Ogbeide,Missed Jumper,3,0
+18:50,Clemson,Aamir Simms,Defensive Rebound,3,0
+18:42,Clemson,Elijah Thomas,Layup,5,0
+18:42,Georgia,Derek Ogbeide,Foul,5,0
+18:42,Clemson,Elijah Thomas,Missed Free Throw,5,0
+18:42,Georgia,Derek Ogbeide,Defensive Rebound,5,0
+18:29,Georgia,Rayshaun Hammonds,Missed Three Point Jumper,5,0
+18:29,Clemson,Marcquise Reed,Defensive Rebound,5,0
+18:19,Clemson,Marcquise Reed,Missed Jumper,5,0
+18:19,Georgia,Rayshaun Hammonds,Defensive Rebound,5,0
+18:09,Georgia,Rayshaun Hammonds,Missed Jumper,5,0
+18:09,Clemson,Aamir Simms,Defensive Rebound,5,0
+17:58,Clemson,Marcquise Reed,Missed Three Point Jumper,5,0
+17:58,Georgia,Rayshaun Hammonds,Defensive Rebound,5,0
+17:36,Georgia,Nicolas Claxton,Jumper,5,2
+17:22,Clemson,David Skara,Missed Jumper,5,2
+17:22,Georgia,Nicolas Claxton,Block,5,2
+17:22,Georgia,Rayshaun Hammonds,Defensive Rebound,5,2
+17:08,Georgia,Nicolas Claxton,Missed Jumper,5,2
+17:08,Clemson,Elijah Thomas,Defensive Rebound,5,2
+16:47,Clemson,Aamir Simms,Missed Three Point Jumper,5,2
+16:47,Georgia,Rayshaun Hammonds,Defensive Rebound,5,2
+16:30,Georgia,Derek Ogbeide,Missed Jumper,5,2
+16:30,Clemson,Elijah Thomas,Defensive Rebound,5,2
+16:06,Clemson,Elijah Thomas,Layup,7,2
+15:35,Clemson,Aamir Simms,Foul,7,2
+15:35,Georgia,None,None,7,2
+15:35,Georgia,Derek Ogbeide,Missed Free Throw,7,2
+15:35,Georgia,None,Team Rebound,7,2
+15:35,Georgia,Derek Ogbeide,Free Throw,7,3
+15:21,Clemson,Elijah Thomas,Jumper,9,3
+15:03,Georgia,Amanze Ngumezi,Missed Three Point Jumper,9,3
+15:03,Clemson,Marcquise Reed,Defensive Rebound,9,3
+14:56,Clemson,Marcquise Reed,Turnover,9,3
+14:42,Georgia,Tye Fagan,Three Point Jumper,9,6
+14:15,Clemson,Clyde Trapp,Three Point Jumper,12,6
+14:02,Georgia,Teshaun Hightower,Three Point Jumper,12,9
+13:36,Clemson,Hunter Tyson,Missed Layup,12,9
+13:36,Georgia,Amanze Ngumezi,Block,12,9
+13:36,Georgia,Nicolas Claxton,Defensive Rebound,12,9
+13:27,Clemson,Elijah Thomas,Foul,12,9
+13:22,Georgia,Tye Fagan,Turnover,12,9
+13:22,Clemson,David Skara,Steal,12,9
+13:14,Clemson,Hunter Tyson,Missed Three Point Jumper,12,9
+13:14,Georgia,Nicolas Claxton,Defensive Rebound,12,9
+13:09,Georgia,Teshaun Hightower,Missed Three Point Jumper,12,9
+13:09,Clemson,Hunter Tyson,Defensive Rebound,12,9
+12:59,Clemson,Marcquise Reed,Turnover,12,9
+12:59,Georgia,Nicolas Claxton,Steal,12,9
+12:50,Georgia,Tyree Crump,Layup,12,11
+12:30,Clemson,Marcquise Reed,Missed Three Point Jumper,12,11
+12:30,Georgia,Tyree Crump,Defensive Rebound,12,11
+12:21,Georgia,Nicolas Claxton,Missed Jumper,12,11
+12:21,Clemson,Javan White,Defensive Rebound,12,11
+12:10,Clemson,Clyde Trapp,Layup,14,11
+11:50,Georgia,Nicolas Claxton,Missed Jumper,14,11
+11:50,Clemson,Marcquise Reed,Defensive Rebound,14,11
+11:40,Clemson,Marcquise Reed,Three Point Jumper,17,11
+11:08,Georgia,Amanze Ngumezi,Missed Jumper,17,11
+11:08,Clemson,Javan White,Defensive Rebound,17,11
+10:53,Georgia,None,None,17,11
+10:33,Clemson,Clemson ,Turnover,17,11
+10:18,Georgia,Rayshaun Hammonds,Foul,17,11
+10:18,Georgia,Rayshaun Hammonds,Turnover,17,11
+10:07,Clemson,David Skara,Three Point Jumper,20,11
+9:52,Georgia,Tyree Crump,Three Point Jumper,20,14
+9:26,Clemson,John Newman III,Missed Jumper,20,14
+9:26,Clemson,Elijah Thomas,Offensive Rebound,20,14
+9:20,Clemson,Clyde Trapp,Missed Three Point Jumper,20,14
+9:20,Georgia,Rayshaun Hammonds,Defensive Rebound,20,14
+9:10,Georgia,Derek Ogbeide,Missed Layup,20,14
+9:10,Clemson,Shelton Mitchell,Defensive Rebound,20,14
+9:01,Clemson,Shelton Mitchell,Turnover,20,14
+8:59,Georgia,Georgia ,Turnover,20,14
+8:53,Clemson,Clyde Trapp,Missed Three Point Jumper,20,14
+8:53,Georgia,Rayshaun Hammonds,Defensive Rebound,20,14
+8:43,Georgia,Jordan Harris,Missed Jumper,20,14
+8:43,Clemson,John Newman III,Defensive Rebound,20,14
+8:32,Clemson,None,None,20,14
+8:23,Clemson,John Newman III,Missed Layup,20,14
+8:23,Georgia,Derek Ogbeide,Defensive Rebound,20,14
+8:13,Georgia,Rayshaun Hammonds,Layup,20,16
+8:13,Clemson,Shelton Mitchell,Foul,20,16
+8:13,Georgia,Rayshaun Hammonds,Missed Free Throw,20,16
+8:13,Clemson,Elijah Thomas,Defensive Rebound,20,16
+7:49,Georgia,Derek Ogbeide,Foul,20,16
+7:49,Georgia,None,None,20,16
+7:41,Clemson,Marcquise Reed,Jumper,22,16
+7:19,Georgia,Nicolas Claxton,Missed Jumper,22,16
+7:19,Clemson,David Skara,Defensive Rebound,22,16
+7:04,Clemson,Aamir Simms,Missed Three Point Jumper,22,16
+7:04,Georgia,Tyree Crump,Defensive Rebound,22,16
+6:57,Georgia,Tyree Crump,Turnover,22,16
+6:57,Clemson,Shelton Mitchell,Steal,22,16
+6:53,Clemson,Shelton Mitchell,Layup,24,16
+6:32,Georgia,Rayshaun Hammonds,Missed Three Point Jumper,24,16
+6:32,Clemson,David Skara,Defensive Rebound,24,16
+6:21,Clemson,Marcquise Reed,Turnover,24,16
+6:04,Clemson,Aamir Simms,Foul,24,16
+6:00,Georgia,William Jackson II,Jumper,24,18
+5:45,Clemson,Marcquise Reed,Jumper,26,18
+5:34,Georgia,Teshaun Hightower,Missed Three Point Jumper,26,18
+5:34,Clemson,Marcquise Reed,Defensive Rebound,26,18
+5:14,Clemson,Shelton Mitchell,Missed Three Point Jumper,26,18
+5:14,Clemson,Javan White,Offensive Rebound,26,18
+5:05,Clemson,Javan White,Turnover,26,18
+5:04,Clemson,Marcquise Reed,Foul,26,18
+5:04,Georgia,Teshaun Hightower,Free Throw,26,19
+5:04,Georgia,Teshaun Hightower,Missed Free Throw,26,19
+5:04,Georgia,Nicolas Claxton,Offensive Rebound,26,19
+4:54,Georgia,Tye Fagan,Turnover,26,19
+4:54,Clemson,David Skara,Steal,26,19
+4:31,Clemson,Shelton Mitchell,Missed Jumper,26,19
+4:31,Clemson,Marcquise Reed,Offensive Rebound,26,19
+4:27,Clemson,Marcquise Reed,Layup,28,19
+4:09,Georgia,Teshaun Hightower,Missed Three Point Jumper,28,19
+4:09,Georgia,William Jackson II,Offensive Rebound,28,19
+4:02,Georgia,Tye Fagan,Turnover,28,19
+4:02,Clemson,Marcquise Reed,Steal,28,19
+3:53,Clemson,Hunter Tyson,Missed Layup,28,19
+3:53,Clemson,Hunter Tyson,Offensive Rebound,28,19
+3:51,Clemson,Hunter Tyson,Missed Jumper,28,19
+3:51,Georgia,Nicolas Claxton,Block,28,19
+3:51,Georgia,Georgia,Defensive Rebound,28,19
+3:50,Georgia,None,None,28,19
+3:40,Georgia,William Jackson II,Turnover,28,19
+3:30,Clemson,Elijah Thomas,Layup,30,19
+3:15,Georgia,William Jackson II,Missed Three Point Jumper,30,19
+3:15,Clemson,Clyde Trapp,Defensive Rebound,30,19
+2:48,Clemson,Marcquise Reed,Layup,32,19
+2:27,Georgia,Derek Ogbeide,Dunk,32,21
+2:10,Clemson,Marcquise Reed,Missed Jumper,32,21
+2:10,Georgia,Nicolas Claxton,Defensive Rebound,32,21
+2:05,Georgia,Tyree Crump,Three Point Jumper,32,24
+1:44,Clemson,Shelton Mitchell,Missed Jumper,32,24
+1:44,Georgia,Tyree Crump,Defensive Rebound,32,24
+1:33,Georgia,Tyree Crump,Turnover,32,24
+1:33,Clemson,Shelton Mitchell,Steal,32,24
+1:33,Georgia,Tyree Crump,Foul,32,24
+1:23,Clemson,Elijah Thomas,Missed Jumper,32,24
+1:23,Georgia,Derek Ogbeide,Defensive Rebound,32,24
+0:57,Clemson,Clyde Trapp,Foul,32,24
+0:57,Georgia,Ignas Sargiunas,Free Throw,32,25
+0:57,Georgia,Ignas Sargiunas,Free Throw,32,26
+0:43,Clemson,Marcquise Reed,Jumper,34,26
+0:20,Georgia,Tyree Crump,Missed Layup,34,26
+0:20,Clemson,Elijah Thomas,Defensive Rebound,34,26
+0:03,Clemson,Shelton Mitchell,Missed Three Point Jumper,34,26
+0:03,Georgia,Georgia,Defensive Rebound,34,26
+0:00,Georgia,None,None,34,26
+20:00,Georgia,None,None,34,26
+19:47,Georgia,Rayshaun Hammonds,Turnover,34,26
+19:47,Clemson,Elijah Thomas,Steal,34,26
+19:38,Clemson,Marcquise Reed,Layup,36,26
+19:12,Georgia,Nicolas Claxton,Missed Jumper,36,26
+19:12,Clemson,Marcquise Reed,Defensive Rebound,36,26
+18:45,Georgia,Rayshaun Hammonds,Foul,36,26
+18:45,Clemson,David Skara,Missed Free Throw,36,26
+18:45,Clemson,None,Team Rebound,36,26
+18:45,Clemson,David Skara,Free Throw,37,26
+18:26,Georgia,William Jackson II,Turnover,37,26
+18:26,Clemson,David Skara,Steal,37,26
+18:18,Clemson,Aamir Simms,Turnover,37,26
+18:18,Georgia,William Jackson II,Steal,37,26
+18:16,Clemson,Shelton Mitchell,Foul,37,26
+18:11,Georgia,Tye Fagan,Missed Three Point Jumper,37,26
+18:06,Georgia,Nicolas Claxton,Offensive Rebound,37,26
+17:53,Clemson,Elijah Thomas,Foul,37,26
+17:53,Georgia,Nicolas Claxton,Missed Free Throw,37,26
+17:53,Georgia,None,Team Rebound,37,26
+17:53,Georgia,Nicolas Claxton,Free Throw,37,27
+17:34,Clemson,David Skara,Missed Three Point Jumper,37,27
+17:34,Georgia,Nicolas Claxton,Defensive Rebound,37,27
+17:22,Georgia,E'Torrion Wilridge,Layup,37,29
+17:00,Clemson,Marcquise Reed,Jumper,39,29
+16:45,Georgia,Tye Fagan,Layup,39,31
+16:18,Clemson,Marcquise Reed,Missed Layup,39,31
+16:18,Georgia,Nicolas Claxton,Block,39,31
+16:18,Georgia,E'Torrion Wilridge,Defensive Rebound,39,31
+16:15,Georgia,E'Torrion Wilridge,Turnover,39,31
+15:54,Georgia,Rayshaun Hammonds,Foul,39,31
+15:54,Georgia,None,None,39,31
+15:52,Georgia,Derek Ogbeide,Foul,39,31
+15:52,Clemson,Elijah Thomas,Free Throw,40,31
+15:52,Clemson,Elijah Thomas,Free Throw,41,31
+15:38,Georgia,Tyree Crump,Missed Three Point Jumper,41,31
+15:38,Clemson,Elijah Thomas,Defensive Rebound,41,31
+15:23,Clemson,Aamir Simms,Missed Three Point Jumper,41,31
+15:23,Georgia,Derek Ogbeide,Defensive Rebound,41,31
+15:18,Georgia,Derek Ogbeide,Turnover,41,31
+15:05,Clemson,Elijah Thomas,Jumper,43,31
+14:39,Georgia,E'Torrion Wilridge,Layup,43,33
+14:15,Clemson,Shelton Mitchell,Missed Jumper,43,33
+14:15,Georgia,Rayshaun Hammonds,Block,43,33
+14:15,Clemson,Clemson,Offensive Rebound,43,33
+14:11,Clemson,Aamir Simms,Jumper,45,33
+13:48,Georgia,Tye Fagan,Turnover,45,33
+13:48,Clemson,Marcquise Reed,Steal,45,33
+13:33,Clemson,Marcquise Reed,Missed Jumper,45,33
+13:33,Georgia,Nicolas Claxton,Block,45,33
+13:33,Clemson,Marcquise Reed,Offensive Rebound,45,33
+13:19,Clemson,Shelton Mitchell,Three Point Jumper,48,33
+13:08,Georgia,None,None,48,33
+12:51,Georgia,Derek Ogbeide,Layup,48,35
+12:38,Clemson,David Skara,Layup,50,35
+12:15,Georgia,Derek Ogbeide,Layup,50,37
+12:15,Clemson,Javan White,Foul,50,37
+12:15,Georgia,Derek Ogbeide,Missed Free Throw,50,37
+12:15,Clemson,Aamir Simms,Defensive Rebound,50,37
+11:47,Clemson,Marcquise Reed,Missed Three Point Jumper,50,37
+11:47,Clemson,Clemson,Offensive Rebound,50,37
+11:43,Clemson,Clemson ,Turnover,50,37
+11:43,Georgia,None,None,50,37
+11:35,Georgia,Nicolas Claxton,Missed Three Point Jumper,50,37
+11:35,Clemson,Elijah Thomas,Defensive Rebound,50,37
+11:12,Clemson,Elijah Thomas,Turnover,50,37
+11:03,Georgia,Rayshaun Hammonds,Three Point Jumper,50,40
+10:43,Clemson,Clyde Trapp,Missed Jumper,50,40
+10:43,Georgia,Nicolas Claxton,Block,50,40
+10:43,Clemson,Clyde Trapp,Offensive Rebound,50,40
+10:30,Clemson,Shelton Mitchell,Missed Jumper,50,40
+10:30,Georgia,Nicolas Claxton,Defensive Rebound,50,40
+10:19,Georgia,Nicolas Claxton,Missed Jumper,50,40
+10:19,Clemson,Shelton Mitchell,Defensive Rebound,50,40
+9:53,Clemson,David Skara,Missed Three Point Jumper,50,40
+9:53,Georgia,Rayshaun Hammonds,Defensive Rebound,50,40
+9:41,Georgia,Tyree Crump,Missed Three Point Jumper,50,40
+9:41,Clemson,Clyde Trapp,Defensive Rebound,50,40
+9:12,Clemson,Shelton Mitchell,Missed Jumper,50,40
+9:12,Clemson,Elijah Thomas,Offensive Rebound,50,40
+9:06,Clemson,Elijah Thomas,Missed Layup,50,40
+9:06,Georgia,Tyree Crump,Defensive Rebound,50,40
+8:43,Georgia,Teshaun Hightower,Turnover,50,40
+8:24,Clemson,Marcquise Reed,Missed Three Point Jumper,50,40
+8:24,Clemson,Aamir Simms,Offensive Rebound,50,40
+8:18,Clemson,David Skara,Dunk,52,40
+7:46,Georgia,Rayshaun Hammonds,Layup,52,42
+7:27,Clemson,Aamir Simms,Missed Three Point Jumper,52,42
+7:27,Clemson,Marcquise Reed,Offensive Rebound,52,42
+7:21,Clemson,Marcquise Reed,Layup,54,42
+6:55,Georgia,Teshaun Hightower,Missed Jumper,54,42
+6:55,Clemson,Elijah Thomas,Block,54,42
+6:55,Clemson,Shelton Mitchell,Defensive Rebound,54,42
+6:45,Clemson,Shelton Mitchell,Layup,56,42
+6:45,Georgia,Jordan Harris,Foul,56,42
+6:45,Georgia,None,None,56,42
+6:45,Clemson,Shelton Mitchell,Free Throw,57,42
+6:36,Georgia,Jordan Harris,Missed Jumper,57,42
+6:36,Clemson,David Skara,Defensive Rebound,57,42
+6:18,Clemson,Marcquise Reed,Missed Jumper,57,42
+6:18,Georgia,Nicolas Claxton,Defensive Rebound,57,42
+6:04,Georgia,Derek Ogbeide,Missed Jumper,57,42
+6:04,Clemson,Aamir Simms,Defensive Rebound,57,42
+5:45,Clemson,Marcquise Reed,Missed Jumper,57,42
+5:45,Clemson,Javan White,Offensive Rebound,57,42
+5:45,Clemson,None,None,57,42
+5:45,Georgia,Tyree Crump,Defensive Rebound,57,42
+5:23,Georgia,Nicolas Claxton,Missed Three Point Jumper,57,42
+5:23,Clemson,Aamir Simms,Defensive Rebound,57,42
+5:09,Clemson,Shelton Mitchell,Layup,59,42
+5:06,Georgia,None,None,59,42
+4:40,Georgia,Derek Ogbeide,Turnover,59,42
+4:16,Clemson,Shelton Mitchell,Missed Jumper,59,42
+4:16,Georgia,Tyree Crump,Defensive Rebound,59,42
+4:06,Georgia,Derek Ogbeide,Layup,59,44
+3:53,Clemson,David Skara,Turnover,59,44
+3:53,Georgia,Tye Fagan,Steal,59,44
+3:52,Georgia,Tye Fagan,Layup,59,46
+3:51,Clemson,None,None,59,46
+3:51,Georgia,None,None,59,46
+3:51,Georgia,Tye Fagan,Foul,59,46
+3:40,Clemson,Clemson ,Turnover,59,46
+3:18,Georgia,Derek Ogbeide,Layup,59,48
+2:49,Clemson,Aamir Simms,Turnover,59,48
+2:45,Georgia,Tye Fagan,Turnover,59,48
+2:45,Clemson,Elijah Thomas,Steal,59,48
+2:40,Georgia,Tye Fagan,Foul,59,48
+2:36,Clemson,Shelton Mitchell,Turnover,59,48
+2:13,Clemson,David Skara,Foul,59,48
+2:05,Clemson,Elijah Thomas,Foul,59,48
+2:05,Georgia,Tyree Crump,Free Throw,59,49
+2:05,Georgia,Tyree Crump,Missed Free Throw,59,49
+2:05,Clemson,Elijah Thomas,Defensive Rebound,59,49
+1:36,Georgia,Rayshaun Hammonds,Foul,59,49
+1:36,Clemson,Marcquise Reed,Free Throw,60,49
+1:36,Clemson,Marcquise Reed,Missed Free Throw,60,49
+1:36,Georgia,Jordan Harris,Defensive Rebound,60,49
+1:21,Georgia,Jordan Harris,Missed Jumper,60,49
+1:21,Clemson,Marcquise Reed,Defensive Rebound,60,49
+1:16,Georgia,Nicolas Claxton,Foul,60,49
+1:16,Clemson,Marcquise Reed,Free Throw,61,49
+1:16,Clemson,Marcquise Reed,Free Throw,62,49
+0:57,Georgia,Jordan Harris,Missed Layup,62,49
+0:57,Clemson,Elijah Thomas,Defensive Rebound,62,49
+0:50,Georgia,Tyree Crump,Foul,62,49
+0:50,Clemson,Marcquise Reed,Free Throw,63,49
+0:50,Clemson,Marcquise Reed,Free Throw,64,49
+0:35,Georgia,Tyree Crump,Missed Three Point Jumper,64,49
+0:35,Clemson,Elijah Thomas,Defensive Rebound,64,49
+0:01,Clemson,Clemson ,Turnover,64,49
+0:00,Georgia,None,None,64,49

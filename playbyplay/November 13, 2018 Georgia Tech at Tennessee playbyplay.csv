@@ -1,0 +1,368 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Tennessee,None,None,0,0
+19:45,Tennessee,Admiral Schofield,Missed Jumper,0,0
+19:45,Georgia Tech,Evan Cole,Defensive Rebound,0,0
+19:18,Georgia Tech,Abdoulaye Gueye,Missed Layup,0,0
+19:18,Georgia Tech,Abdoulaye Gueye,Offensive Rebound,0,0
+19:15,Georgia Tech,Abdoulaye Gueye,Jumper,2,0
+18:48,Georgia Tech,Curtis Haywood II,Foul,2,0
+18:32,Tennessee,Jordan Bone,Missed Three Point Jumper,2,0
+18:32,Tennessee,Kyle Alexander,Offensive Rebound,2,0
+18:17,Tennessee,Kyle Alexander,Jumper,2,2
+17:35,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,2,2
+17:35,Tennessee,Admiral Schofield,Defensive Rebound,2,2
+17:29,Georgia Tech,Jose Alvarado,Foul,2,2
+17:24,Tennessee,Admiral Schofield,Missed Jumper,2,2
+17:24,Tennessee,Kyle Alexander,Offensive Rebound,2,2
+17:20,Georgia Tech,Abdoulaye Gueye,Foul,2,2
+17:20,Tennessee,Kyle Alexander,Free Throw,2,3
+17:20,Tennessee,Kyle Alexander,Free Throw,2,4
+16:53,Georgia Tech,Shembari Phillips,Missed Three Point Jumper,2,4
+16:53,Tennessee,Admiral Schofield,Defensive Rebound,2,4
+16:38,Georgia Tech,Evan Cole,Foul,2,4
+16:38,Tennessee,Grant Williams,Missed Free Throw,2,4
+16:38,Tennessee,None,Team Rebound,2,4
+16:38,Tennessee,Grant Williams,Free Throw,2,5
+16:26,Georgia Tech,Abdoulaye Gueye,Missed Jumper,2,5
+16:26,Tennessee,Kyle Alexander,Defensive Rebound,2,5
+16:19,Tennessee,Grant Williams,Layup,2,7
+15:58,Tennessee,Admiral Schofield,Foul,2,7
+15:58,Tennessee,None,None,2,7
+15:43,Georgia Tech,Jose Alvarado,Missed Jumper,2,7
+15:43,Georgia Tech,Georgia Tech,Offensive Rebound,2,7
+15:21,Georgia Tech,Michael Devoe,Missed Jumper,2,7
+15:21,Tennessee,Kyle Alexander,Block,2,7
+15:21,Georgia Tech,Georgia Tech,Offensive Rebound,2,7
+15:17,Georgia Tech,Moses Wright,Three Point Jumper,5,7
+15:05,Tennessee,Admiral Schofield,Three Point Jumper,5,10
+14:58,Georgia Tech,Michael Devoe,Turnover,5,10
+14:58,Tennessee,Admiral Schofield,Steal,5,10
+14:55,Tennessee,Admiral Schofield,Turnover,5,10
+14:55,Georgia Tech,Michael Devoe,Steal,5,10
+14:47,Tennessee,John Fulkerson,Foul,5,10
+14:44,Georgia Tech,Michael Devoe,Turnover,5,10
+14:44,Tennessee,John Fulkerson,Steal,5,10
+14:23,Tennessee,Admiral Schofield,Missed Jumper,5,10
+14:23,Georgia Tech,Brandon Alston,Defensive Rebound,5,10
+13:55,Georgia Tech,Michael Devoe,Turnover,5,10
+13:35,Tennessee,Grant Williams,Turnover,5,10
+13:18,Georgia Tech,Michael Devoe,Turnover,5,10
+13:18,Tennessee,Yves Pons,Steal,5,10
+13:08,Georgia Tech,Sylvester Ogbonda,Foul,5,10
+13:08,Tennessee,John Fulkerson,Missed Free Throw,5,10
+13:08,Tennessee,None,Team Rebound,5,10
+13:08,Tennessee,John Fulkerson,Free Throw,5,11
+12:57,Georgia Tech,Sylvester Ogbonda,Foul,5,11
+12:57,Georgia Tech,Sylvester Ogbonda,Turnover,5,11
+12:33,Tennessee,Jordan Bone,Turnover,5,11
+12:15,Georgia Tech,Shembari Phillips,Missed Three Point Jumper,5,11
+12:15,Tennessee,Admiral Schofield,Defensive Rebound,5,11
+12:07,Tennessee,Yves Pons,Missed Three Point Jumper,5,11
+12:07,Georgia Tech,Curtis Haywood II,Defensive Rebound,5,11
+11:54,Georgia Tech,Moses Wright,Jumper,7,11
+11:28,Georgia Tech,Shembari Phillips,Foul,7,11
+11:28,Tennessee,None,None,7,11
+11:28,Tennessee,Admiral Schofield,Missed Free Throw,7,11
+11:28,Georgia Tech,Curtis Haywood II,Defensive Rebound,7,11
+11:05,Georgia Tech,Moses Wright,Missed Jumper,7,11
+11:05,Tennessee,Jordan Bone,Defensive Rebound,7,11
+10:52,Georgia Tech,Moses Wright,Foul,7,11
+10:52,Tennessee,Grant Williams,Free Throw,7,12
+10:52,Tennessee,Grant Williams,Free Throw,7,13
+10:32,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,7,13
+10:31,Tennessee,Grant Williams,Defensive Rebound,7,13
+10:30,Georgia Tech,Evan Cole,Foul,7,13
+10:30,Tennessee,Grant Williams,Free Throw,7,14
+10:30,Tennessee,Grant Williams,Missed Free Throw,7,14
+10:30,Georgia Tech,Curtis Haywood II,Defensive Rebound,7,14
+10:11,Georgia Tech,Abdoulaye Gueye,Missed Jumper,7,14
+10:11,Tennessee,Kyle Alexander,Defensive Rebound,7,14
+9:48,Tennessee,Grant Williams,Turnover,7,14
+9:48,Georgia Tech,Abdoulaye Gueye,Steal,7,14
+9:41,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,7,14
+9:41,Tennessee,Jalen Johnson,Defensive Rebound,7,14
+9:27,Tennessee,Jordan Bone,Turnover,7,14
+9:22,Georgia Tech,Abdoulaye Gueye,Layup,9,14
+9:07,Tennessee,Grant Williams,Jumper,9,16
+8:43,Tennessee,Yves Pons,Foul,9,16
+8:43,Georgia Tech,Brandon Alston,Free Throw,10,16
+8:43,Georgia Tech,Brandon Alston,Free Throw,11,16
+8:36,Tennessee,Kyle Alexander,Jumper,11,18
+8:21,Tennessee,Yves Pons,Foul,11,18
+8:18,Georgia Tech,Curtis Haywood II,Layup,13,18
+7:56,Tennessee,Grant Williams,Jumper,13,20
+7:56,Georgia Tech,Brandon Alston,Foul,13,20
+7:56,Tennessee,None,None,13,20
+7:56,Tennessee,Grant Williams,Free Throw,13,21
+7:43,Georgia Tech,Brandon Alston,Jumper,15,21
+7:24,Tennessee,Jordan Bowden,Three Point Jumper,15,24
+7:16,Tennessee,Jordan Bowden,Foul,15,24
+7:12,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,15,24
+7:12,Tennessee,Jordan Bowden,Defensive Rebound,15,24
+7:01,Tennessee,Jalen Johnson,Three Point Jumper,15,27
+6:44,Georgia Tech,Michael Devoe,Missed Three Point Jumper,15,27
+6:44,Tennessee,Jordan Bowden,Defensive Rebound,15,27
+6:36,Tennessee,Jordan Bowden,Missed Jumper,15,27
+6:36,Georgia Tech,Abdoulaye Gueye,Defensive Rebound,15,27
+6:32,Tennessee,Kyle Alexander,Foul,15,27
+6:23,Georgia Tech,Michael Devoe,Missed Jumper,15,27
+6:23,Tennessee,Jordan Bowden,Defensive Rebound,15,27
+6:03,Tennessee,Grant Williams,Missed Jumper,15,27
+6:03,Georgia Tech,Abdoulaye Gueye,Block,15,27
+6:03,Georgia Tech,Brandon Alston,Defensive Rebound,15,27
+5:53,Georgia Tech,Michael Devoe,Missed Three Point Jumper,15,27
+5:53,Georgia Tech,Moses Wright,Offensive Rebound,15,27
+5:45,Georgia Tech,Brandon Alston,Missed Jumper,15,27
+5:45,Tennessee,Jordan Bowden,Defensive Rebound,15,27
+5:37,Tennessee,Jalen Johnson,Turnover,15,27
+5:37,Georgia Tech,Brandon Alston,Steal,15,27
+5:17,Georgia Tech,Michael Devoe,Turnover,15,27
+5:17,Tennessee,None,None,15,27
+5:01,Tennessee,Jordan Bone,Missed Jumper,15,27
+5:01,Georgia Tech,Abdoulaye Gueye,Defensive Rebound,15,27
+4:49,Georgia Tech,Shembari Phillips,Layup,17,27
+4:49,Tennessee,None,None,17,27
+4:49,Tennessee,None,None,17,27
+4:34,Tennessee,John Fulkerson,Missed Jumper,17,27
+4:34,Tennessee,John Fulkerson,Offensive Rebound,17,27
+4:34,Tennessee,None,None,17,27
+4:34,Georgia Tech,Abdoulaye Gueye,Defensive Rebound,17,27
+4:17,Tennessee,Yves Pons,Foul,17,27
+4:17,Georgia Tech,Abdoulaye Gueye,Free Throw,18,27
+4:17,Georgia Tech,Abdoulaye Gueye,Missed Free Throw,18,27
+4:17,Tennessee,John Fulkerson,Defensive Rebound,18,27
+3:58,Tennessee,Admiral Schofield,Missed Jumper,18,27
+3:58,Georgia Tech,Khalid Moore,Defensive Rebound,18,27
+3:50,Georgia Tech,Khalid Moore,Missed Three Point Jumper,18,27
+3:50,Tennessee,Jordan Bowden,Defensive Rebound,18,27
+3:35,Tennessee,Jordan Bone,Jumper,18,29
+3:16,Georgia Tech,Jose Alvarado,Three Point Jumper,21,29
+2:49,Georgia Tech,Abdoulaye Gueye,Foul,21,29
+2:49,Tennessee,None,None,21,29
+2:49,Tennessee,Grant Williams,Missed Free Throw,21,29
+2:49,Tennessee,None,Team Rebound,21,29
+2:49,Tennessee,Grant Williams,Free Throw,21,30
+2:24,Georgia Tech,Jose Alvarado,Missed Jumper,21,30
+2:24,Georgia Tech,James Banks III,Offensive Rebound,21,30
+2:24,Georgia Tech,None,None,23,30
+2:05,Tennessee,Grant Williams,Turnover,23,30
+2:05,Georgia Tech,Moses Wright,Steal,23,30
+2:05,Tennessee,Grant Williams,Foul,23,30
+2:05,Georgia Tech,Moses Wright,Free Throw,24,30
+2:05,Georgia Tech,Moses Wright,Free Throw,25,30
+1:44,Tennessee,Grant Williams,Turnover,25,30
+1:34,Georgia Tech,Jose Alvarado,Missed Jumper,25,30
+1:34,Tennessee,John Fulkerson,Defensive Rebound,25,30
+1:21,Georgia Tech,Khalid Moore,Foul,25,30
+1:21,Tennessee,Jordan Bowden,Free Throw,25,31
+1:21,Tennessee,Jordan Bowden,Free Throw,25,32
+1:21,Georgia Tech,None,None,25,32
+1:09,Georgia Tech,Shembari Phillips,Missed Jumper,25,32
+1:09,Tennessee,Admiral Schofield,Defensive Rebound,25,32
+1:03,Tennessee,Admiral Schofield,Missed Three Point Jumper,25,32
+1:03,Georgia Tech,Georgia Tech,Defensive Rebound,25,32
+0:55,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,25,32
+0:55,Tennessee,Jordan Bowden,Defensive Rebound,25,32
+0:34,Georgia Tech,James Banks III,Foul,25,32
+0:34,Tennessee,Grant Williams,Missed Free Throw,25,32
+0:34,Tennessee,None,Team Rebound,25,32
+0:34,Tennessee,Grant Williams,Free Throw,25,33
+0:05,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,25,33
+0:05,Tennessee,Admiral Schofield,Block,25,33
+0:05,Tennessee,Admiral Schofield,Defensive Rebound,25,33
+0:00,Tennessee,None,None,25,33
+20:00,Georgia Tech,None,None,25,33
+19:40,Georgia Tech,Abdoulaye Gueye,Missed Jumper,25,33
+19:40,Tennessee,Tennessee,Defensive Rebound,25,33
+19:33,Tennessee,Jordan Bone,Layup,25,35
+19:13,Georgia Tech,Curtis Haywood II,Turnover,25,35
+19:13,Tennessee,Jordan Bowden,Steal,25,35
+18:59,Tennessee,None,None,25,35
+18:52,Georgia Tech,Jose Alvarado,Foul,25,35
+18:49,Tennessee,Admiral Schofield,Turnover,25,35
+18:49,Georgia Tech,Brandon Alston,Steal,25,35
+18:44,Tennessee,Jordan Bowden,Foul,25,35
+18:44,Georgia Tech,Brandon Alston,Free Throw,26,35
+18:44,Georgia Tech,Brandon Alston,Free Throw,27,35
+18:30,Tennessee,Grant Williams,Jumper,27,37
+17:57,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,27,37
+17:57,Georgia Tech,Georgia Tech,Offensive Rebound,27,37
+17:37,Georgia Tech,Abdoulaye Gueye,Missed Jumper,27,37
+17:37,Tennessee,Grant Williams,Defensive Rebound,27,37
+17:13,Tennessee,Jordan Bone,Missed Layup,27,37
+17:13,Tennessee,Grant Williams,Offensive Rebound,27,37
+17:10,Georgia Tech,Shembari Phillips,Foul,27,37
+17:02,Tennessee,Admiral Schofield,Jumper,27,39
+16:35,Georgia Tech,Evan Cole,Missed Jumper,27,39
+16:35,Tennessee,Jordan Bowden,Defensive Rebound,27,39
+16:27,Tennessee,Jordan Bowden,Missed Layup,27,39
+16:27,Georgia Tech,Shembari Phillips,Defensive Rebound,27,39
+16:26,Tennessee,Kyle Alexander,Foul,27,39
+16:05,Georgia Tech,Jose Alvarado,Turnover,27,39
+16:05,Tennessee,John Fulkerson,Steal,27,39
+15:46,Tennessee,Jordan Bone,Missed Layup,27,39
+15:46,Georgia Tech,James Banks III,Block,27,39
+15:46,Georgia Tech,James Banks III,Defensive Rebound,27,39
+15:38,Georgia Tech,Evan Cole,Missed Three Point Jumper,27,39
+15:38,Tennessee,Jordan Bowden,Defensive Rebound,27,39
+15:20,Georgia Tech,Shembari Phillips,Foul,27,39
+15:20,Tennessee,None,None,27,39
+15:20,Tennessee,None,None,27,39
+15:16,Tennessee,Jordan Bone,Missed Three Point Jumper,27,39
+15:16,Tennessee,Grant Williams,Offensive Rebound,27,39
+15:13,Georgia Tech,Jose Alvarado,Foul,27,39
+15:02,Tennessee,Grant Williams,Missed Jumper,27,39
+15:02,Georgia Tech,Jose Alvarado,Defensive Rebound,27,39
+14:38,Tennessee,Grant Williams,Foul,27,39
+14:38,Georgia Tech,James Banks III,Missed Free Throw,27,39
+14:38,Georgia Tech,None,Team Rebound,27,39
+14:38,Georgia Tech,James Banks III,Free Throw,28,39
+14:20,Tennessee,Grant Williams,Missed Jumper,28,39
+14:20,Georgia Tech,Georgia Tech,Defensive Rebound,28,39
+14:13,Georgia Tech,Jose Alvarado,Missed Layup,28,39
+14:13,Tennessee,John Fulkerson,Block,28,39
+14:13,Tennessee,John Fulkerson,Defensive Rebound,28,39
+14:01,Georgia Tech,James Banks III,Foul,28,39
+13:58,Tennessee,Admiral Schofield,Missed Layup,28,39
+13:58,Georgia Tech,James Banks III,Defensive Rebound,28,39
+13:53,Tennessee,Grant Williams,Foul,28,39
+13:53,Georgia Tech,Brandon Alston,Free Throw,29,39
+13:53,Georgia Tech,Brandon Alston,Free Throw,30,39
+13:33,Tennessee,Admiral Schofield,Missed Three Point Jumper,30,39
+13:33,Tennessee,John Fulkerson,Offensive Rebound,30,39
+13:27,Tennessee,Jordan Bowden,Missed Three Point Jumper,30,39
+13:27,Georgia Tech,Michael Devoe,Defensive Rebound,30,39
+13:19,Georgia Tech,Moses Wright,Missed Layup,30,39
+13:19,Tennessee,John Fulkerson,Block,30,39
+13:19,Tennessee,Jordan Bowden,Defensive Rebound,30,39
+13:12,Georgia Tech,Michael Devoe,Foul,30,39
+13:12,Tennessee,Kyle Alexander,Free Throw,30,40
+13:12,Tennessee,Kyle Alexander,Free Throw,30,41
+13:02,Georgia Tech,Brandon Alston,Missed Three Point Jumper,30,41
+13:02,Tennessee,Kyle Alexander,Defensive Rebound,30,41
+12:58,Georgia Tech,James Banks III,Foul,30,41
+12:58,Tennessee,Kyle Alexander,Free Throw,30,42
+12:58,Tennessee,Kyle Alexander,Missed Free Throw,30,42
+12:58,Georgia Tech,Moses Wright,Defensive Rebound,30,42
+12:39,Tennessee,Admiral Schofield,Foul,30,42
+12:39,Tennessee,Jalen Johnson,Foul,30,42
+12:35,Georgia Tech,Brandon Alston,Missed Jumper,30,42
+12:35,Georgia Tech,Brandon Alston,Offensive Rebound,30,42
+12:30,Georgia Tech,Brandon Alston,Missed Layup,30,42
+12:30,Georgia Tech,James Banks III,Offensive Rebound,30,42
+12:27,Georgia Tech,James Banks III,Missed Dunk,30,42
+12:27,Tennessee,Admiral Schofield,Defensive Rebound,30,42
+12:27,Georgia Tech,James Banks III,Foul,30,42
+12:27,Tennessee,Admiral Schofield,Missed Free Throw,30,42
+12:27,Tennessee,Kyle Alexander,Offensive Rebound,30,42
+12:21,Tennessee,Admiral Schofield,Missed Jumper,30,42
+12:21,Georgia Tech,James Banks III,Defensive Rebound,30,42
+12:14,Georgia Tech,Jose Alvarado,Three Point Jumper,33,42
+12:10,Tennessee,None,None,33,42
+11:53,Tennessee,Admiral Schofield,Turnover,33,42
+11:36,Georgia Tech,Abdoulaye Gueye,Jumper,35,42
+11:21,Tennessee,Kyle Alexander,Three Point Jumper,35,45
+11:02,Georgia Tech,Moses Wright,Missed Jumper,35,45
+11:02,Tennessee,John Fulkerson,Defensive Rebound,35,45
+10:29,Tennessee,Tennessee ,Turnover,35,45
+10:11,Georgia Tech,Jose Alvarado,Layup,37,45
+9:51,Tennessee,Jordan Bone,Jumper,37,47
+9:37,Georgia Tech,Michael Devoe,Turnover,37,47
+9:23,Georgia Tech,Moses Wright,Foul,37,47
+9:23,Tennessee,Grant Williams,Missed Free Throw,37,47
+9:23,Georgia Tech,James Banks III,Defensive Rebound,37,47
+8:59,Georgia Tech,Michael Devoe,Missed Jumper,37,47
+8:59,Tennessee,Grant Williams,Defensive Rebound,37,47
+8:54,Georgia Tech,Jose Alvarado,Foul,37,47
+8:54,Tennessee,Grant Williams,Free Throw,37,48
+8:54,Tennessee,Grant Williams,Free Throw,37,49
+8:44,Georgia Tech,Georgia Tech ,Turnover,37,49
+8:37,Tennessee,Jordan Bowden,Missed Jumper,37,49
+8:37,Tennessee,Grant Williams,Offensive Rebound,37,49
+8:34,Georgia Tech,Brandon Alston,Foul,37,49
+8:34,Tennessee,Grant Williams,Missed Free Throw,37,49
+8:34,Tennessee,None,Team Rebound,37,49
+8:34,Tennessee,Grant Williams,Free Throw,37,50
+8:34,Georgia Tech,Brandon Alston,Turnover,37,50
+8:32,Tennessee,Admiral Schofield,Missed Dunk,37,50
+8:32,Tennessee,Kyle Alexander,Offensive Rebound,37,50
+8:11,Tennessee,Grant Williams,Jumper,37,52
+7:58,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,37,52
+7:58,Georgia Tech,Moses Wright,Offensive Rebound,37,52
+7:53,Georgia Tech,Brandon Alston,Jumper,39,52
+7:34,Tennessee,None,None,39,52
+7:26,Tennessee,Jordan Bone,Missed Jumper,39,52
+7:26,Tennessee,Admiral Schofield,Offensive Rebound,39,52
+7:26,Tennessee,Admiral Schofield,Turnover,39,52
+7:26,Georgia Tech,Moses Wright,Steal,39,52
+6:52,Georgia Tech,Brandon Alston,Jumper,41,52
+6:33,Tennessee,Jordan Bone,Jumper,41,54
+6:25,Tennessee,Grant Williams,Foul,41,54
+6:25,Georgia Tech,Shembari Phillips,Missed Free Throw,41,54
+6:25,Tennessee,Kyle Alexander,Defensive Rebound,41,54
+6:11,Tennessee,Jordan Bone,Jumper,41,56
+5:55,Tennessee,Admiral Schofield,Foul,41,56
+5:55,Georgia Tech,James Banks III,Free Throw,42,56
+5:55,Georgia Tech,James Banks III,Free Throw,43,56
+5:34,Georgia Tech,Jose Alvarado,Foul,43,56
+5:34,Tennessee,Jordan Bone,Missed Free Throw,43,56
+5:34,Tennessee,None,Team Rebound,43,56
+5:34,Tennessee,Jordan Bone,Missed Free Throw,43,56
+5:34,Georgia Tech,James Banks III,Defensive Rebound,43,56
+5:31,Georgia Tech,None,None,43,56
+5:14,Georgia Tech,James Banks III,Foul,43,56
+5:14,Georgia Tech,James Banks III,Turnover,43,56
+4:58,Tennessee,Admiral Schofield,Missed Three Point Jumper,43,56
+4:58,Tennessee,Jordan Bowden,Offensive Rebound,43,56
+4:36,Georgia Tech,Sylvester Ogbonda,Foul,43,56
+4:36,Tennessee,Admiral Schofield,Free Throw,43,57
+4:36,Tennessee,Admiral Schofield,Missed Free Throw,43,57
+4:36,Georgia Tech,Evan Cole,Defensive Rebound,43,57
+4:15,Georgia Tech,Sylvester Ogbonda,Missed Jumper,43,57
+4:15,Georgia Tech,Georgia Tech,Offensive Rebound,43,57
+4:01,Georgia Tech,Khalid Moore,Missed Layup,43,57
+4:01,Georgia Tech,Sylvester Ogbonda,Offensive Rebound,43,57
+3:58,Tennessee,Kyle Alexander,Foul,43,57
+3:58,Tennessee,None,None,43,57
+3:58,Georgia Tech,Sylvester Ogbonda,Free Throw,44,57
+3:58,Georgia Tech,Sylvester Ogbonda,Free Throw,45,57
+3:34,Tennessee,Jordan Bowden,Missed Jumper,45,57
+3:34,Georgia Tech,Evan Cole,Defensive Rebound,45,57
+3:25,Georgia Tech,Khalid Moore,Missed Layup,45,57
+3:25,Tennessee,Grant Williams,Defensive Rebound,45,57
+3:20,Tennessee,Admiral Schofield,Layup,45,59
+3:08,Tennessee,Kyle Alexander,Foul,45,59
+3:08,Georgia Tech,Khalid Moore,Free Throw,46,59
+3:08,Georgia Tech,Khalid Moore,Free Throw,47,59
+2:47,Tennessee,Grant Williams,Missed Three Point Jumper,47,59
+2:47,Georgia Tech,Michael Devoe,Defensive Rebound,47,59
+2:29,Georgia Tech,Brandon Alston,Layup,49,59
+1:54,Tennessee,Kyle Alexander,Missed Jumper,49,59
+1:54,Georgia Tech,Brandon Alston,Defensive Rebound,49,59
+1:51,Tennessee,Jordan Bowden,Foul,49,59
+1:51,Georgia Tech,Brandon Alston,Free Throw,50,59
+1:51,Georgia Tech,Brandon Alston,Free Throw,51,59
+1:21,Tennessee,Grant Williams,Jumper,51,61
+1:10,Georgia Tech,Moses Wright,Missed Three Point Jumper,51,61
+1:10,Tennessee,Jordan Bowden,Defensive Rebound,51,61
+1:00,Tennessee,Jordan Bowden,Turnover,51,61
+1:00,Georgia Tech,None,None,51,61
+0:59,Georgia Tech,Moses Wright,Turnover,51,61
+0:59,Tennessee,Jordan Bone,Steal,51,61
+0:59,Georgia Tech,Kristian Sjolund,Foul,51,61
+0:59,Tennessee,Jordan Bone,Free Throw,51,62
+0:59,Tennessee,Jordan Bone,Missed Free Throw,51,62
+0:59,Georgia Tech,Sylvester Ogbonda,Defensive Rebound,51,62
+0:51,Georgia Tech,Michael Devoe,Missed Jumper,51,62
+0:51,Tennessee,Grant Williams,Defensive Rebound,51,62
+0:42,Georgia Tech,Kristian Sjolund,Foul,51,62
+0:42,Tennessee,Jordan Bone,Free Throw,51,63
+0:42,Tennessee,Jordan Bone,Free Throw,51,64
+0:36,Georgia Tech,Khalid Moore,Jumper,53,64
+0:34,Georgia Tech,None,None,53,64
+0:30,Georgia Tech,Kristian Sjolund,Foul,53,64
+0:30,Tennessee,Jordan Bone,Free Throw,53,65
+0:30,Tennessee,Jordan Bone,Free Throw,53,66
+0:23,Georgia Tech,Khalid Moore,Missed Jumper,53,66
+0:23,Tennessee,Kyle Alexander,Defensive Rebound,53,66
+0:00,Tennessee,None,None,53,66

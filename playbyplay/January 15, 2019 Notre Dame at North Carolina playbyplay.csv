@@ -1,0 +1,343 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,North Carolina,None,None,0,0
+19:50,North Carolina,Coby White,Three Point Jumper,0,3
+19:21,Notre Dame,None,None,0,3
+19:20,Notre Dame,D.J. Harvey,Turnover,0,3
+19:20,North Carolina,Coby White,Steal,0,3
+19:13,North Carolina,Cameron Johnson,Missed Three Point Jumper,0,3
+19:13,Notre Dame,John Mooney,Defensive Rebound,0,3
+19:01,Notre Dame,Prentiss Hubb,Foul,0,3
+19:01,Notre Dame,Prentiss Hubb,Turnover,0,3
+18:57,North Carolina,Luke Maye,Missed Jumper,0,3
+18:57,Notre Dame,Nate Laszewski,Defensive Rebound,0,3
+18:33,North Carolina,Cameron Johnson,Foul,0,3
+18:33,Notre Dame,D.J. Harvey,Free Throw,1,3
+18:33,Notre Dame,D.J. Harvey,Free Throw,2,3
+18:27,North Carolina,Luke Maye,Layup,2,5
+18:01,Notre Dame,John Mooney,Missed Layup,2,5
+18:01,Notre Dame,John Mooney,Offensive Rebound,2,5
+17:55,Notre Dame,TJ Gibbs,Missed Jumper,2,5
+17:55,North Carolina,Luke Maye,Defensive Rebound,2,5
+17:34,North Carolina,Cameron Johnson,Missed Three Point Jumper,2,5
+17:34,Notre Dame,John Mooney,Defensive Rebound,2,5
+17:18,Notre Dame,Nate Laszewski,Missed Three Point Jumper,2,5
+17:18,North Carolina,Coby White,Defensive Rebound,2,5
+17:06,North Carolina,Garrison Brooks,Missed Layup,2,5
+17:06,Notre Dame,Nate Laszewski,Block,2,5
+17:06,North Carolina,Garrison Brooks,Offensive Rebound,2,5
+16:59,North Carolina,Garrison Brooks,Jumper,2,7
+16:39,Notre Dame,John Mooney,Layup,4,7
+16:29,North Carolina,Luke Maye,Missed Jumper,4,7
+16:29,Notre Dame,John Mooney,Defensive Rebound,4,7
+16:10,Notre Dame,John Mooney,Layup,6,7
+15:49,North Carolina,Cameron Johnson,Jumper,6,9
+15:30,Notre Dame,TJ Gibbs,Three Point Jumper,9,9
+15:13,North Carolina,None,None,9,9
+15:03,North Carolina,Luke Maye,Turnover,9,9
+14:47,Notre Dame,Juwan Durham,Layup,11,9
+14:32,North Carolina,Luke Maye,Three Point Jumper,11,12
+14:15,Notre Dame,Prentiss Hubb,Three Point Jumper,14,12
+14:01,North Carolina,Coby White,Three Point Jumper,14,15
+13:49,Notre Dame,D.J. Harvey,Layup,16,15
+13:35,North Carolina,Coby White,Missed Three Point Jumper,16,15
+13:35,North Carolina,Garrison Brooks,Offensive Rebound,16,15
+13:26,North Carolina,Luke Maye,Layup,16,17
+13:26,Notre Dame,Juwan Durham,Foul,16,17
+13:26,North Carolina,Luke Maye,Free Throw,16,18
+13:07,Notre Dame,Nikola Djogo,Turnover,16,18
+12:53,North Carolina,Luke Maye,Turnover,16,18
+12:53,Notre Dame,Nikola Djogo,Steal,16,18
+12:47,Notre Dame,Nate Laszewski,Missed Three Point Jumper,16,18
+12:47,North Carolina,Coby White,Defensive Rebound,16,18
+12:33,North Carolina,Coby White,Jumper,16,20
+12:17,Notre Dame,Nikola Djogo,Layup,18,20
+12:01,North Carolina,Brandon Robinson,Three Point Jumper,18,23
+11:46,Notre Dame,Nikola Djogo,Missed Three Point Jumper,18,23
+11:46,North Carolina,Nassir Little,Defensive Rebound,18,23
+11:32,North Carolina,Coby White,Missed Three Point Jumper,18,23
+11:32,Notre Dame,TJ Gibbs,Defensive Rebound,18,23
+11:23,Notre Dame,TJ Gibbs,Missed Three Point Jumper,18,23
+11:23,North Carolina,Luke Maye,Defensive Rebound,18,23
+11:15,North Carolina,Luke Maye,Missed Jumper,18,23
+11:15,Notre Dame,Nikola Djogo,Defensive Rebound,18,23
+10:51,Notre Dame,Nikola Djogo,Turnover,18,23
+10:51,North Carolina,None,None,18,23
+10:45,North Carolina,Brandon Robinson,Three Point Jumper,18,26
+10:07,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,18,26
+10:07,North Carolina,Nassir Little,Defensive Rebound,18,26
+9:53,North Carolina,Luke Maye,Missed Three Point Jumper,18,26
+9:53,Notre Dame,Notre Dame,Defensive Rebound,18,26
+9:48,North Carolina,Nassir Little,Foul,18,26
+9:37,North Carolina,Luke Maye,Foul,18,26
+9:37,Notre Dame,John Mooney,Free Throw,19,26
+9:37,Notre Dame,John Mooney,Free Throw,20,26
+9:25,North Carolina,Cameron Johnson,Foul,20,26
+9:25,North Carolina,Cameron Johnson,Turnover,20,26
+9:01,Notre Dame,Prentiss Hubb,Turnover,20,26
+9:01,North Carolina,Brandon Robinson,Steal,20,26
+8:57,North Carolina,Seventh Woods,Turnover,20,26
+8:45,Notre Dame,John Mooney,Turnover,20,26
+8:45,North Carolina,Leaky Black,Steal,20,26
+8:33,North Carolina,Leaky Black,Missed Jumper,20,26
+8:33,Notre Dame,John Mooney,Defensive Rebound,20,26
+8:15,Notre Dame,Prentiss Hubb,Missed Layup,20,26
+8:15,Notre Dame,John Mooney,Offensive Rebound,20,26
+8:04,Notre Dame,John Mooney,Missed Layup,20,26
+8:04,North Carolina,Brandon Robinson,Defensive Rebound,20,26
+7:59,North Carolina,Leaky Black,Missed Jumper,20,26
+7:59,North Carolina,Nassir Little,Offensive Rebound,20,26
+7:55,North Carolina,Nassir Little,Missed Layup,20,26
+7:55,Notre Dame,John Mooney,Defensive Rebound,20,26
+7:45,Notre Dame,TJ Gibbs,Missed Jumper,20,26
+7:45,Notre Dame,Dane Goodwin,Offensive Rebound,20,26
+7:39,Notre Dame,Prentiss Hubb,Three Point Jumper,23,26
+7:23,North Carolina,Garrison Brooks,Missed Jumper,23,26
+7:23,North Carolina,North Carolina,Offensive Rebound,23,26
+7:23,North Carolina,None,None,23,26
+7:16,North Carolina,Leaky Black,Missed Jumper,23,26
+7:16,Notre Dame,John Mooney,Defensive Rebound,23,26
+6:54,Notre Dame,John Mooney,Missed Three Point Jumper,23,26
+6:54,North Carolina,Coby White,Defensive Rebound,23,26
+6:45,North Carolina,Coby White,Foul,23,26
+6:45,North Carolina,Coby White,Turnover,23,26
+6:33,Notre Dame,Prentiss Hubb,Turnover,23,26
+6:33,North Carolina,Seventh Woods,Steal,23,26
+6:31,North Carolina,None,None,23,26
+6:16,North Carolina,Garrison Brooks,Missed Jumper,23,26
+6:16,Notre Dame,John Mooney,Block,23,26
+6:13,North Carolina,Garrison Brooks,Offensive Rebound,23,26
+6:13,North Carolina,Garrison Brooks,Missed Jumper,23,26
+6:13,Notre Dame,John Mooney,Block,23,26
+6:10,Notre Dame,John Mooney,Defensive Rebound,23,26
+5:53,Notre Dame,John Mooney,Missed Jumper,23,26
+5:52,North Carolina,Garrison Brooks,Defensive Rebound,23,26
+5:31,North Carolina,Seventh Woods,Turnover,23,26
+5:22,Notre Dame,Nate Laszewski,Missed Three Point Jumper,23,26
+5:22,North Carolina,Kenny Williams,Defensive Rebound,23,26
+5:09,North Carolina,Kenny Williams,Layup,23,28
+4:54,Notre Dame,Prentiss Hubb,Turnover,23,28
+4:54,North Carolina,Seventh Woods,Steal,23,28
+4:36,North Carolina,Garrison Brooks,Turnover,23,28
+4:21,Notre Dame,TJ Gibbs,Missed Jumper,23,28
+4:21,Notre Dame,Juwan Durham,Offensive Rebound,23,28
+4:16,Notre Dame,Juwan Durham,Jumper,25,28
+4:08,North Carolina,Luke Maye,Jumper,25,30
+3:50,Notre Dame,Juwan Durham,Missed Jumper,25,30
+3:50,North Carolina,Cameron Johnson,Defensive Rebound,25,30
+3:35,North Carolina,Luke Maye,Missed Three Point Jumper,25,30
+3:35,North Carolina,Kenny Williams,Offensive Rebound,25,30
+3:30,North Carolina,Kenny Williams,Missed Jumper,25,30
+3:30,North Carolina,Cameron Johnson,Offensive Rebound,25,30
+3:27,North Carolina,Cameron Johnson,Missed Jumper,25,30
+3:27,Notre Dame,Notre Dame,Defensive Rebound,25,30
+3:25,North Carolina,None,None,25,30
+3:12,Notre Dame,D.J. Harvey,Missed Jumper,25,30
+3:12,North Carolina,Brandon Huffman,Defensive Rebound,25,30
+2:56,North Carolina,Brandon Huffman,Missed Jumper,25,30
+2:56,Notre Dame,D.J. Harvey,Defensive Rebound,25,30
+2:44,Notre Dame,D.J. Harvey,Turnover,25,30
+2:21,North Carolina,Garrison Brooks,Missed Jumper,25,30
+2:21,Notre Dame,D.J. Harvey,Defensive Rebound,25,30
+2:07,Notre Dame,D.J. Harvey,Three Point Jumper,28,30
+1:58,North Carolina,Brandon Robinson,Three Point Jumper,28,33
+1:42,Notre Dame,Juwan Durham,Layup,30,33
+1:28,North Carolina,Kenny Williams,Turnover,30,33
+1:23,Notre Dame,TJ Gibbs,Foul,30,33
+1:23,Notre Dame,TJ Gibbs,Turnover,30,33
+0:52,North Carolina,Coby White,Missed Jumper,30,33
+0:52,Notre Dame,Prentiss Hubb,Block,30,33
+0:52,Notre Dame,Notre Dame,Defensive Rebound,30,33
+0:44,Notre Dame,Dane Goodwin,Three Point Jumper,33,33
+0:28,North Carolina,Coby White,Foul,33,33
+0:28,North Carolina,Coby White,Turnover,33,33
+0:04,Notre Dame,Nate Laszewski,Three Point Jumper,36,33
+0:00,North Carolina,None,None,36,33
+20:00,Notre Dame,None,None,36,33
+19:57,Notre Dame,Prentiss Hubb,Three Point Jumper,39,33
+19:40,North Carolina,Luke Maye,Layup,39,35
+19:29,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,39,35
+19:29,North Carolina,North Carolina,Defensive Rebound,39,35
+19:08,North Carolina,Garrison Brooks,Dunk,39,37
+19:08,Notre Dame,John Mooney,Foul,39,37
+19:08,North Carolina,Garrison Brooks,Missed Free Throw,39,37
+19:08,Notre Dame,John Mooney,Defensive Rebound,39,37
+18:49,North Carolina,Coby White,Foul,39,37
+18:49,Notre Dame,Prentiss Hubb,Free Throw,40,37
+18:49,Notre Dame,Prentiss Hubb,Free Throw,41,37
+18:35,North Carolina,Coby White,Three Point Jumper,41,40
+18:05,North Carolina,Kenny Williams,Foul,41,40
+18:05,Notre Dame,TJ Gibbs,Free Throw,42,40
+18:05,Notre Dame,TJ Gibbs,Free Throw,43,40
+17:42,North Carolina,Cameron Johnson,Missed Three Point Jumper,43,40
+17:42,Notre Dame,Nate Laszewski,Defensive Rebound,43,40
+17:18,Notre Dame,D.J. Harvey,Jumper,45,40
+17:00,North Carolina,Luke Maye,Jumper,45,42
+16:46,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,45,42
+16:46,North Carolina,Luke Maye,Defensive Rebound,45,42
+16:27,North Carolina,Luke Maye,Missed Jumper,45,42
+16:27,Notre Dame,Nate Laszewski,Defensive Rebound,45,42
+16:19,Notre Dame,Nate Laszewski,Missed Three Point Jumper,45,42
+16:19,North Carolina,Garrison Brooks,Defensive Rebound,45,42
+16:10,North Carolina,Kenny Williams,Three Point Jumper,45,45
+15:49,Notre Dame,John Mooney,Layup,47,45
+15:42,North Carolina,Coby White,Missed Jumper,47,45
+15:42,North Carolina,Garrison Brooks,Offensive Rebound,47,45
+15:38,Notre Dame,Nate Laszewski,Foul,47,45
+15:38,North Carolina,None,None,47,45
+15:32,North Carolina,Kenny Williams,Missed Three Point Jumper,47,45
+15:32,Notre Dame,Juwan Durham,Defensive Rebound,47,45
+14:58,Notre Dame,TJ Gibbs,Missed Three Point Jumper,47,45
+14:58,North Carolina,None,Team Rebound,47,45
+14:45,North Carolina,Cameron Johnson,Dunk,47,47
+14:30,North Carolina,Seventh Woods,Foul,47,47
+14:15,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,47,47
+14:15,North Carolina,Luke Maye,Defensive Rebound,47,47
+14:06,Notre Dame,Prentiss Hubb,Foul,47,47
+13:55,North Carolina,Luke Maye,Missed Jumper,47,47
+13:55,North Carolina,Cameron Johnson,Offensive Rebound,47,47
+13:51,Notre Dame,Dane Goodwin,Foul,47,47
+13:51,North Carolina,Cameron Johnson,Free Throw,47,48
+13:51,North Carolina,Cameron Johnson,Free Throw,47,49
+13:39,Notre Dame,D.J. Harvey,Three Point Jumper,50,49
+13:30,North Carolina,Kenny Williams,Missed Layup,50,49
+13:30,Notre Dame,Juwan Durham,Block,50,49
+13:30,North Carolina,Kenny Williams,Offensive Rebound,50,49
+13:07,Notre Dame,Juwan Durham,Foul,50,49
+13:07,North Carolina,Garrison Brooks,Missed Free Throw,50,49
+13:07,North Carolina,None,Team Rebound,50,49
+13:07,North Carolina,Garrison Brooks,Missed Free Throw,50,49
+13:07,Notre Dame,John Mooney,Defensive Rebound,50,49
+12:40,Notre Dame,TJ Gibbs,Missed Jumper,50,49
+12:40,North Carolina,Luke Maye,Defensive Rebound,50,49
+12:32,North Carolina,Seventh Woods,Missed Jumper,50,49
+12:32,Notre Dame,TJ Gibbs,Defensive Rebound,50,49
+12:13,Notre Dame,D.J. Harvey,Missed Layup,50,49
+12:13,North Carolina,Cameron Johnson,Block,50,49
+12:13,North Carolina,Garrison Brooks,Defensive Rebound,50,49
+12:04,North Carolina,Cameron Johnson,Turnover,50,49
+12:04,Notre Dame,Nate Laszewski,Steal,50,49
+11:59,Notre Dame,Nate Laszewski,Missed Layup,50,49
+11:59,North Carolina,Seventh Woods,Block,50,49
+11:59,North Carolina,Brandon Robinson,Defensive Rebound,50,49
+11:52,Notre Dame,John Mooney,Foul,50,49
+11:52,North Carolina,None,None,50,49
+11:52,North Carolina,Seventh Woods,Free Throw,50,50
+11:52,North Carolina,Seventh Woods,Free Throw,50,51
+11:23,Notre Dame,TJ Gibbs,Missed Jumper,50,51
+11:23,Notre Dame,John Mooney,Offensive Rebound,50,51
+11:23,Notre Dame,None,None,52,51
+11:23,North Carolina,Brandon Robinson,Foul,52,51
+11:23,Notre Dame,John Mooney,Missed Free Throw,52,51
+11:23,North Carolina,Luke Maye,Defensive Rebound,52,51
+11:01,North Carolina,Luke Maye,Missed Three Point Jumper,52,51
+11:01,North Carolina,Luke Maye,Offensive Rebound,52,51
+10:46,North Carolina,Nassir Little,Dunk,52,53
+10:33,Notre Dame,Prentiss Hubb,Missed Layup,52,53
+10:33,North Carolina,North Carolina,Defensive Rebound,52,53
+10:17,North Carolina,Luke Maye,Missed Jumper,52,53
+10:17,Notre Dame,John Mooney,Defensive Rebound,52,53
+10:13,North Carolina,Nassir Little,Foul,52,53
+9:56,Notre Dame,John Mooney,Layup,54,53
+9:47,North Carolina,Seventh Woods,Turnover,54,53
+9:34,Notre Dame,TJ Gibbs,Missed Three Point Jumper,54,53
+9:34,North Carolina,Luke Maye,Defensive Rebound,54,53
+8:58,North Carolina,Nassir Little,Dunk,54,55
+8:35,Notre Dame,Prentiss Hubb,Missed Layup,54,55
+8:35,North Carolina,Cameron Johnson,Defensive Rebound,54,55
+8:17,North Carolina,Brandon Robinson,Missed Three Point Jumper,54,55
+8:17,North Carolina,Luke Maye,Offensive Rebound,54,55
+8:06,North Carolina,Luke Maye,Missed Jumper,54,55
+8:06,North Carolina,Nassir Little,Offensive Rebound,54,55
+8:01,North Carolina,Nassir Little,Jumper,54,57
+7:53,Notre Dame,None,None,54,57
+7:39,Notre Dame,John Mooney,Jumper,56,57
+7:08,North Carolina,Nassir Little,Missed Jumper,56,57
+7:08,North Carolina,Garrison Brooks,Offensive Rebound,56,57
+6:59,North Carolina,Garrison Brooks,Missed Dunk,56,57
+6:59,Notre Dame,John Mooney,Block,56,57
+6:59,Notre Dame,Prentiss Hubb,Defensive Rebound,56,57
+6:57,North Carolina,Brandon Robinson,Foul,56,57
+6:57,North Carolina,None,None,56,57
+6:52,Notre Dame,Prentiss Hubb,Layup,58,57
+6:22,North Carolina,Coby White,Three Point Jumper,58,60
+5:50,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,58,60
+5:50,North Carolina,Nassir Little,Defensive Rebound,58,60
+5:40,North Carolina,Nassir Little,Layup,58,62
+5:40,Notre Dame,John Mooney,Foul,58,62
+5:40,North Carolina,Nassir Little,Free Throw,58,63
+5:25,Notre Dame,Prentiss Hubb,Missed Jumper,58,63
+5:25,North Carolina,Cameron Johnson,Defensive Rebound,58,63
+4:59,North Carolina,Cameron Johnson,Layup,58,65
+4:43,Notre Dame,Dane Goodwin,Missed Three Point Jumper,58,65
+4:43,North Carolina,Cameron Johnson,Defensive Rebound,58,65
+4:34,North Carolina,Luke Maye,Missed Three Point Jumper,58,65
+4:34,Notre Dame,Prentiss Hubb,Defensive Rebound,58,65
+4:15,North Carolina,Coby White,Foul,58,65
+4:15,Notre Dame,Dane Goodwin,Missed Free Throw,58,65
+4:15,Notre Dame,None,Team Rebound,58,65
+4:15,Notre Dame,Dane Goodwin,Free Throw,59,65
+3:50,North Carolina,Luke Maye,Missed Layup,59,65
+3:50,Notre Dame,Juwan Durham,Block,59,65
+3:50,North Carolina,North Carolina,Offensive Rebound,59,65
+3:50,North Carolina,None,None,59,65
+3:47,North Carolina,Cameron Johnson,Missed Jumper,59,65
+3:47,Notre Dame,John Mooney,Defensive Rebound,59,65
+3:25,Notre Dame,Dane Goodwin,Missed Jumper,59,65
+3:25,Notre Dame,Prentiss Hubb,Offensive Rebound,59,65
+3:20,Notre Dame,D.J. Harvey,Missed Three Point Jumper,59,65
+3:20,North Carolina,Coby White,Defensive Rebound,59,65
+3:05,North Carolina,Nassir Little,Missed Jumper,59,65
+3:05,North Carolina,Luke Maye,Offensive Rebound,59,65
+3:01,North Carolina,Luke Maye,Missed Jumper,59,65
+3:01,Notre Dame,John Mooney,Block,59,65
+3:01,Notre Dame,Notre Dame,Defensive Rebound,59,65
+2:52,Notre Dame,John Mooney,Missed Jumper,59,65
+2:52,North Carolina,Nassir Little,Defensive Rebound,59,65
+2:33,North Carolina,Coby White,Layup,59,67
+2:16,North Carolina,Nassir Little,Foul,59,67
+2:16,Notre Dame,D.J. Harvey,Missed Free Throw,59,67
+2:16,Notre Dame,None,Team Rebound,59,67
+2:16,Notre Dame,D.J. Harvey,Missed Free Throw,59,67
+2:16,North Carolina,Kenny Williams,Defensive Rebound,59,67
+1:50,North Carolina,Coby White,Missed Three Point Jumper,59,67
+1:50,Notre Dame,John Mooney,Defensive Rebound,59,67
+1:33,Notre Dame,John Mooney,Turnover,59,67
+1:33,North Carolina,Luke Maye,Steal,59,67
+1:27,North Carolina,Nassir Little,Layup,59,69
+1:15,Notre Dame,Prentiss Hubb,Jumper,61,69
+1:15,Notre Dame,None,None,61,69
+1:07,Notre Dame,D.J. Harvey,Foul,61,69
+1:07,North Carolina,Cameron Johnson,Missed Free Throw,61,69
+1:07,Notre Dame,John Mooney,Defensive Rebound,61,69
+1:00,Notre Dame,D.J. Harvey,Missed Three Point Jumper,61,69
+1:00,North Carolina,Coby White,Defensive Rebound,61,69
+0:53,Notre Dame,Nate Laszewski,Foul,61,69
+0:53,North Carolina,Coby White,Free Throw,61,70
+0:53,North Carolina,Coby White,Missed Free Throw,61,70
+0:53,Notre Dame,John Mooney,Defensive Rebound,61,70
+0:47,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,61,70
+0:47,Notre Dame,Notre Dame,Offensive Rebound,61,70
+0:37,Notre Dame,D.J. Harvey,Three Point Jumper,64,70
+0:35,Notre Dame,None,None,64,70
+0:35,North Carolina,None,None,64,70
+0:34,Notre Dame,D.J. Harvey,Foul,64,70
+0:34,North Carolina,Cameron Johnson,Free Throw,64,71
+0:34,North Carolina,Cameron Johnson,Missed Free Throw,64,71
+0:34,Notre Dame,John Mooney,Defensive Rebound,64,71
+0:29,North Carolina,Coby White,Foul,64,71
+0:29,Notre Dame,Prentiss Hubb,Missed Free Throw,64,71
+0:29,North Carolina,Cameron Johnson,Defensive Rebound,64,71
+0:27,Notre Dame,Prentiss Hubb,Foul,64,71
+0:27,North Carolina,Cameron Johnson,Free Throw,64,72
+0:27,North Carolina,Cameron Johnson,Free Throw,64,73
+0:18,Notre Dame,John Mooney,Dunk,66,73
+0:15,Notre Dame,D.J. Harvey,Foul,66,73
+0:15,North Carolina,Luke Maye,Missed Free Throw,66,73
+0:15,North Carolina,None,Team Rebound,66,73
+0:15,North Carolina,Luke Maye,Missed Free Throw,66,73
+0:15,Notre Dame,John Mooney,Defensive Rebound,66,73
+0:04,Notre Dame,Prentiss Hubb,Three Point Jumper,69,73
+0:03,Notre Dame,Prentiss Hubb,Foul,69,73
+0:03,North Carolina,Seventh Woods,Free Throw,69,74
+0:03,North Carolina,Seventh Woods,Free Throw,69,75
+0:00,North Carolina,None,None,69,75

@@ -1,0 +1,323 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Auburn,None,None,0,0
+19:49,Auburn,Bryce Brown,Missed Three Point Jumper,0,0
+19:49,Alabama,Alabama,Defensive Rebound,0,0
+19:26,Alabama,Dazon Ingram,Missed Three Point Jumper,0,0
+19:26,Auburn,Chuma Okeke,Defensive Rebound,0,0
+19:15,Auburn,Jared Harper,Missed Jumper,0,0
+19:15,Alabama,Donta Hall,Defensive Rebound,0,0
+19:04,Alabama,Kira Lewis Jr.,Three Point Jumper,3,0
+18:50,Auburn,Samir Doughty,Missed Three Point Jumper,3,0
+18:50,Auburn,Jared Harper,Offensive Rebound,3,0
+18:44,Auburn,Jared Harper,Missed Jumper,3,0
+18:44,Alabama,Tevin Mack,Defensive Rebound,3,0
+18:35,Alabama,Dazon Ingram,Missed Jumper,3,0
+18:35,Alabama,Dazon Ingram,Offensive Rebound,3,0
+18:35,Alabama,None,None,3,0
+18:35,Auburn,Samir Doughty,Defensive Rebound,3,0
+18:27,Auburn,Jared Harper,Turnover,3,0
+18:27,Alabama,Kira Lewis Jr.,Steal,3,0
+17:54,Alabama,Herbert Jones,Turnover,3,0
+17:54,Auburn,Bryce Brown,Turnover,3,0
+17:40,Alabama,Donta Hall,Jumper,5,0
+17:19,Alabama,Dazon Ingram,Foul,5,0
+17:19,Auburn,Bryce Brown,Free Throw,5,1
+17:19,Auburn,Bryce Brown,Missed Free Throw,5,1
+17:19,Auburn,Samir Doughty,Offensive Rebound,5,1
+17:18,Alabama,Herbert Jones,Foul,5,1
+17:09,Auburn,Anfernee McLemore,Missed Jumper,5,1
+17:09,Alabama,Donta Hall,Defensive Rebound,5,1
+16:47,Alabama,Donta Hall,Dunk,7,1
+16:24,Auburn,Jared Harper,Three Point Jumper,7,4
+15:53,Alabama,Kira Lewis Jr.,Jumper,9,4
+15:26,Auburn,Jared Harper,Layup,9,6
+15:00,Alabama,Herbert Jones,Missed Jumper,9,6
+15:00,Auburn,Bryce Brown,Defensive Rebound,9,6
+14:51,Auburn,Bryce Brown,Jumper,9,8
+14:51,Alabama,Tevin Mack,Foul,9,8
+14:51,Auburn,None,None,9,8
+14:51,Auburn,Bryce Brown,Free Throw,9,9
+14:36,Alabama,Tevin Mack,Turnover,9,9
+14:36,Auburn,Horace Spencer,Steal,9,9
+14:25,Auburn,Chuma Okeke,Three Point Jumper,9,12
+13:59,Alabama,John Petty,Layup,11,12
+13:53,Auburn,Bryce Brown,Three Point Jumper,11,15
+13:36,Alabama,Tevin Mack,Turnover,11,15
+13:36,Auburn,Chuma Okeke,Steal,11,15
+13:25,Auburn,Jared Harper,Three Point Jumper,11,18
+13:22,Alabama,None,None,11,18
+12:52,Auburn,Malik Dunbar,Foul,11,18
+12:52,Alabama,Galin Smith,Missed Free Throw,11,18
+12:52,Alabama,None,Team Rebound,11,18
+12:52,Alabama,Galin Smith,Missed Free Throw,11,18
+12:52,Auburn,Malik Dunbar,Defensive Rebound,11,18
+12:23,Auburn,Horace Spencer,Jumper,11,20
+11:56,Alabama,Riley Norris,Missed Jumper,11,20
+11:56,Auburn,Horace Spencer,Defensive Rebound,11,20
+11:46,Alabama,Riley Norris,Foul,11,20
+11:45,Auburn,None,None,11,20
+11:36,Auburn,Anfernee McLemore,Three Point Jumper,11,23
+11:16,Alabama,Avery Johnson Jr.,Missed Jumper,11,23
+11:16,Alabama,Alabama,Offensive Rebound,11,23
+11:10,Alabama,Avery Johnson Jr.,Missed Jumper,11,23
+11:10,Auburn,Anfernee McLemore,Defensive Rebound,11,23
+10:59,Auburn,Bryce Brown,Missed Jumper,11,23
+10:59,Alabama,Riley Norris,Defensive Rebound,11,23
+10:45,Alabama,Riley Norris,Missed Three Point Jumper,11,23
+10:45,Auburn,Malik Dunbar,Defensive Rebound,11,23
+10:37,Auburn,Anfernee McLemore,Dunk,11,25
+10:22,Auburn,Danjel Purifoy,Foul,11,25
+10:22,Alabama,Alex Reese,Free Throw,12,25
+10:22,Alabama,Alex Reese,Free Throw,13,25
+10:08,Auburn,Anfernee McLemore,Turnover,13,25
+9:54,Alabama,Kira Lewis Jr.,Jumper,15,25
+9:40,Auburn,J'Von McCormick,Missed Jumper,15,25
+9:40,Alabama,John Petty,Defensive Rebound,15,25
+9:29,Alabama,John Petty,Three Point Jumper,18,25
+9:15,Auburn,Danjel Purifoy,Missed Three Point Jumper,18,25
+9:15,Alabama,Donta Hall,Defensive Rebound,18,25
+8:56,Auburn,J'Von McCormick,Foul,18,25
+8:56,Alabama,Kira Lewis Jr.,Free Throw,19,25
+8:56,Alabama,Kira Lewis Jr.,Free Throw,20,25
+8:44,Auburn,Chuma Okeke,Jumper,20,27
+8:31,Alabama,Alex Reese,Three Point Jumper,23,27
+8:06,Auburn,Jared Harper,Missed Three Point Jumper,23,27
+8:06,Alabama,Donta Hall,Defensive Rebound,23,27
+7:58,Auburn,Samir Doughty,Foul,23,27
+7:58,Auburn,None,None,23,27
+7:42,Alabama,John Petty,Missed Three Point Jumper,23,27
+7:42,Alabama,Dazon Ingram,Offensive Rebound,23,27
+7:34,Alabama,Dazon Ingram,Missed Jumper,23,27
+7:34,Auburn,Horace Spencer,Defensive Rebound,23,27
+7:12,Alabama,John Petty,Foul,23,27
+7:01,Auburn,Chuma Okeke,Jumper,23,29
+6:41,Alabama,Dazon Ingram,Three Point Jumper,26,29
+6:27,Auburn,Samir Doughty,Missed Jumper,26,29
+6:27,Auburn,Horace Spencer,Offensive Rebound,26,29
+6:27,Auburn,None,None,26,29
+6:27,Alabama,Alabama,Defensive Rebound,26,29
+6:27,Auburn,Horace Spencer,Foul,26,29
+6:05,Alabama,Dazon Ingram,Turnover,26,29
+5:47,Auburn,Bryce Brown,Three Point Jumper,26,32
+5:24,Alabama,Donta Hall,Turnover,26,32
+5:24,Auburn,Horace Spencer,Steal,26,32
+5:05,Auburn,Chuma Okeke,Jumper,26,34
+4:57,Alabama,Alex Reese,Missed Three Point Jumper,26,34
+4:57,Auburn,Horace Spencer,Defensive Rebound,26,34
+4:47,Auburn,Jared Harper,Layup,26,36
+4:33,Auburn,Horace Spencer,Foul,26,36
+4:32,Alabama,Dazon Ingram,Turnover,26,36
+4:19,Auburn,Samir Doughty,Layup,26,38
+4:03,Alabama,John Petty,Missed Three Point Jumper,26,38
+4:03,Auburn,Anfernee McLemore,Defensive Rebound,26,38
+3:36,Alabama,Donta Hall,Foul,26,38
+3:36,Auburn,None,None,26,38
+3:36,Auburn,Jared Harper,Free Throw,26,39
+3:36,Auburn,Jared Harper,Free Throw,26,40
+3:36,Auburn,Jared Harper,Free Throw,26,41
+3:13,Alabama,Herbert Jones,Turnover,26,41
+2:54,Auburn,Chuma Okeke,Missed Jumper,26,41
+2:54,Alabama,Tevin Mack,Block,26,41
+2:54,Auburn,Chuma Okeke,Offensive Rebound,26,41
+2:44,Auburn,Bryce Brown,Missed Jumper,26,41
+2:44,Auburn,Chuma Okeke,Offensive Rebound,26,41
+2:44,Auburn,Chuma Okeke,Missed Dunk,26,41
+2:44,Alabama,Kira Lewis Jr.,Defensive Rebound,26,41
+2:39,Auburn,Samir Doughty,Foul,26,41
+2:39,Alabama,Kira Lewis Jr.,Missed Free Throw,26,41
+2:39,Auburn,Samir Doughty,Defensive Rebound,26,41
+2:21,Auburn,Chuma Okeke,Missed Jumper,26,41
+2:21,Alabama,Donta Hall,Defensive Rebound,26,41
+2:14,Alabama,Riley Norris,Foul,26,41
+2:14,Alabama,Riley Norris,Turnover,26,41
+2:03,Auburn,Anfernee McLemore,Three Point Jumper,26,44
+1:43,Alabama,Herbert Jones,Turnover,26,44
+1:43,Auburn,Jared Harper,Steal,26,44
+1:39,Auburn,Bryce Brown,Dunk,26,46
+1:28,Alabama,Galin Smith,Dunk,28,46
+1:07,Auburn,Anfernee McLemore,Missed Dunk,28,46
+1:07,Alabama,Tevin Mack,Defensive Rebound,28,46
+0:56,Alabama,Tevin Mack,Turnover,28,46
+0:56,Auburn,Jared Harper,Steal,28,46
+0:53,Auburn,Bryce Brown,Turnover,28,46
+0:53,Alabama,Herbert Jones,Steal,28,46
+0:53,Auburn,Danjel Purifoy,Foul,28,46
+0:53,Alabama,Kira Lewis Jr.,Missed Free Throw,28,46
+0:53,Auburn,Bryce Brown,Defensive Rebound,28,46
+0:31,Alabama,Galin Smith,Foul,28,46
+0:31,Auburn,Danjel Purifoy,Free Throw,28,47
+0:31,Auburn,Danjel Purifoy,Free Throw,28,48
+0:07,Alabama,Alex Reese,Missed Three Point Jumper,28,48
+0:07,Auburn,Danjel Purifoy,Defensive Rebound,28,48
+0:00,Auburn,None,None,28,48
+20:00,Alabama,None,None,28,48
+19:48,Alabama,John Petty,Jumper,30,48
+19:48,Auburn,Anfernee McLemore,Foul,30,48
+19:46,Alabama,John Petty,Free Throw,31,48
+19:30,Auburn,Anfernee McLemore,Missed Three Point Jumper,31,48
+19:30,Alabama,Alabama,Defensive Rebound,31,48
+19:11,Alabama,Kira Lewis Jr.,Turnover,31,48
+19:11,Auburn,Samir Doughty,Steal,31,48
+19:06,Auburn,Samir Doughty,Layup,31,50
+18:55,Alabama,Dazon Ingram,Turnover,31,50
+18:55,Auburn,Samir Doughty,Steal,31,50
+18:41,Auburn,Anfernee McLemore,Foul,31,50
+18:41,Alabama,Dazon Ingram,Foul,31,50
+18:41,Auburn,Anfernee McLemore,Turnover,31,50
+18:33,Alabama,Kira Lewis Jr.,Missed Jumper,31,50
+18:33,Auburn,Horace Spencer,Defensive Rebound,31,50
+18:25,Auburn,Samir Doughty,Missed Jumper,31,50
+18:25,Alabama,John Petty,Block,31,50
+18:25,Alabama,Tevin Mack,Defensive Rebound,31,50
+18:13,Alabama,John Petty,Missed Three Point Jumper,31,50
+18:13,Alabama,Donta Hall,Offensive Rebound,31,50
+18:03,Alabama,Tevin Mack,Turnover,31,50
+18:03,Auburn,Chuma Okeke,Steal,31,50
+17:59,Auburn,Samir Doughty,Turnover,31,50
+17:49,Auburn,Samir Doughty,Foul,31,50
+17:35,Alabama,John Petty,Missed Jumper,31,50
+17:35,Alabama,John Petty,Offensive Rebound,31,50
+17:28,Alabama,John Petty,Jumper,33,50
+17:14,Alabama,Riley Norris,Foul,33,50
+17:03,Auburn,Jared Harper,Missed Three Point Jumper,33,50
+17:03,Auburn,Chuma Okeke,Offensive Rebound,33,50
+16:56,Auburn,Jared Harper,Missed Jumper,33,50
+16:56,Alabama,Donta Hall,Defensive Rebound,33,50
+16:42,Alabama,Donta Hall,Turnover,33,50
+16:24,Auburn,Bryce Brown,Layup,33,52
+16:06,Alabama,John Petty,Missed Three Point Jumper,33,52
+16:06,Alabama,Donta Hall,Offensive Rebound,33,52
+15:58,Alabama,John Petty,Missed Dunk,33,52
+15:58,Auburn,Horace Spencer,Block,33,52
+15:56,Auburn,None,None,33,52
+15:56,Alabama,Avery Johnson Jr.,Offensive Rebound,33,52
+15:56,Auburn,Horace Spencer,Foul,33,52
+15:56,Auburn,None,None,33,52
+15:56,Auburn,None,None,34,52
+15:56,Alabama,Avery Johnson Jr.,Free Throw,34,52
+15:56,Auburn,None,None,33,52
+15:56,Auburn,None,None,34,52
+15:56,Auburn,None,None,33,52
+15:56,Auburn,None,None,34,52
+15:56,Auburn,None,None,33,52
+15:56,Auburn,None,None,34,52
+15:56,Auburn,None,None,33,52
+15:56,Auburn,None,None,34,52
+15:56,Auburn,None,None,33,52
+15:56,Auburn,None,None,34,52
+15:56,Auburn,None,None,33,52
+15:56,Auburn,None,None,34,52
+15:56,Auburn,None,None,33,52
+15:56,Auburn,None,None,34,52
+15:56,Auburn,None,None,34,52
+15:56,Alabama,Avery Johnson Jr.,Free Throw,35,52
+15:42,Auburn,Bryce Brown,Turnover,35,52
+15:33,Alabama,Herbert Jones,Foul,35,52
+15:33,Alabama,Herbert Jones,Turnover,35,52
+15:24,Auburn,Horace Spencer,Missed Jumper,35,52
+15:24,Alabama,John Petty,Defensive Rebound,35,52
+15:06,Alabama,John Petty,Three Point Jumper,38,52
+14:23,Auburn,Malik Dunbar,Turnover,38,52
+14:23,Alabama,Riley Norris,Steal,38,52
+14:16,Alabama,Herbert Jones,Jumper,40,52
+13:46,Auburn,J'Von McCormick,Jumper,40,54
+13:28,Auburn,Chuma Okeke,Foul,40,54
+13:18,Alabama,John Petty,Turnover,40,54
+13:18,Auburn,Chuma Okeke,Steal,40,54
+13:12,Auburn,Jared Harper,Missed Three Point Jumper,40,54
+13:12,Alabama,Donta Hall,Defensive Rebound,40,54
+13:04,Alabama,Riley Norris,Three Point Jumper,43,54
+12:44,Auburn,Jared Harper,Three Point Jumper,43,57
+12:41,Alabama,Herbert Jones,Foul,43,57
+12:41,Auburn,Jared Harper,Free Throw,43,58
+12:26,Alabama,Avery Johnson Jr.,Missed Jumper,43,58
+12:26,Auburn,Chuma Okeke,Defensive Rebound,43,58
+12:21,Auburn,Malik Dunbar,Dunk,43,60
+12:09,Alabama,Herbert Jones,Missed Jumper,43,60
+12:09,Auburn,Chuma Okeke,Block,43,60
+12:09,Auburn,Auburn,Defensive Rebound,43,60
+11:55,Alabama,Donta Hall,Foul,43,60
+11:55,Auburn,None,None,43,60
+11:55,Auburn,Malik Dunbar,Free Throw,43,61
+11:55,Auburn,Malik Dunbar,Missed Free Throw,43,61
+11:55,Alabama,John Petty,Defensive Rebound,43,61
+11:33,Alabama,Alex Reese,Jumper,45,61
+11:16,Auburn,Anfernee McLemore,Missed Three Point Jumper,45,61
+11:16,Alabama,Riley Norris,Defensive Rebound,45,61
+11:06,Alabama,John Petty,Missed Three Point Jumper,45,61
+11:06,Auburn,Auburn,Defensive Rebound,45,61
+10:40,Auburn,J'Von McCormick,Missed Jumper,45,61
+10:40,Auburn,Danjel Purifoy,Offensive Rebound,45,61
+10:20,Auburn,Bryce Brown,Missed Three Point Jumper,45,61
+10:20,Auburn,Danjel Purifoy,Offensive Rebound,45,61
+10:20,Auburn,None,None,45,63
+9:54,Auburn,Bryce Brown,Foul,45,63
+9:41,Auburn,Danjel Purifoy,Foul,45,63
+9:41,Alabama,Riley Norris,Free Throw,46,63
+9:41,Alabama,Riley Norris,Free Throw,47,63
+9:32,Auburn,Bryce Brown,Turnover,47,63
+9:13,Alabama,Alex Reese,Missed Jumper,47,63
+9:13,Auburn,Danjel Purifoy,Defensive Rebound,47,63
+8:57,Auburn,Anfernee McLemore,Missed Jumper,47,63
+8:57,Alabama,Alex Reese,Block,47,63
+8:57,Alabama,Riley Norris,Defensive Rebound,47,63
+8:43,Alabama,John Petty,Turnover,47,63
+8:43,Auburn,J'Von McCormick,Steal,47,63
+8:33,Auburn,Danjel Purifoy,Three Point Jumper,47,66
+8:22,Alabama,None,None,47,66
+8:12,Alabama,Kira Lewis Jr.,Turnover,47,66
+7:49,Alabama,Kira Lewis Jr.,Foul,47,66
+7:49,Auburn,None,None,47,66
+7:47,Auburn,Bryce Brown,Three Point Jumper,47,69
+7:21,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,47,69
+7:21,Auburn,Samir Doughty,Block,47,69
+7:21,Alabama,Alex Reese,Offensive Rebound,47,69
+7:09,Alabama,John Petty,Dunk,49,69
+7:09,Auburn,Samir Doughty,Foul,49,69
+7:09,Alabama,John Petty,Free Throw,50,69
+6:58,Auburn,Anfernee McLemore,Jumper,50,71
+6:32,Alabama,Riley Norris,Missed Three Point Jumper,50,71
+6:32,Auburn,Bryce Brown,Defensive Rebound,50,71
+5:59,Auburn,Samir Doughty,Three Point Jumper,50,74
+5:39,Alabama,Dazon Ingram,Turnover,50,74
+5:39,Auburn,Horace Spencer,Steal,50,74
+5:32,Auburn,Horace Spencer,Layup,50,76
+5:23,Alabama,Donta Hall,Jumper,52,76
+5:04,Auburn,Malik Dunbar,Missed Jumper,52,76
+5:04,Alabama,Donta Hall,Defensive Rebound,52,76
+5:02,Auburn,Horace Spencer,Foul,52,76
+5:02,Alabama,Donta Hall,Free Throw,53,76
+5:02,Alabama,Donta Hall,Free Throw,54,76
+4:49,Auburn,Chuma Okeke,Turnover,54,76
+4:37,Alabama,Kira Lewis Jr.,Three Point Jumper,57,76
+4:22,Auburn,Bryce Brown,Three Point Jumper,57,79
+4:07,Alabama,John Petty,Turnover,57,79
+4:07,Auburn,Malik Dunbar,Steal,57,79
+4:02,Auburn,Malik Dunbar,Turnover,57,79
+4:00,Auburn,None,None,57,79
+3:52,Alabama,John Petty,Jumper,59,79
+3:21,Auburn,Bryce Brown,Turnover,59,79
+3:21,Alabama,Kira Lewis Jr.,Steal,59,79
+3:14,Auburn,Horace Spencer,Foul,59,79
+3:14,Alabama,Kira Lewis Jr.,Free Throw,60,79
+3:14,Alabama,Kira Lewis Jr.,Missed Free Throw,60,79
+3:14,Auburn,Malik Dunbar,Defensive Rebound,60,79
+3:06,Alabama,Tevin Mack,Foul,60,79
+3:06,Auburn,Jared Harper,Missed Free Throw,60,79
+3:06,Alabama,Riley Norris,Defensive Rebound,60,79
+2:43,Alabama,Avery Johnson Jr.,Missed Jumper,60,79
+2:43,Auburn,Jared Harper,Defensive Rebound,60,79
+2:31,Alabama,Riley Norris,Foul,60,79
+2:31,Auburn,Jared Harper,Free Throw,60,80
+2:31,Auburn,Jared Harper,Free Throw,60,81
+2:31,Alabama,None,None,60,81
+2:20,Alabama,Tevin Mack,Missed Jumper,60,81
+2:20,Auburn,Malik Dunbar,Defensive Rebound,60,81
+2:08,Auburn,Malik Dunbar,Missed Jumper,60,81
+2:08,Auburn,Auburn,Defensive Rebound,60,81
+1:20,Alabama,Tevin Mack,Three Point Jumper,63,81
+0:52,Auburn,Bryce Brown,Three Point Jumper,63,84
+0:29,Alabama,Galin Smith,Turnover,63,84
+0:29,Auburn,Chuma Okeke,Steal,63,84
+0:01,Auburn,Jared Harper,Turnover,63,84
+0:00,Auburn,None,None,63,84

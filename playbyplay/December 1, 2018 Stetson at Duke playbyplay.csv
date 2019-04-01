@@ -1,0 +1,382 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:44,Duke,RJ Barrett,Turnover,0,0
+19:37,Stetson,Marques Sumner,Turnover,0,0
+19:37,Duke,Zion Williamson,Steal,0,0
+19:26,Duke,RJ Barrett,Missed Three Point Jumper,0,0
+19:26,Stetson,Abayomi Iyiola,Defensive Rebound,0,0
+19:19,Stetson,None,None,0,0
+19:07,Stetson,Marques Sumner,Turnover,0,0
+19:07,Duke,Marques Bolden,Steal,0,0
+19:01,Duke,RJ Barrett,Layup,0,2
+18:48,Duke,Cam Reddish,Foul,0,2
+18:48,Stetson,Abayomi Iyiola,Missed Free Throw,0,2
+18:48,Stetson,None,Team Rebound,0,2
+18:48,Stetson,Abayomi Iyiola,Free Throw,1,2
+18:35,Duke,Cam Reddish,Three Point Jumper,1,5
+18:11,Stetson,Kenny Aninye,Layup,3,5
+17:57,Duke,Tre Jones,Missed Three Point Jumper,3,5
+17:57,Duke,Zion Williamson,Offensive Rebound,3,5
+17:53,Duke,Zion Williamson,Turnover,3,5
+17:53,Stetson,Kenny Aninye,Steal,3,5
+17:47,Stetson,Abayomi Iyiola,Layup,5,5
+17:33,Duke,Cam Reddish,Missed Three Point Jumper,5,5
+17:33,Duke,RJ Barrett,Offensive Rebound,5,5
+17:28,Duke,Zion Williamson,Missed Three Point Jumper,5,5
+17:28,Duke,Marques Bolden,Offensive Rebound,5,5
+17:24,Duke,Marques Bolden,Turnover,5,5
+17:24,Stetson,Leo Goodman,Steal,5,5
+17:20,Stetson,Marques Sumner,Missed Three Point Jumper,5,5
+17:20,Duke,RJ Barrett,Defensive Rebound,5,5
+17:07,Duke,RJ Barrett,Missed Three Point Jumper,5,5
+17:07,Duke,Marques Bolden,Offensive Rebound,5,5
+17:02,Duke,Marques Bolden,Turnover,5,5
+16:58,Stetson,Kenny Aninye,Turnover,5,5
+16:58,Duke,Tre Jones,Steal,5,5
+16:53,Duke,RJ Barrett,Dunk,5,7
+16:45,Stetson,Christiaan Jones,Three Point Jumper,8,7
+16:35,Duke,Javin DeLaurier,Dunk,8,9
+16:14,Stetson,Marques Sumner,Missed Three Point Jumper,8,9
+16:14,Stetson,Abayomi Iyiola,Offensive Rebound,8,9
+16:00,Stetson,Abayomi Iyiola,Jumper,10,9
+15:53,Duke,RJ Barrett,Dunk,10,11
+15:25,Stetson,Abayomi Iyiola,Jumper,12,11
+15:03,Stetson,Abayomi Iyiola,Foul,12,11
+15:03,Duke,None,None,12,11
+15:03,Duke,Zion Williamson,Free Throw,12,12
+15:03,Duke,Zion Williamson,Missed Free Throw,12,12
+15:03,Duke,Javin DeLaurier,Offensive Rebound,12,12
+14:57,Duke,Zion Williamson,Layup,12,14
+14:35,Stetson,Jahlil Rawley,Turnover,12,14
+14:35,Duke,Tre Jones,Steal,12,14
+14:26,Duke,Zion Williamson,Layup,12,16
+14:09,Stetson,Leo Goodman,Missed Three Point Jumper,12,16
+14:09,Duke,Tre Jones,Defensive Rebound,12,16
+14:00,Duke,Jack White,Missed Three Point Jumper,12,16
+14:00,Duke,Zion Williamson,Offensive Rebound,12,16
+14:00,Duke,None,None,12,18
+13:28,Stetson,Ricardo Lynch,Turnover,12,18
+13:28,Duke,RJ Barrett,Steal,12,18
+13:23,Duke,Javin DeLaurier,Dunk,12,20
+13:19,Stetson,None,None,12,20
+13:08,Stetson,Jahlil Rawley,Turnover,12,20
+12:55,Stetson,Clay Verk,Foul,12,20
+12:55,Duke,Cam Reddish,Free Throw,12,21
+12:55,Duke,Cam Reddish,Free Throw,12,22
+12:38,Stetson,Keith Matthews,Missed Jumper,12,22
+12:38,Stetson,Raine McKeython,Offensive Rebound,12,22
+12:38,Stetson,None,None,12,22
+12:38,Duke,Jack White,Defensive Rebound,12,22
+12:24,Duke,Marques Bolden,Missed Jumper,12,22
+12:24,Duke,RJ Barrett,Offensive Rebound,12,22
+12:24,Duke,Cam Reddish,Missed Three Point Jumper,12,22
+12:23,Stetson,Keith Matthews,Defensive Rebound,12,22
+12:07,Stetson,Raine McKeython,Missed Three Point Jumper,12,22
+12:07,Duke,RJ Barrett,Defensive Rebound,12,22
+12:00,Duke,Marques Bolden,Missed Three Point Jumper,12,22
+12:00,Stetson,Clay Verk,Defensive Rebound,12,22
+12:00,Stetson,Raine McKeython,Turnover,12,22
+12:00,Duke,Jordan Goldwire,Steal,12,22
+11:41,Duke,Jordan Goldwire,Layup,12,24
+11:26,Duke,Jordan Goldwire,Foul,12,24
+11:26,Duke,None,None,12,24
+11:26,Stetson,Marques Sumner,Turnover,12,24
+11:26,Duke,Jordan Goldwire,Steal,12,24
+11:23,Duke,Jordan Goldwire,Layup,12,26
+11:12,Stetson,Marques Sumner,Missed Layup,12,26
+11:12,Duke,Marques Bolden,Block,12,26
+11:12,Stetson,Kenny Aninye,Offensive Rebound,12,26
+10:53,Stetson,Leo Goodman,Missed Three Point Jumper,12,26
+10:53,Duke,Cam Reddish,Defensive Rebound,12,26
+10:49,Duke,Marques Bolden,Dunk,12,28
+10:38,Duke,Marques Bolden,Foul,12,28
+10:26,Stetson,Marques Sumner,Turnover,12,28
+10:17,Duke,Cam Reddish,Turnover,12,28
+10:09,Stetson,Kenny Aninye,Layup,14,28
+10:00,Duke,Cam Reddish,Three Point Jumper,14,31
+9:43,Stetson,Leo Goodman,Missed Three Point Jumper,14,31
+9:43,Duke,RJ Barrett,Defensive Rebound,14,31
+9:37,Stetson,Abayomi Iyiola,Foul,14,31
+9:29,Duke,Cam Reddish,Turnover,14,31
+9:29,Stetson,Abayomi Iyiola,Steal,14,31
+9:19,Stetson,Christiaan Jones,Missed Three Point Jumper,14,31
+9:19,Duke,RJ Barrett,Defensive Rebound,14,31
+9:07,Duke,RJ Barrett,Layup,14,33
+9:07,Stetson,Leo Goodman,Foul,14,33
+9:07,Duke,RJ Barrett,Missed Free Throw,14,33
+9:07,Stetson,Ricky Gouety,Defensive Rebound,14,33
+8:53,Stetson,Jalen Crutchfield,Missed Three Point Jumper,14,33
+8:53,Stetson,Christiaan Jones,Offensive Rebound,14,33
+8:31,Duke,RJ Barrett,Foul,14,33
+8:15,Stetson,Kenny Aninye,Layup,16,33
+8:08,Duke,Zion Williamson,Dunk,16,35
+7:49,Duke,None,None,16,35
+7:38,Stetson,Marques Sumner,Missed Three Point Jumper,16,35
+7:38,Duke,Zion Williamson,Defensive Rebound,16,35
+7:23,Stetson,Jalen Crutchfield,Foul,16,35
+7:23,Duke,Zion Williamson,Free Throw,16,36
+7:23,Duke,Zion Williamson,Free Throw,16,37
+7:12,Stetson,Stetson ,Turnover,16,37
+7:03,Duke,RJ Barrett,Jumper,16,39
+6:49,Stetson,Marques Sumner,Turnover,16,39
+6:49,Duke,RJ Barrett,Steal,16,39
+6:46,Duke,RJ Barrett,Dunk,16,41
+6:39,Stetson,Marques Sumner,Turnover,16,41
+6:39,Duke,RJ Barrett,Steal,16,41
+6:37,Duke,RJ Barrett,Dunk,16,43
+6:36,Stetson,None,None,16,43
+6:30,Stetson,None,None,16,43
+6:24,Stetson,Keith Matthews,Missed Layup,16,43
+6:24,Duke,Jack White,Block,16,43
+6:24,Duke,Tre Jones,Defensive Rebound,16,43
+6:17,Duke,Javin DeLaurier,Dunk,16,45
+6:09,Stetson,Christiaan Jones,Turnover,16,45
+6:09,Duke,Cam Reddish,Steal,16,45
+5:59,Duke,Jack White,Missed Three Point Jumper,16,45
+5:59,Stetson,Kenny Aninye,Defensive Rebound,16,45
+5:51,Stetson,Keith Matthews,Turnover,16,45
+5:51,Duke,Zion Williamson,Steal,16,45
+5:44,Stetson,Kenny Aninye,Foul,16,45
+5:44,Duke,Cam Reddish,Three Point Jumper,16,48
+5:23,Stetson,Abayomi Iyiola,Layup,18,48
+5:04,Duke,Alex O'Connell,Layup,18,50
+4:37,Stetson,Kenny Aninye,Layup,20,50
+4:37,Duke,Alex O'Connell,Foul,20,50
+4:37,Stetson,Kenny Aninye,Missed Free Throw,20,50
+4:37,Duke,Jack White,Defensive Rebound,20,50
+4:29,Duke,Cam Reddish,Missed Dunk,20,50
+4:29,Stetson,Jahlil Rawley,Defensive Rebound,20,50
+4:13,Stetson,Christiaan Jones,Missed Three Point Jumper,20,50
+4:13,Stetson,Abayomi Iyiola,Offensive Rebound,20,50
+4:09,Stetson,Christiaan Jones,Missed Jumper,20,50
+4:09,Duke,Cam Reddish,Defensive Rebound,20,50
+4:01,Duke,Cam Reddish,Three Point Jumper,20,53
+3:43,Stetson,Abayomi Iyiola,Missed Layup,20,53
+3:43,Duke,Cam Reddish,Defensive Rebound,20,53
+3:38,Duke,Cam Reddish,Turnover,20,53
+3:37,Duke,None,None,20,53
+3:28,Stetson,Leo Goodman,Missed Layup,20,53
+3:28,Duke,Jordan Goldwire,Defensive Rebound,20,53
+3:15,Duke,Alex O'Connell,Layup,20,55
+2:54,Stetson,Abayomi Iyiola,Missed Jumper,20,55
+2:54,Duke,Jack White,Defensive Rebound,20,55
+2:37,Duke,Alex O'Connell,Missed Three Point Jumper,20,55
+2:37,Stetson,Jahlil Rawley,Defensive Rebound,20,55
+2:27,Stetson,Leo Goodman,Missed Jumper,20,55
+2:27,Duke,Jordan Goldwire,Defensive Rebound,20,55
+2:09,Duke,Jordan Goldwire,Turnover,20,55
+1:51,Stetson,Abayomi Iyiola,Layup,22,55
+1:42,Duke,Antonio Vrankovic,Missed Layup,22,55
+1:42,Stetson,Abayomi Iyiola,Block,22,55
+1:42,Duke,Jack White,Offensive Rebound,22,55
+1:35,Duke,Cam Reddish,Missed Three Point Jumper,22,55
+1:35,Duke,Antonio Vrankovic,Offensive Rebound,22,55
+1:31,Duke,Cam Reddish,Dunk,22,57
+1:12,Stetson,Abayomi Iyiola,Layup,24,57
+0:53,Duke,Cam Reddish,Jumper,24,59
+0:32,Stetson,Marques Sumner,Missed Three Point Jumper,24,59
+0:32,Stetson,Leo Goodman,Offensive Rebound,24,59
+0:26,Duke,Jack White,Foul,24,59
+0:26,Stetson,Leo Goodman,Free Throw,25,59
+0:26,Stetson,Leo Goodman,Missed Free Throw,25,59
+0:26,Duke,Jack White,Defensive Rebound,25,59
+0:10,Duke,Cam Reddish,Missed Three Point Jumper,25,59
+0:10,Duke,Jack White,Offensive Rebound,25,59
+0:01,Duke,Jack White,Missed Layup,25,59
+0:01,Stetson,Adam Webb,Block,25,59
+0:01,Duke,Duke,Offensive Rebound,25,59
+0:01,Duke,Alex O'Connell,Missed Three Point Jumper,25,59
+0:01,Stetson,Leo Goodman,Defensive Rebound,25,59
+0:00,Duke,None,None,25,59
+20:00,Duke,None,None,25,59
+19:45,Duke,Zion Williamson,Dunk,25,61
+19:28,Stetson,Leo Goodman,Missed Jumper,25,61
+19:28,Duke,Zion Williamson,Defensive Rebound,25,61
+19:21,Duke,Zion Williamson,Layup,25,63
+19:05,Stetson,Abayomi Iyiola,Jumper,27,63
+18:44,Duke,RJ Barrett,Jumper,27,65
+18:16,Stetson,Abayomi Iyiola,Missed Layup,27,65
+18:16,Duke,Marques Bolden,Defensive Rebound,27,65
+18:07,Duke,RJ Barrett,Layup,27,67
+17:58,Stetson,Leo Goodman,Missed Three Point Jumper,27,67
+17:58,Duke,Cam Reddish,Defensive Rebound,27,67
+17:51,Duke,Cam Reddish,Missed Three Point Jumper,27,67
+17:51,Stetson,Kenny Aninye,Defensive Rebound,27,67
+17:37,Stetson,Kenny Aninye,Missed Layup,27,67
+17:37,Stetson,Kenny Aninye,Offensive Rebound,27,67
+17:31,Stetson,Christiaan Jones,Missed Three Point Jumper,27,67
+17:31,Duke,RJ Barrett,Defensive Rebound,27,67
+17:20,Duke,Cam Reddish,Dunk,27,69
+17:09,Stetson,Kenny Aninye,Turnover,27,69
+17:09,Duke,RJ Barrett,Steal,27,69
+17:04,Duke,Zion Williamson,Dunk,27,71
+16:52,Stetson,Marques Sumner,Turnover,27,71
+16:52,Duke,Zion Williamson,Steal,27,71
+16:46,Duke,RJ Barrett,Layup,27,73
+16:24,Stetson,Christiaan Jones,Layup,29,73
+16:16,Duke,RJ Barrett,Three Point Jumper,29,76
+16:02,Stetson,Marques Sumner,Missed Three Point Jumper,29,76
+16:02,Duke,Zion Williamson,Defensive Rebound,29,76
+15:56,Duke,RJ Barrett,Three Point Jumper,29,79
+15:38,Stetson,Kenny Aninye,Turnover,29,79
+15:38,Duke,Tre Jones,Steal,29,79
+15:38,Duke,None,None,29,79
+15:30,Duke,Cam Reddish,Missed Jumper,29,79
+15:30,Stetson,Kenny Aninye,Defensive Rebound,29,79
+15:30,Stetson,Ricardo Lynch,Missed Three Point Jumper,29,79
+15:30,Duke,Jordan Goldwire,Defensive Rebound,29,79
+14:57,Duke,Javin DeLaurier,Turnover,29,79
+14:57,Stetson,Jalen Crutchfield,Steal,29,79
+14:43,Stetson,Clay Verk,Missed Layup,29,79
+14:43,Duke,Javin DeLaurier,Block,29,79
+14:43,Duke,Alex O'Connell,Defensive Rebound,29,79
+14:16,Duke,Jordan Goldwire,Missed Layup,29,79
+14:16,Duke,Javin DeLaurier,Offensive Rebound,29,79
+14:10,Duke,Javin DeLaurier,Missed Layup,29,79
+14:10,Stetson,Jahlil Rawley,Defensive Rebound,29,79
+14:03,Stetson,Ricardo Lynch,Turnover,29,79
+14:03,Duke,Cam Reddish,Steal,29,79
+13:55,Duke,Alex O'Connell,Three Point Jumper,29,82
+13:33,Stetson,Clay Verk,Missed Jumper,29,82
+13:33,Duke,Jack White,Defensive Rebound,29,82
+13:17,Duke,Cam Reddish,Layup,29,84
+13:17,Stetson,Ricardo Lynch,Foul,29,84
+13:17,Duke,Cam Reddish,Free Throw,29,85
+13:07,Stetson,Ricardo Lynch,Turnover,29,85
+13:07,Duke,Zion Williamson,Steal,29,85
+12:59,Duke,Alex O'Connell,Missed Three Point Jumper,29,85
+12:59,Duke,Javin DeLaurier,Offensive Rebound,29,85
+12:53,Duke,Javin DeLaurier,Layup,29,87
+12:53,Stetson,Jahlil Rawley,Foul,29,87
+12:53,Duke,Javin DeLaurier,Missed Free Throw,29,87
+12:53,Stetson,Raine McKeython,Defensive Rebound,29,87
+12:48,Stetson,Jahlil Rawley,Missed Jumper,29,87
+12:48,Duke,Zion Williamson,Defensive Rebound,29,87
+12:36,Duke,Alex O'Connell,Missed Jumper,29,87
+12:36,Duke,Alex O'Connell,Offensive Rebound,29,87
+12:30,Duke,Zion Williamson,Missed Three Point Jumper,29,87
+12:30,Stetson,Raine McKeython,Defensive Rebound,29,87
+12:23,Stetson,Jahlil Rawley,Turnover,29,87
+12:08,Duke,Marques Bolden,Foul,29,87
+12:08,Duke,Marques Bolden,Turnover,29,87
+11:57,Stetson,Keith Matthews,Turnover,29,87
+11:57,Duke,Zion Williamson,Steal,29,87
+11:51,Duke,Jordan Goldwire,Missed Layup,29,87
+11:51,Stetson,Raine McKeython,Defensive Rebound,29,87
+11:44,Stetson,Jahlil Rawley,Layup,31,87
+11:27,Duke,Justin Robinson,Three Point Jumper,31,90
+11:10,Stetson,Clay Verk,Missed Three Point Jumper,31,90
+11:10,Duke,Zion Williamson,Defensive Rebound,31,90
+10:55,Stetson,Raine McKeython,Foul,31,90
+10:55,Duke,None,None,31,90
+10:44,Stetson,Kenny Aninye,Foul,31,90
+10:44,Duke,Jordan Goldwire,Missed Free Throw,31,90
+10:44,Duke,None,Team Rebound,31,90
+10:44,Duke,Jordan Goldwire,Free Throw,31,91
+10:17,Stetson,Kenny Aninye,Turnover,31,91
+10:02,Stetson,Adam Webb,Foul,31,91
+10:02,Duke,Marques Bolden,Free Throw,31,92
+10:02,Duke,Marques Bolden,Free Throw,31,93
+9:55,Stetson,Raine McKeython,Missed Three Point Jumper,31,93
+9:55,Duke,Justin Robinson,Block,31,93
+9:55,Duke,Justin Robinson,Defensive Rebound,31,93
+9:45,Duke,Jordan Goldwire,Turnover,31,93
+9:28,Duke,Justin Robinson,Foul,31,93
+9:28,Stetson,Christiaan Jones,Free Throw,32,93
+9:28,Stetson,Christiaan Jones,Free Throw,33,93
+9:05,Duke,Antonio Vrankovic,Turnover,33,93
+9:05,Stetson,Abayomi Iyiola,Steal,33,93
+8:57,Stetson,Abayomi Iyiola,Missed Dunk,33,93
+8:57,Duke,Javin DeLaurier,Block,33,93
+8:57,Stetson,Stetson,Offensive Rebound,33,93
+8:52,Stetson,Christiaan Jones,Missed Three Point Jumper,33,93
+8:52,Stetson,Abayomi Iyiola,Offensive Rebound,33,93
+8:52,Duke,Jack White,Foul,33,93
+8:52,Stetson,Abayomi Iyiola,Missed Free Throw,33,93
+8:52,Stetson,None,Team Rebound,33,93
+8:52,Stetson,Abayomi Iyiola,Missed Free Throw,33,93
+8:52,Stetson,Adam Webb,Offensive Rebound,33,93
+8:46,Stetson,Adam Webb,Missed Jumper,33,93
+8:46,Stetson,Stetson,Offensive Rebound,33,93
+8:39,Stetson,Abayomi Iyiola,Missed Three Point Jumper,33,93
+8:39,Duke,Jack White,Defensive Rebound,33,93
+8:30,Duke,Justin Robinson,Three Point Jumper,33,96
+8:17,Stetson,Kenny Aninye,Missed Jumper,33,96
+8:17,Stetson,Adam Webb,Offensive Rebound,33,96
+8:14,Duke,Antonio Vrankovic,Foul,33,96
+8:12,Stetson,Marques Sumner,Jumper,35,96
+7:45,Duke,Javin DeLaurier,Missed Jumper,35,96
+7:45,Stetson,Adam Webb,Block,35,96
+7:45,Duke,Jack White,Offensive Rebound,35,96
+7:40,Duke,Mike Buckmire,Turnover,35,96
+7:40,Duke,None,None,35,96
+7:33,Stetson,Christiaan Jones,Layup,37,96
+7:13,Duke,Antonio Vrankovic,Missed Layup,37,96
+7:13,Stetson,Adam Webb,Block,37,96
+7:13,Duke,Antonio Vrankovic,Offensive Rebound,37,96
+7:12,Duke,Jack White,Missed Three Point Jumper,37,96
+7:12,Stetson,Abayomi Iyiola,Defensive Rebound,37,96
+7:02,Duke,Alex O'Connell,Foul,37,96
+6:58,Stetson,Christiaan Jones,Missed Jumper,37,96
+6:58,Duke,Javin DeLaurier,Defensive Rebound,37,96
+6:50,Duke,Jack White,Missed Three Point Jumper,37,96
+6:50,Duke,Javin DeLaurier,Offensive Rebound,37,96
+6:43,Duke,Jordan Goldwire,Missed Three Point Jumper,37,96
+6:43,Duke,Antonio Vrankovic,Offensive Rebound,37,96
+6:31,Duke,Jack White,Turnover,37,96
+6:18,Duke,Jordan Goldwire,Foul,37,96
+6:18,Stetson,Abayomi Iyiola,Free Throw,38,96
+6:18,Stetson,Abayomi Iyiola,Free Throw,39,96
+6:04,Duke,Alex O'Connell,Turnover,39,96
+6:04,Stetson,Kenny Aninye,Steal,39,96
+5:42,Stetson,Ricky Gouety,Dunk,41,96
+5:11,Duke,Javin DeLaurier,Turnover,41,96
+4:50,Stetson,Abayomi Iyiola,Jumper,43,96
+4:18,Stetson,Abayomi Iyiola,Foul,43,96
+4:18,Duke,Javin DeLaurier,Missed Free Throw,43,96
+4:18,Duke,None,Team Rebound,43,96
+4:18,Duke,Javin DeLaurier,Missed Free Throw,43,96
+4:18,Duke,Marques Bolden,Offensive Rebound,43,96
+4:13,Duke,Javin DeLaurier,Foul,43,96
+4:13,Duke,Javin DeLaurier,Turnover,43,96
+3:55,Stetson,Jalen Crutchfield,Turnover,43,96
+3:55,Duke,Javin DeLaurier,Steal,43,96
+3:43,Stetson,Ricky Gouety,Foul,43,96
+3:43,Duke,None,None,43,96
+3:43,Duke,Javin DeLaurier,Free Throw,43,97
+3:43,Duke,Javin DeLaurier,Free Throw,43,98
+3:25,Stetson,Christiaan Jones,Turnover,43,98
+3:13,Duke,Alex O'Connell,Three Point Jumper,43,101
+2:58,Stetson,Christiaan Jones,Three Point Jumper,46,101
+2:43,Duke,Alex O'Connell,Missed Three Point Jumper,46,101
+2:43,Stetson,Stetson,Defensive Rebound,46,101
+2:28,Stetson,Jahlil Rawley,Missed Jumper,46,101
+2:28,Stetson,Ricky Gouety,Offensive Rebound,46,101
+2:23,Stetson,Ricky Gouety,Layup,48,101
+2:02,Duke,Justin Robinson,Layup,48,103
+2:02,Stetson,Marques Sumner,Foul,48,103
+2:02,Duke,Justin Robinson,Missed Free Throw,48,103
+2:02,Stetson,Stetson,Defensive Rebound,48,103
+2:00,Duke,Antonio Vrankovic,Foul,48,103
+2:00,Stetson,Adam Webb,Free Throw,49,103
+2:00,Stetson,Adam Webb,Missed Free Throw,49,103
+2:00,Duke,Alex O'Connell,Defensive Rebound,49,103
+1:55,Duke,Brennan Besser,Missed Three Point Jumper,49,103
+1:55,Stetson,Marques Sumner,Defensive Rebound,49,103
+1:38,Stetson,Marques Sumner,Turnover,49,103
+1:23,Duke,Justin Robinson,Three Point Jumper,49,106
+1:10,Stetson,Clay Verk,Missed Three Point Jumper,49,106
+1:10,Stetson,Keith Matthews,Offensive Rebound,49,106
+1:05,Stetson,Keith Matthews,Missed Layup,49,106
+1:05,Duke,Alex O'Connell,Defensive Rebound,49,106
+0:54,Duke,Brennan Besser,Missed Three Point Jumper,49,106
+0:54,Duke,Brennan Besser,Offensive Rebound,49,106
+0:46,Duke,Brennan Besser,Jumper,49,108
+0:37,Stetson,Keith Matthews,Missed Three Point Jumper,49,108
+0:37,Duke,Mike Buckmire,Defensive Rebound,49,108
+0:25,Duke,Alex O'Connell,Three Point Jumper,49,111
+0:17,Stetson,Jahlil Rawley,Turnover,49,111
+0:17,Duke,Justin Robinson,Steal,49,111
+0:12,Duke,Justin Robinson,Dunk,49,113
+0:06,Stetson,Jahlil Rawley,Turnover,49,113
+0:00,Duke,None,None,49,113

@@ -1,0 +1,365 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Stanford,None,None,0,0
+19:48,Stanford,Oscar da Silva,Missed Three Point Jumper,0,0
+19:48,Stanford,Oscar da Silva,Offensive Rebound,0,0
+19:26,Stanford,KZ Okpala,Missed Jumper,0,0
+19:26,Kansas,Dedric Lawson,Defensive Rebound,0,0
+19:20,Kansas,Lagerald Vick,Missed Three Point Jumper,0,0
+19:20,Stanford,Josh Sharma,Defensive Rebound,0,0
+18:47,Stanford,Isaac White,Three Point Jumper,3,0
+18:26,Kansas,Udoka Azubuike,Dunk,3,2
+17:58,Stanford,Oscar da Silva,Missed Three Point Jumper,3,2
+17:58,Kansas,Dedric Lawson,Defensive Rebound,3,2
+17:49,Kansas,Devon Dotson,Missed Layup,3,2
+17:49,Stanford,Josh Sharma,Block,3,2
+17:49,Stanford,Isaac White,Defensive Rebound,3,2
+17:22,Kansas,Quentin Grimes,Foul,3,2
+17:15,Stanford,Oscar da Silva,Missed Three Point Jumper,3,2
+17:15,Kansas,Udoka Azubuike,Defensive Rebound,3,2
+17:01,Kansas,Dedric Lawson,Missed Jumper,3,2
+17:01,Kansas,Udoka Azubuike,Offensive Rebound,3,2
+16:56,Kansas,None,None,3,2
+16:55,Kansas,Quentin Grimes,Jumper,3,4
+16:32,Stanford,Daejon Davis,Jumper,5,4
+16:18,Kansas,Udoka Azubuike,Layup,5,6
+16:18,Stanford,Josh Sharma,Foul,5,6
+16:18,Kansas,Udoka Azubuike,Missed Free Throw,5,6
+16:18,Stanford,Trevor Stanback,Defensive Rebound,5,6
+16:07,Stanford,Isaac White,Missed Three Point Jumper,5,6
+16:07,Stanford,Trevor Stanback,Offensive Rebound,5,6
+15:48,Kansas,Devon Dotson,Foul,5,6
+15:48,Kansas,None,None,5,6
+15:42,Stanford,Oscar da Silva,Missed Three Point Jumper,5,6
+15:42,Kansas,Udoka Azubuike,Defensive Rebound,5,6
+15:16,Stanford,Trevor Stanback,Foul,5,6
+15:16,Kansas,Udoka Azubuike,Missed Free Throw,5,6
+15:16,Kansas,None,Team Rebound,5,6
+15:16,Kansas,Udoka Azubuike,Missed Free Throw,5,6
+15:16,Stanford,Oscar da Silva,Defensive Rebound,5,6
+14:46,Kansas,Udoka Azubuike,Foul,5,6
+14:46,Stanford,Daejon Davis,Free Throw,6,6
+14:46,Stanford,Daejon Davis,Free Throw,7,6
+14:46,Stanford,Daejon Davis,Free Throw,8,6
+14:38,Kansas,Quentin Grimes,Foul,8,6
+14:38,Kansas,Quentin Grimes,Turnover,8,6
+14:19,Stanford,Jaiden Delaire,Missed Three Point Jumper,8,6
+14:19,Kansas,Marcus Garrett,Defensive Rebound,8,6
+13:56,Kansas,Dedric Lawson,Missed Layup,8,6
+13:56,Kansas,Mitch Lightfoot,Offensive Rebound,8,6
+13:53,Kansas,Mitch Lightfoot,Missed Layup,8,6
+13:53,Kansas,Dedric Lawson,Offensive Rebound,8,6
+13:53,Kansas,Dedric Lawson,Layup,8,8
+13:53,Stanford,Cormac Ryan,Foul,8,8
+13:53,Kansas,Dedric Lawson,Free Throw,8,9
+13:30,Stanford,Daejon Davis,Missed Layup,8,9
+13:30,Kansas,Dedric Lawson,Defensive Rebound,8,9
+13:21,Kansas,Dedric Lawson,Foul,8,9
+13:21,Kansas,Dedric Lawson,Turnover,8,9
+13:08,Kansas,Charlie Moore,Foul,8,9
+12:58,Stanford,KZ Okpala,Missed Three Point Jumper,8,9
+12:58,Kansas,David McCormack,Defensive Rebound,8,9
+12:34,Kansas,Marcus Garrett,Missed Layup,8,9
+12:34,Stanford,KZ Okpala,Block,8,9
+12:34,Stanford,KZ Okpala,Defensive Rebound,8,9
+12:22,Stanford,Bryce Wills,Foul,8,9
+12:22,Stanford,Bryce Wills,Turnover,8,9
+12:10,Kansas,Marcus Garrett,Turnover,8,9
+11:55,Kansas,Charlie Moore,Foul,8,9
+11:55,Kansas,None,None,8,9
+11:55,Stanford,Cormac Ryan,Free Throw,9,9
+11:55,Stanford,Cormac Ryan,Free Throw,10,9
+11:46,Stanford,Lukas Kisunas,Foul,10,9
+11:46,Kansas,Dedric Lawson,Free Throw,10,10
+11:46,Kansas,Dedric Lawson,Free Throw,10,11
+11:26,Stanford,Daejon Davis,Missed Layup,10,11
+11:26,Stanford,Lukas Kisunas,Offensive Rebound,10,11
+11:21,Stanford,Lukas Kisunas,Turnover,10,11
+11:21,Kansas,Marcus Garrett,Steal,10,11
+11:18,Kansas,Marcus Garrett,Dunk,10,13
+11:00,Stanford,Lukas Kisunas,Turnover,10,13
+11:00,Kansas,Dedric Lawson,Steal,10,13
+10:56,Kansas,Lagerald Vick,Missed Three Point Jumper,10,13
+10:56,Stanford,Daejon Davis,Defensive Rebound,10,13
+10:49,Stanford,Daejon Davis,Layup,12,13
+10:34,Kansas,Udoka Azubuike,Missed Layup,12,13
+10:34,Kansas,Dedric Lawson,Offensive Rebound,12,13
+10:34,Kansas,None,None,12,15
+10:09,Stanford,Oscar da Silva,Turnover,12,15
+10:09,Kansas,Marcus Garrett,Steal,12,15
+10:03,Kansas,Devon Dotson,Missed Jumper,12,15
+10:03,Stanford,Daejon Davis,Defensive Rebound,12,15
+9:41,Stanford,Cormac Ryan,Layup,14,15
+9:11,Stanford,KZ Okpala,Foul,14,15
+9:10,Kansas,Lagerald Vick,Missed Three Point Jumper,14,15
+9:10,Stanford,KZ Okpala,Defensive Rebound,14,15
+8:58,Stanford,Kodye Pugh,Missed Dunk,14,15
+8:58,Kansas,Lagerald Vick,Defensive Rebound,14,15
+8:57,Kansas,Lagerald Vick,Turnover,14,15
+8:43,Stanford,Daejon Davis,Missed Layup,14,15
+8:43,Kansas,Dedric Lawson,Defensive Rebound,14,15
+8:31,Kansas,Lagerald Vick,Missed Jumper,14,15
+8:31,Stanford,Josh Sharma,Block,14,15
+8:31,Stanford,Daejon Davis,Defensive Rebound,14,15
+8:19,Stanford,Daejon Davis,Three Point Jumper,17,15
+8:12,Kansas,Devon Dotson,Layup,17,17
+7:40,Stanford,Daejon Davis,Missed Three Point Jumper,17,17
+7:40,Stanford,Kodye Pugh,Offensive Rebound,17,17
+7:34,Stanford,Kodye Pugh,Missed Layup,17,17
+7:34,Kansas,Dedric Lawson,Defensive Rebound,17,17
+7:29,Kansas,Lagerald Vick,Turnover,17,17
+7:29,Stanford,Josh Sharma,Steal,17,17
+7:23,Kansas,Lagerald Vick,Foul,17,17
+7:23,Kansas,None,None,17,17
+7:23,Stanford,KZ Okpala,Missed Free Throw,17,17
+7:23,Kansas,Dedric Lawson,Defensive Rebound,17,17
+7:09,Kansas,K.J. Lawson,Turnover,17,17
+7:09,Stanford,Josh Sharma,Steal,17,17
+6:58,Kansas,K.J. Lawson,Foul,17,17
+6:58,Stanford,Josh Sharma,Missed Free Throw,17,17
+6:58,Stanford,None,Team Rebound,17,17
+6:58,Stanford,Josh Sharma,Free Throw,18,17
+6:37,Kansas,Quentin Grimes,Missed Three Point Jumper,18,17
+6:37,Kansas,K.J. Lawson,Offensive Rebound,18,17
+6:25,Kansas,Dedric Lawson,Layup,18,19
+6:04,Stanford,Daejon Davis,Foul,18,19
+6:04,Stanford,Daejon Davis,Turnover,18,19
+5:48,Kansas,Dedric Lawson,Layup,18,21
+5:16,Stanford,Isaac White,Three Point Jumper,21,21
+5:00,Kansas,Marcus Garrett,Missed Jumper,21,21
+5:00,Stanford,Oscar da Silva,Defensive Rebound,21,21
+4:51,Stanford,Oscar da Silva,Turnover,21,21
+4:43,Kansas,Dedric Lawson,Jumper,21,23
+4:29,Stanford,Cormac Ryan,Turnover,21,23
+4:29,Kansas,Lagerald Vick,Steal,21,23
+4:22,Kansas,Dedric Lawson,Missed Jumper,21,23
+4:22,Stanford,Daejon Davis,Defensive Rebound,21,23
+4:08,Stanford,Isaac White,Three Point Jumper,24,23
+4:04,Kansas,None,None,24,23
+3:55,Kansas,Udoka Azubuike,Foul,24,23
+3:55,Kansas,Udoka Azubuike,Turnover,24,23
+3:43,Stanford,Josh Sharma,Dunk,26,23
+3:28,Kansas,Dedric Lawson,Missed Three Point Jumper,26,23
+3:28,Stanford,Daejon Davis,Defensive Rebound,26,23
+3:13,Stanford,Isaac White,Missed Three Point Jumper,26,23
+3:13,Kansas,Dedric Lawson,Defensive Rebound,26,23
+2:50,Kansas,Quentin Grimes,Missed Three Point Jumper,26,23
+2:50,Stanford,Cormac Ryan,Defensive Rebound,26,23
+2:26,Kansas,Devon Dotson,Foul,26,23
+2:26,Stanford,KZ Okpala,Free Throw,27,23
+2:26,Stanford,KZ Okpala,Free Throw,28,23
+2:14,Kansas,Lagerald Vick,Jumper,28,25
+1:53,Stanford,Josh Sharma,Dunk,30,25
+1:41,Kansas,Quentin Grimes,Missed Jumper,30,25
+1:41,Stanford,KZ Okpala,Defensive Rebound,30,25
+1:15,Stanford,Cormac Ryan,Missed Three Point Jumper,30,25
+1:15,Kansas,Devon Dotson,Defensive Rebound,30,25
+1:02,Kansas,Devon Dotson,Layup,30,27
+0:46,Stanford,Isaac White,Three Point Jumper,33,27
+0:32,Kansas,Lagerald Vick,Missed Jumper,33,27
+0:32,Kansas,K.J. Lawson,Offensive Rebound,33,27
+0:28,Stanford,Cormac Ryan,Foul,33,27
+0:28,Kansas,K.J. Lawson,Free Throw,33,28
+0:28,Kansas,K.J. Lawson,Free Throw,33,29
+0:28,Stanford,None,None,33,29
+0:02,Stanford,Oscar da Silva,Layup,35,29
+0:00,Kansas,None,None,35,29
+20:00,Stanford,None,None,35,29
+19:43,Stanford,KZ Okpala,Jumper,37,29
+19:24,Kansas,Udoka Azubuike,Missed Layup,37,29
+19:24,Stanford,Oscar da Silva,Defensive Rebound,37,29
+19:10,Stanford,Josh Sharma,Missed Dunk,37,29
+19:10,Stanford,Isaac White,Offensive Rebound,37,29
+19:04,Stanford,Josh Sharma,Layup,39,29
+18:53,Kansas,Quentin Grimes,Missed Jumper,39,29
+18:53,Kansas,Udoka Azubuike,Offensive Rebound,39,29
+18:49,Kansas,Udoka Azubuike,Dunk,39,31
+18:34,Kansas,Devon Dotson,Foul,39,31
+18:17,Stanford,KZ Okpala,Missed Layup,39,31
+18:17,Stanford,KZ Okpala,Offensive Rebound,39,31
+18:12,Stanford,KZ Okpala,Layup,41,31
+18:00,Kansas,Quentin Grimes,Missed Three Point Jumper,41,31
+18:00,Stanford,Josh Sharma,Defensive Rebound,41,31
+17:44,Stanford,Oscar da Silva,Layup,43,31
+17:40,Kansas,None,None,43,31
+17:36,Kansas,Dedric Lawson,Missed Jumper,43,31
+17:36,Stanford,KZ Okpala,Defensive Rebound,43,31
+17:18,Stanford,Oscar da Silva,Missed Three Point Jumper,43,31
+17:18,Kansas,Udoka Azubuike,Defensive Rebound,43,31
+16:57,Kansas,Dedric Lawson,Missed Jumper,43,31
+16:57,Stanford,KZ Okpala,Defensive Rebound,43,31
+16:31,Kansas,Dedric Lawson,Foul,43,31
+16:25,Stanford,KZ Okpala,Missed Three Point Jumper,43,31
+16:25,Kansas,Devon Dotson,Defensive Rebound,43,31
+16:20,Stanford,Josh Sharma,Foul,43,31
+16:06,Kansas,Lagerald Vick,Three Point Jumper,43,34
+15:52,Stanford,Daejon Davis,Turnover,43,34
+15:52,Kansas,Udoka Azubuike,Steal,43,34
+15:52,Stanford,Josh Sharma,Foul,43,34
+15:52,Kansas,None,None,43,34
+15:52,Kansas,Devon Dotson,Free Throw,43,35
+15:52,Kansas,Devon Dotson,Missed Free Throw,43,35
+15:52,Stanford,Oscar da Silva,Defensive Rebound,43,35
+15:52,Stanford,Oscar da Silva,Turnover,43,35
+15:52,Kansas,Devon Dotson,Steal,43,35
+15:52,Kansas,Lagerald Vick,Three Point Jumper,43,38
+15:35,Stanford,Oscar da Silva,Missed Three Point Jumper,43,38
+15:35,Kansas,Dedric Lawson,Defensive Rebound,43,38
+15:23,Kansas,Dedric Lawson,Jumper,43,40
+14:37,Stanford,None,None,43,40
+14:22,Stanford,Cormac Ryan,Three Point Jumper,46,40
+14:04,Kansas,Dedric Lawson,Missed Jumper,46,40
+14:04,Stanford,KZ Okpala,Defensive Rebound,46,40
+13:42,Stanford,Daejon Davis,Turnover,46,40
+13:29,Kansas,Lagerald Vick,Missed Jumper,46,40
+13:29,Kansas,Udoka Azubuike,Offensive Rebound,46,40
+13:21,Kansas,Udoka Azubuike,Layup,46,42
+13:13,Stanford,KZ Okpala,Three Point Jumper,49,42
+13:04,Kansas,Devon Dotson,Missed Jumper,49,42
+13:04,Stanford,KZ Okpala,Defensive Rebound,49,42
+12:49,Stanford,Cormac Ryan,Three Point Jumper,52,42
+12:45,Kansas,None,None,52,42
+12:38,Kansas,Udoka Azubuike,Turnover,52,42
+12:38,Stanford,Cormac Ryan,Steal,52,42
+12:25,Stanford,Trevor Stanback,Dunk,54,42
+12:16,Kansas,Lagerald Vick,Turnover,54,42
+12:08,Stanford,Cormac Ryan,Missed Three Point Jumper,54,42
+12:08,Kansas,Udoka Azubuike,Defensive Rebound,54,42
+11:51,Stanford,Trevor Stanback,Foul,54,42
+11:51,Kansas,None,None,54,42
+11:51,Kansas,Dedric Lawson,Free Throw,54,43
+11:51,Kansas,Dedric Lawson,Free Throw,54,44
+11:38,Stanford,KZ Okpala,Turnover,54,44
+11:38,Kansas,Marcus Garrett,Steal,54,44
+11:23,Kansas,Marcus Garrett,Missed Jumper,54,44
+11:23,Stanford,Trevor Stanback,Block,54,44
+11:23,Stanford,Daejon Davis,Defensive Rebound,54,44
+11:22,Stanford,Daejon Davis,Turnover,54,44
+11:21,Stanford,Jaiden Delaire,Foul,54,44
+11:13,Kansas,Udoka Azubuike,Jumper,54,46
+10:40,Stanford,Cormac Ryan,Missed Three Point Jumper,54,46
+10:39,Stanford,Trevor Stanback,Offensive Rebound,54,46
+10:30,Stanford,Jaiden Delaire,Missed Three Point Jumper,54,46
+10:30,Kansas,Lagerald Vick,Defensive Rebound,54,46
+10:14,Kansas,Udoka Azubuike,Dunk,54,48
+9:57,Kansas,Lagerald Vick,Foul,54,48
+9:57,Kansas,Udoka Azubuike,Foul,54,48
+9:48,Stanford,Daejon Davis,Missed Jumper,54,48
+9:48,Stanford,Daejon Davis,Offensive Rebound,54,48
+9:40,Stanford,KZ Okpala,Three Point Jumper,57,48
+9:26,Kansas,Udoka Azubuike,Dunk,57,50
+9:01,Stanford,Daejon Davis,Missed Three Point Jumper,57,50
+9:01,Kansas,Dedric Lawson,Defensive Rebound,57,50
+8:51,Stanford,Josh Sharma,Foul,57,50
+8:43,Kansas,Devon Dotson,Jumper,57,52
+8:20,Stanford,KZ Okpala,Layup,59,52
+8:20,Kansas,Lagerald Vick,Foul,59,52
+8:20,Stanford,KZ Okpala,Free Throw,60,52
+8:04,Kansas,Dedric Lawson,Missed Jumper,60,52
+8:04,Stanford,KZ Okpala,Block,60,52
+8:04,Kansas,Dedric Lawson,Offensive Rebound,60,52
+8:02,Stanford,KZ Okpala,Foul,60,52
+8:02,Kansas,None,None,60,52
+8:02,Kansas,Dedric Lawson,Free Throw,60,53
+8:02,Kansas,Dedric Lawson,Free Throw,60,54
+7:37,Stanford,Oscar da Silva,Missed Layup,60,54
+7:37,Kansas,Udoka Azubuike,Defensive Rebound,60,54
+7:26,Kansas,Lagerald Vick,Three Point Jumper,60,57
+6:55,Stanford,Daejon Davis,Turnover,60,57
+6:55,Kansas,Devon Dotson,Steal,60,57
+6:52,Stanford,Daejon Davis,Foul,60,57
+6:52,Kansas,Devon Dotson,Missed Free Throw,60,57
+6:52,Stanford,Oscar da Silva,Defensive Rebound,60,57
+6:46,Stanford,KZ Okpala,Missed Jumper,60,57
+6:46,Kansas,Lagerald Vick,Defensive Rebound,60,57
+6:36,Kansas,Udoka Azubuike,Layup,60,59
+5:59,Stanford,KZ Okpala,Turnover,60,59
+5:47,Kansas,Lagerald Vick,Three Point Jumper,60,62
+5:25,Stanford,None,None,60,62
+5:10,Stanford,Cormac Ryan,Jumper,62,62
+4:54,Kansas,Marcus Garrett,Dunk,62,64
+4:34,Stanford,Cormac Ryan,Missed Three Point Jumper,62,64
+4:34,Kansas,Lagerald Vick,Defensive Rebound,62,64
+4:26,Kansas,Charlie Moore,Missed Three Point Jumper,62,64
+4:26,Kansas,Lagerald Vick,Offensive Rebound,62,64
+4:12,Kansas,Lagerald Vick,Layup,62,66
+4:00,Kansas,Udoka Azubuike,Foul,62,66
+4:00,Kansas,None,None,62,66
+4:00,Stanford,Josh Sharma,Missed Free Throw,62,66
+4:00,Stanford,None,Team Rebound,62,66
+4:00,Stanford,Josh Sharma,Free Throw,63,66
+3:47,Kansas,Dedric Lawson,Layup,63,68
+3:28,Stanford,KZ Okpala,Three Point Jumper,66,68
+2:57,Kansas,Dedric Lawson,Missed Layup,66,68
+2:57,Stanford,Josh Sharma,Block,66,68
+2:57,Stanford,Cormac Ryan,Defensive Rebound,66,68
+2:43,Stanford,Isaac White,Three Point Jumper,69,68
+2:10,Stanford,Josh Sharma,Foul,69,68
+2:10,Kansas,Dedric Lawson,Free Throw,69,69
+2:10,Kansas,Dedric Lawson,Free Throw,69,70
+1:59,Stanford,Daejon Davis,Layup,71,70
+1:50,Kansas,Lagerald Vick,Missed Three Point Jumper,71,70
+1:50,Kansas,Dedric Lawson,Offensive Rebound,71,70
+1:47,Stanford,Oscar da Silva,Foul,71,70
+1:47,Kansas,Dedric Lawson,Free Throw,71,71
+1:47,Kansas,Dedric Lawson,Missed Free Throw,71,71
+1:47,Stanford,Oscar da Silva,Defensive Rebound,71,71
+1:27,Kansas,Dedric Lawson,Foul,71,71
+1:27,Stanford,Oscar da Silva,Free Throw,72,71
+1:27,Kansas,Dedric Lawson,Turnover,71,71
+1:27,Stanford,Oscar da Silva,Free Throw,73,71
+1:12,Stanford,KZ Okpala,Missed Jumper,73,71
+1:12,Kansas,Dedric Lawson,Defensive Rebound,73,71
+0:59,Stanford,Cormac Ryan,Foul,73,71
+0:59,Kansas,Charlie Moore,Missed Free Throw,73,71
+0:59,Kansas,None,Team Rebound,73,71
+0:59,Kansas,Charlie Moore,Free Throw,73,72
+0:41,Stanford,Daejon Davis,Missed Jumper,73,72
+0:41,Stanford,Daejon Davis,Offensive Rebound,73,72
+0:36,Stanford,None,None,73,72
+0:13,Kansas,Dedric Lawson,Foul,73,72
+0:13,Stanford,Daejon Davis,Free Throw,74,72
+0:13,Stanford,Daejon Davis,Free Throw,75,72
+0:11,Kansas,Lagerald Vick,Three Point Jumper,75,75
+0:02,Stanford,Daejon Davis,Missed Three Point Jumper,75,75
+0:02,Kansas,Dedric Lawson,Defensive Rebound,75,75
+0:00,Kansas,None,None,75,75
+5:00,Stanford,None,None,75,75
+4:45,Stanford,Oscar da Silva,Missed Three Point Jumper,75,75
+4:45,Kansas,Udoka Azubuike,Defensive Rebound,75,75
+4:22,Kansas,Lagerald Vick,Three Point Jumper,75,78
+3:56,Stanford,Trevor Stanback,Turnover,75,78
+3:56,Kansas,Dedric Lawson,Steal,75,78
+3:34,Kansas,Devon Dotson,Missed Jumper,75,78
+3:34,Stanford,Trevor Stanback,Defensive Rebound,75,78
+3:08,Stanford,Cormac Ryan,Turnover,75,78
+3:08,Kansas,Marcus Garrett,Steal,75,78
+2:59,Kansas,Lagerald Vick,Dunk,75,80
+2:39,Stanford,Oscar da Silva,Foul,75,80
+2:39,Stanford,Oscar da Silva,Turnover,75,80
+2:31,Kansas,Lagerald Vick,Three Point Jumper,75,83
+2:14,Kansas,Dedric Lawson,Foul,75,83
+2:14,Stanford,KZ Okpala,Free Throw,76,83
+2:14,Stanford,KZ Okpala,Free Throw,77,83
+1:57,Kansas,Udoka Azubuike,Dunk,77,85
+1:43,Stanford,KZ Okpala,Turnover,77,85
+1:21,Kansas,Marcus Garrett,Turnover,77,85
+1:12,Stanford,Daejon Davis,Jumper,79,85
+0:40,Stanford,KZ Okpala,Foul,79,85
+0:40,Kansas,Devon Dotson,Missed Free Throw,79,85
+0:40,Kansas,None,Team Rebound,79,85
+0:40,Kansas,Devon Dotson,Free Throw,79,86
+0:28,Stanford,Daejon Davis,Three Point Jumper,82,86
+0:28,Kansas,None,None,82,86
+0:27,Stanford,Cormac Ryan,Foul,82,86
+0:27,Kansas,Charlie Moore,Free Throw,82,87
+0:27,Kansas,Charlie Moore,Free Throw,82,88
+0:27,Kansas,None,None,82,88
+0:15,Stanford,KZ Okpala,Layup,84,88
+0:14,Stanford,KZ Okpala,Foul,84,88
+0:14,Kansas,Devon Dotson,Free Throw,84,89
+0:14,Kansas,Devon Dotson,Free Throw,84,90
+0:09,Stanford,Cormac Ryan,Missed Three Point Jumper,84,90
+0:09,Stanford,Isaac White,Offensive Rebound,84,90
+0:05,Stanford,Daejon Davis,Missed Three Point Jumper,84,90
+0:05,Kansas,Quentin Grimes,Defensive Rebound,84,90
+0:00,Kansas,None,None,84,90

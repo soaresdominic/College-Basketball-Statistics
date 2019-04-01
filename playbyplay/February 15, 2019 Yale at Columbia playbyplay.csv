@@ -1,0 +1,332 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:46,Columbia,Gabe Stefanini,Turnover,0,0
+19:44,Yale,Blake Reynolds,Steal,0,0
+19:36,Yale,Trey Phills,Layup,2,0
+19:31,Columbia,Randy Brumant,Turnover,2,0
+19:31,Columbia,Randy Brumant,Foul,2,0
+19:16,Yale,Jordan Bruner,Turnover,2,0
+19:04,Columbia,Quinton Adlesh,Layup,2,2
+18:43,Yale,Paul Atkinson,Turnover,2,2
+18:42,Columbia,Gabe Stefanini,Steal,2,2
+18:32,Columbia,Patrick Tape,Jumper,2,4
+18:12,Yale,Miye Oni,Missed Three Point Jumper,2,4
+18:12,Yale,Miye Oni,Offensive Rebound,2,4
+18:03,Yale,Miye Oni,Missed Layup,2,4
+18:03,Columbia,Patrick Tape,Block,2,4
+18:01,Columbia,Quinton Adlesh,Defensive Rebound,2,4
+17:40,Columbia,Randy Brumant,Missed Three Point Jumper,2,4
+17:40,Yale,Paul Atkinson,Defensive Rebound,2,4
+17:32,Yale,Trey Phills,Missed Layup,2,4
+17:32,Columbia,Patrick Tape,Defensive Rebound,2,4
+17:26,Columbia,Jake Killingsworth,Missed Three Point Jumper,2,4
+17:26,Yale,Paul Atkinson,Defensive Rebound,2,4
+17:01,Yale,Miye Oni,Turnover,2,4
+16:38,Columbia,Quinton Adlesh,Turnover,2,4
+16:23,Yale,Alex Copeland,Turnover,2,4
+16:22,Columbia,Randy Brumant,Steal,2,4
+16:16,Columbia,Gabe Stefanini,Jumper,2,6
+15:47,Yale,Miye Oni,Jumper,4,6
+15:32,Columbia,Patrick Tape,Turnover,4,6
+15:27,Yale,Alex Copeland,Steal,4,6
+15:25,Columbia,Patrick Tape,Foul,4,6
+15:25,Yale,None,None,4,6
+15:13,Yale,Miye Oni,Three Point Jumper,7,6
+15:00,Columbia,Gabe Stefanini,Missed Jumper,7,6
+15:00,Yale,Trey Phills,Defensive Rebound,7,6
+14:44,Yale,Trey Phills,Layup,9,6
+14:28,Yale,Paul Atkinson,Foul,9,6
+14:28,Columbia,Patrick Tape,Missed Free Throw,9,6
+14:28,Columbia,None,Team Rebound,9,6
+14:28,Columbia,Patrick Tape,Free Throw,9,7
+14:17,Yale,Alex Copeland,Turnover,9,7
+14:16,Columbia,Peter Barba,Steal,9,7
+14:13,Columbia,Gabe Stefanini,Missed Three Point Jumper,9,7
+14:13,Columbia,Peter Barba,Offensive Rebound,9,7
+14:06,Columbia,Quinton Adlesh,Turnover,9,7
+14:05,Yale,Trey Phills,Steal,9,7
+14:00,Yale,Trey Phills,Turnover,9,7
+13:59,Columbia,Gabe Stefanini,Steal,9,7
+13:48,Columbia,Patrick Tape,Layup,9,9
+13:37,Columbia,Gabe Stefanini,Foul,9,9
+13:33,Yale,Paul Atkinson,Turnover,9,9
+13:19,Columbia,Quinton Adlesh,Missed Three Point Jumper,9,9
+13:19,Yale,Trey Phills,Defensive Rebound,9,9
+13:04,Yale,Paul Atkinson,Layup,11,9
+12:48,Columbia,Tai Bibbs,Missed Jumper,11,9
+12:48,Yale,Trey Phills,Defensive Rebound,11,9
+12:31,Yale,Miye Oni,Missed Three Point Jumper,11,9
+12:31,Columbia,Patrick Tape,Defensive Rebound,11,9
+12:20,Columbia,Gabe Stefanini,Missed Jumper,11,9
+12:20,Columbia,Tai Bibbs,Offensive Rebound,11,9
+12:14,Columbia,Quinton Adlesh,Missed Three Point Jumper,11,9
+12:14,Yale,Miye Oni,Defensive Rebound,11,9
+12:05,Yale,Jordan Bruner,Missed Three Point Jumper,11,9
+12:05,Columbia,Quinton Adlesh,Defensive Rebound,11,9
+11:43,Columbia,Patrick Tape,Missed Layup,11,9
+11:43,Yale,Paul Atkinson,Block,11,9
+11:39,Columbia,Patrick Tape,Offensive Rebound,11,9
+11:33,Columbia,Patrick Tape,Layup,11,11
+11:17,Yale,Azar Swain,Missed Three Point Jumper,11,11
+11:17,Columbia,Gabe Stefanini,Defensive Rebound,11,11
+10:51,Columbia,Gabe Stefanini,Jumper,11,13
+10:33,Yale,Jordan Bruner,Foul,11,13
+10:33,Yale,Jordan Bruner,Turnover,11,13
+10:33,Columbia,None,None,11,13
+10:09,Columbia,Ike Nweke,Missed Jumper,11,13
+10:09,Yale,Jordan Bruner,Defensive Rebound,11,13
+9:48,Yale,Azar Swain,Missed Jumper,11,13
+9:48,Columbia,Peter Barba,Defensive Rebound,11,13
+9:43,Columbia,Tai Bibbs,Turnover,11,13
+9:13,Yale,Eric Monroe,Three Point Jumper,14,13
+8:53,Columbia,Gabe Stefanini,Missed Three Point Jumper,14,13
+8:53,Yale,Jordan Bruner,Defensive Rebound,14,13
+8:44,Yale,Miye Oni,Missed Layup,14,13
+8:44,Columbia,Ike Nweke,Defensive Rebound,14,13
+8:22,Columbia,Ike Nweke,Missed Layup,14,13
+8:22,Yale,Jordan Bruner,Block,14,13
+8:20,Columbia,Maka Ellis,Offensive Rebound,14,13
+8:14,Columbia,Gabe Stefanini,Missed Three Point Jumper,14,13
+8:14,Yale,Blake Reynolds,Defensive Rebound,14,13
+8:07,Yale,Azar Swain,Missed Three Point Jumper,14,13
+8:07,Columbia,Gabe Stefanini,Defensive Rebound,14,13
+7:59,Yale,Azar Swain,Foul,14,13
+7:59,Columbia,None,None,14,13
+7:44,Columbia,Peter Barba,Missed Three Point Jumper,14,13
+7:44,Yale,Eric Monroe,Defensive Rebound,14,13
+7:37,Yale,Alex Copeland,Missed Jumper,14,13
+7:37,Columbia,Maka Ellis,Defensive Rebound,14,13
+7:26,Columbia,Quinton Adlesh,Missed Layup,14,13
+7:26,Columbia,Ike Nweke,Offensive Rebound,14,13
+7:21,Columbia,Quinton Adlesh,Layup,14,15
+7:04,Yale,Alex Copeland,Layup,16,15
+6:49,Columbia,Quinton Adlesh,Missed Jumper,16,15
+6:49,Yale,Blake Reynolds,Defensive Rebound,16,15
+6:30,Yale,Jordan Bruner,Missed Three Point Jumper,16,15
+6:30,Columbia,Peter Barba,Defensive Rebound,16,15
+6:20,Columbia,Tai Bibbs,Missed Jumper,16,15
+6:20,Columbia,Ike Nweke,Offensive Rebound,16,15
+6:16,Columbia,Ike Nweke,Missed Layup,16,15
+6:16,Yale,Jordan Bruner,Defensive Rebound,16,15
+6:03,Yale,Alex Copeland,Missed Three Point Jumper,16,15
+6:03,Columbia,Tai Bibbs,Defensive Rebound,16,15
+5:43,Columbia,Quinton Adlesh,Missed Jumper,16,15
+5:43,Yale,Blake Reynolds,Defensive Rebound,16,15
+5:39,Yale,Blake Reynolds,Turnover,16,15
+5:31,Columbia,Tai Bibbs,Steal,16,15
+5:31,Yale,Blake Reynolds,Foul,16,15
+5:31,Columbia,Ike Nweke,Missed Free Throw,16,15
+5:31,Columbia,None,Team Rebound,16,15
+5:31,Columbia,Ike Nweke,Free Throw,16,16
+5:17,Yale,Trey Phills,Layup,18,16
+5:00,Columbia,Patrick Tape,Layup,18,18
+4:46,Yale,Blake Reynolds,Turnover,18,18
+4:45,Columbia,Gabe Stefanini,Steal,18,18
+4:42,Columbia,Randy Brumant,Dunk,18,20
+4:22,Columbia,Jake Killingsworth,Foul,18,20
+4:18,Columbia,Patrick Tape,Foul,18,20
+4:18,Yale,Miye Oni,Free Throw,19,20
+4:18,Yale,Miye Oni,Free Throw,20,20
+4:02,Columbia,Gabe Stefanini,Jumper,20,22
+3:36,Yale,Alex Copeland,Jumper,22,22
+3:08,Columbia,Gabe Stefanini,Turnover,22,22
+3:07,Yale,Trey Phills,Steal,22,22
+3:03,Yale,Alex Copeland,Layup,24,22
+2:49,Columbia,Randy Brumant,Missed Jumper,24,22
+2:49,Yale,Miye Oni,Defensive Rebound,24,22
+2:39,Yale,Trey Phills,Layup,26,22
+2:27,Columbia,None,None,26,22
+2:12,Columbia,Jake Killingsworth,Missed Three Point Jumper,26,22
+2:12,Yale,Blake Reynolds,Defensive Rebound,26,22
+1:50,Yale,Miye Oni,Jumper,28,22
+1:36,Columbia,Gabe Stefanini,Missed Layup,28,22
+1:36,Yale,Paul Atkinson,Defensive Rebound,28,22
+1:19,Yale,Alex Copeland,Jumper,30,22
+1:17,Columbia,None,None,30,22
+0:53,Columbia,Quinton Adlesh,Missed Jumper,30,22
+0:53,Yale,Miye Oni,Block,30,22
+0:51,Yale,Paul Atkinson,Defensive Rebound,30,22
+0:40,Yale,Trey Phills,Three Point Jumper,33,22
+0:25,Columbia,Peter Barba,Three Point Jumper,33,25
+0:22,Yale,None,None,33,25
+0:13,Yale,Alex Copeland,Layup,35,25
+0:02,Columbia,Gabe Stefanini,Missed Jumper,35,25
+0:02,Yale,Miye Oni,Block,35,25
+0:02,Columbia,Columbia,Offensive Rebound,35,25
+0:00,Columbia,None,None,35,25
+19:49,Yale,Jordan Bruner,Missed Layup,35,25
+19:49,Columbia,Patrick Tape,Block,35,25
+19:47,Columbia,Randy Brumant,Defensive Rebound,35,25
+19:33,Columbia,Quinton Adlesh,Missed Three Point Jumper,35,25
+19:33,Yale,Jordan Bruner,Defensive Rebound,35,25
+19:22,Yale,Jordan Bruner,Turnover,35,25
+19:09,Columbia,Quinton Adlesh,Jumper,35,27
+18:48,Yale,Blake Reynolds,Jumper,37,27
+18:34,Columbia,Quinton Adlesh,Jumper,37,29
+18:20,Columbia,Patrick Tape,Foul,37,29
+18:20,Yale,Trey Phills,Free Throw,38,29
+18:20,Yale,Trey Phills,Missed Free Throw,38,29
+18:20,Columbia,Jake Killingsworth,Defensive Rebound,38,29
+18:09,Columbia,Quinton Adlesh,Missed Three Point Jumper,38,29
+18:09,Yale,Jordan Bruner,Defensive Rebound,38,29
+18:03,Columbia,Patrick Tape,Foul,38,29
+17:50,Yale,Miye Oni,Missed Jumper,38,29
+17:50,Columbia,Columbia,Defensive Rebound,38,29
+17:36,Columbia,Jake Killingsworth,Missed Three Point Jumper,38,29
+17:36,Yale,Blake Reynolds,Defensive Rebound,38,29
+17:18,Yale,Miye Oni,Missed Three Point Jumper,38,29
+17:18,Yale,Alex Copeland,Offensive Rebound,38,29
+17:10,Yale,Paul Atkinson,Layup,40,29
+16:51,Columbia,Ike Nweke,Missed Layup,40,29
+16:51,Yale,Alex Copeland,Defensive Rebound,40,29
+16:23,Yale,Miye Oni,Missed Jumper,40,29
+16:23,Columbia,Randy Brumant,Defensive Rebound,40,29
+16:08,Columbia,Gabe Stefanini,Layup,40,31
+15:49,Yale,Miye Oni,Three Point Jumper,43,31
+15:31,Columbia,Quinton Adlesh,Missed Jumper,43,31
+15:31,Columbia,Ike Nweke,Offensive Rebound,43,31
+15:28,Columbia,None,None,43,31
+15:00,Columbia,Randy Brumant,Missed Three Point Jumper,43,31
+15:00,Yale,Yale,Defensive Rebound,43,31
+14:31,Yale,Alex Copeland,Missed Jumper,43,31
+14:31,Columbia,Gabe Stefanini,Defensive Rebound,43,31
+14:08,Columbia,Gabe Stefanini,Missed Three Point Jumper,43,31
+14:08,Yale,Miye Oni,Defensive Rebound,43,31
+13:59,Yale,Miye Oni,Dunk,45,31
+13:45,Columbia,Ike Nweke,Turnover,45,31
+13:44,Yale,Alex Copeland,Steal,45,31
+13:42,Yale,Alex Copeland,Dunk,47,31
+13:38,Columbia,None,None,47,31
+13:21,Columbia,Quinton Adlesh,Missed Three Point Jumper,47,31
+13:21,Yale,Miye Oni,Defensive Rebound,47,31
+13:03,Yale,Paul Atkinson,Turnover,47,31
+13:01,Columbia,Maka Ellis,Steal,47,31
+12:56,Columbia,Gabe Stefanini,Missed Layup,47,31
+12:56,Yale,Miye Oni,Block,47,31
+12:54,Yale,Azar Swain,Defensive Rebound,47,31
+12:50,Yale,Eric Monroe,Missed Three Point Jumper,47,31
+12:50,Yale,Paul Atkinson,Offensive Rebound,47,31
+12:44,Columbia,Randy Brumant,Foul,47,31
+12:44,Yale,Paul Atkinson,Free Throw,48,31
+12:44,Yale,Paul Atkinson,Free Throw,49,31
+12:31,Columbia,Peter Barba,Three Point Jumper,49,34
+12:20,Columbia,Peter Barba,Foul,49,34
+12:20,Yale,Miye Oni,Missed Free Throw,49,34
+12:20,Yale,None,Team Rebound,49,34
+12:20,Yale,Miye Oni,Free Throw,50,34
+12:05,Columbia,Tai Bibbs,Missed Jumper,50,34
+12:05,Yale,Jordan Bruner,Defensive Rebound,50,34
+11:41,Yale,Eric Monroe,Turnover,50,34
+11:41,Columbia,None,None,50,34
+11:28,Yale,Eric Monroe,Foul,50,34
+11:28,Columbia,Quinton Adlesh,Free Throw,50,35
+11:28,Columbia,Quinton Adlesh,Free Throw,50,36
+11:15,Yale,Paul Atkinson,Layup,52,36
+10:53,Yale,Eric Monroe,Foul,52,36
+10:53,Columbia,Quinton Adlesh,Free Throw,52,37
+10:53,Columbia,Quinton Adlesh,Free Throw,52,38
+10:34,Yale,Miye Oni,Missed Three Point Jumper,52,38
+10:34,Columbia,Quinton Adlesh,Defensive Rebound,52,38
+10:29,Yale,Azar Swain,Foul,52,38
+10:29,Columbia,Tai Bibbs,Missed Free Throw,52,38
+10:29,Columbia,None,Team Rebound,52,38
+10:29,Columbia,Tai Bibbs,Free Throw,52,39
+10:12,Yale,Azar Swain,Three Point Jumper,55,39
+9:56,Columbia,Peter Barba,Three Point Jumper,55,42
+9:28,Yale,Jordan Bruner,Turnover,55,42
+9:27,Columbia,Quinton Adlesh,Steal,55,42
+9:24,Columbia,Quinton Adlesh,Turnover,55,42
+9:23,Yale,Miye Oni,Steal,55,42
+9:22,Columbia,Peter Barba,Foul,55,42
+9:22,Yale,Miye Oni,Missed Free Throw,55,42
+9:22,Yale,None,Team Rebound,55,42
+9:22,Yale,Miye Oni,Free Throw,56,42
+9:22,Yale,Miye Oni,Missed Free Throw,56,42
+9:22,Columbia,Patrick Tape,Defensive Rebound,56,42
+9:08,Columbia,Patrick Tape,Missed Layup,56,42
+9:08,Yale,Blake Reynolds,Block,56,42
+9:07,Columbia,Columbia,Offensive Rebound,56,42
+9:01,Columbia,Tai Bibbs,Missed Three Point Jumper,56,42
+9:01,Yale,Jalen Gabbidon,Defensive Rebound,56,42
+8:42,Yale,Alex Copeland,Missed Jumper,56,42
+8:42,Columbia,Quinton Adlesh,Defensive Rebound,56,42
+8:25,Yale,Alex Copeland,Foul,56,42
+8:23,Columbia,Maka Ellis,Turnover,56,42
+8:23,Yale,Jalen Gabbidon,Steal,56,42
+8:23,Columbia,Tai Bibbs,Foul,56,42
+8:08,Yale,Jordan Bruner,Turnover,56,42
+8:07,Columbia,Maka Ellis,Steal,56,42
+8:03,Columbia,Peter Barba,Missed Three Point Jumper,56,42
+8:03,Columbia,Tai Bibbs,Offensive Rebound,56,42
+7:55,Columbia,Tai Bibbs,Layup,56,44
+7:52,Columbia,Quinton Adlesh,Foul,56,44
+7:52,Columbia,None,None,56,44
+7:52,Yale,Alex Copeland,Missed Free Throw,56,44
+7:52,Yale,None,Team Rebound,56,44
+7:52,Yale,Alex Copeland,Free Throw,57,44
+7:31,Columbia,Maka Ellis,Three Point Jumper,57,47
+6:58,Yale,Alex Copeland,Jumper,59,47
+6:48,Yale,Trey Phills,Foul,59,47
+6:48,Columbia,Gabe Stefanini,Free Throw,59,48
+6:48,Columbia,Gabe Stefanini,Free Throw,59,49
+6:43,Yale,Miye Oni,Dunk,61,49
+6:19,Columbia,Quinton Adlesh,Jumper,61,51
+6:17,Columbia,None,None,61,51
+5:50,Yale,Miye Oni,Turnover,61,51
+5:48,Columbia,Maka Ellis,Steal,61,51
+5:39,Columbia,Quinton Adlesh,Three Point Jumper,61,54
+5:26,Yale,Trey Phills,Missed Free Throw,61,54
+5:26,Columbia,Peter Barba,Foul,61,54
+5:26,Yale,Trey Phills,Missed Free Throw,61,54
+5:26,Yale,None,Team Rebound,61,54
+5:26,Columbia,Gabe Stefanini,Defensive Rebound,61,54
+5:14,Columbia,Quinton Adlesh,Three Point Jumper,61,57
+5:01,Yale,Alex Copeland,Turnover,61,57
+4:44,Columbia,Patrick Tape,Missed Jumper,61,57
+4:44,Yale,Trey Phills,Defensive Rebound,61,57
+4:23,Columbia,Peter Barba,Foul,61,57
+4:23,Yale,Trey Phills,Missed Free Throw,61,57
+4:23,Columbia,Jake Killingsworth,Defensive Rebound,61,57
+4:13,Columbia,Quinton Adlesh,Three Point Jumper,61,60
+3:51,Yale,Miye Oni,Missed Jumper,61,60
+3:51,Yale,Trey Phills,Offensive Rebound,61,60
+3:47,Columbia,Gabe Stefanini,Foul,61,60
+3:46,Columbia,None,None,61,60
+3:46,Yale,Trey Phills,Free Throw,62,60
+3:46,Yale,Trey Phills,Missed Free Throw,62,60
+3:46,Columbia,Jake Killingsworth,Defensive Rebound,62,60
+3:35,Yale,Blake Reynolds,Foul,62,60
+3:33,Columbia,Quinton Adlesh,Missed Jumper,62,60
+3:33,Yale,Alex Copeland,Defensive Rebound,62,60
+3:16,Yale,Miye Oni,Turnover,62,60
+3:15,Columbia,Patrick Tape,Steal,62,60
+3:08,Columbia,Peter Barba,Missed Layup,62,60
+3:08,Yale,Blake Reynolds,Block,62,60
+3:06,Columbia,Patrick Tape,Offensive Rebound,62,60
+2:52,Yale,Alex Copeland,Foul,62,60
+2:52,Columbia,Gabe Stefanini,Free Throw,62,61
+2:52,Columbia,Gabe Stefanini,Free Throw,62,62
+2:41,Yale,Alex Copeland,Jumper,64,62
+2:08,Columbia,Jake Killingsworth,Missed Three Point Jumper,64,62
+2:08,Yale,Miye Oni,Block,64,62
+2:06,Yale,None,Team Rebound,64,62
+1:55,Yale,Miye Oni,Layup,66,62
+1:52,Yale,None,None,66,62
+1:42,Yale,Blake Reynolds,Foul,66,62
+1:42,Columbia,Gabe Stefanini,Free Throw,66,63
+1:42,Columbia,Gabe Stefanini,Free Throw,66,64
+1:17,Yale,Miye Oni,Missed Jumper,66,64
+1:17,Columbia,Quinton Adlesh,Defensive Rebound,66,64
+0:49,Columbia,Gabe Stefanini,Missed Layup,66,64
+0:49,Yale,Miye Oni,Block,66,64
+0:47,Yale,Alex Copeland,Defensive Rebound,66,64
+0:23,Yale,Alex Copeland,Jumper,68,64
+0:14,Columbia,None,None,68,64
+0:10,Columbia,Gabe Stefanini,Missed Three Point Jumper,68,64
+0:10,Yale,Trey Phills,Defensive Rebound,68,64
+0:06,Columbia,Peter Barba,Foul,68,64
+0:06,Yale,Trey Phills,Free Throw,69,64
+0:06,Yale,Trey Phills,Free Throw,70,64
+0:05,Yale,None,None,70,64
+0:00,Columbia,Gabe Stefanini,Missed Layup,70,64
+0:00,Yale,Blake Reynolds,Defensive Rebound,70,64
+0:00,Columbia,None,None,70,64

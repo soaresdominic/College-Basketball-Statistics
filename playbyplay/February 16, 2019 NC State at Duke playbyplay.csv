@@ -1,0 +1,357 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,NC State,None,None,0,0
+19:45,NC State,Torin Dorn,Missed Three Point Jumper,0,0
+19:45,Duke,Marques Bolden,Defensive Rebound,0,0
+19:17,NC State,Wyatt Walker,Foul,0,0
+19:17,Duke,Zion Williamson,Free Throw,0,1
+19:17,Duke,Zion Williamson,Free Throw,0,2
+19:04,NC State,Torin Dorn,Layup,2,2
+18:51,Duke,Marques Bolden,Dunk,2,4
+18:30,NC State,C.J. Bryce,Missed Jumper,2,4
+18:30,Duke,Cam Reddish,Defensive Rebound,2,4
+18:14,NC State,Braxton Beverly,Foul,2,4
+18:14,Duke,Zion Williamson,Free Throw,2,5
+18:14,Duke,Zion Williamson,Free Throw,2,6
+18:04,NC State,Wyatt Walker,Dunk,4,6
+17:48,Duke,RJ Barrett,Missed Three Point Jumper,4,6
+17:48,NC State,Wyatt Walker,Defensive Rebound,4,6
+17:39,NC State,Torin Dorn,Layup,6,6
+17:22,Duke,Zion Williamson,Missed Layup,6,6
+17:18,Duke,Zion Williamson,Offensive Rebound,6,6
+17:18,Duke,Zion Williamson,Missed Layup,6,6
+17:18,Duke,Cam Reddish,Offensive Rebound,6,6
+17:18,Duke,Cam Reddish,Missed Layup,6,6
+17:18,NC State,Wyatt Walker,Block,6,6
+17:18,Duke,Cam Reddish,Offensive Rebound,6,6
+17:18,NC State,Wyatt Walker,Foul,6,6
+17:18,Duke,Cam Reddish,Free Throw,6,7
+17:18,Duke,Cam Reddish,Free Throw,6,8
+17:07,NC State,DJ Funderburk,Missed Three Point Jumper,6,8
+17:07,NC State,NC State,Offensive Rebound,6,8
+16:52,NC State,DJ Funderburk,Missed Layup,6,8
+16:52,Duke,Zion Williamson,Defensive Rebound,6,8
+16:39,Duke,RJ Barrett,Missed Layup,6,8
+16:39,Duke,RJ Barrett,Offensive Rebound,6,8
+16:36,Duke,RJ Barrett,Layup,6,10
+16:15,NC State,Torin Dorn,Jumper,8,10
+16:06,Duke,Zion Williamson,Turnover,8,10
+16:06,NC State,Braxton Beverly,Steal,8,10
+15:53,NC State,Torin Dorn,Missed Jumper,8,10
+15:53,Duke,Javin DeLaurier,Block,8,10
+15:53,Duke,Javin DeLaurier,Defensive Rebound,8,10
+15:53,Duke,None,None,8,10
+15:53,Duke,None,None,8,10
+15:44,Duke,Zion Williamson,Turnover,8,10
+15:44,NC State,DJ Funderburk,Steal,8,10
+15:44,NC State,None,None,8,10
+15:33,NC State,DJ Funderburk,Turnover,8,10
+15:14,Duke,Cam Reddish,Three Point Jumper,8,13
+15:14,NC State,Devon Daniels,Foul,8,13
+15:14,Duke,Cam Reddish,Free Throw,8,14
+15:06,NC State,Jericole Hellems,Turnover,8,14
+14:56,Duke,RJ Barrett,Jumper,8,16
+14:42,Duke,Tre Jones,Foul,8,16
+14:38,NC State,Markell Johnson,Layup,10,16
+14:28,Duke,Zion Williamson,Dunk,10,18
+14:15,NC State,Markell Johnson,Missed Three Point Jumper,10,18
+14:15,Duke,RJ Barrett,Defensive Rebound,10,18
+14:04,Duke,Tre Jones,Three Point Jumper,10,21
+13:59,NC State,None,None,10,21
+13:49,NC State,Braxton Beverly,Missed Three Point Jumper,10,21
+13:49,Duke,Marques Bolden,Defensive Rebound,10,21
+13:33,NC State,DJ Funderburk,Foul,10,21
+13:31,Duke,Zion Williamson,Turnover,10,21
+13:31,NC State,Braxton Beverly,Steal,10,21
+13:11,NC State,C.J. Bryce,Missed Jumper,10,21
+13:11,NC State,DJ Funderburk,Offensive Rebound,10,21
+13:11,NC State,None,None,12,21
+12:54,Duke,Cam Reddish,Missed Layup,12,21
+12:54,NC State,Braxton Beverly,Defensive Rebound,12,21
+12:46,NC State,DJ Funderburk,Missed Layup,12,21
+12:46,Duke,RJ Barrett,Defensive Rebound,12,21
+12:36,Duke,Cam Reddish,Foul,12,21
+12:36,Duke,Cam Reddish,Turnover,12,21
+12:21,Duke,Marques Bolden,Foul,12,21
+12:21,NC State,Braxton Beverly,Missed Free Throw,12,21
+12:21,NC State,None,Team Rebound,12,21
+12:21,NC State,Braxton Beverly,Free Throw,13,21
+12:12,Duke,Jack White,Turnover,13,21
+12:12,NC State,Devon Daniels,Steal,13,21
+12:05,NC State,Devon Daniels,Missed Layup,13,21
+12:05,Duke,Marques Bolden,Defensive Rebound,13,21
+11:35,Duke,Tre Jones,Missed Jumper,13,21
+11:35,Duke,Zion Williamson,Offensive Rebound,13,21
+11:31,Duke,Zion Williamson,Dunk,13,23
+11:20,NC State,Devon Daniels,Jumper,15,23
+11:04,Duke,Zion Williamson,Layup,15,25
+10:44,NC State,C.J. Bryce,Jumper,17,25
+10:26,Duke,Zion Williamson,Missed Jumper,17,25
+10:26,NC State,Torin Dorn,Defensive Rebound,17,25
+10:14,NC State,Markell Johnson,Missed Layup,17,25
+10:14,Duke,Zion Williamson,Defensive Rebound,17,25
+9:45,Duke,Jordan Goldwire,Foul,17,25
+9:45,Duke,Jordan Goldwire,Turnover,17,25
+9:45,Duke,None,None,17,25
+9:26,NC State,Markell Johnson,Missed Layup,17,25
+9:26,Duke,Javin DeLaurier,Block,17,25
+9:26,Duke,Tre Jones,Defensive Rebound,17,25
+9:09,Duke,Tre Jones,Layup,17,27
+8:51,NC State,C.J. Bryce,Layup,19,27
+8:36,Duke,RJ Barrett,Missed Three Point Jumper,19,27
+8:36,NC State,C.J. Bryce,Defensive Rebound,19,27
+8:33,Duke,Zion Williamson,Foul,19,27
+8:17,NC State,C.J. Bryce,Missed Jumper,19,27
+8:17,Duke,Cam Reddish,Defensive Rebound,19,27
+8:06,Duke,RJ Barrett,Layup,19,29
+7:56,NC State,Jericole Hellems,Missed Jumper,19,29
+7:56,Duke,Javin DeLaurier,Defensive Rebound,19,29
+7:47,Duke,RJ Barrett,Missed Layup,19,29
+7:47,NC State,Markell Johnson,Defensive Rebound,19,29
+7:41,NC State,Jericole Hellems,Missed Three Point Jumper,19,29
+7:41,Duke,Javin DeLaurier,Defensive Rebound,19,29
+7:20,Duke,Cam Reddish,Missed Jumper,19,29
+7:20,NC State,NC State,Defensive Rebound,19,29
+7:15,Duke,None,None,19,29
+6:56,NC State,Devon Daniels,Missed Three Point Jumper,19,29
+6:56,Duke,Cam Reddish,Defensive Rebound,19,29
+6:44,Duke,Zion Williamson,Layup,19,31
+6:44,NC State,C.J. Bryce,Foul,19,31
+6:44,Duke,Zion Williamson,Free Throw,19,32
+6:31,NC State,DJ Funderburk,Jumper,21,32
+6:22,Duke,Cam Reddish,Turnover,21,32
+6:22,NC State,Devon Daniels,Steal,21,32
+6:13,NC State,Markell Johnson,Jumper,23,32
+5:53,NC State,DJ Funderburk,Foul,23,32
+5:53,Duke,RJ Barrett,Free Throw,23,33
+5:53,Duke,RJ Barrett,Free Throw,23,34
+5:40,NC State,Markell Johnson,Missed Three Point Jumper,23,34
+5:40,Duke,RJ Barrett,Defensive Rebound,23,34
+5:30,Duke,Cam Reddish,Missed Jumper,23,34
+5:30,Duke,Javin DeLaurier,Offensive Rebound,23,34
+5:24,NC State,Jericole Hellems,Foul,23,34
+5:24,Duke,Zion Williamson,Missed Free Throw,23,34
+5:24,Duke,None,Team Rebound,23,34
+5:24,Duke,Zion Williamson,Free Throw,23,35
+5:09,NC State,Devon Daniels,Missed Layup,23,35
+5:09,Duke,Javin DeLaurier,Defensive Rebound,23,35
+5:00,Duke,RJ Barrett,Missed Jumper,23,35
+5:00,NC State,Torin Dorn,Defensive Rebound,23,35
+4:55,NC State,Torin Dorn,Layup,25,35
+4:39,Duke,Zion Williamson,Layup,25,37
+4:20,NC State,Markell Johnson,Layup,27,37
+4:20,Duke,Javin DeLaurier,Foul,27,37
+4:20,NC State,Markell Johnson,Free Throw,28,37
+4:11,Duke,Cam Reddish,Missed Three Point Jumper,28,37
+4:11,Duke,Zion Williamson,Offensive Rebound,28,37
+4:11,Duke,None,None,28,39
+3:52,NC State,Markell Johnson,Missed Layup,28,39
+3:52,NC State,Markell Johnson,Offensive Rebound,28,39
+3:47,NC State,Markell Johnson,Turnover,28,39
+3:47,Duke,Zion Williamson,Steal,28,39
+3:47,NC State,Markell Johnson,Foul,28,39
+3:47,Duke,None,None,28,39
+3:47,Duke,Zion Williamson,Free Throw,28,40
+3:47,Duke,Zion Williamson,Missed Free Throw,28,40
+3:47,NC State,Torin Dorn,Defensive Rebound,28,40
+3:39,NC State,Torin Dorn,Missed Dunk,28,40
+3:39,Duke,Javin DeLaurier,Block,28,40
+3:39,Duke,RJ Barrett,Defensive Rebound,28,40
+3:31,Duke,Zion Williamson,Foul,28,40
+3:31,Duke,Zion Williamson,Turnover,28,40
+3:17,NC State,Torin Dorn,Turnover,28,40
+3:17,Duke,Tre Jones,Steal,28,40
+3:11,Duke,Tre Jones,Layup,28,42
+3:03,NC State,C.J. Bryce,Layup,30,42
+3:03,Duke,Alex O'Connell,Foul,30,42
+3:03,NC State,C.J. Bryce,Free Throw,31,42
+2:50,Duke,RJ Barrett,Jumper,31,44
+2:31,NC State,Torin Dorn,Missed Three Point Jumper,31,44
+2:31,Duke,Alex O'Connell,Defensive Rebound,31,44
+2:20,Duke,Cam Reddish,Missed Three Point Jumper,31,44
+2:20,Duke,Javin DeLaurier,Offensive Rebound,31,44
+2:15,Duke,Javin DeLaurier,Missed Layup,31,44
+2:15,NC State,Braxton Beverly,Defensive Rebound,31,44
+2:06,NC State,Torin Dorn,Layup,33,44
+1:56,Duke,RJ Barrett,Missed Jumper,33,44
+1:56,NC State,Torin Dorn,Defensive Rebound,33,44
+1:41,NC State,C.J. Bryce,Three Point Jumper,36,44
+1:39,Duke,None,None,36,44
+1:24,Duke,Tre Jones,Missed Three Point Jumper,36,44
+1:24,NC State,Jericole Hellems,Defensive Rebound,36,44
+1:16,NC State,Markell Johnson,Turnover,36,44
+1:05,Duke,RJ Barrett,Layup,36,46
+0:46,NC State,Jericole Hellems,Layup,38,46
+0:22,NC State,Markell Johnson,Foul,38,46
+0:22,Duke,RJ Barrett,Free Throw,38,47
+0:22,Duke,RJ Barrett,Free Throw,38,48
+0:04,NC State,Jericole Hellems,Layup,40,48
+0:00,Duke,None,None,40,48
+20:00,Duke,None,None,40,48
+19:50,Duke,Marques Bolden,Dunk,40,50
+19:35,NC State,Markell Johnson,Missed Layup,40,50
+19:35,Duke,Cam Reddish,Defensive Rebound,40,50
+19:27,Duke,Cam Reddish,Dunk,40,52
+19:13,NC State,Braxton Beverly,Turnover,40,52
+19:13,Duke,Zion Williamson,Steal,40,52
+19:01,Duke,Marques Bolden,Dunk,40,54
+18:45,NC State,None,None,40,54
+18:29,NC State,Torin Dorn,Layup,42,54
+18:14,Duke,Cam Reddish,Missed Three Point Jumper,42,54
+18:14,NC State,Braxton Beverly,Defensive Rebound,42,54
+18:05,NC State,Braxton Beverly,Three Point Jumper,45,54
+17:46,Duke,RJ Barrett,Missed Jumper,45,54
+17:46,Duke,RJ Barrett,Offensive Rebound,45,54
+17:43,Duke,RJ Barrett,Layup,45,56
+17:30,NC State,Wyatt Walker,Layup,47,56
+17:11,NC State,Markell Johnson,Foul,47,56
+17:11,Duke,Cam Reddish,Missed Free Throw,47,56
+17:11,Duke,None,Team Rebound,47,56
+17:11,Duke,Cam Reddish,Free Throw,47,57
+16:59,Duke,Zion Williamson,Foul,47,57
+16:55,NC State,Markell Johnson,Missed Three Point Jumper,47,57
+16:55,Duke,RJ Barrett,Defensive Rebound,47,57
+16:30,Duke,Tre Jones,Jumper,47,59
+16:18,NC State,C.J. Bryce,Three Point Jumper,50,59
+15:58,Duke,Zion Williamson,Missed Three Point Jumper,50,59
+15:58,NC State,C.J. Bryce,Defensive Rebound,50,59
+15:45,NC State,Torin Dorn,Dunk,52,59
+15:27,Duke,Javin DeLaurier,Turnover,52,59
+15:27,NC State,DJ Funderburk,Steal,52,59
+15:27,NC State,None,None,52,59
+15:27,Duke,None,None,52,59
+15:16,NC State,C.J. Bryce,Turnover,52,59
+15:16,Duke,Marques Bolden,Steal,52,59
+14:57,Duke,Zion Williamson,Layup,52,61
+14:57,NC State,Braxton Beverly,Foul,52,61
+14:57,Duke,Zion Williamson,Missed Free Throw,52,61
+14:57,NC State,Devon Daniels,Defensive Rebound,52,61
+14:49,NC State,Devon Daniels,Turnover,52,61
+14:49,Duke,Marques Bolden,Steal,52,61
+14:42,Duke,Cam Reddish,Missed Layup,52,61
+14:42,NC State,Devon Daniels,Block,52,61
+14:42,NC State,Devon Daniels,Defensive Rebound,52,61
+14:37,NC State,Devon Daniels,Missed Three Point Jumper,52,61
+14:37,NC State,None,Team Rebound,52,61
+14:35,Duke,Tre Jones,Foul,52,61
+14:26,NC State,C.J. Bryce,Turnover,52,61
+14:26,Duke,Marques Bolden,Steal,52,61
+13:58,Duke,RJ Barrett,Three Point Jumper,52,64
+13:36,NC State,Devon Daniels,Turnover,52,64
+13:36,Duke,Zion Williamson,Steal,52,64
+13:31,Duke,Cam Reddish,Missed Three Point Jumper,52,64
+13:31,Duke,Marques Bolden,Offensive Rebound,52,64
+13:25,NC State,DJ Funderburk,Foul,52,64
+13:24,Duke,Cam Reddish,Missed Three Point Jumper,52,64
+13:24,NC State,Devon Daniels,Defensive Rebound,52,64
+13:03,NC State,Jericole Hellems,Missed Layup,52,64
+13:03,Duke,Marques Bolden,Block,52,64
+13:03,Duke,RJ Barrett,Defensive Rebound,52,64
+12:55,Duke,Cam Reddish,Missed Layup,52,64
+12:55,NC State,NC State,Defensive Rebound,52,64
+12:37,Duke,Zion Williamson,Foul,52,64
+12:37,NC State,DJ Funderburk,Free Throw,53,64
+12:37,NC State,DJ Funderburk,Missed Free Throw,53,64
+12:37,Duke,Tre Jones,Defensive Rebound,53,64
+12:25,Duke,RJ Barrett,Missed Three Point Jumper,53,64
+12:25,NC State,Jericole Hellems,Defensive Rebound,53,64
+12:19,NC State,Markell Johnson,Missed Layup,53,64
+12:19,Duke,Jack White,Block,53,64
+12:19,Duke,RJ Barrett,Defensive Rebound,53,64
+12:11,Duke,Jack White,Missed Three Point Jumper,53,64
+12:11,NC State,C.J. Bryce,Defensive Rebound,53,64
+11:54,NC State,Markell Johnson,Layup,55,64
+11:27,NC State,DJ Funderburk,Foul,55,64
+11:27,Duke,None,None,55,64
+11:27,Duke,RJ Barrett,Free Throw,55,65
+11:27,Duke,RJ Barrett,Free Throw,55,66
+11:13,Duke,Marques Bolden,Foul,55,66
+11:04,NC State,C.J. Bryce,Missed Jumper,55,66
+11:04,Duke,Marques Bolden,Block,55,66
+11:04,NC State,C.J. Bryce,Offensive Rebound,55,66
+10:58,NC State,C.J. Bryce,Missed Layup,55,66
+10:58,Duke,Marques Bolden,Block,55,66
+10:58,NC State,C.J. Bryce,Offensive Rebound,55,66
+10:51,NC State,Torin Dorn,Missed Jumper,55,66
+10:51,Duke,RJ Barrett,Defensive Rebound,55,66
+10:32,NC State,Wyatt Walker,Foul,55,66
+10:32,Duke,Marques Bolden,Missed Free Throw,55,66
+10:32,Duke,None,Team Rebound,55,66
+10:32,Duke,Marques Bolden,Free Throw,55,67
+10:11,NC State,Torin Dorn,Three Point Jumper,58,67
+9:51,Duke,Jack White,Dunk,58,69
+9:25,NC State,Markell Johnson,Three Point Jumper,61,69
+9:01,Duke,Tre Jones,Missed Three Point Jumper,61,69
+9:01,Duke,Marques Bolden,Offensive Rebound,61,69
+8:53,Duke,None,None,61,69
+8:47,Duke,Tre Jones,Turnover,61,69
+8:47,NC State,Markell Johnson,Steal,61,69
+8:42,Duke,RJ Barrett,Foul,61,69
+8:42,NC State,Devon Daniels,Missed Free Throw,61,69
+8:42,NC State,None,Team Rebound,61,69
+8:42,NC State,Devon Daniels,Missed Free Throw,61,69
+8:42,Duke,Marques Bolden,Defensive Rebound,61,69
+8:21,Duke,Cam Reddish,Missed Three Point Jumper,61,69
+8:21,Duke,Jack White,Offensive Rebound,61,69
+8:18,Duke,Jack White,Layup,61,71
+7:54,NC State,Markell Johnson,Missed Jumper,61,71
+7:54,Duke,Marques Bolden,Defensive Rebound,61,71
+7:48,Duke,Marques Bolden,Turnover,61,71
+7:48,NC State,Torin Dorn,Steal,61,71
+7:44,NC State,None,None,61,71
+7:44,Duke,None,None,61,71
+7:42,NC State,DJ Funderburk,Turnover,61,71
+7:42,Duke,Marques Bolden,Steal,61,71
+7:37,Duke,Jack White,Dunk,61,73
+7:10,NC State,Braxton Beverly,Layup,63,73
+6:52,Duke,Cam Reddish,Missed Layup,63,73
+6:52,NC State,Devon Daniels,Defensive Rebound,63,73
+6:44,NC State,Devon Daniels,Layup,65,73
+6:17,Duke,Marques Bolden,Foul,65,73
+6:17,Duke,Marques Bolden,Turnover,65,73
+6:17,Duke,None,None,65,73
+6:08,NC State,Braxton Beverly,Missed Three Point Jumper,65,73
+6:08,Duke,Duke,Defensive Rebound,65,73
+5:49,Duke,Zion Williamson,Layup,65,75
+5:31,NC State,Braxton Beverly,Missed Three Point Jumper,65,75
+5:31,Duke,RJ Barrett,Defensive Rebound,65,75
+5:05,Duke,Tre Jones,Jumper,65,77
+4:42,NC State,DJ Funderburk,Dunk,67,77
+4:19,NC State,Devon Daniels,Foul,67,77
+4:00,NC State,DJ Funderburk,Foul,67,77
+4:00,Duke,None,None,67,77
+4:00,Duke,Zion Williamson,Free Throw,67,78
+4:00,Duke,Zion Williamson,Missed Free Throw,67,78
+4:00,Duke,Marques Bolden,Offensive Rebound,67,78
+3:59,NC State,Jericole Hellems,Foul,67,78
+3:59,Duke,Marques Bolden,Free Throw,67,79
+3:59,Duke,Marques Bolden,Free Throw,67,80
+3:47,NC State,Braxton Beverly,Layup,69,80
+3:40,Duke,Zion Williamson,Dunk,69,82
+3:20,Duke,Marques Bolden,Foul,69,82
+3:20,NC State,Markell Johnson,Free Throw,70,82
+3:20,NC State,Markell Johnson,Free Throw,71,82
+2:59,Duke,Zion Williamson,Layup,71,84
+2:37,NC State,Jericole Hellems,Layup,73,84
+2:37,Duke,Tre Jones,Foul,73,84
+2:37,NC State,Jericole Hellems,Missed Free Throw,73,84
+2:37,Duke,Zion Williamson,Defensive Rebound,73,84
+2:18,Duke,RJ Barrett,Dunk,73,86
+2:04,NC State,Jericole Hellems,Missed Three Point Jumper,73,86
+2:04,Duke,Cam Reddish,Defensive Rebound,73,86
+1:43,Duke,Zion Williamson,Layup,73,88
+1:27,NC State,Jericole Hellems,Three Point Jumper,76,88
+1:24,NC State,None,None,76,88
+0:55,Duke,Zion Williamson,Layup,76,90
+0:55,NC State,Markell Johnson,Foul,76,90
+0:55,Duke,Zion Williamson,Missed Free Throw,76,90
+0:55,NC State,Jericole Hellems,Defensive Rebound,76,90
+0:42,NC State,Markell Johnson,Layup,78,90
+0:40,NC State,None,None,78,90
+0:17,Duke,RJ Barrett,Missed Layup,78,90
+0:17,NC State,Jericole Hellems,Block,78,90
+0:17,Duke,Tre Jones,Offensive Rebound,78,90
+0:14,Duke,Tre Jones,Layup,78,92
+0:06,NC State,Markell Johnson,Turnover,78,92
+0:06,Duke,Tre Jones,Steal,78,92
+0:03,Duke,Jordan Goldwire,Layup,78,94
+0:00,Duke,None,None,78,94

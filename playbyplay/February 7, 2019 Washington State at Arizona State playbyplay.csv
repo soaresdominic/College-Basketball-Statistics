@@ -1,0 +1,428 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:50,Arizona State,Rob Edwards,Missed Jumper,0,0
+19:50,Washington State,Robert Franks,Block,0,0
+19:48,Washington State,Robert Franks,Defensive Rebound,0,0
+19:44,Washington State,Marvin Cannon,Missed Jumper,0,0
+19:44,Arizona State,Zylan Cheatham,Defensive Rebound,0,0
+19:35,Arizona State,Zylan Cheatham,Jumper,0,2
+19:02,Washington State,Jeff Pollard,Missed Layup,0,2
+19:02,Arizona State,Romello White,Defensive Rebound,0,2
+18:47,Arizona State,Zylan Cheatham,Missed Three Point Jumper,0,2
+18:47,Washington State,Jeff Pollard,Defensive Rebound,0,2
+18:22,Washington State,Robert Franks,Missed Jumper,0,2
+18:22,Arizona State,Luguentz Dort,Block,0,2
+18:19,Arizona State,Zylan Cheatham,Defensive Rebound,0,2
+18:15,Arizona State,Remy Martin,Jumper,0,4
+17:49,Arizona State,Romello White,Foul,0,4
+17:49,Washington State,Jeff Pollard,Missed Free Throw,0,4
+17:49,Washington State,None,Team Rebound,0,4
+17:49,Washington State,Jeff Pollard,Free Throw,1,4
+17:30,Arizona State,Luguentz Dort,Missed Three Point Jumper,1,4
+17:30,Washington State,Ahmed Ali,Defensive Rebound,1,4
+17:22,Arizona State,Remy Martin,Foul,1,4
+17:22,Washington State,Marvin Cannon,Free Throw,2,4
+17:22,Washington State,Marvin Cannon,Free Throw,3,4
+17:07,Washington State,Jeff Pollard,Foul,3,4
+17:07,Arizona State,Zylan Cheatham,Missed Free Throw,3,4
+17:07,Arizona State,None,Team Rebound,3,4
+17:07,Arizona State,Zylan Cheatham,Missed Free Throw,3,4
+17:07,Washington State,Robert Franks,Defensive Rebound,3,4
+16:53,Washington State,Robert Franks,Layup,5,4
+16:37,Arizona State,Remy Martin,Jumper,5,6
+16:13,Washington State,CJ Elleby,Three Point Jumper,8,6
+15:53,Washington State,Ahmed Ali,Foul,8,6
+15:53,Arizona State,None,None,8,6
+15:48,Washington State,Robert Franks,Foul,8,6
+15:48,Arizona State,Luguentz Dort,Free Throw,8,7
+15:48,Arizona State,Luguentz Dort,Missed Free Throw,8,7
+15:48,Washington State,CJ Elleby,Defensive Rebound,8,7
+15:36,Washington State,Jeff Pollard,Layup,10,7
+15:24,Arizona State,Luguentz Dort,Dunk,10,9
+15:13,Washington State,Marvin Cannon,Missed Three Point Jumper,10,9
+15:13,Arizona State,Luguentz Dort,Defensive Rebound,10,9
+15:06,Arizona State,Rob Edwards,Missed Three Point Jumper,10,9
+15:06,Arizona State,Rob Edwards,Offensive Rebound,10,9
+14:34,Arizona State,Remy Martin,Missed Three Point Jumper,10,9
+14:34,Washington State,Aljaz Kunc,Defensive Rebound,10,9
+14:23,Washington State,Ahmed Ali,Three Point Jumper,13,9
+14:06,Arizona State,Luguentz Dort,Jumper,13,11
+13:53,Washington State,CJ Elleby,Missed Jumper,13,11
+13:53,Arizona State,Zylan Cheatham,Defensive Rebound,13,11
+13:47,Arizona State,Luguentz Dort,Missed Three Point Jumper,13,11
+13:47,Washington State,Robert Franks,Defensive Rebound,13,11
+13:29,Washington State,Ahmed Ali,Missed Three Point Jumper,13,11
+13:29,Washington State,Robert Franks,Offensive Rebound,13,11
+13:24,Washington State,Aljaz Kunc,Three Point Jumper,16,11
+13:01,Arizona State,Luguentz Dort,Turnover,16,11
+12:59,Washington State,Ahmed Ali,Steal,16,11
+12:54,Washington State,Robert Franks,Missed Layup,16,11
+12:54,Washington State,Robert Franks,Offensive Rebound,16,11
+12:53,Washington State,Robert Franks,Layup,18,11
+12:53,Arizona State,Luguentz Dort,Foul,18,11
+12:53,Washington State,Robert Franks,Free Throw,19,11
+12:40,Washington State,Aljaz Kunc,Foul,19,11
+12:40,Arizona State,Romello White,Free Throw,19,12
+12:40,Arizona State,Romello White,Missed Free Throw,19,12
+12:40,Arizona State,Kimani Lawrence,Offensive Rebound,19,12
+12:38,Arizona State,Kimani Lawrence,Missed Layup,19,12
+12:38,Washington State,Robert Franks,Block,19,12
+12:37,Arizona State,Zylan Cheatham,Offensive Rebound,19,12
+12:19,Arizona State,Romello White,Layup,19,14
+11:56,Washington State,Aljaz Kunc,Missed Three Point Jumper,19,14
+11:56,Arizona State,Remy Martin,Defensive Rebound,19,14
+11:49,Washington State,Aljaz Kunc,Foul,19,14
+11:49,Arizona State,None,None,19,14
+11:49,Arizona State,Romello White,Missed Free Throw,19,14
+11:49,Arizona State,None,Team Rebound,19,14
+11:49,Arizona State,Romello White,Missed Free Throw,19,14
+11:49,Washington State,CJ Elleby,Defensive Rebound,19,14
+11:39,Washington State,Marvin Cannon,Missed Jumper,19,14
+11:39,Washington State,CJ Elleby,Offensive Rebound,19,14
+11:34,Washington State,Jervae Robinson,Missed Three Point Jumper,19,14
+11:34,Arizona State,Remy Martin,Defensive Rebound,19,14
+11:20,Washington State,Viont'e Daniels,Foul,19,14
+11:17,Arizona State,Rob Edwards,Missed Layup,19,14
+11:17,Arizona State,De'Quon Lake,Offensive Rebound,19,14
+11:14,Arizona State,De'Quon Lake,Turnover,19,14
+11:13,Washington State,Marvin Cannon,Steal,19,14
+11:06,Arizona State,Kimani Lawrence,Foul,19,14
+11:06,Washington State,Robert Franks,Free Throw,20,14
+11:06,Washington State,Robert Franks,Free Throw,21,14
+10:50,Arizona State,Remy Martin,Missed Jumper,21,14
+10:50,Washington State,Isaiah Wade,Defensive Rebound,21,14
+10:39,Washington State,CJ Elleby,Missed Layup,21,14
+10:39,Arizona State,De'Quon Lake,Block,21,14
+10:38,Arizona State,De'Quon Lake,Defensive Rebound,21,14
+10:32,Arizona State,Rob Edwards,Missed Jumper,21,14
+10:32,Washington State,CJ Elleby,Defensive Rebound,21,14
+10:26,Washington State,Robert Franks,Three Point Jumper,24,14
+10:13,Arizona State,Rob Edwards,Turnover,24,14
+10:11,Washington State,Robert Franks,Steal,24,14
+10:11,Washington State,CJ Elleby,Foul,24,14
+10:11,Washington State,CJ Elleby,Turnover,24,14
+9:59,Arizona State,Remy Martin,Missed Layup,24,14
+9:59,Washington State,CJ Elleby,Defensive Rebound,24,14
+9:50,Arizona State,De'Quon Lake,Foul,24,14
+9:50,Washington State,Jervae Robinson,Missed Free Throw,24,14
+9:50,Washington State,None,Team Rebound,24,14
+9:50,Washington State,Jervae Robinson,Free Throw,25,14
+9:30,Arizona State,Kimani Lawrence,Layup,25,16
+9:17,Washington State,Isaiah Wade,Missed Jumper,25,16
+9:17,Arizona State,Zylan Cheatham,Defensive Rebound,25,16
+9:12,Washington State,Jervae Robinson,Foul,25,16
+9:12,Arizona State,Luguentz Dort,Free Throw,25,17
+9:12,Arizona State,Luguentz Dort,Missed Free Throw,25,17
+9:12,Washington State,Robert Franks,Defensive Rebound,25,17
+9:06,Washington State,Marvin Cannon,Dunk,27,17
+8:48,Arizona State,Rob Edwards,Missed Three Point Jumper,27,17
+8:48,Washington State,Isaiah Wade,Defensive Rebound,27,17
+8:28,Washington State,Marvin Cannon,Missed Three Point Jumper,27,17
+8:28,Washington State,Isaiah Wade,Offensive Rebound,27,17
+8:27,Washington State,Isaiah Wade,Turnover,27,17
+8:26,Arizona State,Luguentz Dort,Steal,27,17
+8:18,Washington State,Marvin Cannon,Foul,27,17
+8:18,Arizona State,Luguentz Dort,Free Throw,27,18
+8:18,Arizona State,Luguentz Dort,Missed Free Throw,27,18
+8:18,Arizona State,Kimani Lawrence,Offensive Rebound,27,18
+8:16,Arizona State,Kimani Lawrence,Layup,27,20
+7:55,Washington State,CJ Elleby,Three Point Jumper,30,20
+7:35,Washington State,Viont'e Daniels,Foul,30,20
+7:35,Arizona State,None,None,30,20
+7:35,Arizona State,Romello White,Missed Free Throw,30,20
+7:35,Arizona State,None,Team Rebound,30,20
+7:35,Arizona State,Romello White,Free Throw,30,21
+7:21,Washington State,Robert Franks,Three Point Jumper,33,21
+7:03,Washington State,CJ Elleby,Foul,33,21
+7:03,Arizona State,Zylan Cheatham,Free Throw,33,22
+7:03,Arizona State,Zylan Cheatham,Free Throw,33,23
+6:49,Washington State,Robert Franks,Turnover,33,23
+6:25,Arizona State,Zylan Cheatham,Layup,33,25
+6:16,Washington State,CJ Elleby,Three Point Jumper,36,25
+6:04,Arizona State,Remy Martin,Turnover,36,25
+5:49,Washington State,CJ Elleby,Missed Three Point Jumper,36,25
+5:49,Arizona State,Remy Martin,Defensive Rebound,36,25
+5:41,Arizona State,Luguentz Dort,Layup,36,27
+5:41,Washington State,Viont'e Daniels,Foul,36,27
+5:41,Arizona State,Luguentz Dort,Free Throw,36,28
+5:27,Washington State,Marvin Cannon,Missed Layup,36,28
+5:27,Washington State,Ahmed Ali,Offensive Rebound,36,28
+5:18,Washington State,Robert Franks,Three Point Jumper,39,28
+4:55,Arizona State,Romello White,Turnover,39,28
+4:42,Washington State,Robert Franks,Jumper,41,28
+4:17,Arizona State,Kimani Lawrence,Missed Three Point Jumper,41,28
+4:17,Arizona State,Luguentz Dort,Offensive Rebound,41,28
+4:12,Washington State,Jeff Pollard,Foul,41,28
+4:12,Arizona State,Luguentz Dort,Free Throw,41,29
+4:12,Arizona State,Luguentz Dort,Free Throw,41,30
+4:01,Washington State,Robert Franks,Three Point Jumper,44,30
+3:47,Arizona State,Romello White,Missed Layup,44,30
+3:47,Washington State,Ahmed Ali,Defensive Rebound,44,30
+3:19,Washington State,Isaiah Wade,Layup,46,30
+3:03,Arizona State,Luguentz Dort,Missed Layup,46,30
+3:03,Washington State,Marvin Cannon,Defensive Rebound,46,30
+2:56,Washington State,CJ Elleby,Missed Three Point Jumper,46,30
+2:56,Arizona State,Kimani Lawrence,Defensive Rebound,46,30
+2:55,Washington State,Isaiah Wade,Foul,46,30
+2:55,Arizona State,None,None,46,30
+2:55,Arizona State,Rob Edwards,Free Throw,46,31
+2:55,Arizona State,Rob Edwards,Free Throw,46,32
+2:50,Arizona State,Remy Martin,Foul,46,32
+2:29,Washington State,Robert Franks,Missed Three Point Jumper,46,32
+2:29,Arizona State,Arizona State,Defensive Rebound,46,32
+2:17,Arizona State,Luguentz Dort,Turnover,46,32
+2:15,Washington State,Isaiah Wade,Steal,46,32
+2:08,Washington State,Robert Franks,Layup,48,32
+1:46,Arizona State,Luguentz Dort,Turnover,48,32
+1:45,Washington State,CJ Elleby,Steal,48,32
+1:34,Washington State,Isaiah Wade,Missed Layup,48,32
+1:34,Arizona State,Zylan Cheatham,Defensive Rebound,48,32
+1:06,Arizona State,Rob Edwards,Missed Layup,48,32
+1:06,Washington State,Robert Franks,Block,48,32
+1:04,Washington State,Robert Franks,Defensive Rebound,48,32
+1:00,Arizona State,Zylan Cheatham,Foul,48,32
+1:00,Washington State,Marvin Cannon,Free Throw,49,32
+1:00,Washington State,Marvin Cannon,Free Throw,50,32
+0:47,Washington State,Isaiah Wade,Foul,50,32
+0:47,Arizona State,Luguentz Dort,Free Throw,50,33
+0:47,Washington State,None,None,50,33
+0:47,Arizona State,Luguentz Dort,Missed Free Throw,50,33
+0:47,Arizona State,Zylan Cheatham,Offensive Rebound,50,33
+0:45,Arizona State,Zylan Cheatham,Turnover,50,33
+0:44,Washington State,Isaiah Wade,Steal,50,33
+0:19,Washington State,Ahmed Ali,Turnover,50,33
+0:18,Arizona State,Luguentz Dort,Steal,50,33
+0:10,Arizona State,None,None,50,33
+0:05,Arizona State,Rob Edwards,Missed Three Point Jumper,50,33
+0:05,Washington State,Robert Franks,Defensive Rebound,50,33
+0:00,Arizona State,None,None,50,33
+19:56,Arizona State,Remy Martin,Foul,50,33
+19:38,Washington State,Jeff Pollard,Missed Layup,50,33
+19:38,Arizona State,Zylan Cheatham,Defensive Rebound,50,33
+19:28,Arizona State,Rob Edwards,Missed Three Point Jumper,50,33
+19:28,Washington State,Robert Franks,Defensive Rebound,50,33
+19:16,Washington State,Marvin Cannon,Turnover,50,33
+19:13,Arizona State,Romello White,Steal,50,33
+19:08,Arizona State,Remy Martin,Turnover,50,33
+19:05,Washington State,Robert Franks,Steal,50,33
+19:03,Washington State,Robert Franks,Turnover,50,33
+19:01,Arizona State,Romello White,Steal,50,33
+18:43,Arizona State,Rob Edwards,Missed Three Point Jumper,50,33
+18:43,Washington State,Marvin Cannon,Defensive Rebound,50,33
+18:34,Washington State,Robert Franks,Missed Three Point Jumper,50,33
+18:34,Arizona State,Remy Martin,Defensive Rebound,50,33
+18:25,Washington State,Ahmed Ali,Foul,50,33
+18:06,Arizona State,Luguentz Dort,Missed Three Point Jumper,50,33
+18:06,Washington State,Washington State,Defensive Rebound,50,33
+17:52,Washington State,Ahmed Ali,Turnover,50,33
+17:50,Arizona State,Luguentz Dort,Steal,50,33
+17:42,Washington State,Ahmed Ali,Foul,50,33
+17:36,Arizona State,Kimani Lawrence,Jumper,50,35
+17:14,Washington State,CJ Elleby,Turnover,50,35
+17:13,Arizona State,Zylan Cheatham,Steal,50,35
+17:10,Arizona State,Zylan Cheatham,Layup,50,37
+17:01,Washington State,None,None,50,37
+16:41,Arizona State,Kimani Lawrence,Foul,50,37
+16:39,Washington State,Robert Franks,Layup,52,37
+16:15,Arizona State,Kimani Lawrence,Missed Jumper,52,37
+16:15,Washington State,Marvin Cannon,Defensive Rebound,52,37
+16:14,Arizona State,Kimani Lawrence,Foul,52,37
+15:56,Washington State,Ahmed Ali,Missed Three Point Jumper,52,37
+15:56,Arizona State,Zylan Cheatham,Defensive Rebound,52,37
+15:48,Arizona State,Zylan Cheatham,Turnover,52,37
+15:45,Washington State,Robert Franks,Steal,52,37
+15:43,Washington State,Marvin Cannon,Dunk,54,37
+15:27,Arizona State,Remy Martin,Missed Three Point Jumper,54,37
+15:27,Washington State,Robert Franks,Defensive Rebound,54,37
+15:24,Washington State,Ahmed Ali,Missed Three Point Jumper,54,37
+15:24,Arizona State,Zylan Cheatham,Defensive Rebound,54,37
+15:10,Arizona State,Rob Edwards,Layup,54,39
+14:54,Washington State,Jeff Pollard,Layup,56,39
+14:36,Arizona State,Zylan Cheatham,Missed Jumper,56,39
+14:36,Washington State,Jeff Pollard,Defensive Rebound,56,39
+14:22,Washington State,CJ Elleby,Turnover,56,39
+14:20,Arizona State,Remy Martin,Steal,56,39
+14:20,Washington State,Marvin Cannon,Foul,56,39
+14:20,Arizona State,None,None,56,39
+14:10,Arizona State,Rob Edwards,Missed Jumper,56,39
+14:10,Washington State,Isaiah Wade,Defensive Rebound,56,39
+13:49,Washington State,Isaiah Wade,Missed Jumper,56,39
+13:49,Arizona State,Zylan Cheatham,Defensive Rebound,56,39
+13:33,Arizona State,Luguentz Dort,Foul,56,39
+13:33,Arizona State,Luguentz Dort,Turnover,56,39
+13:11,Washington State,Robert Franks,Three Point Jumper,59,39
+13:00,Washington State,Robert Franks,Foul,59,39
+12:54,Arizona State,Elias Valtonen,Missed Three Point Jumper,59,39
+12:54,Washington State,Isaiah Wade,Defensive Rebound,59,39
+12:51,Arizona State,Romello White,Foul,59,39
+12:38,Washington State,CJ Elleby,Missed Jumper,59,39
+12:38,Arizona State,Zylan Cheatham,Defensive Rebound,59,39
+12:34,Arizona State,Zylan Cheatham,Turnover,59,39
+12:29,Washington State,CJ Elleby,Missed Three Point Jumper,59,39
+12:29,Washington State,Isaiah Wade,Offensive Rebound,59,39
+12:14,Washington State,Viont'e Daniels,Three Point Jumper,62,39
+11:55,Washington State,Isaiah Wade,Foul,62,39
+11:55,Arizona State,None,None,62,39
+11:55,Arizona State,Luguentz Dort,Free Throw,62,40
+11:55,Arizona State,Vitaliy Shibel,Turnover,62,40
+11:49,Arizona State,Vitaliy Shibel,Foul,62,40
+11:44,Washington State,Viont'e Daniels,Missed Three Point Jumper,62,40
+11:44,Washington State,Jeff Pollard,Offensive Rebound,62,40
+11:40,Washington State,Jeff Pollard,Missed Layup,62,40
+11:40,Arizona State,Rob Edwards,Defensive Rebound,62,40
+11:23,Arizona State,Remy Martin,Missed Three Point Jumper,62,40
+11:23,Washington State,Robert Franks,Defensive Rebound,62,40
+11:09,Washington State,Robert Franks,Missed Three Point Jumper,62,40
+11:09,Washington State,Viont'e Daniels,Offensive Rebound,62,40
+11:01,Washington State,Viont'e Daniels,Turnover,62,40
+11:01,Arizona State,Kimani Lawrence,Steal,62,40
+10:59,Arizona State,Luguentz Dort,Missed Three Point Jumper,62,40
+10:59,Arizona State,Kimani Lawrence,Offensive Rebound,62,40
+10:54,Arizona State,Kimani Lawrence,Missed Layup,62,40
+10:54,Washington State,Robert Franks,Block,62,40
+10:53,Arizona State,Arizona State,Offensive Rebound,62,40
+10:47,Arizona State,Arizona State,Foul,62,40
+10:47,Arizona State,Arizona State,Foul,62,40
+10:47,Washington State,Marvin Cannon,Free Throw,63,40
+10:47,Washington State,Marvin Cannon,Free Throw,64,40
+10:39,Arizona State,Kimani Lawrence,Missed Three Point Jumper,64,40
+10:39,Washington State,Robert Franks,Defensive Rebound,64,40
+10:25,Washington State,Washington State ,Turnover,64,40
+10:13,Arizona State,Zylan Cheatham,Missed Layup,64,40
+10:13,Washington State,Aljaz Kunc,Defensive Rebound,64,40
+10:12,Arizona State,Kimani Lawrence,Foul,64,40
+10:12,Washington State,Aljaz Kunc,Free Throw,65,40
+10:12,Washington State,Aljaz Kunc,Missed Free Throw,65,40
+10:12,Arizona State,Zylan Cheatham,Defensive Rebound,65,40
+10:03,Arizona State,Rob Edwards,Missed Three Point Jumper,65,40
+10:03,Washington State,Aljaz Kunc,Defensive Rebound,65,40
+9:52,Washington State,Jervae Robinson,Missed Three Point Jumper,65,40
+9:52,Arizona State,Rob Edwards,Defensive Rebound,65,40
+9:40,Arizona State,Luguentz Dort,Three Point Jumper,65,43
+9:09,Washington State,Marvin Cannon,Missed Jumper,65,43
+9:09,Washington State,Jervae Robinson,Offensive Rebound,65,43
+9:05,Washington State,Jervae Robinson,Layup,67,43
+8:51,Arizona State,Rob Edwards,Missed Jumper,67,43
+8:51,Washington State,Aljaz Kunc,Block,67,43
+8:50,Arizona State,Rob Edwards,Offensive Rebound,67,43
+8:47,Arizona State,Luguentz Dort,Turnover,67,43
+8:44,Washington State,Aljaz Kunc,Steal,67,43
+8:35,Arizona State,Elias Valtonen,Foul,67,43
+8:35,Washington State,Jervae Robinson,Free Throw,68,43
+8:35,Washington State,Jervae Robinson,Free Throw,69,43
+8:17,Arizona State,Kimani Lawrence,Missed Three Point Jumper,69,43
+8:17,Arizona State,Zylan Cheatham,Offensive Rebound,69,43
+8:07,Arizona State,Kimani Lawrence,Missed Layup,69,43
+8:07,Washington State,CJ Elleby,Defensive Rebound,69,43
+7:45,Washington State,Robert Franks,Turnover,69,43
+7:44,Arizona State,Zylan Cheatham,Steal,69,43
+7:41,Arizona State,Remy Martin,Three Point Jumper,69,46
+7:38,Arizona State,None,None,69,46
+7:38,Arizona State,None,None,69,46
+7:35,Washington State,Robert Franks,Turnover,69,46
+7:33,Arizona State,Rob Edwards,Steal,69,46
+7:32,Arizona State,Rob Edwards,Turnover,69,46
+7:30,Washington State,Robert Franks,Steal,69,46
+7:29,Washington State,CJ Elleby,Turnover,69,46
+7:28,Arizona State,Remy Martin,Steal,69,46
+7:26,Arizona State,Remy Martin,Missed Three Point Jumper,69,46
+7:26,Arizona State,Kimani Lawrence,Offensive Rebound,69,46
+7:21,Arizona State,Kimani Lawrence,Layup,69,48
+7:00,Washington State,CJ Elleby,Missed Jumper,69,48
+7:00,Arizona State,Kimani Lawrence,Defensive Rebound,69,48
+6:49,Washington State,Aljaz Kunc,Foul,69,48
+6:49,Arizona State,Kimani Lawrence,Missed Free Throw,69,48
+6:49,Arizona State,None,Team Rebound,69,48
+6:49,Arizona State,Kimani Lawrence,Missed Free Throw,69,48
+6:49,Washington State,Jeff Pollard,Defensive Rebound,69,48
+6:37,Washington State,Robert Franks,Layup,71,48
+6:27,Arizona State,Luguentz Dort,Three Point Jumper,71,51
+5:59,Arizona State,De'Quon Lake,Foul,71,51
+5:59,Washington State,Jervae Robinson,Free Throw,72,51
+5:59,Washington State,Jervae Robinson,Free Throw,73,51
+5:43,Arizona State,De'Quon Lake,Dunk,73,53
+5:35,Washington State,Viont'e Daniels,Turnover,73,53
+5:33,Arizona State,Luguentz Dort,Steal,73,53
+5:30,Arizona State,Remy Martin,Missed Three Point Jumper,73,53
+5:30,Washington State,Robert Franks,Defensive Rebound,73,53
+5:28,Arizona State,Rob Edwards,Foul,73,53
+5:28,Washington State,Robert Franks,Free Throw,74,53
+5:28,Washington State,Robert Franks,Free Throw,75,53
+5:22,Arizona State,Rob Edwards,Turnover,75,53
+5:02,Washington State,Viont'e Daniels,Missed Three Point Jumper,75,53
+5:02,Arizona State,Luguentz Dort,Defensive Rebound,75,53
+4:50,Washington State,Isaiah Wade,Missed Three Point Jumper,75,53
+4:41,Arizona State,Zylan Cheatham,Defensive Rebound,75,53
+4:37,Washington State,Viont'e Daniels,Foul,75,53
+4:37,Arizona State,Remy Martin,Free Throw,75,54
+4:37,Arizona State,Remy Martin,Free Throw,75,55
+4:31,Washington State,Jervae Robinson,Turnover,75,55
+4:31,Arizona State,Rob Edwards,Steal,75,55
+4:31,Arizona State,Rob Edwards,Layup,75,57
+4:31,Washington State,None,None,75,57
+4:28,Washington State,Jervae Robinson,Turnover,75,57
+4:27,Arizona State,Remy Martin,Missed Three Point Jumper,75,57
+4:27,Washington State,CJ Elleby,Defensive Rebound,75,57
+4:14,Washington State,Aljaz Kunc,Layup,77,57
+4:02,Arizona State,Kimani Lawrence,Missed Three Point Jumper,77,57
+4:02,Washington State,Aljaz Kunc,Defensive Rebound,77,57
+3:55,Washington State,Viont'e Daniels,Three Point Jumper,80,57
+3:41,Arizona State,Luguentz Dort,Missed Three Point Jumper,80,57
+3:41,Washington State,Ahmed Ali,Defensive Rebound,80,57
+3:32,Arizona State,Luguentz Dort,Foul,80,57
+3:32,Washington State,Ahmed Ali,Free Throw,81,57
+3:32,Washington State,Ahmed Ali,Free Throw,82,57
+3:29,Arizona State,Remy Martin,Missed Three Point Jumper,82,57
+3:29,Arizona State,Luguentz Dort,Offensive Rebound,82,57
+3:23,Arizona State,Remy Martin,Missed Three Point Jumper,82,57
+3:23,Arizona State,Zylan Cheatham,Offensive Rebound,82,57
+3:17,Arizona State,Luguentz Dort,Dunk,82,59
+3:10,Arizona State,None,None,82,59
+2:52,Arizona State,Luguentz Dort,Foul,82,59
+2:52,Washington State,Ahmed Ali,Free Throw,83,59
+2:52,Washington State,Ahmed Ali,Free Throw,84,59
+2:40,Arizona State,Elias Valtonen,Three Point Jumper,84,62
+2:36,Arizona State,Elias Valtonen,Foul,84,62
+2:36,Washington State,Viont'e Daniels,Missed Free Throw,84,62
+2:36,Washington State,None,Team Rebound,84,62
+2:36,Washington State,Viont'e Daniels,Free Throw,85,62
+2:29,Arizona State,Elias Valtonen,Three Point Jumper,85,65
+2:24,Washington State,Ahmed Ali,Turnover,85,65
+2:23,Arizona State,Elias Valtonen,Steal,85,65
+2:22,Arizona State,Elias Valtonen,Turnover,85,65
+2:21,Washington State,CJ Elleby,Steal,85,65
+2:09,Arizona State,Rob Edwards,Foul,85,65
+2:09,Washington State,CJ Elleby,Missed Free Throw,85,65
+2:09,Washington State,None,Team Rebound,85,65
+2:09,Washington State,CJ Elleby,Free Throw,86,65
+2:03,Arizona State,Elias Valtonen,Missed Three Point Jumper,86,65
+2:03,Arizona State,Kimani Lawrence,Offensive Rebound,86,65
+2:01,Washington State,Marvin Cannon,Foul,86,65
+2:01,Arizona State,Kimani Lawrence,Free Throw,86,66
+2:01,Arizona State,Kimani Lawrence,Free Throw,86,67
+2:00,Washington State,CJ Elleby,Turnover,86,67
+1:59,Arizona State,Elias Valtonen,Steal,86,67
+1:54,Washington State,Aljaz Kunc,Foul,86,67
+1:54,Arizona State,Kimani Lawrence,Free Throw,86,68
+1:54,Arizona State,Kimani Lawrence,Missed Free Throw,86,68
+1:54,Arizona State,None,Team Rebound,86,68
+1:54,Arizona State,Kimani Lawrence,Missed Free Throw,86,68
+1:54,Washington State,Washington State,Defensive Rebound,86,68
+1:35,Arizona State,Elias Valtonen,Foul,86,68
+1:35,Washington State,Robert Franks,Free Throw,87,68
+1:35,Washington State,Robert Franks,Free Throw,88,68
+1:29,Arizona State,Rob Edwards,Missed Three Point Jumper,88,68
+1:29,Washington State,CJ Elleby,Defensive Rebound,88,68
+1:21,Washington State,Marvin Cannon,Dunk,90,68
+1:06,Arizona State,Kimani Lawrence,Jumper,90,70
+1:01,Washington State,None,None,90,70
+0:57,Arizona State,Trevor Thompson,Foul,90,70
+0:57,Washington State,Marvin Cannon,Missed Free Throw,90,70
+0:57,Washington State,None,Team Rebound,90,70
+0:57,Washington State,Marvin Cannon,Free Throw,91,70
+0:45,Arizona State,Elias Valtonen,Missed Three Point Jumper,91,70
+0:45,Washington State,CJ Elleby,Defensive Rebound,91,70
+0:16,Washington State,Robert Franks,Missed Three Point Jumper,91,70
+0:16,Arizona State,Kimani Lawrence,Defensive Rebound,91,70
+0:06,Arizona State,De'Quon Lake,Missed Jumper,91,70
+0:06,Washington State,CJ Elleby,Defensive Rebound,91,70
+0:00,Arizona State,None,None,91,70

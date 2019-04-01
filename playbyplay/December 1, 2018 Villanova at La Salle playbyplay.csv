@@ -1,0 +1,264 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Villanova,None,None,0,0
+19:56,Villanova,Collin Gillespie,Layup,2,0
+19:24,La Salle,Traci Carter,Three Point Jumper,2,3
+19:17,La Salle,La Salle,Foul,2,3
+18:52,Villanova,Saddiq Bey,Turnover,2,3
+18:52,La Salle,Ed Croswell,Steal,2,3
+18:21,La Salle,Traci Carter,Missed Jumper,2,3
+18:21,La Salle,La Salle,Offensive Rebound,2,3
+18:08,La Salle,Jamir Moultrie,Missed Layup,2,3
+18:08,Villanova,Dhamir Cosby-Roundtree,Block,2,3
+18:08,La Salle,La Salle,Offensive Rebound,2,3
+17:48,La Salle,David Beatty,Missed Three Point Jumper,2,3
+17:48,Villanova,Villanova,Defensive Rebound,2,3
+17:32,Villanova,Collin Gillespie,Missed Three Point Jumper,2,3
+17:32,La Salle,Ed Croswell,Block,2,3
+17:32,La Salle,David Beatty,Defensive Rebound,2,3
+17:22,La Salle,Jamir Moultrie,Jumper,2,5
+16:57,La Salle,Jamir Moultrie,Foul,2,5
+16:49,Villanova,Phil Booth,Jumper,4,5
+16:26,La Salle,David Beatty,Three Point Jumper,4,8
+16:03,Villanova,Phil Booth,Layup,6,8
+15:51,La Salle,Traci Carter,Turnover,6,8
+15:51,La Salle,None,None,6,8
+15:41,Villanova,Collin Gillespie,Turnover,6,8
+15:15,La Salle,David Beatty,Jumper,6,10
+14:52,Villanova,Phil Booth,Three Point Jumper,9,10
+14:29,La Salle,Jamir Moultrie,Missed Three Point Jumper,9,10
+14:29,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,9,10
+14:03,Villanova,Phil Booth,Missed Layup,9,10
+14:03,La Salle,David Beatty,Block,9,10
+14:03,La Salle,Isiah Deas,Defensive Rebound,9,10
+13:47,La Salle,Isiah Deas,Turnover,9,10
+13:47,Villanova,Phil Booth,Steal,9,10
+13:41,Villanova,Phil Booth,Missed Jumper,9,10
+13:41,La Salle,Jack Clark,Defensive Rebound,9,10
+13:34,La Salle,Jamir Moultrie,Three Point Jumper,9,13
+13:28,Villanova,None,None,9,13
+13:13,Villanova,Eric Paschall,Missed Three Point Jumper,9,13
+13:13,La Salle,Miles Brookins,Defensive Rebound,9,13
+13:07,La Salle,Isiah Deas,Missed Three Point Jumper,9,13
+13:07,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,9,13
+12:42,Villanova,Joe Cremo,Three Point Jumper,12,13
+12:09,La Salle,Traci Carter,Missed Jumper,12,13
+12:09,Villanova,Joe Cremo,Defensive Rebound,12,13
+11:46,Villanova,Saddiq Bey,Turnover,12,13
+11:46,La Salle,None,None,12,13
+11:27,La Salle,Traci Carter,Jumper,12,15
+10:56,Villanova,Cole Swider,Three Point Jumper,15,15
+10:43,La Salle,Isiah Deas,Turnover,15,15
+10:31,Villanova,Cole Swider,Turnover,15,15
+10:04,La Salle,Traci Carter,Missed Jumper,15,15
+10:04,La Salle,Ed Croswell,Offensive Rebound,15,15
+10:02,Villanova,Saddiq Bey,Foul,15,15
+10:02,La Salle,Ed Croswell,Free Throw,15,16
+10:02,La Salle,Ed Croswell,Free Throw,15,17
+9:54,Villanova,Cole Swider,Layup,17,17
+9:34,La Salle,David Beatty,Layup,17,19
+9:34,Villanova,Dhamir Cosby-Roundtree,Foul,17,19
+9:34,La Salle,David Beatty,Free Throw,17,20
+9:16,Villanova,Phil Booth,Missed Jumper,17,20
+9:16,La Salle,Isiah Deas,Defensive Rebound,17,20
+8:51,La Salle,Traci Carter,Turnover,17,20
+8:41,Villanova,Cole Swider,Missed Three Point Jumper,17,20
+8:41,La Salle,David Beatty,Defensive Rebound,17,20
+8:35,La Salle,Isiah Deas,Three Point Jumper,17,23
+8:11,Villanova,Eric Paschall,Three Point Jumper,20,23
+7:57,La Salle,Isiah Deas,Three Point Jumper,20,26
+7:33,Villanova,Cole Swider,Turnover,20,26
+7:33,La Salle,None,None,20,26
+7:12,Villanova,Jahvon Quinerly,Foul,20,26
+7:04,La Salle,Jack Clark,Missed Three Point Jumper,20,26
+7:04,Villanova,Eric Paschall,Defensive Rebound,20,26
+6:48,Villanova,Eric Paschall,Missed Jumper,20,26
+6:48,La Salle,Isiah Deas,Defensive Rebound,20,26
+6:42,Villanova,Collin Gillespie,Foul,20,26
+6:37,La Salle,Isiah Deas,Missed Jumper,20,26
+6:37,La Salle,Ed Croswell,Offensive Rebound,20,26
+6:30,La Salle,Isiah Deas,Three Point Jumper,20,29
+6:12,Villanova,Collin Gillespie,Missed Layup,20,29
+6:12,La Salle,La Salle,Defensive Rebound,20,29
+5:51,La Salle,David Beatty,Missed Three Point Jumper,20,29
+5:51,Villanova,Villanova,Defensive Rebound,20,29
+5:40,Villanova,Joe Cremo,Turnover,20,29
+5:40,La Salle,David Beatty,Steal,20,29
+5:32,La Salle,Jack Clark,Three Point Jumper,20,32
+5:28,Villanova,None,None,20,32
+5:16,Villanova,Eric Paschall,Three Point Jumper,23,32
+5:04,La Salle,Isiah Deas,Three Point Jumper,23,35
+4:44,Villanova,Joe Cremo,Three Point Jumper,26,35
+4:26,La Salle,Jack Clark,Three Point Jumper,26,38
+4:03,Villanova,Saddiq Bey,Three Point Jumper,29,38
+3:40,La Salle,Traci Carter,Jumper,29,40
+3:11,Villanova,Phil Booth,Three Point Jumper,32,40
+2:45,La Salle,Traci Carter,Missed Layup,32,40
+2:45,La Salle,Ed Croswell,Offensive Rebound,32,40
+2:42,La Salle,Ed Croswell,Layup,32,42
+2:16,Villanova,Collin Gillespie,Missed Three Point Jumper,32,42
+2:16,La Salle,David Beatty,Defensive Rebound,32,42
+2:09,La Salle,David Beatty,Turnover,32,42
+1:56,Villanova,Phil Booth,Three Point Jumper,35,42
+1:22,La Salle,Traci Carter,Missed Three Point Jumper,35,42
+1:22,Villanova,Phil Booth,Defensive Rebound,35,42
+1:07,Villanova,Joe Cremo,Missed Three Point Jumper,35,42
+1:07,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,35,42
+1:03,La Salle,Isiah Deas,Foul,35,42
+0:56,Villanova,Eric Paschall,Layup,37,42
+0:32,La Salle,Isiah Deas,Foul,37,42
+0:32,La Salle,Isiah Deas,Turnover,37,42
+0:01,Villanova,Eric Paschall,Jumper,39,42
+0:00,La Salle,None,None,39,42
+20:00,Villanova,None,None,39,42
+19:51,Villanova,Eric Paschall,Missed Jumper,39,42
+19:51,La Salle,David Beatty,Defensive Rebound,39,42
+19:28,Villanova,Dhamir Cosby-Roundtree,Foul,39,42
+19:28,La Salle,Miles Brookins,Free Throw,39,43
+19:28,La Salle,Miles Brookins,Free Throw,39,44
+19:16,Villanova,Phil Booth,Missed Three Point Jumper,39,44
+19:16,La Salle,David Beatty,Defensive Rebound,39,44
+18:59,La Salle,Traci Carter,Jumper,39,46
+18:59,Villanova,Joe Cremo,Foul,39,46
+18:59,La Salle,Traci Carter,Free Throw,39,47
+18:44,Villanova,Eric Paschall,Jumper,41,47
+18:27,La Salle,David Beatty,Missed Three Point Jumper,41,47
+18:27,Villanova,Joe Cremo,Defensive Rebound,41,47
+18:16,Villanova,Collin Gillespie,Three Point Jumper,44,47
+17:56,La Salle,Jamir Moultrie,Turnover,44,47
+17:42,Villanova,Eric Paschall,Missed Jumper,44,47
+17:42,La Salle,David Beatty,Defensive Rebound,44,47
+17:38,Villanova,Dhamir Cosby-Roundtree,Foul,44,47
+17:18,La Salle,Traci Carter,Missed Jumper,44,47
+17:18,Villanova,Saddiq Bey,Defensive Rebound,44,47
+17:05,Villanova,Joe Cremo,Layup,46,47
+16:37,La Salle,Traci Carter,Missed Jumper,46,47
+16:37,Villanova,Saddiq Bey,Defensive Rebound,46,47
+16:24,La Salle,Miles Brookins,Foul,46,47
+16:24,Villanova,Eric Paschall,Missed Free Throw,46,47
+16:24,Villanova,None,Team Rebound,46,47
+16:24,Villanova,Eric Paschall,Free Throw,47,47
+16:02,La Salle,Isiah Deas,Turnover,47,47
+15:46,Villanova,Eric Paschall,Foul,47,47
+15:46,Villanova,Eric Paschall,Turnover,47,47
+15:29,La Salle,Jack Clark,Three Point Jumper,47,50
+15:04,Villanova,Phil Booth,Missed Three Point Jumper,47,50
+15:04,La Salle,Isiah Deas,Defensive Rebound,47,50
+15:00,La Salle,Isiah Deas,Turnover,47,50
+15:00,Villanova,Jermaine Samuels,Steal,47,50
+14:49,Villanova,Eric Paschall,Missed Three Point Jumper,47,50
+14:49,Villanova,Villanova,Offensive Rebound,47,50
+14:49,La Salle,Traci Carter,Foul,47,50
+14:41,La Salle,Miles Brookins,Foul,47,50
+14:41,Villanova,Eric Paschall,Free Throw,48,50
+14:41,Villanova,Eric Paschall,Free Throw,49,50
+14:14,La Salle,Miles Brookins,Dunk,49,52
+13:50,Villanova,Eric Paschall,Jumper,51,52
+13:29,La Salle,Traci Carter,Jumper,51,54
+12:56,Villanova,Phil Booth,Missed Jumper,51,54
+12:56,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,51,54
+12:56,La Salle,Jack Clark,Foul,51,54
+12:47,Villanova,Saddiq Bey,Three Point Jumper,54,54
+12:47,La Salle,Jack Clark,Foul,54,54
+12:47,Villanova,Saddiq Bey,Free Throw,55,54
+12:22,La Salle,Isiah Deas,Turnover,55,54
+12:22,Villanova,Collin Gillespie,Steal,55,54
+12:02,Villanova,Eric Paschall,Dunk,57,54
+12:02,La Salle,Jack Clark,Foul,57,54
+12:02,Villanova,Eric Paschall,Free Throw,58,54
+11:40,La Salle,Isiah Deas,Three Point Jumper,58,57
+11:10,Villanova,Eric Paschall,Turnover,58,57
+11:10,La Salle,None,None,58,57
+10:48,La Salle,Jamir Moultrie,Foul,58,57
+10:48,La Salle,Jamir Moultrie,Turnover,58,57
+10:36,La Salle,Ed Croswell,Foul,58,57
+10:36,Villanova,Collin Gillespie,Free Throw,59,57
+10:36,Villanova,Collin Gillespie,Free Throw,60,57
+10:19,La Salle,Isiah Deas,Missed Three Point Jumper,60,57
+10:19,La Salle,Traci Carter,Offensive Rebound,60,57
+10:13,La Salle,Ed Croswell,Layup,60,59
+9:49,Villanova,Phil Booth,Jumper,62,59
+9:30,La Salle,Traci Carter,Turnover,62,59
+9:30,Villanova,Dhamir Cosby-Roundtree,Steal,62,59
+9:23,Villanova,Eric Paschall,Missed Dunk,62,59
+9:23,La Salle,Traci Carter,Defensive Rebound,62,59
+9:17,La Salle,Traci Carter,Layup,62,61
+8:54,Villanova,Collin Gillespie,Missed Layup,62,61
+8:54,La Salle,Ed Croswell,Block,62,61
+8:54,Villanova,Villanova,Offensive Rebound,62,61
+8:54,La Salle,Traci Carter,Foul,62,61
+8:54,Villanova,Dhamir Cosby-Roundtree,Free Throw,63,61
+8:54,Villanova,Dhamir Cosby-Roundtree,Free Throw,64,61
+8:37,La Salle,Miles Brookins,Layup,64,63
+8:07,Villanova,Eric Paschall,Three Point Jumper,67,63
+7:44,La Salle,Miles Brookins,Foul,67,63
+7:44,La Salle,Miles Brookins,Turnover,67,63
+7:44,La Salle,None,None,67,63
+7:28,Villanova,Dhamir Cosby-Roundtree,Jumper,69,63
+7:04,La Salle,Traci Carter,Three Point Jumper,69,66
+6:43,Villanova,Phil Booth,Turnover,69,66
+6:36,La Salle,Ed Croswell,Layup,69,68
+6:12,La Salle,Ed Croswell,Foul,69,68
+6:12,Villanova,Collin Gillespie,Free Throw,70,68
+6:12,Villanova,Collin Gillespie,Free Throw,71,68
+5:59,Villanova,Dhamir Cosby-Roundtree,Foul,71,68
+5:59,La Salle,Ed Croswell,Free Throw,71,69
+5:59,La Salle,Ed Croswell,Free Throw,71,70
+5:51,Villanova,Collin Gillespie,Layup,73,70
+5:28,La Salle,David Beatty,Layup,73,72
+5:07,Villanova,Eric Paschall,Missed Jumper,73,72
+5:07,La Salle,Traci Carter,Defensive Rebound,73,72
+4:52,La Salle,Miles Brookins,Turnover,73,72
+4:52,Villanova,Saddiq Bey,Steal,73,72
+4:23,Villanova,Phil Booth,Dunk,75,72
+4:23,La Salle,David Beatty,Foul,75,72
+4:23,Villanova,Phil Booth,Free Throw,76,72
+3:56,Villanova,Jermaine Samuels,Foul,76,72
+3:56,La Salle,None,None,76,72
+3:36,La Salle,Isiah Deas,Missed Jumper,76,72
+3:36,Villanova,Jermaine Samuels,Defensive Rebound,76,72
+3:11,Villanova,Jermaine Samuels,Missed Three Point Jumper,76,72
+3:11,Villanova,Saddiq Bey,Offensive Rebound,76,72
+3:06,Villanova,Saddiq Bey,Missed Jumper,76,72
+3:06,Villanova,Eric Paschall,Offensive Rebound,76,72
+3:00,Villanova,Eric Paschall,Dunk,78,72
+2:52,La Salle,None,None,78,72
+2:44,La Salle,Traci Carter,Turnover,78,72
+2:28,Villanova,Eric Paschall,Missed Jumper,78,72
+2:28,La Salle,Ed Croswell,Defensive Rebound,78,72
+2:18,La Salle,David Beatty,Missed Three Point Jumper,78,72
+2:18,Villanova,Eric Paschall,Defensive Rebound,78,72
+2:14,La Salle,Ed Croswell,Foul,78,72
+2:14,Villanova,Phil Booth,Free Throw,79,72
+2:14,Villanova,Phil Booth,Missed Free Throw,79,72
+2:14,La Salle,Miles Brookins,Defensive Rebound,79,72
+2:09,La Salle,Miles Brookins,Layup,79,74
+1:53,Villanova,None,None,79,74
+1:26,Villanova,Collin Gillespie,Turnover,79,74
+1:07,La Salle,Miles Brookins,Layup,79,76
+0:53,La Salle,Traci Carter,Foul,79,76
+0:53,Villanova,Collin Gillespie,Free Throw,80,76
+0:53,Villanova,Collin Gillespie,Free Throw,81,76
+0:46,La Salle,Traci Carter,Missed Three Point Jumper,81,76
+0:46,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,81,76
+0:32,La Salle,Traci Carter,Foul,81,76
+0:32,Villanova,Collin Gillespie,Free Throw,82,76
+0:32,Villanova,Collin Gillespie,Free Throw,83,76
+0:25,La Salle,David Beatty,Layup,83,78
+0:25,Villanova,Collin Gillespie,Foul,83,78
+0:25,La Salle,David Beatty,Missed Free Throw,83,78
+0:25,Villanova,Phil Booth,Defensive Rebound,83,78
+0:16,Villanova,None,None,83,78
+0:14,La Salle,Jack Clark,Foul,83,78
+0:14,Villanova,Saddiq Bey,Missed Free Throw,83,78
+0:14,Villanova,None,Team Rebound,83,78
+0:14,Villanova,Saddiq Bey,Missed Free Throw,83,78
+0:14,La Salle,David Beatty,Defensive Rebound,83,78
+0:07,La Salle,David Beatty,Missed Three Point Jumper,83,78
+0:07,Villanova,Eric Paschall,Defensive Rebound,83,78
+0:05,La Salle,Miles Brookins,Foul,83,78
+0:05,Villanova,Eric Paschall,Free Throw,84,78
+0:05,Villanova,Eric Paschall,Free Throw,85,78
+0:01,La Salle,Traci Carter,Missed Layup,85,78
+0:01,Villanova,Dhamir Cosby-Roundtree,Block,85,78
+0:01,Villanova,Phil Booth,Defensive Rebound,85,78
+0:00,La Salle,None,None,85,78

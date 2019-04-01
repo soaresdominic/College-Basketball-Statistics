@@ -1,0 +1,328 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Arkansas,None,None,0,0
+19:50,Arkansas,Daniel Gafford,Layup,0,2
+19:32,Western Kentucky,Jared Savage,Missed Jumper,0,2
+19:32,Arkansas,Daniel Gafford,Defensive Rebound,0,2
+19:32,Arkansas,Mason Jones,Missed Three Point Jumper,0,2
+19:32,Arkansas,Arkansas,Offensive Rebound,0,2
+18:48,Western Kentucky,Jared Savage,Foul,0,2
+18:48,Western Kentucky,Jared Savage,Foul,0,2
+18:48,Arkansas,Isaiah Joe,Missed Free Throw,0,2
+18:48,Arkansas,None,Team Rebound,0,2
+18:48,Arkansas,Isaiah Joe,Missed Free Throw,0,2
+18:48,Arkansas,None,Team Rebound,0,2
+18:48,Arkansas,Isaiah Joe,Free Throw,0,3
+18:35,Arkansas,Mason Jones,Foul,0,3
+18:31,Western Kentucky,Charles Bassey,Jumper,2,3
+18:23,Arkansas,Isaiah Joe,Three Point Jumper,2,6
+18:12,Western Kentucky,Dalano Banton,Turnover,2,6
+18:12,Arkansas,Jalen Harris,Steal,2,6
+18:07,Arkansas,Jalen Harris,Dunk,2,8
+17:44,Western Kentucky,Charles Bassey,Dunk,4,8
+17:34,Arkansas,Isaiah Joe,Three Point Jumper,4,11
+17:14,Western Kentucky,Marek Nelson,Missed Three Point Jumper,4,11
+17:14,Western Kentucky,Charles Bassey,Offensive Rebound,4,11
+17:14,Western Kentucky,Charles Bassey,Missed Jumper,4,11
+17:14,Arkansas,Isaiah Joe,Defensive Rebound,4,11
+16:45,Arkansas,Jalen Harris,Layup,4,13
+16:25,Western Kentucky,Dalano Banton,Turnover,4,13
+16:22,Arkansas,Adrio Bailey,Turnover,4,13
+16:22,Western Kentucky,Taveion Hollingsworth,Steal,4,13
+16:19,Western Kentucky,Taveion Hollingsworth,Layup,6,13
+16:10,Arkansas,Mason Jones,Missed Three Point Jumper,6,13
+16:10,Western Kentucky,Marek Nelson,Defensive Rebound,6,13
+16:01,Western Kentucky,Charles Bassey,Layup,8,13
+15:53,Arkansas,Jalen Harris,Jumper,8,15
+15:35,Western Kentucky,Taveion Hollingsworth,Missed Three Point Jumper,8,15
+15:35,Arkansas,Isaiah Joe,Defensive Rebound,8,15
+15:25,Arkansas,Mason Jones,Missed Jumper,8,15
+15:25,Arkansas,Daniel Gafford,Offensive Rebound,8,15
+15:18,Arkansas,Daniel Gafford,Dunk,8,17
+14:59,Western Kentucky,Jared Savage,Missed Jumper,8,17
+14:59,Arkansas,Daniel Gafford,Defensive Rebound,8,17
+14:53,Arkansas,Isaiah Joe,Missed Three Point Jumper,8,17
+14:53,Arkansas,Arkansas,Offensive Rebound,8,17
+14:39,Arkansas,None,None,8,17
+14:27,Arkansas,Daniel Gafford,Missed Jumper,8,17
+14:27,Western Kentucky,Charles Bassey,Block,8,17
+14:27,Western Kentucky,Josh Anderson,Defensive Rebound,8,17
+14:10,Western Kentucky,Taveion Hollingsworth,Three Point Jumper,11,17
+14:05,Arkansas,Daniel Gafford,Missed Jumper,11,17
+14:05,Western Kentucky,Dalano Banton,Defensive Rebound,11,17
+14:02,Arkansas,Gabe Osabuohien,Foul,11,17
+13:46,Western Kentucky,Tolu Smith,Turnover,11,17
+13:46,Arkansas,Desi Sills,Steal,11,17
+13:28,Arkansas,Reggie Chaney,Jumper,11,19
+13:16,Western Kentucky,Josh Anderson,Turnover,11,19
+13:07,Arkansas,Gabe Osabuohien,Turnover,11,19
+12:50,Western Kentucky,Desean Murray,Missed Jumper,11,19
+12:50,Arkansas,Reggie Chaney,Block,11,19
+12:50,Western Kentucky,Desean Murray,Offensive Rebound,11,19
+12:50,Western Kentucky,Taveion Hollingsworth,Missed Three Point Jumper,11,19
+12:50,Western Kentucky,Western Kentucky,Offensive Rebound,11,19
+12:29,Western Kentucky,Western Kentucky ,Turnover,11,19
+12:23,Arkansas,Keyshawn Embery-Simpson,Missed Three Point Jumper,11,19
+12:23,Western Kentucky,Jared Savage,Defensive Rebound,11,19
+11:58,Western Kentucky,Josh Anderson,Jumper,13,19
+11:58,Arkansas,Gabe Osabuohien,Foul,13,19
+11:58,Western Kentucky,Josh Anderson,Missed Free Throw,13,19
+11:57,Arkansas,None,None,13,19
+11:57,Arkansas,Reggie Chaney,Defensive Rebound,13,19
+11:52,Arkansas,Jalen Harris,Missed Three Point Jumper,13,19
+11:52,Arkansas,Adrio Bailey,Offensive Rebound,13,19
+11:52,Western Kentucky,Josh Anderson,Foul,13,19
+11:47,Arkansas,Adrio Bailey,Missed Free Throw,13,19
+11:47,Arkansas,None,Team Rebound,13,19
+11:47,Arkansas,Adrio Bailey,Missed Free Throw,13,19
+11:47,Western Kentucky,Tolu Smith,Defensive Rebound,13,19
+11:22,Western Kentucky,Taveion Hollingsworth,Missed Three Point Jumper,13,19
+11:22,Western Kentucky,Western Kentucky,Offensive Rebound,13,19
+11:22,Western Kentucky,Western Kentucky ,Turnover,13,19
+11:12,Arkansas,Desi Sills,Missed Three Point Jumper,13,19
+11:12,Western Kentucky,Western Kentucky,Defensive Rebound,13,19
+10:59,Western Kentucky,Tolu Smith,Dunk,15,19
+10:35,Arkansas,Reggie Chaney,Turnover,15,19
+10:35,Western Kentucky,Marek Nelson,Steal,15,19
+10:24,Arkansas,Adrio Bailey,Foul,15,19
+10:24,Western Kentucky,Josh Anderson,Free Throw,16,19
+10:24,Western Kentucky,Josh Anderson,Missed Free Throw,16,19
+10:24,Arkansas,Daniel Gafford,Defensive Rebound,16,19
+10:24,Western Kentucky,Tolu Smith,Foul,16,19
+10:11,Arkansas,Isaiah Joe,Missed Three Point Jumper,16,19
+10:11,Arkansas,Jalen Harris,Offensive Rebound,16,19
+10:11,Arkansas,Jalen Harris,Missed Jumper,16,19
+10:11,Western Kentucky,Josh Anderson,Defensive Rebound,16,19
+9:38,Western Kentucky,Josh Anderson,Missed Three Point Jumper,16,19
+9:38,Arkansas,Jalen Harris,Defensive Rebound,16,19
+9:32,Arkansas,Daniel Gafford,Foul,16,19
+9:31,Arkansas,Jalen Harris,Layup,16,21
+9:31,Western Kentucky,Marek Nelson,Foul,16,21
+9:31,Arkansas,Jalen Harris,Free Throw,16,22
+9:19,Western Kentucky,Charles Bassey,Layup,18,22
+9:06,Arkansas,Jalen Harris,Missed Jumper,18,22
+9:06,Western Kentucky,Desean Murray,Defensive Rebound,18,22
+9:02,Western Kentucky,Desean Murray,Turnover,18,22
+9:02,Arkansas,Jalen Harris,Steal,18,22
+9:00,Western Kentucky,Desean Murray,Foul,18,22
+9:00,Arkansas,Daniel Gafford,Turnover,18,22
+9:00,Western Kentucky,Josh Anderson,Steal,18,22
+8:37,Western Kentucky,Dalano Banton,Missed Three Point Jumper,18,22
+8:37,Arkansas,Jalen Harris,Defensive Rebound,18,22
+8:31,Western Kentucky,Desean Murray,Foul,18,22
+8:31,Arkansas,Jalen Harris,Missed Free Throw,18,22
+8:31,Western Kentucky,Charles Bassey,Defensive Rebound,18,22
+8:15,Western Kentucky,Marek Nelson,Jumper,20,22
+7:58,Arkansas,None,None,20,22
+7:46,Arkansas,Adrio Bailey,Missed Layup,20,22
+7:46,Western Kentucky,Charles Bassey,Block,20,22
+7:46,Western Kentucky,Marek Nelson,Defensive Rebound,20,22
+7:36,Western Kentucky,Charles Bassey,Layup,22,22
+7:21,Arkansas,Isaiah Joe,Three Point Jumper,22,25
+7:12,Western Kentucky,Marek Nelson,Missed Jumper,22,25
+7:12,Arkansas,Adrio Bailey,Defensive Rebound,22,25
+6:59,Arkansas,Isaiah Joe,Missed Jumper,22,25
+6:59,Western Kentucky,Dalano Banton,Defensive Rebound,22,25
+6:59,Western Kentucky,Marek Nelson,Turnover,22,25
+6:59,Arkansas,Mason Jones,Steal,22,25
+6:24,Arkansas,Mason Jones,Layup,22,27
+5:51,Arkansas,Jalen Harris,Foul,22,27
+5:51,Western Kentucky,Charles Bassey,Missed Free Throw,22,27
+5:51,Western Kentucky,None,Team Rebound,22,27
+5:51,Western Kentucky,Charles Bassey,Free Throw,23,27
+5:36,Arkansas,Mason Jones,Missed Three Point Jumper,23,27
+5:36,Arkansas,Mason Jones,Offensive Rebound,23,27
+5:30,Arkansas,Mason Jones,Layup,23,29
+5:20,Western Kentucky,Jared Savage,Three Point Jumper,26,29
+4:56,Arkansas,Jalen Harris,Missed Jumper,26,29
+4:56,Western Kentucky,Charles Bassey,Defensive Rebound,26,29
+4:41,Western Kentucky,Jared Savage,Missed Three Point Jumper,26,29
+4:41,Arkansas,Jalen Harris,Defensive Rebound,26,29
+4:31,Arkansas,Daniel Gafford,Layup,26,31
+4:02,Western Kentucky,Dalano Banton,Turnover,26,31
+4:02,Arkansas,Daniel Gafford,Steal,26,31
+4:02,Arkansas,Reggie Chaney,Layup,26,33
+3:30,Western Kentucky,Charles Bassey,Missed Layup,26,33
+3:30,Arkansas,Daniel Gafford,Block,26,33
+3:30,Arkansas,Isaiah Joe,Defensive Rebound,26,33
+3:30,Arkansas,Mason Jones,Foul,26,33
+3:23,Arkansas,Mason Jones,Turnover,26,33
+3:23,Arkansas,None,None,26,33
+3:23,Western Kentucky,Taveion Hollingsworth,Free Throw,27,33
+3:23,Western Kentucky,Taveion Hollingsworth,Free Throw,28,33
+3:03,Western Kentucky,Dalano Banton,Missed Three Point Jumper,28,33
+3:03,Arkansas,Daniel Gafford,Defensive Rebound,28,33
+2:52,Arkansas,Isaiah Joe,Missed Three Point Jumper,28,33
+2:52,Western Kentucky,Charles Bassey,Defensive Rebound,28,33
+2:29,Western Kentucky,Charles Bassey,Missed Three Point Jumper,28,33
+2:29,Arkansas,Desi Sills,Defensive Rebound,28,33
+2:20,Arkansas,Reggie Chaney,Missed Jumper,28,33
+2:20,Western Kentucky,Charles Bassey,Defensive Rebound,28,33
+2:08,Western Kentucky,Josh Anderson,Turnover,28,33
+2:08,Arkansas,Isaiah Joe,Steal,28,33
+2:04,Western Kentucky,Josh Anderson,Foul,28,33
+2:02,Arkansas,Isaiah Joe,Layup,28,35
+2:02,Arkansas,Isaiah Joe,Free Throw,28,36
+2:02,Arkansas,Isaiah Joe,Missed Free Throw,28,36
+1:45,Arkansas,Jalen Harris,Missed Three Point Jumper,28,36
+1:45,Western Kentucky,Charles Bassey,Defensive Rebound,28,36
+1:29,Western Kentucky,Jared Savage,Three Point Jumper,31,36
+1:05,Arkansas,Desi Sills,Missed Three Point Jumper,31,36
+1:05,Arkansas,Daniel Gafford,Offensive Rebound,31,36
+1:02,Western Kentucky,Jared Savage,Foul,31,36
+1:02,Arkansas,Daniel Gafford,Free Throw,31,37
+1:02,Arkansas,Daniel Gafford,Free Throw,31,38
+0:48,Western Kentucky,Taveion Hollingsworth,Jumper,33,38
+0:38,Arkansas,Isaiah Joe,Three Point Jumper,33,41
+0:05,Western Kentucky,Dalano Banton,Missed Layup,33,41
+0:05,Arkansas,Reggie Chaney,Defensive Rebound,33,41
+0:00,Arkansas,None,None,33,41
+20:00,Western Kentucky,None,None,33,41
+19:46,Arkansas,Adrio Bailey,Foul,33,41
+19:46,Western Kentucky,Charles Bassey,Free Throw,34,41
+19:46,Western Kentucky,Charles Bassey,Free Throw,35,41
+19:46,Arkansas,Isaiah Joe,Missed Jumper,35,41
+19:46,Western Kentucky,Dalano Banton,Block,35,41
+19:46,Western Kentucky,Western Kentucky,Defensive Rebound,35,41
+18:56,Western Kentucky,Jared Savage,Layup,37,41
+18:44,Arkansas,Daniel Gafford,Turnover,37,41
+18:34,Western Kentucky,Dalano Banton,Missed Three Point Jumper,37,41
+18:34,Arkansas,Mason Jones,Defensive Rebound,37,41
+18:24,Arkansas,Mason Jones,Missed Three Point Jumper,37,41
+18:24,Western Kentucky,Taveion Hollingsworth,Defensive Rebound,37,41
+18:08,Western Kentucky,Taveion Hollingsworth,Jumper,39,41
+17:55,Arkansas,Daniel Gafford,Layup,39,43
+17:55,Western Kentucky,Charles Bassey,Foul,39,43
+17:55,Arkansas,Daniel Gafford,Free Throw,39,44
+17:47,Western Kentucky,Taveion Hollingsworth,Three Point Jumper,42,44
+17:26,Arkansas,Adrio Bailey,Missed Dunk,42,44
+17:26,Western Kentucky,Taveion Hollingsworth,Defensive Rebound,42,44
+17:17,Western Kentucky,Taveion Hollingsworth,Missed Three Point Jumper,42,44
+17:17,Western Kentucky,Dalano Banton,Offensive Rebound,42,44
+17:17,Western Kentucky,Dalano Banton,Missed Jumper,42,44
+17:17,Western Kentucky,Charles Bassey,Offensive Rebound,42,44
+17:13,Western Kentucky,Charles Bassey,Dunk,44,44
+17:07,Arkansas,Daniel Gafford,Dunk,44,46
+16:44,Western Kentucky,Jared Savage,Three Point Jumper,47,46
+16:34,Arkansas,None,None,47,46
+16:25,Western Kentucky,Marek Nelson,Foul,47,46
+16:10,Arkansas,Keyshawn Embery-Simpson,Turnover,47,46
+16:10,Western Kentucky,Marek Nelson,Steal,47,46
+16:06,Arkansas,Keyshawn Embery-Simpson,Foul,47,46
+16:06,Western Kentucky,Jared Savage,Free Throw,48,46
+16:06,Western Kentucky,Jared Savage,Missed Free Throw,48,46
+16:06,Arkansas,Gabe Osabuohien,Defensive Rebound,48,46
+15:59,Arkansas,Isaiah Joe,Three Point Jumper,48,49
+15:41,Western Kentucky,Jared Savage,Three Point Jumper,51,49
+15:31,Arkansas,Reggie Chaney,Missed Layup,51,49
+15:31,Western Kentucky,Western Kentucky,Defensive Rebound,51,49
+15:29,Arkansas,None,None,51,49
+15:12,Arkansas,Keyshawn Embery-Simpson,Foul,51,49
+15:12,Western Kentucky,Tolu Smith,Missed Free Throw,51,49
+15:12,Western Kentucky,None,Team Rebound,51,49
+15:12,Western Kentucky,Tolu Smith,Missed Free Throw,51,49
+15:12,Arkansas,Reggie Chaney,Defensive Rebound,51,49
+15:01,Arkansas,Gabe Osabuohien,Missed Three Point Jumper,51,49
+15:01,Western Kentucky,Tolu Smith,Defensive Rebound,51,49
+14:46,Western Kentucky,Tolu Smith,Missed Jumper,51,49
+14:46,Arkansas,Reggie Chaney,Defensive Rebound,51,49
+14:27,Arkansas,Keyshawn Embery-Simpson,Missed Three Point Jumper,51,49
+14:27,Western Kentucky,Jared Savage,Defensive Rebound,51,49
+14:02,Western Kentucky,Tolu Smith,Dunk,53,49
+13:35,Arkansas,Jalen Harris,Missed Jumper,53,49
+13:35,Western Kentucky,Tolu Smith,Defensive Rebound,53,49
+13:07,Western Kentucky,Marek Nelson,Layup,55,49
+12:53,Arkansas,Gabe Osabuohien,Missed Jumper,55,49
+12:53,Western Kentucky,Marek Nelson,Block,55,49
+12:53,Western Kentucky,Taveion Hollingsworth,Defensive Rebound,55,49
+12:43,Arkansas,None,None,55,49
+12:43,Western Kentucky,Dalano Banton,Missed Jumper,55,49
+12:43,Western Kentucky,Tolu Smith,Offensive Rebound,55,49
+12:43,Western Kentucky,Tolu Smith,Dunk,57,49
+12:29,Arkansas,Jalen Harris,Layup,57,51
+12:09,Western Kentucky,Taveion Hollingsworth,Missed Three Point Jumper,57,51
+12:09,Western Kentucky,Marek Nelson,Offensive Rebound,57,51
+12:00,Western Kentucky,Marek Nelson,Missed Layup,57,51
+12:00,Arkansas,Daniel Gafford,Block,57,51
+12:00,Arkansas,Daniel Gafford,Defensive Rebound,57,51
+11:52,Arkansas,Jalen Harris,Dunk,57,53
+11:24,Western Kentucky,Charles Bassey,Dunk,59,53
+11:04,Arkansas,Mason Jones,Three Point Jumper,59,56
+10:46,Western Kentucky,Jared Savage,Three Point Jumper,62,56
+10:30,Arkansas,Desi Sills,Layup,62,58
+10:17,Western Kentucky,Taveion Hollingsworth,Turnover,62,58
+10:17,Arkansas,None,None,62,58
+10:03,Arkansas,Desi Sills,Jumper,62,60
+9:32,Western Kentucky,Jared Savage,Missed Jumper,62,60
+9:32,Arkansas,Adrio Bailey,Defensive Rebound,62,60
+9:19,Arkansas,Daniel Gafford,Missed Jumper,62,60
+9:19,Western Kentucky,Taveion Hollingsworth,Defensive Rebound,62,60
+9:01,Western Kentucky,Desean Murray,Missed Jumper,62,60
+9:01,Arkansas,Mason Jones,Defensive Rebound,62,60
+8:52,Arkansas,Isaiah Joe,Missed Three Point Jumper,62,60
+8:52,Western Kentucky,Jared Savage,Defensive Rebound,62,60
+8:39,Western Kentucky,Taveion Hollingsworth,Turnover,62,60
+8:35,Arkansas,Desi Sills,Layup,62,62
+8:13,Arkansas,Desi Sills,Foul,62,62
+8:13,Western Kentucky,Charles Bassey,Free Throw,63,62
+8:13,Western Kentucky,Charles Bassey,Free Throw,64,62
+7:59,Arkansas,Daniel Gafford,Missed Dunk,64,62
+7:59,Western Kentucky,Taveion Hollingsworth,Defensive Rebound,64,62
+7:47,Arkansas,Adrio Bailey,Foul,64,62
+7:47,Arkansas,None,None,64,62
+7:47,Western Kentucky,Charles Bassey,Free Throw,65,62
+7:47,Western Kentucky,Charles Bassey,Free Throw,66,62
+7:42,Arkansas,Mason Jones,Missed Three Point Jumper,66,62
+7:42,Western Kentucky,Desean Murray,Defensive Rebound,66,62
+7:36,Western Kentucky,Dalano Banton,Dunk,68,62
+7:26,Arkansas,Mason Jones,Three Point Jumper,68,65
+6:52,Western Kentucky,Dalano Banton,Missed Jumper,68,65
+6:52,Arkansas,Desi Sills,Defensive Rebound,68,65
+6:46,Arkansas,Desi Sills,Layup,68,67
+6:03,Western Kentucky,Taveion Hollingsworth,Missed Jumper,68,67
+6:03,Arkansas,Adrio Bailey,Block,68,67
+6:03,Arkansas,Adrio Bailey,Defensive Rebound,68,67
+5:44,Arkansas,Adrio Bailey,Missed Jumper,68,67
+5:44,Western Kentucky,Charles Bassey,Defensive Rebound,68,67
+5:36,Western Kentucky,Jared Savage,Layup,70,67
+5:22,Arkansas,Adrio Bailey,Missed Jumper,70,67
+5:22,Western Kentucky,Charles Bassey,Block,70,67
+5:22,Arkansas,Daniel Gafford,Offensive Rebound,70,67
+5:12,Arkansas,Daniel Gafford,Dunk,70,69
+4:50,Western Kentucky,Charles Bassey,Missed Jumper,70,69
+4:50,Arkansas,Adrio Bailey,Defensive Rebound,70,69
+4:32,Western Kentucky,Desean Murray,Foul,70,69
+4:32,Arkansas,Desi Sills,Missed Free Throw,70,69
+4:32,Arkansas,None,Team Rebound,70,69
+4:32,Arkansas,Desi Sills,Free Throw,70,70
+4:15,Western Kentucky,Dalano Banton,Three Point Jumper,73,70
+4:11,Western Kentucky,None,None,73,70
+3:46,Arkansas,Jalen Harris,Missed Jumper,73,70
+3:45,Western Kentucky,Tolu Smith,Foul,73,70
+3:25,Western Kentucky,Tolu Smith,Foul,73,70
+3:15,Western Kentucky,Marek Nelson,Foul,73,70
+3:15,Arkansas,Mason Jones,Free Throw,73,71
+3:15,Arkansas,Mason Jones,Free Throw,73,72
+2:57,Arkansas,Adrio Bailey,Foul,73,72
+2:37,Western Kentucky,Taveion Hollingsworth,Three Point Jumper,76,72
+2:16,Arkansas,Mason Jones,Three Point Jumper,76,75
+1:48,Western Kentucky,Jared Savage,Missed Three Point Jumper,76,75
+1:48,Arkansas,Arkansas,Defensive Rebound,76,75
+1:32,Arkansas,Jalen Harris,Missed Jumper,76,75
+1:32,Western Kentucky,Charles Bassey,Defensive Rebound,76,75
+1:15,Western Kentucky,Marek Nelson,Turnover,76,75
+0:51,Arkansas,Isaiah Joe,Missed Three Point Jumper,76,75
+0:51,Western Kentucky,Dalano Banton,Block,76,75
+0:51,Arkansas,Daniel Gafford,Offensive Rebound,76,75
+0:40,Arkansas,Daniel Gafford,Layup,76,77
+0:32,Western Kentucky,None,None,76,77
+0:21,Western Kentucky,Marek Nelson,Layup,78,77
+0:19,Western Kentucky,None,None,78,77
+0:04,Arkansas,Jalen Harris,Missed Layup,78,77
+0:04,Western Kentucky,Charles Bassey,Block,78,77
+0:04,Western Kentucky,Taveion Hollingsworth,Defensive Rebound,78,77
+0:04,Western Kentucky,Taveion Hollingsworth,Turnover,78,77
+0:01,Arkansas,None,None,78,77
+0:01,Arkansas,Daniel Gafford,Missed Jumper,78,77
+0:01,Western Kentucky,Charles Bassey,Block,78,77
+0:01,Arkansas,Arkansas,Offensive Rebound,78,77
+0:00,Arkansas,None,None,78,77

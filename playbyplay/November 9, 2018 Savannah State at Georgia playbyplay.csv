@@ -1,0 +1,427 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:47,Georgia,Nicolas Claxton,Dunk,0,2
+19:40,Savannah State,Tyrel Harper,Missed Three Point Jumper,0,2
+19:40,Georgia,Rayshaun Hammonds,Defensive Rebound,0,2
+19:32,Savannah State,Zaquavian Smith,Foul,0,2
+19:19,Georgia,Nicolas Claxton,Dunk,0,4
+19:10,Savannah State,Jaquan Dotson,Missed Three Point Jumper,0,4
+19:10,Georgia,Derek Ogbeide,Defensive Rebound,0,4
+18:56,Georgia,Derek Ogbeide,Dunk,0,6
+18:49,Savannah State,Jahlin Smith,Missed Three Point Jumper,0,6
+18:49,Savannah State,Jaquan Dotson,Offensive Rebound,0,6
+18:45,Savannah State,Jaquan Dotson,Missed Layup,0,6
+18:44,Georgia,Nicolas Claxton,Block,0,6
+18:43,Georgia,Derek Ogbeide,Defensive Rebound,0,6
+18:25,Georgia,William Jackson II,Turnover,0,6
+18:13,Savannah State,Tyrel Harper,Missed Layup,0,6
+18:13,Georgia,Nicolas Claxton,Defensive Rebound,0,6
+18:11,Savannah State,Tyrel Harper,Foul,0,6
+17:57,Savannah State,John Grant Jr.,Foul,0,6
+17:57,Georgia,Teshaun Hightower,Missed Free Throw,0,6
+17:57,Georgia,None,Team Rebound,0,6
+17:57,Georgia,Teshaun Hightower,Free Throw,0,7
+17:33,Savannah State,Amaru Bryant,Missed Jumper,0,7
+17:33,Georgia,Derek Ogbeide,Defensive Rebound,0,7
+17:21,Georgia,Derek Ogbeide,Layup,0,9
+17:15,Savannah State,John Grant Jr.,Missed Three Point Jumper,0,9
+17:15,Georgia,Derek Ogbeide,Defensive Rebound,0,9
+17:04,Savannah State,John Grant Jr.,Foul,0,9
+17:04,Georgia,Rayshaun Hammonds,Missed Free Throw,0,9
+17:04,Georgia,None,Team Rebound,0,9
+17:04,Georgia,Rayshaun Hammonds,Free Throw,0,10
+17:01,Savannah State,Collins Joseph,Missed Three Point Jumper,0,10
+17:01,Georgia,Jordan Harris,Defensive Rebound,0,10
+16:53,Georgia,Teshaun Hightower,Layup,0,12
+16:46,Savannah State,John Grant Jr.,Missed Three Point Jumper,0,12
+16:46,Georgia,Teshaun Hightower,Defensive Rebound,0,12
+16:40,Georgia,Teshaun Hightower,Turnover,0,12
+16:33,Savannah State,Romani Hansen,Missed Jumper,0,12
+16:33,Georgia,Jordan Harris,Block,0,12
+16:33,Savannah State,Savannah State,Offensive Rebound,0,12
+16:31,Savannah State,Zaquavian Smith,Missed Three Point Jumper,0,12
+16:31,Georgia,Georgia,Defensive Rebound,0,12
+16:16,Georgia,Jordan Harris,Layup,0,14
+16:05,Savannah State,Romani Hansen,Missed Three Point Jumper,0,14
+16:05,Georgia,Rayshaun Hammonds,Defensive Rebound,0,14
+15:59,Georgia,Jordan Harris,Turnover,0,14
+15:59,Georgia,None,None,0,14
+15:49,Savannah State,Jahlin Smith,Three Point Jumper,3,14
+15:32,Georgia,Tyree Crump,Missed Three Point Jumper,3,14
+15:32,Savannah State,Zaquavian Smith,Defensive Rebound,3,14
+15:20,Georgia,E'Torrion Wilridge,Foul,3,14
+15:20,Savannah State,Jahlin Smith,Free Throw,4,14
+15:20,Savannah State,Jahlin Smith,Missed Free Throw,4,14
+15:20,Georgia,Amanze Ngumezi,Defensive Rebound,4,14
+15:11,Georgia,Jordan Harris,Missed Three Point Jumper,4,14
+15:11,Georgia,Amanze Ngumezi,Offensive Rebound,4,14
+15:00,Georgia,Tye Fagan,Turnover,4,14
+14:49,Savannah State,Zach Sellers,Missed Jumper,4,14
+14:49,Georgia,Tyree Crump,Defensive Rebound,4,14
+14:46,Georgia,Tyree Crump,Turnover,4,14
+14:36,Savannah State,Zaquavian Smith,Jumper,6,14
+14:15,Georgia,Amanze Ngumezi,Missed Jumper,6,14
+14:15,Savannah State,Jahlin Smith,Block,6,14
+14:13,Savannah State,Jahlin Smith,Defensive Rebound,6,14
+14:08,Savannah State,Zaquavian Smith,Turnover,6,14
+14:07,Georgia,Tyree Crump,Steal,6,14
+14:04,Georgia,Amanze Ngumezi,Dunk,6,16
+13:50,Savannah State,Adam Saeed,Layup,8,16
+13:38,Georgia,Tye Fagan,Missed Three Point Jumper,8,16
+13:38,Savannah State,Zach Sellers,Defensive Rebound,8,16
+13:30,Savannah State,Jahlin Smith,Three Point Jumper,11,16
+13:12,Georgia,Tyree Crump,Missed Three Point Jumper,11,16
+13:12,Georgia,Nicolas Claxton,Offensive Rebound,11,16
+13:08,Georgia,None,None,11,16
+13:08,Savannah State,Amaru Bryant,Defensive Rebound,11,16
+12:59,Savannah State,Collins Joseph,Missed Jumper,11,16
+12:59,Georgia,Nicolas Claxton,Block,11,16
+12:58,Savannah State,Savannah State,Offensive Rebound,11,16
+12:57,Savannah State,Zach Sellers,Turnover,11,16
+12:48,Georgia,Tyree Crump,Three Point Jumper,11,19
+12:38,Savannah State,Zach Sellers,Missed Three Point Jumper,11,19
+12:38,Georgia,Tyree Crump,Defensive Rebound,11,19
+12:26,Georgia,Tyree Crump,Three Point Jumper,11,22
+11:55,Savannah State,Romani Hansen,Jumper,13,22
+11:41,Georgia,Tyree Crump,Three Point Jumper,13,25
+11:30,Savannah State,Amaru Bryant,Missed Three Point Jumper,13,25
+11:30,Georgia,Tyree Crump,Defensive Rebound,13,25
+11:23,Savannah State,Zach Sellers,Foul,13,25
+11:23,Georgia,None,None,13,25
+11:23,Georgia,Nicolas Claxton,Free Throw,13,26
+11:23,Georgia,Nicolas Claxton,Free Throw,13,27
+11:18,Savannah State,Zaquavian Smith,Missed Three Point Jumper,13,27
+11:18,Georgia,Nicolas Claxton,Defensive Rebound,13,27
+11:09,Georgia,JoJo Toppin,Layup,13,29
+10:59,Savannah State,Romani Hansen,Turnover,13,29
+10:59,Savannah State,Romani Hansen,Foul,13,29
+10:50,Georgia,Tyree Crump,Three Point Jumper,13,32
+10:35,Savannah State,Collins Joseph,Missed Three Point Jumper,13,32
+10:35,Georgia,Tyree Crump,Defensive Rebound,13,32
+10:23,Georgia,JoJo Toppin,Missed Three Point Jumper,13,32
+10:23,Savannah State,Collins Joseph,Defensive Rebound,13,32
+10:16,Savannah State,Collins Joseph,Turnover,13,32
+10:03,Georgia,Ignas Sargiunas,Missed Three Point Jumper,13,32
+10:03,Savannah State,Tyrel Harper,Defensive Rebound,13,32
+9:56,Savannah State,Jaquan Dotson,Layup,15,32
+9:38,Georgia,Rayshaun Hammonds,Missed Jumper,15,32
+9:38,Savannah State,None,Team Rebound,15,32
+9:37,Georgia,Rayshaun Hammonds,Foul,15,32
+9:27,Savannah State,Zaquavian Smith,Jumper,17,32
+9:10,Georgia,William Jackson II,Missed Three Point Jumper,17,32
+9:10,Savannah State,Zaquavian Smith,Defensive Rebound,17,32
+9:02,Savannah State,Jahlin Smith,Three Point Jumper,20,32
+8:45,Georgia,William Jackson II,Turnover,20,32
+8:38,Savannah State,Adam Saeed,Missed Three Point Jumper,20,32
+8:38,Savannah State,Jaquan Dotson,Offensive Rebound,20,32
+8:31,Savannah State,Adam Saeed,Missed Three Point Jumper,20,32
+8:31,Georgia,Rayshaun Hammonds,Defensive Rebound,20,32
+8:20,Georgia,Ignas Sargiunas,Missed Three Point Jumper,20,32
+8:20,Georgia,Derek Ogbeide,Offensive Rebound,20,32
+8:16,Georgia,None,None,20,34
+8:09,Savannah State,Jahlin Smith,Missed Three Point Jumper,20,34
+8:09,Georgia,Derek Ogbeide,Defensive Rebound,20,34
+8:02,Georgia,Ignas Sargiunas,Layup,20,36
+7:51,Savannah State,Jahlin Smith,Missed Jumper,20,36
+7:51,Georgia,Nicolas Claxton,Defensive Rebound,20,36
+7:42,Georgia,Nicolas Claxton,Missed Three Point Jumper,20,36
+7:42,Savannah State,Jaquan Dotson,Defensive Rebound,20,36
+7:34,Savannah State,Zaquavian Smith,Missed Three Point Jumper,20,36
+7:34,Savannah State,Zach Sellers,Offensive Rebound,20,36
+7:30,Savannah State,Jaquan Dotson,Missed Three Point Jumper,20,36
+7:30,Georgia,Rayshaun Hammonds,Defensive Rebound,20,36
+7:15,Georgia,Nicolas Claxton,Dunk,20,38
+7:14,Georgia,None,None,20,38
+7:14,Savannah State,None,None,20,38
+7:04,Savannah State,Collins Joseph,Missed Jumper,20,38
+7:04,Savannah State,Zach Sellers,Offensive Rebound,20,38
+6:53,Savannah State,John Grant Jr.,Missed Three Point Jumper,20,38
+6:53,Savannah State,Tyrel Harper,Offensive Rebound,20,38
+6:44,Georgia,Derek Ogbeide,Foul,20,38
+6:39,Savannah State,Tyrel Harper,Turnover,20,38
+6:24,Georgia,Teshaun Hightower,Missed Three Point Jumper,20,38
+6:24,Georgia,Georgia,Offensive Rebound,20,38
+6:11,Georgia,Teshaun Hightower,Three Point Jumper,20,41
+6:01,Savannah State,Romani Hansen,Missed Jumper,20,41
+6:01,Georgia,Rayshaun Hammonds,Defensive Rebound,20,41
+5:48,Georgia,Derek Ogbeide,Layup,20,43
+5:41,Savannah State,Zach Sellers,Three Point Jumper,23,43
+5:18,Georgia,Teshaun Hightower,Three Point Jumper,23,46
+5:10,Savannah State,Collins Joseph,Missed Three Point Jumper,23,46
+5:10,Georgia,Derek Ogbeide,Defensive Rebound,23,46
+4:37,Georgia,Georgia ,Turnover,23,46
+4:29,Savannah State,Jahlin Smith,Layup,25,46
+4:17,Georgia,Derek Ogbeide,Turnover,25,46
+4:06,Savannah State,Zach Sellers,Turnover,25,46
+4:06,Georgia,Teshaun Hightower,Steal,25,46
+4:02,Georgia,Mike Edwards,Dunk,25,48
+3:50,Savannah State,Jahlin Smith,Turnover,25,48
+3:50,Georgia,Tye Fagan,Steal,25,48
+3:48,Georgia,Tye Fagan,Turnover,25,48
+3:48,Georgia,None,None,25,48
+3:35,Savannah State,Jaquan Dotson,Three Point Jumper,28,48
+3:18,Georgia,Nicolas Claxton,Missed Layup,28,48
+3:18,Georgia,Nicolas Claxton,Offensive Rebound,28,48
+3:17,Savannah State,Jaquan Dotson,Foul,28,48
+3:17,Georgia,Nicolas Claxton,Free Throw,28,49
+3:17,Georgia,Nicolas Claxton,Missed Free Throw,28,49
+3:17,Georgia,Jordan Harris,Offensive Rebound,28,49
+3:13,Georgia,Tyree Crump,Missed Three Point Jumper,28,49
+3:13,Georgia,Nicolas Claxton,Offensive Rebound,28,49
+3:11,Savannah State,Tyrel Harper,Foul,28,49
+3:11,Georgia,Nicolas Claxton,Free Throw,28,50
+3:11,Georgia,Nicolas Claxton,Missed Free Throw,28,50
+3:11,Savannah State,Jaquan Dotson,Defensive Rebound,28,50
+2:58,Savannah State,Zach Sellers,Missed Three Point Jumper,28,50
+2:58,Savannah State,None,Team Rebound,28,50
+2:56,Georgia,Jordan Harris,Foul,28,50
+2:46,Savannah State,Jaquan Dotson,Missed Three Point Jumper,28,50
+2:46,Georgia,Nicolas Claxton,Defensive Rebound,28,50
+2:45,Savannah State,Jahlin Smith,Foul,28,50
+2:45,Georgia,Nicolas Claxton,Missed Free Throw,28,50
+2:45,Savannah State,Romani Hansen,Defensive Rebound,28,50
+2:38,Savannah State,Zaquavian Smith,Missed Dunk,28,50
+2:38,Georgia,Amanze Ngumezi,Defensive Rebound,28,50
+2:33,Georgia,Jordan Harris,Dunk,28,52
+2:22,Savannah State,Zaquavian Smith,Three Point Jumper,31,52
+2:09,Georgia,Teshaun Hightower,Three Point Jumper,31,55
+1:57,Savannah State,Jahlin Smith,Missed Three Point Jumper,31,55
+1:57,Georgia,Nicolas Claxton,Defensive Rebound,31,55
+1:47,Georgia,Tyree Crump,Missed Layup,31,55
+1:47,Savannah State,Jahlin Smith,Defensive Rebound,31,55
+1:43,Savannah State,Zaquavian Smith,Missed Layup,31,55
+1:43,Georgia,Nicolas Claxton,Block,31,55
+1:41,Georgia,Teshaun Hightower,Defensive Rebound,31,55
+1:36,Georgia,Teshaun Hightower,Turnover,31,55
+1:35,Savannah State,Jahlin Smith,Steal,31,55
+1:34,Savannah State,Jaquan Dotson,Turnover,31,55
+1:17,Georgia,Jordan Harris,Missed Layup,31,55
+1:17,Georgia,Nicolas Claxton,Offensive Rebound,31,55
+1:14,Georgia,None,None,31,55
+1:14,Georgia,Nicolas Claxton,Offensive Rebound,31,55
+1:12,Georgia,None,None,31,57
+0:57,Savannah State,John Grant Jr.,Missed Three Point Jumper,31,57
+0:57,Savannah State,Adam Saeed,Offensive Rebound,31,57
+0:55,Georgia,Jordan Harris,Foul,31,57
+0:53,Savannah State,Collins Joseph,Turnover,31,57
+0:50,Georgia,Derek Ogbeide,Layup,31,59
+0:50,Savannah State,Romani Hansen,Foul,31,59
+0:50,Georgia,Derek Ogbeide,Missed Free Throw,31,59
+0:50,Savannah State,John Grant Jr.,Defensive Rebound,31,59
+0:44,Georgia,Ignas Sargiunas,Foul,31,59
+0:44,Georgia,JoJo Toppin,Foul,31,59
+0:44,Savannah State,John Grant Jr.,Missed Free Throw,31,59
+0:44,Georgia,Nicolas Claxton,Defensive Rebound,31,59
+0:29,Georgia,JoJo Toppin,Turnover,31,59
+0:29,Georgia,JoJo Toppin,Foul,31,59
+0:04,Savannah State,Collins Joseph,Three Point Jumper,34,59
+0:00,Georgia,None,None,34,59
+19:51,Savannah State,Zaquavian Smith,Three Point Jumper,37,59
+19:49,Savannah State,None,None,37,59
+19:30,Georgia,Derek Ogbeide,Turnover,37,59
+19:30,Georgia,Derek Ogbeide,Foul,37,59
+19:12,Savannah State,Jahlin Smith,Turnover,37,59
+18:45,Georgia,Nicolas Claxton,Missed Three Point Jumper,37,59
+18:45,Georgia,Teshaun Hightower,Offensive Rebound,37,59
+18:41,Georgia,None,None,37,59
+18:41,Savannah State,Tyrel Harper,Defensive Rebound,37,59
+18:35,Savannah State,Jaquan Dotson,Three Point Jumper,40,59
+18:11,Georgia,Nicolas Claxton,Missed Jumper,40,59
+18:11,Savannah State,Jaquan Dotson,Block,40,59
+18:10,Savannah State,Zach Sellers,Defensive Rebound,40,59
+18:07,Savannah State,Jahlin Smith,Three Point Jumper,43,59
+17:53,Savannah State,Jaquan Dotson,Foul,43,59
+17:53,Georgia,Rayshaun Hammonds,Free Throw,43,60
+17:53,Georgia,Rayshaun Hammonds,Missed Free Throw,43,60
+17:53,Savannah State,Jaquan Dotson,Defensive Rebound,43,60
+17:46,Savannah State,Zach Sellers,Three Point Jumper,46,60
+17:31,Savannah State,Jaquan Dotson,Foul,46,60
+17:31,Georgia,Teshaun Hightower,Missed Free Throw,46,60
+17:31,Georgia,None,Team Rebound,46,60
+17:31,Georgia,Teshaun Hightower,Free Throw,46,61
+17:19,Savannah State,Jaquan Dotson,Three Point Jumper,49,61
+17:05,Georgia,Derek Ogbeide,Dunk,49,63
+16:59,Savannah State,Jaquan Dotson,Missed Three Point Jumper,49,63
+16:59,Georgia,Rayshaun Hammonds,Defensive Rebound,49,63
+16:51,Georgia,Jordan Harris,Turnover,49,63
+16:50,Savannah State,Tyrel Harper,Steal,49,63
+16:48,Savannah State,Zaquavian Smith,Missed Layup,49,63
+16:48,Georgia,Rayshaun Hammonds,Block,49,63
+16:45,Savannah State,Zaquavian Smith,Offensive Rebound,49,63
+16:37,Savannah State,Jahlin Smith,Missed Layup,49,63
+16:37,Georgia,Tye Fagan,Defensive Rebound,49,63
+16:28,Georgia,Derek Ogbeide,Turnover,49,63
+16:28,Georgia,Derek Ogbeide,Foul,49,63
+16:11,Georgia,Derek Ogbeide,Foul,49,63
+16:05,Savannah State,Jaquan Dotson,Missed Three Point Jumper,49,63
+16:05,Georgia,E'Torrion Wilridge,Defensive Rebound,49,63
+16:01,Georgia,E'Torrion Wilridge,Turnover,49,63
+15:40,Savannah State,Romani Hansen,Turnover,49,63
+15:40,Georgia,Tyree Crump,Steal,49,63
+15:38,Savannah State,Romani Hansen,Foul,49,63
+15:38,Georgia,None,None,49,63
+15:27,Georgia,Jordan Harris,Turnover,49,63
+15:19,Savannah State,Jaquan Dotson,Turnover,49,63
+15:05,Savannah State,Tyrel Harper,Foul,49,63
+14:51,Georgia,Ignas Sargiunas,Turnover,49,63
+14:50,Savannah State,Zaquavian Smith,Steal,49,63
+14:47,Savannah State,Zach Sellers,Missed Layup,49,63
+14:47,Georgia,Tye Fagan,Block,49,63
+14:45,Savannah State,Adam Saeed,Offensive Rebound,49,63
+14:43,Savannah State,None,None,51,63
+14:27,Georgia,Mike Edwards,Missed Dunk,51,63
+14:27,Savannah State,Zach Sellers,Defensive Rebound,51,63
+14:23,Savannah State,Zaquavian Smith,Three Point Jumper,54,63
+14:21,Savannah State,None,None,54,63
+14:04,Georgia,William Jackson II,Three Point Jumper,54,66
+13:50,Savannah State,Zach Sellers,Turnover,54,66
+13:49,Georgia,William Jackson II,Steal,54,66
+13:41,Georgia,Tye Fagan,Layup,54,68
+13:41,Savannah State,Adam Saeed,Foul,54,68
+13:41,Georgia,Tye Fagan,Free Throw,54,69
+13:36,Savannah State,Zaquavian Smith,Missed Three Point Jumper,54,69
+13:36,Savannah State,Jaquan Dotson,Offensive Rebound,54,69
+13:26,Savannah State,Tyrel Harper,Missed Layup,54,69
+13:26,Savannah State,Zaquavian Smith,Offensive Rebound,54,69
+13:22,Savannah State,Zaquavian Smith,Jumper,56,69
+13:04,Georgia,Nicolas Claxton,Dunk,56,71
+12:52,Savannah State,Jahlin Smith,Dunk,58,71
+12:37,Georgia,Tye Fagan,Turnover,58,71
+12:37,Savannah State,Zaquavian Smith,Steal,58,71
+12:31,Savannah State,Zach Sellers,Three Point Jumper,61,71
+12:19,Savannah State,Tyrel Harper,Foul,61,71
+12:19,Georgia,Tyree Crump,Free Throw,61,72
+12:19,Georgia,Tyree Crump,Missed Free Throw,61,72
+12:19,Georgia,None,Team Rebound,61,72
+12:19,Georgia,Tyree Crump,Free Throw,61,73
+11:50,Savannah State,Zach Sellers,Missed Three Point Jumper,61,73
+11:50,Georgia,JoJo Toppin,Defensive Rebound,61,73
+11:41,Georgia,Tyree Crump,Missed Three Point Jumper,61,73
+11:41,Georgia,JoJo Toppin,Offensive Rebound,61,73
+11:39,Savannah State,Jahlin Smith,Foul,61,73
+11:39,Georgia,None,None,61,73
+11:39,Georgia,JoJo Toppin,Free Throw,61,74
+11:39,Georgia,JoJo Toppin,Free Throw,61,75
+11:29,Savannah State,Zaquavian Smith,Missed Jumper,61,75
+11:29,Savannah State,Adam Saeed,Offensive Rebound,61,75
+11:26,Savannah State,Zach Sellers,Missed Three Point Jumper,61,75
+11:26,Georgia,William Jackson II,Defensive Rebound,61,75
+11:18,Georgia,William Jackson II,Turnover,61,75
+11:17,Savannah State,Adam Saeed,Steal,61,75
+11:13,Savannah State,Jahlin Smith,Three Point Jumper,64,75
+10:50,Georgia,Rayshaun Hammonds,Jumper,64,77
+10:41,Savannah State,Adam Saeed,Missed Three Point Jumper,64,77
+10:41,Georgia,Rayshaun Hammonds,Defensive Rebound,64,77
+10:34,Georgia,Rayshaun Hammonds,Turnover,64,77
+10:33,Savannah State,Jahlin Smith,Steal,64,77
+10:27,Savannah State,Romani Hansen,Missed Three Point Jumper,64,77
+10:27,Georgia,JoJo Toppin,Defensive Rebound,64,77
+10:01,Georgia,Rayshaun Hammonds,Missed Jumper,64,77
+10:01,Savannah State,Jahlin Smith,Defensive Rebound,64,77
+9:43,Savannah State,Romani Hansen,Missed Three Point Jumper,64,77
+9:43,Georgia,Tye Fagan,Defensive Rebound,64,77
+9:34,Georgia,Tyree Crump,Missed Three Point Jumper,64,77
+9:34,Georgia,William Jackson II,Offensive Rebound,64,77
+9:26,Georgia,Rayshaun Hammonds,Layup,64,79
+9:16,Savannah State,Zach Sellers,Missed Jumper,64,79
+9:16,Georgia,Tye Fagan,Defensive Rebound,64,79
+9:02,Savannah State,Jahlin Smith,Foul,64,79
+9:02,Georgia,Rayshaun Hammonds,Free Throw,64,80
+9:02,Georgia,Rayshaun Hammonds,Missed Free Throw,64,80
+9:02,Savannah State,John Grant Jr.,Defensive Rebound,64,80
+8:46,Savannah State,Zaquavian Smith,Missed Three Point Jumper,64,80
+8:46,Savannah State,Jahlin Smith,Offensive Rebound,64,80
+8:35,Savannah State,Jaquan Dotson,Missed Three Point Jumper,64,80
+8:35,Georgia,Nicolas Claxton,Defensive Rebound,64,80
+8:31,Savannah State,John Grant Jr.,Foul,64,80
+8:31,Georgia,Nicolas Claxton,Free Throw,64,81
+8:31,Georgia,Nicolas Claxton,Missed Free Throw,64,81
+8:31,Georgia,Tyree Crump,Offensive Rebound,64,81
+8:23,Georgia,E'Torrion Wilridge,Three Point Jumper,64,84
+8:12,Savannah State,Jaquan Dotson,Turnover,64,84
+8:00,Savannah State,Jahlin Smith,Foul,64,84
+8:00,Georgia,None,None,64,84
+8:00,Georgia,Amanze Ngumezi,Free Throw,64,85
+8:00,Georgia,Amanze Ngumezi,Free Throw,64,86
+7:54,Savannah State,Zach Sellers,Turnover,64,86
+7:41,Georgia,Nicolas Claxton,Turnover,64,86
+7:41,Georgia,Nicolas Claxton,Foul,64,86
+7:33,Savannah State,Zach Sellers,Jumper,66,86
+7:10,Georgia,Nicolas Claxton,Missed Jumper,66,86
+7:10,Savannah State,Romani Hansen,Block,66,86
+7:09,Savannah State,Romani Hansen,Defensive Rebound,66,86
+7:00,Savannah State,Zach Sellers,Missed Three Point Jumper,66,86
+7:00,Georgia,Teshaun Hightower,Defensive Rebound,66,86
+6:52,Georgia,Tyree Crump,Missed Layup,66,86
+6:52,Savannah State,Romani Hansen,Block,66,86
+6:51,Savannah State,Romani Hansen,Defensive Rebound,66,86
+6:42,Savannah State,John Grant Jr.,Turnover,66,86
+6:41,Georgia,E'Torrion Wilridge,Steal,66,86
+6:37,Savannah State,Adam Saeed,Foul,66,86
+6:37,Georgia,Amanze Ngumezi,Free Throw,66,87
+6:37,Georgia,Amanze Ngumezi,Missed Free Throw,66,87
+6:37,Savannah State,Zaquavian Smith,Defensive Rebound,66,87
+6:29,Savannah State,Zach Sellers,Missed Layup,66,87
+6:29,Georgia,Nicolas Claxton,Block,66,87
+6:28,Georgia,Nicolas Claxton,Defensive Rebound,66,87
+6:21,Georgia,Amanze Ngumezi,Three Point Jumper,66,90
+6:10,Georgia,Nicolas Claxton,Foul,66,90
+6:03,Savannah State,Romani Hansen,Missed Three Point Jumper,66,90
+6:03,Georgia,William Jackson II,Defensive Rebound,66,90
+5:53,Georgia,Teshaun Hightower,Layup,66,92
+5:44,Savannah State,Collins Joseph,Missed Layup,66,92
+5:44,Georgia,Nicolas Claxton,Block,66,92
+5:44,Savannah State,Savannah State,Offensive Rebound,66,92
+5:41,Savannah State,Zach Sellers,Missed Three Point Jumper,66,92
+5:41,Georgia,Rayshaun Hammonds,Defensive Rebound,66,92
+5:29,Georgia,E'Torrion Wilridge,Dunk,66,94
+5:20,Savannah State,Zaquavian Smith,Missed Layup,66,94
+5:20,Georgia,Georgia,Defensive Rebound,66,94
+5:08,Georgia,Amanze Ngumezi,Turnover,66,94
+5:06,Savannah State,Jaquan Dotson,Missed Layup,66,94
+5:05,Georgia,William Jackson II,Defensive Rebound,66,94
+4:39,Georgia,Amanze Ngumezi,Dunk,66,96
+4:28,Savannah State,Zaquavian Smith,Layup,68,96
+4:27,Savannah State,None,None,68,96
+4:27,Georgia,None,None,68,96
+4:24,Georgia,Amanze Ngumezi,Turnover,68,96
+4:24,Georgia,Amanze Ngumezi,Foul,68,96
+4:19,Savannah State,Tyrel Harper,Missed Layup,68,96
+4:19,Georgia,E'Torrion Wilridge,Block,68,96
+4:18,Georgia,William Jackson II,Defensive Rebound,68,96
+4:05,Georgia,William Jackson II,Layup,68,98
+3:57,Savannah State,Zaquavian Smith,Missed Three Point Jumper,68,98
+3:57,Savannah State,Tyrel Harper,Offensive Rebound,68,98
+3:50,Savannah State,Zaquavian Smith,Missed Three Point Jumper,68,98
+3:50,Savannah State,Jaquan Dotson,Offensive Rebound,68,98
+3:43,Savannah State,Jaquan Dotson,Turnover,68,98
+3:42,Georgia,Rayshaun Hammonds,Steal,68,98
+3:40,Savannah State,Tyrel Harper,Foul,68,98
+3:40,Georgia,Teshaun Hightower,Free Throw,68,99
+3:40,Georgia,Teshaun Hightower,Missed Free Throw,68,99
+3:40,Savannah State,Jahlin Smith,Defensive Rebound,68,99
+3:37,Savannah State,Jahlin Smith,Turnover,68,99
+3:37,Georgia,Teshaun Hightower,Steal,68,99
+3:35,Georgia,Teshaun Hightower,Missed Layup,68,99
+3:35,Savannah State,Zach Sellers,Defensive Rebound,68,99
+3:28,Savannah State,Zach Sellers,Three Point Jumper,71,99
+3:01,Georgia,Teshaun Hightower,Missed Three Point Jumper,71,99
+3:01,Georgia,Ignas Sargiunas,Offensive Rebound,71,99
+2:57,Georgia,Rayshaun Hammonds,Layup,71,101
+2:38,Savannah State,Collins Joseph,Missed Three Point Jumper,71,101
+2:38,Georgia,Rayshaun Hammonds,Defensive Rebound,71,101
+2:26,Georgia,Teshaun Hightower,Layup,71,103
+2:12,Savannah State,Jahlin Smith,Missed Three Point Jumper,71,103
+2:12,Georgia,Teshaun Hightower,Defensive Rebound,71,103
+1:42,Georgia,Teshaun Hightower,Missed Three Point Jumper,71,103
+1:42,Savannah State,Jahlin Smith,Defensive Rebound,71,103
+1:34,Savannah State,Jahlin Smith,Missed Jumper,71,103
+1:34,Georgia,William Jackson II,Defensive Rebound,71,103
+1:28,Georgia,Ignas Sargiunas,Layup,71,105
+1:27,Georgia,None,None,71,105
+1:16,Savannah State,John Grant Jr.,Layup,73,105
+0:58,Georgia,Ignas Sargiunas,Three Point Jumper,73,108
+0:46,Savannah State,Collins Joseph,Missed Jumper,73,108
+0:46,Georgia,Connor O'Neill,Defensive Rebound,73,108
+0:35,Georgia,Christian Harrison,Dunk,73,110
+0:22,Savannah State,John Grant Jr.,Three Point Jumper,76,110
+0:00,Georgia,None,None,76,110

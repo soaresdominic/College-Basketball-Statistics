@@ -1,0 +1,346 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Syracuse,None,None,0,0
+19:38,Syracuse,Paschal Chukwu,Missed Layup,0,0
+19:38,Duke,Tre Jones,Defensive Rebound,0,0
+19:33,Duke,Cam Reddish,Missed Three Point Jumper,0,0
+19:33,Duke,Alex O'Connell,Offensive Rebound,0,0
+19:28,Duke,Javin DeLaurier,Turnover,0,0
+19:22,Syracuse,Tyus Battle,Missed Jumper,0,0
+19:22,Syracuse,Paschal Chukwu,Offensive Rebound,0,0
+19:17,Syracuse,Frank Howard,Three Point Jumper,0,3
+19:17,Duke,RJ Barrett,Turnover,0,3
+19:17,Syracuse,Oshae Brissett,Steal,0,3
+18:22,Syracuse,Oshae Brissett,Missed Jumper,0,3
+18:22,Duke,Cam Reddish,Block,0,3
+18:22,Syracuse,Paschal Chukwu,Offensive Rebound,0,3
+18:18,Syracuse,Paschal Chukwu,Missed Layup,0,3
+18:18,Duke,Cam Reddish,Block,0,3
+18:18,Syracuse,Syracuse,Offensive Rebound,0,3
+18:11,Syracuse,Syracuse ,Turnover,0,3
+17:58,Duke,Alex O'Connell,Missed Three Point Jumper,0,3
+17:58,Syracuse,Elijah Hughes,Defensive Rebound,0,3
+17:49,Syracuse,Oshae Brissett,Missed Three Point Jumper,0,3
+17:49,Duke,Duke,Defensive Rebound,0,3
+17:49,Syracuse,Paschal Chukwu,Foul,0,3
+17:41,Duke,Cam Reddish,Missed Three Point Jumper,0,3
+17:41,Syracuse,Frank Howard,Defensive Rebound,0,3
+17:30,Syracuse,Frank Howard,Missed Three Point Jumper,0,3
+17:30,Duke,Javin DeLaurier,Defensive Rebound,0,3
+17:21,Duke,RJ Barrett,Layup,2,3
+17:00,Syracuse,Elijah Hughes,Missed Jumper,2,3
+17:00,Syracuse,Paschal Chukwu,Offensive Rebound,2,3
+16:54,Syracuse,Paschal Chukwu,Layup,2,5
+16:40,Duke,RJ Barrett,Layup,4,5
+16:05,Syracuse,Tyus Battle,Missed Jumper,4,5
+16:05,Syracuse,Tyus Battle,Offensive Rebound,4,5
+16:01,Syracuse,Oshae Brissett,Missed Layup,4,5
+16:01,Duke,Javin DeLaurier,Block,4,5
+16:01,Duke,Javin DeLaurier,Defensive Rebound,4,5
+16:00,Duke,RJ Barrett,Missed Three Point Jumper,4,5
+16:00,Syracuse,Paschal Chukwu,Defensive Rebound,4,5
+15:40,Syracuse,None,None,4,5
+15:22,Syracuse,Oshae Brissett,Missed Jumper,4,5
+15:22,Duke,RJ Barrett,Defensive Rebound,4,5
+15:13,Duke,Tre Jones,Three Point Jumper,7,5
+14:46,Syracuse,Oshae Brissett,Missed Jumper,7,5
+14:46,Duke,RJ Barrett,Defensive Rebound,7,5
+14:32,Duke,RJ Barrett,Missed Jumper,7,5
+14:32,Syracuse,Marek Dolezaj,Defensive Rebound,7,5
+14:21,Syracuse,Tyus Battle,Missed Three Point Jumper,7,5
+14:21,Syracuse,Oshae Brissett,Offensive Rebound,7,5
+14:15,Syracuse,Frank Howard,Three Point Jumper,7,8
+14:01,Duke,Cam Reddish,Missed Three Point Jumper,7,8
+14:01,Syracuse,Elijah Hughes,Defensive Rebound,7,8
+13:51,Syracuse,Elijah Hughes,Layup,7,10
+13:32,Duke,Tre Jones,Missed Three Point Jumper,7,10
+13:32,Syracuse,Syracuse,Defensive Rebound,7,10
+13:12,Syracuse,Marek Dolezaj,Missed Jumper,7,10
+13:12,Duke,Joey Baker,Defensive Rebound,7,10
+13:03,Duke,Antonio Vrankovic,Turnover,7,10
+13:03,Duke,Antonio Vrankovic,Foul,7,10
+12:43,Syracuse,Elijah Hughes,Missed Three Point Jumper,7,10
+12:43,Duke,Joey Baker,Defensive Rebound,7,10
+12:22,Duke,Joey Baker,Turnover,7,10
+12:22,Syracuse,Oshae Brissett,Steal,7,10
+12:12,Syracuse,Buddy Boeheim,Turnover,7,10
+12:12,Duke,Cam Reddish,Steal,7,10
+12:07,Duke,Cam Reddish,Missed Dunk,7,10
+12:07,Syracuse,Elijah Hughes,Block,7,10
+12:07,Duke,Duke,Offensive Rebound,7,10
+11:51,Duke,RJ Barrett,Jumper,9,10
+11:28,Syracuse,Frank Howard,Missed Jumper,9,10
+11:28,Duke,Antonio Vrankovic,Defensive Rebound,9,10
+11:12,Duke,Joey Baker,Missed Three Point Jumper,9,10
+11:12,Syracuse,Elijah Hughes,Defensive Rebound,9,10
+11:05,Syracuse,Frank Howard,Jumper,9,12
+10:48,Duke,Cam Reddish,Jumper,11,12
+10:32,Syracuse,None,None,11,12
+10:20,Syracuse,Elijah Hughes,Jumper,11,14
+9:57,Duke,Alex O'Connell,Three Point Jumper,14,14
+9:44,Syracuse,Tyus Battle,Three Point Jumper,14,17
+9:16,Duke,RJ Barrett,Three Point Jumper,17,17
+8:51,Syracuse,Elijah Hughes,Three Point Jumper,17,20
+8:30,Duke,Tre Jones,Missed Jumper,17,20
+8:30,Duke,Javin DeLaurier,Offensive Rebound,17,20
+8:24,Syracuse,Marek Dolezaj,Foul,17,20
+8:18,Duke,RJ Barrett,Layup,19,20
+8:05,Syracuse,Tyus Battle,Jumper,19,22
+7:45,Duke,Javin DeLaurier,Dunk,21,22
+7:30,Syracuse,Tyus Battle,Missed Jumper,21,22
+7:30,Syracuse,Marek Dolezaj,Offensive Rebound,21,22
+7:20,Syracuse,Marek Dolezaj,Missed Three Point Jumper,21,22
+7:20,Duke,Cam Reddish,Defensive Rebound,21,22
+7:08,Syracuse,Paschal Chukwu,Foul,21,22
+7:08,Syracuse,None,None,21,22
+7:08,Duke,Javin DeLaurier,Free Throw,22,22
+7:08,Duke,Javin DeLaurier,Free Throw,23,22
+6:45,Syracuse,Marek Dolezaj,Layup,23,24
+6:27,Duke,Tre Jones,Missed Three Point Jumper,23,24
+6:27,Syracuse,Oshae Brissett,Defensive Rebound,23,24
+6:19,Syracuse,Marek Dolezaj,Layup,23,26
+6:04,Duke,Cam Reddish,Missed Three Point Jumper,23,26
+6:04,Syracuse,Elijah Hughes,Defensive Rebound,23,26
+5:43,Syracuse,Frank Howard,Missed Three Point Jumper,23,26
+5:43,Duke,Marques Bolden,Defensive Rebound,23,26
+5:35,Duke,Tre Jones,Missed Three Point Jumper,23,26
+5:35,Syracuse,Tyus Battle,Defensive Rebound,23,26
+5:28,Syracuse,Tyus Battle,Missed Layup,23,26
+5:28,Duke,Tre Jones,Defensive Rebound,23,26
+5:23,Syracuse,Marek Dolezaj,Foul,23,26
+5:16,Duke,Tre Jones,Missed Three Point Jumper,23,26
+5:16,Syracuse,Elijah Hughes,Defensive Rebound,23,26
+5:00,Syracuse,Marek Dolezaj,Dunk,23,28
+4:42,Duke,RJ Barrett,Jumper,25,28
+4:13,Syracuse,Marek Dolezaj,Turnover,25,28
+3:52,Duke,Javin DeLaurier,Missed Layup,25,28
+3:52,Syracuse,Paschal Chukwu,Block,25,28
+3:52,Syracuse,Oshae Brissett,Defensive Rebound,25,28
+3:35,Syracuse,Oshae Brissett,Jumper,25,30
+3:15,Duke,RJ Barrett,Missed Jumper,25,30
+3:15,Syracuse,Tyus Battle,Defensive Rebound,25,30
+3:03,Syracuse,Buddy Boeheim,Missed Three Point Jumper,25,30
+3:03,Syracuse,Paschal Chukwu,Offensive Rebound,25,30
+2:40,Syracuse,Oshae Brissett,Foul,25,30
+2:40,Syracuse,Oshae Brissett,Turnover,25,30
+2:40,Syracuse,None,None,25,30
+2:26,Duke,Javin DeLaurier,Missed Layup,25,30
+2:26,Duke,Duke,Offensive Rebound,25,30
+2:12,Duke,RJ Barrett,Layup,27,30
+1:42,Syracuse,Frank Howard,Missed Three Point Jumper,27,30
+1:42,Syracuse,Frank Howard,Offensive Rebound,27,30
+1:22,Syracuse,Paschal Chukwu,Dunk,27,32
+0:53,Duke,RJ Barrett,Jumper,29,32
+0:29,Syracuse,Tyus Battle,Missed Jumper,29,32
+0:29,Syracuse,Oshae Brissett,Offensive Rebound,29,32
+0:25,Syracuse,Oshae Brissett,Missed Layup,29,32
+0:25,Duke,Javin DeLaurier,Block,29,32
+0:25,Duke,Alex O'Connell,Defensive Rebound,29,32
+0:21,Duke,None,None,29,32
+0:19,Duke,Cam Reddish,Missed Three Point Jumper,29,32
+0:19,Syracuse,Frank Howard,Defensive Rebound,29,32
+0:15,Duke,Alex O'Connell,Foul,29,32
+0:15,Syracuse,None,None,29,32
+0:11,Duke,Joey Baker,Foul,29,32
+0:09,Duke,Joey Baker,Foul,29,32
+0:03,Duke,Joey Baker,Foul,29,32
+0:03,Syracuse,Frank Howard,Free Throw,29,33
+0:03,Syracuse,Frank Howard,Free Throw,29,34
+0:00,Syracuse,None,None,29,34
+20:00,Duke,None,None,29,34
+19:46,Syracuse,Paschal Chukwu,Foul,29,34
+19:46,Duke,Tre Jones,Free Throw,30,34
+19:46,Duke,Tre Jones,Free Throw,31,34
+19:30,Syracuse,Oshae Brissett,Layup,31,36
+19:09,Duke,RJ Barrett,Layup,33,36
+18:44,Syracuse,Oshae Brissett,Missed Three Point Jumper,33,36
+18:44,Duke,Alex O'Connell,Defensive Rebound,33,36
+18:30,Duke,Tre Jones,Jumper,35,36
+18:12,Duke,Javin DeLaurier,Foul,35,36
+18:12,Syracuse,Oshae Brissett,Free Throw,35,37
+18:12,Syracuse,Oshae Brissett,Missed Free Throw,35,37
+18:12,Duke,Cam Reddish,Defensive Rebound,35,37
+17:46,Duke,Alex O'Connell,Three Point Jumper,38,37
+17:21,Duke,Cam Reddish,Foul,38,37
+17:21,Syracuse,Tyus Battle,Free Throw,38,38
+17:21,Syracuse,Tyus Battle,Missed Free Throw,38,38
+17:21,Syracuse,None,Team Rebound,38,38
+17:21,Syracuse,Tyus Battle,Free Throw,38,39
+17:07,Duke,Tre Jones,Missed Jumper,38,39
+17:07,Syracuse,Elijah Hughes,Defensive Rebound,38,39
+16:54,Duke,Javin DeLaurier,Foul,38,39
+16:43,Syracuse,Oshae Brissett,Layup,38,41
+16:25,Duke,Alex O'Connell,Missed Three Point Jumper,38,41
+16:25,Duke,Javin DeLaurier,Offensive Rebound,38,41
+16:19,Syracuse,Tyus Battle,Foul,38,41
+16:19,Duke,Javin DeLaurier,Free Throw,39,41
+16:19,Duke,Javin DeLaurier,Missed Free Throw,39,41
+16:19,Syracuse,Oshae Brissett,Defensive Rebound,39,41
+16:08,Syracuse,Elijah Hughes,Dunk,39,43
+15:53,Duke,RJ Barrett,Jumper,41,43
+15:39,Syracuse,Oshae Brissett,Missed Jumper,41,43
+15:39,Duke,RJ Barrett,Defensive Rebound,41,43
+15:26,Duke,Javin DeLaurier,Missed Layup,41,43
+15:26,Syracuse,Marek Dolezaj,Block,41,43
+15:26,Duke,Javin DeLaurier,Offensive Rebound,41,43
+15:17,Duke,Javin DeLaurier,Missed Layup,41,43
+15:17,Duke,Javin DeLaurier,Offensive Rebound,41,43
+15:17,Duke,Alex O'Connell,Three Point Jumper,44,43
+15:17,Syracuse,Frank Howard,Foul,44,43
+15:17,Syracuse,None,None,44,43
+15:17,Duke,Alex O'Connell,Free Throw,45,43
+15:14,Syracuse,None,None,45,43
+14:57,Duke,Marques Bolden,Foul,45,43
+14:57,Syracuse,Elijah Hughes,Missed Free Throw,45,43
+14:57,Syracuse,None,Team Rebound,45,43
+14:57,Syracuse,Elijah Hughes,Free Throw,45,44
+14:45,Duke,Alex O'Connell,Three Point Jumper,48,44
+14:19,Syracuse,Elijah Hughes,Missed Jumper,48,44
+14:19,Syracuse,Frank Howard,Offensive Rebound,48,44
+14:09,Syracuse,Paschal Chukwu,Dunk,48,46
+13:55,Syracuse,Marek Dolezaj,Foul,48,46
+13:49,Duke,RJ Barrett,Jumper,50,46
+13:39,Syracuse,Tyus Battle,Missed Jumper,50,46
+13:39,Syracuse,Marek Dolezaj,Offensive Rebound,50,46
+13:34,Syracuse,Marek Dolezaj,Layup,50,48
+13:08,Duke,Tre Jones,Missed Three Point Jumper,50,48
+13:08,Duke,Alex O'Connell,Offensive Rebound,50,48
+13:05,Duke,Alex O'Connell,Turnover,50,48
+12:48,Syracuse,Tyus Battle,Layup,50,50
+12:31,Duke,Cam Reddish,Three Point Jumper,53,50
+12:18,Syracuse,Elijah Hughes,Missed Three Point Jumper,53,50
+12:18,Syracuse,Buddy Boeheim,Offensive Rebound,53,50
+12:14,Duke,Tre Jones,Foul,53,50
+12:09,Syracuse,Marek Dolezaj,Missed Layup,53,50
+12:09,Syracuse,Buddy Boeheim,Offensive Rebound,53,50
+12:03,Syracuse,Buddy Boeheim,Layup,53,52
+11:49,Duke,RJ Barrett,Missed Three Point Jumper,53,52
+11:49,Syracuse,Marek Dolezaj,Defensive Rebound,53,52
+11:35,Syracuse,Tyus Battle,Missed Layup,53,52
+11:35,Syracuse,Paschal Chukwu,Offensive Rebound,53,52
+11:32,Syracuse,Paschal Chukwu,Turnover,53,52
+11:32,Syracuse,None,None,53,52
+11:16,Duke,RJ Barrett,Turnover,53,52
+11:16,Syracuse,Marek Dolezaj,Steal,53,52
+10:46,Syracuse,None,None,53,52
+10:40,Syracuse,Syracuse ,Turnover,53,52
+10:28,Duke,Alex O'Connell,Three Point Jumper,56,52
+10:02,Syracuse,Paschal Chukwu,Missed Layup,56,52
+10:02,Duke,Javin DeLaurier,Defensive Rebound,56,52
+9:50,Syracuse,Tyus Battle,Foul,56,52
+9:44,Duke,Tre Jones,Turnover,56,52
+9:44,Syracuse,Oshae Brissett,Steal,56,52
+9:40,Syracuse,Tyus Battle,Missed Three Point Jumper,56,52
+9:40,Duke,Duke,Defensive Rebound,56,52
+9:19,Duke,RJ Barrett,Jumper,58,52
+9:08,Syracuse,None,None,58,52
+9:08,Syracuse,None,None,58,52
+9:03,Syracuse,Elijah Hughes,Missed Jumper,58,52
+9:03,Duke,Javin DeLaurier,Block,58,52
+9:03,Duke,Tre Jones,Defensive Rebound,58,52
+8:57,Duke,Tre Jones,Missed Layup,58,52
+8:57,Syracuse,Frank Howard,Block,58,52
+8:57,Duke,Duke,Offensive Rebound,58,52
+8:53,Duke,Cam Reddish,Missed Three Point Jumper,58,52
+8:53,Syracuse,Frank Howard,Block,58,52
+8:53,Duke,RJ Barrett,Offensive Rebound,58,52
+8:32,Duke,RJ Barrett,Turnover,58,52
+8:32,Syracuse,Marek Dolezaj,Steal,58,52
+8:30,Syracuse,Tyus Battle,Missed Layup,58,52
+8:30,Syracuse,Marek Dolezaj,Offensive Rebound,58,52
+8:26,Syracuse,Frank Howard,Missed Three Point Jumper,58,52
+8:26,Duke,Alex O'Connell,Defensive Rebound,58,52
+8:15,Syracuse,Marek Dolezaj,Foul,58,52
+8:11,Duke,Cam Reddish,Missed Three Point Jumper,58,52
+8:11,Syracuse,Frank Howard,Defensive Rebound,58,52
+8:08,Duke,Javin DeLaurier,Foul,58,52
+7:39,Syracuse,Oshae Brissett,Missed Layup,58,52
+7:39,Duke,Cam Reddish,Defensive Rebound,58,52
+7:24,Syracuse,None,None,58,52
+7:19,Duke,Cam Reddish,Turnover,58,52
+7:19,Syracuse,Marek Dolezaj,Steal,58,52
+7:12,Syracuse,Marek Dolezaj,Layup,58,54
+6:47,Duke,Cam Reddish,Missed Jumper,58,54
+6:47,Syracuse,Elijah Hughes,Defensive Rebound,58,54
+6:43,Duke,Javin DeLaurier,Foul,58,54
+6:43,Syracuse,Elijah Hughes,Free Throw,58,55
+6:43,Syracuse,Elijah Hughes,Free Throw,58,56
+6:14,Duke,RJ Barrett,Three Point Jumper,61,56
+6:02,Syracuse,Elijah Hughes,Missed Three Point Jumper,61,56
+6:02,Duke,Duke,Defensive Rebound,61,56
+5:42,Duke,RJ Barrett,Missed Jumper,61,56
+5:42,Duke,Marques Bolden,Offensive Rebound,61,56
+5:27,Duke,Tre Jones,Missed Three Point Jumper,61,56
+5:27,Syracuse,Frank Howard,Defensive Rebound,61,56
+5:15,Syracuse,Frank Howard,Turnover,61,56
+5:15,Duke,Alex O'Connell,Steal,61,56
+5:10,Duke,Alex O'Connell,Dunk,63,56
+4:56,Syracuse,Tyus Battle,Missed Jumper,63,56
+4:56,Duke,Cam Reddish,Defensive Rebound,63,56
+4:49,Duke,RJ Barrett,Dunk,65,56
+4:44,Syracuse,None,None,65,56
+4:36,Syracuse,Paschal Chukwu,Dunk,65,58
+4:19,Duke,Alex O'Connell,Missed Three Point Jumper,65,58
+4:18,Duke,Marques Bolden,Offensive Rebound,65,58
+4:17,Duke,Marques Bolden,Turnover,65,58
+3:57,Syracuse,Tyus Battle,Missed Jumper,65,58
+3:57,Duke,Cam Reddish,Defensive Rebound,65,58
+3:44,Duke,None,None,65,58
+3:28,Duke,Tre Jones,Missed Jumper,65,58
+3:28,Duke,Marques Bolden,Offensive Rebound,65,58
+3:14,Duke,Cam Reddish,Turnover,65,58
+3:14,Syracuse,Oshae Brissett,Steal,65,58
+2:58,Duke,Alex O'Connell,Foul,65,58
+2:58,Syracuse,Tyus Battle,Free Throw,65,59
+2:58,Syracuse,Tyus Battle,Free Throw,65,60
+2:57,Duke,Jordan Goldwire,Turnover,65,60
+2:57,Syracuse,Frank Howard,Steal,65,60
+2:50,Syracuse,Tyus Battle,Missed Jumper,65,60
+2:50,Duke,Tre Jones,Block,65,60
+2:50,Syracuse,Syracuse,Offensive Rebound,65,60
+2:41,Syracuse,Frank Howard,Missed Jumper,65,60
+2:41,Duke,RJ Barrett,Defensive Rebound,65,60
+2:24,Duke,RJ Barrett,Missed Three Point Jumper,65,60
+2:24,Duke,Marques Bolden,Offensive Rebound,65,60
+2:02,Duke,Marques Bolden,Dunk,67,60
+1:49,Duke,Tre Jones,Foul,67,60
+1:49,Syracuse,Tyus Battle,Free Throw,67,61
+1:49,Syracuse,Tyus Battle,Missed Free Throw,67,61
+1:49,Duke,Marques Bolden,Defensive Rebound,67,61
+1:41,Syracuse,Marek Dolezaj,Foul,67,61
+1:41,Duke,RJ Barrett,Missed Free Throw,67,61
+1:41,Syracuse,Oshae Brissett,Defensive Rebound,67,61
+1:40,Duke,Marques Bolden,Foul,67,61
+1:40,Syracuse,Oshae Brissett,Missed Free Throw,67,61
+1:40,Syracuse,None,Team Rebound,67,61
+1:40,Syracuse,Oshae Brissett,Missed Free Throw,67,61
+1:40,Duke,Marques Bolden,Defensive Rebound,67,61
+1:27,Syracuse,Tyus Battle,Foul,67,61
+1:27,Duke,Tre Jones,Free Throw,68,61
+1:27,Duke,Tre Jones,Free Throw,69,61
+1:18,Syracuse,Frank Howard,Missed Three Point Jumper,69,61
+1:18,Duke,Cam Reddish,Defensive Rebound,69,61
+1:14,Duke,Cam Reddish,Turnover,69,61
+1:14,Syracuse,Frank Howard,Steal,69,61
+1:11,Syracuse,Elijah Hughes,Missed Three Point Jumper,69,61
+1:11,Duke,Marques Bolden,Defensive Rebound,69,61
+0:53,Syracuse,Oshae Brissett,Foul,69,61
+0:53,Duke,Alex O'Connell,Free Throw,70,61
+0:53,Duke,Alex O'Connell,Free Throw,71,61
+0:48,Duke,RJ Barrett,Foul,71,61
+0:48,Syracuse,Tyus Battle,Missed Free Throw,71,61
+0:48,Syracuse,None,Team Rebound,71,61
+0:48,Syracuse,Tyus Battle,Free Throw,71,62
+0:46,Syracuse,Tyus Battle,Foul,71,62
+0:46,Duke,Tre Jones,Free Throw,72,62
+0:46,Duke,Tre Jones,Free Throw,73,62
+0:40,Syracuse,Frank Howard,Missed Three Point Jumper,73,62
+0:40,Syracuse,Buddy Boeheim,Offensive Rebound,73,62
+0:34,Syracuse,Tyus Battle,Three Point Jumper,73,65
+0:33,Syracuse,Frank Howard,Foul,73,65
+0:33,Duke,Marques Bolden,Free Throw,74,65
+0:33,Duke,Marques Bolden,Free Throw,75,65
+0:21,Syracuse,Oshae Brissett,Missed Three Point Jumper,75,65
+0:21,Syracuse,Buddy Boeheim,Offensive Rebound,75,65
+0:21,Syracuse,Frank Howard,Missed Three Point Jumper,75,65
+0:21,Duke,Cam Reddish,Defensive Rebound,75,65
+0:00,Syracuse,None,None,75,65

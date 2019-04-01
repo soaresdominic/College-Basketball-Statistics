@@ -1,0 +1,350 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Houston,None,None,0,0
+19:41,Houston,Cedrick Alley Jr.,Missed Three Point Jumper,0,0
+19:41,Saint Louis,Jordan Goodwin,Defensive Rebound,0,0
+19:24,Saint Louis,Jordan Goodwin,Turnover,0,0
+19:24,Houston,Cedrick Alley Jr.,Steal,0,0
+19:16,Houston,Armoni Brooks,Missed Three Point Jumper,0,0
+19:16,Houston,Corey Davis Jr.,Offensive Rebound,0,0
+18:55,Houston,Corey Davis Jr.,Missed Jumper,0,0
+18:55,Houston,Armoni Brooks,Offensive Rebound,0,0
+18:46,Houston,Armoni Brooks,Layup,0,2
+18:40,Saint Louis,Fred Thatch Jr.,Foul,0,2
+18:40,Saint Louis,Fred Thatch Jr.,Turnover,0,2
+18:31,Houston,Breaon Brady,Foul,0,2
+18:31,Houston,Breaon Brady,Turnover,0,2
+18:08,Saint Louis,D.J. Foreman,Missed Jumper,0,2
+18:08,Houston,Armoni Brooks,Defensive Rebound,0,2
+17:56,Houston,Breaon Brady,Turnover,0,2
+17:44,Saint Louis,Jordan Goodwin,Missed Three Point Jumper,0,2
+17:44,Houston,Galen Robinson Jr.,Defensive Rebound,0,2
+17:37,Houston,Galen Robinson Jr.,Turnover,0,2
+17:37,Saint Louis,Jordan Goodwin,Steal,0,2
+17:27,Saint Louis,Javon Bess,Three Point Jumper,3,2
+17:01,Houston,Cedrick Alley Jr.,Three Point Jumper,3,5
+16:43,Saint Louis,D.J. Foreman,Missed Layup,3,5
+16:43,Saint Louis,Jordan Goodwin,Offensive Rebound,3,5
+16:39,Houston,Galen Robinson Jr.,Foul,3,5
+16:39,Saint Louis,Jordan Goodwin,Free Throw,4,5
+16:39,Saint Louis,Jordan Goodwin,Free Throw,5,5
+16:28,Houston,Galen Robinson Jr.,Layup,5,7
+16:17,Saint Louis,Hasahn French,Missed Layup,5,7
+16:17,Houston,Brison Gresham,Defensive Rebound,5,7
+15:55,Houston,Galen Robinson Jr.,Missed Layup,5,7
+15:55,Saint Louis,Hasahn French,Defensive Rebound,5,7
+15:41,Saint Louis,Javon Bess,Missed Three Point Jumper,5,7
+15:41,Houston,Armoni Brooks,Defensive Rebound,5,7
+15:34,Houston,Armoni Brooks,Layup,5,9
+15:21,Saint Louis,Jordan Goodwin,Missed Three Point Jumper,5,9
+15:21,Saint Louis,Javon Bess,Offensive Rebound,5,9
+15:11,Saint Louis,Jordan Goodwin,Missed Jumper,5,9
+15:11,Saint Louis,Hasahn French,Offensive Rebound,5,9
+15:10,Houston,Fabian White Jr.,Foul,5,9
+15:10,Houston,None,None,5,9
+15:06,Saint Louis,Javon Bess,Missed Jumper,5,9
+15:06,Houston,Armoni Brooks,Defensive Rebound,5,9
+14:50,Houston,Armoni Brooks,Missed Three Point Jumper,5,9
+14:50,Houston,Fabian White Jr.,Offensive Rebound,5,9
+14:32,Saint Louis,Fred Thatch Jr.,Foul,5,9
+14:29,Houston,Brison Gresham,Dunk,5,11
+14:06,Saint Louis,Hasahn French,Jumper,7,11
+13:47,Saint Louis,Javon Bess,Foul,7,11
+13:47,Houston,Armoni Brooks,Free Throw,7,12
+13:47,Houston,Armoni Brooks,Missed Free Throw,7,12
+13:44,Saint Louis,Carte'Are Gordon,Defensive Rebound,7,12
+13:17,Saint Louis,Carte'Are Gordon,Turnover,7,12
+13:17,Houston,Armoni Brooks,Steal,7,12
+13:12,Houston,Armoni Brooks,Jumper,7,14
+13:11,Saint Louis,None,None,7,14
+12:50,Saint Louis,Tramaine Isabell Jr.,Missed Three Point Jumper,7,14
+12:50,Houston,Armoni Brooks,Defensive Rebound,7,14
+12:41,Houston,Galen Robinson Jr.,Layup,7,16
+12:28,Saint Louis,Javon Bess,Three Point Jumper,10,16
+12:03,Saint Louis,Hasahn French,Foul,10,16
+12:01,Houston,Corey Davis Jr.,Three Point Jumper,10,19
+11:50,Houston,None,None,10,19
+11:27,Saint Louis,Jordan Goodwin,Jumper,12,19
+11:02,Houston,Nate Hinton,Missed Jumper,12,19
+11:02,Saint Louis,Carte'Are Gordon,Defensive Rebound,12,19
+10:55,Houston,Armoni Brooks,Foul,12,19
+10:43,Saint Louis,Carte'Are Gordon,Missed Layup,12,19
+10:43,Houston,Brison Gresham,Block,12,19
+10:43,Houston,Brison Gresham,Defensive Rebound,12,19
+10:35,Houston,Nate Hinton,Turnover,12,19
+10:35,Saint Louis,Tramaine Isabell Jr.,Steal,12,19
+10:25,Houston,Corey Davis Jr.,Foul,12,19
+10:21,Saint Louis,Tramaine Isabell Jr.,Layup,14,19
+9:52,Houston,Cedrick Alley Jr.,Missed Three Point Jumper,14,19
+9:52,Saint Louis,Jordan Goodwin,Defensive Rebound,14,19
+9:28,Houston,Brison Gresham,Foul,14,19
+9:28,Saint Louis,D.J. Foreman,Free Throw,15,19
+9:28,Saint Louis,D.J. Foreman,Free Throw,16,19
+9:12,Houston,Armoni Brooks,Missed Three Point Jumper,16,19
+9:12,Saint Louis,Saint Louis,Defensive Rebound,16,19
+8:57,Houston,Breaon Brady,Foul,16,19
+8:57,Saint Louis,D.J. Foreman,Missed Free Throw,16,19
+8:57,Saint Louis,None,Team Rebound,16,19
+8:57,Saint Louis,D.J. Foreman,Missed Free Throw,16,19
+8:57,Houston,Armoni Brooks,Defensive Rebound,16,19
+8:35,Houston,Cedrick Alley Jr.,Missed Three Point Jumper,16,19
+8:35,Houston,Brison Gresham,Offensive Rebound,16,19
+8:21,Saint Louis,Tramaine Isabell Jr.,Foul,16,19
+8:19,Houston,Cedrick Alley Jr.,Jumper,16,21
+8:03,Houston,Brison Gresham,Foul,16,21
+8:03,Saint Louis,Tramaine Isabell Jr.,Free Throw,17,21
+8:03,Saint Louis,Tramaine Isabell Jr.,Free Throw,18,21
+7:51,Houston,Galen Robinson Jr.,Jumper,18,23
+7:33,Saint Louis,Tramaine Isabell Jr.,Missed Jumper,18,23
+7:33,Houston,Galen Robinson Jr.,Defensive Rebound,18,23
+7:20,Saint Louis,None,None,18,23
+7:20,Houston,Fabian White Jr.,Turnover,18,23
+7:20,Houston,None,None,18,23
+7:09,Saint Louis,Javon Bess,Dunk,20,23
+6:55,Houston,Cedrick Alley Jr.,Foul,20,23
+6:55,Houston,Cedrick Alley Jr.,Turnover,20,23
+6:44,Saint Louis,Carte'Are Gordon,Missed Layup,20,23
+6:44,Houston,Fabian White Jr.,Defensive Rebound,20,23
+6:06,Houston,Fabian White Jr.,Turnover,20,23
+5:40,Saint Louis,Javon Bess,Missed Three Point Jumper,20,23
+5:40,Houston,Galen Robinson Jr.,Defensive Rebound,20,23
+5:30,Houston,Galen Robinson Jr.,Missed Jumper,20,23
+5:30,Saint Louis,Carte'Are Gordon,Block,20,23
+5:30,Saint Louis,Jordan Goodwin,Defensive Rebound,20,23
+5:13,Saint Louis,Tramaine Isabell Jr.,Three Point Jumper,23,23
+4:54,Houston,Cedrick Alley Jr.,Turnover,23,23
+4:54,Saint Louis,Tramaine Isabell Jr.,Steal,23,23
+4:22,Saint Louis,D.J. Foreman,Layup,25,23
+4:22,Houston,Dejon Jarreau,Foul,25,23
+4:22,Saint Louis,D.J. Foreman,Missed Free Throw,25,23
+4:22,Houston,Chris Harris Jr.,Defensive Rebound,25,23
+4:03,Houston,Dejon Jarreau,Missed Three Point Jumper,25,23
+4:03,Houston,Chris Harris Jr.,Offensive Rebound,25,23
+3:56,Houston,Corey Davis Jr.,Missed Three Point Jumper,25,23
+3:50,Houston,Fabian White Jr.,Offensive Rebound,25,23
+3:50,Saint Louis,D.J. Foreman,Foul,25,23
+3:50,Houston,None,None,25,23
+3:32,Houston,Fabian White Jr.,Jumper,25,25
+3:12,Saint Louis,Tramaine Isabell Jr.,Missed Jumper,25,25
+3:12,Houston,Chris Harris Jr.,Defensive Rebound,25,25
+2:54,Saint Louis,Jordan Goodwin,Foul,25,25
+2:54,Houston,Dejon Jarreau,Free Throw,25,26
+2:54,Houston,Dejon Jarreau,Free Throw,25,27
+2:42,Saint Louis,Jordan Goodwin,Missed Three Point Jumper,25,27
+2:42,Houston,Chris Harris Jr.,Defensive Rebound,25,27
+2:23,Houston,Dejon Jarreau,Missed Jumper,25,27
+2:23,Saint Louis,Carte'Are Gordon,Block,25,27
+2:23,Saint Louis,Tramaine Isabell Jr.,Defensive Rebound,25,27
+2:09,Saint Louis,Carte'Are Gordon,Layup,27,27
+1:45,Houston,Corey Davis Jr.,Missed Jumper,27,27
+1:45,Saint Louis,Carte'Are Gordon,Defensive Rebound,27,27
+1:21,Saint Louis,Tramaine Isabell Jr.,Foul,27,27
+1:21,Saint Louis,Tramaine Isabell Jr.,Turnover,27,27
+1:21,Houston,Galen Robinson Jr.,Steal,27,27
+1:21,Houston,Galen Robinson Jr.,Missed Free Throw,27,27
+1:21,Saint Louis,Hasahn French,Defensive Rebound,27,27
+0:47,Saint Louis,Demarius Jacobs,Missed Three Point Jumper,27,27
+0:47,Houston,Corey Davis Jr.,Defensive Rebound,27,27
+0:23,Houston,None,None,27,27
+0:23,Houston,None,None,27,27
+0:21,Houston,Dejon Jarreau,Missed Three Point Jumper,27,27
+0:21,Houston,Corey Davis Jr.,Offensive Rebound,27,27
+0:19,Saint Louis,Javon Bess,Foul,27,27
+0:19,Houston,Corey Davis Jr.,Free Throw,27,28
+0:19,Houston,Corey Davis Jr.,Free Throw,27,29
+0:02,Saint Louis,Javon Bess,Missed Jumper,27,29
+0:02,Houston,Dejon Jarreau,Defensive Rebound,27,29
+0:00,Houston,None,None,27,29
+20:00,Saint Louis,None,None,27,29
+19:50,Saint Louis,Javon Bess,Three Point Jumper,30,29
+19:31,Houston,Galen Robinson Jr.,Turnover,30,29
+19:22,Houston,Breaon Brady,Foul,30,29
+19:22,Saint Louis,Hasahn French,Missed Free Throw,30,29
+19:22,Saint Louis,None,Team Rebound,30,29
+19:22,Saint Louis,Hasahn French,Free Throw,31,29
+19:02,Houston,Cedrick Alley Jr.,Missed Three Point Jumper,31,29
+19:02,Houston,Corey Davis Jr.,Offensive Rebound,31,29
+18:51,Houston,Corey Davis Jr.,Missed Jumper,31,29
+18:51,Houston,Breaon Brady,Offensive Rebound,31,29
+18:50,Saint Louis,Hasahn French,Foul,31,29
+18:45,Houston,Armoni Brooks,Missed Jumper,31,29
+18:37,Saint Louis,Jordan Goodwin,Defensive Rebound,31,29
+18:34,Saint Louis,Jordan Goodwin,Layup,33,29
+18:34,Houston,Galen Robinson Jr.,Foul,33,29
+18:34,Saint Louis,Jordan Goodwin,Missed Free Throw,33,29
+18:34,Houston,Breaon Brady,Defensive Rebound,33,29
+18:22,Houston,Corey Davis Jr.,Turnover,33,29
+18:22,Saint Louis,Fred Thatch Jr.,Steal,33,29
+18:17,Saint Louis,Fred Thatch Jr.,Layup,35,29
+18:17,Houston,None,None,35,29
+18:17,Saint Louis,Javon Bess,Foul,35,29
+18:17,Saint Louis,Javon Bess,Foul,35,29
+18:17,Houston,Corey Davis Jr.,Free Throw,35,30
+18:17,Houston,Corey Davis Jr.,Free Throw,35,31
+17:57,Houston,Galen Robinson Jr.,Jumper,35,33
+17:36,Saint Louis,Jordan Goodwin,Missed Jumper,35,33
+17:36,Houston,Breaon Brady,Defensive Rebound,35,33
+17:14,Houston,Armoni Brooks,Jumper,35,35
+16:52,Saint Louis,Hasahn French,Missed Layup,35,35
+16:52,Saint Louis,Jordan Goodwin,Offensive Rebound,35,35
+16:52,Saint Louis,Jordan Goodwin,Missed Dunk,35,35
+16:52,Houston,Breaon Brady,Defensive Rebound,35,35
+16:26,Houston,Armoni Brooks,Missed Three Point Jumper,35,35
+16:26,Saint Louis,Jordan Goodwin,Defensive Rebound,35,35
+16:14,Saint Louis,Fred Thatch Jr.,Missed Three Point Jumper,35,35
+16:14,Houston,Breaon Brady,Defensive Rebound,35,35
+16:06,Houston,Galen Robinson Jr.,Missed Layup,35,35
+16:06,Saint Louis,Hasahn French,Defensive Rebound,35,35
+15:53,Saint Louis,Fred Thatch Jr.,Missed Layup,35,35
+15:53,Saint Louis,Fred Thatch Jr.,Offensive Rebound,35,35
+15:53,Houston,Breaon Brady,Foul,35,35
+15:53,Houston,None,None,35,35
+15:44,Saint Louis,Tramaine Isabell Jr.,Turnover,35,35
+15:44,Houston,Galen Robinson Jr.,Steal,35,35
+15:28,Houston,Galen Robinson Jr.,Three Point Jumper,35,38
+15:04,Saint Louis,Jordan Goodwin,Missed Jumper,35,38
+15:04,Houston,Brison Gresham,Block,35,38
+15:04,Saint Louis,Hasahn French,Offensive Rebound,35,38
+14:55,Saint Louis,Javon Bess,Jumper,37,38
+14:45,Houston,None,None,37,38
+14:33,Houston,Brison Gresham,Missed Jumper,37,38
+14:33,Saint Louis,Hasahn French,Defensive Rebound,37,38
+14:17,Saint Louis,Javon Bess,Jumper,39,38
+13:53,Houston,Galen Robinson Jr.,Layup,39,40
+13:49,Houston,Galen Robinson Jr.,Foul,39,40
+13:49,Houston,Galen Robinson Jr.,Foul,39,40
+13:49,Saint Louis,Javon Bess,Free Throw,40,40
+13:49,Saint Louis,Javon Bess,Free Throw,41,40
+13:38,Houston,Armoni Brooks,Foul,41,40
+13:21,Saint Louis,Tramaine Isabell Jr.,Turnover,41,40
+13:03,Houston,Dejon Jarreau,Layup,41,42
+12:50,Houston,Fabian White Jr.,Foul,41,42
+12:50,Saint Louis,Hasahn French,Missed Free Throw,41,42
+12:50,Saint Louis,None,Team Rebound,41,42
+12:50,Saint Louis,Hasahn French,Free Throw,42,42
+12:33,Saint Louis,Fred Thatch Jr.,Foul,42,42
+12:33,Houston,Dejon Jarreau,Missed Free Throw,42,42
+12:33,Houston,None,Team Rebound,42,42
+12:33,Houston,Dejon Jarreau,Missed Free Throw,42,42
+12:33,Saint Louis,Carte'Are Gordon,Defensive Rebound,42,42
+12:16,Saint Louis,Javon Bess,Missed Three Point Jumper,42,42
+12:16,Houston,Dejon Jarreau,Defensive Rebound,42,42
+11:53,Houston,Corey Davis Jr.,Missed Jumper,42,42
+11:53,Houston,Fabian White Jr.,Offensive Rebound,42,42
+11:51,Houston,Fabian White Jr.,Layup,42,44
+11:51,Saint Louis,Hasahn French,Foul,42,44
+11:51,Houston,None,None,42,44
+11:51,Houston,Fabian White Jr.,Free Throw,42,45
+11:20,Saint Louis,Javon Bess,Missed Three Point Jumper,42,45
+11:20,Houston,Houston,Defensive Rebound,42,45
+11:05,Saint Louis,Fred Thatch Jr.,Foul,42,45
+11:05,Houston,Dejon Jarreau,Free Throw,42,46
+11:05,Houston,Dejon Jarreau,Free Throw,42,47
+10:51,Saint Louis,Javon Bess,Turnover,42,47
+10:51,Houston,Dejon Jarreau,Steal,42,47
+10:47,Houston,Armoni Brooks,Three Point Jumper,42,50
+10:45,Houston,None,None,42,47
+10:45,Saint Louis,None,None,42,50
+10:40,Houston,Dejon Jarreau,Foul,42,50
+10:40,Saint Louis,Jordan Goodwin,Missed Free Throw,42,50
+10:40,Houston,Fabian White Jr.,Defensive Rebound,42,50
+10:23,Houston,Armoni Brooks,Missed Three Point Jumper,42,50
+10:23,Saint Louis,Tramaine Isabell Jr.,Defensive Rebound,42,50
+10:07,Saint Louis,Tramaine Isabell Jr.,Layup,44,50
+10:07,Houston,Fabian White Jr.,Foul,44,50
+10:07,Saint Louis,Tramaine Isabell Jr.,Free Throw,45,50
+9:48,Saint Louis,Carte'Are Gordon,Foul,45,50
+9:48,Houston,Dejon Jarreau,Free Throw,45,51
+9:48,Houston,Dejon Jarreau,Missed Free Throw,45,51
+9:48,Saint Louis,D.J. Foreman,Defensive Rebound,45,51
+9:31,Saint Louis,Carte'Are Gordon,Turnover,45,51
+9:31,Houston,Corey Davis Jr.,Steal,45,51
+9:21,Houston,Corey Davis Jr.,Missed Three Point Jumper,45,51
+9:21,Saint Louis,Javon Bess,Defensive Rebound,45,51
+9:01,Saint Louis,Tramaine Isabell Jr.,Missed Jumper,45,51
+9:01,Houston,Fabian White Jr.,Block,45,51
+9:01,Houston,Brison Gresham,Defensive Rebound,45,51
+8:57,Houston,Dejon Jarreau,Foul,45,51
+8:57,Houston,Dejon Jarreau,Turnover,45,51
+8:44,Saint Louis,Tramaine Isabell Jr.,Three Point Jumper,48,51
+8:32,Houston,Corey Davis Jr.,Jumper,48,53
+8:19,Saint Louis,D.J. Foreman,Missed Jumper,48,53
+8:19,Houston,Fabian White Jr.,Block,48,53
+8:19,Houston,Corey Davis Jr.,Defensive Rebound,48,53
+7:42,Saint Louis,D.J. Foreman,Foul,48,53
+7:42,Houston,None,None,48,53
+7:42,Houston,Fabian White Jr.,Free Throw,48,54
+7:42,Houston,Fabian White Jr.,Missed Free Throw,48,54
+7:42,Saint Louis,D.J. Foreman,Defensive Rebound,48,54
+7:21,Saint Louis,Tramaine Isabell Jr.,Missed Three Point Jumper,48,54
+7:21,Houston,Brison Gresham,Defensive Rebound,48,54
+7:05,Houston,Fabian White Jr.,Missed Jumper,48,54
+7:05,Saint Louis,D.J. Foreman,Block,48,54
+7:05,Saint Louis,Javon Bess,Defensive Rebound,48,54
+6:54,Saint Louis,Carte'Are Gordon,Three Point Jumper,51,54
+6:30,Houston,Corey Davis Jr.,Missed Jumper,51,54
+6:30,Saint Louis,Jordan Goodwin,Defensive Rebound,51,54
+6:22,Saint Louis,D.J. Foreman,Missed Layup,51,54
+6:22,Saint Louis,Tramaine Isabell Jr.,Offensive Rebound,51,54
+6:22,Saint Louis,None,None,53,54
+5:59,Houston,Corey Davis Jr.,Three Point Jumper,53,57
+5:37,Saint Louis,Carte'Are Gordon,Jumper,55,57
+5:37,Houston,Brison Gresham,Foul,55,57
+5:37,Saint Louis,Carte'Are Gordon,Free Throw,56,57
+5:13,Houston,Galen Robinson Jr.,Turnover,56,57
+5:13,Saint Louis,Jordan Goodwin,Steal,56,57
+5:07,Saint Louis,Jordan Goodwin,Missed Jumper,56,57
+5:07,Saint Louis,Hasahn French,Offensive Rebound,56,57
+5:07,Saint Louis,None,None,58,57
+4:37,Houston,Corey Davis Jr.,Turnover,58,57
+4:37,Saint Louis,Hasahn French,Steal,58,57
+4:31,Saint Louis,Tramaine Isabell Jr.,Missed Jumper,58,57
+4:31,Houston,Dejon Jarreau,Defensive Rebound,58,57
+4:23,Houston,Dejon Jarreau,Layup,58,59
+4:23,Saint Louis,Carte'Are Gordon,Foul,58,59
+4:23,Houston,Dejon Jarreau,Free Throw,58,60
+4:06,Saint Louis,Hasahn French,Missed Layup,58,60
+4:06,Saint Louis,Jordan Goodwin,Offensive Rebound,58,60
+3:53,Saint Louis,Jordan Goodwin,Layup,60,60
+3:45,Houston,Dejon Jarreau,Turnover,60,60
+3:45,Saint Louis,Javon Bess,Steal,60,60
+3:44,Houston,Galen Robinson Jr.,Foul,60,60
+3:44,Saint Louis,Tramaine Isabell Jr.,Missed Free Throw,60,60
+3:44,Saint Louis,None,Team Rebound,60,60
+3:44,Saint Louis,Tramaine Isabell Jr.,Free Throw,61,60
+3:20,Houston,Armoni Brooks,Missed Three Point Jumper,61,60
+3:20,Saint Louis,Tramaine Isabell Jr.,Defensive Rebound,61,60
+2:48,Saint Louis,Javon Bess,Missed Jumper,61,60
+2:48,Houston,Armoni Brooks,Defensive Rebound,61,60
+2:22,Houston,Galen Robinson Jr.,Missed Jumper,61,60
+2:22,Saint Louis,Hasahn French,Defensive Rebound,61,60
+2:17,Saint Louis,None,None,61,60
+1:57,Saint Louis,Jordan Goodwin,Missed Jumper,61,60
+1:41,Saint Louis,Jordan Goodwin,Offensive Rebound,61,60
+1:37,Saint Louis,Jordan Goodwin,Layup,63,60
+1:36,Saint Louis,Hasahn French,Foul,63,60
+1:36,Houston,Fabian White Jr.,Free Throw,63,61
+1:36,Houston,Fabian White Jr.,Free Throw,63,62
+1:15,Saint Louis,Tramaine Isabell Jr.,Missed Three Point Jumper,63,62
+1:15,Houston,Armoni Brooks,Defensive Rebound,63,62
+1:09,Saint Louis,Hasahn French,Foul,63,62
+1:09,Houston,Armoni Brooks,Missed Free Throw,63,62
+1:09,Houston,None,Team Rebound,63,62
+1:09,Houston,Armoni Brooks,Free Throw,63,63
+0:48,Saint Louis,Fred Thatch Jr.,Missed Jumper,63,63
+0:48,Houston,Dejon Jarreau,Block,63,63
+0:48,Houston,Fabian White Jr.,Defensive Rebound,63,63
+0:42,Houston,None,None,63,63
+0:30,Houston,Corey Davis Jr.,Three Point Jumper,63,66
+0:25,Saint Louis,None,None,63,66
+0:12,Saint Louis,Javon Bess,Missed Three Point Jumper,63,66
+0:06,Saint Louis,Javon Bess,Offensive Rebound,63,66
+0:04,Houston,Dejon Jarreau,Foul,63,66
+0:04,Saint Louis,Jordan Goodwin,Free Throw,64,66
+0:04,Saint Louis,Jordan Goodwin,Missed Free Throw,64,66
+0:04,Saint Louis,Javon Bess,Offensive Rebound,64,66
+0:02,Saint Louis,Javon Bess,Missed Jumper,64,66
+0:02,Houston,Corey Davis Jr.,Defensive Rebound,64,66
+0:01,Saint Louis,Jordan Goodwin,Foul,64,66
+0:01,Houston,Corey Davis Jr.,Free Throw,64,67
+0:01,Houston,Corey Davis Jr.,Free Throw,64,68
+0:00,Houston,None,None,64,68

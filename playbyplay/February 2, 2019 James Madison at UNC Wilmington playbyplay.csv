@@ -1,0 +1,342 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:48,UNC Wilmington,Jay Estime',Layup,0,2
+19:20,James Madison,Stuckey Mosley,Jumper,2,2
+18:39,James Madison,Stuckey Mosley,Three Point Jumper,5,4
+17:56,James Madison,Stuckey Mosley,Missed Three Point Jumper,5,6
+17:49,James Madison,Dwight Wilson,Offensive Rebound,5,6
+17:48,James Madison,Dwight Wilson,Layup,7,6
+17:37,UNC Wilmington,Jay Estime',Turnover,7,6
+17:14,UNC Wilmington,Kai Toews,Foul,7,6
+17:04,James Madison,Darius Banks,Missed Three Point Jumper,7,6
+16:58,UNC Wilmington,Jay Estime',Defensive Rebound,7,6
+16:52,UNC Wilmington,Jay Estime',Turnover,7,6
+16:52,James Madison,Deshon Parker,Steal,7,6
+16:46,James Madison,Stuckey Mosley,Three Point Jumper,10,6
+16:30,UNC Wilmington,Jay Estime',Missed Three Point Jumper,10,6
+16:27,UNC Wilmington,Shawn O'Connell,Offensive Rebound,10,6
+16:27,James Madison,Darius Banks,Foul,10,6
+16:27,UNC Wilmington,Shawn O'Connell,Free Throw,10,7
+16:27,UNC Wilmington,Shawn O'Connell,Missed Free Throw,10,7
+16:25,James Madison,Darius Banks,Defensive Rebound,10,7
+15:50,UNC Wilmington,Jaylen Fornes,Jumper,12,9
+15:28,James Madison,Matt Lewis,Jumper,14,9
+15:14,UNC Wilmington,Jeantal Cylla,Jumper,14,11
+14:51,James Madison,Dwight Wilson,Layup,16,11
+14:24,UNC Wilmington,Kai Toews,Missed Layup,16,11
+14:21,UNC Wilmington,Shawn O'Connell,Offensive Rebound,16,11
+14:19,UNC Wilmington,Jaylen Fornes,Missed Three Point Jumper,16,11
+14:19,James Madison,Deshon Parker,Block,16,11
+14:14,James Madison,Dwight Wilson,Defensive Rebound,16,11
+14:07,James Madison,Deshon Parker,Turnover,16,11
+14:07,UNC Wilmington,Jeantal Cylla,Steal,16,11
+14:02,James Madison,Matt Lewis,Foul,16,11
+14:02,UNC Wilmington,None,None,16,11
+14:02,UNC Wilmington,Jaylen Sims,Free Throw,16,12
+14:02,UNC Wilmington,Jaylen Sims,Free Throw,16,13
+13:35,James Madison,Stuckey Mosley,Missed Three Point Jumper,16,13
+13:30,UNC Wilmington,Devontae Cacok,Defensive Rebound,16,13
+13:22,UNC Wilmington,Devontae Cacok,Foul,16,13
+13:22,UNC Wilmington,Devontae Cacok,Turnover,16,13
+13:01,James Madison,Stuckey Mosley,Layup,18,13
+12:54,UNC Wilmington,Jaylen Fornes,Missed Jumper,18,13
+12:53,UNC Wilmington,Jaylen Sims,Offensive Rebound,18,13
+12:53,James Madison,Stuckey Mosley,Foul,18,13
+12:48,UNC Wilmington,Devontae Cacok,Missed Jumper,18,13
+12:44,UNC Wilmington,Devontae Cacok,Offensive Rebound,18,13
+12:39,UNC Wilmington,Ty Gadsden,Turnover,18,13
+12:39,James Madison,Deshon Parker,Steal,18,13
+12:25,James Madison,Stuckey Mosley,Missed Three Point Jumper,18,13
+12:24,UNC Wilmington,Ty Taylor II,Defensive Rebound,18,13
+12:24,James Madison,Greg Jones,Foul,18,13
+12:05,UNC Wilmington,Ty Gadsden,Three Point Jumper,18,16
+11:47,James Madison,Stuckey Mosley,Jumper,20,16
+11:24,UNC Wilmington,Devontae Cacok,Missed Jumper,20,16
+11:21,UNC Wilmington,Jaylen Sims,Offensive Rebound,20,16
+11:18,UNC Wilmington,Jeantal Cylla,Three Point Jumper,20,19
+10:52,James Madison,Darius Banks,Turnover,20,19
+10:52,UNC Wilmington,Jeantal Cylla,Steal,20,19
+10:46,UNC Wilmington,Ty Taylor II,Missed Three Point Jumper,20,19
+10:46,UNC Wilmington,Devontae Cacok,Offensive Rebound,20,19
+10:46,James Madison,Zach Jacobs,Foul,20,19
+10:46,UNC Wilmington,None,None,20,19
+10:45,James Madison,Zach Jacobs,Foul,20,19
+10:38,UNC Wilmington,Kai Toews,Jumper,20,21
+10:19,James Madison,Greg Jones,Missed Jumper,20,21
+10:19,UNC Wilmington,Jeantal Cylla,Block,20,21
+10:19,James Madison,James Madison,Offensive Rebound,20,21
+10:13,James Madison,Stuckey Mosley,Missed Jumper,20,21
+10:09,UNC Wilmington,Jeantal Cylla,Defensive Rebound,20,21
+10:04,UNC Wilmington,Ty Gadsden,Missed Jumper,20,21
+10:01,James Madison,Zach Jacobs,Defensive Rebound,20,21
+9:55,James Madison,Stuckey Mosley,Missed Three Point Jumper,20,21
+9:51,UNC Wilmington,Devontae Cacok,Defensive Rebound,20,21
+9:33,UNC Wilmington,Jay Estime',Jumper,20,23
+9:10,James Madison,Darius Banks,Turnover,20,23
+9:10,UNC Wilmington,Devontae Cacok,Steal,20,23
+9:01,UNC Wilmington,Devontae Cacok,Layup,20,25
+8:49,James Madison,Deshon Parker,Layup,22,25
+8:27,UNC Wilmington,Jay Estime',Missed Three Point Jumper,22,25
+8:23,James Madison,Zach Jacobs,Defensive Rebound,22,25
+8:19,James Madison,Matt Lewis,Three Point Jumper,25,25
+7:56,UNC Wilmington,Kai Toews,Layup,25,27
+7:35,James Madison,Stuckey Mosley,Three Point Jumper,28,27
+7:17,UNC Wilmington,Kai Toews,Missed Jumper,28,27
+7:14,UNC Wilmington,Jay Estime',Offensive Rebound,28,27
+7:14,UNC Wilmington,None,None,28,27
+7:02,UNC Wilmington,Shawn O'Connell,Turnover,28,27
+6:37,James Madison,Deshon Parker,Three Point Jumper,31,27
+6:17,James Madison,Dwight Wilson,Foul,31,29
+6:15,UNC Wilmington,Devontae Cacok,Missed Free Throw,31,29
+6:14,James Madison,Dwight Wilson,Defensive Rebound,31,29
+6:01,James Madison,Darius Banks,Layup,33,29
+5:54,UNC Wilmington,Jaylen Fornes,Layup,33,31
+5:33,James Madison,Deshon Parker,Layup,35,31
+5:33,UNC Wilmington,Jaylen Fornes,Foul,35,31
+5:33,James Madison,Deshon Parker,Free Throw,36,31
+5:15,UNC Wilmington,Jaylen Fornes,Three Point Jumper,36,34
+4:53,UNC Wilmington,Jeantal Cylla,Foul,36,34
+4:53,James Madison,Develle Phillips,Free Throw,37,34
+4:53,James Madison,Develle Phillips,Free Throw,38,34
+4:41,UNC Wilmington,Devontae Cacok,Turnover,38,34
+4:41,James Madison,Deshon Parker,Steal,38,34
+4:33,James Madison,Develle Phillips,Dunk,40,34
+4:08,UNC Wilmington,Jaylen Sims,Missed Three Point Jumper,40,34
+4:05,James Madison,Matt Lewis,Defensive Rebound,40,34
+3:37,James Madison,Matt Lewis,Missed Three Point Jumper,40,34
+3:33,UNC Wilmington,Ty Gadsden,Defensive Rebound,40,34
+3:31,James Madison,Develle Phillips,Foul,40,34
+3:31,UNC Wilmington,None,None,40,34
+3:31,UNC Wilmington,Jeantal Cylla,Free Throw,40,35
+3:31,UNC Wilmington,Jeantal Cylla,Free Throw,40,36
+3:12,James Madison,Darius Banks,Missed Layup,40,36
+3:08,UNC Wilmington,Jeantal Cylla,Defensive Rebound,40,36
+3:00,UNC Wilmington,Jeantal Cylla,Layup,40,38
+2:38,James Madison,Deshon Parker,Missed Three Point Jumper,40,38
+2:33,UNC Wilmington,Devontae Cacok,Defensive Rebound,40,38
+2:25,UNC Wilmington,Ty Gadsden,Layup,40,40
+2:05,James Madison,Develle Phillips,Foul,40,40
+2:05,James Madison,Develle Phillips,Turnover,40,40
+1:52,UNC Wilmington,Jaylen Fornes,Three Point Jumper,40,43
+1:24,James Madison,Develle Phillips,Dunk,42,43
+1:09,UNC Wilmington,Jeantal Cylla,Jumper,42,45
+0:36,James Madison,Develle Phillips,Missed Jumper,42,45
+0:32,UNC Wilmington,Devontae Cacok,Defensive Rebound,42,45
+0:25,UNC Wilmington,Jeantal Cylla,Three Point Jumper,42,48
+0:25,James Madison,None,None,42,48
+0:21,James Madison,Deshon Parker,Turnover,42,48
+0:21,UNC Wilmington,Jaylen Fornes,Steal,42,48
+0:17,UNC Wilmington,Jaylen Fornes,Missed Jumper,42,48
+0:17,James Madison,Deshon Parker,Defensive Rebound,42,48
+0:16,UNC Wilmington,Jaylen Fornes,Foul,42,48
+0:16,James Madison,Stuckey Mosley,Free Throw,43,48
+0:16,James Madison,Stuckey Mosley,Free Throw,44,48
+0:04,James Madison,Develle Phillips,Missed Jumper,44,48
+0:04,UNC Wilmington,Kai Toews,Defensive Rebound,44,48
+0:00,UNC Wilmington,None,None,44,48
+19:40,James Madison,Darius Banks,Layup,46,48
+19:20,UNC Wilmington,Ty Gadsden,Three Point Jumper,46,51
+18:56,James Madison,Matt Lewis,Missed Jumper,46,51
+18:56,UNC Wilmington,Jeantal Cylla,Block,46,51
+18:50,UNC Wilmington,Devontae Cacok,Defensive Rebound,46,51
+18:42,UNC Wilmington,Kai Toews,Layup,46,53
+18:16,James Madison,Matt Lewis,Three Point Jumper,49,53
+18:04,UNC Wilmington,Kai Toews,Missed Three Point Jumper,49,53
+18:00,James Madison,Matt Lewis,Defensive Rebound,49,53
+17:56,James Madison,Matt Lewis,Jumper,51,53
+17:29,UNC Wilmington,Kai Toews,Jumper,51,55
+17:29,James Madison,Dwight Wilson,Foul,51,55
+17:27,UNC Wilmington,Jeantal Cylla,Jumper,51,57
+17:05,James Madison,Darius Banks,Layup,53,57
+17:05,UNC Wilmington,Jeantal Cylla,Foul,53,57
+17:05,James Madison,Darius Banks,Missed Free Throw,53,57
+17:05,UNC Wilmington,Devontae Cacok,Defensive Rebound,53,57
+16:58,UNC Wilmington,Kai Toews,Missed Layup,53,57
+16:54,James Madison,Stuckey Mosley,Defensive Rebound,53,57
+16:49,UNC Wilmington,Ty Gadsden,Foul,53,57
+16:28,James Madison,Darius Banks,Layup,55,57
+16:09,James Madison,Dwight Wilson,Foul,55,57
+16:08,UNC Wilmington,Ty Gadsden,Turnover,55,57
+15:50,James Madison,Dwight Wilson,Missed Jumper,55,57
+15:50,UNC Wilmington,Jay Estime',Block,55,57
+15:50,James Madison,James Madison,Offensive Rebound,55,57
+15:50,UNC Wilmington,None,None,55,57
+15:44,James Madison,Darius Banks,Layup,57,57
+15:28,UNC Wilmington,Devontae Cacok,Foul,57,57
+15:28,UNC Wilmington,Devontae Cacok,Turnover,57,57
+15:15,UNC Wilmington,Shawn O'Connell,Foul,57,57
+15:15,James Madison,Darius Banks,Missed Free Throw,57,57
+15:15,James Madison,None,Team Rebound,57,57
+15:15,James Madison,Darius Banks,Free Throw,58,57
+15:10,UNC Wilmington,Jay Estime',Turnover,58,57
+14:57,James Madison,Darius Banks,Turnover,58,57
+14:57,UNC Wilmington,Jaylen Fornes,Steal,58,57
+14:36,UNC Wilmington,Jaylen Fornes,Turnover,58,57
+14:36,James Madison,Darius Banks,Steal,58,57
+14:31,James Madison,Darius Banks,Missed Layup,58,57
+14:31,UNC Wilmington,Jaylen Sims,Block,58,57
+14:25,UNC Wilmington,Jay Estime',Defensive Rebound,58,57
+14:21,UNC Wilmington,Jaylen Fornes,Layup,58,59
+14:04,James Madison,Develle Phillips,Foul,58,59
+14:04,James Madison,Develle Phillips,Turnover,58,59
+13:47,UNC Wilmington,Kai Toews,Missed Jumper,58,59
+13:46,James Madison,James Madison,Defensive Rebound,58,59
+13:27,James Madison,Stuckey Mosley,Missed Jumper,58,59
+13:22,UNC Wilmington,Kai Toews,Defensive Rebound,58,59
+13:19,UNC Wilmington,Jaylen Sims,Missed Three Point Jumper,58,59
+13:16,UNC Wilmington,Devontae Cacok,Offensive Rebound,58,59
+13:16,James Madison,Develle Phillips,Foul,58,59
+13:14,James Madison,Stuckey Mosley,Foul,58,59
+13:14,UNC Wilmington,Ty Taylor II,Free Throw,58,60
+13:14,UNC Wilmington,Ty Taylor II,Missed Free Throw,58,60
+13:12,James Madison,Stuckey Mosley,Defensive Rebound,58,60
+12:54,James Madison,Stuckey Mosley,Three Point Jumper,61,60
+12:42,UNC Wilmington,Ty Gadsden,Three Point Jumper,61,63
+12:22,UNC Wilmington,Jaylen Fornes,Foul,61,63
+12:20,James Madison,Stuckey Mosley,Three Point Jumper,64,63
+12:02,UNC Wilmington,Jeantal Cylla,Missed Three Point Jumper,64,63
+11:58,James Madison,Matt Lewis,Defensive Rebound,64,63
+11:56,James Madison,Greg Jones,Foul,64,63
+11:56,James Madison,Greg Jones,Turnover,64,63
+11:56,UNC Wilmington,None,None,64,63
+11:37,UNC Wilmington,Devontae Cacok,Missed Jumper,64,63
+11:34,UNC Wilmington,Devontae Cacok,Offensive Rebound,64,63
+11:33,UNC Wilmington,Devontae Cacok,Turnover,64,63
+11:33,James Madison,Zach Jacobs,Steal,64,63
+11:28,James Madison,Darius Banks,Three Point Jumper,67,63
+11:17,James Madison,Deshon Parker,Foul,67,63
+11:17,UNC Wilmington,Ty Gadsden,Free Throw,67,64
+11:17,UNC Wilmington,Ty Gadsden,Free Throw,67,65
+11:07,James Madison,Darius Banks,Layup,69,65
+10:50,UNC Wilmington,Devontae Cacok,Jumper,69,67
+10:44,UNC Wilmington,Ty Taylor II,Foul,69,67
+10:25,James Madison,Stuckey Mosley,Missed Jumper,69,67
+10:20,UNC Wilmington,Devontae Cacok,Defensive Rebound,69,67
+10:14,James Madison,Greg Jones,Foul,69,67
+10:14,UNC Wilmington,Jeantal Cylla,Free Throw,69,68
+10:14,UNC Wilmington,Jeantal Cylla,Free Throw,69,69
+9:47,James Madison,Stuckey Mosley,Missed Jumper,69,69
+9:43,James Madison,Darius Banks,Offensive Rebound,69,69
+9:36,UNC Wilmington,Devontae Cacok,Foul,69,69
+9:36,James Madison,Dwight Wilson,Free Throw,70,69
+9:36,James Madison,Dwight Wilson,Free Throw,71,69
+9:22,UNC Wilmington,Jeantal Cylla,Missed Layup,71,69
+9:19,UNC Wilmington,Jaylen Fornes,Offensive Rebound,71,69
+9:17,UNC Wilmington,Jay Estime',Missed Three Point Jumper,71,69
+9:13,UNC Wilmington,Jaylen Sims,Offensive Rebound,71,69
+9:12,UNC Wilmington,Jaylen Sims,Layup,71,71
+8:53,James Madison,Darius Banks,Missed Jumper,71,71
+8:52,UNC Wilmington,Jaylen Sims,Defensive Rebound,71,71
+8:39,UNC Wilmington,Jeantal Cylla,Layup,71,73
+8:20,UNC Wilmington,Jeantal Cylla,Foul,71,73
+8:20,James Madison,Dwight Wilson,Free Throw,72,73
+8:20,James Madison,Dwight Wilson,Free Throw,73,73
+8:00,UNC Wilmington,Ty Gadsden,Turnover,73,73
+8:00,James Madison,Stuckey Mosley,Steal,73,73
+7:54,James Madison,Matt Lewis,Three Point Jumper,76,73
+7:42,UNC Wilmington,Kai Toews,Missed Layup,76,73
+7:41,UNC Wilmington,Devontae Cacok,Offensive Rebound,76,73
+7:41,James Madison,Stuckey Mosley,Foul,76,73
+7:41,UNC Wilmington,None,None,76,73
+7:41,UNC Wilmington,Devontae Cacok,Missed Free Throw,76,73
+7:41,James Madison,Stuckey Mosley,Defensive Rebound,76,73
+7:41,UNC Wilmington,Devontae Cacok,Foul,76,73
+7:41,James Madison,Stuckey Mosley,Free Throw,77,73
+7:41,James Madison,Stuckey Mosley,Free Throw,78,73
+7:26,UNC Wilmington,Jaylen Fornes,Missed Three Point Jumper,78,73
+7:22,James Madison,Matt Lewis,Defensive Rebound,78,73
+7:12,James Madison,Dwight Wilson,Jumper,80,73
+7:05,UNC Wilmington,Jaylen Fornes,Missed Layup,80,73
+7:01,UNC Wilmington,Jaylen Fornes,Offensive Rebound,80,73
+7:00,UNC Wilmington,Jaylen Fornes,Layup,80,75
+6:39,James Madison,Deshon Parker,Missed Jumper,80,75
+6:36,UNC Wilmington,Jaylen Fornes,Defensive Rebound,80,75
+6:19,UNC Wilmington,Jeantal Cylla,Missed Layup,80,75
+6:15,James Madison,Dwight Wilson,Defensive Rebound,80,75
+6:02,James Madison,Dwight Wilson,Turnover,80,75
+5:43,UNC Wilmington,Jaylen Fornes,Missed Layup,80,75
+5:39,James Madison,Stuckey Mosley,Defensive Rebound,80,75
+5:24,James Madison,Dwight Wilson,Layup,82,75
+5:11,James Madison,Dwight Wilson,Foul,82,75
+5:11,UNC Wilmington,Shawn O'Connell,Free Throw,82,76
+5:11,UNC Wilmington,Shawn O'Connell,Free Throw,82,77
+4:48,James Madison,Darius Banks,Layup,84,77
+4:48,UNC Wilmington,Jeantal Cylla,Foul,84,77
+4:48,James Madison,Darius Banks,Free Throw,85,77
+4:33,UNC Wilmington,Devontae Cacok,Layup,85,79
+4:33,James Madison,Develle Phillips,Foul,85,79
+4:33,UNC Wilmington,Devontae Cacok,Missed Free Throw,85,79
+4:32,James Madison,Dwight Wilson,Defensive Rebound,85,79
+4:11,James Madison,Dwight Wilson,Jumper,87,79
+3:49,James Madison,James Madison,Defensive Rebound,87,79
+3:49,UNC Wilmington,None,None,87,79
+3:19,James Madison,Matt Lewis,Missed Three Point Jumper,87,79
+3:15,UNC Wilmington,Kai Toews,Defensive Rebound,87,79
+2:56,James Madison,Matt Lewis,Foul,87,79
+2:56,UNC Wilmington,Ty Gadsden,Free Throw,87,80
+2:54,UNC Wilmington,Ty Gadsden,Missed Free Throw,87,80
+2:52,James Madison,Stuckey Mosley,Defensive Rebound,87,80
+2:44,UNC Wilmington,Kai Toews,Foul,87,80
+2:44,James Madison,Deshon Parker,Free Throw,88,80
+2:44,James Madison,Deshon Parker,Free Throw,89,80
+2:29,UNC Wilmington,Kai Toews,Missed Jumper,89,80
+2:25,James Madison,Matt Lewis,Defensive Rebound,89,80
+2:07,James Madison,Darius Banks,Turnover,89,80
+2:07,UNC Wilmington,Ty Gadsden,Steal,89,80
+2:03,James Madison,Matt Lewis,Foul,89,80
+2:03,UNC Wilmington,Ty Gadsden,Free Throw,89,81
+2:03,UNC Wilmington,Ty Gadsden,Free Throw,89,82
+1:49,James Madison,None,None,89,82
+1:49,UNC Wilmington,None,None,89,82
+1:30,James Madison,Matt Lewis,Missed Three Point Jumper,89,82
+1:29,UNC Wilmington,Devontae Cacok,Defensive Rebound,89,82
+1:20,James Madison,Dwight Wilson,Foul,89,82
+1:20,UNC Wilmington,Ty Gadsden,Missed Free Throw,89,82
+1:20,UNC Wilmington,None,Team Rebound,89,82
+1:20,UNC Wilmington,Ty Gadsden,Free Throw,89,83
+1:06,UNC Wilmington,Jaylen Fornes,Foul,89,83
+1:06,James Madison,Deshon Parker,Free Throw,90,83
+1:06,James Madison,Deshon Parker,Free Throw,91,83
+0:56,UNC Wilmington,Ty Gadsden,Turnover,91,83
+0:56,James Madison,Deshon Parker,Steal,91,83
+0:56,James Madison,None,None,91,83
+0:56,UNC Wilmington,Jaylen Sims,Foul,91,83
+0:56,James Madison,Deshon Parker,Free Throw,92,83
+0:56,James Madison,Deshon Parker,Free Throw,93,83
+0:49,UNC Wilmington,Jaylen Fornes,Missed Three Point Jumper,93,83
+0:46,UNC Wilmington,Jay Estime',Offensive Rebound,93,83
+0:45,UNC Wilmington,Jaylen Sims,Layup,93,85
+0:44,UNC Wilmington,Jay Estime',Foul,93,85
+0:44,James Madison,Stuckey Mosley,Free Throw,94,85
+0:44,James Madison,Stuckey Mosley,Free Throw,95,85
+0:42,UNC Wilmington,Ty Gadsden,Layup,95,87
+0:42,UNC Wilmington,None,None,95,87
+0:42,UNC Wilmington,Ty Gadsden,Foul,95,87
+0:42,James Madison,Matt Lewis,Free Throw,96,87
+0:42,James Madison,Matt Lewis,Free Throw,97,87
+0:38,James Madison,Matt Lewis,Foul,97,87
+0:38,UNC Wilmington,Ty Gadsden,Free Throw,97,88
+0:38,UNC Wilmington,Ty Gadsden,Free Throw,97,89
+0:35,UNC Wilmington,Ty Gadsden,Foul,97,89
+0:35,James Madison,Matt Lewis,Free Throw,98,89
+0:35,James Madison,Matt Lewis,Free Throw,99,89
+0:30,UNC Wilmington,Jaylen Sims,Three Point Jumper,99,92
+0:27,UNC Wilmington,Jaylen Sims,Foul,99,92
+0:27,James Madison,Darius Banks,Free Throw,100,92
+0:27,James Madison,Darius Banks,Missed Free Throw,100,92
+0:24,UNC Wilmington,Jeantal Cylla,Defensive Rebound,100,92
+0:19,UNC Wilmington,Jay Estime',Missed Three Point Jumper,100,92
+0:19,James Madison,Darius Banks,Defensive Rebound,100,92
+0:19,UNC Wilmington,Jaylen Sims,Foul,100,92
+0:19,James Madison,Darius Banks,Free Throw,101,92
+0:19,James Madison,Darius Banks,Free Throw,102,92
+0:13,James Madison,Deshon Parker,Foul,102,92
+0:13,UNC Wilmington,Ty Gadsden,Free Throw,102,93
+0:13,UNC Wilmington,Ty Gadsden,Free Throw,102,94
+0:13,UNC Wilmington,Ty Gadsden,Free Throw,102,95
+0:08,UNC Wilmington,Ty Gadsden,Foul,102,95
+0:08,James Madison,Matt Lewis,Free Throw,103,95
+0:08,James Madison,Matt Lewis,Free Throw,104,95
+0:04,UNC Wilmington,Ty Gadsden,Missed Three Point Jumper,104,95
+0:02,UNC Wilmington,UNC Wilmington,Offensive Rebound,104,95
+0:00,UNC Wilmington,None,None,104,95
+0:00,UNC Wilmington,None,None,104,95

@@ -1,0 +1,344 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:33,UConn,Christian Vital,Jumper,0,2
+19:10,UConn,Alterique Gilbert,Foul,0,2
+19:10,Cornell,Josh Warren,Missed Free Throw,0,2
+19:10,Cornell,None,Team Rebound,0,2
+19:10,Cornell,Josh Warren,Free Throw,1,2
+18:57,Cornell,Troy Whiteside,Foul,1,2
+18:51,UConn,Christian Vital,Missed Jumper,1,2
+18:49,Cornell,Steven Julian,Defensive Rebound,1,2
+18:20,Cornell,Josh Warren,Turnover,1,2
+18:20,UConn,Jalen Adams,Steal,1,2
+18:14,UConn,Tyler Polley,Layup,1,4
+17:51,Cornell,Terrance McBride,Turnover,1,4
+17:51,UConn,Jalen Adams,Steal,1,4
+17:44,UConn,Jalen Adams,Layup,1,6
+17:28,Cornell,Josh Warren,Turnover,1,6
+17:16,UConn,Jalen Adams,Missed Three Point Jumper,1,6
+17:12,Cornell,Troy Whiteside,Defensive Rebound,1,6
+16:50,Cornell,Troy Whiteside,Three Point Jumper,4,6
+16:44,Cornell,Steven Julian,Foul,4,6
+16:28,Cornell,Josh Warren,Foul,4,6
+16:28,UConn,Alterique Gilbert,Missed Free Throw,4,6
+16:28,UConn,None,Team Rebound,4,6
+16:28,UConn,Alterique Gilbert,Free Throw,4,7
+16:28,UConn,Alterique Gilbert,Free Throw,4,8
+16:03,Cornell,Steven Julian,Missed Three Point Jumper,4,8
+15:58,UConn,Josh Carlton,Defensive Rebound,4,8
+15:58,Cornell,Jack Gordon,Foul,4,8
+15:58,UConn,None,None,4,8
+15:33,UConn,Alterique Gilbert,Missed Layup,4,8
+15:31,Cornell,Steven Julian,Defensive Rebound,4,8
+15:27,Cornell,Troy Whiteside,Layup,6,8
+15:14,UConn,Christian Vital,Missed Three Point Jumper,6,8
+15:11,UConn,UConn,Offensive Rebound,6,8
+14:53,Cornell,Steven Julian,Foul,6,8
+14:53,UConn,Jalen Adams,Free Throw,6,9
+14:53,UConn,Jalen Adams,Free Throw,6,10
+14:26,UConn,Tyler Polley,Foul,6,10
+14:26,Cornell,Jimmy Boeheim,Free Throw,7,10
+14:25,Cornell,Jimmy Boeheim,Missed Free Throw,7,10
+14:24,Cornell,Cornell,Offensive Rebound,7,10
+14:22,Cornell,Matt Morgan,Three Point Jumper,10,10
+14:07,UConn,Tyler Polley,Missed Three Point Jumper,10,10
+13:59,UConn,Eric Cobb,Offensive Rebound,10,10
+13:59,UConn,Eric Cobb,Missed Layup,10,10
+13:59,Cornell,Matt Morgan,Block,10,10
+13:58,Cornell,Matt Morgan,Defensive Rebound,10,10
+13:56,Cornell,Matt Morgan,Missed Layup,10,10
+13:53,UConn,Tyler Polley,Defensive Rebound,10,10
+13:42,UConn,Tarin Smith,Turnover,10,10
+13:24,Cornell,Jake Kuhn,Layup,12,10
+13:08,UConn,Alterique Gilbert,Missed Layup,12,10
+13:04,Cornell,Jake Kuhn,Defensive Rebound,12,10
+12:57,Cornell,Josh Warren,Layup,14,10
+12:46,UConn,Eric Cobb,Layup,14,12
+12:26,UConn,Tarin Smith,Foul,14,12
+12:26,Cornell,Josh Warren,Missed Free Throw,14,12
+12:26,Cornell,None,Team Rebound,14,12
+12:26,Cornell,Josh Warren,Free Throw,15,12
+12:15,Cornell,Josh Warren,Foul,15,12
+12:15,UConn,Tarin Smith,Missed Free Throw,15,12
+12:15,UConn,None,Team Rebound,15,12
+12:15,UConn,Tarin Smith,Missed Free Throw,15,12
+12:13,Cornell,Jimmy Boeheim,Defensive Rebound,15,12
+12:04,Cornell,Jack Gordon,Turnover,15,12
+11:49,UConn,None,None,15,12
+11:34,UConn,Alterique Gilbert,Missed Three Point Jumper,15,12
+11:32,Cornell,Jimmy Boeheim,Defensive Rebound,15,12
+11:23,UConn,Brendan Adams,Foul,15,12
+11:15,Cornell,Jimmy Boeheim,Missed Layup,15,12
+11:15,UConn,Josh Carlton,Block,15,12
+11:10,UConn,Brendan Adams,Defensive Rebound,15,12
+11:08,UConn,Christian Vital,Three Point Jumper,15,15
+10:37,Cornell,Matt Morgan,Layup,17,15
+10:27,UConn,Jalen Adams,Jumper,17,17
+10:08,Cornell,Jimmy Boeheim,Jumper,19,17
+9:55,UConn,Brendan Adams,Missed Three Point Jumper,19,17
+9:52,Cornell,Jake Kuhn,Defensive Rebound,19,17
+9:45,Cornell,Terrance McBride,Layup,21,17
+9:21,UConn,Jalen Adams,Three Point Jumper,21,20
+9:21,UConn,None,None,21,20
+9:16,Cornell,Matt Morgan,Layup,23,20
+9:06,Cornell,Riley Voss,Foul,23,20
+9:06,UConn,Josh Carlton,Free Throw,23,21
+9:06,UConn,Josh Carlton,Free Throw,23,22
+8:48,Cornell,Jimmy Boeheim,Missed Three Point Jumper,23,22
+8:45,UConn,Alterique Gilbert,Defensive Rebound,23,22
+8:40,UConn,Jalen Adams,Missed Three Point Jumper,23,22
+8:37,Cornell,Cornell,Defensive Rebound,23,22
+8:16,Cornell,Steven Julian,Foul,23,22
+8:16,Cornell,Steven Julian,Turnover,23,22
+8:04,UConn,Alterique Gilbert,Layup,23,24
+7:56,Cornell,Thurston McCarty,Missed Three Point Jumper,23,24
+7:52,UConn,Tarin Smith,Defensive Rebound,23,24
+7:50,UConn,Christian Vital,Layup,23,26
+7:50,UConn,None,None,23,26
+7:39,Cornell,Matt Morgan,Turnover,23,26
+7:23,UConn,Jalen Adams,Missed Layup,23,26
+7:23,Cornell,Jimmy Boeheim,Defensive Rebound,23,26
+7:23,Cornell,Matt Morgan,Block,23,26
+7:17,Cornell,Jimmy Boeheim,Turnover,23,26
+7:17,UConn,Tarin Smith,Steal,23,26
+7:13,UConn,Tarin Smith,Layup,23,28
+6:54,Cornell,Riley Voss,Missed Three Point Jumper,23,28
+6:50,UConn,Alterique Gilbert,Defensive Rebound,23,28
+6:48,UConn,Alterique Gilbert,Foul,23,28
+6:48,UConn,Alterique Gilbert,Turnover,23,28
+6:28,UConn,Kassoum Yakwe,Foul,23,28
+6:16,Cornell,Matt Morgan,Missed Three Point Jumper,23,28
+6:13,UConn,Kassoum Yakwe,Defensive Rebound,23,28
+6:04,UConn,Christian Vital,Missed Layup,23,28
+5:58,Cornell,Jack Gordon,Defensive Rebound,23,28
+5:57,Cornell,Jimmy Boeheim,Missed Three Point Jumper,23,28
+5:55,UConn,UConn,Defensive Rebound,23,28
+5:36,UConn,Tyler Polley,Three Point Jumper,23,31
+5:11,Cornell,Jack Gordon,Missed Three Point Jumper,23,31
+5:07,UConn,Christian Vital,Defensive Rebound,23,31
+5:00,UConn,Jalen Adams,Missed Jumper,23,31
+4:59,UConn,Christian Vital,Offensive Rebound,23,31
+4:59,Cornell,Riley Voss,Foul,23,31
+4:59,UConn,Christian Vital,Free Throw,23,32
+4:59,UConn,Christian Vital,Free Throw,23,33
+4:45,UConn,Tarin Smith,Foul,23,33
+4:45,Cornell,Jack Gordon,Free Throw,24,33
+4:45,Cornell,Jack Gordon,Free Throw,25,33
+4:32,UConn,Jalen Adams,Jumper,25,35
+4:24,Cornell,Matt Morgan,Layup,27,35
+4:08,UConn,Christian Vital,Turnover,27,35
+4:08,Cornell,Matt Morgan,Steal,27,35
+4:03,Cornell,Matt Morgan,Missed Layup,27,35
+4:00,Cornell,Kobe Dickson,Offensive Rebound,27,35
+4:00,Cornell,Kobe Dickson,Missed Layup,27,35
+4:00,UConn,UConn,Defensive Rebound,27,35
+3:44,UConn,Christian Vital,Three Point Jumper,27,38
+3:23,Cornell,Kobe Dickson,Turnover,27,38
+3:23,UConn,Christian Vital,Steal,27,38
+3:16,UConn,Jalen Adams,Jumper,27,40
+3:11,Cornell,None,None,27,40
+2:52,Cornell,Josh Warren,Layup,29,40
+2:34,UConn,Brendan Adams,Three Point Jumper,29,43
+2:19,UConn,Jalen Adams,Foul,29,43
+2:19,Cornell,Josh Warren,Free Throw,30,43
+2:18,Cornell,Josh Warren,Free Throw,31,43
+2:03,UConn,Jalen Adams,Turnover,31,43
+1:48,Cornell,Troy Whiteside,Missed Layup,31,43
+1:48,UConn,Brendan Adams,Defensive Rebound,31,43
+1:48,UConn,Tyler Polley,Block,31,43
+1:35,UConn,Brendan Adams,Layup,31,45
+1:35,Cornell,Matt Morgan,Foul,31,45
+1:35,UConn,Brendan Adams,Free Throw,31,46
+1:32,Cornell,Matt Morgan,Turnover,31,46
+1:32,UConn,Kassoum Yakwe,Steal,31,46
+1:20,UConn,Brendan Adams,Jumper,31,48
+0:58,Cornell,Matt Morgan,Turnover,31,48
+0:35,UConn,Tyler Polley,Foul,31,48
+0:35,UConn,Tyler Polley,Turnover,31,48
+0:23,Cornell,Matt Morgan,Layup,33,48
+0:00,UConn,Tarin Smith,Missed Jumper,33,48
+0:00,Cornell,None,Team Rebound,33,48
+0:00,UConn,None,None,33,48
+19:45,UConn,Christian Vital,Defensive Rebound,33,48
+19:37,UConn,Josh Carlton,Foul,33,48
+19:37,UConn,Josh Carlton,Turnover,33,48
+19:05,Cornell,Cornell ,Turnover,33,48
+18:41,UConn,Jalen Adams,Missed Jumper,33,48
+18:37,UConn,Josh Carlton,Offensive Rebound,33,48
+18:36,Cornell,Steven Julian,Foul,33,48
+18:36,UConn,Christian Vital,Free Throw,33,49
+18:35,UConn,Christian Vital,Missed Free Throw,33,49
+18:32,UConn,Jalen Adams,Offensive Rebound,33,49
+18:28,Cornell,Josh Warren,Foul,33,49
+18:27,UConn,Tyler Polley,Jumper,33,51
+18:27,Cornell,Jimmy Boeheim,Foul,33,51
+18:27,UConn,Tyler Polley,Free Throw,33,52
+18:07,Cornell,Josh Warren,Turnover,33,52
+18:07,UConn,Josh Carlton,Steal,33,52
+17:55,UConn,Alterique Gilbert,Three Point Jumper,33,55
+17:36,UConn,Josh Carlton,Foul,33,55
+17:27,Cornell,Jimmy Boeheim,Missed Layup,33,55
+17:25,UConn,Tyler Polley,Defensive Rebound,33,55
+17:21,UConn,Alterique Gilbert,Turnover,33,55
+17:21,Cornell,Josh Warren,Steal,33,55
+17:15,Cornell,Matt Morgan,Three Point Jumper,36,55
+17:03,UConn,Jalen Adams,Missed Three Point Jumper,36,55
+16:59,Cornell,Troy Whiteside,Defensive Rebound,36,55
+16:54,Cornell,Matt Morgan,Three Point Jumper,39,55
+16:53,UConn,None,None,39,55
+16:33,Cornell,Terrance McBride,Foul,39,55
+16:33,UConn,Alterique Gilbert,Free Throw,39,56
+16:33,UConn,Alterique Gilbert,Free Throw,39,57
+16:18,Cornell,Matt Morgan,Turnover,39,57
+16:18,UConn,Christian Vital,Steal,39,57
+16:13,UConn,Christian Vital,Dunk,39,59
+15:51,UConn,Josh Carlton,Foul,39,59
+15:51,UConn,None,None,39,59
+15:45,UConn,Jalen Adams,Foul,39,59
+15:45,Cornell,Jack Gordon,Free Throw,40,59
+15:45,Cornell,Jack Gordon,Free Throw,41,59
+15:28,UConn,Jalen Adams,Layup,41,61
+15:08,Cornell,Jack Gordon,Layup,43,61
+14:59,UConn,Alterique Gilbert,Turnover,43,61
+14:43,UConn,Christian Vital,Foul,43,61
+14:25,Cornell,Matt Morgan,Missed Three Point Jumper,43,61
+14:22,UConn,Jalen Adams,Defensive Rebound,43,61
+14:17,UConn,Jalen Adams,Layup,43,63
+14:02,UConn,Tyler Polley,Foul,43,63
+13:48,Cornell,Jimmy Boeheim,Missed Layup,43,63
+13:48,UConn,Tyler Polley,Block,43,63
+13:44,UConn,Alterique Gilbert,Defensive Rebound,43,63
+13:41,UConn,Tyler Polley,Missed Layup,43,63
+13:38,Cornell,Jimmy Boeheim,Defensive Rebound,43,63
+13:34,Cornell,Matt Morgan,Layup,45,63
+13:33,Cornell,None,None,45,63
+13:22,Cornell,Troy Whiteside,Foul,45,63
+13:15,UConn,Alterique Gilbert,Missed Jumper,45,63
+13:12,Cornell,Jake Kuhn,Defensive Rebound,45,63
+13:04,UConn,Brendan Adams,Foul,45,63
+13:04,Cornell,Jack Gordon,Free Throw,46,63
+13:04,Cornell,Jack Gordon,Free Throw,47,63
+12:49,UConn,Jalen Adams,Turnover,47,63
+12:49,Cornell,Troy Whiteside,Steal,47,63
+12:30,Cornell,Troy Whiteside,Three Point Jumper,50,63
+12:19,UConn,Tarin Smith,Jumper,50,65
+11:58,Cornell,Jake Kuhn,Layup,52,65
+11:44,Cornell,Troy Whiteside,Foul,52,65
+11:44,UConn,None,None,52,65
+11:30,UConn,Tarin Smith,Layup,52,67
+11:14,Cornell,Jake Kuhn,Turnover,52,67
+11:14,UConn,Tarin Smith,Steal,52,67
+11:09,UConn,Tarin Smith,Dunk,52,69
+10:53,UConn,Josh Carlton,Foul,52,69
+10:53,Cornell,Joel Davis,Free Throw,53,69
+10:52,Cornell,Joel Davis,Missed Free Throw,53,69
+10:50,UConn,Brendan Adams,Defensive Rebound,53,69
+10:32,UConn,Tarin Smith,Layup,53,71
+10:10,Cornell,Jack Gordon,Missed Three Point Jumper,53,71
+10:07,UConn,Tarin Smith,Defensive Rebound,53,71
+10:03,UConn,Tarin Smith,Missed Layup,53,71
+9:59,Cornell,Matt Morgan,Defensive Rebound,53,71
+9:57,Cornell,Jack Gordon,Missed Layup,53,71
+9:55,Cornell,Joel Davis,Offensive Rebound,53,71
+9:53,Cornell,Matt Morgan,Three Point Jumper,56,71
+9:39,UConn,Tarin Smith,Jumper,56,73
+9:21,Cornell,Jack Gordon,Missed Three Point Jumper,56,73
+9:17,UConn,Christian Vital,Defensive Rebound,56,73
+9:14,UConn,Alterique Gilbert,Missed Layup,56,73
+9:14,Cornell,Joel Davis,Block,56,73
+9:09,Cornell,Matt Morgan,Defensive Rebound,56,73
+9:01,Cornell,Joel Davis,Turnover,56,73
+9:01,UConn,Alterique Gilbert,Steal,56,73
+8:58,Cornell,Joel Davis,Foul,56,73
+8:58,UConn,Alterique Gilbert,Free Throw,56,74
+8:58,UConn,Alterique Gilbert,Free Throw,56,75
+8:48,Cornell,Josh Warren,Missed Dunk,56,75
+8:44,UConn,Tarin Smith,Defensive Rebound,56,75
+8:44,Cornell,Matt Morgan,Foul,56,75
+8:44,UConn,Christian Vital,Free Throw,56,76
+8:44,UConn,Christian Vital,Free Throw,56,77
+8:31,Cornell,Josh Warren,Turnover,56,77
+8:19,UConn,Eric Cobb,Foul,56,77
+8:19,UConn,Eric Cobb,Turnover,56,77
+8:04,Cornell,Terrance McBride,Turnover,56,77
+8:04,UConn,Alterique Gilbert,Steal,56,77
+7:59,UConn,Alterique Gilbert,Missed Layup,56,77
+7:56,UConn,Tarin Smith,Offensive Rebound,56,77
+7:54,UConn,Tarin Smith,Missed Three Point Jumper,56,77
+7:51,Cornell,Terrance McBride,Defensive Rebound,56,77
+7:45,Cornell,Josh Warren,Layup,58,77
+7:29,UConn,Christian Vital,Missed Three Point Jumper,58,77
+7:25,Cornell,Terrance McBride,Defensive Rebound,58,77
+7:10,Cornell,Jimmy Boeheim,Missed Three Point Jumper,58,77
+7:07,UConn,Eric Cobb,Defensive Rebound,58,77
+6:58,UConn,Tyler Polley,Missed Layup,58,77
+6:53,UConn,Tyler Polley,Offensive Rebound,58,77
+6:53,UConn,Tyler Polley,Layup,58,79
+6:37,Cornell,Josh Warren,Missed Three Point Jumper,58,79
+6:33,Cornell,Matt Morgan,Offensive Rebound,58,79
+6:32,Cornell,Matt Morgan,Layup,60,79
+6:25,UConn,Alterique Gilbert,Turnover,60,79
+6:25,UConn,None,None,60,79
+6:15,Cornell,Jimmy Boeheim,Missed Layup,60,79
+6:15,UConn,Tyler Polley,Block,60,79
+6:11,UConn,Alterique Gilbert,Defensive Rebound,60,79
+6:09,UConn,Christian Vital,Missed Layup,60,79
+6:09,UConn,UConn,Offensive Rebound,60,79
+5:58,UConn,Josh Carlton,Layup,60,81
+5:35,Cornell,Steven Julian,Missed Layup,60,81
+5:34,Cornell,Cornell,Offensive Rebound,60,81
+5:26,Cornell,Bryan Knapp,Missed Layup,60,81
+5:26,UConn,Tyler Polley,Block,60,81
+5:21,UConn,Alterique Gilbert,Defensive Rebound,60,81
+5:19,UConn,Christian Vital,Missed Three Point Jumper,60,81
+5:15,Cornell,Thurston McCarty,Defensive Rebound,60,81
+5:05,Cornell,Matt Morgan,Jumper,62,81
+4:43,UConn,Jalen Adams,Missed Layup,62,81
+4:37,UConn,Josh Carlton,Offensive Rebound,62,81
+4:37,UConn,Josh Carlton,Dunk,62,83
+4:35,UConn,Alterique Gilbert,Foul,62,83
+4:35,Cornell,Bryan Knapp,Free Throw,63,83
+4:35,Cornell,Bryan Knapp,Free Throw,64,83
+4:25,UConn,Alterique Gilbert,Missed Three Point Jumper,64,83
+4:22,Cornell,Cornell,Defensive Rebound,64,83
+4:10,Cornell,Bryan Knapp,Turnover,64,83
+4:10,UConn,Brendan Adams,Steal,64,83
+4:05,UConn,Jalen Adams,Dunk,64,85
+3:50,Cornell,Dean Noll,Turnover,64,85
+3:50,UConn,Christian Vital,Steal,64,85
+3:46,UConn,Christian Vital,Dunk,64,87
+3:28,Cornell,Chaz Mack,Layup,66,87
+3:11,UConn,Jalen Adams,Layup,66,89
+3:10,UConn,None,None,66,89
+2:53,UConn,Kwintin Williams,Foul,66,89
+2:53,Cornell,Chaz Mack,Free Throw,67,89
+2:53,Cornell,Chaz Mack,Free Throw,68,89
+2:36,UConn,Brendan Adams,Missed Three Point Jumper,68,89
+2:31,Cornell,Riley Voss,Defensive Rebound,68,89
+2:21,UConn,Kwintin Williams,Foul,68,89
+2:21,Cornell,Riley Voss,Free Throw,69,89
+2:19,Cornell,Riley Voss,Missed Free Throw,69,89
+2:18,UConn,Kassoum Yakwe,Defensive Rebound,69,89
+2:03,UConn,Kwintin Williams,Missed Jumper,69,89
+1:59,UConn,Temi Aiyegbusi,Offensive Rebound,69,89
+1:58,Cornell,Kobe Dickson,Foul,69,89
+1:58,UConn,Kwintin Williams,Free Throw,69,90
+1:58,UConn,Kwintin Williams,Free Throw,69,91
+1:41,Cornell,Chaz Mack,Three Point Jumper,72,91
+1:15,UConn,Kwintin Williams,Foul,72,91
+1:15,UConn,Kwintin Williams,Turnover,72,91
+1:03,Cornell,Thurston McCarty,Missed Jumper,72,91
+0:59,UConn,Kwintin Williams,Defensive Rebound,72,91
+0:32,UConn,Brendan Adams,Missed Three Point Jumper,72,91
+0:27,UConn,Kwintin Williams,Offensive Rebound,72,91
+0:24,UConn,Kwintin Williams,Missed Layup,72,91
+0:21,Cornell,Riley Voss,Defensive Rebound,72,91
+0:19,Cornell,Kobe Dickson,Missed Layup,72,91
+0:19,UConn,Kassoum Yakwe,Block,72,91
+0:15,Cornell,Kobe Dickson,Offensive Rebound,72,91
+0:13,Cornell,Thurston McCarty,Missed Three Point Jumper,72,91
+0:13,Cornell,Riley Voss,Offensive Rebound,72,91
+0:13,UConn,Daniel Brocke,Foul,72,91
+0:13,Cornell,Riley Voss,Free Throw,73,91
+0:13,Cornell,Riley Voss,Free Throw,74,91
+0:00,UConn,None,None,74,91
+0:00,UConn,None,None,74,91

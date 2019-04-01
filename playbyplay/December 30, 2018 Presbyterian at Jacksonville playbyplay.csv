@@ -1,0 +1,313 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,Presbyterian,Chris Martin,Missed Layup,0,0
+19:39,Jacksonville,Jace Hogan,Defensive Rebound,0,0
+19:28,Jacksonville,Aamahne Santos,Jumper,0,2
+18:59,Presbyterian,Cory Hightower,Missed Layup,0,2
+18:56,Jacksonville,Tyreese Davis,Defensive Rebound,0,2
+18:51,Jacksonville,Aamahne Santos,Three Point Jumper,0,5
+18:34,Presbyterian,Francois Lewis,Missed Layup,0,5
+18:30,Jacksonville,Tanner Rubio,Defensive Rebound,0,5
+18:27,Jacksonville,Aamahne Santos,Turnover,0,5
+18:13,Presbyterian,Chris Martin,Missed Three Point Jumper,0,5
+18:08,Jacksonville,Tyreese Davis,Defensive Rebound,0,5
+18:05,Jacksonville,Jace Hogan,Layup,0,7
+18:01,Presbyterian,None,None,0,7
+17:49,Presbyterian,Cory Hightower,Jumper,2,7
+17:49,Jacksonville,Jalyn Hinton,Foul,2,7
+17:49,Presbyterian,Cory Hightower,Free Throw,3,7
+17:38,Presbyterian,Adam Flagler,Foul,3,7
+17:28,Jacksonville,Jace Hogan,Turnover,3,7
+17:11,Presbyterian,Francois Lewis,Turnover,3,7
+16:57,Jacksonville,Dave Bell,Layup,3,9
+16:39,Presbyterian,Armel TeTe,Missed Layup,3,9
+16:36,Jacksonville,Jace Hogan,Defensive Rebound,3,9
+16:26,Jacksonville,Tyreese Davis,Missed Three Point Jumper,3,9
+16:24,Presbyterian,Armel TeTe,Defensive Rebound,3,9
+16:24,Jacksonville,Dave Bell,Foul,3,9
+16:06,Presbyterian,Francois Lewis,Three Point Jumper,6,9
+15:55,Jacksonville,Jace Hogan,Jumper,6,11
+15:30,Presbyterian,Armel TeTe,Layup,8,11
+15:19,Jacksonville,JD Notae,Missed Three Point Jumper,8,11
+15:16,Jacksonville,Dave Bell,Offensive Rebound,8,11
+15:15,Jacksonville,Dave Bell,Layup,8,13
+14:59,Jacksonville,Aamahne Santos,Foul,8,13
+14:59,Jacksonville,None,None,8,13
+14:59,Presbyterian,Davon Bell,Free Throw,9,13
+14:59,Presbyterian,Davon Bell,Free Throw,10,13
+14:41,Jacksonville,Aamahne Santos,Turnover,10,13
+14:41,Presbyterian,Romeo Crouch,Steal,10,13
+14:37,Presbyterian,Romeo Crouch,Missed Layup,10,13
+14:35,Jacksonville,Aamahne Santos,Defensive Rebound,10,13
+14:24,Jacksonville,Dave Bell,Missed Layup,10,13
+14:20,Presbyterian,Romeo Crouch,Defensive Rebound,10,13
+14:13,Presbyterian,Davon Bell,Missed Three Point Jumper,10,13
+14:11,Jacksonville,Dave Bell,Defensive Rebound,10,13
+14:02,Jacksonville,Jace Hogan,Layup,10,15
+13:45,Presbyterian,Adam Flagler,Three Point Jumper,13,15
+13:19,Jacksonville,Dave Bell,Turnover,13,15
+13:19,Presbyterian,Cory Hightower,Steal,13,15
+13:07,Presbyterian,Kody Shubert,Layup,15,15
+12:55,Jacksonville,Jace Hogan,Layup,15,17
+12:35,Presbyterian,Adam Flagler,Missed Jumper,15,17
+12:32,Presbyterian,Adam Flagler,Offensive Rebound,15,17
+12:19,Jacksonville,Tyreese Davis,Missed Three Point Jumper,15,17
+12:16,Jacksonville,Jace Hogan,Offensive Rebound,15,17
+12:14,Jacksonville,Jace Hogan,Layup,15,19
+11:56,Presbyterian,Adam Flagler,Layup,17,19
+11:44,Jacksonville,Aamahne Santos,Turnover,17,19
+11:44,Presbyterian,Kody Shubert,Steal,17,19
+11:39,Presbyterian,Romeo Crouch,Three Point Jumper,20,19
+11:23,Jacksonville,None,None,20,19
+11:13,Jacksonville,JD Notae,Turnover,20,19
+11:13,Presbyterian,Kody Shubert,Steal,20,19
+10:43,Presbyterian,Adam Flagler,Missed Three Point Jumper,20,19
+10:40,Jacksonville,Jace Hogan,Defensive Rebound,20,19
+10:30,Jacksonville,JD Notae,Missed Three Point Jumper,20,19
+10:26,Presbyterian,Adam Flagler,Defensive Rebound,20,19
+10:24,Presbyterian,Romeo Crouch,Layup,22,19
+10:24,Jacksonville,JD Notae,Foul,22,19
+10:24,Presbyterian,Romeo Crouch,Free Throw,23,19
+10:02,Jacksonville,Bryce Workman,Turnover,23,19
+9:40,Presbyterian,JC Younger,Jumper,25,19
+9:24,Jacksonville,Tanner Rubio,Missed Three Point Jumper,25,19
+9:21,Presbyterian,Chris Martin,Defensive Rebound,25,19
+9:08,Presbyterian,Ethan Kay,Missed Three Point Jumper,25,19
+9:05,Presbyterian,Francois Lewis,Offensive Rebound,25,19
+9:04,Presbyterian,Francois Lewis,Layup,27,19
+8:46,Jacksonville,Jalyn Hinton,Dunk,27,21
+8:21,Presbyterian,JC Younger,Jumper,29,21
+8:00,Jacksonville,Jace Hogan,Jumper,29,23
+7:38,Presbyterian,Davon Bell,Missed Layup,29,23
+7:37,Jacksonville,Jalyn Hinton,Defensive Rebound,29,23
+7:37,Presbyterian,Francois Lewis,Foul,29,23
+7:37,Jacksonville,None,None,29,23
+7:18,Jacksonville,DeAnthony McCallum,Missed Three Point Jumper,29,23
+7:15,Presbyterian,Chris Martin,Defensive Rebound,29,23
+6:50,Presbyterian,Chris Martin,Missed Layup,29,23
+6:48,Jacksonville,Jace Hogan,Defensive Rebound,29,23
+6:40,Presbyterian,Chris Martin,Foul,29,23
+6:34,Jacksonville,Tyreese Davis,Missed Layup,29,23
+6:31,Presbyterian,Cory Hightower,Defensive Rebound,29,23
+6:23,Presbyterian,Davon Bell,Layup,31,23
+6:14,Jacksonville,JD Notae,Turnover,31,23
+5:57,Presbyterian,Kody Shubert,Missed Three Point Jumper,31,23
+5:55,Jacksonville,JD Notae,Defensive Rebound,31,23
+5:55,Presbyterian,Romeo Crouch,Foul,31,23
+5:35,Jacksonville,KJ Fitzgerald,Missed Three Point Jumper,31,23
+5:31,Presbyterian,Davon Bell,Defensive Rebound,31,23
+5:23,Jacksonville,Jace Hogan,Foul,31,23
+5:23,Presbyterian,Francois Lewis,Free Throw,32,23
+5:23,Presbyterian,Francois Lewis,Free Throw,33,23
+5:06,Presbyterian,Kody Shubert,Foul,33,23
+4:59,Jacksonville,Dave Bell,Layup,33,25
+4:41,Presbyterian,Kody Shubert,Missed Layup,33,25
+4:38,Jacksonville,Dave Bell,Defensive Rebound,33,25
+4:30,Jacksonville,Jace Hogan,Missed Jumper,33,25
+4:27,Presbyterian,Davon Bell,Defensive Rebound,33,25
+4:20,Presbyterian,Romeo Crouch,Missed Three Point Jumper,33,25
+4:16,Jacksonville,Tyreese Davis,Defensive Rebound,33,25
+4:11,Presbyterian,Cory Hightower,Foul,33,25
+4:05,Jacksonville,JD Notae,Missed Jumper,33,25
+4:01,Presbyterian,Francois Lewis,Defensive Rebound,33,25
+3:56,Jacksonville,KJ Fitzgerald,Foul,33,25
+3:56,Jacksonville,None,None,33,25
+3:50,Presbyterian,JC Younger,Missed Three Point Jumper,33,25
+3:47,Presbyterian,Romeo Crouch,Offensive Rebound,33,25
+3:39,Presbyterian,Kody Shubert,Missed Layup,33,25
+3:39,Jacksonville,Dave Bell,Block,33,25
+3:30,Jacksonville,Dave Bell,Defensive Rebound,33,25
+3:28,Presbyterian,JC Younger,Missed Layup,33,25
+3:23,Jacksonville,Dave Bell,Defensive Rebound,33,25
+3:22,Jacksonville,KJ Fitzgerald,Layup,33,27
+3:00,Presbyterian,Adam Flagler,Missed Layup,33,27
+3:00,Jacksonville,Tyreese Davis,Block,33,27
+2:56,Jacksonville,KJ Fitzgerald,Defensive Rebound,33,27
+2:53,Jacksonville,Tyreese Davis,Layup,33,29
+2:53,Presbyterian,JC Younger,Foul,33,29
+2:53,Jacksonville,Tyreese Davis,Free Throw,33,30
+2:23,Presbyterian,Davon Bell,Jumper,35,30
+2:03,Jacksonville,KJ Fitzgerald,Missed Three Point Jumper,35,30
+2:00,Presbyterian,Romeo Crouch,Defensive Rebound,35,30
+1:53,Presbyterian,JC Younger,Three Point Jumper,38,30
+1:31,Jacksonville,Dave Bell,Missed Layup,38,30
+1:28,Presbyterian,Adam Flagler,Defensive Rebound,38,30
+1:22,Presbyterian,Adam Flagler,Missed Three Point Jumper,38,30
+1:19,Presbyterian,Romeo Crouch,Offensive Rebound,38,30
+1:19,Jacksonville,Dave Bell,Foul,38,30
+1:19,Presbyterian,Romeo Crouch,Missed Free Throw,38,30
+1:19,Jacksonville,Derrick Flowers,Defensive Rebound,38,30
+1:17,Jacksonville,Derrick Flowers,Three Point Jumper,38,33
+0:34,Presbyterian,Presbyterian ,Turnover,38,33
+0:34,Jacksonville,None,None,38,33
+0:04,Jacksonville,Jace Hogan,Missed Jumper,38,33
+0:00,Presbyterian,Romeo Crouch,Defensive Rebound,38,33
+0:00,Jacksonville,None,None,38,33
+19:41,Jacksonville,Tyreese Davis,Foul,38,33
+19:41,Jacksonville,Tyreese Davis,Turnover,38,33
+19:19,Presbyterian,Francois Lewis,Missed Three Point Jumper,38,33
+19:15,Presbyterian,Cory Hightower,Offensive Rebound,38,33
+19:13,Presbyterian,Cory Hightower,Turnover,38,33
+18:54,Jacksonville,Tanner Rubio,Missed Three Point Jumper,38,33
+18:51,Jacksonville,Dave Bell,Offensive Rebound,38,33
+18:49,Jacksonville,Dave Bell,Turnover,38,33
+18:49,Presbyterian,Davon Bell,Steal,38,33
+18:44,Presbyterian,Chris Martin,Missed Layup,38,33
+18:42,Presbyterian,Chris Martin,Offensive Rebound,38,33
+18:30,Presbyterian,Cory Hightower,Missed Layup,38,33
+18:30,Jacksonville,Dave Bell,Block,38,33
+18:25,Presbyterian,Cory Hightower,Offensive Rebound,38,33
+18:25,Presbyterian,Cory Hightower,Layup,40,33
+18:12,Jacksonville,Tyreese Davis,Turnover,40,33
+17:59,Presbyterian,Davon Bell,Layup,42,33
+17:44,Presbyterian,JC Younger,Foul,42,33
+17:44,Jacksonville,Jace Hogan,Missed Free Throw,42,33
+17:44,Jacksonville,None,Team Rebound,42,33
+17:44,Jacksonville,Jace Hogan,Missed Free Throw,42,33
+17:44,Presbyterian,Francois Lewis,Defensive Rebound,42,33
+17:44,Presbyterian,JC Younger,Turnover,42,33
+17:44,Jacksonville,Aamahne Santos,Steal,42,33
+17:42,Presbyterian,Adam Flagler,Foul,42,33
+17:11,Jacksonville,Jace Hogan,Turnover,42,33
+17:11,Presbyterian,Romeo Crouch,Steal,42,33
+17:06,Presbyterian,Romeo Crouch,Missed Layup,42,33
+17:06,Jacksonville,Tyreese Davis,Block,42,33
+16:56,Presbyterian,Romeo Crouch,Offensive Rebound,42,33
+16:53,Presbyterian,Adam Flagler,Missed Layup,42,33
+16:53,Jacksonville,Tyreese Davis,Defensive Rebound,42,33
+16:53,Jacksonville,Jace Hogan,Layup,42,35
+16:32,Jacksonville,Aamahne Santos,Foul,42,35
+16:25,Presbyterian,Francois Lewis,Turnover,42,35
+16:09,Presbyterian,Adam Flagler,Foul,42,35
+16:09,Jacksonville,Tyreese Davis,Free Throw,42,36
+15:54,Presbyterian,Cory Hightower,Missed Jumper,42,36
+15:54,Presbyterian,Francois Lewis,Offensive Rebound,42,36
+15:53,Jacksonville,Derrick Flowers,Foul,42,36
+15:53,Jacksonville,None,None,42,36
+15:50,Presbyterian,JC Younger,Three Point Jumper,45,36
+15:13,Jacksonville,Tyreese Davis,Three Point Jumper,45,39
+14:50,Jacksonville,DeAnthony McCallum,Foul,45,39
+14:50,Presbyterian,JC Younger,Missed Free Throw,45,39
+14:50,Presbyterian,None,Team Rebound,45,39
+14:50,Presbyterian,JC Younger,Free Throw,46,39
+14:34,Presbyterian,JC Younger,Foul,46,39
+14:30,Jacksonville,Tyreese Davis,Missed Layup,46,39
+14:30,Presbyterian,Cory Hightower,Block,46,39
+14:30,Jacksonville,Jace Hogan,Offensive Rebound,46,39
+14:30,Presbyterian,Davon Bell,Foul,46,39
+14:30,Jacksonville,Jace Hogan,Missed Free Throw,46,39
+14:30,Jacksonville,None,Team Rebound,46,39
+14:30,Jacksonville,Jace Hogan,Missed Free Throw,46,39
+14:30,Presbyterian,Cory Hightower,Defensive Rebound,46,39
+14:11,Presbyterian,Kody Shubert,Missed Jumper,46,39
+14:09,Jacksonville,Jace Hogan,Defensive Rebound,46,39
+14:04,Jacksonville,DeAnthony McCallum,Missed Three Point Jumper,46,39
+13:59,Jacksonville,Tyreese Davis,Offensive Rebound,46,39
+13:55,Presbyterian,Romeo Crouch,Foul,46,39
+13:47,Presbyterian,Armel TeTe,Foul,46,39
+13:47,Jacksonville,Dave Bell,Free Throw,46,40
+13:47,Jacksonville,Dave Bell,Free Throw,46,41
+13:36,Presbyterian,Cory Hightower,Foul,46,41
+13:36,Presbyterian,Cory Hightower,Turnover,46,41
+13:25,Jacksonville,Tanner Rubio,Missed Three Point Jumper,46,41
+13:21,Jacksonville,Jace Hogan,Offensive Rebound,46,41
+13:19,Jacksonville,JD Notae,Missed Three Point Jumper,46,41
+13:17,Presbyterian,Cory Hightower,Defensive Rebound,46,41
+12:57,Presbyterian,Francois Lewis,Layup,48,41
+12:57,Jacksonville,Jace Hogan,Foul,48,41
+12:57,Presbyterian,Francois Lewis,Free Throw,49,41
+12:39,Jacksonville,Dave Bell,Missed Layup,49,41
+12:39,Presbyterian,Armel TeTe,Block,49,41
+12:35,Jacksonville,Jace Hogan,Offensive Rebound,49,41
+12:34,Jacksonville,Jace Hogan,Missed Layup,49,41
+12:30,Presbyterian,Presbyterian,Defensive Rebound,49,41
+12:17,Presbyterian,Davon Bell,Missed Jumper,49,41
+12:15,Jacksonville,Jacksonville,Defensive Rebound,49,41
+12:01,Jacksonville,Jace Hogan,Missed Layup,49,41
+11:59,Presbyterian,Armel TeTe,Defensive Rebound,49,41
+11:41,Presbyterian,Kody Shubert,Jumper,51,41
+11:25,Jacksonville,Tanner Rubio,Three Point Jumper,51,44
+11:01,Jacksonville,JD Notae,Foul,51,44
+11:01,Jacksonville,None,None,51,44
+11:01,Presbyterian,Davon Bell,Free Throw,52,44
+11:01,Presbyterian,Davon Bell,Free Throw,53,44
+10:48,Jacksonville,JD Notae,Missed Jumper,53,44
+10:46,Presbyterian,Kody Shubert,Defensive Rebound,53,44
+10:36,Presbyterian,Adam Flagler,Missed Jumper,53,44
+10:33,Presbyterian,Cory Hightower,Offensive Rebound,53,44
+10:32,Presbyterian,Cory Hightower,Layup,55,44
+10:16,Jacksonville,Jace Hogan,Layup,55,46
+10:13,Jacksonville,None,None,55,46
+9:44,Presbyterian,Davon Bell,Missed Layup,55,46
+9:44,Jacksonville,JD Notae,Block,55,46
+9:44,Jacksonville,Jacksonville,Defensive Rebound,55,46
+9:17,Jacksonville,KJ Fitzgerald,Turnover,55,46
+8:53,Presbyterian,Cory Hightower,Layup,57,46
+8:46,Presbyterian,Davon Bell,Foul,57,46
+8:46,Jacksonville,JD Notae,Free Throw,57,47
+8:46,Jacksonville,JD Notae,Free Throw,57,48
+8:23,Jacksonville,KJ Fitzgerald,Foul,57,48
+8:23,Presbyterian,Davon Bell,Missed Free Throw,57,48
+8:23,Presbyterian,None,Team Rebound,57,48
+8:23,Presbyterian,Davon Bell,Free Throw,58,48
+8:04,Jacksonville,Dave Bell,Dunk,58,50
+8:04,Presbyterian,Davon Bell,Foul,58,50
+8:04,Jacksonville,Dave Bell,Free Throw,58,51
+7:36,Presbyterian,Davon Bell,Missed Layup,58,51
+7:33,Jacksonville,Aamahne Santos,Defensive Rebound,58,51
+7:31,Jacksonville,JD Notae,Three Point Jumper,58,54
+7:18,Jacksonville,Dave Bell,Foul,58,54
+7:18,Jacksonville,None,None,58,54
+7:18,Presbyterian,Francois Lewis,Missed Free Throw,58,54
+7:18,Presbyterian,None,Team Rebound,58,54
+7:18,Presbyterian,Francois Lewis,Free Throw,59,54
+7:03,Jacksonville,JD Notae,Missed Three Point Jumper,59,54
+6:59,Presbyterian,Cory Hightower,Defensive Rebound,59,54
+6:50,Presbyterian,JC Younger,Missed Three Point Jumper,59,54
+6:46,Presbyterian,Romeo Crouch,Offensive Rebound,59,54
+6:20,Presbyterian,Cory Hightower,Foul,59,54
+6:20,Presbyterian,Cory Hightower,Turnover,59,54
+5:58,Jacksonville,JD Notae,Missed Layup,59,54
+5:55,Jacksonville,JD Notae,Offensive Rebound,59,54
+5:53,Jacksonville,JD Notae,Layup,59,56
+5:24,Presbyterian,Davon Bell,Layup,61,56
+5:24,Presbyterian,None,None,61,56
+5:14,Jacksonville,Aamahne Santos,Three Point Jumper,61,59
+4:53,Presbyterian,Cory Hightower,Layup,63,59
+4:37,Jacksonville,Tyreese Davis,Missed Layup,63,59
+4:35,Presbyterian,Cory Hightower,Defensive Rebound,63,59
+4:25,Presbyterian,Francois Lewis,Missed Three Point Jumper,63,59
+4:21,Jacksonville,Tyreese Davis,Defensive Rebound,63,59
+4:09,Jacksonville,Tanner Rubio,Turnover,63,59
+4:09,Presbyterian,Davon Bell,Steal,63,59
+3:44,Presbyterian,Davon Bell,Missed Three Point Jumper,63,59
+3:40,Jacksonville,Bryce Workman,Defensive Rebound,63,59
+3:30,Jacksonville,Aamahne Santos,Three Point Jumper,63,62
+2:56,Presbyterian,Francois Lewis,Three Point Jumper,66,62
+2:31,Jacksonville,Bryce Workman,Turnover,66,62
+2:31,Presbyterian,Davon Bell,Steal,66,62
+2:05,Jacksonville,Bryce Workman,Foul,66,62
+2:05,Jacksonville,None,None,66,62
+2:05,Presbyterian,Cory Hightower,Free Throw,67,62
+2:05,Presbyterian,Cory Hightower,Missed Free Throw,67,62
+2:05,Presbyterian,Romeo Crouch,Offensive Rebound,67,62
+1:48,Jacksonville,Aamahne Santos,Three Point Jumper,67,65
+1:18,Presbyterian,Adam Flagler,Jumper,69,65
+1:01,Presbyterian,Francois Lewis,Foul,69,65
+1:01,Jacksonville,Jace Hogan,Free Throw,69,66
+1:01,Jacksonville,Jace Hogan,Free Throw,69,67
+0:42,Presbyterian,JC Younger,Missed Three Point Jumper,69,67
+0:38,Jacksonville,Tyreese Davis,Defensive Rebound,69,67
+0:17,Jacksonville,JD Notae,Missed Three Point Jumper,69,67
+0:13,Presbyterian,JC Younger,Defensive Rebound,69,67
+0:10,Presbyterian,None,None,69,67
+0:08,Jacksonville,Tanner Rubio,Foul,69,67
+0:08,Presbyterian,JC Younger,Missed Free Throw,69,67
+0:08,Presbyterian,None,Team Rebound,69,67
+0:08,Presbyterian,JC Younger,Free Throw,70,67
+0:08,Presbyterian,None,None,70,67
+0:05,Jacksonville,Aamahne Santos,Missed Three Point Jumper,70,67
+0:02,Presbyterian,Presbyterian,Defensive Rebound,70,67
+0:01,Jacksonville,Aamahne Santos,Foul,70,67
+0:01,Presbyterian,Davon Bell,Free Throw,71,67
+0:01,Presbyterian,Davon Bell,Free Throw,72,67
+0:00,Jacksonville,None,None,72,67

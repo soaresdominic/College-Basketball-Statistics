@@ -1,0 +1,413 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,North Carolina,None,None,0,0
+19:45,North Carolina,Luke Maye,Missed Jumper,0,0
+19:45,North Carolina,Cameron Johnson,Offensive Rebound,0,0
+19:41,North Carolina,Cameron Johnson,Jumper,2,0
+19:26,Elon,Tyler Seibring,Jumper,2,2
+19:21,North Carolina,Kenny Williams,Missed Layup,2,2
+19:21,Elon,Tyler Seibring,Block,2,2
+19:21,North Carolina,Luke Maye,Offensive Rebound,2,2
+19:05,North Carolina,Garrison Brooks,Turnover,2,2
+18:56,North Carolina,Cameron Johnson,Foul,2,2
+18:56,Elon,Sheldon Eberhardt,Free Throw,2,3
+18:56,Elon,Sheldon Eberhardt,Missed Free Throw,2,3
+18:56,North Carolina,Luke Maye,Defensive Rebound,2,3
+18:40,North Carolina,Luke Maye,Jumper,4,3
+18:26,Elon,Tyler Seibring,Missed Three Point Jumper,4,3
+18:26,North Carolina,Coby White,Defensive Rebound,4,3
+18:15,North Carolina,Coby White,Missed Three Point Jumper,4,3
+18:15,North Carolina,Garrison Brooks,Offensive Rebound,4,3
+18:05,North Carolina,Luke Maye,Missed Jumper,4,3
+18:05,Elon,Steven Santa Ana,Defensive Rebound,4,3
+17:52,Elon,Steven Santa Ana,Three Point Jumper,4,6
+17:40,North Carolina,Coby White,Turnover,4,6
+17:32,Elon,Tyler Seibring,Jumper,4,8
+17:24,North Carolina,Cameron Johnson,Three Point Jumper,7,8
+17:06,Elon,Sheldon Eberhardt,Layup,7,10
+17:06,North Carolina,Kenny Williams,Foul,7,10
+17:06,Elon,Karolis Kundrotas,Turnover,7,10
+16:44,North Carolina,Cameron Johnson,Jumper,9,10
+16:22,Elon,Steven Santa Ana,Turnover,9,10
+16:07,North Carolina,Luke Maye,Missed Three Point Jumper,9,10
+16:07,North Carolina,North Carolina,Offensive Rebound,9,10
+15:58,North Carolina,Cameron Johnson,Foul,9,10
+15:58,North Carolina,Cameron Johnson,Turnover,9,10
+15:58,Elon,None,None,9,10
+15:42,Elon,Steven Santa Ana,Turnover,9,10
+15:42,North Carolina,Garrison Brooks,Steal,9,10
+15:30,North Carolina,Nassir Little,Missed Jumper,9,10
+15:30,Elon,Sheldon Eberhardt,Defensive Rebound,9,10
+15:20,Elon,Sheldon Eberhardt,Jumper,9,12
+15:12,North Carolina,Coby White,Jumper,11,12
+14:42,Elon,Andy Pack,Missed Three Point Jumper,11,12
+14:42,North Carolina,Nassir Little,Block,11,12
+14:42,North Carolina,Brandon Robinson,Defensive Rebound,11,12
+14:27,Elon,Federico Poser,Foul,11,12
+14:19,North Carolina,Coby White,Missed Three Point Jumper,11,12
+14:19,North Carolina,Sterling Manley,Offensive Rebound,11,12
+14:16,North Carolina,Sterling Manley,Layup,13,12
+14:06,Elon,Sheldon Eberhardt,Turnover,13,12
+13:52,North Carolina,Brandon Robinson,Missed Three Point Jumper,13,12
+13:52,North Carolina,Brandon Robinson,Offensive Rebound,13,12
+13:45,North Carolina,Nassir Little,Missed Layup,13,12
+13:45,North Carolina,North Carolina,Offensive Rebound,13,12
+13:38,North Carolina,Sterling Manley,Layup,15,12
+13:18,Elon,Tyler Seibring,Missed Jumper,15,12
+13:18,North Carolina,Sterling Manley,Defensive Rebound,15,12
+13:05,North Carolina,Nassir Little,Three Point Jumper,18,12
+13:03,Elon,None,None,18,12
+12:53,Elon,Tyler Seibring,Missed Three Point Jumper,18,12
+12:53,Elon,Karolis Kundrotas,Offensive Rebound,18,12
+12:45,Elon,Karolis Kundrotas,Layup,18,14
+12:34,North Carolina,Nassir Little,Layup,20,14
+12:34,Elon,Tyler Seibring,Foul,20,14
+12:34,North Carolina,Nassir Little,Free Throw,21,14
+12:21,Elon,Steven Santa Ana,Three Point Jumper,21,17
+12:01,North Carolina,Nassir Little,Missed Jumper,21,17
+12:01,North Carolina,Garrison Brooks,Offensive Rebound,21,17
+11:59,North Carolina,Garrison Brooks,Layup,23,17
+11:47,North Carolina,Brandon Robinson,Foul,23,17
+11:47,Elon,None,None,23,17
+11:41,Elon,Steven Santa Ana,Three Point Jumper,23,20
+11:27,North Carolina,Sterling Manley,Dunk,25,20
+11:11,Elon,Kris Wooten,Missed Three Point Jumper,25,20
+11:11,Elon,Tyler Seibring,Offensive Rebound,25,20
+11:05,North Carolina,Seventh Woods,Foul,25,20
+11:05,Elon,Tyler Seibring,Free Throw,25,21
+11:05,Elon,Tyler Seibring,Free Throw,25,22
+11:01,North Carolina,Brandon Robinson,Turnover,25,22
+10:54,Elon,Dainan Swoope,Missed Three Point Jumper,25,22
+10:54,North Carolina,Seventh Woods,Defensive Rebound,25,22
+10:47,Elon,Dainan Swoope,Foul,25,22
+10:39,North Carolina,Sterling Manley,Missed Jumper,25,22
+10:39,North Carolina,Nassir Little,Offensive Rebound,25,22
+10:35,North Carolina,Nassir Little,Layup,27,22
+10:26,North Carolina,Sterling Manley,Foul,27,22
+10:26,Elon,Dainan Swoope,Free Throw,27,23
+10:26,Elon,Dainan Swoope,Free Throw,27,24
+10:16,North Carolina,Nassir Little,Missed Three Point Jumper,27,24
+10:16,North Carolina,Garrison Brooks,Offensive Rebound,27,24
+10:06,North Carolina,Seventh Woods,Layup,29,24
+10:06,Elon,Federico Poser,Foul,29,24
+10:06,North Carolina,Seventh Woods,Free Throw,30,24
+9:57,Elon,Dainan Swoope,Missed Jumper,30,24
+9:57,North Carolina,Garrison Brooks,Defensive Rebound,30,24
+9:48,North Carolina,Kenny Williams,Missed Three Point Jumper,30,24
+9:48,North Carolina,Nassir Little,Offensive Rebound,30,24
+9:42,Elon,Chuck Hannah,Foul,30,24
+9:29,North Carolina,Leaky Black,Jumper,32,24
+9:13,Elon,Dainan Swoope,Layup,32,26
+8:59,North Carolina,Cameron Johnson,Layup,34,26
+8:43,Elon,Sheldon Eberhardt,Jumper,34,28
+8:27,North Carolina,Luke Maye,Jumper,36,28
+8:09,Elon,Karolis Kundrotas,Layup,36,30
+7:53,North Carolina,Cameron Johnson,Jumper,38,30
+7:36,Elon,Sheldon Eberhardt,Jumper,38,32
+7:31,Elon,Dainan Swoope,Foul,38,32
+7:31,Elon,None,None,38,32
+7:20,Elon,Chuck Hannah,Foul,38,32
+7:20,North Carolina,Cameron Johnson,Free Throw,39,32
+7:20,North Carolina,Cameron Johnson,Free Throw,40,32
+7:20,North Carolina,Cameron Johnson,Free Throw,41,32
+6:51,Elon,Karolis Kundrotas,Missed Jumper,41,32
+6:51,North Carolina,Coby White,Defensive Rebound,41,32
+6:45,North Carolina,Cameron Johnson,Missed Layup,41,32
+6:45,Elon,Karolis Kundrotas,Block,41,32
+6:45,North Carolina,North Carolina,Offensive Rebound,41,32
+6:40,North Carolina,Coby White,Missed Three Point Jumper,41,32
+6:40,Elon,Steven Santa Ana,Defensive Rebound,41,32
+6:34,Elon,Steven Santa Ana,Missed Three Point Jumper,41,32
+6:34,North Carolina,Luke Maye,Defensive Rebound,41,32
+6:26,Elon,Steven Santa Ana,Foul,41,32
+6:26,North Carolina,Cameron Johnson,Free Throw,42,32
+6:26,North Carolina,Cameron Johnson,Free Throw,43,32
+6:03,North Carolina,Andrew Platek,Foul,43,32
+6:03,Elon,Tyler Seibring,Missed Free Throw,43,32
+6:03,North Carolina,Leaky Black,Defensive Rebound,43,32
+5:59,North Carolina,Andrew Platek,Layup,45,32
+5:50,North Carolina,Leaky Black,Foul,45,32
+5:50,Elon,Sheldon Eberhardt,Free Throw,45,33
+5:50,Elon,Sheldon Eberhardt,Free Throw,45,34
+5:38,North Carolina,Leaky Black,Missed Jumper,45,34
+5:38,Elon,Federico Poser,Defensive Rebound,45,34
+5:23,North Carolina,Leaky Black,Foul,45,34
+5:23,Elon,Federico Poser,Missed Free Throw,45,34
+5:23,Elon,None,Team Rebound,45,34
+5:23,Elon,Federico Poser,Missed Free Throw,45,34
+5:23,North Carolina,None,Team Rebound,45,34
+5:10,North Carolina,Coby White,Missed Jumper,45,34
+5:10,Elon,Kris Wooten,Defensive Rebound,45,34
+5:01,Elon,Sheldon Eberhardt,Missed Three Point Jumper,45,34
+5:01,North Carolina,Luke Maye,Defensive Rebound,45,34
+4:42,North Carolina,Andrew Platek,Jumper,47,34
+4:18,Elon,Kris Wooten,Missed Three Point Jumper,47,34
+4:18,Elon,Kris Wooten,Offensive Rebound,47,34
+4:14,Elon,Kris Wooten,Three Point Jumper,47,37
+4:02,North Carolina,Andrew Platek,Missed Three Point Jumper,47,37
+4:02,Elon,Sheldon Eberhardt,Defensive Rebound,47,37
+3:48,Elon,Sheldon Eberhardt,Missed Jumper,47,37
+3:48,North Carolina,Coby White,Defensive Rebound,47,37
+3:41,North Carolina,Coby White,Layup,49,37
+3:37,Elon,None,None,49,37
+3:26,Elon,Andy Pack,Turnover,49,37
+3:17,Elon,Seth Fuller,Foul,49,37
+3:17,North Carolina,Coby White,Free Throw,50,37
+3:17,North Carolina,Coby White,Free Throw,51,37
+3:06,Elon,Andy Pack,Turnover,51,37
+3:06,North Carolina,Garrison Brooks,Steal,51,37
+3:01,North Carolina,Luke Maye,Jumper,53,37
+2:41,Elon,Tyler Seibring,Turnover,53,37
+2:41,North Carolina,Coby White,Steal,53,37
+2:22,Elon,Dainan Swoope,Foul,53,37
+2:22,North Carolina,Kenny Williams,Missed Free Throw,53,37
+2:22,North Carolina,None,Team Rebound,53,37
+2:22,North Carolina,Kenny Williams,Missed Free Throw,53,37
+2:22,North Carolina,None,Team Rebound,53,37
+2:22,North Carolina,Kenny Williams,Free Throw,54,37
+2:09,North Carolina,Nassir Little,Foul,54,37
+2:09,Elon,Steven Santa Ana,Free Throw,54,38
+2:09,Elon,Steven Santa Ana,Free Throw,54,39
+2:03,North Carolina,Coby White,Three Point Jumper,57,39
+1:45,Elon,Tyler Seibring,Layup,57,41
+1:32,North Carolina,Luke Maye,Missed Jumper,57,41
+1:32,North Carolina,Garrison Brooks,Offensive Rebound,57,41
+1:28,North Carolina,Garrison Brooks,Layup,59,41
+1:06,Elon,Chuck Hannah,Layup,59,43
+0:54,North Carolina,Coby White,Jumper,61,43
+0:39,Elon,Chuck Hannah,Layup,61,45
+0:26,North Carolina,Garrison Brooks,Missed Jumper,61,45
+0:26,Elon,Chuck Hannah,Defensive Rebound,61,45
+0:25,North Carolina,Luke Maye,Foul,61,45
+0:25,Elon,Chuck Hannah,Missed Free Throw,61,45
+0:25,North Carolina,None,Team Rebound,61,45
+0:25,Elon,Chuck Hannah,Missed Free Throw,61,45
+0:25,North Carolina,Sterling Manley,Defensive Rebound,61,45
+0:04,North Carolina,Seventh Woods,Missed Jumper,61,45
+0:04,North Carolina,Nassir Little,Offensive Rebound,61,45
+0:03,North Carolina,Nassir Little,Dunk,63,45
+0:00,Elon,None,None,63,45
+20:00,Elon,None,None,63,45
+19:45,North Carolina,Coby White,Foul,63,45
+19:45,Elon,Dainan Swoope,Free Throw,63,46
+19:45,Elon,Dainan Swoope,Missed Free Throw,63,46
+19:45,North Carolina,Luke Maye,Defensive Rebound,63,46
+19:33,North Carolina,Kenny Williams,Missed Three Point Jumper,63,46
+19:33,North Carolina,Garrison Brooks,Offensive Rebound,63,46
+19:29,North Carolina,Cameron Johnson,Jumper,65,46
+19:17,Elon,Steven Santa Ana,Missed Three Point Jumper,65,46
+19:17,North Carolina,Kenny Williams,Defensive Rebound,65,46
+19:10,North Carolina,Coby White,Three Point Jumper,68,46
+18:43,North Carolina,Luke Maye,Foul,68,46
+18:28,Elon,Tyler Seibring,Missed Three Point Jumper,68,46
+18:28,North Carolina,North Carolina,Defensive Rebound,68,46
+18:10,Elon,Steven Santa Ana,Foul,68,46
+18:10,North Carolina,Garrison Brooks,Free Throw,69,46
+18:10,North Carolina,Garrison Brooks,Missed Free Throw,69,46
+18:09,North Carolina,Luke Maye,Offensive Rebound,69,46
+18:09,North Carolina,Garrison Brooks,Missed Layup,69,46
+18:05,Elon,Chuck Hannah,Defensive Rebound,69,46
+17:45,North Carolina,Kenny Williams,Foul,69,46
+17:45,Elon,Andy Pack,Missed Free Throw,69,46
+17:45,Elon,None,Team Rebound,69,46
+17:45,Elon,Andy Pack,Missed Free Throw,69,46
+17:45,North Carolina,Luke Maye,Defensive Rebound,69,46
+17:39,North Carolina,Coby White,Missed Three Point Jumper,69,46
+17:39,Elon,Chuck Hannah,Defensive Rebound,69,46
+17:27,Elon,Kris Wooten,Turnover,69,46
+17:27,North Carolina,Cameron Johnson,Steal,69,46
+17:20,North Carolina,Kenny Williams,Missed Three Point Jumper,69,46
+17:20,Elon,Seth Fuller,Defensive Rebound,69,46
+16:49,Elon,Andy Pack,Missed Jumper,69,46
+16:49,North Carolina,Luke Maye,Defensive Rebound,69,46
+16:43,North Carolina,Cameron Johnson,Three Point Jumper,72,46
+16:22,North Carolina,Kenny Williams,Foul,72,46
+16:07,Elon,Tyler Seibring,Layup,72,48
+16:05,Elon,Tyler Seibring,Foul,72,48
+15:48,North Carolina,Sterling Manley,Layup,74,48
+15:41,North Carolina,Brandon Robinson,Foul,74,48
+15:41,Elon,None,None,74,48
+15:34,Elon,Dainan Swoope,Layup,74,50
+15:17,North Carolina,Sterling Manley,Missed Jumper,74,50
+15:17,Elon,Elon,Defensive Rebound,74,50
+15:14,Elon,Sheldon Eberhardt,Missed Layup,74,50
+15:14,North Carolina,Sterling Manley,Defensive Rebound,74,50
+15:01,North Carolina,Brandon Robinson,Missed Three Point Jumper,74,50
+15:01,North Carolina,Sterling Manley,Offensive Rebound,74,50
+14:56,North Carolina,Sterling Manley,Missed Layup,74,50
+14:56,North Carolina,Brandon Robinson,Offensive Rebound,74,50
+14:53,North Carolina,Brandon Robinson,Dunk,76,50
+14:44,North Carolina,Luke Maye,Foul,76,50
+14:28,Elon,Sheldon Eberhardt,Missed Three Point Jumper,76,50
+14:28,North Carolina,Cameron Johnson,Defensive Rebound,76,50
+14:23,Elon,Sheldon Eberhardt,Foul,76,50
+14:09,North Carolina,Cameron Johnson,Missed Layup,76,50
+14:09,North Carolina,Nassir Little,Offensive Rebound,76,50
+14:04,North Carolina,Nassir Little,Layup,78,50
+14:04,Elon,Karolis Kundrotas,Foul,78,50
+14:04,North Carolina,Nassir Little,Missed Free Throw,78,50
+14:04,Elon,Sheldon Eberhardt,Defensive Rebound,78,50
+14:00,Elon,Federico Poser,Turnover,78,50
+14:00,North Carolina,Nassir Little,Steal,78,50
+13:54,North Carolina,Nassir Little,Dunk,80,50
+13:40,Elon,Sheldon Eberhardt,Missed Three Point Jumper,80,50
+13:40,North Carolina,Nassir Little,Defensive Rebound,80,50
+13:28,North Carolina,Sterling Manley,Missed Jumper,80,50
+13:28,Elon,Andy Pack,Defensive Rebound,80,50
+13:14,Elon,Sheldon Eberhardt,Missed Layup,80,50
+13:14,North Carolina,Sterling Manley,Block,80,50
+13:14,Elon,Elon,Offensive Rebound,80,50
+13:09,Elon,Tyler Seibring,Missed Three Point Jumper,80,50
+13:09,North Carolina,Cameron Johnson,Defensive Rebound,80,50
+13:02,North Carolina,Cameron Johnson,Missed Three Point Jumper,80,50
+13:02,Elon,Tyler Seibring,Defensive Rebound,80,50
+12:45,North Carolina,Brandon Robinson,Foul,80,50
+12:45,Elon,Tyler Seibring,Missed Free Throw,80,50
+12:45,North Carolina,Andrew Platek,Defensive Rebound,80,50
+12:35,North Carolina,Brandon Robinson,Missed Jumper,80,50
+12:35,North Carolina,Cameron Johnson,Offensive Rebound,80,50
+12:33,North Carolina,Cameron Johnson,Turnover,80,50
+12:21,Elon,Federico Poser,Missed Jumper,80,50
+12:21,North Carolina,Sterling Manley,Defensive Rebound,80,50
+12:09,North Carolina,Cameron Johnson,Turnover,80,50
+11:48,Elon,Kris Wooten,Missed Three Point Jumper,80,50
+11:48,North Carolina,North Carolina,Defensive Rebound,80,50
+11:48,Elon,None,None,80,50
+11:30,North Carolina,Cameron Johnson,Missed Layup,80,50
+11:30,Elon,Chuck Hannah,Block,80,50
+11:30,North Carolina,Cameron Johnson,Offensive Rebound,80,50
+11:30,North Carolina,Cameron Johnson,Turnover,80,50
+11:20,Elon,Dainan Swoope,Turnover,80,50
+11:20,North Carolina,Cameron Johnson,Steal,80,50
+11:15,North Carolina,Brandon Robinson,Dunk,82,50
+11:06,Elon,Dainan Swoope,Missed Jumper,82,50
+11:06,North Carolina,Seventh Woods,Block,82,50
+11:06,North Carolina,Seventh Woods,Defensive Rebound,82,50
+10:56,North Carolina,Brandon Robinson,Dunk,84,50
+10:56,Elon,None,None,84,50
+10:54,Elon,Sheldon Eberhardt,Turnover,84,50
+10:54,North Carolina,Leaky Black,Steal,84,50
+10:48,North Carolina,Luke Maye,Missed Layup,84,50
+10:48,Elon,Steven Santa Ana,Defensive Rebound,84,50
+10:32,Elon,Sheldon Eberhardt,Three Point Jumper,84,53
+10:13,Elon,Chuck Hannah,Foul,84,53
+10:10,North Carolina,Leaky Black,Missed Jumper,84,53
+10:10,Elon,Federico Poser,Defensive Rebound,84,53
+10:07,North Carolina,Leaky Black,Foul,84,53
+10:07,Elon,Federico Poser,Free Throw,84,54
+10:07,Elon,Federico Poser,Free Throw,84,55
+9:50,North Carolina,Kenny Williams,Missed Three Point Jumper,84,55
+9:50,North Carolina,Kenny Williams,Offensive Rebound,84,55
+9:46,North Carolina,Kenny Williams,Turnover,84,55
+9:38,Elon,Federico Poser,Missed Jumper,84,55
+9:38,North Carolina,Luke Maye,Defensive Rebound,84,55
+9:20,Elon,Federico Poser,Foul,84,55
+9:20,North Carolina,Luke Maye,Free Throw,85,55
+9:20,North Carolina,Luke Maye,Free Throw,86,55
+9:11,Elon,Steven Santa Ana,Missed Jumper,86,55
+9:11,North Carolina,Leaky Black,Defensive Rebound,86,55
+8:59,North Carolina,Kenny Williams,Missed Three Point Jumper,86,55
+8:59,Elon,Steven Santa Ana,Defensive Rebound,86,55
+8:53,Elon,Tyler Seibring,Foul,86,55
+8:53,Elon,Tyler Seibring,Turnover,86,55
+8:53,North Carolina,Nassir Little,Missed Free Throw,86,55
+8:53,Elon,Karolis Kundrotas,Defensive Rebound,86,55
+8:48,Elon,Steven Santa Ana,Three Point Jumper,86,58
+8:35,North Carolina,Luke Maye,Missed Three Point Jumper,86,58
+8:35,Elon,Sheldon Eberhardt,Defensive Rebound,86,58
+8:27,Elon,Sheldon Eberhardt,Turnover,86,58
+8:27,North Carolina,Nassir Little,Steal,86,58
+8:22,North Carolina,Nassir Little,Dunk,88,58
+7:59,Elon,Karolis Kundrotas,Missed Jumper,88,58
+7:59,North Carolina,Luke Maye,Defensive Rebound,88,58
+7:50,North Carolina,Luke Maye,Turnover,88,58
+7:50,Elon,None,None,88,58
+7:43,North Carolina,Nassir Little,Foul,88,58
+7:43,Elon,Sheldon Eberhardt,Free Throw,88,59
+7:43,Elon,Sheldon Eberhardt,Free Throw,88,60
+7:22,North Carolina,Kenny Williams,Missed Layup,88,60
+7:22,North Carolina,Leaky Black,Offensive Rebound,88,60
+7:19,North Carolina,Garrison Brooks,Layup,90,60
+7:04,Elon,Sheldon Eberhardt,Missed Three Point Jumper,90,60
+7:04,North Carolina,Nassir Little,Defensive Rebound,90,60
+6:54,North Carolina,Sterling Manley,Turnover,90,60
+6:54,Elon,Chuck Hannah,Steal,90,60
+6:42,Elon,Kris Wooten,Missed Three Point Jumper,90,60
+6:42,North Carolina,Sterling Manley,Defensive Rebound,90,60
+6:23,North Carolina,Sterling Manley,Layup,92,60
+6:23,Elon,Simon Wright,Foul,92,60
+6:23,North Carolina,Sterling Manley,Free Throw,93,60
+6:11,Elon,Sheldon Eberhardt,Turnover,93,60
+6:11,North Carolina,Garrison Brooks,Steal,93,60
+6:01,Elon,Simon Wright,Foul,93,60
+6:01,North Carolina,Leaky Black,Missed Free Throw,93,60
+6:01,North Carolina,None,Team Rebound,93,60
+6:01,North Carolina,Leaky Black,Free Throw,94,60
+5:47,Elon,Kris Wooten,Turnover,94,60
+5:47,North Carolina,Nassir Little,Steal,94,60
+5:34,North Carolina,Nassir Little,Three Point Jumper,97,60
+5:20,Elon,Federico Poser,Missed Layup,97,60
+5:20,North Carolina,Seventh Woods,Defensive Rebound,97,60
+5:02,North Carolina,Sterling Manley,Missed Jumper,97,60
+5:02,North Carolina,Nassir Little,Offensive Rebound,97,60
+4:57,North Carolina,Nassir Little,Layup,99,60
+4:36,Elon,Steven Santa Ana,Missed Three Point Jumper,99,60
+4:36,North Carolina,Sterling Manley,Defensive Rebound,99,60
+4:25,North Carolina,Seventh Woods,Missed Layup,99,60
+4:25,Elon,Kris Wooten,Defensive Rebound,99,60
+4:16,Elon,Chuck Hannah,Missed Three Point Jumper,99,60
+4:16,North Carolina,Leaky Black,Defensive Rebound,99,60
+4:06,North Carolina,Brandon Huffman,Dunk,101,60
+4:00,Elon,None,None,101,60
+3:43,North Carolina,Andrew Platek,Foul,101,60
+3:43,Elon,Andy Pack,Free Throw,101,61
+3:43,Elon,Andy Pack,Free Throw,101,62
+3:33,North Carolina,K.J. Smith,Layup,103,62
+3:17,Elon,Nathan Priddy,Missed Jumper,103,62
+3:17,North Carolina,Leaky Black,Defensive Rebound,103,62
+3:11,North Carolina,Caleb Ellis,Layup,105,62
+3:11,Elon,Nathan Priddy,Foul,105,62
+3:11,North Carolina,Caleb Ellis,Missed Free Throw,105,62
+3:11,Elon,Federico Poser,Defensive Rebound,105,62
+2:58,Elon,Nathan Priddy,Missed Three Point Jumper,105,62
+2:58,Elon,Simon Wright,Offensive Rebound,105,62
+2:53,Elon,Simon Wright,Missed Layup,105,62
+2:53,North Carolina,Caleb Ellis,Block,105,62
+2:53,Elon,Simon Wright,Offensive Rebound,105,62
+2:47,Elon,Seth Fuller,Three Point Jumper,105,65
+2:30,Elon,Federico Poser,Foul,105,65
+2:30,North Carolina,Leaky Black,Free Throw,106,65
+2:30,North Carolina,Leaky Black,Free Throw,107,65
+2:18,Elon,Andy Pack,Missed Three Point Jumper,107,65
+2:18,North Carolina,Leaky Black,Defensive Rebound,107,65
+2:10,North Carolina,Andrew Platek,Jumper,109,65
+1:55,Elon,Seth Fuller,Turnover,109,65
+1:55,North Carolina,Shea Rush,Steal,109,65
+1:54,North Carolina,Shea Rush,Turnover,109,65
+1:54,Elon,Seth Fuller,Steal,109,65
+1:54,North Carolina,Shea Rush,Foul,109,65
+1:54,Elon,Seth Fuller,Free Throw,109,66
+1:54,Elon,Seth Fuller,Free Throw,109,67
+1:46,North Carolina,K.J. Smith,Three Point Jumper,112,67
+1:34,Elon,Andy Pack,Foul,112,67
+1:34,Elon,Andy Pack,Turnover,112,67
+1:22,North Carolina,Leaky Black,Layup,114,67
+1:22,Elon,Simon Wright,Foul,114,67
+1:22,North Carolina,Leaky Black,Free Throw,115,67
+1:19,Elon,Nathan Priddy,Turnover,115,67
+1:19,North Carolina,Andrew Platek,Steal,115,67
+1:11,North Carolina,Leaky Black,Missed Three Point Jumper,115,67
+1:11,Elon,Duje Radja,Defensive Rebound,115,67
+0:56,Elon,Duje Radja,Missed Layup,115,67
+0:56,North Carolina,Caleb Ellis,Block,115,67
+0:56,Elon,Elon,Offensive Rebound,115,67
+0:52,Elon,Andy Pack,Missed Three Point Jumper,115,67
+0:52,North Carolina,Shea Rush,Defensive Rebound,115,67
+0:48,Elon,Seth Fuller,Foul,115,67
+0:48,North Carolina,Shea Rush,Missed Free Throw,115,67
+0:48,North Carolina,None,Team Rebound,115,67
+0:48,North Carolina,Shea Rush,Free Throw,116,67
+0:36,Elon,Nathan Priddy,Missed Three Point Jumper,116,67
+0:36,Elon,Duje Radja,Offensive Rebound,116,67
+0:23,Elon,Seth Fuller,Foul,116,67
+0:23,Elon,Seth Fuller,Turnover,116,67
+0:00,Elon,None,None,116,67

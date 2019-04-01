@@ -1,0 +1,386 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:58,Montana State,Devin Kirby,Turnover,0,0
+19:42,Portland State,Michael Nuga,Missed Three Point Jumper,0,0
+19:42,Montana State,Tyler Hall,Defensive Rebound,0,0
+19:30,Montana State,Ladan Ricketts,Missed Three Point Jumper,0,0
+19:30,Montana State,Devin Kirby,Offensive Rebound,0,0
+19:15,Montana State,Harald Frey,Missed Jumper,0,0
+19:15,Portland State,Michael Mayhew,Defensive Rebound,0,0
+19:08,Montana State,Ladan Ricketts,Foul,0,0
+19:08,Portland State,Holland Woods,Free Throw,1,0
+19:08,Portland State,Holland Woods,Free Throw,2,0
+18:58,Portland State,Michael Nuga,Foul,2,0
+18:50,Montana State,Harald Frey,Missed Three Point Jumper,2,0
+18:50,Portland State,Michael Nuga,Defensive Rebound,2,0
+18:42,Portland State,Robert McCoy,Missed Three Point Jumper,2,0
+18:42,Montana State,Ladan Ricketts,Defensive Rebound,2,0
+18:38,Portland State,Michael Mayhew,Foul,2,0
+18:28,Montana State,Devin Kirby,Missed Jumper,2,0
+18:28,Portland State,Sal Nuhu,Block,2,0
+18:25,Portland State,Holland Woods,Defensive Rebound,2,0
+18:21,Portland State,Holland Woods,Turnover,2,0
+18:19,Montana State,Devin Kirby,Steal,2,0
+18:16,Montana State,Keljin Blevins,Missed Layup,2,0
+18:16,Portland State,Holland Woods,Defensive Rebound,2,0
+18:09,Portland State,Sal Nuhu,Layup,4,0
+17:52,Montana State,Ladan Ricketts,Three Point Jumper,4,3
+17:33,Montana State,Ladan Ricketts,Foul,4,3
+17:33,Portland State,Sal Nuhu,Free Throw,5,3
+17:33,Portland State,Sal Nuhu,Free Throw,6,3
+17:30,Portland State,Robert McCoy,Foul,6,3
+17:15,Montana State,Harald Frey,Three Point Jumper,6,6
+17:05,Portland State,Juwan Williams,Missed Three Point Jumper,6,6
+17:05,Montana State,Devin Kirby,Defensive Rebound,6,6
+17:02,Portland State,Derek Brown,Foul,6,6
+16:46,Montana State,Devin Kirby,Dunk,6,8
+16:44,Portland State,Juwan Williams,Foul,6,8
+16:43,Montana State,Devin Kirby,Free Throw,6,9
+16:22,Portland State,Deante Strickland,Three Point Jumper,9,9
+15:58,Montana State,Devin Kirby,Missed Jumper,9,9
+15:58,Portland State,Brendan Rumel,Block,9,9
+15:55,Montana State,Tyler Hall,Offensive Rebound,9,9
+15:44,Montana State,Devin Kirby,Missed Jumper,9,9
+15:43,Portland State,Brendan Rumel,Block,9,9
+15:42,Montana State,Lassi Nikkarinen,Offensive Rebound,9,9
+15:41,Montana State,Tyler Hall,Three Point Jumper,9,12
+15:38,Montana State,None,None,9,12
+15:38,Portland State,Derek Brown,Foul,9,12
+15:36,Montana State,None,None,9,12
+15:22,Portland State,Brendan Rumel,Foul,9,14
+15:22,Montana State,Keljin Blevins,Dunk,9,14
+15:15,Montana State,Keljin Blevins,Foul,9,14
+15:08,Montana State,Keljin Blevins,Missed Free Throw,9,14
+15:08,Portland State,Brendan Rumel,Defensive Rebound,9,14
+15:05,Montana State,Lassi Nikkarinen,Foul,9,14
+15:00,Portland State,Holland Woods,Missed Three Point Jumper,9,14
+15:00,Montana State,Montana State,Defensive Rebound,9,14
+14:41,Montana State,Tyler Hall,Three Point Jumper,9,17
+14:28,Montana State,Harald Frey,Steal,9,17
+14:26,Portland State,Holland Woods,Turnover,9,17
+14:21,Montana State,Harald Frey,Turnover,9,17
+14:19,Portland State,Michael Nuga,Steal,9,17
+14:17,Portland State,Michael Nuga,Layup,11,17
+14:08,Montana State,Lassi Nikkarinen,Three Point Jumper,11,20
+13:47,Portland State,Michael Mayhew,Three Point Jumper,14,20
+13:25,Portland State,Robert McCoy,Foul,14,20
+13:25,Portland State,Brendan Rumel,Missed Jumper,14,20
+13:25,Montana State,Sam Neumann,Defensive Rebound,14,20
+13:25,Montana State,Quentin Guliford,Layup,14,22
+13:00,Portland State,Michael Mayhew,Three Point Jumper,17,22
+12:45,Portland State,Sal Nuhu,Foul,17,22
+12:43,Montana State,Zeke Quinlan,Missed Free Throw,17,22
+12:41,Montana State,None,Team Rebound,17,22
+12:40,Montana State,Zeke Quinlan,Missed Free Throw,17,22
+12:39,Portland State,Deante Strickland,Defensive Rebound,17,22
+12:08,Portland State,Holland Woods,Missed Three Point Jumper,17,22
+12:08,Portland State,Juwan Williams,Offensive Rebound,17,22
+12:04,Portland State,Sal Nuhu,Dunk,19,22
+11:51,Montana State,Quentin Guliford,Missed Three Point Jumper,19,22
+11:51,Portland State,Holland Woods,Defensive Rebound,19,22
+11:41,Portland State,Juwan Williams,Missed Three Point Jumper,19,22
+11:41,Montana State,Zeke Quinlan,Defensive Rebound,19,22
+11:36,Portland State,Juwan Williams,Steal,19,22
+11:35,Montana State,Zeke Quinlan,Turnover,19,22
+11:33,Portland State,Juwan Williams,Foul,19,22
+11:33,Montana State,None,None,19,22
+11:05,Montana State,Lassi Nikkarinen,Jumper,19,24
+10:52,Montana State,Quentin Guliford,Foul,19,24
+10:52,Portland State,Jamie Orme,Missed Free Throw,19,24
+10:52,Portland State,None,Team Rebound,19,24
+10:52,Portland State,Jamie Orme,Free Throw,20,24
+10:35,Montana State,Ladan Ricketts,Missed Jumper,20,24
+10:35,Portland State,Rashaad Goolsby,Defensive Rebound,20,24
+10:26,Portland State,Sal Nuhu,Turnover,20,24
+10:12,Montana State,Keljin Blevins,Layup,20,26
+9:54,Portland State,Holland Woods,Layup,22,26
+9:33,Montana State,Tyler Hall,Foul,22,26
+9:11,Portland State,Holland Woods,Turnover,22,26
+9:09,Montana State,Harald Frey,Steal,22,26
+9:03,Montana State,Keljin Blevins,Turnover,22,26
+9:01,Portland State,Michael Nuga,Steal,22,26
+8:59,Portland State,Michael Mayhew,Three Point Jumper,25,26
+8:34,Portland State,Deante Strickland,Foul,25,26
+8:34,Montana State,Harald Frey,Missed Free Throw,25,26
+8:34,Montana State,None,Team Rebound,25,26
+8:34,Montana State,Harald Frey,Free Throw,25,27
+8:21,Montana State,Harald Frey,Foul,25,27
+8:21,Portland State,Brendan Rumel,Missed Free Throw,25,27
+8:21,Montana State,Devin Kirby,Defensive Rebound,25,27
+8:10,Montana State,Tyler Hall,Missed Jumper,25,27
+8:10,Portland State,Rashaad Goolsby,Defensive Rebound,25,27
+7:59,Portland State,Deante Strickland,Missed Three Point Jumper,25,27
+7:59,Montana State,Harald Frey,Defensive Rebound,25,27
+7:46,Montana State,Lassi Nikkarinen,Three Point Jumper,25,30
+7:33,Montana State,None,None,25,30
+7:33,Portland State,Holland Woods,Turnover,25,30
+7:33,Montana State,Harald Frey,Steal,25,30
+7:19,Montana State,Keljin Blevins,Missed Layup,25,30
+7:19,Montana State,Devin Kirby,Offensive Rebound,25,30
+7:16,Portland State,Brendan Rumel,Foul,25,30
+7:16,Montana State,Devin Kirby,Free Throw,25,31
+7:16,Montana State,Devin Kirby,Free Throw,25,32
+7:00,Montana State,Lassi Nikkarinen,Foul,25,32
+7:00,Portland State,Rashaad Goolsby,Free Throw,26,32
+7:00,Portland State,Rashaad Goolsby,Missed Free Throw,26,32
+7:00,Montana State,Sam Neumann,Defensive Rebound,26,32
+6:48,Montana State,Harald Frey,Layup,26,34
+6:27,Portland State,Holland Woods,Missed Three Point Jumper,26,34
+6:27,Montana State,Harald Frey,Defensive Rebound,26,34
+6:07,Montana State,Tyler Hall,Missed Three Point Jumper,26,34
+6:07,Portland State,Rashaad Goolsby,Defensive Rebound,26,34
+5:48,Portland State,Holland Woods,Missed Layup,26,34
+5:48,Montana State,Ladan Ricketts,Defensive Rebound,26,34
+5:42,Montana State,Ladan Ricketts,Turnover,26,34
+5:40,Portland State,Deante Strickland,Steal,26,34
+5:38,Portland State,Sal Nuhu,Dunk,28,34
+5:38,Montana State,None,None,28,34
+5:26,Portland State,Sal Nuhu,Foul,28,34
+5:26,Montana State,Sam Neumann,Missed Free Throw,28,34
+5:26,Montana State,None,Team Rebound,28,34
+5:26,Montana State,Sam Neumann,Free Throw,28,35
+4:57,Portland State,Michael Nuga,Three Point Jumper,31,35
+4:41,Montana State,Ladan Ricketts,Turnover,31,35
+4:40,Portland State,Jamie Orme,Steal,31,35
+4:37,Portland State,Jamie Orme,Missed Layup,31,35
+4:37,Portland State,Deante Strickland,Offensive Rebound,31,35
+4:32,Portland State,Holland Woods,Missed Three Point Jumper,31,35
+4:32,Portland State,Deante Strickland,Offensive Rebound,31,35
+4:27,Portland State,Holland Woods,Foul,31,35
+4:27,Portland State,Holland Woods,Turnover,31,35
+4:18,Montana State,Tyler Hall,Three Point Jumper,31,38
+4:00,Montana State,None,None,31,38
+3:43,Portland State,Michael Mayhew,Missed Three Point Jumper,31,38
+3:43,Portland State,Holland Woods,Offensive Rebound,31,38
+3:36,Portland State,Holland Woods,Missed Jumper,31,38
+3:36,Montana State,Usman Haruna,Block,31,38
+3:30,Montana State,Sam Neumann,Defensive Rebound,31,38
+3:23,Montana State,Sam Neumann,Turnover,31,38
+3:21,Portland State,Holland Woods,Steal,31,38
+3:13,Portland State,Rashaad Goolsby,Missed Jumper,31,38
+3:13,Montana State,Sam Neumann,Defensive Rebound,31,38
+3:08,Montana State,Usman Haruna,Jumper,31,40
+2:46,Portland State,Michael Nuga,Missed Three Point Jumper,31,40
+2:46,Portland State,Michael Mayhew,Offensive Rebound,31,40
+2:18,Portland State,Holland Woods,Missed Three Point Jumper,31,40
+2:18,Montana State,Tyler Hall,Defensive Rebound,31,40
+2:16,Portland State,Jamie Orme,Foul,31,40
+2:16,Montana State,Tyler Hall,Free Throw,31,41
+2:16,Montana State,Tyler Hall,Free Throw,31,42
+1:51,Montana State,Devin Kirby,Foul,31,42
+1:51,Portland State,Michael Nuga,Free Throw,32,42
+1:51,Portland State,Michael Nuga,Free Throw,33,42
+1:37,Montana State,Tyler Hall,Missed Three Point Jumper,33,42
+1:37,Montana State,Keljin Blevins,Offensive Rebound,33,42
+1:33,Portland State,Jamie Orme,Foul,33,42
+1:33,Montana State,Keljin Blevins,Free Throw,33,43
+1:33,Montana State,Keljin Blevins,Missed Free Throw,33,43
+1:33,Portland State,Jamie Orme,Defensive Rebound,33,43
+1:32,Montana State,Harald Frey,Free Throw,33,44
+1:21,Portland State,Michael Nuga,Turnover,33,44
+1:05,Portland State,Jamie Orme,Foul,33,44
+1:05,Montana State,Tyler Hall,Free Throw,33,45
+1:05,Montana State,Tyler Hall,Free Throw,33,46
+0:49,Portland State,Rashaad Goolsby,Jumper,35,46
+0:47,Montana State,Devin Kirby,Foul,35,46
+0:47,Portland State,Rashaad Goolsby,Missed Free Throw,35,46
+0:47,Montana State,Devin Kirby,Defensive Rebound,35,46
+0:33,Montana State,Keljin Blevins,Missed Jumper,35,46
+0:33,Montana State,Montana State,Offensive Rebound,35,46
+0:32,Montana State,Tyler Hall,Missed Three Point Jumper,35,46
+0:32,Portland State,Deante Strickland,Defensive Rebound,35,46
+0:21,Portland State,Deante Strickland,Three Point Jumper,38,46
+0:01,Montana State,Harald Frey,Layup,38,48
+0:00,Montana State,None,None,38,48
+19:42,Montana State,Devin Kirby,Turnover,38,48
+19:20,Portland State,Michael Nuga,Turnover,38,48
+19:18,Montana State,Keljin Blevins,Steal,38,48
+19:12,Portland State,Sal Nuhu,Foul,38,48
+18:53,Montana State,Keljin Blevins,Jumper,38,50
+18:38,Portland State,Sal Nuhu,Missed Jumper,38,50
+18:38,Portland State,Portland State,Offensive Rebound,38,50
+18:34,Portland State,Michael Mayhew,Three Point Jumper,41,50
+18:09,Portland State,Robert McCoy,Foul,41,50
+18:03,Montana State,Tyler Hall,Three Point Jumper,41,53
+17:47,Portland State,Michael Mayhew,Missed Three Point Jumper,41,53
+17:47,Montana State,Harald Frey,Defensive Rebound,41,53
+17:35,Montana State,Harald Frey,Turnover,41,53
+17:33,Portland State,Robert McCoy,Steal,41,53
+17:30,Montana State,Keljin Blevins,Foul,41,53
+17:30,Portland State,Robert McCoy,Missed Free Throw,41,53
+17:30,Portland State,None,Team Rebound,41,53
+17:30,Portland State,Robert McCoy,Free Throw,42,53
+17:08,Montana State,Tyler Hall,Missed Three Point Jumper,42,53
+17:08,Montana State,Montana State,Offensive Rebound,42,53
+16:58,Portland State,Brendan Rumel,Jumper,44,53
+16:58,Montana State,Lassi Nikkarinen,Foul,44,53
+16:58,Portland State,Brendan Rumel,Free Throw,45,53
+16:49,Montana State,Tyler Hall,Missed Three Point Jumper,45,53
+16:49,Portland State,Robert McCoy,Defensive Rebound,45,53
+16:48,Montana State,Harald Frey,Missed Three Point Jumper,45,53
+16:48,Portland State,Robert McCoy,Defensive Rebound,45,53
+16:44,Portland State,Derek Brown,Foul,45,53
+16:44,Montana State,Tyler Hall,Free Throw,45,54
+16:44,Montana State,Tyler Hall,Free Throw,45,55
+16:40,Montana State,Ladan Ricketts,Foul,45,55
+16:35,Montana State,Lassi Nikkarinen,Layup,45,57
+16:05,Portland State,Holland Woods,Missed Three Point Jumper,45,57
+16:05,Montana State,Tyler Hall,Defensive Rebound,45,57
+15:53,Montana State,Tyler Hall,Missed Three Point Jumper,45,57
+15:53,Montana State,Keljin Blevins,Offensive Rebound,45,57
+15:48,Montana State,Keljin Blevins,Missed Layup,45,57
+15:48,Montana State,Devin Kirby,Offensive Rebound,45,57
+15:46,Portland State,Brendan Rumel,Foul,45,57
+15:46,Montana State,None,None,45,57
+15:31,Montana State,Harald Frey,Jumper,45,59
+15:14,Montana State,Lassi Nikkarinen,Foul,45,59
+15:07,Portland State,Rashaad Goolsby,Missed Jumper,45,59
+15:07,Portland State,Portland State,Offensive Rebound,45,59
+15:03,Portland State,Deante Strickland,Missed Three Point Jumper,45,59
+15:03,Montana State,Harald Frey,Defensive Rebound,45,59
+15:01,Portland State,Sal Nuhu,Foul,45,59
+14:52,Montana State,Ladan Ricketts,Missed Three Point Jumper,45,59
+14:52,Portland State,Deante Strickland,Defensive Rebound,45,59
+14:44,Montana State,Ladan Ricketts,Foul,45,59
+14:44,Portland State,Holland Woods,Free Throw,46,59
+14:44,Portland State,Holland Woods,Free Throw,47,59
+14:17,Montana State,Harald Frey,Three Point Jumper,47,62
+13:48,Portland State,Juwan Williams,Missed Three Point Jumper,47,62
+13:48,Montana State,Harald Frey,Defensive Rebound,47,62
+13:41,Portland State,Jamie Orme,Foul,47,62
+13:32,Montana State,Tyler Hall,Jumper,47,64
+13:23,Montana State,Harald Frey,Missed Free Throw,47,64
+13:22,Portland State,Sal Nuhu,Defensive Rebound,47,64
+12:58,Portland State,Michael Nuga,Missed Three Point Jumper,47,64
+12:58,Portland State,Rashaad Goolsby,Offensive Rebound,47,64
+12:58,Portland State,Rashaad Goolsby,Dunk,49,64
+12:58,Portland State,None,None,49,64
+12:31,Montana State,Tyler Hall,Turnover,49,64
+12:29,Portland State,Juwan Williams,Steal,49,64
+12:26,Portland State,Juwan Williams,Dunk,51,64
+12:14,Montana State,Sam Neumann,Missed Jumper,51,64
+12:14,Portland State,Rashaad Goolsby,Block,51,64
+12:14,Montana State,Montana State,Offensive Rebound,51,64
+12:09,Montana State,Lassi Nikkarinen,Missed Three Point Jumper,51,64
+12:09,Montana State,Quentin Guliford,Offensive Rebound,51,64
+12:06,Montana State,Quentin Guliford,Layup,51,66
+12:00,Montana State,Sam Neumann,Foul,51,66
+12:00,Montana State,None,None,51,66
+12:00,Portland State,Holland Woods,Free Throw,52,66
+12:00,Portland State,Holland Woods,Free Throw,53,66
+11:28,Montana State,Tyler Hall,Jumper,53,68
+10:55,Portland State,Robert McCoy,Missed Layup,53,68
+10:55,Montana State,Sam Neumann,Defensive Rebound,53,68
+10:51,Portland State,Holland Woods,Foul,53,68
+10:51,Montana State,Tyler Hall,Free Throw,53,69
+10:51,Montana State,Tyler Hall,Free Throw,53,70
+10:36,Portland State,Michael Mayhew,Foul,53,70
+10:36,Portland State,Michael Mayhew,Turnover,53,70
+10:27,Montana State,Quentin Guliford,Layup,53,72
+10:14,Portland State,Michael Nuga,Three Point Jumper,56,72
+9:58,Montana State,Keljin Blevins,Turnover,56,72
+9:45,Montana State,Sam Neumann,Foul,56,72
+9:45,Portland State,Sal Nuhu,Missed Free Throw,56,72
+9:45,Portland State,None,Team Rebound,56,72
+9:45,Portland State,Sal Nuhu,Missed Free Throw,56,72
+9:45,Montana State,Ladan Ricketts,Defensive Rebound,56,72
+9:41,Montana State,Ladan Ricketts,Turnover,56,72
+9:39,Portland State,Rashaad Goolsby,Steal,56,72
+9:38,Montana State,Harald Frey,Foul,56,72
+9:38,Portland State,Rashaad Goolsby,Missed Free Throw,56,72
+9:38,Montana State,Keljin Blevins,Defensive Rebound,56,72
+9:25,Portland State,Rashaad Goolsby,Foul,56,72
+9:25,Montana State,Keljin Blevins,Free Throw,56,73
+9:25,Montana State,Keljin Blevins,Missed Free Throw,56,73
+9:25,Portland State,Rashaad Goolsby,Defensive Rebound,56,73
+9:00,Portland State,Michael Nuga,Foul,56,73
+9:00,Montana State,Harald Frey,Free Throw,56,74
+9:00,Montana State,Harald Frey,Free Throw,56,75
+8:59,Portland State,Sal Nuhu,Dunk,58,75
+8:42,Portland State,Michael Nuga,Three Point Jumper,61,75
+8:28,Montana State,Lassi Nikkarinen,Turnover,61,75
+8:18,Montana State,Lassi Nikkarinen,Foul,61,75
+8:18,Portland State,Sal Nuhu,Free Throw,62,75
+8:18,Portland State,Sal Nuhu,Free Throw,63,75
+8:14,Montana State,Keljin Blevins,Dunk,63,77
+8:14,Portland State,Holland Woods,Layup,65,77
+7:23,Montana State,Tyler Hall,Three Point Jumper,65,80
+7:23,Portland State,Michael Mayhew,Three Point Jumper,68,80
+7:05,Portland State,Michael Mayhew,Foul,68,80
+7:05,Montana State,None,None,68,80
+7:05,Montana State,Tyler Hall,Free Throw,68,81
+7:05,Montana State,Tyler Hall,Free Throw,68,82
+6:54,Portland State,Sal Nuhu,Dunk,70,82
+6:29,Montana State,Tyler Hall,Three Point Jumper,70,85
+6:16,Portland State,Holland Woods,Foul,70,85
+6:16,Portland State,Holland Woods,Turnover,70,85
+6:15,Montana State,Tyler Hall,Turnover,70,85
+6:08,Montana State,Quentin Guliford,Foul,70,85
+6:08,Portland State,Michael Mayhew,Free Throw,71,85
+6:08,Portland State,Michael Mayhew,Missed Free Throw,71,85
+6:08,Portland State,None,Team Rebound,71,85
+6:08,Portland State,Michael Mayhew,Free Throw,72,85
+6:08,Montana State,None,None,72,85
+5:50,Montana State,Harald Frey,Three Point Jumper,72,88
+5:43,Portland State,Sal Nuhu,Turnover,72,88
+5:16,Montana State,Harald Frey,Layup,72,90
+5:06,Montana State,Tyler Hall,Foul,72,90
+5:06,Portland State,Sal Nuhu,Free Throw,73,90
+5:06,Portland State,Sal Nuhu,Free Throw,74,90
+4:59,Montana State,Keljin Blevins,Foul,74,90
+4:59,Montana State,Keljin Blevins,Turnover,74,90
+4:52,Portland State,Michael Nuga,Missed Jumper,74,90
+4:52,Montana State,Devin Kirby,Block,74,90
+4:50,Montana State,Harald Frey,Defensive Rebound,74,90
+4:41,Montana State,Tyler Hall,Missed Three Point Jumper,74,90
+4:41,Portland State,Michael Nuga,Defensive Rebound,74,90
+4:33,Portland State,Michael Nuga,Missed Layup,74,90
+4:33,Portland State,Rashaad Goolsby,Offensive Rebound,74,90
+4:29,Portland State,Rashaad Goolsby,Layup,76,90
+4:17,Montana State,None,None,76,90
+4:11,Montana State,Keljin Blevins,Turnover,76,90
+4:11,Portland State,Michael Mayhew,Steal,76,90
+4:11,Montana State,Tyler Hall,Foul,76,90
+4:01,Portland State,Juwan Williams,Three Point Jumper,79,90
+3:32,Montana State,Harald Frey,Missed Jumper,79,90
+3:32,Portland State,Holland Woods,Defensive Rebound,79,90
+3:13,Portland State,Holland Woods,Missed Jumper,79,90
+3:13,Montana State,Devin Kirby,Block,79,90
+3:12,Montana State,Tyler Hall,Defensive Rebound,79,90
+2:49,Montana State,Tyler Hall,Turnover,79,90
+2:47,Portland State,Deante Strickland,Steal,79,90
+2:45,Portland State,Holland Woods,Three Point Jumper,82,90
+2:31,Portland State,Michael Mayhew,Steal,82,90
+2:30,Montana State,Quentin Guliford,Turnover,82,90
+2:28,Portland State,Michael Mayhew,Missed Layup,82,90
+2:28,Portland State,Deante Strickland,Offensive Rebound,82,90
+2:25,Portland State,Deante Strickland,Layup,84,90
+2:13,Portland State,Deante Strickland,Foul,84,90
+2:13,Montana State,Harald Frey,Free Throw,84,91
+2:13,Montana State,Harald Frey,Free Throw,84,92
+2:06,Portland State,Juwan Williams,Missed Three Point Jumper,84,92
+2:06,Montana State,Sam Neumann,Defensive Rebound,84,92
+2:05,Portland State,Rashaad Goolsby,Foul,84,92
+2:05,Portland State,None,None,84,92
+2:05,Montana State,Devin Kirby,Free Throw,84,93
+2:05,Montana State,Devin Kirby,Free Throw,84,94
+1:44,Portland State,Holland Woods,Missed Three Point Jumper,84,94
+1:44,Montana State,Montana State,Defensive Rebound,84,94
+1:12,Montana State,Harald Frey,Jumper,84,96
+1:03,Montana State,Tyler Hall,Foul,84,96
+1:03,Portland State,Holland Woods,Free Throw,85,96
+1:03,Portland State,Holland Woods,Free Throw,86,96
+0:42,Montana State,Harald Frey,Missed Three Point Jumper,86,96
+0:42,Portland State,Holland Woods,Defensive Rebound,86,96
+0:34,Montana State,Sam Neumann,Foul,86,96
+0:34,Portland State,Holland Woods,Free Throw,87,96
+0:34,Portland State,Holland Woods,Free Throw,88,96
+0:34,Portland State,None,None,88,96
+0:19,Portland State,Jamie Orme,Foul,88,96
+0:19,Montana State,Ladan Ricketts,Free Throw,88,97
+0:19,Montana State,Ladan Ricketts,Free Throw,88,98
+0:14,Portland State,Holland Woods,Missed Jumper,88,98
+0:14,Portland State,Holland Woods,Offensive Rebound,88,98
+0:10,Portland State,Holland Woods,Missed Jumper,88,98
+0:10,Montana State,Sam Neumann,Block,88,98
+0:08,Montana State,Sam Neumann,Defensive Rebound,88,98
+0:00,Montana State,None,None,88,98

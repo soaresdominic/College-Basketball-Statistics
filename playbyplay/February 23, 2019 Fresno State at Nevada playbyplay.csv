@@ -1,0 +1,326 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Nevada,None,None,0,0
+19:38,Nevada,Jordan Caroline,Three Point Jumper,0,3
+19:13,Fresno State,Sam Bittner,Three Point Jumper,3,3
+18:49,Nevada,Caleb Martin,Turnover,3,3
+18:35,Fresno State,Braxton Huggins,Three Point Jumper,6,3
+18:17,Nevada,Cody Martin,Missed Three Point Jumper,6,3
+18:17,Fresno State,Christian Gray,Defensive Rebound,6,3
+18:04,Fresno State,Deshon Taylor,Three Point Jumper,9,3
+17:50,Fresno State,Christian Gray,Foul,9,3
+17:49,Nevada,Caleb Martin,Three Point Jumper,9,6
+17:19,Fresno State,Braxton Huggins,Layup,11,6
+17:19,Nevada,Trey Porter,Foul,11,6
+17:19,Fresno State,Braxton Huggins,Free Throw,12,6
+17:15,Nevada,Jazz Johnson,Three Point Jumper,12,9
+16:58,Fresno State,Noah Blackwell,Missed Three Point Jumper,12,9
+16:58,Nevada,Caleb Martin,Defensive Rebound,12,9
+16:51,Fresno State,Braxton Huggins,Foul,12,9
+16:51,Nevada,Caleb Martin,Free Throw,12,10
+16:51,Nevada,Caleb Martin,Free Throw,12,11
+16:29,Fresno State,Deshon Taylor,Three Point Jumper,15,11
+16:18,Nevada,Cody Martin,Foul,15,11
+16:18,Nevada,Cody Martin,Turnover,15,11
+16:08,Fresno State,Noah Blackwell,Foul,15,11
+16:08,Fresno State,Noah Blackwell,Turnover,15,11
+15:51,Nevada,Caleb Martin,Layup,15,13
+15:27,Fresno State,Deshon Taylor,Jumper,17,13
+15:09,Nevada,Jazz Johnson,Missed Jumper,17,13
+15:09,Fresno State,Deshon Taylor,Defensive Rebound,17,13
+14:58,Fresno State,Deshon Taylor,Missed Three Point Jumper,17,13
+14:58,Fresno State,Nate Grimes,Offensive Rebound,17,13
+14:40,Fresno State,Braxton Huggins,Turnover,17,13
+14:40,Nevada,None,None,17,13
+14:27,Nevada,Caleb Martin,Missed Jumper,17,13
+14:27,Nevada,Caleb Martin,Offensive Rebound,17,13
+14:22,Nevada,Tre'Shawn Thurman,Dunk,17,15
+13:50,Fresno State,New Williams,Missed Three Point Jumper,17,15
+13:50,Fresno State,Nate Grimes,Offensive Rebound,17,15
+13:41,Fresno State,Sam Bittner,Missed Layup,17,15
+13:41,Nevada,Tre'Shawn Thurman,Defensive Rebound,17,15
+13:27,Nevada,Jordan Caroline,Missed Three Point Jumper,17,15
+13:27,Fresno State,Braxton Huggins,Defensive Rebound,17,15
+13:12,Fresno State,Nate Grimes,Jumper,19,15
+12:42,Nevada,Cody Martin,Three Point Jumper,19,18
+12:20,Fresno State,New Williams,Turnover,19,18
+12:20,Nevada,Caleb Martin,Steal,19,18
+11:57,Nevada,Jordan Caroline,Turnover,19,18
+11:57,Fresno State,Braxton Huggins,Steal,19,18
+11:51,Fresno State,New Williams,Foul,19,18
+11:51,Fresno State,New Williams,Turnover,19,18
+11:51,Nevada,None,None,19,18
+11:35,Nevada,Jordan Brown,Missed Jumper,19,18
+11:35,Fresno State,Nate Grimes,Block,19,18
+11:35,Nevada,Jordan Brown,Offensive Rebound,19,18
+11:28,Fresno State,Aguir Agau,Foul,19,18
+11:16,Nevada,Caleb Martin,Three Point Jumper,19,21
+10:41,Fresno State,Noah Blackwell,Missed Three Point Jumper,19,21
+10:41,Nevada,Jordan Brown,Defensive Rebound,19,21
+10:26,Nevada,Caleb Martin,Missed Three Point Jumper,19,21
+10:26,Fresno State,New Williams,Block,19,21
+10:26,Fresno State,Deshon Taylor,Defensive Rebound,19,21
+10:14,Fresno State,Nate Grimes,Layup,21,21
+10:01,Nevada,Cody Martin,Missed Layup,21,21
+10:01,Fresno State,Fresno State,Defensive Rebound,21,21
+10:01,Nevada,Jordan Brown,Foul,21,21
+9:50,Fresno State,Aguir Agau,Foul,21,21
+9:50,Fresno State,Aguir Agau,Turnover,21,21
+9:36,Nevada,Jordan Caroline,Turnover,21,21
+9:19,Fresno State,New Williams,Missed Jumper,21,21
+9:19,Fresno State,Christian Gray,Offensive Rebound,21,21
+9:15,Fresno State,Noah Blackwell,Missed Jumper,21,21
+9:15,Nevada,Cody Martin,Defensive Rebound,21,21
+9:06,Nevada,Jordan Caroline,Three Point Jumper,21,24
+8:41,Fresno State,Braxton Huggins,Missed Three Point Jumper,21,24
+8:41,Nevada,Jazz Johnson,Defensive Rebound,21,24
+8:30,Nevada,Cody Martin,Missed Jumper,21,24
+8:30,Nevada,Tre'Shawn Thurman,Offensive Rebound,21,24
+8:23,Nevada,Jordan Caroline,Missed Three Point Jumper,21,24
+8:23,Fresno State,Noah Blackwell,Defensive Rebound,21,24
+8:15,Fresno State,New Williams,Layup,23,24
+7:54,Fresno State,New Williams,Foul,23,24
+7:54,Nevada,None,None,23,24
+7:54,Nevada,Tre'Shawn Thurman,Free Throw,23,25
+7:54,Nevada,Tre'Shawn Thurman,Missed Free Throw,23,25
+7:54,Nevada,Nevada,Offensive Rebound,23,25
+7:37,Nevada,Jazz Johnson,Turnover,23,25
+7:37,Fresno State,Nate Grimes,Steal,23,25
+7:26,Fresno State,Nate Grimes,Missed Jumper,23,25
+7:26,Nevada,Jordan Caroline,Defensive Rebound,23,25
+7:13,Nevada,Jordan Caroline,Layup,23,27
+6:53,Fresno State,Noah Blackwell,Three Point Jumper,26,27
+6:53,Nevada,Trey Porter,Foul,26,27
+6:53,Nevada,Trey Porter,Turnover,26,27
+6:53,Fresno State,Nate Grimes,Missed Free Throw,26,27
+6:53,Fresno State,None,Team Rebound,26,27
+6:53,Fresno State,Nate Grimes,Free Throw,27,27
+6:45,Fresno State,Deshon Taylor,Missed Layup,27,27
+6:45,Fresno State,Nate Grimes,Offensive Rebound,27,27
+6:45,Fresno State,None,None,29,27
+6:24,Nevada,Jazz Johnson,Three Point Jumper,29,30
+5:51,Fresno State,Deshon Taylor,Layup,31,30
+5:43,Fresno State,Braxton Huggins,Foul,31,30
+5:43,Nevada,Caleb Martin,Missed Free Throw,31,30
+5:43,Fresno State,Nate Grimes,Defensive Rebound,31,30
+5:17,Fresno State,Deshon Taylor,Layup,33,30
+5:07,Nevada,Cody Martin,Turnover,33,30
+4:53,Fresno State,New Williams,Missed Three Point Jumper,33,30
+4:53,Nevada,Cody Martin,Defensive Rebound,33,30
+4:28,Nevada,Cody Martin,Layup,33,32
+4:15,Fresno State,Aguir Agau,Missed Three Point Jumper,33,32
+4:15,Nevada,Tre'Shawn Thurman,Defensive Rebound,33,32
+4:06,Nevada,Jazz Johnson,Three Point Jumper,33,35
+4:02,Fresno State,None,None,33,35
+4:02,Nevada,None,None,33,35
+3:54,Fresno State,Deshon Taylor,Layup,35,35
+3:34,Nevada,Jazz Johnson,Foul,35,35
+3:34,Nevada,Jazz Johnson,Turnover,35,35
+3:29,Fresno State,New Williams,Missed Three Point Jumper,35,35
+3:29,Nevada,Jordan Caroline,Defensive Rebound,35,35
+3:16,Nevada,Jordan Caroline,Turnover,35,35
+3:01,Fresno State,Deshon Taylor,Missed Layup,35,35
+3:01,Nevada,Tre'Shawn Thurman,Defensive Rebound,35,35
+2:45,Fresno State,Deshon Taylor,Foul,35,35
+2:45,Nevada,Tre'Shawn Thurman,Free Throw,35,36
+2:45,Nevada,Tre'Shawn Thurman,Free Throw,35,37
+2:27,Fresno State,Braxton Huggins,Missed Jumper,35,37
+2:27,Nevada,Jordan Caroline,Defensive Rebound,35,37
+2:21,Fresno State,Sam Bittner,Foul,35,37
+2:21,Nevada,Jordan Caroline,Missed Free Throw,35,37
+2:21,Nevada,None,Team Rebound,35,37
+2:21,Nevada,Jordan Caroline,Free Throw,35,38
+2:13,Fresno State,Nate Grimes,Dunk,37,38
+1:42,Nevada,Jordan Caroline,Missed Three Point Jumper,37,38
+1:42,Fresno State,Sam Bittner,Defensive Rebound,37,38
+1:38,Nevada,Cody Martin,Foul,37,38
+1:27,Fresno State,Deshon Taylor,Missed Layup,37,38
+1:27,Nevada,Caleb Martin,Block,37,38
+1:27,Fresno State,Fresno State,Offensive Rebound,37,38
+1:24,Nevada,Caleb Martin,Foul,37,38
+1:24,Fresno State,Deshon Taylor,Free Throw,38,38
+1:24,Fresno State,Deshon Taylor,Free Throw,39,38
+1:14,Fresno State,Deshon Taylor,Foul,39,38
+1:14,Nevada,Caleb Martin,Free Throw,39,39
+1:14,Nevada,Caleb Martin,Free Throw,39,40
+1:06,Fresno State,Deshon Taylor,Turnover,39,40
+0:55,Nevada,Caleb Martin,Missed Jumper,39,40
+0:55,Fresno State,Nate Grimes,Defensive Rebound,39,40
+0:42,Fresno State,Sam Bittner,Missed Three Point Jumper,39,40
+0:42,Nevada,Corey Henson,Defensive Rebound,39,40
+0:16,Nevada,Tre'Shawn Thurman,Layup,39,42
+0:02,Fresno State,Sam Bittner,Missed Three Point Jumper,39,42
+0:02,Nevada,Corey Henson,Defensive Rebound,39,42
+0:00,Nevada,None,None,39,42
+20:00,Fresno State,None,None,39,42
+19:51,Fresno State,Braxton Huggins,Three Point Jumper,42,42
+19:34,Nevada,Trey Porter,Dunk,42,44
+19:04,Fresno State,Sam Bittner,Layup,44,44
+18:48,Nevada,Cody Martin,Missed Jumper,44,44
+18:48,Fresno State,Christian Gray,Defensive Rebound,44,44
+18:39,Fresno State,Braxton Huggins,Missed Layup,44,44
+18:39,Nevada,Cody Martin,Defensive Rebound,44,44
+18:36,Fresno State,Christian Gray,Foul,44,44
+18:23,Nevada,Caleb Martin,Missed Layup,44,44
+18:23,Fresno State,Noah Blackwell,Defensive Rebound,44,44
+18:15,Nevada,Jazz Johnson,Foul,44,44
+18:15,Fresno State,Deshon Taylor,Missed Free Throw,44,44
+18:15,Fresno State,None,Team Rebound,44,44
+18:15,Fresno State,Deshon Taylor,Free Throw,45,44
+17:53,Fresno State,Braxton Huggins,Foul,45,44
+17:46,Nevada,Cody Martin,Missed Jumper,45,44
+17:46,Fresno State,Nate Grimes,Defensive Rebound,45,44
+17:42,Fresno State,Nate Grimes,Turnover,45,44
+17:42,Nevada,Jordan Caroline,Steal,45,44
+17:42,Fresno State,Sam Bittner,Foul,45,44
+17:42,Nevada,Trey Porter,Foul,45,44
+17:42,Nevada,Jordan Caroline,Missed Free Throw,45,44
+17:42,Nevada,None,Team Rebound,45,44
+17:42,Nevada,Jordan Caroline,Free Throw,45,45
+17:42,Fresno State,Sam Bittner,Foul,45,45
+17:42,Fresno State,Noah Blackwell,Missed Three Point Jumper,45,45
+17:42,Nevada,Tre'Shawn Thurman,Defensive Rebound,45,45
+17:13,Nevada,Jordan Caroline,Foul,45,45
+17:13,Nevada,Jordan Caroline,Turnover,45,45
+16:52,Fresno State,Nate Grimes,Missed Jumper,45,45
+16:52,Nevada,Cody Martin,Defensive Rebound,45,45
+16:32,Nevada,Caleb Martin,Missed Three Point Jumper,45,45
+16:32,Fresno State,Nate Grimes,Defensive Rebound,45,45
+16:18,Fresno State,Nate Grimes,Dunk,47,45
+15:38,Nevada,Jazz Johnson,Missed Three Point Jumper,47,45
+15:38,Fresno State,Sam Bittner,Defensive Rebound,47,45
+15:24,Fresno State,Nate Grimes,Foul,47,45
+15:24,Fresno State,Nate Grimes,Turnover,47,45
+15:24,Nevada,None,None,47,45
+15:06,Fresno State,Braxton Huggins,Foul,47,45
+15:06,Nevada,Caleb Martin,Missed Free Throw,47,45
+15:06,Nevada,None,Team Rebound,47,45
+15:06,Nevada,Caleb Martin,Free Throw,47,46
+14:51,Fresno State,Noah Blackwell,Turnover,47,46
+14:51,Nevada,Cody Martin,Steal,47,46
+14:40,Nevada,Caleb Martin,Turnover,47,46
+14:28,Fresno State,Deshon Taylor,Turnover,47,46
+14:28,Nevada,Jazz Johnson,Steal,47,46
+14:26,Nevada,Jazz Johnson,Missed Three Point Jumper,47,46
+14:26,Nevada,Tre'Shawn Thurman,Offensive Rebound,47,46
+14:26,Fresno State,Christian Gray,Foul,47,46
+14:26,Nevada,Tre'Shawn Thurman,Free Throw,47,47
+14:26,Nevada,Tre'Shawn Thurman,Free Throw,47,48
+14:10,Fresno State,Sam Bittner,Turnover,47,48
+14:10,Fresno State,None,None,47,48
+14:10,Nevada,None,None,47,48
+13:57,Nevada,Caleb Martin,Foul,47,48
+13:57,Nevada,Caleb Martin,Turnover,47,48
+13:48,Fresno State,Deshon Taylor,Missed Jumper,47,48
+13:48,Nevada,Jordan Caroline,Defensive Rebound,47,48
+13:39,Nevada,Cody Martin,Missed Layup,47,48
+13:39,Nevada,Cody Martin,Offensive Rebound,47,48
+13:39,Nevada,None,None,47,50
+13:07,Fresno State,New Williams,Missed Three Point Jumper,47,50
+13:07,Nevada,Jordan Caroline,Defensive Rebound,47,50
+12:52,Nevada,Jordan Caroline,Layup,47,52
+12:18,Fresno State,Deshon Taylor,Missed Jumper,47,52
+12:18,Nevada,Jazz Johnson,Defensive Rebound,47,52
+12:06,Nevada,Jordan Caroline,Missed Three Point Jumper,47,52
+12:06,Fresno State,New Williams,Defensive Rebound,47,52
+11:46,Nevada,Tre'Shawn Thurman,Foul,47,52
+11:46,Nevada,None,None,47,52
+11:37,Fresno State,Noah Blackwell,Missed Jumper,47,52
+11:37,Fresno State,Christian Gray,Offensive Rebound,47,52
+11:33,Fresno State,Christian Gray,Missed Layup,47,52
+11:33,Fresno State,Noah Blackwell,Offensive Rebound,47,52
+11:19,Nevada,Tre'Shawn Thurman,Foul,47,52
+10:58,Fresno State,Sam Bittner,Three Point Jumper,50,52
+10:34,Nevada,Caleb Martin,Missed Three Point Jumper,50,52
+10:34,Fresno State,Fresno State,Defensive Rebound,50,52
+10:20,Fresno State,Christian Gray,Missed Layup,50,52
+10:20,Nevada,Tre'Shawn Thurman,Defensive Rebound,50,52
+10:01,Nevada,Tre'Shawn Thurman,Missed Jumper,50,52
+10:01,Fresno State,Deshon Taylor,Defensive Rebound,50,52
+9:50,Fresno State,Deshon Taylor,Three Point Jumper,53,52
+9:36,Nevada,Caleb Martin,Missed Jumper,53,52
+9:36,Nevada,Cody Martin,Offensive Rebound,53,52
+9:28,Nevada,Jordan Caroline,Missed Three Point Jumper,53,52
+9:28,Fresno State,Nate Grimes,Defensive Rebound,53,52
+8:55,Fresno State,New Williams,Missed Three Point Jumper,53,52
+8:55,Fresno State,Nate Grimes,Offensive Rebound,53,52
+8:55,Fresno State,None,None,55,52
+8:28,Nevada,Cody Martin,Missed Jumper,55,52
+8:28,Fresno State,Nate Grimes,Defensive Rebound,55,52
+8:01,Fresno State,Sam Bittner,Turnover,55,52
+7:48,Nevada,Jordan Caroline,Three Point Jumper,55,55
+7:24,Fresno State,Deshon Taylor,Turnover,55,55
+7:24,Nevada,Cody Martin,Steal,55,55
+7:09,Fresno State,Nate Grimes,Foul,55,55
+7:09,Nevada,None,None,55,55
+7:09,Nevada,Jazz Johnson,Free Throw,55,56
+7:09,Nevada,Jazz Johnson,Missed Free Throw,55,56
+7:09,Fresno State,Nate Grimes,Defensive Rebound,55,56
+6:54,Fresno State,Deshon Taylor,Missed Jumper,55,56
+6:54,Fresno State,Fresno State,Offensive Rebound,55,56
+6:47,Nevada,Cody Martin,Foul,55,56
+6:47,Fresno State,Nate Grimes,Missed Free Throw,55,56
+6:47,Nevada,Tre'Shawn Thurman,Defensive Rebound,55,56
+6:39,Nevada,Cody Martin,Missed Three Point Jumper,55,56
+6:39,Fresno State,Fresno State,Defensive Rebound,55,56
+6:09,Fresno State,Deshon Taylor,Missed Three Point Jumper,55,56
+6:09,Fresno State,Sam Bittner,Offensive Rebound,55,56
+6:01,Fresno State,Deshon Taylor,Three Point Jumper,58,56
+5:47,Fresno State,Sam Bittner,Foul,58,56
+5:47,Nevada,Jordan Caroline,Missed Free Throw,58,56
+5:47,Nevada,None,Team Rebound,58,56
+5:47,Nevada,Jordan Caroline,Free Throw,58,57
+5:17,Fresno State,Braxton Huggins,Turnover,58,57
+5:17,Nevada,Jordan Caroline,Steal,58,57
+5:15,Nevada,Jordan Caroline,Foul,58,57
+5:15,Nevada,Jordan Caroline,Turnover,58,57
+5:01,Fresno State,Deshon Taylor,Layup,60,57
+4:46,Nevada,Caleb Martin,Layup,60,59
+4:46,Fresno State,Nate Grimes,Foul,60,59
+4:46,Nevada,Caleb Martin,Free Throw,60,60
+4:35,Fresno State,Deshon Taylor,Layup,62,60
+4:26,Fresno State,Braxton Huggins,Foul,62,60
+4:26,Nevada,Caleb Martin,Free Throw,62,61
+4:26,Nevada,Caleb Martin,Free Throw,62,62
+4:09,Nevada,None,None,62,62
+4:09,Fresno State,Deshon Taylor,Turnover,62,62
+4:09,Nevada,Cody Martin,Steal,62,62
+4:00,Nevada,Caleb Martin,Three Point Jumper,62,65
+3:49,Nevada,Tre'Shawn Thurman,Foul,62,65
+3:49,Nevada,None,None,62,65
+3:49,Fresno State,Deshon Taylor,Missed Free Throw,62,65
+3:49,Fresno State,None,Team Rebound,62,65
+3:49,Fresno State,Deshon Taylor,Missed Free Throw,62,65
+3:49,Fresno State,Deshon Taylor,Offensive Rebound,62,65
+3:46,Fresno State,None,None,62,65
+3:25,Fresno State,Noah Blackwell,Missed Jumper,62,65
+3:25,Nevada,Jordan Caroline,Defensive Rebound,62,65
+2:58,Nevada,Caleb Martin,Missed Three Point Jumper,62,65
+2:58,Nevada,Cody Martin,Offensive Rebound,62,65
+2:28,Nevada,Jordan Caroline,Missed Three Point Jumper,62,65
+2:28,Nevada,Tre'Shawn Thurman,Offensive Rebound,62,65
+2:23,Nevada,Tre'Shawn Thurman,Layup,62,67
+2:23,Fresno State,Christian Gray,Foul,62,67
+2:23,Nevada,Tre'Shawn Thurman,Free Throw,62,68
+2:03,Fresno State,Sam Bittner,Missed Three Point Jumper,62,68
+2:03,Nevada,Tre'Shawn Thurman,Defensive Rebound,62,68
+1:31,Nevada,Caleb Martin,Turnover,62,68
+1:31,Fresno State,None,None,62,68
+1:13,Fresno State,Deshon Taylor,Three Point Jumper,65,68
+0:46,Nevada,Tre'Shawn Thurman,Dunk,65,70
+0:25,Fresno State,Deshon Taylor,Turnover,65,70
+0:25,Nevada,Jazz Johnson,Steal,65,70
+0:19,Fresno State,Noah Blackwell,Foul,65,70
+0:19,Nevada,Jordan Caroline,Missed Free Throw,65,70
+0:19,Nevada,None,Team Rebound,65,70
+0:19,Nevada,Jordan Caroline,Free Throw,65,71
+0:14,Fresno State,Nate Grimes,Three Point Jumper,68,71
+0:09,Fresno State,Deshon Taylor,Foul,68,71
+0:09,Nevada,Caleb Martin,Free Throw,68,72
+0:09,Nevada,Caleb Martin,Missed Free Throw,68,72
+0:09,Fresno State,Sam Bittner,Defensive Rebound,68,72
+0:07,Fresno State,Sam Bittner,Turnover,68,72
+0:07,Nevada,Caleb Martin,Steal,68,72
+0:03,Fresno State,Sam Bittner,Foul,68,72
+0:03,Nevada,Caleb Martin,Free Throw,68,73
+0:03,Nevada,Caleb Martin,Free Throw,68,74
+0:00,Nevada,None,None,68,74

@@ -1,0 +1,419 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,Western Carolina,Kameron Gibson,Three Point Jumper,3,0
+19:24,Furman,Jordan Lyons,Turnover,3,0
+19:23,Western Carolina,Kameron Gibson,Steal,3,0
+19:19,Western Carolina,Marc Gosselin,Layup,5,0
+19:01,Furman,Noah Gurley,Three Point Jumper,5,3
+18:40,Western Carolina,Kameron Gibson,Missed Three Point Jumper,5,3
+18:40,Furman,Alex Hunter,Defensive Rebound,5,3
+18:34,Furman,Jordan Lyons,Three Point Jumper,5,6
+18:15,Western Carolina,Onno Steger,Missed Three Point Jumper,5,6
+18:15,Furman,Alex Hunter,Defensive Rebound,5,6
+18:09,Furman,Jordan Lyons,Missed Three Point Jumper,5,6
+18:09,Furman,Noah Gurley,Offensive Rebound,5,6
+18:05,Furman,Matt Rafferty,Layup,5,8
+17:43,Western Carolina,Carlos Dotson,Turnover,5,8
+17:34,Western Carolina,Onno Steger,Foul,5,8
+17:29,Furman,Jordan Lyons,Turnover,5,8
+17:28,Western Carolina,Marc Gosselin,Steal,5,8
+17:09,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,5,8
+17:09,Furman,Matt Rafferty,Defensive Rebound,5,8
+16:57,Furman,Noah Gurley,Missed Three Point Jumper,5,8
+16:57,Western Carolina,Onno Steger,Defensive Rebound,5,8
+16:49,Furman,Jordan Lyons,Foul,5,8
+16:38,Western Carolina,Marcus Thomas,Missed Layup,5,8
+16:38,Furman,Matt Rafferty,Defensive Rebound,5,8
+16:28,Furman,Matt Rafferty,Turnover,5,8
+16:06,Western Carolina,Kameron Gibson,Missed Three Point Jumper,5,8
+16:06,Furman,Clay Mounce,Defensive Rebound,5,8
+15:53,Furman,Matt Rafferty,Layup,5,10
+15:42,Western Carolina,D.J. Myers,Turnover,5,10
+15:41,Furman,Clay Mounce,Steal,5,10
+15:36,Furman,Alex Hunter,Turnover,5,10
+15:36,Furman,None,None,5,10
+15:06,Western Carolina,Matt Halvorsen,Three Point Jumper,8,10
+14:43,Furman,Alex Hunter,Missed Three Point Jumper,8,10
+14:43,Furman,Clay Mounce,Offensive Rebound,8,10
+14:37,Furman,Mike Bothwell,Missed Three Point Jumper,8,10
+14:37,Western Carolina,Matt Halvorsen,Defensive Rebound,8,10
+14:16,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,8,10
+14:16,Furman,Tre Clark,Defensive Rebound,8,10
+14:10,Furman,Tre Clark,Turnover,8,10
+14:09,Western Carolina,Matt Halvorsen,Steal,8,10
+14:06,Western Carolina,Matt Halvorsen,Missed Layup,8,10
+14:06,Furman,Tre Clark,Block,8,10
+14:05,Furman,Tre Clark,Defensive Rebound,8,10
+14:00,Furman,Jordan Lyons,Missed Jumper,8,10
+14:00,Furman,Clay Mounce,Offensive Rebound,8,10
+13:29,Furman,Jordan Lyons,Missed Jumper,8,10
+13:29,Western Carolina,Marc Gosselin,Defensive Rebound,8,10
+13:19,Furman,Clay Mounce,Foul,8,10
+13:19,Western Carolina,Onno Steger,Free Throw,9,10
+13:19,Western Carolina,Onno Steger,Free Throw,10,10
+13:06,Furman,Matt Rafferty,Missed Jumper,10,10
+13:06,Western Carolina,Carlos Dotson,Defensive Rebound,10,10
+12:54,Western Carolina,Marcus Thomas,Turnover,10,10
+12:52,Furman,Mike Bothwell,Steal,10,10
+12:50,Furman,Mike Bothwell,Jumper,10,12
+12:32,Western Carolina,Marcus Thomas,Layup,12,12
+12:21,Furman,Jordan Lyons,Missed Three Point Jumper,12,12
+12:21,Western Carolina,Kameron Gibson,Defensive Rebound,12,12
+12:10,Western Carolina,Kameron Gibson,Layup,14,12
+11:41,Furman,Matt Rafferty,Missed Layup,14,12
+11:41,Western Carolina,Carlos Dotson,Block,14,12
+11:39,Western Carolina,Carlos Dotson,Defensive Rebound,14,12
+11:31,Western Carolina,Carlos Dotson,Turnover,14,12
+11:30,Furman,Matt Rafferty,Steal,14,12
+11:23,Western Carolina,D.J. Myers,Foul,14,12
+11:23,Furman,None,None,14,12
+11:09,Furman,Matt Rafferty,Missed Jumper,14,12
+11:09,Western Carolina,Carlos Dotson,Defensive Rebound,14,12
+10:39,Western Carolina,Onno Steger,Three Point Jumper,17,12
+10:15,Furman,Alex Hunter,Missed Three Point Jumper,17,12
+10:15,Furman,Clay Mounce,Offensive Rebound,17,12
+10:12,Furman,Clay Mounce,Layup,17,14
+9:50,Western Carolina,D.J. Myers,Missed Layup,17,14
+9:50,Furman,Matt Rafferty,Defensive Rebound,17,14
+9:43,Furman,Jordan Lyons,Layup,17,16
+9:14,Western Carolina,Carlos Dotson,Missed Layup,17,16
+9:14,Furman,Matt Rafferty,Defensive Rebound,17,16
+9:00,Western Carolina,D.J. Myers,Foul,17,16
+9:00,Furman,Clay Mounce,Missed Free Throw,17,16
+9:00,Furman,None,Team Rebound,17,16
+9:00,Furman,Clay Mounce,Free Throw,17,17
+8:45,Western Carolina,D.J. Myers,Missed Layup,17,17
+8:45,Furman,Matt Rafferty,Block,17,17
+8:44,Furman,Clay Mounce,Defensive Rebound,17,17
+8:23,Furman,Matt Rafferty,Jumper,17,19
+7:56,Western Carolina,Kameron Gibson,Three Point Jumper,20,19
+7:45,Furman,Jordan Lyons,Missed Three Point Jumper,20,19
+7:45,Western Carolina,D.J. Myers,Defensive Rebound,20,19
+7:34,Western Carolina,Josh Cottrell,Three Point Jumper,23,19
+7:09,Furman,Matt Rafferty,Layup,23,21
+6:48,Furman,Jalen Slawson,Foul,23,21
+6:48,Furman,None,None,23,21
+6:48,Western Carolina,Kameron Gibson,Free Throw,24,21
+6:48,Western Carolina,Kameron Gibson,Missed Free Throw,24,21
+6:48,Furman,Clay Mounce,Defensive Rebound,24,21
+6:33,Furman,Matt Rafferty,Missed Jumper,24,21
+6:33,Western Carolina,Carlos Dotson,Defensive Rebound,24,21
+6:16,Western Carolina,Carlos Dotson,Turnover,24,21
+6:15,Furman,Matt Rafferty,Steal,24,21
+6:12,Furman,Mike Bothwell,Layup,24,23
+6:12,Western Carolina,Josh Cottrell,Foul,24,23
+6:12,Furman,Mike Bothwell,Free Throw,24,24
+5:43,Western Carolina,Onno Steger,Three Point Jumper,27,24
+5:21,Furman,Alex Hunter,Missed Jumper,27,24
+5:21,Western Carolina,Carlos Dotson,Defensive Rebound,27,24
+5:09,Western Carolina,Marc Gosselin,Missed Layup,27,24
+5:09,Furman,Matt Rafferty,Defensive Rebound,27,24
+5:01,Furman,Clay Mounce,Turnover,27,24
+4:48,Furman,Alex Hunter,Foul,27,24
+4:48,Western Carolina,D.J. Myers,Missed Free Throw,27,24
+4:48,Western Carolina,None,Team Rebound,27,24
+4:48,Western Carolina,D.J. Myers,Missed Free Throw,27,24
+4:48,Furman,Noah Gurley,Defensive Rebound,27,24
+4:47,Western Carolina,Marc Gosselin,Foul,27,24
+4:33,Western Carolina,Onno Steger,Foul,27,24
+4:25,Furman,Noah Gurley,Missed Three Point Jumper,27,24
+4:25,Furman,Mike Bothwell,Offensive Rebound,27,24
+4:22,Western Carolina,Marcus Thomas,Foul,27,24
+4:22,Furman,Mike Bothwell,Missed Free Throw,27,24
+4:22,Western Carolina,Josh Cottrell,Defensive Rebound,27,24
+4:11,Western Carolina,Marc Gosselin,Three Point Jumper,30,24
+3:49,Furman,Clay Mounce,Layup,30,26
+3:35,Western Carolina,Carlos Dotson,Missed Jumper,30,26
+3:35,Furman,Mike Bothwell,Defensive Rebound,30,26
+3:23,Furman,Mike Bothwell,Missed Three Point Jumper,30,26
+3:23,Furman,Noah Gurley,Offensive Rebound,30,26
+3:17,Furman,Clay Mounce,Missed Layup,30,26
+3:17,Western Carolina,Carlos Dotson,Defensive Rebound,30,26
+3:10,Western Carolina,Kameron Gibson,Three Point Jumper,33,26
+3:08,Furman,None,None,33,26
+3:08,Furman,None,None,33,26
+2:58,Furman,Clay Mounce,Layup,33,28
+2:47,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,33,28
+2:47,Furman,Jordan Lyons,Defensive Rebound,33,28
+2:18,Furman,Jordan Lyons,Missed Jumper,33,28
+2:18,Furman,Noah Gurley,Offensive Rebound,33,28
+2:13,Furman,Jordan Lyons,Jumper,33,30
+2:05,Western Carolina,Josh Cottrell,Missed Three Point Jumper,33,30
+2:05,Furman,Alex Hunter,Defensive Rebound,33,30
+1:57,Furman,Jordan Lyons,Missed Three Point Jumper,33,30
+1:57,Western Carolina,Marc Gosselin,Defensive Rebound,33,30
+1:44,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,33,30
+1:44,Furman,Matt Rafferty,Defensive Rebound,33,30
+1:42,Western Carolina,Carlos Dotson,Foul,33,30
+1:42,Furman,Matt Rafferty,Missed Free Throw,33,30
+1:42,Furman,Clay Mounce,Offensive Rebound,33,30
+1:27,Western Carolina,Marcus Thomas,Foul,33,30
+1:27,Furman,Matt Rafferty,Free Throw,33,31
+1:27,Furman,Matt Rafferty,Free Throw,33,32
+1:11,Western Carolina,Marcus Thomas,Missed Three Point Jumper,33,32
+1:11,Furman,Matt Rafferty,Defensive Rebound,33,32
+0:56,Furman,Jordan Lyons,Jumper,33,34
+0:36,Furman,Noah Gurley,Foul,33,34
+0:21,Furman,Matt Rafferty,Foul,33,34
+0:21,Western Carolina,Carlos Dotson,Missed Free Throw,33,34
+0:21,Western Carolina,None,Team Rebound,33,34
+0:21,Western Carolina,Carlos Dotson,Missed Free Throw,33,34
+0:21,Furman,Clay Mounce,Defensive Rebound,33,34
+0:09,Furman,Jordan Lyons,Missed Three Point Jumper,33,34
+0:09,Western Carolina,Kameron Gibson,Block,33,34
+0:06,Western Carolina,Matt Halvorsen,Defensive Rebound,33,34
+0:02,Western Carolina,Marcus Thomas,Missed Layup,33,34
+0:02,Furman,Clay Mounce,Block,33,34
+0:02,Western Carolina,Western Carolina,Offensive Rebound,33,34
+0:01,Western Carolina,None,None,33,34
+0:00,Furman,None,None,33,34
+19:45,Western Carolina,Kameron Gibson,Foul,33,34
+19:45,Furman,Jordan Lyons,Free Throw,33,35
+19:45,Furman,Jordan Lyons,Missed Free Throw,33,35
+19:45,Western Carolina,Marc Gosselin,Defensive Rebound,33,35
+19:25,Western Carolina,Onno Steger,Three Point Jumper,36,35
+19:10,Furman,Clay Mounce,Layup,36,37
+18:47,Western Carolina,Marc Gosselin,Missed Three Point Jumper,36,37
+18:47,Furman,Matt Rafferty,Defensive Rebound,36,37
+18:35,Furman,Clay Mounce,Missed Three Point Jumper,36,37
+18:35,Western Carolina,Carlos Dotson,Defensive Rebound,36,37
+18:21,Western Carolina,Carlos Dotson,Missed Layup,36,37
+18:21,Furman,Matt Rafferty,Block,36,37
+18:19,Western Carolina,Carlos Dotson,Offensive Rebound,36,37
+18:17,Western Carolina,Carlos Dotson,Missed Layup,36,37
+18:17,Western Carolina,Marc Gosselin,Offensive Rebound,36,37
+18:15,Western Carolina,Marc Gosselin,Layup,38,37
+18:09,Furman,Matt Rafferty,Layup,38,39
+17:44,Western Carolina,Kameron Gibson,Missed Three Point Jumper,38,39
+17:44,Western Carolina,Onno Steger,Offensive Rebound,38,39
+17:38,Western Carolina,Marc Gosselin,Turnover,38,39
+17:17,Western Carolina,Marc Gosselin,Foul,38,39
+17:06,Furman,Jordan Lyons,Missed Jumper,38,39
+17:06,Western Carolina,Marc Gosselin,Defensive Rebound,38,39
+16:58,Western Carolina,Kameron Gibson,Missed Layup,38,39
+16:58,Furman,Clay Mounce,Defensive Rebound,38,39
+16:53,Furman,Jordan Lyons,Missed Three Point Jumper,38,39
+16:53,Western Carolina,Kameron Gibson,Defensive Rebound,38,39
+16:50,Furman,Clay Mounce,Foul,38,39
+16:40,Western Carolina,D.J. Myers,Turnover,38,39
+16:39,Furman,Jordan Lyons,Steal,38,39
+16:17,Furman,Noah Gurley,Missed Three Point Jumper,38,39
+16:17,Western Carolina,Carlos Dotson,Defensive Rebound,38,39
+16:04,Furman,Alex Hunter,Foul,38,39
+16:00,Western Carolina,D.J. Myers,Layup,40,39
+16:00,Furman,Tre Clark,Foul,40,39
+16:00,Furman,None,None,40,39
+16:00,Western Carolina,D.J. Myers,Missed Free Throw,40,39
+16:00,Furman,Clay Mounce,Defensive Rebound,40,39
+15:49,Furman,Matt Rafferty,Missed Layup,40,39
+15:49,Furman,Tre Clark,Offensive Rebound,40,39
+15:46,Furman,Tre Clark,Layup,40,41
+15:24,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,40,41
+15:24,Furman,Tre Clark,Defensive Rebound,40,41
+15:04,Furman,Jordan Lyons,Turnover,40,41
+15:03,Western Carolina,Marc Gosselin,Steal,40,41
+14:49,Western Carolina,Josh Cottrell,Missed Three Point Jumper,40,41
+14:49,Furman,Matt Rafferty,Defensive Rebound,40,41
+14:36,Western Carolina,Josh Cottrell,Foul,40,41
+14:36,Furman,Matt Rafferty,Missed Free Throw,40,41
+14:36,Furman,None,Team Rebound,40,41
+14:36,Furman,Matt Rafferty,Free Throw,40,42
+14:17,Furman,Matt Rafferty,Foul,40,42
+14:17,Western Carolina,Marc Gosselin,Free Throw,41,42
+14:17,Western Carolina,Marc Gosselin,Free Throw,42,42
+13:57,Furman,Clay Mounce,Layup,42,44
+13:33,Western Carolina,Marc Gosselin,Missed Three Point Jumper,42,44
+13:33,Western Carolina,Carlos Dotson,Offensive Rebound,42,44
+13:27,Furman,Noah Gurley,Foul,42,44
+13:27,Western Carolina,Carlos Dotson,Missed Free Throw,42,44
+13:27,Western Carolina,None,Team Rebound,42,44
+13:27,Western Carolina,Carlos Dotson,Free Throw,43,44
+13:04,Furman,Noah Gurley,Turnover,43,44
+13:03,Western Carolina,Marcus Thomas,Steal,43,44
+13:01,Furman,Noah Gurley,Foul,43,44
+13:01,Western Carolina,Marcus Thomas,Free Throw,44,44
+13:01,Western Carolina,Marcus Thomas,Free Throw,45,44
+12:46,Furman,Clay Mounce,Missed Jumper,45,44
+12:46,Western Carolina,Onno Steger,Defensive Rebound,45,44
+12:21,Furman,Matt Rafferty,Foul,45,44
+12:21,Western Carolina,Carlos Dotson,Free Throw,46,44
+12:21,Western Carolina,Carlos Dotson,Free Throw,47,44
+12:07,Furman,Matt Rafferty,Layup,47,46
+11:44,Western Carolina,Marcus Thomas,Missed Layup,47,46
+11:44,Furman,Matt Rafferty,Block,47,46
+11:43,Western Carolina,Marcus Thomas,Offensive Rebound,47,46
+11:39,Western Carolina,Marcus Thomas,Missed Layup,47,46
+11:39,Furman,Clay Mounce,Block,47,46
+11:37,Furman,Jordan Lyons,Defensive Rebound,47,46
+11:37,Furman,Alex Hunter,Layup,47,48
+11:37,Furman,None,None,47,48
+11:37,Western Carolina,Onno Steger,Foul,47,48
+11:37,Furman,Alex Hunter,Free Throw,47,49
+11:12,Western Carolina,Kameron Gibson,Jumper,49,49
+11:04,Furman,Alex Hunter,Turnover,49,49
+10:51,Western Carolina,Carlos Dotson,Layup,51,49
+10:41,Furman,Clay Mounce,Dunk,51,51
+10:28,Western Carolina,Carlos Dotson,Jumper,53,51
+10:07,Furman,Matt Rafferty,Layup,53,53
+9:52,Western Carolina,Carlos Dotson,Layup,55,53
+9:23,Furman,Jordan Lyons,Missed Three Point Jumper,55,53
+9:23,Western Carolina,Matt Halvorsen,Defensive Rebound,55,53
+9:15,Western Carolina,Onno Steger,Missed Three Point Jumper,55,53
+9:15,Western Carolina,Marc Gosselin,Offensive Rebound,55,53
+8:57,Western Carolina,Carlos Dotson,Missed Jumper,55,53
+8:57,Furman,Noah Gurley,Defensive Rebound,55,53
+8:48,Furman,Clay Mounce,Layup,55,55
+8:46,Furman,None,None,55,55
+8:46,Furman,None,None,55,55
+8:27,Furman,Noah Gurley,Foul,55,55
+8:27,Western Carolina,Onno Steger,Missed Free Throw,55,55
+8:27,Furman,Matt Rafferty,Defensive Rebound,55,55
+7:58,Furman,Jordan Lyons,Three Point Jumper,55,58
+7:39,Western Carolina,Onno Steger,Missed Three Point Jumper,55,58
+7:39,Furman,Matt Rafferty,Defensive Rebound,55,58
+7:33,Furman,Jordan Lyons,Missed Three Point Jumper,55,58
+7:33,Furman,Clay Mounce,Offensive Rebound,55,58
+7:28,Western Carolina,D.J. Myers,Foul,55,58
+7:28,Furman,None,None,55,58
+7:24,Furman,Jordan Lyons,Missed Layup,55,58
+7:24,Western Carolina,Carlos Dotson,Block,55,58
+7:24,Furman,Furman,Offensive Rebound,55,58
+7:15,Western Carolina,Kameron Gibson,Foul,55,58
+7:06,Furman,Matt Rafferty,Layup,55,60
+6:44,Furman,Jordan Lyons,Foul,55,60
+6:44,Western Carolina,Marc Gosselin,Missed Free Throw,55,60
+6:44,Furman,Tre Clark,Defensive Rebound,55,60
+6:39,Furman,Jordan Lyons,Missed Three Point Jumper,55,60
+6:39,Western Carolina,Marc Gosselin,Defensive Rebound,55,60
+6:27,Furman,Matt Rafferty,Foul,55,60
+6:27,Western Carolina,Marc Gosselin,Free Throw,56,60
+6:27,Western Carolina,Marc Gosselin,Missed Free Throw,56,60
+6:27,Furman,Tre Clark,Defensive Rebound,56,60
+6:16,Furman,Jordan Lyons,Turnover,56,60
+6:04,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,56,60
+6:04,Western Carolina,Onno Steger,Offensive Rebound,56,60
+5:56,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,56,60
+5:56,Western Carolina,Onno Steger,Offensive Rebound,56,60
+5:52,Western Carolina,Onno Steger,Layup,58,60
+5:29,Furman,Noah Gurley,Missed Jumper,58,60
+5:29,Western Carolina,Matt Halvorsen,Defensive Rebound,58,60
+5:05,Western Carolina,Carlos Dotson,Layup,60,60
+4:46,Furman,Tre Clark,Turnover,60,60
+4:26,Western Carolina,Carlos Dotson,Layup,62,60
+4:19,Furman,None,None,62,60
+4:19,Furman,None,None,62,60
+4:00,Western Carolina,Carlos Dotson,Foul,62,60
+4:00,Furman,Matt Rafferty,Missed Free Throw,62,60
+4:00,Furman,None,Team Rebound,62,60
+4:00,Furman,Matt Rafferty,Missed Free Throw,62,60
+4:00,Western Carolina,Carlos Dotson,Defensive Rebound,62,60
+3:32,Western Carolina,Kameron Gibson,Missed Three Point Jumper,62,60
+3:32,Western Carolina,Onno Steger,Offensive Rebound,62,60
+3:27,Western Carolina,Marc Gosselin,Missed Three Point Jumper,62,60
+3:27,Western Carolina,Western Carolina,Offensive Rebound,62,60
+3:23,Western Carolina,None,None,62,60
+3:16,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,62,60
+3:16,Furman,Noah Gurley,Defensive Rebound,62,60
+2:51,Furman,Jordan Lyons,Layup,62,62
+2:27,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,62,62
+2:27,Furman,Furman,Defensive Rebound,62,62
+1:59,Furman,Clay Mounce,Missed Jumper,62,62
+1:59,Western Carolina,Marc Gosselin,Defensive Rebound,62,62
+1:28,Western Carolina,Carlos Dotson,Layup,64,62
+1:06,Furman,Jordan Lyons,Turnover,64,62
+1:05,Western Carolina,Marc Gosselin,Steal,64,62
+1:01,Western Carolina,None,None,64,62
+0:38,Western Carolina,Carlos Dotson,Layup,66,62
+0:31,Furman,Clay Mounce,Missed Three Point Jumper,66,62
+0:31,Furman,Alex Hunter,Offensive Rebound,66,62
+0:28,Western Carolina,Kameron Gibson,Foul,66,62
+0:28,Furman,Alex Hunter,Free Throw,66,63
+0:28,Furman,Alex Hunter,Free Throw,66,64
+0:27,Furman,Noah Gurley,Foul,66,64
+0:27,Western Carolina,Onno Steger,Missed Free Throw,66,64
+0:27,Western Carolina,None,Team Rebound,66,64
+0:27,Western Carolina,Onno Steger,Free Throw,67,64
+0:22,Furman,Jordan Lyons,Three Point Jumper,67,67
+0:15,Western Carolina,None,None,67,67
+0:02,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,67,67
+0:02,Furman,Jordan Lyons,Defensive Rebound,67,67
+0:00,Furman,None,None,67,67
+4:47,Western Carolina,Kameron Gibson,Foul,67,67
+4:47,Furman,Jordan Lyons,Free Throw,67,68
+4:47,Furman,Jordan Lyons,Free Throw,67,69
+4:31,Western Carolina,Carlos Dotson,Missed Layup,67,69
+4:31,Western Carolina,Marc Gosselin,Offensive Rebound,67,69
+4:29,Western Carolina,None,None,69,69
+4:15,Furman,Alex Hunter,Layup,69,71
+3:44,Western Carolina,Carlos Dotson,Missed Layup,69,71
+3:44,Furman,Matt Rafferty,Block,69,71
+3:43,Furman,Matt Rafferty,Defensive Rebound,69,71
+3:39,Furman,Jordan Lyons,Three Point Jumper,69,74
+3:16,Western Carolina,Carlos Dotson,Missed Layup,69,74
+3:16,Furman,Matt Rafferty,Defensive Rebound,69,74
+2:58,Furman,Alex Hunter,Missed Layup,69,74
+2:58,Western Carolina,Carlos Dotson,Defensive Rebound,69,74
+2:43,Western Carolina,Carlos Dotson,Layup,71,74
+2:29,Furman,Jordan Lyons,Missed Three Point Jumper,71,74
+2:29,Furman,Matt Rafferty,Offensive Rebound,71,74
+2:23,Furman,Alex Hunter,Layup,71,76
+2:06,Western Carolina,Kameron Gibson,Missed Layup,71,76
+2:06,Furman,Clay Mounce,Block,71,76
+2:05,Western Carolina,Marc Gosselin,Offensive Rebound,71,76
+2:01,Western Carolina,Carlos Dotson,Layup,73,76
+1:44,Furman,Alex Hunter,Missed Three Point Jumper,73,76
+1:44,Furman,Matt Rafferty,Offensive Rebound,73,76
+1:38,Furman,Matt Rafferty,Turnover,73,76
+1:35,Western Carolina,Kameron Gibson,Steal,73,76
+1:29,Western Carolina,Kameron Gibson,Three Point Jumper,76,76
+0:57,Furman,Matt Rafferty,Missed Layup,76,76
+0:57,Western Carolina,Onno Steger,Defensive Rebound,76,76
+0:29,Western Carolina,Onno Steger,Turnover,76,76
+0:28,Furman,Matt Rafferty,Steal,76,76
+0:01,Furman,Tre Clark,Turnover,76,76
+0:00,Western Carolina,Matt Halvorsen,Steal,76,76
+0:00,Furman,None,None,76,76
+4:49,Furman,Jordan Lyons,Three Point Jumper,76,79
+4:23,Western Carolina,Carlos Dotson,Layup,78,79
+4:06,Furman,Jordan Lyons,Missed Three Point Jumper,78,79
+4:06,Furman,Clay Mounce,Offensive Rebound,78,79
+3:56,Furman,Jordan Lyons,Three Point Jumper,78,82
+3:41,Western Carolina,Marc Gosselin,Layup,80,82
+3:23,Furman,Clay Mounce,Missed Jumper,80,82
+3:23,Western Carolina,Carlos Dotson,Defensive Rebound,80,82
+3:14,Western Carolina,Carlos Dotson,Layup,82,82
+2:57,Furman,Tre Clark,Layup,82,84
+2:24,Western Carolina,Onno Steger,Missed Jumper,82,84
+2:24,Western Carolina,Marc Gosselin,Offensive Rebound,82,84
+2:16,Western Carolina,Onno Steger,Missed Three Point Jumper,82,84
+2:16,Furman,Clay Mounce,Defensive Rebound,82,84
+1:44,Western Carolina,Matt Halvorsen,Foul,82,84
+1:44,Furman,Alex Hunter,Missed Free Throw,82,84
+1:44,Furman,None,Team Rebound,82,84
+1:44,Furman,Alex Hunter,Free Throw,82,85
+1:44,Furman,None,None,82,85
+1:44,Furman,None,None,82,85
+1:19,Western Carolina,Matt Halvorsen,Missed Layup,82,85
+1:19,Furman,Alex Hunter,Defensive Rebound,82,85
+0:59,Furman,Matt Rafferty,Layup,82,87
+0:40,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,82,87
+0:40,Furman,Furman,Defensive Rebound,82,87
+0:38,Furman,None,None,82,87
+0:33,Western Carolina,Onno Steger,Foul,82,87
+0:33,Furman,Clay Mounce,Free Throw,82,88
+0:33,Furman,Clay Mounce,Free Throw,82,89
+0:22,Western Carolina,Matt Halvorsen,Missed Three Point Jumper,82,89
+0:22,Western Carolina,Carlos Dotson,Offensive Rebound,82,89
+0:18,Western Carolina,Carlos Dotson,Layup,84,89
+0:18,Western Carolina,None,None,84,89
+0:14,Furman,Jordan Lyons,Turnover,84,89
+0:13,Western Carolina,Kameron Gibson,Steal,84,89
+0:09,Western Carolina,D.J. Myers,Layup,86,89
+0:08,Western Carolina,D.J. Myers,Foul,86,89
+0:08,Furman,Alex Hunter,Free Throw,86,90
+0:08,Furman,Alex Hunter,Missed Free Throw,86,90
+0:08,Western Carolina,Marc Gosselin,Defensive Rebound,86,90
+0:01,Western Carolina,Kameron Gibson,Missed Three Point Jumper,86,90
+0:01,Western Carolina,Marc Gosselin,Offensive Rebound,86,90
+0:01,Western Carolina,Marc Gosselin,Layup,88,90
+0:01,Western Carolina,None,None,88,90
+0:00,Furman,None,None,86,90

@@ -1,0 +1,288 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Florida,None,None,0,0
+19:56,Florida,KeVaughn Allen,Jumper,0,2
+19:27,Michigan State,Nick Ward,Missed Layup,0,2
+19:27,Florida,Kevarrius Hayes,Block,0,2
+19:27,Florida,Keith Stone,Defensive Rebound,0,2
+19:16,Florida,Kevarrius Hayes,Missed Layup,0,2
+19:16,Michigan State,Kyle Ahrens,Defensive Rebound,0,2
+19:05,Michigan State,Joshua Langford,Turnover,0,2
+19:05,Florida,Kevarrius Hayes,Steal,0,2
+19:00,Florida,KeVaughn Allen,Three Point Jumper,0,5
+18:41,Michigan State,Joshua Langford,Missed Jumper,0,5
+18:41,Florida,KeVaughn Allen,Defensive Rebound,0,5
+18:32,Florida,KeVaughn Allen,Missed Three Point Jumper,0,5
+18:32,Michigan State,Nick Ward,Defensive Rebound,0,5
+18:04,Michigan State,Cassius Winston,Jumper,2,5
+17:33,Florida,Kevarrius Hayes,Missed Jumper,2,5
+17:33,Michigan State,Kenny Goins,Defensive Rebound,2,5
+17:29,Michigan State,Joshua Langford,Three Point Jumper,5,5
+17:15,Florida,Keith Stone,Missed Three Point Jumper,5,5
+17:15,Florida,Kevarrius Hayes,Offensive Rebound,5,5
+16:55,Florida,Keyontae Johnson,Missed Jumper,5,5
+16:55,Michigan State,Michigan State,Defensive Rebound,5,5
+16:27,Michigan State,Kenny Goins,Three Point Jumper,8,5
+16:11,Florida,Andrew Nembhard,Missed Jumper,8,5
+16:11,Florida,Keyontae Johnson,Offensive Rebound,8,5
+16:06,Florida,Keyontae Johnson,Turnover,8,5
+16:06,Michigan State,Xavier Tillman,Steal,8,5
+15:35,Michigan State,Kenny Goins,Missed Three Point Jumper,8,5
+15:35,Florida,KeVaughn Allen,Defensive Rebound,8,5
+15:21,Florida,Kevarrius Hayes,Missed Jumper,8,5
+15:21,Florida,Kevarrius Hayes,Offensive Rebound,8,5
+15:16,Florida,Kevarrius Hayes,Missed Jumper,8,5
+15:16,Michigan State,Kyle Ahrens,Defensive Rebound,8,5
+15:16,Florida,KeVaughn Allen,Foul,8,5
+15:16,Florida,None,None,8,5
+15:16,Michigan State,Xavier Tillman,Free Throw,9,5
+15:16,Michigan State,Xavier Tillman,Missed Free Throw,9,5
+15:16,Michigan State,Aaron Henry,Offensive Rebound,9,5
+15:10,Michigan State,Cassius Winston,Missed Three Point Jumper,9,5
+15:10,Florida,Florida,Defensive Rebound,9,5
+15:02,Michigan State,Joshua Langford,Foul,9,5
+15:02,Florida,Jalen Hudson,Free Throw,9,6
+15:02,Florida,Jalen Hudson,Missed Free Throw,9,6
+15:02,Michigan State,Xavier Tillman,Offensive Rebound,9,6
+14:37,Michigan State,Nick Ward,Layup,11,6
+14:37,Florida,Dontay Bassett,Foul,11,6
+14:37,Michigan State,Nick Ward,Free Throw,12,6
+14:12,Florida,Andrew Nembhard,Missed Three Point Jumper,12,6
+14:12,Michigan State,Nick Ward,Defensive Rebound,12,6
+14:03,Florida,Dontay Bassett,Foul,12,6
+13:48,Michigan State,Cassius Winston,Missed Three Point Jumper,12,6
+13:48,Michigan State,Michigan State,Offensive Rebound,12,6
+13:20,Florida,Andrew Nembhard,Foul,12,6
+13:04,Michigan State,Cassius Winston,Missed Layup,12,6
+13:04,Florida,Isaiah Stokes,Defensive Rebound,12,6
+12:55,Florida,Keith Stone,Missed Layup,12,6
+12:55,Michigan State,Matt McQuaid,Foul,12,6
+12:55,Florida,Isaiah Stokes,Offensive Rebound,12,6
+12:43,Florida,Isaiah Stokes,Missed Jumper,12,6
+12:43,Florida,Keith Stone,Offensive Rebound,12,6
+12:42,Michigan State,Kenny Goins,Foul,12,6
+12:42,Florida,Keith Stone,Missed Free Throw,12,6
+12:42,Florida,None,Team Rebound,12,6
+12:42,Florida,Keith Stone,Free Throw,12,7
+12:32,Michigan State,Kenny Goins,Turnover,12,7
+12:19,Florida,Isaiah Stokes,Missed Jumper,12,7
+12:19,Michigan State,Nick Ward,Block,12,7
+12:19,Michigan State,Nick Ward,Defensive Rebound,12,7
+12:06,Michigan State,Aaron Henry,Turnover,12,7
+12:06,Florida,Keith Stone,Steal,12,7
+11:44,Florida,Isaiah Stokes,Turnover,12,7
+11:44,Florida,None,None,12,7
+11:24,Michigan State,Nick Ward,Layup,14,7
+11:10,Florida,Keith Stone,Three Point Jumper,14,10
+10:41,Michigan State,Nick Ward,Layup,16,10
+10:25,Florida,Andrew Nembhard,Missed Three Point Jumper,16,10
+10:25,Michigan State,Xavier Tillman,Defensive Rebound,16,10
+10:14,Michigan State,Nick Ward,Turnover,16,10
+10:06,Florida,Andrew Nembhard,Turnover,16,10
+9:55,Michigan State,Michigan State ,Turnover,16,10
+9:37,Florida,KeVaughn Allen,Missed Three Point Jumper,16,10
+9:37,Michigan State,Kyle Ahrens,Defensive Rebound,16,10
+9:20,Michigan State,Xavier Tillman,Layup,18,10
+9:00,Florida,Keith Stone,Missed Three Point Jumper,18,10
+9:00,Florida,Kevarrius Hayes,Offensive Rebound,18,10
+8:52,Florida,KeVaughn Allen,Turnover,18,10
+8:52,Michigan State,Xavier Tillman,Steal,18,10
+8:39,Michigan State,Nick Ward,Layup,20,10
+8:38,Florida,None,None,20,10
+8:20,Florida,Keyontae Johnson,Missed Three Point Jumper,20,10
+8:20,Florida,Keyontae Johnson,Offensive Rebound,20,10
+8:13,Florida,Deaundrae Ballard,Three Point Jumper,20,13
+7:36,Michigan State,Cassius Winston,Missed Three Point Jumper,20,13
+7:36,Florida,Keyontae Johnson,Defensive Rebound,20,13
+7:29,Florida,Deaundrae Ballard,Jumper,20,15
+7:19,Michigan State,Joshua Langford,Layup,22,15
+7:00,Florida,None,None,22,15
+6:47,Florida,Keyontae Johnson,Missed Layup,22,15
+6:47,Florida,Keyontae Johnson,Offensive Rebound,22,15
+6:47,Florida,None,None,22,17
+6:37,Michigan State,Joshua Langford,Missed Three Point Jumper,22,17
+6:37,Michigan State,Xavier Tillman,Offensive Rebound,22,17
+6:32,Michigan State,Xavier Tillman,Layup,24,17
+6:14,Florida,Dontay Bassett,Missed Layup,24,17
+6:14,Michigan State,Xavier Tillman,Block,24,17
+6:14,Michigan State,Kenny Goins,Defensive Rebound,24,17
+6:08,Michigan State,Cassius Winston,Turnover,24,17
+6:08,Florida,Deaundrae Ballard,Steal,24,17
+6:03,Florida,Keyontae Johnson,Dunk,24,19
+5:49,Florida,Keyontae Johnson,Foul,24,19
+5:47,Michigan State,Xavier Tillman,Turnover,24,19
+5:33,Florida,Jalen Hudson,Missed Three Point Jumper,24,19
+5:33,Michigan State,Joshua Langford,Defensive Rebound,24,19
+5:30,Florida,Dontay Bassett,Foul,24,19
+5:11,Michigan State,Joshua Langford,Turnover,24,19
+5:11,Florida,Andrew Nembhard,Steal,24,19
+5:06,Florida,Andrew Nembhard,Layup,24,21
+4:38,Michigan State,Nick Ward,Turnover,24,21
+4:25,Florida,Keyontae Johnson,Missed Three Point Jumper,24,21
+4:25,Michigan State,Joshua Langford,Defensive Rebound,24,21
+4:19,Michigan State,Cassius Winston,Jumper,26,21
+4:09,Florida,Andrew Nembhard,Turnover,26,21
+4:09,Michigan State,Xavier Tillman,Steal,26,21
+4:01,Florida,Andrew Nembhard,Foul,26,21
+4:01,Michigan State,Cassius Winston,Free Throw,27,21
+4:01,Michigan State,Cassius Winston,Free Throw,28,21
+3:44,Florida,Jalen Hudson,Missed Jumper,28,21
+3:44,Florida,Keith Stone,Offensive Rebound,28,21
+3:40,Florida,Keith Stone,Layup,28,23
+3:36,Michigan State,Cassius Winston,Turnover,28,23
+3:36,Florida,None,None,28,23
+3:24,Florida,Jalen Hudson,Jumper,28,25
+3:04,Michigan State,Joshua Langford,Jumper,30,25
+2:40,Florida,KeVaughn Allen,Missed Jumper,30,25
+2:40,Michigan State,Kenny Goins,Defensive Rebound,30,25
+2:33,Michigan State,Matt McQuaid,Three Point Jumper,33,25
+2:11,Florida,KeVaughn Allen,Turnover,33,25
+1:56,Michigan State,Xavier Tillman,Layup,35,25
+1:37,Florida,Keith Stone,Missed Jumper,35,25
+1:37,Michigan State,Michigan State,Defensive Rebound,35,25
+1:19,Michigan State,Joshua Langford,Foul,35,25
+1:19,Michigan State,Joshua Langford,Turnover,35,25
+1:01,Michigan State,Aaron Henry,Foul,35,25
+1:01,Florida,Kevarrius Hayes,Free Throw,35,26
+1:01,Florida,Kevarrius Hayes,Free Throw,35,27
+0:30,Michigan State,Cassius Winston,Missed Jumper,35,27
+0:30,Florida,Mike Okauru,Defensive Rebound,35,27
+0:02,Florida,KeVaughn Allen,Missed Three Point Jumper,35,27
+0:02,Michigan State,Cassius Winston,Defensive Rebound,35,27
+0:00,Florida,None,None,35,27
+20:00,Michigan State,None,None,35,27
+19:40,Michigan State,Joshua Langford,Missed Three Point Jumper,35,27
+19:40,Florida,Florida,Defensive Rebound,35,27
+19:26,Florida,Keith Stone,Missed Three Point Jumper,35,27
+19:26,Michigan State,Kenny Goins,Defensive Rebound,35,27
+19:17,Michigan State,Nick Ward,Layup,37,27
+18:59,Florida,KeVaughn Allen,Turnover,37,27
+18:47,Michigan State,Nick Ward,Layup,39,27
+18:36,Florida,None,None,39,27
+18:24,Florida,KeVaughn Allen,Missed Layup,39,27
+18:24,Michigan State,Nick Ward,Defensive Rebound,39,27
+18:15,Michigan State,Joshua Langford,Turnover,39,27
+18:15,Florida,Isaiah Stokes,Steal,39,27
+18:02,Florida,Noah Locke,Layup,39,29
+17:41,Michigan State,Joshua Langford,Missed Jumper,39,29
+17:41,Florida,Keith Stone,Defensive Rebound,39,29
+17:24,Florida,Andrew Nembhard,Three Point Jumper,39,32
+16:47,Michigan State,Kenny Goins,Missed Jumper,39,32
+16:47,Michigan State,Kenny Goins,Offensive Rebound,39,32
+16:46,Michigan State,Kenny Goins,Missed Jumper,39,32
+16:46,Michigan State,Nick Ward,Offensive Rebound,39,32
+16:46,Michigan State,None,None,39,32
+16:46,Florida,Florida,Defensive Rebound,39,32
+16:40,Florida,KeVaughn Allen,Three Point Jumper,39,35
+16:30,Florida,Isaiah Stokes,Foul,39,35
+16:30,Michigan State,Joshua Langford,Free Throw,40,35
+16:30,Michigan State,Joshua Langford,Free Throw,41,35
+16:10,Florida,Dontay Bassett,Missed Three Point Jumper,41,35
+16:10,Michigan State,Kyle Ahrens,Defensive Rebound,41,35
+15:55,Michigan State,Joshua Langford,Missed Jumper,41,35
+15:55,Florida,KeVaughn Allen,Defensive Rebound,41,35
+15:31,Florida,Keith Stone,Missed Three Point Jumper,41,35
+15:31,Florida,Noah Locke,Offensive Rebound,41,35
+15:31,Florida,None,None,41,35
+15:31,Michigan State,Xavier Tillman,Defensive Rebound,41,35
+15:14,Michigan State,Cassius Winston,Layup,43,35
+14:58,Florida,KeVaughn Allen,Missed Three Point Jumper,43,35
+14:58,Michigan State,Kyle Ahrens,Defensive Rebound,43,35
+14:47,Michigan State,Kyle Ahrens,Missed Three Point Jumper,43,35
+14:47,Florida,Keith Stone,Defensive Rebound,43,35
+14:42,Florida,KeVaughn Allen,Layup,43,37
+14:34,Michigan State,Kenny Goins,Missed Three Point Jumper,43,37
+14:34,Michigan State,Xavier Tillman,Offensive Rebound,43,37
+14:15,Michigan State,Xavier Tillman,Missed Layup,43,37
+14:15,Florida,Keith Stone,Defensive Rebound,43,37
+13:55,Florida,Keith Stone,Missed Jumper,43,37
+13:55,Florida,Florida,Offensive Rebound,43,37
+13:55,Florida,None,None,43,37
+13:19,Florida,Keyontae Johnson,Layup,43,39
+12:45,Michigan State,Michigan State ,Turnover,43,39
+12:38,Florida,Deaundrae Ballard,Turnover,43,39
+12:38,Michigan State,Joshua Langford,Steal,43,39
+12:26,Michigan State,Xavier Tillman,Layup,45,39
+12:26,Florida,Deaundrae Ballard,Foul,45,39
+12:26,Michigan State,Xavier Tillman,Free Throw,46,39
+12:10,Michigan State,Aaron Henry,Foul,46,39
+12:10,Florida,Jalen Hudson,Free Throw,46,40
+12:10,Florida,Jalen Hudson,Missed Free Throw,46,40
+12:10,Michigan State,Aaron Henry,Defensive Rebound,46,40
+11:48,Florida,Deaundrae Ballard,Foul,46,40
+11:48,Florida,None,None,46,40
+11:35,Michigan State,Cassius Winston,Layup,48,40
+11:13,Florida,Andrew Nembhard,Turnover,48,40
+11:13,Michigan State,Nick Ward,Steal,48,40
+11:06,Michigan State,Cassius Winston,Missed Three Point Jumper,48,40
+11:06,Michigan State,Kenny Goins,Offensive Rebound,48,40
+11:02,Florida,Jalen Hudson,Foul,48,40
+10:43,Michigan State,Cassius Winston,Missed Jumper,48,40
+10:43,Florida,Keyontae Johnson,Block,48,40
+10:43,Michigan State,Cassius Winston,Offensive Rebound,48,40
+10:18,Michigan State,Cassius Winston,Missed Three Point Jumper,48,40
+10:18,Florida,Dontay Bassett,Defensive Rebound,48,40
+10:11,Florida,Andrew Nembhard,Missed Three Point Jumper,48,40
+10:11,Florida,Deaundrae Ballard,Offensive Rebound,48,40
+9:57,Florida,Deaundrae Ballard,Missed Layup,48,40
+9:57,Florida,Dontay Bassett,Offensive Rebound,48,40
+9:57,Florida,Dontay Bassett,Layup,48,42
+9:57,Michigan State,Kenny Goins,Foul,48,42
+9:57,Florida,Dontay Bassett,Missed Free Throw,48,42
+9:57,Michigan State,Xavier Tillman,Defensive Rebound,48,42
+9:38,Michigan State,Matt McQuaid,Turnover,48,42
+9:38,Florida,Andrew Nembhard,Steal,48,42
+9:33,Florida,Andrew Nembhard,Layup,48,44
+9:13,Michigan State,Aaron Henry,Missed Layup,48,44
+9:13,Florida,Keyontae Johnson,Block,48,44
+9:13,Florida,Kevarrius Hayes,Defensive Rebound,48,44
+8:59,Florida,Andrew Nembhard,Missed Jumper,48,44
+8:59,Michigan State,Kenny Goins,Block,48,44
+8:33,Florida,Keyontae Johnson,Offensive Rebound,48,44
+8:23,Michigan State,Cassius Winston,Foul,48,44
+8:09,Florida,KeVaughn Allen,Missed Jumper,48,44
+8:09,Michigan State,Xavier Tillman,Defensive Rebound,48,44
+7:54,Michigan State,Xavier Tillman,Layup,50,44
+7:23,Florida,KeVaughn Allen,Missed Three Point Jumper,50,44
+7:23,Florida,Florida,Offensive Rebound,50,44
+7:23,Florida,None,None,50,44
+7:05,Florida,Andrew Nembhard,Jumper,50,46
+6:38,Michigan State,Cassius Winston,Missed Jumper,50,46
+6:38,Florida,Kevarrius Hayes,Defensive Rebound,50,46
+6:29,Michigan State,Xavier Tillman,Foul,50,46
+6:29,Florida,Kevarrius Hayes,Missed Free Throw,50,46
+6:29,Florida,None,Team Rebound,50,46
+6:29,Florida,Kevarrius Hayes,Free Throw,50,47
+6:07,Michigan State,Joshua Langford,Jumper,52,47
+5:34,Florida,Andrew Nembhard,Missed Jumper,52,47
+5:34,Michigan State,Joshua Langford,Defensive Rebound,52,47
+5:07,Michigan State,Joshua Langford,Missed Jumper,52,47
+5:07,Florida,Kevarrius Hayes,Defensive Rebound,52,47
+4:58,Florida,Kevarrius Hayes,Layup,52,49
+4:58,Michigan State,Nick Ward,Foul,52,49
+4:58,Florida,Kevarrius Hayes,Free Throw,52,50
+4:36,Michigan State,Joshua Langford,Jumper,54,50
+4:19,Florida,KeVaughn Allen,Missed Three Point Jumper,54,50
+4:19,Michigan State,Xavier Tillman,Defensive Rebound,54,50
+3:48,Michigan State,Xavier Tillman,Layup,56,50
+3:48,Florida,None,None,56,50
+3:28,Florida,KeVaughn Allen,Three Point Jumper,56,53
+3:07,Michigan State,Kyle Ahrens,Three Point Jumper,59,53
+2:55,Florida,Andrew Nembhard,Jumper,59,55
+2:25,Michigan State,Kyle Ahrens,Layup,61,55
+2:11,Florida,Keith Stone,Jumper,61,57
+2:11,Florida,None,None,61,57
+1:49,Michigan State,Kyle Ahrens,Missed Three Point Jumper,61,57
+1:49,Florida,Kevarrius Hayes,Defensive Rebound,61,57
+1:46,Michigan State,Joshua Langford,Foul,61,57
+1:21,Florida,Andrew Nembhard,Layup,61,59
+1:13,Michigan State,None,None,61,59
+1:03,Michigan State,Joshua Langford,Turnover,61,59
+1:03,Florida,Kevarrius Hayes,Steal,61,59
+0:46,Florida,KeVaughn Allen,Missed Layup,61,59
+0:46,Michigan State,Xavier Tillman,Defensive Rebound,61,59
+0:43,Michigan State,None,None,61,59
+0:29,Florida,Andrew Nembhard,Foul,61,59
+0:09,Michigan State,Kyle Ahrens,Dunk,63,59
+0:03,Florida,Noah Locke,Missed Three Point Jumper,63,59
+0:03,Florida,Kevarrius Hayes,Offensive Rebound,63,59
+0:00,Florida,None,None,63,59

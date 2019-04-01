@@ -1,0 +1,247 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Saint Mary's,None,None,0,0
+19:56,Saint Mary's,Tanner Krebs,Turnover,0,0
+19:43,Villanova,Jermaine Samuels,Three Point Jumper,0,3
+19:08,Saint Mary's,Jordan Ford,Missed Three Point Jumper,0,3
+19:08,Saint Mary's,Saint Mary's,Offensive Rebound,0,3
+19:08,Saint Mary's,Saint Mary's ,Turnover,0,3
+18:51,Villanova,Saddiq Bey,Three Point Jumper,0,6
+18:29,Saint Mary's,Jordan Hunter,Layup,2,6
+18:03,Saint Mary's,Jordan Hunter,Foul,2,6
+17:57,Saint Mary's,Tommy Kuhse,Foul,2,6
+17:55,Villanova,Phil Booth,Jumper,2,8
+17:23,Villanova,Saddiq Bey,Foul,2,8
+17:23,Saint Mary's,Malik Fitts,Free Throw,3,8
+17:23,Saint Mary's,Malik Fitts,Missed Free Throw,3,8
+17:23,Villanova,Jermaine Samuels,Defensive Rebound,3,8
+17:06,Villanova,Eric Paschall,Turnover,3,8
+16:50,Saint Mary's,Tanner Krebs,Three Point Jumper,6,8
+16:27,Villanova,Phil Booth,Missed Layup,6,8
+16:27,Saint Mary's,Tommy Kuhse,Block,6,8
+16:27,Saint Mary's,Malik Fitts,Defensive Rebound,6,8
+16:01,Saint Mary's,Tanner Krebs,Missed Layup,6,8
+16:01,Villanova,Collin Gillespie,Defensive Rebound,6,8
+15:54,Villanova,Eric Paschall,Missed Three Point Jumper,6,8
+15:54,Saint Mary's,Tommy Kuhse,Defensive Rebound,6,8
+15:27,Saint Mary's,Malik Fitts,Missed Jumper,6,8
+15:27,Saint Mary's,Matthias Tass,Offensive Rebound,6,8
+15:22,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,6,8
+15:22,Villanova,Jermaine Samuels,Defensive Rebound,6,8
+15:08,Villanova,Collin Gillespie,Three Point Jumper,6,11
+14:44,Saint Mary's,Jordan Ford,Layup,8,11
+14:22,Villanova,Eric Paschall,Missed Three Point Jumper,8,11
+14:22,Saint Mary's,Matthias Tass,Defensive Rebound,8,11
+14:04,Saint Mary's,Tommy Kuhse,Missed Layup,8,11
+14:04,Villanova,Phil Booth,Defensive Rebound,8,11
+13:40,Villanova,Eric Paschall,Missed Jumper,8,11
+13:40,Saint Mary's,Malik Fitts,Defensive Rebound,8,11
+13:18,Saint Mary's,Jordan Ford,Jumper,10,11
+12:50,Villanova,Collin Gillespie,Missed Three Point Jumper,10,11
+12:50,Saint Mary's,Malik Fitts,Defensive Rebound,10,11
+12:31,Villanova,Collin Gillespie,Foul,10,11
+12:31,Villanova,None,None,10,11
+12:31,Saint Mary's,Tanner Krebs,Missed Free Throw,10,11
+12:31,Saint Mary's,None,Team Rebound,10,11
+12:31,Saint Mary's,Tanner Krebs,Missed Free Throw,10,11
+12:31,Villanova,Jermaine Samuels,Defensive Rebound,10,11
+12:22,Villanova,Jermaine Samuels,Missed Three Point Jumper,10,11
+12:22,Saint Mary's,Saint Mary's,Defensive Rebound,10,11
+11:49,Saint Mary's,Tanner Krebs,Missed Jumper,10,11
+11:49,Saint Mary's,Saint Mary's,Offensive Rebound,10,11
+11:47,Villanova,None,None,10,11
+11:45,Saint Mary's,Tommy Kuhse,Missed Jumper,10,11
+11:45,Villanova,Joe Cremo,Defensive Rebound,10,11
+11:33,Villanova,Joe Cremo,Missed Jumper,10,11
+11:33,Saint Mary's,Saint Mary's,Defensive Rebound,10,11
+11:23,Villanova,Eric Paschall,Foul,10,11
+11:10,Saint Mary's,Jordan Ford,Missed Layup,10,11
+11:09,Villanova,Dhamir Cosby-Roundtree,Block,10,11
+11:08,Saint Mary's,Saint Mary's,Offensive Rebound,10,11
+11:04,Saint Mary's,Matthias Tass,Three Point Jumper,13,11
+10:41,Saint Mary's,Tommy Kuhse,Foul,13,11
+10:41,Villanova,Phil Booth,Missed Free Throw,13,11
+10:41,Villanova,Phil Booth,Free Throw,13,12
+10:41,Villanova,None,Team Rebound,13,11
+10:41,Villanova,Phil Booth,Free Throw,13,13
+10:17,Saint Mary's,Jordan Ford,Missed Three Point Jumper,13,13
+10:17,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,13,13
+10:03,Villanova,Eric Paschall,Jumper,13,15
+9:27,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,13,15
+9:27,Villanova,Collin Gillespie,Defensive Rebound,13,15
+9:18,Villanova,Eric Paschall,Jumper,13,17
+8:47,Saint Mary's,Matthias Tass,Jumper,15,17
+8:26,Saint Mary's,Matthias Tass,Foul,15,17
+8:20,Villanova,Collin Gillespie,Layup,15,19
+7:59,Saint Mary's,Malik Fitts,Missed Three Point Jumper,15,19
+7:59,Villanova,Saddiq Bey,Defensive Rebound,15,19
+7:48,Villanova,Eric Paschall,Missed Three Point Jumper,15,19
+7:48,Saint Mary's,Tommy Kuhse,Defensive Rebound,15,19
+7:32,Saint Mary's,Jordan Ford,Jumper,17,19
+7:08,Villanova,Eric Paschall,Layup,17,21
+6:50,Saint Mary's,Malik Fitts,Three Point Jumper,20,21
+6:22,Villanova,Phil Booth,Jumper,20,23
+5:58,Saint Mary's,Tanner Krebs,Three Point Jumper,23,23
+5:34,Villanova,Phil Booth,Jumper,23,25
+5:11,Saint Mary's,Jordan Ford,Missed Three Point Jumper,23,25
+5:11,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,23,25
+5:00,Villanova,Collin Gillespie,Turnover,23,25
+5:00,Saint Mary's,Jordan Hunter,Steal,23,25
+4:40,Saint Mary's,Malik Fitts,Missed Jumper,23,25
+4:40,Saint Mary's,Jordan Hunter,Offensive Rebound,23,25
+4:40,Saint Mary's,None,None,23,25
+4:40,Saint Mary's,Saint Mary's,Offensive Rebound,23,25
+4:33,Villanova,None,None,23,25
+4:06,Saint Mary's,Tommy Kuhse,Jumper,25,25
+3:37,Villanova,Phil Booth,Turnover,25,25
+3:37,Villanova,None,None,25,25
+3:13,Saint Mary's,Jordan Ford,Missed Three Point Jumper,25,25
+3:13,Villanova,Eric Paschall,Defensive Rebound,25,25
+2:49,Villanova,Collin Gillespie,Missed Layup,25,25
+2:49,Saint Mary's,Jordan Ford,Defensive Rebound,25,25
+2:33,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,25,25
+2:33,Villanova,Eric Paschall,Defensive Rebound,25,25
+2:09,Villanova,Eric Paschall,Missed Three Point Jumper,25,25
+2:09,Saint Mary's,Tanner Krebs,Defensive Rebound,25,25
+1:48,Saint Mary's,Tommy Kuhse,Three Point Jumper,28,25
+1:23,Villanova,Jermaine Samuels,Three Point Jumper,28,28
+0:51,Saint Mary's,Malik Fitts,Jumper,30,28
+0:35,Villanova,None,None,30,28
+0:17,Villanova,Phil Booth,Missed Jumper,30,28
+0:17,Saint Mary's,Dan Fotu,Defensive Rebound,30,28
+0:01,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,30,28
+0:01,Villanova,Villanova,Defensive Rebound,30,28
+0:00,Villanova,None,None,30,28
+20:00,Villanova,None,None,30,28
+19:49,Villanova,Phil Booth,Jumper,30,30
+19:18,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,30,30
+19:18,Villanova,Saddiq Bey,Defensive Rebound,30,30
+19:05,Villanova,Phil Booth,Jumper,30,32
+19:05,Saint Mary's,Tommy Kuhse,Foul,30,32
+19:05,Villanova,Phil Booth,Free Throw,30,33
+18:43,Saint Mary's,Jordan Ford,Three Point Jumper,33,33
+18:13,Villanova,Eric Paschall,Jumper,33,35
+17:55,Saint Mary's,Jordan Ford,Missed Layup,33,35
+17:55,Villanova,Jermaine Samuels,Block,33,35
+17:55,Villanova,Phil Booth,Defensive Rebound,33,35
+17:48,Villanova,Saddiq Bey,Three Point Jumper,33,38
+17:13,Saint Mary's,Jordan Ford,Missed Jumper,33,38
+17:13,Villanova,Jermaine Samuels,Defensive Rebound,33,38
+16:59,Villanova,Saddiq Bey,Missed Jumper,33,38
+16:59,Saint Mary's,Tommy Kuhse,Defensive Rebound,33,38
+16:32,Saint Mary's,Malik Fitts,Turnover,33,38
+16:32,Villanova,Phil Booth,Steal,33,38
+16:28,Villanova,Jermaine Samuels,Dunk,33,40
+16:26,Saint Mary's,None,None,33,40
+15:58,Saint Mary's,Matthias Tass,Missed Jumper,33,40
+15:58,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,33,40
+15:45,Villanova,Phil Booth,Missed Jumper,33,40
+15:45,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,33,40
+15:36,Saint Mary's,Malik Fitts,Foul,33,40
+15:36,Villanova,None,None,33,40
+15:30,Villanova,Jermaine Samuels,Missed Three Point Jumper,33,40
+15:30,Saint Mary's,Matthias Tass,Defensive Rebound,33,40
+15:08,Saint Mary's,Tanner Krebs,Jumper,35,40
+14:50,Villanova,Phil Booth,Layup,35,42
+14:21,Saint Mary's,Malik Fitts,Three Point Jumper,38,42
+13:54,Villanova,Eric Paschall,Three Point Jumper,38,45
+13:28,Saint Mary's,Jordan Ford,Missed Jumper,38,45
+13:28,Saint Mary's,Dan Fotu,Offensive Rebound,38,45
+13:06,Saint Mary's,Matthias Tass,Layup,40,45
+12:40,Villanova,Eric Paschall,Missed Jumper,40,45
+12:40,Saint Mary's,Malik Fitts,Defensive Rebound,40,45
+12:14,Saint Mary's,Malik Fitts,Missed Jumper,40,45
+12:14,Villanova,Eric Paschall,Block,40,45
+12:14,Saint Mary's,Malik Fitts,Offensive Rebound,40,45
+12:07,Saint Mary's,Saint Mary's ,Turnover,40,45
+11:45,Villanova,Eric Paschall,Missed Three Point Jumper,40,45
+11:45,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,40,45
+11:37,Villanova,Dhamir Cosby-Roundtree,Jumper,40,47
+11:08,Saint Mary's,Jordan Ford,Missed Three Point Jumper,40,47
+11:08,Villanova,Jermaine Samuels,Defensive Rebound,40,47
+10:58,Villanova,Saddiq Bey,Turnover,40,47
+10:58,Saint Mary's,Matthias Tass,Steal,40,47
+10:39,Saint Mary's,Malik Fitts,Missed Jumper,40,47
+10:39,Saint Mary's,Matthias Tass,Offensive Rebound,40,47
+10:38,Villanova,Saddiq Bey,Foul,40,47
+10:38,Villanova,None,None,40,47
+10:38,Saint Mary's,Matthias Tass,Free Throw,41,47
+10:38,Saint Mary's,Matthias Tass,Free Throw,42,47
+10:12,Villanova,Jermaine Samuels,Missed Jumper,42,47
+10:12,Saint Mary's,Tommy Kuhse,Defensive Rebound,42,47
+10:02,Saint Mary's,Matthias Tass,Missed Jumper,42,47
+10:02,Villanova,Eric Paschall,Defensive Rebound,42,47
+9:46,Villanova,Eric Paschall,Missed Layup,42,47
+9:46,Saint Mary's,Malik Fitts,Defensive Rebound,42,47
+9:39,Saint Mary's,Malik Fitts,Turnover,42,47
+9:17,Villanova,Phil Booth,Missed Jumper,42,47
+9:17,Saint Mary's,Jordan Hunter,Defensive Rebound,42,47
+8:52,Saint Mary's,Jordan Hunter,Missed Jumper,42,47
+8:52,Villanova,Eric Paschall,Defensive Rebound,42,47
+8:42,Villanova,Phil Booth,Missed Layup,42,47
+8:42,Saint Mary's,Jordan Hunter,Block,42,47
+8:42,Villanova,Villanova,Offensive Rebound,42,47
+8:38,Villanova,Phil Booth,Missed Three Point Jumper,42,47
+8:38,Saint Mary's,Tommy Kuhse,Defensive Rebound,42,47
+8:13,Saint Mary's,Tommy Kuhse,Turnover,42,47
+7:47,Saint Mary's,Tommy Kuhse,Foul,42,47
+7:47,Villanova,None,None,42,47
+7:44,Villanova,Eric Paschall,Three Point Jumper,42,50
+7:18,Saint Mary's,Dan Fotu,Missed Three Point Jumper,42,50
+7:18,Villanova,Villanova,Defensive Rebound,42,50
+7:16,Saint Mary's,Matthias Tass,Foul,42,50
+7:05,Villanova,Eric Paschall,Turnover,42,50
+7:05,Saint Mary's,Malik Fitts,Steal,42,50
+6:48,Saint Mary's,Jordan Hunter,Layup,44,50
+6:19,Villanova,Eric Paschall,Foul,44,50
+6:19,Villanova,Eric Paschall,Turnover,44,50
+6:00,Saint Mary's,Tommy Kuhse,Three Point Jumper,47,50
+5:36,Villanova,Phil Booth,Three Point Jumper,47,53
+5:05,Saint Mary's,Jordan Hunter,Layup,49,53
+4:39,Villanova,Saddiq Bey,Missed Three Point Jumper,49,53
+4:39,Villanova,Villanova,Offensive Rebound,49,53
+4:14,Villanova,Jermaine Samuels,Missed Three Point Jumper,49,53
+4:14,Saint Mary's,Jordan Ford,Defensive Rebound,49,53
+3:55,Saint Mary's,Jordan Hunter,Turnover,49,53
+3:55,Villanova,Phil Booth,Steal,49,53
+3:45,Saint Mary's,Malik Fitts,Foul,49,53
+3:45,Villanova,None,None,49,53
+3:45,Villanova,Phil Booth,Free Throw,49,54
+3:45,Villanova,Phil Booth,Free Throw,49,55
+3:18,Saint Mary's,Tommy Kuhse,Missed Jumper,49,55
+3:18,Villanova,Jermaine Samuels,Defensive Rebound,49,55
+2:44,Villanova,Jermaine Samuels,Missed Jumper,49,55
+2:44,Saint Mary's,Jordan Ford,Defensive Rebound,49,55
+2:36,Saint Mary's,Jordan Ford,Missed Layup,49,55
+2:36,Villanova,Eric Paschall,Defensive Rebound,49,55
+2:24,Villanova,Dhamir Cosby-Roundtree,Dunk,49,57
+1:56,Saint Mary's,Malik Fitts,Jumper,51,57
+1:54,Saint Mary's,None,None,51,57
+1:50,Saint Mary's,Tommy Kuhse,Foul,51,57
+1:24,Villanova,Jermaine Samuels,Missed Three Point Jumper,51,57
+1:24,Saint Mary's,Jordan Hunter,Block,51,57
+1:24,Villanova,Jermaine Samuels,Offensive Rebound,51,57
+1:21,Villanova,Jermaine Samuels,Layup,51,59
+1:21,Saint Mary's,Malik Fitts,Foul,51,59
+1:21,Villanova,Jermaine Samuels,Missed Free Throw,51,59
+1:21,Saint Mary's,Tanner Krebs,Defensive Rebound,51,59
+1:10,Saint Mary's,Jordan Ford,Layup,53,59
+1:08,Saint Mary's,None,None,53,59
+1:03,Villanova,Jermaine Samuels,Dunk,53,61
+0:50,Saint Mary's,Jordan Ford,Missed Three Point Jumper,53,61
+0:50,Saint Mary's,Saint Mary's,Offensive Rebound,53,61
+0:50,Villanova,Eric Paschall,Foul,53,61
+0:35,Saint Mary's,Jordan Ford,Jumper,55,61
+0:34,Villanova,None,None,55,61
+0:33,Saint Mary's,Malik Fitts,Foul,55,61
+0:33,Villanova,Eric Paschall,Missed Free Throw,55,61
+0:33,Saint Mary's,Tanner Krebs,Defensive Rebound,55,61
+0:23,Saint Mary's,Malik Fitts,Jumper,57,61
+0:22,Villanova,Phil Booth,Foul,57,61
+0:22,Villanova,Phil Booth,Turnover,57,61
+0:18,Saint Mary's,Malik Fitts,Missed Three Point Jumper,57,61
+0:18,Villanova,Eric Paschall,Defensive Rebound,57,61
+0:12,Saint Mary's,Jordan Ford,Foul,57,61
+0:12,Villanova,Eric Paschall,Missed Free Throw,57,61
+0:12,Saint Mary's,Malik Fitts,Defensive Rebound,57,61
+0:07,Saint Mary's,Jordan Ford,Turnover,57,61
+0:07,Villanova,Saddiq Bey,Steal,57,61

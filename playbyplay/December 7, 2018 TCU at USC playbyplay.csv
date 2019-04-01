@@ -1,0 +1,362 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,TCU,Alex Robinson,Turnover,0,0
+19:42,USC,Nick Rakocevic,Steal,0,0
+19:37,USC,Jonah Mathews,Missed Jumper,0,0
+19:37,TCU,Alex Robinson,Defensive Rebound,0,0
+19:25,TCU,Jaylen Fisher,Three Point Jumper,3,0
+18:59,USC,Nick Rakocevic,Missed Jumper,3,0
+18:59,TCU,Kevin Samuel,Defensive Rebound,3,0
+18:40,TCU,Alex Robinson,Missed Layup,3,0
+18:40,TCU,Kevin Samuel,Offensive Rebound,3,0
+18:32,TCU,JD Miller,Layup,5,0
+18:24,TCU,Alex Robinson,Foul,5,0
+18:23,USC,Bennie Boatwright,Jumper,5,2
+18:01,TCU,Alex Robinson,Three Point Jumper,8,2
+17:45,USC,Bennie Boatwright,Missed Jumper,8,2
+17:45,TCU,Kevin Samuel,Defensive Rebound,8,2
+17:38,TCU,Jaylen Fisher,Missed Three Point Jumper,8,2
+17:38,USC,Bennie Boatwright,Defensive Rebound,8,2
+17:30,USC,Derryck Thornton,Missed Layup,8,2
+17:30,TCU,Kevin Samuel,Block,8,2
+17:28,TCU,Kevin Samuel,Defensive Rebound,8,2
+17:08,TCU,Alex Robinson,Layup,10,2
+17:07,USC,None,None,10,2
+16:55,USC,Bennie Boatwright,Three Point Jumper,10,5
+16:31,TCU,JD Miller,Missed Three Point Jumper,10,5
+16:31,USC,Shaqquan Aaron,Defensive Rebound,10,5
+16:19,USC,Nick Rakocevic,Layup,10,7
+16:02,TCU,Jaylen Fisher,Missed Jumper,10,7
+16:02,TCU,Kevin Samuel,Offensive Rebound,10,7
+15:58,TCU,Kevin Samuel,Layup,12,7
+15:43,USC,Bennie Boatwright,Missed Three Point Jumper,12,7
+15:43,TCU,Kevin Samuel,Defensive Rebound,12,7
+15:37,TCU,Kevin Samuel,Turnover,12,7
+15:36,USC,Elijah Weaver,Steal,12,7
+15:34,USC,Elijah Weaver,Turnover,12,7
+15:34,USC,None,None,12,7
+15:18,TCU,Yuat Alok,Missed Jumper,12,7
+15:18,TCU,Desmond Bane,Offensive Rebound,12,7
+15:13,TCU,Desmond Bane,Jumper,14,7
+14:52,USC,Elijah Weaver,Three Point Jumper,14,10
+14:22,TCU,Yuat Alok,Missed Layup,14,10
+14:22,USC,Jordan Usher,Block,14,10
+14:22,TCU,Yuat Alok,Offensive Rebound,14,10
+14:20,TCU,Yuat Alok,Turnover,14,10
+14:10,TCU,Kouat Noi,Foul,14,10
+14:10,USC,Derryck Thornton,Free Throw,14,11
+14:10,USC,Derryck Thornton,Free Throw,14,12
+13:58,TCU,Kouat Noi,Layup,16,12
+13:40,USC,Bennie Boatwright,Missed Jumper,16,12
+13:40,TCU,Kouat Noi,Defensive Rebound,16,12
+13:22,TCU,Kouat Noi,Jumper,18,12
+13:02,TCU,Yuat Alok,Foul,18,12
+13:02,USC,Nick Rakocevic,Free Throw,18,13
+13:02,USC,Nick Rakocevic,Free Throw,18,14
+12:46,TCU,Kouat Noi,Missed Three Point Jumper,18,14
+12:46,USC,Elijah Weaver,Defensive Rebound,18,14
+12:28,USC,Shaqquan Aaron,Missed Jumper,18,14
+12:28,USC,Victor Uyaelunmo,Offensive Rebound,18,14
+12:22,USC,Victor Uyaelunmo,Turnover,18,14
+12:20,TCU,JD Miller,Steal,18,14
+12:14,TCU,Jaylen Fisher,Missed Jumper,18,14
+12:14,USC,Shaqquan Aaron,Defensive Rebound,18,14
+12:06,USC,Shaqquan Aaron,Turnover,18,14
+12:05,TCU,Desmond Bane,Steal,18,14
+12:02,TCU,Kendric Davis,Layup,20,14
+11:54,USC,Jonah Mathews,Missed Jumper,20,14
+11:54,TCU,JD Miller,Defensive Rebound,20,14
+11:41,TCU,Desmond Bane,Missed Three Point Jumper,20,14
+11:41,USC,Shaqquan Aaron,Defensive Rebound,20,14
+11:13,USC,Jordan Usher,Missed Layup,20,14
+11:13,USC,Victor Uyaelunmo,Offensive Rebound,20,14
+11:10,USC,Victor Uyaelunmo,Missed Dunk,20,14
+11:10,TCU,Kendric Davis,Defensive Rebound,20,14
+11:03,TCU,Jaylen Fisher,Three Point Jumper,23,14
+10:36,USC,Jordan Usher,Missed Three Point Jumper,23,14
+10:36,TCU,JD Miller,Defensive Rebound,23,14
+10:26,TCU,Kouat Noi,Missed Three Point Jumper,23,14
+10:26,USC,Victor Uyaelunmo,Defensive Rebound,23,14
+10:12,USC,Shaqquan Aaron,Three Point Jumper,23,17
+10:10,TCU,None,None,23,17
+10:10,USC,None,None,23,17
+10:04,TCU,JD Miller,Missed Three Point Jumper,23,17
+10:04,USC,Derryck Thornton,Defensive Rebound,23,17
+9:49,USC,Jonah Mathews,Missed Three Point Jumper,23,17
+9:49,TCU,Kevin Samuel,Defensive Rebound,23,17
+9:24,TCU,Jaylen Fisher,Turnover,23,17
+9:23,USC,Shaqquan Aaron,Steal,23,17
+9:21,USC,Shaqquan Aaron,Missed Dunk,23,17
+9:21,TCU,Kaden Archie,Defensive Rebound,23,17
+9:12,TCU,Jaylen Fisher,Three Point Jumper,26,17
+9:10,USC,None,None,26,17
+8:59,TCU,Jaylen Fisher,Foul,26,17
+8:55,USC,Nick Rakocevic,Missed Layup,26,17
+8:55,TCU,Alex Robinson,Defensive Rebound,26,17
+8:39,TCU,Alex Robinson,Layup,28,17
+8:26,USC,Derryck Thornton,Turnover,28,17
+8:17,TCU,Kouat Noi,Missed Three Point Jumper,28,17
+8:17,USC,Shaqquan Aaron,Defensive Rebound,28,17
+8:06,USC,Elijah Weaver,Turnover,28,17
+8:06,TCU,Alex Robinson,Steal,28,17
+7:59,TCU,Kaden Archie,Missed Layup,28,17
+7:59,USC,Nick Rakocevic,Defensive Rebound,28,17
+7:46,USC,Nick Rakocevic,Layup,28,19
+7:27,TCU,Kouat Noi,Missed Three Point Jumper,28,19
+7:27,TCU,Kevin Samuel,Offensive Rebound,28,19
+7:25,TCU,Kevin Samuel,Turnover,28,19
+7:25,USC,None,None,28,19
+7:11,USC,Nick Rakocevic,Missed Jumper,28,19
+7:11,TCU,Kouat Noi,Defensive Rebound,28,19
+6:53,TCU,Alex Robinson,Missed Layup,28,19
+6:53,USC,None,Team Rebound,28,19
+6:52,TCU,Kevin Samuel,Foul,28,19
+6:41,USC,Elijah Weaver,Three Point Jumper,28,22
+6:22,TCU,Kevin Samuel,Dunk,30,22
+6:08,USC,Elijah Weaver,Missed Layup,30,22
+6:08,TCU,Kevin Samuel,Defensive Rebound,30,22
+6:02,TCU,Jaylen Fisher,Missed Three Point Jumper,30,22
+6:02,USC,Elijah Weaver,Defensive Rebound,30,22
+5:52,USC,Elijah Weaver,Missed Three Point Jumper,30,22
+5:52,TCU,Desmond Bane,Defensive Rebound,30,22
+5:43,TCU,Desmond Bane,Missed Layup,30,22
+5:43,USC,Jordan Usher,Defensive Rebound,30,22
+5:37,USC,Elijah Weaver,Layup,30,24
+5:18,TCU,Kevin Samuel,Foul,30,24
+5:18,TCU,Kevin Samuel,Turnover,30,24
+5:01,USC,Derryck Thornton,Turnover,30,24
+5:00,TCU,Alex Robinson,Steal,30,24
+4:50,TCU,Kouat Noi,Three Point Jumper,33,24
+4:37,USC,Jordan Usher,Turnover,33,24
+4:20,TCU,Yuat Alok,Layup,35,24
+3:58,USC,Derryck Thornton,Missed Layup,35,24
+3:58,TCU,Kouat Noi,Block,35,24
+3:57,USC,Nick Rakocevic,Offensive Rebound,35,24
+3:55,USC,Nick Rakocevic,Missed Jumper,35,24
+3:55,USC,Nick Rakocevic,Offensive Rebound,35,24
+3:52,USC,Nick Rakocevic,Turnover,35,24
+3:52,TCU,Alex Robinson,Steal,35,24
+3:52,USC,Jordan Usher,Foul,35,24
+3:52,USC,None,None,35,24
+3:38,TCU,Yuat Alok,Missed Jumper,35,24
+3:38,USC,Jordan Usher,Defensive Rebound,35,24
+3:11,USC,Elijah Weaver,Missed Three Point Jumper,35,24
+3:11,TCU,Yuat Alok,Defensive Rebound,35,24
+2:59,TCU,Yuat Alok,Jumper,37,24
+2:42,USC,Nick Rakocevic,Missed Jumper,37,24
+2:42,TCU,Kouat Noi,Defensive Rebound,37,24
+2:38,USC,Jonah Mathews,Foul,37,24
+2:22,TCU,Kouat Noi,Missed Jumper,37,24
+2:22,USC,Bennie Boatwright,Defensive Rebound,37,24
+2:05,USC,Jordan Usher,Jumper,37,26
+1:47,TCU,JD Miller,Jumper,39,26
+1:47,USC,Bennie Boatwright,Foul,39,26
+1:47,TCU,JD Miller,Free Throw,40,26
+1:30,USC,Jonah Mathews,Missed Jumper,40,26
+1:30,TCU,Kouat Noi,Defensive Rebound,40,26
+1:13,TCU,JD Miller,Turnover,40,26
+1:04,USC,Derryck Thornton,Missed Jumper,40,26
+1:04,USC,Jonah Mathews,Offensive Rebound,40,26
+1:00,USC,Jonah Mathews,Missed Jumper,40,26
+1:00,TCU,Desmond Bane,Defensive Rebound,40,26
+0:54,TCU,Jaylen Fisher,Three Point Jumper,43,26
+0:32,USC,Derryck Thornton,Turnover,43,26
+0:04,TCU,Jaylen Fisher,Three Point Jumper,46,26
+0:00,USC,None,None,46,26
+19:51,USC,Derryck Thornton,Turnover,46,26
+19:30,TCU,Desmond Bane,Three Point Jumper,49,26
+19:09,TCU,Alex Robinson,Foul,49,26
+19:09,USC,Nick Rakocevic,Free Throw,49,27
+19:09,USC,Nick Rakocevic,Free Throw,49,28
+18:50,TCU,JD Miller,Layup,51,28
+18:40,USC,Bennie Boatwright,Three Point Jumper,51,31
+18:23,TCU,Alex Robinson,Jumper,53,31
+18:05,USC,Shaqquan Aaron,Three Point Jumper,53,34
+17:50,TCU,Yuat Alok,Missed Jumper,53,34
+17:50,TCU,None,Team Rebound,53,34
+17:47,USC,Shaqquan Aaron,Foul,53,34
+17:37,TCU,Jaylen Fisher,Missed Three Point Jumper,53,34
+17:37,USC,Bennie Boatwright,Defensive Rebound,53,34
+17:26,USC,Derryck Thornton,Missed Three Point Jumper,53,34
+17:26,TCU,Desmond Bane,Defensive Rebound,53,34
+17:17,TCU,Desmond Bane,Foul,53,34
+17:17,TCU,Desmond Bane,Turnover,53,34
+16:54,TCU,Yuat Alok,Foul,53,34
+16:54,USC,Nick Rakocevic,Free Throw,53,35
+16:54,USC,Nick Rakocevic,Free Throw,53,36
+16:33,TCU,Kouat Noi,Three Point Jumper,56,36
+16:25,USC,Jonah Mathews,Layup,56,38
+16:25,TCU,Jaylen Fisher,Foul,56,38
+16:25,USC,Jonah Mathews,Free Throw,56,39
+16:14,TCU,Alex Robinson,Layup,58,39
+16:14,USC,Nick Rakocevic,Foul,58,39
+16:14,TCU,Alex Robinson,Free Throw,59,39
+15:55,USC,Shaqquan Aaron,Jumper,59,41
+15:39,TCU,Desmond Bane,Missed Three Point Jumper,59,41
+15:39,USC,Nick Rakocevic,Defensive Rebound,59,41
+15:24,USC,Shaqquan Aaron,Missed Jumper,59,41
+15:24,USC,USC,Offensive Rebound,59,41
+15:21,USC,None,None,59,41
+15:19,USC,Nick Rakocevic,Turnover,59,41
+14:58,TCU,Kouat Noi,Missed Three Point Jumper,59,41
+14:58,TCU,None,Team Rebound,59,41
+14:57,USC,Jonah Mathews,Foul,59,41
+14:56,TCU,Desmond Bane,Layup,61,41
+14:56,USC,Nick Rakocevic,Foul,61,41
+14:56,TCU,Desmond Bane,Free Throw,62,41
+14:38,USC,Bennie Boatwright,Missed Three Point Jumper,62,41
+14:38,TCU,Alex Robinson,Defensive Rebound,62,41
+14:22,TCU,JD Miller,Turnover,62,41
+14:06,USC,Elijah Weaver,Layup,62,43
+13:51,TCU,Kouat Noi,Jumper,64,43
+13:41,USC,Elijah Weaver,Turnover,64,43
+13:31,TCU,Kouat Noi,Missed Layup,64,43
+13:31,USC,Victor Uyaelunmo,Defensive Rebound,64,43
+13:14,USC,Elijah Weaver,Missed Three Point Jumper,64,43
+13:14,USC,Victor Uyaelunmo,Offensive Rebound,64,43
+13:11,USC,Jonah Mathews,Jumper,64,45
+12:40,TCU,Desmond Bane,Three Point Jumper,67,45
+12:09,USC,Victor Uyaelunmo,Missed Jumper,67,45
+12:09,TCU,Yuat Alok,Block,67,45
+12:07,TCU,Yuat Alok,Defensive Rebound,67,45
+11:55,TCU,RJ Nembhard,Missed Three Point Jumper,67,45
+11:55,TCU,Kouat Noi,Offensive Rebound,67,45
+11:52,TCU,None,None,69,45
+11:50,USC,None,None,69,45
+11:50,USC,None,None,69,45
+11:30,USC,Nick Rakocevic,Missed Layup,69,45
+11:30,TCU,Yuat Alok,Block,69,45
+11:28,TCU,Kouat Noi,Defensive Rebound,69,45
+11:24,TCU,Kouat Noi,Missed Three Point Jumper,69,45
+11:24,TCU,None,Team Rebound,69,45
+11:23,USC,J'Raan Brooks,Foul,69,45
+11:23,USC,None,None,69,45
+11:09,TCU,RJ Nembhard,Turnover,69,45
+11:08,USC,Nick Rakocevic,Steal,69,45
+11:06,USC,Shaqquan Aaron,Turnover,69,45
+11:05,TCU,RJ Nembhard,Steal,69,45
+11:00,TCU,Kaden Archie,Missed Three Point Jumper,69,45
+11:00,USC,Jordan Usher,Defensive Rebound,69,45
+10:46,USC,Jordan Usher,Turnover,69,45
+10:46,TCU,Alex Robinson,Steal,69,45
+10:43,USC,Derryck Thornton,Foul,69,45
+10:43,TCU,Alex Robinson,Free Throw,70,45
+10:43,TCU,Alex Robinson,Free Throw,71,45
+10:29,TCU,Yuat Alok,Foul,71,45
+10:22,USC,Shaqquan Aaron,Missed Jumper,71,45
+10:22,USC,Nick Rakocevic,Offensive Rebound,71,45
+10:19,USC,None,None,71,45
+10:19,USC,Nick Rakocevic,Offensive Rebound,71,45
+10:18,TCU,JD Miller,Foul,71,45
+10:18,USC,Nick Rakocevic,Missed Free Throw,71,45
+10:18,USC,None,Team Rebound,71,45
+10:18,USC,Nick Rakocevic,Free Throw,71,46
+10:02,USC,Shaqquan Aaron,Foul,71,46
+10:02,TCU,JD Miller,Free Throw,72,46
+10:02,TCU,JD Miller,Free Throw,73,46
+9:48,USC,Derryck Thornton,Turnover,73,46
+9:46,TCU,Jaylen Fisher,Steal,73,46
+9:45,TCU,JD Miller,Dunk,75,46
+9:37,USC,Jonah Mathews,Missed Three Point Jumper,75,46
+9:37,TCU,None,Team Rebound,75,46
+9:37,USC,Nick Rakocevic,Foul,75,46
+9:37,TCU,Alex Robinson,Free Throw,76,46
+9:37,TCU,Alex Robinson,Missed Free Throw,76,46
+9:37,USC,Nick Rakocevic,Defensive Rebound,76,46
+9:23,USC,Bennie Boatwright,Jumper,76,48
+9:09,TCU,Kevin Samuel,Turnover,76,48
+9:01,USC,Elijah Weaver,Foul,76,48
+9:01,USC,Elijah Weaver,Turnover,76,48
+8:42,USC,Nick Rakocevic,Foul,76,48
+8:42,TCU,Kendric Davis,Free Throw,77,48
+8:42,TCU,Kendric Davis,Free Throw,78,48
+8:29,USC,Elijah Weaver,Turnover,78,48
+8:17,TCU,Jaylen Fisher,Missed Three Point Jumper,78,48
+8:17,USC,Jonah Mathews,Defensive Rebound,78,48
+8:01,USC,Jonah Mathews,Missed Jumper,78,48
+8:01,TCU,Kevin Samuel,Defensive Rebound,78,48
+7:51,TCU,JD Miller,Three Point Jumper,81,48
+7:30,TCU,JD Miller,Foul,81,48
+7:30,USC,None,None,81,48
+7:30,USC,Bennie Boatwright,Missed Free Throw,81,48
+7:30,USC,None,Team Rebound,81,48
+7:30,USC,Bennie Boatwright,Free Throw,81,49
+7:20,TCU,Kaden Archie,Missed Layup,81,49
+7:20,TCU,Kevin Samuel,Offensive Rebound,81,49
+7:19,TCU,Kevin Samuel,Turnover,81,49
+7:05,USC,J'Raan Brooks,Missed Jumper,81,49
+7:05,TCU,Kaden Archie,Defensive Rebound,81,49
+6:57,USC,Elijah Weaver,Foul,81,49
+6:57,TCU,Kendric Davis,Missed Free Throw,81,49
+6:57,TCU,None,Team Rebound,81,49
+6:57,TCU,Kendric Davis,Free Throw,82,49
+6:47,TCU,JD Miller,Foul,82,49
+6:47,USC,Nick Rakocevic,Free Throw,82,50
+6:47,USC,Nick Rakocevic,Free Throw,82,51
+6:29,TCU,Kendric Davis,Three Point Jumper,85,51
+6:21,USC,Bennie Boatwright,Three Point Jumper,85,54
+5:48,TCU,Kaden Archie,Missed Three Point Jumper,85,54
+5:48,TCU,JD Miller,Offensive Rebound,85,54
+5:30,TCU,Jaylen Fisher,Missed Three Point Jumper,85,54
+5:30,USC,Bennie Boatwright,Defensive Rebound,85,54
+5:18,TCU,Kaden Archie,Foul,85,54
+5:18,USC,Derryck Thornton,Free Throw,85,55
+5:18,USC,Derryck Thornton,Free Throw,85,56
+5:00,TCU,Kevin Samuel,Jumper,87,56
+4:40,USC,Elijah Weaver,Missed Jumper,87,56
+4:40,TCU,Kevin Samuel,Defensive Rebound,87,56
+4:27,TCU,Kendric Davis,Missed Jumper,87,56
+4:27,TCU,Kevin Samuel,Offensive Rebound,87,56
+4:24,TCU,Kevin Samuel,Dunk,89,56
+4:13,USC,Bennie Boatwright,Missed Three Point Jumper,89,56
+4:13,TCU,RJ Nembhard,Defensive Rebound,89,56
+4:03,TCU,Kevin Samuel,Layup,91,56
+4:03,USC,Nick Rakocevic,Foul,91,56
+4:03,TCU,Kevin Samuel,Missed Free Throw,91,56
+4:03,USC,J'Raan Brooks,Defensive Rebound,91,56
+3:48,TCU,Kevin Samuel,Foul,91,56
+3:48,USC,None,None,91,56
+3:48,USC,Victor Uyaelunmo,Free Throw,91,57
+3:48,USC,Victor Uyaelunmo,Missed Free Throw,91,57
+3:48,TCU,RJ Nembhard,Defensive Rebound,91,57
+3:30,USC,J'Raan Brooks,Foul,91,57
+3:30,TCU,Kaden Archie,Missed Free Throw,91,57
+3:30,TCU,None,Team Rebound,91,57
+3:30,TCU,Kaden Archie,Missed Free Throw,91,57
+3:30,USC,Jordan Usher,Defensive Rebound,91,57
+3:21,USC,Jonah Mathews,Missed Jumper,91,57
+3:21,TCU,Kaden Archie,Defensive Rebound,91,57
+3:03,TCU,RJ Nembhard,Missed Layup,91,57
+3:03,USC,Jonah Mathews,Defensive Rebound,91,57
+2:42,USC,Jordan Usher,Turnover,91,57
+2:42,TCU,Kaden Archie,Steal,91,57
+2:25,USC,J'Raan Brooks,Foul,91,57
+2:25,TCU,Yuat Alok,Missed Free Throw,91,57
+2:25,TCU,None,Team Rebound,91,57
+2:25,TCU,Yuat Alok,Free Throw,92,57
+2:14,USC,Jordan Usher,Turnover,92,57
+2:00,TCU,Kendric Davis,Turnover,92,57
+1:52,TCU,Kaden Archie,Foul,92,57
+1:52,USC,J'Raan Brooks,Missed Free Throw,92,57
+1:52,USC,None,Team Rebound,92,57
+1:52,USC,J'Raan Brooks,Missed Free Throw,92,57
+1:52,USC,Shaqquan Aaron,Offensive Rebound,92,57
+1:43,USC,Jordan Usher,Turnover,92,57
+1:40,TCU,Kaden Archie,Steal,92,57
+1:40,USC,Victor Uyaelunmo,Foul,92,57
+1:40,TCU,Kaden Archie,Free Throw,93,57
+1:40,TCU,Kaden Archie,Free Throw,94,57
+1:12,USC,Jonah Mathews,Three Point Jumper,94,60
+0:46,TCU,Owen Aschieris,Turnover,94,60
+0:46,USC,Devin Fleming,Steal,94,60
+0:44,USC,J'Raan Brooks,Missed Layup,94,60
+0:44,TCU,TCU,Defensive Rebound,94,60
+0:32,TCU,Kaden Archie,Missed Dunk,94,60
+0:32,TCU,RJ Nembhard,Offensive Rebound,94,60
+0:27,USC,Victor Uyaelunmo,Foul,94,60
+0:27,TCU,Yuat Alok,Free Throw,95,60
+0:27,TCU,Yuat Alok,Free Throw,96,60
+0:08,TCU,Yuat Alok,Foul,96,60
+0:08,USC,Devin Fleming,Free Throw,96,61
+0:08,USC,Devin Fleming,Missed Free Throw,96,61
+0:08,TCU,Kaden Archie,Defensive Rebound,96,61
+0:00,USC,None,None,96,61

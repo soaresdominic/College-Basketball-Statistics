@@ -1,0 +1,358 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:33,Detroit Mercy,Harrison Curry,Turnover,0,0
+19:33,Ohio,Antonio Cowart Jr.,Steal,0,0
+19:10,Ohio,Teyvion Kirk,Missed Jumper,0,0
+19:10,Detroit Mercy,Harrison Curry,Block,0,0
+19:03,Detroit Mercy,Antoine Davis,Defensive Rebound,0,0
+19:00,Detroit Mercy,Antoine Davis,Jumper,0,2
+18:43,Ohio,Doug Taylor,Offensive Rebound,0,2
+18:31,Ohio,Doug Taylor,Missed Jumper,0,2
+18:28,Detroit Mercy,Josh McFolley,Defensive Rebound,0,2
+18:22,Detroit Mercy,Harrison Curry,Missed Three Point Jumper,0,2
+18:16,Ohio,Teyvion Kirk,Defensive Rebound,0,2
+18:11,Detroit Mercy,Tra'Quan Knight,Foul,0,2
+18:11,Ohio,Teyvion Kirk,Missed Free Throw,0,2
+18:11,Ohio,None,Team Rebound,0,2
+18:11,Ohio,Teyvion Kirk,Free Throw,1,2
+17:51,Detroit Mercy,Harrison Curry,Jumper,1,4
+17:48,Detroit Mercy,Tra'Quan Knight,Foul,1,4
+17:23,Ohio,Jason Carter,Free Throw,2,4
+17:03,Ohio,Jason Carter,Free Throw,3,4
+17:00,Detroit Mercy,Harrison Curry,Layup,3,6
+16:48,Ohio,Jason Carter,Turnover,3,6
+16:48,Detroit Mercy,Derrien King,Steal,3,6
+16:46,Ohio,Doug Taylor,Foul,3,6
+16:46,Detroit Mercy,Derrien King,Free Throw,3,7
+16:46,Detroit Mercy,Derrien King,Free Throw,3,8
+16:27,Ohio,Antonio Cowart Jr.,Turnover,3,8
+16:08,Detroit Mercy,Harrison Curry,Turnover,3,8
+16:08,Ohio,Jason Preston,Steal,3,8
+15:59,Ohio,Doug Taylor,Layup,5,8
+15:45,Detroit Mercy,Antoine Davis,Three Point Jumper,5,11
+15:22,Ohio,Jason Carter,Missed Layup,5,11
+15:22,Ohio,Ohio,Offensive Rebound,5,11
+15:18,Detroit Mercy,None,None,5,11
+15:03,Ohio,Teyvion Kirk,Jumper,7,11
+14:47,Detroit Mercy,Gerald Blackshear Jr.,Turnover,7,11
+14:37,Ohio,Ben Vander Plas,Turnover,7,11
+14:37,Detroit Mercy,Derrien King,Steal,7,11
+14:31,Ohio,Gavin Block,Foul,7,11
+14:31,Detroit Mercy,Gerald Blackshear Jr.,Missed Free Throw,7,11
+14:31,Detroit Mercy,None,Team Rebound,7,11
+14:31,Detroit Mercy,Gerald Blackshear Jr.,Free Throw,7,12
+14:10,Ohio,Jason Carter,Layup,9,12
+13:57,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,9,12
+13:56,Ohio,Ohio,Defensive Rebound,9,12
+13:32,Ohio,Ben Vander Plas,Three Point Jumper,12,12
+13:14,Detroit Mercy,Josh McFolley,Three Point Jumper,12,15
+13:00,Ohio,Gavin Block,Turnover,12,15
+13:00,Detroit Mercy,Jacob Holland,Steal,12,15
+12:50,Detroit Mercy,Jacob Holland,Turnover,12,15
+12:23,Ohio,Gavin,Block,12,15
+12:21,Detroit Mercy,Detroit Mercy,Defensive Rebound,12,15
+12:02,Ohio,Doug Taylor,Foul,12,15
+11:57,Detroit Mercy,Derrien King,Three Point Jumper,12,18
+11:44,Detroit Mercy,None,None,12,18
+11:29,Ohio,Gavin,Block,12,18
+11:22,Detroit Mercy,Derrien King,Defensive Rebound,12,18
+11:08,Detroit Mercy,Harrison Curry,Turnover,12,18
+11:08,Ohio,Doug Taylor,Steal,12,18
+10:43,Ohio,Doug Taylor,Layup,14,18
+10:29,Detroit Mercy,Josh McFolley,Turnover,14,18
+10:01,Ohio,Antonio Cowart Jr.,Three Point Jumper,17,18
+9:43,Detroit Mercy,Antoine Davis,Missed Layup,17,18
+9:43,Ohio,Doug Taylor,Block,17,18
+9:43,Ohio,Jason Preston,Defensive Rebound,17,18
+9:43,Ohio,Jason Preston,Turnover,17,18
+9:36,Detroit Mercy,Antoine Davis,Turnover,17,18
+9:36,Ohio,Teyvion Kirk,Steal,17,18
+9:36,Ohio,Teyvion Kirk,Turnover,17,18
+9:19,Detroit Mercy,Antoine Davis,Jumper,17,20
+9:00,Ohio,Jason Carter,Missed Layup,17,20
+8:53,Detroit Mercy,Antoine Davis,Defensive Rebound,17,20
+8:53,Detroit Mercy,Marquis Moore,Turnover,17,20
+8:35,Ohio,Jason Carter made Layup. Assisted by Gavin,Block,19,20
+8:17,Detroit Mercy,Tra'Quan Knight,Missed Layup,19,20
+8:11,Detroit Mercy,Boe Nguidjol,Offensive Rebound,19,20
+8:10,Detroit Mercy,Derrien King,Missed Jumper,19,20
+8:06,Ohio,Ben Vander Plas,Defensive Rebound,19,20
+8:02,Ohio,Teyvion Kirk,Missed Layup,19,20
+8:01,Detroit Mercy,Boe Nguidjol,Defensive Rebound,19,20
+7:58,Detroit Mercy,Boe Nguidjol,Turnover,19,20
+7:58,Detroit Mercy,None,None,19,20
+7:46,Ohio,Jason Preston,Jumper,21,20
+7:36,Detroit Mercy,Josh McFolley,Missed Three Point Jumper,21,20
+7:30,Ohio,Doug Taylor,Defensive Rebound,21,20
+7:26,Detroit Mercy,Josh McFolley,Foul,21,20
+6:58,Ohio,Ben Vander Plas,Missed Three Point Jumper,21,20
+6:53,Ohio,Jason Preston,Offensive Rebound,21,20
+6:43,Detroit Mercy,Josh McFolley,Foul,21,20
+6:30,Ohio,Doug Taylor,Missed Layup,21,20
+6:22,Ohio,Doug Taylor,Offensive Rebound,21,20
+6:22,Ohio,Doug Taylor,Layup,23,20
+6:10,Detroit Mercy,Antoine Davis,Three Point Jumper,23,23
+5:46,Ohio,Teyvion Kirk,Layup,25,23
+5:31,Detroit Mercy,Boe Nguidjol,Foul,25,23
+5:31,Detroit Mercy,Boe Nguidjol,Turnover,25,23
+5:16,Ohio,Connor Murrell,Three Point Jumper,28,23
+4:55,Detroit Mercy,Derrien King,Three Point Jumper,28,26
+4:37,Ohio,Antonio Cowart Jr.,Turnover,28,26
+4:37,Detroit Mercy,Harrison Curry,Steal,28,26
+4:27,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,28,26
+4:18,Detroit Mercy,Chris Brandon,Offensive Rebound,28,26
+4:18,Detroit Mercy,Chris Brandon,Layup,28,28
+4:13,Detroit Mercy,Derrien King,Foul,28,28
+4:13,Ohio,Jason Carter,Free Throw,29,28
+4:13,Ohio,Jason Carter,Free Throw,30,28
+4:10,Ohio,Antonio Cowart Jr.,Foul,30,28
+3:53,Detroit Mercy,Harrison Curry,Missed Three Point Jumper,30,28
+3:53,Ohio,Doug Taylor,Defensive Rebound,30,28
+3:53,Ohio,Connor Murrell,Missed Layup,30,28
+3:53,Ohio,Doug Taylor,Offensive Rebound,30,28
+3:53,Ohio,Doug Taylor,Missed Dunk,30,28
+3:53,Detroit Mercy,Antoine Davis,Defensive Rebound,30,28
+3:53,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,30,28
+3:53,Ohio,Doug Taylor,Defensive Rebound,30,28
+3:10,Ohio,Jason Preston,Turnover,30,28
+3:10,Detroit Mercy,None,None,30,28
+2:59,Detroit Mercy,Chris Brandon,Layup,30,30
+2:32,Detroit Mercy,Derrien King,Foul,30,30
+2:32,Ohio,Teyvion Kirk,Free Throw,31,30
+2:28,Ohio,Teyvion Kirk,Missed Free Throw,31,30
+2:25,Ohio,Ben Vander Plas,Offensive Rebound,31,30
+2:03,Ohio,Antonio Cowart Jr.,Missed Three Point Jumper,31,30
+2:03,Ohio,Teyvion Kirk,Offensive Rebound,31,30
+2:03,Ohio,Teyvion Kirk,Layup,33,30
+2:03,Detroit Mercy,Derrien King,Foul,33,30
+2:03,Ohio,Teyvion Kirk,Free Throw,34,30
+1:51,Detroit Mercy,Derrien King,Missed Three Point Jumper,34,30
+1:47,Ohio,Gavin,Block,34,30
+1:42,Ohio,Ben Vander Plas,Missed Three Point Jumper,34,30
+1:40,Ohio,James Gollon,Offensive Rebound,34,30
+1:40,Ohio,Teyvion Kirk,Turnover,34,30
+1:25,Detroit Mercy,Antoine Davis,Foul,34,30
+1:25,Detroit Mercy,Antoine Davis,Turnover,34,30
+1:14,Ohio,Jason Carter,Missed Layup,34,30
+1:14,Detroit Mercy,Cole Long,Defensive Rebound,34,30
+1:14,Ohio,Teyvion Kirk,Foul,34,30
+0:50,Ohio,Gavin Block,Foul,34,30
+0:40,Detroit Mercy,Lamar Hamrick,Missed Layup,34,30
+0:34,Detroit Mercy,Cole Long,Offensive Rebound,34,30
+0:34,Detroit Mercy,Cole Long,Missed Layup,34,30
+0:34,Detroit Mercy,Chris Brandon,Missed Layup,34,30
+0:34,Detroit Mercy,Chris Brandon,Offensive Rebound,34,30
+0:34,Ohio,Antonio Cowart Jr.,Defensive Rebound,34,30
+0:34,Ohio,Teyvion Kirk,Foul,34,30
+0:34,Ohio,Teyvion Kirk,Turnover,34,30
+0:34,Detroit Mercy,None,None,34,30
+0:09,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,34,30
+0:09,Ohio,Connor Murrell,Defensive Rebound,34,30
+0:09,Ohio,Ben Vander Plas,Block,34,30
+0:00,Ohio,Jason Preston,Jumper,36,30
+0:00,Detroit Mercy,None,None,36,30
+19:38,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,36,30
+19:34,Ohio,Doug Taylor,Defensive Rebound,36,30
+19:25,Detroit Mercy,Harrison Curry,Foul,36,30
+19:25,Ohio,Teyvion Kirk,Missed Jumper,36,30
+19:25,Detroit Mercy,Harrison Curry,Defensive Rebound,36,30
+19:25,Detroit Mercy,Harrison Curry,Turnover,36,30
+19:25,Ohio,Teyvion Kirk,Steal,36,30
+18:50,Ohio,Jason Carter,Foul,36,30
+18:50,Ohio,Jason Carter,Turnover,36,30
+18:47,Detroit Mercy,Antoine Davis,Missed Jumper,36,30
+18:39,Ohio,Teyvion Kirk,Defensive Rebound,36,30
+18:29,Detroit Mercy,Josh McFolley,Foul,36,30
+18:29,Ohio,Teyvion Kirk,Missed Free Throw,36,30
+18:29,Ohio,None,Team Rebound,36,30
+18:29,Ohio,Teyvion Kirk,Free Throw,37,30
+18:10,Detroit Mercy,Derrien King,Missed Jumper,37,30
+18:07,Ohio,Antonio Cowart Jr.,Defensive Rebound,37,30
+17:51,Ohio,Jason Carter,Missed Jumper,37,30
+17:47,Detroit Mercy,Derrien King,Defensive Rebound,37,30
+17:43,Detroit Mercy,Antoine Davis,Missed Jumper,37,30
+17:38,Ohio,Teyvion Kirk,Defensive Rebound,37,30
+17:36,Ohio,Teyvion Kirk,Turnover,37,30
+17:36,Detroit Mercy,Tra'Quan Knight,Steal,37,30
+17:31,Ohio,Jason Carter,Foul,37,30
+17:31,Detroit Mercy,Tra'Quan Knight,Free Throw,37,31
+17:31,Detroit Mercy,Tra'Quan Knight,Missed Free Throw,37,31
+17:29,Ohio,Antonio Cowart Jr.,Defensive Rebound,37,31
+17:05,Ohio,Teyvion Kirk,Layup,39,31
+17:05,Detroit Mercy,Antoine Davis,Foul,39,31
+17:05,Ohio,Teyvion Kirk,Free Throw,40,31
+16:47,Detroit Mercy,Derrien King,Missed Jumper,40,31
+16:47,Ohio,Jason Carter,Block,40,31
+16:44,Ohio,Doug Taylor,Defensive Rebound,40,31
+16:20,Ohio,Jason Preston,Turnover,40,31
+16:20,Detroit Mercy,Derrien King,Steal,40,31
+16:00,Detroit Mercy,Tra'Quan Knight,Layup,40,33
+15:43,Ohio,Jason Preston,Jumper,42,33
+15:16,Detroit Mercy,Derrien King,Turnover,42,33
+15:16,Ohio,Antonio Cowart Jr.,Steal,42,33
+15:05,Ohio,Jason Carter,Layup,44,33
+15:05,Detroit Mercy,Derrien King,Foul,44,33
+15:05,Detroit Mercy,None,None,44,33
+15:05,Ohio,Jason Carter,Free Throw,45,33
+14:45,Detroit Mercy,Antoine Davis,Missed Jumper,45,33
+14:45,Ohio,Jason Carter,Block,45,33
+14:38,Ohio,Gavin,Block,45,33
+14:26,Detroit Mercy,Josh McFolley,Defensive Rebound,45,33
+14:25,Detroit Mercy,Chris Brandon,Missed Three Point Jumper,45,33
+14:19,Ohio,Teyvion Kirk,Defensive Rebound,45,33
+14:16,Ohio,Jason Carter,Turnover,45,33
+14:16,Detroit Mercy,Tra'Quan Knight,Steal,45,33
+14:04,Detroit Mercy,Tra'Quan Knight,Turnover,45,33
+14:04,Ohio,Doug Taylor,Steal,45,33
+13:58,Ohio,Jason Carter,Dunk,47,33
+13:57,Detroit Mercy,None,None,47,33
+13:57,Detroit Mercy,None,None,47,33
+13:38,Detroit Mercy,Tra'Quan Knight,Missed Jumper,47,33
+13:38,Ohio,Ben Vander Plas,Block,47,33
+13:28,Ohio,Ohio,Defensive Rebound,47,33
+13:16,Ohio,Gavin,Block,47,33
+13:14,Ohio,Doug Taylor,Offensive Rebound,47,33
+13:14,Detroit Mercy,Tra'Quan Knight,Foul,47,33
+13:07,Ohio,Doug Taylor,Layup,49,33
+12:52,Ohio,Teyvion Kirk,Foul,49,33
+12:52,Detroit Mercy,Jacob Holland,Missed Free Throw,49,33
+12:52,Detroit Mercy,None,Team Rebound,49,33
+12:52,Detroit Mercy,Jacob Holland,Missed Free Throw,49,33
+12:52,Ohio,Antonio Cowart Jr.,Defensive Rebound,49,33
+12:39,Ohio,Jason Preston,Missed Jumper,49,33
+12:33,Detroit Mercy,Chris Brandon,Defensive Rebound,49,33
+12:33,Ohio,Antonio Cowart Jr.,Foul,49,33
+12:21,Ohio,Ben Vander Plas made Three Point Jumper. Assisted by Gavin,Block,52,33
+12:21,Detroit Mercy,Chris Brandon,Missed Free Throw,52,33
+12:21,Detroit Mercy,None,Team Rebound,52,33
+12:21,Detroit Mercy,Chris Brandon,Missed Free Throw,52,33
+12:21,Ohio,Antonio Cowart Jr.,Defensive Rebound,52,33
+11:55,Detroit Mercy,Tra'Quan Knight,Missed Jumper,52,33
+11:55,Ohio,Gavin,Block,52,33
+11:55,Detroit Mercy,Josh McFolley,Offensive Rebound,52,33
+11:54,Detroit Mercy,None,None,52,33
+11:22,Detroit Mercy,Harrison Curry,Three Point Jumper,52,36
+11:17,Ohio,Antonio Cowart Jr.,Turnover,52,36
+11:17,Detroit Mercy,Antoine Davis,Steal,52,36
+11:02,Ohio,Doug Taylor,Foul,52,36
+11:02,Detroit Mercy,Antoine Davis,Free Throw,52,37
+11:02,Detroit Mercy,Antoine Davis,Free Throw,52,38
+10:35,Ohio,Ben Vander Plas,Missed Three Point Jumper,52,38
+10:32,Detroit Mercy,Josh McFolley,Defensive Rebound,52,38
+10:23,Detroit Mercy,Harrison Curry,Missed Three Point Jumper,52,38
+10:19,Ohio,Jason Preston,Defensive Rebound,52,38
+10:08,Ohio,Jason Carter,Missed Dunk,52,38
+10:08,Detroit Mercy,Chris Brandon,Block,52,38
+10:04,Ohio,Jason Carter,Foul,52,38
+10:04,Detroit Mercy,Harrison Curry,Defensive Rebound,52,38
+10:04,Detroit Mercy,Marquis Moore,Missed Free Throw,52,38
+10:01,Detroit Mercy,Chris Brandon,Layup,52,40
+9:52,Ohio,Jason Preston,Turnover,52,40
+9:52,Detroit Mercy,Josh McFolley,Steal,52,40
+9:52,Ohio,Jason Preston,Foul,52,40
+9:52,Ohio,None,None,52,40
+9:52,Detroit Mercy,Josh McFolley,Free Throw,52,41
+9:52,Detroit Mercy,Josh McFolley,Free Throw,52,42
+9:40,Detroit Mercy,Marquis Moore,Foul,52,42
+9:40,Ohio,Jason Carter,Free Throw,53,42
+9:39,Ohio,Jason Carter,Missed Free Throw,53,42
+9:37,Detroit Mercy,Chris Brandon,Defensive Rebound,53,42
+9:21,Detroit Mercy,Antoine Davis,Missed Layup,53,42
+9:15,Detroit Mercy,Harrison Curry,Offensive Rebound,53,42
+9:15,Detroit Mercy,Harrison Curry,Missed Layup,53,42
+9:14,Ohio,Teyvion Kirk,Defensive Rebound,53,42
+9:03,Ohio,Teyvion Kirk,Turnover,53,42
+9:03,Detroit Mercy,Marquis Moore,Steal,53,42
+8:57,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,53,42
+8:52,Ohio,Jason Carter,Defensive Rebound,53,42
+8:38,Ohio,Teyvion Kirk,Missed Jumper,53,42
+8:34,Detroit Mercy,Chris Brandon,Defensive Rebound,53,42
+8:26,Detroit Mercy,Josh McFolley,Missed Jumper,53,42
+8:22,Ohio,Teyvion Kirk,Defensive Rebound,53,42
+8:22,Ohio,Teyvion Kirk,Turnover,53,42
+8:22,Detroit Mercy,Josh McFolley,Steal,53,42
+8:16,Detroit Mercy,Josh McFolley,Layup,53,44
+7:53,Detroit Mercy,Antoine Davis,Foul,53,44
+7:53,Detroit Mercy,None,None,53,44
+7:53,Ohio,Antonio Cowart Jr.,Missed Free Throw,53,44
+7:53,Ohio,None,Team Rebound,53,44
+7:53,Ohio,Antonio Cowart Jr.,Missed Free Throw,53,44
+7:53,Ohio,Jason Carter,Offensive Rebound,53,44
+7:29,Ohio,Gavin,Block,53,44
+7:27,Ohio,Doug Taylor,Offensive Rebound,53,44
+7:27,Detroit Mercy,Chris Brandon,Foul,53,44
+7:27,Ohio,Doug Taylor,Missed Free Throw,53,44
+7:27,Ohio,None,Team Rebound,53,44
+7:25,Ohio,Doug Taylor,Missed Free Throw,53,44
+7:23,Detroit Mercy,Chris Brandon,Defensive Rebound,53,44
+7:15,Detroit Mercy,Antoine Davis,Missed Layup,53,44
+7:11,Detroit Mercy,Chris Brandon,Offensive Rebound,53,44
+7:05,Detroit Mercy,Antoine Davis,Three Point Jumper,53,47
+6:48,Ohio,Jason Carter,Layup,55,47
+6:43,Ohio,Antonio Cowart Jr.,Foul,55,47
+6:43,Detroit Mercy,Antoine Davis,Free Throw,55,48
+6:43,Detroit Mercy,Antoine Davis,Free Throw,55,49
+6:24,Ohio,Jason Carter,Jumper,57,49
+6:13,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,57,49
+6:08,Ohio,Doug Taylor,Defensive Rebound,57,49
+5:56,Ohio,Teyvion Kirk,Turnover,57,49
+5:56,Detroit Mercy,Josh McFolley,Steal,57,49
+5:49,Detroit Mercy,Josh McFolley,Missed Layup,57,49
+5:45,Ohio,Jason Preston,Defensive Rebound,57,49
+5:44,Detroit Mercy,Chris Brandon,Foul,57,49
+5:44,Detroit Mercy,None,None,57,49
+5:44,Ohio,Doug Taylor,Missed Free Throw,57,49
+5:44,Ohio,None,Team Rebound,57,49
+5:44,Ohio,Doug Taylor,Free Throw,58,49
+5:24,Detroit Mercy,Antoine Davis,Missed Jumper,58,49
+5:20,Ohio,Doug Taylor,Defensive Rebound,58,49
+5:01,Ohio,Teyvion Kirk,Turnover,58,49
+4:53,Detroit Mercy,Harrison Curry,Layup,58,51
+4:53,Ohio,Doug Taylor,Foul,58,51
+4:53,Detroit Mercy,Harrison Curry,Free Throw,58,52
+4:32,Ohio,Ben Vander Plas,Missed Layup,58,52
+4:28,Detroit Mercy,Marquis Moore,Defensive Rebound,58,52
+4:19,Detroit Mercy,Harrison Curry,Missed Jumper,58,52
+4:14,Detroit Mercy,Harrison Curry,Offensive Rebound,58,52
+4:14,Detroit Mercy,Harrison Curry,Layup,58,54
+3:56,Ohio,Jason Carter,Missed Layup,58,54
+3:56,Detroit Mercy,Marquis Moore,Defensive Rebound,58,54
+3:56,Ohio,Ben Vander Plas,Foul,58,54
+3:56,Detroit Mercy,None,None,58,54
+3:56,Detroit Mercy,Marquis Moore,Free Throw,58,55
+3:56,Detroit Mercy,Marquis Moore,Free Throw,58,56
+3:43,Ohio,Teyvion Kirk,Missed Jumper,58,56
+3:32,Ohio,Doug Taylor,Offensive Rebound,58,56
+3:28,Ohio,Jason Carter,Missed Jumper,58,56
+3:28,Ohio,Ohio,Offensive Rebound,58,56
+3:16,Ohio,Gavin,Block,58,56
+3:14,Detroit Mercy,None,Team Rebound,58,56
+3:14,Ohio,Jason Carter,Foul,58,56
+3:14,Detroit Mercy,Tra'Quan Knight,Missed Free Throw,58,56
+3:14,Detroit Mercy,None,Team Rebound,58,56
+3:14,Detroit Mercy,Tra'Quan Knight,Free Throw,58,57
+2:50,Detroit Mercy,Harrison Curry,Foul,58,57
+2:50,Ohio,Jason Carter,Free Throw,59,57
+2:50,Ohio,Jason Carter,Free Throw,60,57
+2:22,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,60,57
+2:18,Detroit Mercy,Chris Brandon,Offensive Rebound,60,57
+2:00,Ohio,Teyvion Kirk,Foul,60,57
+2:00,Detroit Mercy,Tra'Quan Knight,Free Throw,60,58
+2:00,Detroit Mercy,Tra'Quan Knight,Free Throw,60,59
+1:35,Ohio,Jason Preston,Turnover,60,59
+1:14,Detroit Mercy,Antoine Davis,Jumper,60,61
+0:46,Ohio,Teyvion Kirk,Three Point Jumper,63,61
+0:32,Ohio,Doug Taylor,Foul,63,61
+0:32,Detroit Mercy,Tra'Quan Knight,Missed Free Throw,63,61
+0:32,Detroit Mercy,None,Team Rebound,63,61
+0:31,Detroit Mercy,Tra'Quan Knight,Missed Free Throw,63,61
+0:28,Ohio,Gavin,Block,63,61
+0:28,Detroit Mercy,Marquis Moore,Foul,63,61
+0:28,Ohio,Teyvion Kirk,Missed Free Throw,63,61
+0:28,Ohio,None,Team Rebound,63,61
+0:27,Ohio,Teyvion Kirk,Missed Free Throw,63,61
+0:25,Detroit Mercy,Chris Brandon,Defensive Rebound,63,61
+0:10,Detroit Mercy,None,None,63,61
+0:00,Detroit Mercy,Harrison Curry,Missed Three Point Jumper,63,61
+0:00,Detroit Mercy,None,Team Rebound,63,61
+0:00,Detroit Mercy,None,None,63,61
+0:00,Detroit Mercy,None,None,63,61

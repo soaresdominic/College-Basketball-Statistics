@@ -1,0 +1,339 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Kentucky,None,None,0,0
+19:48,Kentucky,Reid Travis,Turnover,0,0
+19:24,North Dakota,Conner Avants,Layup,2,0
+19:02,North Dakota,Davids Atelbauers,Foul,2,0
+19:02,Kentucky,Immanuel Quickley,Missed Free Throw,2,0
+19:02,Kentucky,None,Team Rebound,2,0
+19:02,Kentucky,Immanuel Quickley,Free Throw,2,1
+18:45,North Dakota,Davids Atelbauers,Three Point Jumper,5,1
+18:30,Kentucky,Tyler Herro,Jumper,5,3
+18:17,North Dakota,Davids Atelbauers,Turnover,5,3
+18:17,Kentucky,Immanuel Quickley,Steal,5,3
+18:10,North Dakota,Cortez Seales,Foul,5,3
+18:10,Kentucky,Immanuel Quickley,Free Throw,5,4
+18:10,Kentucky,Immanuel Quickley,Free Throw,5,5
+17:52,North Dakota,Davids Atelbauers,Missed Three Point Jumper,5,5
+17:52,North Dakota,Conner Avants,Offensive Rebound,5,5
+17:30,North Dakota,Kienan Walter,Missed Three Point Jumper,5,5
+17:30,Kentucky,Keldon Johnson,Defensive Rebound,5,5
+17:12,Kentucky,Reid Travis,Layup,5,7
+16:51,North Dakota,Davids Atelbauers,Three Point Jumper,8,7
+16:35,Kentucky,Reid Travis,Three Point Jumper,8,10
+16:26,North Dakota,Cortez Seales,Jumper,10,10
+16:08,Kentucky,Reid Travis,Layup,10,12
+15:50,Kentucky,None,None,10,12
+15:45,North Dakota,Aanen Moody,Turnover,10,12
+15:45,Kentucky,Quade Green,Steal,10,12
+15:41,Kentucky,PJ Washington,Turnover,10,12
+15:28,North Dakota,Kienan Walter,Missed Layup,10,12
+15:28,Kentucky,Nick Richards,Block,10,12
+15:28,North Dakota,North Dakota,Offensive Rebound,10,12
+15:21,North Dakota,Cortez Seales,Missed Jumper,10,12
+15:21,Kentucky,Kentucky,Defensive Rebound,10,12
+15:06,Kentucky,PJ Washington,Missed Jumper,10,12
+15:06,North Dakota,Filip Rebraca,Defensive Rebound,10,12
+14:48,North Dakota,Aanen Moody,Three Point Jumper,13,12
+14:38,Kentucky,PJ Washington,Three Point Jumper,13,15
+13:59,North Dakota,Bentiu Panoam,Missed Jumper,13,15
+13:59,Kentucky,Quade Green,Defensive Rebound,13,15
+13:46,Kentucky,Quade Green,Turnover,13,15
+13:39,North Dakota,Bentiu Panoam,Turnover,13,15
+13:34,Kentucky,Quade Green,Layup,13,17
+13:08,North Dakota,Filip Rebraca,Three Point Jumper,16,17
+12:50,Kentucky,Quade Green,Layup,16,19
+12:38,North Dakota,Marko Coudreau,Foul,16,19
+12:38,North Dakota,Marko Coudreau,Turnover,16,19
+12:29,Kentucky,EJ Montgomery,Missed Jumper,16,19
+12:29,North Dakota,Bentiu Panoam,Defensive Rebound,16,19
+12:14,North Dakota,Aanen Moody,Turnover,16,19
+12:14,Kentucky,PJ Washington,Steal,16,19
+12:07,Kentucky,Tyler Herro,Layup,16,21
+12:07,North Dakota,Jal Bijiek,Foul,16,21
+12:07,Kentucky,Tyler Herro,Free Throw,16,22
+11:57,North Dakota,Conner Avants,Missed Dunk,16,22
+11:57,Kentucky,EJ Montgomery,Block,16,22
+11:57,Kentucky,EJ Montgomery,Defensive Rebound,16,22
+11:49,Kentucky,EJ Montgomery,Missed Jumper,16,22
+11:49,North Dakota,Filip Rebraca,Defensive Rebound,16,22
+11:25,North Dakota,Conner Avants,Turnover,16,22
+11:25,Kentucky,Tyler Herro,Steal,16,22
+11:02,Kentucky,PJ Washington,Three Point Jumper,16,25
+10:40,North Dakota,Billy Brown,Missed Jumper,16,25
+10:40,Kentucky,PJ Washington,Defensive Rebound,16,25
+10:21,Kentucky,PJ Washington,Jumper,16,27
+10:04,North Dakota,Aanen Moody,Missed Three Point Jumper,16,27
+10:04,Kentucky,EJ Montgomery,Defensive Rebound,16,27
+9:54,North Dakota,Conner Avants,Foul,16,27
+9:54,Kentucky,None,None,16,27
+9:54,Kentucky,Tyler Herro,Free Throw,16,28
+9:54,Kentucky,Tyler Herro,Free Throw,16,29
+9:35,North Dakota,Cortez Seales,Turnover,16,29
+9:35,Kentucky,Tyler Herro,Steal,16,29
+9:30,Kentucky,Immanuel Quickley,Layup,16,31
+9:10,North Dakota,Davids Atelbauers,Missed Layup,16,31
+9:10,Kentucky,Reid Travis,Defensive Rebound,16,31
+8:43,North Dakota,Billy Brown,Foul,16,31
+8:43,Kentucky,Immanuel Quickley,Free Throw,16,32
+8:43,Kentucky,Immanuel Quickley,Missed Free Throw,16,32
+8:43,North Dakota,Billy Brown,Defensive Rebound,16,32
+8:23,North Dakota,Cortez Seales,Jumper,18,32
+8:09,Kentucky,Reid Travis,Missed Jumper,18,32
+8:09,Kentucky,Kentucky,Offensive Rebound,18,32
+8:00,Kentucky,Nick Richards,Foul,18,32
+8:00,Kentucky,Nick Richards,Turnover,18,32
+8:00,Kentucky,None,None,18,32
+7:49,North Dakota,Conner Avants,Missed Jumper,18,32
+7:49,Kentucky,Reid Travis,Defensive Rebound,18,32
+7:40,Kentucky,Nick Richards,Foul,18,32
+7:40,Kentucky,Nick Richards,Turnover,18,32
+7:22,North Dakota,Cortez Seales,Missed Jumper,18,32
+7:22,Kentucky,Keldon Johnson,Defensive Rebound,18,32
+7:14,Kentucky,Reid Travis,Missed Layup,18,32
+7:14,North Dakota,Kienan Walter,Block,18,32
+7:14,Kentucky,Kentucky,Offensive Rebound,18,32
+7:07,Kentucky,PJ Washington,Missed Three Point Jumper,18,32
+7:07,North Dakota,Conner Avants,Defensive Rebound,18,32
+6:52,Kentucky,PJ Washington,Foul,18,32
+6:51,North Dakota,Conner Avants,Layup,20,32
+6:34,Kentucky,PJ Washington,Jumper,20,34
+6:13,North Dakota,Conner Avants,Turnover,20,34
+6:13,North Dakota,Conner Avants,Foul,20,34
+6:00,Kentucky,PJ Washington,Turnover,20,34
+6:00,North Dakota,Aanen Moody,Steal,20,34
+5:55,North Dakota,Aanen Moody,Missed Three Point Jumper,20,34
+5:55,North Dakota,Kienan Walter,Offensive Rebound,20,34
+5:45,North Dakota,Kienan Walter,Missed Three Point Jumper,20,34
+5:45,Kentucky,Ashton Hagans,Defensive Rebound,20,34
+5:35,North Dakota,Kienan Walter,Foul,20,34
+5:35,Kentucky,Keldon Johnson,Missed Free Throw,20,34
+5:35,Kentucky,None,Team Rebound,20,34
+5:35,Kentucky,Keldon Johnson,Free Throw,20,35
+5:12,North Dakota,Filip Rebraca,Foul,20,35
+5:12,North Dakota,Filip Rebraca,Turnover,20,35
+5:03,North Dakota,Aanen Moody,Foul,20,35
+5:03,Kentucky,Quade Green,Free Throw,20,36
+5:03,Kentucky,Quade Green,Free Throw,20,37
+4:57,North Dakota,Billy Brown,Turnover,20,37
+4:57,Kentucky,Quade Green,Steal,20,37
+4:53,Kentucky,Keldon Johnson,Dunk,20,39
+4:28,Kentucky,Keldon Johnson,Foul,20,39
+4:28,North Dakota,Kienan Walter,Free Throw,21,39
+4:28,North Dakota,Kienan Walter,Free Throw,22,39
+4:15,Kentucky,PJ Washington,Foul,22,39
+4:15,Kentucky,PJ Washington,Turnover,22,39
+4:04,North Dakota,Filip Rebraca,Three Point Jumper,25,39
+3:43,Kentucky,EJ Montgomery,Turnover,25,39
+3:43,North Dakota,Filip Rebraca,Steal,25,39
+3:17,North Dakota,Cortez Seales,Turnover,25,39
+3:17,Kentucky,None,None,25,39
+3:01,Kentucky,Reid Travis,Missed Jumper,25,39
+3:01,Kentucky,Reid Travis,Offensive Rebound,25,39
+2:57,Kentucky,Reid Travis,Missed Jumper,25,39
+2:57,North Dakota,Cortez Seales,Block,25,39
+2:57,Kentucky,Reid Travis,Offensive Rebound,25,39
+2:57,Kentucky,Reid Travis,Missed Layup,25,39
+2:57,North Dakota,Filip Rebraca,Block,25,39
+2:57,North Dakota,Filip Rebraca,Defensive Rebound,25,39
+2:41,North Dakota,Cortez Seales,Turnover,25,39
+2:41,Kentucky,Tyler Herro,Steal,25,39
+2:39,Kentucky,Tyler Herro,Dunk,25,41
+2:15,North Dakota,Marko Coudreau,Missed Three Point Jumper,25,41
+2:15,Kentucky,Keldon Johnson,Defensive Rebound,25,41
+2:02,North Dakota,Filip Rebraca,Foul,25,41
+2:02,Kentucky,Immanuel Quickley,Free Throw,25,42
+2:02,Kentucky,Immanuel Quickley,Free Throw,25,43
+1:53,North Dakota,Aanen Moody,Missed Three Point Jumper,25,43
+1:53,Kentucky,Immanuel Quickley,Defensive Rebound,25,43
+1:45,Kentucky,Immanuel Quickley,Missed Three Point Jumper,25,43
+1:45,Kentucky,EJ Montgomery,Offensive Rebound,25,43
+1:35,Kentucky,Nick Richards,Missed Jumper,25,43
+1:35,Kentucky,None,Team Rebound,25,43
+1:32,North Dakota,Aanen Moody,Foul,25,43
+1:32,Kentucky,Keldon Johnson,Free Throw,25,44
+1:32,Kentucky,Keldon Johnson,Free Throw,25,45
+1:14,North Dakota,Davids Atelbauers,Missed Jumper,25,45
+1:14,Kentucky,EJ Montgomery,Block,25,45
+1:14,Kentucky,EJ Montgomery,Defensive Rebound,25,45
+1:04,Kentucky,Tyler Herro,Missed Jumper,25,45
+1:04,North Dakota,Jal Bijiek,Block,25,45
+1:04,Kentucky,Nick Richards,Offensive Rebound,25,45
+1:04,North Dakota,Jal Bijiek,Foul,25,45
+1:04,Kentucky,Keldon Johnson,Missed Free Throw,25,45
+1:04,Kentucky,None,Team Rebound,25,45
+1:04,Kentucky,Keldon Johnson,Free Throw,25,46
+0:49,North Dakota,Carter Brooks,Turnover,25,46
+0:46,Kentucky,Ashton Hagans,Turnover,25,46
+0:46,North Dakota,Billy Brown,Steal,25,46
+0:29,North Dakota,None,None,25,46
+0:23,North Dakota,Kienan Walter,Missed Layup,25,46
+0:23,Kentucky,Nick Richards,Block,25,46
+0:23,North Dakota,North Dakota,Offensive Rebound,25,46
+0:11,North Dakota,Kienan Walter,Missed Three Point Jumper,25,46
+0:11,Kentucky,Keldon Johnson,Defensive Rebound,25,46
+0:05,Kentucky,None,None,25,46
+0:01,Kentucky,Immanuel Quickley,Missed Three Point Jumper,25,46
+0:01,Kentucky,None,Team Rebound,25,46
+0:00,Kentucky,None,None,25,46
+20:00,North Dakota,None,None,25,46
+19:45,North Dakota,Conner Avants,Layup,27,46
+19:30,Kentucky,Tyler Herro,Turnover,27,46
+19:06,Kentucky,Reid Travis,Foul,27,46
+19:06,North Dakota,Cortez Seales,Missed Free Throw,27,46
+19:06,North Dakota,None,Team Rebound,27,46
+19:06,North Dakota,Cortez Seales,Free Throw,28,46
+18:58,Kentucky,Reid Travis,Missed Three Point Jumper,28,46
+18:58,Kentucky,Keldon Johnson,Offensive Rebound,28,46
+18:54,Kentucky,Keldon Johnson,Jumper,28,48
+18:34,North Dakota,Davids Atelbauers,Jumper,30,48
+18:11,Kentucky,Keldon Johnson,Layup,30,50
+17:52,North Dakota,Conner Avants,Jumper,32,50
+17:30,Kentucky,Tyler Herro,Missed Jumper,32,50
+17:30,Kentucky,Reid Travis,Offensive Rebound,32,50
+17:22,Kentucky,Nick Richards,Turnover,32,50
+17:11,North Dakota,Davids Atelbauers,Missed Jumper,32,50
+17:11,Kentucky,Keldon Johnson,Defensive Rebound,32,50
+17:01,North Dakota,Kienan Walter,Foul,32,50
+17:01,Kentucky,Immanuel Quickley,Free Throw,32,51
+17:01,Kentucky,Immanuel Quickley,Free Throw,32,52
+16:54,North Dakota,Cortez Seales,Turnover,32,52
+16:54,Kentucky,Tyler Herro,Steal,32,52
+16:51,Kentucky,Tyler Herro,Dunk,32,54
+16:36,North Dakota,Conner Avants,Missed Jumper,32,54
+16:36,Kentucky,EJ Montgomery,Defensive Rebound,32,54
+16:31,Kentucky,Tyler Herro,Turnover,32,54
+16:31,North Dakota,Filip Rebraca,Steal,32,54
+16:20,North Dakota,Cortez Seales,Turnover,32,54
+16:20,Kentucky,Tyler Herro,Steal,32,54
+16:17,Kentucky,Tyler Herro,Three Point Jumper,32,57
+16:07,North Dakota,None,None,32,57
+15:55,North Dakota,Filip Rebraca,Turnover,32,57
+15:55,Kentucky,Quade Green,Steal,32,57
+15:47,Kentucky,Quade Green,Missed Layup,32,57
+15:47,North Dakota,Davids Atelbauers,Block,32,57
+15:47,Kentucky,Kentucky,Offensive Rebound,32,57
+15:47,Kentucky,None,None,32,57
+15:29,Kentucky,PJ Washington,Missed Jumper,32,57
+15:29,Kentucky,PJ Washington,Offensive Rebound,32,57
+15:25,Kentucky,PJ Washington,Jumper,32,59
+15:25,North Dakota,Conner Avants,Foul,32,59
+15:25,Kentucky,PJ Washington,Missed Free Throw,32,59
+15:25,North Dakota,Filip Rebraca,Defensive Rebound,32,59
+15:13,North Dakota,Conner Avants,Missed Jumper,32,59
+15:13,Kentucky,PJ Washington,Block,32,59
+15:13,Kentucky,PJ Washington,Defensive Rebound,32,59
+15:01,Kentucky,EJ Montgomery,Missed Jumper,32,59
+15:01,Kentucky,Quade Green,Offensive Rebound,32,59
+14:48,North Dakota,Davids Atelbauers,Foul,32,59
+14:48,Kentucky,PJ Washington,Missed Free Throw,32,59
+14:48,Kentucky,None,Team Rebound,32,59
+14:48,Kentucky,PJ Washington,Free Throw,32,60
+14:23,North Dakota,Filip Rebraca,Jumper,34,60
+14:04,Kentucky,PJ Washington,Layup,34,62
+13:33,Kentucky,EJ Montgomery,Foul,34,62
+13:33,North Dakota,Filip Rebraca,Missed Free Throw,34,62
+13:33,North Dakota,None,Team Rebound,34,62
+13:33,North Dakota,Filip Rebraca,Missed Free Throw,34,62
+13:33,Kentucky,PJ Washington,Defensive Rebound,34,62
+13:04,Kentucky,Ashton Hagans,Turnover,34,62
+12:42,North Dakota,Billy Brown,Turnover,34,62
+12:42,Kentucky,Ashton Hagans,Steal,34,62
+12:36,Kentucky,PJ Washington,Dunk,34,64
+12:15,Kentucky,Keldon Johnson,Foul,34,64
+12:15,North Dakota,Cortez Seales,Free Throw,35,64
+12:15,North Dakota,Cortez Seales,Free Throw,36,64
+12:02,Kentucky,Reid Travis,Missed Jumper,36,64
+12:02,Kentucky,Keldon Johnson,Offensive Rebound,36,64
+11:57,North Dakota,Marko Coudreau,Foul,36,64
+11:57,Kentucky,None,None,36,64
+11:57,Kentucky,Keldon Johnson,Free Throw,36,65
+11:57,Kentucky,Keldon Johnson,Free Throw,36,66
+11:38,North Dakota,Filip Rebraca,Missed Jumper,36,66
+11:38,Kentucky,Reid Travis,Defensive Rebound,36,66
+11:21,Kentucky,Reid Travis,Missed Jumper,36,66
+11:21,Kentucky,Kentucky,Offensive Rebound,36,66
+11:02,Kentucky,Immanuel Quickley,Missed Jumper,36,66
+11:02,North Dakota,Filip Rebraca,Defensive Rebound,36,66
+10:58,Kentucky,Nick Richards,Foul,36,66
+10:46,North Dakota,Filip Rebraca,Missed Three Point Jumper,36,66
+10:46,Kentucky,Nick Richards,Defensive Rebound,36,66
+10:39,Kentucky,Keldon Johnson,Missed Jumper,36,66
+10:39,North Dakota,Filip Rebraca,Defensive Rebound,36,66
+10:30,North Dakota,Filip Rebraca,Dunk,38,66
+10:07,Kentucky,Nick Richards,Jumper,38,68
+10:07,Kentucky,Nick Richards,Foul,38,68
+9:41,Kentucky,Nick Richards,Foul,38,68
+9:41,Kentucky,Nick Richards,Foul,38,68
+9:41,North Dakota,Aanen Moody,Free Throw,39,68
+9:41,North Dakota,Aanen Moody,Free Throw,40,68
+9:41,North Dakota,Conner Avants,Free Throw,41,68
+9:41,North Dakota,Conner Avants,Missed Free Throw,41,68
+9:41,Kentucky,PJ Washington,Defensive Rebound,41,68
+9:37,Kentucky,Tyler Herro,Layup,41,70
+9:20,North Dakota,Filip Rebraca,Missed Jumper,41,70
+9:20,Kentucky,Tyler Herro,Defensive Rebound,41,70
+9:02,Kentucky,Tyler Herro,Missed Jumper,41,70
+9:02,Kentucky,Reid Travis,Offensive Rebound,41,70
+8:44,Kentucky,EJ Montgomery,Jumper,41,72
+8:23,Kentucky,EJ Montgomery,Foul,41,72
+8:23,North Dakota,Conner Avants,Missed Free Throw,41,72
+8:23,North Dakota,None,Team Rebound,41,72
+8:23,North Dakota,Conner Avants,Free Throw,42,72
+8:11,Kentucky,PJ Washington,Missed Jumper,42,72
+8:11,Kentucky,EJ Montgomery,Offensive Rebound,42,72
+8:05,Kentucky,EJ Montgomery,Jumper,42,74
+7:48,Kentucky,Reid Travis,Foul,42,74
+7:48,Kentucky,None,None,42,74
+7:48,North Dakota,Conner Avants,Free Throw,43,74
+7:48,North Dakota,Conner Avants,Free Throw,44,74
+7:25,Kentucky,PJ Washington,Three Point Jumper,44,77
+7:03,North Dakota,Filip Rebraca,Jumper,46,77
+7:03,Kentucky,EJ Montgomery,Foul,46,77
+7:03,North Dakota,Filip Rebraca,Free Throw,47,77
+6:55,Kentucky,Quade Green,Turnover,47,77
+6:55,North Dakota,Filip Rebraca,Steal,47,77
+6:49,North Dakota,Elijah Hazekamp,Missed Three Point Jumper,47,77
+6:49,Kentucky,Keldon Johnson,Defensive Rebound,47,77
+6:37,Kentucky,Ashton Hagans,Missed Three Point Jumper,47,77
+6:37,North Dakota,Elijah Hazekamp,Defensive Rebound,47,77
+6:18,North Dakota,Cortez Seales,Missed Jumper,47,77
+6:18,Kentucky,PJ Washington,Defensive Rebound,47,77
+6:09,Kentucky,EJ Montgomery,Dunk,47,79
+5:50,North Dakota,Davids Atelbauers,Missed Three Point Jumper,47,79
+5:50,Kentucky,PJ Washington,Defensive Rebound,47,79
+5:44,Kentucky,Ashton Hagans,Layup,47,81
+5:31,North Dakota,Elijah Hazekamp,Three Point Jumper,50,81
+5:14,Kentucky,PJ Washington,Three Point Jumper,50,84
+4:55,North Dakota,Conner Avants,Layup,52,84
+4:36,North Dakota,Filip Rebraca,Foul,52,84
+4:36,Kentucky,PJ Washington,Free Throw,52,85
+4:36,Kentucky,PJ Washington,Free Throw,52,86
+4:28,North Dakota,Elijah Hazekamp,Turnover,52,86
+4:28,Kentucky,Immanuel Quickley,Steal,52,86
+4:23,Kentucky,Immanuel Quickley,Layup,52,88
+4:06,North Dakota,Billy Brown,Three Point Jumper,55,88
+4:01,North Dakota,None,None,55,88
+3:37,Kentucky,Tyler Herro,Missed Jumper,55,88
+3:37,Kentucky,EJ Montgomery,Offensive Rebound,55,88
+3:37,Kentucky,None,None,55,90
+3:09,North Dakota,Marko Coudreau,Missed Three Point Jumper,55,90
+3:09,Kentucky,Keldon Johnson,Defensive Rebound,55,90
+2:56,Kentucky,Reid Travis,Layup,55,92
+2:39,North Dakota,Marko Coudreau,Layup,57,92
+2:39,Kentucky,Reid Travis,Foul,57,92
+2:39,North Dakota,Marko Coudreau,Free Throw,58,92
+2:28,North Dakota,Marko Coudreau,Foul,58,92
+2:28,Kentucky,Reid Travis,Free Throw,58,93
+2:28,Kentucky,Reid Travis,Free Throw,58,94
+2:04,North Dakota,Billy Brown,Missed Jumper,58,94
+2:04,North Dakota,Zac Saddler,Offensive Rebound,58,94
+1:57,North Dakota,North Dakota ,Turnover,58,94
+1:39,Kentucky,Tyler Herro,Jumper,58,96
+1:13,North Dakota,Bentiu Panoam,Turnover,58,96
+1:02,Kentucky,Tyler Herro,Missed Three Point Jumper,58,96
+1:02,Kentucky,Jonny David,Offensive Rebound,58,96
+0:49,Kentucky,Ashton Hagans,Missed Layup,58,96
+0:49,Kentucky,Ashton Hagans,Offensive Rebound,58,96
+0:26,Kentucky,EJ Montgomery,Missed Three Point Jumper,58,96
+0:26,Kentucky,Keldon Johnson,Offensive Rebound,58,96
+0:00,Kentucky,None,None,58,96

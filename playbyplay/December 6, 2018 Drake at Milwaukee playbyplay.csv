@@ -1,0 +1,338 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:55,Milwaukee,DeAndre Abram,Missed Three Point Jumper,0,0
+19:54,Milwaukee,DeAndre Abram,Offensive Rebound,0,0
+19:53,Milwaukee,DeAndre Abram,Missed Jumper,0,0
+19:41,Milwaukee,Amir Allen,Offensive Rebound,0,0
+19:40,Drake,Anthony Murphy,Missed Three Point Jumper,0,0
+19:39,Milwaukee,DeAndre Abram,Defensive Rebound,0,0
+19:32,Milwaukee,Amir Allen,Layup,0,2
+19:31,Drake,Nick McGlynn,Foul,0,2
+19:30,Milwaukee,Amir Allen,Free Throw,0,3
+18:52,Milwaukee,Darius Roy,Jumper,0,5
+18:33,Milwaukee,Jake Wright,Three Point Jumper,0,8
+17:50,Drake,Anthony Murphy,Turnover,0,8
+17:45,Milwaukee,Jake Wright,Missed Jumper,0,8
+17:45,Drake,Nick McGlynn,Defensive Rebound,0,8
+17:42,Drake,Nick Norton,Foul,0,8
+17:32,Milwaukee,DeAndre Abram,Turnover,0,8
+17:32,Drake,Brady Ellingson,Steal,0,8
+17:29,Milwaukee,Amir Allen,Foul,0,8
+17:28,Drake,Nick McGlynn,Free Throw,1,8
+17:28,Drake,Nick McGlynn,Free Throw,2,8
+17:06,Drake,Nick McGlynn,Foul,2,8
+17:05,Milwaukee,DeAndre Abram,Missed Free Throw,2,8
+17:05,Milwaukee,None,Team Rebound,2,8
+17:05,Milwaukee,DeAndre Abram,Free Throw,2,9
+16:49,Drake,Anthony Murphy,Missed Three Point Jumper,2,9
+16:48,Milwaukee,DeAndre Abram,Defensive Rebound,2,9
+16:41,Milwaukee,Vance Johnson,Missed Three Point Jumper,2,9
+16:40,Milwaukee,Bobby Arthur-Williams,Offensive Rebound,2,9
+16:39,Milwaukee,DeAndre Abram,Turnover,2,9
+16:38,Drake,Nick Norton,Turnover,2,9
+16:37,Milwaukee,Bobby Arthur-Williams,Steal,2,9
+16:25,Drake,D.J. Wilkins,Missed Three Point Jumper,2,9
+16:24,Drake,Liam Robbins,Offensive Rebound,2,9
+16:23,Drake,Liam Robbins,Free Throw,3,9
+16:23,Milwaukee,Darius Roy,Foul,2,9
+16:23,Drake,Liam Robbins,Free Throw,4,9
+16:23,Milwaukee,Vance Johnson,Missed Layup,4,9
+16:23,Drake,Liam Robbins,Defensive Rebound,4,9
+16:20,Milwaukee,Bobby Arthur-Williams,Turnover,4,9
+16:06,Milwaukee,Vance Johnson,Missed Layup,4,9
+16:05,Drake,Liam Robbins,Block,4,9
+16:04,Drake,Noah Thomas,Defensive Rebound,4,9
+15:42,Drake,Nick Norton,Missed Three Point Jumper,4,9
+15:41,Milwaukee,DeAndre Abram,Defensive Rebound,4,9
+15:18,Drake,D.J. Wilkins,Missed Jumper,4,9
+15:17,Milwaukee,Bobby Arthur-Williams,Defensive Rebound,4,9
+15:08,Drake,Anthony Murphy,Three Point Jumper,7,9
+14:59,Milwaukee,None,None,7,9
+14:54,Drake,Brady Ellingson,Missed Layup,7,9
+14:54,Milwaukee,Bobby Arthur-Williams,Defensive Rebound,7,9
+14:35,Milwaukee,Darius Roy,Turnover,7,9
+14:34,Drake,Brady Ellingson,Steal,7,9
+14:30,Drake,Brady Ellingson,Turnover,7,9
+14:30,Milwaukee,DeAndre Abram,Steal,7,9
+14:30,Milwaukee,DeAndre Abram,Turnover,7,9
+14:19,Drake,Noah Thomas,Missed Three Point Jumper,7,9
+14:19,Milwaukee,DeAndre Abram,Defensive Rebound,7,9
+13:58,Milwaukee,DeAndre Abram,Three Point Jumper,7,12
+13:50,Drake,Noah Thomas,Missed Layup,7,12
+13:50,Milwaukee,Jake Wright,Defensive Rebound,7,12
+13:32,Milwaukee,DeAndre Abram,Missed Three Point Jumper,7,12
+13:32,Drake,Garrett Sturtz,Defensive Rebound,7,12
+13:20,Drake,Liam Robbins,Missed Three Point Jumper,7,12
+13:20,Milwaukee,Milwaukee,Defensive Rebound,7,12
+12:52,Milwaukee,Bobby Arthur-Williams,Turnover,7,12
+12:52,Drake,Liam Robbins,Steal,7,12
+12:41,Milwaukee,Darius Roy,Foul,7,12
+12:28,Drake,Garrett Sturtz,Layup,9,12
+12:15,Drake,Garrett Sturtz,Foul,9,12
+11:57,Milwaukee,Bryce Barnes,Turnover,9,12
+11:57,Milwaukee,None,None,9,12
+11:28,Drake,Anthony Murphy,Turnover,9,12
+11:26,Milwaukee,Jake Wright,Steal,9,12
+11:00,Milwaukee,Jake Wright,Missed Three Point Jumper,9,12
+11:00,Drake,Liam Robbins,Defensive Rebound,9,12
+10:57,Milwaukee,Wil Sessoms,Foul,9,12
+10:33,Milwaukee,DeAndre Abram,Foul,9,12
+10:33,Drake,Anthony Murphy,Free Throw,10,12
+10:33,Drake,Anthony Murphy,Missed Free Throw,10,12
+10:33,Drake,Liam Robbins,Offensive Rebound,10,12
+10:20,Drake,Liam Robbins,Missed Three Point Jumper,10,12
+10:20,Milwaukee,Carson Warren-Newsome,Defensive Rebound,10,12
+10:12,Milwaukee,Carson Warren-Newsome,Layup,10,14
+10:00,Drake,Brady Ellingson,Three Point Jumper,13,14
+9:34,Milwaukee,Jamar Madge,Missed Three Point Jumper,13,14
+9:34,Drake,Brady Ellingson,Defensive Rebound,13,14
+9:21,Drake,Brady Ellingson,Missed Three Point Jumper,13,14
+9:21,Milwaukee,Jamar Madge,Defensive Rebound,13,14
+9:11,Milwaukee,Bryce Barnes,Missed Jumper,13,14
+9:11,Drake,Liam Robbins,Defensive Rebound,13,14
+8:57,Drake,Liam Robbins,Layup,15,14
+8:33,Drake,Liam Robbins,Foul,15,14
+8:33,Milwaukee,DeAndre Abram,Missed Free Throw,15,14
+8:33,Milwaukee,None,Team Rebound,15,14
+8:33,Milwaukee,DeAndre Abram,Free Throw,15,15
+8:33,Milwaukee,DeAndre Abram,Free Throw,15,16
+8:20,Drake,Nick Norton,Three Point Jumper,18,16
+7:57,Milwaukee,DeAndre Abram,Missed Three Point Jumper,18,16
+7:57,Drake,Nick Norton,Defensive Rebound,18,16
+7:49,Drake,D.J. Wilkins,Missed Three Point Jumper,18,16
+7:49,Milwaukee,Carson Warren-Newsome,Defensive Rebound,18,16
+7:39,Milwaukee,Bobby Arthur-Williams,Missed Three Point Jumper,18,16
+7:39,Drake,Brady Ellingson,Defensive Rebound,18,16
+7:23,Drake,Nick Norton,Three Point Jumper,21,16
+7:19,Milwaukee,None,None,21,16
+7:19,Milwaukee,None,None,21,16
+7:06,Milwaukee,Jake Wright,Jumper,21,18
+6:37,Drake,Anthony Murphy,Missed Jumper,21,18
+6:37,Milwaukee,Carson Warren-Newsome,Defensive Rebound,21,18
+6:09,Milwaukee,Bryce Barnes,Missed Three Point Jumper,21,18
+6:09,Drake,D.J. Wilkins,Defensive Rebound,21,18
+6:01,Drake,D.J. Wilkins,Missed Jumper,21,18
+6:01,Drake,Liam Robbins,Offensive Rebound,21,18
+5:59,Drake,Liam Robbins,Missed Layup,21,18
+5:59,Milwaukee,Vance Johnson,Block,21,18
+5:56,Milwaukee,Bobby Arthur-Williams,Defensive Rebound,21,18
+5:42,Milwaukee,Jake Wright,Missed Three Point Jumper,21,18
+5:42,Drake,Brady Ellingson,Defensive Rebound,21,18
+5:31,Drake,Nick Norton,Three Point Jumper,24,18
+5:18,Milwaukee,Carson Warren-Newsome,Missed Jumper,24,18
+5:18,Drake,Liam Robbins,Defensive Rebound,24,18
+5:11,Drake,D.J. Wilkins,Missed Three Point Jumper,24,18
+5:11,Milwaukee,Bobby Arthur-Williams,Defensive Rebound,24,18
+4:46,Milwaukee,Bobby Arthur-Williams,Layup,24,20
+4:23,Drake,Nick Norton,Layup,26,20
+4:23,Milwaukee,Carson Warren-Newsome,Foul,26,20
+4:23,Drake,Nick Norton,Missed Free Throw,26,20
+4:23,Milwaukee,Bobby Arthur-Williams,Defensive Rebound,26,20
+4:00,Milwaukee,Bobby Arthur-Williams,Missed Three Point Jumper,26,20
+4:00,Drake,Drake,Defensive Rebound,26,20
+3:57,Milwaukee,None,None,26,20
+3:47,Milwaukee,Bryce Barnes,Foul,26,20
+3:47,Drake,Garrett Sturtz,Free Throw,27,20
+3:47,Drake,Garrett Sturtz,Free Throw,28,20
+3:24,Milwaukee,Wil Sessoms,Turnover,28,20
+3:05,Drake,Liam Robbins,Turnover,28,20
+3:04,Milwaukee,Wil Sessoms,Steal,28,20
+3:01,Drake,Brady Ellingson,Foul,28,20
+2:54,Milwaukee,Jake Wright,Jumper,28,22
+2:31,Milwaukee,Bryce Barnes,Foul,28,22
+2:31,Drake,D.J. Wilkins,Free Throw,29,22
+2:31,Drake,D.J. Wilkins,Free Throw,30,22
+2:31,Milwaukee,Wil Sessoms,Turnover,30,22
+2:31,Drake,Garrett Sturtz,Steal,30,22
+2:30,Milwaukee,Wil Sessoms,Foul,30,22
+2:16,Drake,Garrett Sturtz,Missed Free Throw,30,22
+2:16,Drake,None,Team Rebound,30,22
+2:04,Drake,Garrett Sturtz,Missed Free Throw,30,22
+2:04,Drake,None,Team Rebound,30,22
+2:04,Drake,Garrett Sturtz,Free Throw,31,22
+1:53,Milwaukee,DeAndre Abram,Missed Jumper,31,22
+1:53,Drake,D.J. Wilkins,Defensive Rebound,31,22
+1:46,Drake,Nick Norton,Three Point Jumper,34,22
+1:30,Milwaukee,Wil Sessoms,Foul,34,22
+1:22,Milwaukee,Wil Sessoms,Turnover,34,22
+1:19,Drake,Noah Thomas,Layup,36,22
+1:11,Milwaukee,None,None,36,22
+0:52,Milwaukee,Jake Wright,Missed Three Point Jumper,36,22
+0:52,Drake,Liam Robbins,Defensive Rebound,36,22
+0:48,Drake,Noah Thomas,Missed Layup,36,22
+0:48,Milwaukee,DeAndre Abram,Block,36,22
+0:46,Drake,Liam Robbins,Offensive Rebound,36,22
+0:45,Drake,Liam Robbins,Layup,38,22
+0:29,Milwaukee,Carson Warren-Newsome,Turnover,38,22
+0:28,Drake,Noah Thomas,Steal,38,22
+0:21,Drake,None,None,38,22
+0:01,Drake,Noah Thomas,Turnover,38,22
+0:00,Milwaukee,None,None,38,22
+19:50,Drake,Nick McGlynn,Layup,40,22
+19:37,Milwaukee,Darius Roy,Three Point Jumper,40,25
+19:25,Drake,Nick Norton,Missed Three Point Jumper,40,25
+19:25,Drake,Nick McGlynn,Offensive Rebound,40,25
+19:18,Drake,Nick McGlynn,Layup,42,25
+18:58,Milwaukee,Amir Allen,Missed Layup,42,25
+18:58,Drake,Nick McGlynn,Defensive Rebound,42,25
+18:50,Drake,Anthony Murphy,Layup,44,25
+18:16,Milwaukee,Milwaukee ,Turnover,44,25
+18:07,Drake,Nick McGlynn,Missed Layup,44,25
+18:07,Milwaukee,DeAndre Abram,Defensive Rebound,44,25
+17:58,Drake,Nick Norton,Foul,44,25
+17:58,Milwaukee,DeAndre Abram,Free Throw,44,26
+17:58,Milwaukee,DeAndre Abram,Free Throw,44,27
+17:39,Drake,D.J. Wilkins,Missed Three Point Jumper,44,27
+17:39,Milwaukee,Vance Johnson,Defensive Rebound,44,27
+17:28,Milwaukee,Vance Johnson,Missed Three Point Jumper,44,27
+17:28,Milwaukee,Bobby Arthur-Williams,Offensive Rebound,44,27
+17:24,Milwaukee,Bobby Arthur-Williams,Layup,44,29
+17:10,Drake,Anthony Murphy,Missed Jumper,44,29
+17:10,Milwaukee,Vance Johnson,Defensive Rebound,44,29
+17:09,Drake,Nick McGlynn,Foul,44,29
+16:58,Milwaukee,DeAndre Abram,Missed Three Point Jumper,44,29
+16:58,Drake,Liam Robbins,Defensive Rebound,44,29
+16:47,Milwaukee,Vance Johnson,Foul,44,29
+16:47,Drake,Garrett Sturtz,Free Throw,45,29
+16:47,Drake,Garrett Sturtz,Missed Free Throw,45,29
+16:47,Milwaukee,Jake Wright,Defensive Rebound,45,29
+16:28,Milwaukee,Jamar Madge,Missed Three Point Jumper,45,29
+16:28,Drake,Liam Robbins,Defensive Rebound,45,29
+16:11,Drake,Liam Robbins,Layup,47,29
+15:52,Milwaukee,None,None,47,29
+15:52,Drake,Nick Norton,Foul,47,29
+15:52,Milwaukee,Darius Roy,Free Throw,47,30
+15:52,Milwaukee,Darius Roy,Missed Free Throw,47,30
+15:52,Drake,D.J. Wilkins,Defensive Rebound,47,30
+15:37,Milwaukee,Bobby Arthur-Williams,Foul,47,30
+15:37,Drake,Liam Robbins,Missed Free Throw,47,30
+15:37,Drake,None,Team Rebound,47,30
+15:37,Drake,Liam Robbins,Free Throw,48,30
+15:13,Milwaukee,Darius Roy,Missed Layup,48,30
+15:13,Drake,D.J. Wilkins,Defensive Rebound,48,30
+15:07,Drake,Brady Ellingson,Missed Three Point Jumper,48,30
+15:07,Milwaukee,Wil Sessoms,Defensive Rebound,48,30
+14:31,Milwaukee,Vance Johnson,Missed Layup,48,30
+14:31,Drake,Liam Robbins,Defensive Rebound,48,30
+14:05,Drake,D.J. Wilkins,Three Point Jumper,51,30
+13:34,Milwaukee,Darius Roy,Missed Jumper,51,30
+13:34,Drake,Noah Thomas,Defensive Rebound,51,30
+13:32,Milwaukee,Wil Sessoms,Foul,51,30
+13:19,Drake,Brady Ellingson,Turnover,51,30
+13:18,Milwaukee,Vance Johnson,Steal,51,30
+13:08,Milwaukee,Jamar Madge,Missed Jumper,51,30
+13:08,Drake,Garrett Sturtz,Defensive Rebound,51,30
+13:00,Drake,D.J. Wilkins,Three Point Jumper,54,30
+12:56,Milwaukee,None,None,54,30
+12:56,Milwaukee,None,None,54,30
+12:50,Drake,Noah Thomas,Foul,54,30
+12:50,Milwaukee,Darius Roy,Free Throw,54,31
+12:50,Milwaukee,Darius Roy,Free Throw,54,32
+12:32,Drake,Liam Robbins,Foul,54,32
+12:32,Drake,Liam Robbins,Turnover,54,32
+12:24,Milwaukee,Darius Roy,Three Point Jumper,54,35
+12:04,Drake,D.J. Wilkins,Missed Three Point Jumper,54,35
+12:04,Milwaukee,Milwaukee,Defensive Rebound,54,35
+12:00,Milwaukee,None,None,54,35
+11:54,Drake,D.J. Wilkins,Foul,54,35
+11:54,Milwaukee,Darius Roy,Free Throw,54,36
+11:54,Milwaukee,Darius Roy,Free Throw,54,37
+11:30,Drake,Nick McGlynn,Layup,56,37
+11:15,Milwaukee,Bryce Barnes,Missed Layup,56,37
+11:15,Milwaukee,Vance Johnson,Offensive Rebound,56,37
+11:13,Milwaukee,Vance Johnson,Layup,56,39
+10:45,Drake,Garrett Sturtz,Missed Three Point Jumper,56,39
+10:45,Milwaukee,Darius Roy,Defensive Rebound,56,39
+10:37,Drake,D.J. Wilkins,Foul,56,39
+10:37,Milwaukee,Darius Roy,Free Throw,56,40
+10:37,Milwaukee,Darius Roy,Free Throw,56,41
+10:21,Drake,Nick McGlynn,Missed Layup,56,41
+10:21,Milwaukee,Vance Johnson,Defensive Rebound,56,41
+10:14,Milwaukee,Bobby Arthur-Williams,Foul,56,41
+10:14,Milwaukee,Bobby Arthur-Williams,Turnover,56,41
+10:02,Drake,Nick McGlynn,Missed Three Point Jumper,56,41
+10:02,Drake,Garrett Sturtz,Offensive Rebound,56,41
+10:00,Milwaukee,Jake Wright,Foul,56,41
+9:57,Milwaukee,DeAndre Abram,Foul,56,41
+9:37,Drake,Garrett Sturtz,Layup,58,41
+9:37,Milwaukee,Vance Johnson,Foul,58,41
+9:37,Drake,Garrett Sturtz,Missed Free Throw,58,41
+9:37,Milwaukee,Vance Johnson,Defensive Rebound,58,41
+9:23,Milwaukee,Darius Roy,Turnover,58,41
+9:22,Drake,Brady Ellingson,Steal,58,41
+9:20,Drake,Brady Ellingson,Layup,60,41
+9:08,Milwaukee,Darius Roy,Missed Three Point Jumper,60,41
+9:08,Drake,Nick Norton,Defensive Rebound,60,41
+8:58,Drake,Anthony Murphy,Turnover,60,41
+8:57,Milwaukee,Bobby Arthur-Williams,Steal,60,41
+8:39,Milwaukee,Bryce Barnes,Turnover,60,41
+8:28,Drake,Nick McGlynn,Layup,62,41
+8:28,Milwaukee,Vance Johnson,Foul,62,41
+8:28,Drake,Nick McGlynn,Free Throw,63,41
+8:20,Drake,Garrett Sturtz,Foul,63,41
+8:20,Milwaukee,DeAndre Abram,Free Throw,63,42
+8:20,Milwaukee,DeAndre Abram,Free Throw,63,43
+7:48,Drake,Nick McGlynn,Turnover,63,43
+7:47,Milwaukee,DeAndre Abram,Steal,63,43
+7:45,Milwaukee,None,None,63,43
+7:44,Milwaukee,Jake Wright,Missed Jumper,63,43
+7:44,Drake,Nick Norton,Defensive Rebound,63,43
+7:24,Drake,Brady Ellingson,Three Point Jumper,66,43
+7:11,Milwaukee,Darius Roy,Jumper,66,45
+6:51,Drake,Nick McGlynn,Layup,68,45
+6:51,Milwaukee,Amir Allen,Foul,68,45
+6:51,Drake,Nick McGlynn,Missed Free Throw,68,45
+6:51,Milwaukee,Vance Johnson,Defensive Rebound,68,45
+6:27,Milwaukee,Jake Wright,Missed Three Point Jumper,68,45
+6:27,Milwaukee,Jake Wright,Offensive Rebound,68,45
+6:21,Milwaukee,DeAndre Abram,Missed Three Point Jumper,68,45
+6:21,Drake,Anthony Murphy,Defensive Rebound,68,45
+6:13,Drake,Nick Norton,Missed Three Point Jumper,68,45
+6:13,Milwaukee,DeAndre Abram,Defensive Rebound,68,45
+6:02,Drake,Garrett Sturtz,Foul,68,45
+6:02,Milwaukee,DeAndre Abram,Free Throw,68,46
+6:02,Milwaukee,DeAndre Abram,Free Throw,68,47
+5:46,Drake,Nick McGlynn,Missed Layup,68,47
+5:46,Drake,Garrett Sturtz,Offensive Rebound,68,47
+5:38,Drake,Anthony Murphy,Missed Three Point Jumper,68,47
+5:38,Drake,Garrett Sturtz,Offensive Rebound,68,47
+5:33,Drake,Anthony Murphy,Missed Layup,68,47
+5:33,Milwaukee,Bobby Arthur-Williams,Block,68,47
+5:31,Milwaukee,DeAndre Abram,Defensive Rebound,68,47
+5:26,Milwaukee,Vance Johnson,Layup,68,49
+5:11,Drake,Garrett Sturtz,Foul,68,49
+5:11,Drake,Garrett Sturtz,Turnover,68,49
+4:57,Milwaukee,Darius Roy,Missed Three Point Jumper,68,49
+4:57,Milwaukee,Bobby Arthur-Williams,Offensive Rebound,68,49
+4:48,Milwaukee,Bryce Barnes,Missed Layup,68,49
+4:48,Drake,Nick McGlynn,Block,68,49
+4:46,Drake,Brady Ellingson,Defensive Rebound,68,49
+4:41,Drake,Brady Ellingson,Three Point Jumper,71,49
+4:30,Milwaukee,None,None,71,49
+4:30,Milwaukee,None,None,71,49
+4:08,Milwaukee,Darius Roy,Jumper,71,51
+3:36,Drake,Noah Thomas,Layup,73,51
+3:18,Milwaukee,Bryce Barnes,Jumper,73,53
+2:48,Drake,Anthony Murphy,Missed Three Point Jumper,73,53
+2:48,Milwaukee,Jamar Madge,Defensive Rebound,73,53
+2:37,Milwaukee,Vance Johnson,Layup,73,55
+2:09,Drake,Nick McGlynn,Missed Three Point Jumper,73,55
+2:09,Milwaukee,Bryce Barnes,Defensive Rebound,73,55
+1:58,Milwaukee,Bryce Barnes,Turnover,73,55
+1:57,Drake,Nick McGlynn,Steal,73,55
+1:27,Drake,Drake ,Turnover,73,55
+1:15,Milwaukee,Bobby Arthur-Williams,Missed Three Point Jumper,73,55
+1:15,Milwaukee,Vance Johnson,Offensive Rebound,73,55
+1:11,Milwaukee,Vance Johnson,Layup,73,57
+0:57,Milwaukee,Vance Johnson,Foul,73,57
+0:57,Drake,Nick McGlynn,Free Throw,74,57
+0:57,Drake,Nick McGlynn,Free Throw,75,57
+0:47,Drake,Liam Robbins,Foul,75,57
+0:47,Milwaukee,Vance Johnson,Free Throw,75,58
+0:47,Milwaukee,Vance Johnson,Free Throw,75,59
+0:22,Milwaukee,Darius Roy,Turnover,75,59
+0:12,Drake,Antonio Pilipovic,Foul,75,59
+0:12,Milwaukee,Vance Johnson,Free Throw,75,60
+0:12,Milwaukee,Vance Johnson,Free Throw,75,61
+0:11,Milwaukee,Tyler Behrendt,Missed Jumper,75,61
+0:11,Milwaukee,Vance Johnson,Defensive Rebound,75,61
+0:00,Milwaukee,None,None,75,61

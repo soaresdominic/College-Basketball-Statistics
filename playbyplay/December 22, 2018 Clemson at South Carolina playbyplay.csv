@@ -1,0 +1,356 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,South Carolina,None,None,0,0
+19:49,South Carolina,Tre Campbell,Turnover,0,0
+19:49,Clemson,Elijah Thomas,Steal,0,0
+19:41,Clemson,Aamir Simms,Three Point Jumper,3,0
+19:23,South Carolina,Keyshawn Bryant,Missed Jumper,3,0
+19:23,Clemson,Aamir Simms,Block,3,0
+19:23,South Carolina,Felipe Haase,Offensive Rebound,3,0
+19:13,South Carolina,A.J. Lawson,Three Point Jumper,3,3
+18:50,South Carolina,Felipe Haase,Foul,3,3
+18:50,Clemson,Elijah Thomas,Free Throw,4,3
+18:50,Clemson,Elijah Thomas,Missed Free Throw,4,3
+18:50,South Carolina,Keyshawn Bryant,Defensive Rebound,4,3
+18:41,South Carolina,A.J. Lawson,Missed Dunk,4,3
+18:41,Clemson,Clyde Trapp,Defensive Rebound,4,3
+18:28,Clemson,Aamir Simms,Foul,4,3
+18:28,Clemson,Aamir Simms,Turnover,4,3
+18:05,Clemson,Elijah Thomas,Foul,4,3
+18:05,South Carolina,Chris Silva,Free Throw,4,4
+18:05,South Carolina,Chris Silva,Free Throw,4,5
+17:55,Clemson,Shelton Mitchell,Turnover,4,5
+17:38,South Carolina,Keyshawn Bryant,Jumper,4,7
+17:07,Clemson,David Skara,Missed Three Point Jumper,4,7
+17:07,South Carolina,Keyshawn Bryant,Defensive Rebound,4,7
+16:57,South Carolina,Keyshawn Bryant,Missed Jumper,4,7
+16:57,South Carolina,Alanzo Frink,Offensive Rebound,4,7
+16:52,South Carolina,Alanzo Frink,Missed Jumper,4,7
+16:52,Clemson,Clyde Trapp,Defensive Rebound,4,7
+16:46,Clemson,Shelton Mitchell,Missed Three Point Jumper,4,7
+16:46,South Carolina,South Carolina,Defensive Rebound,4,7
+16:45,Clemson,Elijah Thomas,Foul,4,7
+16:35,South Carolina,A.J. Lawson,Missed Jumper,4,7
+16:35,South Carolina,Alanzo Frink,Offensive Rebound,4,7
+16:28,South Carolina,Alanzo Frink,Missed Jumper,4,7
+16:28,Clemson,Clyde Trapp,Block,4,7
+16:28,South Carolina,A.J. Lawson,Offensive Rebound,4,7
+16:24,South Carolina,A.J. Lawson,Three Point Jumper,4,10
+15:57,Clemson,David Skara,Layup,6,10
+15:48,South Carolina,Tre Campbell,Missed Layup,6,10
+15:48,Clemson,Aamir Simms,Block,6,10
+15:48,Clemson,Clyde Trapp,Defensive Rebound,6,10
+15:38,Clemson,David Skara,Missed Three Point Jumper,6,10
+15:38,Clemson,Aamir Simms,Offensive Rebound,6,10
+15:33,Clemson,Clyde Trapp,Missed Three Point Jumper,6,10
+15:33,Clemson,Aamir Simms,Offensive Rebound,6,10
+15:27,Clemson,Clyde Trapp,Missed Three Point Jumper,6,10
+15:27,South Carolina,Chris Silva,Defensive Rebound,6,10
+15:05,South Carolina,Felipe Haase,Missed Three Point Jumper,6,10
+15:05,Clemson,Marcquise Reed,Defensive Rebound,6,10
+14:53,Clemson,Marcquise Reed,Layup,8,10
+14:53,South Carolina,None,None,8,10
+14:38,South Carolina,Alanzo Frink,Turnover,8,10
+14:26,Clemson,Javan White,Turnover,8,10
+14:12,Clemson,Aamir Simms,Foul,8,10
+14:12,South Carolina,Chris Silva,Missed Free Throw,8,10
+14:12,South Carolina,None,Team Rebound,8,10
+14:12,South Carolina,Chris Silva,Free Throw,8,11
+14:06,South Carolina,Felipe Haase,Foul,8,11
+13:58,Clemson,Marcquise Reed,Missed Jumper,8,11
+13:58,South Carolina,Chris Silva,Defensive Rebound,8,11
+13:45,South Carolina,Chris Silva,Turnover,8,11
+13:45,Clemson,Javan White,Steal,8,11
+13:39,South Carolina,Chris Silva,Foul,8,11
+13:39,Clemson,David Skara,Free Throw,9,11
+13:39,Clemson,David Skara,Free Throw,10,11
+13:32,South Carolina,Evan Hinson,Dunk,10,13
+13:32,Clemson,Hunter Tyson,Foul,10,13
+13:32,South Carolina,Evan Hinson,Missed Free Throw,10,13
+13:32,Clemson,David Skara,Defensive Rebound,10,13
+13:28,Clemson,David Skara,Turnover,10,13
+13:26,South Carolina,Hassani Gravett,Missed Jumper,10,13
+13:26,South Carolina,Chris Silva,Offensive Rebound,10,13
+13:20,Clemson,Trey Jemison,Foul,10,13
+13:20,South Carolina,Chris Silva,Missed Free Throw,10,13
+13:20,South Carolina,None,Team Rebound,10,13
+13:20,South Carolina,Chris Silva,Free Throw,10,14
+13:12,Clemson,Trey Jemison,Foul,10,14
+13:12,Clemson,Trey Jemison,Turnover,10,14
+12:55,South Carolina,Hassani Gravett,Jumper,10,16
+12:38,Clemson,Shelton Mitchell,Turnover,10,16
+12:24,South Carolina,Keyshawn Bryant,Missed Three Point Jumper,10,16
+12:24,Clemson,David Skara,Defensive Rebound,10,16
+12:15,Clemson,Clyde Trapp,Jumper,12,16
+11:53,South Carolina,Hassani Gravett,Three Point Jumper,12,19
+11:34,Clemson,Clyde Trapp,Jumper,14,19
+11:21,South Carolina,Alanzo Frink,Turnover,14,19
+11:06,Clemson,Marcquise Reed,Jumper,16,19
+10:34,South Carolina,Tre Campbell,Missed Three Point Jumper,16,19
+10:34,Clemson,John Newman III,Defensive Rebound,16,19
+10:22,South Carolina,Jason Cudd,Foul,16,19
+10:12,South Carolina,Alanzo Frink,Foul,16,19
+10:10,Clemson,Marcquise Reed,Three Point Jumper,19,19
+9:49,South Carolina,Keyshawn Bryant,Missed Jumper,19,19
+9:49,Clemson,John Newman III,Defensive Rebound,19,19
+9:29,Clemson,Javan White,Missed Jumper,19,19
+9:29,South Carolina,Chris Silva,Defensive Rebound,19,19
+9:21,South Carolina,Alanzo Frink,Turnover,19,19
+9:05,Clemson,Marcquise Reed,Jumper,21,19
+8:56,Clemson,David Skara,Foul,21,19
+8:56,South Carolina,Chris Silva,Missed Free Throw,21,19
+8:56,South Carolina,None,Team Rebound,21,19
+8:56,South Carolina,Chris Silva,Free Throw,21,20
+8:41,Clemson,John Newman III,Dunk,23,20
+8:30,South Carolina,Hassani Gravett,Layup,23,22
+8:15,Clemson,Shelton Mitchell,Missed Three Point Jumper,23,22
+8:15,South Carolina,South Carolina,Defensive Rebound,23,22
+8:01,South Carolina,Felipe Haase,Turnover,23,22
+7:55,Clemson,Shelton Mitchell,Layup,25,22
+7:41,South Carolina,Hassani Gravett,Three Point Jumper,25,25
+7:21,South Carolina,Tre Campbell,Foul,25,25
+7:21,South Carolina,None,None,25,25
+7:11,Clemson,David Skara,Turnover,25,25
+7:01,South Carolina,A.J. Lawson,Missed Three Point Jumper,25,25
+7:01,South Carolina,South Carolina,Offensive Rebound,25,25
+6:43,South Carolina,Chris Silva,Missed Jumper,25,25
+6:43,Clemson,Javan White,Block,25,25
+6:43,Clemson,David Skara,Defensive Rebound,25,25
+6:36,Clemson,Shelton Mitchell,Jumper,27,25
+6:29,South Carolina,Chris Silva,Turnover,27,25
+6:07,South Carolina,Hassani Gravett,Foul,27,25
+6:07,Clemson,Marcquise Reed,Free Throw,28,25
+6:07,Clemson,Marcquise Reed,Free Throw,29,25
+5:47,Clemson,Javan White,Foul,29,25
+5:47,South Carolina,Chris Silva,Free Throw,29,26
+5:47,South Carolina,Chris Silva,Free Throw,29,27
+5:30,Clemson,Marcquise Reed,Foul,29,27
+5:30,Clemson,Marcquise Reed,Turnover,29,27
+5:10,South Carolina,Chris Silva,Layup,29,29
+5:10,Clemson,Javan White,Foul,29,29
+5:10,South Carolina,Chris Silva,Free Throw,29,30
+4:48,Clemson,John Newman III,Three Point Jumper,32,30
+4:22,South Carolina,Alanzo Frink,Missed Jumper,32,30
+4:22,Clemson,Marcquise Reed,Defensive Rebound,32,30
+4:13,Clemson,Shelton Mitchell,Three Point Jumper,35,30
+4:13,South Carolina,Hassani Gravett,Foul,35,30
+4:13,Clemson,Shelton Mitchell,Missed Free Throw,35,30
+4:13,South Carolina,Alanzo Frink,Defensive Rebound,35,30
+4:07,South Carolina,A.J. Lawson,Missed Jumper,35,30
+4:07,Clemson,Trey Jemison,Block,35,30
+4:07,Clemson,David Skara,Defensive Rebound,35,30
+3:43,Clemson,Clyde Trapp,Turnover,35,30
+3:43,South Carolina,A.J. Lawson,Steal,35,30
+3:43,South Carolina,None,None,35,30
+3:33,South Carolina,Chris Silva,Dunk,35,32
+3:17,Clemson,Shelton Mitchell,Jumper,37,32
+3:05,South Carolina,Chris Silva,Missed Three Point Jumper,37,32
+3:05,Clemson,John Newman III,Defensive Rebound,37,32
+2:44,Clemson,David Skara,Three Point Jumper,40,32
+2:27,South Carolina,A.J. Lawson,Missed Jumper,40,32
+2:27,Clemson,John Newman III,Defensive Rebound,40,32
+2:19,Clemson,Clyde Trapp,Turnover,40,32
+2:19,South Carolina,None,None,40,32
+2:03,South Carolina,Chris Silva,Turnover,40,32
+2:03,Clemson,David Skara,Steal,40,32
+1:42,Clemson,Shelton Mitchell,Missed Three Point Jumper,40,32
+1:42,Clemson,John Newman III,Offensive Rebound,40,32
+1:33,Clemson,David Skara,Three Point Jumper,43,32
+1:22,South Carolina,A.J. Lawson,Missed Three Point Jumper,43,32
+1:22,South Carolina,South Carolina,Offensive Rebound,43,32
+1:19,Clemson,David Skara,Foul,43,32
+1:19,South Carolina,Alanzo Frink,Missed Free Throw,43,32
+1:19,South Carolina,None,Team Rebound,43,32
+1:19,South Carolina,Alanzo Frink,Missed Free Throw,43,32
+1:19,Clemson,David Skara,Defensive Rebound,43,32
+1:13,Clemson,None,None,43,32
+0:55,Clemson,Marcquise Reed,Missed Three Point Jumper,43,32
+0:55,South Carolina,Chris Silva,Defensive Rebound,43,32
+0:44,South Carolina,Tre Campbell,Missed Three Point Jumper,43,32
+0:44,Clemson,John Newman III,Defensive Rebound,43,32
+0:12,South Carolina,Chris Silva,Foul,43,32
+0:12,Clemson,Marcquise Reed,Free Throw,44,32
+0:12,Clemson,Marcquise Reed,Free Throw,45,32
+0:06,South Carolina,Tre Campbell,Jumper,45,34
+0:00,South Carolina,None,None,45,34
+20:00,Clemson,None,None,45,34
+19:40,Clemson,Marcquise Reed,Turnover,45,34
+19:40,South Carolina,Tre Campbell,Steal,45,34
+19:30,South Carolina,A.J. Lawson,Missed Jumper,45,34
+19:30,Clemson,David Skara,Defensive Rebound,45,34
+19:07,Clemson,Elijah Thomas,Layup,47,34
+18:55,South Carolina,Felipe Haase,Jumper,47,36
+18:41,Clemson,Shelton Mitchell,Turnover,47,36
+18:21,South Carolina,Chris Silva,Turnover,47,36
+18:21,Clemson,Shelton Mitchell,Steal,47,36
+18:16,Clemson,Shelton Mitchell,Missed Layup,47,36
+18:16,Clemson,Aamir Simms,Offensive Rebound,47,36
+18:16,Clemson,Aamir Simms,Missed Dunk,47,36
+18:16,Clemson,David Skara,Offensive Rebound,47,36
+18:16,Clemson,David Skara,Dunk,49,36
+18:00,South Carolina,Tre Campbell,Turnover,49,36
+17:41,Clemson,Elijah Thomas,Jumper,51,36
+17:28,South Carolina,Tre Campbell,Missed Three Point Jumper,51,36
+17:28,Clemson,David Skara,Defensive Rebound,51,36
+17:14,Clemson,David Skara,Missed Jumper,51,36
+17:14,South Carolina,Hassani Gravett,Defensive Rebound,51,36
+17:09,Clemson,Shelton Mitchell,Foul,51,36
+17:04,South Carolina,Hassani Gravett,Jumper,51,38
+16:35,Clemson,Clyde Trapp,Three Point Jumper,54,38
+16:26,Clemson,David Skara,Foul,54,38
+16:19,South Carolina,A.J. Lawson,Missed Jumper,54,38
+16:19,Clemson,Aamir Simms,Defensive Rebound,54,38
+16:11,Clemson,Shelton Mitchell,Turnover,54,38
+16:11,South Carolina,A.J. Lawson,Steal,54,38
+16:04,Clemson,Aamir Simms,Foul,54,38
+16:04,South Carolina,A.J. Lawson,Free Throw,54,39
+16:04,South Carolina,A.J. Lawson,Missed Free Throw,54,39
+16:04,South Carolina,Alanzo Frink,Offensive Rebound,54,39
+16:03,Clemson,Elijah Thomas,Foul,54,39
+16:03,South Carolina,Alanzo Frink,Free Throw,54,40
+16:03,South Carolina,Alanzo Frink,Free Throw,54,41
+15:46,Clemson,Clyde Trapp,Foul,54,41
+15:46,Clemson,Clyde Trapp,Turnover,54,41
+15:46,South Carolina,None,None,54,41
+15:32,South Carolina,Chris Silva,Missed Jumper,54,41
+15:32,South Carolina,Alanzo Frink,Offensive Rebound,54,41
+15:26,South Carolina,Alanzo Frink,Jumper,54,43
+14:50,Clemson,Clemson ,Turnover,54,43
+14:34,South Carolina,Keyshawn Bryant,Turnover,54,43
+14:03,Clemson,Clyde Trapp,Three Point Jumper,57,43
+13:45,South Carolina,Hassani Gravett,Missed Three Point Jumper,57,43
+13:45,South Carolina,Alanzo Frink,Offensive Rebound,57,43
+13:40,South Carolina,Alanzo Frink,Jumper,57,45
+13:07,Clemson,Javan White,Missed Jumper,57,45
+13:07,South Carolina,Chris Silva,Block,57,45
+13:07,South Carolina,Chris Silva,Defensive Rebound,57,45
+12:57,South Carolina,A.J. Lawson,Missed Jumper,57,45
+12:57,South Carolina,A.J. Lawson,Offensive Rebound,57,45
+12:51,South Carolina,A.J. Lawson,Missed Jumper,57,45
+12:51,Clemson,Shelton Mitchell,Defensive Rebound,57,45
+12:43,Clemson,Shelton Mitchell,Missed Three Point Jumper,57,45
+12:43,South Carolina,A.J. Lawson,Defensive Rebound,57,45
+12:29,South Carolina,Keyshawn Bryant,Layup,57,47
+12:29,Clemson,Clyde Trapp,Foul,57,47
+12:29,South Carolina,Keyshawn Bryant,Missed Free Throw,57,47
+12:29,Clemson,Elijah Thomas,Defensive Rebound,57,47
+12:09,Clemson,Marcquise Reed,Jumper,59,47
+12:01,South Carolina,Felipe Haase,Jumper,59,49
+11:42,Clemson,Marcquise Reed,Missed Jumper,59,49
+11:42,South Carolina,Keyshawn Bryant,Defensive Rebound,59,49
+11:20,South Carolina,Keyshawn Bryant,Missed Jumper,59,49
+11:20,Clemson,Clemson,Defensive Rebound,59,49
+11:13,South Carolina,None,None,59,49
+10:46,Clemson,Marcquise Reed,Missed Three Point Jumper,59,49
+10:46,Clemson,Clyde Trapp,Offensive Rebound,59,49
+10:34,Clemson,Clyde Trapp,Missed Three Point Jumper,59,49
+10:34,Clemson,Marcquise Reed,Offensive Rebound,59,49
+10:10,Clemson,Clyde Trapp,Foul,59,49
+10:10,Clemson,Clyde Trapp,Turnover,59,49
+9:52,Clemson,Aamir Simms,Foul,59,49
+9:52,South Carolina,Alanzo Frink,Missed Free Throw,59,49
+9:52,Clemson,Javan White,Defensive Rebound,59,49
+9:52,South Carolina,Alanzo Frink,Foul,59,49
+9:49,Clemson,Marcquise Reed,Turnover,59,49
+9:49,South Carolina,Keyshawn Bryant,Steal,59,49
+9:35,Clemson,Marcquise Reed,Foul,59,49
+9:35,South Carolina,Keyshawn Bryant,Free Throw,59,50
+9:34,South Carolina,Keyshawn Bryant,Free Throw,59,51
+9:25,Clemson,Marcquise Reed,Jumper,61,51
+9:10,South Carolina,Chris Silva,Layup,61,53
+8:53,South Carolina,Felipe Haase,Foul,61,53
+8:53,Clemson,Elijah Thomas,Free Throw,62,53
+8:53,Clemson,Elijah Thomas,Free Throw,63,53
+8:42,South Carolina,Hassani Gravett,Missed Jumper,63,53
+8:42,South Carolina,South Carolina,Offensive Rebound,63,53
+8:38,Clemson,David Skara,Foul,63,53
+8:38,South Carolina,Chris Silva,Free Throw,63,54
+8:38,South Carolina,Chris Silva,Free Throw,63,55
+8:28,Clemson,Shelton Mitchell,Turnover,63,55
+8:28,South Carolina,Felipe Haase,Steal,63,55
+8:24,South Carolina,Keyshawn Bryant,Dunk,63,57
+8:23,Clemson,None,None,63,57
+8:12,South Carolina,Alanzo Frink,Foul,63,57
+8:12,Clemson,Clemson ,Turnover,63,57
+7:52,South Carolina,None,None,63,57
+7:40,South Carolina,Felipe Haase,Missed Jumper,63,57
+7:40,South Carolina,Keyshawn Bryant,Offensive Rebound,63,57
+7:33,South Carolina,Keyshawn Bryant,Missed Dunk,63,57
+7:33,Clemson,Marcquise Reed,Defensive Rebound,63,57
+7:22,South Carolina,Chris Silva,Foul,63,57
+7:22,Clemson,Elijah Thomas,Free Throw,64,57
+7:22,Clemson,Elijah Thomas,Free Throw,65,57
+7:03,South Carolina,Alanzo Frink,Missed Layup,65,57
+7:03,Clemson,Aamir Simms,Defensive Rebound,65,57
+6:32,South Carolina,Chris Silva,Foul,65,57
+6:32,Clemson,Elijah Thomas,Free Throw,66,57
+6:32,Clemson,Elijah Thomas,Free Throw,67,57
+6:18,South Carolina,Hassani Gravett,Layup,67,59
+5:45,South Carolina,Alanzo Frink,Foul,67,59
+5:43,Clemson,Elijah Thomas,Foul,67,59
+5:43,Clemson,Elijah Thomas,Turnover,67,59
+5:18,Clemson,Javan White,Foul,67,59
+5:18,South Carolina,Felipe Haase,Free Throw,67,60
+5:18,South Carolina,Felipe Haase,Free Throw,67,61
+5:07,Clemson,Marcquise Reed,Missed Jumper,67,61
+5:07,South Carolina,Tre Campbell,Defensive Rebound,67,61
+5:00,Clemson,Javan White,Foul,67,61
+5:00,South Carolina,A.J. Lawson,Free Throw,67,62
+5:00,South Carolina,A.J. Lawson,Missed Free Throw,67,62
+5:00,Clemson,Aamir Simms,Defensive Rebound,67,62
+4:40,Clemson,Javan White,Dunk,69,62
+4:40,South Carolina,Hassani Gravett,Foul,69,62
+4:40,Clemson,Javan White,Missed Free Throw,69,62
+4:40,South Carolina,A.J. Lawson,Defensive Rebound,69,62
+4:20,South Carolina,Hassani Gravett,Missed Three Point Jumper,69,62
+4:20,South Carolina,A.J. Lawson,Offensive Rebound,69,62
+4:12,South Carolina,None,None,69,62
+4:12,South Carolina,Keyshawn Bryant,Offensive Rebound,69,62
+4:12,South Carolina,Keyshawn Bryant,Missed Jumper,69,62
+4:12,South Carolina,Alanzo Frink,Offensive Rebound,69,62
+4:12,South Carolina,None,None,69,64
+4:08,Clemson,None,None,69,64
+3:50,South Carolina,Keyshawn Bryant,Foul,69,64
+3:50,Clemson,Elijah Thomas,Missed Free Throw,69,64
+3:50,South Carolina,A.J. Lawson,Defensive Rebound,69,64
+3:38,South Carolina,Felipe Haase,Missed Jumper,69,64
+3:38,Clemson,Clyde Trapp,Defensive Rebound,69,64
+3:15,South Carolina,Keyshawn Bryant,Foul,69,64
+3:15,Clemson,Shelton Mitchell,Free Throw,70,64
+3:15,Clemson,Shelton Mitchell,Free Throw,71,64
+3:00,South Carolina,Keyshawn Bryant,Turnover,71,64
+3:00,Clemson,Marcquise Reed,Steal,71,64
+2:30,Clemson,Marcquise Reed,Turnover,71,64
+2:08,South Carolina,A.J. Lawson,Missed Jumper,71,64
+2:08,Clemson,Elijah Thomas,Block,71,64
+2:08,South Carolina,Keyshawn Bryant,Offensive Rebound,71,64
+1:58,South Carolina,Keyshawn Bryant,Layup,71,66
+1:43,Clemson,Marcquise Reed,Jumper,73,66
+1:28,South Carolina,A.J. Lawson,Turnover,73,66
+1:28,Clemson,Marcquise Reed,Steal,73,66
+1:10,Clemson,David Skara,Missed Three Point Jumper,73,66
+1:10,South Carolina,A.J. Lawson,Defensive Rebound,73,66
+0:46,South Carolina,Chris Silva,Jumper,73,68
+0:44,Clemson,None,None,73,68
+0:43,South Carolina,Keyshawn Bryant,Foul,73,68
+0:43,Clemson,David Skara,Free Throw,74,68
+0:43,Clemson,David Skara,Free Throw,75,68
+0:31,South Carolina,Chris Silva,Missed Jumper,75,68
+0:31,Clemson,Elijah Thomas,Block,75,68
+0:31,Clemson,Marcquise Reed,Defensive Rebound,75,68
+0:26,Clemson,Aamir Simms,Dunk,77,68
+0:19,South Carolina,Hassani Gravett,Turnover,77,68
+0:19,Clemson,Marcquise Reed,Steal,77,68
+0:17,South Carolina,Felipe Haase,Foul,77,68
+0:17,Clemson,Marcquise Reed,Free Throw,78,68
+0:17,South Carolina,A.J. Lawson,Missed Three Point Jumper,77,68
+0:17,Clemson,Elijah Thomas,Defensive Rebound,77,68
+0:17,Clemson,Marcquise Reed,Missed Free Throw,78,68
+0:17,South Carolina,Chris Silva,Defensive Rebound,78,68
+0:16,South Carolina,Hassani Gravett,Foul,78,68
+0:16,Clemson,Elijah Thomas,Missed Free Throw,78,68
+0:16,Clemson,None,Team Rebound,78,68
+0:16,Clemson,Elijah Thomas,Missed Free Throw,78,68
+0:16,South Carolina,Felipe Haase,Defensive Rebound,78,68
+0:05,South Carolina,Hassani Gravett,Missed Three Point Jumper,78,68
+0:00,Clemson,Shelton Mitchell,Defensive Rebound,78,68
+0:00,South Carolina,None,None,78,68

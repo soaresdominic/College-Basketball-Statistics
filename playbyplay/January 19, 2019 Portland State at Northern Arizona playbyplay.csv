@@ -1,0 +1,368 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:37,Portland State,Holland Woods,Jumper,2,0
+19:29,Northern Arizona,Davon Bolton,Turnover,2,0
+19:28,Portland State,Michael Nuga,Steal,2,0
+19:25,Portland State,Holland Woods,Turnover,2,0
+19:06,Northern Arizona,Jonathan Andre,Layup,2,2
+18:51,Portland State,Michael Nuga,Missed Layup,2,2
+18:51,Portland State,Robert McCoy,Offensive Rebound,2,2
+18:46,Portland State,Holland Woods,Missed Three Point Jumper,2,2
+18:46,Portland State,Sal Nuhu,Offensive Rebound,2,2
+18:43,Northern Arizona,Jonathan Andre,Foul,2,2
+18:43,Portland State,Sal Nuhu,Missed Free Throw,2,2
+18:43,Portland State,None,Team Rebound,2,2
+18:43,Portland State,Sal Nuhu,Free Throw,3,2
+18:28,Northern Arizona,Davon Bolton,Turnover,3,2
+18:26,Portland State,Holland Woods,Steal,3,2
+18:25,Portland State,Holland Woods,Layup,5,2
+18:13,Northern Arizona,Brooks DeBisschop,Layup,5,4
+17:54,Portland State,Michael Nuga,Missed Three Point Jumper,5,4
+17:54,Portland State,Michael Mayhew,Offensive Rebound,5,4
+17:51,Portland State,Michael Nuga,Missed Three Point Jumper,5,4
+17:51,Northern Arizona,Cameron Shelton,Defensive Rebound,5,4
+17:42,Northern Arizona,Luke Avdalovic,Missed Three Point Jumper,5,4
+17:42,Portland State,Michael Mayhew,Defensive Rebound,5,4
+17:33,Portland State,Holland Woods,Turnover,5,4
+17:09,Northern Arizona,Ted McCree,Three Point Jumper,5,7
+16:57,Portland State,Deante Strickland,Three Point Jumper,8,7
+16:45,Northern Arizona,Ted McCree,Missed Three Point Jumper,8,7
+16:45,Portland State,Sal Nuhu,Defensive Rebound,8,7
+16:38,Northern Arizona,Cameron Shelton,Foul,8,7
+16:19,Portland State,Deante Strickland,Missed Three Point Jumper,8,7
+16:19,Portland State,Portland State,Defensive Rebound,8,7
+16:14,Portland State,Holland Woods,Turnover,8,7
+15:52,Northern Arizona,Brooks DeBisschop,Layup,8,9
+15:34,Portland State,Deante Strickland,Turnover,8,9
+15:32,Northern Arizona,Ted McCree,Steal,8,9
+15:30,Northern Arizona,Ted McCree,Dunk,8,11
+14:58,Portland State,Rashaad Goolsby,Missed Jumper,8,11
+14:58,Northern Arizona,Cameron Shelton,Defensive Rebound,8,11
+14:47,Northern Arizona,Brooks DeBisschop,Missed Layup,8,11
+14:47,Portland State,Holland Woods,Defensive Rebound,8,11
+14:37,Portland State,Deante Strickland,Three Point Jumper,11,11
+14:01,Northern Arizona,Cameron Shelton,Missed Layup,11,11
+14:01,Portland State,Derek Brown,Defensive Rebound,11,11
+13:54,Portland State,Deante Strickland,Three Point Jumper,14,11
+13:15,Northern Arizona,Ted McCree,Turnover,14,11
+13:14,Portland State,Derek Brown,Steal,14,11
+13:12,Portland State,Jamie Orme,Layup,16,11
+13:08,Northern Arizona,None,None,16,11
+13:01,Northern Arizona,Davon Bolton,Missed Layup,16,11
+13:01,Portland State,Michael Nuga,Defensive Rebound,16,11
+12:56,Portland State,Michael Mayhew,Turnover,16,11
+12:39,Northern Arizona,Aziz Seck,Turnover,16,11
+12:22,Northern Arizona,Nik Mains,Foul,16,11
+12:06,Portland State,Michael Nuga,Missed Three Point Jumper,16,11
+12:06,Northern Arizona,Jonathan Andre,Defensive Rebound,16,11
+11:48,Northern Arizona,Nik Mains,Missed Layup,16,11
+11:48,Portland State,Michael Nuga,Defensive Rebound,16,11
+11:36,Portland State,Deante Strickland,Missed Three Point Jumper,16,11
+11:36,Portland State,Deante Strickland,Offensive Rebound,16,11
+11:17,Portland State,Michael Nuga,Turnover,16,11
+11:17,Northern Arizona,None,None,16,11
+11:11,Northern Arizona,Davon Bolton,Turnover,16,11
+11:01,Portland State,Holland Woods,Turnover,16,11
+10:44,Portland State,Robert McCoy,Foul,16,11
+10:43,Northern Arizona,Jonathan Andre,Free Throw,16,12
+10:43,Northern Arizona,Jonathan Andre,Missed Free Throw,16,12
+10:43,Portland State,Holland Woods,Defensive Rebound,16,12
+10:31,Portland State,Robert McCoy,Layup,18,12
+9:57,Northern Arizona,Ted McCree,Three Point Jumper,18,15
+9:37,Portland State,Sal Nuhu,Missed Jumper,18,15
+9:37,Portland State,Michael Nuga,Offensive Rebound,18,15
+9:34,Portland State,Robert McCoy,Layup,20,15
+9:21,Northern Arizona,Luke Avdalovic,Jumper,20,17
+9:04,Portland State,Michael Mayhew,Turnover,20,17
+8:51,Northern Arizona,Davon Bolton,Missed Layup,20,17
+8:51,Portland State,Sal Nuhu,Defensive Rebound,20,17
+8:36,Portland State,Holland Woods,Turnover,20,17
+8:34,Northern Arizona,Jonathan Andre,Steal,20,17
+8:32,Northern Arizona,Jonathan Andre,Layup,20,19
+8:11,Portland State,Jamie Orme,Missed Three Point Jumper,20,19
+8:11,Northern Arizona,Brooks DeBisschop,Defensive Rebound,20,19
+7:42,Northern Arizona,Brooks DeBisschop,Foul,20,19
+7:42,Northern Arizona,None,None,20,19
+7:13,Portland State,Deante Strickland,Missed Three Point Jumper,20,19
+7:13,Portland State,Sal Nuhu,Offensive Rebound,20,19
+7:11,Portland State,Sal Nuhu,Layup,22,19
+6:58,Portland State,Sal Nuhu,Foul,22,19
+6:49,Northern Arizona,Ted McCree,Missed Jumper,22,19
+6:49,Portland State,Robert McCoy,Defensive Rebound,22,19
+6:33,Portland State,Robert McCoy,Missed Three Point Jumper,22,19
+6:33,Northern Arizona,Isaiah Thomas,Defensive Rebound,22,19
+6:33,Portland State,Sal Nuhu,Foul,22,19
+6:08,Northern Arizona,Cameron Shelton,Layup,22,21
+5:40,Portland State,Holland Woods,Missed Jumper,22,21
+5:40,Northern Arizona,Jonathan Andre,Defensive Rebound,22,21
+5:29,Northern Arizona,Ted McCree,Missed Three Point Jumper,22,21
+5:29,Portland State,Robert McCoy,Defensive Rebound,22,21
+5:23,Portland State,Robert McCoy,Layup,24,21
+5:11,Northern Arizona,Luke Avdalovic,Missed Three Point Jumper,24,21
+5:11,Northern Arizona,Brooks DeBisschop,Offensive Rebound,24,21
+5:11,Portland State,Michael Mayhew,Foul,24,21
+5:05,Northern Arizona,Luke Avdalovic,Layup,24,23
+4:58,Portland State,Rashaad Goolsby,Turnover,24,23
+4:57,Northern Arizona,Brooks DeBisschop,Steal,24,23
+4:51,Northern Arizona,Jonathan Andre,Three Point Jumper,24,26
+4:36,Portland State,Rashaad Goolsby,Turnover,24,26
+4:35,Northern Arizona,Ted McCree,Steal,24,26
+4:31,Northern Arizona,Jonathan Andre,Layup,24,28
+4:22,Northern Arizona,None,None,24,28
+4:22,Portland State,None,None,24,28
+3:59,Portland State,Robert McCoy,Missed Layup,24,28
+3:59,Portland State,Michael Mayhew,Offensive Rebound,24,28
+3:55,Northern Arizona,Luke Avdalovic,Foul,24,28
+3:55,Portland State,Michael Mayhew,Missed Free Throw,24,28
+3:55,Portland State,None,Team Rebound,24,28
+3:55,Portland State,Michael Mayhew,Free Throw,25,28
+3:49,Northern Arizona,Cameron Shelton,Turnover,25,28
+3:49,Portland State,Michael Mayhew,Steal,25,28
+3:49,Portland State,Michael Mayhew,Layup,27,28
+3:35,Portland State,Rashaad Goolsby,Foul,27,28
+3:35,Northern Arizona,Ted McCree,Free Throw,27,29
+3:35,Northern Arizona,Ted McCree,Free Throw,27,30
+3:27,Portland State,Robert McCoy,Turnover,27,30
+3:26,Northern Arizona,Cameron Shelton,Steal,27,30
+3:23,Northern Arizona,Cameron Shelton,Missed Layup,27,30
+3:23,Portland State,Robert McCoy,Block,27,30
+3:20,Northern Arizona,Cameron Shelton,Offensive Rebound,27,30
+2:58,Northern Arizona,Jonathan Andre,Turnover,27,30
+2:57,Portland State,Michael Mayhew,Steal,27,30
+2:53,Portland State,Holland Woods,Layup,29,30
+2:24,Northern Arizona,Brooks DeBisschop,Missed Jumper,29,30
+2:24,Portland State,Robert McCoy,Defensive Rebound,29,30
+2:24,Portland State,Jamie Orme,Foul,29,30
+2:13,Northern Arizona,Jonathan Andre,Layup,29,32
+2:00,Portland State,Jamie Orme,Turnover,29,32
+1:40,Northern Arizona,Jonathan Andre,Jumper,29,34
+1:12,Northern Arizona,Jonathan Andre,Foul,29,34
+1:12,Portland State,Rashaad Goolsby,Free Throw,30,34
+1:12,Portland State,Rashaad Goolsby,Free Throw,31,34
+0:58,Northern Arizona,Luke Avdalovic,Three Point Jumper,31,37
+0:36,Portland State,Holland Woods,Missed Three Point Jumper,31,37
+0:36,Portland State,Derek Brown,Offensive Rebound,31,37
+0:32,Portland State,Derek Brown,Turnover,31,37
+0:06,Northern Arizona,Cameron Shelton,Turnover,31,37
+0:00,Portland State,Robert McCoy,Missed Three Point Jumper,31,37
+0:00,Northern Arizona,Davon Bolton,Defensive Rebound,31,37
+0:00,Northern Arizona,None,None,31,37
+19:45,Portland State,Holland Woods,Missed Three Point Jumper,31,37
+19:45,Northern Arizona,Cameron Shelton,Defensive Rebound,31,37
+19:32,Northern Arizona,Ted McCree,Missed Jumper,31,37
+19:32,Portland State,Michael Nuga,Defensive Rebound,31,37
+19:24,Portland State,Robert McCoy,Turnover,31,37
+19:18,Northern Arizona,Brooks DeBisschop,Steal,31,37
+19:13,Northern Arizona,Jonathan Andre,Layup,31,39
+19:07,Portland State,Holland Woods,Missed Jumper,31,39
+19:07,Northern Arizona,Cameron Shelton,Defensive Rebound,31,39
+19:03,Portland State,Sal Nuhu,Foul,31,39
+19:03,Northern Arizona,Jonathan Andre,Free Throw,31,40
+19:03,Northern Arizona,Jonathan Andre,Missed Free Throw,31,40
+19:03,Portland State,Sal Nuhu,Defensive Rebound,31,40
+18:54,Portland State,Michael Mayhew,Missed Three Point Jumper,31,40
+18:54,Northern Arizona,Brooks DeBisschop,Defensive Rebound,31,40
+18:31,Northern Arizona,Ted McCree,Missed Three Point Jumper,31,40
+18:31,Northern Arizona,Jonathan Andre,Offensive Rebound,31,40
+18:29,Northern Arizona,Jonathan Andre,Missed Layup,31,40
+18:29,Northern Arizona,Jonathan Andre,Offensive Rebound,31,40
+18:27,Northern Arizona,Jonathan Andre,Missed Layup,31,40
+18:27,Northern Arizona,Brooks DeBisschop,Offensive Rebound,31,40
+18:09,Northern Arizona,Cameron Shelton,Layup,31,42
+17:55,Portland State,Holland Woods,Missed Jumper,31,42
+17:55,Northern Arizona,Cameron Shelton,Defensive Rebound,31,42
+17:50,Northern Arizona,Cameron Shelton,Layup,31,44
+17:50,Portland State,Holland Woods,Foul,31,44
+17:50,Portland State,None,None,31,44
+17:49,Northern Arizona,Cameron Shelton,Missed Free Throw,31,44
+17:49,Portland State,Sal Nuhu,Defensive Rebound,31,44
+17:26,Portland State,Holland Woods,Layup,33,44
+17:04,Northern Arizona,Ted McCree,Layup,33,46
+16:49,Portland State,Deante Strickland,Missed Three Point Jumper,33,46
+16:49,Northern Arizona,Ted McCree,Defensive Rebound,33,46
+16:19,Northern Arizona,Cameron Shelton,Missed Jumper,33,46
+16:19,Portland State,Portland State,Defensive Rebound,33,46
+16:07,Portland State,Michael Mayhew,Three Point Jumper,36,46
+15:45,Northern Arizona,Isaiah Thomas,Turnover,36,46
+15:44,Portland State,Holland Woods,Steal,36,46
+15:42,Portland State,Holland Woods,Layup,38,46
+15:35,Northern Arizona,Davon Bolton,Missed Layup,38,46
+15:35,Portland State,Brendan Rumel,Defensive Rebound,38,46
+15:23,Portland State,Brendan Rumel,Layup,40,46
+14:53,Portland State,Brendan Rumel,Foul,40,46
+14:53,Northern Arizona,Jonathan Andre,Free Throw,40,47
+14:53,Northern Arizona,Jonathan Andre,Free Throw,40,48
+14:35,Portland State,Holland Woods,Missed Layup,40,48
+14:35,Portland State,Brendan Rumel,Offensive Rebound,40,48
+14:33,Portland State,Brendan Rumel,Layup,42,48
+14:20,Northern Arizona,Ted McCree,Missed Three Point Jumper,42,48
+14:20,Northern Arizona,Jonathan Andre,Offensive Rebound,42,48
+14:17,Northern Arizona,Jonathan Andre,Layup,42,50
+14:02,Portland State,Michael Mayhew,Missed Three Point Jumper,42,50
+14:02,Portland State,Robert McCoy,Offensive Rebound,42,50
+13:53,Portland State,Holland Woods,Turnover,42,50
+13:52,Northern Arizona,Jonathan Andre,Steal,42,50
+13:48,Portland State,Deante Strickland,Foul,42,50
+13:48,Northern Arizona,Cameron Shelton,Free Throw,42,51
+13:48,Northern Arizona,Cameron Shelton,Free Throw,42,52
+13:40,Portland State,Michael Mayhew,Layup,44,52
+13:30,Northern Arizona,Cameron Shelton,Turnover,44,52
+13:29,Portland State,Deante Strickland,Steal,44,52
+13:26,Portland State,Deante Strickland,Missed Three Point Jumper,44,52
+13:26,Northern Arizona,Jonathan Andre,Defensive Rebound,44,52
+13:09,Northern Arizona,Davon Bolton,Turnover,44,52
+13:08,Portland State,Holland Woods,Steal,44,52
+13:00,Portland State,Michael Mayhew,Missed Three Point Jumper,44,52
+13:00,Portland State,Rashaad Goolsby,Offensive Rebound,44,52
+12:58,Northern Arizona,Jonathan Andre,Foul,44,52
+12:58,Portland State,Rashaad Goolsby,Free Throw,45,52
+12:58,Portland State,Rashaad Goolsby,Free Throw,46,52
+12:44,Northern Arizona,Luke Avdalovic,Missed Three Point Jumper,46,52
+12:44,Northern Arizona,Jonathan Andre,Offensive Rebound,46,52
+12:40,Northern Arizona,Jonathan Andre,Missed Layup,46,52
+12:40,Portland State,Brendan Rumel,Defensive Rebound,46,52
+12:30,Portland State,Holland Woods,Turnover,46,52
+12:28,Northern Arizona,Ted McCree,Steal,46,52
+12:17,Portland State,Holland Woods,Foul,46,52
+12:00,Northern Arizona,Jonathan Andre,Missed Layup,46,52
+12:00,Portland State,Brendan Rumel,Defensive Rebound,46,52
+11:54,Portland State,Deante Strickland,Layup,48,52
+11:39,Northern Arizona,Ted McCree,Jumper,48,54
+11:27,Portland State,Brendan Rumel,Missed Layup,48,54
+11:27,Northern Arizona,Cameron Shelton,Block,48,54
+11:24,Northern Arizona,Luke Avdalovic,Defensive Rebound,48,54
+11:18,Northern Arizona,Jonathan Andre,Missed Three Point Jumper,48,54
+11:18,Northern Arizona,Cameron Shelton,Offensive Rebound,48,54
+10:58,Portland State,Brendan Rumel,Foul,48,54
+10:58,Northern Arizona,None,None,48,54
+10:57,Northern Arizona,Cameron Shelton,Free Throw,48,55
+10:57,Northern Arizona,Cameron Shelton,Free Throw,48,56
+10:29,Portland State,Deante Strickland,Missed Layup,48,56
+10:29,Portland State,Sal Nuhu,Offensive Rebound,48,56
+10:27,Portland State,Sal Nuhu,Layup,50,56
+10:01,Northern Arizona,Luke Avdalovic,Three Point Jumper,50,59
+9:41,Portland State,Derek Brown,Missed Three Point Jumper,50,59
+9:41,Portland State,Robert McCoy,Offensive Rebound,50,59
+9:39,Northern Arizona,Cameron Shelton,Foul,50,59
+9:30,Portland State,Robert McCoy,Turnover,50,59
+9:29,Northern Arizona,Cameron Shelton,Steal,50,59
+9:24,Portland State,Robert McCoy,Foul,50,59
+9:24,Northern Arizona,Cameron Shelton,Free Throw,50,60
+9:22,Northern Arizona,Cameron Shelton,Missed Free Throw,50,60
+9:22,Portland State,Robert McCoy,Defensive Rebound,50,60
+9:18,Portland State,Michael Mayhew,Three Point Jumper,53,60
+8:39,Northern Arizona,Davon Bolton,Missed Three Point Jumper,53,60
+8:39,Portland State,Robert McCoy,Defensive Rebound,53,60
+8:39,Northern Arizona,Cameron Shelton,Foul,53,60
+8:27,Portland State,Michael Mayhew,Missed Jumper,53,60
+8:27,Northern Arizona,Luke Avdalovic,Defensive Rebound,53,60
+7:56,Northern Arizona,Brooks DeBisschop,Layup,53,62
+7:46,Portland State,Holland Woods,Missed Layup,53,62
+7:46,Northern Arizona,Brooks DeBisschop,Block,53,62
+7:42,Northern Arizona,Brooks DeBisschop,Defensive Rebound,53,62
+7:39,Northern Arizona,Davon Bolton,Layup,53,64
+7:39,Portland State,None,None,53,64
+7:39,Northern Arizona,None,None,53,64
+7:31,Portland State,Deante Strickland,Turnover,53,64
+6:59,Northern Arizona,Jonathan Andre,Missed Jumper,53,64
+6:59,Portland State,Portland State,Defensive Rebound,53,64
+6:35,Portland State,Rashaad Goolsby,Missed Three Point Jumper,53,64
+6:35,Northern Arizona,Luke Avdalovic,Defensive Rebound,53,64
+6:11,Northern Arizona,Ted McCree,Missed Three Point Jumper,53,64
+6:11,Portland State,Deante Strickland,Defensive Rebound,53,64
+6:01,Portland State,Brendan Rumel,Turnover,53,64
+6:00,Northern Arizona,Brooks DeBisschop,Steal,53,64
+5:51,Northern Arizona,Ted McCree,Turnover,53,64
+5:32,Portland State,Sal Nuhu,Missed Layup,53,64
+5:32,Portland State,Robert McCoy,Offensive Rebound,53,64
+5:25,Portland State,Michael Nuga,Missed Three Point Jumper,53,64
+5:25,Northern Arizona,Northern Arizona,Defensive Rebound,53,64
+5:25,Portland State,Robert McCoy,Foul,53,64
+5:25,Northern Arizona,Brooks DeBisschop,Missed Free Throw,53,64
+5:25,Portland State,Sal Nuhu,Defensive Rebound,53,64
+5:18,Portland State,Holland Woods,Three Point Jumper,56,64
+4:59,Northern Arizona,Luke Avdalovic,Three Point Jumper,56,67
+4:45,Portland State,Michael Nuga,Turnover,56,67
+4:21,Northern Arizona,Ted McCree,Missed Layup,56,67
+4:21,Northern Arizona,Brooks DeBisschop,Offensive Rebound,56,67
+4:17,Northern Arizona,Cameron Shelton,Three Point Jumper,56,70
+4:02,Portland State,Holland Woods,Missed Layup,56,70
+4:02,Portland State,Michael Mayhew,Offensive Rebound,56,70
+3:58,Portland State,Robert McCoy,Missed Three Point Jumper,56,70
+3:58,Northern Arizona,Luke Avdalovic,Defensive Rebound,56,70
+3:31,Northern Arizona,Jonathan Andre,Turnover,56,70
+3:31,Northern Arizona,Jonathan Andre,Foul,56,70
+3:31,Northern Arizona,None,None,56,70
+3:22,Portland State,Holland Woods,Turnover,56,70
+2:58,Northern Arizona,Cameron Shelton,Foul,56,70
+2:58,Portland State,Robert McCoy,Free Throw,57,70
+2:58,Portland State,Robert McCoy,Free Throw,58,70
+2:58,Portland State,Sal Nuhu,Missed Layup,58,70
+2:58,Northern Arizona,Davon Bolton,Defensive Rebound,58,70
+2:56,Northern Arizona,Davon Bolton,Turnover,58,70
+2:54,Portland State,Holland Woods,Steal,58,70
+2:52,Portland State,Robert McCoy,Turnover,58,70
+2:50,Northern Arizona,Brooks DeBisschop,Steal,58,70
+2:28,Northern Arizona,Luke Avdalovic,Three Point Jumper,58,73
+2:14,Portland State,Holland Woods,Missed Three Point Jumper,58,73
+2:14,Portland State,Deante Strickland,Offensive Rebound,58,73
+2:10,Portland State,Deante Strickland,Missed Layup,58,73
+2:10,Portland State,Michael Mayhew,Offensive Rebound,58,73
+2:08,Northern Arizona,Jonathan Andre,Foul,58,73
+2:08,Portland State,Michael Mayhew,Missed Free Throw,58,73
+2:08,Portland State,None,Team Rebound,58,73
+2:08,Portland State,Michael Mayhew,Free Throw,59,73
+2:04,Portland State,Michael Mayhew,Foul,59,73
+2:01,Northern Arizona,Ted McCree,Missed Free Throw,59,73
+2:01,Portland State,Rashaad Goolsby,Defensive Rebound,59,73
+1:56,Northern Arizona,Cameron Shelton,Foul,59,73
+1:56,Portland State,Holland Woods,Free Throw,60,73
+1:56,Portland State,Holland Woods,Missed Free Throw,60,73
+1:56,Northern Arizona,Nik Mains,Defensive Rebound,60,73
+1:52,Northern Arizona,Davon Bolton,Turnover,60,73
+1:41,Portland State,Deante Strickland,Three Point Jumper,63,73
+1:11,Northern Arizona,Ted McCree,Missed Three Point Jumper,63,73
+1:11,Portland State,Robert McCoy,Defensive Rebound,63,73
+1:01,Portland State,Deante Strickland,Layup,65,73
+1:01,Northern Arizona,Nik Mains,Foul,65,73
+1:01,Portland State,Deante Strickland,Missed Free Throw,65,73
+1:01,Northern Arizona,Brooks DeBisschop,Defensive Rebound,65,73
+0:59,Portland State,Michael Mayhew,Foul,65,73
+0:58,Northern Arizona,Brooks DeBisschop,Missed Free Throw,65,73
+0:58,Northern Arizona,None,Team Rebound,65,73
+0:58,Northern Arizona,Brooks DeBisschop,Missed Free Throw,65,73
+0:58,Portland State,Michael Mayhew,Defensive Rebound,65,73
+0:52,Portland State,Deante Strickland,Missed Three Point Jumper,65,73
+0:52,Northern Arizona,Brooks DeBisschop,Defensive Rebound,65,73
+0:52,Portland State,Robert McCoy,Foul,65,73
+0:52,Northern Arizona,Nik Mains,Free Throw,65,74
+0:52,Northern Arizona,Nik Mains,Free Throw,65,75
+0:40,Northern Arizona,Brooks DeBisschop,Foul,65,75
+0:40,Portland State,Holland Woods,Missed Free Throw,65,75
+0:40,Portland State,None,Team Rebound,65,75
+0:40,Portland State,Holland Woods,Free Throw,66,75
+0:40,Portland State,None,None,66,75
+0:37,Portland State,Deante Strickland,Foul,66,75
+0:37,Northern Arizona,Luke Avdalovic,Free Throw,66,76
+0:37,Northern Arizona,Luke Avdalovic,Free Throw,66,77
+0:29,Portland State,Deante Strickland,Three Point Jumper,69,77
+0:19,Portland State,Deante Strickland,Foul,69,77
+0:19,Northern Arizona,Ted McCree,Free Throw,69,78
+0:19,Northern Arizona,Ted McCree,Free Throw,69,79
+0:13,Portland State,Robert McCoy,Missed Three Point Jumper,69,79
+0:13,Portland State,Holland Woods,Offensive Rebound,69,79
+0:10,Portland State,Holland Woods,Three Point Jumper,72,79
+0:10,Northern Arizona,None,None,72,79
+0:10,Portland State,Robert McCoy,Foul,72,79
+0:10,Northern Arizona,Nik Mains,Missed Free Throw,72,79
+0:10,Northern Arizona,None,Team Rebound,72,79
+0:10,Northern Arizona,Nik Mains,Free Throw,72,80
+0:06,Northern Arizona,Davon Bolton,Foul,72,80
+0:06,Portland State,Holland Woods,Free Throw,73,80
+0:06,Portland State,Holland Woods,Free Throw,74,80
+0:06,Portland State,Holland Woods,Free Throw,75,80
+0:04,Portland State,Rashaad Goolsby,Foul,75,80
+0:04,Northern Arizona,Ted McCree,Free Throw,75,81
+0:04,Northern Arizona,Ted McCree,Free Throw,75,82
+0:00,Portland State,Holland Woods,Missed Layup,75,82
+0:00,Northern Arizona,Northern Arizona,Defensive Rebound,75,82
+0:00,Northern Arizona,None,None,75,82

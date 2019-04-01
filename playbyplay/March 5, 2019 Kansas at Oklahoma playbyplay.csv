@@ -1,0 +1,320 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Oklahoma,None,None,0,0
+19:38,Oklahoma,Rashard Odomes,Dunk,0,2
+19:21,Kansas,David McCormack,Layup,2,2
+18:56,Oklahoma,Brady Manek,Missed Three Point Jumper,2,2
+18:56,Kansas,David McCormack,Defensive Rebound,2,2
+18:41,Kansas,Devon Dotson,Missed Three Point Jumper,2,2
+18:41,Kansas,Dedric Lawson,Offensive Rebound,2,2
+18:34,Kansas,Dedric Lawson,Turnover,2,2
+18:12,Oklahoma,Brady Manek,Jumper,2,4
+18:00,Kansas,Ochai Agbaji,Jumper,4,4
+17:41,Oklahoma,Kristian Doolittle,Jumper,4,6
+17:28,Kansas,David McCormack,Missed Jumper,4,6
+17:28,Oklahoma,Brady Manek,Defensive Rebound,4,6
+17:27,Kansas,David McCormack,Foul,4,6
+17:14,Oklahoma,Christian James,Three Point Jumper,4,9
+16:59,Kansas,Dedric Lawson,Three Point Jumper,7,9
+16:44,Oklahoma,Jamal Bieniemy,Turnover,7,9
+16:44,Kansas,Dedric Lawson,Steal,7,9
+16:37,Kansas,Quentin Grimes,Missed Layup,7,9
+16:37,Oklahoma,Christian James,Defensive Rebound,7,9
+16:28,Oklahoma,Brady Manek,Three Point Jumper,7,12
+16:13,Kansas,Ochai Agbaji,Turnover,7,12
+16:13,Oklahoma,Kristian Doolittle,Steal,7,12
+16:07,Oklahoma,Jamal Bieniemy,Three Point Jumper,7,15
+15:44,Kansas,Ochai Agbaji,Missed Three Point Jumper,7,15
+15:44,Oklahoma,Kristian Doolittle,Defensive Rebound,7,15
+15:35,Oklahoma,Christian James,Three Point Jumper,7,18
+15:32,Kansas,None,None,7,18
+15:32,Oklahoma,None,None,7,18
+15:14,Kansas,Mitch Lightfoot,Turnover,7,18
+14:53,Oklahoma,Kristian Doolittle,Missed Jumper,7,18
+14:53,Kansas,Devon Dotson,Defensive Rebound,7,18
+14:52,Oklahoma,Rashard Odomes,Foul,7,18
+14:43,Kansas,Marcus Garrett,Missed Three Point Jumper,7,18
+14:43,Oklahoma,Kristian Doolittle,Defensive Rebound,7,18
+14:30,Oklahoma,Kristian Doolittle,Missed Jumper,7,18
+14:30,Kansas,Marcus Garrett,Defensive Rebound,7,18
+14:11,Kansas,K.J. Lawson,Missed Three Point Jumper,7,18
+14:11,Oklahoma,Christian James,Defensive Rebound,7,18
+13:47,Oklahoma,Christian James,Missed Three Point Jumper,7,18
+13:47,Kansas,Mitch Lightfoot,Defensive Rebound,7,18
+13:33,Kansas,Marcus Garrett,Foul,7,18
+13:33,Kansas,Marcus Garrett,Turnover,7,18
+13:14,Oklahoma,Jamuni McNeace,Missed Jumper,7,18
+13:14,Kansas,K.J. Lawson,Defensive Rebound,7,18
+13:04,Kansas,K.J. Lawson,Turnover,7,18
+13:04,Oklahoma,Christian James,Steal,7,18
+12:56,Oklahoma,Brady Manek,Jumper,7,20
+12:34,Kansas,Mitch Lightfoot,Foul,7,20
+12:34,Kansas,Mitch Lightfoot,Turnover,7,20
+12:24,Oklahoma,Brady Manek,Three Point Jumper,7,23
+12:21,Kansas,None,None,7,23
+12:21,Oklahoma,None,None,7,23
+12:12,Kansas,Ochai Agbaji,Missed Three Point Jumper,7,23
+12:12,Oklahoma,Kristian Doolittle,Defensive Rebound,7,23
+11:42,Oklahoma,Jamuni McNeace,Missed Jumper,7,23
+11:42,Kansas,Dedric Lawson,Defensive Rebound,7,23
+11:33,Oklahoma,Aaron Calixte,Foul,7,23
+11:33,Kansas,Devon Dotson,Free Throw,8,23
+11:33,Kansas,Devon Dotson,Free Throw,9,23
+11:17,Oklahoma,Aaron Calixte,Missed Three Point Jumper,9,23
+11:17,Kansas,Dedric Lawson,Defensive Rebound,9,23
+11:08,Kansas,Dedric Lawson,Missed Three Point Jumper,9,23
+11:08,Oklahoma,Brady Manek,Defensive Rebound,9,23
+10:54,Oklahoma,Brady Manek,Three Point Jumper,9,26
+10:43,Kansas,David McCormack,Dunk,11,26
+10:17,Oklahoma,Kristian Doolittle,Turnover,11,26
+10:01,Kansas,Quentin Grimes,Three Point Jumper,14,26
+9:36,Oklahoma,Miles Reynolds,Turnover,14,26
+9:19,Kansas,David McCormack,Layup,16,26
+9:03,Oklahoma,Aaron Calixte,Foul,16,26
+9:03,Oklahoma,Aaron Calixte,Turnover,16,26
+8:48,Kansas,Dedric Lawson,Missed Three Point Jumper,16,26
+8:48,Kansas,Marcus Garrett,Offensive Rebound,16,26
+8:40,Kansas,Devon Dotson,Missed Three Point Jumper,16,26
+8:40,Kansas,Devon Dotson,Offensive Rebound,16,26
+8:32,Kansas,David McCormack,Missed Layup,16,26
+8:32,Oklahoma,Christian James,Defensive Rebound,16,26
+8:22,Oklahoma,Christian James,Missed Three Point Jumper,16,26
+8:22,Kansas,Dedric Lawson,Defensive Rebound,16,26
+8:12,Oklahoma,Kristian Doolittle,Foul,16,26
+8:06,Kansas,Devon Dotson,Layup,18,26
+7:47,Oklahoma,Kristian Doolittle,Jumper,18,28
+7:31,Kansas,Marcus Garrett,Turnover,18,28
+7:31,Oklahoma,Jamal Bieniemy,Steal,18,28
+7:26,Oklahoma,Brady Manek,Dunk,18,30
+7:22,Kansas,None,None,18,30
+7:22,Oklahoma,None,None,18,30
+7:08,Kansas,Devon Dotson,Missed Layup,18,30
+7:08,Oklahoma,Brady Manek,Defensive Rebound,18,30
+7:03,Kansas,Ochai Agbaji,Foul,18,30
+7:03,Oklahoma,Rashard Odomes,Free Throw,18,31
+7:03,Oklahoma,Rashard Odomes,Free Throw,18,32
+6:45,Kansas,Quentin Grimes,Missed Three Point Jumper,18,32
+6:45,Oklahoma,Jamal Bieniemy,Defensive Rebound,18,32
+6:38,Oklahoma,Rashard Odomes,Layup,18,34
+6:30,Kansas,Ochai Agbaji,Missed Layup,18,34
+6:30,Oklahoma,Kristian Doolittle,Defensive Rebound,18,34
+6:11,Oklahoma,Kristian Doolittle,Jumper,18,36
+5:58,Oklahoma,Jamal Bieniemy,Foul,18,36
+5:58,Kansas,Dedric Lawson,Missed Free Throw,18,36
+5:58,Kansas,None,Team Rebound,18,36
+5:58,Kansas,Dedric Lawson,Free Throw,19,36
+5:37,Oklahoma,Jamal Bieniemy,Turnover,19,36
+5:37,Kansas,David McCormack,Steal,19,36
+5:34,Kansas,None,None,19,36
+5:24,Kansas,Ochai Agbaji,Missed Three Point Jumper,19,36
+5:24,Kansas,Dedric Lawson,Offensive Rebound,19,36
+5:16,Oklahoma,Jamuni McNeace,Foul,19,36
+5:16,Kansas,David McCormack,Missed Free Throw,19,36
+5:16,Kansas,None,Team Rebound,19,36
+5:16,Kansas,David McCormack,Free Throw,20,36
+5:03,Oklahoma,Matt Freeman,Missed Jumper,20,36
+5:03,Kansas,David McCormack,Defensive Rebound,20,36
+4:53,Kansas,Charlie Moore,Missed Three Point Jumper,20,36
+4:53,Oklahoma,Miles Reynolds,Defensive Rebound,20,36
+4:40,Oklahoma,Matt Freeman,Three Point Jumper,20,39
+4:24,Oklahoma,Matt Freeman,Foul,20,39
+4:24,Kansas,Dedric Lawson,Free Throw,21,39
+4:24,Kansas,Dedric Lawson,Free Throw,22,39
+4:00,Oklahoma,Miles Reynolds,Missed Layup,22,39
+4:00,Kansas,Dedric Lawson,Defensive Rebound,22,39
+3:38,Kansas,Quentin Grimes,Missed Layup,22,39
+3:38,Oklahoma,Kristian Doolittle,Defensive Rebound,22,39
+3:33,Oklahoma,Christian James,Missed Three Point Jumper,22,39
+3:33,Kansas,Ochai Agbaji,Defensive Rebound,22,39
+3:17,Kansas,Quentin Grimes,Missed Three Point Jumper,22,39
+3:11,Oklahoma,Kristian Doolittle,Defensive Rebound,22,39
+2:55,Oklahoma,Aaron Calixte,Turnover,22,39
+2:55,Kansas,Quentin Grimes,Steal,22,39
+2:51,Kansas,Quentin Grimes,Turnover,22,39
+2:51,Oklahoma,Matt Freeman,Steal,22,39
+2:20,Oklahoma,Kristian Doolittle,Layup,22,41
+2:09,Kansas,Dedric Lawson,Jumper,24,41
+1:55,Oklahoma,None,None,24,41
+1:55,Oklahoma,None,None,24,41
+1:48,Kansas,Mitch Lightfoot,Foul,24,41
+1:38,Oklahoma,Kristian Doolittle,Missed Jumper,24,41
+1:38,Kansas,Marcus Garrett,Defensive Rebound,24,41
+1:12,Kansas,Marcus Garrett,Jumper,26,41
+0:55,Oklahoma,Kristian Doolittle,Missed Jumper,26,41
+0:55,Kansas,Marcus Garrett,Defensive Rebound,26,41
+0:47,Kansas,Marcus Garrett,Jumper,28,41
+0:20,Oklahoma,Jamal Bieniemy,Missed Three Point Jumper,28,41
+0:20,Kansas,Devon Dotson,Defensive Rebound,28,41
+0:02,Kansas,Devon Dotson,Turnover,28,41
+0:02,Oklahoma,Kristian Doolittle,Steal,28,41
+0:00,Oklahoma,None,None,28,41
+20:00,Oklahoma,None,None,28,41
+19:49,Kansas,Ochai Agbaji,Foul,28,41
+19:49,Oklahoma,Kristian Doolittle,Free Throw,28,42
+19:49,Oklahoma,Kristian Doolittle,Free Throw,28,43
+19:38,Kansas,Ochai Agbaji,Jumper,30,43
+19:25,Oklahoma,Brady Manek,Missed Three Point Jumper,30,43
+19:25,Kansas,Dedric Lawson,Defensive Rebound,30,43
+19:17,Kansas,Dedric Lawson,Missed Three Point Jumper,30,43
+19:17,Oklahoma,Brady Manek,Defensive Rebound,30,43
+18:58,Kansas,Ochai Agbaji,Foul,30,43
+18:58,Oklahoma,Brady Manek,Free Throw,30,44
+18:58,Oklahoma,Brady Manek,Free Throw,30,45
+18:51,Kansas,Devon Dotson,Layup,32,45
+18:38,Oklahoma,Jamal Bieniemy,Missed Layup,32,45
+18:38,Kansas,Dedric Lawson,Defensive Rebound,32,45
+18:30,Kansas,Devon Dotson,Turnover,32,45
+18:16,Oklahoma,Kristian Doolittle,Jumper,32,47
+18:16,Kansas,David McCormack,Foul,32,47
+18:16,Oklahoma,Kristian Doolittle,Free Throw,32,48
+18:01,Kansas,Ochai Agbaji,Three Point Jumper,35,48
+17:43,Oklahoma,Brady Manek,Missed Three Point Jumper,35,48
+17:43,Oklahoma,Rashard Odomes,Offensive Rebound,35,48
+17:29,Oklahoma,Brady Manek,Layup,35,50
+17:17,Kansas,Ochai Agbaji,Missed Three Point Jumper,35,50
+17:17,Oklahoma,Kristian Doolittle,Defensive Rebound,35,50
+17:08,Kansas,David McCormack,Foul,35,50
+17:08,Oklahoma,Kristian Doolittle,Free Throw,35,51
+17:08,Oklahoma,Kristian Doolittle,Free Throw,35,52
+17:01,Kansas,Marcus Garrett,Missed Three Point Jumper,35,52
+17:01,Kansas,Mitch Lightfoot,Offensive Rebound,35,52
+16:57,Oklahoma,Jamal Bieniemy,Foul,35,52
+16:49,Kansas,Ochai Agbaji,Missed Three Point Jumper,35,52
+16:49,Oklahoma,Oklahoma,Defensive Rebound,35,52
+16:28,Oklahoma,Rashard Odomes,Missed Layup,35,52
+16:28,Oklahoma,Kristian Doolittle,Offensive Rebound,35,52
+16:27,Kansas,Mitch Lightfoot,Foul,35,52
+16:23,Oklahoma,Kristian Doolittle,Dunk,35,54
+16:05,Kansas,Marcus Garrett,Missed Layup,35,54
+16:05,Kansas,Marcus Garrett,Offensive Rebound,35,54
+15:57,Oklahoma,Kristian Doolittle,Foul,35,54
+15:57,Oklahoma,None,None,35,54
+15:57,Kansas,Devon Dotson,Missed Free Throw,35,54
+15:57,Kansas,None,Team Rebound,35,54
+15:57,Kansas,Devon Dotson,Missed Free Throw,35,54
+15:57,Oklahoma,Rashard Odomes,Defensive Rebound,35,54
+15:37,Kansas,Marcus Garrett,Foul,35,54
+15:33,Oklahoma,Christian James,Missed Jumper,35,54
+15:33,Kansas,Dedric Lawson,Defensive Rebound,35,54
+15:16,Kansas,Mitch Lightfoot,Missed Jumper,35,54
+15:16,Oklahoma,Kristian Doolittle,Defensive Rebound,35,54
+15:05,Oklahoma,Kristian Doolittle,Layup,35,56
+14:52,Kansas,Dedric Lawson,Layup,37,56
+14:30,Oklahoma,Rashard Odomes,Three Point Jumper,37,59
+14:16,Kansas,Dedric Lawson,Layup,39,59
+13:53,Kansas,Mitch Lightfoot,Foul,39,59
+13:53,Oklahoma,Kristian Doolittle,Free Throw,39,60
+13:53,Oklahoma,Kristian Doolittle,Free Throw,39,61
+13:35,Kansas,Devon Dotson,Missed Three Point Jumper,39,61
+13:35,Kansas,Kansas,Offensive Rebound,39,61
+13:28,Kansas,Quentin Grimes,Missed Three Point Jumper,39,61
+13:28,Oklahoma,Jamuni McNeace,Defensive Rebound,39,61
+13:15,Kansas,Quentin Grimes,Foul,39,61
+13:15,Oklahoma,Rashard Odomes,Missed Free Throw,39,61
+13:15,Oklahoma,None,Team Rebound,39,61
+13:15,Oklahoma,Rashard Odomes,Free Throw,39,62
+13:04,Kansas,Marcus Garrett,Missed Three Point Jumper,39,62
+13:04,Oklahoma,Jamuni McNeace,Defensive Rebound,39,62
+12:45,Oklahoma,Brady Manek,Missed Jumper,39,62
+12:45,Kansas,K.J. Lawson,Defensive Rebound,39,62
+12:37,Kansas,Dedric Lawson,Three Point Jumper,42,62
+12:13,Kansas,Dedric Lawson,Foul,42,62
+12:13,Oklahoma,Jamuni McNeace,Missed Free Throw,42,62
+12:13,Kansas,K.J. Lawson,Defensive Rebound,42,62
+12:02,Kansas,Dedric Lawson,Three Point Jumper,45,62
+11:31,Oklahoma,Aaron Calixte,Layup,45,64
+11:31,Oklahoma,None,None,45,64
+11:22,Kansas,Quentin Grimes,Turnover,45,64
+11:22,Oklahoma,Christian James,Steal,45,64
+11:16,Oklahoma,Miles Reynolds,Layup,45,66
+11:09,Kansas,Charlie Moore,Turnover,45,66
+11:09,Oklahoma,Matt Freeman,Steal,45,66
+11:04,Kansas,Charlie Moore,Foul,45,66
+11:04,Oklahoma,Miles Reynolds,Missed Free Throw,45,66
+11:04,Oklahoma,None,Team Rebound,45,66
+11:04,Oklahoma,Miles Reynolds,Missed Free Throw,45,66
+11:04,Kansas,K.J. Lawson,Defensive Rebound,45,66
+10:56,Kansas,K.J. Lawson,Missed Jumper,45,66
+10:56,Kansas,Dedric Lawson,Offensive Rebound,45,66
+10:52,Kansas,Dedric Lawson,Missed Jumper,45,66
+10:52,Oklahoma,Kristian Doolittle,Defensive Rebound,45,66
+10:49,Kansas,Dedric Lawson,Foul,45,66
+10:49,Oklahoma,Kristian Doolittle,Missed Free Throw,45,66
+10:49,Oklahoma,None,Team Rebound,45,66
+10:49,Oklahoma,Kristian Doolittle,Free Throw,45,67
+10:34,Kansas,Ochai Agbaji,Missed Three Point Jumper,45,67
+10:34,Kansas,Kansas,Offensive Rebound,45,67
+10:31,Oklahoma,Aaron Calixte,Foul,45,67
+10:27,Kansas,Ochai Agbaji,Layup,47,67
+10:17,Oklahoma,Matt Freeman,Missed Three Point Jumper,47,67
+10:17,Kansas,Ochai Agbaji,Defensive Rebound,47,67
+10:08,Kansas,K.J. Lawson,Missed Three Point Jumper,47,67
+10:08,Oklahoma,Jamal Bieniemy,Defensive Rebound,47,67
+10:01,Oklahoma,Matt Freeman,Three Point Jumper,47,70
+9:46,Oklahoma,Kristian Doolittle,Foul,47,70
+9:32,Kansas,Devon Dotson,Turnover,47,70
+9:32,Oklahoma,Matt Freeman,Steal,47,70
+9:27,Oklahoma,Jamal Bieniemy,Missed Three Point Jumper,47,70
+9:27,Kansas,Dedric Lawson,Defensive Rebound,47,70
+9:22,Oklahoma,Miles Reynolds,Foul,47,70
+9:02,Kansas,Dedric Lawson,Missed Three Point Jumper,47,70
+9:02,Oklahoma,Jamal Bieniemy,Defensive Rebound,47,70
+8:31,Oklahoma,Brady Manek,Missed Layup,47,70
+8:31,Kansas,Ochai Agbaji,Block,47,70
+8:31,Oklahoma,Oklahoma,Offensive Rebound,47,70
+8:31,Kansas,K.J. Lawson,Foul,47,70
+8:31,Oklahoma,Miles Reynolds,Free Throw,47,71
+8:31,Oklahoma,Miles Reynolds,Missed Free Throw,47,71
+8:31,Kansas,K.J. Lawson,Defensive Rebound,47,71
+8:11,Kansas,Devon Dotson,Missed Layup,47,71
+8:11,Oklahoma,Jamuni McNeace,Defensive Rebound,47,71
+8:04,Oklahoma,Brady Manek,Turnover,47,71
+7:43,Kansas,Marcus Garrett,Turnover,47,71
+7:43,Oklahoma,None,None,47,71
+7:22,Oklahoma,Rashard Odomes,Missed Three Point Jumper,47,71
+7:22,Kansas,Ochai Agbaji,Defensive Rebound,47,71
+7:10,Kansas,Charlie Moore,Missed Jumper,47,71
+7:10,Oklahoma,Oklahoma,Defensive Rebound,47,71
+6:51,Oklahoma,Brady Manek,Missed Three Point Jumper,47,71
+6:51,Kansas,Kansas,Defensive Rebound,47,71
+6:36,Kansas,David McCormack,Jumper,49,71
+6:13,Kansas,David McCormack,Foul,49,71
+6:13,Oklahoma,Kristian Doolittle,Free Throw,49,72
+6:13,Oklahoma,Kristian Doolittle,Free Throw,49,73
+6:02,Oklahoma,Jamal Bieniemy,Foul,49,73
+6:00,Kansas,David McCormack,Jumper,51,73
+5:28,Oklahoma,Jamal Bieniemy,Missed Jumper,51,73
+5:28,Kansas,Quentin Grimes,Defensive Rebound,51,73
+5:20,Kansas,Quentin Grimes,Turnover,51,73
+5:12,Oklahoma,Jamal Bieniemy,Jumper,51,75
+4:58,Kansas,Marcus Garrett,Jumper,53,75
+4:38,Oklahoma,Brady Manek,Layup,53,77
+4:27,Kansas,Ochai Agbaji,Missed Jumper,53,77
+4:27,Oklahoma,Brady Manek,Defensive Rebound,53,77
+4:08,Oklahoma,Jamal Bieniemy,Turnover,53,77
+4:08,Kansas,David McCormack,Steal,53,77
+3:58,Kansas,Marcus Garrett,Jumper,55,77
+3:34,Oklahoma,Rashard Odomes,Layup,55,79
+3:12,Kansas,David McCormack,Layup,57,79
+2:44,Oklahoma,Christian James,Missed Three Point Jumper,57,79
+2:44,Kansas,David McCormack,Defensive Rebound,57,79
+2:30,Kansas,Marcus Garrett,Missed Three Point Jumper,57,79
+2:30,Kansas,Mitch Lightfoot,Offensive Rebound,57,79
+2:22,Kansas,Mitch Lightfoot,Missed Layup,57,79
+2:22,Oklahoma,Kristian Doolittle,Defensive Rebound,57,79
+2:15,Oklahoma,Christian James,Missed Three Point Jumper,57,79
+2:15,Kansas,Mitch Lightfoot,Defensive Rebound,57,79
+2:00,Kansas,Marcus Garrett,Missed Three Point Jumper,57,79
+2:00,Kansas,David McCormack,Offensive Rebound,57,79
+2:00,Kansas,None,None,57,79
+2:00,Kansas,David McCormack,Offensive Rebound,57,79
+1:55,Kansas,David McCormack,Layup,59,79
+1:55,Oklahoma,Brady Manek,Foul,59,79
+1:55,Kansas,David McCormack,Free Throw,60,79
+1:30,Oklahoma,Aaron Calixte,Missed Three Point Jumper,60,79
+1:30,Kansas,Kansas,Defensive Rebound,60,79
+1:21,Kansas,Charlie Moore,Three Point Jumper,63,79
+0:48,Oklahoma,Jamal Bieniemy,Layup,63,81
+0:40,Kansas,Chris Teahan,Three Point Jumper,66,81
+0:11,Oklahoma,Jamal Bieniemy,Turnover,66,81
+0:06,Kansas,David McCormack,Dunk,68,81
+0:00,Oklahoma,None,None,68,81

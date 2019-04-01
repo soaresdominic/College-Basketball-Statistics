@@ -1,0 +1,322 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Harvard,None,None,0,0
+19:33,Harvard,Bryce Aiken,Missed Three Point Jumper,0,0
+19:33,Yale,Yale,Defensive Rebound,0,0
+19:14,Yale,Miye Oni,Missed Jumper,0,0
+19:14,Harvard,Christian Juzang,Defensive Rebound,0,0
+18:53,Harvard,Bryce Aiken,Foul,0,0
+18:53,Harvard,Bryce Aiken,Turnover,0,0
+18:40,Yale,Trey Phills,Jumper,2,0
+18:24,Harvard,Noah Kirkwood,Turnover,2,0
+18:24,Yale,Jordan Bruner,Steal,2,0
+18:07,Yale,Alex Copeland,Jumper,4,0
+17:53,Yale,Trey Phills,Foul,4,0
+17:53,Harvard,Bryce Aiken,Free Throw,4,1
+17:53,Harvard,Bryce Aiken,Free Throw,4,2
+17:34,Yale,Blake Reynolds,Jumper,6,2
+17:11,Harvard,Christian Juzang,Missed Three Point Jumper,6,2
+17:11,Yale,Blake Reynolds,Defensive Rebound,6,2
+16:48,Yale,Miye Oni,Missed Jumper,6,2
+16:48,Harvard,Chris Lewis,Defensive Rebound,6,2
+16:29,Harvard,Noah Kirkwood,Turnover,6,2
+16:29,Yale,Jordan Bruner,Steal,6,2
+16:23,Yale,Jordan Bruner,Jumper,8,2
+16:08,Harvard,Bryce Aiken,Missed Three Point Jumper,8,2
+16:08,Yale,Miye Oni,Defensive Rebound,8,2
+15:55,Yale,Miye Oni,Missed Jumper,8,2
+15:55,Harvard,Chris Lewis,Block,8,2
+15:55,Harvard,Noah Kirkwood,Defensive Rebound,8,2
+15:45,Harvard,Noah Kirkwood,Three Point Jumper,8,5
+15:34,Yale,Alex Copeland,Missed Jumper,8,5
+15:34,Yale,Alex Copeland,Offensive Rebound,8,5
+15:26,Harvard,Kale Catchings,Foul,8,5
+15:26,Harvard,None,None,8,5
+15:26,Yale,Miye Oni,Free Throw,9,5
+15:26,Yale,Miye Oni,Free Throw,10,5
+15:08,Harvard,Noah Kirkwood,Jumper,10,7
+14:45,Yale,Miye Oni,Missed Jumper,10,7
+14:45,Harvard,Chris Lewis,Defensive Rebound,10,7
+14:19,Harvard,Chris Lewis,Jumper,10,9
+14:01,Yale,Azar Swain,Missed Jumper,10,9
+14:01,Harvard,Chris Lewis,Defensive Rebound,10,9
+13:56,Harvard,Bryce Aiken,Turnover,10,9
+13:56,Yale,Miye Oni,Steal,10,9
+13:51,Yale,Miye Oni,Missed Jumper,10,9
+13:51,Harvard,Chris Lewis,Block,10,9
+13:51,Yale,Yale,Offensive Rebound,10,9
+13:37,Yale,Azar Swain,Three Point Jumper,13,9
+13:19,Harvard,Mason Forbes,Jumper,13,11
+12:55,Yale,Jordan Bruner,Jumper,15,11
+12:38,Harvard,Bryce Aiken,Jumper,15,13
+12:25,Yale,Azar Swain,Three Point Jumper,18,13
+12:11,Harvard,Bryce Aiken,Three Point Jumper,18,16
+11:52,Yale,Alex Copeland,Jumper,20,16
+11:44,Harvard,Noah Kirkwood,Missed Three Point Jumper,20,16
+11:44,Yale,Azar Swain,Defensive Rebound,20,16
+11:35,Yale,Paul Atkinson,Jumper,22,16
+11:31,Harvard,None,None,22,16
+11:31,Harvard,None,None,22,16
+11:12,Harvard,Christian Juzang,Missed Three Point Jumper,22,16
+11:12,Yale,Azar Swain,Defensive Rebound,22,16
+10:56,Yale,Miye Oni,Three Point Jumper,25,16
+10:34,Harvard,Justin Bassey,Missed Three Point Jumper,25,16
+10:34,Yale,Azar Swain,Defensive Rebound,25,16
+10:03,Yale,Miye Oni,Foul,25,16
+10:03,Yale,Miye Oni,Turnover,25,16
+9:45,Harvard,Bryce Aiken,Jumper,25,18
+9:45,Yale,Trey Phills,Foul,25,18
+9:45,Harvard,Bryce Aiken,Free Throw,25,19
+9:27,Yale,Blake Reynolds,Jumper,27,19
+8:57,Harvard,Bryce Aiken,Missed Jumper,27,19
+8:57,Yale,Azar Swain,Block,27,19
+8:57,Yale,Jordan Bruner,Defensive Rebound,27,19
+8:46,Yale,Blake Reynolds,Jumper,29,19
+8:29,Harvard,Justin Bassey,Jumper,29,21
+8:15,Yale,Jordan Bruner,Missed Three Point Jumper,29,21
+8:15,Harvard,Christian Juzang,Defensive Rebound,29,21
+8:04,Harvard,Justin Bassey,Missed Three Point Jumper,29,21
+8:04,Yale,Jordan Bruner,Defensive Rebound,29,21
+7:57,Yale,Alex Copeland,Jumper,31,21
+7:36,Harvard,Justin Bassey,Missed Jumper,31,21
+7:36,Yale,Blake Reynolds,Defensive Rebound,31,21
+7:23,Harvard,Chris Lewis,Foul,31,21
+7:23,Harvard,None,None,31,21
+7:03,Yale,Blake Reynolds,Turnover,31,21
+6:52,Harvard,Kale Catchings,Three Point Jumper,31,24
+6:26,Yale,Eric Monroe,Turnover,31,24
+6:09,Harvard,Bryce Aiken,Three Point Jumper,31,27
+5:42,Harvard,Kale Catchings,Foul,31,27
+5:42,Yale,Alex Copeland,Free Throw,32,27
+5:42,Yale,Alex Copeland,Free Throw,33,27
+5:27,Harvard,Danilo Djuricic,Three Point Jumper,33,30
+5:14,Harvard,Christian Juzang,Foul,33,30
+5:09,Yale,Azar Swain,Missed Jumper,33,30
+5:09,Yale,Miye Oni,Offensive Rebound,33,30
+5:03,Harvard,Danilo Djuricic,Foul,33,30
+5:03,Yale,Miye Oni,Free Throw,34,30
+5:03,Yale,Miye Oni,Free Throw,35,30
+4:49,Yale,Alex Copeland,Foul,35,30
+4:38,Yale,Miye Oni,Foul,35,30
+4:25,Harvard,Bryce Aiken,Jumper,35,32
+4:14,Yale,Miye Oni,Jumper,37,32
+4:01,Harvard,Rio Haskett,Three Point Jumper,37,35
+3:40,Harvard,None,None,37,35
+3:28,Yale,Jordan Bruner,Missed Three Point Jumper,37,35
+3:28,Harvard,Danilo Djuricic,Defensive Rebound,37,35
+3:16,Yale,Azar Swain,Foul,37,35
+3:16,Harvard,Bryce Aiken,Free Throw,37,36
+3:16,Harvard,Bryce Aiken,Free Throw,37,37
+3:16,Harvard,Bryce Aiken,Free Throw,37,38
+3:03,Yale,Blake Reynolds,Jumper,39,38
+2:48,Harvard,Bryce Aiken,Turnover,39,38
+2:30,Yale,Blake Reynolds,Turnover,39,38
+2:13,Harvard,Bryce Aiken,Three Point Jumper,39,41
+2:00,Yale,Alex Copeland,Jumper,41,41
+1:39,Harvard,Danilo Djuricic,Missed Three Point Jumper,41,41
+1:39,Yale,Miye Oni,Defensive Rebound,41,41
+1:31,Yale,Blake Reynolds,Jumper,43,41
+1:09,Harvard,Justin Bassey,Missed Three Point Jumper,43,41
+1:09,Harvard,Bryce Aiken,Offensive Rebound,43,41
+0:51,Harvard,Danilo Djuricic,Missed Three Point Jumper,43,41
+0:51,Harvard,Chris Lewis,Offensive Rebound,43,41
+0:41,Harvard,Bryce Aiken,Missed Three Point Jumper,43,41
+0:41,Harvard,Bryce Aiken,Offensive Rebound,43,41
+0:27,Yale,Blake Reynolds,Foul,43,41
+0:27,Harvard,None,None,43,41
+0:27,Harvard,Danilo Djuricic,Missed Free Throw,43,41
+0:27,Harvard,None,Team Rebound,43,41
+0:27,Harvard,Danilo Djuricic,Free Throw,43,42
+0:09,Yale,Alex Copeland,Missed Jumper,43,42
+0:09,Harvard,Justin Bassey,Defensive Rebound,43,42
+0:00,Harvard,None,None,43,42
+20:00,Yale,None,None,43,42
+19:47,Yale,Blake Reynolds,Foul,43,42
+19:47,Yale,Blake Reynolds,Turnover,43,42
+19:47,Harvard,Kale Catchings,Missed Free Throw,43,42
+19:47,Harvard,None,Team Rebound,43,42
+19:47,Harvard,Kale Catchings,Free Throw,43,43
+19:32,Harvard,Noah Kirkwood,Jumper,43,45
+19:32,Yale,Miye Oni,Foul,43,45
+19:32,Harvard,Noah Kirkwood,Free Throw,43,46
+19:13,Yale,Blake Reynolds,Missed Jumper,43,46
+19:13,Harvard,Kale Catchings,Defensive Rebound,43,46
+19:09,Yale,Blake Reynolds,Foul,43,46
+18:56,Harvard,Chris Lewis,Turnover,43,46
+18:40,Harvard,Kale Catchings,Foul,43,46
+18:31,Yale,Paul Atkinson,Jumper,45,46
+18:16,Harvard,Christian Juzang,Missed Three Point Jumper,45,46
+18:16,Yale,Jordan Bruner,Defensive Rebound,45,46
+18:08,Yale,Miye Oni,Missed Three Point Jumper,45,46
+18:08,Harvard,Chris Lewis,Defensive Rebound,45,46
+17:59,Harvard,Bryce Aiken,Jumper,45,48
+17:37,Yale,Alex Copeland,Missed Three Point Jumper,45,48
+17:37,Harvard,Chris Lewis,Defensive Rebound,45,48
+17:31,Harvard,Bryce Aiken,Jumper,45,50
+17:26,Yale,None,None,45,50
+17:26,Harvard,None,None,45,50
+17:02,Yale,Miye Oni,Turnover,45,50
+17:02,Harvard,Noah Kirkwood,Steal,45,50
+16:58,Harvard,Noah Kirkwood,Dunk,45,52
+16:44,Yale,Miye Oni,Missed Jumper,45,52
+16:44,Yale,Jordan Bruner,Offensive Rebound,45,52
+16:44,Yale,None,None,47,52
+16:19,Harvard,Noah Kirkwood,Turnover,47,52
+16:19,Yale,Miye Oni,Steal,47,52
+16:10,Harvard,Chris Lewis,Foul,47,52
+16:10,Yale,Paul Atkinson,Free Throw,48,52
+16:10,Yale,Paul Atkinson,Free Throw,49,52
+16:00,Harvard,Kale Catchings,Missed Jumper,49,52
+16:00,Yale,Jordan Bruner,Block,49,52
+16:00,Yale,Yale,Defensive Rebound,49,52
+15:57,Harvard,None,None,49,52
+15:41,Yale,Alex Copeland,Missed Jumper,49,52
+15:41,Yale,Trey Phills,Offensive Rebound,49,52
+15:41,Yale,None,None,51,52
+15:20,Harvard,Bryce Aiken,Missed Three Point Jumper,51,52
+15:20,Yale,Yale,Defensive Rebound,51,52
+14:46,Yale,Miye Oni,Jumper,53,52
+14:22,Harvard,Noah Kirkwood,Missed Jumper,53,52
+14:22,Yale,Miye Oni,Block,53,52
+14:22,Harvard,Chris Lewis,Offensive Rebound,53,52
+14:13,Yale,Miye Oni,Foul,53,52
+14:13,Harvard,Bryce Aiken,Free Throw,53,53
+14:13,Harvard,Bryce Aiken,Free Throw,53,54
+14:00,Harvard,Chris Lewis,Foul,53,54
+14:00,Yale,Trey Phills,Free Throw,54,54
+14:00,Yale,Trey Phills,Free Throw,55,54
+13:41,Harvard,Noah Kirkwood,Foul,55,54
+13:41,Harvard,Noah Kirkwood,Turnover,55,54
+13:25,Yale,Azar Swain,Three Point Jumper,58,54
+13:10,Harvard,Noah Kirkwood,Three Point Jumper,58,57
+13:05,Harvard,None,None,58,57
+12:56,Yale,Azar Swain,Missed Three Point Jumper,58,57
+12:56,Harvard,Harvard,Defensive Rebound,58,57
+12:50,Yale,Jordan Bruner,Foul,58,57
+12:38,Harvard,Bryce Aiken,Missed Jumper,58,57
+12:38,Harvard,Chris Lewis,Offensive Rebound,58,57
+12:32,Harvard,Noah Kirkwood,Missed Layup,58,57
+12:32,Yale,Jordan Bruner,Block,58,57
+12:32,Harvard,Noah Kirkwood,Offensive Rebound,58,57
+12:20,Harvard,Noah Kirkwood,Layup,58,59
+12:05,Harvard,Bryce Aiken,Foul,58,59
+12:02,Yale,Blake Reynolds,Jumper,60,59
+11:45,Harvard,Danilo Djuricic,Missed Three Point Jumper,60,59
+11:45,Yale,Azar Swain,Defensive Rebound,60,59
+11:29,Yale,Trey Phills,Missed Jumper,60,59
+11:29,Harvard,Noah Kirkwood,Defensive Rebound,60,59
+11:07,Harvard,Noah Kirkwood,Missed Three Point Jumper,60,59
+11:07,Harvard,Justin Bassey,Offensive Rebound,60,59
+11:07,Harvard,Justin Bassey,Missed Layup,60,59
+11:07,Yale,Azar Swain,Defensive Rebound,60,59
+10:47,Yale,Alex Copeland,Jumper,62,59
+10:47,Harvard,Christian Juzang,Foul,62,59
+10:47,Harvard,None,None,62,59
+10:47,Yale,Alex Copeland,Free Throw,63,59
+10:39,Harvard,Justin Bassey,Foul,63,59
+10:39,Harvard,Justin Bassey,Turnover,63,59
+10:22,Yale,Alex Copeland,Missed Jumper,63,59
+10:22,Yale,Paul Atkinson,Offensive Rebound,63,59
+10:19,Harvard,Danilo Djuricic,Foul,63,59
+10:19,Yale,Paul Atkinson,Free Throw,64,59
+10:19,Yale,Paul Atkinson,Free Throw,65,59
+10:03,Harvard,Rio Haskett,Missed Jumper,65,59
+10:03,Yale,Blake Reynolds,Defensive Rebound,65,59
+9:46,Harvard,Bryce Aiken,Foul,65,59
+9:46,Yale,Azar Swain,Free Throw,66,59
+9:46,Yale,Azar Swain,Free Throw,67,59
+9:46,Yale,Azar Swain,Free Throw,68,59
+9:33,Harvard,Bryce Aiken,Missed Three Point Jumper,68,59
+9:33,Yale,Paul Atkinson,Defensive Rebound,68,59
+9:23,Yale,Alex Copeland,Jumper,70,59
+9:22,Harvard,None,None,70,59
+8:57,Harvard,Christian Juzang,Missed Jumper,70,59
+8:57,Yale,Azar Swain,Defensive Rebound,70,59
+8:48,Harvard,Noah Kirkwood,Foul,70,59
+8:48,Yale,Alex Copeland,Missed Free Throw,70,59
+8:48,Yale,None,Team Rebound,70,59
+8:48,Yale,Alex Copeland,Free Throw,71,59
+8:34,Harvard,Rio Haskett,Missed Jumper,71,59
+8:34,Yale,Alex Copeland,Defensive Rebound,71,59
+8:28,Yale,Alex Copeland,Jumper,73,59
+8:05,Yale,Paul Atkinson,Foul,73,59
+8:05,Harvard,Bryce Aiken,Free Throw,73,60
+8:05,Harvard,Bryce Aiken,Free Throw,73,61
+7:42,Yale,Azar Swain,Missed Jumper,73,61
+7:42,Harvard,Rio Haskett,Defensive Rebound,73,61
+7:31,Yale,Trey Phills,Foul,73,61
+7:31,Harvard,None,None,73,61
+7:31,Harvard,Bryce Aiken,Free Throw,73,62
+7:31,Harvard,Bryce Aiken,Free Throw,73,63
+7:07,Yale,Trey Phills,Jumper,75,63
+6:52,Harvard,Bryce Aiken,Jumper,75,65
+6:36,Yale,Jordan Bruner,Dunk,77,65
+6:26,Harvard,Bryce Aiken,Three Point Jumper,77,68
+5:58,Yale,Alex Copeland,Jumper,79,68
+5:41,Yale,Paul Atkinson,Foul,79,68
+5:41,Harvard,Noah Kirkwood,Free Throw,79,69
+5:41,Harvard,Noah Kirkwood,Missed Free Throw,79,69
+5:41,Yale,Jordan Bruner,Defensive Rebound,79,69
+5:28,Yale,Alex Copeland,Jumper,81,69
+5:16,Harvard,Danilo Djuricic,Missed Three Point Jumper,81,69
+5:16,Harvard,Bryce Aiken,Offensive Rebound,81,69
+5:10,Harvard,Danilo Djuricic,Jumper,81,71
+5:10,Yale,Blake Reynolds,Foul,81,71
+5:10,Harvard,Danilo Djuricic,Free Throw,81,72
+4:48,Yale,Azar Swain,Three Point Jumper,84,72
+4:36,Harvard,Bryce Aiken,Jumper,84,74
+4:32,Harvard,None,None,84,74
+4:15,Yale,Jordan Bruner,Dunk,86,74
+4:01,Harvard,None,None,86,74
+3:55,Harvard,Bryce Aiken,Missed Three Point Jumper,86,74
+3:55,Harvard,Harvard,Offensive Rebound,86,74
+3:53,Yale,Jordan Bruner,Foul,86,74
+3:53,Harvard,None,None,86,74
+3:53,Harvard,Danilo Djuricic,Missed Free Throw,86,74
+3:53,Harvard,None,Team Rebound,86,74
+3:53,Harvard,Danilo Djuricic,Free Throw,86,75
+3:32,Harvard,Rio Haskett,Foul,86,75
+3:32,Yale,Alex Copeland,Free Throw,87,75
+3:32,Yale,Alex Copeland,Free Throw,88,75
+3:15,Harvard,Justin Bassey,Missed Three Point Jumper,88,75
+3:15,Yale,Yale,Defensive Rebound,88,75
+2:45,Harvard,Justin Bassey,Foul,88,75
+2:45,Yale,Miye Oni,Free Throw,89,75
+2:45,Yale,Miye Oni,Free Throw,90,75
+2:38,Harvard,Bryce Aiken,Missed Jumper,90,75
+2:38,Harvard,Justin Bassey,Offensive Rebound,90,75
+2:38,Harvard,None,None,90,77
+2:23,Harvard,Noah Kirkwood,Foul,90,77
+2:23,Yale,Alex Copeland,Missed Free Throw,90,77
+2:23,Yale,None,Team Rebound,90,77
+2:23,Yale,Alex Copeland,Free Throw,91,77
+2:13,Harvard,Bryce Aiken,Missed Three Point Jumper,91,77
+2:13,Harvard,Kale Catchings,Offensive Rebound,91,77
+2:08,Yale,Jordan Bruner,Foul,91,77
+2:08,Harvard,Kale Catchings,Missed Free Throw,91,77
+2:08,Harvard,None,Team Rebound,91,77
+2:08,Harvard,Kale Catchings,Free Throw,91,78
+2:01,Yale,None,None,91,78
+1:56,Harvard,Justin Bassey,Foul,91,78
+1:56,Yale,Blake Reynolds,Free Throw,92,78
+1:56,Yale,Blake Reynolds,Free Throw,93,78
+1:46,Harvard,Kale Catchings,Missed Three Point Jumper,93,78
+1:46,Yale,Miye Oni,Defensive Rebound,93,78
+1:44,Harvard,Kale Catchings,Foul,93,78
+1:44,Yale,Miye Oni,Free Throw,94,78
+1:44,Yale,Miye Oni,Free Throw,95,78
+1:35,Harvard,Weisner Perez,Jumper,95,80
+1:21,Yale,Miye Oni,Turnover,95,80
+1:13,Harvard,Justin Bassey,Layup,95,82
+1:00,Harvard,Noah Kirkwood,Foul,95,82
+1:00,Yale,Miye Oni,Free Throw,96,82
+1:00,Yale,Miye Oni,Free Throw,97,82
+0:55,Harvard,Christian Juzang,Missed Three Point Jumper,97,82
+0:55,Harvard,Noah Kirkwood,Offensive Rebound,97,82
+0:48,Harvard,Noah Kirkwood,Missed Jumper,97,82
+0:48,Yale,Jordan Bruner,Block,97,82
+0:48,Yale,Blake Reynolds,Defensive Rebound,97,82
+0:26,Yale,None,None,97,82
+0:19,Yale,Thomas Ryan,Missed Three Point Jumper,97,82
+0:19,Harvard,Justin Bassey,Defensive Rebound,97,82
+0:08,Harvard,Noah Kirkwood,Three Point Jumper,97,85
+0:00,Harvard,None,None,97,85

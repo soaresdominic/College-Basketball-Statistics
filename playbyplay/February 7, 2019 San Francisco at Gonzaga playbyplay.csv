@@ -1,0 +1,359 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Gonzaga,None,None,0,0
+19:45,Gonzaga,Rui Hachimura,Missed Jumper,0,0
+19:45,Gonzaga,Brandon Clarke,Offensive Rebound,0,0
+19:45,Gonzaga,None,None,0,2
+19:40,San Francisco,Jordan Ratinho,Foul,0,2
+19:40,Gonzaga,Brandon Clarke,Free Throw,0,3
+19:18,San Francisco,Charles Minlend,Layup,2,3
+18:59,Gonzaga,Josh Perkins,Turnover,2,3
+18:59,San Francisco,Frankie Ferrari,Steal,2,3
+18:54,San Francisco,Nate Renfro,Layup,4,3
+18:37,Gonzaga,Rui Hachimura,Missed Jumper,4,3
+18:37,San Francisco,Nate Renfro,Defensive Rebound,4,3
+18:28,Gonzaga,Corey Kispert,Foul,4,3
+18:24,San Francisco,Charles Minlend,Missed Jumper,4,3
+18:24,Gonzaga,Brandon Clarke,Defensive Rebound,4,3
+18:16,Gonzaga,Josh Perkins,Turnover,4,3
+18:16,San Francisco,Jimbo Lull,Steal,4,3
+18:11,San Francisco,Frankie Ferrari,Layup,6,3
+17:51,Gonzaga,Josh Perkins,Layup,6,5
+17:33,San Francisco,Charles Minlend,Three Point Jumper,9,5
+17:17,Gonzaga,Zach Norvell Jr.,Layup,9,7
+16:47,San Francisco,Nate Renfro,Missed Layup,9,7
+16:47,Gonzaga,Corey Kispert,Defensive Rebound,9,7
+16:36,Gonzaga,Rui Hachimura,Missed Jumper,9,7
+16:36,Gonzaga,Corey Kispert,Offensive Rebound,9,7
+16:33,San Francisco,Charles Minlend,Foul,9,7
+16:33,Gonzaga,Corey Kispert,Free Throw,9,8
+16:33,Gonzaga,Corey Kispert,Free Throw,9,9
+16:21,San Francisco,Matt McCarthy,Missed Jumper,9,9
+16:21,Gonzaga,Brandon Clarke,Defensive Rebound,9,9
+16:13,Gonzaga,Corey Kispert,Missed Three Point Jumper,9,9
+16:13,San Francisco,Matt McCarthy,Defensive Rebound,9,9
+15:55,San Francisco,Jordan Ratinho,Missed Layup,9,9
+15:55,Gonzaga,Corey Kispert,Block,9,9
+15:55,Gonzaga,Josh Perkins,Defensive Rebound,9,9
+15:39,San Francisco,Charles Minlend,Foul,9,9
+15:39,Gonzaga,None,None,9,9
+15:39,Gonzaga,Josh Perkins,Free Throw,9,10
+15:39,Gonzaga,Josh Perkins,Missed Free Throw,9,10
+15:39,San Francisco,Nate Renfro,Defensive Rebound,9,10
+15:22,Gonzaga,Corey Kispert,Foul,9,10
+15:07,San Francisco,Nate Renfro,Missed Layup,9,10
+15:07,Gonzaga,Brandon Clarke,Block,9,10
+15:07,San Francisco,Nate Renfro,Offensive Rebound,9,10
+15:07,San Francisco,Nate Renfro,Layup,11,10
+15:07,Gonzaga,Killian Tillie,Foul,11,10
+15:07,San Francisco,Nate Renfro,Missed Free Throw,11,10
+15:07,Gonzaga,Josh Perkins,Defensive Rebound,11,10
+15:02,Gonzaga,Zach Norvell Jr.,Missed Layup,11,10
+15:02,San Francisco,Nate Renfro,Defensive Rebound,11,10
+14:57,San Francisco,Jordan Ratinho,Missed Layup,11,10
+14:57,Gonzaga,Killian Tillie,Block,11,10
+14:57,San Francisco,San Francisco,Offensive Rebound,11,10
+14:31,San Francisco,Remu Raitanen,Missed Layup,11,10
+14:31,Gonzaga,Gonzaga,Defensive Rebound,11,10
+14:17,Gonzaga,Brandon Clarke,Layup,11,12
+14:17,San Francisco,Matt McCarthy,Foul,11,12
+14:17,Gonzaga,Brandon Clarke,Missed Free Throw,11,12
+14:17,San Francisco,Matt McCarthy,Defensive Rebound,11,12
+14:06,San Francisco,Frankie Ferrari,Missed Jumper,11,12
+14:06,Gonzaga,Brandon Clarke,Defensive Rebound,11,12
+13:51,Gonzaga,Killian Tillie,Missed Jumper,11,12
+13:51,San Francisco,Frankie Ferrari,Defensive Rebound,11,12
+13:44,San Francisco,Frankie Ferrari,Turnover,11,12
+13:33,Gonzaga,Brandon Clarke,Jumper,11,14
+13:15,San Francisco,Matt McCarthy,Missed Layup,11,14
+13:15,Gonzaga,Brandon Clarke,Block,11,14
+13:15,Gonzaga,Killian Tillie,Defensive Rebound,11,14
+12:49,Gonzaga,Rui Hachimura,Jumper,11,16
+12:36,San Francisco,Nate Renfro,Missed Three Point Jumper,11,16
+12:36,Gonzaga,Josh Perkins,Defensive Rebound,11,16
+12:22,San Francisco,None,None,11,16
+12:22,Gonzaga,Josh Perkins,Turnover,11,16
+12:22,San Francisco,Remu Raitanen,Steal,11,16
+12:10,San Francisco,Frankie Ferrari,Layup,13,16
+11:55,Gonzaga,Geno Crandall,Turnover,13,16
+11:55,San Francisco,Frankie Ferrari,Steal,13,16
+11:29,San Francisco,Jamaree Bouyea,Missed Jumper,13,16
+11:29,San Francisco,San Francisco,Offensive Rebound,13,16
+11:26,Gonzaga,None,None,13,16
+11:25,San Francisco,San Francisco ,Turnover,13,16
+11:06,Gonzaga,Geno Crandall,Three Point Jumper,13,19
+10:43,Gonzaga,Zach Norvell Jr.,Foul,13,19
+10:43,San Francisco,Jordan Ratinho,Missed Free Throw,13,19
+10:43,San Francisco,None,Team Rebound,13,19
+10:43,San Francisco,Jordan Ratinho,Missed Free Throw,13,19
+10:43,Gonzaga,Rui Hachimura,Defensive Rebound,13,19
+10:30,Gonzaga,Rui Hachimura,Missed Layup,13,19
+10:30,San Francisco,Taavi Jurkatamm,Block,13,19
+10:30,San Francisco,Jimbo Lull,Defensive Rebound,13,19
+10:21,San Francisco,Frankie Ferrari,Jumper,15,19
+9:58,Gonzaga,Geno Crandall,Missed Layup,15,19
+9:58,San Francisco,Jimbo Lull,Defensive Rebound,15,19
+9:14,San Francisco,San Francisco ,Turnover,15,19
+8:58,Gonzaga,Brandon Clarke,Turnover,15,19
+8:58,San Francisco,Taavi Jurkatamm,Steal,15,19
+8:53,San Francisco,Jamaree Bouyea,Missed Layup,15,19
+8:53,Gonzaga,Zach Norvell Jr.,Block,15,19
+8:53,Gonzaga,Jeremy Jones,Defensive Rebound,15,19
+8:49,Gonzaga,Jeremy Jones,Turnover,15,19
+8:29,San Francisco,Jimbo Lull,Layup,17,19
+8:23,San Francisco,Taavi Jurkatamm,Foul,17,19
+8:11,Gonzaga,Brandon Clarke,Jumper,17,21
+7:53,San Francisco,Jimbo Lull,Turnover,17,21
+7:53,Gonzaga,Geno Crandall,Steal,17,21
+7:47,Gonzaga,Josh Perkins,Missed Three Point Jumper,17,21
+7:47,San Francisco,Jimbo Lull,Defensive Rebound,17,21
+7:22,San Francisco,Jimbo Lull,Jumper,19,21
+7:10,Gonzaga,Rui Hachimura,Missed Jumper,19,21
+7:10,San Francisco,Jordan Ratinho,Defensive Rebound,19,21
+6:59,San Francisco,Jimbo Lull,Missed Jumper,19,21
+6:59,Gonzaga,Rui Hachimura,Defensive Rebound,19,21
+6:44,Gonzaga,Josh Perkins,Layup,19,23
+6:26,San Francisco,Jordan Ratinho,Missed Three Point Jumper,19,23
+6:26,Gonzaga,Brandon Clarke,Defensive Rebound,19,23
+6:18,San Francisco,Jamaree Bouyea,Foul,19,23
+6:18,Gonzaga,None,None,19,23
+6:18,Gonzaga,Rui Hachimura,Free Throw,19,24
+6:18,Gonzaga,Rui Hachimura,Free Throw,19,25
+6:07,San Francisco,Frankie Ferrari,Turnover,19,25
+6:07,Gonzaga,Rui Hachimura,Steal,19,25
+5:52,Gonzaga,Geno Crandall,Three Point Jumper,19,28
+5:31,San Francisco,Nate Renfro,Layup,21,28
+5:21,Gonzaga,Geno Crandall,Missed Three Point Jumper,21,28
+5:21,San Francisco,Frankie Ferrari,Defensive Rebound,21,28
+5:07,San Francisco,Charles Minlend,Layup,23,28
+4:48,Gonzaga,Rui Hachimura,Missed Layup,23,28
+4:48,San Francisco,Matt McCarthy,Defensive Rebound,23,28
+4:40,San Francisco,Charles Minlend,Missed Three Point Jumper,23,28
+4:40,San Francisco,Nate Renfro,Offensive Rebound,23,28
+4:35,San Francisco,Nate Renfro,Layup,25,28
+4:34,Gonzaga,None,None,25,28
+4:24,Gonzaga,Zach Norvell Jr.,Three Point Jumper,25,31
+4:04,San Francisco,Charles Minlend,Missed Layup,25,31
+4:04,Gonzaga,Killian Tillie,Defensive Rebound,25,31
+3:52,Gonzaga,Brandon Clarke,Missed Layup,25,31
+3:52,Gonzaga,Brandon Clarke,Offensive Rebound,25,31
+3:52,Gonzaga,None,None,25,31
+3:52,San Francisco,San Francisco,Defensive Rebound,25,31
+3:48,Gonzaga,None,None,25,31
+3:28,San Francisco,Matt McCarthy,Missed Layup,25,31
+3:28,Gonzaga,Corey Kispert,Block,25,31
+3:28,San Francisco,Matt McCarthy,Offensive Rebound,25,31
+3:28,San Francisco,None,None,27,31
+3:12,Gonzaga,Josh Perkins,Missed Jumper,27,31
+3:12,San Francisco,San Francisco,Defensive Rebound,27,31
+3:06,Gonzaga,Killian Tillie,Foul,27,31
+2:48,San Francisco,Matt McCarthy,Turnover,27,31
+2:33,Gonzaga,Zach Norvell Jr.,Three Point Jumper,27,34
+2:16,San Francisco,Matt McCarthy,Turnover,27,34
+2:16,Gonzaga,Brandon Clarke,Steal,27,34
+2:05,Gonzaga,Zach Norvell Jr.,Layup,27,36
+2:05,San Francisco,None,None,27,36
+1:39,San Francisco,Charles Minlend,Three Point Jumper,30,36
+1:25,Gonzaga,Zach Norvell Jr.,Three Point Jumper,30,39
+1:07,San Francisco,Charles Minlend,Turnover,30,39
+1:07,Gonzaga,Zach Norvell Jr.,Steal,30,39
+1:07,San Francisco,Charles Minlend,Foul,30,39
+1:07,Gonzaga,Zach Norvell Jr.,Free Throw,30,40
+1:07,Gonzaga,Zach Norvell Jr.,Free Throw,30,41
+0:58,Gonzaga,Geno Crandall,Foul,30,41
+0:49,San Francisco,Frankie Ferrari,Missed Jumper,30,41
+0:49,Gonzaga,Brandon Clarke,Defensive Rebound,30,41
+0:40,Gonzaga,Geno Crandall,Turnover,30,41
+0:14,San Francisco,Frankie Ferrari,Missed Jumper,30,41
+0:14,San Francisco,Jordan Ratinho,Offensive Rebound,30,41
+0:06,San Francisco,Frankie Ferrari,Missed Three Point Jumper,30,41
+0:06,Gonzaga,Brandon Clarke,Defensive Rebound,30,41
+0:04,San Francisco,Jordan Ratinho,Foul,30,41
+0:04,Gonzaga,Brandon Clarke,Free Throw,30,42
+0:04,Gonzaga,Brandon Clarke,Free Throw,30,43
+0:00,Gonzaga,None,None,30,43
+20:00,Gonzaga,None,None,30,43
+19:44,San Francisco,Nate Renfro,Foul,30,43
+19:44,Gonzaga,Rui Hachimura,Missed Free Throw,30,43
+19:44,Gonzaga,None,Team Rebound,30,43
+19:44,Gonzaga,Rui Hachimura,Free Throw,30,44
+19:30,San Francisco,Nate Renfro,Missed Jumper,30,44
+19:30,Gonzaga,Brandon Clarke,Block,30,44
+19:30,San Francisco,Frankie Ferrari,Offensive Rebound,30,44
+19:27,San Francisco,Jimbo Lull,Missed Layup,30,44
+19:27,Gonzaga,Brandon Clarke,Defensive Rebound,30,44
+19:16,Gonzaga,Corey Kispert,Missed Three Point Jumper,30,44
+19:16,San Francisco,Jamaree Bouyea,Defensive Rebound,30,44
+18:53,San Francisco,Jordan Ratinho,Missed Three Point Jumper,30,44
+18:53,Gonzaga,Gonzaga,Defensive Rebound,30,44
+18:51,San Francisco,Jimbo Lull,Foul,30,44
+18:40,Gonzaga,Rui Hachimura,Dunk,30,46
+18:21,San Francisco,Nate Renfro,Turnover,30,46
+18:21,Gonzaga,Brandon Clarke,Steal,30,46
+18:20,San Francisco,Frankie Ferrari,Foul,30,46
+18:13,Gonzaga,Brandon Clarke,Dunk,30,48
+17:53,San Francisco,Charles Minlend,Jumper,32,48
+17:41,Gonzaga,Brandon Clarke,Missed Three Point Jumper,32,48
+17:41,San Francisco,Frankie Ferrari,Defensive Rebound,32,48
+17:17,San Francisco,Jimbo Lull,Dunk,34,48
+16:52,Gonzaga,Rui Hachimura,Missed Layup,34,48
+16:52,Gonzaga,Brandon Clarke,Offensive Rebound,34,48
+16:52,San Francisco,Jimbo Lull,Foul,34,48
+16:52,Gonzaga,Brandon Clarke,Missed Free Throw,34,48
+16:52,Gonzaga,None,Team Rebound,34,48
+16:52,Gonzaga,Brandon Clarke,Free Throw,34,49
+16:44,San Francisco,Charles Minlend,Layup,36,49
+16:35,Gonzaga,Josh Perkins,Layup,36,51
+16:21,Gonzaga,Josh Perkins,Foul,36,51
+16:21,San Francisco,Frankie Ferrari,Free Throw,37,51
+16:21,San Francisco,Frankie Ferrari,Free Throw,38,51
+16:11,Gonzaga,Brandon Clarke,Turnover,38,51
+16:11,San Francisco,Frankie Ferrari,Steal,38,51
+16:06,San Francisco,Frankie Ferrari,Three Point Jumper,41,51
+15:45,Gonzaga,Rui Hachimura,Layup,41,53
+15:28,San Francisco,Charles Minlend,Missed Jumper,41,53
+15:28,Gonzaga,Josh Perkins,Defensive Rebound,41,53
+15:21,Gonzaga,Zach Norvell Jr.,Missed Layup,41,53
+15:21,Gonzaga,Brandon Clarke,Offensive Rebound,41,53
+15:21,Gonzaga,None,None,41,55
+15:04,San Francisco,Matt McCarthy,Turnover,41,55
+15:04,Gonzaga,Zach Norvell Jr.,Steal,41,55
+14:59,San Francisco,Frankie Ferrari,Foul,41,55
+14:59,Gonzaga,None,None,41,55
+14:59,Gonzaga,Zach Norvell Jr.,Foul,41,55
+14:59,Gonzaga,Zach Norvell Jr.,Foul,41,55
+14:59,San Francisco,Frankie Ferrari,Foul,41,55
+14:59,San Francisco,Frankie Ferrari,Foul,41,55
+14:59,Gonzaga,Zach Norvell Jr.,Free Throw,41,56
+14:59,Gonzaga,Zach Norvell Jr.,Missed Free Throw,41,56
+14:59,San Francisco,Matt McCarthy,Defensive Rebound,41,56
+14:46,Gonzaga,Josh Perkins,Foul,41,56
+14:44,San Francisco,Charles Minlend,Missed Layup,41,56
+14:44,Gonzaga,Brandon Clarke,Block,41,56
+14:44,San Francisco,Matt McCarthy,Offensive Rebound,41,56
+14:44,San Francisco,Matt McCarthy,Missed Layup,41,56
+14:44,Gonzaga,Geno Crandall,Defensive Rebound,41,56
+14:31,San Francisco,Taavi Jurkatamm,Foul,41,56
+14:31,Gonzaga,Geno Crandall,Free Throw,41,57
+14:31,Gonzaga,Geno Crandall,Free Throw,41,58
+14:20,San Francisco,Frankie Ferrari,Three Point Jumper,44,58
+14:06,Gonzaga,Killian Tillie,Layup,44,60
+13:45,San Francisco,Jordan Ratinho,Missed Jumper,44,60
+13:45,Gonzaga,Brandon Clarke,Block,44,60
+13:43,San Francisco,Taavi Jurkatamm,Offensive Rebound,44,60
+13:43,San Francisco,None,None,44,60
+13:41,San Francisco,Nate Renfro,Missed Layup,44,60
+13:41,Gonzaga,Killian Tillie,Defensive Rebound,44,60
+13:38,Gonzaga,Killian Tillie,Turnover,44,60
+13:38,San Francisco,Frankie Ferrari,Steal,44,60
+13:36,San Francisco,Nate Renfro,Dunk,46,60
+13:11,Gonzaga,Killian Tillie,Jumper,46,62
+12:39,San Francisco,Nate Renfro,Missed Three Point Jumper,46,62
+12:39,Gonzaga,Rui Hachimura,Defensive Rebound,46,62
+12:27,Gonzaga,Josh Perkins,Layup,46,64
+12:10,San Francisco,Nate Renfro,Missed Layup,46,64
+12:10,San Francisco,Jimbo Lull,Offensive Rebound,46,64
+12:07,San Francisco,Jimbo Lull,Jumper,48,64
+11:54,Gonzaga,Brandon Clarke,Missed Jumper,48,64
+11:54,San Francisco,Charles Minlend,Defensive Rebound,48,64
+11:45,San Francisco,Jordan Ratinho,Missed Layup,48,64
+11:45,Gonzaga,Josh Perkins,Defensive Rebound,48,64
+11:36,Gonzaga,Geno Crandall,Jumper,48,66
+11:21,Gonzaga,Geno Crandall,Foul,48,66
+11:21,Gonzaga,None,None,48,66
+10:58,San Francisco,Frankie Ferrari,Missed Three Point Jumper,48,66
+10:58,Gonzaga,Jeremy Jones,Defensive Rebound,48,66
+10:39,San Francisco,Frankie Ferrari,Foul,48,66
+10:39,Gonzaga,Rui Hachimura,Free Throw,48,67
+10:39,Gonzaga,Rui Hachimura,Free Throw,48,68
+10:25,Gonzaga,Brandon Clarke,Foul,48,68
+10:25,San Francisco,Nate Renfro,Missed Free Throw,48,68
+10:25,San Francisco,None,Team Rebound,48,68
+10:25,San Francisco,Nate Renfro,Missed Free Throw,48,68
+10:25,Gonzaga,Rui Hachimura,Defensive Rebound,48,68
+10:09,San Francisco,Dzmitry Ryuny,Foul,48,68
+10:09,Gonzaga,Jeremy Jones,Free Throw,48,69
+10:09,Gonzaga,Jeremy Jones,Free Throw,48,70
+9:46,San Francisco,Jamaree Bouyea,Missed Layup,48,70
+9:46,Gonzaga,Brandon Clarke,Defensive Rebound,48,70
+9:39,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,48,70
+9:39,Gonzaga,Brandon Clarke,Offensive Rebound,48,70
+9:39,Gonzaga,None,None,48,72
+9:15,Gonzaga,None,None,48,72
+9:13,Gonzaga,Zach Norvell Jr.,Foul,48,72
+9:10,San Francisco,Charles Minlend,Missed Jumper,48,72
+9:10,Gonzaga,Brandon Clarke,Defensive Rebound,48,72
+8:46,Gonzaga,Rui Hachimura,Missed Layup,48,72
+8:46,Gonzaga,Corey Kispert,Offensive Rebound,48,72
+8:42,Gonzaga,Corey Kispert,Missed Layup,48,72
+8:42,San Francisco,Charles Minlend,Block,48,72
+8:42,Gonzaga,Corey Kispert,Offensive Rebound,48,72
+8:33,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,48,72
+8:33,San Francisco,Dzmitry Ryuny,Defensive Rebound,48,72
+8:22,San Francisco,Charles Minlend,Missed Three Point Jumper,48,72
+8:22,Gonzaga,Brandon Clarke,Defensive Rebound,48,72
+7:53,Gonzaga,Rui Hachimura,Missed Jumper,48,72
+7:53,San Francisco,Dzmitry Ryuny,Defensive Rebound,48,72
+7:44,San Francisco,Nate Renfro,Missed Three Point Jumper,48,72
+7:44,Gonzaga,Rui Hachimura,Defensive Rebound,48,72
+7:23,Gonzaga,Geno Crandall,Turnover,48,72
+7:23,San Francisco,Nate Renfro,Steal,48,72
+7:18,San Francisco,Jamaree Bouyea,Dunk,50,72
+6:55,Gonzaga,Brandon Clarke,Missed Layup,50,72
+6:55,Gonzaga,Brandon Clarke,Offensive Rebound,50,72
+6:55,Gonzaga,None,None,50,74
+6:36,San Francisco,Charles Minlend,Missed Layup,50,74
+6:36,Gonzaga,Rui Hachimura,Block,50,74
+6:36,San Francisco,Charles Minlend,Offensive Rebound,50,74
+6:23,Gonzaga,Brandon Clarke,Foul,50,74
+6:23,Gonzaga,None,None,50,74
+6:23,San Francisco,Jamaree Bouyea,Missed Free Throw,50,74
+6:23,San Francisco,None,Team Rebound,50,74
+6:23,San Francisco,Jamaree Bouyea,Free Throw,51,74
+6:23,San Francisco,Jamaree Bouyea,Free Throw,52,74
+6:13,Gonzaga,Rui Hachimura,Layup,52,76
+5:46,San Francisco,Matt McCarthy,Missed Jumper,52,76
+5:46,Gonzaga,Geno Crandall,Defensive Rebound,52,76
+5:35,Gonzaga,Filip Petrusev,Missed Jumper,52,76
+5:35,Gonzaga,Corey Kispert,Offensive Rebound,52,76
+5:18,Gonzaga,Rui Hachimura,Jumper,52,78
+4:54,Gonzaga,Filip Petrusev,Foul,52,78
+4:54,San Francisco,Matt McCarthy,Free Throw,53,78
+4:54,San Francisco,Matt McCarthy,Missed Free Throw,53,78
+4:54,Gonzaga,Filip Petrusev,Defensive Rebound,53,78
+4:43,Gonzaga,Geno Crandall,Jumper,53,80
+4:23,San Francisco,Matt McCarthy,Layup,55,80
+4:15,Gonzaga,Jeremy Jones,Missed Layup,55,80
+4:15,Gonzaga,Jeremy Jones,Offensive Rebound,55,80
+4:12,Gonzaga,Corey Kispert,Missed Three Point Jumper,55,80
+4:12,San Francisco,Taavi Jurkatamm,Defensive Rebound,55,80
+4:04,San Francisco,Trevante Anderson,Layup,57,80
+3:46,Gonzaga,Rui Hachimura,Layup,57,82
+3:24,San Francisco,Trevante Anderson,Missed Three Point Jumper,57,82
+3:24,Gonzaga,Filip Petrusev,Defensive Rebound,57,82
+3:12,Gonzaga,Corey Kispert,Missed Jumper,57,82
+3:12,Gonzaga,Corey Kispert,Offensive Rebound,57,82
+3:03,Gonzaga,Corey Kispert,Layup,57,84
+3:03,San Francisco,Matt McCarthy,Foul,57,84
+3:03,Gonzaga,None,None,57,84
+3:03,Gonzaga,Corey Kispert,Free Throw,57,85
+2:54,San Francisco,Trevante Anderson,Turnover,57,85
+2:54,Gonzaga,Jeremy Jones,Steal,57,85
+2:50,Gonzaga,Jeremy Jones,Dunk,57,87
+2:28,San Francisco,Trevante Anderson,Layup,59,87
+2:06,Gonzaga,Jeremy Jones,Missed Layup,59,87
+2:06,San Francisco,Jordan Ratinho,Defensive Rebound,59,87
+1:54,San Francisco,Jimbo Lull,Missed Jumper,59,87
+1:54,Gonzaga,Corey Kispert,Defensive Rebound,59,87
+1:33,Gonzaga,None,None,59,87
+1:28,Gonzaga,Filip Petrusev,Three Point Jumper,59,90
+1:10,San Francisco,Jamaree Bouyea,Turnover,59,90
+1:10,Gonzaga,Filip Petrusev,Steal,59,90
+1:04,San Francisco,Jimbo Lull,Foul,59,90
+1:04,Gonzaga,Filip Petrusev,Free Throw,59,91
+1:04,Gonzaga,Filip Petrusev,Free Throw,59,92
+0:47,San Francisco,Trevante Anderson,Three Point Jumper,62,92
+0:25,Gonzaga,Filip Petrusev,Missed Three Point Jumper,62,92
+0:25,San Francisco,Trevante Anderson,Defensive Rebound,62,92
+0:05,San Francisco,Remu Raitanen,Missed Three Point Jumper,62,92
+0:05,Gonzaga,Greg Foster Jr.,Defensive Rebound,62,92
+0:00,Gonzaga,None,None,62,92

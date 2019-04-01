@@ -1,0 +1,333 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas,None,None,0,0
+19:46,Texas,Matt Coleman III,Three Point Jumper,0,3
+19:31,VCU,Issac Vann,Missed Layup,0,3
+19:31,Texas,Dylan Osetkowski,Defensive Rebound,0,3
+19:20,Texas,Kerwin Roach II,Missed Layup,0,3
+19:20,VCU,Marcus Santos-Silva,Defensive Rebound,0,3
+19:06,VCU,De'Riante Jenkins,Three Point Jumper,3,3
+18:51,VCU,Issac Vann,Foul,3,3
+18:51,Texas,Dylan Osetkowski,Missed Free Throw,3,3
+18:51,Texas,None,Team Rebound,3,3
+18:51,Texas,Dylan Osetkowski,Free Throw,3,4
+18:44,VCU,De'Riante Jenkins,Missed Three Point Jumper,3,4
+18:43,VCU,Marcus Santos-Silva,Offensive Rebound,3,4
+18:39,VCU,Marcus Evans,Missed Three Point Jumper,3,4
+18:38,Texas,Jericho Sims,Defensive Rebound,3,4
+18:11,VCU,Issac Vann,Defensive Rebound,3,4
+18:11,Texas,Dylan Osetkowski,Missed Jumper,3,4
+18:02,VCU,Marcus Santos-Silva,Missed Jumper,3,4
+18:02,Texas,Jericho Sims,Block,3,4
+18:02,Texas,Jase Febres,Defensive Rebound,3,4
+17:45,Texas,Matt Coleman III,Turnover,3,4
+17:45,VCU,Marcus Santos-Silva,Steal,3,4
+17:38,VCU,De'Riante Jenkins,Missed Jumper,3,4
+17:38,VCU,De'Riante Jenkins,Offensive Rebound,3,4
+17:24,VCU,Issac Vann,Missed Three Point Jumper,3,4
+17:24,VCU,VCU,Offensive Rebound,3,4
+17:13,VCU,Marcus Evans,Three Point Jumper,6,4
+17:05,Texas,Kerwin Roach II,Turnover,6,4
+17:05,VCU,Marcus Santos-Silva,Steal,6,4
+16:59,VCU,Marcus Evans,Missed Three Point Jumper,6,4
+16:59,Texas,Jericho Sims,Defensive Rebound,6,4
+16:49,Texas,Jericho Sims,Layup,6,6
+16:39,VCU,De'Riante Jenkins,Missed Jumper,6,6
+16:39,Texas,Kerwin Roach II,Defensive Rebound,6,6
+16:03,Texas,Jericho Sims,Missed Layup,6,6
+16:03,VCU,Marcus Santos-Silva,Block,6,6
+16:03,Texas,Texas,Offensive Rebound,6,6
+15:44,Texas,None,None,6,6
+15:30,Texas,Jaxson Hayes,Dunk,6,8
+15:19,VCU,Marcus Evans,Jumper,8,8
+15:00,Texas,Courtney Ramey,Missed Three Point Jumper,8,8
+15:00,VCU,Marcus Evans,Defensive Rebound,8,8
+14:49,VCU,Mike'L Simms,Missed Three Point Jumper,8,8
+14:49,VCU,Marcus Santos-Silva,Offensive Rebound,8,8
+14:29,VCU,Corey Douglas,Missed Jumper,8,8
+14:29,Texas,Jaxson Hayes,Block,8,8
+14:29,Texas,Elijah Mitrou-Long,Defensive Rebound,8,8
+14:16,Texas,Kamaka Hepa,Three Point Jumper,8,11
+14:15,VCU,Malik Crowfield,Missed Jumper,8,11
+14:15,VCU,Marcus Santos-Silva,Offensive Rebound,8,11
+14:13,Texas,Courtney Ramey,Foul,8,11
+14:13,VCU,Marcus Santos-Silva,Missed Free Throw,8,11
+14:13,VCU,None,Team Rebound,8,11
+14:13,VCU,Marcus Santos-Silva,Free Throw,9,11
+14:07,Texas,Kamaka Hepa,Three Point Jumper,9,14
+13:41,Texas,Jaxson Hayes,Foul,9,14
+13:41,VCU,Vince Williams,Free Throw,10,14
+13:41,VCU,Vince Williams,Missed Free Throw,10,14
+13:41,Texas,Courtney Ramey,Defensive Rebound,10,14
+13:01,Texas,Courtney Ramey,Foul,10,14
+12:47,Texas,Courtney Ramey,Turnover,10,14
+12:46,VCU,Issac Vann,Jumper,12,14
+12:44,Texas,Elijah Mitrou-Long,Missed Three Point Jumper,12,14
+12:44,VCU,VCU,Defensive Rebound,12,14
+12:38,Texas,Jaxson Hayes,Foul,12,14
+12:34,VCU,Michael Gilmore,Missed Three Point Jumper,12,14
+12:34,Texas,Jase Febres,Defensive Rebound,12,14
+12:18,VCU,Michael Gilmore,Foul,12,14
+12:16,Texas,Jericho Sims,Foul,12,14
+12:16,Texas,Jericho Sims,Turnover,12,14
+11:52,VCU,Michael Gilmore,Turnover,12,14
+11:52,VCU,Michael Gilmore,Foul,12,14
+11:51,Texas,None,None,12,14
+11:51,Texas,None,None,12,14
+11:32,Texas,Jase Febres,Missed Jumper,12,14
+11:32,VCU,Corey Douglas,Block,12,14
+11:32,VCU,Marcus Evans,Defensive Rebound,12,14
+11:16,VCU,Corey Douglas,Missed Jumper,12,14
+11:16,VCU,Marcus Evans,Offensive Rebound,12,14
+11:15,Texas,Elijah Mitrou-Long,Foul,12,14
+11:07,VCU,Vince Williams,Missed Jumper,12,14
+11:07,VCU,Corey Douglas,Offensive Rebound,12,14
+10:53,VCU,De'Riante Jenkins,Three Point Jumper,15,14
+10:43,Texas,Jericho Sims,Missed Dunk,15,14
+10:43,VCU,De'Riante Jenkins,Defensive Rebound,15,14
+10:30,VCU,De'Riante Jenkins,Missed Three Point Jumper,15,14
+10:30,Texas,Kerwin Roach II,Defensive Rebound,15,14
+10:21,Texas,Dylan Osetkowski,Missed Layup,15,14
+10:21,VCU,Corey Douglas,Block,15,14
+10:21,VCU,Vince Williams,Defensive Rebound,15,14
+10:16,VCU,Vince Williams,Turnover,15,14
+10:16,Texas,Dylan Osetkowski,Steal,15,14
+10:08,Texas,Jericho Sims,Dunk,15,16
+9:56,VCU,Corey Douglas,Missed Jumper,15,16
+9:56,Texas,Dylan Osetkowski,Defensive Rebound,15,16
+9:42,Texas,Matt Coleman III,Jumper,15,18
+9:32,VCU,De'Riante Jenkins,Missed Jumper,15,18
+9:32,VCU,Issac Vann,Offensive Rebound,15,18
+9:19,VCU,Marcus Evans,Missed Three Point Jumper,15,18
+9:19,Texas,Dylan Osetkowski,Defensive Rebound,15,18
+9:09,Texas,Jericho Sims,Layup,15,20
+8:24,VCU,Sean Mobley,Missed Layup,15,20
+8:24,Texas,Jericho Sims,Defensive Rebound,15,20
+8:01,Texas,Elijah Mitrou-Long,Missed Three Point Jumper,15,20
+8:01,VCU,Mike'L Simms,Defensive Rebound,15,20
+7:39,VCU,De'Riante Jenkins,Three Point Jumper,18,20
+7:21,VCU,Mike'L Simms,Foul,18,20
+7:21,Texas,None,None,18,20
+7:21,Texas,None,None,18,20
+7:12,VCU,De'Riante Jenkins,Foul,18,20
+6:55,Texas,Courtney Ramey,Turnover,18,20
+6:55,VCU,Marcus Santos-Silva,Steal,18,20
+6:54,VCU,De'Riante Jenkins,Turnover,18,20
+6:54,Texas,Dylan Osetkowski,Steal,18,20
+6:32,Texas,Courtney Ramey,Turnover,18,20
+6:24,VCU,Sean Mobley,Foul,18,20
+6:24,VCU,Sean Mobley,Turnover,18,20
+6:05,Texas,Kerwin Roach II,Missed Three Point Jumper,18,20
+6:05,VCU,VCU,Defensive Rebound,18,20
+5:47,Texas,Kamaka Hepa,Foul,18,20
+5:47,VCU,Sean Mobley,Free Throw,19,20
+5:47,VCU,Sean Mobley,Missed Free Throw,19,20
+5:47,Texas,Kerwin Roach II,Defensive Rebound,19,20
+5:27,Texas,Elijah Mitrou-Long,Missed Layup,19,20
+5:27,Texas,Jaxson Hayes,Offensive Rebound,19,20
+5:15,Texas,Jaxson Hayes,Dunk,19,22
+5:09,VCU,Malik Crowfield,Foul,19,22
+5:09,VCU,Malik Crowfield,Turnover,19,22
+4:57,Texas,Kamaka Hepa,Missed Three Point Jumper,19,22
+4:57,Texas,Jaxson Hayes,Offensive Rebound,19,22
+4:47,VCU,Malik Crowfield,Foul,19,22
+4:47,Texas,Elijah Mitrou-Long,Free Throw,19,23
+4:47,Texas,Elijah Mitrou-Long,Free Throw,19,24
+4:22,VCU,Corey Douglas,Missed Jumper,19,24
+4:22,VCU,Marcus Santos-Silva,Offensive Rebound,19,24
+4:20,Texas,Kamaka Hepa,Foul,19,24
+4:20,VCU,Marcus Santos-Silva,Free Throw,20,24
+4:20,VCU,Marcus Santos-Silva,Free Throw,21,24
+4:09,Texas,Kerwin Roach II,Missed Jumper,21,24
+4:09,Texas,Dylan Osetkowski,Offensive Rebound,21,24
+4:09,Texas,None,None,21,26
+3:44,VCU,Issac Vann,Missed Jumper,21,26
+3:44,Texas,Dylan Osetkowski,Defensive Rebound,21,26
+3:15,Texas,Kerwin Roach II,Foul,21,26
+3:15,Texas,Kerwin Roach II,Turnover,21,26
+3:15,Texas,None,None,21,26
+3:00,VCU,De'Riante Jenkins,Missed Three Point Jumper,21,26
+3:00,Texas,Elijah Mitrou-Long,Defensive Rebound,21,26
+2:51,Texas,Elijah Mitrou-Long,Missed Layup,21,26
+2:51,Texas,Texas,Offensive Rebound,21,26
+2:48,Texas,Matt Coleman III,Missed Layup,21,26
+2:48,VCU,Marcus Santos-Silva,Block,21,26
+2:48,Texas,Texas,Offensive Rebound,21,26
+2:34,Texas,Kerwin Roach II,Missed Three Point Jumper,21,26
+2:34,VCU,Marcus Santos-Silva,Defensive Rebound,21,26
+2:11,VCU,Marcus Evans,Missed Jumper,21,26
+2:11,Texas,Elijah Mitrou-Long,Defensive Rebound,21,26
+1:43,Texas,Dylan Osetkowski,Missed Jumper,21,26
+1:43,VCU,Corey Douglas,Block,21,26
+1:43,VCU,Marcus Santos-Silva,Defensive Rebound,21,26
+1:43,VCU,De'Riante Jenkins,Three Point Jumper,24,26
+1:40,Texas,Elijah Mitrou-Long,Turnover,24,26
+1:34,VCU,Marcus Evans,Jumper,26,26
+1:02,VCU,De'Riante Jenkins,Foul,26,26
+1:02,Texas,Kerwin Roach II,Free Throw,26,27
+1:02,Texas,Kerwin Roach II,Free Throw,26,28
+0:56,Texas,Elijah Mitrou-Long,Foul,26,28
+0:56,VCU,Marcus Evans,Free Throw,27,28
+0:56,VCU,Marcus Evans,Free Throw,28,28
+0:56,VCU,Marcus Evans,Free Throw,29,28
+0:46,Texas,Jase Febres,Three Point Jumper,29,31
+0:29,Texas,Jericho Sims,Foul,29,31
+0:29,VCU,Marcus Santos-Silva,Missed Free Throw,29,31
+0:29,VCU,None,Team Rebound,29,31
+0:29,Texas,None,None,29,31
+0:29,VCU,Marcus Santos-Silva,Free Throw,30,31
+0:27,Texas,Jericho Sims,Turnover,30,31
+0:27,VCU,Marcus Evans,Steal,30,31
+0:14,VCU,None,None,30,31
+0:05,Texas,Matt Coleman III,Foul,30,31
+0:05,VCU,Marcus Evans,Free Throw,31,31
+0:05,VCU,Marcus Evans,Free Throw,32,31
+0:00,Texas,None,None,32,31
+20:00,VCU,None,None,32,31
+19:38,VCU,Marcus Evans,Layup,34,31
+19:20,Texas,Dylan Osetkowski,Layup,34,33
+19:01,VCU,Marcus Evans,Missed Three Point Jumper,34,33
+19:01,Texas,Jericho Sims,Defensive Rebound,34,33
+18:49,Texas,Jase Febres,Missed Jumper,34,33
+18:49,VCU,De'Riante Jenkins,Defensive Rebound,34,33
+18:24,VCU,Corey Douglas,Missed Jumper,34,33
+18:24,Texas,Dylan Osetkowski,Defensive Rebound,34,33
+18:03,Texas,Kerwin Roach II,Missed Jumper,34,33
+18:02,Texas,Kerwin Roach II,Offensive Rebound,34,33
+17:58,Texas,Jase Febres,Missed Three Point Jumper,34,33
+17:58,Texas,Jericho Sims,Offensive Rebound,34,33
+17:58,Texas,Matt Coleman III,Layup,34,35
+17:56,Texas,Matt Coleman III,Foul,34,35
+17:45,VCU,Marcus Evans,Turnover,34,35
+17:34,Texas,Jase Febres,Dunk,34,37
+17:25,Texas,Jase Febres,Foul,34,37
+17:21,VCU,Marcus Evans,Missed Three Point Jumper,34,37
+17:21,Texas,Jericho Sims,Defensive Rebound,34,37
+17:05,VCU,Vince Williams,Foul,34,37
+16:53,Texas,Kerwin Roach II,Missed Jumper,34,37
+16:53,VCU,Marcus Santos-Silva,Defensive Rebound,34,37
+16:31,VCU,Marcus Santos-Silva,Foul,34,37
+16:31,VCU,Marcus Santos-Silva,Turnover,34,37
+15:59,Texas,Texas ,Turnover,34,37
+15:59,VCU,None,None,34,37
+15:46,VCU,De'Riante Jenkins,Missed Jumper,34,37
+15:46,VCU,Marcus Santos-Silva,Offensive Rebound,34,37
+15:39,VCU,Marcus Santos-Silva,Layup,36,37
+15:27,VCU,Vince Williams,Foul,36,37
+15:11,Texas,Kamaka Hepa,Missed Three Point Jumper,36,37
+15:11,VCU,Marcus Santos-Silva,Defensive Rebound,36,37
+14:44,VCU,De'Riante Jenkins,Missed Jumper,36,37
+14:44,VCU,Marcus Santos-Silva,Offensive Rebound,36,37
+14:35,VCU,Marcus Santos-Silva,Jumper,38,37
+14:20,Texas,Courtney Ramey,Missed Three Point Jumper,38,37
+14:20,VCU,Marcus Santos-Silva,Defensive Rebound,38,37
+14:00,VCU,Marcus Santos-Silva,Missed Jumper,38,37
+14:00,VCU,P.J. Byrd,Offensive Rebound,38,37
+13:56,Texas,Elijah Mitrou-Long,Foul,38,37
+13:32,VCU,Vince Williams,Turnover,38,37
+13:03,Texas,Jericho Sims,Dunk,38,39
+12:52,VCU,Vince Williams,Layup,40,39
+12:37,VCU,Mike'L Simms,Foul,40,39
+12:30,Texas,Kerwin Roach II,Missed Three Point Jumper,40,39
+12:30,VCU,VCU,Defensive Rebound,40,39
+12:00,VCU,P.J. Byrd,Missed Three Point Jumper,40,39
+12:00,Texas,Matt Coleman III,Defensive Rebound,40,39
+11:43,Texas,Jericho Sims,Layup,40,41
+11:29,Texas,Jericho Sims,Foul,40,41
+11:29,Texas,None,None,40,41
+11:29,VCU,Sean Mobley,Missed Free Throw,40,41
+11:29,VCU,None,Team Rebound,40,41
+11:29,VCU,Sean Mobley,Free Throw,41,41
+11:05,Texas,Kerwin Roach II,Missed Jumper,41,41
+11:05,VCU,Malik Crowfield,Defensive Rebound,41,41
+10:35,VCU,Mike'L Simms,Missed Three Point Jumper,41,41
+10:35,VCU,Michael Gilmore,Offensive Rebound,41,41
+10:27,VCU,Michael Gilmore,Layup,43,41
+10:20,Texas,Kerwin Roach II,Missed Jumper,43,41
+10:20,VCU,Malik Crowfield,Defensive Rebound,43,41
+10:20,Texas,Matt Coleman III,Foul,43,41
+10:00,VCU,Malik Crowfield,Missed Three Point Jumper,43,41
+10:00,Texas,Jase Febres,Defensive Rebound,43,41
+9:46,Texas,Jericho Sims,Dunk,43,43
+9:25,VCU,Mike'L Simms,Missed Layup,43,43
+9:25,VCU,P.J. Byrd,Offensive Rebound,43,43
+9:25,Texas,Dylan Osetkowski,Foul,43,43
+9:20,VCU,Sean Mobley,Jumper,45,43
+9:00,Texas,Jaxson Hayes,Dunk,45,45
+8:32,VCU,Marcus Evans,Missed Three Point Jumper,45,45
+8:32,Texas,Jaxson Hayes,Defensive Rebound,45,45
+8:28,VCU,Sean Mobley,Foul,45,45
+8:19,Texas,Jase Febres,Missed Three Point Jumper,45,45
+8:19,Texas,Courtney Ramey,Offensive Rebound,45,45
+8:13,Texas,Jaxson Hayes,Layup,45,47
+8:12,VCU,Marcus Santos-Silva,Foul,45,47
+7:56,Texas,Jaxson Hayes,Missed Free Throw,45,47
+7:55,VCU,Marcus Santos-Silva,Defensive Rebound,45,47
+7:55,VCU,Marcus Evans,Turnover,45,47
+7:55,Texas,Jaxson Hayes,Steal,45,47
+7:55,Texas,Jaxson Hayes,Missed Layup,45,47
+7:55,Texas,Dylan Osetkowski,Offensive Rebound,45,47
+7:55,Texas,Dylan Osetkowski,Dunk,45,49
+7:33,VCU,Issac Vann,Foul,45,49
+7:33,VCU,Issac Vann,Turnover,45,49
+7:33,Texas,None,None,45,49
+7:27,Texas,Courtney Ramey,Turnover,45,49
+7:09,VCU,Marcus Santos-Silva,Missed Layup,45,49
+7:09,Texas,Dylan Osetkowski,Defensive Rebound,45,49
+6:51,Texas,Dylan Osetkowski,Turnover,45,49
+6:37,VCU,Issac Vann,Missed Three Point Jumper,45,49
+6:37,VCU,Marcus Evans,Offensive Rebound,45,49
+6:30,VCU,Marcus Evans,Missed Three Point Jumper,45,49
+6:30,Texas,Dylan Osetkowski,Defensive Rebound,45,49
+6:13,Texas,Dylan Osetkowski,Turnover,45,49
+6:13,VCU,Marcus Santos-Silva,Steal,45,49
+6:09,Texas,Dylan Osetkowski,Foul,45,49
+6:09,VCU,Marcus Evans,Free Throw,46,49
+6:09,VCU,Marcus Evans,Free Throw,47,49
+5:48,Texas,Dylan Osetkowski,Turnover,47,49
+5:48,VCU,Marcus Santos-Silva,Steal,47,49
+5:21,VCU,Marcus Evans,Missed Three Point Jumper,47,49
+5:21,Texas,Jaxson Hayes,Block,47,49
+5:21,VCU,Marcus Santos-Silva,Offensive Rebound,47,49
+5:12,VCU,Marcus Santos-Silva,Layup,49,49
+4:54,VCU,Vince Williams,Foul,49,49
+4:54,Texas,Dylan Osetkowski,Missed Free Throw,49,49
+4:54,VCU,Marcus Santos-Silva,Defensive Rebound,49,49
+4:40,VCU,Sean Mobley,Three Point Jumper,52,49
+4:33,Texas,None,None,52,49
+4:13,Texas,Jericho Sims,Jumper,52,51
+3:57,VCU,Marcus Santos-Silva,Turnover,52,51
+3:57,Texas,None,None,52,51
+3:43,Texas,Matt Coleman III,Turnover,52,51
+3:29,VCU,Sean Mobley,Missed Three Point Jumper,52,51
+3:29,Texas,Kerwin Roach II,Defensive Rebound,52,51
+3:20,Texas,Courtney Ramey,Turnover,52,51
+2:59,VCU,Marcus Evans,Turnover,52,51
+2:59,Texas,Courtney Ramey,Steal,52,51
+2:54,Texas,Jaxson Hayes,Foul,52,51
+2:54,Texas,Jaxson Hayes,Turnover,52,51
+2:36,Texas,Jericho Sims,Foul,52,51
+2:36,VCU,Issac Vann,Free Throw,53,51
+2:36,VCU,Issac Vann,Free Throw,54,51
+2:12,Texas,Kerwin Roach II,Missed Jumper,54,51
+2:12,VCU,Issac Vann,Block,54,51
+2:12,VCU,VCU,Defensive Rebound,54,51
+2:06,VCU,Marcus Santos-Silva,Turnover,54,51
+1:54,Texas,Jaxson Hayes,Turnover,54,51
+1:54,VCU,De'Riante Jenkins,Steal,54,51
+1:32,VCU,Malik Crowfield,Turnover,54,51
+1:32,Texas,Jaxson Hayes,Steal,54,51
+1:24,Texas,Kerwin Roach II,Layup,54,53
+1:16,VCU,None,None,54,53
+0:53,VCU,De'Riante Jenkins,Missed Jumper,54,53
+0:53,Texas,Jaxson Hayes,Block,54,53
+0:53,VCU,Marcus Santos-Silva,Offensive Rebound,54,53
+0:53,VCU,VCU ,Turnover,54,53
+0:53,Texas,None,None,54,53
+0:41,Texas,Courtney Ramey,Missed Three Point Jumper,54,53
+0:41,VCU,Issac Vann,Defensive Rebound,54,53
+0:13,VCU,De'Riante Jenkins,Missed Jumper,54,53
+0:13,Texas,Courtney Ramey,Defensive Rebound,54,53
+0:06,Texas,None,None,54,53
+0:03,Texas,Matt Coleman III,Missed Three Point Jumper,54,53
+0:03,VCU,Issac Vann,Defensive Rebound,54,53
+0:00,Texas,None,None,54,53

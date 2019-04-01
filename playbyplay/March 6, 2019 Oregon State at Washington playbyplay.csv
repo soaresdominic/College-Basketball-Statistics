@@ -1,0 +1,329 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:41,Oregon State,Stephen Thompson Jr.,Turnover,0,0
+19:22,Washington,Noah Dickerson,Missed Jumper,0,0
+19:19,Oregon State,Kylor Kelley,Defensive Rebound,0,0
+18:56,Washington,Hameir Wright,Foul,0,0
+18:56,Oregon State,Kylor Kelley,Free Throw,1,0
+18:56,Oregon State,Kylor Kelley,Free Throw,2,0
+18:27,Washington,David Crisp,Turnover,2,0
+18:27,Oregon State,Stephen Thompson Jr.,Steal,2,0
+17:58,Oregon State,Gligorije Rakocevic,Missed Jumper,2,0
+17:55,Oregon State,Gligorije Rakocevic,Offensive Rebound,2,0
+17:54,Washington,Jaylen Nowell,Foul,2,0
+17:54,Oregon State,Gligorije Rakocevic,Free Throw,3,0
+17:54,Oregon State,Gligorije Rakocevic,Free Throw,4,0
+17:41,Washington,Hameir Wright,Turnover,4,0
+17:41,Oregon State,Ethan Thompson,Steal,4,0
+17:36,Oregon State,Ethan Thompson,Missed Layup,4,0
+17:33,Washington,Noah Dickerson,Defensive Rebound,4,0
+17:12,Washington,David Crisp,Three Point Jumper,4,3
+17:09,Washington,None,None,4,3
+16:54,Oregon State,Gligorije Rakocevic,Missed Jumper,4,3
+16:48,Oregon State,Kylor Kelley,Offensive Rebound,4,3
+16:48,Oregon State,Kylor Kelley,Layup,6,3
+16:26,Washington,Nahziah Carter,Three Point Jumper,6,6
+15:59,Oregon State,Gligorije Rakocevic,Layup,8,6
+15:43,Washington,David Crisp,Layup,8,8
+15:28,Oregon State,Kylor Kelley,Jumper,10,8
+15:12,Washington,David Crisp,Three Point Jumper,10,11
+14:49,Oregon State,Tres Tinkle,Missed Three Point Jumper,10,11
+14:43,Washington,Noah Dickerson,Defensive Rebound,10,11
+14:32,Washington,Jaylen Nowell,Missed Jumper,10,11
+14:29,Oregon State,Kylor Kelley,Defensive Rebound,10,11
+14:18,Oregon State,Tres Tinkle,Missed Jumper,10,11
+14:15,Washington,Jaylen Nowell,Defensive Rebound,10,11
+13:56,Oregon State,Gligorije Rakocevic,Foul,10,11
+13:56,Washington,None,None,10,11
+13:56,Washington,Noah Dickerson,Missed Free Throw,10,11
+13:56,Washington,Washington,Offensive Rebound,10,11
+13:56,Washington,Noah Dickerson,Free Throw,10,12
+13:41,Oregon State,Ethan Thompson,Turnover,10,12
+13:41,Washington,Sam Timmins,Steal,10,12
+13:12,Washington,Jaylen Nowell,Turnover,10,12
+13:12,Oregon State,Tres Tinkle,Steal,10,12
+12:51,Oregon State,Tres Tinkle,Turnover,10,12
+12:51,Washington,Sam Timmins,Steal,10,12
+12:29,Washington,Matisse Thybulle,Missed Three Point Jumper,10,12
+12:23,Oregon State,Oregon State,Defensive Rebound,10,12
+12:09,Oregon State,Stephen Thompson Jr.,Jumper,12,12
+11:51,Washington,Matisse Thybulle,Three Point Jumper,12,15
+11:35,Oregon State,Tres Tinkle,Turnover,12,15
+11:35,Washington,Matisse Thybulle,Steal,12,15
+11:26,Washington,Jaylen Nowell,Layup,12,17
+11:24,Washington,None,None,12,17
+11:06,Oregon State,Tres Tinkle,Missed Three Point Jumper,12,17
+11:04,Oregon State,Stephen Thompson Jr.,Offensive Rebound,12,17
+10:47,Oregon State,Tres Tinkle,Jumper,14,17
+10:29,Washington,Jaylen Nowell,Missed Three Point Jumper,14,17
+10:25,Washington,Matisse Thybulle,Offensive Rebound,14,17
+10:23,Washington,Dominic Green,Missed Three Point Jumper,14,17
+10:21,Washington,Sam Timmins,Offensive Rebound,14,17
+10:12,Washington,David Crisp,Turnover,14,17
+10:12,Oregon State,Stephen Thompson Jr.,Steal,14,17
+10:03,Oregon State,Stephen Thompson Jr.,Turnover,14,17
+10:03,Washington,Noah Dickerson,Steal,14,17
+9:58,Oregon State,Gligorije Rakocevic,Foul,14,17
+9:43,Washington,Noah Dickerson,Jumper,14,19
+9:20,Oregon State,Alfred Hollins,Missed Jumper,14,19
+9:17,Oregon State,Warren Washington,Offensive Rebound,14,19
+9:16,Oregon State,Warren Washington,Turnover,14,19
+9:16,Washington,Noah Dickerson,Steal,14,19
+9:12,Washington,David Crisp,Three Point Jumper,14,22
+9:11,Oregon State,None,None,14,22
+8:52,Washington,Noah Dickerson,Foul,14,22
+8:52,Oregon State,Tres Tinkle,Free Throw,15,22
+8:52,Oregon State,Tres Tinkle,Missed Free Throw,15,22
+8:51,Washington,Noah Dickerson,Defensive Rebound,15,22
+8:29,Washington,Noah Dickerson,Missed Layup,15,22
+8:27,Oregon State,Warren Washington,Defensive Rebound,15,22
+8:04,Oregon State,Stephen Thompson Jr.,Missed Jumper,15,22
+8:02,Oregon State,Tres Tinkle,Offensive Rebound,15,22
+8:00,Oregon State,Tres Tinkle,Layup,17,22
+7:33,Washington,Noah Dickerson,Jumper,17,24
+7:06,Oregon State,Zach Reichle,Turnover,17,24
+7:06,Washington,Matisse Thybulle,Steal,17,24
+7:03,Washington,Matisse Thybulle,Dunk,17,26
+6:36,Washington,Dominic Green,Foul,17,26
+6:36,Washington,None,None,17,26
+6:23,Oregon State,Ethan Thompson,Three Point Jumper,20,26
+6:02,Washington,Jaylen Nowell,Three Point Jumper,20,29
+5:42,Oregon State,Ethan Thompson,Three Point Jumper,23,29
+5:19,Washington,Noah Dickerson,Turnover,23,29
+5:07,Oregon State,Tres Tinkle,Missed Jumper,23,29
+5:07,Washington,Hameir Wright,Block,23,29
+5:04,Washington,Noah Dickerson,Defensive Rebound,23,29
+5:02,Oregon State,Antoine Vernon,Foul,23,29
+4:53,Washington,Nahziah Carter,Missed Three Point Jumper,23,29
+4:49,Oregon State,Stephen Thompson Jr.,Defensive Rebound,23,29
+4:43,Oregon State,Tres Tinkle,Layup,25,29
+4:26,Washington,David Crisp,Turnover,25,29
+4:06,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,25,29
+4:01,Washington,Noah Dickerson,Defensive Rebound,25,29
+3:40,Washington,Noah Dickerson,Turnover,25,29
+3:40,Washington,None,None,25,29
+3:17,Oregon State,Antoine Vernon,Missed Jumper,25,29
+3:15,Washington,Jaylen Nowell,Defensive Rebound,25,29
+3:15,Oregon State,Antoine Vernon,Foul,25,29
+3:00,Oregon State,Kylor Kelley,Foul,25,29
+2:52,Washington,Hameir Wright,Missed Three Point Jumper,25,29
+2:49,Washington,Noah Dickerson,Offensive Rebound,25,29
+2:42,Washington,Hameir Wright,Missed Dunk,25,29
+2:42,Oregon State,Kylor Kelley,Block,25,29
+2:38,Washington,Noah Dickerson,Offensive Rebound,25,29
+2:37,Washington,Noah Dickerson,Dunk,25,31
+2:13,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,25,31
+2:09,Washington,Noah Dickerson,Defensive Rebound,25,31
+1:51,Washington,Noah Dickerson,Missed Layup,25,31
+1:48,Oregon State,Tres Tinkle,Defensive Rebound,25,31
+1:40,Oregon State,Stephen Thompson Jr.,Jumper,27,31
+1:18,Oregon State,Kylor Kelley,Foul,27,31
+1:18,Washington,Noah Dickerson,Missed Free Throw,27,31
+1:18,Washington,Washington,Offensive Rebound,27,31
+1:18,Washington,Noah Dickerson,Missed Free Throw,27,31
+1:17,Oregon State,Ethan Thompson,Defensive Rebound,27,31
+1:06,Oregon State,Tres Tinkle,Missed Layup,27,31
+1:06,Washington,Hameir Wright,Block,27,31
+1:03,Oregon State,Kylor Kelley,Offensive Rebound,27,31
+1:02,Oregon State,Kylor Kelley,Dunk,29,31
+0:41,Washington,Noah Dickerson,Missed Jumper,29,31
+0:38,Oregon State,Tres Tinkle,Defensive Rebound,29,31
+0:27,Oregon State,Ethan Thompson,Turnover,29,31
+0:24,Washington,Nahziah Carter,Layup,29,33
+0:24,Oregon State,Stephen Thompson Jr.,Foul,29,33
+0:24,Washington,Nahziah Carter,Missed Free Throw,29,33
+0:24,Oregon State,Tres Tinkle,Defensive Rebound,29,33
+0:01,Washington,David Crisp,Foul,29,33
+0:00,Oregon State,Tres Tinkle,Three Point Jumper,32,33
+0:00,Washington,None,None,29,33
+19:52,Oregon State,Gligorije Rakocevic,Foul,32,33
+19:47,Washington,Jaylen Nowell,Three Point Jumper,32,36
+19:23,Oregon State,Kylor Kelley,Dunk,34,36
+19:01,Washington,David Crisp,Jumper,34,38
+18:42,Oregon State,Kylor Kelley,Layup,36,38
+18:41,Washington,Hameir Wright,Foul,36,38
+18:41,Oregon State,Kylor Kelley,Missed Free Throw,36,38
+18:40,Washington,Sam Timmins,Defensive Rebound,36,38
+18:25,Washington,Jaylen Nowell,Missed Jumper,36,38
+18:19,Oregon State,Kylor Kelley,Defensive Rebound,36,38
+18:13,Oregon State,Tres Tinkle,Missed Three Point Jumper,36,38
+18:05,Washington,Noah Dickerson,Defensive Rebound,36,38
+17:59,Washington,Noah Dickerson,Turnover,36,38
+17:59,Oregon State,Kylor Kelley,Steal,36,38
+17:55,Oregon State,Kylor Kelley,Layup,38,38
+17:33,Oregon State,Stephen Thompson Jr.,Foul,38,38
+17:33,Washington,David Crisp,Free Throw,38,39
+17:33,Washington,David Crisp,Free Throw,38,40
+17:33,Washington,David Crisp,Free Throw,38,41
+17:15,Oregon State,Tres Tinkle,Missed Jumper,38,41
+17:13,Washington,Dominic Green,Defensive Rebound,38,41
+16:56,Washington,Dominic Green,Three Point Jumper,38,44
+16:25,Oregon State,Antoine Vernon,Three Point Jumper,41,44
+16:00,Washington,David Crisp,Missed Three Point Jumper,41,44
+15:55,Oregon State,Kylor Kelley,Defensive Rebound,41,44
+15:32,Oregon State,Stephen Thompson Jr.,Three Point Jumper,44,44
+15:03,Washington,Jaylen Nowell,Missed Jumper,44,44
+14:59,Washington,Sam Timmins,Offensive Rebound,44,44
+14:52,Washington,Dominic Green,Missed Three Point Jumper,44,44
+14:48,Oregon State,Kylor Kelley,Defensive Rebound,44,44
+14:38,Oregon State,Kylor Kelley,Layup,46,44
+14:14,Washington,Nahziah Carter,Jumper,46,46
+13:53,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,46,46
+13:48,Washington,Jaylen Nowell,Defensive Rebound,46,46
+13:31,Washington,Nahziah Carter,Turnover,46,46
+13:31,Washington,None,None,46,46
+13:22,Oregon State,Tres Tinkle,Turnover,46,46
+13:05,Washington,Jaylen Nowell,Jumper,46,48
+12:48,Oregon State,Ethan Thompson,Missed Three Point Jumper,46,48
+12:45,Washington,Noah Dickerson,Defensive Rebound,46,48
+12:33,Washington,Noah Dickerson,Layup,46,50
+12:07,Oregon State,Kylor Kelley,Missed Jumper,46,50
+12:05,Oregon State,Tres Tinkle,Offensive Rebound,46,50
+12:04,Oregon State,Tres Tinkle,Layup,48,50
+11:47,Washington,None,None,48,50
+11:40,Washington,Matisse Thybulle,Three Point Jumper,48,53
+11:06,Oregon State,Ethan Thompson,Missed Jumper,48,53
+11:06,Washington,Matisse Thybulle,Block,48,53
+11:03,Oregon State,Gligorije Rakocevic,Offensive Rebound,48,53
+11:02,Oregon State,Gligorije Rakocevic,Missed Layup,48,53
+11:02,Washington,Noah Dickerson,Block,48,53
+10:57,Washington,Jaylen Nowell,Defensive Rebound,48,53
+10:38,Washington,Matisse Thybulle,Missed Three Point Jumper,48,53
+10:37,Oregon State,Oregon State,Defensive Rebound,48,53
+10:37,Washington,Nahziah Carter,Foul,48,53
+10:22,Oregon State,Tres Tinkle,Missed Jumper,48,53
+10:19,Oregon State,Tres Tinkle,Offensive Rebound,48,53
+10:13,Oregon State,Gligorije Rakocevic,Missed Jumper,48,53
+10:10,Oregon State,Tres Tinkle,Offensive Rebound,48,53
+10:08,Oregon State,Tres Tinkle,Missed Jumper,48,53
+10:08,Washington,Noah Dickerson,Block,48,53
+10:07,Washington,Noah Dickerson,Defensive Rebound,48,53
+10:07,Washington,Noah Dickerson,Turnover,48,53
+9:49,Washington,Dominic Green,Foul,48,53
+9:31,Oregon State,Ethan Thompson,Turnover,48,53
+9:10,Washington,Nahziah Carter,Missed Jumper,48,53
+9:07,Washington,Noah Dickerson,Offensive Rebound,48,53
+9:07,Oregon State,Gligorije Rakocevic,Foul,48,53
+8:51,Oregon State,Warren Washington,Foul,48,53
+8:51,Washington,Matisse Thybulle,Free Throw,48,54
+8:51,Washington,Matisse Thybulle,Missed Free Throw,48,54
+8:49,Oregon State,Oregon State,Defensive Rebound,48,54
+8:37,Oregon State,Warren Washington,Turnover,48,54
+8:37,Washington,Dominic Green,Steal,48,54
+8:21,Washington,Nahziah Carter,Missed Jumper,48,54
+8:19,Oregon State,Ethan Thompson,Defensive Rebound,48,54
+7:52,Oregon State,Ethan Thompson,Jumper,50,54
+7:29,Washington,David Crisp,Missed Three Point Jumper,50,54
+7:25,Oregon State,Stephen Thompson Jr.,Defensive Rebound,50,54
+7:04,Oregon State,Zach Reichle,Three Point Jumper,53,54
+7:03,Washington,Sam Timmins,Foul,53,54
+7:03,Washington,None,None,53,54
+7:03,Oregon State,Zach Reichle,Free Throw,54,54
+6:38,Oregon State,Warren Washington,Foul,54,54
+6:38,Washington,Noah Dickerson,Free Throw,54,55
+6:38,Washington,Noah Dickerson,Free Throw,54,56
+6:14,Oregon State,Zach Reichle,Missed Jumper,54,56
+6:14,Washington,Matisse Thybulle,Block,54,56
+6:12,Washington,Jaylen Nowell,Defensive Rebound,54,56
+6:08,Washington,Jaylen Nowell,Jumper,54,58
+5:42,Oregon State,None,None,54,58
+5:36,Oregon State,Oregon State ,Turnover,54,58
+5:21,Washington,Noah Dickerson,Foul,54,58
+5:21,Washington,Noah Dickerson,Turnover,54,58
+5:01,Oregon State,Tres Tinkle,Missed Jumper,54,58
+5:01,Washington,Hameir Wright,Block,54,58
+4:58,Washington,Hameir Wright,Defensive Rebound,54,58
+4:44,Washington,Noah Dickerson,Missed Jumper,54,58
+4:44,Oregon State,Kylor Kelley,Block,54,58
+4:40,Oregon State,Kylor Kelley,Defensive Rebound,54,58
+4:37,Oregon State,Tres Tinkle,Turnover,54,58
+4:37,Washington,Matisse Thybulle,Steal,54,58
+4:32,Oregon State,Kylor Kelley,Foul,54,58
+4:32,Washington,Noah Dickerson,Free Throw,54,59
+4:32,Washington,Noah Dickerson,Free Throw,54,60
+4:19,Washington,Noah Dickerson,Foul,54,60
+4:19,Oregon State,Tres Tinkle,Free Throw,55,60
+4:19,Oregon State,Tres Tinkle,Free Throw,56,60
+4:01,Washington,Jaylen Nowell,Missed Jumper,56,60
+3:59,Washington,Noah Dickerson,Offensive Rebound,56,60
+3:55,Oregon State,Kylor Kelley,Foul,56,60
+3:55,Washington,None,None,56,60
+3:55,Washington,Jaylen Nowell,Missed Free Throw,56,60
+3:55,Washington,Washington,Offensive Rebound,56,60
+3:55,Washington,Jaylen Nowell,Missed Free Throw,56,60
+3:54,Oregon State,Kylor Kelley,Defensive Rebound,56,60
+3:31,Oregon State,Zach Reichle,Missed Three Point Jumper,56,60
+3:28,Oregon State,Tres Tinkle,Offensive Rebound,56,60
+3:26,Washington,Jaylen Nowell,Foul,56,60
+3:26,Oregon State,Tres Tinkle,Free Throw,57,60
+3:26,Oregon State,Tres Tinkle,Free Throw,58,60
+3:20,Oregon State,Tres Tinkle,Foul,58,60
+3:20,Washington,Jaylen Nowell,Free Throw,58,61
+3:20,Washington,Jaylen Nowell,Free Throw,58,62
+2:54,Washington,Jaylen Nowell,Foul,58,62
+2:54,Oregon State,Tres Tinkle,Missed Free Throw,58,62
+2:54,Oregon State,Oregon State,Offensive Rebound,58,62
+2:54,Oregon State,Tres Tinkle,Free Throw,59,62
+2:27,Washington,Jaylen Nowell,Missed Three Point Jumper,59,62
+2:24,Oregon State,Tres Tinkle,Defensive Rebound,59,62
+2:17,Oregon State,Tres Tinkle,Three Point Jumper,62,62
+1:57,Washington,David Crisp,Layup,62,64
+1:35,Washington,David Crisp,Foul,62,64
+1:35,Oregon State,Stephen Thompson Jr.,Free Throw,63,64
+1:35,Oregon State,Stephen Thompson Jr.,Free Throw,64,64
+1:35,Oregon State,None,None,64,64
+1:10,Washington,Noah Dickerson,Layup,64,66
+0:53,Oregon State,Tres Tinkle,Layup,66,66
+0:53,Washington,Noah Dickerson,Foul,66,66
+0:53,Oregon State,Tres Tinkle,Missed Free Throw,66,66
+0:51,Washington,Noah Dickerson,Defensive Rebound,66,66
+0:41,Washington,None,None,66,66
+0:23,Washington,Matisse Thybulle,Missed Three Point Jumper,66,66
+0:22,Washington,Noah Dickerson,Offensive Rebound,66,66
+0:22,Washington,Washington ,Turnover,66,66
+0:22,Oregon State,None,None,66,66
+0:01,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,66,66
+0:01,Oregon State,Oregon State,Offensive Rebound,66,66
+0:00,Washington,None,None,66,66
+4:35,Oregon State,Zach Reichle,Missed Jumper,66,66
+4:32,Oregon State,Zach Reichle,Offensive Rebound,66,66
+4:30,Oregon State,Zach Reichle,Turnover,66,66
+4:30,Washington,Hameir Wright,Steal,66,66
+4:17,Washington,Noah Dickerson,Jumper,66,68
+3:57,Washington,Jaylen Nowell,Foul,66,68
+3:57,Oregon State,Ethan Thompson,Free Throw,67,68
+3:57,Oregon State,Ethan Thompson,Missed Free Throw,67,68
+3:56,Washington,Noah Dickerson,Defensive Rebound,67,68
+3:34,Washington,Noah Dickerson,Dunk,67,70
+3:03,Oregon State,Tres Tinkle,Jumper,69,70
+2:36,Oregon State,Stephen Thompson Jr.,Foul,69,70
+2:36,Washington,Jaylen Nowell,Free Throw,69,71
+2:36,Washington,Jaylen Nowell,Free Throw,69,72
+2:13,Oregon State,Stephen Thompson Jr.,Missed Jumper,69,72
+2:11,Washington,Noah Dickerson,Defensive Rebound,69,72
+1:45,Washington,Noah Dickerson,Jumper,69,74
+1:42,Washington,None,None,69,74
+1:19,Oregon State,Tres Tinkle,Three Point Jumper,72,74
+1:17,Oregon State,None,None,72,74
+0:49,Washington,David Crisp,Three Point Jumper,72,77
+0:30,Washington,Matisse Thybulle,Foul,72,77
+0:30,Oregon State,Tres Tinkle,Free Throw,73,77
+0:30,Oregon State,Tres Tinkle,Free Throw,74,77
+0:29,Oregon State,Ethan Thompson,Foul,74,77
+0:29,Washington,David Crisp,Missed Free Throw,74,77
+0:29,Washington,Washington,Offensive Rebound,74,77
+0:29,Washington,David Crisp,Free Throw,74,78
+0:13,Oregon State,Stephen Thompson Jr.,Turnover,74,78
+0:13,Washington,Matisse Thybulle,Steal,74,78
+0:13,Oregon State,Warren Washington,Foul,74,78
+0:13,Washington,Noah Dickerson,Missed Free Throw,74,78
+0:13,Washington,Washington,Offensive Rebound,74,78
+0:13,Washington,Noah Dickerson,Free Throw,74,79
+0:06,Oregon State,Stephen Thompson Jr.,Missed Three Point Jumper,74,79
+0:06,Washington,Hameir Wright,Block,74,79
+0:04,Oregon State,Tres Tinkle,Offensive Rebound,74,79
+0:03,Oregon State,Tres Tinkle,Layup,76,79
+0:03,Oregon State,Ethan Thompson,Foul,76,79
+0:03,Washington,Jaylen Nowell,Free Throw,76,80
+0:03,Washington,Jaylen Nowell,Free Throw,76,81
+0:00,Washington,None,None,74,79
+0:00,Washington,None,None,76,81

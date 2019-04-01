@@ -1,0 +1,298 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,Harvard,Danilo Djuricic,Layup,2,0
+19:27,UMass,Luwane Pipkins,Turnover,2,0
+19:01,Harvard,Rio Haskett,Missed Three Point Jumper,2,0
+19:01,UMass,Jonathan Laurent,Defensive Rebound,2,0
+18:47,Harvard,Chris Lewis,Foul,2,0
+18:34,UMass,Jonathan Laurent,Missed Layup,2,0
+18:34,Harvard,Danilo Djuricic,Defensive Rebound,2,0
+18:17,Harvard,Chris Lewis,Jumper,4,0
+17:57,UMass,Rashaan Holloway,Layup,4,2
+17:45,Harvard,Justin Bassey,Jumper,6,2
+17:19,UMass,Luwane Pipkins,Three Point Jumper,6,5
+17:05,Harvard,Danilo Djuricic,Layup,8,5
+16:48,UMass,Carl Pierre,Turnover,8,5
+16:29,Harvard,Chris Lewis,Layup,10,5
+16:14,UMass,Curtis Cobb,Layup,10,7
+16:03,Harvard,Danilo Djuricic,Missed Layup,10,7
+16:03,UMass,Rashaan Holloway,Defensive Rebound,10,7
+15:53,UMass,Luwane Pipkins,Missed Three Point Jumper,10,7
+15:53,Harvard,Justin Bassey,Defensive Rebound,10,7
+15:45,Harvard,Danilo Djuricic,Three Point Jumper,13,7
+15:25,Harvard,Justin Bassey,Foul,13,7
+15:25,UMass,None,None,13,7
+15:25,UMass,Luwane Pipkins,Free Throw,13,8
+15:25,UMass,Luwane Pipkins,Free Throw,13,9
+15:00,Harvard,Rio Haskett,Turnover,13,9
+14:47,UMass,Luwane Pipkins,Jumper,13,11
+14:25,Harvard,Henry Welsh,Missed Layup,13,11
+14:25,Harvard,Rio Haskett,Offensive Rebound,13,11
+14:03,Harvard,Rio Haskett,Three Point Jumper,16,11
+13:39,UMass,Curtis Cobb,Missed Jumper,16,11
+13:39,Harvard,Rio Haskett,Defensive Rebound,16,11
+13:23,Harvard,Spencer Freedman,Turnover,16,11
+13:23,UMass,Luwane Pipkins,Steal,16,11
+13:10,UMass,Luwane Pipkins,Jumper,16,13
+12:59,Harvard,Spencer Freedman,Missed Three Point Jumper,16,13
+12:59,UMass,Keon Clergeot,Defensive Rebound,16,13
+12:57,Harvard,Justin Bassey,Foul,16,13
+12:32,UMass,Carl Pierre,Missed Jumper,16,13
+12:32,Harvard,Justin Bassey,Defensive Rebound,16,13
+12:14,Harvard,Noah Kirkwood,Missed Layup,16,13
+12:14,Harvard,Robert Baker,Offensive Rebound,16,13
+12:09,Harvard,Robert Baker,Layup,18,13
+12:01,UMass,Sy Chatman,Layup,18,15
+11:29,Harvard,Justin Bassey,Foul,18,15
+11:29,Harvard,Justin Bassey,Turnover,18,15
+11:29,UMass,None,None,18,15
+11:14,UMass,Rashaan Holloway,Layup,18,17
+10:37,Harvard,Christian Juzang,Missed Three Point Jumper,18,17
+10:37,UMass,Luwane Pipkins,Defensive Rebound,18,17
+10:33,UMass,Luwane Pipkins,Missed Layup,18,17
+10:33,Harvard,Noah Kirkwood,Defensive Rebound,18,17
+10:26,UMass,Samba Diallo,Foul,18,17
+10:22,Harvard,Chris Lewis,Missed Layup,18,17
+10:22,UMass,None,Team Rebound,18,17
+10:20,UMass,Jonathan Laurent,Free Throw,18,18
+10:20,Harvard,Danilo Djuricic,Foul,18,17
+10:20,UMass,Jonathan Laurent,Missed Free Throw,18,18
+10:20,UMass,None,Team Rebound,18,18
+9:55,UMass,Carl Pierre,Missed Three Point Jumper,18,18
+9:55,Harvard,Danilo Djuricic,Defensive Rebound,18,18
+9:47,Harvard,Christian Juzang,Missed Three Point Jumper,18,18
+9:47,UMass,Keon Clergeot,Defensive Rebound,18,18
+9:38,UMass,Keon Clergeot,Foul,18,18
+9:38,UMass,Keon Clergeot,Turnover,18,18
+9:13,Harvard,Danilo Djuricic,Three Point Jumper,21,18
+8:45,UMass,Jonathan Laurent,Missed Layup,21,18
+8:45,UMass,Jonathan Laurent,Offensive Rebound,21,18
+8:42,UMass,Jonathan Laurent,Missed Layup,21,18
+8:42,Harvard,Chris Lewis,Block,21,18
+8:39,Harvard,Chris Lewis,Defensive Rebound,21,18
+8:14,Harvard,Noah Kirkwood,Layup,23,18
+7:56,UMass,Luwane Pipkins,Three Point Jumper,23,21
+7:41,Harvard,Noah Kirkwood,Missed Layup,23,21
+7:41,UMass,Rashaan Holloway,Defensive Rebound,23,21
+7:36,Harvard,Chris Lewis,Foul,23,21
+7:36,UMass,None,None,23,21
+7:23,UMass,Luwane Pipkins,Missed Three Point Jumper,23,21
+7:23,UMass,Sy Chatman,Offensive Rebound,23,21
+7:19,Harvard,Danilo Djuricic,Foul,23,21
+7:19,UMass,Sy Chatman,Free Throw,23,22
+7:19,UMass,Sy Chatman,Free Throw,23,23
+6:52,Harvard,Rio Haskett,Missed Three Point Jumper,23,23
+6:52,Harvard,Henry Welsh,Offensive Rebound,23,23
+6:36,UMass,Luwane Pipkins,Foul,23,23
+6:28,Harvard,Henry Welsh,Layup,25,23
+6:06,UMass,Carl Pierre,Missed Three Point Jumper,25,23
+6:06,Harvard,Henry Welsh,Defensive Rebound,25,23
+5:58,Harvard,Corey Johnson,Missed Layup,25,23
+5:58,UMass,Sy Chatman,Block,25,23
+5:55,UMass,Luwane Pipkins,Defensive Rebound,25,23
+5:40,UMass,Samba Diallo,Missed Layup,25,23
+5:40,Harvard,Robert Baker,Defensive Rebound,25,23
+5:32,Harvard,Noah Kirkwood,Layup,27,23
+5:32,UMass,Carl Pierre,Foul,27,23
+5:32,Harvard,Noah Kirkwood,Missed Free Throw,27,23
+5:32,UMass,Rashaan Holloway,Defensive Rebound,27,23
+5:15,UMass,Luwane Pipkins,Layup,27,25
+5:02,Harvard,Corey Johnson,Missed Three Point Jumper,27,25
+5:02,Harvard,Christian Juzang,Offensive Rebound,27,25
+4:52,Harvard,Christian Juzang,Jumper,29,25
+4:28,UMass,Carl Pierre,Missed Layup,29,25
+4:28,UMass,Rashaan Holloway,Offensive Rebound,29,25
+4:25,UMass,Rashaan Holloway,Missed Layup,29,25
+4:25,Harvard,Robert Baker,Block,29,25
+4:22,UMass,Carl Pierre,Offensive Rebound,29,25
+4:19,UMass,Rashaan Holloway,Layup,29,27
+4:09,Harvard,Henry Welsh,Missed Three Point Jumper,29,27
+4:09,UMass,UMass,Defensive Rebound,29,27
+3:52,UMass,Samba Diallo,Foul,29,27
+3:52,UMass,Samba Diallo,Turnover,29,27
+3:52,UMass,None,None,29,27
+3:35,Harvard,Robert Baker,Layup,31,27
+3:13,UMass,Jonathan Laurent,Turnover,31,27
+2:51,Harvard,Robert Baker,Missed Layup,31,27
+2:51,UMass,Rashaan Holloway,Block,31,27
+2:48,UMass,Rashaan Holloway,Defensive Rebound,31,27
+2:44,UMass,Curtis Cobb,Missed Three Point Jumper,31,27
+2:44,Harvard,Henry Welsh,Defensive Rebound,31,27
+2:27,Harvard,Noah Kirkwood,Three Point Jumper,34,27
+2:01,UMass,Luwane Pipkins,Layup,34,29
+1:43,Harvard,Henry Welsh,Layup,36,29
+1:36,UMass,None,None,36,29
+1:21,UMass,Rashaan Holloway,Missed Layup,36,29
+1:21,Harvard,Noah Kirkwood,Defensive Rebound,36,29
+1:11,Harvard,Henry Welsh,Three Point Jumper,39,29
+0:50,UMass,Keon Clergeot,Missed Three Point Jumper,39,29
+0:50,Harvard,Rio Haskett,Defensive Rebound,39,29
+0:41,Harvard,Noah Kirkwood,Turnover,39,29
+0:38,UMass,Luwane Pipkins,Steal,39,29
+0:36,UMass,Luwane Pipkins,Layup,39,31
+0:04,Harvard,Noah Kirkwood,Foul,39,31
+0:04,Harvard,Noah Kirkwood,Turnover,39,31
+0:00,UMass,None,None,39,31
+19:51,UMass,Luwane Pipkins,Turnover,39,31
+19:39,Harvard,Chris Lewis,Layup,41,31
+19:19,UMass,Jonathan Laurent,Three Point Jumper,41,34
+18:58,Harvard,Justin Bassey,Missed Three Point Jumper,41,34
+18:58,Harvard,Christian Juzang,Offensive Rebound,41,34
+18:32,Harvard,Chris Lewis,Layup,43,34
+18:13,UMass,Rashaan Holloway,Missed Layup,43,34
+18:13,Harvard,Chris Lewis,Block,43,34
+18:12,Harvard,Rio Haskett,Defensive Rebound,43,34
+18:09,Harvard,Rio Haskett,Turnover,43,34
+17:57,UMass,Luwane Pipkins,Jumper,43,36
+17:28,Harvard,Christian Juzang,Missed Jumper,43,36
+17:28,UMass,Jonathan Laurent,Defensive Rebound,43,36
+17:16,UMass,Luwane Pipkins,Jumper,43,38
+17:00,Harvard,Danilo Djuricic,Missed Three Point Jumper,43,38
+17:00,UMass,Curtis Cobb,Defensive Rebound,43,38
+16:42,UMass,Jonathan Laurent,Missed Layup,43,38
+16:42,UMass,Jonathan Laurent,Offensive Rebound,43,38
+16:39,UMass,Jonathan Laurent,Missed Layup,43,38
+16:39,Harvard,None,Team Rebound,43,38
+16:36,UMass,Rashaan Holloway,Foul,43,38
+16:28,Harvard,Corey Johnson,Missed Jumper,43,38
+16:28,UMass,Jonathan Laurent,Defensive Rebound,43,38
+16:16,UMass,Jonathan Laurent,Turnover,43,38
+16:15,Harvard,Justin Bassey,Steal,43,38
+15:59,Harvard,Corey Johnson,Jumper,45,38
+15:34,Harvard,Christian Juzang,Foul,45,38
+15:34,UMass,None,None,45,38
+15:27,Harvard,Henry Welsh,Foul,45,38
+15:27,UMass,Luwane Pipkins,Free Throw,45,39
+15:27,UMass,Luwane Pipkins,Free Throw,45,40
+14:59,Harvard,Harvard ,Turnover,45,40
+14:40,UMass,Sy Chatman,Jumper,45,42
+14:20,Harvard,Corey Johnson,Missed Three Point Jumper,45,42
+14:20,Harvard,None,Team Rebound,45,42
+14:18,UMass,Sy Chatman,Foul,45,42
+14:11,Harvard,Noah Kirkwood,Missed Layup,45,42
+14:11,Harvard,Noah Kirkwood,Offensive Rebound,45,42
+14:10,UMass,Luwane Pipkins,Foul,45,42
+13:57,Harvard,Noah Kirkwood,Turnover,45,42
+13:56,UMass,Luwane Pipkins,Steal,45,42
+13:53,UMass,Luwane Pipkins,Layup,45,44
+13:44,Harvard,Chris Lewis,Layup,47,44
+13:25,UMass,Luwane Pipkins,Missed Jumper,47,44
+13:25,Harvard,Justin Bassey,Defensive Rebound,47,44
+13:10,Harvard,Danilo Djuricic,Missed Three Point Jumper,47,44
+13:10,Harvard,Justin Bassey,Offensive Rebound,47,44
+12:59,UMass,Unique McLean,Foul,47,44
+12:59,Harvard,Noah Kirkwood,Free Throw,48,44
+12:59,Harvard,Noah Kirkwood,Free Throw,49,44
+12:40,UMass,Luwane Pipkins,Three Point Jumper,49,47
+12:30,UMass,Unique McLean,Foul,49,47
+12:27,Harvard,Noah Kirkwood,Foul,49,47
+12:27,Harvard,Noah Kirkwood,Turnover,49,47
+12:01,UMass,Tre Wood,Missed Layup,49,47
+12:01,Harvard,Chris Lewis,Block,49,47
+11:56,Harvard,Justin Bassey,Defensive Rebound,49,47
+11:38,Harvard,Noah Kirkwood,Turnover,49,47
+11:38,UMass,Keon Clergeot,Steal,49,47
+11:38,Harvard,Noah Kirkwood,Foul,49,47
+11:38,UMass,None,None,49,47
+11:38,UMass,Sy Chatman,Free Throw,49,48
+11:38,UMass,Sy Chatman,Missed Free Throw,49,48
+11:38,UMass,None,Team Rebound,49,48
+11:25,UMass,Carl Pierre,Missed Three Point Jumper,49,48
+11:25,Harvard,Justin Bassey,Defensive Rebound,49,48
+11:04,Harvard,Justin Bassey,Turnover,49,48
+11:03,UMass,Luwane Pipkins,Steal,49,48
+11:00,UMass,Luwane Pipkins,Missed Three Point Jumper,49,48
+11:00,UMass,Tre Wood,Offensive Rebound,49,48
+10:55,UMass,Tre Wood,Jumper,49,50
+10:45,Harvard,Justin Bassey,Three Point Jumper,52,50
+10:43,Harvard,None,None,52,50
+10:38,UMass,Curtis Cobb,Three Point Jumper,52,53
+10:17,Harvard,Corey Johnson,Missed Three Point Jumper,52,53
+10:17,UMass,Sy Chatman,Defensive Rebound,52,53
+9:40,UMass,Tre Wood,Missed Three Point Jumper,52,53
+9:40,Harvard,Justin Bassey,Defensive Rebound,52,53
+9:26,Harvard,Chris Lewis,Layup,54,53
+9:07,UMass,Curtis Cobb,Missed Three Point Jumper,54,53
+9:07,Harvard,Corey Johnson,Defensive Rebound,54,53
+8:45,Harvard,Danilo Djuricic,Three Point Jumper,57,53
+8:25,UMass,Jonathan Laurent,Three Point Jumper,57,56
+7:59,UMass,Jonathan Laurent,Foul,57,56
+7:59,UMass,None,None,57,56
+7:57,Harvard,Chris Lewis,Missed Layup,57,56
+7:57,UMass,Rashaan Holloway,Defensive Rebound,57,56
+7:50,Harvard,Justin Bassey,Foul,57,56
+7:35,UMass,Curtis Cobb,Layup,57,58
+7:13,Harvard,Chris Lewis,Layup,59,58
+6:57,UMass,Luwane Pipkins,Missed Layup,59,58
+6:57,Harvard,Christian Juzang,Defensive Rebound,59,58
+6:51,UMass,Carl Pierre,Foul,59,58
+6:51,Harvard,Christian Juzang,Free Throw,60,58
+6:51,Harvard,Christian Juzang,Missed Free Throw,60,58
+6:51,UMass,Rashaan Holloway,Defensive Rebound,60,58
+6:51,UMass,Luwane Pipkins,Missed Layup,60,58
+6:51,Harvard,Christian Juzang,Defensive Rebound,60,58
+6:42,UMass,Jonathan Laurent,Foul,60,58
+6:42,Harvard,Christian Juzang,Free Throw,61,58
+6:42,Harvard,Christian Juzang,Free Throw,62,58
+6:18,UMass,Rashaan Holloway,Turnover,62,58
+6:16,Harvard,Rio Haskett,Steal,62,58
+5:59,Harvard,Danilo Djuricic,Missed Three Point Jumper,62,58
+5:59,UMass,Jonathan Laurent,Defensive Rebound,62,58
+5:46,UMass,Jonathan Laurent,Missed Layup,62,58
+5:46,Harvard,Henry Welsh,Block,62,58
+5:46,UMass,UMass,Offensive Rebound,62,58
+5:40,Harvard,Rio Haskett,Foul,62,58
+5:19,UMass,Luwane Pipkins,Three Point Jumper,62,61
+4:55,Harvard,Rio Haskett,Three Point Jumper,65,61
+4:34,UMass,Luwane Pipkins,Missed Layup,65,61
+4:34,Harvard,Danilo Djuricic,Block,65,61
+4:32,Harvard,Noah Kirkwood,Defensive Rebound,65,61
+4:29,Harvard,Noah Kirkwood,Missed Layup,65,61
+4:29,UMass,Sy Chatman,Block,65,61
+4:25,UMass,Curtis Cobb,Defensive Rebound,65,61
+4:20,UMass,Luwane Pipkins,Missed Three Point Jumper,65,61
+4:20,Harvard,Henry Welsh,Defensive Rebound,65,61
+3:54,Harvard,Rio Haskett,Missed Three Point Jumper,65,61
+3:54,UMass,Luwane Pipkins,Defensive Rebound,65,61
+3:29,UMass,Luwane Pipkins,Turnover,65,61
+3:29,Harvard,Noah Kirkwood,Steal,65,61
+3:29,Harvard,None,None,65,61
+3:15,Harvard,Noah Kirkwood,Missed Jumper,65,61
+3:15,UMass,Rashaan Holloway,Defensive Rebound,65,61
+2:59,UMass,Jonathan Laurent,Missed Three Point Jumper,65,61
+2:59,Harvard,Rio Haskett,Defensive Rebound,65,61
+2:50,Harvard,Chris Lewis,Missed Layup,65,61
+2:50,UMass,None,Team Rebound,65,61
+2:48,Harvard,Chris Lewis,Foul,65,61
+2:48,UMass,Jonathan Laurent,Free Throw,65,62
+2:48,UMass,Jonathan Laurent,Free Throw,65,63
+2:34,Harvard,Christian Juzang,Layup,67,63
+2:34,UMass,Luwane Pipkins,Foul,67,63
+2:34,Harvard,Christian Juzang,Free Throw,68,63
+2:18,UMass,Curtis Cobb,Missed Three Point Jumper,68,63
+2:18,UMass,Rashaan Holloway,Offensive Rebound,68,63
+2:13,UMass,Rashaan Holloway,Layup,68,65
+2:13,Harvard,Chris Lewis,Foul,68,65
+2:13,UMass,Rashaan Holloway,Missed Free Throw,68,65
+2:13,Harvard,Rio Haskett,Defensive Rebound,68,65
+1:57,Harvard,Chris Lewis,Layup,70,65
+1:43,UMass,Luwane Pipkins,Missed Layup,70,65
+1:43,Harvard,Danilo Djuricic,Defensive Rebound,70,65
+1:15,Harvard,Christian Juzang,Missed Layup,70,65
+1:15,UMass,Luwane Pipkins,Defensive Rebound,70,65
+1:07,UMass,Jonathan Laurent,Layup,70,67
+1:07,UMass,None,None,70,67
+0:52,Harvard,Christian Juzang,Missed Three Point Jumper,70,67
+0:52,UMass,Curtis Cobb,Defensive Rebound,70,67
+0:39,Harvard,Rio Haskett,Foul,70,67
+0:39,UMass,Luwane Pipkins,Free Throw,70,68
+0:39,UMass,Luwane Pipkins,Free Throw,70,69
+0:09,UMass,Jonathan Laurent,Foul,70,69
+0:09,Harvard,Justin Bassey,Free Throw,71,69
+0:09,UMass,None,None,71,69
+0:09,Harvard,Justin Bassey,Free Throw,72,69
+0:03,UMass,Luwane Pipkins,Layup,72,71
+0:03,UMass,None,None,72,71
+0:02,UMass,Sy Chatman,Foul,72,71
+0:02,Harvard,Christian Juzang,Free Throw,73,71
+0:02,Harvard,Christian Juzang,Free Throw,74,71
+0:00,UMass,None,None,74,71

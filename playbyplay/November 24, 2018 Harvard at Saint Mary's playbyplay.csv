@@ -1,0 +1,334 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:36,Saint Mary's,Jordan Hunter,Jumper,0,2
+19:36,Harvard,Henry Welsh,Foul,0,2
+19:36,Saint Mary's,Jordan Hunter,Free Throw,0,3
+19:24,Harvard,Henry Welsh,Three Point Jumper,3,3
+19:01,Saint Mary's,Elijah Thomas,Missed Three Point Jumper,3,3
+19:01,Harvard,Justin Bassey,Defensive Rebound,3,3
+18:43,Harvard,Henry Welsh,Missed Three Point Jumper,3,3
+18:43,Saint Mary's,Malik Fitts,Defensive Rebound,3,3
+18:26,Saint Mary's,Malik Fitts,Jumper,3,5
+18:04,Harvard,Danilo Djuricic,Three Point Jumper,6,5
+17:40,Saint Mary's,Elijah Thomas,Missed Three Point Jumper,6,5
+17:40,Harvard,Henry Welsh,Defensive Rebound,6,5
+17:19,Saint Mary's,Jordan Hunter,Foul,6,5
+17:08,Harvard,Christian Juzang,Missed Jumper,6,5
+17:08,Saint Mary's,Malik Fitts,Defensive Rebound,6,5
+16:43,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,6,5
+16:43,Saint Mary's,Elijah Thomas,Offensive Rebound,6,5
+16:34,Saint Mary's,Jordan Ford,Missed Layup,6,5
+16:34,Saint Mary's,Jordan Hunter,Offensive Rebound,6,5
+16:32,Saint Mary's,None,None,6,7
+15:57,Harvard,Harvard ,Turnover,6,7
+15:57,Saint Mary's,None,None,6,7
+15:40,Saint Mary's,Elijah Thomas,Missed Layup,6,7
+15:40,Harvard,Corey Johnson,Defensive Rebound,6,7
+15:28,Harvard,Corey Johnson,Missed Three Point Jumper,6,7
+15:28,Saint Mary's,Jordan Ford,Defensive Rebound,6,7
+15:09,Saint Mary's,Jordan Hunter,Missed Layup,6,7
+15:09,Harvard,Corey Johnson,Defensive Rebound,6,7
+14:59,Harvard,Christian Juzang,Missed Jumper,6,7
+14:59,Saint Mary's,Malik Fitts,Defensive Rebound,6,7
+14:47,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,6,7
+14:47,Harvard,Mason Forbes,Defensive Rebound,6,7
+14:29,Harvard,Christian Juzang,Three Point Jumper,9,7
+14:02,Harvard,Corey Johnson,Foul,9,7
+14:02,Saint Mary's,Jordan Hunter,Missed Free Throw,9,7
+14:02,Saint Mary's,None,Team Rebound,9,7
+14:02,Saint Mary's,Jordan Hunter,Free Throw,9,8
+14:01,Harvard,Justin Bassey,Layup,11,8
+13:53,Saint Mary's,Tanner Krebs,Foul,11,8
+13:49,Harvard,Justin Bassey,Free Throw,12,8
+13:39,Saint Mary's,Tanner Krebs,Turnover,12,8
+13:39,Saint Mary's,Tanner Krebs,Foul,12,8
+13:11,Harvard,Noah Kirkwood,Missed Jumper,12,8
+13:11,Saint Mary's,Tanner Krebs,Defensive Rebound,12,8
+13:04,Harvard,Noah Kirkwood,Foul,12,8
+12:45,Saint Mary's,Jordan Ford,Missed Layup,12,8
+12:45,Harvard,Noah Kirkwood,Defensive Rebound,12,8
+12:32,Harvard,Justin Bassey,Jumper,14,8
+12:19,Saint Mary's,Matthias Tass,Missed Layup,14,8
+12:19,Harvard,Robert Baker,Defensive Rebound,14,8
+12:09,Harvard,Justin Bassey,Missed Three Point Jumper,14,8
+12:09,Harvard,Robert Baker,Offensive Rebound,14,8
+11:54,Harvard,Robert Baker,Three Point Jumper,17,8
+11:52,Saint Mary's,None,None,17,8
+11:52,Saint Mary's,None,None,17,8
+11:31,Saint Mary's,Malik Fitts,Missed Three Point Jumper,17,8
+11:31,Saint Mary's,Dan Fotu,Offensive Rebound,17,8
+11:20,Saint Mary's,Elijah Thomas,Layup,17,10
+10:59,Harvard,Noah Kirkwood,Layup,19,10
+10:39,Saint Mary's,Jordan Ford,Turnover,19,10
+10:38,Harvard,Rio Haskett,Steal,19,10
+10:35,Harvard,Henry Welsh,Layup,21,10
+10:10,Saint Mary's,Elijah Thomas,Three Point Jumper,21,13
+9:56,Harvard,Spencer Freedman,Turnover,21,13
+9:35,Saint Mary's,Jordan Ford,Missed Three Point Jumper,21,13
+9:35,Harvard,Henry Welsh,Defensive Rebound,21,13
+9:13,Harvard,Noah Kirkwood,Turnover,21,13
+9:12,Saint Mary's,Dan Fotu,Steal,21,13
+9:09,Saint Mary's,Malik Fitts,Dunk,21,15
+9:08,Harvard,None,None,21,15
+9:00,Harvard,Justin Bassey,Layup,23,15
+9:00,Saint Mary's,Elijah Thomas,Foul,23,15
+9:00,Harvard,Justin Bassey,Free Throw,24,15
+8:34,Harvard,Justin Bassey,Foul,24,15
+8:19,Saint Mary's,Dan Fotu,Layup,24,17
+8:10,Harvard,Rio Haskett,Missed Jumper,24,17
+8:10,Saint Mary's,Jordan Hunter,Defensive Rebound,24,17
+7:59,Harvard,Christian Juzang,Foul,24,17
+7:59,Saint Mary's,None,None,24,17
+7:48,Saint Mary's,Malik Fitts,Missed Jumper,24,17
+7:48,Saint Mary's,Jock Perry,Offensive Rebound,24,17
+7:43,Saint Mary's,None,None,24,17
+7:22,Saint Mary's,Jock Perry,Turnover,24,17
+7:20,Harvard,Rio Haskett,Steal,24,17
+7:07,Harvard,Henry Welsh,Jumper,26,17
+6:53,Saint Mary's,Elijah Thomas,Turnover,26,17
+6:40,Harvard,Rio Haskett,Jumper,28,17
+6:28,Saint Mary's,Tommy Kuhse,Turnover,28,17
+6:28,Saint Mary's,Tommy Kuhse,Foul,28,17
+6:09,Harvard,Henry Welsh,Missed Jumper,28,17
+6:09,Saint Mary's,Tommy Kuhse,Defensive Rebound,28,17
+5:58,Saint Mary's,Jordan Ford,Missed Three Point Jumper,28,17
+5:58,Harvard,Christian Juzang,Defensive Rebound,28,17
+5:43,Harvard,Rio Haskett,Missed Layup,28,17
+5:43,Saint Mary's,Malik Fitts,Defensive Rebound,28,17
+5:16,Harvard,Justin Bassey,Foul,28,17
+5:11,Saint Mary's,Malik Fitts,Missed Three Point Jumper,28,17
+5:11,Harvard,Harvard,Defensive Rebound,28,17
+4:46,Harvard,Mason Forbes,Dunk,30,17
+4:18,Harvard,Mason Forbes,Foul,30,17
+4:18,Saint Mary's,Jordan Hunter,Free Throw,30,18
+4:18,Saint Mary's,Jordan Hunter,Missed Free Throw,30,18
+4:18,Harvard,Robert Baker,Defensive Rebound,30,18
+4:03,Saint Mary's,Malik Fitts,Foul,30,18
+3:48,Harvard,Christian Juzang,Turnover,30,18
+3:47,Saint Mary's,Tanner Krebs,Steal,30,18
+3:38,Harvard,Robert Baker,Foul,30,18
+3:38,Saint Mary's,None,None,30,18
+3:38,Saint Mary's,Elijah Thomas,Missed Free Throw,30,18
+3:38,Saint Mary's,None,Team Rebound,30,18
+3:38,Saint Mary's,Elijah Thomas,Missed Free Throw,30,18
+3:38,Harvard,Robert Baker,Defensive Rebound,30,18
+3:28,Harvard,Noah Kirkwood,Missed Three Point Jumper,30,18
+3:28,Saint Mary's,Elijah Thomas,Defensive Rebound,30,18
+3:18,Saint Mary's,Jordan Ford,Missed Layup,30,18
+3:18,Harvard,Mason Forbes,Block,30,18
+3:18,Saint Mary's,Saint Mary's,Offensive Rebound,30,18
+3:11,Harvard,Noah Kirkwood,Foul,30,18
+3:11,Saint Mary's,Malik Fitts,Missed Free Throw,30,18
+3:11,Saint Mary's,Elijah Thomas,Offensive Rebound,30,18
+3:08,Saint Mary's,Elijah Thomas,Turnover,30,18
+3:07,Harvard,Rio Haskett,Steal,30,18
+2:52,Harvard,Rio Haskett,Missed Three Point Jumper,30,18
+2:52,Saint Mary's,Malik Fitts,Defensive Rebound,30,18
+2:28,Saint Mary's,Jordan Hunter,Jumper,30,20
+2:10,Harvard,Mason Forbes,Turnover,30,20
+1:57,Saint Mary's,Malik Fitts,Layup,30,22
+1:57,Harvard,Robert Baker,Foul,30,22
+1:57,Saint Mary's,Malik Fitts,Missed Free Throw,30,22
+1:57,Saint Mary's,Jordan Hunter,Offensive Rebound,30,22
+1:37,Saint Mary's,Malik Fitts,Missed Three Point Jumper,30,22
+1:37,Harvard,Henry Welsh,Defensive Rebound,30,22
+1:20,Harvard,Rio Haskett,Turnover,30,22
+1:18,Saint Mary's,Malik Fitts,Steal,30,22
+1:01,Harvard,Henry Welsh,Foul,30,22
+1:01,Saint Mary's,Jordan Hunter,Missed Free Throw,30,22
+1:01,Saint Mary's,None,Team Rebound,30,22
+1:01,Saint Mary's,Jordan Hunter,Missed Free Throw,30,22
+1:01,Harvard,Christian Juzang,Defensive Rebound,30,22
+0:40,Harvard,Henry Welsh,Layup,32,22
+0:40,Saint Mary's,Jordan Ford,Foul,32,22
+0:40,Harvard,Henry Welsh,Missed Free Throw,32,22
+0:40,Saint Mary's,None,Team Rebound,32,22
+0:28,Harvard,Christian Juzang,Foul,32,22
+0:28,Saint Mary's,Jordan Ford,Free Throw,32,23
+0:28,Saint Mary's,Jordan Ford,Free Throw,32,24
+0:01,Harvard,Christian Juzang,Jumper,34,24
+0:00,Saint Mary's,None,None,34,24
+19:45,Harvard,Henry Welsh,Jumper,36,24
+19:12,Saint Mary's,Elijah Thomas,Missed Three Point Jumper,36,24
+19:12,Harvard,Christian Juzang,Defensive Rebound,36,24
+18:49,Harvard,Henry Welsh,Missed Jumper,36,24
+18:49,Saint Mary's,Jordan Ford,Defensive Rebound,36,24
+18:34,Saint Mary's,Tanner Krebs,Three Point Jumper,36,27
+18:14,Harvard,Henry Welsh,Jumper,38,27
+17:49,Saint Mary's,Malik Fitts,Turnover,38,27
+17:47,Harvard,Danilo Djuricic,Steal,38,27
+17:32,Harvard,Henry Welsh,Missed Three Point Jumper,38,27
+17:32,Saint Mary's,Malik Fitts,Defensive Rebound,38,27
+17:21,Saint Mary's,Jordan Ford,Layup,38,29
+17:08,Saint Mary's,Malik Fitts,Foul,38,29
+16:52,Harvard,Danilo Djuricic,Three Point Jumper,41,29
+16:31,Saint Mary's,Malik Fitts,Three Point Jumper,41,32
+16:13,Harvard,Christian Juzang,Jumper,43,32
+15:57,Saint Mary's,Tanner Krebs,Layup,43,34
+15:57,Harvard,Henry Welsh,Foul,43,34
+15:56,Saint Mary's,None,None,43,34
+15:56,Saint Mary's,Tanner Krebs,Free Throw,43,35
+15:47,Harvard,Noah Kirkwood,Layup,45,35
+15:47,Saint Mary's,Matthias Tass,Foul,45,35
+15:47,Harvard,Noah Kirkwood,Free Throw,46,35
+15:18,Saint Mary's,Matthias Tass,Missed Jumper,46,35
+15:18,Harvard,Justin Bassey,Defensive Rebound,46,35
+14:51,Harvard,Christian Juzang,Turnover,46,35
+14:50,Saint Mary's,Tanner Krebs,Steal,46,35
+14:45,Saint Mary's,Tanner Krebs,Layup,46,37
+14:34,Harvard,Danilo Djuricic,Missed Three Point Jumper,46,37
+14:34,Harvard,Danilo Djuricic,Offensive Rebound,46,37
+14:30,Harvard,Danilo Djuricic,Layup,48,37
+14:14,Saint Mary's,Jordan Ford,Turnover,48,37
+14:13,Harvard,Justin Bassey,Steal,48,37
+14:09,Harvard,Noah Kirkwood,Missed Three Point Jumper,48,37
+14:09,Harvard,Justin Bassey,Offensive Rebound,48,37
+14:02,Harvard,Mason Forbes,Layup,50,37
+14:02,Saint Mary's,None,None,50,37
+14:02,Saint Mary's,None,None,50,37
+13:43,Harvard,Rio Haskett,Foul,50,37
+13:43,Saint Mary's,Elijah Thomas,Missed Free Throw,50,37
+13:43,Saint Mary's,None,Team Rebound,50,37
+13:43,Saint Mary's,Elijah Thomas,Free Throw,50,38
+13:32,Harvard,Justin Bassey,Missed Three Point Jumper,50,38
+13:32,Harvard,Danilo Djuricic,Offensive Rebound,50,38
+13:18,Harvard,Noah Kirkwood,Missed Layup,50,38
+13:18,Harvard,Mason Forbes,Offensive Rebound,50,38
+13:10,Harvard,Mason Forbes,Turnover,50,38
+13:08,Saint Mary's,Tanner Krebs,Steal,50,38
+13:06,Saint Mary's,Malik Fitts,Layup,50,40
+13:06,Harvard,Rio Haskett,Foul,50,40
+13:06,Saint Mary's,Malik Fitts,Free Throw,50,41
+12:59,Saint Mary's,Dan Fotu,Foul,50,41
+12:47,Saint Mary's,Tanner Krebs,Foul,50,41
+12:31,Harvard,Noah Kirkwood,Three Point Jumper,53,41
+12:15,Saint Mary's,Jordan Ford,Turnover,53,41
+12:14,Harvard,Christian Juzang,Steal,53,41
+12:11,Harvard,Rio Haskett,Missed Three Point Jumper,53,41
+12:11,Harvard,Henry Welsh,Offensive Rebound,53,41
+12:08,Saint Mary's,Jordan Hunter,Foul,53,41
+12:06,Harvard,Christian Juzang,Missed Three Point Jumper,53,41
+12:06,Harvard,Henry Welsh,Offensive Rebound,53,41
+11:51,Harvard,Robert Baker,Turnover,53,41
+11:51,Saint Mary's,None,None,53,41
+11:32,Saint Mary's,Jordan Hunter,Turnover,53,41
+11:31,Harvard,Robert Baker,Turnover,53,41
+11:00,Saint Mary's,Elijah Thomas,Missed Three Point Jumper,53,41
+11:00,Saint Mary's,Malik Fitts,Offensive Rebound,53,41
+10:53,Saint Mary's,Dan Fotu,Missed Three Point Jumper,53,41
+10:53,Saint Mary's,Malik Fitts,Offensive Rebound,53,41
+10:49,Saint Mary's,Malik Fitts,Layup,53,43
+10:36,Harvard,Noah Kirkwood,Turnover,53,43
+10:36,Saint Mary's,Jordan Ford,Steal,53,43
+10:09,Saint Mary's,Tanner Krebs,Three Point Jumper,53,46
+9:49,Saint Mary's,Malik Fitts,Foul,53,46
+9:49,Harvard,Mason Forbes,Free Throw,54,46
+9:49,Harvard,Mason Forbes,Missed Free Throw,54,46
+9:49,Saint Mary's,Jordan Hunter,Defensive Rebound,54,46
+9:30,Saint Mary's,Malik Fitts,Layup,54,48
+9:16,Harvard,Henry Welsh,Turnover,54,48
+9:04,Saint Mary's,Malik Fitts,Jumper,54,50
+8:54,Harvard,Christian Juzang,Turnover,54,50
+8:53,Saint Mary's,Jordan Ford,Steal,54,50
+8:49,Saint Mary's,Jordan Ford,Missed Layup,54,50
+8:49,Harvard,Justin Bassey,Block,54,50
+8:49,Saint Mary's,Tanner Krebs,Offensive Rebound,54,50
+8:38,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,54,50
+8:38,Saint Mary's,Malik Fitts,Offensive Rebound,54,50
+8:37,Saint Mary's,Malik Fitts,Turnover,54,50
+8:27,Harvard,Noah Kirkwood,Missed Layup,54,50
+8:27,Saint Mary's,Jordan Hunter,Defensive Rebound,54,50
+8:21,Saint Mary's,Malik Fitts,Dunk,54,52
+8:19,Harvard,None,None,54,52
+8:19,Saint Mary's,None,None,54,52
+8:02,Harvard,Henry Welsh,Jumper,56,52
+7:47,Saint Mary's,Malik Fitts,Missed Three Point Jumper,56,52
+7:47,Harvard,Noah Kirkwood,Defensive Rebound,56,52
+7:42,Saint Mary's,Tanner Krebs,Foul,56,52
+7:42,Harvard,Danilo Djuricic,Free Throw,57,52
+7:42,Harvard,Danilo Djuricic,Free Throw,58,52
+7:21,Harvard,Justin Bassey,Foul,58,52
+7:02,Saint Mary's,Jordan Hunter,Missed Jumper,58,52
+7:02,Harvard,Noah Kirkwood,Defensive Rebound,58,52
+6:39,Saint Mary's,Malik Fitts,Foul,58,52
+6:39,Harvard,Spencer Freedman,Free Throw,59,52
+6:39,Harvard,Spencer Freedman,Free Throw,60,52
+6:21,Saint Mary's,Elijah Thomas,Turnover,60,52
+6:09,Harvard,Spencer Freedman,Turnover,60,52
+6:09,Harvard,Spencer Freedman,Foul,60,52
+5:55,Saint Mary's,Elijah Thomas,Missed Three Point Jumper,60,52
+5:55,Harvard,Justin Bassey,Defensive Rebound,60,52
+5:40,Harvard,Danilo Djuricic,Turnover,60,52
+5:38,Saint Mary's,Jordan Ford,Steal,60,52
+5:36,Saint Mary's,Jordan Ford,Layup,60,54
+5:14,Harvard,Spencer Freedman,Missed Three Point Jumper,60,54
+5:14,Saint Mary's,Matthias Tass,Defensive Rebound,60,54
+5:02,Harvard,Henry Welsh,Foul,60,54
+5:02,Saint Mary's,Jordan Ford,Free Throw,60,55
+5:02,Saint Mary's,Jordan Ford,Free Throw,60,56
+4:47,Harvard,Robert Baker,Jumper,62,56
+4:20,Saint Mary's,Elijah Thomas,Missed Three Point Jumper,62,56
+4:20,Harvard,Robert Baker,Defensive Rebound,62,56
+3:59,Harvard,Robert Baker,Missed Three Point Jumper,62,56
+3:59,Saint Mary's,Malik Fitts,Defensive Rebound,62,56
+3:49,Harvard,Robert Baker,Foul,62,56
+3:49,Saint Mary's,None,None,62,56
+3:49,Saint Mary's,Jordan Ford,Free Throw,62,57
+3:49,Saint Mary's,Jordan Ford,Missed Free Throw,62,57
+3:49,Harvard,Robert Baker,Defensive Rebound,62,57
+3:20,Harvard,Rio Haskett,Missed Jumper,62,57
+3:20,Harvard,Robert Baker,Offensive Rebound,62,57
+3:19,Saint Mary's,Matthias Tass,Foul,62,57
+3:19,Harvard,Robert Baker,Free Throw,63,57
+3:19,Harvard,Robert Baker,Free Throw,64,57
+3:01,Saint Mary's,Jordan Ford,Missed Layup,64,57
+3:01,Harvard,Noah Kirkwood,Defensive Rebound,64,57
+3:00,Saint Mary's,Jordan Hunter,Foul,64,57
+3:00,Harvard,Noah Kirkwood,Foul,64,57
+2:46,Saint Mary's,Dan Fotu,Missed Three Point Jumper,64,57
+2:46,Saint Mary's,Jordan Hunter,Offensive Rebound,64,57
+2:44,Harvard,Henry Welsh,Foul,64,57
+2:44,Saint Mary's,Jordan Hunter,Free Throw,64,58
+2:44,Saint Mary's,Jordan Hunter,Free Throw,64,59
+2:27,Harvard,Noah Kirkwood,Jumper,66,59
+2:15,Harvard,Robert Baker,Foul,66,59
+2:15,Saint Mary's,Malik Fitts,Free Throw,66,60
+2:15,Saint Mary's,Malik Fitts,Free Throw,66,61
+1:49,Saint Mary's,Tanner Krebs,Foul,66,61
+1:49,Harvard,Noah Kirkwood,Free Throw,67,61
+1:49,Harvard,Noah Kirkwood,Free Throw,68,61
+1:33,Saint Mary's,Elijah Thomas,Layup,68,63
+1:03,Harvard,Robert Baker,Jumper,70,63
+0:45,Saint Mary's,Jordan Ford,Turnover,70,63
+0:44,Harvard,Noah Kirkwood,Steal,70,63
+0:40,Saint Mary's,Jordan Ford,Foul,70,63
+0:40,Harvard,Christian Juzang,Free Throw,71,63
+0:40,Harvard,Christian Juzang,Free Throw,72,63
+0:29,Saint Mary's,Jordan Ford,Missed Jumper,72,63
+0:29,Harvard,Robert Baker,Defensive Rebound,72,63
+0:29,Saint Mary's,Kyle Clark,Foul,72,63
+0:29,Harvard,Robert Baker,Free Throw,73,63
+0:29,Harvard,Robert Baker,Missed Free Throw,73,63
+0:29,Saint Mary's,Malik Fitts,Defensive Rebound,73,63
+0:19,Saint Mary's,Malik Fitts,Missed Layup,73,63
+0:19,Harvard,Justin Bassey,Defensive Rebound,73,63
+0:19,Saint Mary's,Elijah Thomas,Foul,73,63
+0:19,Harvard,Justin Bassey,Missed Free Throw,73,63
+0:19,Harvard,None,Team Rebound,73,63
+0:19,Harvard,Justin Bassey,Missed Free Throw,73,63
+0:19,Saint Mary's,Malik Fitts,Defensive Rebound,73,63
+0:11,Saint Mary's,Malik Fitts,Layup,73,65
+0:11,Harvard,Danilo Djuricic,Foul,73,65
+0:11,Saint Mary's,Malik Fitts,Free Throw,73,66
+0:10,Saint Mary's,Elijah Thomas,Foul,73,66
+0:10,Harvard,Justin Bassey,Missed Free Throw,73,66
+0:10,Harvard,None,Team Rebound,73,66
+0:10,Harvard,Justin Bassey,Missed Free Throw,73,66
+0:10,Saint Mary's,Malik Fitts,Defensive Rebound,73,66
+0:06,Saint Mary's,Malik Fitts,Layup,73,68
+0:03,Saint Mary's,Kyle Clark,Foul,73,68
+0:03,Harvard,Christian Juzang,Missed Free Throw,73,68
+0:03,Harvard,None,Team Rebound,73,68
+0:03,Harvard,Christian Juzang,Free Throw,74,68
+0:00,Saint Mary's,Kyle Clark,Missed Three Point Jumper,74,68
+0:00,Saint Mary's,None,Team Rebound,74,68
+0:00,Saint Mary's,None,None,74,68

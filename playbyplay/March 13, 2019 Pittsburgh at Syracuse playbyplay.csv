@@ -1,0 +1,336 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Pittsburgh,None,None,0,0
+19:38,Pittsburgh,Au'Diese Toney,Jumper,2,0
+19:07,Syracuse,Frank Howard,Missed Jumper,2,0
+19:07,Syracuse,Paschal Chukwu,Offensive Rebound,2,0
+19:06,Syracuse,Paschal Chukwu,Turnover,2,0
+19:06,Pittsburgh,Trey McGowens,Steal,2,0
+18:59,Syracuse,Buddy Boeheim,Foul,2,0
+18:53,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,5,0
+18:30,Syracuse,Oshae Brissett,Missed Three Point Jumper,5,0
+18:30,Syracuse,Buddy Boeheim,Offensive Rebound,5,0
+18:25,Syracuse,Frank Howard,Three Point Jumper,5,3
+17:56,Pittsburgh,Au'Diese Toney,Missed Jumper,5,3
+17:56,Syracuse,Oshae Brissett,Defensive Rebound,5,3
+17:47,Syracuse,Elijah Hughes,Missed Three Point Jumper,5,3
+17:47,Syracuse,Syracuse,Offensive Rebound,5,3
+17:37,Pittsburgh,Trey McGowens,Foul,5,3
+17:25,Syracuse,Frank Howard,Three Point Jumper,5,6
+17:03,Syracuse,Paschal Chukwu,Foul,5,6
+17:03,Pittsburgh,Au'Diese Toney,Free Throw,6,6
+17:03,Pittsburgh,Au'Diese Toney,Free Throw,7,6
+16:55,Pittsburgh,Xavier Johnson,Foul,7,6
+16:41,Syracuse,Oshae Brissett,Missed Layup,7,6
+16:41,Pittsburgh,Au'Diese Toney,Defensive Rebound,7,6
+16:31,Pittsburgh,Xavier Johnson,Turnover,7,6
+16:31,Syracuse,Buddy Boeheim,Steal,7,6
+16:28,Syracuse,Buddy Boeheim,Layup,7,8
+16:11,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,10,8
+15:55,Syracuse,Buddy Boeheim,Missed Three Point Jumper,10,8
+15:55,Pittsburgh,Terrell Brown,Defensive Rebound,10,8
+15:44,Pittsburgh,Xavier Johnson,Turnover,10,8
+15:44,Syracuse,Elijah Hughes,Steal,10,8
+15:25,Pittsburgh,Au'Diese Toney,Foul,10,8
+15:25,Syracuse,None,None,10,8
+15:21,Syracuse,Paschal Chukwu,Foul,10,8
+15:21,Syracuse,Paschal Chukwu,Turnover,10,8
+15:03,Pittsburgh,Terrell Brown,Missed Jumper,10,8
+15:03,Syracuse,Syracuse,Defensive Rebound,10,8
+14:37,Pittsburgh,Au'Diese Toney,Foul,10,8
+14:33,Pittsburgh,Sidy N'Dir,Foul,10,8
+14:31,Syracuse,Buddy Boeheim,Missed Jumper,10,8
+14:31,Pittsburgh,Malik Ellison,Defensive Rebound,10,8
+14:10,Pittsburgh,Terrell Brown,Turnover,10,8
+14:10,Syracuse,Frank Howard,Steal,10,8
+13:59,Pittsburgh,Malik Ellison,Foul,10,8
+13:39,Syracuse,Oshae Brissett,Missed Jumper,10,8
+13:39,Pittsburgh,Sidy N'Dir,Defensive Rebound,10,8
+13:21,Syracuse,Bourama Sidibe,Foul,10,8
+13:21,Pittsburgh,Terrell Brown,Free Throw,11,8
+13:21,Pittsburgh,Terrell Brown,Free Throw,12,8
+12:51,Syracuse,Elijah Hughes,Missed Layup,12,8
+12:51,Syracuse,Bourama Sidibe,Offensive Rebound,12,8
+12:51,Syracuse,None,None,12,8
+12:51,Pittsburgh,Malik Ellison,Defensive Rebound,12,8
+12:43,Syracuse,Bourama Sidibe,Foul,12,8
+12:43,Pittsburgh,Au'Diese Toney,Free Throw,13,8
+12:43,Pittsburgh,Au'Diese Toney,Free Throw,14,8
+12:25,Syracuse,Frank Howard,Missed Three Point Jumper,14,8
+12:25,Syracuse,Oshae Brissett,Offensive Rebound,14,8
+12:19,Syracuse,Oshae Brissett,Layup,14,10
+11:55,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,17,10
+11:41,Syracuse,Elijah Hughes,Three Point Jumper,17,13
+11:16,Syracuse,Marek Dolezaj,Foul,17,13
+11:16,Syracuse,None,None,17,13
+10:58,Pittsburgh,Au'Diese Toney,Missed Jumper,17,13
+10:58,Syracuse,Paschal Chukwu,Block,17,13
+10:58,Syracuse,Syracuse,Defensive Rebound,17,13
+10:41,Syracuse,Elijah Hughes,Missed Three Point Jumper,17,13
+10:41,Syracuse,Paschal Chukwu,Offensive Rebound,17,13
+10:36,Syracuse,Paschal Chukwu,Turnover,17,13
+10:36,Pittsburgh,Xavier Johnson,Steal,17,13
+10:31,Pittsburgh,Xavier Johnson,Dunk,19,13
+10:13,Syracuse,Frank Howard,Turnover,19,13
+10:13,Pittsburgh,Terrell Brown,Steal,19,13
+9:46,Pittsburgh,Trey McGowens,Foul,19,13
+9:46,Pittsburgh,Trey McGowens,Turnover,19,13
+9:16,Syracuse,Oshae Brissett,Missed Three Point Jumper,19,13
+9:16,Pittsburgh,Terrell Brown,Defensive Rebound,19,13
+8:52,Pittsburgh,Sidy N'Dir,Turnover,19,13
+8:52,Syracuse,Frank Howard,Steal,19,13
+8:39,Syracuse,Buddy Boeheim,Three Point Jumper,19,16
+8:31,Pittsburgh,None,None,19,16
+8:11,Pittsburgh,Xavier Johnson,Missed Jumper,19,16
+8:11,Pittsburgh,Malik Ellison,Offensive Rebound,19,16
+8:08,Syracuse,Frank Howard,Foul,19,16
+8:08,Pittsburgh,Malik Ellison,Free Throw,20,16
+8:08,Pittsburgh,Malik Ellison,Free Throw,21,16
+7:46,Syracuse,Frank Howard,Missed Jumper,21,16
+7:46,Pittsburgh,Malik Ellison,Block,21,16
+7:46,Pittsburgh,Terrell Brown,Defensive Rebound,21,16
+7:38,Pittsburgh,Xavier Johnson,Missed Jumper,21,16
+7:38,Pittsburgh,Jared Wilson-Frame,Offensive Rebound,21,16
+7:35,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,24,16
+7:25,Syracuse,None,None,24,16
+7:07,Syracuse,Buddy Boeheim,Missed Three Point Jumper,24,16
+7:07,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,24,16
+6:59,Pittsburgh,Xavier Johnson,Missed Jumper,24,16
+6:59,Pittsburgh,Jared Wilson-Frame,Offensive Rebound,24,16
+6:51,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,24,16
+6:51,Syracuse,Paschal Chukwu,Defensive Rebound,24,16
+6:46,Pittsburgh,Malik Ellison,Foul,24,16
+6:46,Syracuse,Paschal Chukwu,Free Throw,24,17
+6:46,Syracuse,Paschal Chukwu,Free Throw,24,18
+6:31,Pittsburgh,Malik Ellison,Missed Jumper,24,18
+6:31,Pittsburgh,Terrell Brown,Offensive Rebound,24,18
+6:31,Pittsburgh,Terrell Brown,Dunk,26,18
+6:09,Syracuse,Elijah Hughes,Three Point Jumper,26,21
+6:09,Pittsburgh,Terrell Brown,Foul,26,21
+6:09,Syracuse,Elijah Hughes,Free Throw,26,22
+5:49,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,29,22
+5:16,Syracuse,Frank Howard,Missed Three Point Jumper,29,22
+5:16,Pittsburgh,Malik Ellison,Defensive Rebound,29,22
+5:06,Syracuse,Paschal Chukwu,Foul,29,22
+5:06,Pittsburgh,Sidy N'Dir,Free Throw,30,22
+5:06,Pittsburgh,Sidy N'Dir,Free Throw,31,22
+4:58,Pittsburgh,Terrell Brown,Foul,31,22
+4:58,Syracuse,Marek Dolezaj,Missed Free Throw,31,22
+4:58,Syracuse,None,Team Rebound,31,22
+4:58,Syracuse,Marek Dolezaj,Free Throw,31,23
+4:38,Pittsburgh,Malik Ellison,Layup,33,23
+4:18,Syracuse,Elijah Hughes,Missed Jumper,33,23
+4:18,Pittsburgh,Terrell Brown,Defensive Rebound,33,23
+4:08,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,33,23
+4:08,Pittsburgh,Jared Wilson-Frame,Offensive Rebound,33,23
+4:04,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,33,23
+4:04,Syracuse,Marek Dolezaj,Defensive Rebound,33,23
+3:51,Syracuse,Oshae Brissett,Jumper,33,25
+3:26,Pittsburgh,Terrell Brown,Turnover,33,25
+3:26,Syracuse,Marek Dolezaj,Steal,33,25
+3:21,Syracuse,None,None,33,25
+3:01,Syracuse,Marek Dolezaj,Foul,33,25
+3:01,Syracuse,Marek Dolezaj,Turnover,33,25
+2:43,Pittsburgh,Xavier Johnson,Missed Jumper,33,25
+2:43,Syracuse,Oshae Brissett,Defensive Rebound,33,25
+2:31,Syracuse,Jalen Carey,Missed Three Point Jumper,33,25
+2:31,Syracuse,Elijah Hughes,Offensive Rebound,33,25
+2:14,Syracuse,Marek Dolezaj,Missed Jumper,33,25
+2:14,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,33,25
+2:05,Pittsburgh,Xavier Johnson,Turnover,33,25
+2:05,Syracuse,Elijah Hughes,Steal,33,25
+1:59,Syracuse,Jalen Carey,Layup,33,27
+1:33,Pittsburgh,Sidy N'Dir,Missed Three Point Jumper,33,27
+1:33,Syracuse,Elijah Hughes,Defensive Rebound,33,27
+1:24,Syracuse,Elijah Hughes,Three Point Jumper,33,30
+0:52,Pittsburgh,Sidy N'Dir,Missed Jumper,33,30
+0:52,Pittsburgh,Terrell Brown,Offensive Rebound,33,30
+0:52,Pittsburgh,None,None,33,30
+0:52,Syracuse,Oshae Brissett,Defensive Rebound,33,30
+0:43,Syracuse,Oshae Brissett,Turnover,33,30
+0:43,Pittsburgh,Malik Ellison,Steal,33,30
+0:26,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,36,30
+0:07,Syracuse,Jalen Carey,Turnover,36,30
+0:07,Pittsburgh,Terrell Brown,Steal,36,30
+0:04,Pittsburgh,Terrell Brown,Turnover,36,30
+0:04,Syracuse,Marek Dolezaj,Steal,36,30
+0:02,Syracuse,Marek Dolezaj,Missed Three Point Jumper,36,30
+0:02,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,36,30
+0:00,Syracuse,None,None,36,30
+20:00,Syracuse,None,None,36,30
+19:46,Syracuse,Oshae Brissett,Missed Jumper,36,30
+19:46,Syracuse,Paschal Chukwu,Offensive Rebound,36,30
+19:42,Syracuse,Elijah Hughes,Jumper,36,32
+18:55,Pittsburgh,Au'Diese Toney,Missed Jumper,36,32
+18:55,Syracuse,Paschal Chukwu,Block,36,32
+18:55,Syracuse,Buddy Boeheim,Defensive Rebound,36,32
+18:43,Syracuse,Elijah Hughes,Three Point Jumper,36,35
+18:22,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,39,35
+18:00,Syracuse,Buddy Boeheim,Jumper,39,37
+17:39,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,39,37
+17:39,Syracuse,Oshae Brissett,Defensive Rebound,39,37
+17:36,Pittsburgh,Au'Diese Toney,Foul,39,37
+17:18,Syracuse,Buddy Boeheim,Three Point Jumper,39,40
+16:59,Pittsburgh,Xavier Johnson,Missed Three Point Jumper,39,40
+16:59,Pittsburgh,Terrell Brown,Offensive Rebound,39,40
+16:50,Pittsburgh,Xavier Johnson,Missed Jumper,39,40
+16:50,Syracuse,Paschal Chukwu,Block,39,40
+16:50,Pittsburgh,Xavier Johnson,Offensive Rebound,39,40
+16:45,Pittsburgh,Xavier Johnson,Missed Layup,39,40
+16:45,Syracuse,Paschal Chukwu,Block,39,40
+16:45,Syracuse,Paschal Chukwu,Defensive Rebound,39,40
+16:26,Syracuse,Buddy Boeheim,Three Point Jumper,39,43
+16:23,Pittsburgh,None,None,39,43
+16:14,Syracuse,Frank Howard,Foul,39,43
+15:57,Syracuse,None,None,39,43
+15:53,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,39,43
+15:53,Syracuse,Oshae Brissett,Defensive Rebound,39,43
+15:46,Syracuse,Buddy Boeheim,Turnover,39,43
+15:46,Pittsburgh,Malik Ellison,Steal,39,43
+15:39,Pittsburgh,Sidy N'Dir,Missed Jumper,39,43
+15:39,Pittsburgh,Terrell Brown,Offensive Rebound,39,43
+15:39,Pittsburgh,None,None,39,43
+15:39,Syracuse,Frank Howard,Defensive Rebound,39,43
+15:27,Syracuse,Elijah Hughes,Missed Three Point Jumper,39,43
+15:27,Pittsburgh,Malik Ellison,Defensive Rebound,39,43
+15:02,Pittsburgh,Terrell Brown,Turnover,39,43
+15:02,Syracuse,Oshae Brissett,Steal,39,43
+14:56,Syracuse,Buddy Boeheim,Missed Three Point Jumper,39,43
+14:56,Pittsburgh,Terrell Brown,Defensive Rebound,39,43
+14:47,Pittsburgh,Trey McGowens,Missed Three Point Jumper,39,43
+14:47,Syracuse,Elijah Hughes,Defensive Rebound,39,43
+14:31,Syracuse,Oshae Brissett,Missed Jumper,39,43
+14:31,Pittsburgh,Pittsburgh,Defensive Rebound,39,43
+14:26,Pittsburgh,Malik Ellison,Jumper,41,43
+14:13,Syracuse,Buddy Boeheim,Turnover,41,43
+14:13,Pittsburgh,Xavier Johnson,Steal,41,43
+14:08,Pittsburgh,Xavier Johnson,Dunk,43,43
+13:58,Syracuse,Elijah Hughes,Three Point Jumper,43,46
+13:35,Syracuse,Elijah Hughes,Foul,43,46
+13:35,Pittsburgh,Terrell Brown,Missed Free Throw,43,46
+13:35,Pittsburgh,None,Team Rebound,43,46
+13:35,Pittsburgh,Terrell Brown,Missed Free Throw,43,46
+13:35,Syracuse,Buddy Boeheim,Defensive Rebound,43,46
+13:13,Syracuse,Frank Howard,Missed Jumper,43,46
+13:13,Pittsburgh,Terrell Brown,Defensive Rebound,43,46
+13:00,Pittsburgh,Xavier Johnson,Turnover,43,46
+13:00,Syracuse,Paschal Chukwu,Steal,43,46
+12:45,Syracuse,Frank Howard,Three Point Jumper,43,49
+12:20,Pittsburgh,Terrell Brown,Missed Jumper,43,49
+12:20,Syracuse,Elijah Hughes,Defensive Rebound,43,49
+12:13,Syracuse,Buddy Boeheim,Turnover,43,49
+12:13,Pittsburgh,Malik Ellison,Steal,43,49
+12:10,Pittsburgh,Malik Ellison,Missed Layup,43,49
+12:10,Syracuse,Paschal Chukwu,Block,43,49
+12:10,Syracuse,Paschal Chukwu,Defensive Rebound,43,49
+12:07,Pittsburgh,Terrell Brown,Foul,43,49
+11:55,Syracuse,Elijah Hughes,Missed Three Point Jumper,43,49
+11:55,Syracuse,Buddy Boeheim,Offensive Rebound,43,49
+11:51,Syracuse,Buddy Boeheim,Missed Layup,43,49
+11:51,Pittsburgh,Au'Diese Toney,Block,43,49
+11:51,Syracuse,Buddy Boeheim,Offensive Rebound,43,49
+11:50,Syracuse,Buddy Boeheim,Layup,43,51
+11:50,Pittsburgh,Xavier Johnson,Foul,43,51
+11:50,Syracuse,None,None,43,51
+11:50,Syracuse,Buddy Boeheim,Free Throw,43,52
+11:26,Pittsburgh,Sidy N'Dir,Three Point Jumper,46,52
+10:51,Syracuse,Frank Howard,Jumper,46,54
+10:25,Pittsburgh,Sidy N'Dir,Foul,46,54
+10:25,Pittsburgh,Sidy N'Dir,Turnover,46,54
+10:16,Pittsburgh,Xavier Johnson,Foul,46,54
+10:05,Syracuse,Frank Howard,Missed Jumper,46,54
+10:05,Syracuse,Frank Howard,Offensive Rebound,46,54
+9:58,Syracuse,Buddy Boeheim,Missed Jumper,46,54
+9:58,Syracuse,Paschal Chukwu,Offensive Rebound,46,54
+9:55,Syracuse,Paschal Chukwu,Layup,46,56
+9:55,Pittsburgh,Malik Ellison,Foul,46,56
+9:55,Syracuse,Paschal Chukwu,Free Throw,46,57
+9:36,Pittsburgh,Xavier Johnson,Missed Jumper,46,57
+9:36,Pittsburgh,Xavier Johnson,Offensive Rebound,46,57
+9:27,Syracuse,Frank Howard,Foul,46,57
+9:14,Pittsburgh,Sidy N'Dir,Layup,48,57
+9:02,Pittsburgh,Terrell Brown,Foul,48,57
+9:02,Syracuse,Marek Dolezaj,Missed Free Throw,48,57
+9:02,Syracuse,None,Team Rebound,48,57
+9:02,Syracuse,Marek Dolezaj,Free Throw,48,58
+8:50,Pittsburgh,Sidy N'Dir,Missed Jumper,48,58
+8:50,Pittsburgh,Au'Diese Toney,Offensive Rebound,48,58
+8:47,Pittsburgh,Au'Diese Toney,Missed Layup,48,58
+8:47,Syracuse,Paschal Chukwu,Block,48,58
+8:47,Syracuse,Marek Dolezaj,Defensive Rebound,48,58
+8:36,Syracuse,Frank Howard,Turnover,48,58
+8:36,Pittsburgh,Malik Ellison,Steal,48,58
+8:09,Pittsburgh,Trey McGowens,Three Point Jumper,51,58
+7:54,Syracuse,Buddy Boeheim,Missed Three Point Jumper,51,58
+7:54,Syracuse,Paschal Chukwu,Offensive Rebound,51,58
+7:50,Syracuse,Paschal Chukwu,Layup,51,60
+7:31,Pittsburgh,Sidy N'Dir,Turnover,51,60
+7:31,Syracuse,Marek Dolezaj,Steal,51,60
+7:09,Syracuse,Marek Dolezaj,Foul,51,60
+7:09,Syracuse,Marek Dolezaj,Turnover,51,60
+7:09,Syracuse,None,None,51,60
+6:53,Pittsburgh,Trey McGowens,Missed Three Point Jumper,51,60
+6:53,Syracuse,Marek Dolezaj,Defensive Rebound,51,60
+6:21,Pittsburgh,Au'Diese Toney,Foul,51,60
+6:21,Pittsburgh,Jared Wilson-Frame,Foul,51,60
+6:21,Pittsburgh,Jared Wilson-Frame,Foul,51,60
+6:21,Syracuse,Frank Howard,Foul,51,60
+6:21,Syracuse,Frank Howard,Foul,51,60
+6:21,Syracuse,Marek Dolezaj,Missed Free Throw,51,60
+6:21,Syracuse,None,Team Rebound,51,60
+6:21,Syracuse,Marek Dolezaj,Missed Free Throw,51,60
+6:15,Pittsburgh,Terrell Brown,Defensive Rebound,51,60
+5:58,Pittsburgh,Malik Ellison,Missed Jumper,51,60
+5:58,Pittsburgh,Terrell Brown,Offensive Rebound,51,60
+5:48,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,51,60
+5:48,Pittsburgh,Terrell Brown,Offensive Rebound,51,60
+5:44,Pittsburgh,Terrell Brown,Turnover,51,60
+5:14,Syracuse,Elijah Hughes,Turnover,51,60
+5:03,Pittsburgh,Terrell Brown,Missed Jumper,51,60
+5:03,Syracuse,Marek Dolezaj,Defensive Rebound,51,60
+4:36,Pittsburgh,Trey McGowens,Foul,51,60
+4:36,Syracuse,Buddy Boeheim,Free Throw,51,61
+4:36,Syracuse,Buddy Boeheim,Missed Free Throw,51,61
+4:36,Pittsburgh,Malik Ellison,Defensive Rebound,51,61
+4:21,Pittsburgh,Xavier Johnson,Missed Jumper,51,61
+4:21,Syracuse,Paschal Chukwu,Defensive Rebound,51,61
+3:54,Syracuse,Frank Howard,Three Point Jumper,51,64
+3:37,Syracuse,Paschal Chukwu,Foul,51,64
+3:37,Syracuse,None,None,51,64
+3:37,Pittsburgh,Sidy N'Dir,Missed Free Throw,51,64
+3:37,Pittsburgh,None,Team Rebound,51,64
+3:37,Pittsburgh,Sidy N'Dir,Free Throw,52,64
+3:28,Syracuse,None,None,52,64
+3:13,Syracuse,Marek Dolezaj,Jumper,52,66
+2:57,Pittsburgh,Sidy N'Dir,Turnover,52,66
+2:57,Syracuse,Buddy Boeheim,Steal,52,66
+2:31,Syracuse,Frank Howard,Missed Three Point Jumper,52,66
+2:31,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,52,66
+2:12,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,55,66
+2:08,Pittsburgh,None,None,55,66
+1:52,Pittsburgh,Trey McGowens,Foul,55,66
+1:52,Syracuse,Buddy Boeheim,Missed Free Throw,55,66
+1:52,Syracuse,None,Team Rebound,55,66
+1:52,Syracuse,Buddy Boeheim,Free Throw,55,67
+1:34,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,55,67
+1:34,Pittsburgh,Malik Ellison,Offensive Rebound,55,67
+1:30,Syracuse,Paschal Chukwu,Foul,55,67
+1:30,Pittsburgh,Malik Ellison,Free Throw,56,67
+1:30,Pittsburgh,Malik Ellison,Free Throw,57,67
+1:25,Syracuse,None,None,57,67
+1:04,Pittsburgh,Xavier Johnson,Foul,57,67
+1:04,Syracuse,Frank Howard,Free Throw,57,68
+1:04,Syracuse,Frank Howard,Free Throw,57,69
+0:56,Pittsburgh,Trey McGowens,Missed Three Point Jumper,57,69
+0:56,Pittsburgh,Xavier Johnson,Offensive Rebound,57,69
+0:48,Pittsburgh,Xavier Johnson,Missed Layup,57,69
+0:48,Syracuse,Marek Dolezaj,Defensive Rebound,57,69
+0:46,Pittsburgh,Trey McGowens,Foul,57,69
+0:46,Syracuse,Buddy Boeheim,Free Throw,57,70
+0:46,Syracuse,Buddy Boeheim,Free Throw,57,71
+0:39,Pittsburgh,Sidy N'Dir,Jumper,59,71
+0:33,Pittsburgh,Sidy N'Dir,Foul,59,71
+0:33,Syracuse,Frank Howard,Free Throw,59,72
+0:33,Syracuse,Frank Howard,Free Throw,59,73
+0:28,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,59,73
+0:28,Syracuse,Buddy Boeheim,Defensive Rebound,59,73
+0:00,Syracuse,None,None,59,73

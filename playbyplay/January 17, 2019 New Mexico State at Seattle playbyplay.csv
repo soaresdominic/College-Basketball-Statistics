@@ -1,0 +1,331 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:54,Seattle,Mattia Da Campo,Turnover,0,0
+19:30,New Mexico State,Clayton Henry,Three Point Jumper,3,0
+19:10,Seattle,Mattia Da Campo,Missed Layup,3,0
+19:10,New Mexico State,Eli Chuha,Block,3,0
+19:03,Seattle,Trey Hopkins,Offensive Rebound,3,0
+19:02,Seattle,Trey Hopkins,Layup,3,2
+18:55,New Mexico State,Terrell Brown,Three Point Jumper,6,2
+18:41,Seattle,Delante Jones,Missed Layup,6,2
+18:35,New Mexico State,None,Team Rebound,6,2
+18:12,New Mexico State,Eli Chuha,Turnover,6,2
+17:58,Seattle,Morgan Means,Missed Jumper,6,2
+17:58,Seattle,Trey Hopkins,Offensive Rebound,6,2
+17:58,New Mexico State,Eli Chuha,Block,6,2
+17:51,Seattle,Myles Carter,Layup,6,4
+17:42,New Mexico State,AJ Harris,Missed Three Point Jumper,6,4
+17:39,New Mexico State,Clayton Henry,Offensive Rebound,6,4
+17:29,New Mexico State,Terrell Brown,Turnover,6,4
+17:25,Seattle,Myles Carter,Layup,6,6
+16:58,New Mexico State,Terrell Brown,Missed Three Point Jumper,6,6
+16:52,New Mexico State,Eli Chuha,Offensive Rebound,6,6
+16:51,New Mexico State,Eli Chuha,Layup,8,6
+16:21,New Mexico State,Johnny McCants,Foul,8,6
+16:21,Seattle,Myles Carter,Missed Free Throw,8,6
+16:21,Seattle,None,Team Rebound,8,6
+16:21,Seattle,Myles Carter,Free Throw,8,7
+16:05,New Mexico State,Terrell Brown,Missed Three Point Jumper,8,7
+16:02,Seattle,Myles Carter,Defensive Rebound,8,7
+15:45,Seattle,Delante Jones,Turnover,8,7
+15:45,New Mexico State,C.J. Bobbitt,Steal,8,7
+15:41,New Mexico State,C.J. Bobbitt,Turnover,8,7
+15:41,Seattle,Morgan Means,Steal,8,7
+15:27,Seattle,Morgan Means,Missed Layup,8,7
+15:24,New Mexico State,Eli Chuha,Defensive Rebound,8,7
+15:03,New Mexico State,Shunn Buchanan,Missed Jumper,8,7
+15:00,Seattle,Riley Grigsby,Defensive Rebound,8,7
+14:48,Seattle,Morgan Means,Turnover,8,7
+14:48,New Mexico State,C.J. Bobbitt,Steal,8,7
+14:48,Seattle,None,None,8,7
+14:24,Seattle,Riley Grigsby,Foul,8,7
+14:24,New Mexico State,C.J. Bobbitt,Free Throw,9,7
+14:24,New Mexico State,C.J. Bobbitt,Free Throw,10,7
+13:52,Seattle,Riley Grigsby,Missed Three Point Jumper,10,7
+13:48,New Mexico State,AJ Harris,Defensive Rebound,10,7
+13:27,New Mexico State,JoJo Zamora,Layup,12,7
+13:08,New Mexico State,JoJo Zamora,Foul,12,7
+12:59,Seattle,Aaron Nettles,Missed Three Point Jumper,12,7
+12:59,New Mexico State,Ivan Aurrecoechea,Defensive Rebound,12,7
+12:59,Seattle,Myles Carter,Foul,12,7
+12:39,New Mexico State,JoJo Zamora,Layup,14,7
+12:28,New Mexico State,C.J. Bobbitt,Foul,14,7
+12:16,Seattle,Delante Jones,Layup,14,9
+12:01,New Mexico State,JoJo Zamora,Jumper,16,9
+11:47,Seattle,Myles Carter,Jumper,16,11
+11:24,New Mexico State,Ivan Aurrecoechea,Layup,18,11
+11:23,New Mexico State,Johnny McCants,Foul,18,11
+11:23,Seattle,None,None,18,11
+11:03,Seattle,Delante Jones,Missed Layup,18,11
+11:00,Seattle,None,Team Rebound,18,11
+10:52,Seattle,Morgan Means,Missed Three Point Jumper,18,11
+10:50,New Mexico State,Eli Chuha,Defensive Rebound,18,11
+10:29,New Mexico State,JoJo Zamora,Three Point Jumper,21,11
+10:15,Seattle,Delante Jones,Three Point Jumper,21,14
+10:03,Seattle,Delante Jones,Foul,21,14
+9:58,New Mexico State,Keyon Jones,Missed Three Point Jumper,21,14
+9:55,Seattle,Morgan Means,Defensive Rebound,21,14
+9:41,Seattle,Myles Carter,Missed Jumper,21,14
+9:38,New Mexico State,Clayton Henry,Defensive Rebound,21,14
+9:36,New Mexico State,Clayton Henry,Turnover,21,14
+9:36,Seattle,Aaron Nettles,Steal,21,14
+9:31,Seattle,Trey Hopkins,Layup,21,16
+9:17,New Mexico State,AJ Harris,Missed Layup,21,16
+9:12,New Mexico State,Eli Chuha,Offensive Rebound,21,16
+9:12,New Mexico State,Eli Chuha,Layup,23,16
+9:04,Seattle,Delante Jones,Missed Layup,23,16
+9:02,Seattle,Myles Carter,Foul,23,16
+9:02,Seattle,None,None,23,16
+9:00,New Mexico State,Eli Chuha,Defensive Rebound,23,16
+8:55,New Mexico State,JoJo Zamora,Three Point Jumper,26,16
+8:35,Seattle,Delante Jones,Missed Jumper,26,16
+8:31,Seattle,Mattia Da Campo,Offensive Rebound,26,16
+8:28,New Mexico State,JoJo Zamora,Foul,26,16
+8:12,Seattle,Terrell Brown,Missed Jumper,26,16
+8:08,New Mexico State,Clayton Henry,Defensive Rebound,26,16
+7:57,New Mexico State,Eli Chuha,Layup,28,16
+7:45,New Mexico State,Clayton Henry,Foul,28,16
+7:45,Seattle,None,None,28,16
+7:45,Seattle,Terrell Brown,Free Throw,28,17
+7:45,Seattle,Terrell Brown,Missed Free Throw,28,17
+7:44,New Mexico State,Eli Chuha,Defensive Rebound,28,17
+7:14,New Mexico State,Clayton Henry,Three Point Jumper,31,17
+6:55,Seattle,Morgan Means,Missed Three Point Jumper,31,17
+6:54,New Mexico State,None,Team Rebound,31,17
+6:54,Seattle,None,None,31,17
+6:37,New Mexico State,Clayton Henry,Turnover,31,17
+6:37,Seattle,Riley Grigsby,Steal,31,17
+6:27,Seattle,Morgan Means,Jumper,31,19
+6:13,New Mexico State,Clayton Henry,Jumper,33,19
+6:13,Seattle,Terrell Brown,Foul,33,19
+6:12,New Mexico State,Clayton Henry,Missed Free Throw,33,19
+6:10,Seattle,Morgan Means,Defensive Rebound,33,19
+6:08,Seattle,Terrell Brown,Missed Layup,33,19
+6:05,New Mexico State,Trevelin Queen,Defensive Rebound,33,19
+5:47,Seattle,Myles Carter,Foul,33,19
+5:43,Seattle,Morgan Means,Foul,33,19
+5:43,New Mexico State,Terrell Brown,Free Throw,34,19
+5:43,New Mexico State,Terrell Brown,Free Throw,35,19
+5:34,Seattle,Morgan Means,Missed Layup,35,19
+5:30,New Mexico State,Ivan Aurrecoechea,Defensive Rebound,35,19
+5:19,New Mexico State,Shunn Buchanan,Missed Layup,35,19
+5:18,Seattle,Delante Jones,Defensive Rebound,35,19
+5:18,New Mexico State,Ivan Aurrecoechea,Foul,35,19
+5:18,Seattle,Morgan Means,Free Throw,35,20
+5:18,Seattle,Morgan Means,Missed Free Throw,35,20
+5:18,New Mexico State,Clayton Henry,Defensive Rebound,35,20
+4:55,Seattle,Riley Grigsby,Foul,35,20
+4:55,New Mexico State,Ivan Aurrecoechea,Free Throw,36,20
+4:55,New Mexico State,Ivan Aurrecoechea,Missed Free Throw,36,20
+4:54,Seattle,Morgan Means,Defensive Rebound,36,20
+4:42,Seattle,Morgan Means,Turnover,36,20
+4:42,New Mexico State,Shunn Buchanan,Steal,36,20
+4:41,Seattle,Morgan Means,Foul,36,20
+4:41,New Mexico State,Terrell Brown,Free Throw,37,20
+4:41,New Mexico State,Terrell Brown,Free Throw,38,20
+4:29,New Mexico State,Terrell Brown,Foul,38,20
+4:29,Seattle,Delante Jones,Missed Free Throw,38,20
+4:27,New Mexico State,Trevelin Queen,Defensive Rebound,38,20
+4:17,Seattle,Riley Grigsby,Foul,38,20
+4:17,New Mexico State,Ivan Aurrecoechea,Free Throw,39,20
+4:17,New Mexico State,Ivan Aurrecoechea,Missed Free Throw,39,20
+4:15,Seattle,Terrell Brown,Defensive Rebound,39,20
+3:57,Seattle,Delante Jones,Missed Three Point Jumper,39,20
+3:54,Seattle,Terrell Brown,Offensive Rebound,39,20
+3:53,Seattle,Terrell Brown,Missed Layup,39,20
+3:50,New Mexico State,Shunn Buchanan,Defensive Rebound,39,20
+3:50,New Mexico State,Shunn Buchanan,Turnover,39,20
+3:50,Seattle,None,None,39,20
+3:35,Seattle,Delante Jones,Jumper,39,22
+3:12,New Mexico State,Ivan Aurrecoechea,Missed Layup,39,22
+3:06,New Mexico State,Trevelin Queen,Offensive Rebound,39,22
+3:06,New Mexico State,Trevelin Queen,Layup,41,22
+2:48,Seattle,Delante Jones,Turnover,41,22
+2:23,New Mexico State,Eli Chuha,Dunk,43,22
+2:14,New Mexico State,Trevelin Queen,Foul,43,22
+2:14,Seattle,Rip Economou,Missed Free Throw,43,22
+2:13,New Mexico State,Eli Chuha,Defensive Rebound,43,22
+1:52,New Mexico State,Shunn Buchanan,Three Point Jumper,46,22
+1:34,Seattle,Riley Grigsby,Missed Jumper,46,22
+1:30,New Mexico State,Trevelin Queen,Defensive Rebound,46,22
+1:28,New Mexico State,AJ Harris,Missed Three Point Jumper,46,22
+1:25,New Mexico State,Trevelin Queen,Offensive Rebound,46,22
+1:23,New Mexico State,Eli Chuha,Layup,48,22
+1:23,Seattle,Morgan Means,Foul,48,22
+1:23,New Mexico State,Eli Chuha,Missed Free Throw,48,22
+1:23,Seattle,Riley Grigsby,Defensive Rebound,48,22
+1:08,Seattle,Riley Grigsby,Missed Layup,48,22
+1:05,New Mexico State,Eli Chuha,Defensive Rebound,48,22
+0:53,New Mexico State,Jabari Rice,Missed Jumper,48,22
+0:51,Seattle,Riley Grigsby,Defensive Rebound,48,22
+0:51,New Mexico State,Eli Chuha,Foul,48,22
+0:49,Seattle,Riley Grigsby,Free Throw,48,23
+0:49,Seattle,Riley Grigsby,Free Throw,48,24
+0:39,New Mexico State,Jabari Rice,Jumper,50,24
+0:25,Seattle,Rip Economou,Missed Three Point Jumper,50,24
+0:22,New Mexico State,Jabari Rice,Defensive Rebound,50,24
+0:02,New Mexico State,Jabari Rice,Missed Three Point Jumper,50,24
+0:02,New Mexico State,Trevelin Queen,Offensive Rebound,50,24
+0:00,Seattle,None,None,50,24
+19:54,New Mexico State,Eli Chuha,Foul,50,24
+19:51,Seattle,Myles Carter,Jumper,50,26
+19:30,Seattle,Myles Carter,Foul,50,26
+19:30,New Mexico State,Terrell Brown,Free Throw,51,26
+19:30,New Mexico State,Terrell Brown,Free Throw,52,26
+19:05,Seattle,Myles Carter,Missed Layup,52,26
+19:03,New Mexico State,Eli Chuha,Defensive Rebound,52,26
+18:46,New Mexico State,Eli Chuha,Turnover,52,26
+18:46,Seattle,Terrell Brown,Steal,52,26
+18:31,Seattle,Terrell Brown,Layup,52,28
+18:20,New Mexico State,AJ Harris,Layup,54,28
+17:58,Seattle,Morgan Means,Missed Three Point Jumper,54,28
+17:52,New Mexico State,Clayton Henry,Defensive Rebound,54,28
+17:52,New Mexico State,AJ Harris,Turnover,54,28
+17:35,Seattle,Myles Carter,Layup,54,30
+17:17,New Mexico State,Terrell Brown,Missed Three Point Jumper,54,30
+17:14,Seattle,Terrell Brown,Defensive Rebound,54,30
+17:09,Seattle,Terrell Brown,Turnover,54,30
+16:37,New Mexico State,Terrell Brown,Missed Jumper,54,30
+16:30,Seattle,Terrell Brown,Defensive Rebound,54,30
+16:27,Seattle,Delante Jones,Jumper,54,32
+16:13,New Mexico State,Johnny McCants,Three Point Jumper,57,32
+15:57,Seattle,None,None,57,32
+15:50,Seattle,Morgan Means,Missed Three Point Jumper,57,32
+15:47,Seattle,Myles Carter,Offensive Rebound,57,32
+15:47,New Mexico State,Shunn Buchanan,Foul,57,32
+15:38,Seattle,Morgan Means,Three Point Jumper,57,35
+15:24,New Mexico State,C.J. Bobbitt,Turnover,57,35
+15:09,Seattle,Myles Carter,Jumper,57,37
+14:39,New Mexico State,Trevelin Queen,Missed Jumper,57,37
+14:37,Seattle,None,Team Rebound,57,37
+14:24,Seattle,Morgan Means,Jumper,57,39
+13:58,New Mexico State,Ivan Aurrecoechea,Layup,59,39
+13:38,Seattle,Myles Carter,Missed Jumper,59,39
+13:35,New Mexico State,C.J. Bobbitt,Defensive Rebound,59,39
+13:31,Seattle,Morgan Means,Foul,59,39
+13:31,New Mexico State,Shunn Buchanan,Missed Free Throw,59,39
+13:31,New Mexico State,None,Team Rebound,59,39
+13:31,New Mexico State,Shunn Buchanan,Free Throw,60,39
+13:05,Seattle,Delante Jones,Foul,60,39
+12:56,New Mexico State,JoJo Zamora,Missed Jumper,60,39
+12:56,New Mexico State,Mohamed Thiam,Offensive Rebound,60,39
+12:56,New Mexico State,Mohamed Thiam,Turnover,60,39
+12:56,Seattle,Delante Jones,Steal,60,39
+12:56,Seattle,Terrell Brown,Foul,60,39
+12:45,New Mexico State,Mohamed Thiam,Jumper,62,39
+12:25,Seattle,Delante Jones,Jumper,62,41
+12:00,New Mexico State,JoJo Zamora,Foul,62,41
+12:00,New Mexico State,JoJo Zamora,Turnover,62,41
+12:00,Seattle,None,None,62,41
+11:38,Seattle,Delante Jones,Three Point Jumper,62,44
+11:05,Seattle,Riley Grigsby,Defensive Rebound,62,44
+11:04,New Mexico State,Mohamed Thiam,Foul,62,44
+10:55,Seattle,Morgan Means,Missed Jumper,62,44
+10:52,Seattle,Aaron Nettles,Offensive Rebound,62,44
+10:41,Seattle,Riley Grigsby,Turnover,62,44
+10:41,New Mexico State,Mohamed Thiam,Steal,62,44
+10:41,New Mexico State,None,None,62,44
+10:28,New Mexico State,Shunn Buchanan,Missed Three Point Jumper,62,44
+10:23,Seattle,None,Team Rebound,62,44
+10:23,Seattle,None,None,62,44
+10:12,New Mexico State,Mohamed Thiam,Foul,62,44
+10:12,Seattle,Aaron Nettles,Free Throw,62,45
+10:12,Seattle,Aaron Nettles,Free Throw,62,46
+9:45,Seattle,Myles Carter,Foul,62,46
+9:45,New Mexico State,Keyon Jones,Free Throw,63,46
+9:45,New Mexico State,Keyon Jones,Free Throw,64,46
+9:30,Seattle,Delante Jones,Missed Layup,64,46
+9:24,Seattle,Mattia Da Campo,Offensive Rebound,64,46
+9:24,Seattle,Mattia Da Campo,Layup,64,48
+9:16,New Mexico State,Terrell Brown,Missed Layup,64,48
+9:14,Seattle,None,Team Rebound,64,48
+8:58,Seattle,Delante Jones,Turnover,64,48
+8:58,New Mexico State,Terrell Brown,Steal,64,48
+8:40,Seattle,Terrell Brown,Foul,64,48
+8:27,New Mexico State,AJ Harris,Missed Jumper,64,48
+8:24,Seattle,Mattia Da Campo,Defensive Rebound,64,48
+8:19,Seattle,Aaron Nettles,Missed Three Point Jumper,64,48
+8:18,New Mexico State,None,Team Rebound,64,48
+8:04,New Mexico State,Terrell Brown,Layup,66,48
+8:04,Seattle,Riley Grigsby,Foul,66,48
+8:04,New Mexico State,Terrell Brown,Free Throw,67,48
+7:28,New Mexico State,Johnny McCants,Layup,69,50
+7:28,Seattle,Riley Grigsby,Foul,69,50
+7:28,Seattle,None,None,69,50
+7:28,New Mexico State,Johnny McCants,Free Throw,70,50
+7:27,Seattle,Mattia Da Campo,Turnover,70,50
+7:18,New Mexico State,Johnny McCants,Missed Layup,70,50
+7:15,Seattle,Anand Hundal,Defensive Rebound,70,50
+6:58,Seattle,Anand Hundal,Missed Three Point Jumper,70,50
+6:56,New Mexico State,AJ Harris,Defensive Rebound,70,50
+6:43,Seattle,Anand Hundal,Foul,70,50
+6:43,New Mexico State,Johnny McCants,Missed Free Throw,70,50
+6:43,New Mexico State,None,Team Rebound,70,50
+6:43,New Mexico State,Johnny McCants,Missed Free Throw,70,50
+6:42,Seattle,Terrell Brown,Defensive Rebound,70,50
+6:33,Seattle,Aaron Nettles,Missed Three Point Jumper,70,50
+6:27,Seattle,Anand Hundal,Offensive Rebound,70,50
+6:27,Seattle,Anand Hundal,Layup,70,52
+6:19,New Mexico State,AJ Harris,Missed Three Point Jumper,70,52
+6:16,New Mexico State,Trevelin Queen,Offensive Rebound,70,52
+6:16,New Mexico State,Trevelin Queen,Layup,72,52
+6:01,Seattle,Mattia Da Campo,Missed Layup,72,52
+5:57,New Mexico State,AJ Harris,Defensive Rebound,72,52
+5:51,New Mexico State,Eli Chuha,Missed Layup,72,52
+5:51,Seattle,Anand Hundal,Block,72,52
+5:45,Seattle,Terrell Brown,Defensive Rebound,72,52
+5:43,New Mexico State,Keyon Jones,Foul,72,52
+5:31,Seattle,Aaron Nettles,Layup,72,54
+5:24,New Mexico State,Jabari Rice,Missed Layup,72,54
+5:24,Seattle,Anand Hundal,Block,72,54
+5:19,Seattle,Trey Hopkins,Defensive Rebound,72,54
+5:13,Seattle,Delante Jones,Missed Layup,72,54
+5:11,New Mexico State,Trevelin Queen,Defensive Rebound,72,54
+5:02,Seattle,Anand Hundal,Foul,72,54
+5:02,New Mexico State,Eli Chuha,Free Throw,73,54
+5:02,New Mexico State,Eli Chuha,Missed Free Throw,73,54
+5:01,Seattle,Trey Hopkins,Defensive Rebound,73,54
+4:49,Seattle,Trey Hopkins,Missed Three Point Jumper,73,54
+4:47,New Mexico State,None,Team Rebound,73,54
+4:47,Seattle,None,None,73,54
+4:29,New Mexico State,Eli Chuha,Layup,75,54
+4:14,Seattle,Terrell Brown,Missed Jumper,75,54
+4:12,Seattle,None,Team Rebound,75,54
+4:11,New Mexico State,Jabari Rice,Foul,75,54
+4:11,Seattle,Morgan Means,Missed Free Throw,75,54
+4:11,New Mexico State,Eli Chuha,Defensive Rebound,75,54
+3:48,New Mexico State,Shunn Buchanan,Turnover,75,54
+3:48,Seattle,Morgan Means,Steal,75,54
+3:43,Seattle,Aaron Nettles,Layup,75,56
+3:24,New Mexico State,Johnny McCants,Three Point Jumper,78,56
+3:05,Seattle,Delante Jones,Missed Layup,78,56
+3:01,Seattle,Delante Jones,Offensive Rebound,78,56
+3:00,Seattle,Delante Jones,Layup,78,58
+2:46,New Mexico State,Trevelin Queen,Missed Three Point Jumper,78,58
+2:42,New Mexico State,Jabari Rice,Offensive Rebound,78,58
+2:38,New Mexico State,Eli Chuha,Missed Jumper,78,58
+2:38,Seattle,Morgan Means,Foul,78,58
+2:38,New Mexico State,Jabari Rice,Offensive Rebound,78,58
+2:38,New Mexico State,Jabari Rice,Missed Free Throw,78,58
+2:38,New Mexico State,None,Team Rebound,78,58
+2:38,New Mexico State,Jabari Rice,Missed Free Throw,78,58
+2:38,Seattle,Ian Burke,Defensive Rebound,78,58
+2:26,Seattle,Ian Burke,Missed Three Point Jumper,78,58
+2:24,New Mexico State,Jabari Rice,Defensive Rebound,78,58
+2:18,New Mexico State,Mohamed Thiam,Missed Three Point Jumper,78,58
+2:15,New Mexico State,Robert Brown,Offensive Rebound,78,58
+2:14,New Mexico State,Robert Brown,Layup,80,58
+2:04,Seattle,Aaron Nettles,Turnover,80,58
+2:04,New Mexico State,Trevelin Queen,Steal,80,58
+1:58,New Mexico State,Trevelin Queen,Dunk,82,58
+1:42,Seattle,Delante Jones,Layup,82,60
+1:42,New Mexico State,Trevelin Queen,Foul,82,60
+1:42,Seattle,Delante Jones,Missed Free Throw,82,60
+1:42,New Mexico State,Mohamed Thiam,Defensive Rebound,82,60
+1:21,New Mexico State,Berrick JeanLouis,Dunk,84,60
+1:09,Seattle,Delante Jones,Missed Three Point Jumper,84,60
+1:05,New Mexico State,None,Team Rebound,84,60
+0:35,New Mexico State,Berrick JeanLouis,Missed Three Point Jumper,84,60
+0:32,New Mexico State,Jabari Rice,Offensive Rebound,84,60
+0:07,New Mexico State,Trevelin Queen,Three Point Jumper,87,60
+0:00,Seattle,None,None,87,60
+0:00,Seattle,None,None,87,60

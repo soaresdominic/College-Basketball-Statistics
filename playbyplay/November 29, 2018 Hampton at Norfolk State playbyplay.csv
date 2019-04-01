@@ -1,0 +1,460 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,Norfolk State,Steven Whitley,Missed Layup,0,0
+19:44,Hampton,Trevond Barnes,Block,0,0
+19:44,Norfolk State,Norfolk State,Offensive Rebound,0,0
+19:29,Norfolk State,Nic Thomas,Missed Three Point Jumper,0,0
+19:29,Hampton,Trevond Barnes,Defensive Rebound,0,0
+19:17,Hampton,Lysander Bracey,Missed Three Point Jumper,0,0
+19:17,Norfolk State,Nic Thomas,Defensive Rebound,0,0
+19:08,Norfolk State,Alex Long,Layup,0,2
+18:47,Norfolk State,C.J. Kelly,Foul,0,2
+18:47,Hampton,Jermaine Marrow,Missed Free Throw,0,2
+18:47,Hampton,None,Team Rebound,0,2
+18:47,Hampton,Jermaine Marrow,Free Throw,1,2
+18:26,Hampton,Jermaine Marrow,Foul,1,2
+18:25,Hampton,Kalin Fisher,Foul,1,2
+18:18,Norfolk State,C.J. Kelly,Missed Jumper,1,2
+18:18,Norfolk State,Jordan Butler,Offensive Rebound,1,2
+18:16,Hampton,Trevond Barnes,Foul,1,2
+18:16,Norfolk State,Jordan Butler,Free Throw,1,3
+18:16,Norfolk State,Jordan Butler,Free Throw,1,4
+17:46,Hampton,Kalin Fisher,Missed Three Point Jumper,1,4
+17:46,Hampton,Lysander Bracey,Offensive Rebound,1,4
+17:38,Hampton,Jermaine Marrow,Missed Jumper,1,4
+17:38,Norfolk State,C.J. Kelly,Defensive Rebound,1,4
+17:28,Norfolk State,Jordan Butler,Missed Jumper,1,4
+17:28,Hampton,Kalin Fisher,Defensive Rebound,1,4
+17:18,Hampton,Kalin Fisher,Three Point Jumper,4,4
+16:50,Norfolk State,Nic Thomas,Layup,4,6
+16:41,Hampton,Kalin Fisher,Jumper,6,6
+16:26,Norfolk State,Alex Long,Turnover,6,6
+16:26,Hampton,Akim Mitchell,Steal,6,6
+16:20,Norfolk State,C.J. Kelly,Foul,6,6
+16:07,Hampton,Akim Mitchell,Missed Three Point Jumper,6,6
+16:07,Norfolk State,Steven Whitley,Defensive Rebound,6,6
+15:59,Norfolk State,Steven Whitley,Missed Jumper,6,6
+15:59,Hampton,Kalin Fisher,Defensive Rebound,6,6
+15:54,Norfolk State,Steven Whitley,Foul,6,6
+15:54,Norfolk State,None,None,6,6
+15:54,Hampton,Kalin Fisher,Free Throw,7,6
+15:54,Hampton,Kalin Fisher,Free Throw,8,6
+15:29,Norfolk State,Jordan Butler,Missed Jumper,8,6
+15:29,Hampton,None,Team Rebound,8,6
+15:29,Norfolk State,Alex Long,Foul,8,6
+15:10,Hampton,Greg Heckstall,Missed Three Point Jumper,8,6
+15:10,Norfolk State,Jordan Butler,Defensive Rebound,8,6
+15:04,Norfolk State,Nic Thomas,Three Point Jumper,8,9
+14:38,Hampton,Kalin Fisher,Turnover,8,9
+14:23,Norfolk State,Mastadi Pitt,Missed Three Point Jumper,8,9
+14:23,Norfolk State,Nic Thomas,Offensive Rebound,8,9
+14:11,Norfolk State,Mastadi Pitt,Layup,8,11
+13:52,Hampton,Austin Colbert,Dunk,10,11
+13:28,Norfolk State,Mastadi Pitt,Missed Jumper,10,11
+13:28,Hampton,Akim Mitchell,Defensive Rebound,10,11
+13:22,Hampton,Greg Heckstall,Missed Layup,10,11
+13:22,Norfolk State,Alex Long,Block,10,11
+13:21,Hampton,Akim Mitchell,Offensive Rebound,10,11
+13:16,Hampton,Akim Mitchell,Missed Layup,10,11
+13:16,Norfolk State,Alex Long,Defensive Rebound,10,11
+13:10,Norfolk State,Nic Thomas,Three Point Jumper,10,14
+12:55,Norfolk State,Alex Long,Foul,10,14
+12:55,Hampton,Jermaine Marrow,Missed Free Throw,10,14
+12:55,Hampton,None,Team Rebound,10,14
+12:55,Hampton,Jermaine Marrow,Missed Free Throw,10,14
+12:55,Norfolk State,Armani Branch,Defensive Rebound,10,14
+12:41,Norfolk State,Nic Thomas,Missed Three Point Jumper,10,14
+12:41,Hampton,Jermaine Marrow,Defensive Rebound,10,14
+12:34,Hampton,Jermaine Marrow,Turnover,10,14
+12:28,Norfolk State,Nic Thomas,Layup,10,16
+12:12,Hampton,Kalin Fisher,Missed Three Point Jumper,10,16
+12:12,Hampton,Trey Carver,Offensive Rebound,10,16
+12:07,Hampton,Trey Carver,Missed Jumper,10,16
+12:07,Norfolk State,Nic Thomas,Defensive Rebound,10,16
+11:34,Norfolk State,Mastadi Pitt,Missed Three Point Jumper,10,16
+11:34,Norfolk State,Jordan Butler,Offensive Rebound,10,16
+11:29,Hampton,Trevond Barnes,Foul,10,16
+11:29,Norfolk State,None,None,10,16
+11:29,Norfolk State,Jordan Butler,Free Throw,10,17
+11:29,Norfolk State,Jordan Butler,Missed Free Throw,10,17
+11:29,Hampton,Austin Colbert,Defensive Rebound,10,17
+11:05,Hampton,Kalin Fisher,Three Point Jumper,13,17
+10:33,Norfolk State,Mastadi Pitt,Missed Jumper,13,17
+10:33,Hampton,Austin Colbert,Defensive Rebound,13,17
+10:28,Hampton,Jermaine Marrow,Missed Three Point Jumper,13,17
+10:28,Norfolk State,Armani Branch,Defensive Rebound,13,17
+10:18,Norfolk State,Steven Whitley,Missed Jumper,13,17
+10:18,Norfolk State,Steven Whitley,Offensive Rebound,13,17
+10:16,Norfolk State,None,None,13,17
+10:16,Norfolk State,Jordan Butler,Offensive Rebound,13,17
+10:14,Norfolk State,None,None,13,19
+9:53,Hampton,Kalin Fisher,Missed Jumper,13,19
+9:53,Norfolk State,Steven Whitley,Defensive Rebound,13,19
+9:35,Norfolk State,Armani Branch,Missed Jumper,13,19
+9:35,Norfolk State,Derrik Jamerson Jr.,Offensive Rebound,13,19
+9:31,Norfolk State,Mastadi Pitt,Three Point Jumper,13,22
+9:11,Hampton,Austin Colbert,Missed Jumper,13,22
+9:11,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,13,22
+8:51,Norfolk State,Steven Whitley,Missed Three Point Jumper,13,22
+8:51,Hampton,Jermaine Marrow,Defensive Rebound,13,22
+8:44,Hampton,Jermaine Marrow,Missed Layup,13,22
+8:44,Norfolk State,Jordan Butler,Block,13,22
+8:43,Norfolk State,Norfolk State,Defensive Rebound,13,22
+8:26,Norfolk State,Derrik Jamerson Jr.,Three Point Jumper,13,25
+8:07,Norfolk State,Chris Ford,Foul,13,25
+7:55,Hampton,Lysander Bracey,Missed Three Point Jumper,13,25
+7:55,Norfolk State,Steven Whitley,Defensive Rebound,13,25
+7:49,Norfolk State,None,None,13,25
+7:36,Norfolk State,Steven Whitley,Turnover,13,25
+7:33,Hampton,Lysander Bracey,Turnover,13,25
+7:32,Norfolk State,Steven Whitley,Steal,13,25
+7:29,Norfolk State,Steven Whitley,Jumper,13,27
+7:09,Hampton,Akim Mitchell,Turnover,13,27
+7:05,Hampton,Jermaine Marrow,Foul,13,27
+7:05,Norfolk State,Mastadi Pitt,Free Throw,13,28
+7:05,Norfolk State,Mastadi Pitt,Missed Free Throw,13,28
+7:05,Hampton,Greg Heckstall,Defensive Rebound,13,28
+6:52,Norfolk State,Kyonze Chavis,Foul,13,28
+6:52,Hampton,Kalin Fisher,Free Throw,14,28
+6:52,Hampton,Kalin Fisher,Missed Free Throw,14,28
+6:52,Norfolk State,Steven Whitley,Defensive Rebound,14,28
+6:39,Norfolk State,Steven Whitley,Turnover,14,28
+6:14,Hampton,Jermaine Marrow,Missed Layup,14,28
+6:14,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,14,28
+6:07,Norfolk State,Steven Whitley,Missed Three Point Jumper,14,28
+6:07,Hampton,Trevond Barnes,Defensive Rebound,14,28
+5:46,Hampton,Akim Mitchell,Three Point Jumper,17,28
+5:16,Norfolk State,Kyonze Chavis,Missed Jumper,17,28
+5:16,Hampton,Greg Heckstall,Defensive Rebound,17,28
+4:57,Hampton,Trevond Barnes,Missed Jumper,17,28
+4:57,Norfolk State,Kyonze Chavis,Defensive Rebound,17,28
+4:50,Norfolk State,Steven Whitley,Layup,17,30
+4:27,Hampton,Kalin Fisher,Three Point Jumper,20,30
+4:02,Norfolk State,Jordan Butler,Missed Jumper,20,30
+4:02,Hampton,Greg Heckstall,Defensive Rebound,20,30
+3:53,Hampton,Kalin Fisher,Missed Layup,20,30
+3:53,Norfolk State,Jordan Butler,Block,20,30
+3:52,Hampton,Hampton,Offensive Rebound,20,30
+3:52,Norfolk State,None,None,20,30
+3:40,Hampton,Kalin Fisher,Missed Three Point Jumper,20,30
+3:40,Norfolk State,Jordan Butler,Defensive Rebound,20,30
+3:31,Norfolk State,Steven Whitley,Layup,20,32
+3:17,Hampton,Ricquall Smoot,Missed Layup,20,32
+3:17,Hampton,Greg Heckstall,Offensive Rebound,20,32
+3:16,Hampton,None,None,22,32
+3:09,Norfolk State,Steven Whitley,Turnover,22,32
+2:58,Norfolk State,Steven Whitley,Foul,22,32
+2:58,Hampton,Jermaine Marrow,Free Throw,23,32
+2:58,Hampton,Jermaine Marrow,Free Throw,24,32
+2:38,Hampton,Ricquall Smoot,Foul,24,32
+2:38,Norfolk State,Mastadi Pitt,Free Throw,24,33
+2:38,Norfolk State,Mastadi Pitt,Free Throw,24,34
+2:31,Hampton,Greg Heckstall,Turnover,24,34
+2:30,Norfolk State,Nic Thomas,Steal,24,34
+2:26,Norfolk State,Derrik Jamerson Jr.,Layup,24,36
+2:09,Hampton,Akim Mitchell,Layup,26,36
+1:56,Norfolk State,Mastadi Pitt,Missed Three Point Jumper,26,36
+1:56,Hampton,Akim Mitchell,Defensive Rebound,26,36
+1:49,Hampton,Greg Heckstall,Missed Layup,26,36
+1:49,Hampton,Hampton,Offensive Rebound,26,36
+1:41,Hampton,Dondre Griffin,Missed Jumper,26,36
+1:41,Norfolk State,Armani Branch,Defensive Rebound,26,36
+1:34,Norfolk State,Mastadi Pitt,Turnover,26,36
+1:34,Norfolk State,Mastadi Pitt,Foul,26,36
+1:23,Hampton,Jermaine Marrow,Turnover,26,36
+1:20,Norfolk State,Mastadi Pitt,Dunk,26,38
+1:10,Hampton,None,None,26,38
+0:56,Norfolk State,Armani Branch,Foul,26,38
+0:56,Hampton,Kalin Fisher,Free Throw,27,38
+0:56,Hampton,Kalin Fisher,Free Throw,28,38
+0:56,Norfolk State,None,None,28,38
+0:27,Norfolk State,Mastadi Pitt,Jumper,28,40
+0:07,Hampton,Akim Mitchell,Missed Three Point Jumper,28,40
+0:07,Hampton,None,Team Rebound,28,40
+0:05,Norfolk State,Derrik Jamerson Jr.,Foul,28,40
+0:05,Hampton,Austin Colbert,Free Throw,29,40
+0:05,Hampton,Austin Colbert,Free Throw,30,40
+0:00,Norfolk State,Mastadi Pitt,Missed Three Point Jumper,30,40
+0:00,Hampton,Akim Mitchell,Defensive Rebound,30,40
+0:00,Norfolk State,None,None,30,40
+19:50,Norfolk State,Alex Long,Jumper,30,42
+19:33,Norfolk State,Alex Long,Foul,30,42
+19:33,Hampton,Akim Mitchell,Missed Free Throw,30,42
+19:33,Hampton,None,Team Rebound,30,42
+19:33,Hampton,Akim Mitchell,Free Throw,31,42
+19:19,Norfolk State,Alex Long,Jumper,31,44
+19:03,Hampton,Trevond Barnes,Dunk,33,44
+18:48,Norfolk State,Jordan Butler,Turnover,33,44
+18:48,Norfolk State,Jordan Butler,Foul,33,44
+18:34,Hampton,Trevond Barnes,Missed Three Point Jumper,33,44
+18:34,Norfolk State,Nic Thomas,Defensive Rebound,33,44
+18:26,Norfolk State,Nic Thomas,Missed Layup,33,44
+18:26,Hampton,Trevond Barnes,Block,33,44
+18:24,Hampton,Jermaine Marrow,Defensive Rebound,33,44
+18:18,Hampton,Kalin Fisher,Turnover,33,44
+18:14,Norfolk State,Nic Thomas,Turnover,33,44
+17:58,Hampton,Jermaine Marrow,Jumper,35,44
+17:39,Norfolk State,Steven Whitley,Layup,35,46
+17:21,Hampton,Kalin Fisher,Jumper,37,46
+16:56,Hampton,Lysander Bracey,Foul,37,46
+16:49,Norfolk State,C.J. Kelly,Missed Three Point Jumper,37,46
+16:49,Hampton,Trevond Barnes,Defensive Rebound,37,46
+16:41,Hampton,Jermaine Marrow,Three Point Jumper,40,46
+16:18,Norfolk State,Steven Whitley,Missed Three Point Jumper,40,46
+16:18,Hampton,Kalin Fisher,Defensive Rebound,40,46
+16:00,Hampton,Jermaine Marrow,Three Point Jumper,43,46
+15:56,Norfolk State,None,None,43,46
+15:56,Norfolk State,None,None,43,46
+15:41,Norfolk State,Armani Branch,Turnover,43,46
+15:25,Hampton,Jermaine Marrow,Layup,45,46
+15:01,Norfolk State,Nic Thomas,Turnover,45,46
+15:00,Hampton,Jermaine Marrow,Steal,45,46
+14:55,Hampton,Lysander Bracey,Three Point Jumper,48,46
+14:26,Norfolk State,Nic Thomas,Missed Three Point Jumper,48,46
+14:26,Hampton,Jermaine Marrow,Defensive Rebound,48,46
+14:18,Norfolk State,Armani Branch,Foul,48,46
+14:11,Hampton,Kalin Fisher,Missed Three Point Jumper,48,46
+14:11,Norfolk State,Nic Thomas,Defensive Rebound,48,46
+14:03,Hampton,Jermaine Marrow,Foul,48,46
+13:55,Norfolk State,Steven Whitley,Missed Jumper,48,46
+13:55,Hampton,Akim Mitchell,Defensive Rebound,48,46
+13:37,Hampton,Lysander Bracey,Missed Three Point Jumper,48,46
+13:37,Hampton,Trevond Barnes,Offensive Rebound,48,46
+13:31,Hampton,Jermaine Marrow,Jumper,50,46
+13:27,Hampton,Lysander Bracey,Foul,50,46
+13:27,Hampton,None,None,50,46
+13:13,Norfolk State,Jordan Butler,Missed Layup,50,46
+13:13,Norfolk State,Jordan Butler,Offensive Rebound,50,46
+13:11,Norfolk State,None,None,50,48
+12:45,Hampton,Kalin Fisher,Missed Three Point Jumper,50,48
+12:45,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,50,48
+12:26,Norfolk State,Mastadi Pitt,Missed Jumper,50,48
+12:26,Hampton,Akim Mitchell,Defensive Rebound,50,48
+12:17,Hampton,Lysander Bracey,Missed Three Point Jumper,50,48
+12:17,Norfolk State,Armani Branch,Defensive Rebound,50,48
+12:01,Norfolk State,Nic Thomas,Jumper,50,50
+11:49,Norfolk State,None,None,50,50
+11:33,Hampton,Lysander Bracey,Missed Three Point Jumper,50,50
+11:33,Norfolk State,Armani Branch,Defensive Rebound,50,50
+10:59,Norfolk State,Nic Thomas,Missed Three Point Jumper,50,50
+10:59,Hampton,Kalin Fisher,Defensive Rebound,50,50
+10:51,Hampton,Kalin Fisher,Missed Layup,50,50
+10:51,Norfolk State,Jordan Butler,Block,50,50
+10:50,Norfolk State,Mastadi Pitt,Defensive Rebound,50,50
+10:49,Hampton,Austin Colbert,Foul,50,50
+10:31,Hampton,Akim Mitchell,Foul,50,50
+10:18,Norfolk State,Jordan Butler,Turnover,50,50
+10:17,Hampton,Kalin Fisher,Steal,50,50
+10:16,Norfolk State,Derrik Jamerson Jr.,Foul,51,50
+10:16,Hampton,Jermaine Marrow,Foul,51,50
+10:16,Hampton,Kalin Fisher,Free Throw,51,50
+10:16,Norfolk State,Derrik Jamerson Jr.,Foul,51,50
+10:16,Hampton,Jermaine Marrow,Foul,51,50
+10:16,Norfolk State,Derrik Jamerson Jr.,Foul,51,50
+10:14,Hampton,Kalin Fisher,Layup,53,50
+10:05,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,53,50
+10:05,Hampton,Trevond Barnes,Defensive Rebound,53,50
+9:40,Hampton,Jermaine Marrow,Missed Three Point Jumper,53,50
+9:40,Norfolk State,None,Team Rebound,53,50
+9:39,Hampton,Trevond Barnes,Foul,53,50
+9:39,Norfolk State,Steven Whitley,Free Throw,53,51
+9:39,Norfolk State,Steven Whitley,Free Throw,53,52
+9:27,Hampton,Greg Heckstall,Missed Three Point Jumper,53,52
+9:27,Norfolk State,Steven Whitley,Defensive Rebound,53,52
+9:10,Norfolk State,Steven Whitley,Missed Jumper,53,52
+9:10,Hampton,Jermaine Marrow,Defensive Rebound,53,52
+8:58,Hampton,Kalin Fisher,Missed Three Point Jumper,53,52
+8:58,Norfolk State,Jordan Butler,Defensive Rebound,53,52
+8:49,Norfolk State,Nic Thomas,Turnover,53,52
+8:38,Norfolk State,Nic Thomas,Foul,53,52
+8:25,Hampton,Jermaine Marrow,Missed Layup,53,52
+8:25,Norfolk State,Jordan Butler,Block,53,52
+8:24,Hampton,Hampton,Offensive Rebound,53,52
+8:20,Hampton,Kalin Fisher,Missed Layup,53,52
+8:20,Norfolk State,Alex Long,Block,53,52
+8:20,Hampton,Hampton,Offensive Rebound,53,52
+8:19,Hampton,Trevond Barnes,Turnover,53,52
+8:19,Hampton,Trevond Barnes,Foul,53,52
+8:08,Hampton,Benjamin Stanley,Foul,53,52
+8:08,Norfolk State,Jordan Butler,Free Throw,53,53
+8:08,Norfolk State,Jordan Butler,Free Throw,53,54
+7:58,Hampton,Greg Heckstall,Three Point Jumper,56,54
+7:33,Norfolk State,Alex Long,Jumper,56,56
+7:11,Norfolk State,Chris Ford,Foul,56,56
+7:11,Norfolk State,None,None,56,56
+7:11,Hampton,Benjamin Stanley,Missed Free Throw,56,56
+7:11,Hampton,None,Team Rebound,56,56
+7:11,Hampton,Benjamin Stanley,Missed Free Throw,56,56
+7:11,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,56,56
+7:01,Hampton,Akim Mitchell,Foul,56,56
+7:01,Norfolk State,Alex Long,Missed Free Throw,56,56
+7:01,Norfolk State,None,Team Rebound,56,56
+7:01,Norfolk State,Alex Long,Missed Free Throw,56,56
+7:01,Hampton,Kalin Fisher,Defensive Rebound,56,56
+6:42,Norfolk State,Alex Long,Foul,56,56
+6:42,Hampton,Jermaine Marrow,Free Throw,57,56
+6:42,Hampton,Jermaine Marrow,Free Throw,58,56
+6:28,Norfolk State,Derrik Jamerson Jr.,Missed Jumper,58,56
+6:28,Hampton,Jermaine Marrow,Defensive Rebound,58,56
+6:05,Hampton,Akim Mitchell,Missed Layup,58,56
+6:05,Norfolk State,None,Team Rebound,58,56
+6:05,Hampton,Austin Colbert,Foul,58,56
+6:05,Norfolk State,Jordan Butler,Free Throw,58,57
+6:05,Norfolk State,Jordan Butler,Free Throw,58,58
+5:40,Hampton,Austin Colbert,Turnover,58,58
+5:23,Norfolk State,Nic Thomas,Missed Three Point Jumper,58,58
+5:23,Norfolk State,Norfolk State,Offensive Rebound,58,58
+5:07,Hampton,Austin Colbert,Foul,58,58
+5:07,Norfolk State,Jordan Butler,Free Throw,58,59
+5:07,Norfolk State,Jordan Butler,Free Throw,58,60
+4:56,Norfolk State,Nic Thomas,Foul,58,60
+4:56,Hampton,Kalin Fisher,Missed Free Throw,58,60
+4:56,Norfolk State,Armani Branch,Defensive Rebound,58,60
+4:40,Norfolk State,Jordan Butler,Turnover,58,60
+4:40,Norfolk State,Jordan Butler,Foul,58,60
+4:31,Hampton,Kalin Fisher,Turnover,58,60
+4:17,Hampton,Jermaine Marrow,Foul,58,60
+4:17,Norfolk State,Jordan Butler,Free Throw,58,61
+4:17,Norfolk State,Jordan Butler,Free Throw,58,62
+4:04,Hampton,Akim Mitchell,Missed Three Point Jumper,58,62
+4:04,Norfolk State,Steven Whitley,Defensive Rebound,58,62
+3:57,Norfolk State,Nic Thomas,Three Point Jumper,58,65
+3:35,Hampton,Kalin Fisher,Missed Three Point Jumper,58,65
+3:35,Norfolk State,Steven Whitley,Defensive Rebound,58,65
+3:29,Norfolk State,Nic Thomas,Missed Three Point Jumper,58,65
+3:29,Norfolk State,Jordan Butler,Offensive Rebound,58,65
+3:23,Norfolk State,Jordan Butler,Missed Layup,58,65
+3:23,Hampton,Kalin Fisher,Defensive Rebound,58,65
+2:55,Hampton,Greg Heckstall,Missed Layup,58,65
+2:55,Norfolk State,Jordan Butler,Block,58,65
+2:54,Norfolk State,Jordan Butler,Defensive Rebound,58,65
+2:50,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,58,65
+2:50,Hampton,Lysander Bracey,Defensive Rebound,58,65
+2:26,Hampton,Greg Heckstall,Missed Three Point Jumper,58,65
+2:26,Hampton,Akim Mitchell,Offensive Rebound,58,65
+2:20,Norfolk State,Jordan Butler,Foul,58,65
+2:20,Norfolk State,None,None,58,65
+2:20,Hampton,Kalin Fisher,Free Throw,59,65
+2:20,Hampton,Kalin Fisher,Free Throw,60,65
+1:54,Norfolk State,Alex Long,Missed Jumper,60,65
+1:54,Hampton,Trevond Barnes,Defensive Rebound,60,65
+1:45,Hampton,Kalin Fisher,Turnover,60,65
+1:44,Norfolk State,Derrik Jamerson Jr.,Steal,60,65
+1:31,Hampton,Trevond Barnes,Foul,60,65
+1:31,Norfolk State,Jordan Butler,Free Throw,60,66
+1:31,Norfolk State,Jordan Butler,Free Throw,60,67
+1:22,Hampton,Greg Heckstall,Three Point Jumper,63,67
+1:03,Hampton,Kalin Fisher,Foul,63,67
+1:03,Norfolk State,Nic Thomas,Free Throw,63,68
+1:03,Norfolk State,Nic Thomas,Free Throw,63,69
+0:48,Norfolk State,Jordan Butler,Foul,63,69
+0:48,Hampton,Lysander Bracey,Free Throw,64,69
+0:48,Hampton,Lysander Bracey,Free Throw,65,69
+0:48,Hampton,Lysander Bracey,Free Throw,66,69
+0:31,Norfolk State,Jordan Butler,Turnover,66,69
+0:31,Norfolk State,Jordan Butler,Foul,66,69
+0:31,Hampton,None,None,66,69
+0:20,Hampton,Lysander Bracey,Three Point Jumper,69,69
+0:14,Norfolk State,None,None,69,69
+0:06,Norfolk State,Steven Whitley,Turnover,69,69
+0:06,Hampton,Kalin Fisher,Steal,69,69
+0:06,Hampton,None,None,69,69
+0:00,Hampton,Kalin Fisher,Missed Layup,69,69
+0:00,Norfolk State,Alex Long,Block,69,69
+0:00,Hampton,Kalin Fisher,Offensive Rebound,69,69
+0:00,Norfolk State,None,None,69,69
+4:41,Hampton,Kalin Fisher,Foul,69,69
+4:41,Norfolk State,Steven Whitley,Free Throw,69,70
+4:41,Norfolk State,Steven Whitley,Free Throw,69,71
+4:20,Hampton,Kalin Fisher,Missed Three Point Jumper,69,71
+4:20,Hampton,Akim Mitchell,Offensive Rebound,69,71
+4:16,Norfolk State,Nic Thomas,Foul,69,71
+4:16,Hampton,Akim Mitchell,Free Throw,70,71
+4:16,Hampton,Akim Mitchell,Free Throw,71,71
+4:02,Norfolk State,Derrik Jamerson Jr.,Jumper,71,73
+3:46,Hampton,Lysander Bracey,Missed Layup,71,73
+3:46,Norfolk State,Mastadi Pitt,Defensive Rebound,71,73
+3:17,Norfolk State,Nic Thomas,Missed Jumper,71,73
+3:17,Hampton,Austin Colbert,Block,71,73
+3:16,Hampton,Greg Heckstall,Defensive Rebound,71,73
+3:00,Hampton,Kalin Fisher,Layup,73,73
+2:45,Norfolk State,Alex Long,Turnover,73,73
+2:45,Norfolk State,Alex Long,Foul,73,73
+2:17,Hampton,Akim Mitchell,Dunk,75,73
+2:08,Hampton,Lysander Bracey,Foul,75,73
+2:08,Norfolk State,Mastadi Pitt,Free Throw,75,74
+2:08,Norfolk State,Mastadi Pitt,Missed Free Throw,75,74
+2:08,Hampton,Hampton,Defensive Rebound,75,74
+1:36,Hampton,Greg Heckstall,Missed Jumper,75,74
+1:36,Hampton,Hampton,Offensive Rebound,75,74
+1:20,Hampton,Lysander Bracey,Turnover,75,74
+1:18,Norfolk State,Steven Whitley,Steal,75,74
+1:18,Hampton,Kalin Fisher,Foul,75,74
+1:18,Norfolk State,Nic Thomas,Missed Free Throw,75,74
+1:18,Norfolk State,None,Team Rebound,75,74
+1:18,Norfolk State,Nic Thomas,Free Throw,75,75
+1:00,Hampton,Greg Heckstall,Layup,77,75
+0:55,Hampton,Akim Mitchell,Foul,77,75
+0:55,Norfolk State,Steven Whitley,Missed Free Throw,77,75
+0:55,Norfolk State,None,Team Rebound,77,75
+0:55,Norfolk State,Steven Whitley,Free Throw,77,76
+0:36,Hampton,Kalin Fisher,Missed Jumper,77,76
+0:36,Norfolk State,Nic Thomas,Defensive Rebound,77,76
+0:33,Hampton,Austin Colbert,Foul,77,76
+0:33,Norfolk State,Nic Thomas,Free Throw,77,77
+0:33,Norfolk State,Nic Thomas,Free Throw,77,78
+0:33,Norfolk State,None,None,77,78
+0:16,Norfolk State,Armani Branch,Foul,77,78
+0:16,Hampton,Kalin Fisher,Missed Free Throw,77,78
+0:16,Hampton,None,Team Rebound,77,78
+0:16,Hampton,Kalin Fisher,Free Throw,78,78
+0:01,Norfolk State,Mastadi Pitt,Missed Jumper,78,78
+0:01,Hampton,Austin Colbert,Defensive Rebound,78,78
+0:00,Norfolk State,None,None,78,78
+4:45,Hampton,Austin Colbert,Jumper,80,78
+4:22,Norfolk State,Steven Whitley,Jumper,80,80
+4:02,Hampton,Greg Heckstall,Missed Jumper,80,80
+4:02,Norfolk State,Armani Branch,Defensive Rebound,80,80
+3:44,Norfolk State,Steven Whitley,Three Point Jumper,80,83
+3:24,Hampton,Kalin Fisher,Missed Jumper,80,83
+3:24,Norfolk State,Derrik Jamerson Jr.,Defensive Rebound,80,83
+3:16,Norfolk State,Nic Thomas,Missed Jumper,80,83
+3:16,Hampton,Greg Heckstall,Defensive Rebound,80,83
+3:04,Hampton,Lysander Bracey,Missed Three Point Jumper,80,83
+3:04,Hampton,Lysander Bracey,Offensive Rebound,80,83
+3:04,Norfolk State,Derrik Jamerson Jr.,Foul,80,83
+3:04,Hampton,Lysander Bracey,Free Throw,81,83
+3:04,Hampton,Lysander Bracey,Free Throw,82,83
+2:47,Norfolk State,Steven Whitley,Layup,82,85
+2:24,Hampton,Lysander Bracey,Missed Layup,82,85
+2:24,Hampton,Austin Colbert,Offensive Rebound,82,85
+2:21,Hampton,None,None,82,85
+2:21,Norfolk State,Armani Branch,Defensive Rebound,82,85
+2:07,Norfolk State,Steven Whitley,Missed Three Point Jumper,82,85
+2:07,Hampton,Greg Heckstall,Defensive Rebound,82,85
+1:59,Norfolk State,Derrik Jamerson Jr.,Foul,82,85
+1:59,Hampton,Greg Heckstall,Free Throw,83,85
+1:59,Hampton,Greg Heckstall,Free Throw,84,85
+1:40,Norfolk State,Nic Thomas,Missed Layup,84,85
+1:40,Hampton,Lysander Bracey,Block,84,85
+1:40,Norfolk State,Norfolk State,Offensive Rebound,84,85
+1:32,Hampton,Greg Heckstall,Foul,84,85
+1:32,Norfolk State,Mastadi Pitt,Free Throw,84,86
+1:32,Norfolk State,Mastadi Pitt,Free Throw,84,87
+1:10,Hampton,Greg Heckstall,Jumper,86,87
+0:46,Norfolk State,None,None,86,87
+0:42,Norfolk State,Nic Thomas,Three Point Jumper,86,90
+0:30,Hampton,Greg Heckstall,Layup,88,90
+0:30,Norfolk State,C.J. Kelly,Foul,88,90
+0:30,Hampton,Greg Heckstall,Free Throw,89,90
+0:30,Hampton,None,None,89,90
+0:20,Hampton,Akim Mitchell,Foul,89,90
+0:20,Norfolk State,Nic Thomas,Free Throw,89,91
+0:20,Norfolk State,Nic Thomas,Free Throw,89,92
+0:13,Hampton,Greg Heckstall,Missed Layup,89,92
+0:13,Norfolk State,Mastadi Pitt,Defensive Rebound,89,92
+0:12,Hampton,Lysander Bracey,Foul,89,92
+0:12,Norfolk State,Mastadi Pitt,Free Throw,89,93
+0:12,Norfolk State,Mastadi Pitt,Free Throw,89,94
+0:08,Hampton,Kalin Fisher,Missed Three Point Jumper,89,94
+0:08,Norfolk State,Steven Whitley,Defensive Rebound,89,94
+0:00,Norfolk State,None,None,89,94

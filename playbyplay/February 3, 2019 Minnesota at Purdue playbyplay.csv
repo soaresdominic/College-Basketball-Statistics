@@ -1,0 +1,310 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,Purdue,Carsen Edwards,Missed Three Point Jumper,0,0
+19:39,Minnesota,Jordan Murphy,Defensive Rebound,0,0
+19:22,Minnesota,Jordan Murphy,Turnover,0,0
+18:58,Purdue,Trevion Williams,Layup,0,2
+18:39,Purdue,Nojel Eastern,Foul,0,2
+18:20,Minnesota,Jordan Murphy,Turnover,0,2
+18:20,Purdue,Nojel Eastern,Steal,0,2
+18:04,Purdue,Trevion Williams,Dunk,0,4
+17:38,Minnesota,Eric Curry,Turnover,0,4
+17:38,Purdue,Nojel Eastern,Steal,0,4
+17:33,Purdue,Nojel Eastern,Layup,0,6
+17:33,Minnesota,None,None,0,6
+17:13,Minnesota,Dupree McBrayer,Missed Jumper,0,6
+17:10,Purdue,Grady Eifert,Defensive Rebound,0,6
+17:04,Purdue,Carsen Edwards,Turnover,0,6
+17:04,Minnesota,Dupree McBrayer,Steal,0,6
+16:56,Minnesota,Jordan Murphy,Foul,0,6
+16:56,Minnesota,Jordan Murphy,Turnover,0,6
+16:37,Purdue,Trevion Williams,Layup,0,8
+16:09,Minnesota,Daniel Oturu,Jumper,2,8
+16:09,Purdue,Ryan Cline,Foul,2,8
+16:09,Minnesota,Daniel Oturu,Free Throw,3,8
+15:53,Purdue,Ryan Cline,Missed Three Point Jumper,3,8
+15:49,Minnesota,Jordan Murphy,Defensive Rebound,3,8
+15:43,Minnesota,Daniel Oturu,Layup,5,8
+15:13,Purdue,Trevion Williams,Jumper,5,10
+14:55,Minnesota,Isaiah Washington,Missed Jumper,5,10
+14:55,Purdue,Eric Hunter Jr.,Block,5,10
+14:51,Minnesota,Isaiah Washington,Offensive Rebound,5,10
+14:49,Minnesota,Jordan Murphy,Missed Three Point Jumper,5,10
+14:46,Purdue,Carsen Edwards,Defensive Rebound,5,10
+14:42,Purdue,Carsen Edwards,Missed Jumper,5,10
+14:38,Minnesota,Amir Coffey,Defensive Rebound,5,10
+14:31,Minnesota,Amir Coffey,Missed Three Point Jumper,5,10
+14:28,Purdue,Eric Hunter Jr.,Defensive Rebound,5,10
+14:08,Purdue,Carsen Edwards,Missed Three Point Jumper,5,10
+14:05,Minnesota,Isaiah Washington,Defensive Rebound,5,10
+14:00,Minnesota,Daniel Oturu,Layup,7,10
+13:30,Purdue,Eric Hunter Jr.,Missed Three Point Jumper,7,10
+13:25,Minnesota,Jordan Murphy,Defensive Rebound,7,10
+13:22,Minnesota,Amir Coffey,Missed Layup,7,10
+13:22,Purdue,Purdue,Defensive Rebound,7,10
+13:22,Purdue,None,None,7,10
+13:21,Purdue,None,None,7,10
+13:21,Purdue,None,None,7,10
+13:05,Purdue,Matt Haarms,Jumper,7,12
+12:40,Minnesota,Daniel Oturu,Jumper,9,12
+12:14,Purdue,Aaron Wheeler,Missed Jumper,9,12
+12:11,Minnesota,Amir Coffey,Defensive Rebound,9,12
+12:01,Minnesota,Amir Coffey,Turnover,9,12
+12:01,Purdue,Carsen Edwards,Steal,9,12
+11:56,Purdue,Carsen Edwards,Layup,9,14
+11:30,Minnesota,Isaiah Washington,Three Point Jumper,12,14
+11:09,Purdue,Aaron Wheeler,Missed Three Point Jumper,12,14
+11:05,Minnesota,Daniel Oturu,Defensive Rebound,12,14
+11:02,Minnesota,Dupree McBrayer,Missed Three Point Jumper,12,14
+10:59,Purdue,Aaron Wheeler,Defensive Rebound,12,14
+10:51,Purdue,Carsen Edwards,Missed Jumper,12,14
+10:48,Minnesota,Minnesota,Defensive Rebound,12,14
+10:48,Purdue,None,None,12,14
+10:35,Minnesota,Dupree McBrayer,Missed Three Point Jumper,12,14
+10:31,Minnesota,Brock Stull,Offensive Rebound,12,14
+10:27,Minnesota,Eric Curry,Turnover,12,14
+10:27,Purdue,Aaron Wheeler,Steal,12,14
+10:15,Purdue,Nojel Eastern,Jumper,12,16
+10:03,Minnesota,Eric Curry,Layup,14,16
+9:42,Purdue,Aaron Wheeler,Missed Three Point Jumper,14,16
+9:37,Minnesota,Isaiah Washington,Defensive Rebound,14,16
+9:21,Minnesota,Eric Curry,Missed Three Point Jumper,14,16
+9:17,Purdue,Nojel Eastern,Defensive Rebound,14,16
+9:08,Purdue,Matt Haarms,Layup,14,18
+8:54,Minnesota,Isaiah Washington,Missed Three Point Jumper,14,18
+8:51,Purdue,Carsen Edwards,Defensive Rebound,14,18
+8:46,Purdue,Carsen Edwards,Missed Three Point Jumper,14,18
+8:42,Minnesota,Eric Curry,Defensive Rebound,14,18
+8:25,Minnesota,Brock Stull,Missed Jumper,14,18
+8:24,Purdue,Purdue,Defensive Rebound,14,18
+8:10,Purdue,Trevion Williams,Jumper,14,20
+7:48,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,14,20
+7:44,Purdue,Sasha Stefanovic,Defensive Rebound,14,20
+7:38,Purdue,Nojel Eastern,Missed Layup,14,20
+7:33,Purdue,Trevion Williams,Offensive Rebound,14,20
+7:33,Purdue,Trevion Williams,Missed Layup,14,20
+7:32,Minnesota,Daniel Oturu,Defensive Rebound,14,20
+7:27,Minnesota,Daniel Oturu,Dunk,16,20
+7:02,Purdue,Sasha Stefanovic,Missed Three Point Jumper,16,20
+6:59,Purdue,Trevion Williams,Offensive Rebound,16,20
+6:59,Purdue,Trevion Williams,Layup,16,22
+6:59,Minnesota,Daniel Oturu,Foul,16,22
+6:59,Purdue,None,None,16,22
+6:59,Purdue,Trevion Williams,Missed Free Throw,16,22
+6:57,Minnesota,Jordan Murphy,Defensive Rebound,16,22
+6:29,Minnesota,Jordan Murphy,Layup,18,22
+6:07,Purdue,Ryan Cline,Three Point Jumper,18,25
+5:43,Minnesota,Amir Coffey,Jumper,20,25
+5:14,Purdue,Carsen Edwards,Missed Three Point Jumper,20,25
+5:14,Minnesota,Gabe Kalscheur,Block,20,25
+5:08,Minnesota,Jordan Murphy,Defensive Rebound,20,25
+4:56,Minnesota,Amir Coffey,Missed Jumper,20,25
+4:53,Purdue,Carsen Edwards,Defensive Rebound,20,25
+4:48,Purdue,Grady Eifert,Missed Three Point Jumper,20,25
+4:43,Minnesota,Matz Stockman,Defensive Rebound,20,25
+4:24,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,20,25
+4:20,Purdue,Matt Haarms,Defensive Rebound,20,25
+4:07,Purdue,Carsen Edwards,Turnover,20,25
+3:48,Minnesota,Jordan Murphy,Foul,20,25
+3:48,Purdue,None,None,20,25
+3:48,Minnesota,Jordan Murphy,Turnover,20,25
+3:47,Purdue,None,None,20,25
+3:32,Purdue,Aaron Wheeler,Turnover,20,25
+3:07,Minnesota,Daniel Oturu,Jumper,22,25
+2:45,Purdue,Carsen Edwards,Missed Layup,22,25
+2:44,Purdue,Matt Haarms,Offensive Rebound,22,25
+2:44,Purdue,Matt Haarms,Missed Layup,22,25
+2:44,Purdue,Matt Haarms,Offensive Rebound,22,25
+2:44,Minnesota,Michael Hurt,Foul,22,25
+2:42,Purdue,Trevion Williams,Dunk,22,27
+2:18,Minnesota,Gabe Kalscheur,Layup,24,27
+1:58,Purdue,Trevion Williams,Missed Layup,24,27
+1:58,Minnesota,Michael Hurt,Defensive Rebound,24,27
+1:33,Purdue,Carsen Edwards,Foul,24,27
+1:33,Minnesota,Amir Coffey,Free Throw,25,27
+1:33,Minnesota,Amir Coffey,Free Throw,26,27
+1:20,Purdue,Carsen Edwards,Missed Layup,26,27
+1:20,Minnesota,Daniel Oturu,Block,26,27
+1:20,Purdue,Purdue,Offensive Rebound,26,27
+1:17,Purdue,Ryan Cline,Missed Three Point Jumper,26,27
+1:13,Minnesota,Gabe Kalscheur,Defensive Rebound,26,27
+1:10,Minnesota,Amir Coffey,Dunk,28,27
+0:44,Purdue,Aaron Wheeler,Missed Three Point Jumper,28,27
+0:40,Minnesota,Amir Coffey,Defensive Rebound,28,27
+0:36,Minnesota,Gabe Kalscheur,Missed Layup,28,27
+0:34,Minnesota,Daniel Oturu,Offensive Rebound,28,27
+0:34,Minnesota,Daniel Oturu,Missed Jumper,28,27
+0:34,Minnesota,Minnesota,Offensive Rebound,28,27
+0:07,Minnesota,Isaiah Washington,Missed Layup,28,27
+0:07,Purdue,Matt Haarms,Block,28,27
+0:07,Minnesota,Minnesota,Offensive Rebound,28,27
+0:05,Minnesota,Isaiah Washington,Missed Three Point Jumper,28,27
+0:01,Purdue,Nojel Eastern,Defensive Rebound,28,27
+0:00,Purdue,None,None,28,27
+19:41,Purdue,Trevion Williams,Jumper,28,29
+19:13,Minnesota,Daniel Oturu,Layup,30,29
+18:56,Purdue,Nojel Eastern,Missed Layup,30,29
+18:51,Minnesota,Jordan Murphy,Defensive Rebound,30,29
+18:41,Minnesota,Amir Coffey,Layup,32,29
+18:41,Purdue,Trevion Williams,Foul,32,29
+18:41,Minnesota,Amir Coffey,Free Throw,33,29
+18:21,Purdue,Ryan Cline,Turnover,33,29
+18:17,Minnesota,Amir Coffey,Layup,35,29
+18:16,Purdue,None,None,35,29
+18:16,Purdue,None,None,35,29
+17:59,Purdue,Carsen Edwards,Missed Jumper,35,29
+17:56,Minnesota,Jordan Murphy,Defensive Rebound,35,29
+17:39,Purdue,Nojel Eastern,Foul,35,29
+17:29,Purdue,Trevion Williams,Foul,35,29
+17:29,Minnesota,Jordan Murphy,Free Throw,36,29
+17:29,Minnesota,Jordan Murphy,Free Throw,37,29
+17:05,Purdue,Trevion Williams,Missed Jumper,37,29
+17:02,Purdue,Grady Eifert,Offensive Rebound,37,29
+17:00,Purdue,Nojel Eastern,Jumper,37,31
+16:37,Minnesota,Jordan Murphy,Missed Jumper,37,31
+16:35,Purdue,Trevion Williams,Defensive Rebound,37,31
+16:17,Purdue,Carsen Edwards,Layup,37,33
+15:54,Minnesota,Gabe Kalscheur,Layup,39,33
+15:54,Purdue,Trevion Williams,Foul,39,33
+15:54,Purdue,None,None,39,33
+15:54,Minnesota,Gabe Kalscheur,Free Throw,40,33
+15:41,Purdue,Nojel Eastern,Turnover,40,33
+15:41,Minnesota,Amir Coffey,Steal,40,33
+15:39,Minnesota,Amir Coffey,Layup,42,33
+15:39,Purdue,Grady Eifert,Foul,42,33
+15:39,Minnesota,Amir Coffey,Missed Free Throw,42,33
+15:37,Purdue,Nojel Eastern,Defensive Rebound,42,33
+15:25,Minnesota,Gabe Kalscheur,Foul,42,33
+15:25,Purdue,Carsen Edwards,Missed Free Throw,42,33
+15:25,Purdue,Purdue,Offensive Rebound,42,33
+15:25,Purdue,Carsen Edwards,Free Throw,42,34
+15:04,Minnesota,Amir Coffey,Three Point Jumper,45,34
+14:45,Purdue,Carsen Edwards,Turnover,45,34
+14:18,Minnesota,Daniel Oturu,Missed Layup,45,34
+14:12,Minnesota,Gabe Kalscheur,Offensive Rebound,45,34
+14:11,Minnesota,Daniel Oturu,Missed Layup,45,34
+14:11,Minnesota,Daniel Oturu,Offensive Rebound,45,34
+14:11,Purdue,Matt Haarms,Block,45,34
+14:05,Minnesota,Daniel Oturu,Layup,47,34
+13:57,Purdue,Carsen Edwards,Missed Layup,47,34
+13:54,Purdue,Matt Haarms,Offensive Rebound,47,34
+13:52,Purdue,Ryan Cline,Missed Three Point Jumper,47,34
+13:47,Purdue,Aaron Wheeler,Offensive Rebound,47,34
+13:46,Purdue,Matt Haarms,Layup,47,36
+13:31,Purdue,Carsen Edwards,Foul,47,36
+13:15,Purdue,Eric Hunter Jr.,Foul,47,36
+13:15,Minnesota,Isaiah Washington,Missed Free Throw,47,36
+13:15,Purdue,Matt Haarms,Defensive Rebound,47,36
+13:00,Purdue,Carsen Edwards,Three Point Jumper,47,39
+12:52,Minnesota,None,None,47,39
+12:31,Minnesota,Dupree McBrayer,Missed Three Point Jumper,47,39
+12:29,Purdue,Purdue,Defensive Rebound,47,39
+12:11,Purdue,Carsen Edwards,Layup,47,41
+11:58,Purdue,Aaron Wheeler,Foul,47,41
+11:58,Purdue,None,None,47,41
+11:57,Minnesota,Eric Curry,Missed Free Throw,47,41
+11:56,Purdue,Aaron Wheeler,Defensive Rebound,47,41
+11:41,Purdue,Carsen Edwards,Missed Three Point Jumper,47,41
+11:39,Purdue,Aaron Wheeler,Offensive Rebound,47,41
+11:39,Minnesota,Jordan Murphy,Foul,47,41
+11:39,Purdue,Aaron Wheeler,Missed Free Throw,47,41
+11:39,Purdue,Purdue,Offensive Rebound,47,41
+11:39,Purdue,Aaron Wheeler,Missed Free Throw,47,41
+11:37,Minnesota,Jordan Murphy,Defensive Rebound,47,41
+11:10,Minnesota,Brock Stull,Missed Jumper,47,41
+11:06,Purdue,Matt Haarms,Defensive Rebound,47,41
+11:03,Minnesota,Brock Stull,Foul,47,41
+11:03,Purdue,Carsen Edwards,Free Throw,47,42
+11:03,Purdue,Carsen Edwards,Free Throw,47,43
+10:55,Minnesota,Isaiah Washington,Missed Layup,47,43
+10:55,Purdue,Matt Haarms,Block,47,43
+10:50,Minnesota,Jordan Murphy,Offensive Rebound,47,43
+10:49,Minnesota,Jordan Murphy,Missed Layup,47,43
+10:49,Purdue,Matt Haarms,Block,47,43
+10:44,Purdue,Ryan Cline,Defensive Rebound,47,43
+10:43,Purdue,Carsen Edwards,Layup,47,45
+10:27,Minnesota,Daniel Oturu,Missed Jumper,47,45
+10:23,Purdue,Trevion Williams,Defensive Rebound,47,45
+10:20,Minnesota,Dupree McBrayer,Foul,47,45
+10:12,Purdue,Carsen Edwards,Missed Three Point Jumper,47,45
+10:09,Purdue,Matt Haarms,Offensive Rebound,47,45
+9:55,Purdue,Matt Haarms,Missed Three Point Jumper,47,45
+9:51,Purdue,Matt Haarms,Offensive Rebound,47,45
+9:49,Purdue,Matt Haarms,Layup,47,47
+9:23,Minnesota,Daniel Oturu,Missed Layup,47,47
+9:20,Minnesota,Daniel Oturu,Offensive Rebound,47,47
+9:20,Minnesota,Daniel Oturu,Layup,49,47
+9:01,Purdue,Carsen Edwards,Jumper,49,49
+8:54,Minnesota,Amir Coffey,Turnover,49,49
+8:39,Purdue,Ryan Cline,Three Point Jumper,49,52
+8:38,Minnesota,None,None,49,52
+8:20,Minnesota,Amir Coffey,Missed Three Point Jumper,49,52
+8:17,Purdue,Carsen Edwards,Defensive Rebound,49,52
+8:02,Purdue,Ryan Cline,Three Point Jumper,49,55
+7:35,Minnesota,Jordan Murphy,Dunk,51,55
+7:23,Minnesota,Gabe Kalscheur,Foul,51,55
+7:23,Purdue,None,None,51,55
+7:23,Purdue,Carsen Edwards,Free Throw,51,56
+7:23,Purdue,Carsen Edwards,Missed Free Throw,51,56
+7:21,Purdue,None,None,51,55
+7:21,Minnesota,Daniel Oturu,Defensive Rebound,51,56
+6:54,Minnesota,Dupree McBrayer,Missed Jumper,51,56
+6:51,Purdue,Nojel Eastern,Defensive Rebound,51,56
+6:38,Purdue,Carsen Edwards,Missed Three Point Jumper,51,56
+6:38,Minnesota,Gabe Kalscheur,Block,51,56
+6:33,Minnesota,Daniel Oturu,Defensive Rebound,51,56
+6:31,Minnesota,Jordan Murphy,Foul,51,56
+6:31,Minnesota,Jordan Murphy,Turnover,51,56
+6:04,Purdue,Carsen Edwards,Missed Three Point Jumper,51,56
+6:01,Minnesota,Daniel Oturu,Defensive Rebound,51,56
+5:49,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,51,56
+5:45,Purdue,Nojel Eastern,Defensive Rebound,51,56
+5:33,Purdue,Matt Haarms,Jumper,51,58
+5:25,Minnesota,Isaiah Washington,Turnover,51,58
+5:25,Purdue,Carsen Edwards,Steal,51,58
+5:24,Minnesota,Dupree McBrayer,Foul,51,58
+5:24,Purdue,Nojel Eastern,Free Throw,51,59
+5:24,Purdue,Nojel Eastern,Free Throw,51,60
+5:00,Minnesota,Amir Coffey,Layup,53,60
+4:35,Purdue,Ryan Cline,Layup,53,62
+4:35,Minnesota,Dupree McBrayer,Foul,53,62
+4:35,Purdue,Ryan Cline,Missed Free Throw,53,62
+4:33,Minnesota,Daniel Oturu,Defensive Rebound,53,62
+4:25,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,53,62
+4:21,Purdue,Nojel Eastern,Defensive Rebound,53,62
+4:07,Purdue,Ryan Cline,Missed Three Point Jumper,53,62
+4:02,Minnesota,Minnesota,Defensive Rebound,53,62
+3:37,Purdue,Nojel Eastern,Foul,53,62
+3:37,Purdue,None,None,53,62
+3:37,Minnesota,Jordan Murphy,Free Throw,54,62
+3:37,Minnesota,Jordan Murphy,Free Throw,55,62
+3:17,Purdue,Carsen Edwards,Turnover,55,62
+3:17,Minnesota,Isaiah Washington,Steal,55,62
+3:04,Purdue,Carsen Edwards,Foul,55,62
+3:04,Minnesota,Dupree McBrayer,Free Throw,56,62
+3:04,Minnesota,Dupree McBrayer,Free Throw,57,62
+2:44,Purdue,Matt Haarms,Dunk,57,64
+2:30,Purdue,Nojel Eastern,Foul,57,64
+2:30,Minnesota,Amir Coffey,Free Throw,58,64
+2:30,Minnesota,Amir Coffey,Free Throw,59,64
+2:02,Purdue,Grady Eifert,Three Point Jumper,59,67
+1:26,Minnesota,Amir Coffey,Missed Layup,59,67
+1:26,Minnesota,Jordan Murphy,Offensive Rebound,59,67
+1:26,Minnesota,Jordan Murphy,Layup,61,67
+1:25,Minnesota,None,None,61,67
+0:58,Purdue,Matt Haarms,Layup,61,69
+0:58,Minnesota,Daniel Oturu,Foul,61,69
+0:58,Purdue,Matt Haarms,Free Throw,61,70
+0:51,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,61,70
+0:46,Purdue,Ryan Cline,Defensive Rebound,61,70
+0:43,Minnesota,Dupree McBrayer,Foul,61,70
+0:43,Purdue,Nojel Eastern,Free Throw,61,71
+0:43,Purdue,Nojel Eastern,Free Throw,61,72
+0:34,Minnesota,Daniel Oturu,Missed Layup,61,72
+0:34,Purdue,Matt Haarms,Block,61,72
+0:30,Purdue,Carsen Edwards,Defensive Rebound,61,72
+0:21,Minnesota,Gabe Kalscheur,Foul,61,72
+0:21,Purdue,Nojel Eastern,Missed Free Throw,61,72
+0:21,Purdue,Purdue,Offensive Rebound,61,72
+0:21,Purdue,Nojel Eastern,Free Throw,61,73
+0:08,Minnesota,Amir Coffey,Layup,63,73
+0:00,Purdue,None,None,63,73

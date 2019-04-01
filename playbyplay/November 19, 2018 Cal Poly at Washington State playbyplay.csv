@@ -1,0 +1,307 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:42,Cal Poly,Kuba Niziol,Three Point Jumper,3,0
+19:19,Washington State,Robert Franks,Jumper,3,2
+19:02,Cal Poly,Kuba Niziol,Missed Three Point Jumper,3,2
+18:58,Cal Poly,Hank Hollingsworth,Offensive Rebound,3,2
+18:57,Washington State,Isaiah Wade,Foul,3,2
+18:57,Cal Poly,Hank Hollingsworth,Free Throw,4,2
+18:57,Cal Poly,Hank Hollingsworth,Missed Free Throw,4,2
+18:55,Washington State,Isaiah Wade,Defensive Rebound,4,2
+18:40,Washington State,Robert Franks,Layup,4,4
+18:19,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,4,4
+18:15,Cal Poly,Hank Hollingsworth,Offensive Rebound,4,4
+18:14,Cal Poly,Hank Hollingsworth,Turnover,4,4
+18:14,Washington State,Robert Franks,Steal,4,4
+17:56,Washington State,CJ Elleby,Jumper,4,6
+17:31,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,4,6
+17:28,Washington State,CJ Elleby,Defensive Rebound,4,6
+17:16,Washington State,Ahmed Ali,Missed Three Point Jumper,4,6
+17:13,Cal Poly,Mark Crowe,Defensive Rebound,4,6
+16:53,Cal Poly,Kuba Niziol,Turnover,4,6
+16:53,Washington State,CJ Elleby,Steal,4,6
+16:46,Washington State,Ahmed Ali,Three Point Jumper,4,9
+16:22,Cal Poly,Mark Crowe,Missed Three Point Jumper,4,9
+16:19,Washington State,CJ Elleby,Defensive Rebound,4,9
+16:13,Washington State,Viont'e Daniels,Missed Three Point Jumper,4,9
+16:10,Cal Poly,Mark Crowe,Defensive Rebound,4,9
+15:47,Cal Poly,Donovan Fields,Missed Three Point Jumper,4,9
+15:43,Cal Poly,Hank Hollingsworth,Offensive Rebound,4,9
+15:37,Cal Poly,Hank Hollingsworth,Turnover,4,9
+15:37,Washington State,Ahmed Ali,Steal,4,9
+15:32,Washington State,Isaiah Wade,Layup,4,11
+15:11,Cal Poly,Mark Crowe,Turnover,4,11
+15:11,Washington State,None,None,4,11
+14:58,Washington State,Robert Franks,Missed Jumper,4,11
+14:56,Washington State,Isaiah Wade,Offensive Rebound,4,11
+14:54,Washington State,Isaiah Wade,Turnover,4,11
+14:54,Cal Poly,Donovan Fields,Steal,4,11
+14:33,Cal Poly,Donovan Fields,Missed Jumper,4,11
+14:30,Washington State,Washington State,Defensive Rebound,4,11
+14:12,Washington State,Carter Skaggs,Jumper,4,13
+13:52,Cal Poly,Donovan Fields,Layup,6,13
+13:34,Washington State,Ahmed Ali,Three Point Jumper,6,16
+13:13,Cal Poly,Donovan Fields,Missed Layup,6,16
+13:11,Washington State,Isaiah Wade,Defensive Rebound,6,16
+13:09,Washington State,Viont'e Daniels,Three Point Jumper,6,19
+13:07,Cal Poly,None,None,6,19
+12:49,Cal Poly,Donovan Fields,Jumper,8,19
+12:34,Washington State,Robert Franks,Jumper,8,21
+12:19,Cal Poly,Mark Crowe,Three Point Jumper,11,21
+12:03,Washington State,Viont'e Daniels,Missed Three Point Jumper,11,21
+11:59,Cal Poly,Kuba Niziol,Defensive Rebound,11,21
+11:44,Cal Poly,Donovan Fields,Layup,13,21
+11:17,Washington State,Carter Skaggs,Missed Three Point Jumper,13,21
+11:14,Washington State,Robert Franks,Offensive Rebound,13,21
+11:04,Washington State,Isaiah Wade,Dunk,13,23
+10:50,Cal Poly,Donovan Fields,Missed Three Point Jumper,13,23
+10:46,Washington State,Isaiah Wade,Defensive Rebound,13,23
+10:40,Washington State,Isaiah Wade,Layup,13,25
+10:26,Cal Poly,Kuba Niziol,Missed Three Point Jumper,13,25
+10:22,Cal Poly,Junior Ballard,Offensive Rebound,13,25
+10:17,Cal Poly,None,None,13,25
+10:17,Washington State,None,None,13,25
+10:03,Cal Poly,Daxton Carr,Turnover,13,25
+10:03,Washington State,Carter Skaggs,Steal,13,25
+9:43,Cal Poly,Daxton Carr,Defensive Rebound,13,25
+9:32,Cal Poly,Mark Crowe,Missed Three Point Jumper,13,25
+9:29,Cal Poly,Daxton Carr,Offensive Rebound,13,25
+9:27,Cal Poly,Daxton Carr,Layup,15,25
+9:13,Washington State,Carter Skaggs,Missed Three Point Jumper,15,25
+9:10,Cal Poly,Cal Poly,Defensive Rebound,15,25
+8:54,Cal Poly,Mark Crowe,Missed Jumper,15,25
+8:51,Washington State,Robert Franks,Defensive Rebound,15,25
+8:46,Washington State,Robert Franks,Three Point Jumper,15,28
+8:33,Cal Poly,Mark Crowe,Turnover,15,28
+8:24,Washington State,Jervae Robinson,Jumper,15,30
+8:11,Cal Poly,Kuba Niziol,Missed Three Point Jumper,15,30
+8:07,Washington State,Robert Franks,Defensive Rebound,15,30
+8:07,Cal Poly,Daxton Carr,Foul,15,30
+7:44,Cal Poly,Job Alexander,Foul,15,30
+7:44,Washington State,None,None,15,30
+7:44,Washington State,Jeff Pollard,Missed Free Throw,15,30
+7:44,Washington State,None,Team Rebound,15,30
+7:44,Washington State,Jeff Pollard,Free Throw,15,31
+7:29,Cal Poly,Daxton Carr,Turnover,15,31
+7:29,Washington State,Jervae Robinson,Steal,15,31
+7:24,Washington State,Arinze Chidom,Missed Layup,15,31
+7:20,Washington State,CJ Elleby,Offensive Rebound,15,31
+7:20,Washington State,CJ Elleby,Dunk,15,33
+7:08,Washington State,CJ Elleby,Foul,15,33
+7:04,Washington State,Marvin Cannon,Foul,15,33
+6:46,Cal Poly,Kuba Niziol,Missed Three Point Jumper,15,33
+6:43,Cal Poly,Karlis Garoza,Offensive Rebound,15,33
+6:41,Cal Poly,Marcellus Garrick,Missed Jumper,15,33
+6:39,Washington State,Isaiah Wade,Defensive Rebound,15,33
+6:39,Cal Poly,Karlis Garoza,Foul,15,33
+6:26,Washington State,Robert Franks,Three Point Jumper,15,36
+6:02,Cal Poly,Kuba Niziol,Missed Three Point Jumper,15,36
+6:00,Washington State,CJ Elleby,Defensive Rebound,15,36
+5:55,Washington State,Jervae Robinson,Missed Three Point Jumper,15,36
+5:52,Cal Poly,Tuukka Jaakkola,Defensive Rebound,15,36
+5:48,Cal Poly,Kuba Niziol,Dunk,17,36
+5:28,Cal Poly,Donovan Fields,Foul,17,36
+5:28,Washington State,Robert Franks,Free Throw,17,37
+5:28,Washington State,Robert Franks,Missed Free Throw,17,37
+5:28,Cal Poly,Hank Hollingsworth,Defensive Rebound,17,37
+5:12,Cal Poly,Donovan Fields,Turnover,17,37
+4:57,Washington State,Isaiah Wade,Foul,17,37
+4:57,Washington State,Isaiah Wade,Turnover,17,37
+4:46,Washington State,Ahmed Ali,Foul,17,37
+4:46,Washington State,CJ Elleby,Foul,17,37
+4:46,Cal Poly,Donovan Fields,Free Throw,18,37
+4:46,Cal Poly,Donovan Fields,Free Throw,19,37
+4:31,Cal Poly,Marcellus Garrick,Missed Jumper,19,37
+4:27,Washington State,Alja Kunc,Defensive Rebound,19,37
+4:25,Washington State,Carter Skaggs,Turnover,19,37
+4:07,Cal Poly,Kuba Niziol,Three Point Jumper,22,37
+4:00,Washington State,Robert Franks,Missed Jumper,22,37
+3:58,Cal Poly,Kuba Niziol,Defensive Rebound,22,37
+3:52,Cal Poly,Hank Hollingsworth,Layup,24,37
+3:51,Washington State,None,None,24,37
+3:51,Washington State,None,None,24,37
+3:40,Washington State,Viont'e Daniels,Three Point Jumper,24,40
+3:21,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,24,40
+3:18,Washington State,Robert Franks,Defensive Rebound,24,40
+3:15,Washington State,Ahmed Ali,Three Point Jumper,24,43
+2:57,Cal Poly,Marcellus Garrick,Turnover,24,43
+2:57,Washington State,Alja Kunc,Steal,24,43
+2:50,Washington State,Viont'e Daniels,Missed Layup,24,43
+2:50,Cal Poly,Hank Hollingsworth,Block,24,43
+2:50,Washington State,Washington State,Offensive Rebound,24,43
+2:47,Washington State,Ahmed Ali,Three Point Jumper,24,46
+2:17,Cal Poly,Donovan Fields,Missed Jumper,24,46
+2:15,Washington State,Washington State,Defensive Rebound,24,46
+2:15,Cal Poly,Hank Hollingsworth,Foul,24,46
+2:03,Washington State,Arinze Chidom,Three Point Jumper,24,49
+1:43,Cal Poly,Mark Crowe,Three Point Jumper,27,49
+1:35,Washington State,Robert Franks,Missed Three Point Jumper,27,49
+1:32,Washington State,Viont'e Daniels,Offensive Rebound,27,49
+1:20,Cal Poly,Junior Ballard,Defensive Rebound,27,49
+0:57,Cal Poly,Donovan Fields,Turnover,27,49
+0:50,Cal Poly,Hank Hollingsworth,Foul,27,49
+0:50,Washington State,Marvin Cannon,Missed Free Throw,27,49
+0:50,Washington State,None,Team Rebound,27,49
+0:50,Washington State,Marvin Cannon,Free Throw,27,50
+0:39,Cal Poly,Junior Ballard,Missed Three Point Jumper,27,50
+0:37,Washington State,Robert Franks,Defensive Rebound,27,50
+0:37,Cal Poly,Karlis Garoza,Foul,27,50
+0:37,Washington State,Robert Franks,Free Throw,27,51
+0:37,Washington State,Robert Franks,Free Throw,27,52
+0:26,Cal Poly,Junior Ballard,Turnover,27,52
+0:03,Washington State,Viont'e Daniels,Missed Three Point Jumper,27,52
+0:00,Washington State,Marvin Cannon,Offensive Rebound,27,52
+0:00,Cal Poly,Mark Crowe,Foul,27,52
+0:00,Washington State,Marvin Cannon,Free Throw,27,53
+0:00,Washington State,Marvin Cannon,Free Throw,27,54
+0:00,Washington State,None,None,27,52
+19:43,Cal Poly,Mark Crowe,Turnover,27,54
+19:30,Washington State,Isaiah Wade,Missed Layup,27,54
+19:27,Washington State,CJ Elleby,Offensive Rebound,27,54
+19:27,Washington State,CJ Elleby,Missed Layup,27,54
+19:24,Washington State,Ahmed Ali,Offensive Rebound,27,54
+19:15,Washington State,Robert Franks,Layup,27,56
+18:59,Cal Poly,Donovan Fields,Layup,29,56
+18:42,Washington State,CJ Elleby,Layup,29,58
+18:18,Washington State,Isaiah Wade,Foul,29,58
+18:16,Cal Poly,Donovan Fields,Missed Jumper,29,58
+18:12,Washington State,Isaiah Wade,Defensive Rebound,29,58
+18:07,Washington State,Robert Franks,Turnover,29,58
+17:49,Cal Poly,Kuba Niziol,Turnover,29,58
+17:39,Cal Poly,Marcellus Garrick,Foul,29,58
+17:37,Washington State,Robert Franks,Missed Three Point Jumper,29,58
+17:34,Washington State,Ahmed Ali,Offensive Rebound,29,58
+17:27,Washington State,Isaiah Wade,Layup,29,60
+17:03,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,29,60
+17:00,Washington State,Isaiah Wade,Defensive Rebound,29,60
+16:58,Washington State,Isaiah Wade,Turnover,29,60
+16:58,Cal Poly,Donovan Fields,Steal,29,60
+16:52,Cal Poly,Marcellus Garrick,Three Point Jumper,32,60
+16:41,Washington State,Isaiah Wade,Missed Layup,32,60
+16:36,Washington State,Robert Franks,Offensive Rebound,32,60
+16:36,Washington State,Robert Franks,Layup,32,62
+16:25,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,32,62
+16:22,Washington State,CJ Elleby,Defensive Rebound,32,62
+16:18,Washington State,Robert Franks,Missed Three Point Jumper,32,62
+16:15,Cal Poly,Mark Crowe,Defensive Rebound,32,62
+16:08,Cal Poly,Mark Crowe,Foul,32,62
+16:08,Cal Poly,Mark Crowe,Turnover,32,62
+15:54,Washington State,Ahmed Ali,Missed Three Point Jumper,32,62
+15:51,Cal Poly,Marcellus Garrick,Defensive Rebound,32,62
+15:51,Washington State,Viont'e Daniels,Foul,32,62
+15:51,Washington State,None,None,32,62
+15:37,Cal Poly,Tuukka Jaakkola,Missed Dunk,32,62
+15:37,Washington State,Robert Franks,Block,32,62
+15:33,Washington State,Ahmed Ali,Defensive Rebound,32,62
+15:22,Washington State,Arinze Chidom,Turnover,32,62
+15:22,Cal Poly,Daxton Carr,Steal,32,62
+15:18,Cal Poly,Daxton Carr,Dunk,34,62
+15:01,Washington State,Robert Franks,Foul,34,62
+15:01,Washington State,Robert Franks,Turnover,34,62
+14:44,Cal Poly,Donovan Fields,Jumper,36,62
+14:30,Washington State,Ahmed Ali,Missed Three Point Jumper,36,62
+14:28,Cal Poly,Kuba Niziol,Defensive Rebound,36,62
+14:28,Washington State,Arinze Chidom,Foul,36,62
+14:00,Cal Poly,Donovan Fields,Three Point Jumper,39,62
+13:35,Washington State,Ahmed Ali,Missed Layup,39,62
+13:31,Cal Poly,Kuba Niziol,Defensive Rebound,39,62
+13:13,Cal Poly,Daxton Carr,Missed Three Point Jumper,39,62
+13:10,Washington State,Arinze Chidom,Defensive Rebound,39,62
+13:00,Washington State,Robert Franks,Three Point Jumper,39,65
+12:35,Cal Poly,Donovan Fields,Missed Layup,39,65
+12:30,Cal Poly,Tuukka Jaakkola,Offensive Rebound,39,65
+12:30,Cal Poly,Tuukka Jaakkola,Dunk,41,65
+12:19,Washington State,Robert Franks,Missed Three Point Jumper,41,65
+12:15,Cal Poly,Tuukka Jaakkola,Defensive Rebound,41,65
+12:02,Cal Poly,Junior Ballard,Missed Three Point Jumper,41,65
+11:57,Cal Poly,Donovan Fields,Offensive Rebound,41,65
+11:53,Cal Poly,Donovan Fields,Layup,43,65
+11:48,Washington State,None,None,43,65
+11:48,Washington State,None,None,43,65
+11:34,Washington State,Robert Franks,Missed Jumper,43,65
+11:31,Washington State,Jervae Robinson,Offensive Rebound,43,65
+11:28,Washington State,Jervae Robinson,Layup,43,67
+11:14,Cal Poly,Junior Ballard,Missed Three Point Jumper,43,67
+11:11,Washington State,Marvin Cannon,Defensive Rebound,43,67
+10:47,Washington State,Isaiah Wade,Missed Layup,43,67
+10:44,Cal Poly,Tuukka Jaakkola,Defensive Rebound,43,67
+10:29,Cal Poly,Job Alexander,Layup,45,67
+10:18,Washington State,Robert Franks,Turnover,45,67
+10:18,Cal Poly,Tuukka Jaakkola,Steal,45,67
+10:08,Cal Poly,Tuukka Jaakkola,Missed Layup,45,67
+10:06,Cal Poly,Tuukka Jaakkola,Offensive Rebound,45,67
+10:05,Cal Poly,Tuukka Jaakkola,Missed Jumper,45,67
+10:02,Washington State,Viont'e Daniels,Defensive Rebound,45,67
+9:57,Washington State,Isaiah Wade,Layup,45,69
+9:46,Cal Poly,Daxton Carr,Three Point Jumper,48,69
+9:24,Washington State,Robert Franks,Missed Jumper,48,69
+9:22,Cal Poly,Junior Ballard,Defensive Rebound,48,69
+9:22,Washington State,Isaiah Wade,Foul,48,69
+9:22,Washington State,None,None,48,69
+9:12,Cal Poly,Job Alexander,Layup,50,69
+9:12,Washington State,Alja Kunc,Foul,50,69
+9:12,Cal Poly,Job Alexander,Free Throw,51,69
+8:52,Washington State,CJ Elleby,Turnover,51,69
+8:33,Cal Poly,Karlis Garoza,Turnover,51,69
+8:19,Washington State,Jervae Robinson,Missed Three Point Jumper,51,69
+8:14,Cal Poly,Karlis Garoza,Defensive Rebound,51,69
+8:06,Cal Poly,Job Alexander,Missed Layup,51,69
+8:03,Cal Poly,Marcellus Garrick,Offensive Rebound,51,69
+7:50,Cal Poly,Marcellus Garrick,Jumper,53,69
+7:40,Washington State,None,None,53,69
+7:40,Washington State,None,None,53,69
+7:17,Washington State,Viont'e Daniels,Missed Three Point Jumper,53,69
+7:17,Washington State,None,Team Rebound,53,69
+7:17,Cal Poly,Marcellus Garrick,Foul,53,69
+7:17,Washington State,Isaiah Wade,Missed Free Throw,53,69
+7:17,Washington State,None,Team Rebound,53,69
+7:17,Washington State,Isaiah Wade,Missed Free Throw,53,69
+7:17,Washington State,None,Team Rebound,53,69
+7:06,Washington State,Robert Franks,Jumper,53,71
+6:54,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,53,71
+6:50,Washington State,Isaiah Wade,Defensive Rebound,53,71
+6:47,Washington State,Robert Franks,Dunk,53,73
+6:44,Cal Poly,None,None,53,73
+6:30,Cal Poly,Mark Crowe,Turnover,53,73
+6:30,Washington State,Isaiah Wade,Steal,53,73
+6:25,Washington State,Ahmed Ali,Three Point Jumper,53,76
+6:19,Cal Poly,None,None,53,76
+5:54,Cal Poly,Hank Hollingsworth,Layup,55,76
+5:25,Washington State,Robert Franks,Missed Jumper,55,76
+5:23,Washington State,CJ Elleby,Offensive Rebound,55,76
+5:19,Washington State,Ahmed Ali,Missed Three Point Jumper,55,76
+5:16,Washington State,CJ Elleby,Offensive Rebound,55,76
+5:15,Cal Poly,Donovan Fields,Foul,55,76
+5:08,Washington State,Viont'e Daniels,Missed Jumper,55,76
+5:05,Cal Poly,Hank Hollingsworth,Defensive Rebound,55,76
+5:00,Cal Poly,Kuba Niziol,Missed Three Point Jumper,55,76
+4:57,Washington State,Viont'e Daniels,Defensive Rebound,55,76
+4:52,Washington State,Robert Franks,Missed Three Point Jumper,55,76
+4:49,Cal Poly,Mark Crowe,Defensive Rebound,55,76
+4:36,Cal Poly,Kuba Niziol,Layup,57,76
+4:11,Washington State,CJ Elleby,Missed Three Point Jumper,57,76
+4:07,Cal Poly,Marcellus Garrick,Defensive Rebound,57,76
+3:57,Cal Poly,Donovan Fields,Layup,59,76
+3:26,Cal Poly,Mark Crowe,Three Point Jumper,62,78
+3:06,Washington State,Robert Franks,Layup,62,80
+2:49,Cal Poly,Marcellus Garrick,Three Point Jumper,65,80
+2:32,Washington State,CJ Elleby,Turnover,65,80
+2:32,Cal Poly,Mark Crowe,Steal,65,80
+2:29,Cal Poly,Mark Crowe,Dunk,67,80
+2:20,Washington State,None,None,67,80
+2:20,Washington State,None,None,67,80
+2:03,Washington State,CJ Elleby,Missed Jumper,67,80
+2:01,Cal Poly,Daxton Carr,Defensive Rebound,67,80
+1:35,Cal Poly,Marcellus Garrick,Missed Jumper,67,80
+1:30,Cal Poly,Cal Poly,Offensive Rebound,67,80
+1:21,Washington State,Ahmed Ali,Foul,67,80
+1:21,Cal Poly,Donovan Fields,Missed Free Throw,67,80
+1:21,Cal Poly,None,Team Rebound,67,80
+1:21,Cal Poly,Donovan Fields,Free Throw,68,80
+1:13,Washington State,Isaiah Wade,Dunk,68,82
+0:43,Cal Poly,Donovan Fields,Layup,70,82
+0:37,Cal Poly,Job Alexander,Foul,70,82
+0:21,Washington State,Isaiah Wade,Dunk,70,84
+0:16,Cal Poly,Daxton Carr,Missed Three Point Jumper,70,84
+0:12,Washington State,CJ Elleby,Defensive Rebound,70,84
+0:00,Washington State,None,None,70,84
+0:00,Washington State,None,None,70,84

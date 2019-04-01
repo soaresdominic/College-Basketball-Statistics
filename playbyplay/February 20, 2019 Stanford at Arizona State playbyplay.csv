@@ -1,0 +1,352 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Arizona State,None,None,0,0
+19:37,Arizona State,Zylan Cheatham,Missed Jumper,0,0
+19:37,Arizona State,Luguentz Dort,Offensive Rebound,0,0
+19:31,Arizona State,Luguentz Dort,Missed Layup,0,0
+19:31,Stanford,Josh Sharma,Defensive Rebound,0,0
+19:22,Stanford,Cormac Ryan,Missed Three Point Jumper,0,0
+19:22,Arizona State,Remy Martin,Defensive Rebound,0,0
+19:13,Arizona State,Remy Martin,Jumper,0,2
+18:59,Stanford,Oscar da Silva,Layup,2,2
+18:32,Arizona State,Luguentz Dort,Missed Three Point Jumper,2,2
+18:32,Stanford,Cormac Ryan,Defensive Rebound,2,2
+18:11,Stanford,Daejon Davis,Turnover,2,2
+17:44,Arizona State,Luguentz Dort,Missed Jumper,2,2
+17:44,Stanford,Oscar da Silva,Defensive Rebound,2,2
+17:34,Stanford,Daejon Davis,Turnover,2,2
+17:34,Arizona State,Luguentz Dort,Steal,2,2
+17:31,Arizona State,Luguentz Dort,Missed Dunk,2,2
+17:31,Stanford,Cormac Ryan,Defensive Rebound,2,2
+17:23,Arizona State,Rob Edwards,Foul,2,2
+17:07,Stanford,Josh Sharma,Foul,2,2
+17:07,Stanford,Josh Sharma,Turnover,2,2
+16:55,Arizona State,Taeshon Cherry,Missed Three Point Jumper,2,2
+16:55,Stanford,Cormac Ryan,Defensive Rebound,2,2
+16:33,Stanford,Oscar da Silva,Missed Three Point Jumper,2,2
+16:33,Stanford,Bryce Wills,Offensive Rebound,2,2
+16:26,Stanford,Josh Sharma,Jumper,4,2
+16:11,Arizona State,Taeshon Cherry,Three Point Jumper,4,5
+15:48,Arizona State,Zylan Cheatham,Foul,4,5
+15:48,Arizona State,None,None,4,5
+15:48,Stanford,Oscar da Silva,Free Throw,5,5
+15:48,Stanford,Oscar da Silva,Free Throw,6,5
+15:26,Arizona State,Zylan Cheatham,Layup,6,7
+15:26,Stanford,Lukas Kisunas,Foul,6,7
+15:26,Arizona State,Zylan Cheatham,Free Throw,6,8
+15:09,Stanford,Bryce Wills,Layup,8,8
+14:56,Arizona State,Zylan Cheatham,Turnover,8,8
+14:56,Stanford,Bryce Wills,Steal,8,8
+14:44,Stanford,Bryce Wills,Missed Layup,8,8
+14:44,Arizona State,Zylan Cheatham,Defensive Rebound,8,8
+14:44,Stanford,Lukas Kisunas,Foul,8,8
+14:26,Arizona State,Romello White,Turnover,8,8
+14:10,Arizona State,Kimani Lawrence,Foul,8,8
+14:10,Stanford,Bryce Wills,Free Throw,9,8
+14:10,Stanford,Bryce Wills,Missed Free Throw,9,8
+14:10,Arizona State,Zylan Cheatham,Defensive Rebound,9,8
+13:46,Arizona State,Remy Martin,Jumper,9,10
+13:21,Stanford,Bryce Wills,Turnover,9,10
+13:21,Arizona State,Remy Martin,Steal,9,10
+13:12,Stanford,Daejon Davis,Foul,9,10
+13:12,Arizona State,Remy Martin,Missed Free Throw,9,10
+13:12,Arizona State,None,Team Rebound,9,10
+13:12,Arizona State,Remy Martin,Free Throw,9,11
+12:58,Stanford,Daejon Davis,Turnover,9,11
+12:48,Arizona State,Rob Edwards,Jumper,9,13
+12:30,Stanford,Josh Sharma,Layup,11,13
+12:16,Arizona State,De'Quon Lake,Foul,11,13
+12:16,Arizona State,De'Quon Lake,Turnover,11,13
+12:06,Stanford,Cormac Ryan,Missed Three Point Jumper,11,13
+12:06,Arizona State,Luguentz Dort,Defensive Rebound,11,13
+11:59,Arizona State,Rob Edwards,Missed Three Point Jumper,11,13
+11:59,Stanford,Bryce Wills,Defensive Rebound,11,13
+11:45,Stanford,Cormac Ryan,Missed Layup,11,13
+11:45,Arizona State,De'Quon Lake,Defensive Rebound,11,13
+11:39,Stanford,Cormac Ryan,Foul,11,13
+11:39,Arizona State,None,None,11,13
+11:27,Arizona State,Luguentz Dort,Layup,11,15
+11:05,Arizona State,De'Quon Lake,Foul,11,15
+11:05,Stanford,Josh Sharma,Free Throw,12,15
+11:05,Stanford,Josh Sharma,Free Throw,13,15
+10:48,Arizona State,Zylan Cheatham,Foul,13,15
+10:48,Arizona State,Zylan Cheatham,Turnover,13,15
+10:33,Stanford,Cormac Ryan,Three Point Jumper,16,15
+10:14,Arizona State,Taeshon Cherry,Missed Three Point Jumper,16,15
+10:14,Arizona State,Kimani Lawrence,Offensive Rebound,16,15
+10:14,Arizona State,Kimani Lawrence,Turnover,16,15
+10:03,Stanford,Josh Sharma,Dunk,18,15
+9:56,Arizona State,Luguentz Dort,Turnover,18,15
+9:56,Arizona State,Luguentz Dort,Foul,18,15
+9:48,Stanford,Daejon Davis,Missed Layup,18,15
+9:48,Arizona State,De'Quon Lake,Defensive Rebound,18,15
+9:23,Arizona State,Taeshon Cherry,Three Point Jumper,18,18
+9:02,Stanford,Bryce Wills,Layup,20,18
+8:48,Arizona State,Romello White,Layup,20,20
+8:35,Stanford,Cormac Ryan,Missed Three Point Jumper,20,20
+8:35,Arizona State,Kimani Lawrence,Defensive Rebound,20,20
+8:19,Arizona State,Luguentz Dort,Layup,20,22
+8:01,Stanford,Marcus Sheffield,Foul,20,22
+8:01,Stanford,Marcus Sheffield,Turnover,20,22
+8:01,Arizona State,Romello White,Missed Layup,20,22
+8:01,Stanford,Josh Sharma,Block,20,22
+8:01,Stanford,Jaiden Delaire,Defensive Rebound,20,22
+7:44,Stanford,Bryce Wills,Foul,20,22
+7:44,Stanford,Bryce Wills,Turnover,20,22
+7:44,Arizona State,None,None,20,22
+7:33,Arizona State,Taeshon Cherry,Turnover,20,22
+7:33,Stanford,Marcus Sheffield,Steal,20,22
+7:17,Stanford,Josh Sharma,Dunk,22,22
+7:03,Arizona State,Taeshon Cherry,Three Point Jumper,22,25
+6:30,Arizona State,Taeshon Cherry,Foul,22,25
+6:30,Stanford,Jaiden Delaire,Free Throw,24,25
+6:30,Stanford,Jaiden Delaire,Free Throw,23,25
+6:15,Stanford,Bryce Wills,Foul,24,25
+6:15,Stanford,Bryce Wills,Turnover,24,25
+6:05,Arizona State,Luguentz Dort,Three Point Jumper,24,28
+5:28,Stanford,Daejon Davis,Missed Jumper,24,28
+5:28,Arizona State,Luguentz Dort,Block,24,28
+5:28,Stanford,Stanford,Offensive Rebound,24,28
+5:28,Stanford,Stanford ,Turnover,24,28
+5:15,Arizona State,Romello White,Missed Layup,24,28
+5:15,Arizona State,Luguentz Dort,Offensive Rebound,24,28
+5:02,Arizona State,Taeshon Cherry,Missed Three Point Jumper,24,28
+5:02,Stanford,Isaac White,Defensive Rebound,24,28
+4:54,Stanford,Isaac White,Missed Three Point Jumper,24,28
+4:54,Arizona State,Rob Edwards,Defensive Rebound,24,28
+4:48,Arizona State,Rob Edwards,Missed Three Point Jumper,24,28
+4:48,Stanford,Oscar Da Silva,Defensive Rebound,24,28
+4:44,Arizona State,Luguentz Dort,Foul,24,28
+4:44,Stanford,Daejon Davis,Free Throw,25,28
+4:44,Stanford,Daejon Davis,Free Throw,26,28
+4:16,Arizona State,Remy Martin,Missed Three Point Jumper,26,28
+4:13,Arizona State,None,None,26,28
+4:13,Arizona State,Arizona State,Offensive Rebound,26,28
+4:13,Arizona State,Arizona State ,Turnover,26,28
+3:57,Arizona State,Romello White,Foul,26,28
+3:57,Arizona State,None,None,26,28
+3:57,Stanford,Daejon Davis,Missed Free Throw,26,28
+3:57,Stanford,None,Team Rebound,26,28
+3:57,Stanford,Daejon Davis,Free Throw,27,28
+3:46,Arizona State,Kimani Lawrence,Three Point Jumper,27,31
+3:11,Stanford,Oscar Da Silva,Layup,29,31
+2:43,Arizona State,Rob Edwards,Jumper,29,33
+2:16,Stanford,Oscar Da Silva,Missed Layup,29,33
+2:16,Arizona State,Remy Martin,Defensive Rebound,29,33
+2:08,Arizona State,Kimani Lawrence,Layup,29,35
+2:08,Stanford,Josh Sharma,Foul,29,35
+2:08,Arizona State,Kimani Lawrence,Missed Free Throw,29,35
+2:08,Stanford,Oscar Da Silva,Defensive Rebound,29,35
+1:45,Stanford,Marcus Sheffield,Three Point Jumper,32,35
+1:25,Stanford,Cormac Ryan,Foul,32,35
+1:25,Arizona State,Romello White,Free Throw,32,36
+1:25,Arizona State,Romello White,Free Throw,32,37
+1:13,Stanford,Kodye Pugh,Dunk,34,37
+0:58,Stanford,Marcus Sheffield,Foul,34,37
+0:58,Arizona State,Rob Edwards,Free Throw,34,38
+0:58,Arizona State,Rob Edwards,Free Throw,34,39
+0:46,Stanford,Oscar Da Silva,Missed Three Point Jumper,34,39
+0:46,Arizona State,Romello White,Defensive Rebound,34,39
+0:33,Arizona State,Remy Martin,Three Point Jumper,34,42
+0:19,Stanford,None,None,34,42
+0:19,Arizona State,None,None,34,42
+0:02,Stanford,Jaiden Delaire,Turnover,34,42
+0:01,Arizona State,Rob Edwards,Foul,34,42
+0:01,Arizona State,Rob Edwards,Turnover,34,42
+0:00,Arizona State,None,None,34,42
+20:00,Stanford,None,None,34,42
+19:43,Arizona State,Luguentz Dort,Foul,34,42
+19:26,Stanford,Cormac Ryan,Missed Three Point Jumper,34,42
+19:26,Arizona State,Rob Edwards,Defensive Rebound,34,42
+19:15,Arizona State,Remy Martin,Missed Three Point Jumper,34,42
+19:15,Arizona State,Romello White,Offensive Rebound,34,42
+19:08,Arizona State,None,None,34,42
+18:44,Arizona State,Romello White,Layup,34,44
+18:23,Stanford,Cormac Ryan,Turnover,34,44
+18:09,Stanford,Josh Sharma,Foul,34,44
+18:09,Arizona State,Romello White,Free Throw,34,45
+18:09,Arizona State,Romello White,Missed Free Throw,34,45
+18:09,Stanford,Bryce Wills,Defensive Rebound,34,45
+17:48,Arizona State,Romello White,Foul,34,45
+17:47,Stanford,Oscar Da Silva,Jumper,36,45
+17:33,Arizona State,Luguentz Dort,Missed Three Point Jumper,36,45
+17:33,Stanford,Jaiden Delaire,Defensive Rebound,36,45
+17:21,Stanford,Jaiden Delaire,Jumper,38,45
+17:01,Arizona State,Rob Edwards,Three Point Jumper,38,48
+16:39,Stanford,Oscar Da Silva,Layup,40,48
+16:39,Arizona State,Romello White,Foul,40,48
+16:39,Stanford,Oscar Da Silva,Missed Free Throw,40,48
+16:39,Arizona State,Romello White,Defensive Rebound,40,48
+16:32,Stanford,Daejon Davis,Foul,40,48
+16:25,Arizona State,None,None,40,48
+16:13,Arizona State,Zylan Cheatham,Missed Jumper,40,48
+16:13,Stanford,Bryce Wills,Defensive Rebound,40,48
+16:04,Stanford,Marcus Sheffield,Missed Three Point Jumper,40,48
+16:04,Arizona State,Zylan Cheatham,Defensive Rebound,40,48
+15:50,Arizona State,Romello White,Turnover,40,48
+15:50,Stanford,Jaiden Delaire,Steal,40,48
+15:47,Arizona State,Rob Edwards,Foul,40,48
+15:32,Stanford,Oscar Da Silva,Missed Three Point Jumper,40,48
+15:32,Stanford,Marcus Sheffield,Offensive Rebound,40,48
+15:25,Stanford,Cormac Ryan,Layup,42,48
+15:03,Arizona State,Remy Martin,Jumper,42,50
+14:42,Stanford,Oscar Da Silva,Layup,44,50
+14:28,Arizona State,Remy Martin,Missed Three Point Jumper,44,50
+14:28,Stanford,Cormac Ryan,Defensive Rebound,44,50
+14:01,Stanford,Jaiden Delaire,Missed Layup,44,50
+13:52,Arizona State,Zylan Cheatham,Defensive Rebound,44,50
+13:38,Stanford,Jaiden Delaire,Foul,44,50
+13:36,Arizona State,Taeshon Cherry,Missed Three Point Jumper,44,50
+13:36,Stanford,Oscar Da Silva,Block,44,50
+13:36,Stanford,Jaiden Delaire,Defensive Rebound,44,50
+13:21,Stanford,Bryce Wills,Missed Dunk,44,50
+13:21,Arizona State,Kimani Lawrence,Defensive Rebound,44,50
+13:12,Stanford,Cormac Ryan,Foul,44,50
+13:12,Arizona State,Remy Martin,Turnover,44,50
+13:12,Stanford,Marcus Sheffield,Steal,44,50
+13:01,Stanford,Oscar Da Silva,Missed Layup,44,50
+13:01,Arizona State,Taeshon Cherry,Defensive Rebound,44,50
+12:46,Arizona State,Taeshon Cherry,Missed Jumper,44,50
+12:46,Arizona State,Taeshon Cherry,Offensive Rebound,44,50
+12:41,Arizona State,Taeshon Cherry,Jumper,44,52
+12:27,Stanford,Cormac Ryan,Missed Jumper,44,52
+12:27,Stanford,Oscar Da Silva,Offensive Rebound,44,52
+12:20,Stanford,Daejon Davis,Missed Three Point Jumper,44,52
+12:20,Arizona State,Rob Edwards,Defensive Rebound,44,52
+12:00,Arizona State,Kimani Lawrence,Jumper,44,54
+11:36,Stanford,Oscar Da Silva,Missed Three Point Jumper,44,54
+11:36,Arizona State,Rob Edwards,Defensive Rebound,44,54
+11:27,Arizona State,Taeshon Cherry,Missed Three Point Jumper,44,54
+11:27,Stanford,Oscar Da Silva,Defensive Rebound,44,54
+11:23,Arizona State,Taeshon Cherry,Foul,44,54
+11:23,Arizona State,None,None,44,54
+11:23,Stanford,Jaiden Delaire,Free Throw,45,54
+11:23,Stanford,Jaiden Delaire,Free Throw,46,54
+11:23,Arizona State,Taeshon Cherry,Turnover,46,54
+11:06,Stanford,Daejon Davis,Missed Three Point Jumper,46,54
+11:06,Arizona State,De'Quon Lake,Defensive Rebound,46,54
+10:44,Arizona State,Rob Edwards,Jumper,46,56
+10:18,Stanford,Daejon Davis,Layup,48,56
+10:18,Arizona State,Zylan Cheatham,Foul,48,56
+10:18,Stanford,Daejon Davis,Free Throw,49,56
+9:57,Arizona State,Zylan Cheatham,Missed Jumper,49,56
+9:57,Stanford,Daejon Davis,Defensive Rebound,49,56
+9:50,Stanford,Daejon Davis,Turnover,49,56
+9:37,Arizona State,Remy Martin,Missed Jumper,49,56
+9:37,Arizona State,Arizona State,Offensive Rebound,49,56
+9:36,Stanford,Marcus Sheffield,Foul,49,56
+9:13,Stanford,Oscar Da Silva,Foul,49,56
+9:13,Arizona State,Zylan Cheatham,Missed Free Throw,49,56
+9:13,Arizona State,None,Team Rebound,49,56
+9:13,Arizona State,Zylan Cheatham,Free Throw,49,57
+8:49,Stanford,Bryce Wills,Missed Layup,49,57
+8:49,Arizona State,Remy Martin,Defensive Rebound,49,57
+8:36,Arizona State,Remy Martin,Missed Layup,49,57
+8:35,Stanford,Cormac Ryan,Defensive Rebound,49,57
+8:32,Stanford,Marcus Sheffield,Missed Layup,49,57
+8:32,Arizona State,Zylan Cheatham,Block,49,57
+8:32,Stanford,Stanford,Offensive Rebound,49,57
+8:23,Arizona State,Kimani Lawrence,Foul,49,57
+8:23,Stanford,Oscar Da Silva,Missed Free Throw,49,57
+8:23,Stanford,None,Team Rebound,49,57
+8:23,Stanford,Oscar Da Silva,Free Throw,50,57
+8:10,Stanford,Cormac Ryan,Foul,50,57
+8:10,Arizona State,Luguentz Dort,Free Throw,50,58
+8:10,Arizona State,Luguentz Dort,Free Throw,50,59
+7:49,Arizona State,None,None,50,59
+7:40,Stanford,Daejon Davis,Missed Three Point Jumper,50,59
+7:40,Arizona State,Remy Martin,Defensive Rebound,50,59
+7:09,Arizona State,Zylan Cheatham,Missed Jumper,50,59
+7:09,Arizona State,Romello White,Offensive Rebound,50,59
+7:09,Arizona State,Romello White,Layup,50,61
+6:45,Stanford,Oscar Da Silva,Missed Three Point Jumper,50,61
+6:45,Stanford,Josh Sharma,Offensive Rebound,50,61
+6:36,Stanford,Daejon Davis,Missed Layup,50,61
+6:36,Stanford,Josh Sharma,Offensive Rebound,50,61
+6:36,Arizona State,Romello White,Foul,50,61
+6:36,Stanford,Josh Sharma,Missed Free Throw,50,61
+6:36,Arizona State,Zylan Cheatham,Defensive Rebound,50,61
+6:11,Arizona State,Zylan Cheatham,Missed Jumper,50,61
+6:11,Arizona State,Luguentz Dort,Offensive Rebound,50,61
+6:11,Stanford,Bryce Wills,Foul,50,61
+6:11,Arizona State,Luguentz Dort,Missed Free Throw,50,61
+6:11,Stanford,Josh Sharma,Defensive Rebound,50,61
+5:53,Stanford,Josh Sharma,Layup,52,61
+5:33,Arizona State,Zylan Cheatham,Three Point Jumper,52,64
+5:07,Stanford,Jaiden Delaire,Missed Dunk,52,64
+5:07,Arizona State,De'Quon Lake,Block,52,64
+5:07,Stanford,Jaiden Delaire,Offensive Rebound,52,64
+5:01,Arizona State,Zylan Cheatham,Foul,52,64
+5:01,Stanford,Jaiden Delaire,Missed Free Throw,52,64
+5:01,Stanford,None,Team Rebound,52,64
+5:01,Stanford,Jaiden Delaire,Missed Free Throw,52,64
+5:01,Arizona State,Luguentz Dort,Defensive Rebound,52,64
+4:50,Arizona State,Rob Edwards,Jumper,52,66
+4:30,Stanford,None,None,52,66
+4:22,Stanford,Oscar Da Silva,Missed Three Point Jumper,52,66
+4:22,Stanford,Josh Sharma,Offensive Rebound,52,66
+4:22,Stanford,Josh Sharma,Layup,54,66
+3:57,Stanford,Bryce Wills,Foul,54,66
+3:57,Arizona State,Luguentz Dort,Missed Free Throw,54,66
+3:57,Stanford,Cormac Ryan,Defensive Rebound,54,66
+3:44,Stanford,Cormac Ryan,Missed Three Point Jumper,54,66
+3:44,Arizona State,Remy Martin,Defensive Rebound,54,66
+3:36,Arizona State,Remy Martin,Jumper,54,68
+3:23,Arizona State,Remy Martin,Foul,54,68
+3:23,Stanford,Cormac Ryan,Missed Free Throw,54,68
+3:23,Stanford,None,Team Rebound,54,68
+3:23,Stanford,Cormac Ryan,Free Throw,55,68
+3:21,Arizona State,Luguentz Dort,Turnover,55,68
+3:21,Stanford,Daejon Davis,Steal,55,68
+3:15,Stanford,Oscar Da Silva,Missed Layup,55,68
+3:15,Arizona State,Luguentz Dort,Block,55,68
+3:15,Stanford,Josh Sharma,Offensive Rebound,55,68
+3:11,Stanford,Josh Sharma,Layup,57,68
+3:05,Stanford,Oscar Da Silva,Foul,57,68
+3:05,Arizona State,Remy Martin,Free Throw,57,69
+3:05,Arizona State,Remy Martin,Free Throw,57,70
+2:55,Stanford,Oscar Da Silva,Layup,59,70
+2:46,Stanford,Oscar Da Silva,Foul,59,70
+2:46,Arizona State,Remy Martin,Missed Free Throw,59,70
+2:46,Arizona State,None,Team Rebound,59,70
+2:46,Arizona State,Remy Martin,Free Throw,59,71
+2:35,Arizona State,Romello White,Foul,59,71
+2:35,Stanford,Josh Sharma,Free Throw,60,71
+2:35,Stanford,Josh Sharma,Missed Free Throw,60,71
+2:35,Arizona State,De'Quon Lake,Defensive Rebound,60,71
+2:06,Arizona State,Rob Edwards,Three Point Jumper,60,74
+1:51,Stanford,Bryce Wills,Missed Layup,60,74
+1:51,Arizona State,Rob Edwards,Defensive Rebound,60,74
+1:30,Stanford,Josh Sharma,Foul,60,74
+1:30,Arizona State,Luguentz Dort,Free Throw,60,75
+1:30,Arizona State,Luguentz Dort,Free Throw,60,76
+1:21,Stanford,Daejon Davis,Missed Three Point Jumper,60,76
+1:21,Arizona State,Arizona State,Defensive Rebound,60,76
+1:16,Stanford,Oscar Da Silva,Foul,60,76
+1:16,Arizona State,Zylan Cheatham,Missed Free Throw,60,76
+1:16,Arizona State,None,Team Rebound,60,76
+1:16,Arizona State,Zylan Cheatham,Missed Free Throw,60,76
+1:16,Stanford,Josh Sharma,Defensive Rebound,60,76
+1:05,Stanford,Cormac Ryan,Missed Three Point Jumper,60,76
+1:05,Arizona State,Arizona State,Defensive Rebound,60,76
+1:03,Stanford,Bryce Wills,Foul,60,76
+1:03,Arizona State,Remy Martin,Missed Free Throw,60,76
+1:03,Arizona State,None,Team Rebound,60,76
+1:03,Arizona State,Remy Martin,Free Throw,60,77
+0:46,Stanford,Jaiden Delaire,Turnover,60,77
+0:46,Arizona State,Remy Martin,Steal,60,77
+0:40,Arizona State,De'Quon Lake,Dunk,60,79
+0:40,Stanford,Isaac White,Foul,60,79
+0:40,Arizona State,De'Quon Lake,Free Throw,60,80
+0:27,Stanford,Marcus Sheffield,Missed Three Point Jumper,60,80
+0:27,Stanford,Jaiden Delaire,Offensive Rebound,60,80
+0:19,Arizona State,Jack Roggin,Foul,60,80
+0:19,Stanford,Jaiden Delaire,Missed Free Throw,60,80
+0:19,Stanford,None,Team Rebound,60,80
+0:19,Stanford,Jaiden Delaire,Missed Free Throw,60,80
+0:19,Stanford,Marcus Sheffield,Offensive Rebound,60,80
+0:09,Stanford,Marcus Sheffield,Missed Jumper,60,80
+0:09,Stanford,Lukas Kisunas,Offensive Rebound,60,80
+0:05,Arizona State,Jack Roggin,Foul,60,80
+0:05,Stanford,Lukas Kisunas,Free Throw,61,80
+0:05,Stanford,Lukas Kisunas,Free Throw,62,80
+0:00,Arizona State,None,None,62,80

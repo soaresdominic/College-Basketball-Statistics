@@ -1,0 +1,358 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,St. John's,None,None,0,0
+19:47,St. John's,Marvin Clark II,Missed Layup,0,0
+19:47,St. John's,LJ Figueroa,Offensive Rebound,0,0
+19:42,St. John's,Shamorie Ponds,Missed Jumper,0,0
+19:42,Villanova,Jermaine Samuels,Defensive Rebound,0,0
+19:23,Villanova,Collin Gillespie,Three Point Jumper,3,0
+19:01,St. John's,Mustapha Heron,Missed Layup,3,0
+19:01,St. John's,Marvin Clark II,Offensive Rebound,3,0
+19:01,St. John's,LJ Figueroa,Dunk,3,2
+18:36,Villanova,Eric Paschall,Missed Jumper,3,2
+18:36,Villanova,Jermaine Samuels,Offensive Rebound,3,2
+18:29,Villanova,None,None,3,2
+18:28,Villanova,Phil Booth,Missed Three Point Jumper,3,2
+18:28,Villanova,Saddiq Bey,Offensive Rebound,3,2
+18:28,Villanova,None,None,5,2
+18:08,St. John's,LJ Figueroa,Missed Three Point Jumper,5,2
+18:08,Villanova,Eric Paschall,Defensive Rebound,5,2
+17:53,Villanova,Saddiq Bey,Missed Three Point Jumper,5,2
+17:53,St. John's,Justin Simon,Defensive Rebound,5,2
+17:34,St. John's,Mustapha Heron,Missed Three Point Jumper,5,2
+17:34,Villanova,Eric Paschall,Defensive Rebound,5,2
+17:12,Villanova,Collin Gillespie,Missed Three Point Jumper,5,2
+17:12,St. John's,LJ Figueroa,Defensive Rebound,5,2
+16:58,St. John's,Mustapha Heron,Jumper,5,4
+16:38,St. John's,Shamorie Ponds,Foul,5,4
+16:38,Villanova,Phil Booth,Free Throw,6,4
+16:38,Villanova,Phil Booth,Free Throw,7,4
+16:38,Villanova,Phil Booth,Free Throw,8,4
+16:16,St. John's,Justin Simon,Missed Three Point Jumper,8,4
+16:16,St. John's,St. John's,Offensive Rebound,8,4
+16:15,St. John's,Mustapha Heron,Layup,8,6
+15:35,Villanova,Saddiq Bey,Three Point Jumper,11,6
+15:15,St. John's,Mustapha Heron,Foul,11,6
+15:15,St. John's,Mustapha Heron,Turnover,11,6
+15:15,St. John's,None,None,11,6
+15:03,Villanova,Eric Paschall,Layup,13,6
+14:50,St. John's,Marvin Clark II,Missed Three Point Jumper,13,6
+14:50,Villanova,Joe Cremo,Defensive Rebound,13,6
+14:33,Villanova,Eric Paschall,Missed Three Point Jumper,13,6
+14:33,Villanova,Jermaine Samuels,Offensive Rebound,13,6
+14:26,Villanova,Joe Cremo,Missed Three Point Jumper,13,6
+14:26,St. John's,Mustapha Heron,Defensive Rebound,13,6
+14:20,Villanova,Joe Cremo,Foul,13,6
+14:08,Villanova,Dhamir Cosby-Roundtree,Foul,13,6
+14:04,St. John's,Justin Simon,Turnover,13,6
+14:04,Villanova,Dhamir Cosby-Roundtree,Steal,13,6
+14:04,Villanova,None,None,13,6
+13:59,Villanova,Dhamir Cosby-Roundtree,Dunk,15,6
+13:45,St. John's,Justin Simon,Layup,15,8
+13:25,Villanova,Phil Booth,Jumper,17,8
+13:06,St. John's,Shamorie Ponds,Missed Layup,17,8
+13:06,Villanova,Phil Booth,Defensive Rebound,17,8
+12:57,Villanova,Joe Cremo,Three Point Jumper,20,8
+12:48,St. John's,None,None,20,8
+12:27,Villanova,Jermaine Samuels,Foul,20,8
+12:27,St. John's,Justin Simon,Missed Free Throw,20,8
+12:27,St. John's,None,Team Rebound,20,8
+12:27,St. John's,Justin Simon,Free Throw,20,9
+12:10,Villanova,Eric Paschall,Turnover,20,9
+11:46,St. John's,None,None,20,9
+11:42,St. John's,None,None,20,9
+11:41,St. John's,Marvin Clark II,Missed Jumper,20,9
+11:41,Villanova,Jermaine Samuels,Defensive Rebound,20,9
+11:19,Villanova,Saddiq Bey,Missed Jumper,20,9
+11:19,Villanova,Jermaine Samuels,Offensive Rebound,20,9
+11:12,Villanova,Jahvon Quinerly,Three Point Jumper,23,9
+10:52,St. John's,LJ Figueroa,Missed Jumper,23,9
+10:52,Villanova,Joe Cremo,Defensive Rebound,23,9
+10:29,Villanova,Jahvon Quinerly,Three Point Jumper,26,9
+10:08,St. John's,Shamorie Ponds,Missed Three Point Jumper,26,9
+10:08,Villanova,Joe Cremo,Defensive Rebound,26,9
+9:55,Villanova,Saddiq Bey,Turnover,26,9
+9:55,St. John's,Mustapha Heron,Steal,26,9
+9:45,St. John's,Shamorie Ponds,Missed Layup,26,9
+9:45,Villanova,Joe Cremo,Defensive Rebound,26,9
+9:38,St. John's,Mustapha Heron,Foul,26,9
+9:26,Villanova,Eric Paschall,Missed Three Point Jumper,26,9
+9:26,St. John's,Marvin Clark II,Defensive Rebound,26,9
+9:13,Villanova,Collin Gillespie,Foul,26,9
+9:13,St. John's,Justin Simon,Missed Free Throw,26,9
+9:13,St. John's,None,Team Rebound,26,9
+9:13,St. John's,Justin Simon,Free Throw,26,10
+8:51,Villanova,Eric Paschall,Three Point Jumper,29,10
+8:32,St. John's,LJ Figueroa,Missed Layup,29,10
+8:32,St. John's,Sedee Keita,Offensive Rebound,29,10
+8:30,Villanova,None,None,29,10
+8:30,St. John's,Sedee Keita,Turnover,29,10
+8:30,Villanova,Phil Booth,Steal,29,10
+8:12,St. John's,Justin Simon,Foul,29,10
+8:04,Villanova,Collin Gillespie,Missed Three Point Jumper,29,10
+8:04,St. John's,Justin Simon,Defensive Rebound,29,10
+7:58,St. John's,Shamorie Ponds,Missed Three Point Jumper,29,10
+7:58,Villanova,Jermaine Samuels,Defensive Rebound,29,10
+7:40,Villanova,Phil Booth,Foul,29,10
+7:40,Villanova,Phil Booth,Turnover,29,10
+7:40,St. John's,None,None,29,10
+7:22,Villanova,Phil Booth,Foul,29,10
+7:21,Villanova,Eric Paschall,Foul,29,10
+7:21,St. John's,Shamorie Ponds,Free Throw,29,11
+7:21,St. John's,Shamorie Ponds,Missed Free Throw,29,11
+7:21,Villanova,Eric Paschall,Defensive Rebound,29,11
+6:51,Villanova,Saddiq Bey,Missed Jumper,29,11
+6:51,Villanova,Villanova,Offensive Rebound,29,11
+6:49,St. John's,Marvin Clark II,Foul,29,11
+6:44,Villanova,Collin Gillespie,Missed Three Point Jumper,29,11
+6:44,St. John's,Shamorie Ponds,Defensive Rebound,29,11
+6:36,Villanova,Joe Cremo,Foul,29,11
+6:36,St. John's,Mustapha Heron,Missed Free Throw,29,11
+6:36,St. John's,Mustapha Heron,Free Throw,29,12
+6:21,Villanova,Jahvon Quinerly,Turnover,29,12
+6:21,St. John's,Shamorie Ponds,Steal,29,12
+6:17,St. John's,Shamorie Ponds,Missed Layup,29,12
+6:17,Villanova,Eric Paschall,Defensive Rebound,29,12
+6:10,Villanova,Jahvon Quinerly,Missed Jumper,29,12
+6:10,St. John's,Justin Simon,Block,29,12
+6:10,St. John's,Justin Simon,Defensive Rebound,29,12
+6:04,St. John's,Justin Simon,Missed Layup,29,12
+6:04,St. John's,Shamorie Ponds,Offensive Rebound,29,12
+6:00,St. John's,Shamorie Ponds,Layup,29,14
+5:30,Villanova,Jahvon Quinerly,Missed Jumper,29,14
+5:30,St. John's,St. John's,Defensive Rebound,29,14
+5:28,Villanova,Jahvon Quinerly,Foul,29,14
+5:28,St. John's,Justin Simon,Missed Free Throw,29,14
+5:28,Villanova,Eric Paschall,Defensive Rebound,29,14
+5:00,Villanova,Collin Gillespie,Missed Three Point Jumper,29,14
+5:00,St. John's,Shamorie Ponds,Defensive Rebound,29,14
+4:55,St. John's,Shamorie Ponds,Turnover,29,14
+4:55,Villanova,Collin Gillespie,Steal,29,14
+4:34,Villanova,Dhamir Cosby-Roundtree,Layup,31,14
+4:16,St. John's,Shamorie Ponds,Turnover,31,14
+4:16,Villanova,Dhamir Cosby-Roundtree,Steal,31,14
+4:15,Villanova,Dhamir Cosby-Roundtree,Turnover,31,14
+4:13,St. John's,Marvin Clark II,Missed Jumper,31,14
+4:13,Villanova,Collin Gillespie,Defensive Rebound,31,14
+3:55,Villanova,Eric Paschall,Turnover,31,14
+3:55,St. John's,LJ Figueroa,Steal,31,14
+3:49,St. John's,LJ Figueroa,Layup,31,16
+3:25,Villanova,Saddiq Bey,Three Point Jumper,34,16
+3:13,St. John's,Marvin Clark II,Missed Jumper,34,16
+3:13,Villanova,Dhamir Cosby-Roundtree,Block,34,16
+3:13,St. John's,Marvin Clark II,Offensive Rebound,34,16
+3:04,St. John's,None,None,34,16
+2:55,St. John's,Marvin Clark II,Missed Three Point Jumper,34,16
+2:55,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,34,16
+2:42,Villanova,Collin Gillespie,Turnover,34,16
+2:42,St. John's,LJ Figueroa,Steal,34,16
+2:36,St. John's,Justin Simon,Dunk,34,18
+2:10,Villanova,Collin Gillespie,Missed Three Point Jumper,34,18
+2:10,St. John's,Mustapha Heron,Defensive Rebound,34,18
+1:47,St. John's,Justin Simon,Layup,34,20
+1:24,Villanova,Joe Cremo,Three Point Jumper,37,20
+1:11,Villanova,Dhamir Cosby-Roundtree,Foul,37,20
+1:11,St. John's,LJ Figueroa,Free Throw,37,21
+1:11,St. John's,LJ Figueroa,Free Throw,37,22
+0:50,Villanova,Eric Paschall,Missed Three Point Jumper,37,22
+0:50,St. John's,LJ Figueroa,Defensive Rebound,37,22
+0:39,St. John's,LJ Figueroa,Missed Three Point Jumper,37,22
+0:39,St. John's,Justin Simon,Offensive Rebound,37,22
+0:35,Villanova,Collin Gillespie,Foul,37,22
+0:35,St. John's,Justin Simon,Free Throw,37,23
+0:35,St. John's,Justin Simon,Missed Free Throw,37,23
+0:35,Villanova,Eric Paschall,Defensive Rebound,37,23
+0:04,Villanova,Saddiq Bey,Missed Three Point Jumper,37,23
+0:04,St. John's,Justin Simon,Defensive Rebound,37,23
+0:00,St. John's,Justin Simon,Three Point Jumper,37,26
+0:00,St. John's,None,None,37,26
+20:00,St. John's,None,None,37,26
+19:43,St. John's,Shamorie Ponds,Missed Layup,37,26
+19:38,St. John's,LJ Figueroa,Offensive Rebound,37,26
+19:38,St. John's,LJ Figueroa,Missed Layup,37,26
+19:37,Villanova,Phil Booth,Defensive Rebound,37,26
+19:30,Villanova,Eric Paschall,Missed Three Point Jumper,37,26
+19:30,St. John's,LJ Figueroa,Defensive Rebound,37,26
+19:15,Villanova,Phil Booth,Foul,37,26
+19:05,St. John's,Marvin Clark II,Three Point Jumper,37,29
+18:40,St. John's,Marvin Clark II,Foul,37,29
+18:34,St. John's,Marvin Clark II,Foul,37,29
+18:15,Villanova,Collin Gillespie,Turnover,37,29
+18:02,St. John's,Marvin Clark II,Missed Three Point Jumper,37,29
+18:02,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,37,29
+17:50,Villanova,Joe Cremo,Missed Three Point Jumper,37,29
+17:50,Villanova,Saddiq Bey,Offensive Rebound,37,29
+17:46,Villanova,Joe Cremo,Three Point Jumper,40,29
+17:31,St. John's,Mustapha Heron,Jumper,40,31
+17:14,Villanova,Joe Cremo,Missed Three Point Jumper,40,31
+17:14,St. John's,LJ Figueroa,Defensive Rebound,40,31
+17:04,St. John's,Mustapha Heron,Missed Jumper,40,31
+17:04,Villanova,Saddiq Bey,Defensive Rebound,40,31
+16:36,Villanova,Phil Booth,Missed Jumper,40,31
+16:36,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,40,31
+16:32,St. John's,Justin Simon,Foul,40,31
+16:32,Villanova,Phil Booth,Free Throw,41,31
+16:32,Villanova,Phil Booth,Free Throw,42,31
+16:18,St. John's,LJ Figueroa,Missed Jumper,42,31
+16:18,Villanova,Eric Paschall,Defensive Rebound,42,31
+16:03,Villanova,Dhamir Cosby-Roundtree,Missed Layup,42,31
+16:03,St. John's,LJ Figueroa,Defensive Rebound,42,31
+15:54,St. John's,Bryan Trimble Jr.,Turnover,42,31
+15:54,Villanova,Dhamir Cosby-Roundtree,Steal,42,31
+15:49,Villanova,Phil Booth,Missed Three Point Jumper,42,31
+15:49,St. John's,Justin Simon,Defensive Rebound,42,31
+15:36,St. John's,Marvin Clark II,Three Point Jumper,42,34
+15:04,St. John's,Marvin Clark II,Foul,42,34
+15:03,St. John's,None,None,42,34
+15:03,St. John's,LJ Figueroa,Foul,42,34
+15:03,Villanova,Eric Paschall,Free Throw,43,34
+15:03,St. John's,LJ Figueroa,Foul,42,34
+15:03,Villanova,Eric Paschall,Free Throw,44,34
+14:51,Villanova,Collin Gillespie,Missed Jumper,44,34
+14:51,Villanova,Saddiq Bey,Offensive Rebound,44,34
+14:46,Villanova,Eric Paschall,Missed Three Point Jumper,44,34
+14:46,St. John's,LJ Figueroa,Defensive Rebound,44,34
+14:38,Villanova,Jermaine Samuels,Foul,44,34
+14:36,Villanova,Joe Cremo,Foul,44,34
+14:20,St. John's,Mustapha Heron,Foul,44,34
+14:20,St. John's,Mustapha Heron,Turnover,44,34
+14:02,Villanova,Collin Gillespie,Turnover,44,34
+13:53,St. John's,Shamorie Ponds,Missed Three Point Jumper,44,34
+13:53,Villanova,Saddiq Bey,Defensive Rebound,44,34
+13:31,Villanova,Saddiq Bey,Three Point Jumper,47,34
+13:07,St. John's,LJ Figueroa,Missed Three Point Jumper,47,34
+13:07,Villanova,Jermaine Samuels,Defensive Rebound,47,34
+12:46,St. John's,Justin Simon,Foul,47,34
+12:46,Villanova,Joe Cremo,Free Throw,48,34
+12:46,Villanova,Joe Cremo,Missed Free Throw,48,34
+12:44,St. John's,LJ Figueroa,Defensive Rebound,48,34
+12:24,St. John's,LJ Figueroa,Missed Jumper,48,34
+12:24,St. John's,LJ Figueroa,Offensive Rebound,48,34
+12:24,St. John's,LJ Figueroa,Missed Layup,48,34
+12:24,Villanova,Joe Cremo,Defensive Rebound,48,34
+12:15,Villanova,Phil Booth,Turnover,48,34
+11:56,Villanova,Dhamir Cosby-Roundtree,Foul,48,34
+11:56,St. John's,None,None,48,34
+11:56,St. John's,Shamorie Ponds,Free Throw,48,35
+11:56,St. John's,Shamorie Ponds,Free Throw,48,36
+11:45,Villanova,Collin Gillespie,Turnover,48,36
+11:45,St. John's,LJ Figueroa,Steal,48,36
+11:41,St. John's,LJ Figueroa,Layup,48,38
+11:41,Villanova,None,None,48,38
+11:39,Villanova,Villanova,Foul,48,38
+11:39,Villanova,Villanova,Foul,48,38
+11:39,St. John's,Shamorie Ponds,Free Throw,48,39
+11:39,St. John's,Shamorie Ponds,Free Throw,48,40
+11:23,Villanova,Phil Booth,Missed Three Point Jumper,48,40
+11:23,St. John's,Justin Simon,Defensive Rebound,48,40
+11:16,St. John's,Mustapha Heron,Three Point Jumper,48,43
+10:58,Villanova,Jermaine Samuels,Turnover,48,43
+10:58,St. John's,LJ Figueroa,Steal,48,43
+10:48,St. John's,Shamorie Ponds,Jumper,48,45
+10:18,Villanova,Phil Booth,Missed Jumper,48,45
+10:18,St. John's,Justin Simon,Defensive Rebound,48,45
+10:11,St. John's,LJ Figueroa,Missed Jumper,48,45
+10:11,Villanova,Eric Paschall,Defensive Rebound,48,45
+9:49,St. John's,Justin Simon,Foul,48,45
+9:49,Villanova,Joe Cremo,Free Throw,49,45
+9:49,Villanova,Joe Cremo,Missed Free Throw,49,45
+9:49,St. John's,Mustapha Heron,Defensive Rebound,49,45
+9:21,St. John's,Shamorie Ponds,Missed Three Point Jumper,49,45
+9:21,Villanova,Eric Paschall,Defensive Rebound,49,45
+9:09,Villanova,Eric Paschall,Turnover,49,45
+9:09,St. John's,Bryan Trimble Jr.,Steal,49,45
+9:06,St. John's,LJ Figueroa,Three Point Jumper,49,48
+8:40,St. John's,Sedee Keita,Foul,49,48
+8:40,Villanova,Phil Booth,Free Throw,50,48
+8:40,Villanova,Phil Booth,Free Throw,51,48
+8:25,St. John's,Mustapha Heron,Three Point Jumper,51,51
+7:48,Villanova,Dhamir Cosby-Roundtree,Dunk,53,51
+7:28,St. John's,LJ Figueroa,Three Point Jumper,53,54
+7:02,Villanova,Eric Paschall,Missed Three Point Jumper,53,54
+7:02,St. John's,Bryan Trimble Jr.,Defensive Rebound,53,54
+6:52,St. John's,Shamorie Ponds,Missed Jumper,53,54
+6:52,Villanova,Eric Paschall,Defensive Rebound,53,54
+6:30,St. John's,Bryan Trimble Jr.,Foul,53,54
+6:29,St. John's,None,None,53,54
+6:29,Villanova,Eric Paschall,Free Throw,54,54
+6:29,Villanova,Eric Paschall,Free Throw,55,54
+6:07,Villanova,Saddiq Bey,Foul,55,54
+6:07,St. John's,LJ Figueroa,Missed Free Throw,55,54
+6:07,St. John's,None,Team Rebound,55,54
+6:07,St. John's,LJ Figueroa,Free Throw,55,55
+5:51,Villanova,Phil Booth,Missed Three Point Jumper,55,55
+5:51,St. John's,LJ Figueroa,Defensive Rebound,55,55
+5:36,St. John's,Sedee Keita,Missed Layup,55,55
+5:36,Villanova,Eric Paschall,Defensive Rebound,55,55
+5:18,Villanova,Eric Paschall,Missed Three Point Jumper,55,55
+5:18,St. John's,Shamorie Ponds,Defensive Rebound,55,55
+5:06,St. John's,Mustapha Heron,Missed Three Point Jumper,55,55
+5:06,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,55,55
+4:40,Villanova,Phil Booth,Layup,57,55
+4:20,St. John's,Shamorie Ponds,Missed Layup,57,55
+4:20,Villanova,Eric Paschall,Defensive Rebound,57,55
+4:05,Villanova,Eric Paschall,Turnover,57,55
+3:53,St. John's,LJ Figueroa,Three Point Jumper,57,58
+3:17,Villanova,Phil Booth,Missed Layup,57,58
+3:17,St. John's,Marvin Clark II,Block,57,58
+3:17,St. John's,Mustapha Heron,Defensive Rebound,57,58
+3:12,Villanova,Eric Paschall,Foul,57,58
+3:12,St. John's,None,None,57,58
+3:12,St. John's,Justin Simon,Free Throw,57,59
+3:12,St. John's,Justin Simon,Missed Free Throw,57,59
+3:12,Villanova,Jermaine Samuels,Defensive Rebound,57,59
+2:55,Villanova,Phil Booth,Missed Three Point Jumper,57,59
+2:55,St. John's,Shamorie Ponds,Defensive Rebound,57,59
+2:50,St. John's,Marvin Clark II,Missed Three Point Jumper,57,59
+2:50,Villanova,Phil Booth,Defensive Rebound,57,59
+2:25,Villanova,Eric Paschall,Turnover,57,59
+2:11,St. John's,Justin Simon,Missed Layup,57,59
+2:11,Villanova,Eric Paschall,Defensive Rebound,57,59
+1:49,St. John's,Marvin Clark II,Foul,57,59
+1:49,Villanova,Phil Booth,Missed Free Throw,57,59
+1:49,Villanova,None,Team Rebound,57,59
+1:49,Villanova,Phil Booth,Missed Free Throw,57,59
+1:49,St. John's,Mustapha Heron,Defensive Rebound,57,59
+1:27,Villanova,Dhamir Cosby-Roundtree,Foul,57,59
+1:27,St. John's,Mustapha Heron,Free Throw,57,60
+1:27,St. John's,Mustapha Heron,Free Throw,57,61
+1:17,Villanova,Phil Booth,Missed Three Point Jumper,57,61
+1:17,Villanova,Jermaine Samuels,Offensive Rebound,57,61
+1:07,Villanova,Phil Booth,Turnover,57,61
+1:07,St. John's,Sedee Keita,Steal,57,61
+1:01,Villanova,Eric Paschall,Foul,57,61
+1:01,St. John's,LJ Figueroa,Free Throw,57,62
+1:01,St. John's,LJ Figueroa,Free Throw,57,63
+0:54,Villanova,None,None,57,63
+0:50,St. John's,Shamorie Ponds,Foul,57,63
+0:50,Villanova,Phil Booth,Free Throw,58,63
+0:50,Villanova,Phil Booth,Missed Free Throw,58,63
+0:50,Villanova,None,Team Rebound,58,63
+0:50,Villanova,Phil Booth,Free Throw,59,63
+0:50,Villanova,Collin Gillespie,Foul,59,63
+0:50,St. John's,Shamorie Ponds,Free Throw,59,64
+0:50,St. John's,Shamorie Ponds,Free Throw,59,65
+0:42,Villanova,Collin Gillespie,Missed Three Point Jumper,59,65
+0:42,St. John's,LJ Figueroa,Defensive Rebound,59,65
+0:38,Villanova,Saddiq Bey,Foul,59,65
+0:38,Villanova,None,None,59,65
+0:38,St. John's,LJ Figueroa,Free Throw,59,66
+0:38,St. John's,LJ Figueroa,Free Throw,59,67
+0:30,Villanova,Eric Paschall,Missed Jumper,59,67
+0:30,Villanova,Eric Paschall,Offensive Rebound,59,67
+0:26,St. John's,Sedee Keita,Foul,59,67
+0:26,Villanova,Eric Paschall,Free Throw,60,67
+0:26,Villanova,Eric Paschall,Free Throw,61,67
+0:26,Villanova,Eric Paschall,Foul,61,67
+0:26,St. John's,Mustapha Heron,Free Throw,61,68
+0:26,St. John's,Mustapha Heron,Free Throw,61,69
+0:16,Villanova,Jermaine Samuels,Missed Three Point Jumper,61,69
+0:16,Villanova,Collin Gillespie,Offensive Rebound,61,69
+0:13,St. John's,LJ Figueroa,Foul,61,69
+0:13,Villanova,Collin Gillespie,Missed Free Throw,61,69
+0:13,Villanova,None,Team Rebound,61,69
+0:13,Villanova,Collin Gillespie,Free Throw,62,69
+0:10,Villanova,Eric Paschall,Foul,62,69
+0:10,St. John's,LJ Figueroa,Free Throw,62,70
+0:10,St. John's,LJ Figueroa,Free Throw,62,71
+0:04,Villanova,Joe Cremo,Three Point Jumper,65,71
+0:00,St. John's,None,None,65,71

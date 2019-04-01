@@ -1,0 +1,321 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Cincinnati,None,None,0,0
+19:41,Mississippi State,Abdul Ado,Foul,0,0
+19:32,Cincinnati,Jarron Cumberland,Turnover,0,0
+19:23,Mississippi State,Nick Weatherspoon,Three Point Jumper,0,3
+19:14,Cincinnati,Jarron Cumberland,Foul,0,3
+19:14,Cincinnati,Jarron Cumberland,Turnover,0,3
+19:01,Mississippi State,Quinndary Weatherspoon,Turnover,0,3
+19:01,Cincinnati,Jarron Cumberland,Steal,0,3
+18:57,Cincinnati,Justin Jenifer,Jumper,2,3
+18:25,Mississippi State,Abdul Ado,Missed Jumper,2,3
+18:25,Cincinnati,Eliel Nsoseme,Block,2,3
+18:25,Mississippi State,Aric Holman,Offensive Rebound,2,3
+18:19,Mississippi State,Aric Holman,Missed Layup,2,3
+18:19,Cincinnati,Cincinnati,Defensive Rebound,2,3
+17:57,Cincinnati,Jarron Cumberland,Missed Jumper,2,3
+17:57,Mississippi State,Abdul Ado,Defensive Rebound,2,3
+17:52,Cincinnati,Nysier Brooks,Foul,2,3
+17:52,Mississippi State,Abdul Ado,Foul,2,3
+17:52,Cincinnati,Nysier Brooks,Free Throw,3,3
+17:52,Cincinnati,Nysier Brooks,Free Throw,4,3
+17:48,Mississippi State,Quinndary Weatherspoon,Foul,4,3
+17:48,Cincinnati,Tre Scott,Missed Free Throw,4,3
+17:48,Cincinnati,None,Team Rebound,4,3
+17:48,Cincinnati,Tre Scott,Free Throw,5,3
+17:29,Mississippi State,Lamar Peters,Missed Three Point Jumper,5,3
+17:29,Mississippi State,Reggie Perry,Offensive Rebound,5,3
+17:25,Cincinnati,Justin Jenifer,Foul,5,3
+17:25,Mississippi State,Reggie Perry,Free Throw,5,4
+17:25,Mississippi State,Reggie Perry,Free Throw,5,5
+17:13,Cincinnati,Jarron Cumberland,Missed Jumper,5,5
+17:13,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,5,5
+17:03,Mississippi State,Quinndary Weatherspoon,Three Point Jumper,5,8
+16:36,Cincinnati,Tre Scott,Missed Jumper,5,8
+16:36,Cincinnati,Jarron Cumberland,Offensive Rebound,5,8
+16:30,Cincinnati,Keith Williams,Three Point Jumper,8,8
+16:07,Mississippi State,Nick Weatherspoon,Missed Three Point Jumper,8,8
+16:07,Cincinnati,Eliel Nsoseme,Defensive Rebound,8,8
+15:45,Cincinnati,Tre Scott,Missed Jumper,8,8
+15:45,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,8,8
+15:35,Mississippi State,Aric Holman,Three Point Jumper,8,11
+15:12,Cincinnati,Jarron Cumberland,Layup,10,11
+14:49,Cincinnati,Eliel Nsoseme,Foul,10,11
+14:49,Mississippi State,None,None,10,11
+14:49,Mississippi State,Reggie Perry,Missed Free Throw,10,11
+14:49,Mississippi State,None,Team Rebound,10,11
+14:49,Mississippi State,Reggie Perry,Free Throw,10,12
+14:38,Cincinnati,Jarron Cumberland,Missed Jumper,10,12
+14:38,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,10,12
+14:18,Mississippi State,Nick Weatherspoon,Jumper,10,14
+13:58,Cincinnati,Tre Scott,Layup,12,14
+13:52,Mississippi State,Nick Weatherspoon,Turnover,12,14
+13:52,Cincinnati,Tre Scott,Steal,12,14
+13:27,Cincinnati,Keith Williams,Missed Three Point Jumper,12,14
+13:27,Cincinnati,Tre Scott,Offensive Rebound,12,14
+13:27,Cincinnati,None,None,14,14
+12:57,Mississippi State,Reggie Perry,Turnover,14,14
+12:57,Cincinnati,Jarron Cumberland,Steal,14,14
+12:37,Cincinnati,Tre Scott,Missed Jumper,14,14
+12:37,Cincinnati,Eliel Nsoseme,Offensive Rebound,14,14
+12:17,Cincinnati,Keith Williams,Missed Jumper,14,14
+12:17,Mississippi State,Reggie Perry,Defensive Rebound,14,14
+12:13,Cincinnati,Eliel Nsoseme,Foul,14,14
+12:06,Mississippi State,Lamar Peters,Turnover,14,14
+12:06,Cincinnati,Keith Williams,Steal,14,14
+12:06,Mississippi State,Lamar Peters,Foul,14,14
+11:57,Cincinnati,Rashawn Fredericks,Missed Three Point Jumper,14,14
+11:57,Mississippi State,Lamar Peters,Defensive Rebound,14,14
+11:41,Cincinnati,Keith Williams,Foul,14,14
+11:41,Mississippi State,None,None,14,14
+11:41,Mississippi State,Quinndary Weatherspoon,Missed Free Throw,14,14
+11:41,Mississippi State,None,Team Rebound,14,14
+11:41,Mississippi State,Quinndary Weatherspoon,Free Throw,14,15
+11:27,Cincinnati,Keith Williams,Layup,16,15
+11:09,Mississippi State,Lamar Peters,Three Point Jumper,16,18
+10:37,Cincinnati,Nysier Brooks,Layup,18,18
+10:23,Mississippi State,Lamar Peters,Missed Three Point Jumper,18,18
+10:23,Cincinnati,Nysier Brooks,Defensive Rebound,18,18
+10:07,Cincinnati,Trevor Moore,Missed Three Point Jumper,18,18
+10:07,Cincinnati,Rashawn Fredericks,Offensive Rebound,18,18
+9:59,Cincinnati,Keith Williams,Missed Jumper,18,18
+9:59,Mississippi State,Robert Woodard,Defensive Rebound,18,18
+9:40,Mississippi State,Tyson Carter,Missed Jumper,18,18
+9:40,Cincinnati,Nysier Brooks,Defensive Rebound,18,18
+9:37,Mississippi State,Aric Holman,Foul,18,18
+9:22,Cincinnati,Tre Scott,Missed Jumper,18,18
+9:22,Mississippi State,Aric Holman,Defensive Rebound,18,18
+9:06,Mississippi State,Aric Holman,Turnover,18,18
+8:59,Cincinnati,Keith Williams,Dunk,20,18
+8:40,Mississippi State,Robert Woodard,Turnover,20,18
+8:24,Cincinnati,Nysier Brooks,Missed Jumper,20,18
+8:24,Mississippi State,Reggie Perry,Block,20,18
+8:24,Mississippi State,Reggie Perry,Defensive Rebound,20,18
+8:04,Mississippi State,Reggie Perry,Three Point Jumper,20,21
+7:49,Mississippi State,None,None,20,21
+7:39,Cincinnati,Keith Williams,Missed Jumper,20,21
+7:39,Mississippi State,Robert Woodard,Defensive Rebound,20,21
+7:28,Mississippi State,Robert Woodard,Missed Layup,20,21
+7:28,Cincinnati,Tre Scott,Block,20,21
+7:28,Cincinnati,Nysier Brooks,Defensive Rebound,20,21
+7:25,Cincinnati,Tre Scott,Turnover,20,21
+7:07,Mississippi State,Nick Weatherspoon,Missed Three Point Jumper,20,21
+7:07,Mississippi State,Reggie Perry,Offensive Rebound,20,21
+6:59,Mississippi State,Reggie Perry,Layup,20,23
+6:59,Cincinnati,Tre Scott,Foul,20,23
+6:59,Mississippi State,Reggie Perry,Missed Free Throw,20,23
+6:59,Cincinnati,Nysier Brooks,Defensive Rebound,20,23
+6:43,Cincinnati,Jarron Cumberland,Three Point Jumper,23,23
+6:14,Cincinnati,Justin Jenifer,Foul,23,23
+6:14,Mississippi State,Quinndary Weatherspoon,Free Throw,23,24
+6:14,Mississippi State,Quinndary Weatherspoon,Free Throw,23,25
+5:47,Mississippi State,Reggie Perry,Foul,23,25
+5:47,Cincinnati,Nysier Brooks,Missed Free Throw,23,25
+5:47,Cincinnati,None,Team Rebound,23,25
+5:47,Cincinnati,Nysier Brooks,Free Throw,24,25
+5:37,Mississippi State,Tyson Carter,Three Point Jumper,24,28
+5:17,Cincinnati,Jarron Cumberland,Turnover,24,28
+5:17,Mississippi State,Lamar Peters,Steal,24,28
+5:13,Mississippi State,Lamar Peters,Turnover,24,28
+5:13,Cincinnati,Cane Broome,Steal,24,28
+5:08,Mississippi State,Lamar Peters,Foul,24,28
+5:08,Cincinnati,Cane Broome,Free Throw,25,28
+5:08,Cincinnati,Cane Broome,Free Throw,26,28
+4:53,Mississippi State,Tyson Carter,Turnover,26,28
+4:42,Cincinnati,Cane Broome,Turnover,26,28
+4:33,Mississippi State,Tyson Carter,Missed Three Point Jumper,26,28
+4:33,Cincinnati,Cane Broome,Defensive Rebound,26,28
+4:23,Cincinnati,Cane Broome,Missed Jumper,26,28
+4:23,Mississippi State,Abdul Ado,Defensive Rebound,26,28
+4:17,Mississippi State,Nick Weatherspoon,Missed Layup,26,28
+4:17,Mississippi State,Aric Holman,Offensive Rebound,26,28
+4:17,Mississippi State,None,None,26,28
+4:17,Mississippi State,Aric Holman,Offensive Rebound,26,28
+4:07,Mississippi State,Aric Holman,Missed Layup,26,28
+4:06,Cincinnati,Tre Scott,Defensive Rebound,26,28
+3:50,Cincinnati,Tre Scott,Missed Jumper,26,28
+3:50,Mississippi State,Nick Weatherspoon,Defensive Rebound,26,28
+3:25,Mississippi State,Quinndary Weatherspoon,Missed Layup,26,28
+3:25,Cincinnati,Keith Williams,Defensive Rebound,26,28
+3:04,Cincinnati,Cane Broome,Missed Three Point Jumper,26,28
+3:04,Mississippi State,Nick Weatherspoon,Defensive Rebound,26,28
+2:57,Mississippi State,None,None,26,28
+2:56,Cincinnati,Tre Scott,Foul,26,28
+2:56,Mississippi State,Quinndary Weatherspoon,Free Throw,26,29
+2:56,Mississippi State,Quinndary Weatherspoon,Free Throw,26,30
+2:45,Cincinnati,Jarron Cumberland,Jumper,28,30
+2:25,Mississippi State,Quinndary Weatherspoon,Missed Layup,28,30
+2:25,Cincinnati,Keith Williams,Block,28,30
+2:25,Mississippi State,Quinndary Weatherspoon,Offensive Rebound,28,30
+2:16,Mississippi State,Reggie Perry,Jumper,28,32
+2:03,Cincinnati,Jarron Cumberland,Missed Three Point Jumper,28,32
+2:03,Cincinnati,Nysier Brooks,Offensive Rebound,28,32
+2:00,Mississippi State,Tyson Carter,Foul,28,32
+2:00,Cincinnati,Nysier Brooks,Free Throw,29,32
+2:00,Cincinnati,Nysier Brooks,Free Throw,30,32
+1:45,Mississippi State,Nick Weatherspoon,Three Point Jumper,30,35
+1:28,Cincinnati,None,None,30,35
+1:24,Cincinnati,Nysier Brooks,Foul,30,35
+1:24,Cincinnati,Nysier Brooks,Turnover,30,35
+1:07,Mississippi State,Tyson Carter,Jumper,30,37
+0:37,Cincinnati,Rashawn Fredericks,Layup,32,37
+0:02,Mississippi State,Quinndary Weatherspoon,Foul,32,37
+0:02,Mississippi State,Quinndary Weatherspoon,Turnover,32,37
+0:00,Mississippi State,None,None,32,37
+20:00,Cincinnati,None,None,32,37
+19:30,Cincinnati,Keith Williams,Jumper,34,37
+19:22,Mississippi State,Aric Holman,Missed Three Point Jumper,34,37
+19:22,Cincinnati,Nysier Brooks,Defensive Rebound,34,37
+19:01,Cincinnati,Jarron Cumberland,Foul,34,37
+19:01,Cincinnati,Jarron Cumberland,Turnover,34,37
+18:49,Mississippi State,Quinndary Weatherspoon,Missed Layup,34,37
+18:49,Cincinnati,Nysier Brooks,Block,34,37
+18:49,Cincinnati,Justin Jenifer,Defensive Rebound,34,37
+18:39,Cincinnati,Keith Williams,Turnover,34,37
+18:21,Mississippi State,Lamar Peters,Missed Three Point Jumper,34,37
+18:21,Cincinnati,Nysier Brooks,Defensive Rebound,34,37
+17:55,Cincinnati,Tre Scott,Missed Layup,34,37
+17:55,Mississippi State,Aric Holman,Block,34,37
+17:55,Cincinnati,Cincinnati,Offensive Rebound,34,37
+17:52,Cincinnati,Keith Williams,Missed Three Point Jumper,34,37
+17:52,Mississippi State,Nick Weatherspoon,Defensive Rebound,34,37
+17:45,Mississippi State,Nick Weatherspoon,Missed Layup,34,37
+17:45,Cincinnati,Keith Williams,Block,34,37
+17:45,Cincinnati,Jarron Cumberland,Defensive Rebound,34,37
+17:38,Cincinnati,Nysier Brooks,Missed Layup,34,37
+17:38,Mississippi State,Quinndary Weatherspoon,Block,34,37
+17:38,Cincinnati,Nysier Brooks,Offensive Rebound,34,37
+17:31,Cincinnati,Nysier Brooks,Turnover,34,37
+17:31,Mississippi State,Abdul Ado,Steal,34,37
+17:28,Mississippi State,Aric Holman,Layup,34,39
+17:06,Cincinnati,Jarron Cumberland,Jumper,36,39
+16:33,Mississippi State,Aric Holman,Missed Three Point Jumper,36,39
+16:33,Cincinnati,Tre Scott,Defensive Rebound,36,39
+16:08,Cincinnati,Keith Williams,Jumper,38,39
+15:37,Mississippi State,Nick Weatherspoon,Missed Jumper,38,39
+15:37,Mississippi State,Mississippi State,Offensive Rebound,38,39
+15:31,Mississippi State,None,None,38,39
+15:29,Mississippi State,Nick Weatherspoon,Missed Jumper,38,39
+15:29,Mississippi State,Aric Holman,Offensive Rebound,38,39
+15:27,Cincinnati,Tre Scott,Foul,38,39
+15:19,Mississippi State,Quinndary Weatherspoon,Three Point Jumper,38,42
+14:59,Cincinnati,Jarron Cumberland,Three Point Jumper,41,42
+14:33,Cincinnati,Nysier Brooks,Foul,41,42
+14:33,Mississippi State,Abdul Ado,Free Throw,41,43
+14:17,Mississippi State,Quinndary Weatherspoon,Foul,41,43
+14:06,Mississippi State,Tyson Carter,Foul,41,43
+14:06,Cincinnati,Keith Williams,Free Throw,42,43
+14:06,Cincinnati,Keith Williams,Free Throw,43,43
+13:42,Mississippi State,Nick Weatherspoon,Missed Jumper,43,43
+13:42,Cincinnati,Jarron Cumberland,Defensive Rebound,43,43
+13:37,Cincinnati,Jarron Cumberland,Turnover,43,43
+13:37,Mississippi State,Lamar Peters,Steal,43,43
+13:33,Mississippi State,Lamar Peters,Layup,43,45
+13:16,Cincinnati,Keith Williams,Missed Three Point Jumper,43,45
+13:16,Cincinnati,Rashawn Fredericks,Offensive Rebound,43,45
+12:54,Cincinnati,Jarron Cumberland,Missed Three Point Jumper,43,45
+12:54,Mississippi State,Abdul Ado,Defensive Rebound,43,45
+12:43,Mississippi State,Nick Weatherspoon,Foul,43,45
+12:43,Mississippi State,Nick Weatherspoon,Turnover,43,45
+12:20,Cincinnati,Keith Williams,Jumper,45,45
+11:49,Mississippi State,Lamar Peters,Jumper,45,47
+11:25,Cincinnati,Keith Williams,Missed Jumper,45,47
+11:25,Mississippi State,Aric Holman,Defensive Rebound,45,47
+11:21,Cincinnati,Keith Williams,Foul,45,47
+11:21,Mississippi State,None,None,45,47
+11:04,Mississippi State,Lamar Peters,Missed Layup,45,47
+11:04,Mississippi State,Aric Holman,Offensive Rebound,45,47
+10:57,Cincinnati,Tre Scott,Foul,45,47
+10:57,Mississippi State,Aric Holman,Missed Free Throw,45,47
+10:57,Mississippi State,None,Team Rebound,45,47
+10:57,Mississippi State,Aric Holman,Missed Free Throw,45,47
+10:57,Cincinnati,Rashawn Fredericks,Defensive Rebound,45,47
+10:41,Cincinnati,Nysier Brooks,Foul,45,47
+10:41,Cincinnati,Nysier Brooks,Turnover,45,47
+10:31,Mississippi State,Lamar Peters,Missed Three Point Jumper,45,47
+10:31,Mississippi State,Aric Holman,Offensive Rebound,45,47
+10:23,Mississippi State,Quinndary Weatherspoon,Three Point Jumper,45,50
+10:05,Cincinnati,None,None,45,50
+10:00,Cincinnati,Cane Broome,Missed Layup,45,50
+10:00,Mississippi State,Aric Holman,Block,45,50
+10:00,Mississippi State,Mississippi State,Defensive Rebound,45,50
+9:33,Mississippi State,Aric Holman,Turnover,45,50
+9:08,Cincinnati,Cane Broome,Turnover,45,50
+9:08,Mississippi State,Nick Weatherspoon,Steal,45,50
+8:53,Cincinnati,Keith Williams,Foul,45,50
+8:53,Mississippi State,Quinndary Weatherspoon,Missed Free Throw,45,50
+8:53,Cincinnati,Rashawn Fredericks,Defensive Rebound,45,50
+8:40,Cincinnati,Justin Jenifer,Turnover,45,50
+8:40,Mississippi State,Aric Holman,Steal,45,50
+8:36,Mississippi State,Tyson Carter,Dunk,45,52
+8:13,Cincinnati,Jarron Cumberland,Missed Jumper,45,52
+8:13,Cincinnati,Keith Williams,Offensive Rebound,45,52
+8:08,Mississippi State,Tyson Carter,Foul,45,52
+8:08,Cincinnati,Keith Williams,Missed Free Throw,45,52
+8:08,Cincinnati,None,Team Rebound,45,52
+8:08,Cincinnati,Keith Williams,Missed Free Throw,45,52
+8:08,Cincinnati,Jarron Cumberland,Offensive Rebound,45,52
+8:02,Cincinnati,Jarron Cumberland,Missed Three Point Jumper,45,52
+8:02,Cincinnati,Rashawn Fredericks,Offensive Rebound,45,52
+7:56,Mississippi State,Lamar Peters,Foul,45,52
+7:56,Mississippi State,None,None,45,52
+7:42,Cincinnati,Jarron Cumberland,Jumper,47,52
+7:14,Mississippi State,Lamar Peters,Missed Three Point Jumper,47,52
+7:14,Mississippi State,Aric Holman,Offensive Rebound,47,52
+7:10,Cincinnati,Rashawn Fredericks,Foul,47,52
+7:10,Mississippi State,Aric Holman,Free Throw,47,53
+7:10,Mississippi State,Aric Holman,Free Throw,47,54
+6:55,Mississippi State,Nick Weatherspoon,Foul,47,54
+6:55,Cincinnati,Jarron Cumberland,Free Throw,48,54
+6:55,Cincinnati,Jarron Cumberland,Free Throw,49,54
+6:55,Cincinnati,Jarron Cumberland,Free Throw,50,54
+6:32,Mississippi State,Lamar Peters,Three Point Jumper,50,57
+6:10,Cincinnati,Jarron Cumberland,Missed Jumper,50,57
+6:10,Mississippi State,Abdul Ado,Defensive Rebound,50,57
+6:07,Cincinnati,Keith Williams,Foul,50,57
+6:07,Mississippi State,Abdul Ado,Free Throw,50,58
+6:07,Mississippi State,Abdul Ado,Missed Free Throw,50,58
+6:07,Cincinnati,Tre Scott,Defensive Rebound,50,58
+5:45,Mississippi State,Quinndary Weatherspoon,Foul,50,58
+5:45,Cincinnati,Keith Williams,Missed Free Throw,50,58
+5:45,Cincinnati,None,Team Rebound,50,58
+5:45,Cincinnati,Keith Williams,Missed Free Throw,50,58
+5:45,Mississippi State,Mississippi State,Defensive Rebound,50,58
+5:27,Mississippi State,Abdul Ado,Turnover,50,58
+5:27,Cincinnati,Justin Jenifer,Steal,50,58
+4:55,Cincinnati,Nysier Brooks,Jumper,52,58
+4:28,Cincinnati,Nysier Brooks,Foul,52,58
+4:28,Mississippi State,Abdul Ado,Missed Free Throw,52,58
+4:28,Mississippi State,None,Team Rebound,52,58
+4:28,Mississippi State,Abdul Ado,Free Throw,52,59
+4:17,Cincinnati,Jarron Cumberland,Missed Jumper,52,59
+4:17,Mississippi State,Aric Holman,Defensive Rebound,52,59
+3:56,Mississippi State,Tyson Carter,Three Point Jumper,52,62
+3:39,Cincinnati,None,None,52,62
+3:16,Cincinnati,Tre Scott,Missed Layup,52,62
+3:16,Mississippi State,Aric Holman,Block,52,62
+3:16,Mississippi State,Lamar Peters,Defensive Rebound,52,62
+3:08,Mississippi State,Tyson Carter,Layup,52,64
+2:54,Mississippi State,Lamar Peters,Foul,52,64
+2:54,Cincinnati,Jarron Cumberland,Free Throw,53,64
+2:54,Cincinnati,Jarron Cumberland,Free Throw,54,64
+2:54,Cincinnati,Justin Jenifer,Foul,54,64
+2:54,Mississippi State,Lamar Peters,Missed Free Throw,54,64
+2:54,Mississippi State,None,Team Rebound,54,64
+2:54,Mississippi State,Lamar Peters,Free Throw,54,65
+2:39,Mississippi State,Reggie Perry,Foul,54,65
+2:39,Cincinnati,Rashawn Fredericks,Free Throw,55,65
+2:39,Cincinnati,Rashawn Fredericks,Free Throw,56,65
+2:39,Cincinnati,Rashawn Fredericks,Free Throw,57,65
+2:15,Mississippi State,Reggie Perry,Dunk,57,67
+2:12,Mississippi State,None,None,57,67
+2:03,Cincinnati,Jarron Cumberland,Layup,59,67
+1:40,Mississippi State,Nick Weatherspoon,Turnover,59,67
+1:29,Cincinnati,Justin Jenifer,Missed Three Point Jumper,59,67
+1:29,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,59,67
+0:58,Mississippi State,Tyson Carter,Missed Three Point Jumper,59,67
+0:58,Cincinnati,Cincinnati,Defensive Rebound,59,67
+0:44,Cincinnati,Rashawn Fredericks,Missed Three Point Jumper,59,67
+0:44,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,59,67
+0:06,Mississippi State,Lamar Peters,Three Point Jumper,59,70
+0:00,Mississippi State,None,None,59,70

@@ -1,0 +1,392 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,Long Beach State,Mason Riggins,Jumper,0,2
+19:27,Cal Poly,Mark Crowe,Layup,2,2
+19:09,Long Beach State,Deishuan Booker,Layup,2,4
+18:52,Cal Poly,Marcellus Garrick,Missed Jumper,2,4
+18:52,Long Beach State,Jordan Roberts,Defensive Rebound,2,4
+18:43,Long Beach State,Jordan Roberts,Missed Layup,2,4
+18:43,Cal Poly,Karlis Garoza,Defensive Rebound,2,4
+18:35,Cal Poly,Donovan Fields,Missed Layup,2,4
+18:35,Long Beach State,Drew Cobb,Defensive Rebound,2,4
+18:15,Long Beach State,Jordan Roberts,Jumper,2,6
+17:57,Cal Poly,Job Alexander,Missed Layup,2,6
+17:57,Long Beach State,Jordan Roberts,Block,2,6
+17:54,Long Beach State,Drew Cobb,Defensive Rebound,2,6
+17:49,Long Beach State,Deishuan Booker,Missed Three Point Jumper,2,6
+17:49,Cal Poly,Karlis Garoza,Defensive Rebound,2,6
+17:32,Cal Poly,Mark Crowe,Missed Three Point Jumper,2,6
+17:32,Long Beach State,Jordan Roberts,Defensive Rebound,2,6
+17:24,Long Beach State,Drew Cobb,Layup,2,8
+17:01,Cal Poly,Marcellus Garrick,Turnover,2,8
+17:00,Long Beach State,Jordan Roberts,Steal,2,8
+16:44,Long Beach State,Mason Riggins,Missed Jumper,2,8
+16:44,Cal Poly,Tuukka Jaakkola,Block,2,8
+16:41,Cal Poly,Mark Crowe,Defensive Rebound,2,8
+16:36,Cal Poly,Job Alexander,Missed Jumper,2,8
+16:32,Long Beach State,Demetrius Mims,Block,2,8
+16:31,Long Beach State,Bryan Alberts,Defensive Rebound,2,8
+16:24,Long Beach State,Deishuan Booker,Layup,2,10
+15:58,Long Beach State,Deishuan Booker,Foul,2,10
+15:58,Long Beach State,None,None,2,10
+15:47,Cal Poly,Tuukka Jaakkola,Jumper,4,10
+15:26,Cal Poly,Tuukka Jaakkola,Foul,4,10
+15:26,Long Beach State,Temidayo Yussuf,Missed Free Throw,4,10
+15:26,Long Beach State,None,Team Rebound,4,10
+15:26,Long Beach State,Temidayo Yussuf,Missed Free Throw,4,10
+15:26,Cal Poly,Tuukka Jaakkola,Defensive Rebound,4,10
+15:10,Cal Poly,Donovan Fields,Missed Three Point Jumper,4,10
+15:10,Long Beach State,Deishuan Booker,Defensive Rebound,4,10
+15:01,Long Beach State,Deishuan Booker,Missed Layup,4,10
+15:01,Cal Poly,Mark Crowe,Block,4,10
+15:01,Long Beach State,Long Beach State,Offensive Rebound,4,10
+14:57,Long Beach State,Jordan Roberts,Missed Jumper,4,10
+14:57,Cal Poly,Mark Crowe,Defensive Rebound,4,10
+14:43,Cal Poly,Job Alexander,Turnover,4,10
+14:42,Long Beach State,Demetrius Mims,Steal,4,10
+14:39,Cal Poly,Mark Crowe,Foul,4,10
+14:33,Long Beach State,Jordan Roberts,Missed Layup,4,10
+14:33,Cal Poly,Job Alexander,Defensive Rebound,4,10
+14:32,Long Beach State,Demetrius Mims,Foul,4,10
+14:10,Cal Poly,Donovan Fields,Jumper,6,10
+13:55,Long Beach State,Temidayo Yussuf,Missed Jumper,6,10
+13:55,Cal Poly,Cal Poly,Defensive Rebound,6,10
+13:45,Long Beach State,Temidayo Yussuf,Foul,6,10
+13:39,Cal Poly,Donovan Fields,Layup,8,10
+13:26,Long Beach State,Bryan Alberts,Jumper,8,12
+13:25,Cal Poly,Marcellus Garrick,Foul,8,12
+13:25,Long Beach State,Bryan Alberts,Free Throw,8,13
+13:08,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,8,13
+13:06,Long Beach State,Long Beach State,Defensive Rebound,8,13
+12:47,Long Beach State,Deishuan Booker,Missed Three Point Jumper,8,13
+12:47,Long Beach State,Mason Riggins,Offensive Rebound,8,13
+12:44,Long Beach State,None,None,8,15
+12:32,Cal Poly,Marcellus Garrick,Three Point Jumper,11,15
+12:14,Long Beach State,Bryan Alberts,Missed Three Point Jumper,11,15
+12:14,Cal Poly,Daxton Carr,Defensive Rebound,11,15
+11:59,Long Beach State,Jordan Roberts,Foul,11,15
+11:59,Long Beach State,None,None,11,15
+11:59,Cal Poly,Jared Rice,Free Throw,12,15
+11:59,Cal Poly,Jared Rice,Missed Free Throw,12,15
+11:59,Long Beach State,Mason Riggins,Defensive Rebound,12,15
+11:32,Long Beach State,Bryan Alberts,Three Point Jumper,12,18
+10:57,Cal Poly,Jared Rice,Missed Three Point Jumper,12,18
+10:57,Long Beach State,Deishuan Booker,Defensive Rebound,12,18
+10:47,Long Beach State,Bryan Alberts,Missed Three Point Jumper,12,18
+10:47,Cal Poly,Daxton Carr,Defensive Rebound,12,18
+10:33,Cal Poly,Mark Crowe,Missed Layup,12,18
+10:33,Long Beach State,Deishuan Booker,Defensive Rebound,12,18
+10:27,Long Beach State,Bryan Alberts,Missed Three Point Jumper,12,18
+10:27,Long Beach State,Long Beach State,Offensive Rebound,12,18
+10:19,Cal Poly,Daxton Carr,Foul,12,18
+10:19,Long Beach State,Jordan Roberts,Free Throw,12,19
+10:19,Long Beach State,Jordan Roberts,Free Throw,12,20
+10:08,Cal Poly,Job Alexander,Missed Layup,12,20
+10:08,Long Beach State,Mason Riggins,Defensive Rebound,12,20
+9:50,Long Beach State,Mason Riggins,Dunk,12,22
+9:29,Cal Poly,Donovan Fields,Missed Layup,12,22
+9:29,Long Beach State,Drew Cobb,Defensive Rebound,12,22
+9:23,Long Beach State,Edon Maxhuni,Missed Jumper,12,22
+9:23,Cal Poly,Job Alexander,Defensive Rebound,12,22
+9:17,Cal Poly,None,None,12,22
+9:10,Cal Poly,Daxton Carr,Missed Three Point Jumper,12,22
+9:10,Cal Poly,Donovan Fields,Offensive Rebound,12,22
+8:55,Cal Poly,Donovan Fields,Missed Jumper,12,22
+8:55,Long Beach State,Breamon Richard,Defensive Rebound,12,22
+8:44,Long Beach State,Jordan Roberts,Turnover,12,22
+8:43,Cal Poly,Job Alexander,Steal,12,22
+8:40,Long Beach State,Breamon Richard,Foul,12,22
+8:40,Cal Poly,Donovan Fields,Free Throw,13,22
+8:40,Cal Poly,Donovan Fields,Free Throw,14,22
+8:27,Long Beach State,Deishuan Booker,Jumper,14,24
+8:03,Cal Poly,Marcellus Garrick,Missed Jumper,14,24
+8:03,Cal Poly,Marcellus Garrick,Offensive Rebound,14,24
+7:59,Long Beach State,Drew Cobb,Foul,14,24
+7:59,Long Beach State,None,None,14,24
+7:54,Cal Poly,Marcellus Garrick,Missed Layup,14,24
+7:54,Long Beach State,Temidayo Yussuf,Defensive Rebound,14,24
+7:37,Long Beach State,Temidayo Yussuf,Jumper,14,26
+7:37,Cal Poly,Tuukka Jaakkola,Foul,14,26
+7:37,Long Beach State,Temidayo Yussuf,Free Throw,14,27
+7:26,Cal Poly,Mark Crowe,Missed Three Point Jumper,14,27
+7:26,Cal Poly,Karlis Garoza,Offensive Rebound,14,27
+7:20,Long Beach State,Temidayo Yussuf,Foul,14,27
+7:20,Cal Poly,Mark Crowe,Free Throw,15,27
+7:20,Cal Poly,Mark Crowe,Free Throw,16,27
+7:05,Long Beach State,Edon Maxhuni,Missed Three Point Jumper,16,27
+7:05,Cal Poly,Mark Crowe,Defensive Rebound,16,27
+6:54,Cal Poly,Marcellus Garrick,Three Point Jumper,19,27
+6:45,Cal Poly,Karlis Garoza,Foul,19,27
+6:45,Cal Poly,Karlis Garoza,Foul,19,27
+6:45,Long Beach State,Temidayo Yussuf,Missed Free Throw,19,27
+6:45,Long Beach State,Demetrius Mims,Offensive Rebound,19,27
+6:35,Long Beach State,Deishuan Booker,Turnover,19,27
+6:20,Cal Poly,Karlis Garoza,Turnover,19,27
+5:57,Long Beach State,Deishuan Booker,Missed Layup,19,27
+5:57,Cal Poly,Marcellus Garrick,Defensive Rebound,19,27
+5:52,Long Beach State,Bryan Alberts,Foul,19,27
+5:52,Cal Poly,Marcellus Garrick,Free Throw,20,27
+5:52,Cal Poly,Marcellus Garrick,Free Throw,21,27
+5:39,Long Beach State,Jordan Roberts,Turnover,21,27
+5:38,Cal Poly,Job Alexander,Steal,21,27
+5:23,Cal Poly,Marcellus Garrick,Jumper,23,27
+5:22,Long Beach State,None,None,23,27
+4:59,Long Beach State,Drew Cobb,Missed Jumper,23,27
+4:59,Cal Poly,Hank Hollingsworth,Defensive Rebound,23,27
+4:49,Cal Poly,Donovan Fields,Missed Layup,23,27
+4:49,Long Beach State,Mason Riggins,Defensive Rebound,23,27
+4:48,Cal Poly,Hank Hollingsworth,Foul,23,27
+4:48,Long Beach State,Mason Riggins,Free Throw,23,28
+4:48,Long Beach State,Mason Riggins,Free Throw,23,29
+4:29,Cal Poly,Mark Crowe,Turnover,23,29
+4:19,Long Beach State,Deishuan Booker,Missed Jumper,23,29
+4:19,Cal Poly,Hank Hollingsworth,Defensive Rebound,23,29
+4:10,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,23,29
+4:10,Long Beach State,Deishuan Booker,Defensive Rebound,23,29
+4:04,Cal Poly,Donovan Fields,Foul,23,29
+4:04,Long Beach State,Deishuan Booker,Free Throw,23,30
+4:04,Long Beach State,Deishuan Booker,Free Throw,23,31
+3:48,Cal Poly,Donovan Fields,Jumper,25,31
+3:27,Long Beach State,Bryan Alberts,Jumper,25,33
+3:16,Long Beach State,Drew Cobb,Foul,25,33
+3:16,Long Beach State,None,None,25,33
+3:16,Cal Poly,Donovan Fields,Free Throw,26,33
+3:16,Cal Poly,Donovan Fields,Free Throw,27,33
+2:59,Long Beach State,Deishuan Booker,Layup,27,35
+2:59,Cal Poly,Daxton Carr,Foul,27,35
+2:59,Long Beach State,Deishuan Booker,Free Throw,27,36
+2:52,Cal Poly,Mark Crowe,Missed Three Point Jumper,27,36
+2:52,Cal Poly,Marcellus Garrick,Offensive Rebound,27,36
+2:42,Cal Poly,Marcellus Garrick,Turnover,27,36
+2:42,Long Beach State,Jordan Roberts,Steal,27,36
+2:26,Long Beach State,Bryan Alberts,Jumper,27,38
+2:04,Long Beach State,Deishuan Booker,Foul,27,38
+2:04,Cal Poly,Marcellus Garrick,Free Throw,28,38
+2:04,Cal Poly,Marcellus Garrick,Free Throw,29,38
+1:45,Long Beach State,Temidayo Yussuf,Jumper,29,40
+1:21,Cal Poly,Mark Crowe,Jumper,31,40
+1:12,Long Beach State,Deishuan Booker,Turnover,31,40
+1:01,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,31,40
+1:01,Cal Poly,Donovan Fields,Offensive Rebound,31,40
+0:55,Cal Poly,Donovan Fields,Missed Jumper,31,40
+0:55,Long Beach State,Mason Riggins,Defensive Rebound,31,40
+0:31,Long Beach State,Bryan Alberts,Missed Jumper,31,40
+0:31,Cal Poly,Mark Crowe,Defensive Rebound,31,40
+0:04,Cal Poly,Karlis Garoza,Missed Jumper,31,40
+0:04,Long Beach State,Mason Riggins,Block,31,40
+0:02,Cal Poly,Karlis Garoza,Offensive Rebound,31,40
+0:02,Cal Poly,Donovan Fields,Turnover,31,40
+0:01,Long Beach State,Edon Maxhuni,Turnover,31,40
+0:01,Cal Poly,Marcellus Garrick,Steal,31,40
+0:00,Long Beach State,None,None,31,40
+19:48,Cal Poly,Mark Crowe,Missed Three Point Jumper,31,40
+19:48,Cal Poly,Karlis Garoza,Offensive Rebound,31,40
+19:41,Cal Poly,Karlis Garoza,Turnover,31,40
+19:41,Long Beach State,Deishuan Booker,Steal,31,40
+19:33,Long Beach State,Mason Riggins,Missed Jumper,31,40
+19:33,Cal Poly,Karlis Garoza,Defensive Rebound,31,40
+19:26,Cal Poly,Mark Crowe,Missed Three Point Jumper,31,40
+19:26,Cal Poly,Karlis Garoza,Offensive Rebound,31,40
+19:24,Long Beach State,Mason Riggins,Foul,31,40
+19:15,Cal Poly,Donovan Fields,Missed Three Point Jumper,31,40
+19:15,Long Beach State,Drew Cobb,Defensive Rebound,31,40
+18:59,Long Beach State,Deishuan Booker,Jumper,31,42
+18:39,Long Beach State,Mason Riggins,Foul,31,42
+18:33,Cal Poly,Marcellus Garrick,Missed Jumper,31,42
+18:28,Long Beach State,Drew Cobb,Foul,31,42
+18:27,Long Beach State,Jordan Roberts,Block,31,42
+18:26,Cal Poly,Donovan Fields,Offensive Rebound,31,42
+18:20,Cal Poly,Mark Crowe,Missed Layup,31,42
+18:20,Long Beach State,Drew Cobb,Defensive Rebound,31,42
+18:15,Long Beach State,Bryan Alberts,Missed Three Point Jumper,31,42
+18:15,Long Beach State,Mason Riggins,Offensive Rebound,31,42
+18:13,Cal Poly,Mark Crowe,Missed Three Point Jumper,31,42
+18:13,Cal Poly,Cal Poly,Offensive Rebound,31,42
+18:04,Long Beach State,Deishuan Booker,Layup,31,44
+17:55,Cal Poly,Donovan Fields,Jumper,33,44
+17:42,Long Beach State,Deishuan Booker,Jumper,33,46
+17:30,Cal Poly,Marcellus Garrick,Missed Layup,33,46
+17:30,Cal Poly,Karlis Garoza,Offensive Rebound,33,46
+17:28,Cal Poly,Karlis Garoza,Layup,35,46
+17:28,Cal Poly,None,None,35,46
+17:04,Cal Poly,Donovan Fields,Foul,35,46
+16:53,Long Beach State,Jordan Roberts,Missed Jumper,35,46
+16:53,Cal Poly,Karlis Garoza,Defensive Rebound,35,46
+16:43,Cal Poly,Donovan Fields,Jumper,37,46
+16:21,Cal Poly,Mark Crowe,Foul,37,46
+16:13,Long Beach State,Deishuan Booker,Turnover,37,46
+16:11,Cal Poly,Mark Crowe,Steal,37,46
+16:04,Cal Poly,Donovan Fields,Layup,39,46
+15:37,Long Beach State,Deishuan Booker,Missed Three Point Jumper,39,46
+15:37,Cal Poly,Mark Crowe,Defensive Rebound,39,46
+15:24,Long Beach State,None,None,39,46
+15:16,Long Beach State,Drew Cobb,Foul,39,46
+15:16,Cal Poly,Marcellus Garrick,Free Throw,40,46
+15:16,Cal Poly,Marcellus Garrick,Free Throw,41,46
+14:55,Long Beach State,Edon Maxhuni,Three Point Jumper,41,49
+14:43,Cal Poly,Mark Crowe,Three Point Jumper,44,49
+14:27,Cal Poly,Marcellus Garrick,Foul,44,49
+14:27,Long Beach State,Edon Maxhuni,Free Throw,44,50
+14:27,Long Beach State,Edon Maxhuni,Free Throw,44,51
+14:05,Cal Poly,Daxton Carr,Missed Three Point Jumper,44,51
+14:05,Long Beach State,Temidayo Yussuf,Defensive Rebound,44,51
+13:52,Cal Poly,Daxton Carr,Foul,44,51
+13:49,Cal Poly,Donovan Fields,Foul,44,51
+13:43,Long Beach State,Deishuan Booker,Jumper,44,53
+13:16,Cal Poly,Job Alexander,Layup,46,53
+13:00,Long Beach State,Edon Maxhuni,Missed Three Point Jumper,46,53
+13:00,Cal Poly,Tuukka Jaakkola,Defensive Rebound,46,53
+12:40,Long Beach State,Temidayo Yussuf,Foul,46,53
+12:39,Cal Poly,Mark Crowe,Missed Three Point Jumper,46,53
+12:39,Long Beach State,Jordan Roberts,Defensive Rebound,46,53
+12:22,Cal Poly,Tuukka Jaakkola,Foul,46,53
+12:22,Long Beach State,Temidayo Yussuf,Free Throw,46,54
+12:22,Long Beach State,Temidayo Yussuf,Free Throw,46,55
+12:11,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,46,55
+12:11,Long Beach State,Deishuan Booker,Defensive Rebound,46,55
+11:58,Long Beach State,Edon Maxhuni,Missed Three Point Jumper,46,55
+11:58,Cal Poly,Marcellus Garrick,Defensive Rebound,46,55
+11:48,Cal Poly,Marcellus Garrick,Turnover,46,55
+11:48,Long Beach State,Jordan Roberts,Steal,46,55
+11:48,Long Beach State,None,None,46,55
+11:18,Long Beach State,Temidayo Yussuf,Jumper,46,57
+11:14,Cal Poly,Karlis Garoza,Turnover,46,57
+11:12,Long Beach State,Bryan Alberts,Steal,46,57
+11:11,Long Beach State,Bryan Alberts,Missed Jumper,46,57
+11:11,Cal Poly,Karlis Garoza,Defensive Rebound,46,57
+11:05,Cal Poly,Mark Crowe,Missed Three Point Jumper,46,57
+11:05,Long Beach State,Deishuan Booker,Defensive Rebound,46,57
+10:54,Long Beach State,Deishuan Booker,Missed Layup,46,57
+10:54,Cal Poly,Daxton Carr,Defensive Rebound,46,57
+10:50,Cal Poly,Daxton Carr,Turnover,46,57
+10:50,Long Beach State,Temidayo Yussuf,Steal,46,57
+10:50,Long Beach State,Temidayo Yussuf,Layup,46,59
+10:50,Cal Poly,Daxton Carr,Foul,46,59
+10:50,Long Beach State,Temidayo Yussuf,Missed Free Throw,46,59
+10:50,Cal Poly,Mark Crowe,Defensive Rebound,46,59
+10:32,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,46,59
+10:32,Cal Poly,Cal Poly,Offensive Rebound,46,59
+10:29,Long Beach State,Demetrius Mims,Foul,46,59
+10:06,Cal Poly,Mark Crowe,Dunk,48,59
+9:52,Long Beach State,Deishuan Booker,Jumper,48,61
+9:48,Cal Poly,Marcellus Garrick,Turnover,48,61
+9:45,Long Beach State,Bryan Alberts,Steal,48,61
+9:43,Long Beach State,Bryan Alberts,Layup,48,63
+9:28,Long Beach State,Edon Maxhuni,Foul,48,63
+9:28,Cal Poly,None,None,48,63
+9:28,Cal Poly,Marcellus Garrick,Free Throw,49,63
+9:28,Cal Poly,Marcellus Garrick,Free Throw,50,63
+9:08,Long Beach State,Deishuan Booker,Missed Jumper,50,63
+9:08,Long Beach State,Demetrius Mims,Offensive Rebound,50,63
+9:06,Cal Poly,Hank Hollingsworth,Foul,50,63
+9:06,Long Beach State,Demetrius Mims,Missed Free Throw,50,63
+9:06,Cal Poly,Mark Crowe,Defensive Rebound,50,63
+8:55,Cal Poly,Donovan Fields,Missed Jumper,50,63
+8:55,Long Beach State,Deishuan Booker,Defensive Rebound,50,63
+8:47,Long Beach State,Demetrius Mims,Layup,50,65
+8:47,Cal Poly,Mark Crowe,Foul,50,65
+8:47,Long Beach State,Demetrius Mims,Free Throw,50,66
+8:36,Cal Poly,Donovan Fields,Missed Jumper,50,66
+8:36,Long Beach State,Deishuan Booker,Defensive Rebound,50,66
+8:32,Long Beach State,Mason Riggins,Dunk,50,68
+8:14,Cal Poly,Marcellus Garrick,Three Point Jumper,53,68
+7:57,Cal Poly,Hank Hollingsworth,Foul,53,68
+7:57,Long Beach State,None,None,53,68
+7:57,Long Beach State,Mason Riggins,Free Throw,53,69
+7:57,Long Beach State,Mason Riggins,Free Throw,53,70
+7:42,Cal Poly,Donovan Fields,Jumper,55,70
+7:30,Cal Poly,Jared Rice,Foul,55,70
+7:30,Long Beach State,Deishuan Booker,Free Throw,55,71
+7:30,Long Beach State,Deishuan Booker,Free Throw,55,72
+7:13,Cal Poly,Donovan Fields,Layup,57,72
+7:01,Long Beach State,Edon Maxhuni,Jumper,57,74
+6:41,Cal Poly,Donovan Fields,Missed Layup,57,74
+6:41,Cal Poly,Donovan Fields,Offensive Rebound,57,74
+6:35,Cal Poly,Donovan Fields,Jumper,59,74
+6:35,Cal Poly,None,None,59,74
+6:23,Cal Poly,Jared Rice,Foul,59,74
+6:23,Long Beach State,Deishuan Booker,Free Throw,59,75
+6:23,Long Beach State,Deishuan Booker,Free Throw,59,76
+6:05,Cal Poly,Mark Crowe,Turnover,59,76
+6:04,Long Beach State,Temidayo Yussuf,Steal,59,76
+5:58,Long Beach State,Temidayo Yussuf,Missed Jumper,59,76
+5:58,Cal Poly,Marcellus Garrick,Defensive Rebound,59,76
+5:52,Cal Poly,Marcellus Garrick,Foul,59,76
+5:52,Cal Poly,Marcellus Garrick,Turnover,59,76
+5:36,Cal Poly,Job Alexander,Foul,59,76
+5:36,Long Beach State,Deishuan Booker,Free Throw,59,77
+5:36,Long Beach State,Deishuan Booker,Free Throw,59,78
+5:26,Long Beach State,Jordan Roberts,Foul,59,78
+5:26,Cal Poly,Marcellus Garrick,Free Throw,60,78
+5:26,Cal Poly,Marcellus Garrick,Free Throw,61,78
+5:15,Long Beach State,Bryan Alberts,Turnover,61,78
+5:14,Cal Poly,Donovan Fields,Steal,61,78
+5:09,Cal Poly,Donovan Fields,Turnover,61,78
+4:54,Long Beach State,Temidayo Yussuf,Missed Jumper,61,78
+4:54,Cal Poly,Cal Poly,Defensive Rebound,61,78
+4:42,Cal Poly,Tuukka Jaakkola,Dunk,63,78
+4:09,Long Beach State,Jordan Roberts,Layup,63,80
+3:57,Long Beach State,Temidayo Yussuf,Foul,63,80
+3:57,Long Beach State,None,None,63,80
+3:57,Cal Poly,Donovan Fields,Free Throw,64,80
+3:57,Cal Poly,Donovan Fields,Free Throw,65,80
+3:46,Long Beach State,Jordan Roberts,Missed Jumper,65,80
+3:46,Cal Poly,Tuukka Jaakkola,Defensive Rebound,65,80
+3:41,Cal Poly,Donovan Fields,Three Point Jumper,68,80
+3:34,Long Beach State,Deishuan Booker,Missed Jumper,68,80
+3:34,Long Beach State,Deishuan Booker,Offensive Rebound,68,80
+3:33,Long Beach State,Deishuan Booker,Missed Jumper,68,80
+3:33,Cal Poly,Tuukka Jaakkola,Defensive Rebound,68,80
+3:33,Long Beach State,Jordan Roberts,Foul,68,80
+3:02,Cal Poly,Tuukka Jaakkola,Missed Free Throw,68,80
+3:02,Cal Poly,None,Team Rebound,68,80
+3:02,Cal Poly,Tuukka Jaakkola,Free Throw,69,80
+2:57,Cal Poly,Marcellus Garrick,Foul,69,80
+2:57,Long Beach State,Deishuan Booker,Free Throw,69,81
+2:57,Long Beach State,Deishuan Booker,Free Throw,69,82
+2:48,Cal Poly,Donovan Fields,Turnover,69,82
+2:43,Long Beach State,Bryan Alberts,Turnover,69,82
+2:38,Cal Poly,Donovan Fields,Steal,69,82
+2:36,Cal Poly,Marcellus Garrick,Layup,71,82
+2:29,Long Beach State,Bryan Alberts,Missed Three Point Jumper,71,82
+2:29,Cal Poly,Marcellus Garrick,Defensive Rebound,71,82
+2:15,Cal Poly,Marcellus Garrick,Jumper,73,82
+2:01,Long Beach State,None,None,73,82
+1:58,Cal Poly,Daxton Carr,Foul,73,82
+1:58,Long Beach State,Jordan Roberts,Missed Free Throw,73,82
+1:58,Long Beach State,None,Team Rebound,73,82
+1:58,Long Beach State,Jordan Roberts,Free Throw,73,83
+1:54,Long Beach State,Jordan Roberts,Foul,73,83
+1:54,Cal Poly,Job Alexander,Missed Free Throw,73,83
+1:54,Cal Poly,None,Team Rebound,73,83
+1:54,Cal Poly,Job Alexander,Missed Free Throw,73,83
+1:54,Long Beach State,Jordan Roberts,Defensive Rebound,73,83
+1:39,Long Beach State,Mason Riggins,Layup,73,85
+1:30,Cal Poly,Marcellus Garrick,Layup,75,85
+1:23,Cal Poly,Job Alexander,Foul,75,85
+1:23,Long Beach State,Drew Cobb,Free Throw,75,86
+1:23,Long Beach State,Drew Cobb,Free Throw,75,87
+1:12,Cal Poly,Marcellus Garrick,Three Point Jumper,78,87
+1:05,Cal Poly,Job Alexander,Foul,78,87
+1:05,Long Beach State,Bryan Alberts,Free Throw,78,88
+1:05,Long Beach State,Bryan Alberts,Free Throw,78,89
+0:57,Cal Poly,Tuukka Jaakkola,Dunk,80,89
+0:56,Cal Poly,Mark Crowe,Foul,80,89
+0:56,Long Beach State,Drew Cobb,Missed Free Throw,80,89
+0:56,Long Beach State,None,Team Rebound,80,89
+0:56,Long Beach State,Drew Cobb,Free Throw,80,90
+0:56,Long Beach State,None,None,80,90
+0:48,Cal Poly,Mark Crowe,Missed Three Point Jumper,80,90
+0:48,Long Beach State,Deishuan Booker,Defensive Rebound,80,90
+0:44,Cal Poly,Job Alexander,Foul,80,90
+0:44,Long Beach State,Deishuan Booker,Free Throw,80,91
+0:44,Long Beach State,Deishuan Booker,Free Throw,80,92
+0:39,Long Beach State,Demetrius Mims,Foul,80,92
+0:39,Cal Poly,Job Alexander,Free Throw,81,92
+0:39,Cal Poly,Job Alexander,Missed Free Throw,81,92
+0:39,Cal Poly,Mark Crowe,Offensive Rebound,81,92
+0:36,Cal Poly,None,None,83,92
+0:31,Cal Poly,Mark Crowe,Foul,83,92
+0:31,Long Beach State,Bryan Alberts,Free Throw,83,93
+0:31,Long Beach State,Bryan Alberts,Free Throw,83,94
+0:22,Cal Poly,Job Alexander,Layup,85,94
+0:00,Long Beach State,None,None,85,94

@@ -1,0 +1,343 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,NC State,None,None,0,0
+19:42,NC State,Braxton Beverly,Jumper,0,2
+19:23,Auburn,Chuma Okeke,Layup,2,2
+19:03,NC State,Markell Johnson,Three Point Jumper,2,5
+18:55,Auburn,Jared Harper,Turnover,2,5
+18:27,NC State,Markell Johnson,Missed Three Point Jumper,2,5
+18:27,Auburn,Jared Harper,Defensive Rebound,2,5
+18:20,Auburn,Bryce Brown,Missed Three Point Jumper,2,5
+18:20,NC State,Torin Dorn,Defensive Rebound,2,5
+18:04,NC State,Torin Dorn,Missed Layup,2,5
+18:04,NC State,NC State,Offensive Rebound,2,5
+17:53,NC State,Markell Johnson,Jumper,2,7
+17:32,Auburn,Samir Doughty,Jumper,4,7
+17:21,NC State,Braxton Beverly,Three Point Jumper,4,10
+17:14,Auburn,Jared Harper,Missed Layup,4,10
+17:14,NC State,Wyatt Walker,Block,4,10
+17:14,NC State,Markell Johnson,Defensive Rebound,4,10
+17:03,NC State,Markell Johnson,Missed Three Point Jumper,4,10
+17:03,Auburn,Bryce Brown,Defensive Rebound,4,10
+16:35,Auburn,Samir Doughty,Missed Three Point Jumper,4,10
+16:35,NC State,Braxton Beverly,Defensive Rebound,4,10
+16:28,NC State,Braxton Beverly,Three Point Jumper,4,13
+16:07,Auburn,Chuma Okeke,Missed Three Point Jumper,4,13
+16:07,NC State,Wyatt Walker,Defensive Rebound,4,13
+15:59,NC State,Markell Johnson,Turnover,4,13
+15:59,NC State,None,None,4,13
+15:44,Auburn,Bryce Brown,Turnover,4,13
+15:16,NC State,DJ Funderburk,Missed Jumper,4,13
+15:16,NC State,NC State,Offensive Rebound,4,13
+15:14,NC State,Devon Daniels,Missed Three Point Jumper,4,13
+15:14,Auburn,Austin Wiley,Defensive Rebound,4,13
+14:59,Auburn,Jared Harper,Turnover,4,13
+14:33,NC State,Jericole Hellems,Turnover,4,13
+14:33,Auburn,J'Von McCormick,Steal,4,13
+14:22,Auburn,Danjel Purifoy,Missed Three Point Jumper,4,13
+14:22,NC State,Devon Daniels,Defensive Rebound,4,13
+14:16,NC State,Jericole Hellems,Layup,4,15
+13:59,Auburn,Austin Wiley,Dunk,6,15
+13:48,Auburn,Jared Harper,Foul,6,15
+13:41,NC State,DJ Funderburk,Missed Three Point Jumper,6,15
+13:41,Auburn,Danjel Purifoy,Defensive Rebound,6,15
+13:34,Auburn,Horace Spencer,Turnover,6,15
+13:34,NC State,Devon Daniels,Steal,6,15
+13:26,NC State,Devon Daniels,Missed Three Point Jumper,6,15
+13:26,Auburn,Malik Dunbar,Defensive Rebound,6,15
+12:56,Auburn,Malik Dunbar,Missed Three Point Jumper,6,15
+12:56,NC State,DJ Funderburk,Defensive Rebound,6,15
+12:48,Auburn,J'Von McCormick,Foul,6,15
+12:48,NC State,Markell Johnson,Missed Free Throw,6,15
+12:48,NC State,None,Team Rebound,6,15
+12:48,NC State,Markell Johnson,Missed Free Throw,6,15
+12:48,Auburn,Malik Dunbar,Defensive Rebound,6,15
+12:33,Auburn,Jared Harper,Missed Layup,6,15
+12:33,NC State,Devon Daniels,Defensive Rebound,6,15
+12:26,Auburn,Malik Dunbar,Foul,6,15
+12:26,NC State,Blake Harris,Free Throw,6,16
+12:26,NC State,Blake Harris,Missed Free Throw,6,16
+12:26,NC State,None,Team Rebound,6,16
+12:26,Auburn,Malik Dunbar,Turnover,6,16
+12:25,NC State,Blake Harris,Turnover,6,16
+12:25,Auburn,Bryce Brown,Steal,6,16
+12:08,Auburn,Chuma Okeke,Turnover,6,16
+11:47,NC State,Markell Johnson,Missed Jumper,6,16
+11:47,NC State,Devon Daniels,Offensive Rebound,6,16
+11:44,NC State,Devon Daniels,Missed Layup,6,16
+11:44,Auburn,Malik Dunbar,Defensive Rebound,6,16
+11:13,Auburn,Auburn ,Turnover,6,16
+11:13,NC State,None,None,6,16
+10:57,NC State,Jericole Hellems,Turnover,6,16
+10:57,Auburn,Samir Doughty,Steal,6,16
+10:51,Auburn,Austin Wiley,Turnover,6,16
+10:29,NC State,Wyatt Walker,Layup,6,18
+10:10,Auburn,Jared Harper,Turnover,6,18
+9:53,NC State,Torin Dorn,Turnover,6,18
+9:45,Auburn,Jared Harper,Layup,8,18
+9:29,NC State,Torin Dorn,Missed Layup,8,18
+9:29,Auburn,Bryce Brown,Defensive Rebound,8,18
+9:23,Auburn,Bryce Brown,Turnover,8,18
+9:23,NC State,C.J. Bryce,Steal,8,18
+9:14,NC State,Torin Dorn,Turnover,8,18
+9:09,Auburn,Bryce Brown,Turnover,8,18
+9:09,NC State,Markell Johnson,Steal,8,18
+9:01,NC State,Braxton Beverly,Missed Three Point Jumper,8,18
+9:01,Auburn,Jared Harper,Defensive Rebound,8,18
+8:59,Auburn,Bryce Brown,Foul,8,18
+8:59,Auburn,Bryce Brown,Turnover,8,18
+8:41,Auburn,Samir Doughty,Foul,8,18
+8:41,NC State,C.J. Bryce,Missed Free Throw,8,18
+8:41,NC State,None,Team Rebound,8,18
+8:41,NC State,C.J. Bryce,Free Throw,8,19
+8:31,Auburn,Chuma Okeke,Layup,10,19
+8:16,NC State,Wyatt Walker,Turnover,10,19
+8:16,Auburn,Chuma Okeke,Steal,10,19
+8:04,Auburn,Samir Doughty,Turnover,10,19
+8:04,NC State,C.J. Bryce,Steal,10,19
+7:54,NC State,C.J. Bryce,Foul,10,19
+7:54,NC State,C.J. Bryce,Turnover,10,19
+7:39,NC State,C.J. Bryce,Foul,10,19
+7:37,Auburn,Anfernee McLemore,Turnover,10,19
+7:20,NC State,Braxton Beverly,Three Point Jumper,10,22
+6:55,Auburn,Malik Dunbar,Layup,12,22
+6:55,NC State,DJ Funderburk,Foul,12,22
+6:55,Auburn,Malik Dunbar,Missed Free Throw,12,22
+6:55,NC State,Devon Daniels,Defensive Rebound,12,22
+6:45,NC State,Markell Johnson,Missed Three Point Jumper,12,22
+6:45,Auburn,Auburn,Defensive Rebound,12,22
+6:30,Auburn,Malik Dunbar,Layup,14,22
+6:11,NC State,DJ Funderburk,Missed Layup,14,22
+6:11,Auburn,Chuma Okeke,Block,14,22
+6:11,NC State,Jericole Hellems,Offensive Rebound,14,22
+6:05,Auburn,Anfernee McLemore,Foul,14,22
+6:05,NC State,Jericole Hellems,Free Throw,14,23
+6:05,NC State,Jericole Hellems,Missed Free Throw,14,23
+6:05,Auburn,Austin Wiley,Defensive Rebound,14,23
+5:54,Auburn,Bryce Brown,Turnover,14,23
+5:45,NC State,Braxton Beverly,Turnover,14,23
+5:40,Auburn,Jared Harper,Missed Layup,14,23
+5:40,Auburn,Jared Harper,Offensive Rebound,14,23
+5:26,Auburn,Bryce Brown,Layup,16,23
+5:26,NC State,Wyatt Walker,Foul,16,23
+5:26,Auburn,Bryce Brown,Free Throw,17,23
+5:10,NC State,Wyatt Walker,Turnover,17,23
+5:10,Auburn,Chuma Okeke,Steal,17,23
+5:04,Auburn,Malik Dunbar,Layup,19,23
+4:45,Auburn,Malik Dunbar,Foul,19,23
+4:45,NC State,Devon Daniels,Missed Free Throw,19,23
+4:45,Auburn,Austin Wiley,Defensive Rebound,19,23
+4:31,Auburn,Jared Harper,Missed Layup,19,23
+4:31,NC State,NC State,Defensive Rebound,19,23
+4:08,NC State,DJ Funderburk,Layup,19,25
+4:01,NC State,Blake Harris,Foul,19,25
+3:52,Auburn,Jared Harper,Layup,21,25
+3:40,NC State,Devon Daniels,Turnover,21,25
+3:40,Auburn,Bryce Brown,Steal,21,25
+3:29,Auburn,Austin Wiley,Layup,23,25
+3:29,NC State,Jericole Hellems,Foul,23,25
+3:29,NC State,None,None,23,25
+3:29,Auburn,Austin Wiley,Free Throw,24,25
+3:09,NC State,Torin Dorn,Missed Jumper,24,25
+3:09,Auburn,Auburn,Defensive Rebound,24,25
+2:52,Auburn,Austin Wiley,Layup,26,25
+2:38,NC State,DJ Funderburk,Turnover,26,25
+2:38,Auburn,Austin Wiley,Steal,26,25
+2:30,Auburn,Danjel Purifoy,Foul,26,25
+2:30,Auburn,Danjel Purifoy,Turnover,26,25
+2:07,NC State,Braxton Beverly,Three Point Jumper,26,28
+1:58,NC State,Braxton Beverly,Foul,26,28
+1:58,Auburn,J'Von McCormick,Free Throw,27,28
+1:58,Auburn,J'Von McCormick,Missed Free Throw,27,28
+1:58,NC State,DJ Funderburk,Defensive Rebound,27,28
+1:44,Auburn,Chuma Okeke,Foul,27,28
+1:44,NC State,Markell Johnson,Missed Free Throw,27,28
+1:44,NC State,None,Team Rebound,27,28
+1:44,NC State,Markell Johnson,Free Throw,27,29
+1:38,NC State,DJ Funderburk,Foul,27,29
+1:38,Auburn,Anfernee McLemore,Missed Free Throw,27,29
+1:38,NC State,Wyatt Walker,Defensive Rebound,27,29
+1:25,NC State,Torin Dorn,Jumper,27,31
+1:05,Auburn,Anfernee McLemore,Missed Three Point Jumper,27,31
+1:05,Auburn,Bryce Brown,Offensive Rebound,27,31
+0:59,Auburn,Bryce Brown,Missed Three Point Jumper,27,31
+0:59,NC State,Jericole Hellems,Defensive Rebound,27,31
+0:48,NC State,Markell Johnson,Layup,27,33
+0:32,Auburn,Jared Harper,Missed Three Point Jumper,27,33
+0:32,NC State,Markell Johnson,Defensive Rebound,27,33
+0:18,NC State,None,None,27,33
+0:05,NC State,Jericole Hellems,Layup,27,35
+0:00,NC State,None,None,27,35
+20:00,Auburn,None,None,27,35
+19:46,Auburn,Jared Harper,Missed Jumper,27,35
+19:46,NC State,Torin Dorn,Defensive Rebound,27,35
+19:30,NC State,C.J. Bryce,Missed Three Point Jumper,27,35
+19:30,NC State,Markell Johnson,Offensive Rebound,27,35
+19:11,NC State,Torin Dorn,Turnover,27,35
+18:59,Auburn,Austin Wiley,Layup,29,35
+18:32,NC State,C.J. Bryce,Missed Three Point Jumper,29,35
+18:32,Auburn,Chuma Okeke,Defensive Rebound,29,35
+18:06,Auburn,Austin Wiley,Layup,31,35
+18:06,NC State,Markell Johnson,Foul,31,35
+18:06,Auburn,Austin Wiley,Free Throw,32,35
+18:04,Auburn,Chuma Okeke,Foul,32,35
+17:53,NC State,Wyatt Walker,Dunk,32,37
+17:33,Auburn,Samir Doughty,Jumper,34,37
+17:08,NC State,Markell Johnson,Missed Jumper,34,37
+17:08,NC State,Torin Dorn,Offensive Rebound,34,37
+17:03,NC State,Torin Dorn,Missed Layup,34,37
+17:03,Auburn,Chuma Okeke,Defensive Rebound,34,37
+16:57,Auburn,Bryce Brown,Missed Three Point Jumper,34,37
+16:57,Auburn,Auburn,Offensive Rebound,34,37
+16:44,Auburn,Bryce Brown,Missed Jumper,34,37
+16:44,NC State,Devon Daniels,Defensive Rebound,34,37
+16:25,NC State,Wyatt Walker,Foul,34,37
+16:25,NC State,Wyatt Walker,Turnover,34,37
+16:04,NC State,Wyatt Walker,Foul,34,37
+16:04,Auburn,Austin Wiley,Missed Free Throw,34,37
+16:04,Auburn,None,Team Rebound,34,37
+16:04,Auburn,Austin Wiley,Free Throw,35,37
+15:51,NC State,Braxton Beverly,Turnover,35,37
+15:51,NC State,None,None,35,37
+15:41,Auburn,Austin Wiley,Turnover,35,37
+15:41,Auburn,Austin Wiley,Foul,35,37
+15:27,NC State,Markell Johnson,Three Point Jumper,35,40
+15:19,Auburn,Bryce Brown,Missed Three Point Jumper,35,40
+15:19,NC State,Devon Daniels,Defensive Rebound,35,40
+15:09,NC State,Devon Daniels,Layup,35,42
+14:34,Auburn,Austin Wiley,Foul,35,42
+14:34,Auburn,Austin Wiley,Turnover,35,42
+14:22,NC State,Jericole Hellems,Missed Three Point Jumper,35,42
+14:22,Auburn,Jared Harper,Defensive Rebound,35,42
+14:13,Auburn,Malik Dunbar,Three Point Jumper,38,42
+13:48,NC State,Devon Daniels,Three Point Jumper,38,45
+13:29,Auburn,Jared Harper,Foul,38,45
+13:29,Auburn,Jared Harper,Turnover,38,45
+13:19,NC State,Blake Harris,Turnover,38,45
+13:06,Auburn,Chuma Okeke,Three Point Jumper,41,45
+12:31,NC State,DJ Funderburk,Missed Layup,41,45
+12:31,Auburn,Austin Wiley,Block,41,45
+12:31,NC State,DJ Funderburk,Offensive Rebound,41,45
+12:29,NC State,DJ Funderburk,Missed Layup,41,45
+12:29,Auburn,Austin Wiley,Block,41,45
+12:29,NC State,NC State,Offensive Rebound,41,45
+12:26,NC State,Devon Daniels,Turnover,41,45
+12:26,NC State,Devon Daniels,Foul,41,45
+12:12,Auburn,Chuma Okeke,Missed Three Point Jumper,41,45
+12:12,Auburn,Austin Wiley,Offensive Rebound,41,45
+12:09,Auburn,Austin Wiley,Missed Layup,41,45
+12:09,Auburn,Malik Dunbar,Offensive Rebound,41,45
+12:04,Auburn,Jared Harper,Missed Layup,41,45
+12:04,Auburn,Chuma Okeke,Offensive Rebound,41,45
+11:59,Auburn,J'Von McCormick,Layup,43,45
+11:32,NC State,Markell Johnson,Missed Layup,43,45
+11:32,Auburn,Austin Wiley,Defensive Rebound,43,45
+11:23,Auburn,J'Von McCormick,Turnover,43,45
+11:23,NC State,None,None,43,45
+11:16,NC State,Blake Harris,Turnover,43,45
+11:16,Auburn,Malik Dunbar,Steal,43,45
+11:01,Auburn,Malik Dunbar,Missed Three Point Jumper,43,45
+11:01,Auburn,Horace Spencer,Offensive Rebound,43,45
+10:56,Auburn,Horace Spencer,Missed Layup,43,45
+10:56,Auburn,J'Von McCormick,Offensive Rebound,43,45
+10:52,Auburn,J'Von McCormick,Dunk,45,45
+10:37,NC State,Devon Daniels,Jumper,45,47
+10:22,Auburn,J'Von McCormick,Layup,47,47
+9:52,NC State,Markell Johnson,Three Point Jumper,47,50
+9:34,Auburn,Malik Dunbar,Missed Three Point Jumper,47,50
+9:34,Auburn,Horace Spencer,Offensive Rebound,47,50
+9:30,Auburn,Horace Spencer,Layup,49,50
+9:12,NC State,Markell Johnson,Three Point Jumper,49,53
+9:12,Auburn,J'Von McCormick,Foul,49,53
+9:12,NC State,Markell Johnson,Free Throw,49,54
+8:41,Auburn,Samir Doughty,Missed Three Point Jumper,49,54
+8:41,Auburn,Danjel Purifoy,Offensive Rebound,49,54
+8:35,Auburn,Danjel Purifoy,Turnover,49,54
+8:35,NC State,Braxton Beverly,Steal,49,54
+8:31,NC State,Markell Johnson,Three Point Jumper,49,57
+8:10,Auburn,Bryce Brown,Turnover,49,57
+8:10,NC State,Markell Johnson,Steal,49,57
+8:05,NC State,Devon Daniels,Missed Three Point Jumper,49,57
+8:05,Auburn,Horace Spencer,Defensive Rebound,49,57
+7:56,NC State,Braxton Beverly,Foul,49,57
+7:56,NC State,None,None,49,57
+7:56,Auburn,J'Von McCormick,Free Throw,50,57
+7:56,Auburn,J'Von McCormick,Missed Free Throw,50,57
+7:56,Auburn,Chuma Okeke,Offensive Rebound,50,57
+7:40,Auburn,Jared Harper,Missed Three Point Jumper,50,57
+7:40,Auburn,J'Von McCormick,Offensive Rebound,50,57
+7:37,Auburn,J'Von McCormick,Layup,52,57
+7:18,NC State,Devon Daniels,Layup,52,59
+6:54,Auburn,Jared Harper,Layup,54,59
+6:36,NC State,Markell Johnson,Jumper,54,61
+6:15,Auburn,Samir Doughty,Turnover,54,61
+6:03,NC State,Devon Daniels,Missed Three Point Jumper,54,61
+6:03,Auburn,Chuma Okeke,Defensive Rebound,54,61
+5:50,Auburn,Samir Doughty,Missed Layup,54,61
+5:50,NC State,Torin Dorn,Defensive Rebound,54,61
+5:42,NC State,Devon Daniels,Layup,54,63
+5:42,Auburn,Chuma Okeke,Foul,54,63
+5:42,NC State,Devon Daniels,Missed Free Throw,54,63
+5:42,Auburn,Austin Wiley,Defensive Rebound,54,63
+5:15,Auburn,Samir Doughty,Three Point Jumper,57,63
+5:00,NC State,Devon Daniels,Jumper,57,65
+4:35,Auburn,Jared Harper,Missed Jumper,57,65
+4:35,NC State,Devon Daniels,Defensive Rebound,57,65
+4:28,NC State,Devon Daniels,Layup,57,67
+4:11,NC State,Wyatt Walker,Foul,57,67
+4:08,Auburn,Austin Wiley,Turnover,57,67
+4:08,NC State,Markell Johnson,Steal,57,67
+4:04,NC State,Markell Johnson,Layup,57,69
+3:52,Auburn,None,None,57,69
+3:50,Auburn,Samir Doughty,Turnover,57,69
+3:50,NC State,None,None,57,69
+3:45,NC State,Braxton Beverly,Turnover,57,69
+3:45,Auburn,J'Von McCormick,Steal,57,69
+3:41,Auburn,Jared Harper,Three Point Jumper,60,69
+3:29,NC State,NC State ,Turnover,60,69
+3:23,Auburn,Chuma Okeke,Missed Three Point Jumper,60,69
+3:23,NC State,Markell Johnson,Defensive Rebound,60,69
+2:55,NC State,Devon Daniels,Missed Layup,60,69
+2:55,Auburn,Chuma Okeke,Defensive Rebound,60,69
+2:48,Auburn,Jared Harper,Missed Three Point Jumper,60,69
+2:48,NC State,Devon Daniels,Defensive Rebound,60,69
+2:36,NC State,Devon Daniels,Turnover,60,69
+2:36,Auburn,J'Von McCormick,Steal,60,69
+2:33,Auburn,J'Von McCormick,Layup,62,69
+2:28,Auburn,None,None,62,69
+2:02,NC State,Torin Dorn,Layup,62,71
+1:45,Auburn,Chuma Okeke,Missed Three Point Jumper,62,71
+1:45,NC State,Wyatt Walker,Defensive Rebound,62,71
+1:33,Auburn,Malik Dunbar,Foul,62,71
+1:33,NC State,Markell Johnson,Free Throw,62,72
+1:33,NC State,Markell Johnson,Free Throw,62,73
+1:33,NC State,None,None,62,73
+1:14,Auburn,J'Von McCormick,Layup,64,73
+1:11,Auburn,None,None,64,73
+1:11,NC State,Devon Daniels,Turnover,64,73
+1:11,Auburn,Chuma Okeke,Steal,64,73
+1:08,Auburn,Horace Spencer,Layup,66,73
+1:00,Auburn,Jared Harper,Foul,66,73
+1:00,NC State,Torin Dorn,Free Throw,66,74
+1:00,NC State,Torin Dorn,Free Throw,66,75
+0:46,Auburn,Chuma Okeke,Missed Three Point Jumper,66,75
+0:46,Auburn,Auburn,Offensive Rebound,66,75
+0:46,NC State,Devon Daniels,Foul,66,75
+0:46,Auburn,Horace Spencer,Missed Free Throw,66,75
+0:46,NC State,Torin Dorn,Defensive Rebound,66,75
+0:40,Auburn,Chuma Okeke,Foul,66,75
+0:40,NC State,Markell Johnson,Missed Free Throw,66,75
+0:40,Auburn,Horace Spencer,Defensive Rebound,66,75
+0:34,Auburn,Jared Harper,Layup,68,75
+0:19,Auburn,Chuma Okeke,Foul,68,75
+0:19,NC State,Braxton Beverly,Missed Free Throw,68,75
+0:19,NC State,None,Team Rebound,68,75
+0:19,NC State,Braxton Beverly,Free Throw,68,76
+0:15,Auburn,J'Von McCormick,Missed Dunk,68,76
+0:15,Auburn,Samir Doughty,Offensive Rebound,68,76
+0:09,Auburn,Malik Dunbar,Three Point Jumper,71,76
+0:05,Auburn,Malik Dunbar,Foul,71,76
+0:05,NC State,DJ Funderburk,Free Throw,71,77
+0:05,NC State,DJ Funderburk,Free Throw,71,78
+0:01,Auburn,Jared Harper,Missed Three Point Jumper,71,78
+0:01,Auburn,Horace Spencer,Offensive Rebound,71,78
+0:00,NC State,None,None,71,78

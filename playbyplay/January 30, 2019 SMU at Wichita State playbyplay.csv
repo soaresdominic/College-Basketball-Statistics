@@ -1,0 +1,311 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,SMU,None,None,0,0
+19:41,SMU,Isiaha Mike,Turnover,0,0
+19:29,Wichita State,Erik Stevenson,Missed Three Point Jumper,0,0
+19:29,SMU,Ethan Chargois,Defensive Rebound,0,0
+19:19,SMU,Jimmy Whitt Jr.,Jumper,2,0
+19:07,Wichita State,Markis McDuffie,Three Point Jumper,2,3
+18:49,SMU,Isiaha Mike,Layup,4,3
+18:38,Wichita State,Markis McDuffie,Missed Three Point Jumper,4,3
+18:38,SMU,Isiaha Mike,Defensive Rebound,4,3
+18:23,SMU,Jimmy Whitt Jr.,Missed Jumper,4,3
+18:23,Wichita State,Jaime Echenique,Defensive Rebound,4,3
+17:54,Wichita State,Jaime Echenique,Missed Jumper,4,3
+17:54,Wichita State,Wichita State,Offensive Rebound,4,3
+17:54,SMU,Isiaha Mike,Foul,4,3
+17:44,Wichita State,Jamarius Burton,Missed Layup,4,3
+17:44,SMU,Isiaha Mike,Defensive Rebound,4,3
+17:37,SMU,Nat Dixon,Three Point Jumper,7,3
+17:15,Wichita State,Erik Stevenson,Missed Three Point Jumper,7,3
+17:15,SMU,Ethan Chargois,Defensive Rebound,7,3
+17:05,SMU,Ethan Chargois,Missed Three Point Jumper,7,3
+17:05,Wichita State,Erik Stevenson,Defensive Rebound,7,3
+16:55,Wichita State,Samajae Haynes-Jones,Layup,7,5
+16:33,SMU,Jahmal McMurray,Missed Three Point Jumper,7,5
+16:33,Wichita State,Erik Stevenson,Defensive Rebound,7,5
+16:13,Wichita State,Jaime Echenique,Missed Layup,7,5
+16:13,SMU,Isiaha Mike,Defensive Rebound,7,5
+16:04,SMU,Nat Dixon,Missed Layup,7,5
+16:04,Wichita State,Jaime Echenique,Block,7,5
+16:04,SMU,Ethan Chargois,Offensive Rebound,7,5
+15:53,SMU,Ethan Chargois,Missed Layup,7,5
+15:53,SMU,SMU,Offensive Rebound,7,5
+15:52,Wichita State,None,None,7,5
+15:50,SMU,Jahmal McMurray,Missed Jumper,7,5
+15:50,Wichita State,Asbjorn Midtgaard,Defensive Rebound,7,5
+15:42,Wichita State,Asbjorn Midtgaard,Dunk,7,7
+15:27,SMU,Isiaha Mike,Missed Three Point Jumper,7,7
+15:27,Wichita State,Ricky Torres,Defensive Rebound,7,7
+15:12,Wichita State,Markis McDuffie,Turnover,7,7
+15:12,SMU,Feron Hunt,Steal,7,7
+14:56,SMU,Isiaha Mike,Three Point Jumper,10,7
+14:22,Wichita State,Samajae Haynes-Jones,Missed Jumper,10,7
+14:22,Wichita State,Asbjorn Midtgaard,Offensive Rebound,10,7
+14:16,Wichita State,Asbjorn Midtgaard,Layup,10,9
+13:49,SMU,Jimmy Whitt Jr.,Missed Jumper,10,9
+13:49,Wichita State,Ricky Torres,Defensive Rebound,10,9
+13:47,SMU,Feron Hunt,Foul,10,9
+13:26,Wichita State,Asbjorn Midtgaard,Turnover,10,9
+13:19,Wichita State,Dexter Dennis,Foul,10,9
+13:12,SMU,Jahmal McMurray,Three Point Jumper,13,9
+12:58,Wichita State,Asbjorn Midtgaard,Dunk,13,11
+12:41,Wichita State,Markis McDuffie,Foul,13,11
+12:30,SMU,Jimmy Whitt Jr.,Jumper,15,11
+12:12,Wichita State,Markis McDuffie,Missed Jumper,15,11
+12:12,SMU,Ethan Chargois,Defensive Rebound,15,11
+12:08,SMU,Ethan Chargois,Layup,17,11
+11:53,SMU,Ethan Chargois,Foul,17,11
+11:53,Wichita State,None,None,17,11
+11:47,Wichita State,Markis McDuffie,Missed Three Point Jumper,17,11
+11:47,SMU,Ethan Chargois,Defensive Rebound,17,11
+11:37,SMU,Jahmal McMurray,Jumper,19,11
+11:28,Wichita State,Jamarius Burton,Three Point Jumper,19,14
+11:07,SMU,Ethan Chargois,Layup,21,14
+10:56,Wichita State,Dexter Dennis,Missed Three Point Jumper,21,14
+10:56,SMU,Jahmal McMurray,Defensive Rebound,21,14
+10:44,SMU,Nat Dixon,Missed Three Point Jumper,21,14
+10:44,Wichita State,Asbjorn Midtgaard,Defensive Rebound,21,14
+10:26,Wichita State,Dexter Dennis,Jumper,21,16
+10:04,SMU,Jahmal McMurray,Missed Three Point Jumper,21,16
+10:04,Wichita State,Ricky Torres,Defensive Rebound,21,16
+9:54,Wichita State,Jamarius Burton,Dunk,21,18
+9:25,SMU,Jimmy Whitt Jr.,Jumper,23,18
+9:00,Wichita State,Asbjorn Midtgaard,Dunk,23,20
+8:42,SMU,Nat Dixon,Layup,25,20
+8:23,Wichita State,Jaime Echenique,Missed Layup,25,20
+8:23,SMU,Feron Hunt,Defensive Rebound,25,20
+8:06,SMU,Isiaha Mike,Three Point Jumper,28,20
+7:55,Wichita State,Jamarius Burton,Missed Three Point Jumper,28,20
+7:55,SMU,Feron Hunt,Defensive Rebound,28,20
+7:42,SMU,Isiaha Mike,Three Point Jumper,31,20
+7:37,Wichita State,None,None,31,20
+7:25,Wichita State,Jaime Echenique,Dunk,31,22
+7:08,SMU,Isiaha Mike,Dunk,33,22
+6:52,Wichita State,Samajae Haynes-Jones,Jumper,33,24
+6:38,SMU,Ethan Chargois,Missed Three Point Jumper,33,24
+6:38,Wichita State,Jamarius Burton,Defensive Rebound,33,24
+6:16,Wichita State,Erik Stevenson,Three Point Jumper,33,27
+5:52,SMU,Isiaha Mike,Three Point Jumper,36,27
+5:27,SMU,Isiaha Mike,Foul,36,27
+5:27,Wichita State,Jaime Echenique,Missed Free Throw,36,27
+5:27,Wichita State,None,Team Rebound,36,27
+5:27,Wichita State,Jaime Echenique,Free Throw,36,28
+5:20,SMU,Jahmal McMurray,Missed Jumper,36,28
+5:20,Wichita State,Jaime Echenique,Block,36,28
+5:20,SMU,Feron Hunt,Offensive Rebound,36,28
+5:10,SMU,Feron Hunt,Missed Layup,36,28
+5:10,Wichita State,Jaime Echenique,Block,36,28
+5:10,Wichita State,Jaime Echenique,Defensive Rebound,36,28
+5:00,Wichita State,Samajae Haynes-Jones,Turnover,36,28
+4:56,Wichita State,Rod Brown,Foul,36,28
+4:56,SMU,Ethan Chargois,Missed Free Throw,36,28
+4:56,SMU,None,Team Rebound,36,28
+4:56,SMU,Ethan Chargois,Free Throw,37,28
+4:36,Wichita State,Markis McDuffie,Three Point Jumper,37,31
+4:04,SMU,Feron Hunt,Missed Jumper,37,31
+4:04,SMU,Ethan Chargois,Offensive Rebound,37,31
+4:00,SMU,Ethan Chargois,Layup,39,31
+3:53,Wichita State,Jamarius Burton,Missed Layup,39,31
+3:53,Wichita State,Wichita State,Offensive Rebound,39,31
+3:50,Wichita State,None,None,39,31
+3:46,Wichita State,Samajae Haynes-Jones,Missed Three Point Jumper,39,31
+3:46,SMU,SMU,Defensive Rebound,39,31
+3:43,Wichita State,Markis McDuffie,Foul,39,31
+3:25,SMU,Nat Dixon,Three Point Jumper,42,31
+3:00,Wichita State,Rod Brown,Missed Three Point Jumper,42,31
+3:00,SMU,Ethan Chargois,Defensive Rebound,42,31
+2:40,SMU,Ethan Chargois,Missed Three Point Jumper,42,31
+2:40,SMU,SMU,Offensive Rebound,42,31
+2:37,Wichita State,Dexter Dennis,Foul,42,31
+2:16,SMU,Ethan Chargois,Missed Three Point Jumper,42,31
+2:16,Wichita State,Jamarius Burton,Defensive Rebound,42,31
+2:02,Wichita State,Samajae Haynes-Jones,Three Point Jumper,42,34
+1:50,SMU,None,None,42,34
+1:33,SMU,Jimmy Whitt Jr.,Missed Jumper,42,34
+1:33,Wichita State,Samajae Haynes-Jones,Defensive Rebound,42,34
+1:18,Wichita State,Erik Stevenson,Jumper,42,36
+0:47,SMU,Jahmal McMurray,Three Point Jumper,45,36
+0:33,Wichita State,Rod Brown,Missed Layup,45,36
+0:33,SMU,Feron Hunt,Block,45,36
+0:33,Wichita State,Jamarius Burton,Offensive Rebound,45,36
+0:22,Wichita State,Jamarius Burton,Layup,45,38
+0:06,SMU,Feron Hunt,Missed Jumper,45,38
+0:06,Wichita State,Jamarius Burton,Defensive Rebound,45,38
+0:00,Wichita State,None,None,45,38
+20:00,Wichita State,None,None,45,38
+19:46,Wichita State,Samajae Haynes-Jones,Jumper,45,40
+19:25,SMU,Ethan Chargois,Missed Three Point Jumper,45,40
+19:25,SMU,SMU,Offensive Rebound,45,40
+19:22,Wichita State,Markis McDuffie,Foul,45,40
+19:21,SMU,Isiaha Mike,Foul,45,40
+19:21,Wichita State,Markis McDuffie,Free Throw,45,41
+19:21,Wichita State,Markis McDuffie,Missed Free Throw,45,41
+19:21,Wichita State,None,Team Rebound,45,41
+19:14,Wichita State,Jamarius Burton,Missed Jumper,45,41
+19:14,SMU,Ethan Chargois,Defensive Rebound,45,41
+18:54,Wichita State,Dexter Dennis,Foul,45,41
+18:54,SMU,Isiaha Mike,Free Throw,46,41
+18:54,SMU,Isiaha Mike,Free Throw,47,41
+18:32,Wichita State,Rod Brown,Missed Jumper,47,41
+18:32,SMU,SMU,Defensive Rebound,47,41
+18:08,SMU,Isiaha Mike,Missed Three Point Jumper,47,41
+18:08,Wichita State,Samajae Haynes-Jones,Defensive Rebound,47,41
+17:36,Wichita State,Erik Stevenson,Jumper,47,43
+17:19,SMU,Jahmal McMurray,Missed Three Point Jumper,47,43
+17:19,Wichita State,Rod Brown,Defensive Rebound,47,43
+17:07,Wichita State,Jamarius Burton,Missed Jumper,47,43
+17:07,SMU,Jimmy Whitt Jr.,Defensive Rebound,47,43
+16:58,SMU,Jahmal McMurray,Layup,49,43
+16:27,Wichita State,Rod Brown,Three Point Jumper,49,46
+16:08,SMU,Ethan Chargois,Missed Jumper,49,46
+16:08,Wichita State,Erik Stevenson,Defensive Rebound,49,46
+15:55,Wichita State,Samajae Haynes-Jones,Missed Layup,49,46
+15:55,SMU,Ethan Chargois,Block,49,46
+15:55,Wichita State,Asbjorn Midtgaard,Offensive Rebound,49,46
+15:46,Wichita State,Erik Stevenson,Three Point Jumper,49,49
+15:26,SMU,Ethan Chargois,Layup,51,49
+15:26,Wichita State,Asbjorn Midtgaard,Foul,51,49
+15:26,Wichita State,None,None,51,49
+15:26,SMU,Ethan Chargois,Free Throw,52,49
+15:09,Wichita State,Jaime Echenique,Foul,52,49
+15:09,Wichita State,Jaime Echenique,Turnover,52,49
+15:01,SMU,Ethan Chargois,Missed Dunk,52,49
+15:01,SMU,Nat Dixon,Offensive Rebound,52,49
+15:01,Wichita State,Ricky Torres,Foul,52,49
+15:01,SMU,Ethan Chargois,Missed Free Throw,52,49
+15:01,SMU,None,Team Rebound,52,49
+15:01,SMU,Ethan Chargois,Free Throw,53,49
+14:35,SMU,William Douglas,Foul,53,49
+14:23,SMU,William Douglas,Foul,53,49
+14:19,Wichita State,Markis McDuffie,Layup,53,51
+14:19,SMU,Feron Hunt,Foul,53,51
+14:19,Wichita State,Markis McDuffie,Free Throw,53,52
+14:05,SMU,Feron Hunt,Missed Layup,53,52
+14:05,Wichita State,Jaime Echenique,Block,53,52
+14:05,Wichita State,Rod Brown,Defensive Rebound,53,52
+13:46,SMU,Ethan Chargois,Foul,53,52
+13:46,Wichita State,Erik Stevenson,Free Throw,53,53
+13:46,Wichita State,Erik Stevenson,Free Throw,53,54
+13:37,SMU,Jahmal McMurray,Turnover,53,54
+13:22,Wichita State,Samajae Haynes-Jones,Missed Three Point Jumper,53,54
+13:22,Wichita State,Jaime Echenique,Offensive Rebound,53,54
+13:16,Wichita State,Jaime Echenique,Missed Layup,53,54
+13:16,SMU,Isiaha Mike,Defensive Rebound,53,54
+13:00,SMU,Feron Hunt,Missed Three Point Jumper,53,54
+13:00,SMU,Jahmal McMurray,Offensive Rebound,53,54
+12:49,SMU,Jimmy Whitt Jr.,Dunk,55,54
+12:42,Wichita State,Jamarius Burton,Missed Layup,55,54
+12:42,SMU,Isiaha Mike,Defensive Rebound,55,54
+12:31,Wichita State,Samajae Haynes-Jones,Foul,55,54
+12:24,SMU,Jimmy Whitt Jr.,Foul,55,54
+12:24,SMU,Jimmy Whitt Jr.,Turnover,55,54
+12:10,Wichita State,Jamarius Burton,Turnover,55,54
+12:10,SMU,Isiaha Mike,Steal,55,54
+12:02,SMU,Nat Dixon,Three Point Jumper,58,54
+11:51,Wichita State,Erik Stevenson,Three Point Jumper,58,57
+11:26,SMU,Jahmal McMurray,Missed Three Point Jumper,58,57
+11:26,Wichita State,Erik Stevenson,Defensive Rebound,58,57
+11:11,Wichita State,Asbjorn Midtgaard,Missed Jumper,58,57
+11:11,SMU,Feron Hunt,Block,58,57
+11:11,SMU,Isiaha Mike,Defensive Rebound,58,57
+10:48,SMU,Jahmal McMurray,Turnover,58,57
+10:48,Wichita State,None,None,58,57
+10:22,Wichita State,Markis McDuffie,Missed Jumper,58,57
+10:22,SMU,None,Team Rebound,58,57
+10:10,SMU,Feron Hunt,Turnover,58,57
+9:56,Wichita State,Rod Brown,Missed Jumper,58,57
+9:56,SMU,Feron Hunt,Block,58,57
+9:56,Wichita State,Asbjorn Midtgaard,Offensive Rebound,58,57
+9:49,Wichita State,Asbjorn Midtgaard,Layup,58,59
+9:27,Wichita State,Rod Brown,Foul,58,59
+9:27,SMU,Isiaha Mike,Free Throw,59,59
+9:27,SMU,Isiaha Mike,Free Throw,60,59
+9:06,Wichita State,Samajae Haynes-Jones,Three Point Jumper,60,62
+8:47,SMU,Isiaha Mike,Missed Layup,60,62
+8:47,Wichita State,Erik Stevenson,Defensive Rebound,60,62
+8:25,SMU,Ethan Chargois,Foul,60,62
+8:25,Wichita State,Jamarius Burton,Free Throw,60,63
+8:25,Wichita State,Jamarius Burton,Free Throw,60,64
+8:16,SMU,Nat Dixon,Missed Jumper,60,64
+8:16,Wichita State,Erik Stevenson,Defensive Rebound,60,64
+8:00,Wichita State,Samajae Haynes-Jones,Missed Jumper,60,64
+8:00,Wichita State,Dexter Dennis,Offensive Rebound,60,64
+7:45,Wichita State,Jamarius Burton,Missed Jumper,60,64
+7:45,SMU,Ethan Chargois,Defensive Rebound,60,64
+7:22,SMU,Jimmy Whitt Jr.,Jumper,62,64
+7:13,Wichita State,Erik Stevenson,Missed Three Point Jumper,62,64
+7:13,Wichita State,Jaime Echenique,Offensive Rebound,62,64
+7:06,Wichita State,Jaime Echenique,Layup,62,66
+6:47,SMU,Isiaha Mike,Jumper,64,66
+6:27,Wichita State,Dexter Dennis,Missed Layup,64,66
+6:27,SMU,Ethan Chargois,Defensive Rebound,64,66
+6:27,Wichita State,Jaime Echenique,Foul,64,66
+6:27,Wichita State,None,None,64,66
+6:27,SMU,Ethan Chargois,Free Throw,65,66
+6:27,SMU,Ethan Chargois,Missed Free Throw,65,66
+6:27,Wichita State,Jaime Echenique,Defensive Rebound,65,66
+6:12,Wichita State,Jaime Echenique,Missed Layup,65,66
+6:12,Wichita State,Wichita State,Offensive Rebound,65,66
+6:02,Wichita State,Samajae Haynes-Jones,Jumper,65,68
+5:44,SMU,Ethan Chargois,Turnover,65,68
+5:44,Wichita State,Samajae Haynes-Jones,Steal,65,68
+5:36,Wichita State,Erik Stevenson,Missed Jumper,65,68
+5:36,SMU,Ethan Chargois,Defensive Rebound,65,68
+5:34,Wichita State,Jaime Echenique,Foul,65,68
+5:34,SMU,Ethan Chargois,Free Throw,66,68
+5:34,SMU,Ethan Chargois,Free Throw,67,68
+5:22,Wichita State,Markis McDuffie,Missed Three Point Jumper,67,68
+5:22,SMU,Ethan Chargois,Defensive Rebound,67,68
+5:07,SMU,Ethan Chargois,Missed Three Point Jumper,67,68
+5:07,Wichita State,Wichita State,Defensive Rebound,67,68
+4:52,SMU,Jahmal McMurray,Foul,67,68
+4:52,Wichita State,Samajae Haynes-Jones,Free Throw,67,69
+4:52,Wichita State,Samajae Haynes-Jones,Missed Free Throw,67,69
+4:52,SMU,Jimmy Whitt Jr.,Defensive Rebound,67,69
+4:42,SMU,Ethan Chargois,Layup,69,69
+4:21,Wichita State,Markis McDuffie,Layup,69,71
+4:00,SMU,Ethan Chargois,Missed Jumper,69,71
+4:00,SMU,SMU,Offensive Rebound,69,71
+3:51,Wichita State,None,None,69,71
+3:48,SMU,Jahmal McMurray,Jumper,71,71
+3:35,SMU,Ethan Chargois,Foul,71,71
+3:35,Wichita State,Jaime Echenique,Missed Free Throw,71,71
+3:35,Wichita State,None,Team Rebound,71,71
+3:35,Wichita State,Jaime Echenique,Missed Free Throw,71,71
+3:35,Wichita State,Wichita State,Offensive Rebound,71,71
+3:23,Wichita State,Jaime Echenique,Layup,71,73
+3:08,SMU,Jahmal McMurray,Layup,73,73
+2:48,SMU,Ethan Chargois,Foul,73,73
+2:48,Wichita State,Erik Stevenson,Free Throw,73,74
+2:48,Wichita State,Erik Stevenson,Free Throw,73,75
+2:28,SMU,Jimmy Whitt Jr.,Missed Layup,73,75
+2:28,Wichita State,Jaime Echenique,Block,73,75
+2:28,SMU,Isiaha Mike,Offensive Rebound,73,75
+2:16,SMU,Jahmal McMurray,Three Point Jumper,76,75
+2:10,Wichita State,Markis McDuffie,Three Point Jumper,76,78
+1:59,SMU,Jahmal McMurray,Jumper,78,78
+1:42,Wichita State,Jaime Echenique,Layup,78,80
+1:22,SMU,Isiaha Mike,Three Point Jumper,81,80
+1:08,Wichita State,Markis McDuffie,Missed Jumper,81,80
+1:08,Wichita State,Wichita State,Offensive Rebound,81,80
+1:04,SMU,Jahmal McMurray,Foul,81,80
+1:04,Wichita State,None,None,81,80
+1:04,Wichita State,Jaime Echenique,Free Throw,81,81
+1:04,Wichita State,Jaime Echenique,Free Throw,81,82
+0:43,SMU,Isiaha Mike,Missed Jumper,81,82
+0:31,SMU,Jimmy Whitt Jr.,Offensive Rebound,81,82
+0:31,Wichita State,Markis McDuffie,Foul,81,82
+0:31,SMU,Feron Hunt,Missed Free Throw,81,82
+0:31,SMU,None,Team Rebound,81,82
+0:31,SMU,None,None,81,82
+0:31,SMU,Feron Hunt,Missed Free Throw,81,82
+0:31,Wichita State,Jaime Echenique,Defensive Rebound,81,82
+0:29,SMU,Isiaha Mike,Foul,81,82
+0:29,Wichita State,Jaime Echenique,Free Throw,81,83
+0:29,Wichita State,Jaime Echenique,Missed Free Throw,81,83
+0:29,SMU,None,Team Rebound,81,83
+0:18,SMU,Jimmy Whitt Jr.,Jumper,83,83
+0:13,Wichita State,None,None,83,83
+0:01,Wichita State,Samajae Haynes-Jones,Layup,83,85
+0:01,SMU,None,None,83,85
+0:00,Wichita State,None,None,83,85

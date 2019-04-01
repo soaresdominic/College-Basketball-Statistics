@@ -1,0 +1,337 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Iowa,None,None,0,0
+19:33,Iowa,Jordan Bohannon,Three Point Jumper,0,3
+19:04,Pittsburgh,Malik Ellison,Missed Layup,0,3
+19:04,Iowa,Joe Wieskamp,Defensive Rebound,0,3
+18:53,Iowa,Tyler Cook,Missed Jumper,0,3
+18:53,Pittsburgh,Kene Chukwuka,Block,0,3
+18:53,Pittsburgh,Au'Diese Toney,Defensive Rebound,0,3
+18:46,Pittsburgh,Au'Diese Toney,Turnover,0,3
+18:29,Iowa,Isaiah Moss,Missed Three Point Jumper,0,3
+18:29,Pittsburgh,Pittsburgh,Defensive Rebound,0,3
+18:14,Iowa,Luka Garza,Foul,0,3
+18:09,Pittsburgh,Au'Diese Toney,Layup,2,3
+17:56,Iowa,Isaiah Moss,Turnover,2,3
+17:41,Pittsburgh,Malik Ellison,Dunk,4,3
+17:22,Iowa,Jordan Bohannon,Three Point Jumper,4,6
+17:08,Pittsburgh,Au'Diese Toney,Missed Jumper,4,6
+17:08,Iowa,Jordan Bohannon,Defensive Rebound,4,6
+16:41,Pittsburgh,Kene Chukwuka,Foul,4,6
+16:41,Iowa,Isaiah Moss,Free Throw,4,7
+16:41,Iowa,Isaiah Moss,Free Throw,4,8
+16:25,Pittsburgh,Malik Ellison,Jumper,6,8
+16:16,Pittsburgh,Malik Ellison,Foul,6,8
+16:06,Iowa,Isaiah Moss,Missed Layup,6,8
+16:06,Iowa,Isaiah Moss,Offensive Rebound,6,8
+16:06,Pittsburgh,Malik Ellison,Foul,6,8
+16:06,Iowa,Isaiah Moss,Free Throw,6,9
+16:06,Iowa,Isaiah Moss,Free Throw,6,10
+15:59,Pittsburgh,Kene Chukwuka,Layup,8,10
+15:40,Iowa,Luka Garza,Missed Jumper,8,10
+15:40,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,8,10
+15:31,Pittsburgh,Kene Chukwuka,Layup,10,10
+15:25,Pittsburgh,Jared Wilson-Frame,Foul,10,10
+15:25,Iowa,None,None,10,10
+15:24,Iowa,Joe Wieskamp,Missed Three Point Jumper,10,10
+15:24,Pittsburgh,Trey McGowens,Defensive Rebound,10,10
+15:06,Pittsburgh,Jared Wilson-Frame,Turnover,10,10
+15:06,Iowa,Ryan Kriener,Steal,10,10
+14:39,Iowa,Jordan Bohannon,Missed Three Point Jumper,10,10
+14:39,Iowa,Joe Wieskamp,Offensive Rebound,10,10
+14:36,Iowa,Joe Wieskamp,Layup,10,12
+14:06,Pittsburgh,Sidy N'Dir,Missed Layup,10,12
+14:06,Iowa,Joe Wieskamp,Block,10,12
+14:06,Iowa,Joe Wieskamp,Defensive Rebound,10,12
+13:58,Pittsburgh,Jared Wilson-Frame,Foul,10,12
+13:58,Iowa,Tyler Cook,Free Throw,10,13
+13:58,Iowa,Tyler Cook,Missed Free Throw,10,13
+13:58,Pittsburgh,Au'Diese Toney,Defensive Rebound,10,13
+13:53,Pittsburgh,Terrell Brown,Missed Layup,10,13
+13:53,Iowa,Isaiah Moss,Block,10,13
+13:53,Iowa,Joe Wieskamp,Defensive Rebound,10,13
+13:45,Iowa,Joe Wieskamp,Missed Layup,10,13
+13:45,Pittsburgh,Terrell Brown,Block,10,13
+13:45,Iowa,Tyler Cook,Offensive Rebound,10,13
+13:38,Iowa,Tyler Cook,Missed Three Point Jumper,10,13
+13:38,Pittsburgh,Xavier Johnson,Defensive Rebound,10,13
+13:19,Pittsburgh,Xavier Johnson,Missed Three Point Jumper,10,13
+13:19,Iowa,Joe Wieskamp,Defensive Rebound,10,13
+13:06,Iowa,Isaiah Moss,Foul,10,13
+13:06,Iowa,Isaiah Moss,Turnover,10,13
+12:55,Pittsburgh,Trey McGowens,Three Point Jumper,13,13
+12:36,Pittsburgh,Au'Diese Toney,Foul,13,13
+12:36,Iowa,None,None,13,13
+12:32,Iowa,Ryan Kriener,Turnover,13,13
+12:32,Pittsburgh,Xavier Johnson,Steal,13,13
+12:32,Iowa,Connor McCaffery,Foul,13,13
+12:21,Pittsburgh,Xavier Johnson,Layup,15,13
+12:21,Iowa,Ryan Kriener,Foul,15,13
+12:21,Pittsburgh,Xavier Johnson,Free Throw,16,13
+12:01,Iowa,Maishe Dailey,Missed Jumper,16,13
+12:01,Pittsburgh,Trey McGowens,Defensive Rebound,16,13
+11:52,Pittsburgh,Xavier Johnson,Turnover,16,13
+11:52,Iowa,None,None,16,13
+11:45,Iowa,Connor McCaffery,Missed Layup,16,13
+11:45,Pittsburgh,Kene Chukwuka,Defensive Rebound,16,13
+11:32,Pittsburgh,Xavier Johnson,Missed Layup,16,13
+11:32,Iowa,Luka Garza,Defensive Rebound,16,13
+11:20,Iowa,Luka Garza,Three Point Jumper,16,16
+11:03,Pittsburgh,Kene Chukwuka,Three Point Jumper,19,16
+10:51,Iowa,Maishe Dailey,Three Point Jumper,19,19
+10:51,Pittsburgh,Au'Diese Toney,Foul,19,19
+10:51,Iowa,Maishe Dailey,Free Throw,19,20
+10:35,Pittsburgh,Trey McGowens,Missed Three Point Jumper,19,20
+10:35,Pittsburgh,Kene Chukwuka,Offensive Rebound,19,20
+10:35,Iowa,Nicholas Baer,Foul,19,20
+10:24,Pittsburgh,Au'Diese Toney,Layup,21,20
+10:03,Iowa,Nicholas Baer,Layup,21,22
+9:46,Pittsburgh,Trey McGowens,Three Point Jumper,24,22
+9:19,Iowa,Jordan Bohannon,Three Point Jumper,24,25
+8:54,Pittsburgh,Xavier Johnson,Missed Three Point Jumper,24,25
+8:54,Iowa,Nicholas Baer,Defensive Rebound,24,25
+8:46,Iowa,Nicholas Baer,Turnover,24,25
+8:46,Pittsburgh,Sidy N'Dir,Steal,24,25
+8:38,Pittsburgh,Xavier Johnson,Layup,26,25
+8:17,Iowa,Jordan Bohannon,Missed Three Point Jumper,26,25
+8:17,Pittsburgh,Au'Diese Toney,Defensive Rebound,26,25
+8:07,Pittsburgh,Xavier Johnson,Missed Three Point Jumper,26,25
+8:07,Iowa,Connor McCaffery,Defensive Rebound,26,25
+7:59,Pittsburgh,Trey McGowens,Foul,26,25
+7:59,Iowa,None,None,26,25
+7:59,Iowa,Connor McCaffery,Free Throw,26,26
+7:59,Iowa,Connor McCaffery,Missed Free Throw,26,26
+7:59,Pittsburgh,Trey McGowens,Defensive Rebound,26,26
+7:35,Pittsburgh,Xavier Johnson,Three Point Jumper,29,26
+7:00,Iowa,Joe Wieskamp,Three Point Jumper,29,29
+6:35,Pittsburgh,Sidy N'Dir,Missed Three Point Jumper,29,29
+6:35,Iowa,Joe Wieskamp,Defensive Rebound,29,29
+6:22,Iowa,Jordan Bohannon,Turnover,29,29
+6:22,Pittsburgh,Khameron Davis,Steal,29,29
+6:13,Pittsburgh,Xavier Johnson,Turnover,29,29
+6:13,Iowa,Jordan Bohannon,Steal,29,29
+6:06,Iowa,Isaiah Moss,Missed Three Point Jumper,29,29
+6:06,Pittsburgh,Sidy N'Dir,Defensive Rebound,29,29
+5:45,Pittsburgh,Xavier Johnson,Layup,31,29
+5:24,Iowa,Jordan Bohannon,Layup,31,31
+4:59,Pittsburgh,Xavier Johnson,Layup,33,31
+4:48,Iowa,Isaiah Moss,Foul,33,31
+4:48,Iowa,Isaiah Moss,Turnover,33,31
+4:33,Pittsburgh,Xavier Johnson,Turnover,33,31
+4:33,Iowa,Jordan Bohannon,Steal,33,31
+4:26,Iowa,Jordan Bohannon,Missed Jumper,33,31
+4:26,Pittsburgh,Khameron Davis,Defensive Rebound,33,31
+4:12,Pittsburgh,Trey McGowens,Layup,35,31
+3:52,Pittsburgh,Kene Chukwuka,Foul,35,31
+3:52,Iowa,None,None,35,31
+3:52,Iowa,Tyler Cook,Free Throw,35,32
+3:52,Iowa,Tyler Cook,Missed Free Throw,35,32
+3:52,Pittsburgh,Trey McGowens,Defensive Rebound,35,32
+3:35,Pittsburgh,Terrell Brown,Jumper,37,32
+3:22,Iowa,Jordan Bohannon,Missed Three Point Jumper,37,32
+3:22,Pittsburgh,Terrell Brown,Defensive Rebound,37,32
+3:12,Pittsburgh,Sidy N'Dir,Missed Layup,37,32
+3:12,Iowa,Luka Garza,Defensive Rebound,37,32
+3:02,Pittsburgh,Khameron Davis,Foul,37,32
+3:02,Iowa,Tyler Cook,Free Throw,37,33
+3:02,Iowa,Tyler Cook,Free Throw,37,34
+2:50,Pittsburgh,Khameron Davis,Missed Three Point Jumper,37,34
+2:50,Iowa,Maishe Dailey,Defensive Rebound,37,34
+2:22,Iowa,Joe Wieskamp,Three Point Jumper,37,37
+2:00,Pittsburgh,Khameron Davis,Layup,39,37
+1:41,Iowa,Maishe Dailey,Turnover,39,37
+1:41,Pittsburgh,Trey McGowens,Steal,39,37
+1:34,Iowa,Joe Wieskamp,Foul,39,37
+1:34,Pittsburgh,Trey McGowens,Free Throw,40,37
+1:34,Pittsburgh,Trey McGowens,Free Throw,41,37
+1:21,Iowa,Tyler Cook,Missed Jumper,41,37
+1:21,Pittsburgh,Xavier Johnson,Defensive Rebound,41,37
+0:58,Pittsburgh,Sidy N'Dir,Three Point Jumper,44,37
+0:29,Iowa,Joe Wieskamp,Three Point Jumper,44,40
+0:20,Pittsburgh,None,None,44,40
+0:01,Pittsburgh,Sidy N'Dir,Jumper,46,40
+0:00,Iowa,None,None,46,40
+20:00,Pittsburgh,None,None,46,40
+19:45,Pittsburgh,Trey McGowens,Turnover,46,40
+19:45,Iowa,Isaiah Moss,Steal,46,40
+19:35,Pittsburgh,Xavier Johnson,Foul,46,40
+19:19,Iowa,Luka Garza,Layup,46,42
+19:12,Pittsburgh,Malik Ellison,Turnover,46,42
+19:12,Iowa,Jordan Bohannon,Steal,46,42
+18:55,Iowa,Jordan Bohannon,Missed Three Point Jumper,46,42
+18:55,Iowa,Tyler Cook,Offensive Rebound,46,42
+18:49,Pittsburgh,Kene Chukwuka,Foul,46,42
+18:49,Iowa,Tyler Cook,Free Throw,46,43
+18:49,Iowa,Tyler Cook,Free Throw,46,44
+18:31,Pittsburgh,Xavier Johnson,Missed Jumper,46,44
+18:31,Pittsburgh,Malik Ellison,Offensive Rebound,46,44
+18:24,Pittsburgh,Kene Chukwuka,Missed Three Point Jumper,46,44
+18:24,Iowa,Iowa,Defensive Rebound,46,44
+18:24,Pittsburgh,None,None,46,44
+18:10,Iowa,Joe Wieskamp,Three Point Jumper,46,47
+17:44,Pittsburgh,Au'Diese Toney,Foul,46,47
+17:44,Pittsburgh,Au'Diese Toney,Turnover,46,47
+17:19,Iowa,Isaiah Moss,Foul,46,47
+17:19,Iowa,Isaiah Moss,Turnover,46,47
+17:04,Iowa,Jordan Bohannon,Foul,46,47
+16:59,Pittsburgh,Sidy N'Dir,Three Point Jumper,49,47
+16:46,Iowa,Luka Garza,Missed Jumper,49,47
+16:46,Pittsburgh,Malik Ellison,Defensive Rebound,49,47
+16:16,Pittsburgh,Sidy N'Dir,Missed Three Point Jumper,49,47
+16:16,Iowa,Iowa,Defensive Rebound,49,47
+16:01,Iowa,Maishe Dailey,Missed Three Point Jumper,49,47
+16:01,Pittsburgh,Xavier Johnson,Defensive Rebound,49,47
+15:53,Pittsburgh,Xavier Johnson,Missed Layup,49,47
+15:53,Iowa,Jordan Bohannon,Defensive Rebound,49,47
+15:39,Pittsburgh,Kene Chukwuka,Foul,49,47
+15:39,Iowa,None,None,49,47
+15:39,Iowa,Jordan Bohannon,Free Throw,49,48
+15:39,Iowa,Jordan Bohannon,Missed Free Throw,49,48
+15:39,Pittsburgh,Malik Ellison,Defensive Rebound,49,48
+15:25,Pittsburgh,Terrell Brown,Dunk,51,48
+15:13,Pittsburgh,Sidy N'Dir,Foul,51,48
+14:59,Iowa,Joe Wieskamp,Layup,51,50
+14:43,Pittsburgh,Xavier Johnson,Turnover,51,50
+14:43,Iowa,Jordan Bohannon,Steal,51,50
+14:26,Iowa,Joe Wieskamp,Missed Three Point Jumper,51,50
+14:26,Iowa,Joe Wieskamp,Offensive Rebound,51,50
+14:16,Iowa,Maishe Dailey,Missed Three Point Jumper,51,50
+14:16,Pittsburgh,Xavier Johnson,Defensive Rebound,51,50
+13:52,Pittsburgh,Sidy N'Dir,Missed Jumper,51,50
+13:52,Iowa,Joe Wieskamp,Defensive Rebound,51,50
+13:37,Iowa,Jordan Bohannon,Foul,51,50
+13:37,Iowa,Jordan Bohannon,Turnover,51,50
+13:22,Pittsburgh,Jared Wilson-Frame,Jumper,53,50
+13:13,Pittsburgh,Malik Ellison,Foul,53,50
+13:09,Iowa,Joe Wieskamp,Missed Jumper,53,50
+13:09,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,53,50
+13:01,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,56,50
+12:48,Iowa,Jordan Bohannon,Missed Layup,56,50
+12:48,Iowa,Tyler Cook,Offensive Rebound,56,50
+12:43,Iowa,Tyler Cook,Dunk,56,52
+12:40,Iowa,Tyler Cook,Foul,56,52
+12:40,Pittsburgh,Terrell Brown,Foul,56,52
+12:37,Pittsburgh,Jared Wilson-Frame,Turnover,56,52
+12:37,Iowa,Nicholas Baer,Steal,56,52
+12:12,Iowa,Maishe Dailey,Missed Three Point Jumper,56,52
+12:12,Pittsburgh,Sidy N'Dir,Defensive Rebound,56,52
+12:06,Pittsburgh,Jared Wilson-Frame,Layup,58,52
+11:48,Iowa,Jordan Bohannon,Missed Three Point Jumper,58,52
+11:48,Pittsburgh,Terrell Brown,Defensive Rebound,58,52
+11:25,Pittsburgh,Jared Wilson-Frame,Missed Jumper,58,52
+11:25,Iowa,Tyler Cook,Defensive Rebound,58,52
+11:17,Pittsburgh,Xavier Johnson,Foul,58,52
+11:17,Iowa,None,None,58,52
+11:17,Iowa,Tyler Cook,Free Throw,58,53
+11:17,Iowa,Tyler Cook,Missed Free Throw,58,53
+11:17,Pittsburgh,Terrell Brown,Defensive Rebound,58,53
+10:51,Pittsburgh,Trey McGowens,Turnover,58,53
+10:51,Iowa,Jordan Bohannon,Steal,58,53
+10:22,Iowa,Jordan Bohannon,Foul,58,53
+10:22,Iowa,Jordan Bohannon,Turnover,58,53
+10:08,Pittsburgh,Xavier Johnson,Turnover,58,53
+10:08,Iowa,Ryan Kriener,Steal,58,53
+10:04,Pittsburgh,Trey McGowens,Foul,58,53
+10:04,Iowa,Nicholas Baer,Missed Free Throw,58,53
+10:04,Pittsburgh,Terrell Brown,Defensive Rebound,58,53
+9:47,Pittsburgh,Trey McGowens,Turnover,58,53
+9:36,Iowa,Joe Wieskamp,Missed Three Point Jumper,58,53
+9:36,Iowa,Nicholas Baer,Offensive Rebound,58,53
+9:30,Iowa,Nicholas Baer,Missed Layup,58,53
+9:30,Iowa,Nicholas Baer,Offensive Rebound,58,53
+9:27,Iowa,Nicholas Baer,Turnover,58,53
+9:27,Pittsburgh,Jared Wilson-Frame,Steal,58,53
+9:12,Pittsburgh,Terrell Brown,Missed Jumper,58,53
+9:12,Iowa,Joe Wieskamp,Defensive Rebound,58,53
+9:02,Iowa,Nicholas Baer,Three Point Jumper,58,56
+8:45,Iowa,Nicholas Baer,Foul,58,56
+8:45,Pittsburgh,Sidy N'Dir,Missed Free Throw,58,56
+8:45,Pittsburgh,None,Team Rebound,58,56
+8:45,Pittsburgh,Sidy N'Dir,Missed Free Throw,58,56
+8:45,Iowa,Ryan Kriener,Defensive Rebound,58,56
+8:38,Iowa,Nicholas Baer,Three Point Jumper,58,59
+8:29,Pittsburgh,None,None,58,59
+8:19,Pittsburgh,Xavier Johnson,Missed Layup,58,59
+8:19,Pittsburgh,Terrell Brown,Offensive Rebound,58,59
+8:15,Iowa,Isaiah Moss,Foul,58,59
+8:15,Pittsburgh,Terrell Brown,Free Throw,59,59
+8:15,Pittsburgh,Terrell Brown,Missed Free Throw,59,59
+8:15,Iowa,Joe Wieskamp,Defensive Rebound,59,59
+8:13,Iowa,Joe Wieskamp,Turnover,59,59
+7:51,Pittsburgh,Xavier Johnson,Three Point Jumper,62,59
+7:30,Iowa,Nicholas Baer,Missed Three Point Jumper,62,59
+7:30,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,62,59
+7:00,Pittsburgh,Sidy N'Dir,Missed Three Point Jumper,62,59
+7:00,Iowa,Nicholas Baer,Defensive Rebound,62,59
+6:55,Pittsburgh,Jared Wilson-Frame,Foul,62,59
+6:55,Iowa,None,None,62,59
+6:55,Iowa,Nicholas Baer,Free Throw,62,60
+6:55,Iowa,Nicholas Baer,Free Throw,62,61
+6:37,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,62,61
+6:37,Pittsburgh,Pittsburgh,Offensive Rebound,62,61
+6:33,Pittsburgh,Malik Ellison,Turnover,62,61
+6:33,Iowa,Joe Wieskamp,Steal,62,61
+6:14,Iowa,Nicholas Baer,Three Point Jumper,62,64
+5:46,Pittsburgh,Xavier Johnson,Turnover,62,64
+5:35,Iowa,Connor McCaffery,Missed Layup,62,64
+5:35,Pittsburgh,Terrell Brown,Defensive Rebound,62,64
+5:27,Pittsburgh,Malik Ellison,Missed Three Point Jumper,62,64
+5:27,Iowa,Connor McCaffery,Defensive Rebound,62,64
+5:15,Iowa,Nicholas Baer,Missed Three Point Jumper,62,64
+5:15,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,62,64
+5:07,Iowa,Connor McCaffery,Foul,62,64
+5:07,Pittsburgh,Xavier Johnson,Free Throw,63,64
+5:07,Pittsburgh,Xavier Johnson,Missed Free Throw,63,64
+5:07,Iowa,Tyler Cook,Defensive Rebound,63,64
+4:51,Iowa,Joe Wieskamp,Layup,63,66
+4:35,Pittsburgh,Terrell Brown,Turnover,63,66
+4:24,Iowa,Luka Garza,Foul,63,66
+4:24,Iowa,Luka Garza,Turnover,63,66
+3:59,Pittsburgh,Sidy N'Dir,Missed Dunk,63,66
+3:59,Iowa,Joe Wieskamp,Block,63,66
+3:59,Pittsburgh,Sidy N'Dir,Offensive Rebound,63,66
+3:59,Iowa,Ryan Kriener,Foul,63,66
+3:59,Iowa,None,None,63,66
+3:59,Pittsburgh,Sidy N'Dir,Free Throw,64,66
+3:59,Pittsburgh,Sidy N'Dir,Missed Free Throw,64,66
+3:59,Iowa,Tyler Cook,Defensive Rebound,64,66
+3:37,Iowa,Tyler Cook,Missed Layup,64,66
+3:37,Pittsburgh,Sidy N'Dir,Defensive Rebound,64,66
+3:28,Pittsburgh,Jared Wilson-Frame,Turnover,64,66
+3:28,Iowa,Jordan Bohannon,Steal,64,66
+3:09,Iowa,Jordan Bohannon,Missed Three Point Jumper,64,66
+3:09,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,64,66
+2:40,Pittsburgh,Trey McGowens,Missed Jumper,64,66
+2:40,Iowa,Nicholas Baer,Defensive Rebound,64,66
+2:08,Iowa,Iowa ,Turnover,64,66
+1:55,Pittsburgh,Xavier Johnson,Missed Layup,64,66
+1:55,Iowa,Joe Wieskamp,Defensive Rebound,64,66
+1:36,Iowa,Joe Wieskamp,Missed Three Point Jumper,64,66
+1:36,Iowa,Tyler Cook,Offensive Rebound,64,66
+1:29,Pittsburgh,Xavier Johnson,Foul,64,66
+1:29,Iowa,Nicholas Baer,Missed Free Throw,64,66
+1:29,Iowa,None,Team Rebound,64,66
+1:29,Iowa,Nicholas Baer,Free Throw,64,67
+1:15,Pittsburgh,Jared Wilson-Frame,Missed Jumper,64,67
+1:15,Iowa,Tyler Cook,Block,64,67
+1:15,Pittsburgh,Kene Chukwuka,Offensive Rebound,64,67
+1:11,Pittsburgh,Kene Chukwuka,Layup,66,67
+0:56,Pittsburgh,Xavier Johnson,Foul,66,67
+0:56,Iowa,Nicholas Baer,Free Throw,66,68
+0:56,Iowa,Nicholas Baer,Free Throw,66,69
+0:52,Pittsburgh,None,None,66,69
+0:40,Iowa,Connor McCaffery,Foul,66,69
+0:40,Pittsburgh,Xavier Johnson,Free Throw,67,69
+0:40,Pittsburgh,Xavier Johnson,Free Throw,68,69
+0:15,Iowa,None,None,68,69
+0:12,Iowa,Connor McCaffery,Missed Three Point Jumper,68,69
+0:12,Iowa,Tyler Cook,Offensive Rebound,68,69
+0:10,Pittsburgh,Xavier Johnson,Foul,68,69
+0:10,Iowa,Tyler Cook,Missed Free Throw,68,69
+0:10,Iowa,None,Team Rebound,68,69
+0:10,Iowa,Tyler Cook,Missed Free Throw,68,69
+0:10,Pittsburgh,Trey McGowens,Defensive Rebound,68,69
+0:01,Pittsburgh,Trey McGowens,Missed Jumper,68,69
+0:01,Pittsburgh,Sidy N'Dir,Offensive Rebound,68,69
+0:01,Pittsburgh,Sidy N'Dir,Missed Jumper,68,69
+0:01,Iowa,Iowa,Defensive Rebound,68,69
+0:00,Iowa,None,None,68,69

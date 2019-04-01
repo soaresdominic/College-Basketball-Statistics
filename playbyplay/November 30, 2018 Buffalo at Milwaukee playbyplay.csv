@@ -1,0 +1,338 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:45,Buffalo,CJ Massinburg,Turnover,0,0
+19:34,Milwaukee,DeAndre Abram,Missed Jumper,0,0
+19:34,Buffalo,CJ Massinburg,Defensive Rebound,0,0
+19:19,Buffalo,Montell McRae,Missed Three Point Jumper,0,0
+19:19,Milwaukee,Amir Allen,Defensive Rebound,0,0
+19:07,Milwaukee,Bobby Arthur-Williams,Foul,0,0
+19:07,Milwaukee,Bobby Arthur-Williams,Turnover,0,0
+19:00,Buffalo,Montell McRae,Foul,0,0
+19:00,Buffalo,Montell McRae,Turnover,0,0
+18:48,Milwaukee,Darius Roy,Jumper,0,2
+18:24,Buffalo,CJ Massinburg,Missed Three Point Jumper,0,2
+18:24,Milwaukee,DeAndre Abram,Defensive Rebound,0,2
+18:14,Buffalo,Jayvon Graves,Defensive Rebound,0,2
+18:14,Milwaukee,Jake Wright,Missed Three Point Jumper,0,2
+17:47,Milwaukee,DeAndre Abram,Missed Layup,0,2
+17:47,Buffalo,CJ Massinburg,Block,0,2
+17:47,Milwaukee,Milwaukee,Offensive Rebound,0,2
+17:35,Milwaukee,Bobby Arthur-Williams,Missed Three Point Jumper,0,2
+17:35,Buffalo,Montell McRae,Defensive Rebound,0,2
+17:33,Milwaukee,Amir Allen,Foul,0,2
+17:22,Buffalo,Jeremy Harris,Three Point Jumper,3,2
+17:08,Milwaukee,Bobby Arthur-Williams,Foul,3,2
+17:08,Milwaukee,Bobby Arthur-Williams,Turnover,3,2
+16:57,Buffalo,Jayvon Graves,Missed Jumper,3,2
+16:57,Milwaukee,Carson Warren-Newsome,Defensive Rebound,3,2
+16:48,Milwaukee,Vance Johnson,Jumper,3,4
+16:32,Buffalo,Jeremy Harris,Missed Jumper,3,4
+16:32,Buffalo,Montell McRae,Offensive Rebound,3,4
+16:28,Buffalo,Davonta Jordan,Missed Three Point Jumper,3,4
+16:28,Buffalo,Montell McRae,Offensive Rebound,3,4
+16:26,Milwaukee,DeAndre Abram,Foul,3,4
+16:26,Buffalo,Montell McRae,Free Throw,4,4
+16:26,Buffalo,Montell McRae,Free Throw,5,4
+16:00,Milwaukee,Vance Johnson,Jumper,5,6
+15:42,Buffalo,Dontay Caruthers,Missed Layup,5,6
+15:42,Milwaukee,Darius Roy,Defensive Rebound,5,6
+15:36,Milwaukee,Darius Roy,Missed Layup,5,6
+15:36,Buffalo,Tra'Von Fagan,Defensive Rebound,5,6
+15:26,Milwaukee,Vance Johnson,Foul,5,6
+15:26,Milwaukee,None,None,5,6
+15:26,Buffalo,Davonta Jordan,Free Throw,6,6
+15:26,Buffalo,Davonta Jordan,Missed Free Throw,6,6
+15:26,Milwaukee,Vance Johnson,Defensive Rebound,6,6
+15:04,Milwaukee,Carson Warren-Newsome,Turnover,6,6
+15:03,Buffalo,CJ Massinburg,Steal,6,6
+15:01,Buffalo,CJ Massinburg,Layup,8,6
+14:31,Milwaukee,Carson Warren-Newsome,Missed Three Point Jumper,8,6
+14:31,Buffalo,Davonta Jordan,Block,8,6
+14:29,Buffalo,Nick Perkins,Defensive Rebound,8,6
+14:24,Buffalo,Davonta Jordan,Layup,10,6
+14:24,Milwaukee,None,None,10,6
+14:07,Milwaukee,Vance Johnson,Turnover,10,6
+13:53,Buffalo,Jeremy Harris,Jumper,12,6
+13:32,Milwaukee,Carson Warren-Newsome,Layup,12,8
+13:15,Milwaukee,Vance Johnson,Foul,12,8
+13:12,Buffalo,Jeenathan Williams,Missed Three Point Jumper,12,8
+13:12,Milwaukee,Darius Roy,Defensive Rebound,12,8
+12:51,Milwaukee,DeAndre Abram,Missed Three Point Jumper,12,8
+12:51,Milwaukee,Carson Warren-Newsome,Offensive Rebound,12,8
+12:46,Milwaukee,Carson Warren-Newsome,Layup,12,10
+12:38,Buffalo,Dontay Caruthers,Turnover,12,10
+12:38,Milwaukee,Carson Warren-Newsome,Steal,12,10
+12:38,Buffalo,Dontay Caruthers,Foul,12,10
+12:24,Milwaukee,Amir Allen,Jumper,12,12
+12:11,Buffalo,Nick Perkins,Missed Jumper,12,12
+12:11,Milwaukee,Amir Allen,Defensive Rebound,12,12
+12:05,Buffalo,Jeenathan Williams,Foul,12,12
+11:48,Milwaukee,Carson Warren-Newsome,Three Point Jumper,12,15
+11:31,Buffalo,Jeenathan Williams,Missed Three Point Jumper,12,15
+11:31,Milwaukee,DeAndre Abram,Defensive Rebound,12,15
+11:15,Buffalo,Dontay Caruthers,Foul,12,15
+11:15,Milwaukee,None,None,12,15
+11:15,Milwaukee,Wil Sessoms,Missed Free Throw,12,15
+11:15,Milwaukee,None,Team Rebound,12,15
+11:15,Milwaukee,Wil Sessoms,Missed Free Throw,12,15
+11:15,Buffalo,Montell McRae,Defensive Rebound,12,15
+11:02,Buffalo,Jeremy Harris,Missed Three Point Jumper,12,15
+11:02,Milwaukee,Wil Sessoms,Defensive Rebound,12,15
+10:52,Milwaukee,Wil Sessoms,Missed Three Point Jumper,12,15
+10:52,Buffalo,Jeremy Harris,Defensive Rebound,12,15
+10:44,Buffalo,Nick Perkins,Three Point Jumper,15,15
+10:22,Milwaukee,Wil Sessoms,Missed Three Point Jumper,15,15
+10:22,Buffalo,Davonta Jordan,Defensive Rebound,15,15
+10:16,Buffalo,CJ Massinburg,Missed Three Point Jumper,15,15
+10:16,Milwaukee,Milwaukee,Defensive Rebound,15,15
+10:05,Milwaukee,Jake Wright,Three Point Jumper,15,18
+9:43,Buffalo,CJ Massinburg,Jumper,17,18
+9:30,Milwaukee,Jake Wright,Jumper,17,20
+9:09,Buffalo,Jeremy Harris,Layup,19,20
+8:53,Milwaukee,DeAndre Abram,Dunk,19,22
+8:39,Buffalo,Nick Perkins,Three Point Jumper,22,22
+8:29,Milwaukee,DeAndre Abram,Missed Three Point Jumper,22,22
+8:29,Buffalo,Jeremy Harris,Defensive Rebound,22,22
+8:20,Buffalo,Jeremy Harris,Jumper,24,22
+8:02,Milwaukee,Darius Roy,Missed Three Point Jumper,24,22
+8:02,Buffalo,Montell McRae,Defensive Rebound,24,22
+7:49,Buffalo,Nick Perkins,Missed Three Point Jumper,24,22
+7:49,Buffalo,Davonta Jordan,Offensive Rebound,24,22
+7:43,Buffalo,Jeremy Harris,Missed Three Point Jumper,24,22
+7:43,Milwaukee,DeAndre Abram,Defensive Rebound,24,22
+7:35,Milwaukee,Darius Roy,Missed Layup,24,22
+7:35,Buffalo,Montell McRae,Defensive Rebound,24,22
+7:25,Milwaukee,None,None,24,22
+7:11,Buffalo,Tra'Von Fagan,Missed Jumper,24,22
+7:11,Milwaukee,Carson Warren-Newsome,Defensive Rebound,24,22
+6:39,Milwaukee,Wil Sessoms,Missed Layup,24,22
+6:39,Buffalo,Tra'Von Fagan,Block,24,22
+6:36,Milwaukee,Milwaukee,Offensive Rebound,24,22
+6:28,Milwaukee,Jake Wright,Missed Three Point Jumper,24,22
+6:28,Buffalo,Dontay Caruthers,Defensive Rebound,24,22
+6:09,Buffalo,Dontay Caruthers,Layup,26,22
+5:48,Milwaukee,Carson Warren-Newsome,Three Point Jumper,26,25
+5:35,Buffalo,Jayvon Graves,Missed Three Point Jumper,26,25
+5:35,Buffalo,Tra'Von Fagan,Offensive Rebound,26,25
+5:27,Buffalo,Ronaldo Segu,Three Point Jumper,29,25
+5:11,Milwaukee,Wil Sessoms,Missed Three Point Jumper,29,25
+5:11,Buffalo,Dontay Caruthers,Defensive Rebound,29,25
+5:00,Buffalo,Ronaldo Segu,Turnover,29,25
+4:32,Milwaukee,Darius Roy,Missed Layup,29,25
+4:32,Milwaukee,Amir Allen,Offensive Rebound,29,25
+4:30,Buffalo,Dontay Caruthers,Foul,29,25
+4:28,Milwaukee,Jake Wright,Missed Three Point Jumper,29,25
+4:28,Buffalo,Nick Perkins,Defensive Rebound,29,25
+4:13,Buffalo,CJ Massinburg,Missed Layup,29,25
+4:13,Milwaukee,Darius Roy,Defensive Rebound,29,25
+4:06,Milwaukee,Carson Warren-Newsome,Turnover,29,25
+3:49,Buffalo,Nick Perkins,Missed Jumper,29,25
+3:49,Milwaukee,DeAndre Abram,Defensive Rebound,29,25
+3:43,Milwaukee,Jake Wright,Jumper,29,27
+3:33,Buffalo,Jayvon Graves,Layup,31,27
+3:16,Milwaukee,DeAndre Abram,Missed Layup,31,27
+3:16,Buffalo,Nick Perkins,Defensive Rebound,31,27
+3:07,Buffalo,Nick Perkins,Three Point Jumper,34,27
+2:45,Milwaukee,Carson Warren-Newsome,Missed Three Point Jumper,34,27
+2:45,Buffalo,Nick Perkins,Defensive Rebound,34,27
+2:33,Buffalo,Nick Perkins,Layup,36,27
+2:33,Milwaukee,Carson Warren-Newsome,Foul,36,27
+2:33,Milwaukee,None,None,36,27
+2:33,Buffalo,Nick Perkins,Missed Free Throw,36,27
+2:33,Buffalo,Jeenathan Williams,Offensive Rebound,36,27
+2:29,Buffalo,Jayvon Graves,Missed Three Point Jumper,36,27
+2:29,Milwaukee,Wil Sessoms,Defensive Rebound,36,27
+2:10,Buffalo,Jeenathan Williams,Foul,36,27
+2:00,Milwaukee,Amir Allen,Missed Jumper,36,27
+2:00,Buffalo,Davonta Jordan,Defensive Rebound,36,27
+1:42,Buffalo,Jeenathan Williams,Layup,38,27
+1:16,Milwaukee,DeAndre Abram,Jumper,38,29
+0:59,Buffalo,Jeenathan Williams,Jumper,40,29
+0:37,Milwaukee,Wil Sessoms,Three Point Jumper,40,32
+0:30,Buffalo,None,None,40,32
+0:10,Buffalo,CJ Massinburg,Three Point Jumper,43,32
+0:00,Milwaukee,DeAndre Abram,Missed Three Point Jumper,43,32
+0:00,Milwaukee,Milwaukee,Offensive Rebound,43,32
+0:00,Milwaukee,None,None,43,32
+19:46,Milwaukee,Amir Allen,Missed Jumper,43,32
+19:46,Buffalo,Montell McRae,Defensive Rebound,43,32
+19:27,Buffalo,Jeremy Harris,Missed Jumper,43,32
+19:27,Milwaukee,DeAndre Abram,Defensive Rebound,43,32
+19:07,Milwaukee,Amir Allen,Layup,43,34
+18:53,Buffalo,CJ Massinburg,Three Point Jumper,46,34
+18:44,Buffalo,Jayvon Graves,Foul,46,34
+18:44,Milwaukee,Jake Wright,Free Throw,46,35
+18:44,Milwaukee,Jake Wright,Free Throw,46,36
+18:28,Buffalo,Jeremy Harris,Missed Three Point Jumper,46,36
+18:28,Buffalo,CJ Massinburg,Offensive Rebound,46,36
+18:23,Buffalo,CJ Massinburg,Missed Layup,46,36
+18:23,Milwaukee,DeAndre Abram,Defensive Rebound,46,36
+18:21,Buffalo,Montell McRae,Foul,46,36
+18:07,Buffalo,Jeremy Harris,Foul,46,36
+18:07,Milwaukee,Amir Allen,Free Throw,46,37
+18:07,Milwaukee,Amir Allen,Missed Free Throw,46,37
+18:07,Buffalo,CJ Massinburg,Defensive Rebound,46,37
+17:46,Buffalo,Montell McRae,Missed Three Point Jumper,46,37
+17:46,Milwaukee,Jake Wright,Defensive Rebound,46,37
+17:26,Milwaukee,Bobby Arthur-Williams,Missed Layup,46,37
+17:26,Milwaukee,Amir Allen,Offensive Rebound,46,37
+17:23,Milwaukee,Amir Allen,Layup,46,39
+17:10,Buffalo,Montell McRae,Layup,48,39
+17:00,Milwaukee,Amir Allen,Missed Jumper,48,39
+17:00,Buffalo,Buffalo,Defensive Rebound,48,39
+16:58,Milwaukee,Bobby Arthur-Williams,Foul,48,39
+16:46,Buffalo,CJ Massinburg,Missed Layup,48,39
+16:46,Buffalo,Nick Perkins,Offensive Rebound,48,39
+16:45,Milwaukee,Amir Allen,Foul,48,39
+16:45,Buffalo,Nick Perkins,Free Throw,49,39
+16:45,Buffalo,Nick Perkins,Free Throw,50,39
+16:31,Milwaukee,DeAndre Abram,Three Point Jumper,50,42
+16:15,Buffalo,Davonta Jordan,Layup,52,42
+16:00,Milwaukee,Darius Roy,Missed Three Point Jumper,52,42
+16:00,Buffalo,Jayvon Graves,Defensive Rebound,52,42
+15:52,Milwaukee,Amir Allen,Foul,52,42
+15:52,Milwaukee,None,None,52,42
+15:52,Buffalo,Jeremy Harris,Free Throw,53,42
+15:52,Buffalo,Jeremy Harris,Free Throw,54,42
+15:30,Buffalo,Ronaldo Segu,Foul,54,42
+15:30,Milwaukee,Jamar Madge,Free Throw,54,43
+15:30,Milwaukee,Jamar Madge,Free Throw,54,44
+15:15,Buffalo,CJ Massinburg,Three Point Jumper,57,44
+14:51,Milwaukee,Darius Roy,Turnover,57,44
+14:50,Buffalo,CJ Massinburg,Steal,57,44
+14:38,Buffalo,Nick Perkins,Three Point Jumper,60,44
+14:27,Milwaukee,None,None,60,44
+14:27,Milwaukee,None,None,60,44
+14:15,Milwaukee,Vance Johnson,Three Point Jumper,60,47
+14:03,Buffalo,Nick Perkins,Foul,60,47
+14:03,Buffalo,Nick Perkins,Turnover,60,47
+13:44,Milwaukee,Carson Warren-Newsome,Missed Three Point Jumper,60,47
+13:44,Milwaukee,DeAndre Abram,Offensive Rebound,60,47
+13:39,Milwaukee,DeAndre Abram,Layup,60,49
+13:15,Buffalo,CJ Massinburg,Missed Three Point Jumper,60,49
+13:15,Milwaukee,Darius Roy,Defensive Rebound,60,49
+13:11,Milwaukee,Carson Warren-Newsome,Dunk,60,51
+12:49,Buffalo,Nick Perkins,Dunk,62,51
+12:31,Milwaukee,Darius Roy,Layup,62,53
+12:22,Milwaukee,Carson Warren-Newsome,Foul,62,53
+12:22,Buffalo,Dontay Caruthers,Missed Free Throw,62,53
+12:22,Buffalo,None,Team Rebound,62,53
+12:22,Buffalo,Dontay Caruthers,Free Throw,63,53
+12:09,Buffalo,Jeremy Harris,Foul,63,53
+12:09,Buffalo,Davonta Jordan,Foul,63,53
+12:08,Milwaukee,DeAndre Abram,Free Throw,63,54
+12:08,Milwaukee,DeAndre Abram,Free Throw,63,55
+11:53,Buffalo,Jeremy Harris,Missed Three Point Jumper,63,55
+11:53,Milwaukee,Jamar Madge,Defensive Rebound,63,55
+11:27,Milwaukee,DeAndre Abram,Missed Jumper,63,55
+11:27,Buffalo,Jeremy Harris,Block,63,55
+11:25,Buffalo,Nick Perkins,Defensive Rebound,63,55
+11:12,Buffalo,Jayvon Graves,Missed Three Point Jumper,63,55
+11:12,Milwaukee,DeAndre Abram,Defensive Rebound,63,55
+10:46,Milwaukee,Carson Warren-Newsome,Layup,63,57
+10:40,Milwaukee,Jamar Madge,Foul,63,57
+10:40,Milwaukee,None,None,63,57
+10:28,Buffalo,CJ Massinburg,Turnover,63,57
+10:27,Milwaukee,Carson Warren-Newsome,Steal,63,57
+10:25,Milwaukee,Carson Warren-Newsome,Missed Layup,63,57
+10:25,Milwaukee,Jamar Madge,Offensive Rebound,63,57
+10:11,Milwaukee,Jamar Madge,Missed Layup,63,57
+10:11,Milwaukee,Vance Johnson,Offensive Rebound,63,57
+10:08,Milwaukee,Vance Johnson,Layup,63,59
+10:02,Buffalo,Jeremy Harris,Layup,65,59
+9:29,Milwaukee,Carson Warren-Newsome,Jumper,65,61
+9:23,Milwaukee,Darius Roy,Foul,65,61
+9:18,Buffalo,CJ Massinburg,Missed Three Point Jumper,65,61
+9:18,Milwaukee,Vance Johnson,Defensive Rebound,65,61
+9:10,Milwaukee,Carson Warren-Newsome,Missed Three Point Jumper,65,61
+9:10,Buffalo,CJ Massinburg,Block,65,61
+9:06,Buffalo,Buffalo,Defensive Rebound,65,61
+9:03,Milwaukee,Darius Roy,Foul,65,61
+9:03,Buffalo,Montell McRae,Free Throw,66,61
+9:03,Buffalo,Montell McRae,Free Throw,67,61
+8:49,Milwaukee,Carson Warren-Newsome,Turnover,67,61
+8:48,Buffalo,Davonta Jordan,Steal,67,61
+8:46,Buffalo,Davonta Jordan,Missed Layup,67,61
+8:46,Milwaukee,Carson Warren-Newsome,Defensive Rebound,67,61
+8:45,Buffalo,Jayvon Graves,Foul,67,61
+8:45,Milwaukee,Carson Warren-Newsome,Free Throw,67,62
+8:45,Milwaukee,Carson Warren-Newsome,Free Throw,67,63
+8:34,Buffalo,Davonta Jordan,Layup,69,63
+8:19,Milwaukee,Darius Roy,Missed Jumper,69,63
+8:19,Buffalo,Montell McRae,Defensive Rebound,69,63
+8:15,Buffalo,CJ Massinburg,Three Point Jumper,72,63
+8:00,Milwaukee,Vance Johnson,Turnover,72,63
+8:00,Milwaukee,None,None,72,63
+7:43,Buffalo,Jeremy Harris,Layup,74,63
+7:19,Buffalo,CJ Massinburg,Foul,74,63
+7:19,Milwaukee,Carson Warren-Newsome,Free Throw,74,64
+7:19,Milwaukee,Carson Warren-Newsome,Free Throw,74,65
+7:06,Buffalo,Nick Perkins,Missed Layup,74,65
+7:06,Buffalo,Nick Perkins,Offensive Rebound,74,65
+7:03,Buffalo,None,None,76,65
+6:48,Milwaukee,Jamar Madge,Missed Layup,76,65
+6:48,Buffalo,CJ Massinburg,Block,76,65
+6:46,Buffalo,Jayvon Graves,Defensive Rebound,76,65
+6:40,Buffalo,Jayvon Graves,Layup,78,65
+6:29,Milwaukee,Jamar Madge,Missed Layup,78,65
+6:29,Buffalo,Nick Perkins,Defensive Rebound,78,65
+6:17,Buffalo,Jeremy Harris,Three Point Jumper,81,65
+6:09,Milwaukee,None,None,81,65
+5:49,Milwaukee,Carson Warren-Newsome,Layup,81,67
+5:34,Buffalo,Jayvon Graves,Missed Layup,81,67
+5:34,Buffalo,Buffalo,Offensive Rebound,81,67
+5:28,Buffalo,Dontay Caruthers,Missed Three Point Jumper,81,67
+5:28,Buffalo,Nick Perkins,Offensive Rebound,81,67
+5:26,Milwaukee,Amir Allen,Foul,81,67
+5:26,Buffalo,Nick Perkins,Missed Free Throw,81,67
+5:26,Milwaukee,Wil Sessoms,Defensive Rebound,81,67
+5:22,Milwaukee,Wil Sessoms,Turnover,81,67
+5:22,Buffalo,Jeremy Harris,Steal,81,67
+5:06,Buffalo,Jayvon Graves,Three Point Jumper,84,67
+4:44,Buffalo,Nick Perkins,Foul,84,67
+4:44,Milwaukee,Carson Warren-Newsome,Free Throw,84,68
+4:44,Milwaukee,Carson Warren-Newsome,Free Throw,84,69
+4:36,Buffalo,Dontay Caruthers,Foul,84,69
+4:36,Buffalo,Dontay Caruthers,Turnover,84,69
+4:27,Milwaukee,Wil Sessoms,Missed Three Point Jumper,84,69
+4:27,Buffalo,Dontay Caruthers,Defensive Rebound,84,69
+4:12,Buffalo,Jeremy Harris,Three Point Jumper,87,69
+3:58,Milwaukee,None,None,87,69
+3:58,Milwaukee,None,None,87,69
+3:48,Milwaukee,Carson Warren-Newsome,Missed Three Point Jumper,87,69
+3:48,Buffalo,Montell McRae,Defensive Rebound,87,69
+3:27,Buffalo,CJ Massinburg,Missed Layup,87,69
+3:27,Milwaukee,DeAndre Abram,Block,87,69
+3:24,Milwaukee,Jake Wright,Defensive Rebound,87,69
+3:17,Milwaukee,DeAndre Abram,Missed Three Point Jumper,87,69
+3:17,Buffalo,Montell McRae,Defensive Rebound,87,69
+3:15,Milwaukee,Wil Sessoms,Foul,87,69
+3:15,Buffalo,Montell McRae,Free Throw,88,69
+3:15,Buffalo,Montell McRae,Free Throw,89,69
+3:04,Milwaukee,Jake Wright,Missed Three Point Jumper,89,69
+3:04,Buffalo,Jeenathan Williams,Defensive Rebound,89,69
+2:48,Buffalo,Jeenathan Williams,Missed Jumper,89,69
+2:48,Buffalo,Jeenathan Williams,Offensive Rebound,89,69
+2:45,Buffalo,Jeenathan Williams,Layup,91,69
+2:31,Milwaukee,Vance Johnson,Missed Three Point Jumper,91,69
+2:31,Milwaukee,Jamar Madge,Offensive Rebound,91,69
+2:27,Milwaukee,Jamar Madge,Layup,91,71
+2:27,Buffalo,Jayvon Graves,Foul,91,71
+2:27,Milwaukee,Jamar Madge,Free Throw,91,72
+2:14,Buffalo,Ronaldo Segu,Missed Jumper,91,72
+2:14,Milwaukee,Vance Johnson,Defensive Rebound,91,72
+1:55,Milwaukee,Carson Warren-Newsome,Missed Layup,91,72
+1:55,Buffalo,Dontay Caruthers,Block,91,72
+1:55,Buffalo,Buffalo,Defensive Rebound,91,72
+1:36,Buffalo,Jeenathan Williams,Missed Three Point Jumper,91,72
+1:36,Milwaukee,Tyler Behrendt,Defensive Rebound,91,72
+1:18,Milwaukee,Carson Warren-Newsome,Jumper,91,74
+1:04,Buffalo,Jeenathan Williams,Three Point Jumper,94,74
+0:44,Milwaukee,Carson Warren-Newsome,Missed Three Point Jumper,94,74
+0:44,Buffalo,Jeenathan Williams,Defensive Rebound,94,74
+0:34,Buffalo,Brock Bertram,Jumper,96,74
+0:21,Milwaukee,Carson Warren-Newsome,Missed Jumper,96,74
+0:21,Milwaukee,Vance Johnson,Offensive Rebound,96,74
+0:17,Milwaukee,Vance Johnson,Layup,96,76
+0:17,Buffalo,Brock Bertram,Foul,96,76
+0:17,Milwaukee,Vance Johnson,Free Throw,96,77
+0:00,Milwaukee,None,None,96,77

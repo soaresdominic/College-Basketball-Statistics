@@ -1,0 +1,343 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Memphis,None,None,0,0
+19:49,Memphis,Kareem Brewton Jr.,Turnover,0,0
+19:49,Creighton,Marcus Zegarowski,Steal,0,0
+19:45,Creighton,Mitch Ballock,Layup,0,2
+19:32,Memphis,Mike Parks Jr.,Foul,0,2
+19:32,Memphis,Mike Parks Jr.,Turnover,0,2
+19:19,Creighton,Martin Krampelj,Dunk,0,4
+18:57,Memphis,Raynere Thornton,Missed Three Point Jumper,0,4
+18:57,Memphis,Kyvon Davenport,Offensive Rebound,0,4
+18:52,Memphis,Kyvon Davenport,Layup,2,4
+18:42,Creighton,Davion Mintz,Jumper,2,6
+18:31,Creighton,Mitch Ballock,Foul,2,6
+18:31,Memphis,Mike Parks Jr.,Free Throw,3,6
+18:31,Memphis,Mike Parks Jr.,Missed Free Throw,3,6
+18:31,Creighton,Creighton,Defensive Rebound,3,6
+18:13,Creighton,Marcus Zegarowski,Turnover,3,6
+17:54,Memphis,Mike Parks Jr.,Turnover,3,6
+17:54,Creighton,Davion Mintz,Steal,3,6
+17:45,Creighton,Ty-Shon Alexander,Layup,3,8
+17:31,Memphis,Mike Parks Jr.,Jumper,5,8
+17:17,Creighton,Davion Mintz,Turnover,5,8
+17:17,Memphis,Jeremiah Martin,Steal,5,8
+17:09,Memphis,Kyvon Davenport,Missed Three Point Jumper,5,8
+17:09,Creighton,Ty-Shon Alexander,Defensive Rebound,5,8
+17:03,Creighton,Ty-Shon Alexander,Turnover,5,8
+17:03,Memphis,Kyvon Davenport,Steal,5,8
+16:59,Memphis,Raynere Thornton,Missed Layup,5,8
+16:59,Memphis,Mike Parks Jr.,Offensive Rebound,5,8
+16:59,Memphis,None,None,7,8
+16:46,Creighton,Marcus Zegarowski,Three Point Jumper,7,11
+16:27,Memphis,Mike Parks Jr.,Turnover,7,11
+16:27,Memphis,Mike Parks Jr.,Foul,7,11
+16:09,Creighton,Christian Bishop,Missed Jumper,7,11
+16:09,Creighton,Christian Bishop,Offensive Rebound,7,11
+15:56,Creighton,Christian Bishop,Turnover,7,11
+15:56,Memphis,Raynere Thornton,Steal,7,11
+15:56,Creighton,None,None,7,11
+15:38,Memphis,Kyvon Davenport,Turnover,7,11
+15:38,Creighton,Ty-Shon Alexander,Steal,7,11
+15:23,Creighton,Mitch Ballock,Missed Three Point Jumper,7,11
+15:23,Memphis,Kyvon Davenport,Defensive Rebound,7,11
+15:13,Memphis,Jeremiah Martin,Missed Jumper,7,11
+15:13,Creighton,Ty-Shon Alexander,Defensive Rebound,7,11
+15:04,Creighton,Ty-Shon Alexander,Layup,7,13
+15:04,Memphis,Kareem Brewton Jr.,Foul,7,13
+15:04,Creighton,Ty-Shon Alexander,Free Throw,7,14
+14:49,Memphis,Kareem Brewton Jr.,Missed Jumper,7,14
+14:49,Creighton,Ty-Shon Alexander,Defensive Rebound,7,14
+14:40,Creighton,Kaleb Joseph,Missed Jumper,7,14
+14:40,Memphis,Jeremiah Martin,Defensive Rebound,7,14
+14:38,Creighton,Kaleb Joseph,Foul,7,14
+14:23,Memphis,Jeremiah Martin,Layup,9,14
+14:08,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,9,14
+14:08,Memphis,Tyler Harris,Defensive Rebound,9,14
+13:51,Memphis,Raynere Thornton,Missed Layup,9,14
+13:51,Creighton,Kaleb Joseph,Defensive Rebound,9,14
+13:43,Creighton,Marcus Zegarowski,Missed Three Point Jumper,9,14
+13:43,Memphis,Antwann Jones,Defensive Rebound,9,14
+13:35,Creighton,Kaleb Joseph,Foul,9,14
+13:13,Memphis,Antwann Jones,Missed Jumper,9,14
+13:13,Creighton,Connor Cashaw,Defensive Rebound,9,14
+12:57,Creighton,Kaleb Joseph,Missed Jumper,9,14
+12:57,Memphis,Isaiah Maurice,Block,9,14
+12:57,Creighton,Connor Cashaw,Offensive Rebound,9,14
+12:50,Creighton,Davion Mintz,Missed Three Point Jumper,9,14
+12:50,Memphis,Alex Lomax,Defensive Rebound,9,14
+12:39,Creighton,Ty-Shon Alexander,Foul,9,14
+12:30,Memphis,Isaiah Maurice,Jumper,11,14
+12:21,Memphis,Antwann Jones,Foul,11,14
+12:03,Creighton,Mitch Ballock,Missed Three Point Jumper,11,14
+12:03,Memphis,Alex Lomax,Defensive Rebound,11,14
+11:44,Memphis,Tyler Harris,Missed Jumper,11,14
+11:44,Memphis,Antwann Jones,Offensive Rebound,11,14
+11:44,Memphis,None,None,13,14
+11:21,Creighton,Marcus Zegarowski,Missed Layup,13,14
+11:21,Memphis,Jeremiah Martin,Block,13,14
+11:21,Creighton,Creighton,Offensive Rebound,13,14
+11:20,Creighton,None,None,13,14
+11:18,Creighton,Martin Krampelj,Three Point Jumper,13,17
+10:54,Memphis,Jeremiah Martin,Missed Layup,13,17
+10:54,Creighton,Martin Krampelj,Defensive Rebound,13,17
+10:43,Creighton,Martin Krampelj,Missed Jumper,13,17
+10:43,Memphis,Jeremiah Martin,Defensive Rebound,13,17
+10:33,Memphis,Isaiah Maurice,Missed Layup,13,17
+10:33,Creighton,Mitch Ballock,Block,13,17
+10:33,Creighton,Mitch Ballock,Defensive Rebound,13,17
+10:15,Memphis,Isaiah Maurice,Foul,13,17
+10:15,Creighton,Martin Krampelj,Free Throw,13,18
+10:15,Creighton,Martin Krampelj,Missed Free Throw,13,18
+10:15,Memphis,Isaiah Maurice,Defensive Rebound,13,18
+10:07,Memphis,Kareem Brewton Jr.,Layup,15,18
+9:47,Creighton,Damien Jefferson,Missed Three Point Jumper,15,18
+9:47,Memphis,Kareem Brewton Jr.,Defensive Rebound,15,18
+9:36,Memphis,Tyler Harris,Missed Three Point Jumper,15,18
+9:36,Memphis,Antwann Jones,Offensive Rebound,15,18
+9:19,Memphis,Antwann Jones,Jumper,17,18
+9:06,Memphis,Kareem Brewton Jr.,Foul,17,18
+9:06,Memphis,Kyvon Davenport,Foul,17,18
+9:05,Creighton,Davion Mintz,Turnover,17,18
+9:05,Memphis,Antwann Jones,Steal,17,18
+9:05,Creighton,Martin Krampelj,Foul,17,18
+8:58,Memphis,Jeremiah Martin,Missed Three Point Jumper,17,18
+8:58,Creighton,Christian Bishop,Defensive Rebound,17,18
+8:47,Creighton,Davion Mintz,Missed Layup,17,18
+8:47,Memphis,Antwann Jones,Defensive Rebound,17,18
+8:34,Memphis,Antwann Jones,Turnover,17,18
+8:34,Creighton,Mitch Ballock,Steal,17,18
+8:31,Creighton,Damien Jefferson,Layup,17,20
+8:07,Creighton,Christian Bishop,Foul,17,20
+8:05,Memphis,Tyler Harris,Missed Layup,17,20
+8:05,Creighton,Christian Bishop,Block,17,20
+8:05,Creighton,Mitch Ballock,Defensive Rebound,17,20
+7:58,Creighton,Davion Mintz,Missed Three Point Jumper,17,20
+7:58,Memphis,Antwann Jones,Defensive Rebound,17,20
+7:47,Memphis,Tyler Harris,Three Point Jumper,20,20
+7:29,Creighton,Christian Bishop,Missed Layup,20,20
+7:29,Creighton,Christian Bishop,Offensive Rebound,20,20
+7:29,Creighton,None,None,20,22
+7:13,Creighton,Christian Bishop,Foul,20,22
+7:13,Creighton,None,None,20,22
+7:05,Memphis,Raynere Thornton,Turnover,20,22
+6:45,Creighton,Christian Bishop,Turnover,20,22
+6:42,Memphis,Kyvon Davenport,Layup,22,22
+6:37,Creighton,Mitch Ballock,Missed Three Point Jumper,22,22
+6:37,Memphis,Raynere Thornton,Defensive Rebound,22,22
+6:27,Memphis,Jeremiah Martin,Three Point Jumper,25,22
+6:00,Creighton,Ty-Shon Alexander,Missed Layup,25,22
+6:00,Memphis,Kyvon Davenport,Defensive Rebound,25,22
+5:41,Memphis,Antwann Jones,Missed Three Point Jumper,25,22
+5:41,Creighton,Martin Krampelj,Defensive Rebound,25,22
+5:29,Creighton,Martin Krampelj,Missed Layup,25,22
+5:29,Memphis,Kyvon Davenport,Defensive Rebound,25,22
+5:23,Memphis,Tyler Harris,Layup,27,22
+5:13,Creighton,Marcus Zegarowski,Layup,27,24
+4:43,Memphis,Jeremiah Martin,Missed Layup,27,24
+4:43,Creighton,Martin Krampelj,Block,27,24
+4:43,Creighton,Mitch Ballock,Defensive Rebound,27,24
+4:28,Memphis,Kyvon Davenport,Foul,27,24
+4:12,Creighton,Kaleb Joseph,Missed Three Point Jumper,27,24
+4:12,Memphis,Memphis,Defensive Rebound,27,24
+4:01,Memphis,Alex Lomax,Missed Jumper,27,24
+4:01,Creighton,Kaleb Joseph,Defensive Rebound,27,24
+3:41,Creighton,Marcus Zegarowski,Three Point Jumper,27,27
+3:19,Memphis,Jeremiah Martin,Missed Jumper,27,27
+3:19,Creighton,Martin Krampelj,Defensive Rebound,27,27
+3:17,Memphis,Isaiah Maurice,Foul,27,27
+3:17,Creighton,None,None,27,27
+3:04,Creighton,Martin Krampelj,Dunk,27,29
+2:38,Memphis,Alex Lomax,Missed Three Point Jumper,27,29
+2:38,Creighton,Davion Mintz,Defensive Rebound,27,29
+2:30,Creighton,Davion Mintz,Jumper,27,31
+2:03,Memphis,Alex Lomax,Three Point Jumper,30,31
+1:41,Creighton,Martin Krampelj,Layup,30,33
+1:26,Memphis,Alex Lomax,Missed Jumper,30,33
+1:26,Creighton,Martin Krampelj,Defensive Rebound,30,33
+1:11,Creighton,Mitch Ballock,Layup,30,35
+0:41,Memphis,Antwann Jones,Turnover,30,35
+0:41,Creighton,Mitch Ballock,Steal,30,35
+0:38,Creighton,Martin Krampelj,Dunk,30,37
+0:28,Memphis,None,None,30,37
+0:07,Memphis,Antwann Jones,Turnover,30,37
+0:07,Creighton,None,None,30,37
+0:01,Creighton,Marcus Zegarowski,Three Point Jumper,30,40
+0:00,Creighton,None,None,30,40
+20:00,Creighton,None,None,30,40
+19:41,Creighton,Martin Krampelj,Foul,30,40
+19:41,Creighton,Martin Krampelj,Turnover,30,40
+19:30,Creighton,Ty-Shon Alexander,Foul,30,40
+19:30,Memphis,Kyvon Davenport,Missed Free Throw,30,40
+19:30,Memphis,None,Team Rebound,30,40
+19:30,Memphis,Kyvon Davenport,Free Throw,31,40
+19:11,Creighton,Mitch Ballock,Three Point Jumper,31,43
+19:08,Creighton,Martin Krampelj,Foul,31,43
+18:50,Memphis,Kyvon Davenport,Foul,31,43
+18:50,Memphis,Kyvon Davenport,Turnover,31,43
+18:37,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,31,43
+18:37,Memphis,Kyvon Davenport,Defensive Rebound,31,43
+18:27,Memphis,Jeremiah Martin,Layup,33,43
+18:04,Creighton,Ty-Shon Alexander,Missed Jumper,33,43
+18:04,Memphis,Jeremiah Martin,Block,33,43
+18:04,Creighton,Ty-Shon Alexander,Offensive Rebound,33,43
+17:55,Memphis,Kyvon Davenport,Foul,33,43
+17:46,Creighton,Mitch Ballock,Three Point Jumper,33,46
+17:29,Memphis,Antwann Jones,Missed Jumper,33,46
+17:29,Creighton,Mitch Ballock,Defensive Rebound,33,46
+17:19,Creighton,Marcus Zegarowski,Missed Three Point Jumper,33,46
+17:19,Memphis,Kareem Brewton Jr.,Defensive Rebound,33,46
+17:12,Memphis,Kareem Brewton Jr.,Missed Layup,33,46
+17:12,Creighton,Mitch Ballock,Defensive Rebound,33,46
+17:05,Creighton,Mitch Ballock,Jumper,33,48
+16:52,Memphis,None,None,33,48
+16:50,Memphis,Jeremiah Martin,Missed Three Point Jumper,33,48
+16:50,Creighton,Mitch Ballock,Defensive Rebound,33,48
+16:42,Creighton,Davion Mintz,Jumper,33,50
+16:16,Memphis,Mike Parks Jr.,Layup,35,50
+16:06,Memphis,Raynere Thornton,Foul,35,50
+16:06,Creighton,Davion Mintz,Free Throw,35,51
+16:06,Creighton,Davion Mintz,Free Throw,35,52
+16:00,Memphis,Tyler Harris,Missed Three Point Jumper,35,52
+16:00,Creighton,Christian Bishop,Defensive Rebound,35,52
+15:45,Creighton,Marcus Zegarowski,Missed Three Point Jumper,35,52
+15:45,Memphis,Raynere Thornton,Defensive Rebound,35,52
+15:20,Memphis,Jeremiah Martin,Jumper,37,52
+15:20,Creighton,Mitch Ballock,Foul,37,52
+15:20,Creighton,None,None,37,52
+15:20,Memphis,Jeremiah Martin,Free Throw,38,52
+15:12,Creighton,Ty-Shon Alexander,Turnover,38,52
+15:12,Memphis,Antwann Jones,Steal,38,52
+15:06,Memphis,Alex Lomax,Layup,40,52
+15:06,Creighton,Marcus Zegarowski,Foul,40,52
+15:06,Memphis,Alex Lomax,Missed Free Throw,40,52
+15:06,Creighton,Christian Bishop,Defensive Rebound,40,52
+14:59,Creighton,Davion Mintz,Turnover,40,52
+14:51,Memphis,Tyler Harris,Missed Three Point Jumper,40,52
+14:51,Memphis,Raynere Thornton,Offensive Rebound,40,52
+14:31,Memphis,Antwann Jones,Missed Jumper,40,52
+14:31,Memphis,Alex Lomax,Offensive Rebound,40,52
+14:25,Memphis,Jeremiah Martin,Layup,42,52
+14:09,Memphis,Antwann Jones,Foul,42,52
+13:57,Creighton,Ty-Shon Alexander,Layup,42,54
+13:50,Memphis,Alex Lomax,Layup,44,54
+13:37,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,44,54
+13:37,Memphis,Antwann Jones,Defensive Rebound,44,54
+13:22,Creighton,Davion Mintz,Foul,44,54
+13:22,Memphis,Jeremiah Martin,Free Throw,45,54
+13:22,Memphis,Jeremiah Martin,Free Throw,46,54
+13:14,Creighton,Kaleb Joseph,Foul,46,54
+13:14,Creighton,Kaleb Joseph,Turnover,46,54
+12:48,Memphis,Jeremiah Martin,Turnover,46,54
+12:48,Creighton,Davion Mintz,Steal,46,54
+12:35,Creighton,Mitch Ballock,Turnover,46,54
+12:35,Memphis,Tyler Harris,Steal,46,54
+12:31,Creighton,Mitch Ballock,Foul,46,54
+12:31,Memphis,Tyler Harris,Free Throw,47,54
+12:31,Memphis,Tyler Harris,Free Throw,48,54
+12:30,Creighton,Connor Cashaw,Turnover,48,54
+12:30,Memphis,Antwann Jones,Steal,48,54
+12:27,Memphis,Antwann Jones,Turnover,48,54
+12:06,Creighton,Davion Mintz,Turnover,48,54
+12:06,Memphis,Antwann Jones,Steal,48,54
+12:01,Creighton,Marcus Zegarowski,Foul,48,54
+12:01,Memphis,Antwann Jones,Free Throw,49,54
+12:01,Memphis,Antwann Jones,Free Throw,50,54
+11:37,Creighton,Martin Krampelj,Foul,50,54
+11:37,Creighton,Martin Krampelj,Turnover,50,54
+11:37,Creighton,None,None,50,54
+11:28,Memphis,Jeremiah Martin,Layup,52,54
+11:14,Memphis,None,None,52,54
+11:14,Creighton,Christian Bishop,Turnover,52,54
+11:14,Memphis,Jeremiah Martin,Steal,52,54
+11:03,Memphis,Raynere Thornton,Missed Jumper,52,54
+11:03,Creighton,Creighton,Defensive Rebound,52,54
+10:37,Memphis,Antwann Jones,Foul,52,54
+10:37,Creighton,Ty-Shon Alexander,Missed Free Throw,52,54
+10:37,Creighton,None,Team Rebound,52,54
+10:37,Creighton,Ty-Shon Alexander,Free Throw,52,55
+10:22,Memphis,Antwann Jones,Turnover,52,55
+10:22,Creighton,Christian Bishop,Steal,52,55
+10:15,Memphis,Antwann Jones,Foul,52,55
+10:15,Creighton,Ty-Shon Alexander,Missed Free Throw,52,55
+10:15,Creighton,None,Team Rebound,52,55
+10:15,Creighton,Ty-Shon Alexander,Free Throw,52,56
+9:59,Memphis,Jeremiah Martin,Turnover,52,56
+9:59,Creighton,Ty-Shon Alexander,Steal,52,56
+9:50,Creighton,Ty-Shon Alexander,Layup,52,58
+9:41,Memphis,Jeremiah Martin,Layup,54,58
+9:17,Creighton,Christian Bishop,Layup,54,60
+8:55,Memphis,Raynere Thornton,Jumper,56,60
+8:46,Memphis,Kyvon Davenport,Foul,56,60
+8:41,Creighton,Connor Cashaw,Jumper,56,62
+8:15,Memphis,Jeremiah Martin,Turnover,56,62
+8:03,Creighton,Christian Bishop,Layup,56,64
+7:59,Creighton,Connor Cashaw,Foul,56,64
+7:59,Creighton,None,None,56,64
+7:43,Memphis,Kareem Brewton Jr.,Missed Layup,56,64
+7:43,Creighton,Christian Bishop,Defensive Rebound,56,64
+7:43,Memphis,Antwann Jones,Foul,56,64
+7:12,Creighton,Mitch Ballock,Missed Jumper,56,64
+7:12,Memphis,Memphis,Defensive Rebound,56,64
+7:01,Memphis,Jeremiah Martin,Missed Jumper,56,64
+7:01,Creighton,Christian Bishop,Defensive Rebound,56,64
+6:45,Creighton,Ty-Shon Alexander,Missed Jumper,56,64
+6:45,Creighton,Marcus Zegarowski,Offensive Rebound,56,64
+6:42,Creighton,Connor Cashaw,Layup,56,66
+6:23,Memphis,Tyler Harris,Missed Three Point Jumper,56,66
+6:23,Creighton,Creighton,Defensive Rebound,56,66
+5:47,Memphis,Kareem Brewton Jr.,Foul,56,66
+5:47,Creighton,Christian Bishop,Missed Free Throw,56,66
+5:47,Creighton,None,Team Rebound,56,66
+5:47,Creighton,Christian Bishop,Missed Free Throw,56,66
+5:47,Creighton,Mitch Ballock,Offensive Rebound,56,66
+5:43,Creighton,None,None,56,66
+5:34,Creighton,Christian Bishop,Layup,56,68
+5:22,Memphis,Alex Lomax,Missed Three Point Jumper,56,68
+5:22,Creighton,Christian Bishop,Defensive Rebound,56,68
+5:01,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,56,68
+5:01,Creighton,Christian Bishop,Offensive Rebound,56,68
+4:41,Creighton,Mitch Ballock,Missed Layup,56,68
+4:41,Memphis,Mike Parks Jr.,Defensive Rebound,56,68
+4:27,Memphis,Mike Parks Jr.,Missed Three Point Jumper,56,68
+4:27,Creighton,Ty-Shon Alexander,Defensive Rebound,56,68
+4:15,Creighton,Connor Cashaw,Missed Jumper,56,68
+4:15,Creighton,Mitch Ballock,Offensive Rebound,56,68
+4:15,Creighton,None,None,56,70
+3:58,Creighton,Mitch Ballock,Foul,56,70
+3:58,Creighton,None,None,56,70
+3:54,Memphis,Alex Lomax,Three Point Jumper,59,70
+3:25,Memphis,Kareem Brewton Jr.,Foul,59,70
+3:25,Creighton,Davion Mintz,Free Throw,59,71
+3:25,Creighton,Davion Mintz,Missed Free Throw,59,71
+3:25,Memphis,Raynere Thornton,Defensive Rebound,59,71
+3:21,Memphis,Jeremiah Martin,Missed Three Point Jumper,59,71
+3:21,Creighton,Christian Bishop,Defensive Rebound,59,71
+3:12,Creighton,Connor Cashaw,Dunk,59,73
+2:52,Memphis,Tyler Harris,Jumper,61,73
+2:25,Creighton,Davion Mintz,Missed Three Point Jumper,61,73
+2:25,Creighton,Marcus Zegarowski,Offensive Rebound,61,73
+2:06,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,61,73
+2:06,Memphis,Kareem Brewton Jr.,Defensive Rebound,61,73
+1:57,Memphis,Tyler Harris,Missed Jumper,61,73
+1:57,Creighton,Davion Mintz,Defensive Rebound,61,73
+1:48,Memphis,Kareem Brewton Jr.,Foul,61,73
+1:48,Creighton,Marcus Zegarowski,Missed Free Throw,61,73
+1:48,Creighton,None,Team Rebound,61,73
+1:48,Creighton,Marcus Zegarowski,Free Throw,61,74
+1:39,Memphis,Tyler Harris,Missed Layup,61,74
+1:39,Creighton,Martin Krampelj,Block,61,74
+1:39,Creighton,Ty-Shon Alexander,Defensive Rebound,61,74
+1:15,Creighton,Davion Mintz,Jumper,61,76
+1:00,Memphis,Jeremiah Martin,Jumper,63,76
+0:59,Memphis,None,None,63,76
+0:58,Memphis,Mike Parks Jr.,Foul,63,76
+0:58,Creighton,Davion Mintz,Free Throw,63,77
+0:58,Creighton,Davion Mintz,Missed Free Throw,63,77
+0:58,Memphis,Mike Parks Jr.,Defensive Rebound,63,77
+0:49,Memphis,Mike Parks Jr.,Layup,65,77
+0:45,Memphis,Alex Lomax,Foul,65,77
+0:45,Creighton,Marcus Zegarowski,Free Throw,65,78
+0:45,Creighton,Marcus Zegarowski,Free Throw,65,79
+0:30,Memphis,Tyler Harris,Layup,67,79
+0:21,Creighton,None,None,67,79
+0:00,Creighton,None,None,67,79

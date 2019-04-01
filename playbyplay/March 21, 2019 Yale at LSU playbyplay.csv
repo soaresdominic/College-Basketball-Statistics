@@ -1,0 +1,357 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,LSU,None,None,0,0
+19:45,Yale,Trey Phills,Foul,0,0
+19:45,LSU,Kavell Bigby-Williams,Free Throw,0,1
+19:45,LSU,Kavell Bigby-Williams,Free Throw,0,2
+19:32,Yale,Alex Copeland,Missed Layup,0,2
+19:32,LSU,Kavell Bigby-Williams,Block,0,2
+19:32,LSU,Marlon Taylor,Defensive Rebound,0,2
+19:15,LSU,Tremont Waters,Jumper,0,4
+18:54,Yale,Jordan Bruner,Missed Three Point Jumper,0,4
+18:54,LSU,Naz Reid,Defensive Rebound,0,4
+18:24,LSU,Tremont Waters,Missed Three Point Jumper,0,4
+18:24,Yale,Blake Reynolds,Defensive Rebound,0,4
+18:14,Yale,Blake Reynolds,Missed Three Point Jumper,0,4
+18:14,LSU,Marlon Taylor,Defensive Rebound,0,4
+17:53,LSU,Naz Reid,Three Point Jumper,0,7
+17:36,Yale,Jordan Bruner,Missed Three Point Jumper,0,7
+17:36,Yale,Alex Copeland,Offensive Rebound,0,7
+17:25,Yale,Blake Reynolds,Missed Jumper,0,7
+17:25,LSU,Kavell Bigby-Williams,Block,0,7
+17:25,LSU,Naz Reid,Defensive Rebound,0,7
+17:17,LSU,Kavell Bigby-Williams,Layup,0,9
+17:17,Yale,None,None,0,9
+16:58,Yale,Alex Copeland,Jumper,2,9
+16:41,LSU,Marlon Taylor,Dunk,2,11
+16:27,Yale,Miye Oni,Three Point Jumper,5,11
+16:14,LSU,Tremont Waters,Missed Layup,5,11
+16:14,LSU,Tremont Waters,Offensive Rebound,5,11
+16:10,Yale,Blake Reynolds,Foul,5,11
+16:05,LSU,Marlon Taylor,Free Throw,5,12
+16:05,LSU,Marlon Taylor,Free Throw,5,13
+15:49,Yale,Blake Reynolds,Missed Jumper,5,13
+15:49,LSU,Naz Reid,Defensive Rebound,5,13
+15:36,LSU,Naz Reid,Turnover,5,13
+15:36,LSU,None,None,5,13
+15:29,Yale,Azar Swain,Three Point Jumper,8,13
+15:09,LSU,Skylar Mays,Missed Three Point Jumper,8,13
+15:09,Yale,Miye Oni,Defensive Rebound,8,13
+15:01,Yale,Miye Oni,Missed Three Point Jumper,8,13
+15:01,LSU,Kavell Bigby-Williams,Defensive Rebound,8,13
+14:53,LSU,Javonte Smart,Jumper,8,15
+14:37,Yale,Miye Oni,Missed Jumper,8,15
+14:37,LSU,Kavell Bigby-Williams,Block,8,15
+14:37,Yale,Yale,Offensive Rebound,8,15
+14:30,Yale,Alex Copeland,Turnover,8,15
+14:20,LSU,Skylar Mays,Layup,8,17
+13:56,Yale,Azar Swain,Three Point Jumper,11,17
+13:44,LSU,Darius Days,Missed Three Point Jumper,11,17
+13:44,Yale,Alex Copeland,Defensive Rebound,11,17
+13:36,Yale,Alex Copeland,Missed Jumper,11,17
+13:36,LSU,Darius Days,Defensive Rebound,11,17
+13:26,LSU,Javonte Smart,Missed Jumper,11,17
+13:26,LSU,Emmitt Williams,Offensive Rebound,11,17
+13:07,LSU,Skylar Mays,Missed Jumper,11,17
+13:07,Yale,Azar Swain,Defensive Rebound,11,17
+12:41,LSU,Tremont Waters,Foul,11,17
+12:41,Yale,Azar Swain,Missed Free Throw,11,17
+12:41,Yale,None,Team Rebound,11,17
+12:41,Yale,Azar Swain,Free Throw,12,17
+12:41,Yale,Azar Swain,Free Throw,13,17
+12:27,LSU,Tremont Waters,Jumper,13,19
+11:54,LSU,Javonte Smart,Foul,13,19
+11:54,LSU,None,None,13,19
+11:54,Yale,Alex Copeland,Free Throw,14,19
+11:54,Yale,Alex Copeland,Free Throw,15,19
+11:45,LSU,Javonte Smart,Missed Jumper,15,19
+11:45,Yale,Miye Oni,Block,15,19
+11:45,Yale,Alex Copeland,Defensive Rebound,15,19
+11:34,Yale,Alex Copeland,Jumper,17,19
+11:17,LSU,Emmitt Williams,Jumper,17,21
+10:53,Yale,Alex Copeland,Missed Jumper,17,21
+10:53,Yale,Blake Reynolds,Offensive Rebound,17,21
+10:45,Yale,Azar Swain,Missed Three Point Jumper,17,21
+10:45,LSU,Naz Reid,Defensive Rebound,17,21
+10:27,LSU,Naz Reid,Turnover,17,21
+10:16,LSU,Kavell Bigby-Williams,Foul,17,21
+10:16,Yale,Paul Atkinson,Free Throw,18,21
+10:16,Yale,Paul Atkinson,Free Throw,19,21
+10:02,LSU,Kavell Bigby-Williams,Layup,19,23
+9:48,Yale,Trey Phills,Turnover,19,23
+9:48,LSU,Tremont Waters,Steal,19,23
+9:43,LSU,Naz Reid,Dunk,19,25
+9:25,Yale,Miye Oni,Missed Three Point Jumper,19,25
+9:25,LSU,Kavell Bigby-Williams,Defensive Rebound,19,25
+9:14,Yale,Azar Swain,Foul,19,25
+9:14,LSU,Tremont Waters,Free Throw,19,26
+9:14,LSU,Tremont Waters,Free Throw,19,27
+8:57,Yale,Jordan Bruner,Jumper,21,27
+8:46,LSU,Naz Reid,Turnover,21,27
+8:46,LSU,Naz Reid,Foul,21,27
+8:36,Yale,Jordan Bruner,Missed Jumper,21,27
+8:36,LSU,Kavell Bigby-Williams,Block,21,27
+8:36,Yale,Blake Reynolds,Offensive Rebound,21,27
+8:27,Yale,Blake Reynolds,Missed Three Point Jumper,21,27
+8:27,LSU,Marlon Taylor,Defensive Rebound,21,27
+8:18,LSU,Skylar Mays,Three Point Jumper,21,30
+8:03,Yale,Jordan Bruner,Missed Three Point Jumper,21,30
+8:03,LSU,Kavell Bigby-Williams,Defensive Rebound,21,30
+7:46,LSU,Naz Reid,Missed Jumper,21,30
+7:46,Yale,Jordan Bruner,Defensive Rebound,21,30
+7:23,Yale,Miye Oni,Turnover,21,30
+7:23,LSU,None,None,21,30
+7:07,LSU,Kavell Bigby-Williams,Missed Layup,21,30
+7:07,LSU,Kavell Bigby-Williams,Offensive Rebound,21,30
+7:06,LSU,Kavell Bigby-Williams,Missed Layup,21,30
+7:06,LSU,Kavell Bigby-Williams,Offensive Rebound,21,30
+7:04,Yale,Jordan Bruner,Foul,21,30
+7:04,LSU,Kavell Bigby-Williams,Missed Free Throw,21,30
+7:04,LSU,None,Team Rebound,21,30
+7:04,LSU,Kavell Bigby-Williams,Missed Free Throw,21,30
+7:04,Yale,Jordan Bruner,Defensive Rebound,21,30
+6:50,Yale,Blake Reynolds,Missed Three Point Jumper,21,30
+6:50,Yale,Jordan Bruner,Offensive Rebound,21,30
+6:44,Yale,Jordan Bruner,Layup,23,30
+6:35,LSU,Tremont Waters,Jumper,23,32
+6:16,Yale,Trey Phills,Missed Three Point Jumper,23,32
+6:16,LSU,Naz Reid,Defensive Rebound,23,32
+5:48,LSU,Naz Reid,Missed Jumper,23,32
+5:48,LSU,Kavell Bigby-Williams,Offensive Rebound,23,32
+5:31,LSU,Kavell Bigby-Williams,Dunk,23,34
+5:10,Yale,Miye Oni,Missed Jumper,23,34
+5:10,Yale,Blake Reynolds,Offensive Rebound,23,34
+5:00,Yale,Alex Copeland,Missed Jumper,23,34
+5:00,LSU,Kavell Bigby-Williams,Defensive Rebound,23,34
+4:38,LSU,Tremont Waters,Turnover,23,34
+4:38,Yale,Miye Oni,Steal,23,34
+4:33,Yale,Trey Phills,Layup,25,34
+4:02,LSU,Tremont Waters,Three Point Jumper,25,37
+3:40,Yale,Trey Phills,Missed Three Point Jumper,25,37
+3:40,LSU,Javonte Smart,Defensive Rebound,25,37
+3:06,LSU,Tremont Waters,Missed Three Point Jumper,25,37
+3:06,Yale,Yale,Defensive Rebound,25,37
+3:05,LSU,None,None,25,37
+3:05,LSU,None,None,25,37
+3:05,LSU,None,None,25,37
+3:05,LSU,None,None,25,37
+2:50,Yale,Miye Oni,Missed Three Point Jumper,25,37
+2:50,Yale,Jordan Bruner,Offensive Rebound,25,37
+2:40,Yale,Miye Oni,Missed Jumper,25,37
+2:40,LSU,Emmitt Williams,Defensive Rebound,25,37
+2:31,LSU,Skylar Mays,Layup,25,39
+2:22,Yale,Azar Swain,Missed Three Point Jumper,25,39
+2:22,LSU,Darius Days,Defensive Rebound,25,39
+2:09,LSU,Skylar Mays,Missed Jumper,25,39
+2:09,Yale,Paul Atkinson,Block,25,39
+2:09,Yale,Miye Oni,Defensive Rebound,25,39
+1:52,Yale,Paul Atkinson,Layup,27,39
+1:30,LSU,Emmitt Williams,Layup,27,41
+1:30,Yale,Paul Atkinson,Foul,27,41
+1:30,LSU,Emmitt Williams,Missed Free Throw,27,41
+1:30,Yale,Miye Oni,Defensive Rebound,27,41
+1:11,Yale,Paul Atkinson,Turnover,27,41
+1:11,LSU,Darius Days,Steal,27,41
+0:55,LSU,Emmitt Williams,Jumper,27,43
+0:43,Yale,Alex Copeland,Jumper,29,43
+0:30,LSU,Tremont Waters,Layup,29,45
+0:03,Yale,Jordan Bruner,Missed Three Point Jumper,29,45
+0:03,LSU,Emmitt Williams,Defensive Rebound,29,45
+0:00,LSU,None,None,29,45
+20:00,LSU,None,None,29,45
+19:35,Yale,Blake Reynolds,Foul,29,45
+19:35,LSU,Kavell Bigby-Williams,Missed Free Throw,29,45
+19:35,LSU,None,Team Rebound,29,45
+19:35,LSU,Kavell Bigby-Williams,Missed Free Throw,29,45
+19:35,Yale,Blake Reynolds,Defensive Rebound,29,45
+19:18,LSU,Kavell Bigby-Williams,Foul,29,45
+19:18,Yale,Trey Phills,Free Throw,30,45
+19:18,Yale,Trey Phills,Free Throw,31,45
+18:53,LSU,Skylar Mays,Three Point Jumper,31,48
+18:29,Yale,Blake Reynolds,Missed Jumper,31,48
+18:29,LSU,Kavell Bigby-Williams,Defensive Rebound,31,48
+17:56,Yale,Blake Reynolds,Foul,31,48
+17:56,LSU,Naz Reid,Missed Free Throw,31,48
+17:56,LSU,None,Team Rebound,31,48
+17:56,LSU,Naz Reid,Free Throw,31,49
+17:29,Yale,Miye Oni,Missed Jumper,31,49
+17:29,Yale,Jordan Bruner,Offensive Rebound,31,49
+17:29,Yale,None,None,33,49
+17:18,LSU,Tremont Waters,Missed Jumper,33,49
+17:18,Yale,Jordan Bruner,Defensive Rebound,33,49
+17:11,Yale,Alex Copeland,Jumper,35,49
+16:54,LSU,None,None,35,49
+16:37,LSU,Skylar Mays,Missed Three Point Jumper,35,49
+16:37,Yale,Miye Oni,Block,35,49
+16:37,LSU,LSU,Offensive Rebound,35,49
+16:26,LSU,LSU ,Turnover,35,49
+16:20,Yale,Alex Copeland,Jumper,37,49
+15:58,LSU,Tremont Waters,Missed Jumper,37,49
+15:58,Yale,Jordan Bruner,Defensive Rebound,37,49
+15:51,Yale,Trey Phills,Turnover,37,49
+15:51,LSU,Naz Reid,Steal,37,49
+15:42,LSU,Naz Reid,Layup,37,51
+15:42,Yale,Paul Atkinson,Foul,37,51
+15:42,LSU,None,None,37,51
+15:42,LSU,Naz Reid,Missed Free Throw,37,51
+15:42,Yale,Azar Swain,Defensive Rebound,37,51
+15:31,Yale,Miye Oni,Missed Three Point Jumper,37,51
+15:31,LSU,Skylar Mays,Defensive Rebound,37,51
+15:19,LSU,Naz Reid,Turnover,37,51
+15:19,Yale,Miye Oni,Steal,37,51
+15:13,Yale,Alex Copeland,Layup,39,51
+14:58,LSU,Javonte Smart,Missed Jumper,39,51
+14:58,Yale,Azar Swain,Defensive Rebound,39,51
+14:49,Yale,Miye Oni,Missed Jumper,39,51
+14:49,Yale,Jordan Bruner,Offensive Rebound,39,51
+14:49,Yale,Jordan Bruner,Layup,41,51
+14:49,LSU,Skylar Mays,Foul,41,51
+14:49,Yale,Jordan Bruner,Missed Free Throw,41,51
+14:49,LSU,Darius Days,Defensive Rebound,41,51
+14:26,Yale,Paul Atkinson,Foul,41,51
+14:26,LSU,Skylar Mays,Free Throw,41,52
+14:26,LSU,Skylar Mays,Free Throw,41,53
+14:06,Yale,Alex Copeland,Turnover,41,53
+14:06,LSU,Javonte Smart,Steal,41,53
+13:49,LSU,Tremont Waters,Missed Three Point Jumper,41,53
+13:49,Yale,Austin Williams,Defensive Rebound,41,53
+13:32,Yale,Jordan Bruner,Missed Three Point Jumper,41,53
+13:32,LSU,Kavell Bigby-Williams,Defensive Rebound,41,53
+13:19,LSU,Skylar Mays,Missed Layup,41,53
+13:19,Yale,Azar Swain,Defensive Rebound,41,53
+13:13,Yale,Azar Swain,Jumper,43,53
+13:01,LSU,Tremont Waters,Turnover,43,53
+13:01,Yale,Azar Swain,Steal,43,53
+12:56,Yale,Azar Swain,Missed Three Point Jumper,43,53
+12:56,LSU,Javonte Smart,Defensive Rebound,43,53
+12:34,LSU,Javonte Smart,Jumper,43,55
+12:14,Yale,Alex Copeland,Three Point Jumper,46,55
+11:45,LSU,Javonte Smart,Missed Jumper,46,55
+11:45,LSU,Kavell Bigby-Williams,Offensive Rebound,46,55
+11:39,LSU,Kavell Bigby-Williams,Layup,46,57
+11:30,LSU,None,None,46,57
+11:29,Yale,Azar Swain,Missed Three Point Jumper,46,57
+11:29,LSU,Marlon Taylor,Defensive Rebound,46,57
+11:05,LSU,Javonte Smart,Missed Jumper,46,57
+11:05,Yale,Blake Reynolds,Defensive Rebound,46,57
+10:53,Yale,Alex Copeland,Missed Jumper,46,57
+10:53,LSU,Naz Reid,Defensive Rebound,46,57
+10:37,LSU,Tremont Waters,Missed Jumper,46,57
+10:37,Yale,Blake Reynolds,Defensive Rebound,46,57
+10:24,Yale,Paul Atkinson,Layup,48,57
+10:24,LSU,Kavell Bigby-Williams,Foul,48,57
+10:24,Yale,Paul Atkinson,Free Throw,49,57
+10:09,LSU,Javonte Smart,Turnover,49,57
+10:09,Yale,Alex Copeland,Steal,49,57
+10:09,LSU,Javonte Smart,Foul,49,57
+10:08,Yale,Alex Copeland,Missed Free Throw,49,57
+10:08,Yale,None,Team Rebound,49,57
+10:08,Yale,Alex Copeland,Free Throw,50,57
+9:50,Yale,Miye Oni,Missed Three Point Jumper,50,57
+9:50,LSU,Emmitt Williams,Block,50,57
+9:50,Yale,Yale,Offensive Rebound,50,57
+9:48,Yale,Miye Oni,Turnover,50,57
+9:48,LSU,Marlon Taylor,Steal,50,57
+9:42,LSU,Javonte Smart,Layup,50,59
+9:24,Yale,Paul Atkinson,Dunk,52,59
+9:16,LSU,Naz Reid,Missed Three Point Jumper,52,59
+9:16,LSU,Naz Reid,Offensive Rebound,52,59
+9:05,LSU,Skylar Mays,Layup,52,61
+8:55,Yale,Blake Reynolds,Missed Three Point Jumper,52,61
+8:55,LSU,Javonte Smart,Defensive Rebound,52,61
+8:23,LSU,Naz Reid,Turnover,52,61
+8:23,LSU,Naz Reid,Foul,52,61
+8:10,Yale,Blake Reynolds,Layup,54,61
+7:52,LSU,Skylar Mays,Missed Three Point Jumper,54,61
+7:52,LSU,Naz Reid,Offensive Rebound,54,61
+7:45,LSU,Javonte Smart,Missed Three Point Jumper,54,61
+7:45,Yale,Miye Oni,Defensive Rebound,54,61
+7:38,Yale,Azar Swain,Missed Three Point Jumper,54,61
+7:38,LSU,Emmitt Williams,Defensive Rebound,54,61
+7:27,LSU,None,None,54,61
+7:20,LSU,Naz Reid,Jumper,54,63
+7:06,Yale,Jordan Bruner,Turnover,54,63
+7:06,LSU,Javonte Smart,Steal,54,63
+6:57,LSU,Marlon Taylor,Missed Jumper,54,63
+6:57,LSU,LSU,Offensive Rebound,54,63
+6:36,LSU,Javonte Smart,Missed Three Point Jumper,54,63
+6:36,Yale,Yale,Defensive Rebound,54,63
+6:22,Yale,Miye Oni,Missed Three Point Jumper,54,63
+6:22,LSU,Javonte Smart,Defensive Rebound,54,63
+5:56,LSU,Javonte Smart,Missed Jumper,54,63
+5:56,Yale,Paul Atkinson,Block,54,63
+5:56,Yale,Paul Atkinson,Defensive Rebound,54,63
+5:43,Yale,Alex Copeland,Turnover,54,63
+5:43,LSU,Marlon Taylor,Steal,54,63
+5:36,LSU,Javonte Smart,Missed Three Point Jumper,54,63
+5:36,Yale,Yale,Defensive Rebound,54,63
+5:17,LSU,Marlon Taylor,Foul,54,63
+5:14,Yale,Paul Atkinson,Missed Jumper,54,63
+5:14,LSU,Naz Reid,Defensive Rebound,54,63
+4:53,LSU,Naz Reid,Missed Three Point Jumper,54,63
+4:53,Yale,Azar Swain,Defensive Rebound,54,63
+4:51,LSU,Kavell Bigby-Williams,Foul,54,63
+4:51,Yale,Azar Swain,Free Throw,55,63
+4:51,Yale,Azar Swain,Free Throw,56,63
+4:33,LSU,Emmitt Williams,Dunk,56,65
+4:06,Yale,Alex Copeland,Missed Three Point Jumper,56,65
+4:06,LSU,Emmitt Williams,Defensive Rebound,56,65
+3:43,LSU,Tremont Waters,Turnover,56,65
+3:43,LSU,None,None,56,65
+3:33,Yale,Blake Reynolds,Jumper,58,65
+3:00,LSU,Tremont Waters,Missed Three Point Jumper,58,65
+3:00,Yale,Miye Oni,Defensive Rebound,58,65
+2:52,Yale,Jordan Bruner,Missed Jumper,58,65
+2:52,LSU,Skylar Mays,Defensive Rebound,58,65
+2:42,LSU,Skylar Mays,Turnover,58,65
+2:42,Yale,Jordan Bruner,Steal,58,65
+2:35,Yale,Jordan Bruner,Layup,60,65
+2:15,LSU,Tremont Waters,Missed Jumper,60,65
+2:15,LSU,Naz Reid,Offensive Rebound,60,65
+2:09,LSU,Naz Reid,Layup,60,67
+1:57,Yale,Miye Oni,Missed Three Point Jumper,60,67
+1:57,LSU,Skylar Mays,Defensive Rebound,60,67
+1:33,Yale,Blake Reynolds,Foul,60,67
+1:33,LSU,Skylar Mays,Missed Free Throw,60,67
+1:33,LSU,None,Team Rebound,60,67
+1:33,LSU,Skylar Mays,Free Throw,60,68
+1:27,Yale,Miye Oni,Dunk,62,68
+1:25,Yale,None,None,62,68
+1:18,LSU,Tremont Waters,Missed Jumper,62,68
+1:18,Yale,Jordan Bruner,Block,62,68
+1:18,Yale,Alex Copeland,Defensive Rebound,62,68
+1:08,Yale,Azar Swain,Missed Three Point Jumper,62,68
+1:08,LSU,Skylar Mays,Block,62,68
+1:08,Yale,Jordan Bruner,Offensive Rebound,62,68
+1:03,Yale,Miye Oni,Missed Three Point Jumper,62,68
+1:03,LSU,Javonte Smart,Defensive Rebound,62,68
+1:02,Yale,Miye Oni,Foul,62,68
+0:51,LSU,Javonte Smart,Jumper,62,70
+0:42,Yale,Alex Copeland,Three Point Jumper,65,70
+0:41,Yale,None,None,65,70
+0:40,Yale,Azar Swain,Foul,65,70
+0:40,LSU,Naz Reid,Free Throw,65,71
+0:40,LSU,Naz Reid,Free Throw,65,72
+0:33,Yale,Jordan Bruner,Three Point Jumper,68,72
+0:30,Yale,None,None,68,72
+0:29,Yale,Azar Swain,Foul,68,72
+0:29,LSU,Tremont Waters,Free Throw,68,73
+0:29,LSU,Tremont Waters,Free Throw,68,74
+0:25,Yale,Miye Oni,Missed Three Point Jumper,68,74
+0:25,LSU,Javonte Smart,Defensive Rebound,68,74
+0:20,Yale,Jordan Bruner,Foul,68,74
+0:20,LSU,Javonte Smart,Free Throw,68,75
+0:20,LSU,Javonte Smart,Missed Free Throw,68,75
+0:20,Yale,Blake Reynolds,Defensive Rebound,68,75
+0:15,Yale,Alex Copeland,Three Point Jumper,71,75
+0:12,Yale,Miye Oni,Foul,71,75
+0:12,LSU,Skylar Mays,Free Throw,71,76
+0:12,LSU,Skylar Mays,Free Throw,71,77
+0:09,Yale,Jordan Bruner,Three Point Jumper,74,77
+0:08,Yale,Miye Oni,Foul,74,77
+0:08,LSU,Skylar Mays,Free Throw,74,78
+0:08,LSU,Skylar Mays,Free Throw,74,79
+0:06,Yale,Jordan Bruner,Missed Three Point Jumper,74,79
+0:06,Yale,Alex Copeland,Offensive Rebound,74,79
+0:03,Yale,Alex Copeland,Missed Three Point Jumper,74,79
+0:03,LSU,LSU,Defensive Rebound,74,79
+0:00,LSU,None,None,74,79

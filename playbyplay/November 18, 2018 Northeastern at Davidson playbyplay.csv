@@ -1,0 +1,301 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Davidson,None,None,0,0
+19:43,Northeastern,Anthony Green,Jumper,2,0
+19:35,Davidson,Luke Frampton,Missed Three Point Jumper,2,0
+19:35,Northeastern,Myles Franklin,Defensive Rebound,2,0
+19:18,Northeastern,Donnell Gresham Jr.,Missed Three Point Jumper,2,0
+19:18,Davidson,Luka Brajkovic,Defensive Rebound,2,0
+19:02,Davidson,KiShawn Pritchett,Three Point Jumper,2,3
+18:37,Northeastern,Anthony Green,Missed Layup,2,3
+18:37,Davidson,Luka Brajkovic,Defensive Rebound,2,3
+18:17,Davidson,KiShawn Pritchett,Turnover,2,3
+18:17,Northeastern,Bolden Brace,Steal,2,3
+18:10,Davidson,Jon Axel Gudmundsson,Foul,2,3
+18:04,Northeastern,Bolden Brace,Layup,4,3
+17:53,Davidson,Luka Brajkovic,Layup,4,5
+17:30,Northeastern,Myles Franklin,Missed Three Point Jumper,4,5
+17:30,Davidson,Luka Brajkovic,Defensive Rebound,4,5
+17:09,Davidson,KiShawn Pritchett,Missed Three Point Jumper,4,5
+17:09,Northeastern,Donnell Gresham Jr.,Defensive Rebound,4,5
+16:46,Northeastern,Bolden Brace,Missed Jumper,4,5
+16:46,Davidson,KiShawn Pritchett,Defensive Rebound,4,5
+16:25,Northeastern,Vasa Pusica,Foul,4,5
+16:18,Davidson,Luka Brajkovic,Missed Jumper,4,5
+16:18,Northeastern,Northeastern,Defensive Rebound,4,5
+15:48,Northeastern,Tomas Murphy,Missed Three Point Jumper,4,5
+15:48,Davidson,Carter Collins,Defensive Rebound,4,5
+15:18,Davidson,Jon Axel Gudmundsson,Turnover,4,5
+15:18,Northeastern,Tomas Murphy,Steal,4,5
+15:12,Davidson,Kellan Grady,Foul,4,5
+15:12,Davidson,None,None,4,5
+15:12,Northeastern,Donnell Gresham Jr.,Free Throw,5,5
+15:12,Northeastern,Donnell Gresham Jr.,Free Throw,6,5
+14:49,Davidson,Luke Frampton,Missed Jumper,6,5
+14:49,Northeastern,Vasa Pusica,Defensive Rebound,6,5
+14:21,Northeastern,Jordan Roland,Missed Three Point Jumper,6,5
+14:21,Davidson,Kellan Grady,Defensive Rebound,6,5
+14:04,Davidson,Kellan Grady,Missed Three Point Jumper,6,5
+14:04,Northeastern,Vasa Pusica,Defensive Rebound,6,5
+13:54,Northeastern,Tomas Murphy,Missed Jumper,6,5
+13:54,Davidson,Nathan Ekwu,Defensive Rebound,6,5
+13:43,Davidson,Nathan Ekwu,Layup,6,7
+13:14,Northeastern,Jordan Roland,Three Point Jumper,9,7
+12:54,Davidson,Jon Axel Gudmundsson,Missed Jumper,9,7
+12:54,Northeastern,Tomas Murphy,Defensive Rebound,9,7
+12:44,Northeastern,Jason Strong,Missed Three Point Jumper,9,7
+12:44,Davidson,Nathan Ekwu,Defensive Rebound,9,7
+12:35,Davidson,Carter Collins,Missed Layup,9,7
+12:35,Northeastern,Donnell Gresham Jr.,Defensive Rebound,9,7
+12:34,Davidson,Jon Axel Gudmundsson,Foul,9,7
+12:22,Northeastern,Vasa Pusica,Turnover,9,7
+12:07,Davidson,David Czerapowicz,Three Point Jumper,9,10
+11:35,Northeastern,Vasa Pusica,Missed Three Point Jumper,9,10
+11:35,Davidson,Davidson,Defensive Rebound,9,10
+11:27,Davidson,None,None,9,10
+11:13,Davidson,David Czerapowicz,Three Point Jumper,9,13
+10:41,Davidson,KiShawn Pritchett,Foul,9,13
+10:36,Davidson,David Czerapowicz,Foul,9,13
+10:31,Northeastern,Bolden Brace,Three Point Jumper,12,13
+10:18,Davidson,Kellan Grady,Turnover,12,13
+10:18,Northeastern,Jordan Roland,Steal,12,13
+10:12,Northeastern,Jordan Roland,Missed Three Point Jumper,12,13
+10:12,Davidson,Kellan Grady,Defensive Rebound,12,13
+9:46,Davidson,Carter Collins,Offensive Rebound,12,13
+9:46,Davidson,KiShawn Pritchett,Missed Jumper,12,13
+9:46,Davidson,None,None,12,15
+9:20,Northeastern,Bolden Brace,Jumper,14,15
+8:59,Davidson,Kellan Grady,Missed Three Point Jumper,14,15
+8:59,Northeastern,Tomas Murphy,Defensive Rebound,14,15
+8:50,Northeastern,Shaquille Walters,Missed Layup,14,15
+8:50,Northeastern,Shaquille Walters,Offensive Rebound,14,15
+8:43,Northeastern,Shaquille Walters,Layup,16,15
+8:26,Davidson,Dusan Kovacevic,Jumper,16,17
+8:13,Northeastern,Bolden Brace,Missed Three Point Jumper,16,17
+8:13,Davidson,Kellan Grady,Defensive Rebound,16,17
+7:54,Davidson,Kellan Grady,Turnover,16,17
+7:54,Northeastern,Jordan Roland,Steal,16,17
+7:48,Northeastern,Bolden Brace,Layup,18,17
+7:27,Davidson,Carter Collins,Three Point Jumper,18,20
+7:14,Northeastern,Shaquille Walters,Turnover,18,20
+7:14,Davidson,None,None,18,20
+7:14,Davidson,Kellan Grady,Steal,18,20
+7:14,Davidson,None,None,18,20
+7:02,Northeastern,Myles Franklin,Foul,18,20
+6:47,Davidson,Luke Frampton,Three Point Jumper,18,23
+6:32,Northeastern,Vasa Pusica,Missed Three Point Jumper,18,23
+6:32,Davidson,Luke Frampton,Defensive Rebound,18,23
+6:20,Davidson,David Czerapowicz,Missed Three Point Jumper,18,23
+6:20,Davidson,Luka Brajkovic,Offensive Rebound,18,23
+6:20,Northeastern,Shaquille Walters,Foul,18,23
+6:20,Davidson,Luka Brajkovic,Missed Free Throw,18,23
+6:20,Davidson,None,Team Rebound,18,23
+6:20,Davidson,Luka Brajkovic,Free Throw,18,24
+6:00,Northeastern,Bolden Brace,Turnover,18,24
+5:49,Northeastern,Jeremy Miller,Foul,18,24
+5:44,Davidson,Luke Frampton,Missed Three Point Jumper,18,24
+5:44,Davidson,Carter Collins,Offensive Rebound,18,24
+5:37,Davidson,David Czerapowicz,Missed Three Point Jumper,18,24
+5:37,Northeastern,Donnell Gresham Jr.,Defensive Rebound,18,24
+5:12,Northeastern,Bolden Brace,Missed Three Point Jumper,18,24
+5:12,Davidson,Luka Brajkovic,Defensive Rebound,18,24
+4:58,Davidson,David Czerapowicz,Missed Three Point Jumper,18,24
+4:58,Northeastern,Bolden Brace,Defensive Rebound,18,24
+4:43,Northeastern,Donnell Gresham Jr.,Three Point Jumper,21,24
+4:08,Davidson,Kellan Grady,Missed Three Point Jumper,21,24
+4:08,Northeastern,Jeremy Miller,Defensive Rebound,21,24
+3:52,Northeastern,Donnell Gresham Jr.,Missed Three Point Jumper,21,24
+3:52,Davidson,Luka Brajkovic,Defensive Rebound,21,24
+3:32,Davidson,Luka Brajkovic,Missed Jumper,21,24
+3:32,Northeastern,Donnell Gresham Jr.,Defensive Rebound,21,24
+3:24,Northeastern,Donnell Gresham Jr.,Missed Jumper,21,24
+3:24,Davidson,Luke Frampton,Block,21,24
+3:24,Northeastern,Northeastern,Offensive Rebound,21,24
+3:23,Davidson,None,None,21,24
+3:08,Northeastern,Jeremy Miller,Layup,23,24
+2:49,Davidson,Kellan Grady,Jumper,23,26
+2:23,Northeastern,Jeremy Miller,Three Point Jumper,26,26
+2:01,Davidson,Kellan Grady,Turnover,26,26
+1:55,Northeastern,Myles Franklin,Missed Three Point Jumper,26,26
+1:55,Davidson,Kellan Grady,Defensive Rebound,26,26
+1:33,Davidson,Dusan Kovacevic,Turnover,26,26
+1:24,Northeastern,Jordan Roland,Missed Three Point Jumper,26,26
+1:24,Davidson,Dusan Kovacevic,Defensive Rebound,26,26
+1:03,Davidson,Dusan Kovacevic,Missed Three Point Jumper,26,26
+1:03,Davidson,Carter Collins,Offensive Rebound,26,26
+0:58,Davidson,Carter Collins,Missed Layup,26,26
+0:58,Northeastern,Donnell Gresham Jr.,Defensive Rebound,26,26
+0:51,Northeastern,Myles Franklin,Turnover,26,26
+0:51,Davidson,Carter Collins,Steal,26,26
+0:47,Davidson,David Czerapowicz,Layup,26,28
+0:30,Northeastern,Vasa Pusica,Missed Three Point Jumper,26,28
+0:30,Northeastern,Jeremy Miller,Offensive Rebound,26,28
+0:01,Northeastern,Vasa Pusica,Layup,28,28
+0:00,Davidson,None,None,28,28
+20:00,Davidson,None,None,28,28
+19:41,Davidson,Luka Brajkovic,Turnover,28,28
+19:41,Northeastern,Donnell Gresham Jr.,Steal,28,28
+19:28,Northeastern,Vasa Pusica,Turnover,28,28
+19:28,Davidson,Luka Brajkovic,Steal,28,28
+19:21,Davidson,Davidson,Offensive Rebound,28,28
+19:21,Northeastern,Bolden Brace,Foul,28,28
+19:09,Davidson,Jon Axel Gudmundsson,Missed Three Point Jumper,28,28
+19:09,Northeastern,Myles Franklin,Defensive Rebound,28,28
+18:50,Northeastern,Anthony Green,Dunk,30,28
+18:25,Davidson,Luke Frampton,Three Point Jumper,30,31
+18:25,Northeastern,Vasa Pusica,Foul,30,31
+18:25,Davidson,Luke Frampton,Free Throw,30,32
+18:06,Northeastern,Vasa Pusica,Turnover,30,32
+18:06,Davidson,Kellan Grady,Steal,30,32
+18:02,Davidson,Kellan Grady,Layup,30,34
+17:47,Northeastern,Bolden Brace,Missed Three Point Jumper,30,34
+17:47,Davidson,Kellan Grady,Defensive Rebound,30,34
+17:37,Davidson,KiShawn Pritchett,Foul,30,34
+17:37,Davidson,KiShawn Pritchett,Turnover,30,34
+17:25,Northeastern,Vasa Pusica,Missed Layup,30,34
+17:25,Northeastern,Anthony Green,Offensive Rebound,30,34
+17:16,Northeastern,Anthony Green,Dunk,32,34
+17:07,Davidson,Jon Axel Gudmundsson,Jumper,32,36
+16:44,Northeastern,Anthony Green,Dunk,34,36
+16:23,Davidson,Kellan Grady,Missed Layup,34,36
+16:23,Northeastern,Myles Franklin,Defensive Rebound,34,36
+16:13,Northeastern,Vasa Pusica,Missed Three Point Jumper,34,36
+16:13,Davidson,Luka Brajkovic,Defensive Rebound,34,36
+15:55,Davidson,Luka Brajkovic,Layup,34,38
+15:30,Northeastern,Vasa Pusica,Turnover,34,38
+15:30,Davidson,KiShawn Pritchett,Steal,34,38
+15:25,Davidson,Kellan Grady,Layup,34,40
+15:25,Northeastern,Vasa Pusica,Foul,34,40
+15:25,Davidson,None,None,34,40
+15:25,Davidson,Kellan Grady,Missed Free Throw,34,40
+15:25,Northeastern,Tomas Murphy,Defensive Rebound,34,40
+15:08,Northeastern,Tomas Murphy,Missed Jumper,34,40
+15:08,Davidson,Carter Collins,Defensive Rebound,34,40
+14:53,Northeastern,Tomas Murphy,Foul,34,40
+14:53,Davidson,Luka Brajkovic,Free Throw,34,41
+14:53,Davidson,Luka Brajkovic,Free Throw,34,42
+14:39,Northeastern,Shaquille Walters,Missed Jumper,34,42
+14:39,Davidson,Carter Collins,Defensive Rebound,34,42
+14:26,Davidson,Jon Axel Gudmundsson,Jumper,34,44
+14:17,Northeastern,None,None,34,44
+14:17,Davidson,None,None,34,44
+14:09,Northeastern,Jordan Roland,Three Point Jumper,37,44
+13:47,Davidson,Luka Brajkovic,Jumper,37,46
+13:35,Northeastern,Jordan Roland,Missed Three Point Jumper,37,46
+13:35,Davidson,Davidson,Defensive Rebound,37,46
+13:07,Davidson,Luka Brajkovic,Three Point Jumper,37,49
+12:50,Northeastern,Myles Franklin,Missed Three Point Jumper,37,49
+12:50,Northeastern,Bolden Brace,Offensive Rebound,37,49
+12:47,Davidson,Jon Axel Gudmundsson,Foul,37,49
+12:47,Northeastern,Jeremy Miller,Foul,37,49
+12:47,Davidson,Luke Frampton,Free Throw,37,50
+12:47,Davidson,Luke Frampton,Free Throw,37,51
+12:27,Davidson,Luka Brajkovic,Dunk,37,53
+12:01,Northeastern,Tomas Murphy,Missed Layup,37,53
+12:01,Northeastern,Tomas Murphy,Offensive Rebound,37,53
+11:54,Northeastern,Tomas Murphy,Layup,39,53
+11:41,Davidson,Kellan Grady,Layup,39,55
+11:24,Northeastern,Vasa Pusica,Turnover,39,55
+11:24,Davidson,Kellan Grady,Steal,39,55
+11:24,Davidson,None,None,39,55
+11:07,Davidson,Luke Frampton,Missed Three Point Jumper,39,55
+11:07,Davidson,Dusan Kovacevic,Offensive Rebound,39,55
+11:00,Davidson,David Czerapowicz,Missed Three Point Jumper,39,55
+11:00,Northeastern,Jordan Roland,Defensive Rebound,39,55
+10:49,Northeastern,Donnell Gresham Jr.,Jumper,41,55
+10:34,Davidson,Dusan Kovacevic,Turnover,41,55
+10:34,Northeastern,Myles Franklin,Steal,41,55
+10:23,Davidson,Dusan Kovacevic,Foul,41,55
+9:59,Northeastern,Bolden Brace,Missed Three Point Jumper,41,55
+9:59,Northeastern,Jordan Roland,Offensive Rebound,41,55
+9:49,Northeastern,Jordan Roland,Missed Jumper,41,55
+9:49,Davidson,David Czerapowicz,Defensive Rebound,41,55
+9:46,Davidson,Carter Collins,Three Point Jumper,41,58
+9:18,Northeastern,Anthony Green,Turnover,41,58
+9:07,Davidson,KiShawn Pritchett,Foul,41,58
+9:07,Davidson,KiShawn Pritchett,Turnover,41,58
+8:55,Northeastern,Jason Strong,Three Point Jumper,44,58
+8:32,Davidson,Luka Brajkovic,Turnover,44,58
+8:15,Northeastern,Myles Franklin,Missed Jumper,44,58
+8:15,Northeastern,Myles Franklin,Offensive Rebound,44,58
+8:10,Northeastern,Myles Franklin,Missed Jumper,44,58
+8:10,Davidson,Carter Collins,Defensive Rebound,44,58
+7:55,Davidson,Jon Axel Gudmundsson,Missed Jumper,44,58
+7:55,Northeastern,Tomas Murphy,Defensive Rebound,44,58
+7:45,Davidson,None,None,44,58
+7:31,Davidson,Luka Brajkovic,Foul,44,58
+7:31,Northeastern,Myles Franklin,Free Throw,45,58
+7:31,Northeastern,Myles Franklin,Free Throw,46,58
+7:12,Davidson,Luka Brajkovic,Missed Jumper,46,58
+7:12,Davidson,Davidson,Offensive Rebound,46,58
+6:53,Davidson,Kellan Grady,Missed Three Point Jumper,46,58
+6:53,Northeastern,Donnell Gresham Jr.,Defensive Rebound,46,58
+6:29,Northeastern,Donnell Gresham Jr.,Missed Three Point Jumper,46,58
+6:29,Davidson,Luka Brajkovic,Defensive Rebound,46,58
+6:17,Davidson,Jon Axel Gudmundsson,Missed Layup,46,58
+6:17,Northeastern,Donnell Gresham Jr.,Defensive Rebound,46,58
+6:07,Northeastern,Tomas Murphy,Layup,48,58
+6:07,Davidson,Carter Collins,Foul,48,58
+6:07,Northeastern,Tomas Murphy,Missed Free Throw,48,58
+6:07,Davidson,Luka Brajkovic,Defensive Rebound,48,58
+5:41,Davidson,Jon Axel Gudmundsson,Three Point Jumper,48,61
+5:11,Northeastern,Jason Strong,Three Point Jumper,51,61
+4:43,Northeastern,Myles Franklin,Foul,51,61
+4:43,Davidson,Jon Axel Gudmundsson,Missed Free Throw,51,61
+4:43,Davidson,None,Team Rebound,51,61
+4:43,Davidson,Jon Axel Gudmundsson,Free Throw,51,62
+4:43,Davidson,Jon Axel Gudmundsson,Free Throw,51,63
+4:31,Davidson,Carter Collins,Foul,51,63
+4:31,Northeastern,Donnell Gresham Jr.,Free Throw,52,63
+4:31,Northeastern,Donnell Gresham Jr.,Free Throw,53,63
+4:18,Northeastern,Myles Franklin,Foul,53,63
+4:18,Davidson,Carter Collins,Missed Free Throw,53,63
+4:18,Northeastern,Donnell Gresham Jr.,Defensive Rebound,53,63
+4:06,Northeastern,Myles Franklin,Turnover,53,63
+3:53,Davidson,Luke Frampton,Turnover,53,63
+3:53,Northeastern,Bolden Brace,Steal,53,63
+3:45,Northeastern,Jason Strong,Three Point Jumper,56,63
+3:11,Davidson,Luke Frampton,Missed Jumper,56,63
+3:11,Davidson,Luka Brajkovic,Offensive Rebound,56,63
+3:06,Davidson,Luka Brajkovic,Dunk,56,65
+3:06,Northeastern,Jason Strong,Foul,56,65
+3:06,Davidson,None,None,56,65
+3:06,Davidson,Luka Brajkovic,Free Throw,56,66
+2:50,Northeastern,Jason Strong,Missed Three Point Jumper,56,66
+2:50,Northeastern,Tomas Murphy,Offensive Rebound,56,66
+2:44,Northeastern,Donnell Gresham Jr.,Missed Three Point Jumper,56,66
+2:44,Davidson,Kellan Grady,Defensive Rebound,56,66
+2:22,Davidson,Carter Collins,Turnover,56,66
+2:22,Northeastern,Donnell Gresham Jr.,Steal,56,66
+2:16,Northeastern,Tomas Murphy,Missed Layup,56,66
+2:16,Davidson,Luka Brajkovic,Defensive Rebound,56,66
+2:07,Davidson,Jon Axel Gudmundsson,Missed Layup,56,66
+2:07,Northeastern,Donnell Gresham Jr.,Defensive Rebound,56,66
+1:59,Northeastern,Bolden Brace,Three Point Jumper,59,66
+1:56,Northeastern,None,None,59,66
+1:26,Davidson,Davidson ,Turnover,59,66
+1:19,Northeastern,Donnell Gresham Jr.,Missed Layup,59,66
+1:19,Davidson,Carter Collins,Defensive Rebound,59,66
+0:53,Davidson,Kellan Grady,Missed Layup,59,66
+0:53,Northeastern,Tomas Murphy,Defensive Rebound,59,66
+0:49,Northeastern,Donnell Gresham Jr.,Turnover,59,66
+0:49,Davidson,Luke Frampton,Steal,59,66
+0:43,Northeastern,Jason Strong,Foul,59,66
+0:43,Davidson,Luke Frampton,Free Throw,59,67
+0:43,Davidson,Luke Frampton,Free Throw,59,68
+0:33,Northeastern,Bolden Brace,Missed Three Point Jumper,59,68
+0:33,Davidson,Davidson,Defensive Rebound,59,68
+0:25,Northeastern,Bolden Brace,Foul,59,68
+0:25,Davidson,KiShawn Pritchett,Missed Free Throw,59,68
+0:25,Davidson,None,Team Rebound,59,68
+0:25,Davidson,KiShawn Pritchett,Free Throw,59,69
+0:24,Northeastern,Bolden Brace,Turnover,59,69
+0:24,Davidson,Luke Frampton,Steal,59,69
+0:20,Northeastern,Donnell Gresham Jr.,Foul,59,69
+0:20,Davidson,Jon Axel Gudmundsson,Free Throw,59,70
+0:20,Davidson,Jon Axel Gudmundsson,Free Throw,59,71
+0:18,Northeastern,Donnell Gresham Jr.,Missed Layup,59,71
+0:18,Davidson,KiShawn Pritchett,Block,59,71
+0:18,Northeastern,Donnell Gresham Jr.,Offensive Rebound,59,71
+0:07,Northeastern,Myles Franklin,Missed Three Point Jumper,59,71
+0:07,Davidson,Jon Axel Gudmundsson,Defensive Rebound,59,71
+0:00,Davidson,None,None,59,71

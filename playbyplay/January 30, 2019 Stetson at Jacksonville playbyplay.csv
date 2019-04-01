@@ -1,0 +1,333 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:46,Jacksonville,Dave Bell,Turnover,0,0
+19:46,Stetson,Abayomi Iyiola,Steal,0,0
+19:23,Stetson,Kenny Aninye,Jumper,2,0
+18:55,Jacksonville,JD Notae,Three Point Jumper,2,3
+18:40,Stetson,Leo Goodman,Jumper,4,3
+18:25,Jacksonville,JD Notae,Missed Three Point Jumper,4,3
+18:19,Jacksonville,None,Team Rebound,4,3
+18:14,Jacksonville,Dave Bell,Turnover,4,3
+18:02,Stetson,Jahlil Rawley,Turnover,4,3
+17:41,Jacksonville,JD Notae,Jumper,4,5
+17:13,Stetson,Jahlil Rawley,Missed Jumper,4,5
+17:08,Jacksonville,Tyreese Davis,Defensive Rebound,4,5
+17:03,Jacksonville,Aamahne Santos,Missed Three Point Jumper,4,5
+16:59,Jacksonville,Jace Hogan,Offensive Rebound,4,5
+16:45,Jacksonville,Dave Bell,Dunk,4,7
+16:32,Stetson,Kenny Aninye,Layup,6,7
+16:17,Jacksonville,JD Notae,Three Point Jumper,6,10
+15:56,Stetson,Keith Matthews,Missed Three Point Jumper,6,10
+15:52,Jacksonville,Jace Hogan,Defensive Rebound,6,10
+15:48,Jacksonville,JD Notae,Missed Three Point Jumper,6,10
+15:44,Jacksonville,Jace Hogan,Offensive Rebound,6,10
+15:43,Jacksonville,Jace Hogan,Turnover,6,10
+15:43,Stetson,Kenny Aninye,Steal,6,10
+15:29,Stetson,Leo Goodman,Three Point Jumper,9,10
+15:07,Jacksonville,JD Notae,Missed Three Point Jumper,9,10
+15:04,Stetson,Jahlil Rawley,Defensive Rebound,9,10
+15:00,Stetson,Leo Goodman,Three Point Jumper,12,10
+14:36,Jacksonville,JD Notae,Missed Layup,12,10
+14:31,Stetson,Abayomi Iyiola,Defensive Rebound,12,10
+14:25,Stetson,Abayomi Iyiola,Layup,14,10
+14:22,Jacksonville,None,None,14,10
+14:07,Jacksonville,Tanner Rubio,Three Point Jumper,14,13
+13:59,Stetson,Jahlil Rawley,Turnover,14,13
+13:59,Jacksonville,Tanner Rubio,Steal,14,13
+13:44,Stetson,Abayomi Iyiola,Foul,14,13
+13:44,Jacksonville,Bryce Workman,Free Throw,14,14
+13:44,Jacksonville,Bryce Workman,Free Throw,14,15
+13:30,Stetson,Keith Matthews,Turnover,14,15
+13:12,Jacksonville,Tyreese Davis,Three Point Jumper,14,18
+12:51,Stetson,Christiaan Jones,Missed Jumper,14,18
+12:47,Jacksonville,Bryce Workman,Defensive Rebound,14,18
+12:31,Jacksonville,Jalyn Hinton,Dunk,14,20
+12:06,Stetson,Abayomi Iyiola,Missed Layup,14,20
+12:03,Jacksonville,Tyreese Davis,Defensive Rebound,14,20
+11:49,Stetson,Kenny Aninye,Foul,14,20
+11:49,Jacksonville,None,None,14,20
+11:49,Jacksonville,Jalyn Hinton,Missed Free Throw,14,20
+11:49,Jacksonville,None,Team Rebound,14,20
+11:49,Jacksonville,Jalyn Hinton,Free Throw,14,21
+11:38,Stetson,Marques Sumner,Missed Three Point Jumper,14,21
+11:33,Stetson,Clay Verk,Offensive Rebound,14,21
+11:17,Stetson,Christiaan Jones,Missed Three Point Jumper,14,21
+11:14,Jacksonville,Bryce Workman,Defensive Rebound,14,21
+11:09,Jacksonville,Tanner Rubio,Missed Three Point Jumper,14,21
+11:05,Jacksonville,Aamahne Santos,Offensive Rebound,14,21
+10:59,Jacksonville,Jalyn Hinton,Dunk,14,23
+10:34,Stetson,Keith Matthews,Missed Jumper,14,23
+10:30,Jacksonville,Aamahne Santos,Defensive Rebound,14,23
+10:28,Jacksonville,Jalyn Hinton,Turnover,14,23
+10:16,Stetson,Kenny Aninye,Jumper,16,23
+9:55,Jacksonville,DeAnthony McCallum,Missed Jumper,16,23
+9:51,Stetson,Keith Matthews,Defensive Rebound,16,23
+9:47,Stetson,Keith Matthews,Layup,18,23
+9:29,Jacksonville,Jalyn Hinton,Dunk,18,25
+9:12,Jacksonville,Bryce Workman,Foul,18,25
+9:12,Stetson,None,None,18,25
+9:03,Stetson,Marques Sumner,Missed Jumper,18,25
+9:03,Jacksonville,Jalyn Hinton,Block,18,25
+8:58,Jacksonville,Tyreese Davis,Defensive Rebound,18,25
+8:56,Stetson,Marques Sumner,Foul,18,25
+8:54,Jacksonville,DeAnthony McCallum,Turnover,18,25
+8:54,Stetson,Christiaan Jones,Steal,18,25
+8:50,Jacksonville,DeAnthony McCallum,Foul,18,25
+8:50,Stetson,Christiaan Jones,Free Throw,19,25
+8:50,Stetson,Christiaan Jones,Missed Free Throw,19,25
+8:50,Jacksonville,Dave Bell,Defensive Rebound,19,25
+8:36,Jacksonville,Tanner Rubio,Turnover,19,25
+8:24,Stetson,Clay Verk,Three Point Jumper,22,25
+8:06,Jacksonville,Dave Bell,Missed Layup,22,25
+8:00,Jacksonville,Dave Bell,Offensive Rebound,22,25
+8:00,Jacksonville,Dave Bell,Layup,22,27
+7:53,Stetson,Christiaan Jones,Turnover,22,27
+7:53,Jacksonville,None,None,22,27
+7:29,Jacksonville,DeAnthony McCallum,Missed Three Point Jumper,22,27
+7:26,Stetson,Marques Sumner,Defensive Rebound,22,27
+7:14,Stetson,Keith Matthews,Missed Three Point Jumper,22,27
+7:11,Jacksonville,Dave Bell,Defensive Rebound,22,27
+7:11,Stetson,Clay Verk,Foul,22,27
+6:56,Stetson,Clay Verk,Foul,22,27
+6:56,Jacksonville,Dave Bell,Free Throw,22,28
+6:56,Jacksonville,Dave Bell,Missed Free Throw,22,28
+6:56,Stetson,Keith Matthews,Defensive Rebound,22,28
+6:28,Stetson,Christiaan Jones,Missed Jumper,22,28
+6:24,Jacksonville,Aamahne Santos,Defensive Rebound,22,28
+6:16,Jacksonville,Dave Bell,Layup,22,30
+6:05,Stetson,Keith Matthews,Foul,22,30
+6:05,Stetson,Keith Matthews,Turnover,22,30
+5:47,Jacksonville,Dave Bell,Missed Layup,22,30
+5:47,Stetson,Abayomi Iyiola,Block,22,30
+5:41,Stetson,Marques Sumner,Defensive Rebound,22,30
+5:25,Stetson,Abayomi Iyiola,Layup,24,30
+5:00,Jacksonville,Jace Hogan,Turnover,24,30
+4:35,Stetson,Marques Sumner,Missed Jumper,24,30
+4:31,Jacksonville,JD Notae,Defensive Rebound,24,30
+4:25,Jacksonville,Aamahne Santos,Missed Three Point Jumper,24,30
+4:21,Stetson,Abayomi Iyiola,Defensive Rebound,24,30
+4:12,Stetson,Abayomi Iyiola,Missed Jumper,24,30
+4:08,Jacksonville,JD Notae,Defensive Rebound,24,30
+4:00,Jacksonville,Bryce Workman,Missed Jumper,24,30
+3:57,Stetson,Christiaan Jones,Defensive Rebound,24,30
+3:52,Jacksonville,Bryce Workman,Foul,24,30
+3:52,Jacksonville,None,None,24,30
+3:52,Stetson,Leo Goodman,Missed Free Throw,24,30
+3:52,Stetson,None,Team Rebound,24,30
+3:52,Stetson,Leo Goodman,Missed Free Throw,24,30
+3:52,Jacksonville,JD Notae,Defensive Rebound,24,30
+3:27,Jacksonville,JD Notae,Missed Three Point Jumper,24,30
+3:23,Jacksonville,Bryce Workman,Offensive Rebound,24,30
+3:22,Jacksonville,Bryce Workman,Missed Layup,24,30
+3:17,Jacksonville,JD Notae,Offensive Rebound,24,30
+3:16,Jacksonville,JD Notae,Missed Layup,24,30
+3:12,Stetson,Leo Goodman,Defensive Rebound,24,30
+3:11,Stetson,Christiaan Jones,Missed Three Point Jumper,24,30
+3:01,Jacksonville,Tyreese Davis,Defensive Rebound,24,30
+3:00,Jacksonville,JD Notae,Missed Three Point Jumper,24,30
+3:00,Jacksonville,Jalyn Hinton,Offensive Rebound,24,30
+3:00,Stetson,Abayomi Iyiola,Foul,24,30
+3:00,Jacksonville,Jalyn Hinton,Missed Free Throw,24,30
+3:00,Jacksonville,None,Team Rebound,24,30
+3:00,Jacksonville,Jalyn Hinton,Free Throw,24,31
+2:44,Stetson,Jalen Crutchfield,Missed Three Point Jumper,24,31
+2:41,Jacksonville,JD Notae,Defensive Rebound,24,31
+2:25,Stetson,Leo Goodman,Foul,24,31
+2:25,Jacksonville,Tyreese Davis,Free Throw,24,32
+2:25,Jacksonville,Tyreese Davis,Free Throw,24,33
+1:55,Stetson,Christiaan Jones,Missed Jumper,24,33
+1:55,Jacksonville,JD Notae,Block,24,33
+1:54,Jacksonville,None,Team Rebound,24,33
+1:49,Jacksonville,Aamahne Santos,Missed Layup,24,33
+1:45,Jacksonville,JD Notae,Offensive Rebound,24,33
+1:40,Jacksonville,JD Notae,Turnover,24,33
+1:22,Jacksonville,Jalyn Hinton,Foul,24,33
+1:05,Stetson,Marques Sumner,Missed Jumper,24,33
+1:05,Jacksonville,Dave Bell,Block,24,33
+1:01,Jacksonville,JD Notae,Defensive Rebound,24,33
+0:58,Jacksonville,Dave Bell,Dunk,24,35
+0:36,Stetson,Ricky Gouety,Turnover,24,35
+0:24,Jacksonville,JD Notae,Turnover,24,35
+0:03,Stetson,Marques Sumner,Missed Three Point Jumper,24,35
+0:01,Jacksonville,Dave Bell,Free Throw,24,36
+0:01,Jacksonville,Dave Bell,Free Throw,24,37
+0:01,Jacksonville,Dave Bell,Defensive Rebound,24,35
+0:01,Stetson,Leo Goodman,Foul,24,35
+0:01,Jacksonville,Dave Bell,Missed Free Throw,24,37
+0:01,Stetson,Keith Matthews,Defensive Rebound,24,37
+0:00,Jacksonville,None,None,24,35
+19:49,Stetson,Jahlil Rawley,Jumper,26,37
+19:30,Jacksonville,Jace Hogan,Missed Jumper,26,37
+19:28,Stetson,Abayomi Iyiola,Defensive Rebound,26,37
+19:28,Jacksonville,Dave Bell,Foul,26,37
+19:05,Stetson,Kenny Aninye,Missed Three Point Jumper,26,37
+19:02,Jacksonville,None,Team Rebound,26,37
+18:41,Stetson,Jahlil Rawley,Defensive Rebound,26,37
+18:37,Stetson,Keith Matthews,Missed Layup,26,37
+18:37,Jacksonville,Dave Bell,Block,26,37
+18:33,Jacksonville,Dave Bell,Defensive Rebound,26,37
+18:14,Jacksonville,JD Notae,Turnover,26,37
+17:47,Stetson,Kenny Aninye,Missed Layup,26,37
+17:43,Jacksonville,JD Notae,Defensive Rebound,26,37
+17:36,Jacksonville,Aamahne Santos,Missed Three Point Jumper,26,37
+17:32,Jacksonville,Tyreese Davis,Offensive Rebound,26,37
+17:29,Jacksonville,Aamahne Santos,Turnover,26,37
+17:05,Stetson,Kenny Aninye,Missed Jumper,26,37
+17:01,Jacksonville,Jace Hogan,Defensive Rebound,26,37
+16:53,Jacksonville,Tyreese Davis,Turnover,26,37
+16:40,Stetson,Abayomi Iyiola,Missed Layup,26,37
+16:38,Stetson,None,Team Rebound,26,37
+16:36,Stetson,Keith Matthews,Jumper,28,37
+16:17,Jacksonville,Jace Hogan,Layup,28,39
+16:02,Stetson,Marques Sumner,Missed Layup,28,39
+15:58,Jacksonville,Jace Hogan,Defensive Rebound,28,39
+15:48,Jacksonville,Jace Hogan,Turnover,28,39
+15:48,Stetson,Abayomi Iyiola,Steal,28,39
+15:41,Jacksonville,Jalyn Hinton,Foul,28,39
+15:41,Jacksonville,None,None,28,39
+15:41,Stetson,Kenny Aninye,Missed Free Throw,28,39
+15:41,Stetson,None,Team Rebound,28,39
+15:41,Stetson,Kenny Aninye,Missed Free Throw,28,39
+15:41,Jacksonville,Jalyn Hinton,Defensive Rebound,28,39
+15:27,Stetson,Christiaan Jones,Foul,28,39
+15:14,Jacksonville,DeAnthony McCallum,Layup,28,41
+14:58,Stetson,Christiaan Jones,Turnover,28,41
+14:31,Jacksonville,Jalyn Hinton,Dunk,28,43
+14:14,Stetson,Abayomi Iyiola,Missed Layup,28,43
+14:10,Stetson,Abayomi Iyiola,Offensive Rebound,28,43
+14:09,Stetson,Abayomi Iyiola,Layup,30,43
+13:55,Jacksonville,Aamahne Santos,Missed Three Point Jumper,30,43
+13:51,Jacksonville,DeAnthony McCallum,Offensive Rebound,30,43
+13:45,Jacksonville,Aamahne Santos,Turnover,30,43
+13:45,Stetson,Abayomi Iyiola,Steal,30,43
+13:40,Jacksonville,Aamahne Santos,Foul,30,43
+13:40,Stetson,Christiaan Jones,Free Throw,31,43
+13:40,Stetson,Christiaan Jones,Free Throw,32,43
+13:10,Jacksonville,DeAnthony McCallum,Turnover,32,43
+12:56,Stetson,Ricardo Lynch,Missed Three Point Jumper,32,43
+12:56,Jacksonville,Tyreese Davis,Defensive Rebound,32,43
+12:56,Stetson,Christiaan Jones,Foul,32,43
+12:45,Jacksonville,Jace Hogan,Jumper,32,45
+12:34,Stetson,Christiaan Jones,Missed Three Point Jumper,32,45
+12:30,Jacksonville,Tanner Rubio,Defensive Rebound,32,45
+12:25,Jacksonville,Jace Hogan,Missed Jumper,32,45
+12:22,Jacksonville,Jalyn Hinton,Offensive Rebound,32,45
+12:16,Jacksonville,Jalyn Hinton,Missed Layup,32,45
+12:08,Stetson,Jahlil Rawley,Defensive Rebound,32,45
+12:01,Stetson,Ricardo Lynch,Missed Layup,32,45
+11:57,Jacksonville,Jace Hogan,Defensive Rebound,32,45
+11:40,Jacksonville,Tanner Rubio,Turnover,32,45
+11:40,Stetson,Jahlil Rawley,Steal,32,45
+11:22,Jacksonville,Jalyn Hinton,Foul,32,45
+11:22,Jacksonville,None,None,32,45
+11:22,Stetson,Ricardo Lynch,Missed Free Throw,32,45
+11:22,Stetson,None,Team Rebound,32,45
+11:22,Stetson,Ricardo Lynch,Missed Free Throw,32,45
+11:22,Stetson,None,Team Rebound,32,45
+11:22,Stetson,Ricardo Lynch,Missed Free Throw,32,45
+11:22,Jacksonville,Bryce Workman,Defensive Rebound,32,45
+11:07,Jacksonville,Jace Hogan,Turnover,32,45
+11:07,Stetson,Marques Sumner,Steal,32,45
+11:02,Stetson,Marques Sumner,Turnover,32,45
+10:47,Jacksonville,Aamahne Santos,Jumper,32,47
+10:23,Jacksonville,Bryce Workman,Foul,32,47
+10:23,Stetson,Clay Verk,Free Throw,33,47
+10:23,Stetson,Clay Verk,Free Throw,34,47
+10:08,Jacksonville,Aamahne Santos,Layup,34,49
+9:52,Stetson,Clay Verk,Missed Three Point Jumper,34,49
+9:48,Jacksonville,Dave Bell,Defensive Rebound,34,49
+9:40,Jacksonville,JD Notae,Three Point Jumper,34,52
+9:33,Stetson,None,None,34,52
+9:23,Stetson,Marques Sumner,Three Point Jumper,37,52
+8:54,Jacksonville,JD Notae,Missed Three Point Jumper,37,52
+8:50,Stetson,Jalen Crutchfield,Defensive Rebound,37,52
+8:45,Jacksonville,Corey Romich,Foul,37,52
+8:42,Stetson,Keith Matthews,Missed Layup,37,52
+8:42,Jacksonville,Dave Bell,Block,37,52
+8:37,Jacksonville,JD Notae,Defensive Rebound,37,52
+8:36,Jacksonville,JD Notae,Turnover,37,52
+8:36,Stetson,Jahlil Rawley,Steal,37,52
+8:32,Stetson,Jahlil Rawley,Missed Layup,37,52
+8:29,Jacksonville,DeAnthony McCallum,Defensive Rebound,37,52
+8:22,Stetson,Jahlil Rawley,Foul,37,52
+8:13,Jacksonville,DeAnthony McCallum,Three Point Jumper,37,55
+7:56,Jacksonville,None,None,37,55
+7:45,Stetson,Keith Matthews,Three Point Jumper,40,55
+7:31,Jacksonville,DeAnthony McCallum,Missed Layup,40,55
+7:28,Stetson,Abayomi Iyiola,Defensive Rebound,40,55
+7:18,Stetson,Marques Sumner,Missed Jumper,40,55
+7:16,Stetson,Keith Matthews,Offensive Rebound,40,55
+7:16,Jacksonville,Corey Romich,Foul,40,55
+7:16,Stetson,Keith Matthews,Foul,40,55
+7:16,Jacksonville,Aamahne Santos,Free Throw,40,56
+7:16,Jacksonville,Aamahne Santos,Free Throw,40,57
+7:16,Stetson,Keith Matthews,Free Throw,41,57
+7:16,Stetson,Keith Matthews,Free Throw,42,57
+7:08,Jacksonville,Corey Romich,Missed Three Point Jumper,42,57
+7:04,Stetson,Marques Sumner,Defensive Rebound,42,57
+6:48,Stetson,Jalen Crutchfield,Three Point Jumper,45,57
+6:29,Stetson,Abayomi Iyiola,Foul,45,57
+6:17,Jacksonville,Jace Hogan,Turnover,45,57
+6:17,Stetson,Abayomi Iyiola,Steal,45,57
+6:07,Jacksonville,JD Notae,Foul,45,57
+6:06,Stetson,Kenny Aninye,Free Throw,46,57
+6:06,Stetson,Kenny Aninye,Free Throw,47,57
+5:53,Jacksonville,JD Notae,Three Point Jumper,47,60
+5:32,Stetson,Marques Sumner,Three Point Jumper,50,60
+5:31,Stetson,None,None,50,60
+5:15,Jacksonville,JD Notae,Missed Layup,50,60
+5:08,Jacksonville,Dave Bell,Missed Dunk,50,60
+5:08,Jacksonville,Dave Bell,Offensive Rebound,50,60
+5:07,Stetson,Kenny Aninye,Defensive Rebound,50,60
+5:06,Stetson,Jalen Crutchfield,Missed Three Point Jumper,50,60
+5:01,Jacksonville,Dave Bell,Defensive Rebound,50,60
+4:58,Jacksonville,Tyreese Davis,Layup,50,62
+4:27,Stetson,Marques Sumner,Missed Three Point Jumper,50,62
+4:23,Jacksonville,JD Notae,Defensive Rebound,50,62
+4:06,Jacksonville,Jace Hogan,Layup,50,64
+3:47,Stetson,Abayomi Iyiola,Missed Jumper,50,64
+3:42,Jacksonville,JD Notae,Defensive Rebound,50,64
+3:14,Jacksonville,Tyreese Davis,Missed Three Point Jumper,50,64
+3:11,Jacksonville,JD Notae,Offensive Rebound,50,64
+3:11,Stetson,Marques Sumner,Foul,50,64
+3:11,Jacksonville,None,None,50,64
+2:48,Jacksonville,JD Notae,Missed Three Point Jumper,50,64
+2:48,Stetson,Keith Matthews,Block,50,64
+2:43,Jacksonville,Jace Hogan,Offensive Rebound,50,64
+2:42,Jacksonville,Jace Hogan,Layup,50,66
+2:22,Stetson,Marques Sumner,Missed Layup,50,66
+2:22,Jacksonville,Dave Bell,Block,50,66
+2:17,Stetson,Keith Matthews,Offensive Rebound,50,66
+2:15,Stetson,Jahlil Rawley,Jumper,52,66
+1:51,Jacksonville,Jace Hogan,Missed Layup,52,66
+1:51,Stetson,Abayomi Iyiola,Block,52,66
+1:46,Stetson,Marques Sumner,Defensive Rebound,52,66
+1:37,Stetson,Abayomi Iyiola,Missed Dunk,52,66
+1:37,Jacksonville,JD Notae,Defensive Rebound,52,66
+1:37,Stetson,Marques Sumner,Foul,52,66
+1:37,Jacksonville,JD Notae,Free Throw,52,67
+1:37,Jacksonville,JD Notae,Free Throw,52,68
+1:23,Stetson,Jahlil Rawley,Turnover,52,68
+1:23,Jacksonville,Tyreese Davis,Steal,52,68
+1:19,Jacksonville,Tyreese Davis,Turnover,52,68
+1:19,Stetson,Marques Sumner,Steal,52,68
+1:15,Stetson,Marques Sumner,Missed Three Point Jumper,52,68
+1:09,Stetson,Jahlil Rawley,Offensive Rebound,52,68
+1:08,Stetson,Jahlil Rawley,Missed Layup,52,68
+1:04,Jacksonville,Dave Bell,Defensive Rebound,52,68
+0:46,Jacksonville,Aamahne Santos,Missed Three Point Jumper,52,68
+0:43,Stetson,Marques Sumner,Defensive Rebound,52,68
+0:37,Stetson,Jahlil Rawley,Jumper,54,68
+0:35,Stetson,None,None,54,68
+0:32,Stetson,Jalen Crutchfield,Foul,54,68
+0:32,Jacksonville,Aamahne Santos,Free Throw,54,69
+0:32,Jacksonville,Aamahne Santos,Free Throw,54,70
+0:23,Stetson,Jalen Crutchfield,Three Point Jumper,57,70
+0:13,Stetson,Abayomi Iyiola,Foul,57,70
+0:13,Jacksonville,Jalyn Hinton,Free Throw,57,71
+0:13,Jacksonville,Jalyn Hinton,Free Throw,57,72
+0:07,Stetson,Abayomi Iyiola,Missed Jumper,57,72
+0:07,Jacksonville,Jalyn Hinton,Block,57,72
+0:07,Stetson,Abayomi Iyiola,Offensive Rebound,57,72
+0:07,Stetson,Abayomi Iyiola,Missed Layup,57,72
+0:07,Jacksonville,JD Notae,Defensive Rebound,57,72
+0:00,Jacksonville,None,None,57,72

@@ -1,0 +1,344 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Stanford,None,None,0,0
+19:53,Stanford,Cormac Ryan,Turnover,0,0
+19:53,Washington,Jaylen Nowell,Steal,0,0
+19:45,Washington,Matisse Thybulle,Turnover,0,0
+19:26,Stanford,Cormac Ryan,Jumper,0,2
+19:12,Washington,Noah Dickerson,Missed Jumper,0,2
+19:12,Stanford,Josh Sharma,Block,0,2
+19:12,Stanford,Josh Sharma,Defensive Rebound,0,2
+19:02,Stanford,KZ Okpala,Missed Three Point Jumper,0,2
+19:02,Washington,Washington,Defensive Rebound,0,2
+18:44,Washington,Hameir Wright,Missed Layup,0,2
+18:44,Washington,Jaylen Nowell,Offensive Rebound,0,2
+18:38,Washington,Noah Dickerson,Turnover,0,2
+18:38,Stanford,Josh Sharma,Steal,0,2
+18:22,Stanford,Josh Sharma,Dunk,0,4
+17:53,Washington,Noah Dickerson,Missed Jumper,0,4
+17:53,Stanford,Oscar Da Silva,Defensive Rebound,0,4
+17:38,Stanford,Josh Sharma,Turnover,0,4
+17:38,Washington,Matisse Thybulle,Steal,0,4
+17:29,Washington,Matisse Thybulle,Missed Layup,0,4
+17:29,Stanford,Josh Sharma,Block,0,4
+17:29,Stanford,Josh Sharma,Defensive Rebound,0,4
+17:24,Stanford,Cormac Ryan,Turnover,0,4
+16:55,Washington,David Crisp,Missed Jumper,0,4
+16:55,Washington,Sam Timmins,Offensive Rebound,0,4
+16:51,Washington,Sam Timmins,Layup,2,4
+16:39,Washington,Matisse Thybulle,Foul,2,4
+16:39,Stanford,KZ Okpala,Missed Free Throw,2,4
+16:39,Stanford,None,Team Rebound,2,4
+16:39,Stanford,KZ Okpala,Missed Free Throw,2,4
+16:39,Washington,Sam Timmins,Defensive Rebound,2,4
+16:24,Washington,Jaylen Nowell,Jumper,4,4
+16:11,Stanford,KZ Okpala,Jumper,4,6
+15:51,Stanford,Oscar Da Silva,Foul,4,6
+15:51,Stanford,None,None,4,6
+15:51,Washington,David Crisp,Missed Free Throw,4,6
+15:51,Washington,None,Team Rebound,4,6
+15:51,Washington,David Crisp,Free Throw,5,6
+15:51,Washington,David Crisp,Missed Free Throw,5,6
+15:51,Stanford,Josh Sharma,Defensive Rebound,5,6
+15:25,Stanford,Oscar Da Silva,Missed Three Point Jumper,5,6
+15:25,Stanford,Stanford,Offensive Rebound,5,6
+15:25,Washington,Dominic Green,Foul,5,6
+15:09,Stanford,Marcus Sheffield,Missed Three Point Jumper,5,6
+15:09,Stanford,Oscar Da Silva,Offensive Rebound,5,6
+15:05,Stanford,Oscar Da Silva,Layup,5,8
+14:37,Washington,Matisse Thybulle,Missed Jumper,5,8
+14:37,Stanford,Bryce Wills,Defensive Rebound,5,8
+14:29,Washington,Nahziah Carter,Foul,5,8
+14:29,Stanford,Jaiden Delaire,Free Throw,5,9
+14:29,Stanford,Jaiden Delaire,Free Throw,5,10
+14:08,Washington,Jaylen Nowell,Three Point Jumper,8,10
+13:48,Stanford,Marcus Sheffield,Missed Three Point Jumper,8,10
+13:48,Washington,Nahziah Carter,Defensive Rebound,8,10
+13:29,Washington,Sam Timmins,Layup,10,10
+13:13,Washington,Jaylen Nowell,Foul,10,10
+13:13,Stanford,KZ Okpala,Free Throw,10,11
+13:13,Stanford,KZ Okpala,Missed Free Throw,10,11
+13:13,Stanford,Josh Sharma,Offensive Rebound,10,11
+12:57,Stanford,Jaiden Delaire,Missed Jumper,10,11
+12:57,Stanford,Stanford,Offensive Rebound,10,11
+12:42,Stanford,Cormac Ryan,Missed Three Point Jumper,10,11
+12:42,Washington,Noah Dickerson,Defensive Rebound,10,11
+12:31,Washington,Matisse Thybulle,Layup,12,11
+12:15,Stanford,KZ Okpala,Turnover,12,11
+12:15,Stanford,KZ Okpala,Foul,12,11
+12:04,Stanford,Cormac Ryan,Foul,12,11
+11:55,Washington,Noah Dickerson,Jumper,14,11
+11:34,Stanford,Jaiden Delaire,Missed Jumper,14,11
+11:34,Washington,Matisse Thybulle,Defensive Rebound,14,11
+11:26,Washington,Matisse Thybulle,Layup,16,11
+11:00,Washington,Nahziah Carter,Foul,16,11
+11:00,Stanford,None,None,16,11
+10:56,Stanford,Isaac White,Turnover,16,11
+10:43,Stanford,KZ Okpala,Foul,16,11
+10:43,Washington,Nahziah Carter,Missed Free Throw,16,11
+10:43,Washington,None,Team Rebound,16,11
+10:43,Washington,Nahziah Carter,Missed Free Throw,16,11
+10:43,Stanford,Oscar Da Silva,Defensive Rebound,16,11
+10:27,Stanford,Isaac White,Missed Three Point Jumper,16,11
+10:27,Washington,Washington,Defensive Rebound,16,11
+10:10,Washington,Jaylen Nowell,Missed Jumper,16,11
+10:10,Stanford,Stanford,Defensive Rebound,16,11
+10:10,Washington,Noah Dickerson,Foul,16,11
+9:56,Stanford,Josh Sharma,Missed Jumper,16,11
+9:56,Washington,Hameir Wright,Defensive Rebound,16,11
+9:49,Washington,Hameir Wright,Missed Three Point Jumper,16,11
+9:49,Stanford,Bryce Wills,Defensive Rebound,16,11
+9:37,Washington,Hameir Wright,Foul,16,11
+9:37,Stanford,Oscar Da Silva,Free Throw,16,12
+9:37,Stanford,Oscar Da Silva,Free Throw,16,13
+9:24,Washington,Noah Dickerson,Missed Layup,16,13
+9:24,Stanford,Oscar Da Silva,Block,16,13
+9:24,Washington,Washington,Offensive Rebound,16,13
+9:19,Washington,Noah Dickerson,Turnover,16,13
+8:58,Stanford,Josh Sharma,Layup,16,15
+8:40,Washington,Jaylen Nowell,Layup,18,15
+8:17,Stanford,Bryce Wills,Missed Jumper,18,15
+8:17,Stanford,Oscar Da Silva,Offensive Rebound,18,15
+8:13,Stanford,Oscar Da Silva,Layup,18,17
+8:03,Washington,Jaylen Nowell,Turnover,18,17
+8:03,Stanford,Cormac Ryan,Steal,18,17
+7:51,Washington,Jamal Bey,Foul,18,17
+7:51,Stanford,None,None,18,17
+7:51,Stanford,Oscar Da Silva,Missed Free Throw,18,17
+7:51,Washington,Jaylen Nowell,Defensive Rebound,18,17
+7:32,Washington,Matisse Thybulle,Missed Jumper,18,17
+7:32,Washington,Matisse Thybulle,Offensive Rebound,18,17
+7:32,Washington,None,None,18,17
+7:32,Washington,Washington,Offensive Rebound,18,17
+7:24,Washington,Jamal Bey,Missed Jumper,18,17
+7:24,Stanford,Josh Sharma,Defensive Rebound,18,17
+7:12,Stanford,Marcus Sheffield,Turnover,18,17
+7:12,Washington,David Crisp,Steal,18,17
+7:05,Washington,David Crisp,Missed Layup,18,17
+7:05,Stanford,Josh Sharma,Defensive Rebound,18,17
+6:49,Stanford,Oscar Da Silva,Turnover,18,17
+6:27,Washington,David Crisp,Missed Three Point Jumper,18,17
+6:27,Stanford,Stanford,Defensive Rebound,18,17
+6:27,Stanford,Josh Sharma,Foul,18,17
+6:27,Washington,Noah Dickerson,Free Throw,19,17
+6:27,Washington,Noah Dickerson,Free Throw,20,17
+6:24,Washington,Noah Dickerson,Missed Layup,20,17
+6:24,Stanford,Josh Sharma,Defensive Rebound,20,17
+6:22,Washington,Noah Dickerson,Foul,20,17
+6:22,Stanford,Cormac Ryan,Free Throw,20,18
+6:22,Washington,Noah Dickerson,Foul,20,17
+6:22,Stanford,Cormac Ryan,Free Throw,20,19
+6:01,Stanford,Isaac White,Missed Jumper,20,19
+6:01,Stanford,Josh Sharma,Offensive Rebound,20,19
+5:56,Stanford,Josh Sharma,Layup,20,21
+5:43,Washington,Jaylen Nowell,Missed Jumper,20,21
+5:43,Stanford,Isaac White,Defensive Rebound,20,21
+5:35,Stanford,Isaac White,Turnover,20,21
+5:35,Washington,Matisse Thybulle,Steal,20,21
+5:30,Washington,Matisse Thybulle,Dunk,22,21
+5:19,Stanford,Oscar Da Silva,Missed Layup,22,21
+5:19,Stanford,Oscar Da Silva,Offensive Rebound,22,21
+5:18,Washington,Jaylen Nowell,Foul,22,21
+5:18,Stanford,Oscar Da Silva,Free Throw,22,22
+5:18,Stanford,Oscar Da Silva,Free Throw,22,23
+4:59,Washington,Noah Dickerson,Turnover,22,23
+4:59,Stanford,Bryce Wills,Steal,22,23
+4:53,Stanford,Bryce Wills,Missed Layup,22,23
+4:53,Washington,Hameir Wright,Block,22,23
+4:53,Washington,Jaylen Nowell,Defensive Rebound,22,23
+4:46,Washington,Hameir Wright,Missed Three Point Jumper,22,23
+4:46,Washington,Noah Dickerson,Offensive Rebound,22,23
+4:40,Washington,Noah Dickerson,Turnover,22,23
+4:40,Stanford,Josh Sharma,Steal,22,23
+4:23,Stanford,Josh Sharma,Missed Layup,22,23
+4:23,Washington,Washington,Defensive Rebound,22,23
+4:23,Stanford,Oscar Da Silva,Foul,22,23
+4:06,Stanford,Josh Sharma,Foul,22,23
+4:06,Washington,Noah Dickerson,Free Throw,23,23
+4:06,Washington,Noah Dickerson,Free Throw,24,23
+3:52,Stanford,Bryce Wills,Turnover,24,23
+3:52,Stanford,None,None,24,23
+3:38,Washington,Matisse Thybulle,Missed Three Point Jumper,24,23
+3:38,Stanford,Jaiden Delaire,Defensive Rebound,24,23
+3:20,Stanford,Jaiden Delaire,Missed Jumper,24,23
+3:20,Washington,Noah Dickerson,Defensive Rebound,24,23
+3:20,Stanford,Jaiden Delaire,Foul,24,23
+3:20,Washington,Noah Dickerson,Free Throw,25,23
+3:20,Washington,Noah Dickerson,Free Throw,26,23
+3:09,Stanford,Jaiden Delaire,Turnover,26,23
+2:51,Washington,David Crisp,Turnover,26,23
+2:11,Stanford,Bryce Wills,Missed Three Point Jumper,26,23
+2:11,Washington,David Crisp,Defensive Rebound,26,23
+1:59,Washington,David Crisp,Missed Three Point Jumper,26,23
+1:59,Stanford,Marcus Sheffield,Defensive Rebound,26,23
+1:53,Stanford,None,None,26,23
+1:36,Stanford,Marcus Sheffield,Missed Jumper,26,23
+1:36,Washington,Hameir Wright,Block,26,23
+1:36,Washington,David Crisp,Defensive Rebound,26,23
+1:21,Washington,Dominic Green,Three Point Jumper,29,23
+0:55,Stanford,Kodye Pugh,Missed Jumper,29,23
+0:55,Washington,Hameir Wright,Defensive Rebound,29,23
+0:41,Washington,Sam Timmins,Missed Layup,29,23
+0:41,Stanford,Kodye Pugh,Defensive Rebound,29,23
+0:32,Stanford,Marcus Sheffield,Missed Three Point Jumper,29,23
+0:32,Washington,David Crisp,Defensive Rebound,29,23
+0:32,Washington,None,None,29,23
+0:01,Washington,Dominic Green,Missed Three Point Jumper,29,23
+0:01,Stanford,Cormac Ryan,Defensive Rebound,29,23
+0:00,Stanford,None,None,29,23
+20:00,Washington,None,None,29,23
+19:55,Stanford,Josh Sharma,Foul,29,23
+19:55,Washington,Washington ,Turnover,29,23
+19:37,Stanford,Bryce Wills,Missed Layup,29,23
+19:37,Washington,Jaylen Nowell,Block,29,23
+19:37,Stanford,Stanford,Offensive Rebound,29,23
+19:27,Washington,Jaylen Nowell,Foul,29,23
+19:27,Stanford,KZ Okpala,Missed Free Throw,29,23
+19:27,Stanford,None,Team Rebound,29,23
+19:27,Stanford,KZ Okpala,Free Throw,29,24
+19:18,Washington,David Crisp,Turnover,29,24
+19:18,Stanford,Bryce Wills,Steal,29,24
+19:18,Washington,David Crisp,Foul,29,24
+19:18,Stanford,Bryce Wills,Missed Free Throw,29,24
+19:18,Stanford,None,Team Rebound,29,24
+19:18,Stanford,Bryce Wills,Free Throw,29,25
+19:12,Stanford,Cormac Ryan,Turnover,29,25
+18:55,Washington,Jaylen Nowell,Missed Three Point Jumper,29,25
+18:55,Stanford,Cormac Ryan,Defensive Rebound,29,25
+18:38,Washington,Matisse Thybulle,Foul,29,25
+18:38,Stanford,KZ Okpala,Turnover,29,25
+18:38,Stanford,KZ Okpala,Foul,29,25
+18:19,Washington,Matisse Thybulle,Turnover,29,25
+18:19,Stanford,Oscar Da Silva,Steal,29,25
+17:59,Stanford,Oscar Da Silva,Layup,29,27
+17:29,Stanford,Oscar Da Silva,Foul,29,27
+17:27,Washington,Noah Dickerson,Foul,29,27
+17:27,Washington,Noah Dickerson,Turnover,29,27
+17:17,Stanford,Oscar Da Silva,Missed Layup,29,27
+17:17,Washington,Jaylen Nowell,Defensive Rebound,29,27
+17:08,Washington,Nahziah Carter,Missed Layup,29,27
+17:08,Stanford,Josh Sharma,Block,29,27
+17:08,Stanford,KZ Okpala,Defensive Rebound,29,27
+17:05,Washington,Nahziah Carter,Foul,29,27
+16:55,Stanford,Bryce Wills,Turnover,29,27
+16:40,Washington,Sam Timmins,Turnover,29,27
+16:40,Stanford,Bryce Wills,Steal,29,27
+16:39,Washington,Jaylen Nowell,Foul,29,27
+16:22,Stanford,Marcus Sheffield,Three Point Jumper,29,30
+16:10,Washington,David Crisp,Layup,31,30
+15:45,Stanford,Marcus Sheffield,Missed Three Point Jumper,31,30
+15:45,Washington,Dominic Green,Defensive Rebound,31,30
+15:37,Stanford,Lukas Kisunas,Foul,31,30
+15:37,Stanford,None,None,31,30
+15:32,Washington,Nahziah Carter,Layup,33,30
+15:05,Stanford,Cormac Ryan,Three Point Jumper,33,33
+14:52,Washington,David Crisp,Three Point Jumper,36,33
+14:36,Stanford,Lukas Kisunas,Turnover,36,33
+14:30,Washington,Nahziah Carter,Missed Layup,36,33
+14:30,Washington,Noah Dickerson,Offensive Rebound,36,33
+14:21,Washington,Dominic Green,Three Point Jumper,39,33
+14:00,Stanford,Cormac Ryan,Missed Three Point Jumper,39,33
+14:00,Washington,Nahziah Carter,Defensive Rebound,39,33
+13:52,Washington,Nahziah Carter,Foul,39,33
+13:52,Washington,Nahziah Carter,Turnover,39,33
+13:40,Stanford,Cormac Ryan,Three Point Jumper,39,36
+13:24,Stanford,Bryce Wills,Foul,39,36
+13:08,Washington,Dominic Green,Missed Three Point Jumper,39,36
+13:08,Stanford,Cormac Ryan,Defensive Rebound,39,36
+13:03,Stanford,KZ Okpala,Turnover,39,36
+13:03,Washington,Jamal Bey,Steal,39,36
+12:59,Stanford,Bryce Wills,Foul,39,36
+12:59,Washington,David Crisp,Missed Free Throw,39,36
+12:59,Washington,None,Team Rebound,39,36
+12:59,Washington,David Crisp,Free Throw,40,36
+12:44,Stanford,KZ Okpala,Jumper,40,38
+12:27,Washington,David Crisp,Missed Jumper,40,38
+12:27,Stanford,Josh Sharma,Defensive Rebound,40,38
+12:15,Stanford,Cormac Ryan,Three Point Jumper,40,41
+12:10,Washington,None,None,40,41
+11:55,Stanford,None,None,40,41
+11:50,Washington,Noah Dickerson,Layup,42,41
+11:34,Stanford,KZ Okpala,Missed Layup,42,41
+11:34,Washington,Washington,Defensive Rebound,42,41
+11:20,Washington,Noah Dickerson,Missed Layup,42,41
+11:20,Stanford,KZ Okpala,Block,42,41
+11:20,Stanford,KZ Okpala,Defensive Rebound,42,41
+10:49,Washington,Noah Dickerson,Foul,42,41
+10:49,Stanford,KZ Okpala,Missed Free Throw,42,41
+10:49,Stanford,None,Team Rebound,42,41
+10:49,Stanford,KZ Okpala,Missed Free Throw,42,41
+10:49,Stanford,Josh Sharma,Offensive Rebound,42,41
+10:44,Washington,Hameir Wright,Foul,42,41
+10:44,Stanford,Josh Sharma,Free Throw,42,42
+10:44,Stanford,Josh Sharma,Free Throw,42,43
+10:22,Washington,Hameir Wright,Missed Layup,42,43
+10:22,Stanford,Josh Sharma,Block,42,43
+10:22,Stanford,Oscar Da Silva,Defensive Rebound,42,43
+10:01,Stanford,Cormac Ryan,Foul,42,43
+10:01,Washington,Hameir Wright,Free Throw,43,43
+10:01,Washington,Hameir Wright,Free Throw,44,43
+9:50,Stanford,Josh Sharma,Missed Jumper,44,43
+9:50,Washington,Dominic Green,Defensive Rebound,44,43
+9:35,Washington,David Crisp,Missed Three Point Jumper,44,43
+9:35,Stanford,Josh Sharma,Defensive Rebound,44,43
+9:23,Stanford,KZ Okpala,Missed Layup,44,43
+9:23,Washington,Hameir Wright,Block,44,43
+9:23,Stanford,KZ Okpala,Offensive Rebound,44,43
+9:14,Stanford,Oscar Da Silva,Three Point Jumper,44,46
+8:52,Washington,Hameir Wright,Three Point Jumper,47,46
+8:41,Stanford,Cormac Ryan,Turnover,47,46
+8:41,Washington,Hameir Wright,Steal,47,46
+8:31,Washington,Jaylen Nowell,Layup,49,46
+8:03,Stanford,Cormac Ryan,Turnover,49,46
+8:03,Washington,Jaylen Nowell,Steal,49,46
+7:38,Washington,Nahziah Carter,Layup,51,46
+7:32,Washington,None,None,51,46
+7:32,Stanford,None,None,51,46
+7:18,Stanford,Josh Sharma,Missed Jumper,51,46
+7:18,Stanford,Oscar Da Silva,Offensive Rebound,51,46
+7:16,Washington,David Crisp,Foul,51,46
+7:16,Stanford,Josh Sharma,Free Throw,51,47
+7:16,Stanford,Josh Sharma,Missed Free Throw,51,47
+7:16,Washington,Nahziah Carter,Defensive Rebound,51,47
+6:51,Washington,Nahziah Carter,Three Point Jumper,54,47
+6:27,Stanford,Josh Sharma,Layup,54,49
+6:01,Washington,Nahziah Carter,Missed Three Point Jumper,54,49
+6:01,Stanford,KZ Okpala,Defensive Rebound,54,49
+5:52,Stanford,Josh Sharma,Dunk,54,51
+5:32,Washington,Matisse Thybulle,Missed Three Point Jumper,54,51
+5:32,Stanford,Josh Sharma,Defensive Rebound,54,51
+5:12,Stanford,Marcus Sheffield,Three Point Jumper,54,54
+4:49,Washington,Matisse Thybulle,Layup,56,54
+4:27,Washington,Hameir Wright,Foul,56,54
+4:27,Stanford,Josh Sharma,Free Throw,56,55
+4:27,Stanford,Josh Sharma,Missed Free Throw,56,55
+4:27,Washington,Noah Dickerson,Defensive Rebound,56,55
+4:05,Washington,Jaylen Nowell,Missed Jumper,56,55
+4:05,Stanford,Oscar Da Silva,Defensive Rebound,56,55
+3:54,Stanford,KZ Okpala,Missed Jumper,56,55
+3:54,Stanford,Josh Sharma,Offensive Rebound,56,55
+3:54,Stanford,None,None,56,55
+3:54,Washington,Jaylen Nowell,Defensive Rebound,56,55
+3:41,Washington,Noah Dickerson,Missed Layup,56,55
+3:41,Stanford,Oscar Da Silva,Defensive Rebound,56,55
+3:24,Stanford,Marcus Sheffield,Jumper,56,57
+3:09,Washington,Noah Dickerson,Dunk,58,57
+2:59,Stanford,None,None,58,57
+2:59,Stanford,None,None,58,57
+2:38,Stanford,Stanford ,Turnover,58,57
+2:22,Washington,Jaylen Nowell,Missed Layup,58,57
+2:22,Washington,Jaylen Nowell,Offensive Rebound,58,57
+2:06,Washington,Matisse Thybulle,Turnover,58,57
+1:54,Stanford,Josh Sharma,Jumper,58,59
+1:30,Washington,Jaylen Nowell,Jumper,60,59
+1:15,Stanford,None,None,60,59
+1:00,Stanford,Cormac Ryan,Turnover,60,59
+1:00,Washington,Matisse Thybulle,Steal,60,59
+0:33,Washington,Jaylen Nowell,Jumper,62,59
+0:18,Stanford,Oscar Da Silva,Layup,62,61
+0:14,Stanford,None,None,62,61
+0:10,Stanford,Josh Sharma,Foul,62,61
+0:10,Washington,Jaylen Nowell,Missed Free Throw,62,61
+0:10,Stanford,Josh Sharma,Defensive Rebound,62,61
+0:01,Stanford,KZ Okpala,Missed Three Point Jumper,62,61
+0:01,Washington,Washington,Defensive Rebound,62,61
+0:00,Stanford,None,None,62,61

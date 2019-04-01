@@ -1,0 +1,362 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:49,UIC,Tarkus Ferguson,Turnover,0,0
+19:36,Green Bay,JayQuan McCloud,Missed Jumper,0,0
+19:36,UIC,Michael Diggins,Defensive Rebound,0,0
+19:16,UIC,Marcus Ottey,Missed Layup,0,0
+19:16,UIC,Tarkus Ferguson,Offensive Rebound,0,0
+19:09,UIC,Rob Howard Jr.,Turnover,0,0
+19:09,UIC,Rob Howard Jr.,Foul,0,0
+18:54,Green Bay,JayQuan McCloud,Layup,0,2
+18:27,UIC,Godwin Boahen,Missed Jumper,0,2
+18:27,Green Bay,Shanquan Hemphill,Block,0,2
+18:24,Green Bay,Josh McNair,Defensive Rebound,0,2
+18:20,Green Bay,PJ Pipes,Missed Jumper,0,2
+18:20,Green Bay,Josh McNair,Offensive Rebound,0,2
+18:18,Green Bay,Josh McNair,Missed Layup,0,2
+18:18,UIC,Rob Howard Jr.,Block,0,2
+18:17,UIC,Marcus Ottey,Defensive Rebound,0,2
+18:13,UIC,Tarkus Ferguson,Missed Three Point Jumper,0,2
+18:13,UIC,Rob Howard Jr.,Offensive Rebound,0,2
+18:09,UIC,Rob Howard Jr.,Turnover,0,2
+18:09,UIC,Rob Howard Jr.,Foul,0,2
+17:53,Green Bay,Shanquan Hemphill,Missed Jumper,0,2
+17:53,UIC,Tarkus Ferguson,Defensive Rebound,0,2
+17:25,UIC,Godwin Boahen,Three Point Jumper,3,2
+17:08,UIC,Godwin Boahen,Foul,3,2
+17:08,Green Bay,JayQuan McCloud,Free Throw,3,3
+17:08,Green Bay,JayQuan McCloud,Free Throw,3,4
+16:46,UIC,Tarkus Ferguson,Turnover,3,4
+16:45,Green Bay,PJ Pipes,Steal,3,4
+16:42,Green Bay,Josh McNair,Layup,3,6
+16:15,UIC,Marcus Ottey,Turnover,3,6
+16:14,Green Bay,Josh McNair,Steal,3,6
+16:09,Green Bay,JayQuan McCloud,Missed Three Point Jumper,3,6
+16:09,UIC,Marcus Ottey,Defensive Rebound,3,6
+16:02,UIC,Marcus Ottey,Layup,5,6
+15:50,Green Bay,PJ Pipes,Three Point Jumper,5,9
+15:49,UIC,Marcus Ottey,Foul,5,9
+15:49,Green Bay,None,None,5,9
+15:49,Green Bay,PJ Pipes,Free Throw,5,10
+15:37,UIC,Marcus Ottey,Missed Layup,5,10
+15:37,Green Bay,Shanquan Hemphill,Defensive Rebound,5,10
+15:28,Green Bay,Kameron Hankerson,Layup,5,12
+15:09,UIC,Godwin Boahen,Three Point Jumper,8,12
+14:39,Green Bay,PJ Pipes,Missed Jumper,8,12
+14:39,UIC,Godwin Boahen,Defensive Rebound,8,12
+14:29,UIC,Travell Washington,Missed Three Point Jumper,8,12
+14:29,Green Bay,Sandy Cohen III,Defensive Rebound,8,12
+14:15,Green Bay,Kameron Hankerson,Missed Three Point Jumper,8,12
+14:15,UIC,Tarkus Ferguson,Block,8,12
+14:13,Green Bay,Kameron Hankerson,Offensive Rebound,8,12
+14:09,Green Bay,Sandy Cohen III,Three Point Jumper,8,15
+13:39,Green Bay,PJ Pipes,Foul,8,15
+13:39,UIC,Tarkus Ferguson,Missed Free Throw,8,15
+13:39,UIC,None,Team Rebound,8,15
+13:39,UIC,Tarkus Ferguson,Free Throw,9,15
+13:33,Green Bay,Shanquan Hemphill,Jumper,9,17
+13:22,UIC,Marcus Ottey,Dunk,11,17
+13:02,Green Bay,Cody Schwartz,Missed Three Point Jumper,11,17
+13:02,UIC,Godwin Boahen,Defensive Rebound,11,17
+12:52,UIC,Tarkus Ferguson,Three Point Jumper,14,17
+12:34,Green Bay,Sandy Cohen III,Missed Three Point Jumper,14,17
+12:34,UIC,Jacob Wiley,Defensive Rebound,14,17
+12:25,UIC,Tarkus Ferguson,Missed Layup,14,17
+12:25,Green Bay,Sandy Cohen III,Defensive Rebound,14,17
+12:20,UIC,Jacob Wiley,Foul,14,17
+12:20,Green Bay,JayQuan McCloud,Free Throw,14,18
+12:20,Green Bay,JayQuan McCloud,Free Throw,14,19
+12:11,UIC,Godwin Boahen,Three Point Jumper,17,19
+12:00,Green Bay,JayQuan McCloud,Missed Three Point Jumper,17,19
+12:00,UIC,Tarkus Ferguson,Defensive Rebound,17,19
+11:52,Green Bay,Josh McNair,Foul,17,19
+11:52,Green Bay,None,None,17,19
+11:44,UIC,Rob Howard Jr.,Jumper,19,19
+11:37,Green Bay,Kameron Hankerson,Turnover,19,19
+11:37,UIC,Rob Howard Jr.,Steal,19,19
+11:30,UIC,Godwin Boahen,Three Point Jumper,22,19
+11:10,Green Bay,Shanquan Hemphill,Turnover,22,19
+11:10,UIC,Tarkus Ferguson,Steal,22,19
+11:08,UIC,Tarkus Ferguson,Dunk,24,19
+11:05,Green Bay,None,None,24,19
+10:49,Green Bay,Josh McNair,Missed Layup,24,19
+10:49,UIC,Rob Howard Jr.,Block,24,19
+10:49,Green Bay,Green Bay,Offensive Rebound,24,19
+10:44,Green Bay,Cody Schwartz,Turnover,24,19
+10:26,UIC,Michael Diggins,Missed Layup,24,19
+10:26,Green Bay,Sandy Cohen III,Defensive Rebound,24,19
+10:16,Green Bay,Sandy Cohen III,Jumper,24,21
+10:05,UIC,Rob Howard Jr.,Layup,26,21
+9:56,Green Bay,Sandy Cohen III,Missed Three Point Jumper,26,21
+9:56,UIC,Rob Howard Jr.,Defensive Rebound,26,21
+9:46,UIC,Michael Diggins,Three Point Jumper,29,21
+9:44,Green Bay,None,None,29,21
+9:21,Green Bay,Josh McNair,Layup,29,23
+9:02,UIC,Rob Howard Jr.,Three Point Jumper,32,23
+8:45,Green Bay,Sandy Cohen III,Jumper,32,25
+8:45,UIC,Michael Diggins,Foul,32,25
+8:45,Green Bay,Sandy Cohen III,Free Throw,32,26
+8:19,UIC,Jamie Ahale,Three Point Jumper,35,26
+8:01,Green Bay,Josh McNair,Layup,35,28
+7:39,UIC,Marcus Ottey,Missed Layup,35,28
+7:39,Green Bay,Sandy Cohen III,Block,35,28
+7:37,Green Bay,Shanquan Hemphill,Defensive Rebound,35,28
+7:29,Green Bay,PJ Pipes,Missed Layup,35,28
+7:29,UIC,Travell Washington,Defensive Rebound,35,28
+7:23,UIC,Michael Diggins,Three Point Jumper,38,28
+7:08,Green Bay,Sandy Cohen III,Turnover,38,28
+7:08,Green Bay,None,None,38,28
+6:40,UIC,Travell Washington,Missed Jumper,38,28
+6:40,Green Bay,Shanquan Hemphill,Defensive Rebound,38,28
+6:26,Green Bay,Sandy Cohen III,Missed Three Point Jumper,38,28
+6:26,UIC,Jamie Ahale,Defensive Rebound,38,28
+6:18,UIC,Godwin Boahen,Missed Three Point Jumper,38,28
+6:18,Green Bay,Green Bay,Defensive Rebound,38,28
+6:03,Green Bay,Sandy Cohen III,Layup,38,30
+5:44,UIC,Marcus Ottey,Missed Layup,38,30
+5:44,Green Bay,Kameron Hankerson,Block,38,30
+5:42,Green Bay,Shanquan Hemphill,Defensive Rebound,38,30
+5:38,UIC,Godwin Boahen,Foul,38,30
+5:38,Green Bay,Sandy Cohen III,Free Throw,38,31
+5:38,Green Bay,Sandy Cohen III,Free Throw,38,32
+5:11,UIC,Jamie Ahale,Missed Three Point Jumper,38,32
+5:11,UIC,Travell Washington,Offensive Rebound,38,32
+5:09,Green Bay,Sandy Cohen III,Foul,38,32
+5:00,UIC,Tarkus Ferguson,Missed Three Point Jumper,38,32
+5:00,Green Bay,Green Bay,Defensive Rebound,38,32
+4:45,Green Bay,Sandy Cohen III,Missed Jumper,38,32
+4:45,Green Bay,Shanquan Hemphill,Offensive Rebound,38,32
+4:40,Green Bay,PJ Pipes,Missed Three Point Jumper,38,32
+4:40,UIC,Michael Diggins,Defensive Rebound,38,32
+4:20,UIC,Marcus Ottey,Layup,40,32
+4:06,Green Bay,Josh McNair,Missed Jumper,40,32
+4:06,UIC,Jacob Wiley,Block,40,32
+4:03,UIC,Jacob Wiley,Defensive Rebound,40,32
+3:59,UIC,Tarkus Ferguson,Missed Three Point Jumper,40,32
+3:59,Green Bay,Kameron Hankerson,Defensive Rebound,40,32
+3:46,Green Bay,Sandy Cohen III,Missed Three Point Jumper,40,32
+3:46,Green Bay,Josh McNair,Offensive Rebound,40,32
+3:38,Green Bay,None,None,40,32
+3:23,Green Bay,Kameron Hankerson,Missed Three Point Jumper,40,32
+3:23,UIC,Michael Diggins,Defensive Rebound,40,32
+3:10,UIC,Michael Diggins,Missed Layup,40,32
+3:10,Green Bay,Shanquan Hemphill,Block,40,32
+3:10,UIC,UIC,Offensive Rebound,40,32
+3:08,UIC,Tarkus Ferguson,Turnover,40,32
+3:06,Green Bay,Shanquan Hemphill,Steal,40,32
+3:04,Green Bay,Shanquan Hemphill,Dunk,40,34
+2:50,Green Bay,Josh McNair,Foul,40,34
+2:50,UIC,Tarkus Ferguson,Missed Free Throw,40,34
+2:50,UIC,None,Team Rebound,40,34
+2:50,UIC,Tarkus Ferguson,Free Throw,41,34
+2:34,UIC,Marcus Ottey,Foul,41,34
+2:34,Green Bay,Sandy Cohen III,Free Throw,41,35
+2:34,Green Bay,Sandy Cohen III,Free Throw,41,36
+2:23,UIC,Michael Diggins,Missed Three Point Jumper,41,36
+2:23,Green Bay,Kameron Hankerson,Defensive Rebound,41,36
+2:10,Green Bay,Kameron Hankerson,Jumper,41,38
+1:44,Green Bay,Kameron Hankerson,Foul,41,38
+1:44,UIC,Marcus Ottey,Free Throw,42,38
+1:44,UIC,Marcus Ottey,Free Throw,43,38
+1:25,Green Bay,Trevian Bell,Missed Three Point Jumper,43,38
+1:25,UIC,Tarkus Ferguson,Defensive Rebound,43,38
+1:10,UIC,Godwin Boahen,Turnover,43,38
+1:09,Green Bay,JayQuan McCloud,Steal,43,38
+1:04,UIC,Michael Diggins,Foul,43,38
+1:04,Green Bay,Shanquan Hemphill,Missed Free Throw,43,38
+1:04,Green Bay,None,Team Rebound,43,38
+1:04,Green Bay,Shanquan Hemphill,Missed Free Throw,43,38
+1:04,UIC,Michael Diggins,Defensive Rebound,43,38
+0:49,Green Bay,Shanquan Hemphill,Foul,43,38
+0:49,UIC,Godwin Boahen,Missed Free Throw,43,38
+0:49,UIC,None,Team Rebound,43,38
+0:49,UIC,Godwin Boahen,Free Throw,44,38
+0:43,UIC,Godwin Boahen,Foul,44,38
+0:43,Green Bay,JayQuan McCloud,Free Throw,44,39
+0:43,Green Bay,JayQuan McCloud,Free Throw,44,40
+0:37,UIC,Tarkus Ferguson,Missed Three Point Jumper,44,40
+0:37,Green Bay,Sandy Cohen III,Defensive Rebound,44,40
+0:36,UIC,Ralph Bissainthe,Foul,44,40
+0:36,Green Bay,Sandy Cohen III,Free Throw,44,41
+0:36,Green Bay,Sandy Cohen III,Free Throw,44,42
+0:09,UIC,Marcus Ottey,Missed Jumper,44,42
+0:09,Green Bay,Kameron Hankerson,Block,44,42
+0:07,Green Bay,JayQuan McCloud,Defensive Rebound,44,42
+0:03,Green Bay,JayQuan McCloud,Missed Layup,44,42
+0:03,UIC,Jacob Wiley,Defensive Rebound,44,42
+0:00,Green Bay,None,None,44,42
+19:43,UIC,Michael Diggins,Jumper,46,42
+19:31,UIC,Rob Howard Jr.,Foul,46,42
+19:31,Green Bay,Shanquan Hemphill,Missed Free Throw,46,42
+19:31,Green Bay,None,Team Rebound,46,42
+19:31,Green Bay,Shanquan Hemphill,Free Throw,46,43
+19:21,UIC,Michael Diggins,Dunk,48,43
+19:14,Green Bay,PJ Pipes,Missed Three Point Jumper,48,43
+19:14,UIC,Tarkus Ferguson,Defensive Rebound,48,43
+19:10,UIC,Tarkus Ferguson,Turnover,48,43
+19:10,Green Bay,Shanquan Hemphill,Steal,48,43
+19:08,UIC,Rob Howard Jr.,Foul,48,43
+19:08,Green Bay,PJ Pipes,Free Throw,48,44
+19:08,Green Bay,PJ Pipes,Free Throw,48,45
+18:59,Green Bay,PJ Pipes,Foul,48,45
+18:55,UIC,Tarkus Ferguson,Jumper,50,45
+18:37,Green Bay,Sandy Cohen III,Jumper,50,47
+18:15,UIC,Marcus Ottey,Layup,52,47
+18:02,Green Bay,Sandy Cohen III,Jumper,52,49
+17:48,UIC,Travell Washington,Missed Three Point Jumper,52,49
+17:48,Green Bay,Josh McNair,Defensive Rebound,52,49
+17:37,Green Bay,Shanquan Hemphill,Layup,52,51
+17:30,UIC,Marcus Ottey,Missed Layup,52,51
+17:30,Green Bay,JayQuan McCloud,Defensive Rebound,52,51
+17:07,UIC,Travell Washington,Foul,52,51
+17:07,Green Bay,Kameron Hankerson,Free Throw,52,52
+17:07,Green Bay,Kameron Hankerson,Free Throw,52,53
+16:47,UIC,Tarkus Ferguson,Missed Three Point Jumper,52,53
+16:47,Green Bay,Kameron Hankerson,Defensive Rebound,52,53
+16:41,Green Bay,JayQuan McCloud,Three Point Jumper,52,56
+16:16,UIC,Godwin Boahen,Missed Three Point Jumper,52,56
+16:16,Green Bay,Kameron Hankerson,Defensive Rebound,52,56
+16:08,Green Bay,Sandy Cohen III,Missed Three Point Jumper,52,56
+16:08,UIC,Godwin Boahen,Defensive Rebound,52,56
+15:56,Green Bay,JayQuan McCloud,Foul,52,56
+15:56,Green Bay,None,None,52,56
+15:56,UIC,Godwin Boahen,Free Throw,53,56
+15:56,UIC,Godwin Boahen,Free Throw,54,56
+15:52,Green Bay,JayQuan McCloud,Jumper,54,58
+15:28,UIC,Marcus Ottey,Missed Layup,54,58
+15:28,Green Bay,Josh McNair,Block,54,58
+15:27,Green Bay,JayQuan McCloud,Defensive Rebound,54,58
+15:21,Green Bay,JayQuan McCloud,Jumper,54,60
+14:59,UIC,Tarkus Ferguson,Missed Layup,54,60
+14:59,Green Bay,Josh McNair,Defensive Rebound,54,60
+14:49,Green Bay,JayQuan McCloud,Missed Layup,54,60
+14:49,Green Bay,Shanquan Hemphill,Offensive Rebound,54,60
+14:47,Green Bay,Shanquan Hemphill,Missed Layup,54,60
+14:47,UIC,Michael Diggins,Block,54,60
+14:47,Green Bay,Green Bay,Offensive Rebound,54,60
+14:43,Green Bay,Kameron Hankerson,Turnover,54,60
+14:42,UIC,Marcus Ottey,Steal,54,60
+14:40,UIC,Marcus Ottey,Dunk,56,60
+14:33,UIC,Michael Diggins,Foul,56,60
+14:18,Green Bay,JayQuan McCloud,Three Point Jumper,56,63
+14:08,UIC,Marcus Ottey,Layup,58,63
+13:55,UIC,Jacob Wiley,Foul,58,63
+13:29,Green Bay,Sandy Cohen III,Jumper,58,65
+13:16,Green Bay,Sandy Cohen III,Steal,58,65
+13:16,UIC,Jacob Wiley,Turnover,58,65
+13:08,Green Bay,JayQuan McCloud,Missed Three Point Jumper,58,65
+13:08,UIC,Jacob Wiley,Defensive Rebound,58,65
+13:02,UIC,Tarkus Ferguson,Missed Three Point Jumper,58,65
+13:02,Green Bay,Green Bay,Defensive Rebound,58,65
+13:01,UIC,Jacob Wiley,Foul,58,65
+12:48,Green Bay,Shanquan Hemphill,Missed Jumper,58,65
+12:48,Green Bay,Josh McNair,Offensive Rebound,58,65
+12:44,Green Bay,Josh McNair,Dunk,58,67
+12:25,UIC,Marcus Ottey,Missed Three Point Jumper,58,67
+12:25,Green Bay,Kameron Hankerson,Defensive Rebound,58,67
+12:05,Green Bay,Sandy Cohen III,Missed Jumper,58,67
+12:05,UIC,Jamie Ahale,Defensive Rebound,58,67
+11:50,UIC,Godwin Boahen,Layup,60,67
+11:49,UIC,None,None,60,67
+11:49,Green Bay,None,None,60,67
+11:28,Green Bay,Shanquan Hemphill,Layup,60,69
+11:15,UIC,Tarkus Ferguson,Three Point Jumper,63,69
+10:37,Green Bay,Josh McNair,Missed Layup,63,69
+10:37,UIC,Tarkus Ferguson,Block,63,69
+10:35,UIC,Tarkus Ferguson,Defensive Rebound,63,69
+10:33,UIC,Jamie Ahale,Missed Three Point Jumper,63,69
+10:33,UIC,Godwin Boahen,Offensive Rebound,63,69
+10:33,Green Bay,Kameron Hankerson,Foul,63,69
+10:25,UIC,Godwin Boahen,Missed Three Point Jumper,63,69
+10:25,Green Bay,PJ Pipes,Defensive Rebound,63,69
+10:10,Green Bay,JayQuan McCloud,Turnover,63,69
+10:05,UIC,Marcus Ottey,Steal,63,69
+10:03,UIC,Marcus Ottey,Layup,65,69
+9:44,Green Bay,Sandy Cohen III,Missed Three Point Jumper,65,69
+9:44,UIC,Tarkus Ferguson,Defensive Rebound,65,69
+9:35,UIC,Tarkus Ferguson,Missed Three Point Jumper,65,69
+9:35,Green Bay,Sandy Cohen III,Defensive Rebound,65,69
+9:13,Green Bay,Shanquan Hemphill,Layup,65,71
+8:48,UIC,Godwin Boahen,Three Point Jumper,68,71
+8:15,Green Bay,JayQuan McCloud,Missed Jumper,68,71
+8:15,UIC,Marcus Ottey,Block,68,71
+8:13,UIC,Tarkus Ferguson,Defensive Rebound,68,71
+8:03,UIC,Tarkus Ferguson,Three Point Jumper,71,71
+7:45,Green Bay,Sandy Cohen III,Missed Jumper,71,71
+7:45,Green Bay,Trevian Bell,Offensive Rebound,71,71
+7:36,Green Bay,Sandy Cohen III,Turnover,71,71
+7:35,UIC,Michael Diggins,Steal,71,71
+7:30,UIC,Michael Diggins,Dunk,73,71
+7:30,Green Bay,Josh McNair,Foul,73,71
+7:30,UIC,Michael Diggins,Foul,73,71
+7:30,UIC,Michael Diggins,Foul,73,71
+7:30,Green Bay,Sandy Cohen III,Free Throw,73,72
+7:30,Green Bay,Sandy Cohen III,Missed Free Throw,73,72
+7:30,Green Bay,None,Team Rebound,73,72
+7:30,UIC,Michael Diggins,Missed Free Throw,73,72
+7:30,Green Bay,Kameron Hankerson,Defensive Rebound,73,72
+7:13,Green Bay,JayQuan McCloud,Three Point Jumper,73,75
+6:54,Green Bay,Josh McNair,Foul,73,75
+6:48,UIC,Tarkus Ferguson,Missed Layup,73,75
+6:48,Green Bay,JayQuan McCloud,Defensive Rebound,73,75
+6:30,Green Bay,Kameron Hankerson,Three Point Jumper,73,78
+6:11,UIC,Michael Diggins,Missed Layup,73,78
+6:11,UIC,Michael Diggins,Offensive Rebound,73,78
+6:08,UIC,None,None,73,78
+6:08,UIC,UIC,Offensive Rebound,73,78
+5:51,UIC,Tarkus Ferguson,Missed Three Point Jumper,73,78
+5:51,Green Bay,JayQuan McCloud,Defensive Rebound,73,78
+5:42,Green Bay,Shanquan Hemphill,Missed Jumper,73,78
+5:42,UIC,Rob Howard Jr.,Defensive Rebound,73,78
+5:35,UIC,Michael Diggins,Missed Three Point Jumper,73,78
+5:35,Green Bay,Shanquan Hemphill,Defensive Rebound,73,78
+5:20,Green Bay,Trevian Bell,Turnover,73,78
+5:20,Green Bay,Trevian Bell,Foul,73,78
+5:03,UIC,Rob Howard Jr.,Missed Dunk,73,78
+5:03,Green Bay,JayQuan McCloud,Block,73,78
+5:00,Green Bay,JayQuan McCloud,Defensive Rebound,73,78
+4:50,Green Bay,Shanquan Hemphill,Dunk,73,80
+4:45,Green Bay,Trevian Bell,Foul,73,80
+4:45,UIC,Godwin Boahen,Missed Free Throw,73,80
+4:45,UIC,Godwin Boahen,Offensive Rebound,73,80
+4:42,Green Bay,Kameron Hankerson,Foul,73,80
+4:42,UIC,Godwin Boahen,Free Throw,74,80
+4:42,UIC,Godwin Boahen,Free Throw,75,80
+4:19,Green Bay,Kameron Hankerson,Jumper,75,82
+4:01,UIC,Marcus Ottey,Jumper,77,82
+4:01,Green Bay,Kameron Hankerson,Foul,77,82
+4:01,UIC,Marcus Ottey,Free Throw,78,82
+3:40,Green Bay,Sandy Cohen III,Missed Jumper,78,82
+3:40,UIC,Marcus Ottey,Defensive Rebound,78,82
+3:36,UIC,Michael Diggins,Dunk,80,82
+3:17,Green Bay,Shanquan Hemphill,Jumper,80,84
+3:15,Green Bay,None,None,80,84
+3:15,Green Bay,None,None,80,84
+3:05,UIC,Marcus Ottey,Missed Layup,80,84
+3:05,UIC,Michael Diggins,Offensive Rebound,80,84
+3:01,UIC,Michael Diggins,Dunk,82,84
+2:31,Green Bay,Shanquan Hemphill,Missed Jumper,82,84
+2:31,UIC,Rob Howard Jr.,Defensive Rebound,82,84
+2:17,UIC,Rob Howard Jr.,Missed Layup,82,84
+2:17,Green Bay,Sandy Cohen III,Block,82,84
+2:15,Green Bay,Shanquan Hemphill,Defensive Rebound,82,84
+1:46,Green Bay,Kameron Hankerson,Three Point Jumper,82,87
+1:27,UIC,Marcus Ottey,Missed Layup,82,87
+1:27,Green Bay,Sandy Cohen III,Defensive Rebound,82,87
+1:03,Green Bay,Sandy Cohen III,Three Point Jumper,82,90
+0:52,UIC,None,None,82,90
+0:46,UIC,Godwin Boahen,Turnover,82,90
+0:46,Green Bay,Sandy Cohen III,Foul,82,90
+0:38,UIC,Tarkus Ferguson,Missed Three Point Jumper,82,90
+0:38,UIC,Godwin Boahen,Offensive Rebound,82,90
+0:37,UIC,Godwin Boahen,Layup,84,90
+0:37,Green Bay,JayQuan McCloud,Foul,84,90
+0:37,UIC,Godwin Boahen,Free Throw,85,90
+0:29,Green Bay,Kameron Hankerson,Turnover,85,90
+0:24,UIC,Godwin Boahen,Missed Three Point Jumper,85,90
+0:24,Green Bay,Josh McNair,Defensive Rebound,85,90
+0:22,UIC,Tarkus Ferguson,Foul,85,90
+0:22,Green Bay,Josh McNair,Missed Free Throw,85,90
+0:22,UIC,Tarkus Ferguson,Defensive Rebound,85,90
+0:16,UIC,Tarkus Ferguson,Missed Three Point Jumper,85,90
+0:16,Green Bay,Sandy Cohen III,Defensive Rebound,85,90
+0:00,Green Bay,None,None,85,90

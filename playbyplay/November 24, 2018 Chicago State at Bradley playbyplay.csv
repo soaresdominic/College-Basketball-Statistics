@@ -1,0 +1,319 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:33,Chicago State,Rob Shaw,Three Point Jumper,3,0
+19:03,Bradley,Nate Kennell,Missed Three Point Jumper,3,0
+19:03,Bradley,Dwayne Lautier-Ogunleye,Offensive Rebound,3,0
+18:58,Bradley,Nate Kennell,Missed Three Point Jumper,3,0
+18:58,Bradley,Elijah Childs,Offensive Rebound,3,0
+18:53,Bradley,Elijah Childs,Jumper,3,2
+18:21,Chicago State,Patrick Szpir,Layup,5,2
+17:59,Bradley,Dwayne Lautier-Ogunleye,Missed Three Point Jumper,5,2
+17:59,Chicago State,Anthony Harris,Defensive Rebound,5,2
+17:32,Chicago State,Patrick Szpir,Missed Jumper,5,2
+17:32,Bradley,Dwayne Lautier-Ogunleye,Defensive Rebound,5,2
+17:24,Chicago State,Patrick Szpir,Foul,5,2
+17:07,Bradley,Dwayne Lautier-Ogunleye,Layup,5,4
+16:49,Chicago State,Anthony Harris,Missed Jumper,5,4
+16:49,Bradley,Elijah Childs,Defensive Rebound,5,4
+16:38,Bradley,Koch Bar,Layup,5,6
+16:09,Chicago State,Travon Bell,Three Point Jumper,8,6
+15:44,Bradley,Darrell Brown,Missed Jumper,8,6
+15:44,Chicago State,Ken Odiase,Defensive Rebound,8,6
+15:31,Chicago State,Ken Odiase,Missed Jumper,8,6
+15:31,Bradley,Elijah Childs,Defensive Rebound,8,6
+15:22,Bradley,Darrell Brown,Missed Jumper,8,6
+15:22,Chicago State,Ken Odiase,Block,8,6
+15:20,Bradley,Nate Kennell,Offensive Rebound,8,6
+15:06,Bradley,Koch Bar,Missed Jumper,8,6
+15:06,Chicago State,Ken Odiase,Defensive Rebound,8,6
+14:57,Chicago State,Christian Jacob,Layup,10,6
+14:55,Bradley,None,None,10,6
+14:40,Bradley,Dwayne Lautier-Ogunleye,Layup,10,8
+14:15,Chicago State,Travon Bell,Turnover,10,8
+14:14,Bradley,Ja'Shon Henry,Steal,10,8
+13:47,Bradley,Jayden Hodgson,Missed Three Point Jumper,10,8
+13:47,Bradley,Elijah Childs,Offensive Rebound,10,8
+13:41,Bradley,Darrell Brown,Three Point Jumper,10,11
+13:26,Chicago State,Travon Bell,Missed Jumper,10,11
+13:26,Chicago State,Chicago State,Offensive Rebound,10,11
+13:20,Chicago State,Anthony Harris,Turnover,10,11
+13:20,Bradley,Elijah Childs,Steal,10,11
+13:20,Chicago State,Ken Odiase,Foul,10,11
+13:14,Bradley,Ja'Shon Henry,Jumper,10,13
+12:29,Chicago State,Rob Shaw,Turnover,10,13
+12:27,Bradley,Elijah Childs,Steal,10,13
+12:14,Bradley,Darrell Brown,Three Point Jumper,10,16
+12:13,Bradley,None,None,10,16
+11:50,Chicago State,Christian Jacob,Missed Jumper,10,16
+11:50,Chicago State,Chicago State,Offensive Rebound,10,16
+11:45,Chicago State,Christian Jacob,Turnover,10,16
+11:42,Bradley,Jayden Hodgson,Steal,10,16
+11:40,Bradley,Nate Kennell,Layup,10,18
+11:19,Chicago State,Christian Jacob,Turnover,10,18
+11:18,Bradley,Nate Kennell,Steal,10,18
+11:09,Bradley,Antoine Pittman,Turnover,10,18
+10:48,Chicago State,Rob Shaw,Missed Jumper,10,18
+10:48,Bradley,Ja'Shon Henry,Defensive Rebound,10,18
+10:38,Chicago State,Ken Odiase,Foul,10,18
+10:26,Chicago State,Patrick Szpir,Foul,10,18
+10:19,Chicago State,Christian Jacob,Foul,10,18
+10:19,Bradley,Ja'Shon Henry,Free Throw,10,19
+10:19,Bradley,Ja'Shon Henry,Free Throw,10,20
+10:00,Bradley,Nate Kennell,Foul,10,20
+10:00,Chicago State,Christian Jacob,Missed Free Throw,10,20
+10:00,Chicago State,None,Team Rebound,10,20
+10:00,Chicago State,Christian Jacob,Free Throw,11,20
+9:55,Chicago State,Travon Bell,Foul,11,20
+9:44,Bradley,Luuk van Bree,Three Point Jumper,11,23
+9:42,Chicago State,Eugene Witherspoon,Foul,11,23
+9:42,Bradley,Elijah Childs,Free Throw,11,24
+9:42,Bradley,Elijah Childs,Free Throw,11,25
+9:16,Chicago State,Rob Shaw,Missed Three Point Jumper,11,25
+9:16,Bradley,Elijah Childs,Defensive Rebound,11,25
+9:05,Chicago State,Eugene Witherspoon,Foul,11,25
+9:05,Bradley,Luuk van Bree,Free Throw,11,26
+9:05,Bradley,Luuk van Bree,Free Throw,11,27
+8:58,Chicago State,Christian Jacob,Missed Free Throw,11,27
+8:58,Chicago State,Christian Jacob,Layup,13,27
+8:58,Bradley,Dwayne Lautier-Ogunleye,Defensive Rebound,13,27
+8:58,Bradley,Elijah Childs,Foul,13,27
+8:53,Bradley,Nate Kennell,Missed Three Point Jumper,13,27
+8:53,Chicago State,Rob Shaw,Defensive Rebound,13,27
+8:45,Bradley,Darrell Brown,Foul,13,27
+8:33,Chicago State,Anthony Harris,Missed Jumper,13,27
+8:33,Bradley,Dwayne Lautier-Ogunleye,Defensive Rebound,13,27
+8:11,Bradley,Dwayne Lautier-Ogunleye,Layup,13,29
+7:51,Chicago State,Rob Shaw,Layup,15,29
+7:27,Bradley,Nate Kennell,Jumper,15,31
+6:54,Chicago State,Anthony Harris,Missed Jumper,15,31
+6:54,Chicago State,Christian Jacob,Offensive Rebound,15,31
+6:49,Chicago State,Christian Jacob,Missed Jumper,15,31
+6:49,Bradley,Luuk van Bree,Block,15,31
+6:49,Bradley,None,Team Rebound,15,31
+6:48,Bradley,None,None,15,31
+6:31,Bradley,Darrell Brown,Three Point Jumper,15,34
+6:14,Bradley,Luuk van Bree,Foul,15,34
+6:14,Chicago State,Anthony Harris,Free Throw,16,34
+6:14,Chicago State,Anthony Harris,Free Throw,17,34
+6:01,Bradley,Darrell Brown,Missed Three Point Jumper,17,34
+6:01,Chicago State,Eugene Witherspoon,Defensive Rebound,17,34
+5:44,Chicago State,Christian Jacob,Missed Layup,17,34
+5:44,Bradley,Dwayne Lautier-Ogunleye,Defensive Rebound,17,34
+5:33,Chicago State,Eugene Witherspoon,Foul,17,34
+5:33,Bradley,Jayden Hodgson,Free Throw,17,35
+5:33,Bradley,Jayden Hodgson,Free Throw,17,36
+5:24,Chicago State,Anthony Harris,Missed Three Point Jumper,17,36
+5:24,Chicago State,Noah Bigirumwami,Offensive Rebound,17,36
+5:21,Chicago State,Noah Bigirumwami,Missed Jumper,17,36
+5:21,Bradley,Armon Brummett,Defensive Rebound,17,36
+5:11,Bradley,Ja'Shon Henry,Missed Jumper,17,36
+5:11,Chicago State,Anthony Harris,Defensive Rebound,17,36
+5:02,Chicago State,Travon Bell,Three Point Jumper,20,36
+4:53,Bradley,Koch Bar,Missed Jumper,20,36
+4:53,Chicago State,Anthony Harris,Defensive Rebound,20,36
+4:36,Chicago State,Christian Jacob,Layup,22,36
+4:20,Bradley,Darrell Brown,Turnover,22,36
+4:18,Chicago State,Travon Bell,Steal,22,36
+4:02,Bradley,Dwayne Lautier-Ogunleye,Foul,22,36
+4:02,Chicago State,Anthony Harris,Free Throw,23,36
+4:02,Chicago State,Anthony Harris,Free Throw,24,36
+3:39,Bradley,Elijah Childs,Layup,24,38
+3:15,Chicago State,Anthony Harris,Three Point Jumper,27,38
+2:57,Chicago State,Anthony Harris,Foul,27,38
+2:57,Bradley,None,None,27,38
+2:57,Bradley,Darrell Brown,Free Throw,27,39
+2:57,Bradley,Darrell Brown,Free Throw,27,40
+2:46,Chicago State,Travon Bell,Three Point Jumper,30,40
+2:23,Bradley,Elijah Childs,Missed Layup,30,40
+2:23,Chicago State,Anthony Harris,Block,30,40
+2:22,Chicago State,Anthony Harris,Defensive Rebound,30,40
+2:08,Chicago State,Noah Bigirumwami,Turnover,30,40
+2:05,Bradley,Armon Brummett,Steal,30,40
+1:53,Bradley,Elijah Childs,Foul,30,40
+1:53,Chicago State,Noah Bigirumwami,Foul,30,40
+1:48,Bradley,Koch Bar,Turnover,30,40
+1:46,Chicago State,Travon Bell,Steal,30,40
+1:30,Bradley,Armon Brummett,Foul,30,40
+1:30,Chicago State,Anthony Harris,Free Throw,31,40
+1:30,Chicago State,Anthony Harris,Free Throw,32,40
+1:13,Bradley,Antoine Pittman,Missed Three Point Jumper,32,40
+1:13,Chicago State,Christian Jacob,Defensive Rebound,32,40
+1:06,Bradley,Jayden Hodgson,Foul,32,40
+1:06,Chicago State,Rob Shaw,Missed Free Throw,32,40
+1:06,Chicago State,None,Team Rebound,32,40
+1:06,Chicago State,Rob Shaw,Free Throw,33,40
+0:52,Bradley,Armon Brummett,Missed Jumper,33,40
+0:52,Bradley,Ja'Shon Henry,Offensive Rebound,33,40
+0:47,Bradley,Ja'Shon Henry,Dunk,33,42
+0:32,Chicago State,Noah Bigirumwami,Missed Jumper,33,42
+0:32,Bradley,Armon Brummett,Defensive Rebound,33,42
+0:18,Bradley,Jayden Hodgson,Turnover,33,42
+0:16,Chicago State,Rob Shaw,Steal,33,42
+0:11,Chicago State,Travon Bell,Missed Layup,33,42
+0:11,Bradley,Ja'Shon Henry,Block,33,42
+0:07,Bradley,Armon Brummett,Defensive Rebound,33,42
+0:04,Bradley,Jayden Hodgson,Missed Three Point Jumper,33,42
+0:04,Bradley,Antoine Pittman,Offensive Rebound,33,42
+0:04,Chicago State,Anthony Harris,Foul,33,42
+0:04,Bradley,Ja'Shon Henry,Missed Free Throw,33,42
+0:04,Bradley,None,Team Rebound,33,42
+0:04,Bradley,Ja'Shon Henry,Free Throw,33,43
+0:00,Chicago State,Travon Bell,Missed Three Point Jumper,33,43
+0:00,Bradley,Bradley,Defensive Rebound,33,43
+0:00,Bradley,None,None,33,43
+19:39,Bradley,Elijah Childs,Jumper,33,45
+19:06,Bradley,Koch Bar,Foul,33,45
+19:06,Chicago State,Christian Jacob,Free Throw,34,45
+19:06,Chicago State,Christian Jacob,Free Throw,35,45
+18:47,Bradley,Darrell Brown,Missed Three Point Jumper,35,45
+18:47,Bradley,Koch Bar,Offensive Rebound,35,45
+18:41,Bradley,Koch Bar,Jumper,35,47
+18:22,Chicago State,Travon Bell,Turnover,35,47
+18:19,Bradley,Elijah Childs,Steal,35,47
+18:13,Bradley,Nate Kennell,Missed Three Point Jumper,35,47
+18:13,Chicago State,Travon Bell,Defensive Rebound,35,47
+18:05,Chicago State,Anthony Harris,Missed Three Point Jumper,35,47
+18:05,Bradley,Nate Kennell,Defensive Rebound,35,47
+17:52,Bradley,Elijah Childs,Missed Jumper,35,47
+17:52,Chicago State,Anthony Harris,Defensive Rebound,35,47
+17:46,Chicago State,Rob Shaw,Missed Layup,35,47
+17:46,Bradley,Ja'Shon Henry,Block,35,47
+17:44,Bradley,Elijah Childs,Defensive Rebound,35,47
+17:30,Chicago State,Christian Jacob,Foul,35,47
+17:30,Bradley,Ja'Shon Henry,Free Throw,35,48
+17:30,Bradley,Ja'Shon Henry,Free Throw,35,49
+17:21,Chicago State,Anthony Harris,Foul,35,49
+17:21,Chicago State,Anthony Harris,Turnover,35,49
+17:07,Bradley,Ja'Shon Henry,Missed Jumper,35,49
+17:07,Chicago State,Ken Odiase,Defensive Rebound,35,49
+16:53,Bradley,Dwayne Lautier-Ogunleye,Foul,35,49
+16:43,Chicago State,Christian Jacob,Turnover,35,49
+16:20,Bradley,Darrell Brown,Turnover,35,49
+16:19,Chicago State,Anthony Harris,Steal,35,49
+16:15,Chicago State,Rob Shaw,Missed Layup,35,49
+16:15,Bradley,Dwayne Lautier-Ogunleye,Block,35,49
+16:15,Bradley,Darrell Brown,Defensive Rebound,35,49
+16:10,Bradley,Elijah Childs,Dunk,35,51
+16:02,Chicago State,None,None,35,51
+15:45,Chicago State,Rob Shaw,Layup,37,51
+15:18,Bradley,Elijah Childs,Missed Layup,37,51
+15:18,Bradley,Elijah Childs,Offensive Rebound,37,51
+15:15,Bradley,Elijah Childs,Jumper,37,53
+15:08,Bradley,Ja'Shon Henry,Foul,37,53
+15:08,Chicago State,None,None,37,53
+14:52,Chicago State,Travon Bell,Missed Three Point Jumper,37,53
+14:52,Bradley,Elijah Childs,Defensive Rebound,37,53
+14:41,Bradley,Jayden Hodgson,Missed Layup,37,53
+14:41,Chicago State,Christian Jacob,Block,37,53
+14:39,Chicago State,Travon Bell,Defensive Rebound,37,53
+14:35,Chicago State,Anthony Harris,Missed Layup,37,53
+14:35,Bradley,Elijah Childs,Defensive Rebound,37,53
+14:14,Bradley,Darrell Brown,Missed Three Point Jumper,37,53
+14:14,Bradley,Luuk van Bree,Offensive Rebound,37,53
+14:08,Bradley,Luuk van Bree,Jumper,37,55
+13:45,Bradley,Dwayne Lautier-Ogunleye,Foul,37,55
+13:43,Chicago State,Christian Jacob,Missed Layup,37,55
+13:43,Bradley,Luuk van Bree,Defensive Rebound,37,55
+13:43,Bradley,Luuk van Bree,Turnover,37,55
+13:43,Chicago State,Christian Jacob,Steal,37,55
+13:40,Chicago State,Anthony Harris,Turnover,37,55
+13:38,Bradley,Jayden Hodgson,Steal,37,55
+13:16,Chicago State,Eugene Witherspoon,Foul,37,55
+13:15,Bradley,Darrell Brown,Three Point Jumper,37,58
+12:41,Chicago State,Rob Shaw,Missed Jumper,37,58
+12:41,Bradley,Elijah Childs,Defensive Rebound,37,58
+12:32,Bradley,Darrell Brown,Missed Three Point Jumper,37,58
+12:32,Chicago State,Rob Shaw,Defensive Rebound,37,58
+12:23,Chicago State,Rob Shaw,Missed Layup,37,58
+12:23,Bradley,Elijah Childs,Defensive Rebound,37,58
+11:56,Bradley,Elijah Childs,Missed Jumper,37,58
+11:56,Chicago State,Noah Bigirumwami,Defensive Rebound,37,58
+11:27,Chicago State,Anthony Harris,Missed Jumper,37,58
+11:27,Chicago State,Chicago State,Offensive Rebound,37,58
+11:24,Chicago State,None,None,37,58
+11:10,Bradley,Darrell Brown,Foul,37,58
+11:02,Chicago State,Christian Jacob,Jumper,39,58
+10:32,Bradley,Jayden Hodgson,Three Point Jumper,39,61
+10:09,Chicago State,Christian Jacob,Layup,41,61
+10:06,Chicago State,Christian Jacob,Foul,41,61
+10:06,Bradley,Darrell Brown,Free Throw,41,62
+10:06,Chicago State,Christian Jacob,Foul,41,61
+10:06,Bradley,Darrell Brown,Free Throw,41,63
+9:51,Bradley,Nate Kennell,Three Point Jumper,41,66
+9:26,Bradley,Antoine Pittman,Foul,41,66
+9:22,Chicago State,Christian Jacob,Jumper,43,66
+9:01,Chicago State,Travon Bell,Foul,43,66
+8:53,Chicago State,Rob Shaw,Foul,43,66
+8:46,Chicago State,Christian Jacob,Foul,43,66
+8:46,Bradley,Jayden Hodgson,Free Throw,43,67
+8:46,Bradley,Jayden Hodgson,Free Throw,43,68
+8:22,Chicago State,Anthony Harris,Turnover,43,68
+8:20,Bradley,Nate Kennell,Steal,43,68
+8:18,Bradley,Antoine Pittman,Layup,43,70
+7:57,Bradley,Antoine Pittman,Foul,43,70
+7:57,Chicago State,None,None,43,70
+7:56,Chicago State,Anthony Harris,Free Throw,44,70
+7:56,Chicago State,Anthony Harris,Free Throw,45,70
+7:46,Bradley,Nate Kennell,Three Point Jumper,45,73
+7:18,Chicago State,Noah Bigirumwami,Missed Jumper,45,73
+7:18,Bradley,Nate Kennell,Defensive Rebound,45,73
+7:09,Bradley,Ja'Shon Henry,Missed Dunk,45,73
+7:09,Chicago State,Anthony Harris,Defensive Rebound,45,73
+7:07,Bradley,Koch Bar,Foul,45,73
+7:07,Chicago State,Anthony Harris,Free Throw,46,73
+7:07,Chicago State,Anthony Harris,Free Throw,47,73
+6:55,Bradley,Antoine Pittman,Missed Jumper,47,73
+6:55,Chicago State,Eugene Witherspoon,Defensive Rebound,47,73
+6:44,Chicago State,Rob Shaw,Missed Jumper,47,73
+6:44,Chicago State,Christian Jacob,Offensive Rebound,47,73
+6:40,Bradley,Luqman Lundy,Foul,47,73
+6:40,Chicago State,Christian Jacob,Free Throw,48,73
+6:40,Chicago State,Christian Jacob,Free Throw,49,73
+6:11,Bradley,Koch Bar,Dunk,49,75
+6:02,Chicago State,Christian Jacob,Layup,51,75
+5:35,Bradley,Armon Brummett,Turnover,51,75
+5:21,Bradley,Armon Brummett,Foul,51,75
+5:21,Chicago State,Ken Odiase,Free Throw,52,75
+5:21,Chicago State,Ken Odiase,Missed Free Throw,52,75
+5:21,Chicago State,Christian Jacob,Offensive Rebound,52,75
+5:18,Bradley,Elijah Childs,Foul,52,75
+5:18,Chicago State,Christian Jacob,Free Throw,53,75
+5:18,Chicago State,Christian Jacob,Free Throw,54,75
+5:08,Bradley,Luuk van Bree,Layup,54,77
+4:54,Chicago State,Rob Shaw,Foul,54,77
+4:41,Bradley,Luuk van Bree,Three Point Jumper,54,80
+4:09,Chicago State,Ken Odiase,Missed Layup,54,80
+4:09,Chicago State,Ken Odiase,Offensive Rebound,54,80
+4:06,Chicago State,Ken Odiase,Missed Jumper,54,80
+4:06,Chicago State,Eugene Witherspoon,Offensive Rebound,54,80
+4:06,Chicago State,Chicago State ,Turnover,54,80
+3:50,Bradley,Ja'Shon Henry,Turnover,54,80
+3:50,Chicago State,None,None,54,80
+3:40,Bradley,Luuk van Bree,Foul,54,80
+3:40,Chicago State,Ken Odiase,Free Throw,55,80
+3:40,Chicago State,Ken Odiase,Free Throw,56,80
+3:32,Bradley,Armon Brummett,Jumper,56,82
+3:18,Chicago State,Anthony Harris,Three Point Jumper,59,82
+2:56,Bradley,Luuk van Bree,Jumper,59,84
+2:33,Chicago State,Ken Odiase,Layup,61,84
+2:33,Bradley,Ja'Shon Henry,Foul,61,84
+2:33,Chicago State,Ken Odiase,Missed Free Throw,61,84
+2:33,Bradley,Ja'Shon Henry,Defensive Rebound,61,84
+2:19,Bradley,Luuk van Bree,Missed Jumper,61,84
+2:19,Bradley,Antoine Pittman,Offensive Rebound,61,84
+2:04,Bradley,Armon Brummett,Missed Three Point Jumper,61,84
+2:04,Chicago State,Christian Jacob,Defensive Rebound,61,84
+1:51,Chicago State,Rob Shaw,Three Point Jumper,64,84
+1:38,Bradley,None,None,64,84
+1:24,Bradley,Armon Brummett,Missed Layup,64,84
+1:24,Chicago State,Noah Bigirumwami,Defensive Rebound,64,84
+1:19,Bradley,Armon Brummett,Foul,64,84
+1:19,Chicago State,Noah Bigirumwami,Free Throw,65,84
+1:19,Chicago State,Noah Bigirumwami,Free Throw,66,84
+0:59,Bradley,Peter Hanley,Layup,66,86
+0:41,Bradley,Luqman Lundy,Foul,66,86
+0:41,Chicago State,Eugene Witherspoon,Free Throw,67,86
+0:41,Chicago State,Eugene Witherspoon,Free Throw,68,86
+0:30,Bradley,Armon Brummett,Turnover,68,86
+0:29,Chicago State,Eugene Witherspoon,Steal,68,86
+0:27,Chicago State,Ken Odiase,Layup,70,86
+0:00,Bradley,None,None,70,86

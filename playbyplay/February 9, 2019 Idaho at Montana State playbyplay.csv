@@ -1,0 +1,282 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:41,Montana State,Harald Frey,Missed Three Point Jumper,0,0
+19:41,Idaho,Jared Rodriguez,Defensive Rebound,0,0
+19:10,Idaho,Trevon Allen,Missed Three Point Jumper,0,0
+19:10,Montana State,Harald Frey,Defensive Rebound,0,0
+19:01,Montana State,Devin Kirby,Layup,0,2
+18:43,Idaho,Cassius Smits-Francisco,Foul,0,2
+18:43,Idaho,Cassius Smits-Francisco,Turnover,0,2
+18:28,Montana State,Devin Kirby,Layup,0,4
+17:55,Idaho,Trevon Allen,Missed Jumper,0,4
+17:55,Montana State,Montana State,Defensive Rebound,0,4
+17:42,Montana State,Tyler Hall,Missed Three Point Jumper,0,4
+17:42,Idaho,Jared Rodriguez,Defensive Rebound,0,4
+17:17,Idaho,Jared Rodriguez,Missed Layup,0,4
+17:17,Montana State,Keljin Blevins,Defensive Rebound,0,4
+17:15,Idaho,Jared Rodriguez,Foul,0,4
+16:53,Montana State,Russell Daniels,Missed Layup,0,4
+16:53,Idaho,Cassius Smits-Francisco,Defensive Rebound,0,4
+16:38,Idaho,Trevon Allen,Jumper,2,4
+16:20,Montana State,Devin Kirby,Turnover,2,4
+16:19,Idaho,Geno West,Steal,2,4
+16:00,Idaho,Geno West,Turnover,2,4
+15:59,Montana State,Russell Daniels,Steal,2,4
+15:56,Montana State,Tyler Hall,Layup,2,6
+15:26,Idaho,RayQuawndis Mitchell,Three Point Jumper,5,6
+15:07,Montana State,Harald Frey,Missed Three Point Jumper,5,6
+15:07,Idaho,Geno West,Defensive Rebound,5,6
+14:55,Idaho,Trevon Allen,Turnover,5,6
+14:53,Montana State,Devin Kirby,Steal,5,6
+14:47,Montana State,Harald Frey,Three Point Jumper,5,9
+14:32,Idaho,None,None,5,9
+14:13,Idaho,Geno West,Three Point Jumper,8,9
+13:49,Montana State,Keljin Blevins,Three Point Jumper,8,12
+13:29,Idaho,Scott Blakney,Layup,10,12
+13:07,Idaho,Geno West,Foul,10,12
+13:04,Montana State,Ladan Ricketts,Turnover,10,12
+13:01,Idaho,Geno West,Steal,10,12
+12:52,Idaho,Cameron Tyson,Three Point Jumper,13,12
+12:45,Montana State,None,None,13,12
+12:32,Montana State,Tyler Hall,Three Point Jumper,13,15
+11:57,Montana State,None,None,13,15
+11:56,Idaho,Losini Kamara,Missed Three Point Jumper,13,15
+11:56,Montana State,Usman Haruna,Defensive Rebound,13,15
+11:49,Montana State,Harald Frey,Missed Three Point Jumper,13,15
+11:49,Montana State,Sam Neumann,Offensive Rebound,13,15
+11:33,Montana State,Harald Frey,Turnover,13,15
+11:33,Idaho,Khadim Samb,Missed Jumper,13,15
+11:33,Montana State,Russell Daniels,Defensive Rebound,13,15
+11:33,Idaho,Cameron Tyson,Foul,13,15
+11:33,Montana State,Harald Frey,Free Throw,13,16
+11:33,Montana State,Harald Frey,Free Throw,13,17
+10:55,Idaho,Cameron Tyson,Three Point Jumper,16,17
+10:40,Montana State,Sam Neumann,Missed Three Point Jumper,16,17
+10:40,Idaho,Trevon Allen,Defensive Rebound,16,17
+10:29,Idaho,Trevon Allen,Missed Three Point Jumper,16,17
+10:29,Montana State,Usman Haruna,Defensive Rebound,16,17
+10:18,Montana State,Tyler Hall,Turnover,16,17
+10:05,Idaho,Trevon Allen,Missed Jumper,16,17
+10:05,Montana State,Devin Kirby,Defensive Rebound,16,17
+10:04,Idaho,Scott Blakney,Foul,16,17
+9:53,Montana State,Tyler Hall,Missed Three Point Jumper,16,17
+9:53,Montana State,Keljin Blevins,Offensive Rebound,16,17
+9:49,Montana State,Keljin Blevins,Missed Layup,16,17
+9:49,Montana State,Keljin Blevins,Offensive Rebound,16,17
+9:36,Montana State,Keljin Blevins,Three Point Jumper,16,20
+9:18,Idaho,Jared Rodriguez,Foul,16,20
+9:18,Idaho,Jared Rodriguez,Turnover,16,20
+9:03,Montana State,Keljin Blevins,Layup,16,22
+8:44,Idaho,Cameron Tyson,Missed Three Point Jumper,16,22
+8:44,Montana State,Tyler Hall,Defensive Rebound,16,22
+8:34,Montana State,Tyler Hall,Missed Three Point Jumper,16,22
+8:34,Idaho,Idaho,Defensive Rebound,16,22
+8:16,Idaho,Trevon Allen,Three Point Jumper,19,22
+8:01,Montana State,Keljin Blevins,Missed Three Point Jumper,19,22
+8:01,Idaho,Cameron Tyson,Defensive Rebound,19,22
+7:52,Idaho,Cameron Tyson,Turnover,19,22
+7:50,Montana State,Devin Kirby,Steal,19,22
+7:48,Montana State,Russell Daniels,Layup,19,24
+7:21,Idaho,Cassius Smits-Francisco,Jumper,21,24
+7:13,Idaho,Cameron Tyson,Foul,21,24
+7:13,Montana State,None,None,21,24
+7:13,Montana State,Ladan Ricketts,Free Throw,21,25
+7:13,Montana State,Ladan Ricketts,Free Throw,21,26
+7:13,Montana State,Ladan Ricketts,Free Throw,21,27
+7:06,Montana State,Ladan Ricketts,Foul,21,27
+6:48,Idaho,Khadim Samb,Layup,23,27
+6:48,Montana State,Ladan Ricketts,Foul,23,27
+6:48,Idaho,Khadim Samb,Free Throw,24,27
+6:37,Montana State,Russell Daniels,Jumper,24,29
+6:13,Montana State,Russell Daniels,Foul,24,29
+6:00,Idaho,Geno West,Turnover,24,29
+5:57,Montana State,Harald Frey,Missed Layup,24,29
+5:57,Idaho,Geno West,Defensive Rebound,24,29
+5:45,Idaho,RayQuawndis Mitchell,Missed Three Point Jumper,24,29
+5:45,Montana State,Harald Frey,Defensive Rebound,24,29
+5:38,Idaho,Khadim Samb,Foul,24,29
+5:38,Montana State,Harald Frey,Free Throw,24,30
+5:38,Montana State,Harald Frey,Free Throw,24,31
+5:19,Idaho,Geno West,Three Point Jumper,27,31
+4:53,Idaho,RayQuawndis Mitchell,Foul,27,31
+4:53,Montana State,Sam Neumann,Free Throw,27,32
+4:53,Montana State,Sam Neumann,Free Throw,27,33
+4:39,Idaho,Khadim Samb,Missed Jumper,27,33
+4:39,Montana State,Keljin Blevins,Defensive Rebound,27,33
+4:34,Montana State,Ladan Ricketts,Missed Three Point Jumper,27,33
+4:34,Idaho,Cassius Smits-Francisco,Defensive Rebound,27,33
+4:21,Idaho,Trevon Allen,Turnover,27,33
+4:19,Montana State,Keljin Blevins,Steal,27,33
+4:15,Idaho,Cassius Smits-Francisco,Foul,27,33
+4:15,Montana State,Sam Neumann,Free Throw,27,34
+4:15,Montana State,Sam Neumann,Free Throw,27,35
+4:03,Idaho,Khadim Samb,Three Point Jumper,30,35
+3:48,Montana State,Sam Neumann,Layup,30,37
+3:48,Idaho,Khadim Samb,Foul,30,37
+3:48,Montana State,None,None,30,37
+3:48,Montana State,Sam Neumann,Free Throw,30,38
+3:37,Idaho,Trevon Allen,Missed Layup,30,38
+3:37,Montana State,Ladan Ricketts,Defensive Rebound,30,38
+3:14,Montana State,Ladan Ricketts,Missed Three Point Jumper,30,38
+3:14,Montana State,Quentin Guliford,Offensive Rebound,30,38
+3:08,Montana State,Harald Frey,Three Point Jumper,30,41
+2:50,Idaho,Losini Kamara,Missed Jumper,30,41
+2:50,Montana State,Sam Neumann,Defensive Rebound,30,41
+2:32,Idaho,Khadim Samb,Foul,30,41
+2:32,Montana State,Sam Neumann,Free Throw,30,42
+2:32,Montana State,Sam Neumann,Free Throw,30,43
+2:06,Idaho,Trevon Allen,Missed Jumper,30,43
+2:06,Idaho,Scott Blakney,Offensive Rebound,30,43
+1:49,Idaho,Trevon Allen,Layup,32,43
+1:31,Montana State,Harald Frey,Layup,32,45
+1:14,Idaho,Jared Rodriguez,Missed Three Point Jumper,32,45
+1:14,Montana State,Montana State,Defensive Rebound,32,45
+0:45,Montana State,Harald Frey,Missed Three Point Jumper,32,45
+0:45,Idaho,Jared Rodriguez,Defensive Rebound,32,45
+0:16,Idaho,Scott Blakney,Missed Jumper,32,45
+0:16,Idaho,Jared Rodriguez,Offensive Rebound,32,45
+0:14,Montana State,Russell Daniels,Foul,32,45
+0:12,Montana State,Russell Daniels,Foul,32,45
+0:02,Idaho,Trevon Allen,Missed Three Point Jumper,32,45
+0:02,Idaho,Jared Rodriguez,Offensive Rebound,32,45
+0:00,Montana State,None,None,32,45
+19:47,Montana State,Tyler Hall,Missed Jumper,32,45
+19:47,Idaho,Jared Rodriguez,Defensive Rebound,32,45
+19:33,Idaho,Trevon Allen,Jumper,34,45
+19:03,Idaho,Cameron Tyson,Foul,34,45
+18:58,Montana State,Keljin Blevins,Layup,34,47
+18:41,Idaho,Jared Rodriguez,Layup,36,47
+18:32,Montana State,Devin Kirby,Layup,36,49
+18:15,Idaho,Trevon Allen,Three Point Jumper,39,49
+18:01,Montana State,Keljin Blevins,Missed Jumper,39,49
+18:01,Montana State,Harald Frey,Offensive Rebound,39,49
+17:58,Montana State,Tyler Hall,Jumper,39,51
+17:58,Idaho,RayQuawndis Mitchell,Missed Layup,39,51
+17:58,Montana State,Devin Kirby,Defensive Rebound,39,51
+17:05,Montana State,Tyler Hall,Missed Jumper,39,51
+17:05,Idaho,Trevon Allen,Defensive Rebound,39,51
+16:54,Idaho,Trevon Allen,Missed Three Point Jumper,39,51
+16:54,Montana State,Keljin Blevins,Defensive Rebound,39,51
+16:31,Montana State,Devin Kirby,Layup,39,53
+16:11,Idaho,Geno West,Layup,41,53
+15:53,Montana State,Devin Kirby,Layup,41,55
+15:30,Idaho,Geno West,Missed Three Point Jumper,41,55
+15:30,Montana State,Tyler Hall,Defensive Rebound,41,55
+15:21,Idaho,Scott Blakney,Foul,41,55
+15:21,Montana State,None,None,41,55
+15:21,Montana State,Keljin Blevins,Free Throw,41,56
+15:21,Montana State,Keljin Blevins,Free Throw,41,57
+15:10,Idaho,Scott Blakney,Foul,41,57
+15:10,Idaho,Scott Blakney,Turnover,41,57
+14:58,Idaho,Khadim Samb,Foul,41,57
+14:58,Montana State,Keljin Blevins,Free Throw,41,58
+14:58,Montana State,Keljin Blevins,Free Throw,41,59
+14:44,Idaho,Geno West,Three Point Jumper,44,59
+14:13,Montana State,Ladan Ricketts,Foul,44,59
+14:13,Montana State,Ladan Ricketts,Turnover,44,59
+13:56,Montana State,Harald Frey,Foul,44,59
+13:56,Idaho,Jared Rodriguez,Missed Free Throw,44,59
+13:56,Idaho,None,Team Rebound,44,59
+13:56,Idaho,Jared Rodriguez,Missed Free Throw,44,59
+13:56,Montana State,Usman Haruna,Defensive Rebound,44,59
+13:28,Montana State,Ladan Ricketts,Three Point Jumper,44,62
+13:07,Idaho,Jared Rodriguez,Layup,46,62
+13:02,Montana State,Tyler Hall,Turnover,46,62
+13:00,Idaho,Losini Kamara,Steal,46,62
+12:55,Idaho,Trevon Allen,Foul,46,62
+12:55,Idaho,Trevon Allen,Turnover,46,62
+12:55,Idaho,None,None,46,62
+12:37,Montana State,Tyler Hall,Jumper,46,64
+12:16,Montana State,Lassi Nikkarinen,Foul,46,64
+12:03,Idaho,Jared Rodriguez,Missed Layup,46,64
+12:03,Montana State,Devin Kirby,Defensive Rebound,46,64
+11:47,Montana State,Sam Neumann,Turnover,46,64
+11:47,Montana State,None,None,46,64
+11:27,Idaho,Losini Kamara,Foul,46,64
+11:27,Idaho,Losini Kamara,Turnover,46,64
+11:12,Montana State,Tyler Hall,Jumper,46,66
+10:56,Idaho,Jared Rodriguez,Turnover,46,66
+10:54,Montana State,Tyler Hall,Steal,46,66
+10:51,Montana State,Ladan Ricketts,Turnover,46,66
+10:36,Idaho,Jared Rodriguez,Missed Three Point Jumper,46,66
+10:36,Idaho,Scott Blakney,Offensive Rebound,46,66
+10:27,Idaho,Jared Rodriguez,Layup,48,66
+10:11,Idaho,Scott Blakney,Foul,48,66
+10:11,Montana State,Harald Frey,Free Throw,48,67
+10:11,Montana State,Harald Frey,Missed Free Throw,48,67
+10:11,Montana State,Harald Frey,Offensive Rebound,48,67
+9:59,Montana State,Tyler Hall,Missed Three Point Jumper,48,67
+9:59,Idaho,Cassius Smits-Francisco,Defensive Rebound,48,67
+9:44,Idaho,Trevon Allen,Missed Jumper,48,67
+9:44,Montana State,Montana State,Defensive Rebound,48,67
+9:28,Montana State,Harald Frey,Layup,48,69
+9:11,Idaho,Geno West,Turnover,48,69
+9:09,Montana State,Russell Daniels,Steal,48,69
+9:06,Montana State,Harald Frey,Missed Three Point Jumper,48,69
+9:06,Idaho,Geno West,Defensive Rebound,48,69
+8:58,Idaho,Geno West,Missed Jumper,48,69
+8:58,Montana State,Tyler Hall,Defensive Rebound,48,69
+8:38,Idaho,Khadim Samb,Foul,48,69
+8:38,Montana State,Devin Kirby,Free Throw,48,70
+8:38,Montana State,Devin Kirby,Missed Free Throw,48,70
+8:38,Idaho,Cassius Smits-Francisco,Defensive Rebound,48,70
+8:29,Idaho,Jared Rodriguez,Layup,50,70
+8:18,Montana State,Sam Neumann,Turnover,50,70
+8:04,Idaho,Cameron Tyson,Missed Three Point Jumper,50,70
+8:04,Montana State,Montana State,Defensive Rebound,50,70
+7:42,Montana State,Lassi Nikkarinen,Turnover,50,70
+7:42,Montana State,None,None,50,70
+7:31,Idaho,Jared Rodriguez,Foul,50,70
+7:31,Idaho,Jared Rodriguez,Turnover,50,70
+7:15,Montana State,Sam Neumann,Turnover,50,70
+7:13,Idaho,Cassius Smits-Francisco,Steal,50,70
+7:06,Idaho,Cameron Tyson,Missed Three Point Jumper,50,70
+7:06,Montana State,Harald Frey,Defensive Rebound,50,70
+6:58,Idaho,Jared Rodriguez,Foul,50,70
+6:58,Montana State,Sam Neumann,Free Throw,50,71
+6:58,Montana State,Sam Neumann,Free Throw,50,72
+6:48,Montana State,Devin Kirby,Foul,50,72
+6:48,Idaho,Xavier Smith,Free Throw,51,72
+6:48,Idaho,Xavier Smith,Free Throw,52,72
+6:38,Montana State,Harald Frey,Layup,52,74
+6:20,Montana State,Harald Frey,Foul,52,74
+6:13,Idaho,Jared Rodriguez,Jumper,54,74
+5:56,Montana State,Tyler Hall,Missed Three Point Jumper,54,74
+5:56,Idaho,Cameron Tyson,Defensive Rebound,54,74
+5:45,Idaho,Jared Rodriguez,Turnover,54,74
+5:43,Montana State,Tyler Hall,Steal,54,74
+5:40,Montana State,Keljin Blevins,Layup,54,76
+5:35,Montana State,None,None,54,76
+5:22,Idaho,Jared Rodriguez,Dunk,56,76
+4:51,Idaho,Scott Blakney,Foul,56,76
+4:51,Montana State,Devin Kirby,Missed Free Throw,56,76
+4:51,Montana State,None,Team Rebound,56,76
+4:51,Montana State,Devin Kirby,Free Throw,56,77
+4:36,Idaho,RayQuawndis Mitchell,Turnover,56,77
+4:34,Montana State,Lassi Nikkarinen,Turnover,56,77
+4:32,Idaho,Cameron Tyson,Steal,56,77
+4:31,Idaho,Cameron Tyson,Layup,58,77
+4:24,Montana State,Devin Kirby,Layup,58,79
+4:03,Idaho,RayQuawndis Mitchell,Three Point Jumper,61,79
+3:40,Montana State,Tyler Hall,Missed Three Point Jumper,61,79
+3:40,Idaho,RayQuawndis Mitchell,Defensive Rebound,61,79
+3:28,Idaho,Cameron Tyson,Three Point Jumper,64,79
+3:00,Montana State,Sam Neumann,Layup,64,81
+2:41,Idaho,Cameron Tyson,Missed Three Point Jumper,64,81
+2:41,Idaho,Losini Kamara,Offensive Rebound,64,81
+2:36,Montana State,None,None,64,81
+2:36,Idaho,Cameron Tyson,Foul,64,81
+2:36,Montana State,Tyler Hall,Free Throw,64,82
+2:36,Montana State,Tyler Hall,Free Throw,64,83
+2:24,Idaho,Cameron Tyson,Missed Jumper,64,83
+2:24,Montana State,Sam Neumann,Defensive Rebound,64,83
+2:15,Montana State,None,None,64,83
+1:54,Montana State,Lassi Nikkarinen,Three Point Jumper,64,86
+1:35,Idaho,Cassius Smits-Francisco,Layup,66,86
+1:00,Montana State,Russell Daniels,Missed Layup,66,86
+1:00,Idaho,Jared Rodriguez,Defensive Rebound,66,86
+0:48,Montana State,Sam Neumann,Foul,66,86
+0:47,Idaho,Cameron Tyson,Three Point Jumper,69,86
+0:11,Montana State,Russell Daniels,Missed Jumper,69,86
+0:11,Idaho,Jared Rodriguez,Defensive Rebound,69,86
+0:04,Idaho,RayQuawndis Mitchell,Three Point Jumper,72,86
+0:00,Montana State,None,None,72,86

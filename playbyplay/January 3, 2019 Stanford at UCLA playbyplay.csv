@@ -1,0 +1,361 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Stanford,None,None,0,0
+19:43,UCLA,Chris Smith,Foul,0,0
+19:43,Stanford,Oscar da Silva,Free Throw,1,0
+19:43,Stanford,Oscar da Silva,Free Throw,2,0
+19:34,UCLA,Jaylen Hands,Layup,2,2
+19:16,Stanford,Cormac Ryan,Missed Three Point Jumper,2,2
+19:16,UCLA,Chris Smith,Defensive Rebound,2,2
+19:07,UCLA,Prince Ali,Layup,2,4
+18:45,Stanford,Jaiden Delaire,Turnover,2,4
+18:38,UCLA,Kris Wilkes,Turnover,2,4
+18:27,Stanford,KZ Okpala,Layup,4,4
+18:15,UCLA,Moses Brown,Dunk,4,6
+17:52,Stanford,KZ Okpala,Three Point Jumper,7,6
+17:42,Stanford,Jaiden Delaire,Foul,7,6
+17:37,UCLA,Kris Wilkes,Missed Three Point Jumper,7,6
+17:37,Stanford,Josh Sharma,Defensive Rebound,7,6
+17:31,Stanford,Oscar da Silva,Missed Three Point Jumper,7,6
+17:31,UCLA,Kris Wilkes,Defensive Rebound,7,6
+17:23,UCLA,Chris Smith,Dunk,7,8
+17:00,UCLA,Kris Wilkes,Foul,7,8
+16:55,UCLA,Kris Wilkes,Foul,7,8
+16:43,Stanford,Bryce Wills,Missed Layup,7,8
+16:43,Stanford,Josh Sharma,Offensive Rebound,7,8
+16:32,Stanford,KZ Okpala,Missed Layup,7,8
+16:32,UCLA,Chris Smith,Block,7,8
+16:32,Stanford,Stanford,Offensive Rebound,7,8
+16:28,Stanford,Cormac Ryan,Missed Jumper,7,8
+16:28,UCLA,Cody Riley,Defensive Rebound,7,8
+16:19,UCLA,Chris Smith,Missed Jumper,7,8
+16:19,UCLA,Moses Brown,Offensive Rebound,7,8
+16:17,Stanford,Josh Sharma,Foul,7,8
+16:17,UCLA,Moses Brown,Missed Free Throw,7,8
+16:17,UCLA,None,Team Rebound,7,8
+16:17,UCLA,Moses Brown,Missed Free Throw,7,8
+16:17,UCLA,None,Team Rebound,7,8
+16:11,UCLA,Moses Brown,Missed Jumper,7,8
+16:11,UCLA,Cody Riley,Offensive Rebound,7,8
+16:11,UCLA,None,None,7,10
+15:47,Stanford,Josh Sharma,Dunk,9,10
+15:32,Stanford,Josh Sharma,Foul,9,10
+15:32,UCLA,None,None,9,10
+15:28,UCLA,Chris Smith,Missed Jumper,9,10
+15:28,Stanford,Oscar da Silva,Defensive Rebound,9,10
+15:14,Stanford,Cormac Ryan,Three Point Jumper,12,10
+14:54,UCLA,Prince Ali,Missed Layup,12,10
+14:54,UCLA,Moses Brown,Offensive Rebound,12,10
+14:50,UCLA,Moses Brown,Dunk,12,12
+14:29,Stanford,Jaiden Delaire,Missed Layup,12,12
+14:29,UCLA,Moses Brown,Defensive Rebound,12,12
+14:22,UCLA,Jaylen Hands,Three Point Jumper,12,15
+14:04,UCLA,Cody Riley,Foul,12,15
+14:00,Stanford,KZ Okpala,Missed Three Point Jumper,12,15
+14:00,UCLA,Jaylen Hands,Defensive Rebound,12,15
+13:52,UCLA,Jaylen Hands,Missed Three Point Jumper,12,15
+13:52,Stanford,KZ Okpala,Defensive Rebound,12,15
+13:34,UCLA,Cody Riley,Foul,12,15
+13:30,Stanford,Cormac Ryan,Missed Three Point Jumper,12,15
+13:30,UCLA,Jalen Hill,Defensive Rebound,12,15
+13:08,UCLA,Cody Riley,Jumper,12,17
+12:52,Stanford,Isaac White,Missed Three Point Jumper,12,17
+12:52,UCLA,Chris Smith,Defensive Rebound,12,17
+12:42,UCLA,Chris Smith,Missed Layup,12,17
+12:42,Stanford,Isaac White,Defensive Rebound,12,17
+12:28,Stanford,Jaiden Delaire,Missed Jumper,12,17
+12:28,UCLA,Chris Smith,Defensive Rebound,12,17
+12:17,UCLA,Cody Riley,Layup,12,19
+12:04,UCLA,Chris Smith,Foul,12,19
+12:04,Stanford,Trevor Stanback,Free Throw,13,19
+12:04,Stanford,Trevor Stanback,Free Throw,14,19
+12:00,UCLA,Jaylen Hands,Layup,14,21
+11:45,Stanford,Oscar da Silva,Missed Three Point Jumper,14,21
+11:45,UCLA,Jalen Hill,Defensive Rebound,14,21
+11:33,UCLA,Jules Bernard,Layup,14,23
+11:07,Stanford,Cormac Ryan,Missed Three Point Jumper,14,23
+11:07,UCLA,Jules Bernard,Defensive Rebound,14,23
+10:52,Stanford,KZ Okpala,Foul,14,23
+10:52,UCLA,None,None,14,23
+10:52,UCLA,Kenneth Nwuba,Turnover,14,23
+10:52,UCLA,Kenneth Nwuba,Foul,14,23
+10:22,Stanford,Jaiden Delaire,Missed Dunk,14,23
+10:22,UCLA,Jaylen Hands,Defensive Rebound,14,23
+10:13,UCLA,Jules Bernard,Turnover,14,23
+10:13,Stanford,Jaiden Delaire,Steal,14,23
+9:54,Stanford,KZ Okpala,Missed Layup,14,23
+9:54,UCLA,Jalen Hill,Defensive Rebound,14,23
+9:47,UCLA,Jules Bernard,Missed Three Point Jumper,14,23
+9:47,UCLA,Kenneth Nwuba,Offensive Rebound,14,23
+9:42,Stanford,Jaiden Delaire,Foul,14,23
+9:37,UCLA,Jules Bernard,Missed Jumper,14,23
+9:37,UCLA,Jules Bernard,Offensive Rebound,14,23
+9:34,UCLA,None,None,14,23
+9:23,UCLA,David Singleton,Missed Layup,14,23
+9:23,Stanford,KZ Okpala,Defensive Rebound,14,23
+9:00,UCLA,Jules Bernard,Foul,14,23
+9:00,Stanford,KZ Okpala,Free Throw,15,23
+9:00,Stanford,KZ Okpala,Free Throw,16,23
+8:50,UCLA,Moses Brown,Dunk,16,25
+8:28,Stanford,Oscar da Silva,Turnover,16,25
+8:28,UCLA,Jaylen Hands,Steal,16,25
+8:22,UCLA,Jaylen Hands,Layup,16,27
+8:22,Stanford,Cormac Ryan,Foul,16,27
+8:22,UCLA,Jaylen Hands,Free Throw,16,28
+8:19,Stanford,Cormac Ryan,Turnover,16,28
+8:19,UCLA,Kris Wilkes,Steal,16,28
+8:16,UCLA,Kris Wilkes,Dunk,16,30
+8:13,Stanford,None,None,16,30
+8:13,UCLA,None,None,16,30
+7:53,Stanford,Bryce Wills,Missed Layup,16,30
+7:53,Stanford,Josh Sharma,Offensive Rebound,16,30
+7:49,Stanford,Oscar da Silva,Layup,18,30
+7:24,UCLA,Kris Wilkes,Missed Three Point Jumper,18,30
+7:24,Stanford,Josh Sharma,Defensive Rebound,18,30
+7:07,Stanford,Bryce Wills,Jumper,20,30
+6:59,UCLA,Kris Wilkes,Missed Three Point Jumper,20,30
+6:59,Stanford,KZ Okpala,Defensive Rebound,20,30
+6:50,Stanford,KZ Okpala,Layup,22,30
+6:50,UCLA,Prince Ali,Foul,22,30
+6:50,Stanford,KZ Okpala,Missed Free Throw,22,30
+6:50,UCLA,Jalen Hill,Defensive Rebound,22,30
+6:42,Stanford,Oscar da Silva,Foul,22,30
+6:42,UCLA,Prince Ali,Missed Free Throw,22,30
+6:42,Stanford,Oscar da Silva,Defensive Rebound,22,30
+6:33,Stanford,Cormac Ryan,Missed Three Point Jumper,22,30
+6:33,UCLA,Jaylen Hands,Defensive Rebound,22,30
+6:22,UCLA,Chris Smith,Missed Three Point Jumper,22,30
+6:22,Stanford,KZ Okpala,Defensive Rebound,22,30
+6:00,Stanford,Josh Sharma,Dunk,24,30
+5:43,UCLA,Jaylen Hands,Missed Jumper,24,30
+5:43,Stanford,Bryce Wills,Defensive Rebound,24,30
+5:19,Stanford,KZ Okpala,Missed Layup,24,30
+5:19,Stanford,None,Team Rebound,24,30
+5:11,Stanford,KZ Okpala,Missed Layup,24,30
+5:11,Stanford,KZ Okpala,Offensive Rebound,24,30
+5:06,Stanford,KZ Okpala,Layup,26,30
+4:53,UCLA,None,None,26,30
+4:42,UCLA,David Singleton,Three Point Jumper,26,33
+4:06,Stanford,KZ Okpala,Missed Layup,26,33
+4:06,UCLA,Chris Smith,Defensive Rebound,26,33
+3:57,UCLA,Cody Riley,Missed Jumper,26,33
+3:57,Stanford,KZ Okpala,Defensive Rebound,26,33
+3:47,Stanford,Jaiden Delaire,Missed Jumper,26,33
+3:47,UCLA,Prince Ali,Defensive Rebound,26,33
+3:24,UCLA,Chris Smith,Missed Dunk,26,33
+3:24,Stanford,Cormac Ryan,Defensive Rebound,26,33
+3:03,Stanford,Bryce Wills,Missed Jumper,26,33
+3:03,Stanford,Bryce Wills,Offensive Rebound,26,33
+2:54,UCLA,Moses Brown,Foul,26,33
+2:54,UCLA,None,None,26,33
+2:54,Stanford,Jaiden Delaire,Free Throw,27,33
+2:54,Stanford,Jaiden Delaire,Missed Free Throw,27,33
+2:54,UCLA,Jules Bernard,Defensive Rebound,27,33
+2:45,UCLA,David Singleton,Missed Three Point Jumper,27,33
+2:45,Stanford,Bryce Wills,Defensive Rebound,27,33
+2:31,Stanford,Josh Sharma,Missed Layup,27,33
+2:31,UCLA,Moses Brown,Defensive Rebound,27,33
+2:22,Stanford,Josh Sharma,Foul,27,33
+2:22,UCLA,Moses Brown,Free Throw,27,34
+2:22,UCLA,Moses Brown,Missed Free Throw,27,34
+2:22,Stanford,KZ Okpala,Defensive Rebound,27,34
+2:02,Stanford,Oscar da Silva,Missed Three Point Jumper,27,34
+2:02,UCLA,Chris Smith,Defensive Rebound,27,34
+1:52,UCLA,Chris Smith,Missed Three Point Jumper,27,34
+1:52,UCLA,Moses Brown,Offensive Rebound,27,34
+1:46,UCLA,Moses Brown,Layup,27,36
+1:34,Stanford,Oscar da Silva,Foul,27,36
+1:34,Stanford,Oscar da Silva,Turnover,27,36
+1:18,UCLA,Chris Smith,Missed Dunk,27,36
+1:18,UCLA,Moses Brown,Offensive Rebound,27,36
+1:15,UCLA,UCLA ,Turnover,27,36
+1:00,Stanford,KZ Okpala,Layup,29,36
+0:50,UCLA,Jules Bernard,Layup,29,38
+0:35,Stanford,Cormac Ryan,Three Point Jumper,32,38
+0:06,UCLA,Jaylen Hands,Missed Three Point Jumper,32,38
+0:06,Stanford,Bryce Wills,Defensive Rebound,32,38
+0:00,UCLA,None,None,32,38
+20:00,UCLA,None,None,32,38
+19:38,UCLA,Chris Smith,Layup,32,40
+19:13,Stanford,KZ Okpala,Jumper,34,40
+19:01,UCLA,Prince Ali,Turnover,34,40
+19:01,Stanford,Bryce Wills,Steal,34,40
+18:55,Stanford,Cormac Ryan,Missed Layup,34,40
+18:55,Stanford,Cormac Ryan,Offensive Rebound,34,40
+18:48,Stanford,Cormac Ryan,Missed Three Point Jumper,34,40
+18:48,UCLA,Kris Wilkes,Defensive Rebound,34,40
+18:25,UCLA,Jaylen Hands,Turnover,34,40
+18:25,Stanford,KZ Okpala,Steal,34,40
+18:06,Stanford,Oscar da Silva,Layup,36,40
+17:54,UCLA,Prince Ali,Missed Three Point Jumper,36,40
+17:54,Stanford,Cormac Ryan,Defensive Rebound,36,40
+17:34,Stanford,Oscar da Silva,Missed Three Point Jumper,36,40
+17:34,UCLA,Chris Smith,Defensive Rebound,36,40
+17:23,UCLA,Prince Ali,Missed Dunk,36,40
+17:23,Stanford,Jaiden Delaire,Block,36,40
+17:23,UCLA,Prince Ali,Offensive Rebound,36,40
+17:22,Stanford,Jaiden Delaire,Foul,36,40
+17:22,UCLA,Prince Ali,Missed Free Throw,36,40
+17:22,UCLA,None,Team Rebound,36,40
+17:22,UCLA,Prince Ali,Free Throw,36,41
+17:11,Stanford,Stanford ,Turnover,36,41
+17:04,Stanford,Cormac Ryan,Foul,36,41
+17:02,UCLA,Kris Wilkes,Jumper,36,43
+16:41,Stanford,Bryce Wills,Missed Layup,36,43
+16:41,UCLA,Chris Smith,Defensive Rebound,36,43
+16:32,UCLA,Prince Ali,Missed Jumper,36,43
+16:32,Stanford,Oscar da Silva,Defensive Rebound,36,43
+16:05,Stanford,KZ Okpala,Jumper,38,43
+15:58,UCLA,Jaylen Hands,Missed Jumper,38,43
+15:58,UCLA,Kris Wilkes,Offensive Rebound,38,43
+15:54,Stanford,Oscar da Silva,Foul,38,43
+15:54,UCLA,None,None,38,43
+15:54,UCLA,Kris Wilkes,Free Throw,38,44
+15:54,UCLA,Kris Wilkes,Free Throw,38,45
+15:31,Stanford,Jaiden Delaire,Missed Jumper,38,45
+15:31,UCLA,Moses Brown,Block,38,45
+15:31,UCLA,Chris Smith,Defensive Rebound,38,45
+15:20,Stanford,Jaiden Delaire,Foul,38,45
+15:18,UCLA,Jaylen Hands,Missed Three Point Jumper,38,45
+15:18,Stanford,Trevor Stanback,Defensive Rebound,38,45
+15:01,UCLA,Moses Brown,Foul,38,45
+15:01,Stanford,KZ Okpala,Missed Free Throw,38,45
+15:01,Stanford,None,Team Rebound,38,45
+15:01,Stanford,KZ Okpala,Missed Free Throw,38,45
+15:01,UCLA,Cody Riley,Defensive Rebound,38,45
+14:48,UCLA,Jaylen Hands,Three Point Jumper,38,48
+14:22,Stanford,KZ Okpala,Missed Jumper,38,48
+14:22,UCLA,Jalen Hill,Defensive Rebound,38,48
+14:19,UCLA,Chris Smith,Turnover,38,48
+14:02,UCLA,Cody Riley,Foul,38,48
+14:02,Stanford,Bryce Wills,Free Throw,39,48
+14:02,Stanford,Bryce Wills,Free Throw,40,48
+13:52,UCLA,Chris Smith,Turnover,40,48
+13:52,Stanford,KZ Okpala,Steal,40,48
+13:49,Stanford,KZ Okpala,Dunk,42,48
+13:36,UCLA,None,None,42,48
+13:33,UCLA,Jules Bernard,Turnover,42,48
+13:17,Stanford,Oscar da Silva,Turnover,42,48
+13:17,UCLA,Alex Olesinski,Steal,42,48
+12:58,UCLA,David Singleton,Three Point Jumper,42,51
+12:31,Stanford,KZ Okpala,Missed Three Point Jumper,42,51
+12:31,UCLA,Jaylen Hands,Defensive Rebound,42,51
+12:06,UCLA,Jules Bernard,Layup,42,53
+11:51,Stanford,KZ Okpala,Missed Jumper,42,53
+11:51,Stanford,Josh Sharma,Offensive Rebound,42,53
+11:49,UCLA,Jalen Hill,Foul,42,53
+11:49,UCLA,None,None,42,53
+11:49,Stanford,Josh Sharma,Free Throw,43,53
+11:49,Stanford,Josh Sharma,Free Throw,44,53
+11:37,UCLA,Jules Bernard,Missed Layup,44,53
+11:37,UCLA,UCLA,Offensive Rebound,44,53
+11:28,Stanford,Cormac Ryan,Foul,44,53
+11:28,UCLA,Kris Wilkes,Missed Free Throw,44,53
+11:28,UCLA,None,Team Rebound,44,53
+11:28,UCLA,Kris Wilkes,Free Throw,44,54
+11:18,Stanford,Cormac Ryan,Missed Three Point Jumper,44,54
+11:18,UCLA,Kris Wilkes,Defensive Rebound,44,54
+11:08,UCLA,Alex Olesinski,Missed Three Point Jumper,44,54
+11:08,Stanford,KZ Okpala,Defensive Rebound,44,54
+10:58,UCLA,Jules Bernard,Foul,44,54
+10:44,Stanford,Cormac Ryan,Missed Jumper,44,54
+10:44,UCLA,Jalen Hill,Defensive Rebound,44,54
+10:27,UCLA,Kris Wilkes,Three Point Jumper,44,57
+10:09,UCLA,Kris Wilkes,Foul,44,57
+10:07,Stanford,None,None,44,57
+9:59,Stanford,Isaac White,Three Point Jumper,47,57
+9:34,Stanford,Josh Sharma,Foul,47,57
+9:34,UCLA,Kris Wilkes,Free Throw,47,58
+9:34,UCLA,Kris Wilkes,Free Throw,47,59
+9:19,Stanford,Bryce Wills,Turnover,47,59
+9:19,UCLA,Chris Smith,Steal,47,59
+9:13,UCLA,Chris Smith,Missed Layup,47,59
+9:13,UCLA,Moses Brown,Offensive Rebound,47,59
+9:08,UCLA,Moses Brown,Dunk,47,61
+9:00,Stanford,Bryce Wills,Dunk,49,61
+8:42,UCLA,Moses Brown,Dunk,49,63
+8:21,Stanford,KZ Okpala,Missed Layup,49,63
+8:21,UCLA,Moses Brown,Defensive Rebound,49,63
+8:15,UCLA,Kris Wilkes,Missed Three Point Jumper,49,63
+8:15,Stanford,KZ Okpala,Defensive Rebound,49,63
+8:08,Stanford,Isaac White,Three Point Jumper,52,63
+8:04,Stanford,None,None,52,63
+7:52,UCLA,Chris Smith,Three Point Jumper,52,66
+7:23,Stanford,KZ Okpala,Missed Jumper,52,66
+7:23,Stanford,Kodye Pugh,Offensive Rebound,52,66
+7:14,Stanford,Isaac White,Turnover,52,66
+7:14,UCLA,Moses Brown,Steal,52,66
+7:09,Stanford,Bryce Wills,Foul,52,66
+7:09,UCLA,Prince Ali,Free Throw,52,67
+7:09,UCLA,Prince Ali,Free Throw,52,68
+6:57,Stanford,Kodye Pugh,Turnover,52,68
+6:42,UCLA,Kris Wilkes,Missed Jumper,52,68
+6:42,Stanford,Isaac White,Defensive Rebound,52,68
+6:26,UCLA,Moses Brown,Foul,52,68
+6:26,Stanford,Jaiden Delaire,Free Throw,53,68
+6:26,Stanford,Jaiden Delaire,Free Throw,54,68
+6:15,UCLA,Kris Wilkes,Dunk,54,70
+6:05,Stanford,Bryce Wills,Turnover,54,70
+6:05,UCLA,Prince Ali,Steal,54,70
+6:02,UCLA,Prince Ali,Dunk,54,72
+5:51,Stanford,Isaac White,Three Point Jumper,57,72
+5:34,UCLA,Jaylen Hands,Jumper,57,74
+5:25,UCLA,Jaylen Hands,Foul,57,74
+5:25,Stanford,Bryce Wills,Missed Free Throw,57,74
+5:25,UCLA,Moses Brown,Defensive Rebound,57,74
+5:07,UCLA,Moses Brown,Layup,57,76
+4:54,Stanford,KZ Okpala,Three Point Jumper,60,76
+4:54,UCLA,Kris Wilkes,Missed Layup,60,76
+4:54,UCLA,Moses Brown,Offensive Rebound,60,76
+4:29,UCLA,Moses Brown,Layup,60,78
+4:14,Stanford,KZ Okpala,Missed Layup,60,78
+4:14,Stanford,KZ Okpala,Offensive Rebound,60,78
+4:10,UCLA,David Singleton,Foul,60,78
+4:10,Stanford,Cormac Ryan,Free Throw,61,78
+4:10,Stanford,Cormac Ryan,Missed Free Throw,61,78
+4:10,UCLA,Jules Bernard,Defensive Rebound,61,78
+3:57,Stanford,Oscar da Silva,Foul,61,78
+3:57,UCLA,None,None,61,78
+3:57,UCLA,Prince Ali,Free Throw,61,79
+3:57,UCLA,Prince Ali,Free Throw,61,80
+3:53,Stanford,Isaac White,Turnover,61,80
+3:53,UCLA,Jules Bernard,Steal,61,80
+3:47,UCLA,David Singleton,Layup,61,82
+3:47,Stanford,Isaac White,Foul,61,82
+3:47,UCLA,David Singleton,Free Throw,61,83
+3:37,Stanford,KZ Okpala,Turnover,61,83
+3:28,UCLA,Jules Bernard,Missed Jumper,61,83
+3:28,Stanford,Josh Sharma,Defensive Rebound,61,83
+3:24,Stanford,Josh Sharma,Turnover,61,83
+3:09,UCLA,David Singleton,Layup,61,85
+2:41,Stanford,Bryce Wills,Missed Layup,61,85
+2:41,UCLA,Jalen Hill,Defensive Rebound,61,85
+2:36,UCLA,Prince Ali,Layup,61,87
+2:36,Stanford,Kodye Pugh,Foul,61,87
+2:36,UCLA,Prince Ali,Free Throw,61,88
+2:18,Stanford,Lukas Kisunas,Layup,63,88
+2:18,UCLA,Jules Bernard,Foul,63,88
+2:18,Stanford,Lukas Kisunas,Missed Free Throw,63,88
+2:18,UCLA,Jules Bernard,Defensive Rebound,63,88
+1:57,UCLA,Prince Ali,Dunk,63,90
+1:44,Stanford,Kodye Pugh,Three Point Jumper,66,90
+1:32,UCLA,Chris Smith,Turnover,66,90
+1:32,UCLA,None,None,66,90
+1:13,Stanford,Lukas Kisunas,Missed Layup,66,90
+1:13,UCLA,Armani Dodson,Block,66,90
+1:13,Stanford,Lukas Kisunas,Offensive Rebound,66,90
+1:10,UCLA,Kenneth Nwuba,Foul,66,90
+1:10,Stanford,Lukas Kisunas,Free Throw,67,90
+1:10,Stanford,Lukas Kisunas,Free Throw,68,90
+1:04,UCLA,Russell Stong,Turnover,68,90
+0:54,Stanford,Kodye Pugh,Turnover,68,90
+0:51,UCLA,Russell Stong,Missed Three Point Jumper,68,90
+0:51,UCLA,UCLA,Offensive Rebound,68,90
+0:46,UCLA,Jules Bernard,Turnover,68,90
+0:46,Stanford,Kodye Pugh,Steal,68,90
+0:41,Stanford,Kodye Pugh,Layup,70,90
+0:15,Stanford,Bryce Wills,Foul,70,90
+0:15,UCLA,David Singleton,Free Throw,70,91
+0:15,UCLA,David Singleton,Free Throw,70,92
+0:02,Stanford,Bryce Wills,Missed Three Point Jumper,70,92
+0:02,Stanford,Jaiden Delaire,Offensive Rebound,70,92
+0:00,UCLA,None,None,70,92

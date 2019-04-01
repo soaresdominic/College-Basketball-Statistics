@@ -1,0 +1,322 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:44,Duke,RJ Barrett,Layup,0,2
+19:28,Boston College,Ky Bowman,Missed Three Point Jumper,0,2
+19:28,Duke,Tre Jones,Defensive Rebound,0,2
+19:21,Duke,RJ Barrett,Missed Three Point Jumper,0,2
+19:21,Boston College,Nik Popovic,Defensive Rebound,0,2
+19:09,Boston College,Jordan Chatman,Missed Three Point Jumper,0,2
+19:03,Boston College,Boston College,Offensive Rebound,0,2
+18:37,Boston College,Nik Popovic,Missed Jumper,0,2
+18:37,Duke,Marques Bolden,Defensive Rebound,0,2
+18:23,Duke,Marques Bolden,Dunk,0,4
+18:02,Boston College,Nik Popovic,Three Point Jumper,3,4
+17:51,Duke,Zion Williamson,Missed Three Point Jumper,3,4
+17:51,Boston College,Ky Bowman,Defensive Rebound,3,4
+17:43,Duke,RJ Barrett,Foul,3,4
+17:43,Boston College,Jared Hamilton,Free Throw,4,4
+17:43,Boston College,Jared Hamilton,Free Throw,5,4
+17:26,Duke,Tre Jones,Missed Three Point Jumper,5,4
+17:26,Boston College,Steffon Mitchell,Defensive Rebound,5,4
+17:21,Boston College,Steffon Mitchell,Turnover,5,4
+17:21,Duke,Marques Bolden,Steal,5,4
+17:14,Duke,Tre Jones,Missed Layup,5,4
+17:14,Boston College,Nik Popovic,Defensive Rebound,5,4
+17:04,Boston College,Nik Popovic,Three Point Jumper,8,4
+16:47,Duke,Zion Williamson,Layup,8,6
+16:28,Boston College,Jordan Chatman,Missed Jumper,8,6
+16:28,Duke,RJ Barrett,Defensive Rebound,8,6
+16:15,Duke,Tre Jones,Layup,8,8
+15:54,Boston College,Nik Popovic,Missed Jumper,8,8
+15:54,Duke,RJ Barrett,Defensive Rebound,8,8
+15:42,Duke,Zion Williamson,Missed Layup,8,8
+15:42,Duke,Zion Williamson,Offensive Rebound,8,8
+15:38,Duke,Zion Williamson,Layup,8,10
+15:26,Boston College,Ky Bowman,Turnover,8,10
+15:26,Duke,Zion Williamson,Steal,8,10
+15:22,Duke,Tre Jones,Layup,8,12
+15:20,Boston College,None,None,8,12
+15:20,Duke,None,None,8,12
+15:06,Boston College,Nik Popovic,Missed Layup,8,12
+15:06,Duke,RJ Barrett,Block,8,12
+15:06,Duke,RJ Barrett,Defensive Rebound,8,12
+14:43,Duke,Tre Jones,Missed Three Point Jumper,8,12
+14:43,Boston College,Steffon Mitchell,Defensive Rebound,8,12
+14:33,Boston College,Jordan Chatman,Three Point Jumper,11,12
+14:03,Duke,Cam Reddish,Missed Three Point Jumper,11,12
+14:03,Boston College,Jairus Hamilton,Defensive Rebound,11,12
+13:48,Boston College,Ky Bowman,Turnover,11,12
+13:28,Duke,RJ Barrett,Missed Layup,11,12
+13:28,Boston College,Ky Bowman,Defensive Rebound,11,12
+13:22,Boston College,Jared Hamilton,Missed Dunk,11,12
+13:22,Duke,Zion Williamson,Defensive Rebound,11,12
+13:14,Duke,Cam Reddish,Jumper,11,14
+12:50,Duke,Zion Williamson,Foul,11,14
+12:48,Boston College,Jordan Chatman,Layup,13,14
+12:31,Duke,RJ Barrett,Missed Jumper,13,14
+12:31,Duke,Marques Bolden,Offensive Rebound,13,14
+12:26,Duke,Cam Reddish,Three Point Jumper,13,17
+12:03,Boston College,Jairus Hamilton,Missed Three Point Jumper,13,17
+12:03,Boston College,None,Team Rebound,13,17
+11:59,Duke,RJ Barrett,Foul,13,17
+11:59,Duke,None,None,13,17
+11:52,Boston College,Ky Bowman,Missed Layup,13,17
+11:52,Duke,Jack White,Block,13,17
+11:52,Duke,Cam Reddish,Defensive Rebound,13,17
+11:35,Duke,Zion Williamson,Layup,13,19
+11:16,Boston College,Jairus Hamilton,Turnover,13,19
+10:58,Duke,Zion Williamson,Missed Layup,13,19
+10:58,Boston College,Jairus Hamilton,Defensive Rebound,13,19
+10:47,Boston College,Ky Bowman,Missed Dunk,13,19
+10:47,Duke,Jack White,Block,13,19
+10:47,Duke,Zion Williamson,Defensive Rebound,13,19
+10:41,Boston College,Jairus Hamilton,Foul,13,19
+10:41,Duke,Zion Williamson,Missed Free Throw,13,19
+10:41,Duke,None,Team Rebound,13,19
+10:41,Duke,Zion Williamson,Free Throw,13,20
+10:25,Boston College,Nik Popovic,Missed Jumper,13,20
+10:25,Duke,Zion Williamson,Defensive Rebound,13,20
+10:00,Duke,Jack White,Missed Three Point Jumper,13,20
+10:00,Boston College,Steffon Mitchell,Defensive Rebound,13,20
+9:45,Boston College,Nik Popovic,Missed Jumper,13,20
+9:45,Duke,Zion Williamson,Defensive Rebound,13,20
+9:32,Duke,Cam Reddish,Missed Three Point Jumper,13,20
+9:32,Boston College,Ky Bowman,Defensive Rebound,13,20
+9:22,Boston College,Steffon Mitchell,Layup,15,20
+9:05,Duke,Cam Reddish,Missed Three Point Jumper,15,20
+9:05,Boston College,Chris Herren Jr.,Defensive Rebound,15,20
+8:55,Boston College,Chris Herren Jr.,Missed Layup,15,20
+8:55,Boston College,Steffon Mitchell,Offensive Rebound,15,20
+8:51,Boston College,Steffon Mitchell,Dunk,17,20
+8:32,Duke,Tre Jones,Missed Jumper,17,20
+8:32,Boston College,Ky Bowman,Defensive Rebound,17,20
+8:26,Boston College,Ky Bowman,Missed Jumper,17,20
+8:26,Duke,Zion Williamson,Defensive Rebound,17,20
+8:00,Duke,Tre Jones,Missed Three Point Jumper,17,20
+8:00,Boston College,Nik Popovic,Defensive Rebound,17,20
+7:54,Boston College,Nik Popovic,Turnover,17,20
+7:54,Duke,None,None,17,20
+7:51,Duke,Jack White,Missed Three Point Jumper,17,20
+7:51,Duke,Javin DeLaurier,Offensive Rebound,17,20
+7:38,Duke,Jack White,Foul,17,20
+7:38,Duke,Jack White,Turnover,17,20
+7:18,Boston College,Jairus Hamilton,Jumper,19,20
+6:53,Duke,Cam Reddish,Turnover,19,20
+6:38,Boston College,Nik Popovic,Turnover,19,20
+6:38,Duke,Zion Williamson,Steal,19,20
+6:28,Boston College,Jordan Chatman,Foul,19,20
+6:28,Duke,RJ Barrett,Free Throw,19,21
+6:28,Duke,RJ Barrett,Free Throw,19,22
+6:10,Boston College,Nik Popovic,Missed Jumper,19,22
+6:10,Duke,Cam Reddish,Defensive Rebound,19,22
+6:00,Duke,RJ Barrett,Missed Jumper,19,22
+6:00,Duke,Zion Williamson,Offensive Rebound,19,22
+5:56,Duke,Zion Williamson,Layup,19,24
+5:42,Boston College,Ky Bowman,Layup,21,24
+5:25,Duke,Marques Bolden,Missed Layup,21,24
+5:21,Duke,Marques Bolden,Offensive Rebound,21,24
+5:18,Duke,Marques Bolden,Missed Layup,21,24
+5:18,Boston College,Jairus Hamilton,Defensive Rebound,21,24
+5:08,Boston College,Nik Popovic,Missed Three Point Jumper,21,24
+5:08,Duke,Zion Williamson,Defensive Rebound,21,24
+4:44,Duke,RJ Barrett,Missed Three Point Jumper,21,24
+4:44,Duke,Zion Williamson,Offensive Rebound,21,24
+4:35,Duke,Tre Jones,Missed Jumper,21,24
+4:35,Boston College,Ky Bowman,Defensive Rebound,21,24
+4:18,Boston College,Nik Popovic,Jumper,23,24
+4:03,Duke,RJ Barrett,Foul,23,24
+4:03,Duke,RJ Barrett,Turnover,23,24
+3:52,Boston College,Jordan Chatman,Missed Jumper,23,24
+3:52,Duke,Zion Williamson,Defensive Rebound,23,24
+3:43,Boston College,Steffon Mitchell,Foul,23,24
+3:43,Duke,None,None,23,24
+3:33,Duke,Alex O'Connell,Missed Three Point Jumper,23,24
+3:33,Boston College,Ky Bowman,Defensive Rebound,23,24
+3:13,Boston College,Ky Bowman,Three Point Jumper,26,24
+2:52,Duke,Cam Reddish,Missed Three Point Jumper,26,24
+2:52,Boston College,Jared Hamilton,Defensive Rebound,26,24
+2:40,Boston College,Ky Bowman,Jumper,28,24
+2:23,Duke,Cam Reddish,Layup,28,26
+2:05,Boston College,Ky Bowman,Missed Three Point Jumper,28,26
+2:05,Boston College,Jared Hamilton,Offensive Rebound,28,26
+2:01,Boston College,Jared Hamilton,Missed Jumper,28,26
+2:01,Boston College,Steffon Mitchell,Offensive Rebound,28,26
+1:55,Boston College,Jared Hamilton,Missed Jumper,28,26
+1:55,Duke,Cam Reddish,Defensive Rebound,28,26
+1:44,Duke,Alex O'Connell,Missed Jumper,28,26
+1:44,Boston College,Steffon Mitchell,Defensive Rebound,28,26
+1:26,Boston College,Johncarlos Reyes,Jumper,30,26
+0:58,Duke,Cam Reddish,Missed Jumper,30,26
+0:58,Boston College,Nik Popovic,Defensive Rebound,30,26
+0:36,Boston College,Jordan Chatman,Turnover,30,26
+0:36,Duke,Zion Williamson,Steal,30,26
+0:34,Boston College,Jordan Chatman,Foul,30,26
+0:34,Duke,None,None,30,26
+0:09,Duke,Cam Reddish,Missed Three Point Jumper,30,26
+0:09,Boston College,Jared Hamilton,Defensive Rebound,30,26
+0:04,Boston College,Ky Bowman,Turnover,30,26
+0:04,Duke,Cam Reddish,Steal,30,26
+0:02,Duke,Cam Reddish,Layup,30,28
+0:00,Duke,None,None,30,28
+20:00,Boston College,None,None,30,28
+19:46,Boston College,Ky Bowman,Missed Jumper,30,28
+19:46,Duke,Tre Jones,Block,30,28
+19:46,Duke,Duke,Defensive Rebound,30,28
+19:26,Boston College,Nik Popovic,Foul,30,28
+19:20,Duke,Cam Reddish,Jumper,30,30
+18:51,Boston College,Nik Popovic,Missed Jumper,30,30
+18:51,Duke,Marques Bolden,Defensive Rebound,30,30
+18:40,Duke,RJ Barrett,Layup,30,32
+18:40,Boston College,Ky Bowman,Foul,30,32
+18:40,Duke,RJ Barrett,Free Throw,30,33
+18:30,Boston College,Jared Hamilton,Missed Three Point Jumper,30,33
+18:30,Boston College,Nik Popovic,Offensive Rebound,30,33
+18:21,Boston College,Ky Bowman,Missed Layup,30,33
+18:21,Duke,Zion Williamson,Block,30,33
+18:21,Duke,Zion Williamson,Defensive Rebound,30,33
+18:14,Duke,Cam Reddish,Three Point Jumper,30,36
+18:11,Boston College,None,None,30,36
+17:59,Boston College,Jared Hamilton,Jumper,32,36
+17:34,Duke,Zion Williamson,Turnover,32,36
+17:34,Boston College,Steffon Mitchell,Steal,32,36
+17:28,Boston College,Steffon Mitchell,Turnover,32,36
+17:13,Duke,Tre Jones,Missed Jumper,32,36
+17:13,Duke,Zion Williamson,Offensive Rebound,32,36
+17:09,Duke,Zion Williamson,Layup,32,38
+16:46,Duke,Marques Bolden,Foul,32,38
+16:40,Boston College,Nik Popovic,Missed Jumper,32,38
+16:40,Duke,Zion Williamson,Defensive Rebound,32,38
+16:35,Boston College,Jared Hamilton,Foul,32,38
+16:16,Duke,None,None,32,38
+16:15,Duke,Cam Reddish,Three Point Jumper,32,41
+16:00,Boston College,Ky Bowman,Dunk,34,41
+15:42,Duke,Tre Jones,Missed Three Point Jumper,34,41
+15:42,Boston College,Jared Hamilton,Defensive Rebound,34,41
+15:37,Boston College,Jared Hamilton,Turnover,34,41
+15:37,Duke,None,None,34,41
+15:22,Duke,Tre Jones,Three Point Jumper,34,44
+15:06,Duke,Tre Jones,Foul,34,44
+14:52,Boston College,Ky Bowman,Jumper,36,44
+14:37,Duke,Cam Reddish,Missed Three Point Jumper,36,44
+14:37,Boston College,Boston College,Defensive Rebound,36,44
+14:17,Boston College,Ky Bowman,Missed Jumper,36,44
+14:17,Duke,Zion Williamson,Defensive Rebound,36,44
+13:44,Duke,Zion Williamson,Missed Jumper,36,44
+13:44,Duke,Tre Jones,Offensive Rebound,36,44
+13:42,Duke,Tre Jones,Missed Layup,36,44
+13:42,Duke,Tre Jones,Offensive Rebound,36,44
+13:36,Duke,RJ Barrett,Missed Jumper,36,44
+13:36,Duke,RJ Barrett,Offensive Rebound,36,44
+13:35,Boston College,Ky Bowman,Foul,36,44
+13:35,Duke,RJ Barrett,Free Throw,36,45
+13:35,Duke,RJ Barrett,Free Throw,36,46
+13:16,Duke,Cam Reddish,Foul,36,46
+13:16,Boston College,Jordan Chatman,Missed Free Throw,36,46
+13:16,Boston College,None,Team Rebound,36,46
+13:16,Boston College,Jordan Chatman,Free Throw,37,46
+13:16,Boston College,Jordan Chatman,Free Throw,38,46
+13:04,Duke,RJ Barrett,Three Point Jumper,38,49
+12:44,Boston College,Chris Herren Jr.,Three Point Jumper,41,49
+12:35,Boston College,Luka Kraljevic,Foul,41,49
+12:35,Duke,Cam Reddish,Free Throw,41,50
+12:35,Duke,Cam Reddish,Free Throw,41,51
+12:18,Boston College,Ky Bowman,Missed Layup,41,51
+12:18,Duke,Jack White,Defensive Rebound,41,51
+12:05,Duke,RJ Barrett,Missed Layup,41,51
+12:05,Duke,RJ Barrett,Offensive Rebound,41,51
+12:03,Boston College,Ky Bowman,Foul,41,51
+12:03,Duke,RJ Barrett,Missed Free Throw,41,51
+12:03,Duke,None,Team Rebound,41,51
+12:03,Duke,RJ Barrett,Free Throw,41,52
+11:47,Boston College,Ky Bowman,Missed Three Point Jumper,41,52
+11:47,Duke,Zion Williamson,Block,41,52
+11:47,Duke,Javin DeLaurier,Defensive Rebound,41,52
+11:39,Duke,RJ Barrett,Turnover,41,52
+11:39,Duke,None,None,41,52
+11:23,Duke,Javin DeLaurier,Foul,41,52
+11:09,Boston College,Jordan Chatman,Missed Three Point Jumper,41,52
+11:09,Duke,Zion Williamson,Block,41,52
+10:58,Duke,Tre Jones,Defensive Rebound,41,52
+10:51,Duke,Zion Williamson,Layup,41,54
+10:23,Boston College,Chris Herren Jr.,Turnover,41,54
+10:23,Duke,Javin DeLaurier,Steal,41,54
+10:18,Boston College,Jordan Chatman,Foul,41,54
+10:18,Duke,Tre Jones,Free Throw,41,55
+10:18,Duke,Tre Jones,Missed Free Throw,41,55
+10:18,Duke,Zion Williamson,Offensive Rebound,41,55
+10:18,Duke,None,None,41,57
+9:54,Boston College,Nik Popovic,Layup,43,57
+9:40,Boston College,Steffon Mitchell,Foul,43,57
+9:40,Duke,Zion Williamson,Missed Free Throw,43,57
+9:40,Boston College,Nik Popovic,Defensive Rebound,43,57
+9:34,Boston College,Jared Hamilton,Missed Layup,43,57
+9:34,Duke,Marques Bolden,Block,43,57
+9:34,Duke,Zion Williamson,Defensive Rebound,43,57
+9:27,Boston College,Ky Bowman,Foul,43,57
+9:27,Boston College,Boston College,Foul,43,57
+9:27,Duke,Cam Reddish,Free Throw,43,58
+9:27,Duke,Cam Reddish,Free Throw,43,59
+9:27,Duke,RJ Barrett,Free Throw,43,60
+9:27,Duke,RJ Barrett,Missed Free Throw,43,60
+9:27,Boston College,Nik Popovic,Defensive Rebound,43,60
+9:15,Boston College,Chris Herren Jr.,Turnover,43,60
+9:15,Duke,Zion Williamson,Steal,43,60
+9:10,Duke,Zion Williamson,Missed Dunk,43,60
+9:10,Duke,Tre Jones,Offensive Rebound,43,60
+9:09,Boston College,Steffon Mitchell,Foul,43,60
+9:09,Duke,Tre Jones,Free Throw,43,61
+9:09,Duke,Tre Jones,Missed Free Throw,43,61
+9:09,Boston College,Nik Popovic,Defensive Rebound,43,61
+8:58,Duke,Marques Bolden,Foul,43,61
+8:58,Boston College,Jordan Chatman,Free Throw,44,61
+8:58,Boston College,Jordan Chatman,Free Throw,45,61
+8:41,Duke,Marques Bolden,Jumper,45,63
+8:28,Duke,RJ Barrett,Foul,45,63
+8:21,Boston College,Jordan Chatman,Missed Three Point Jumper,45,63
+8:21,Duke,Duke,Defensive Rebound,45,63
+7:59,Boston College,Steffon Mitchell,Foul,45,63
+7:59,Duke,None,None,45,63
+7:59,Duke,Zion Williamson,Missed Free Throw,45,63
+7:59,Duke,None,Team Rebound,45,63
+7:59,Duke,Zion Williamson,Free Throw,45,64
+7:41,Boston College,Nik Popovic,Missed Jumper,45,64
+7:41,Duke,Cam Reddish,Defensive Rebound,45,64
+7:24,Duke,Cam Reddish,Missed Three Point Jumper,45,64
+7:24,Duke,Zion Williamson,Offensive Rebound,45,64
+6:59,Duke,Alex O'Connell,Turnover,45,64
+6:45,Boston College,Jordan Chatman,Three Point Jumper,48,64
+6:17,Duke,Marques Bolden,Layup,48,66
+6:01,Boston College,Ky Bowman,Missed Jumper,48,66
+6:01,Duke,Marques Bolden,Defensive Rebound,48,66
+5:35,Duke,Tre Jones,Missed Jumper,48,66
+5:35,Boston College,Jairus Hamilton,Defensive Rebound,48,66
+5:30,Boston College,Jairus Hamilton,Turnover,48,66
+5:30,Duke,Cam Reddish,Steal,48,66
+5:08,Duke,Alex O'Connell,Jumper,48,68
+4:34,Boston College,Nik Popovic,Layup,50,68
+4:05,Duke,Zion Williamson,Turnover,50,68
+3:50,Boston College,Jordan Chatman,Jumper,52,68
+3:26,Duke,Cam Reddish,Three Point Jumper,52,71
+3:08,Duke,Cam Reddish,Foul,52,71
+3:08,Duke,None,None,52,71
+3:08,Boston College,Nik Popovic,Missed Free Throw,52,71
+3:08,Boston College,None,Team Rebound,52,71
+3:08,Boston College,Nik Popovic,Free Throw,53,71
+2:48,Duke,RJ Barrett,Three Point Jumper,53,74
+2:17,Boston College,Ky Bowman,Missed Layup,53,74
+2:17,Duke,Javin DeLaurier,Block,53,74
+2:17,Duke,Javin DeLaurier,Defensive Rebound,53,74
+1:54,Duke,RJ Barrett,Jumper,53,76
+1:33,Boston College,Jared Hamilton,Turnover,53,76
+1:33,Duke,Jack White,Steal,53,76
+1:12,Duke,Tre Jones,Layup,53,78
+1:10,Duke,None,None,53,78
+0:58,Duke,Justin Robinson,Foul,53,78
+0:58,Boston College,Jordan Chatman,Free Throw,54,78
+0:58,Boston College,Jordan Chatman,Free Throw,55,78
+0:41,Duke,Alex O'Connell,Jumper,55,80
+0:28,Boston College,Jairus Hamilton,Missed Three Point Jumper,55,80
+0:28,Boston College,Chris Herren Jr.,Offensive Rebound,55,80
+0:21,Boston College,Chris Herren Jr.,Missed Three Point Jumper,55,80
+0:21,Duke,Jack White,Defensive Rebound,55,80
+0:00,Duke,None,None,55,80

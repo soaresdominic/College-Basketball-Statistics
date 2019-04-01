@@ -1,0 +1,300 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas,None,None,0,0
+19:46,Texas,Elijah Mitrou-Long,Missed Three Point Jumper,0,0
+19:46,Kansas,Lagerald Vick,Defensive Rebound,0,0
+19:38,Kansas,Quentin Grimes,Three Point Jumper,0,3
+19:17,Texas,Dylan Osetkowski,Missed Three Point Jumper,0,3
+19:17,Kansas,Marcus Garrett,Defensive Rebound,0,3
+19:06,Kansas,Lagerald Vick,Three Point Jumper,0,6
+18:30,Texas,Kerwin Roach II,Missed Jumper,0,6
+18:30,Kansas,Dedric Lawson,Defensive Rebound,0,6
+18:21,Kansas,Dedric Lawson,Jumper,0,8
+18:15,Texas,None,None,0,8
+17:54,Texas,Elijah Mitrou-Long,Missed Jumper,0,8
+17:54,Texas,Dylan Osetkowski,Offensive Rebound,0,8
+17:49,Texas,Dylan Osetkowski,Dunk,2,8
+17:26,Kansas,Lagerald Vick,Missed Three Point Jumper,2,8
+17:26,Texas,Elijah Mitrou-Long,Defensive Rebound,2,8
+17:06,Texas,Matt Coleman III,Three Point Jumper,5,8
+16:50,Texas,Kerwin Roach II,Foul,5,8
+16:25,Texas,Matt Coleman III,Foul,5,8
+16:25,Kansas,Devon Dotson,Free Throw,5,9
+16:25,Kansas,Devon Dotson,Free Throw,5,10
+16:12,Texas,Dylan Osetkowski,Jumper,7,10
+16:00,Kansas,Dedric Lawson,Missed Layup,7,10
+16:00,Texas,Matt Coleman III,Defensive Rebound,7,10
+15:48,Texas,Courtney Ramey,Missed Three Point Jumper,7,10
+15:48,Kansas,Lagerald Vick,Defensive Rebound,7,10
+15:34,Texas,Jaxson Hayes,Foul,7,10
+15:34,Kansas,None,None,7,10
+15:27,Kansas,Quentin Grimes,Missed Three Point Jumper,7,10
+15:27,Texas,Jericho Sims,Defensive Rebound,7,10
+15:06,Texas,Elijah Mitrou-Long,Turnover,7,10
+15:06,Kansas,Lagerald Vick,Steal,7,10
+14:50,Kansas,Marcus Garrett,Three Point Jumper,7,13
+14:24,Texas,Courtney Ramey,Three Point Jumper,10,13
+14:02,Kansas,Devon Dotson,Missed Three Point Jumper,10,13
+14:02,Texas,Courtney Ramey,Defensive Rebound,10,13
+13:47,Texas,Jase Febres,Missed Three Point Jumper,10,13
+13:47,Kansas,Dedric Lawson,Defensive Rebound,10,13
+13:36,Kansas,Marcus Garrett,Jumper,10,15
+13:25,Kansas,Ochai Agbaji,Foul,10,15
+13:22,Texas,Matt Coleman III,Layup,12,15
+13:05,Kansas,Lagerald Vick,Missed Jumper,12,15
+13:05,Texas,Jericho Sims,Defensive Rebound,12,15
+12:48,Texas,Kerwin Roach II,Missed Jumper,12,15
+12:48,Texas,Jericho Sims,Offensive Rebound,12,15
+12:39,Texas,Jericho Sims,Turnover,12,15
+12:39,Kansas,Marcus Garrett,Steal,12,15
+12:34,Kansas,Marcus Garrett,Layup,12,17
+12:05,Texas,Matt Coleman III,Jumper,14,17
+11:44,Kansas,Marcus Garrett,Three Point Jumper,14,20
+11:34,Texas,Kerwin Roach II,Missed Three Point Jumper,14,20
+11:34,Texas,Dylan Osetkowski,Offensive Rebound,14,20
+11:27,Texas,Kerwin Roach II,Three Point Jumper,17,20
+11:12,Kansas,Marcus Garrett,Three Point Jumper,17,23
+10:54,Texas,Jaxson Hayes,Dunk,19,23
+10:19,Kansas,Mitch Lightfoot,Missed Layup,19,23
+10:19,Kansas,Kansas,Offensive Rebound,19,23
+10:18,Kansas,None,None,19,23
+9:53,Kansas,Quentin Grimes,Missed Three Point Jumper,19,23
+9:53,Texas,Jaxson Hayes,Defensive Rebound,19,23
+9:41,Texas,Kerwin Roach II,Missed Three Point Jumper,19,23
+9:41,Texas,Jaxson Hayes,Offensive Rebound,19,23
+9:39,Kansas,Dedric Lawson,Foul,19,23
+9:31,Texas,Matt Coleman III,Three Point Jumper,22,23
+9:10,Texas,Jaxson Hayes,Foul,22,23
+9:10,Kansas,Dedric Lawson,Missed Free Throw,22,23
+9:10,Kansas,None,Team Rebound,22,23
+9:10,Kansas,Dedric Lawson,Missed Free Throw,22,23
+9:10,Texas,Dylan Osetkowski,Defensive Rebound,22,23
+8:53,Texas,Dylan Osetkowski,Missed Jumper,22,23
+8:53,Kansas,Lagerald Vick,Defensive Rebound,22,23
+8:38,Kansas,Lagerald Vick,Jumper,22,25
+8:15,Texas,Jase Febres,Missed Jumper,22,25
+8:15,Texas,Courtney Ramey,Offensive Rebound,22,25
+8:04,Texas,Dylan Osetkowski,Missed Jumper,22,25
+8:04,Texas,Texas,Offensive Rebound,22,25
+7:59,Kansas,None,None,22,25
+7:48,Texas,Courtney Ramey,Missed Jumper,22,25
+7:48,Kansas,Dedric Lawson,Defensive Rebound,22,25
+7:41,Kansas,Lagerald Vick,Missed Layup,22,25
+7:41,Texas,Kerwin Roach II,Block,22,25
+7:41,Texas,Dylan Osetkowski,Defensive Rebound,22,25
+7:34,Texas,Jase Febres,Missed Three Point Jumper,22,25
+7:34,Kansas,Lagerald Vick,Defensive Rebound,22,25
+7:14,Kansas,Dedric Lawson,Missed Jumper,22,25
+7:14,Texas,Dylan Osetkowski,Defensive Rebound,22,25
+7:04,Texas,Dylan Osetkowski,Dunk,24,25
+6:52,Kansas,Devon Dotson,Missed Layup,24,25
+6:52,Texas,Matt Coleman III,Defensive Rebound,24,25
+6:44,Texas,Matt Coleman III,Missed Layup,24,25
+6:44,Kansas,Dedric Lawson,Defensive Rebound,24,25
+6:36,Kansas,Lagerald Vick,Jumper,24,27
+6:16,Texas,Jase Febres,Missed Three Point Jumper,24,27
+6:16,Kansas,Devon Dotson,Defensive Rebound,24,27
+6:00,Kansas,Dedric Lawson,Layup,24,29
+5:44,Kansas,Dedric Lawson,Foul,24,29
+5:32,Texas,Elijah Mitrou-Long,Missed Three Point Jumper,24,29
+5:32,Texas,Jericho Sims,Offensive Rebound,24,29
+5:21,Texas,Jase Febres,Three Point Jumper,27,29
+5:02,Texas,Courtney Ramey,Foul,27,29
+5:02,Kansas,Mitch Lightfoot,Missed Free Throw,27,29
+5:02,Kansas,None,Team Rebound,27,29
+5:02,Kansas,Mitch Lightfoot,Missed Free Throw,27,29
+5:02,Texas,Courtney Ramey,Defensive Rebound,27,29
+4:49,Texas,Jase Febres,Missed Three Point Jumper,27,29
+4:49,Kansas,Devon Dotson,Defensive Rebound,27,29
+4:40,Kansas,Charlie Moore,Missed Three Point Jumper,27,29
+4:40,Texas,Jase Febres,Defensive Rebound,27,29
+4:16,Texas,Elijah Mitrou-Long,Three Point Jumper,30,29
+4:09,Kansas,None,None,30,29
+4:09,Kansas,None,None,30,29
+4:08,Texas,Jericho Sims,Foul,30,29
+3:56,Kansas,Marcus Garrett,Layup,30,31
+3:50,Texas,Elijah Mitrou-Long,Missed Three Point Jumper,30,31
+3:50,Kansas,Ochai Agbaji,Defensive Rebound,30,31
+3:33,Kansas,David McCormack,Missed Jumper,30,31
+3:33,Texas,Jericho Sims,Defensive Rebound,30,31
+3:29,Kansas,David McCormack,Foul,30,31
+3:21,Texas,Kerwin Roach II,Turnover,30,31
+3:21,Kansas,Marcus Garrett,Steal,30,31
+3:16,Kansas,Devon Dotson,Layup,30,33
+2:48,Texas,Elijah Mitrou-Long,Three Point Jumper,33,33
+2:30,Kansas,Marcus Garrett,Jumper,33,35
+2:20,Texas,Kerwin Roach II,Three Point Jumper,36,35
+2:06,Kansas,Ochai Agbaji,Missed Three Point Jumper,36,35
+2:06,Texas,Kerwin Roach II,Defensive Rebound,36,35
+2:01,Kansas,Quentin Grimes,Foul,36,35
+1:41,Texas,Dylan Osetkowski,Jumper,38,35
+1:05,Kansas,Lagerald Vick,Missed Jumper,38,35
+1:05,Kansas,David McCormack,Offensive Rebound,38,35
+1:02,Texas,Courtney Ramey,Foul,38,35
+1:02,Kansas,David McCormack,Missed Free Throw,38,35
+1:02,Texas,Courtney Ramey,Defensive Rebound,38,35
+0:36,Texas,Kerwin Roach II,Layup,40,35
+0:10,Kansas,Lagerald Vick,Three Point Jumper,40,38
+0:01,Texas,Jase Febres,Missed Dunk,40,38
+0:01,Kansas,Kansas,Defensive Rebound,40,38
+0:00,Kansas,None,None,40,38
+20:00,Kansas,None,None,40,38
+19:39,Kansas,Devon Dotson,Three Point Jumper,40,41
+19:19,Texas,Dylan Osetkowski,Missed Three Point Jumper,40,41
+19:19,Kansas,Devon Dotson,Defensive Rebound,40,41
+19:10,Kansas,Quentin Grimes,Three Point Jumper,40,44
+18:38,Texas,Dylan Osetkowski,Missed Jumper,40,44
+18:38,Kansas,Marcus Garrett,Block,40,44
+18:38,Kansas,Quentin Grimes,Defensive Rebound,40,44
+18:17,Texas,Jaxson Hayes,Foul,40,44
+18:17,Kansas,Devon Dotson,Missed Free Throw,40,44
+18:17,Kansas,None,Team Rebound,40,44
+18:17,Kansas,Devon Dotson,Free Throw,40,45
+17:56,Kansas,Devon Dotson,Foul,40,45
+17:52,Kansas,Marcus Garrett,Foul,40,45
+17:52,Texas,Kerwin Roach II,Free Throw,41,45
+17:52,Texas,Kerwin Roach II,Free Throw,42,45
+17:39,Kansas,Quentin Grimes,Turnover,42,45
+17:23,Texas,Matt Coleman III,Missed Jumper,42,45
+17:23,Kansas,Dedric Lawson,Defensive Rebound,42,45
+17:09,Kansas,Lagerald Vick,Three Point Jumper,42,48
+16:58,Texas,Matt Coleman III,Layup,44,48
+16:41,Texas,Kerwin Roach II,Foul,44,48
+16:38,Kansas,Marcus Garrett,Turnover,44,48
+16:38,Texas,Dylan Osetkowski,Steal,44,48
+16:18,Texas,Dylan Osetkowski,Missed Jumper,44,48
+16:18,Texas,Dylan Osetkowski,Offensive Rebound,44,48
+16:14,Texas,Dylan Osetkowski,Missed Jumper,44,48
+16:14,Kansas,Dedric Lawson,Defensive Rebound,44,48
+16:01,Texas,Jase Febres,Foul,44,48
+15:54,Kansas,Lagerald Vick,Three Point Jumper,44,51
+15:22,Texas,Dylan Osetkowski,Layup,46,51
+15:22,Kansas,Dedric Lawson,Foul,46,51
+15:22,Kansas,None,None,46,51
+15:22,Texas,Dylan Osetkowski,Free Throw,47,51
+15:00,Kansas,Marcus Garrett,Missed Jumper,47,51
+15:00,Texas,Jase Febres,Defensive Rebound,47,51
+14:55,Kansas,Mitch Lightfoot,Foul,47,51
+14:34,Texas,Matt Coleman III,Missed Jumper,47,51
+14:34,Texas,Matt Coleman III,Offensive Rebound,47,51
+14:25,Texas,Texas ,Turnover,47,51
+14:14,Kansas,David McCormack,Turnover,47,51
+14:14,Kansas,David McCormack,Foul,47,51
+13:50,Texas,Courtney Ramey,Missed Jumper,47,51
+13:50,Texas,Dylan Osetkowski,Offensive Rebound,47,51
+13:46,Texas,Dylan Osetkowski,Missed Jumper,47,51
+13:46,Kansas,David McCormack,Defensive Rebound,47,51
+13:41,Texas,Dylan Osetkowski,Foul,47,51
+13:24,Kansas,Lagerald Vick,Missed Jumper,47,51
+13:24,Kansas,David McCormack,Offensive Rebound,47,51
+13:18,Kansas,Lagerald Vick,Missed Three Point Jumper,47,51
+13:18,Kansas,David McCormack,Offensive Rebound,47,51
+13:15,Texas,Jericho Sims,Foul,47,51
+13:10,Kansas,Devon Dotson,Layup,47,53
+12:42,Texas,Kerwin Roach II,Missed Three Point Jumper,47,53
+12:42,Kansas,Ochai Agbaji,Defensive Rebound,47,53
+12:29,Kansas,David McCormack,Jumper,47,55
+12:24,Texas,None,None,47,55
+12:24,Kansas,None,None,47,55
+12:14,Texas,Jase Febres,Missed Three Point Jumper,47,55
+12:14,Kansas,Marcus Garrett,Defensive Rebound,47,55
+11:54,Kansas,Marcus Garrett,Layup,47,57
+11:42,Texas,Jaxson Hayes,Dunk,49,57
+11:25,Kansas,Marcus Garrett,Missed Jumper,49,57
+11:25,Texas,Jaxson Hayes,Defensive Rebound,49,57
+11:11,Texas,Kerwin Roach II,Missed Three Point Jumper,49,57
+11:11,Texas,Jaxson Hayes,Offensive Rebound,49,57
+10:54,Texas,Matt Coleman III,Jumper,51,57
+10:37,Kansas,Ochai Agbaji,Layup,51,59
+10:12,Texas,Jaxson Hayes,Missed Jumper,51,59
+10:12,Kansas,Ochai Agbaji,Defensive Rebound,51,59
+10:04,Kansas,David McCormack,Missed Jumper,51,59
+10:04,Kansas,Kansas,Offensive Rebound,51,59
+10:00,Kansas,None,None,51,59
+9:44,Kansas,Ochai Agbaji,Missed Three Point Jumper,51,59
+9:44,Kansas,Devon Dotson,Offensive Rebound,51,59
+9:39,Kansas,Quentin Grimes,Missed Three Point Jumper,51,59
+9:39,Texas,Elijah Mitrou-Long,Defensive Rebound,51,59
+9:27,Texas,Jaxson Hayes,Dunk,53,59
+9:07,Kansas,Dedric Lawson,Jumper,53,61
+8:36,Texas,Elijah Mitrou-Long,Missed Three Point Jumper,53,61
+8:36,Kansas,Devon Dotson,Defensive Rebound,53,61
+8:22,Texas,Jaxson Hayes,Foul,53,61
+8:22,Kansas,Dedric Lawson,Free Throw,53,62
+8:22,Kansas,Dedric Lawson,Free Throw,53,63
+8:09,Texas,Jase Febres,Missed Three Point Jumper,53,63
+8:09,Texas,Jericho Sims,Offensive Rebound,53,63
+7:59,Kansas,Marcus Garrett,Foul,53,63
+7:59,Kansas,None,None,53,63
+7:59,Texas,Jericho Sims,Free Throw,54,63
+7:59,Texas,Jericho Sims,Free Throw,55,63
+7:53,Texas,Dylan Osetkowski,Foul,55,63
+7:53,Kansas,Marcus Garrett,Missed Free Throw,55,63
+7:53,Kansas,None,Team Rebound,55,63
+7:53,Kansas,Marcus Garrett,Missed Free Throw,55,63
+7:53,Texas,Dylan Osetkowski,Defensive Rebound,55,63
+7:45,Texas,Jase Febres,Turnover,55,63
+7:45,Kansas,Ochai Agbaji,Steal,55,63
+7:39,Kansas,Ochai Agbaji,Layup,55,65
+7:14,Texas,Matt Coleman III,Missed Jumper,55,65
+7:14,Kansas,Dedric Lawson,Defensive Rebound,55,65
+6:53,Kansas,Ochai Agbaji,Missed Jumper,55,65
+6:53,Texas,Courtney Ramey,Defensive Rebound,55,65
+6:32,Texas,Matt Coleman III,Missed Three Point Jumper,55,65
+6:32,Texas,Jericho Sims,Offensive Rebound,55,65
+6:22,Texas,Courtney Ramey,Layup,57,65
+5:54,Texas,Jericho Sims,Foul,57,65
+5:54,Kansas,Lagerald Vick,Free Throw,57,66
+5:54,Kansas,Lagerald Vick,Free Throw,57,67
+5:49,Kansas,Devon Dotson,Foul,57,67
+5:49,Texas,Courtney Ramey,Free Throw,58,67
+5:49,Texas,Courtney Ramey,Free Throw,59,67
+5:41,Kansas,Lagerald Vick,Missed Three Point Jumper,59,67
+5:41,Texas,Jase Febres,Defensive Rebound,59,67
+5:21,Texas,Kerwin Roach II,Missed Three Point Jumper,59,67
+5:21,Kansas,Ochai Agbaji,Defensive Rebound,59,67
+5:10,Kansas,Dedric Lawson,Layup,59,69
+4:57,Texas,Jaxson Hayes,Dunk,61,69
+4:48,Texas,None,None,61,69
+4:35,Kansas,Devon Dotson,Missed Jumper,61,69
+4:35,Texas,Jaxson Hayes,Block,61,69
+4:35,Texas,Courtney Ramey,Defensive Rebound,61,69
+4:19,Texas,Kerwin Roach II,Three Point Jumper,64,69
+4:13,Kansas,None,None,64,69
+4:13,Kansas,None,None,64,69
+4:05,Kansas,Dedric Lawson,Layup,64,71
+3:50,Texas,Jase Febres,Three Point Jumper,67,71
+3:22,Texas,None,None,67,71
+3:22,Kansas,Marcus Garrett,Turnover,67,71
+3:22,Texas,Matt Coleman III,Steal,67,71
+3:10,Texas,Jase Febres,Three Point Jumper,70,71
+2:45,Kansas,Dedric Lawson,Layup,70,73
+2:29,Texas,Jase Febres,Three Point Jumper,73,73
+2:16,Kansas,None,None,73,73
+2:05,Texas,Jaxson Hayes,Foul,73,73
+2:05,Kansas,Dedric Lawson,Free Throw,73,74
+2:05,Kansas,Dedric Lawson,Free Throw,73,75
+1:45,Kansas,None,None,73,75
+1:45,Texas,Dylan Osetkowski,Turnover,73,75
+1:45,Kansas,Marcus Garrett,Steal,73,75
+1:38,Kansas,Lagerald Vick,Three Point Jumper,73,78
+1:18,Texas,Matt Coleman III,Jumper,75,78
+0:46,Kansas,Marcus Garrett,Missed Three Point Jumper,75,78
+0:46,Texas,Kerwin Roach II,Defensive Rebound,75,78
+0:27,Texas,Courtney Ramey,Missed Three Point Jumper,75,78
+0:27,Texas,Matt Coleman III,Offensive Rebound,75,78
+0:20,Texas,Jase Febres,Missed Jumper,75,78
+0:20,Kansas,Dedric Lawson,Defensive Rebound,75,78
+0:15,Texas,Kerwin Roach II,Foul,75,78
+0:15,Kansas,Dedric Lawson,Free Throw,75,79
+0:15,Texas,None,None,75,79
+0:15,Kansas,Dedric Lawson,Missed Free Throw,75,79
+0:15,Texas,Dylan Osetkowski,Defensive Rebound,75,79
+0:13,Texas,Courtney Ramey,Three Point Jumper,78,79
+0:08,Texas,Jase Febres,Foul,78,79
+0:08,Kansas,Marcus Garrett,Missed Free Throw,78,79
+0:08,Kansas,None,Team Rebound,78,79
+0:08,Kansas,Marcus Garrett,Free Throw,78,80
+0:08,Kansas,None,None,78,80
+0:03,Texas,Jase Febres,Missed Three Point Jumper,78,80
+0:03,Kansas,Quentin Grimes,Defensive Rebound,78,80
+0:00,Kansas,None,None,78,80

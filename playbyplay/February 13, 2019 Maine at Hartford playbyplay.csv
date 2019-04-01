@@ -1,0 +1,282 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:41,Hartford,Jason Dunne,Turnover,0,0
+19:21,Maine,Isaiah White,Three Point Jumper,3,0
+18:58,Hartford,John Carroll,Missed Jumper,3,0
+18:58,Maine,Vincent Eze,Defensive Rebound,3,0
+18:47,Maine,Andrew Fleming,Missed Three Point Jumper,3,0
+18:47,Hartford,George Blagojevic,Defensive Rebound,3,0
+18:18,Hartford,Travis Weatherington,Three Point Jumper,3,3
+17:52,Maine,Vilgot Larsson,Missed Three Point Jumper,3,3
+17:51,Hartford,Hartford,Defensive Rebound,3,3
+17:43,Maine,Vincent Eze,Foul,3,3
+17:32,Hartford,Travis Weatherington,Three Point Jumper,3,6
+17:08,Maine,Isaiah White,Turnover,3,6
+16:48,Hartford,J.R. Lynch,Missed Jumper,3,6
+16:48,Maine,Sergio El Darwich,Defensive Rebound,3,6
+16:24,Maine,Isaiah White,Missed Three Point Jumper,3,6
+16:24,Hartford,Travis Weatherington,Defensive Rebound,3,6
+16:13,Maine,Andrew Fleming,Foul,3,6
+16:10,Hartford,George Blagojevic,Jumper,3,8
+15:51,Hartford,George Blagojevic,Foul,3,8
+15:51,Hartford,None,None,3,8
+15:46,Maine,Sergio El Darwich,Layup,5,8
+15:22,Hartford,Travis Weatherington,Missed Three Point Jumper,5,8
+15:22,Hartford,George Blagojevic,Offensive Rebound,5,8
+15:08,Hartford,John Carroll,Layup,5,10
+15:08,Maine,Vincent Eze,Foul,5,10
+15:08,Hartford,John Carroll,Missed Free Throw,5,10
+15:08,Maine,Sergio El Darwich,Defensive Rebound,5,10
+14:45,Maine,Vilgot Larsson,Layup,7,10
+14:34,Maine,Vilgot Larsson,Foul,7,10
+14:26,Maine,Isaiah White,Foul,7,10
+14:16,Hartford,Jason Dunne,Missed Three Point Jumper,7,10
+14:15,Maine,Andrew Fleming,Defensive Rebound,7,10
+14:15,Hartford,Max Twyman,Foul,7,10
+14:05,Maine,Vilgot Larsson,Turnover,7,10
+14:04,Hartford,Travis Weatherington,Steal,7,10
+14:00,Hartford,Travis Weatherington,Missed Jumper,7,10
+14:00,Maine,Andrew Fleming,Defensive Rebound,7,10
+13:47,Maine,Andrew Fleming,Turnover,7,10
+13:47,Hartford,John Carroll,Steal,7,10
+13:38,Hartford,Max Twyman,Missed Three Point Jumper,7,10
+13:38,Maine,Isaiah White,Defensive Rebound,7,10
+13:18,Hartford,John Carroll,Foul,7,10
+13:18,Maine,Andrew Fleming,Missed Free Throw,7,10
+13:18,Maine,None,Team Rebound,7,10
+13:18,Maine,Andrew Fleming,Free Throw,8,10
+12:57,Hartford,J.R. Lynch,Turnover,8,10
+12:41,Maine,Andrew Fleming,Layup,10,10
+12:19,Hartford,John Carroll,Missed Layup,10,10
+12:19,Hartford,Max Twyman,Offensive Rebound,10,10
+12:17,Hartford,Max Twyman,Missed Layup,10,10
+12:17,Maine,Andrew Fleming,Block,10,10
+12:14,Maine,Maine,Defensive Rebound,10,10
+11:56,Maine,Sergio El Darwich,Turnover,10,10
+11:53,Hartford,Jason Dunne,Steal,10,10
+11:52,Maine,Vilgot Larsson,Foul,10,10
+11:52,Hartford,None,None,10,10
+11:52,Hartford,Max Twyman,Free Throw,10,11
+11:52,Hartford,Max Twyman,Missed Free Throw,10,11
+11:52,Maine,Andrew Fleming,Defensive Rebound,10,11
+11:33,Maine,Dennis Ashley,Missed Jumper,10,11
+11:33,Maine,Miks Antoms,Offensive Rebound,10,11
+11:32,Maine,None,None,10,11
+11:31,Hartford,J.R. Lynch,Defensive Rebound,10,11
+11:21,Hartford,George Blagojevic,Jumper,10,13
+10:55,Maine,Sergio El Darwich,Missed Jumper,10,13
+10:55,Hartford,George Blagojevic,Defensive Rebound,10,13
+10:40,Hartford,Travis Weatherington,Missed Three Point Jumper,10,13
+10:40,Maine,Dennis Ashley,Defensive Rebound,10,13
+10:25,Maine,Miks Antoms,Jumper,12,13
+10:05,Hartford,Jason Dunne,Three Point Jumper,12,16
+9:57,Maine,Isaiah White,Missed Layup,12,16
+9:57,Hartford,Jason Dunne,Block,12,16
+9:57,Maine,Maine,Offensive Rebound,12,16
+9:50,Maine,Sergio El Darwich,Turnover,12,16
+9:49,Hartford,J.R. Lynch,Steal,12,16
+9:44,Hartford,George Blagojevic,Layup,12,18
+9:26,Maine,Isaiah White,Three Point Jumper,15,18
+9:08,Hartford,George Blagojevic,Layup,15,20
+8:50,Maine,Dennis Ashley,Layup,17,20
+8:33,Maine,Isaiah White,Foul,17,20
+8:33,Hartford,Jason Dunne,Missed Free Throw,17,20
+8:33,Maine,Andrew Fleming,Defensive Rebound,17,20
+8:03,Maine,Dennis Ashley,Missed Three Point Jumper,17,20
+8:03,Hartford,George Blagojevic,Defensive Rebound,17,20
+7:42,Hartford,J.R. Lynch,Three Point Jumper,17,23
+7:21,Maine,Andrew Fleming,Jumper,19,23
+7:04,Hartford,George Blagojevic,Turnover,19,23
+7:04,Maine,Dennis Ashley,Steal,19,23
+6:41,Maine,Dennis Ashley,Missed Jumper,19,23
+6:41,Hartford,John Carroll,Defensive Rebound,19,23
+6:32,Maine,Lewis Wang,Foul,19,23
+6:32,Hartford,None,None,19,23
+6:32,Hartford,J.R. Lynch,Missed Free Throw,19,23
+6:32,Maine,Andrew Fleming,Defensive Rebound,19,23
+6:18,Maine,Andrew Fleming,Missed Jumper,19,23
+6:18,Maine,Andrew Fleming,Offensive Rebound,19,23
+6:17,Maine,None,None,21,23
+5:45,Hartford,George Blagojevic,Missed Three Point Jumper,21,23
+5:45,Maine,Andrew Fleming,Defensive Rebound,21,23
+5:27,Maine,Dennis Ashley,Three Point Jumper,24,23
+5:08,Hartford,Travis Weatherington,Jumper,24,25
+4:57,Maine,Celio Araujo,Turnover,24,25
+4:56,Hartford,J.R. Lynch,Steal,24,25
+4:52,Hartford,D.J. Mitchell,Layup,24,27
+4:28,Hartford,John Carroll,Foul,24,27
+4:27,Maine,Dennis Ashley,Layup,26,27
+4:27,Hartford,Travis Weatherington,Foul,26,27
+4:27,Maine,Dennis Ashley,Missed Free Throw,26,27
+4:27,Hartford,Eddie Davis III,Defensive Rebound,26,27
+3:55,Hartford,J.R. Lynch,Missed Jumper,26,27
+3:55,Maine,Andrew Fleming,Defensive Rebound,26,27
+3:43,Hartford,None,None,26,27
+3:34,Maine,Lewis Wang,Three Point Jumper,29,27
+3:15,Hartford,Jason Dunne,Three Point Jumper,29,30
+2:45,Maine,Andrew Fleming,Layup,31,30
+2:45,Hartford,George Blagojevic,Foul,31,30
+2:45,Maine,Andrew Fleming,Free Throw,32,30
+2:34,Hartford,Travis Weatherington,Three Point Jumper,32,33
+2:01,Maine,Ilija Stojiljkovic,Layup,34,33
+1:39,Hartford,Travis Weatherington,Jumper,34,35
+1:21,Maine,Lewis Wang,Turnover,34,35
+1:21,Hartford,Max Twyman,Steal,34,35
+1:18,Hartford,Jason Dunne,Layup,34,37
+1:08,Maine,None,None,34,37
+1:00,Maine,Dennis Ashley,Turnover,34,37
+0:59,Hartford,Eddie Davis III,Steal,34,37
+0:57,Maine,Dennis Ashley,Foul,34,37
+0:57,Hartford,Jason Dunne,Free Throw,34,38
+0:57,Hartford,Jason Dunne,Free Throw,34,39
+0:33,Maine,Andrew Fleming,Missed Jumper,34,39
+0:33,Hartford,Travis Weatherington,Defensive Rebound,34,39
+0:27,Hartford,J.R. Lynch,Layup,34,41
+0:02,Maine,Ilija Stojiljkovic,Jumper,36,41
+0:00,Hartford,None,None,36,41
+19:43,Maine,Isaiah White,Missed Jumper,36,41
+19:43,Hartford,John Carroll,Defensive Rebound,36,41
+19:29,Hartford,John Carroll,Missed Three Point Jumper,36,41
+19:29,Maine,Sergio El Darwich,Defensive Rebound,36,41
+19:21,Maine,Isaiah White,Layup,38,41
+18:51,Hartford,J.R. Lynch,Turnover,38,41
+18:50,Maine,Isaiah White,Steal,38,41
+18:47,Maine,Isaiah White,Layup,40,41
+18:46,Hartford,None,None,40,41
+18:25,Maine,Isaiah White,Foul,40,41
+18:18,Hartford,George Blagojevic,Layup,40,43
+18:01,Hartford,George Blagojevic,Foul,40,43
+18:01,Maine,Andrew Fleming,Missed Free Throw,40,43
+18:01,Maine,None,Team Rebound,40,43
+18:01,Maine,Andrew Fleming,Free Throw,41,43
+17:51,Hartford,Travis Weatherington,Turnover,41,43
+17:50,Maine,Vincent Eze,Steal,41,43
+17:33,Maine,Vincent Eze,Jumper,43,43
+17:17,Hartford,Jason Dunne,Missed Jumper,43,43
+17:17,Maine,Vincent Eze,Defensive Rebound,43,43
+16:58,Maine,Andrew Fleming,Missed Three Point Jumper,43,43
+16:58,Hartford,J.R. Lynch,Defensive Rebound,43,43
+16:49,Hartford,Travis Weatherington,Missed Three Point Jumper,43,43
+16:49,Hartford,John Carroll,Offensive Rebound,43,43
+16:45,Hartford,Jason Dunne,Three Point Jumper,43,46
+16:23,Hartford,John Carroll,Foul,43,46
+16:21,Maine,Dennis Ashley,Three Point Jumper,46,46
+16:01,Hartford,Jason Dunne,Layup,46,48
+15:40,Maine,Vincent Eze,Foul,46,48
+15:40,Maine,Vincent Eze,Turnover,46,48
+15:40,Hartford,None,None,46,48
+15:25,Hartford,John Carroll,Turnover,46,48
+15:25,Maine,Vincent Eze,Steal,46,48
+15:14,Maine,Vincent Eze,Jumper,48,48
+14:44,Hartford,J.R. Lynch,Jumper,48,50
+14:23,Maine,Andrew Fleming,Missed Jumper,48,50
+14:23,Hartford,George Blagojevic,Defensive Rebound,48,50
+14:10,Hartford,J.R. Lynch,Three Point Jumper,48,53
+13:39,Maine,Vilgot Larsson,Missed Three Point Jumper,48,53
+13:39,Hartford,George Blagojevic,Defensive Rebound,48,53
+13:31,Hartford,Jason Dunne,Missed Three Point Jumper,48,53
+13:31,Maine,Dennis Ashley,Defensive Rebound,48,53
+13:25,Maine,Dennis Ashley,Missed Layup,48,53
+13:25,Hartford,J.R. Lynch,Block,48,53
+13:25,Maine,Maine,Offensive Rebound,48,53
+13:18,Maine,Andrew Fleming,Missed Jumper,48,53
+13:18,Hartford,Travis Weatherington,Defensive Rebound,48,53
+13:10,Hartford,J.R. Lynch,Turnover,48,53
+13:10,Maine,Vilgot Larsson,Steal,48,53
+13:04,Maine,Sergio El Darwich,Layup,50,53
+13:00,Maine,None,None,50,53
+12:41,Hartford,Travis Weatherington,Layup,50,55
+12:21,Hartford,George Blagojevic,Foul,50,55
+12:21,Maine,Andrew Fleming,Free Throw,51,55
+12:21,Maine,Andrew Fleming,Missed Free Throw,51,55
+12:19,Maine,Maine,Offensive Rebound,51,55
+12:02,Hartford,Travis Weatherington,Foul,51,55
+12:02,Maine,Andrew Fleming,Missed Free Throw,51,55
+12:02,Maine,None,Team Rebound,51,55
+12:02,Maine,Andrew Fleming,Missed Free Throw,51,55
+12:02,Hartford,Travis Weatherington,Defensive Rebound,51,55
+11:35,Hartford,J.R. Lynch,Three Point Jumper,51,58
+11:19,Maine,Andrew Fleming,Jumper,53,58
+10:58,Hartford,John Carroll,Missed Three Point Jumper,53,58
+10:58,Hartford,John Carroll,Offensive Rebound,53,58
+10:54,Hartford,John Carroll,Missed Layup,53,58
+10:54,Hartford,Max Twyman,Offensive Rebound,53,58
+10:48,Hartford,John Carroll,Dunk,53,60
+10:24,Maine,Vincent Eze,Jumper,55,60
+10:22,Maine,None,None,55,60
+10:13,Maine,Vilgot Larsson,Foul,55,60
+9:59,Hartford,J.R. Lynch,Jumper,55,62
+9:36,Maine,Vincent Eze,Missed Layup,55,62
+9:36,Maine,Vincent Eze,Offensive Rebound,55,62
+9:34,Maine,Vincent Eze,Jumper,57,62
+9:10,Hartford,Travis Weatherington,Jumper,57,64
+9:10,Maine,Sergio El Darwich,Foul,57,64
+9:10,Hartford,Travis Weatherington,Free Throw,57,65
+8:49,Maine,Vilgot Larsson,Missed Three Point Jumper,57,65
+8:47,Hartford,Hartford,Defensive Rebound,57,65
+8:33,Maine,Vilgot Larsson,Foul,57,65
+8:14,Hartford,Jason Dunne,Missed Three Point Jumper,57,65
+8:14,Maine,Isaiah White,Defensive Rebound,57,65
+8:06,Maine,Vincent Eze,Missed Layup,57,65
+8:06,Maine,Vincent Eze,Offensive Rebound,57,65
+8:03,Hartford,Romain Boxus,Foul,57,65
+7:57,Hartford,John Carroll,Foul,57,65
+7:57,Hartford,None,None,57,65
+7:57,Maine,Vincent Eze,Free Throw,58,65
+7:57,Maine,Vincent Eze,Free Throw,59,65
+7:41,Hartford,J.R. Lynch,Turnover,59,65
+7:30,Maine,Andrew Fleming,Layup,61,65
+7:05,Hartford,Jason Dunne,Missed Three Point Jumper,61,65
+7:05,Maine,Sergio El Darwich,Defensive Rebound,61,65
+6:54,Maine,Sergio El Darwich,Three Point Jumper,64,65
+6:35,Hartford,Max Twyman,Three Point Jumper,64,68
+6:09,Maine,Vincent Eze,Missed Jumper,64,68
+6:09,Hartford,J.R. Lynch,Defensive Rebound,64,68
+5:44,Hartford,George Blagojevic,Layup,64,70
+5:26,Maine,Dennis Ashley,Three Point Jumper,67,70
+4:55,Hartford,J.R. Lynch,Missed Three Point Jumper,67,70
+4:55,Maine,Andrew Fleming,Defensive Rebound,67,70
+4:27,Maine,Sergio El Darwich,Missed Jumper,67,70
+4:27,Hartford,Jason Dunne,Defensive Rebound,67,70
+4:11,Hartford,J.R. Lynch,Missed Layup,67,70
+4:11,Maine,Sergio El Darwich,Block,67,70
+4:10,Maine,Dennis Ashley,Defensive Rebound,67,70
+3:54,Maine,Andrew Fleming,Foul,67,70
+3:54,Maine,Andrew Fleming,Turnover,67,70
+3:54,Hartford,None,None,67,70
+3:45,Maine,Vincent Eze,Foul,67,70
+3:45,Hartford,John Carroll,Missed Free Throw,67,70
+3:45,Maine,Sergio El Darwich,Defensive Rebound,67,70
+3:23,Maine,Andrew Fleming,Missed Jumper,67,70
+3:23,Hartford,J.R. Lynch,Defensive Rebound,67,70
+3:14,Hartford,J.R. Lynch,Layup,67,72
+2:52,Maine,Sergio El Darwich,Three Point Jumper,70,72
+2:29,Maine,Dennis Ashley,Foul,70,72
+2:29,Hartford,John Carroll,Free Throw,70,73
+2:29,Hartford,John Carroll,Missed Free Throw,70,73
+2:29,Maine,Andrew Fleming,Defensive Rebound,70,73
+2:04,Maine,Sergio El Darwich,Missed Three Point Jumper,70,73
+2:04,Maine,Vincent Eze,Offensive Rebound,70,73
+1:59,Maine,Isaiah White,Turnover,70,73
+1:35,Hartford,Travis Weatherington,Three Point Jumper,70,76
+1:03,Maine,Sergio El Darwich,Missed Jumper,70,76
+1:03,Hartford,George Blagojevic,Defensive Rebound,70,76
+0:32,Hartford,Jason Dunne,Missed Jumper,70,76
+0:32,Hartford,John Carroll,Offensive Rebound,70,76
+0:25,Maine,Isaiah White,Foul,70,76
+0:25,Hartford,J.R. Lynch,Free Throw,70,77
+0:25,Hartford,J.R. Lynch,Free Throw,70,78
+0:25,Hartford,None,None,70,78
+0:18,Maine,Dennis Ashley,Three Point Jumper,73,78
+0:18,Maine,None,None,73,78
+0:17,Maine,Dennis Ashley,Foul,73,78
+0:17,Hartford,Max Twyman,Free Throw,73,79
+0:17,Hartford,Max Twyman,Free Throw,73,80
+0:11,Maine,Sergio El Darwich,Missed Three Point Jumper,73,80
+0:11,Maine,Dennis Ashley,Offensive Rebound,73,80
+0:06,Maine,Dennis Ashley,Missed Three Point Jumper,73,80
+0:06,Hartford,Travis Weatherington,Defensive Rebound,73,80
+0:04,Maine,Andrew Fleming,Foul,73,80
+0:04,Hartford,Travis Weatherington,Missed Free Throw,73,80
+0:04,Hartford,None,Team Rebound,73,80
+0:04,Hartford,Travis Weatherington,Free Throw,73,81
+0:00,Hartford,None,None,73,81

@@ -1,0 +1,316 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:38,Colgate,Jordan Burns,Turnover,0,0
+19:36,Cornell,Terrance McBride,Steal,0,0
+19:33,Cornell,Josh Warren,Layup,0,2
+19:33,Colgate,Rapolas Ivanauskas,Foul,0,2
+19:33,Cornell,Josh Warren,Free Throw,0,3
+19:15,Colgate,Francisco Amiel,Turnover,0,3
+19:03,Cornell,Matt Morgan,Missed Three Point Jumper,0,3
+19:03,Colgate,Will Rayman,Defensive Rebound,0,3
+18:44,Colgate,Dana Batt,Missed Jumper,0,3
+18:44,Cornell,Josh Warren,Defensive Rebound,0,3
+18:34,Cornell,Terrance McBride,Missed Layup,0,3
+18:34,Colgate,Dana Batt,Block,0,3
+18:32,Colgate,Francisco Amiel,Defensive Rebound,0,3
+18:27,Cornell,Steven Julian,Foul,0,3
+18:27,Colgate,Will Rayman,Missed Free Throw,0,3
+18:27,Colgate,None,Team Rebound,0,3
+18:27,Colgate,Will Rayman,Free Throw,1,3
+18:09,Cornell,Matt Morgan,Layup,1,5
+17:56,Colgate,Jordan Burns,Missed Three Point Jumper,1,5
+17:56,Cornell,Matt Morgan,Defensive Rebound,1,5
+17:33,Cornell,Steven Julian,Turnover,1,5
+17:33,Cornell,Steven Julian,Foul,1,5
+17:19,Colgate,Francisco Amiel,Missed Three Point Jumper,1,5
+17:19,Colgate,Will Rayman,Offensive Rebound,1,5
+17:09,Colgate,Dana Batt,Layup,3,5
+16:54,Cornell,Josh Warren,Three Point Jumper,3,8
+16:26,Colgate,Rapolas Ivanauskas,Missed Layup,3,8
+16:26,Cornell,Matt Morgan,Defensive Rebound,3,8
+16:03,Cornell,Jimmy Boeheim,Layup,3,10
+16:03,Colgate,Dana Batt,Foul,3,10
+16:03,Cornell,Jimmy Boeheim,Missed Free Throw,3,10
+16:03,Colgate,Rapolas Ivanauskas,Defensive Rebound,3,10
+15:44,Colgate,Rapolas Ivanauskas,Layup,5,10
+15:28,Cornell,Jimmy Boeheim,Missed Three Point Jumper,5,10
+15:28,Cornell,Matt Morgan,Offensive Rebound,5,10
+15:23,Cornell,None,None,5,10
+15:17,Cornell,Jimmy Boeheim,Turnover,5,10
+15:06,Colgate,Dana Batt,Layup,7,10
+14:56,Cornell,Matt Morgan,Turnover,7,10
+14:54,Colgate,Dana Batt,Steal,7,10
+14:48,Colgate,Will Rayman,Missed Three Point Jumper,7,10
+14:48,Cornell,Josh Warren,Defensive Rebound,7,10
+14:40,Cornell,Troy Whiteside,Missed Jumper,7,10
+14:40,Colgate,Will Rayman,Defensive Rebound,7,10
+14:16,Colgate,Dana Batt,Layup,9,10
+14:16,Cornell,Troy Whiteside,Foul,9,10
+14:16,Colgate,Dana Batt,Free Throw,10,10
+13:46,Cornell,Terrance McBride,Missed Three Point Jumper,10,10
+13:46,Colgate,Will Rayman,Defensive Rebound,10,10
+13:28,Colgate,Tucker Richardson,Missed Three Point Jumper,10,10
+13:28,Cornell,Matt Morgan,Defensive Rebound,10,10
+13:21,Cornell,Jack Gordon,Turnover,10,10
+13:07,Colgate,Rapolas Ivanauskas,Missed Jumper,10,10
+13:07,Cornell,Matt Morgan,Defensive Rebound,10,10
+13:06,Cornell,Matt Morgan,Turnover,10,10
+12:32,Colgate,Jordan Burns,Missed Layup,10,10
+12:32,Cornell,Jake Kuhn,Defensive Rebound,10,10
+12:24,Cornell,Joel Davis,Turnover,10,10
+12:23,Colgate,Rapolas Ivanauskas,Steal,10,10
+12:18,Colgate,Rapolas Ivanauskas,Three Point Jumper,13,10
+12:05,Cornell,Matt Morgan,Missed Three Point Jumper,13,10
+12:05,Colgate,Dana Batt,Defensive Rebound,13,10
+11:55,Colgate,Jordan Burns,Missed Three Point Jumper,13,10
+11:55,Colgate,Dana Batt,Offensive Rebound,13,10
+11:51,Cornell,Jake Kuhn,Foul,13,10
+11:51,Cornell,None,None,13,10
+11:33,Colgate,Tucker Richardson,Missed Layup,13,10
+11:33,Cornell,Josh Warren,Defensive Rebound,13,10
+11:12,Cornell,Jake Kuhn,Layup,13,12
+10:58,Colgate,Jordan Burns,Layup,15,12
+10:37,Cornell,Joel Davis,Turnover,15,12
+10:37,Cornell,Joel Davis,Foul,15,12
+10:28,Colgate,Malcolm Regisford,Dunk,17,12
+10:13,Cornell,Troy Whiteside,Missed Three Point Jumper,17,12
+10:13,Colgate,Malcolm Regisford,Defensive Rebound,17,12
+9:56,Colgate,Jordan Burns,Turnover,17,12
+9:55,Cornell,Josh Warren,Steal,17,12
+9:41,Colgate,Jack Ferguson,Foul,17,12
+9:39,Cornell,Matt Morgan,Missed Three Point Jumper,17,12
+9:39,Colgate,Jordan Burns,Defensive Rebound,17,12
+9:26,Colgate,Tucker Richardson,Missed Jumper,17,12
+9:26,Colgate,Tucker Richardson,Offensive Rebound,17,12
+9:19,Colgate,Jordan Burns,Layup,19,12
+9:03,Cornell,Terrance McBride,Turnover,19,12
+9:03,Cornell,Terrance McBride,Foul,19,12
+8:49,Colgate,Jordan Burns,Jumper,21,12
+8:28,Cornell,Jake Kuhn,Missed Three Point Jumper,21,12
+8:28,Cornell,Troy Whiteside,Offensive Rebound,21,12
+8:20,Cornell,Jake Kuhn,Missed Three Point Jumper,21,12
+8:20,Colgate,Jack Ferguson,Defensive Rebound,21,12
+8:07,Colgate,Will Rayman,Turnover,21,12
+8:07,Cornell,Troy Whiteside,Steal,21,12
+7:43,Cornell,Troy Whiteside,Layup,21,14
+7:25,Colgate,Tucker Richardson,Missed Three Point Jumper,21,14
+7:25,Cornell,Cornell,Defensive Rebound,21,14
+7:12,Cornell,Terrance McBride,Layup,21,16
+6:56,Colgate,Rapolas Ivanauskas,Layup,23,16
+6:43,Cornell,Terrance McBride,Missed Three Point Jumper,23,16
+6:43,Colgate,Rapolas Ivanauskas,Defensive Rebound,23,16
+6:25,Colgate,Rapolas Ivanauskas,Missed Layup,23,16
+6:25,Cornell,Jimmy Boeheim,Defensive Rebound,23,16
+6:08,Cornell,Troy Whiteside,Turnover,23,16
+5:53,Colgate,Rapolas Ivanauskas,Turnover,23,16
+5:53,Cornell,Jack Gordon,Steal,23,16
+5:35,Cornell,Steven Julian,Jumper,23,18
+5:21,Colgate,Rapolas Ivanauskas,Turnover,23,18
+5:21,Colgate,Rapolas Ivanauskas,Foul,23,18
+5:00,Cornell,Matt Morgan,Missed Three Point Jumper,23,18
+5:00,Cornell,Steven Julian,Offensive Rebound,23,18
+4:55,Cornell,Jimmy Boeheim,Jumper,23,20
+4:29,Colgate,Rapolas Ivanauskas,Missed Jumper,23,20
+4:29,Cornell,Steven Julian,Defensive Rebound,23,20
+4:15,Cornell,Chaz Mack,Missed Three Point Jumper,23,20
+4:15,Colgate,Colgate,Defensive Rebound,23,20
+4:12,Cornell,Jimmy Boeheim,Foul,23,20
+4:12,Colgate,Will Rayman,Free Throw,24,20
+4:12,Colgate,Will Rayman,Free Throw,25,20
+3:54,Cornell,Chaz Mack,Missed Jumper,25,20
+3:54,Colgate,Dana Batt,Defensive Rebound,25,20
+3:38,Colgate,Dana Batt,Layup,27,20
+3:25,Cornell,Jimmy Boeheim,Missed Three Point Jumper,27,20
+3:25,Colgate,Dana Batt,Defensive Rebound,27,20
+3:11,Colgate,Tucker Richardson,Missed Three Point Jumper,27,20
+3:11,Cornell,Riley Voss,Defensive Rebound,27,20
+3:04,Cornell,Matt Morgan,Missed Three Point Jumper,27,20
+3:04,Cornell,Riley Voss,Offensive Rebound,27,20
+2:57,Cornell,Jimmy Boeheim,Layup,27,22
+2:48,Colgate,None,None,27,22
+2:38,Colgate,Will Rayman,Missed Three Point Jumper,27,22
+2:38,Cornell,Cornell,Defensive Rebound,27,22
+2:26,Colgate,Dana Batt,Foul,27,22
+2:05,Cornell,Cornell ,Turnover,27,22
+1:51,Colgate,Will Rayman,Layup,29,22
+1:35,Cornell,Matt Morgan,Three Point Jumper,29,25
+1:33,Colgate,Tucker Richardson,Foul,29,25
+1:33,Cornell,Matt Morgan,Free Throw,29,26
+1:21,Colgate,Jordan Burns,Missed Layup,29,26
+1:21,Cornell,Josh Warren,Defensive Rebound,29,26
+1:03,Cornell,Jack Gordon,Jumper,29,28
+0:44,Colgate,Malcolm Regisford,Layup,31,28
+0:32,Cornell,None,None,31,28
+0:15,Cornell,Terrance McBride,Missed Three Point Jumper,31,28
+0:15,Colgate,Jordan Burns,Defensive Rebound,31,28
+0:03,Colgate,Francisco Amiel,Turnover,31,28
+0:00,Cornell,Matt Morgan,Missed Three Point Jumper,31,28
+0:00,Cornell,Cornell,Offensive Rebound,31,28
+0:00,Cornell,None,None,31,28
+19:49,Cornell,Matt Morgan,Missed Jumper,31,28
+19:49,Colgate,Rapolas Ivanauskas,Defensive Rebound,31,28
+19:32,Cornell,Troy Whiteside,Foul,31,28
+19:32,Colgate,Dana Batt,Missed Free Throw,31,28
+19:32,Colgate,None,Team Rebound,31,28
+19:32,Colgate,Dana Batt,Free Throw,32,28
+19:10,Cornell,Josh Warren,Layup,32,30
+18:51,Colgate,Dana Batt,Jumper,34,30
+18:38,Cornell,Matt Morgan,Turnover,34,30
+18:37,Colgate,Dana Batt,Steal,34,30
+18:27,Colgate,Dana Batt,Missed Layup,34,30
+18:27,Cornell,Troy Whiteside,Block,34,30
+18:24,Cornell,Matt Morgan,Defensive Rebound,34,30
+18:21,Cornell,Matt Morgan,Dunk,34,32
+17:52,Colgate,Rapolas Ivanauskas,Missed Layup,34,32
+17:52,Cornell,Steven Julian,Defensive Rebound,34,32
+17:30,Cornell,Matt Morgan,Missed Free Throw,34,32
+17:30,Colgate,Tucker Richardson,Foul,34,32
+17:30,Cornell,Matt Morgan,Free Throw,34,33
+17:30,Cornell,None,Team Rebound,34,33
+17:30,Cornell,None,Team Rebound,34,33
+17:30,Cornell,Matt Morgan,Missed Free Throw,34,33
+17:30,Colgate,Rapolas Ivanauskas,Defensive Rebound,34,33
+17:06,Colgate,Will Rayman,Turnover,34,33
+17:05,Cornell,Matt Morgan,Steal,34,33
+16:48,Cornell,Josh Warren,Jumper,34,35
+16:28,Colgate,Jordan Burns,Missed Three Point Jumper,34,35
+16:28,Cornell,Matt Morgan,Defensive Rebound,34,35
+16:21,Colgate,Dana Batt,Foul,34,35
+16:21,Cornell,Troy Whiteside,Missed Free Throw,34,35
+16:21,Cornell,None,Team Rebound,34,35
+16:21,Cornell,Troy Whiteside,Missed Free Throw,34,35
+16:21,Colgate,Rapolas Ivanauskas,Defensive Rebound,34,35
+16:07,Colgate,Jordan Burns,Layup,36,35
+15:44,Cornell,None,None,36,35
+15:39,Cornell,Troy Whiteside,Turnover,36,35
+15:24,Colgate,Will Rayman,Layup,38,35
+15:06,Cornell,Jimmy Boeheim,Missed Layup,38,35
+15:06,Cornell,Steven Julian,Offensive Rebound,38,35
+15:02,Cornell,Josh Warren,Missed Three Point Jumper,38,35
+15:02,Colgate,Will Rayman,Block,38,35
+15:00,Colgate,Rapolas Ivanauskas,Defensive Rebound,38,35
+14:44,Colgate,Rapolas Ivanauskas,Layup,40,35
+14:21,Cornell,Troy Whiteside,Jumper,40,37
+14:08,Cornell,Terrance McBride,Foul,40,37
+14:06,Cornell,Troy Whiteside,Foul,40,37
+14:06,Colgate,Will Rayman,Free Throw,41,37
+14:06,Colgate,Will Rayman,Free Throw,42,37
+13:52,Cornell,Matt Morgan,Missed Three Point Jumper,42,37
+13:52,Colgate,Jordan Burns,Defensive Rebound,42,37
+13:42,Colgate,Jordan Burns,Missed Layup,42,37
+13:42,Cornell,Matt Morgan,Defensive Rebound,42,37
+13:37,Cornell,Troy Whiteside,Dunk,42,39
+13:20,Colgate,Jordan Burns,Jumper,44,39
+13:00,Cornell,Jack Gordon,Missed Layup,44,39
+13:00,Colgate,Rapolas Ivanauskas,Defensive Rebound,44,39
+12:50,Colgate,Rapolas Ivanauskas,Missed Layup,44,39
+12:50,Colgate,Rapolas Ivanauskas,Offensive Rebound,44,39
+12:26,Colgate,Will Rayman,Missed Jumper,44,39
+12:26,Cornell,Matt Morgan,Defensive Rebound,44,39
+12:06,Colgate,Rapolas Ivanauskas,Foul,44,39
+12:06,Cornell,Jack Gordon,Missed Free Throw,44,39
+12:06,Cornell,None,Team Rebound,44,39
+12:06,Cornell,Jack Gordon,Missed Free Throw,44,39
+12:06,Colgate,Malcolm Regisford,Defensive Rebound,44,39
+11:52,Colgate,Jordan Burns,Layup,46,39
+11:34,Cornell,Jack Gordon,Missed Jumper,46,39
+11:34,Colgate,Francisco Amiel,Defensive Rebound,46,39
+11:27,Cornell,None,None,46,39
+11:25,Colgate,Tucker Richardson,Turnover,46,39
+11:25,Cornell,None,None,46,39
+11:02,Cornell,Riley Voss,Missed Three Point Jumper,46,39
+11:02,Colgate,Jordan Burns,Defensive Rebound,46,39
+10:44,Colgate,Malcolm Regisford,Layup,48,39
+10:27,Cornell,Matt Morgan,Missed Layup,48,39
+10:27,Colgate,Colgate,Defensive Rebound,48,39
+10:14,Colgate,Malcolm Regisford,Layup,50,39
+9:53,Cornell,Jake Kuhn,Layup,50,41
+9:37,Colgate,Malcolm Regisford,Missed Layup,50,41
+9:37,Cornell,Josh Warren,Defensive Rebound,50,41
+9:32,Cornell,Josh Warren,Turnover,50,41
+9:31,Colgate,Francisco Amiel,Steal,50,41
+9:25,Colgate,Malcolm Regisford,Layup,52,41
+9:12,Colgate,Francisco Amiel,Foul,52,41
+9:09,Cornell,Josh Warren,Turnover,52,41
+9:08,Colgate,Malcolm Regisford,Steal,52,41
+8:48,Colgate,Will Rayman,Three Point Jumper,55,41
+8:41,Cornell,None,None,55,41
+8:23,Cornell,Jimmy Boeheim,Layup,55,43
+7:52,Colgate,Jordan Burns,Jumper,57,43
+7:38,Cornell,Jake Kuhn,Missed Three Point Jumper,57,43
+7:38,Colgate,Francisco Amiel,Defensive Rebound,57,43
+7:28,Colgate,Malcolm Regisford,Missed Layup,57,43
+7:28,Cornell,Steven Julian,Defensive Rebound,57,43
+7:22,Cornell,Terrance McBride,Missed Layup,57,43
+7:22,Colgate,Francisco Amiel,Defensive Rebound,57,43
+6:58,Colgate,Malcolm Regisford,Layup,59,43
+6:40,Colgate,Francisco Amiel,Foul,59,43
+6:40,Cornell,None,None,59,43
+6:40,Cornell,Steven Julian,Free Throw,59,44
+6:40,Cornell,Steven Julian,Free Throw,59,45
+6:25,Cornell,Matt Morgan,Layup,59,47
+6:18,Colgate,Will Rayman,Jumper,61,47
+6:18,Colgate,Tucker Richardson,Foul,61,47
+6:18,Cornell,Matt Morgan,Missed Free Throw,61,47
+6:18,Colgate,Rapolas Ivanauskas,Defensive Rebound,61,47
+5:56,Colgate,Tucker Richardson,Layup,63,47
+5:45,Cornell,Troy Whiteside,Missed Jumper,63,47
+5:45,Colgate,Jordan Burns,Defensive Rebound,63,47
+5:24,Cornell,Joel Davis,Foul,63,47
+5:24,Colgate,Will Rayman,Missed Free Throw,63,47
+5:24,Colgate,None,Team Rebound,63,47
+5:24,Colgate,Will Rayman,Missed Free Throw,63,47
+5:24,Cornell,Jake Kuhn,Defensive Rebound,63,47
+5:16,Cornell,Jack Gordon,Three Point Jumper,63,50
+4:59,Colgate,Will Rayman,Missed Three Point Jumper,63,50
+4:59,Colgate,Tucker Richardson,Offensive Rebound,63,50
+4:54,Colgate,None,None,65,50
+4:43,Cornell,Joel Davis,Missed Jumper,65,50
+4:43,Colgate,Rapolas Ivanauskas,Defensive Rebound,65,50
+4:34,Colgate,Francisco Amiel,Turnover,65,50
+4:33,Cornell,Joel Davis,Steal,65,50
+4:30,Colgate,Tucker Richardson,Foul,65,50
+4:30,Cornell,Jake Kuhn,Free Throw,65,51
+4:30,Cornell,Jake Kuhn,Missed Free Throw,65,51
+4:30,Cornell,Jack Gordon,Offensive Rebound,65,51
+4:25,Cornell,Joel Davis,Three Point Jumper,65,54
+4:00,Colgate,Will Rayman,Missed Three Point Jumper,65,54
+4:00,Cornell,Jack Gordon,Defensive Rebound,65,54
+3:50,Cornell,Jack Gordon,Missed Three Point Jumper,65,54
+3:50,Colgate,Rapolas Ivanauskas,Defensive Rebound,65,54
+3:38,Colgate,Dana Batt,Layup,67,54
+3:27,Cornell,Terrance McBride,Missed Three Point Jumper,67,54
+3:27,Cornell,Jack Gordon,Offensive Rebound,67,54
+3:24,Cornell,None,None,67,54
+3:21,Cornell,None,None,67,54
+3:20,Cornell,Matt Morgan,Turnover,67,54
+2:49,Colgate,Will Rayman,Missed Layup,67,54
+2:49,Colgate,Colgate ,Turnover,67,54
+2:49,Colgate,None,Team Rebound,67,54
+2:37,Cornell,Jimmy Boeheim,Missed Three Point Jumper,67,54
+2:37,Colgate,Tucker Richardson,Defensive Rebound,67,54
+2:16,Colgate,Jordan Burns,Missed Layup,67,54
+2:16,Cornell,Steven Julian,Block,67,54
+2:14,Colgate,Will Rayman,Offensive Rebound,67,54
+2:04,Colgate,Will Rayman,Layup,69,54
+2:02,Cornell,Joel Davis,Layup,69,56
+1:50,Colgate,Francisco Amiel,Jumper,71,56
+1:42,Cornell,Jake Kuhn,Missed Three Point Jumper,71,56
+1:42,Colgate,Tucker Richardson,Defensive Rebound,71,56
+1:36,Cornell,Matt Morgan,Foul,71,56
+1:13,Colgate,Will Rayman,Missed Layup,71,56
+1:13,Colgate,Colgate,Offensive Rebound,71,56
+0:52,Colgate,Will Rayman,Missed Layup,71,56
+0:52,Cornell,Jimmy Boeheim,Block,71,56
+0:50,Cornell,Jimmy Boeheim,Defensive Rebound,71,56
+0:45,Colgate,Will Rayman,Foul,71,56
+0:45,Cornell,Matt Morgan,Missed Free Throw,71,56
+0:45,Cornell,None,Team Rebound,71,56
+0:45,Cornell,Matt Morgan,Free Throw,71,57
+0:38,Colgate,Rapolas Ivanauskas,Missed Layup,71,57
+0:38,Cornell,Matt Morgan,Defensive Rebound,71,57
+0:34,Cornell,Matt Morgan,Missed Three Point Jumper,71,57
+0:34,Colgate,Will Rayman,Defensive Rebound,71,57
+0:27,Colgate,Tucker Richardson,Layup,73,57
+0:18,Cornell,Jimmy Boeheim,Missed Layup,73,57
+0:18,Colgate,Colgate,Defensive Rebound,73,57
+0:00,Cornell,None,None,73,57

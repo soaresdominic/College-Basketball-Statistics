@@ -1,0 +1,342 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:30,Indiana State,Emondre Rickman,Turnover,0,0
+19:07,TCU,Jaylen Fisher,Missed Layup,0,0
+19:07,Indiana State,Tyreke Key,Offensive Rebound,0,0
+18:47,Indiana State,Emondre Rickman,Missed Layup,0,0
+18:47,TCU,Desmond Bane,Block,0,0
+18:44,TCU,Desmond Bane,Defensive Rebound,0,0
+18:36,TCU,Desmond Bane,Layup,0,2
+18:20,Indiana State,Clayton Hughes,Missed Three Point Jumper,0,2
+18:20,TCU,Jaylen Fisher,Defensive Rebound,0,2
+17:55,TCU,Kevin Samuel,Turnover,0,2
+17:47,TCU,Kevin Samuel,Foul,0,2
+17:47,Indiana State,Emondre Rickman,Missed Free Throw,0,2
+17:47,Indiana State,None,Team Rebound,0,2
+17:47,Indiana State,Emondre Rickman,Missed Free Throw,0,2
+17:47,TCU,JD Miller,Defensive Rebound,0,2
+17:27,TCU,JD Miller,Turnover,0,2
+17:25,Indiana State,Clayton Hughes,Steal,0,2
+17:18,Indiana State,Jordan Barnes,Missed Jumper,0,2
+17:18,Indiana State,Emondre Rickman,Offensive Rebound,0,2
+17:14,Indiana State,Emondre Rickman,Dunk,2,2
+17:00,TCU,Alex Robinson,Layup,2,4
+16:34,Indiana State,Tyreke Key,Missed Layup,2,4
+16:34,Indiana State,Bronson Kessinger,Offensive Rebound,2,4
+16:26,Indiana State,None,None,4,4
+16:16,TCU,Yuat Alok,Layup,4,6
+15:57,TCU,Jaylen Fisher,Foul,4,6
+15:57,TCU,None,None,4,6
+15:57,Indiana State,Jordan Barnes,Free Throw,5,6
+15:57,Indiana State,Jordan Barnes,Free Throw,6,6
+15:49,TCU,Yuat Alok,Turnover,6,6
+15:49,TCU,Yuat Alok,Foul,6,6
+15:31,Indiana State,Cooper Neese,Missed Three Point Jumper,6,6
+15:31,TCU,Desmond Bane,Defensive Rebound,6,6
+15:20,TCU,Alex Robinson,Missed Three Point Jumper,6,6
+15:20,Indiana State,Bronson Kessinger,Defensive Rebound,6,6
+15:08,Indiana State,Jordan Barnes,Turnover,6,6
+15:06,TCU,Desmond Bane,Steal,6,6
+14:55,TCU,Kouat Noi,Missed Three Point Jumper,6,6
+14:55,Indiana State,Tyreke Key,Defensive Rebound,6,6
+14:37,Indiana State,Jordan Barnes,Missed Three Point Jumper,6,6
+14:37,Indiana State,Cooper Neese,Offensive Rebound,6,6
+14:28,Indiana State,Cooper Neese,Turnover,6,6
+14:18,TCU,Desmond Bane,Jumper,6,8
+14:05,Indiana State,Tyreke Key,Missed Three Point Jumper,6,8
+14:05,Indiana State,Indiana State,Offensive Rebound,6,8
+14:01,TCU,Desmond Bane,Foul,6,8
+13:51,Indiana State,Cooper Neese,Missed Jumper,6,8
+13:51,Indiana State,Allante Holston,Offensive Rebound,6,8
+13:44,Indiana State,Bronson Kessinger,Missed Layup,6,8
+13:44,TCU,Alex Robinson,Defensive Rebound,6,8
+13:36,TCU,Alex Robinson,Layup,6,10
+13:36,Indiana State,Allante Holston,Foul,6,10
+13:36,TCU,Alex Robinson,Free Throw,6,11
+13:13,Indiana State,Christian Williams,Missed Three Point Jumper,6,11
+13:13,TCU,Kaden Archie,Defensive Rebound,6,11
+13:01,TCU,Kaden Archie,Three Point Jumper,6,14
+12:47,Indiana State,Emondre Rickman,Turnover,6,14
+12:23,TCU,Alex Robinson,Turnover,6,14
+12:22,Indiana State,Clayton Hughes,Steal,6,14
+12:17,Indiana State,Cooper Neese,Missed Three Point Jumper,6,14
+12:17,TCU,TCU,Defensive Rebound,6,14
+12:17,Indiana State,Christian Williams,Foul,6,14
+12:02,Indiana State,Emondre Rickman,Foul,6,14
+12:02,TCU,Kaden Archie,Missed Free Throw,6,14
+12:02,TCU,None,Team Rebound,6,14
+12:02,TCU,Kaden Archie,Free Throw,6,15
+11:46,Indiana State,Christian Williams,Turnover,6,15
+11:44,TCU,JD Miller,Steal,6,15
+11:41,TCU,Kaden Archie,Missed Three Point Jumper,6,15
+11:41,TCU,Kouat Noi,Offensive Rebound,6,15
+11:34,TCU,None,None,6,15
+11:34,Indiana State,Jordan Barnes,Defensive Rebound,6,15
+11:30,Indiana State,Clayton Hughes,Missed Layup,6,15
+11:30,TCU,Kaden Archie,Defensive Rebound,6,15
+11:25,TCU,JD Miller,Missed Layup,6,15
+11:25,Indiana State,Allante Holston,Defensive Rebound,6,15
+11:18,Indiana State,Emondre Rickman,Dunk,8,15
+10:58,TCU,Kouat Noi,Missed Jumper,8,15
+10:58,Indiana State,Christian Williams,Defensive Rebound,8,15
+10:52,Indiana State,Christian Williams,Turnover,8,15
+10:51,TCU,Kaden Archie,Steal,8,15
+10:49,TCU,Kouat Noi,Missed Layup,8,15
+10:49,TCU,Kouat Noi,Offensive Rebound,8,15
+10:47,Indiana State,Christian Williams,Foul,8,15
+10:47,TCU,Kouat Noi,Free Throw,8,16
+10:47,TCU,Kouat Noi,Free Throw,8,17
+10:31,Indiana State,Emondre Rickman,Turnover,8,17
+10:25,TCU,JD Miller,Missed Layup,8,17
+10:25,Indiana State,Emondre Rickman,Block,8,17
+10:24,TCU,JD Miller,Offensive Rebound,8,17
+10:23,TCU,Jaylen Fisher,Three Point Jumper,8,20
+10:23,Indiana State,None,None,8,20
+9:52,Indiana State,Indiana State ,Turnover,8,20
+9:39,TCU,JD Miller,Foul,8,20
+9:21,Indiana State,Clayton Hughes,Missed Three Point Jumper,8,20
+9:21,TCU,JD Miller,Defensive Rebound,8,20
+9:02,TCU,Jaylen Fisher,Jumper,8,22
+8:37,Indiana State,Bronson Kessinger,Missed Layup,8,22
+8:37,Indiana State,Bronson Kessinger,Offensive Rebound,8,22
+8:28,Indiana State,Jordan Barnes,Three Point Jumper,11,22
+8:11,TCU,Alex Robinson,Missed Jumper,11,22
+8:11,TCU,Kevin Samuel,Offensive Rebound,11,22
+8:09,Indiana State,Bronson Kessinger,Foul,11,22
+8:07,TCU,Desmond Bane,Jumper,11,24
+7:53,Indiana State,Jordan Barnes,Jumper,13,24
+7:28,TCU,JD Miller,Missed Layup,13,24
+7:28,Indiana State,Devin Thomas,Defensive Rebound,13,24
+7:21,Indiana State,Jordan Barnes,Missed Three Point Jumper,13,24
+7:21,TCU,TCU,Defensive Rebound,13,24
+7:20,TCU,None,None,13,24
+7:09,TCU,Kouat Noi,Three Point Jumper,13,27
+6:32,Indiana State,Bronson Kessinger,Missed Jumper,13,27
+6:32,Indiana State,Devin Thomas,Offensive Rebound,13,27
+6:29,Indiana State,Devin Thomas,Layup,15,27
+6:04,TCU,Jaylen Fisher,Turnover,15,27
+5:42,Indiana State,Bronson Kessinger,Layup,17,27
+5:15,TCU,Jaylen Fisher,Missed Three Point Jumper,17,27
+5:15,TCU,Kouat Noi,Offensive Rebound,17,27
+5:02,TCU,Jaylen Fisher,Missed Three Point Jumper,17,27
+5:02,TCU,Kouat Noi,Offensive Rebound,17,27
+5:00,Indiana State,Devin Thomas,Foul,17,27
+4:38,TCU,Kouat Noi,Missed Layup,17,27
+4:38,Indiana State,Jordan Barnes,Defensive Rebound,17,27
+4:30,Indiana State,Cooper Neese,Three Point Jumper,20,27
+4:05,TCU,Desmond Bane,Three Point Jumper,20,30
+3:56,TCU,None,None,20,30
+3:30,Indiana State,Allante Holston,Turnover,20,30
+3:29,TCU,Kaden Archie,Steal,20,30
+3:21,TCU,Yuat Alok,Layup,20,32
+3:10,Indiana State,Cooper Neese,Missed Three Point Jumper,20,32
+3:10,TCU,JD Miller,Defensive Rebound,20,32
+2:57,TCU,Yuat Alok,Missed Layup,20,32
+2:57,Indiana State,Jordan Barnes,Defensive Rebound,20,32
+2:51,Indiana State,Allante Holston,Layup,22,32
+2:33,TCU,Alex Robinson,Jumper,22,34
+2:18,Indiana State,Jordan Barnes,Turnover,22,34
+2:05,Indiana State,Bronson Kessinger,Foul,22,34
+2:05,TCU,Kevin Samuel,Missed Free Throw,22,34
+2:05,Indiana State,Clayton Hughes,Defensive Rebound,22,34
+1:55,Indiana State,Emondre Rickman,Layup,24,34
+1:24,TCU,Kevin Samuel,Missed Layup,24,34
+1:24,Indiana State,Jordan Barnes,Defensive Rebound,24,34
+1:19,Indiana State,Tyreke Key,Layup,26,34
+1:05,TCU,Kaden Archie,Missed Layup,26,34
+1:05,TCU,Kevin Samuel,Offensive Rebound,26,34
+1:02,TCU,Kevin Samuel,Layup,26,36
+0:39,Indiana State,Emondre Rickman,Missed Jumper,26,36
+0:39,TCU,JD Miller,Defensive Rebound,26,36
+0:13,TCU,Alex Robinson,Missed Layup,26,36
+0:13,TCU,Alex Robinson,Offensive Rebound,26,36
+0:09,TCU,None,None,26,38
+0:08,Indiana State,Jordan Barnes,Turnover,26,38
+0:04,TCU,Desmond Bane,Missed Three Point Jumper,26,38
+0:04,TCU,Kevin Samuel,Offensive Rebound,26,38
+0:02,TCU,Kevin Samuel,Turnover,26,38
+0:01,Indiana State,Clayton Hughes,Turnover,26,38
+0:00,TCU,None,None,26,38
+19:36,TCU,JD Miller,Missed Layup,26,38
+19:36,Indiana State,Emondre Rickman,Defensive Rebound,26,38
+19:19,Indiana State,Jordan Barnes,Turnover,26,38
+19:04,TCU,JD Miller,Missed Layup,26,38
+19:04,Indiana State,Tyreke Key,Defensive Rebound,26,38
+18:43,Indiana State,Christian Williams,Missed Jumper,26,38
+18:43,TCU,JD Miller,Defensive Rebound,26,38
+18:34,Indiana State,Emondre Rickman,Foul,26,38
+18:34,TCU,JD Miller,Missed Free Throw,26,38
+18:34,TCU,None,Team Rebound,26,38
+18:34,TCU,JD Miller,Free Throw,26,39
+18:14,TCU,Kevin Samuel,Foul,26,39
+18:03,Indiana State,Jordan Barnes,Missed Three Point Jumper,26,39
+18:03,TCU,Desmond Bane,Defensive Rebound,26,39
+17:51,TCU,Jaylen Fisher,Three Point Jumper,26,42
+17:38,TCU,Kevin Samuel,Foul,26,42
+17:38,Indiana State,Tyreke Key,Missed Free Throw,26,42
+17:38,Indiana State,None,Team Rebound,26,42
+17:38,Indiana State,Tyreke Key,Free Throw,27,42
+17:22,TCU,Jaylen Fisher,Three Point Jumper,27,45
+16:59,Indiana State,Bronson Kessinger,Layup,29,45
+16:59,TCU,Yuat Alok,Foul,29,45
+16:59,Indiana State,Bronson Kessinger,Missed Free Throw,29,45
+16:59,TCU,JD Miller,Defensive Rebound,29,45
+16:49,TCU,Jaylen Fisher,Missed Three Point Jumper,29,45
+16:49,Indiana State,Tyreke Key,Defensive Rebound,29,45
+16:37,TCU,Alex Robinson,Foul,29,45
+16:37,Indiana State,Jordan Barnes,Free Throw,30,45
+16:37,Indiana State,Jordan Barnes,Free Throw,31,45
+16:37,Indiana State,Jordan Barnes,Free Throw,32,45
+16:20,TCU,Desmond Bane,Jumper,32,47
+15:59,Indiana State,Bronson Kessinger,Layup,34,47
+15:36,TCU,Jaylen Fisher,Three Point Jumper,34,50
+15:28,Indiana State,Allante Holston,Turnover,34,50
+15:28,TCU,None,None,34,50
+15:12,TCU,JD Miller,Layup,34,52
+15:12,Indiana State,Jordan Barnes,Foul,34,52
+15:12,TCU,JD Miller,Free Throw,34,53
+14:51,Indiana State,Tyreke Key,Missed Jumper,34,53
+14:51,TCU,Kouat Noi,Defensive Rebound,34,53
+14:25,TCU,Alex Robinson,Missed Jumper,34,53
+14:25,Indiana State,Christian Williams,Block,34,53
+14:22,Indiana State,Christian Williams,Defensive Rebound,34,53
+14:18,Indiana State,Christian Williams,Dunk,36,53
+14:17,TCU,None,None,36,53
+14:08,TCU,Alex Robinson,Turnover,36,53
+13:58,Indiana State,Tyreke Key,Missed Layup,36,53
+13:58,TCU,Kouat Noi,Defensive Rebound,36,53
+13:51,TCU,Desmond Bane,Missed Three Point Jumper,36,53
+13:51,Indiana State,Christian Williams,Defensive Rebound,36,53
+13:45,Indiana State,Christian Williams,Turnover,36,53
+13:31,TCU,Jaylen Fisher,Missed Three Point Jumper,36,53
+13:31,TCU,Kouat Noi,Offensive Rebound,36,53
+13:28,TCU,Kouat Noi,Missed Jumper,36,53
+13:28,TCU,Desmond Bane,Offensive Rebound,36,53
+13:27,Indiana State,Bronson Kessinger,Foul,36,53
+13:27,TCU,Desmond Bane,Free Throw,36,54
+13:27,TCU,Desmond Bane,Missed Free Throw,36,54
+13:27,Indiana State,Christian Williams,Defensive Rebound,36,54
+13:20,TCU,JD Miller,Foul,36,54
+13:20,Indiana State,Christian Williams,Free Throw,37,54
+13:20,Indiana State,Christian Williams,Free Throw,38,54
+13:07,TCU,JD Miller,Layup,38,56
+13:07,Indiana State,Cooper Neese,Foul,38,56
+13:07,TCU,JD Miller,Free Throw,38,57
+12:40,Indiana State,Clayton Hughes,Missed Layup,38,57
+12:40,Indiana State,Indiana State,Offensive Rebound,38,57
+12:36,Indiana State,Clayton Hughes,Missed Jumper,38,57
+12:36,TCU,Yuat Alok,Defensive Rebound,38,57
+12:28,Indiana State,Emondre Rickman,Foul,38,57
+12:28,TCU,Alex Robinson,Free Throw,38,58
+12:28,TCU,Alex Robinson,Free Throw,38,59
+12:11,Indiana State,Cooper Neese,Missed Jumper,38,59
+12:11,TCU,Yuat Alok,Defensive Rebound,38,59
+12:03,TCU,Kendric Davis,Missed Layup,38,59
+12:03,Indiana State,Cooper Neese,Block,38,59
+12:00,TCU,RJ Nembhard,Offensive Rebound,38,59
+11:58,TCU,RJ Nembhard,Missed Jumper,38,59
+11:58,Indiana State,Christian Williams,Defensive Rebound,38,59
+11:51,Indiana State,Clayton Hughes,Layup,40,59
+11:33,TCU,Kouat Noi,Three Point Jumper,40,62
+11:09,Indiana State,Christian Williams,Jumper,42,62
+10:48,TCU,Kendric Davis,Turnover,42,62
+10:47,Indiana State,Cooper Neese,Steal,42,62
+10:41,Indiana State,Clayton Hughes,Turnover,42,62
+10:39,TCU,RJ Nembhard,Steal,42,62
+10:38,TCU,Desmond Bane,Layup,42,64
+10:38,Indiana State,Emondre Rickman,Foul,42,64
+10:38,TCU,None,None,42,64
+10:38,TCU,Desmond Bane,Free Throw,42,65
+10:32,Indiana State,Christian Williams,Jumper,44,65
+10:08,TCU,Kouat Noi,Layup,44,67
+10:01,Indiana State,Jordan Barnes,Turnover,44,67
+9:47,TCU,RJ Nembhard,Missed Jumper,44,67
+9:47,Indiana State,Christian Williams,Defensive Rebound,44,67
+9:39,Indiana State,Christian Williams,Missed Three Point Jumper,44,67
+9:39,Indiana State,Allante Holston,Offensive Rebound,44,67
+9:29,Indiana State,Bronson Kessinger,Layup,46,67
+9:25,TCU,Yuat Alok,Foul,46,67
+9:25,Indiana State,Bronson Kessinger,Free Throw,47,67
+9:03,TCU,Jaylen Fisher,Missed Jumper,47,67
+9:03,Indiana State,Bronson Kessinger,Defensive Rebound,47,67
+9:02,TCU,Kevin Samuel,Foul,47,67
+9:02,Indiana State,Bronson Kessinger,Free Throw,48,67
+9:02,Indiana State,Bronson Kessinger,Missed Free Throw,48,67
+9:02,TCU,Kouat Noi,Defensive Rebound,48,67
+8:56,Indiana State,De'Avion Washington,Foul,48,67
+8:56,TCU,Kaden Archie,Free Throw,48,68
+8:56,TCU,Kaden Archie,Free Throw,48,69
+8:25,Indiana State,De'Avion Washington,Missed Three Point Jumper,48,69
+8:25,Indiana State,Christian Williams,Offensive Rebound,48,69
+8:22,Indiana State,Christian Williams,Missed Jumper,48,69
+8:22,Indiana State,Indiana State,Offensive Rebound,48,69
+8:07,Indiana State,De'Avion Washington,Missed Three Point Jumper,48,69
+8:07,Indiana State,Christian Williams,Offensive Rebound,48,69
+8:02,Indiana State,Christian Williams,Layup,50,69
+7:44,TCU,Jaylen Fisher,Missed Three Point Jumper,50,69
+7:44,TCU,JD Miller,Offensive Rebound,50,69
+7:19,TCU,Kendric Davis,Turnover,50,69
+7:19,TCU,None,None,50,69
+7:12,Indiana State,Tyreke Key,Missed Layup,50,69
+7:12,TCU,Desmond Bane,Block,50,69
+7:10,TCU,Jaylen Fisher,Defensive Rebound,50,69
+7:04,TCU,Alex Robinson,Jumper,50,71
+6:47,Indiana State,Tyreke Key,Turnover,50,71
+6:46,TCU,Jaylen Fisher,Steal,50,71
+6:26,Indiana State,Cooper Neese,Foul,50,71
+6:26,TCU,Alex Robinson,Free Throw,50,72
+6:26,TCU,Alex Robinson,Free Throw,50,73
+6:11,Indiana State,Devin Thomas,Dunk,52,73
+5:56,TCU,Alex Robinson,Layup,52,75
+5:56,Indiana State,Jordan Barnes,Foul,52,75
+5:56,TCU,Alex Robinson,Free Throw,52,76
+5:41,Indiana State,Cooper Neese,Turnover,52,76
+5:40,TCU,Alex Robinson,Steal,52,76
+5:39,TCU,Alex Robinson,Layup,52,78
+5:32,TCU,Jaylen Fisher,Foul,52,78
+5:32,Indiana State,Jordan Barnes,Free Throw,53,78
+5:32,Indiana State,Jordan Barnes,Free Throw,54,78
+5:14,Indiana State,Clayton Hughes,Foul,54,78
+5:14,TCU,Kevin Samuel,Missed Free Throw,54,78
+5:14,TCU,None,Team Rebound,54,78
+5:14,TCU,Kevin Samuel,Missed Free Throw,54,78
+5:14,Indiana State,Devin Thomas,Defensive Rebound,54,78
+5:03,Indiana State,Jordan Barnes,Three Point Jumper,57,78
+4:39,TCU,Kevin Samuel,Dunk,57,80
+4:22,Indiana State,Christian Williams,Missed Jumper,57,80
+4:22,TCU,Kevin Samuel,Defensive Rebound,57,80
+4:11,TCU,Desmond Bane,Jumper,57,82
+4:00,Indiana State,Jordan Barnes,Missed Jumper,57,82
+4:00,TCU,Desmond Bane,Defensive Rebound,57,82
+3:48,TCU,Desmond Bane,Turnover,57,82
+3:47,Indiana State,Tyreke Key,Steal,57,82
+3:45,TCU,Jaylen Fisher,Foul,57,82
+3:45,TCU,None,None,57,82
+3:45,Indiana State,Jordan Barnes,Free Throw,58,82
+3:45,Indiana State,Jordan Barnes,Free Throw,59,82
+3:28,TCU,Kendric Davis,Missed Jumper,59,82
+3:28,Indiana State,Christian Williams,Defensive Rebound,59,82
+3:07,Indiana State,Bronson Kessinger,Layup,61,82
+2:49,TCU,Kaden Archie,Missed Three Point Jumper,61,82
+2:49,Indiana State,Christian Williams,Defensive Rebound,61,82
+2:45,Indiana State,Christian Williams,Layup,63,82
+2:45,TCU,Kaden Archie,Foul,63,82
+2:45,Indiana State,Christian Williams,Free Throw,64,82
+2:17,TCU,Kendric Davis,Jumper,64,84
+2:06,Indiana State,Clayton Hughes,Jumper,66,84
+1:47,TCU,Kendric Davis,Layup,66,86
+1:37,Indiana State,Christian Williams,Missed Layup,66,86
+1:37,TCU,RJ Nembhard,Defensive Rebound,66,86
+1:35,TCU,RJ Nembhard,Foul,66,86
+1:30,Indiana State,Cooper Neese,Missed Jumper,66,86
+1:30,TCU,RJ Nembhard,Defensive Rebound,66,86
+1:25,TCU,Kendric Davis,Layup,66,88
+0:52,Indiana State,Cooper Neese,Turnover,66,88
+0:51,TCU,RJ Nembhard,Steal,66,88
+0:47,TCU,RJ Nembhard,Dunk,66,90
+0:41,Indiana State,Clayton Hughes,Layup,68,90
+0:16,TCU,Kendric Davis,Missed Layup,68,90
+0:16,TCU,Kaden Archie,Offensive Rebound,68,90
+0:08,TCU,Owen Aschieris,Missed Three Point Jumper,68,90
+0:08,Indiana State,Christian Williams,Defensive Rebound,68,90
+0:01,Indiana State,De'Avion Washington,Dunk,70,90
+0:00,TCU,None,None,70,90

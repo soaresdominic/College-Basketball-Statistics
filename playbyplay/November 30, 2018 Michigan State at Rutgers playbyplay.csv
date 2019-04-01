@@ -1,0 +1,328 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Rutgers,None,None,0,0
+19:47,Rutgers,Eugene Omoruyi,Jumper,0,2
+19:21,Michigan State,Nick Ward,Jumper,2,2
+19:07,Rutgers,Shaquille Doorson,Layup,2,4
+18:54,Michigan State,Nick Ward,Missed Jumper,2,4
+18:54,Rutgers,Eugene Omoruyi,Defensive Rebound,2,4
+18:39,Rutgers,Peter Kiss,Three Point Jumper,2,7
+18:25,Rutgers,Shaquille Doorson,Foul,2,7
+18:25,Michigan State,Nick Ward,Missed Free Throw,2,7
+18:25,Michigan State,None,Team Rebound,2,7
+18:25,Michigan State,Nick Ward,Free Throw,3,7
+18:00,Rutgers,Geo Baker,Missed Jumper,3,7
+18:00,Rutgers,Eugene Omoruyi,Offensive Rebound,3,7
+17:41,Rutgers,Eugene Omoruyi,Missed Three Point Jumper,3,7
+17:41,Michigan State,Cassius Winston,Defensive Rebound,3,7
+17:25,Michigan State,Cassius Winston,Jumper,5,7
+17:25,Rutgers,Geo Baker,Foul,5,7
+17:25,Michigan State,Cassius Winston,Free Throw,6,7
+17:09,Rutgers,Geo Baker,Three Point Jumper,6,10
+16:52,Rutgers,Myles Johnson,Foul,6,10
+16:38,Michigan State,Joshua Langford,Missed Jumper,6,10
+16:38,Rutgers,Myles Johnson,Defensive Rebound,6,10
+16:28,Rutgers,Peter Kiss,Missed Three Point Jumper,6,10
+16:28,Michigan State,Joshua Langford,Defensive Rebound,6,10
+16:20,Rutgers,Myles Johnson,Foul,6,10
+16:20,Michigan State,Nick Ward,Free Throw,7,10
+16:20,Michigan State,Nick Ward,Free Throw,8,10
+15:55,Rutgers,Geo Baker,Three Point Jumper,8,13
+15:54,Rutgers,Eugene Omoruyi,Foul,8,13
+15:54,Rutgers,None,None,8,13
+15:38,Michigan State,Aaron Henry,Layup,10,13
+15:08,Rutgers,Eugene Omoruyi,Jumper,10,15
+15:01,Michigan State,Joshua Langford,Missed Three Point Jumper,10,15
+15:01,Michigan State,Aaron Henry,Offensive Rebound,10,15
+14:56,Michigan State,Cassius Winston,Missed Layup,10,15
+14:56,Rutgers,Mamadou Doucoure,Defensive Rebound,10,15
+14:46,Rutgers,Peter Kiss,Three Point Jumper,10,18
+14:24,Michigan State,Joshua Langford,Missed Three Point Jumper,10,18
+14:24,Rutgers,Eugene Omoruyi,Defensive Rebound,10,18
+14:05,Rutgers,Geo Baker,Missed Three Point Jumper,10,18
+14:05,Michigan State,Aaron Henry,Defensive Rebound,10,18
+13:47,Michigan State,Nick Ward,Missed Jumper,10,18
+13:47,Rutgers,Montez Mathis,Defensive Rebound,10,18
+13:22,Rutgers,Montez Mathis,Missed Jumper,10,18
+13:22,Michigan State,Nick Ward,Defensive Rebound,10,18
+13:07,Michigan State,Joshua Langford,Three Point Jumper,13,18
+12:32,Rutgers,Montez Mathis,Missed Three Point Jumper,13,18
+12:32,Rutgers,Rutgers,Offensive Rebound,13,18
+12:23,Rutgers,Issa Thiam,Missed Layup,13,18
+12:23,Michigan State,Nick Ward,Defensive Rebound,13,18
+12:12,Michigan State,Kyle Ahrens,Missed Three Point Jumper,13,18
+12:12,Michigan State,Kyle Ahrens,Offensive Rebound,13,18
+12:06,Michigan State,Kyle Ahrens,Three Point Jumper,16,18
+11:45,Michigan State,Kyle Ahrens,Foul,16,18
+11:45,Rutgers,None,None,16,18
+11:37,Rutgers,Eugene Omoruyi,Missed Jumper,16,18
+11:37,Michigan State,Xavier Tillman,Defensive Rebound,16,18
+11:13,Michigan State,Xavier Tillman,Layup,18,18
+11:13,Rutgers,Shaquille Doorson,Foul,18,18
+11:13,Michigan State,Xavier Tillman,Free Throw,19,18
+10:57,Rutgers,Eugene Omoruyi,Three Point Jumper,19,21
+10:48,Michigan State,Nick Ward,Foul,19,21
+10:48,Michigan State,Nick Ward,Turnover,19,21
+10:28,Rutgers,Mamadou Doucoure,Missed Jumper,19,21
+10:28,Michigan State,Aaron Henry,Defensive Rebound,19,21
+10:14,Michigan State,Kenny Goins,Missed Three Point Jumper,19,21
+10:14,Rutgers,Rutgers,Defensive Rebound,19,21
+10:14,Michigan State,Aaron Henry,Foul,19,21
+9:58,Rutgers,Geo Baker,Missed Three Point Jumper,19,21
+9:58,Michigan State,Nick Ward,Defensive Rebound,19,21
+9:46,Michigan State,Cassius Winston,Missed Jumper,19,21
+9:46,Rutgers,Issa Thiam,Defensive Rebound,19,21
+9:42,Rutgers,Peter Kiss,Dunk,19,23
+9:23,Rutgers,Geo Baker,Foul,19,23
+9:23,Michigan State,Cassius Winston,Free Throw,20,23
+9:23,Michigan State,Cassius Winston,Free Throw,21,23
+9:00,Rutgers,Eugene Omoruyi,Missed Jumper,21,23
+9:00,Michigan State,Kenny Goins,Defensive Rebound,21,23
+8:54,Michigan State,Nick Ward,Layup,23,23
+8:54,Rutgers,Mamadou Doucoure,Foul,23,23
+8:54,Michigan State,Nick Ward,Missed Free Throw,23,23
+8:54,Rutgers,Eugene Omoruyi,Defensive Rebound,23,23
+8:28,Rutgers,Eugene Omoruyi,Missed Jumper,23,23
+8:28,Michigan State,Kenny Goins,Defensive Rebound,23,23
+8:21,Michigan State,Kyle Ahrens,Foul,23,23
+8:21,Michigan State,Kyle Ahrens,Turnover,23,23
+8:04,Rutgers,Eugene Omoruyi,Turnover,23,23
+8:04,Michigan State,Aaron Henry,Steal,23,23
+7:45,Michigan State,Joshua Langford,Missed Three Point Jumper,23,23
+7:45,Michigan State,Xavier Tillman,Offensive Rebound,23,23
+7:26,Michigan State,Xavier Tillman,Layup,25,23
+7:06,Rutgers,Caleb McConnell,Three Point Jumper,25,26
+6:48,Michigan State,Joshua Langford,Jumper,27,26
+6:31,Rutgers,Eugene Omoruyi,Missed Three Point Jumper,27,26
+6:31,Rutgers,Shaq Carter,Offensive Rebound,27,26
+6:21,Rutgers,Shaq Carter,Missed Jumper,27,26
+6:21,Rutgers,Eugene Omoruyi,Offensive Rebound,27,26
+6:20,Rutgers,Eugene Omoruyi,Missed Layup,27,26
+6:20,Michigan State,Kenny Goins,Block,27,26
+6:20,Rutgers,Rutgers,Offensive Rebound,27,26
+6:19,Rutgers,None,None,27,26
+6:09,Rutgers,Ron Harper Jr.,Missed Three Point Jumper,27,26
+6:09,Rutgers,Eugene Omoruyi,Offensive Rebound,27,26
+6:07,Michigan State,Joshua Langford,Foul,27,26
+6:05,Rutgers,Peter Kiss,Missed Three Point Jumper,27,26
+6:05,Michigan State,Michigan State,Defensive Rebound,27,26
+5:47,Michigan State,Joshua Langford,Layup,29,26
+5:27,Michigan State,Aaron Henry,Foul,29,26
+5:27,Rutgers,Ron Harper Jr.,Missed Free Throw,29,26
+5:27,Rutgers,None,Team Rebound,29,26
+5:27,Rutgers,Ron Harper Jr.,Free Throw,29,27
+5:15,Michigan State,Xavier Tillman,Missed Three Point Jumper,29,27
+5:15,Rutgers,Ron Harper Jr.,Defensive Rebound,29,27
+4:45,Rutgers,Eugene Omoruyi,Missed Three Point Jumper,29,27
+4:45,Rutgers,Myles Johnson,Offensive Rebound,29,27
+4:38,Rutgers,Eugene Omoruyi,Missed Jumper,29,27
+4:38,Michigan State,Nick Ward,Defensive Rebound,29,27
+4:36,Rutgers,Eugene Omoruyi,Foul,29,27
+4:36,Michigan State,Nick Ward,Missed Free Throw,29,27
+4:36,Rutgers,Ron Harper Jr.,Defensive Rebound,29,27
+4:13,Rutgers,Caleb McConnell,Layup,29,29
+4:05,Michigan State,Cassius Winston,Missed Three Point Jumper,29,29
+4:05,Rutgers,Myles Johnson,Block,29,29
+4:05,Michigan State,Michigan State,Offensive Rebound,29,29
+3:57,Michigan State,Cassius Winston,Missed Three Point Jumper,29,29
+3:57,Rutgers,Montez Mathis,Defensive Rebound,29,29
+3:46,Rutgers,Ron Harper Jr.,Jumper,29,31
+3:37,Rutgers,Caleb McConnell,Foul,29,31
+3:37,Rutgers,None,None,29,31
+3:37,Michigan State,Nick Ward,Missed Free Throw,29,31
+3:37,Michigan State,None,Team Rebound,29,31
+3:37,Michigan State,Nick Ward,Free Throw,30,31
+3:26,Rutgers,Myles Johnson,Layup,30,33
+3:09,Michigan State,Cassius Winston,Jumper,32,33
+2:38,Rutgers,Issa Thiam,Missed Three Point Jumper,32,33
+2:38,Rutgers,Myles Johnson,Offensive Rebound,32,33
+2:29,Rutgers,Myles Johnson,Turnover,32,33
+2:29,Michigan State,Joshua Langford,Steal,32,33
+2:09,Michigan State,Nick Ward,Layup,34,33
+2:03,Rutgers,None,None,34,33
+1:51,Michigan State,Cassius Winston,Foul,34,33
+1:51,Rutgers,Caleb McConnell,Free Throw,34,34
+1:51,Rutgers,Caleb McConnell,Free Throw,34,35
+1:41,Michigan State,Joshua Langford,Missed Jumper,34,35
+1:41,Rutgers,Caleb McConnell,Defensive Rebound,34,35
+1:25,Rutgers,Mamadou Doucoure,Missed Jumper,34,35
+1:25,Michigan State,Gabe Brown,Defensive Rebound,34,35
+1:16,Michigan State,Cassius Winston,Jumper,36,35
+0:51,Rutgers,Peter Kiss,Missed Jumper,36,35
+0:51,Rutgers,Shaq Carter,Offensive Rebound,36,35
+0:51,Rutgers,None,None,36,37
+0:41,Michigan State,None,None,36,37
+0:21,Michigan State,Cassius Winston,Three Point Jumper,39,37
+0:04,Rutgers,Caleb McConnell,Missed Jumper,39,37
+0:04,Michigan State,Joshua Langford,Defensive Rebound,39,37
+0:00,Rutgers,None,None,39,37
+20:00,Michigan State,None,None,39,37
+19:50,Michigan State,Nick Ward,Missed Jumper,39,37
+19:50,Rutgers,Eugene Omoruyi,Defensive Rebound,39,37
+19:33,Rutgers,Peter Kiss,Three Point Jumper,39,40
+19:19,Michigan State,Joshua Langford,Missed Jumper,39,40
+19:19,Rutgers,Shaquille Doorson,Defensive Rebound,39,40
+19:19,Michigan State,Nick Ward,Foul,39,40
+19:04,Rutgers,Geo Baker,Missed Jumper,39,40
+19:04,Michigan State,Kyle Ahrens,Defensive Rebound,39,40
+18:50,Michigan State,Nick Ward,Layup,41,40
+18:36,Rutgers,Geo Baker,Turnover,41,40
+18:36,Michigan State,Joshua Langford,Steal,41,40
+18:28,Michigan State,Nick Ward,Jumper,43,40
+18:28,Rutgers,Shaquille Doorson,Foul,43,40
+18:28,Michigan State,Nick Ward,Missed Free Throw,43,40
+18:28,Rutgers,Eugene Omoruyi,Defensive Rebound,43,40
+18:05,Rutgers,Eugene Omoruyi,Missed Jumper,43,40
+18:05,Michigan State,Kenny Goins,Defensive Rebound,43,40
+17:58,Michigan State,Nick Ward,Dunk,45,40
+17:54,Rutgers,None,None,45,40
+17:54,Rutgers,None,None,45,40
+17:35,Rutgers,Eugene Omoruyi,Missed Three Point Jumper,45,40
+17:35,Michigan State,Kyle Ahrens,Defensive Rebound,45,40
+17:09,Michigan State,Kenny Goins,Missed Three Point Jumper,45,40
+17:09,Rutgers,Geo Baker,Defensive Rebound,45,40
+16:59,Rutgers,Geo Baker,Missed Jumper,45,40
+16:59,Michigan State,Kenny Goins,Defensive Rebound,45,40
+16:53,Michigan State,Kyle Ahrens,Missed Layup,45,40
+16:53,Rutgers,Issa Thiam,Defensive Rebound,45,40
+16:38,Rutgers,Geo Baker,Missed Layup,45,40
+16:38,Michigan State,Kenny Goins,Defensive Rebound,45,40
+16:16,Michigan State,Xavier Tillman,Dunk,47,40
+16:01,Rutgers,Peter Kiss,Missed Three Point Jumper,47,40
+16:01,Rutgers,Issa Thiam,Offensive Rebound,47,40
+15:51,Rutgers,Issa Thiam,Turnover,47,40
+15:51,Rutgers,None,None,47,40
+15:37,Michigan State,Cassius Winston,Jumper,49,40
+15:25,Rutgers,Peter Kiss,Missed Three Point Jumper,49,40
+15:25,Michigan State,Kenny Goins,Defensive Rebound,49,40
+14:55,Michigan State,Kyle Ahrens,Missed Three Point Jumper,49,40
+14:55,Michigan State,Aaron Henry,Offensive Rebound,49,40
+14:45,Michigan State,Aaron Henry,Turnover,49,40
+14:45,Rutgers,Ron Harper Jr.,Steal,49,40
+14:21,Rutgers,Ron Harper Jr.,Missed Jumper,49,40
+14:21,Michigan State,Cassius Winston,Defensive Rebound,49,40
+14:14,Michigan State,Aaron Henry,Turnover,49,40
+14:14,Rutgers,Peter Kiss,Steal,49,40
+14:05,Rutgers,Geo Baker,Missed Three Point Jumper,49,40
+14:05,Rutgers,Eugene Omoruyi,Offensive Rebound,49,40
+13:57,Michigan State,Xavier Tillman,Foul,49,40
+13:57,Rutgers,Eugene Omoruyi,Missed Free Throw,49,40
+13:57,Rutgers,None,Team Rebound,49,40
+13:57,Rutgers,Eugene Omoruyi,Free Throw,49,41
+13:32,Michigan State,Cassius Winston,Missed Jumper,49,41
+13:32,Michigan State,Xavier Tillman,Offensive Rebound,49,41
+13:32,Michigan State,None,None,49,41
+13:32,Rutgers,Shaquille Doorson,Defensive Rebound,49,41
+13:21,Rutgers,Eugene Omoruyi,Turnover,49,41
+13:06,Michigan State,Nick Ward,Missed Jumper,49,41
+13:06,Michigan State,Xavier Tillman,Offensive Rebound,49,41
+13:04,Rutgers,Geo Baker,Foul,49,41
+13:04,Michigan State,Joshua Langford,Free Throw,50,41
+13:04,Michigan State,Joshua Langford,Free Throw,51,41
+12:46,Michigan State,Cassius Winston,Foul,51,41
+12:46,Rutgers,Montez Mathis,Missed Free Throw,51,41
+12:46,Rutgers,None,Team Rebound,51,41
+12:46,Rutgers,Montez Mathis,Free Throw,51,42
+12:17,Michigan State,Kenny Goins,Missed Three Point Jumper,51,42
+12:17,Rutgers,Rutgers,Defensive Rebound,51,42
+11:56,Rutgers,Eugene Omoruyi,Jumper,51,44
+11:25,Rutgers,None,None,51,44
+11:10,Michigan State,Joshua Langford,Missed Jumper,51,44
+11:10,Rutgers,Eugene Omoruyi,Defensive Rebound,51,44
+10:39,Rutgers,Caleb McConnell,Turnover,51,44
+10:39,Michigan State,Aaron Henry,Steal,51,44
+10:35,Michigan State,Aaron Henry,Layup,53,44
+10:35,Rutgers,Peter Kiss,Foul,53,44
+10:35,Michigan State,Aaron Henry,Free Throw,54,44
+10:19,Rutgers,Myles Johnson,Jumper,54,46
+9:52,Rutgers,Peter Kiss,Foul,54,46
+9:52,Michigan State,Nick Ward,Free Throw,55,46
+9:52,Michigan State,Nick Ward,Free Throw,56,46
+9:38,Rutgers,Myles Johnson,Missed Jumper,56,46
+9:38,Michigan State,Aaron Henry,Block,56,46
+9:38,Rutgers,Myles Johnson,Offensive Rebound,56,46
+9:38,Michigan State,Kenny Goins,Foul,56,46
+9:38,Rutgers,Myles Johnson,Missed Free Throw,56,46
+9:38,Rutgers,None,Team Rebound,56,46
+9:38,Rutgers,Myles Johnson,Missed Free Throw,56,46
+9:38,Michigan State,Michigan State,Defensive Rebound,56,46
+9:32,Michigan State,Kenny Goins,Turnover,56,46
+9:16,Michigan State,Joshua Langford,Foul,56,46
+9:13,Rutgers,Peter Kiss,Missed Jumper,56,46
+9:13,Michigan State,Joshua Langford,Defensive Rebound,56,46
+9:01,Michigan State,Cassius Winston,Missed Jumper,56,46
+9:01,Michigan State,Xavier Tillman,Offensive Rebound,56,46
+9:01,Michigan State,None,None,58,46
+8:51,Rutgers,Montez Mathis,Missed Three Point Jumper,58,46
+8:51,Rutgers,Rutgers,Offensive Rebound,58,46
+8:35,Rutgers,Montez Mathis,Turnover,58,46
+8:35,Michigan State,Kenny Goins,Steal,58,46
+8:31,Rutgers,Montez Mathis,Foul,58,46
+8:31,Michigan State,Kenny Goins,Free Throw,59,46
+8:31,Michigan State,Kenny Goins,Missed Free Throw,59,46
+8:31,Michigan State,Xavier Tillman,Offensive Rebound,59,46
+8:27,Michigan State,Foster Loyer,Missed Jumper,59,46
+8:27,Michigan State,Kenny Goins,Offensive Rebound,59,46
+8:00,Michigan State,Joshua Langford,Turnover,59,46
+8:00,Rutgers,None,None,59,46
+7:43,Rutgers,Geo Baker,Missed Jumper,59,46
+7:43,Michigan State,Joshua Langford,Defensive Rebound,59,46
+7:11,Michigan State,Nick Ward,Missed Jumper,59,46
+7:11,Rutgers,Shaquille Doorson,Defensive Rebound,59,46
+7:03,Michigan State,Xavier Tillman,Foul,59,46
+6:50,Rutgers,Geo Baker,Jumper,59,48
+6:46,Michigan State,Kyle Ahrens,Foul,59,48
+6:46,Rutgers,Shaquille Doorson,Free Throw,59,49
+6:46,Rutgers,Shaquille Doorson,Free Throw,59,50
+6:42,Rutgers,Eugene Omoruyi,Missed Jumper,59,50
+6:42,Rutgers,Shaquille Doorson,Offensive Rebound,59,50
+6:42,Rutgers,Shaquille Doorson,Dunk,59,52
+6:25,Rutgers,Eugene Omoruyi,Foul,59,52
+6:22,Rutgers,Issa Thiam,Foul,59,52
+6:22,Michigan State,Joshua Langford,Free Throw,60,52
+6:22,Michigan State,Joshua Langford,Free Throw,61,52
+6:08,Rutgers,Geo Baker,Jumper,61,54
+5:40,Michigan State,Nick Ward,Layup,63,54
+5:20,Rutgers,Issa Thiam,Three Point Jumper,63,57
+4:59,Michigan State,Cassius Winston,Missed Jumper,63,57
+4:59,Michigan State,Xavier Tillman,Offensive Rebound,63,57
+4:54,Rutgers,Eugene Omoruyi,Foul,63,57
+4:54,Michigan State,Xavier Tillman,Free Throw,64,57
+4:54,Michigan State,Xavier Tillman,Free Throw,65,57
+4:40,Rutgers,Peter Kiss,Missed Three Point Jumper,65,57
+4:40,Rutgers,Issa Thiam,Offensive Rebound,65,57
+4:36,Rutgers,Peter Kiss,Missed Three Point Jumper,65,57
+4:36,Michigan State,Nick Ward,Defensive Rebound,65,57
+4:22,Michigan State,Cassius Winston,Jumper,67,57
+4:22,Rutgers,Issa Thiam,Foul,67,57
+4:22,Michigan State,Cassius Winston,Free Throw,68,57
+4:19,Rutgers,None,None,68,57
+4:19,Rutgers,None,None,68,57
+4:06,Rutgers,Geo Baker,Missed Three Point Jumper,68,57
+4:06,Michigan State,Aaron Henry,Defensive Rebound,68,57
+3:43,Michigan State,Xavier Tillman,Missed Jumper,68,57
+3:43,Rutgers,Ron Harper Jr.,Block,68,57
+3:43,Michigan State,Kenny Goins,Offensive Rebound,68,57
+3:36,Michigan State,Cassius Winston,Three Point Jumper,71,57
+3:22,Michigan State,Aaron Henry,Foul,71,57
+3:22,Rutgers,Montez Mathis,Free Throw,71,58
+3:22,Rutgers,Montez Mathis,Free Throw,71,59
+3:00,Michigan State,Cassius Winston,Missed Jumper,71,59
+3:00,Michigan State,Kenny Goins,Offensive Rebound,71,59
+3:00,Michigan State,None,None,73,59
+2:45,Michigan State,Aaron Henry,Foul,73,59
+2:45,Rutgers,Montez Mathis,Free Throw,73,60
+2:45,Rutgers,Montez Mathis,Free Throw,73,61
+2:19,Michigan State,Joshua Langford,Missed Jumper,73,61
+2:19,Rutgers,Eugene Omoruyi,Defensive Rebound,73,61
+2:09,Rutgers,Eugene Omoruyi,Layup,73,63
+2:07,Rutgers,None,None,73,63
+1:41,Michigan State,Cassius Winston,Jumper,75,63
+1:18,Rutgers,Eugene Omoruyi,Jumper,75,65
+0:57,Michigan State,Joshua Langford,Three Point Jumper,78,65
+0:42,Rutgers,Eugene Omoruyi,Missed Jumper,78,65
+0:42,Michigan State,Xavier Tillman,Block,78,65
+0:42,Michigan State,Xavier Tillman,Defensive Rebound,78,65
+0:17,Michigan State,Joshua Langford,Turnover,78,65
+0:17,Rutgers,Eugene Omoruyi,Steal,78,65
+0:13,Rutgers,Eugene Omoruyi,Dunk,78,67
+0:00,Rutgers,None,None,78,67

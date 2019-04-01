@@ -1,0 +1,342 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Minnesota,None,None,0,0
+19:48,Minnesota,Daniel Oturu,Layup,0,2
+19:21,Nebraska,Isaac Copeland Jr.,Jumper,2,2
+19:09,Minnesota,Amir Coffey,Turnover,2,2
+19:09,Nebraska,Isaac Copeland Jr.,Steal,2,2
+18:57,Nebraska,Isaiah Roby,Dunk,4,2
+18:45,Minnesota,Gabe Kalscheur,Turnover,4,2
+18:45,Nebraska,Isaiah Roby,Steal,4,2
+18:28,Nebraska,Isaiah Roby,Layup,6,2
+18:14,Minnesota,Daniel Oturu,Dunk,6,4
+17:51,Nebraska,Isaiah Roby,Missed Layup,6,4
+17:51,Minnesota,Daniel Oturu,Block,6,4
+17:51,Nebraska,Isaac Copeland Jr.,Offensive Rebound,6,4
+17:36,Nebraska,James Palmer Jr.,Three Point Jumper,9,4
+17:21,Minnesota,Dupree McBrayer,Turnover,9,4
+17:21,Nebraska,James Palmer Jr.,Steal,9,4
+17:15,Nebraska,Glynn Watson Jr.,Three Point Jumper,12,4
+17:07,Nebraska,None,None,12,4
+17:03,Minnesota,Amir Coffey,Missed Layup,12,4
+17:03,Minnesota,Daniel Oturu,Offensive Rebound,12,4
+17:03,Minnesota,None,None,12,6
+16:40,Nebraska,Isaac Copeland Jr.,Missed Three Point Jumper,12,6
+16:40,Minnesota,Jordan Murphy,Defensive Rebound,12,6
+16:32,Minnesota,Dupree McBrayer,Missed Three Point Jumper,12,6
+16:32,Nebraska,Thomas Allen,Defensive Rebound,12,6
+16:12,Nebraska,Isaiah Roby,Missed Three Point Jumper,12,6
+16:12,Minnesota,Daniel Oturu,Defensive Rebound,12,6
+15:59,Minnesota,Gabe Kalscheur,Jumper,12,8
+15:29,Nebraska,Isaac Copeland Jr.,Three Point Jumper,15,8
+15:15,Nebraska,Isaac Copeland Jr.,Foul,15,8
+15:15,Minnesota,None,None,15,8
+15:15,Minnesota,Jordan Murphy,Free Throw,15,9
+15:15,Minnesota,Jordan Murphy,Free Throw,15,10
+14:52,Nebraska,Isaac Copeland Jr.,Jumper,17,10
+14:37,Nebraska,Tanner Borchardt,Foul,17,10
+14:37,Minnesota,Jordan Murphy,Missed Free Throw,17,10
+14:37,Minnesota,None,Team Rebound,17,10
+14:37,Minnesota,Jordan Murphy,Missed Free Throw,17,10
+14:37,Nebraska,James Palmer Jr.,Defensive Rebound,17,10
+14:23,Nebraska,James Palmer Jr.,Missed Jumper,17,10
+14:23,Minnesota,Jordan Murphy,Defensive Rebound,17,10
+14:14,Minnesota,Jordan Murphy,Missed Jumper,17,10
+14:14,Minnesota,Jordan Murphy,Offensive Rebound,17,10
+13:56,Minnesota,Amir Coffey,Missed Dunk,17,10
+13:56,Nebraska,James Palmer Jr.,Defensive Rebound,17,10
+13:47,Nebraska,James Palmer Jr.,Layup,19,10
+13:41,Minnesota,Gabe Kalscheur,Layup,19,12
+13:32,Nebraska,Isaac Copeland Jr.,Missed Jumper,19,12
+13:32,Minnesota,Matz Stockman,Defensive Rebound,19,12
+13:21,Minnesota,Isaiah Washington,Layup,19,14
+13:13,Nebraska,Glynn Watson Jr.,Layup,21,14
+12:40,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,21,14
+12:40,Minnesota,Matz Stockman,Offensive Rebound,21,14
+12:40,Minnesota,None,None,21,16
+12:15,Minnesota,Amir Coffey,Foul,21,16
+12:05,Nebraska,Isaiah Roby,Missed Jumper,21,16
+12:05,Nebraska,Amir Harris,Offensive Rebound,21,16
+11:55,Nebraska,Isaiah Roby,Dunk,23,16
+11:18,Minnesota,Isaiah Washington,Missed Jumper,23,16
+11:18,Nebraska,Amir Harris,Defensive Rebound,23,16
+11:11,Nebraska,Isaiah Roby,Foul,23,16
+11:11,Nebraska,Isaiah Roby,Turnover,23,16
+11:11,Minnesota,None,None,23,16
+11:07,Minnesota,Jordan Murphy,Missed Layup,23,16
+11:07,Minnesota,Daniel Oturu,Offensive Rebound,23,16
+11:01,Minnesota,Daniel Oturu,Missed Layup,23,16
+11:01,Nebraska,Isaiah Roby,Block,23,16
+11:01,Minnesota,Minnesota,Offensive Rebound,23,16
+10:44,Minnesota,Daniel Oturu,Turnover,23,16
+10:30,Nebraska,Thomas Allen,Layup,25,16
+10:21,Minnesota,Isaiah Washington,Layup,25,18
+10:06,Nebraska,Isaiah Roby,Turnover,25,18
+9:53,Minnesota,Amir Coffey,Missed Layup,25,18
+9:53,Minnesota,Daniel Oturu,Offensive Rebound,25,18
+9:53,Minnesota,None,None,25,18
+9:53,Nebraska,Brady Heiman,Block,25,18
+9:53,Minnesota,Amir Coffey,Offensive Rebound,25,18
+9:49,Nebraska,Isaac Copeland Jr.,Foul,25,18
+9:49,Minnesota,Amir Coffey,Free Throw,25,19
+9:49,Minnesota,Amir Coffey,Missed Free Throw,25,19
+9:49,Nebraska,Amir Harris,Defensive Rebound,25,19
+9:29,Minnesota,Gabe Kalscheur,Foul,25,19
+9:20,Nebraska,Thomas Allen,Three Point Jumper,28,19
+9:04,Minnesota,Daniel Oturu,Layup,28,21
+8:45,Nebraska,Nana Akenten,Turnover,28,21
+8:45,Minnesota,Dupree McBrayer,Steal,28,21
+8:41,Minnesota,Amir Coffey,Layup,28,23
+8:22,Nebraska,Brady Heiman,Jumper,30,23
+8:01,Nebraska,Nana Akenten,Foul,30,23
+8:01,Minnesota,Amir Coffey,Free Throw,30,24
+8:01,Minnesota,Amir Coffey,Free Throw,30,25
+7:36,Nebraska,Isaac Copeland Jr.,Missed Layup,30,25
+7:36,Minnesota,Matz Stockman,Block,30,25
+7:36,Nebraska,Brady Heiman,Offensive Rebound,30,25
+7:27,Nebraska,Brady Heiman,Layup,32,25
+7:21,Minnesota,Jordan Murphy,Missed Jumper,32,25
+7:21,Minnesota,Matz Stockman,Offensive Rebound,32,25
+7:11,Minnesota,Amir Coffey,Three Point Jumper,32,28
+6:54,Nebraska,Thomas Allen,Missed Three Point Jumper,32,28
+6:54,Nebraska,Isaac Copeland Jr.,Offensive Rebound,32,28
+6:43,Nebraska,Glynn Watson Jr.,Missed Layup,32,28
+6:43,Minnesota,Matz Stockman,Block,32,28
+6:43,Minnesota,Matz Stockman,Defensive Rebound,32,28
+6:39,Nebraska,Nana Akenten,Foul,32,28
+6:39,Minnesota,None,None,32,28
+6:39,Minnesota,Amir Coffey,Free Throw,32,29
+6:39,Minnesota,Amir Coffey,Free Throw,32,30
+6:18,Nebraska,James Palmer Jr.,Missed Jumper,32,30
+6:18,Minnesota,Jordan Murphy,Defensive Rebound,32,30
+6:17,Nebraska,James Palmer Jr.,Foul,32,30
+6:17,Minnesota,Amir Coffey,Free Throw,32,31
+6:17,Minnesota,Amir Coffey,Free Throw,32,32
+5:50,Nebraska,Thomas Allen,Missed Three Point Jumper,32,32
+5:50,Minnesota,Jordan Murphy,Defensive Rebound,32,32
+5:40,Minnesota,Jordan Murphy,Layup,32,34
+5:23,Minnesota,Dupree McBrayer,Foul,32,34
+5:07,Nebraska,James Palmer Jr.,Missed Three Point Jumper,32,34
+5:07,Minnesota,Jordan Murphy,Defensive Rebound,32,34
+4:53,Minnesota,Amir Coffey,Missed Layup,32,34
+4:53,Minnesota,Amir Coffey,Offensive Rebound,32,34
+4:53,Nebraska,Tanner Borchardt,Foul,32,34
+4:53,Minnesota,Amir Coffey,Free Throw,32,35
+4:53,Minnesota,Amir Coffey,Free Throw,32,36
+4:33,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,32,36
+4:33,Minnesota,Jordan Murphy,Defensive Rebound,32,36
+4:26,Minnesota,Amir Coffey,Foul,32,36
+4:26,Minnesota,Amir Coffey,Turnover,32,36
+4:26,Nebraska,Glynn Watson Jr.,Steal,32,36
+4:18,Nebraska,Isaiah Roby,Missed Three Point Jumper,32,36
+4:18,Nebraska,Brady Heiman,Offensive Rebound,32,36
+4:11,Minnesota,Amir Coffey,Foul,32,36
+4:11,Nebraska,James Palmer Jr.,Free Throw,33,36
+4:11,Nebraska,James Palmer Jr.,Free Throw,34,36
+3:48,Minnesota,Dupree McBrayer,Missed Three Point Jumper,34,36
+3:48,Nebraska,James Palmer Jr.,Defensive Rebound,34,36
+3:32,Nebraska,Brady Heiman,Turnover,34,36
+3:32,Minnesota,Dupree McBrayer,Steal,34,36
+3:20,Minnesota,Jordan Murphy,Turnover,34,36
+3:20,Nebraska,James Palmer Jr.,Steal,34,36
+3:14,Nebraska,James Palmer Jr.,Layup,36,36
+3:01,Minnesota,Jordan Murphy,Dunk,36,38
+2:32,Nebraska,Brady Heiman,Layup,38,38
+2:03,Minnesota,Matz Stockman,Missed Jumper,38,38
+2:03,Nebraska,Thomas Allen,Defensive Rebound,38,38
+1:55,Nebraska,Thomas Allen,Layup,40,38
+1:39,Minnesota,Dupree McBrayer,Turnover,40,38
+1:39,Nebraska,Thomas Allen,Steal,40,38
+1:32,Minnesota,None,None,40,38
+1:17,Nebraska,James Palmer Jr.,Missed Layup,40,38
+1:17,Minnesota,Daniel Oturu,Block,40,38
+1:17,Nebraska,James Palmer Jr.,Offensive Rebound,40,38
+1:17,Minnesota,Daniel Oturu,Foul,40,38
+1:17,Nebraska,James Palmer Jr.,Free Throw,41,38
+1:17,Nebraska,James Palmer Jr.,Free Throw,42,38
+0:58,Minnesota,Daniel Oturu,Turnover,42,38
+0:49,Nebraska,Isaiah Roby,Missed Three Point Jumper,42,38
+0:49,Minnesota,Jordan Murphy,Defensive Rebound,42,38
+0:39,Nebraska,Thomas Allen,Foul,42,38
+0:39,Minnesota,Gabe Kalscheur,Missed Free Throw,42,38
+0:39,Minnesota,None,Team Rebound,42,38
+0:39,Minnesota,Gabe Kalscheur,Free Throw,42,39
+0:39,Minnesota,Gabe Kalscheur,Missed Free Throw,42,39
+0:39,Nebraska,Brady Heiman,Defensive Rebound,42,39
+0:19,Nebraska,Isaiah Roby,Missed Jumper,42,39
+0:19,Nebraska,Brady Heiman,Offensive Rebound,42,39
+0:19,Nebraska,None,None,44,39
+0:01,Minnesota,Brock Stull,Missed Jumper,44,39
+0:01,Minnesota,Minnesota,Offensive Rebound,44,39
+0:00,Minnesota,None,None,44,39
+20:00,Nebraska,None,None,44,39
+19:38,Nebraska,Isaac Copeland Jr.,Three Point Jumper,47,39
+19:24,Nebraska,Isaiah Roby,Foul,47,39
+19:24,Minnesota,Gabe Kalscheur,Missed Free Throw,47,39
+19:24,Minnesota,None,Team Rebound,47,39
+19:24,Minnesota,Gabe Kalscheur,Free Throw,47,40
+19:07,Nebraska,James Palmer Jr.,Missed Layup,47,40
+19:07,Nebraska,Isaac Copeland Jr.,Offensive Rebound,47,40
+19:07,Nebraska,None,None,47,40
+19:07,Nebraska,Isaiah Roby,Offensive Rebound,47,40
+19:07,Nebraska,None,None,49,40
+18:50,Minnesota,Daniel Oturu,Turnover,49,40
+18:37,Nebraska,Isaac Copeland Jr.,Missed Three Point Jumper,49,40
+18:37,Nebraska,Isaiah Roby,Offensive Rebound,49,40
+18:34,Nebraska,James Palmer Jr.,Missed Three Point Jumper,49,40
+18:34,Nebraska,Isaac Copeland Jr.,Offensive Rebound,49,40
+18:34,Minnesota,Dupree McBrayer,Foul,49,40
+18:24,Minnesota,Matz Stockman,Foul,49,40
+18:24,Nebraska,Isaiah Roby,Free Throw,50,40
+18:24,Nebraska,Isaiah Roby,Free Throw,51,40
+18:07,Nebraska,Glynn Watson Jr.,Foul,51,40
+17:54,Minnesota,Jordan Murphy,Layup,51,42
+17:39,Nebraska,Thomas Allen,Layup,53,42
+17:18,Minnesota,Gabe Kalscheur,Turnover,53,42
+17:18,Nebraska,Thomas Allen,Steal,53,42
+17:14,Minnesota,Dupree McBrayer,Foul,53,42
+17:14,Minnesota,None,None,53,42
+17:14,Nebraska,Glynn Watson Jr.,Free Throw,54,42
+17:14,Nebraska,Glynn Watson Jr.,Free Throw,55,42
+17:05,Minnesota,Jordan Murphy,Turnover,55,42
+17:05,Nebraska,Isaiah Roby,Steal,55,42
+16:58,Nebraska,James Palmer Jr.,Foul,55,42
+16:58,Nebraska,James Palmer Jr.,Turnover,55,42
+16:45,Minnesota,Jordan Murphy,Dunk,55,44
+16:27,Nebraska,Glynn Watson Jr.,Turnover,55,44
+16:27,Minnesota,Matz Stockman,Steal,55,44
+16:22,Minnesota,Amir Coffey,Layup,55,46
+15:52,Nebraska,Isaac Copeland Jr.,Three Point Jumper,58,46
+15:29,Minnesota,Jordan Murphy,Missed Dunk,58,46
+15:29,Nebraska,Isaiah Roby,Block,58,46
+15:29,Nebraska,Glynn Watson Jr.,Defensive Rebound,58,46
+15:21,Nebraska,James Palmer Jr.,Turnover,58,46
+15:21,Minnesota,None,None,58,46
+15:07,Minnesota,Amir Coffey,Dunk,58,48
+14:48,Nebraska,James Palmer Jr.,Missed Layup,58,48
+14:48,Minnesota,Amir Coffey,Defensive Rebound,58,48
+14:22,Minnesota,Jordan Murphy,Missed Jumper,58,48
+14:22,Nebraska,Isaac Copeland Jr.,Block,58,48
+14:22,Nebraska,Isaac Copeland Jr.,Defensive Rebound,58,48
+14:07,Nebraska,Isaac Copeland Jr.,Missed Layup,58,48
+14:07,Minnesota,Amir Coffey,Defensive Rebound,58,48
+14:05,Nebraska,Glynn Watson Jr.,Foul,58,48
+14:00,Minnesota,Amir Coffey,Missed Layup,58,48
+13:59,Minnesota,Jarvis Omersa,Offensive Rebound,58,48
+13:52,Minnesota,Jarvis Omersa,Missed Dunk,58,48
+13:52,Nebraska,Nana Akenten,Defensive Rebound,58,48
+13:27,Nebraska,Glynn Watson Jr.,Turnover,58,48
+13:27,Minnesota,Amir Coffey,Steal,58,48
+13:17,Minnesota,Gabe Kalscheur,Jumper,58,50
+12:48,Minnesota,Gabe Kalscheur,Foul,58,50
+12:48,Nebraska,Isaiah Roby,Free Throw,59,50
+12:48,Nebraska,Isaiah Roby,Free Throw,60,50
+12:31,Minnesota,Daniel Oturu,Turnover,60,50
+12:13,Nebraska,Isaac Copeland Jr.,Missed Jumper,60,50
+12:13,Minnesota,Daniel Oturu,Defensive Rebound,60,50
+11:55,Minnesota,Dupree McBrayer,Layup,60,52
+11:34,Nebraska,Isaac Copeland Jr.,Layup,62,52
+11:10,Minnesota,Dupree McBrayer,Missed Layup,62,52
+11:10,Minnesota,Daniel Oturu,Offensive Rebound,62,52
+11:04,Minnesota,Daniel Oturu,Dunk,62,54
+10:40,Nebraska,Isaiah Roby,Jumper,64,54
+10:32,Minnesota,Gabe Kalscheur,Turnover,64,54
+10:32,Minnesota,None,None,64,54
+10:32,Nebraska,Isaac Copeland Jr.,Foul,64,54
+10:32,Nebraska,Isaac Copeland Jr.,Foul,64,54
+10:32,Minnesota,Amir Coffey,Free Throw,64,55
+10:32,Minnesota,Amir Coffey,Free Throw,64,56
+10:21,Nebraska,Nana Akenten,Three Point Jumper,67,56
+9:59,Minnesota,Jordan Murphy,Missed Layup,67,56
+9:59,Minnesota,Matz Stockman,Offensive Rebound,67,56
+9:59,Minnesota,None,None,67,58
+9:35,Nebraska,Brady Heiman,Turnover,67,58
+9:24,Nebraska,Nana Akenten,Foul,67,58
+9:11,Minnesota,Amir Coffey,Missed Jumper,67,58
+9:11,Nebraska,Isaiah Roby,Defensive Rebound,67,58
+8:43,Minnesota,Jordan Murphy,Foul,67,58
+8:43,Nebraska,Isaiah Roby,Free Throw,68,58
+8:43,Nebraska,Isaiah Roby,Missed Free Throw,68,58
+8:43,Minnesota,Jordan Murphy,Defensive Rebound,68,58
+8:28,Minnesota,Gabe Kalscheur,Jumper,68,60
+7:54,Nebraska,Isaiah Roby,Missed Layup,68,60
+7:54,Nebraska,Isaiah Roby,Offensive Rebound,68,60
+7:54,Minnesota,Jordan Murphy,Foul,68,60
+7:54,Minnesota,None,None,68,60
+7:54,Nebraska,Brady Heiman,Missed Free Throw,68,60
+7:54,Nebraska,None,Team Rebound,68,60
+7:54,Nebraska,Brady Heiman,Free Throw,69,60
+7:37,Nebraska,Brady Heiman,Foul,69,60
+7:37,Minnesota,Amir Coffey,Missed Free Throw,69,60
+7:37,Minnesota,None,Team Rebound,69,60
+7:37,Minnesota,Amir Coffey,Missed Free Throw,69,60
+7:37,Nebraska,Isaac Copeland Jr.,Defensive Rebound,69,60
+7:13,Nebraska,James Palmer Jr.,Missed Layup,69,60
+7:13,Minnesota,Daniel Oturu,Block,69,60
+7:13,Minnesota,Jordan Murphy,Defensive Rebound,69,60
+7:06,Minnesota,Amir Coffey,Layup,69,62
+6:45,Nebraska,Isaac Copeland Jr.,Missed Jumper,69,62
+6:45,Minnesota,Gabe Kalscheur,Defensive Rebound,69,62
+6:31,Minnesota,Jordan Murphy,Missed Layup,69,62
+6:31,Nebraska,Isaac Copeland Jr.,Defensive Rebound,69,62
+6:09,Nebraska,James Palmer Jr.,Missed Three Point Jumper,69,62
+6:09,Minnesota,Daniel Oturu,Defensive Rebound,69,62
+5:44,Minnesota,Amir Coffey,Layup,69,64
+5:44,Nebraska,Isaac Copeland Jr.,Foul,69,64
+5:44,Minnesota,Amir Coffey,Free Throw,69,65
+5:29,Nebraska,James Palmer Jr.,Missed Three Point Jumper,69,65
+5:29,Minnesota,Daniel Oturu,Defensive Rebound,69,65
+5:20,Minnesota,Dupree McBrayer,Missed Layup,69,65
+5:20,Nebraska,Brady Heiman,Defensive Rebound,69,65
+4:59,Nebraska,Glynn Watson Jr.,Jumper,71,65
+4:40,Minnesota,Dupree McBrayer,Three Point Jumper,71,68
+4:36,Nebraska,None,None,71,68
+4:28,Minnesota,Dupree McBrayer,Foul,71,68
+4:28,Nebraska,Glynn Watson Jr.,Free Throw,72,68
+4:28,Nebraska,Glynn Watson Jr.,Free Throw,73,68
+4:17,Minnesota,Amir Coffey,Missed Layup,73,68
+4:17,Nebraska,Isaiah Roby,Block,73,68
+4:17,Minnesota,Amir Coffey,Offensive Rebound,73,68
+4:09,Minnesota,Jordan Murphy,Layup,73,70
+3:51,Nebraska,Glynn Watson Jr.,Missed Jumper,73,70
+3:51,Minnesota,Amir Coffey,Defensive Rebound,73,70
+3:44,Minnesota,Dupree McBrayer,Missed Three Point Jumper,73,70
+3:44,Nebraska,Thomas Allen,Defensive Rebound,73,70
+3:42,Minnesota,Gabe Kalscheur,Foul,73,70
+3:42,Minnesota,None,None,73,70
+3:42,Nebraska,Thomas Allen,Missed Free Throw,73,70
+3:42,Minnesota,Daniel Oturu,Defensive Rebound,73,70
+3:31,Nebraska,Isaiah Roby,Foul,73,70
+3:31,Minnesota,Amir Coffey,Free Throw,73,71
+3:31,Minnesota,Amir Coffey,Free Throw,73,72
+3:11,Nebraska,Isaiah Roby,Missed Layup,73,72
+3:11,Minnesota,Jordan Murphy,Defensive Rebound,73,72
+3:01,Nebraska,Isaiah Roby,Foul,73,72
+3:01,Minnesota,Jordan Murphy,Free Throw,73,73
+3:01,Minnesota,Jordan Murphy,Free Throw,73,74
+2:45,Nebraska,James Palmer Jr.,Foul,73,74
+2:45,Nebraska,James Palmer Jr.,Turnover,73,74
+2:25,Minnesota,Amir Coffey,Three Point Jumper,73,77
+2:24,Nebraska,None,None,73,77
+2:16,Nebraska,Glynn Watson Jr.,Layup,75,77
+1:47,Minnesota,Gabe Kalscheur,Layup,75,79
+1:17,Minnesota,Dupree McBrayer,Foul,75,79
+1:17,Nebraska,Glynn Watson Jr.,Missed Free Throw,75,79
+1:17,Nebraska,None,Team Rebound,75,79
+1:17,Nebraska,Glynn Watson Jr.,Free Throw,76,79
+0:56,Minnesota,Amir Coffey,Layup,76,81
+0:43,Nebraska,Isaac Copeland Jr.,Layup,78,81
+0:43,Nebraska,None,None,78,81
+0:10,Minnesota,Amir Coffey,Missed Three Point Jumper,78,81
+0:10,Minnesota,Jordan Murphy,Offensive Rebound,78,81
+0:10,Nebraska,Isaiah Roby,Foul,78,81
+0:10,Minnesota,Jordan Murphy,Free Throw,78,82
+0:10,Minnesota,Jordan Murphy,Free Throw,78,83
+0:06,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,78,83
+0:06,Minnesota,Jordan Murphy,Defensive Rebound,78,83
+0:04,Nebraska,Isaac Copeland Jr.,Foul,78,83
+0:04,Minnesota,Jordan Murphy,Free Throw,78,84
+0:04,Minnesota,Jordan Murphy,Free Throw,78,85
+0:01,Nebraska,James Palmer Jr.,Missed Three Point Jumper,78,85
+0:01,Nebraska,Nebraska,Offensive Rebound,78,85
+0:00,Minnesota,None,None,78,85
+0:00,Minnesota,None,None,78,85

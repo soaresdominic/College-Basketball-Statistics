@@ -1,0 +1,346 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,St. John's,None,None,0,0
+19:43,St. John's,LJ Figueroa,Turnover,0,0
+19:33,Marquette,Markus Howard,Turnover,0,0
+19:33,St. John's,Justin Simon,Steal,0,0
+19:29,Marquette,Markus Howard,Foul,0,0
+19:18,St. John's,Justin Simon,Missed Layup,0,0
+19:18,Marquette,Theo John,Defensive Rebound,0,0
+19:04,Marquette,Theo John,Layup,0,2
+18:50,St. John's,Shamorie Ponds,Missed Three Point Jumper,0,2
+18:50,Marquette,Markus Howard,Defensive Rebound,0,2
+18:36,Marquette,Theo John,Missed Layup,0,2
+18:36,St. John's,Marvin Clark II,Block,0,2
+18:36,St. John's,LJ Figueroa,Defensive Rebound,0,2
+18:23,St. John's,LJ Figueroa,Three Point Jumper,3,2
+18:05,Marquette,Sacar Anim,Layup,3,4
+18:05,St. John's,Marvin Clark II,Foul,3,4
+18:05,Marquette,Sacar Anim,Missed Free Throw,3,4
+18:05,St. John's,Justin Simon,Defensive Rebound,3,4
+17:49,St. John's,Marvin Clark II,Missed Jumper,3,4
+17:49,Marquette,Markus Howard,Defensive Rebound,3,4
+17:36,Marquette,Sacar Anim,Three Point Jumper,3,7
+17:14,Marquette,Joey Hauser,Foul,3,7
+17:14,St. John's,Shamorie Ponds,Free Throw,4,7
+17:14,St. John's,Shamorie Ponds,Free Throw,5,7
+17:02,Marquette,Sacar Anim,Jumper,5,9
+16:44,St. John's,LJ Figueroa,Missed Three Point Jumper,5,9
+16:44,Marquette,Sam Hauser,Defensive Rebound,5,9
+16:36,Marquette,Markus Howard,Turnover,5,9
+16:36,St. John's,Mustapha Heron,Steal,5,9
+16:25,St. John's,Shamorie Ponds,Missed Jumper,5,9
+16:25,Marquette,Sam Hauser,Defensive Rebound,5,9
+16:20,Marquette,Sacar Anim,Missed Layup,5,9
+16:20,St. John's,Marvin Clark II,Block,5,9
+16:20,St. John's,LJ Figueroa,Defensive Rebound,5,9
+16:09,St. John's,Justin Simon,Missed Jumper,5,9
+16:09,St. John's,Shamorie Ponds,Offensive Rebound,5,9
+16:09,St. John's,Justin Simon,Foul,5,9
+15:55,Marquette,Sam Hauser,Missed Three Point Jumper,5,9
+15:55,St. John's,Justin Simon,Defensive Rebound,5,9
+15:38,St. John's,Marvin Clark II,Missed Three Point Jumper,5,9
+15:38,St. John's,None,Team Rebound,5,9
+15:38,Marquette,Sacar Anim,Foul,5,9
+15:38,Marquette,None,None,5,9
+15:31,St. John's,Mustapha Heron,Dunk,7,9
+15:04,Marquette,Markus Howard,Turnover,7,9
+15:04,St. John's,Shamorie Ponds,Steal,7,9
+14:47,St. John's,Shamorie Ponds,Layup,9,9
+14:17,Marquette,Sam Hauser,Jumper,9,11
+13:52,St. John's,Justin Simon,Jumper,11,11
+13:34,Marquette,Sam Hauser,Missed Three Point Jumper,11,11
+13:34,St. John's,Marvin Clark II,Defensive Rebound,11,11
+13:23,St. John's,Shamorie Ponds,Missed Three Point Jumper,11,11
+13:23,St. John's,Justin Simon,Offensive Rebound,11,11
+13:19,St. John's,None,None,11,11
+13:04,St. John's,Justin Simon,Missed Layup,11,11
+13:04,Marquette,Markus Howard,Defensive Rebound,11,11
+12:44,St. John's,Greg Williams Jr.,Foul,11,11
+12:44,Marquette,Markus Howard,Free Throw,11,12
+12:44,Marquette,Markus Howard,Free Throw,11,13
+12:44,Marquette,Markus Howard,Free Throw,11,14
+12:29,St. John's,LJ Figueroa,Missed Three Point Jumper,11,14
+12:29,Marquette,Brendan Bailey,Defensive Rebound,11,14
+12:19,Marquette,Joey Hauser,Three Point Jumper,11,17
+11:57,St. John's,Mustapha Heron,Layup,13,17
+11:57,Marquette,Brendan Bailey,Foul,13,17
+11:57,Marquette,None,None,13,17
+11:57,St. John's,Mustapha Heron,Free Throw,14,17
+11:42,Marquette,Ed Morrow,Missed Layup,14,17
+11:42,St. John's,Sedee Keita,Block,14,17
+11:42,St. John's,Bryan Trimble Jr.,Defensive Rebound,14,17
+11:21,St. John's,Shamorie Ponds,Turnover,14,17
+10:58,Marquette,Theo John,Layup,14,19
+10:58,St. John's,Sedee Keita,Foul,14,19
+10:58,Marquette,Theo John,Free Throw,14,20
+10:37,St. John's,LJ Figueroa,Turnover,14,20
+10:24,Marquette,Joseph Chartouny,Missed Three Point Jumper,14,20
+10:24,St. John's,Mustapha Heron,Defensive Rebound,14,20
+10:16,Marquette,Theo John,Foul,14,20
+10:04,St. John's,Justin Simon,Layup,16,20
+9:39,Marquette,Joey Hauser,Missed Three Point Jumper,16,20
+9:39,St. John's,Justin Simon,Defensive Rebound,16,20
+9:20,St. John's,Sedee Keita,Turnover,16,20
+9:11,Marquette,Markus Howard,Three Point Jumper,16,23
+8:42,St. John's,Bryan Trimble Jr.,Missed Three Point Jumper,16,23
+8:42,Marquette,Joey Hauser,Defensive Rebound,16,23
+8:32,St. John's,Justin Simon,Foul,16,23
+8:28,Marquette,Sam Hauser,Missed Jumper,16,23
+8:28,Marquette,Markus Howard,Offensive Rebound,16,23
+8:24,Marquette,Sacar Anim,Missed Three Point Jumper,16,23
+8:24,Marquette,Sacar Anim,Offensive Rebound,16,23
+8:16,Marquette,Sam Hauser,Three Point Jumper,16,26
+8:16,St. John's,None,None,16,26
+8:16,Marquette,None,None,16,26
+8:01,St. John's,Shamorie Ponds,Layup,18,26
+7:41,Marquette,Markus Howard,Jumper,18,28
+7:19,Marquette,Joey Hauser,Foul,18,28
+7:16,St. John's,Shamorie Ponds,Missed Jumper,18,28
+7:16,St. John's,Mustapha Heron,Offensive Rebound,18,28
+7:07,St. John's,Mustapha Heron,Layup,20,28
+6:48,Marquette,Brendan Bailey,Missed Three Point Jumper,20,28
+6:48,St. John's,Marvin Clark II,Defensive Rebound,20,28
+6:39,St. John's,Justin Simon,Missed Layup,20,28
+6:39,Marquette,Theo John,Block,20,28
+6:39,Marquette,Sam Hauser,Defensive Rebound,20,28
+6:30,Marquette,Sam Hauser,Turnover,20,28
+6:30,St. John's,Justin Simon,Steal,20,28
+6:13,St. John's,Mustapha Heron,Foul,20,28
+6:13,St. John's,Mustapha Heron,Turnover,20,28
+5:51,Marquette,Sacar Anim,Missed Jumper,20,28
+5:51,Marquette,Ed Morrow,Offensive Rebound,20,28
+5:43,Marquette,Ed Morrow,Foul,20,28
+5:43,Marquette,Ed Morrow,Turnover,20,28
+5:34,St. John's,LJ Figueroa,Turnover,20,28
+5:24,Marquette,Markus Howard,Three Point Jumper,20,31
+5:04,St. John's,Mustapha Heron,Missed Jumper,20,31
+5:04,Marquette,Ed Morrow,Defensive Rebound,20,31
+5:00,Marquette,Ed Morrow,Turnover,20,31
+5:00,St. John's,Justin Simon,Steal,20,31
+4:51,St. John's,Justin Simon,Layup,22,31
+4:34,Marquette,Markus Howard,Layup,22,33
+4:27,St. John's,Marvin Clark II,Missed Three Point Jumper,22,33
+4:27,Marquette,Sam Hauser,Defensive Rebound,22,33
+4:19,Marquette,Sacar Anim,Three Point Jumper,22,36
+4:16,St. John's,None,None,22,36
+4:01,St. John's,Shamorie Ponds,Missed Jumper,22,36
+4:01,Marquette,Theo John,Defensive Rebound,22,36
+3:51,Marquette,Brendan Bailey,Missed Three Point Jumper,22,36
+3:51,St. John's,LJ Figueroa,Defensive Rebound,22,36
+3:35,St. John's,Justin Simon,Missed Jumper,22,36
+3:35,Marquette,Brendan Bailey,Defensive Rebound,22,36
+3:10,Marquette,Markus Howard,Turnover,22,36
+2:49,St. John's,Justin Simon,Layup,24,36
+2:49,Marquette,Jamal Cain,Foul,24,36
+2:49,St. John's,Justin Simon,Free Throw,25,36
+2:19,Marquette,Markus Howard,Missed Three Point Jumper,25,36
+2:19,St. John's,LJ Figueroa,Defensive Rebound,25,36
+2:10,Marquette,Sam Hauser,Foul,25,36
+2:10,St. John's,Mustapha Heron,Missed Free Throw,25,36
+2:10,Marquette,Sam Hauser,Defensive Rebound,25,36
+2:00,Marquette,Markus Howard,Missed Jumper,25,36
+2:00,St. John's,None,Team Rebound,25,36
+1:58,Marquette,Theo John,Foul,25,36
+1:58,St. John's,Shamorie Ponds,Missed Free Throw,25,36
+1:58,St. John's,None,Team Rebound,25,36
+1:58,St. John's,Shamorie Ponds,Free Throw,26,36
+1:42,St. John's,Marvin Clark II,Foul,26,36
+1:42,Marquette,Joseph Chartouny,Missed Free Throw,26,36
+1:42,St. John's,Marvin Clark II,Defensive Rebound,26,36
+1:22,St. John's,Shamorie Ponds,Missed Layup,26,36
+1:22,Marquette,Sacar Anim,Defensive Rebound,26,36
+1:14,Marquette,Sam Hauser,Turnover,26,36
+1:02,St. John's,Mustapha Heron,Missed Jumper,26,36
+1:02,Marquette,Ed Morrow,Defensive Rebound,26,36
+0:52,Marquette,None,None,26,36
+0:46,Marquette,Sacar Anim,Missed Layup,26,36
+0:46,Marquette,Sam Hauser,Offensive Rebound,26,36
+0:39,Marquette,Markus Howard,Foul,26,36
+0:39,Marquette,Markus Howard,Turnover,26,36
+0:23,St. John's,Shamorie Ponds,Missed Three Point Jumper,26,36
+0:23,Marquette,Joseph Chartouny,Defensive Rebound,26,36
+0:02,Marquette,Ed Morrow,Dunk,26,38
+0:00,Marquette,None,None,26,38
+20:00,Marquette,None,None,26,38
+19:42,St. John's,Justin Simon,Foul,26,38
+19:33,Marquette,Markus Howard,Missed Jumper,26,38
+19:33,St. John's,Mustapha Heron,Defensive Rebound,26,38
+19:23,St. John's,LJ Figueroa,Missed Three Point Jumper,26,38
+19:23,Marquette,Joey Hauser,Defensive Rebound,26,38
+19:06,Marquette,Joey Hauser,Missed Layup,26,38
+19:06,St. John's,Marvin Clark II,Block,26,38
+19:06,St. John's,Marvin Clark II,Defensive Rebound,26,38
+18:57,St. John's,Mustapha Heron,Missed Three Point Jumper,26,38
+18:57,St. John's,LJ Figueroa,Offensive Rebound,26,38
+18:50,Marquette,Sacar Anim,Foul,26,38
+18:50,St. John's,Shamorie Ponds,Free Throw,27,38
+18:50,St. John's,Shamorie Ponds,Free Throw,28,38
+18:32,St. John's,LJ Figueroa,Foul,28,38
+18:31,Marquette,Sacar Anim,Three Point Jumper,28,41
+18:05,St. John's,Shamorie Ponds,Layup,30,41
+17:46,St. John's,Shamorie Ponds,Foul,30,41
+17:29,Marquette,Markus Howard,Turnover,30,41
+17:29,St. John's,Shamorie Ponds,Steal,30,41
+17:19,St. John's,LJ Figueroa,Turnover,30,41
+17:19,Marquette,Joey Hauser,Steal,30,41
+17:11,St. John's,LJ Figueroa,Foul,30,41
+17:11,Marquette,Theo John,Missed Free Throw,30,41
+17:11,Marquette,None,Team Rebound,30,41
+17:11,Marquette,Theo John,Free Throw,30,42
+16:51,St. John's,Justin Simon,Three Point Jumper,33,42
+16:33,St. John's,Marvin Clark II,Foul,33,42
+16:33,Marquette,Theo John,Free Throw,33,43
+16:33,Marquette,Theo John,Missed Free Throw,33,43
+16:33,St. John's,Marvin Clark II,Defensive Rebound,33,43
+16:20,St. John's,Shamorie Ponds,Missed Layup,33,43
+16:20,Marquette,Theo John,Block,33,43
+16:20,Marquette,Markus Howard,Defensive Rebound,33,43
+16:18,Marquette,Markus Howard,Missed Three Point Jumper,33,43
+16:18,Marquette,Marquette,Offensive Rebound,33,43
+16:08,Marquette,Theo John,Missed Layup,33,43
+16:08,St. John's,Bryan Trimble Jr.,Block,33,43
+16:08,St. John's,Justin Simon,Defensive Rebound,33,43
+16:00,St. John's,Mustapha Heron,Jumper,35,43
+15:45,Marquette,Markus Howard,Missed Jumper,35,43
+15:45,St. John's,Justin Simon,Defensive Rebound,35,43
+15:26,St. John's,Shamorie Ponds,Missed Three Point Jumper,35,43
+15:26,Marquette,Joey Hauser,Defensive Rebound,35,43
+15:05,Marquette,Sam Hauser,Turnover,35,43
+15:05,St. John's,Shamorie Ponds,Steal,35,43
+15:00,St. John's,Justin Simon,Dunk,37,43
+14:49,Marquette,None,None,37,43
+14:49,Marquette,None,None,37,43
+14:44,St. John's,Mustapha Heron,Foul,37,43
+14:44,Marquette,None,None,37,43
+14:35,Marquette,Markus Howard,Layup,37,45
+14:21,St. John's,Mustapha Heron,Missed Three Point Jumper,37,45
+14:21,Marquette,Joey Hauser,Defensive Rebound,37,45
+14:12,St. John's,Marvin Clark II,Foul,37,45
+14:12,Marquette,Markus Howard,Free Throw,37,46
+14:12,Marquette,Markus Howard,Free Throw,37,47
+14:12,Marquette,Markus Howard,Free Throw,37,48
+13:58,St. John's,Mustapha Heron,Turnover,37,48
+13:58,Marquette,Ed Morrow,Steal,37,48
+13:48,Marquette,Markus Howard,Layup,37,50
+13:32,St. John's,Shamorie Ponds,Layup,39,50
+13:12,Marquette,Joey Hauser,Jumper,39,52
+12:54,St. John's,Justin Simon,Missed Layup,39,52
+12:54,St. John's,Justin Simon,Offensive Rebound,39,52
+12:51,St. John's,Bryan Trimble Jr.,Missed Three Point Jumper,39,52
+12:50,Marquette,Joey Hauser,Defensive Rebound,39,52
+12:26,Marquette,Markus Howard,Layup,39,54
+12:10,Marquette,Sam Hauser,Foul,39,54
+12:05,Marquette,Sacar Anim,Foul,39,54
+12:00,St. John's,Bryan Trimble Jr.,Missed Three Point Jumper,39,54
+12:00,Marquette,Brendan Bailey,Defensive Rebound,39,54
+11:53,Marquette,Markus Howard,Three Point Jumper,39,57
+11:37,St. John's,Shamorie Ponds,Missed Jumper,39,57
+11:37,Marquette,Markus Howard,Defensive Rebound,39,57
+11:24,Marquette,Markus Howard,Missed Three Point Jumper,39,57
+11:24,Marquette,Ed Morrow,Offensive Rebound,39,57
+11:22,Marquette,Ed Morrow,Dunk,39,59
+11:22,Marquette,None,None,39,59
+11:22,Marquette,Ed Morrow,Foul,39,59
+11:22,St. John's,Shamorie Ponds,Missed Free Throw,39,59
+11:21,St. John's,None,Team Rebound,39,59
+11:07,Marquette,Brendan Bailey,Foul,39,59
+10:52,St. John's,LJ Figueroa,Missed Three Point Jumper,39,59
+10:52,Marquette,Sam Hauser,Defensive Rebound,39,59
+10:39,Marquette,Ed Morrow,Layup,39,61
+10:29,Marquette,Markus Howard,Foul,39,61
+10:20,St. John's,Justin Simon,Missed Three Point Jumper,39,61
+10:20,Marquette,Brendan Bailey,Defensive Rebound,39,61
+10:03,Marquette,Sam Hauser,Layup,39,63
+9:53,Marquette,Joseph Chartouny,Foul,39,63
+9:49,St. John's,Mustapha Heron,Missed Layup,39,63
+9:49,Marquette,Joey Hauser,Defensive Rebound,39,63
+9:34,Marquette,Sam Hauser,Three Point Jumper,39,66
+9:14,St. John's,Justin Simon,Missed Layup,39,66
+9:14,St. John's,St. John's,Offensive Rebound,39,66
+9:12,St. John's,Mustapha Heron,Missed Jumper,39,66
+9:12,Marquette,Ed Morrow,Defensive Rebound,39,66
+8:55,St. John's,Sedee Keita,Foul,39,66
+8:55,Marquette,Joey Hauser,Missed Free Throw,39,66
+8:55,Marquette,Ed Morrow,Offensive Rebound,39,66
+8:54,Marquette,Ed Morrow,Missed Layup,39,66
+8:54,Marquette,Ed Morrow,Offensive Rebound,39,66
+8:53,Marquette,Ed Morrow,Missed Layup,39,66
+8:53,St. John's,Sedee Keita,Block,39,66
+8:53,Marquette,Sam Hauser,Offensive Rebound,39,66
+8:49,Marquette,None,None,39,66
+8:31,Marquette,Joey Hauser,Missed Jumper,39,66
+8:31,St. John's,LJ Figueroa,Defensive Rebound,39,66
+8:29,Marquette,Brendan Bailey,Foul,39,66
+8:29,St. John's,LJ Figueroa,Free Throw,40,66
+8:29,St. John's,LJ Figueroa,Free Throw,41,66
+8:17,Marquette,Joseph Chartouny,Layup,41,68
+7:56,St. John's,Greg Williams Jr.,Layup,43,68
+7:56,Marquette,Joseph Chartouny,Foul,43,68
+7:56,Marquette,None,None,43,68
+7:56,St. John's,Greg Williams Jr.,Free Throw,44,68
+7:31,St. John's,Marvin Clark II,Foul,44,68
+7:31,Marquette,Markus Howard,Free Throw,44,69
+7:31,Marquette,Markus Howard,Free Throw,44,70
+7:31,Marquette,Markus Howard,Free Throw,44,71
+7:21,St. John's,Mustapha Heron,Missed Jumper,44,71
+7:21,Marquette,Ed Morrow,Defensive Rebound,44,71
+7:04,Marquette,Sacar Anim,Missed Jumper,44,71
+7:04,St. John's,Greg Williams Jr.,Defensive Rebound,44,71
+6:53,St. John's,Justin Simon,Missed Layup,44,71
+6:53,Marquette,Sacar Anim,Defensive Rebound,44,71
+6:27,Marquette,Markus Howard,Missed Jumper,44,71
+6:27,St. John's,Justin Simon,Defensive Rebound,44,71
+6:15,St. John's,Sedee Keita,Missed Jumper,44,71
+6:15,Marquette,Markus Howard,Defensive Rebound,44,71
+5:50,Marquette,Ed Morrow,Dunk,44,73
+5:50,St. John's,Justin Simon,Foul,44,73
+5:50,Marquette,Ed Morrow,Missed Free Throw,44,73
+5:50,St. John's,Sedee Keita,Defensive Rebound,44,73
+5:25,St. John's,Marcellus Earlington,Jumper,46,73
+5:11,St. John's,LJ Figueroa,Foul,46,73
+5:11,Marquette,Markus Howard,Free Throw,46,74
+5:11,Marquette,Markus Howard,Free Throw,46,75
+4:59,St. John's,LJ Figueroa,Missed Jumper,46,75
+4:59,Marquette,Joey Hauser,Defensive Rebound,46,75
+4:32,St. John's,Marcellus Earlington,Foul,46,75
+4:32,Marquette,Theo John,Free Throw,46,76
+4:32,Marquette,Theo John,Free Throw,46,77
+4:24,Marquette,Theo John,Foul,46,77
+4:24,St. John's,Greg Williams Jr.,Missed Free Throw,46,77
+4:24,St. John's,None,Team Rebound,46,77
+4:24,St. John's,Greg Williams Jr.,Missed Free Throw,46,77
+4:24,Marquette,Theo John,Defensive Rebound,46,77
+4:04,Marquette,Jamal Cain,Turnover,46,77
+4:04,St. John's,Bryan Trimble Jr.,Steal,46,77
+3:58,St. John's,Mustapha Heron,Foul,46,77
+3:58,St. John's,Mustapha Heron,Turnover,46,77
+3:58,Marquette,None,None,46,77
+3:44,St. John's,Bryan Trimble Jr.,Foul,46,77
+3:44,Marquette,Brendan Bailey,Free Throw,46,78
+3:44,Marquette,Brendan Bailey,Missed Free Throw,46,78
+3:44,Marquette,Theo John,Offensive Rebound,46,78
+3:40,Marquette,Jamal Cain,Missed Three Point Jumper,46,78
+3:40,St. John's,Greg Williams Jr.,Defensive Rebound,46,78
+3:33,St. John's,Josh Roberts,Missed Layup,46,78
+3:33,St. John's,St. John's,Offensive Rebound,46,78
+3:28,Marquette,Brendan Bailey,Foul,46,78
+3:28,St. John's,Marcellus Earlington,Free Throw,47,78
+3:28,St. John's,Marcellus Earlington,Missed Free Throw,47,78
+3:28,Marquette,Joseph Chartouny,Defensive Rebound,47,78
+2:54,Marquette,Brendan Bailey,Three Point Jumper,47,81
+2:36,St. John's,Mustapha Heron,Missed Jumper,47,81
+2:36,Marquette,Joseph Chartouny,Defensive Rebound,47,81
+2:20,Marquette,Brendan Bailey,Turnover,47,81
+2:10,St. John's,Marcellus Earlington,Missed Three Point Jumper,47,81
+2:10,Marquette,Jamal Cain,Defensive Rebound,47,81
+2:02,Marquette,Jamal Cain,Turnover,47,81
+2:02,St. John's,Sedee Keita,Steal,47,81
+1:55,St. John's,Josh Roberts,Layup,49,81
+1:34,Marquette,Joseph Chartouny,Three Point Jumper,49,84
+1:15,St. John's,Justin Cole,Layup,51,84
+0:51,Marquette,Brendan Bailey,Missed Three Point Jumper,51,84
+0:51,Marquette,Jamal Cain,Offensive Rebound,51,84
+0:45,Marquette,Jamal Cain,Jumper,51,86
+0:35,St. John's,Marcellus Earlington,Three Point Jumper,54,86
+0:02,Marquette,Marquette ,Turnover,54,86
+0:00,Marquette,None,None,54,86

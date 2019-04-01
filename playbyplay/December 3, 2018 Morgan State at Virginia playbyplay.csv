@@ -1,0 +1,321 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Virginia,None,None,0,0
+19:47,Virginia,Kyle Guy,Turnover,0,0
+19:47,Morgan State,David Syfax,Steal,0,0
+19:29,Morgan State,None,None,0,0
+19:27,Morgan State,David Syfax,Missed Jumper,0,0
+19:27,Virginia,Jack Salt,Defensive Rebound,0,0
+19:05,Virginia,Ty Jerome,Layup,0,2
+18:54,Morgan State,Stanley Davis,Missed Three Point Jumper,0,2
+18:54,Virginia,Kihei Clark,Defensive Rebound,0,2
+18:37,Virginia,Kyle Guy,Three Point Jumper,0,5
+18:14,Morgan State,Martez Cameron,Layup,2,5
+17:55,Virginia,Jack Salt,Jumper,2,7
+17:27,Morgan State,David Syfax,Three Point Jumper,5,7
+17:03,Virginia,De'Andre Hunter,Three Point Jumper,5,10
+16:39,Morgan State,Sherwyn Devonish-Prince Jr.,Missed Three Point Jumper,5,10
+16:39,Virginia,Virginia,Defensive Rebound,5,10
+16:36,Morgan State,David Syfax,Foul,5,10
+16:27,Virginia,Kyle Guy,Three Point Jumper,5,13
+16:14,Morgan State,Martez Cameron,Jumper,7,13
+15:50,Virginia,Ty Jerome,Three Point Jumper,7,16
+15:37,Morgan State,LaPri McCray-Pace,Layup,9,16
+15:24,Virginia,De'Andre Hunter,Jumper,9,18
+15:11,Morgan State,Victor Curry,Missed Jumper,9,18
+15:11,Virginia,Ty Jerome,Defensive Rebound,9,18
+14:58,Virginia,Kihei Clark,Missed Three Point Jumper,9,18
+14:58,Morgan State,Victor Curry,Defensive Rebound,9,18
+14:49,Morgan State,Tyler Streeter,Turnover,9,18
+14:49,Virginia,None,None,9,18
+14:42,Virginia,De'Andre Hunter,Turnover,9,18
+14:42,Morgan State,LaPri McCray-Pace,Steal,9,18
+14:10,Morgan State,Malik Miller,Missed Jumper,9,18
+14:10,Virginia,Mamadi Diakite,Block,9,18
+14:10,Virginia,Braxton Key,Defensive Rebound,9,18
+13:55,Virginia,Braxton Key,Turnover,9,18
+13:41,Morgan State,LaPri McCray-Pace,Missed Three Point Jumper,9,18
+13:41,Morgan State,None,Team Rebound,9,18
+13:39,Virginia,Braxton Key,Foul,9,18
+13:35,Morgan State,Victor Curry,Missed Layup,9,18
+13:29,Morgan State,Malik Miller,Offensive Rebound,9,18
+13:18,Morgan State,Victor Curry,Turnover,9,18
+13:18,Virginia,Ty Jerome,Steal,9,18
+13:12,Virginia,Braxton Key,Layup,9,20
+12:47,Morgan State,Victor Curry,Jumper,11,20
+12:24,Virginia,De'Andre Hunter,Three Point Jumper,11,23
+12:00,Virginia,Mamadi Diakite,Foul,11,23
+12:00,Virginia,None,None,11,23
+12:00,Morgan State,LaPri McCray-Pace,Missed Free Throw,11,23
+12:00,Morgan State,None,Team Rebound,11,23
+12:00,Morgan State,LaPri McCray-Pace,Free Throw,12,23
+11:40,Virginia,Jay Huff,Turnover,12,23
+11:40,Morgan State,Sherwyn Devonish-Prince Jr.,Steal,12,23
+11:36,Morgan State,Stanley Davis,Missed Jumper,12,23
+11:36,Virginia,Marco Anthony,Defensive Rebound,12,23
+11:03,Virginia,Mamadi Diakite,Missed Jumper,12,23
+11:03,Morgan State,Stanley Davis,Defensive Rebound,12,23
+10:55,Morgan State,Antonio Gillespie,Missed Three Point Jumper,12,23
+10:55,Virginia,Jay Huff,Defensive Rebound,12,23
+10:37,Virginia,Marco Anthony,Turnover,12,23
+10:37,Morgan State,Stanley Davis,Steal,12,23
+10:32,Morgan State,Stanley Davis,Dunk,14,23
+10:07,Morgan State,Stanley Davis,Foul,14,23
+10:07,Virginia,Braxton Key,Free Throw,14,24
+10:07,Virginia,Braxton Key,Free Throw,14,25
+10:03,Morgan State,David Syfax,Missed Jumper,14,25
+10:03,Virginia,Braxton Key,Defensive Rebound,14,25
+9:38,Virginia,Jay Huff,Dunk,14,27
+9:24,Morgan State,Sherwyn Devonish-Prince Jr.,Turnover,14,27
+9:01,Virginia,Braxton Key,Turnover,14,27
+9:01,Morgan State,Kyson Rawls,Steal,14,27
+8:54,Morgan State,Kyson Rawls,Turnover,14,27
+8:36,Virginia,Kihei Clark,Layup,14,29
+8:36,Morgan State,Isaiah Burke,Foul,14,29
+8:36,Virginia,Kihei Clark,Free Throw,14,30
+8:24,Morgan State,Kyson Rawls,Three Point Jumper,17,30
+8:02,Morgan State,Stanley Davis,Foul,17,30
+7:52,Morgan State,Stanley Davis,Foul,17,30
+7:52,Virginia,None,None,17,30
+7:49,Virginia,None,None,17,30
+7:31,Morgan State,Victor Curry,Foul,17,30
+7:31,Virginia,De'Andre Hunter,Missed Free Throw,17,30
+7:31,Virginia,None,Team Rebound,17,30
+7:31,Virginia,De'Andre Hunter,Free Throw,17,31
+7:19,Virginia,Jack Salt,Foul,17,31
+7:15,Morgan State,Jordan Little,Missed Jumper,17,31
+7:15,Virginia,Braxton Key,Defensive Rebound,17,31
+6:54,Virginia,Jack Salt,Missed Jumper,17,31
+6:54,Morgan State,Victor Curry,Defensive Rebound,17,31
+6:36,Morgan State,Isaiah Burke,Missed Three Point Jumper,17,31
+6:36,Virginia,Braxton Key,Defensive Rebound,17,31
+6:21,Virginia,Kihei Clark,Missed Three Point Jumper,17,31
+6:21,Morgan State,Victor Curry,Defensive Rebound,17,31
+6:07,Morgan State,Victor Curry,Turnover,17,31
+6:07,Virginia,Jack Salt,Steal,17,31
+5:56,Virginia,Kyle Guy,Dunk,17,33
+5:40,Morgan State,Jordan Little,Missed Jumper,17,33
+5:40,Virginia,Braxton Key,Defensive Rebound,17,33
+5:15,Virginia,Braxton Key,Dunk,17,35
+4:54,Morgan State,Kyson Rawls,Turnover,17,35
+4:54,Virginia,Ty Jerome,Steal,17,35
+4:48,Morgan State,Kyson Rawls,Foul,17,35
+4:48,Virginia,Jack Salt,Free Throw,17,36
+4:48,Virginia,Jack Salt,Free Throw,17,37
+4:44,Morgan State,Sherwyn Devonish-Prince Jr.,Turnover,17,37
+4:44,Virginia,Ty Jerome,Steal,17,37
+4:40,Morgan State,Sherwyn Devonish-Prince Jr.,Foul,17,37
+4:40,Virginia,Marco Anthony,Free Throw,17,38
+4:40,Virginia,Marco Anthony,Free Throw,17,39
+4:29,Morgan State,Morgan State ,Turnover,17,39
+4:15,Virginia,Ty Jerome,Three Point Jumper,17,42
+3:54,Virginia,Braxton Key,Foul,17,42
+3:53,Virginia,None,None,17,42
+3:35,Morgan State,Martez Cameron,Missed Three Point Jumper,17,42
+3:35,Virginia,Marco Anthony,Block,17,42
+3:35,Morgan State,Morgan State,Offensive Rebound,17,42
+3:34,Morgan State,Morgan State ,Turnover,17,42
+3:18,Virginia,Kody Stattmann,Missed Three Point Jumper,17,42
+3:18,Morgan State,David Syfax,Defensive Rebound,17,42
+2:56,Morgan State,Tyler Streeter,Three Point Jumper,20,42
+2:34,Virginia,Mamadi Diakite,Missed Jumper,20,42
+2:34,Morgan State,Tyler Streeter,Defensive Rebound,20,42
+2:21,Morgan State,Martez Cameron,Turnover,20,42
+2:21,Virginia,Ty Jerome,Steal,20,42
+2:01,Virginia,Ty Jerome,Missed Layup,20,42
+1:52,Morgan State,David Syfax,Foul,20,42
+1:50,Virginia,Kyle Guy,Free Throw,20,43
+1:45,Virginia,Kyle Guy,Free Throw,20,44
+1:38,Morgan State,LaPri McCray-Pace,Defensive Rebound,20,44
+1:30,Morgan State,Martez Cameron,Missed Three Point Jumper,20,44
+1:30,Morgan State,David Syfax,Missed Jumper,20,44
+1:30,Virginia,Mamadi Diakite,Defensive Rebound,20,44
+1:29,Virginia,Marco Anthony,Defensive Rebound,20,44
+1:08,Virginia,Mamadi Diakite,Turnover,20,44
+0:52,Morgan State,David Syfax,Missed Layup,20,44
+0:52,Virginia,Jay Huff,Block,20,44
+0:52,Virginia,De'Andre Hunter,Defensive Rebound,20,44
+0:35,Virginia,Kody Stattmann,Three Point Jumper,20,47
+0:26,Morgan State,Antonio Gillespie,Three Point Jumper,23,47
+0:04,Virginia,Marco Anthony,Missed Three Point Jumper,23,47
+0:04,Morgan State,LaPri McCray-Pace,Defensive Rebound,23,47
+0:00,Virginia,None,None,23,47
+20:00,Virginia,None,None,23,47
+19:45,Virginia,Ty Jerome,Missed Three Point Jumper,23,47
+19:45,Virginia,None,Team Rebound,23,47
+19:43,Morgan State,Kyson Rawls,Foul,23,47
+19:40,Virginia,Ty Jerome,Missed Three Point Jumper,23,47
+19:40,Morgan State,None,Team Rebound,23,47
+19:37,Virginia,Jack Salt,Foul,23,47
+19:26,Morgan State,David Syfax,Missed Three Point Jumper,23,47
+19:26,Virginia,Ty Jerome,Defensive Rebound,23,47
+19:10,Morgan State,Sherwyn Devonish-Prince Jr.,Foul,23,47
+19:01,Virginia,De'Andre Hunter,Jumper,23,49
+18:33,Morgan State,Kyson Rawls,Turnover,23,49
+18:33,Virginia,Ty Jerome,Steal,23,49
+18:23,Virginia,Ty Jerome,Missed Jumper,23,49
+18:23,Virginia,Jack Salt,Offensive Rebound,23,49
+18:10,Virginia,Jack Salt,Dunk,23,51
+17:37,Morgan State,David Syfax,Missed Jumper,23,51
+17:37,Virginia,Jack Salt,Defensive Rebound,23,51
+17:14,Virginia,Ty Jerome,Turnover,23,51
+17:14,Morgan State,Sherwyn Devonish-Prince Jr.,Steal,23,51
+17:06,Morgan State,David Syfax,Layup,25,51
+17:01,Virginia,None,None,25,51
+16:50,Virginia,De'Andre Hunter,Layup,25,53
+16:25,Morgan State,Sherwyn Devonish-Prince Jr.,Turnover,25,53
+16:25,Virginia,Kihei Clark,Steal,25,53
+16:10,Virginia,De'Andre Hunter,Missed Three Point Jumper,25,53
+16:06,Morgan State,Sherwyn Devonish-Prince Jr.,Defensive Rebound,25,53
+16:04,Virginia,Kyle Guy,Foul,25,53
+16:04,Morgan State,LaPri McCray-Pace,Missed Layup,25,53
+16:04,Morgan State,LaPri McCray-Pace,Offensive Rebound,25,53
+15:36,Morgan State,Isaiah Burke,Missed Three Point Jumper,25,53
+15:36,Morgan State,Victor Curry,Offensive Rebound,25,53
+15:27,Morgan State,Victor Curry,Missed Jumper,25,53
+15:27,Morgan State,Malik Miller,Offensive Rebound,25,53
+15:18,Morgan State,Martez Cameron,Missed Jumper,25,53
+15:18,Virginia,Jack Salt,Defensive Rebound,25,53
+15:01,Virginia,Kyle Guy,Missed Three Point Jumper,25,53
+15:01,Morgan State,Morgan State,Defensive Rebound,25,53
+14:57,Virginia,None,None,25,53
+14:47,Morgan State,Isaiah Burke,Turnover,25,53
+14:40,Morgan State,LaPri McCray-Pace,Foul,25,53
+14:28,Virginia,De'Andre Hunter,Missed Layup,25,53
+14:28,Morgan State,Malik Miller,Defensive Rebound,25,53
+14:02,Morgan State,Isaiah Burke,Missed Three Point Jumper,25,53
+14:02,Virginia,Braxton Key,Defensive Rebound,25,53
+13:51,Virginia,Braxton Key,Turnover,25,53
+13:51,Morgan State,LaPri McCray-Pace,Steal,25,53
+13:51,Morgan State,Isaiah Burke,Turnover,25,53
+13:51,Virginia,Braxton Key,Steal,25,53
+13:45,Virginia,Kyle Guy,Missed Layup,25,53
+13:45,Morgan State,Malik Miller,Block,25,53
+13:45,Virginia,Virginia,Offensive Rebound,25,53
+13:35,Virginia,Kihei Clark,Missed Three Point Jumper,25,53
+13:35,Morgan State,LaPri McCray-Pace,Defensive Rebound,25,53
+13:17,Morgan State,LaPri McCray-Pace,Missed Jumper,25,53
+13:17,Virginia,Braxton Key,Defensive Rebound,25,53
+13:10,Virginia,Kyle Guy,Missed Three Point Jumper,25,53
+13:10,Morgan State,LaPri McCray-Pace,Defensive Rebound,25,53
+12:47,Morgan State,Malik Miller,Jumper,27,53
+12:16,Virginia,Ty Jerome,Missed Three Point Jumper,27,53
+12:16,Virginia,Braxton Key,Offensive Rebound,27,53
+12:07,Virginia,Braxton Key,Missed Layup,27,53
+12:07,Morgan State,Martez Cameron,Defensive Rebound,27,53
+11:57,Morgan State,LaPri McCray-Pace,Turnover,27,53
+11:57,Virginia,Kyle Guy,Steal,27,53
+11:51,Virginia,De'Andre Hunter,Layup,27,55
+11:36,Morgan State,Malik Miller,Missed Jumper,27,55
+11:36,Virginia,Virginia,Defensive Rebound,27,55
+11:31,Virginia,None,None,27,55
+11:13,Virginia,Kyle Guy,Three Point Jumper,27,58
+10:51,Morgan State,Martez Cameron,Missed Three Point Jumper,27,58
+10:51,Virginia,Kyle Guy,Defensive Rebound,27,58
+10:20,Virginia,Kyle Guy,Turnover,27,58
+9:57,Virginia,Braxton Key,Foul,27,58
+9:57,Morgan State,Victor Curry,Free Throw,28,58
+9:57,Morgan State,Victor Curry,Missed Free Throw,28,58
+9:57,Virginia,Braxton Key,Defensive Rebound,28,58
+9:29,Virginia,Kihei Clark,Missed Three Point Jumper,28,58
+9:29,Morgan State,Victor Curry,Defensive Rebound,28,58
+9:20,Morgan State,Sherwyn Devonish-Prince Jr.,Foul,28,58
+9:20,Morgan State,Sherwyn Devonish-Prince Jr.,Turnover,28,58
+9:02,Morgan State,Sherwyn Devonish-Prince Jr.,Foul,28,58
+8:53,Virginia,Kyle Guy,Jumper,28,60
+8:28,Morgan State,David Syfax,Missed Three Point Jumper,28,60
+8:28,Virginia,Jay Huff,Block,28,60
+8:28,Morgan State,Morgan State,Offensive Rebound,28,60
+8:20,Morgan State,Malik Miller,Missed Three Point Jumper,28,60
+8:20,Virginia,Ty Jerome,Defensive Rebound,28,60
+8:08,Virginia,Kyle Guy,Turnover,28,60
+8:08,Morgan State,Victor Curry,Steal,28,60
+7:49,Virginia,None,None,28,60
+7:38,Morgan State,Tyler Streeter,Missed Jumper,28,60
+7:38,Virginia,Jay Huff,Block,28,60
+7:38,Morgan State,None,Team Rebound,28,60
+7:36,Morgan State,Morgan State ,Turnover,28,60
+7:15,Morgan State,Antonio Gillespie,Foul,28,60
+7:15,Virginia,Marco Anthony,Free Throw,28,61
+7:15,Virginia,Marco Anthony,Free Throw,28,62
+6:49,Morgan State,Victor Curry,Missed Jumper,28,62
+6:49,Virginia,Mamadi Diakite,Defensive Rebound,28,62
+6:38,Virginia,Mamadi Diakite,Turnover,28,62
+6:38,Morgan State,Antonio Gillespie,Steal,28,62
+6:34,Morgan State,Antonio Gillespie,Missed Jumper,28,62
+6:34,Virginia,Jay Huff,Defensive Rebound,28,62
+6:05,Virginia,Kody Stattmann,Missed Three Point Jumper,28,62
+6:05,Morgan State,None,Team Rebound,28,62
+6:02,Virginia,Mamadi Diakite,Foul,28,62
+5:49,Morgan State,Antonio Gillespie,Missed Three Point Jumper,28,62
+5:49,Virginia,Kihei Clark,Defensive Rebound,28,62
+5:20,Morgan State,Victor Curry,Foul,28,62
+5:20,Virginia,Kody Stattmann,Free Throw,28,63
+5:20,Virginia,Kody Stattmann,Free Throw,28,64
+5:10,Morgan State,Martez Cameron,Missed Jumper,28,64
+5:10,Virginia,Mamadi Diakite,Defensive Rebound,28,64
+4:47,Virginia,Mamadi Diakite,Layup,28,66
+4:47,Morgan State,Victor Curry,Foul,28,66
+4:47,Virginia,Mamadi Diakite,Free Throw,28,67
+4:37,Virginia,Kody Stattmann,Foul,28,67
+4:37,Morgan State,Malik Miller,Missed Free Throw,28,67
+4:37,Morgan State,None,Team Rebound,28,67
+4:37,Morgan State,Malik Miller,Free Throw,29,67
+4:23,Virginia,Marco Anthony,Missed Three Point Jumper,29,67
+4:23,Morgan State,Victor Curry,Defensive Rebound,29,67
+4:11,Morgan State,Antonio Gillespie,Missed Three Point Jumper,29,67
+4:11,Virginia,Marco Anthony,Defensive Rebound,29,67
+4:03,Morgan State,Martez Cameron,Foul,29,67
+4:03,Virginia,Jayden Nixon,Free Throw,29,68
+4:03,Virginia,Jayden Nixon,Missed Free Throw,29,68
+4:03,Morgan State,Malik Miller,Defensive Rebound,29,68
+4:03,Virginia,Jay Huff,Foul,29,68
+3:56,Virginia,Jayden Nixon,Foul,29,68
+3:56,Virginia,None,None,29,68
+3:56,Morgan State,Sherwyn Devonish-Prince Jr.,Free Throw,30,68
+3:56,Morgan State,Sherwyn Devonish-Prince Jr.,Free Throw,31,68
+3:40,Virginia,Marco Anthony,Jumper,31,70
+3:27,Morgan State,Tyler Streeter,Missed Jumper,31,70
+3:27,Virginia,Marco Anthony,Defensive Rebound,31,70
+3:22,Virginia,Marco Anthony,Turnover,31,70
+3:22,Morgan State,Malik Miller,Steal,31,70
+3:17,Virginia,Marco Anthony,Foul,31,70
+3:17,Morgan State,Malik Miller,Free Throw,32,70
+3:17,Morgan State,Malik Miller,Free Throw,33,70
+3:17,Virginia,None,None,33,70
+3:04,Virginia,Marco Anthony,Jumper,33,72
+2:48,Virginia,Jayden Nixon,Foul,33,72
+2:48,Morgan State,Isaiah Burke,Free Throw,34,72
+2:48,Morgan State,Isaiah Burke,Free Throw,35,72
+2:35,Virginia,Kody Stattmann,Jumper,35,74
+2:20,Morgan State,Isaiah Burke,Missed Jumper,35,74
+2:20,Morgan State,Victor Curry,Offensive Rebound,35,74
+2:13,Morgan State,None,None,35,74
+2:05,Morgan State,Sherwyn Devonish-Prince Jr.,Missed Layup,35,74
+2:05,Morgan State,Morgan State,Offensive Rebound,35,74
+1:59,Morgan State,Tyler Streeter,Jumper,37,74
+1:44,Morgan State,Malik Miller,Foul,37,74
+1:44,Virginia,Kody Stattmann,Free Throw,37,75
+1:44,Virginia,Kody Stattmann,Free Throw,37,76
+1:29,Morgan State,Victor Curry,Layup,39,76
+1:12,Virginia,Jayden Nixon,Missed Layup,39,76
+1:12,Morgan State,Malik Miller,Block,39,76
+1:12,Morgan State,Sherwyn Devonish-Prince Jr.,Defensive Rebound,39,76
+1:10,Virginia,Jayden Nixon,Foul,39,76
+1:10,Morgan State,Sherwyn Devonish-Prince Jr.,Free Throw,40,76
+1:10,Morgan State,Sherwyn Devonish-Prince Jr.,Free Throw,41,76
+1:06,Virginia,Austin Katstra,Dunk,41,78
+0:56,Morgan State,Isaiah Burke,Missed Jumper,41,78
+0:56,Virginia,Kody Stattmann,Defensive Rebound,41,78
+0:40,Morgan State,Tyler Streeter,Foul,41,78
+0:40,Virginia,Grant Kersey,Free Throw,41,79
+0:40,Virginia,Grant Kersey,Free Throw,41,80
+0:35,Morgan State,Tyler Streeter,Missed Jumper,41,80
+0:35,Morgan State,Victor Curry,Offensive Rebound,41,80
+0:31,Virginia,Austin Katstra,Foul,41,80
+0:31,Morgan State,Victor Curry,Free Throw,42,80
+0:31,Morgan State,Victor Curry,Free Throw,43,80
+0:27,Virginia,Grant Kersey,Layup,43,82
+0:27,Morgan State,Isaiah Burke,Foul,43,82
+0:27,Virginia,Grant Kersey,Free Throw,43,83
+0:21,Morgan State,Malik Miller,Layup,45,83
+0:00,Virginia,None,None,45,83

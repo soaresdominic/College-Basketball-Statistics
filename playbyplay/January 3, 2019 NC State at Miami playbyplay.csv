@@ -1,0 +1,360 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Miami,None,None,0,0
+19:53,Miami,Ebuka Izundu,Missed Jumper,0,0
+19:53,Miami,Ebuka Izundu,Offensive Rebound,0,0
+19:53,Miami,Dejan Vasiljevic,Missed Layup,0,0
+19:53,Miami,Ebuka Izundu,Offensive Rebound,0,0
+19:40,Miami,Ebuka Izundu,Jumper,0,2
+19:19,NC State,Torin Dorn,Missed Three Point Jumper,0,2
+19:19,NC State,Wyatt Walker,Offensive Rebound,0,2
+19:13,NC State,Braxton Beverly,Missed Three Point Jumper,0,2
+19:13,Miami,Miami,Defensive Rebound,0,2
+18:51,Miami,Ebuka Izundu,Jumper,0,4
+18:32,NC State,Torin Dorn,Jumper,2,4
+18:14,Miami,Chris Lykes,Three Point Jumper,2,7
+17:54,NC State,Devon Daniels,Missed Jumper,2,7
+17:54,Miami,Anthony Lawrence II,Block,2,7
+17:54,NC State,NC State,Offensive Rebound,2,7
+17:52,NC State,C.J. Bryce,Missed Three Point Jumper,2,7
+17:52,NC State,Braxton Beverly,Offensive Rebound,2,7
+17:41,NC State,Torin Dorn,Missed Jumper,2,7
+17:41,NC State,C.J. Bryce,Offensive Rebound,2,7
+17:41,NC State,None,None,4,7
+17:22,NC State,Devon Daniels,Foul,4,7
+17:22,Miami,Dejan Vasiljevic,Free Throw,4,8
+17:22,Miami,Dejan Vasiljevic,Free Throw,4,9
+17:19,NC State,Devon Daniels,Three Point Jumper,7,9
+17:05,Miami,Zach Johnson,Missed Jumper,7,9
+17:05,NC State,Wyatt Walker,Defensive Rebound,7,9
+16:58,NC State,Wyatt Walker,Turnover,7,9
+16:58,Miami,Dejan Vasiljevic,Steal,7,9
+16:54,Miami,Anthony Lawrence II,Three Point Jumper,7,12
+16:40,NC State,C.J. Bryce,Jumper,9,12
+16:33,Miami,Sam Waardenburg,Missed Jumper,9,12
+16:33,NC State,Torin Dorn,Block,9,12
+16:33,NC State,C.J. Bryce,Defensive Rebound,9,12
+16:21,NC State,C.J. Bryce,Jumper,11,12
+16:04,NC State,Wyatt Walker,Foul,11,12
+16:04,Miami,Anthony Lawrence II,Turnover,11,12
+16:04,NC State,DJ Funderburk,Steal,11,12
+15:55,NC State,DJ Funderburk,Layup,13,12
+15:45,Miami,Anthony Mack,Layup,13,14
+15:36,NC State,DJ Funderburk,Foul,13,14
+15:36,NC State,DJ Funderburk,Turnover,13,14
+15:36,Miami,None,None,13,14
+15:17,Miami,Zach Johnson,Missed Jumper,13,14
+15:17,NC State,DJ Funderburk,Defensive Rebound,13,14
+15:07,NC State,Jericole Hellems,Missed Three Point Jumper,13,14
+15:07,NC State,Eric Lockett,Offensive Rebound,13,14
+14:46,NC State,Jericole Hellems,Three Point Jumper,16,14
+14:25,Miami,Anthony Lawrence II,Missed Jumper,16,14
+14:25,Miami,Ebuka Izundu,Offensive Rebound,16,14
+14:25,Miami,Ebuka Izundu,Missed Layup,16,14
+14:25,NC State,DJ Funderburk,Defensive Rebound,16,14
+14:09,NC State,Jericole Hellems,Missed Jumper,16,14
+14:09,NC State,Eric Lockett,Offensive Rebound,16,14
+14:02,NC State,Eric Lockett,Missed Jumper,16,14
+14:02,Miami,Zach Johnson,Defensive Rebound,16,14
+13:54,Miami,Chris Lykes,Missed Layup,16,14
+13:54,NC State,Jericole Hellems,Defensive Rebound,16,14
+13:45,NC State,Markell Johnson,Missed Three Point Jumper,16,14
+13:45,Miami,Anthony Lawrence II,Defensive Rebound,16,14
+13:34,Miami,Anthony Lawrence II,Three Point Jumper,16,17
+13:20,NC State,Markell Johnson,Turnover,16,17
+13:20,Miami,Zach Johnson,Steal,16,17
+13:15,Miami,Zach Johnson,Layup,16,19
+13:15,NC State,Markell Johnson,Foul,16,19
+13:15,Miami,Zach Johnson,Missed Free Throw,16,19
+13:15,NC State,Jericole Hellems,Defensive Rebound,16,19
+13:04,NC State,Wyatt Walker,Missed Jumper,16,19
+13:04,NC State,Wyatt Walker,Offensive Rebound,16,19
+13:04,NC State,None,None,16,19
+13:04,NC State,Wyatt Walker,Offensive Rebound,16,19
+13:00,Miami,Sam Waardenburg,Foul,16,19
+13:00,NC State,Wyatt Walker,Free Throw,17,19
+13:00,NC State,Wyatt Walker,Free Throw,18,19
+12:49,Miami,Anthony Mack,Missed Three Point Jumper,18,19
+12:49,NC State,Markell Johnson,Defensive Rebound,18,19
+12:30,NC State,Eric Lockett,Missed Three Point Jumper,18,19
+12:30,NC State,Braxton Beverly,Offensive Rebound,18,19
+12:21,NC State,Markell Johnson,Three Point Jumper,21,19
+12:03,NC State,Markell Johnson,Foul,21,19
+11:57,Miami,Dejan Vasiljevic,Missed Three Point Jumper,21,19
+11:57,NC State,C.J. Bryce,Defensive Rebound,21,19
+11:38,NC State,Braxton Beverly,Missed Three Point Jumper,21,19
+11:38,Miami,Zach Johnson,Defensive Rebound,21,19
+11:24,Miami,Chris Lykes,Jumper,21,21
+11:12,NC State,Devon Daniels,Jumper,23,21
+10:53,NC State,Wyatt Walker,Foul,23,21
+10:53,Miami,None,None,23,21
+10:37,Miami,Zach Johnson,Missed Three Point Jumper,23,21
+10:37,NC State,Braxton Beverly,Defensive Rebound,23,21
+10:31,NC State,None,None,23,21
+10:12,Miami,Anthony Lawrence II,Foul,23,21
+10:01,NC State,C.J. Bryce,Missed Three Point Jumper,23,21
+10:01,Miami,Zach Johnson,Defensive Rebound,23,21
+9:48,Miami,Zach Johnson,Layup,23,23
+9:40,NC State,Devon Daniels,Layup,25,23
+9:21,Miami,Zach Johnson,Turnover,25,23
+9:21,NC State,DJ Funderburk,Steal,25,23
+9:15,NC State,Devon Daniels,Dunk,27,23
+9:04,NC State,C.J. Bryce,Foul,27,23
+9:04,Miami,Chris Lykes,Free Throw,27,24
+9:04,Miami,Chris Lykes,Free Throw,27,25
+8:40,NC State,C.J. Bryce,Missed Jumper,27,25
+8:40,Miami,Ebuka Izundu,Defensive Rebound,27,25
+8:31,Miami,Chris Lykes,Turnover,27,25
+8:20,NC State,Braxton Beverly,Three Point Jumper,30,25
+7:57,Miami,Chris Lykes,Missed Jumper,30,25
+7:57,NC State,C.J. Bryce,Defensive Rebound,30,25
+7:47,NC State,Braxton Beverly,Missed Three Point Jumper,30,25
+7:47,Miami,Dejan Vasiljevic,Defensive Rebound,30,25
+7:35,Miami,Anthony Mack,Missed Three Point Jumper,30,25
+7:35,NC State,Devon Daniels,Defensive Rebound,30,25
+7:22,Miami,Ebuka Izundu,Foul,30,25
+7:22,Miami,None,None,30,25
+7:22,NC State,Devon Daniels,Missed Free Throw,30,25
+7:22,NC State,None,Team Rebound,30,25
+7:22,NC State,Devon Daniels,Free Throw,31,25
+7:06,Miami,Ebuka Izundu,Jumper,31,27
+6:35,NC State,Braxton Beverly,Missed Jumper,31,27
+6:35,Miami,Anthony Lawrence II,Defensive Rebound,31,27
+6:14,Miami,Anthony Lawrence II,Missed Jumper,31,27
+6:14,Miami,Anthony Lawrence II,Offensive Rebound,31,27
+6:11,NC State,Eric Lockett,Foul,31,27
+6:11,Miami,Anthony Lawrence II,Free Throw,31,28
+6:11,Miami,Anthony Lawrence II,Missed Free Throw,31,28
+6:11,NC State,Torin Dorn,Defensive Rebound,31,28
+5:53,NC State,Devon Daniels,Missed Jumper,31,28
+5:53,NC State,DJ Funderburk,Offensive Rebound,31,28
+5:51,Miami,Sam Waardenburg,Foul,31,28
+5:51,NC State,DJ Funderburk,Free Throw,32,28
+5:51,NC State,DJ Funderburk,Missed Free Throw,32,28
+5:51,NC State,NC State,Offensive Rebound,32,28
+5:46,NC State,DJ Funderburk,Three Point Jumper,35,28
+5:25,Miami,Ebuka Izundu,Missed Jumper,35,28
+5:25,NC State,DJ Funderburk,Block,35,28
+5:25,NC State,C.J. Bryce,Defensive Rebound,35,28
+5:15,NC State,C.J. Bryce,Foul,35,28
+5:15,NC State,C.J. Bryce,Turnover,35,28
+5:06,Miami,Anthony Lawrence II,Three Point Jumper,35,31
+5:00,NC State,Jericole Hellems,Missed Three Point Jumper,35,31
+5:00,Miami,Zach Johnson,Defensive Rebound,35,31
+4:55,Miami,Zach Johnson,Three Point Jumper,35,34
+4:26,NC State,Braxton Beverly,Foul,35,34
+4:26,NC State,Braxton Beverly,Turnover,35,34
+4:17,Miami,Anthony Mack,Missed Three Point Jumper,35,34
+4:17,Miami,Ebuka Izundu,Offensive Rebound,35,34
+4:12,Miami,Anthony Lawrence II,Missed Three Point Jumper,35,34
+4:12,Miami,Ebuka Izundu,Offensive Rebound,35,34
+3:55,NC State,DJ Funderburk,Foul,35,34
+3:55,Miami,None,None,35,34
+3:55,Miami,Zach Johnson,Missed Free Throw,35,34
+3:55,Miami,None,Team Rebound,35,34
+3:55,Miami,Zach Johnson,Missed Free Throw,35,34
+3:55,NC State,Torin Dorn,Defensive Rebound,35,34
+3:38,NC State,Torin Dorn,Turnover,35,34
+3:38,Miami,Zach Johnson,Steal,35,34
+3:36,NC State,DJ Funderburk,Foul,35,34
+3:36,Miami,Zach Johnson,Free Throw,35,35
+3:36,Miami,Zach Johnson,Missed Free Throw,35,35
+3:36,NC State,Torin Dorn,Defensive Rebound,35,35
+3:33,NC State,Braxton Beverly,Turnover,35,35
+3:33,Miami,Chris Lykes,Steal,35,35
+3:28,Miami,Chris Lykes,Layup,35,37
+3:14,NC State,Torin Dorn,Missed Three Point Jumper,35,37
+3:14,Miami,Anthony Lawrence II,Defensive Rebound,35,37
+3:05,Miami,Ebuka Izundu,Dunk,35,39
+2:51,NC State,Devon Daniels,Missed Jumper,35,39
+2:51,Miami,Anthony Lawrence II,Defensive Rebound,35,39
+2:41,Miami,None,None,35,39
+2:22,Miami,Anthony Lawrence II,Turnover,35,39
+2:22,NC State,Torin Dorn,Steal,35,39
+2:11,NC State,Jericole Hellems,Missed Jumper,35,39
+2:11,NC State,Wyatt Walker,Offensive Rebound,35,39
+2:06,NC State,Wyatt Walker,Layup,37,39
+1:47,Miami,Zach Johnson,Layup,37,41
+1:32,NC State,Jericole Hellems,Missed Three Point Jumper,37,41
+1:32,Miami,Anthony Mack,Defensive Rebound,37,41
+1:25,Miami,Chris Lykes,Layup,37,43
+1:11,NC State,Braxton Beverly,Turnover,37,43
+1:00,NC State,Jericole Hellems,Foul,37,43
+1:00,Miami,Anthony Lawrence II,Missed Free Throw,37,43
+1:00,Miami,None,Team Rebound,37,43
+1:00,Miami,Anthony Lawrence II,Missed Free Throw,37,43
+1:00,NC State,Devon Daniels,Defensive Rebound,37,43
+0:53,Miami,Zach Johnson,Foul,37,43
+0:44,NC State,Devon Daniels,Turnover,37,43
+0:34,Miami,Chris Lykes,Layup,37,45
+0:24,NC State,None,None,37,45
+0:03,NC State,Braxton Beverly,Missed Three Point Jumper,37,45
+0:03,NC State,NC State,Offensive Rebound,37,45
+0:00,Miami,None,None,37,45
+20:00,NC State,None,None,37,45
+19:43,NC State,Wyatt Walker,Layup,39,45
+19:11,Miami,Chris Lykes,Missed Jumper,39,45
+19:11,NC State,Devon Daniels,Defensive Rebound,39,45
+19:01,NC State,Devon Daniels,Three Point Jumper,42,45
+18:30,Miami,Ebuka Izundu,Missed Three Point Jumper,42,45
+18:30,NC State,C.J. Bryce,Defensive Rebound,42,45
+18:19,NC State,C.J. Bryce,Jumper,44,45
+18:06,Miami,Anthony Lawrence II,Jumper,44,47
+17:51,NC State,Markell Johnson,Turnover,44,47
+17:51,Miami,Anthony Lawrence II,Steal,44,47
+17:51,Miami,None,None,44,47
+17:45,Miami,Chris Lykes,Layup,44,49
+17:21,Miami,Dejan Vasiljevic,Foul,44,49
+17:12,NC State,Wyatt Walker,Dunk,46,49
+16:49,NC State,Wyatt Walker,Foul,46,49
+16:37,NC State,Devon Daniels,Foul,46,49
+16:37,Miami,Zach Johnson,Free Throw,46,50
+16:37,Miami,Zach Johnson,Free Throw,46,51
+16:37,Miami,Zach Johnson,Free Throw,46,52
+16:24,NC State,Markell Johnson,Three Point Jumper,49,52
+16:06,Miami,Chris Lykes,Three Point Jumper,49,55
+15:54,NC State,Markell Johnson,Three Point Jumper,52,55
+15:31,Miami,Zach Johnson,Missed Jumper,52,55
+15:31,NC State,C.J. Bryce,Defensive Rebound,52,55
+15:24,Miami,Sam Waardenburg,Foul,52,55
+15:24,Miami,None,None,52,55
+15:24,NC State,Devon Daniels,Free Throw,53,55
+15:24,NC State,Devon Daniels,Free Throw,54,55
+15:12,Miami,Zach Johnson,Three Point Jumper,54,58
+14:48,NC State,Markell Johnson,Turnover,54,58
+14:48,Miami,Anthony Mack,Steal,54,58
+14:43,NC State,Torin Dorn,Foul,54,58
+14:43,Miami,Zach Johnson,Missed Free Throw,54,58
+14:43,Miami,None,Team Rebound,54,58
+14:43,Miami,Zach Johnson,Free Throw,54,59
+14:33,NC State,Braxton Beverly,Turnover,54,59
+14:21,Miami,Zach Johnson,Jumper,54,61
+14:00,NC State,C.J. Bryce,Missed Three Point Jumper,54,61
+14:00,Miami,Ebuka Izundu,Defensive Rebound,54,61
+13:49,NC State,C.J. Bryce,Foul,54,61
+13:49,Miami,Chris Lykes,Free Throw,54,62
+13:49,Miami,Chris Lykes,Free Throw,54,63
+13:35,NC State,Braxton Beverly,Layup,56,63
+13:24,Miami,Anthony Mack,Missed Three Point Jumper,56,63
+13:24,NC State,Torin Dorn,Defensive Rebound,56,63
+13:16,NC State,Torin Dorn,Jumper,58,63
+13:16,Miami,Anthony Mack,Foul,58,63
+13:16,NC State,Torin Dorn,Missed Free Throw,58,63
+13:16,Miami,Dejan Vasiljevic,Defensive Rebound,58,63
+12:59,NC State,DJ Funderburk,Foul,58,63
+12:59,Miami,Ebuka Izundu,Free Throw,58,64
+12:59,Miami,Ebuka Izundu,Missed Free Throw,58,64
+12:59,NC State,Wyatt Walker,Defensive Rebound,58,64
+12:50,NC State,Braxton Beverly,Three Point Jumper,61,64
+12:15,Miami,Sam Waardenburg,Missed Three Point Jumper,61,64
+12:15,Miami,Ebuka Izundu,Offensive Rebound,61,64
+12:09,Miami,Anthony Mack,Three Point Jumper,61,67
+11:53,NC State,Wyatt Walker,Foul,61,67
+11:53,NC State,Wyatt Walker,Turnover,61,67
+11:53,Miami,None,None,61,67
+11:49,Miami,Sam Waardenburg,Turnover,61,67
+11:45,NC State,Wyatt Walker,Missed Layup,61,67
+11:45,NC State,Wyatt Walker,Offensive Rebound,61,67
+11:42,Miami,Ebuka Izundu,Foul,61,67
+11:42,NC State,Wyatt Walker,Free Throw,62,67
+11:42,NC State,Wyatt Walker,Missed Free Throw,62,67
+11:42,NC State,C.J. Bryce,Offensive Rebound,62,67
+11:42,NC State,C.J. Bryce,Missed Jumper,62,67
+11:42,Miami,Ebuka Izundu,Defensive Rebound,62,67
+11:19,Miami,Dejan Vasiljevic,Three Point Jumper,62,70
+10:54,NC State,C.J. Bryce,Missed Layup,62,70
+10:54,NC State,C.J. Bryce,Offensive Rebound,62,70
+10:54,NC State,Wyatt Walker,Missed Layup,62,70
+10:54,NC State,Wyatt Walker,Offensive Rebound,62,70
+10:41,NC State,Jericole Hellems,Missed Jumper,62,70
+10:41,Miami,Dejan Vasiljevic,Defensive Rebound,62,70
+10:33,NC State,Braxton Beverly,Foul,62,70
+10:33,Miami,Dejan Vasiljevic,Free Throw,62,71
+10:33,Miami,Dejan Vasiljevic,Missed Free Throw,62,71
+10:33,NC State,Torin Dorn,Defensive Rebound,62,71
+10:28,NC State,Devon Daniels,Layup,64,71
+9:55,Miami,Chris Lykes,Three Point Jumper,64,74
+9:30,NC State,Braxton Beverly,Three Point Jumper,67,74
+9:25,NC State,None,None,67,74
+9:02,Miami,Anthony Mack,Missed Three Point Jumper,67,74
+9:02,Miami,Ebuka Izundu,Offensive Rebound,67,74
+8:58,NC State,Devon Daniels,Foul,67,74
+8:58,Miami,Ebuka Izundu,Missed Free Throw,67,74
+8:58,NC State,Torin Dorn,Defensive Rebound,67,74
+8:44,NC State,Torin Dorn,Missed Layup,67,74
+8:44,Miami,Ebuka Izundu,Defensive Rebound,67,74
+8:33,Miami,Zach Johnson,Missed Three Point Jumper,67,74
+8:33,NC State,Markell Johnson,Defensive Rebound,67,74
+8:26,NC State,Torin Dorn,Layup,69,74
+8:26,Miami,Chris Lykes,Foul,69,74
+8:26,NC State,Torin Dorn,Free Throw,70,74
+8:09,Miami,Zach Johnson,Missed Jumper,70,74
+8:09,NC State,Braxton Beverly,Defensive Rebound,70,74
+7:42,NC State,Markell Johnson,Three Point Jumper,73,74
+7:19,Miami,Chris Lykes,Turnover,73,74
+7:19,NC State,Torin Dorn,Steal,73,74
+7:13,NC State,Torin Dorn,Missed Dunk,73,74
+7:13,Miami,Miami,Defensive Rebound,73,74
+7:11,Miami,None,None,73,74
+6:49,Miami,Dejan Vasiljevic,Missed Three Point Jumper,73,74
+6:49,NC State,Devon Daniels,Defensive Rebound,73,74
+6:38,NC State,Devon Daniels,Layup,75,74
+6:34,Miami,None,None,75,74
+6:22,Miami,Zach Johnson,Missed Layup,75,74
+6:22,NC State,Markell Johnson,Defensive Rebound,75,74
+6:09,NC State,Markell Johnson,Missed Three Point Jumper,75,74
+6:09,Miami,Anthony Lawrence II,Defensive Rebound,75,74
+5:58,Miami,Chris Lykes,Missed Three Point Jumper,75,74
+5:58,NC State,DJ Funderburk,Defensive Rebound,75,74
+5:43,NC State,DJ Funderburk,Jumper,77,74
+5:08,NC State,Braxton Beverly,Foul,77,74
+5:08,Miami,Ebuka Izundu,Free Throw,77,75
+5:08,Miami,Ebuka Izundu,Missed Free Throw,77,75
+5:08,NC State,Devon Daniels,Defensive Rebound,77,75
+5:01,NC State,Braxton Beverly,Missed Three Point Jumper,77,75
+5:01,Miami,Anthony Mack,Defensive Rebound,77,75
+4:41,NC State,DJ Funderburk,Foul,77,75
+4:41,Miami,Chris Lykes,Missed Free Throw,77,75
+4:41,Miami,None,Team Rebound,77,75
+4:41,Miami,Chris Lykes,Free Throw,77,76
+4:28,NC State,Markell Johnson,Layup,79,76
+4:10,Miami,Dejan Vasiljevic,Missed Three Point Jumper,79,76
+4:10,NC State,Markell Johnson,Defensive Rebound,79,76
+3:48,NC State,Braxton Beverly,Missed Three Point Jumper,79,76
+3:48,NC State,Wyatt Walker,Offensive Rebound,79,76
+3:46,Miami,Anthony Mack,Foul,79,76
+3:46,Miami,None,None,79,76
+3:38,NC State,Markell Johnson,Layup,81,76
+3:27,Miami,None,None,81,76
+3:13,Miami,Ebuka Izundu,Turnover,81,76
+2:48,NC State,Braxton Beverly,Missed Three Point Jumper,81,76
+2:48,NC State,Devon Daniels,Offensive Rebound,81,76
+2:42,NC State,Devon Daniels,Turnover,81,76
+2:15,Miami,Zach Johnson,Missed Jumper,81,76
+2:15,Miami,Zach Johnson,Offensive Rebound,81,76
+2:11,Miami,Zach Johnson,Layup,81,78
+1:50,NC State,Markell Johnson,Turnover,81,78
+1:47,Miami,Chris Lykes,Missed Jumper,81,78
+1:47,NC State,Devon Daniels,Defensive Rebound,81,78
+1:25,NC State,Torin Dorn,Missed Three Point Jumper,81,78
+1:25,NC State,Wyatt Walker,Offensive Rebound,81,78
+1:16,NC State,None,None,81,78
+0:56,NC State,Devon Daniels,Turnover,81,78
+0:56,Miami,Anthony Lawrence II,Steal,81,78
+0:36,Miami,Zach Johnson,Missed Layup,81,78
+0:36,NC State,Devon Daniels,Block,81,78
+0:36,NC State,Wyatt Walker,Defensive Rebound,81,78
+0:28,Miami,Chris Lykes,Foul,81,78
+0:28,NC State,Markell Johnson,Free Throw,82,78
+0:28,NC State,Markell Johnson,Free Throw,83,78
+0:23,Miami,Zach Johnson,Missed Three Point Jumper,83,78
+0:23,NC State,Devon Daniels,Defensive Rebound,83,78
+0:18,Miami,Chris Lykes,Foul,83,78
+0:18,NC State,Markell Johnson,Free Throw,84,78
+0:18,NC State,Markell Johnson,Free Throw,85,78
+0:17,Miami,Chris Lykes,Layup,85,80
+0:16,Miami,None,None,85,80
+0:08,Miami,Sam Waardenburg,Foul,85,80
+0:08,NC State,C.J. Bryce,Free Throw,86,80
+0:08,NC State,C.J. Bryce,Free Throw,87,80
+0:03,Miami,Chris Lykes,Layup,87,82
+0:00,Miami,None,None,87,82

@@ -1,0 +1,361 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas Tech,None,None,0,0
+19:47,Oklahoma State,Cameron McGriff,Foul,0,0
+19:27,Texas Tech,Jarrett Culver,Jumper,0,2
+19:05,Oklahoma State,Yor Anei,Missed Jumper,0,2
+19:05,Texas Tech,Tariq Owens,Defensive Rebound,0,2
+18:33,Texas Tech,Jarrett Culver,Missed Jumper,0,2
+18:33,Texas Tech,Texas Tech,Offensive Rebound,0,2
+18:25,Texas Tech,Jarrett Culver,Three Point Jumper,0,5
+18:04,Oklahoma State,Thomas Dziagwa,Three Point Jumper,3,5
+17:48,Texas Tech,Tariq Owens,Jumper,3,7
+17:28,Oklahoma State,Thomas Dziagwa,Missed Three Point Jumper,3,7
+17:28,Texas Tech,Davide Moretti,Defensive Rebound,3,7
+17:13,Texas Tech,Matt Mooney,Missed Three Point Jumper,3,7
+17:13,Oklahoma State,Yor Anei,Defensive Rebound,3,7
+17:05,Oklahoma State,Isaac Likekele,Missed Three Point Jumper,3,7
+17:05,Oklahoma State,Cameron McGriff,Offensive Rebound,3,7
+16:58,Oklahoma State,Lindy Waters III,Three Point Jumper,6,7
+16:38,Oklahoma State,Lindy Waters III,Foul,6,7
+16:35,Texas Tech,Deshawn Corprew,Missed Three Point Jumper,6,7
+16:35,Oklahoma State,Yor Anei,Defensive Rebound,6,7
+16:23,Oklahoma State,Yor Anei,Foul,6,7
+16:23,Oklahoma State,Yor Anei,Turnover,6,7
+16:08,Texas Tech,Davide Moretti,Turnover,6,7
+16:08,Oklahoma State,Cameron McGriff,Steal,6,7
+16:08,Oklahoma State,None,None,6,7
+15:44,Oklahoma State,Isaac Likekele,Turnover,6,7
+15:44,Texas Tech,Matt Mooney,Steal,6,7
+15:20,Texas Tech,Deshawn Corprew,Layup,6,9
+14:54,Oklahoma State,Curtis Jones,Missed Jumper,6,9
+14:54,Texas Tech,Norense Odiase,Defensive Rebound,6,9
+14:46,Texas Tech,Deshawn Corprew,Missed Three Point Jumper,6,9
+14:46,Oklahoma State,Curtis Jones,Defensive Rebound,6,9
+14:30,Oklahoma State,Thomas Dziagwa,Missed Three Point Jumper,6,9
+14:30,Texas Tech,Texas Tech,Defensive Rebound,6,9
+14:26,Texas Tech,None,None,6,9
+14:11,Texas Tech,Norense Odiase,Dunk,6,11
+13:48,Oklahoma State,Thomas Dziagwa,Missed Jumper,6,11
+13:48,Texas Tech,Jarrett Culver,Defensive Rebound,6,11
+13:34,Texas Tech,Deshawn Corprew,Layup,6,13
+13:17,Oklahoma State,Thomas Dziagwa,Three Point Jumper,9,13
+12:58,Texas Tech,Jarrett Culver,Missed Jumper,9,13
+12:58,Oklahoma State,Thomas Dziagwa,Defensive Rebound,9,13
+12:48,Oklahoma State,Curtis Jones,Missed Three Point Jumper,9,13
+12:48,Texas Tech,Brandone Francis,Defensive Rebound,9,13
+12:34,Texas Tech,Deshawn Corprew,Missed Jumper,9,13
+12:34,Oklahoma State,Yor Anei,Block,9,13
+12:34,Texas Tech,Deshawn Corprew,Offensive Rebound,9,13
+12:28,Texas Tech,Deshawn Corprew,Missed Layup,9,13
+12:28,Oklahoma State,Isaac Likekele,Defensive Rebound,9,13
+12:23,Texas Tech,Brandone Francis,Foul,9,13
+12:06,Oklahoma State,Yor Anei,Layup,11,13
+11:59,Texas Tech,Tariq Owens,Dunk,11,15
+11:59,Oklahoma State,Isaac Likekele,Foul,11,15
+11:59,Texas Tech,Tariq Owens,Free Throw,11,16
+11:55,Oklahoma State,Isaac Likekele,Missed Jumper,11,16
+11:55,Texas Tech,Jarrett Culver,Defensive Rebound,11,16
+11:51,Texas Tech,Kyler Edwards,Missed Three Point Jumper,11,16
+11:51,Oklahoma State,Oklahoma State,Defensive Rebound,11,16
+11:43,Texas Tech,None,None,11,16
+11:32,Oklahoma State,Cameron McGriff,Missed Jumper,11,16
+11:32,Texas Tech,Kyler Edwards,Defensive Rebound,11,16
+11:03,Texas Tech,Matt Mooney,Missed Jumper,11,16
+11:03,Texas Tech,Tariq Owens,Offensive Rebound,11,16
+11:01,Oklahoma State,Yor Anei,Foul,11,16
+10:40,Texas Tech,Davide Moretti,Three Point Jumper,11,19
+10:22,Oklahoma State,Thomas Dziagwa,Three Point Jumper,14,19
+10:03,Texas Tech,Tariq Owens,Missed Jumper,14,19
+10:03,Oklahoma State,Cameron McGriff,Defensive Rebound,14,19
+9:42,Texas Tech,Jarrett Culver,Foul,14,19
+9:42,Oklahoma State,Cameron McGriff,Free Throw,15,19
+9:42,Oklahoma State,Cameron McGriff,Free Throw,16,19
+9:24,Texas Tech,Tariq Owens,Dunk,16,21
+9:03,Oklahoma State,Isaac Likekele,Turnover,16,21
+9:03,Texas Tech,Tariq Owens,Steal,16,21
+8:46,Texas Tech,Jarrett Culver,Missed Layup,16,21
+8:46,Oklahoma State,Lindy Waters III,Defensive Rebound,16,21
+8:40,Oklahoma State,Lindy Waters III,Missed Three Point Jumper,16,21
+8:40,Texas Tech,Kyler Edwards,Defensive Rebound,16,21
+8:27,Texas Tech,Jarrett Culver,Missed Jumper,16,21
+8:27,Oklahoma State,Cameron McGriff,Defensive Rebound,16,21
+8:18,Oklahoma State,Lindy Waters III,Three Point Jumper,19,21
+7:56,Texas Tech,None,None,19,21
+7:47,Texas Tech,Norense Odiase,Dunk,19,23
+7:30,Texas Tech,Deshawn Corprew,Foul,19,23
+7:14,Oklahoma State,Curtis Jones,Missed Jumper,19,23
+7:14,Texas Tech,Norense Odiase,Defensive Rebound,19,23
+6:52,Texas Tech,Brandone Francis,Missed Jumper,19,23
+6:52,Oklahoma State,Isaac Likekele,Defensive Rebound,19,23
+6:43,Oklahoma State,Isaac Likekele,Missed Layup,19,23
+6:43,Texas Tech,Deshawn Corprew,Block,19,23
+6:43,Texas Tech,Norense Odiase,Defensive Rebound,19,23
+6:27,Texas Tech,Norense Odiase,Jumper,19,25
+6:15,Oklahoma State,Curtis Jones,Three Point Jumper,22,25
+5:53,Texas Tech,Matt Mooney,Layup,22,27
+5:35,Oklahoma State,Isaac Likekele,Missed Layup,22,27
+5:35,Texas Tech,Norense Odiase,Defensive Rebound,22,27
+5:08,Texas Tech,Deshawn Corprew,Turnover,22,27
+5:08,Oklahoma State,Isaac Likekele,Steal,22,27
+5:00,Oklahoma State,Cameron McGriff,Missed Layup,22,27
+5:00,Texas Tech,Deshawn Corprew,Defensive Rebound,22,27
+4:36,Oklahoma State,Isaac Likekele,Foul,22,27
+4:36,Texas Tech,Brandone Francis,Free Throw,22,28
+4:36,Texas Tech,Brandone Francis,Free Throw,22,29
+4:21,Oklahoma State,Thomas Dziagwa,Missed Jumper,22,29
+4:21,Texas Tech,Kyler Edwards,Defensive Rebound,22,29
+4:01,Oklahoma State,Lindy Waters III,Foul,22,29
+4:01,Texas Tech,Kyler Edwards,Free Throw,22,30
+4:01,Texas Tech,Kyler Edwards,Free Throw,22,31
+3:50,Oklahoma State,Lindy Waters III,Missed Three Point Jumper,22,31
+3:50,Texas Tech,Davide Moretti,Defensive Rebound,22,31
+3:35,Texas Tech,Jarrett Culver,Jumper,22,33
+3:11,Oklahoma State,Cameron McGriff,Jumper,24,33
+2:42,Texas Tech,Matt Mooney,Missed Three Point Jumper,24,33
+2:42,Oklahoma State,Cameron McGriff,Defensive Rebound,24,33
+2:33,Oklahoma State,Curtis Jones,Missed Three Point Jumper,24,33
+2:33,Oklahoma State,Oklahoma State,Offensive Rebound,24,33
+2:31,Oklahoma State,Cameron McGriff,Foul,24,33
+2:31,Texas Tech,None,None,24,33
+2:31,Texas Tech,Jarrett Culver,Free Throw,24,34
+2:31,Texas Tech,Jarrett Culver,Free Throw,24,35
+2:07,Oklahoma State,Curtis Jones,Missed Jumper,24,35
+2:07,Texas Tech,Brandone Francis,Defensive Rebound,24,35
+1:56,Texas Tech,Davide Moretti,Foul,24,35
+1:56,Texas Tech,Davide Moretti,Turnover,24,35
+1:32,Oklahoma State,Thomas Dziagwa,Turnover,24,35
+1:32,Texas Tech,Jarrett Culver,Steal,24,35
+1:14,Texas Tech,Jarrett Culver,Missed Jumper,24,35
+1:14,Texas Tech,Jarrett Culver,Offensive Rebound,24,35
+1:14,Texas Tech,Jarrett Culver,Missed Layup,24,35
+1:14,Texas Tech,Jarrett Culver,Offensive Rebound,24,35
+1:14,Texas Tech,Jarrett Culver,Missed Layup,24,35
+1:14,Texas Tech,Jarrett Culver,Offensive Rebound,24,35
+1:14,Texas Tech,None,None,24,35
+1:14,Texas Tech,Tariq Owens,Offensive Rebound,24,35
+1:13,Texas Tech,Tariq Owens,Layup,24,37
+1:13,Oklahoma State,None,None,24,37
+1:06,Oklahoma State,Curtis Jones,Missed Three Point Jumper,24,37
+1:06,Oklahoma State,Cameron McGriff,Offensive Rebound,24,37
+1:00,Oklahoma State,Thomas Dziagwa,Three Point Jumper,27,37
+0:38,Texas Tech,Jarrett Culver,Missed Three Point Jumper,27,37
+0:38,Oklahoma State,Yor Anei,Defensive Rebound,27,37
+0:10,Oklahoma State,Curtis Jones,Turnover,27,37
+0:10,Texas Tech,None,None,27,37
+0:04,Texas Tech,Kyler Edwards,Missed Three Point Jumper,27,37
+0:04,Texas Tech,Texas Tech,Offensive Rebound,27,37
+0:02,Texas Tech,Brandone Francis,Missed Three Point Jumper,27,37
+0:02,Texas Tech,Texas Tech,Offensive Rebound,27,37
+0:00,Texas Tech,None,None,27,37
+20:00,Texas Tech,None,None,27,37
+19:50,Oklahoma State,Thomas Dziagwa,Foul,27,37
+19:35,Texas Tech,Jarrett Culver,Missed Jumper,27,37
+19:35,Oklahoma State,Yor Anei,Defensive Rebound,27,37
+19:08,Oklahoma State,Cameron McGriff,Missed Three Point Jumper,27,37
+19:08,Texas Tech,Jarrett Culver,Defensive Rebound,27,37
+18:59,Texas Tech,Davide Moretti,Jumper,27,39
+18:40,Oklahoma State,Isaac Likekele,Turnover,27,39
+18:40,Texas Tech,Norense Odiase,Steal,27,39
+18:30,Texas Tech,Jarrett Culver,Layup,27,41
+18:22,Oklahoma State,None,None,27,41
+18:09,Oklahoma State,Thomas Dziagwa,Three Point Jumper,30,41
+17:55,Texas Tech,Matt Mooney,Missed Jumper,30,41
+17:55,Oklahoma State,Thomas Dziagwa,Defensive Rebound,30,41
+17:46,Oklahoma State,Curtis Jones,Three Point Jumper,33,41
+17:33,Oklahoma State,Curtis Jones,Foul,33,41
+17:19,Texas Tech,Brandone Francis,Jumper,33,43
+16:59,Texas Tech,Tariq Owens,Foul,33,43
+16:57,Texas Tech,Davide Moretti,Foul,33,43
+16:49,Oklahoma State,Lindy Waters III,Missed Jumper,33,43
+16:49,Texas Tech,Tariq Owens,Defensive Rebound,33,43
+16:43,Oklahoma State,Yor Anei,Foul,33,43
+16:33,Oklahoma State,Curtis Jones,Foul,33,43
+16:22,Texas Tech,Tariq Owens,Missed Dunk,33,43
+16:22,Texas Tech,Tariq Owens,Offensive Rebound,33,43
+16:18,Texas Tech,Tariq Owens,Layup,33,45
+16:10,Oklahoma State,Lindy Waters III,Missed Three Point Jumper,33,45
+16:10,Texas Tech,Brandone Francis,Defensive Rebound,33,45
+15:55,Oklahoma State,Thomas Dziagwa,Foul,33,45
+15:55,Texas Tech,None,None,33,45
+15:55,Texas Tech,Kyler Edwards,Free Throw,33,46
+15:55,Texas Tech,Kyler Edwards,Free Throw,33,47
+15:30,Oklahoma State,Curtis Jones,Missed Three Point Jumper,33,47
+15:30,Oklahoma State,Lindy Waters III,Offensive Rebound,33,47
+15:23,Oklahoma State,Lindy Waters III,Missed Layup,33,47
+15:23,Texas Tech,Brandone Francis,Block,33,47
+15:23,Oklahoma State,Curtis Jones,Offensive Rebound,33,47
+15:11,Oklahoma State,Curtis Jones,Layup,35,47
+15:09,Texas Tech,Tariq Owens,Foul,35,47
+15:09,Texas Tech,Tariq Owens,Turnover,35,47
+14:56,Texas Tech,Davide Moretti,Foul,35,47
+14:49,Oklahoma State,Lindy Waters III,Jumper,37,47
+14:49,Texas Tech,Matt Mooney,Foul,37,47
+14:49,Oklahoma State,Lindy Waters III,Free Throw,38,47
+14:37,Texas Tech,Kyler Edwards,Missed Three Point Jumper,38,47
+14:37,Oklahoma State,Cameron McGriff,Defensive Rebound,38,47
+14:19,Oklahoma State,Curtis Jones,Missed Jumper,38,47
+14:19,Texas Tech,Tariq Owens,Block,38,47
+14:19,Texas Tech,Jarrett Culver,Defensive Rebound,38,47
+14:16,Oklahoma State,Thomas Dziagwa,Foul,38,47
+13:53,Texas Tech,Tariq Owens,Missed Jumper,38,47
+13:53,Oklahoma State,Isaac Likekele,Defensive Rebound,38,47
+13:42,Oklahoma State,Isaac Likekele,Missed Layup,38,47
+13:42,Texas Tech,Tariq Owens,Block,38,47
+13:42,Oklahoma State,Isaac Likekele,Offensive Rebound,38,47
+13:24,Oklahoma State,Thomas Dziagwa,Three Point Jumper,41,47
+13:10,Oklahoma State,Cameron McGriff,Foul,41,47
+13:10,Texas Tech,Jarrett Culver,Free Throw,41,48
+13:10,Texas Tech,Jarrett Culver,Free Throw,41,49
+12:58,Oklahoma State,Isaac Likekele,Layup,43,49
+12:36,Texas Tech,Deshawn Corprew,Jumper,43,51
+12:15,Oklahoma State,Cameron McGriff,Missed Three Point Jumper,43,51
+12:15,Texas Tech,Kyler Edwards,Defensive Rebound,43,51
+12:02,Oklahoma State,Curtis Jones,Foul,43,51
+12:02,Texas Tech,Deshawn Corprew,Free Throw,43,52
+12:02,Texas Tech,Deshawn Corprew,Missed Free Throw,43,52
+12:02,Oklahoma State,Cameron McGriff,Defensive Rebound,43,52
+11:51,Oklahoma State,Cameron McGriff,Missed Jumper,43,52
+11:51,Texas Tech,Norense Odiase,Defensive Rebound,43,52
+11:42,Texas Tech,Jarrett Culver,Missed Three Point Jumper,43,52
+11:42,Oklahoma State,Oklahoma State,Defensive Rebound,43,52
+11:35,Texas Tech,None,None,43,52
+11:35,Texas Tech,Brandone Francis,Foul,43,52
+11:19,Oklahoma State,Isaac Likekele,Jumper,45,52
+11:19,Texas Tech,Kyler Edwards,Foul,45,52
+11:19,Oklahoma State,Isaac Likekele,Free Throw,46,52
+11:01,Texas Tech,Matt Mooney,Missed Layup,46,52
+11:01,Oklahoma State,Thomas Dziagwa,Defensive Rebound,46,52
+10:48,Oklahoma State,Cameron McGriff,Missed Three Point Jumper,46,52
+10:48,Texas Tech,Norense Odiase,Defensive Rebound,46,52
+10:20,Texas Tech,Norense Odiase,Layup,46,54
+10:06,Oklahoma State,Cameron McGriff,Turnover,46,54
+10:06,Texas Tech,Jarrett Culver,Steal,46,54
+10:05,Oklahoma State,Lindy Waters III,Foul,46,54
+10:05,Texas Tech,Jarrett Culver,Missed Free Throw,46,54
+10:05,Oklahoma State,Thomas Dziagwa,Defensive Rebound,46,54
+9:38,Texas Tech,Kyler Edwards,Foul,46,54
+9:38,Oklahoma State,Yor Anei,Free Throw,47,54
+9:38,Oklahoma State,Yor Anei,Missed Free Throw,47,54
+9:38,Texas Tech,Matt Mooney,Defensive Rebound,47,54
+9:11,Texas Tech,Davide Moretti,Missed Jumper,47,54
+9:11,Oklahoma State,Thomas Dziagwa,Defensive Rebound,47,54
+8:46,Oklahoma State,Cameron McGriff,Missed Jumper,47,54
+8:46,Texas Tech,Norense Odiase,Defensive Rebound,47,54
+8:36,Texas Tech,Matt Mooney,Missed Three Point Jumper,47,54
+8:36,Texas Tech,Norense Odiase,Offensive Rebound,47,54
+8:30,Texas Tech,Brandone Francis,Missed Three Point Jumper,47,54
+8:30,Texas Tech,Texas Tech,Offensive Rebound,47,54
+8:26,Oklahoma State,Yor Anei,Foul,47,54
+8:26,Texas Tech,Norense Odiase,Missed Free Throw,47,54
+8:26,Texas Tech,None,Team Rebound,47,54
+8:26,Texas Tech,Norense Odiase,Missed Free Throw,47,54
+8:26,Oklahoma State,Curtis Jones,Defensive Rebound,47,54
+8:07,Oklahoma State,Yor Anei,Foul,47,54
+8:07,Oklahoma State,Yor Anei,Turnover,47,54
+7:55,Oklahoma State,Lindy Waters III,Foul,47,54
+7:55,Texas Tech,None,None,47,54
+7:55,Texas Tech,Brandone Francis,Missed Free Throw,47,54
+7:55,Texas Tech,None,Team Rebound,47,54
+7:55,Texas Tech,Brandone Francis,Missed Free Throw,47,54
+7:55,Oklahoma State,Cameron McGriff,Defensive Rebound,47,54
+7:42,Texas Tech,Brandone Francis,Foul,47,54
+7:42,Oklahoma State,Isaac Likekele,Free Throw,48,54
+7:42,Oklahoma State,Isaac Likekele,Free Throw,49,54
+7:28,Texas Tech,Jarrett Culver,Jumper,49,56
+7:05,Oklahoma State,Cameron McGriff,Missed Jumper,49,56
+7:05,Texas Tech,Deshawn Corprew,Defensive Rebound,49,56
+6:42,Oklahoma State,Thomas Dziagwa,Foul,49,56
+6:42,Texas Tech,Davide Moretti,Free Throw,49,57
+6:42,Texas Tech,Davide Moretti,Free Throw,49,58
+6:26,Oklahoma State,Curtis Jones,Three Point Jumper,52,58
+5:48,Texas Tech,Texas Tech ,Turnover,52,58
+5:43,Oklahoma State,Lindy Waters III,Jumper,54,58
+5:16,Texas Tech,Jarrett Culver,Missed Three Point Jumper,54,58
+5:16,Oklahoma State,Lindy Waters III,Defensive Rebound,54,58
+4:57,Oklahoma State,None,None,54,58
+4:49,Oklahoma State,Thomas Dziagwa,Jumper,56,58
+4:28,Texas Tech,Jarrett Culver,Turnover,56,58
+4:28,Oklahoma State,Lindy Waters III,Steal,56,58
+4:04,Oklahoma State,Thomas Dziagwa,Turnover,56,58
+3:54,Texas Tech,Jarrett Culver,Foul,56,58
+3:54,Texas Tech,Jarrett Culver,Turnover,56,58
+3:54,Texas Tech,None,None,56,58
+3:34,Oklahoma State,Dee Mitchell,Three Point Jumper,59,58
+3:18,Oklahoma State,Curtis Jones,Foul,59,58
+3:18,Texas Tech,Davide Moretti,Free Throw,59,59
+3:18,Texas Tech,Davide Moretti,Free Throw,59,60
+3:11,Oklahoma State,Thomas Dziagwa,Turnover,59,60
+3:01,Texas Tech,Kyler Edwards,Missed Three Point Jumper,59,60
+3:01,Oklahoma State,Thomas Dziagwa,Defensive Rebound,59,60
+2:44,Oklahoma State,Lindy Waters III,Missed Jumper,59,60
+2:44,Texas Tech,Matt Mooney,Defensive Rebound,59,60
+2:25,Texas Tech,Davide Moretti,Three Point Jumper,59,63
+2:01,Oklahoma State,Cameron McGriff,Turnover,59,63
+1:49,Texas Tech,Jarrett Culver,Missed Layup,59,63
+1:49,Oklahoma State,Lindy Waters III,Defensive Rebound,59,63
+1:28,Oklahoma State,Lindy Waters III,Missed Jumper,59,63
+1:28,Texas Tech,Davide Moretti,Defensive Rebound,59,63
+1:13,Texas Tech,Jarrett Culver,Layup,59,65
+0:53,Oklahoma State,Lindy Waters III,Three Point Jumper,62,65
+0:43,Texas Tech,None,None,62,65
+0:28,Texas Tech,Jarrett Culver,Jumper,62,67
+0:28,Texas Tech,None,None,62,67
+0:25,Oklahoma State,None,None,62,67
+0:20,Oklahoma State,Lindy Waters III,Three Point Jumper,65,67
+0:18,Oklahoma State,Dee Mitchell,Foul,65,67
+0:18,Texas Tech,Davide Moretti,Free Throw,65,68
+0:18,Texas Tech,Davide Moretti,Free Throw,65,69
+0:11,Oklahoma State,Lindy Waters III,Three Point Jumper,68,69
+0:08,Oklahoma State,Dee Mitchell,Foul,68,69
+0:08,Texas Tech,Davide Moretti,Free Throw,68,70
+0:08,Texas Tech,None,None,68,70
+0:08,Texas Tech,Davide Moretti,Free Throw,68,71
+0:02,Oklahoma State,Lindy Waters III,Three Point Jumper,71,71
+0:00,Texas Tech,None,None,71,71
+5:00,Texas Tech,None,None,71,71
+4:45,Texas Tech,Tariq Owens,Dunk,71,73
+4:29,Oklahoma State,Lindy Waters III,Missed Jumper,71,73
+4:29,Texas Tech,Jarrett Culver,Defensive Rebound,71,73
+4:07,Texas Tech,Matt Mooney,Missed Jumper,71,73
+4:07,Oklahoma State,Cameron McGriff,Defensive Rebound,71,73
+3:45,Oklahoma State,Cameron McGriff,Jumper,73,73
+3:29,Texas Tech,Jarrett Culver,Missed Layup,73,73
+3:29,Texas Tech,Tariq Owens,Offensive Rebound,73,73
+3:26,Texas Tech,Tariq Owens,Layup,73,75
+3:08,Oklahoma State,Lindy Waters III,Missed Jumper,73,75
+3:08,Texas Tech,Brandone Francis,Defensive Rebound,73,75
+2:41,Texas Tech,Jarrett Culver,Missed Three Point Jumper,73,75
+2:41,Texas Tech,Texas Tech,Offensive Rebound,73,75
+2:30,Texas Tech,Matt Mooney,Missed Three Point Jumper,73,75
+2:30,Texas Tech,Texas Tech,Offensive Rebound,73,75
+2:30,Oklahoma State,Dee Mitchell,Foul,73,75
+2:30,Texas Tech,Tariq Owens,Missed Free Throw,73,75
+2:30,Texas Tech,None,Team Rebound,73,75
+2:30,Texas Tech,Tariq Owens,Free Throw,73,76
+2:11,Oklahoma State,Curtis Jones,Missed Jumper,73,76
+2:11,Texas Tech,Jarrett Culver,Defensive Rebound,73,76
+1:40,Texas Tech,Brandone Francis,Missed Jumper,73,76
+1:40,Oklahoma State,Cameron McGriff,Defensive Rebound,73,76
+1:38,Texas Tech,Tariq Owens,Foul,73,76
+1:38,Oklahoma State,Cameron McGriff,Free Throw,74,76
+1:38,Oklahoma State,Cameron McGriff,Free Throw,75,76
+1:13,Texas Tech,Matt Mooney,Layup,75,78
+0:55,Oklahoma State,Lindy Waters III,Three Point Jumper,78,78
+0:34,Texas Tech,Matt Mooney,Layup,78,80
+0:21,Oklahoma State,Cameron McGriff,Missed Three Point Jumper,78,80
+0:21,Texas Tech,Jarrett Culver,Defensive Rebound,78,80
+0:17,Oklahoma State,Dee Mitchell,Foul,78,80
+0:17,Texas Tech,Davide Moretti,Free Throw,78,81
+0:17,Texas Tech,Davide Moretti,Free Throw,78,82
+0:14,Oklahoma State,None,None,78,82
+0:08,Texas Tech,Tariq Owens,Foul,78,82
+0:08,Oklahoma State,Dee Mitchell,Free Throw,79,82
+0:08,Oklahoma State,Dee Mitchell,Missed Free Throw,79,82
+0:08,Oklahoma State,None,Team Rebound,79,82
+0:08,Oklahoma State,Dee Mitchell,Free Throw,80,82
+0:07,Oklahoma State,Isaac Likekele,Foul,80,82
+0:07,Texas Tech,Davide Moretti,Free Throw,80,83
+0:07,Texas Tech,Davide Moretti,Free Throw,80,84
+0:03,Oklahoma State,Thomas Dziagwa,Missed Three Point Jumper,80,84
+0:03,Oklahoma State,Cameron McGriff,Offensive Rebound,80,84
+0:00,Texas Tech,None,None,80,84

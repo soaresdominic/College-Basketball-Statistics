@@ -1,0 +1,277 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Michigan,None,None,0,0
+19:45,Michigan,Zavier Simpson,Layup,0,2
+19:30,Indiana,Romeo Langford,Turnover,0,2
+19:30,Michigan,Charles Matthews,Steal,0,2
+19:27,Indiana,Romeo Langford,Foul,0,2
+19:16,Michigan,Jordan Poole,Jumper,0,4
+18:57,Indiana,Juwan Morgan,Missed Three Point Jumper,0,4
+18:57,Michigan,Jordan Poole,Defensive Rebound,0,4
+18:40,Indiana,Juwan Morgan,Foul,0,4
+18:28,Michigan,Jon Teske,Missed Jumper,0,4
+18:28,Indiana,Devonte Green,Defensive Rebound,0,4
+18:07,Indiana,Juwan Morgan,Missed Three Point Jumper,0,4
+18:07,Indiana,Justin Smith,Offensive Rebound,0,4
+18:07,Indiana,Justin Smith,Dunk,2,4
+17:39,Michigan,Ignas Brazdeikis,Layup,2,6
+17:30,Indiana,Devonte Green,Jumper,4,6
+17:08,Michigan,Charles Matthews,Three Point Jumper,4,9
+16:45,Indiana,Romeo Langford,Missed Layup,4,9
+16:45,Indiana,Indiana,Offensive Rebound,4,9
+16:37,Indiana,Devonte Green,Missed Jumper,4,9
+16:37,Indiana,Justin Smith,Offensive Rebound,4,9
+16:29,Indiana,Devonte Green,Layup,6,9
+16:13,Indiana,Juwan Morgan,Foul,6,9
+16:02,Michigan,Charles Matthews,Dunk,6,11
+16:02,Indiana,Romeo Langford,Foul,6,11
+16:02,Michigan,Charles Matthews,Missed Free Throw,6,11
+16:02,Indiana,Aljami Durham,Defensive Rebound,6,11
+15:42,Indiana,Aljami Durham,Three Point Jumper,9,11
+15:18,Michigan,Jordan Poole,Three Point Jumper,9,14
+15:03,Indiana,Zach McRoberts,Turnover,9,14
+15:03,Michigan,None,None,9,14
+14:47,Michigan,Jordan Poole,Three Point Jumper,9,17
+14:25,Indiana,Aljami Durham,Turnover,9,17
+14:25,Michigan,Charles Matthews,Steal,9,17
+14:19,Michigan,Charles Matthews,Layup,9,19
+14:00,Indiana,Devonte Green,Missed Three Point Jumper,9,19
+14:00,Michigan,Ignas Brazdeikis,Defensive Rebound,9,19
+13:36,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,9,19
+13:36,Michigan,Michigan,Offensive Rebound,9,19
+13:23,Michigan,Austin Davis,Layup,9,21
+13:22,Indiana,None,None,9,21
+13:11,Indiana,Zach McRoberts,Turnover,9,21
+13:11,Michigan,Charles Matthews,Steal,9,21
+13:07,Michigan,Charles Matthews,Dunk,9,23
+13:07,Michigan,Austin Davis,Foul,9,23
+12:35,Indiana,Romeo Langford,Missed Jumper,9,23
+12:35,Indiana,Juwan Morgan,Offensive Rebound,9,23
+12:30,Indiana,Juwan Morgan,Missed Layup,9,23
+12:30,Michigan,Austin Davis,Defensive Rebound,9,23
+12:17,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,9,23
+12:17,Indiana,Devonte Green,Defensive Rebound,9,23
+12:05,Michigan,Ignas Brazdeikis,Foul,9,23
+12:03,Indiana,Juwan Morgan,Missed Layup,9,23
+12:03,Michigan,Jordan Poole,Defensive Rebound,9,23
+11:48,Michigan,Jordan Poole,Turnover,9,23
+11:48,Indiana,Justin Smith,Steal,9,23
+11:37,Indiana,Juwan Morgan,Layup,11,23
+11:16,Michigan,Jon Teske,Jumper,11,25
+10:57,Indiana,Romeo Langford,Layup,13,25
+10:42,Michigan,Zavier Simpson,Layup,13,27
+10:28,Indiana,Romeo Langford,Missed Jumper,13,27
+10:28,Michigan,Jordan Poole,Defensive Rebound,13,27
+10:15,Michigan,Charles Matthews,Three Point Jumper,13,30
+9:46,Indiana,Juwan Morgan,Missed Jumper,13,30
+9:46,Michigan,Jon Teske,Block,13,30
+9:46,Indiana,Indiana,Offensive Rebound,13,30
+9:41,Michigan,None,None,13,30
+9:40,Michigan,Austin Davis,Foul,13,30
+9:40,Indiana,Juwan Morgan,Missed Free Throw,13,30
+9:40,Indiana,None,Team Rebound,13,30
+9:40,Indiana,Juwan Morgan,Missed Free Throw,13,30
+9:40,Michigan,Brandon Johns Jr.,Defensive Rebound,13,30
+9:28,Michigan,Jordan Poole,Missed Jumper,13,30
+9:28,Indiana,Juwan Morgan,Defensive Rebound,13,30
+9:14,Indiana,Juwan Morgan,Missed Layup,13,30
+9:14,Michigan,Brandon Johns Jr.,Defensive Rebound,13,30
+8:51,Michigan,Ignas Brazdeikis,Missed Dunk,13,30
+8:51,Indiana,Juwan Morgan,Defensive Rebound,13,30
+8:40,Indiana,Romeo Langford,Missed Layup,13,30
+8:40,Michigan,Brandon Johns Jr.,Defensive Rebound,13,30
+8:31,Michigan,Brandon Johns Jr.,Layup,13,32
+8:17,Indiana,Juwan Morgan,Layup,15,32
+8:17,Michigan,Ignas Brazdeikis,Foul,15,32
+8:17,Indiana,Juwan Morgan,Free Throw,16,32
+8:06,Michigan,Jordan Poole,Layup,16,34
+7:47,Indiana,Aljami Durham,Jumper,18,34
+7:21,Michigan,Zavier Simpson,Missed Three Point Jumper,18,34
+7:21,Michigan,Brandon Johns Jr.,Offensive Rebound,18,34
+7:04,Michigan,Charles Matthews,Missed Jumper,18,34
+7:04,Indiana,Aljami Durham,Defensive Rebound,18,34
+6:57,Michigan,Brandon Johns Jr.,Foul,18,34
+6:57,Michigan,None,None,18,34
+6:41,Indiana,Juwan Morgan,Missed Jumper,18,34
+6:41,Indiana,Romeo Langford,Offensive Rebound,18,34
+6:41,Indiana,None,None,20,34
+6:05,Michigan,Michigan ,Turnover,20,34
+5:48,Indiana,Juwan Morgan,Turnover,20,34
+5:24,Michigan,Jordan Poole,Jumper,20,36
+4:59,Indiana,Devonte Green,Jumper,22,36
+4:31,Michigan,Zavier Simpson,Missed Layup,22,36
+4:31,Indiana,Justin Smith,Defensive Rebound,22,36
+4:12,Indiana,Evan Fitzner,Missed Three Point Jumper,22,36
+4:12,Michigan,Eli Brooks,Defensive Rebound,22,36
+3:57,Michigan,Eli Brooks,Missed Three Point Jumper,22,36
+3:57,Michigan,Charles Matthews,Offensive Rebound,22,36
+3:50,Michigan,Charles Matthews,Dunk,22,38
+3:35,Michigan,Zavier Simpson,Foul,22,38
+3:35,Michigan,None,None,22,38
+3:28,Indiana,Juwan Morgan,Layup,24,38
+2:59,Michigan,Charles Matthews,Missed Jumper,24,38
+2:59,Michigan,Charles Matthews,Offensive Rebound,24,38
+2:55,Indiana,Aljami Durham,Foul,24,38
+2:55,Michigan,Charles Matthews,Free Throw,24,39
+2:55,Michigan,Charles Matthews,Free Throw,24,40
+2:41,Indiana,Juwan Morgan,Missed Layup,24,40
+2:41,Michigan,Jon Teske,Block,24,40
+2:41,Michigan,Eli Brooks,Defensive Rebound,24,40
+2:28,Michigan,Charles Matthews,Missed Jumper,24,40
+2:28,Indiana,Juwan Morgan,Defensive Rebound,24,40
+2:17,Indiana,Aljami Durham,Missed Jumper,24,40
+2:17,Michigan,Charles Matthews,Defensive Rebound,24,40
+1:56,Indiana,Devonte Green,Foul,24,40
+1:56,Michigan,Jon Teske,Free Throw,24,41
+1:56,Michigan,Jon Teske,Missed Free Throw,24,41
+1:56,Indiana,Justin Smith,Defensive Rebound,24,41
+1:46,Indiana,Juwan Morgan,Three Point Jumper,27,41
+1:20,Michigan,Eli Brooks,Missed Jumper,27,41
+1:20,Michigan,Jon Teske,Offensive Rebound,27,41
+1:20,Michigan,Jon Teske,Dunk,27,43
+0:57,Michigan,Jon Teske,Foul,27,43
+0:57,Indiana,Romeo Langford,Free Throw,28,43
+0:57,Indiana,Romeo Langford,Free Throw,29,43
+0:46,Michigan,Jordan Poole,Missed Three Point Jumper,29,43
+0:46,Indiana,Justin Smith,Defensive Rebound,29,43
+0:16,Indiana,Clifton Moore,Missed Jumper,29,43
+0:16,Michigan,Jordan Poole,Defensive Rebound,29,43
+0:03,Indiana,Justin Smith,Foul,29,43
+0:03,Michigan,Jon Teske,Missed Free Throw,29,43
+0:03,Michigan,None,Team Rebound,29,43
+0:03,Michigan,Jon Teske,Free Throw,29,44
+0:00,Michigan,None,None,29,44
+20:00,Indiana,None,None,29,44
+19:38,Indiana,Juwan Morgan,Layup,31,44
+19:20,Michigan,Jordan Poole,Layup,31,46
+19:02,Michigan,Jon Teske,Foul,31,46
+19:02,Indiana,Juwan Morgan,Free Throw,32,46
+19:02,Indiana,Juwan Morgan,Missed Free Throw,32,46
+19:02,Michigan,Jon Teske,Defensive Rebound,32,46
+18:46,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,32,46
+18:46,Indiana,Devonte Green,Defensive Rebound,32,46
+18:35,Michigan,Jon Teske,Foul,32,46
+18:35,Indiana,Juwan Morgan,Free Throw,33,46
+18:35,Indiana,Juwan Morgan,Free Throw,34,46
+18:08,Michigan,Zavier Simpson,Missed Three Point Jumper,34,46
+18:08,Indiana,Aljami Durham,Defensive Rebound,34,46
+17:55,Indiana,Devonte Green,Missed Three Point Jumper,34,46
+17:55,Michigan,Charles Matthews,Defensive Rebound,34,46
+17:27,Michigan,Charles Matthews,Missed Jumper,34,46
+17:27,Indiana,Devonte Green,Defensive Rebound,34,46
+17:17,Indiana,Justin Smith,Missed Layup,34,46
+17:17,Michigan,Zavier Simpson,Defensive Rebound,34,46
+17:08,Michigan,Zavier Simpson,Jumper,34,48
+16:46,Indiana,Aljami Durham,Missed Three Point Jumper,34,48
+16:46,Indiana,Juwan Morgan,Offensive Rebound,34,48
+16:44,Michigan,Austin Davis,Foul,34,48
+16:41,Indiana,Romeo Langford,Three Point Jumper,37,48
+16:19,Michigan,Ignas Brazdeikis,Jumper,37,50
+16:06,Indiana,Juwan Morgan,Layup,39,50
+15:46,Indiana,Juwan Morgan,Foul,39,50
+15:46,Michigan,None,None,39,50
+15:46,Michigan,Ignas Brazdeikis,Free Throw,39,51
+15:46,Michigan,Ignas Brazdeikis,Free Throw,39,52
+15:46,Michigan,Ignas Brazdeikis,Free Throw,39,53
+15:32,Indiana,Juwan Morgan,Missed Layup,39,53
+15:32,Michigan,Brandon Johns Jr.,Defensive Rebound,39,53
+15:03,Michigan,Ignas Brazdeikis,Missed Jumper,39,53
+15:03,Indiana,Romeo Langford,Defensive Rebound,39,53
+14:55,Indiana,Romeo Langford,Missed Three Point Jumper,39,53
+14:55,Michigan,Jordan Poole,Defensive Rebound,39,53
+14:36,Michigan,Zavier Simpson,Jumper,39,55
+14:18,Michigan,Ignas Brazdeikis,Foul,39,55
+14:18,Indiana,Aljami Durham,Missed Free Throw,39,55
+14:18,Indiana,None,Team Rebound,39,55
+14:18,Indiana,Aljami Durham,Free Throw,40,55
+13:57,Michigan,Jordan Poole,Missed Three Point Jumper,40,55
+13:57,Indiana,Justin Smith,Defensive Rebound,40,55
+13:46,Indiana,Juwan Morgan,Layup,42,55
+13:46,Michigan,Austin Davis,Foul,42,55
+13:46,Indiana,Juwan Morgan,Free Throw,43,55
+13:17,Michigan,Eli Brooks,Missed Jumper,43,55
+13:17,Indiana,Justin Smith,Defensive Rebound,43,55
+12:56,Indiana,Devonte Green,Three Point Jumper,46,55
+12:37,Indiana,Zach McRoberts,Foul,46,55
+12:37,Michigan,None,None,46,55
+12:18,Michigan,Zavier Simpson,Missed Layup,46,55
+12:18,Michigan,Charles Matthews,Missed Layup,46,55
+12:18,Michigan,Michigan,Offensive Rebound,46,55
+12:03,Michigan,Charles Matthews,Missed Layup,46,55
+12:03,Michigan,Brandon Johns Jr.,Offensive Rebound,46,55
+12:03,Michigan,Brandon Johns Jr.,Dunk,46,57
+11:45,Indiana,Romeo Langford,Layup,48,57
+11:13,Michigan,Eli Brooks,Turnover,48,57
+11:13,Michigan,None,None,48,57
+11:02,Indiana,Juwan Morgan,Missed Jumper,48,57
+11:02,Indiana,Romeo Langford,Offensive Rebound,48,57
+10:54,Indiana,Romeo Langford,Jumper,50,57
+10:35,Michigan,Zavier Simpson,Jumper,50,59
+10:17,Michigan,Jordan Poole,Foul,50,59
+10:09,Indiana,Juwan Morgan,Missed Three Point Jumper,50,59
+10:09,Michigan,Charles Matthews,Defensive Rebound,50,59
+9:57,Michigan,Charles Matthews,Layup,50,61
+9:30,Indiana,Aljami Durham,Missed Layup,50,61
+9:30,Michigan,Ignas Brazdeikis,Defensive Rebound,50,61
+9:01,Michigan,Charles Matthews,Missed Three Point Jumper,50,61
+9:01,Indiana,Zach McRoberts,Defensive Rebound,50,61
+8:46,Indiana,Juwan Morgan,Missed Jumper,50,61
+8:46,Indiana,Juwan Morgan,Offensive Rebound,50,61
+8:42,Indiana,Juwan Morgan,Turnover,50,61
+8:42,Michigan,Charles Matthews,Steal,50,61
+8:42,Indiana,Juwan Morgan,Foul,50,61
+8:16,Indiana,Zach McRoberts,Foul,50,61
+8:16,Michigan,Ignas Brazdeikis,Free Throw,50,62
+8:16,Michigan,Ignas Brazdeikis,Missed Free Throw,50,62
+8:16,Indiana,Romeo Langford,Defensive Rebound,50,62
+8:01,Michigan,Jon Teske,Foul,50,62
+8:01,Indiana,Romeo Langford,Free Throw,51,62
+8:01,Indiana,Romeo Langford,Free Throw,52,62
+7:49,Michigan,Zavier Simpson,Missed Jumper,52,62
+7:49,Indiana,Zach McRoberts,Defensive Rebound,52,62
+7:19,Michigan,Charles Matthews,Foul,52,62
+7:19,Michigan,None,None,52,62
+7:19,Indiana,Devonte Green,Missed Free Throw,52,62
+7:19,Indiana,Romeo Langford,Defensive Rebound,52,62
+7:04,Michigan,Brandon Johns Jr.,Missed Layup,52,62
+6:55,Michigan,Brandon Johns Jr.,Offensive Rebound,52,62
+6:55,Michigan,None,None,52,64
+6:48,Indiana,Clifton Moore,Foul,52,64
+6:29,Michigan,Brandon Johns Jr.,Dunk,52,66
+6:23,Indiana,Juwan Morgan,Missed Layup,52,66
+6:23,Michigan,Brandon Johns Jr.,Block,52,66
+6:23,Indiana,Romeo Langford,Offensive Rebound,52,66
+5:59,Michigan,Jordan Poole,Foul,52,66
+5:59,Indiana,Romeo Langford,Free Throw,53,66
+5:59,Indiana,Romeo Langford,Free Throw,54,66
+5:48,Michigan,Jordan Poole,Jumper,54,68
+5:28,Indiana,Evan Fitzner,Missed Jumper,54,68
+5:28,Indiana,Justin Smith,Offensive Rebound,54,68
+5:28,Indiana,None,None,56,68
+5:09,Michigan,Jordan Poole,Missed Three Point Jumper,56,68
+5:09,Indiana,Justin Smith,Defensive Rebound,56,68
+4:50,Indiana,Devonte Green,Missed Three Point Jumper,56,68
+4:50,Michigan,Brandon Johns Jr.,Defensive Rebound,56,68
+4:08,Michigan,Charles Matthews,Missed Jumper,56,68
+4:08,Indiana,Romeo Langford,Block,56,68
+4:08,Michigan,Charles Matthews,Offensive Rebound,56,68
+3:48,Indiana,Juwan Morgan,Jumper,58,68
+3:12,Indiana,Justin Smith,Foul,58,68
+3:12,Michigan,Ignas Brazdeikis,Free Throw,58,69
+3:12,Michigan,Ignas Brazdeikis,Free Throw,58,70
+3:00,Indiana,Juwan Morgan,Three Point Jumper,61,70
+2:32,Michigan,Jordan Poole,Layup,61,72
+2:16,Indiana,Romeo Langford,Missed Jumper,61,72
+2:16,Michigan,Jon Teske,Defensive Rebound,61,72
+1:52,Indiana,Devonte Green,Foul,61,72
+1:52,Michigan,Zavier Simpson,Free Throw,61,73
+1:52,Michigan,Zavier Simpson,Free Throw,61,74
+1:42,Indiana,Devonte Green,Missed Jumper,61,74
+1:42,Michigan,Jon Teske,Defensive Rebound,61,74
+1:13,Michigan,Jordan Poole,Missed Three Point Jumper,61,74
+1:13,Indiana,Juwan Morgan,Defensive Rebound,61,74
+1:04,Indiana,Juwan Morgan,Turnover,61,74
+0:37,Michigan,Jon Teske,Missed Three Point Jumper,61,74
+0:37,Indiana,Juwan Morgan,Defensive Rebound,61,74
+0:28,Indiana,Justin Smith,Layup,63,74
+0:27,Indiana,None,None,63,74
+0:00,Michigan,None,None,63,74

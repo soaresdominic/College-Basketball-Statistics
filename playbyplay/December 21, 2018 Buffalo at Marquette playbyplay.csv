@@ -1,0 +1,376 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Buffalo,None,None,0,0
+19:58,Buffalo,CJ Massinburg,Three Point Jumper,3,0
+19:37,Marquette,Theo John,Layup,3,2
+19:25,Marquette,Markus Howard,Foul,3,2
+19:25,Buffalo,Jayvon Graves,Missed Free Throw,3,2
+19:25,Buffalo,None,Team Rebound,3,2
+19:25,Buffalo,Jayvon Graves,Free Throw,4,2
+19:12,Marquette,Sam Hauser,Jumper,4,4
+18:52,Buffalo,Jeremy Harris,Three Point Jumper,7,4
+18:33,Marquette,Markus Howard,Missed Three Point Jumper,7,4
+18:33,Marquette,Markus Howard,Offensive Rebound,7,4
+18:33,Marquette,None,None,7,4
+18:33,Buffalo,Davonta Jordan,Defensive Rebound,7,4
+18:19,Buffalo,CJ Massinburg,Missed Three Point Jumper,7,4
+18:19,Marquette,Sam Hauser,Defensive Rebound,7,4
+18:12,Marquette,Markus Howard,Missed Layup,7,4
+18:12,Marquette,Marquette,Offensive Rebound,7,4
+18:05,Buffalo,Montell McRae,Foul,7,4
+18:05,Marquette,Theo John,Free Throw,7,5
+18:05,Marquette,Theo John,Free Throw,7,6
+17:54,Buffalo,Jayvon Graves,Dunk,9,6
+17:40,Marquette,Sam Hauser,Jumper,9,8
+17:30,Buffalo,CJ Massinburg,Three Point Jumper,12,8
+17:01,Marquette,Sacar Anim,Missed Jumper,12,8
+17:01,Buffalo,CJ Massinburg,Defensive Rebound,12,8
+16:57,Marquette,Joey Hauser,Foul,12,8
+16:57,Buffalo,CJ Massinburg,Free Throw,13,8
+16:57,Buffalo,CJ Massinburg,Free Throw,14,8
+16:43,Marquette,Markus Howard,Missed Layup,14,8
+16:43,Marquette,Ed Morrow,Offensive Rebound,14,8
+16:43,Marquette,None,None,14,8
+16:43,Buffalo,Nick Perkins,Block,14,8
+16:43,Marquette,Ed Morrow,Offensive Rebound,14,8
+16:26,Marquette,Ed Morrow,Layup,14,10
+16:15,Buffalo,Jeremy Harris,Missed Layup,14,10
+16:15,Buffalo,CJ Massinburg,Offensive Rebound,14,10
+16:09,Buffalo,Jayvon Graves,Missed Three Point Jumper,14,10
+16:09,Buffalo,Nick Perkins,Offensive Rebound,14,10
+16:03,Buffalo,Davonta Jordan,Missed Three Point Jumper,14,10
+16:03,Marquette,Sacar Anim,Defensive Rebound,14,10
+16:00,Marquette,Markus Howard,Turnover,14,10
+15:43,Buffalo,Jayvon Graves,Foul,14,10
+15:43,Buffalo,Jayvon Graves,Turnover,14,10
+15:43,Marquette,None,None,14,10
+15:22,Marquette,Joseph Chartouny,Missed Three Point Jumper,14,10
+15:22,Buffalo,Jeremy Harris,Defensive Rebound,14,10
+15:10,Buffalo,Davonta Jordan,Missed Layup,14,10
+15:10,Marquette,Joey Hauser,Defensive Rebound,14,10
+14:58,Marquette,Sacar Anim,Turnover,14,10
+14:44,Buffalo,Jeremy Harris,Layup,16,10
+14:23,Marquette,Brendan Bailey,Missed Three Point Jumper,16,10
+14:23,Buffalo,Buffalo,Defensive Rebound,16,10
+14:14,Marquette,Joseph Chartouny,Foul,16,10
+14:04,Buffalo,Jeremy Harris,Three Point Jumper,19,10
+13:38,Marquette,Sam Hauser,Missed Layup,19,10
+13:38,Buffalo,CJ Massinburg,Defensive Rebound,19,10
+13:26,Buffalo,CJ Massinburg,Missed Layup,19,10
+13:26,Marquette,Joseph Chartouny,Defensive Rebound,19,10
+13:22,Marquette,Markus Howard,Foul,19,10
+13:22,Marquette,Markus Howard,Turnover,19,10
+13:12,Buffalo,Jeremy Harris,Turnover,19,10
+12:43,Buffalo,Nick Perkins,Foul,19,10
+12:43,Marquette,Joseph Chartouny,Free Throw,19,11
+12:43,Marquette,Joseph Chartouny,Missed Free Throw,19,11
+12:43,Marquette,Theo John,Offensive Rebound,19,11
+12:25,Marquette,Sam Hauser,Layup,19,13
+12:10,Buffalo,Montell McRae,Missed Three Point Jumper,19,13
+12:10,Marquette,Jamal Cain,Defensive Rebound,19,13
+12:03,Buffalo,Montell McRae,Foul,19,13
+11:55,Marquette,Joseph Chartouny,Missed Three Point Jumper,19,13
+11:55,Marquette,Theo John,Offensive Rebound,19,13
+11:52,Marquette,Theo John,Dunk,19,15
+11:51,Marquette,None,None,19,15
+11:51,Marquette,Theo John,Foul,19,15
+11:51,Marquette,Theo John,Foul,19,15
+11:51,Buffalo,CJ Massinburg,Missed Free Throw,19,15
+11:51,Buffalo,CJ Massinburg,Free Throw,20,15
+11:34,Buffalo,CJ Massinburg,Missed Three Point Jumper,20,15
+11:34,Marquette,Theo John,Defensive Rebound,20,15
+11:27,Buffalo,Ronaldo Segu,Foul,20,15
+11:10,Marquette,Theo John,Turnover,20,15
+11:10,Buffalo,Jayvon Graves,Steal,20,15
+10:56,Buffalo,Jeremy Harris,Turnover,20,15
+10:39,Marquette,Sacar Anim,Missed Layup,20,15
+10:39,Buffalo,Jayvon Graves,Block,20,15
+10:39,Marquette,Marquette,Offensive Rebound,20,15
+10:33,Marquette,Markus Howard,Missed Three Point Jumper,20,15
+10:33,Buffalo,Davonta Jordan,Defensive Rebound,20,15
+10:27,Buffalo,Davonta Jordan,Layup,22,15
+10:11,Marquette,Sacar Anim,Missed Layup,22,15
+10:11,Marquette,Sacar Anim,Offensive Rebound,22,15
+10:11,Marquette,None,None,22,15
+10:11,Marquette,Sacar Anim,Offensive Rebound,22,15
+10:11,Marquette,None,None,22,17
+9:53,Buffalo,Nick Perkins,Three Point Jumper,25,17
+9:40,Buffalo,Davonta Jordan,Foul,25,17
+9:25,Marquette,Markus Howard,Missed Layup,25,17
+9:25,Marquette,Markus Howard,Offensive Rebound,25,17
+9:25,Marquette,Markus Howard,Turnover,25,17
+9:25,Buffalo,Davonta Jordan,Steal,25,17
+9:14,Buffalo,Nick Perkins,Missed Three Point Jumper,25,17
+9:14,Marquette,Markus Howard,Defensive Rebound,25,17
+9:02,Marquette,Sacar Anim,Missed Three Point Jumper,25,17
+9:02,Buffalo,Jayvon Graves,Defensive Rebound,25,17
+8:51,Buffalo,Jeenathan Williams,Missed Jumper,25,17
+8:51,Marquette,Ed Morrow,Defensive Rebound,25,17
+8:41,Marquette,Sam Hauser,Turnover,25,17
+8:41,Buffalo,Dontay Caruthers,Steal,25,17
+8:38,Buffalo,Davonta Jordan,Turnover,25,17
+8:15,Marquette,Sam Hauser,Three Point Jumper,25,20
+8:09,Buffalo,CJ Massinburg,Missed Three Point Jumper,25,20
+8:09,Marquette,Jamal Cain,Defensive Rebound,25,20
+8:01,Marquette,Markus Howard,Three Point Jumper,25,23
+7:40,Buffalo,Davonta Jordan,Missed Layup,25,23
+7:40,Marquette,Jamal Cain,Block,25,23
+7:40,Marquette,Markus Howard,Defensive Rebound,25,23
+7:31,Marquette,Markus Howard,Turnover,25,23
+7:31,Buffalo,Jayvon Graves,Steal,25,23
+7:27,Buffalo,Jayvon Graves,Dunk,27,23
+7:27,Marquette,Jamal Cain,Foul,27,23
+7:27,Marquette,None,None,27,23
+7:27,Buffalo,Jayvon Graves,Missed Free Throw,27,23
+7:27,Marquette,Ed Morrow,Defensive Rebound,27,23
+7:04,Marquette,Joey Hauser,Three Point Jumper,27,26
+6:45,Buffalo,Nick Perkins,Missed Jumper,27,26
+6:45,Marquette,Sam Hauser,Defensive Rebound,27,26
+6:32,Marquette,Joey Hauser,Three Point Jumper,27,29
+6:13,Buffalo,Nick Perkins,Missed Jumper,27,29
+6:13,Marquette,Sacar Anim,Defensive Rebound,27,29
+5:59,Marquette,Joey Hauser,Three Point Jumper,27,32
+5:56,Buffalo,None,None,27,32
+5:43,Buffalo,Davonta Jordan,Layup,29,32
+5:24,Marquette,Joseph Chartouny,Missed Jumper,29,32
+5:24,Buffalo,Nick Perkins,Defensive Rebound,29,32
+5:15,Buffalo,Dontay Caruthers,Missed Jumper,29,32
+5:15,Buffalo,Jeremy Harris,Offensive Rebound,29,32
+4:56,Buffalo,CJ Massinburg,Missed Three Point Jumper,29,32
+4:56,Buffalo,Dontay Caruthers,Offensive Rebound,29,32
+4:48,Buffalo,Dontay Caruthers,Missed Layup,29,32
+4:48,Buffalo,Nick Perkins,Offensive Rebound,29,32
+4:48,Buffalo,CJ Massinburg,Foul,29,32
+4:48,Marquette,Joseph Chartouny,Missed Free Throw,29,32
+4:48,Buffalo,Nick Perkins,Defensive Rebound,29,32
+4:39,Buffalo,Dontay Caruthers,Three Point Jumper,32,32
+4:11,Marquette,Sacar Anim,Missed Layup,32,32
+4:11,Buffalo,Dontay Caruthers,Block,32,32
+4:11,Marquette,Marquette,Offensive Rebound,32,32
+4:11,Marquette,Markus Howard,Turnover,32,32
+4:11,Buffalo,CJ Massinburg,Steal,32,32
+4:03,Buffalo,Jeremy Harris,Missed Three Point Jumper,32,32
+4:03,Marquette,Theo John,Block,32,32
+4:03,Marquette,Joey Hauser,Defensive Rebound,32,32
+3:52,Buffalo,Jeremy Harris,Foul,32,32
+3:52,Marquette,None,None,32,32
+3:52,Marquette,Theo John,Missed Free Throw,32,32
+3:52,Marquette,Joey Hauser,Offensive Rebound,32,32
+3:24,Marquette,Joseph Chartouny,Three Point Jumper,32,35
+2:59,Buffalo,CJ Massinburg,Turnover,32,35
+2:41,Marquette,Sam Hauser,Missed Three Point Jumper,32,35
+2:41,Buffalo,Jeremy Harris,Defensive Rebound,32,35
+2:33,Buffalo,Jeremy Harris,Missed Three Point Jumper,32,35
+2:33,Marquette,Sam Hauser,Block,32,35
+2:33,Marquette,Theo John,Defensive Rebound,32,35
+2:00,Marquette,Marquette ,Turnover,32,35
+1:49,Buffalo,Davonta Jordan,Turnover,32,35
+1:26,Buffalo,Dontay Caruthers,Foul,32,35
+1:26,Marquette,Joseph Chartouny,Free Throw,32,36
+1:26,Marquette,Joseph Chartouny,Free Throw,32,37
+1:11,Buffalo,CJ Massinburg,Missed Layup,32,37
+1:11,Marquette,Theo John,Block,32,37
+1:11,Marquette,Sam Hauser,Defensive Rebound,32,37
+1:02,Marquette,Sam Hauser,Missed Three Point Jumper,32,37
+1:02,Buffalo,Davonta Jordan,Defensive Rebound,32,37
+1:00,Buffalo,Dontay Caruthers,Layup,34,37
+1:00,Marquette,Sam Hauser,Foul,34,37
+1:00,Buffalo,Dontay Caruthers,Free Throw,35,37
+1:00,Marquette,None,None,35,37
+0:48,Marquette,Joey Hauser,Turnover,35,37
+0:48,Buffalo,CJ Massinburg,Steal,35,37
+0:27,Buffalo,Jeremy Harris,Three Point Jumper,38,37
+0:04,Buffalo,Davonta Jordan,Foul,38,37
+0:04,Marquette,Markus Howard,Free Throw,38,38
+0:04,Marquette,Markus Howard,Free Throw,38,39
+0:01,Buffalo,Davonta Jordan,Missed Jumper,38,39
+0:01,Buffalo,None,Team Rebound,38,39
+0:00,Marquette,None,None,38,39
+20:00,Marquette,None,None,38,39
+19:36,Marquette,Sam Hauser,Missed Jumper,38,39
+19:36,Buffalo,Jayvon Graves,Defensive Rebound,38,39
+19:32,Buffalo,Jayvon Graves,Turnover,38,39
+19:32,Marquette,Sacar Anim,Steal,38,39
+19:26,Marquette,Sacar Anim,Missed Layup,38,39
+19:26,Marquette,Theo John,Offensive Rebound,38,39
+19:26,Marquette,None,None,38,39
+19:26,Buffalo,Davonta Jordan,Defensive Rebound,38,39
+19:16,Marquette,Sam Hauser,Foul,38,39
+19:12,Marquette,Sam Hauser,Foul,38,39
+19:12,Buffalo,Nick Perkins,Missed Free Throw,38,39
+19:12,Buffalo,None,Team Rebound,38,39
+19:12,Buffalo,Nick Perkins,Missed Free Throw,38,39
+19:12,Marquette,Joey Hauser,Defensive Rebound,38,39
+18:48,Marquette,Joey Hauser,Missed Jumper,38,39
+18:48,Buffalo,Nick Perkins,Defensive Rebound,38,39
+18:31,Buffalo,Davonta Jordan,Layup,40,39
+18:22,Marquette,Joseph Chartouny,Three Point Jumper,40,42
+17:58,Buffalo,CJ Massinburg,Three Point Jumper,43,42
+17:47,Marquette,Markus Howard,Missed Jumper,43,42
+17:47,Buffalo,CJ Massinburg,Defensive Rebound,43,42
+17:41,Buffalo,CJ Massinburg,Missed Jumper,43,42
+17:41,Marquette,Theo John,Block,43,42
+17:41,Buffalo,Buffalo,Offensive Rebound,43,42
+17:36,Buffalo,Davonta Jordan,Missed Jumper,43,42
+17:36,Marquette,Theo John,Block,43,42
+17:36,Marquette,Theo John,Defensive Rebound,43,42
+17:29,Marquette,None,None,43,42
+17:18,Marquette,Joseph Chartouny,Turnover,43,42
+17:18,Buffalo,CJ Massinburg,Steal,43,42
+17:04,Buffalo,Jeremy Harris,Missed Three Point Jumper,43,42
+17:04,Buffalo,Dontay Caruthers,Offensive Rebound,43,42
+17:03,Marquette,Joey Hauser,Foul,43,42
+17:03,Buffalo,Nick Perkins,Free Throw,44,42
+17:03,Buffalo,Nick Perkins,Free Throw,45,42
+16:40,Marquette,Jamal Cain,Layup,45,44
+16:30,Marquette,Theo John,Foul,45,44
+16:24,Buffalo,Jeremy Harris,Jumper,47,44
+16:15,Marquette,Markus Howard,Three Point Jumper,47,47
+15:54,Buffalo,Jeremy Harris,Jumper,49,47
+15:33,Marquette,Jamal Cain,Jumper,49,49
+15:21,Buffalo,CJ Massinburg,Missed Three Point Jumper,49,49
+15:21,Marquette,Jamal Cain,Defensive Rebound,49,49
+15:09,Marquette,Markus Howard,Missed Three Point Jumper,49,49
+15:09,Buffalo,Jeremy Harris,Defensive Rebound,49,49
+15:05,Buffalo,Dontay Caruthers,Layup,51,49
+15:05,Marquette,Markus Howard,Foul,51,49
+15:05,Marquette,None,None,51,49
+15:05,Buffalo,Dontay Caruthers,Free Throw,52,49
+14:53,Marquette,Markus Howard,Three Point Jumper,52,52
+14:19,Buffalo,Montell McRae,Missed Jumper,52,52
+14:19,Marquette,Joey Hauser,Defensive Rebound,52,52
+14:11,Marquette,Ed Morrow,Layup,52,54
+14:03,Marquette,Sacar Anim,Foul,52,54
+14:03,Buffalo,Dontay Caruthers,Missed Free Throw,52,54
+14:03,Buffalo,None,Team Rebound,52,54
+14:03,Buffalo,Dontay Caruthers,Free Throw,53,54
+13:54,Marquette,Sacar Anim,Missed Layup,53,54
+13:54,Marquette,Ed Morrow,Offensive Rebound,53,54
+13:54,Buffalo,Montell McRae,Foul,53,54
+13:32,Marquette,Markus Howard,Layup,53,56
+13:18,Buffalo,Davonta Jordan,Layup,55,56
+13:08,Buffalo,Davonta Jordan,Foul,55,56
+13:08,Marquette,Markus Howard,Free Throw,55,57
+13:08,Marquette,Markus Howard,Free Throw,55,58
+13:08,Marquette,Markus Howard,Free Throw,55,59
+13:01,Buffalo,Jayvon Graves,Missed Three Point Jumper,55,59
+13:01,Marquette,Theo John,Defensive Rebound,55,59
+12:54,Marquette,Sam Hauser,Three Point Jumper,55,62
+12:43,Buffalo,Nick Perkins,Missed Three Point Jumper,55,62
+12:43,Marquette,Marquette,Defensive Rebound,55,62
+12:17,Marquette,Markus Howard,Three Point Jumper,55,65
+12:07,Buffalo,Jeremy Harris,Layup,57,65
+11:50,Marquette,Sam Hauser,Missed Three Point Jumper,57,65
+11:50,Buffalo,Nick Perkins,Defensive Rebound,57,65
+11:39,Marquette,Jamal Cain,Foul,57,65
+11:39,Marquette,None,None,57,65
+11:39,Buffalo,Jeremy Harris,Free Throw,58,65
+11:39,Buffalo,Jeremy Harris,Free Throw,59,65
+11:23,Buffalo,CJ Massinburg,Foul,59,65
+11:23,Marquette,Joey Hauser,Free Throw,59,66
+11:23,Marquette,Joey Hauser,Free Throw,59,67
+11:13,Buffalo,Jeremy Harris,Missed Dunk,59,67
+11:13,Marquette,Theo John,Block,59,67
+11:13,Buffalo,Dontay Caruthers,Offensive Rebound,59,67
+11:03,Buffalo,Dontay Caruthers,Missed Layup,59,67
+11:03,Buffalo,Davonta Jordan,Offensive Rebound,59,67
+10:55,Buffalo,Jeremy Harris,Missed Layup,59,67
+10:55,Buffalo,Nick Perkins,Offensive Rebound,59,67
+10:55,Buffalo,None,None,59,67
+10:55,Marquette,Marquette,Defensive Rebound,59,67
+10:34,Marquette,Markus Howard,Missed Jumper,59,67
+10:34,Buffalo,Jeremy Harris,Defensive Rebound,59,67
+10:28,Buffalo,Dontay Caruthers,Layup,61,67
+10:28,Marquette,Joey Hauser,Foul,61,67
+10:28,Buffalo,Dontay Caruthers,Free Throw,62,67
+10:17,Marquette,Sacar Anim,Missed Layup,62,67
+10:17,Buffalo,Nick Perkins,Block,62,67
+10:17,Buffalo,Davonta Jordan,Defensive Rebound,62,67
+10:07,Buffalo,Dontay Caruthers,Layup,64,67
+9:47,Marquette,Markus Howard,Missed Layup,64,67
+9:47,Buffalo,Jeremy Harris,Defensive Rebound,64,67
+9:39,Marquette,Jamal Cain,Foul,64,67
+9:39,Buffalo,Nick Perkins,Free Throw,65,67
+9:39,Buffalo,Nick Perkins,Missed Free Throw,65,67
+9:39,Marquette,Joey Hauser,Defensive Rebound,65,67
+9:25,Marquette,Jamal Cain,Turnover,65,67
+9:25,Buffalo,Jayvon Graves,Steal,65,67
+9:19,Buffalo,Jayvon Graves,Missed Layup,65,67
+9:19,Marquette,Jamal Cain,Block,65,67
+9:19,Marquette,Sam Hauser,Defensive Rebound,65,67
+8:58,Marquette,Sam Hauser,Three Point Jumper,65,70
+8:39,Buffalo,Davonta Jordan,Missed Layup,65,70
+8:39,Marquette,Joey Hauser,Defensive Rebound,65,70
+8:31,Marquette,Markus Howard,Layup,65,72
+8:22,Buffalo,Jeremy Harris,Missed Jumper,65,72
+8:22,Marquette,Sam Hauser,Defensive Rebound,65,72
+8:14,Marquette,Sam Hauser,Three Point Jumper,65,75
+7:52,Buffalo,Nick Perkins,Missed Three Point Jumper,65,75
+7:52,Marquette,Markus Howard,Defensive Rebound,65,75
+7:29,Buffalo,Dontay Caruthers,Foul,65,75
+7:29,Marquette,None,None,65,75
+7:16,Marquette,Markus Howard,Missed Layup,65,75
+7:16,Buffalo,Davonta Jordan,Block,65,75
+7:16,Marquette,Marquette,Offensive Rebound,65,75
+7:11,Marquette,Markus Howard,Three Point Jumper,65,78
+7:11,Buffalo,Nick Perkins,Foul,65,78
+7:11,Marquette,Markus Howard,Free Throw,65,79
+6:53,Marquette,Theo John,Foul,65,79
+6:53,Buffalo,Nick Perkins,Missed Free Throw,65,79
+6:53,Buffalo,None,Team Rebound,65,79
+6:53,Buffalo,Nick Perkins,Free Throw,66,79
+6:40,Marquette,Markus Howard,Three Point Jumper,66,82
+6:25,Buffalo,Dontay Caruthers,Layup,68,82
+6:24,Buffalo,None,None,68,82
+6:04,Marquette,Markus Howard,Three Point Jumper,68,85
+5:54,Buffalo,Jeremy Harris,Three Point Jumper,71,85
+5:27,Buffalo,Nick Perkins,Foul,71,85
+5:27,Marquette,Markus Howard,Turnover,71,85
+5:27,Buffalo,CJ Massinburg,Steal,71,85
+5:27,Buffalo,CJ Massinburg,Three Point Jumper,74,85
+5:27,Marquette,Markus Howard,Layup,74,87
+5:27,Buffalo,Nick Perkins,Missed Layup,74,87
+5:27,Marquette,Theo John,Block,74,87
+5:27,Marquette,Jamal Cain,Defensive Rebound,74,87
+4:33,Buffalo,Dontay Caruthers,Foul,74,87
+4:33,Marquette,Markus Howard,Free Throw,74,88
+4:33,Marquette,Markus Howard,Free Throw,74,89
+4:33,Buffalo,Nick Perkins,Missed Three Point Jumper,74,89
+4:33,Marquette,Joey Hauser,Defensive Rebound,74,89
+3:57,Marquette,Markus Howard,Three Point Jumper,74,92
+3:52,Buffalo,Dontay Caruthers,Missed Layup,74,92
+3:52,Marquette,Theo John,Block,74,92
+3:52,Marquette,Theo John,Defensive Rebound,74,92
+3:32,Marquette,Markus Howard,Missed Three Point Jumper,74,92
+3:32,Buffalo,Davonta Jordan,Defensive Rebound,74,92
+3:24,Buffalo,CJ Massinburg,Missed Three Point Jumper,74,92
+3:24,Buffalo,Jeremy Harris,Offensive Rebound,74,92
+3:21,Buffalo,CJ Massinburg,Three Point Jumper,77,92
+3:21,Marquette,Joey Hauser,Foul,77,92
+3:21,Marquette,None,None,77,92
+3:21,Buffalo,CJ Massinburg,Missed Free Throw,77,92
+3:21,Marquette,Theo John,Defensive Rebound,77,92
+3:07,Buffalo,Davonta Jordan,Foul,77,92
+3:07,Marquette,Markus Howard,Free Throw,77,93
+3:07,Marquette,Markus Howard,Free Throw,77,94
+2:47,Buffalo,Montell McRae,Missed Three Point Jumper,77,94
+2:47,Marquette,Joey Hauser,Defensive Rebound,77,94
+2:24,Marquette,Markus Howard,Missed Layup,77,94
+2:24,Buffalo,Davonta Jordan,Defensive Rebound,77,94
+2:18,Buffalo,Dontay Caruthers,Layup,79,94
+2:14,Buffalo,Dontay Caruthers,Foul,79,94
+2:14,Marquette,Markus Howard,Free Throw,79,95
+2:14,Marquette,Markus Howard,Free Throw,79,96
+2:02,Buffalo,Nick Perkins,Turnover,79,96
+1:43,Marquette,Markus Howard,Three Point Jumper,79,99
+1:34,Marquette,Joey Hauser,Foul,79,99
+1:34,Buffalo,Dontay Caruthers,Free Throw,80,99
+1:34,Buffalo,Dontay Caruthers,Missed Free Throw,80,99
+1:34,Marquette,Jamal Cain,Defensive Rebound,80,99
+1:22,Marquette,None,None,80,99
+1:12,Marquette,Joseph Chartouny,Layup,80,101
+0:58,Buffalo,Jeenathan Williams,Missed Three Point Jumper,80,101
+0:58,Buffalo,Brock Bertram,Offensive Rebound,80,101
+0:58,Buffalo,None,None,82,101
+0:29,Marquette,Jamal Cain,Jumper,82,103
+0:20,Buffalo,Jayvon Graves,Three Point Jumper,85,103
+0:00,Marquette,None,None,85,103

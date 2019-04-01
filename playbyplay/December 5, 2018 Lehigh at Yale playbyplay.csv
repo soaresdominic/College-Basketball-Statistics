@@ -1,0 +1,335 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:48,Yale,Jordan Bruner,Three Point Jumper,0,3
+19:21,Lehigh,Lance Tejada,Three Point Jumper,3,3
+19:04,Yale,Miye Oni,Three Point Jumper,3,6
+18:50,Lehigh,Pat Andree,Three Point Jumper,6,6
+18:27,Yale,Trey Phills,Missed Three Point Jumper,6,6
+18:27,Lehigh,Pat Andree,Defensive Rebound,6,6
+18:19,Lehigh,James Karnik,Dunk,8,6
+17:55,Yale,Blake Reynolds,Jumper,8,8
+17:43,Lehigh,Jordan Cohen,Jumper,10,8
+17:24,Yale,Jordan Bruner,Missed Three Point Jumper,10,8
+17:24,Lehigh,Kyle Leufroy,Defensive Rebound,10,8
+17:14,Lehigh,Lance Tejada,Three Point Jumper,13,8
+17:02,Yale,Miye Oni,Missed Three Point Jumper,13,8
+17:02,Yale,Jordan Bruner,Offensive Rebound,13,8
+16:50,Yale,Alex Copeland,Jumper,13,10
+16:34,Lehigh,Kyle Leufroy,Jumper,15,10
+16:17,Yale,Alex Copeland,Missed Three Point Jumper,15,10
+16:17,Lehigh,Lance Tejada,Defensive Rebound,15,10
+16:09,Lehigh,Lance Tejada,Turnover,15,10
+16:09,Yale,Alex Copeland,Steal,15,10
+16:05,Yale,Trey Phills,Layup,15,12
+15:48,Lehigh,James Karnik,Missed Jumper,15,12
+15:48,Yale,Blake Reynolds,Defensive Rebound,15,12
+15:38,Lehigh,Lance Tejada,Foul,15,12
+15:38,Yale,None,None,15,12
+15:38,Yale,Alex Copeland,Free Throw,15,13
+15:38,Yale,Alex Copeland,Free Throw,15,14
+15:23,Lehigh,Lance Tejada,Three Point Jumper,18,14
+14:55,Yale,Miye Oni,Missed Three Point Jumper,18,14
+14:55,Lehigh,James Karnik,Defensive Rebound,18,14
+14:52,Lehigh,Pat Andree,Missed Three Point Jumper,18,14
+14:52,Yale,Jordan Bruner,Defensive Rebound,18,14
+14:33,Yale,Miye Oni,Layup,18,16
+14:15,Lehigh,Pat Andree,Missed Three Point Jumper,18,16
+14:15,Yale,Paul Atkinson,Defensive Rebound,18,16
+14:12,Lehigh,James Karnik,Foul,18,16
+14:01,Yale,Trey Phills,Three Point Jumper,18,19
+13:37,Lehigh,Nic Lynch,Jumper,20,19
+13:18,Yale,Azar Swain,Missed Three Point Jumper,20,19
+13:18,Lehigh,Kyle Leufroy,Defensive Rebound,20,19
+13:11,Lehigh,Jeameril Wilson,Dunk,22,19
+12:53,Yale,Paul Atkinson,Turnover,22,19
+12:52,Lehigh,Lance Tejada,Steal,22,19
+12:48,Lehigh,Jordan Cohen,Layup,24,19
+12:48,Yale,Azar Swain,Foul,24,19
+12:48,Lehigh,Jordan Cohen,Free Throw,25,19
+12:36,Lehigh,Nic Lynch,Foul,25,19
+12:36,Yale,Miye Oni,Free Throw,25,20
+12:36,Yale,Miye Oni,Free Throw,25,21
+12:09,Lehigh,Kyle Leufroy,Missed Three Point Jumper,25,21
+12:09,Yale,Azar Swain,Defensive Rebound,25,21
+11:56,Yale,Blake Reynolds,Missed Three Point Jumper,25,21
+11:56,Lehigh,Lance Tejada,Defensive Rebound,25,21
+11:47,Lehigh,Lance Tejada,Turnover,25,21
+11:47,Lehigh,Lance Tejada,Foul,25,21
+11:47,Yale,None,None,25,21
+11:30,Yale,Jalen Gabbidon,Missed Three Point Jumper,25,21
+11:30,Yale,Paul Atkinson,Offensive Rebound,25,21
+11:26,Yale,Paul Atkinson,Missed Layup,25,21
+11:26,Lehigh,Marques Wilson,Defensive Rebound,25,21
+11:00,Yale,Azar Swain,Foul,25,21
+11:00,Lehigh,Jordan Cohen,Missed Free Throw,25,21
+11:00,Lehigh,None,Team Rebound,25,21
+11:00,Lehigh,Jordan Cohen,Free Throw,26,21
+11:00,Lehigh,Jordan Cohen,Free Throw,27,21
+10:45,Yale,Miye Oni,Missed Jumper,27,21
+10:45,Yale,Paul Atkinson,Offensive Rebound,27,21
+10:44,Lehigh,Jordan Cohen,Foul,27,21
+10:44,Yale,Paul Atkinson,Free Throw,27,22
+10:44,Yale,Paul Atkinson,Missed Free Throw,27,22
+10:44,Lehigh,Marques Wilson,Defensive Rebound,27,22
+10:24,Lehigh,Marques Wilson,Three Point Jumper,30,22
+9:58,Yale,Blake Reynolds,Turnover,30,22
+9:57,Lehigh,Caleb Bennett,Steal,30,22
+9:54,Lehigh,Caleb Bennett,Turnover,30,22
+9:42,Yale,Jordan Bruner,Missed Three Point Jumper,30,22
+9:42,Yale,Blake Reynolds,Offensive Rebound,30,22
+9:39,Yale,Blake Reynolds,Layup,30,24
+9:39,Lehigh,Jeameril Wilson,Foul,30,24
+9:39,Yale,Blake Reynolds,Free Throw,30,25
+9:27,Lehigh,Jeameril Wilson,Missed Jumper,30,25
+9:27,Yale,Jordan Bruner,Defensive Rebound,30,25
+9:08,Yale,Alex Copeland,Missed Jumper,30,25
+9:08,Lehigh,Jeameril Wilson,Block,30,25
+9:06,Lehigh,Jeameril Wilson,Defensive Rebound,30,25
+8:57,Lehigh,Nic Lynch,Jumper,32,25
+8:40,Yale,Jalen Gabbidon,Three Point Jumper,32,28
+8:21,Yale,Jalen Gabbidon,Foul,32,28
+8:21,Lehigh,Caleb Bennett,Free Throw,33,28
+8:21,Lehigh,Caleb Bennett,Missed Free Throw,33,28
+8:21,Yale,Jordan Bruner,Defensive Rebound,33,28
+8:08,Yale,Jordan Bruner,Missed Three Point Jumper,33,28
+8:08,Lehigh,Pat Andree,Defensive Rebound,33,28
+7:58,Lehigh,Marques Wilson,Turnover,33,28
+7:58,Yale,None,None,33,28
+7:37,Yale,Paul Atkinson,Missed Jumper,33,28
+7:37,Yale,Jalen Gabbidon,Offensive Rebound,33,28
+7:31,Yale,Trey Phills,Missed Jumper,33,28
+7:31,Lehigh,James Karnik,Block,33,28
+7:30,Lehigh,James Karnik,Defensive Rebound,33,28
+7:18,Lehigh,James Karnik,Turnover,33,28
+7:18,Lehigh,James Karnik,Foul,33,28
+6:59,Yale,Jordan Bruner,Turnover,33,28
+6:59,Lehigh,Nic Lynch,Steal,33,28
+6:52,Lehigh,Jordan Cohen,Three Point Jumper,36,28
+6:26,Yale,Jordan Bruner,Three Point Jumper,36,31
+6:05,Lehigh,Nic Lynch,Missed Jumper,36,31
+6:05,Yale,Paul Atkinson,Block,36,31
+6:03,Lehigh,Lehigh,Offensive Rebound,36,31
+6:00,Lehigh,Pat Andree,Three Point Jumper,39,31
+5:41,Yale,Alex Copeland,Missed Jumper,39,31
+5:41,Lehigh,Kyle Leufroy,Defensive Rebound,39,31
+5:34,Lehigh,Kyle Leufroy,Missed Jumper,39,31
+5:34,Yale,Miye Oni,Defensive Rebound,39,31
+5:27,Yale,Trey Phills,Three Point Jumper,39,34
+5:06,Lehigh,Pat Andree,Jumper,41,34
+4:49,Yale,Alex Copeland,Missed Three Point Jumper,41,34
+4:49,Lehigh,Nic Lynch,Defensive Rebound,41,34
+4:39,Lehigh,Marques Wilson,Missed Three Point Jumper,41,34
+4:39,Lehigh,Pat Andree,Offensive Rebound,41,34
+4:35,Lehigh,Pat Andree,Missed Layup,41,34
+4:35,Yale,Miye Oni,Defensive Rebound,41,34
+4:30,Yale,Trey Phills,Three Point Jumper,41,37
+4:27,Lehigh,None,None,41,37
+4:27,Yale,None,None,41,37
+4:11,Lehigh,Jordan Cohen,Layup,43,37
+3:52,Yale,Azar Swain,Three Point Jumper,43,40
+3:34,Lehigh,Nic Lynch,Missed Jumper,43,40
+3:34,Yale,Trey Phills,Defensive Rebound,43,40
+3:32,Lehigh,Pat Andree,Foul,43,40
+3:32,Yale,Trey Phills,Free Throw,43,41
+3:32,Yale,Trey Phills,Free Throw,43,42
+3:21,Lehigh,Lance Tejada,Missed Layup,43,42
+3:21,Yale,Miye Oni,Defensive Rebound,43,42
+3:17,Yale,Miye Oni,Turnover,43,42
+3:16,Lehigh,Jordan Cohen,Steal,43,42
+3:04,Lehigh,Pat Andree,Jumper,45,42
+2:45,Yale,Trey Phills,Three Point Jumper,45,45
+2:16,Lehigh,Jordan Cohen,Three Point Jumper,48,45
+1:59,Yale,Azar Swain,Missed Three Point Jumper,48,45
+1:59,Yale,Paul Atkinson,Offensive Rebound,48,45
+1:51,Lehigh,Nic Lynch,Foul,48,45
+1:51,Yale,Paul Atkinson,Missed Free Throw,48,45
+1:51,Yale,None,Team Rebound,48,45
+1:51,Yale,Paul Atkinson,Free Throw,48,46
+1:39,Lehigh,Kyle Leufroy,Turnover,48,46
+1:39,Yale,Miye Oni,Steal,48,46
+1:35,Yale,Alex Copeland,Missed Layup,48,46
+1:35,Lehigh,Jeameril Wilson,Block,48,46
+1:34,Yale,Alex Copeland,Offensive Rebound,48,46
+1:30,Yale,Miye Oni,Layup,48,48
+1:17,Lehigh,Jordan Cohen,Missed Jumper,48,48
+1:17,Lehigh,Lehigh,Offensive Rebound,48,48
+1:01,Lehigh,Caleb Bennett,Three Point Jumper,51,48
+0:45,Lehigh,Caleb Bennett,Foul,51,48
+0:45,Yale,Miye Oni,Missed Free Throw,51,48
+0:45,Yale,None,Team Rebound,51,48
+0:45,Yale,Miye Oni,Free Throw,51,49
+0:37,Lehigh,Jordan Cohen,Turnover,51,49
+0:37,Yale,Trey Phills,Steal,51,49
+0:35,Yale,Jordan Bruner,Turnover,51,49
+0:19,Lehigh,Pat Andree,Missed Jumper,51,49
+0:19,Yale,Jordan Bruner,Defensive Rebound,51,49
+0:02,Yale,Miye Oni,Jumper,51,51
+0:00,Yale,None,None,51,51
+19:47,Lehigh,Lance Tejada,Three Point Jumper,54,51
+19:29,Yale,Jordan Bruner,Turnover,54,51
+19:28,Lehigh,Kyle Leufroy,Steal,54,51
+19:23,Lehigh,Kyle Leufroy,Missed Layup,54,51
+19:23,Yale,Blake Reynolds,Defensive Rebound,54,51
+19:22,Lehigh,James Karnik,Foul,54,51
+19:07,Yale,Jordan Bruner,Missed Three Point Jumper,54,51
+19:07,Lehigh,Lance Tejada,Defensive Rebound,54,51
+18:50,Lehigh,Kyle Leufroy,Missed Three Point Jumper,54,51
+18:50,Yale,Trey Phills,Defensive Rebound,54,51
+18:30,Yale,Blake Reynolds,Jumper,54,53
+18:16,Lehigh,Pat Andree,Three Point Jumper,57,53
+17:58,Yale,Miye Oni,Jumper,57,55
+17:34,Lehigh,Jordan Cohen,Missed Jumper,57,55
+17:34,Lehigh,Jordan Cohen,Offensive Rebound,57,55
+17:27,Lehigh,Pat Andree,Three Point Jumper,60,55
+17:11,Yale,Jordan Bruner,Jumper,60,57
+17:02,Lehigh,Lance Tejada,Missed Jumper,60,57
+17:02,Yale,Jordan Bruner,Defensive Rebound,60,57
+16:46,Yale,Miye Oni,Turnover,60,57
+16:46,Yale,Miye Oni,Foul,60,57
+16:36,Lehigh,Lance Tejada,Missed Three Point Jumper,60,57
+16:36,Yale,Miye Oni,Defensive Rebound,60,57
+16:29,Yale,Miye Oni,Layup,60,59
+16:13,Lehigh,Pat Andree,Missed Three Point Jumper,60,59
+16:13,Yale,Trey Phills,Defensive Rebound,60,59
+16:10,Lehigh,Kyle Leufroy,Foul,60,59
+16:00,Yale,Miye Oni,Missed Three Point Jumper,60,59
+16:00,Lehigh,Lance Tejada,Defensive Rebound,60,59
+15:48,Lehigh,Kyle Leufroy,Missed Jumper,60,59
+15:48,Yale,Jordan Bruner,Block,60,59
+15:46,Yale,Azar Swain,Defensive Rebound,60,59
+15:42,Yale,Trey Phills,Layup,60,61
+15:15,Lehigh,Nic Lynch,Jumper,62,61
+14:58,Yale,Jordan Bruner,Missed Layup,62,61
+14:58,Lehigh,Jordan Cohen,Block,62,61
+14:57,Lehigh,Pat Andree,Defensive Rebound,62,61
+14:48,Lehigh,Pat Andree,Turnover,62,61
+14:48,Yale,Azar Swain,Steal,62,61
+14:44,Yale,Azar Swain,Layup,62,63
+14:14,Lehigh,Kyle Leufroy,Missed Three Point Jumper,62,63
+14:14,Yale,Azar Swain,Defensive Rebound,62,63
+14:03,Yale,Miye Oni,Missed Three Point Jumper,62,63
+14:03,Yale,Blake Reynolds,Offensive Rebound,62,63
+13:59,Yale,Blake Reynolds,Missed Layup,62,63
+13:59,Lehigh,Lance Tejada,Defensive Rebound,62,63
+13:54,Yale,Trey Phills,Foul,62,63
+13:54,Yale,None,None,62,63
+13:54,Lehigh,Lance Tejada,Free Throw,63,63
+13:54,Lehigh,Lance Tejada,Free Throw,64,63
+13:35,Yale,Blake Reynolds,Missed Three Point Jumper,64,63
+13:35,Lehigh,Caleb Bennett,Defensive Rebound,64,63
+13:14,Lehigh,Caleb Bennett,Missed Jumper,64,63
+13:14,Yale,Blake Reynolds,Defensive Rebound,64,63
+12:48,Yale,Miye Oni,Turnover,64,63
+12:47,Lehigh,Lance Tejada,Steal,64,63
+12:41,Lehigh,Nic Lynch,Turnover,64,63
+12:41,Lehigh,Nic Lynch,Foul,64,63
+12:24,Yale,Blake Reynolds,Layup,64,65
+12:00,Lehigh,Nic Lynch,Missed Jumper,64,65
+12:00,Yale,Blake Reynolds,Defensive Rebound,64,65
+11:52,Yale,Trey Phills,Layup,64,67
+11:33,Lehigh,Caleb Bennett,Missed Three Point Jumper,64,67
+11:33,Yale,Paul Atkinson,Defensive Rebound,64,67
+11:23,Yale,Trey Phills,Missed Three Point Jumper,64,67
+11:23,Yale,Blake Reynolds,Offensive Rebound,64,67
+11:11,Yale,Blake Reynolds,Missed Three Point Jumper,64,67
+11:11,Lehigh,Caleb Bennett,Defensive Rebound,64,67
+10:58,Lehigh,Pat Andree,Missed Three Point Jumper,64,67
+10:58,Yale,Trey Phills,Defensive Rebound,64,67
+10:29,Yale,Blake Reynolds,Missed Three Point Jumper,64,67
+10:29,Yale,Paul Atkinson,Offensive Rebound,64,67
+10:24,Yale,Paul Atkinson,Missed Layup,64,67
+10:24,Yale,Paul Atkinson,Offensive Rebound,64,67
+10:21,Yale,Paul Atkinson,Layup,64,69
+10:06,Lehigh,Lance Tejada,Missed Dunk,64,69
+10:06,Yale,Miye Oni,Defensive Rebound,64,69
+10:03,Lehigh,Pat Andree,Foul,64,69
+10:03,Yale,None,None,64,69
+9:52,Yale,Azar Swain,Three Point Jumper,64,72
+9:30,Lehigh,Lance Tejada,Three Point Jumper,67,72
+9:08,Yale,Azar Swain,Missed Three Point Jumper,67,72
+9:08,Lehigh,Jeameril Wilson,Defensive Rebound,67,72
+8:59,Lehigh,Jordan Cohen,Turnover,67,72
+8:44,Lehigh,Jeameril Wilson,Foul,67,72
+8:44,Yale,Paul Atkinson,Missed Free Throw,67,72
+8:44,Yale,None,Team Rebound,67,72
+8:44,Yale,Paul Atkinson,Free Throw,67,73
+8:24,Lehigh,Lance Tejada,Missed Three Point Jumper,67,73
+8:24,Lehigh,Jeameril Wilson,Offensive Rebound,67,73
+8:17,Lehigh,Jeameril Wilson,Missed Three Point Jumper,67,73
+8:17,Yale,Miye Oni,Defensive Rebound,67,73
+8:11,Yale,Miye Oni,Turnover,67,73
+8:11,Lehigh,Kyle Leufroy,Steal,67,73
+7:52,Lehigh,Jordan Cohen,Jumper,69,73
+7:24,Yale,Miye Oni,Turnover,69,73
+7:23,Lehigh,Jeameril Wilson,Steal,69,73
+7:19,Lehigh,Kyle Leufroy,Layup,71,73
+6:48,Yale,Jalen Gabbidon,Three Point Jumper,71,76
+6:24,Yale,Paul Atkinson,Foul,71,76
+6:24,Yale,None,None,71,76
+6:24,Lehigh,James Karnik,Free Throw,72,76
+6:24,Lehigh,James Karnik,Free Throw,73,76
+6:07,Yale,Alex Copeland,Jumper,73,78
+5:52,Yale,Jalen Gabbidon,Foul,73,78
+5:48,Lehigh,Jordan Cohen,Missed Three Point Jumper,73,78
+5:48,Yale,Jalen Gabbidon,Defensive Rebound,73,78
+5:18,Yale,Alex Copeland,Missed Jumper,73,78
+5:18,Yale,Jordan Bruner,Offensive Rebound,73,78
+5:14,Yale,Jordan Bruner,Jumper,73,80
+5:14,Lehigh,Jeameril Wilson,Foul,73,80
+5:14,Yale,Jordan Bruner,Free Throw,73,81
+5:03,Lehigh,Jordan Cohen,Jumper,75,81
+4:43,Yale,Alex Copeland,Jumper,75,83
+4:40,Lehigh,Jordan Cohen,Foul,75,83
+4:40,Lehigh,None,None,75,83
+4:40,Yale,Alex Copeland,Free Throw,75,84
+4:35,Yale,Alex Copeland,Foul,75,84
+4:24,Lehigh,Pat Andree,Missed Three Point Jumper,75,84
+4:24,Lehigh,Kyle Leufroy,Offensive Rebound,75,84
+4:02,Yale,Jalen Gabbidon,Foul,75,84
+3:57,Yale,None,None,75,84
+3:54,Lehigh,Jordan Cohen,Missed Layup,75,84
+3:54,Yale,Blake Reynolds,Defensive Rebound,75,84
+3:30,Yale,Miye Oni,Jumper,75,86
+3:18,Lehigh,Pat Andree,Missed Three Point Jumper,75,86
+3:18,Yale,Yale,Defensive Rebound,75,86
+2:55,Yale,Blake Reynolds,Turnover,75,86
+2:54,Lehigh,Lance Tejada,Steal,75,86
+2:51,Lehigh,Lance Tejada,Missed Layup,75,86
+2:51,Lehigh,Kyle Leufroy,Offensive Rebound,75,86
+2:48,Lehigh,Kyle Leufroy,Layup,77,86
+2:38,Yale,Jordan Bruner,Dunk,77,88
+2:25,Lehigh,Jordan Cohen,Missed Jumper,77,88
+2:25,Yale,Trey Phills,Defensive Rebound,77,88
+2:18,Yale,None,None,77,88
+2:16,Yale,Blake Reynolds,Turnover,77,88
+2:15,Lehigh,Jordan Cohen,Steal,77,88
+2:12,Lehigh,Lance Tejada,Missed Three Point Jumper,77,88
+2:12,Yale,Jordan Bruner,Defensive Rebound,77,88
+1:57,Lehigh,Marques Wilson,Foul,77,88
+1:57,Yale,Alex Copeland,Free Throw,77,89
+1:57,Yale,Alex Copeland,Free Throw,77,90
+1:51,Lehigh,Lance Tejada,Layup,79,90
+1:38,Yale,Miye Oni,Missed Layup,79,90
+1:38,Yale,Blake Reynolds,Offensive Rebound,79,90
+1:33,Lehigh,Kyle Leufroy,Foul,79,90
+1:33,Yale,Azar Swain,Free Throw,79,91
+1:33,Yale,Azar Swain,Free Throw,79,92
+1:19,Lehigh,Lance Tejada,Missed Three Point Jumper,79,92
+1:19,Yale,Blake Reynolds,Block,79,92
+1:18,Yale,Blake Reynolds,Defensive Rebound,79,92
+1:18,Lehigh,Lance Tejada,Foul,79,92
+1:18,Yale,Blake Reynolds,Free Throw,79,93
+1:18,Yale,Blake Reynolds,Free Throw,79,94
+1:15,Yale,Alex Copeland,Foul,79,94
+1:15,Lehigh,Jordan Cohen,Free Throw,80,94
+1:15,Lehigh,Jordan Cohen,Free Throw,81,94
+1:08,Lehigh,Caleb Bennett,Foul,81,94
+1:08,Yale,Blake Reynolds,Free Throw,81,95
+1:08,Yale,Blake Reynolds,Missed Free Throw,81,95
+1:08,Lehigh,Lehigh,Defensive Rebound,81,95
+1:00,Lehigh,Jordan Cohen,Turnover,81,95
+0:59,Yale,Miye Oni,Steal,81,95
+0:57,Yale,Miye Oni,Dunk,81,97
+0:51,Lehigh,Caleb Bennett,Three Point Jumper,84,97
+0:21,Yale,Yale ,Turnover,84,97
+0:18,Lehigh,Kyle Leufroy,Three Point Jumper,87,97
+0:00,Yale,None,None,87,97

@@ -1,0 +1,361 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:46,Georgia Southern,Quan Jackson,Missed Jumper,0,0
+19:41,Arizona,Brandon Williams,Defensive Rebound,0,0
+19:38,Arizona,Chase Jeter,Turnover,0,0
+19:38,Georgia Southern,Quan Jackson,Steal,0,0
+19:24,Georgia Southern,Tookie Brown,Jumper,2,0
+19:05,Arizona,Chase Jeter,Layup,2,2
+18:34,Arizona,Chase Jeter,Defensive Rebound,2,2
+18:30,Arizona,Brandon Randolph,Missed Three Point Jumper,2,2
+18:27,Georgia Southern,Tookie Brown,Defensive Rebound,2,2
+18:22,Georgia Southern,Quan Jackson,Three Point Jumper,5,2
+17:53,Arizona,Brandon Williams,Missed Jumper,5,2
+17:49,Arizona,Brandon Williams,Offensive Rebound,5,2
+17:38,Arizona,Brandon Randolph,Missed Three Point Jumper,5,2
+17:33,Arizona,Emmanuel Akot,Offensive Rebound,5,2
+17:24,Arizona,Brandon Randolph,Layup,5,4
+17:07,Georgia Southern,Elijah McCadden,Foul,5,4
+17:07,Georgia Southern,Elijah McCadden,Turnover,5,4
+16:58,Arizona,Brandon Williams,Missed Jumper,5,4
+16:53,Arizona,Brandon Williams,Offensive Rebound,5,4
+16:51,Arizona,Brandon Williams,Missed Jumper,5,4
+16:51,Arizona,None,Team Rebound,5,4
+16:51,Georgia Southern,Tookie Brown,Foul,5,4
+16:51,Arizona,Brandon Williams,Free Throw,5,5
+16:51,Arizona,Brandon Williams,Free Throw,5,6
+16:37,Georgia Southern,Quan Jackson,Turnover,5,6
+16:37,Arizona,Chase Jeter,Steal,5,6
+16:26,Arizona,Brandon Randolph,Jumper,5,8
+16:13,Georgia Southern,Ike Smith,Missed Three Point Jumper,5,8
+16:09,Arizona,Chase Jeter,Defensive Rebound,5,8
+15:58,Arizona,Chase Jeter,Turnover,5,8
+15:58,Arizona,None,None,5,8
+15:39,Georgia Southern,Simeon Carter,Jumper,7,8
+15:21,Arizona,Brandon Williams,Missed Three Point Jumper,7,8
+15:17,Georgia Southern,Georgia Southern,Defensive Rebound,7,8
+15:05,Georgia Southern,David-Lee Jones Jr,Missed Three Point Jumper,7,8
+15:01,Arizona,Brandon Randolph,Defensive Rebound,7,8
+14:55,Arizona,Ryan Luther,Missed Jumper,7,8
+14:55,Georgia Southern,Simeon Carter,Block,7,8
+14:48,Arizona,Ryan Luther,Offensive Rebound,7,8
+14:46,Arizona,Brandon Randolph,Missed Three Point Jumper,7,8
+14:46,Georgia Southern,Simeon Carter,Defensive Rebound,7,8
+14:46,Arizona,Dylan Smith,Foul,7,8
+14:46,Georgia Southern,Isaiah Crawley,Missed Free Throw,7,8
+14:46,Georgia Southern,None,Team Rebound,7,8
+14:46,Georgia Southern,Isaiah Crawley,Free Throw,8,8
+14:23,Arizona,Ryan Luther,Turnover,8,8
+14:23,Georgia Southern,Elijah McCadden,Steal,8,8
+14:03,Georgia Southern,Simeon Carter,Missed Jumper,8,8
+14:02,Arizona,None,Team Rebound,8,8
+14:02,Georgia Southern,Isaiah Crawley,Foul,8,8
+13:50,Arizona,Dylan Smith,Missed Three Point Jumper,8,8
+13:47,Georgia Southern,Simeon Carter,Defensive Rebound,8,8
+13:38,Arizona,Ira Lee,Foul,8,8
+13:24,Georgia Southern,Simeon Carter,Layup,10,8
+13:12,Arizona,Alex Barcello,Missed Jumper,10,8
+13:09,Georgia Southern,Isaiah Crawley,Defensive Rebound,10,8
+13:05,Georgia Southern,David-Lee Jones Jr,Jumper,12,8
+13:05,Arizona,Justin Coleman,Foul,12,8
+13:05,Georgia Southern,David-Lee Jones Jr,Free Throw,13,8
+12:44,Arizona,Dylan Smith,Missed Jumper,13,8
+12:40,Georgia Southern,Elijah McCadden,Defensive Rebound,13,8
+12:35,Georgia Southern,Elijah McCadden,Missed Layup,13,8
+12:32,Arizona,Ira Lee,Defensive Rebound,13,8
+12:24,Arizona,Ira Lee,Layup,13,10
+12:11,Georgia Southern,Isaiah Crawley,Turnover,13,10
+12:11,Arizona,Ryan Luther,Steal,13,10
+12:09,Georgia Southern,David-Lee Jones Jr,Foul,13,10
+11:51,Arizona,Emmanuel Akot,Missed Jumper,13,10
+11:47,Georgia Southern,Montae Glenn,Defensive Rebound,13,10
+11:36,Georgia Southern,Montae Glenn,Missed Jumper,13,10
+11:36,Georgia Southern,Georgia Southern,Offensive Rebound,13,10
+11:36,Arizona,None,None,13,10
+11:24,Georgia Southern,Montae Glenn,Layup,15,10
+11:09,Georgia Southern,Ike Smith,Foul,15,10
+10:59,Arizona,Brandon Williams,Three Point Jumper,15,13
+10:42,Georgia Southern,Ike Smith,Foul,15,13
+10:42,Georgia Southern,Ike Smith,Turnover,15,13
+10:30,Arizona,Devonaire Doutrive,Layup,15,15
+10:16,Georgia Southern,Quan Jackson,Missed Three Point Jumper,15,15
+10:12,Arizona,Devonaire Doutrive,Defensive Rebound,15,15
+10:04,Arizona,Brandon Williams,Three Point Jumper,15,18
+9:40,Georgia Southern,Tookie Brown,Three Point Jumper,18,18
+9:22,Arizona,Emmanuel Akot,Missed Three Point Jumper,18,18
+9:19,Georgia Southern,Isaiah Crawley,Defensive Rebound,18,18
+9:11,Arizona,Devonaire Doutrive,Foul,18,18
+9:09,Georgia Southern,Elijah McCadden,Turnover,18,18
+9:09,Arizona,Justin Coleman,Steal,18,18
+9:03,Arizona,Justin Coleman,Layup,18,20
+8:53,Georgia Southern,Isaiah Crawley,Turnover,18,20
+8:42,Arizona,Chase Jeter,Layup,18,22
+8:27,Georgia Southern,Tookie Brown,Missed Jumper,18,22
+8:24,Arizona,Chase Jeter,Defensive Rebound,18,22
+8:16,Arizona,Justin Coleman,Missed Jumper,18,22
+8:13,Georgia Southern,Isaiah Crawley,Defensive Rebound,18,22
+8:11,Arizona,Alex Barcello,Foul,18,22
+8:11,Georgia Southern,Tookie Brown,Free Throw,19,22
+8:11,Georgia Southern,Tookie Brown,Free Throw,20,22
+8:03,Arizona,Alex Barcello,Three Point Jumper,20,25
+7:54,Georgia Southern,Quan Jackson,Missed Three Point Jumper,20,25
+7:51,Arizona,Chase Jeter,Defensive Rebound,20,25
+7:48,Arizona,Brandon Williams,Foul,20,25
+7:48,Arizona,Brandon Williams,Turnover,20,25
+7:48,Arizona,None,None,20,25
+7:36,Arizona,Ryan Luther,Foul,20,25
+7:36,Georgia Southern,Tookie Brown,Missed Free Throw,20,25
+7:36,Georgia Southern,None,Team Rebound,20,25
+7:36,Georgia Southern,Tookie Brown,Missed Free Throw,20,25
+7:36,Georgia Southern,None,Team Rebound,20,25
+7:36,Georgia Southern,Tookie Brown,Free Throw,21,25
+7:27,Georgia Southern,David-Lee Jones Jr,Foul,21,25
+7:27,Arizona,Chase Jeter,Free Throw,21,26
+7:27,Arizona,Chase Jeter,Free Throw,21,27
+7:13,Georgia Southern,Simeon Carter,Foul,21,27
+7:13,Georgia Southern,Simeon Carter,Turnover,21,27
+7:02,Arizona,Brandon Williams,Missed Three Point Jumper,21,27
+7:00,Arizona,Arizona,Offensive Rebound,21,27
+6:36,Arizona,Alex Barcello,Layup,21,29
+6:28,Arizona,Alex Barcello,Foul,21,29
+6:28,Georgia Southern,David-Lee Jones Jr,Free Throw,22,29
+6:28,Georgia Southern,David-Lee Jones Jr,Free Throw,23,29
+6:08,Georgia Southern,Montae Glenn,Foul,23,29
+6:08,Arizona,Chase Jeter,Missed Free Throw,23,29
+6:08,Arizona,None,Team Rebound,23,29
+6:08,Arizona,Chase Jeter,Free Throw,23,30
+5:44,Georgia Southern,Quan Jackson,Missed Three Point Jumper,23,30
+5:40,Arizona,Brandon Randolph,Defensive Rebound,23,30
+5:28,Arizona,Justin Coleman,Missed Three Point Jumper,23,30
+5:26,Georgia Southern,Georgia Southern,Defensive Rebound,23,30
+5:08,Georgia Southern,Elijah McCadden,Turnover,23,30
+4:53,Arizona,Dylan Smith,Three Point Jumper,23,33
+4:41,Georgia Southern,Elijah McCadden,Missed Layup,23,33
+4:38,Arizona,Ira Lee,Defensive Rebound,23,33
+4:35,Arizona,Brandon Randolph,Missed Three Point Jumper,23,33
+4:31,Arizona,Dylan Smith,Offensive Rebound,23,33
+4:09,Georgia Southern,Montae Glenn,Foul,23,33
+4:09,Arizona,Brandon Randolph,Free Throw,23,34
+4:09,Arizona,Brandon Randolph,Free Throw,23,35
+3:54,Arizona,Brandon Randolph,Foul,23,35
+3:54,Arizona,None,None,23,35
+3:54,Georgia Southern,Simeon Carter,Free Throw,24,35
+3:54,Georgia Southern,Simeon Carter,Free Throw,25,35
+3:35,Arizona,Brandon Williams,Dunk,25,37
+3:24,Georgia Southern,Tookie Brown,Jumper,27,37
+3:02,Arizona,Ryan Luther,Missed Three Point Jumper,27,37
+3:02,Georgia Southern,Simeon Carter,Block,27,37
+2:57,Georgia Southern,Elijah McCadden,Defensive Rebound,27,37
+2:53,Georgia Southern,Elijah McCadden,Jumper,29,37
+2:36,Arizona,Dylan Smith,Three Point Jumper,29,40
+2:17,Georgia Southern,Ike Smith,Jumper,31,40
+1:49,Arizona,Brandon Williams,Missed Three Point Jumper,31,40
+1:46,Georgia Southern,Simeon Carter,Defensive Rebound,31,40
+1:40,Georgia Southern,Ike Smith,Missed Three Point Jumper,31,40
+1:37,Arizona,Ira Lee,Defensive Rebound,31,40
+1:26,Arizona,None,None,31,40
+1:21,Georgia Southern,Elijah McCadden,Foul,31,40
+1:21,Arizona,Brandon Randolph,Free Throw,31,41
+1:21,Arizona,Brandon Randolph,Free Throw,31,42
+1:03,Arizona,Chase Jeter,Foul,31,42
+1:03,Georgia Southern,Tookie Brown,Missed Free Throw,31,42
+1:03,Georgia Southern,None,Team Rebound,31,42
+1:03,Georgia Southern,Tookie Brown,Free Throw,32,42
+0:36,Arizona,Ryan Luther,Three Point Jumper,32,45
+0:01,Georgia Southern,Georgia Southern ,Turnover,32,45
+0:00,Arizona,None,None,32,45
+19:47,Georgia Southern,Montae Glenn,Foul,32,45
+19:47,Arizona,Chase Jeter,Missed Free Throw,32,45
+19:47,Arizona,None,Team Rebound,32,45
+19:47,Arizona,Chase Jeter,Free Throw,32,46
+19:33,Georgia Southern,Elijah McCadden,Missed Jumper,32,46
+19:30,Arizona,Chase Jeter,Defensive Rebound,32,46
+19:22,Arizona,Brandon Randolph,Missed Three Point Jumper,32,46
+19:19,Georgia Southern,Tookie Brown,Defensive Rebound,32,46
+19:14,Georgia Southern,Quan Jackson,Missed Three Point Jumper,32,46
+19:10,Georgia Southern,Simeon Carter,Offensive Rebound,32,46
+19:08,Georgia Southern,Simeon Carter,Missed Jumper,32,46
+19:04,Georgia Southern,Ike Smith,Offensive Rebound,32,46
+19:03,Georgia Southern,Ike Smith,Missed Jumper,32,46
+19:03,Arizona,Chase Jeter,Block,32,46
+18:56,Arizona,Emmanuel Akot,Defensive Rebound,32,46
+18:55,Arizona,Brandon Randolph,Layup,32,48
+18:47,Georgia Southern,Ike Smith,Jumper,34,48
+18:28,Arizona,Chase Jeter,Layup,34,50
+18:22,Arizona,Justin Coleman,Foul,34,50
+18:19,Georgia Southern,Elijah McCadden,Layup,36,50
+18:11,Arizona,Justin Coleman,Foul,36,50
+18:11,Arizona,Justin Coleman,Turnover,36,50
+18:02,Georgia Southern,Simeon Carter,Missed Three Point Jumper,36,50
+17:58,Arizona,Brandon Randolph,Defensive Rebound,36,50
+17:54,Georgia Southern,Elijah McCadden,Foul,36,50
+17:46,Georgia Southern,Simeon Carter,Foul,36,50
+17:46,Arizona,Chase Jeter,Free Throw,36,51
+17:46,Arizona,Chase Jeter,Free Throw,36,52
+17:33,Georgia Southern,Simeon Carter,Missed Layup,36,52
+17:29,Arizona,Chase Jeter,Defensive Rebound,36,52
+17:23,Arizona,Chase Jeter,Layup,36,54
+17:05,Arizona,Brandon Williams,Foul,36,54
+16:55,Georgia Southern,Quan Jackson,Turnover,36,54
+16:55,Arizona,Emmanuel Akot,Steal,36,54
+16:48,Arizona,Dylan Smith,Missed Jumper,36,54
+16:44,Georgia Southern,Tookie Brown,Defensive Rebound,36,54
+16:40,Georgia Southern,Tookie Brown,Layup,38,54
+16:39,Georgia Southern,None,None,38,54
+16:10,Georgia Southern,Isaiah Crawley,Foul,38,54
+16:10,Arizona,Emmanuel Akot,Missed Free Throw,38,54
+16:10,Arizona,None,Team Rebound,38,54
+16:10,Arizona,Emmanuel Akot,Missed Free Throw,38,54
+16:07,Georgia Southern,Isaiah Crawley,Defensive Rebound,38,54
+15:53,Georgia Southern,Tookie Brown,Missed Layup,38,54
+15:53,Arizona,Chase Jeter,Block,38,54
+15:47,Georgia Southern,Tookie Brown,Offensive Rebound,38,54
+15:46,Georgia Southern,Tookie Brown,Missed Jumper,38,54
+15:46,Arizona,Brandon Williams,Defensive Rebound,38,54
+15:46,Arizona,None,None,38,54
+15:44,Arizona,None,None,38,54
+15:44,Georgia Southern,Simeon Carter,Foul,38,54
+15:44,Arizona,None,None,38,54
+15:44,Arizona,Brandon Randolph,Free Throw,38,55
+15:44,Arizona,Brandon Randolph,Free Throw,38,56
+15:32,Georgia Southern,Isaiah Crawley,Missed Jumper,38,56
+15:28,Arizona,Chase Jeter,Defensive Rebound,38,56
+15:23,Arizona,Brandon Randolph,Layup,38,58
+15:08,Georgia Southern,Simeon Carter,Missed Layup,38,58
+15:03,Georgia Southern,Isaiah Crawley,Offensive Rebound,38,58
+15:00,Georgia Southern,Isaiah Crawley,Layup,40,58
+14:42,Arizona,Brandon Randolph,Missed Three Point Jumper,40,58
+14:40,Arizona,Chase Jeter,Offensive Rebound,40,58
+14:40,Georgia Southern,Isaiah Crawley,Foul,40,58
+14:40,Arizona,Chase Jeter,Free Throw,40,59
+14:40,Arizona,Chase Jeter,Free Throw,40,60
+14:23,Georgia Southern,Isaiah Crawley,Jumper,42,60
+14:23,Arizona,Ryan Luther,Foul,42,60
+14:22,Georgia Southern,Isaiah Crawley,Missed Free Throw,42,60
+14:19,Arizona,Dylan Smith,Defensive Rebound,42,60
+14:04,Arizona,Ira Lee,Layup,42,62
+13:38,Georgia Southern,Isaiah Crawley,Layup,44,62
+13:20,Georgia Southern,Tookie Brown,Foul,44,62
+13:20,Arizona,Alex Barcello,Free Throw,44,63
+13:20,Arizona,Alex Barcello,Free Throw,44,64
+13:11,Georgia Southern,Isaiah Crawley,Turnover,44,64
+13:11,Arizona,Alex Barcello,Steal,44,64
+13:06,Arizona,Alex Barcello,Layup,44,66
+13:01,Georgia Southern,Simeon Carter,Jumper,46,66
+12:43,Arizona,Ira Lee,Missed Layup,46,66
+12:43,Georgia Southern,Simeon Carter,Block,46,66
+12:43,Georgia Southern,Simeon Carter,Defensive Rebound,46,66
+12:40,Georgia Southern,Tookie Brown,Foul,46,66
+12:40,Georgia Southern,Tookie Brown,Turnover,46,66
+12:24,Arizona,Dylan Smith,Jumper,46,68
+12:17,Arizona,Alex Barcello,Foul,46,68
+12:16,Georgia Southern,Ike Smith,Missed Three Point Jumper,46,68
+12:12,Arizona,Dylan Smith,Defensive Rebound,46,68
+12:04,Arizona,Dylan Smith,Jumper,46,70
+11:51,Georgia Southern,Simeon Carter,Missed Jumper,46,70
+11:48,Georgia Southern,Calvin Wishart,Offensive Rebound,46,70
+11:45,Georgia Southern,Calvin Wishart,Missed Jumper,46,70
+11:42,Arizona,Ira Lee,Defensive Rebound,46,70
+11:39,Arizona,Alex Barcello,Layup,46,72
+11:29,Georgia Southern,Simeon Carter,Dunk,48,72
+11:19,Arizona,Dylan Smith,Missed Three Point Jumper,48,72
+11:16,Georgia Southern,David-Lee Jones Jr,Defensive Rebound,48,72
+11:12,Georgia Southern,David-Lee Jones Jr,Missed Three Point Jumper,48,72
+11:09,Arizona,Alex Barcello,Defensive Rebound,48,72
+11:04,Arizona,Alex Barcello,Missed Jumper,48,72
+11:01,Georgia Southern,Ike Smith,Defensive Rebound,48,72
+10:55,Georgia Southern,Simeon Carter,Missed Three Point Jumper,48,72
+10:52,Arizona,Dylan Smith,Defensive Rebound,48,72
+10:34,Georgia Southern,Calvin Wishart,Foul,48,72
+10:34,Arizona,None,None,48,72
+10:34,Arizona,Emmanuel Akot,Missed Free Throw,48,72
+10:32,Georgia Southern,Ike Smith,Defensive Rebound,48,72
+10:29,Georgia Southern,Tookie Brown,Layup,50,72
+10:01,Georgia Southern,Elijah McCadden,Foul,50,72
+10:01,Arizona,Chase Jeter,Free Throw,50,73
+10:01,Arizona,Chase Jeter,Free Throw,50,74
+9:36,Georgia Southern,Calvin Wishart,Missed Three Point Jumper,50,74
+9:33,Arizona,Arizona,Defensive Rebound,50,74
+9:04,Arizona,Dylan Smith,Missed Three Point Jumper,50,74
+9:01,Georgia Southern,Ike Smith,Defensive Rebound,50,74
+8:54,Georgia Southern,Montae Glenn,Missed Layup,50,74
+8:54,Arizona,Ira Lee,Block,50,74
+8:47,Georgia Southern,Montae Glenn,Offensive Rebound,50,74
+8:46,Georgia Southern,Montae Glenn,Missed Layup,50,74
+8:43,Arizona,Brandon Williams,Defensive Rebound,50,74
+8:41,Arizona,Brandon Williams,Layup,50,76
+8:33,Arizona,Dylan Smith,Foul,50,76
+8:33,Georgia Southern,Ike Smith,Free Throw,51,76
+8:33,Georgia Southern,Ike Smith,Free Throw,52,76
+8:08,Arizona,Brandon Williams,Layup,52,78
+7:43,Arizona,Dylan Smith,Foul,52,78
+7:43,Arizona,None,None,52,78
+7:43,Georgia Southern,Tookie Brown,Free Throw,53,78
+7:43,Georgia Southern,Tookie Brown,Free Throw,54,78
+7:26,Arizona,Brandon Williams,Missed Three Point Jumper,54,78
+7:23,Arizona,Ira Lee,Offensive Rebound,54,78
+7:17,Arizona,Ryan Luther,Layup,54,80
+7:11,Georgia Southern,Quan Jackson,Layup,56,80
+6:58,Arizona,Ryan Luther,Three Point Jumper,56,83
+6:41,Georgia Southern,Quan Jackson,Missed Layup,56,83
+6:38,Arizona,Brandon Randolph,Defensive Rebound,56,83
+6:36,Arizona,Devonaire Doutrive,Layup,56,85
+6:30,Arizona,Ira Lee,Foul,56,85
+6:30,Georgia Southern,Quan Jackson,Missed Free Throw,56,85
+6:30,Georgia Southern,None,Team Rebound,56,85
+6:30,Georgia Southern,Quan Jackson,Free Throw,57,85
+6:15,Arizona,Dylan Smith,Missed Three Point Jumper,57,85
+6:11,Arizona,Emmanuel Akot,Offensive Rebound,57,85
+6:10,Arizona,Emmanuel Akot,Missed Layup,57,85
+6:06,Georgia Southern,Ike Smith,Defensive Rebound,57,85
+6:02,Georgia Southern,Ike Smith,Missed Three Point Jumper,57,85
+5:59,Arizona,Dylan Smith,Defensive Rebound,57,85
+5:48,Arizona,Devonaire Doutrive,Missed Jumper,57,85
+5:45,Georgia Southern,Montae Glenn,Defensive Rebound,57,85
+5:35,Georgia Southern,Tookie Brown,Missed Jumper,57,85
+5:32,Arizona,Chase Jeter,Defensive Rebound,57,85
+5:16,Arizona,Justin Coleman,Jumper,57,87
+5:05,Georgia Southern,Montae Glenn,Missed Layup,57,87
+5:01,Arizona,Chase Jeter,Defensive Rebound,57,87
+4:47,Arizona,Emmanuel Akot,Layup,57,89
+4:32,Georgia Southern,Calvin Wishart,Missed Jumper,57,89
+4:29,Arizona,Justin Coleman,Defensive Rebound,57,89
+4:17,Georgia Southern,Montae Glenn,Foul,57,89
+4:17,Arizona,Justin Coleman,Free Throw,57,90
+4:17,Arizona,Justin Coleman,Missed Free Throw,57,90
+4:15,Georgia Southern,Isaiah Crawley,Defensive Rebound,57,90
+4:10,Georgia Southern,David-Lee Jones Jr,Jumper,59,90
+3:46,Arizona,Emmanuel Akot,Turnover,59,90
+3:46,Georgia Southern,Isaiah Crawley,Steal,59,90
+3:41,Georgia Southern,Elijah McCadden,Layup,61,90
+3:32,Arizona,Devonaire Doutrive,Missed Jumper,61,90
+3:22,Arizona,Devonaire Doutrive,Offensive Rebound,61,90
+3:22,Georgia Southern,Elijah McCadden,Foul,61,90
+3:22,Arizona,None,None,61,90
+3:22,Arizona,Ira Lee,Free Throw,61,91
+3:21,Arizona,Ira Lee,Missed Free Throw,61,91
+3:20,Georgia Southern,Simeon Carter,Defensive Rebound,61,91
+3:06,Georgia Southern,Isaiah Crawley,Turnover,61,91
+3:00,Arizona,Devonaire Doutrive,Layup,61,93
+2:49,Georgia Southern,Ike Smith,Missed Three Point Jumper,61,93
+2:45,Arizona,Devonaire Doutrive,Defensive Rebound,61,93
+2:42,Arizona,Alex Barcello,Layup,61,95
+2:25,Georgia Southern,Calvin Wishart,Three Point Jumper,64,95
+2:08,Arizona,Alex Barcello,Missed Jumper,64,95
+2:04,Georgia Southern,Ike Smith,Defensive Rebound,64,95
+2:01,Georgia Southern,David-Lee Jones Jr,Layup,66,95
+1:41,Arizona,Dylan Smith,Missed Three Point Jumper,66,95
+1:39,Georgia Southern,Georgia Southern,Defensive Rebound,66,95
+1:32,Georgia Southern,David-Lee Jones Jr,Missed Jumper,66,95
+1:29,Arizona,Dylan Smith,Defensive Rebound,66,95
+1:24,Arizona,Alex Barcello,Missed Three Point Jumper,66,95
+1:21,Georgia Southern,Isaiah Crawley,Defensive Rebound,66,95
+1:17,Georgia Southern,Ike Smith,Missed Three Point Jumper,66,95
+1:14,Arizona,Ira Lee,Defensive Rebound,66,95
+1:04,Arizona,Devonaire Doutrive,Jumper,66,97
+0:44,Arizona,Emmanuel Akot,Foul,66,97
+0:44,Georgia Southern,Isaiah Crawley,Free Throw,67,97
+0:44,Georgia Southern,Isaiah Crawley,Free Throw,68,97
+0:31,Arizona,Alex Barcello,Three Point Jumper,68,100
+0:23,Georgia Southern,David-Lee Jones Jr,Jumper,70,100
+0:00,Arizona,None,None,70,100
+0:00,Arizona,None,None,70,100

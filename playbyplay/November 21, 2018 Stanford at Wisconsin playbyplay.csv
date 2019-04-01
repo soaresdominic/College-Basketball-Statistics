@@ -1,0 +1,338 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Wisconsin,None,None,0,0
+19:35,Wisconsin,Ethan Happ,Missed Jumper,0,0
+19:35,Stanford,Bryce Wills,Defensive Rebound,0,0
+19:10,Stanford,Oscar da Silva,Missed Three Point Jumper,0,0
+19:10,Wisconsin,Ethan Happ,Defensive Rebound,0,0
+19:01,Wisconsin,Nate Reuvers,Dunk,0,2
+18:33,Stanford,Daejon Davis,Missed Three Point Jumper,0,2
+18:33,Stanford,Bryce Wills,Offensive Rebound,0,2
+18:25,Stanford,Cormac Ryan,Missed Jumper,0,2
+18:25,Wisconsin,Nate Reuvers,Block,0,2
+18:25,Stanford,Oscar da Silva,Offensive Rebound,0,2
+18:09,Wisconsin,Khalil Iverson,Foul,0,2
+18:09,Stanford,KZ Okpala,Free Throw,1,2
+18:09,Stanford,KZ Okpala,Free Throw,2,2
+17:58,Wisconsin,Ethan Happ,Layup,2,4
+17:44,Stanford,Oscar da Silva,Missed Jumper,2,4
+17:44,Wisconsin,Ethan Happ,Block,2,4
+17:44,Wisconsin,Ethan Happ,Defensive Rebound,2,4
+17:35,Wisconsin,D'Mitrik Trice,Jumper,2,6
+17:12,Stanford,Oscar da Silva,Missed Jumper,2,6
+17:12,Wisconsin,Nate Reuvers,Block,2,6
+17:12,Wisconsin,Khalil Iverson,Defensive Rebound,2,6
+16:51,Wisconsin,Khalil Iverson,Layup,2,8
+16:35,Stanford,Daejon Davis,Missed Jumper,2,8
+16:35,Wisconsin,Khalil Iverson,Defensive Rebound,2,8
+16:12,Wisconsin,Brad Davison,Foul,2,8
+16:12,Wisconsin,Brad Davison,Turnover,2,8
+16:01,Stanford,KZ Okpala,Turnover,2,8
+15:58,Wisconsin,None,None,2,8
+15:45,Wisconsin,Ethan Happ,Turnover,2,8
+15:45,Stanford,Marcus Sheffield,Steal,2,8
+15:37,Stanford,Marcus Sheffield,Layup,4,8
+15:37,Wisconsin,Trevor Anderson,Foul,4,8
+15:37,Stanford,Marcus Sheffield,Free Throw,5,8
+15:21,Wisconsin,Ethan Happ,Missed Layup,5,8
+15:21,Stanford,Josh Sharma,Block,5,8
+15:21,Stanford,KZ Okpala,Defensive Rebound,5,8
+15:06,Stanford,Daejon Davis,Jumper,7,8
+14:54,Wisconsin,Khalil Iverson,Turnover,7,8
+14:54,Stanford,Josh Sharma,Steal,7,8
+14:42,Stanford,KZ Okpala,Missed Three Point Jumper,7,8
+14:42,Wisconsin,D'Mitrik Trice,Defensive Rebound,7,8
+14:29,Wisconsin,Khalil Iverson,Dunk,7,10
+14:05,Stanford,Cormac Ryan,Turnover,7,10
+14:05,Wisconsin,Khalil Iverson,Steal,7,10
+13:58,Wisconsin,Ethan Happ,Turnover,7,10
+13:40,Stanford,Daejon Davis,Layup,9,10
+13:19,Wisconsin,Brad Davison,Turnover,9,10
+13:11,Stanford,KZ Okpala,Foul,9,10
+13:11,Stanford,KZ Okpala,Turnover,9,10
+13:00,Wisconsin,D'Mitrik Trice,Turnover,9,10
+12:51,Stanford,Josh Sharma,Dunk,11,10
+12:31,Wisconsin,Nate Reuvers,Layup,11,12
+12:31,Stanford,Josh Sharma,Foul,11,12
+12:31,Wisconsin,Nate Reuvers,Missed Free Throw,11,12
+12:31,Stanford,Oscar da Silva,Defensive Rebound,11,12
+12:13,Stanford,Bryce Wills,Missed Jumper,11,12
+12:13,Wisconsin,Nate Reuvers,Defensive Rebound,11,12
+11:57,Wisconsin,Brad Davison,Turnover,11,12
+11:57,Stanford,Marcus Sheffield,Steal,11,12
+11:57,Stanford,None,None,11,12
+11:57,Wisconsin,None,None,11,12
+11:48,Stanford,Cormac Ryan,Missed Three Point Jumper,11,12
+11:48,Wisconsin,Brad Davison,Defensive Rebound,11,12
+11:22,Wisconsin,Ethan Happ,Jumper,11,14
+11:17,Wisconsin,Nate Reuvers,Foul,11,14
+10:53,Stanford,Jaiden Delaire,Three Point Jumper,14,14
+10:21,Wisconsin,Ethan Happ,Layup,14,16
+9:56,Stanford,KZ Okpala,Missed Jumper,14,16
+9:56,Wisconsin,Trevor Anderson,Defensive Rebound,14,16
+9:37,Wisconsin,Nate Reuvers,Missed Jumper,14,16
+9:37,Stanford,KZ Okpala,Defensive Rebound,14,16
+9:25,Stanford,Marcus Sheffield,Missed Jumper,14,16
+9:25,Wisconsin,Ethan Happ,Defensive Rebound,14,16
+9:12,Wisconsin,Ethan Happ,Layup,14,18
+8:55,Stanford,Cormac Ryan,Missed Jumper,14,18
+8:55,Wisconsin,Nate Reuvers,Block,14,18
+8:55,Wisconsin,Trevor Anderson,Defensive Rebound,14,18
+8:35,Wisconsin,Brad Davison,Layup,14,20
+8:30,Stanford,None,None,14,20
+8:24,Stanford,KZ Okpala,Missed Layup,14,20
+8:24,Stanford,KZ Okpala,Offensive Rebound,14,20
+8:24,Stanford,KZ Okpala,Missed Layup,14,20
+8:24,Stanford,Josh Sharma,Offensive Rebound,14,20
+8:08,Stanford,Josh Sharma,Layup,16,20
+7:55,Wisconsin,Brad Davison,Missed Jumper,16,20
+7:55,Stanford,Josh Sharma,Defensive Rebound,16,20
+7:25,Stanford,Daejon Davis,Missed Jumper,16,20
+7:25,Wisconsin,Charles Thomas IV,Defensive Rebound,16,20
+7:13,Wisconsin,D'Mitrik Trice,Missed Jumper,16,20
+7:13,Stanford,Bryce Wills,Block,16,20
+7:13,Wisconsin,Wisconsin,Offensive Rebound,16,20
+6:59,Wisconsin,Charles Thomas IV,Missed Jumper,16,20
+6:59,Stanford,Josh Sharma,Block,16,20
+6:59,Stanford,Josh Sharma,Defensive Rebound,16,20
+6:43,Stanford,Kodye Pugh,Missed Three Point Jumper,16,20
+6:43,Wisconsin,Charles Thomas IV,Defensive Rebound,16,20
+6:19,Wisconsin,D'Mitrik Trice,Jumper,16,22
+5:58,Stanford,Bryce Wills,Layup,18,22
+5:40,Wisconsin,Khalil Iverson,Turnover,18,22
+5:32,Stanford,KZ Okpala,Layup,20,22
+5:05,Wisconsin,D'Mitrik Trice,Missed Jumper,20,22
+5:05,Stanford,Daejon Davis,Defensive Rebound,20,22
+4:55,Stanford,Kodye Pugh,Missed Layup,20,22
+4:55,Wisconsin,Kobe King,Defensive Rebound,20,22
+4:44,Wisconsin,None,None,20,22
+4:30,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,20,22
+4:30,Stanford,Daejon Davis,Defensive Rebound,20,22
+4:20,Stanford,KZ Okpala,Missed Jumper,20,22
+4:20,Wisconsin,Wisconsin,Defensive Rebound,20,22
+4:15,Stanford,Josh Sharma,Foul,20,22
+4:01,Wisconsin,D'Mitrik Trice,Missed Jumper,20,22
+4:01,Stanford,Bryce Wills,Defensive Rebound,20,22
+3:53,Stanford,Bryce Wills,Turnover,20,22
+3:53,Wisconsin,None,None,20,22
+3:38,Wisconsin,Ethan Happ,Missed Layup,20,22
+3:38,Stanford,Lukas Kisunas,Defensive Rebound,20,22
+3:22,Stanford,Lukas Kisunas,Layup,22,22
+3:06,Wisconsin,D'Mitrik Trice,Layup,22,24
+2:47,Stanford,KZ Okpala,Missed Layup,22,24
+2:47,Wisconsin,Ethan Happ,Block,22,24
+2:47,Wisconsin,D'Mitrik Trice,Defensive Rebound,22,24
+2:34,Wisconsin,Ethan Happ,Missed Layup,22,24
+2:34,Stanford,Daejon Davis,Defensive Rebound,22,24
+2:22,Wisconsin,D'Mitrik Trice,Foul,22,24
+2:22,Stanford,Daejon Davis,Free Throw,23,24
+2:22,Stanford,Daejon Davis,Free Throw,24,24
+2:02,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,24,24
+2:02,Wisconsin,Ethan Happ,Offensive Rebound,24,24
+1:52,Wisconsin,Ethan Happ,Layup,24,26
+1:25,Stanford,KZ Okpala,Turnover,24,26
+1:25,Wisconsin,Nate Reuvers,Steal,24,26
+1:25,Wisconsin,None,None,24,26
+1:06,Wisconsin,D'Mitrik Trice,Layup,24,28
+0:49,Stanford,Daejon Davis,Missed Jumper,24,28
+0:49,Wisconsin,Nate Reuvers,Block,24,28
+0:49,Wisconsin,Nate Reuvers,Defensive Rebound,24,28
+0:33,Wisconsin,D'Mitrik Trice,Missed Jumper,24,28
+0:33,Stanford,Oscar da Silva,Defensive Rebound,24,28
+0:06,Stanford,Daejon Davis,Foul,24,28
+0:06,Stanford,Daejon Davis,Turnover,24,28
+0:05,Stanford,Kodye Pugh,Foul,24,28
+0:04,Stanford,Isaac White,Foul,24,28
+0:04,Wisconsin,Ethan Happ,Missed Three Point Jumper,24,28
+0:04,Stanford,Lukas Kisunas,Block,24,28
+0:04,Stanford,Daejon Davis,Defensive Rebound,24,28
+0:00,Wisconsin,None,None,24,28
+20:00,Stanford,None,None,24,28
+19:39,Stanford,Cormac Ryan,Missed Three Point Jumper,24,28
+19:39,Wisconsin,Khalil Iverson,Defensive Rebound,24,28
+19:26,Wisconsin,Khalil Iverson,Missed Jumper,24,28
+19:26,Stanford,Oscar da Silva,Block,24,28
+19:26,Stanford,Daejon Davis,Defensive Rebound,24,28
+19:07,Stanford,KZ Okpala,Missed Jumper,24,28
+19:07,Wisconsin,Ethan Happ,Defensive Rebound,24,28
+18:49,Stanford,Oscar da Silva,Foul,24,28
+18:44,Stanford,Oscar da Silva,Foul,24,28
+18:33,Wisconsin,Nate Reuvers,Jumper,24,30
+18:17,Stanford,KZ Okpala,Foul,24,30
+18:17,Stanford,KZ Okpala,Turnover,24,30
+18:10,Wisconsin,D'Mitrik Trice,Layup,24,32
+17:55,Stanford,Daejon Davis,Missed Jumper,24,32
+17:55,Wisconsin,Nate Reuvers,Block,24,32
+17:55,Stanford,Stanford,Offensive Rebound,24,32
+17:49,Stanford,Josh Sharma,Missed Jumper,24,32
+17:49,Wisconsin,Ethan Happ,Defensive Rebound,24,32
+17:40,Wisconsin,Khalil Iverson,Missed Three Point Jumper,24,32
+17:40,Stanford,KZ Okpala,Defensive Rebound,24,32
+17:32,Stanford,Daejon Davis,Missed Layup,24,32
+17:32,Wisconsin,Nate Reuvers,Block,24,32
+17:32,Wisconsin,D'Mitrik Trice,Defensive Rebound,24,32
+17:19,Stanford,Bryce Wills,Foul,24,32
+17:19,Stanford,None,None,24,32
+17:17,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,24,32
+17:17,Stanford,Cormac Ryan,Defensive Rebound,24,32
+16:50,Stanford,Josh Sharma,Layup,26,32
+16:42,Stanford,Bryce Wills,Foul,26,32
+16:27,Wisconsin,Khalil Iverson,Missed Jumper,26,32
+16:27,Stanford,Josh Sharma,Defensive Rebound,26,32
+16:20,Stanford,Cormac Ryan,Missed Three Point Jumper,26,32
+16:20,Wisconsin,Khalil Iverson,Defensive Rebound,26,32
+16:05,Stanford,Bryce Wills,Foul,26,32
+16:05,Wisconsin,D'Mitrik Trice,Free Throw,26,33
+16:05,Wisconsin,D'Mitrik Trice,Free Throw,26,34
+15:51,Stanford,Cormac Ryan,Missed Three Point Jumper,26,34
+15:51,Wisconsin,Khalil Iverson,Defensive Rebound,26,34
+15:39,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,26,34
+15:39,Wisconsin,Ethan Happ,Offensive Rebound,26,34
+15:27,Wisconsin,None,None,26,34
+15:18,Stanford,Josh Sharma,Foul,26,34
+15:18,Wisconsin,Ethan Happ,Free Throw,26,35
+15:18,Wisconsin,Ethan Happ,Free Throw,26,36
+15:05,Stanford,Daejon Davis,Missed Three Point Jumper,26,36
+15:05,Stanford,Stanford,Offensive Rebound,26,36
+14:58,Stanford,Daejon Davis,Layup,28,36
+14:36,Stanford,Josh Sharma,Foul,28,36
+14:36,Wisconsin,Ethan Happ,Missed Free Throw,28,36
+14:36,Stanford,KZ Okpala,Defensive Rebound,28,36
+14:24,Wisconsin,Brevin Pritzl,Foul,28,36
+14:24,Stanford,Marcus Sheffield,Free Throw,29,36
+14:24,Stanford,Marcus Sheffield,Free Throw,30,36
+14:08,Stanford,Oscar da Silva,Foul,30,36
+14:08,Wisconsin,Brad Davison,Missed Free Throw,30,36
+14:08,Wisconsin,None,Team Rebound,30,36
+14:08,Wisconsin,Brad Davison,Free Throw,30,37
+13:56,Stanford,Oscar da Silva,Missed Three Point Jumper,30,37
+13:56,Wisconsin,Khalil Iverson,Defensive Rebound,30,37
+13:42,Stanford,Isaac White,Foul,30,37
+13:42,Wisconsin,Brad Davison,Free Throw,30,38
+13:42,Wisconsin,Brad Davison,Free Throw,30,39
+13:28,Stanford,Oscar da Silva,Layup,32,39
+13:28,Wisconsin,Ethan Happ,Foul,32,39
+13:28,Stanford,Oscar da Silva,Missed Free Throw,32,39
+13:28,Wisconsin,Khalil Iverson,Defensive Rebound,32,39
+13:14,Wisconsin,Brad Davison,Missed Jumper,32,39
+13:14,Wisconsin,Nate Reuvers,Offensive Rebound,32,39
+13:09,Wisconsin,Nate Reuvers,Layup,32,41
+12:56,Stanford,Oscar da Silva,Missed Dunk,32,41
+12:56,Wisconsin,Nate Reuvers,Block,32,41
+12:56,Stanford,KZ Okpala,Offensive Rebound,32,41
+12:47,Stanford,Marcus Sheffield,Turnover,32,41
+12:29,Wisconsin,D'Mitrik Trice,Missed Jumper,32,41
+12:29,Stanford,Stanford,Defensive Rebound,32,41
+12:17,Wisconsin,Nate Reuvers,Foul,32,41
+12:05,Stanford,Daejon Davis,Turnover,32,41
+12:05,Wisconsin,D'Mitrik Trice,Steal,32,41
+11:50,Wisconsin,D'Mitrik Trice,Turnover,32,41
+11:50,Wisconsin,None,None,32,41
+11:39,Stanford,KZ Okpala,Missed Jumper,32,41
+11:39,Wisconsin,Nate Reuvers,Block,32,41
+11:39,Stanford,Stanford,Offensive Rebound,32,41
+11:28,Stanford,KZ Okpala,Missed Jumper,32,41
+11:28,Stanford,Oscar da Silva,Offensive Rebound,32,41
+11:18,Stanford,Jaiden Delaire,Missed Three Point Jumper,32,41
+11:18,Wisconsin,Wisconsin,Defensive Rebound,32,41
+11:05,Wisconsin,Ethan Happ,Missed Jumper,32,41
+11:05,Stanford,KZ Okpala,Defensive Rebound,32,41
+10:56,Stanford,KZ Okpala,Missed Jumper,32,41
+10:56,Wisconsin,Nate Reuvers,Block,32,41
+10:56,Wisconsin,Khalil Iverson,Defensive Rebound,32,41
+10:41,Stanford,Daejon Davis,Foul,32,41
+10:41,Wisconsin,Khalil Iverson,Free Throw,32,42
+10:41,Wisconsin,Khalil Iverson,Missed Free Throw,32,42
+10:41,Stanford,Oscar da Silva,Defensive Rebound,32,42
+10:22,Stanford,Cormac Ryan,Jumper,34,42
+10:08,Wisconsin,Trevor Anderson,Missed Layup,34,42
+10:08,Stanford,Daejon Davis,Defensive Rebound,34,42
+9:54,Stanford,Oscar da Silva,Layup,36,42
+9:54,Wisconsin,Ethan Happ,Foul,36,42
+9:54,Stanford,Oscar da Silva,Missed Free Throw,36,42
+9:54,Wisconsin,Ethan Happ,Defensive Rebound,36,42
+9:48,Wisconsin,D'Mitrik Trice,Missed Layup,36,42
+9:48,Stanford,KZ Okpala,Defensive Rebound,36,42
+9:19,Stanford,Oscar da Silva,Layup,38,42
+9:19,Wisconsin,Nate Reuvers,Foul,38,42
+9:19,Stanford,Oscar da Silva,Free Throw,39,42
+9:11,Wisconsin,D'Mitrik Trice,Missed Jumper,39,42
+9:11,Wisconsin,Khalil Iverson,Offensive Rebound,39,42
+8:54,Wisconsin,Khalil Iverson,Foul,39,42
+8:54,Wisconsin,Khalil Iverson,Turnover,39,42
+8:31,Stanford,Oscar da Silva,Missed Three Point Jumper,39,42
+8:31,Wisconsin,Ethan Happ,Defensive Rebound,39,42
+8:12,Stanford,Cormac Ryan,Foul,39,42
+8:12,Wisconsin,Brad Davison,Free Throw,39,43
+8:12,Wisconsin,Brad Davison,Free Throw,39,44
+8:01,Stanford,Daejon Davis,Missed Layup,39,44
+8:01,Wisconsin,Khalil Iverson,Defensive Rebound,39,44
+7:48,Wisconsin,None,None,39,44
+7:42,Wisconsin,Brad Davison,Turnover,39,44
+7:23,Stanford,Daejon Davis,Turnover,39,44
+7:23,Wisconsin,Ethan Happ,Steal,39,44
+7:08,Wisconsin,D'Mitrik Trice,Missed Jumper,39,44
+7:08,Wisconsin,Ethan Happ,Offensive Rebound,39,44
+7:03,Wisconsin,Ethan Happ,Missed Jumper,39,44
+7:03,Stanford,Oscar da Silva,Defensive Rebound,39,44
+6:54,Stanford,KZ Okpala,Three Point Jumper,42,44
+6:28,Wisconsin,Ethan Happ,Missed Jumper,42,44
+6:28,Stanford,Oscar da Silva,Defensive Rebound,42,44
+6:20,Stanford,Daejon Davis,Missed Jumper,42,44
+6:20,Stanford,Bryce Wills,Offensive Rebound,42,44
+6:17,Wisconsin,Ethan Happ,Foul,42,44
+6:17,Stanford,Bryce Wills,Missed Free Throw,42,44
+6:17,Stanford,None,Team Rebound,42,44
+6:17,Stanford,Bryce Wills,Missed Free Throw,42,44
+6:17,Wisconsin,Ethan Happ,Defensive Rebound,42,44
+6:02,Wisconsin,Brad Davison,Layup,42,46
+6:02,Stanford,Daejon Davis,Foul,42,46
+6:02,Wisconsin,Brad Davison,Free Throw,42,47
+5:52,Stanford,Cormac Ryan,Missed Three Point Jumper,42,47
+5:52,Wisconsin,Khalil Iverson,Defensive Rebound,42,47
+5:37,Stanford,Bryce Wills,Foul,42,47
+5:37,Wisconsin,D'Mitrik Trice,Free Throw,42,48
+5:37,Wisconsin,D'Mitrik Trice,Free Throw,42,49
+5:16,Stanford,Oscar da Silva,Missed Three Point Jumper,42,49
+5:16,Stanford,Daejon Davis,Offensive Rebound,42,49
+5:10,Wisconsin,Brad Davison,Foul,42,49
+5:10,Stanford,Daejon Davis,Missed Free Throw,42,49
+5:10,Wisconsin,Brad Davison,Defensive Rebound,42,49
+4:46,Wisconsin,Ethan Happ,Layup,42,51
+4:28,Stanford,Oscar da Silva,Turnover,42,51
+4:28,Wisconsin,Brad Davison,Steal,42,51
+4:12,Wisconsin,Brad Davison,Layup,42,53
+4:03,Stanford,None,None,42,53
+4:03,Wisconsin,None,None,42,53
+3:52,Wisconsin,D'Mitrik Trice,Foul,42,53
+3:52,Stanford,KZ Okpala,Missed Free Throw,42,53
+3:52,Stanford,None,Team Rebound,42,53
+3:52,Stanford,KZ Okpala,Missed Free Throw,42,53
+3:52,Wisconsin,Ethan Happ,Defensive Rebound,42,53
+3:34,Wisconsin,Brad Davison,Missed Jumper,42,53
+3:34,Stanford,Cormac Ryan,Block,42,53
+3:34,Stanford,Oscar da Silva,Defensive Rebound,42,53
+3:27,Wisconsin,Ethan Happ,Foul,42,53
+3:27,Stanford,KZ Okpala,Free Throw,43,53
+3:27,Stanford,KZ Okpala,Free Throw,44,53
+3:05,Wisconsin,D'Mitrik Trice,Missed Jumper,44,53
+3:05,Wisconsin,Khalil Iverson,Offensive Rebound,44,53
+2:56,Wisconsin,Ethan Happ,Layup,44,55
+2:41,Wisconsin,Ethan Happ,Foul,44,55
+2:41,Stanford,KZ Okpala,Free Throw,45,55
+2:41,Stanford,KZ Okpala,Free Throw,46,55
+2:32,Wisconsin,D'Mitrik Trice,Layup,46,57
+2:11,Stanford,Bryce Wills,Missed Jumper,46,57
+2:11,Wisconsin,Nate Reuvers,Defensive Rebound,46,57
+1:42,Stanford,Cormac Ryan,Foul,46,57
+1:42,Wisconsin,Brad Davison,Free Throw,46,58
+1:42,Wisconsin,Brad Davison,Free Throw,46,59
+1:39,Stanford,Daejon Davis,Missed Three Point Jumper,46,59
+1:39,Wisconsin,Nate Reuvers,Defensive Rebound,46,59
+1:10,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,46,59
+1:10,Stanford,Bryce Wills,Defensive Rebound,46,59
+0:59,Stanford,Cormac Ryan,Missed Three Point Jumper,46,59
+0:59,Wisconsin,Aleem Ford,Defensive Rebound,46,59
+0:33,Wisconsin,Kobe King,Three Point Jumper,46,62
+0:05,Stanford,Marcus Sheffield,Missed Jumper,46,62
+0:05,Wisconsin,Kobe King,Defensive Rebound,46,62
+0:00,Wisconsin,None,None,46,62

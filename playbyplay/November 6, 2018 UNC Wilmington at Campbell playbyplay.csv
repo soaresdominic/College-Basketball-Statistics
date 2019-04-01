@@ -1,0 +1,375 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:39,Campbell,Isaac Chatman,Layup,0,2
+19:24,UNC Wilmington,Jaylen Fornes,Missed Jumper,0,2
+19:24,UNC Wilmington,Devontae Cacok,Offensive Rebound,0,2
+19:22,UNC Wilmington,Devontae Cacok,Missed Layup,0,2
+19:22,Campbell,Andrew Eudy,Block,0,2
+19:19,Campbell,Andrew Eudy,Defensive Rebound,0,2
+19:10,UNC Wilmington,Jaylen Fornes,Foul,0,2
+19:10,Campbell,Chris Clemons,Missed Free Throw,0,2
+19:10,Campbell,None,Team Rebound,0,2
+19:10,Campbell,Chris Clemons,Free Throw,0,3
+19:06,UNC Wilmington,Jeantal Cylla,Turnover,0,3
+19:04,Campbell,Chris Clemons,Steal,0,3
+19:02,Campbell,Chris Clemons,Missed Layup,0,3
+19:02,Campbell,Chris Clemons,Offensive Rebound,0,3
+18:59,Campbell,Andrew Eudy,Three Point Jumper,0,6
+18:35,UNC Wilmington,Ty Taylor II,Missed Three Point Jumper,0,6
+18:35,Campbell,Isaac Chatman,Defensive Rebound,0,6
+18:16,Campbell,Ja'Cor Nelson,Missed Three Point Jumper,0,6
+18:16,UNC Wilmington,Devontae Cacok,Defensive Rebound,0,6
+17:56,UNC Wilmington,Devontae Cacok,Missed Layup,0,6
+17:56,Campbell,Andrew Eudy,Defensive Rebound,0,6
+17:49,Campbell,Chris Clemons,Jumper,0,8
+17:32,UNC Wilmington,Kai Toews,Turnover,0,8
+17:20,Campbell,Chris Clemons,Layup,0,10
+17:18,UNC Wilmington,None,None,0,10
+17:02,UNC Wilmington,Devontae Cacok,Layup,2,10
+16:41,Campbell,Andrew Eudy,Layup,2,12
+16:27,UNC Wilmington,Matt Elmore,Missed Jumper,2,12
+16:27,UNC Wilmington,Devontae Cacok,Offensive Rebound,2,12
+16:17,UNC Wilmington,Devontae Cacok,Dunk,4,12
+16:01,Campbell,Ja'Cor Nelson,Layup,4,14
+15:48,UNC Wilmington,Jeantal Cylla,Missed Layup,4,14
+15:48,UNC Wilmington,Jeantal Cylla,Offensive Rebound,4,14
+15:44,UNC Wilmington,Jeantal Cylla,Turnover,4,14
+15:43,Campbell,Cory Gensler,Steal,4,14
+15:33,Campbell,Ja'Cor Nelson,Missed Jumper,4,14
+15:33,UNC Wilmington,Devontae Cacok,Defensive Rebound,4,14
+15:26,Campbell,Ja'Cor Nelson,Foul,4,14
+15:26,UNC Wilmington,Ty Taylor II,Free Throw,5,14
+15:26,UNC Wilmington,Ty Taylor II,Free Throw,6,14
+15:04,Campbell,Cory Gensler,Missed Jumper,6,14
+15:04,UNC Wilmington,Shawn O'Connell,Defensive Rebound,6,14
+14:55,UNC Wilmington,Kai Toews,Missed Three Point Jumper,6,14
+14:55,Campbell,Chris Clemons,Defensive Rebound,6,14
+14:45,Campbell,Cory Gensler,Missed Three Point Jumper,6,14
+14:45,UNC Wilmington,Shawn O'Connell,Defensive Rebound,6,14
+14:28,UNC Wilmington,Jay Estime',Three Point Jumper,9,14
+13:58,Campbell,Andrew Eudy,Three Point Jumper,9,17
+13:28,UNC Wilmington,Jaylen Fornes,Turnover,9,17
+13:28,UNC Wilmington,Jaylen Fornes,Foul,9,17
+12:59,Campbell,Brooks Cluxton,Missed Layup,9,17
+12:59,Campbell,Brooks Cluxton,Offensive Rebound,9,17
+12:57,Campbell,Brooks Cluxton,Missed Layup,9,17
+12:57,UNC Wilmington,Jeantal Cylla,Defensive Rebound,9,17
+12:45,UNC Wilmington,Jay Estime',Three Point Jumper,12,17
+12:24,Campbell,Trey Spencer,Missed Three Point Jumper,12,17
+12:24,UNC Wilmington,Ty Gadsden,Defensive Rebound,12,17
+12:16,UNC Wilmington,Jaylen Fornes,Three Point Jumper,15,17
+11:49,UNC Wilmington,Jaylen Fornes,Foul,15,17
+11:49,Campbell,None,None,15,17
+11:30,Campbell,Trey Spencer,Missed Jumper,15,17
+11:30,UNC Wilmington,Jay Estime',Defensive Rebound,15,17
+11:19,Campbell,Brooks Cluxton,Foul,15,17
+11:19,UNC Wilmington,Jeantal Cylla,Free Throw,16,17
+11:19,UNC Wilmington,Jeantal Cylla,Free Throw,17,17
+10:54,Campbell,Brooks Cluxton,Layup,17,19
+10:33,Campbell,Milos Stajcic,Foul,17,19
+10:33,UNC Wilmington,Devontae Cacok,Missed Free Throw,17,19
+10:33,UNC Wilmington,None,Team Rebound,17,19
+10:33,UNC Wilmington,Devontae Cacok,Free Throw,18,19
+10:16,Campbell,Trey Spencer,Missed Layup,18,19
+10:16,Campbell,Andrew Eudy,Offensive Rebound,18,19
+10:01,Campbell,Andrew Eudy,Missed Three Point Jumper,18,19
+10:01,UNC Wilmington,Kai Toews,Defensive Rebound,18,19
+10:00,Campbell,Milos Stajcic,Foul,18,19
+9:56,UNC Wilmington,Ty Taylor II,Missed Layup,18,19
+9:56,Campbell,Isaac Chatman,Block,18,19
+9:55,Campbell,Jordan Whitfield,Defensive Rebound,18,19
+9:49,Campbell,Ja'Cor Nelson,Missed Layup,18,19
+9:49,UNC Wilmington,Devontae Cacok,Defensive Rebound,18,19
+9:40,UNC Wilmington,Ty Taylor II,Three Point Jumper,21,19
+8:58,Campbell,Chris Clemons,Missed Three Point Jumper,21,19
+8:58,UNC Wilmington,Ty Taylor II,Defensive Rebound,21,19
+8:47,UNC Wilmington,Ty Taylor II,Missed Three Point Jumper,21,19
+8:47,Campbell,Campbell,Defensive Rebound,21,19
+8:21,Campbell,Isaac Chatman,Missed Three Point Jumper,21,19
+8:21,UNC Wilmington,Ty Taylor II,Defensive Rebound,21,19
+8:02,UNC Wilmington,Shawn O'Connell,Missed Jumper,21,19
+8:02,Campbell,Andrew Eudy,Defensive Rebound,21,19
+7:53,Campbell,Cory Gensler,Missed Three Point Jumper,21,19
+7:53,UNC Wilmington,Matt Elmore,Defensive Rebound,21,19
+7:44,UNC Wilmington,Ty Gadsden,Three Point Jumper,24,19
+7:24,Campbell,Chris Clemons,Layup,24,21
+7:12,UNC Wilmington,Ty Taylor II,Missed Jumper,24,21
+7:12,UNC Wilmington,Shawn O'Connell,Offensive Rebound,24,21
+7:09,UNC Wilmington,Shawn O'Connell,Layup,26,21
+7:03,Campbell,Chris Clemons,Missed Layup,26,21
+7:03,UNC Wilmington,Ty Gadsden,Block,26,21
+7:01,Campbell,Ja'Cor Nelson,Offensive Rebound,26,21
+6:59,Campbell,Ja'Cor Nelson,Missed Layup,26,21
+6:59,UNC Wilmington,Ty Taylor II,Defensive Rebound,26,21
+6:53,UNC Wilmington,Ty Taylor II,Turnover,26,21
+6:52,Campbell,Chris Clemons,Steal,26,21
+6:49,Campbell,Chris Clemons,Three Point Jumper,26,24
+6:35,UNC Wilmington,Ty Gadsden,Missed Three Point Jumper,26,24
+6:35,Campbell,Isaac Chatman,Defensive Rebound,26,24
+6:27,Campbell,Chris Clemons,Layup,26,26
+6:27,UNC Wilmington,Ty Taylor II,Foul,26,26
+6:27,Campbell,Chris Clemons,Free Throw,26,27
+6:02,UNC Wilmington,Kai Toews,Three Point Jumper,29,27
+5:36,Campbell,Chris Clemons,Missed Three Point Jumper,29,27
+5:36,UNC Wilmington,Shawn O'Connell,Defensive Rebound,29,27
+5:21,UNC Wilmington,Kai Toews,Turnover,29,27
+5:19,Campbell,Cory Gensler,Steal,29,27
+5:19,Campbell,Cory Gensler,Turnover,29,27
+5:11,UNC Wilmington,Jeantal Cylla,Missed Jumper,29,27
+5:11,Campbell,Andrew Eudy,Defensive Rebound,29,27
+5:00,Campbell,Ja'Cor Nelson,Missed Layup,29,27
+5:00,Campbell,Andrew Eudy,Offensive Rebound,29,27
+4:49,Campbell,Andrew Eudy,Layup,29,29
+4:46,UNC Wilmington,Jay Estime',Turnover,29,29
+4:46,Campbell,Andrew Eudy,Steal,29,29
+4:40,Campbell,Cory Gensler,Layup,29,31
+4:30,Campbell,Ja'Cor Nelson,Foul,29,31
+4:17,UNC Wilmington,Jacque Brown,Missed Three Point Jumper,29,31
+4:17,Campbell,Chris Clemons,Defensive Rebound,29,31
+4:16,Campbell,Andrew Eudy,Turnover,29,31
+3:42,UNC Wilmington,Devontae Cacok,Jumper,31,31
+3:25,UNC Wilmington,Jay Estime',Foul,31,31
+3:25,Campbell,Isaac Chatman,Missed Free Throw,31,31
+3:25,Campbell,None,Team Rebound,31,31
+3:25,Campbell,Isaac Chatman,Free Throw,31,32
+3:17,UNC Wilmington,Ty Gadsden,Turnover,31,32
+2:56,Campbell,Chris Clemons,Three Point Jumper,31,35
+2:38,UNC Wilmington,Devontae Cacok,Missed Jumper,31,35
+2:38,Campbell,Andrew Eudy,Defensive Rebound,31,35
+2:31,Campbell,Isaac Chatman,Dunk,31,37
+2:17,UNC Wilmington,Shawn O'Connell,Turnover,31,37
+2:16,Campbell,Trey Spencer,Steal,31,37
+2:16,Campbell,Cory Gensler,Turnover,31,37
+2:07,UNC Wilmington,Ty Taylor II,Three Point Jumper,34,37
+1:38,Campbell,Chris Clemons,Missed Three Point Jumper,34,37
+1:38,UNC Wilmington,Devontae Cacok,Defensive Rebound,34,37
+1:32,Campbell,Trey Spencer,Foul,34,37
+1:28,UNC Wilmington,Jeantal Cylla,Missed Three Point Jumper,34,37
+1:28,UNC Wilmington,UNC Wilmington,Offensive Rebound,34,37
+1:24,Campbell,Andrew Eudy,Foul,34,37
+1:24,UNC Wilmington,Devontae Cacok,Free Throw,35,37
+1:24,UNC Wilmington,Devontae Cacok,Free Throw,36,37
+0:56,Campbell,Chris Clemons,Missed Three Point Jumper,36,37
+0:56,UNC Wilmington,Ty Taylor II,Defensive Rebound,36,37
+0:48,UNC Wilmington,Jay Estime',Three Point Jumper,39,37
+0:38,Campbell,None,None,39,37
+0:17,Campbell,Isaac Chatman,Three Point Jumper,39,40
+0:01,UNC Wilmington,Kai Toews,Missed Three Point Jumper,39,40
+0:01,Campbell,Campbell,Defensive Rebound,39,40
+0:00,Campbell,None,None,39,40
+19:47,UNC Wilmington,Devontae Cacok,Jumper,41,40
+19:34,Campbell,Cory Gensler,Missed Three Point Jumper,41,40
+19:34,UNC Wilmington,Devontae Cacok,Defensive Rebound,41,40
+19:06,UNC Wilmington,Devontae Cacok,Missed Jumper,41,40
+19:06,Campbell,Cory Gensler,Defensive Rebound,41,40
+19:06,Campbell,Cory Gensler,Missed Layup,41,40
+19:06,Campbell,Chris Clemons,Offensive Rebound,41,40
+19:06,Campbell,Chris Clemons,Missed Three Point Jumper,41,40
+19:06,UNC Wilmington,Ty Taylor II,Defensive Rebound,41,40
+18:54,UNC Wilmington,Ty Taylor II,Missed Jumper,41,40
+18:54,UNC Wilmington,Jeantal Cylla,Offensive Rebound,41,40
+18:30,UNC Wilmington,Jeantal Cylla,Layup,43,40
+18:01,Campbell,Andrew Eudy,Three Point Jumper,43,43
+17:37,Campbell,Andrew Eudy,Missed Jumper,43,43
+17:37,UNC Wilmington,Ty Taylor II,Defensive Rebound,43,43
+17:31,UNC Wilmington,Devontae Cacok,Foul,43,43
+17:31,UNC Wilmington,Devontae Cacok,Turnover,43,43
+17:26,Campbell,Isaac Chatman,Missed Three Point Jumper,43,43
+17:26,UNC Wilmington,Ty Taylor II,Defensive Rebound,43,43
+17:06,Campbell,Isaac Chatman,Foul,43,43
+17:06,UNC Wilmington,Jaylen Fornes,Missed Free Throw,43,43
+17:06,UNC Wilmington,None,Team Rebound,43,43
+17:06,UNC Wilmington,Jaylen Fornes,Free Throw,44,43
+16:59,Campbell,Cory Gensler,Layup,44,45
+16:59,Campbell,Chris Clemons,Offensive Rebound,44,45
+16:43,UNC Wilmington,Kai Toews,Turnover,44,45
+16:43,Campbell,Chris Clemons,Steal,44,45
+16:22,Campbell,Ja'Cor Nelson,Missed Layup,44,45
+16:22,UNC Wilmington,Jay Estime',Defensive Rebound,44,45
+16:03,UNC Wilmington,Jay Estime',Missed Jumper,44,45
+16:03,Campbell,Campbell,Defensive Rebound,44,45
+15:48,Campbell,Trey Spencer,Layup,44,47
+15:33,UNC Wilmington,Devontae Cacok,Missed Layup,44,47
+15:33,Campbell,Andrew Eudy,Defensive Rebound,44,47
+15:26,Campbell,Isaac Chatman,Layup,44,49
+15:08,UNC Wilmington,Ty Taylor II,Turnover,44,49
+15:07,Campbell,Chris Clemons,Steal,44,49
+14:47,Campbell,Andrew Eudy,Turnover,44,49
+14:46,UNC Wilmington,Ty Taylor II,Steal,44,49
+14:44,UNC Wilmington,Ty Taylor II,Layup,46,49
+14:41,UNC Wilmington,None,None,46,49
+14:41,Campbell,None,None,46,49
+14:24,Campbell,Chris Clemons,Missed Three Point Jumper,46,49
+14:24,UNC Wilmington,Jeantal Cylla,Defensive Rebound,46,49
+14:02,Campbell,Chris Clemons,Foul,46,49
+14:02,Campbell,None,None,46,49
+14:02,UNC Wilmington,Jeantal Cylla,Free Throw,47,49
+14:02,UNC Wilmington,Jeantal Cylla,Free Throw,48,49
+13:50,Campbell,Trey Spencer,Missed Free Throw,48,49
+13:50,Campbell,Trey Spencer,Offensive Rebound,48,49
+13:31,Campbell,Ja'Cor Nelson,Missed Jumper,48,49
+13:31,UNC Wilmington,Jaylen Fornes,Defensive Rebound,48,49
+13:13,UNC Wilmington,Shawn O'Connell,Turnover,48,49
+13:12,Campbell,Chris Clemons,Steal,48,49
+12:55,Campbell,Ja'Cor Nelson,Missed Layup,48,49
+12:55,Campbell,Ja'Cor Nelson,Offensive Rebound,48,49
+12:53,UNC Wilmington,Jay Estime',Foul,48,49
+12:53,Campbell,Ja'Cor Nelson,Missed Free Throw,48,49
+12:53,Campbell,None,Team Rebound,48,49
+12:53,Campbell,Ja'Cor Nelson,Free Throw,48,50
+12:43,UNC Wilmington,Ty Taylor II,Three Point Jumper,51,50
+12:30,UNC Wilmington,Jeantal Cylla,Foul,51,50
+12:15,Campbell,Andrew Eudy,Jumper,51,52
+11:55,UNC Wilmington,Devontae Cacok,Jumper,53,52
+11:35,Campbell,Andrew Eudy,Missed Layup,53,52
+11:35,UNC Wilmington,Jay Estime',Defensive Rebound,53,52
+11:26,Campbell,Trey Spencer,Foul,53,52
+11:26,Campbell,None,None,53,52
+11:26,UNC Wilmington,Ty Taylor II,Free Throw,54,52
+11:26,UNC Wilmington,Ty Taylor II,Free Throw,55,52
+11:26,UNC Wilmington,Ty Taylor II,Free Throw,56,52
+11:11,Campbell,Isaac Chatman,Missed Three Point Jumper,56,52
+11:11,UNC Wilmington,Jay Estime',Defensive Rebound,56,52
+10:48,UNC Wilmington,Ty Gadsden,Three Point Jumper,59,52
+10:31,Campbell,Andrew Eudy,Three Point Jumper,59,55
+10:22,UNC Wilmington,Jeantal Cylla,Turnover,59,55
+10:13,Campbell,Andrew Eudy,Three Point Jumper,59,58
+9:52,UNC Wilmington,Ty Taylor II,Missed Jumper,59,58
+9:52,Campbell,Cory Gensler,Defensive Rebound,59,58
+9:42,Campbell,Isaac Chatman,Missed Layup,59,58
+9:42,UNC Wilmington,Devontae Cacok,Defensive Rebound,59,58
+9:28,UNC Wilmington,Kai Toews,Missed Three Point Jumper,59,58
+9:28,Campbell,Chris Clemons,Defensive Rebound,59,58
+9:17,Campbell,Chris Clemons,Three Point Jumper,59,61
+9:07,UNC Wilmington,Jeantal Cylla,Missed Layup,59,61
+9:07,Campbell,Andrew Eudy,Block,59,61
+9:01,Campbell,Andrew Eudy,Defensive Rebound,59,61
+8:57,Campbell,Cory Gensler,Three Point Jumper,59,64
+8:57,UNC Wilmington,None,None,59,64
+8:48,UNC Wilmington,None,None,59,64
+8:37,Campbell,Brooks Cluxton,Foul,59,64
+8:37,UNC Wilmington,Jeantal Cylla,Free Throw,60,64
+8:37,UNC Wilmington,Jeantal Cylla,Free Throw,61,64
+8:23,Campbell,Cory Gensler,Layup,61,66
+8:10,Campbell,Cory Gensler,Foul,61,66
+8:10,UNC Wilmington,Ty Taylor II,Missed Free Throw,61,66
+8:10,UNC Wilmington,None,Team Rebound,61,66
+8:10,UNC Wilmington,Ty Taylor II,Free Throw,62,66
+8:10,UNC Wilmington,Ty Taylor II,Missed Free Throw,62,66
+8:10,UNC Wilmington,UNC Wilmington,Offensive Rebound,62,66
+7:59,UNC Wilmington,Jaylen Fornes,Three Point Jumper,65,66
+7:44,Campbell,Jordan Whitfield,Missed Three Point Jumper,65,66
+7:44,UNC Wilmington,Devontae Cacok,Defensive Rebound,65,66
+7:21,UNC Wilmington,Jaylen Fornes,Missed Three Point Jumper,65,66
+7:21,UNC Wilmington,Jaylen Fornes,Offensive Rebound,65,66
+7:16,Campbell,Andrew Eudy,Foul,65,66
+7:16,Campbell,None,None,65,66
+7:16,UNC Wilmington,Jaylen Fornes,Free Throw,66,66
+7:16,UNC Wilmington,Jaylen Fornes,Free Throw,67,66
+7:00,Campbell,Brooks Cluxton,Layup,67,68
+6:35,UNC Wilmington,Jaylen Fornes,Missed Jumper,67,68
+6:35,UNC Wilmington,Jaylen Fornes,Offensive Rebound,67,68
+6:28,UNC Wilmington,Jaylen Fornes,Missed Jumper,67,68
+6:28,Campbell,Chris Clemons,Defensive Rebound,67,68
+6:22,UNC Wilmington,Jay Estime',Foul,67,68
+6:22,Campbell,Isaac Chatman,Layup,67,70
+5:42,UNC Wilmington,Devontae Cacok,Layup,69,70
+5:27,Campbell,Chris Clemons,Three Point Jumper,69,73
+5:23,Campbell,None,None,69,73
+5:05,UNC Wilmington,Jay Estime',Jumper,71,73
+4:42,Campbell,Chris Clemons,Missed Three Point Jumper,71,73
+4:42,UNC Wilmington,Shawn O'Connell,Defensive Rebound,71,73
+4:27,UNC Wilmington,Shawn O'Connell,Layup,73,73
+4:07,UNC Wilmington,Shawn O'Connell,Foul,73,73
+4:07,Campbell,Cory Gensler,Missed Free Throw,73,73
+4:07,Campbell,None,Team Rebound,73,73
+4:07,Campbell,Cory Gensler,Missed Free Throw,73,73
+4:07,UNC Wilmington,Devontae Cacok,Defensive Rebound,73,73
+3:43,UNC Wilmington,Jeantal Cylla,Missed Three Point Jumper,73,73
+3:43,UNC Wilmington,Jay Estime',Offensive Rebound,73,73
+3:41,Campbell,None,None,73,73
+3:40,UNC Wilmington,Ty Taylor II,Missed Jumper,73,73
+3:40,Campbell,Isaac Chatman,Defensive Rebound,73,73
+3:23,UNC Wilmington,Devontae Cacok,Foul,73,73
+3:07,Campbell,Chris Clemons,Missed Three Point Jumper,73,73
+3:07,UNC Wilmington,Jeantal Cylla,Defensive Rebound,73,73
+2:48,UNC Wilmington,Jeantal Cylla,Missed Layup,73,73
+2:48,UNC Wilmington,Devontae Cacok,Offensive Rebound,73,73
+2:44,UNC Wilmington,None,None,75,73
+2:25,UNC Wilmington,Ty Gadsden,Foul,75,73
+2:25,Campbell,Chris Clemons,Free Throw,75,74
+2:25,Campbell,Chris Clemons,Missed Free Throw,75,74
+2:25,UNC Wilmington,Devontae Cacok,Defensive Rebound,75,74
+2:11,Campbell,Andrew Eudy,Foul,75,74
+2:11,UNC Wilmington,Jeantal Cylla,Missed Free Throw,75,74
+2:11,Campbell,Chris Clemons,Defensive Rebound,75,74
+1:59,Campbell,Isaac Chatman,Foul,75,74
+1:59,Campbell,Isaac Chatman,Turnover,75,74
+1:40,UNC Wilmington,Devontae Cacok,Foul,75,74
+1:40,UNC Wilmington,Devontae Cacok,Turnover,75,74
+1:29,Campbell,Chris Clemons,Layup,75,76
+1:17,UNC Wilmington,Ty Taylor II,Turnover,75,76
+1:17,Campbell,Jordan Whitfield,Steal,75,76
+1:15,UNC Wilmington,Ty Taylor II,Foul,75,76
+1:15,Campbell,Jordan Whitfield,Free Throw,75,77
+1:15,Campbell,Jordan Whitfield,Free Throw,75,78
+0:50,Campbell,Andrew Eudy,Foul,75,78
+0:50,UNC Wilmington,Jay Estime',Missed Free Throw,75,78
+0:50,UNC Wilmington,None,Team Rebound,75,78
+0:50,UNC Wilmington,Jay Estime',Free Throw,76,78
+0:37,UNC Wilmington,Devontae Cacok,Foul,76,78
+0:37,Campbell,Chris Clemons,Free Throw,76,79
+0:37,Campbell,Chris Clemons,Free Throw,76,80
+0:32,UNC Wilmington,Jay Estime',Three Point Jumper,79,80
+0:25,Campbell,Jordan Whitfield,Turnover,79,80
+0:25,UNC Wilmington,Kai Toews,Steal,79,80
+0:24,UNC Wilmington,Kai Toews,Turnover,79,80
+0:19,Campbell,None,None,79,80
+0:16,UNC Wilmington,Jeantal Cylla,Foul,79,80
+0:16,Campbell,Chris Clemons,Free Throw,79,81
+0:16,Campbell,Chris Clemons,Free Throw,79,82
+0:03,UNC Wilmington,Ty Taylor II,Three Point Jumper,82,82
+0:00,Campbell,None,None,82,82
+5:00,UNC Wilmington,Devontae Cacok,Layup,84,82
+4:17,Campbell,Chris Clemons,Missed Three Point Jumper,84,82
+4:17,Campbell,Isaac Chatman,Offensive Rebound,84,82
+4:14,Campbell,Jordan Whitfield,Missed Layup,84,82
+4:14,UNC Wilmington,Devontae Cacok,Block,84,82
+4:08,UNC Wilmington,Ty Taylor II,Defensive Rebound,84,82
+4:07,UNC Wilmington,Ty Taylor II,Missed Three Point Jumper,84,82
+4:07,Campbell,Campbell,Defensive Rebound,84,82
+3:43,Campbell,Chris Clemons,Three Point Jumper,84,85
+3:26,UNC Wilmington,Ty Taylor II,Jumper,86,85
+3:18,Campbell,None,None,86,85
+3:02,Campbell,Brooks Cluxton,Turnover,86,85
+3:01,UNC Wilmington,Devontae Cacok,Steal,86,85
+2:46,UNC Wilmington,Ty Taylor II,Three Point Jumper,89,85
+2:17,Campbell,Chris Clemons,Missed Three Point Jumper,89,85
+2:17,Campbell,Chris Clemons,Offensive Rebound,89,85
+2:14,UNC Wilmington,Jeantal Cylla,Foul,89,85
+2:14,Campbell,Chris Clemons,Free Throw,89,86
+2:14,Campbell,Chris Clemons,Free Throw,89,87
+2:04,UNC Wilmington,Ty Taylor II,Missed Three Point Jumper,89,87
+2:04,UNC Wilmington,Devontae Cacok,Offensive Rebound,89,87
+1:56,Campbell,Chris Clemons,Foul,89,87
+1:56,UNC Wilmington,Ty Taylor II,Free Throw,90,87
+1:56,UNC Wilmington,Ty Taylor II,Missed Free Throw,90,87
+1:56,Campbell,Isaac Chatman,Defensive Rebound,90,87
+1:33,Campbell,Chris Clemons,Three Point Jumper,90,90
+1:03,UNC Wilmington,Ty Gadsden,Missed Three Point Jumper,90,90
+1:03,Campbell,Isaac Chatman,Defensive Rebound,90,90
+0:50,Campbell,None,None,90,90
+0:36,Campbell,Chris Clemons,Layup,90,92
+0:36,UNC Wilmington,Ty Taylor II,Foul,90,92
+0:36,Campbell,Chris Clemons,Free Throw,90,93
+0:28,UNC Wilmington,Kai Toews,Turnover,90,93
+0:27,Campbell,Ja'Cor Nelson,Steal,90,93
+0:24,UNC Wilmington,Devontae Cacok,Foul,90,93
+0:24,Campbell,Chris Clemons,Free Throw,90,94
+0:24,Campbell,Chris Clemons,Free Throw,90,95
+0:06,UNC Wilmington,Ty Taylor II,Three Point Jumper,93,95
+0:03,UNC Wilmington,Ty Taylor II,Foul,93,95
+0:03,Campbell,Chris Clemons,Free Throw,93,96
+0:03,Campbell,Chris Clemons,Free Throw,93,97
+0:00,UNC Wilmington,Kai Toews,Missed Three Point Jumper,93,97
+0:00,Campbell,Campbell,Defensive Rebound,93,97
+0:00,Campbell,None,None,93,97

@@ -1,0 +1,289 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,TCU,None,None,0,0
+19:53,TCU,Desmond Bane,Turnover,0,0
+19:53,Kansas State,Kamau Stokes,Steal,0,0
+19:36,Kansas State,Barry Brown Jr.,Jumper,0,2
+19:08,TCU,Kevin Samuel,Foul,0,2
+19:08,TCU,Kevin Samuel,Turnover,0,2
+18:59,TCU,Russell Barlow,Foul,0,2
+18:59,Kansas State,Makol Mawien,Free Throw,0,3
+18:59,Kansas State,Makol Mawien,Free Throw,0,4
+18:37,TCU,Alex Robinson,Turnover,0,4
+18:28,Kansas State,Kamau Stokes,Three Point Jumper,0,7
+18:02,Kansas State,Makol Mawien,Foul,0,7
+18:02,TCU,RJ Nembhard,Missed Free Throw,0,7
+18:02,TCU,None,Team Rebound,0,7
+18:02,TCU,RJ Nembhard,Free Throw,1,7
+17:52,Kansas State,Makol Mawien,Foul,1,7
+17:52,Kansas State,Makol Mawien,Turnover,1,7
+17:36,TCU,Russell Barlow,Missed Three Point Jumper,1,7
+17:36,Kansas State,Xavier Sneed,Defensive Rebound,1,7
+17:20,TCU,Desmond Bane,Foul,1,7
+17:20,Kansas State,Xavier Sneed,Free Throw,1,8
+17:20,Kansas State,Xavier Sneed,Missed Free Throw,1,8
+17:20,TCU,Russell Barlow,Defensive Rebound,1,8
+17:06,TCU,Russell Barlow,Layup,3,8
+16:48,Kansas State,Kamau Stokes,Three Point Jumper,3,11
+16:35,TCU,Alex Robinson,Missed Jumper,3,11
+16:35,Kansas State,Xavier Sneed,Defensive Rebound,3,11
+16:16,Kansas State,Dean Wade,Missed Jumper,3,11
+16:16,TCU,Russell Barlow,Defensive Rebound,3,11
+16:01,TCU,Kendric Davis,Missed Three Point Jumper,3,11
+16:01,TCU,Desmond Bane,Offensive Rebound,3,11
+15:51,TCU,Kendric Davis,Missed Three Point Jumper,3,11
+15:51,Kansas State,Kansas State,Defensive Rebound,3,11
+15:45,Kansas State,None,None,3,11
+15:29,Kansas State,Levi Stockard III,Missed Layup,3,11
+15:29,TCU,TCU,Defensive Rebound,3,11
+15:01,Kansas State,Kamau Stokes,Foul,3,11
+14:59,TCU,Alex Robinson,Missed Three Point Jumper,3,11
+14:59,TCU,Alex Robinson,Offensive Rebound,3,11
+14:55,TCU,Alex Robinson,Layup,5,11
+14:32,Kansas State,Mike McGuirl,Missed Layup,5,11
+14:32,TCU,Russell Barlow,Defensive Rebound,5,11
+14:21,TCU,Kendric Davis,Three Point Jumper,8,11
+14:00,Kansas State,Barry Brown Jr.,Jumper,8,13
+13:48,TCU,Alex Robinson,Layup,10,13
+13:48,Kansas State,Levi Stockard III,Foul,10,13
+13:48,TCU,Alex Robinson,Missed Free Throw,10,13
+13:48,Kansas State,Xavier Sneed,Defensive Rebound,10,13
+13:31,Kansas State,Dean Wade,Layup,10,15
+13:13,TCU,Kendric Davis,Missed Layup,10,15
+13:13,Kansas State,Kansas State,Defensive Rebound,10,15
+12:57,Kansas State,Xavier Sneed,Layup,10,17
+12:33,TCU,Alex Robinson,Turnover,10,17
+12:33,Kansas State,Cartier Diarra,Steal,10,17
+12:19,TCU,Lat Mayen,Foul,10,17
+12:19,Kansas State,Dean Wade,Free Throw,10,18
+12:19,Kansas State,Dean Wade,Free Throw,10,19
+11:54,TCU,JD Miller,Jumper,12,19
+11:36,Kansas State,Kamau Stokes,Missed Three Point Jumper,12,19
+11:36,TCU,JD Miller,Defensive Rebound,12,19
+11:17,TCU,Alex Robinson,Layup,14,19
+11:08,Kansas State,Mike McGuirl,Missed Three Point Jumper,14,19
+11:08,TCU,Lat Mayen,Defensive Rebound,14,19
+10:57,TCU,Desmond Bane,Three Point Jumper,17,19
+10:54,Kansas State,None,None,17,19
+10:54,Kansas State,None,None,17,19
+10:40,Kansas State,Dean Wade,Layup,17,21
+10:23,TCU,Desmond Bane,Three Point Jumper,20,21
+9:58,Kansas State,Xavier Sneed,Three Point Jumper,20,24
+9:38,TCU,RJ Nembhard,Missed Three Point Jumper,20,24
+9:38,Kansas State,Kamau Stokes,Defensive Rebound,20,24
+9:33,TCU,RJ Nembhard,Foul,20,24
+9:19,TCU,Desmond Bane,Foul,20,24
+9:04,Kansas State,Dean Wade,Missed Jumper,20,24
+9:04,Kansas State,Kansas State,Offensive Rebound,20,24
+8:57,Kansas State,Barry Brown Jr.,Missed Three Point Jumper,20,24
+8:57,TCU,RJ Nembhard,Defensive Rebound,20,24
+8:45,TCU,Lat Mayen,Turnover,20,24
+8:32,Kansas State,Dean Wade,Missed Three Point Jumper,20,24
+8:32,TCU,Alex Robinson,Defensive Rebound,20,24
+8:17,Kansas State,Xavier Sneed,Foul,20,24
+8:09,TCU,JD Miller,Missed Three Point Jumper,20,24
+8:09,TCU,Kevin Samuel,Offensive Rebound,20,24
+7:40,Kansas State,None,None,20,24
+7:34,TCU,Alex Robinson,Turnover,20,24
+7:34,Kansas State,Kamau Stokes,Steal,20,24
+7:29,Kansas State,Barry Brown Jr.,Layup,20,26
+7:03,TCU,JD Miller,Three Point Jumper,23,26
+6:39,Kansas State,Cartier Diarra,Layup,23,28
+6:06,TCU,Kendric Davis,Turnover,23,28
+5:58,Kansas State,Xavier Sneed,Missed Jumper,23,28
+5:58,TCU,Alex Robinson,Defensive Rebound,23,28
+5:46,Kansas State,Barry Brown Jr.,Foul,23,28
+5:32,TCU,Alex Robinson,Missed Jumper,23,28
+5:32,TCU,Kevin Samuel,Offensive Rebound,23,28
+5:30,Kansas State,Dean Wade,Foul,23,28
+5:30,TCU,Kevin Samuel,Missed Free Throw,23,28
+5:30,Kansas State,Barry Brown Jr.,Defensive Rebound,23,28
+5:13,Kansas State,Barry Brown Jr.,Missed Jumper,23,28
+5:13,TCU,Kevin Samuel,Defensive Rebound,23,28
+5:00,TCU,Desmond Bane,Jumper,25,28
+4:46,Kansas State,Cartier Diarra,Missed Three Point Jumper,25,28
+4:46,Kansas State,Kamau Stokes,Offensive Rebound,25,28
+4:32,Kansas State,Barry Brown Jr.,Missed Layup,25,28
+4:32,TCU,Lat Mayen,Defensive Rebound,25,28
+4:24,TCU,Alex Robinson,Layup,27,28
+3:59,Kansas State,Kamau Stokes,Missed Three Point Jumper,27,28
+3:59,TCU,Lat Mayen,Defensive Rebound,27,28
+3:49,TCU,Alex Robinson,Turnover,27,28
+3:49,Kansas State,Xavier Sneed,Steal,27,28
+3:43,Kansas State,Xavier Sneed,Layup,27,30
+3:24,TCU,None,None,27,30
+3:24,Kansas State,None,None,27,30
+3:17,TCU,JD Miller,Missed Three Point Jumper,27,30
+3:17,Kansas State,Barry Brown Jr.,Defensive Rebound,27,30
+2:45,Kansas State,Barry Brown Jr.,Missed Jumper,27,30
+2:45,TCU,TCU,Defensive Rebound,27,30
+2:30,TCU,Alex Robinson,Missed Three Point Jumper,27,30
+2:30,Kansas State,Levi Stockard III,Defensive Rebound,27,30
+2:15,Kansas State,Barry Brown Jr.,Missed Three Point Jumper,27,30
+2:15,Kansas State,Kamau Stokes,Offensive Rebound,27,30
+2:03,Kansas State,Dean Wade,Layup,27,32
+2:03,TCU,Kevin Samuel,Foul,27,32
+2:03,Kansas State,Dean Wade,Free Throw,27,33
+1:46,TCU,Desmond Bane,Missed Three Point Jumper,27,33
+1:46,Kansas State,Dean Wade,Defensive Rebound,27,33
+1:29,Kansas State,Mike McGuirl,Jumper,27,35
+1:29,TCU,Lat Mayen,Foul,27,35
+1:29,Kansas State,Mike McGuirl,Missed Free Throw,27,35
+1:29,TCU,JD Miller,Defensive Rebound,27,35
+1:17,TCU,Desmond Bane,Missed Jumper,27,35
+1:17,Kansas State,Xavier Sneed,Defensive Rebound,27,35
+1:01,TCU,Desmond Bane,Foul,27,35
+1:01,Kansas State,Dean Wade,Free Throw,27,36
+1:01,Kansas State,Dean Wade,Free Throw,27,37
+0:49,TCU,Kendric Davis,Missed Jumper,27,37
+0:49,Kansas State,Mike McGuirl,Block,27,37
+0:49,Kansas State,Levi Stockard III,Defensive Rebound,27,37
+0:28,Kansas State,None,None,27,37
+0:21,Kansas State,Kamau Stokes,Turnover,27,37
+0:09,TCU,Alex Robinson,Missed Three Point Jumper,27,37
+0:09,TCU,JD Miller,Offensive Rebound,27,37
+0:05,TCU,Kendric Davis,Three Point Jumper,30,37
+0:00,Kansas State,None,None,30,37
+20:00,TCU,None,None,30,37
+19:36,TCU,Alex Robinson,Jumper,32,37
+19:10,Kansas State,Makol Mawien,Missed Layup,32,37
+19:10,Kansas State,Kansas State,Offensive Rebound,32,37
+18:57,Kansas State,Xavier Sneed,Dunk,32,39
+18:24,TCU,TCU ,Turnover,32,39
+18:10,TCU,Kevin Samuel,Foul,32,39
+18:10,Kansas State,Xavier Sneed,Free Throw,32,40
+18:10,Kansas State,Xavier Sneed,Free Throw,32,41
+17:50,TCU,Kendric Davis,Turnover,32,41
+17:50,Kansas State,Dean Wade,Steal,32,41
+17:45,Kansas State,Xavier Sneed,Missed Layup,32,41
+17:45,TCU,Alex Robinson,Block,32,41
+17:45,TCU,Alex Robinson,Defensive Rebound,32,41
+17:35,TCU,Desmond Bane,Missed Three Point Jumper,32,41
+17:35,Kansas State,Makol Mawien,Defensive Rebound,32,41
+17:26,Kansas State,Xavier Sneed,Dunk,32,43
+17:24,TCU,None,None,32,43
+17:24,Kansas State,None,None,32,43
+17:01,TCU,Kendric Davis,Missed Three Point Jumper,32,43
+17:01,Kansas State,Kamau Stokes,Block,32,43
+17:01,Kansas State,Barry Brown Jr.,Defensive Rebound,32,43
+16:47,Kansas State,Dean Wade,Missed Jumper,32,43
+16:47,TCU,Desmond Bane,Defensive Rebound,32,43
+16:28,Kansas State,Barry Brown Jr.,Foul,32,43
+16:28,TCU,Alex Robinson,Free Throw,33,43
+16:28,TCU,Alex Robinson,Free Throw,34,43
+16:16,Kansas State,Barry Brown Jr.,Turnover,34,43
+16:16,TCU,Alex Robinson,Steal,34,43
+16:10,TCU,Desmond Bane,Missed Jumper,34,43
+16:10,TCU,JD Miller,Offensive Rebound,34,43
+16:04,TCU,JD Miller,Missed Layup,34,43
+16:04,TCU,JD Miller,Offensive Rebound,34,43
+15:58,TCU,JD Miller,Layup,36,43
+15:41,Kansas State,Makol Mawien,Dunk,36,45
+15:05,Kansas State,Barry Brown Jr.,Foul,36,45
+15:05,Kansas State,None,None,36,45
+15:05,TCU,Alex Robinson,Free Throw,37,45
+15:05,TCU,Alex Robinson,Free Throw,38,45
+15:05,TCU,Alex Robinson,Free Throw,39,45
+14:48,Kansas State,Dean Wade,Missed Jumper,39,45
+14:48,TCU,RJ Nembhard,Block,39,45
+14:48,Kansas State,Kansas State,Offensive Rebound,39,45
+14:43,TCU,Russell Barlow,Foul,39,45
+14:43,Kansas State,Dean Wade,Free Throw,39,46
+14:43,Kansas State,Dean Wade,Free Throw,39,47
+14:20,TCU,Alex Robinson,Turnover,39,47
+14:20,Kansas State,Mike McGuirl,Steal,39,47
+13:56,TCU,JD Miller,Foul,39,47
+13:43,Kansas State,Kamau Stokes,Missed Three Point Jumper,39,47
+13:43,TCU,Desmond Bane,Defensive Rebound,39,47
+13:29,Kansas State,Xavier Sneed,Foul,39,47
+13:11,TCU,Alex Robinson,Layup,41,47
+12:53,Kansas State,Xavier Sneed,Turnover,41,47
+12:53,TCU,Alex Robinson,Steal,41,47
+12:45,TCU,Alex Robinson,Turnover,41,47
+12:45,Kansas State,Kamau Stokes,Steal,41,47
+12:33,Kansas State,Cartier Diarra,Turnover,41,47
+12:33,TCU,Desmond Bane,Steal,41,47
+12:25,TCU,Desmond Bane,Layup,43,47
+12:15,Kansas State,Makol Mawien,Missed Jumper,43,47
+12:15,TCU,JD Miller,Defensive Rebound,43,47
+11:55,TCU,Alex Robinson,Turnover,43,47
+11:55,Kansas State,None,None,43,47
+11:45,Kansas State,Barry Brown Jr.,Jumper,43,49
+11:12,TCU,RJ Nembhard,Turnover,43,49
+10:57,Kansas State,Barry Brown Jr.,Missed Three Point Jumper,43,49
+10:57,Kansas State,Makol Mawien,Offensive Rebound,43,49
+10:50,Kansas State,Makol Mawien,Dunk,43,51
+10:37,TCU,None,None,43,51
+10:26,TCU,Desmond Bane,Missed Three Point Jumper,43,51
+10:26,Kansas State,Kamau Stokes,Defensive Rebound,43,51
+9:55,Kansas State,Dean Wade,Jumper,43,53
+9:35,Kansas State,Dean Wade,Foul,43,53
+9:35,TCU,JD Miller,Free Throw,44,53
+9:35,TCU,JD Miller,Missed Free Throw,44,53
+9:35,TCU,Kevin Samuel,Offensive Rebound,44,53
+9:13,TCU,Kendric Davis,Turnover,44,53
+9:05,Kansas State,Barry Brown Jr.,Missed Layup,44,53
+9:05,Kansas State,Kansas State,Offensive Rebound,44,53
+8:47,TCU,Kevin Samuel,Foul,44,53
+8:47,Kansas State,Levi Stockard III,Missed Free Throw,44,53
+8:47,Kansas State,None,Team Rebound,44,53
+8:47,Kansas State,Levi Stockard III,Free Throw,44,54
+8:21,TCU,Alex Robinson,Turnover,44,54
+8:21,Kansas State,Levi Stockard III,Steal,44,54
+8:08,Kansas State,Dean Wade,Foul,44,54
+8:08,Kansas State,Dean Wade,Turnover,44,54
+7:39,TCU,Desmond Bane,Missed Three Point Jumper,44,54
+7:39,Kansas State,Kansas State,Defensive Rebound,44,54
+7:34,Kansas State,None,None,44,54
+7:15,Kansas State,Xavier Sneed,Missed Three Point Jumper,44,54
+7:15,TCU,Desmond Bane,Defensive Rebound,44,54
+6:45,TCU,Desmond Bane,Missed Three Point Jumper,44,54
+6:45,Kansas State,Cartier Diarra,Block,44,54
+6:45,Kansas State,Barry Brown Jr.,Defensive Rebound,44,54
+6:16,TCU,Alex Robinson,Foul,44,54
+6:16,Kansas State,Xavier Sneed,Free Throw,44,55
+6:16,Kansas State,Xavier Sneed,Free Throw,44,56
+6:03,TCU,Desmond Bane,Layup,46,56
+5:36,Kansas State,Cartier Diarra,Missed Three Point Jumper,46,56
+5:36,TCU,TCU,Defensive Rebound,46,56
+5:32,Kansas State,Xavier Sneed,Foul,46,56
+5:11,TCU,Russell Barlow,Missed Layup,46,56
+5:11,TCU,Russell Barlow,Offensive Rebound,46,56
+5:07,TCU,Russell Barlow,Missed Layup,46,56
+5:07,TCU,TCU,Offensive Rebound,46,56
+5:02,Kansas State,Kamau Stokes,Foul,46,56
+5:02,TCU,Desmond Bane,Free Throw,47,56
+5:02,TCU,Desmond Bane,Free Throw,48,56
+4:43,Kansas State,Kamau Stokes,Layup,48,58
+4:13,TCU,Kevin Samuel,Dunk,50,58
+3:52,Kansas State,Barry Brown Jr.,Jumper,50,60
+3:35,TCU,JD Miller,Missed Three Point Jumper,50,60
+3:35,Kansas State,Makol Mawien,Defensive Rebound,50,60
+3:15,Kansas State,Barry Brown Jr.,Turnover,50,60
+3:15,TCU,JD Miller,Steal,50,60
+2:55,TCU,Desmond Bane,Missed Three Point Jumper,50,60
+2:55,Kansas State,Barry Brown Jr.,Defensive Rebound,50,60
+2:35,Kansas State,Xavier Sneed,Layup,50,62
+2:14,TCU,JD Miller,Three Point Jumper,53,62
+1:42,TCU,Kevin Samuel,Foul,53,62
+1:42,Kansas State,None,None,53,62
+1:42,Kansas State,Makol Mawien,Free Throw,53,63
+1:42,Kansas State,Makol Mawien,Missed Free Throw,53,63
+1:42,TCU,Kendric Davis,Defensive Rebound,53,63
+1:40,TCU,Kendric Davis,Turnover,53,63
+1:40,Kansas State,Barry Brown Jr.,Steal,53,63
+1:11,TCU,JD Miller,Foul,53,63
+1:11,Kansas State,Makol Mawien,Missed Free Throw,53,63
+1:11,Kansas State,None,Team Rebound,53,63
+1:11,Kansas State,Makol Mawien,Free Throw,53,64
+1:04,TCU,Kendric Davis,Turnover,53,64
+0:43,Kansas State,Kamau Stokes,Missed Three Point Jumper,53,64
+0:43,TCU,Desmond Bane,Defensive Rebound,53,64
+0:30,TCU,Desmond Bane,Layup,55,64
+0:30,TCU,None,None,55,64
+0:25,TCU,Alex Robinson,Foul,55,64
+0:25,Kansas State,Dean Wade,Free Throw,55,65
+0:25,Kansas State,Dean Wade,Missed Free Throw,55,65
+0:25,TCU,JD Miller,Defensive Rebound,55,65
+0:11,TCU,Kendric Davis,Missed Three Point Jumper,55,65
+0:11,Kansas State,Cartier Diarra,Defensive Rebound,55,65
+0:00,Kansas State,None,None,55,65

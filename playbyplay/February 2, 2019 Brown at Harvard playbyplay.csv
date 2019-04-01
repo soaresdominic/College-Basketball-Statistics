@@ -1,0 +1,328 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:45,Harvard,Chris Lewis,Turnover,0,0
+19:43,Brown,Matt DeWolf,Steal,0,0
+19:16,Brown,Matt DeWolf,Missed Jumper,0,0
+19:16,Harvard,Robert Baker,Block,0,0
+19:15,Harvard,None,Team Rebound,0,0
+18:44,Harvard,Robert Baker,Three Point Jumper,0,3
+18:14,Brown,Desmond Cambridge,Missed Three Point Jumper,0,3
+18:14,Brown,Tamenang Choh,Offensive Rebound,0,3
+18:02,Brown,Tamenang Choh,Turnover,0,3
+18:01,Harvard,Bryce Aiken,Steal,0,3
+17:39,Harvard,Robert Baker,Missed Three Point Jumper,0,3
+17:39,Harvard,Justin Bassey,Offensive Rebound,0,3
+17:32,Harvard,Chris Lewis,Foul,0,3
+17:32,Harvard,Chris Lewis,Turnover,0,3
+17:22,Brown,Obi Okolie,Layup,2,3
+16:51,Harvard,Bryce Aiken,Layup,2,5
+16:41,Brown,Zach Hunsaker,Turnover,2,5
+16:32,Harvard,Robert Baker,Turnover,2,5
+16:21,Harvard,Chris Lewis,Foul,2,5
+16:15,Brown,Matt DeWolf,Turnover,2,5
+15:56,Harvard,Bryce Aiken,Missed Three Point Jumper,2,5
+15:56,Brown,Matt DeWolf,Defensive Rebound,2,5
+15:46,Brown,Desmond Cambridge,Missed Three Point Jumper,2,5
+15:46,Brown,Obi Okolie,Offensive Rebound,2,5
+15:32,Brown,Tamenang Choh,Turnover,2,5
+15:32,Harvard,None,None,2,5
+15:16,Harvard,Justin Bassey,Missed Three Point Jumper,2,5
+15:16,Harvard,Bryce Aiken,Offensive Rebound,2,5
+15:09,Brown,Zach Hunsaker,Foul,2,5
+14:54,Harvard,Christian Juzang,Turnover,2,5
+14:32,Brown,Obi Okolie,Jumper,4,5
+14:13,Harvard,Bryce Aiken,Missed Layup,4,5
+14:13,Brown,Jaylan Gainey,Defensive Rebound,4,5
+14:08,Brown,Desmond Cambridge,Missed Three Point Jumper,4,5
+14:08,Harvard,Robert Baker,Defensive Rebound,4,5
+13:45,Harvard,Henry Welsh,Layup,4,7
+13:45,Brown,Jaylan Gainey,Foul,4,7
+13:45,Harvard,Henry Welsh,Missed Free Throw,4,7
+13:45,Brown,Tamenang Choh,Defensive Rebound,4,7
+13:31,Harvard,Rio Haskett,Foul,4,7
+13:30,Brown,Desmond Cambridge,Missed Three Point Jumper,4,7
+13:30,Harvard,Noah Kirkwood,Defensive Rebound,4,7
+13:13,Brown,Obi Okolie,Foul,4,7
+13:07,Harvard,Henry Welsh,Layup,4,9
+13:07,Brown,Chris Sullivan,Foul,4,9
+13:07,Harvard,Henry Welsh,Missed Free Throw,4,9
+13:07,Brown,Jaylan Gainey,Defensive Rebound,4,9
+12:41,Brown,Desmond Cambridge,Turnover,4,9
+12:40,Harvard,Henry Welsh,Steal,4,9
+12:26,Harvard,Danilo Djuricic,Missed Jumper,4,9
+12:26,Brown,Tamenang Choh,Defensive Rebound,4,9
+12:17,Harvard,Rio Haskett,Foul,4,9
+12:08,Brown,George Mawanda-Kalema,Three Point Jumper,7,9
+11:47,Brown,Tamenang Choh,Foul,7,9
+11:47,Harvard,None,None,7,9
+11:47,Harvard,Henry Welsh,Free Throw,7,10
+11:47,Harvard,Henry Welsh,Free Throw,7,11
+11:33,Brown,Obi Okolie,Turnover,7,11
+11:24,Harvard,Noah Kirkwood,Missed Layup,7,11
+11:24,Brown,Joshua Howard,Block,7,11
+11:22,Brown,Obi Okolie,Defensive Rebound,7,11
+11:16,Brown,Obi Okolie,Missed Jumper,7,11
+11:16,Harvard,Danilo Djuricic,Defensive Rebound,7,11
+11:03,Harvard,Henry Welsh,Jumper,7,13
+10:40,Brown,George Mawanda-Kalema,Jumper,9,13
+10:19,Harvard,Danilo Djuricic,Layup,9,15
+9:59,Brown,Joshua Howard,Missed Jumper,9,15
+9:59,Harvard,Harvard,Defensive Rebound,9,15
+9:26,Harvard,Christian Juzang,Turnover,9,15
+9:25,Brown,Zach Hunsaker,Steal,9,15
+9:22,Brown,George Mawanda-Kalema,Layup,11,15
+9:22,Harvard,Corey Johnson,Foul,11,15
+9:22,Brown,George Mawanda-Kalema,Free Throw,12,15
+8:53,Harvard,Justin Bassey,Three Point Jumper,12,18
+8:28,Brown,David Mitchell,Missed Three Point Jumper,12,18
+8:28,Harvard,Robert Baker,Defensive Rebound,12,18
+8:19,Harvard,Robert Baker,Three Point Jumper,12,21
+8:16,Brown,None,None,12,21
+8:16,Harvard,None,None,12,21
+8:05,Brown,Desmond Cambridge,Missed Dunk,12,21
+8:05,Harvard,Henry Welsh,Block,12,21
+8:05,Brown,Desmond Cambridge,Offensive Rebound,12,21
+8:02,Brown,George Mawanda-Kalema,Foul,12,21
+8:02,Brown,George Mawanda-Kalema,Turnover,12,21
+7:45,Harvard,Henry Welsh,Foul,12,21
+7:45,Harvard,Henry Welsh,Turnover,12,21
+7:32,Brown,Desmond Cambridge,Missed Layup,12,21
+7:32,Brown,Matt DeWolf,Offensive Rebound,12,21
+7:29,Brown,George Mawanda-Kalema,Missed Three Point Jumper,12,21
+7:29,Harvard,Justin Bassey,Defensive Rebound,12,21
+7:22,Harvard,Robert Baker,Missed Three Point Jumper,12,21
+7:22,Brown,George Mawanda-Kalema,Defensive Rebound,12,21
+6:58,Brown,Tamenang Choh,Missed Three Point Jumper,12,21
+6:58,Harvard,Bryce Aiken,Defensive Rebound,12,21
+6:50,Harvard,Bryce Aiken,Foul,12,21
+6:50,Harvard,Bryce Aiken,Turnover,12,21
+6:31,Brown,Matt DeWolf,Turnover,12,21
+6:31,Harvard,Henry Welsh,Steal,12,21
+6:14,Harvard,Robert Baker,Missed Jumper,12,21
+6:14,Brown,Desmond Cambridge,Defensive Rebound,12,21
+6:02,Harvard,Christian Juzang,Foul,12,21
+6:02,Brown,Desmond Cambridge,Missed Free Throw,12,21
+6:02,Harvard,Chris Lewis,Defensive Rebound,12,21
+5:45,Harvard,Christian Juzang,Three Point Jumper,12,24
+5:27,Harvard,Christian Juzang,Foul,12,24
+5:27,Brown,Matt DeWolf,Free Throw,13,24
+5:27,Brown,Matt DeWolf,Missed Free Throw,13,24
+5:27,Harvard,Danilo Djuricic,Defensive Rebound,13,24
+4:58,Harvard,Chris Lewis,Layup,13,26
+4:38,Harvard,Noah Kirkwood,Foul,13,26
+4:38,Brown,Tamenang Choh,Free Throw,14,26
+4:38,Brown,Tamenang Choh,Free Throw,15,26
+4:18,Brown,Matt DeWolf,Foul,15,26
+4:18,Harvard,Chris Lewis,Missed Free Throw,15,26
+4:18,Brown,Obi Okolie,Defensive Rebound,15,26
+4:04,Brown,Desmond Cambridge,Missed Three Point Jumper,15,26
+4:04,Harvard,Bryce Aiken,Defensive Rebound,15,26
+3:49,Harvard,Chris Lewis,Turnover,15,26
+3:49,Brown,Tamenang Choh,Steal,15,26
+3:49,Harvard,None,None,15,26
+3:35,Brown,Tamenang Choh,Missed Jumper,15,26
+3:35,Harvard,Justin Bassey,Defensive Rebound,15,26
+3:24,Harvard,Noah Kirkwood,Layup,15,28
+3:11,Brown,Zach Hunsaker,Jumper,17,28
+2:54,Brown,George Mawanda-Kalema,Foul,17,28
+2:54,Harvard,Bryce Aiken,Missed Free Throw,17,28
+2:54,Brown,Desmond Cambridge,Defensive Rebound,17,28
+2:36,Brown,Tamenang Choh,Missed Layup,17,28
+2:36,Brown,Tamenang Choh,Offensive Rebound,17,28
+2:33,Brown,Tamenang Choh,Missed Layup,17,28
+2:33,Harvard,Henry Welsh,Defensive Rebound,17,28
+2:18,Harvard,Bryce Aiken,Missed Jumper,17,28
+2:18,Harvard,Justin Bassey,Offensive Rebound,17,28
+2:09,Harvard,Henry Welsh,Turnover,17,28
+2:07,Brown,Zach Hunsaker,Steal,17,28
+2:06,Brown,Zach Hunsaker,Turnover,17,28
+2:05,Harvard,Bryce Aiken,Steal,17,28
+2:04,Harvard,Noah Kirkwood,Missed Three Point Jumper,17,28
+2:04,Brown,Tamenang Choh,Defensive Rebound,17,28
+1:45,Brown,Desmond Cambridge,Layup,19,28
+1:17,Harvard,Noah Kirkwood,Missed Jumper,19,28
+1:17,Harvard,Danilo Djuricic,Offensive Rebound,19,28
+1:00,Brown,Tamenang Choh,Foul,19,28
+1:00,Harvard,Bryce Aiken,Free Throw,19,29
+1:00,Harvard,Bryce Aiken,Free Throw,19,30
+0:49,Brown,George Mawanda-Kalema,Three Point Jumper,22,30
+0:40,Harvard,Bryce Aiken,Turnover,22,30
+0:39,Brown,George Mawanda-Kalema,Steal,22,30
+0:35,Brown,Obi Okolie,Missed Layup,22,30
+0:35,Brown,Desmond Cambridge,Offensive Rebound,22,30
+0:34,Harvard,Henry Welsh,Foul,22,30
+0:34,Brown,Desmond Cambridge,Free Throw,23,30
+0:34,Brown,Desmond Cambridge,Free Throw,24,30
+0:05,Harvard,Noah Kirkwood,Missed Three Point Jumper,24,30
+0:05,Brown,Jaylan Gainey,Defensive Rebound,24,30
+0:01,Brown,Obi Okolie,Turnover,24,30
+0:00,Harvard,None,None,24,30
+19:40,Harvard,Justin Bassey,Turnover,24,30
+19:40,Brown,Tamenang Choh,Steal,24,30
+19:40,Harvard,Robert Baker,Foul,24,30
+19:15,Harvard,Robert Baker,Foul,24,30
+19:13,Brown,Desmond Cambridge,Missed Jumper,24,30
+19:13,Harvard,Robert Baker,Defensive Rebound,24,30
+19:05,Harvard,Justin Bassey,Three Point Jumper,24,33
+18:40,Brown,Tamenang Choh,Missed Jumper,24,33
+18:40,Harvard,Chris Lewis,Defensive Rebound,24,33
+18:39,Brown,Matt DeWolf,Foul,24,33
+18:23,Harvard,Robert Baker,Dunk,24,35
+18:13,Brown,Desmond Cambridge,Missed Three Point Jumper,24,35
+18:13,Harvard,Bryce Aiken,Defensive Rebound,24,35
+18:03,Harvard,Chris Lewis,Turnover,24,35
+17:47,Brown,Desmond Cambridge,Missed Three Point Jumper,24,35
+17:47,Brown,Matt DeWolf,Offensive Rebound,24,35
+17:41,Brown,Tamenang Choh,Three Point Jumper,27,35
+17:21,Harvard,Robert Baker,Missed Three Point Jumper,27,35
+17:21,Brown,Obi Okolie,Defensive Rebound,27,35
+17:11,Brown,Obi Okolie,Missed Layup,27,35
+17:11,Harvard,Chris Lewis,Block,27,35
+17:11,Brown,Brown,Offensive Rebound,27,35
+16:52,Brown,Obi Okolie,Missed Three Point Jumper,27,35
+16:52,Brown,None,Team Rebound,27,35
+16:50,Harvard,Robert Baker,Foul,27,35
+16:44,Brown,Tamenang Choh,Turnover,27,35
+16:43,Harvard,Chris Lewis,Steal,27,35
+16:40,Harvard,Danilo Djuricic,Turnover,27,35
+16:17,Brown,Tamenang Choh,Missed Three Point Jumper,27,35
+16:17,Harvard,Danilo Djuricic,Defensive Rebound,27,35
+16:01,Brown,Matt DeWolf,Foul,27,35
+15:53,Brown,Tamenang Choh,Foul,27,35
+15:53,Harvard,None,None,27,35
+15:52,Harvard,Bryce Aiken,Three Point Jumper,27,38
+15:33,Brown,Zach Hunsaker,Three Point Jumper,30,38
+15:23,Brown,Zach Hunsaker,Foul,30,38
+15:16,Brown,Joshua Howard,Foul,30,38
+15:03,Harvard,Chris Lewis,Jumper,30,40
+14:54,Brown,Zach Hunsaker,Turnover,30,40
+14:30,Harvard,Chris Lewis,Missed Layup,30,40
+14:30,Brown,Tamenang Choh,Block,30,40
+14:28,Harvard,Chris Lewis,Offensive Rebound,30,40
+14:24,Harvard,Chris Lewis,Layup,30,42
+14:17,Harvard,Danilo Djuricic,Foul,30,42
+14:06,Brown,Obi Okolie,Missed Three Point Jumper,30,42
+14:06,Harvard,Justin Bassey,Defensive Rebound,30,42
+13:52,Harvard,Justin Bassey,Layup,30,44
+13:49,Brown,None,None,30,44
+13:49,Harvard,None,None,30,44
+13:23,Brown,Desmond Cambridge,Missed Three Point Jumper,30,44
+13:23,Brown,None,Team Rebound,30,44
+13:19,Harvard,Danilo Djuricic,Foul,30,44
+13:15,Brown,Obi Okolie,Turnover,30,44
+13:14,Harvard,Justin Bassey,Steal,30,44
+12:55,Harvard,Danilo Djuricic,Missed Jumper,30,44
+12:55,Brown,Obi Okolie,Defensive Rebound,30,44
+12:48,Brown,Obi Okolie,Three Point Jumper,33,44
+12:44,Harvard,None,None,33,44
+12:28,Brown,Desmond Cambridge,Foul,33,44
+12:28,Harvard,Chris Lewis,Free Throw,33,45
+12:28,Harvard,Chris Lewis,Free Throw,33,46
+12:14,Brown,George Mawanda-Kalema,Missed Jumper,33,46
+12:14,Harvard,Noah Kirkwood,Defensive Rebound,33,46
+12:05,Harvard,Chris Lewis,Turnover,33,46
+11:50,Brown,George Mawanda-Kalema,Turnover,33,46
+11:50,Harvard,Noah Kirkwood,Steal,33,46
+11:50,Brown,David Mitchell,Foul,33,46
+11:50,Harvard,None,None,33,46
+11:50,Harvard,Noah Kirkwood,Missed Free Throw,33,46
+11:50,Brown,Jaylan Gainey,Defensive Rebound,33,46
+11:48,Brown,Jaylan Gainey,Turnover,33,46
+11:42,Brown,Jaylan Gainey,Foul,33,46
+11:42,Harvard,Noah Kirkwood,Missed Free Throw,33,46
+11:42,Harvard,None,Team Rebound,33,46
+11:42,Harvard,Noah Kirkwood,Free Throw,33,47
+11:27,Brown,Desmond Cambridge,Missed Jumper,33,47
+11:27,Harvard,Robert Baker,Defensive Rebound,33,47
+11:09,Harvard,Bryce Aiken,Three Point Jumper,33,50
+10:54,Brown,Desmond Cambridge,Turnover,33,50
+10:53,Harvard,Noah Kirkwood,Steal,33,50
+10:43,Harvard,Henry Welsh,Missed Three Point Jumper,33,50
+10:43,Brown,Obi Okolie,Defensive Rebound,33,50
+10:26,Brown,Obi Okolie,Turnover,33,50
+10:00,Harvard,Noah Kirkwood,Layup,33,52
+9:37,Brown,Obi Okolie,Missed Jumper,33,52
+9:37,Brown,Obi Okolie,Offensive Rebound,33,52
+9:34,Brown,Obi Okolie,Layup,35,52
+9:34,Brown,None,None,35,52
+9:14,Brown,Chris Sullivan,Foul,35,52
+9:14,Harvard,Robert Baker,Missed Free Throw,35,52
+9:14,Harvard,Noah Kirkwood,Offensive Rebound,35,52
+9:04,Harvard,Noah Kirkwood,Layup,35,54
+8:44,Brown,Obi Okolie,Missed Three Point Jumper,35,54
+8:44,Harvard,Noah Kirkwood,Defensive Rebound,35,54
+8:35,Harvard,Bryce Aiken,Missed Three Point Jumper,35,54
+8:35,Brown,Obi Okolie,Defensive Rebound,35,54
+8:25,Brown,Zach Hunsaker,Missed Three Point Jumper,35,54
+8:25,Brown,Tamenang Choh,Offensive Rebound,35,54
+8:23,Harvard,Henry Welsh,Foul,35,54
+8:16,Brown,Zach Hunsaker,Turnover,35,54
+8:14,Harvard,Justin Bassey,Steal,35,54
+7:53,Harvard,Danilo Djuricic,Turnover,35,54
+7:52,Brown,Obi Okolie,Steal,35,54
+7:26,Brown,Obi Okolie,Layup,37,54
+7:26,Harvard,Chris Lewis,Foul,37,54
+7:26,Brown,Obi Okolie,Free Throw,38,54
+7:24,Brown,David Mitchell,Foul,38,54
+7:24,Harvard,Justin Bassey,Missed Free Throw,38,54
+7:24,Harvard,None,Team Rebound,38,54
+7:24,Harvard,Justin Bassey,Free Throw,38,55
+7:08,Brown,George Mawanda-Kalema,Missed Layup,38,55
+7:08,Harvard,Christian Juzang,Defensive Rebound,38,55
+6:41,Brown,David Mitchell,Foul,38,55
+6:41,Harvard,Bryce Aiken,Free Throw,38,56
+6:41,Harvard,Bryce Aiken,Free Throw,38,57
+6:25,Brown,Zach Hunsaker,Missed Jumper,38,57
+6:25,Harvard,Noah Kirkwood,Defensive Rebound,38,57
+6:04,Brown,Zach Hunsaker,Foul,38,57
+6:04,Harvard,Chris Lewis,Free Throw,38,58
+6:04,Harvard,Chris Lewis,Free Throw,38,59
+5:49,Harvard,Chris Lewis,Foul,38,59
+5:49,Brown,Joshua Howard,Free Throw,39,59
+5:49,Brown,Joshua Howard,Free Throw,40,59
+5:30,Harvard,Bryce Aiken,Turnover,40,59
+5:13,Brown,George Mawanda-Kalema,Missed Three Point Jumper,40,59
+5:13,Brown,David Mitchell,Offensive Rebound,40,59
+5:08,Harvard,Noah Kirkwood,Foul,40,59
+5:08,Brown,David Mitchell,Free Throw,41,59
+5:08,Brown,David Mitchell,Missed Free Throw,41,59
+5:08,Harvard,Robert Baker,Defensive Rebound,41,59
+5:03,Brown,David Mitchell,Foul,41,59
+5:03,Harvard,Justin Bassey,Free Throw,41,60
+5:03,Harvard,Justin Bassey,Missed Free Throw,41,60
+5:03,Brown,Joshua Howard,Defensive Rebound,41,60
+4:44,Harvard,Noah Kirkwood,Foul,41,60
+4:44,Brown,Joshua Howard,Missed Free Throw,41,60
+4:44,Brown,None,Team Rebound,41,60
+4:44,Brown,Joshua Howard,Missed Free Throw,41,60
+4:44,Harvard,Robert Baker,Defensive Rebound,41,60
+4:19,Harvard,Christian Juzang,Three Point Jumper,41,63
+3:59,Brown,Joshua Howard,Layup,43,63
+3:41,Harvard,Robert Baker,Dunk,43,65
+3:36,Harvard,Bryce Aiken,Foul,43,65
+3:36,Harvard,None,None,43,65
+3:36,Brown,Brandon Anderson,Free Throw,44,65
+3:36,Brown,Brandon Anderson,Missed Free Throw,44,65
+3:36,Harvard,Robert Baker,Defensive Rebound,44,65
+3:12,Harvard,Christian Juzang,Missed Jumper,44,65
+3:12,Brown,George Mawanda-Kalema,Defensive Rebound,44,65
+3:00,Brown,Joshua Howard,Missed Jumper,44,65
+3:00,Harvard,Christian Juzang,Defensive Rebound,44,65
+2:42,Harvard,None,None,44,65
+2:32,Brown,Joshua Howard,Foul,44,65
+2:32,Harvard,Corey Johnson,Missed Free Throw,44,65
+2:32,Harvard,None,Team Rebound,44,65
+2:32,Harvard,Corey Johnson,Free Throw,44,66
+2:15,Brown,Thomas Shaughnessy,Missed Jumper,44,66
+2:15,Harvard,Spencer Freedman,Defensive Rebound,44,66
+1:48,Harvard,Mason Forbes,Missed Jumper,44,66
+1:48,Brown,Brown,Defensive Rebound,44,66
+1:32,Brown,George Mawanda-Kalema,Layup,46,66
+1:32,Harvard,Mason Forbes,Foul,46,66
+1:32,Brown,George Mawanda-Kalema,Free Throw,47,66
+1:13,Harvard,Kale Catchings,Missed Jumper,47,66
+1:13,Brown,Brandon Anderson,Defensive Rebound,47,66
+1:02,Brown,Travis Fuller,Turnover,47,66
+0:41,Harvard,Mason Forbes,Jumper,47,68
+0:15,Brown,Davis Franks,Missed Jumper,47,68
+0:15,Harvard,Kale Catchings,Defensive Rebound,47,68
+0:00,Harvard,None,None,47,68

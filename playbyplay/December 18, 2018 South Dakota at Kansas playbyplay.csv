@@ -1,0 +1,335 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Kansas,None,None,0,0
+19:38,Kansas,Quentin Grimes,Jumper,0,2
+19:12,Kansas,Devon Dotson,Foul,0,2
+19:12,South Dakota,Trey Burch-Manning,Missed Free Throw,0,2
+19:12,South Dakota,None,Team Rebound,0,2
+19:12,South Dakota,Trey Burch-Manning,Missed Free Throw,0,2
+19:12,Kansas,Marcus Garrett,Defensive Rebound,0,2
+18:54,Kansas,Dedric Lawson,Turnover,0,2
+18:54,South Dakota,Trey Burch-Manning,Steal,0,2
+18:51,South Dakota,Trey Burch-Manning,Turnover,0,2
+18:51,Kansas,Dedric Lawson,Steal,0,2
+18:47,South Dakota,Trey Burch-Manning,Foul,0,2
+18:47,Kansas,Marcus Garrett,Free Throw,0,3
+18:47,Kansas,Marcus Garrett,Missed Free Throw,0,3
+18:47,South Dakota,Trey Burch-Manning,Defensive Rebound,0,3
+18:12,South Dakota,Tyler Peterson,Turnover,0,3
+18:09,Kansas,Dedric Lawson,Layup,0,5
+17:51,South Dakota,Cody Kelley,Missed Jumper,0,5
+17:51,Kansas,Devon Dotson,Defensive Rebound,0,5
+17:45,Kansas,Devon Dotson,Layup,0,7
+17:36,South Dakota,None,None,0,7
+17:12,Kansas,Dedric Lawson,Foul,0,7
+17:02,South Dakota,Cody Kelley,Missed Jumper,0,7
+17:02,Kansas,Dedric Lawson,Defensive Rebound,0,7
+16:41,Kansas,Devon Dotson,Missed Layup,0,7
+16:41,South Dakota,Tyler Peterson,Defensive Rebound,0,7
+16:37,South Dakota,Tyler Peterson,Turnover,0,7
+16:37,Kansas,Marcus Garrett,Steal,0,7
+16:32,Kansas,Dedric Lawson,Missed Layup,0,7
+16:32,South Dakota,Cody Kelley,Defensive Rebound,0,7
+16:25,South Dakota,Triston Simpson,Turnover,0,7
+16:25,Kansas,Lagerald Vick,Steal,0,7
+16:09,Kansas,Dedric Lawson,Jumper,0,9
+15:45,South Dakota,Trey Burch-Manning,Missed Three Point Jumper,0,9
+15:45,Kansas,Dedric Lawson,Defensive Rebound,0,9
+15:38,Kansas,Devon Dotson,Turnover,0,9
+15:38,South Dakota,Tyler Peterson,Steal,0,9
+15:16,South Dakota,Cody Kelley,Missed Three Point Jumper,0,9
+15:16,Kansas,Lagerald Vick,Defensive Rebound,0,9
+15:10,Kansas,Lagerald Vick,Missed Jumper,0,9
+15:10,South Dakota,Cody Kelley,Defensive Rebound,0,9
+14:58,South Dakota,Cody Kelley,Turnover,0,9
+14:58,Kansas,Lagerald Vick,Steal,0,9
+14:50,Kansas,Quentin Grimes,Missed Jumper,0,9
+14:50,Kansas,Dedric Lawson,Offensive Rebound,0,9
+14:44,Kansas,Dedric Lawson,Turnover,0,9
+14:44,South Dakota,Cody Kelley,Steal,0,9
+14:44,Kansas,None,None,0,9
+14:28,South Dakota,None,None,0,9
+14:16,South Dakota,Stanley Umude,Layup,2,9
+13:53,South Dakota,Cody Kelley,Foul,2,9
+13:53,Kansas,Mitch Lightfoot,Missed Free Throw,2,9
+13:53,Kansas,None,Team Rebound,2,9
+13:53,Kansas,Mitch Lightfoot,Free Throw,2,10
+13:43,South Dakota,Tyler Peterson,Three Point Jumper,5,10
+13:25,Kansas,Charlie Moore,Missed Three Point Jumper,5,10
+13:25,South Dakota,Trey Burch-Manning,Defensive Rebound,5,10
+13:10,South Dakota,Tyler Peterson,Missed Three Point Jumper,5,10
+13:10,Kansas,Marcus Garrett,Defensive Rebound,5,10
+13:00,Kansas,Quentin Grimes,Missed Three Point Jumper,5,10
+13:00,Kansas,Mitch Lightfoot,Offensive Rebound,5,10
+12:44,Kansas,Charlie Moore,Turnover,5,10
+12:36,South Dakota,Triston Simpson,Turnover,5,10
+12:36,Kansas,Lagerald Vick,Steal,5,10
+12:31,Kansas,Lagerald Vick,Missed Layup,5,10
+12:31,South Dakota,Brandon Armstrong,Defensive Rebound,5,10
+12:13,South Dakota,Stanley Umude,Missed Three Point Jumper,5,10
+12:13,Kansas,David McCormack,Defensive Rebound,5,10
+11:57,Kansas,K.J. Lawson,Missed Three Point Jumper,5,10
+11:57,South Dakota,Nathan Robinson,Defensive Rebound,5,10
+11:52,Kansas,K.J. Lawson,Foul,5,10
+11:52,Kansas,None,None,5,10
+11:52,South Dakota,Stanley Umude,Missed Free Throw,5,10
+11:52,South Dakota,None,Team Rebound,5,10
+11:52,South Dakota,Stanley Umude,Free Throw,6,10
+11:27,Kansas,Marcus Garrett,Jumper,6,12
+11:00,South Dakota,Stanley Umude,Turnover,6,12
+10:46,Kansas,David McCormack,Missed Jumper,6,12
+10:46,South Dakota,Nathan Robinson,Defensive Rebound,6,12
+10:23,South Dakota,Stanley Umude,Missed Jumper,6,12
+10:23,Kansas,David McCormack,Defensive Rebound,6,12
+10:12,Kansas,Marcus Garrett,Missed Three Point Jumper,6,12
+10:12,South Dakota,Stanley Umude,Defensive Rebound,6,12
+9:43,South Dakota,Trey Burch-Manning,Turnover,6,12
+9:27,Kansas,K.J. Lawson,Missed Jumper,6,12
+9:27,South Dakota,Nathan Robinson,Defensive Rebound,6,12
+9:14,South Dakota,Stanley Umude,Layup,8,12
+8:52,Kansas,Devon Dotson,Missed Three Point Jumper,8,12
+8:52,South Dakota,Tyler Peterson,Defensive Rebound,8,12
+8:52,Kansas,K.J. Lawson,Foul,8,12
+8:42,South Dakota,Triston Simpson,Turnover,8,12
+8:22,Kansas,Devon Dotson,Missed Layup,8,12
+8:22,South Dakota,Stanley Umude,Block,8,12
+8:22,South Dakota,Triston Simpson,Defensive Rebound,8,12
+8:15,South Dakota,Nathan Robinson,Missed Three Point Jumper,8,12
+8:15,Kansas,Quentin Grimes,Defensive Rebound,8,12
+8:07,Kansas,Dedric Lawson,Jumper,8,14
+7:46,South Dakota,Triston Simpson,Missed Jumper,8,14
+7:46,Kansas,Dedric Lawson,Defensive Rebound,8,14
+7:31,Kansas,Quentin Grimes,Missed Jumper,8,14
+7:31,Kansas,Mitch Lightfoot,Offensive Rebound,8,14
+7:31,Kansas,Mitch Lightfoot,Layup,8,16
+7:31,South Dakota,Tyler Peterson,Foul,8,16
+7:31,Kansas,None,None,8,16
+7:31,Kansas,Mitch Lightfoot,Free Throw,8,17
+7:13,South Dakota,Tyler Peterson,Layup,10,17
+7:01,Kansas,Lagerald Vick,Missed Dunk,10,17
+7:01,South Dakota,Trey Burch-Manning,Defensive Rebound,10,17
+6:55,South Dakota,Trey Burch-Manning,Turnover,10,17
+6:55,Kansas,Charlie Moore,Steal,10,17
+6:50,South Dakota,Cody Kelley,Foul,10,17
+6:49,Kansas,Dedric Lawson,Missed Three Point Jumper,10,17
+6:49,South Dakota,Cody Kelley,Defensive Rebound,10,17
+6:26,Kansas,Dedric Lawson,Foul,10,17
+6:26,South Dakota,Stanley Umude,Free Throw,11,17
+6:26,South Dakota,Stanley Umude,Free Throw,12,17
+6:07,Kansas,Lagerald Vick,Missed Jumper,12,17
+6:07,Kansas,Mitch Lightfoot,Offensive Rebound,12,17
+6:05,Kansas,Mitch Lightfoot,Layup,12,19
+6:05,South Dakota,Logan Power,Foul,12,19
+6:05,Kansas,Mitch Lightfoot,Free Throw,12,20
+5:47,South Dakota,Tyler Peterson,Missed Layup,12,20
+5:47,Kansas,Mitch Lightfoot,Block,12,20
+5:47,Kansas,Mitch Lightfoot,Defensive Rebound,12,20
+5:37,Kansas,David McCormack,Missed Layup,12,20
+5:37,South Dakota,Stanley Umude,Defensive Rebound,12,20
+5:25,South Dakota,Stanley Umude,Jumper,14,20
+5:08,Kansas,Charlie Moore,Three Point Jumper,14,23
+4:51,South Dakota,Stanley Umude,Three Point Jumper,17,23
+4:41,South Dakota,Stanley Umude,Foul,17,23
+4:30,Kansas,Lagerald Vick,Jumper,17,25
+4:07,South Dakota,Trey Burch-Manning,Layup,19,25
+4:03,Kansas,None,None,19,25
+4:03,Kansas,None,None,19,25
+3:48,Kansas,David McCormack,Layup,19,27
+3:28,South Dakota,Stanley Umude,Missed Jumper,19,27
+3:28,Kansas,Mitch Lightfoot,Defensive Rebound,19,27
+3:21,Kansas,Devon Dotson,Layup,19,29
+2:55,South Dakota,Triston Simpson,Layup,21,29
+2:36,Kansas,Mitch Lightfoot,Missed Three Point Jumper,21,29
+2:36,Kansas,David McCormack,Offensive Rebound,21,29
+2:33,South Dakota,Trey Burch-Manning,Foul,21,29
+2:33,Kansas,David McCormack,Free Throw,21,30
+2:33,Kansas,David McCormack,Free Throw,21,31
+2:13,South Dakota,Stanley Umude,Turnover,21,31
+2:13,Kansas,Marcus Garrett,Steal,21,31
+2:09,Kansas,Marcus Garrett,Layup,21,33
+1:51,South Dakota,Triston Simpson,Missed Jumper,21,33
+1:51,South Dakota,Dan Jech,Offensive Rebound,21,33
+1:48,South Dakota,Dan Jech,Layup,23,33
+1:35,Kansas,Lagerald Vick,Missed Jumper,23,33
+1:35,Kansas,Lagerald Vick,Offensive Rebound,23,33
+1:32,Kansas,Lagerald Vick,Layup,23,35
+1:16,South Dakota,Stanley Umude,Dunk,25,35
+1:04,Kansas,David McCormack,Missed Jumper,25,35
+1:04,South Dakota,Stanley Umude,Defensive Rebound,25,35
+0:56,South Dakota,Tyler Peterson,Layup,27,35
+0:56,Kansas,None,None,27,35
+0:47,South Dakota,Tyler Peterson,Foul,27,35
+0:47,Kansas,Devon Dotson,Free Throw,27,36
+0:47,Kansas,Devon Dotson,Free Throw,27,37
+0:31,South Dakota,Dan Jech,Missed Dunk,27,37
+0:31,Kansas,Lagerald Vick,Defensive Rebound,27,37
+0:05,Kansas,Lagerald Vick,Foul,27,37
+0:05,Kansas,Lagerald Vick,Turnover,27,37
+0:01,South Dakota,Triston Simpson,Turnover,27,37
+0:00,Kansas,None,None,27,37
+20:00,Kansas,None,None,27,37
+19:41,South Dakota,Tyler Peterson,Foul,27,37
+19:37,Kansas,Quentin Grimes,Jumper,27,39
+19:37,South Dakota,Cody Kelley,Foul,27,39
+19:37,Kansas,Quentin Grimes,Missed Free Throw,27,39
+19:37,South Dakota,Trey Burch-Manning,Defensive Rebound,27,39
+19:13,South Dakota,Trey Burch-Manning,Missed Layup,27,39
+19:13,Kansas,Dedric Lawson,Block,27,39
+19:13,Kansas,Dedric Lawson,Defensive Rebound,27,39
+19:05,Kansas,Quentin Grimes,Missed Three Point Jumper,27,39
+19:05,Kansas,Dedric Lawson,Offensive Rebound,27,39
+18:46,Kansas,Lagerald Vick,Missed Jumper,27,39
+18:46,South Dakota,South Dakota,Defensive Rebound,27,39
+18:35,South Dakota,Stanley Umude,Layup,29,39
+18:17,Kansas,Dedric Lawson,Layup,29,41
+17:54,South Dakota,Tyler Peterson,Jumper,31,41
+17:32,Kansas,Lagerald Vick,Turnover,31,41
+17:20,South Dakota,Tyler Peterson,Missed Jumper,31,41
+17:20,Kansas,Dedric Lawson,Defensive Rebound,31,41
+17:07,South Dakota,Trey Burch-Manning,Foul,31,41
+17:06,Kansas,Quentin Grimes,Layup,31,43
+16:52,Kansas,Quentin Grimes,Foul,31,43
+16:46,South Dakota,Tyler Peterson,Missed Layup,31,43
+16:46,South Dakota,Tyler Peterson,Offensive Rebound,31,43
+16:37,Kansas,Lagerald Vick,Foul,31,43
+16:34,South Dakota,Triston Simpson,Missed Layup,31,43
+16:34,Kansas,Dedric Lawson,Defensive Rebound,31,43
+16:19,Kansas,Quentin Grimes,Missed Three Point Jumper,31,43
+16:19,Kansas,Quentin Grimes,Offensive Rebound,31,43
+16:15,Kansas,Quentin Grimes,Turnover,31,43
+16:15,South Dakota,Trey Burch-Manning,Steal,31,43
+16:03,Kansas,Charlie Moore,Foul,31,43
+15:54,South Dakota,Stanley Umude,Three Point Jumper,34,43
+15:39,Kansas,Lagerald Vick,Turnover,34,43
+15:39,South Dakota,Triston Simpson,Steal,34,43
+15:31,South Dakota,Cody Kelley,Missed Layup,34,43
+15:31,South Dakota,Tyler Peterson,Offensive Rebound,34,43
+15:28,South Dakota,Tyler Peterson,Layup,36,43
+15:11,Kansas,Charlie Moore,Three Point Jumper,36,46
+14:50,South Dakota,Cody Kelley,Turnover,36,46
+14:50,Kansas,Marcus Garrett,Steal,36,46
+14:45,Kansas,Lagerald Vick,Three Point Jumper,36,49
+14:19,South Dakota,Stanley Umude,Jumper,38,49
+14:10,Kansas,Devon Dotson,Turnover,38,49
+14:10,South Dakota,Triston Simpson,Steal,38,49
+14:02,South Dakota,Tyler Peterson,Layup,40,49
+13:40,Kansas,Charlie Moore,Missed Three Point Jumper,40,49
+13:40,Kansas,Lagerald Vick,Offensive Rebound,40,49
+13:37,Kansas,Lagerald Vick,Missed Three Point Jumper,40,49
+13:37,South Dakota,Stanley Umude,Defensive Rebound,40,49
+13:17,South Dakota,Trey Burch-Manning,Missed Layup,40,49
+13:17,Kansas,Lagerald Vick,Block,40,49
+13:17,Kansas,Marcus Garrett,Defensive Rebound,40,49
+13:09,Kansas,Dedric Lawson,Layup,40,51
+12:58,South Dakota,None,None,40,51
+12:58,Kansas,None,None,40,51
+12:44,South Dakota,Tyler Peterson,Missed Layup,40,51
+12:44,Kansas,Dedric Lawson,Defensive Rebound,40,51
+12:19,Kansas,Charlie Moore,Three Point Jumper,40,54
+11:49,South Dakota,Stanley Umude,Turnover,40,54
+11:49,Kansas,Charlie Moore,Steal,40,54
+11:41,South Dakota,Trey Burch-Manning,Foul,40,54
+11:41,Kansas,None,None,40,54
+11:41,Kansas,Dedric Lawson,Free Throw,40,55
+11:41,Kansas,Dedric Lawson,Free Throw,40,56
+11:28,South Dakota,Stanley Umude,Layup,42,56
+11:12,Kansas,Dedric Lawson,Turnover,42,56
+11:12,South Dakota,Cody Kelley,Steal,42,56
+11:03,South Dakota,Triston Simpson,Missed Three Point Jumper,42,56
+11:03,Kansas,Quentin Grimes,Defensive Rebound,42,56
+10:58,Kansas,Quentin Grimes,Turnover,42,56
+10:58,South Dakota,Triston Simpson,Steal,42,56
+10:50,South Dakota,Triston Simpson,Missed Jumper,42,56
+10:50,Kansas,Marcus Garrett,Defensive Rebound,42,56
+10:39,Kansas,Dedric Lawson,Missed Three Point Jumper,42,56
+10:39,South Dakota,Tyler Peterson,Defensive Rebound,42,56
+10:20,South Dakota,Triston Simpson,Layup,44,56
+10:05,Kansas,Charlie Moore,Three Point Jumper,44,59
+9:42,Kansas,Mitch Lightfoot,Foul,44,59
+9:42,Kansas,None,None,44,59
+9:35,Kansas,David McCormack,Foul,44,59
+9:28,South Dakota,Dan Jech,Missed Jumper,44,59
+9:28,Kansas,Lagerald Vick,Defensive Rebound,44,59
+9:21,South Dakota,Tyler Peterson,Foul,44,59
+9:16,Kansas,Devon Dotson,Missed Jumper,44,59
+9:16,South Dakota,Stanley Umude,Block,44,59
+9:16,South Dakota,Nathan Robinson,Defensive Rebound,44,59
+9:00,South Dakota,Stanley Umude,Jumper,46,59
+9:00,Kansas,K.J. Lawson,Foul,46,59
+9:00,South Dakota,Stanley Umude,Free Throw,47,59
+8:38,South Dakota,Dan Jech,Foul,47,59
+8:33,Kansas,David McCormack,Layup,47,61
+7:59,South Dakota,Dan Jech,Missed Jumper,47,61
+7:59,Kansas,Dedric Lawson,Defensive Rebound,47,61
+7:46,Kansas,Charlie Moore,Three Point Jumper,47,64
+7:26,South Dakota,Triston Simpson,Turnover,47,64
+7:26,Kansas,Dedric Lawson,Steal,47,64
+7:21,Kansas,Dedric Lawson,Layup,47,66
+7:18,South Dakota,None,None,47,66
+7:04,South Dakota,Nathan Robinson,Missed Jumper,47,66
+7:04,Kansas,David McCormack,Block,47,66
+7:04,Kansas,Devon Dotson,Defensive Rebound,47,66
+6:56,Kansas,Devon Dotson,Layup,47,68
+6:42,South Dakota,Trey Burch-Manning,Missed Three Point Jumper,47,68
+6:42,South Dakota,Nathan Robinson,Offensive Rebound,47,68
+6:34,South Dakota,Trey Burch-Manning,Turnover,47,68
+6:34,Kansas,Dedric Lawson,Steal,47,68
+6:29,Kansas,Dedric Lawson,Layup,47,70
+6:06,South Dakota,Tyler Peterson,Missed Three Point Jumper,47,70
+6:06,Kansas,David McCormack,Defensive Rebound,47,70
+6:05,South Dakota,Trey Burch-Manning,Foul,47,70
+6:05,Kansas,David McCormack,Free Throw,47,71
+6:05,Kansas,David McCormack,Free Throw,47,72
+5:50,South Dakota,Tyler Peterson,Layup,49,72
+5:30,Kansas,Dedric Lawson,Missed Three Point Jumper,49,72
+5:30,South Dakota,Cody Kelley,Defensive Rebound,49,72
+5:21,Kansas,David McCormack,Foul,49,72
+5:21,South Dakota,Nathan Robinson,Missed Free Throw,49,72
+5:21,South Dakota,None,Team Rebound,49,72
+5:21,South Dakota,Nathan Robinson,Missed Free Throw,49,72
+5:21,Kansas,Dedric Lawson,Defensive Rebound,49,72
+5:10,Kansas,Lagerald Vick,Dunk,49,74
+4:51,South Dakota,Stanley Umude,Missed Jumper,49,74
+4:51,Kansas,David McCormack,Defensive Rebound,49,74
+4:43,Kansas,David McCormack,Jumper,49,76
+4:21,South Dakota,Cody Kelley,Missed Layup,49,76
+4:21,South Dakota,Cody Kelley,Offensive Rebound,49,76
+4:14,South Dakota,Cody Kelley,Missed Jumper,49,76
+4:14,Kansas,Dedric Lawson,Defensive Rebound,49,76
+4:08,Kansas,Charlie Moore,Three Point Jumper,49,79
+3:47,South Dakota,Dan Jech,Missed Jumper,49,79
+3:47,Kansas,Dedric Lawson,Defensive Rebound,49,79
+3:31,Kansas,David McCormack,Dunk,49,81
+3:31,South Dakota,None,None,49,81
+3:11,South Dakota,Cody Kelley,Missed Three Point Jumper,49,81
+3:11,South Dakota,Triston Simpson,Offensive Rebound,49,81
+3:11,South Dakota,Stanley Umude,Missed Jumper,49,81
+3:11,Kansas,David McCormack,Block,49,81
+3:11,South Dakota,Stanley Umude,Offensive Rebound,49,81
+3:10,Kansas,Dedric Lawson,Foul,49,81
+3:10,South Dakota,Stanley Umude,Free Throw,50,81
+3:10,South Dakota,Stanley Umude,Missed Free Throw,50,81
+3:10,Kansas,David McCormack,Defensive Rebound,50,81
+2:58,Kansas,Charlie Moore,Missed Three Point Jumper,50,81
+2:58,South Dakota,Stanley Umude,Defensive Rebound,50,81
+2:47,South Dakota,Stanley Umude,Missed Three Point Jumper,50,81
+2:47,Kansas,Dedric Lawson,Defensive Rebound,50,81
+2:40,Kansas,Lagerald Vick,Three Point Jumper,50,84
+2:07,South Dakota,Stanley Umude,Turnover,50,84
+1:53,Kansas,K.J. Lawson,Three Point Jumper,50,87
+1:23,Kansas,K.J. Lawson,Foul,50,87
+1:23,South Dakota,Stanley Umude,Missed Free Throw,50,87
+1:23,South Dakota,None,Team Rebound,50,87
+1:23,South Dakota,Stanley Umude,Free Throw,51,87
+1:08,Kansas,Garrett Luinstra,Missed Layup,51,87
+1:08,Kansas,Garrett Luinstra,Offensive Rebound,51,87
+0:44,Kansas,Quentin Grimes,Missed Layup,51,87
+0:44,South Dakota,South Dakota,Defensive Rebound,51,87
+0:44,Kansas,Quentin Grimes,Foul,51,87
+0:44,Kansas,Quentin Grimes,Turnover,51,87
+0:43,South Dakota,Logan Power,Jumper,53,87
+0:43,South Dakota,Stanley Umude,Missed Jumper,53,87
+0:43,Kansas,Mitch Lightfoot,Defensive Rebound,53,87
+0:36,Kansas,Marcus Garrett,Layup,53,89
+0:28,South Dakota,Nathan Robinson,Missed Layup,53,89
+0:28,Kansas,Marcus Garrett,Defensive Rebound,53,89
+0:00,Kansas,None,None,53,89

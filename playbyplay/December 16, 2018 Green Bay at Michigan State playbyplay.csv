@@ -1,0 +1,396 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Michigan State,None,None,0,0
+19:57,Michigan State,Joshua Langford,Layup,0,2
+19:41,Green Bay,Shanquan Hemphill,Missed Layup,0,2
+19:41,Michigan State,Kenny Goins,Block,0,2
+19:41,Green Bay,Green Bay,Offensive Rebound,0,2
+19:31,Green Bay,JayQuan McCloud,Three Point Jumper,3,2
+19:12,Michigan State,Matt McQuaid,Layup,3,4
+19:03,Green Bay,Sandy Cohen III,Jumper,5,4
+18:28,Michigan State,Joshua Langford,Missed Jumper,5,4
+18:28,Michigan State,Kenny Goins,Offensive Rebound,5,4
+18:23,Michigan State,Matt McQuaid,Missed Three Point Jumper,5,4
+18:23,Michigan State,Kenny Goins,Offensive Rebound,5,4
+18:12,Michigan State,Joshua Langford,Missed Three Point Jumper,5,4
+18:12,Green Bay,PJ Pipes,Defensive Rebound,5,4
+18:06,Green Bay,PJ Pipes,Layup,7,4
+17:59,Michigan State,Matt McQuaid,Three Point Jumper,7,7
+17:45,Green Bay,Shanquan Hemphill,Missed Layup,7,7
+17:45,Green Bay,Shanquan Hemphill,Offensive Rebound,7,7
+17:41,Green Bay,Shanquan Hemphill,Layup,9,7
+17:33,Michigan State,Cassius Winston,Missed Layup,9,7
+17:33,Michigan State,Nick Ward,Offensive Rebound,9,7
+17:30,Michigan State,Nick Ward,Turnover,9,7
+17:20,Green Bay,Shanquan Hemphill,Turnover,9,7
+17:20,Michigan State,Xavier Tillman,Steal,9,7
+17:13,Michigan State,Joshua Langford,Turnover,9,7
+17:05,Green Bay,Manny Patterson,Jumper,11,7
+16:35,Michigan State,Nick Ward,Jumper,11,9
+16:21,Green Bay,PJ Pipes,Missed Three Point Jumper,11,9
+16:21,Michigan State,Xavier Tillman,Defensive Rebound,11,9
+16:07,Michigan State,Xavier Tillman,Layup,11,11
+16:07,Green Bay,Manny Patterson,Foul,11,11
+16:07,Michigan State,Xavier Tillman,Free Throw,11,12
+15:35,Green Bay,PJ Pipes,Three Point Jumper,14,12
+15:19,Green Bay,Cody Schwartz,Foul,14,12
+15:19,Michigan State,None,None,14,12
+15:19,Michigan State,Xavier Tillman,Missed Free Throw,14,12
+15:19,Michigan State,None,Team Rebound,14,12
+15:19,Michigan State,Xavier Tillman,Missed Free Throw,14,12
+15:19,Green Bay,PJ Pipes,Defensive Rebound,14,12
+15:13,Green Bay,Kameron Hankerson,Missed Three Point Jumper,14,12
+15:13,Michigan State,Xavier Tillman,Defensive Rebound,14,12
+15:05,Michigan State,Nick Ward,Layup,14,14
+14:49,Green Bay,Sandy Cohen III,Three Point Jumper,17,14
+14:45,Green Bay,Sandy Cohen III,Foul,17,14
+14:45,Green Bay,Sandy Cohen III,Foul,17,14
+14:45,Michigan State,Cassius Winston,Free Throw,17,15
+14:45,Michigan State,Cassius Winston,Free Throw,17,16
+14:39,Michigan State,Cassius Winston,Missed Layup,17,16
+14:39,Michigan State,Kyle Ahrens,Offensive Rebound,17,16
+14:39,Green Bay,Cody Schwartz,Foul,17,16
+14:39,Michigan State,Kyle Ahrens,Free Throw,17,17
+14:39,Michigan State,Kyle Ahrens,Missed Free Throw,17,17
+14:39,Green Bay,Shanquan Hemphill,Defensive Rebound,17,17
+14:28,Green Bay,Sandy Cohen III,Jumper,19,17
+14:15,Michigan State,Joshua Langford,Missed Jumper,19,17
+14:15,Green Bay,Kameron Hankerson,Defensive Rebound,19,17
+14:07,Green Bay,JayQuan McCloud,Three Point Jumper,22,17
+13:55,Michigan State,Joshua Langford,Three Point Jumper,22,20
+13:37,Michigan State,Cassius Winston,Foul,22,20
+13:33,Green Bay,JayQuan McCloud,Missed Jumper,22,20
+13:33,Michigan State,Kyle Ahrens,Defensive Rebound,22,20
+13:24,Michigan State,Joshua Langford,Missed Three Point Jumper,22,20
+13:24,Michigan State,Kenny Goins,Offensive Rebound,22,20
+13:23,Green Bay,Trevian Bell,Foul,22,20
+13:15,Michigan State,Joshua Langford,Turnover,22,20
+13:06,Green Bay,Sandy Cohen III,Jumper,24,20
+12:42,Michigan State,Matt McQuaid,Layup,24,22
+12:24,Green Bay,Sandy Cohen III,Missed Three Point Jumper,24,22
+12:24,Michigan State,Kyle Ahrens,Defensive Rebound,24,22
+12:14,Michigan State,Kenny Goins,Turnover,24,22
+12:14,Green Bay,T.J. Parham,Steal,24,22
+12:12,Green Bay,Sandy Cohen III,Turnover,24,22
+12:12,Michigan State,Kyle Ahrens,Steal,24,22
+12:10,Michigan State,Kenny Goins,Foul,24,22
+12:10,Michigan State,Kenny Goins,Turnover,24,22
+12:04,Michigan State,Aaron Henry,Foul,24,22
+11:51,Green Bay,Josh McNair,Missed Jumper,24,22
+11:51,Michigan State,Nick Ward,Block,24,22
+11:51,Michigan State,Joshua Langford,Defensive Rebound,24,22
+11:36,Michigan State,Aaron Henry,Missed Jumper,24,22
+11:36,Green Bay,Josh McNair,Defensive Rebound,24,22
+11:26,Michigan State,Aaron Henry,Foul,24,22
+11:26,Michigan State,None,None,24,22
+11:11,Green Bay,PJ Pipes,Missed Three Point Jumper,24,22
+11:11,Michigan State,Michigan State,Defensive Rebound,24,22
+10:41,Green Bay,Josh McNair,Foul,24,22
+10:38,Michigan State,Matt McQuaid,Three Point Jumper,24,25
+10:17,Green Bay,Josh McNair,Missed Jumper,24,25
+10:17,Michigan State,Joshua Langford,Defensive Rebound,24,25
+10:08,Michigan State,Kenny Goins,Missed Three Point Jumper,24,25
+10:08,Michigan State,Nick Ward,Offensive Rebound,24,25
+10:03,Green Bay,Josh McNair,Foul,24,25
+10:03,Michigan State,Nick Ward,Free Throw,24,26
+10:03,Michigan State,Nick Ward,Missed Free Throw,24,26
+10:03,Green Bay,Shanquan Hemphill,Defensive Rebound,24,26
+9:45,Green Bay,Sandy Cohen III,Missed Three Point Jumper,24,26
+9:45,Michigan State,Xavier Tillman,Defensive Rebound,24,26
+9:36,Michigan State,Cassius Winston,Turnover,24,26
+9:20,Green Bay,Sandy Cohen III,Missed Jumper,24,26
+9:20,Michigan State,Nick Ward,Defensive Rebound,24,26
+9:03,Michigan State,Nick Ward,Layup,24,28
+8:49,Green Bay,Shanquan Hemphill,Missed Layup,24,28
+8:49,Michigan State,Xavier Tillman,Block,24,28
+8:49,Michigan State,Xavier Tillman,Defensive Rebound,24,28
+8:28,Michigan State,Nick Ward,Layup,24,30
+8:27,Green Bay,None,None,24,30
+8:01,Green Bay,Manny Patterson,Missed Jumper,24,30
+8:01,Michigan State,Nick Ward,Block,24,30
+8:01,Michigan State,Kenny Goins,Defensive Rebound,24,30
+7:49,Michigan State,Nick Ward,Dunk,24,32
+7:34,Green Bay,Sandy Cohen III,Missed Layup,24,32
+7:34,Michigan State,Nick Ward,Defensive Rebound,24,32
+7:25,Michigan State,Joshua Langford,Foul,24,32
+7:25,Michigan State,Joshua Langford,Turnover,24,32
+7:13,Green Bay,Shanquan Hemphill,Missed Jumper,24,32
+7:13,Michigan State,Cassius Winston,Defensive Rebound,24,32
+7:03,Green Bay,Sandy Cohen III,Foul,24,32
+7:03,Michigan State,Nick Ward,Free Throw,24,33
+7:03,Michigan State,Nick Ward,Free Throw,24,34
+6:52,Green Bay,PJ Pipes,Missed Three Point Jumper,24,34
+6:52,Michigan State,Cassius Winston,Defensive Rebound,24,34
+6:41,Michigan State,Cassius Winston,Layup,24,36
+6:41,Green Bay,PJ Pipes,Foul,24,36
+6:41,Michigan State,Cassius Winston,Missed Free Throw,24,36
+6:41,Green Bay,Sandy Cohen III,Defensive Rebound,24,36
+6:28,Green Bay,Sandy Cohen III,Layup,26,36
+6:21,Michigan State,Cassius Winston,Layup,26,38
+6:05,Green Bay,Kameron Hankerson,Jumper,28,38
+6:00,Michigan State,Nick Ward,Layup,28,40
+5:59,Green Bay,None,None,28,40
+5:54,Green Bay,Manny Patterson,Missed Jumper,28,40
+5:54,Green Bay,Kameron Hankerson,Offensive Rebound,28,40
+5:47,Michigan State,Matt McQuaid,Foul,28,40
+5:19,Green Bay,Kameron Hankerson,Missed Three Point Jumper,28,40
+5:19,Green Bay,None,Team Rebound,28,40
+5:16,Green Bay,Green Bay ,Turnover,28,40
+5:07,Michigan State,Matt McQuaid,Missed Jumper,28,40
+5:07,Green Bay,Green Bay,Defensive Rebound,28,40
+4:42,Green Bay,Cody Schwartz,Missed Three Point Jumper,28,40
+4:42,Michigan State,Kenny Goins,Defensive Rebound,28,40
+4:35,Michigan State,Kyle Ahrens,Missed Three Point Jumper,28,40
+4:35,Michigan State,Kenny Goins,Offensive Rebound,28,40
+4:29,Michigan State,Foster Loyer,Missed Three Point Jumper,28,40
+4:29,Green Bay,Kameron Hankerson,Block,28,40
+4:29,Michigan State,Xavier Tillman,Offensive Rebound,28,40
+4:23,Green Bay,Hunter Crist,Foul,28,40
+4:23,Michigan State,Foster Loyer,Free Throw,28,41
+4:23,Michigan State,Foster Loyer,Free Throw,28,42
+4:09,Green Bay,Trevian Bell,Missed Jumper,28,42
+4:09,Michigan State,Foster Loyer,Defensive Rebound,28,42
+4:05,Green Bay,T.J. Parham,Foul,28,42
+4:05,Michigan State,Foster Loyer,Free Throw,28,43
+4:05,Michigan State,Foster Loyer,Free Throw,28,44
+3:54,Green Bay,Cody Schwartz,Turnover,28,44
+3:54,Michigan State,Xavier Tillman,Steal,28,44
+3:50,Michigan State,Cassius Winston,Missed Three Point Jumper,28,44
+3:50,Michigan State,Joshua Langford,Offensive Rebound,28,44
+3:45,Michigan State,Gabe Brown,Three Point Jumper,28,47
+3:39,Green Bay,None,None,28,47
+3:29,Green Bay,JayQuan McCloud,Jumper,30,47
+3:29,Michigan State,Nick Ward,Foul,30,47
+3:29,Green Bay,JayQuan McCloud,Free Throw,31,47
+3:07,Michigan State,Gabe Brown,Three Point Jumper,31,50
+2:52,Green Bay,Cody Schwartz,Three Point Jumper,34,50
+2:32,Green Bay,PJ Pipes,Foul,34,50
+2:32,Michigan State,Cassius Winston,Free Throw,34,51
+2:32,Michigan State,Cassius Winston,Free Throw,34,52
+2:15,Green Bay,Shanquan Hemphill,Missed Jumper,34,52
+2:15,Michigan State,Cassius Winston,Defensive Rebound,34,52
+2:07,Michigan State,Joshua Langford,Turnover,34,52
+1:58,Michigan State,Xavier Tillman,Foul,34,52
+1:58,Green Bay,Shanquan Hemphill,Free Throw,35,52
+1:58,Green Bay,Shanquan Hemphill,Missed Free Throw,35,52
+1:58,Michigan State,Xavier Tillman,Defensive Rebound,35,52
+1:51,Michigan State,Nick Ward,Dunk,35,54
+1:34,Green Bay,Cody Schwartz,Missed Jumper,35,54
+1:34,Michigan State,Nick Ward,Block,35,54
+1:34,Michigan State,Joshua Langford,Defensive Rebound,35,54
+1:27,Michigan State,Nick Ward,Layup,35,56
+1:27,Green Bay,PJ Pipes,Foul,35,56
+1:27,Michigan State,Nick Ward,Free Throw,35,57
+1:18,Green Bay,Cody Schwartz,Missed Three Point Jumper,35,57
+1:18,Michigan State,Cassius Winston,Defensive Rebound,35,57
+1:09,Michigan State,Nick Ward,Layup,35,59
+0:27,Green Bay,Cody Schwartz,Missed Three Point Jumper,35,59
+0:27,Michigan State,Nick Ward,Block,35,59
+0:27,Michigan State,Aaron Henry,Defensive Rebound,35,59
+0:06,Michigan State,Cassius Winston,Layup,35,61
+0:03,Green Bay,Shanquan Hemphill,Turnover,35,61
+0:03,Michigan State,Xavier Tillman,Steal,35,61
+0:01,Michigan State,Xavier Tillman,Three Point Jumper,35,64
+0:00,Michigan State,None,None,35,64
+20:00,Green Bay,None,None,35,64
+19:50,Green Bay,Kameron Hankerson,Three Point Jumper,38,64
+19:34,Michigan State,Cassius Winston,Three Point Jumper,38,67
+19:21,Michigan State,Matt McQuaid,Foul,38,67
+19:15,Green Bay,Sandy Cohen III,Missed Three Point Jumper,38,67
+19:15,Michigan State,Kenny Goins,Defensive Rebound,38,67
+19:06,Michigan State,Nick Ward,Dunk,38,69
+18:55,Green Bay,Kameron Hankerson,Missed Three Point Jumper,38,69
+18:55,Michigan State,Kenny Goins,Defensive Rebound,38,69
+18:45,Green Bay,Manny Patterson,Foul,38,69
+18:37,Michigan State,Joshua Langford,Jumper,38,71
+18:19,Green Bay,Kameron Hankerson,Jumper,40,71
+17:57,Michigan State,Cassius Winston,Turnover,40,71
+17:57,Green Bay,Sandy Cohen III,Steal,40,71
+17:49,Green Bay,Kameron Hankerson,Missed Layup,40,71
+17:49,Michigan State,Kenny Goins,Block,40,71
+17:49,Michigan State,Kenny Goins,Defensive Rebound,40,71
+17:44,Michigan State,Joshua Langford,Missed Three Point Jumper,40,71
+17:44,Michigan State,Matt McQuaid,Offensive Rebound,40,71
+17:44,Green Bay,Kameron Hankerson,Foul,40,71
+17:22,Michigan State,Joshua Langford,Jumper,40,73
+17:02,Michigan State,Kenny Goins,Foul,40,73
+17:00,Green Bay,Sandy Cohen III,Missed Layup,40,73
+17:00,Michigan State,Joshua Langford,Defensive Rebound,40,73
+16:51,Michigan State,Kenny Goins,Missed Three Point Jumper,40,73
+16:51,Green Bay,JayQuan McCloud,Defensive Rebound,40,73
+16:42,Green Bay,Sandy Cohen III,Missed Jumper,40,73
+16:42,Green Bay,Shanquan Hemphill,Offensive Rebound,40,73
+16:41,Michigan State,Nick Ward,Foul,40,73
+16:41,Michigan State,Joshua Langford,Foul,40,73
+16:28,Green Bay,Manny Patterson,Layup,42,73
+16:22,Green Bay,Manny Patterson,Foul,42,73
+16:17,Michigan State,Cassius Winston,Missed Three Point Jumper,42,73
+16:17,Green Bay,Sandy Cohen III,Defensive Rebound,42,73
+16:01,Green Bay,Manny Patterson,Jumper,44,73
+15:54,Michigan State,Xavier Tillman,Missed Layup,44,73
+15:54,Green Bay,Shanquan Hemphill,Defensive Rebound,44,73
+15:47,Green Bay,Sandy Cohen III,Missed Layup,44,73
+15:47,Michigan State,Cassius Winston,Defensive Rebound,44,73
+15:42,Michigan State,Joshua Langford,Layup,44,75
+15:22,Michigan State,Xavier Tillman,Foul,44,75
+15:22,Michigan State,None,None,44,75
+15:22,Green Bay,PJ Pipes,Free Throw,45,75
+15:22,Green Bay,PJ Pipes,Free Throw,46,75
+15:06,Michigan State,Kenny Goins,Turnover,46,75
+15:06,Green Bay,PJ Pipes,Steal,46,75
+15:00,Green Bay,Josh McNair,Missed Layup,46,75
+15:00,Michigan State,Xavier Tillman,Block,46,75
+15:00,Michigan State,Xavier Tillman,Defensive Rebound,46,75
+14:50,Michigan State,Cassius Winston,Three Point Jumper,46,78
+14:18,Green Bay,Sandy Cohen III,Turnover,46,78
+14:05,Michigan State,Aaron Henry,Turnover,46,78
+14:05,Green Bay,Josh McNair,Steal,46,78
+13:44,Green Bay,Sandy Cohen III,Missed Jumper,46,78
+13:44,Michigan State,Nick Ward,Defensive Rebound,46,78
+13:33,Michigan State,Cassius Winston,Missed Jumper,46,78
+13:33,Green Bay,Josh McNair,Defensive Rebound,46,78
+13:26,Green Bay,Josh McNair,Missed Layup,46,78
+13:26,Michigan State,Xavier Tillman,Block,46,78
+13:26,Michigan State,Nick Ward,Defensive Rebound,46,78
+13:10,Michigan State,Nick Ward,Layup,46,80
+12:56,Green Bay,Trevian Bell,Three Point Jumper,49,80
+12:56,Green Bay,None,None,49,80
+12:54,Michigan State,Nick Ward,Turnover,49,80
+12:54,Green Bay,PJ Pipes,Steal,49,80
+12:50,Green Bay,PJ Pipes,Turnover,49,80
+12:50,Michigan State,Aaron Henry,Steal,49,80
+12:38,Michigan State,Foster Loyer,Missed Jumper,49,80
+12:38,Green Bay,Green Bay,Defensive Rebound,49,80
+12:14,Green Bay,Josh McNair,Missed Jumper,49,80
+12:14,Michigan State,Xavier Tillman,Defensive Rebound,49,80
+12:05,Green Bay,PJ Pipes,Foul,49,80
+12:02,Michigan State,Kyle Ahrens,Missed Jumper,49,80
+12:02,Green Bay,Kameron Hankerson,Block,49,80
+12:02,Green Bay,PJ Pipes,Defensive Rebound,49,80
+11:55,Michigan State,Aaron Henry,Foul,49,80
+11:55,Michigan State,None,None,49,80
+11:37,Green Bay,Kameron Hankerson,Jumper,51,80
+11:16,Michigan State,Foster Loyer,Layup,51,82
+11:16,Green Bay,Josh McNair,Foul,51,82
+11:16,Michigan State,Foster Loyer,Free Throw,51,83
+11:12,Michigan State,Kyle Ahrens,Foul,51,83
+11:12,Green Bay,Kameron Hankerson,Missed Free Throw,51,83
+11:12,Michigan State,Joshua Langford,Defensive Rebound,51,83
+10:54,Michigan State,Matt McQuaid,Missed Layup,51,83
+10:54,Green Bay,JayQuan McCloud,Block,51,83
+10:54,Michigan State,Nick Ward,Offensive Rebound,51,83
+10:48,Michigan State,Matt McQuaid,Missed Three Point Jumper,51,83
+10:48,Michigan State,Nick Ward,Offensive Rebound,51,83
+10:43,Michigan State,Nick Ward,Missed Jumper,51,83
+10:43,Green Bay,Josh McNair,Defensive Rebound,51,83
+10:32,Green Bay,JayQuan McCloud,Missed Three Point Jumper,51,83
+10:32,Michigan State,Nick Ward,Defensive Rebound,51,83
+10:14,Michigan State,Matt McQuaid,Missed Three Point Jumper,51,83
+10:14,Green Bay,Trevian Bell,Defensive Rebound,51,83
+10:06,Green Bay,Trevian Bell,Foul,51,83
+10:06,Green Bay,Trevian Bell,Turnover,51,83
+9:57,Michigan State,Joshua Langford,Jumper,51,85
+9:38,Green Bay,Kameron Hankerson,Jumper,53,85
+9:30,Michigan State,Matt McQuaid,Layup,53,87
+9:00,Green Bay,Sandy Cohen III,Three Point Jumper,56,87
+8:49,Michigan State,Cassius Winston,Missed Layup,56,87
+8:49,Green Bay,Manny Patterson,Defensive Rebound,56,87
+8:42,Green Bay,Sandy Cohen III,Missed Jumper,56,87
+8:42,Michigan State,Cassius Winston,Defensive Rebound,56,87
+8:29,Green Bay,Manny Patterson,Foul,56,87
+8:29,Michigan State,Nick Ward,Missed Free Throw,56,87
+8:29,Michigan State,None,Team Rebound,56,87
+8:29,Michigan State,Nick Ward,Missed Free Throw,56,87
+8:29,Green Bay,Manny Patterson,Defensive Rebound,56,87
+8:20,Green Bay,Manny Patterson,Jumper,58,87
+8:09,Michigan State,Nick Ward,Layup,58,89
+7:58,Green Bay,Manny Patterson,Jumper,60,89
+7:48,Michigan State,None,None,60,89
+7:48,Michigan State,Nick Ward,Foul,60,89
+7:48,Michigan State,Nick Ward,Foul,60,89
+7:48,Green Bay,JayQuan McCloud,Free Throw,61,89
+7:48,Green Bay,JayQuan McCloud,Free Throw,62,89
+7:43,Michigan State,Joshua Langford,Missed Jumper,62,89
+7:43,Michigan State,Marcus Bingham Jr.,Offensive Rebound,62,89
+7:38,Green Bay,Sandy Cohen III,Foul,62,89
+7:38,Michigan State,Marcus Bingham Jr.,Free Throw,62,90
+7:38,Michigan State,Marcus Bingham Jr.,Missed Free Throw,62,90
+7:38,Green Bay,Manny Patterson,Defensive Rebound,62,90
+7:32,Michigan State,Joshua Langford,Foul,62,90
+7:32,Green Bay,Sandy Cohen III,Free Throw,63,90
+7:32,Green Bay,Sandy Cohen III,Missed Free Throw,63,90
+7:32,Michigan State,Joshua Langford,Defensive Rebound,63,90
+7:27,Michigan State,Joshua Langford,Turnover,63,90
+7:27,Green Bay,Sandy Cohen III,Steal,63,90
+7:11,Green Bay,Manny Patterson,Missed Layup,63,90
+7:11,Michigan State,Marcus Bingham Jr.,Block,63,90
+7:11,Michigan State,Marcus Bingham Jr.,Defensive Rebound,63,90
+7:04,Michigan State,Matt McQuaid,Turnover,63,90
+6:52,Green Bay,Kameron Hankerson,Turnover,63,90
+6:52,Michigan State,Matt McQuaid,Steal,63,90
+6:30,Michigan State,Cassius Winston,Missed Three Point Jumper,63,90
+6:30,Green Bay,Sandy Cohen III,Defensive Rebound,63,90
+6:21,Green Bay,JayQuan McCloud,Three Point Jumper,66,90
+6:02,Michigan State,Marcus Bingham Jr.,Missed Three Point Jumper,66,90
+6:02,Green Bay,Sandy Cohen III,Defensive Rebound,66,90
+5:47,Green Bay,JayQuan McCloud,Three Point Jumper,69,90
+5:26,Michigan State,Joshua Langford,Missed Jumper,69,90
+5:26,Green Bay,Cody Schwartz,Defensive Rebound,69,90
+5:15,Michigan State,Cassius Winston,Foul,69,90
+5:15,Green Bay,Sandy Cohen III,Free Throw,70,90
+5:15,Green Bay,Sandy Cohen III,Free Throw,71,90
+5:01,Michigan State,Kyle Ahrens,Three Point Jumper,71,93
+4:47,Green Bay,Sandy Cohen III,Jumper,73,93
+4:41,Michigan State,Gabe Brown,Three Point Jumper,73,96
+4:25,Green Bay,Manny Patterson,Missed Jumper,73,96
+4:25,Michigan State,Gabe Brown,Defensive Rebound,73,96
+4:19,Michigan State,Gabe Brown,Missed Three Point Jumper,73,96
+4:19,Green Bay,Manny Patterson,Defensive Rebound,73,96
+4:08,Green Bay,Sandy Cohen III,Three Point Jumper,76,96
+3:58,Michigan State,None,None,76,96
+3:50,Michigan State,Foster Loyer,Three Point Jumper,76,99
+3:29,Green Bay,Shanquan Hemphill,Missed Jumper,76,99
+3:29,Michigan State,Marcus Bingham Jr.,Block,76,99
+3:29,Green Bay,Green Bay,Offensive Rebound,76,99
+3:22,Green Bay,T.J. Parham,Missed Three Point Jumper,76,99
+3:22,Green Bay,Green Bay,Offensive Rebound,76,99
+3:16,Green Bay,Jevon Smith,Missed Layup,76,99
+3:16,Michigan State,Michigan State,Defensive Rebound,76,99
+3:00,Michigan State,Gabe Brown,Layup,76,101
+2:37,Green Bay,Jevon Smith,Missed Three Point Jumper,76,101
+2:37,Michigan State,Marcus Bingham Jr.,Block,76,101
+2:37,Green Bay,Shanquan Hemphill,Offensive Rebound,76,101
+2:37,Green Bay,Shanquan Hemphill,Turnover,76,101
+2:37,Michigan State,Foster Loyer,Steal,76,101
+2:28,Michigan State,Marcus Bingham Jr.,Missed Layup,76,101
+2:28,Green Bay,Trevian Bell,Defensive Rebound,76,101
+2:20,Green Bay,T.J. Parham,Missed Jumper,76,101
+2:20,Michigan State,Gabe Brown,Defensive Rebound,76,101
+1:49,Michigan State,Jack Hoiberg,Missed Jumper,76,101
+1:49,Green Bay,Trevian Bell,Defensive Rebound,76,101
+1:40,Michigan State,Braden Burke,Foul,76,101
+1:40,Green Bay,Shanquan Hemphill,Free Throw,77,101
+1:40,Green Bay,Shanquan Hemphill,Missed Free Throw,77,101
+1:40,Michigan State,Conner George,Defensive Rebound,77,101
+1:26,Michigan State,Conner George,Layup,77,103
+1:19,Green Bay,T.J. Parham,Missed Jumper,77,103
+1:19,Michigan State,Brock Washington,Defensive Rebound,77,103
+1:10,Michigan State,Conner George,Missed Layup,77,103
+1:10,Michigan State,Braden Burke,Offensive Rebound,77,103
+1:07,Green Bay,Hunter Crist,Foul,77,103
+1:07,Michigan State,Braden Burke,Missed Free Throw,77,103
+1:07,Michigan State,None,Team Rebound,77,103
+1:07,Michigan State,Braden Burke,Free Throw,77,104
+0:56,Green Bay,Jevon Smith,Layup,79,104
+0:55,Michigan State,Conner George,Foul,79,104
+0:55,Green Bay,Jevon Smith,Free Throw,80,104
+0:43,Michigan State,Brock Washington,Missed Three Point Jumper,80,104
+0:43,Green Bay,Trevian Bell,Defensive Rebound,80,104
+0:39,Green Bay,T.J. Parham,Three Point Jumper,83,104
+0:13,Michigan State,Brock Washington,Missed Jumper,83,104
+0:13,Michigan State,Michigan State,Offensive Rebound,83,104
+0:09,Michigan State,Brock Washington,Missed Jumper,83,104
+0:09,Michigan State,Braden Burke,Offensive Rebound,83,104
+0:02,Michigan State,Brock Washington,Missed Three Point Jumper,83,104
+0:02,Green Bay,T.J. Parham,Block,83,104
+0:02,Green Bay,Trevian Bell,Defensive Rebound,83,104
+0:00,Michigan State,None,None,83,104

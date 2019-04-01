@@ -1,0 +1,364 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:55,Arkansas,Mason Jones,Three Point Jumper,0,3
+19:25,Montana State,Devin Kirby,Missed Jumper,0,3
+19:25,Arkansas,Adrio Bailey,Block,0,3
+19:24,Arkansas,Jalen Harris,Defensive Rebound,0,3
+19:21,Montana State,Keljin Blevins,Foul,0,3
+19:21,Arkansas,Mason Jones,Missed Free Throw,0,3
+19:21,Arkansas,None,Team Rebound,0,3
+19:21,Arkansas,Mason Jones,Free Throw,0,4
+19:04,Arkansas,Adrio Bailey,Foul,0,4
+19:04,Montana State,Keljin Blevins,Free Throw,1,4
+19:04,Montana State,Keljin Blevins,Missed Free Throw,1,4
+19:04,Arkansas,Isaiah Joe,Defensive Rebound,1,4
+18:54,Arkansas,Mason Jones,Three Point Jumper,1,7
+18:44,Montana State,None,None,1,7
+18:21,Montana State,Harald Frey,Missed Three Point Jumper,1,7
+18:21,Arkansas,Arkansas,Defensive Rebound,1,7
+18:07,Arkansas,Daniel Gafford,Layup,1,9
+17:55,Montana State,Keljin Blevins,Turnover,1,9
+17:51,Arkansas,Jalen Harris,Dunk,1,11
+17:29,Montana State,Tyler Hall,Missed Three Point Jumper,1,11
+17:29,Montana State,Ladan Ricketts,Offensive Rebound,1,11
+17:25,Montana State,Ladan Ricketts,Jumper,3,11
+17:06,Arkansas,Adrio Bailey,Jumper,3,13
+16:54,Montana State,Keljin Blevins,Layup,5,13
+16:44,Arkansas,Isaiah Joe,Missed Three Point Jumper,5,13
+16:44,Arkansas,Adrio Bailey,Offensive Rebound,5,13
+16:40,Arkansas,Isaiah Joe,Missed Three Point Jumper,5,13
+16:40,Montana State,Montana State,Defensive Rebound,5,13
+16:24,Montana State,Keljin Blevins,Missed Layup,5,13
+16:24,Montana State,Devin Kirby,Offensive Rebound,5,13
+16:20,Montana State,Ladan Ricketts,Missed Three Point Jumper,5,13
+16:20,Arkansas,Isaiah Joe,Defensive Rebound,5,13
+16:13,Arkansas,Mason Jones,Three Point Jumper,5,16
+15:55,Montana State,Tyler Hall,Missed Three Point Jumper,5,16
+15:55,Montana State,Devin Kirby,Offensive Rebound,5,16
+15:50,Montana State,Tyler Hall,Layup,7,16
+15:28,Arkansas,Isaiah Joe,Missed Three Point Jumper,7,16
+15:28,Montana State,None,Team Rebound,7,16
+15:26,Arkansas,Daniel Gafford,Foul,7,16
+15:26,Arkansas,None,None,7,16
+15:26,Montana State,Devin Kirby,Missed Free Throw,7,16
+15:26,Montana State,None,Team Rebound,7,16
+15:26,Montana State,Devin Kirby,Missed Free Throw,7,16
+15:26,Montana State,None,Team Rebound,7,16
+15:04,Arkansas,Gabe Osabuohien,Foul,7,16
+14:59,Montana State,Harald Frey,Missed Three Point Jumper,7,16
+14:59,Arkansas,Arkansas,Defensive Rebound,7,16
+14:44,Arkansas,Isaiah Joe,Turnover,7,16
+14:43,Montana State,Sam Neumann,Turnover,7,16
+14:41,Arkansas,Mason Jones,Steal,7,16
+14:38,Arkansas,Daniel Gafford,Dunk,7,18
+14:14,Montana State,Harald Frey,Missed Three Point Jumper,7,18
+14:14,Montana State,Sam Neumann,Offensive Rebound,7,18
+14:02,Montana State,Harald Frey,Turnover,7,18
+14:01,Arkansas,Gabe Osabuohien,Steal,7,18
+13:56,Arkansas,Mason Jones,Missed Three Point Jumper,7,18
+13:56,Montana State,None,Team Rebound,7,18
+13:53,Arkansas,Gabe Osabuohien,Foul,7,18
+13:32,Montana State,Sam Neumann,Missed Three Point Jumper,7,18
+13:32,Arkansas,Mason Jones,Defensive Rebound,7,18
+13:17,Arkansas,Keyshawn Embery-Simpson,Three Point Jumper,7,21
+13:10,Arkansas,Desi Sills,Foul,7,21
+13:08,Montana State,Sam Neumann,Turnover,7,21
+13:07,Arkansas,Isaiah Joe,Steal,7,21
+13:01,Arkansas,Gabe Osabuohien,Missed Three Point Jumper,7,21
+13:01,Arkansas,None,Team Rebound,7,21
+12:59,Montana State,Sam Neumann,Foul,7,21
+12:54,Arkansas,Isaiah Joe,Missed Three Point Jumper,7,21
+12:54,Montana State,Usman Haruna,Defensive Rebound,7,21
+12:40,Montana State,Lassi Nikkarinen,Turnover,7,21
+12:39,Arkansas,Isaiah Joe,Steal,7,21
+12:34,Arkansas,Isaiah Joe,Layup,7,23
+12:19,Montana State,Keljin Blevins,Turnover,7,23
+12:13,Arkansas,Isaiah Joe,Steal,7,23
+12:12,Arkansas,Reggie Chaney,Dunk,7,25
+12:04,Montana State,Ladan Ricketts,Missed Three Point Jumper,7,25
+12:04,Arkansas,Reggie Chaney,Defensive Rebound,7,25
+11:53,Arkansas,Desi Sills,Missed Three Point Jumper,7,25
+11:53,Montana State,Keljin Blevins,Defensive Rebound,7,25
+11:46,Montana State,Keljin Blevins,Foul,7,25
+11:46,Montana State,Keljin Blevins,Turnover,7,25
+11:46,Arkansas,None,None,7,25
+11:33,Arkansas,Gabe Osabuohien,Missed Layup,7,25
+11:33,Montana State,Tyler Hall,Defensive Rebound,7,25
+11:11,Montana State,Sam Neumann,Turnover,7,25
+11:11,Arkansas,Desi Sills,Steal,7,25
+10:52,Arkansas,Keyshawn Embery-Simpson,Three Point Jumper,7,28
+10:19,Montana State,Lassi Nikkarinen,Missed Three Point Jumper,7,28
+10:19,Montana State,Ladan Ricketts,Offensive Rebound,7,28
+10:14,Montana State,Tyler Hall,Missed Three Point Jumper,7,28
+10:14,Arkansas,Gabe Osabuohien,Defensive Rebound,7,28
+10:07,Arkansas,Reggie Chaney,Dunk,7,30
+9:51,Montana State,Tyler Hall,Missed Three Point Jumper,7,30
+9:51,Arkansas,Reggie Chaney,Defensive Rebound,7,30
+9:43,Arkansas,Desi Sills,Layup,7,32
+9:43,Montana State,Devin Kirby,Foul,7,32
+9:43,Arkansas,Desi Sills,Missed Free Throw,7,32
+9:43,Montana State,Devin Kirby,Defensive Rebound,7,32
+9:28,Montana State,Ladan Ricketts,Missed Jumper,7,32
+9:28,Montana State,Devin Kirby,Offensive Rebound,7,32
+9:24,Montana State,Devin Kirby,Layup,9,32
+9:10,Arkansas,Desi Sills,Missed Three Point Jumper,9,32
+9:10,Montana State,Sam Neumann,Defensive Rebound,9,32
+8:59,Montana State,Lassi Nikkarinen,Turnover,9,32
+8:58,Arkansas,Keyshawn Embery-Simpson,Steal,9,32
+8:54,Arkansas,Reggie Chaney,Turnover,9,32
+8:54,Montana State,Ladan Ricketts,Steal,9,32
+8:48,Montana State,Tyler Hall,Three Point Jumper,12,32
+8:32,Arkansas,Ethan Henderson,Foul,12,32
+8:32,Arkansas,Ethan Henderson,Turnover,12,32
+8:17,Montana State,Tyler Hall,Missed Jumper,12,32
+8:17,Montana State,Devin Kirby,Offensive Rebound,12,32
+8:08,Montana State,Harald Frey,Turnover,12,32
+8:01,Arkansas,Isaiah Joe,Three Point Jumper,12,35
+7:45,Montana State,Tyler Hall,Three Point Jumper,15,35
+7:36,Arkansas,Isaiah Joe,Missed Three Point Jumper,15,35
+7:36,Montana State,Russell Daniels,Defensive Rebound,15,35
+7:28,Montana State,Devin Kirby,Missed Layup,15,35
+7:28,Arkansas,Jordan Phillips,Defensive Rebound,15,35
+7:17,Arkansas,Jordan Phillips,Missed Jumper,15,35
+7:17,Montana State,Russell Daniels,Defensive Rebound,15,35
+7:05,Montana State,Tyler Hall,Three Point Jumper,18,35
+6:51,Arkansas,Jalen Harris,Three Point Jumper,18,38
+6:33,Montana State,Tyler Hall,Three Point Jumper,21,38
+6:26,Arkansas,None,None,21,38
+6:21,Montana State,Russell Daniels,Foul,21,38
+6:08,Arkansas,Isaiah Joe,Dunk,21,40
+5:50,Montana State,Russell Daniels,Missed Jumper,21,40
+5:50,Montana State,Harald Frey,Offensive Rebound,21,40
+5:32,Montana State,Tyler Hall,Three Point Jumper,24,40
+5:16,Arkansas,Daniel Gafford,Turnover,24,40
+5:14,Montana State,Devin Kirby,Steal,24,40
+5:10,Montana State,Russell Daniels,Missed Jumper,24,40
+5:10,Arkansas,Daniel Gafford,Defensive Rebound,24,40
+5:03,Arkansas,Isaiah Joe,Foul,24,40
+5:03,Arkansas,Isaiah Joe,Turnover,24,40
+4:51,Montana State,Russell Daniels,Turnover,24,40
+4:50,Arkansas,Desi Sills,Steal,24,40
+4:47,Arkansas,Desi Sills,Turnover,24,40
+4:39,Arkansas,Adrio Bailey,Foul,24,40
+4:39,Montana State,Devin Kirby,Missed Free Throw,24,40
+4:39,Montana State,None,Team Rebound,24,40
+4:39,Montana State,Devin Kirby,Free Throw,25,40
+4:27,Arkansas,Mason Jones,Missed Three Point Jumper,25,40
+4:27,Arkansas,Adrio Bailey,Offensive Rebound,25,40
+4:23,Arkansas,Adrio Bailey,Layup,25,42
+4:01,Montana State,Keljin Blevins,Missed Jumper,25,42
+4:01,Montana State,Keljin Blevins,Offensive Rebound,25,42
+3:58,Arkansas,Desi Sills,Foul,25,42
+3:58,Arkansas,None,None,25,42
+3:58,Montana State,Keljin Blevins,Free Throw,26,42
+3:58,Montana State,Keljin Blevins,Free Throw,27,42
+3:46,Arkansas,Jalen Harris,Turnover,27,42
+3:33,Montana State,Tyler Hall,Missed Three Point Jumper,27,42
+3:33,Arkansas,Daniel Gafford,Defensive Rebound,27,42
+3:07,Arkansas,Mason Jones,Three Point Jumper,27,45
+2:38,Montana State,Lassi Nikkarinen,Turnover,27,45
+2:37,Arkansas,Mason Jones,Steal,27,45
+2:32,Arkansas,Adrio Bailey,Layup,27,47
+2:12,Montana State,Tyler Hall,Three Point Jumper,30,47
+2:12,Arkansas,Desi Sills,Foul,30,47
+2:12,Montana State,Tyler Hall,Missed Free Throw,30,47
+2:12,Arkansas,Daniel Gafford,Defensive Rebound,30,47
+1:52,Arkansas,Jalen Harris,Missed Jumper,30,47
+1:52,Montana State,Harald Frey,Defensive Rebound,30,47
+1:43,Montana State,Ladan Ricketts,Three Point Jumper,33,47
+1:22,Montana State,Sam Neumann,Foul,33,47
+1:12,Arkansas,Daniel Gafford,Dunk,33,49
+0:56,Montana State,Tyler Hall,Three Point Jumper,36,49
+0:44,Arkansas,Mason Jones,Three Point Jumper,36,52
+0:40,Montana State,None,None,36,52
+0:25,Montana State,Harald Frey,Missed Three Point Jumper,36,52
+0:25,Montana State,Harald Frey,Offensive Rebound,36,52
+0:05,Arkansas,Daniel Gafford,Foul,36,52
+0:05,Montana State,Sam Neumann,Free Throw,37,52
+0:05,Montana State,Sam Neumann,Free Throw,38,52
+0:01,Montana State,Harald Frey,Foul,38,52
+0:01,Arkansas,Jalen Harris,Free Throw,38,53
+0:01,Arkansas,Jalen Harris,Free Throw,38,54
+0:00,Arkansas,None,None,38,54
+19:53,Arkansas,Reggie Chaney,Layup,38,56
+19:31,Arkansas,Jalen Harris,Foul,38,56
+19:28,Montana State,Keljin Blevins,Turnover,38,56
+19:06,Montana State,Ladan Ricketts,Foul,38,56
+18:57,Arkansas,Mason Jones,Turnover,38,56
+18:49,Montana State,Keljin Blevins,Missed Layup,38,56
+18:49,Arkansas,Daniel Gafford,Block,38,56
+18:48,Arkansas,Daniel Gafford,Defensive Rebound,38,56
+18:44,Arkansas,Mason Jones,Layup,38,58
+18:34,Montana State,Devin Kirby,Foul,38,58
+18:34,Montana State,Devin Kirby,Turnover,38,58
+18:13,Arkansas,Isaiah Joe,Missed Three Point Jumper,38,58
+18:13,Montana State,Tyler Hall,Defensive Rebound,38,58
+18:04,Arkansas,Reggie Chaney,Foul,38,58
+17:56,Montana State,Ladan Ricketts,Turnover,38,58
+17:54,Arkansas,Isaiah Joe,Steal,38,58
+17:52,Arkansas,Jalen Harris,Dunk,38,60
+17:52,Montana State,None,None,38,60
+17:39,Arkansas,Mason Jones,Foul,38,60
+17:23,Montana State,Harald Frey,Foul,38,60
+17:23,Montana State,Harald Frey,Turnover,38,60
+17:16,Arkansas,Isaiah Joe,Missed Three Point Jumper,38,60
+17:16,Arkansas,Daniel Gafford,Offensive Rebound,38,60
+17:09,Arkansas,Daniel Gafford,Turnover,38,60
+17:09,Montana State,Harald Frey,Steal,38,60
+17:05,Montana State,Ladan Ricketts,Three Point Jumper,41,60
+16:49,Arkansas,Daniel Gafford,Dunk,41,62
+16:40,Montana State,Keljin Blevins,Turnover,41,62
+16:39,Arkansas,Isaiah Joe,Steal,41,62
+16:37,Arkansas,Reggie Chaney,Layup,41,64
+16:32,Arkansas,Jalen Harris,Foul,41,64
+16:11,Montana State,Keljin Blevins,Layup,43,64
+15:55,Arkansas,None,None,43,64
+15:46,Arkansas,Reggie Chaney,Turnover,43,64
+15:46,Montana State,Tyler Hall,Steal,43,64
+15:42,Montana State,Harald Frey,Missed Layup,43,64
+15:42,Montana State,Russell Daniels,Offensive Rebound,43,64
+15:40,Montana State,Russell Daniels,Missed Jumper,43,64
+15:40,Montana State,Russell Daniels,Offensive Rebound,43,64
+15:36,Montana State,Tyler Hall,Missed Three Point Jumper,43,64
+15:36,Arkansas,Mason Jones,Defensive Rebound,43,64
+15:19,Arkansas,Mason Jones,Turnover,43,64
+15:06,Montana State,Russell Daniels,Turnover,43,64
+15:06,Arkansas,Daniel Gafford,Steal,43,64
+15:00,Arkansas,Keyshawn Embery-Simpson,Missed Three Point Jumper,43,64
+15:00,Arkansas,Daniel Gafford,Offensive Rebound,43,64
+14:56,Arkansas,Daniel Gafford,Layup,43,66
+14:35,Montana State,Russell Daniels,Turnover,43,66
+14:15,Arkansas,Jalen Harris,Missed Three Point Jumper,43,66
+14:15,Montana State,Sam Neumann,Defensive Rebound,43,66
+14:07,Montana State,Tyler Hall,Layup,45,66
+13:47,Montana State,Maximilian Schuecker,Foul,45,66
+13:38,Arkansas,Daniel Gafford,Layup,45,68
+13:38,Montana State,Maximilian Schuecker,Foul,45,68
+13:38,Arkansas,Daniel Gafford,Missed Free Throw,45,68
+13:38,Montana State,Maximilian Schuecker,Defensive Rebound,45,68
+13:25,Montana State,Tyler Hall,Missed Three Point Jumper,45,68
+13:25,Montana State,Sam Neumann,Offensive Rebound,45,68
+13:21,Montana State,Tyler Hall,Missed Three Point Jumper,45,68
+13:17,Arkansas,Arkansas,Defensive Rebound,45,68
+13:07,Arkansas,Adrio Bailey,Jumper,45,70
+12:41,Arkansas,Adrio Bailey,Foul,45,70
+12:32,Montana State,Russell Daniels,Foul,45,70
+12:32,Montana State,Russell Daniels,Turnover,45,70
+12:20,Arkansas,Adrio Bailey,Dunk,45,72
+11:55,Montana State,Harald Frey,Missed Layup,45,72
+11:55,Montana State,Keljin Blevins,Offensive Rebound,45,72
+11:53,Arkansas,Keyshawn Embery-Simpson,Foul,45,72
+11:53,Arkansas,None,None,45,72
+11:47,Montana State,Ladan Ricketts,Missed Three Point Jumper,45,72
+11:47,Montana State,Montana State,Offensive Rebound,45,72
+11:33,Montana State,Harald Frey,Jumper,47,72
+11:20,Arkansas,Desi Sills,Missed Three Point Jumper,47,72
+11:20,Montana State,Montana State,Defensive Rebound,47,72
+10:48,Arkansas,Mason Jones,Foul,47,72
+10:48,Montana State,Devin Kirby,Missed Free Throw,47,72
+10:48,Arkansas,Mason Jones,Defensive Rebound,47,72
+10:37,Arkansas,Keyshawn Embery-Simpson,Missed Three Point Jumper,47,72
+10:37,Arkansas,Gabe Osabuohien,Offensive Rebound,47,72
+10:33,Arkansas,Desi Sills,Three Point Jumper,47,75
+10:12,Montana State,Harald Frey,Missed Three Point Jumper,47,75
+10:12,Montana State,Harald Frey,Offensive Rebound,47,75
+10:06,Montana State,Ladan Ricketts,Three Point Jumper,50,75
+9:45,Arkansas,Mason Jones,Turnover,50,75
+9:29,Montana State,Ladan Ricketts,Turnover,50,75
+9:29,Arkansas,Gabe Osabuohien,Steal,50,75
+9:21,Montana State,Devin Kirby,Foul,50,75
+9:21,Arkansas,Gabe Osabuohien,Free Throw,50,76
+9:21,Arkansas,Gabe Osabuohien,Free Throw,50,77
+9:10,Arkansas,Jordan Phillips,Foul,50,77
+9:10,Montana State,Keljin Blevins,Free Throw,51,77
+9:10,Montana State,Keljin Blevins,Missed Free Throw,51,77
+9:10,Arkansas,Adrio Bailey,Defensive Rebound,51,77
+8:54,Arkansas,Gabe Osabuohien,Layup,51,79
+8:23,Arkansas,Adrio Bailey,Foul,51,79
+8:23,Montana State,Ladan Ricketts,Free Throw,52,79
+8:23,Montana State,Ladan Ricketts,Free Throw,53,79
+8:05,Arkansas,Gabe Osabuohien,Layup,53,81
+7:47,Montana State,Devin Kirby,Dunk,55,81
+7:38,Arkansas,Gabe Osabuohien,Missed Three Point Jumper,55,81
+7:38,Montana State,Ladan Ricketts,Defensive Rebound,55,81
+7:29,Montana State,Harald Frey,Missed Three Point Jumper,55,81
+7:29,Montana State,Ladan Ricketts,Offensive Rebound,55,81
+7:28,Montana State,None,None,57,81
+7:16,Arkansas,Isaiah Joe,Missed Layup,57,81
+7:16,Montana State,Sam Neumann,Defensive Rebound,57,81
+7:01,Montana State,Devin Kirby,Turnover,57,81
+7:01,Arkansas,None,None,57,81
+6:50,Arkansas,Isaiah Joe,Three Point Jumper,57,84
+6:33,Arkansas,Reggie Chaney,Foul,57,84
+6:33,Montana State,Sam Neumann,Free Throw,58,84
+6:33,Montana State,Sam Neumann,Free Throw,59,84
+6:25,Arkansas,Daniel Gafford,Dunk,59,86
+6:07,Montana State,Keljin Blevins,Missed Three Point Jumper,59,86
+6:07,Arkansas,Daniel Gafford,Defensive Rebound,59,86
+6:04,Montana State,Keljin Blevins,Foul,59,86
+6:04,Arkansas,Daniel Gafford,Missed Free Throw,59,86
+6:04,Montana State,None,Team Rebound,59,86
+6:04,Arkansas,Reggie Chaney,Foul,59,86
+6:04,Montana State,Keljin Blevins,Missed Free Throw,59,86
+6:04,Montana State,None,Team Rebound,59,86
+6:04,Montana State,Keljin Blevins,Missed Free Throw,59,86
+6:04,Montana State,None,Team Rebound,59,86
+5:51,Montana State,Tyler Hall,Missed Jumper,59,86
+5:51,Arkansas,Reggie Chaney,Defensive Rebound,59,86
+5:26,Arkansas,Jordan Phillips,Missed Three Point Jumper,59,86
+5:26,Arkansas,Reggie Chaney,Offensive Rebound,59,86
+5:16,Arkansas,Isaiah Joe,Missed Three Point Jumper,59,86
+5:16,Montana State,Tyler Hall,Defensive Rebound,59,86
+5:05,Montana State,Harald Frey,Missed Three Point Jumper,59,86
+5:05,Arkansas,Jalen Harris,Defensive Rebound,59,86
+4:56,Arkansas,Daniel Gafford,Layup,59,88
+4:44,Arkansas,Jordan Phillips,Foul,59,88
+4:44,Montana State,Tyler Hall,Free Throw,60,88
+4:44,Montana State,Tyler Hall,Free Throw,61,88
+4:25,Arkansas,Jalen Harris,Jumper,61,90
+4:10,Montana State,Russell Daniels,Missed Three Point Jumper,61,90
+4:10,Arkansas,Ethan Henderson,Defensive Rebound,61,90
+4:02,Arkansas,Reggie Chaney,Missed Layup,61,90
+4:02,Montana State,Keljin Blevins,Defensive Rebound,61,90
+3:49,Montana State,Tyler Hall,Jumper,63,90
+3:35,Arkansas,Jalen Harris,Missed Three Point Jumper,63,90
+3:35,Arkansas,Arkansas,Offensive Rebound,63,90
+3:33,Arkansas,None,None,63,90
+3:20,Arkansas,Jordan Phillips,Missed Jumper,63,90
+3:20,Arkansas,Isaiah Joe,Offensive Rebound,63,90
+3:14,Arkansas,Keyshawn Embery-Simpson,Missed Three Point Jumper,63,90
+3:14,Arkansas,Reggie Chaney,Offensive Rebound,63,90
+3:07,Arkansas,Jordan Phillips,Turnover,63,90
+3:07,Montana State,Ladan Ricketts,Steal,63,90
+2:48,Montana State,Ladan Ricketts,Missed Three Point Jumper,63,90
+2:48,Arkansas,Arkansas,Defensive Rebound,63,90
+2:35,Arkansas,Jordan Phillips,Missed Three Point Jumper,63,90
+2:35,Arkansas,Ethan Henderson,Offensive Rebound,63,90
+2:31,Arkansas,Ethan Henderson,Turnover,63,90
+2:21,Arkansas,Jonathan Holmes,Foul,63,90
+2:21,Montana State,Maximilian Schuecker,Free Throw,64,90
+2:21,Montana State,Maximilian Schuecker,Free Throw,65,90
+2:11,Arkansas,Jordan Phillips,Missed Jumper,65,90
+2:11,Montana State,Quentin Guliford,Defensive Rebound,65,90
+1:55,Montana State,Zeke Quinlan,Turnover,65,90
+1:42,Arkansas,Jonathan Holmes,Missed Three Point Jumper,65,90
+1:42,Montana State,Quentin Guliford,Defensive Rebound,65,90
+1:20,Montana State,Quentin Guliford,Turnover,65,90
+1:06,Arkansas,Reggie Chaney,Missed Jumper,65,90
+1:06,Arkansas,None,Team Rebound,65,90
+1:04,Montana State,Zeke Quinlan,Foul,65,90
+1:04,Arkansas,Ethan Henderson,Missed Free Throw,65,90
+1:04,Montana State,Montana State,Defensive Rebound,65,90
+0:44,Montana State,Zeke Quinlan,Missed Jumper,65,90
+0:44,Arkansas,Ethan Henderson,Block,65,90
+0:43,Montana State,Zeke Quinlan,Offensive Rebound,65,90
+0:41,Montana State,Zeke Quinlan,Missed Jumper,65,90
+0:41,Arkansas,Reggie Chaney,Block,65,90
+0:39,Arkansas,Desi Sills,Defensive Rebound,65,90
+0:39,Arkansas,Reggie Chaney,Foul,65,90
+0:39,Montana State,Maximilian Schuecker,Foul,65,90
+0:32,Arkansas,Jonathan Holmes,Missed Three Point Jumper,65,90
+0:32,Montana State,Russell Daniels,Defensive Rebound,65,90
+0:21,Montana State,Quentin Guliford,Three Point Jumper,68,90
+0:10,Arkansas,Jonathan Holmes,Missed Layup,68,90
+0:10,Montana State,Zeke Quinlan,Defensive Rebound,68,90
+0:00,Arkansas,None,None,68,90

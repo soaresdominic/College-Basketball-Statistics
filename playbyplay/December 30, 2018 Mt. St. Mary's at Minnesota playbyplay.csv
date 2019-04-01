@@ -1,0 +1,341 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Minnesota,None,None,0,0
+19:41,Minnesota,Daniel Oturu,Missed Layup,0,0
+19:41,Minnesota,Daniel Oturu,Offensive Rebound,0,0
+19:39,Minnesota,Daniel Oturu,Layup,0,2
+19:39,Mt. St. Mary's,Nana Opoku,Foul,0,2
+19:39,Minnesota,Daniel Oturu,Missed Free Throw,0,2
+19:39,Mt. St. Mary's,Damian Chong Qui,Defensive Rebound,0,2
+19:20,Mt. St. Mary's,Omar Habwe,Missed Three Point Jumper,0,2
+19:20,Minnesota,Amir Coffey,Defensive Rebound,0,2
+19:05,Minnesota,Gabe Kalscheur,Missed Jumper,0,2
+19:05,Mt. St. Mary's,Nana Opoku,Defensive Rebound,0,2
+18:52,Mt. St. Mary's,Jalen Gibbs,Missed Layup,0,2
+18:52,Minnesota,Gabe Kalscheur,Defensive Rebound,0,2
+18:13,Minnesota,Dupree McBrayer,Three Point Jumper,0,5
+17:49,Mt. St. Mary's,Jalen Gibbs,Turnover,0,5
+17:49,Minnesota,Jordan Murphy,Steal,0,5
+17:41,Minnesota,Dupree McBrayer,Layup,0,7
+17:28,Mt. St. Mary's,Omar Habwe,Missed Jumper,0,7
+17:28,Minnesota,Daniel Oturu,Block,0,7
+17:28,Minnesota,Jordan Murphy,Defensive Rebound,0,7
+17:23,Mt. St. Mary's,None,None,0,7
+17:15,Minnesota,Amir Coffey,Dunk,0,9
+17:12,Mt. St. Mary's,Damian Chong Qui,Turnover,0,9
+17:12,Minnesota,Amir Coffey,Steal,0,9
+16:56,Minnesota,Jordan Murphy,Turnover,0,9
+16:56,Mt. St. Mary's,Damian Chong Qui,Steal,0,9
+16:43,Mt. St. Mary's,Dee Barnes,Three Point Jumper,3,9
+16:18,Minnesota,Daniel Oturu,Turnover,3,9
+16:02,Mt. St. Mary's,Dee Barnes,Missed Jumper,3,9
+16:02,Minnesota,Jordan Murphy,Defensive Rebound,3,9
+15:42,Minnesota,Jordan Murphy,Turnover,3,9
+15:42,Mt. St. Mary's,Dee Barnes,Steal,3,9
+15:21,Mt. St. Mary's,Omar Habwe,Foul,3,9
+15:21,Mt. St. Mary's,Omar Habwe,Turnover,3,9
+15:21,Minnesota,None,None,3,9
+15:10,Mt. St. Mary's,Omar Habwe,Foul,3,9
+15:06,Mt. St. Mary's,Malik Jefferson,Foul,3,9
+15:06,Minnesota,Jordan Murphy,Free Throw,3,10
+15:06,Minnesota,Jordan Murphy,Free Throw,3,11
+14:41,Mt. St. Mary's,Jalen Gibbs,Missed Jumper,3,11
+14:41,Minnesota,Jordan Murphy,Block,3,11
+14:41,Mt. St. Mary's,Mt. St. Mary's,Offensive Rebound,3,11
+14:32,Mt. St. Mary's,Collin Nnamene,Jumper,5,11
+14:26,Minnesota,Jordan Murphy,Foul,5,11
+14:26,Minnesota,Jordan Murphy,Turnover,5,11
+14:19,Mt. St. Mary's,Dee Barnes,Jumper,7,11
+13:50,Mt. St. Mary's,Jalen Gibbs,Foul,7,11
+13:41,Minnesota,Eric Curry,Missed Three Point Jumper,7,11
+13:41,Mt. St. Mary's,Malik Jefferson,Defensive Rebound,7,11
+13:28,Mt. St. Mary's,Vado Morse,Layup,9,11
+13:10,Minnesota,Amir Coffey,Missed Layup,9,11
+13:10,Mt. St. Mary's,Collin Nnamene,Block,9,11
+13:10,Mt. St. Mary's,Vado Morse,Defensive Rebound,9,11
+12:59,Mt. St. Mary's,Vado Morse,Missed Layup,9,11
+12:59,Mt. St. Mary's,Collin Nnamene,Offensive Rebound,9,11
+12:51,Mt. St. Mary's,Jalen Gibbs,Missed Three Point Jumper,9,11
+12:51,Minnesota,Jordan Murphy,Defensive Rebound,9,11
+12:45,Minnesota,Eric Curry,Layup,9,13
+12:45,Mt. St. Mary's,Collin Nnamene,Turnover,9,13
+12:45,Minnesota,Jordan Murphy,Steal,9,13
+12:39,Mt. St. Mary's,Collin Nnamene,Foul,9,13
+12:39,Minnesota,Jordan Murphy,Free Throw,9,14
+12:39,Minnesota,Jordan Murphy,Free Throw,9,15
+12:27,Mt. St. Mary's,Dee Barnes,Missed Three Point Jumper,9,15
+12:27,Minnesota,Daniel Oturu,Defensive Rebound,9,15
+12:10,Minnesota,Michael Hurt,Missed Three Point Jumper,9,15
+12:10,Minnesota,Michael Hurt,Offensive Rebound,9,15
+12:08,Minnesota,Gabe Kalscheur,Foul,9,15
+12:02,Mt. St. Mary's,Vado Morse,Missed Jumper,9,15
+12:02,Mt. St. Mary's,Malik Jefferson,Offensive Rebound,9,15
+12:02,Mt. St. Mary's,Malik Jefferson,Missed Layup,9,15
+12:02,Minnesota,Isaiah Washington,Block,9,15
+12:02,Minnesota,Isaiah Washington,Defensive Rebound,9,15
+11:40,Minnesota,Brock Stull,Missed Layup,9,15
+11:40,Mt. St. Mary's,Nana Opoku,Block,9,15
+11:40,Mt. St. Mary's,Malik Jefferson,Defensive Rebound,9,15
+11:18,Mt. St. Mary's,Dee Barnes,Missed Jumper,9,15
+11:18,Minnesota,Brock Stull,Defensive Rebound,9,15
+11:11,Minnesota,Brock Stull,Layup,9,17
+10:58,Mt. St. Mary's,Nana Opoku,Missed Three Point Jumper,9,17
+10:58,Minnesota,Brock Stull,Defensive Rebound,9,17
+10:49,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,9,17
+10:49,Mt. St. Mary's,Damian Chong Qui,Defensive Rebound,9,17
+10:31,Mt. St. Mary's,Malik Jefferson,Missed Jumper,9,17
+10:31,Minnesota,Isaiah Washington,Defensive Rebound,9,17
+10:15,Minnesota,Gabe Kalscheur,Missed Layup,9,17
+10:15,Mt. St. Mary's,Nana Opoku,Block,9,17
+10:15,Mt. St. Mary's,Mt. St. Mary's,Defensive Rebound,9,17
+10:11,Minnesota,None,None,9,17
+10:11,Minnesota,Isaiah Washington,Foul,9,17
+9:56,Mt. St. Mary's,Vado Morse,Missed Jumper,9,17
+9:56,Minnesota,Brock Stull,Block,9,17
+9:56,Minnesota,Gabe Kalscheur,Defensive Rebound,9,17
+9:42,Minnesota,Daniel Oturu,Missed Layup,9,17
+9:42,Mt. St. Mary's,Nana Opoku,Defensive Rebound,9,17
+9:32,Mt. St. Mary's,Damian Chong Qui,Layup,11,17
+9:32,Minnesota,Brock Stull,Foul,11,17
+9:32,Mt. St. Mary's,Damian Chong Qui,Missed Free Throw,11,17
+9:32,Minnesota,Daniel Oturu,Defensive Rebound,11,17
+9:14,Minnesota,Isaiah Washington,Layup,11,19
+8:57,Mt. St. Mary's,Damian Chong Qui,Missed Jumper,11,19
+8:57,Minnesota,Michael Hurt,Defensive Rebound,11,19
+8:36,Minnesota,Isaiah Washington,Missed Layup,11,19
+8:36,Mt. St. Mary's,Damian Chong Qui,Block,11,19
+8:36,Mt. St. Mary's,Damian Chong Qui,Defensive Rebound,11,19
+8:29,Mt. St. Mary's,Nana Opoku,Three Point Jumper,14,19
+7:59,Minnesota,Gabe Kalscheur,Turnover,14,19
+7:59,Minnesota,None,None,14,19
+7:43,Mt. St. Mary's,Malik Jefferson,Turnover,14,19
+7:25,Minnesota,Daniel Oturu,Layup,14,21
+6:59,Mt. St. Mary's,Jalen Gibbs,Missed Layup,14,21
+6:59,Minnesota,Daniel Oturu,Block,14,21
+6:59,Mt. St. Mary's,Malik Jefferson,Offensive Rebound,14,21
+6:49,Mt. St. Mary's,Damian Chong Qui,Missed Jumper,14,21
+6:49,Minnesota,Daniel Oturu,Defensive Rebound,14,21
+6:38,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,14,21
+6:38,Minnesota,Daniel Oturu,Offensive Rebound,14,21
+6:26,Minnesota,Daniel Oturu,Layup,14,23
+6:18,Minnesota,Daniel Oturu,Foul,14,23
+6:18,Mt. St. Mary's,Vado Morse,Missed Three Point Jumper,14,23
+6:18,Minnesota,Gabe Kalscheur,Defensive Rebound,14,23
+6:18,Minnesota,Eric Curry,Missed Three Point Jumper,14,23
+6:18,Mt. St. Mary's,Jalen Gibbs,Defensive Rebound,14,23
+6:18,Mt. St. Mary's,Dee Barnes,Missed Three Point Jumper,14,23
+6:18,Minnesota,Jordan Murphy,Defensive Rebound,14,23
+6:18,Minnesota,Amir Coffey,Missed Layup,14,23
+6:18,Mt. St. Mary's,Dee Barnes,Block,14,23
+6:18,Minnesota,Eric Curry,Offensive Rebound,14,23
+6:18,Minnesota,Dupree McBrayer,Missed Three Point Jumper,14,23
+6:18,Mt. St. Mary's,Nana Opoku,Defensive Rebound,14,23
+5:12,Mt. St. Mary's,Jalen Gibbs,Missed Three Point Jumper,14,23
+5:12,Minnesota,Minnesota,Defensive Rebound,14,23
+4:46,Minnesota,Eric Curry,Layup,14,25
+4:23,Mt. St. Mary's,Collin Nnamene,Missed Jumper,14,25
+4:23,Minnesota,Jordan Murphy,Defensive Rebound,14,25
+4:14,Minnesota,Jordan Murphy,Turnover,14,25
+4:14,Mt. St. Mary's,Vado Morse,Steal,14,25
+4:08,Mt. St. Mary's,Vado Morse,Layup,16,25
+4:08,Minnesota,Amir Coffey,Foul,16,25
+4:08,Mt. St. Mary's,Vado Morse,Free Throw,17,25
+3:54,Minnesota,Eric Curry,Turnover,17,25
+3:54,Minnesota,None,None,17,25
+3:37,Mt. St. Mary's,Omar Habwe,Missed Jumper,17,25
+3:37,Minnesota,Minnesota,Defensive Rebound,17,25
+3:13,Minnesota,Isaiah Washington,Jumper,17,27
+2:41,Mt. St. Mary's,Malik Jefferson,Missed Layup,17,27
+2:41,Mt. St. Mary's,Malik Jefferson,Offensive Rebound,17,27
+2:36,Mt. St. Mary's,Malik Jefferson,Layup,19,27
+2:16,Mt. St. Mary's,Dee Barnes,Foul,19,27
+2:16,Minnesota,Amir Coffey,Free Throw,19,28
+2:16,Minnesota,Amir Coffey,Missed Free Throw,19,28
+2:16,Mt. St. Mary's,Malik Jefferson,Defensive Rebound,19,28
+2:10,Mt. St. Mary's,Jalen Gibbs,Missed Three Point Jumper,19,28
+2:10,Minnesota,Daniel Oturu,Defensive Rebound,19,28
+1:53,Minnesota,Isaiah Washington,Turnover,19,28
+1:53,Minnesota,None,None,19,28
+1:47,Mt. St. Mary's,Damian Chong Qui,Jumper,21,28
+1:31,Minnesota,Isaiah Washington,Missed Three Point Jumper,21,28
+1:31,Minnesota,Isaiah Washington,Offensive Rebound,21,28
+1:21,Minnesota,Dupree McBrayer,Three Point Jumper,21,31
+1:04,Mt. St. Mary's,Omar Habwe,Jumper,23,31
+0:48,Minnesota,Isaiah Washington,Missed Jumper,23,31
+0:48,Mt. St. Mary's,Nana Opoku,Defensive Rebound,23,31
+0:21,Mt. St. Mary's,Jalen Gibbs,Turnover,23,31
+0:06,Minnesota,Dupree McBrayer,Missed Three Point Jumper,23,31
+0:06,Minnesota,Isaiah Washington,Offensive Rebound,23,31
+0:01,Minnesota,Isaiah Washington,Missed Jumper,23,31
+0:01,Minnesota,Minnesota,Offensive Rebound,23,31
+0:00,Minnesota,None,None,23,31
+20:00,Minnesota,None,None,23,31
+19:36,Mt. St. Mary's,Dee Barnes,Foul,23,31
+19:36,Minnesota,Amir Coffey,Free Throw,23,32
+19:36,Minnesota,Amir Coffey,Free Throw,23,33
+19:18,Mt. St. Mary's,Nana Opoku,Missed Three Point Jumper,23,33
+19:18,Mt. St. Mary's,Malik Jefferson,Offensive Rebound,23,33
+19:06,Mt. St. Mary's,Malik Jefferson,Missed Layup,23,33
+19:06,Minnesota,Daniel Oturu,Block,23,33
+19:06,Minnesota,Gabe Kalscheur,Defensive Rebound,23,33
+19:04,Minnesota,Amir Coffey,Turnover,23,33
+18:42,Mt. St. Mary's,Jalen Gibbs,Missed Three Point Jumper,23,33
+18:42,Minnesota,Daniel Oturu,Defensive Rebound,23,33
+18:38,Mt. St. Mary's,Malik Jefferson,Foul,23,33
+18:26,Minnesota,Daniel Oturu,Turnover,23,33
+18:26,Mt. St. Mary's,Damian Chong Qui,Steal,23,33
+18:03,Mt. St. Mary's,Damian Chong Qui,Foul,23,33
+18:03,Mt. St. Mary's,Damian Chong Qui,Turnover,23,33
+17:46,Minnesota,Jordan Murphy,Missed Three Point Jumper,23,33
+17:46,Mt. St. Mary's,Malik Jefferson,Defensive Rebound,23,33
+17:31,Mt. St. Mary's,Nana Opoku,Missed Three Point Jumper,23,33
+17:31,Mt. St. Mary's,Malik Jefferson,Offensive Rebound,23,33
+17:09,Mt. St. Mary's,Jalen Gibbs,Turnover,23,33
+17:09,Minnesota,Gabe Kalscheur,Steal,23,33
+16:57,Minnesota,Amir Coffey,Dunk,23,35
+16:41,Minnesota,Jordan Murphy,Foul,23,35
+16:41,Mt. St. Mary's,Omar Habwe,Missed Free Throw,23,35
+16:41,Mt. St. Mary's,None,Team Rebound,23,35
+16:41,Mt. St. Mary's,Omar Habwe,Missed Free Throw,23,35
+16:41,Minnesota,Eric Curry,Defensive Rebound,23,35
+16:30,Minnesota,Gabe Kalscheur,Three Point Jumper,23,38
+16:04,Mt. St. Mary's,Vado Morse,Layup,25,38
+15:53,Minnesota,Eric Curry,Foul,25,38
+15:53,Minnesota,Eric Curry,Turnover,25,38
+15:53,Minnesota,None,None,25,38
+15:36,Mt. St. Mary's,Dee Barnes,Three Point Jumper,28,38
+15:24,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,28,38
+15:24,Minnesota,Eric Curry,Offensive Rebound,28,38
+15:13,Minnesota,Gabe Kalscheur,Layup,28,40
+14:57,Mt. St. Mary's,Malik Jefferson,Foul,28,40
+14:57,Mt. St. Mary's,Malik Jefferson,Turnover,28,40
+14:40,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,28,40
+14:40,Mt. St. Mary's,Vado Morse,Defensive Rebound,28,40
+14:30,Mt. St. Mary's,Omar Habwe,Missed Three Point Jumper,28,40
+14:30,Minnesota,Daniel Oturu,Defensive Rebound,28,40
+14:13,Minnesota,Isaiah Washington,Jumper,28,42
+14:02,Mt. St. Mary's,Vado Morse,Missed Jumper,28,42
+14:02,Minnesota,Eric Curry,Defensive Rebound,28,42
+13:39,Mt. St. Mary's,Collin Nnamene,Foul,28,42
+13:39,Minnesota,Daniel Oturu,Free Throw,28,43
+13:39,Minnesota,Daniel Oturu,Free Throw,28,44
+13:26,Minnesota,Isaiah Washington,Foul,28,44
+13:26,Mt. St. Mary's,Omar Habwe,Missed Free Throw,28,44
+13:26,Mt. St. Mary's,None,Team Rebound,28,44
+13:26,Mt. St. Mary's,Omar Habwe,Free Throw,29,44
+13:10,Minnesota,Amir Coffey,Missed Jumper,29,44
+13:10,Mt. St. Mary's,Damian Chong Qui,Defensive Rebound,29,44
+13:00,Mt. St. Mary's,Omar Habwe,Three Point Jumper,32,44
+12:26,Minnesota,Isaiah Washington,Missed Jumper,32,44
+12:26,Mt. St. Mary's,Omar Habwe,Defensive Rebound,32,44
+12:02,Mt. St. Mary's,Dee Barnes,Three Point Jumper,35,44
+11:47,Minnesota,None,None,35,44
+11:47,Minnesota,None,None,35,44
+11:47,Minnesota,None,None,35,44
+11:40,Mt. St. Mary's,Vado Morse,Foul,35,44
+11:40,Minnesota,None,None,35,44
+11:40,Minnesota,Dupree McBrayer,Missed Free Throw,35,44
+11:40,Minnesota,None,Team Rebound,35,44
+11:40,Minnesota,Dupree McBrayer,Missed Free Throw,35,44
+11:40,Mt. St. Mary's,Collin Nnamene,Defensive Rebound,35,44
+11:29,Mt. St. Mary's,Vado Morse,Three Point Jumper,38,44
+10:52,Minnesota,Michael Hurt,Layup,38,46
+10:52,Mt. St. Mary's,Omar Habwe,Foul,38,46
+10:52,Minnesota,Michael Hurt,Free Throw,38,47
+10:35,Minnesota,Amir Coffey,Foul,38,47
+10:21,Minnesota,Daniel Oturu,Foul,38,47
+10:20,Mt. St. Mary's,Dee Barnes,Missed Three Point Jumper,38,47
+10:20,Minnesota,Jordan Murphy,Defensive Rebound,38,47
+9:58,Mt. St. Mary's,Dee Barnes,Foul,38,47
+9:58,Minnesota,Jordan Murphy,Free Throw,38,48
+9:58,Minnesota,Jordan Murphy,Missed Free Throw,38,48
+9:58,Mt. St. Mary's,Jalen Gibbs,Defensive Rebound,38,48
+9:36,Mt. St. Mary's,Vado Morse,Missed Jumper,38,48
+9:36,Mt. St. Mary's,Jalen Gibbs,Offensive Rebound,38,48
+9:36,Mt. St. Mary's,Jalen Gibbs,Missed Jumper,38,48
+9:36,Minnesota,Jordan Murphy,Block,38,48
+9:27,Mt. St. Mary's,Mt. St. Mary's ,Turnover,38,48
+9:14,Minnesota,Amir Coffey,Missed Three Point Jumper,38,48
+9:14,Mt. St. Mary's,Omar Habwe,Defensive Rebound,38,48
+9:06,Mt. St. Mary's,Vado Morse,Three Point Jumper,41,48
+8:38,Minnesota,Dupree McBrayer,Missed Jumper,41,48
+8:38,Minnesota,Jordan Murphy,Offensive Rebound,41,48
+8:38,Mt. St. Mary's,Malik Jefferson,Foul,41,48
+8:38,Minnesota,Jordan Murphy,Missed Free Throw,41,48
+8:38,Minnesota,None,Team Rebound,41,48
+8:38,Minnesota,Jordan Murphy,Free Throw,41,49
+8:27,Mt. St. Mary's,Omar Habwe,Missed Three Point Jumper,41,49
+8:27,Minnesota,Eric Curry,Defensive Rebound,41,49
+8:13,Minnesota,Amir Coffey,Layup,41,51
+8:00,Mt. St. Mary's,Vado Morse,Layup,43,51
+7:33,Minnesota,Dupree McBrayer,Missed Jumper,43,51
+7:33,Minnesota,Eric Curry,Offensive Rebound,43,51
+7:26,Minnesota,Dupree McBrayer,Missed Three Point Jumper,43,51
+7:26,Mt. St. Mary's,Omar Habwe,Defensive Rebound,43,51
+7:16,Mt. St. Mary's,Jalen Gibbs,Layup,45,51
+7:04,Minnesota,None,None,45,51
+7:04,Minnesota,None,None,45,51
+6:45,Minnesota,Daniel Oturu,Layup,45,53
+6:24,Mt. St. Mary's,Vado Morse,Missed Jumper,45,53
+6:24,Minnesota,Dupree McBrayer,Block,45,53
+6:24,Minnesota,Daniel Oturu,Defensive Rebound,45,53
+6:07,Mt. St. Mary's,Jalen Gibbs,Foul,45,53
+6:07,Minnesota,Gabe Kalscheur,Free Throw,45,54
+6:07,Minnesota,Gabe Kalscheur,Missed Free Throw,45,54
+6:07,Mt. St. Mary's,Omar Habwe,Defensive Rebound,45,54
+5:50,Mt. St. Mary's,Omar Habwe,Foul,45,54
+5:50,Mt. St. Mary's,Omar Habwe,Turnover,45,54
+5:39,Mt. St. Mary's,Collin Nnamene,Foul,45,54
+5:39,Minnesota,Daniel Oturu,Free Throw,45,55
+5:39,Minnesota,Daniel Oturu,Free Throw,45,56
+5:37,Mt. St. Mary's,None,None,45,56
+5:29,Mt. St. Mary's,Jalen Gibbs,Turnover,45,56
+5:10,Mt. St. Mary's,Collin Nnamene,Foul,45,56
+5:10,Minnesota,Jordan Murphy,Free Throw,45,57
+5:10,Minnesota,Jordan Murphy,Free Throw,45,58
+4:53,Minnesota,Daniel Oturu,Foul,45,58
+4:48,Mt. St. Mary's,Dee Barnes,Turnover,45,58
+4:31,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,45,58
+4:31,Mt. St. Mary's,Damian Chong Qui,Defensive Rebound,45,58
+4:13,Mt. St. Mary's,Dee Barnes,Layup,47,58
+3:57,Minnesota,Dupree McBrayer,Three Point Jumper,47,61
+3:39,Mt. St. Mary's,Vado Morse,Three Point Jumper,50,61
+3:36,Mt. St. Mary's,None,None,50,61
+3:36,Minnesota,None,None,50,61
+3:23,Minnesota,Amir Coffey,Foul,50,61
+3:23,Minnesota,Amir Coffey,Turnover,50,61
+3:02,Mt. St. Mary's,Vado Morse,Missed Jumper,50,61
+3:02,Minnesota,Daniel Oturu,Defensive Rebound,50,61
+2:33,Minnesota,Amir Coffey,Missed Jumper,50,61
+2:33,Minnesota,Jordan Murphy,Offensive Rebound,50,61
+2:28,Minnesota,Jordan Murphy,Dunk,50,63
+2:13,Minnesota,Jordan Murphy,Foul,50,63
+2:13,Mt. St. Mary's,Omar Habwe,Missed Free Throw,50,63
+2:13,Mt. St. Mary's,None,Team Rebound,50,63
+2:13,Mt. St. Mary's,Omar Habwe,Free Throw,51,63
+2:09,Mt. St. Mary's,Damian Chong Qui,Foul,51,63
+2:09,Minnesota,Dupree McBrayer,Free Throw,51,64
+2:09,Minnesota,Dupree McBrayer,Free Throw,51,65
+1:55,Mt. St. Mary's,Vado Morse,Turnover,51,65
+1:55,Minnesota,Dupree McBrayer,Steal,51,65
+1:29,Minnesota,Amir Coffey,Missed Three Point Jumper,51,65
+1:29,Mt. St. Mary's,Omar Habwe,Defensive Rebound,51,65
+1:20,Mt. St. Mary's,Vado Morse,Missed Three Point Jumper,51,65
+1:20,Mt. St. Mary's,Omar Habwe,Offensive Rebound,51,65
+1:12,Minnesota,Daniel Oturu,Foul,51,65
+1:12,Mt. St. Mary's,Omar Habwe,Free Throw,52,65
+1:12,Mt. St. Mary's,Omar Habwe,Free Throw,53,65
+0:59,Mt. St. Mary's,Jalen Gibbs,Foul,53,65
+0:59,Minnesota,Amir Coffey,Free Throw,53,66
+0:59,Minnesota,Amir Coffey,Free Throw,53,67
+0:49,Mt. St. Mary's,Jalen Gibbs,Missed Layup,53,67
+0:49,Minnesota,Jordan Murphy,Block,53,67
+0:49,Minnesota,Dupree McBrayer,Defensive Rebound,53,67
+0:43,Mt. St. Mary's,Dee Barnes,Foul,53,67
+0:43,Minnesota,Amir Coffey,Free Throw,53,68
+0:43,Minnesota,Amir Coffey,Free Throw,53,69
+0:35,Mt. St. Mary's,Vado Morse,Turnover,53,69
+0:35,Minnesota,Daniel Oturu,Steal,53,69
+0:25,Minnesota,Dupree McBrayer,Dunk,53,71
+0:15,Mt. St. Mary's,Dee Barnes,Missed Three Point Jumper,53,71
+0:15,Minnesota,Jordan Murphy,Defensive Rebound,53,71
+0:00,Minnesota,None,None,53,71

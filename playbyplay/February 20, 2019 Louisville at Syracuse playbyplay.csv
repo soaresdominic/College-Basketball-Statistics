@@ -1,0 +1,318 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Syracuse,None,None,0,0
+19:47,Syracuse,Elijah Hughes,Missed Three Point Jumper,0,0
+19:47,Louisville,Malik Williams,Defensive Rebound,0,0
+19:17,Louisville,Jordan Nwora,Missed Jumper,0,0
+19:17,Louisville,Dwayne Sutton,Offensive Rebound,0,0
+19:08,Louisville,Jordan Nwora,Missed Three Point Jumper,0,0
+19:08,Syracuse,Paschal Chukwu,Defensive Rebound,0,0
+18:48,Syracuse,Tyus Battle,Missed Jumper,0,0
+18:48,Louisville,Jordan Nwora,Defensive Rebound,0,0
+18:35,Louisville,Malik Williams,Turnover,0,0
+18:35,Syracuse,Elijah Hughes,Steal,0,0
+18:27,Syracuse,Oshae Brissett,Three Point Jumper,0,3
+18:01,Louisville,Malik Williams,Layup,2,3
+17:38,Syracuse,Tyus Battle,Turnover,2,3
+17:28,Louisville,Dwayne Sutton,Missed Three Point Jumper,2,3
+17:28,Syracuse,Elijah Hughes,Defensive Rebound,2,3
+17:06,Syracuse,Elijah Hughes,Missed Three Point Jumper,2,3
+17:06,Louisville,Louisville,Defensive Rebound,2,3
+17:02,Syracuse,Oshae Brissett,Foul,2,3
+16:37,Syracuse,Paschal Chukwu,Foul,2,3
+16:37,Louisville,Jordan Nwora,Free Throw,3,3
+16:37,Louisville,Jordan Nwora,Free Throw,4,3
+16:11,Louisville,Dwayne Sutton,Foul,4,3
+16:11,Syracuse,Paschal Chukwu,Free Throw,4,4
+16:11,Syracuse,Paschal Chukwu,Free Throw,4,5
+15:50,Louisville,Jordan Nwora,Turnover,4,5
+15:50,Syracuse,Elijah Hughes,Steal,4,5
+15:44,Syracuse,Elijah Hughes,Turnover,4,5
+15:44,Louisville,Khwan Fore,Steal,4,5
+15:42,Syracuse,Frank Howard,Foul,4,5
+15:42,Syracuse,None,None,4,5
+15:22,Louisville,Jordan Nwora,Turnover,4,5
+14:59,Syracuse,Buddy Boeheim,Missed Three Point Jumper,4,5
+14:59,Louisville,Steven Enoch,Defensive Rebound,4,5
+14:37,Louisville,Khwan Fore,Missed Three Point Jumper,4,5
+14:37,Louisville,Dwayne Sutton,Offensive Rebound,4,5
+14:29,Louisville,Jordan Nwora,Three Point Jumper,7,5
+13:52,Syracuse,Syracuse ,Turnover,7,5
+13:45,Louisville,Steven Enoch,Missed Layup,7,5
+13:45,Louisville,Steven Enoch,Offensive Rebound,7,5
+13:40,Syracuse,Paschal Chukwu,Foul,7,5
+13:40,Louisville,Steven Enoch,Missed Free Throw,7,5
+13:40,Louisville,None,Team Rebound,7,5
+13:40,Louisville,Steven Enoch,Free Throw,8,5
+13:19,Syracuse,Elijah Hughes,Missed Jumper,8,5
+13:19,Syracuse,Oshae Brissett,Offensive Rebound,8,5
+13:19,Syracuse,None,None,8,5
+13:19,Louisville,Steven Enoch,Defensive Rebound,8,5
+12:53,Louisville,Christen Cunningham,Missed Three Point Jumper,8,5
+12:53,Syracuse,Elijah Hughes,Defensive Rebound,8,5
+12:38,Louisville,Jordan Nwora,Foul,8,5
+12:38,Syracuse,Elijah Hughes,Free Throw,8,6
+12:38,Syracuse,Elijah Hughes,Free Throw,8,7
+12:23,Louisville,Dwayne Sutton,Missed Jumper,8,7
+12:23,Syracuse,Oshae Brissett,Defensive Rebound,8,7
+12:15,Syracuse,Marek Dolezaj,Turnover,8,7
+12:15,Louisville,Christen Cunningham,Steal,8,7
+12:11,Louisville,Christen Cunningham,Turnover,8,7
+12:05,Syracuse,Tyus Battle,Jumper,8,9
+11:41,Louisville,Jordan Nwora,Missed Three Point Jumper,8,9
+11:41,Syracuse,Oshae Brissett,Defensive Rebound,8,9
+11:26,Louisville,Steven Enoch,Foul,8,9
+11:26,Syracuse,None,None,8,9
+11:26,Syracuse,Marek Dolezaj,Free Throw,8,10
+11:26,Syracuse,Marek Dolezaj,Free Throw,8,11
+11:14,Louisville,Jordan Nwora,Jumper,10,11
+10:52,Louisville,Steven Enoch,Foul,10,11
+10:48,Syracuse,Oshae Brissett,Missed Three Point Jumper,10,11
+10:48,Louisville,Malik Williams,Defensive Rebound,10,11
+10:35,Louisville,Dwayne Sutton,Missed Jumper,10,11
+10:35,Louisville,Dwayne Sutton,Offensive Rebound,10,11
+10:30,Louisville,Dwayne Sutton,Missed Jumper,10,11
+10:30,Syracuse,Buddy Boeheim,Block,10,11
+10:30,Louisville,Louisville,Offensive Rebound,10,11
+10:21,Louisville,Christen Cunningham,Missed Three Point Jumper,10,11
+10:21,Syracuse,Tyus Battle,Defensive Rebound,10,11
+10:11,Syracuse,Elijah Hughes,Missed Three Point Jumper,10,11
+10:11,Louisville,Ryan McMahon,Defensive Rebound,10,11
+10:00,Louisville,Dwayne Sutton,Missed Three Point Jumper,10,11
+10:00,Syracuse,Elijah Hughes,Defensive Rebound,10,11
+9:47,Syracuse,Elijah Hughes,Missed Three Point Jumper,10,11
+9:47,Syracuse,Buddy Boeheim,Offensive Rebound,10,11
+9:41,Syracuse,Tyus Battle,Three Point Jumper,10,14
+9:25,Louisville,Ryan McMahon,Missed Three Point Jumper,10,14
+9:25,Louisville,Malik Williams,Offensive Rebound,10,14
+9:13,Syracuse,Marek Dolezaj,Foul,10,14
+9:13,Louisville,Malik Williams,Free Throw,11,14
+9:13,Louisville,Malik Williams,Free Throw,12,14
+8:58,Louisville,Malik Williams,Foul,12,14
+8:42,Syracuse,Tyus Battle,Missed Three Point Jumper,12,14
+8:42,Louisville,Malik Williams,Defensive Rebound,12,14
+8:37,Louisville,None,None,12,14
+8:27,Louisville,Dwayne Sutton,Missed Jumper,12,14
+8:27,Syracuse,Oshae Brissett,Defensive Rebound,12,14
+8:19,Syracuse,Marek Dolezaj,Missed Three Point Jumper,12,14
+8:19,Syracuse,Oshae Brissett,Offensive Rebound,12,14
+8:19,Syracuse,None,None,12,16
+7:58,Louisville,Ryan McMahon,Missed Three Point Jumper,12,16
+7:58,Syracuse,Oshae Brissett,Defensive Rebound,12,16
+7:52,Syracuse,Elijah Hughes,Missed Three Point Jumper,12,16
+7:52,Louisville,Darius Perry,Defensive Rebound,12,16
+7:39,Syracuse,None,None,12,16
+7:20,Louisville,Darius Perry,Missed Three Point Jumper,12,16
+7:20,Syracuse,Marek Dolezaj,Defensive Rebound,12,16
+7:06,Syracuse,Buddy Boeheim,Three Point Jumper,12,19
+6:47,Louisville,Darius Perry,Turnover,12,19
+6:47,Syracuse,Buddy Boeheim,Steal,12,19
+6:29,Syracuse,Oshae Brissett,Missed Jumper,12,19
+6:29,Syracuse,Marek Dolezaj,Offensive Rebound,12,19
+6:21,Syracuse,Buddy Boeheim,Jumper,12,21
+6:02,Louisville,Ryan McMahon,Missed Three Point Jumper,12,21
+6:02,Syracuse,Marek Dolezaj,Defensive Rebound,12,21
+5:52,Syracuse,Elijah Hughes,Three Point Jumper,12,24
+5:48,Louisville,None,None,12,24
+5:24,Louisville,Jordan Nwora,Missed Jumper,12,24
+5:24,Syracuse,Marek Dolezaj,Defensive Rebound,12,24
+5:13,Syracuse,Tyus Battle,Missed Three Point Jumper,12,24
+5:13,Louisville,Jordan Nwora,Defensive Rebound,12,24
+4:50,Louisville,Jordan Nwora,Turnover,12,24
+4:44,Syracuse,Buddy Boeheim,Missed Three Point Jumper,12,24
+4:44,Louisville,Malik Williams,Defensive Rebound,12,24
+4:21,Syracuse,Marek Dolezaj,Foul,12,24
+4:21,Louisville,Dwayne Sutton,Missed Free Throw,12,24
+4:21,Louisville,None,Team Rebound,12,24
+4:21,Louisville,Dwayne Sutton,Free Throw,13,24
+4:04,Syracuse,Oshae Brissett,Layup,13,26
+3:49,Louisville,Steven Enoch,Dunk,15,26
+3:24,Syracuse,Oshae Brissett,Layup,15,28
+3:05,Louisville,Christen Cunningham,Turnover,15,28
+3:05,Syracuse,Paschal Chukwu,Steal,15,28
+2:55,Syracuse,Tyus Battle,Jumper,15,30
+2:41,Louisville,Jordan Nwora,Missed Three Point Jumper,15,30
+2:41,Louisville,Dwayne Sutton,Offensive Rebound,15,30
+2:36,Syracuse,Buddy Boeheim,Foul,15,30
+2:36,Syracuse,None,None,15,30
+2:36,Louisville,Jordan Nwora,Free Throw,16,30
+2:36,Louisville,Jordan Nwora,Free Throw,17,30
+2:18,Syracuse,Oshae Brissett,Turnover,17,30
+2:18,Louisville,Ryan McMahon,Steal,17,30
+2:12,Louisville,Christen Cunningham,Missed Layup,17,30
+2:12,Syracuse,Elijah Hughes,Block,17,30
+2:12,Syracuse,Paschal Chukwu,Defensive Rebound,17,30
+2:04,Syracuse,Oshae Brissett,Three Point Jumper,17,33
+1:42,Louisville,Steven Enoch,Layup,19,33
+1:27,Syracuse,Buddy Boeheim,Turnover,19,33
+1:27,Louisville,Dwayne Sutton,Steal,19,33
+1:22,Louisville,Dwayne Sutton,Dunk,21,33
+1:04,Syracuse,None,None,21,33
+0:54,Syracuse,Tyus Battle,Missed Layup,21,33
+0:54,Louisville,V.J. King,Block,21,33
+0:54,Syracuse,Syracuse,Offensive Rebound,21,33
+0:46,Syracuse,Tyus Battle,Missed Three Point Jumper,21,33
+0:46,Louisville,Steven Enoch,Defensive Rebound,21,33
+0:39,Syracuse,Tyus Battle,Foul,21,33
+0:39,Louisville,Christen Cunningham,Free Throw,22,33
+0:39,Louisville,Christen Cunningham,Free Throw,23,33
+0:14,Syracuse,Elijah Hughes,Missed Jumper,23,33
+0:14,Syracuse,Buddy Boeheim,Offensive Rebound,23,33
+0:03,Louisville,Khwan Fore,Foul,23,33
+0:03,Syracuse,Elijah Hughes,Free Throw,23,34
+0:03,Syracuse,Elijah Hughes,Missed Free Throw,23,34
+0:03,Syracuse,None,Team Rebound,23,34
+0:03,Syracuse,Elijah Hughes,Free Throw,23,35
+0:00,Syracuse,None,None,23,35
+20:00,Syracuse,None,None,23,35
+19:42,Syracuse,Frank Howard,Missed Jumper,23,35
+19:42,Louisville,Dwayne Sutton,Defensive Rebound,23,35
+19:16,Louisville,Jordan Nwora,Missed Jumper,23,35
+19:16,Louisville,Dwayne Sutton,Offensive Rebound,23,35
+19:08,Syracuse,Oshae Brissett,Foul,23,35
+19:08,Louisville,Dwayne Sutton,Free Throw,24,35
+19:08,Louisville,Dwayne Sutton,Free Throw,25,35
+18:46,Syracuse,Frank Howard,Turnover,25,35
+18:46,Louisville,Khwan Fore,Steal,25,35
+18:40,Louisville,Khwan Fore,Dunk,27,35
+18:11,Syracuse,Tyus Battle,Missed Jumper,27,35
+18:11,Syracuse,Syracuse,Offensive Rebound,27,35
+18:09,Syracuse,Syracuse ,Turnover,27,35
+17:57,Louisville,Dwayne Sutton,Turnover,27,35
+17:28,Syracuse,Oshae Brissett,Jumper,27,37
+17:15,Louisville,Dwayne Sutton,Turnover,27,37
+16:58,Syracuse,Oshae Brissett,Missed Jumper,27,37
+16:58,Louisville,Jordan Nwora,Defensive Rebound,27,37
+16:33,Louisville,Christen Cunningham,Missed Three Point Jumper,27,37
+16:33,Louisville,Jordan Nwora,Offensive Rebound,27,37
+16:09,Louisville,Jordan Nwora,Missed Three Point Jumper,27,37
+16:09,Syracuse,Syracuse,Defensive Rebound,27,37
+15:50,Syracuse,Marek Dolezaj,Missed Three Point Jumper,27,37
+15:50,Louisville,Dwayne Sutton,Defensive Rebound,27,37
+15:47,Louisville,None,None,27,37
+15:47,Syracuse,None,None,27,37
+15:41,Louisville,Christen Cunningham,Turnover,27,37
+15:41,Syracuse,Tyus Battle,Steal,27,37
+15:32,Syracuse,Tyus Battle,Layup,27,39
+15:17,Louisville,Dwayne Sutton,Missed Jumper,27,39
+15:17,Syracuse,Buddy Boeheim,Defensive Rebound,27,39
+14:49,Syracuse,Oshae Brissett,Missed Layup,27,39
+14:49,Louisville,Steven Enoch,Defensive Rebound,27,39
+14:42,Syracuse,Buddy Boeheim,Foul,27,39
+14:38,Louisville,Jordan Nwora,Missed Jumper,27,39
+14:38,Syracuse,Tyus Battle,Defensive Rebound,27,39
+14:19,Syracuse,Buddy Boeheim,Foul,27,39
+14:19,Syracuse,Buddy Boeheim,Turnover,27,39
+14:09,Louisville,Dwayne Sutton,Missed Jumper,27,39
+14:09,Syracuse,Marek Dolezaj,Defensive Rebound,27,39
+13:59,Louisville,Ryan McMahon,Foul,27,39
+13:59,Syracuse,Tyus Battle,Free Throw,27,40
+13:59,Syracuse,Tyus Battle,Free Throw,27,41
+13:57,Louisville,Ryan McMahon,Missed Three Point Jumper,27,41
+13:57,Syracuse,Oshae Brissett,Defensive Rebound,27,41
+13:48,Syracuse,Elijah Hughes,Three Point Jumper,27,44
+13:30,Syracuse,Marek Dolezaj,Foul,27,44
+13:30,Louisville,Steven Enoch,Missed Free Throw,27,44
+13:30,Louisville,None,Team Rebound,27,44
+13:30,Louisville,Steven Enoch,Free Throw,28,44
+13:30,Louisville,None,None,28,44
+13:23,Syracuse,Oshae Brissett,Turnover,28,44
+13:23,Louisville,Christen Cunningham,Steal,28,44
+13:18,Louisville,Jordan Nwora,Turnover,28,44
+13:11,Syracuse,Elijah Hughes,Turnover,28,44
+12:51,Louisville,Darius Perry,Missed Three Point Jumper,28,44
+12:51,Syracuse,Marek Dolezaj,Defensive Rebound,28,44
+12:46,Louisville,Jordan Nwora,Foul,28,44
+12:28,Louisville,Christen Cunningham,Foul,28,44
+12:15,Louisville,Darius Perry,Foul,28,44
+12:08,Syracuse,Elijah Hughes,Three Point Jumper,28,47
+11:51,Louisville,Jordan Nwora,Layup,30,47
+11:44,Louisville,Darius Perry,Foul,30,47
+11:44,Syracuse,None,None,30,47
+11:26,Syracuse,Oshae Brissett,Missed Jumper,30,47
+11:26,Louisville,Jordan Nwora,Defensive Rebound,30,47
+11:19,Louisville,Ryan McMahon,Three Point Jumper,33,47
+11:05,Syracuse,Tyus Battle,Missed Layup,33,47
+11:05,Louisville,Steven Enoch,Block,33,47
+11:05,Louisville,Louisville,Defensive Rebound,33,47
+10:59,Louisville,Jordan Nwora,Missed Jumper,33,47
+10:59,Syracuse,Marek Dolezaj,Defensive Rebound,33,47
+10:37,Syracuse,Buddy Boeheim,Missed Three Point Jumper,33,47
+10:37,Louisville,Khwan Fore,Defensive Rebound,33,47
+10:28,Louisville,Ryan McMahon,Missed Three Point Jumper,33,47
+10:28,Syracuse,Oshae Brissett,Defensive Rebound,33,47
+10:07,Syracuse,Buddy Boeheim,Three Point Jumper,33,50
+9:45,Syracuse,Marek Dolezaj,Foul,33,50
+9:45,Louisville,Christen Cunningham,Free Throw,34,50
+9:45,Louisville,Christen Cunningham,Free Throw,35,50
+9:25,Syracuse,Tyus Battle,Missed Layup,35,50
+9:25,Louisville,Jordan Nwora,Defensive Rebound,35,50
+9:17,Louisville,Jordan Nwora,Missed Layup,35,50
+9:17,Syracuse,Paschal Chukwu,Block,35,50
+9:17,Syracuse,Elijah Hughes,Defensive Rebound,35,50
+9:09,Syracuse,Tyus Battle,Missed Jumper,35,50
+9:09,Syracuse,Buddy Boeheim,Offensive Rebound,35,50
+8:56,Syracuse,Oshae Brissett,Missed Three Point Jumper,35,50
+8:56,Syracuse,Paschal Chukwu,Offensive Rebound,35,50
+8:33,Syracuse,Buddy Boeheim,Three Point Jumper,35,53
+8:10,Louisville,Christen Cunningham,Missed Three Point Jumper,35,53
+8:10,Syracuse,Elijah Hughes,Defensive Rebound,35,53
+7:55,Syracuse,Buddy Boeheim,Missed Three Point Jumper,35,53
+7:55,Louisville,Khwan Fore,Defensive Rebound,35,53
+7:46,Louisville,Malik Williams,Three Point Jumper,38,53
+7:30,Syracuse,Elijah Hughes,Three Point Jumper,38,56
+7:17,Louisville,None,None,38,56
+7:17,Syracuse,None,None,38,56
+6:57,Louisville,Dwayne Sutton,Missed Three Point Jumper,38,56
+6:57,Louisville,Louisville,Offensive Rebound,38,56
+6:52,Louisville,V.J. King,Missed Jumper,38,56
+6:52,Syracuse,Elijah Hughes,Block,38,56
+6:52,Syracuse,Tyus Battle,Defensive Rebound,38,56
+6:28,Syracuse,Oshae Brissett,Layup,38,58
+6:04,Louisville,Akoy Agau,Missed Layup,38,58
+6:04,Syracuse,Marek Dolezaj,Defensive Rebound,38,58
+5:36,Syracuse,Oshae Brissett,Missed Jumper,38,58
+5:36,Louisville,Dwayne Sutton,Defensive Rebound,38,58
+5:27,Louisville,Christen Cunningham,Missed Three Point Jumper,38,58
+5:27,Syracuse,Tyus Battle,Defensive Rebound,38,58
+5:24,Louisville,Khwan Fore,Foul,38,58
+5:03,Syracuse,Elijah Hughes,Turnover,38,58
+5:03,Louisville,Ryan McMahon,Steal,38,58
+5:01,Syracuse,Elijah Hughes,Foul,38,58
+4:45,Louisville,V.J. King,Foul,38,58
+4:45,Louisville,V.J. King,Turnover,38,58
+4:23,Syracuse,Buddy Boeheim,Missed Three Point Jumper,38,58
+4:23,Louisville,Darius Perry,Defensive Rebound,38,58
+4:17,Louisville,Ryan McMahon,Three Point Jumper,41,58
+4:00,Louisville,Akoy Agau,Foul,41,58
+4:00,Syracuse,None,None,41,58
+4:00,Syracuse,Marek Dolezaj,Missed Free Throw,41,58
+4:00,Syracuse,None,Team Rebound,41,58
+4:00,Syracuse,Marek Dolezaj,Free Throw,41,59
+3:50,Louisville,Darius Perry,Missed Three Point Jumper,41,59
+3:50,Syracuse,Syracuse,Defensive Rebound,41,59
+3:24,Syracuse,Elijah Hughes,Missed Three Point Jumper,41,59
+3:24,Louisville,V.J. King,Defensive Rebound,41,59
+3:18,Louisville,Khwan Fore,Turnover,41,59
+2:54,Syracuse,Marek Dolezaj,Layup,41,61
+2:54,Louisville,Ryan McMahon,Foul,41,61
+2:54,Syracuse,Marek Dolezaj,Free Throw,41,62
+2:47,Louisville,Khwan Fore,Missed Jumper,41,62
+2:47,Syracuse,Oshae Brissett,Block,41,62
+2:47,Syracuse,Elijah Hughes,Defensive Rebound,41,62
+2:19,Syracuse,Tyus Battle,Missed Layup,41,62
+2:19,Louisville,Steven Enoch,Defensive Rebound,41,62
+2:09,Louisville,Ryan McMahon,Missed Three Point Jumper,41,62
+2:09,Syracuse,Marek Dolezaj,Defensive Rebound,41,62
+1:41,Syracuse,Buddy Boeheim,Three Point Jumper,41,65
+1:26,Louisville,V.J. King,Layup,43,65
+1:15,Louisville,Dwayne Sutton,Foul,43,65
+1:15,Syracuse,Elijah Hughes,Free Throw,43,66
+1:15,Syracuse,Elijah Hughes,Free Throw,43,67
+1:08,Louisville,Khwan Fore,Three Point Jumper,46,67
+0:48,Syracuse,Adrian Autry,Missed Three Point Jumper,46,67
+0:48,Louisville,Wyatt Battaile,Defensive Rebound,46,67
+0:36,Louisville,Jo Griffin,Missed Jumper,46,67
+0:36,Syracuse,Antonio Balandi,Defensive Rebound,46,67
+0:23,Syracuse,Robert Braswell,Jumper,46,69
+0:05,Louisville,Khwan Fore,Three Point Jumper,49,69
+0:00,Syracuse,None,None,49,69

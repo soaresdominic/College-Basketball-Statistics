@@ -1,0 +1,390 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:42,Purdue Fort Wayne,John Konchar,Layup,2,0
+19:21,Cleveland State,Seth Millner,Jumper,2,2
+19:03,Purdue Fort Wayne,Matt Holba,Turnover,2,2
+19:02,Cleveland State,Seth Millner,Steal,2,2
+18:58,Cleveland State,Seth Millner,Missed Layup,2,2
+18:58,Cleveland State,Algevon Eichelberger,Offensive Rebound,2,2
+18:56,Purdue Fort Wayne,Dylan Carl,Foul,2,2
+18:56,Cleveland State,Algevon Eichelberger,Free Throw,2,3
+18:56,Cleveland State,Algevon Eichelberger,Missed Free Throw,2,3
+18:56,Purdue Fort Wayne,Matt Holba,Defensive Rebound,2,3
+18:56,Cleveland State,Stefan Kenic,Foul,2,3
+18:46,Purdue Fort Wayne,Matt Holba,Missed Three Point Jumper,2,3
+18:46,Cleveland State,Seth Millner,Defensive Rebound,2,3
+18:34,Cleveland State,Kasheem Thomas,Turnover,2,3
+18:33,Purdue Fort Wayne,Matt Holba,Steal,2,3
+18:31,Purdue Fort Wayne,Matt Holba,Dunk,4,3
+18:05,Cleveland State,Seth Millner,Layup,4,5
+17:45,Purdue Fort Wayne,Marcus DeBerry,Three Point Jumper,7,5
+17:31,Purdue Fort Wayne,Dee Montgomery,Foul,7,5
+17:16,Cleveland State,Kasheem Thomas,Missed Layup,7,5
+17:16,Purdue Fort Wayne,Cameron Benford,Defensive Rebound,7,5
+17:09,Purdue Fort Wayne,Kason Harrell,Layup,9,5
+16:50,Cleveland State,Stefan Kenic,Missed Layup,9,5
+16:50,Cleveland State,Jaalam Hill,Offensive Rebound,9,5
+16:43,Cleveland State,Seth Millner,Three Point Jumper,9,8
+16:23,Purdue Fort Wayne,John Konchar,Turnover,9,8
+16:03,Cleveland State,Stefan Kenic,Missed Three Point Jumper,9,8
+16:03,Purdue Fort Wayne,John Konchar,Defensive Rebound,9,8
+15:52,Purdue Fort Wayne,Dee Montgomery,Missed Three Point Jumper,9,8
+15:52,Purdue Fort Wayne,Cameron Benford,Offensive Rebound,9,8
+15:45,Purdue Fort Wayne,Kason Harrell,Layup,11,8
+15:30,Cleveland State,Jaalam Hill,Turnover,11,8
+15:29,Purdue Fort Wayne,Dee Montgomery,Steal,11,8
+15:25,Cleveland State,Kasheem Thomas,Foul,11,8
+15:25,Cleveland State,None,None,11,8
+15:05,Purdue Fort Wayne,Kason Harrell,Missed Three Point Jumper,11,8
+15:05,Purdue Fort Wayne,Matt Holba,Offensive Rebound,11,8
+14:58,Purdue Fort Wayne,Cameron Benford,Layup,13,8
+14:52,Cleveland State,Algevon Eichelberger,Missed Layup,13,8
+14:52,Purdue Fort Wayne,Matt Holba,Block,13,8
+14:51,Purdue Fort Wayne,Cameron Benford,Defensive Rebound,13,8
+14:43,Purdue Fort Wayne,John Konchar,Jumper,15,8
+14:24,Cleveland State,Tyree Appleby,Three Point Jumper,15,11
+14:13,Cleveland State,Algevon Eichelberger,Foul,15,11
+14:13,Purdue Fort Wayne,Cameron Benford,Free Throw,16,11
+14:13,Purdue Fort Wayne,Cameron Benford,Missed Free Throw,16,11
+14:13,Cleveland State,Tyree Appleby,Defensive Rebound,16,11
+14:07,Cleveland State,Tyree Appleby,Layup,16,13
+13:54,Purdue Fort Wayne,Kason Harrell,Jumper,18,13
+13:47,Cleveland State,Tyree Appleby,Missed Three Point Jumper,18,13
+13:47,Purdue Fort Wayne,Jarred Godfrey,Defensive Rebound,18,13
+13:40,Purdue Fort Wayne,Jarred Godfrey,Turnover,18,13
+13:39,Cleveland State,Deante Johnson,Steal,18,13
+13:29,Cleveland State,Rashad Williams,Missed Three Point Jumper,18,13
+13:29,Cleveland State,Deante Johnson,Offensive Rebound,18,13
+13:25,Cleveland State,None,None,18,15
+13:10,Purdue Fort Wayne,Jarred Godfrey,Missed Layup,18,15
+13:10,Purdue Fort Wayne,Cameron Benford,Offensive Rebound,18,15
+13:03,Purdue Fort Wayne,Kason Harrell,Missed Layup,18,15
+13:03,Purdue Fort Wayne,Cameron Benford,Offensive Rebound,18,15
+12:58,Purdue Fort Wayne,Kason Harrell,Layup,20,15
+12:45,Cleveland State,Tyree Appleby,Turnover,20,15
+12:45,Purdue Fort Wayne,Jarred Godfrey,Steal,20,15
+12:40,Purdue Fort Wayne,Matt Holba,Three Point Jumper,23,15
+12:32,Cleveland State,None,None,23,15
+12:23,Cleveland State,Dibaji Walker,Missed Three Point Jumper,23,15
+12:23,Cleveland State,Seth Millner,Offensive Rebound,23,15
+12:04,Cleveland State,Deante Johnson,Missed Jumper,23,15
+12:04,Purdue Fort Wayne,Dylan Carl,Defensive Rebound,23,15
+11:49,Purdue Fort Wayne,Kason Harrell,Layup,25,15
+11:38,Purdue Fort Wayne,Kason Harrell,Foul,25,15
+11:38,Cleveland State,None,None,25,15
+11:38,Cleveland State,Seth Millner,Missed Free Throw,25,15
+11:38,Cleveland State,None,Team Rebound,25,15
+11:38,Cleveland State,Seth Millner,Missed Free Throw,25,15
+11:38,Purdue Fort Wayne,Marcus DeBerry,Defensive Rebound,25,15
+11:11,Purdue Fort Wayne,John Konchar,Missed Three Point Jumper,25,15
+11:11,Cleveland State,Seth Millner,Defensive Rebound,25,15
+10:51,Cleveland State,Kasheem Thomas,Three Point Jumper,25,18
+10:50,Purdue Fort Wayne,Dee Montgomery,Foul,25,18
+10:50,Cleveland State,Kasheem Thomas,Free Throw,25,19
+10:29,Purdue Fort Wayne,Dylan Carl,Missed Jumper,25,19
+10:29,Purdue Fort Wayne,Jarred Godfrey,Offensive Rebound,25,19
+10:21,Purdue Fort Wayne,John Konchar,Missed Three Point Jumper,25,19
+10:21,Cleveland State,Tyree Appleby,Defensive Rebound,25,19
+10:14,Purdue Fort Wayne,Dylan Carl,Foul,25,19
+10:14,Purdue Fort Wayne,Matt Weir,Foul,25,19
+10:10,Cleveland State,Tyree Appleby,Missed Three Point Jumper,25,19
+10:10,Cleveland State,Algevon Eichelberger,Offensive Rebound,25,19
+10:02,Cleveland State,Algevon Eichelberger,Missed Layup,25,19
+10:02,Purdue Fort Wayne,Cameron Benford,Block,25,19
+10:02,Cleveland State,Cleveland State,Offensive Rebound,25,19
+9:47,Cleveland State,Seth Millner,Missed Jumper,25,19
+9:47,Cleveland State,Algevon Eichelberger,Offensive Rebound,25,19
+9:44,Cleveland State,Algevon Eichelberger,Missed Layup,25,19
+9:44,Cleveland State,Jaalam Hill,Offensive Rebound,25,19
+9:41,Cleveland State,Jaalam Hill,Missed Layup,25,19
+9:41,Cleveland State,Algevon Eichelberger,Offensive Rebound,25,19
+9:40,Purdue Fort Wayne,John Konchar,Foul,25,19
+9:40,Cleveland State,Algevon Eichelberger,Free Throw,25,20
+9:40,Cleveland State,Algevon Eichelberger,Free Throw,25,21
+9:17,Purdue Fort Wayne,Cameron Benford,Missed Layup,25,21
+9:17,Cleveland State,Cleveland State,Defensive Rebound,25,21
+8:49,Cleveland State,Stefan Kenic,Turnover,25,21
+8:48,Purdue Fort Wayne,Cameron Benford,Steal,25,21
+8:35,Purdue Fort Wayne,Matt Holba,Three Point Jumper,28,21
+8:16,Cleveland State,Tyree Appleby,Three Point Jumper,28,24
+8:14,Purdue Fort Wayne,Cameron Benford,Foul,28,24
+8:14,Cleveland State,Algevon Eichelberger,Missed Free Throw,28,24
+8:14,Purdue Fort Wayne,Matt Holba,Defensive Rebound,28,24
+8:14,Cleveland State,Stefan Kenic,Foul,28,24
+8:03,Purdue Fort Wayne,Marcus DeBerry,Jumper,30,24
+7:45,Cleveland State,Dibaji Walker,Turnover,30,24
+7:43,Purdue Fort Wayne,Marcus DeBerry,Steal,30,24
+7:37,Purdue Fort Wayne,John Konchar,Layup,32,24
+7:29,Cleveland State,Aleksa Popovic,Turnover,32,24
+7:28,Purdue Fort Wayne,Jarred Godfrey,Steal,32,24
+7:24,Cleveland State,Deante Johnson,Foul,32,24
+7:24,Cleveland State,None,None,32,24
+7:24,Purdue Fort Wayne,John Konchar,Free Throw,33,24
+7:24,Purdue Fort Wayne,John Konchar,Missed Free Throw,33,24
+7:24,Cleveland State,Kasheem Thomas,Defensive Rebound,33,24
+7:09,Cleveland State,Tyree Appleby,Missed Three Point Jumper,33,24
+7:09,Purdue Fort Wayne,Marcus DeBerry,Defensive Rebound,33,24
+6:45,Purdue Fort Wayne,Matt Holba,Layup,35,24
+6:30,Cleveland State,Tyree Appleby,Layup,35,26
+6:12,Purdue Fort Wayne,Jarred Godfrey,Missed Layup,35,26
+6:12,Cleveland State,Deante Johnson,Defensive Rebound,35,26
+6:08,Cleveland State,Tyree Appleby,Turnover,35,26
+6:07,Purdue Fort Wayne,Marcus DeBerry,Steal,35,26
+6:03,Purdue Fort Wayne,John Konchar,Layup,37,26
+5:51,Cleveland State,Jaalam Hill,Jumper,37,28
+5:37,Purdue Fort Wayne,Kason Harrell,Layup,39,28
+5:14,Cleveland State,Jaalam Hill,Jumper,39,30
+5:02,Purdue Fort Wayne,Matt Holba,Missed Jumper,39,30
+5:02,Cleveland State,Tyree Appleby,Defensive Rebound,39,30
+4:56,Cleveland State,Kasheem Thomas,Missed Three Point Jumper,39,30
+4:56,Cleveland State,Cleveland State,Offensive Rebound,39,30
+4:52,Purdue Fort Wayne,None,None,39,30
+4:47,Cleveland State,Jaalam Hill,Jumper,39,32
+4:27,Purdue Fort Wayne,Kason Harrell,Foul,39,32
+4:27,Purdue Fort Wayne,Kason Harrell,Turnover,39,32
+4:12,Cleveland State,Jaalam Hill,Foul,39,32
+4:12,Cleveland State,Jaalam Hill,Turnover,39,32
+3:42,Purdue Fort Wayne,Matt Weir,Turnover,39,32
+3:41,Cleveland State,Seth Millner,Steal,39,32
+3:39,Cleveland State,Seth Millner,Layup,39,34
+3:26,Purdue Fort Wayne,Jarred Godfrey,Missed Three Point Jumper,39,34
+3:26,Purdue Fort Wayne,Cameron Benford,Offensive Rebound,39,34
+3:13,Purdue Fort Wayne,John Konchar,Missed Layup,39,34
+3:13,Purdue Fort Wayne,John Konchar,Offensive Rebound,39,34
+3:10,Purdue Fort Wayne,John Konchar,Missed Layup,39,34
+3:10,Cleveland State,Algevon Eichelberger,Block,39,34
+3:09,Purdue Fort Wayne,John Konchar,Offensive Rebound,39,34
+3:07,Purdue Fort Wayne,John Konchar,Missed Layup,39,34
+3:07,Cleveland State,Jaalam Hill,Block,39,34
+3:05,Purdue Fort Wayne,John Konchar,Offensive Rebound,39,34
+2:57,Purdue Fort Wayne,Cameron Benford,Missed Three Point Jumper,39,34
+2:57,Cleveland State,Jaalam Hill,Defensive Rebound,39,34
+2:53,Cleveland State,Kasheem Thomas,Turnover,39,34
+2:53,Purdue Fort Wayne,Matt Weir,Steal,39,34
+2:53,Cleveland State,None,None,39,34
+2:53,Cleveland State,Kasheem Thomas,Foul,39,34
+2:53,Cleveland State,None,None,39,34
+2:53,Purdue Fort Wayne,Matt Weir,Free Throw,40,34
+2:53,Purdue Fort Wayne,Matt Weir,Missed Free Throw,40,34
+2:53,Cleveland State,Algevon Eichelberger,Defensive Rebound,40,34
+2:46,Cleveland State,Tyree Appleby,Missed Jumper,40,34
+2:46,Cleveland State,Algevon Eichelberger,Offensive Rebound,40,34
+2:42,Purdue Fort Wayne,John Konchar,Foul,40,34
+2:42,Cleveland State,Seth Millner,Missed Free Throw,40,34
+2:42,Cleveland State,None,Team Rebound,40,34
+2:42,Cleveland State,Seth Millner,Free Throw,40,35
+2:23,Purdue Fort Wayne,Matt Holba,Missed Three Point Jumper,40,35
+2:23,Cleveland State,Tyree Appleby,Defensive Rebound,40,35
+2:08,Purdue Fort Wayne,Jarred Godfrey,Foul,40,35
+2:08,Cleveland State,Algevon Eichelberger,Missed Free Throw,40,35
+2:08,Cleveland State,None,Team Rebound,40,35
+2:08,Cleveland State,Algevon Eichelberger,Missed Free Throw,40,35
+2:08,Purdue Fort Wayne,Cameron Benford,Defensive Rebound,40,35
+1:51,Purdue Fort Wayne,Matt Weir,Missed Three Point Jumper,40,35
+1:51,Cleveland State,Dontel Highsmith,Defensive Rebound,40,35
+1:40,Cleveland State,Dontel Highsmith,Layup,40,37
+1:14,Purdue Fort Wayne,Cameron Benford,Missed Layup,40,37
+1:14,Cleveland State,Jaalam Hill,Block,40,37
+1:12,Cleveland State,Jaalam Hill,Defensive Rebound,40,37
+1:03,Cleveland State,Algevon Eichelberger,Layup,40,39
+0:39,Purdue Fort Wayne,Cameron Benford,Missed Layup,40,39
+0:39,Cleveland State,Algevon Eichelberger,Block,40,39
+0:38,Cleveland State,Algevon Eichelberger,Defensive Rebound,40,39
+0:20,Cleveland State,Jaalam Hill,Missed Layup,40,39
+0:20,Purdue Fort Wayne,Marcus DeBerry,Defensive Rebound,40,39
+0:02,Purdue Fort Wayne,Jarred Godfrey,Missed Layup,40,39
+0:02,Cleveland State,Deante Johnson,Block,40,39
+0:00,Cleveland State,Seth Millner,Defensive Rebound,40,39
+0:00,Cleveland State,None,None,40,39
+19:52,Purdue Fort Wayne,Matt Holba,Foul,40,39
+19:52,Purdue Fort Wayne,Matt Holba,Turnover,40,39
+19:32,Cleveland State,Stefan Kenic,Missed Three Point Jumper,40,39
+19:32,Purdue Fort Wayne,Marcus DeBerry,Defensive Rebound,40,39
+19:13,Purdue Fort Wayne,Kason Harrell,Jumper,42,39
+19:00,Cleveland State,Algevon Eichelberger,Missed Jumper,42,39
+19:00,Purdue Fort Wayne,Matt Holba,Block,42,39
+18:58,Purdue Fort Wayne,Dylan Carl,Defensive Rebound,42,39
+18:47,Purdue Fort Wayne,Dylan Carl,Layup,44,39
+18:35,Cleveland State,Algevon Eichelberger,Missed Layup,44,39
+18:35,Purdue Fort Wayne,Dylan Carl,Defensive Rebound,44,39
+18:23,Purdue Fort Wayne,Dylan Carl,Missed Layup,44,39
+18:23,Cleveland State,Dontel Highsmith,Block,44,39
+18:21,Cleveland State,Kasheem Thomas,Defensive Rebound,44,39
+18:16,Purdue Fort Wayne,Matt Holba,Foul,44,39
+18:16,Cleveland State,Kasheem Thomas,Free Throw,44,40
+18:16,Cleveland State,Kasheem Thomas,Missed Free Throw,44,40
+18:16,Purdue Fort Wayne,Marcus DeBerry,Defensive Rebound,44,40
+18:01,Cleveland State,Kasheem Thomas,Foul,44,40
+18:01,Purdue Fort Wayne,John Konchar,Missed Free Throw,44,40
+18:01,Purdue Fort Wayne,None,Team Rebound,44,40
+18:01,Purdue Fort Wayne,John Konchar,Missed Free Throw,44,40
+18:01,Cleveland State,Kasheem Thomas,Defensive Rebound,44,40
+17:52,Purdue Fort Wayne,Matt Holba,Foul,44,40
+17:45,Cleveland State,Tyree Appleby,Missed Three Point Jumper,44,40
+17:45,Purdue Fort Wayne,Marcus DeBerry,Defensive Rebound,44,40
+17:37,Purdue Fort Wayne,Kason Harrell,Layup,46,40
+17:18,Cleveland State,Stefan Kenic,Missed Layup,46,40
+17:18,Purdue Fort Wayne,Dylan Carl,Defensive Rebound,46,40
+17:10,Purdue Fort Wayne,Marcus DeBerry,Missed Three Point Jumper,46,40
+17:10,Cleveland State,Jaalam Hill,Defensive Rebound,46,40
+16:59,Cleveland State,Jaalam Hill,Turnover,46,40
+16:59,Purdue Fort Wayne,Kason Harrell,Steal,46,40
+16:55,Purdue Fort Wayne,Kason Harrell,Missed Jumper,46,40
+16:55,Cleveland State,Seth Millner,Defensive Rebound,46,40
+16:49,Cleveland State,Seth Millner,Turnover,46,40
+16:30,Purdue Fort Wayne,Dee Montgomery,Layup,48,40
+16:11,Purdue Fort Wayne,John Konchar,Foul,48,40
+16:11,Cleveland State,Seth Millner,Free Throw,48,41
+16:11,Cleveland State,Seth Millner,Free Throw,48,42
+16:00,Purdue Fort Wayne,Dee Montgomery,Missed Jumper,48,42
+16:00,Cleveland State,Jaalam Hill,Defensive Rebound,48,42
+15:46,Cleveland State,Jaalam Hill,Missed Jumper,48,42
+15:46,Purdue Fort Wayne,Dylan Carl,Defensive Rebound,48,42
+15:39,Cleveland State,None,None,48,42
+15:39,Purdue Fort Wayne,Marcus DeBerry,Turnover,48,42
+15:39,Cleveland State,None,None,48,42
+15:32,Purdue Fort Wayne,Kason Harrell,Foul,48,42
+15:32,Cleveland State,Seth Millner,Free Throw,48,43
+15:32,Cleveland State,Seth Millner,Free Throw,48,44
+15:07,Purdue Fort Wayne,Jarred Godfrey,Jumper,50,44
+14:44,Purdue Fort Wayne,Dee Montgomery,Foul,50,44
+14:44,Cleveland State,Tyree Appleby,Free Throw,50,45
+14:44,Cleveland State,Tyree Appleby,Missed Free Throw,50,45
+14:44,Purdue Fort Wayne,Marcus DeBerry,Defensive Rebound,50,45
+14:22,Purdue Fort Wayne,Marcus DeBerry,Missed Jumper,50,45
+14:22,Cleveland State,Seth Millner,Defensive Rebound,50,45
+14:17,Cleveland State,Jaalam Hill,Jumper,50,47
+14:05,Purdue Fort Wayne,Jarred Godfrey,Missed Three Point Jumper,50,47
+14:05,Cleveland State,Dontel Highsmith,Defensive Rebound,50,47
+13:54,Cleveland State,Dontel Highsmith,Missed Three Point Jumper,50,47
+13:54,Purdue Fort Wayne,Dylan Carl,Defensive Rebound,50,47
+13:39,Cleveland State,Dontel Highsmith,Foul,50,47
+13:39,Purdue Fort Wayne,Dee Montgomery,Free Throw,51,47
+13:39,Purdue Fort Wayne,Dee Montgomery,Free Throw,52,47
+13:18,Cleveland State,Kasheem Thomas,Turnover,52,47
+13:18,Purdue Fort Wayne,Jarred Godfrey,Steal,52,47
+13:14,Cleveland State,Jaalam Hill,Foul,52,47
+13:14,Purdue Fort Wayne,Jarred Godfrey,Free Throw,53,47
+13:14,Purdue Fort Wayne,Jarred Godfrey,Free Throw,54,47
+12:45,Cleveland State,Seth Millner,Missed Three Point Jumper,54,47
+12:45,Purdue Fort Wayne,John Konchar,Defensive Rebound,54,47
+12:32,Purdue Fort Wayne,Jarred Godfrey,Missed Three Point Jumper,54,47
+12:32,Purdue Fort Wayne,Dee Montgomery,Offensive Rebound,54,47
+12:30,Cleveland State,Kasheem Thomas,Foul,54,47
+12:21,Purdue Fort Wayne,Cameron Benford,Layup,56,47
+12:05,Cleveland State,Tyree Appleby,Layup,56,49
+11:52,Purdue Fort Wayne,Dee Montgomery,Missed Three Point Jumper,56,49
+11:52,Cleveland State,Seth Millner,Defensive Rebound,56,49
+11:43,Cleveland State,Rashad Williams,Missed Three Point Jumper,56,49
+11:43,Purdue Fort Wayne,Jarred Godfrey,Defensive Rebound,56,49
+11:24,Purdue Fort Wayne,John Konchar,Missed Jumper,56,49
+11:24,Cleveland State,Algevon Eichelberger,Defensive Rebound,56,49
+11:17,Cleveland State,Seth Millner,Missed Jumper,56,49
+11:17,Purdue Fort Wayne,Cameron Benford,Defensive Rebound,56,49
+10:54,Purdue Fort Wayne,Matt Holba,Three Point Jumper,59,49
+10:32,Cleveland State,Tyree Appleby,Turnover,59,49
+10:31,Purdue Fort Wayne,Dee Montgomery,Steal,59,49
+10:26,Purdue Fort Wayne,John Konchar,Turnover,59,49
+10:25,Cleveland State,Tyree Appleby,Steal,59,49
+10:19,Cleveland State,Rashad Williams,Missed Three Point Jumper,59,49
+10:19,Cleveland State,Algevon Eichelberger,Offensive Rebound,59,49
+10:10,Cleveland State,None,None,59,49
+10:10,Cleveland State,Seth Millner,Turnover,59,49
+10:10,Cleveland State,None,None,59,49
+9:50,Cleveland State,Dontel Highsmith,Foul,59,49
+9:50,Purdue Fort Wayne,Dylan Carl,Free Throw,60,49
+9:50,Purdue Fort Wayne,Dylan Carl,Free Throw,61,49
+9:40,Cleveland State,Seth Millner,Layup,61,51
+9:40,Purdue Fort Wayne,John Konchar,Foul,61,51
+9:39,Cleveland State,Seth Millner,Free Throw,61,52
+9:25,Purdue Fort Wayne,Jarred Godfrey,Missed Layup,61,52
+9:25,Cleveland State,Algevon Eichelberger,Defensive Rebound,61,52
+9:17,Cleveland State,Seth Millner,Missed Layup,61,52
+9:17,Cleveland State,Stefan Kenic,Offensive Rebound,61,52
+9:15,Cleveland State,Stefan Kenic,Layup,61,54
+8:59,Purdue Fort Wayne,Dylan Carl,Layup,63,54
+8:59,Cleveland State,Algevon Eichelberger,Foul,63,54
+8:59,Purdue Fort Wayne,Dylan Carl,Missed Free Throw,63,54
+8:59,Cleveland State,Algevon Eichelberger,Defensive Rebound,63,54
+8:42,Cleveland State,Stefan Kenic,Missed Three Point Jumper,63,54
+8:42,Purdue Fort Wayne,Dee Montgomery,Defensive Rebound,63,54
+8:34,Cleveland State,Stefan Kenic,Foul,63,54
+8:34,Purdue Fort Wayne,Matt Holba,Free Throw,64,54
+8:34,Purdue Fort Wayne,Matt Holba,Missed Free Throw,64,54
+8:34,Cleveland State,Stefan Kenic,Defensive Rebound,64,54
+8:24,Cleveland State,Tyree Appleby,Three Point Jumper,64,57
+8:23,Purdue Fort Wayne,Dee Montgomery,Foul,64,57
+8:23,Cleveland State,Tyree Appleby,Free Throw,64,58
+8:04,Purdue Fort Wayne,Matt Weir,Three Point Jumper,67,58
+7:43,Cleveland State,Rashad Williams,Turnover,67,58
+7:43,Cleveland State,None,None,67,58
+7:21,Purdue Fort Wayne,Dylan Carl,Missed Jumper,67,58
+7:21,Cleveland State,Stefan Kenic,Defensive Rebound,67,58
+7:02,Cleveland State,Algevon Eichelberger,Layup,67,60
+6:47,Purdue Fort Wayne,Matt Holba,Layup,69,60
+6:45,Cleveland State,Algevon Eichelberger,Foul,69,60
+6:45,Purdue Fort Wayne,Matt Holba,Free Throw,70,60
+6:28,Cleveland State,Algevon Eichelberger,Missed Jumper,70,60
+6:28,Purdue Fort Wayne,Cameron Benford,Block,70,60
+6:27,Cleveland State,Cleveland State,Offensive Rebound,70,60
+6:14,Cleveland State,Seth Millner,Turnover,70,60
+6:13,Purdue Fort Wayne,Marcus DeBerry,Steal,70,60
+6:12,Purdue Fort Wayne,Matt Weir,Layup,72,60
+5:38,Cleveland State,Jaalam Hill,Missed Jumper,72,60
+5:38,Purdue Fort Wayne,None,Team Rebound,72,60
+5:17,Purdue Fort Wayne,Marcus DeBerry,Turnover,72,60
+5:06,Cleveland State,Stefan Kenic,Three Point Jumper,72,63
+4:48,Purdue Fort Wayne,Kason Harrell,Missed Jumper,72,63
+4:48,Cleveland State,Seth Millner,Defensive Rebound,72,63
+4:41,Cleveland State,Jaalam Hill,Layup,72,65
+4:32,Purdue Fort Wayne,None,None,72,65
+4:22,Purdue Fort Wayne,Kason Harrell,Missed Jumper,72,65
+4:22,Cleveland State,Seth Millner,Defensive Rebound,72,65
+4:14,Cleveland State,Tyree Appleby,Turnover,72,65
+4:13,Purdue Fort Wayne,Jarred Godfrey,Steal,72,65
+4:05,Purdue Fort Wayne,John Konchar,Missed Layup,72,65
+4:05,Purdue Fort Wayne,John Konchar,Offensive Rebound,72,65
+4:00,Cleveland State,Seth Millner,Foul,72,65
+4:00,Cleveland State,None,None,72,65
+4:00,Purdue Fort Wayne,Dylan Carl,Missed Free Throw,72,65
+4:00,Cleveland State,Jaalam Hill,Defensive Rebound,72,65
+3:34,Cleveland State,Seth Millner,Three Point Jumper,72,68
+3:15,Purdue Fort Wayne,Kason Harrell,Layup,74,68
+3:09,Cleveland State,Stefan Kenic,Missed Three Point Jumper,74,68
+3:09,Purdue Fort Wayne,Matt Holba,Defensive Rebound,74,68
+3:05,Cleveland State,Seth Millner,Foul,74,68
+3:05,Purdue Fort Wayne,Matt Holba,Missed Free Throw,74,68
+3:05,Purdue Fort Wayne,None,Team Rebound,74,68
+3:05,Purdue Fort Wayne,Matt Holba,Free Throw,75,68
+2:53,Cleveland State,Stefan Kenic,Missed Three Point Jumper,75,68
+2:53,Purdue Fort Wayne,Jarred Godfrey,Defensive Rebound,75,68
+2:40,Purdue Fort Wayne,Dylan Carl,Layup,77,68
+2:32,Cleveland State,Tyree Appleby,Three Point Jumper,77,71
+2:14,Purdue Fort Wayne,Kason Harrell,Turnover,77,71
+2:13,Cleveland State,Tyree Appleby,Steal,77,71
+2:11,Purdue Fort Wayne,Jarred Godfrey,Foul,77,71
+2:11,Cleveland State,Seth Millner,Free Throw,77,72
+2:11,Cleveland State,Seth Millner,Free Throw,77,73
+1:56,Purdue Fort Wayne,Jarred Godfrey,Missed Three Point Jumper,77,73
+1:56,Cleveland State,Jaalam Hill,Defensive Rebound,77,73
+1:46,Cleveland State,Seth Millner,Turnover,77,73
+1:46,Purdue Fort Wayne,John Konchar,Steal,77,73
+1:37,Purdue Fort Wayne,Matt Holba,Missed Three Point Jumper,77,73
+1:37,Cleveland State,Stefan Kenic,Defensive Rebound,77,73
+1:29,Cleveland State,None,None,77,73
+1:20,Cleveland State,Jaalam Hill,Missed Layup,77,73
+1:20,Purdue Fort Wayne,Dylan Carl,Defensive Rebound,77,73
+0:59,Purdue Fort Wayne,John Konchar,Layup,79,73
+0:58,Cleveland State,Jaalam Hill,Foul,79,73
+0:58,Purdue Fort Wayne,John Konchar,Missed Free Throw,79,73
+0:58,Cleveland State,Seth Millner,Defensive Rebound,79,73
+0:47,Cleveland State,Kasheem Thomas,Three Point Jumper,79,76
+0:22,Purdue Fort Wayne,John Konchar,Missed Three Point Jumper,79,76
+0:22,Cleveland State,Kasheem Thomas,Defensive Rebound,79,76
+0:18,Cleveland State,None,None,79,76
+0:16,Cleveland State,Stefan Kenic,Three Point Jumper,79,79
+0:12,Purdue Fort Wayne,None,None,79,79
+0:02,Purdue Fort Wayne,Matt Holba,Three Point Jumper,82,79
+0:01,Cleveland State,None,None,82,79
+0:00,Cleveland State,Seth Millner,Turnover,82,79
+0:00,Purdue Fort Wayne,Kason Harrell,Steal,82,79
+0:00,Cleveland State,None,None,82,79

@@ -1,0 +1,343 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:32,Alabama,Herbert Jones,Foul,0,0
+19:32,Alabama,Herbert Jones,Turnover,0,0
+19:13,Arizona,Chase Jeter,Missed Jumper,0,0
+19:13,Alabama,Tevin Mack,Defensive Rebound,0,0
+19:01,Alabama,Tevin Mack,Missed Jumper,0,0
+19:01,Arizona,Brandon Williams,Defensive Rebound,0,0
+18:52,Arizona,Emmanuel Akot,Missed Jumper,0,0
+18:52,Arizona,Emmanuel Akot,Offensive Rebound,0,0
+18:49,Arizona,Emmanuel Akot,Missed Jumper,0,0
+18:49,Arizona,Chase Jeter,Offensive Rebound,0,0
+18:41,Arizona,Chase Jeter,Layup,2,0
+18:19,Alabama,Kira Lewis Jr.,Missed Jumper,2,0
+18:19,Arizona,Justin Coleman,Defensive Rebound,2,0
+18:14,Arizona,Brandon Williams,Missed Three Point Jumper,2,0
+18:14,Alabama,Donta Hall,Defensive Rebound,2,0
+17:55,Alabama,Donta Hall,Missed Jumper,2,0
+17:55,Arizona,Brandon Randolph,Defensive Rebound,2,0
+17:42,Arizona,Chase Jeter,Layup,4,0
+17:26,Arizona,Brandon Williams,Foul,4,0
+17:26,Alabama,Donta Hall,Free Throw,4,1
+17:26,Alabama,Donta Hall,Free Throw,4,2
+17:12,Arizona,Brandon Randolph,Missed Three Point Jumper,4,2
+17:12,Alabama,Donta Hall,Defensive Rebound,4,2
+17:02,Alabama,Tevin Mack,Missed Layup,4,2
+17:02,Alabama,Tevin Mack,Offensive Rebound,4,2
+16:59,Alabama,Tevin Mack,Layup,4,4
+16:48,Arizona,Chase Jeter,Missed Jumper,4,4
+16:48,Alabama,Donta Hall,Defensive Rebound,4,4
+16:42,Alabama,Tevin Mack,Missed Three Point Jumper,4,4
+16:42,Arizona,Justin Coleman,Defensive Rebound,4,4
+16:30,Arizona,Brandon Williams,Three Point Jumper,7,4
+16:03,Alabama,Kira Lewis Jr.,Jumper,7,6
+15:49,Arizona,Emmanuel Akot,Three Point Jumper,10,6
+15:35,Alabama,None,None,10,6
+15:14,Alabama,Alex Reese,Jumper,10,8
+14:56,Arizona,Brandon Randolph,Turnover,10,8
+14:55,Alabama,Alex Reese,Steal,10,8
+14:52,Alabama,Kira Lewis Jr.,Layup,10,10
+14:33,Arizona,Brandon Williams,Missed Three Point Jumper,10,10
+14:33,Arizona,Ryan Luther,Offensive Rebound,10,10
+14:29,Arizona,Ryan Luther,Layup,12,10
+14:13,Arizona,Dylan Smith,Foul,12,10
+14:13,Alabama,Donta Hall,Free Throw,12,11
+14:13,Alabama,Donta Hall,Free Throw,12,12
+13:57,Arizona,Ira Lee,Missed Jumper,12,12
+13:57,Alabama,John Petty,Defensive Rebound,12,12
+13:47,Alabama,Alex Reese,Three Point Jumper,12,15
+13:35,Arizona,Dylan Smith,Missed Three Point Jumper,12,15
+13:35,Alabama,Avery Johnson Jr.,Defensive Rebound,12,15
+13:16,Alabama,Galin Smith,Layup,12,17
+13:15,Arizona,None,None,12,17
+12:58,Arizona,Justin Coleman,Turnover,12,17
+12:58,Alabama,Avery Johnson Jr.,Steal,12,17
+12:55,Alabama,Avery Johnson Jr.,Layup,12,19
+12:42,Arizona,Ira Lee,Turnover,12,19
+12:28,Alabama,Galin Smith,Turnover,12,19
+12:20,Arizona,Justin Coleman,Turnover,12,19
+12:09,Arizona,Ryan Luther,Foul,12,19
+11:56,Alabama,John Petty,Layup,12,21
+11:39,Arizona,Ira Lee,Jumper,14,21
+11:14,Alabama,Alex Reese,Missed Jumper,14,21
+11:14,Alabama,Galin Smith,Offensive Rebound,14,21
+11:10,Alabama,Galin Smith,Layup,14,23
+10:54,Arizona,Brandon Randolph,Missed Jumper,14,23
+10:54,Alabama,John Petty,Defensive Rebound,14,23
+10:39,Alabama,Galin Smith,Jumper,14,25
+10:36,Arizona,None,None,14,25
+10:23,Arizona,Emmanuel Akot,Missed Three Point Jumper,14,25
+10:23,Alabama,Dazon Ingram,Defensive Rebound,14,25
+10:21,Arizona,Chase Jeter,Foul,14,25
+10:04,Alabama,John Petty,Missed Three Point Jumper,14,25
+10:04,Arizona,Justin Coleman,Defensive Rebound,14,25
+9:56,Arizona,Brandon Randolph,Missed Three Point Jumper,14,25
+9:56,Alabama,Dazon Ingram,Defensive Rebound,14,25
+9:48,Alabama,Dazon Ingram,Layup,14,27
+9:24,Arizona,Justin Coleman,Missed Jumper,14,27
+9:24,Alabama,Galin Smith,Defensive Rebound,14,27
+9:18,Alabama,Alex Reese,Three Point Jumper,14,30
+9:03,Alabama,Dazon Ingram,Foul,14,30
+8:57,Arizona,Brandon Randolph,Missed Jumper,14,30
+8:57,Alabama,Donta Hall,Defensive Rebound,14,30
+8:41,Alabama,John Petty,Missed Jumper,14,30
+8:41,Arizona,Dylan Smith,Defensive Rebound,14,30
+8:25,Arizona,Emmanuel Akot,Missed Jumper,14,30
+8:25,Alabama,John Petty,Defensive Rebound,14,30
+8:13,Alabama,John Petty,Missed Three Point Jumper,14,30
+8:13,Arizona,Dylan Smith,Defensive Rebound,14,30
+8:02,Alabama,John Petty,Foul,14,30
+7:49,Arizona,Ryan Luther,Missed Layup,14,30
+7:49,Alabama,Tevin Mack,Defensive Rebound,14,30
+7:41,Alabama,Dazon Ingram,Turnover,14,30
+7:41,Arizona,Justin Coleman,Steal,14,30
+7:41,Alabama,None,None,14,30
+7:34,Alabama,Kira Lewis Jr.,Foul,14,30
+7:31,Arizona,Justin Coleman,Missed Three Point Jumper,14,30
+7:31,Alabama,Donta Hall,Defensive Rebound,14,30
+7:05,Alabama,Tevin Mack,Three Point Jumper,14,33
+6:40,Alabama,Donta Hall,Foul,14,33
+6:40,Arizona,Chase Jeter,Missed Free Throw,14,33
+6:40,Arizona,None,Team Rebound,14,33
+6:40,Arizona,Chase Jeter,Missed Free Throw,14,33
+6:40,Arizona,Dylan Smith,Offensive Rebound,14,33
+6:30,Arizona,Chase Jeter,Missed Jumper,14,33
+6:30,Arizona,Ryan Luther,Offensive Rebound,14,33
+6:26,Arizona,Ryan Luther,Layup,16,33
+6:12,Arizona,Justin Coleman,Foul,16,33
+6:12,Alabama,John Petty,Missed Free Throw,16,33
+6:12,Alabama,None,Team Rebound,16,33
+6:12,Alabama,John Petty,Free Throw,16,34
+5:53,Arizona,Chase Jeter,Jumper,18,34
+5:44,Alabama,Tevin Mack,Foul,18,34
+5:44,Alabama,Tevin Mack,Turnover,18,34
+5:25,Arizona,Brandon Randolph,Missed Jumper,18,34
+5:25,Alabama,Herbert Jones,Block,18,34
+5:25,Arizona,Arizona,Offensive Rebound,18,34
+5:20,Arizona,Brandon Randolph,Jumper,20,34
+5:10,Alabama,Herbert Jones,Turnover,20,34
+5:09,Arizona,Brandon Randolph,Steal,20,34
+5:06,Arizona,Brandon Randolph,Layup,22,34
+5:05,Alabama,None,None,22,34
+4:52,Alabama,Kira Lewis Jr.,Three Point Jumper,22,37
+4:37,Arizona,Dylan Smith,Missed Jumper,22,37
+4:37,Alabama,Herbert Jones,Block,22,37
+4:35,Alabama,Kira Lewis Jr.,Defensive Rebound,22,37
+4:33,Alabama,Kira Lewis Jr.,Turnover,22,37
+4:17,Arizona,Brandon Randolph,Three Point Jumper,25,37
+3:56,Alabama,Kira Lewis Jr.,Missed Layup,25,37
+3:56,Arizona,Arizona,Defensive Rebound,25,37
+3:55,Alabama,None,None,25,37
+3:45,Arizona,Brandon Randolph,Missed Three Point Jumper,25,37
+3:45,Alabama,Avery Johnson Jr.,Defensive Rebound,25,37
+3:38,Alabama,Avery Johnson Jr.,Missed Layup,25,37
+3:38,Arizona,Brandon Williams,Defensive Rebound,25,37
+3:31,Arizona,Brandon Randolph,Missed Three Point Jumper,25,37
+3:31,Alabama,John Petty,Defensive Rebound,25,37
+3:20,Alabama,Alex Reese,Missed Layup,25,37
+3:20,Alabama,Galin Smith,Offensive Rebound,25,37
+3:17,Alabama,None,None,25,39
+3:06,Arizona,Justin Coleman,Missed Layup,25,39
+3:06,Alabama,Alex Reese,Defensive Rebound,25,39
+2:36,Alabama,John Petty,Missed Jumper,25,39
+2:36,Arizona,Chase Jeter,Defensive Rebound,25,39
+2:31,Arizona,Brandon Randolph,Missed Three Point Jumper,25,39
+2:31,Alabama,Alex Reese,Defensive Rebound,25,39
+2:12,Alabama,Avery Johnson Jr.,Missed Three Point Jumper,25,39
+2:12,Arizona,Emmanuel Akot,Defensive Rebound,25,39
+2:01,Arizona,Brandon Randolph,Missed Jumper,25,39
+2:01,Arizona,Arizona,Offensive Rebound,25,39
+1:45,Alabama,Avery Johnson Jr.,Foul,25,39
+1:45,Arizona,Justin Coleman,Free Throw,26,39
+1:45,Arizona,Justin Coleman,Free Throw,27,39
+1:15,Alabama,John Petty,Missed Three Point Jumper,27,39
+1:15,Arizona,Justin Coleman,Defensive Rebound,27,39
+1:06,Arizona,Brandon Williams,Three Point Jumper,30,39
+0:38,Alabama,Galin Smith,Missed Jumper,30,39
+0:38,Arizona,Justin Coleman,Defensive Rebound,30,39
+0:13,Arizona,Dylan Smith,Missed Jumper,30,39
+0:13,Alabama,Donta Hall,Defensive Rebound,30,39
+0:00,Alabama,Dazon Ingram,Missed Jumper,30,39
+0:00,Arizona,Dylan Smith,Block,30,39
+0:00,Arizona,Chase Jeter,Defensive Rebound,30,39
+0:00,Alabama,None,None,30,39
+19:35,Arizona,Brandon Randolph,Jumper,32,39
+19:10,Alabama,Kira Lewis Jr.,Missed Jumper,32,39
+19:10,Arizona,Chase Jeter,Defensive Rebound,32,39
+19:04,Arizona,Emmanuel Akot,Missed Three Point Jumper,32,39
+19:04,Alabama,Kira Lewis Jr.,Defensive Rebound,32,39
+18:53,Arizona,Brandon Randolph,Foul,32,39
+18:53,Alabama,Herbert Jones,Missed Free Throw,32,39
+18:53,Alabama,None,Team Rebound,32,39
+18:53,Alabama,Herbert Jones,Missed Free Throw,32,39
+18:53,Arizona,Brandon Williams,Defensive Rebound,32,39
+18:39,Arizona,Brandon Williams,Layup,34,39
+18:33,Alabama,John Petty,Missed Jumper,34,39
+18:33,Arizona,Emmanuel Akot,Defensive Rebound,34,39
+18:27,Arizona,Chase Jeter,Dunk,36,39
+18:26,Alabama,None,None,36,39
+18:08,Alabama,Tevin Mack,Turnover,36,39
+18:07,Arizona,Brandon Randolph,Steal,36,39
+18:05,Arizona,Brandon Randolph,Turnover,36,39
+18:04,Alabama,Kira Lewis Jr.,Steal,36,39
+18:03,Alabama,Kira Lewis Jr.,Layup,36,41
+17:37,Arizona,Brandon Williams,Missed Layup,36,41
+17:37,Arizona,Chase Jeter,Offensive Rebound,36,41
+17:34,Arizona,Chase Jeter,Missed Layup,36,41
+17:34,Alabama,Tevin Mack,Block,36,41
+17:32,Arizona,Brandon Randolph,Offensive Rebound,36,41
+17:29,Arizona,Brandon Williams,Three Point Jumper,39,41
+17:20,Alabama,Tevin Mack,Three Point Jumper,39,44
+16:54,Arizona,Justin Coleman,Turnover,39,44
+16:54,Alabama,Alex Reese,Steal,39,44
+16:49,Alabama,Tevin Mack,Missed Three Point Jumper,39,44
+16:49,Arizona,Brandon Williams,Defensive Rebound,39,44
+16:30,Arizona,Brandon Randolph,Three Point Jumper,42,44
+16:03,Alabama,Alex Reese,Layup,42,46
+16:03,Arizona,Chase Jeter,Foul,42,46
+16:03,Alabama,Alex Reese,Free Throw,42,47
+15:43,Arizona,Brandon Williams,Three Point Jumper,45,47
+15:35,Alabama,Kira Lewis Jr.,Turnover,45,47
+15:35,Alabama,None,None,45,47
+15:13,Arizona,Chase Jeter,Missed Layup,45,47
+15:13,Alabama,Alex Reese,Defensive Rebound,45,47
+15:05,Alabama,Galin Smith,Missed Layup,45,47
+15:05,Arizona,Chase Jeter,Block,45,47
+15:05,Alabama,Tevin Mack,Offensive Rebound,45,47
+15:05,Alabama,Tevin Mack,Layup,45,49
+15:05,Arizona,Dylan Smith,Foul,45,49
+15:05,Alabama,Tevin Mack,Missed Free Throw,45,49
+15:05,Arizona,Dylan Smith,Defensive Rebound,45,49
+14:46,Arizona,Brandon Williams,Missed Three Point Jumper,45,49
+14:46,Alabama,Alex Reese,Defensive Rebound,45,49
+14:37,Arizona,Dylan Smith,Foul,45,49
+14:37,Alabama,Tevin Mack,Free Throw,45,50
+14:37,Alabama,Tevin Mack,Free Throw,45,51
+14:18,Arizona,Chase Jeter,Missed Layup,45,51
+14:18,Arizona,Chase Jeter,Offensive Rebound,45,51
+14:14,Arizona,Chase Jeter,Missed Jumper,45,51
+14:14,Alabama,Galin Smith,Block,45,51
+14:12,Arizona,Ryan Luther,Offensive Rebound,45,51
+14:09,Arizona,Brandon Randolph,Missed Jumper,45,51
+14:09,Alabama,Tevin Mack,Defensive Rebound,45,51
+14:00,Alabama,Herbert Jones,Turnover,45,51
+13:59,Arizona,Ryan Luther,Steal,45,51
+13:55,Arizona,Brandon Randolph,Missed Layup,45,51
+13:55,Alabama,Tevin Mack,Defensive Rebound,45,51
+13:47,Alabama,Kira Lewis Jr.,Missed Jumper,45,51
+13:47,Alabama,Alabama,Offensive Rebound,45,51
+13:41,Alabama,Alex Reese,Turnover,45,51
+13:24,Arizona,Ira Lee,Foul,45,51
+13:24,Arizona,Ira Lee,Turnover,45,51
+13:01,Arizona,Chase Jeter,Foul,45,51
+13:01,Alabama,Herbert Jones,Missed Free Throw,45,51
+13:01,Alabama,None,Team Rebound,45,51
+13:01,Alabama,Herbert Jones,Missed Free Throw,45,51
+13:01,Alabama,Alex Reese,Offensive Rebound,45,51
+12:42,Alabama,Alex Reese,Missed Three Point Jumper,45,51
+12:42,Arizona,Ryan Luther,Block,45,51
+12:40,Arizona,Chase Jeter,Defensive Rebound,45,51
+12:37,Arizona,Ryan Luther,Turnover,45,51
+12:22,Alabama,Alex Reese,Layup,45,53
+12:15,Arizona,None,None,45,53
+11:56,Arizona,Ryan Luther,Missed Three Point Jumper,45,53
+11:56,Arizona,Chase Jeter,Offensive Rebound,45,53
+11:52,Arizona,Chase Jeter,Layup,47,53
+11:52,Alabama,Alex Reese,Foul,47,53
+11:52,Arizona,Chase Jeter,Free Throw,48,53
+11:37,Alabama,Alex Reese,Turnover,48,53
+11:25,Arizona,Chase Jeter,Layup,50,53
+11:19,Alabama,Alex Reese,Turnover,50,53
+11:18,Arizona,Justin Coleman,Steal,50,53
+10:55,Arizona,Brandon Randolph,Jumper,52,53
+10:40,Alabama,John Petty,Foul,52,53
+10:40,Alabama,John Petty,Turnover,52,53
+10:27,Arizona,Justin Coleman,Jumper,54,53
+10:16,Arizona,Emmanuel Akot,Foul,54,53
+10:16,Alabama,Galin Smith,Missed Free Throw,54,53
+10:16,Arizona,Emmanuel Akot,Defensive Rebound,54,53
+9:55,Alabama,Galin Smith,Foul,54,53
+9:55,Arizona,Emmanuel Akot,Missed Free Throw,54,53
+9:55,Arizona,None,Team Rebound,54,53
+9:55,Arizona,Emmanuel Akot,Free Throw,55,53
+9:42,Alabama,Kira Lewis Jr.,Three Point Jumper,55,56
+9:28,Arizona,Justin Coleman,Jumper,57,56
+9:19,Arizona,Justin Coleman,Foul,57,56
+9:19,Alabama,Kira Lewis Jr.,Missed Free Throw,57,56
+9:19,Alabama,None,Team Rebound,57,56
+9:19,Alabama,Kira Lewis Jr.,Missed Free Throw,57,56
+9:19,Arizona,Ryan Luther,Defensive Rebound,57,56
+9:05,Arizona,Ryan Luther,Missed Three Point Jumper,57,56
+9:05,Arizona,Ryan Luther,Offensive Rebound,57,56
+9:00,Arizona,Ryan Luther,Missed Jumper,57,56
+9:00,Alabama,Alex Reese,Defensive Rebound,57,56
+8:54,Alabama,Kira Lewis Jr.,Turnover,57,56
+8:53,Arizona,Justin Coleman,Steal,57,56
+8:47,Arizona,Justin Coleman,Turnover,57,56
+8:33,Alabama,Donta Hall,Layup,57,58
+8:03,Alabama,Alex Reese,Foul,57,58
+7:45,Arizona,Brandon Williams,Missed Jumper,57,58
+7:45,Alabama,John Petty,Defensive Rebound,57,58
+7:16,Alabama,Herbert Jones,Missed Three Point Jumper,57,58
+7:16,Arizona,Chase Jeter,Defensive Rebound,57,58
+6:54,Arizona,Brandon Randolph,Missed Three Point Jumper,57,58
+6:54,Alabama,Donta Hall,Defensive Rebound,57,58
+6:42,Alabama,John Petty,Turnover,57,58
+6:42,Alabama,None,None,57,58
+6:28,Arizona,Ryan Luther,Turnover,57,58
+6:10,Alabama,Kira Lewis Jr.,Three Point Jumper,57,61
+5:49,Alabama,Donta Hall,Foul,57,61
+5:40,Arizona,Emmanuel Akot,Three Point Jumper,60,61
+5:13,Alabama,Alex Reese,Missed Jumper,60,61
+5:13,Alabama,Donta Hall,Offensive Rebound,60,61
+5:11,Arizona,Emmanuel Akot,Foul,60,61
+5:11,Alabama,Donta Hall,Free Throw,60,62
+5:11,Alabama,Donta Hall,Free Throw,60,63
+4:54,Arizona,Brandon Randolph,Missed Jumper,60,63
+4:54,Alabama,John Petty,Defensive Rebound,60,63
+4:38,Alabama,John Petty,Missed Three Point Jumper,60,63
+4:38,Alabama,Alex Reese,Offensive Rebound,60,63
+4:27,Arizona,Justin Coleman,Foul,60,63
+4:27,Alabama,Donta Hall,Missed Free Throw,60,63
+4:27,Alabama,None,Team Rebound,60,63
+4:27,Alabama,Donta Hall,Free Throw,60,64
+3:57,Arizona,Brandon Williams,Layup,62,64
+3:38,Alabama,Tevin Mack,Missed Jumper,62,64
+3:38,Arizona,Ryan Luther,Defensive Rebound,62,64
+3:10,Arizona,Chase Jeter,Jumper,64,64
+3:05,Alabama,None,None,64,64
+2:46,Alabama,Kira Lewis Jr.,Missed Layup,64,64
+2:46,Arizona,Chase Jeter,Block,64,64
+2:46,Alabama,Donta Hall,Offensive Rebound,64,64
+2:46,Alabama,Donta Hall,Dunk,64,66
+2:34,Arizona,Justin Coleman,Turnover,64,66
+2:33,Alabama,John Petty,Steal,64,66
+2:30,Alabama,Donta Hall,Layup,64,68
+2:30,Arizona,Chase Jeter,Foul,64,68
+2:30,Alabama,Donta Hall,Missed Free Throw,64,68
+2:30,Arizona,Emmanuel Akot,Defensive Rebound,64,68
+2:17,Arizona,Chase Jeter,Dunk,66,68
+1:46,Alabama,Tevin Mack,Missed Three Point Jumper,66,68
+1:46,Alabama,Alex Reese,Offensive Rebound,66,68
+1:45,Arizona,Emmanuel Akot,Foul,66,68
+1:45,Alabama,Alex Reese,Free Throw,66,69
+1:45,Alabama,Alex Reese,Free Throw,66,70
+1:37,Alabama,Alex Reese,Foul,66,70
+1:19,Arizona,Chase Jeter,Jumper,68,70
+0:51,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,68,70
+0:51,Alabama,Herbert Jones,Offensive Rebound,68,70
+0:29,Arizona,None,None,68,70
+0:13,Alabama,Kira Lewis Jr.,Three Point Jumper,68,73
+0:07,Arizona,Brandon Randolph,Three Point Jumper,71,73
+0:05,Arizona,Brandon Williams,Foul,71,73
+0:05,Alabama,John Petty,Missed Free Throw,71,73
+0:05,Alabama,None,Team Rebound,71,73
+0:05,Alabama,John Petty,Free Throw,71,74
+0:05,Alabama,None,None,71,74
+0:05,Alabama,Kira Lewis Jr.,Foul,71,74
+0:05,Arizona,Justin Coleman,Free Throw,72,74
+0:05,Arizona,Justin Coleman,Free Throw,73,74
+0:03,Arizona,Justin Coleman,Foul,73,74
+0:03,Alabama,Kira Lewis Jr.,Free Throw,73,75
+0:03,Alabama,Kira Lewis Jr.,Free Throw,73,76
+0:00,Alabama,None,None,73,76

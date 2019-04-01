@@ -1,0 +1,341 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:51,Texas Southern,John Jones,Three Point Jumper,3,0
+19:26,Alabama State,Reginald Gee,Missed Jumper,3,0
+19:26,Texas Southern,Justin Hopkins,Defensive Rebound,3,0
+19:26,Texas Southern,Tyrik Armstrong,Foul,3,0
+19:24,Alabama State,Reginald Gee,Layup,3,2
+19:24,Texas Southern,John Jones,Foul,3,2
+19:24,Alabama State,Reginald Gee,Free Throw,3,3
+19:04,Texas Southern,Tyrik Armstrong,Missed Three Point Jumper,3,3
+19:04,Texas Southern,Jeremy Combs,Offensive Rebound,3,3
+18:51,Texas Southern,Eden Ewing,Turnover,3,3
+18:49,Alabama State,Fausto Pichardo,Steal,3,3
+18:44,Texas Southern,Devocio Butler,Foul,3,3
+18:44,Alabama State,Branden Johnson,Missed Free Throw,3,3
+18:44,Alabama State,None,Team Rebound,3,3
+18:44,Alabama State,Branden Johnson,Missed Free Throw,3,3
+18:44,Texas Southern,Jeremy Combs,Defensive Rebound,3,3
+18:37,Texas Southern,Eden Ewing,Missed Jumper,3,3
+18:37,Alabama State,Kevin Holston,Defensive Rebound,3,3
+18:30,Alabama State,Jacoby Ross,Three Point Jumper,3,6
+18:18,Texas Southern,Devocio Butler,Turnover,3,6
+18:17,Alabama State,Kevin Holston,Steal,3,6
+18:15,Alabama State,Reginald Gee,Three Point Jumper,3,9
+17:56,Texas Southern,John Jones,Missed Three Point Jumper,3,9
+17:56,Texas Southern,Jeremy Combs,Offensive Rebound,3,9
+17:51,Alabama State,Branden Johnson,Foul,3,9
+17:51,Texas Southern,Jeremy Combs,Missed Free Throw,3,9
+17:51,Texas Southern,None,Team Rebound,3,9
+17:51,Texas Southern,Jeremy Combs,Missed Free Throw,3,9
+17:51,Alabama State,Fausto Pichardo,Defensive Rebound,3,9
+17:35,Alabama State,Kevin Holston,Three Point Jumper,3,12
+17:19,Texas Southern,John Jones,Turnover,3,12
+17:17,Alabama State,Fausto Pichardo,Steal,3,12
+16:53,Alabama State,Kevin Holston,Missed Three Point Jumper,3,12
+16:53,Texas Southern,Jeremy Combs,Defensive Rebound,3,12
+16:43,Texas Southern,Eden Ewing,Turnover,3,12
+16:41,Alabama State,Reginald Gee,Steal,3,12
+16:32,Alabama State,Kevin Holston,Turnover,3,12
+16:31,Texas Southern,Jalyn Patterson,Steal,3,12
+16:28,Alabama State,Reginald Gee,Foul,3,12
+16:28,Texas Southern,Jeremy Combs,Free Throw,4,12
+16:28,Texas Southern,Jeremy Combs,Missed Free Throw,4,12
+16:28,Alabama State,Alabama State,Defensive Rebound,4,12
+16:07,Alabama State,Branden Johnson,Missed Jumper,4,12
+16:07,Texas Southern,Jalyn Patterson,Defensive Rebound,4,12
+15:59,Texas Southern,John Jones,Missed Three Point Jumper,4,12
+15:59,Alabama State,Alabama State,Defensive Rebound,4,12
+15:55,Alabama State,None,None,4,12
+15:39,Alabama State,Reginald Gee,Missed Jumper,4,12
+15:39,Texas Southern,John Jones,Defensive Rebound,4,12
+15:29,Texas Southern,Trayvon Reed,Dunk,6,12
+15:11,Alabama State,Jacoby Ross,Three Point Jumper,6,15
+14:53,Texas Southern,Devocio Butler,Three Point Jumper,9,15
+14:31,Alabama State,Fausto Pichardo,Three Point Jumper,9,18
+14:12,Texas Southern,Trayvon Reed,Dunk,11,18
+13:55,Alabama State,Jacoby Ross,Jumper,11,20
+13:41,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,11,20
+13:41,Texas Southern,Trayvon Reed,Offensive Rebound,11,20
+13:32,Texas Southern,John Jones,Missed Three Point Jumper,11,20
+13:32,Alabama State,Fausto Pichardo,Defensive Rebound,11,20
+13:03,Alabama State,Reginald Gee,Turnover,11,20
+13:02,Texas Southern,Jeremy Combs,Steal,11,20
+12:57,Alabama State,Fausto Pichardo,Foul,11,20
+12:57,Texas Southern,Devocio Butler,Free Throw,12,20
+12:57,Texas Southern,Devocio Butler,Free Throw,13,20
+12:34,Alabama State,Kevin Holston,Layup,13,22
+12:10,Texas Southern,Jeremy Combs,Layup,15,22
+11:45,Alabama State,Ed Jones,Missed Jumper,15,22
+11:45,Texas Southern,Jeremy Combs,Defensive Rebound,15,22
+11:35,Texas Southern,Trayvon Reed,Turnover,15,22
+11:33,Alabama State,Kevin Holston,Steal,15,22
+11:28,Texas Southern,Tyrik Armstrong,Foul,15,22
+11:28,Alabama State,Tobi Ewuosho,Free Throw,15,23
+11:28,Alabama State,Tobi Ewuosho,Free Throw,15,24
+11:13,Texas Southern,John Jones,Turnover,15,24
+11:11,Alabama State,Kevin Holston,Steal,15,24
+11:05,Alabama State,Tobi Ewuosho,Turnover,15,24
+10:48,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,15,24
+10:48,Alabama State,Reginald Gee,Defensive Rebound,15,24
+10:40,Texas Southern,Trayvon Reed,Foul,15,24
+10:40,Alabama State,Tobi Ewuosho,Missed Free Throw,15,24
+10:40,Alabama State,None,Team Rebound,15,24
+10:40,Alabama State,Tobi Ewuosho,Free Throw,15,25
+10:24,Texas Southern,John Jones,Three Point Jumper,18,25
+10:10,Alabama State,Leon Daniels,Missed Three Point Jumper,18,25
+10:10,Alabama State,Leon Daniels,Offensive Rebound,18,25
+10:05,Alabama State,Leon Daniels,Turnover,18,25
+9:48,Texas Southern,Cainan McClelland,Missed Three Point Jumper,18,25
+9:48,Alabama State,Alabama State,Defensive Rebound,18,25
+9:37,Alabama State,Kevin Holston,Missed Three Point Jumper,18,25
+9:37,Texas Southern,Jeremy Combs,Defensive Rebound,18,25
+9:20,Texas Southern,Trayvon Reed,Missed Layup,18,25
+9:20,Texas Southern,Jeremy Combs,Offensive Rebound,18,25
+9:15,Texas Southern,Jeremy Combs,Layup,20,25
+9:09,Alabama State,Tobi Ewuosho,Missed Three Point Jumper,20,25
+9:09,Texas Southern,Jalyn Patterson,Defensive Rebound,20,25
+8:55,Texas Southern,Jeremy Combs,Turnover,20,25
+8:39,Alabama State,Tobi Ewuosho,Missed Three Point Jumper,20,25
+8:39,Texas Southern,Eden Ewing,Defensive Rebound,20,25
+8:23,Texas Southern,Jeremy Combs,Layup,22,25
+8:04,Alabama State,Jacoby Ross,Missed Jumper,22,25
+8:04,Alabama State,Tobi Ewuosho,Offensive Rebound,22,25
+7:39,Alabama State,Jacoby Ross,Missed Jumper,22,25
+7:39,Texas Southern,Jeremy Combs,Defensive Rebound,22,25
+7:31,Texas Southern,Devocio Butler,Missed Three Point Jumper,22,25
+7:31,Texas Southern,Eden Ewing,Offensive Rebound,22,25
+7:20,Texas Southern,Jeremy Combs,Dunk,24,25
+6:58,Alabama State,Leon Daniels,Missed Jumper,24,25
+6:58,Texas Southern,Jeremy Combs,Defensive Rebound,24,25
+6:53,Texas Southern,Jalyn Patterson,Turnover,24,25
+6:53,Alabama State,None,None,24,25
+6:30,Alabama State,Tobi Ewuosho,Missed Jumper,24,25
+6:30,Alabama State,Leon Daniels,Offensive Rebound,24,25
+6:06,Alabama State,Reginald Gee,Missed Three Point Jumper,24,25
+6:06,Texas Southern,John Jones,Defensive Rebound,24,25
+5:58,Texas Southern,Jeremy Combs,Layup,26,25
+5:36,Alabama State,Leon Daniels,Missed Jumper,26,25
+5:36,Texas Southern,Eden Ewing,Defensive Rebound,26,25
+5:36,Alabama State,Fausto Pichardo,Foul,26,25
+5:24,Texas Southern,Devocio Butler,Missed Three Point Jumper,26,25
+5:24,Alabama State,Leon Daniels,Defensive Rebound,26,25
+5:11,Alabama State,Branden Johnson,Jumper,26,27
+4:55,Texas Southern,John Jones,Three Point Jumper,29,27
+4:31,Texas Southern,Jalyn Patterson,Foul,29,27
+4:31,Alabama State,Leon Daniels,Three Point Jumper,29,30
+4:25,Texas Southern,Jeremy Combs,Layup,31,30
+4:17,Alabama State,Tobi Ewuosho,Foul,31,30
+4:17,Texas Southern,Jeremy Combs,Missed Free Throw,31,30
+4:17,Alabama State,Reginald Gee,Defensive Rebound,31,30
+3:50,Texas Southern,Trayvon Reed,Foul,31,30
+3:50,Alabama State,None,None,31,30
+3:50,Alabama State,Reginald Gee,Free Throw,31,31
+3:50,Alabama State,Reginald Gee,Free Throw,31,32
+3:37,Texas Southern,Jalyn Patterson,Three Point Jumper,34,32
+3:20,Alabama State,Leon Daniels,Missed Layup,34,32
+3:20,Alabama State,Branden Johnson,Offensive Rebound,34,32
+3:00,Alabama State,Tobi Ewuosho,Turnover,34,32
+3:00,Alabama State,Tobi Ewuosho,Foul,34,32
+2:43,Texas Southern,Devocio Butler,Three Point Jumper,37,32
+2:20,Alabama State,Tobi Ewuosho,Missed Layup,37,32
+2:20,Texas Southern,Jalyn Patterson,Defensive Rebound,37,32
+2:08,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,37,32
+2:08,Alabama State,Tobi Ewuosho,Defensive Rebound,37,32
+2:04,Texas Southern,Jeremy Combs,Foul,37,32
+2:04,Alabama State,Tobi Ewuosho,Free Throw,37,33
+2:04,Alabama State,Tobi Ewuosho,Free Throw,37,34
+2:01,Texas Southern,Jalyn Patterson,Layup,39,34
+1:45,Alabama State,Branden Johnson,Layup,39,36
+1:33,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,39,36
+1:33,Alabama State,Leon Daniels,Defensive Rebound,39,36
+1:27,Alabama State,Tobi Ewuosho,Layup,39,38
+1:00,Texas Southern,Jeremy Combs,Turnover,39,38
+0:42,Alabama State,Leon Daniels,Three Point Jumper,39,41
+0:15,Texas Southern,Devocio Butler,Missed Layup,39,41
+0:15,Alabama State,Branden Johnson,Block,39,41
+0:15,Texas Southern,Texas Southern,Offensive Rebound,39,41
+0:13,Alabama State,Branden Johnson,Foul,39,41
+0:13,Texas Southern,Eden Ewing,Free Throw,40,41
+0:13,Alabama State,None,None,40,41
+0:13,Texas Southern,Eden Ewing,Missed Free Throw,40,41
+0:13,Alabama State,Tobi Ewuosho,Defensive Rebound,40,41
+0:03,Alabama State,Leon Daniels,Missed Three Point Jumper,40,41
+0:03,Texas Southern,Jeremy Combs,Defensive Rebound,40,41
+0:00,Alabama State,None,None,40,41
+19:44,Texas Southern,Tyrik Armstrong,Missed Three Point Jumper,40,41
+19:44,Texas Southern,Devocio Butler,Offensive Rebound,40,41
+19:40,Texas Southern,Devocio Butler,Layup,42,41
+19:24,Alabama State,Jacoby Ross,Jumper,42,43
+19:09,Texas Southern,John Jones,Missed Three Point Jumper,42,43
+19:09,Texas Southern,Eden Ewing,Offensive Rebound,42,43
+19:05,Texas Southern,Eden Ewing,Layup,44,43
+18:49,Alabama State,Reginald Gee,Missed Jumper,44,43
+18:49,Texas Southern,Jeremy Combs,Defensive Rebound,44,43
+18:41,Texas Southern,Tyrik Armstrong,Layup,46,43
+18:32,Alabama State,None,None,46,43
+18:26,Alabama State,Jacoby Ross,Turnover,46,43
+18:25,Texas Southern,Jeremy Combs,Steal,46,43
+18:05,Texas Southern,Eden Ewing,Missed Jumper,46,43
+18:05,Texas Southern,Texas Southern,Offensive Rebound,46,43
+17:58,Alabama State,Reginald Gee,Foul,46,43
+17:58,Texas Southern,Eden Ewing,Free Throw,47,43
+17:58,Texas Southern,Eden Ewing,Missed Free Throw,47,43
+17:58,Alabama State,Reginald Gee,Defensive Rebound,47,43
+17:39,Alabama State,Jacoby Ross,Missed Layup,47,43
+17:39,Texas Southern,Jeremy Combs,Block,47,43
+17:37,Texas Southern,Jeremy Combs,Defensive Rebound,47,43
+17:26,Texas Southern,Jeremy Combs,Jumper,49,43
+17:11,Alabama State,Jacoby Ross,Turnover,49,43
+17:00,Texas Southern,Tyrik Armstrong,Turnover,49,43
+16:45,Texas Southern,John Jones,Foul,49,43
+16:25,Alabama State,Fausto Pichardo,Layup,49,45
+16:10,Texas Southern,Eden Ewing,Turnover,49,45
+15:52,Alabama State,Kevin Holston,Missed Three Point Jumper,49,45
+15:52,Texas Southern,Jeremy Combs,Defensive Rebound,49,45
+15:47,Texas Southern,John Jones,Missed Three Point Jumper,49,45
+15:47,Texas Southern,John Jones,Offensive Rebound,49,45
+15:43,Texas Southern,John Jones,Turnover,49,45
+15:43,Alabama State,None,None,49,45
+15:27,Alabama State,Ed Jones,Three Point Jumper,49,48
+15:01,Texas Southern,Devocio Butler,Missed Layup,49,48
+15:01,Alabama State,Ed Jones,Block,49,48
+15:01,Alabama State,Alabama State,Defensive Rebound,49,48
+14:52,Alabama State,Reginald Gee,Turnover,49,48
+14:51,Texas Southern,Jeremy Combs,Steal,49,48
+14:43,Texas Southern,Eden Ewing,Missed Layup,49,48
+14:43,Texas Southern,Eden Ewing,Offensive Rebound,49,48
+14:41,Texas Southern,Eden Ewing,Missed Layup,49,48
+14:41,Alabama State,Kevin Holston,Defensive Rebound,49,48
+14:36,Texas Southern,Eden Ewing,Foul,49,48
+14:36,Alabama State,Jacoby Ross,Free Throw,49,49
+14:36,Alabama State,Jacoby Ross,Free Throw,49,50
+14:13,Alabama State,Ed Jones,Foul,49,50
+14:13,Texas Southern,Jeremy Combs,Missed Free Throw,49,50
+14:13,Texas Southern,None,Team Rebound,49,50
+14:13,Texas Southern,Jeremy Combs,Free Throw,50,50
+14:01,Alabama State,Ed Jones,Missed Three Point Jumper,50,50
+14:01,Texas Southern,Devocio Butler,Defensive Rebound,50,50
+13:52,Texas Southern,Jeremy Combs,Turnover,50,50
+13:31,Alabama State,Ed Jones,Missed Three Point Jumper,50,50
+13:31,Alabama State,Kevin Holston,Offensive Rebound,50,50
+13:23,Alabama State,Kevin Holston,Turnover,50,50
+13:22,Texas Southern,Jeremy Combs,Steal,50,50
+13:20,Texas Southern,Jeremy Combs,Layup,52,50
+13:13,Alabama State,Kevin Holston,Layup,52,52
+12:48,Texas Southern,Trayvon Reed,Turnover,52,52
+12:33,Alabama State,Jacoby Ross,Turnover,52,52
+12:31,Texas Southern,Jalyn Patterson,Steal,52,52
+12:24,Texas Southern,Jalyn Patterson,Layup,54,52
+12:02,Alabama State,Jacoby Ross,Missed Three Point Jumper,54,52
+12:02,Alabama State,Alabama State,Offensive Rebound,54,52
+11:40,Alabama State,Tobi Ewuosho,Jumper,54,54
+11:20,Texas Southern,Jeremy Combs,Turnover,54,54
+11:09,Alabama State,Kevin Holston,Layup,54,56
+11:02,Alabama State,Fausto Pichardo,Foul,54,56
+11:02,Texas Southern,Trayvon Reed,Missed Free Throw,54,56
+11:02,Texas Southern,None,Team Rebound,54,56
+11:02,Texas Southern,Trayvon Reed,Missed Free Throw,54,56
+11:02,Texas Southern,None,Team Rebound,54,56
+11:02,Texas Southern,Trayvon Reed,Dunk,56,56
+10:55,Alabama State,Jacoby Ross,Missed Three Point Jumper,56,56
+10:55,Alabama State,Kevin Holston,Offensive Rebound,56,56
+10:47,Alabama State,Leon Daniels,Missed Three Point Jumper,56,56
+10:47,Texas Southern,Trayvon Reed,Block,56,56
+10:47,Alabama State,Alabama State,Offensive Rebound,56,56
+10:23,Alabama State,Jacoby Ross,Three Point Jumper,56,59
+10:08,Texas Southern,John Jones,Missed Three Point Jumper,56,59
+10:08,Alabama State,Alabama State,Defensive Rebound,56,59
+9:43,Alabama State,Tobi Ewuosho,Missed Jumper,56,59
+9:43,Alabama State,Leon Daniels,Offensive Rebound,56,59
+9:37,Alabama State,Kevin Holston,Missed Jumper,56,59
+9:37,Texas Southern,Jeremy Combs,Defensive Rebound,56,59
+9:15,Texas Southern,Devocio Butler,Turnover,56,59
+9:15,Texas Southern,Devocio Butler,Foul,56,59
+8:53,Alabama State,Jacoby Ross,Missed Jumper,56,59
+8:53,Texas Southern,Trayvon Reed,Defensive Rebound,56,59
+8:45,Alabama State,Leon Daniels,Foul,56,59
+8:38,Texas Southern,Jalyn Patterson,Missed Three Point Jumper,56,59
+8:38,Alabama State,Jacoby Ross,Defensive Rebound,56,59
+8:14,Alabama State,Leon Daniels,Layup,56,61
+7:59,Texas Southern,Jalyn Patterson,Turnover,56,61
+7:56,Alabama State,Tobi Ewuosho,Steal,56,61
+7:54,Texas Southern,Eden Ewing,Foul,56,61
+7:54,Alabama State,Tobi Ewuosho,Missed Free Throw,56,61
+7:54,Alabama State,None,Team Rebound,56,61
+7:54,Alabama State,Tobi Ewuosho,Free Throw,56,62
+7:37,Texas Southern,Justin Hopkins,Missed Layup,56,62
+7:37,Alabama State,Branden Johnson,Block,56,62
+7:35,Alabama State,Branden Johnson,Defensive Rebound,56,62
+7:13,Alabama State,Tobi Ewuosho,Missed Layup,56,62
+7:13,Texas Southern,Cainan McClelland,Defensive Rebound,56,62
+7:05,Texas Southern,John Jones,Missed Jumper,56,62
+7:05,Texas Southern,Eden Ewing,Offensive Rebound,56,62
+7:05,Alabama State,Leon Daniels,Foul,56,62
+7:05,Texas Southern,Eden Ewing,Missed Free Throw,56,62
+7:05,Texas Southern,None,Team Rebound,56,62
+7:05,Texas Southern,Eden Ewing,Missed Free Throw,56,62
+7:05,Alabama State,Alabama State,Defensive Rebound,56,62
+7:05,Texas Southern,Trayvon Reed,Foul,56,62
+6:43,Texas Southern,Cainan McClelland,Foul,56,62
+6:34,Alabama State,Reginald Gee,Missed Three Point Jumper,56,62
+6:34,Alabama State,Alabama State,Offensive Rebound,56,62
+6:25,Alabama State,Reginald Gee,Turnover,56,62
+6:10,Texas Southern,Trayvon Reed,Turnover,56,62
+6:01,Alabama State,Kevin Holston,Missed Layup,56,62
+6:01,Texas Southern,Trayvon Reed,Block,56,62
+6:01,Alabama State,Alabama State,Offensive Rebound,56,62
+5:51,Alabama State,Reginald Gee,Missed Three Point Jumper,56,62
+5:51,Texas Southern,Jeremy Combs,Defensive Rebound,56,62
+5:40,Texas Southern,Jeremy Combs,Turnover,56,62
+5:40,Texas Southern,Jeremy Combs,Foul,56,62
+5:11,Alabama State,Fausto Pichardo,Missed Layup,56,62
+5:11,Texas Southern,Tyrik Armstrong,Defensive Rebound,56,62
+5:06,Alabama State,Ed Jones,Foul,56,62
+5:06,Texas Southern,Tyrik Armstrong,Free Throw,57,62
+5:06,Texas Southern,Tyrik Armstrong,Free Throw,58,62
+4:55,Alabama State,Reginald Gee,Missed Jumper,58,62
+4:55,Texas Southern,Devocio Butler,Defensive Rebound,58,62
+4:48,Alabama State,Tobi Ewuosho,Foul,58,62
+4:48,Texas Southern,Tyrik Armstrong,Free Throw,59,62
+4:48,Texas Southern,Tyrik Armstrong,Free Throw,60,62
+4:19,Alabama State,Jacoby Ross,Missed Three Point Jumper,60,62
+4:19,Texas Southern,Devocio Butler,Defensive Rebound,60,62
+4:09,Texas Southern,Tyrik Armstrong,Jumper,62,62
+3:51,Alabama State,Branden Johnson,Jumper,62,64
+3:29,Texas Southern,Tyrik Armstrong,Layup,64,64
+3:01,Texas Southern,Trayvon Reed,Foul,64,64
+3:01,Alabama State,Branden Johnson,Missed Free Throw,64,64
+3:01,Alabama State,None,Team Rebound,64,64
+3:01,Alabama State,Branden Johnson,Missed Free Throw,64,64
+3:01,Texas Southern,Jeremy Combs,Defensive Rebound,64,64
+2:54,Texas Southern,Trayvon Reed,Dunk,66,64
+2:26,Alabama State,Tobi Ewuosho,Missed Layup,66,64
+2:26,Texas Southern,Trayvon Reed,Block,66,64
+2:23,Texas Southern,Trayvon Reed,Defensive Rebound,66,64
+2:19,Texas Southern,Jeremy Combs,Layup,68,64
+1:59,Alabama State,Jacoby Ross,Missed Three Point Jumper,68,64
+1:59,Alabama State,Jacoby Ross,Offensive Rebound,68,64
+1:52,Alabama State,Reginald Gee,Layup,68,66
+1:35,Texas Southern,Jalyn Patterson,Jumper,70,66
+1:35,Alabama State,Kevin Holston,Foul,70,66
+1:35,Texas Southern,Jalyn Patterson,Free Throw,71,66
+1:17,Alabama State,Branden Johnson,Turnover,71,66
+1:16,Texas Southern,Jeremy Combs,Steal,71,66
+0:49,Alabama State,Branden Johnson,Foul,71,66
+0:49,Texas Southern,Jeremy Combs,Free Throw,72,66
+0:49,Texas Southern,Jeremy Combs,Free Throw,73,66
+0:49,Texas Southern,None,None,73,66
+0:32,Alabama State,Jacoby Ross,Missed Three Point Jumper,73,66
+0:32,Alabama State,Fausto Pichardo,Offensive Rebound,73,66
+0:29,Alabama State,Fausto Pichardo,Layup,73,68
+0:19,Texas Southern,Trayvon Reed,Dunk,75,68
+0:19,Alabama State,Fausto Pichardo,Foul,75,68
+0:19,Texas Southern,Trayvon Reed,Free Throw,76,68
+0:17,Texas Southern,Eden Ewing,Turnover,76,68
+0:16,Alabama State,John Sellars,Steal,76,68
+0:16,Alabama State,Jacoby Ross,Foul,76,68
+0:16,Texas Southern,Tyrik Armstrong,Free Throw,77,68
+0:16,Texas Southern,Tyrik Armstrong,Free Throw,78,68
+0:05,Alabama State,Reginald Gee,Turnover,78,68
+0:03,Texas Southern,Jalyn Patterson,Steal,78,68
+0:00,Alabama State,None,None,78,68

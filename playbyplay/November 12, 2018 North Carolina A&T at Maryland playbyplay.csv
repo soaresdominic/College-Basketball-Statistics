@@ -1,0 +1,326 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Maryland,None,None,0,0
+19:44,Maryland,Jalen Smith,Jumper,0,2
+19:21,North Carolina A&T,Quavius Copeland,Missed Three Point Jumper,0,2
+19:21,Maryland,Maryland,Defensive Rebound,0,2
+19:06,Maryland,Bruno Fernando,Missed Jumper,0,2
+19:06,North Carolina A&T,Kameron Langley,Defensive Rebound,0,2
+18:45,North Carolina A&T,Tyrone Lyons,Foul,0,2
+18:45,North Carolina A&T,Tyrone Lyons,Turnover,0,2
+18:30,Maryland,Jalen Smith,Layup,0,4
+18:01,Maryland,Eric Ayala,Foul,0,4
+17:54,North Carolina A&T,Quavius Copeland,Three Point Jumper,3,4
+17:42,Maryland,Anthony Cowan Jr.,Foul,3,4
+17:42,Maryland,Anthony Cowan Jr.,Turnover,3,4
+17:31,North Carolina A&T,Terry Harris,Missed Three Point Jumper,3,4
+17:31,North Carolina A&T,Ibrahim Sylla,Offensive Rebound,3,4
+17:24,North Carolina A&T,Quavius Copeland,Layup,5,4
+17:08,Maryland,Darryl Morsell,Dunk,5,6
+16:53,North Carolina A&T,Terry Harris,Three Point Jumper,8,6
+16:38,Maryland,Eric Ayala,Missed Three Point Jumper,8,6
+16:38,North Carolina A&T,Kameron Langley,Defensive Rebound,8,6
+16:30,North Carolina A&T,Kameron Langley,Turnover,8,6
+16:21,North Carolina A&T,Aaren Edmead,Foul,8,6
+16:18,Maryland,Bruno Fernando,Dunk,8,8
+15:53,North Carolina A&T,Aaren Edmead,Missed Jumper,8,8
+15:53,Maryland,Bruno Fernando,Defensive Rebound,8,8
+15:49,North Carolina A&T,Terry Harris,Foul,8,8
+15:49,Maryland,None,None,8,8
+15:49,Maryland,Anthony Cowan Jr.,Free Throw,8,9
+15:49,Maryland,Anthony Cowan Jr.,Missed Free Throw,8,9
+15:49,North Carolina A&T,Terry Harris,Defensive Rebound,8,9
+15:33,North Carolina A&T,Ibrahim Sylla,Foul,8,9
+15:33,North Carolina A&T,Ibrahim Sylla,Turnover,8,9
+15:29,Maryland,Bruno Fernando,Jumper,8,11
+15:08,North Carolina A&T,Kameron Langley,Turnover,8,11
+15:08,Maryland,Bruno Fernando,Steal,8,11
+14:54,Maryland,Anthony Cowan Jr.,Turnover,8,11
+14:54,North Carolina A&T,Quavius Copeland,Steal,8,11
+14:37,North Carolina A&T,Kameron Langley,Missed Layup,8,11
+14:37,Maryland,Aaron Wiggins,Defensive Rebound,8,11
+14:31,Maryland,Jalen Smith,Missed Three Point Jumper,8,11
+14:31,Maryland,Bruno Fernando,Offensive Rebound,8,11
+14:21,Maryland,Bruno Fernando,Layup,8,13
+14:03,North Carolina A&T,Kameron Langley,Jumper,10,13
+13:43,Maryland,Anthony Cowan Jr.,Missed Three Point Jumper,10,13
+13:43,Maryland,Bruno Fernando,Offensive Rebound,10,13
+13:43,Maryland,Bruno Fernando,Layup,10,15
+13:43,North Carolina A&T,Ibrahim Sylla,Foul,10,15
+13:43,Maryland,Bruno Fernando,Free Throw,10,16
+13:31,North Carolina A&T,Andre Jackson,Missed Layup,10,16
+13:31,Maryland,Bruno Fernando,Defensive Rebound,10,16
+13:15,Maryland,Serrel Smith Jr.,Missed Three Point Jumper,10,16
+13:15,North Carolina A&T,Terry Harris,Defensive Rebound,10,16
+12:56,North Carolina A&T,Terry Harris,Missed Three Point Jumper,10,16
+12:56,Maryland,Aaron Wiggins,Defensive Rebound,10,16
+12:30,Maryland,Anthony Cowan Jr.,Missed Three Point Jumper,10,16
+12:30,Maryland,Anthony Cowan Jr.,Offensive Rebound,10,16
+12:23,Maryland,Aaron Wiggins,Missed Three Point Jumper,10,16
+12:23,North Carolina A&T,Kameron Langley,Defensive Rebound,10,16
+12:13,North Carolina A&T,Kameron Langley,Missed Jumper,10,16
+12:13,Maryland,Ricky Lindo Jr.,Defensive Rebound,10,16
+12:03,Maryland,Ricky Lindo Jr.,Jumper,10,18
+11:46,North Carolina A&T,Kameron Langley,Layup,12,18
+11:46,Maryland,Ivan Bender,Foul,12,18
+11:46,Maryland,None,None,12,18
+11:46,North Carolina A&T,Kameron Langley,Free Throw,13,18
+11:30,Maryland,Ricky Lindo Jr.,Layup,13,20
+11:16,North Carolina A&T,Quavius Copeland,Missed Layup,13,20
+11:16,Maryland,Ricky Lindo Jr.,Defensive Rebound,13,20
+11:06,Maryland,Serrel Smith Jr.,Jumper,13,22
+10:58,Maryland,Aaron Wiggins,Foul,13,22
+10:33,North Carolina A&T,Andre Jackson,Missed Three Point Jumper,13,22
+10:33,Maryland,Ricky Lindo Jr.,Defensive Rebound,13,22
+10:11,Maryland,Aaron Wiggins,Missed Jumper,13,22
+10:11,Maryland,Maryland,Offensive Rebound,13,22
+10:09,Maryland,Serrel Smith Jr.,Missed Three Point Jumper,13,22
+10:09,Maryland,Aaron Wiggins,Offensive Rebound,13,22
+10:06,North Carolina A&T,Milik Gantz,Foul,13,22
+9:56,Maryland,Jalen Smith,Missed Layup,13,22
+9:56,Maryland,Serrel Smith Jr.,Offensive Rebound,13,22
+9:43,North Carolina A&T,Nelson Nweke,Foul,13,22
+9:43,Maryland,Jalen Smith,Free Throw,13,23
+9:43,Maryland,Jalen Smith,Missed Free Throw,13,23
+9:43,Maryland,Jalen Smith,Offensive Rebound,13,23
+9:38,Maryland,Aaron Wiggins,Three Point Jumper,13,26
+9:10,North Carolina A&T,Ronald Jackson,Missed Jumper,13,26
+9:10,North Carolina A&T,Nelson Nweke,Offensive Rebound,13,26
+9:10,North Carolina A&T,None,None,13,26
+9:10,Maryland,Jalen Smith,Defensive Rebound,13,26
+9:00,Maryland,Jalen Smith,Dunk,13,28
+9:00,North Carolina A&T,Ronald Jackson,Foul,13,28
+9:00,Maryland,Jalen Smith,Free Throw,13,29
+8:55,North Carolina A&T,Milik Gantz,Turnover,13,29
+8:55,Maryland,Aaron Wiggins,Steal,13,29
+8:52,Maryland,Aaron Wiggins,Missed Layup,13,29
+8:52,North Carolina A&T,D'Andre Johnson,Defensive Rebound,13,29
+8:43,Maryland,Eric Ayala,Foul,13,29
+8:32,North Carolina A&T,Kameron Langley,Foul,13,29
+8:32,North Carolina A&T,Kameron Langley,Turnover,13,29
+8:11,Maryland,Bruno Fernando,Foul,13,29
+8:11,Maryland,Bruno Fernando,Turnover,13,29
+7:51,North Carolina A&T,Aaren Edmead,Missed Layup,13,29
+7:51,Maryland,Bruno Fernando,Defensive Rebound,13,29
+7:45,Maryland,Darryl Morsell,Turnover,13,29
+7:45,Maryland,None,None,13,29
+7:27,North Carolina A&T,Ronald Jackson,Jumper,15,29
+7:05,Maryland,Bruno Fernando,Missed Layup,15,29
+7:05,North Carolina A&T,Ronald Jackson,Block,15,29
+7:05,Maryland,Maryland,Offensive Rebound,15,29
+7:02,Maryland,Anthony Cowan Jr.,Three Point Jumper,15,32
+6:50,North Carolina A&T,Ed Ferguson,Missed Layup,15,32
+6:50,North Carolina A&T,D'Andre Johnson,Offensive Rebound,15,32
+6:50,North Carolina A&T,None,None,17,32
+6:32,Maryland,Anthony Cowan Jr.,Missed Three Point Jumper,17,32
+6:32,North Carolina A&T,Ed Ferguson,Defensive Rebound,17,32
+6:24,North Carolina A&T,Aaren Edmead,Missed Jumper,17,32
+6:24,Maryland,Bruno Fernando,Defensive Rebound,17,32
+6:13,Maryland,Bruno Fernando,Missed Layup,17,32
+6:13,North Carolina A&T,North Carolina A&T,Defensive Rebound,17,32
+6:03,North Carolina A&T,D'Andre Johnson,Layup,19,32
+5:43,Maryland,Serrel Smith Jr.,Jumper,19,34
+5:13,North Carolina A&T,D'Andre Johnson,Missed Three Point Jumper,19,34
+5:13,Maryland,Bruno Fernando,Block,19,34
+5:13,Maryland,Bruno Fernando,Defensive Rebound,19,34
+4:52,North Carolina A&T,D'Andre Johnson,Foul,19,34
+4:52,Maryland,Bruno Fernando,Missed Free Throw,19,34
+4:52,Maryland,None,Team Rebound,19,34
+4:52,Maryland,Bruno Fernando,Free Throw,19,35
+4:32,North Carolina A&T,Quavius Copeland,Missed Three Point Jumper,19,35
+4:32,Maryland,Serrel Smith Jr.,Defensive Rebound,19,35
+4:23,Maryland,Darryl Morsell,Missed Three Point Jumper,19,35
+4:23,Maryland,Bruno Fernando,Offensive Rebound,19,35
+4:15,Maryland,Anthony Cowan Jr.,Missed Jumper,19,35
+4:15,North Carolina A&T,D'Andre Johnson,Block,19,35
+4:15,North Carolina A&T,Kameron Langley,Defensive Rebound,19,35
+4:05,North Carolina A&T,Quavius Copeland,Layup,21,35
+4:05,Maryland,None,None,21,35
+3:57,Maryland,Bruno Fernando,Layup,21,37
+3:33,North Carolina A&T,Tyrone Lyons,Missed Layup,21,37
+3:33,Maryland,Bruno Fernando,Block,21,37
+3:33,Maryland,Ricky Lindo Jr.,Defensive Rebound,21,37
+3:21,Maryland,Aaron Wiggins,Three Point Jumper,21,40
+3:03,North Carolina A&T,Andre Jackson,Missed Layup,21,40
+3:03,Maryland,None,Team Rebound,21,40
+2:47,Maryland,Bruno Fernando,Layup,21,42
+2:47,North Carolina A&T,Terry Harris,Foul,21,42
+2:47,Maryland,Bruno Fernando,Missed Free Throw,21,42
+2:47,Maryland,Ricky Lindo Jr.,Offensive Rebound,21,42
+2:21,Maryland,Darryl Morsell,Turnover,21,42
+2:21,North Carolina A&T,Tyrone Lyons,Steal,21,42
+2:17,North Carolina A&T,Kameron Langley,Turnover,21,42
+2:17,Maryland,Aaron Wiggins,Steal,21,42
+2:11,Maryland,Darryl Morsell,Dunk,21,44
+2:01,North Carolina A&T,Nelson Nweke,Layup,23,44
+1:49,Maryland,Aaron Wiggins,Missed Three Point Jumper,23,44
+1:49,Maryland,Darryl Morsell,Offensive Rebound,23,44
+1:49,Maryland,None,None,23,44
+1:49,North Carolina A&T,Tyrone Lyons,Defensive Rebound,23,44
+1:23,North Carolina A&T,Tyrone Lyons,Missed Three Point Jumper,23,44
+1:23,Maryland,Bruno Fernando,Defensive Rebound,23,44
+1:14,Maryland,Anthony Cowan Jr.,Missed Layup,23,44
+1:14,North Carolina A&T,Nelson Nweke,Defensive Rebound,23,44
+0:59,North Carolina A&T,Amari Hamilton,Missed Jumper,23,44
+0:59,Maryland,Anthony Cowan Jr.,Defensive Rebound,23,44
+0:41,Maryland,Anthony Cowan Jr.,Three Point Jumper,23,47
+0:11,North Carolina A&T,Kameron Langley,Turnover,23,47
+0:11,Maryland,Darryl Morsell,Steal,23,47
+0:07,North Carolina A&T,Kameron Langley,Foul,23,47
+0:07,Maryland,Aaron Wiggins,Free Throw,23,48
+0:07,Maryland,Aaron Wiggins,Free Throw,23,49
+0:02,Maryland,Reese Mona,Foul,23,49
+0:02,North Carolina A&T,Tyrone Lyons,Free Throw,24,49
+0:02,North Carolina A&T,Tyrone Lyons,Free Throw,25,49
+0:02,Maryland,Aaron Wiggins,Missed Three Point Jumper,25,49
+0:02,North Carolina A&T,None,Team Rebound,25,49
+0:00,Maryland,None,None,25,49
+20:00,North Carolina A&T,None,None,25,49
+19:45,North Carolina A&T,Amari Hamilton,Missed Three Point Jumper,25,49
+19:45,Maryland,Bruno Fernando,Defensive Rebound,25,49
+19:17,Maryland,Bruno Fernando,Foul,25,49
+19:17,Maryland,Bruno Fernando,Turnover,25,49
+19:16,North Carolina A&T,Tyrone Lyons,Missed Three Point Jumper,25,49
+19:16,North Carolina A&T,Terry Harris,Offensive Rebound,25,49
+19:16,North Carolina A&T,Tyrone Lyons,Layup,27,49
+19:16,Maryland,Bruno Fernando,Foul,27,49
+19:16,North Carolina A&T,Tyrone Lyons,Free Throw,28,49
+19:04,North Carolina A&T,Ibrahim Sylla,Foul,28,49
+18:52,Maryland,Jalen Smith,Missed Layup,28,49
+18:52,North Carolina A&T,Nelson Nweke,Block,28,49
+18:52,North Carolina A&T,Nelson Nweke,Defensive Rebound,28,49
+18:35,Maryland,Ricky Lindo Jr.,Foul,28,49
+18:35,North Carolina A&T,Tyrone Lyons,Free Throw,29,49
+18:35,North Carolina A&T,Tyrone Lyons,Missed Free Throw,29,49
+18:35,Maryland,Ricky Lindo Jr.,Defensive Rebound,29,49
+18:20,Maryland,Jalen Smith,Layup,29,51
+18:03,North Carolina A&T,Amari Hamilton,Jumper,31,51
+17:46,Maryland,Darryl Morsell,Three Point Jumper,31,54
+17:22,North Carolina A&T,Terry Harris,Missed Three Point Jumper,31,54
+17:22,Maryland,Jalen Smith,Defensive Rebound,31,54
+17:15,North Carolina A&T,Amari Hamilton,Foul,31,54
+16:58,Maryland,Darryl Morsell,Dunk,31,56
+16:35,North Carolina A&T,Terry Harris,Jumper,33,56
+16:20,Maryland,Anthony Cowan Jr.,Three Point Jumper,33,59
+15:56,North Carolina A&T,Amari Hamilton,Missed Three Point Jumper,33,59
+15:56,Maryland,Jalen Smith,Defensive Rebound,33,59
+15:47,Maryland,Anthony Cowan Jr.,Missed Three Point Jumper,33,59
+15:47,North Carolina A&T,Amari Hamilton,Defensive Rebound,33,59
+15:37,North Carolina A&T,Amari Hamilton,Layup,35,59
+15:21,Maryland,Eric Ayala,Missed Layup,35,59
+15:21,North Carolina A&T,Amari Hamilton,Block,35,59
+15:21,North Carolina A&T,Ed Ferguson,Defensive Rebound,35,59
+15:08,North Carolina A&T,Tyrone Lyons,Dunk,37,59
+14:55,North Carolina A&T,Nelson Nweke,Foul,37,59
+14:55,Maryland,None,None,37,59
+14:44,Maryland,Anthony Cowan Jr.,Missed Three Point Jumper,37,59
+14:44,North Carolina A&T,Nelson Nweke,Defensive Rebound,37,59
+14:29,North Carolina A&T,Ed Ferguson,Missed Three Point Jumper,37,59
+14:29,Maryland,Jalen Smith,Defensive Rebound,37,59
+14:19,Maryland,Ricky Lindo Jr.,Missed Layup,37,59
+14:19,North Carolina A&T,Nelson Nweke,Defensive Rebound,37,59
+14:03,North Carolina A&T,Nelson Nweke,Missed Jumper,37,59
+14:03,North Carolina A&T,Nelson Nweke,Offensive Rebound,37,59
+13:57,North Carolina A&T,Nelson Nweke,Turnover,37,59
+13:57,Maryland,Ricky Lindo Jr.,Steal,37,59
+13:51,Maryland,Aaron Wiggins,Turnover,37,59
+13:51,North Carolina A&T,Amari Hamilton,Steal,37,59
+13:47,North Carolina A&T,Amari Hamilton,Turnover,37,59
+13:47,Maryland,Serrel Smith Jr.,Steal,37,59
+13:30,Maryland,Aaron Wiggins,Three Point Jumper,37,62
+13:01,North Carolina A&T,Tyrone Lyons,Turnover,37,62
+13:01,Maryland,Ricky Lindo Jr.,Steal,37,62
+12:55,Maryland,Ricky Lindo Jr.,Missed Three Point Jumper,37,62
+12:55,North Carolina A&T,Terry Harris,Defensive Rebound,37,62
+12:26,North Carolina A&T,Amari Hamilton,Missed Three Point Jumper,37,62
+12:26,Maryland,Darryl Morsell,Defensive Rebound,37,62
+12:11,Maryland,Aaron Wiggins,Missed Three Point Jumper,37,62
+12:11,Maryland,Joshua Tomaic,Offensive Rebound,37,62
+12:08,North Carolina A&T,Kameron Langley,Foul,37,62
+12:07,North Carolina A&T,Andre Jackson,Foul,37,62
+11:48,Maryland,Darryl Morsell,Missed Jumper,37,62
+11:48,North Carolina A&T,Nelson Nweke,Defensive Rebound,37,62
+11:22,North Carolina A&T,Kameron Langley,Jumper,39,62
+11:06,Maryland,Serrel Smith Jr.,Missed Three Point Jumper,39,62
+11:06,North Carolina A&T,Tyrone Lyons,Defensive Rebound,39,62
+10:43,North Carolina A&T,Tyrone Lyons,Missed Jumper,39,62
+10:43,Maryland,Joshua Tomaic,Defensive Rebound,39,62
+10:17,Maryland,Darryl Morsell,Layup,39,64
+10:01,North Carolina A&T,Terry Harris,Three Point Jumper,42,64
+9:47,Maryland,Serrel Smith Jr.,Missed Three Point Jumper,42,64
+9:47,North Carolina A&T,Andre Jackson,Defensive Rebound,42,64
+9:34,North Carolina A&T,Andre Jackson,Layup,44,64
+9:34,Maryland,Serrel Smith Jr.,Foul,44,64
+9:34,North Carolina A&T,Andre Jackson,Free Throw,45,64
+9:33,Maryland,None,None,45,64
+9:10,Maryland,Darryl Morsell,Turnover,45,64
+9:04,North Carolina A&T,D'Andre Johnson,Missed Three Point Jumper,45,64
+9:04,Maryland,Aaron Wiggins,Defensive Rebound,45,64
+8:51,Maryland,Darryl Morsell,Layup,45,66
+8:26,North Carolina A&T,Milik Gantz,Three Point Jumper,48,66
+8:11,Maryland,Anthony Cowan Jr.,Three Point Jumper,48,69
+7:43,North Carolina A&T,Ronald Jackson,Missed Three Point Jumper,48,69
+7:43,Maryland,Bruno Fernando,Defensive Rebound,48,69
+7:15,Maryland,Bruno Fernando,Dunk,48,71
+7:15,North Carolina A&T,Milik Gantz,Foul,48,71
+7:15,Maryland,None,None,48,71
+7:15,Maryland,Bruno Fernando,Missed Free Throw,48,71
+7:15,North Carolina A&T,Kameron Langley,Defensive Rebound,48,71
+6:58,North Carolina A&T,D'Andre Johnson,Layup,50,71
+6:42,Maryland,Jalen Smith,Missed Jumper,50,71
+6:42,North Carolina A&T,Milik Gantz,Defensive Rebound,50,71
+6:17,North Carolina A&T,Kameron Langley,Layup,52,71
+6:02,Maryland,Aaron Wiggins,Three Point Jumper,52,74
+5:58,Maryland,None,None,52,74
+5:39,North Carolina A&T,Milik Gantz,Jumper,54,74
+5:25,Maryland,Aaron Wiggins,Missed Jumper,54,74
+5:25,Maryland,Bruno Fernando,Offensive Rebound,54,74
+5:25,North Carolina A&T,Milik Gantz,Foul,54,74
+5:25,Maryland,Bruno Fernando,Missed Free Throw,54,74
+5:25,Maryland,None,Team Rebound,54,74
+5:25,Maryland,Bruno Fernando,Free Throw,54,75
+5:11,North Carolina A&T,D'Andre Johnson,Missed Three Point Jumper,54,75
+5:11,Maryland,Anthony Cowan Jr.,Defensive Rebound,54,75
+4:57,North Carolina A&T,Ibrahim Sylla,Foul,54,75
+4:57,Maryland,Jalen Smith,Free Throw,54,76
+4:57,Maryland,Jalen Smith,Free Throw,54,77
+4:47,Maryland,Serrel Smith Jr.,Foul,54,77
+4:47,North Carolina A&T,Amari Hamilton,Missed Free Throw,54,77
+4:47,North Carolina A&T,None,Team Rebound,54,77
+4:47,North Carolina A&T,Amari Hamilton,Free Throw,55,77
+4:37,Maryland,Serrel Smith Jr.,Three Point Jumper,55,80
+4:09,North Carolina A&T,Amari Hamilton,Missed Dunk,55,80
+4:09,Maryland,Jalen Smith,Block,55,80
+4:09,Maryland,Serrel Smith Jr.,Defensive Rebound,55,80
+3:54,Maryland,Serrel Smith Jr.,Turnover,55,80
+3:54,North Carolina A&T,Travon Mayo,Steal,55,80
+3:53,Maryland,Aaron Wiggins,Foul,55,80
+3:53,Maryland,None,None,55,80
+3:44,North Carolina A&T,Amari Hamilton,Missed Three Point Jumper,55,80
+3:44,North Carolina A&T,Ronald Jackson,Offensive Rebound,55,80
+3:34,North Carolina A&T,Travon Mayo,Layup,57,80
+3:21,Maryland,Serrel Smith Jr.,Missed Three Point Jumper,57,80
+3:21,Maryland,Ricky Lindo Jr.,Offensive Rebound,57,80
+3:11,Maryland,Eric Ayala,Turnover,57,80
+3:11,North Carolina A&T,Ibrahim Sylla,Steal,57,80
+2:50,North Carolina A&T,Ibrahim Sylla,Dunk,59,80
+2:30,Maryland,Ivan Bender,Turnover,59,80
+2:30,North Carolina A&T,Milik Gantz,Steal,59,80
+2:16,North Carolina A&T,Amari Hamilton,Missed Layup,59,80
+2:16,North Carolina A&T,Ronald Jackson,Offensive Rebound,59,80
+2:16,North Carolina A&T,None,None,59,80
+2:16,Maryland,Ivan Bender,Defensive Rebound,59,80
+1:53,Maryland,Serrel Smith Jr.,Missed Three Point Jumper,59,80
+1:53,North Carolina A&T,Amari Hamilton,Defensive Rebound,59,80
+1:37,North Carolina A&T,Ronald Jackson,Turnover,59,80
+1:37,Maryland,Ricky Lindo Jr.,Steal,59,80
+1:19,Maryland,Ivan Bender,Turnover,59,80
+1:19,North Carolina A&T,Travon Mayo,Steal,59,80
+0:53,North Carolina A&T,Ibrahim Sylla,Missed Layup,59,80
+0:53,Maryland,Joshua Tomaic,Defensive Rebound,59,80
+0:48,Maryland,None,None,59,80
+0:42,Maryland,Travis Valmon,Missed Three Point Jumper,59,80
+0:42,Maryland,Joshua Tomaic,Offensive Rebound,59,80
+0:28,Maryland,Joshua Tomaic,Jumper,59,82
+0:15,North Carolina A&T,Amari Hamilton,Missed Three Point Jumper,59,82
+0:15,Maryland,Joshua Tomaic,Defensive Rebound,59,82
+0:00,Maryland,None,None,59,82

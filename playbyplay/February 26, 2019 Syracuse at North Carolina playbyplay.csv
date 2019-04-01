@@ -1,0 +1,376 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Syracuse,None,None,0,0
+19:39,Syracuse,Frank Howard,Three Point Jumper,3,0
+19:31,North Carolina,Coby White,Turnover,3,0
+19:31,Syracuse,Oshae Brissett,Steal,3,0
+19:26,Syracuse,Tyus Battle,Layup,5,0
+19:04,North Carolina,Cameron Johnson,Jumper,5,2
+18:50,Syracuse,Frank Howard,Missed Three Point Jumper,5,2
+18:50,North Carolina,Kenny Williams,Defensive Rebound,5,2
+18:42,North Carolina,Garrison Brooks,Dunk,5,4
+18:26,Syracuse,Elijah Hughes,Three Point Jumper,8,4
+18:12,North Carolina,Luke Maye,Missed Jumper,8,4
+18:12,Syracuse,Elijah Hughes,Defensive Rebound,8,4
+18:04,Syracuse,Paschal Chukwu,Layup,10,4
+17:35,Syracuse,Paschal Chukwu,Foul,10,4
+17:35,North Carolina,Cameron Johnson,Free Throw,10,5
+17:35,North Carolina,Cameron Johnson,Free Throw,10,6
+17:24,Syracuse,Elijah Hughes,Three Point Jumper,13,6
+17:14,North Carolina,Kenny Williams,Missed Three Point Jumper,13,6
+17:13,Syracuse,Tyus Battle,Defensive Rebound,13,6
+16:55,Syracuse,Marek Dolezaj,Layup,15,6
+16:37,Syracuse,Paschal Chukwu,Foul,15,6
+16:37,North Carolina,Luke Maye,Free Throw,15,7
+16:37,North Carolina,Luke Maye,Free Throw,15,8
+16:25,Syracuse,Elijah Hughes,Missed Layup,15,8
+16:25,North Carolina,North Carolina,Defensive Rebound,15,8
+16:14,North Carolina,Coby White,Three Point Jumper,15,11
+16:04,Syracuse,Tyus Battle,Missed Layup,15,11
+16:04,North Carolina,Luke Maye,Defensive Rebound,15,11
+15:56,North Carolina,Cameron Johnson,Three Point Jumper,15,14
+15:51,Syracuse,None,None,15,14
+15:51,North Carolina,None,None,15,14
+15:23,Syracuse,Tyus Battle,Jumper,17,14
+14:53,North Carolina,Garrison Brooks,Jumper,17,16
+14:38,Syracuse,Marek Dolezaj,Layup,19,16
+14:13,North Carolina,Kenny Williams,Missed Three Point Jumper,19,16
+14:13,Syracuse,Marek Dolezaj,Defensive Rebound,19,16
+13:50,Syracuse,Oshae Brissett,Missed Three Point Jumper,19,16
+13:50,North Carolina,Coby White,Defensive Rebound,19,16
+13:34,North Carolina,Coby White,Missed Three Point Jumper,19,16
+13:34,North Carolina,Luke Maye,Offensive Rebound,19,16
+13:15,North Carolina,Cameron Johnson,Missed Jumper,19,16
+13:15,North Carolina,North Carolina,Offensive Rebound,19,16
+12:58,North Carolina,Luke Maye,Missed Three Point Jumper,19,16
+12:58,Syracuse,Tyus Battle,Defensive Rebound,19,16
+12:48,Syracuse,Elijah Hughes,Missed Three Point Jumper,19,16
+12:48,North Carolina,Kenny Williams,Defensive Rebound,19,16
+12:37,North Carolina,Luke Maye,Layup,19,18
+12:19,Syracuse,Oshae Brissett,Jumper,21,18
+12:19,North Carolina,Cameron Johnson,Foul,21,18
+12:19,Syracuse,Oshae Brissett,Missed Free Throw,21,18
+12:19,North Carolina,Luke Maye,Defensive Rebound,21,18
+12:07,North Carolina,Nassir Little,Layup,21,20
+11:56,Syracuse,Tyus Battle,Missed Jumper,21,20
+11:56,North Carolina,Cameron Johnson,Defensive Rebound,21,20
+11:49,North Carolina,Cameron Johnson,Turnover,21,20
+11:49,North Carolina,None,None,21,20
+11:30,Syracuse,Tyus Battle,Missed Three Point Jumper,21,20
+11:30,Syracuse,Marek Dolezaj,Offensive Rebound,21,20
+11:12,Syracuse,Marek Dolezaj,Foul,21,20
+11:12,Syracuse,Marek Dolezaj,Turnover,21,20
+10:46,Syracuse,Elijah Hughes,Foul,21,20
+10:46,North Carolina,Nassir Little,Free Throw,21,21
+10:46,North Carolina,Nassir Little,Free Throw,21,22
+10:30,Syracuse,Frank Howard,Missed Three Point Jumper,21,22
+10:30,Syracuse,Frank Howard,Offensive Rebound,21,22
+10:15,Syracuse,Oshae Brissett,Jumper,23,22
+9:57,Syracuse,Bourama Sidibe,Foul,23,22
+9:47,North Carolina,Nassir Little,Missed Layup,23,22
+9:47,Syracuse,Elijah Hughes,Block,23,22
+9:47,North Carolina,Kenny Williams,Offensive Rebound,23,22
+9:39,North Carolina,Brandon Robinson,Missed Jumper,23,22
+9:39,Syracuse,Syracuse,Defensive Rebound,23,22
+9:28,Syracuse,Oshae Brissett,Missed Three Point Jumper,23,22
+9:28,North Carolina,Garrison Brooks,Defensive Rebound,23,22
+9:17,North Carolina,Brandon Robinson,Three Point Jumper,23,25
+9:00,Syracuse,Marek Dolezaj,Layup,25,25
+8:52,Syracuse,Buddy Boeheim,Foul,25,25
+8:40,North Carolina,Brandon Robinson,Missed Three Point Jumper,25,25
+8:40,Syracuse,Tyus Battle,Defensive Rebound,25,25
+8:23,Syracuse,Frank Howard,Three Point Jumper,28,25
+8:11,Syracuse,Elijah Hughes,Foul,28,25
+8:11,North Carolina,Coby White,Free Throw,28,26
+8:11,North Carolina,Coby White,Free Throw,28,27
+7:55,North Carolina,None,None,28,27
+7:50,North Carolina,Garrison Brooks,Foul,28,27
+7:42,Syracuse,None,None,28,27
+7:32,North Carolina,Brandon Robinson,Foul,28,27
+7:32,Syracuse,Oshae Brissett,Missed Free Throw,28,27
+7:32,Syracuse,None,Team Rebound,28,27
+7:32,Syracuse,Oshae Brissett,Missed Free Throw,28,27
+7:32,North Carolina,Cameron Johnson,Defensive Rebound,28,27
+7:22,North Carolina,Cameron Johnson,Missed Three Point Jumper,28,27
+7:22,Syracuse,None,Team Rebound,28,27
+7:18,North Carolina,Garrison Brooks,Foul,28,27
+7:00,Syracuse,Frank Howard,Turnover,28,27
+6:50,North Carolina,Coby White,Missed Three Point Jumper,28,27
+6:50,Syracuse,None,Team Rebound,28,27
+6:37,Syracuse,Tyus Battle,Jumper,30,27
+6:21,North Carolina,Kenny Williams,Missed Three Point Jumper,30,27
+6:21,North Carolina,Nassir Little,Offensive Rebound,30,27
+6:16,Syracuse,Marek Dolezaj,Foul,30,27
+6:16,North Carolina,Nassir Little,Free Throw,30,28
+6:16,North Carolina,Nassir Little,Missed Free Throw,30,28
+6:16,Syracuse,Tyus Battle,Defensive Rebound,30,28
+6:13,Syracuse,Tyus Battle,Missed Layup,30,28
+6:13,North Carolina,Nassir Little,Block,30,28
+6:13,Syracuse,Elijah Hughes,Offensive Rebound,30,28
+6:09,Syracuse,Elijah Hughes,Three Point Jumper,33,28
+6:01,Syracuse,Bourama Sidibe,Foul,33,28
+6:01,North Carolina,Coby White,Free Throw,33,29
+6:01,North Carolina,Coby White,Free Throw,33,30
+5:43,Syracuse,Oshae Brissett,Missed Jumper,33,30
+5:43,North Carolina,Cameron Johnson,Block,33,30
+5:43,North Carolina,Cameron Johnson,Defensive Rebound,33,30
+5:33,North Carolina,Luke Maye,Missed Jumper,33,30
+5:33,Syracuse,Buddy Boeheim,Defensive Rebound,33,30
+5:22,Syracuse,Elijah Hughes,Three Point Jumper,36,30
+4:52,North Carolina,Coby White,Three Point Jumper,36,33
+4:27,Syracuse,Buddy Boeheim,Three Point Jumper,39,33
+4:05,North Carolina,Nassir Little,Missed Layup,39,33
+4:05,Syracuse,Bourama Sidibe,Block,39,33
+4:05,Syracuse,Oshae Brissett,Defensive Rebound,39,33
+3:53,North Carolina,Coby White,Foul,39,33
+3:53,North Carolina,None,None,39,33
+3:51,Syracuse,Tyus Battle,Turnover,39,33
+3:51,North Carolina,Kenny Williams,Steal,39,33
+3:47,Syracuse,Buddy Boeheim,Foul,39,33
+3:47,North Carolina,Cameron Johnson,Free Throw,39,34
+3:47,North Carolina,Cameron Johnson,Free Throw,39,35
+3:37,Syracuse,Frank Howard,Jumper,41,35
+3:09,North Carolina,Coby White,Turnover,41,35
+3:09,Syracuse,Frank Howard,Steal,41,35
+3:02,Syracuse,Frank Howard,Missed Three Point Jumper,41,35
+3:02,Syracuse,Tyus Battle,Offensive Rebound,41,35
+2:59,Syracuse,Tyus Battle,Missed Layup,41,35
+2:59,North Carolina,North Carolina,Defensive Rebound,41,35
+2:47,North Carolina,Cameron Johnson,Missed Three Point Jumper,41,35
+2:47,North Carolina,Luke Maye,Offensive Rebound,41,35
+2:31,Syracuse,Tyus Battle,Foul,41,35
+2:31,North Carolina,Luke Maye,Missed Free Throw,41,35
+2:31,North Carolina,None,Team Rebound,41,35
+2:31,North Carolina,Luke Maye,Free Throw,41,36
+2:13,Syracuse,Elijah Hughes,Three Point Jumper,44,36
+1:56,Syracuse,Bourama Sidibe,Foul,44,36
+1:56,North Carolina,Luke Maye,Free Throw,44,37
+1:56,North Carolina,Luke Maye,Free Throw,44,38
+1:41,Syracuse,Elijah Hughes,Missed Three Point Jumper,44,38
+1:41,Syracuse,Marek Dolezaj,Offensive Rebound,44,38
+1:37,North Carolina,Andrew Platek,Foul,44,38
+1:37,Syracuse,Marek Dolezaj,Free Throw,45,38
+1:37,Syracuse,Marek Dolezaj,Free Throw,46,38
+1:24,Syracuse,Oshae Brissett,Foul,46,38
+1:24,North Carolina,Coby White,Free Throw,46,39
+1:24,North Carolina,Coby White,Free Throw,46,40
+1:10,Syracuse,Elijah Hughes,Missed Jumper,46,40
+1:10,North Carolina,Luke Maye,Defensive Rebound,46,40
+0:55,North Carolina,Coby White,Missed Three Point Jumper,46,40
+0:55,North Carolina,Kenny Williams,Offensive Rebound,46,40
+0:33,North Carolina,Coby White,Jumper,46,42
+0:33,Syracuse,Marek Dolezaj,Foul,46,42
+0:33,North Carolina,Coby White,Free Throw,46,43
+0:06,Syracuse,Frank Howard,Missed Three Point Jumper,46,43
+0:06,North Carolina,Andrew Platek,Defensive Rebound,46,43
+0:01,North Carolina,Luke Maye,Missed Three Point Jumper,46,43
+0:01,North Carolina,None,Team Rebound,46,43
+0:00,North Carolina,None,None,46,43
+20:00,North Carolina,None,None,46,43
+19:41,North Carolina,Garrison Brooks,Turnover,46,43
+19:41,Syracuse,Oshae Brissett,Steal,46,43
+19:26,Syracuse,Tyus Battle,Turnover,46,43
+19:26,Syracuse,Tyus Battle,Foul,46,43
+19:18,North Carolina,Coby White,Three Point Jumper,46,46
+18:54,Syracuse,Oshae Brissett,Missed Three Point Jumper,46,46
+18:54,Syracuse,Paschal Chukwu,Offensive Rebound,46,46
+18:44,Syracuse,Frank Howard,Three Point Jumper,49,46
+18:16,North Carolina,Coby White,Three Point Jumper,49,49
+17:54,Syracuse,Oshae Brissett,Missed Jumper,49,49
+17:54,Syracuse,Syracuse,Offensive Rebound,49,49
+17:47,Syracuse,Frank Howard,Turnover,49,49
+17:47,North Carolina,Luke Maye,Steal,49,49
+17:43,North Carolina,Kenny Williams,Dunk,49,51
+17:28,Syracuse,Tyus Battle,Missed Jumper,49,51
+17:28,North Carolina,Coby White,Defensive Rebound,49,51
+17:17,North Carolina,Coby White,Layup,49,53
+17:17,Syracuse,Frank Howard,Foul,49,53
+17:17,Syracuse,None,None,49,53
+17:17,North Carolina,Coby White,Free Throw,49,54
+16:59,Syracuse,Elijah Hughes,Missed Three Point Jumper,49,54
+16:59,North Carolina,Cameron Johnson,Defensive Rebound,49,54
+16:30,North Carolina,Cameron Johnson,Missed Three Point Jumper,49,54
+16:30,Syracuse,None,Team Rebound,49,54
+16:28,North Carolina,Kenny Williams,Foul,49,54
+16:01,Syracuse,Elijah Hughes,Missed Three Point Jumper,49,54
+16:01,North Carolina,North Carolina,Defensive Rebound,49,54
+15:58,North Carolina,None,None,49,54
+15:47,North Carolina,Garrison Brooks,Missed Layup,49,54
+15:47,North Carolina,Garrison Brooks,Offensive Rebound,49,54
+15:47,North Carolina,None,None,49,56
+15:33,North Carolina,Kenny Williams,Foul,49,56
+15:26,Syracuse,Frank Howard,Turnover,49,56
+15:15,North Carolina,Garrison Brooks,Dunk,49,58
+15:03,Syracuse,Tyus Battle,Turnover,49,58
+14:55,North Carolina,Coby White,Missed Three Point Jumper,49,58
+14:55,North Carolina,Kenny Williams,Offensive Rebound,49,58
+14:51,North Carolina,Cameron Johnson,Missed Three Point Jumper,49,58
+14:51,Syracuse,Buddy Boeheim,Defensive Rebound,49,58
+14:35,North Carolina,Garrison Brooks,Foul,49,58
+14:35,Syracuse,Tyus Battle,Free Throw,50,58
+14:35,Syracuse,Tyus Battle,Free Throw,51,58
+14:18,North Carolina,Kenny Williams,Turnover,51,58
+14:18,Syracuse,Paschal Chukwu,Steal,51,58
+14:05,North Carolina,Garrison Brooks,Foul,51,58
+14:05,Syracuse,Tyus Battle,Free Throw,52,58
+14:05,Syracuse,Tyus Battle,Free Throw,53,58
+13:42,North Carolina,Luke Maye,Missed Three Point Jumper,53,58
+13:42,North Carolina,Nassir Little,Offensive Rebound,53,58
+13:38,North Carolina,Nassir Little,Turnover,53,58
+13:32,Syracuse,Tyus Battle,Missed Three Point Jumper,53,58
+13:32,Syracuse,Paschal Chukwu,Offensive Rebound,53,58
+13:29,Syracuse,None,None,53,58
+13:11,Syracuse,Buddy Boeheim,Three Point Jumper,56,58
+12:54,North Carolina,Nassir Little,Missed Layup,56,58
+12:54,North Carolina,Nassir Little,Offensive Rebound,56,58
+12:47,Syracuse,Paschal Chukwu,Foul,56,58
+12:34,North Carolina,Kenny Williams,Missed Three Point Jumper,56,58
+12:34,North Carolina,Cameron Johnson,Offensive Rebound,56,58
+12:29,North Carolina,Cameron Johnson,Layup,56,60
+12:15,Syracuse,Tyus Battle,Three Point Jumper,59,60
+11:59,North Carolina,Coby White,Three Point Jumper,59,63
+11:49,North Carolina,None,None,58,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,Syracuse,Tyus Battle,Missed Free Throw,59,63
+11:49,Syracuse,None,Team Rebound,59,63
+11:49,North Carolina,None,None,59,63
+11:49,Syracuse,Tyus Battle,Free Throw,60,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,None,None,59,63
+11:49,North Carolina,Luke Maye,Foul,59,63
+11:49,North Carolina,None,None,59,63
+11:37,North Carolina,Nassir Little,Missed Three Point Jumper,60,63
+11:37,Syracuse,Paschal Chukwu,Defensive Rebound,60,63
+11:16,Syracuse,Tyus Battle,Three Point Jumper,63,63
+11:03,North Carolina,Luke Maye,Jumper,63,65
+10:48,North Carolina,Cameron Johnson,Foul,63,65
+10:48,Syracuse,Elijah Hughes,Missed Free Throw,63,65
+10:48,Syracuse,None,Team Rebound,63,65
+10:48,Syracuse,Elijah Hughes,Missed Free Throw,63,65
+10:48,North Carolina,Luke Maye,Defensive Rebound,63,65
+10:42,North Carolina,Cameron Johnson,Missed Jumper,63,65
+10:42,North Carolina,Nassir Little,Offensive Rebound,63,65
+10:38,North Carolina,Nassir Little,Missed Jumper,63,65
+10:38,North Carolina,Luke Maye,Offensive Rebound,63,65
+10:23,Syracuse,Elijah Hughes,Foul,63,65
+10:23,North Carolina,Nassir Little,Free Throw,63,66
+10:23,North Carolina,Nassir Little,Free Throw,63,67
+10:17,Syracuse,Buddy Boeheim,Missed Three Point Jumper,63,67
+10:17,North Carolina,Luke Maye,Defensive Rebound,63,67
+10:07,North Carolina,Seventh Woods,Layup,63,69
+9:47,Syracuse,Buddy Boeheim,Jumper,65,69
+9:38,North Carolina,Nassir Little,Layup,65,71
+9:27,Syracuse,Tyus Battle,Three Point Jumper,68,71
+9:27,North Carolina,Kenny Williams,Foul,68,71
+9:27,Syracuse,Tyus Battle,Free Throw,69,71
+9:10,North Carolina,Luke Maye,Missed Jumper,69,71
+9:10,North Carolina,Cameron Johnson,Offensive Rebound,69,71
+9:05,North Carolina,Cameron Johnson,Missed Layup,69,71
+9:05,North Carolina,Luke Maye,Offensive Rebound,69,71
+8:59,North Carolina,Cameron Johnson,Three Point Jumper,69,74
+8:48,Syracuse,Buddy Boeheim,Turnover,69,74
+8:48,North Carolina,Nassir Little,Steal,69,74
+8:44,North Carolina,Luke Maye,Missed Three Point Jumper,69,74
+8:44,Syracuse,Bourama Sidibe,Defensive Rebound,69,74
+8:29,North Carolina,Brandon Robinson,Foul,69,74
+8:29,Syracuse,Tyus Battle,Free Throw,70,74
+8:29,Syracuse,Tyus Battle,Free Throw,71,74
+8:12,North Carolina,Nassir Little,Missed Three Point Jumper,71,74
+8:12,North Carolina,Cameron Johnson,Offensive Rebound,71,74
+8:08,Syracuse,Elijah Hughes,Foul,71,74
+8:08,North Carolina,Cameron Johnson,Free Throw,71,75
+8:08,North Carolina,Cameron Johnson,Free Throw,71,76
+7:49,Syracuse,Oshae Brissett,Jumper,73,76
+7:49,North Carolina,Nassir Little,Foul,73,76
+7:49,North Carolina,None,None,73,76
+7:49,Syracuse,Oshae Brissett,Missed Free Throw,73,76
+7:49,North Carolina,Luke Maye,Defensive Rebound,73,76
+7:23,North Carolina,Luke Maye,Turnover,73,76
+6:56,Syracuse,Tyus Battle,Missed Jumper,73,76
+6:56,North Carolina,Nassir Little,Defensive Rebound,73,76
+6:53,Syracuse,Marek Dolezaj,Foul,73,76
+6:38,North Carolina,Coby White,Three Point Jumper,73,79
+6:22,Syracuse,Oshae Brissett,Turnover,73,79
+6:22,North Carolina,Coby White,Steal,73,79
+6:18,North Carolina,Coby White,Dunk,73,81
+6:17,Syracuse,None,None,73,81
+5:49,Syracuse,Oshae Brissett,Missed Jumper,73,81
+5:49,North Carolina,North Carolina,Defensive Rebound,73,81
+5:25,North Carolina,Coby White,Turnover,73,81
+5:25,Syracuse,Paschal Chukwu,Steal,73,81
+4:59,Syracuse,Frank Howard,Missed Three Point Jumper,73,81
+4:59,North Carolina,Coby White,Defensive Rebound,73,81
+4:46,North Carolina,Kenny Williams,Missed Jumper,73,81
+4:46,Syracuse,Elijah Hughes,Defensive Rebound,73,81
+4:37,Syracuse,Elijah Hughes,Turnover,73,81
+4:37,North Carolina,Coby White,Steal,73,81
+4:32,Syracuse,Frank Howard,Foul,73,81
+4:32,North Carolina,Kenny Williams,Free Throw,73,82
+4:32,North Carolina,Kenny Williams,Free Throw,73,83
+4:19,North Carolina,Coby White,Foul,73,83
+4:19,Syracuse,Tyus Battle,Missed Free Throw,73,83
+4:19,Syracuse,None,Team Rebound,73,83
+4:19,Syracuse,Tyus Battle,Free Throw,74,83
+3:53,North Carolina,Luke Maye,Missed Jumper,74,83
+3:53,Syracuse,Oshae Brissett,Defensive Rebound,74,83
+3:37,Syracuse,Oshae Brissett,Layup,76,83
+3:37,North Carolina,Garrison Brooks,Foul,76,83
+3:37,North Carolina,None,None,76,83
+3:37,Syracuse,Oshae Brissett,Missed Free Throw,76,83
+3:37,North Carolina,Nassir Little,Defensive Rebound,76,83
+3:16,North Carolina,Nassir Little,Missed Jumper,76,83
+3:16,North Carolina,Luke Maye,Offensive Rebound,76,83
+3:10,North Carolina,Luke Maye,Missed Jumper,76,83
+3:10,Syracuse,Elijah Hughes,Block,76,83
+3:10,North Carolina,North Carolina,Offensive Rebound,76,83
+3:04,North Carolina,Coby White,Turnover,76,83
+2:58,Syracuse,Frank Howard,Missed Jumper,76,83
+2:58,North Carolina,Luke Maye,Defensive Rebound,76,83
+2:42,North Carolina,Coby White,Missed Three Point Jumper,76,83
+2:42,Syracuse,Marek Dolezaj,Defensive Rebound,76,83
+2:18,Syracuse,Oshae Brissett,Layup,78,83
+2:09,Syracuse,Marek Dolezaj,Foul,78,83
+2:09,North Carolina,Nassir Little,Free Throw,78,84
+2:09,North Carolina,Nassir Little,Free Throw,78,85
+1:59,Syracuse,Buddy Boeheim,Missed Three Point Jumper,78,85
+1:59,North Carolina,North Carolina,Defensive Rebound,78,85
+1:46,North Carolina,Luke Maye,Missed Layup,78,85
+1:46,Syracuse,Paschal Chukwu,Defensive Rebound,78,85
+1:38,North Carolina,Coby White,Foul,78,85
+1:38,Syracuse,Tyus Battle,Missed Free Throw,78,85
+1:38,Syracuse,None,Team Rebound,78,85
+1:38,Syracuse,Tyus Battle,Free Throw,79,85
+1:38,Syracuse,Tyus Battle,Free Throw,80,85
+1:24,Syracuse,Elijah Hughes,Foul,80,85
+1:24,North Carolina,Cameron Johnson,Missed Free Throw,80,85
+1:24,Syracuse,Oshae Brissett,Defensive Rebound,80,85
+1:15,Syracuse,Tyus Battle,Missed Layup,80,85
+1:15,North Carolina,North Carolina,Defensive Rebound,80,85
+1:09,Syracuse,Oshae Brissett,Foul,80,85
+1:09,North Carolina,Kenny Williams,Free Throw,80,86
+1:09,North Carolina,Kenny Williams,Free Throw,80,87
+1:09,North Carolina,None,None,80,87
+1:02,Syracuse,Tyus Battle,Missed Three Point Jumper,80,87
+1:02,North Carolina,Kenny Williams,Defensive Rebound,80,87
+0:45,Syracuse,Tyus Battle,Foul,80,87
+0:45,North Carolina,Coby White,Free Throw,80,88
+0:45,North Carolina,Coby White,Free Throw,80,89
+0:37,Syracuse,Paschal Chukwu,Dunk,82,89
+0:35,Syracuse,Buddy Boeheim,Foul,82,89
+0:35,North Carolina,Brandon Robinson,Free Throw,82,90
+0:35,North Carolina,Brandon Robinson,Free Throw,82,91
+0:30,Syracuse,Frank Howard,Missed Jumper,82,91
+0:30,North Carolina,Coby White,Defensive Rebound,82,91
+0:22,North Carolina,Kenny Williams,Layup,82,93
+0:13,Syracuse,Tyus Battle,Three Point Jumper,85,93
+0:00,North Carolina,None,None,85,93

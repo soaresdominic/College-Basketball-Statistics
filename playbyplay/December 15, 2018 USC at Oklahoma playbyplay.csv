@@ -1,0 +1,386 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Oklahoma,None,None,0,0
+19:58,Oklahoma,Christian James,Dunk,0,2
+19:34,USC,Bennie Boatwright,Turnover,0,2
+19:23,Oklahoma,Aaron Calixte,Turnover,0,2
+19:08,USC,Nick Rakocevic,Missed Layup,0,2
+19:08,Oklahoma,Kristian Doolittle,Defensive Rebound,0,2
+18:55,Oklahoma,Brady Manek,Three Point Jumper,0,5
+18:40,USC,Nick Rakocevic,Turnover,0,5
+18:40,Oklahoma,Christian James,Steal,0,5
+18:36,Oklahoma,Christian James,Turnover,0,5
+18:25,USC,Jonah Mathews,Missed Jumper,0,5
+18:25,Oklahoma,Miles Reynolds,Defensive Rebound,0,5
+18:08,Oklahoma,Kristian Doolittle,Turnover,0,5
+17:57,USC,Derryck Thornton,Missed Jumper,0,5
+17:57,Oklahoma,Kristian Doolittle,Defensive Rebound,0,5
+17:49,USC,Jonah Mathews,Foul,0,5
+17:39,Oklahoma,Aaron Calixte,Turnover,0,5
+17:31,USC,Elijah Weaver,Jumper,2,5
+17:29,Oklahoma,Brady Manek,Missed Three Point Jumper,2,5
+17:29,USC,USC,Defensive Rebound,2,5
+17:19,USC,Bennie Boatwright,Missed Jumper,2,5
+17:19,Oklahoma,Miles Reynolds,Defensive Rebound,2,5
+17:10,Oklahoma,Aaron Calixte,Missed Three Point Jumper,2,5
+17:10,USC,Bennie Boatwright,Defensive Rebound,2,5
+16:55,USC,Derryck Thornton,Turnover,2,5
+16:48,Oklahoma,Brady Manek,Missed Jumper,2,5
+16:48,USC,Nick Rakocevic,Defensive Rebound,2,5
+16:25,USC,None,None,2,5
+16:23,USC,Derryck Thornton,Missed Jumper,2,5
+16:23,USC,Nick Rakocevic,Offensive Rebound,2,5
+16:14,USC,Nick Rakocevic,Missed Layup,2,5
+16:14,Oklahoma,Aaron Calixte,Defensive Rebound,2,5
+16:02,Oklahoma,Aaron Calixte,Jumper,2,7
+15:57,USC,Derryck Thornton,Missed Three Point Jumper,2,7
+15:57,Oklahoma,Jamuni McNeace,Defensive Rebound,2,7
+15:45,USC,Derryck Thornton,Foul,2,7
+15:45,Oklahoma,None,None,2,7
+15:29,Oklahoma,Jamuni McNeace,Layup,2,9
+15:17,USC,Bennie Boatwright,Missed Three Point Jumper,2,9
+15:17,USC,Nick Rakocevic,Offensive Rebound,2,9
+15:08,USC,Elijah Weaver,Turnover,2,9
+15:08,Oklahoma,Jamal Bieniemy,Steal,2,9
+14:56,USC,Jonah Mathews,Foul,2,9
+14:56,Oklahoma,Christian James,Missed Free Throw,2,9
+14:56,Oklahoma,None,Team Rebound,2,9
+14:56,Oklahoma,Christian James,Free Throw,2,10
+14:42,USC,Elijah Weaver,Missed Jumper,2,10
+14:42,USC,Shaqquan Aaron,Offensive Rebound,2,10
+14:32,USC,Derryck Thornton,Layup,4,10
+14:32,Oklahoma,Jamuni McNeace,Foul,4,10
+14:32,USC,Derryck Thornton,Missed Free Throw,4,10
+14:32,Oklahoma,Matt Freeman,Defensive Rebound,4,10
+14:13,Oklahoma,Rashard Odomes,Foul,4,10
+14:13,Oklahoma,Rashard Odomes,Turnover,4,10
+13:53,USC,Bennie Boatwright,Turnover,4,10
+13:43,USC,Derryck Thornton,Foul,4,10
+13:39,Oklahoma,Christian James,Missed Jumper,4,10
+13:39,USC,Jordan Usher,Defensive Rebound,4,10
+13:31,USC,Jordan Usher,Three Point Jumper,7,10
+13:17,USC,Elijah Weaver,Foul,7,10
+12:56,Oklahoma,Rashard Odomes,Layup,7,12
+12:39,USC,Bennie Boatwright,Missed Jumper,7,12
+12:39,Oklahoma,Christian James,Defensive Rebound,7,12
+12:15,Oklahoma,Christian James,Missed Three Point Jumper,7,12
+12:15,USC,Nick Rakocevic,Defensive Rebound,7,12
+11:50,USC,Elijah Weaver,Jumper,9,12
+11:45,Oklahoma,None,None,9,12
+11:39,Oklahoma,Brady Manek,Missed Three Point Jumper,9,12
+11:39,USC,Shaqquan Aaron,Defensive Rebound,9,12
+11:23,Oklahoma,Hannes Polla,Foul,9,12
+11:16,USC,Shaqquan Aaron,Dunk,11,12
+11:01,USC,Jordan Usher,Foul,11,12
+10:56,Oklahoma,Brady Manek,Turnover,11,12
+10:45,USC,Jordan Usher,Jumper,13,12
+10:30,Oklahoma,Brady Manek,Missed Jumper,13,12
+10:30,USC,Shaqquan Aaron,Defensive Rebound,13,12
+9:58,Oklahoma,Kristian Doolittle,Foul,13,12
+9:58,USC,Nick Rakocevic,Missed Free Throw,13,12
+9:58,USC,None,Team Rebound,13,12
+9:58,USC,Nick Rakocevic,Free Throw,14,12
+9:47,Oklahoma,Aaron Calixte,Turnover,14,12
+9:27,USC,Nick Rakocevic,Missed Jumper,14,12
+9:27,Oklahoma,Christian James,Defensive Rebound,14,12
+9:17,Oklahoma,Brady Manek,Dunk,14,14
+9:01,USC,Shaqquan Aaron,Missed Jumper,14,14
+9:01,Oklahoma,Kristian Doolittle,Defensive Rebound,14,14
+8:52,Oklahoma,Christian James,Layup,14,16
+8:51,USC,None,None,14,16
+8:40,USC,J'Raan Brooks,Missed Jumper,14,16
+8:40,Oklahoma,Kristian Doolittle,Defensive Rebound,14,16
+8:28,Oklahoma,Kristian Doolittle,Layup,14,18
+8:28,USC,Jordan Usher,Foul,14,18
+8:28,Oklahoma,Kristian Doolittle,Free Throw,14,19
+8:14,Oklahoma,Kristian Doolittle,Foul,14,19
+8:10,USC,Jordan Usher,Missed Jumper,14,19
+8:10,Oklahoma,Christian James,Defensive Rebound,14,19
+7:54,Oklahoma,Jamuni McNeace,Missed Jumper,14,19
+7:54,Oklahoma,Oklahoma,Offensive Rebound,14,19
+7:53,USC,Jordan Usher,Foul,14,19
+7:53,Oklahoma,None,None,14,19
+7:53,Oklahoma,Brady Manek,Free Throw,14,20
+7:53,Oklahoma,Brady Manek,Free Throw,14,21
+7:32,USC,Nick Rakocevic,Missed Jumper,14,21
+7:32,Oklahoma,Christian James,Defensive Rebound,14,21
+7:11,Oklahoma,Aaron Calixte,Jumper,14,23
+6:59,USC,Jonah Mathews,Missed Jumper,14,23
+6:59,USC,Bennie Boatwright,Offensive Rebound,14,23
+6:52,USC,Bennie Boatwright,Missed Layup,14,23
+6:52,Oklahoma,Christian James,Defensive Rebound,14,23
+6:40,Oklahoma,Jamuni McNeace,Missed Jumper,14,23
+6:40,USC,Shaqquan Aaron,Defensive Rebound,14,23
+6:24,Oklahoma,Miles Reynolds,Foul,14,23
+6:24,USC,Jonah Mathews,Free Throw,15,23
+6:24,USC,Jonah Mathews,Missed Free Throw,15,23
+6:24,USC,Elijah Weaver,Offensive Rebound,15,23
+6:08,USC,Jonah Mathews,Missed Three Point Jumper,15,23
+6:08,USC,Nick Rakocevic,Offensive Rebound,15,23
+5:53,USC,Nick Rakocevic,Layup,17,23
+5:44,Oklahoma,Miles Reynolds,Layup,17,25
+5:32,USC,Bennie Boatwright,Missed Layup,17,25
+5:32,Oklahoma,Christian James,Defensive Rebound,17,25
+5:32,Oklahoma,Christian James,Layup,17,27
+5:32,USC,None,None,17,27
+5:17,USC,Bennie Boatwright,Missed Three Point Jumper,17,27
+5:17,Oklahoma,Christian James,Defensive Rebound,17,27
+5:06,USC,Elijah Weaver,Foul,17,27
+5:06,Oklahoma,Miles Reynolds,Free Throw,17,28
+5:06,Oklahoma,Miles Reynolds,Missed Free Throw,17,28
+5:06,Oklahoma,Miles Reynolds,Offensive Rebound,17,28
+4:59,Oklahoma,Miles Reynolds,Missed Layup,17,28
+4:59,USC,Nick Rakocevic,Defensive Rebound,17,28
+4:53,USC,Shaqquan Aaron,Layup,19,28
+4:53,Oklahoma,Brady Manek,Foul,19,28
+4:53,USC,Shaqquan Aaron,Free Throw,20,28
+4:53,Oklahoma,Miles Reynolds,Turnover,20,28
+4:33,USC,Shaqquan Aaron,Missed Jumper,20,28
+4:33,USC,Elijah Weaver,Offensive Rebound,20,28
+4:26,USC,Elijah Weaver,Turnover,20,28
+4:26,Oklahoma,Aaron Calixte,Steal,20,28
+4:05,USC,Shaqquan Aaron,Turnover,20,28
+4:05,USC,Shaqquan Aaron,Foul,20,28
+4:05,Oklahoma,None,None,20,28
+4:01,Oklahoma,None,None,20,28
+3:51,USC,Nick Rakocevic,Foul,20,28
+3:51,Oklahoma,Christian James,Missed Free Throw,20,28
+3:51,Oklahoma,None,Team Rebound,20,28
+3:51,Oklahoma,Christian James,Free Throw,20,29
+3:28,USC,Jonah Mathews,Missed Three Point Jumper,20,29
+3:28,Oklahoma,Jamal Bieniemy,Defensive Rebound,20,29
+3:09,USC,Bennie Boatwright,Foul,20,29
+3:09,Oklahoma,Miles Reynolds,Missed Free Throw,20,29
+3:09,Oklahoma,None,Team Rebound,20,29
+3:09,Oklahoma,Miles Reynolds,Free Throw,20,30
+2:52,USC,Derryck Thornton,Turnover,20,30
+2:52,Oklahoma,Jamal Bieniemy,Steal,20,30
+2:47,Oklahoma,Miles Reynolds,Layup,20,32
+2:33,USC,Nick Rakocevic,Jumper,22,32
+2:27,Oklahoma,Christian James,Missed Three Point Jumper,22,32
+2:27,USC,Nick Rakocevic,Defensive Rebound,22,32
+2:11,USC,Bennie Boatwright,Turnover,22,32
+2:09,Oklahoma,None,None,22,32
+1:59,Oklahoma,Miles Reynolds,Three Point Jumper,22,35
+1:45,USC,Derryck Thornton,Turnover,22,35
+1:45,Oklahoma,Miles Reynolds,Steal,22,35
+1:42,Oklahoma,Miles Reynolds,Layup,22,37
+1:24,USC,Elijah Weaver,Three Point Jumper,25,37
+1:15,Oklahoma,Matt Freeman,Three Point Jumper,25,40
+1:03,USC,Shaqquan Aaron,Missed Jumper,25,40
+1:03,USC,Bennie Boatwright,Offensive Rebound,25,40
+0:57,USC,Elijah Weaver,Missed Three Point Jumper,25,40
+0:57,Oklahoma,Jamuni McNeace,Defensive Rebound,25,40
+0:45,Oklahoma,Jamal Bieniemy,Turnover,25,40
+0:45,USC,Bennie Boatwright,Steal,25,40
+0:37,USC,Elijah Weaver,Missed Three Point Jumper,25,40
+0:37,Oklahoma,Aaron Calixte,Defensive Rebound,25,40
+0:06,Oklahoma,Brady Manek,Turnover,25,40
+0:01,USC,Jonah Mathews,Three Point Jumper,28,40
+0:00,Oklahoma,None,None,28,40
+20:00,Oklahoma,None,None,28,40
+19:54,USC,Shaqquan Aaron,Missed Jumper,28,40
+19:54,Oklahoma,Christian James,Defensive Rebound,28,40
+19:32,Oklahoma,Aaron Calixte,Turnover,28,40
+19:20,Oklahoma,Christian James,Foul,28,40
+19:09,USC,Jonah Mathews,Jumper,30,40
+18:55,Oklahoma,Brady Manek,Jumper,30,42
+18:40,USC,Jonah Mathews,Missed Three Point Jumper,30,42
+18:40,Oklahoma,Brady Manek,Defensive Rebound,30,42
+18:34,Oklahoma,Miles Reynolds,Jumper,30,44
+18:11,USC,Nick Rakocevic,Layup,32,44
+18:00,Oklahoma,Aaron Calixte,Missed Three Point Jumper,32,44
+18:00,USC,Jonah Mathews,Defensive Rebound,32,44
+17:49,USC,Nick Rakocevic,Missed Jumper,32,44
+17:49,Oklahoma,Kristian Doolittle,Block,32,44
+17:49,Oklahoma,Kristian Doolittle,Defensive Rebound,32,44
+17:30,Oklahoma,Oklahoma ,Turnover,32,44
+17:15,USC,Jordan Usher,Missed Layup,32,44
+17:15,Oklahoma,Brady Manek,Defensive Rebound,32,44
+17:10,Oklahoma,Brady Manek,Turnover,32,44
+17:10,USC,Shaqquan Aaron,Steal,32,44
+17:09,USC,Shaqquan Aaron,Layup,34,44
+17:04,Oklahoma,Aaron Calixte,Missed Layup,34,44
+17:04,USC,Derryck Thornton,Defensive Rebound,34,44
+16:54,USC,Jonah Mathews,Three Point Jumper,37,44
+16:27,Oklahoma,Christian James,Missed Three Point Jumper,37,44
+16:27,USC,USC,Defensive Rebound,37,44
+16:10,USC,Nick Rakocevic,Missed Jumper,37,44
+16:10,USC,Nick Rakocevic,Offensive Rebound,37,44
+16:10,Oklahoma,Kristian Doolittle,Foul,37,44
+16:08,USC,Nick Rakocevic,Free Throw,39,44
+16:08,USC,Nick Rakocevic,Free Throw,38,44
+15:58,USC,Jonah Mathews,Foul,39,44
+15:58,Oklahoma,None,None,39,44
+15:55,Oklahoma,Matt Freeman,Three Point Jumper,39,47
+15:30,USC,Nick Rakocevic,Missed Layup,39,47
+15:30,Oklahoma,Jamuni McNeace,Defensive Rebound,39,47
+15:16,Oklahoma,Christian James,Missed Layup,39,47
+15:16,Oklahoma,Christian James,Offensive Rebound,39,47
+15:15,Oklahoma,Christian James,Missed Layup,39,47
+15:15,USC,Nick Rakocevic,Block,39,47
+15:15,Oklahoma,Christian James,Offensive Rebound,39,47
+15:03,Oklahoma,Matt Freeman,Missed Jumper,39,47
+15:03,USC,Shaqquan Aaron,Defensive Rebound,39,47
+14:52,Oklahoma,Matt Freeman,Foul,39,47
+14:52,USC,Elijah Weaver,Free Throw,40,47
+14:52,USC,Elijah Weaver,Free Throw,41,47
+14:36,Oklahoma,Christian James,Jumper,41,49
+14:23,USC,Nick Rakocevic,Layup,43,49
+14:04,Oklahoma,Miles Reynolds,Layup,43,51
+13:57,USC,Derryck Thornton,Turnover,43,51
+13:57,Oklahoma,Jamuni McNeace,Steal,43,51
+13:53,Oklahoma,Jamuni McNeace,Turnover,43,51
+13:53,USC,Derryck Thornton,Steal,43,51
+13:51,USC,Derryck Thornton,Layup,45,51
+13:51,Oklahoma,Jamuni McNeace,Foul,45,51
+13:51,USC,Derryck Thornton,Missed Free Throw,45,51
+13:51,USC,Nick Rakocevic,Offensive Rebound,45,51
+13:51,USC,None,None,47,51
+13:37,Oklahoma,Miles Reynolds,Missed Three Point Jumper,47,51
+13:37,USC,Shaqquan Aaron,Defensive Rebound,47,51
+13:24,USC,Nick Rakocevic,Missed Jumper,47,51
+13:24,Oklahoma,Jamal Bieniemy,Defensive Rebound,47,51
+13:14,Oklahoma,Christian James,Missed Three Point Jumper,47,51
+13:14,USC,Shaqquan Aaron,Missed Three Point Jumper,47,51
+13:14,Oklahoma,Jamal Bieniemy,Defensive Rebound,47,51
+13:14,USC,Elijah Weaver,Defensive Rebound,47,51
+12:44,Oklahoma,Miles Reynolds,Layup,47,53
+12:27,Oklahoma,Jamuni McNeace,Foul,47,53
+12:27,USC,Derryck Thornton,Missed Free Throw,47,53
+12:27,USC,None,Team Rebound,47,53
+12:27,USC,Derryck Thornton,Free Throw,48,53
+12:13,Oklahoma,Christian James,Layup,48,55
+12:13,USC,Shaqquan Aaron,Foul,48,55
+12:13,Oklahoma,Christian James,Free Throw,48,56
+12:11,USC,Elijah Weaver,Turnover,48,56
+12:11,Oklahoma,Kristian Doolittle,Steal,48,56
+12:06,Oklahoma,Rashard Odomes,Dunk,48,58
+12:04,USC,None,None,48,58
+12:04,Oklahoma,None,None,48,58
+11:51,USC,Jonah Mathews,Missed Jumper,48,58
+11:51,Oklahoma,Jamal Bieniemy,Defensive Rebound,48,58
+11:39,Oklahoma,Rashard Odomes,Turnover,48,58
+11:39,Oklahoma,None,None,48,58
+11:16,USC,Jonah Mathews,Missed Three Point Jumper,48,58
+11:16,Oklahoma,Jamal Bieniemy,Defensive Rebound,48,58
+11:04,Oklahoma,Rashard Odomes,Three Point Jumper,48,61
+10:48,USC,Jordan Usher,Foul,48,61
+10:48,USC,Jonah Mathews,Turnover,48,61
+10:37,USC,Shaqquan Aaron,Foul,48,61
+10:36,Oklahoma,Brady Manek,Layup,48,63
+10:36,USC,Jonah Mathews,Foul,48,63
+10:36,Oklahoma,Brady Manek,Missed Free Throw,48,63
+10:36,USC,Nick Rakocevic,Defensive Rebound,48,63
+10:14,USC,Derryck Thornton,Foul,48,63
+10:14,USC,Derryck Thornton,Turnover,48,63
+10:05,Oklahoma,Christian James,Turnover,48,63
+10:05,USC,Nick Rakocevic,Steal,48,63
+9:39,Oklahoma,Brady Manek,Foul,48,63
+9:39,USC,Jonah Mathews,Free Throw,49,63
+9:39,USC,Jonah Mathews,Free Throw,50,63
+9:18,Oklahoma,Kristian Doolittle,Jumper,50,65
+9:02,USC,Bennie Boatwright,Missed Jumper,50,65
+9:02,USC,Bennie Boatwright,Offensive Rebound,50,65
+8:53,USC,Bennie Boatwright,Missed Layup,50,65
+8:53,Oklahoma,Christian James,Defensive Rebound,50,65
+8:41,Oklahoma,Brady Manek,Three Point Jumper,50,68
+8:25,USC,Bennie Boatwright,Three Point Jumper,53,68
+8:02,Oklahoma,Kristian Doolittle,Missed Jumper,53,68
+8:02,USC,Shaqquan Aaron,Defensive Rebound,53,68
+7:56,USC,Nick Rakocevic,Turnover,53,68
+7:56,Oklahoma,None,None,53,68
+7:33,Oklahoma,Aaron Calixte,Missed Jumper,53,68
+7:33,USC,Jonah Mathews,Block,53,68
+7:33,Oklahoma,Oklahoma,Offensive Rebound,53,68
+7:31,USC,Shaqquan Aaron,Foul,53,68
+7:31,Oklahoma,Miles Reynolds,Missed Free Throw,53,68
+7:31,Oklahoma,None,Team Rebound,53,68
+7:31,Oklahoma,Miles Reynolds,Free Throw,53,69
+7:17,USC,Bennie Boatwright,Layup,55,69
+7:17,Oklahoma,Kristian Doolittle,Foul,55,69
+7:17,USC,Bennie Boatwright,Free Throw,56,69
+7:08,Oklahoma,Aaron Calixte,Layup,56,71
+7:00,USC,Jordan Usher,Missed Layup,56,71
+6:48,Oklahoma,Aaron Calixte,Layup,56,73
+6:33,USC,Jonah Mathews,Turnover,56,73
+6:18,Oklahoma,Jamuni McNeace,Turnover,56,73
+6:18,USC,Bennie Boatwright,Steal,56,73
+6:11,USC,Derryck Thornton,Missed Three Point Jumper,56,73
+6:08,USC,Jordan Usher,Offensive Rebound,56,73
+6:08,Oklahoma,Aaron Calixte,Foul,56,73
+6:08,USC,Jordan Usher,Free Throw,57,73
+6:08,USC,Jordan Usher,Free Throw,58,73
+5:51,Oklahoma,Jamuni McNeace,Missed Layup,58,73
+5:51,USC,Jordan Usher,Defensive Rebound,58,73
+5:39,Oklahoma,Jamuni McNeace,Foul,58,73
+5:39,USC,Nick Rakocevic,Missed Free Throw,58,73
+5:39,Oklahoma,Oklahoma,Defensive Rebound,58,73
+5:21,Oklahoma,Brady Manek,Missed Layup,58,73
+5:21,USC,Nick Rakocevic,Defensive Rebound,58,73
+5:05,USC,Bennie Boatwright,Layup,60,73
+5:05,Oklahoma,Brady Manek,Foul,60,73
+5:05,USC,Bennie Boatwright,Free Throw,61,73
+4:51,USC,None,None,61,73
+4:44,Oklahoma,Miles Reynolds,Missed Layup,61,73
+4:44,USC,Nick Rakocevic,Defensive Rebound,61,73
+4:21,USC,Derryck Thornton,Missed Jumper,61,73
+4:21,Oklahoma,Christian James,Defensive Rebound,61,73
+4:21,Oklahoma,Christian James,Missed Jumper,61,73
+4:21,USC,Nick Rakocevic,Defensive Rebound,61,73
+4:16,Oklahoma,Matt Freeman,Foul,61,73
+4:13,USC,Nick Rakocevic,Free Throw,62,73
+4:13,USC,Nick Rakocevic,Free Throw,63,73
+3:59,USC,Jonah Mathews,Foul,63,73
+3:59,Oklahoma,None,None,63,73
+3:59,Oklahoma,Miles Reynolds,Free Throw,63,74
+3:59,Oklahoma,Miles Reynolds,Free Throw,63,75
+3:49,USC,Bennie Boatwright,Missed Three Point Jumper,63,75
+3:49,Oklahoma,Christian James,Defensive Rebound,63,75
+3:29,Oklahoma,Christian James,Layup,63,77
+2:58,USC,Nick Rakocevic,Layup,65,77
+2:58,Oklahoma,Kristian Doolittle,Foul,65,77
+2:58,USC,Nick Rakocevic,Missed Free Throw,65,77
+2:58,USC,Nick Rakocevic,Offensive Rebound,65,77
+2:54,USC,Elijah Weaver,Turnover,65,77
+2:46,Oklahoma,Christian James,Missed Three Point Jumper,65,77
+2:46,Oklahoma,Brady Manek,Offensive Rebound,65,77
+2:46,Oklahoma,None,None,65,77
+2:46,Oklahoma,Matt Freeman,Offensive Rebound,65,77
+2:46,Oklahoma,None,None,65,77
+2:46,USC,Derryck Thornton,Defensive Rebound,65,77
+2:29,USC,Jordan Usher,Three Point Jumper,68,77
+2:18,Oklahoma,Matt Freeman,Missed Three Point Jumper,68,77
+2:18,Oklahoma,Brady Manek,Offensive Rebound,68,77
+2:16,USC,Derryck Thornton,Foul,68,77
+2:16,Oklahoma,Brady Manek,Free Throw,68,78
+2:16,Oklahoma,Brady Manek,Missed Free Throw,68,78
+2:16,USC,Nick Rakocevic,Defensive Rebound,68,78
+2:01,USC,Jordan Usher,Missed Three Point Jumper,68,78
+2:01,Oklahoma,Miles Reynolds,Defensive Rebound,68,78
+1:35,Oklahoma,Christian James,Missed Three Point Jumper,68,78
+1:35,Oklahoma,Brady Manek,Offensive Rebound,68,78
+1:17,Oklahoma,Jamal Bieniemy,Missed Layup,68,78
+1:17,USC,Jordan Usher,Defensive Rebound,68,78
+1:04,Oklahoma,Christian James,Foul,68,78
+1:04,USC,Derryck Thornton,Free Throw,69,78
+1:04,USC,Derryck Thornton,Free Throw,70,78
+1:03,USC,Jordan Usher,Foul,70,78
+1:03,Oklahoma,Miles Reynolds,Missed Free Throw,70,78
+1:03,Oklahoma,None,Team Rebound,70,78
+1:03,Oklahoma,Miles Reynolds,Missed Free Throw,70,78
+1:03,USC,Nick Rakocevic,Defensive Rebound,70,78
+0:58,USC,Elijah Weaver,Missed Layup,70,78
+0:58,Oklahoma,Brady Manek,Block,70,78
+0:58,Oklahoma,Christian James,Defensive Rebound,70,78
+0:51,USC,Shaqquan Aaron,Foul,70,78
+0:51,Oklahoma,Jamal Bieniemy,Free Throw,70,79
+0:51,Oklahoma,Jamal Bieniemy,Free Throw,70,80
+0:41,USC,Elijah Weaver,Turnover,70,80
+0:35,USC,J'Raan Brooks,Foul,70,80
+0:35,Oklahoma,Christian James,Missed Free Throw,70,80
+0:35,Oklahoma,None,Team Rebound,70,80
+0:35,Oklahoma,Christian James,Free Throw,70,81
+0:30,USC,Bennie Boatwright,Missed Three Point Jumper,70,81
+0:30,Oklahoma,Christian James,Defensive Rebound,70,81
+0:01,Oklahoma,None,Team Rebound,70,81
+0:01,USC,USC,Foul,70,81

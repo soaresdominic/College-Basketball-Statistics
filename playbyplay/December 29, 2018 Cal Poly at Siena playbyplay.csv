@@ -1,0 +1,256 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:42,Siena,Sloan Seymour,Three Point Jumper,0,3
+19:19,Cal Poly,Marcellus Garrick,Missed Layup,0,3
+19:19,Cal Poly,Hank Hollingsworth,Offensive Rebound,0,3
+19:14,Cal Poly,Mark Crowe,Three Point Jumper,3,3
+18:50,Siena,Evan Fisher,Missed Jumper,3,3
+18:50,Cal Poly,Daxton Carr,Defensive Rebound,3,3
+18:16,Cal Poly,Donovan Fields,Jumper,5,3
+17:58,Siena,Jalen Pickett,Missed Three Point Jumper,5,3
+17:58,Cal Poly,Marcellus Garrick,Defensive Rebound,5,3
+17:47,Cal Poly,Donovan Fields,Missed Three Point Jumper,5,3
+17:47,Siena,Kevin Degnan,Defensive Rebound,5,3
+17:22,Cal Poly,Donovan Fields,Foul,5,3
+17:16,Siena,Evan Fisher,Layup,5,5
+16:49,Cal Poly,Donovan Fields,Turnover,5,5
+16:28,Siena,Evan Fisher,Turnover,5,5
+16:15,Cal Poly,Donovan Fields,Jumper,7,5
+15:58,Siena,Sloan Seymour,Turnover,7,5
+15:58,Siena,None,None,7,5
+15:37,Cal Poly,Donovan Fields,Missed Jumper,7,5
+15:37,Siena,Evan Fisher,Defensive Rebound,7,5
+15:26,Siena,Sloan Seymour,Missed Three Point Jumper,7,5
+15:26,Cal Poly,Hank Hollingsworth,Defensive Rebound,7,5
+15:07,Cal Poly,Donovan Fields,Missed Jumper,7,5
+15:07,Siena,Kevin Degnan,Defensive Rebound,7,5
+14:51,Siena,Evan Fisher,Missed Jumper,7,5
+14:51,Cal Poly,Marcellus Garrick,Defensive Rebound,7,5
+14:38,Cal Poly,Hank Hollingsworth,Foul,7,5
+14:38,Cal Poly,Hank Hollingsworth,Turnover,7,5
+14:31,Siena,Jalen Pickett,Three Point Jumper,7,8
+14:20,Siena,Jalen Pickett,Foul,7,8
+14:04,Cal Poly,Tuukka Jaakkola,Layup,9,8
+13:46,Siena,Jalen Pickett,Three Point Jumper,9,11
+13:37,Cal Poly,Marcellus Garrick,Layup,11,11
+13:19,Siena,Denzel Tchougang,Foul,11,11
+13:19,Siena,Denzel Tchougang,Turnover,11,11
+13:02,Cal Poly,Tuukka Jaakkola,Turnover,11,11
+13:00,Siena,Jalen Pickett,Steal,11,11
+12:48,Siena,Jalen Pickett,Turnover,11,11
+12:47,Cal Poly,Marcellus Garrick,Steal,11,11
+12:40,Cal Poly,Kuba Niziol,Layup,13,11
+12:20,Siena,Kevin Degnan,Three Point Jumper,13,14
+11:55,Cal Poly,Marcellus Garrick,Missed Jumper,13,14
+11:55,Siena,Kevin Degnan,Defensive Rebound,13,14
+11:32,Siena,Jalen Pickett,Jumper,13,16
+11:10,Cal Poly,Donovan Fields,Missed Jumper,13,16
+11:10,Siena,Jimmy Ratliff,Defensive Rebound,13,16
+11:04,Cal Poly,Tuukka Jaakkola,Foul,13,16
+11:04,Siena,None,None,13,16
+10:51,Siena,Sloan Seymour,Missed Three Point Jumper,13,16
+10:51,Cal Poly,Cal Poly,Defensive Rebound,13,16
+10:38,Siena,Georges Darwiche,Foul,13,16
+10:23,Cal Poly,Job Alexander,Turnover,13,16
+10:03,Siena,Jimmy Ratliff,Missed Three Point Jumper,13,16
+10:03,Cal Poly,Kuba Niziol,Defensive Rebound,13,16
+9:47,Cal Poly,Junior Ballard,Missed Jumper,13,16
+9:47,Siena,Evan Fisher,Defensive Rebound,13,16
+9:34,Siena,Evan Fisher,Layup,13,18
+9:10,Cal Poly,Donovan Fields,Turnover,13,18
+8:58,Siena,Jalen Pickett,Missed Three Point Jumper,13,18
+8:58,Cal Poly,Karlis Garoza,Defensive Rebound,13,18
+8:45,Cal Poly,Kuba Niziol,Missed Jumper,13,18
+8:45,Siena,Evan Fisher,Defensive Rebound,13,18
+8:42,Cal Poly,Karlis Garoza,Foul,13,18
+8:42,Cal Poly,None,None,13,18
+8:21,Siena,Kadeem Smithen,Missed Three Point Jumper,13,18
+8:21,Cal Poly,Cal Poly,Defensive Rebound,13,18
+7:55,Cal Poly,Kuba Niziol,Missed Layup,13,18
+7:55,Siena,Evan Fisher,Defensive Rebound,13,18
+7:42,Cal Poly,Kuba Niziol,Foul,13,18
+7:42,Siena,None,None,13,18
+7:39,Siena,Evan Fisher,Turnover,13,18
+7:37,Cal Poly,Junior Ballard,Steal,13,18
+7:35,Cal Poly,Junior Ballard,Missed Layup,13,18
+7:35,Siena,Kadeem Smithen,Block,13,18
+7:31,Siena,Georges Darwiche,Defensive Rebound,13,18
+7:15,Siena,Georges Darwiche,Turnover,13,18
+7:14,Cal Poly,Job Alexander,Steal,13,18
+7:11,Siena,Georges Darwiche,Foul,13,18
+6:50,Cal Poly,Junior Ballard,Missed Layup,13,18
+6:50,Cal Poly,Daxton Carr,Offensive Rebound,13,18
+6:46,Cal Poly,Job Alexander,Missed Three Point Jumper,13,18
+6:46,Siena,None,Team Rebound,13,18
+6:44,Cal Poly,Cal Poly ,Turnover,13,18
+6:18,Cal Poly,Daxton Carr,Foul,13,18
+6:18,Siena,Evan Fisher,Free Throw,13,19
+6:18,Siena,Evan Fisher,Missed Free Throw,13,19
+6:18,Cal Poly,Mark Crowe,Defensive Rebound,13,19
+5:57,Cal Poly,Marcellus Garrick,Missed Layup,13,19
+5:57,Siena,Siena,Defensive Rebound,13,19
+5:35,Siena,Evan Fisher,Jumper,13,21
+5:14,Cal Poly,Hank Hollingsworth,Layup,15,21
+5:14,Siena,Jalen Pickett,Foul,15,21
+5:14,Cal Poly,Hank Hollingsworth,Missed Free Throw,15,21
+5:14,Siena,Evan Fisher,Defensive Rebound,15,21
+4:59,Siena,Georges Darwiche,Three Point Jumper,15,24
+4:35,Cal Poly,Donovan Fields,Missed Layup,15,24
+4:35,Siena,Kevin Degnan,Block,15,24
+4:33,Cal Poly,Hank Hollingsworth,Offensive Rebound,15,24
+4:32,Cal Poly,None,None,17,24
+4:05,Siena,Evan Fisher,Missed Layup,17,24
+4:05,Cal Poly,Daxton Carr,Defensive Rebound,17,24
+4:05,Cal Poly,Donovan Fields,Foul,17,24
+4:05,Cal Poly,Donovan Fields,Turnover,17,24
+3:43,Cal Poly,Mark Crowe,Foul,17,24
+3:43,Siena,None,None,17,24
+3:43,Siena,Denzel Tchougang,Free Throw,17,25
+3:43,Siena,Denzel Tchougang,Free Throw,17,26
+3:25,Cal Poly,Marcellus Garrick,Three Point Jumper,20,26
+3:04,Siena,Evan Fisher,Layup,20,28
+3:04,Cal Poly,Daxton Carr,Foul,20,28
+3:04,Siena,Evan Fisher,Missed Free Throw,20,28
+3:04,Cal Poly,Mark Crowe,Defensive Rebound,20,28
+2:47,Cal Poly,Hank Hollingsworth,Missed Layup,20,28
+2:47,Siena,Kevin Degnan,Defensive Rebound,20,28
+2:22,Siena,Evan Fisher,Layup,20,30
+2:07,Cal Poly,Mark Crowe,Three Point Jumper,23,30
+1:45,Siena,Georges Darwiche,Turnover,23,30
+1:43,Cal Poly,Karlis Garoza,Steal,23,30
+1:24,Cal Poly,Donovan Fields,Missed Jumper,23,30
+1:24,Siena,Kadeem Smithen,Defensive Rebound,23,30
+1:17,Siena,Sloan Seymour,Three Point Jumper,23,33
+0:54,Cal Poly,Marcellus Garrick,Missed Jumper,23,33
+0:54,Siena,Kadeem Smithen,Defensive Rebound,23,33
+0:38,Siena,Kevin Degnan,Three Point Jumper,23,36
+0:06,Cal Poly,Hank Hollingsworth,Dunk,25,36
+0:00,Siena,None,None,25,36
+19:45,Siena,Evan Fisher,Foul,25,36
+19:45,Siena,Evan Fisher,Turnover,25,36
+19:34,Cal Poly,Hank Hollingsworth,Layup,27,36
+19:14,Siena,Jalen Pickett,Missed Jumper,27,36
+19:14,Cal Poly,Daxton Carr,Defensive Rebound,27,36
+18:46,Cal Poly,Donovan Fields,Turnover,27,36
+18:45,Siena,Jalen Pickett,Steal,27,36
+18:36,Cal Poly,Donovan Fields,Foul,27,36
+18:28,Siena,Kevin Degnan,Missed Three Point Jumper,27,36
+18:28,Cal Poly,Marcellus Garrick,Defensive Rebound,27,36
+18:12,Cal Poly,Hank Hollingsworth,Layup,29,36
+18:10,Siena,None,None,29,36
+18:10,Siena,None,None,29,36
+17:47,Siena,Kevin Degnan,Missed Three Point Jumper,29,36
+17:47,Siena,Jalen Pickett,Offensive Rebound,29,36
+17:37,Siena,Jalen Pickett,Missed Layup,29,36
+17:37,Siena,Jalen Pickett,Offensive Rebound,29,36
+17:35,Siena,Jalen Pickett,Missed Layup,29,36
+17:35,Siena,Jalen Pickett,Offensive Rebound,29,36
+17:35,Cal Poly,Daxton Carr,Foul,29,36
+17:35,Siena,Jalen Pickett,Missed Free Throw,29,36
+17:35,Siena,None,Team Rebound,29,36
+17:35,Siena,Jalen Pickett,Missed Free Throw,29,36
+17:35,Cal Poly,Mark Crowe,Defensive Rebound,29,36
+17:20,Cal Poly,Donovan Fields,Three Point Jumper,32,36
+17:00,Siena,Evan Fisher,Missed Jumper,32,36
+17:00,Cal Poly,Hank Hollingsworth,Defensive Rebound,32,36
+16:36,Cal Poly,Hank Hollingsworth,Turnover,32,36
+16:18,Siena,Evan Fisher,Missed Layup,32,36
+16:18,Cal Poly,Daxton Carr,Defensive Rebound,32,36
+16:04,Cal Poly,Hank Hollingsworth,Dunk,34,36
+15:49,Siena,Kevin Degnan,Turnover,34,36
+15:49,Siena,None,None,34,36
+15:35,Cal Poly,Daxton Carr,Missed Jumper,34,36
+15:35,Siena,Kevin Degnan,Defensive Rebound,34,36
+15:16,Siena,Jimmy Ratliff,Missed Jumper,34,36
+15:16,Cal Poly,Donovan Fields,Defensive Rebound,34,36
+15:05,Cal Poly,Donovan Fields,Jumper,36,36
+14:44,Siena,Evan Fisher,Layup,36,38
+14:17,Cal Poly,Donovan Fields,Missed Three Point Jumper,36,38
+14:17,Siena,Kadeem Smithen,Defensive Rebound,36,38
+14:03,Siena,Evan Fisher,Layup,36,40
+14:03,Cal Poly,Donovan Fields,Foul,36,40
+14:03,Siena,Evan Fisher,Free Throw,36,41
+13:49,Cal Poly,Job Alexander,Turnover,36,41
+13:23,Siena,Jalen Pickett,Layup,36,43
+13:02,Cal Poly,Job Alexander,Foul,36,43
+13:02,Cal Poly,Job Alexander,Turnover,36,43
+13:02,Siena,None,None,36,43
+12:50,Siena,Jimmy Ratliff,Three Point Jumper,36,46
+12:28,Cal Poly,Mark Crowe,Three Point Jumper,39,46
+12:08,Siena,Kadeem Smithen,Three Point Jumper,39,49
+11:51,Siena,Jalen Pickett,Foul,39,49
+11:51,Siena,None,None,39,49
+11:34,Cal Poly,Kuba Niziol,Layup,41,49
+11:34,Siena,Sloan Seymour,Foul,41,49
+11:34,Cal Poly,Kuba Niziol,Free Throw,42,49
+11:17,Siena,Evan Fisher,Jumper,42,51
+11:01,Cal Poly,Kuba Niziol,Missed Three Point Jumper,42,51
+11:01,Siena,Georges Darwiche,Defensive Rebound,42,51
+10:46,Cal Poly,Junior Ballard,Foul,42,51
+10:35,Siena,Sloan Seymour,Missed Three Point Jumper,42,51
+10:35,Siena,Kevin Degnan,Offensive Rebound,42,51
+10:32,Cal Poly,Junior Ballard,Foul,42,51
+10:29,Siena,Sloan Seymour,Missed Three Point Jumper,42,51
+10:29,Siena,Kevin Degnan,Offensive Rebound,42,51
+10:00,Siena,Evan Fisher,Missed Three Point Jumper,42,51
+10:00,Cal Poly,Daxton Carr,Defensive Rebound,42,51
+9:47,Cal Poly,Junior Ballard,Turnover,42,51
+9:46,Siena,Georges Darwiche,Steal,42,51
+9:42,Cal Poly,Daxton Carr,Foul,42,51
+9:42,Siena,Kadeem Smithen,Free Throw,42,52
+9:42,Siena,Kadeem Smithen,Free Throw,42,53
+9:16,Cal Poly,Junior Ballard,Turnover,42,53
+9:14,Siena,Kadeem Smithen,Steal,42,53
+9:02,Siena,Evan Fisher,Missed Jumper,42,53
+9:02,Cal Poly,Junior Ballard,Defensive Rebound,42,53
+8:47,Cal Poly,Junior Ballard,Missed Three Point Jumper,42,53
+8:47,Siena,Kevin Degnan,Defensive Rebound,42,53
+8:17,Siena,Evan Fisher,Missed Three Point Jumper,42,53
+8:17,Cal Poly,Junior Ballard,Defensive Rebound,42,53
+7:59,Cal Poly,Kuba Niziol,Missed Layup,42,53
+7:59,Siena,Evan Fisher,Defensive Rebound,42,53
+7:42,Siena,Evan Fisher,Layup,42,55
+7:11,Cal Poly,Job Alexander,Missed Jumper,42,55
+7:11,Siena,Evan Fisher,Defensive Rebound,42,55
+6:54,Siena,Sloan Seymour,Three Point Jumper,42,58
+6:47,Cal Poly,None,None,42,58
+6:47,Siena,None,None,42,58
+6:26,Cal Poly,Marcellus Garrick,Missed Jumper,42,58
+6:26,Siena,Jalen Pickett,Defensive Rebound,42,58
+6:10,Siena,Sloan Seymour,Three Point Jumper,42,61
+5:51,Cal Poly,Donovan Fields,Jumper,44,61
+5:30,Cal Poly,Mark Crowe,Foul,44,61
+5:30,Siena,Denzel Tchougang,Free Throw,44,62
+5:30,Siena,Denzel Tchougang,Free Throw,44,63
+5:16,Siena,Kadeem Smithen,Foul,44,63
+5:05,Cal Poly,Mark Crowe,Layup,46,63
+4:51,Siena,Jalen Pickett,Missed Three Point Jumper,46,63
+4:51,Cal Poly,Hank Hollingsworth,Defensive Rebound,46,63
+4:38,Cal Poly,Donovan Fields,Missed Jumper,46,63
+4:38,Siena,Jalen Pickett,Defensive Rebound,46,63
+4:17,Siena,Sloan Seymour,Missed Three Point Jumper,46,63
+4:17,Cal Poly,Donovan Fields,Defensive Rebound,46,63
+4:08,Cal Poly,Donovan Fields,Missed Three Point Jumper,46,63
+4:08,Cal Poly,Kuba Niziol,Offensive Rebound,46,63
+4:05,Siena,Kadeem Smithen,Foul,46,63
+4:02,Cal Poly,Donovan Fields,Missed Jumper,46,63
+4:02,Siena,Evan Fisher,Defensive Rebound,46,63
+3:40,Cal Poly,Marcellus Garrick,Foul,46,63
+3:40,Siena,None,None,46,63
+3:40,Siena,Evan Fisher,Missed Free Throw,46,63
+3:40,Siena,None,Team Rebound,46,63
+3:40,Siena,Evan Fisher,Free Throw,46,64
+3:27,Cal Poly,Kuba Niziol,Missed Layup,46,64
+3:27,Siena,Kevin Degnan,Defensive Rebound,46,64
+3:13,Siena,Jimmy Ratliff,Missed Three Point Jumper,46,64
+3:13,Cal Poly,Kuba Niziol,Defensive Rebound,46,64
+3:06,Cal Poly,Mark Crowe,Layup,48,64
+2:42,Siena,Evan Fisher,Layup,48,66
+2:25,Cal Poly,Marcellus Garrick,Three Point Jumper,51,66
+1:52,Siena,Jalen Pickett,Three Point Jumper,51,69
+1:42,Cal Poly,Marcellus Garrick,Missed Three Point Jumper,51,69
+1:42,Siena,Kadeem Smithen,Defensive Rebound,51,69
+1:11,Siena,Jalen Pickett,Three Point Jumper,51,72
+0:57,Cal Poly,Marcellus Garrick,Three Point Jumper,54,72
+0:32,Siena,Evan Fisher,Three Point Jumper,54,75
+0:18,Cal Poly,Hank Hollingsworth,Turnover,54,75
+0:00,Siena,None,None,54,75

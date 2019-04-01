@@ -1,0 +1,340 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:34,Seattle,Terrell Brown,Turnover,0,0
+19:23,Prairie View A&M,Taishaun Johnson,Turnover,0,0
+19:23,Seattle,Morgan Means,Steal,0,0
+19:19,Seattle,Morgan Means,Layup,0,2
+19:02,Seattle,Myles Carter,Foul,0,2
+19:02,Prairie View A&M,Gary Blackston,Missed Free Throw,0,2
+19:02,Prairie View A&M,None,Team Rebound,0,2
+19:02,Prairie View A&M,Gary Blackston,Missed Free Throw,0,2
+19:02,Seattle,Myles Carter,Defensive Rebound,0,2
+18:49,Seattle,Morgan Means,Layup,0,4
+18:26,Prairie View A&M,Gary Blackston,Missed Jumper,0,4
+18:23,Seattle,Matej Kavas,Defensive Rebound,0,4
+18:09,Seattle,Delante Jones,Three Point Jumper,0,7
+17:51,Prairie View A&M,Taishaun Johnson,Missed Three Point Jumper,0,7
+17:49,Seattle,Matej Kavas,Defensive Rebound,0,7
+17:40,Seattle,Morgan Means,Missed Three Point Jumper,0,7
+17:37,Prairie View A&M,Gary Blackston,Defensive Rebound,0,7
+17:31,Prairie View A&M,Chancellor Ellis,Missed Three Point Jumper,0,7
+17:31,Seattle,Seattle,Defensive Rebound,0,7
+17:21,Seattle,Delante Jones,Missed Three Point Jumper,0,7
+17:18,Prairie View A&M,Gary Blackston,Defensive Rebound,0,7
+16:59,Prairie View A&M,Dennis Jones,Missed Layup,0,7
+16:57,Prairie View A&M,Iwin Ellis,Layup,2,7
+16:57,Prairie View A&M,Iwin Ellis,Offensive Rebound,2,7
+16:57,Seattle,Delante Jones,Foul,2,7
+16:57,Prairie View A&M,Iwin Ellis,Missed Free Throw,2,7
+16:57,Seattle,Myles Carter,Defensive Rebound,2,7
+16:46,Seattle,Myles Carter,Layup,2,9
+16:28,Prairie View A&M,Dennis Jones,Turnover,2,9
+16:15,Prairie View A&M,Gerard Andrus,Foul,2,9
+16:15,Seattle,Myles Carter,Missed Free Throw,2,9
+16:15,Seattle,None,Team Rebound,2,9
+16:15,Seattle,Myles Carter,Free Throw,2,10
+16:01,Prairie View A&M,Gerard Andrus,Missed Layup,2,10
+15:58,Seattle,Morgan Means,Defensive Rebound,2,10
+15:42,Seattle,Terrell Brown,Turnover,2,10
+15:42,Seattle,None,None,2,10
+15:33,Prairie View A&M,Dennis Jones,Turnover,2,10
+15:33,Seattle,Aaron Nettles,Steal,2,10
+15:20,Seattle,Matej Kavas,Missed Jumper,2,10
+15:14,Seattle,Myles Carter,Offensive Rebound,2,10
+15:14,Seattle,Myles Carter,Layup,2,12
+14:56,Prairie View A&M,Iwin Ellis,Turnover,2,12
+14:40,Prairie View A&M,Devonte Patterson,Foul,2,12
+14:27,Seattle,Aaron Nettles,Turnover,2,12
+14:27,Prairie View A&M,Gary Blackston,Steal,2,12
+14:22,Prairie View A&M,Antione Lister,Missed Layup,2,12
+14:19,Seattle,Aaron Nettles,Defensive Rebound,2,12
+14:02,Prairie View A&M,Devonte Patterson,Foul,2,12
+13:59,Seattle,Aaron Nettles,Three Point Jumper,2,15
+13:34,Prairie View A&M,Gerard Andrus,Missed Jumper,2,15
+13:31,Seattle,Delante Jones,Defensive Rebound,2,15
+13:23,Seattle,Matej Kavas,Three Point Jumper,2,18
+13:11,Prairie View A&M,Gary Blackston,Missed Layup,2,18
+13:06,Prairie View A&M,Antione Lister,Offensive Rebound,2,18
+13:06,Prairie View A&M,Antione Lister,Layup,4,18
+12:50,Seattle,Myles Carter,Foul,4,18
+12:50,Seattle,Myles Carter,Turnover,4,18
+12:28,Prairie View A&M,Elijah Holifield,Missed Three Point Jumper,4,18
+12:24,Prairie View A&M,Prairie View A&M,Offensive Rebound,4,18
+12:15,Prairie View A&M,Gary Blackston,Jumper,6,18
+12:01,Prairie View A&M,Dennis Jones,Foul,6,18
+11:52,Seattle,Matej Kavas,Missed Three Point Jumper,6,18
+11:50,Prairie View A&M,Gerard Andrus,Defensive Rebound,6,18
+11:45,Prairie View A&M,Darius Williams,Missed Layup,6,18
+11:42,Seattle,Matej Kavas,Defensive Rebound,6,18
+11:36,Seattle,Morgan Means,Three Point Jumper,6,21
+11:13,Prairie View A&M,Gary Blackston,Layup,8,21
+11:13,Seattle,Morgan Means,Foul,8,21
+11:13,Seattle,None,None,8,21
+11:13,Prairie View A&M,Gary Blackston,Free Throw,9,21
+10:56,Seattle,Matej Kavas,Jumper,9,23
+10:39,Prairie View A&M,Gerard Andrus,Missed Jumper,9,23
+10:36,Seattle,Terrell Brown,Defensive Rebound,9,23
+10:29,Seattle,Trey Hopkins,Missed Three Point Jumper,9,23
+10:27,Prairie View A&M,Darius Williams,Defensive Rebound,9,23
+10:23,Seattle,Riley Grigsby,Foul,9,23
+10:23,Prairie View A&M,Antione Lister,Free Throw,10,23
+10:23,Prairie View A&M,Antione Lister,Free Throw,11,23
+10:13,Seattle,Morgan Means,Jumper,11,25
+10:02,Prairie View A&M,Dennis Jones,Missed Three Point Jumper,11,25
+10:00,Seattle,Matej Kavas,Defensive Rebound,11,25
+9:42,Seattle,Terrell Brown,Foul,11,25
+9:42,Seattle,Terrell Brown,Turnover,11,25
+9:24,Prairie View A&M,Dennis Jones,Missed Layup,11,25
+9:21,Seattle,Matej Kavas,Defensive Rebound,11,25
+9:10,Seattle,Trey Hopkins,Missed Jumper,11,25
+9:07,Prairie View A&M,Gerard Andrus,Defensive Rebound,11,25
+8:57,Prairie View A&M,Darius Williams,Missed Three Point Jumper,11,25
+8:54,Seattle,Myles Carter,Defensive Rebound,11,25
+8:43,Seattle,Matej Kavas,Jumper,11,27
+8:21,Prairie View A&M,Dennis Jones,Turnover,11,27
+8:21,Seattle,Morgan Means,Steal,11,27
+8:04,Prairie View A&M,Gerard Andrus,Foul,11,27
+8:04,Seattle,Delante Jones,Free Throw,11,28
+8:04,Seattle,Delante Jones,Free Throw,11,29
+7:42,Seattle,None,None,11,29
+7:39,Prairie View A&M,Chancellor Ellis,Jumper,13,29
+7:20,Seattle,Morgan Means,Missed Jumper,13,29
+7:17,Prairie View A&M,Gary Blackston,Defensive Rebound,13,29
+7:10,Seattle,Morgan Means,Foul,13,29
+7:10,Prairie View A&M,Darius Williams,Free Throw,14,29
+7:10,Prairie View A&M,Darius Williams,Free Throw,15,29
+6:48,Prairie View A&M,Gerard Andrus,Foul,15,29
+6:48,Seattle,Myles Carter,Free Throw,15,30
+6:48,Seattle,Myles Carter,Missed Free Throw,15,30
+6:48,Prairie View A&M,Taishaun Johnson,Defensive Rebound,15,30
+6:46,Prairie View A&M,Taishaun Johnson,Foul,15,30
+6:46,Prairie View A&M,Taishaun Johnson,Turnover,15,30
+6:34,Seattle,Myles Carter,Turnover,15,30
+6:22,Prairie View A&M,Gary Blackston,Missed Jumper,15,30
+6:20,Seattle,Delante Jones,Defensive Rebound,15,30
+6:08,Seattle,Mattia Da Campo,Missed Layup,15,30
+6:04,Seattle,Myles Carter,Offensive Rebound,15,30
+6:03,Seattle,Myles Carter,Layup,15,32
+5:45,Prairie View A&M,Gary Blackston,Turnover,15,32
+5:45,Seattle,Aaron Nettles,Steal,15,32
+5:28,Prairie View A&M,Devonte Patterson,Foul,15,32
+4:54,Seattle,Delante Jones,Free Throw,15,33
+4:48,Seattle,Delante Jones,Free Throw,15,34
+4:46,Prairie View A&M,Chancellor Ellis,Missed Layup,15,34
+4:42,Seattle,Myles Carter,Defensive Rebound,15,34
+4:37,Prairie View A&M,Darius Williams,Foul,15,34
+4:37,Seattle,Terrell Brown,Free Throw,15,35
+4:37,Seattle,Terrell Brown,Free Throw,15,36
+4:30,Prairie View A&M,Darius Williams,Missed Three Point Jumper,15,36
+4:30,Seattle,Matej Kavas,Defensive Rebound,15,36
+4:25,Seattle,Aaron Nettles,Jumper,15,38
+4:04,Seattle,Matej Kavas,Foul,15,38
+4:04,Prairie View A&M,Gary Blackston,Missed Free Throw,15,38
+4:04,Prairie View A&M,None,Team Rebound,15,38
+4:04,Prairie View A&M,Gary Blackston,Missed Free Throw,15,38
+4:04,Seattle,Matej Kavas,Defensive Rebound,15,38
+3:39,Seattle,Morgan Means,Missed Three Point Jumper,15,38
+3:36,Prairie View A&M,Dennis Jones,Defensive Rebound,15,38
+3:33,Seattle,Delante Jones,Foul,15,38
+3:33,Seattle,None,None,15,38
+3:33,Prairie View A&M,Dennis Jones,Missed Free Throw,15,38
+3:33,Prairie View A&M,None,Team Rebound,15,38
+3:33,Prairie View A&M,Dennis Jones,Missed Free Throw,15,38
+3:33,Prairie View A&M,Antione Lister,Offensive Rebound,15,38
+3:12,Prairie View A&M,Leon Sneed,Missed Jumper,15,38
+3:09,Seattle,Myles Carter,Defensive Rebound,15,38
+2:58,Seattle,Ian Burke,Missed Three Point Jumper,15,38
+2:55,Seattle,Riley Grigsby,Offensive Rebound,15,38
+2:55,Prairie View A&M,Gary Blackston,Foul,15,38
+2:55,Seattle,Riley Grigsby,Free Throw,15,39
+2:55,Seattle,Riley Grigsby,Free Throw,15,40
+2:37,Seattle,Ian Burke,Foul,15,40
+2:37,Prairie View A&M,Gary Blackston,Missed Free Throw,15,40
+2:37,Prairie View A&M,None,Team Rebound,15,40
+2:37,Prairie View A&M,Gary Blackston,Free Throw,16,40
+2:19,Seattle,Myles Carter,Missed Layup,16,40
+2:15,Seattle,Terrell Brown,Offensive Rebound,16,40
+2:15,Seattle,Terrell Brown,Layup,16,42
+2:06,Prairie View A&M,Gary Blackston,Missed Three Point Jumper,16,42
+2:04,Seattle,Terrell Brown,Defensive Rebound,16,42
+2:04,Prairie View A&M,Dennis Jones,Foul,16,42
+2:04,Seattle,Terrell Brown,Free Throw,16,43
+2:04,Seattle,Terrell Brown,Free Throw,16,44
+1:47,Seattle,Riley Grigsby,Foul,16,44
+1:47,Prairie View A&M,Taishaun Johnson,Missed Free Throw,16,44
+1:47,Prairie View A&M,None,Team Rebound,16,44
+1:47,Prairie View A&M,Taishaun Johnson,Free Throw,17,44
+1:31,Seattle,Matej Kavas,Three Point Jumper,17,47
+1:21,Prairie View A&M,Antione Lister,Layup,19,47
+1:01,Seattle,Matej Kavas,Jumper,19,49
+0:48,Prairie View A&M,Chancellor Ellis,Turnover,19,49
+0:48,Seattle,None,None,19,49
+0:37,Seattle,Rip Economou,Turnover,19,49
+0:28,Prairie View A&M,Antione Lister,Jumper,21,49
+0:02,Seattle,Morgan Means,Jumper,21,51
+0:00,Seattle,None,None,21,51
+19:44,Seattle,Morgan Means,Three Point Jumper,21,54
+19:36,Prairie View A&M,Chancellor Ellis,Missed Three Point Jumper,21,54
+19:32,Seattle,Matej Kavas,Defensive Rebound,21,54
+18:57,Seattle,Myles Carter,Dunk,21,56
+18:41,Prairie View A&M,Chancellor Ellis,Missed Jumper,21,56
+18:35,Seattle,Morgan Means,Defensive Rebound,21,56
+18:30,Seattle,Terrell Brown,Layup,21,58
+18:02,Prairie View A&M,Gerard Andrus,Turnover,21,58
+17:38,Seattle,Myles Carter,Layup,21,60
+17:23,Seattle,Delante Jones,Foul,21,60
+17:23,Prairie View A&M,Leon Sneed,Missed Free Throw,21,60
+17:23,Prairie View A&M,None,Team Rebound,21,60
+17:23,Prairie View A&M,Leon Sneed,Free Throw,22,60
+16:56,Seattle,Matej Kavas,Turnover,22,60
+16:39,Prairie View A&M,Devonte Patterson,Missed Layup,22,60
+16:36,Prairie View A&M,Gary Blackston,Offensive Rebound,22,60
+16:34,Prairie View A&M,Gary Blackston,Three Point Jumper,25,60
+16:03,Seattle,Delante Jones,Missed Layup,25,60
+15:59,Prairie View A&M,Devonte Patterson,Defensive Rebound,25,60
+15:36,Prairie View A&M,Gary Blackston,Missed Jumper,25,60
+15:34,Seattle,Matej Kavas,Defensive Rebound,25,60
+15:29,Seattle,Myles Carter,Layup,25,62
+15:18,Prairie View A&M,Taishaun Johnson,Missed Three Point Jumper,25,62
+15:11,Prairie View A&M,Gary Blackston,Offensive Rebound,25,62
+15:10,Prairie View A&M,Gary Blackston,Layup,27,62
+14:51,Seattle,Delante Jones,Missed Three Point Jumper,27,62
+14:49,Prairie View A&M,Taishaun Johnson,Defensive Rebound,27,62
+14:46,Prairie View A&M,Darius Williams,Layup,29,62
+14:35,Seattle,Delante Jones,Turnover,29,62
+14:35,Seattle,None,None,29,62
+14:25,Seattle,Myles Carter,Foul,29,62
+14:25,Prairie View A&M,Gary Blackston,Free Throw,30,62
+14:25,Prairie View A&M,Gary Blackston,Free Throw,31,62
+14:17,Seattle,None,None,31,62
+14:06,Seattle,Myles Carter,Dunk,31,64
+13:49,Prairie View A&M,Darius Williams,Missed Three Point Jumper,31,64
+13:46,Seattle,Riley Grigsby,Defensive Rebound,31,64
+13:30,Seattle,Aaron Nettles,Turnover,31,64
+13:10,Prairie View A&M,Devonte Patterson,Layup,33,64
+12:48,Seattle,Morgan Means,Three Point Jumper,33,67
+12:30,Prairie View A&M,Devonte Patterson,Layup,35,67
+12:30,Seattle,Riley Grigsby,Foul,35,67
+12:30,Prairie View A&M,Devonte Patterson,Free Throw,36,67
+12:14,Seattle,Matej Kavas,Three Point Jumper,36,70
+12:04,Prairie View A&M,Darius Williams,Missed Layup,36,70
+12:00,Seattle,Myles Carter,Defensive Rebound,36,70
+11:50,Prairie View A&M,Darius Williams,Foul,36,70
+11:50,Seattle,None,None,36,70
+11:41,Seattle,Morgan Means,Free Throw,36,71
+11:40,Seattle,Morgan Means,Free Throw,36,72
+11:38,Prairie View A&M,Antione Lister,Turnover,36,72
+11:32,Seattle,Morgan Means,Foul,36,72
+11:32,Seattle,Morgan Means,Turnover,36,72
+11:10,Prairie View A&M,Gary Blackston,Missed Jumper,36,72
+11:06,Seattle,Morgan Means,Defensive Rebound,36,72
+11:05,Seattle,Matej Kavas,Three Point Jumper,36,75
+11:00,Seattle,Matej Kavas,Foul,36,75
+11:00,Prairie View A&M,Devonte Patterson,Free Throw,37,75
+11:00,Prairie View A&M,Devonte Patterson,Free Throw,38,75
+10:41,Prairie View A&M,Devonte Patterson,Foul,38,75
+10:41,Seattle,Myles Carter,Free Throw,38,76
+10:36,Seattle,Myles Carter,Free Throw,38,77
+10:34,Seattle,Morgan Means,Foul,38,77
+10:23,Prairie View A&M,Gary Blackston,Three Point Jumper,41,77
+10:05,Seattle,Morgan Means,Three Point Jumper,41,80
+9:59,Seattle,Trey Hopkins,Foul,41,80
+9:59,Seattle,Trey Hopkins,Turnover,41,80
+9:41,Seattle,Trey Hopkins,Foul,41,80
+9:41,Prairie View A&M,Gary Blackston,Missed Free Throw,41,80
+9:41,Prairie View A&M,None,Team Rebound,41,80
+9:41,Prairie View A&M,Gary Blackston,Free Throw,42,80
+9:11,Seattle,Mattia Da Campo,Missed Layup,42,80
+9:11,Prairie View A&M,Gary Blackston,Block,42,80
+9:11,Prairie View A&M,Gary Blackston,Defensive Rebound,42,80
+8:57,Prairie View A&M,Gerard Andrus,Layup,44,80
+8:34,Prairie View A&M,Darius Williams,Foul,44,80
+8:27,Seattle,Myles Carter,Layup,44,82
+8:20,Prairie View A&M,Darius Williams,Missed Layup,44,82
+8:18,Seattle,None,Team Rebound,44,82
+8:01,Seattle,None,None,44,82
+8:01,Seattle,None,None,44,82
+7:47,Seattle,Mattia Da Campo,Missed Layup,44,82
+7:42,Seattle,Myles Carter,Offensive Rebound,44,82
+7:42,Seattle,Myles Carter,Dunk,44,84
+7:34,Prairie View A&M,Dennis Jones,Missed Three Point Jumper,44,84
+7:31,Seattle,Seattle,Defensive Rebound,44,84
+7:19,Seattle,Trey Hopkins,Layup,44,86
+7:07,Prairie View A&M,Taishaun Johnson,Missed Layup,44,86
+7:07,Seattle,Riley Grigsby,Block,44,86
+7:06,Prairie View A&M,Prairie View A&M,Offensive Rebound,44,86
+6:56,Prairie View A&M,Gary Blackston,Three Point Jumper,47,86
+6:31,Seattle,Trey Hopkins,Missed Three Point Jumper,47,86
+6:29,Seattle,Riley Grigsby,Offensive Rebound,47,86
+6:29,Seattle,Riley Grigsby,Layup,47,88
+6:29,Prairie View A&M,Tyler Singleton,Foul,47,88
+6:29,Seattle,Riley Grigsby,Free Throw,47,89
+6:21,Prairie View A&M,Antione Lister,Layup,49,89
+6:06,Seattle,Riley Grigsby,Layup,49,91
+5:56,Prairie View A&M,Gary Blackston,Missed Jumper,49,91
+5:50,Prairie View A&M,Tyler Singleton,Offensive Rebound,49,91
+5:50,Seattle,Myles Carter,Foul,49,91
+5:50,Prairie View A&M,Devonte Patterson,Missed Free Throw,49,91
+5:50,Prairie View A&M,None,Team Rebound,49,91
+5:50,Prairie View A&M,Devonte Patterson,Missed Free Throw,49,91
+5:50,Prairie View A&M,Devonte Patterson,Offensive Rebound,49,91
+5:50,Seattle,Myles Carter,Foul,49,91
+5:50,Prairie View A&M,Devonte Patterson,Free Throw,50,91
+5:50,Prairie View A&M,Devonte Patterson,Free Throw,51,91
+5:32,Seattle,Rip Economou,Missed Three Point Jumper,51,91
+5:29,Prairie View A&M,Devonte Patterson,Defensive Rebound,51,91
+5:27,Prairie View A&M,Antione Lister,Layup,53,91
+5:10,Prairie View A&M,Faite Williams,Foul,53,91
+5:02,Seattle,Joe Wall,Missed Three Point Jumper,53,91
+4:56,Prairie View A&M,Devonte Patterson,Defensive Rebound,53,91
+4:55,Seattle,Rip Economou,Foul,53,91
+4:55,Prairie View A&M,Devonte Patterson,Free Throw,54,91
+4:55,Prairie View A&M,Devonte Patterson,Missed Free Throw,54,91
+4:55,Seattle,Morgan Means,Defensive Rebound,54,91
+4:34,Seattle,Anand Hundal,Missed Three Point Jumper,54,91
+4:33,Seattle,Mattia Da Campo,Offensive Rebound,54,91
+4:33,Prairie View A&M,Taishaun Johnson,Foul,54,91
+4:13,Seattle,Morgan Means,Missed Three Point Jumper,54,91
+4:10,Seattle,Rip Economou,Offensive Rebound,54,91
+4:08,Seattle,Rip Economou,Missed Jumper,54,91
+4:03,Seattle,Anand Hundal,Offensive Rebound,54,91
+4:02,Seattle,Anand Hundal,Missed Layup,54,91
+3:55,Seattle,Joe Wall,Offensive Rebound,54,91
+3:55,Seattle,Joe Wall,Layup,54,93
+3:45,Seattle,Anand Hundal,Foul,54,93
+3:45,Seattle,None,None,54,93
+3:45,Prairie View A&M,Devonte Patterson,Free Throw,55,93
+3:45,Prairie View A&M,Devonte Patterson,Free Throw,56,93
+3:38,Seattle,Rip Economou,Three Point Jumper,56,96
+3:26,Seattle,Matt Vail,Foul,56,96
+3:26,Prairie View A&M,Antione Lister,Free Throw,57,96
+3:26,Prairie View A&M,Antione Lister,Free Throw,58,96
+3:01,Seattle,Rip Economou,Three Point Jumper,58,99
+2:45,Prairie View A&M,Faite Williams,Missed Layup,58,99
+2:41,Seattle,Mattia Da Campo,Defensive Rebound,58,99
+2:24,Seattle,Morgan Means,Missed Layup,58,99
+2:18,Prairie View A&M,Gary Blackston,Defensive Rebound,58,99
+2:09,Seattle,Rip Economou,Foul,58,99
+2:09,Prairie View A&M,Antione Lister,Free Throw,59,99
+2:09,Prairie View A&M,Antione Lister,Free Throw,60,99
+2:06,Seattle,Rip Economou,Missed Three Point Jumper,60,99
+2:02,Prairie View A&M,Antione Lister,Defensive Rebound,60,99
+1:57,Prairie View A&M,Devonte Patterson,Layup,62,99
+1:36,Seattle,Rip Economou,Three Point Jumper,62,102
+1:27,Prairie View A&M,Devonte Patterson,Missed Layup,62,102
+1:24,Seattle,Matt Vail,Defensive Rebound,62,102
+1:02,Seattle,Anand Hundal,Turnover,62,102
+0:54,Prairie View A&M,Antione Lister,Missed Layup,62,102
+0:54,Seattle,Riley Grigsby,Block,62,102
+0:50,Seattle,Ian Burke,Defensive Rebound,62,102
+0:38,Seattle,Trey Hopkins,Missed Jumper,62,102
+0:35,Prairie View A&M,Antione Lister,Defensive Rebound,62,102
+0:29,Prairie View A&M,Gary Blackston,Layup,64,102
+0:15,Seattle,Rip Economou,Missed Three Point Jumper,64,102
+0:12,Prairie View A&M,Tyler Singleton,Defensive Rebound,64,102
+0:07,Prairie View A&M,Darius Williams,Missed Layup,64,102
+0:07,Seattle,Matt Vail,Block,64,102
+0:07,Prairie View A&M,Prairie View A&M,Offensive Rebound,64,102
+0:05,Prairie View A&M,Gary Blackston,Missed Three Point Jumper,64,102
+0:02,Seattle,Ian Burke,Defensive Rebound,64,102
+0:00,Seattle,None,None,64,102
+0:00,Seattle,None,None,64,102

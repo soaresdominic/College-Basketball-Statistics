@@ -1,0 +1,321 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Iowa State,None,None,0,0
+19:41,Iowa State,Marial Shayok,Turnover,0,0
+19:41,Arizona,Brandon Randolph,Steal,0,0
+19:34,Arizona,Justin Coleman,Missed Three Point Jumper,0,0
+19:34,Iowa State,Marial Shayok,Defensive Rebound,0,0
+19:19,Iowa State,Talen Horton-Tucker,Missed Three Point Jumper,0,0
+19:19,Arizona,Brandon Randolph,Defensive Rebound,0,0
+19:08,Arizona,Brandon Randolph,Missed Layup,0,0
+19:08,Iowa State,Tyrese Hailburton,Block,0,0
+19:08,Iowa State,Michael Jacobson,Defensive Rebound,0,0
+18:55,Iowa State,Michael Jacobson,Dunk,0,2
+18:29,Arizona,Ryan Luther,Missed Jumper,0,2
+18:29,Iowa State,Talen Horton-Tucker,Defensive Rebound,0,2
+18:19,Iowa State,Michael Jacobson,Missed Three Point Jumper,0,2
+18:19,Arizona,Brandon Randolph,Defensive Rebound,0,2
+17:52,Arizona,Ryan Luther,Turnover,0,2
+17:52,Iowa State,Nick Weiler-Babb,Steal,0,2
+17:43,Iowa State,Michael Jacobson,Layup,0,4
+17:29,Arizona,Chase Jeter,Layup,2,4
+17:06,Iowa State,Talen Horton-Tucker,Missed Three Point Jumper,2,4
+17:06,Iowa State,Marial Shayok,Offensive Rebound,2,4
+16:44,Iowa State,Marial Shayok,Turnover,2,4
+16:44,Arizona,Ryan Luther,Steal,2,4
+16:33,Arizona,Justin Coleman,Three Point Jumper,5,4
+16:22,Iowa State,Tyrese Hailburton,Missed Three Point Jumper,5,4
+16:22,Arizona,Chase Jeter,Defensive Rebound,5,4
+16:01,Arizona,Ryan Luther,Three Point Jumper,8,4
+15:39,Iowa State,Marial Shayok,Missed Layup,8,4
+15:39,Arizona,Chase Jeter,Block,8,4
+15:39,Arizona,Chase Jeter,Defensive Rebound,8,4
+15:17,Arizona,Brandon Williams,Missed Three Point Jumper,8,4
+15:17,Iowa State,Michael Jacobson,Defensive Rebound,8,4
+15:05,Arizona,Chase Jeter,Foul,8,4
+15:05,Iowa State,None,None,8,4
+15:05,Iowa State,Talen Horton-Tucker,Missed Free Throw,8,4
+15:05,Iowa State,None,Team Rebound,8,4
+15:05,Iowa State,Talen Horton-Tucker,Missed Free Throw,8,4
+15:05,Arizona,Emmanuel Akot,Defensive Rebound,8,4
+14:48,Arizona,Brandon Randolph,Jumper,10,4
+14:29,Iowa State,Nick Weiler-Babb,Missed Three Point Jumper,10,4
+14:29,Arizona,Emmanuel Akot,Defensive Rebound,10,4
+14:20,Arizona,Brandon Randolph,Missed Layup,10,4
+14:20,Iowa State,Nick Weiler-Babb,Block,10,4
+14:20,Iowa State,Nick Weiler-Babb,Defensive Rebound,10,4
+14:11,Arizona,Alex Barcello,Foul,10,4
+14:11,Iowa State,Talen Horton-Tucker,Layup,10,6
+14:11,Iowa State,Talen Horton-Tucker,Free Throw,10,7
+14:03,Iowa State,George Conditt IV,Foul,10,7
+14:03,Arizona,Ira Lee,Free Throw,11,7
+14:03,Arizona,Ira Lee,Free Throw,12,7
+13:48,Iowa State,Nick Weiler-Babb,Turnover,12,7
+13:48,Arizona,Alex Barcello,Steal,12,7
+13:41,Arizona,Emmanuel Akot,Missed Three Point Jumper,12,7
+13:41,Iowa State,Marial Shayok,Defensive Rebound,12,7
+13:32,Iowa State,Marial Shayok,Missed Layup,12,7
+13:32,Arizona,Emmanuel Akot,Defensive Rebound,12,7
+13:21,Arizona,Alex Barcello,Missed Three Point Jumper,12,7
+13:21,Iowa State,Marial Shayok,Defensive Rebound,12,7
+13:00,Iowa State,Marial Shayok,Layup,12,9
+12:38,Arizona,Justin Coleman,Missed Jumper,12,9
+12:38,Iowa State,George Conditt IV,Block,12,9
+12:38,Iowa State,George Conditt IV,Defensive Rebound,12,9
+12:28,Iowa State,Talen Horton-Tucker,Layup,12,11
+12:12,Arizona,Dylan Smith,Turnover,12,11
+12:12,Iowa State,George Conditt IV,Steal,12,11
+12:00,Iowa State,Tyrese Hailburton,Missed Three Point Jumper,12,11
+12:00,Iowa State,Tyrese Hailburton,Offensive Rebound,12,11
+11:49,Iowa State,Talen Horton-Tucker,Foul,12,11
+11:49,Iowa State,Talen Horton-Tucker,Turnover,12,11
+11:49,Iowa State,None,None,12,11
+11:39,Arizona,Brandon Williams,Missed Three Point Jumper,12,11
+11:39,Iowa State,Talen Horton-Tucker,Defensive Rebound,12,11
+11:34,Arizona,Ryan Luther,Foul,12,11
+11:23,Iowa State,Nick Weiler-Babb,Foul,12,11
+11:23,Iowa State,Nick Weiler-Babb,Turnover,12,11
+11:10,Arizona,Dylan Smith,Missed Three Point Jumper,12,11
+11:10,Iowa State,Marial Shayok,Defensive Rebound,12,11
+10:59,Iowa State,Terrence Lewis,Missed Three Point Jumper,12,11
+10:59,Arizona,Chase Jeter,Defensive Rebound,12,11
+10:50,Arizona,Ryan Luther,Missed Three Point Jumper,12,11
+10:50,Arizona,Chase Jeter,Offensive Rebound,12,11
+10:42,Iowa State,George Conditt IV,Foul,12,11
+10:42,Arizona,Chase Jeter,Missed Free Throw,12,11
+10:42,Arizona,None,Team Rebound,12,11
+10:42,Arizona,Chase Jeter,Missed Free Throw,12,11
+10:42,Iowa State,Talen Horton-Tucker,Defensive Rebound,12,11
+10:31,Iowa State,Tyrese Hailburton,Turnover,12,11
+10:31,Arizona,Brandon Williams,Steal,12,11
+10:23,Iowa State,Marial Shayok,Foul,12,11
+10:23,Arizona,Brandon Williams,Free Throw,13,11
+10:23,Arizona,Brandon Williams,Free Throw,14,11
+9:57,Iowa State,Michael Jacobson,Jumper,14,13
+9:48,Arizona,Brandon Williams,Missed Layup,14,13
+9:48,Iowa State,Michael Jacobson,Defensive Rebound,14,13
+9:40,Iowa State,Talen Horton-Tucker,Missed Three Point Jumper,14,13
+9:40,Iowa State,Terrence Lewis,Offensive Rebound,14,13
+9:34,Iowa State,Terrence Lewis,Missed Layup,14,13
+9:34,Arizona,Chase Jeter,Defensive Rebound,14,13
+9:21,Arizona,Brandon Randolph,Missed Layup,14,13
+9:21,Iowa State,Michael Jacobson,Defensive Rebound,14,13
+9:09,Iowa State,Marial Shayok,Layup,14,15
+8:40,Arizona,Justin Coleman,Missed Layup,14,15
+8:40,Arizona,Chase Jeter,Offensive Rebound,14,15
+8:36,Arizona,Chase Jeter,Missed Jumper,14,15
+8:36,Arizona,Ryan Luther,Offensive Rebound,14,15
+8:27,Arizona,Ryan Luther,Layup,16,15
+8:11,Iowa State,Terrence Lewis,Missed Three Point Jumper,16,15
+8:11,Arizona,Chase Jeter,Defensive Rebound,16,15
+7:59,Arizona,Chase Jeter,Layup,18,15
+7:42,Iowa State,Michael Jacobson,Three Point Jumper,18,18
+7:17,Arizona,Brandon Randolph,Turnover,18,18
+7:17,Iowa State,Nick Weiler-Babb,Steal,18,18
+7:13,Iowa State,Nick Weiler-Babb,Dunk,18,20
+7:06,Arizona,None,None,18,20
+6:54,Arizona,Brandon Randolph,Jumper,20,20
+6:29,Iowa State,Nick Weiler-Babb,Jumper,20,22
+6:11,Arizona,Brandon Williams,Missed Three Point Jumper,20,22
+6:11,Iowa State,Michael Jacobson,Defensive Rebound,20,22
+5:59,Iowa State,Terrence Lewis,Turnover,20,22
+5:59,Arizona,Ira Lee,Steal,20,22
+5:50,Iowa State,Nick Weiler-Babb,Foul,20,22
+5:50,Arizona,Brandon Williams,Missed Free Throw,20,22
+5:50,Arizona,None,Team Rebound,20,22
+5:50,Arizona,Brandon Williams,Free Throw,21,22
+5:45,Iowa State,Talen Horton-Tucker,Layup,21,24
+5:45,Arizona,Alex Barcello,Foul,21,24
+5:45,Iowa State,Talen Horton-Tucker,Free Throw,21,25
+5:38,Arizona,Brandon Randolph,Missed Three Point Jumper,21,25
+5:38,Iowa State,Marial Shayok,Defensive Rebound,21,25
+5:09,Iowa State,Zion Griffin,Missed Three Point Jumper,21,25
+5:09,Iowa State,Michael Jacobson,Offensive Rebound,21,25
+4:39,Iowa State,Michael Jacobson,Missed Jumper,21,25
+4:39,Arizona,Ira Lee,Defensive Rebound,21,25
+4:24,Arizona,Brandon Randolph,Missed Three Point Jumper,21,25
+4:24,Iowa State,Zion Griffin,Defensive Rebound,21,25
+4:14,Iowa State,Talen Horton-Tucker,Layup,21,27
+4:08,Arizona,None,None,21,27
+3:51,Arizona,Chase Jeter,Missed Jumper,21,27
+3:51,Iowa State,Michael Jacobson,Defensive Rebound,21,27
+3:40,Iowa State,Talen Horton-Tucker,Missed Layup,21,27
+3:40,Arizona,Ryan Luther,Defensive Rebound,21,27
+3:29,Arizona,Dylan Smith,Missed Three Point Jumper,21,27
+3:29,Iowa State,Marial Shayok,Defensive Rebound,21,27
+2:53,Iowa State,Michael Jacobson,Turnover,21,27
+2:37,Arizona,Brandon Randolph,Layup,23,27
+2:11,Iowa State,Michael Jacobson,Missed Jumper,23,27
+2:11,Iowa State,Marial Shayok,Offensive Rebound,23,27
+2:06,Iowa State,Marial Shayok,Layup,23,29
+1:57,Iowa State,Michael Jacobson,Foul,23,29
+1:57,Arizona,Brandon Williams,Free Throw,24,29
+1:57,Arizona,Brandon Williams,Free Throw,25,29
+1:56,Iowa State,Marial Shayok,Dunk,25,31
+1:38,Arizona,Brandon Randolph,Layup,27,31
+1:05,Iowa State,Marial Shayok,Missed Three Point Jumper,27,31
+1:05,Iowa State,Tyrese Hailburton,Offensive Rebound,27,31
+0:58,Iowa State,Marial Shayok,Three Point Jumper,27,34
+0:39,Arizona,Brandon Randolph,Turnover,27,34
+0:39,Iowa State,Marial Shayok,Steal,27,34
+0:33,Arizona,Brandon Williams,Foul,27,34
+0:33,Iowa State,Marial Shayok,Free Throw,27,35
+0:33,Iowa State,Marial Shayok,Free Throw,27,36
+0:10,Arizona,Brandon Williams,Missed Three Point Jumper,27,36
+0:10,Arizona,Ira Lee,Offensive Rebound,27,36
+0:02,Arizona,Ira Lee,Foul,27,36
+0:02,Arizona,Ira Lee,Turnover,27,36
+0:00,Iowa State,None,None,27,36
+20:00,Arizona,None,None,27,36
+19:34,Arizona,Ryan Luther,Three Point Jumper,30,36
+18:59,Iowa State,Tyrese Hailburton,Jumper,30,38
+18:42,Arizona,Chase Jeter,Dunk,32,38
+18:33,Iowa State,Marial Shayok,Foul,32,38
+18:33,Iowa State,Marial Shayok,Turnover,32,38
+18:20,Arizona,Brandon Randolph,Missed Jumper,32,38
+18:20,Iowa State,Marial Shayok,Defensive Rebound,32,38
+18:13,Iowa State,Nick Weiler-Babb,Three Point Jumper,32,41
+17:57,Arizona,Brandon Williams,Layup,34,41
+17:30,Iowa State,Michael Jacobson,Jumper,34,43
+16:56,Arizona,Justin Coleman,Three Point Jumper,37,43
+16:45,Iowa State,Talen Horton-Tucker,Missed Three Point Jumper,37,43
+16:45,Arizona,Chase Jeter,Defensive Rebound,37,43
+16:33,Arizona,Brandon Williams,Three Point Jumper,40,43
+16:00,Iowa State,Talen Horton-Tucker,Dunk,40,45
+15:34,Arizona,Ryan Luther,Missed Three Point Jumper,40,45
+15:34,Iowa State,Nick Weiler-Babb,Defensive Rebound,40,45
+15:25,Iowa State,Michael Jacobson,Missed Three Point Jumper,40,45
+15:25,Iowa State,Marial Shayok,Offensive Rebound,40,45
+15:20,Iowa State,Marial Shayok,Missed Jumper,40,45
+15:20,Arizona,Chase Jeter,Block,40,45
+15:20,Arizona,Chase Jeter,Defensive Rebound,40,45
+15:12,Arizona,Brandon Randolph,Turnover,40,45
+15:12,Iowa State,Nick Weiler-Babb,Steal,40,45
+15:07,Iowa State,None,None,40,45
+14:54,Iowa State,Nick Weiler-Babb,Missed Jumper,40,45
+14:54,Arizona,Dylan Smith,Defensive Rebound,40,45
+14:41,Arizona,Brandon Williams,Missed Layup,40,45
+14:41,Iowa State,Talen Horton-Tucker,Defensive Rebound,40,45
+14:33,Iowa State,Marial Shayok,Missed Three Point Jumper,40,45
+14:33,Arizona,Chase Jeter,Defensive Rebound,40,45
+14:15,Arizona,Brandon Williams,Turnover,40,45
+14:15,Iowa State,Nick Weiler-Babb,Steal,40,45
+14:10,Iowa State,Marial Shayok,Dunk,40,47
+13:53,Iowa State,Tyrese Hailburton,Foul,40,47
+13:40,Arizona,Brandon Williams,Missed Jumper,40,47
+13:40,Iowa State,Nick Weiler-Babb,Defensive Rebound,40,47
+13:27,Iowa State,Talen Horton-Tucker,Missed Jumper,40,47
+13:27,Iowa State,Marial Shayok,Offensive Rebound,40,47
+12:57,Iowa State,Marial Shayok,Missed Jumper,40,47
+12:57,Arizona,Emmanuel Akot,Defensive Rebound,40,47
+12:48,Arizona,Ira Lee,Layup,42,47
+12:20,Arizona,Ira Lee,Foul,42,47
+12:20,Iowa State,Talen Horton-Tucker,Free Throw,42,48
+12:20,Iowa State,Talen Horton-Tucker,Free Throw,42,49
+12:13,Arizona,Justin Coleman,Missed Three Point Jumper,42,49
+12:13,Arizona,Chase Jeter,Offensive Rebound,42,49
+12:08,Iowa State,Michael Jacobson,Foul,42,49
+11:59,Arizona,Chase Jeter,Jumper,44,49
+11:40,Iowa State,Michael Jacobson,Layup,44,51
+11:11,Arizona,Emmanuel Akot,Missed Three Point Jumper,44,51
+11:11,Iowa State,Tyrese Hailburton,Defensive Rebound,44,51
+11:05,Iowa State,Nick Weiler-Babb,Three Point Jumper,44,54
+10:53,Arizona,None,None,44,54
+10:42,Arizona,Brandon Randolph,Missed Jumper,44,54
+10:42,Iowa State,George Conditt IV,Block,44,54
+10:42,Iowa State,Nick Weiler-Babb,Defensive Rebound,44,54
+10:30,Iowa State,Marial Shayok,Missed Three Point Jumper,44,54
+10:30,Arizona,Brandon Randolph,Defensive Rebound,44,54
+10:17,Arizona,Brandon Randolph,Missed Jumper,44,54
+10:14,Iowa State,Marial Shayok,Defensive Rebound,44,54
+10:10,Iowa State,Marial Shayok,Turnover,44,54
+10:10,Arizona,Ryan Luther,Steal,44,54
+10:01,Arizona,Brandon Randolph,Three Point Jumper,47,54
+9:49,Iowa State,Zion Griffin,Missed Three Point Jumper,47,54
+9:49,Iowa State,Marial Shayok,Offensive Rebound,47,54
+9:43,Iowa State,Marial Shayok,Missed Jumper,47,54
+9:43,Arizona,Ryan Luther,Defensive Rebound,47,54
+9:43,Iowa State,Tyrese Hailburton,Foul,47,54
+9:25,Iowa State,None,None,47,54
+9:18,Arizona,Justin Coleman,Three Point Jumper,50,54
+8:52,Iowa State,Tyrese Hailburton,Missed Three Point Jumper,50,54
+8:52,Iowa State,George Conditt IV,Offensive Rebound,50,54
+8:45,Iowa State,None,None,50,54
+8:41,Iowa State,Marial Shayok,Layup,50,56
+8:23,Arizona,Ryan Luther,Jumper,52,56
+8:01,Arizona,Ryan Luther,Foul,52,56
+8:01,Iowa State,None,None,52,56
+7:50,Iowa State,Nick Weiler-Babb,Turnover,52,56
+7:50,Arizona,Justin Coleman,Steal,52,56
+7:41,Arizona,Justin Coleman,Missed Three Point Jumper,52,56
+7:41,Iowa State,Talen Horton-Tucker,Defensive Rebound,52,56
+7:35,Iowa State,Marial Shayok,Missed Layup,52,56
+7:35,Arizona,Brandon Randolph,Defensive Rebound,52,56
+7:19,Arizona,Brandon Williams,Turnover,52,56
+7:19,Iowa State,Marial Shayok,Steal,52,56
+6:58,Iowa State,Nick Weiler-Babb,Turnover,52,56
+6:58,Arizona,Ryan Luther,Steal,52,56
+6:37,Arizona,Chase Jeter,Layup,54,56
+6:20,Iowa State,Michael Jacobson,Missed Three Point Jumper,54,56
+6:20,Arizona,Ryan Luther,Defensive Rebound,54,56
+6:06,Arizona,Brandon Williams,Missed Three Point Jumper,54,56
+6:06,Iowa State,Talen Horton-Tucker,Defensive Rebound,54,56
+5:43,Iowa State,Michael Jacobson,Turnover,54,56
+5:32,Arizona,Brandon Williams,Missed Three Point Jumper,54,56
+5:26,Arizona,Ryan Luther,Offensive Rebound,54,56
+5:11,Arizona,Justin Coleman,Layup,56,56
+5:02,Iowa State,None,None,56,56
+4:59,Iowa State,Talen Horton-Tucker,Missed Layup,56,56
+4:59,Iowa State,Marial Shayok,Offensive Rebound,56,56
+4:54,Iowa State,Marial Shayok,Layup,56,58
+4:47,Arizona,Justin Coleman,Layup,58,58
+4:35,Iowa State,Talen Horton-Tucker,Missed Jumper,58,58
+4:35,Arizona,Brandon Williams,Defensive Rebound,58,58
+4:03,Arizona,Brandon Randolph,Missed Jumper,58,58
+4:03,Iowa State,Talen Horton-Tucker,Defensive Rebound,58,58
+3:51,Iowa State,Nick Weiler-Babb,Layup,58,60
+3:30,Iowa State,None,None,58,60
+3:25,Arizona,Ryan Luther,Missed Three Point Jumper,58,60
+3:25,Iowa State,Tyrese Hailburton,Defensive Rebound,58,60
+2:53,Iowa State,Michael Jacobson,Foul,58,60
+2:53,Iowa State,Michael Jacobson,Turnover,58,60
+2:30,Arizona,Justin Coleman,Jumper,60,60
+2:11,Arizona,Chase Jeter,Foul,60,60
+2:00,Iowa State,Marial Shayok,Missed Jumper,60,60
+2:00,Arizona,Justin Coleman,Defensive Rebound,60,60
+1:53,Arizona,Justin Coleman,Three Point Jumper,63,60
+1:23,Arizona,Chase Jeter,Foul,63,60
+1:23,Iowa State,Nick Weiler-Babb,Free Throw,63,61
+1:23,Iowa State,Nick Weiler-Babb,Missed Free Throw,63,61
+1:23,Arizona,Ryan Luther,Defensive Rebound,63,61
+1:11,Arizona,Justin Coleman,Turnover,63,61
+1:11,Iowa State,Michael Jacobson,Steal,63,61
+1:01,Arizona,Ryan Luther,Foul,63,61
+1:01,Iowa State,Talen Horton-Tucker,Free Throw,63,62
+1:01,Iowa State,Talen Horton-Tucker,Free Throw,63,63
+0:46,Arizona,Justin Coleman,Missed Three Point Jumper,63,63
+0:46,Arizona,Ryan Luther,Offensive Rebound,63,63
+0:39,Iowa State,Talen Horton-Tucker,Foul,63,63
+0:39,Arizona,Ryan Luther,Free Throw,64,63
+0:39,Arizona,Ryan Luther,Free Throw,65,63
+0:31,Iowa State,Nick Weiler-Babb,Missed Layup,65,63
+0:26,Arizona,Chase Jeter,Defensive Rebound,65,63
+0:23,Iowa State,Talen Horton-Tucker,Foul,65,63
+0:23,Iowa State,None,None,65,63
+0:23,Arizona,Brandon Williams,Free Throw,66,63
+0:23,Arizona,Brandon Williams,Free Throw,67,63
+0:16,Iowa State,Nick Weiler-Babb,Missed Three Point Jumper,67,63
+0:16,Arizona,Dylan Smith,Defensive Rebound,67,63
+0:12,Iowa State,Marial Shayok,Foul,67,63
+0:12,Arizona,Dylan Smith,Free Throw,68,63
+0:12,Arizona,Dylan Smith,Free Throw,69,63
+0:10,Iowa State,Marial Shayok,Missed Three Point Jumper,69,63
+0:10,Arizona,Ryan Luther,Defensive Rebound,69,63
+0:05,Arizona,Dylan Smith,Turnover,69,63
+0:04,Iowa State,Michael Jacobson,Layup,69,65
+0:04,Arizona,Chase Jeter,Foul,69,65
+0:04,Iowa State,Michael Jacobson,Free Throw,69,66
+0:04,Arizona,None,None,69,66
+0:03,Iowa State,Tyrese Hailburton,Foul,69,66
+0:03,Arizona,Brandon Williams,Free Throw,70,66
+0:03,Arizona,Brandon Williams,Free Throw,71,66
+0:00,Iowa State,None,None,71,66

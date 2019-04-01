@@ -1,0 +1,347 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:41,Providence,Alpha Diallo,Turnover,0,0
+19:26,Depaul,Paul Reed,Missed Jumper,0,0
+19:26,Providence,David Duke,Defensive Rebound,0,0
+19:13,Providence,Maliek White,Missed Jumper,0,0
+19:13,Depaul,Devin Gage,Block,0,0
+19:10,Providence,Providence,Offensive Rebound,0,0
+19:05,Providence,David Duke,Missed Layup,0,0
+19:05,Providence,Nate Watson,Offensive Rebound,0,0
+19:03,Providence,Nate Watson,Layup,0,2
+18:45,Depaul,Paul Reed,Jumper,2,2
+18:29,Providence,Alpha Diallo,Missed Three Point Jumper,2,2
+18:29,Providence,Isaiah Jackson,Offensive Rebound,2,2
+18:24,Providence,Maliek White,Missed Three Point Jumper,2,2
+18:24,Depaul,Femi Olujobi,Defensive Rebound,2,2
+18:10,Depaul,Max Strus,Missed Jumper,2,2
+18:10,Depaul,Paul Reed,Offensive Rebound,2,2
+17:51,Depaul,Paul Reed,Jumper,4,2
+17:22,Providence,Isaiah Jackson,Missed Three Point Jumper,4,2
+17:22,Providence,Alpha Diallo,Offensive Rebound,4,2
+17:20,Depaul,Eli Cain,Foul,4,2
+17:14,Providence,Maliek White,Layup,4,4
+16:53,Depaul,Femi Olujobi,Missed Three Point Jumper,4,4
+16:53,Providence,David Duke,Defensive Rebound,4,4
+16:43,Providence,Maliek White,Missed Jumper,4,4
+16:43,Depaul,Femi Olujobi,Block,4,4
+16:41,Depaul,Devin Gage,Defensive Rebound,4,4
+16:30,Depaul,Devin Gage,Turnover,4,4
+16:29,Providence,Isaiah Jackson,Steal,4,4
+16:28,Depaul,Devin Gage,Foul,4,4
+16:19,Providence,Alpha Diallo,Missed Jumper,4,4
+16:19,Providence,Kalif Young,Offensive Rebound,4,4
+16:15,Providence,Alpha Diallo,Jumper,4,6
+15:53,Depaul,Femi Olujobi,Turnover,4,6
+15:52,Providence,David Duke,Steal,4,6
+15:49,Providence,Drew Edwards,Turnover,4,6
+15:49,Providence,None,None,4,6
+15:25,Depaul,Lyrik Shreiner,Missed Three Point Jumper,4,6
+15:25,Depaul,Lyrik Shreiner,Offensive Rebound,4,6
+15:12,Depaul,Femi Olujobi,Missed Layup,4,6
+15:12,Providence,Makai Ashton-Langford,Defensive Rebound,4,6
+15:04,Providence,Alpha Diallo,Missed Three Point Jumper,4,6
+15:04,Depaul,Eli Cain,Defensive Rebound,4,6
+14:52,Depaul,Eli Cain,Missed Jumper,4,6
+14:52,Providence,Alpha Diallo,Block,4,6
+14:52,Depaul,DePaul,Offensive Rebound,4,6
+14:49,Depaul,Max Strus,Missed Three Point Jumper,4,6
+14:49,Providence,Drew Edwards,Defensive Rebound,4,6
+14:42,Providence,A.J. Reeves,Three Point Jumper,4,9
+14:28,Depaul,Max Strus,Jumper,6,9
+14:11,Providence,Kalif Young,Turnover,6,9
+14:10,Providence,Kalif Young,Foul,6,9
+14:01,Providence,Drew Edwards,Foul,6,9
+13:52,Depaul,Jaylen Butz,Missed Layup,6,9
+13:52,Depaul,DePaul,Offensive Rebound,6,9
+13:39,Depaul,Devin Gage,Missed Jumper,6,9
+13:39,Providence,Providence,Defensive Rebound,6,9
+13:14,Depaul,Paul Reed,Foul,6,9
+13:14,Providence,Alpha Diallo,Free Throw,6,10
+13:14,Providence,Alpha Diallo,Free Throw,6,11
+13:02,Depaul,Eli Cain,Missed Three Point Jumper,6,11
+13:02,Depaul,Jaylen Butz,Offensive Rebound,6,11
+12:55,Depaul,Lyrik Shreiner,Foul,6,11
+12:55,Depaul,Lyrik Shreiner,Turnover,6,11
+12:47,Depaul,Jaylen Butz,Foul,6,11
+12:41,Depaul,Max Strus,Foul,6,11
+12:41,Providence,Jimmy Nichols Jr.,Missed Free Throw,6,11
+12:41,Providence,None,Team Rebound,6,11
+12:41,Providence,Jimmy Nichols Jr.,Missed Free Throw,6,11
+12:41,Depaul,Jaylen Butz,Defensive Rebound,6,11
+12:29,Depaul,Devin Gage,Missed Jumper,6,11
+12:29,Depaul,Femi Olujobi,Offensive Rebound,6,11
+12:27,Providence,David Duke,Foul,6,11
+12:27,Depaul,Femi Olujobi,Free Throw,7,11
+12:27,Depaul,Femi Olujobi,Free Throw,8,11
+12:10,Depaul,Max Strus,Foul,8,11
+12:10,Providence,Alpha Diallo,Free Throw,8,12
+12:10,Providence,Alpha Diallo,Free Throw,8,13
+11:58,Depaul,Eli Cain,Turnover,8,13
+11:57,Providence,Isaiah Jackson,Steal,8,13
+11:36,Providence,Nate Watson,Turnover,8,13
+11:36,Depaul,Eli Cain,Steal,8,13
+11:36,Providence,None,None,8,13
+11:27,Providence,Isaiah Jackson,Foul,8,13
+11:27,Depaul,Devin Gage,Missed Free Throw,8,13
+11:27,Depaul,None,Team Rebound,8,13
+11:27,Depaul,Devin Gage,Missed Free Throw,8,13
+11:27,Providence,A.J. Reeves,Defensive Rebound,8,13
+11:09,Providence,Alpha Diallo,Jumper,8,15
+11:00,Depaul,Max Strus,Turnover,8,15
+10:59,Providence,A.J. Reeves,Steal,8,15
+10:56,Providence,David Duke,Missed Layup,8,15
+10:56,Providence,Alpha Diallo,Offensive Rebound,8,15
+10:45,Providence,Alpha Diallo,Missed Jumper,8,15
+10:45,Depaul,Eli Cain,Defensive Rebound,8,15
+10:38,Providence,Alpha Diallo,Foul,8,15
+10:26,Depaul,Eli Cain,Missed Three Point Jumper,8,15
+10:26,Depaul,Devin Gage,Offensive Rebound,8,15
+10:21,Depaul,Paul Reed,Missed Layup,8,15
+10:21,Providence,A.J. Reeves,Defensive Rebound,8,15
+10:09,Providence,A.J. Reeves,Three Point Jumper,8,18
+10:06,Depaul,None,None,8,18
+9:45,Depaul,Paul Reed,Layup,10,18
+9:26,Providence,David Duke,Missed Layup,10,18
+9:26,Depaul,Paul Reed,Block,10,18
+9:24,Providence,Kalif Young,Offensive Rebound,10,18
+9:22,Providence,A.J. Reeves,Missed Three Point Jumper,10,18
+9:22,Depaul,Paul Reed,Defensive Rebound,10,18
+9:15,Depaul,Paul Reed,Turnover,10,18
+9:14,Providence,Isaiah Jackson,Steal,10,18
+9:12,Providence,Isaiah Jackson,Layup,10,20
+8:54,Depaul,Eli Cain,Missed Three Point Jumper,10,20
+8:54,Providence,David Duke,Defensive Rebound,10,20
+8:42,Providence,Alpha Diallo,Jumper,10,22
+8:18,Depaul,Paul Reed,Three Point Jumper,13,22
+8:03,Providence,Isaiah Jackson,Turnover,13,22
+7:47,Depaul,Paul Reed,Dunk,15,22
+7:34,Providence,Isaiah Jackson,Turnover,15,22
+7:33,Depaul,Jaylen Butz,Steal,15,22
+7:29,Depaul,Jaylen Butz,Turnover,15,22
+7:28,Providence,Makai Ashton-Langford,Steal,15,22
+7:25,Depaul,Lyrik Shreiner,Foul,15,22
+7:25,Providence,None,None,15,22
+7:25,Providence,Alpha Diallo,Free Throw,15,23
+7:25,Providence,Alpha Diallo,Free Throw,15,24
+7:14,Depaul,Eli Cain,Missed Jumper,15,24
+7:14,Depaul,Jaylen Butz,Offensive Rebound,15,24
+7:13,Providence,Nate Watson,Foul,15,24
+7:11,Depaul,Max Strus,Missed Three Point Jumper,15,24
+7:11,Providence,Nate Watson,Defensive Rebound,15,24
+6:46,Providence,Drew Edwards,Layup,15,26
+6:33,Depaul,Paul Reed,Turnover,15,26
+6:09,Providence,Drew Edwards,Jumper,15,28
+5:36,Depaul,Lyrik Shreiner,Jumper,17,28
+5:05,Providence,Drew Edwards,Missed Three Point Jumper,17,28
+5:05,Depaul,Eli Cain,Defensive Rebound,17,28
+4:54,Depaul,Jaylen Butz,Turnover,17,28
+4:53,Providence,Makai Ashton-Langford,Steal,17,28
+4:51,Providence,David Duke,Dunk,17,30
+4:26,Providence,Nate Watson,Foul,17,30
+4:26,Depaul,Jaylen Butz,Free Throw,18,30
+4:26,Depaul,Jaylen Butz,Free Throw,19,30
+4:08,Providence,Alpha Diallo,Turnover,19,30
+4:07,Depaul,Paul Reed,Steal,19,30
+3:58,Providence,Kalif Young,Foul,19,30
+3:58,Providence,None,None,19,30
+3:58,Depaul,Femi Olujobi,Free Throw,20,30
+3:58,Depaul,Femi Olujobi,Free Throw,21,30
+3:34,Providence,Drew Edwards,Turnover,21,30
+3:32,Depaul,Devin Gage,Steal,21,30
+3:29,Depaul,Devin Gage,Jumper,23,30
+2:55,Providence,Maliek White,Turnover,23,30
+2:28,Depaul,Femi Olujobi,Missed Layup,23,30
+2:28,Providence,Kalif Young,Block,23,30
+2:27,Providence,Alpha Diallo,Defensive Rebound,23,30
+2:04,Providence,Kalif Young,Missed Jumper,23,30
+2:04,Depaul,Paul Reed,Defensive Rebound,23,30
+1:49,Depaul,Eli Cain,Jumper,25,30
+1:48,Providence,None,None,25,30
+1:34,Providence,A.J. Reeves,Missed Three Point Jumper,25,30
+1:34,Depaul,Femi Olujobi,Defensive Rebound,25,30
+1:15,Providence,David Duke,Foul,25,30
+1:15,Depaul,Femi Olujobi,Missed Free Throw,25,30
+1:15,Providence,Kalif Young,Defensive Rebound,25,30
+0:59,Providence,Isaiah Jackson,Missed Three Point Jumper,25,30
+0:59,Providence,Kalif Young,Offensive Rebound,25,30
+0:55,Providence,David Duke,Missed Three Point Jumper,25,30
+0:55,Providence,Isaiah Jackson,Offensive Rebound,25,30
+0:45,Providence,A.J. Reeves,Three Point Jumper,25,33
+0:31,Depaul,Jaylen Butz,Turnover,25,33
+0:30,Providence,A.J. Reeves,Steal,25,33
+0:26,Providence,David Duke,Turnover,25,33
+0:25,Depaul,Devin Gage,Steal,25,33
+0:22,Depaul,Femi Olujobi,Dunk,27,33
+0:02,Providence,A.J. Reeves,Missed Three Point Jumper,27,33
+0:02,Depaul,Devin Gage,Defensive Rebound,27,33
+0:00,Providence,None,None,27,33
+19:43,Depaul,Femi Olujobi,Layup,29,33
+19:43,Providence,Alpha Diallo,Foul,29,33
+19:43,Depaul,Femi Olujobi,Free Throw,30,33
+19:31,Providence,Isaiah Jackson,Missed Three Point Jumper,30,33
+19:31,Depaul,Femi Olujobi,Defensive Rebound,30,33
+19:09,Depaul,Femi Olujobi,Three Point Jumper,33,33
+18:44,Depaul,Paul Reed,Foul,33,33
+18:42,Providence,David Duke,Layup,33,35
+18:27,Depaul,Femi Olujobi,Missed Layup,33,35
+18:27,Providence,Isaiah Jackson,Defensive Rebound,33,35
+18:21,Depaul,Eli Cain,Foul,33,35
+18:21,Providence,Alpha Diallo,Free Throw,33,36
+18:21,Providence,Alpha Diallo,Free Throw,33,37
+18:07,Depaul,Eli Cain,Jumper,35,37
+17:50,Providence,Nate Watson,Missed Jumper,35,37
+17:50,Depaul,Paul Reed,Defensive Rebound,35,37
+17:40,Depaul,Eli Cain,Turnover,35,37
+17:39,Providence,Isaiah Jackson,Steal,35,37
+17:36,Depaul,Devin Gage,Foul,35,37
+17:26,Providence,Nate Watson,Layup,35,39
+17:19,Depaul,Max Strus,Missed Three Point Jumper,35,39
+17:19,Providence,Isaiah Jackson,Defensive Rebound,35,39
+17:05,Providence,Nate Watson,Jumper,35,41
+16:47,Depaul,Devin Gage,Missed Layup,35,41
+16:47,Depaul,Devin Gage,Offensive Rebound,35,41
+16:42,Depaul,Devin Gage,Turnover,35,41
+16:41,Providence,Maliek White,Steal,35,41
+16:34,Providence,Nate Watson,Turnover,35,41
+16:13,Depaul,Devin Gage,Missed Jumper,35,41
+16:13,Providence,Alpha Diallo,Defensive Rebound,35,41
+15:56,Depaul,Femi Olujobi,Foul,35,41
+15:56,Providence,None,None,35,41
+15:50,Providence,Alpha Diallo,Missed Three Point Jumper,35,41
+15:50,Depaul,Eli Cain,Defensive Rebound,35,41
+15:27,Depaul,Femi Olujobi,Turnover,35,41
+15:13,Providence,Makai Ashton-Langford,Turnover,35,41
+14:58,Depaul,Max Strus,Missed Three Point Jumper,35,41
+14:58,Providence,A.J. Reeves,Defensive Rebound,35,41
+14:52,Providence,Alpha Diallo,Turnover,35,41
+14:51,Depaul,Max Strus,Steal,35,41
+14:48,Depaul,Max Strus,Layup,37,41
+14:34,Providence,Isaiah Jackson,Missed Three Point Jumper,37,41
+14:34,Providence,Nate Watson,Offensive Rebound,37,41
+14:32,Depaul,Jaylen Butz,Foul,37,41
+14:27,Depaul,Max Strus,Foul,37,41
+14:27,Providence,A.J. Reeves,Missed Free Throw,37,41
+14:27,Providence,None,Team Rebound,37,41
+14:27,Providence,A.J. Reeves,Free Throw,37,42
+14:27,Providence,A.J. Reeves,Free Throw,37,43
+14:03,Depaul,Eli Cain,Missed Three Point Jumper,37,43
+14:03,Providence,Alpha Diallo,Defensive Rebound,37,43
+13:55,Providence,Isaiah Jackson,Missed Three Point Jumper,37,43
+13:55,Providence,Alpha Diallo,Offensive Rebound,37,43
+13:42,Providence,Isaiah Jackson,Missed Jumper,37,43
+13:42,Providence,Providence,Offensive Rebound,37,43
+13:27,Providence,A.J. Reeves,Missed Jumper,37,43
+13:27,Depaul,Paul Reed,Defensive Rebound,37,43
+13:15,Depaul,Eli Cain,Missed Jumper,37,43
+13:15,Providence,Kalif Young,Defensive Rebound,37,43
+13:06,Providence,Makai Ashton-Langford,Layup,37,45
+12:50,Depaul,Paul Reed,Turnover,37,45
+12:31,Providence,Alpha Diallo,Missed Layup,37,45
+12:31,Depaul,Jaylen Butz,Defensive Rebound,37,45
+12:28,Depaul,Jaylen Butz,Turnover,37,45
+12:11,Providence,Drew Edwards,Missed Three Point Jumper,37,45
+12:11,Providence,Alpha Diallo,Offensive Rebound,37,45
+11:54,Providence,Alpha Diallo,Missed Jumper,37,45
+11:54,Depaul,Max Strus,Defensive Rebound,37,45
+11:42,Depaul,Eli Cain,Jumper,39,45
+11:42,Providence,Kalif Young,Foul,39,45
+11:42,Providence,None,None,39,45
+11:42,Depaul,Eli Cain,Missed Free Throw,39,45
+11:42,Providence,David Duke,Defensive Rebound,39,45
+11:13,Providence,Alpha Diallo,Missed Jumper,39,45
+11:13,Depaul,Max Strus,Defensive Rebound,39,45
+11:00,Depaul,Jaylen Butz,Jumper,41,45
+10:29,Depaul,Jaylen Butz,Foul,41,45
+10:29,Providence,Drew Edwards,Free Throw,41,46
+10:29,Providence,Drew Edwards,Free Throw,41,47
+10:10,Depaul,Paul Reed,Dunk,43,47
+10:00,Providence,Kris Monroe,Missed Three Point Jumper,43,47
+10:00,Providence,Alpha Diallo,Offensive Rebound,43,47
+9:57,Depaul,Max Strus,Foul,43,47
+9:57,Providence,Alpha Diallo,Free Throw,43,48
+9:57,Providence,Alpha Diallo,Free Throw,43,49
+9:40,Providence,Kris Monroe,Foul,43,49
+9:27,Depaul,Lyrik Shreiner,Missed Three Point Jumper,43,49
+9:27,Depaul,Paul Reed,Offensive Rebound,43,49
+9:25,Providence,Kris Monroe,Foul,43,49
+9:17,Providence,Kris Monroe,Foul,43,49
+9:07,Depaul,Paul Reed,Missed Layup,43,49
+9:07,Providence,Kris Monroe,Defensive Rebound,43,49
+9:00,Providence,Makai Ashton-Langford,Turnover,43,49
+8:58,Depaul,Paul Reed,Steal,43,49
+8:50,Providence,Drew Edwards,Foul,43,49
+8:50,Depaul,Paul Reed,Free Throw,44,49
+8:50,Depaul,Paul Reed,Free Throw,45,49
+8:23,Providence,Drew Edwards,Missed Jumper,45,49
+8:23,Providence,Nate Watson,Offensive Rebound,45,49
+8:19,Providence,Nate Watson,Layup,45,51
+8:19,Depaul,Eli Cain,Foul,45,51
+8:19,Providence,Nate Watson,Free Throw,45,52
+8:02,Depaul,Femi Olujobi,Layup,47,52
+7:41,Depaul,Eli Cain,Foul,47,52
+7:41,Providence,None,None,47,52
+7:41,Providence,Alpha Diallo,Free Throw,47,53
+7:41,Providence,Alpha Diallo,Free Throw,47,54
+7:18,Depaul,Devin Gage,Three Point Jumper,50,54
+7:01,Providence,Kris Monroe,Missed Jumper,50,54
+7:01,Depaul,Femi Olujobi,Defensive Rebound,50,54
+6:32,Depaul,Devin Gage,Missed Layup,50,54
+6:32,Providence,Nate Watson,Block,50,54
+6:30,Providence,Alpha Diallo,Defensive Rebound,50,54
+6:25,Depaul,Jaylen Butz,Foul,50,54
+6:25,Providence,Nate Watson,Free Throw,50,55
+6:25,Providence,Nate Watson,Missed Free Throw,50,55
+6:25,Depaul,Paul Reed,Defensive Rebound,50,55
+6:08,Depaul,Paul Reed,Three Point Jumper,53,55
+5:48,Providence,Alpha Diallo,Missed Three Point Jumper,53,55
+5:48,Depaul,Paul Reed,Defensive Rebound,53,55
+5:42,Depaul,Paul Reed,Turnover,53,55
+5:41,Providence,Nate Watson,Steal,53,55
+5:21,Providence,Isaiah Jackson,Layup,53,57
+5:14,Depaul,Paul Reed,Layup,55,57
+4:51,Providence,Nate Watson,Layup,55,59
+4:32,Depaul,Devin Gage,Jumper,57,59
+4:09,Providence,Drew Edwards,Three Point Jumper,57,62
+3:40,Depaul,Devin Gage,Missed Jumper,57,62
+3:40,Providence,Makai Ashton-Langford,Defensive Rebound,57,62
+3:19,Providence,Nate Watson,Layup,57,64
+2:59,Depaul,None,None,57,64
+2:54,Depaul,Max Strus,Three Point Jumper,60,64
+2:24,Providence,Drew Edwards,Layup,60,66
+2:15,Depaul,Max Strus,Missed Three Point Jumper,60,66
+2:15,Providence,Providence,Defensive Rebound,60,66
+2:12,Providence,None,None,60,66
+1:48,Providence,Nate Watson,Turnover,60,66
+1:48,Providence,Nate Watson,Foul,60,66
+1:41,Providence,Nate Watson,Foul,60,66
+1:41,Depaul,Max Strus,Free Throw,61,66
+1:41,Depaul,Max Strus,Free Throw,62,66
+1:41,Depaul,Max Strus,Free Throw,63,66
+1:34,Providence,None,None,63,66
+1:17,Providence,Alpha Diallo,Missed Jumper,63,66
+1:17,Depaul,Paul Reed,Block,63,66
+1:16,Depaul,Max Strus,Defensive Rebound,63,66
+1:01,Depaul,Max Strus,Missed Three Point Jumper,63,66
+1:01,Depaul,Paul Reed,Offensive Rebound,63,66
+0:55,Depaul,Devin Gage,Missed Three Point Jumper,63,66
+0:55,Providence,Nate Watson,Defensive Rebound,63,66
+0:23,Providence,Alpha Diallo,Missed Jumper,63,66
+0:23,Depaul,Max Strus,Defensive Rebound,63,66
+0:18,Depaul,None,None,63,66
+0:08,Depaul,None,None,63,66
+0:07,Providence,Makai Ashton-Langford,Foul,63,66
+0:07,Providence,None,None,63,66
+0:07,Depaul,Devin Gage,Free Throw,64,66
+0:07,Depaul,Devin Gage,Free Throw,65,66
+0:07,Depaul,Devin Gage,Foul,65,66
+0:07,Providence,Alpha Diallo,Free Throw,65,67
+0:07,Providence,Alpha Diallo,Free Throw,65,68
+0:05,Providence,Alpha Diallo,Foul,65,68
+0:05,Depaul,Devin Gage,Free Throw,66,68
+0:05,Depaul,Devin Gage,Free Throw,67,68
+0:02,Depaul,Lyrik Shreiner,Foul,67,68
+0:02,Providence,Drew Edwards,Free Throw,67,69
+0:02,Providence,Drew Edwards,Free Throw,67,70
+0:01,Depaul,Femi Olujobi,Turnover,67,70
+0:00,Providence,Drew Edwards,Steal,67,70
+0:00,Providence,None,None,67,70

@@ -1,0 +1,312 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:33,Akron,Tyler Cheese,Missed Layup,0,0
+19:33,Kent State,Philip Whittington,Block,0,0
+19:28,Kent State,Jalen Avery,Defensive Rebound,0,0
+19:12,Kent State,Philip Whittington,Foul,0,0
+19:12,Kent State,Philip Whittington,Turnover,0,0
+19:00,Akron,Deng Riak,Turnover,0,0
+18:41,Kent State,Philip Whittington,Layup,2,0
+18:25,Akron,Loren Cristian Jackson,Missed Three Point Jumper,2,0
+18:25,Kent State,C.J. Williamson,Defensive Rebound,2,0
+18:18,Akron,Tyler Cheese,Foul,2,0
+18:18,Kent State,C.J. Williamson,Free Throw,3,0
+18:18,Kent State,C.J. Williamson,Free Throw,4,0
+17:50,Akron,Deng Riak,Layup,4,2
+17:42,Kent State,Antonio Williams,Missed Jumper,4,2
+17:42,Akron,Loren Cristian Jackson,Defensive Rebound,4,2
+17:30,Akron,Loren Cristian Jackson,Missed Three Point Jumper,4,2
+17:30,Kent State,Kent State,Defensive Rebound,4,2
+17:04,Kent State,Jaylin Walker,Jumper,6,2
+16:43,Kent State,Philip Whittington,Foul,6,2
+16:43,Akron,Daniel Utomi,Free Throw,6,3
+16:43,Akron,Daniel Utomi,Free Throw,6,4
+16:25,Kent State,Jalen Avery,Missed Three Point Jumper,6,4
+16:25,Kent State,C.J. Williamson,Offensive Rebound,6,4
+16:07,Akron,Loren Cristian Jackson,Foul,6,4
+16:07,Kent State,Jalen Avery,Missed Free Throw,6,4
+16:07,Kent State,None,Team Rebound,6,4
+16:07,Kent State,Jalen Avery,Free Throw,7,4
+15:48,Akron,Tyler Cheese,Missed Layup,7,4
+15:48,Kent State,Kent State,Defensive Rebound,7,4
+15:45,Akron,None,None,7,4
+15:30,Kent State,C.J. Williamson,Turnover,7,4
+15:29,Akron,Jimond Ivey,Steal,7,4
+15:23,Akron,Daniel Utomi,Three Point Jumper,7,7
+15:04,Kent State,Akiean Frederick,Missed Layup,7,7
+15:04,Akron,Emmanuel Olojakpoke,Defensive Rebound,7,7
+14:55,Akron,Daniel Utomi,Missed Three Point Jumper,7,7
+14:55,Kent State,Jalen Avery,Defensive Rebound,7,7
+14:45,Akron,Daniel Utomi,Foul,7,7
+14:23,Kent State,Jalen Avery,Missed Three Point Jumper,7,7
+14:23,Akron,Daniel Utomi,Defensive Rebound,7,7
+13:56,Akron,Channel Banks,Missed Three Point Jumper,7,7
+13:56,Kent State,Jaylin Walker,Defensive Rebound,7,7
+13:46,Kent State,Antonio Williams,Three Point Jumper,10,7
+13:23,Kent State,Akiean Frederick,Foul,10,7
+13:23,Akron,Channel Banks,Free Throw,10,8
+13:23,Akron,Channel Banks,Free Throw,10,9
+13:10,Kent State,Akiean Frederick,Missed Three Point Jumper,10,9
+13:10,Akron,Daniel Utomi,Defensive Rebound,10,9
+13:02,Akron,Deng Riak,Turnover,10,9
+13:02,Akron,Deng Riak,Foul,10,9
+12:49,Kent State,Jaylin Walker,Missed Three Point Jumper,10,9
+12:49,Akron,Daniel Utomi,Defensive Rebound,10,9
+12:42,Akron,Channel Banks,Layup,10,11
+12:20,Kent State,Jaylin Walker,Jumper,12,11
+11:59,Akron,Channel Banks,Layup,12,13
+11:42,Kent State,Antonio Williams,Missed Jumper,12,13
+11:42,Akron,Tyler Cheese,Defensive Rebound,12,13
+11:36,Kent State,Antonio Williams,Foul,12,13
+11:36,Akron,None,None,12,13
+11:36,Akron,Tyler Cheese,Free Throw,12,14
+11:36,Akron,Tyler Cheese,Free Throw,12,15
+11:07,Kent State,Jaylin Walker,Turnover,12,15
+11:06,Akron,Jimond Ivey,Steal,12,15
+11:04,Akron,Jimond Ivey,Dunk,12,17
+10:58,Kent State,Jaylin Walker,Missed Three Point Jumper,12,17
+10:58,Kent State,Mitch Peterson,Offensive Rebound,12,17
+10:39,Kent State,Jaylin Walker,Layup,14,17
+10:19,Akron,Loren Cristian Jackson,Turnover,14,17
+10:18,Kent State,Akiean Frederick,Steal,14,17
+10:16,Kent State,Mitch Peterson,Turnover,14,17
+10:01,Akron,Loren Cristian Jackson,Turnover,14,17
+9:48,Kent State,Antonio Williams,Layup,16,17
+9:25,Akron,Tyler Cheese,Missed Layup,16,17
+9:25,Akron,Tyler Cheese,Offensive Rebound,16,17
+9:22,Akron,Tyler Cheese,Turnover,16,17
+9:19,Kent State,Anthony Roberts,Steal,16,17
+9:16,Kent State,Jalen Avery,Missed Three Point Jumper,16,17
+9:16,Kent State,Anthony Roberts,Offensive Rebound,16,17
+8:56,Kent State,Antonio Williams,Missed Layup,16,17
+8:56,Kent State,BJ Duling,Offensive Rebound,16,17
+8:54,Akron,Jeremy Roscoe,Foul,16,17
+8:54,Kent State,BJ Duling,Missed Free Throw,16,17
+8:54,Kent State,None,Team Rebound,16,17
+8:54,Kent State,BJ Duling,Missed Free Throw,16,17
+8:54,Kent State,Antonio Williams,Offensive Rebound,16,17
+8:35,Kent State,BJ Duling,Layup,18,17
+7:58,Akron,Loren Cristian Jackson,Missed Layup,18,17
+7:58,Kent State,Antonio Williams,Defensive Rebound,18,17
+7:49,Kent State,C.J. Williamson,Three Point Jumper,21,17
+7:42,Akron,None,None,21,17
+7:30,Kent State,BJ Duling,Foul,21,17
+7:30,Akron,Emmanuel Olojakpoke,Missed Free Throw,21,17
+7:30,Akron,None,Team Rebound,21,17
+7:30,Akron,Emmanuel Olojakpoke,Missed Free Throw,21,17
+7:30,Akron,None,Team Rebound,21,17
+7:29,Kent State,BJ Duling,Foul,21,17
+7:25,Akron,Jimond Ivey,Layup,21,19
+7:21,Kent State,Antonio Williams,Foul,21,19
+7:21,Akron,Jimond Ivey,Missed Free Throw,21,19
+7:21,Kent State,C.J. Williamson,Defensive Rebound,21,19
+7:08,Kent State,Anthony Roberts,Missed Three Point Jumper,21,19
+7:08,Akron,Jimond Ivey,Defensive Rebound,21,19
+6:37,Akron,Daniel Utomi,Missed Jumper,21,19
+6:37,Kent State,BJ Duling,Defensive Rebound,21,19
+6:11,Kent State,Jaylin Walker,Missed Three Point Jumper,21,19
+6:11,Akron,Deng Riak,Defensive Rebound,21,19
+6:03,Akron,Deng Riak,Missed Jumper,21,19
+6:03,Kent State,Jaylin Walker,Defensive Rebound,21,19
+5:45,Kent State,C.J. Williamson,Missed Three Point Jumper,21,19
+5:45,Kent State,Kent State,Offensive Rebound,21,19
+5:44,Kent State,Anthony Roberts,Turnover,21,19
+5:43,Akron,Tyler Cheese,Steal,21,19
+5:42,Akron,Tyler Cheese,Layup,21,21
+5:38,Kent State,Mitch Peterson,Foul,21,21
+5:38,Akron,Tyler Cheese,Missed Free Throw,21,21
+5:38,Kent State,Mitch Peterson,Defensive Rebound,21,21
+5:20,Kent State,Jaylin Walker,Missed Jumper,21,21
+5:20,Akron,Tyler Cheese,Defensive Rebound,21,21
+5:15,Akron,Tyler Cheese,Turnover,21,21
+4:47,Kent State,Jaylin Walker,Missed Three Point Jumper,21,21
+4:47,Kent State,Mitch Peterson,Offensive Rebound,21,21
+4:45,Kent State,Kent State ,Turnover,21,21
+4:18,Akron,Loren Cristian Jackson,Missed Layup,21,21
+4:18,Kent State,Mitch Peterson,Defensive Rebound,21,21
+4:05,Kent State,Jaylin Walker,Missed Layup,21,21
+4:05,Kent State,Akiean Frederick,Offensive Rebound,21,21
+4:00,Kent State,Akiean Frederick,Layup,23,21
+3:47,Akron,None,None,23,21
+3:39,Akron,Tyler Cheese,Three Point Jumper,23,24
+3:13,Kent State,Mitch Peterson,Missed Jumper,23,24
+3:13,Kent State,Philip Whittington,Offensive Rebound,23,24
+3:08,Kent State,Philip Whittington,Turnover,23,24
+2:55,Akron,Tyler Cheese,Turnover,23,24
+2:53,Kent State,Jaylin Walker,Steal,23,24
+2:49,Kent State,Antonio Williams,Layup,25,24
+2:49,Akron,Jimond Ivey,Foul,25,24
+2:49,Kent State,Antonio Williams,Free Throw,26,24
+2:21,Akron,Deng Riak,Missed Layup,26,24
+2:21,Kent State,Akiean Frederick,Defensive Rebound,26,24
+2:09,Kent State,Anthony Roberts,Turnover,26,24
+2:06,Akron,Jimond Ivey,Steal,26,24
+2:04,Akron,Jimond Ivey,Layup,26,26
+1:44,Akron,Channel Banks,Foul,26,26
+1:44,Kent State,Jaylin Walker,Free Throw,27,26
+1:44,Kent State,Jaylin Walker,Free Throw,28,26
+1:20,Akron,Loren Cristian Jackson,Missed Three Point Jumper,28,26
+1:20,Kent State,Akiean Frederick,Defensive Rebound,28,26
+0:59,Kent State,Jaylin Walker,Turnover,28,26
+0:58,Akron,Tyler Cheese,Steal,28,26
+0:56,Akron,Tyler Cheese,Layup,28,28
+0:38,Akron,Loren Cristian Jackson,Foul,28,28
+0:38,Kent State,Jalen Avery,Free Throw,29,28
+0:38,Kent State,Jalen Avery,Missed Free Throw,29,28
+0:38,Kent State,None,Team Rebound,29,28
+0:38,Kent State,Jalen Avery,Free Throw,30,28
+0:06,Akron,Daniel Utomi,Three Point Jumper,30,31
+0:00,Akron,None,None,30,31
+19:40,Akron,Tyler Cheese,Turnover,30,31
+19:38,Kent State,C.J. Williamson,Steal,30,31
+19:29,Kent State,Philip Whittington,Layup,32,31
+19:08,Akron,Loren Cristian Jackson,Jumper,32,33
+18:42,Kent State,Philip Whittington,Turnover,32,33
+18:41,Akron,Loren Cristian Jackson,Steal,32,33
+18:38,Akron,Loren Cristian Jackson,Missed Three Point Jumper,32,33
+18:38,Kent State,Jalen Avery,Defensive Rebound,32,33
+18:30,Kent State,Jaylin Walker,Layup,34,33
+18:09,Akron,Deng Riak,Missed Layup,34,33
+18:09,Kent State,Philip Whittington,Block,34,33
+18:06,Kent State,Jaylin Walker,Defensive Rebound,34,33
+18:00,Kent State,C.J. Williamson,Missed Three Point Jumper,34,33
+18:00,Kent State,Philip Whittington,Offensive Rebound,34,33
+17:38,Kent State,Jalen Avery,Three Point Jumper,37,33
+17:35,Akron,None,None,37,33
+17:16,Akron,Tyler Cheese,Layup,37,35
+16:58,Kent State,Jalen Avery,Missed Jumper,37,35
+16:58,Akron,Jimond Ivey,Defensive Rebound,37,35
+16:40,Akron,Tyler Cheese,Missed Three Point Jumper,37,35
+16:40,Akron,None,Team Rebound,37,35
+16:39,Kent State,Philip Whittington,Foul,37,35
+16:29,Akron,Tyler Cheese,Layup,37,37
+15:56,Kent State,Jaylin Walker,Missed Three Point Jumper,37,37
+15:56,Akron,Akron,Defensive Rebound,37,37
+15:56,Akron,None,None,37,37
+15:34,Akron,Channel Banks,Turnover,37,37
+15:32,Kent State,Akiean Frederick,Steal,37,37
+15:12,Kent State,Antonio Williams,Jumper,39,37
+14:47,Akron,Channel Banks,Missed Three Point Jumper,39,37
+14:47,Akron,Emmanuel Olojakpoke,Offensive Rebound,39,37
+14:44,Akron,Emmanuel Olojakpoke,Layup,39,39
+14:44,Kent State,Akiean Frederick,Foul,39,39
+14:44,Akron,Emmanuel Olojakpoke,Missed Free Throw,39,39
+14:44,Akron,Jimond Ivey,Offensive Rebound,39,39
+14:37,Akron,Emmanuel Olojakpoke,Missed Layup,39,39
+14:37,Kent State,Akiean Frederick,Defensive Rebound,39,39
+14:28,Kent State,Jaylin Walker,Turnover,39,39
+14:27,Akron,Channel Banks,Steal,39,39
+14:05,Akron,Channel Banks,Missed Layup,39,39
+14:05,Kent State,C.J. Williamson,Defensive Rebound,39,39
+13:50,Kent State,Jaylin Walker,Missed Layup,39,39
+13:50,Akron,Emmanuel Olojakpoke,Defensive Rebound,39,39
+13:23,Kent State,C.J. Williamson,Foul,39,39
+13:12,Akron,Tyler Cheese,Missed Three Point Jumper,39,39
+13:12,Kent State,Jalen Avery,Defensive Rebound,39,39
+13:02,Kent State,Anthony Roberts,Missed Three Point Jumper,39,39
+13:02,Akron,Deng Riak,Defensive Rebound,39,39
+12:56,Akron,Loren Cristian Jackson,Layup,39,41
+12:56,Kent State,Anthony Roberts,Foul,39,41
+12:56,Akron,Loren Cristian Jackson,Free Throw,39,42
+12:34,Kent State,Jaylin Walker,Missed Layup,39,42
+12:34,Akron,Deng Riak,Defensive Rebound,39,42
+12:24,Akron,Tyler Cheese,Turnover,39,42
+12:22,Kent State,Anthony Roberts,Steal,39,42
+12:12,Kent State,Antonio Williams,Missed Jumper,39,42
+12:12,Akron,Jimond Ivey,Defensive Rebound,39,42
+11:55,Akron,Deng Riak,Layup,39,44
+11:52,Akron,None,None,39,44
+11:30,Akron,Deng Riak,Foul,39,44
+11:19,Kent State,Anthony Roberts,Missed Layup,39,44
+11:19,Akron,Tyler Cheese,Defensive Rebound,39,44
+10:58,Akron,Jimond Ivey,Missed Layup,39,44
+10:58,Kent State,Philip Whittington,Block,39,44
+10:58,Kent State,Kent State,Defensive Rebound,39,44
+10:32,Kent State,Antonio Williams,Missed Three Point Jumper,39,44
+10:32,Akron,Jimond Ivey,Defensive Rebound,39,44
+10:25,Akron,Loren Cristian Jackson,Missed Layup,39,44
+10:25,Kent State,Philip Whittington,Block,39,44
+10:23,Kent State,Antonio Williams,Defensive Rebound,39,44
+10:19,Kent State,Jaylin Walker,Missed Layup,39,44
+10:19,Akron,Deng Riak,Block,39,44
+10:16,Kent State,Philip Whittington,Offensive Rebound,39,44
+10:12,Kent State,Philip Whittington,Missed Layup,39,44
+10:12,Akron,Tyler Cheese,Defensive Rebound,39,44
+9:49,Akron,Tyler Cheese,Missed Layup,39,44
+9:49,Kent State,C.J. Williamson,Defensive Rebound,39,44
+9:42,Kent State,Jaylin Walker,Missed Three Point Jumper,39,44
+9:42,Akron,Tyler Cheese,Defensive Rebound,39,44
+9:19,Akron,Loren Cristian Jackson,Three Point Jumper,39,47
+9:11,Kent State,C.J. Williamson,Missed Three Point Jumper,39,47
+9:11,Akron,Tyler Cheese,Defensive Rebound,39,47
+9:05,Akron,Loren Cristian Jackson,Three Point Jumper,39,50
+9:03,Kent State,None,None,39,50
+8:44,Kent State,C.J. Williamson,Layup,41,50
+8:22,Akron,Jimond Ivey,Three Point Jumper,41,53
+8:01,Kent State,Antonio Williams,Missed Layup,41,53
+8:01,Akron,Deng Riak,Block,41,53
+7:59,Kent State,C.J. Williamson,Offensive Rebound,41,53
+7:55,Kent State,Akiean Frederick,Missed Layup,41,53
+7:55,Kent State,Kent State,Offensive Rebound,41,53
+7:55,Akron,None,None,41,53
+7:53,Kent State,Jalen Avery,Turnover,41,53
+7:52,Akron,Channel Banks,Steal,41,53
+7:50,Akron,Tyler Cheese,Dunk,41,55
+7:35,Kent State,Jaylin Walker,Missed Three Point Jumper,41,55
+7:35,Akron,Loren Cristian Jackson,Defensive Rebound,41,55
+7:32,Akron,Loren Cristian Jackson,Turnover,41,55
+7:21,Kent State,Antonio Williams,Missed Jumper,41,55
+7:21,Akron,Akron,Defensive Rebound,41,55
+7:05,Akron,Daniel Utomi,Three Point Jumper,41,58
+6:35,Kent State,Jalen Avery,Three Point Jumper,44,58
+6:07,Akron,Channel Banks,Three Point Jumper,44,61
+6:00,Akron,Deng Riak,Foul,44,61
+6:00,Kent State,DeAndre Gholston,Missed Free Throw,44,61
+6:00,Kent State,None,Team Rebound,44,61
+6:00,Kent State,DeAndre Gholston,Free Throw,45,61
+5:47,Akron,Daniel Utomi,Three Point Jumper,45,64
+5:38,Kent State,DeAndre Gholston,Missed Jumper,45,64
+5:38,Kent State,Jaylin Walker,Offensive Rebound,45,64
+5:29,Kent State,Antonio Williams,Layup,47,64
+4:57,Akron,Loren Cristian Jackson,Missed Three Point Jumper,47,64
+4:57,Kent State,Akiean Frederick,Defensive Rebound,47,64
+4:47,Kent State,Jaylin Walker,Missed Three Point Jumper,47,64
+4:47,Akron,Akron,Defensive Rebound,47,64
+4:28,Akron,Channel Banks,Missed Three Point Jumper,47,64
+4:28,Kent State,Antonio Williams,Defensive Rebound,47,64
+4:22,Kent State,Jaylin Walker,Missed Three Point Jumper,47,64
+4:22,Akron,Deng Riak,Defensive Rebound,47,64
+4:03,Akron,Jimond Ivey,Missed Three Point Jumper,47,64
+4:03,Akron,Deng Riak,Offensive Rebound,47,64
+4:02,Kent State,DeAndre Gholston,Foul,47,64
+4:02,Akron,Deng Riak,Missed Free Throw,47,64
+4:02,Akron,None,Team Rebound,47,64
+4:02,Akron,Deng Riak,Free Throw,47,65
+3:49,Kent State,Antonio Williams,Missed Jumper,47,65
+3:49,Akron,Daniel Utomi,Defensive Rebound,47,65
+3:48,Kent State,DeAndre Gholston,Foul,47,65
+3:48,Akron,None,None,47,65
+3:26,Kent State,Anthony Roberts,Foul,47,65
+3:26,Akron,Loren Cristian Jackson,Free Throw,47,66
+3:26,Akron,Loren Cristian Jackson,Free Throw,47,67
+3:00,Kent State,Jaylin Walker,Missed Three Point Jumper,47,67
+3:00,Kent State,BJ Duling,Offensive Rebound,47,67
+2:56,Kent State,BJ Duling,Layup,49,67
+2:56,Akron,Deng Riak,Foul,49,67
+2:56,Kent State,BJ Duling,Missed Free Throw,49,67
+2:56,Akron,Deng Riak,Defensive Rebound,49,67
+2:32,Akron,Loren Cristian Jackson,Turnover,49,67
+2:18,Kent State,DeAndre Gholston,Layup,51,67
+1:50,Akron,Loren Cristian Jackson,Missed Three Point Jumper,51,67
+1:50,Kent State,Antonio Williams,Block,51,67
+1:50,Akron,Akron,Offensive Rebound,51,67
+1:50,Akron,None,None,51,67
+1:41,Akron,Loren Cristian Jackson,Missed Three Point Jumper,51,67
+1:41,Kent State,Antonio Williams,Defensive Rebound,51,67
+1:36,Kent State,Anthony Roberts,Jumper,53,67
+1:03,Akron,Loren Cristian Jackson,Layup,53,69
+0:51,Kent State,BJ Duling,Missed Three Point Jumper,53,69
+0:51,Akron,Daniel Utomi,Defensive Rebound,53,69
+0:22,Akron,Loren Cristian Jackson,Three Point Jumper,53,72
+0:04,Kent State,Anthony Roberts,Missed Jumper,53,72
+0:04,Akron,Tyler Cheese,Defensive Rebound,53,72
+0:00,Akron,None,None,53,72

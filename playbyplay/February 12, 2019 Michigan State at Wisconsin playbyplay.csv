@@ -1,0 +1,302 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Wisconsin,None,None,0,0
+19:43,Wisconsin,Khalil Iverson,Missed Layup,0,0
+19:43,Wisconsin,Khalil Iverson,Offensive Rebound,0,0
+19:41,Wisconsin,Khalil Iverson,Turnover,0,0
+19:41,Michigan State,Aaron Henry,Steal,0,0
+19:29,Michigan State,Matt McQuaid,Missed Jumper,0,0
+19:29,Michigan State,Kenny Goins,Offensive Rebound,0,0
+19:26,Michigan State,Kenny Goins,Layup,2,0
+19:09,Wisconsin,Brad Davison,Missed Three Point Jumper,2,0
+19:09,Michigan State,Kenny Goins,Defensive Rebound,2,0
+18:59,Michigan State,Kenny Goins,Missed Three Point Jumper,2,0
+18:59,Wisconsin,Brad Davison,Defensive Rebound,2,0
+18:34,Wisconsin,Brad Davison,Missed Layup,2,0
+18:34,Michigan State,Aaron Henry,Block,2,0
+18:34,Michigan State,Kenny Goins,Defensive Rebound,2,0
+18:17,Michigan State,Matt McQuaid,Missed Three Point Jumper,2,0
+18:17,Michigan State,Nick Ward,Offensive Rebound,2,0
+18:09,Michigan State,Nick Ward,Layup,4,0
+18:01,Wisconsin,Nate Reuvers,Three Point Jumper,4,3
+17:32,Michigan State,Cassius Winston,Missed Three Point Jumper,4,3
+17:32,Wisconsin,Ethan Happ,Defensive Rebound,4,3
+17:20,Wisconsin,Brad Davison,Three Point Jumper,4,6
+17:06,Michigan State,Nick Ward,Jumper,6,6
+16:45,Wisconsin,Nate Reuvers,Turnover,6,6
+16:45,Michigan State,Nick Ward,Steal,6,6
+16:33,Michigan State,Nick Ward,Missed Layup,6,6
+16:33,Wisconsin,Nate Reuvers,Defensive Rebound,6,6
+16:19,Wisconsin,Brad Davison,Missed Three Point Jumper,6,6
+16:19,Michigan State,Aaron Henry,Defensive Rebound,6,6
+16:05,Michigan State,Nick Ward,Turnover,6,6
+16:05,Wisconsin,Ethan Happ,Steal,6,6
+15:57,Wisconsin,Ethan Happ,Jumper,6,8
+15:41,Michigan State,Cassius Winston,Jumper,8,8
+15:18,Wisconsin,Ethan Happ,Turnover,8,8
+15:18,Wisconsin,None,None,8,8
+14:57,Michigan State,Cassius Winston,Turnover,8,8
+14:57,Wisconsin,Charles Thomas IV,Steal,8,8
+14:41,Wisconsin,Ethan Happ,Missed Jumper,8,8
+14:41,Michigan State,Xavier Tillman,Defensive Rebound,8,8
+14:25,Michigan State,Xavier Tillman,Layup,10,8
+14:08,Wisconsin,Charles Thomas IV,Missed Three Point Jumper,10,8
+14:08,Michigan State,Kyle Ahrens,Defensive Rebound,10,8
+13:53,Michigan State,Kyle Ahrens,Missed Three Point Jumper,10,8
+13:53,Wisconsin,Brad Davison,Defensive Rebound,10,8
+13:25,Wisconsin,Nate Reuvers,Jumper,10,10
+13:12,Michigan State,Kyle Ahrens,Foul,10,10
+13:12,Michigan State,Kyle Ahrens,Turnover,10,10
+13:02,Wisconsin,Nate Reuvers,Turnover,10,10
+13:02,Michigan State,Xavier Tillman,Steal,10,10
+12:57,Wisconsin,Brevin Pritzl,Foul,10,10
+12:57,Michigan State,Nick Ward,Missed Free Throw,10,10
+12:57,Michigan State,None,Team Rebound,10,10
+12:57,Michigan State,Nick Ward,Free Throw,11,10
+12:37,Wisconsin,Ethan Happ,Jumper,11,12
+12:31,Wisconsin,Brevin Pritzl,Foul,11,12
+12:15,Michigan State,Xavier Tillman,Turnover,11,12
+12:15,Wisconsin,D'Mitrik Trice,Steal,11,12
+12:07,Wisconsin,D'Mitrik Trice,Missed Layup,11,12
+12:07,Michigan State,Xavier Tillman,Block,11,12
+12:07,Michigan State,Cassius Winston,Defensive Rebound,11,12
+11:52,Michigan State,Aaron Henry,Turnover,11,12
+11:52,Wisconsin,D'Mitrik Trice,Steal,11,12
+11:37,Wisconsin,Nate Reuvers,Missed Three Point Jumper,11,12
+11:37,Michigan State,Kyle Ahrens,Defensive Rebound,11,12
+11:31,Michigan State,Nick Ward,Dunk,13,12
+11:00,Wisconsin,Khalil Iverson,Missed Jumper,13,12
+11:00,Michigan State,Xavier Tillman,Block,13,12
+11:00,Michigan State,Xavier Tillman,Defensive Rebound,13,12
+10:52,Michigan State,Kyle Ahrens,Jumper,15,12
+10:51,Wisconsin,None,None,15,12
+10:50,Wisconsin,None,None,15,12
+10:50,Wisconsin,None,None,15,12
+10:35,Wisconsin,Ethan Happ,Missed Jumper,15,12
+10:35,Michigan State,Nick Ward,Block,15,12
+10:35,Wisconsin,Ethan Happ,Offensive Rebound,15,12
+10:33,Wisconsin,None,None,15,12
+10:31,Wisconsin,D'Mitrik Trice,Jumper,15,14
+9:59,Michigan State,Matt McQuaid,Turnover,15,14
+9:42,Wisconsin,Ethan Happ,Missed Jumper,15,14
+9:42,Wisconsin,Ethan Happ,Offensive Rebound,15,14
+9:37,Wisconsin,Ethan Happ,Jumper,15,16
+9:30,Michigan State,Kenny Goins,Three Point Jumper,18,16
+9:10,Wisconsin,Charles Thomas IV,Layup,18,18
+8:58,Michigan State,Kenny Goins,Missed Three Point Jumper,18,18
+8:58,Wisconsin,D'Mitrik Trice,Defensive Rebound,18,18
+8:48,Wisconsin,D'Mitrik Trice,Missed Jumper,18,18
+8:48,Michigan State,Kenny Goins,Defensive Rebound,18,18
+8:39,Michigan State,Cassius Winston,Three Point Jumper,21,18
+8:22,Wisconsin,Kobe King,Missed Three Point Jumper,21,18
+8:22,Michigan State,Cassius Winston,Defensive Rebound,21,18
+8:15,Michigan State,Cassius Winston,Missed Three Point Jumper,21,18
+8:15,Wisconsin,Charles Thomas IV,Defensive Rebound,21,18
+7:57,Wisconsin,Ethan Happ,Missed Layup,21,18
+7:57,Michigan State,Nick Ward,Block,21,18
+7:57,Wisconsin,Wisconsin,Offensive Rebound,21,18
+7:54,Wisconsin,None,None,21,18
+7:50,Wisconsin,Nate Reuvers,Three Point Jumper,21,21
+7:31,Michigan State,Matt McQuaid,Missed Jumper,21,21
+7:31,Wisconsin,Nate Reuvers,Defensive Rebound,21,21
+7:22,Michigan State,Cassius Winston,Foul,21,21
+7:22,Wisconsin,Khalil Iverson,Free Throw,21,22
+7:22,Wisconsin,Khalil Iverson,Free Throw,21,23
+7:10,Michigan State,Cassius Winston,Jumper,23,23
+6:56,Michigan State,Matt McQuaid,Foul,23,23
+6:56,Wisconsin,Brevin Pritzl,Free Throw,23,25
+6:56,Wisconsin,Brevin Pritzl,Free Throw,23,24
+6:52,Wisconsin,Brevin Pritzl,Three Point Jumper,23,28
+6:33,Wisconsin,D'Mitrik Trice,Foul,23,28
+6:28,Michigan State,Xavier Tillman,Missed Three Point Jumper,23,28
+6:28,Michigan State,Kyle Ahrens,Offensive Rebound,23,28
+6:22,Michigan State,Kyle Ahrens,Missed Layup,23,28
+6:22,Wisconsin,Brevin Pritzl,Block,23,28
+6:22,Michigan State,Xavier Tillman,Offensive Rebound,23,28
+6:04,Michigan State,Aaron Henry,Jumper,25,28
+5:35,Wisconsin,Ethan Happ,Missed Layup,25,28
+5:35,Michigan State,Kyle Ahrens,Defensive Rebound,25,28
+5:20,Michigan State,Nick Ward,Foul,25,28
+5:20,Wisconsin,Nate Reuvers,Foul,25,28
+5:08,Michigan State,Aaron Henry,Missed Three Point Jumper,25,28
+5:08,Wisconsin,Charles Thomas IV,Defensive Rebound,25,28
+4:45,Wisconsin,Brad Davison,Layup,25,30
+4:34,Michigan State,Xavier Tillman,Turnover,25,30
+4:34,Wisconsin,Kobe King,Steal,25,30
+4:06,Wisconsin,Brad Davison,Missed Three Point Jumper,25,30
+4:06,Michigan State,Nick Ward,Defensive Rebound,25,30
+3:54,Michigan State,Cassius Winston,Turnover,25,30
+3:54,Wisconsin,Brad Davison,Steal,25,30
+3:50,Wisconsin,Brevin Pritzl,Dunk,25,32
+3:32,Michigan State,Kyle Ahrens,Missed Layup,25,32
+3:32,Wisconsin,Charles Thomas IV,Block,25,32
+3:32,Michigan State,Michigan State,Offensive Rebound,25,32
+3:28,Wisconsin,None,None,25,32
+3:26,Wisconsin,None,None,25,32
+3:15,Michigan State,Nick Ward,Jumper,27,32
+2:52,Wisconsin,Ethan Happ,Missed Layup,27,32
+2:52,Michigan State,Nick Ward,Block,27,32
+2:52,Wisconsin,Ethan Happ,Offensive Rebound,27,32
+2:52,Wisconsin,Ethan Happ,Missed Layup,27,32
+2:52,Michigan State,Nick Ward,Defensive Rebound,27,32
+2:33,Michigan State,Kyle Ahrens,Three Point Jumper,30,32
+2:10,Wisconsin,Brad Davison,Missed Jumper,30,32
+2:10,Michigan State,Nick Ward,Defensive Rebound,30,32
+2:02,Michigan State,Cassius Winston,Three Point Jumper,33,32
+1:41,Wisconsin,Kobe King,Jumper,33,34
+1:34,Michigan State,Cassius Winston,Three Point Jumper,36,34
+1:16,Wisconsin,Kobe King,Jumper,36,36
+0:54,Wisconsin,Charles Thomas IV,Foul,36,36
+0:54,Michigan State,Cassius Winston,Missed Free Throw,36,36
+0:54,Michigan State,None,Team Rebound,36,36
+0:54,Michigan State,Cassius Winston,Free Throw,37,36
+0:39,Wisconsin,Ethan Happ,Layup,37,38
+0:16,Michigan State,None,None,37,38
+0:06,Michigan State,Cassius Winston,Missed Jumper,37,38
+0:06,Wisconsin,Khalil Iverson,Defensive Rebound,37,38
+0:00,Wisconsin,None,None,37,38
+20:00,Michigan State,None,None,37,38
+19:49,Michigan State,Cassius Winston,Foul,37,38
+19:49,Michigan State,Cassius Winston,Turnover,37,38
+19:38,Wisconsin,Ethan Happ,Turnover,37,38
+19:31,Wisconsin,Nate Reuvers,Foul,37,38
+19:24,Michigan State,Kenny Goins,Missed Three Point Jumper,37,38
+19:24,Wisconsin,Khalil Iverson,Defensive Rebound,37,38
+19:07,Wisconsin,Nate Reuvers,Three Point Jumper,37,41
+18:53,Michigan State,Nick Ward,Foul,37,41
+18:53,Michigan State,Nick Ward,Turnover,37,41
+18:29,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,37,41
+18:29,Michigan State,Aaron Henry,Defensive Rebound,37,41
+18:16,Michigan State,Nick Ward,Missed Jumper,37,41
+18:16,Wisconsin,Khalil Iverson,Defensive Rebound,37,41
+18:01,Wisconsin,Ethan Happ,Layup,37,43
+17:45,Michigan State,Aaron Henry,Jumper,39,43
+17:26,Wisconsin,Ethan Happ,Turnover,39,43
+17:20,Michigan State,Cassius Winston,Missed Jumper,39,43
+17:20,Michigan State,Cassius Winston,Offensive Rebound,39,43
+17:15,Michigan State,Matt McQuaid,Three Point Jumper,42,43
+16:51,Wisconsin,Nate Reuvers,Missed Three Point Jumper,42,43
+16:51,Michigan State,Aaron Henry,Defensive Rebound,42,43
+16:39,Michigan State,Cassius Winston,Missed Layup,42,43
+16:39,Wisconsin,Ethan Happ,Defensive Rebound,42,43
+16:16,Wisconsin,Ethan Happ,Foul,42,43
+16:16,Wisconsin,Ethan Happ,Turnover,42,43
+16:05,Michigan State,Cassius Winston,Jumper,44,43
+15:32,Wisconsin,Kobe King,Missed Three Point Jumper,44,43
+15:32,Michigan State,Kenny Goins,Defensive Rebound,44,43
+15:04,Wisconsin,None,None,44,43
+15:01,Michigan State,Cassius Winston,Jumper,46,43
+14:46,Wisconsin,Brad Davison,Missed Three Point Jumper,46,43
+14:46,Michigan State,Kenny Goins,Defensive Rebound,46,43
+14:33,Michigan State,Kenny Goins,Three Point Jumper,49,43
+14:07,Michigan State,Xavier Tillman,Foul,49,43
+14:07,Wisconsin,Ethan Happ,Missed Free Throw,49,43
+14:07,Wisconsin,None,Team Rebound,49,43
+14:07,Wisconsin,Ethan Happ,Missed Free Throw,49,43
+14:07,Michigan State,Nick Ward,Defensive Rebound,49,43
+13:49,Michigan State,Nick Ward,Missed Dunk,49,43
+13:49,Wisconsin,Ethan Happ,Defensive Rebound,49,43
+13:41,Michigan State,Kenny Goins,Foul,49,43
+13:39,Wisconsin,Ethan Happ,Jumper,49,45
+13:21,Michigan State,Matt McQuaid,Missed Three Point Jumper,49,45
+13:21,Wisconsin,Brevin Pritzl,Defensive Rebound,49,45
+13:07,Wisconsin,Ethan Happ,Layup,49,47
+12:43,Michigan State,Nick Ward,Foul,49,47
+12:43,Michigan State,Nick Ward,Turnover,49,47
+12:23,Wisconsin,Ethan Happ,Missed Layup,49,47
+12:23,Michigan State,Xavier Tillman,Defensive Rebound,49,47
+12:12,Michigan State,Cassius Winston,Missed Jumper,49,47
+12:12,Wisconsin,Ethan Happ,Defensive Rebound,49,47
+11:49,Wisconsin,Brad Davison,Missed Three Point Jumper,49,47
+11:49,Michigan State,Matt McQuaid,Defensive Rebound,49,47
+11:25,Michigan State,Kyle Ahrens,Missed Three Point Jumper,49,47
+11:25,Wisconsin,Nate Reuvers,Defensive Rebound,49,47
+10:53,Wisconsin,Ethan Happ,Jumper,49,49
+10:21,Michigan State,Cassius Winston,Missed Layup,49,49
+10:21,Wisconsin,Nate Reuvers,Block,49,49
+10:21,Michigan State,Xavier Tillman,Offensive Rebound,49,49
+10:16,Wisconsin,None,None,49,49
+9:59,Michigan State,Matt McQuaid,Missed Jumper,49,49
+9:59,Wisconsin,Brevin Pritzl,Defensive Rebound,49,49
+9:41,Michigan State,Xavier Tillman,Foul,49,49
+9:41,Wisconsin,Ethan Happ,Missed Free Throw,49,49
+9:41,Wisconsin,None,Team Rebound,49,49
+9:41,Wisconsin,Ethan Happ,Missed Free Throw,49,49
+9:41,Michigan State,Xavier Tillman,Defensive Rebound,49,49
+9:19,Michigan State,Xavier Tillman,Missed Layup,49,49
+9:19,Wisconsin,Ethan Happ,Block,49,49
+9:19,Michigan State,Xavier Tillman,Offensive Rebound,49,49
+9:12,Wisconsin,Aleem Ford,Foul,49,49
+9:12,Michigan State,Xavier Tillman,Free Throw,50,49
+9:12,Michigan State,Xavier Tillman,Free Throw,51,49
+8:57,Wisconsin,Kobe King,Jumper,51,51
+8:38,Michigan State,Xavier Tillman,Missed Layup,51,51
+8:38,Wisconsin,Ethan Happ,Defensive Rebound,51,51
+8:29,Wisconsin,Ethan Happ,Turnover,51,51
+8:12,Michigan State,Aaron Henry,Jumper,53,51
+7:50,Wisconsin,Ethan Happ,Layup,53,53
+7:22,Michigan State,Nick Ward,Missed Jumper,53,53
+7:22,Wisconsin,Ethan Happ,Defensive Rebound,53,53
+6:56,Wisconsin,Ethan Happ,Missed Layup,53,53
+6:56,Michigan State,Aaron Henry,Defensive Rebound,53,53
+6:32,Michigan State,Cassius Winston,Three Point Jumper,56,53
+6:04,Wisconsin,Ethan Happ,Jumper,56,55
+5:41,Michigan State,Cassius Winston,Missed Layup,56,55
+5:41,Michigan State,Kenny Goins,Offensive Rebound,56,55
+5:39,Wisconsin,Brevin Pritzl,Foul,56,55
+5:39,Wisconsin,None,None,56,55
+5:39,Michigan State,Kenny Goins,Free Throw,57,55
+5:39,Michigan State,Kenny Goins,Missed Free Throw,57,55
+5:39,Wisconsin,Nate Reuvers,Defensive Rebound,57,55
+5:21,Michigan State,Matt McQuaid,Foul,57,55
+5:21,Wisconsin,Brad Davison,Free Throw,57,56
+5:21,Wisconsin,Brad Davison,Missed Free Throw,57,56
+5:21,Michigan State,Nick Ward,Defensive Rebound,57,56
+5:12,Michigan State,Kenny Goins,Missed Layup,57,56
+5:12,Wisconsin,Ethan Happ,Defensive Rebound,57,56
+4:52,Wisconsin,Ethan Happ,Turnover,57,56
+4:52,Michigan State,Aaron Henry,Steal,57,56
+4:24,Michigan State,Kenny Goins,Missed Layup,57,56
+4:24,Wisconsin,Nate Reuvers,Block,57,56
+4:24,Michigan State,Michigan State,Offensive Rebound,57,56
+4:22,Michigan State,Cassius Winston,Missed Three Point Jumper,57,56
+4:22,Wisconsin,None,Team Rebound,57,56
+4:22,Wisconsin,D'Mitrik Trice,Missed Jumper,57,56
+4:22,Wisconsin,Ethan Happ,Offensive Rebound,57,56
+3:54,Wisconsin,None,None,57,56
+3:54,Wisconsin,Nate Reuvers,Missed Three Point Jumper,57,56
+3:54,Michigan State,Cassius Winston,Defensive Rebound,57,56
+3:25,Michigan State,Aaron Henry,Missed Three Point Jumper,57,56
+3:25,Wisconsin,Ethan Happ,Defensive Rebound,57,56
+2:58,Wisconsin,Ethan Happ,Missed Jumper,57,56
+2:58,Michigan State,Aaron Henry,Defensive Rebound,57,56
+2:30,Michigan State,Aaron Henry,Jumper,59,56
+2:20,Wisconsin,None,None,59,56
+1:57,Wisconsin,Nate Reuvers,Turnover,59,56
+1:57,Michigan State,Xavier Tillman,Steal,59,56
+1:36,Michigan State,Cassius Winston,Turnover,59,56
+1:28,Michigan State,Kenny Goins,Foul,59,56
+1:28,Wisconsin,Ethan Happ,Missed Free Throw,59,56
+1:28,Wisconsin,None,Team Rebound,59,56
+1:28,Wisconsin,Ethan Happ,Missed Free Throw,59,56
+1:28,Michigan State,Kenny Goins,Defensive Rebound,59,56
+1:18,Michigan State,None,None,59,56
+1:17,Michigan State,Kenny Goins,Turnover,59,56
+1:17,Wisconsin,Ethan Happ,Steal,59,56
+1:03,Wisconsin,Brad Davison,Missed Layup,59,56
+1:03,Michigan State,Aaron Henry,Block,59,56
+1:03,Michigan State,Cassius Winston,Defensive Rebound,59,56
+0:36,Michigan State,Kenny Goins,Three Point Jumper,62,56
+0:25,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,62,56
+0:25,Michigan State,Kenny Goins,Defensive Rebound,62,56
+0:15,Michigan State,Nick Ward,Layup,64,56
+0:15,Wisconsin,D'Mitrik Trice,Foul,64,56
+0:15,Michigan State,Nick Ward,Free Throw,65,56
+0:13,Wisconsin,Brad Davison,Three Point Jumper,65,59
+0:10,Wisconsin,None,None,65,59
+0:05,Wisconsin,Ethan Happ,Foul,65,59
+0:04,Wisconsin,D'Mitrik Trice,Foul,65,59
+0:04,Michigan State,Cassius Winston,Free Throw,66,59
+0:04,Michigan State,Cassius Winston,Free Throw,67,59
+0:02,Wisconsin,Brad Davison,Missed Three Point Jumper,67,59
+0:02,Michigan State,Cassius Winston,Defensive Rebound,67,59
+0:00,Wisconsin,None,None,67,59

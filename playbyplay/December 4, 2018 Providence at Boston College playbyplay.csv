@@ -1,0 +1,424 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Boston College,None,None,0,0
+19:29,Boston College,Jordan Chatman,Three Point Jumper,0,3
+19:02,Providence,Alpha Diallo,Missed Jumper,0,3
+19:02,Boston College,Ky Bowman,Defensive Rebound,0,3
+18:54,Boston College,Wynston Tabbs,Turnover,0,3
+18:54,Providence,A.J. Reeves,Steal,0,3
+18:48,Providence,David Duke,Layup,2,3
+18:24,Boston College,Wynston Tabbs,Missed Jumper,2,3
+18:24,Providence,Jimmy Nichols Jr.,Defensive Rebound,2,3
+18:13,Providence,Kalif Young,Layup,4,3
+17:51,Boston College,Ky Bowman,Missed Three Point Jumper,4,3
+17:51,Boston College,Johncarlos Reyes,Offensive Rebound,4,3
+17:48,Providence,Jimmy Nichols Jr.,Foul,4,3
+17:46,Providence,Kalif Young,Foul,4,3
+17:46,Boston College,Wynston Tabbs,Free Throw,4,4
+17:46,Boston College,Wynston Tabbs,Free Throw,4,5
+17:23,Providence,Alpha Diallo,Missed Layup,4,5
+17:23,Providence,Alpha Diallo,Offensive Rebound,4,5
+17:20,Providence,Alpha Diallo,Missed Layup,4,5
+17:20,Providence,Providence,Offensive Rebound,4,5
+17:19,Providence,Alpha Diallo,Turnover,4,5
+17:19,Boston College,Wynston Tabbs,Steal,4,5
+17:14,Boston College,Wynston Tabbs,Layup,4,7
+16:57,Providence,David Duke,Three Point Jumper,7,7
+16:36,Boston College,Ky Bowman,Foul,7,7
+16:36,Boston College,Ky Bowman,Turnover,7,7
+16:19,Providence,Jimmy Nichols Jr.,Dunk,9,7
+16:03,Boston College,Ky Bowman,Missed Layup,9,7
+16:03,Providence,Kalif Young,Defensive Rebound,9,7
+15:53,Providence,A.J. Reeves,Missed Layup,9,7
+15:53,Providence,Kalif Young,Offensive Rebound,9,7
+15:49,Providence,Kalif Young,Missed Jumper,9,7
+15:49,Boston College,Johncarlos Reyes,Block,9,7
+15:49,Boston College,Ky Bowman,Defensive Rebound,9,7
+15:41,Boston College,Jordan Chatman,Layup,9,9
+15:31,Providence,A.J. Reeves,Three Point Jumper,12,9
+15:05,Boston College,Johncarlos Reyes,Foul,12,9
+15:05,Boston College,Johncarlos Reyes,Turnover,12,9
+15:05,Boston College,None,None,12,9
+14:44,Providence,Jimmy Nichols Jr.,Three Point Jumper,15,9
+14:24,Boston College,Wynston Tabbs,Missed Three Point Jumper,15,9
+14:24,Providence,Kalif Young,Defensive Rebound,15,9
+14:11,Providence,Alpha Diallo,Missed Three Point Jumper,15,9
+14:11,Boston College,Wynston Tabbs,Defensive Rebound,15,9
+14:01,Boston College,Ky Bowman,Jumper,15,11
+13:43,Providence,Jimmy Nichols Jr.,Missed Jumper,15,11
+13:43,Boston College,Wynston Tabbs,Defensive Rebound,15,11
+13:29,Boston College,Wynston Tabbs,Missed Jumper,15,11
+13:29,Providence,Alpha Diallo,Defensive Rebound,15,11
+13:17,Providence,A.J. Reeves,Missed Three Point Jumper,15,11
+13:17,Boston College,Ky Bowman,Defensive Rebound,15,11
+13:10,Boston College,Ky Bowman,Missed Three Point Jumper,15,11
+13:10,Providence,Providence,Defensive Rebound,15,11
+12:47,Boston College,Ky Bowman,Foul,15,11
+12:46,Boston College,Wynston Tabbs,Foul,15,11
+12:46,Providence,Alpha Diallo,Free Throw,16,11
+12:46,Providence,Alpha Diallo,Free Throw,17,11
+12:34,Boston College,Jairus Hamilton,Missed Jumper,17,11
+12:34,Providence,Nate Watson,Defensive Rebound,17,11
+12:21,Providence,David Duke,Missed Jumper,17,11
+12:21,Boston College,Steffon Mitchell,Defensive Rebound,17,11
+12:13,Boston College,Jordan Chatman,Layup,17,13
+11:59,Providence,Nate Watson,Missed Jumper,17,13
+11:59,Boston College,Chris Herren Jr.,Defensive Rebound,17,13
+11:49,Boston College,Jordan Chatman,Missed Three Point Jumper,17,13
+11:49,Boston College,Boston College,Offensive Rebound,17,13
+11:45,Providence,Maliek White,Foul,17,13
+11:45,Boston College,None,None,17,13
+11:45,Boston College,Steffon Mitchell,Missed Free Throw,17,13
+11:45,Boston College,None,Team Rebound,17,13
+11:45,Boston College,Steffon Mitchell,Free Throw,17,14
+11:27,Providence,Isaiah Jackson,Missed Layup,17,14
+11:27,Boston College,Chris Herren Jr.,Defensive Rebound,17,14
+11:19,Boston College,Jairus Hamilton,Dunk,17,16
+11:04,Providence,Maliek White,Three Point Jumper,20,16
+10:42,Boston College,Jordan Chatman,Missed Jumper,20,16
+10:42,Boston College,Steffon Mitchell,Offensive Rebound,20,16
+10:40,Providence,Isaiah Jackson,Foul,20,16
+10:37,Boston College,Jairus Hamilton,Turnover,20,16
+10:28,Providence,A.J. Reeves,Jumper,22,16
+10:12,Boston College,Wynston Tabbs,Missed Three Point Jumper,22,16
+10:12,Providence,Nate Watson,Defensive Rebound,22,16
+10:02,Providence,Maliek White,Missed Three Point Jumper,22,16
+10:02,Providence,Jimmy Nichols Jr.,Offensive Rebound,22,16
+9:56,Providence,Jimmy Nichols Jr.,Dunk,24,16
+9:54,Boston College,None,None,24,16
+9:41,Boston College,Ky Bowman,Missed Jumper,24,16
+9:41,Providence,Jimmy Nichols Jr.,Block,24,16
+9:41,Providence,Jimmy Nichols Jr.,Defensive Rebound,24,16
+9:32,Providence,Nate Watson,Missed Jumper,24,16
+9:32,Boston College,Steffon Mitchell,Defensive Rebound,24,16
+9:23,Boston College,Ky Bowman,Jumper,24,18
+9:23,Providence,Jimmy Nichols Jr.,Foul,24,18
+9:23,Boston College,Ky Bowman,Free Throw,24,19
+9:06,Providence,Nate Watson,Jumper,26,19
+8:47,Boston College,Ky Bowman,Missed Layup,26,19
+8:47,Boston College,Luka Kraljevic,Offensive Rebound,26,19
+8:46,Providence,Alpha Diallo,Foul,26,19
+8:46,Boston College,Luka Kraljevic,Free Throw,26,20
+8:46,Boston College,Luka Kraljevic,Missed Free Throw,26,20
+8:46,Providence,Nate Watson,Defensive Rebound,26,20
+8:20,Providence,A.J. Reeves,Missed Layup,26,20
+8:20,Providence,Nate Watson,Offensive Rebound,26,20
+8:20,Providence,None,None,28,20
+8:03,Providence,Maliek White,Foul,28,20
+8:03,Boston College,Ky Bowman,Free Throw,28,21
+8:03,Boston College,Ky Bowman,Free Throw,28,22
+7:54,Providence,Alpha Diallo,Missed Jumper,28,22
+7:54,Providence,Nate Watson,Offensive Rebound,28,22
+7:51,Providence,Nate Watson,Layup,30,22
+7:25,Boston College,Luka Kraljevic,Foul,30,22
+7:25,Boston College,Luka Kraljevic,Turnover,30,22
+7:25,Boston College,None,None,30,22
+7:25,Providence,None,None,30,22
+7:08,Providence,Isaiah Jackson,Three Point Jumper,33,22
+6:37,Boston College,Wynston Tabbs,Missed Layup,33,22
+6:37,Providence,Nate Watson,Block,33,22
+6:37,Boston College,Boston College,Offensive Rebound,33,22
+6:34,Boston College,Ky Bowman,Missed Three Point Jumper,33,22
+6:34,Boston College,Steffon Mitchell,Offensive Rebound,33,22
+6:28,Boston College,Chris Herren Jr.,Three Point Jumper,33,25
+5:53,Providence,David Duke,Turnover,33,25
+5:53,Boston College,Steffon Mitchell,Steal,33,25
+5:52,Providence,David Duke,Foul,33,25
+5:52,Boston College,Steffon Mitchell,Free Throw,33,26
+5:52,Boston College,Steffon Mitchell,Free Throw,33,27
+5:42,Providence,Alpha Diallo,Missed Jumper,33,27
+5:42,Boston College,Jairus Hamilton,Defensive Rebound,33,27
+5:34,Boston College,Ky Bowman,Layup,33,29
+5:33,Providence,None,None,33,29
+5:15,Providence,Makai Ashton-Langford,Turnover,33,29
+5:15,Boston College,Chris Herren Jr.,Steal,33,29
+5:07,Boston College,Chris Herren Jr.,Three Point Jumper,33,32
+4:43,Providence,Alpha Diallo,Turnover,33,32
+4:43,Boston College,Steffon Mitchell,Steal,33,32
+4:38,Boston College,Jordan Chatman,Layup,33,34
+4:14,Boston College,Chris Herren Jr.,Foul,33,34
+4:10,Providence,Makai Ashton-Langford,Turnover,33,34
+4:10,Boston College,Steffon Mitchell,Steal,33,34
+4:06,Boston College,Ky Bowman,Missed Layup,33,34
+4:06,Boston College,Steffon Mitchell,Offensive Rebound,33,34
+4:01,Boston College,Chris Herren Jr.,Three Point Jumper,33,37
+3:53,Providence,A.J. Reeves,Jumper,35,37
+3:23,Boston College,Ky Bowman,Foul,35,37
+3:23,Boston College,Ky Bowman,Turnover,35,37
+3:23,Boston College,None,None,35,37
+2:59,Boston College,Jairus Hamilton,Foul,35,37
+2:59,Providence,Kalif Young,Missed Free Throw,35,37
+2:59,Providence,None,Team Rebound,35,37
+2:59,Providence,Kalif Young,Missed Free Throw,35,37
+2:59,Boston College,Steffon Mitchell,Defensive Rebound,35,37
+2:43,Boston College,Jairus Hamilton,Missed Layup,35,37
+2:43,Boston College,Steffon Mitchell,Offensive Rebound,35,37
+2:40,Boston College,Steffon Mitchell,Turnover,35,37
+2:40,Providence,Alpha Diallo,Steal,35,37
+2:37,Providence,None,None,35,37
+2:31,Providence,Nate Watson,Layup,37,37
+2:10,Boston College,Wynston Tabbs,Turnover,37,37
+2:10,Providence,A.J. Reeves,Steal,37,37
+2:04,Providence,A.J. Reeves,Missed Three Point Jumper,37,37
+2:04,Providence,Nate Watson,Offensive Rebound,37,37
+1:50,Providence,Alpha Diallo,Missed Layup,37,37
+1:50,Boston College,Steffon Mitchell,Defensive Rebound,37,37
+1:44,Providence,Nate Watson,Foul,37,37
+1:44,Boston College,Steffon Mitchell,Free Throw,37,38
+1:44,Boston College,Steffon Mitchell,Free Throw,37,39
+1:36,Providence,Alpha Diallo,Turnover,37,39
+1:36,Boston College,Steffon Mitchell,Steal,37,39
+1:20,Boston College,Wynston Tabbs,Jumper,37,41
+0:58,Providence,Nate Watson,Missed Jumper,37,41
+0:58,Boston College,Steffon Mitchell,Defensive Rebound,37,41
+0:52,Providence,Jimmy Nichols Jr.,Foul,37,41
+0:52,Boston College,Wynston Tabbs,Free Throw,37,42
+0:52,Boston College,Wynston Tabbs,Free Throw,37,43
+0:37,Providence,Maliek White,Jumper,39,43
+0:09,Boston College,Wynston Tabbs,Turnover,39,43
+0:09,Providence,Alpha Diallo,Steal,39,43
+0:00,Boston College,None,None,39,43
+20:00,Boston College,None,None,39,43
+19:45,Boston College,Jordan Chatman,Jumper,39,45
+19:25,Providence,Alpha Diallo,Three Point Jumper,42,45
+19:07,Providence,Jimmy Nichols Jr.,Foul,42,45
+18:59,Boston College,Jordan Chatman,Three Point Jumper,42,48
+18:30,Providence,A.J. Reeves,Turnover,42,48
+18:14,Boston College,Steffon Mitchell,Missed Jumper,42,48
+18:14,Providence,Providence,Defensive Rebound,42,48
+18:05,Providence,A.J. Reeves,Missed Three Point Jumper,42,48
+18:05,Providence,Kalif Young,Offensive Rebound,42,48
+18:05,Providence,None,None,44,48
+17:41,Providence,A.J. Reeves,Foul,44,48
+17:41,Boston College,Jordan Chatman,Free Throw,44,49
+17:41,Boston College,Jordan Chatman,Free Throw,44,50
+17:41,Boston College,Jordan Chatman,Free Throw,44,51
+17:30,Boston College,Johncarlos Reyes,Foul,44,51
+17:30,Providence,David Duke,Free Throw,45,51
+17:30,Providence,David Duke,Free Throw,46,51
+17:12,Boston College,Wynston Tabbs,Missed Jumper,46,51
+17:12,Boston College,Johncarlos Reyes,Offensive Rebound,46,51
+17:05,Boston College,Ky Bowman,Layup,46,53
+16:45,Providence,Maliek White,Missed Jumper,46,53
+16:45,Providence,Alpha Diallo,Offensive Rebound,46,53
+16:39,Providence,Alpha Diallo,Layup,48,53
+16:39,Providence,None,None,48,53
+16:32,Boston College,Ky Bowman,Missed Three Point Jumper,48,53
+16:25,Boston College,Boston College,Offensive Rebound,48,53
+16:25,Providence,Nate Watson,Foul,48,53
+16:23,Boston College,Wynston Tabbs,Missed Three Point Jumper,48,53
+16:23,Providence,Maliek White,Defensive Rebound,48,53
+16:08,Providence,Alpha Diallo,Layup,50,53
+15:53,Boston College,Wynston Tabbs,Turnover,50,53
+15:53,Boston College,None,None,50,53
+15:40,Providence,Alpha Diallo,Jumper,52,53
+15:40,Boston College,Jordan Chatman,Foul,52,53
+15:40,Providence,Alpha Diallo,Free Throw,53,53
+15:17,Boston College,Jordan Chatman,Turnover,53,53
+15:17,Providence,Isaiah Jackson,Steal,53,53
+15:09,Providence,Nate Watson,Jumper,55,53
+14:53,Boston College,Ky Bowman,Missed Jumper,55,53
+14:53,Boston College,Boston College,Offensive Rebound,55,53
+14:48,Providence,Nate Watson,Foul,55,53
+14:48,Boston College,Jairus Hamilton,Free Throw,55,54
+14:48,Boston College,Jairus Hamilton,Free Throw,55,55
+14:33,Providence,David Duke,Layup,57,55
+14:14,Boston College,Chris Herren Jr.,Missed Layup,57,55
+14:14,Providence,Nate Watson,Block,57,55
+14:14,Boston College,Boston College,Offensive Rebound,57,55
+13:57,Boston College,Ky Bowman,Layup,57,57
+13:40,Providence,Isaiah Jackson,Missed Jumper,57,57
+13:40,Boston College,Jairus Hamilton,Defensive Rebound,57,57
+13:32,Boston College,Chris Herren Jr.,Missed Three Point Jumper,57,57
+13:32,Providence,Alpha Diallo,Defensive Rebound,57,57
+13:24,Boston College,Chris Herren Jr.,Foul,57,57
+13:24,Providence,Maliek White,Missed Free Throw,57,57
+13:24,Providence,None,Team Rebound,57,57
+13:24,Providence,Maliek White,Missed Free Throw,57,57
+13:24,Boston College,Jairus Hamilton,Defensive Rebound,57,57
+13:09,Boston College,Jairus Hamilton,Jumper,57,59
+12:41,Providence,Nate Watson,Missed Jumper,57,59
+12:41,Boston College,Steffon Mitchell,Block,57,59
+12:41,Providence,Providence,Offensive Rebound,57,59
+12:34,Boston College,Jordan Chatman,Foul,57,59
+12:34,Providence,Alpha Diallo,Free Throw,58,59
+12:34,Providence,Alpha Diallo,Free Throw,59,59
+12:20,Boston College,Ky Bowman,Missed Jumper,59,59
+12:20,Boston College,Jairus Hamilton,Offensive Rebound,59,59
+12:18,Providence,Isaiah Jackson,Foul,59,59
+12:18,Boston College,None,None,59,59
+12:15,Boston College,Wynston Tabbs,Dunk,59,61
+12:06,Providence,Kalif Young,Turnover,59,61
+12:06,Boston College,Steffon Mitchell,Steal,59,61
+11:44,Providence,David Duke,Foul,59,61
+11:41,Boston College,Jairus Hamilton,Turnover,59,61
+11:19,Providence,Alpha Diallo,Missed Jumper,59,61
+11:19,Providence,Nate Watson,Offensive Rebound,59,61
+11:18,Boston College,Jairus Hamilton,Foul,59,61
+11:06,Providence,Isaiah Jackson,Layup,61,61
+10:37,Boston College,Jordan Chatman,Turnover,61,61
+10:37,Providence,None,None,61,61
+10:26,Providence,Nate Watson,Jumper,63,61
+10:02,Boston College,Wynston Tabbs,Three Point Jumper,63,64
+9:40,Providence,Alpha Diallo,Missed Three Point Jumper,63,64
+9:40,Boston College,Jordan Chatman,Defensive Rebound,63,64
+9:32,Boston College,Jordan Chatman,Three Point Jumper,63,67
+9:11,Providence,Isaiah Jackson,Layup,65,67
+8:40,Boston College,Steffon Mitchell,Foul,65,67
+8:40,Boston College,Steffon Mitchell,Turnover,65,67
+8:27,Providence,Alpha Diallo,Missed Layup,65,67
+8:27,Boston College,Jairus Hamilton,Defensive Rebound,65,67
+8:12,Providence,Alpha Diallo,Foul,65,67
+8:12,Boston College,Jordan Chatman,Free Throw,65,68
+8:12,Boston College,Jordan Chatman,Free Throw,65,69
+8:05,Providence,David Duke,Turnover,65,69
+8:05,Boston College,Wynston Tabbs,Steal,65,69
+7:59,Providence,Isaiah Jackson,Foul,65,69
+7:59,Boston College,None,None,65,69
+7:59,Boston College,Wynston Tabbs,Free Throw,65,70
+7:59,Boston College,Wynston Tabbs,Free Throw,65,71
+7:43,Providence,Isaiah Jackson,Turnover,65,71
+7:28,Boston College,Wynston Tabbs,Missed Layup,65,71
+7:28,Providence,Alpha Diallo,Defensive Rebound,65,71
+7:20,Boston College,Chris Herren Jr.,Foul,65,71
+7:20,Providence,A.J. Reeves,Free Throw,66,71
+7:20,Providence,A.J. Reeves,Free Throw,67,71
+7:20,Providence,A.J. Reeves,Free Throw,68,71
+7:00,Boston College,Wynston Tabbs,Foul,68,71
+7:00,Boston College,Wynston Tabbs,Turnover,68,71
+6:45,Providence,A.J. Reeves,Layup,70,71
+6:45,Boston College,Wynston Tabbs,Foul,70,71
+6:45,Providence,A.J. Reeves,Missed Free Throw,70,71
+6:45,Boston College,Jairus Hamilton,Defensive Rebound,70,71
+6:19,Providence,Alpha Diallo,Foul,70,71
+6:19,Boston College,Steffon Mitchell,Missed Free Throw,70,71
+6:19,Boston College,None,Team Rebound,70,71
+6:19,Boston College,Steffon Mitchell,Free Throw,70,72
+6:08,Providence,A.J. Reeves,Three Point Jumper,73,72
+5:46,Providence,Alpha Diallo,Foul,73,72
+5:46,Boston College,Steffon Mitchell,Free Throw,73,73
+5:46,Boston College,Steffon Mitchell,Missed Free Throw,73,73
+5:46,Providence,A.J. Reeves,Defensive Rebound,73,73
+5:29,Providence,David Duke,Missed Three Point Jumper,73,73
+5:29,Providence,Nate Watson,Offensive Rebound,73,73
+5:23,Providence,A.J. Reeves,Missed Layup,73,73
+5:23,Providence,Alpha Diallo,Offensive Rebound,73,73
+5:20,Boston College,Jairus Hamilton,Foul,73,73
+5:20,Providence,Alpha Diallo,Free Throw,74,73
+5:20,Providence,Alpha Diallo,Missed Free Throw,74,73
+5:20,Boston College,Ky Bowman,Defensive Rebound,74,73
+5:16,Boston College,Jairus Hamilton,Dunk,74,75
+4:53,Providence,Maliek White,Layup,76,75
+4:27,Providence,Maliek White,Foul,76,75
+4:27,Boston College,Jordan Chatman,Free Throw,76,76
+4:27,Boston College,Jordan Chatman,Free Throw,76,77
+4:02,Providence,A.J. Reeves,Missed Jumper,76,77
+4:02,Boston College,Wynston Tabbs,Defensive Rebound,76,77
+3:58,Boston College,None,None,76,77
+3:58,Boston College,None,None,76,77
+3:45,Boston College,Jairus Hamilton,Layup,76,79
+3:45,Providence,David Duke,Foul,76,79
+3:45,Boston College,Jairus Hamilton,Free Throw,76,80
+3:31,Providence,Alpha Diallo,Missed Three Point Jumper,76,80
+3:31,Boston College,Boston College,Defensive Rebound,76,80
+3:02,Boston College,Ky Bowman,Jumper,76,82
+2:44,Providence,A.J. Reeves,Three Point Jumper,79,82
+2:42,Providence,None,None,79,82
+2:18,Boston College,Jairus Hamilton,Turnover,79,82
+2:00,Providence,A.J. Reeves,Missed Three Point Jumper,79,82
+2:00,Providence,Nate Watson,Offensive Rebound,79,82
+1:56,Boston College,Jairus Hamilton,Foul,79,82
+1:56,Providence,Nate Watson,Free Throw,80,82
+1:56,Providence,Nate Watson,Free Throw,81,82
+1:41,Boston College,Jairus Hamilton,Dunk,81,84
+1:20,Providence,Alpha Diallo,Missed Jumper,81,84
+1:20,Boston College,Steffon Mitchell,Defensive Rebound,81,84
+0:56,Boston College,Jairus Hamilton,Missed Three Point Jumper,81,84
+0:56,Providence,David Duke,Defensive Rebound,81,84
+0:48,Providence,Maliek White,Jumper,83,84
+0:48,Boston College,Jairus Hamilton,Foul,83,84
+0:48,Providence,Maliek White,Free Throw,84,84
+0:36,Providence,Maliek White,Foul,84,84
+0:36,Boston College,Ky Bowman,Missed Free Throw,84,84
+0:36,Boston College,None,Team Rebound,84,84
+0:36,Boston College,Ky Bowman,Free Throw,84,85
+0:20,Providence,Maliek White,Missed Layup,84,85
+0:20,Boston College,Steffon Mitchell,Block,84,85
+0:20,Providence,A.J. Reeves,Offensive Rebound,84,85
+0:13,Providence,Maliek White,Missed Three Point Jumper,84,85
+0:13,Boston College,Jordan Chatman,Defensive Rebound,84,85
+0:12,Providence,Alpha Diallo,Foul,84,85
+0:12,Boston College,Jordan Chatman,Free Throw,84,86
+0:12,Providence,None,None,84,86
+0:12,Boston College,Jordan Chatman,Free Throw,84,87
+0:03,Providence,A.J. Reeves,Three Point Jumper,87,87
+0:01,Boston College,Ky Bowman,Missed Three Point Jumper,87,87
+0:00,Providence,Providence,Defensive Rebound,87,87
+0:00,Boston College,None,None,87,87
+5:00,Providence,None,None,87,87
+4:46,Providence,A.J. Reeves,Missed Three Point Jumper,87,87
+4:46,Boston College,Wynston Tabbs,Defensive Rebound,87,87
+4:36,Providence,A.J. Reeves,Foul,87,87
+4:36,Boston College,Steffon Mitchell,Free Throw,87,88
+4:36,Boston College,Steffon Mitchell,Free Throw,87,89
+4:27,Providence,Nate Watson,Layup,89,89
+4:27,Boston College,Johncarlos Reyes,Foul,89,89
+4:27,Providence,Nate Watson,Missed Free Throw,89,89
+4:27,Boston College,Ky Bowman,Defensive Rebound,89,89
+4:10,Providence,Maliek White,Foul,89,89
+4:10,Boston College,Wynston Tabbs,Missed Free Throw,89,89
+4:10,Boston College,None,Team Rebound,89,89
+4:10,Boston College,Wynston Tabbs,Missed Free Throw,89,89
+4:10,Providence,Jimmy Nichols Jr.,Defensive Rebound,89,89
+3:53,Boston College,Steffon Mitchell,Foul,89,89
+3:53,Providence,Nate Watson,Free Throw,90,89
+3:53,Providence,Nate Watson,Missed Free Throw,90,89
+3:53,Boston College,Ky Bowman,Defensive Rebound,90,89
+3:36,Boston College,Wynston Tabbs,Missed Layup,90,89
+3:36,Providence,Nate Watson,Defensive Rebound,90,89
+3:30,Providence,A.J. Reeves,Layup,92,89
+3:21,Boston College,None,None,92,89
+3:02,Providence,Nate Watson,Foul,92,89
+3:02,Boston College,Wynston Tabbs,Free Throw,92,90
+3:02,Boston College,Wynston Tabbs,Free Throw,92,91
+2:46,Providence,Isaiah Jackson,Missed Three Point Jumper,92,91
+2:46,Boston College,Ky Bowman,Defensive Rebound,92,91
+2:16,Boston College,Jordan Chatman,Missed Three Point Jumper,92,91
+2:16,Providence,Providence,Defensive Rebound,92,91
+1:45,Boston College,Ky Bowman,Foul,92,91
+1:45,Providence,A.J. Reeves,Missed Free Throw,92,91
+1:45,Providence,None,Team Rebound,92,91
+1:45,Providence,A.J. Reeves,Missed Free Throw,92,91
+1:45,Providence,None,Team Rebound,92,91
+1:45,Providence,A.J. Reeves,Free Throw,93,91
+1:30,Boston College,Jordan Chatman,Layup,93,93
+1:13,Providence,missed Jumper.,Missed Jumper,93,93
+1:13,Providence,Providence,Offensive Rebound,93,93
+1:12,Boston College,Luka Kraljevic,Foul,93,93
+1:12,Providence,Nate Watson,Free Throw,94,93
+1:12,Providence,Nate Watson,Free Throw,95,93
+1:03,Boston College,Jordan Chatman,Missed Jumper,95,93
+1:03,Boston College,Steffon Mitchell,Offensive Rebound,95,93
+1:01,Providence,David Duke,Foul,95,93
+1:01,Boston College,Steffon Mitchell,Free Throw,95,94
+1:01,Boston College,Steffon Mitchell,Missed Free Throw,95,94
+1:01,Providence,Isaiah Jackson,Defensive Rebound,95,94
+0:34,Boston College,Luka Kraljevic,Foul,95,94
+0:34,Providence,Isaiah Jackson,Free Throw,96,94
+0:34,Providence,Isaiah Jackson,Free Throw,97,94
+0:27,Providence,David Duke,Foul,97,94
+0:27,Boston College,Ky Bowman,Missed Free Throw,97,94
+0:27,Boston College,None,Team Rebound,97,94
+0:27,Boston College,Ky Bowman,Free Throw,97,95
+0:27,Boston College,None,None,97,95
+0:26,Boston College,Chris Herren Jr.,Foul,97,95
+0:26,Providence,Isaiah Jackson,Missed Free Throw,97,95
+0:26,Providence,None,Team Rebound,97,95
+0:26,Providence,Isaiah Jackson,Free Throw,98,95
+0:16,Boston College,Ky Bowman,Missed Layup,98,95
+0:16,Providence,Jimmy Nichols Jr.,Defensive Rebound,98,95
+0:09,Boston College,Jordan Chatman,Foul,98,95
+0:09,Providence,Isaiah Jackson,Free Throw,99,95
+0:09,Providence,Isaiah Jackson,Free Throw,100,95
+0:04,Boston College,Ky Bowman,Missed Three Point Jumper,100,95
+0:04,Providence,Isaiah Jackson,Defensive Rebound,100,95
+0:00,Boston College,None,None,100,95

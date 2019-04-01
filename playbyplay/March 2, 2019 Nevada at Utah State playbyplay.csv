@@ -1,0 +1,394 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Utah State,None,None,0,0
+19:43,Nevada,Caleb Martin,Turnover,0,0
+19:43,Utah State,Neemias Queta,Steal,0,0
+19:38,Utah State,Neemias Queta,Missed Layup,0,0
+19:38,Nevada,Caleb Martin,Defensive Rebound,0,0
+19:27,Nevada,Trey Porter,Missed Jumper,0,0
+19:27,Utah State,Quinn Taylor,Block,0,0
+19:27,Utah State,Abel Porter,Defensive Rebound,0,0
+19:20,Utah State,Neemias Queta,Layup,0,2
+19:20,Nevada,Tre'Shawn Thurman,Foul,0,2
+19:20,Utah State,Neemias Queta,Missed Free Throw,0,2
+19:20,Nevada,Trey Porter,Defensive Rebound,0,2
+19:14,Nevada,Cody Martin,Missed Three Point Jumper,0,2
+19:14,Nevada,Caleb Martin,Offensive Rebound,0,2
+19:14,Nevada,Caleb Martin,Foul,0,2
+19:14,Nevada,Caleb Martin,Turnover,0,2
+18:48,Utah State,Neemias Queta,Missed Jumper,0,2
+18:48,Nevada,Trey Porter,Defensive Rebound,0,2
+18:36,Nevada,Caleb Martin,Missed Three Point Jumper,0,2
+18:36,Utah State,Neemias Queta,Defensive Rebound,0,2
+18:33,Utah State,Sam Merrill,Layup,0,4
+18:03,Nevada,Cody Martin,Layup,2,4
+18:03,Utah State,Quinn Taylor,Foul,2,4
+18:03,Nevada,Cody Martin,Free Throw,3,4
+17:37,Utah State,Neemias Queta,Missed Jumper,3,4
+17:37,Utah State,Abel Porter,Offensive Rebound,3,4
+17:24,Utah State,Brock Miller,Missed Three Point Jumper,3,4
+17:24,Nevada,Jordan Caroline,Defensive Rebound,3,4
+17:08,Utah State,Quinn Taylor,Foul,3,4
+17:00,Nevada,Tre'Shawn Thurman,Missed Jumper,3,4
+17:00,Utah State,Dwayne Brown Jr.,Defensive Rebound,3,4
+16:41,Utah State,Abel Porter,Turnover,3,4
+16:41,Nevada,Tre'Shawn Thurman,Steal,3,4
+16:27,Nevada,Trey Porter,Missed Three Point Jumper,3,4
+16:27,Utah State,Neemias Queta,Defensive Rebound,3,4
+16:18,Utah State,Sam Merrill,Three Point Jumper,3,7
+16:08,Nevada,Caleb Martin,Missed Three Point Jumper,3,7
+16:08,Nevada,Tre'Shawn Thurman,Offensive Rebound,3,7
+16:06,Utah State,Dwayne Brown Jr.,Foul,3,7
+16:05,Nevada,Tre'Shawn Thurman,Layup,5,7
+16:05,Nevada,Tre'Shawn Thurman,Free Throw,6,7
+15:52,Utah State,Diogo Brito,Turnover,6,7
+15:52,Nevada,Cody Martin,Steal,6,7
+15:48,Nevada,Cody Martin,Missed Layup,6,7
+15:48,Utah State,Sam Merrill,Defensive Rebound,6,7
+15:41,Utah State,Sam Merrill,Missed Three Point Jumper,6,7
+15:41,Nevada,Caleb Martin,Defensive Rebound,6,7
+15:28,Nevada,Jordan Caroline,Missed Three Point Jumper,6,7
+15:28,Utah State,Neemias Queta,Defensive Rebound,6,7
+15:08,Utah State,Abel Porter,Turnover,6,7
+15:08,Nevada,Caleb Martin,Steal,6,7
+15:00,Utah State,Dwayne Brown Jr.,Foul,6,7
+15:00,Utah State,None,None,6,7
+14:53,Nevada,Caleb Martin,Jumper,8,7
+14:53,Utah State,Abel Porter,Foul,8,7
+14:53,Nevada,Caleb Martin,Missed Free Throw,8,7
+14:53,Nevada,Nevada,Offensive Rebound,8,7
+14:49,Utah State,Justin Bean,Foul,8,7
+14:39,Nevada,Jazz Johnson,Foul,8,7
+14:39,Nevada,Jazz Johnson,Turnover,8,7
+14:11,Nevada,Jordan Caroline,Foul,8,7
+14:11,Utah State,Sam Merrill,Free Throw,8,8
+14:11,Utah State,Sam Merrill,Free Throw,8,9
+14:09,Nevada,Jordan Caroline,Missed Layup,8,9
+14:09,Nevada,Nevada,Offensive Rebound,8,9
+13:37,Nevada,Caleb Martin,Missed Layup,8,9
+13:37,Utah State,Sam Merrill,Defensive Rebound,8,9
+13:35,Nevada,Jordan Brown,Foul,8,9
+13:07,Utah State,Brock Miller,Turnover,8,9
+12:59,Nevada,Cody Martin,Jumper,10,9
+12:51,Utah State,Justin Bean,Layup,10,11
+12:35,Nevada,Caleb Martin,Turnover,10,11
+12:35,Utah State,Quinn Taylor,Steal,10,11
+12:28,Nevada,Trey Porter,Foul,10,11
+12:14,Utah State,Diogo Brito,Missed Three Point Jumper,10,11
+12:14,Nevada,Jazz Johnson,Defensive Rebound,10,11
+11:45,Nevada,Tre'Shawn Thurman,Layup,12,11
+11:22,Utah State,Sam Merrill,Missed Jumper,12,11
+11:22,Nevada,Caleb Martin,Defensive Rebound,12,11
+11:07,Utah State,None,None,12,11
+10:50,Nevada,Jordan Caroline,Missed Three Point Jumper,12,11
+10:50,Utah State,Neemias Queta,Defensive Rebound,12,11
+10:40,Utah State,Neemias Queta,Dunk,12,13
+10:25,Nevada,Caleb Martin,Missed Three Point Jumper,12,13
+10:25,Utah State,Diogo Brito,Defensive Rebound,12,13
+10:11,Utah State,Sam Merrill,Three Point Jumper,12,16
+10:04,Nevada,Cody Martin,Turnover,12,16
+10:04,Utah State,Diogo Brito,Steal,12,16
+9:47,Utah State,Sam Merrill,Three Point Jumper,12,19
+9:42,Nevada,None,None,12,19
+9:30,Nevada,Tre'Shawn Thurman,Jumper,14,19
+9:17,Nevada,Jazz Johnson,Foul,14,19
+9:17,Utah State,Diogo Brito,Free Throw,14,20
+9:17,Utah State,Diogo Brito,Free Throw,14,21
+8:58,Nevada,Trey Porter,Missed Layup,14,21
+8:58,Utah State,Quinn Taylor,Defensive Rebound,14,21
+8:45,Utah State,Neemias Queta,Turnover,14,21
+8:38,Nevada,Trey Porter,Missed Layup,14,21
+8:38,Utah State,Quinn Taylor,Block,14,21
+8:38,Utah State,Quinn Taylor,Defensive Rebound,14,21
+8:33,Utah State,None,None,14,21
+8:23,Utah State,Sam Merrill,Layup,14,23
+8:15,Nevada,Jordan Caroline,Missed Jumper,14,23
+8:15,Nevada,Jordan Caroline,Offensive Rebound,14,23
+8:10,Nevada,Jordan Caroline,Layup,16,23
+7:55,Nevada,Cody Martin,Foul,16,23
+7:55,Utah State,None,None,16,23
+7:55,Utah State,Abel Porter,Free Throw,16,24
+7:55,Utah State,Abel Porter,Free Throw,16,25
+7:42,Nevada,Caleb Martin,Three Point Jumper,19,25
+7:18,Utah State,Neemias Queta,Layup,19,27
+7:04,Nevada,Jordan Caroline,Layup,21,27
+7:04,Utah State,Neemias Queta,Foul,21,27
+7:04,Nevada,Jordan Caroline,Missed Free Throw,21,27
+7:04,Utah State,Neemias Queta,Defensive Rebound,21,27
+6:56,Utah State,Brock Miller,Missed Three Point Jumper,21,27
+6:56,Nevada,Caleb Martin,Defensive Rebound,21,27
+6:35,Nevada,Tre'Shawn Thurman,Three Point Jumper,24,27
+6:14,Nevada,Corey Henson,Foul,24,27
+6:14,Utah State,Abel Porter,Missed Free Throw,24,27
+6:14,Utah State,None,Team Rebound,24,27
+6:14,Utah State,Abel Porter,Free Throw,24,28
+5:51,Nevada,Caleb Martin,Three Point Jumper,27,28
+5:31,Utah State,Neemias Queta,Missed Layup,27,28
+5:31,Utah State,Neemias Queta,Offensive Rebound,27,28
+5:31,Utah State,None,None,27,30
+4:58,Nevada,Jordan Caroline,Missed Three Point Jumper,27,30
+4:58,Nevada,Jordan Caroline,Offensive Rebound,27,30
+4:52,Nevada,Jordan Caroline,Missed Layup,27,30
+4:52,Utah State,Quinn Taylor,Block,27,30
+4:52,Nevada,Nevada,Offensive Rebound,27,30
+4:47,Nevada,Cody Martin,Missed Jumper,27,30
+4:47,Utah State,Neemias Queta,Defensive Rebound,27,30
+4:24,Utah State,Diogo Brito,Layup,27,32
+4:06,Nevada,Caleb Martin,Layup,29,32
+3:47,Utah State,Abel Porter,Missed Three Point Jumper,29,32
+3:47,Utah State,Quinn Taylor,Offensive Rebound,29,32
+3:36,Nevada,Cody Martin,Foul,29,32
+3:36,Utah State,None,None,29,32
+3:36,Utah State,Sam Merrill,Free Throw,29,33
+3:36,Utah State,Sam Merrill,Free Throw,29,34
+3:13,Nevada,Jazz Johnson,Missed Jumper,29,34
+3:13,Utah State,Neemias Queta,Defensive Rebound,29,34
+2:53,Utah State,Neemias Queta,Missed Layup,29,34
+2:53,Nevada,Tre'Shawn Thurman,Defensive Rebound,29,34
+2:52,Utah State,Neemias Queta,Foul,29,34
+2:52,Nevada,Tre'Shawn Thurman,Free Throw,30,34
+2:52,Nevada,Tre'Shawn Thurman,Free Throw,31,34
+2:37,Utah State,Quinn Taylor,Foul,31,34
+2:37,Utah State,Quinn Taylor,Turnover,31,34
+2:26,Nevada,Caleb Martin,Missed Jumper,31,34
+2:26,Utah State,Abel Porter,Defensive Rebound,31,34
+2:17,Utah State,Diogo Brito,Missed Three Point Jumper,31,34
+2:17,Nevada,Nevada,Defensive Rebound,31,34
+1:59,Utah State,Abel Porter,Foul,31,34
+1:59,Nevada,Caleb Martin,Missed Free Throw,31,34
+1:59,Nevada,None,Team Rebound,31,34
+1:59,Nevada,Caleb Martin,Missed Free Throw,31,34
+1:59,Utah State,Diogo Brito,Defensive Rebound,31,34
+1:44,Nevada,Tre'Shawn Thurman,Foul,31,34
+1:44,Utah State,Diogo Brito,Free Throw,31,35
+1:44,Utah State,Diogo Brito,Missed Free Throw,31,35
+1:44,Nevada,Tre'Shawn Thurman,Defensive Rebound,31,35
+1:30,Nevada,Caleb Martin,Missed Layup,31,35
+1:30,Utah State,Sam Merrill,Defensive Rebound,31,35
+1:05,Utah State,Dwayne Brown Jr.,Layup,31,37
+0:47,Nevada,Jordan Caroline,Missed Jumper,31,37
+0:47,Nevada,Tre'Shawn Thurman,Offensive Rebound,31,37
+0:47,Nevada,None,None,33,37
+0:30,Utah State,Justin Bean,Missed Three Point Jumper,33,37
+0:30,Nevada,Tre'Shawn Thurman,Defensive Rebound,33,37
+0:06,Nevada,Caleb Martin,Missed Three Point Jumper,33,37
+0:06,Utah State,Diogo Brito,Defensive Rebound,33,37
+0:00,Utah State,None,None,33,37
+20:00,Nevada,None,None,33,37
+19:44,Nevada,Caleb Martin,Missed Jumper,33,37
+19:44,Utah State,Justin Bean,Defensive Rebound,33,37
+19:27,Utah State,Neemias Queta,Dunk,33,39
+19:02,Nevada,Cody Martin,Turnover,33,39
+19:02,Utah State,Abel Porter,Steal,33,39
+18:53,Utah State,Sam Merrill,Missed Layup,33,39
+18:53,Nevada,Caleb Martin,Block,33,39
+18:53,Utah State,Utah State,Offensive Rebound,33,39
+18:40,Utah State,Sam Merrill,Missed Jumper,33,39
+18:40,Utah State,Neemias Queta,Offensive Rebound,33,39
+18:32,Utah State,Neemias Queta,Layup,33,41
+18:27,Nevada,Jordan Caroline,Missed Layup,33,41
+18:27,Utah State,Neemias Queta,Defensive Rebound,33,41
+18:09,Utah State,Abel Porter,Missed Three Point Jumper,33,41
+18:09,Nevada,Tre'Shawn Thurman,Defensive Rebound,33,41
+17:59,Nevada,Tre'Shawn Thurman,Layup,35,41
+17:36,Utah State,Neemias Queta,Missed Layup,35,41
+17:36,Nevada,Tre'Shawn Thurman,Block,35,41
+17:36,Nevada,Cody Martin,Defensive Rebound,35,41
+17:32,Utah State,Abel Porter,Foul,35,41
+17:29,Nevada,Caleb Martin,Missed Three Point Jumper,35,41
+17:29,Nevada,Cody Martin,Offensive Rebound,35,41
+17:24,Nevada,Cody Martin,Missed Jumper,35,41
+17:24,Utah State,Neemias Queta,Defensive Rebound,35,41
+17:15,Utah State,Sam Merrill,Jumper,35,43
+16:56,Utah State,Justin Bean,Foul,35,43
+16:56,Nevada,Caleb Martin,Free Throw,36,43
+16:56,Nevada,Caleb Martin,Missed Free Throw,36,43
+16:56,Utah State,Justin Bean,Defensive Rebound,36,43
+16:38,Utah State,Brock Miller,Three Point Jumper,36,46
+16:25,Nevada,Tre'Shawn Thurman,Three Point Jumper,39,46
+16:05,Utah State,Neemias Queta,Turnover,39,46
+16:05,Nevada,Tre'Shawn Thurman,Steal,39,46
+15:55,Utah State,Neemias Queta,Foul,39,46
+15:55,Utah State,None,None,39,46
+15:55,Nevada,Jazz Johnson,Free Throw,40,46
+15:55,Nevada,Jazz Johnson,Missed Free Throw,40,46
+15:55,Utah State,Sam Merrill,Defensive Rebound,40,46
+15:35,Utah State,Sam Merrill,Three Point Jumper,40,49
+15:12,Utah State,Neemias Queta,Foul,40,49
+15:12,Nevada,Trey Porter,Free Throw,41,49
+15:12,Nevada,Trey Porter,Missed Free Throw,41,49
+15:12,Utah State,Justin Bean,Defensive Rebound,41,49
+15:02,Utah State,Sam Merrill,Missed Jumper,41,49
+15:02,Nevada,Cody Martin,Defensive Rebound,41,49
+14:51,Nevada,Cody Martin,Foul,41,49
+14:51,Nevada,Cody Martin,Turnover,41,49
+14:29,Nevada,Tre'Shawn Thurman,Foul,41,49
+14:29,Utah State,Justin Bean,Free Throw,41,50
+14:29,Utah State,Justin Bean,Free Throw,41,51
+14:13,Nevada,Jordan Caroline,Missed Layup,41,51
+14:13,Utah State,Sam Merrill,Block,41,51
+14:13,Nevada,Cody Martin,Offensive Rebound,41,51
+14:05,Nevada,Caleb Martin,Jumper,43,51
+13:44,Utah State,Sam Merrill,Layup,43,53
+13:21,Utah State,Sam Merrill,Foul,43,53
+13:12,Nevada,Caleb Martin,Missed Jumper,43,53
+13:12,Utah State,Abel Porter,Defensive Rebound,43,53
+13:06,Utah State,Diogo Brito,Layup,43,55
+12:50,Nevada,Jordan Caroline,Turnover,43,55
+12:50,Utah State,Diogo Brito,Steal,43,55
+12:45,Nevada,Jordan Caroline,Foul,43,55
+12:45,Utah State,Diogo Brito,Free Throw,43,56
+12:45,Utah State,Diogo Brito,Missed Free Throw,43,56
+12:45,Nevada,Caleb Martin,Defensive Rebound,43,56
+12:33,Nevada,Jazz Johnson,Three Point Jumper,46,56
+12:16,Utah State,Sam Merrill,Missed Three Point Jumper,46,56
+12:16,Utah State,Utah State,Offensive Rebound,46,56
+12:08,Utah State,Abel Porter,Turnover,46,56
+12:08,Nevada,Caleb Martin,Steal,46,56
+11:54,Nevada,Jazz Johnson,Missed Layup,46,56
+11:54,Utah State,Quinn Taylor,Defensive Rebound,46,56
+11:51,Utah State,None,None,46,56
+11:51,Utah State,None,None,46,56
+11:32,Utah State,Sam Merrill,Missed Three Point Jumper,46,56
+11:32,Nevada,Caleb Martin,Defensive Rebound,46,56
+11:17,Utah State,Quinn Taylor,Foul,46,56
+11:06,Nevada,Jazz Johnson,Layup,48,56
+10:44,Nevada,Caleb Martin,Foul,48,56
+10:42,Utah State,Justin Bean,Turnover,48,56
+10:42,Nevada,Tre'Shawn Thurman,Steal,48,56
+10:31,Nevada,Tre'Shawn Thurman,Missed Jumper,48,56
+10:31,Utah State,Diogo Brito,Defensive Rebound,48,56
+10:23,Utah State,Dwayne Brown Jr.,Dunk,48,58
+9:56,Nevada,Jordan Caroline,Layup,50,58
+9:37,Nevada,Cody Martin,Foul,50,58
+9:37,Utah State,Diogo Brito,Free Throw,50,59
+9:37,Utah State,Diogo Brito,Free Throw,50,60
+9:26,Utah State,Justin Bean,Foul,50,60
+9:26,Nevada,Caleb Martin,Free Throw,51,60
+9:26,Nevada,Caleb Martin,Free Throw,52,60
+9:20,Utah State,Justin Bean,Layup,52,62
+9:03,Nevada,Caleb Martin,Missed Three Point Jumper,52,62
+9:03,Nevada,Tre'Shawn Thurman,Offensive Rebound,52,62
+8:53,Nevada,Jazz Johnson,Missed Three Point Jumper,52,62
+8:53,Utah State,Diogo Brito,Defensive Rebound,52,62
+8:38,Utah State,Sam Merrill,Missed Layup,52,62
+8:38,Nevada,Tre'Shawn Thurman,Defensive Rebound,52,62
+8:28,Utah State,Diogo Brito,Foul,52,62
+8:28,Nevada,Caleb Martin,Missed Free Throw,52,62
+8:28,Nevada,None,Team Rebound,52,62
+8:28,Nevada,Caleb Martin,Free Throw,53,62
+8:13,Utah State,Sam Merrill,Missed Jumper,53,62
+8:13,Nevada,Trey Porter,Block,53,62
+8:13,Nevada,Caleb Martin,Defensive Rebound,53,62
+8:01,Nevada,Caleb Martin,Turnover,53,62
+8:01,Utah State,Justin Bean,Steal,53,62
+8:00,Utah State,Sam Merrill,Missed Layup,53,62
+8:00,Utah State,Justin Bean,Offensive Rebound,53,62
+8:00,Nevada,Trey Porter,Foul,53,62
+8:00,Utah State,None,None,53,62
+7:54,Utah State,Quinn Taylor,Layup,53,64
+7:34,Nevada,Jordan Caroline,Missed Three Point Jumper,53,64
+7:34,Nevada,Cody Martin,Offensive Rebound,53,64
+7:31,Utah State,Diogo Brito,Foul,53,64
+7:31,Nevada,Cody Martin,Free Throw,54,64
+7:31,Nevada,Cody Martin,Free Throw,55,64
+7:26,Utah State,Dwayne Brown Jr.,Missed Layup,55,64
+7:26,Nevada,Tre'Shawn Thurman,Block,55,64
+7:26,Nevada,Tre'Shawn Thurman,Defensive Rebound,55,64
+7:17,Nevada,Cody Martin,Layup,57,64
+7:17,Utah State,Abel Porter,Foul,57,64
+7:17,Nevada,Cody Martin,Missed Free Throw,57,64
+7:17,Utah State,Diogo Brito,Defensive Rebound,57,64
+6:49,Utah State,Brock Miller,Missed Three Point Jumper,57,64
+6:49,Nevada,Cody Martin,Defensive Rebound,57,64
+6:38,Nevada,Jordan Caroline,Missed Layup,57,64
+6:38,Utah State,Quinn Taylor,Block,57,64
+6:38,Nevada,Jazz Johnson,Offensive Rebound,57,64
+6:15,Nevada,Tre'Shawn Thurman,Layup,59,64
+6:02,Utah State,None,None,59,64
+5:43,Utah State,Quinn Taylor,Missed Three Point Jumper,59,64
+5:43,Nevada,Cody Martin,Defensive Rebound,59,64
+5:22,Nevada,Cody Martin,Jumper,61,64
+5:14,Nevada,Jazz Johnson,Foul,61,64
+5:14,Utah State,Diogo Brito,Free Throw,61,65
+5:14,Utah State,Diogo Brito,Missed Free Throw,61,65
+5:14,Nevada,Jordan Caroline,Defensive Rebound,61,65
+4:47,Nevada,Jazz Johnson,Missed Jumper,61,65
+4:47,Nevada,Tre'Shawn Thurman,Offensive Rebound,61,65
+4:42,Nevada,Tre'Shawn Thurman,Missed Dunk,61,65
+4:42,Utah State,Diogo Brito,Defensive Rebound,61,65
+4:34,Utah State,Diogo Brito,Turnover,61,65
+4:22,Utah State,Justin Bean,Foul,61,65
+4:22,Nevada,Jazz Johnson,Free Throw,62,65
+4:22,Nevada,Jazz Johnson,Free Throw,63,65
+4:07,Utah State,Diogo Brito,Jumper,63,67
+3:44,Nevada,Cody Martin,Missed Jumper,63,67
+3:44,Utah State,Diogo Brito,Defensive Rebound,63,67
+3:33,Nevada,Tre'Shawn Thurman,Foul,63,67
+3:33,Utah State,None,None,63,67
+3:33,Utah State,Sam Merrill,Free Throw,63,68
+3:33,Utah State,Sam Merrill,Free Throw,63,69
+3:19,Utah State,Quinn Taylor,Foul,63,69
+3:19,Nevada,Caleb Martin,Free Throw,64,69
+3:19,Nevada,Caleb Martin,Free Throw,65,69
+2:59,Utah State,Sam Merrill,Turnover,65,69
+2:59,Nevada,Cody Martin,Steal,65,69
+2:58,Utah State,Diogo Brito,Foul,65,69
+2:58,Nevada,Cody Martin,Free Throw,66,69
+2:58,Nevada,Cody Martin,Free Throw,67,69
+2:47,Nevada,Tre'Shawn Thurman,Foul,67,69
+2:47,Utah State,Neemias Queta,Free Throw,67,70
+2:47,Utah State,Neemias Queta,Missed Free Throw,67,70
+2:47,Nevada,Trey Porter,Defensive Rebound,67,70
+2:31,Utah State,Abel Porter,Foul,67,70
+2:31,Nevada,Trey Porter,Missed Free Throw,67,70
+2:31,Nevada,None,Team Rebound,67,70
+2:31,Nevada,Trey Porter,Missed Free Throw,67,70
+2:31,Utah State,Justin Bean,Defensive Rebound,67,70
+2:02,Utah State,Sam Merrill,Missed Jumper,67,70
+2:02,Nevada,Jordan Caroline,Defensive Rebound,67,70
+1:40,Nevada,Jordan Caroline,Missed Three Point Jumper,67,70
+1:40,Utah State,Sam Merrill,Defensive Rebound,67,70
+1:27,Nevada,Jordan Caroline,Foul,67,70
+1:27,Utah State,Sam Merrill,Missed Free Throw,67,70
+1:27,Utah State,None,Team Rebound,67,70
+1:27,Utah State,Sam Merrill,Free Throw,67,71
+1:20,Nevada,Caleb Martin,Missed Three Point Jumper,67,71
+1:20,Nevada,Nevada,Offensive Rebound,67,71
+1:13,Nevada,Cody Martin,Missed Three Point Jumper,67,71
+1:13,Nevada,Jordan Caroline,Offensive Rebound,67,71
+1:07,Utah State,Neemias Queta,Foul,67,71
+1:07,Nevada,Jordan Caroline,Free Throw,68,71
+1:07,Nevada,Jordan Caroline,Missed Free Throw,68,71
+1:07,Utah State,Justin Bean,Defensive Rebound,68,71
+1:05,Nevada,Jordan Caroline,Foul,68,71
+1:05,Utah State,Justin Bean,Free Throw,68,72
+1:05,Utah State,Justin Bean,Missed Free Throw,68,72
+1:05,Nevada,Jordan Caroline,Defensive Rebound,68,72
+0:58,Nevada,Jordan Caroline,Foul,68,72
+0:58,Nevada,Jordan Caroline,Turnover,68,72
+0:51,Nevada,Jazz Johnson,Foul,68,72
+0:51,Utah State,Sam Merrill,Free Throw,68,73
+0:51,Utah State,Sam Merrill,Free Throw,68,74
+0:46,Nevada,Cody Martin,Three Point Jumper,71,74
+0:43,Nevada,Cody Martin,Foul,71,74
+0:43,Utah State,Justin Bean,Free Throw,71,75
+0:43,Utah State,Justin Bean,Free Throw,71,76
+0:43,Utah State,None,None,71,76
+0:33,Nevada,Caleb Martin,Foul,71,76
+0:33,Nevada,Caleb Martin,Turnover,71,76
+0:30,Nevada,Jazz Johnson,Foul,71,76
+0:30,Utah State,Brock Miller,Free Throw,71,77
+0:30,Utah State,Brock Miller,Free Throw,71,78
+0:22,Utah State,Sam Merrill,Foul,71,78
+0:22,Nevada,Caleb Martin,Free Throw,72,78
+0:22,Nevada,Caleb Martin,Free Throw,73,78
+0:22,Nevada,Caleb Martin,Free Throw,74,78
+0:19,Utah State,Diogo Brito,Layup,74,80
+0:09,Nevada,Caleb Martin,Missed Three Point Jumper,74,80
+0:09,Utah State,Dwayne Brown Jr.,Defensive Rebound,74,80
+0:08,Nevada,Corey Henson,Foul,74,80
+0:08,Utah State,Dwayne Brown Jr.,Free Throw,74,81
+0:08,Utah State,Dwayne Brown Jr.,Missed Free Throw,74,81
+0:08,Nevada,Caleb Martin,Defensive Rebound,74,81
+0:03,Nevada,Caleb Martin,Dunk,76,81
+0:00,Utah State,None,None,76,81

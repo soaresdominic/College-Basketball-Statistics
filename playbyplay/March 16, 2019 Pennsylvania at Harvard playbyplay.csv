@@ -1,0 +1,300 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Pennsylvania,None,None,0,0
+19:47,Pennsylvania,Max Rothschild,Layup,2,0
+19:11,Harvard,Bryce Aiken,Turnover,2,0
+19:11,Pennsylvania,AJ Brodeur,Steal,2,0
+18:54,Pennsylvania,AJ Brodeur,Jumper,4,0
+18:32,Harvard,Bryce Aiken,Missed Jumper,4,0
+18:32,Harvard,Bryce Aiken,Offensive Rebound,4,0
+18:26,Harvard,Chris Lewis,Missed Layup,4,0
+18:26,Pennsylvania,Antonio Woods,Defensive Rebound,4,0
+18:08,Pennsylvania,AJ Brodeur,Turnover,4,0
+18:08,Harvard,Christian Juzang,Steal,4,0
+17:37,Harvard,Bryce Aiken,Missed Jumper,4,0
+17:37,Pennsylvania,AJ Brodeur,Defensive Rebound,4,0
+17:18,Pennsylvania,Antonio Woods,Three Point Jumper,7,0
+16:59,Harvard,Kale Catchings,Missed Three Point Jumper,7,0
+16:59,Pennsylvania,Antonio Woods,Defensive Rebound,7,0
+16:36,Pennsylvania,Max Rothschild,Turnover,7,0
+16:26,Harvard,Bryce Aiken,Missed Three Point Jumper,7,0
+16:26,Pennsylvania,AJ Brodeur,Defensive Rebound,7,0
+16:03,Pennsylvania,AJ Brodeur,Missed Jumper,7,0
+16:03,Pennsylvania,AJ Brodeur,Offensive Rebound,7,0
+15:55,Pennsylvania,Max Rothschild,Turnover,7,0
+15:55,Harvard,Bryce Aiken,Steal,7,0
+15:49,Harvard,Noah Kirkwood,Layup,7,2
+15:27,Pennsylvania,AJ Brodeur,Missed Layup,7,2
+15:27,Harvard,Bryce Aiken,Defensive Rebound,7,2
+15:20,Pennsylvania,Jake Silpe,Foul,7,2
+15:20,Harvard,None,None,7,2
+15:13,Harvard,Bryce Aiken,Layup,7,4
+14:58,Harvard,Noah Kirkwood,Foul,7,4
+14:47,Pennsylvania,AJ Brodeur,Layup,9,4
+14:24,Harvard,Mason Forbes,Missed Layup,9,4
+14:24,Pennsylvania,Jarrod Simmons,Defensive Rebound,9,4
+14:07,Pennsylvania,Jackson Donahue,Missed Three Point Jumper,9,4
+14:07,Harvard,Justin Bassey,Defensive Rebound,9,4
+13:59,Harvard,Justin Bassey,Turnover,9,4
+13:47,Harvard,Rio Haskett,Foul,9,4
+13:39,Pennsylvania,AJ Brodeur,Jumper,11,4
+13:31,Harvard,Bryce Aiken,Missed Three Point Jumper,11,4
+13:31,Pennsylvania,AJ Brodeur,Defensive Rebound,11,4
+13:23,Pennsylvania,Devon Goodman,Three Point Jumper,14,4
+13:18,Harvard,None,None,14,4
+13:08,Pennsylvania,Jackson Donahue,Foul,14,4
+12:59,Harvard,Chris Lewis,Layup,14,6
+12:36,Pennsylvania,Max Rothschild,Missed Layup,14,6
+12:36,Harvard,Danilo Djuricic,Block,14,6
+12:36,Harvard,Christian Juzang,Defensive Rebound,14,6
+12:28,Harvard,Christian Juzang,Three Point Jumper,14,9
+12:12,Pennsylvania,Devon Goodman,Layup,16,9
+11:53,Harvard,Rio Haskett,Missed Three Point Jumper,16,9
+11:53,Pennsylvania,Devon Goodman,Defensive Rebound,16,9
+11:38,Harvard,Danilo Djuricic,Foul,16,9
+11:38,Harvard,None,None,16,9
+11:29,Pennsylvania,Jake Silpe,Missed Three Point Jumper,16,9
+11:29,Harvard,Justin Bassey,Defensive Rebound,16,9
+11:15,Harvard,Danilo Djuricic,Layup,16,11
+11:15,Pennsylvania,AJ Brodeur,Foul,16,11
+11:15,Harvard,Danilo Djuricic,Free Throw,16,12
+11:01,Pennsylvania,AJ Brodeur,Turnover,16,12
+11:01,Harvard,Bryce Aiken,Steal,16,12
+10:47,Harvard,Chris Lewis,Jumper,16,14
+10:19,Pennsylvania,Jake Silpe,Three Point Jumper,19,14
+10:00,Pennsylvania,Jarrod Simmons,Foul,19,14
+9:52,Harvard,Christian Juzang,Missed Three Point Jumper,19,14
+9:52,Pennsylvania,Devon Goodman,Defensive Rebound,19,14
+9:27,Pennsylvania,AJ Brodeur,Layup,21,14
+9:08,Harvard,Chris Lewis,Turnover,21,14
+9:08,Pennsylvania,Jake Silpe,Steal,21,14
+8:58,Pennsylvania,Antonio Woods,Missed Three Point Jumper,21,14
+8:58,Harvard,Chris Lewis,Defensive Rebound,21,14
+8:46,Harvard,Chris Lewis,Dunk,21,16
+8:26,Harvard,Noah Kirkwood,Foul,21,16
+8:17,Pennsylvania,Devon Goodman,Missed Layup,21,16
+8:17,Harvard,Kale Catchings,Defensive Rebound,21,16
+8:09,Harvard,Bryce Aiken,Missed Three Point Jumper,21,16
+8:09,Pennsylvania,Devon Goodman,Defensive Rebound,21,16
+8:00,Pennsylvania,AJ Brodeur,Missed Three Point Jumper,21,16
+8:00,Harvard,Harvard,Defensive Rebound,21,16
+7:54,Harvard,None,None,21,16
+7:37,Harvard,Bryce Aiken,Jumper,21,18
+7:15,Pennsylvania,AJ Brodeur,Missed Jumper,21,18
+7:15,Harvard,Justin Bassey,Block,21,18
+7:15,Harvard,Kale Catchings,Defensive Rebound,21,18
+7:04,Harvard,Bryce Aiken,Layup,21,20
+6:57,Pennsylvania,None,None,21,20
+6:50,Pennsylvania,AJ Brodeur,Layup,23,20
+6:27,Pennsylvania,Jake Silpe,Foul,23,20
+6:27,Harvard,Christian Juzang,Free Throw,23,21
+6:27,Harvard,Christian Juzang,Free Throw,23,22
+6:27,Harvard,Christian Juzang,Free Throw,23,23
+6:15,Pennsylvania,Antonio Woods,Layup,25,23
+5:56,Pennsylvania,Devon Goodman,Foul,25,23
+5:51,Harvard,Christian Juzang,Foul,25,23
+5:51,Harvard,Christian Juzang,Turnover,25,23
+5:35,Pennsylvania,AJ Brodeur,Three Point Jumper,28,23
+5:17,Harvard,Bryce Aiken,Three Point Jumper,28,26
+5:04,Pennsylvania,AJ Brodeur,Missed Three Point Jumper,28,26
+5:04,Pennsylvania,AJ Brodeur,Offensive Rebound,28,26
+4:58,Pennsylvania,Devon Goodman,Missed Three Point Jumper,28,26
+4:58,Harvard,Harvard,Defensive Rebound,28,26
+4:48,Pennsylvania,Max Rothschild,Foul,28,26
+4:48,Harvard,Kale Catchings,Free Throw,28,27
+4:48,Harvard,Kale Catchings,Free Throw,28,28
+4:39,Harvard,Christian Juzang,Foul,28,28
+4:30,Harvard,Danilo Djuricic,Foul,28,28
+4:30,Pennsylvania,Devon Goodman,Missed Free Throw,28,28
+4:30,Harvard,Kale Catchings,Defensive Rebound,28,28
+4:18,Harvard,Kale Catchings,Turnover,28,28
+4:18,Pennsylvania,Devon Goodman,Steal,28,28
+4:02,Pennsylvania,Devon Goodman,Missed Layup,28,28
+4:02,Harvard,Danilo Djuricic,Defensive Rebound,28,28
+3:56,Harvard,Noah Kirkwood,Three Point Jumper,28,31
+3:39,Pennsylvania,Antonio Woods,Turnover,28,31
+3:39,Harvard,Kale Catchings,Steal,28,31
+3:39,Pennsylvania,Max Rothschild,Foul,28,31
+3:39,Harvard,None,None,28,31
+3:39,Harvard,Kale Catchings,Missed Free Throw,28,31
+3:39,Pennsylvania,Max Rothschild,Defensive Rebound,28,31
+3:26,Pennsylvania,Jarrod Simmons,Three Point Jumper,31,31
+2:55,Harvard,Christian Juzang,Layup,31,33
+2:26,Pennsylvania,Antonio Woods,Missed Jumper,31,33
+2:26,Harvard,Harvard,Defensive Rebound,31,33
+2:19,Pennsylvania,Max Rothschild,Foul,31,33
+2:19,Harvard,Justin Bassey,Free Throw,31,34
+2:19,Harvard,Justin Bassey,Free Throw,31,35
+1:57,Pennsylvania,Jake Silpe,Turnover,31,35
+1:57,Harvard,Bryce Aiken,Steal,31,35
+1:29,Harvard,Kale Catchings,Missed Three Point Jumper,31,35
+1:29,Harvard,Chris Lewis,Offensive Rebound,31,35
+1:00,Harvard,Kale Catchings,Missed Layup,31,35
+1:00,Pennsylvania,Jarrod Simmons,Block,31,35
+1:00,Harvard,Harvard,Offensive Rebound,31,35
+0:50,Harvard,Kale Catchings,Missed Jumper,31,35
+0:50,Pennsylvania,AJ Brodeur,Defensive Rebound,31,35
+0:44,Pennsylvania,Jake Silpe,Three Point Jumper,34,35
+0:11,Harvard,Bryce Aiken,Missed Three Point Jumper,34,35
+0:11,Harvard,Justin Bassey,Offensive Rebound,34,35
+0:03,Harvard,Christian Juzang,Missed Three Point Jumper,34,35
+0:03,Harvard,Harvard,Offensive Rebound,34,35
+0:02,Pennsylvania,Jarrod Simmons,Foul,34,35
+0:02,Harvard,Kale Catchings,Free Throw,34,36
+0:02,Harvard,Kale Catchings,Missed Free Throw,34,36
+0:02,Pennsylvania,Jake Silpe,Defensive Rebound,34,36
+0:00,Harvard,None,None,34,36
+20:00,Harvard,None,None,34,36
+19:46,Harvard,Chris Lewis,Missed Layup,34,36
+19:46,Pennsylvania,Devon Goodman,Defensive Rebound,34,36
+19:24,Pennsylvania,AJ Brodeur,Missed Layup,34,36
+19:24,Harvard,Chris Lewis,Defensive Rebound,34,36
+19:08,Harvard,Kale Catchings,Missed Layup,34,36
+19:08,Pennsylvania,AJ Brodeur,Defensive Rebound,34,36
+18:52,Pennsylvania,AJ Brodeur,Layup,36,36
+18:30,Harvard,Chris Lewis,Turnover,36,36
+18:20,Pennsylvania,Antonio Woods,Missed Three Point Jumper,36,36
+18:20,Harvard,Bryce Aiken,Defensive Rebound,36,36
+18:12,Harvard,Noah Kirkwood,Missed Layup,36,36
+18:12,Harvard,Kale Catchings,Offensive Rebound,36,36
+18:08,Harvard,Kale Catchings,Missed Layup,36,36
+18:08,Harvard,Kale Catchings,Offensive Rebound,36,36
+18:04,Harvard,Kale Catchings,Missed Layup,36,36
+18:04,Pennsylvania,Jake Silpe,Defensive Rebound,36,36
+17:40,Pennsylvania,Devon Goodman,Missed Three Point Jumper,36,36
+17:40,Harvard,Bryce Aiken,Defensive Rebound,36,36
+17:21,Harvard,Danilo Djuricic,Missed Layup,36,36
+17:21,Pennsylvania,AJ Brodeur,Defensive Rebound,36,36
+16:58,Pennsylvania,AJ Brodeur,Missed Layup,36,36
+16:58,Harvard,Kale Catchings,Defensive Rebound,36,36
+16:51,Harvard,Bryce Aiken,Turnover,36,36
+16:23,Pennsylvania,Max Rothschild,Layup,38,36
+16:00,Harvard,Bryce Aiken,Turnover,38,36
+16:00,Pennsylvania,Max Rothschild,Steal,38,36
+15:47,Harvard,Kale Catchings,Foul,38,36
+15:47,Harvard,None,None,38,36
+15:41,Pennsylvania,AJ Brodeur,Layup,40,36
+15:23,Harvard,Danilo Djuricic,Three Point Jumper,40,39
+15:05,Pennsylvania,Devon Goodman,Missed Three Point Jumper,40,39
+15:05,Harvard,Noah Kirkwood,Defensive Rebound,40,39
+14:50,Pennsylvania,Max Rothschild,Foul,40,39
+14:29,Harvard,Harvard ,Turnover,40,39
+14:20,Pennsylvania,Jake Silpe,Turnover,40,39
+14:20,Harvard,Kale Catchings,Steal,40,39
+14:16,Harvard,Kale Catchings,Layup,40,41
+14:02,Pennsylvania,Jarrod Simmons,Turnover,40,41
+14:02,Harvard,Justin Bassey,Steal,40,41
+13:54,Harvard,Bryce Aiken,Turnover,40,41
+13:45,Harvard,Justin Bassey,Foul,40,41
+13:45,Pennsylvania,Devon Goodman,Free Throw,41,41
+13:45,Pennsylvania,Devon Goodman,Free Throw,42,41
+13:30,Harvard,Noah Kirkwood,Missed Three Point Jumper,42,41
+13:30,Harvard,Justin Bassey,Offensive Rebound,42,41
+13:22,Pennsylvania,Jarrod Simmons,Foul,42,41
+13:13,Harvard,Bryce Aiken,Missed Jumper,42,41
+13:13,Pennsylvania,Antonio Woods,Block,42,41
+13:13,Harvard,Harvard,Offensive Rebound,42,41
+13:09,Harvard,Bryce Aiken,Missed Three Point Jumper,42,41
+13:09,Pennsylvania,Antonio Woods,Defensive Rebound,42,41
+12:49,Pennsylvania,Devon Goodman,Layup,44,41
+12:38,Harvard,None,None,44,41
+12:23,Harvard,Chris Lewis,Missed Layup,44,41
+12:23,Pennsylvania,Jarrod Simmons,Defensive Rebound,44,41
+12:08,Harvard,Chris Lewis,Foul,44,41
+12:03,Pennsylvania,AJ Brodeur,Missed Layup,44,41
+12:03,Harvard,Chris Lewis,Block,44,41
+12:03,Harvard,Noah Kirkwood,Defensive Rebound,44,41
+11:45,Harvard,Danilo Djuricic,Layup,44,43
+11:33,Harvard,None,None,44,43
+11:28,Pennsylvania,Antonio Woods,Missed Three Point Jumper,44,43
+11:28,Harvard,Kale Catchings,Defensive Rebound,44,43
+10:58,Harvard,Christian Juzang,Missed Three Point Jumper,44,43
+10:58,Pennsylvania,Devon Goodman,Defensive Rebound,44,43
+10:50,Pennsylvania,Devon Goodman,Layup,46,43
+10:45,Harvard,Christian Juzang,Turnover,46,43
+10:45,Pennsylvania,Devon Goodman,Steal,46,43
+10:29,Harvard,Justin Bassey,Foul,46,43
+10:26,Harvard,Bryce Aiken,Foul,46,43
+10:26,Pennsylvania,AJ Brodeur,Free Throw,47,43
+10:26,Pennsylvania,AJ Brodeur,Free Throw,48,43
+10:08,Harvard,Kale Catchings,Three Point Jumper,48,46
+9:48,Pennsylvania,AJ Brodeur,Foul,48,46
+9:48,Pennsylvania,AJ Brodeur,Turnover,48,46
+9:32,Pennsylvania,Devon Goodman,Foul,48,46
+9:32,Harvard,Noah Kirkwood,Free Throw,48,47
+9:32,Harvard,Noah Kirkwood,Free Throw,48,48
+9:21,Pennsylvania,Antonio Woods,Missed Three Point Jumper,48,48
+9:21,Harvard,Kale Catchings,Defensive Rebound,48,48
+9:04,Pennsylvania,Devon Goodman,Foul,48,48
+8:53,Harvard,Noah Kirkwood,Three Point Jumper,48,51
+8:43,Pennsylvania,None,None,48,51
+8:27,Pennsylvania,Antonio Woods,Three Point Jumper,51,51
+8:00,Harvard,Bryce Aiken,Layup,51,53
+7:32,Pennsylvania,Max Rothschild,Missed Layup,51,53
+7:32,Harvard,Kale Catchings,Defensive Rebound,51,53
+7:17,Harvard,Noah Kirkwood,Turnover,51,53
+7:17,Pennsylvania,Antonio Woods,Steal,51,53
+7:17,Harvard,Danilo Djuricic,Foul,51,53
+7:17,Harvard,None,None,51,53
+7:07,Pennsylvania,Devon Goodman,Foul,51,53
+7:07,Pennsylvania,Devon Goodman,Turnover,51,53
+6:57,Harvard,Justin Bassey,Layup,51,55
+6:41,Harvard,Bryce Aiken,Foul,51,55
+6:41,Pennsylvania,Jake Silpe,Free Throw,52,55
+6:41,Pennsylvania,Jake Silpe,Missed Free Throw,52,55
+6:41,Pennsylvania,Max Rothschild,Offensive Rebound,52,55
+6:20,Harvard,Kale Catchings,Foul,52,55
+6:20,Pennsylvania,AJ Brodeur,Missed Free Throw,52,55
+6:20,Harvard,Danilo Djuricic,Defensive Rebound,52,55
+5:59,Harvard,Bryce Aiken,Three Point Jumper,52,58
+5:36,Harvard,Kale Catchings,Foul,52,58
+5:36,Pennsylvania,AJ Brodeur,Free Throw,53,58
+5:36,Pennsylvania,AJ Brodeur,Free Throw,54,58
+5:15,Harvard,Justin Bassey,Missed Three Point Jumper,54,58
+5:15,Pennsylvania,Jake Silpe,Defensive Rebound,54,58
+4:47,Pennsylvania,Max Rothschild,Missed Layup,54,58
+4:47,Pennsylvania,AJ Brodeur,Offensive Rebound,54,58
+4:38,Pennsylvania,AJ Brodeur,Missed Layup,54,58
+4:38,Harvard,Bryce Aiken,Defensive Rebound,54,58
+4:25,Harvard,Noah Kirkwood,Jumper,54,60
+4:04,Pennsylvania,AJ Brodeur,Layup,56,60
+4:04,Harvard,Kale Catchings,Foul,56,60
+4:04,Pennsylvania,AJ Brodeur,Missed Free Throw,56,60
+4:04,Harvard,Danilo Djuricic,Defensive Rebound,56,60
+3:39,Harvard,Noah Kirkwood,Missed Three Point Jumper,56,60
+3:39,Pennsylvania,Pennsylvania,Defensive Rebound,56,60
+3:33,Harvard,Harvard ,Turnover,56,60
+3:33,Harvard,None,None,56,60
+3:12,Pennsylvania,Devon Goodman,Turnover,56,60
+3:12,Harvard,Noah Kirkwood,Steal,56,60
+3:04,Harvard,Bryce Aiken,Turnover,56,60
+2:46,Pennsylvania,AJ Brodeur,Turnover,56,60
+2:20,Harvard,Bryce Aiken,Layup,56,62
+2:08,Pennsylvania,Devon Goodman,Missed Layup,56,62
+2:08,Harvard,Chris Lewis,Defensive Rebound,56,62
+1:37,Harvard,Bryce Aiken,Missed Jumper,56,62
+1:37,Pennsylvania,Pennsylvania,Defensive Rebound,56,62
+1:19,Pennsylvania,AJ Brodeur,Missed Layup,56,62
+1:19,Harvard,Chris Lewis,Block,56,62
+1:19,Pennsylvania,Pennsylvania,Offensive Rebound,56,62
+1:15,Pennsylvania,Devon Goodman,Turnover,56,62
+1:15,Harvard,Chris Lewis,Steal,56,62
+0:47,Harvard,Noah Kirkwood,Missed Three Point Jumper,56,62
+0:47,Harvard,Chris Lewis,Offensive Rebound,56,62
+0:38,Pennsylvania,Max Rothschild,Foul,56,62
+0:38,Harvard,Danilo Djuricic,Free Throw,56,63
+0:38,Harvard,Danilo Djuricic,Missed Free Throw,56,63
+0:38,Pennsylvania,Antonio Woods,Defensive Rebound,56,63
+0:31,Pennsylvania,Antonio Woods,Missed Layup,56,63
+0:31,Pennsylvania,AJ Brodeur,Offensive Rebound,56,63
+0:30,Pennsylvania,AJ Brodeur,Layup,58,63
+0:29,Pennsylvania,None,None,58,63
+0:20,Pennsylvania,Eddie Scott,Foul,58,63
+0:20,Harvard,Bryce Aiken,Free Throw,58,64
+0:20,Harvard,Bryce Aiken,Free Throw,58,65
+0:16,Pennsylvania,Antonio Woods,Missed Three Point Jumper,58,65
+0:16,Harvard,Justin Bassey,Defensive Rebound,58,65
+0:08,Pennsylvania,Jake Silpe,Foul,58,65
+0:08,Harvard,Bryce Aiken,Free Throw,58,66
+0:08,Harvard,Bryce Aiken,Missed Free Throw,58,66
+0:08,Pennsylvania,Jakub Mijakowski,Defensive Rebound,58,66
+0:00,Harvard,None,None,58,66

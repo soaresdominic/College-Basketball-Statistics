@@ -1,0 +1,289 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:31,Mercer,Jaylen Stowe,Missed Layup,0,0
+19:31,Mercer,Fardaws Aimaq,Offensive Rebound,0,0
+19:28,Mercer,Fardaws Aimaq,Missed Layup,0,0
+19:28,Mercer,Fardaws Aimaq,Offensive Rebound,0,0
+19:26,Mercer,None,None,0,2
+19:12,Chattanooga,David Jean-Baptiste,Missed Three Point Jumper,0,2
+19:12,Mercer,Ethan Stair,Defensive Rebound,0,2
+18:58,Mercer,Ross Cummings,Missed Three Point Jumper,0,2
+18:58,Chattanooga,Ramon Vila,Defensive Rebound,0,2
+18:48,Chattanooga,Jerry Johnson Jr.,Missed Layup,0,2
+18:48,Mercer,Jaylen Stowe,Defensive Rebound,0,2
+18:30,Mercer,Fardaws Aimaq,Layup,0,4
+18:12,Chattanooga,David Jean-Baptiste,Jumper,2,4
+17:47,Chattanooga,Keigan Kerby,Foul,2,4
+17:46,Mercer,Fardaws Aimaq,Layup,2,6
+17:26,Chattanooga,Ramon Vila,Layup,4,6
+16:56,Mercer,Marcus Cohen,Missed Jumper,4,6
+16:56,Mercer,Fardaws Aimaq,Offensive Rebound,4,6
+16:53,Mercer,Fardaws Aimaq,Missed Layup,4,6
+16:53,Chattanooga,Keigan Kerby,Block,4,6
+16:52,Mercer,Fardaws Aimaq,Offensive Rebound,4,6
+16:51,Mercer,Ross Cummings,Three Point Jumper,4,9
+16:30,Mercer,Marcus Cohen,Foul,4,9
+16:16,Chattanooga,Jerry Johnson Jr.,Missed Jumper,4,9
+16:16,Mercer,Ethan Stair,Defensive Rebound,4,9
+16:07,Mercer,Victor Bafutto,Layup,4,11
+15:50,Chattanooga,Jerry Johnson Jr.,Three Point Jumper,7,11
+15:28,Mercer,Ross Cummings,Three Point Jumper,7,14
+15:13,Chattanooga,David Jean-Baptiste,Missed Layup,7,14
+15:13,Mercer,Victor Bafutto,Block,7,14
+15:12,Mercer,Marcus Cohen,Defensive Rebound,7,14
+15:09,Mercer,Marcus Cohen,Missed Layup,7,14
+15:09,Mercer,Mercer,Offensive Rebound,7,14
+15:07,Mercer,None,None,7,14
+14:50,Mercer,Ross Cummings,Missed Jumper,7,14
+14:50,Mercer,Victor Bafutto,Offensive Rebound,7,14
+14:45,Mercer,None,None,7,14
+14:45,Chattanooga,Thomas Smallwood,Defensive Rebound,7,14
+14:27,Chattanooga,Keigan Kerby,Three Point Jumper,10,14
+14:03,Mercer,Ross Cummings,Missed Three Point Jumper,10,14
+14:03,Chattanooga,Jonathan Scott,Defensive Rebound,10,14
+13:53,Chattanooga,Donovann Toatley,Missed Jumper,10,14
+13:53,Mercer,Luke Hamilton,Defensive Rebound,10,14
+13:37,Mercer,Luke Hamilton,Jumper,10,16
+13:05,Chattanooga,Donovann Toatley,Missed Jumper,10,16
+13:05,Chattanooga,Keigan Kerby,Offensive Rebound,10,16
+12:53,Chattanooga,A.J. Caldwell,Three Point Jumper,13,16
+12:32,Chattanooga,Keigan Kerby,Foul,13,16
+12:30,Mercer,Jaylen Stowe,Layup,13,18
+12:30,Chattanooga,Jonathan Scott,Foul,13,18
+12:30,Mercer,Jaylen Stowe,Free Throw,13,19
+12:12,Chattanooga,Jerry Johnson Jr.,Layup,15,19
+11:55,Mercer,Djordje Dimitrijevic,Missed Layup,15,19
+11:55,Chattanooga,Jerry Johnson Jr.,Defensive Rebound,15,19
+11:47,Chattanooga,A.J. Caldwell,Missed Layup,15,19
+11:47,Mercer,CJ Williamson,Block,15,19
+11:46,Chattanooga,Jonathan Scott,Offensive Rebound,15,19
+11:45,Chattanooga,Jonathan Scott,Layup,17,19
+11:19,Mercer,Jaylen Stowe,Turnover,17,19
+11:19,Mercer,None,None,17,19
+10:58,Chattanooga,David Jean-Baptiste,Turnover,17,19
+10:58,Chattanooga,David Jean-Baptiste,Foul,17,19
+10:43,Mercer,Luke Hamilton,Missed Jumper,17,19
+10:43,Mercer,Fardaws Aimaq,Offensive Rebound,17,19
+10:31,Mercer,Djordje Dimitrijevic,Jumper,17,21
+10:03,Chattanooga,A.J. Caldwell,Missed Three Point Jumper,17,21
+10:03,Mercer,Luke Hamilton,Defensive Rebound,17,21
+9:41,Mercer,Ethan Stair,Missed Jumper,17,21
+9:41,Chattanooga,Donovann Toatley,Defensive Rebound,17,21
+9:30,Chattanooga,Jerry Johnson Jr.,Layup,19,21
+9:09,Mercer,Fardaws Aimaq,Missed Jumper,19,21
+9:09,Chattanooga,Jerry Johnson Jr.,Defensive Rebound,19,21
+8:51,Chattanooga,Donovann Toatley,Three Point Jumper,22,21
+8:32,Mercer,Luke Hamilton,Turnover,22,21
+8:32,Mercer,Luke Hamilton,Foul,22,21
+8:20,Chattanooga,Ramon Vila,Missed Three Point Jumper,22,21
+8:20,Mercer,Djordje Dimitrijevic,Defensive Rebound,22,21
+8:17,Chattanooga,Justin Brown,Foul,22,21
+8:06,Mercer,Daniel Love,Missed Jumper,22,21
+8:06,Mercer,Fardaws Aimaq,Offensive Rebound,22,21
+7:56,Chattanooga,Jerry Johnson Jr.,Foul,22,21
+7:56,Mercer,None,None,22,21
+7:38,Mercer,Mercer ,Turnover,22,21
+7:24,Chattanooga,Ramon Vila,Layup,24,21
+6:59,Mercer,Fardaws Aimaq,Missed Layup,24,21
+6:59,Chattanooga,Ramon Vila,Block,24,21
+6:58,Chattanooga,Ramon Vila,Defensive Rebound,24,21
+6:39,Chattanooga,Justin Brown,Jumper,26,21
+6:05,Mercer,Ross Cummings,Jumper,26,23
+5:39,Chattanooga,Maurice Commander,Missed Three Point Jumper,26,23
+5:39,Mercer,Daniel Love,Defensive Rebound,26,23
+5:13,Mercer,Fardaws Aimaq,Missed Layup,26,23
+5:13,Chattanooga,Jerry Johnson Jr.,Defensive Rebound,26,23
+4:50,Chattanooga,Justin Brown,Layup,28,23
+4:32,Mercer,Ross Cummings,Three Point Jumper,28,26
+4:16,Chattanooga,David Jean-Baptiste,Three Point Jumper,31,26
+3:55,Mercer,Ethan Stair,Three Point Jumper,31,29
+3:30,Chattanooga,Ramon Vila,Missed Layup,31,29
+3:30,Mercer,Fardaws Aimaq,Defensive Rebound,31,29
+3:19,Mercer,Ross Cummings,Missed Three Point Jumper,31,29
+3:19,Chattanooga,Justin Brown,Defensive Rebound,31,29
+2:59,Mercer,None,None,31,29
+2:58,Chattanooga,Jonathan Scott,Turnover,31,29
+2:49,Mercer,Ross Cummings,Missed Three Point Jumper,31,29
+2:49,Chattanooga,Jonathan Scott,Defensive Rebound,31,29
+2:38,Chattanooga,A.J. Caldwell,Three Point Jumper,34,29
+2:16,Mercer,Ethan Stair,Missed Three Point Jumper,34,29
+2:16,Chattanooga,A.J. Caldwell,Defensive Rebound,34,29
+2:01,Chattanooga,Thomas Smallwood,Layup,36,29
+1:39,Mercer,Marcus Cohen,Missed Layup,36,29
+1:39,Mercer,Victor Bafutto,Offensive Rebound,36,29
+1:34,Chattanooga,Thomas Smallwood,Foul,36,29
+1:34,Mercer,Victor Bafutto,Missed Free Throw,36,29
+1:34,Mercer,None,Team Rebound,36,29
+1:34,Mercer,Victor Bafutto,Free Throw,36,30
+1:22,Chattanooga,Thomas Smallwood,Three Point Jumper,39,30
+1:06,Mercer,Daniel Love,Missed Three Point Jumper,39,30
+1:06,Chattanooga,A.J. Caldwell,Defensive Rebound,39,30
+0:49,Chattanooga,Thomas Smallwood,Missed Three Point Jumper,39,30
+0:49,Mercer,Ethan Stair,Defensive Rebound,39,30
+0:40,Mercer,Victor Bafutto,Turnover,39,30
+0:40,Mercer,Victor Bafutto,Foul,39,30
+0:11,Chattanooga,A.J. Caldwell,Three Point Jumper,42,30
+0:04,Mercer,Jaylen Stowe,Layup,42,32
+0:04,Chattanooga,Jonathan Scott,Foul,42,32
+0:04,Mercer,Jaylen Stowe,Missed Free Throw,42,32
+0:04,Mercer,Mercer,Offensive Rebound,42,32
+0:02,Mercer,Ethan Stair,Jumper,42,34
+0:00,Mercer,None,None,42,35
+19:32,Chattanooga,Keigan Kerby,Turnover,42,34
+19:31,Mercer,Marcus Cohen,Steal,42,34
+19:13,Mercer,Marcus Cohen,Layup,42,36
+18:48,Mercer,Fardaws Aimaq,Foul,42,36
+18:48,Chattanooga,Keigan Kerby,Missed Free Throw,42,36
+18:48,Chattanooga,None,Team Rebound,42,36
+18:48,Chattanooga,Keigan Kerby,Missed Free Throw,42,36
+18:48,Mercer,Jaylen Stowe,Defensive Rebound,42,36
+18:35,Mercer,Ross Cummings,Jumper,42,38
+18:01,Chattanooga,Jerry Johnson Jr.,Jumper,44,38
+17:38,Mercer,Fardaws Aimaq,Missed Dunk,44,38
+17:38,Chattanooga,None,Team Rebound,44,38
+17:38,Mercer,Fardaws Aimaq,Foul,44,38
+17:38,Chattanooga,Jerry Johnson Jr.,Free Throw,45,38
+17:27,Chattanooga,Keigan Kerby,Dunk,47,38
+17:08,Mercer,Jaylen Stowe,Missed Three Point Jumper,47,38
+17:08,Chattanooga,Ramon Vila,Defensive Rebound,47,38
+16:56,Chattanooga,David Jean-Baptiste,Missed Layup,47,38
+16:56,Mercer,Jaylen Stowe,Defensive Rebound,47,38
+16:47,Chattanooga,Ramon Vila,Foul,47,38
+16:47,Mercer,Fardaws Aimaq,Missed Free Throw,47,38
+16:47,Mercer,None,Team Rebound,47,38
+16:47,Mercer,Fardaws Aimaq,Free Throw,47,39
+16:34,Mercer,Luke Hamilton,Defensive Rebound,47,39
+16:34,Chattanooga,Keigan Kerby,Missed Three Point Jumper,47,39
+16:23,Mercer,Victor Bafutto,Layup,47,41
+15:59,Chattanooga,Thomas Smallwood,Missed Three Point Jumper,47,41
+15:59,Mercer,Ross Cummings,Defensive Rebound,47,41
+15:50,Mercer,Ross Cummings,Three Point Jumper,47,44
+15:38,Mercer,Marcus Cohen,Foul,47,44
+15:38,Mercer,None,None,47,44
+15:36,Mercer,None,None,47,44
+15:18,Chattanooga,Donovann Toatley,Missed Three Point Jumper,47,44
+15:18,Mercer,CJ Williamson,Defensive Rebound,47,44
+15:10,Mercer,Victor Bafutto,Turnover,47,44
+14:52,Chattanooga,A.J. Caldwell,Turnover,47,44
+14:51,Mercer,Victor Bafutto,Steal,47,44
+14:39,Mercer,Marcus Cohen,Turnover,47,44
+14:38,Chattanooga,Jerry Johnson Jr.,Steal,47,44
+14:21,Chattanooga,Jerry Johnson Jr.,Missed Jumper,47,44
+14:21,Mercer,CJ Williamson,Defensive Rebound,47,44
+13:58,Mercer,Ross Cummings,Missed Jumper,47,44
+13:58,Chattanooga,Thomas Smallwood,Defensive Rebound,47,44
+13:26,Chattanooga,Justin Brown,Missed Jumper,47,44
+13:26,Mercer,None,Team Rebound,47,44
+13:10,Mercer,Ethan Stair,Jumper,47,46
+12:50,Chattanooga,Ramon Vila,Jumper,49,46
+12:34,Mercer,Luke Hamilton,Missed Three Point Jumper,49,46
+12:34,Chattanooga,Ramon Vila,Defensive Rebound,49,46
+12:19,Chattanooga,Donovann Toatley,Turnover,49,46
+12:19,Mercer,Djordje Dimitrijevic,Steal,49,46
+12:14,Mercer,Ross Cummings,Turnover,49,46
+12:12,Chattanooga,Jerry Johnson Jr.,Steal,49,46
+12:11,Mercer,Djordje Dimitrijevic,Foul,49,46
+12:01,Mercer,Luke Hamilton,Foul,49,46
+11:56,Chattanooga,David Jean-Baptiste,Layup,51,46
+11:34,Chattanooga,Ramon Vila,Foul,51,46
+11:34,Mercer,None,None,51,46
+11:34,Mercer,Ross Cummings,Free Throw,51,47
+11:34,Mercer,Ross Cummings,Free Throw,51,48
+11:07,Chattanooga,David Jean-Baptiste,Missed Three Point Jumper,51,48
+11:07,Chattanooga,Justin Brown,Offensive Rebound,51,48
+10:43,Chattanooga,David Jean-Baptiste,Missed Three Point Jumper,51,48
+10:43,Chattanooga,Justin Brown,Offensive Rebound,51,48
+10:38,Mercer,Luke Hamilton,Foul,51,48
+10:38,Chattanooga,Justin Brown,Free Throw,52,48
+10:38,Chattanooga,Justin Brown,Missed Free Throw,52,48
+10:38,Mercer,Fardaws Aimaq,Defensive Rebound,52,48
+10:20,Mercer,Ross Cummings,Jumper,52,50
+10:00,Mercer,Jaylen Stowe,Foul,52,50
+9:41,Mercer,Fardaws Aimaq,Foul,52,50
+9:41,Chattanooga,Ramon Vila,Free Throw,53,50
+9:41,Chattanooga,Ramon Vila,Free Throw,54,50
+9:32,Mercer,Djordje Dimitrijevic,Missed Jumper,54,50
+9:32,Chattanooga,Maurice Commander,Defensive Rebound,54,50
+9:00,Mercer,Jaylen Stowe,Foul,54,50
+9:00,Chattanooga,Jerry Johnson Jr.,Free Throw,55,50
+9:00,Chattanooga,Jerry Johnson Jr.,Free Throw,56,50
+9:00,Chattanooga,Jerry Johnson Jr.,Missed Free Throw,56,50
+9:00,Mercer,Ethan Stair,Defensive Rebound,56,50
+8:41,Mercer,Daniel Love,Missed Layup,56,50
+8:41,Chattanooga,Ramon Vila,Defensive Rebound,56,50
+8:14,Chattanooga,Jerry Johnson Jr.,Missed Three Point Jumper,56,50
+8:14,Mercer,Fardaws Aimaq,Defensive Rebound,56,50
+7:55,Mercer,Ethan Stair,Missed Three Point Jumper,56,50
+7:55,Chattanooga,Justin Brown,Defensive Rebound,56,50
+7:26,Chattanooga,Jonathan Scott,Missed Three Point Jumper,56,50
+7:26,Mercer,Ethan Stair,Defensive Rebound,56,50
+7:11,Mercer,Ross Cummings,Missed Layup,56,50
+7:11,Mercer,Fardaws Aimaq,Offensive Rebound,56,50
+7:05,Mercer,Ross Cummings,Three Point Jumper,56,53
+7:02,Mercer,None,None,56,53
+7:02,Mercer,None,None,56,53
+6:33,Chattanooga,Donovann Toatley,Missed Three Point Jumper,56,53
+6:33,Mercer,Ross Cummings,Defensive Rebound,56,53
+6:21,Mercer,Ross Cummings,Jumper,56,55
+6:02,Chattanooga,David Jean-Baptiste,Three Point Jumper,59,55
+5:40,Chattanooga,Ramon Vila,Foul,59,55
+5:40,Mercer,None,None,59,55
+5:36,Mercer,Ross Cummings,Three Point Jumper,59,58
+5:10,Chattanooga,Ramon Vila,Turnover,59,58
+4:58,Chattanooga,Donovann Toatley,Foul,59,58
+4:58,Mercer,Ross Cummings,Free Throw,59,59
+4:58,Mercer,Ross Cummings,Free Throw,59,60
+4:37,Chattanooga,Maurice Commander,Missed Layup,59,60
+4:37,Mercer,Ethan Stair,Defensive Rebound,59,60
+4:27,Mercer,Ethan Stair,Turnover,59,60
+4:26,Chattanooga,Jonathan Scott,Steal,59,60
+4:02,Chattanooga,A.J. Caldwell,Missed Jumper,59,60
+4:02,Chattanooga,Jonathan Scott,Offensive Rebound,59,60
+3:45,Chattanooga,A.J. Caldwell,Missed Three Point Jumper,59,60
+3:45,Mercer,Ethan Stair,Defensive Rebound,59,60
+3:31,Mercer,None,None,59,60
+3:31,Chattanooga,Thomas Smallwood,Foul,59,60
+3:31,Mercer,Ross Cummings,Missed Free Throw,59,60
+3:31,Mercer,None,Team Rebound,59,60
+3:31,Mercer,Ross Cummings,Free Throw,59,61
+3:10,Chattanooga,David Jean-Baptiste,Layup,61,61
+2:58,Mercer,Ross Cummings,Three Point Jumper,61,64
+2:21,Mercer,Ross Cummings,Foul,61,64
+2:21,Chattanooga,Jerry Johnson Jr.,Missed Free Throw,61,64
+2:21,Mercer,Daniel Love,Defensive Rebound,61,64
+2:10,Mercer,Ross Cummings,Missed Three Point Jumper,61,64
+2:10,Mercer,Mercer,Offensive Rebound,61,64
+2:06,Mercer,Ross Cummings,Three Point Jumper,61,67
+1:47,Chattanooga,Donovann Toatley,Missed Layup,61,67
+1:47,Mercer,Daniel Love,Defensive Rebound,61,67
+1:19,Mercer,Ross Cummings,Missed Three Point Jumper,61,67
+1:19,Mercer,CJ Williamson,Offensive Rebound,61,67
+0:54,Mercer,Ross Cummings,Missed Layup,61,67
+0:54,Mercer,Fardaws Aimaq,Offensive Rebound,61,67
+0:52,Mercer,None,None,61,69
+0:50,Chattanooga,None,None,61,69
+0:42,Chattanooga,Jerry Johnson Jr.,Missed Three Point Jumper,61,69
+0:42,Mercer,Jaylen Stowe,Defensive Rebound,61,69
+0:39,Chattanooga,Donovann Toatley,Foul,61,69
+0:38,Chattanooga,Donovann Toatley,Foul,61,69
+0:38,Mercer,Ross Cummings,Missed Free Throw,61,69
+0:38,Chattanooga,Ramon Vila,Defensive Rebound,61,69
+0:32,Chattanooga,Donovann Toatley,Missed Three Point Jumper,61,69
+0:32,Mercer,Jaylen Stowe,Defensive Rebound,61,69
+0:28,Chattanooga,Jonathan Scott,Foul,61,69
+0:28,Mercer,Ethan Stair,Free Throw,61,70
+0:28,Mercer,Ethan Stair,Free Throw,61,71
+0:21,Chattanooga,Jerry Johnson Jr.,Layup,63,71
+0:21,Mercer,Jaylen Stowe,Foul,63,71
+0:21,Chattanooga,Jerry Johnson Jr.,Free Throw,64,71
+0:21,Chattanooga,None,None,64,71
+0:19,Chattanooga,A.J. Caldwell,Foul,64,71
+0:19,Mercer,Jaylen Stowe,Free Throw,64,72
+0:19,Mercer,Jaylen Stowe,Free Throw,64,73
+0:15,Chattanooga,David Jean-Baptiste,Three Point Jumper,67,73
+0:13,Chattanooga,None,None,67,73
+0:12,Chattanooga,A.J. Caldwell,Foul,67,73
+0:12,Mercer,Daniel Love,Free Throw,67,74
+0:12,Mercer,Daniel Love,Missed Free Throw,67,74
+0:12,Chattanooga,Jonathan Scott,Defensive Rebound,67,74
+0:06,Chattanooga,Jerry Johnson Jr.,Layup,69,74
+0:00,Mercer,None,None,69,74

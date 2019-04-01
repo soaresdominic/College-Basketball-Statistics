@@ -1,0 +1,389 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:33,New Mexico,Carlton Bragg,Layup,2,0
+19:18,San José St,Noah Baumann,Three Point Jumper,2,3
+19:01,New Mexico,Makuach Maluach,Missed Jumper,2,3
+18:58,New Mexico,Carlton Bragg,Offensive Rebound,2,3
+18:58,New Mexico,Carlton Bragg,Missed Dunk,2,3
+18:58,San José St,San José State,Defensive Rebound,2,3
+18:35,San José St,Michael Steadman,Layup,2,5
+18:20,New Mexico,Vance Jackson,Missed Layup,2,5
+18:20,San José St,Michael Steadman,Block,2,5
+18:16,New Mexico,Vance Jackson,Offensive Rebound,2,5
+18:16,New Mexico,Vance Jackson,Turnover,2,5
+18:00,San José St,Zach Chappell,Three Point Jumper,2,8
+17:50,San José St,Seneca Knight,Foul,2,8
+17:44,New Mexico,Anthony Mathis,Missed Three Point Jumper,2,8
+17:40,San José St,Ashtin Chastain,Defensive Rebound,2,8
+17:36,San José St,Seneca Knight,Missed Three Point Jumper,2,8
+17:32,New Mexico,Vance Jackson,Defensive Rebound,2,8
+17:23,New Mexico,Corey Manigault,Jumper,4,8
+16:54,San José St,Noah Baumann,Missed Three Point Jumper,4,8
+16:51,New Mexico,Corey Manigault,Defensive Rebound,4,8
+16:39,New Mexico,Makuach Maluach,Jumper,6,8
+16:19,San José St,Ashtin Chastain,Layup,6,10
+16:08,San José St,Ashtin Chastain,Foul,6,10
+16:08,New Mexico,Carlton Bragg,Free Throw,7,10
+16:08,New Mexico,Carlton Bragg,Missed Free Throw,7,10
+16:06,New Mexico,New Mexico,Offensive Rebound,7,10
+15:50,New Mexico,Vladimir Pinchuk,Missed Layup,7,10
+15:47,San José St,San José State,Defensive Rebound,7,10
+15:47,San José St,None,None,7,10
+15:27,San José St,Michael Steadman,Jumper,7,12
+15:10,New Mexico,Makuach Maluach,Missed Three Point Jumper,7,12
+15:07,San José St,Noah Baumann,Defensive Rebound,7,12
+14:58,San José St,Ashtin Chastain,Jumper,7,14
+14:57,New Mexico,None,None,7,14
+14:49,New Mexico,Keith McGee,Three Point Jumper,10,14
+14:26,San José St,Michael Steadman,Layup,10,16
+14:18,New Mexico,Keith McGee,Layup,12,16
+14:02,San José St,Michael Steadman,Jumper,12,18
+13:40,New Mexico,Keith McGee,Jumper,14,18
+13:24,San José St,Michael Steadman,Missed Jumper,14,18
+13:21,New Mexico,Carlton Bragg,Defensive Rebound,14,18
+13:17,New Mexico,Anthony Mathis,Missed Three Point Jumper,14,18
+13:12,San José St,Michael Steadman,Defensive Rebound,14,18
+13:01,San José St,Michael Steadman,Turnover,14,18
+12:41,New Mexico,Drue Drinnon,Missed Three Point Jumper,14,18
+12:39,New Mexico,Carlton Bragg,Offensive Rebound,14,18
+12:38,New Mexico,Carlton Bragg,Missed Layup,14,18
+12:35,San José St,San José State,Defensive Rebound,14,18
+12:27,New Mexico,Carlton Bragg,Foul,14,18
+12:27,San José St,Christian Anigwe,Free Throw,14,19
+12:27,San José St,Christian Anigwe,Free Throw,14,20
+12:18,New Mexico,Makuach Maluach,Jumper,16,20
+12:04,San José St,Christian Anigwe,Missed Jumper,16,20
+12:03,New Mexico,Carlton Bragg,Defensive Rebound,16,20
+12:03,San José St,Ashtin Chastain,Foul,16,20
+11:53,New Mexico,Corey Manigault,Layup,18,20
+11:45,San José St,Seneca Knight,Turnover,18,20
+11:45,New Mexico,Makuach Maluach,Steal,18,20
+11:37,New Mexico,Makuach Maluach,Three Point Jumper,21,20
+11:33,San José St,None,None,21,20
+11:33,San José St,None,None,21,20
+11:11,San José St,Brae Ivey,Turnover,21,20
+10:51,New Mexico,Keith McGee,Three Point Jumper,24,20
+10:33,San José St,Noah Baumann,Missed Jumper,24,20
+10:28,San José St,San José State,Offensive Rebound,24,20
+10:19,San José St,Michael Steadman,Jumper,24,22
+10:06,New Mexico,Corey Manigault,Jumper,26,22
+9:48,San José St,Noah Baumann,Missed Three Point Jumper,26,22
+9:44,San José St,Christian Anigwe,Offensive Rebound,26,22
+9:41,San José St,Brian Rodriguez-Flores,Missed Three Point Jumper,26,22
+9:39,New Mexico,Vance Jackson,Defensive Rebound,26,22
+9:36,New Mexico,Carlton Bragg,Dunk,28,22
+9:24,San José St,Brian Rodriguez-Flores,Turnover,28,22
+9:02,New Mexico,Carlton Bragg,Turnover,28,22
+8:49,San José St,Seneca Knight,Layup,28,24
+8:33,New Mexico,Vance Jackson,Jumper,30,24
+8:20,San José St,Brae Ivey,Missed Three Point Jumper,30,24
+8:18,New Mexico,New Mexico,Defensive Rebound,30,24
+8:04,New Mexico,Anthony Mathis,Missed Three Point Jumper,30,24
+7:59,San José St,Noah Baumann,Defensive Rebound,30,24
+7:50,San José St,Michael Steadman,Jumper,30,26
+7:24,New Mexico,Makuach Maluach,Missed Layup,30,26
+7:20,New Mexico,Makuach Maluach,Offensive Rebound,30,26
+7:19,New Mexico,Makuach Maluach,Turnover,30,26
+7:19,San José St,Brae Ivey,Steal,30,26
+7:14,San José St,Zach Chappell,Three Point Jumper,30,29
+7:04,New Mexico,Drue Drinnon,Foul,30,29
+7:04,New Mexico,Drue Drinnon,Turnover,30,29
+7:04,San José St,None,None,30,29
+6:55,San José St,Seneca Knight,Missed Jumper,30,29
+6:51,New Mexico,Vance Jackson,Defensive Rebound,30,29
+6:44,New Mexico,Anthony Mathis,Missed Jumper,30,29
+6:42,New Mexico,New Mexico,Offensive Rebound,30,29
+6:32,New Mexico,Corey Manigault,Turnover,30,29
+6:32,San José St,Zach Chappell,Steal,30,29
+6:24,San José St,Zach Chappell,Layup,30,31
+6:09,New Mexico,Corey Manigault,Jumper,32,31
+5:50,San José St,Michael Steadman,Turnover,32,31
+5:50,New Mexico,Anthony Mathis,Steal,32,31
+5:42,New Mexico,Vance Jackson,Missed Three Point Jumper,32,31
+5:39,New Mexico,Vladimir Pinchuk,Offensive Rebound,32,31
+5:31,New Mexico,Vladimir Pinchuk,Turnover,32,31
+5:31,San José St,Brae Ivey,Steal,32,31
+5:27,San José St,Noah Baumann,Three Point Jumper,32,34
+5:12,New Mexico,Vance Jackson,Missed Three Point Jumper,32,34
+5:11,San José St,San José State,Defensive Rebound,32,34
+5:11,New Mexico,Corey Manigault,Foul,32,34
+4:56,San José St,Seneca Knight,Turnover,32,34
+4:56,New Mexico,Keith McGee,Steal,32,34
+4:49,New Mexico,Keith McGee,Missed Layup,32,34
+4:45,New Mexico,Carlton Bragg,Offensive Rebound,32,34
+4:44,New Mexico,Carlton Bragg,Layup,34,34
+4:36,San José St,Noah Baumann,Three Point Jumper,34,37
+4:22,New Mexico,Corey Manigault,Jumper,36,37
+4:08,San José St,Brae Ivey,Turnover,36,37
+3:59,New Mexico,Keith McGee,Three Point Jumper,39,37
+3:44,San José St,Noah Baumann,Turnover,39,37
+3:44,New Mexico,Carlton Bragg,Steal,39,37
+3:38,New Mexico,Vance Jackson,Missed Three Point Jumper,39,37
+3:36,New Mexico,Makuach Maluach,Offensive Rebound,39,37
+3:36,San José St,Brian Rodriguez-Flores,Foul,39,37
+3:36,San José St,None,None,39,37
+3:36,New Mexico,Makuach Maluach,Missed Free Throw,39,37
+3:36,New Mexico,New Mexico,Offensive Rebound,39,37
+3:36,New Mexico,Makuach Maluach,Missed Free Throw,39,37
+3:34,San José St,Michael Steadman,Defensive Rebound,39,37
+3:13,San José St,Michael Steadman,Layup,39,39
+3:00,New Mexico,Carlton Bragg,Missed Layup,39,39
+2:57,New Mexico,Carlton Bragg,Offensive Rebound,39,39
+2:56,New Mexico,Carlton Bragg,Missed Layup,39,39
+2:54,San José St,Michael Steadman,Defensive Rebound,39,39
+2:48,San José St,Brian Rodriguez-Flores,Jumper,39,41
+2:34,New Mexico,Carlton Bragg,Layup,41,41
+2:20,San José St,Zach Chappell,Missed Layup,41,41
+2:16,New Mexico,Vance Jackson,Defensive Rebound,41,41
+2:11,New Mexico,Anthony Mathis,Missed Jumper,41,41
+2:09,New Mexico,Carlton Bragg,Offensive Rebound,41,41
+2:09,San José St,Michael Steadman,Foul,41,41
+2:09,New Mexico,Carlton Bragg,Missed Free Throw,41,41
+2:09,New Mexico,New Mexico,Offensive Rebound,41,41
+2:09,New Mexico,Carlton Bragg,Missed Free Throw,41,41
+2:07,New Mexico,Vance Jackson,Offensive Rebound,41,41
+2:05,New Mexico,Anthony Mathis,Three Point Jumper,44,41
+1:46,New Mexico,Anthony Mathis,Foul,44,41
+1:46,San José St,Zach Chappell,Free Throw,44,42
+1:46,San José St,Zach Chappell,Missed Free Throw,44,42
+1:44,New Mexico,Vance Jackson,Defensive Rebound,44,42
+1:39,New Mexico,Vance Jackson,Turnover,44,42
+1:39,San José St,Brae Ivey,Steal,44,42
+1:34,San José St,Brae Ivey,Missed Three Point Jumper,44,42
+1:33,San José St,San José State,Offensive Rebound,44,42
+1:22,San José St,Michael Steadman,Jumper,44,44
+1:11,San José St,Brae Ivey,Foul,44,44
+0:59,New Mexico,Corey Manigault,Layup,46,44
+0:46,San José St,Noah Baumann,Three Point Jumper,46,47
+0:33,New Mexico,Corey Manigault,Foul,46,47
+0:33,New Mexico,Corey Manigault,Turnover,46,47
+0:09,San José St,Zach Chappell,Missed Jumper,46,47
+0:09,New Mexico,Anthony Mathis,Block,46,47
+0:08,New Mexico,Carlton Bragg,Defensive Rebound,46,47
+0:02,New Mexico,Keith McGee,Missed Three Point Jumper,46,47
+0:02,San José St,San José State,Defensive Rebound,46,47
+0:00,San José St,None,None,46,47
+19:31,San José St,Michael Steadman,Missed Jumper,46,47
+19:29,New Mexico,Corey Manigault,Defensive Rebound,46,47
+19:22,New Mexico,Keith McGee,Missed Three Point Jumper,46,47
+19:19,New Mexico,Corey Manigault,Offensive Rebound,46,47
+19:18,New Mexico,Anthony Mathis,Missed Three Point Jumper,46,47
+19:15,San José St,Michael Steadman,Defensive Rebound,46,47
+19:03,San José St,Michael Steadman,Missed Jumper,46,47
+19:03,New Mexico,Carlton Bragg,Block,46,47
+18:59,New Mexico,New Mexico,Defensive Rebound,46,47
+18:28,New Mexico,Corey Manigault,Missed Jumper,46,47
+18:25,San José St,Seneca Knight,Defensive Rebound,46,47
+18:21,New Mexico,Carlton Bragg,Foul,46,47
+18:21,San José St,Michael Steadman,Free Throw,46,48
+18:21,San José St,Michael Steadman,Missed Free Throw,46,48
+18:18,San José St,Michael Steadman,Offensive Rebound,46,48
+18:13,San José St,Ashtin Chastain,Jumper,46,50
+18:02,New Mexico,Carlton Bragg,Missed Layup,46,50
+18:00,San José St,Michael Steadman,Defensive Rebound,46,50
+17:53,San José St,Seneca Knight,Three Point Jumper,46,53
+17:31,New Mexico,Keith McGee,Missed Jumper,46,53
+17:30,New Mexico,New Mexico,Offensive Rebound,46,53
+17:30,San José St,San José State,Foul,46,53
+17:30,New Mexico,Anthony Mathis,Free Throw,47,53
+17:30,New Mexico,Anthony Mathis,Free Throw,48,53
+17:27,New Mexico,Makuach Maluach,Layup,50,53
+17:14,New Mexico,Carlton Bragg,Foul,50,53
+17:06,San José St,Michael Steadman,Missed Jumper,50,53
+17:03,San José St,Michael Steadman,Offensive Rebound,50,53
+17:03,San José St,Michael Steadman,Jumper,50,55
+16:45,New Mexico,Anthony Mathis,Missed Three Point Jumper,50,55
+16:41,New Mexico,Vladimir Pinchuk,Offensive Rebound,50,55
+16:40,San José St,Michael Steadman,Foul,50,55
+16:40,New Mexico,Vance Jackson,Free Throw,51,55
+16:40,New Mexico,Vance Jackson,Free Throw,52,55
+16:28,San José St,Michael Steadman,Missed Jumper,52,55
+16:28,New Mexico,Vladimir Pinchuk,Block,52,55
+16:24,New Mexico,Vance Jackson,Defensive Rebound,52,55
+16:18,New Mexico,Vance Jackson,Missed Three Point Jumper,52,55
+16:13,San José St,Ashtin Chastain,Defensive Rebound,52,55
+16:08,San José St,Noah Baumann,Missed Three Point Jumper,52,55
+16:05,San José St,Ashtin Chastain,Offensive Rebound,52,55
+16:01,New Mexico,Vladimir Pinchuk,Foul,52,55
+16:01,San José St,Ashtin Chastain,Free Throw,52,56
+16:01,San José St,Ashtin Chastain,Free Throw,52,57
+15:43,New Mexico,Vance Jackson,Missed Jumper,52,57
+15:41,San José St,Zach Chappell,Defensive Rebound,52,57
+15:34,San José St,Noah Baumann,Three Point Jumper,52,60
+15:13,New Mexico,Anthony Mathis,Missed Three Point Jumper,52,60
+15:10,San José St,Brae Ivey,Defensive Rebound,52,60
+14:48,San José St,Brae Ivey,Missed Jumper,52,60
+14:46,New Mexico,Vance Jackson,Defensive Rebound,52,60
+14:38,New Mexico,Vance Jackson,Turnover,52,60
+14:38,San José St,Brae Ivey,Steal,52,60
+14:33,San José St,Zach Chappell,Layup,52,62
+14:32,New Mexico,None,None,52,62
+14:32,San José St,None,None,52,62
+14:16,New Mexico,Makuach Maluach,Turnover,52,62
+14:16,San José St,Christian Anigwe,Steal,52,62
+14:09,San José St,Noah Baumann,Three Point Jumper,52,65
+13:50,New Mexico,Keith McGee,Missed Three Point Jumper,52,65
+13:47,San José St,Michael Steadman,Defensive Rebound,52,65
+13:44,San José St,Noah Baumann,Turnover,52,65
+13:44,New Mexico,Drue Drinnon,Steal,52,65
+13:40,San José St,Noah Baumann,Foul,52,65
+13:40,San José St,None,None,52,65
+13:40,New Mexico,Drue Drinnon,Missed Free Throw,52,65
+13:40,New Mexico,New Mexico,Offensive Rebound,52,65
+13:40,New Mexico,Drue Drinnon,Missed Free Throw,52,65
+13:38,San José St,San José State,Defensive Rebound,52,65
+13:22,San José St,Brae Ivey,Turnover,52,65
+13:22,New Mexico,Anthony Mathis,Steal,52,65
+13:21,San José St,Brae Ivey,Foul,52,65
+13:12,New Mexico,Carlton Bragg,Layup,54,65
+12:55,San José St,Christian Anigwe,Missed Layup,54,65
+12:54,New Mexico,Carlton Bragg,Defensive Rebound,54,65
+12:54,New Mexico,Carlton Bragg,Turnover,54,65
+12:46,San José St,Michael Steadman,Missed Layup,54,65
+12:44,San José St,Christian Anigwe,Offensive Rebound,54,65
+12:43,San José St,Christian Anigwe,Missed Layup,54,65
+12:41,New Mexico,Carlton Bragg,Defensive Rebound,54,65
+12:35,New Mexico,Keith McGee,Layup,56,65
+12:24,New Mexico,Corey Manigault,Foul,56,65
+12:24,San José St,Christian Anigwe,Missed Free Throw,56,65
+12:24,San José St,San José State,Offensive Rebound,56,65
+12:24,San José St,Christian Anigwe,Free Throw,56,66
+12:10,New Mexico,Makuach Maluach,Missed Three Point Jumper,56,66
+12:08,New Mexico,Makuach Maluach,Offensive Rebound,56,66
+12:07,New Mexico,Makuach Maluach,Layup,58,66
+11:41,San José St,Zach Chappell,Layup,58,68
+11:30,New Mexico,Keith McGee,Missed Layup,58,68
+11:28,San José St,Ashtin Chastain,Defensive Rebound,58,68
+11:22,San José St,Seneca Knight,Missed Three Point Jumper,58,68
+11:19,New Mexico,Keith McGee,Defensive Rebound,58,68
+11:18,New Mexico,Anthony Mathis,Missed Three Point Jumper,58,68
+11:14,New Mexico,Keith McGee,Offensive Rebound,58,68
+11:10,San José St,Zach Chappell,Foul,58,68
+11:10,San José St,None,None,58,68
+11:09,New Mexico,Keith McGee,Turnover,58,68
+11:09,San José St,Seneca Knight,Steal,58,68
+11:09,San José St,Seneca Knight,Turnover,58,68
+11:07,New Mexico,Makuach Maluach,Missed Layup,58,68
+11:05,New Mexico,Carlton Bragg,Offensive Rebound,58,68
+11:04,New Mexico,Carlton Bragg,Dunk,60,68
+10:29,San José St,Michael Steadman,Missed Jumper,60,68
+10:26,New Mexico,Makuach Maluach,Defensive Rebound,60,68
+10:22,New Mexico,Anthony Mathis,Missed Three Point Jumper,60,68
+10:19,New Mexico,Carlton Bragg,Offensive Rebound,60,68
+10:18,New Mexico,Carlton Bragg,Layup,62,68
+10:06,San José St,Seneca Knight,Missed Jumper,62,68
+10:03,New Mexico,Makuach Maluach,Defensive Rebound,62,68
+9:59,New Mexico,Anthony Mathis,Missed Three Point Jumper,62,68
+9:55,New Mexico,New Mexico,Offensive Rebound,62,68
+9:45,New Mexico,Makuach Maluach,Turnover,62,68
+9:32,San José St,Zach Chappell,Turnover,62,68
+9:20,New Mexico,Corey Manigault,Missed Layup,62,68
+9:20,San José St,Michael Steadman,Block,62,68
+9:16,San José St,Michael Steadman,Defensive Rebound,62,68
+8:58,San José St,Michael Steadman,Jumper,62,70
+8:40,New Mexico,Vance Jackson,Missed Three Point Jumper,62,70
+8:38,New Mexico,Corey Manigault,Offensive Rebound,62,70
+8:38,New Mexico,Corey Manigault,Layup,64,70
+8:38,San José St,Michael Steadman,Foul,64,70
+8:38,New Mexico,Corey Manigault,Free Throw,65,70
+8:14,San José St,Noah Baumann,Three Point Jumper,65,73
+8:00,New Mexico,Vance Jackson,Missed Jumper,65,73
+7:58,New Mexico,Carlton Bragg,Offensive Rebound,65,73
+7:57,New Mexico,Carlton Bragg,Missed Layup,65,73
+7:55,San José St,Ashtin Chastain,Defensive Rebound,65,73
+7:35,San José St,Noah Baumann,Three Point Jumper,65,76
+7:17,New Mexico,Carlton Bragg,Turnover,65,76
+7:17,San José St,Brae Ivey,Steal,65,76
+7:09,New Mexico,Keith McGee,Foul,65,76
+7:09,San José St,None,None,65,76
+6:35,San José St,Michael Steadman,Missed Jumper,65,76
+6:32,New Mexico,Tavian Percy,Defensive Rebound,65,76
+6:25,New Mexico,Keith McGee,Missed Three Point Jumper,65,76
+6:24,New Mexico,New Mexico,Offensive Rebound,65,76
+6:24,San José St,Michael Steadman,Foul,65,76
+6:24,New Mexico,Carlton Bragg,Missed Free Throw,65,76
+6:22,San José St,Brae Ivey,Defensive Rebound,65,76
+5:50,San José St,Seneca Knight,Missed Three Point Jumper,65,76
+5:45,San José St,Christian Anigwe,Offensive Rebound,65,76
+5:44,San José St,Christian Anigwe,Turnover,65,76
+5:31,San José St,Ashtin Chastain,Foul,65,76
+5:31,New Mexico,Corey Manigault,Missed Free Throw,65,76
+5:30,San José St,Noah Baumann,Defensive Rebound,65,76
+5:05,San José St,Seneca Knight,Missed Three Point Jumper,65,76
+5:02,New Mexico,Corey Manigault,Defensive Rebound,65,76
+4:48,New Mexico,Corey Manigault,Missed Layup,65,76
+4:45,San José St,Seneca Knight,Defensive Rebound,65,76
+4:40,San José St,Seneca Knight,Missed Layup,65,76
+4:37,New Mexico,Corey Manigault,Defensive Rebound,65,76
+4:34,San José St,Brae Ivey,Foul,65,76
+4:34,New Mexico,Carlton Bragg,Free Throw,66,76
+4:34,New Mexico,Carlton Bragg,Free Throw,67,76
+4:19,San José St,Ashtin Chastain,Missed Jumper,67,76
+4:17,New Mexico,New Mexico,Defensive Rebound,67,76
+4:02,New Mexico,Corey Manigault,Missed Layup,67,76
+4:01,San José St,San José State,Defensive Rebound,67,76
+4:01,New Mexico,Carlton Bragg,Foul,67,76
+3:43,San José St,Zach Chappell,Missed Layup,67,76
+3:40,San José St,Michael Steadman,Offensive Rebound,67,76
+3:39,San José St,Michael Steadman,Missed Layup,67,76
+3:37,New Mexico,Corey Manigault,Defensive Rebound,67,76
+3:21,New Mexico,Corey Manigault,Layup,69,76
+3:07,San José St,Noah Baumann,Missed Three Point Jumper,69,76
+3:07,New Mexico,Carlton Bragg,Block,69,76
+3:02,New Mexico,Corey Manigault,Defensive Rebound,69,76
+3:01,New Mexico,Corey Manigault,Turnover,69,76
+3:01,San José St,Brae Ivey,Steal,69,76
+3:01,New Mexico,Corey Manigault,Foul,69,76
+3:01,San José St,None,None,69,76
+3:01,San José St,Michael Steadman,Missed Free Throw,69,76
+3:01,San José St,San José State,Offensive Rebound,69,76
+3:01,San José St,Michael Steadman,Missed Free Throw,69,76
+2:59,New Mexico,Makuach Maluach,Defensive Rebound,69,76
+2:50,New Mexico,Makuach Maluach,Missed Three Point Jumper,69,76
+2:47,San José St,Noah Baumann,Defensive Rebound,69,76
+2:31,San José St,Michael Steadman,Missed Jumper,69,76
+2:27,New Mexico,Carlton Bragg,Defensive Rebound,69,76
+2:15,New Mexico,Keith McGee,Missed Three Point Jumper,69,76
+2:12,San José St,Noah Baumann,Defensive Rebound,69,76
+2:02,San José St,Brae Ivey,Turnover,69,76
+1:46,New Mexico,Makuach Maluach,Missed Jumper,69,76
+1:45,San José St,San José State,Defensive Rebound,69,76
+1:22,San José St,Brae Ivey,Layup,69,78
+1:14,New Mexico,Keith McGee,Layup,71,78
+1:12,New Mexico,None,None,71,78
+1:08,New Mexico,Vance Jackson,Foul,71,78
+1:08,San José St,Zach Chappell,Free Throw,71,79
+1:08,San José St,Zach Chappell,Free Throw,71,80
+1:03,New Mexico,Anthony Mathis,Missed Three Point Jumper,71,80
+0:58,New Mexico,Keith McGee,Offensive Rebound,71,80
+0:55,New Mexico,Keith McGee,Layup,73,80
+0:50,New Mexico,Anthony Mathis,Foul,73,80
+0:50,San José St,Zach Chappell,Free Throw,73,81
+0:50,San José St,Zach Chappell,Free Throw,73,82
+0:47,New Mexico,Keith McGee,Three Point Jumper,76,82
+0:47,New Mexico,None,None,76,82
+0:45,New Mexico,Keith McGee,Foul,76,82
+0:45,San José St,Brae Ivey,Free Throw,76,83
+0:45,San José St,Brae Ivey,Free Throw,76,84
+0:41,New Mexico,Anthony Mathis,Missed Three Point Jumper,76,84
+0:37,New Mexico,Carlton Bragg,Offensive Rebound,76,84
+0:35,New Mexico,Keith McGee,Missed Three Point Jumper,76,84
+0:31,New Mexico,Carlton Bragg,Offensive Rebound,76,84
+0:29,New Mexico,Keith McGee,Three Point Jumper,79,84
+0:23,New Mexico,Vance Jackson,Foul,79,84
+0:23,San José St,Noah Baumann,Free Throw,79,85
+0:23,San José St,Noah Baumann,Free Throw,79,86
+0:17,New Mexico,Keith McGee,Turnover,79,86
+0:17,San José St,Zach Chappell,Steal,79,86
+0:12,San José St,Christian Anigwe,Dunk,79,88
+0:06,San José St,Brae Ivey,Foul,79,88
+0:06,New Mexico,Keith McGee,Missed Free Throw,79,88
+0:06,New Mexico,New Mexico,Offensive Rebound,79,88
+0:06,New Mexico,Keith McGee,Missed Free Throw,79,88
+0:06,San José St,Michael Steadman,Defensive Rebound,79,88
+0:06,New Mexico,Carlton Bragg,Foul,79,88
+0:06,San José St,Christian Anigwe,Free Throw,79,89
+0:06,San José St,Christian Anigwe,Missed Free Throw,79,89
+0:04,New Mexico,Vladimir Pinchuk,Defensive Rebound,79,89
+0:02,New Mexico,Makuach Maluach,Three Point Jumper,82,89
+0:00,San José St,None,None,82,89
+0:00,San José St,None,None,82,89

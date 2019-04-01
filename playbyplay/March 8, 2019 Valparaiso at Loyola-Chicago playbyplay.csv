@@ -1,0 +1,289 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:48,Loyola-Chicago,Cameron Krutwig,Turnover,0,0
+19:24,Valparaiso,Deion Lavender,Missed Jumper,0,0
+19:24,Loyola-Chicago,Lucas Williamson,Defensive Rebound,0,0
+19:09,Loyola-Chicago,Marques Townes,Jumper,0,2
+18:38,Valparaiso,Javon Freeman,Missed Layup,0,2
+18:38,Loyola-Chicago,Clayton Custer,Defensive Rebound,0,2
+18:17,Loyola-Chicago,Clayton Custer,Turnover,0,2
+18:17,Valparaiso,John Kiser,Steal,0,2
+18:10,Valparaiso,Deion Lavender,Turnover,0,2
+18:10,Loyola-Chicago,Clayton Custer,Steal,0,2
+17:52,Loyola-Chicago,Clayton Custer,Layup,0,4
+17:33,Valparaiso,John Kiser,Missed Jumper,0,4
+17:33,Loyola-Chicago,Marques Townes,Defensive Rebound,0,4
+17:26,Loyola-Chicago,Lucas Williamson,Three Point Jumper,0,7
+17:25,Valparaiso,None,None,0,7
+17:06,Valparaiso,Markus Golder,Missed Jumper,0,7
+17:06,Loyola-Chicago,Cameron Krutwig,Defensive Rebound,0,7
+16:57,Loyola-Chicago,Clayton Custer,Missed Three Point Jumper,0,7
+16:57,Valparaiso,Markus Golder,Defensive Rebound,0,7
+16:47,Valparaiso,Bakari Evelyn,Missed Jumper,0,7
+16:47,Loyola-Chicago,Cameron Krutwig,Block,0,7
+16:45,Valparaiso,Valparaiso,Offensive Rebound,0,7
+16:34,Valparaiso,Markus Golder,Missed Jumper,0,7
+16:34,Loyola-Chicago,Marques Townes,Defensive Rebound,0,7
+16:24,Loyola-Chicago,Marques Townes,Turnover,0,7
+16:22,Valparaiso,Markus Golder,Steal,0,7
+16:12,Valparaiso,Jaume Sorolla,Turnover,0,7
+15:55,Valparaiso,Jaume Sorolla,Foul,0,7
+15:55,Loyola-Chicago,None,None,0,7
+15:46,Loyola-Chicago,Cameron Krutwig,Layup,0,9
+15:26,Valparaiso,Derrik Smits,Jumper,2,9
+15:07,Valparaiso,Derrik Smits,Foul,2,9
+14:59,Loyola-Chicago,Marques Townes,Missed Layup,2,9
+14:59,Valparaiso,Derrik Smits,Block,2,9
+14:58,Valparaiso,Markus Golder,Defensive Rebound,2,9
+14:54,Valparaiso,Markus Golder,Missed Three Point Jumper,2,9
+14:54,Loyola-Chicago,Marques Townes,Defensive Rebound,2,9
+14:30,Valparaiso,Derrik Smits,Foul,2,9
+14:30,Loyola-Chicago,Franklin Agunanne,Free Throw,2,10
+14:30,Loyola-Chicago,Franklin Agunanne,Free Throw,2,11
+14:16,Valparaiso,Javon Freeman,Jumper,4,11
+13:52,Loyola-Chicago,Franklin Agunanne,Jumper,4,13
+13:35,Valparaiso,Jaume Sorolla,Missed Jumper,4,13
+13:35,Valparaiso,Jaume Sorolla,Offensive Rebound,4,13
+13:32,Valparaiso,Jaume Sorolla,Turnover,4,13
+13:31,Loyola-Chicago,Bruno Skokna,Steal,4,13
+13:21,Loyola-Chicago,Lucas Williamson,Layup,4,15
+13:06,Valparaiso,Javon Freeman,Foul,4,15
+13:06,Valparaiso,Javon Freeman,Turnover,4,15
+12:53,Loyola-Chicago,Marques Townes,Missed Layup,4,15
+12:53,Valparaiso,Jaume Sorolla,Block,4,15
+12:53,Loyola-Chicago,Loyola-Chicago,Offensive Rebound,4,15
+12:44,Valparaiso,Mileek McMillan,Foul,4,15
+12:35,Loyola-Chicago,Cooper Kaifes,Three Point Jumper,4,18
+12:18,Loyola-Chicago,Marques Townes,Foul,4,18
+12:04,Valparaiso,Javon Freeman,Three Point Jumper,7,18
+11:36,Loyola-Chicago,Marques Townes,Layup,7,20
+11:10,Valparaiso,Javon Freeman,Missed Three Point Jumper,7,20
+11:10,Loyola-Chicago,Christian Negron,Defensive Rebound,7,20
+10:58,Valparaiso,Mileek McMillan,Foul,7,20
+10:58,Loyola-Chicago,None,None,7,20
+10:35,Loyola-Chicago,Loyola-Chicago ,Turnover,7,20
+10:21,Valparaiso,Bakari Evelyn,Missed Three Point Jumper,7,20
+10:21,Valparaiso,Valparaiso,Offensive Rebound,7,20
+10:16,Loyola-Chicago,Clayton Custer,Foul,7,20
+9:59,Valparaiso,Bakari Evelyn,Jumper,9,20
+9:32,Loyola-Chicago,Cameron Krutwig,Missed Layup,9,20
+9:32,Valparaiso,John Kiser,Defensive Rebound,9,20
+9:23,Valparaiso,Daniel Sackey,Missed Layup,9,20
+9:23,Valparaiso,Jaume Sorolla,Offensive Rebound,9,20
+9:21,Valparaiso,None,None,11,20
+9:03,Loyola-Chicago,Cameron Krutwig,Layup,11,22
+8:49,Valparaiso,Jaume Sorolla,Missed Jumper,11,22
+8:49,Valparaiso,John Kiser,Offensive Rebound,11,22
+8:38,Valparaiso,Daniel Sackey,Missed Layup,11,22
+8:38,Loyola-Chicago,Marques Townes,Defensive Rebound,11,22
+8:22,Loyola-Chicago,Cameron Krutwig,Jumper,11,24
+7:59,Loyola-Chicago,Cooper Kaifes,Foul,11,24
+7:59,Loyola-Chicago,None,None,11,24
+7:43,Valparaiso,Bakari Evelyn,Missed Three Point Jumper,11,24
+7:43,Loyola-Chicago,Marques Townes,Defensive Rebound,11,24
+7:14,Loyola-Chicago,Marques Townes,Free Throw,11,25
+7:14,Valparaiso,Mileek McMillan,Foul,11,24
+7:14,Loyola-Chicago,Marques Townes,Free Throw,11,26
+7:03,Valparaiso,Deion Lavender,Jumper,13,26
+6:47,Loyola-Chicago,Clayton Custer,Missed Three Point Jumper,13,26
+6:47,Valparaiso,Bakari Evelyn,Defensive Rebound,13,26
+6:29,Valparaiso,Bakari Evelyn,Missed Jumper,13,26
+6:29,Valparaiso,Derrik Smits,Offensive Rebound,13,26
+6:18,Loyola-Chicago,Marques Townes,Foul,13,26
+5:56,Valparaiso,Derrik Smits,Missed Jumper,13,26
+5:56,Loyola-Chicago,Cameron Krutwig,Defensive Rebound,13,26
+5:44,Loyola-Chicago,Cameron Krutwig,Layup,13,28
+5:19,Valparaiso,Javon Freeman,Missed Jumper,13,28
+5:19,Loyola-Chicago,Aher Uguak,Defensive Rebound,13,28
+4:58,Loyola-Chicago,Cameron Krutwig,Missed Jumper,13,28
+4:58,Valparaiso,Markus Golder,Defensive Rebound,13,28
+4:35,Valparaiso,Derrik Smits,Missed Jumper,13,28
+4:35,Loyola-Chicago,Lucas Williamson,Defensive Rebound,13,28
+4:06,Loyola-Chicago,Cameron Krutwig,Missed Jumper,13,28
+4:06,Valparaiso,Markus Golder,Defensive Rebound,13,28
+3:54,Loyola-Chicago,Bruno Skokna,Foul,13,28
+3:54,Loyola-Chicago,None,None,13,28
+3:44,Valparaiso,Deion Lavender,Missed Jumper,13,28
+3:44,Loyola-Chicago,Cameron Krutwig,Defensive Rebound,13,28
+3:22,Loyola-Chicago,Cameron Krutwig,Missed Jumper,13,28
+3:22,Loyola-Chicago,Aher Uguak,Offensive Rebound,13,28
+3:21,Loyola-Chicago,Aher Uguak,Layup,13,30
+3:03,Valparaiso,Bakari Evelyn,Missed Jumper,13,30
+3:03,Loyola-Chicago,Cameron Krutwig,Defensive Rebound,13,30
+2:55,Loyola-Chicago,Bruno Skokna,Three Point Jumper,13,33
+2:49,Valparaiso,None,None,13,33
+2:33,Valparaiso,Daniel Sackey,Missed Three Point Jumper,13,33
+2:33,Loyola-Chicago,Aher Uguak,Defensive Rebound,13,33
+2:18,Loyola-Chicago,Aher Uguak,Layup,13,35
+2:18,Valparaiso,Deion Lavender,Foul,13,35
+2:18,Loyola-Chicago,Aher Uguak,Missed Free Throw,13,35
+2:18,Valparaiso,Derrik Smits,Defensive Rebound,13,35
+1:52,Loyola-Chicago,Aher Uguak,Foul,13,35
+1:48,Valparaiso,Javon Freeman,Missed Layup,13,35
+1:48,Valparaiso,Derrik Smits,Offensive Rebound,13,35
+1:46,Valparaiso,Derrik Smits,Layup,15,35
+1:46,Loyola-Chicago,Franklin Agunanne,Foul,15,35
+1:46,Valparaiso,Derrik Smits,Free Throw,16,35
+1:26,Loyola-Chicago,Cameron Krutwig,Layup,16,37
+1:08,Valparaiso,John Kiser,Missed Three Point Jumper,16,37
+1:08,Loyola-Chicago,Cooper Kaifes,Defensive Rebound,16,37
+0:53,Loyola-Chicago,Clayton Custer,Three Point Jumper,16,40
+0:26,Valparaiso,Javon Freeman,Layup,18,40
+0:24,Loyola-Chicago,None,None,18,40
+0:04,Loyola-Chicago,Cooper Kaifes,Missed Three Point Jumper,18,40
+0:04,Valparaiso,None,Team Rebound,18,40
+0:01,Loyola-Chicago,Aher Uguak,Foul,18,40
+0:01,Valparaiso,Javon Freeman,Missed Free Throw,18,40
+0:01,Loyola-Chicago,Cooper Kaifes,Defensive Rebound,18,40
+0:00,Loyola-Chicago,None,None,18,40
+19:45,Loyola-Chicago,Lucas Williamson,Missed Three Point Jumper,18,40
+19:45,Valparaiso,Deion Lavender,Defensive Rebound,18,40
+19:27,Valparaiso,John Kiser,Missed Jumper,18,40
+19:27,Loyola-Chicago,Loyola-Chicago,Defensive Rebound,18,40
+19:05,Loyola-Chicago,Marques Townes,Missed Three Point Jumper,18,40
+19:05,Valparaiso,Javon Freeman,Defensive Rebound,18,40
+18:55,Loyola-Chicago,Lucas Williamson,Foul,18,40
+18:55,Valparaiso,Markus Golder,Free Throw,19,40
+18:55,Valparaiso,Markus Golder,Free Throw,20,40
+18:38,Valparaiso,John Kiser,Foul,20,40
+18:38,Loyola-Chicago,Cameron Krutwig,Missed Free Throw,20,40
+18:38,Loyola-Chicago,None,Team Rebound,20,40
+18:38,Loyola-Chicago,Cameron Krutwig,Free Throw,20,41
+18:19,Valparaiso,Jaume Sorolla,Jumper,22,41
+18:03,Loyola-Chicago,Clayton Custer,Missed Three Point Jumper,22,41
+18:03,Valparaiso,Deion Lavender,Defensive Rebound,22,41
+17:55,Valparaiso,Markus Golder,Missed Three Point Jumper,22,41
+17:55,Loyola-Chicago,Loyola-Chicago,Defensive Rebound,22,41
+17:41,Valparaiso,John Kiser,Foul,22,41
+17:29,Loyola-Chicago,Cameron Krutwig,Layup,22,43
+17:09,Valparaiso,Javon Freeman,Turnover,22,43
+17:08,Loyola-Chicago,Lucas Williamson,Steal,22,43
+17:01,Loyola-Chicago,Lucas Williamson,Turnover,22,43
+17:00,Valparaiso,John Kiser,Steal,22,43
+16:48,Valparaiso,John Kiser,Missed Layup,22,43
+16:48,Valparaiso,Jaume Sorolla,Offensive Rebound,22,43
+16:45,Valparaiso,Jaume Sorolla,Layup,24,43
+16:24,Loyola-Chicago,Cameron Krutwig,Missed Layup,24,43
+16:24,Valparaiso,Jaume Sorolla,Block,24,43
+16:22,Valparaiso,Javon Freeman,Defensive Rebound,24,43
+16:09,Valparaiso,Markus Golder,Missed Jumper,24,43
+16:09,Loyola-Chicago,Cameron Krutwig,Defensive Rebound,24,43
+15:49,Loyola-Chicago,Marques Townes,Missed Layup,24,43
+15:49,Valparaiso,Deion Lavender,Defensive Rebound,24,43
+15:42,Loyola-Chicago,Aher Uguak,Foul,24,43
+15:42,Loyola-Chicago,None,None,24,43
+15:42,Valparaiso,Markus Golder,Free Throw,25,43
+15:42,Valparaiso,Markus Golder,Missed Free Throw,25,43
+15:42,Loyola-Chicago,Lucas Williamson,Defensive Rebound,25,43
+15:27,Loyola-Chicago,Marques Townes,Layup,25,45
+15:13,Valparaiso,Javon Freeman,Jumper,27,45
+14:46,Loyola-Chicago,Clayton Custer,Missed Layup,27,45
+14:46,Loyola-Chicago,Cameron Krutwig,Offensive Rebound,27,45
+14:42,Loyola-Chicago,Cooper Kaifes,Layup,27,47
+14:42,Valparaiso,Bakari Evelyn,Foul,27,47
+14:42,Loyola-Chicago,Cooper Kaifes,Free Throw,27,48
+14:24,Loyola-Chicago,Clayton Custer,Foul,27,48
+14:11,Valparaiso,Deion Lavender,Layup,29,48
+13:46,Loyola-Chicago,Marques Townes,Jumper,29,50
+13:30,Valparaiso,Derrik Smits,Turnover,29,50
+13:29,Loyola-Chicago,Clayton Custer,Steal,29,50
+13:07,Loyola-Chicago,Franklin Agunanne,Missed Jumper,29,50
+13:07,Valparaiso,Derrik Smits,Defensive Rebound,29,50
+12:54,Loyola-Chicago,Franklin Agunanne,Foul,29,50
+12:49,Valparaiso,Javon Freeman,Turnover,29,50
+12:29,Loyola-Chicago,Marques Townes,Jumper,29,52
+12:13,Valparaiso,Daniel Sackey,Missed Three Point Jumper,29,52
+12:13,Loyola-Chicago,Bruno Skokna,Defensive Rebound,29,52
+11:51,Loyola-Chicago,Lucas Williamson,Jumper,29,54
+11:34,Valparaiso,Javon Freeman,Missed Jumper,29,54
+11:34,Loyola-Chicago,Bruno Skokna,Defensive Rebound,29,54
+11:23,Loyola-Chicago,Bruno Skokna,Layup,29,56
+11:21,Valparaiso,None,None,29,56
+11:21,Loyola-Chicago,None,None,29,56
+11:09,Valparaiso,Bakari Evelyn,Jumper,31,56
+10:48,Valparaiso,Daniel Sackey,Foul,31,56
+10:48,Loyola-Chicago,None,None,31,56
+10:37,Loyola-Chicago,Marques Townes,Missed Three Point Jumper,31,56
+10:37,Valparaiso,Javon Freeman,Defensive Rebound,31,56
+10:19,Valparaiso,Daniel Sackey,Turnover,31,56
+9:56,Loyola-Chicago,Bruno Skokna,Turnover,31,56
+9:37,Valparaiso,Daniel Sackey,Layup,33,56
+9:37,Loyola-Chicago,Cooper Kaifes,Foul,33,56
+9:37,Valparaiso,Daniel Sackey,Free Throw,34,56
+9:13,Loyola-Chicago,Lucas Williamson,Turnover,34,56
+9:12,Valparaiso,Javon Freeman,Steal,34,56
+9:08,Valparaiso,Javon Freeman,Missed Layup,34,56
+9:08,Valparaiso,Mileek McMillan,Offensive Rebound,34,56
+9:06,Valparaiso,Mileek McMillan,Missed Layup,34,56
+9:06,Loyola-Chicago,Cameron Krutwig,Block,34,56
+9:05,Valparaiso,Valparaiso,Offensive Rebound,34,56
+8:50,Valparaiso,Javon Freeman,Foul,34,56
+8:50,Valparaiso,Javon Freeman,Turnover,34,56
+8:36,Loyola-Chicago,Cameron Krutwig,Missed Layup,34,56
+8:36,Valparaiso,Bakari Evelyn,Defensive Rebound,34,56
+8:29,Valparaiso,Bakari Evelyn,Layup,36,56
+8:06,Loyola-Chicago,Cameron Krutwig,Turnover,36,56
+7:50,Valparaiso,Daniel Sackey,Jumper,38,56
+7:40,Loyola-Chicago,None,None,38,56
+7:24,Loyola-Chicago,Cameron Krutwig,Layup,38,58
+7:24,Valparaiso,Jaume Sorolla,Foul,38,58
+7:24,Loyola-Chicago,Cameron Krutwig,Free Throw,38,59
+7:15,Valparaiso,Daniel Sackey,Missed Jumper,38,59
+7:15,Loyola-Chicago,Aher Uguak,Defensive Rebound,38,59
+7:05,Valparaiso,Jaume Sorolla,Foul,38,59
+7:05,Loyola-Chicago,Marques Townes,Free Throw,38,60
+7:05,Loyola-Chicago,Marques Townes,Missed Free Throw,38,60
+7:05,Loyola-Chicago,None,Team Rebound,38,60
+7:05,Valparaiso,Jaume Sorolla,Turnover,38,60
+6:47,Loyola-Chicago,Lucas Williamson,Three Point Jumper,38,63
+6:30,Valparaiso,Bakari Evelyn,Missed Jumper,38,63
+6:30,Loyola-Chicago,Marques Townes,Defensive Rebound,38,63
+6:17,Loyola-Chicago,Cameron Krutwig,Missed Layup,38,63
+6:17,Loyola-Chicago,Loyola-Chicago,Offensive Rebound,38,63
+5:51,Loyola-Chicago,Marques Townes,Missed Layup,38,63
+5:51,Loyola-Chicago,Marques Townes,Offensive Rebound,38,63
+5:49,Loyola-Chicago,Marques Townes,Missed Layup,38,63
+5:49,Valparaiso,Mileek McMillan,Block,38,63
+5:46,Valparaiso,Daniel Sackey,Defensive Rebound,38,63
+5:40,Valparaiso,Mileek McMillan,Three Point Jumper,41,63
+5:38,Valparaiso,None,None,41,63
+5:18,Loyola-Chicago,Marques Townes,Layup,41,65
+4:56,Loyola-Chicago,Christian Negron,Foul,41,65
+4:47,Valparaiso,Daniel Sackey,Three Point Jumper,44,65
+4:19,Loyola-Chicago,Marques Townes,Missed Layup,44,65
+4:19,Valparaiso,Mileek McMillan,Block,44,65
+4:16,Valparaiso,Mileek McMillan,Defensive Rebound,44,65
+4:11,Valparaiso,Daniel Sackey,Layup,46,65
+4:11,Loyola-Chicago,Aher Uguak,Foul,46,65
+4:11,Valparaiso,Daniel Sackey,Free Throw,47,65
+4:01,Loyola-Chicago,Marques Townes,Turnover,47,65
+3:54,Valparaiso,Daniel Sackey,Missed Three Point Jumper,47,65
+3:54,Loyola-Chicago,Loyola-Chicago,Defensive Rebound,47,65
+3:52,Loyola-Chicago,None,None,47,65
+3:24,Loyola-Chicago,Cameron Krutwig,Dunk,47,67
+3:23,Valparaiso,Mileek McMillan,Foul,47,67
+3:23,Loyola-Chicago,Cameron Krutwig,Missed Free Throw,47,67
+3:23,Valparaiso,John Kiser,Defensive Rebound,47,67
+3:09,Loyola-Chicago,Cameron Krutwig,Foul,47,67
+3:09,Valparaiso,Mileek McMillan,Free Throw,48,67
+3:09,Valparaiso,Mileek McMillan,Free Throw,49,67
+2:52,Loyola-Chicago,Cameron Krutwig,Turnover,49,67
+2:35,Valparaiso,Mileek McMillan,Missed Three Point Jumper,49,67
+2:35,Loyola-Chicago,Marques Townes,Defensive Rebound,49,67
+2:20,Valparaiso,Mileek McMillan,Foul,49,67
+2:20,Loyola-Chicago,Aher Uguak,Missed Free Throw,49,67
+2:20,Loyola-Chicago,Christian Negron,Offensive Rebound,49,67
+2:03,Loyola-Chicago,Bruno Skokna,Turnover,49,67
+1:55,Valparaiso,Jaume Sorolla,Three Point Jumper,52,67
+1:24,Loyola-Chicago,Bruno Skokna,Missed Jumper,52,67
+1:24,Loyola-Chicago,Bruno Skokna,Offensive Rebound,52,67
+0:57,Loyola-Chicago,Aher Uguak,Missed Jumper,52,67
+0:57,Valparaiso,Jaume Sorolla,Block,52,67
+0:56,Valparaiso,Javon Freeman,Defensive Rebound,52,67
+0:52,Valparaiso,Daniel Sackey,Missed Layup,52,67
+0:52,Valparaiso,Markus Golder,Offensive Rebound,52,67
+0:49,Valparaiso,Markus Golder,Dunk,54,67
+0:24,Loyola-Chicago,Cooper Kaifes,Missed Three Point Jumper,54,67
+0:24,Valparaiso,Markus Golder,Defensive Rebound,54,67
+0:15,Valparaiso,Daniel Sackey,Missed Three Point Jumper,54,67
+0:15,Loyola-Chicago,Isaiah Bujdoso,Defensive Rebound,54,67
+0:00,Loyola-Chicago,None,None,54,67

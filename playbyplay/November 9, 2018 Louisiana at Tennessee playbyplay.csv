@@ -1,0 +1,315 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Tennessee,None,None,0,0
+19:52,Tennessee,Admiral Schofield,Jumper,0,2
+19:38,Louisiana,JaKeenan Gant,Layup,2,2
+19:24,Tennessee,Jordan Bone,Missed Jumper,2,2
+19:24,Louisiana,Marcus Stroman,Defensive Rebound,2,2
+19:03,Louisiana,JaKeenan Gant,Missed Three Point Jumper,2,2
+19:03,Tennessee,Jordan Bowden,Defensive Rebound,2,2
+18:51,Tennessee,Jordan Bone,Missed Three Point Jumper,2,2
+18:51,Louisiana,JaKeenan Gant,Defensive Rebound,2,2
+18:42,Louisiana,Marcus Stroman,Layup,4,2
+18:29,Tennessee,Admiral Schofield,Jumper,4,4
+18:16,Louisiana,Marcus Stroman,Turnover,4,4
+18:07,Tennessee,Admiral Schofield,Turnover,4,4
+18:07,Louisiana,JaKeenan Gant,Steal,4,4
+17:51,Louisiana,JaKeenan Gant,Jumper,6,4
+17:27,Tennessee,Admiral Schofield,Missed Jumper,6,4
+17:27,Louisiana,Malik Marquetti,Defensive Rebound,6,4
+17:19,Louisiana,Malik Marquetti,Layup,8,4
+17:11,Tennessee,Jordan Bone,Jumper,8,6
+16:53,Louisiana,Jerekius Davis,Layup,10,6
+16:43,Tennessee,Jordan Bone,Jumper,10,8
+16:23,Louisiana,Marcus Stroman,Missed Three Point Jumper,10,8
+16:23,Louisiana,Malik Marquetti,Offensive Rebound,10,8
+16:16,Louisiana,Malik Marquetti,Missed Jumper,10,8
+16:16,Tennessee,Grant Williams,Defensive Rebound,10,8
+16:10,Tennessee,Grant Williams,Jumper,10,10
+15:44,Louisiana,Marcus Stroman,Missed Jumper,10,10
+15:44,Tennessee,Grant Williams,Defensive Rebound,10,10
+15:36,Tennessee,Jordan Bowden,Missed Jumper,10,10
+15:36,Louisiana,Jerekius Davis,Defensive Rebound,10,10
+15:14,Louisiana,Cedric Russell,Three Point Jumper,13,10
+14:48,Tennessee,Admiral Schofield,Missed Jumper,13,10
+14:48,Tennessee,Grant Williams,Offensive Rebound,13,10
+14:42,Tennessee,Jordan Bone,Three Point Jumper,13,13
+14:28,Louisiana,JaKeenan Gant,Missed Three Point Jumper,13,13
+14:28,Tennessee,Admiral Schofield,Defensive Rebound,13,13
+14:12,Tennessee,Admiral Schofield,Turnover,13,13
+14:12,Louisiana,JaKeenan Gant,Steal,13,13
+14:00,Tennessee,Admiral Schofield,Foul,13,13
+14:00,Tennessee,None,None,13,13
+13:43,Louisiana,Marcus Stroman,Missed Jumper,13,13
+13:43,Tennessee,Admiral Schofield,Defensive Rebound,13,13
+13:15,Tennessee,Grant Williams,Jumper,13,15
+12:56,Louisiana,JaKeenan Gant,Turnover,13,15
+12:56,Tennessee,Yves Pons,Steal,13,15
+12:51,Louisiana,JaKeenan Gant,Foul,13,15
+12:50,Tennessee,Grant Williams,Dunk,13,17
+12:50,Louisiana,Justin Miller,Foul,13,17
+12:50,Tennessee,Grant Williams,Free Throw,13,18
+12:43,Tennessee,Yves Pons,Foul,13,18
+12:33,Louisiana,JaKeenan Gant,Turnover,13,18
+12:33,Tennessee,Grant Williams,Steal,13,18
+12:26,Tennessee,Jordan Bone,Missed Jumper,13,18
+12:26,Tennessee,Tennessee,Offensive Rebound,13,18
+12:11,Louisiana,Marcus Stroman,Foul,13,18
+12:11,Tennessee,Grant Williams,Free Throw,13,19
+12:11,Tennessee,Grant Williams,Missed Free Throw,13,19
+12:11,Louisiana,Malik Marquetti,Defensive Rebound,13,19
+12:00,Louisiana,Trajan Wesley,Turnover,13,19
+12:00,Tennessee,None,None,13,19
+11:41,Tennessee,Admiral Schofield,Layup,13,21
+11:13,Louisiana,Justin Miller,Layup,15,21
+10:51,Tennessee,Jordan Bone,Three Point Jumper,15,24
+10:31,Louisiana,Jeremy Hayes,Missed Jumper,15,24
+10:31,Tennessee,Yves Pons,Defensive Rebound,15,24
+10:23,Tennessee,John Fulkerson,Layup,15,26
+10:13,Louisiana,Jeremy Hayes,Missed Three Point Jumper,15,26
+10:13,Tennessee,Jalen Johnson,Defensive Rebound,15,26
+9:55,Tennessee,Jordan Bone,Missed Three Point Jumper,15,26
+9:55,Louisiana,Malik Marquetti,Defensive Rebound,15,26
+9:44,Tennessee,Jalen Johnson,Foul,15,26
+9:36,Louisiana,JaKeenan Gant,Missed Layup,15,26
+9:36,Tennessee,Kyle Alexander,Block,15,26
+9:36,Louisiana,Louisiana,Offensive Rebound,15,26
+9:20,Louisiana,Justin Miller,Turnover,15,26
+9:02,Tennessee,Yves Pons,Jumper,15,28
+8:48,Louisiana,Marcus Stroman,Turnover,15,28
+8:48,Louisiana,None,None,15,28
+8:36,Tennessee,Grant Williams,Jumper,15,30
+8:19,Louisiana,JaKeenan Gant,Jumper,17,30
+8:06,Tennessee,Grant Williams,Three Point Jumper,17,33
+7:49,Louisiana,JaKeenan Gant,Missed Jumper,17,33
+7:49,Tennessee,Yves Pons,Defensive Rebound,17,33
+7:33,Tennessee,Grant Williams,Missed Dunk,17,33
+7:33,Louisiana,JaKeenan Gant,Defensive Rebound,17,33
+7:29,Louisiana,Marcus Stroman,Missed Layup,17,33
+7:29,Tennessee,Jordan Bowden,Defensive Rebound,17,33
+7:29,Tennessee,None,None,17,33
+7:14,Louisiana,Jerekius Davis,Foul,17,33
+7:14,Tennessee,Jalen Johnson,Layup,17,35
+7:03,Louisiana,Jeremy Hayes,Three Point Jumper,20,35
+6:40,Tennessee,Admiral Schofield,Missed Layup,20,35
+6:40,Louisiana,JaKeenan Gant,Block,20,35
+6:40,Tennessee,Jalen Johnson,Offensive Rebound,20,35
+6:31,Tennessee,Jordan Bone,Missed Jumper,20,35
+6:31,Louisiana,JaKeenan Gant,Defensive Rebound,20,35
+6:21,Louisiana,Marcus Stroman,Turnover,20,35
+6:05,Tennessee,Yves Pons,Missed Three Point Jumper,20,35
+6:05,Louisiana,Malik Marquetti,Defensive Rebound,20,35
+5:57,Louisiana,Malik Marquetti,Turnover,20,35
+5:48,Tennessee,Admiral Schofield,Missed Three Point Jumper,20,35
+5:48,Tennessee,Kyle Alexander,Offensive Rebound,20,35
+5:37,Tennessee,Kyle Alexander,Jumper,20,37
+5:14,Louisiana,Malik Marquetti,Missed Jumper,20,37
+5:14,Tennessee,Yves Pons,Defensive Rebound,20,37
+5:08,Tennessee,Jordan Bowden,Turnover,20,37
+5:08,Louisiana,Marcus Stroman,Steal,20,37
+5:03,Louisiana,Marcus Stroman,Layup,22,37
+4:41,Tennessee,Jordan Bowden,Three Point Jumper,22,40
+4:38,Louisiana,Marcus Stroman,Foul,22,40
+4:38,Tennessee,Jordan Bowden,Free Throw,22,41
+4:18,Louisiana,Marcus Stroman,Missed Layup,22,41
+4:18,Louisiana,JaKeenan Gant,Offensive Rebound,22,41
+4:14,Louisiana,JaKeenan Gant,Jumper,24,41
+4:09,Tennessee,Admiral Schofield,Three Point Jumper,24,44
+3:58,Louisiana,JaKeenan Gant,Three Point Jumper,27,44
+3:47,Tennessee,None,None,27,44
+3:46,Tennessee,John Fulkerson,Layup,27,46
+3:26,Louisiana,Marcus Stroman,Missed Layup,27,46
+3:26,Tennessee,Yves Pons,Block,27,46
+3:26,Louisiana,Louisiana,Offensive Rebound,27,46
+3:21,Louisiana,Cedric Russell,Missed Three Point Jumper,27,46
+3:21,Tennessee,Yves Pons,Defensive Rebound,27,46
+3:14,Tennessee,Jordan Bone,Missed Layup,27,46
+3:14,Louisiana,Louisiana,Defensive Rebound,27,46
+2:52,Louisiana,Justin Miller,Turnover,27,46
+2:37,Tennessee,Grant Williams,Dunk,27,48
+2:22,Louisiana,Cedric Russell,Turnover,27,48
+2:22,Tennessee,Grant Williams,Steal,27,48
+2:19,Tennessee,Grant Williams,Turnover,27,48
+2:19,Louisiana,Malik Marquetti,Steal,27,48
+2:07,Tennessee,Grant Williams,Foul,27,48
+2:07,Louisiana,Justin Miller,Missed Free Throw,27,48
+2:07,Louisiana,None,Team Rebound,27,48
+2:07,Louisiana,Justin Miller,Missed Free Throw,27,48
+2:07,Tennessee,Yves Pons,Defensive Rebound,27,48
+2:00,Tennessee,Jordan Bone,Turnover,27,48
+1:43,Louisiana,Justin Miller,Layup,29,48
+1:37,Tennessee,None,None,29,48
+1:32,Louisiana,JaKeenan Gant,Foul,29,48
+1:28,Tennessee,Grant Williams,Missed Jumper,29,48
+1:28,Louisiana,P.J. Hardy,Defensive Rebound,29,48
+1:05,Louisiana,Trajan Wesley,Missed Three Point Jumper,29,48
+1:05,Louisiana,Louisiana,Offensive Rebound,29,48
+0:57,Louisiana,JaKeenan Gant,Missed Three Point Jumper,29,48
+0:57,Tennessee,Yves Pons,Defensive Rebound,29,48
+0:40,Tennessee,Jordan Bowden,Missed Three Point Jumper,29,48
+0:40,Louisiana,JaKeenan Gant,Defensive Rebound,29,48
+0:31,Tennessee,Yves Pons,Foul,29,48
+0:31,Louisiana,Trajan Wesley,Free Throw,30,48
+0:31,Louisiana,Trajan Wesley,Free Throw,31,48
+0:04,Tennessee,Jordan Bone,Missed Three Point Jumper,31,48
+0:04,Tennessee,Grant Williams,Offensive Rebound,31,48
+0:00,Tennessee,None,None,31,48
+20:00,Louisiana,None,None,31,48
+19:40,Louisiana,Malik Marquetti,Three Point Jumper,34,48
+19:17,Tennessee,Kyle Alexander,Missed Layup,34,48
+19:17,Tennessee,Kyle Alexander,Offensive Rebound,34,48
+19:17,Tennessee,None,None,34,50
+19:05,Louisiana,Malik Marquetti,Three Point Jumper,37,50
+18:44,Louisiana,JaKeenan Gant,Foul,37,50
+18:44,Tennessee,Kyle Alexander,Free Throw,37,51
+18:44,Tennessee,Kyle Alexander,Free Throw,37,52
+18:26,Louisiana,Jerekius Davis,Missed Three Point Jumper,37,52
+18:26,Tennessee,Admiral Schofield,Defensive Rebound,37,52
+18:07,Louisiana,Jerekius Davis,Foul,37,52
+18:01,Tennessee,Grant Williams,Jumper,37,54
+17:47,Louisiana,JaKeenan Gant,Dunk,39,54
+17:35,Tennessee,Admiral Schofield,Turnover,39,54
+17:35,Louisiana,JaKeenan Gant,Steal,39,54
+17:29,Louisiana,Malik Marquetti,Missed Three Point Jumper,39,54
+17:29,Louisiana,Marcus Stroman,Offensive Rebound,39,54
+17:13,Louisiana,JaKeenan Gant,Jumper,41,54
+16:55,Louisiana,Jerekius Davis,Foul,41,54
+16:39,Tennessee,Jordan Bone,Missed Three Point Jumper,41,54
+16:39,Tennessee,Yves Pons,Offensive Rebound,41,54
+16:39,Tennessee,None,None,41,56
+16:27,Tennessee,Yves Pons,Foul,41,56
+16:27,Louisiana,JaKeenan Gant,Free Throw,42,56
+16:27,Louisiana,JaKeenan Gant,Missed Free Throw,42,56
+16:27,Tennessee,Grant Williams,Defensive Rebound,42,56
+16:21,Tennessee,Grant Williams,Three Point Jumper,42,59
+15:57,Louisiana,Marcus Stroman,Three Point Jumper,45,59
+15:36,Tennessee,Grant Williams,Turnover,45,59
+15:36,Tennessee,Grant Williams,Foul,45,59
+15:36,Tennessee,None,None,45,59
+15:16,Louisiana,Malik Marquetti,Missed Layup,45,59
+15:16,Louisiana,Justin Miller,Offensive Rebound,45,59
+15:09,Louisiana,Malik Marquetti,Missed Jumper,45,59
+15:09,Tennessee,Tennessee,Defensive Rebound,45,59
+14:42,Tennessee,Admiral Schofield,Jumper,45,61
+14:23,Louisiana,Marcus Stroman,Layup,47,61
+14:23,Tennessee,Jordan Bowden,Foul,47,61
+14:23,Louisiana,Marcus Stroman,Missed Free Throw,47,61
+14:23,Tennessee,Admiral Schofield,Defensive Rebound,47,61
+14:16,Louisiana,Marcus Stroman,Foul,47,61
+14:07,Tennessee,Admiral Schofield,Missed Three Point Jumper,47,61
+14:07,Louisiana,Marcus Stroman,Defensive Rebound,47,61
+13:56,Louisiana,JaKeenan Gant,Missed Three Point Jumper,47,61
+13:56,Louisiana,Malik Marquetti,Offensive Rebound,47,61
+13:51,Louisiana,Malik Marquetti,Missed Layup,47,61
+13:51,Louisiana,Justin Miller,Offensive Rebound,47,61
+13:49,Tennessee,John Fulkerson,Foul,47,61
+13:49,Louisiana,Justin Miller,Missed Free Throw,47,61
+13:49,Louisiana,None,Team Rebound,47,61
+13:49,Louisiana,Justin Miller,Free Throw,48,61
+13:29,Tennessee,Admiral Schofield,Jumper,48,63
+13:07,Tennessee,Yves Pons,Foul,48,63
+13:05,Louisiana,JaKeenan Gant,Layup,50,63
+12:42,Tennessee,Grant Williams,Three Point Jumper,50,66
+12:19,Louisiana,P.J. Hardy,Missed Jumper,50,66
+12:19,Tennessee,Kyle Alexander,Defensive Rebound,50,66
+12:05,Tennessee,Jordan Bowden,Three Point Jumper,50,69
+11:50,Louisiana,Justin Miller,Layup,52,69
+11:34,Tennessee,None,None,52,69
+11:21,Tennessee,Kyle Alexander,Missed Jumper,52,69
+11:21,Tennessee,Kyle Alexander,Offensive Rebound,52,69
+11:03,Tennessee,Grant Williams,Layup,52,71
+10:41,Louisiana,JaKeenan Gant,Missed Jumper,52,71
+10:41,Tennessee,Admiral Schofield,Defensive Rebound,52,71
+10:25,Tennessee,Kyle Alexander,Jumper,52,73
+10:03,Louisiana,Malik Marquetti,Missed Three Point Jumper,52,73
+10:03,Louisiana,Justin Miller,Offensive Rebound,52,73
+9:57,Louisiana,Justin Miller,Missed Layup,52,73
+9:57,Tennessee,Grant Williams,Defensive Rebound,52,73
+9:52,Louisiana,JaKeenan Gant,Foul,52,73
+9:40,Tennessee,Admiral Schofield,Missed Jumper,52,73
+9:40,Louisiana,Marcus Stroman,Defensive Rebound,52,73
+9:31,Tennessee,Jordan Bone,Foul,52,73
+9:30,Louisiana,Cedric Russell,Three Point Jumper,55,73
+9:20,Tennessee,Jordan Bowden,Missed Three Point Jumper,55,73
+9:20,Tennessee,Derrick Walker,Offensive Rebound,55,73
+8:58,Tennessee,Jordan Bone,Missed Three Point Jumper,55,73
+8:58,Louisiana,Louisiana,Defensive Rebound,55,73
+8:37,Louisiana,Jeremy Hayes,Missed Layup,55,73
+8:37,Tennessee,Jordan Bone,Defensive Rebound,55,73
+8:30,Louisiana,Justin Miller,Foul,55,73
+8:28,Tennessee,Grant Williams,Jumper,55,75
+8:06,Louisiana,Justin Miller,Layup,57,75
+8:06,Tennessee,Jordan Bone,Foul,57,75
+8:06,Louisiana,Justin Miller,Free Throw,58,75
+7:51,Tennessee,Derrick Walker,Missed Jumper,58,75
+7:51,Louisiana,Malik Marquetti,Defensive Rebound,58,75
+7:43,Louisiana,Malik Marquetti,Missed Layup,58,75
+7:43,Tennessee,Grant Williams,Defensive Rebound,58,75
+7:39,Louisiana,Malik Marquetti,Foul,58,75
+7:39,Tennessee,None,None,58,75
+7:39,Tennessee,Grant Williams,Free Throw,58,76
+7:39,Tennessee,Grant Williams,Free Throw,58,77
+7:19,Louisiana,Cedric Russell,Missed Three Point Jumper,58,77
+7:19,Tennessee,Kyle Alexander,Block,58,77
+7:19,Louisiana,Louisiana,Offensive Rebound,58,77
+7:13,Louisiana,Jeremy Hayes,Missed Three Point Jumper,58,77
+7:13,Tennessee,John Fulkerson,Defensive Rebound,58,77
+7:00,Louisiana,None,None,58,77
+6:46,Tennessee,Grant Williams,Missed Three Point Jumper,58,77
+6:46,Louisiana,JaKeenan Gant,Defensive Rebound,58,77
+6:32,Louisiana,Malik Marquetti,Missed Three Point Jumper,58,77
+6:32,Tennessee,Admiral Schofield,Defensive Rebound,58,77
+6:15,Tennessee,Grant Williams,Turnover,58,77
+5:56,Louisiana,Jeremy Hayes,Missed Three Point Jumper,58,77
+5:56,Tennessee,Jordan Bone,Defensive Rebound,58,77
+5:51,Tennessee,Jordan Bone,Turnover,58,77
+5:51,Louisiana,Jeremy Hayes,Steal,58,77
+5:45,Louisiana,Jeremy Hayes,Layup,60,77
+5:21,Tennessee,Grant Williams,Missed Jumper,60,77
+5:21,Tennessee,John Fulkerson,Offensive Rebound,60,77
+5:14,Louisiana,JaKeenan Gant,Foul,60,77
+5:14,Tennessee,John Fulkerson,Free Throw,60,78
+5:14,Tennessee,John Fulkerson,Missed Free Throw,60,78
+5:14,Louisiana,Malik Marquetti,Defensive Rebound,60,78
+5:04,Louisiana,Jeremy Hayes,Turnover,60,78
+4:50,Tennessee,Admiral Schofield,Layup,60,80
+4:34,Louisiana,Justin Miller,Foul,60,80
+4:34,Louisiana,Justin Miller,Turnover,60,80
+4:34,Louisiana,None,None,60,80
+4:05,Tennessee,Jordan Bowden,Three Point Jumper,60,83
+3:53,Louisiana,Cedric Russell,Three Point Jumper,63,83
+3:37,Tennessee,Kyle Alexander,Jumper,63,85
+3:22,Louisiana,Justin Miller,Missed Jumper,63,85
+3:22,Tennessee,Grant Williams,Defensive Rebound,63,85
+3:18,Louisiana,Justin Miller,Foul,63,85
+3:18,Tennessee,None,None,63,85
+3:18,Tennessee,Grant Williams,Free Throw,63,86
+3:18,Tennessee,Grant Williams,Free Throw,63,87
+3:05,Tennessee,Grant Williams,Foul,63,87
+3:05,Louisiana,Jeremy Hayes,Missed Free Throw,63,87
+3:05,Louisiana,None,Team Rebound,63,87
+3:05,Louisiana,Jeremy Hayes,Missed Free Throw,63,87
+3:05,Tennessee,Grant Williams,Defensive Rebound,63,87
+3:03,Tennessee,None,None,63,87
+2:39,Tennessee,Admiral Schofield,Missed Three Point Jumper,63,87
+2:38,Tennessee,Grant Williams,Offensive Rebound,63,87
+2:12,Tennessee,Jordan Bone,Foul,63,87
+2:12,Tennessee,Jordan Bone,Turnover,63,87
+1:56,Louisiana,Justin Miller,Missed Layup,63,87
+1:56,Louisiana,Louisiana,Offensive Rebound,63,87
+1:50,Louisiana,Marcus Stroman,Missed Layup,63,87
+1:50,Tennessee,Kyle Alexander,Block,63,87
+1:50,Tennessee,Admiral Schofield,Defensive Rebound,63,87
+1:18,Tennessee,Admiral Schofield,Missed Layup,63,87
+1:18,Louisiana,Justin Miller,Defensive Rebound,63,87
+1:10,Louisiana,Cedric Russell,Missed Three Point Jumper,63,87
+1:10,Louisiana,Malik Marquetti,Offensive Rebound,63,87
+1:01,Louisiana,Malik Marquetti,Missed Three Point Jumper,63,87
+1:01,Tennessee,Kyle Alexander,Defensive Rebound,63,87
+0:35,Tennessee,Admiral Schofield,Turnover,63,87
+0:35,Louisiana,Marcus Stroman,Steal,63,87
+0:35,Tennessee,Admiral Schofield,Foul,63,87
+0:35,Louisiana,Marcus Stroman,Free Throw,64,87
+0:35,Louisiana,Marcus Stroman,Free Throw,65,87
+0:08,Tennessee,Admiral Schofield,Missed Layup,65,87
+0:08,Louisiana,Cedric Russell,Defensive Rebound,65,87
+0:00,Tennessee,None,None,65,87

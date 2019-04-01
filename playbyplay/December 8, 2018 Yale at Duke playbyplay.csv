@@ -1,0 +1,389 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Yale,None,None,0,0
+19:47,Duke,Javin DeLaurier,Foul,0,0
+19:47,Yale,Miye Oni,Free Throw,1,0
+19:47,Yale,Miye Oni,Free Throw,2,0
+19:30,Duke,Cam Reddish,Missed Jumper,2,0
+19:30,Yale,Miye Oni,Block,2,0
+19:30,Duke,Zion Williamson,Offensive Rebound,2,0
+19:29,Duke,Cam Reddish,Missed Jumper,2,0
+19:29,Yale,Alex Copeland,Defensive Rebound,2,0
+19:14,Yale,Trey Phills,Turnover,2,0
+19:14,Duke,Cam Reddish,Steal,2,0
+18:58,Duke,Zion Williamson,Missed Three Point Jumper,2,0
+18:58,Yale,Miye Oni,Defensive Rebound,2,0
+18:50,Yale,Blake Reynolds,Layup,4,0
+18:43,Duke,RJ Barrett,Missed Jumper,4,0
+18:43,Duke,Javin DeLaurier,Offensive Rebound,4,0
+18:38,Duke,Javin DeLaurier,Dunk,4,2
+18:22,Yale,Trey Phills,Turnover,4,2
+18:13,Duke,RJ Barrett,Jumper,4,4
+17:46,Yale,Miye Oni,Jumper,6,4
+17:29,Duke,Zion Williamson,Turnover,6,4
+17:04,Yale,Miye Oni,Layup,8,4
+16:49,Duke,RJ Barrett,Missed Jumper,8,4
+16:49,Duke,Javin DeLaurier,Offensive Rebound,8,4
+16:45,Duke,Javin DeLaurier,Layup,8,6
+16:33,Yale,Alex Copeland,Missed Jumper,8,6
+16:33,Yale,Blake Reynolds,Offensive Rebound,8,6
+16:26,Yale,Miye Oni,Missed Jumper,8,6
+16:26,Duke,Tre Jones,Defensive Rebound,8,6
+16:21,Yale,Blake Reynolds,Foul,8,6
+16:16,Duke,Tre Jones,Missed Jumper,8,6
+16:16,Yale,Jordan Bruner,Defensive Rebound,8,6
+16:04,Yale,Trey Phills,Layup,10,6
+15:53,Duke,Zion Williamson,Layup,10,8
+15:34,Yale,Alex Copeland,Turnover,10,8
+15:34,Duke,Zion Williamson,Steal,10,8
+15:29,Duke,Tre Jones,Layup,10,10
+15:20,Yale,Alex Copeland,Foul,10,10
+15:20,Yale,Alex Copeland,Turnover,10,10
+15:20,Duke,None,None,10,10
+15:13,Duke,Marques Bolden,Missed Layup,10,10
+15:13,Duke,Marques Bolden,Offensive Rebound,10,10
+15:11,Duke,Marques Bolden,Missed Layup,10,10
+15:07,Yale,Miye Oni,Defensive Rebound,10,10
+14:43,Yale,Alex Copeland,Layup,12,10
+14:31,Yale,Miye Oni,Foul,12,10
+14:31,Duke,RJ Barrett,Free Throw,12,11
+14:31,Duke,RJ Barrett,Free Throw,12,12
+14:11,Yale,Jordan Bruner,Three Point Jumper,15,12
+13:56,Yale,Paul Atkinson,Foul,15,12
+13:56,Duke,Zion Williamson,Missed Free Throw,15,12
+13:56,Duke,None,Team Rebound,15,12
+13:56,Duke,Zion Williamson,Free Throw,15,13
+13:36,Yale,Miye Oni,Turnover,15,13
+13:36,Duke,RJ Barrett,Steal,15,13
+13:30,Duke,Javin DeLaurier,Layup,15,15
+13:12,Duke,Zion Williamson,Foul,15,15
+12:55,Yale,Azar Swain,Missed Three Point Jumper,15,15
+12:55,Duke,Cam Reddish,Defensive Rebound,15,15
+12:48,Duke,RJ Barrett,Layup,15,17
+12:42,Yale,Alex Copeland,Turnover,15,17
+12:42,Duke,Tre Jones,Steal,15,17
+12:37,Duke,Tre Jones,Missed Layup,15,17
+12:37,Yale,Alex Copeland,Defensive Rebound,15,17
+12:22,Yale,Alex Copeland,Missed Jumper,15,17
+12:22,Yale,Paul Atkinson,Offensive Rebound,15,17
+12:22,Yale,None,None,17,17
+12:04,Yale,Trey Phills,Foul,17,17
+12:01,Duke,Cam Reddish,Layup,17,19
+11:44,Yale,Miye Oni,Turnover,17,19
+11:44,Duke,Cam Reddish,Steal,17,19
+11:39,Duke,Cam Reddish,Turnover,17,19
+11:39,Yale,Azar Swain,Steal,17,19
+11:35,Yale,Azar Swain,Turnover,17,19
+11:35,Duke,Jack White,Steal,17,19
+11:31,Duke,Cam Reddish,Missed Three Point Jumper,17,19
+11:31,Yale,Miye Oni,Defensive Rebound,17,19
+11:15,Yale,Trey Phills,Missed Three Point Jumper,17,19
+11:15,Duke,Alex O'Connell,Defensive Rebound,17,19
+11:09,Duke,Alex O'Connell,Turnover,17,19
+11:09,Yale,Trey Phills,Steal,17,19
+11:03,Duke,None,None,17,19
+10:57,Yale,Azar Swain,Missed Three Point Jumper,17,19
+10:57,Duke,RJ Barrett,Defensive Rebound,17,19
+10:48,Duke,Cam Reddish,Turnover,17,19
+10:36,Yale,Azar Swain,Turnover,17,19
+10:26,Duke,Zion Williamson,Missed Layup,17,19
+10:26,Yale,Jordan Bruner,Defensive Rebound,17,19
+10:11,Yale,Azar Swain,Missed Jumper,17,19
+10:11,Duke,RJ Barrett,Block,17,19
+10:11,Yale,Jordan Bruner,Offensive Rebound,17,19
+10:05,Yale,Azar Swain,Missed Three Point Jumper,17,19
+10:05,Duke,Cam Reddish,Defensive Rebound,17,19
+9:58,Yale,Jalen Gabbidon,Foul,17,19
+9:56,Duke,Marques Bolden,Foul,17,19
+9:56,Duke,Marques Bolden,Turnover,17,19
+9:38,Yale,Alex Copeland,Three Point Jumper,20,19
+9:29,Duke,Zion Williamson,Missed Layup,20,19
+9:29,Duke,Zion Williamson,Offensive Rebound,20,19
+9:29,Duke,None,None,20,21
+9:12,Yale,Jalen Gabbidon,Missed Three Point Jumper,20,21
+9:12,Duke,RJ Barrett,Defensive Rebound,20,21
+9:03,Duke,Cam Reddish,Missed Three Point Jumper,20,21
+9:03,Yale,Alex Copeland,Defensive Rebound,20,21
+8:55,Yale,Jordan Bruner,Missed Three Point Jumper,20,21
+8:55,Duke,Zion Williamson,Defensive Rebound,20,21
+8:47,Duke,Zion Williamson,Foul,20,21
+8:47,Duke,Zion Williamson,Turnover,20,21
+8:35,Yale,Miye Oni,Missed Jumper,20,21
+8:35,Duke,Jack White,Defensive Rebound,20,21
+8:22,Duke,RJ Barrett,Missed Three Point Jumper,20,21
+8:22,Yale,Jalen Gabbidon,Defensive Rebound,20,21
+8:08,Yale,Blake Reynolds,Dunk,22,21
+7:57,Duke,Alex O'Connell,Three Point Jumper,22,24
+7:41,Yale,Jordan Bruner,Turnover,22,24
+7:41,Duke,Javin DeLaurier,Steal,22,24
+7:38,Duke,Tre Jones,Layup,22,26
+7:16,Yale,Miye Oni,Turnover,22,26
+7:16,Duke,Tre Jones,Steal,22,26
+7:09,Duke,Jack White,Missed Three Point Jumper,22,26
+7:09,Duke,Jack White,Offensive Rebound,22,26
+7:03,Duke,Jack White,Missed Jumper,22,26
+7:03,Yale,Jalen Gabbidon,Defensive Rebound,22,26
+7:01,Duke,None,None,22,26
+7:01,Duke,None,None,22,26
+6:44,Yale,Jordan Bruner,Missed Layup,22,26
+6:44,Duke,Jack White,Block,22,26
+6:44,Duke,Jack White,Defensive Rebound,22,26
+6:20,Duke,RJ Barrett,Missed Layup,22,26
+6:20,Yale,Paul Atkinson,Defensive Rebound,22,26
+5:54,Duke,RJ Barrett,Foul,22,26
+5:54,Yale,Paul Atkinson,Missed Free Throw,22,26
+5:54,Yale,None,Team Rebound,22,26
+5:54,Yale,Paul Atkinson,Free Throw,23,26
+5:42,Yale,Trey Phills,Foul,23,26
+5:42,Duke,RJ Barrett,Free Throw,23,27
+5:42,Duke,RJ Barrett,Missed Free Throw,23,27
+5:42,Duke,Jack White,Offensive Rebound,23,27
+5:42,Yale,Blake Reynolds,Foul,23,27
+5:42,Duke,Jack White,Free Throw,23,28
+5:42,Duke,Jack White,Missed Free Throw,23,28
+5:42,Yale,Paul Atkinson,Defensive Rebound,23,28
+5:40,Duke,Javin DeLaurier,Foul,23,28
+5:27,Yale,Jordan Bruner,Turnover,23,28
+5:27,Duke,Alex O'Connell,Steal,23,28
+5:23,Duke,Alex O'Connell,Dunk,23,30
+5:20,Yale,None,None,23,30
+5:02,Yale,Jordan Bruner,Missed Three Point Jumper,23,30
+5:02,Yale,Paul Atkinson,Offensive Rebound,23,30
+4:57,Yale,Paul Atkinson,Missed Layup,23,30
+4:57,Duke,Javin DeLaurier,Defensive Rebound,23,30
+4:47,Duke,RJ Barrett,Three Point Jumper,23,33
+4:29,Yale,Alex Copeland,Turnover,23,33
+4:29,Duke,Jack White,Steal,23,33
+4:25,Duke,RJ Barrett,Layup,23,35
+4:11,Duke,Jack White,Foul,23,35
+4:11,Yale,Miye Oni,Free Throw,24,35
+4:11,Yale,Miye Oni,Free Throw,25,35
+3:58,Duke,Zion Williamson,Layup,25,37
+3:42,Yale,Jordan Bruner,Turnover,25,37
+3:42,Duke,None,None,25,37
+3:33,Duke,RJ Barrett,Missed Jumper,25,37
+3:33,Yale,Miye Oni,Defensive Rebound,25,37
+3:09,Yale,Paul Atkinson,Layup,27,37
+2:58,Yale,Jalen Gabbidon,Foul,27,37
+2:58,Duke,RJ Barrett,Missed Free Throw,27,37
+2:58,Yale,Miye Oni,Defensive Rebound,27,37
+2:44,Yale,Jalen Gabbidon,Turnover,27,37
+2:44,Duke,Tre Jones,Steal,27,37
+2:38,Yale,Jordan Bruner,Foul,27,37
+2:38,Duke,Zion Williamson,Missed Free Throw,27,37
+2:38,Duke,None,Team Rebound,27,37
+2:38,Duke,Zion Williamson,Missed Free Throw,27,37
+2:38,Yale,Jordan Bruner,Defensive Rebound,27,37
+2:19,Yale,Miye Oni,Missed Jumper,27,37
+2:19,Duke,Zion Williamson,Defensive Rebound,27,37
+2:11,Duke,RJ Barrett,Missed Three Point Jumper,27,37
+2:11,Yale,Azar Swain,Defensive Rebound,27,37
+1:45,Yale,Paul Atkinson,Turnover,27,37
+1:45,Duke,Jack White,Steal,27,37
+1:39,Yale,Paul Atkinson,Foul,27,37
+1:39,Duke,Jack White,Free Throw,27,38
+1:39,Duke,Jack White,Missed Free Throw,27,38
+1:39,Yale,Miye Oni,Defensive Rebound,27,38
+1:23,Yale,Azar Swain,Three Point Jumper,30,38
+1:03,Yale,Miye Oni,Foul,30,38
+1:03,Duke,Alex O'Connell,Free Throw,30,39
+1:03,Duke,Alex O'Connell,Missed Free Throw,30,39
+1:03,Yale,Jordan Bruner,Defensive Rebound,30,39
+0:52,Yale,Austin Williams,Missed Jumper,30,39
+0:52,Duke,Jack White,Defensive Rebound,30,39
+0:42,Duke,Tre Jones,Missed Jumper,30,39
+0:42,Yale,Matthue Cotton,Defensive Rebound,30,39
+0:25,Yale,Miye Oni,Missed Layup,30,39
+0:25,Duke,Jack White,Block,30,39
+0:25,Yale,Miye Oni,Offensive Rebound,30,39
+0:22,Duke,Tre Jones,Foul,30,39
+0:22,Yale,Miye Oni,Free Throw,31,39
+0:22,Yale,Miye Oni,Free Throw,32,39
+0:22,Duke,None,None,32,39
+0:05,Duke,Alex O'Connell,Missed Three Point Jumper,32,39
+0:05,Duke,Jack White,Offensive Rebound,32,39
+0:02,Duke,Jack White,Dunk,32,41
+0:00,Duke,None,None,32,41
+20:00,Duke,None,None,32,41
+19:49,Yale,Jordan Bruner,Foul,32,41
+19:49,Duke,Zion Williamson,Free Throw,32,42
+19:49,Duke,Zion Williamson,Missed Free Throw,32,42
+19:49,Yale,Miye Oni,Defensive Rebound,32,42
+19:31,Yale,Alex Copeland,Missed Jumper,32,42
+19:31,Yale,Jordan Bruner,Offensive Rebound,32,42
+19:28,Duke,Javin DeLaurier,Foul,32,42
+19:28,Yale,None,None,32,42
+19:22,Yale,Miye Oni,Missed Three Point Jumper,32,42
+19:22,Yale,Blake Reynolds,Offensive Rebound,32,42
+19:20,Yale,Blake Reynolds,Layup,34,42
+19:02,Duke,Javin DeLaurier,Turnover,34,42
+19:02,Yale,Jordan Bruner,Steal,34,42
+18:57,Yale,Miye Oni,Turnover,34,42
+18:57,Duke,Zion Williamson,Steal,34,42
+18:53,Duke,Cam Reddish,Layup,34,44
+18:42,Yale,Alex Copeland,Missed Three Point Jumper,34,44
+18:42,Duke,Javin DeLaurier,Defensive Rebound,34,44
+18:34,Duke,Tre Jones,Layup,34,46
+18:12,Yale,Blake Reynolds,Layup,36,46
+17:52,Yale,Jordan Bruner,Foul,36,46
+17:52,Duke,Zion Williamson,Free Throw,36,47
+17:52,Duke,Zion Williamson,Free Throw,36,48
+17:37,Yale,Paul Atkinson,Turnover,36,48
+17:29,Duke,Cam Reddish,Jumper,36,50
+17:11,Yale,Trey Phills,Layup,38,50
+17:03,Yale,Miye Oni,Foul,38,50
+17:03,Duke,Cam Reddish,Missed Free Throw,38,50
+17:03,Duke,None,Team Rebound,38,50
+17:03,Duke,Cam Reddish,Free Throw,38,51
+16:42,Duke,Cam Reddish,Foul,38,51
+16:37,Yale,Blake Reynolds,Missed Three Point Jumper,38,51
+16:37,Duke,Zion Williamson,Defensive Rebound,38,51
+16:26,Duke,Zion Williamson,Layup,38,53
+16:04,Duke,Javin DeLaurier,Foul,38,53
+16:04,Yale,Paul Atkinson,Missed Free Throw,38,53
+16:04,Yale,None,Team Rebound,38,53
+16:04,Yale,Paul Atkinson,Free Throw,39,53
+15:53,Duke,Jack White,Dunk,39,55
+15:35,Yale,Miye Oni,Jumper,41,55
+15:19,Duke,Cam Reddish,Jumper,41,57
+15:19,Yale,Miye Oni,Foul,41,57
+15:19,Duke,None,None,41,57
+15:19,Duke,Cam Reddish,Free Throw,41,58
+15:08,Yale,Paul Atkinson,Dunk,43,58
+14:53,Duke,RJ Barrett,Missed Three Point Jumper,43,58
+14:53,Yale,Jalen Gabbidon,Defensive Rebound,43,58
+14:39,Yale,Azar Swain,Missed Three Point Jumper,43,58
+14:39,Duke,RJ Barrett,Defensive Rebound,43,58
+14:26,Duke,Tre Jones,Foul,43,58
+14:26,Duke,Tre Jones,Turnover,43,58
+14:16,Yale,Blake Reynolds,Layup,45,58
+14:04,Duke,RJ Barrett,Layup,45,60
+13:49,Yale,Trey Phills,Turnover,45,60
+13:49,Duke,Cam Reddish,Steal,45,60
+13:45,Duke,RJ Barrett,Dunk,45,62
+13:27,Yale,Jalen Gabbidon,Missed Layup,45,62
+13:27,Duke,Marques Bolden,Block,45,62
+13:27,Duke,RJ Barrett,Defensive Rebound,45,62
+13:21,Duke,Cam Reddish,Missed Three Point Jumper,45,62
+13:21,Duke,RJ Barrett,Offensive Rebound,45,62
+13:18,Yale,Paul Atkinson,Foul,45,62
+13:18,Duke,RJ Barrett,Free Throw,45,63
+13:18,Duke,RJ Barrett,Missed Free Throw,45,63
+13:18,Duke,Marques Bolden,Offensive Rebound,45,63
+13:11,Duke,RJ Barrett,Three Point Jumper,45,66
+12:51,Yale,Azar Swain,Layup,47,66
+12:31,Duke,Cam Reddish,Missed Layup,47,66
+12:31,Yale,Jordan Bruner,Defensive Rebound,47,66
+12:17,Yale,Paul Atkinson,Missed Layup,47,66
+12:17,Duke,Marques Bolden,Block,47,66
+12:17,Duke,Alex O'Connell,Defensive Rebound,47,66
+12:03,Duke,RJ Barrett,Missed Three Point Jumper,47,66
+12:03,Duke,Marques Bolden,Offensive Rebound,47,66
+11:59,Yale,Jordan Bruner,Foul,47,66
+11:59,Duke,None,None,47,66
+11:58,Duke,RJ Barrett,Turnover,47,66
+11:58,Yale,Jalen Gabbidon,Steal,47,66
+11:54,Yale,Azar Swain,Foul,47,66
+11:54,Yale,Azar Swain,Turnover,47,66
+11:40,Duke,Marques Bolden,Jumper,47,68
+11:17,Yale,Paul Atkinson,Missed Jumper,47,68
+11:17,Duke,Marques Bolden,Defensive Rebound,47,68
+10:55,Duke,Marques Bolden,Turnover,47,68
+10:55,Yale,Alex Copeland,Steal,47,68
+10:51,Yale,Alex Copeland,Layup,49,68
+10:51,Duke,Jack White,Foul,49,68
+10:51,Yale,Alex Copeland,Free Throw,50,68
+10:48,Yale,Azar Swain,Foul,50,68
+10:48,Duke,RJ Barrett,Free Throw,50,69
+10:48,Duke,RJ Barrett,Free Throw,50,70
+10:39,Yale,Alex Copeland,Turnover,50,70
+10:34,Duke,Zion Williamson,Missed Jumper,50,70
+10:34,Yale,Austin Williams,Defensive Rebound,50,70
+10:25,Yale,Alex Copeland,Missed Layup,50,70
+10:25,Duke,Zion Williamson,Block,50,70
+10:25,Yale,Yale,Offensive Rebound,50,70
+10:20,Duke,Jordan Goldwire,Foul,50,70
+10:07,Yale,Trey Phills,Missed Three Point Jumper,50,70
+10:07,Duke,Jack White,Defensive Rebound,50,70
+9:54,Duke,RJ Barrett,Missed Three Point Jumper,50,70
+9:54,Yale,Paul Atkinson,Defensive Rebound,50,70
+9:26,Yale,Trey Phills,Missed Layup,50,70
+9:26,Duke,Jack White,Defensive Rebound,50,70
+9:11,Yale,Jalen Gabbidon,Foul,50,70
+9:11,Duke,RJ Barrett,Free Throw,50,71
+9:11,Duke,RJ Barrett,Free Throw,50,72
+8:47,Yale,Trey Phills,Missed Three Point Jumper,50,72
+8:47,Yale,Azar Swain,Offensive Rebound,50,72
+8:39,Yale,Jordan Bruner,Dunk,52,72
+8:31,Duke,RJ Barrett,Turnover,52,72
+8:31,Yale,Jordan Bruner,Steal,52,72
+8:24,Yale,Azar Swain,Missed Three Point Jumper,52,72
+8:24,Duke,Jack White,Defensive Rebound,52,72
+8:05,Duke,Cam Reddish,Missed Three Point Jumper,52,72
+8:05,Yale,Miye Oni,Defensive Rebound,52,72
+7:58,Duke,None,None,52,72
+7:52,Yale,Azar Swain,Missed Three Point Jumper,52,72
+7:52,Duke,Zion Williamson,Defensive Rebound,52,72
+7:37,Duke,Alex O'Connell,Turnover,52,72
+7:37,Yale,Trey Phills,Steal,52,72
+7:28,Yale,Azar Swain,Missed Layup,52,72
+7:28,Yale,Jordan Bruner,Offensive Rebound,52,72
+7:23,Yale,Jordan Bruner,Missed Dunk,52,72
+7:23,Duke,Jack White,Defensive Rebound,52,72
+7:03,Duke,Zion Williamson,Turnover,52,72
+6:52,Yale,Miye Oni,Turnover,52,72
+6:52,Duke,Cam Reddish,Steal,52,72
+6:45,Duke,RJ Barrett,Layup,52,74
+6:45,Yale,Miye Oni,Foul,52,74
+6:45,Duke,RJ Barrett,Free Throw,52,75
+6:28,Yale,Jordan Bruner,Dunk,54,75
+6:05,Duke,RJ Barrett,Turnover,54,75
+6:05,Yale,Trey Phills,Steal,54,75
+6:00,Yale,Trey Phills,Missed Dunk,54,75
+6:00,Duke,Zion Williamson,Defensive Rebound,54,75
+5:58,Yale,Blake Reynolds,Foul,54,75
+5:58,Duke,Zion Williamson,Free Throw,54,76
+5:58,Duke,Zion Williamson,Free Throw,54,77
+5:46,Yale,Alex Copeland,Missed Jumper,54,77
+5:46,Duke,Jack White,Defensive Rebound,54,77
+5:26,Duke,Zion Williamson,Layup,54,79
+5:16,Yale,Blake Reynolds,Missed Three Point Jumper,54,79
+5:16,Duke,RJ Barrett,Defensive Rebound,54,79
+5:05,Duke,RJ Barrett,Missed Three Point Jumper,54,79
+5:05,Yale,Trey Phills,Defensive Rebound,54,79
+4:58,Yale,Alex Copeland,Layup,56,79
+4:39,Duke,Zion Williamson,Layup,56,81
+4:19,Yale,Trey Phills,Missed Layup,56,81
+4:19,Duke,RJ Barrett,Defensive Rebound,56,81
+4:12,Duke,Zion Williamson,Dunk,56,83
+3:54,Yale,Alex Copeland,Jumper,58,83
+3:40,Duke,Cam Reddish,Missed Three Point Jumper,58,83
+3:40,Duke,Javin DeLaurier,Offensive Rebound,58,83
+3:35,Duke,RJ Barrett,Three Point Jumper,58,86
+3:15,Yale,Jalen Gabbidon,Missed Three Point Jumper,58,86
+3:15,Duke,Zion Williamson,Defensive Rebound,58,86
+3:04,Duke,Jack White,Three Point Jumper,58,89
+2:51,Yale,Alex Copeland,Missed Three Point Jumper,58,89
+2:51,Duke,Jack White,Defensive Rebound,58,89
+2:47,Duke,Jack White,Turnover,58,89
+2:47,Yale,Blake Reynolds,Steal,58,89
+2:38,Yale,Blake Reynolds,Missed Three Point Jumper,58,89
+2:38,Duke,Cam Reddish,Defensive Rebound,58,89
+2:26,Duke,None,None,58,89
+2:26,Duke,None,None,58,89
+2:07,Duke,Marques Bolden,Missed Layup,58,89
+2:07,Yale,Jordan Bruner,Block,58,89
+2:07,Duke,Duke,Defensive Rebound,58,89
+2:05,Duke,Alex O'Connell,Missed Three Point Jumper,58,89
+2:05,Duke,Antonio Vrankovic,Offensive Rebound,58,89
+2:05,Duke,None,None,58,91
+1:42,Yale,Matthue Cotton,Missed Three Point Jumper,58,91
+1:42,Duke,Duke,Defensive Rebound,58,91
+1:19,Duke,Jordan Goldwire,Missed Jumper,58,91
+1:19,Yale,Wyatt Yess,Defensive Rebound,58,91
+1:06,Yale,Isaiah Kelly,Missed Jumper,58,91
+1:06,Duke,Jordan Goldwire,Defensive Rebound,58,91
+0:46,Duke,Alex O'Connell,Missed Three Point Jumper,58,91
+0:46,Yale,Matthue Cotton,Defensive Rebound,58,91
+0:29,Yale,Thomas Ryan,Turnover,58,91
+0:29,Duke,Justin Robinson,Steal,58,91
+0:00,Duke,None,None,58,91

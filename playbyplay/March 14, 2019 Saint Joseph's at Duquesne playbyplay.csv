@@ -1,0 +1,343 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:51,Saint Joseph's,Charlie Brown Jr.,Dunk,2,0
+19:34,Duquesne,Michael Hughes,Jumper,2,2
+19:20,Saint Joseph's,Chris Clover,Jumper,4,2
+19:04,Duquesne,Lamar Norman Jr.,Layup,4,4
+18:47,Saint Joseph's,Lorenzo Edwards,Missed Jumper,4,4
+18:47,Duquesne,Marcus Weathers,Defensive Rebound,4,4
+18:37,Duquesne,Sincere Carry,Layup,4,6
+18:20,Saint Joseph's,Chris Clover,Layup,6,6
+17:52,Duquesne,Marcus Weathers,Missed Jumper,6,6
+17:52,Duquesne,Michael Hughes,Offensive Rebound,6,6
+17:48,Duquesne,Lamar Norman Jr.,Three Point Jumper,6,9
+17:31,Saint Joseph's,Lamarr Kimble,Missed Jumper,6,9
+17:31,Duquesne,Marcus Weathers,Defensive Rebound,6,9
+17:11,Duquesne,Lamar Norman Jr.,Three Point Jumper,6,12
+16:53,Saint Joseph's,Lamarr Kimble,Missed Layup,6,12
+16:53,Duquesne,Michael Hughes,Block,6,12
+16:51,Duquesne,Marcus Weathers,Defensive Rebound,6,12
+16:45,Saint Joseph's,Chris Clover,Foul,6,12
+16:31,Duquesne,Eric Williams Jr.,Layup,6,14
+16:10,Saint Joseph's,Lorenzo Edwards,Dunk,8,14
+15:50,Duquesne,Marcus Weathers,Layup,8,16
+15:50,Saint Joseph's,Chris Clover,Foul,8,16
+15:50,Duquesne,None,None,8,16
+15:50,Duquesne,Marcus Weathers,Free Throw,8,17
+15:41,Duquesne,Marcus Weathers,Foul,8,17
+15:29,Saint Joseph's,Charlie Brown Jr.,Missed Jumper,8,17
+15:29,Duquesne,Marcus Weathers,Defensive Rebound,8,17
+15:20,Duquesne,Sincere Carry,Missed Three Point Jumper,8,17
+15:20,Duquesne,Eric Williams Jr.,Offensive Rebound,8,17
+15:17,Duquesne,Eric Williams Jr.,Missed Dunk,8,17
+15:17,Saint Joseph's,Taylor Funk,Defensive Rebound,8,17
+15:11,Saint Joseph's,Jared Bynum,Missed Layup,8,17
+15:11,Saint Joseph's,Charlie Brown Jr.,Offensive Rebound,8,17
+15:08,Saint Joseph's,None,None,10,17
+14:46,Duquesne,Gavin Bizeau,Missed Three Point Jumper,10,17
+14:46,Saint Joseph's,Jared Bynum,Defensive Rebound,10,17
+14:32,Saint Joseph's,Charlie Brown Jr.,Jumper,12,17
+14:12,Duquesne,Lamar Norman Jr.,Jumper,12,19
+14:06,Saint Joseph's,Lamarr Kimble,Missed Layup,12,19
+14:06,Duquesne,Gavin Bizeau,Block,12,19
+14:04,Duquesne,Lamar Norman Jr.,Defensive Rebound,12,19
+13:59,Duquesne,Marcus Weathers,Layup,12,21
+13:59,Saint Joseph's,Taylor Funk,Foul,12,21
+13:59,Duquesne,Marcus Weathers,Free Throw,12,22
+13:42,Saint Joseph's,Charlie Brown Jr.,Three Point Jumper,15,22
+13:19,Saint Joseph's,Anthony Longpre,Foul,15,22
+13:09,Duquesne,Lamar Norman Jr.,Three Point Jumper,15,25
+12:56,Saint Joseph's,Charlie Brown Jr.,Jumper,17,25
+12:56,Duquesne,Frankie Hughes,Foul,17,25
+12:56,Saint Joseph's,Charlie Brown Jr.,Free Throw,18,25
+12:42,Duquesne,Lamar Norman Jr.,Missed Jumper,18,25
+12:42,Duquesne,Eric Williams Jr.,Offensive Rebound,18,25
+12:33,Duquesne,Eric Williams Jr.,Turnover,18,25
+12:31,Saint Joseph's,Lamarr Kimble,Steal,18,25
+12:28,Saint Joseph's,Taylor Funk,Missed Three Point Jumper,18,25
+12:28,Duquesne,Frankie Hughes,Defensive Rebound,18,25
+12:02,Saint Joseph's,Charlie Brown Jr.,Foul,18,25
+12:02,Duquesne,Eric Williams Jr.,Free Throw,18,26
+12:02,Duquesne,Eric Williams Jr.,Free Throw,18,27
+11:47,Saint Joseph's,Troy Holston,Three Point Jumper,21,27
+11:27,Duquesne,Tavian Dunn-Martin,Missed Three Point Jumper,21,27
+11:27,Saint Joseph's,Charlie Brown Jr.,Defensive Rebound,21,27
+11:18,Saint Joseph's,Charlie Brown Jr.,Missed Three Point Jumper,21,27
+11:18,Duquesne,Frankie Hughes,Defensive Rebound,21,27
+11:10,Duquesne,Frankie Hughes,Missed Three Point Jumper,21,27
+11:10,Saint Joseph's,Saint Joseph's,Defensive Rebound,21,27
+11:09,Duquesne,None,None,21,27
+10:52,Saint Joseph's,Troy Holston,Missed Three Point Jumper,21,27
+10:52,Duquesne,Frankie Hughes,Defensive Rebound,21,27
+10:21,Duquesne,Michael Hughes,Turnover,21,27
+10:20,Saint Joseph's,Charlie Brown Jr.,Steal,21,27
+10:13,Saint Joseph's,Troy Holston,Three Point Jumper,24,27
+9:55,Saint Joseph's,Anthony Longpre,Foul,24,27
+9:55,Duquesne,Michael Hughes,Free Throw,24,28
+9:55,Duquesne,Michael Hughes,Missed Free Throw,24,28
+9:55,Saint Joseph's,Anthony Longpre,Defensive Rebound,24,28
+9:44,Saint Joseph's,Anthony Longpre,Missed Three Point Jumper,24,28
+9:44,Duquesne,Marcus Weathers,Defensive Rebound,24,28
+9:34,Duquesne,Eric Williams Jr.,Three Point Jumper,24,31
+9:14,Duquesne,Michael Hughes,Foul,24,31
+9:06,Saint Joseph's,Charlie Brown Jr.,Missed Three Point Jumper,24,31
+9:06,Duquesne,Lamar Norman Jr.,Defensive Rebound,24,31
+8:55,Saint Joseph's,Troy Holston,Foul,24,31
+8:55,Duquesne,Marcus Weathers,Free Throw,24,32
+8:55,Duquesne,Marcus Weathers,Missed Free Throw,24,32
+8:55,Saint Joseph's,Lorenzo Edwards,Defensive Rebound,24,32
+8:40,Saint Joseph's,Jared Bynum,Layup,26,32
+8:08,Duquesne,Sincere Carry,Turnover,26,32
+8:06,Saint Joseph's,Lamarr Kimble,Steal,26,32
+8:02,Saint Joseph's,Troy Holston,Missed Three Point Jumper,26,32
+8:02,Saint Joseph's,Charlie Brown Jr.,Offensive Rebound,26,32
+7:47,Saint Joseph's,Charlie Brown Jr.,Turnover,26,32
+7:46,Duquesne,Marcus Weathers,Steal,26,32
+7:42,Duquesne,Lamar Norman Jr.,Missed Three Point Jumper,26,32
+7:42,Saint Joseph's,Lorenzo Edwards,Defensive Rebound,26,32
+7:28,Saint Joseph's,Lamarr Kimble,Missed Layup,26,32
+7:28,Duquesne,Marcus Weathers,Defensive Rebound,26,32
+7:20,Saint Joseph's,Lorenzo Edwards,Foul,26,32
+7:20,Duquesne,None,None,26,32
+7:20,Duquesne,Marcus Weathers,Free Throw,26,33
+7:20,Duquesne,Marcus Weathers,Missed Free Throw,26,33
+7:20,Saint Joseph's,Lorenzo Edwards,Defensive Rebound,26,33
+7:19,Duquesne,Gavin Bizeau,Foul,26,33
+7:04,Saint Joseph's,Jared Bynum,Missed Three Point Jumper,26,33
+7:04,Duquesne,Eric Williams Jr.,Defensive Rebound,26,33
+6:43,Duquesne,Michael Hughes,Layup,26,35
+6:28,Saint Joseph's,Lorenzo Edwards,Three Point Jumper,29,35
+6:12,Saint Joseph's,Lorenzo Edwards,Foul,29,35
+6:12,Duquesne,Michael Hughes,Missed Free Throw,29,35
+6:12,Saint Joseph's,Taylor Funk,Defensive Rebound,29,35
+6:02,Saint Joseph's,Taylor Funk,Three Point Jumper,32,35
+5:44,Duquesne,Michael Hughes,Turnover,32,35
+5:27,Saint Joseph's,Jared Bynum,Turnover,32,35
+5:06,Duquesne,Tavian Dunn-Martin,Missed Three Point Jumper,32,35
+5:06,Duquesne,Duquesne,Offensive Rebound,32,35
+4:44,Duquesne,Michael Hughes,Turnover,32,35
+4:44,Duquesne,Michael Hughes,Foul,32,35
+4:29,Saint Joseph's,Lorenzo Edwards,Layup,34,35
+4:12,Duquesne,Michael Hughes,Turnover,34,35
+4:12,Duquesne,Michael Hughes,Foul,34,35
+3:59,Saint Joseph's,Charlie Brown Jr.,Missed Three Point Jumper,34,35
+3:59,Duquesne,Tavian Dunn-Martin,Defensive Rebound,34,35
+3:50,Duquesne,Eric Williams Jr.,Three Point Jumper,34,38
+3:39,Duquesne,Tavian Dunn-Martin,Foul,34,38
+3:39,Duquesne,None,None,34,38
+3:39,Saint Joseph's,Jared Bynum,Free Throw,35,38
+3:39,Saint Joseph's,Jared Bynum,Free Throw,36,38
+3:26,Duquesne,Eric Williams Jr.,Jumper,36,40
+3:18,Saint Joseph's,Charlie Brown Jr.,Layup,38,40
+2:51,Saint Joseph's,Jared Bynum,Foul,38,40
+2:51,Duquesne,Marcus Weathers,Missed Free Throw,38,40
+2:51,Duquesne,None,Team Rebound,38,40
+2:51,Duquesne,Marcus Weathers,Free Throw,38,41
+2:36,Saint Joseph's,Taylor Funk,Three Point Jumper,41,41
+2:10,Duquesne,Eric Williams Jr.,Turnover,41,41
+1:54,Duquesne,Tavian Dunn-Martin,Foul,41,41
+1:54,Saint Joseph's,Jared Bynum,Free Throw,42,41
+1:54,Saint Joseph's,Jared Bynum,Free Throw,43,41
+1:43,Duquesne,Sincere Carry,Missed Layup,43,41
+1:43,Saint Joseph's,Saint Joseph's,Defensive Rebound,43,41
+1:31,Saint Joseph's,Jared Bynum,Jumper,45,41
+1:13,Duquesne,Frankie Hughes,Missed Three Point Jumper,45,41
+1:13,Saint Joseph's,Lamarr Kimble,Defensive Rebound,45,41
+1:05,Duquesne,Lamar Norman Jr.,Foul,45,41
+1:05,Saint Joseph's,Jared Bynum,Free Throw,46,41
+1:05,Saint Joseph's,Jared Bynum,Free Throw,47,41
+0:48,Saint Joseph's,Lorenzo Edwards,Foul,47,41
+0:48,Duquesne,Marcus Weathers,Free Throw,47,42
+0:48,Duquesne,Marcus Weathers,Free Throw,47,43
+0:48,Duquesne,None,None,47,43
+0:37,Duquesne,Marcus Weathers,Foul,47,43
+0:37,Saint Joseph's,Jared Bynum,Free Throw,48,43
+0:37,Saint Joseph's,Jared Bynum,Free Throw,49,43
+0:20,Duquesne,Eric Williams Jr.,Missed Three Point Jumper,49,43
+0:20,Saint Joseph's,Jared Bynum,Defensive Rebound,49,43
+0:07,Saint Joseph's,None,None,49,43
+0:01,Saint Joseph's,Lamarr Kimble,Missed Jumper,49,43
+0:01,Duquesne,None,Team Rebound,49,43
+0:00,Duquesne,None,None,49,43
+19:47,Duquesne,Sincere Carry,Three Point Jumper,49,46
+19:23,Saint Joseph's,Chris Clover,Missed Three Point Jumper,49,46
+19:23,Duquesne,Marcus Weathers,Defensive Rebound,49,46
+19:13,Duquesne,Sincere Carry,Missed Layup,49,46
+19:13,Saint Joseph's,Lorenzo Edwards,Defensive Rebound,49,46
+19:12,Duquesne,Marcus Weathers,Foul,49,46
+18:53,Saint Joseph's,Lamarr Kimble,Missed Three Point Jumper,49,46
+18:53,Duquesne,Marcus Weathers,Defensive Rebound,49,46
+18:44,Duquesne,Marcus Weathers,Layup,49,48
+18:24,Saint Joseph's,Lamarr Kimble,Missed Layup,49,48
+18:24,Saint Joseph's,Charlie Brown Jr.,Offensive Rebound,49,48
+18:20,Saint Joseph's,Charlie Brown Jr.,Turnover,49,48
+18:02,Duquesne,Sincere Carry,Missed Jumper,49,48
+18:02,Saint Joseph's,Charlie Brown Jr.,Defensive Rebound,49,48
+17:54,Saint Joseph's,Lorenzo Edwards,Turnover,49,48
+17:52,Duquesne,Marcus Weathers,Steal,49,48
+17:43,Saint Joseph's,Lorenzo Edwards,Foul,49,48
+17:29,Duquesne,Eric Williams Jr.,Jumper,49,50
+17:03,Saint Joseph's,Jared Bynum,Three Point Jumper,52,50
+16:42,Saint Joseph's,Anthony Longpre,Foul,52,50
+16:42,Duquesne,Marcus Weathers,Free Throw,52,51
+16:42,Duquesne,Marcus Weathers,Free Throw,52,52
+16:28,Saint Joseph's,Jared Bynum,Missed Three Point Jumper,52,52
+16:28,Duquesne,Eric Williams Jr.,Defensive Rebound,52,52
+16:19,Duquesne,Michael Hughes,Missed Jumper,52,52
+16:19,Duquesne,Michael Hughes,Offensive Rebound,52,52
+16:15,Duquesne,Lamar Norman Jr.,Missed Three Point Jumper,52,52
+16:15,Duquesne,Kellon Taylor,Offensive Rebound,52,52
+16:11,Duquesne,Kellon Taylor,Missed Jumper,52,52
+16:11,Saint Joseph's,Anthony Longpre,Block,52,52
+16:10,Saint Joseph's,Lamarr Kimble,Defensive Rebound,52,52
+16:10,Duquesne,Kellon Taylor,Foul,52,52
+15:50,Saint Joseph's,Anthony Longpre,Missed Layup,52,52
+15:50,Duquesne,Kellon Taylor,Block,52,52
+15:50,Saint Joseph's,Charlie Brown Jr.,Offensive Rebound,52,52
+15:48,Saint Joseph's,Charlie Brown Jr.,Jumper,54,52
+15:48,Duquesne,Kellon Taylor,Foul,54,52
+15:48,Duquesne,None,None,54,52
+15:48,Saint Joseph's,Charlie Brown Jr.,Missed Free Throw,54,52
+15:48,Duquesne,Eric Williams Jr.,Defensive Rebound,54,52
+15:22,Duquesne,Eric Williams Jr.,Missed Three Point Jumper,54,52
+15:22,Duquesne,Kellon Taylor,Offensive Rebound,54,52
+15:20,Saint Joseph's,Charlie Brown Jr.,Foul,54,52
+15:14,Duquesne,Michael Hughes,Jumper,54,54
+14:46,Saint Joseph's,Lamarr Kimble,Three Point Jumper,57,54
+14:19,Duquesne,Eric Williams Jr.,Turnover,57,54
+14:17,Saint Joseph's,Chris Clover,Steal,57,54
+14:14,Saint Joseph's,Charlie Brown Jr.,Turnover,57,54
+14:14,Saint Joseph's,Charlie Brown Jr.,Foul,57,54
+13:54,Duquesne,Kellon Taylor,Layup,57,56
+13:32,Saint Joseph's,Chris Clover,Jumper,59,56
+13:12,Duquesne,Michael Hughes,Layup,59,58
+13:12,Saint Joseph's,Anthony Longpre,Foul,59,58
+13:12,Duquesne,Michael Hughes,Missed Free Throw,59,58
+13:12,Saint Joseph's,Charlie Brown Jr.,Defensive Rebound,59,58
+12:55,Saint Joseph's,Lamarr Kimble,Missed Layup,59,58
+12:55,Duquesne,Michael Hughes,Block,59,58
+12:54,Duquesne,Eric Williams Jr.,Defensive Rebound,59,58
+12:48,Duquesne,Lamar Norman Jr.,Three Point Jumper,59,61
+12:28,Saint Joseph's,Chris Clover,Jumper,61,61
+12:09,Duquesne,Eric Williams Jr.,Missed Three Point Jumper,61,61
+12:09,Saint Joseph's,Charlie Brown Jr.,Defensive Rebound,61,61
+11:56,Saint Joseph's,Charlie Brown Jr.,Turnover,61,61
+11:54,Duquesne,Michael Hughes,Steal,61,61
+11:52,Duquesne,Lamar Norman Jr.,Turnover,61,61
+11:52,Duquesne,None,None,61,61
+11:39,Saint Joseph's,Chris Clover,Missed Three Point Jumper,61,61
+11:39,Duquesne,Michael Hughes,Defensive Rebound,61,61
+11:17,Duquesne,Michael Hughes,Missed Jumper,61,61
+11:17,Saint Joseph's,Taylor Funk,Block,61,61
+11:15,Saint Joseph's,Taylor Funk,Defensive Rebound,61,61
+11:01,Saint Joseph's,Chris Clover,Three Point Jumper,64,61
+10:38,Saint Joseph's,Chris Clover,Foul,64,61
+10:38,Duquesne,Tavian Dunn-Martin,Turnover,64,61
+10:36,Saint Joseph's,Chris Clover,Steal,64,61
+10:33,Saint Joseph's,Charlie Brown Jr.,Layup,66,61
+10:33,Duquesne,Lamar Norman Jr.,Foul,66,61
+10:33,Saint Joseph's,Charlie Brown Jr.,Free Throw,67,61
+10:07,Duquesne,Michael Hughes,Missed Jumper,67,61
+10:07,Saint Joseph's,Chris Clover,Block,67,61
+10:06,Saint Joseph's,Taylor Funk,Defensive Rebound,67,61
+9:57,Duquesne,Michael Hughes,Foul,67,61
+9:57,Saint Joseph's,Lamarr Kimble,Free Throw,68,61
+9:57,Saint Joseph's,Lamarr Kimble,Free Throw,69,61
+9:43,Duquesne,Sincere Carry,Jumper,69,63
+9:43,Saint Joseph's,Lamarr Kimble,Foul,69,63
+9:43,Duquesne,Sincere Carry,Missed Free Throw,69,63
+9:43,Saint Joseph's,Chris Clover,Defensive Rebound,69,63
+9:27,Duquesne,Sincere Carry,Foul,69,63
+9:20,Saint Joseph's,Taylor Funk,Missed Three Point Jumper,69,63
+9:20,Duquesne,Tavian Dunn-Martin,Defensive Rebound,69,63
+9:12,Duquesne,Frankie Hughes,Three Point Jumper,69,66
+9:01,Saint Joseph's,Troy Holston,Missed Three Point Jumper,69,66
+9:01,Duquesne,Eric Williams Jr.,Defensive Rebound,69,66
+8:48,Duquesne,Tavian Dunn-Martin,Missed Layup,69,66
+8:48,Saint Joseph's,Troy Holston,Block,69,66
+8:47,Duquesne,Duquesne,Offensive Rebound,69,66
+8:47,Duquesne,Eric Williams Jr.,Layup,69,68
+8:29,Saint Joseph's,Charlie Brown Jr.,Three Point Jumper,72,68
+8:07,Duquesne,Tavian Dunn-Martin,Missed Three Point Jumper,72,68
+8:07,Saint Joseph's,Lamarr Kimble,Defensive Rebound,72,68
+7:58,Saint Joseph's,Lamarr Kimble,Missed Jumper,72,68
+7:58,Duquesne,Marcus Weathers,Defensive Rebound,72,68
+7:51,Duquesne,None,None,72,68
+7:42,Saint Joseph's,Taylor Funk,Foul,72,68
+7:42,Duquesne,Eric Williams Jr.,Free Throw,72,69
+7:42,Duquesne,Eric Williams Jr.,Free Throw,72,70
+7:23,Saint Joseph's,Lamarr Kimble,Three Point Jumper,75,70
+6:54,Duquesne,Sincere Carry,Jumper,75,72
+6:28,Saint Joseph's,Chris Clover,Missed Jumper,75,72
+6:28,Duquesne,Marcus Weathers,Defensive Rebound,75,72
+6:20,Duquesne,Sincere Carry,Missed Three Point Jumper,75,72
+6:20,Duquesne,Eric Williams Jr.,Offensive Rebound,75,72
+6:16,Duquesne,Eric Williams Jr.,Missed Layup,75,72
+6:16,Saint Joseph's,Taylor Funk,Defensive Rebound,75,72
+5:59,Saint Joseph's,Taylor Funk,Missed Three Point Jumper,75,72
+5:59,Duquesne,Sincere Carry,Defensive Rebound,75,72
+5:54,Duquesne,Marcus Weathers,Dunk,75,74
+5:38,Saint Joseph's,Chris Clover,Layup,77,74
+5:24,Duquesne,Sincere Carry,Missed Layup,77,74
+5:24,Saint Joseph's,Taylor Funk,Defensive Rebound,77,74
+5:16,Saint Joseph's,Charlie Brown Jr.,Dunk,79,74
+5:05,Duquesne,Tavian Dunn-Martin,Missed Layup,79,74
+5:05,Saint Joseph's,Lamarr Kimble,Defensive Rebound,79,74
+4:55,Saint Joseph's,Taylor Funk,Layup,81,74
+4:55,Duquesne,Marcus Weathers,Foul,81,74
+4:55,Saint Joseph's,Taylor Funk,Free Throw,82,74
+4:38,Duquesne,Sincere Carry,Missed Jumper,82,74
+4:38,Saint Joseph's,Lamarr Kimble,Defensive Rebound,82,74
+4:07,Saint Joseph's,Jared Bynum,Missed Three Point Jumper,82,74
+4:07,Duquesne,Sincere Carry,Defensive Rebound,82,74
+4:01,Duquesne,Lamar Norman Jr.,Missed Three Point Jumper,82,74
+4:01,Saint Joseph's,Anthony Longpre,Defensive Rebound,82,74
+3:59,Duquesne,Eric Williams Jr.,Foul,82,74
+3:59,Duquesne,None,None,82,74
+3:59,Saint Joseph's,Anthony Longpre,Free Throw,83,74
+3:59,Saint Joseph's,Anthony Longpre,Free Throw,84,74
+3:43,Duquesne,Marcus Weathers,Missed Jumper,84,74
+3:43,Duquesne,Eric Williams Jr.,Offensive Rebound,84,74
+3:41,Duquesne,None,None,84,74
+3:41,Duquesne,Sincere Carry,Offensive Rebound,84,74
+3:36,Duquesne,Eric Williams Jr.,Layup,84,76
+3:05,Saint Joseph's,Lamarr Kimble,Missed Jumper,84,76
+3:05,Duquesne,Lamar Norman Jr.,Defensive Rebound,84,76
+2:58,Duquesne,Michael Hughes,Missed Layup,84,76
+2:58,Duquesne,Michael Hughes,Offensive Rebound,84,76
+2:53,Duquesne,Eric Williams Jr.,Missed Jumper,84,76
+2:53,Saint Joseph's,Chris Clover,Defensive Rebound,84,76
+2:42,Duquesne,Eric Williams Jr.,Foul,84,76
+2:42,Saint Joseph's,Chris Clover,Free Throw,85,76
+2:42,Saint Joseph's,Chris Clover,Free Throw,86,76
+2:25,Duquesne,Michael Hughes,Missed Jumper,86,76
+2:25,Saint Joseph's,Jared Bynum,Defensive Rebound,86,76
+2:04,Saint Joseph's,Lamarr Kimble,Missed Three Point Jumper,86,76
+2:04,Saint Joseph's,Chris Clover,Offensive Rebound,86,76
+1:33,Saint Joseph's,Jared Bynum,Missed Three Point Jumper,86,76
+1:33,Duquesne,Lamar Norman Jr.,Defensive Rebound,86,76
+1:28,Duquesne,Lamar Norman Jr.,Layup,86,78
+1:26,Duquesne,None,None,86,78
+1:26,Duquesne,None,None,86,78
+1:13,Duquesne,Frankie Hughes,Foul,86,78
+1:13,Saint Joseph's,Lamarr Kimble,Missed Free Throw,86,78
+1:13,Saint Joseph's,None,Team Rebound,86,78
+1:13,Saint Joseph's,Lamarr Kimble,Free Throw,87,78
+1:06,Duquesne,Frankie Hughes,Three Point Jumper,87,81
+1:05,Duquesne,None,None,87,81
+0:55,Duquesne,Kellon Taylor,Foul,87,81
+0:55,Saint Joseph's,Charlie Brown Jr.,Free Throw,88,81
+0:55,Saint Joseph's,Charlie Brown Jr.,Free Throw,89,81
+0:47,Duquesne,Eric Williams Jr.,Layup,89,83
+0:47,Saint Joseph's,Charlie Brown Jr.,Foul,89,83
+0:47,Duquesne,Eric Williams Jr.,Free Throw,89,84
+0:33,Duquesne,Kellon Taylor,Foul,89,84
+0:33,Saint Joseph's,Charlie Brown Jr.,Free Throw,90,84
+0:33,Saint Joseph's,Charlie Brown Jr.,Free Throw,91,84
+0:28,Duquesne,Frankie Hughes,Missed Three Point Jumper,91,84
+0:28,Saint Joseph's,Jared Bynum,Defensive Rebound,91,84
+0:17,Duquesne,Eric Williams Jr.,Foul,91,84
+0:17,Saint Joseph's,Jared Bynum,Missed Free Throw,91,84
+0:17,Saint Joseph's,None,Team Rebound,91,84
+0:17,Saint Joseph's,Jared Bynum,Free Throw,92,84
+0:11,Duquesne,Tavian Dunn-Martin,Layup,92,86
+0:00,Duquesne,None,None,92,86

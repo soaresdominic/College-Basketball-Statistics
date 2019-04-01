@@ -1,0 +1,309 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:40,Denver,missed Three Point Jumper.,Missed Three Point Jumper,0,0
+19:40,Omaha,Mitchell Hahn,Defensive Rebound,0,0
+19:25,Omaha,JT Gibson,Three Point Jumper,0,3
+19:06,Denver,Joe Rosga,Missed Three Point Jumper,0,3
+19:06,Omaha,Matt Pile,Defensive Rebound,0,3
+19:01,Omaha,Matt Pile,Turnover,0,3
+18:49,Denver,Tory Stewart-Miller,Missed Jumper,0,3
+18:49,Omaha,Matt Pile,Defensive Rebound,0,3
+18:30,Omaha,Mitchell Hahn,Jumper,0,5
+18:08,Denver,Tory Stewart-Miller,Layup,2,5
+17:46,Omaha,Matt Pile,Layup,2,7
+17:35,Denver,Ade Murkey,Three Point Jumper,5,7
+17:06,Omaha,JT Gibson,Missed Three Point Jumper,5,7
+17:06,Denver,Tory Stewart-Miller,Defensive Rebound,5,7
+16:45,Denver,Tory Stewart-Miller,Foul,5,7
+16:45,Denver,Tory Stewart-Miller,Turnover,5,7
+16:28,Omaha,Matt Pile,Missed Layup,5,7
+16:28,Omaha,Omaha,Offensive Rebound,5,7
+16:17,Omaha,Zach Jackson,Missed Jumper,5,7
+16:17,Denver,Donoven Carlisle,Defensive Rebound,5,7
+15:56,Denver,Donoven Carlisle,Turnover,5,7
+15:56,Omaha,None,None,5,7
+15:37,Omaha,Mitchell Hahn,Missed Three Point Jumper,5,7
+15:37,Denver,Denver,Defensive Rebound,5,7
+15:15,Denver,Donoven Carlisle,Missed Jumper,5,7
+15:15,Denver,Tory Stewart-Miller,Offensive Rebound,5,7
+15:12,Denver,None,None,5,7
+15:12,Denver,Tory Stewart-Miller,Offensive Rebound,5,7
+15:10,Denver,Tory Stewart-Miller,Missed Jumper,5,7
+15:10,Denver,Donoven Carlisle,Offensive Rebound,5,7
+15:07,Denver,None,None,7,7
+14:57,Omaha,KJ Robinson,Missed Three Point Jumper,7,7
+14:57,Denver,Tory Stewart-Miller,Defensive Rebound,7,7
+14:44,Denver,missed Three Point Jumper.,Missed Three Point Jumper,7,7
+14:44,Omaha,Mitchell Hahn,Defensive Rebound,7,7
+14:31,Omaha,Zach Jackson,Missed Three Point Jumper,7,7
+14:31,Denver,Donoven Carlisle,Defensive Rebound,7,7
+14:19,Denver,Joe Rosga,Three Point Jumper,10,7
+14:01,Omaha,Matt Pile,Missed Jumper,10,7
+14:01,Denver,Donoven Carlisle,Defensive Rebound,10,7
+13:40,Denver,Tory Stewart-Miller,Jumper,12,7
+13:16,Omaha,Mitchell Hahn,Jumper,12,9
+12:46,Denver,Joe Rosga,Jumper,14,9
+12:31,Omaha,JT Gibson,Missed Three Point Jumper,14,9
+12:31,Omaha,Matt Pile,Offensive Rebound,14,9
+12:08,Omaha,Mitchell Hahn,Jumper,14,11
+11:58,Denver,Joe Rosga,Jumper,16,11
+11:43,Omaha,Mitchell Hahn,Missed Three Point Jumper,16,11
+11:43,Omaha,Zach Thornhill,Offensive Rebound,16,11
+11:39,Omaha,Zach Thornhill,Missed Jumper,16,11
+11:39,Denver,Ade Murkey,Defensive Rebound,16,11
+11:24,Denver,Joe Rosga,Three Point Jumper,19,11
+11:03,Omaha,Ayo Akinwole,Missed Layup,19,11
+11:03,Denver,Abiola Akintola,Defensive Rebound,19,11
+10:56,Denver,Turnover.,Turnover,19,11
+10:56,Omaha,None,None,19,11
+10:45,Denver,Abiola Akintola,Foul,19,11
+10:44,Omaha,JT Gibson,Layup,19,13
+10:13,Denver,Abiola Akintola,Missed Jumper,19,13
+10:13,Denver,Abiola Akintola,Offensive Rebound,19,13
+10:10,Denver,Abiola Akintola,Layup,21,13
+9:50,Omaha,Zach Thornhill,Three Point Jumper,21,16
+9:31,Denver,Ade Murkey,Missed Jumper,21,16
+9:31,Omaha,JT Gibson,Defensive Rebound,21,16
+9:24,Omaha,JT Gibson,Three Point Jumper,21,19
+9:07,Denver,Alperen Kurnaz,Three Point Jumper,24,19
+8:39,Omaha,Wanjang Tut,Turnover,24,19
+8:37,Denver,Ade Murkey,Steal,24,19
+8:32,Denver,Joe Rosga,Missed Jumper,24,19
+8:32,Omaha,None,Team Rebound,24,19
+8:29,Denver,Tory Stewart-Miller,Foul,24,19
+8:14,Omaha,Matt Pile,Layup,24,21
+7:51,Denver,Jase Townsend,Missed Three Point Jumper,24,21
+7:51,Omaha,Matt Pile,Defensive Rebound,24,21
+7:39,Omaha,Ayo Akinwole,Missed Layup,24,21
+7:39,Denver,Donoven Carlisle,Defensive Rebound,24,21
+7:34,Omaha,Ayo Akinwole,Foul,24,21
+7:34,Omaha,None,None,24,21
+7:20,Omaha,Matt Pile,Foul,24,21
+7:20,Denver,David Nzekwesi,Free Throw,25,21
+7:20,Denver,David Nzekwesi,Free Throw,26,21
+7:05,Omaha,Matt Pile,Jumper,26,23
+6:53,Denver,Joe Rosga,Missed Three Point Jumper,26,23
+6:53,Omaha,JT Gibson,Defensive Rebound,26,23
+6:34,Omaha,Mitchell Hahn,Missed Jumper,26,23
+6:34,Denver,David Nzekwesi,Defensive Rebound,26,23
+6:27,Denver,Ade Murkey,Layup,28,23
+6:10,Omaha,Matt Pile,Missed Layup,28,23
+6:10,Omaha,Matt Pile,Offensive Rebound,28,23
+6:08,Omaha,None,None,28,25
+5:54,Denver,Joe Rosga,Missed Three Point Jumper,28,25
+5:54,Omaha,Omaha,Defensive Rebound,28,25
+5:28,Omaha,Matt Pile,Foul,28,25
+5:28,Omaha,Matt Pile,Turnover,28,25
+5:13,Denver,Donoven Carlisle,Turnover,28,25
+5:12,Omaha,Brett Barney,Steal,28,25
+5:02,Denver,Abiola Akintola,Foul,28,25
+5:02,Omaha,Zach Jackson,Missed Free Throw,28,25
+5:02,Omaha,None,Team Rebound,28,25
+5:02,Omaha,Zach Jackson,Free Throw,28,26
+4:59,Denver,Elvin Rodriguez,Turnover,28,26
+4:57,Omaha,JT Gibson,Steal,28,26
+4:53,Omaha,Zach Jackson,Layup,28,28
+4:26,Denver,made Three Point Jumper.,Three Point Jumper,31,28
+4:11,Omaha,KJ Robinson,Turnover,31,28
+4:10,Denver,Donoven Carlisle,Steal,31,28
+4:00,Denver,Donoven Carlisle,Missed Three Point Jumper,31,28
+4:00,Omaha,Brett Barney,Defensive Rebound,31,28
+3:48,Omaha,JT Gibson,Layup,31,30
+3:40,Denver,Jase Townsend,Missed Layup,31,30
+3:40,Denver,Elvin Rodriguez,Offensive Rebound,31,30
+3:36,Denver,Elvin Rodriguez,Missed Jumper,31,30
+3:36,Omaha,Zach Jackson,Defensive Rebound,31,30
+3:28,Denver,Jase Townsend,Foul,31,30
+3:28,Omaha,None,None,31,30
+3:14,Omaha,Zach Jackson,Turnover,31,30
+2:58,Denver,missed Jumper.,Missed Jumper,31,30
+2:58,Omaha,Zach Jackson,Defensive Rebound,31,30
+2:44,Omaha,Ayo Akinwole,Turnover,31,30
+2:32,Denver,Ade Murkey,Missed Three Point Jumper,31,30
+2:32,Denver,Ade Murkey,Offensive Rebound,31,30
+2:28,Denver,Ade Murkey,Layup,33,30
+2:12,Omaha,JT Gibson,Three Point Jumper,33,33
+2:00,Denver,missed Three Point Jumper.,Missed Three Point Jumper,33,33
+2:00,Omaha,Wanjang Tut,Defensive Rebound,33,33
+1:50,Denver,Ade Murkey,Foul,33,33
+1:43,Omaha,Mitchell Hahn,Three Point Jumper,33,36
+1:40,Omaha,None,None,33,36
+1:30,Denver,made Layup.,Layup,35,36
+1:16,Omaha,Mitchell Hahn,Jumper,35,38
+0:55,Denver,made Jumper.,Jumper,37,38
+0:35,Omaha,Zach Jackson,Missed Jumper,37,38
+0:35,Denver,Abiola Akintola,Defensive Rebound,37,38
+0:28,Denver,Joe Rosga,Missed Three Point Jumper,37,38
+0:28,Omaha,KJ Robinson,Defensive Rebound,37,38
+0:03,Omaha,KJ Robinson,Layup,37,40
+0:02,Denver,Joe Rosga,Foul,37,40
+0:02,Omaha,KJ Robinson,Free Throw,37,41
+0:00,Denver,Ade Murkey,Missed Three Point Jumper,37,41
+0:00,Denver,None,Team Rebound,37,41
+0:00,Omaha,None,None,37,41
+19:52,Denver, ,Foul,37,41
+19:46,Omaha,Mitchell Hahn,Jumper,37,43
+19:21,Denver,Ade Murkey,Jumper,39,43
+19:05,Omaha,Matt Pile,Jumper,39,45
+18:48,Denver,missed Layup.,Missed Layup,39,45
+18:48,Omaha,Matt Pile,Block,39,45
+18:46,Denver,Donoven Carlisle,Offensive Rebound,39,45
+18:44,Omaha,Zach Jackson,Foul,39,45
+18:36,Denver,Joe Rosga,Missed Jumper,39,45
+18:36,Denver,Donoven Carlisle,Offensive Rebound,39,45
+18:33,Denver,None,None,39,45
+18:33,Denver,Ade Murkey,Offensive Rebound,39,45
+18:31,Denver,None,None,39,45
+18:31,Denver,Donoven Carlisle,Offensive Rebound,39,45
+18:29,Denver,Donoven Carlisle,Layup,41,45
+18:19,Omaha,Matt Pile,Dunk,41,47
+18:16,Denver,None,None,41,47
+18:05,Denver,Ade Murkey,Foul,41,47
+18:05,Denver,Ade Murkey,Turnover,41,47
+17:55,Omaha,Mitchell Hahn,Jumper,41,49
+17:32,Denver,Abiola Akintola,Missed Layup,41,49
+17:32,Omaha,Mitchell Hahn,Defensive Rebound,41,49
+17:18,Omaha,JT Gibson,Three Point Jumper,41,52
+16:57,Omaha,Zach Jackson,Foul,41,52
+16:57,Denver,Ade Murkey,Missed Free Throw,41,52
+16:57,Denver,None,Team Rebound,41,52
+16:57,Denver,Ade Murkey,Free Throw,42,52
+16:35,Omaha,KJ Robinson,Layup,42,54
+16:25,Denver,Joe Rosga,Three Point Jumper,45,54
+16:23,Omaha,KJ Robinson,Foul,45,54
+16:23,Denver,Joe Rosga,Free Throw,46,54
+16:02,Omaha,Mitchell Hahn,Missed Three Point Jumper,46,54
+16:02,Denver,Abiola Akintola,Defensive Rebound,46,54
+15:50,Denver,made Jumper.,Jumper,48,54
+15:27,Omaha,Matt Pile,Missed Layup,48,54
+15:27,Denver,Defensive Rebound.,Defensive Rebound,48,54
+15:20,Denver,Donoven Carlisle,Layup,50,54
+15:02,Omaha,Zach Jackson,Missed Three Point Jumper,50,54
+15:02,Denver,Defensive Rebound.,Defensive Rebound,50,54
+14:53,Denver,missed Three Point Jumper.,Missed Three Point Jumper,50,54
+14:53,Omaha,KJ Robinson,Defensive Rebound,50,54
+14:42,Omaha,KJ Robinson,Missed Jumper,50,54
+14:42,Denver,Defensive Rebound.,Defensive Rebound,50,54
+14:30,Denver,Abiola Akintola,Foul,50,54
+14:30,Denver,Abiola Akintola,Turnover,50,54
+14:30,Omaha,None,None,50,54
+14:08,Denver,Defensive Rebound.,Defensive Rebound,50,54
+14:08,Omaha,JT Gibson,Missed Three Point Jumper,50,54
+13:51,Denver,missed Layup.,Missed Layup,50,54
+13:51,Omaha,Wanjang Tut,Block,50,54
+13:49,Omaha,Zach Thornhill,Defensive Rebound,50,54
+13:47,Omaha,Ayo Akinwole,Missed Layup,50,54
+13:47,Omaha,Zach Thornhill,Offensive Rebound,50,54
+13:44,Omaha,None,None,50,56
+13:31,Denver,made Layup.,Layup,52,56
+13:17,Omaha,JT Gibson,Jumper,52,58
+13:02,Denver,Donoven Carlisle,Missed Three Point Jumper,52,58
+13:02,Omaha,JT Gibson,Defensive Rebound,52,58
+12:56,Omaha,Wanjang Tut,Layup,52,60
+12:32,Denver,Abiola Akintola,Layup,54,60
+12:12,Denver,Ade Murkey,Foul,54,60
+12:12,Omaha,JT Gibson,Free Throw,54,61
+12:12,Omaha,JT Gibson,Missed Free Throw,54,61
+12:12,Denver,Donoven Carlisle,Defensive Rebound,54,61
+11:55,Denver,Ade Murkey,Layup,56,61
+11:55,Omaha,Wanjang Tut,Foul,56,61
+11:55,Omaha,None,None,56,61
+11:55,Denver,Ade Murkey,Free Throw,57,61
+11:46,Omaha,Wanjang Tut,Turnover,57,61
+11:35,Denver,Turnover.,Turnover,57,61
+11:34,Omaha,Ayo Akinwole,Steal,57,61
+11:33,Denver,Joe Rosga,Foul,57,61
+11:20,Omaha,Zach Jackson,Three Point Jumper,57,64
+10:52,Denver,Tory Stewart-Miller,Turnover,57,64
+10:42,Omaha,Wanjang Tut,Turnover,57,64
+10:41,Denver,Ade Murkey,Steal,57,64
+10:38,Denver,Ade Murkey,Missed Layup,57,64
+10:38,Denver,Offensive Rebound.,Offensive Rebound,57,64
+10:34,Denver,made Layup.,Layup,59,64
+10:13,Omaha,Ayo Akinwole,Missed Jumper,59,64
+10:13,Denver,Donoven Carlisle,Defensive Rebound,59,64
+10:03,Denver,Tory Stewart-Miller,Foul,59,64
+10:03,Denver,Tory Stewart-Miller,Turnover,59,64
+9:35,Omaha,Zach Jackson,Missed Jumper,59,64
+9:35,Denver,Defensive Rebound.,Defensive Rebound,59,64
+9:23,Denver,Donoven Carlisle,Layup,61,64
+9:08,Omaha,Ayo Akinwole,Jumper,61,66
+8:49,Denver,Abiola Akintola,Layup,63,66
+8:49,Omaha,Matt Pile,Foul,63,66
+8:49,Denver,Abiola Akintola,Missed Free Throw,63,66
+8:49,Omaha,Mitchell Hahn,Defensive Rebound,63,66
+8:31,Omaha,Zach Jackson,Three Point Jumper,63,69
+8:18,Denver,made Jumper.,Jumper,65,69
+7:59,Omaha,Matt Pile,Layup,65,71
+7:59,Denver,Donoven Carlisle,Foul,65,71
+7:59,Omaha,None,None,65,71
+7:59,Omaha,Matt Pile,Free Throw,65,72
+7:46,Denver,made Three Point Jumper. Assisted by Joe Rosga.,Three Point Jumper,68,72
+7:23,Omaha,Brett Barney,Three Point Jumper,68,75
+7:00,Denver,Joe Rosga,Missed Three Point Jumper,68,75
+7:00,Omaha,Mitchell Hahn,Defensive Rebound,68,75
+6:44,Omaha,Zach Jackson,Missed Three Point Jumper,68,75
+6:44,Denver,Defensive Rebound.,Defensive Rebound,68,75
+6:35,Denver,made Layup.,Layup,70,75
+6:20,Omaha,Zach Jackson,Missed Jumper,70,75
+6:20,Denver,Donoven Carlisle,Defensive Rebound,70,75
+6:13,Denver,Abiola Akintola,Missed Layup,70,75
+6:13,Denver,Abiola Akintola,Offensive Rebound,70,75
+6:08,Denver,Abiola Akintola,Turnover,70,75
+5:39,Omaha,Ayo Akinwole,Three Point Jumper,70,78
+5:18,Denver,made Three Point Jumper. Assisted by Joe Rosga.,Three Point Jumper,73,78
+4:54,Omaha,JT Gibson,Three Point Jumper,73,81
+4:34,Omaha,JT Gibson,Foul,73,81
+4:28,Denver,Ade Murkey,Turnover,73,81
+4:08,Omaha,Matt Pile,Jumper,73,83
+4:02,Denver,None,None,73,83
+4:02,Omaha,None,None,73,83
+3:44,Denver,Ade Murkey,Missed Layup,73,83
+3:44,Denver,Abiola Akintola,Offensive Rebound,73,83
+3:41,Omaha,Matt Pile,Foul,73,83
+3:41,Denver,Abiola Akintola,Missed Free Throw,73,83
+3:41,Denver,None,Team Rebound,73,83
+3:41,Denver,Abiola Akintola,Missed Free Throw,73,83
+3:41,Omaha,Matt Pile,Defensive Rebound,73,83
+3:22,Omaha,Ayo Akinwole,Missed Three Point Jumper,73,83
+3:22,Omaha,Zach Jackson,Offensive Rebound,73,83
+2:53,Omaha,Mitchell Hahn,Missed Three Point Jumper,73,83
+2:53,Denver,Defensive Rebound.,Defensive Rebound,73,83
+2:44,Denver,Joe Rosga,Three Point Jumper,76,83
+2:28,Omaha,Ayo Akinwole,Foul,76,83
+2:28,Omaha,Ayo Akinwole,Turnover,76,83
+2:19,Denver,Joe Rosga,Missed Layup,76,83
+2:19,Omaha,Zach Jackson,Defensive Rebound,76,83
+2:18,Denver,Abiola Akintola,Foul,76,83
+2:18,Omaha,Zach Jackson,Free Throw,76,84
+2:18,Omaha,Zach Jackson,Free Throw,76,85
+2:07,Denver,Ade Murkey,Missed Layup,76,85
+2:07,Denver,Joe Rosga,Offensive Rebound,76,85
+2:03,Denver,Joe Rosga,Layup,78,85
+1:32,Omaha,KJ Robinson,Missed Jumper,78,85
+1:32,Omaha,Brett Barney,Offensive Rebound,78,85
+1:30,Omaha,None,None,78,85
+1:30,Denver,Ade Murkey,Defensive Rebound,78,85
+1:24,Denver,Joe Rosga,Turnover,78,85
+1:19,Denver,Ade Murkey,Foul,78,85
+1:19,Omaha,Ayo Akinwole,Free Throw,78,86
+1:19,Omaha,Ayo Akinwole,Missed Free Throw,78,86
+1:19,Denver,Donoven Carlisle,Defensive Rebound,78,86
+1:13,Denver,made Layup.,Layup,80,86
+1:01,Denver,Donoven Carlisle,Foul,80,86
+1:01,Omaha,Ayo Akinwole,Free Throw,80,87
+1:01,Omaha,Ayo Akinwole,Free Throw,80,88
+0:56,Denver,Ade Murkey,Layup,82,88
+0:54,Omaha,None,None,82,88
+0:49,Denver,Donoven Carlisle,Foul,82,88
+0:49,Omaha,Ayo Akinwole,Free Throw,82,89
+0:49,Omaha,Ayo Akinwole,Free Throw,82,90
+0:42,Denver,missed Three Point Jumper.,Missed Three Point Jumper,82,90
+0:42,Omaha,Mitchell Hahn,Defensive Rebound,82,90
+0:37,Denver,Donoven Carlisle,Foul,82,90
+0:37,Omaha,Mitchell Hahn,Free Throw,82,91
+0:37,Omaha,Mitchell Hahn,Missed Free Throw,82,91
+0:37,Denver,Abiola Akintola,Defensive Rebound,82,91
+0:27,Denver,Ade Murkey,Missed Layup,82,91
+0:27,Denver,Donoven Carlisle,Offensive Rebound,82,91
+0:25,Denver,None,None,84,91
+0:00,Omaha,None,None,84,91

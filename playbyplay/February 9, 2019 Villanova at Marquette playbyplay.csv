@@ -1,0 +1,283 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Villanova,None,None,0,0
+19:51,Villanova,Collin Gillespie,Three Point Jumper,3,0
+19:18,Marquette,Sacar Anim,Layup,3,2
+18:47,Villanova,Phil Booth,Missed Three Point Jumper,3,2
+18:47,Villanova,Saddiq Bey,Offensive Rebound,3,2
+18:35,Villanova,Eric Paschall,Missed Jumper,3,2
+18:35,Marquette,Sam Hauser,Defensive Rebound,3,2
+18:24,Marquette,Joey Hauser,Turnover,3,2
+18:24,Villanova,Saddiq Bey,Steal,3,2
+18:16,Marquette,Markus Howard,Foul,3,2
+18:16,Villanova,Phil Booth,Free Throw,4,2
+18:16,Villanova,Phil Booth,Free Throw,5,2
+18:05,Marquette,Markus Howard,Missed Jumper,5,2
+18:05,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,5,2
+17:37,Villanova,Dhamir Cosby-Roundtree,Missed Layup,5,2
+17:37,Marquette,Theo John,Block,5,2
+17:37,Marquette,Theo John,Defensive Rebound,5,2
+17:12,Marquette,Theo John,Missed Jumper,5,2
+17:12,Marquette,Markus Howard,Offensive Rebound,5,2
+17:09,Marquette,Markus Howard,Three Point Jumper,5,5
+16:38,Villanova,Saddiq Bey,Missed Three Point Jumper,5,5
+16:38,Marquette,Theo John,Defensive Rebound,5,5
+16:29,Marquette,Sacar Anim,Missed Three Point Jumper,5,5
+16:29,Marquette,Theo John,Offensive Rebound,5,5
+16:24,Marquette,Sam Hauser,Missed Three Point Jumper,5,5
+16:24,Villanova,Phil Booth,Defensive Rebound,5,5
+16:05,Marquette,Joey Hauser,Foul,5,5
+15:55,Villanova,Joe Cremo,Turnover,5,5
+15:55,Marquette,Ed Morrow,Steal,5,5
+15:53,Marquette,None,None,5,5
+15:29,Marquette,Markus Howard,Missed Layup,5,5
+15:29,Villanova,Collin Gillespie,Defensive Rebound,5,5
+15:15,Villanova,Eric Paschall,Missed Three Point Jumper,5,5
+15:15,Marquette,Markus Howard,Defensive Rebound,5,5
+15:07,Marquette,Markus Howard,Missed Three Point Jumper,5,5
+15:07,Villanova,Eric Paschall,Defensive Rebound,5,5
+14:39,Marquette,None,None,5,5
+14:39,Villanova,Phil Booth,Turnover,5,5
+14:39,Marquette,Brendan Bailey,Steal,5,5
+14:17,Marquette,Markus Howard,Jumper,5,7
+14:17,Villanova,Phil Booth,Foul,5,7
+14:17,Marquette,Markus Howard,Free Throw,5,8
+13:58,Villanova,Collin Gillespie,Missed Three Point Jumper,5,8
+13:58,Marquette,Joseph Chartouny,Defensive Rebound,5,8
+13:49,Marquette,Markus Howard,Jumper,5,10
+13:26,Villanova,Eric Paschall,Jumper,7,10
+13:07,Marquette,Markus Howard,Missed Three Point Jumper,7,10
+13:07,Villanova,Eric Paschall,Defensive Rebound,7,10
+12:54,Villanova,Phil Booth,Jumper,9,10
+12:29,Marquette,Brendan Bailey,Layup,9,12
+11:50,Villanova,Villanova ,Turnover,9,12
+11:49,Marquette,None,None,9,12
+11:35,Marquette,Sacar Anim,Missed Layup,9,12
+11:35,Villanova,Dhamir Cosby-Roundtree,Block,9,12
+11:35,Marquette,Marquette,Offensive Rebound,9,12
+11:24,Marquette,Joseph Chartouny,Turnover,9,12
+11:24,Villanova,Collin Gillespie,Steal,9,12
+11:10,Villanova,Collin Gillespie,Missed Layup,9,12
+11:10,Marquette,Theo John,Block,9,12
+11:10,Villanova,Villanova,Offensive Rebound,9,12
+11:04,Villanova,Collin Gillespie,Missed Three Point Jumper,9,12
+11:04,Marquette,Theo John,Defensive Rebound,9,12
+10:50,Marquette,Joey Hauser,Missed Jumper,9,12
+10:50,Villanova,Eric Paschall,Defensive Rebound,9,12
+10:30,Villanova,Phil Booth,Missed Three Point Jumper,9,12
+10:30,Marquette,Theo John,Defensive Rebound,9,12
+10:22,Marquette,Markus Howard,Three Point Jumper,9,15
+9:54,Villanova,Phil Booth,Missed Three Point Jumper,9,15
+9:54,Marquette,Markus Howard,Defensive Rebound,9,15
+9:36,Marquette,Markus Howard,Turnover,9,15
+9:21,Villanova,Eric Paschall,Jumper,11,15
+9:10,Marquette,Joey Hauser,Turnover,11,15
+9:10,Villanova,Saddiq Bey,Steal,11,15
+8:57,Marquette,Theo John,Foul,11,15
+8:57,Villanova,Phil Booth,Free Throw,12,15
+8:57,Villanova,Phil Booth,Missed Free Throw,12,15
+8:57,Marquette,Joey Hauser,Defensive Rebound,12,15
+8:35,Marquette,Markus Howard,Jumper,12,17
+8:17,Villanova,Joe Cremo,Missed Jumper,12,17
+8:17,Marquette,Theo John,Defensive Rebound,12,17
+8:08,Marquette,Sacar Anim,Three Point Jumper,12,20
+8:04,Villanova,None,None,12,20
+7:44,Villanova,Phil Booth,Missed Jumper,12,20
+7:44,Villanova,Saddiq Bey,Offensive Rebound,12,20
+7:39,Villanova,Phil Booth,Layup,14,20
+7:18,Marquette,Markus Howard,Missed Three Point Jumper,14,20
+7:18,Marquette,Sacar Anim,Offensive Rebound,14,20
+7:06,Marquette,Sam Hauser,Missed Layup,14,20
+7:06,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,14,20
+7:04,Villanova,Dhamir Cosby-Roundtree,Turnover,14,20
+6:46,Marquette,Markus Howard,Missed Jumper,14,20
+6:46,Villanova,Eric Paschall,Defensive Rebound,14,20
+6:31,Marquette,Brendan Bailey,Foul,14,20
+6:28,Villanova,Eric Paschall,Three Point Jumper,17,20
+6:00,Marquette,Ed Morrow,Missed Jumper,17,20
+6:00,Marquette,Brendan Bailey,Offensive Rebound,17,20
+6:00,Marquette,Brendan Bailey,Layup,17,22
+6:00,Villanova,Jermaine Samuels,Foul,17,22
+6:00,Marquette,Brendan Bailey,Missed Free Throw,17,22
+6:00,Villanova,Phil Booth,Defensive Rebound,17,22
+5:48,Villanova,Collin Gillespie,Missed Three Point Jumper,17,22
+5:48,Marquette,Sam Hauser,Defensive Rebound,17,22
+5:41,Marquette,Markus Howard,Three Point Jumper,17,25
+5:04,Villanova,Phil Booth,Missed Three Point Jumper,17,25
+5:04,Villanova,Jermaine Samuels,Offensive Rebound,17,25
+5:00,Villanova,None,None,17,25
+4:57,Villanova,Phil Booth,Missed Three Point Jumper,17,25
+4:57,Villanova,Jermaine Samuels,Offensive Rebound,17,25
+4:52,Villanova,Jermaine Samuels,Dunk,19,25
+4:32,Marquette,Markus Howard,Missed Jumper,19,25
+4:32,Marquette,Ed Morrow,Offensive Rebound,19,25
+4:27,Marquette,None,None,19,25
+4:25,Marquette,Markus Howard,Three Point Jumper,19,28
+4:01,Villanova,Saddiq Bey,Missed Three Point Jumper,19,28
+4:01,Marquette,Theo John,Defensive Rebound,19,28
+3:47,Marquette,Markus Howard,Missed Three Point Jumper,19,28
+3:47,Villanova,Saddiq Bey,Defensive Rebound,19,28
+3:31,Villanova,Phil Booth,Layup,21,28
+3:08,Marquette,Joey Hauser,Missed Jumper,21,28
+3:08,Villanova,Saddiq Bey,Defensive Rebound,21,28
+2:42,Villanova,Saddiq Bey,Missed Jumper,21,28
+2:42,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,21,28
+2:36,Villanova,Dhamir Cosby-Roundtree,Dunk,23,28
+2:21,Marquette,Joey Hauser,Missed Three Point Jumper,23,28
+2:21,Villanova,Joe Cremo,Defensive Rebound,23,28
+2:08,Marquette,Brendan Bailey,Foul,23,28
+2:08,Marquette,None,None,23,28
+2:02,Marquette,Theo John,Foul,23,28
+1:44,Villanova,Eric Paschall,Jumper,25,28
+1:11,Marquette,Markus Howard,Layup,25,30
+0:48,Marquette,Ed Morrow,Foul,25,30
+0:48,Villanova,Phil Booth,Missed Free Throw,25,30
+0:48,Villanova,None,Team Rebound,25,30
+0:48,Villanova,Phil Booth,Free Throw,26,30
+0:48,Villanova,Phil Booth,Missed Free Throw,26,30
+0:48,Marquette,Joey Hauser,Defensive Rebound,26,30
+0:45,Villanova,Phil Booth,Foul,26,30
+0:45,Marquette,None,None,26,30
+0:37,Marquette,Sacar Anim,Turnover,26,30
+0:37,Villanova,Jermaine Samuels,Steal,26,30
+0:09,Villanova,Eric Paschall,Missed Jumper,26,30
+0:09,Villanova,Jermaine Samuels,Offensive Rebound,26,30
+0:04,Villanova,Collin Gillespie,Missed Three Point Jumper,26,30
+0:04,Marquette,Ed Morrow,Defensive Rebound,26,30
+0:00,Marquette,None,None,26,30
+20:00,Villanova,None,None,26,30
+19:53,Villanova,Jermaine Samuels,Missed Three Point Jumper,26,30
+19:53,Marquette,Markus Howard,Defensive Rebound,26,30
+19:39,Marquette,Theo John,Layup,26,32
+19:19,Villanova,Eric Paschall,Foul,26,32
+19:19,Villanova,Eric Paschall,Turnover,26,32
+19:04,Marquette,Sam Hauser,Foul,26,32
+19:04,Marquette,Sam Hauser,Turnover,26,32
+18:50,Villanova,Saddiq Bey,Three Point Jumper,29,32
+18:38,Marquette,Sacar Anim,Layup,29,34
+18:15,Villanova,Eric Paschall,Missed Three Point Jumper,29,34
+18:15,Marquette,Markus Howard,Defensive Rebound,29,34
+18:05,Marquette,Sam Hauser,Jumper,29,36
+17:36,Villanova,Eric Paschall,Missed Jumper,29,36
+17:36,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,29,36
+17:31,Villanova,Dhamir Cosby-Roundtree,Turnover,29,36
+17:31,Marquette,Sam Hauser,Steal,29,36
+17:18,Marquette,Sacar Anim,Jumper,29,38
+16:57,Villanova,Phil Booth,Missed Three Point Jumper,29,38
+16:57,Marquette,Sam Hauser,Defensive Rebound,29,38
+16:40,Marquette,Sam Hauser,Jumper,29,40
+16:04,Marquette,Theo John,Foul,29,40
+16:04,Villanova,Eric Paschall,Free Throw,30,40
+16:04,Villanova,Eric Paschall,Missed Free Throw,30,40
+16:04,Marquette,Ed Morrow,Defensive Rebound,30,40
+15:53,Marquette,Markus Howard,Jumper,30,42
+15:27,Villanova,Collin Gillespie,Jumper,32,42
+15:14,Marquette,Sacar Anim,Turnover,32,42
+15:14,Villanova,Eric Paschall,Steal,32,42
+15:08,Villanova,Collin Gillespie,Missed Jumper,32,42
+15:08,Villanova,Collin Gillespie,Offensive Rebound,32,42
+15:00,Marquette,None,None,32,42
+15:00,Villanova,Collin Gillespie,Turnover,32,42
+15:00,Marquette,Ed Morrow,Steal,32,42
+14:59,Marquette,None,None,32,42
+14:43,Marquette,Markus Howard,Three Point Jumper,32,45
+14:17,Villanova,Saddiq Bey,Missed Three Point Jumper,32,45
+14:17,Villanova,Villanova,Offensive Rebound,32,45
+14:05,Villanova,Collin Gillespie,Missed Three Point Jumper,32,45
+14:05,Marquette,None,Team Rebound,32,45
+14:00,Marquette,Markus Howard,Missed Jumper,32,45
+14:00,Villanova,Jermaine Samuels,Block,32,45
+14:00,Villanova,Phil Booth,Defensive Rebound,32,45
+13:52,Villanova,Phil Booth,Missed Layup,32,45
+13:52,Marquette,Ed Morrow,Defensive Rebound,32,45
+13:29,Villanova,Eric Paschall,Foul,32,45
+13:22,Marquette,Brendan Bailey,Missed Three Point Jumper,32,45
+13:22,Villanova,Joe Cremo,Defensive Rebound,32,45
+13:02,Villanova,Joe Cremo,Missed Three Point Jumper,32,45
+13:02,Marquette,Ed Morrow,Defensive Rebound,32,45
+12:51,Marquette,Sacar Anim,Jumper,32,47
+12:27,Villanova,Dhamir Cosby-Roundtree,Missed Jumper,32,47
+12:27,Marquette,Sacar Anim,Defensive Rebound,32,47
+12:16,Marquette,Markus Howard,Missed Three Point Jumper,32,47
+12:16,Marquette,Ed Morrow,Offensive Rebound,32,47
+12:07,Villanova,None,None,32,47
+12:07,Marquette,Ed Morrow,Turnover,32,47
+12:07,Villanova,Joe Cremo,Steal,32,47
+11:49,Villanova,Joe Cremo,Three Point Jumper,35,47
+11:30,Marquette,Joey Hauser,Missed Jumper,35,47
+11:30,Villanova,Jermaine Samuels,Defensive Rebound,35,47
+11:20,Marquette,Matt Heldt,Foul,35,47
+11:20,Marquette,None,None,35,47
+11:09,Villanova,Eric Paschall,Layup,37,47
+10:48,Villanova,Saddiq Bey,Foul,37,47
+10:48,Marquette,Theo John,Missed Free Throw,37,47
+10:48,Marquette,None,Team Rebound,37,47
+10:48,Marquette,Theo John,Missed Free Throw,37,47
+10:48,Villanova,Eric Paschall,Defensive Rebound,37,47
+10:28,Villanova,Saddiq Bey,Jumper,39,47
+10:11,Marquette,Markus Howard,Foul,39,47
+10:11,Marquette,Markus Howard,Turnover,39,47
+9:47,Villanova,Saddiq Bey,Three Point Jumper,42,47
+9:33,Marquette,None,None,42,47
+9:21,Marquette,Markus Howard,Jumper,42,49
+8:55,Villanova,Phil Booth,Missed Layup,42,49
+8:55,Marquette,Joey Hauser,Defensive Rebound,42,49
+8:42,Villanova,Joe Cremo,Foul,42,49
+8:42,Marquette,Markus Howard,Free Throw,42,50
+8:42,Marquette,Markus Howard,Free Throw,42,51
+8:33,Marquette,Theo John,Foul,42,51
+8:33,Villanova,Eric Paschall,Free Throw,43,51
+8:33,Villanova,Eric Paschall,Free Throw,44,51
+8:18,Marquette,Sacar Anim,Layup,44,53
+8:00,Villanova,Jermaine Samuels,Three Point Jumper,47,53
+7:29,Marquette,Markus Howard,Turnover,47,53
+7:29,Villanova,Phil Booth,Steal,47,53
+7:20,Villanova,Eric Paschall,Three Point Jumper,50,53
+7:01,Marquette,Markus Howard,Turnover,50,53
+7:01,Villanova,Phil Booth,Steal,50,53
+6:56,Marquette,Brendan Bailey,Foul,50,53
+6:56,Marquette,None,None,50,53
+6:56,Villanova,Saddiq Bey,Free Throw,51,53
+6:56,Villanova,Saddiq Bey,Free Throw,52,53
+6:38,Marquette,Ed Morrow,Missed Layup,52,53
+6:38,Villanova,Jermaine Samuels,Block,52,53
+6:38,Villanova,Saddiq Bey,Defensive Rebound,52,53
+6:25,Villanova,Jermaine Samuels,Three Point Jumper,55,53
+5:55,Villanova,Collin Gillespie,Foul,55,53
+5:55,Marquette,Markus Howard,Free Throw,55,54
+5:55,Marquette,Markus Howard,Free Throw,55,55
+5:37,Villanova,Eric Paschall,Missed Jumper,55,55
+5:37,Marquette,Joey Hauser,Defensive Rebound,55,55
+5:16,Marquette,Markus Howard,Layup,55,57
+4:51,Marquette,Theo John,Foul,55,57
+4:51,Villanova,Jermaine Samuels,Missed Free Throw,55,57
+4:51,Villanova,None,Team Rebound,55,57
+4:51,Villanova,Jermaine Samuels,Free Throw,56,57
+4:43,Marquette,Sacar Anim,Three Point Jumper,56,60
+4:14,Villanova,Phil Booth,Three Point Jumper,59,60
+3:45,Marquette,Sacar Anim,Jumper,59,62
+3:24,Villanova,Jermaine Samuels,Missed Three Point Jumper,59,62
+3:24,Marquette,Markus Howard,Defensive Rebound,59,62
+3:11,Marquette,Markus Howard,Layup,59,64
+3:07,Villanova,None,None,59,64
+2:54,Villanova,Eric Paschall,Turnover,59,64
+2:37,Marquette,Sam Hauser,Missed Three Point Jumper,59,64
+2:37,Villanova,Eric Paschall,Defensive Rebound,59,64
+2:19,Villanova,Phil Booth,Jumper,61,64
+1:59,Villanova,Dhamir Cosby-Roundtree,Foul,61,64
+1:50,Marquette,Markus Howard,Missed Three Point Jumper,61,64
+1:50,Villanova,Jermaine Samuels,Defensive Rebound,61,64
+1:36,Villanova,Phil Booth,Jumper,63,64
+1:21,Marquette,None,None,63,64
+1:08,Marquette,Sam Hauser,Missed Jumper,63,64
+1:08,Villanova,Saddiq Bey,Defensive Rebound,63,64
+0:57,Villanova,Eric Paschall,Missed Three Point Jumper,63,64
+0:53,Villanova,Jermaine Samuels,Foul,63,64
+0:53,Marquette,Markus Howard,Free Throw,63,65
+0:53,Marquette,Markus Howard,Free Throw,63,66
+0:45,Villanova,Phil Booth,Jumper,65,66
+0:16,Marquette,Markus Howard,Turnover,65,66
+0:16,Villanova,Saddiq Bey,Steal,65,66
+0:14,Villanova,None,None,65,66
+0:02,Villanova,Jermaine Samuels,Missed Jumper,65,66
+0:02,Villanova,None,Team Rebound,65,66
+0:00,Marquette,None,None,65,66

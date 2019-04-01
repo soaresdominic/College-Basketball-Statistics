@@ -1,0 +1,337 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:49,Yale,Jordan Bruner,Turnover,0,0
+19:41,Bryant,Patrick Harding,Turnover,0,0
+19:36,Yale,Blake Reynolds,Three Point Jumper,3,0
+19:28,Bryant,Joe Kasperzyk,Missed Three Point Jumper,3,0
+19:15,Bryant,Patrick Harding,Offensive Rebound,3,0
+19:13,Bryant,Byron Hawkins,Missed Jumper,3,0
+19:10,Yale,Alex Copeland,Defensive Rebound,3,0
+19:07,Yale,Alex Copeland,Missed Jumper,3,0
+19:03,Bryant,SaBastian Townes,Defensive Rebound,3,0
+18:54,Bryant,SaBastian Townes,Three Point Jumper,3,3
+18:34,Yale,Blake Reynolds,Turnover,3,3
+18:18,Bryant,Adam Grant,Missed Jumper,3,3
+18:11,Yale,Blake Reynolds,Defensive Rebound,3,3
+18:03,Yale,Alex Copeland,Three Point Jumper,6,3
+17:45,Bryant,SaBastian Townes,Layup,6,5
+17:45,Yale,Jordan Bruner,Foul,6,5
+17:45,Bryant,SaBastian Townes,Free Throw,6,6
+17:18,Yale,Trey Phills,Layup,8,6
+16:58,Bryant,Patrick Harding,Foul,8,6
+16:58,Bryant,Patrick Harding,Turnover,8,6
+16:42,Yale,Jordan Bruner,Three Point Jumper,11,6
+16:14,Bryant,SaBastian Townes,Missed Jumper,11,6
+16:12,Bryant,Patrick Harding,Offensive Rebound,11,6
+16:12,Bryant,Patrick Harding,Foul,11,6
+16:12,Bryant,Patrick Harding,Turnover,11,6
+15:46,Yale,Jordan Bruner,Layup,13,6
+15:11,Bryant,Byron Hawkins,Missed Three Point Jumper,13,6
+15:11,Yale,Miye Oni,Block,13,6
+15:04,Yale,Jordan Bruner,Defensive Rebound,13,6
+15:00,Yale,Trey Phills,Missed Three Point Jumper,13,6
+14:54,Bryant,Joe Kasperzyk,Defensive Rebound,13,6
+14:52,Bryant,Brandon Carroll,Layup,13,8
+14:43,Yale,Miye Oni,Three Point Jumper,16,8
+14:38,Bryant,Brandon Carroll,Foul,16,8
+14:38,Bryant,None,None,16,8
+14:38,Bryant,Brandon Carroll,Turnover,16,8
+14:23,Yale,Miye Oni,Three Point Jumper,19,8
+14:07,Bryant,Adam Grant,Missed Jumper,19,8
+14:07,Yale,Trey Phills,Block,19,8
+14:04,Yale,Trey Phills,Defensive Rebound,19,8
+14:04,Bryant,Brandon Carroll,Foul,19,8
+13:56,Yale,Paul Atkinson,Layup,21,8
+13:49,Bryant,Juan Cardenas,Foul,21,8
+13:49,Bryant,Juan Cardenas,Turnover,21,8
+13:38,Yale,Miye Oni,Missed Layup,21,8
+13:27,Yale,Jordan Bruner,Offensive Rebound,21,8
+13:27,Yale,Jordan Bruner,Layup,23,8
+13:08,Yale,Paul Atkinson,Foul,23,8
+13:06,Bryant,SaBastian Townes,Missed Jumper,23,8
+13:01,Yale,Azar Swain,Defensive Rebound,23,8
+12:56,Yale,Paul Atkinson,Layup,25,8
+12:38,Bryant,Nino Hernandez,Turnover,25,8
+12:31,Yale,Blake Reynolds,Three Point Jumper,28,8
+12:26,Bryant,None,None,28,8
+12:26,Bryant,None,None,28,8
+12:11,Bryant,SaBastian Townes,Three Point Jumper,28,11
+11:51,Yale,Miye Oni,Three Point Jumper,31,11
+11:41,Yale,Paul Atkinson,Foul,31,11
+11:18,Bryant,Juan Cardenas,Missed Three Point Jumper,31,11
+11:12,Yale,Blake Reynolds,Defensive Rebound,31,11
+11:03,Yale,Isaiah Kelly,Missed Layup,31,11
+10:59,Bryant,Byron Hawkins,Defensive Rebound,31,11
+10:57,Bryant,Byron Hawkins,Missed Layup,31,11
+10:57,Yale,Miye Oni,Block,31,11
+10:57,Bryant,Bryant,Offensive Rebound,31,11
+10:52,Bryant,Taylor McHugh,Three Point Jumper,31,14
+10:37,Yale,Blake Reynolds,Turnover,31,14
+10:37,Bryant,SaBastian Townes,Steal,31,14
+10:26,Bryant,Byron Hawkins,Turnover,31,14
+10:26,Yale,Alex Copeland,Steal,31,14
+10:21,Yale,Alex Copeland,Missed Layup,31,14
+10:21,Bryant,Juan Cardenas,Block,31,14
+10:21,Bryant,Bryant,Defensive Rebound,31,14
+10:07,Bryant,Adam Grant,Missed Three Point Jumper,31,14
+10:02,Yale,Azar Swain,Defensive Rebound,31,14
+9:49,Yale,Blake Reynolds,Missed Layup,31,14
+9:44,Bryant,Juan Cardenas,Defensive Rebound,31,14
+9:39,Bryant,Adam Grant,Missed Jumper,31,14
+9:34,Yale,Isaiah Kelly,Defensive Rebound,31,14
+9:15,Yale,Alex Copeland,Missed Jumper,31,14
+9:10,Bryant,Juan Cardenas,Defensive Rebound,31,14
+8:57,Bryant,Joe Kasperzyk,Turnover,31,14
+8:49,Bryant,Byron Hawkins,Foul,31,14
+8:49,Yale,Trey Phills,Free Throw,32,14
+8:49,Yale,Trey Phills,Free Throw,33,14
+8:35,Bryant,SaBastian Townes,Missed Three Point Jumper,33,14
+8:30,Yale,Azar Swain,Defensive Rebound,33,14
+8:24,Yale,Azar Swain,Missed Three Point Jumper,33,14
+8:22,Yale,Yale,Offensive Rebound,33,14
+8:22,Bryant,Taylor McHugh,Foul,33,14
+8:22,Yale,Isaiah Kelly,Free Throw,34,14
+8:19,Yale,Isaiah Kelly,Missed Free Throw,34,14
+8:17,Bryant,Joe Kasperzyk,Defensive Rebound,34,14
+8:13,Bryant,Joe Kasperzyk,Foul,34,14
+8:13,Bryant,Joe Kasperzyk,Turnover,34,14
+8:00,Yale,Jordan Bruner,Layup,36,14
+8:00,Bryant,Taylor McHugh,Foul,36,14
+8:00,Bryant,None,None,36,14
+8:00,Yale,Jordan Bruner,Missed Free Throw,36,14
+7:57,Bryant,Patrick Harding,Defensive Rebound,36,14
+7:38,Bryant,Byron Hawkins,Jumper,36,16
+7:20,Yale,Jordan Bruner,Turnover,36,16
+7:20,Bryant,SaBastian Townes,Steal,36,16
+7:16,Bryant,Joe Kasperzyk,Layup,36,18
+7:03,Yale,Trey Phills,Dunk,38,18
+6:54,Bryant,Byron Hawkins,Layup,38,20
+6:25,Yale,Jordan Bruner,Offensive Rebound,38,20
+6:24,Yale,Jordan Bruner,Turnover,38,20
+6:24,Bryant,Byron Hawkins,Steal,38,20
+6:20,Bryant,Joe Kasperzyk,Missed Layup,38,20
+6:20,Yale,Blake Reynolds,Block,38,20
+6:15,Yale,Jordan Bruner,Defensive Rebound,38,20
+6:14,Yale,Blake Reynolds,Missed Layup,38,20
+6:12,Bryant,Patrick Harding,Defensive Rebound,38,20
+6:12,Bryant,Patrick Harding,Turnover,38,20
+6:12,Yale,Jordan Bruner,Steal,38,20
+6:12,Yale,Jordan Bruner,Foul,38,20
+6:01,Bryant,Adam Grant,Missed Three Point Jumper,38,20
+5:57,Bryant,Byron Hawkins,Offensive Rebound,38,20
+5:55,Bryant,Byron Hawkins,Three Point Jumper,38,23
+5:40,Bryant,Adam Grant,Foul,38,23
+5:40,Yale,Miye Oni,Free Throw,39,23
+5:40,Yale,Miye Oni,Free Throw,40,23
+5:21,Bryant,Joe Kasperzyk,Missed Three Point Jumper,40,23
+5:17,Yale,Blake Reynolds,Defensive Rebound,40,23
+5:06,Yale,Austin Williams,Layup,42,23
+5:06,Bryant,Joe Kasperzyk,Foul,42,23
+5:05,Yale,Austin Williams,Missed Free Throw,42,23
+5:03,Bryant,Patrick Harding,Defensive Rebound,42,23
+4:43,Yale,Jalen Gabbidon,Foul,42,23
+4:43,Bryant,Adam Grant,Free Throw,42,24
+4:43,Bryant,Adam Grant,Free Throw,42,25
+4:29,Yale,Miye Oni,Turnover,42,25
+4:11,Yale,Alex Copeland,Foul,42,25
+4:06,Bryant,Byron Hawkins,Missed Jumper,42,25
+4:02,Bryant,Patrick Harding,Offensive Rebound,42,25
+4:02,Bryant,Patrick Harding,Layup,42,27
+3:42,Yale,Alex Copeland,Jumper,44,27
+3:28,Bryant,SaBastian Townes,Missed Jumper,44,27
+3:24,Yale,Jalen Gabbidon,Defensive Rebound,44,27
+3:19,Bryant,SaBastian Townes,Foul,44,27
+3:19,Bryant,None,None,44,27
+3:19,Yale,Blake Reynolds,Free Throw,45,27
+3:19,Yale,Blake Reynolds,Missed Free Throw,45,27
+3:17,Bryant,Patrick Harding,Defensive Rebound,45,27
+2:59,Bryant,SaBastian Townes,Missed Jumper,45,27
+2:55,Bryant,Bryant,Offensive Rebound,45,27
+2:46,Bryant,Byron Hawkins,Missed Layup,45,27
+2:42,Yale,Jalen Gabbidon,Defensive Rebound,45,27
+2:39,Yale,Miye Oni,Missed Layup,45,27
+2:30,Yale,Austin Williams,Offensive Rebound,45,27
+2:30,Yale,Austin Williams,Layup,47,27
+2:29,Bryant,Byron Hawkins,Three Point Jumper,47,30
+2:14,Yale,Blake Reynolds,Layup,49,30
+2:08,Yale,Miye Oni,Foul,49,30
+2:08,Bryant,Byron Hawkins,Free Throw,49,31
+2:08,Bryant,Byron Hawkins,Free Throw,49,32
+1:49,Yale,Miye Oni,Missed Three Point Jumper,49,32
+1:45,Bryant,Taylor McHugh,Defensive Rebound,49,32
+1:40,Bryant,SaBastian Townes,Missed Three Point Jumper,49,32
+1:35,Yale,Azar Swain,Defensive Rebound,49,32
+1:29,Yale,Paul Atkinson,Missed Layup,49,32
+1:22,Bryant,Byron Hawkins,Defensive Rebound,49,32
+1:20,Bryant,Byron Hawkins,Layup,49,34
+0:58,Yale,Miye Oni,Turnover,49,34
+0:39,Bryant,Taylor McHugh,Turnover,49,34
+0:39,Yale,Azar Swain,Steal,49,34
+0:38,Yale,None,None,49,34
+0:29,Yale,Azar Swain,Three Point Jumper,52,34
+0:00,Bryant,Byron Hawkins,Missed Three Point Jumper,52,34
+0:00,Bryant,Bryant,Offensive Rebound,52,34
+0:00,Bryant,None,None,52,34
+19:47,Bryant,Byron Hawkins,Missed Three Point Jumper,52,34
+19:42,Yale,Blake Reynolds,Defensive Rebound,52,34
+19:19,Yale,Jordan Bruner,Three Point Jumper,55,34
+19:09,Bryant,Patrick Harding,Foul,55,34
+19:09,Bryant,Patrick Harding,Turnover,55,34
+18:57,Yale,Blake Reynolds,Turnover,55,34
+18:57,Bryant,Byron Hawkins,Steal,55,34
+18:51,Bryant,Byron Hawkins,Missed Three Point Jumper,55,34
+18:46,Yale,Alex Copeland,Defensive Rebound,55,34
+18:45,Yale,Miye Oni,Foul,55,34
+18:45,Yale,Miye Oni,Turnover,55,34
+18:21,Bryant,SaBastian Townes,Missed Layup,55,34
+18:16,Bryant,Patrick Harding,Offensive Rebound,55,34
+18:14,Bryant,Byron Hawkins,Missed Three Point Jumper,55,34
+18:11,Yale,Alex Copeland,Defensive Rebound,55,34
+18:09,Yale,Blake Reynolds,Missed Layup,55,34
+18:00,Yale,Jordan Bruner,Offensive Rebound,55,34
+18:00,Yale,Jordan Bruner,Dunk,57,34
+17:49,Bryant,Joe Kasperzyk,Layup,57,36
+17:34,Yale,Jordan Bruner,Dunk,59,36
+17:33,Yale,Jordan Bruner,Foul,59,36
+17:33,Bryant,Adam Grant,Free Throw,59,37
+17:10,Bryant,SaBastian Townes,Foul,59,37
+17:10,Bryant,SaBastian Townes,Turnover,59,37
+16:54,Yale,Miye Oni,Missed Three Point Jumper,59,37
+16:50,Yale,Miye Oni,Offensive Rebound,59,37
+16:49,Yale,Miye Oni,Missed Layup,59,37
+16:49,Yale,Yale,Offensive Rebound,59,37
+16:49,Bryant,Brandon Carroll,Foul,59,37
+16:49,Yale,Blake Reynolds,Free Throw,60,37
+16:49,Yale,Blake Reynolds,Free Throw,61,37
+16:39,Bryant,Adam Grant,Missed Three Point Jumper,61,37
+16:33,Yale,Jordan Bruner,Defensive Rebound,61,37
+16:24,Yale,Miye Oni,Layup,63,37
+16:14,Bryant,Byron Hawkins,Turnover,63,37
+16:14,Yale,Alex Copeland,Steal,63,37
+15:59,Yale,Blake Reynolds,Missed Three Point Jumper,63,37
+15:54,Bryant,Joe Kasperzyk,Defensive Rebound,63,37
+15:45,Bryant,None,None,63,37
+15:44,Bryant,Joe Kasperzyk,Turnover,63,37
+15:44,Bryant,Joe Kasperzyk,Foul,63,37
+15:44,Bryant,None,None,63,37
+15:32,Yale,Azar Swain,Turnover,63,37
+15:32,Bryant,Monty Urmilevicius,Steal,63,37
+15:16,Bryant,Byron Hawkins,Missed Three Point Jumper,63,37
+15:11,Yale,Paul Atkinson,Defensive Rebound,63,37
+15:03,Yale,Jordan Bruner,Layup,65,37
+14:40,Bryant,SaBastian Townes,Missed Jumper,65,37
+14:34,Yale,Paul Atkinson,Defensive Rebound,65,37
+14:27,Yale,Jordan Bruner,Missed Three Point Jumper,65,37
+14:25,Yale,Yale,Offensive Rebound,65,37
+14:21,Yale,Paul Atkinson,Layup,67,37
+13:59,Bryant,Adam Grant,Layup,67,39
+13:46,Bryant,Adam Grant,Foul,67,39
+13:38,Yale,Miye Oni,Layup,69,39
+13:18,Bryant,Juan Cardenas,Missed Three Point Jumper,69,39
+13:14,Yale,Miye Oni,Defensive Rebound,69,39
+13:10,Yale,Azar Swain,Three Point Jumper,72,39
+13:08,Bryant,None,None,72,39
+13:08,Bryant,None,None,72,39
+13:06,Bryant,None,None,72,39
+12:50,Bryant,Byron Hawkins,Missed Layup,72,39
+12:46,Yale,Paul Atkinson,Defensive Rebound,72,39
+12:29,Bryant,Adam Grant,Foul,72,39
+12:25,Yale,Paul Atkinson,Layup,74,39
+11:59,Bryant,SaBastian Townes,Layup,74,41
+11:44,Yale,Trey Phills,Layup,76,41
+11:40,Bryant,Taylor McHugh,Turnover,76,41
+11:19,Yale,Blake Reynolds,Foul,76,41
+11:19,Yale,Blake Reynolds,Turnover,76,41
+11:10,Yale,Jalen Gabbidon,Foul,76,41
+11:07,Bryant,Adam Grant,Missed Three Point Jumper,76,41
+11:02,Yale,Jalen Gabbidon,Defensive Rebound,76,41
+10:58,Yale,Blake Reynolds,Missed Layup,76,41
+10:55,Bryant,Patrick Harding,Defensive Rebound,76,41
+10:51,Bryant,Adam Grant,Three Point Jumper,76,44
+10:33,Yale,Azar Swain,Three Point Jumper,79,44
+10:21,Bryant,Adam Grant,Missed Three Point Jumper,79,44
+10:16,Yale,Jalen Gabbidon,Defensive Rebound,79,44
+10:02,Yale,Azar Swain,Three Point Jumper,82,44
+9:39,Bryant,Adam Grant,Turnover,82,44
+9:39,Yale,Azar Swain,Steal,82,44
+9:33,Yale,Jalen Gabbidon,Layup,84,44
+9:33,Bryant,None,None,84,44
+9:08,Bryant,SaBastian Townes,Missed Three Point Jumper,84,44
+9:03,Bryant,Adam Grant,Offensive Rebound,84,44
+8:56,Bryant,SaBastian Townes,Missed Jumper,84,44
+8:51,Yale,Blake Reynolds,Defensive Rebound,84,44
+8:37,Yale,Jalen Gabbidon,Three Point Jumper,87,44
+8:10,Bryant,Byron Hawkins,Missed Three Point Jumper,87,44
+8:06,Yale,Azar Swain,Defensive Rebound,87,44
+7:57,Bryant,Taylor McHugh,Defensive Rebound,87,44
+7:53,Bryant,Adam Grant,Layup,87,46
+7:19,Yale,Trey Phills,Foul,89,46
+7:19,Bryant,None,None,89,46
+7:19,Bryant,Adam Grant,Free Throw,89,47
+7:18,Bryant,Adam Grant,Missed Free Throw,89,47
+7:16,Yale,Azar Swain,Defensive Rebound,89,47
+7:00,Yale,Jameel Alausa,Turnover,89,47
+7:00,Bryant,Adam Grant,Steal,89,47
+6:57,Yale,Matthue Cotton,Foul,89,47
+6:57,Bryant,Adam Grant,Missed Free Throw,89,47
+6:57,Bryant,None,Team Rebound,89,47
+6:57,Bryant,Adam Grant,Free Throw,89,48
+6:30,Yale,Austin Williams,Jumper,91,48
+6:15,Bryant,Adam Grant,Layup,91,50
+6:11,Yale,None,None,91,50
+5:48,Yale,Jameel Alausa,Missed Jumper,91,50
+5:45,Yale,Yale,Offensive Rebound,91,50
+5:37,Yale,Azar Swain,Three Point Jumper,94,50
+5:23,Yale,Jameel Alausa,Foul,94,50
+5:13,Yale,Jameel Alausa,Foul,94,50
+5:13,Bryant,Byron Hawkins,Free Throw,94,51
+5:13,Bryant,Byron Hawkins,Free Throw,94,52
+4:56,Yale,Jameel Alausa,Layup,96,52
+4:51,Bryant,Byron Hawkins,Missed Three Point Jumper,96,52
+4:45,Yale,Wyatt Yess,Defensive Rebound,96,52
+4:36,Yale,Matthue Cotton,Three Point Jumper,99,52
+4:09,Bryant,Byron Hawkins,Jumper,99,54
+3:53,Yale,Eze Dike,Missed Three Point Jumper,99,54
+3:48,Bryant,Taylor McHugh,Defensive Rebound,99,54
+3:43,Bryant,Taylor McHugh,Missed Three Point Jumper,99,54
+3:39,Yale,Matthue Cotton,Defensive Rebound,99,54
+3:21,Bryant,Taylor McHugh,Foul,99,54
+3:21,Bryant,None,None,99,54
+3:21,Yale,Thomas Ryan,Free Throw,100,54
+3:21,Yale,Thomas Ryan,Free Throw,101,54
+3:11,Bryant,Joe Kasperzyk,Missed Three Point Jumper,101,54
+3:06,Yale,Wyatt Yess,Defensive Rebound,101,54
+3:02,Yale,Eze Dike,Turnover,101,54
+2:49,Bryant,Tanner Johnson,Missed Three Point Jumper,101,54
+2:42,Bryant,Juan Cardenas,Offensive Rebound,101,54
+2:37,Yale,Thomas Ryan,Foul,101,54
+2:27,Bryant,Taylor McHugh,Missed Free Throw,101,54
+2:27,Yale,Wyatt Yess,Defensive Rebound,101,54
+2:26,Yale,Thomas Ryan,Turnover,101,54
+2:26,Bryant,Juan Cardenas,Steal,101,54
+2:26,Bryant,Juan Cardenas,Turnover,101,54
+2:15,Yale,Wyatt Yess,Turnover,101,54
+2:15,Bryant,Juan Cardenas,Steal,101,54
+2:05,Bryant,Juan Cardenas,Missed Three Point Jumper,101,54
+2:00,Bryant,Taylor McHugh,Offensive Rebound,101,54
+1:52,Yale,Wyatt Yess,Foul,101,54
+1:52,Bryant,Nino Hernandez,Free Throw,101,55
+1:52,Bryant,Nino Hernandez,Free Throw,101,56
+1:29,Yale,Thomas Ryan,Missed Three Point Jumper,101,56
+1:24,Bryant,Taylor McHugh,Defensive Rebound,101,56
+1:23,Bryant,Taylor McHugh,Turnover,101,56
+1:16,Yale,Thomas Ryan,Missed Three Point Jumper,101,56
+1:13,Yale,Wyatt Yess,Offensive Rebound,101,56
+1:11,Yale,Wyatt Yess,Missed Layup,101,56
+1:07,Bryant,Nino Hernandez,Defensive Rebound,101,56
+1:06,Yale,Thomas Ryan,Foul,101,56
+1:06,Bryant,Nino Hernandez,Free Throw,101,57
+1:06,Bryant,Nino Hernandez,Free Throw,101,58
+0:49,Yale,Jameel Alausa,Jumper,103,58
+0:41,Bryant,Tanner Johnson,Three Point Jumper,103,61
+0:29,Yale,Jameel Alausa,Missed Layup,103,61
+0:25,Yale,Thomas Ryan,Offensive Rebound,103,61
+0:23,Yale,Thomas Ryan,Missed Layup,103,61
+0:23,Bryant,Juan Cardenas,Block,103,61
+0:16,Yale,Michael Feinberg,Offensive Rebound,103,61
+0:00,Bryant,None,None,103,61
+0:00,Bryant,None,None,103,61

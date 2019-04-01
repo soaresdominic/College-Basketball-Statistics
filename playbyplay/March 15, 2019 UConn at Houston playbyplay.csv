@@ -1,0 +1,337 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Houston,None,None,0,0
+19:37,Houston,Corey Davis Jr.,Three Point Jumper,0,3
+19:33,UConn,Christian Vital,Foul,0,3
+19:33,Houston,Corey Davis Jr.,Free Throw,0,4
+19:10,UConn,Tyler Polley,Turnover,0,4
+18:45,Houston,Fabian White Jr.,Turnover,0,4
+18:45,UConn,Tarin Smith,Steal,0,4
+18:36,UConn,Tarin Smith,Missed Jumper,0,4
+18:36,Houston,Fabian White Jr.,Defensive Rebound,0,4
+18:28,Houston,Armoni Brooks,Missed Three Point Jumper,0,4
+18:28,UConn,Jalen Adams,Defensive Rebound,0,4
+18:17,UConn,Jalen Adams,Missed Layup,0,4
+18:17,Houston,Breaon Brady,Defensive Rebound,0,4
+18:10,Houston,Corey Davis Jr.,Missed Three Point Jumper,0,4
+18:10,UConn,UConn,Defensive Rebound,0,4
+17:56,UConn,Josh Carlton,Turnover,0,4
+17:56,Houston,Galen Robinson Jr.,Steal,0,4
+17:50,Houston,Armoni Brooks,Dunk,0,6
+17:25,UConn,Tyler Polley,Missed Three Point Jumper,0,6
+17:25,Houston,Armoni Brooks,Defensive Rebound,0,6
+17:15,Houston,Galen Robinson Jr.,Layup,0,8
+17:14,UConn,None,None,0,8
+17:06,UConn,Christian Vital,Missed Three Point Jumper,0,8
+17:06,UConn,Josh Carlton,Offensive Rebound,0,8
+17:00,UConn,Josh Carlton,Missed Layup,0,8
+17:00,Houston,Breaon Brady,Defensive Rebound,0,8
+16:54,Houston,Galen Robinson Jr.,Missed Layup,0,8
+16:54,Houston,Galen Robinson Jr.,Offensive Rebound,0,8
+16:40,Houston,Corey Davis Jr.,Three Point Jumper,0,11
+16:21,UConn,Jalen Adams,Layup,2,11
+16:07,Houston,Corey Davis Jr.,Jumper,2,13
+15:47,UConn,Christian Vital,Three Point Jumper,5,13
+15:26,Houston,Fabian White Jr.,Missed Jumper,5,13
+15:26,Houston,Fabian White Jr.,Offensive Rebound,5,13
+15:05,Houston,Breaon Brady,Missed Jumper,5,13
+15:05,UConn,None,Team Rebound,5,13
+14:58,Houston,Fabian White Jr.,Foul,5,13
+14:58,Houston,None,None,5,13
+14:40,Houston,Brison Gresham,Foul,5,13
+14:26,UConn,Tarin Smith,Jumper,7,13
+14:12,Houston,Armoni Brooks,Missed Three Point Jumper,7,13
+14:12,UConn,Tarin Smith,Defensive Rebound,7,13
+14:04,UConn,Tarin Smith,Missed Jumper,7,13
+14:04,Houston,Galen Robinson Jr.,Defensive Rebound,7,13
+13:58,Houston,Armoni Brooks,Layup,7,15
+13:44,UConn,Jalen Adams,Missed Three Point Jumper,7,15
+13:44,Houston,Fabian White Jr.,Defensive Rebound,7,15
+13:32,Houston,Galen Robinson Jr.,Three Point Jumper,7,18
+13:06,UConn,Josh Carlton,Dunk,9,18
+12:42,Houston,Brison Gresham,Missed Layup,9,18
+12:42,UConn,Tarin Smith,Defensive Rebound,9,18
+12:32,UConn,Christian Vital,Missed Three Point Jumper,9,18
+12:32,Houston,Fabian White Jr.,Defensive Rebound,9,18
+12:10,Houston,Brison Gresham,Foul,9,18
+12:10,Houston,Brison Gresham,Turnover,9,18
+11:49,UConn,Jalen Adams,Jumper,11,18
+11:25,Houston,Breaon Brady,Turnover,11,18
+11:25,UConn,Christian Vital,Steal,11,18
+11:19,UConn,Jalen Adams,Three Point Jumper,14,18
+11:02,Houston,Dejon Jarreau,Missed Three Point Jumper,14,18
+11:02,UConn,None,Team Rebound,14,18
+10:59,Houston,Breaon Brady,Foul,14,18
+10:59,Houston,None,None,14,18
+10:38,UConn,Tyler Polley,Missed Jumper,14,18
+10:38,UConn,UConn,Offensive Rebound,14,18
+10:30,UConn,Tyler Polley,Missed Three Point Jumper,14,18
+10:30,Houston,Corey Davis Jr.,Defensive Rebound,14,18
+10:15,Houston,Nate Hinton,Missed Jumper,14,18
+10:15,UConn,Jalen Adams,Defensive Rebound,14,18
+10:04,UConn,Tyler Polley,Missed Three Point Jumper,14,18
+10:04,Houston,Nate Hinton,Defensive Rebound,14,18
+9:50,Houston,Dejon Jarreau,Missed Jumper,14,18
+9:50,Houston,Houston,Offensive Rebound,14,18
+9:46,Houston,Corey Davis Jr.,Missed Three Point Jumper,14,18
+9:46,UConn,Sidney Wilson,Defensive Rebound,14,18
+9:35,Houston,Cedrick Alley Jr.,Foul,14,18
+9:30,UConn,Josh Carlton,Layup,16,18
+9:10,Houston,Fabian White Jr.,Layup,16,20
+9:10,UConn,Josh Carlton,Foul,16,20
+9:10,Houston,Fabian White Jr.,Free Throw,16,21
+9:00,UConn,Tarin Smith,Turnover,16,21
+9:00,Houston,Nate Hinton,Steal,16,21
+8:55,Houston,Armoni Brooks,Missed Three Point Jumper,16,21
+8:55,UConn,Jalen Adams,Defensive Rebound,16,21
+8:47,UConn,Christian Vital,Missed Three Point Jumper,16,21
+8:47,Houston,Nate Hinton,Defensive Rebound,16,21
+8:37,Houston,Galen Robinson Jr.,Turnover,16,21
+8:37,UConn,Christian Vital,Steal,16,21
+8:16,UConn,Jalen Adams,Missed Three Point Jumper,16,21
+8:16,Houston,Fabian White Jr.,Defensive Rebound,16,21
+8:03,Houston,Nate Hinton,Turnover,16,21
+7:47,Houston,Fabian White Jr.,Foul,16,21
+7:47,Houston,None,None,16,21
+7:36,UConn,Tyler Polley,Missed Three Point Jumper,16,21
+7:36,Houston,Dejon Jarreau,Defensive Rebound,16,21
+7:16,Houston,Dejon Jarreau,Missed Jumper,16,21
+7:16,UConn,Jalen Adams,Defensive Rebound,16,21
+7:10,Houston,Galen Robinson Jr.,Foul,16,21
+7:10,UConn,Jalen Adams,Missed Free Throw,16,21
+7:10,Houston,Armoni Brooks,Defensive Rebound,16,21
+7:03,Houston,Galen Robinson Jr.,Layup,16,23
+6:42,UConn,Jalen Adams,Turnover,16,23
+6:42,Houston,Chris Harris Jr.,Steal,16,23
+6:36,Houston,Corey Davis Jr.,Three Point Jumper,16,26
+6:06,UConn,Christian Vital,Missed Jumper,16,26
+6:06,Houston,Armoni Brooks,Defensive Rebound,16,26
+5:57,Houston,Chris Harris Jr.,Missed Jumper,16,26
+5:57,Houston,Chris Harris Jr.,Offensive Rebound,16,26
+5:38,Houston,Corey Davis Jr.,Missed Jumper,16,26
+5:38,Houston,Corey Davis Jr.,Offensive Rebound,16,26
+5:31,Houston,Nate Hinton,Three Point Jumper,16,29
+5:31,UConn,None,None,16,29
+5:25,UConn,Jalen Adams,Three Point Jumper,19,29
+5:01,Houston,Armoni Brooks,Missed Jumper,19,29
+5:01,Houston,Chris Harris Jr.,Offensive Rebound,19,29
+4:30,UConn,Christian Vital,Foul,19,29
+4:30,Houston,Chris Harris Jr.,Missed Free Throw,19,29
+4:30,Houston,None,Team Rebound,19,29
+4:30,Houston,Chris Harris Jr.,Missed Free Throw,19,29
+4:30,UConn,Josh Carlton,Defensive Rebound,19,29
+4:07,UConn,Jalen Adams,Missed Jumper,19,29
+4:07,UConn,Josh Carlton,Offensive Rebound,19,29
+4:01,Houston,Chris Harris Jr.,Foul,19,29
+4:01,UConn,Josh Carlton,Free Throw,20,29
+4:01,UConn,Josh Carlton,Free Throw,21,29
+3:45,Houston,Armoni Brooks,Three Point Jumper,21,32
+3:22,UConn,Josh Carlton,Missed Jumper,21,32
+3:22,Houston,Armoni Brooks,Defensive Rebound,21,32
+2:56,Houston,None,None,21,32
+2:49,Houston,Corey Davis Jr.,Missed Jumper,21,32
+2:49,UConn,Tyler Polley,Defensive Rebound,21,32
+2:29,UConn,Christian Vital,Missed Three Point Jumper,21,32
+2:29,Houston,Armoni Brooks,Defensive Rebound,21,32
+2:02,Houston,Armoni Brooks,Jumper,21,34
+1:37,Houston,Breaon Brady,Foul,21,34
+1:37,UConn,Christian Vital,Free Throw,22,34
+1:37,UConn,Christian Vital,Free Throw,23,34
+1:16,Houston,Corey Davis Jr.,Three Point Jumper,23,37
+1:02,UConn,Jalen Adams,Turnover,23,37
+1:02,Houston,Nate Hinton,Steal,23,37
+0:57,Houston,Dejon Jarreau,Dunk,23,39
+0:34,UConn,Josh Carlton,Layup,25,39
+0:25,Houston,None,None,25,39
+0:07,UConn,Jalen Adams,Foul,25,39
+0:04,Houston,Corey Davis Jr.,Missed Three Point Jumper,25,39
+0:04,UConn,Josh Carlton,Defensive Rebound,25,39
+0:02,Houston,Chris Harris Jr.,Foul,25,39
+0:02,UConn,Josh Carlton,Missed Free Throw,25,39
+0:02,UConn,None,Team Rebound,25,39
+0:02,UConn,Josh Carlton,Missed Free Throw,25,39
+0:02,Houston,Dejon Jarreau,Defensive Rebound,25,39
+0:00,Houston,None,None,25,39
+20:00,UConn,None,None,25,39
+19:38,Houston,Breaon Brady,Missed Jumper,25,39
+19:38,Houston,Fabian White Jr.,Offensive Rebound,25,39
+19:29,Houston,Fabian White Jr.,Missed Layup,25,39
+19:29,UConn,Josh Carlton,Block,25,39
+19:29,UConn,Josh Carlton,Defensive Rebound,25,39
+19:19,UConn,Jalen Adams,Layup,27,39
+19:08,Houston,Galen Robinson Jr.,Jumper,27,41
+18:47,UConn,Tyler Polley,Missed Three Point Jumper,27,41
+18:47,Houston,Corey Davis Jr.,Defensive Rebound,27,41
+18:30,Houston,Breaon Brady,Missed Jumper,27,41
+18:30,UConn,Jalen Adams,Defensive Rebound,27,41
+18:20,Houston,Corey Davis Jr.,Foul,27,41
+18:06,UConn,Jalen Adams,Turnover,27,41
+18:06,Houston,Breaon Brady,Steal,27,41
+17:42,Houston,Armoni Brooks,Missed Jumper,27,41
+17:42,UConn,Josh Carlton,Defensive Rebound,27,41
+17:22,Houston,Fabian White Jr.,Foul,27,41
+17:22,UConn,Josh Carlton,Missed Free Throw,27,41
+17:22,UConn,None,Team Rebound,27,41
+17:22,UConn,Josh Carlton,Missed Free Throw,27,41
+17:22,UConn,Josh Carlton,Offensive Rebound,27,41
+17:19,UConn,Josh Carlton,Layup,29,41
+17:00,Houston,Galen Robinson Jr.,Layup,29,43
+16:37,UConn,Tarin Smith,Missed Three Point Jumper,29,43
+16:37,Houston,Breaon Brady,Defensive Rebound,29,43
+16:27,Houston,Breaon Brady,Dunk,29,45
+16:07,UConn,Jalen Adams,Missed Three Point Jumper,29,45
+16:07,Houston,Armoni Brooks,Defensive Rebound,29,45
+15:57,Houston,Corey Davis Jr.,Missed Three Point Jumper,29,45
+15:57,Houston,Armoni Brooks,Offensive Rebound,29,45
+15:51,Houston,Armoni Brooks,Layup,29,47
+15:50,UConn,None,None,29,47
+15:50,Houston,None,None,29,47
+15:36,Houston,Breaon Brady,Foul,29,47
+15:36,Houston,None,None,29,47
+15:34,UConn,Josh Carlton,Missed Layup,29,47
+15:34,Houston,Chris Harris Jr.,Block,29,47
+15:34,UConn,Josh Carlton,Offensive Rebound,29,47
+15:29,UConn,Sidney Wilson,Missed Three Point Jumper,29,47
+15:29,Houston,Nate Hinton,Defensive Rebound,29,47
+15:21,Houston,Corey Davis Jr.,Three Point Jumper,29,50
+15:03,UConn,Christian Vital,Turnover,29,50
+15:03,Houston,Nate Hinton,Steal,29,50
+14:59,Houston,Nate Hinton,Layup,29,52
+14:59,UConn,None,None,29,52
+14:41,UConn,Sidney Wilson,Missed Layup,29,52
+14:41,Houston,Chris Harris Jr.,Defensive Rebound,29,52
+14:34,Houston,Armoni Brooks,Missed Three Point Jumper,29,52
+14:34,UConn,UConn,Defensive Rebound,29,52
+14:17,Houston,Nate Hinton,Foul,29,52
+14:17,UConn,Josh Carlton,Free Throw,30,52
+14:17,UConn,Josh Carlton,Missed Free Throw,30,52
+14:17,Houston,Armoni Brooks,Defensive Rebound,30,52
+14:08,Houston,Galen Robinson Jr.,Layup,30,54
+14:00,Houston,Chris Harris Jr.,Foul,30,54
+13:54,Houston,Nate Hinton,Foul,30,54
+13:53,UConn,Christian Vital,Turnover,30,54
+13:53,Houston,Galen Robinson Jr.,Steal,30,54
+13:48,Houston,Nate Hinton,Layup,30,56
+13:38,Houston,Chris Harris Jr.,Foul,30,56
+13:38,UConn,Josh Carlton,Missed Free Throw,30,56
+13:38,Houston,Nate Hinton,Defensive Rebound,30,56
+13:28,Houston,Galen Robinson Jr.,Layup,30,58
+13:28,UConn,Brendan Adams,Foul,30,58
+13:28,Houston,Galen Robinson Jr.,Free Throw,30,59
+13:14,UConn,Jalen Adams,Missed Jumper,30,59
+13:14,Houston,Brison Gresham,Block,30,59
+13:14,UConn,Jalen Adams,Offensive Rebound,30,59
+13:08,Houston,Nate Hinton,Foul,30,59
+13:08,UConn,Brendan Adams,Free Throw,31,59
+13:08,UConn,Brendan Adams,Free Throw,32,59
+12:51,Houston,Nate Hinton,Three Point Jumper,32,62
+12:31,UConn,Jalen Adams,Missed Jumper,32,62
+12:31,Houston,None,Team Rebound,32,62
+12:30,UConn,Josh Carlton,Foul,32,62
+12:16,Houston,Brison Gresham,Dunk,32,64
+11:50,Houston,Armoni Brooks,Foul,32,64
+11:50,Houston,None,None,32,64
+11:50,UConn,Josh Carlton,Free Throw,33,64
+11:50,UConn,Josh Carlton,Free Throw,34,64
+11:33,Houston,Brison Gresham,Missed Layup,34,64
+11:33,Houston,Nate Hinton,Offensive Rebound,34,64
+11:12,Houston,Dejon Jarreau,Jumper,34,66
+10:48,UConn,Jalen Adams,Turnover,34,66
+10:48,Houston,Corey Davis Jr.,Steal,34,66
+10:45,UConn,Sidney Wilson,Foul,34,66
+10:28,Houston,Dejon Jarreau,Missed Jumper,34,66
+10:28,UConn,Tyler Polley,Defensive Rebound,34,66
+10:14,UConn,Jalen Adams,Missed Three Point Jumper,34,66
+10:14,UConn,Tyler Polley,Offensive Rebound,34,66
+10:06,UConn,Tyler Polley,Missed Three Point Jumper,34,66
+10:06,Houston,Dejon Jarreau,Defensive Rebound,34,66
+9:57,Houston,Corey Davis Jr.,Missed Three Point Jumper,34,66
+9:57,UConn,Josh Carlton,Defensive Rebound,34,66
+9:47,UConn,Josh Carlton,Turnover,34,66
+9:47,Houston,Brison Gresham,Steal,34,66
+9:39,Houston,Corey Davis Jr.,Missed Three Point Jumper,34,66
+9:39,Houston,Corey Davis Jr.,Offensive Rebound,34,66
+9:18,Houston,Nate Hinton,Three Point Jumper,34,69
+8:42,UConn,Tyler Polley,Missed Jumper,34,69
+8:42,Houston,None,Team Rebound,34,69
+8:40,UConn,Josh Carlton,Foul,34,69
+8:40,UConn,Josh Carlton,Foul,34,69
+8:40,Houston,Corey Davis Jr.,Free Throw,34,70
+8:40,Houston,Corey Davis Jr.,Free Throw,34,71
+8:40,Houston,Corey Davis Jr.,Free Throw,34,72
+8:40,UConn,Josh Carlton,Foul,34,69
+8:40,Houston,Corey Davis Jr.,Free Throw,34,73
+8:24,Houston,Cedrick Alley Jr.,Missed Jumper,34,73
+8:24,UConn,Jalen Adams,Defensive Rebound,34,73
+8:04,UConn,Jalen Adams,Missed Jumper,34,73
+8:04,Houston,Dejon Jarreau,Defensive Rebound,34,73
+7:35,Houston,Nate Hinton,Missed Three Point Jumper,34,73
+7:35,UConn,Jalen Adams,Defensive Rebound,34,73
+7:30,Houston,Dejon Jarreau,Foul,34,73
+7:30,Houston,None,None,34,73
+7:30,UConn,Brendan Adams,Free Throw,35,73
+7:30,UConn,Brendan Adams,Free Throw,36,73
+7:09,Houston,Dejon Jarreau,Missed Jumper,36,73
+7:09,UConn,Jalen Adams,Defensive Rebound,36,73
+6:55,UConn,Josh Carlton,Missed Layup,36,73
+6:55,Houston,Brison Gresham,Block,36,73
+6:55,Houston,Houston,Defensive Rebound,36,73
+6:45,Houston,Cedrick Alley Jr.,Jumper,36,75
+6:34,UConn,Jalen Adams,Missed Jumper,36,75
+6:34,Houston,Dejon Jarreau,Block,36,75
+6:34,UConn,UConn,Offensive Rebound,36,75
+6:19,UConn,Josh Carlton,Missed Jumper,36,75
+6:19,Houston,Dejon Jarreau,Defensive Rebound,36,75
+5:51,Houston,Cedrick Alley Jr.,Missed Three Point Jumper,36,75
+5:51,UConn,Josh Carlton,Defensive Rebound,36,75
+5:40,UConn,Christian Vital,Missed Three Point Jumper,36,75
+5:40,UConn,Josh Carlton,Offensive Rebound,36,75
+5:30,UConn,Tarin Smith,Missed Three Point Jumper,36,75
+5:30,UConn,Christian Vital,Offensive Rebound,36,75
+5:26,Houston,Dejon Jarreau,Foul,36,75
+5:26,UConn,Christian Vital,Free Throw,37,75
+5:26,UConn,Christian Vital,Free Throw,38,75
+5:05,Houston,Landon Goesling,Missed Jumper,38,75
+5:05,Houston,Landon Goesling,Offensive Rebound,38,75
+4:59,Houston,Landon Goesling,Missed Layup,38,75
+4:59,Houston,Cedrick Alley Jr.,Offensive Rebound,38,75
+4:52,Houston,Landon Goesling,Layup,38,77
+4:41,UConn,Christian Vital,Missed Three Point Jumper,38,77
+4:41,Houston,None,Team Rebound,38,77
+4:40,UConn,Eric Cobb,Foul,38,77
+4:30,UConn,Brendan Adams,Foul,38,77
+4:30,Houston,Landon Goesling,Free Throw,38,78
+4:30,Houston,Landon Goesling,Missed Free Throw,38,78
+4:30,UConn,Christian Vital,Defensive Rebound,38,78
+4:22,UConn,Eric Cobb,Layup,40,78
+4:22,Houston,Dejon Jarreau,Foul,40,78
+4:22,UConn,Eric Cobb,Missed Free Throw,40,78
+4:22,Houston,Cedrick Alley Jr.,Defensive Rebound,40,78
+4:07,Houston,Cedrick Alley Jr.,Jumper,40,80
+3:52,UConn,Jalen Adams,Jumper,42,80
+3:30,Houston,Nate Hinton,Missed Jumper,42,80
+3:30,UConn,Eric Cobb,Defensive Rebound,42,80
+3:19,Houston,Cedrick Alley Jr.,Foul,42,80
+3:19,Houston,None,None,42,80
+3:19,UConn,Jalen Adams,Free Throw,43,80
+3:19,UConn,Jalen Adams,Missed Free Throw,43,80
+3:19,Houston,Caleb Broodo,Defensive Rebound,43,80
+2:57,Houston,Dejon Jarreau,Missed Jumper,43,80
+2:57,UConn,Tarin Smith,Defensive Rebound,43,80
+2:51,UConn,Brendan Adams,Turnover,43,80
+2:25,Houston,Dejon Jarreau,Jumper,43,82
+2:03,UConn,Brendan Adams,Missed Three Point Jumper,43,82
+2:03,Houston,Dejon Jarreau,Defensive Rebound,43,82
+1:50,Houston,Dejon Jarreau,Turnover,43,82
+1:42,UConn,Jalen Adams,Missed Three Point Jumper,43,82
+1:42,Houston,Dejon Jarreau,Defensive Rebound,43,82
+1:16,Houston,Dejon Jarreau,Missed Jumper,43,82
+1:16,UConn,Jalen Adams,Defensive Rebound,43,82
+1:11,UConn,Christian Vital,Layup,45,82
+0:51,UConn,Tarin Smith,Foul,45,82
+0:51,Houston,Nate Hinton,Free Throw,45,83
+0:51,Houston,Nate Hinton,Free Throw,45,84
+0:30,UConn,Tarin Smith,Missed Three Point Jumper,45,84
+0:30,UConn,UConn,Offensive Rebound,45,84
+0:15,UConn,Eric Cobb,Missed Three Point Jumper,45,84
+0:15,Houston,Dejon Jarreau,Defensive Rebound,45,84
+0:00,Houston,None,None,45,84

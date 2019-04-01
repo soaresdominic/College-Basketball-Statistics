@@ -1,0 +1,356 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Michigan,None,None,0,0
+19:29,Michigan,Charles Matthews,Missed Three Point Jumper,0,0
+19:29,Norfolk State,Jordan Butler,Defensive Rebound,0,0
+19:17,Norfolk State,Jordan Butler,Missed Jumper,0,0
+19:17,Michigan,Zavier Simpson,Defensive Rebound,0,0
+18:51,Michigan,Charles Matthews,Layup,0,2
+18:34,Norfolk State,Jordan Butler,Missed Jumper,0,2
+18:34,Michigan,Michigan,Defensive Rebound,0,2
+18:14,Michigan,Zavier Simpson,Missed Three Point Jumper,0,2
+18:14,Michigan,Ignas Brazdeikis,Offensive Rebound,0,2
+18:10,Michigan,Ignas Brazdeikis,Missed Jumper,0,2
+18:10,Michigan,Jon Teske,Offensive Rebound,0,2
+17:59,Michigan,Charles Matthews,Turnover,0,2
+17:44,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,0,2
+17:44,Michigan,Jordan Poole,Defensive Rebound,0,2
+17:35,Michigan,Jon Teske,Dunk,0,4
+17:20,Norfolk State,Jordan Butler,Turnover,0,4
+17:20,Michigan,Jon Teske,Steal,0,4
+17:14,Michigan,None,Team Rebound,0,4
+17:14,Michigan,Charles Matthews,Missed Free Throw,0,4
+17:14,Norfolk State,Jordan Butler,Defensive Rebound,0,4
+17:14,Norfolk State,Armani Branch,Foul,0,4
+17:14,Michigan,Charles Matthews,Missed Free Throw,0,4
+17:02,Norfolk State,Jordan Butler,Missed Layup,0,4
+17:02,Michigan,Charles Matthews,Defensive Rebound,0,4
+16:52,Norfolk State,Derrik Jamerson Jr.,Foul,0,4
+16:52,Michigan,Jordan Poole,Free Throw,0,5
+16:52,Michigan,Jordan Poole,Free Throw,0,6
+16:32,Michigan,Jordan Poole,Foul,0,6
+16:14,Norfolk State,Mastadi Pitt,Missed Layup,0,6
+16:14,Michigan,Jon Teske,Block,0,6
+16:14,Norfolk State,Norfolk State,Offensive Rebound,0,6
+16:10,Norfolk State,Norfolk State ,Turnover,0,6
+15:58,Michigan,Jon Teske,Missed Jumper,0,6
+15:58,Michigan,Charles Matthews,Offensive Rebound,0,6
+15:55,Michigan,Charles Matthews,Missed Dunk,0,6
+15:55,Norfolk State,Armani Branch,Defensive Rebound,0,6
+15:45,Norfolk State,Mastadi Pitt,Missed Jumper,0,6
+15:45,Michigan,Ignas Brazdeikis,Defensive Rebound,0,6
+15:45,Norfolk State,Mastadi Pitt,Foul,0,6
+15:45,Michigan,None,None,0,6
+15:25,Norfolk State,Nic Thomas,Foul,0,6
+15:15,Michigan,Eli Brooks,Three Point Jumper,0,9
+14:51,Norfolk State,Alex Long,Missed Jumper,0,9
+14:51,Michigan,Jon Teske,Defensive Rebound,0,9
+14:36,Norfolk State,Jordan Butler,Foul,0,9
+14:36,Michigan,Jon Teske,Missed Free Throw,0,9
+14:36,Michigan,None,Team Rebound,0,9
+14:36,Michigan,Jon Teske,Missed Free Throw,0,9
+14:36,Norfolk State,Nic Thomas,Defensive Rebound,0,9
+14:24,Norfolk State,Armani Branch,Missed Three Point Jumper,0,9
+14:24,Michigan,Jon Teske,Defensive Rebound,0,9
+14:07,Michigan,Charles Matthews,Missed Three Point Jumper,0,9
+14:07,Norfolk State,Nic Thomas,Defensive Rebound,0,9
+13:36,Norfolk State,Mastadi Pitt,Foul,0,9
+13:36,Norfolk State,Mastadi Pitt,Turnover,0,9
+13:06,Michigan,Zavier Simpson,Missed Three Point Jumper,0,9
+13:06,Michigan,Austin Davis,Offensive Rebound,0,9
+13:06,Norfolk State,Alex Long,Foul,0,9
+13:06,Michigan,Austin Davis,Missed Free Throw,0,9
+13:06,Norfolk State,Alex Long,Defensive Rebound,0,9
+13:06,Norfolk State,Alex Long,Turnover,0,9
+13:06,Michigan,Austin Davis,Steal,0,9
+13:06,Michigan,Austin Davis,Layup,0,11
+12:53,Norfolk State,Alex Long,Jumper,2,11
+12:33,Michigan,Austin Davis,Missed Layup,2,11
+12:33,Norfolk State,Alex Long,Defensive Rebound,2,11
+12:14,Norfolk State,Joe Bryant Jr.,Turnover,2,11
+11:57,Michigan,Charles Matthews,Missed Three Point Jumper,2,11
+11:57,Michigan,Austin Davis,Offensive Rebound,2,11
+11:48,Michigan,Austin Davis,Missed Jumper,2,11
+11:48,Norfolk State,Armani Branch,Defensive Rebound,2,11
+11:48,Michigan,Austin Davis,Foul,2,11
+11:48,Michigan,None,None,2,11
+11:32,Norfolk State,C.J. Kelly,Missed Jumper,2,11
+11:32,Michigan,Eli Brooks,Defensive Rebound,2,11
+11:08,Michigan,Isaiah Livers,Three Point Jumper,2,14
+10:41,Michigan,Ignas Brazdeikis,Three Point Jumper,2,17
+10:35,Norfolk State,C.J. Kelly,Missed Jumper,2,17
+10:34,Michigan,Jon Teske,Block,2,17
+10:34,Michigan,Jordan Poole,Defensive Rebound,2,17
+10:26,Norfolk State,C.J. Kelly,Layup,4,17
+10:05,Michigan,Ignas Brazdeikis,Missed Jumper,4,17
+10:05,Norfolk State,C.J. Kelly,Block,4,17
+10:05,Michigan,Michigan,Offensive Rebound,4,17
+10:02,Michigan,Jon Teske,Jumper,4,19
+9:44,Norfolk State,Jordan Butler,Missed Layup,4,19
+9:44,Michigan,Jon Teske,Defensive Rebound,4,19
+9:35,Michigan,Eli Brooks,Missed Three Point Jumper,4,19
+9:35,Michigan,Jon Teske,Offensive Rebound,4,19
+9:35,Norfolk State,Kyonze Chavis,Foul,4,19
+9:35,Michigan,Jon Teske,Free Throw,4,20
+9:35,Michigan,Jon Teske,Missed Free Throw,4,20
+9:35,Michigan,Isaiah Livers,Offensive Rebound,4,20
+9:19,Michigan,Jordan Poole,Missed Jumper,4,20
+9:19,Michigan,Michigan,Offensive Rebound,4,20
+9:15,Michigan,Isaiah Livers,Three Point Jumper,4,23
+8:57,Michigan,Ignas Brazdeikis,Foul,4,23
+8:57,Norfolk State,C.J. Kelly,Missed Free Throw,4,23
+8:57,Norfolk State,None,Team Rebound,4,23
+8:57,Norfolk State,C.J. Kelly,Free Throw,5,23
+8:37,Michigan,Jon Teske,Missed Jumper,5,23
+8:37,Norfolk State,Jordan Butler,Defensive Rebound,5,23
+8:17,Norfolk State,Alex Long,Missed Jumper,5,23
+8:17,Michigan,Zavier Simpson,Defensive Rebound,5,23
+7:54,Michigan,Charles Matthews,Missed Layup,5,23
+7:54,Michigan,Jon Teske,Offensive Rebound,5,23
+7:51,Michigan,Jon Teske,Layup,5,25
+7:33,Norfolk State,Alex Long,Missed Jumper,5,25
+7:33,Michigan,Isaiah Livers,Defensive Rebound,5,25
+7:20,Michigan,Jordan Poole,Missed Three Point Jumper,5,25
+7:20,Michigan,Isaiah Livers,Offensive Rebound,5,25
+7:18,Michigan,Jon Teske,Missed Layup,5,25
+7:18,Norfolk State,Kyonze Chavis,Defensive Rebound,5,25
+7:06,Norfolk State,Alex Long,Turnover,5,25
+7:05,Michigan,None,None,5,25
+6:47,Michigan,Charles Matthews,Layup,5,27
+6:19,Norfolk State,Armani Branch,Missed Jumper,5,27
+6:19,Michigan,Isaiah Livers,Block,5,27
+6:19,Michigan,Zavier Simpson,Defensive Rebound,5,27
+6:14,Michigan,Zavier Simpson,Foul,5,27
+6:14,Michigan,Zavier Simpson,Turnover,5,27
+5:52,Norfolk State,Nic Thomas,Jumper,7,27
+5:27,Michigan,Jordan Poole,Turnover,7,27
+5:10,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,7,27
+5:10,Michigan,Michigan,Defensive Rebound,7,27
+5:10,Norfolk State,Nic Thomas,Foul,7,27
+5:10,Michigan,Jordan Poole,Free Throw,7,28
+5:10,Michigan,Jordan Poole,Missed Free Throw,7,28
+5:10,Norfolk State,Jordan Butler,Defensive Rebound,7,28
+4:51,Norfolk State,Jordan Butler,Turnover,7,28
+4:40,Michigan,Jordan Poole,Missed Three Point Jumper,7,28
+4:40,Norfolk State,Armani Branch,Defensive Rebound,7,28
+4:24,Norfolk State,Joe Bryant Jr.,Missed Jumper,7,28
+4:24,Michigan,Zavier Simpson,Defensive Rebound,7,28
+4:19,Michigan,Charles Matthews,Dunk,7,30
+3:51,Norfolk State,Jordan Butler,Missed Jumper,7,30
+3:51,Norfolk State,Norfolk State,Offensive Rebound,7,30
+3:51,Michigan,None,None,7,30
+3:36,Michigan,Charles Matthews,Foul,7,30
+3:27,Norfolk State,Jordan Butler,Layup,9,30
+3:04,Norfolk State,Jordan Butler,Foul,9,30
+3:04,Michigan,Charles Matthews,Missed Free Throw,9,30
+3:04,Michigan,None,Team Rebound,9,30
+3:04,Michigan,Charles Matthews,Missed Free Throw,9,30
+3:04,Norfolk State,Nic Thomas,Defensive Rebound,9,30
+2:47,Norfolk State,Nic Thomas,Jumper,11,30
+2:16,Michigan,Jon Teske,Missed Jumper,11,30
+2:16,Norfolk State,Nic Thomas,Defensive Rebound,11,30
+2:15,Michigan,Jon Teske,Foul,11,30
+2:02,Norfolk State,Joe Bryant Jr.,Missed Jumper,11,30
+2:02,Michigan,Jordan Poole,Defensive Rebound,11,30
+1:53,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,11,30
+1:53,Norfolk State,Armani Branch,Defensive Rebound,11,30
+1:38,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,11,30
+1:38,Michigan,Isaiah Livers,Defensive Rebound,11,30
+1:31,Michigan,Zavier Simpson,Foul,11,30
+1:31,Michigan,Zavier Simpson,Turnover,11,30
+1:20,Norfolk State,Nic Thomas,Layup,13,30
+0:57,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,13,30
+0:57,Norfolk State,Norfolk State,Defensive Rebound,13,30
+0:48,Norfolk State,Nic Thomas,Missed Layup,13,30
+0:48,Michigan,Ignas Brazdeikis,Defensive Rebound,13,30
+0:43,Michigan,Ignas Brazdeikis,Foul,13,30
+0:43,Michigan,Ignas Brazdeikis,Turnover,13,30
+0:32,Michigan,Jordan Poole,Foul,13,30
+0:32,Norfolk State,Nic Thomas,Missed Free Throw,13,30
+0:32,Michigan,Charles Matthews,Defensive Rebound,13,30
+0:07,Michigan,Jon Teske,Dunk,13,32
+0:00,Michigan,None,None,13,32
+20:00,Norfolk State,None,None,13,32
+19:47,Norfolk State,Mastadi Pitt,Turnover,13,32
+19:32,Michigan,Jon Teske,Layup,13,34
+19:01,Michigan,Jon Teske,Foul,13,34
+18:53,Norfolk State,Alex Long,Missed Layup,13,34
+18:53,Michigan,Jon Teske,Defensive Rebound,13,34
+18:43,Michigan,Zavier Simpson,Three Point Jumper,13,37
+18:22,Norfolk State,Jordan Butler,Missed Jumper,13,37
+18:22,Michigan,Zavier Simpson,Defensive Rebound,13,37
+18:15,Michigan,Ignas Brazdeikis,Missed Layup,13,37
+18:15,Norfolk State,Jordan Butler,Block,13,37
+18:15,Norfolk State,Mastadi Pitt,Defensive Rebound,13,37
+18:00,Norfolk State,Mastadi Pitt,Missed Layup,13,37
+18:00,Norfolk State,Alex Long,Offensive Rebound,13,37
+17:56,Norfolk State,Alex Long,Missed Layup,13,37
+17:56,Norfolk State,Alex Long,Offensive Rebound,13,37
+17:51,Norfolk State,Alex Long,Layup,15,37
+17:39,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,15,37
+17:39,Norfolk State,Mastadi Pitt,Defensive Rebound,15,37
+17:29,Norfolk State,Jordan Butler,Layup,17,37
+17:29,Norfolk State,None,None,17,37
+17:11,Michigan,Charles Matthews,Layup,17,39
+16:51,Norfolk State,Nic Thomas,Missed Jumper,17,39
+16:51,Michigan,Charles Matthews,Defensive Rebound,17,39
+16:21,Michigan,Charles Matthews,Jumper,17,41
+15:49,Michigan,None,None,17,41
+15:42,Norfolk State,Mastadi Pitt,Three Point Jumper,20,41
+15:25,Michigan,Isaiah Livers,Missed Three Point Jumper,20,41
+15:25,Michigan,Michigan,Offensive Rebound,20,41
+15:10,Norfolk State,Alex Long,Foul,20,41
+15:10,Michigan,Jon Teske,Free Throw,20,42
+15:10,Michigan,Jon Teske,Free Throw,20,43
+14:55,Norfolk State,Alex Long,Missed Layup,20,43
+14:55,Michigan,Jon Teske,Block,20,43
+14:55,Michigan,Isaiah Livers,Defensive Rebound,20,43
+14:48,Norfolk State,C.J. Kelly,Foul,20,43
+14:34,Michigan,Jordan Poole,Missed Three Point Jumper,20,43
+14:34,Michigan,Charles Matthews,Offensive Rebound,20,43
+14:29,Michigan,Charles Matthews,Missed Dunk,20,43
+14:29,Norfolk State,C.J. Kelly,Defensive Rebound,20,43
+14:19,Norfolk State,Armani Branch,Three Point Jumper,23,43
+14:08,Michigan,Zavier Simpson,Missed Three Point Jumper,23,43
+14:08,Norfolk State,Norfolk State,Defensive Rebound,23,43
+13:56,Norfolk State,Armani Branch,Missed Jumper,23,43
+13:56,Michigan,Isaiah Livers,Defensive Rebound,23,43
+13:46,Michigan,Jordan Poole,Missed Jumper,23,43
+13:46,Michigan,Jon Teske,Offensive Rebound,23,43
+13:46,Michigan,Jon Teske,Missed Jumper,23,43
+13:46,Norfolk State,C.J. Kelly,Defensive Rebound,23,43
+13:35,Norfolk State,Mastadi Pitt,Missed Three Point Jumper,23,43
+13:35,Michigan,Charles Matthews,Defensive Rebound,23,43
+13:18,Michigan,Charles Matthews,Turnover,23,43
+13:04,Norfolk State,C.J. Kelly,Layup,25,43
+12:50,Norfolk State,C.J. Kelly,Foul,25,43
+12:50,Michigan,Austin Davis,Free Throw,25,44
+12:50,Michigan,Austin Davis,Missed Free Throw,25,44
+12:50,Norfolk State,C.J. Kelly,Defensive Rebound,25,44
+12:44,Norfolk State,Joe Bryant Jr.,Missed Layup,25,44
+12:44,Michigan,Austin Davis,Block,25,44
+12:44,Michigan,Jordan Poole,Defensive Rebound,25,44
+12:29,Michigan,Isaiah Livers,Missed Three Point Jumper,25,44
+12:29,Norfolk State,Nic Thomas,Defensive Rebound,25,44
+12:23,Michigan,Jordan Poole,Foul,25,44
+12:19,Norfolk State,Alex Long,Foul,25,44
+12:19,Norfolk State,Alex Long,Turnover,25,44
+11:53,Michigan,Ignas Brazdeikis,Dunk,25,46
+11:30,Norfolk State,Nic Thomas,Turnover,25,46
+11:21,Michigan,Eli Brooks,Layup,25,48
+11:07,Norfolk State,Alex Long,Missed Jumper,25,48
+11:07,Michigan,Jordan Poole,Defensive Rebound,25,48
+11:00,Michigan,Jordan Poole,Turnover,25,48
+11:00,Michigan,None,None,25,48
+10:45,Michigan,Isaiah Livers,Foul,25,48
+10:40,Norfolk State,Alex Long,Jumper,27,48
+10:25,Michigan,Austin Davis,Missed Layup,27,48
+10:25,Michigan,Austin Davis,Offensive Rebound,27,48
+10:21,Michigan,Austin Davis,Layup,27,50
+10:09,Norfolk State,C.J. Kelly,Missed Layup,27,50
+10:09,Michigan,Isaiah Livers,Block,27,50
+10:09,Michigan,Eli Brooks,Defensive Rebound,27,50
+10:04,Norfolk State,Joe Bryant Jr.,Foul,27,50
+10:04,Michigan,Zavier Simpson,Missed Free Throw,27,50
+10:04,Michigan,None,Team Rebound,27,50
+10:04,Michigan,Zavier Simpson,Free Throw,27,51
+9:48,Norfolk State,Kyonze Chavis,Missed Jumper,27,51
+9:48,Michigan,Isaiah Livers,Defensive Rebound,27,51
+9:39,Norfolk State,Alex Long,Foul,27,51
+9:39,Michigan,Ignas Brazdeikis,Free Throw,27,52
+9:39,Michigan,Ignas Brazdeikis,Free Throw,27,53
+9:24,Norfolk State,Mastadi Pitt,Turnover,27,53
+9:07,Michigan,Isaiah Livers,Jumper,27,55
+8:51,Norfolk State,Mastadi Pitt,Jumper,29,55
+8:29,Michigan,Eli Brooks,Three Point Jumper,29,58
+8:06,Michigan,Jon Teske,Foul,29,58
+8:06,Norfolk State,C.J. Kelly,Missed Free Throw,29,58
+8:06,Norfolk State,None,Team Rebound,29,58
+8:06,Norfolk State,C.J. Kelly,Free Throw,30,58
+7:45,Michigan,Charles Matthews,Missed Three Point Jumper,30,58
+7:45,Norfolk State,BJ Fitzgerald,Defensive Rebound,30,58
+7:28,Norfolk State,Kyonze Chavis,Jumper,32,58
+6:55,Michigan,Michigan ,Turnover,32,58
+6:55,Michigan,None,None,32,58
+6:50,Norfolk State,Jordan Butler,Foul,32,58
+6:50,Norfolk State,Jordan Butler,Turnover,32,58
+6:27,Michigan,Jon Teske,Missed Layup,32,58
+6:27,Michigan,Charles Matthews,Offensive Rebound,32,58
+6:27,Norfolk State,Jordan Butler,Foul,32,58
+6:27,Michigan,Charles Matthews,Missed Free Throw,32,58
+6:27,Norfolk State,C.J. Kelly,Defensive Rebound,32,58
+6:16,Norfolk State,Mastadi Pitt,Missed Layup,32,58
+6:16,Michigan,Jon Teske,Block,32,58
+6:16,Norfolk State,Norfolk State,Offensive Rebound,32,58
+5:58,Norfolk State,Kyonze Chavis,Jumper,34,58
+5:45,Michigan,Jordan Poole,Turnover,34,58
+5:40,Michigan,Jordan Poole,Foul,34,58
+5:34,Norfolk State,Mastadi Pitt,Jumper,36,58
+5:08,Norfolk State,Derrik Jamerson Jr.,Foul,36,58
+5:08,Michigan,Ignas Brazdeikis,Free Throw,36,59
+5:08,Michigan,Ignas Brazdeikis,Free Throw,36,60
+4:53,Norfolk State,Mastadi Pitt,Missed Three Point Jumper,36,60
+4:53,Michigan,Isaiah Livers,Defensive Rebound,36,60
+4:46,Michigan,Ignas Brazdeikis,Layup,36,62
+4:46,Norfolk State,BJ Fitzgerald,Foul,36,62
+4:46,Michigan,Ignas Brazdeikis,Missed Free Throw,36,62
+4:46,Norfolk State,Chris Ford,Defensive Rebound,36,62
+4:27,Norfolk State,Joe Bryant Jr.,Turnover,36,62
+4:27,Michigan,Brandon Johns Jr.,Steal,36,62
+4:27,Norfolk State,Joe Bryant Jr.,Foul,36,62
+4:27,Michigan,Ignas Brazdeikis,Free Throw,36,63
+4:27,Michigan,Ignas Brazdeikis,Missed Free Throw,36,63
+4:27,Norfolk State,Jordan Butler,Defensive Rebound,36,63
+4:02,Norfolk State,Joe Bryant Jr.,Missed Jumper,36,63
+4:02,Norfolk State,Derrik Jamerson Jr.,Offensive Rebound,36,63
+3:58,Norfolk State,Nic Thomas,Missed Three Point Jumper,36,63
+3:58,Norfolk State,Derrik Jamerson Jr.,Offensive Rebound,36,63
+3:48,Norfolk State,Derrik Jamerson Jr.,Missed Three Point Jumper,36,63
+3:48,Michigan,Brandon Johns Jr.,Defensive Rebound,36,63
+3:44,Michigan,Charles Matthews,Foul,36,63
+3:44,Michigan,Charles Matthews,Turnover,36,63
+3:44,Michigan,None,None,36,63
+3:33,Norfolk State,Nic Thomas,Jumper,38,63
+3:05,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,38,63
+3:05,Norfolk State,Joe Bryant Jr.,Defensive Rebound,38,63
+2:56,Norfolk State,Jordan Butler,Missed Layup,38,63
+2:56,Michigan,Ignas Brazdeikis,Block,38,63
+2:56,Michigan,Ignas Brazdeikis,Defensive Rebound,38,63
+2:41,Michigan,Adrien Nunez,Missed Three Point Jumper,38,63
+2:41,Norfolk State,Joe Bryant Jr.,Defensive Rebound,38,63
+2:34,Norfolk State,Nic Thomas,Missed Three Point Jumper,38,63
+2:34,Michigan,Adrien Nunez,Defensive Rebound,38,63
+2:22,Michigan,None,None,38,63
+2:15,Michigan,Colin Castleton,Turnover,38,63
+2:04,Norfolk State,Joe Bryant Jr.,Missed Jumper,38,63
+2:04,Michigan,David DeJulius,Defensive Rebound,38,63
+2:00,Michigan,David DeJulius,Turnover,38,63
+2:00,Norfolk State,Joe Bryant Jr.,Steal,38,63
+1:54,Michigan,David DeJulius,Foul,38,63
+1:54,Norfolk State,Derrik Jamerson Jr.,Free Throw,39,63
+1:54,Norfolk State,Derrik Jamerson Jr.,Free Throw,40,63
+1:54,Norfolk State,None,None,40,63
+1:39,Norfolk State,Nic Thomas,Foul,40,63
+1:39,Michigan,Colin Castleton,Missed Free Throw,40,63
+1:39,Michigan,None,Team Rebound,40,63
+1:39,Michigan,Colin Castleton,Missed Free Throw,40,63
+1:39,Norfolk State,Armani Branch,Defensive Rebound,40,63
+1:22,Michigan,Colin Castleton,Foul,40,63
+1:22,Norfolk State,Nic Thomas,Free Throw,41,63
+1:22,Norfolk State,Nic Thomas,Missed Free Throw,41,63
+1:22,Michigan,Colin Castleton,Defensive Rebound,41,63
+1:09,Michigan,Colin Castleton,Missed Layup,41,63
+1:09,Norfolk State,Derrik Jamerson Jr.,Block,41,63
+1:09,Michigan,Michigan,Offensive Rebound,41,63
+0:58,Michigan,David DeJulius,Missed Three Point Jumper,41,63
+0:58,Norfolk State,Chris Ford,Defensive Rebound,41,63
+0:51,Norfolk State,BJ Fitzgerald,Three Point Jumper,44,63
+0:32,Michigan,Colin Castleton,Missed Three Point Jumper,44,63
+0:32,Norfolk State,Joe Bryant Jr.,Defensive Rebound,44,63
+0:22,Norfolk State,Chris Ford,Missed Jumper,44,63
+0:22,Norfolk State,Chris Ford,Offensive Rebound,44,63
+0:22,Michigan,Colin Castleton,Foul,44,63
+0:22,Norfolk State,Chris Ford,Missed Free Throw,44,63
+0:22,Norfolk State,None,Team Rebound,44,63
+0:22,Norfolk State,Chris Ford,Missed Free Throw,44,63
+0:22,Michigan,Colin Castleton,Defensive Rebound,44,63
+0:00,Michigan,None,None,44,63

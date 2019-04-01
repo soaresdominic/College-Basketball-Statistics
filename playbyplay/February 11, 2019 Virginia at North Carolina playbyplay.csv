@@ -1,0 +1,282 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Virginia,None,None,0,0
+19:19,Virginia,Jack Salt,Jumper,2,0
+19:19,Virginia,Jack Salt,Offensive Rebound,2,0
+19:19,Virginia,Ty Jerome,Missed Jumper,2,0
+19:13,North Carolina,Coby White,Missed Three Point Jumper,2,0
+19:13,North Carolina,Cameron Johnson,Offensive Rebound,2,0
+19:08,North Carolina,Kenny Williams,Three Point Jumper,2,3
+18:43,Virginia,Kyle Guy,Missed Three Point Jumper,2,3
+18:43,North Carolina,Kenny Williams,Defensive Rebound,2,3
+18:13,North Carolina,Kenny Williams,Three Point Jumper,2,6
+17:47,Virginia,Kihei Clark,Three Point Jumper,5,6
+17:38,North Carolina,Garrison Brooks,Turnover,5,6
+17:38,Virginia,Kihei Clark,Steal,5,6
+17:26,Virginia,Kyle Guy,Three Point Jumper,8,6
+17:05,North Carolina,Luke Maye,Missed Three Point Jumper,8,6
+17:05,Virginia,De'Andre Hunter,Defensive Rebound,8,6
+16:40,Virginia,Ty Jerome,Turnover,8,6
+16:26,North Carolina,Coby White,Three Point Jumper,8,9
+16:00,Virginia,De'Andre Hunter,Missed Jumper,8,9
+16:00,North Carolina,Coby White,Defensive Rebound,8,9
+15:57,Virginia,Jack Salt,Foul,8,9
+15:57,North Carolina,None,None,8,9
+15:43,North Carolina,Cameron Johnson,Jumper,8,11
+15:16,Virginia,Kyle Guy,Three Point Jumper,11,11
+15:07,North Carolina,Cameron Johnson,Missed Three Point Jumper,11,11
+15:07,Virginia,Kihei Clark,Defensive Rebound,11,11
+14:51,Virginia,Ty Jerome,Three Point Jumper,14,11
+14:33,North Carolina,Luke Maye,Missed Jumper,14,11
+14:33,Virginia,Mamadi Diakite,Defensive Rebound,14,11
+14:16,Virginia,Ty Jerome,Layup,16,11
+14:07,North Carolina,Coby White,Foul,16,11
+14:07,North Carolina,Coby White,Turnover,16,11
+13:54,Virginia,Kihei Clark,Missed Jumper,16,11
+13:54,North Carolina,Luke Maye,Defensive Rebound,16,11
+13:36,North Carolina,Nassir Little,Missed Jumper,16,11
+13:36,Virginia,Braxton Key,Defensive Rebound,16,11
+13:13,Virginia,Ty Jerome,Turnover,16,11
+13:02,North Carolina,Coby White,Turnover,16,11
+13:02,Virginia,Kihei Clark,Steal,16,11
+12:44,Virginia,Mamadi Diakite,Jumper,18,11
+12:22,North Carolina,Cameron Johnson,Missed Layup,18,11
+12:22,North Carolina,Cameron Johnson,Offensive Rebound,18,11
+12:19,Virginia,Braxton Key,Foul,18,11
+12:19,North Carolina,Cameron Johnson,Free Throw,18,12
+12:19,North Carolina,Cameron Johnson,Missed Free Throw,18,12
+12:19,Virginia,Kyle Guy,Defensive Rebound,18,12
+12:06,North Carolina,Nassir Little,Foul,18,12
+12:06,Virginia,Braxton Key,Free Throw,19,12
+12:06,Virginia,Braxton Key,Missed Free Throw,19,12
+12:06,North Carolina,Cameron Johnson,Defensive Rebound,19,12
+11:58,North Carolina,Brandon Robinson,Missed Jumper,19,12
+11:58,Virginia,Jay Huff,Defensive Rebound,19,12
+11:43,Virginia,Jay Huff,Turnover,19,12
+11:43,North Carolina,None,None,19,12
+11:22,North Carolina,Coby White,Missed Three Point Jumper,19,12
+11:22,North Carolina,Brandon Robinson,Offensive Rebound,19,12
+10:51,North Carolina,Kenny Williams,Missed Three Point Jumper,19,12
+10:51,Virginia,Braxton Key,Defensive Rebound,19,12
+10:18,Virginia,Jay Huff,Missed Jumper,19,12
+10:18,North Carolina,Cameron Johnson,Defensive Rebound,19,12
+10:05,North Carolina,Cameron Johnson,Three Point Jumper,19,15
+9:44,Virginia,Jay Huff,Missed Three Point Jumper,19,15
+9:44,North Carolina,Brandon Robinson,Defensive Rebound,19,15
+9:30,North Carolina,Seventh Woods,Turnover,19,15
+9:15,Virginia,Kyle Guy,Missed Three Point Jumper,19,15
+9:15,North Carolina,Seventh Woods,Defensive Rebound,19,15
+9:01,North Carolina,Brandon Robinson,Three Point Jumper,19,18
+8:37,North Carolina,Andrew Platek,Foul,19,18
+8:34,Virginia,De'Andre Hunter,Dunk,21,18
+8:15,North Carolina,Seventh Woods,Turnover,21,18
+8:15,Virginia,Kihei Clark,Steal,21,18
+7:56,Virginia,De'Andre Hunter,Foul,21,18
+7:56,Virginia,De'Andre Hunter,Turnover,21,18
+7:56,North Carolina,None,None,21,18
+7:41,North Carolina,Kenny Williams,Missed Jumper,21,18
+7:41,Virginia,Jack Salt,Defensive Rebound,21,18
+7:07,Virginia,Virginia ,Turnover,21,18
+6:49,North Carolina,Garrison Brooks,Layup,21,20
+6:31,Virginia,De'Andre Hunter,Three Point Jumper,24,20
+6:21,North Carolina,Luke Maye,Missed Jumper,24,20
+6:21,North Carolina,Luke Maye,Offensive Rebound,24,20
+6:15,North Carolina,Luke Maye,Layup,24,22
+6:03,Virginia,Mamadi Diakite,Dunk,26,22
+5:47,North Carolina,Garrison Brooks,Missed Layup,26,22
+5:47,Virginia,Mamadi Diakite,Block,26,22
+5:47,Virginia,Ty Jerome,Defensive Rebound,26,22
+5:35,Virginia,De'Andre Hunter,Missed Jumper,26,22
+5:35,Virginia,Virginia,Offensive Rebound,26,22
+5:34,North Carolina,Garrison Brooks,Foul,26,22
+5:14,North Carolina,Cameron Johnson,Foul,26,22
+5:14,Virginia,Mamadi Diakite,Free Throw,27,22
+5:14,Virginia,Mamadi Diakite,Free Throw,28,22
+5:09,North Carolina,Luke Maye,Missed Three Point Jumper,28,22
+5:09,North Carolina,Garrison Brooks,Offensive Rebound,28,22
+5:03,North Carolina,Garrison Brooks,Missed Jumper,28,22
+5:03,Virginia,Mamadi Diakite,Block,28,22
+5:03,Virginia,Kyle Guy,Defensive Rebound,28,22
+4:44,Virginia,De'Andre Hunter,Three Point Jumper,31,22
+4:12,North Carolina,Coby White,Layup,31,24
+3:51,Virginia,Ty Jerome,Missed Jumper,31,24
+3:51,North Carolina,Kenny Williams,Block,31,24
+3:51,North Carolina,Garrison Brooks,Defensive Rebound,31,24
+3:46,Virginia,Ty Jerome,Foul,31,24
+3:46,North Carolina,None,None,31,24
+3:34,North Carolina,Cameron Johnson,Three Point Jumper,31,27
+3:12,Virginia,De'Andre Hunter,Dunk,33,27
+3:00,North Carolina,Brandon Robinson,Missed Three Point Jumper,33,27
+3:00,Virginia,De'Andre Hunter,Defensive Rebound,33,27
+2:38,Virginia,Kyle Guy,Foul,33,27
+2:38,Virginia,Kyle Guy,Turnover,33,27
+2:28,North Carolina,Kenny Williams,Missed Jumper,33,27
+2:28,Virginia,De'Andre Hunter,Defensive Rebound,33,27
+2:17,North Carolina,Kenny Williams,Foul,33,27
+2:17,Virginia,Kyle Guy,Missed Free Throw,33,27
+2:17,Virginia,None,Team Rebound,33,27
+2:17,Virginia,Kyle Guy,Free Throw,34,27
+2:03,North Carolina,Coby White,Missed Layup,34,27
+2:03,Virginia,Mamadi Diakite,Block,34,27
+2:03,North Carolina,Coby White,Offensive Rebound,34,27
+1:53,North Carolina,Cameron Johnson,Missed Three Point Jumper,34,27
+1:53,Virginia,Ty Jerome,Defensive Rebound,34,27
+1:29,Virginia,Ty Jerome,Jumper,36,27
+1:03,North Carolina,Luke Maye,Missed Jumper,36,27
+1:03,Virginia,Braxton Key,Defensive Rebound,36,27
+0:45,Virginia,Kihei Clark,Missed Layup,36,27
+0:45,North Carolina,Brandon Robinson,Block,36,27
+0:45,North Carolina,Kenny Williams,Defensive Rebound,36,27
+0:38,North Carolina,Coby White,Layup,36,29
+0:06,Virginia,Virginia ,Turnover,36,29
+0:02,North Carolina,None,None,36,29
+0:01,North Carolina,Kenny Williams,Missed Three Point Jumper,36,29
+0:01,North Carolina,North Carolina,Offensive Rebound,36,29
+0:00,North Carolina,None,None,36,29
+20:00,North Carolina,None,None,36,29
+19:45,North Carolina,Cameron Johnson,Missed Three Point Jumper,36,29
+19:45,Virginia,De'Andre Hunter,Defensive Rebound,36,29
+19:20,Virginia,Kyle Guy,Missed Three Point Jumper,36,29
+19:20,North Carolina,Coby White,Defensive Rebound,36,29
+19:01,North Carolina,Coby White,Three Point Jumper,36,32
+18:24,Virginia,Kyle Guy,Layup,38,32
+18:13,North Carolina,Coby White,Missed Three Point Jumper,38,32
+18:13,Virginia,Ty Jerome,Defensive Rebound,38,32
+17:45,North Carolina,Luke Maye,Foul,38,32
+17:45,Virginia,Ty Jerome,Free Throw,39,32
+17:45,Virginia,Ty Jerome,Missed Free Throw,39,32
+17:45,Virginia,None,Team Rebound,39,32
+17:45,Virginia,Ty Jerome,Free Throw,40,32
+17:16,North Carolina,Cameron Johnson,Missed Three Point Jumper,40,32
+17:16,North Carolina,Luke Maye,Offensive Rebound,40,32
+17:07,North Carolina,Coby White,Layup,40,34
+16:41,Virginia,Ty Jerome,Missed Jumper,40,34
+16:41,North Carolina,Luke Maye,Defensive Rebound,40,34
+16:20,North Carolina,Coby White,Missed Three Point Jumper,40,34
+16:20,North Carolina,Garrison Brooks,Offensive Rebound,40,34
+16:19,North Carolina,Kenny Williams,Three Point Jumper,40,37
+15:55,Virginia,De'Andre Hunter,Missed Jumper,40,37
+15:55,North Carolina,Kenny Williams,Defensive Rebound,40,37
+15:41,North Carolina,Garrison Brooks,Dunk,40,39
+15:14,Virginia,De'Andre Hunter,Three Point Jumper,43,39
+14:56,North Carolina,Luke Maye,Missed Jumper,43,39
+14:56,Virginia,Ty Jerome,Defensive Rebound,43,39
+14:38,Virginia,Mamadi Diakite,Turnover,43,39
+14:38,North Carolina,Kenny Williams,Steal,43,39
+14:31,North Carolina,Cameron Johnson,Layup,43,41
+14:31,Virginia,Kyle Guy,Foul,43,41
+14:31,North Carolina,None,None,43,41
+14:31,North Carolina,Cameron Johnson,Free Throw,43,42
+14:21,Virginia,Kihei Clark,Turnover,43,42
+14:21,North Carolina,Garrison Brooks,Steal,43,42
+14:13,North Carolina,Cameron Johnson,Layup,43,44
+13:46,Virginia,Kyle Guy,Missed Jumper,43,44
+13:46,North Carolina,Kenny Williams,Block,43,44
+13:46,North Carolina,Garrison Brooks,Defensive Rebound,43,44
+13:39,North Carolina,Coby White,Missed Jumper,43,44
+13:39,Virginia,Braxton Key,Block,43,44
+13:39,Virginia,Kihei Clark,Defensive Rebound,43,44
+13:16,Virginia,Kyle Guy,Missed Three Point Jumper,43,44
+13:16,Virginia,Jack Salt,Offensive Rebound,43,44
+13:07,Virginia,Kyle Guy,Missed Jumper,43,44
+13:07,North Carolina,Garrison Brooks,Defensive Rebound,43,44
+12:54,North Carolina,Garrison Brooks,Layup,43,46
+12:53,Virginia,None,None,43,46
+12:30,Virginia,Kihei Clark,Missed Three Point Jumper,43,46
+12:30,Virginia,Braxton Key,Offensive Rebound,43,46
+12:24,Virginia,Braxton Key,Turnover,43,46
+12:04,North Carolina,Coby White,Three Point Jumper,43,49
+11:34,Virginia,Braxton Key,Missed Three Point Jumper,43,49
+11:34,North Carolina,North Carolina,Defensive Rebound,43,49
+11:32,Virginia,Jack Salt,Foul,43,49
+11:32,North Carolina,None,None,43,49
+11:10,North Carolina,Coby White,Missed Jumper,43,49
+11:10,Virginia,Mamadi Diakite,Defensive Rebound,43,49
+10:46,Virginia,De'Andre Hunter,Jumper,45,49
+10:29,North Carolina,Garrison Brooks,Missed Jumper,45,49
+10:29,North Carolina,Brandon Robinson,Offensive Rebound,45,49
+10:09,North Carolina,Kenny Williams,Missed Three Point Jumper,45,49
+10:09,Virginia,Virginia,Defensive Rebound,45,49
+9:32,Virginia,Braxton Key,Missed Three Point Jumper,45,49
+9:32,North Carolina,Kenny Williams,Defensive Rebound,45,49
+9:26,Virginia,Braxton Key,Foul,45,49
+9:26,North Carolina,Coby White,Free Throw,45,50
+9:26,North Carolina,Coby White,Free Throw,45,51
+9:13,North Carolina,Kenny Williams,Foul,45,51
+9:13,Virginia,De'Andre Hunter,Free Throw,46,51
+9:13,Virginia,De'Andre Hunter,Missed Free Throw,46,51
+9:13,North Carolina,Cameron Johnson,Defensive Rebound,46,51
+8:59,North Carolina,Cameron Johnson,Jumper,46,53
+8:35,Virginia,Kyle Guy,Jumper,48,53
+8:25,North Carolina,Coby White,Missed Three Point Jumper,48,53
+8:25,Virginia,Braxton Key,Defensive Rebound,48,53
+8:06,Virginia,Mamadi Diakite,Missed Jumper,48,53
+8:06,North Carolina,Luke Maye,Defensive Rebound,48,53
+7:53,North Carolina,Luke Maye,Jumper,48,55
+7:29,Virginia,Kyle Guy,Three Point Jumper,51,55
+6:56,North Carolina,Coby White,Missed Jumper,51,55
+6:56,Virginia,Mamadi Diakite,Block,51,55
+6:56,Virginia,Virginia,Defensive Rebound,51,55
+6:52,North Carolina,None,None,51,55
+6:33,North Carolina,Coby White,Foul,51,55
+6:33,Virginia,Ty Jerome,Free Throw,52,55
+6:33,Virginia,Ty Jerome,Missed Free Throw,52,55
+6:33,North Carolina,Luke Maye,Defensive Rebound,52,55
+6:19,North Carolina,Luke Maye,Turnover,52,55
+6:19,Virginia,De'Andre Hunter,Steal,52,55
+6:12,Virginia,Ty Jerome,Three Point Jumper,55,55
+5:51,North Carolina,Luke Maye,Missed Three Point Jumper,55,55
+5:51,North Carolina,North Carolina,Offensive Rebound,55,55
+5:38,Virginia,Ty Jerome,Foul,55,55
+5:31,North Carolina,Garrison Brooks,Layup,55,57
+5:03,Virginia,Ty Jerome,Jumper,57,57
+4:51,Virginia,Ty Jerome,Foul,57,57
+4:41,Virginia,Braxton Key,Foul,57,57
+4:41,North Carolina,Garrison Brooks,Free Throw,57,58
+4:41,North Carolina,Garrison Brooks,Free Throw,57,59
+4:14,North Carolina,Garrison Brooks,Foul,57,59
+4:04,Virginia,De'Andre Hunter,Layup,59,59
+3:29,North Carolina,North Carolina ,Turnover,59,59
+3:29,North Carolina,None,None,59,59
+3:12,Virginia,Jay Huff,Layup,61,59
+3:12,North Carolina,Garrison Brooks,Foul,61,59
+3:12,Virginia,Jay Huff,Missed Free Throw,61,59
+3:12,North Carolina,Luke Maye,Defensive Rebound,61,59
+3:00,North Carolina,Coby White,Missed Layup,61,59
+3:00,Virginia,Jay Huff,Defensive Rebound,61,59
+2:36,Virginia,Ty Jerome,Missed Three Point Jumper,61,59
+2:36,North Carolina,Luke Maye,Defensive Rebound,61,59
+2:27,North Carolina,None,None,61,59
+2:16,North Carolina,Coby White,Turnover,61,59
+2:16,Virginia,Jay Huff,Steal,61,59
+1:56,Virginia,Kyle Guy,Three Point Jumper,64,59
+1:38,North Carolina,Kenny Williams,Missed Layup,64,59
+1:38,North Carolina,Garrison Brooks,Offensive Rebound,64,59
+1:34,North Carolina,Garrison Brooks,Jumper,64,61
+1:10,Virginia,Kyle Guy,Three Point Jumper,67,61
+1:10,North Carolina,Kenny Williams,Foul,67,61
+1:10,Virginia,Kyle Guy,Missed Free Throw,67,61
+1:10,North Carolina,Luke Maye,Defensive Rebound,67,61
+0:48,North Carolina,Coby White,Missed Three Point Jumper,67,61
+0:48,Virginia,De'Andre Hunter,Block,67,61
+0:48,North Carolina,Garrison Brooks,Offensive Rebound,67,61
+0:41,North Carolina,Coby White,Missed Three Point Jumper,67,61
+0:41,North Carolina,Cameron Johnson,Offensive Rebound,67,61
+0:33,North Carolina,Cameron Johnson,Missed Jumper,67,61
+0:33,Virginia,Braxton Key,Defensive Rebound,67,61
+0:27,North Carolina,Coby White,Foul,67,61
+0:27,Virginia,Braxton Key,Missed Free Throw,67,61
+0:27,North Carolina,Luke Maye,Defensive Rebound,67,61
+0:23,North Carolina,Kenny Williams,Missed Three Point Jumper,67,61
+0:23,Virginia,De'Andre Hunter,Defensive Rebound,67,61
+0:16,North Carolina,Luke Maye,Foul,67,61
+0:16,Virginia,De'Andre Hunter,Free Throw,68,61
+0:16,Virginia,De'Andre Hunter,Free Throw,69,61
+0:12,North Carolina,Coby White,Missed Three Point Jumper,69,61
+0:12,North Carolina,Cameron Johnson,Offensive Rebound,69,61
+0:07,North Carolina,Cameron Johnson,Missed Jumper,69,61
+0:07,North Carolina,Garrison Brooks,Offensive Rebound,69,61
+0:03,North Carolina,Cameron Johnson,Missed Three Point Jumper,69,61
+0:03,North Carolina,Luke Maye,Offensive Rebound,69,61
+0:03,North Carolina,None,None,69,61
+0:03,North Carolina,North Carolina,Offensive Rebound,69,61
+0:00,North Carolina,None,None,69,61

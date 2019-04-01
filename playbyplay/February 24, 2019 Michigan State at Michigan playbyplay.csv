@@ -1,0 +1,306 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Michigan,None,None,0,0
+19:43,Michigan,Jordan Poole,Missed Three Point Jumper,0,0
+19:43,Michigan State,Kenny Goins,Defensive Rebound,0,0
+19:20,Michigan State,None,None,0,0
+19:15,Michigan,Charles Matthews,Foul,0,0
+19:15,Michigan State,Matt McQuaid,Free Throw,1,0
+19:15,Michigan State,Matt McQuaid,Missed Free Throw,1,0
+19:15,Michigan State,None,Team Rebound,1,0
+19:15,Michigan State,Matt McQuaid,Missed Free Throw,1,0
+19:15,Michigan,Ignas Brazdeikis,Defensive Rebound,1,0
+18:51,Michigan,Zavier Simpson,Missed Jumper,1,0
+18:51,Michigan,Jon Teske,Offensive Rebound,1,0
+18:49,Michigan,Jon Teske,Jumper,1,2
+18:49,Michigan State,Aaron Henry,Foul,1,2
+18:49,Michigan,Jon Teske,Free Throw,1,3
+18:41,Michigan State,Kenny Goins,Three Point Jumper,4,3
+18:12,Michigan,Isaiah Livers,Three Point Jumper,4,6
+18:04,Michigan State,Aaron Henry,Jumper,6,6
+17:47,Michigan,Isaiah Livers,Missed Three Point Jumper,6,6
+17:47,Michigan,Jon Teske,Offensive Rebound,6,6
+17:46,Michigan State,Aaron Henry,Foul,6,6
+17:46,Michigan,Jon Teske,Free Throw,6,7
+17:46,Michigan,Jon Teske,Free Throw,6,8
+17:19,Michigan State,Xavier Tillman,Missed Layup,6,8
+17:19,Michigan,Jon Teske,Block,6,8
+17:19,Michigan,Jon Teske,Defensive Rebound,6,8
+17:06,Michigan,Ignas Brazdeikis,Jumper,6,10
+16:48,Michigan State,Kenny Goins,Missed Three Point Jumper,6,10
+16:48,Michigan State,Matt McQuaid,Offensive Rebound,6,10
+16:25,Michigan State,Xavier Tillman,Dunk,8,10
+15:58,Michigan,Zavier Simpson,Missed Three Point Jumper,8,10
+15:58,Michigan,Michigan,Offensive Rebound,8,10
+15:56,Michigan State,Kyle Ahrens,Foul,8,10
+15:56,Michigan,None,None,8,10
+15:56,Michigan,Michigan ,Turnover,8,10
+15:40,Michigan State,Xavier Tillman,Layup,10,10
+15:16,Michigan,Jon Teske,Layup,10,12
+14:54,Michigan State,Matt McQuaid,Three Point Jumper,13,12
+14:27,Michigan,Zavier Simpson,Jumper,13,14
+14:10,Michigan State,Kenny Goins,Three Point Jumper,16,14
+13:51,Michigan,Isaiah Livers,Three Point Jumper,16,17
+13:43,Michigan State,Cassius Winston,Turnover,16,17
+13:43,Michigan,Jon Teske,Steal,16,17
+13:39,Michigan,Isaiah Livers,Turnover,16,17
+13:39,Michigan State,Kyle Ahrens,Steal,16,17
+13:11,Michigan State,Cassius Winston,Missed Jumper,16,17
+13:11,Michigan,Isaiah Livers,Defensive Rebound,16,17
+13:10,Michigan,Isaiah Livers,Turnover,16,17
+12:57,Michigan State,Cassius Winston,Jumper,18,17
+12:37,Michigan State,Thomas Kithier,Foul,18,17
+12:22,Michigan,Zavier Simpson,Missed Three Point Jumper,18,17
+12:22,Michigan State,Kyle Ahrens,Defensive Rebound,18,17
+12:09,Michigan State,Kenny Goins,Jumper,20,17
+11:46,Michigan,Zavier Simpson,Turnover,20,17
+11:39,Michigan,Brandon Johns Jr.,Foul,20,17
+11:39,Michigan,None,None,20,17
+11:39,Michigan State,Cassius Winston,Free Throw,21,17
+11:39,Michigan State,Cassius Winston,Free Throw,22,17
+11:27,Michigan,Zavier Simpson,Three Point Jumper,22,20
+10:53,Michigan State,Cassius Winston,Jumper,24,20
+10:34,Michigan,Eli Brooks,Missed Three Point Jumper,24,20
+10:34,Michigan,Ignas Brazdeikis,Offensive Rebound,24,20
+10:28,Michigan,Ignas Brazdeikis,Missed Layup,24,20
+10:28,Michigan State,Kyle Ahrens,Defensive Rebound,24,20
+10:17,Michigan State,Kenny Goins,Three Point Jumper,27,20
+9:57,Michigan,Zavier Simpson,Three Point Jumper,27,23
+9:32,Michigan State,Cassius Winston,Turnover,27,23
+9:27,Michigan,Jordan Poole,Layup,27,25
+9:13,Michigan State,Kyle Ahrens,Missed Three Point Jumper,27,25
+9:13,Michigan State,Thomas Kithier,Offensive Rebound,27,25
+9:05,Michigan State,Cassius Winston,Missed Three Point Jumper,27,25
+9:05,Michigan,Jon Teske,Defensive Rebound,27,25
+8:50,Michigan,Jordan Poole,Missed Three Point Jumper,27,25
+8:50,Michigan State,Xavier Tillman,Defensive Rebound,27,25
+8:37,Michigan State,Matt McQuaid,Missed Jumper,27,25
+8:37,Michigan,Ignas Brazdeikis,Defensive Rebound,27,25
+8:28,Michigan,Ignas Brazdeikis,Three Point Jumper,27,28
+7:51,Michigan,David DeJulius,Foul,27,28
+7:51,Michigan,None,None,27,28
+7:51,Michigan State,Kyle Ahrens,Free Throw,28,28
+7:51,Michigan State,Kyle Ahrens,Missed Free Throw,28,28
+7:51,Michigan,Jordan Poole,Defensive Rebound,28,28
+7:36,Michigan,Jordan Poole,Missed Layup,28,28
+7:36,Michigan State,Kyle Ahrens,Block,28,28
+7:36,Michigan State,Kyle Ahrens,Defensive Rebound,28,28
+7:15,Michigan State,Xavier Tillman,Layup,30,28
+6:55,Michigan,Zavier Simpson,Missed Three Point Jumper,30,28
+6:55,Michigan,Jon Teske,Offensive Rebound,30,28
+6:48,Michigan,Jon Teske,Turnover,30,28
+6:48,Michigan State,Kyle Ahrens,Steal,30,28
+6:42,Michigan State,Matt McQuaid,Missed Three Point Jumper,30,28
+6:42,Michigan State,Xavier Tillman,Offensive Rebound,30,28
+6:30,Michigan State,Kyle Ahrens,Missed Three Point Jumper,30,28
+6:30,Michigan,Zavier Simpson,Defensive Rebound,30,28
+6:24,Michigan,Zavier Simpson,Layup,30,30
+6:19,Michigan State,Cassius Winston,Missed Three Point Jumper,30,30
+6:19,Michigan,Zavier Simpson,Defensive Rebound,30,30
+5:50,Michigan,David DeJulius,Missed Jumper,30,30
+5:50,Michigan State,Michigan State,Defensive Rebound,30,30
+5:29,Michigan State,Cassius Winston,Foul,30,30
+5:12,Michigan,Charles Matthews,Missed Jumper,30,30
+5:12,Michigan State,Cassius Winston,Defensive Rebound,30,30
+4:58,Michigan State,Matt McQuaid,Turnover,30,30
+4:58,Michigan,Ignas Brazdeikis,Steal,30,30
+4:54,Michigan,Zavier Simpson,Missed Layup,30,30
+4:54,Michigan State,Gabe Brown,Block,30,30
+4:54,Michigan,Michigan,Offensive Rebound,30,30
+4:39,Michigan,Ignas Brazdeikis,Turnover,30,30
+4:39,Michigan State,Cassius Winston,Steal,30,30
+4:33,Michigan State,Cassius Winston,Layup,32,30
+4:04,Michigan,Charles Matthews,Layup,32,32
+3:50,Michigan State,Matt McQuaid,Missed Three Point Jumper,32,32
+3:50,Michigan State,Kenny Goins,Offensive Rebound,32,32
+3:50,Michigan State,None,None,34,32
+3:19,Michigan State,Xavier Tillman,Foul,34,32
+3:19,Michigan,None,None,34,32
+3:19,Michigan,Jordan Poole,Free Throw,34,33
+3:19,Michigan,Jordan Poole,Free Throw,34,34
+2:49,Michigan State,Kenny Goins,Missed Jumper,34,34
+2:49,Michigan,Ignas Brazdeikis,Defensive Rebound,34,34
+2:30,Michigan State,Thomas Kithier,Foul,34,34
+2:30,Michigan,Jon Teske,Free Throw,34,35
+2:30,Michigan,Jon Teske,Missed Free Throw,34,35
+2:30,Michigan State,Xavier Tillman,Defensive Rebound,34,35
+2:08,Michigan State,Matt McQuaid,Three Point Jumper,37,35
+1:41,Michigan,Jordan Poole,Missed Jumper,37,35
+1:41,Michigan,Ignas Brazdeikis,Offensive Rebound,37,35
+1:34,Michigan,Ignas Brazdeikis,Turnover,37,35
+1:34,Michigan State,Cassius Winston,Steal,37,35
+1:33,Michigan,Zavier Simpson,Foul,37,35
+1:33,Michigan State,Xavier Tillman,Free Throw,38,35
+1:33,Michigan State,Xavier Tillman,Free Throw,39,35
+1:14,Michigan,Charles Matthews,Missed Jumper,39,35
+1:14,Michigan,Michigan,Offensive Rebound,39,35
+1:07,Michigan,Charles Matthews,Missed Jumper,39,35
+1:07,Michigan,Ignas Brazdeikis,Offensive Rebound,39,35
+1:02,Michigan,Ignas Brazdeikis,Jumper,39,37
+0:28,Michigan State,Kyle Ahrens,Turnover,39,37
+0:14,Michigan,None,None,39,37
+0:04,Michigan,Zavier Simpson,Missed Jumper,39,37
+0:04,Michigan,Ignas Brazdeikis,Offensive Rebound,39,37
+0:00,Michigan,None,None,39,37
+20:00,Michigan,None,None,39,37
+19:37,Michigan State,Aaron Henry,Foul,39,37
+19:37,Michigan,Ignas Brazdeikis,Free Throw,39,38
+19:37,Michigan,Ignas Brazdeikis,Free Throw,39,39
+19:11,Michigan State,Cassius Winston,Jumper,41,39
+18:56,Michigan,Jordan Poole,Layup,41,41
+18:42,Michigan State,Matt McQuaid,Missed Jumper,41,41
+18:42,Michigan,Jon Teske,Defensive Rebound,41,41
+18:29,Michigan State,Matt McQuaid,Foul,41,41
+18:29,Michigan,Ignas Brazdeikis,Free Throw,41,42
+18:29,Michigan,Ignas Brazdeikis,Free Throw,41,43
+18:29,Michigan,Ignas Brazdeikis,Free Throw,41,44
+18:18,Michigan State,Kenny Goins,Missed Three Point Jumper,41,44
+18:18,Michigan State,Kenny Goins,Offensive Rebound,41,44
+18:00,Michigan,Jon Teske,Foul,41,44
+18:00,Michigan State,Cassius Winston,Free Throw,42,44
+18:00,Michigan State,Cassius Winston,Free Throw,43,44
+17:38,Michigan State,Xavier Tillman,Foul,43,44
+17:38,Michigan,Zavier Simpson,Free Throw,43,45
+17:38,Michigan,Zavier Simpson,Free Throw,43,46
+17:25,Michigan,Isaiah Livers,Foul,43,46
+17:21,Michigan State,Matt McQuaid,Foul,43,46
+17:21,Michigan State,Matt McQuaid,Turnover,43,46
+17:07,Michigan,Jon Teske,Missed Layup,43,46
+17:07,Michigan State,Xavier Tillman,Defensive Rebound,43,46
+17:00,Michigan,Jon Teske,Foul,43,46
+16:42,Michigan State,Cassius Winston,Jumper,45,46
+16:19,Michigan,Jordan Poole,Layup,45,48
+16:19,Michigan State,Kyle Ahrens,Foul,45,48
+16:19,Michigan,Jordan Poole,Free Throw,45,49
+16:09,Michigan State,Xavier Tillman,Missed Jumper,45,49
+16:09,Michigan,Jon Teske,Defensive Rebound,45,49
+15:57,Michigan,Ignas Brazdeikis,Dunk,45,51
+15:32,Michigan State,None,None,45,51
+15:22,Michigan,Ignas Brazdeikis,Foul,45,51
+15:22,Michigan,None,None,45,51
+15:05,Michigan State,Cassius Winston,Missed Jumper,45,51
+15:05,Michigan,Jon Teske,Defensive Rebound,45,51
+14:56,Michigan,Jordan Poole,Turnover,45,51
+14:41,Michigan,Zavier Simpson,Foul,45,51
+14:33,Michigan State,Matt McQuaid,Missed Three Point Jumper,45,51
+14:33,Michigan,Jon Teske,Defensive Rebound,45,51
+14:13,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,45,51
+14:13,Michigan State,Kenny Goins,Defensive Rebound,45,51
+13:51,Michigan State,Xavier Tillman,Layup,47,51
+13:34,Michigan,Charles Matthews,Turnover,47,51
+13:34,Michigan State,Kyle Ahrens,Steal,47,51
+13:28,Michigan State,Cassius Winston,Turnover,47,51
+13:28,Michigan,Zavier Simpson,Steal,47,51
+13:25,Michigan State,Kyle Ahrens,Foul,47,51
+13:13,Michigan State,Xavier Tillman,Foul,47,51
+13:13,Michigan,Ignas Brazdeikis,Missed Free Throw,47,51
+13:13,Michigan State,Kenny Goins,Defensive Rebound,47,51
+13:01,Michigan State,Kenny Goins,Missed Three Point Jumper,47,51
+13:01,Michigan State,Michigan State,Offensive Rebound,47,51
+12:49,Michigan State,Thomas Kithier,Layup,49,51
+12:22,Michigan,Jordan Poole,Missed Three Point Jumper,49,51
+12:22,Michigan State,Kenny Goins,Defensive Rebound,49,51
+12:09,Michigan State,Cassius Winston,Missed Three Point Jumper,49,51
+12:09,Michigan,Isaiah Livers,Block,49,51
+12:09,Michigan State,Matt McQuaid,Offensive Rebound,49,51
+11:50,Michigan,Jordan Poole,Foul,49,51
+11:50,Michigan,None,None,49,51
+11:50,Michigan State,Matt McQuaid,Free Throw,50,51
+11:50,Michigan State,Matt McQuaid,Free Throw,51,51
+11:50,Michigan State,Matt McQuaid,Free Throw,52,51
+11:26,Michigan,Charles Matthews,Missed Jumper,52,51
+11:26,Michigan,Eli Brooks,Offensive Rebound,52,51
+11:19,Michigan,Eli Brooks,Missed Three Point Jumper,52,51
+11:19,Michigan State,Thomas Kithier,Defensive Rebound,52,51
+10:54,Michigan State,Cassius Winston,Missed Jumper,52,51
+10:54,Michigan,Jon Teske,Defensive Rebound,52,51
+10:36,Michigan,Zavier Simpson,Layup,52,53
+10:13,Michigan State,Cassius Winston,Jumper,54,53
+9:55,Michigan,Zavier Simpson,Missed Three Point Jumper,54,53
+9:55,Michigan State,Cassius Winston,Defensive Rebound,54,53
+9:44,Michigan State,Kenny Goins,Missed Three Point Jumper,54,53
+9:44,Michigan,Zavier Simpson,Defensive Rebound,54,53
+9:34,Michigan,Jon Teske,Missed Layup,54,53
+9:34,Michigan State,Aaron Henry,Defensive Rebound,54,53
+9:25,Michigan State,Kenny Goins,Jumper,56,53
+8:55,Michigan,Zavier Simpson,Missed Three Point Jumper,56,53
+8:55,Michigan State,Thomas Kithier,Defensive Rebound,56,53
+8:28,Michigan State,Aaron Henry,Missed Jumper,56,53
+8:28,Michigan,Zavier Simpson,Defensive Rebound,56,53
+8:22,Michigan State,Matt McQuaid,Foul,56,53
+8:22,Michigan,Charles Matthews,Free Throw,56,54
+8:22,Michigan,Charles Matthews,Free Throw,56,55
+8:22,Michigan,None,None,56,55
+7:58,Michigan State,Xavier Tillman,Layup,58,55
+7:26,Michigan,Charles Matthews,Missed Three Point Jumper,58,55
+7:26,Michigan State,Aaron Henry,Defensive Rebound,58,55
+7:06,Michigan,Jordan Poole,Foul,58,55
+7:06,Michigan State,Aaron Henry,Free Throw,59,55
+7:06,Michigan State,Aaron Henry,Free Throw,60,55
+6:41,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,60,55
+6:41,Michigan State,Kenny Goins,Defensive Rebound,60,55
+6:14,Michigan State,Cassius Winston,Jumper,62,55
+5:50,Michigan,Ignas Brazdeikis,Missed Jumper,62,55
+5:50,Michigan,Jon Teske,Offensive Rebound,62,55
+5:35,Michigan,Jon Teske,Layup,62,57
+5:16,Michigan State,Xavier Tillman,Dunk,64,57
+4:55,Michigan,Charles Matthews,Missed Jumper,64,57
+4:55,Michigan State,Matt McQuaid,Defensive Rebound,64,57
+4:28,Michigan State,Kenny Goins,Missed Three Point Jumper,64,57
+4:28,Michigan,Zavier Simpson,Defensive Rebound,64,57
+4:05,Michigan State,Xavier Tillman,Foul,64,57
+4:05,Michigan,Zavier Simpson,Free Throw,64,58
+4:05,Michigan,Zavier Simpson,Missed Free Throw,64,58
+4:05,Michigan State,Kenny Goins,Defensive Rebound,64,58
+3:41,Michigan State,Matt McQuaid,Jumper,66,58
+3:17,Michigan,Ignas Brazdeikis,Missed Jumper,66,58
+3:17,Michigan State,Thomas Kithier,Block,66,58
+3:17,Michigan,Michigan,Offensive Rebound,66,58
+3:17,Michigan,None,None,66,58
+3:14,Michigan,Ignas Brazdeikis,Layup,66,60
+2:51,Michigan State,Kenny Goins,Missed Three Point Jumper,66,60
+2:51,Michigan State,Matt McQuaid,Offensive Rebound,66,60
+2:46,Michigan,Jordan Poole,Foul,66,60
+2:46,Michigan State,Matt McQuaid,Free Throw,67,60
+2:46,Michigan State,Matt McQuaid,Missed Free Throw,67,60
+2:46,Michigan,Ignas Brazdeikis,Defensive Rebound,67,60
+2:29,Michigan,Jordan Poole,Missed Three Point Jumper,67,60
+2:29,Michigan State,Matt McQuaid,Defensive Rebound,67,60
+2:03,Michigan,Ignas Brazdeikis,Foul,67,60
+2:03,Michigan State,Cassius Winston,Free Throw,68,60
+2:03,Michigan State,Cassius Winston,Free Throw,69,60
+1:52,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,69,60
+1:52,Michigan State,Xavier Tillman,Defensive Rebound,69,60
+1:30,Michigan State,Aaron Henry,Missed Three Point Jumper,69,60
+1:30,Michigan,Ignas Brazdeikis,Defensive Rebound,69,60
+1:18,Michigan,Charles Matthews,Missed Three Point Jumper,69,60
+1:18,Michigan State,Kenny Goins,Defensive Rebound,69,60
+0:50,Michigan,Isaiah Livers,Foul,69,60
+0:50,Michigan State,Cassius Winston,Missed Free Throw,69,60
+0:50,Michigan State,None,Team Rebound,69,60
+0:50,Michigan State,Cassius Winston,Free Throw,70,60
+0:44,Michigan,Zavier Simpson,Layup,70,62
+0:44,Michigan,None,None,70,62
+0:42,Michigan State,Kenny Goins,Turnover,70,62
+0:40,Michigan,Jordan Poole,Three Point Jumper,70,65
+0:40,Michigan,None,None,70,65
+0:40,Michigan,Jordan Poole,Foul,70,65
+0:40,Michigan State,Cassius Winston,Free Throw,71,65
+0:40,Michigan State,Cassius Winston,Free Throw,72,65
+0:33,Michigan,Jordan Poole,Three Point Jumper,72,68
+0:30,Michigan,Zavier Simpson,Foul,72,68
+0:30,Michigan State,Cassius Winston,Free Throw,73,68
+0:30,Michigan State,Cassius Winston,Free Throw,74,68
+0:22,Michigan,Jordan Poole,Missed Three Point Jumper,74,68
+0:22,Michigan State,Kenny Goins,Defensive Rebound,74,68
+0:19,Michigan,Ignas Brazdeikis,Foul,74,68
+0:19,Michigan State,Cassius Winston,Free Throw,75,68
+0:19,Michigan State,Cassius Winston,Free Throw,76,68
+0:19,Michigan State,None,None,76,68
+0:16,Michigan,Jordan Poole,Missed Three Point Jumper,76,68
+0:16,Michigan State,Kenny Goins,Defensive Rebound,76,68
+0:13,Michigan,Ignas Brazdeikis,Foul,76,68
+0:13,Michigan State,Kenny Goins,Missed Free Throw,76,68
+0:13,Michigan State,None,Team Rebound,76,68
+0:13,Michigan State,Kenny Goins,Free Throw,77,68
+0:08,Michigan,Zavier Simpson,Layup,77,70
+0:00,Michigan,None,None,77,70

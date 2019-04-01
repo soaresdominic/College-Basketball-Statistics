@@ -1,0 +1,320 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,TCU,None,None,0,0
+19:48,TCU,Kevin Samuel,Dunk,0,2
+19:15,CSU Bakersfield,Rickey Holden,Jumper,2,2
+18:59,TCU,Alex Robinson,Jumper,2,4
+18:53,CSU Bakersfield,Jarkel Joiner,Layup,4,4
+18:24,CSU Bakersfield,Jarkel Joiner,Foul,4,4
+18:24,TCU,Kevin Samuel,Turnover,4,4
+18:24,TCU,Kevin Samuel,Foul,4,4
+18:12,CSU Bakersfield,Jarkel Joiner,Turnover,4,4
+18:01,TCU,Alex Robinson,Layup,4,6
+17:43,TCU,JD Miller,Foul,4,6
+17:43,CSU Bakersfield,Justin Elder-Davis,Free Throw,5,6
+17:43,CSU Bakersfield,Justin Elder-Davis,Free Throw,6,6
+17:29,TCU,Lat Mayen,Turnover,6,6
+17:16,CSU Bakersfield,Justin McCall,Jumper,8,6
+16:54,CSU Bakersfield,James Suber,Foul,8,6
+16:54,TCU,Alex Robinson,Missed Free Throw,8,6
+16:54,TCU,None,Team Rebound,8,6
+16:54,TCU,Alex Robinson,Free Throw,8,7
+16:38,CSU Bakersfield,Taze Moore,Foul,8,7
+16:38,CSU Bakersfield,Taze Moore,Turnover,8,7
+16:30,TCU,Desmond Bane,Missed Jumper,8,7
+16:30,CSU Bakersfield,James Suber,Defensive Rebound,8,7
+16:29,CSU Bakersfield,None,None,8,7
+16:04,CSU Bakersfield,Justin Elder-Davis,Missed Jumper,8,7
+16:04,TCU,RJ Nembhard,Defensive Rebound,8,7
+15:54,TCU,Lat Mayen,Missed Three Point Jumper,8,7
+15:54,CSU Bakersfield,CSU Bakersfield,Defensive Rebound,8,7
+15:53,TCU,None,None,8,7
+15:39,CSU Bakersfield,Damiyne Durham,Turnover,8,7
+15:16,TCU,Yuat Alok,Missed Jumper,8,7
+15:16,CSU Bakersfield,Greg Lee,Defensive Rebound,8,7
+14:57,CSU Bakersfield,Greg Lee,Jumper,10,7
+14:40,TCU,RJ Nembhard,Three Point Jumper,10,10
+14:20,CSU Bakersfield,Taze Moore,Turnover,10,10
+14:20,TCU,Lat Mayen,Steal,10,10
+14:10,TCU,Alex Robinson,Turnover,10,10
+14:02,CSU Bakersfield,Damiyne Durham,Missed Three Point Jumper,10,10
+14:02,TCU,TCU,Defensive Rebound,10,10
+13:59,CSU Bakersfield,James Suber,Foul,10,10
+13:48,TCU,Yuat Alok,Layup,10,12
+13:39,CSU Bakersfield,Justin Elder-Davis,Three Point Jumper,13,12
+13:21,TCU,RJ Nembhard,Layup,13,14
+13:08,CSU Bakersfield,Damiyne Durham,Jumper,15,14
+12:46,TCU,Yuat Alok,Missed Layup,15,14
+12:46,CSU Bakersfield,Damiyne Durham,Block,15,14
+12:46,CSU Bakersfield,Damiyne Durham,Defensive Rebound,15,14
+12:25,CSU Bakersfield,Greg Lee,Jumper,17,14
+12:07,TCU,Alex Robinson,Missed Jumper,17,14
+12:07,CSU Bakersfield,Damiyne Durham,Defensive Rebound,17,14
+11:42,CSU Bakersfield,Greg Lee,Missed Jumper,17,14
+11:42,TCU,JD Miller,Defensive Rebound,17,14
+11:33,TCU,Yuat Alok,Missed Layup,17,14
+11:33,CSU Bakersfield,Greg Lee,Defensive Rebound,17,14
+11:23,TCU,RJ Nembhard,Foul,17,14
+11:23,TCU,None,None,17,14
+11:09,CSU Bakersfield,Damiyne Durham,Missed Jumper,17,14
+11:09,TCU,Kendric Davis,Defensive Rebound,17,14
+10:58,CSU Bakersfield,Rickey Holden,Foul,17,14
+10:58,TCU,Desmond Bane,Free Throw,17,15
+10:58,TCU,Desmond Bane,Missed Free Throw,17,15
+10:58,CSU Bakersfield,Damiyne Durham,Defensive Rebound,17,15
+10:44,CSU Bakersfield,Damiyne Durham,Three Point Jumper,20,15
+10:24,TCU,Kendric Davis,Turnover,20,15
+10:06,CSU Bakersfield,Greg Lee,Three Point Jumper,23,15
+9:56,TCU,None,None,23,15
+9:42,TCU,JD Miller,Layup,23,17
+9:42,CSU Bakersfield,Greg Lee,Foul,23,17
+9:42,TCU,JD Miller,Free Throw,23,18
+9:25,CSU Bakersfield,Jarkel Joiner,Three Point Jumper,26,18
+9:05,TCU,RJ Nembhard,Turnover,26,18
+9:05,CSU Bakersfield,Greg Lee,Steal,26,18
+8:59,TCU,Alex Robinson,Foul,26,18
+8:59,CSU Bakersfield,Justin Elder-Davis,Free Throw,27,18
+8:59,CSU Bakersfield,Justin Elder-Davis,Missed Free Throw,27,18
+8:59,TCU,RJ Nembhard,Defensive Rebound,27,18
+8:47,TCU,Alex Robinson,Missed Layup,27,18
+8:47,CSU Bakersfield,Justin McCall,Defensive Rebound,27,18
+8:25,CSU Bakersfield,Taze Moore,Dunk,29,18
+8:06,CSU Bakersfield,Jarkel Joiner,Foul,29,18
+8:06,TCU,Alex Robinson,Missed Free Throw,29,18
+8:06,TCU,Kevin Samuel,Offensive Rebound,29,18
+7:54,TCU,JD Miller,Three Point Jumper,29,21
+7:36,CSU Bakersfield,Damiyne Durham,Missed Three Point Jumper,29,21
+7:36,TCU,Desmond Bane,Defensive Rebound,29,21
+7:04,TCU,Desmond Bane,Missed Three Point Jumper,29,21
+7:04,TCU,JD Miller,Offensive Rebound,29,21
+6:58,TCU,Kevin Samuel,Missed Layup,29,21
+6:58,CSU Bakersfield,Justin McCall,Defensive Rebound,29,21
+6:50,CSU Bakersfield,Darius Williams,Dunk,31,21
+6:42,TCU,None,None,31,21
+6:33,TCU,RJ Nembhard,Missed Three Point Jumper,31,21
+6:33,CSU Bakersfield,Taze Moore,Defensive Rebound,31,21
+6:15,CSU Bakersfield,Justin Elder-Davis,Missed Three Point Jumper,31,21
+6:15,TCU,Desmond Bane,Defensive Rebound,31,21
+6:04,TCU,Yuat Alok,Layup,31,23
+5:43,CSU Bakersfield,Justin Elder-Davis,Missed Layup,31,23
+5:43,TCU,JD Miller,Block,31,23
+5:43,TCU,Yuat Alok,Defensive Rebound,31,23
+5:33,TCU,JD Miller,Missed Three Point Jumper,31,23
+5:33,TCU,TCU,Offensive Rebound,31,23
+5:33,CSU Bakersfield,Darius Williams,Foul,31,23
+5:33,TCU,Yuat Alok,Free Throw,31,24
+5:33,TCU,Yuat Alok,Free Throw,31,25
+5:18,CSU Bakersfield,Greg Lee,Missed Jumper,31,25
+5:18,TCU,Desmond Bane,Defensive Rebound,31,25
+5:07,TCU,Desmond Bane,Missed Jumper,31,25
+5:07,CSU Bakersfield,Taze Moore,Defensive Rebound,31,25
+4:57,TCU,Kevin Samuel,Foul,31,25
+4:57,CSU Bakersfield,Rickey Holden,Free Throw,32,25
+4:57,CSU Bakersfield,Rickey Holden,Missed Free Throw,32,25
+4:57,TCU,JD Miller,Defensive Rebound,32,25
+4:33,TCU,Yuat Alok,Turnover,32,25
+4:12,CSU Bakersfield,Darius Williams,Turnover,32,25
+4:03,TCU,Desmond Bane,Missed Jumper,32,25
+4:03,TCU,JD Miller,Offensive Rebound,32,25
+4:00,TCU,None,None,32,25
+3:58,TCU,Desmond Bane,Missed Three Point Jumper,32,25
+3:58,CSU Bakersfield,Rickey Holden,Defensive Rebound,32,25
+3:53,TCU,Desmond Bane,Foul,32,25
+3:53,CSU Bakersfield,Jarkel Joiner,Free Throw,33,25
+3:53,CSU Bakersfield,Jarkel Joiner,Free Throw,34,25
+3:33,TCU,JD Miller,Layup,34,27
+3:02,CSU Bakersfield,Damiyne Durham,Missed Jumper,34,27
+3:02,TCU,Alex Robinson,Defensive Rebound,34,27
+2:52,TCU,Yuat Alok,Foul,34,27
+2:52,TCU,Yuat Alok,Turnover,34,27
+2:30,CSU Bakersfield,Taze Moore,Missed Three Point Jumper,34,27
+2:30,TCU,Desmond Bane,Defensive Rebound,34,27
+2:21,TCU,Kaden Archie,Missed Three Point Jumper,34,27
+2:21,TCU,TCU,Offensive Rebound,34,27
+1:52,TCU,Alex Robinson,Missed Jumper,34,27
+1:52,CSU Bakersfield,Damiyne Durham,Defensive Rebound,34,27
+1:26,CSU Bakersfield,Taze Moore,Foul,34,27
+1:26,CSU Bakersfield,Taze Moore,Turnover,34,27
+1:13,CSU Bakersfield,Darius Williams,Foul,34,27
+1:13,TCU,Yuat Alok,Free Throw,34,28
+1:13,TCU,Yuat Alok,Missed Free Throw,34,28
+1:13,CSU Bakersfield,Rickey Holden,Defensive Rebound,34,28
+0:57,CSU Bakersfield,Damiyne Durham,Missed Three Point Jumper,34,28
+0:57,TCU,Desmond Bane,Defensive Rebound,34,28
+0:49,TCU,Alex Robinson,Missed Three Point Jumper,34,28
+0:49,CSU Bakersfield,Jarkel Joiner,Defensive Rebound,34,28
+0:27,CSU Bakersfield,None,None,34,28
+0:15,CSU Bakersfield,Jarkel Joiner,Missed Three Point Jumper,34,28
+0:15,TCU,Yuat Alok,Defensive Rebound,34,28
+0:11,TCU,Yuat Alok,Turnover,34,28
+0:11,CSU Bakersfield,Jarkel Joiner,Steal,34,28
+0:03,CSU Bakersfield,Damiyne Durham,Three Point Jumper,37,28
+0:00,TCU,None,None,37,28
+20:00,TCU,None,None,37,28
+19:44,CSU Bakersfield,James Suber,Foul,37,28
+19:28,CSU Bakersfield,Taze Moore,Foul,37,28
+19:25,TCU,Desmond Bane,Jumper,37,30
+19:03,CSU Bakersfield,Jarkel Joiner,Layup,39,30
+18:37,TCU,RJ Nembhard,Missed Three Point Jumper,39,30
+18:37,CSU Bakersfield,Darrin Person Jr.,Defensive Rebound,39,30
+18:31,CSU Bakersfield,Jarkel Joiner,Missed Jumper,39,30
+18:31,CSU Bakersfield,Darrin Person Jr.,Offensive Rebound,39,30
+18:30,CSU Bakersfield,None,None,39,30
+18:12,TCU,JD Miller,Foul,39,30
+17:57,CSU Bakersfield,Rickey Holden,Missed Jumper,39,30
+17:57,TCU,Alex Robinson,Defensive Rebound,39,30
+17:50,TCU,RJ Nembhard,Turnover,39,30
+17:44,CSU Bakersfield,Jarkel Joiner,Layup,41,30
+17:28,TCU,JD Miller,Three Point Jumper,41,33
+17:00,CSU Bakersfield,Jarkel Joiner,Missed Three Point Jumper,41,33
+17:00,TCU,Desmond Bane,Defensive Rebound,41,33
+16:50,TCU,RJ Nembhard,Missed Three Point Jumper,41,33
+16:50,CSU Bakersfield,Darrin Person Jr.,Defensive Rebound,41,33
+16:25,CSU Bakersfield,Damiyne Durham,Missed Jumper,41,33
+16:25,TCU,Kevin Samuel,Defensive Rebound,41,33
+16:19,TCU,RJ Nembhard,Dunk,41,35
+16:09,CSU Bakersfield,None,None,41,35
+16:03,CSU Bakersfield,Damiyne Durham,Missed Jumper,41,35
+16:03,TCU,TCU,Defensive Rebound,41,35
+15:58,TCU,None,None,41,35
+15:43,CSU Bakersfield,Justin McCall,Foul,41,35
+15:43,TCU,Alex Robinson,Free Throw,41,36
+15:43,TCU,Alex Robinson,Missed Free Throw,41,36
+15:43,CSU Bakersfield,Greg Lee,Defensive Rebound,41,36
+15:30,CSU Bakersfield,Jarkel Joiner,Three Point Jumper,44,36
+15:04,CSU Bakersfield,Greg Lee,Foul,44,36
+15:04,TCU,Kevin Samuel,Missed Free Throw,44,36
+15:04,TCU,None,Team Rebound,44,36
+15:04,TCU,Kevin Samuel,Free Throw,44,37
+14:45,CSU Bakersfield,Jarkel Joiner,Missed Jumper,44,37
+14:45,CSU Bakersfield,Greg Lee,Offensive Rebound,44,37
+14:15,CSU Bakersfield,Taze Moore,Missed Three Point Jumper,44,37
+14:15,TCU,Desmond Bane,Defensive Rebound,44,37
+14:02,TCU,Desmond Bane,Missed Three Point Jumper,44,37
+14:02,CSU Bakersfield,Justin McCall,Defensive Rebound,44,37
+13:34,CSU Bakersfield,Greg Lee,Missed Jumper,44,37
+13:34,TCU,Kevin Samuel,Defensive Rebound,44,37
+13:29,TCU,None,None,44,37
+13:18,TCU,RJ Nembhard,Missed Layup,44,37
+13:18,CSU Bakersfield,Justin McCall,Block,44,37
+13:18,TCU,Kevin Samuel,Offensive Rebound,44,37
+13:16,CSU Bakersfield,Darrin Person Jr.,Foul,44,37
+13:16,TCU,Kevin Samuel,Free Throw,44,38
+13:16,TCU,Kevin Samuel,Missed Free Throw,44,38
+13:16,CSU Bakersfield,James Suber,Defensive Rebound,44,38
+13:00,CSU Bakersfield,Damiyne Durham,Missed Three Point Jumper,44,38
+13:00,TCU,Kevin Samuel,Defensive Rebound,44,38
+12:49,TCU,RJ Nembhard,Missed Three Point Jumper,44,38
+12:49,CSU Bakersfield,CSU Bakersfield,Defensive Rebound,44,38
+12:29,CSU Bakersfield,Darius Williams,Foul,44,38
+12:29,CSU Bakersfield,Darius Williams,Turnover,44,38
+12:23,TCU,Desmond Bane,Missed Layup,44,38
+12:23,CSU Bakersfield,Darius Williams,Block,44,38
+12:23,TCU,Desmond Bane,Offensive Rebound,44,38
+12:17,TCU,Desmond Bane,Layup,44,40
+11:58,TCU,Kevin Samuel,Foul,44,40
+11:58,TCU,None,None,44,40
+11:58,CSU Bakersfield,CSU Bakersfield ,Turnover,44,40
+11:46,TCU,Alex Robinson,Layup,44,42
+11:13,TCU,Yuat Alok,Foul,44,42
+11:13,CSU Bakersfield,James Suber,Free Throw,45,42
+11:13,CSU Bakersfield,James Suber,Free Throw,46,42
+11:06,TCU,Alex Robinson,Layup,46,44
+10:41,CSU Bakersfield,Jarkel Joiner,Missed Jumper,46,44
+10:41,TCU,Yuat Alok,Defensive Rebound,46,44
+10:37,TCU,Yuat Alok,Turnover,46,44
+10:37,CSU Bakersfield,Jarkel Joiner,Steal,46,44
+10:21,CSU Bakersfield,James Suber,Foul,46,44
+10:21,CSU Bakersfield,James Suber,Turnover,46,44
+10:12,TCU,Alex Robinson,Missed Layup,46,44
+10:12,CSU Bakersfield,CSU Bakersfield,Defensive Rebound,46,44
+10:12,TCU,Yuat Alok,Foul,46,44
+9:49,TCU,Kendric Davis,Foul,46,44
+9:46,CSU Bakersfield,Darrin Person Jr.,Missed Jumper,46,44
+9:46,TCU,Yuat Alok,Defensive Rebound,46,44
+9:35,TCU,JD Miller,Missed Three Point Jumper,46,44
+9:35,CSU Bakersfield,CSU Bakersfield,Defensive Rebound,46,44
+9:35,TCU,Kaden Archie,Foul,46,44
+9:05,CSU Bakersfield,Jarkel Joiner,Turnover,46,44
+8:52,TCU,Kevin Samuel,Foul,46,44
+8:52,TCU,Kevin Samuel,Turnover,46,44
+8:42,CSU Bakersfield,Rickey Holden,Missed Layup,46,44
+8:42,CSU Bakersfield,CSU Bakersfield,Offensive Rebound,46,44
+8:27,CSU Bakersfield,Darrin Person Jr.,Missed Jumper,46,44
+8:27,CSU Bakersfield,Justin McCall,Offensive Rebound,46,44
+8:21,CSU Bakersfield,Justin McCall,Missed Layup,46,44
+8:21,TCU,Kaden Archie,Defensive Rebound,46,44
+8:10,TCU,Yuat Alok,Layup,46,46
+7:53,TCU,Kaden Archie,Foul,46,46
+7:53,TCU,None,None,46,46
+7:53,CSU Bakersfield,Taze Moore,Free Throw,47,46
+7:53,CSU Bakersfield,Taze Moore,Missed Free Throw,47,46
+7:53,TCU,Alex Robinson,Defensive Rebound,47,46
+7:27,TCU,Alex Robinson,Missed Three Point Jumper,47,46
+7:27,CSU Bakersfield,Justin Edler-Davis,Defensive Rebound,47,46
+7:08,CSU Bakersfield,Taze Moore,Missed Jumper,47,46
+7:08,TCU,Desmond Bane,Defensive Rebound,47,46
+6:55,TCU,Desmond Bane,Layup,47,48
+6:55,CSU Bakersfield,Darrin Person Jr.,Foul,47,48
+6:55,TCU,Desmond Bane,Free Throw,47,49
+6:32,CSU Bakersfield,Darrin Person Jr.,Layup,49,49
+6:13,TCU,RJ Nembhard,Turnover,49,49
+5:56,CSU Bakersfield,Justin McCall,Three Point Jumper,52,49
+5:46,TCU,Desmond Bane,Layup,52,51
+5:26,CSU Bakersfield,Rickey Holden,Missed Jumper,52,51
+5:26,TCU,RJ Nembhard,Defensive Rebound,52,51
+5:18,CSU Bakersfield,Rickey Holden,Foul,52,51
+5:18,TCU,RJ Nembhard,Missed Free Throw,52,51
+5:18,TCU,None,Team Rebound,52,51
+5:18,TCU,RJ Nembhard,Missed Free Throw,52,51
+5:18,CSU Bakersfield,CSU Bakersfield,Defensive Rebound,52,51
+4:57,CSU Bakersfield,Jarkel Joiner,Three Point Jumper,55,51
+4:42,CSU Bakersfield,Darrin Person Jr.,Foul,55,51
+4:42,TCU,Kendric Davis,Free Throw,55,52
+4:42,TCU,Kendric Davis,Free Throw,55,53
+4:22,CSU Bakersfield,Justin Edler-Davis,Layup,57,53
+4:09,TCU,JD Miller,Layup,57,55
+3:43,CSU Bakersfield,Damiyne Durham,Missed Jumper,57,55
+3:43,CSU Bakersfield,Justin Edler-Davis,Offensive Rebound,57,55
+3:36,CSU Bakersfield,Jarkel Joiner,Missed Three Point Jumper,57,55
+3:36,TCU,JD Miller,Defensive Rebound,57,55
+3:23,TCU,Alex Robinson,Jumper,57,57
+3:09,CSU Bakersfield,None,None,57,57
+3:00,CSU Bakersfield,Justin Edler-Davis,Missed Three Point Jumper,57,57
+3:00,TCU,Kendric Davis,Defensive Rebound,57,57
+2:49,TCU,Desmond Bane,Layup,57,59
+2:29,TCU,Kendric Davis,Foul,57,59
+2:29,CSU Bakersfield,Jarkel Joiner,Missed Free Throw,57,59
+2:29,CSU Bakersfield,None,Team Rebound,57,59
+2:29,CSU Bakersfield,Jarkel Joiner,Free Throw,58,59
+2:21,TCU,Desmond Bane,Turnover,58,59
+2:04,CSU Bakersfield,Jarkel Joiner,Missed Three Point Jumper,58,59
+2:04,TCU,Yuat Alok,Defensive Rebound,58,59
+1:45,TCU,Yuat Alok,Jumper,58,61
+1:31,CSU Bakersfield,Justin Edler-Davis,Missed Jumper,58,61
+1:31,CSU Bakersfield,Taze Moore,Offensive Rebound,58,61
+1:17,CSU Bakersfield,Taze Moore,Missed Layup,58,61
+1:17,TCU,Yuat Alok,Block,58,61
+1:17,TCU,Desmond Bane,Defensive Rebound,58,61
+1:01,TCU,Alex Robinson,Missed Jumper,58,61
+1:01,CSU Bakersfield,James Suber,Block,58,61
+1:01,CSU Bakersfield,James Suber,Defensive Rebound,58,61
+0:52,CSU Bakersfield,Jarkel Joiner,Missed Three Point Jumper,58,61
+0:52,TCU,Yuat Alok,Defensive Rebound,58,61
+0:30,CSU Bakersfield,Jarkel Joiner,Foul,58,61
+0:30,TCU,Kendric Davis,Free Throw,58,62
+0:30,TCU,Kendric Davis,Free Throw,58,63
+0:28,TCU,None,None,58,63
+0:21,CSU Bakersfield,Damiyne Durham,Three Point Jumper,61,63
+0:21,TCU,None,None,61,63
+0:19,CSU Bakersfield,Rickey Holden,Foul,61,63
+0:19,TCU,Desmond Bane,Free Throw,61,64
+0:19,TCU,Desmond Bane,Free Throw,61,65
+0:13,CSU Bakersfield,Damiyne Durham,Missed Three Point Jumper,61,65
+0:13,TCU,RJ Nembhard,Defensive Rebound,61,65
+0:11,CSU Bakersfield,Greg Lee,Foul,61,65
+0:11,TCU,RJ Nembhard,Free Throw,61,66
+0:11,TCU,RJ Nembhard,Missed Free Throw,61,66
+0:11,CSU Bakersfield,Justin Edler-Davis,Defensive Rebound,61,66
+0:07,CSU Bakersfield,Jarkel Joiner,Missed Three Point Jumper,61,66
+0:07,TCU,JD Miller,Defensive Rebound,61,66
+0:00,TCU,None,None,61,66

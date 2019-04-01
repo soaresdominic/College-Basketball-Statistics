@@ -1,0 +1,326 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:56,Butler,Paul Jorgensen,Missed Layup,0,0
+19:52,Detroit Mercy,Antoine Davis,Defensive Rebound,0,0
+19:49,Detroit Mercy,Antoine Davis,Layup,2,0
+19:24,Butler,Paul Jorgensen,Missed Three Point Jumper,2,0
+19:20,Butler,Nate Fowler,Offensive Rebound,2,0
+19:10,Butler,Paul Jorgensen,Missed Three Point Jumper,2,0
+19:07,Detroit Mercy,Antoine Davis,Defensive Rebound,2,0
+18:41,Detroit Mercy,Josh McFolley,Turnover,2,0
+18:41,Butler,Aaron Thompson,Steal,2,0
+18:19,Butler,Kamar Baldwin,Missed Jumper,2,0
+18:14,Butler,Nate Fowler,Offensive Rebound,2,0
+18:11,Butler,Kamar Baldwin,Three Point Jumper,2,3
+17:53,Detroit Mercy,Antoine Davis,Missed Jumper,2,3
+17:50,Butler,Kamar Baldwin,Defensive Rebound,2,3
+17:48,Detroit Mercy,Chris Brandon,Foul,2,3
+17:48,Butler,Kamar Baldwin,Free Throw,2,4
+17:48,Butler,Kamar Baldwin,Free Throw,2,5
+17:32,Detroit Mercy,Jacob Holland,Missed Jumper,2,5
+17:27,Detroit Mercy,Gerald Blackshear Jr.,Offensive Rebound,2,5
+17:26,Detroit Mercy,Gerald Blackshear Jr.,Jumper,4,5
+17:09,Butler,Aaron Thompson,Three Point Jumper,4,8
+16:55,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,4,8
+16:53,Butler,Butler,Defensive Rebound,4,8
+16:22,Butler,Kamar Baldwin,Missed Three Point Jumper,4,8
+16:19,Detroit Mercy,Josh McFolley,Defensive Rebound,4,8
+16:16,Detroit Mercy,Josh McFolley,Missed Three Point Jumper,4,8
+16:14,Detroit Mercy,None,Team Rebound,4,8
+16:14,Butler,Joey Brunk,Foul,4,8
+16:05,Detroit Mercy,Jacob Holland,Jumper,6,8
+15:42,Butler,Joey Brunk,Jumper,6,10
+15:26,Butler,None,None,6,10
+15:16,Detroit Mercy,Antoine Davis,Missed Jumper,6,10
+15:13,Detroit Mercy,Jacob Holland,Offensive Rebound,6,10
+15:12,Detroit Mercy,Jacob Holland,Turnover,6,10
+15:01,Butler,Aaron Thompson,Turnover,6,10
+14:58,Butler,Aaron Thompson,Foul,6,10
+14:36,Detroit Mercy,Antoine Davis,Missed Jumper,6,10
+14:30,Butler,Kamar Baldwin,Defensive Rebound,6,10
+14:29,Detroit Mercy,Jacob Holland,Foul,6,10
+14:09,Butler,Sean McDermott,Missed Three Point Jumper,6,10
+14:05,Detroit Mercy,Derrien King,Defensive Rebound,6,10
+13:57,Detroit Mercy,Josh McFolley,Jumper,8,10
+13:32,Butler,Sean McDermott,Three Point Jumper,8,13
+13:12,Detroit Mercy,Gerald Blackshear Jr.,Layup,10,13
+13:12,Detroit Mercy,None,None,10,13
+12:48,Butler,Kamar Baldwin,Missed Three Point Jumper,10,13
+12:45,Detroit Mercy,Jacob Holland,Defensive Rebound,10,13
+12:40,Detroit Mercy,Jacob Holland,Layup,12,13
+12:19,Butler,Kamar Baldwin,Jumper,12,15
+12:02,Detroit Mercy,Derrien King,Missed Jumper,12,15
+11:58,Butler,Kamar Baldwin,Defensive Rebound,12,15
+11:52,Butler,Kamar Baldwin,Turnover,12,15
+11:52,Detroit Mercy,Gerald Blackshear Jr.,Steal,12,15
+11:46,Detroit Mercy,Gerald Blackshear Jr.,Foul,12,15
+11:46,Detroit Mercy,Gerald Blackshear Jr.,Turnover,12,15
+11:46,Butler,None,None,12,15
+11:26,Butler,Kamar Baldwin,Turnover,12,15
+11:13,Detroit Mercy,Derrien King,Jumper,14,15
+10:47,Butler,Henry Baddley,Missed Three Point Jumper,14,15
+10:43,Detroit Mercy,Gerald Blackshear Jr.,Defensive Rebound,14,15
+10:32,Butler,Henry Baddley,Foul,14,15
+10:24,Detroit Mercy,Derrien King,Missed Jumper,14,15
+10:19,Butler,Kamar Baldwin,Defensive Rebound,14,15
+9:59,Butler,Paul Jorgensen,Jumper,14,17
+9:42,Detroit Mercy,Jacob Holland,Missed Three Point Jumper,14,17
+9:38,Butler,None,Team Rebound,14,17
+9:38,Detroit Mercy,Derrien King,Foul,14,17
+9:19,Butler,Henry Baddley,Jumper,14,19
+9:04,Detroit Mercy,Antoine Davis,Foul,14,19
+9:04,Detroit Mercy,Antoine Davis,Turnover,14,19
+8:46,Butler,Sean McDermott,Missed Three Point Jumper,14,19
+8:40,Butler,Nate Fowler,Offensive Rebound,14,19
+8:38,Butler,Paul Jorgensen,Missed Three Point Jumper,14,19
+8:34,Detroit Mercy,Jacob Holland,Defensive Rebound,14,19
+8:30,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,14,19
+8:27,Detroit Mercy,Gerald Blackshear Jr.,Offensive Rebound,14,19
+8:27,Butler,Nate Fowler,Foul,14,19
+8:27,Detroit Mercy,Gerald Blackshear Jr.,Missed Free Throw,14,19
+8:27,Detroit Mercy,None,Team Rebound,14,19
+8:27,Detroit Mercy,Gerald Blackshear Jr.,Missed Free Throw,14,19
+8:23,Butler,Kamar Baldwin,Defensive Rebound,14,19
+7:59,Butler,Henry Baddley,Dunk,14,21
+7:42,Detroit Mercy,Jacob Holland,Missed Jumper,14,21
+7:40,Detroit Mercy,Gerald Blackshear Jr.,Offensive Rebound,14,21
+7:40,Butler,Aaron Thompson,Foul,14,21
+7:40,Butler,None,None,14,21
+7:28,Detroit Mercy,Cole Long,Three Point Jumper,17,21
+7:07,Detroit Mercy,Antoine Davis,Foul,17,21
+6:54,Butler,Christian David,Jumper,17,23
+6:31,Detroit Mercy,Cole Long,Turnover,17,23
+6:14,Butler,Henry Baddley,Missed Jumper,17,23
+6:10,Detroit Mercy,Tra'Quan Knight,Defensive Rebound,17,23
+6:09,Detroit Mercy,Derrien King,Turnover,17,23
+5:55,Butler,Joey Brunk,Missed Jumper,17,23
+5:51,Detroit Mercy,Tra'Quan Knight,Defensive Rebound,17,23
+5:36,Detroit Mercy,Josh McFolley,Missed Three Point Jumper,17,23
+5:32,Butler,Kamar Baldwin,Defensive Rebound,17,23
+5:06,Butler,Kamar Baldwin,Missed Three Point Jumper,17,23
+5:04,Detroit Mercy,Detroit Mercy,Defensive Rebound,17,23
+4:54,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,17,23
+4:50,Butler,Nate Fowler,Defensive Rebound,17,23
+4:39,Butler,Sean McDermott,Missed Three Point Jumper,17,23
+4:35,Detroit Mercy,Derrien King,Defensive Rebound,17,23
+4:30,Butler,Jerald Gillens-Butler,Foul,17,23
+4:30,Detroit Mercy,Cole Long,Missed Free Throw,17,23
+4:30,Detroit Mercy,None,Team Rebound,17,23
+4:30,Detroit Mercy,Cole Long,Missed Free Throw,17,23
+4:25,Butler,Sean McDermott,Defensive Rebound,17,23
+4:09,Butler,Paul Jorgensen,Missed Layup,17,23
+4:04,Detroit Mercy,Cole Long,Defensive Rebound,17,23
+4:04,Butler,Jerald Gillens-Butler,Foul,17,23
+4:04,Detroit Mercy,Tra'Quan Knight,Free Throw,18,23
+4:04,Detroit Mercy,Tra'Quan Knight,Missed Free Throw,18,23
+4:02,Butler,Nate Fowler,Defensive Rebound,18,23
+3:50,Butler,Nate Fowler,Jumper,18,25
+3:29,Detroit Mercy,Derrien King,Missed Jumper,18,25
+3:27,Butler,None,Team Rebound,18,25
+3:27,Detroit Mercy,Cole Long,Foul,18,25
+3:27,Butler,None,None,18,25
+3:27,Butler,Nate Fowler,Free Throw,18,26
+3:27,Butler,Nate Fowler,Missed Free Throw,18,26
+3:24,Detroit Mercy,Antoine Davis,Defensive Rebound,18,26
+3:14,Detroit Mercy,Antoine Davis,Missed Jumper,18,26
+3:10,Butler,Henry Baddley,Defensive Rebound,18,26
+2:48,Butler,Nate Fowler,Foul,18,26
+2:48,Butler,Nate Fowler,Turnover,18,26
+2:38,Detroit Mercy,Derrien King,Jumper,20,26
+2:19,Detroit Mercy,Gerald Blackshear Jr.,Foul,20,26
+2:19,Butler,Joey Brunk,Free Throw,20,27
+2:19,Butler,Joey Brunk,Free Throw,20,28
+1:52,Detroit Mercy,Antoine Davis,Missed Jumper,20,28
+1:47,Butler,Joey Brunk,Defensive Rebound,20,28
+1:42,Butler,Paul Jorgensen,Missed Three Point Jumper,20,28
+1:40,Butler,Joey Brunk,Offensive Rebound,20,28
+1:40,Detroit Mercy,Cole Long,Foul,20,28
+1:40,Butler,Joey Brunk,Free Throw,20,29
+1:40,Butler,Joey Brunk,Free Throw,20,30
+1:18,Detroit Mercy,Jacob Holland,Missed Jumper,20,30
+1:14,Butler,Joey Brunk,Defensive Rebound,20,30
+1:07,Butler,Kamar Baldwin,Layup,20,32
+0:46,Detroit Mercy,Josh McFolley,Turnover,20,32
+0:46,Butler,Henry Baddley,Steal,20,32
+0:46,Detroit Mercy,Josh McFolley,Foul,20,32
+0:46,Butler,Kamar Baldwin,Free Throw,20,33
+0:46,Butler,Kamar Baldwin,Free Throw,20,34
+0:46,Detroit Mercy,Josh McFolley,Turnover,20,34
+0:46,Butler,Kamar Baldwin,Free Throw,20,36
+0:46,Butler,Kamar Baldwin,Free Throw,20,35
+0:36,Butler,Joey Brunk,Jumper,20,38
+0:36,Detroit Mercy,Cole Long,Foul,20,38
+0:36,Detroit Mercy,Detroit Mercy,Foul,20,38
+0:36,Butler,Joey Brunk,Missed Free Throw,20,38
+0:36,Detroit Mercy,Derrien King,Defensive Rebound,20,38
+0:35,Butler,Sean McDermott,Foul,20,38
+0:35,Detroit Mercy,Derrien King,Free Throw,21,38
+0:35,Detroit Mercy,Derrien King,Free Throw,22,38
+0:12,Butler,Sean McDermott,Layup,22,40
+0:02,Detroit Mercy,Josh McFolley,Missed Three Point Jumper,22,40
+0:00,Butler,None,Team Rebound,22,40
+0:00,Butler,None,None,22,38
+19:39,Butler,Kamar Baldwin,Foul,22,40
+19:27,Detroit Mercy,Lamar Hamrick,Missed Jumper,22,40
+19:23,Detroit Mercy,Josh McFolley,Offensive Rebound,22,40
+19:18,Butler,Aaron Thompson,Foul,22,40
+19:16,Detroit Mercy,Antoine Davis,Turnover,22,40
+19:16,Butler,Kamar Baldwin,Steal,22,40
+19:11,Butler,Paul Jorgensen,Missed Layup,22,40
+19:04,Detroit Mercy,Chris Brandon,Defensive Rebound,22,40
+18:55,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,22,40
+18:51,Butler,Nate Fowler,Defensive Rebound,22,40
+18:45,Butler,Kamar Baldwin,Missed Layup,22,40
+18:41,Detroit Mercy,Chris Brandon,Defensive Rebound,22,40
+18:38,Detroit Mercy,Josh McFolley,Missed Jumper,22,40
+18:34,Butler,Sean McDermott,Defensive Rebound,22,40
+18:24,Butler,Henry Baddley,Missed Three Point Jumper,22,40
+18:20,Detroit Mercy,Chris Brandon,Defensive Rebound,22,40
+18:13,Detroit Mercy,Josh McFolley,Layup,24,40
+17:43,Butler,Kamar Baldwin,Turnover,24,40
+17:43,Detroit Mercy,Chris Brandon,Steal,24,40
+17:37,Detroit Mercy,Josh McFolley,Three Point Jumper,27,40
+17:19,Butler,Nate Fowler,Layup,27,42
+17:06,Butler,Henry Baddley,Foul,27,42
+16:53,Butler,Henry Baddley,Foul,27,42
+16:53,Detroit Mercy,Antoine Davis,Free Throw,28,42
+16:53,Detroit Mercy,Antoine Davis,Free Throw,29,42
+16:33,Butler,Sean McDermott,Missed Three Point Jumper,29,42
+16:28,Detroit Mercy,Lamar Hamrick,Defensive Rebound,29,42
+16:20,Detroit Mercy,Antoine Davis,Jumper,31,42
+16:05,Butler,Kamar Baldwin,Missed Three Point Jumper,31,42
+16:01,Detroit Mercy,Antoine Davis,Defensive Rebound,31,42
+15:58,Detroit Mercy,Antoine Davis,Three Point Jumper,34,42
+15:42,Butler,Nate Fowler,Layup,34,44
+15:30,Butler,Kamar Baldwin,Foul,34,44
+15:30,Butler,None,None,34,44
+15:19,Detroit Mercy,Antoine Davis,Three Point Jumper,37,44
+15:00,Butler,Paul Jorgensen,Missed Three Point Jumper,37,44
+14:57,Detroit Mercy,None,Team Rebound,37,44
+14:57,Butler,Henry Baddley,Foul,37,44
+14:39,Detroit Mercy,Antoine Davis,Three Point Jumper,40,44
+14:14,Detroit Mercy,Musial Gjysma,Foul,40,44
+14:06,Butler,Kamar Baldwin,Jumper,40,46
+14:06,Detroit Mercy,Musial Gjysma,Foul,40,46
+14:06,Butler,Kamar Baldwin,Missed Free Throw,40,46
+14:04,Detroit Mercy,Chris Brandon,Defensive Rebound,40,46
+13:50,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,40,46
+13:45,Butler,Nate Fowler,Defensive Rebound,40,46
+13:41,Detroit Mercy,Gerald Blackshear Jr.,Foul,40,46
+13:41,Butler,Paul Jorgensen,Free Throw,40,47
+13:41,Butler,Paul Jorgensen,Free Throw,40,48
+13:30,Detroit Mercy,Antoine Davis,Foul,40,48
+13:30,Detroit Mercy,Antoine Davis,Turnover,40,48
+13:17,Butler,Joey Brunk,Foul,40,48
+13:17,Butler,Joey Brunk,Turnover,40,48
+13:06,Detroit Mercy,Lamar Hamrick,Turnover,40,48
+12:39,Butler,Aaron Thompson,Jumper,40,50
+12:23,Detroit Mercy,Chris Brandon,Turnover,40,50
+12:11,Butler,Joey Brunk,Layup,40,52
+12:11,Detroit Mercy,Derrien King,Foul,40,52
+12:11,Detroit Mercy,None,None,40,52
+12:11,Butler,Joey Brunk,Free Throw,40,53
+12:03,Butler,Jerald Gillens-Butler,Foul,40,53
+12:03,Detroit Mercy,Josh McFolley,Free Throw,41,53
+12:03,Detroit Mercy,Josh McFolley,Free Throw,42,53
+11:44,Butler,Kamar Baldwin,Turnover,42,53
+11:44,Detroit Mercy,Gerald Blackshear Jr.,Steal,42,53
+11:36,Detroit Mercy,Antoine Davis,Missed Jumper,42,53
+11:36,Butler,Aaron Thompson,Block,42,53
+11:30,Detroit Mercy,Gerald Blackshear Jr.,Offensive Rebound,42,53
+11:28,Detroit Mercy,Gerald Blackshear Jr.,Layup,44,53
+11:15,Butler,Aaron Thompson,Turnover,44,53
+11:15,Detroit Mercy,Josh McFolley,Steal,44,53
+11:09,Detroit Mercy,Josh McFolley,Missed Layup,44,53
+11:09,Butler,Aaron Thompson,Block,44,53
+11:03,Butler,Jerald Gillens-Butler,Defensive Rebound,44,53
+11:02,Butler,Paul Jorgensen,Missed Three Point Jumper,44,53
+10:58,Butler,Jerald Gillens-Butler,Offensive Rebound,44,53
+10:43,Butler,Paul Jorgensen,Three Point Jumper,44,56
+10:23,Detroit Mercy,Antoine Davis,Missed Layup,44,56
+10:19,Butler,Kamar Baldwin,Defensive Rebound,44,56
+10:17,Butler,Kamar Baldwin,Turnover,44,56
+10:17,Detroit Mercy,Josh McFolley,Steal,44,56
+10:13,Detroit Mercy,Josh McFolley,Layup,46,56
+10:13,Butler,Kamar Baldwin,Foul,46,56
+10:13,Butler,None,None,46,56
+10:13,Detroit Mercy,Josh McFolley,Free Throw,47,56
+9:56,Butler,Kamar Baldwin,Missed Layup,47,56
+9:51,Detroit Mercy,Gerald Blackshear Jr.,Defensive Rebound,47,56
+9:40,Detroit Mercy,Jacob Holland,Foul,47,56
+9:40,Detroit Mercy,Jacob Holland,Turnover,47,56
+9:14,Butler,Kamar Baldwin,Jumper,47,58
+8:59,Detroit Mercy,None,None,47,58
+8:48,Detroit Mercy,Antoine Davis,Jumper,49,58
+8:45,Detroit Mercy,Antoine Davis,Foul,49,58
+8:45,Butler,Kamar Baldwin,Missed Free Throw,49,58
+8:45,Butler,Kamar Baldwin,Free Throw,49,59
+8:40,Butler,Kamar Baldwin,Jumper,49,61
+8:40,Butler,None,Team Rebound,49,61
+8:23,Detroit Mercy,Antoine Davis,Layup,51,61
+8:05,Butler,Kamar Baldwin,Missed Three Point Jumper,51,61
+8:01,Detroit Mercy,Tra'Quan Knight,Defensive Rebound,51,61
+7:55,Detroit Mercy,Derrien King,Missed Jumper,51,61
+7:51,Butler,Sean McDermott,Defensive Rebound,51,61
+7:46,Detroit Mercy,Gerald Blackshear Jr.,Foul,51,61
+7:46,Butler,None,None,51,61
+7:46,Butler,Joey Brunk,Free Throw,51,62
+7:46,Butler,Joey Brunk,Free Throw,51,63
+7:39,Detroit Mercy,Josh McFolley,Three Point Jumper,54,63
+7:22,Butler,Sean McDermott,Three Point Jumper,54,66
+6:57,Detroit Mercy,Derrien King,Turnover,54,66
+6:27,Detroit Mercy,Jacob Holland,Foul,54,66
+6:27,Butler,Nate Fowler,Free Throw,54,67
+6:27,Butler,Nate Fowler,Free Throw,54,68
+6:13,Detroit Mercy,Josh McFolley,Turnover,54,68
+5:53,Butler,Kamar Baldwin,Jumper,54,70
+5:38,Detroit Mercy,Antoine Davis,Missed Jumper,54,70
+5:34,Butler,Aaron Thompson,Defensive Rebound,54,70
+5:31,Butler,Aaron Thompson,Turnover,54,70
+5:31,Detroit Mercy,Josh McFolley,Steal,54,70
+5:25,Detroit Mercy,Josh McFolley,Missed Layup,54,70
+5:20,Butler,Aaron Thompson,Defensive Rebound,54,70
+5:17,Butler,Aaron Thompson,Layup,54,72
+4:59,Butler,Nate Fowler,Foul,54,72
+4:59,Detroit Mercy,Antoine Davis,Missed Free Throw,54,72
+4:59,Detroit Mercy,None,Team Rebound,54,72
+4:59,Detroit Mercy,Antoine Davis,Free Throw,55,72
+4:35,Butler,None,None,55,72
+4:28,Butler,Henry Baddley,Three Point Jumper,55,75
+4:11,Detroit Mercy,Derrien King,Jumper,57,75
+4:11,Butler,Nate Fowler,Foul,57,75
+4:11,Detroit Mercy,Derrien King,Missed Free Throw,57,75
+4:09,Butler,Sean McDermott,Defensive Rebound,57,75
+3:50,Butler,Kamar Baldwin,Jumper,57,77
+3:37,Detroit Mercy,Antoine Davis,Missed Three Point Jumper,57,77
+3:34,Butler,Kamar Baldwin,Defensive Rebound,57,77
+3:29,Butler,Paul Jorgensen,Three Point Jumper,57,80
+3:08,Detroit Mercy,Chris Brandon,Turnover,57,80
+3:08,Butler,Kamar Baldwin,Steal,57,80
+3:04,Butler,Kamar Baldwin,Turnover,57,80
+3:04,Butler,None,None,57,80
+2:52,Detroit Mercy,Derrien King,Jumper,59,80
+2:32,Butler,Paul Jorgensen,Missed Three Point Jumper,59,80
+2:28,Detroit Mercy,Tra'Quan Knight,Defensive Rebound,59,80
+2:17,Detroit Mercy,Antoine Davis,Turnover,59,80
+2:11,Butler,Kamar Baldwin,Layup,59,82
+1:50,Detroit Mercy,Antoine Davis,Turnover,59,82
+1:50,Butler,Aaron Thompson,Steal,59,82
+1:45,Butler,Paul Jorgensen,Layup,59,84
+1:31,Butler,Aaron Thompson,Foul,59,84
+1:31,Detroit Mercy,Tra'Quan Knight,Free Throw,60,84
+1:31,Detroit Mercy,Tra'Quan Knight,Missed Free Throw,60,84
+1:30,Butler,Joey Brunk,Defensive Rebound,60,84
+1:11,Butler,Aaron Thompson,Turnover,60,84
+1:11,Detroit Mercy,Tra'Quan Knight,Steal,60,84
+1:03,Detroit Mercy,Josh McFolley,Layup,62,84
+0:57,Butler,None,None,62,84
+0:35,Butler,Joey Brunk,Turnover,62,84
+0:35,Detroit Mercy,Tra'Quan Knight,Steal,62,84
+0:35,Butler,Campbell Donovan,Foul,62,84
+0:35,Detroit Mercy,Tra'Quan Knight,Free Throw,63,84
+0:35,Detroit Mercy,Tra'Quan Knight,Missed Free Throw,63,84
+0:33,Butler,Henry Baddley,Defensive Rebound,63,84
+0:07,Butler,Jerald Gillens-Butler,Missed Three Point Jumper,63,84
+0:03,Detroit Mercy,Gerald Blackshear Jr.,Defensive Rebound,63,84
+0:00,Butler,None,None,63,84
+0:00,Butler,None,None,63,84

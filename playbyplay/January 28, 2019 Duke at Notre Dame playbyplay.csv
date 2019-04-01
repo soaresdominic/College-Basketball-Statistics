@@ -1,0 +1,320 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:42,Duke,Tre Jones,Missed Jumper,0,0
+19:33,Duke,Marques Bolden,Offensive Rebound,0,0
+19:29,Duke,Tre Jones,Three Point Jumper,3,0
+19:08,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,3,0
+19:08,Duke,RJ Barrett,Defensive Rebound,3,0
+18:51,Duke,Cam Reddish,Three Point Jumper,6,0
+18:33,Duke,Tre Jones,Foul,6,0
+18:11,Notre Dame,TJ Gibbs,Missed Layup,6,0
+18:11,Notre Dame,Dane Goodwin,Offensive Rebound,6,0
+18:04,Notre Dame,Dane Goodwin,Layup,6,2
+17:53,Duke,Zion Williamson,Layup,8,2
+17:30,Notre Dame,D.J. Harvey,Missed Three Point Jumper,8,2
+17:30,Duke,Marques Bolden,Defensive Rebound,8,2
+17:14,Duke,Cam Reddish,Turnover,8,2
+17:14,Notre Dame,John Mooney,Steal,8,2
+17:04,Notre Dame,D.J. Harvey,Missed Jumper,8,2
+17:04,Duke,RJ Barrett,Defensive Rebound,8,2
+16:52,Duke,RJ Barrett,Missed Three Point Jumper,8,2
+16:52,Notre Dame,John Mooney,Defensive Rebound,8,2
+16:22,Notre Dame,D.J. Harvey,Missed Jumper,8,2
+16:22,Duke,Tre Jones,Defensive Rebound,8,2
+16:10,Duke,Zion Williamson,Layup,10,2
+15:53,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,10,2
+15:53,Duke,Marques Bolden,Defensive Rebound,10,2
+15:41,Duke,Zion Williamson,Jumper,12,2
+15:34,Notre Dame,None,None,12,2
+15:14,Notre Dame,John Mooney,Missed Jumper,12,2
+15:14,Duke,RJ Barrett,Defensive Rebound,12,2
+15:02,Duke,Zion Williamson,Jumper,14,2
+14:50,Notre Dame,Prentiss Hubb,Turnover,14,2
+14:50,Duke,Javin DeLaurier,Steal,14,2
+14:46,Duke,Tre Jones,Layup,16,2
+14:20,Notre Dame,TJ Gibbs,Missed Layup,16,2
+14:20,Notre Dame,Notre Dame,Offensive Rebound,16,2
+14:16,Notre Dame,Dane Goodwin,Turnover,16,2
+14:16,Duke,Tre Jones,Steal,16,2
+14:07,Notre Dame,Nate Laszewski,Foul,16,2
+14:07,Duke,Zion Williamson,Missed Free Throw,16,2
+14:07,Duke,None,Team Rebound,16,2
+14:07,Duke,Zion Williamson,Free Throw,17,2
+13:42,Notre Dame,TJ Gibbs,Three Point Jumper,17,5
+13:21,Duke,Cam Reddish,Missed Three Point Jumper,17,5
+13:21,Notre Dame,Nikola Djogo,Defensive Rebound,17,5
+13:08,Notre Dame,John Mooney,Missed Three Point Jumper,17,5
+13:08,Notre Dame,Nikola Djogo,Offensive Rebound,17,5
+13:08,Notre Dame,None,None,17,7
+12:50,Duke,Marques Bolden,Jumper,19,7
+12:26,Notre Dame,Dane Goodwin,Missed Three Point Jumper,19,7
+12:26,Notre Dame,John Mooney,Offensive Rebound,19,7
+12:15,Notre Dame,TJ Gibbs,Missed Three Point Jumper,19,7
+12:15,Notre Dame,Nate Laszewski,Offensive Rebound,19,7
+12:05,Notre Dame,John Mooney,Missed Jumper,19,7
+12:05,Duke,RJ Barrett,Defensive Rebound,19,7
+11:45,Notre Dame,None,None,19,7
+11:37,Duke,RJ Barrett,Three Point Jumper,22,7
+11:23,Notre Dame,D.J. Harvey,Turnover,22,7
+11:23,Duke,Alex O'Connell,Steal,22,7
+11:16,Notre Dame,Nikola Djogo,Foul,22,7
+11:16,Duke,Alex O'Connell,Missed Free Throw,22,7
+11:16,Duke,None,Team Rebound,22,7
+11:16,Duke,Alex O'Connell,Free Throw,23,7
+10:49,Duke,Marques Bolden,Foul,23,7
+10:46,Notre Dame,John Mooney,Missed Jumper,23,7
+10:46,Duke,Zion Williamson,Defensive Rebound,23,7
+10:38,Duke,RJ Barrett,Three Point Jumper,26,7
+10:22,Duke,Zion Williamson,Foul,26,7
+10:04,Notre Dame,TJ Gibbs,Missed Layup,26,7
+10:04,Duke,Marques Bolden,Block,26,7
+10:04,Notre Dame,John Mooney,Offensive Rebound,26,7
+10:04,Notre Dame,John Mooney,Missed Layup,26,7
+10:04,Notre Dame,D.J. Harvey,Offensive Rebound,26,7
+9:55,Notre Dame,D.J. Harvey,Layup,26,9
+9:44,Duke,Alex O'Connell,Turnover,26,9
+9:27,Duke,Alex O'Connell,Foul,26,9
+9:27,Notre Dame,John Mooney,Free Throw,26,10
+9:27,Notre Dame,John Mooney,Free Throw,26,11
+9:16,Duke,Marques Bolden,Missed Jumper,26,11
+9:16,Notre Dame,John Mooney,Defensive Rebound,26,11
+8:59,Notre Dame,Prentiss Hubb,Three Point Jumper,26,14
+8:43,Duke,Zion Williamson,Layup,28,14
+8:16,Notre Dame,TJ Gibbs,Missed Jumper,28,14
+8:16,Duke,Jack White,Defensive Rebound,28,14
+8:06,Duke,Zion Williamson,Missed Jumper,28,14
+8:06,Duke,Marques Bolden,Offensive Rebound,28,14
+7:59,Duke,Marques Bolden,Dunk,30,14
+7:53,Notre Dame,Prentiss Hubb,Missed Layup,30,14
+7:53,Duke,Zion Williamson,Defensive Rebound,30,14
+7:48,Duke,RJ Barrett,Missed Three Point Jumper,30,14
+7:48,Notre Dame,D.J. Harvey,Defensive Rebound,30,14
+7:32,Notre Dame,None,None,30,14
+7:26,Notre Dame,None,None,30,14
+7:10,Notre Dame,Prentiss Hubb,Missed Layup,30,14
+7:10,Notre Dame,Nate Laszewski,Offensive Rebound,30,14
+7:10,Notre Dame,None,None,30,16
+6:47,Duke,None,None,30,16
+6:41,Duke,Cam Reddish,Missed Jumper,30,16
+6:41,Notre Dame,Nikola Djogo,Block,30,16
+6:41,Notre Dame,Nate Laszewski,Defensive Rebound,30,16
+6:24,Notre Dame,Nate Laszewski,Layup,30,18
+6:11,Duke,Cam Reddish,Missed Three Point Jumper,30,18
+6:11,Duke,Javin DeLaurier,Offensive Rebound,30,18
+5:57,Duke,RJ Barrett,Jumper,32,18
+5:30,Notre Dame,Prentiss Hubb,Three Point Jumper,32,21
+5:14,Duke,Zion Williamson,Missed Jumper,32,21
+5:14,Notre Dame,Nikola Djogo,Defensive Rebound,32,21
+4:51,Notre Dame,TJ Gibbs,Layup,32,23
+4:36,Duke,Zion Williamson,Three Point Jumper,35,23
+4:34,Duke,Javin DeLaurier,Foul,35,23
+4:21,Notre Dame,TJ Gibbs,Missed Jumper,35,23
+4:21,Duke,Marques Bolden,Defensive Rebound,35,23
+4:05,Duke,Marques Bolden,Jumper,37,23
+4:01,Notre Dame,None,None,37,23
+3:46,Duke,Marques Bolden,Foul,37,23
+3:34,Notre Dame,John Mooney,Missed Jumper,37,23
+3:34,Notre Dame,John Mooney,Offensive Rebound,37,23
+3:30,Notre Dame,John Mooney,Turnover,37,23
+3:30,Duke,Cam Reddish,Steal,37,23
+3:24,Duke,Cam Reddish,Missed Layup,37,23
+3:24,Duke,Marques Bolden,Offensive Rebound,37,23
+3:24,Duke,Marques Bolden,Dunk,39,23
+3:02,Notre Dame,Dane Goodwin,Missed Jumper,39,23
+3:02,Duke,RJ Barrett,Defensive Rebound,39,23
+2:55,Duke,RJ Barrett,Jumper,41,23
+2:38,Notre Dame,TJ Gibbs,Foul,41,23
+2:38,Notre Dame,TJ Gibbs,Turnover,41,23
+2:31,Duke,RJ Barrett,Missed Jumper,41,23
+2:31,Notre Dame,Prentiss Hubb,Defensive Rebound,41,23
+2:23,Notre Dame,John Mooney,Missed Layup,41,23
+2:23,Duke,Javin DeLaurier,Defensive Rebound,41,23
+2:12,Notre Dame,Nikola Djogo,Foul,41,23
+2:12,Duke,Zion Williamson,Free Throw,42,23
+2:12,Duke,Zion Williamson,Missed Free Throw,42,23
+2:12,Notre Dame,Nikola Djogo,Defensive Rebound,42,23
+2:00,Notre Dame,Prentiss Hubb,Layup,42,25
+1:50,Duke,Cam Reddish,Missed Jumper,42,25
+1:50,Notre Dame,John Mooney,Defensive Rebound,42,25
+1:28,Duke,RJ Barrett,Foul,42,25
+1:28,Notre Dame,TJ Gibbs,Missed Free Throw,42,25
+1:28,Duke,Javin DeLaurier,Defensive Rebound,42,25
+1:16,Duke,Javin DeLaurier,Dunk,44,25
+0:51,Notre Dame,Prentiss Hubb,Missed Jumper,44,25
+0:51,Duke,Zion Williamson,Block,44,25
+0:51,Notre Dame,D.J. Harvey,Offensive Rebound,44,25
+0:40,Notre Dame,TJ Gibbs,Turnover,44,25
+0:40,Duke,Cam Reddish,Steal,44,25
+0:39,Duke,RJ Barrett,Turnover,44,25
+0:39,Notre Dame,D.J. Harvey,Steal,44,25
+0:39,Notre Dame,None,None,44,25
+0:18,Notre Dame,John Mooney,Three Point Jumper,44,28
+0:09,Duke,None,None,44,28
+0:07,Notre Dame,Dane Goodwin,Foul,44,28
+0:05,Duke,RJ Barrett,Missed Layup,44,28
+0:05,Notre Dame,Nikola Djogo,Block,44,28
+0:05,Duke,Zion Williamson,Offensive Rebound,44,28
+0:05,Duke,Zion Williamson,Layup,46,28
+0:00,Notre Dame,None,None,46,28
+20:00,Duke,None,None,46,28
+19:46,Duke,Marques Bolden,Turnover,46,28
+19:46,Notre Dame,TJ Gibbs,Steal,46,28
+19:46,Notre Dame,None,None,46,28
+19:20,Notre Dame,TJ Gibbs,Missed Three Point Jumper,46,28
+19:20,Duke,RJ Barrett,Defensive Rebound,46,28
+19:03,Notre Dame,John Mooney,Foul,46,28
+19:03,Duke,Zion Williamson,Free Throw,47,28
+19:03,Duke,Zion Williamson,Free Throw,48,28
+18:47,Notre Dame,Nikola Djogo,Missed Layup,48,28
+18:47,Duke,Zion Williamson,Block,48,28
+18:47,Duke,RJ Barrett,Defensive Rebound,48,28
+18:36,Duke,RJ Barrett,Missed Jumper,48,28
+18:36,Notre Dame,John Mooney,Defensive Rebound,48,28
+18:21,Notre Dame,Nikola Djogo,Three Point Jumper,48,31
+18:03,Duke,Marques Bolden,Missed Layup,48,31
+18:03,Notre Dame,John Mooney,Block,48,31
+18:03,Notre Dame,Prentiss Hubb,Defensive Rebound,48,31
+17:54,Notre Dame,TJ Gibbs,Missed Three Point Jumper,48,31
+17:54,Notre Dame,Nikola Djogo,Offensive Rebound,48,31
+17:36,Notre Dame,Nate Laszewski,Missed Jumper,48,31
+17:36,Notre Dame,John Mooney,Offensive Rebound,48,31
+17:35,Duke,Marques Bolden,Foul,48,31
+17:21,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,48,31
+17:21,Notre Dame,John Mooney,Offensive Rebound,48,31
+17:16,Duke,Marques Bolden,Foul,48,31
+17:16,Notre Dame,John Mooney,Missed Free Throw,48,31
+17:16,Notre Dame,None,Team Rebound,48,31
+17:16,Notre Dame,John Mooney,Free Throw,48,32
+16:56,Duke,Tre Jones,Jumper,50,32
+16:32,Notre Dame,Prentiss Hubb,Turnover,50,32
+16:32,Duke,Tre Jones,Steal,50,32
+16:27,Notre Dame,John Mooney,Foul,50,32
+16:14,Duke,RJ Barrett,Three Point Jumper,53,32
+15:39,Notre Dame,TJ Gibbs,Jumper,53,34
+15:33,Duke,RJ Barrett,Turnover,53,34
+15:33,Notre Dame,TJ Gibbs,Steal,53,34
+15:25,Notre Dame,Prentiss Hubb,Missed Layup,53,34
+15:25,Duke,Zion Williamson,Block,53,34
+15:25,Duke,Zion Williamson,Defensive Rebound,53,34
+15:20,Notre Dame,Chris Doherty,Foul,53,34
+15:20,Notre Dame,None,None,53,34
+15:10,Notre Dame,D.J. Harvey,Foul,53,34
+15:05,Duke,Cam Reddish,Missed Jumper,53,34
+15:05,Notre Dame,D.J. Harvey,Defensive Rebound,53,34
+14:46,Notre Dame,John Mooney,Missed Jumper,53,34
+14:46,Notre Dame,Notre Dame,Offensive Rebound,53,34
+14:31,Notre Dame,John Mooney,Missed Three Point Jumper,53,34
+14:31,Duke,Zion Williamson,Defensive Rebound,53,34
+14:09,Duke,Tre Jones,Missed Three Point Jumper,53,34
+14:09,Duke,Zion Williamson,Offensive Rebound,53,34
+14:05,Duke,Zion Williamson,Layup,55,34
+14:05,Notre Dame,John Mooney,Foul,55,34
+14:05,Duke,Zion Williamson,Missed Free Throw,55,34
+14:05,Notre Dame,John Mooney,Defensive Rebound,55,34
+13:48,Notre Dame,Nate Laszewski,Missed Three Point Jumper,55,34
+13:48,Duke,RJ Barrett,Defensive Rebound,55,34
+13:44,Duke,RJ Barrett,Turnover,55,34
+13:44,Notre Dame,TJ Gibbs,Steal,55,34
+13:37,Notre Dame,Prentiss Hubb,Layup,55,36
+13:15,Duke,Zion Williamson,Jumper,57,36
+12:51,Notre Dame,John Mooney,Missed Dunk,57,36
+12:51,Duke,Zion Williamson,Block,57,36
+12:51,Notre Dame,Notre Dame,Offensive Rebound,57,36
+12:45,Notre Dame,Prentiss Hubb,Three Point Jumper,57,39
+12:20,Duke,Cam Reddish,Missed Three Point Jumper,57,39
+12:20,Notre Dame,Nate Laszewski,Defensive Rebound,57,39
+12:18,Duke,Antonio Vrankovic,Foul,57,39
+12:01,Notre Dame,John Mooney,Jumper,57,41
+11:37,Duke,Tre Jones,Jumper,59,41
+11:23,Duke,Antonio Vrankovic,Foul,59,41
+11:23,Notre Dame,None,None,59,41
+11:21,Notre Dame,John Mooney,Dunk,59,43
+11:06,Duke,Tre Jones,Turnover,59,43
+11:06,Notre Dame,TJ Gibbs,Steal,59,43
+11:00,Duke,RJ Barrett,Foul,59,43
+10:52,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,59,43
+10:52,Duke,Jack White,Defensive Rebound,59,43
+10:35,Duke,RJ Barrett,Missed Jumper,59,43
+10:35,Duke,Zion Williamson,Offensive Rebound,59,43
+10:35,Duke,Zion Williamson,Layup,61,43
+10:09,Notre Dame,D.J. Harvey,Jumper,61,45
+9:55,Duke,Cam Reddish,Missed Three Point Jumper,61,45
+9:55,Duke,Zion Williamson,Offensive Rebound,61,45
+9:33,Duke,RJ Barrett,Layup,63,45
+8:59,Notre Dame,Nikola Djogo,Missed Three Point Jumper,63,45
+8:59,Duke,Jack White,Defensive Rebound,63,45
+8:50,Duke,Cam Reddish,Three Point Jumper,66,45
+8:33,Notre Dame,D.J. Harvey,Jumper,66,47
+8:10,Duke,RJ Barrett,Missed Layup,66,47
+8:10,Notre Dame,D.J. Harvey,Defensive Rebound,66,47
+8:03,Duke,Cam Reddish,Foul,66,47
+8:01,Notre Dame,John Mooney,Missed Layup,66,47
+8:01,Duke,Zion Williamson,Defensive Rebound,66,47
+7:38,Duke,Cam Reddish,Layup,68,47
+7:17,Notre Dame,D.J. Harvey,Turnover,68,47
+7:17,Duke,Zion Williamson,Steal,68,47
+6:49,Duke,RJ Barrett,Missed Three Point Jumper,68,47
+6:49,Duke,Jack White,Offensive Rebound,68,47
+6:40,Duke,Cam Reddish,Missed Three Point Jumper,68,47
+6:40,Notre Dame,John Mooney,Defensive Rebound,68,47
+6:33,Duke,Zion Williamson,Foul,68,47
+6:33,Notre Dame,None,None,68,47
+6:33,Notre Dame,John Mooney,Free Throw,68,48
+6:33,Notre Dame,John Mooney,Free Throw,68,49
+6:18,Duke,Cam Reddish,Three Point Jumper,71,49
+6:02,Notre Dame,D.J. Harvey,Missed Three Point Jumper,71,49
+6:02,Notre Dame,Nate Laszewski,Offensive Rebound,71,49
+6:02,Notre Dame,Nate Laszewski,Missed Jumper,71,49
+6:02,Duke,Marques Bolden,Defensive Rebound,71,49
+5:44,Notre Dame,Nate Laszewski,Foul,71,49
+5:44,Duke,Cam Reddish,Free Throw,72,49
+5:44,Duke,Cam Reddish,Free Throw,73,49
+5:23,Notre Dame,TJ Gibbs,Missed Three Point Jumper,73,49
+5:23,Duke,Cam Reddish,Defensive Rebound,73,49
+5:03,Notre Dame,Nate Laszewski,Foul,73,49
+5:03,Duke,Marques Bolden,Missed Free Throw,73,49
+5:03,Notre Dame,Nate Laszewski,Defensive Rebound,73,49
+4:47,Notre Dame,TJ Gibbs,Missed Jumper,73,49
+4:47,Notre Dame,Notre Dame,Offensive Rebound,73,49
+4:35,Notre Dame,Dane Goodwin,Three Point Jumper,73,52
+4:20,Duke,RJ Barrett,Dunk,75,52
+4:08,Notre Dame,John Mooney,Layup,75,54
+3:54,Duke,RJ Barrett,Missed Jumper,75,54
+3:54,Duke,RJ Barrett,Offensive Rebound,75,54
+3:45,Duke,RJ Barrett,Missed Layup,75,54
+3:45,Duke,Jack White,Offensive Rebound,75,54
+3:21,Duke,Duke ,Turnover,75,54
+3:21,Notre Dame,None,None,75,54
+3:08,Duke,Cam Reddish,Foul,75,54
+3:08,Notre Dame,TJ Gibbs,Free Throw,75,55
+3:08,Notre Dame,TJ Gibbs,Free Throw,75,56
+2:51,Duke,Alex O'Connell,Three Point Jumper,78,56
+2:39,Notre Dame,TJ Gibbs,Three Point Jumper,78,59
+2:38,Notre Dame,None,None,78,59
+2:29,Duke,Alex O'Connell,Three Point Jumper,81,59
+2:29,Duke,Marques Bolden,Block,81,59
+2:09,Notre Dame,TJ Gibbs,Missed Layup,81,59
+2:09,Duke,Tre Jones,Defensive Rebound,81,59
+1:58,Duke,None,None,81,59
+1:56,Duke,Alex O'Connell,Turnover,81,59
+1:56,Notre Dame,Nikola Djogo,Steal,81,59
+1:47,Notre Dame,Nikola Djogo,Dunk,81,61
+1:28,Notre Dame,Nate Laszewski,Foul,81,61
+1:28,Duke,Zion Williamson,Missed Free Throw,81,61
+1:28,Duke,None,Team Rebound,81,61
+1:28,Duke,Zion Williamson,Free Throw,82,61
+1:14,Notre Dame,Chris Doherty,Turnover,82,61
+1:14,Duke,Jack White,Steal,82,61
+0:50,Duke,Antonio Vrankovic,Missed Jumper,82,61
+0:50,Duke,Jack White,Offensive Rebound,82,61
+0:44,Duke,Jack White,Missed Layup,82,61
+0:44,Duke,Antonio Vrankovic,Offensive Rebound,82,61
+0:44,Notre Dame,Chris Doherty,Foul,82,61
+0:44,Duke,Antonio Vrankovic,Free Throw,83,61
+0:44,Duke,Antonio Vrankovic,Missed Free Throw,83,61
+0:44,Notre Dame,Nikola Djogo,Defensive Rebound,83,61
+0:37,Notre Dame,D.J. Harvey,Missed Three Point Jumper,83,61
+0:37,Notre Dame,Prentiss Hubb,Offensive Rebound,83,61
+0:25,Notre Dame,Nate Laszewski,Missed Jumper,83,61
+0:25,Duke,Antonio Vrankovic,Defensive Rebound,83,61
+0:00,Notre Dame,None,None,83,61

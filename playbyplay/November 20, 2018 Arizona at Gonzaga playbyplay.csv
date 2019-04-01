@@ -1,0 +1,345 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Gonzaga,None,None,0,0
+19:46,Gonzaga,Brandon Clarke,Layup,0,2
+19:46,Arizona,Chase Jeter,Foul,0,2
+19:41,Gonzaga,Brandon Clarke,Missed Free Throw,0,2
+19:34,Arizona,Ryan Luther,Defensive Rebound,0,2
+19:25,Arizona,Brandon Williams,Layup,2,2
+19:18,Gonzaga,Corey Kispert,Missed Three Point Jumper,2,2
+19:18,Arizona,Ryan Luther,Defensive Rebound,2,2
+19:11,Gonzaga,Rui Hachimura,Foul,2,2
+19:07,Arizona,Justin Coleman,Missed Three Point Jumper,2,2
+19:07,Gonzaga,Corey Kispert,Defensive Rebound,2,2
+18:55,Gonzaga,Josh Perkins,Turnover,2,2
+18:55,Arizona,Brandon Randolph,Steal,2,2
+18:48,Arizona,Brandon Randolph,Layup,4,2
+18:36,Gonzaga,Rui Hachimura,Jumper,4,4
+18:22,Arizona,Brandon Williams,Turnover,4,4
+18:22,Gonzaga,Rui Hachimura,Steal,4,4
+18:16,Gonzaga,Rui Hachimura,Layup,4,6
+17:57,Arizona,Chase Jeter,Missed Jumper,4,6
+17:57,Gonzaga,Rui Hachimura,Defensive Rebound,4,6
+17:40,Gonzaga,Rui Hachimura,Missed Jumper,4,6
+17:40,Arizona,Chase Jeter,Defensive Rebound,4,6
+17:18,Arizona,Brandon Williams,Missed Three Point Jumper,4,6
+17:18,Gonzaga,Rui Hachimura,Defensive Rebound,4,6
+16:59,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,4,6
+16:59,Arizona,Ryan Luther,Defensive Rebound,4,6
+16:49,Arizona,Justin Coleman,Three Point Jumper,7,6
+16:42,Gonzaga,Rui Hachimura,Turnover,7,6
+16:31,Arizona,Ryan Luther,Foul,7,6
+16:31,Arizona,Ryan Luther,Turnover,7,6
+16:27,Gonzaga,Brandon Clarke,Layup,7,8
+16:06,Gonzaga,Corey Kispert,Foul,7,8
+15:54,Arizona,Justin Coleman,Three Point Jumper,10,8
+15:40,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,10,8
+15:40,Gonzaga,Brandon Clarke,Offensive Rebound,10,8
+15:27,Gonzaga,Filip Petrusev,Jumper,10,10
+15:20,Arizona,Brandon Randolph,Missed Three Point Jumper,10,10
+15:20,Gonzaga,Filip Petrusev,Defensive Rebound,10,10
+15:10,Gonzaga,Josh Perkins,Turnover,10,10
+15:10,Arizona,Brandon Randolph,Steal,10,10
+15:07,Arizona,Brandon Randolph,Layup,12,10
+15:07,Gonzaga,None,None,12,10
+15:07,Gonzaga,Josh Perkins,Layup,12,12
+15:00,Arizona,Justin Coleman,Jumper,14,12
+14:31,Gonzaga,Josh Perkins,Three Point Jumper,14,15
+14:17,Arizona,Ira Lee,Missed Jumper,14,15
+14:17,Gonzaga,None,Team Rebound,14,15
+14:02,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,14,15
+14:02,Arizona,Chase Jeter,Defensive Rebound,14,15
+13:57,Gonzaga,Filip Petrusev,Foul,14,15
+13:36,Arizona,Brandon Williams,Three Point Jumper,17,15
+13:24,Gonzaga,Brandon Clarke,Layup,17,17
+13:05,Arizona,Dylan Smith,Turnover,17,17
+12:49,Gonzaga,Rui Hachimura,Missed Jumper,17,17
+12:49,Gonzaga,Filip Petrusev,Offensive Rebound,17,17
+12:47,Gonzaga,Filip Petrusev,Missed Layup,17,17
+12:47,Gonzaga,Zach Norvell Jr.,Offensive Rebound,17,17
+12:41,Arizona,Dylan Smith,Foul,17,17
+12:41,Gonzaga,Zach Norvell Jr.,Free Throw,17,18
+12:41,Gonzaga,Zach Norvell Jr.,Missed Free Throw,17,18
+12:41,Arizona,Dylan Smith,Defensive Rebound,17,18
+12:15,Gonzaga,Geno Crandall,Foul,17,18
+12:15,Arizona,Brandon Williams,Free Throw,18,18
+12:15,Arizona,Brandon Williams,Missed Free Throw,18,18
+12:15,Arizona,None,Team Rebound,18,18
+12:15,Arizona,Brandon Williams,Free Throw,19,18
+12:04,Arizona,Brandon Williams,Foul,19,18
+12:04,Gonzaga,Filip Petrusev,Missed Free Throw,19,18
+12:04,Gonzaga,None,Team Rebound,19,18
+12:04,Gonzaga,Filip Petrusev,Missed Free Throw,19,18
+12:04,Arizona,Emmanuel Akot,Defensive Rebound,19,18
+11:39,Arizona,Brandon Williams,Missed Jumper,19,18
+11:39,Arizona,Ryan Luther,Offensive Rebound,19,18
+11:28,Arizona,Ryan Luther,Missed Layup,19,18
+11:28,Gonzaga,Filip Petrusev,Defensive Rebound,19,18
+11:17,Gonzaga,Geno Crandall,Turnover,19,18
+11:17,Arizona,Emmanuel Akot,Steal,19,18
+11:10,Arizona,Emmanuel Akot,Missed Three Point Jumper,19,18
+11:10,Gonzaga,Rui Hachimura,Defensive Rebound,19,18
+11:00,Gonzaga,Rui Hachimura,Jumper,19,20
+10:42,Arizona,Ira Lee,Missed Jumper,19,20
+10:42,Gonzaga,Rui Hachimura,Defensive Rebound,19,20
+10:32,Gonzaga,Filip Petrusev,Turnover,19,20
+10:32,Gonzaga,None,None,19,20
+10:11,Gonzaga,Rui Hachimura,Foul,19,20
+10:11,Arizona,Brandon Williams,Free Throw,20,20
+10:11,Arizona,Brandon Williams,Free Throw,21,20
+10:00,Gonzaga,Josh Perkins,Three Point Jumper,21,23
+9:37,Arizona,Justin Coleman,Three Point Jumper,24,23
+9:14,Gonzaga,Zach Norvell Jr.,Missed Layup,24,23
+9:14,Gonzaga,Jeremy Jones,Offensive Rebound,24,23
+9:14,Gonzaga,None,None,24,25
+8:54,Arizona,Justin Coleman,Missed Three Point Jumper,24,25
+8:54,Gonzaga,Josh Perkins,Defensive Rebound,24,25
+8:46,Arizona,Brandon Randolph,Foul,24,25
+8:46,Gonzaga,Brandon Clarke,Free Throw,24,26
+8:46,Gonzaga,Brandon Clarke,Missed Free Throw,24,26
+8:46,Arizona,Ira Lee,Defensive Rebound,24,26
+8:29,Arizona,Brandon Randolph,Jumper,26,26
+8:29,Gonzaga,Josh Perkins,Foul,26,26
+8:29,Arizona,Brandon Randolph,Missed Free Throw,26,26
+8:29,Gonzaga,Jeremy Jones,Defensive Rebound,26,26
+8:22,Gonzaga,Corey Kispert,Foul,26,26
+8:22,Gonzaga,Corey Kispert,Turnover,26,26
+8:00,Gonzaga,Jeremy Jones,Foul,26,26
+8:00,Gonzaga,None,None,26,26
+8:00,Arizona,Ira Lee,Free Throw,27,26
+8:00,Arizona,Ira Lee,Free Throw,28,26
+7:42,Arizona,Alex Barcello,Foul,28,26
+7:37,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,28,26
+7:37,Arizona,Ryan Luther,Defensive Rebound,28,26
+7:34,Gonzaga,Brandon Clarke,Foul,28,26
+7:34,Arizona,Ira Lee,Free Throw,29,26
+7:34,Arizona,Ira Lee,Missed Free Throw,29,26
+7:34,Gonzaga,Jeremy Jones,Defensive Rebound,29,26
+7:24,Gonzaga,Brandon Clarke,Dunk,29,28
+7:09,Arizona,Brandon Randolph,Missed Jumper,29,28
+7:09,Gonzaga,Josh Perkins,Defensive Rebound,29,28
+7:00,Gonzaga,Geno Crandall,Missed Three Point Jumper,29,28
+7:00,Arizona,Ira Lee,Defensive Rebound,29,28
+6:50,Gonzaga,Josh Perkins,Foul,29,28
+6:50,Arizona,Justin Coleman,Free Throw,30,28
+6:50,Arizona,Justin Coleman,Free Throw,31,28
+6:31,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,31,28
+6:31,Arizona,Brandon Randolph,Defensive Rebound,31,28
+6:22,Arizona,Brandon Randolph,Layup,33,28
+6:10,Gonzaga,Corey Kispert,Turnover,33,28
+5:52,Arizona,Chase Jeter,Jumper,35,28
+5:38,Gonzaga,Zach Norvell Jr.,Turnover,35,28
+5:38,Gonzaga,None,None,35,28
+5:29,Arizona,Emmanuel Akot,Missed Jumper,35,28
+5:29,Gonzaga,Jeremy Jones,Defensive Rebound,35,28
+5:06,Gonzaga,Brandon Clarke,Turnover,35,28
+4:39,Arizona,Brandon Williams,Missed Three Point Jumper,35,28
+4:39,Gonzaga,Brandon Clarke,Defensive Rebound,35,28
+4:30,Gonzaga,Jeremy Jones,Foul,35,28
+4:30,Gonzaga,Jeremy Jones,Turnover,35,28
+4:18,Arizona,None,None,35,28
+4:12,Arizona,Brandon Randolph,Missed Three Point Jumper,35,28
+4:12,Gonzaga,Zach Norvell Jr.,Defensive Rebound,35,28
+3:51,Arizona,Chase Jeter,Foul,35,28
+3:51,Gonzaga,None,None,35,28
+3:51,Gonzaga,Rui Hachimura,Missed Free Throw,35,28
+3:51,Gonzaga,None,Team Rebound,35,28
+3:51,Gonzaga,Rui Hachimura,Free Throw,35,29
+3:43,Gonzaga,Zach Norvell Jr.,Foul,35,29
+3:43,Arizona,Brandon Williams,Free Throw,36,29
+3:43,Arizona,Brandon Williams,Free Throw,37,29
+3:23,Gonzaga,Brandon Clarke,Missed Jumper,37,29
+3:23,Arizona,Ira Lee,Defensive Rebound,37,29
+3:15,Arizona,Ira Lee,Foul,37,29
+3:15,Arizona,Ira Lee,Turnover,37,29
+3:05,Gonzaga,Rui Hachimura,Missed Three Point Jumper,37,29
+3:05,Arizona,Ira Lee,Defensive Rebound,37,29
+2:52,Gonzaga,Brandon Clarke,Foul,37,29
+2:52,Arizona,Justin Coleman,Free Throw,38,29
+2:52,Arizona,Justin Coleman,Free Throw,39,29
+2:46,Arizona,Ira Lee,Foul,39,29
+2:46,Gonzaga,Zach Norvell Jr.,Free Throw,39,30
+2:46,Gonzaga,Zach Norvell Jr.,Free Throw,39,31
+2:31,Arizona,Brandon Williams,Missed Three Point Jumper,39,31
+2:31,Gonzaga,Jeremy Jones,Defensive Rebound,39,31
+2:26,Arizona,Ryan Luther,Foul,39,31
+2:26,Gonzaga,Jeremy Jones,Free Throw,39,32
+2:26,Gonzaga,Jeremy Jones,Free Throw,39,33
+1:57,Gonzaga,Geno Crandall,Foul,39,33
+1:57,Arizona,Emmanuel Akot,Free Throw,40,33
+1:57,Arizona,Emmanuel Akot,Free Throw,41,33
+1:45,Arizona,Ira Lee,Foul,41,33
+1:45,Gonzaga,Filip Petrusev,Free Throw,41,34
+1:45,Gonzaga,Filip Petrusev,Free Throw,41,35
+1:36,Gonzaga,Geno Crandall,Foul,41,35
+1:36,Arizona,Justin Coleman,Free Throw,42,35
+1:36,Arizona,Justin Coleman,Free Throw,43,35
+1:19,Gonzaga,Rui Hachimura,Jumper,43,37
+1:00,Gonzaga,Jeremy Jones,Foul,43,37
+1:00,Arizona,Ira Lee,Free Throw,44,37
+1:00,Arizona,Ira Lee,Free Throw,45,37
+0:46,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,45,37
+0:46,Arizona,Dylan Smith,Defensive Rebound,45,37
+0:33,Arizona,None,None,45,37
+0:23,Arizona,Brandon Williams,Turnover,45,37
+0:23,Gonzaga,Filip Petrusev,Steal,45,37
+0:08,Gonzaga,Zach Norvell Jr.,Missed Layup,45,37
+0:08,Arizona,Emmanuel Akot,Defensive Rebound,45,37
+0:01,Arizona,Dylan Smith,Missed Three Point Jumper,45,37
+0:01,Arizona,None,Team Rebound,45,37
+0:00,Gonzaga,None,None,45,37
+20:00,Gonzaga,None,None,45,37
+19:52,Gonzaga,Corey Kispert,Missed Three Point Jumper,45,37
+19:52,Arizona,Chase Jeter,Defensive Rebound,45,37
+19:36,Gonzaga,Josh Perkins,Foul,45,37
+19:36,Arizona,Justin Coleman,Free Throw,46,37
+19:36,Arizona,Justin Coleman,Free Throw,47,37
+19:20,Gonzaga,Corey Kispert,Missed Three Point Jumper,47,37
+19:20,Arizona,Ryan Luther,Defensive Rebound,47,37
+19:10,Arizona,Justin Coleman,Three Point Jumper,50,37
+18:52,Arizona,Chase Jeter,Foul,50,37
+18:45,Gonzaga,Josh Perkins,Missed Three Point Jumper,50,37
+18:45,Arizona,Brandon Randolph,Defensive Rebound,50,37
+18:21,Arizona,Chase Jeter,Missed Layup,50,37
+18:21,Arizona,Chase Jeter,Offensive Rebound,50,37
+17:58,Arizona,Chase Jeter,Missed Jumper,50,37
+17:58,Gonzaga,Brandon Clarke,Block,50,37
+17:58,Gonzaga,Rui Hachimura,Defensive Rebound,50,37
+17:41,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,50,37
+17:41,Arizona,Ryan Luther,Defensive Rebound,50,37
+17:41,Arizona,Justin Coleman,Missed Layup,50,37
+17:41,Gonzaga,Brandon Clarke,Block,50,37
+17:41,Arizona,Arizona,Offensive Rebound,50,37
+17:22,Arizona,Chase Jeter,Turnover,50,37
+17:13,Gonzaga,Rui Hachimura,Jumper,50,39
+16:57,Arizona,Brandon Randolph,Turnover,50,39
+16:57,Gonzaga,Zach Norvell Jr.,Steal,50,39
+16:48,Gonzaga,Zach Norvell Jr.,Dunk,50,41
+16:25,Gonzaga,Zach Norvell Jr.,Foul,50,41
+16:25,Arizona,Chase Jeter,Free Throw,51,41
+16:25,Arizona,Chase Jeter,Missed Free Throw,51,41
+16:25,Gonzaga,Rui Hachimura,Defensive Rebound,51,41
+16:21,Gonzaga,Corey Kispert,Three Point Jumper,51,44
+15:47,Arizona,Brandon Williams,Layup,53,44
+15:33,Gonzaga,Brandon Clarke,Three Point Jumper,53,47
+15:10,Arizona,Brandon Williams,Missed Jumper,53,47
+15:10,Gonzaga,Brandon Clarke,Block,53,47
+15:10,Arizona,Arizona,Offensive Rebound,53,47
+15:10,Gonzaga,None,None,53,47
+14:59,Arizona,Justin Coleman,Turnover,53,47
+14:49,Gonzaga,Josh Perkins,Missed Three Point Jumper,53,47
+14:49,Arizona,Ira Lee,Defensive Rebound,53,47
+14:41,Arizona,Brandon Randolph,Missed Three Point Jumper,53,47
+14:41,Gonzaga,Corey Kispert,Defensive Rebound,53,47
+14:37,Arizona,Ira Lee,Foul,53,47
+14:29,Gonzaga,Corey Kispert,Missed Three Point Jumper,53,47
+14:29,Arizona,Chase Jeter,Defensive Rebound,53,47
+14:22,Gonzaga,Brandon Clarke,Foul,53,47
+14:08,Arizona,Ryan Luther,Foul,53,47
+14:08,Arizona,Ryan Luther,Turnover,53,47
+14:00,Gonzaga,Rui Hachimura,Missed Jumper,53,47
+14:00,Arizona,Brandon Williams,Defensive Rebound,53,47
+13:50,Arizona,Brandon Randolph,Missed Three Point Jumper,53,47
+13:50,Gonzaga,Zach Norvell Jr.,Defensive Rebound,53,47
+13:37,Gonzaga,Josh Perkins,Jumper,53,49
+13:10,Arizona,Dylan Smith,Missed Three Point Jumper,53,49
+13:10,Gonzaga,Josh Perkins,Defensive Rebound,53,49
+13:03,Gonzaga,Zach Norvell Jr.,Three Point Jumper,53,52
+12:51,Arizona,None,None,53,52
+12:04,Arizona,Justin Coleman,Turnover,53,52
+12:04,Gonzaga,Rui Hachimura,Steal,53,52
+12:04,Arizona,Chase Jeter,Foul,53,52
+12:04,Arizona,Chase Jeter,Foul,53,52
+12:04,Arizona,Chase Jeter,Foul,53,52
+12:04,Gonzaga,Zach Norvell Jr.,Free Throw,53,53
+12:04,Gonzaga,Zach Norvell Jr.,Free Throw,53,54
+11:42,Gonzaga,Zach Norvell Jr.,Layup,53,56
+11:42,Arizona,Brandon Williams,Foul,53,56
+11:42,Gonzaga,None,None,53,56
+11:42,Gonzaga,Zach Norvell Jr.,Missed Free Throw,53,56
+11:42,Arizona,Emmanuel Akot,Defensive Rebound,53,56
+11:41,Gonzaga,None,None,53,56
+11:26,Arizona,Emmanuel Akot,Missed Jumper,53,56
+11:26,Gonzaga,Corey Kispert,Defensive Rebound,53,56
+11:16,Gonzaga,Josh Perkins,Missed Three Point Jumper,53,56
+11:16,Arizona,Ryan Luther,Defensive Rebound,53,56
+11:09,Arizona,Justin Coleman,Three Point Jumper,56,56
+11:00,Arizona,Brandon Randolph,Foul,56,56
+11:00,Gonzaga,Rui Hachimura,Free Throw,56,57
+11:00,Gonzaga,Rui Hachimura,Free Throw,56,58
+10:43,Arizona,Brandon Williams,Turnover,56,58
+10:30,Gonzaga,Rui Hachimura,Jumper,56,60
+10:07,Arizona,Brandon Randolph,Jumper,58,60
+9:51,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,58,60
+9:51,Arizona,Arizona,Defensive Rebound,58,60
+9:23,Arizona,Justin Coleman,Three Point Jumper,61,60
+9:06,Gonzaga,Brandon Clarke,Layup,61,62
+8:49,Arizona,Brandon Randolph,Missed Three Point Jumper,61,62
+8:49,Gonzaga,Zach Norvell Jr.,Defensive Rebound,61,62
+8:40,Gonzaga,Zach Norvell Jr.,Three Point Jumper,61,65
+8:26,Arizona,None,None,61,65
+8:10,Arizona,Ryan Luther,Turnover,61,65
+8:03,Gonzaga,Josh Perkins,Turnover,61,65
+8:03,Arizona,Justin Coleman,Steal,61,65
+7:46,Arizona,Justin Coleman,Missed Three Point Jumper,61,65
+7:46,Gonzaga,Zach Norvell Jr.,Defensive Rebound,61,65
+7:38,Gonzaga,Zach Norvell Jr.,Turnover,61,65
+7:38,Arizona,Ryan Luther,Steal,61,65
+7:19,Gonzaga,Brandon Clarke,Foul,61,65
+7:19,Arizona,Brandon Williams,Free Throw,62,65
+7:19,Arizona,Brandon Williams,Free Throw,63,65
+7:11,Gonzaga,Rui Hachimura,Dunk,63,67
+6:55,Arizona,Brandon Randolph,Layup,65,67
+6:55,Gonzaga,Rui Hachimura,Foul,65,67
+6:55,Arizona,Brandon Randolph,Missed Free Throw,65,67
+6:55,Gonzaga,Jeremy Jones,Defensive Rebound,65,67
+6:39,Gonzaga,Rui Hachimura,Missed Layup,65,67
+6:39,Gonzaga,Zach Norvell Jr.,Offensive Rebound,65,67
+6:24,Gonzaga,Rui Hachimura,Layup,65,69
+6:03,Arizona,Justin Coleman,Turnover,65,69
+6:03,Gonzaga,Zach Norvell Jr.,Steal,65,69
+5:57,Gonzaga,Rui Hachimura,Missed Layup,65,69
+5:57,Gonzaga,Zach Norvell Jr.,Offensive Rebound,65,69
+5:48,Gonzaga,Zach Norvell Jr.,Layup,65,71
+5:45,Arizona,None,None,65,71
+5:34,Arizona,Ira Lee,Turnover,65,71
+5:34,Gonzaga,Jeremy Jones,Steal,65,71
+5:26,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,65,71
+5:26,Gonzaga,Zach Norvell Jr.,Offensive Rebound,65,71
+5:21,Gonzaga,None,None,65,71
+5:05,Gonzaga,Rui Hachimura,Jumper,65,73
+4:50,Arizona,Brandon Randolph,Layup,67,73
+4:23,Gonzaga,Jeremy Jones,Missed Layup,67,73
+4:23,Gonzaga,Zach Norvell Jr.,Offensive Rebound,67,73
+4:12,Gonzaga,Josh Perkins,Three Point Jumper,67,76
+4:05,Arizona,Brandon Williams,Missed Layup,67,76
+4:05,Gonzaga,Josh Perkins,Defensive Rebound,67,76
+3:51,Gonzaga,Zach Norvell Jr.,Three Point Jumper,67,79
+3:30,Arizona,Brandon Randolph,Layup,69,79
+3:30,Gonzaga,Jeremy Jones,Foul,69,79
+3:30,Gonzaga,None,None,69,79
+3:30,Arizona,Brandon Randolph,Free Throw,70,79
+3:07,Gonzaga,Josh Perkins,Missed Three Point Jumper,70,79
+3:07,Gonzaga,Brandon Clarke,Offensive Rebound,70,79
+2:58,Gonzaga,Brandon Clarke,Layup,70,81
+2:47,Arizona,Ira Lee,Turnover,70,81
+2:47,Gonzaga,Josh Perkins,Steal,70,81
+2:31,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,70,81
+2:31,Arizona,Ira Lee,Defensive Rebound,70,81
+2:19,Arizona,Justin Coleman,Missed Layup,70,81
+2:19,Gonzaga,Brandon Clarke,Block,70,81
+2:19,Arizona,Justin Coleman,Offensive Rebound,70,81
+2:07,Arizona,Ira Lee,Layup,72,81
+1:53,Gonzaga,Josh Perkins,Three Point Jumper,72,84
+1:37,Arizona,Ryan Luther,Missed Three Point Jumper,72,84
+1:37,Gonzaga,Brandon Clarke,Defensive Rebound,72,84
+1:13,Gonzaga,Rui Hachimura,Layup,72,86
+1:13,Arizona,Ryan Luther,Foul,72,86
+1:13,Gonzaga,Rui Hachimura,Free Throw,72,87
+1:07,Arizona,Brandon Randolph,Layup,74,87
+0:37,Gonzaga,Brandon Clarke,Dunk,74,89
+0:29,Arizona,Ira Lee,Turnover,74,89
+0:29,Gonzaga,Josh Perkins,Steal,74,89
+0:22,Gonzaga,Josh Perkins,Layup,74,91
+0:13,Arizona,Brandon Williams,Missed Three Point Jumper,74,91
+0:13,Gonzaga,Zach Norvell Jr.,Defensive Rebound,74,91
+0:00,Gonzaga,None,None,74,91

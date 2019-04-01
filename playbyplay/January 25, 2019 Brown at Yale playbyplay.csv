@@ -1,0 +1,362 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:48,Yale,Blake Reynolds,Jumper,0,2
+19:29,Brown,Obi Okolie,Turnover,0,2
+19:13,Yale,Miye Oni,Missed Three Point Jumper,0,2
+19:13,Brown,Zach Hunsaker,Defensive Rebound,0,2
+18:58,Brown,Tamenang Choh,Missed Layup,0,2
+18:58,Yale,Blake Reynolds,Defensive Rebound,0,2
+18:58,Brown,Matt DeWolf,Foul,0,2
+18:45,Yale,Alex Copeland,Missed Jumper,0,2
+18:45,Yale,Blake Reynolds,Offensive Rebound,0,2
+18:40,Yale,Blake Reynolds,Turnover,0,2
+18:27,Brown,Tamenang Choh,Three Point Jumper,3,2
+18:11,Yale,Blake Reynolds,Three Point Jumper,3,5
+17:48,Brown,Obi Okolie,Layup,5,5
+17:32,Yale,Blake Reynolds,Missed Three Point Jumper,5,5
+17:32,Brown,Tamenang Choh,Defensive Rebound,5,5
+17:16,Brown,Desmond Cambridge,Jumper,7,5
+16:58,Brown,Zach Hunsaker,Foul,7,5
+16:58,Brown,Tamenang Choh,Foul,7,5
+16:58,Yale,Jordan Bruner,Foul,7,5
+16:58,Brown,Tamenang Choh,Foul,7,5
+16:58,Yale,Jordan Bruner,Foul,7,5
+16:57,Yale,Miye Oni,Turnover,7,5
+16:46,Brown,Desmond Cambridge,Jumper,9,5
+16:30,Yale,Miye Oni,Turnover,9,5
+16:29,Brown,Obi Okolie,Steal,9,5
+16:21,Brown,Tamenang Choh,Missed Layup,9,5
+16:21,Yale,Jordan Bruner,Block,9,5
+16:19,Yale,Miye Oni,Defensive Rebound,9,5
+16:14,Yale,Miye Oni,Missed Jumper,9,5
+16:14,Yale,Blake Reynolds,Offensive Rebound,9,5
+15:53,Yale,None,None,9,5
+15:51,Yale,Jordan Bruner,Jumper,9,7
+15:29,Brown,David Mitchell,Layup,11,7
+15:07,Yale,Alex Copeland,Jumper,11,9
+14:54,Brown,Desmond Cambridge,Missed Three Point Jumper,11,9
+14:54,Brown,Tamenang Choh,Offensive Rebound,11,9
+14:35,Brown,Tamenang Choh,Turnover,11,9
+14:33,Yale,Blake Reynolds,Steal,11,9
+14:17,Yale,Blake Reynolds,Missed Jumper,11,9
+14:17,Brown,David Mitchell,Defensive Rebound,11,9
+13:59,Brown,Desmond Cambridge,Turnover,11,9
+13:44,Yale,Azar Swain,Jumper,11,11
+13:19,Brown,Obi Okolie,Turnover,11,11
+12:59,Brown,Desmond Cambridge,Foul,11,11
+12:59,Yale,Trey Phills,Free Throw,11,12
+12:59,Yale,Trey Phills,Free Throw,11,13
+12:59,Yale,Trey Phills,Free Throw,11,14
+12:51,Brown,Brandon Anderson,Turnover,11,14
+12:51,Yale,Paul Atkinson,Steal,11,14
+12:51,Brown,Matt DeWolf,Foul,11,14
+12:40,Brown,Brandon Anderson,Foul,11,14
+12:26,Yale,Paul Atkinson,Turnover,11,14
+12:05,Brown,Obi Okolie,Missed Jumper,11,14
+12:05,Yale,Trey Phills,Defensive Rebound,11,14
+11:56,Yale,Blake Reynolds,Three Point Jumper,11,17
+11:40,Brown,Desmond Cambridge,Missed Jumper,11,17
+11:39,Yale,Trey Phills,Block,11,17
+11:38,Yale,Azar Swain,Defensive Rebound,11,17
+11:33,Yale,Azar Swain,Turnover,11,17
+11:33,Yale,Azar Swain,Foul,11,17
+11:33,Yale,None,None,11,17
+11:17,Brown,Desmond Cambridge,Missed Three Point Jumper,11,17
+11:17,Yale,Azar Swain,Defensive Rebound,11,17
+11:16,Brown,Zach Hunsaker,Foul,11,17
+11:16,Yale,Miye Oni,Missed Free Throw,11,17
+11:16,Yale,None,Team Rebound,11,17
+11:16,Yale,Miye Oni,Free Throw,11,18
+11:02,Brown,Brandon Anderson,Missed Jumper,11,18
+11:02,Yale,Eric Monroe,Defensive Rebound,11,18
+10:52,Yale,Paul Atkinson,Layup,11,20
+10:37,Brown,Joshua Howard,Jumper,13,20
+10:36,Yale,Paul Atkinson,Foul,13,20
+10:36,Brown,Joshua Howard,Free Throw,14,20
+10:19,Yale,Jordan Bruner,Three Point Jumper,14,23
+10:04,Brown,Brandon Anderson,Missed Jumper,14,23
+10:04,Yale,Miye Oni,Defensive Rebound,14,23
+9:49,Yale,Eric Monroe,Missed Three Point Jumper,14,23
+9:49,Brown,Tamenang Choh,Defensive Rebound,14,23
+9:36,Brown,Joshua Howard,Missed Three Point Jumper,14,23
+9:36,Yale,Jordan Bruner,Defensive Rebound,14,23
+9:28,Yale,Miye Oni,Layup,14,25
+9:16,Brown,Tamenang Choh,Missed Layup,14,25
+9:16,Brown,Brown,Offensive Rebound,14,25
+9:02,Brown,Obi Okolie,Layup,16,25
+8:41,Yale,Jordan Bruner,Missed Jumper,16,25
+8:41,Brown,Chris Sullivan,Defensive Rebound,16,25
+8:28,Brown,Zach Hunsaker,Three Point Jumper,19,25
+8:28,Yale,Alex Copeland,Foul,19,25
+8:20,Brown,Zach Hunsaker,Missed Jumper,19,25
+8:20,Yale,Jordan Bruner,Defensive Rebound,19,25
+8:03,Yale,Alex Copeland,Missed Jumper,19,25
+8:03,Brown,Zach Hunsaker,Defensive Rebound,19,25
+7:58,Brown,Chris Sullivan,Missed Three Point Jumper,19,25
+7:58,Yale,Miye Oni,Defensive Rebound,19,25
+7:52,Yale,Alex Copeland,Missed Jumper,19,25
+7:52,Brown,David Mitchell,Defensive Rebound,19,25
+7:33,Brown,Tamenang Choh,Layup,21,25
+7:33,Yale,Eric Monroe,Foul,21,25
+7:33,Brown,Tamenang Choh,Missed Free Throw,21,25
+7:33,Yale,Jordan Bruner,Defensive Rebound,21,25
+7:21,Yale,Jordan Bruner,Missed Three Point Jumper,21,25
+7:21,Brown,Tamenang Choh,Defensive Rebound,21,25
+7:13,Brown,Desmond Cambridge,Missed Three Point Jumper,21,25
+7:13,Yale,Jordan Bruner,Defensive Rebound,21,25
+7:06,Yale,Paul Atkinson,Dunk,21,27
+6:47,Brown,Obi Okolie,Missed Jumper,21,27
+6:47,Yale,Paul Atkinson,Defensive Rebound,21,27
+6:46,Brown,David Mitchell,Foul,21,27
+6:46,Yale,Paul Atkinson,Free Throw,21,28
+6:46,Yale,Paul Atkinson,Missed Free Throw,21,28
+6:46,Yale,Blake Reynolds,Offensive Rebound,21,28
+6:40,Yale,Miye Oni,Three Point Jumper,21,31
+6:24,Brown,Desmond Cambridge,Missed Jumper,21,31
+6:24,Yale,Paul Atkinson,Block,21,31
+6:22,Yale,Trey Phills,Defensive Rebound,21,31
+6:11,Brown,David Mitchell,Foul,21,31
+6:11,Yale,Paul Atkinson,Free Throw,21,32
+6:11,Yale,Paul Atkinson,Missed Free Throw,21,32
+6:11,Brown,Tamenang Choh,Defensive Rebound,21,32
+6:06,Brown,Tamenang Choh,Missed Layup,21,32
+6:06,Brown,Tamenang Choh,Offensive Rebound,21,32
+6:01,Brown,None,None,23,32
+5:49,Yale,Trey Phills,Turnover,23,32
+5:49,Yale,Trey Phills,Foul,23,32
+5:36,Brown,Joshua Howard,Missed Three Point Jumper,23,32
+5:36,Yale,Blake Reynolds,Defensive Rebound,23,32
+5:25,Yale,Miye Oni,Layup,23,34
+5:21,Brown,None,None,23,34
+5:10,Brown,Joshua Howard,Missed Three Point Jumper,23,34
+5:10,Yale,Miye Oni,Defensive Rebound,23,34
+4:48,Yale,Trey Phills,Turnover,23,34
+4:47,Brown,Joshua Howard,Steal,23,34
+4:34,Brown,Desmond Cambridge,Missed Three Point Jumper,23,34
+4:34,Yale,Blake Reynolds,Defensive Rebound,23,34
+4:21,Yale,Azar Swain,Turnover,23,34
+4:09,Brown,Desmond Cambridge,Layup,25,34
+3:47,Yale,Azar Swain,Missed Three Point Jumper,25,34
+3:47,Brown,Joshua Howard,Defensive Rebound,25,34
+3:21,Yale,Trey Phills,Foul,25,34
+3:21,Yale,None,None,25,34
+3:21,Brown,Desmond Cambridge,Free Throw,26,34
+3:21,Brown,Desmond Cambridge,Free Throw,27,34
+2:54,Yale,Blake Reynolds,Missed Three Point Jumper,27,34
+2:54,Brown,Tamenang Choh,Defensive Rebound,27,34
+2:40,Brown,David Mitchell,Missed Three Point Jumper,27,34
+2:40,Yale,Miye Oni,Defensive Rebound,27,34
+2:18,Yale,Miye Oni,Missed Three Point Jumper,27,34
+2:18,Brown,Desmond Cambridge,Defensive Rebound,27,34
+2:15,Yale,Jalen Gabbidon,Foul,27,34
+2:15,Brown,Desmond Cambridge,Free Throw,28,34
+2:15,Brown,Desmond Cambridge,Missed Free Throw,28,34
+2:15,Yale,Miye Oni,Defensive Rebound,28,34
+2:01,Yale,Alex Copeland,Missed Jumper,28,34
+2:01,Brown,Obi Okolie,Block,28,34
+1:59,Yale,Alex Copeland,Offensive Rebound,28,34
+1:53,Yale,Alex Copeland,Missed Layup,28,34
+1:53,Brown,Tamenang Choh,Block,28,34
+1:51,Yale,Alex Copeland,Offensive Rebound,28,34
+1:49,Yale,Alex Copeland,Layup,28,36
+1:49,Brown,Brandon Anderson,Foul,28,36
+1:49,Yale,Alex Copeland,Free Throw,28,37
+1:39,Yale,Jalen Gabbidon,Foul,28,37
+1:39,Brown,Tamenang Choh,Free Throw,29,37
+1:39,Brown,Tamenang Choh,Free Throw,30,37
+1:23,Yale,Miye Oni,Missed Three Point Jumper,30,37
+1:23,Brown,Desmond Cambridge,Defensive Rebound,30,37
+1:02,Brown,Desmond Cambridge,Missed Layup,30,37
+1:02,Yale,Miye Oni,Defensive Rebound,30,37
+0:46,Yale,Azar Swain,Missed Three Point Jumper,30,37
+0:46,Brown,Desmond Cambridge,Defensive Rebound,30,37
+0:15,Brown,Obi Okolie,Missed Three Point Jumper,30,37
+0:15,Yale,Yale,Defensive Rebound,30,37
+0:13,Yale,None,None,30,37
+0:02,Yale,Miye Oni,Missed Layup,30,37
+0:02,Brown,Chris Sullivan,Defensive Rebound,30,37
+0:00,Yale,None,None,30,37
+19:50,Brown,Zach Hunsaker,Turnover,30,37
+19:49,Yale,Jordan Bruner,Steal,30,37
+19:36,Brown,David Mitchell,Foul,30,37
+19:34,Yale,Blake Reynolds,Missed Layup,30,37
+19:34,Brown,Tamenang Choh,Defensive Rebound,30,37
+19:22,Brown,David Mitchell,Missed Jumper,30,37
+19:22,Yale,Blake Reynolds,Block,30,37
+19:22,Brown,Brown,Offensive Rebound,30,37
+19:06,Brown,Tamenang Choh,Layup,32,37
+18:50,Yale,Jordan Bruner,Turnover,32,37
+18:50,Yale,Jordan Bruner,Foul,32,37
+18:38,Brown,Desmond Cambridge,Missed Jumper,32,37
+18:38,Yale,Miye Oni,Block,32,37
+18:37,Yale,Trey Phills,Defensive Rebound,32,37
+18:33,Yale,Trey Phills,Missed Layup,32,37
+18:33,Yale,Jordan Bruner,Offensive Rebound,32,37
+18:30,Yale,Jordan Bruner,Missed Jumper,32,37
+18:30,Yale,Alex Copeland,Offensive Rebound,32,37
+18:23,Yale,Trey Phills,Three Point Jumper,32,40
+18:08,Brown,Zach Hunsaker,Turnover,32,40
+18:08,Brown,Zach Hunsaker,Foul,32,40
+17:48,Yale,Blake Reynolds,Missed Jumper,32,40
+17:48,Brown,Desmond Cambridge,Defensive Rebound,32,40
+17:34,Brown,Tamenang Choh,Jumper,34,40
+17:17,Yale,Jordan Bruner,Missed Three Point Jumper,34,40
+17:17,Yale,Miye Oni,Offensive Rebound,34,40
+17:09,Yale,Jordan Bruner,Missed Jumper,34,40
+17:09,Yale,Blake Reynolds,Offensive Rebound,34,40
+17:06,Yale,Alex Copeland,Three Point Jumper,34,43
+16:47,Yale,Trey Phills,Foul,34,43
+16:47,Brown,Obi Okolie,Missed Free Throw,34,43
+16:47,Brown,None,Team Rebound,34,43
+16:47,Brown,Obi Okolie,Free Throw,35,43
+16:29,Yale,Azar Swain,Missed Three Point Jumper,35,43
+16:29,Brown,Tamenang Choh,Defensive Rebound,35,43
+16:21,Brown,Matt DeWolf,Missed Layup,35,43
+16:21,Yale,Paul Atkinson,Block,35,43
+16:18,Brown,Desmond Cambridge,Offensive Rebound,35,43
+16:16,Brown,Desmond Cambridge,Layup,37,43
+16:05,Yale,Miye Oni,Turnover,37,43
+16:03,Brown,Obi Okolie,Steal,37,43
+16:00,Brown,Obi Okolie,Missed Layup,37,43
+16:00,Yale,Miye Oni,Block,37,43
+15:59,Yale,Jordan Bruner,Defensive Rebound,37,43
+15:44,Brown,Matt DeWolf,Foul,37,43
+15:44,Yale,None,None,37,43
+15:40,Yale,Paul Atkinson,Layup,37,45
+15:20,Brown,Tamenang Choh,Missed Layup,37,45
+15:20,Yale,Miye Oni,Defensive Rebound,37,45
+15:15,Yale,Azar Swain,Layup,37,47
+14:58,Brown,Tamenang Choh,Missed Jumper,37,47
+14:58,Yale,Paul Atkinson,Defensive Rebound,37,47
+14:36,Yale,Alex Copeland,Three Point Jumper,37,50
+14:32,Brown,None,None,37,50
+14:15,Brown,Tamenang Choh,Missed Three Point Jumper,37,50
+14:15,Yale,Azar Swain,Defensive Rebound,37,50
+14:12,Brown,Brandon Anderson,Foul,37,50
+13:52,Yale,Miye Oni,Missed Three Point Jumper,37,50
+13:52,Brown,Tamenang Choh,Defensive Rebound,37,50
+13:37,Brown,Obi Okolie,Jumper,39,50
+13:19,Brown,Desmond Cambridge,Foul,39,50
+13:06,Yale,Miye Oni,Missed Layup,39,50
+13:06,Brown,Obi Okolie,Block,39,50
+13:04,Brown,Obi Okolie,Defensive Rebound,39,50
+12:54,Brown,Brandon Anderson,Layup,41,50
+12:33,Yale,Jordan Bruner,Missed Three Point Jumper,41,50
+12:33,Brown,Tamenang Choh,Defensive Rebound,41,50
+12:21,Brown,Tamenang Choh,Missed Three Point Jumper,41,50
+12:21,Brown,Matt DeWolf,Offensive Rebound,41,50
+12:15,Brown,Desmond Cambridge,Three Point Jumper,44,50
+12:01,Yale,Azar Swain,Missed Three Point Jumper,44,50
+12:01,Brown,Tamenang Choh,Defensive Rebound,44,50
+11:53,Brown,Brandon Anderson,Turnover,44,50
+11:53,Yale,None,None,44,50
+11:35,Yale,Azar Swain,Missed Jumper,44,50
+11:35,Brown,Tamenang Choh,Defensive Rebound,44,50
+11:16,Brown,Obi Okolie,Missed Layup,44,50
+11:16,Yale,Miye Oni,Block,44,50
+11:14,Yale,Miye Oni,Defensive Rebound,44,50
+11:07,Yale,Trey Phills,Turnover,44,50
+11:06,Brown,Brandon Anderson,Steal,44,50
+10:42,Yale,Paul Atkinson,Foul,44,50
+10:42,Brown,Tamenang Choh,Missed Free Throw,44,50
+10:42,Brown,None,Team Rebound,44,50
+10:42,Brown,Tamenang Choh,Missed Free Throw,44,50
+10:42,Yale,Miye Oni,Defensive Rebound,44,50
+10:18,Yale,Trey Phills,Three Point Jumper,44,53
+9:56,Brown,Brandon Anderson,Missed Jumper,44,53
+9:56,Yale,Azar Swain,Defensive Rebound,44,53
+9:48,Yale,Azar Swain,Missed Three Point Jumper,44,53
+9:48,Brown,David Mitchell,Defensive Rebound,44,53
+9:41,Brown,Tamenang Choh,Layup,46,53
+9:22,Yale,Miye Oni,Jumper,46,55
+9:14,Brown,Brandon Anderson,Missed Layup,46,55
+9:14,Yale,Paul Atkinson,Defensive Rebound,46,55
+8:52,Yale,Blake Reynolds,Three Point Jumper,46,58
+8:48,Brown,None,None,46,58
+8:44,Yale,Alex Copeland,Foul,46,58
+8:29,Yale,Trey Phills,Foul,46,58
+8:26,Brown,Brandon Anderson,Missed Layup,46,58
+8:26,Yale,Jordan Bruner,Block,46,58
+8:24,Yale,Jordan Bruner,Defensive Rebound,46,58
+8:20,Yale,Alex Copeland,Missed Layup,46,58
+8:20,Brown,Desmond Cambridge,Block,46,58
+8:18,Yale,Miye Oni,Offensive Rebound,46,58
+8:07,Yale,Miye Oni,Missed Jumper,46,58
+8:07,Yale,Jordan Bruner,Offensive Rebound,46,58
+8:02,Yale,None,None,46,60
+7:47,Brown,Desmond Cambridge,Missed Three Point Jumper,46,60
+7:47,Yale,Alex Copeland,Defensive Rebound,46,60
+7:39,Yale,Miye Oni,Foul,46,60
+7:39,Yale,Miye Oni,Foul,46,60
+7:39,Brown,Desmond Cambridge,Foul,46,60
+7:39,Brown,Desmond Cambridge,Foul,46,60
+7:39,Yale,None,None,46,60
+7:25,Yale,Miye Oni,Turnover,46,60
+7:25,Brown,Desmond Cambridge,Steal,46,60
+7:01,Brown,Zach Hunsaker,Turnover,46,60
+6:39,Yale,Miye Oni,Three Point Jumper,46,63
+6:17,Brown,Chris Sullivan,Three Point Jumper,49,63
+5:45,Yale,Alex Copeland,Turnover,49,63
+5:45,Yale,Alex Copeland,Foul,49,63
+5:35,Brown,Desmond Cambridge,Missed Layup,49,63
+5:35,Yale,Blake Reynolds,Defensive Rebound,49,63
+5:18,Brown,Zach Hunsaker,Foul,49,63
+5:18,Yale,Blake Reynolds,Free Throw,49,64
+5:18,Yale,Blake Reynolds,Free Throw,49,65
+5:08,Brown,Obi Okolie,Three Point Jumper,52,65
+4:48,Yale,Eric Monroe,Missed Three Point Jumper,52,65
+4:48,Brown,Obi Okolie,Defensive Rebound,52,65
+4:41,Brown,Desmond Cambridge,Missed Three Point Jumper,52,65
+4:41,Yale,Jordan Bruner,Defensive Rebound,52,65
+4:12,Yale,Alex Copeland,Layup,52,67
+4:01,Brown,Tamenang Choh,Layup,54,67
+4:01,Yale,Jordan Bruner,Foul,54,67
+4:01,Brown,Tamenang Choh,Missed Free Throw,54,67
+4:01,Yale,Jordan Bruner,Defensive Rebound,54,67
+3:58,Yale,Alex Copeland,Turnover,54,67
+3:57,Brown,Desmond Cambridge,Steal,54,67
+3:55,Brown,Desmond Cambridge,Missed Jumper,54,67
+3:55,Brown,David Mitchell,Offensive Rebound,54,67
+3:52,Brown,David Mitchell,Missed Layup,54,67
+3:52,Brown,Tamenang Choh,Offensive Rebound,54,67
+3:51,Yale,Jordan Bruner,Foul,54,67
+3:51,Yale,None,None,54,67
+3:51,Brown,Tamenang Choh,Free Throw,55,67
+3:51,Brown,Tamenang Choh,Free Throw,56,67
+3:37,Yale,Jordan Bruner,Dunk,56,69
+3:26,Brown,Tamenang Choh,Layup,58,69
+3:26,Yale,Jordan Bruner,Foul,58,69
+3:26,Brown,Tamenang Choh,Free Throw,59,69
+2:59,Yale,Alex Copeland,Jumper,59,71
+2:57,Brown,David Mitchell,Foul,59,71
+2:57,Yale,Alex Copeland,Free Throw,59,72
+2:49,Brown,Chris Sullivan,Layup,61,72
+2:30,Yale,None,None,61,72
+2:26,Brown,Desmond Cambridge,Foul,61,72
+2:26,Yale,Trey Phills,Missed Free Throw,61,72
+2:26,Brown,Tamenang Choh,Defensive Rebound,61,72
+2:21,Brown,Zach Hunsaker,Three Point Jumper,64,72
+2:12,Brown,Desmond Cambridge,Foul,64,72
+2:12,Yale,Alex Copeland,Free Throw,64,73
+2:12,Yale,Alex Copeland,Free Throw,64,74
+2:01,Brown,Zach Hunsaker,Missed Three Point Jumper,64,74
+2:01,Yale,Blake Reynolds,Defensive Rebound,64,74
+1:57,Brown,Chris Sullivan,Foul,64,74
+1:57,Yale,Blake Reynolds,Free Throw,64,75
+1:57,Yale,Blake Reynolds,Free Throw,64,76
+1:47,Brown,Brandon Anderson,Three Point Jumper,67,76
+1:45,Brown,None,None,67,76
+1:20,Yale,Miye Oni,Missed Layup,67,76
+1:20,Brown,Obi Okolie,Defensive Rebound,67,76
+1:05,Brown,Brandon Anderson,Turnover,67,76
+1:04,Yale,Eric Monroe,Steal,67,76
+0:59,Brown,David Mitchell,Foul,67,76
+0:59,Yale,Alex Copeland,Missed Free Throw,67,76
+0:59,Yale,None,Team Rebound,67,76
+0:59,Yale,Alex Copeland,Free Throw,67,77
+0:59,Yale,None,None,67,77
+0:46,Brown,Chris Sullivan,Layup,69,77
+0:39,Yale,Miye Oni,Dunk,69,79
+0:24,Yale,Blake Reynolds,Foul,69,79
+0:24,Brown,Tamenang Choh,Free Throw,70,79
+0:24,Brown,Tamenang Choh,Free Throw,71,79
+0:00,Yale,None,None,71,79

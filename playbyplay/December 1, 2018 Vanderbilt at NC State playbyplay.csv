@@ -1,0 +1,359 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,Vanderbilt,Joe Toye,Missed Three Point Jumper,0,0
+19:44,NC State,Torin Dorn,Defensive Rebound,0,0
+19:23,NC State,Braxton Beverly,Missed Jumper,0,0
+19:23,NC State,NC State,Offensive Rebound,0,0
+19:06,NC State,Wyatt Walker,Layup,0,2
+18:48,Vanderbilt,Clevon Brown,Foul,0,2
+18:48,Vanderbilt,Clevon Brown,Turnover,0,2
+18:28,NC State,Torin Dorn,Jumper,0,4
+18:14,Vanderbilt,Simisola Shittu,Dunk,2,4
+18:12,NC State,Braxton Beverly,Foul,2,4
+18:12,Vanderbilt,Simisola Shittu,Free Throw,3,4
+18:07,NC State,Devon Daniels,Jumper,3,6
+17:38,Vanderbilt,Simisola Shittu,Missed Jumper,3,6
+17:38,Vanderbilt,Clevon Brown,Offensive Rebound,3,6
+17:33,NC State,Wyatt Walker,Foul,3,6
+17:33,Vanderbilt,Joe Toye,Missed Free Throw,3,6
+17:33,Vanderbilt,None,Team Rebound,3,6
+17:33,Vanderbilt,Joe Toye,Free Throw,4,6
+17:19,NC State,Markell Johnson,Jumper,4,8
+17:03,Vanderbilt,Saben Lee,Layup,6,8
+17:03,NC State,Markell Johnson,Foul,6,8
+17:03,Vanderbilt,Saben Lee,Free Throw,7,8
+16:51,NC State,Braxton Beverly,Three Point Jumper,7,11
+16:32,Vanderbilt,Yanni Wetzell,Jumper,9,11
+16:19,NC State,Devon Daniels,Missed Three Point Jumper,9,11
+16:19,NC State,NC State,Offensive Rebound,9,11
+16:17,Vanderbilt,Joe Toye,Foul,9,11
+16:09,NC State,DJ Funderburk,Jumper,9,13
+15:38,NC State,Torin Dorn,Foul,9,13
+15:38,NC State,None,None,9,13
+15:36,Vanderbilt,Matt Ryan,Missed Three Point Jumper,9,13
+15:36,NC State,Markell Johnson,Defensive Rebound,9,13
+15:20,NC State,C.J. Bryce,Turnover,9,13
+15:05,Vanderbilt,Matt Ryan,Turnover,9,13
+14:45,NC State,C.J. Bryce,Missed Layup,9,13
+14:45,Vanderbilt,Simisola Shittu,Defensive Rebound,9,13
+14:29,Vanderbilt,Matt Ryan,Turnover,9,13
+14:21,NC State,DJ Funderburk,Layup,9,15
+13:51,Vanderbilt,Joe Toye,Missed Layup,9,15
+13:51,Vanderbilt,Matthew Moyer,Offensive Rebound,9,15
+13:47,Vanderbilt,Matthew Moyer,Missed Layup,9,15
+13:47,NC State,C.J. Bryce,Defensive Rebound,9,15
+13:42,NC State,DJ Funderburk,Dunk,9,17
+13:36,Vanderbilt,None,None,9,17
+13:12,Vanderbilt,Yanni Wetzell,Missed Three Point Jumper,9,17
+13:12,NC State,Blake Harris,Defensive Rebound,9,17
+13:07,NC State,Blake Harris,Turnover,9,17
+13:06,Vanderbilt,Aaron Nesmith,Steal,9,17
+13:05,Vanderbilt,Aaron Nesmith,Turnover,9,17
+13:04,NC State,Blake Harris,Steal,9,17
+12:58,NC State,C.J. Bryce,Missed Layup,9,17
+12:58,Vanderbilt,Joe Toye,Block,9,17
+12:56,Vanderbilt,Yanni Wetzell,Defensive Rebound,9,17
+12:53,Vanderbilt,Maxwell Evans,Jumper,11,17
+12:37,NC State,C.J. Bryce,Jumper,11,19
+12:29,NC State,DJ Funderburk,Foul,11,19
+12:13,Vanderbilt,Simisola Shittu,Foul,11,19
+12:13,Vanderbilt,Simisola Shittu,Turnover,11,19
+12:01,NC State,Jericole Hellems,Missed Jumper,11,19
+12:01,NC State,NC State,Offensive Rebound,11,19
+11:59,Vanderbilt,Aaron Nesmith,Foul,11,19
+11:46,NC State,Jericole Hellems,Layup,11,21
+11:25,Vanderbilt,Simisola Shittu,Layup,13,21
+11:25,NC State,Wyatt Walker,Foul,13,21
+11:25,Vanderbilt,Simisola Shittu,Missed Free Throw,13,21
+11:25,Vanderbilt,Matthew Moyer,Offensive Rebound,13,21
+11:20,Vanderbilt,Maxwell Evans,Missed Jumper,13,21
+11:20,Vanderbilt,Aaron Nesmith,Offensive Rebound,13,21
+11:16,Vanderbilt,Aaron Nesmith,Layup,15,21
+10:55,Vanderbilt,Saben Lee,Foul,15,21
+10:55,NC State,Devon Daniels,Missed Free Throw,15,21
+10:55,NC State,None,Team Rebound,15,21
+10:55,NC State,Devon Daniels,Free Throw,15,22
+10:42,NC State,Devon Daniels,Foul,15,22
+10:42,Vanderbilt,Saben Lee,Missed Free Throw,15,22
+10:42,Vanderbilt,None,Team Rebound,15,22
+10:42,Vanderbilt,Saben Lee,Missed Free Throw,15,22
+10:42,NC State,Torin Dorn,Defensive Rebound,15,22
+10:30,NC State,Markell Johnson,Missed Dunk,15,22
+10:30,Vanderbilt,Matthew Moyer,Block,15,22
+10:29,NC State,NC State,Offensive Rebound,15,22
+10:20,NC State,Torin Dorn,Jumper,15,24
+9:55,Vanderbilt,Maxwell Evans,Layup,17,24
+9:34,NC State,Torin Dorn,Jumper,17,26
+9:14,Vanderbilt,Saben Lee,Missed Layup,17,26
+9:14,Vanderbilt,Aaron Nesmith,Offensive Rebound,17,26
+9:09,Vanderbilt,Aaron Nesmith,Layup,19,26
+8:56,NC State,Markell Johnson,Layup,19,28
+8:36,Vanderbilt,Matthew Moyer,Missed Three Point Jumper,19,28
+8:36,NC State,Torin Dorn,Defensive Rebound,19,28
+8:25,Vanderbilt,Joe Toye,Foul,19,28
+8:25,NC State,Torin Dorn,Free Throw,19,29
+8:25,NC State,Torin Dorn,Free Throw,19,30
+8:15,Vanderbilt,Simisola Shittu,Dunk,21,30
+7:55,NC State,Torin Dorn,Missed Jumper,21,30
+7:55,Vanderbilt,Saben Lee,Defensive Rebound,21,30
+7:48,NC State,Markell Johnson,Foul,21,30
+7:48,NC State,None,None,21,30
+7:48,Vanderbilt,Saben Lee,Free Throw,22,30
+7:48,Vanderbilt,Saben Lee,Free Throw,23,30
+7:35,NC State,DJ Funderburk,Dunk,23,32
+7:21,Vanderbilt,Matt Ryan,Missed Three Point Jumper,23,32
+7:21,NC State,Braxton Beverly,Defensive Rebound,23,32
+7:05,NC State,C.J. Bryce,Layup,23,34
+6:50,NC State,Devon Daniels,Foul,23,34
+6:50,Vanderbilt,Saben Lee,Free Throw,24,34
+6:50,Vanderbilt,Saben Lee,Free Throw,25,34
+6:39,NC State,Jericole Hellems,Jumper,25,36
+6:18,Vanderbilt,Clevon Brown,Dunk,27,36
+6:04,NC State,Jericole Hellems,Missed Three Point Jumper,27,36
+6:04,Vanderbilt,Clevon Brown,Defensive Rebound,27,36
+5:56,Vanderbilt,Aaron Nesmith,Three Point Jumper,30,36
+5:43,NC State,DJ Funderburk,Missed Layup,30,36
+5:43,NC State,Jericole Hellems,Offensive Rebound,30,36
+5:38,NC State,Jericole Hellems,Missed Layup,30,36
+5:38,Vanderbilt,Aaron Nesmith,Defensive Rebound,30,36
+5:35,NC State,DJ Funderburk,Foul,30,36
+5:35,Vanderbilt,Aaron Nesmith,Free Throw,31,36
+5:34,Vanderbilt,Aaron Nesmith,Free Throw,32,36
+5:27,Vanderbilt,Aaron Nesmith,Foul,32,36
+5:20,NC State,Torin Dorn,Missed Free Throw,32,36
+5:20,Vanderbilt,Yanni Wetzell,Defensive Rebound,32,36
+5:04,Vanderbilt,Maxwell Evans,Turnover,32,36
+5:03,NC State,DJ Funderburk,Steal,32,36
+5:01,NC State,Jericole Hellems,Jumper,32,38
+4:40,Vanderbilt,Maxwell Evans,Turnover,32,38
+4:28,NC State,Torin Dorn,Missed Jumper,32,38
+4:28,NC State,NC State,Offensive Rebound,32,38
+4:26,Vanderbilt,Yanni Wetzell,Foul,32,38
+4:26,NC State,DJ Funderburk,Free Throw,32,39
+4:26,NC State,DJ Funderburk,Missed Free Throw,32,39
+4:26,Vanderbilt,Yanni Wetzell,Defensive Rebound,32,39
+4:02,Vanderbilt,Yanni Wetzell,Missed Three Point Jumper,32,39
+4:02,NC State,C.J. Bryce,Defensive Rebound,32,39
+3:46,NC State,Jericole Hellems,Missed Jumper,32,39
+3:46,Vanderbilt,Joe Toye,Defensive Rebound,32,39
+3:32,Vanderbilt,Yanni Wetzell,Missed Three Point Jumper,32,39
+3:32,Vanderbilt,Maxwell Evans,Offensive Rebound,32,39
+3:26,Vanderbilt,Joe Toye,Missed Three Point Jumper,32,39
+3:26,NC State,NC State,Defensive Rebound,32,39
+3:22,Vanderbilt,Yanni Wetzell,Foul,32,39
+3:22,NC State,None,None,32,39
+3:22,NC State,DJ Funderburk,Free Throw,32,40
+3:22,NC State,DJ Funderburk,Free Throw,32,41
+3:07,Vanderbilt,Simisola Shittu,Missed Jumper,32,41
+3:07,NC State,C.J. Bryce,Defensive Rebound,32,41
+2:58,NC State,C.J. Bryce,Missed Three Point Jumper,32,41
+2:58,NC State,DJ Funderburk,Offensive Rebound,32,41
+2:56,NC State,DJ Funderburk,Missed Layup,32,41
+2:56,NC State,DJ Funderburk,Offensive Rebound,32,41
+2:54,Vanderbilt,Maxwell Evans,Foul,32,41
+2:53,NC State,DJ Funderburk,Free Throw,32,42
+2:53,NC State,DJ Funderburk,Free Throw,32,43
+2:35,Vanderbilt,Matt Ryan,Missed Jumper,32,43
+2:35,Vanderbilt,Matt Ryan,Offensive Rebound,32,43
+2:33,Vanderbilt,Matt Ryan,Layup,34,43
+2:03,NC State,Jericole Hellems,Missed Layup,34,43
+2:03,Vanderbilt,Simisola Shittu,Block,34,43
+1:59,Vanderbilt,Simisola Shittu,Defensive Rebound,34,43
+1:53,Vanderbilt,Matt Ryan,Turnover,34,43
+1:37,NC State,C.J. Bryce,Missed Jumper,34,43
+1:37,Vanderbilt,Matt Ryan,Defensive Rebound,34,43
+1:24,Vanderbilt,Saben Lee,Turnover,34,43
+1:01,NC State,Torin Dorn,Missed Three Point Jumper,34,43
+1:01,NC State,DJ Funderburk,Offensive Rebound,34,43
+0:57,NC State,DJ Funderburk,Missed Layup,34,43
+0:57,Vanderbilt,Simisola Shittu,Block,34,43
+0:55,NC State,NC State,Offensive Rebound,34,43
+0:53,NC State,None,None,34,43
+0:29,NC State,DJ Funderburk,Layup,34,45
+0:29,Vanderbilt,Matthew Moyer,Foul,34,45
+0:29,NC State,DJ Funderburk,Free Throw,34,46
+0:05,Vanderbilt,Saben Lee,Foul,34,46
+0:05,Vanderbilt,Saben Lee,Turnover,34,46
+0:02,NC State,Torin Dorn,Missed Jumper,34,46
+0:02,NC State,None,Team Rebound,34,46
+0:00,NC State,None,None,34,46
+19:48,NC State,Wyatt Walker,Turnover,34,46
+19:38,Vanderbilt,Simisola Shittu,Missed Three Point Jumper,34,46
+19:38,NC State,Braxton Beverly,Defensive Rebound,34,46
+19:29,NC State,Braxton Beverly,Turnover,34,46
+19:19,NC State,Devon Daniels,Foul,34,46
+19:19,Vanderbilt,Simisola Shittu,Free Throw,35,46
+19:19,Vanderbilt,Simisola Shittu,Free Throw,36,46
+18:55,NC State,Markell Johnson,Turnover,36,46
+18:45,Vanderbilt,Aaron Nesmith,Missed Three Point Jumper,36,46
+18:45,NC State,Devon Daniels,Defensive Rebound,36,46
+18:35,NC State,Torin Dorn,Turnover,36,46
+18:35,NC State,Jericole Hellems,Foul,36,46
+18:19,Vanderbilt,Joe Toye,Missed Three Point Jumper,36,46
+18:19,NC State,Braxton Beverly,Defensive Rebound,36,46
+18:13,NC State,Braxton Beverly,Missed Layup,36,46
+18:13,Vanderbilt,Aaron Nesmith,Block,36,46
+18:10,NC State,Markell Johnson,Offensive Rebound,36,46
+18:08,NC State,Markell Johnson,Turnover,36,46
+18:02,Vanderbilt,Simisola Shittu,Layup,38,46
+18:02,NC State,Wyatt Walker,Foul,38,46
+18:02,Vanderbilt,Simisola Shittu,Missed Free Throw,38,46
+18:02,Vanderbilt,Simisola Shittu,Offensive Rebound,38,46
+17:52,Vanderbilt,Saben Lee,Missed Layup,38,46
+17:52,NC State,C.J. Bryce,Defensive Rebound,38,46
+17:44,NC State,Braxton Beverly,Missed Layup,38,46
+17:44,Vanderbilt,Vanderbilt,Defensive Rebound,38,46
+17:36,Vanderbilt,Simisola Shittu,Layup,40,46
+17:15,NC State,Jericole Hellems,Three Point Jumper,40,49
+17:11,NC State,None,None,40,49
+17:11,NC State,None,None,40,49
+17:07,Vanderbilt,Simisola Shittu,Turnover,40,49
+16:55,NC State,DJ Funderburk,Missed Layup,40,49
+16:55,Vanderbilt,Aaron Nesmith,Defensive Rebound,40,49
+16:38,Vanderbilt,Joe Toye,Missed Layup,40,49
+16:38,NC State,NC State,Defensive Rebound,40,49
+16:23,NC State,Jericole Hellems,Missed Jumper,40,49
+16:23,Vanderbilt,Vanderbilt,Defensive Rebound,40,49
+16:12,NC State,Markell Johnson,Foul,40,49
+16:10,Vanderbilt,Aaron Nesmith,Missed Three Point Jumper,40,49
+16:10,NC State,DJ Funderburk,Defensive Rebound,40,49
+15:54,NC State,Braxton Beverly,Missed Three Point Jumper,40,49
+15:54,Vanderbilt,Matthew Moyer,Defensive Rebound,40,49
+15:45,NC State,DJ Funderburk,Foul,40,49
+15:45,NC State,None,None,40,49
+15:31,NC State,Blake Harris,Foul,40,49
+15:25,Vanderbilt,Saben Lee,Layup,42,49
+15:11,NC State,Blake Harris,Jumper,42,51
+15:05,NC State,Blake Harris,Foul,42,51
+15:05,Vanderbilt,Saben Lee,Free Throw,43,51
+15:05,Vanderbilt,Saben Lee,Free Throw,44,51
+14:59,Vanderbilt,Saben Lee,Foul,44,51
+14:47,NC State,DJ Funderburk,Missed Three Point Jumper,44,51
+14:47,Vanderbilt,Maxwell Evans,Defensive Rebound,44,51
+14:38,NC State,Jericole Hellems,Foul,44,51
+14:37,Vanderbilt,Yanni Wetzell,Missed Free Throw,44,51
+14:37,Vanderbilt,None,Team Rebound,44,51
+14:37,Vanderbilt,Yanni Wetzell,Missed Free Throw,44,51
+14:37,NC State,Torin Dorn,Defensive Rebound,44,51
+14:16,NC State,C.J. Bryce,Turnover,44,51
+14:14,Vanderbilt,Matt Ryan,Steal,44,51
+14:04,Vanderbilt,Matt Ryan,Missed Three Point Jumper,44,51
+14:04,Vanderbilt,Matt Ryan,Offensive Rebound,44,51
+13:57,Vanderbilt,Matt Ryan,Layup,46,51
+13:47,Vanderbilt,Simisola Shittu,Foul,46,51
+13:47,NC State,Blake Harris,Free Throw,46,52
+13:47,NC State,Blake Harris,Missed Free Throw,46,52
+13:47,Vanderbilt,Simisola Shittu,Defensive Rebound,46,52
+13:33,NC State,Torin Dorn,Foul,46,52
+13:33,Vanderbilt,Saben Lee,Free Throw,47,52
+13:33,Vanderbilt,Saben Lee,Missed Free Throw,47,52
+13:33,NC State,Wyatt Walker,Defensive Rebound,47,52
+13:04,NC State,Braxton Beverly,Missed Layup,47,52
+13:04,Vanderbilt,Clevon Brown,Block,47,52
+13:04,NC State,NC State,Offensive Rebound,47,52
+13:02,NC State,C.J. Bryce,Missed Jumper,47,52
+13:02,Vanderbilt,Simisola Shittu,Defensive Rebound,47,52
+12:52,NC State,C.J. Bryce,Foul,47,52
+12:52,Vanderbilt,Matt Ryan,Free Throw,48,52
+12:52,Vanderbilt,Matt Ryan,Free Throw,49,52
+12:35,Vanderbilt,Clevon Brown,Foul,49,52
+12:27,NC State,C.J. Bryce,Three Point Jumper,49,55
+12:05,Vanderbilt,Simisola Shittu,Layup,51,55
+11:53,NC State,Devon Daniels,Three Point Jumper,51,58
+11:32,Vanderbilt,Simisola Shittu,Turnover,51,58
+11:31,NC State,Devon Daniels,Steal,51,58
+11:29,NC State,Devon Daniels,Turnover,51,58
+11:28,Vanderbilt,Clevon Brown,Steal,51,58
+11:27,Vanderbilt,Maxwell Evans,Three Point Jumper,54,58
+11:17,Vanderbilt,Maxwell Evans,Foul,54,58
+11:16,NC State,None,None,54,58
+11:04,NC State,C.J. Bryce,Missed Jumper,54,58
+11:04,Vanderbilt,Matt Ryan,Defensive Rebound,54,58
+10:54,Vanderbilt,Maxwell Evans,Missed Three Point Jumper,54,58
+10:54,NC State,NC State,Defensive Rebound,54,58
+10:31,NC State,C.J. Bryce,Missed Three Point Jumper,54,58
+10:31,NC State,Markell Johnson,Offensive Rebound,54,58
+10:24,NC State,Markell Johnson,Missed Layup,54,58
+10:24,Vanderbilt,Simisola Shittu,Block,54,58
+10:22,NC State,Markell Johnson,Offensive Rebound,54,58
+10:09,NC State,Devon Daniels,Missed Three Point Jumper,54,58
+10:09,NC State,C.J. Bryce,Offensive Rebound,54,58
+9:42,NC State,Devon Daniels,Missed Layup,54,58
+9:42,Vanderbilt,Aaron Nesmith,Offensive Rebound,54,58
+9:39,Vanderbilt,None,None,54,58
+9:23,Vanderbilt,Clevon Brown,Layup,56,58
+8:50,NC State,C.J. Bryce,Jumper,56,60
+8:31,Vanderbilt,Saben Lee,Jumper,58,60
+8:15,NC State,Wyatt Walker,Foul,58,60
+8:15,NC State,Wyatt Walker,Turnover,58,60
+8:06,Vanderbilt,Matt Ryan,Missed Jumper,58,60
+8:06,NC State,Torin Dorn,Defensive Rebound,58,60
+7:59,NC State,Braxton Beverly,Missed Three Point Jumper,58,60
+7:59,Vanderbilt,Matt Ryan,Defensive Rebound,58,60
+7:28,Vanderbilt,None,None,58,60
+7:28,NC State,None,None,58,60
+7:21,Vanderbilt,Simisola Shittu,Missed Three Point Jumper,58,60
+7:21,NC State,DJ Funderburk,Defensive Rebound,58,60
+7:06,NC State,DJ Funderburk,Turnover,58,60
+6:50,NC State,DJ Funderburk,Foul,58,60
+6:50,Vanderbilt,Clevon Brown,Missed Free Throw,58,60
+6:50,Vanderbilt,None,Team Rebound,58,60
+6:50,Vanderbilt,Clevon Brown,Missed Free Throw,58,60
+6:50,NC State,C.J. Bryce,Defensive Rebound,58,60
+6:40,Vanderbilt,Aaron Nesmith,Foul,58,60
+6:40,NC State,Markell Johnson,Free Throw,58,61
+6:40,NC State,Markell Johnson,Free Throw,58,62
+6:29,Vanderbilt,Saben Lee,Missed Jumper,58,62
+6:29,NC State,Wyatt Walker,Defensive Rebound,58,62
+6:18,NC State,Markell Johnson,Jumper,58,64
+5:59,Vanderbilt,None,None,58,64
+5:43,Vanderbilt,Aaron Nesmith,Missed Three Point Jumper,58,64
+5:43,NC State,Wyatt Walker,Defensive Rebound,58,64
+5:26,NC State,Markell Johnson,Three Point Jumper,58,67
+5:07,Vanderbilt,Matt Ryan,Three Point Jumper,61,67
+4:54,NC State,Markell Johnson,Layup,61,69
+4:54,Vanderbilt,Simisola Shittu,Foul,61,69
+4:54,NC State,Markell Johnson,Free Throw,61,70
+4:29,Vanderbilt,Matt Ryan,Missed Three Point Jumper,61,70
+4:29,NC State,Markell Johnson,Defensive Rebound,61,70
+4:02,NC State,Markell Johnson,Layup,61,72
+3:44,NC State,Braxton Beverly,Foul,61,72
+3:44,NC State,None,None,61,72
+3:44,Vanderbilt,Saben Lee,Missed Free Throw,61,72
+3:44,Vanderbilt,None,Team Rebound,61,72
+3:44,Vanderbilt,Saben Lee,Free Throw,62,72
+3:28,Vanderbilt,Aaron Nesmith,Foul,62,72
+3:28,NC State,Braxton Beverly,Free Throw,62,73
+3:28,NC State,Braxton Beverly,Missed Free Throw,62,73
+3:28,Vanderbilt,Vanderbilt,Defensive Rebound,62,73
+3:18,Vanderbilt,Saben Lee,Missed Layup,62,73
+3:18,NC State,Jericole Hellems,Defensive Rebound,62,73
+3:04,Vanderbilt,Clevon Brown,Foul,62,73
+3:04,NC State,Markell Johnson,Free Throw,62,74
+3:04,NC State,Markell Johnson,Missed Free Throw,62,74
+3:04,NC State,Wyatt Walker,Offensive Rebound,62,74
+2:41,NC State,Markell Johnson,Layup,62,76
+2:20,Vanderbilt,Joe Toye,Missed Three Point Jumper,62,76
+2:20,NC State,Markell Johnson,Defensive Rebound,62,76
+1:57,NC State,Markell Johnson,Missed Three Point Jumper,62,76
+1:57,NC State,Torin Dorn,Offensive Rebound,62,76
+1:49,NC State,Wyatt Walker,Layup,62,78
+1:32,Vanderbilt,Simisola Shittu,Missed Jumper,62,78
+1:32,Vanderbilt,Simisola Shittu,Offensive Rebound,62,78
+1:30,Vanderbilt,Simisola Shittu,Missed Jumper,62,78
+1:30,NC State,Torin Dorn,Defensive Rebound,62,78
+1:05,NC State,Torin Dorn,Turnover,62,78
+1:03,Vanderbilt,Simisola Shittu,Steal,62,78
+1:01,Vanderbilt,Maxwell Evans,Layup,64,78
+0:50,Vanderbilt,Maxwell Evans,Foul,64,78
+0:50,NC State,Markell Johnson,Missed Free Throw,64,78
+0:50,Vanderbilt,Matthew Moyer,Defensive Rebound,64,78
+0:41,NC State,Wyatt Walker,Foul,64,78
+0:41,Vanderbilt,Maxwell Evans,Missed Free Throw,64,78
+0:41,Vanderbilt,None,Team Rebound,64,78
+0:41,Vanderbilt,Maxwell Evans,Free Throw,65,78
+0:18,NC State,Torin Dorn,Jumper,65,80
+0:08,Vanderbilt,Yanni Wetzell,Missed Jumper,65,80
+0:08,Vanderbilt,Maxwell Evans,Offensive Rebound,65,80
+0:03,Vanderbilt,Maxwell Evans,Missed Three Point Jumper,65,80
+0:03,NC State,Jericole Hellems,Defensive Rebound,65,80
+0:00,NC State,None,None,65,80

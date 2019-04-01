@@ -1,0 +1,323 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Wisconsin,None,None,0,0
+19:40,Wisconsin,D'Mitrik Trice,Jumper,0,2
+19:15,Grambling,Devante Jackson,Missed Layup,0,2
+19:15,Grambling,Zavier Peart,Offensive Rebound,0,2
+19:02,Grambling,Dallas Polk-Hilliard,Missed Three Point Jumper,0,2
+19:02,Wisconsin,Wisconsin,Defensive Rebound,0,2
+18:42,Wisconsin,Ethan Happ,Layup,0,4
+18:24,Grambling,Prince Moss,Turnover,0,4
+18:24,Wisconsin,Brad Davison,Steal,0,4
+18:14,Wisconsin,Khalil Iverson,Layup,0,6
+17:52,Grambling,Dallas Polk-Hilliard,Missed Jumper,0,6
+17:52,Wisconsin,Ethan Happ,Defensive Rebound,0,6
+17:39,Wisconsin,Khalil Iverson,Turnover,0,6
+17:21,Grambling,Dallas Polk-Hilliard,Layup,2,6
+16:54,Grambling,Zavier Peart,Foul,2,6
+16:54,Wisconsin,Ethan Happ,Free Throw,2,7
+16:54,Wisconsin,Ethan Happ,Free Throw,2,8
+16:36,Grambling,Zavier Peart,Three Point Jumper,5,8
+16:22,Wisconsin,Charles Thomas IV,Missed Jumper,5,8
+16:22,Grambling,Dallas Polk-Hilliard,Defensive Rebound,5,8
+16:10,Grambling,Zavier Peart,Turnover,5,8
+16:10,Wisconsin,Brad Davison,Steal,5,8
+15:47,Grambling,Dallas Polk-Hilliard,Foul,5,8
+15:47,Wisconsin,None,None,5,8
+15:47,Wisconsin,Kobe King,Free Throw,5,9
+15:47,Wisconsin,Kobe King,Free Throw,5,10
+15:20,Grambling,Ivy Smith Jr.,Missed Jumper,5,10
+15:20,Wisconsin,Charles Thomas IV,Block,5,10
+15:20,Grambling,Grambling,Offensive Rebound,5,10
+15:20,Grambling,Lasani Johnson,Three Point Jumper,8,10
+15:04,Grambling,Devante Jackson,Foul,8,10
+15:00,Wisconsin,Kobe King,Three Point Jumper,8,13
+14:45,Grambling,Devante Jackson,Turnover,8,13
+14:22,Wisconsin,Ethan Happ,Missed Jumper,8,13
+14:22,Grambling,Dallas Polk-Hilliard,Defensive Rebound,8,13
+14:07,Grambling,Lasani Johnson,Missed Jumper,8,13
+14:07,Wisconsin,D'Mitrik Trice,Defensive Rebound,8,13
+13:56,Wisconsin,Ethan Happ,Missed Layup,8,13
+13:56,Grambling,Dallas Polk-Hilliard,Defensive Rebound,8,13
+13:49,Grambling,Ivy Smith Jr.,Missed Layup,8,13
+13:49,Grambling,Dallas Polk-Hilliard,Offensive Rebound,8,13
+13:45,Grambling,Devante Jackson,Three Point Jumper,11,13
+13:17,Wisconsin,Kobe King,Three Point Jumper,11,16
+12:59,Grambling,Devante Jackson,Missed Three Point Jumper,11,16
+12:59,Wisconsin,D'Mitrik Trice,Defensive Rebound,11,16
+12:45,Wisconsin,Ethan Happ,Layup,11,18
+12:22,Grambling,Ivy Smith Jr.,Missed Jumper,11,18
+12:22,Wisconsin,Brevin Pritzl,Defensive Rebound,11,18
+12:09,Wisconsin,Ethan Happ,Turnover,11,18
+12:09,Grambling,Lasani Johnson,Steal,11,18
+12:01,Grambling,Dallas Polk-Hilliard,Missed Layup,11,18
+12:01,Wisconsin,Kobe King,Defensive Rebound,11,18
+11:41,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,11,18
+11:41,Grambling,Zavier Peart,Defensive Rebound,11,18
+11:19,Wisconsin,Nate Reuvers,Foul,11,18
+11:19,Wisconsin,None,None,11,18
+11:19,Grambling,Dallas Polk-Hilliard,Free Throw,12,18
+11:19,Grambling,Dallas Polk-Hilliard,Free Throw,13,18
+10:54,Wisconsin,Brad Davison,Missed Jumper,13,18
+10:54,Wisconsin,Nate Reuvers,Offensive Rebound,13,18
+10:54,Wisconsin,None,None,13,20
+10:26,Grambling,Axel Mpoyo,Turnover,13,20
+10:11,Wisconsin,Nate Reuvers,Foul,13,20
+10:11,Wisconsin,Nate Reuvers,Turnover,13,20
+10:00,Wisconsin,Tai Strickland,Foul,13,20
+9:59,Grambling,Lasani Johnson,Jumper,15,20
+9:52,Grambling,Lasani Johnson,Foul,15,20
+9:38,Wisconsin,Ethan Happ,Missed Layup,15,20
+9:38,Grambling,Axel Mpoyo,Defensive Rebound,15,20
+9:25,Wisconsin,Tai Strickland,Foul,15,20
+9:16,Grambling,Nigel Ribeiro,Foul,15,20
+9:16,Grambling,Nigel Ribeiro,Turnover,15,20
+9:16,Grambling,None,None,15,20
+8:55,Wisconsin,Ethan Happ,Turnover,15,20
+8:55,Grambling,Travon Bunch,Steal,15,20
+8:30,Grambling,Nigel Ribeiro,Jumper,17,20
+8:17,Grambling,Axel Mpoyo,Foul,17,20
+8:09,Grambling,Travon Bunch,Foul,17,20
+8:09,Wisconsin,Ethan Happ,Missed Free Throw,17,20
+8:09,Wisconsin,None,Team Rebound,17,20
+8:09,Wisconsin,Ethan Happ,Free Throw,17,21
+7:52,Grambling,Nigel Ribeiro,Layup,19,21
+7:25,Grambling,Zavier Peart,Foul,19,21
+7:25,Wisconsin,None,None,19,21
+7:25,Wisconsin,Ethan Happ,Free Throw,19,22
+7:25,Wisconsin,Ethan Happ,Missed Free Throw,19,22
+7:25,Grambling,Lasani Johnson,Defensive Rebound,19,22
+7:13,Grambling,Lasani Johnson,Three Point Jumper,22,22
+6:56,Wisconsin,Aleem Ford,Missed Three Point Jumper,22,22
+6:56,Grambling,Dallas Polk-Hilliard,Defensive Rebound,22,22
+6:30,Grambling,Nigel Ribeiro,Missed Three Point Jumper,22,22
+6:30,Wisconsin,Kobe King,Defensive Rebound,22,22
+6:21,Wisconsin,D'Mitrik Trice,Jumper,22,24
+5:58,Grambling,Nigel Ribeiro,Missed Layup,22,24
+5:58,Wisconsin,Aleem Ford,Block,22,24
+5:58,Wisconsin,Ethan Happ,Defensive Rebound,22,24
+5:49,Grambling,Nigel Ribeiro,Foul,22,24
+5:49,Wisconsin,D'Mitrik Trice,Missed Free Throw,22,24
+5:49,Wisconsin,None,Team Rebound,22,24
+5:49,Wisconsin,D'Mitrik Trice,Free Throw,22,25
+5:32,Grambling,Ivy Smith Jr.,Missed Three Point Jumper,22,25
+5:32,Wisconsin,Ethan Happ,Defensive Rebound,22,25
+5:22,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,22,25
+5:22,Grambling,Ivy Smith Jr.,Defensive Rebound,22,25
+5:04,Grambling,Lasani Johnson,Missed Three Point Jumper,22,25
+5:04,Wisconsin,Ethan Happ,Defensive Rebound,22,25
+4:55,Wisconsin,Brad Davison,Layup,22,27
+4:25,Grambling,Devante Jackson,Turnover,22,27
+4:15,Wisconsin,Ethan Happ,Layup,22,29
+4:15,Grambling,Travon Bunch,Foul,22,29
+4:15,Wisconsin,Ethan Happ,Free Throw,22,30
+3:57,Grambling,Dallas Polk-Hilliard,Layup,24,30
+3:38,Wisconsin,Aleem Ford,Three Point Jumper,24,33
+3:25,Grambling,Ivy Smith Jr.,Turnover,24,33
+3:25,Wisconsin,Aleem Ford,Steal,24,33
+3:18,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,24,33
+3:18,Grambling,Ivy Smith Jr.,Block,24,33
+3:18,Wisconsin,Wisconsin,Offensive Rebound,24,33
+3:15,Wisconsin,None,None,24,33
+3:07,Wisconsin,Charles Thomas IV,Foul,24,33
+3:07,Wisconsin,Charles Thomas IV,Turnover,24,33
+2:56,Grambling,Dallas Polk-Hilliard,Turnover,24,33
+2:45,Wisconsin,Ethan Happ,Layup,24,35
+2:24,Grambling,Prince Moss,Missed Jumper,24,35
+2:24,Wisconsin,Ethan Happ,Defensive Rebound,24,35
+1:56,Wisconsin,None,None,24,35
+1:55,Wisconsin,D'Mitrik Trice,Jumper,24,37
+1:51,Grambling,None,None,24,37
+1:31,Wisconsin,Ethan Happ,Foul,24,37
+1:31,Grambling,Devante Jackson,Missed Free Throw,24,37
+1:31,Grambling,None,Team Rebound,24,37
+1:31,Grambling,Devante Jackson,Free Throw,25,37
+1:17,Wisconsin,Ethan Happ,Dunk,25,39
+0:47,Grambling,Dallas Polk-Hilliard,Layup,27,39
+0:35,Wisconsin,D'Mitrik Trice,Missed Jumper,27,39
+0:35,Grambling,Dallas Polk-Hilliard,Defensive Rebound,27,39
+0:01,Grambling,Grambling ,Turnover,27,39
+0:01,Wisconsin,None,None,27,39
+0:01,Wisconsin,Ethan Happ,Missed Layup,27,39
+0:01,Grambling,None,Team Rebound,27,39
+0:00,Wisconsin,None,None,27,39
+20:00,Grambling,None,None,27,39
+19:40,Grambling,Devante Jackson,Missed Layup,27,39
+19:40,Wisconsin,Nate Reuvers,Defensive Rebound,27,39
+19:24,Wisconsin,Ethan Happ,Jumper,27,41
+19:24,Grambling,Zavier Peart,Foul,27,41
+19:24,Wisconsin,Ethan Happ,Missed Free Throw,27,41
+19:24,Grambling,Prince Moss,Defensive Rebound,27,41
+19:03,Wisconsin,Khalil Iverson,Foul,27,41
+19:03,Grambling,Dallas Polk-Hilliard,Missed Free Throw,27,41
+19:03,Grambling,None,Team Rebound,27,41
+19:03,Grambling,Dallas Polk-Hilliard,Missed Free Throw,27,41
+19:03,Wisconsin,Nate Reuvers,Defensive Rebound,27,41
+18:45,Wisconsin,Khalil Iverson,Turnover,27,41
+18:45,Grambling,Devante Jackson,Steal,27,41
+18:20,Grambling,Ivy Smith Jr.,Missed Layup,27,41
+18:20,Wisconsin,Ethan Happ,Defensive Rebound,27,41
+18:14,Wisconsin,Brad Davison,Three Point Jumper,27,44
+18:01,Grambling,Prince Moss,Turnover,27,44
+18:01,Wisconsin,Brad Davison,Steal,27,44
+17:55,Wisconsin,D'Mitrik Trice,Jumper,27,46
+17:49,Grambling,None,None,27,46
+17:30,Grambling,Lasani Johnson,Missed Jumper,27,46
+17:30,Wisconsin,Ethan Happ,Defensive Rebound,27,46
+17:25,Wisconsin,Ethan Happ,Turnover,27,46
+17:25,Grambling,Ivy Smith Jr.,Steal,27,46
+17:14,Wisconsin,D'Mitrik Trice,Foul,27,46
+17:06,Grambling,Dallas Polk-Hilliard,Missed Jumper,27,46
+17:06,Wisconsin,Brad Davison,Defensive Rebound,27,46
+16:55,Wisconsin,Nate Reuvers,Missed Three Point Jumper,27,46
+16:48,Wisconsin,Aleem Ford,Offensive Rebound,27,46
+16:48,Wisconsin,Aleem Ford,Turnover,27,46
+16:36,Grambling,Dallas Polk-Hilliard,Missed Jumper,27,46
+16:36,Wisconsin,Nate Reuvers,Defensive Rebound,27,46
+16:15,Grambling,Dallas Polk-Hilliard,Foul,27,46
+16:15,Wisconsin,Kobe King,Missed Free Throw,27,46
+16:15,Wisconsin,None,Team Rebound,27,46
+16:15,Wisconsin,Kobe King,Free Throw,27,47
+15:48,Grambling,Ivy Smith Jr.,Missed Jumper,27,47
+15:48,Grambling,Axel Mpoyo,Offensive Rebound,27,47
+15:44,Grambling,Axel Mpoyo,Layup,29,47
+15:28,Wisconsin,Nate Reuvers,Jumper,29,49
+15:13,Grambling,Ivy Smith Jr.,Foul,29,49
+15:13,Grambling,Ivy Smith Jr.,Turnover,29,49
+15:13,Wisconsin,None,None,29,49
+14:52,Grambling,Lasani Johnson,Foul,29,49
+14:52,Wisconsin,Brad Davison,Free Throw,29,50
+14:52,Wisconsin,Brad Davison,Free Throw,29,51
+14:33,Grambling,Axel Mpoyo,Foul,29,51
+14:33,Grambling,Axel Mpoyo,Turnover,29,51
+14:20,Wisconsin,Brevin Pritzl,Three Point Jumper,29,54
+13:53,Wisconsin,Aleem Ford,Foul,29,54
+13:50,Grambling,Lasani Johnson,Turnover,29,54
+13:50,Wisconsin,Brevin Pritzl,Steal,29,54
+13:35,Grambling,Nigel Ribeiro,Foul,29,54
+13:33,Wisconsin,Aleem Ford,Three Point Jumper,29,57
+13:21,Grambling,None,None,29,57
+13:12,Grambling,Lasani Johnson,Missed Three Point Jumper,29,57
+13:12,Wisconsin,Aleem Ford,Defensive Rebound,29,57
+13:02,Wisconsin,Charles Thomas IV,Foul,29,57
+13:02,Wisconsin,Charles Thomas IV,Turnover,29,57
+12:41,Grambling,Zavier Peart,Layup,31,57
+12:25,Wisconsin,D'Mitrik Trice,Jumper,31,59
+12:07,Grambling,Devante Jackson,Turnover,31,59
+12:07,Wisconsin,Aleem Ford,Steal,31,59
+11:56,Wisconsin,D'Mitrik Trice,Three Point Jumper,31,62
+11:35,Grambling,Nigel Ribeiro,Missed Layup,31,62
+11:35,Wisconsin,Charles Thomas IV,Defensive Rebound,31,62
+11:19,Wisconsin,Brevin Pritzl,Missed Three Point Jumper,31,62
+11:19,Grambling,Dallas Polk-Hilliard,Defensive Rebound,31,62
+11:04,Wisconsin,Charles Thomas IV,Foul,31,62
+11:04,Wisconsin,None,None,31,62
+11:02,Grambling,Lasani Johnson,Jumper,33,62
+10:42,Grambling,Anthony Gaston,Foul,33,62
+10:42,Wisconsin,Kobe King,Free Throw,33,63
+10:42,Wisconsin,Kobe King,Missed Free Throw,33,63
+10:42,Grambling,Dallas Polk-Hilliard,Defensive Rebound,33,63
+10:24,Grambling,Nigel Ribeiro,Missed Jumper,33,63
+10:24,Wisconsin,Brevin Pritzl,Defensive Rebound,33,63
+10:07,Wisconsin,Brevin Pritzl,Layup,33,65
+9:50,Grambling,Dallas Polk-Hilliard,Three Point Jumper,36,65
+9:32,Grambling,Travon Bunch,Foul,36,65
+9:32,Wisconsin,Ethan Happ,Free Throw,36,66
+9:32,Wisconsin,Ethan Happ,Free Throw,36,67
+9:20,Grambling,Dallas Polk-Hilliard,Three Point Jumper,39,67
+9:02,Wisconsin,Ethan Happ,Missed Layup,39,67
+9:02,Grambling,Nigel Ribeiro,Defensive Rebound,39,67
+8:56,Grambling,Dallas Polk-Hilliard,Missed Three Point Jumper,39,67
+8:56,Wisconsin,Ethan Happ,Defensive Rebound,39,67
+8:32,Wisconsin,Ethan Happ,Missed Three Point Jumper,39,67
+8:32,Wisconsin,Charles Thomas IV,Offensive Rebound,39,67
+8:23,Wisconsin,None,None,39,67
+8:23,Grambling,Nigel Ribeiro,Defensive Rebound,39,67
+7:56,Grambling,Shaq Athie,Missed Jumper,39,67
+7:56,Wisconsin,Charles Thomas IV,Block,39,67
+7:56,Grambling,Shaq Athie,Offensive Rebound,39,67
+7:56,Grambling,Shaq Athie,Layup,41,67
+7:56,Wisconsin,Brevin Pritzl,Foul,41,67
+7:56,Wisconsin,None,None,41,67
+7:56,Grambling,Shaq Athie,Missed Free Throw,41,67
+7:56,Wisconsin,Wisconsin,Defensive Rebound,41,67
+7:41,Wisconsin,Nate Reuvers,Jumper,41,69
+7:31,Grambling,Prince Moss,Turnover,41,69
+7:31,Wisconsin,Brevin Pritzl,Steal,41,69
+7:17,Wisconsin,Brad Davison,Turnover,41,69
+7:11,Grambling,Dallas Polk-Hilliard,Three Point Jumper,44,69
+6:39,Wisconsin,Nate Reuvers,Missed Jumper,44,69
+6:39,Wisconsin,Brevin Pritzl,Offensive Rebound,44,69
+6:33,Wisconsin,Nate Reuvers,Jumper,44,71
+6:21,Wisconsin,Nate Reuvers,Foul,44,71
+6:21,Grambling,Travon Bunch,Free Throw,45,71
+6:21,Grambling,Travon Bunch,Missed Free Throw,45,71
+6:21,Wisconsin,Aleem Ford,Defensive Rebound,45,71
+6:02,Wisconsin,Tai Strickland,Missed Jumper,45,71
+6:02,Wisconsin,Tai Strickland,Offensive Rebound,45,71
+5:56,Grambling,Nigel Ribeiro,Foul,45,71
+5:56,Wisconsin,Tai Strickland,Free Throw,45,72
+5:56,Wisconsin,Tai Strickland,Free Throw,45,73
+5:49,Grambling,Ivy Smith Jr.,Turnover,45,73
+5:49,Wisconsin,Brevin Pritzl,Steal,45,73
+5:33,Wisconsin,Kobe King,Missed Three Point Jumper,45,73
+5:33,Wisconsin,Wisconsin,Offensive Rebound,45,73
+5:19,Grambling,Travon Bunch,Foul,45,73
+5:19,Wisconsin,Nate Reuvers,Free Throw,45,74
+5:19,Wisconsin,Nate Reuvers,Free Throw,45,75
+5:07,Grambling,Prince Moss,Missed Three Point Jumper,45,75
+5:07,Wisconsin,Tai Strickland,Defensive Rebound,45,75
+4:55,Wisconsin,Charles Thomas IV,Missed Jumper,45,75
+4:55,Grambling,Prince Moss,Defensive Rebound,45,75
+4:52,Wisconsin,Brevin Pritzl,Foul,45,75
+4:52,Grambling,Shaq Athie,Free Throw,46,75
+4:52,Grambling,Shaq Athie,Missed Free Throw,46,75
+4:52,Wisconsin,Charles Thomas IV,Defensive Rebound,46,75
+4:41,Wisconsin,Aleem Ford,Three Point Jumper,46,78
+4:32,Grambling,Dallas Polk-Hilliard,Missed Three Point Jumper,46,78
+4:32,Wisconsin,Brevin Pritzl,Defensive Rebound,46,78
+4:22,Wisconsin,Tai Strickland,Missed Three Point Jumper,46,78
+4:22,Wisconsin,Kobe King,Offensive Rebound,46,78
+4:17,Wisconsin,Aleem Ford,Missed Three Point Jumper,46,78
+4:17,Grambling,Shaq Athie,Defensive Rebound,46,78
+4:08,Grambling,Shaq Athie,Layup,48,78
+3:41,Wisconsin,Charles Thomas IV,Missed Three Point Jumper,48,78
+3:41,Wisconsin,Kobe King,Offensive Rebound,48,78
+3:26,Wisconsin,Kobe King,Missed Layup,48,78
+3:26,Grambling,Travon Bunch,Block,48,78
+3:26,Wisconsin,Wisconsin,Offensive Rebound,48,78
+3:26,Wisconsin,None,None,48,78
+3:18,Wisconsin,Aleem Ford,Missed Three Point Jumper,48,78
+3:18,Grambling,Shaq Athie,Defensive Rebound,48,78
+3:00,Grambling,Devante Jackson,Missed Layup,48,78
+3:00,Wisconsin,Charles Thomas IV,Block,48,78
+3:00,Wisconsin,Tai Strickland,Defensive Rebound,48,78
+2:43,Wisconsin,Charles Thomas IV,Jumper,48,80
+2:26,Grambling,Devante Jackson,Missed Layup,48,80
+2:26,Wisconsin,Wisconsin,Defensive Rebound,48,80
+2:13,Wisconsin,Charles Thomas IV,Missed Three Point Jumper,48,80
+2:13,Wisconsin,Michael Ballard,Offensive Rebound,48,80
+2:06,Grambling,Dallas Polk-Hilliard,Foul,48,80
+2:06,Wisconsin,Michael Ballard,Free Throw,48,81
+2:06,Wisconsin,Michael Ballard,Free Throw,48,82
+1:58,Grambling,Lasani Johnson,Three Point Jumper,51,82
+1:39,Wisconsin,Tai Strickland,Missed Layup,51,82
+1:39,Grambling,Travon Bunch,Defensive Rebound,51,82
+1:33,Grambling,Travon Bunch,Turnover,51,82
+1:22,Wisconsin,Michael Ballard,Missed Jumper,51,82
+1:22,Grambling,Dallas Polk-Hilliard,Defensive Rebound,51,82
+1:13,Wisconsin,Aleem Ford,Foul,51,82
+1:13,Grambling,Shaq Athie,Missed Free Throw,51,82
+1:13,Grambling,None,Team Rebound,51,82
+1:13,Grambling,Shaq Athie,Free Throw,52,82
+0:57,Wisconsin,Tai Strickland,Jumper,52,84
+0:41,Grambling,Lasani Johnson,Missed Jumper,52,84
+0:41,Grambling,Lasani Johnson,Offensive Rebound,52,84
+0:41,Wisconsin,Walt McGrory,Foul,52,84
+0:41,Grambling,Lasani Johnson,Free Throw,53,84
+0:41,Grambling,Lasani Johnson,Missed Free Throw,53,84
+0:41,Wisconsin,Charles Thomas IV,Defensive Rebound,53,84
+0:13,Wisconsin,Tai Strickland,Missed Jumper,53,84
+0:13,Grambling,Dallas Polk-Hilliard,Defensive Rebound,53,84
+0:01,Grambling,Shaq Athie,Missed Layup,53,84
+0:01,Wisconsin,Aleem Ford,Defensive Rebound,53,84
+0:00,Wisconsin,None,None,53,84

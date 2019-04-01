@@ -1,0 +1,311 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Ohio State,None,None,0,0
+19:50,Ohio State,Kaleb Wesson,Missed Jumper,0,0
+19:50,Michigan State,Aaron Henry,Defensive Rebound,0,0
+19:26,Michigan State,Kenny Goins,Missed Three Point Jumper,0,0
+19:26,Ohio State,Kaleb Wesson,Defensive Rebound,0,0
+19:12,Ohio State,Kaleb Wesson,Missed Jumper,0,0
+19:12,Michigan State,Kenny Goins,Defensive Rebound,0,0
+18:57,Michigan State,Nick Ward,Jumper,0,2
+18:30,Ohio State,C.J. Jackson,Missed Layup,0,2
+18:30,Michigan State,Cassius Winston,Block,0,2
+18:30,Michigan State,Cassius Winston,Defensive Rebound,0,2
+18:19,Michigan State,Nick Ward,Missed Jumper,0,2
+18:19,Ohio State,Andre Wesson,Defensive Rebound,0,2
+18:00,Michigan State,Cassius Winston,Foul,0,2
+17:52,Ohio State,Kaleb Wesson,Layup,2,2
+17:45,Michigan State,Cassius Winston,Missed Jumper,2,2
+17:45,Ohio State,Musa Jallow,Defensive Rebound,2,2
+17:26,Ohio State,Musa Jallow,Missed Jumper,2,2
+17:26,Ohio State,Musa Jallow,Offensive Rebound,2,2
+17:21,Ohio State,Luther Muhammad,Missed Jumper,2,2
+17:21,Ohio State,Ohio State,Offensive Rebound,2,2
+17:05,Ohio State,Andre Wesson,Jumper,4,2
+16:54,Ohio State,Kaleb Wesson,Foul,4,2
+16:37,Michigan State,Nick Ward,Missed Layup,4,2
+16:37,Ohio State,Musa Jallow,Defensive Rebound,4,2
+16:28,Michigan State,Kenny Goins,Foul,4,2
+16:12,Ohio State,Kyle Young,Missed Jumper,4,2
+16:12,Michigan State,Nick Ward,Defensive Rebound,4,2
+16:12,Michigan State,None,None,4,2
+15:50,Michigan State,Matt McQuaid,Missed Jumper,4,2
+15:50,Ohio State,Musa Jallow,Defensive Rebound,4,2
+15:39,Ohio State,Luther Muhammad,Missed Layup,4,2
+15:39,Michigan State,Xavier Tillman,Block,4,2
+15:39,Ohio State,Ohio State,Offensive Rebound,4,2
+15:39,Michigan State,None,None,4,2
+15:27,Ohio State,C.J. Jackson,Three Point Jumper,7,2
+14:57,Michigan State,Matt McQuaid,Missed Jumper,7,2
+14:57,Ohio State,Duane Washington Jr.,Defensive Rebound,7,2
+14:32,Ohio State,Kaleb Wesson,Missed Jumper,7,2
+14:32,Michigan State,Xavier Tillman,Defensive Rebound,7,2
+14:25,Michigan State,Nick Ward,Layup,7,4
+14:25,Ohio State,Duane Washington Jr.,Foul,7,4
+14:25,Michigan State,Nick Ward,Free Throw,7,5
+14:03,Ohio State,Kaleb Wesson,Layup,9,5
+14:03,Michigan State,Xavier Tillman,Foul,9,5
+14:03,Ohio State,Kaleb Wesson,Missed Free Throw,9,5
+14:03,Michigan State,Nick Ward,Defensive Rebound,9,5
+13:50,Michigan State,Xavier Tillman,Missed Three Point Jumper,9,5
+13:50,Michigan State,Matt McQuaid,Offensive Rebound,9,5
+13:38,Michigan State,Matt McQuaid,Missed Jumper,9,5
+13:38,Ohio State,C.J. Jackson,Defensive Rebound,9,5
+13:31,Ohio State,Duane Washington Jr.,Three Point Jumper,12,5
+13:08,Michigan State,Nick Ward,Missed Jumper,12,5
+13:08,Ohio State,C.J. Jackson,Defensive Rebound,12,5
+12:41,Ohio State,Kaleb Wesson,Layup,14,5
+12:21,Michigan State,Xavier Tillman,Jumper,14,7
+11:53,Ohio State,C.J. Jackson,Missed Jumper,14,7
+11:53,Michigan State,Nick Ward,Defensive Rebound,14,7
+11:45,Michigan State,Matt McQuaid,Three Point Jumper,14,10
+11:16,Ohio State,Keyshawn Woods,Jumper,16,10
+10:49,Michigan State,Kyle Ahrens,Missed Jumper,16,10
+10:49,Ohio State,Kaleb Wesson,Defensive Rebound,16,10
+10:27,Ohio State,Duane Washington Jr.,Missed Three Point Jumper,16,10
+10:27,Michigan State,Xavier Tillman,Defensive Rebound,16,10
+10:16,Michigan State,Cassius Winston,Jumper,16,12
+9:54,Ohio State,C.J. Jackson,Turnover,16,12
+9:54,Michigan State,Cassius Winston,Steal,16,12
+9:54,Michigan State,None,None,16,12
+9:37,Michigan State,Xavier Tillman,Turnover,16,12
+9:28,Ohio State,Kyle Young,Dunk,18,12
+9:05,Michigan State,Aaron Henry,Missed Jumper,18,12
+9:05,Ohio State,Duane Washington Jr.,Defensive Rebound,18,12
+8:54,Ohio State,Keyshawn Woods,Missed Three Point Jumper,18,12
+8:54,Michigan State,Kenny Goins,Defensive Rebound,18,12
+8:31,Michigan State,Kyle Ahrens,Three Point Jumper,18,15
+8:05,Ohio State,Andre Wesson,Missed Jumper,18,15
+8:05,Michigan State,Kenny Goins,Defensive Rebound,18,15
+7:57,Michigan State,Kenny Goins,Missed Three Point Jumper,18,15
+7:57,Michigan State,Xavier Tillman,Offensive Rebound,18,15
+7:49,Michigan State,Kyle Ahrens,Missed Three Point Jumper,18,15
+7:49,Ohio State,Keyshawn Woods,Defensive Rebound,18,15
+7:37,Ohio State,Andre Wesson,Missed Layup,18,15
+7:37,Michigan State,Kenny Goins,Defensive Rebound,18,15
+7:36,Ohio State,Kyle Young,Foul,18,15
+7:36,Michigan State,None,None,18,15
+7:18,Michigan State,Kenny Goins,Missed Three Point Jumper,18,15
+7:18,Ohio State,Keyshawn Woods,Defensive Rebound,18,15
+6:57,Ohio State,Andre Wesson,Missed Layup,18,15
+6:57,Michigan State,Kenny Goins,Block,18,15
+6:57,Ohio State,Ohio State,Offensive Rebound,18,15
+6:50,Ohio State,Kaleb Wesson,Missed Layup,18,15
+6:50,Michigan State,Nick Ward,Block,18,15
+6:50,Michigan State,Matt McQuaid,Defensive Rebound,18,15
+6:42,Michigan State,Aaron Henry,Turnover,18,15
+6:42,Ohio State,Andre Wesson,Steal,18,15
+6:32,Ohio State,Andre Wesson,Turnover,18,15
+6:11,Michigan State,Nick Ward,Dunk,18,17
+6:11,Ohio State,Justin Ahrens,Foul,18,17
+6:11,Michigan State,Nick Ward,Missed Free Throw,18,17
+6:11,Ohio State,Justin Ahrens,Defensive Rebound,18,17
+5:46,Ohio State,Kaleb Wesson,Missed Three Point Jumper,18,17
+5:46,Michigan State,Cassius Winston,Defensive Rebound,18,17
+5:37,Michigan State,Matt McQuaid,Three Point Jumper,18,20
+5:34,Ohio State,None,None,18,20
+5:10,Ohio State,Luther Muhammad,Missed Jumper,18,20
+5:10,Ohio State,Kaleb Wesson,Offensive Rebound,18,20
+5:10,Ohio State,None,None,20,20
+5:01,Michigan State,Matt McQuaid,Missed Three Point Jumper,20,20
+5:01,Ohio State,Kaleb Wesson,Defensive Rebound,20,20
+4:56,Ohio State,Andre Wesson,Layup,22,20
+4:34,Michigan State,Cassius Winston,Missed Three Point Jumper,22,20
+4:34,Michigan State,Nick Ward,Offensive Rebound,22,20
+4:34,Michigan State,None,None,22,20
+4:34,Ohio State,Kaleb Wesson,Block,22,20
+4:34,Ohio State,Kaleb Wesson,Defensive Rebound,22,20
+4:00,Ohio State,Luther Muhammad,Jumper,24,20
+3:47,Michigan State,Cassius Winston,Three Point Jumper,24,23
+3:19,Ohio State,Kaleb Wesson,Turnover,24,23
+3:19,Michigan State,Gabe Brown,Steal,24,23
+3:14,Ohio State,Andre Wesson,Foul,24,23
+3:14,Michigan State,None,None,24,23
+3:14,Michigan State,Nick Ward,Free Throw,24,24
+3:14,Michigan State,Nick Ward,Free Throw,24,25
+2:54,Ohio State,Musa Jallow,Three Point Jumper,27,25
+2:33,Michigan State,Cassius Winston,Missed Jumper,27,25
+2:33,Ohio State,C.J. Jackson,Defensive Rebound,27,25
+2:28,Ohio State,Duane Washington Jr.,Missed Layup,27,25
+2:28,Michigan State,Kyle Ahrens,Block,27,25
+2:28,Ohio State,Ohio State,Offensive Rebound,27,25
+2:16,Ohio State,Andre Wesson,Missed Jumper,27,25
+2:16,Michigan State,Xavier Tillman,Defensive Rebound,27,25
+2:06,Ohio State,Duane Washington Jr.,Foul,27,25
+1:52,Michigan State,Cassius Winston,Missed Layup,27,25
+1:52,Ohio State,Musa Jallow,Defensive Rebound,27,25
+1:44,Ohio State,C.J. Jackson,Missed Layup,27,25
+1:44,Ohio State,Musa Jallow,Offensive Rebound,27,25
+1:36,Ohio State,C.J. Jackson,Layup,29,25
+1:31,Michigan State,Kenny Goins,Turnover,29,25
+1:31,Ohio State,Andre Wesson,Steal,29,25
+1:26,Michigan State,Xavier Tillman,Foul,29,25
+1:14,Ohio State,Kyle Young,Layup,31,25
+0:45,Michigan State,Nick Ward,Turnover,31,25
+0:45,Ohio State,Musa Jallow,Steal,31,25
+0:40,Ohio State,None,None,31,25
+0:24,Ohio State,Duane Washington Jr.,Missed Jumper,31,25
+0:24,Ohio State,Kyle Young,Offensive Rebound,31,25
+0:07,Michigan State,Nick Ward,Foul,31,25
+0:02,Ohio State,Musa Jallow,Foul,31,25
+0:02,Ohio State,Musa Jallow,Turnover,31,25
+0:01,Michigan State,Cassius Winston,Missed Three Point Jumper,31,25
+0:01,Michigan State,None,Team Rebound,31,25
+0:00,Michigan State,None,None,31,25
+20:00,Michigan State,None,None,31,25
+19:49,Michigan State,Kenny Goins,Three Point Jumper,31,28
+19:30,Ohio State,C.J. Jackson,Missed Jumper,31,28
+19:30,Michigan State,Cassius Winston,Defensive Rebound,31,28
+19:22,Michigan State,Cassius Winston,Turnover,31,28
+19:22,Ohio State,C.J. Jackson,Steal,31,28
+19:15,Ohio State,Andre Wesson,Missed Layup,31,28
+19:15,Michigan State,Kenny Goins,Defensive Rebound,31,28
+19:03,Michigan State,Cassius Winston,Missed Three Point Jumper,31,28
+19:03,Ohio State,Kaleb Wesson,Defensive Rebound,31,28
+19:01,Michigan State,Xavier Tillman,Foul,31,28
+18:42,Ohio State,Luther Muhammad,Missed Three Point Jumper,31,28
+18:42,Michigan State,Nick Ward,Defensive Rebound,31,28
+18:34,Michigan State,Kenny Goins,Dunk,31,30
+18:08,Ohio State,Luther Muhammad,Missed Three Point Jumper,31,30
+18:08,Michigan State,Nick Ward,Defensive Rebound,31,30
+17:55,Ohio State,Musa Jallow,Foul,31,30
+17:50,Ohio State,None,None,31,30
+17:50,Michigan State,Nick Ward,Turnover,31,30
+17:50,Ohio State,Andre Wesson,Steal,31,30
+17:40,Ohio State,Luther Muhammad,Missed Jumper,31,30
+17:40,Ohio State,Ohio State,Offensive Rebound,31,30
+17:25,Ohio State,Musa Jallow,Turnover,31,30
+17:15,Michigan State,Matt McQuaid,Missed Jumper,31,30
+17:15,Ohio State,Musa Jallow,Defensive Rebound,31,30
+16:49,Ohio State,Andre Wesson,Missed Three Point Jumper,31,30
+16:49,Michigan State,Matt McQuaid,Defensive Rebound,31,30
+16:21,Michigan State,Matt McQuaid,Missed Jumper,31,30
+16:21,Ohio State,Andre Wesson,Defensive Rebound,31,30
+16:13,Michigan State,Kyle Ahrens,Foul,31,30
+16:08,Michigan State,Cassius Winston,Foul,31,30
+16:08,Ohio State,Duane Washington Jr.,Free Throw,32,30
+16:08,Ohio State,Duane Washington Jr.,Missed Free Throw,32,30
+16:08,Ohio State,Andre Wesson,Offensive Rebound,32,30
+15:59,Ohio State,Andre Wesson,Turnover,32,30
+15:59,Michigan State,Kyle Ahrens,Steal,32,30
+15:34,Michigan State,Cassius Winston,Missed Layup,32,30
+15:34,Ohio State,C.J. Jackson,Defensive Rebound,32,30
+15:28,Ohio State,Musa Jallow,Foul,32,30
+15:28,Ohio State,Musa Jallow,Turnover,32,30
+15:28,Michigan State,None,None,32,30
+15:00,Michigan State,Kenny Goins,Turnover,32,30
+15:00,Ohio State,Keyshawn Woods,Steal,32,30
+14:53,Ohio State,C.J. Jackson,Missed Layup,32,30
+14:53,Michigan State,Cassius Winston,Block,32,30
+14:53,Michigan State,Kyle Ahrens,Defensive Rebound,32,30
+14:45,Michigan State,Cassius Winston,Jumper,32,32
+14:31,Ohio State,Kyle Young,Dunk,34,32
+14:10,Michigan State,Cassius Winston,Missed Three Point Jumper,34,32
+14:10,Ohio State,Andre Wesson,Defensive Rebound,34,32
+13:46,Ohio State,Keyshawn Woods,Jumper,36,32
+13:33,Michigan State,Kyle Ahrens,Missed Three Point Jumper,36,32
+13:33,Michigan State,Matt McQuaid,Offensive Rebound,36,32
+13:17,Michigan State,Matt McQuaid,Jumper,36,34
+12:49,Michigan State,Aaron Henry,Foul,36,34
+12:33,Ohio State,Luther Muhammad,Foul,36,34
+12:33,Ohio State,Luther Muhammad,Turnover,36,34
+12:20,Michigan State,Xavier Tillman,Missed Layup,36,34
+12:20,Ohio State,Kyle Young,Block,36,34
+12:20,Michigan State,Xavier Tillman,Offensive Rebound,36,34
+12:09,Michigan State,Xavier Tillman,Layup,36,36
+12:04,Ohio State,Kaleb Wesson,Layup,38,36
+11:59,Michigan State,Matt McQuaid,Three Point Jumper,38,39
+11:38,Michigan State,Xavier Tillman,Foul,38,39
+11:38,Michigan State,None,None,38,39
+11:29,Michigan State,Thomas Kithier,Foul,38,39
+11:21,Ohio State,Kaleb Wesson,Missed Jumper,38,39
+11:21,Michigan State,Kenny Goins,Block,38,39
+11:21,Michigan State,Thomas Kithier,Defensive Rebound,38,39
+11:10,Michigan State,Kenny Goins,Missed Three Point Jumper,38,39
+11:10,Michigan State,Aaron Henry,Offensive Rebound,38,39
+11:05,Michigan State,Aaron Henry,Turnover,38,39
+10:49,Ohio State,Kaleb Wesson,Turnover,38,39
+10:49,Michigan State,Kenny Goins,Steal,38,39
+10:41,Michigan State,Matt McQuaid,Missed Three Point Jumper,38,39
+10:41,Ohio State,Kaleb Wesson,Defensive Rebound,38,39
+10:33,Ohio State,Keyshawn Woods,Missed Layup,38,39
+10:33,Michigan State,Kenny Goins,Defensive Rebound,38,39
+10:07,Michigan State,None,None,38,39
+10:03,Michigan State,Cassius Winston,Foul,38,39
+10:03,Michigan State,Cassius Winston,Turnover,38,39
+9:47,Ohio State,C.J. Jackson,Missed Three Point Jumper,38,39
+9:47,Ohio State,Kaleb Wesson,Offensive Rebound,38,39
+9:40,Michigan State,Thomas Kithier,Foul,38,39
+9:40,Ohio State,Kaleb Wesson,Free Throw,39,39
+9:40,Ohio State,Kaleb Wesson,Missed Free Throw,39,39
+9:40,Michigan State,Thomas Kithier,Defensive Rebound,39,39
+9:17,Michigan State,Cassius Winston,Turnover,39,39
+9:17,Ohio State,C.J. Jackson,Steal,39,39
+9:13,Ohio State,Luther Muhammad,Missed Layup,39,39
+9:13,Michigan State,Kenny Goins,Defensive Rebound,39,39
+9:03,Michigan State,Cassius Winston,Missed Jumper,39,39
+9:03,Ohio State,Andre Wesson,Defensive Rebound,39,39
+8:28,Ohio State,Andre Wesson,Missed Jumper,39,39
+8:28,Michigan State,Kenny Goins,Defensive Rebound,39,39
+8:18,Ohio State,Andre Wesson,Foul,39,39
+8:12,Michigan State,Kenny Goins,Three Point Jumper,39,42
+7:40,Ohio State,C.J. Jackson,Three Point Jumper,42,42
+7:28,Michigan State,Kyle Ahrens,Three Point Jumper,42,45
+7:03,Ohio State,Luther Muhammad,Turnover,42,45
+7:03,Michigan State,Thomas Kithier,Steal,42,45
+7:03,Ohio State,Keyshawn Woods,Foul,42,45
+7:03,Michigan State,None,None,42,45
+6:39,Michigan State,Kenny Goins,Jumper,42,47
+6:18,Ohio State,Kaleb Wesson,Turnover,42,47
+6:04,Michigan State,Matt McQuaid,Three Point Jumper,42,50
+5:26,Ohio State,Luther Muhammad,Missed Jumper,42,50
+5:26,Michigan State,Matt McQuaid,Defensive Rebound,42,50
+5:24,Ohio State,Luther Muhammad,Foul,42,50
+5:04,Michigan State,Cassius Winston,Missed Layup,42,50
+5:04,Ohio State,Kaleb Wesson,Defensive Rebound,42,50
+4:52,Ohio State,Keyshawn Woods,Foul,42,50
+4:52,Ohio State,Keyshawn Woods,Turnover,42,50
+4:36,Michigan State,Thomas Kithier,Layup,42,52
+4:16,Michigan State,Thomas Kithier,Foul,42,52
+4:16,Ohio State,Kaleb Wesson,Free Throw,43,52
+4:16,Ohio State,Kaleb Wesson,Missed Free Throw,43,52
+4:16,Ohio State,Andre Wesson,Offensive Rebound,43,52
+4:02,Ohio State,Duane Washington Jr.,Missed Three Point Jumper,43,52
+4:02,Michigan State,Thomas Kithier,Defensive Rebound,43,52
+3:47,Ohio State,Keyshawn Woods,Foul,43,52
+3:47,Michigan State,None,None,43,52
+3:47,Michigan State,Cassius Winston,Free Throw,43,53
+3:47,Michigan State,Cassius Winston,Free Throw,43,54
+3:35,Ohio State,Duane Washington Jr.,Turnover,43,54
+3:35,Michigan State,Xavier Tillman,Steal,43,54
+3:10,Michigan State,Kyle Ahrens,Missed Three Point Jumper,43,54
+3:10,Ohio State,Andre Wesson,Defensive Rebound,43,54
+3:00,Ohio State,Duane Washington Jr.,Missed Three Point Jumper,43,54
+3:00,Michigan State,Kenny Goins,Defensive Rebound,43,54
+2:40,Michigan State,Cassius Winston,Missed Three Point Jumper,43,54
+2:40,Ohio State,Andre Wesson,Defensive Rebound,43,54
+2:36,Ohio State,Andre Wesson,Turnover,43,54
+2:36,Michigan State,Xavier Tillman,Steal,43,54
+2:08,Ohio State,Duane Washington Jr.,Foul,43,54
+2:08,Michigan State,Cassius Winston,Free Throw,43,55
+2:08,Michigan State,Cassius Winston,Free Throw,43,56
+1:49,Ohio State,Keyshawn Woods,Turnover,43,56
+1:27,Michigan State,Cassius Winston,Missed Three Point Jumper,43,56
+1:27,Michigan State,Xavier Tillman,Offensive Rebound,43,56
+1:22,Ohio State,Jaedon LeDee,Foul,43,56
+1:22,Michigan State,Xavier Tillman,Missed Free Throw,43,56
+1:22,Michigan State,None,Team Rebound,43,56
+1:22,Michigan State,Xavier Tillman,Free Throw,43,57
+1:15,Ohio State,Andre Wesson,Missed Three Point Jumper,43,57
+1:15,Michigan State,Kenny Goins,Block,43,57
+1:15,Michigan State,Kenny Goins,Defensive Rebound,43,57
+0:57,Ohio State,Duane Washington Jr.,Foul,43,57
+0:57,Michigan State,Cassius Winston,Free Throw,43,58
+0:57,Michigan State,Cassius Winston,Free Throw,43,59
+0:44,Michigan State,Foster Loyer,Foul,43,59
+0:44,Ohio State,Jaedon LeDee,Missed Free Throw,43,59
+0:44,Ohio State,None,Team Rebound,43,59
+0:44,Ohio State,Jaedon LeDee,Free Throw,44,59
+0:16,Michigan State,Jack Hoiberg,Three Point Jumper,44,62
+0:09,Ohio State,Duane Washington Jr.,Missed Three Point Jumper,44,62
+0:09,Michigan State,Conner George,Defensive Rebound,44,62
+0:00,Michigan State,None,None,44,62

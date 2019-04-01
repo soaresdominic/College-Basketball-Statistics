@@ -1,0 +1,330 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:48,Duke,Zion Williamson,Layup,0,2
+19:30,Georgia Tech,Jose Alvarado,Turnover,0,2
+19:30,Duke,Cam Reddish,Steal,0,2
+19:27,Duke,Cam Reddish,Turnover,0,2
+19:27,Georgia Tech,Michael Devoe,Steal,0,2
+19:17,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,0,2
+19:17,Duke,Tre Jones,Defensive Rebound,0,2
+19:01,Georgia Tech,James Banks III,Foul,0,2
+18:58,Duke,Zion Williamson,Turnover,0,2
+18:38,Georgia Tech,Abdoulaye Gueye,Missed Layup,0,2
+18:38,Duke,Marques Bolden,Block,0,2
+18:38,Georgia Tech,Georgia Tech,Offensive Rebound,0,2
+18:28,Georgia Tech,Georgia Tech ,Turnover,0,2
+18:14,Duke,RJ Barrett,Three Point Jumper,0,5
+17:57,Georgia Tech,Abdoulaye Gueye,Jumper,2,5
+17:44,Georgia Tech,Jose Alvarado,Foul,2,5
+17:33,Duke,RJ Barrett,Turnover,2,5
+17:33,Georgia Tech,Curtis Haywood II,Steal,2,5
+17:23,Georgia Tech,Abdoulaye Gueye,Missed Layup,2,5
+17:23,Georgia Tech,Abdoulaye Gueye,Offensive Rebound,2,5
+17:23,Georgia Tech,None,None,4,5
+17:08,Duke,Marques Bolden,Dunk,4,7
+16:38,Georgia Tech,Michael Devoe,Missed Layup,4,7
+16:38,Duke,Zion Williamson,Defensive Rebound,4,7
+16:35,Georgia Tech,Abdoulaye Gueye,Foul,4,7
+16:24,Duke,RJ Barrett,Missed Three Point Jumper,4,7
+16:24,Duke,Antonio Vrankovic,Offensive Rebound,4,7
+16:12,Georgia Tech,James Banks III,Foul,4,7
+16:12,Duke,Antonio Vrankovic,Free Throw,4,8
+16:12,Duke,Antonio Vrankovic,Missed Free Throw,4,8
+16:12,Duke,Zion Williamson,Offensive Rebound,4,8
+16:08,Duke,RJ Barrett,Turnover,4,8
+16:08,Georgia Tech,Sylvester Ogbonda,Steal,4,8
+15:59,Georgia Tech,Abdoulaye Gueye,Missed Layup,4,8
+15:59,Duke,Antonio Vrankovic,Block,4,8
+15:59,Duke,Tre Jones,Defensive Rebound,4,8
+15:22,Duke,RJ Barrett,Missed Three Point Jumper,4,8
+15:22,Georgia Tech,Curtis Haywood II,Defensive Rebound,4,8
+15:17,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,4,8
+15:17,Duke,Cam Reddish,Defensive Rebound,4,8
+15:13,Duke,Cam Reddish,Missed Layup,4,8
+15:13,Georgia Tech,Curtis Haywood II,Defensive Rebound,4,8
+14:58,Georgia Tech,Sylvester Ogbonda,Missed Jumper,4,8
+14:58,Duke,Tre Jones,Defensive Rebound,4,8
+14:47,Duke,RJ Barrett,Missed Three Point Jumper,4,8
+14:47,Georgia Tech,Jose Alvarado,Defensive Rebound,4,8
+14:35,Duke,Antonio Vrankovic,Foul,4,8
+14:35,Duke,None,None,4,8
+14:19,Georgia Tech,Michael Devoe,Missed Jumper,4,8
+14:19,Duke,Zion Williamson,Block,4,8
+14:19,Duke,RJ Barrett,Defensive Rebound,4,8
+13:59,Duke,Marques Bolden,Missed Jumper,4,8
+13:59,Georgia Tech,Jose Alvarado,Defensive Rebound,4,8
+13:50,Georgia Tech,Jose Alvarado,Missed Jumper,4,8
+13:50,Duke,Jack White,Defensive Rebound,4,8
+13:35,Duke,RJ Barrett,Turnover,4,8
+13:35,Georgia Tech,Evan Cole,Steal,4,8
+13:17,Duke,Jack White,Foul,4,8
+13:13,Georgia Tech,Evan Cole,Missed Three Point Jumper,4,8
+13:13,Duke,Jack White,Defensive Rebound,4,8
+12:47,Duke,Jack White,Missed Three Point Jumper,4,8
+12:47,Georgia Tech,Michael Devoe,Defensive Rebound,4,8
+12:40,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,4,8
+12:40,Duke,Zion Williamson,Defensive Rebound,4,8
+12:29,Duke,Tre Jones,Missed Jumper,4,8
+12:29,Georgia Tech,James Banks III,Block,4,8
+12:29,Georgia Tech,Jose Alvarado,Defensive Rebound,4,8
+12:22,Georgia Tech,James Banks III,Dunk,6,8
+12:22,Duke,Zion Williamson,Foul,6,8
+12:22,Georgia Tech,James Banks III,Missed Free Throw,6,8
+12:22,Duke,Marques Bolden,Defensive Rebound,6,8
+11:57,Duke,Cam Reddish,Missed Three Point Jumper,6,8
+11:57,Georgia Tech,Jose Alvarado,Defensive Rebound,6,8
+11:44,Georgia Tech,Jose Alvarado,Layup,8,8
+11:24,Georgia Tech,James Banks III,Foul,8,8
+11:24,Duke,None,None,8,8
+11:24,Duke,Cam Reddish,Free Throw,8,9
+11:24,Duke,Cam Reddish,Free Throw,8,10
+11:13,Georgia Tech,Jose Alvarado,Turnover,8,10
+11:13,Duke,Cam Reddish,Steal,8,10
+11:00,Duke,RJ Barrett,Turnover,8,10
+11:00,Georgia Tech,Jose Alvarado,Steal,8,10
+10:39,Georgia Tech,Michael Devoe,Turnover,8,10
+10:39,Duke,Cam Reddish,Steal,8,10
+10:39,Georgia Tech,Michael Devoe,Foul,8,10
+10:24,Duke,Zion Williamson,Layup,8,12
+9:44,Georgia Tech,Evan Cole,Missed Jumper,8,12
+9:44,Georgia Tech,Abdoulaye Gueye,Offensive Rebound,8,12
+9:44,Georgia Tech,None,None,8,12
+9:44,Georgia Tech,Abdoulaye Gueye,Offensive Rebound,8,12
+9:44,Georgia Tech,None,None,8,12
+9:44,Georgia Tech,Khalid Moore,Offensive Rebound,8,12
+9:44,Georgia Tech,None,None,8,12
+9:44,Georgia Tech,Evan Cole,Offensive Rebound,8,12
+9:44,Georgia Tech,None,None,10,12
+9:24,Duke,Jordan Goldwire,Missed Three Point Jumper,10,12
+9:24,Georgia Tech,Jose Alvarado,Defensive Rebound,10,12
+9:21,Georgia Tech,Michael Devoe,Three Point Jumper,13,12
+8:56,Duke,RJ Barrett,Missed Three Point Jumper,13,12
+8:56,Georgia Tech,Abdoulaye Gueye,Defensive Rebound,13,12
+8:25,Georgia Tech,Michael Devoe,Missed Layup,13,12
+8:25,Duke,RJ Barrett,Defensive Rebound,13,12
+8:20,Georgia Tech,Evan Cole,Foul,13,12
+8:20,Duke,Cam Reddish,Free Throw,13,13
+8:20,Duke,Cam Reddish,Free Throw,13,14
+8:02,Georgia Tech,Abdoulaye Gueye,Missed Jumper,13,14
+8:02,Duke,Zion Williamson,Defensive Rebound,13,14
+7:51,Duke,Zion Williamson,Layup,13,16
+7:29,Duke,None,None,13,16
+7:29,Duke,None,None,13,16
+7:24,Duke,Zion Williamson,Foul,13,16
+7:21,Georgia Tech,Shembari Phillips,Turnover,13,16
+7:21,Duke,Zion Williamson,Steal,13,16
+7:17,Georgia Tech,Moses Wright,Foul,13,16
+7:17,Duke,Zion Williamson,Free Throw,13,17
+7:17,Duke,Zion Williamson,Free Throw,13,18
+6:59,Georgia Tech,Abdoulaye Gueye,Jumper,15,18
+6:48,Duke,RJ Barrett,Missed Layup,15,18
+6:48,Georgia Tech,Jose Alvarado,Defensive Rebound,15,18
+6:41,Georgia Tech,Michael Devoe,Layup,17,18
+6:33,Duke,RJ Barrett,Missed Layup,17,18
+6:33,Duke,RJ Barrett,Offensive Rebound,17,18
+6:33,Duke,None,None,17,20
+6:20,Georgia Tech,Abdoulaye Gueye,Dunk,19,20
+5:59,Duke,Zion Williamson,Dunk,19,22
+5:39,Georgia Tech,Michael Devoe,Turnover,19,22
+5:39,Duke,Zion Williamson,Steal,19,22
+5:33,Duke,Zion Williamson,Missed Layup,19,22
+5:33,Georgia Tech,Moses Wright,Defensive Rebound,19,22
+5:16,Duke,Tre Jones,Foul,19,22
+5:16,Georgia Tech,Jose Alvarado,Missed Free Throw,19,22
+5:16,Georgia Tech,None,Team Rebound,19,22
+5:16,Georgia Tech,Jose Alvarado,Free Throw,20,22
+5:02,Duke,RJ Barrett,Layup,20,24
+4:56,Georgia Tech,None,None,20,24
+4:38,Georgia Tech,Abdoulaye Gueye,Missed Layup,20,24
+4:38,Georgia Tech,Evan Cole,Offensive Rebound,20,24
+4:33,Georgia Tech,Evan Cole,Dunk,22,24
+4:16,Duke,Cam Reddish,Missed Three Point Jumper,22,24
+4:16,Georgia Tech,Abdoulaye Gueye,Defensive Rebound,22,24
+4:14,Duke,RJ Barrett,Foul,22,24
+4:02,Georgia Tech,Abdoulaye Gueye,Foul,22,24
+4:02,Georgia Tech,Abdoulaye Gueye,Turnover,22,24
+3:57,Georgia Tech,Abdoulaye Gueye,Foul,22,24
+3:57,Duke,None,None,22,24
+3:57,Duke,RJ Barrett,Free Throw,22,25
+3:57,Duke,RJ Barrett,Free Throw,22,26
+3:36,Georgia Tech,Evan Cole,Missed Jumper,22,26
+3:36,Duke,Cam Reddish,Defensive Rebound,22,26
+3:20,Duke,Jack White,Missed Three Point Jumper,22,26
+3:20,Georgia Tech,Evan Cole,Block,22,26
+3:20,Georgia Tech,Curtis Haywood II,Defensive Rebound,22,26
+3:00,Georgia Tech,Evan Cole,Turnover,22,26
+3:00,Duke,Antonio Vrankovic,Steal,22,26
+2:39,Duke,Cam Reddish,Turnover,22,26
+2:39,Georgia Tech,Michael Devoe,Steal,22,26
+2:18,Georgia Tech,Michael Devoe,Layup,24,26
+2:02,Georgia Tech,Jose Alvarado,Foul,24,26
+2:02,Duke,RJ Barrett,Missed Free Throw,24,26
+2:02,Duke,None,Team Rebound,24,26
+2:02,Duke,RJ Barrett,Free Throw,24,27
+1:47,Georgia Tech,James Banks III,Missed Dunk,24,27
+1:47,Georgia Tech,Jose Alvarado,Offensive Rebound,24,27
+1:37,Georgia Tech,Curtis Haywood II,Three Point Jumper,27,27
+1:11,Duke,Zion Williamson,Missed Layup,27,27
+1:11,Duke,Javin DeLaurier,Offensive Rebound,27,27
+1:11,Duke,None,None,27,27
+1:11,Georgia Tech,Michael Devoe,Defensive Rebound,27,27
+0:43,Georgia Tech,Evan Cole,Missed Three Point Jumper,27,27
+0:43,Duke,Javin DeLaurier,Defensive Rebound,27,27
+0:37,Duke,None,None,27,27
+0:23,Duke,Cam Reddish,Missed Three Point Jumper,27,27
+0:23,Georgia Tech,Evan Cole,Defensive Rebound,27,27
+0:16,Georgia Tech,Jose Alvarado,Layup,29,27
+0:02,Duke,Tre Jones,Missed Three Point Jumper,29,27
+0:02,Georgia Tech,Sylvester Ogbonda,Defensive Rebound,29,27
+0:00,Duke,None,None,29,27
+20:00,Georgia Tech,None,None,29,27
+19:50,Georgia Tech,Jose Alvarado,Turnover,29,27
+19:50,Duke,RJ Barrett,Steal,29,27
+19:29,Duke,RJ Barrett,Missed Jumper,29,27
+19:29,Georgia Tech,Georgia Tech,Defensive Rebound,29,27
+19:06,Duke,Marques Bolden,Foul,29,27
+18:56,Georgia Tech,Michael Devoe,Layup,31,27
+18:36,Duke,Tre Jones,Turnover,31,27
+18:36,Georgia Tech,Michael Devoe,Steal,31,27
+18:30,Georgia Tech,Abdoulaye Gueye,Dunk,33,27
+18:12,Duke,Tre Jones,Missed Three Point Jumper,33,27
+18:12,Georgia Tech,Curtis Haywood II,Defensive Rebound,33,27
+18:00,Georgia Tech,Evan Cole,Layup,35,27
+18:00,Duke,None,None,35,27
+17:58,Duke,Zion Williamson,Dunk,35,29
+17:27,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,35,29
+17:27,Duke,RJ Barrett,Defensive Rebound,35,29
+17:14,Duke,Jack White,Turnover,35,29
+16:53,Georgia Tech,Curtis Haywood II,Missed Jumper,35,29
+16:53,Duke,Jack White,Block,35,29
+16:53,Duke,RJ Barrett,Defensive Rebound,35,29
+16:43,Duke,Cam Reddish,Missed Three Point Jumper,35,29
+16:43,Georgia Tech,Curtis Haywood II,Defensive Rebound,35,29
+16:39,Duke,Cam Reddish,Foul,35,29
+16:39,Georgia Tech,Evan Cole,Free Throw,36,29
+16:39,Georgia Tech,Evan Cole,Missed Free Throw,36,29
+16:39,Duke,RJ Barrett,Defensive Rebound,36,29
+16:05,Duke,RJ Barrett,Layup,36,31
+15:45,Georgia Tech,Abdoulaye Gueye,Layup,38,31
+15:37,Duke,Cam Reddish,Missed Layup,38,31
+15:37,Georgia Tech,Michael Devoe,Defensive Rebound,38,31
+15:26,Georgia Tech,Michael Devoe,Turnover,38,31
+15:26,Duke,Jack White,Steal,38,31
+15:22,Duke,Cam Reddish,Three Point Jumper,38,34
+15:07,Georgia Tech,Jose Alvarado,Missed Layup,38,34
+15:07,Georgia Tech,Jose Alvarado,Offensive Rebound,38,34
+14:59,Georgia Tech,Jose Alvarado,Turnover,38,34
+14:59,Duke,RJ Barrett,Steal,38,34
+14:56,Duke,Tre Jones,Layup,38,36
+14:54,Georgia Tech,None,None,38,36
+14:43,Georgia Tech,Curtis Haywood II,Missed Layup,38,36
+14:43,Duke,Zion Williamson,Block,38,36
+14:43,Duke,Cam Reddish,Defensive Rebound,38,36
+14:36,Duke,Cam Reddish,Missed Layup,38,36
+14:36,Georgia Tech,Abdoulaye Gueye,Defensive Rebound,38,36
+14:28,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,38,36
+14:28,Duke,Zion Williamson,Defensive Rebound,38,36
+14:11,Duke,Zion Williamson,Dunk,38,38
+14:11,Georgia Tech,James Banks III,Foul,38,38
+14:11,Duke,Zion Williamson,Missed Free Throw,38,38
+14:11,Georgia Tech,James Banks III,Defensive Rebound,38,38
+14:06,Georgia Tech,James Banks III,Turnover,38,38
+13:57,Duke,RJ Barrett,Missed Layup,38,38
+13:57,Georgia Tech,Abdoulaye Gueye,Defensive Rebound,38,38
+13:40,Georgia Tech,Jose Alvarado,Turnover,38,38
+13:27,Duke,RJ Barrett,Jumper,38,40
+12:59,Georgia Tech,Michael Devoe,Turnover,38,40
+12:53,Duke,RJ Barrett,Layup,38,42
+12:37,Georgia Tech,Jose Alvarado,Missed Jumper,38,42
+12:37,Duke,Zion Williamson,Defensive Rebound,38,42
+12:27,Georgia Tech,Abdoulaye Gueye,Foul,38,42
+12:27,Duke,RJ Barrett,Free Throw,38,43
+12:27,Duke,RJ Barrett,Free Throw,38,44
+12:21,Duke,Tre Jones,Foul,38,44
+12:08,Georgia Tech,Michael Devoe,Missed Layup,38,44
+12:08,Duke,Cam Reddish,Block,38,44
+12:08,Georgia Tech,James Banks III,Offensive Rebound,38,44
+12:00,Georgia Tech,James Banks III,Layup,40,44
+11:47,Duke,Cam Reddish,Missed Three Point Jumper,40,44
+11:47,Georgia Tech,Georgia Tech,Defensive Rebound,40,44
+11:47,Duke,None,None,40,44
+11:27,Duke,Alex O'Connell,Foul,40,44
+11:22,Georgia Tech,James Banks III,Missed Jumper,40,44
+11:22,Duke,RJ Barrett,Defensive Rebound,40,44
+11:07,Georgia Tech,Evan Cole,Foul,40,44
+10:53,Duke,Alex O'Connell,Missed Jumper,40,44
+10:53,Duke,RJ Barrett,Offensive Rebound,40,44
+10:53,Duke,None,None,40,46
+10:19,Georgia Tech,Abdoulaye Gueye,Missed Layup,40,46
+10:19,Duke,Cam Reddish,Defensive Rebound,40,46
+10:10,Duke,Zion Williamson,Layup,40,48
+9:41,Georgia Tech,Jose Alvarado,Layup,42,48
+9:18,Duke,Alex O'Connell,Jumper,42,50
+8:56,Georgia Tech,James Banks III,Missed Jumper,42,50
+8:56,Duke,RJ Barrett,Defensive Rebound,42,50
+8:32,Duke,None,None,42,50
+8:27,Duke,Cam Reddish,Missed Three Point Jumper,42,50
+8:27,Georgia Tech,Abdoulaye Gueye,Defensive Rebound,42,50
+8:05,Georgia Tech,Jose Alvarado,Missed Layup,42,50
+8:05,Duke,Zion Williamson,Block,42,50
+8:05,Duke,RJ Barrett,Defensive Rebound,42,50
+7:58,Duke,Zion Williamson,Layup,42,52
+7:39,Duke,Zion Williamson,Foul,42,52
+7:39,Duke,None,None,42,52
+7:26,Georgia Tech,Curtis Haywood II,Layup,44,52
+7:10,Duke,RJ Barrett,Turnover,44,52
+7:10,Georgia Tech,Michael Devoe,Steal,44,52
+6:48,Georgia Tech,James Banks III,Turnover,44,52
+6:43,Duke,Zion Williamson,Missed Jumper,44,52
+6:43,Duke,Alex O'Connell,Offensive Rebound,44,52
+6:43,Duke,None,None,44,54
+6:16,Georgia Tech,Abdoulaye Gueye,Missed Jumper,44,54
+6:16,Duke,Alex O'Connell,Defensive Rebound,44,54
+6:04,Duke,Zion Williamson,Dunk,44,56
+5:56,Georgia Tech,None,None,44,56
+5:30,Georgia Tech,Abdoulaye Gueye,Missed Layup,44,56
+5:30,Duke,Cam Reddish,Defensive Rebound,44,56
+5:11,Duke,Alex O'Connell,Missed Three Point Jumper,44,56
+5:11,Duke,RJ Barrett,Offensive Rebound,44,56
+5:11,Georgia Tech,James Banks III,Foul,44,56
+5:11,Duke,RJ Barrett,Free Throw,44,57
+5:11,Duke,RJ Barrett,Free Throw,44,58
+5:02,Duke,Cam Reddish,Foul,44,58
+4:44,Georgia Tech,Abdoulaye Gueye,Layup,46,58
+4:26,Duke,Tre Jones,Jumper,46,60
+4:07,Georgia Tech,Michael Devoe,Turnover,46,60
+4:07,Duke,Cam Reddish,Steal,46,60
+4:00,Duke,RJ Barrett,Turnover,46,60
+4:00,Georgia Tech,Curtis Haywood II,Steal,46,60
+3:57,Georgia Tech,Curtis Haywood II,Turnover,46,60
+3:57,Duke,Alex O'Connell,Steal,46,60
+3:54,Duke,RJ Barrett,Dunk,46,62
+3:40,Georgia Tech,Evan Cole,Turnover,46,62
+3:40,Duke,Cam Reddish,Steal,46,62
+3:12,Duke,Cam Reddish,Missed Three Point Jumper,46,62
+3:12,Duke,Alex O'Connell,Offensive Rebound,46,62
+3:02,Duke,Zion Williamson,Turnover,46,62
+3:02,Georgia Tech,Curtis Haywood II,Steal,46,62
+2:56,Georgia Tech,Abdoulaye Gueye,Turnover,46,62
+2:56,Duke,Tre Jones,Steal,46,62
+2:45,Duke,None,None,46,62
+2:31,Duke,Alex O'Connell,Missed Three Point Jumper,46,62
+2:31,Duke,Zion Williamson,Offensive Rebound,46,62
+2:28,Georgia Tech,Abdoulaye Gueye,Foul,46,62
+2:28,Duke,Zion Williamson,Free Throw,46,63
+2:28,Duke,Zion Williamson,Free Throw,46,64
+2:11,Georgia Tech,Michael Devoe,Layup,48,64
+2:11,Duke,RJ Barrett,Foul,48,64
+2:11,Georgia Tech,Michael Devoe,Missed Free Throw,48,64
+2:11,Duke,Cam Reddish,Defensive Rebound,48,64
+1:49,Duke,Tre Jones,Missed Layup,48,64
+1:49,Duke,Tre Jones,Offensive Rebound,48,64
+1:49,Duke,None,None,48,66
+1:24,Georgia Tech,Moses Wright,Jumper,50,66
+0:50,Georgia Tech,Jose Alvarado,Foul,50,66
+0:28,Duke,Jordan Goldwire,Missed Three Point Jumper,50,66
+0:28,Georgia Tech,Shembari Phillips,Block,50,66
+0:28,Duke,Jack White,Offensive Rebound,50,66
+0:28,Duke,Duke ,Turnover,50,66
+0:09,Georgia Tech,Kristian Sjolund,Three Point Jumper,53,66
+0:00,Duke,None,None,53,66

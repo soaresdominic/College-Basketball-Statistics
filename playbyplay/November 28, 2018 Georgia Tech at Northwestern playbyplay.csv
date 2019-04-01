@@ -1,0 +1,349 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:46,Georgia Tech,Abdoulaye Gueye,Foul,0,0
+19:35,Northwestern,Northwestern ,Turnover,0,0
+19:09,Georgia Tech,Abdoulaye Gueye,Turnover,0,0
+19:09,Northwestern,Miller Kopp,Steal,0,0
+18:43,Northwestern,Ryan Taylor,Jumper,0,2
+18:22,Georgia Tech,Curtis Haywood II,Missed Layup,0,2
+18:22,Northwestern,Vic Law,Block,0,2
+18:14,Georgia Tech,Abdoulaye Gueye,Offensive Rebound,0,2
+18:14,Georgia Tech,Abdoulaye Gueye,Layup,2,2
+18:04,Georgia Tech,Moses Wright,Foul,2,2
+18:00,Northwestern,Miller Kopp,Three Point Jumper,2,5
+17:45,Georgia Tech,Moses Wright,Missed Jumper,2,5
+17:41,Northwestern,Miller Kopp,Defensive Rebound,2,5
+17:35,Northwestern,Vic Law,Missed Layup,2,5
+17:33,Northwestern,Dererk Pardon,Offensive Rebound,2,5
+17:33,Northwestern,Dererk Pardon,Layup,2,7
+17:33,Georgia Tech,Shembari Phillips,Foul,2,7
+17:33,Northwestern,Dererk Pardon,Free Throw,2,8
+17:18,Georgia Tech,Curtis Haywood II,Three Point Jumper,5,8
+17:01,Northwestern,Ryan Taylor,Turnover,5,8
+16:34,Georgia Tech,Jose Alvarado,Missed Jumper,5,8
+16:30,Northwestern,Vic Law,Defensive Rebound,5,8
+16:25,Northwestern,Miller Kopp,Missed Three Point Jumper,5,8
+16:22,Northwestern,Dererk Pardon,Offensive Rebound,5,8
+16:03,Northwestern,Vic Law,Missed Layup,5,8
+16:03,Georgia Tech,Jose Alvarado,Block,5,8
+15:58,Georgia Tech,Moses Wright,Defensive Rebound,5,8
+15:43,Georgia Tech,Curtis Haywood II,Turnover,5,8
+15:43,Northwestern,Miller Kopp,Steal,5,8
+15:43,Northwestern,None,None,5,8
+15:21,Northwestern,Ryan Taylor,Missed Jumper,5,8
+15:20,Georgia Tech,Georgia Tech,Defensive Rebound,5,8
+15:20,Northwestern,Dererk Pardon,Foul,5,8
+15:06,Northwestern,Miller Kopp,Foul,5,8
+15:06,Georgia Tech,Abdoulaye Gueye,Missed Free Throw,5,8
+15:06,Georgia Tech,Georgia Tech,Offensive Rebound,5,8
+15:06,Georgia Tech,Abdoulaye Gueye,Missed Free Throw,5,8
+15:06,Northwestern,Vic Law,Defensive Rebound,5,8
+14:36,Northwestern,A.J. Turner,Layup,5,10
+14:07,Georgia Tech,Brandon Alston,Missed Jumper,5,10
+14:04,Northwestern,Vic Law,Defensive Rebound,5,10
+13:51,Northwestern,Vic Law,Jumper,5,12
+13:51,Georgia Tech,Curtis Haywood II,Foul,5,12
+13:51,Northwestern,Vic Law,Free Throw,5,13
+13:38,Georgia Tech,Brandon Alston,Missed Layup,5,13
+13:34,Northwestern,Pete Nance,Defensive Rebound,5,13
+13:08,Northwestern,A.J. Turner,Missed Jumper,5,13
+13:06,Georgia Tech,James Banks III,Defensive Rebound,5,13
+12:58,Georgia Tech,Brandon Alston,Foul,5,13
+12:58,Georgia Tech,Brandon Alston,Turnover,5,13
+12:42,Northwestern,Barret Benson,Layup,5,15
+12:24,Georgia Tech,Moses Wright,Missed Dunk,5,15
+12:21,Northwestern,Barret Benson,Defensive Rebound,5,15
+12:11,Northwestern,Jordan Ash,Missed Three Point Jumper,5,15
+12:07,Georgia Tech,James Banks III,Defensive Rebound,5,15
+11:50,Georgia Tech,Moses Wright,Missed Layup,5,15
+11:50,Northwestern,Pete Nance,Block,5,15
+11:45,Georgia Tech,James Banks III,Offensive Rebound,5,15
+11:43,Georgia Tech,James Banks III,Jumper,7,15
+11:05,Northwestern,A.J. Turner,Turnover,7,15
+11:05,Georgia Tech,Moses Wright,Steal,7,15
+11:02,Northwestern,A.J. Turner,Foul,7,15
+11:02,Northwestern,None,None,7,15
+11:02,Georgia Tech,Michael Devoe,Missed Free Throw,7,15
+11:02,Georgia Tech,Georgia Tech,Offensive Rebound,7,15
+11:02,Georgia Tech,Michael Devoe,Free Throw,8,15
+10:48,Northwestern,Vic Law,Jumper,8,17
+10:30,Georgia Tech,Shembari Phillips,Missed Jumper,8,17
+10:28,Georgia Tech,James Banks III,Offensive Rebound,8,17
+10:25,Georgia Tech,Curtis Haywood II,Turnover,8,17
+10:25,Northwestern,Vic Law,Steal,8,17
+10:20,Northwestern,Vic Law,Three Point Jumper,8,20
+9:56,Georgia Tech,James Banks III,Jumper,10,20
+9:36,Northwestern,Ryan Taylor,Missed Three Point Jumper,10,20
+9:33,Georgia Tech,Shembari Phillips,Defensive Rebound,10,20
+9:22,Georgia Tech,Michael Devoe,Missed Jumper,10,20
+9:19,Northwestern,Anthony Gaines,Defensive Rebound,10,20
+9:16,Northwestern,Anthony Gaines,Layup,10,22
+9:16,Georgia Tech,James Banks III,Foul,10,22
+9:16,Northwestern,Anthony Gaines,Free Throw,10,23
+9:02,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,10,23
+8:58,Northwestern,Dererk Pardon,Defensive Rebound,10,23
+8:52,Northwestern,Anthony Gaines,Turnover,10,23
+8:52,Georgia Tech,Jose Alvarado,Steal,10,23
+8:52,Northwestern,Anthony Gaines,Foul,10,23
+8:39,Northwestern,Miller Kopp,Foul,10,23
+8:39,Georgia Tech,Moses Wright,Missed Free Throw,10,23
+8:39,Georgia Tech,Georgia Tech,Offensive Rebound,10,23
+8:39,Georgia Tech,Moses Wright,Free Throw,11,23
+8:25,Northwestern,Anthony Gaines,Missed Jumper,11,23
+8:22,Georgia Tech,James Banks III,Defensive Rebound,11,23
+8:16,Georgia Tech,Jose Alvarado,Missed Jumper,11,23
+8:13,Northwestern,Ryan Taylor,Defensive Rebound,11,23
+8:11,Northwestern,Vic Law,Turnover,11,23
+8:05,Georgia Tech,Jose Alvarado,Turnover,11,23
+7:55,Northwestern,Ryan Taylor,Missed Three Point Jumper,11,23
+7:51,Northwestern,Dererk Pardon,Offensive Rebound,11,23
+7:50,Northwestern,Dererk Pardon,Missed Layup,11,23
+7:50,Georgia Tech,Michael Devoe,Block,11,23
+7:44,Georgia Tech,Michael Devoe,Defensive Rebound,11,23
+7:44,Northwestern,Ryan Taylor,Foul,11,23
+7:44,Northwestern,None,None,11,23
+7:39,Georgia Tech,James Banks III,Missed Jumper,11,23
+7:36,Northwestern,Vic Law,Defensive Rebound,11,23
+7:16,Northwestern,Vic Law,Missed Three Point Jumper,11,23
+7:12,Georgia Tech,James Banks III,Defensive Rebound,11,23
+6:57,Georgia Tech,Michael Devoe,Missed Jumper,11,23
+6:56,Northwestern,Northwestern,Defensive Rebound,11,23
+6:56,Georgia Tech,James Banks III,Foul,11,23
+6:56,Northwestern,Dererk Pardon,Free Throw,11,24
+6:56,Northwestern,Dererk Pardon,Free Throw,11,25
+6:30,Northwestern,A.J. Turner,Foul,11,25
+6:30,Georgia Tech,Brandon Alston,Missed Free Throw,11,25
+6:30,Georgia Tech,Georgia Tech,Offensive Rebound,11,25
+6:30,Georgia Tech,Brandon Alston,Missed Free Throw,11,25
+6:30,Northwestern,Vic Law,Defensive Rebound,11,25
+6:13,Northwestern,Ryan Taylor,Missed Three Point Jumper,11,25
+6:11,Northwestern,Vic Law,Offensive Rebound,11,25
+6:11,Northwestern,Vic Law,Layup,11,27
+6:11,Georgia Tech,Jose Alvarado,Foul,11,27
+6:11,Northwestern,Vic Law,Missed Free Throw,11,27
+6:11,Georgia Tech,Brandon Alston,Defensive Rebound,11,27
+6:06,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,11,27
+6:05,Northwestern,Northwestern,Defensive Rebound,11,27
+5:40,Northwestern,Ryan Taylor,Three Point Jumper,11,30
+5:31,Georgia Tech,None,None,11,30
+5:27,Northwestern,Pete Nance,Foul,11,30
+5:27,Georgia Tech,Michael Devoe,Free Throw,12,30
+5:27,Georgia Tech,Michael Devoe,Free Throw,13,30
+5:01,Northwestern,Vic Law,Turnover,13,30
+5:01,Georgia Tech,Michael Devoe,Steal,13,30
+4:43,Georgia Tech,Abdoulaye Gueye,Missed Jumper,13,30
+4:38,Northwestern,Dererk Pardon,Defensive Rebound,13,30
+4:19,Georgia Tech,Jose Alvarado,Foul,13,30
+4:19,Northwestern,Anthony Gaines,Free Throw,13,31
+4:19,Northwestern,Anthony Gaines,Free Throw,13,32
+4:02,Northwestern,Dererk Pardon,Foul,13,32
+4:02,Georgia Tech,Jose Alvarado,Free Throw,14,32
+4:02,Georgia Tech,Jose Alvarado,Free Throw,15,32
+3:59,Northwestern,None,None,15,32
+3:59,Northwestern,Jordan Ash,Turnover,15,32
+3:59,Northwestern,None,None,15,32
+3:47,Georgia Tech,Abdoulaye Gueye,Layup,17,32
+3:14,Northwestern,Jordan Ash,Missed Jumper,17,32
+3:11,Northwestern,Anthony Gaines,Offensive Rebound,17,32
+3:02,Georgia Tech,Abdoulaye Gueye,Foul,17,32
+3:02,Northwestern,Barret Benson,Free Throw,17,33
+3:02,Northwestern,Barret Benson,Missed Free Throw,17,33
+3:02,Georgia Tech,Abdoulaye Gueye,Defensive Rebound,17,33
+2:44,Georgia Tech,Jose Alvarado,Layup,19,33
+2:44,Northwestern,Vic Law,Foul,19,33
+2:44,Georgia Tech,Jose Alvarado,Free Throw,20,33
+2:29,Northwestern,Barret Benson,Foul,20,33
+2:29,Northwestern,Barret Benson,Turnover,20,33
+1:59,Georgia Tech,Shembari Phillips,Missed Layup,20,33
+1:57,Northwestern,Barret Benson,Defensive Rebound,20,33
+1:41,Georgia Tech,Shembari Phillips,Foul,20,33
+1:41,Northwestern,Barret Benson,Missed Free Throw,20,33
+1:41,Northwestern,Northwestern,Offensive Rebound,20,33
+1:41,Northwestern,Barret Benson,Free Throw,20,34
+1:23,Georgia Tech,Jose Alvarado,Missed Jumper,20,34
+1:20,Northwestern,Barret Benson,Defensive Rebound,20,34
+0:56,Northwestern,Ryan Taylor,Three Point Jumper,20,37
+0:28,Georgia Tech,Abdoulaye Gueye,Turnover,20,37
+0:28,Northwestern,Barret Benson,Steal,20,37
+0:21,Northwestern,Vic Law,Turnover,20,37
+0:21,Georgia Tech,Jose Alvarado,Steal,20,37
+0:08,Georgia Tech,Abdoulaye Gueye,Missed Jumper,20,37
+0:05,Northwestern,Barret Benson,Defensive Rebound,20,37
+0:02,Northwestern,Ryan Taylor,Missed Layup,20,37
+0:02,Georgia Tech,Michael Devoe,Block,20,37
+0:02,Northwestern,Northwestern,Offensive Rebound,20,37
+0:02,Northwestern,None,None,20,37
+0:00,Northwestern,Anthony Gaines,Three Point Jumper,20,40
+0:00,Northwestern,None,None,20,40
+19:45,Northwestern,A.J. Turner,Missed Three Point Jumper,20,40
+19:40,Northwestern,Miller Kopp,Offensive Rebound,20,40
+19:40,Northwestern,Dererk Pardon,Missed Layup,20,40
+19:40,Georgia Tech,James Banks III,Block,20,40
+19:32,Georgia Tech,James Banks III,Defensive Rebound,20,40
+19:29,Georgia Tech,James Banks III,Turnover,20,40
+19:29,Northwestern,A.J. Turner,Steal,20,40
+19:25,Northwestern,A.J. Turner,Missed Layup,20,40
+19:20,Northwestern,Vic Law,Offensive Rebound,20,40
+19:00,Northwestern,Miller Kopp,Layup,20,42
+18:37,Northwestern,A.J. Turner,Foul,20,42
+18:18,Georgia Tech,Moses Wright,Missed Layup,20,42
+18:17,Northwestern,Vic Law,Defensive Rebound,20,42
+18:17,Georgia Tech,James Banks III,Foul,20,42
+18:03,Georgia Tech,Curtis Haywood II,Foul,20,42
+17:56,Northwestern,Vic Law,Jumper,20,44
+17:39,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,20,44
+17:35,Northwestern,Dererk Pardon,Defensive Rebound,20,44
+17:24,Northwestern,Dererk Pardon,Missed Three Point Jumper,20,44
+17:20,Georgia Tech,Jose Alvarado,Defensive Rebound,20,44
+17:14,Georgia Tech,Jose Alvarado,Missed Layup,20,44
+17:10,Georgia Tech,James Banks III,Offensive Rebound,20,44
+17:09,Georgia Tech,James Banks III,Jumper,22,44
+16:45,Northwestern,Ryan Taylor,Three Point Jumper,22,47
+16:18,Georgia Tech,Jose Alvarado,Turnover,22,47
+16:18,Northwestern,Miller Kopp,Steal,22,47
+16:12,Northwestern,Ryan Taylor,Three Point Jumper,22,50
+16:11,Georgia Tech,None,None,22,50
+15:50,Georgia Tech,Michael Devoe,Layup,24,50
+15:26,Northwestern,Dererk Pardon,Missed Jumper,24,50
+15:23,Georgia Tech,James Banks III,Defensive Rebound,24,50
+15:18,Georgia Tech,James Banks III,Dunk,26,50
+14:53,Georgia Tech,Khalid Moore,Foul,26,50
+14:53,Northwestern,None,None,26,50
+14:51,Northwestern,Ryan Taylor,Jumper,26,52
+14:34,Georgia Tech,Brandon Alston,Jumper,28,52
+14:34,Northwestern,Ryan Taylor,Foul,28,52
+14:34,Georgia Tech,Brandon Alston,Free Throw,29,52
+14:21,Georgia Tech,Khalid Moore,Foul,29,52
+14:09,Northwestern,Dererk Pardon,Foul,29,52
+14:09,Northwestern,Dererk Pardon,Turnover,29,52
+13:56,Georgia Tech,Jose Alvarado,Three Point Jumper,32,52
+13:36,Northwestern,Pete Nance,Missed Three Point Jumper,32,52
+13:32,Georgia Tech,Michael Devoe,Defensive Rebound,32,52
+13:27,Georgia Tech,Brandon Alston,Three Point Jumper,35,52
+13:26,Northwestern,None,None,35,52
+13:15,Northwestern,None,None,35,52
+12:54,Northwestern,Ryan Taylor,Missed Three Point Jumper,35,52
+12:52,Georgia Tech,Georgia Tech,Defensive Rebound,35,52
+12:39,Georgia Tech,Brandon Alston,Turnover,35,52
+12:39,Northwestern,Anthony Gaines,Steal,35,52
+12:27,Northwestern,Dererk Pardon,Jumper,35,54
+12:12,Northwestern,Vic Law,Foul,35,54
+11:58,Georgia Tech,James Banks III,Jumper,37,54
+11:39,Northwestern,Ryan Taylor,Turnover,37,54
+11:39,Georgia Tech,Brandon Alston,Steal,37,54
+11:34,Georgia Tech,Brandon Alston,Missed Layup,37,54
+11:33,Georgia Tech,Georgia Tech,Offensive Rebound,37,54
+11:33,Northwestern,None,None,37,54
+11:25,Georgia Tech,Jose Alvarado,Turnover,37,54
+11:25,Northwestern,Ryan Taylor,Steal,37,54
+11:20,Northwestern,Dererk Pardon,Turnover,37,54
+11:20,Georgia Tech,Khalid Moore,Steal,37,54
+11:14,Georgia Tech,Jose Alvarado,Layup,39,54
+10:47,Northwestern,Dererk Pardon,Turnover,39,54
+10:47,Georgia Tech,Michael Devoe,Steal,39,54
+10:35,Georgia Tech,James Banks III,Missed Jumper,39,54
+10:32,Georgia Tech,Jose Alvarado,Offensive Rebound,39,54
+10:32,Georgia Tech,Jose Alvarado,Turnover,39,54
+10:23,Northwestern,A.J. Turner,Missed Layup,39,54
+10:23,Georgia Tech,James Banks III,Block,39,54
+10:23,Georgia Tech,James Banks III,Defensive Rebound,39,54
+10:16,Northwestern,Anthony Gaines,Foul,39,54
+10:00,Georgia Tech,Jose Alvarado,Missed Layup,39,54
+9:57,Northwestern,Ryan Taylor,Defensive Rebound,39,54
+9:54,Georgia Tech,Brandon Alston,Foul,39,54
+9:54,Northwestern,A.J. Turner,Missed Free Throw,39,54
+9:54,Northwestern,Northwestern,Offensive Rebound,39,54
+9:54,Northwestern,A.J. Turner,Free Throw,39,55
+9:39,Georgia Tech,Jose Alvarado,Layup,41,55
+9:21,Northwestern,A.J. Turner,Missed Three Point Jumper,41,55
+9:17,Georgia Tech,Khalid Moore,Defensive Rebound,41,55
+8:58,Georgia Tech,Michael Devoe,Turnover,41,55
+8:58,Northwestern,Vic Law,Steal,41,55
+8:43,Northwestern,Ryan Taylor,Missed Three Point Jumper,41,55
+8:35,Northwestern,Dererk Pardon,Offensive Rebound,41,55
+8:35,Northwestern,Dererk Pardon,Dunk,41,57
+8:23,Georgia Tech,Khalid Moore,Missed Layup,41,57
+8:20,Georgia Tech,Khalid Moore,Offensive Rebound,41,57
+8:19,Georgia Tech,Khalid Moore,Missed Layup,41,57
+8:19,Georgia Tech,Jose Alvarado,Offensive Rebound,41,57
+8:19,Northwestern,Vic Law,Foul,41,57
+8:19,Georgia Tech,Jose Alvarado,Free Throw,42,57
+8:19,Georgia Tech,Jose Alvarado,Free Throw,43,57
+8:04,Georgia Tech,Jose Alvarado,Foul,43,57
+8:02,Northwestern,Vic Law,Missed Three Point Jumper,43,57
+7:57,Georgia Tech,Shembari Phillips,Defensive Rebound,43,57
+7:55,Georgia Tech,Jose Alvarado,Layup,45,57
+7:42,Northwestern,None,None,45,57
+7:40,Northwestern,Ryan Taylor,Turnover,45,57
+7:40,Georgia Tech,Khalid Moore,Steal,45,57
+7:40,Northwestern,Ryan Taylor,Foul,45,57
+7:40,Georgia Tech,Khalid Moore,Free Throw,46,57
+7:40,Georgia Tech,Khalid Moore,Free Throw,47,57
+7:26,Northwestern,A.J. Turner,Turnover,47,57
+7:26,Georgia Tech,Michael Devoe,Steal,47,57
+7:00,Georgia Tech,Curtis Haywood II,Turnover,47,57
+6:52,Georgia Tech,James Banks III,Foul,47,57
+6:52,Northwestern,Dererk Pardon,Missed Free Throw,47,57
+6:52,Georgia Tech,James Banks III,Defensive Rebound,47,57
+6:35,Georgia Tech,Michael Devoe,Missed Three Point Jumper,47,57
+6:31,Northwestern,Dererk Pardon,Defensive Rebound,47,57
+6:08,Northwestern,Ryan Taylor,Layup,47,59
+5:45,Georgia Tech,Jose Alvarado,Jumper,49,59
+5:21,Northwestern,Dererk Pardon,Dunk,49,61
+4:51,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,49,61
+4:48,Northwestern,Vic Law,Defensive Rebound,49,61
+4:32,Northwestern,Dererk Pardon,Missed Dunk,49,61
+4:32,Georgia Tech,James Banks III,Block,49,61
+4:26,Georgia Tech,Michael Devoe,Defensive Rebound,49,61
+4:25,Georgia Tech,Michael Devoe,Missed Layup,49,61
+4:23,Georgia Tech,James Banks III,Offensive Rebound,49,61
+4:23,Georgia Tech,James Banks III,Layup,51,61
+4:23,Georgia Tech,None,None,51,61
+4:00,Northwestern,Anthony Gaines,Missed Layup,51,61
+3:59,Georgia Tech,Georgia Tech,Defensive Rebound,51,61
+3:28,Georgia Tech,Brandon Alston,Missed Three Point Jumper,51,61
+3:28,Northwestern,A.J. Turner,Block,51,61
+3:28,Georgia Tech,Georgia Tech,Offensive Rebound,51,61
+3:28,Georgia Tech,Georgia Tech ,Turnover,51,61
+2:58,Northwestern,Vic Law,Missed Jumper,51,61
+2:56,Northwestern,Dererk Pardon,Offensive Rebound,51,61
+2:54,Northwestern,Dererk Pardon,Missed Jumper,51,61
+2:49,Northwestern,A.J. Turner,Offensive Rebound,51,61
+2:31,Georgia Tech,James Banks III,Foul,51,61
+2:31,Northwestern,Dererk Pardon,Free Throw,51,62
+2:31,Northwestern,Dererk Pardon,Missed Free Throw,51,62
+2:31,Georgia Tech,Khalid Moore,Defensive Rebound,51,62
+2:19,Northwestern,Anthony Gaines,Foul,51,62
+2:19,Georgia Tech,Michael Devoe,Free Throw,52,62
+2:19,Georgia Tech,Michael Devoe,Free Throw,53,62
+2:01,Northwestern,Vic Law,Missed Jumper,53,62
+1:57,Georgia Tech,Michael Devoe,Defensive Rebound,53,62
+1:51,Northwestern,Vic Law,Foul,53,62
+1:51,Georgia Tech,Jose Alvarado,Free Throw,54,62
+1:51,Georgia Tech,Jose Alvarado,Free Throw,55,62
+1:22,Northwestern,Ryan Taylor,Missed Layup,55,62
+1:18,Georgia Tech,Brandon Alston,Defensive Rebound,55,62
+1:16,Georgia Tech,Brandon Alston,Missed Layup,55,62
+1:13,Northwestern,Dererk Pardon,Defensive Rebound,55,62
+0:45,Northwestern,Vic Law,Jumper,55,64
+0:38,Northwestern,Dererk Pardon,Foul,55,64
+0:38,Georgia Tech,Jose Alvarado,Missed Free Throw,55,64
+0:38,Georgia Tech,Georgia Tech,Offensive Rebound,55,64
+0:38,Georgia Tech,Jose Alvarado,Free Throw,56,64
+0:27,Northwestern,A.J. Turner,Turnover,56,64
+0:19,Georgia Tech,None,None,56,64
+0:15,Georgia Tech,Brandon Alston,Missed Three Point Jumper,56,64
+0:15,Northwestern,Anthony Gaines,Block,56,64
+0:13,Georgia Tech,Georgia Tech,Offensive Rebound,56,64
+0:10,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,56,64
+0:08,Georgia Tech,Abdoulaye Gueye,Offensive Rebound,56,64
+0:07,Georgia Tech,Abdoulaye Gueye,Jumper,58,64
+0:07,Georgia Tech,Khalid Moore,Foul,58,64
+0:07,Northwestern,Ryan Taylor,Free Throw,58,65
+0:07,Northwestern,Ryan Taylor,Free Throw,58,66
+0:02,Georgia Tech,Jose Alvarado,Three Point Jumper,61,66
+0:01,Georgia Tech,Michael Devoe,Foul,61,66
+0:01,Northwestern,A.J. Turner,Missed Free Throw,61,66
+0:01,Northwestern,Northwestern,Offensive Rebound,61,66
+0:01,Northwestern,A.J. Turner,Free Throw,61,67
+0:00,Northwestern,None,None,61,66
+0:00,Northwestern,None,None,61,67

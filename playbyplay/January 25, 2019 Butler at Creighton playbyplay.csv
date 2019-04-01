@@ -1,0 +1,317 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Creighton,None,None,0,0
+19:48,Butler,Joey Brunk,Foul,0,0
+19:47,Creighton,Mitch Ballock,Three Point Jumper,0,3
+19:47,Butler,Aaron Thompson,Foul,0,3
+19:40,Creighton,Marcus Zegarowski,Missed Three Point Jumper,0,3
+19:40,Butler,Aaron Thompson,Defensive Rebound,0,3
+19:17,Butler,Jordan Tucker,Missed Three Point Jumper,0,3
+19:17,Creighton,Mitch Ballock,Defensive Rebound,0,3
+19:07,Creighton,Davion Mintz,Missed Jumper,0,3
+19:07,Butler,Jordan Tucker,Defensive Rebound,0,3
+18:58,Butler,Jordan Tucker,Turnover,0,3
+18:58,Creighton,Davion Mintz,Steal,0,3
+18:52,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,0,3
+18:52,Butler,Kamar Baldwin,Defensive Rebound,0,3
+18:45,Butler,Kamar Baldwin,Turnover,0,3
+18:45,Creighton,Davion Mintz,Steal,0,3
+18:40,Creighton,Martin Krampelj,Dunk,0,5
+18:22,Butler,Sean McDermott,Three Point Jumper,3,5
+18:06,Creighton,Martin Krampelj,Dunk,3,7
+17:40,Butler,Joey Brunk,Jumper,5,7
+17:21,Creighton,Martin Krampelj,Missed Three Point Jumper,5,7
+17:21,Butler,Aaron Thompson,Defensive Rebound,5,7
+17:07,Butler,Sean McDermott,Missed Jumper,5,7
+17:07,Butler,Joey Brunk,Offensive Rebound,5,7
+17:07,Creighton,Marcus Zegarowski,Foul,5,7
+17:04,Butler,Jordan Tucker,Layup,7,7
+16:55,Creighton,Mitch Ballock,Three Point Jumper,7,10
+16:10,Butler,Butler ,Turnover,7,10
+16:00,Creighton,Samson Froling,Foul,7,10
+16:00,Creighton,Samson Froling,Turnover,7,10
+16:00,Creighton,None,None,7,10
+15:42,Butler,Jordan Tucker,Missed Three Point Jumper,7,10
+15:42,Creighton,Samson Froling,Defensive Rebound,7,10
+15:39,Butler,Nate Fowler,Foul,7,10
+15:23,Creighton,Samson Froling,Missed Three Point Jumper,7,10
+15:23,Butler,Paul Jorgensen,Defensive Rebound,7,10
+15:08,Creighton,Ty-Shon Alexander,Foul,7,10
+15:07,Butler,Nate Fowler,Layup,9,10
+14:53,Creighton,Ty-Shon Alexander,Turnover,9,10
+14:37,Butler,Paul Jorgensen,Layup,11,10
+14:27,Creighton,Davion Mintz,Jumper,11,12
+14:09,Butler,Paul Jorgensen,Missed Jumper,11,12
+14:09,Creighton,Marcus Zegarowski,Defensive Rebound,11,12
+14:00,Creighton,Marcus Zegarowski,Layup,11,14
+13:33,Butler,Kamar Baldwin,Layup,13,14
+13:18,Butler,Jordan Tucker,Foul,13,14
+13:18,Creighton,Ty-Shon Alexander,Free Throw,13,15
+13:18,Creighton,Ty-Shon Alexander,Missed Free Throw,13,15
+13:18,Butler,Jordan Tucker,Defensive Rebound,13,15
+13:00,Butler,Jordan Tucker,Missed Three Point Jumper,13,15
+13:00,Creighton,Kaleb Joseph,Defensive Rebound,13,15
+12:39,Creighton,Martin Krampelj,Missed Layup,13,15
+12:39,Butler,Nate Fowler,Defensive Rebound,13,15
+12:30,Butler,Nate Fowler,Missed Three Point Jumper,13,15
+12:30,Creighton,Davion Mintz,Defensive Rebound,13,15
+12:22,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,13,15
+12:22,Butler,Jordan Tucker,Defensive Rebound,13,15
+11:55,Creighton,Connor Cashaw,Foul,13,15
+11:55,Creighton,None,None,13,15
+11:55,Butler,Christian David,Free Throw,14,15
+11:55,Butler,Christian David,Missed Free Throw,14,15
+11:55,Creighton,Martin Krampelj,Defensive Rebound,14,15
+11:28,Creighton,Connor Cashaw,Turnover,14,15
+11:28,Butler,Christian David,Steal,14,15
+11:23,Butler,Henry Baddley,Layup,16,15
+11:04,Creighton,Kaleb Joseph,Missed Three Point Jumper,16,15
+11:04,Butler,Paul Jorgensen,Defensive Rebound,16,15
+10:56,Butler,Paul Jorgensen,Missed Three Point Jumper,16,15
+10:56,Creighton,Connor Cashaw,Defensive Rebound,16,15
+10:47,Creighton,Davion Mintz,Layup,16,17
+10:16,Creighton,Mitch Ballock,Foul,16,17
+10:16,Butler,Aaron Thompson,Missed Free Throw,16,17
+10:16,Butler,None,Team Rebound,16,17
+10:16,Butler,Aaron Thompson,Missed Free Throw,16,17
+10:16,Creighton,Martin Krampelj,Defensive Rebound,16,17
+9:51,Creighton,Christian Bishop,Foul,16,17
+9:51,Creighton,Christian Bishop,Turnover,16,17
+9:40,Butler,Joey Brunk,Missed Jumper,16,17
+9:40,Creighton,Martin Krampelj,Defensive Rebound,16,17
+9:20,Creighton,Martin Krampelj,Layup,16,19
+9:20,Butler,Joey Brunk,Foul,16,19
+9:20,Creighton,Martin Krampelj,Missed Free Throw,16,19
+9:20,Butler,Sean McDermott,Defensive Rebound,16,19
+9:08,Butler,Kamar Baldwin,Foul,16,19
+9:08,Butler,Kamar Baldwin,Turnover,16,19
+8:49,Creighton,Martin Krampelj,Layup,16,21
+8:31,Butler,Kamar Baldwin,Three Point Jumper,19,21
+8:17,Creighton,Marcus Zegarowski,Missed Layup,19,21
+8:17,Creighton,Creighton,Offensive Rebound,19,21
+8:08,Creighton,Davion Mintz,Turnover,19,21
+7:55,Butler,Sean McDermott,Missed Three Point Jumper,19,21
+7:55,Creighton,Mitch Ballock,Defensive Rebound,19,21
+7:45,Creighton,Mitch Ballock,Turnover,19,21
+7:45,Creighton,None,None,19,21
+7:30,Butler,Kamar Baldwin,Jumper,21,21
+7:16,Butler,Jordan Tucker,Foul,21,21
+7:16,Creighton,Samson Froling,Missed Free Throw,21,21
+7:16,Butler,Henry Baddley,Defensive Rebound,21,21
+7:12,Butler,Kamar Baldwin,Dunk,23,21
+6:48,Creighton,Samson Froling,Layup,23,23
+6:48,Butler,Nate Fowler,Foul,23,23
+6:48,Creighton,Samson Froling,Free Throw,23,24
+6:19,Butler,Kamar Baldwin,Missed Three Point Jumper,23,24
+6:19,Creighton,Davion Mintz,Defensive Rebound,23,24
+6:14,Creighton,Ty-Shon Alexander,Turnover,23,24
+6:14,Butler,Henry Baddley,Steal,23,24
+5:53,Butler,Sean McDermott,Missed Layup,23,24
+5:53,Creighton,Ty-Shon Alexander,Defensive Rebound,23,24
+5:34,Creighton,Marcus Zegarowski,Layup,23,26
+5:34,Butler,Sean McDermott,Foul,23,26
+5:34,Creighton,Marcus Zegarowski,Free Throw,23,27
+5:19,Butler,Christian David,Missed Three Point Jumper,23,27
+5:19,Creighton,Davion Mintz,Defensive Rebound,23,27
+5:08,Butler,Paul Jorgensen,Foul,23,27
+5:08,Creighton,Mitch Ballock,Free Throw,23,28
+5:08,Creighton,Mitch Ballock,Free Throw,23,29
+4:57,Butler,Paul Jorgensen,Missed Jumper,23,29
+4:57,Creighton,Marcus Zegarowski,Defensive Rebound,23,29
+4:49,Creighton,Mitch Ballock,Missed Three Point Jumper,23,29
+4:49,Butler,Christian David,Defensive Rebound,23,29
+4:34,Butler,Bryce Golden,Layup,25,29
+4:19,Creighton,Ty-Shon Alexander,Jumper,25,31
+4:03,Butler,Paul Jorgensen,Jumper,27,31
+3:50,Creighton,Davion Mintz,Missed Layup,27,31
+3:50,Butler,Christian David,Block,27,31
+3:50,Creighton,Davion Mintz,Offensive Rebound,27,31
+3:37,Creighton,Martin Krampelj,Foul,27,31
+3:37,Creighton,Martin Krampelj,Turnover,27,31
+3:37,Creighton,None,None,27,31
+3:26,Butler,Nate Fowler,Three Point Jumper,30,31
+3:11,Creighton,Marcus Zegarowski,Missed Three Point Jumper,30,31
+3:11,Butler,Nate Fowler,Defensive Rebound,30,31
+3:01,Butler,Paul Jorgensen,Missed Three Point Jumper,30,31
+3:01,Creighton,Marcus Zegarowski,Defensive Rebound,30,31
+2:55,Creighton,Marcus Zegarowski,Layup,30,33
+2:28,Butler,Paul Jorgensen,Missed Jumper,30,33
+2:28,Creighton,Martin Krampelj,Defensive Rebound,30,33
+2:19,Creighton,Mitch Ballock,Layup,30,35
+1:44,Butler,Nate Fowler,Missed Jumper,30,35
+1:44,Creighton,Mitch Ballock,Defensive Rebound,30,35
+1:35,Creighton,Mitch Ballock,Turnover,30,35
+1:23,Butler,Sean McDermott,Turnover,30,35
+1:23,Creighton,Martin Krampelj,Steal,30,35
+1:11,Butler,Nate Fowler,Foul,30,35
+1:11,Creighton,Ty-Shon Alexander,Free Throw,30,36
+1:11,Creighton,Ty-Shon Alexander,Free Throw,30,37
+1:11,Creighton,Ty-Shon Alexander,Missed Free Throw,30,37
+1:11,Butler,Christian David,Defensive Rebound,30,37
+0:54,Butler,Jordan Tucker,Missed Three Point Jumper,30,37
+0:54,Creighton,Mitch Ballock,Defensive Rebound,30,37
+0:47,Creighton,Davion Mintz,Three Point Jumper,30,40
+0:40,Butler,None,None,30,40
+0:20,Butler,Paul Jorgensen,Jumper,32,40
+0:07,Creighton,Davion Mintz,Turnover,32,40
+0:07,Butler,Henry Baddley,Steal,32,40
+0:01,Butler,Christian David,Layup,34,40
+0:00,Creighton,None,None,34,40
+20:00,Butler,None,None,34,40
+19:39,Butler,Kamar Baldwin,Jumper,36,40
+19:23,Creighton,Martin Krampelj,Layup,36,42
+18:58,Butler,Aaron Thompson,Missed Jumper,36,42
+18:58,Creighton,Mitch Ballock,Defensive Rebound,36,42
+18:34,Creighton,Davion Mintz,Layup,36,44
+18:16,Butler,Joey Brunk,Layup,38,44
+18:16,Creighton,Mitch Ballock,Foul,38,44
+18:16,Butler,Joey Brunk,Missed Free Throw,38,44
+18:16,Creighton,Ty-Shon Alexander,Defensive Rebound,38,44
+18:00,Creighton,Marcus Zegarowski,Missed Three Point Jumper,38,44
+18:00,Butler,Jordan Tucker,Defensive Rebound,38,44
+17:44,Butler,Joey Brunk,Missed Jumper,38,44
+17:44,Creighton,Martin Krampelj,Defensive Rebound,38,44
+17:35,Creighton,Ty-Shon Alexander,Three Point Jumper,38,47
+17:21,Butler,None,None,38,47
+17:14,Creighton,Davion Mintz,Foul,38,47
+17:00,Butler,Joey Brunk,Jumper,40,47
+16:25,Creighton,Marcus Zegarowski,Missed Jumper,40,47
+16:25,Butler,Aaron Thompson,Defensive Rebound,40,47
+16:17,Butler,Aaron Thompson,Turnover,40,47
+15:58,Creighton,Ty-Shon Alexander,Missed Dunk,40,47
+15:58,Creighton,Marcus Zegarowski,Offensive Rebound,40,47
+15:53,Creighton,None,None,40,47
+15:47,Creighton,Mitch Ballock,Missed Three Point Jumper,40,47
+15:47,Butler,Joey Brunk,Defensive Rebound,40,47
+15:23,Butler,Joey Brunk,Dunk,42,47
+15:10,Creighton,Martin Krampelj,Layup,42,49
+14:55,Butler,Henry Baddley,Missed Three Point Jumper,42,49
+14:55,Butler,Paul Jorgensen,Offensive Rebound,42,49
+14:30,Butler,Kamar Baldwin,Turnover,42,49
+14:30,Creighton,Ty-Shon Alexander,Steal,42,49
+14:23,Creighton,Ty-Shon Alexander,Layup,42,51
+14:00,Butler,Paul Jorgensen,Missed Jumper,42,51
+14:00,Creighton,Martin Krampelj,Block,42,51
+14:00,Creighton,Mitch Ballock,Defensive Rebound,42,51
+13:54,Creighton,Davion Mintz,Layup,42,53
+13:34,Butler,Joey Brunk,Turnover,42,53
+13:29,Creighton,Marcus Zegarowski,Missed Jumper,42,53
+13:29,Butler,Kamar Baldwin,Defensive Rebound,42,53
+13:22,Butler,Kamar Baldwin,Layup,44,53
+12:53,Creighton,Marcus Zegarowski,Missed Jumper,44,53
+12:53,Butler,Nate Fowler,Block,44,53
+12:53,Creighton,Creighton,Offensive Rebound,44,53
+12:46,Creighton,Davion Mintz,Missed Jumper,44,53
+12:46,Butler,Paul Jorgensen,Defensive Rebound,44,53
+12:33,Butler,Christian David,Turnover,44,53
+12:19,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,44,53
+12:19,Butler,Paul Jorgensen,Defensive Rebound,44,53
+12:12,Butler,Paul Jorgensen,Missed Jumper,44,53
+12:12,Creighton,Samson Froling,Defensive Rebound,44,53
+11:59,Creighton,Mitch Ballock,Three Point Jumper,44,56
+11:33,Butler,Paul Jorgensen,Missed Three Point Jumper,44,56
+11:33,Creighton,Davion Mintz,Defensive Rebound,44,56
+11:18,Creighton,Mitch Ballock,Missed Three Point Jumper,44,56
+11:18,Butler,Nate Fowler,Defensive Rebound,44,56
+11:00,Butler,Kamar Baldwin,Missed Jumper,44,56
+11:00,Creighton,Mitch Ballock,Defensive Rebound,44,56
+10:56,Creighton,Mitch Ballock,Turnover,44,56
+10:56,Butler,Paul Jorgensen,Steal,44,56
+10:48,Creighton,Mitch Ballock,Foul,44,56
+10:48,Creighton,None,None,44,56
+10:48,Butler,Kamar Baldwin,Missed Free Throw,44,56
+10:48,Butler,None,Team Rebound,44,56
+10:48,Butler,Kamar Baldwin,Free Throw,45,56
+10:30,Butler,Kamar Baldwin,Three Point Jumper,48,56
+10:01,Creighton,Davion Mintz,Missed Three Point Jumper,48,56
+10:01,Creighton,Samson Froling,Offensive Rebound,48,56
+9:55,Creighton,Kaleb Joseph,Three Point Jumper,48,59
+9:41,Butler,Jordan Tucker,Three Point Jumper,51,59
+9:03,Butler,Henry Baddley,Foul,51,59
+8:59,Creighton,Ty-Shon Alexander,Missed Jumper,51,59
+8:59,Creighton,Marcus Zegarowski,Offensive Rebound,51,59
+8:54,Creighton,Marcus Zegarowski,Missed Three Point Jumper,51,59
+8:54,Creighton,Kaleb Joseph,Offensive Rebound,51,59
+8:41,Creighton,Marcus Zegarowski,Turnover,51,59
+8:41,Butler,Kamar Baldwin,Steal,51,59
+8:35,Butler,Kamar Baldwin,Foul,51,59
+8:35,Butler,Kamar Baldwin,Turnover,51,59
+8:10,Creighton,Mitch Ballock,Foul,51,59
+8:10,Creighton,Mitch Ballock,Turnover,51,59
+7:53,Butler,Jordan Tucker,Missed Three Point Jumper,51,59
+7:53,Butler,Joey Brunk,Offensive Rebound,51,59
+7:51,Creighton,Marcus Zegarowski,Foul,51,59
+7:51,Creighton,None,None,51,59
+7:32,Butler,Joey Brunk,Missed Layup,51,59
+7:32,Creighton,Kaleb Joseph,Defensive Rebound,51,59
+7:12,Creighton,Kaleb Joseph,Missed Three Point Jumper,51,59
+7:12,Butler,Joey Brunk,Defensive Rebound,51,59
+7:04,Creighton,Ty-Shon Alexander,Foul,51,59
+6:58,Butler,Kamar Baldwin,Missed Layup,51,59
+6:58,Creighton,Ty-Shon Alexander,Defensive Rebound,51,59
+6:50,Creighton,Ty-Shon Alexander,Turnover,51,59
+6:22,Butler,Kamar Baldwin,Layup,53,59
+5:58,Creighton,Ty-Shon Alexander,Three Point Jumper,53,62
+5:35,Creighton,Davion Mintz,Foul,53,62
+5:35,Butler,Kamar Baldwin,Free Throw,54,62
+5:35,Butler,Kamar Baldwin,Free Throw,55,62
+5:19,Butler,Henry Baddley,Foul,55,62
+5:19,Creighton,Martin Krampelj,Free Throw,55,63
+5:19,Creighton,Martin Krampelj,Free Throw,55,64
+4:54,Butler,Kamar Baldwin,Turnover,55,64
+4:54,Creighton,Martin Krampelj,Steal,55,64
+4:24,Creighton,Davion Mintz,Turnover,55,64
+4:05,Butler,Paul Jorgensen,Missed Jumper,55,64
+4:05,Butler,Butler,Offensive Rebound,55,64
+3:59,Creighton,Connor Cashaw,Foul,55,64
+3:59,Creighton,None,None,55,64
+3:59,Butler,Jordan Tucker,Free Throw,56,64
+3:59,Butler,Jordan Tucker,Free Throw,57,64
+3:54,Butler,Aaron Thompson,Foul,57,64
+3:24,Creighton,Davion Mintz,Missed Three Point Jumper,57,64
+3:24,Butler,Jordan Tucker,Defensive Rebound,57,64
+3:23,Creighton,Ty-Shon Alexander,Foul,57,64
+3:23,Butler,Jordan Tucker,Free Throw,58,64
+3:23,Butler,Jordan Tucker,Free Throw,59,64
+3:07,Creighton,Davion Mintz,Layup,59,66
+3:07,Butler,Nate Fowler,Foul,59,66
+3:07,Creighton,Davion Mintz,Free Throw,59,67
+3:03,Butler,Aaron Thompson,Foul,59,67
+3:03,Butler,Aaron Thompson,Turnover,59,67
+2:43,Butler,Christian David,Foul,59,67
+2:43,Creighton,Ty-Shon Alexander,Free Throw,59,68
+2:43,Creighton,Ty-Shon Alexander,Free Throw,59,69
+2:28,Butler,Jordan Tucker,Turnover,59,69
+2:28,Creighton,Ty-Shon Alexander,Steal,59,69
+2:28,Creighton,None,None,59,69
+2:12,Creighton,Marcus Zegarowski,Turnover,59,69
+2:12,Butler,Christian David,Steal,59,69
+1:58,Creighton,Davion Mintz,Foul,59,69
+1:58,Butler,Kamar Baldwin,Free Throw,60,69
+1:58,Butler,Kamar Baldwin,Free Throw,61,69
+1:56,Creighton,Davion Mintz,Turnover,61,69
+1:56,Butler,Henry Baddley,Steal,61,69
+1:53,Butler,Kamar Baldwin,Missed Three Point Jumper,61,69
+1:53,Creighton,Marcus Zegarowski,Defensive Rebound,61,69
+1:44,Creighton,Martin Krampelj,Dunk,61,71
+1:34,Butler,Sean McDermott,Missed Layup,61,71
+1:34,Creighton,Martin Krampelj,Block,61,71
+1:34,Creighton,Martin Krampelj,Defensive Rebound,61,71
+1:26,Creighton,Marcus Zegarowski,Missed Layup,61,71
+1:26,Butler,Henry Baddley,Defensive Rebound,61,71
+1:16,Butler,Nate Fowler,Missed Three Point Jumper,61,71
+1:16,Creighton,Ty-Shon Alexander,Defensive Rebound,61,71
+1:02,Butler,Kamar Baldwin,Foul,61,71
+1:02,Creighton,Ty-Shon Alexander,Free Throw,61,72
+1:02,Creighton,Ty-Shon Alexander,Free Throw,61,73
+0:48,Butler,Jordan Tucker,Missed Dunk,61,73
+0:48,Creighton,Davion Mintz,Defensive Rebound,61,73
+0:21,Creighton,Ty-Shon Alexander,Layup,61,75
+0:14,Butler,Jordan Tucker,Missed Three Point Jumper,61,75
+0:14,Butler,Kamar Baldwin,Offensive Rebound,61,75
+0:06,Butler,Kamar Baldwin,Missed Jumper,61,75
+0:06,Creighton,Martin Krampelj,Defensive Rebound,61,75
+0:03,Creighton,Martin Krampelj,Turnover,61,75
+0:03,Butler,Jordan Tucker,Steal,61,75
+0:03,Butler,Jordan Tucker,Missed Three Point Jumper,61,75
+0:03,Creighton,Martin Krampelj,Defensive Rebound,61,75
+0:00,Creighton,None,None,61,75

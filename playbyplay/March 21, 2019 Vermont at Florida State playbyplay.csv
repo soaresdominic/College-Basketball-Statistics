@@ -1,0 +1,345 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Vermont,None,None,0,0
+19:35,Florida State,None,None,0,0
+19:35,Vermont,Samuel Dingba,Turnover,0,0
+19:35,Florida State,Christ Koumadje,Steal,0,0
+19:07,Florida State,Trent Forrest,Missed Jumper,0,0
+19:07,Vermont,Samuel Dingba,Defensive Rebound,0,0
+18:53,Vermont,Ben Shungu,Jumper,2,0
+18:28,Florida State,Raiquan Gray,Missed Jumper,2,0
+18:28,Vermont,Stef Smith,Defensive Rebound,2,0
+18:17,Vermont,Stef Smith,Missed Jumper,2,0
+18:17,Florida State,Trent Forrest,Defensive Rebound,2,0
+18:10,Florida State,M.J. Walker,Turnover,2,0
+17:43,Vermont,Anthony Lamb,Missed Three Point Jumper,2,0
+17:43,Vermont,Vermont,Offensive Rebound,2,0
+17:41,Vermont,None,None,2,0
+17:35,Vermont,Ernie Duncan,Three Point Jumper,5,0
+17:09,Florida State,Christ Koumadje,Dunk,5,2
+16:50,Vermont,Stef Smith,Missed Jumper,5,2
+16:50,Florida State,Trent Forrest,Defensive Rebound,5,2
+16:43,Florida State,Trent Forrest,Turnover,5,2
+16:43,Vermont,Stef Smith,Steal,5,2
+16:38,Vermont,Stef Smith,Layup,7,2
+16:01,Florida State,Terance Mann,Jumper,7,4
+15:59,Florida State,None,None,7,4
+15:35,Vermont,Ben Shungu,Three Point Jumper,10,4
+15:03,Florida State,M.J. Walker,Three Point Jumper,10,7
+14:41,Vermont,Ben Shungu,Missed Jumper,10,7
+14:41,Florida State,Christ Koumadje,Defensive Rebound,10,7
+14:31,Vermont,Ernie Duncan,Foul,10,7
+14:25,Florida State,M.J. Walker,Missed Jumper,10,7
+14:25,Vermont,Ben Shungu,Defensive Rebound,10,7
+14:15,Vermont,Everett Duncan,Missed Three Point Jumper,10,7
+14:15,Vermont,Vermont,Offensive Rebound,10,7
+14:13,Florida State,David Nichols,Foul,10,7
+14:11,Florida State,Terance Mann,Foul,10,7
+13:52,Vermont,Anthony Lamb,Turnover,10,7
+13:52,Florida State,Devin Vassell,Steal,10,7
+13:52,Florida State,None,None,10,7
+13:44,Florida State,M.J. Walker,Missed Jumper,10,7
+13:44,Vermont,Everett Duncan,Defensive Rebound,10,7
+13:35,Vermont,Anthony Lamb,Three Point Jumper,13,7
+13:14,Florida State,Mfiondu Kabengele,Missed Jumper,13,7
+13:14,Vermont,Everett Duncan,Defensive Rebound,13,7
+12:59,Vermont,Ernie Duncan,Three Point Jumper,16,7
+12:37,Florida State,David Nichols,Three Point Jumper,16,10
+12:10,Vermont,Ernie Duncan,Missed Jumper,16,10
+12:10,Florida State,Terance Mann,Defensive Rebound,16,10
+11:58,Florida State,Mfiondu Kabengele,Layup,16,12
+11:58,Vermont,Anthony Lamb,Missed Layup,16,12
+11:58,Vermont,Robin Duncan,Offensive Rebound,16,12
+11:41,Vermont,Robin Duncan,Missed Layup,16,12
+11:41,Florida State,Terance Mann,Defensive Rebound,16,12
+11:34,Florida State,Terance Mann,Missed Three Point Jumper,16,12
+11:34,Florida State,Florida State,Offensive Rebound,16,12
+11:26,Vermont,Robin Duncan,Foul,16,12
+11:26,Florida State,None,None,16,12
+11:23,Florida State,Mfiondu Kabengele,Layup,16,14
+10:57,Vermont,Stef Smith,Missed Jumper,16,14
+10:57,Florida State,David Nichols,Defensive Rebound,16,14
+10:53,Vermont,Ryan Davis,Foul,16,14
+10:42,Vermont,Ryan Davis,Foul,16,14
+10:42,Florida State,Mfiondu Kabengele,Missed Free Throw,16,14
+10:42,Florida State,None,Team Rebound,16,14
+10:42,Florida State,Mfiondu Kabengele,Free Throw,16,15
+10:20,Florida State,David Nichols,Foul,16,15
+10:04,Vermont,Stef Smith,Turnover,16,15
+10:04,Florida State,Raiquan Gray,Steal,16,15
+9:58,Vermont,Samuel Dingba,Foul,16,15
+9:58,Florida State,Raiquan Gray,Missed Free Throw,16,15
+9:58,Florida State,None,Team Rebound,16,15
+9:58,Florida State,Raiquan Gray,Free Throw,16,16
+9:58,Florida State,Raiquan Gray,Free Throw,16,17
+9:37,Vermont,Ernie Duncan,Turnover,16,17
+9:19,Florida State,Devin Vassell,Missed Three Point Jumper,16,17
+9:19,Vermont,Ernie Duncan,Defensive Rebound,16,17
+9:17,Florida State,Anthony Polite,Foul,16,17
+9:02,Vermont,Anthony Lamb,Missed Three Point Jumper,16,17
+9:02,Florida State,Christ Koumadje,Defensive Rebound,16,17
+8:51,Florida State,Trent Forrest,Missed Jumper,16,17
+8:51,Vermont,Everett Duncan,Defensive Rebound,16,17
+8:42,Vermont,Ernie Duncan,Foul,16,17
+8:42,Vermont,Ernie Duncan,Turnover,16,17
+8:28,Florida State,Raiquan Gray,Missed Three Point Jumper,16,17
+8:28,Vermont,Stef Smith,Defensive Rebound,16,17
+8:01,Florida State,M.J. Walker,Foul,16,17
+7:53,Vermont,Stef Smith,Turnover,16,17
+7:53,Florida State,None,None,16,17
+7:40,Vermont,Anthony Lamb,Foul,16,17
+7:40,Florida State,Christ Koumadje,Free Throw,16,18
+7:40,Florida State,Christ Koumadje,Free Throw,16,19
+7:16,Vermont,Stef Smith,Turnover,16,19
+7:16,Florida State,Terance Mann,Steal,16,19
+7:05,Vermont,Ben Shungu,Foul,16,19
+7:05,Florida State,Raiquan Gray,Free Throw,16,20
+7:05,Florida State,Raiquan Gray,Free Throw,16,21
+7:00,Vermont,Anthony Lamb,Three Point Jumper,19,21
+6:40,Florida State,Mfiondu Kabengele,Missed Jumper,19,21
+6:40,Florida State,Raiquan Gray,Offensive Rebound,19,21
+6:36,Florida State,Raiquan Gray,Missed Jumper,19,21
+6:36,Vermont,Anthony Lamb,Defensive Rebound,19,21
+6:10,Florida State,Raiquan Gray,Foul,19,21
+6:09,Vermont,Everett Duncan,Three Point Jumper,22,21
+5:49,Florida State,Raiquan Gray,Missed Jumper,22,21
+5:49,Vermont,Everett Duncan,Defensive Rebound,22,21
+5:33,Vermont,Stef Smith,Missed Layup,22,21
+5:33,Florida State,Trent Forrest,Block,22,21
+5:33,Florida State,Raiquan Gray,Defensive Rebound,22,21
+5:26,Florida State,M.J. Walker,Missed Three Point Jumper,22,21
+5:26,Florida State,Raiquan Gray,Offensive Rebound,22,21
+5:22,Florida State,Raiquan Gray,Layup,22,23
+5:04,Florida State,M.J. Walker,Foul,22,23
+5:04,Vermont,Stef Smith,Missed Free Throw,22,23
+5:04,Vermont,Anthony Lamb,Offensive Rebound,22,23
+5:01,Florida State,Terance Mann,Foul,22,23
+5:01,Vermont,Anthony Lamb,Missed Free Throw,22,23
+5:01,Florida State,Anthony Polite,Defensive Rebound,22,23
+4:45,Florida State,Mfiondu Kabengele,Missed Layup,22,23
+4:45,Florida State,Mfiondu Kabengele,Offensive Rebound,22,23
+4:41,Florida State,Mfiondu Kabengele,Layup,22,25
+4:17,Vermont,Everett Duncan,Missed Jumper,22,25
+4:17,Florida State,Terance Mann,Defensive Rebound,22,25
+4:01,Florida State,Mfiondu Kabengele,Missed Jumper,22,25
+4:01,Vermont,Everett Duncan,Defensive Rebound,22,25
+3:48,Vermont,Stef Smith,Three Point Jumper,25,25
+3:33,Florida State,None,None,25,25
+3:33,Florida State,None,None,25,25
+3:33,Florida State,None,None,25,25
+3:23,Florida State,Anthony Polite,Missed Three Point Jumper,25,25
+3:23,Vermont,Anthony Lamb,Defensive Rebound,25,25
+3:02,Vermont,Anthony Lamb,Missed Three Point Jumper,25,25
+3:02,Florida State,Mfiondu Kabengele,Defensive Rebound,25,25
+2:50,Florida State,Raiquan Gray,Missed Jumper,25,25
+2:50,Vermont,Stef Smith,Defensive Rebound,25,25
+2:35,Vermont,Stef Smith,Foul,25,25
+2:35,Vermont,Stef Smith,Turnover,25,25
+2:35,Florida State,None,None,25,25
+2:23,Florida State,Mfiondu Kabengele,Foul,25,25
+2:23,Florida State,Mfiondu Kabengele,Turnover,25,25
+1:59,Vermont,Anthony Lamb,Missed Jumper,25,25
+1:59,Florida State,Raiquan Gray,Block,25,25
+1:59,Florida State,Mfiondu Kabengele,Defensive Rebound,25,25
+1:49,Florida State,Raiquan Gray,Missed Layup,25,25
+1:49,Vermont,Anthony Lamb,Block,25,25
+1:49,Vermont,Stef Smith,Defensive Rebound,25,25
+1:37,Vermont,Everett Duncan,Missed Three Point Jumper,25,25
+1:37,Florida State,Mfiondu Kabengele,Defensive Rebound,25,25
+1:29,Florida State,Devin Vassell,Missed Layup,25,25
+1:29,Vermont,Anthony Lamb,Block,25,25
+1:29,Vermont,Anthony Lamb,Defensive Rebound,25,25
+1:21,Vermont,Isaiah Moll,Turnover,25,25
+0:54,Florida State,Mfiondu Kabengele,Missed Three Point Jumper,25,25
+0:54,Vermont,Anthony Lamb,Defensive Rebound,25,25
+0:49,Vermont,Stef Smith,Layup,27,25
+0:33,Florida State,Trent Forrest,Jumper,27,27
+0:20,Vermont,None,None,27,27
+0:03,Vermont,Anthony Lamb,Missed Three Point Jumper,27,27
+0:03,Florida State,Devin Vassell,Defensive Rebound,27,27
+0:00,Florida State,None,None,27,27
+20:00,Vermont,None,None,27,27
+19:51,Vermont,Ernie Duncan,Missed Three Point Jumper,27,27
+19:51,Florida State,Christ Koumadje,Defensive Rebound,27,27
+19:39,Florida State,Raiquan Gray,Missed Jumper,27,27
+19:39,Vermont,Stef Smith,Defensive Rebound,27,27
+19:24,Vermont,Ben Shungu,Three Point Jumper,30,27
+19:00,Florida State,Christ Koumadje,Jumper,30,29
+18:27,Vermont,Ben Shungu,Turnover,30,29
+18:27,Florida State,Raiquan Gray,Steal,30,29
+18:22,Florida State,Raiquan Gray,Layup,30,31
+17:52,Florida State,Trent Forrest,Foul,30,31
+17:52,Vermont,Samuel Dingba,Missed Free Throw,30,31
+17:52,Vermont,None,Team Rebound,30,31
+17:52,Vermont,Samuel Dingba,Free Throw,31,31
+17:38,Vermont,Samuel Dingba,Foul,31,31
+17:26,Florida State,Trent Forrest,Missed Jumper,31,31
+17:26,Florida State,Florida State,Offensive Rebound,31,31
+17:24,Vermont,Samuel Dingba,Foul,31,31
+17:20,Florida State,Christ Koumadje,Missed Jumper,31,31
+17:20,Vermont,Ben Shungu,Defensive Rebound,31,31
+17:13,Vermont,Ernie Duncan,Three Point Jumper,34,31
+16:50,Florida State,Mfiondu Kabengele,Jumper,34,33
+16:24,Vermont,Ben Shungu,Jumper,36,33
+16:03,Vermont,Ben Shungu,Foul,36,33
+16:03,Florida State,Trent Forrest,Free Throw,36,34
+16:03,Florida State,Trent Forrest,Free Throw,36,35
+15:46,Vermont,Ben Shungu,Foul,36,35
+15:46,Vermont,Ben Shungu,Turnover,36,35
+15:46,Florida State,None,None,36,35
+15:44,Florida State,Terance Mann,Jumper,36,37
+15:05,Vermont,Stef Smith,Missed Three Point Jumper,36,37
+15:05,Florida State,Mfiondu Kabengele,Block,36,37
+15:05,Vermont,Anthony Lamb,Offensive Rebound,36,37
+14:58,Vermont,Anthony Lamb,Layup,38,37
+14:58,Florida State,M.J. Walker,Foul,38,37
+14:58,Vermont,Anthony Lamb,Free Throw,39,37
+14:51,Florida State,Trent Forrest,Turnover,39,37
+14:30,Vermont,Isaiah Moll,Missed Three Point Jumper,39,37
+14:30,Florida State,Devin Vassell,Defensive Rebound,39,37
+14:20,Florida State,Terance Mann,Missed Layup,39,37
+14:20,Vermont,Ernie Duncan,Defensive Rebound,39,37
+14:08,Florida State,Mfiondu Kabengele,Foul,39,37
+14:08,Vermont,Robin Duncan,Missed Free Throw,39,37
+14:08,Vermont,None,Team Rebound,39,37
+14:08,Vermont,Robin Duncan,Free Throw,40,37
+14:00,Florida State,Devin Vassell,Missed Jumper,40,37
+14:00,Florida State,Mfiondu Kabengele,Offensive Rebound,40,37
+13:41,Florida State,David Nichols,Three Point Jumper,40,40
+13:17,Vermont,Stef Smith,Missed Three Point Jumper,40,40
+13:17,Florida State,Mfiondu Kabengele,Defensive Rebound,40,40
+12:59,Florida State,Terance Mann,Dunk,40,42
+12:34,Vermont,Isaiah Moll,Three Point Jumper,43,42
+12:19,Vermont,Anthony Lamb,Foul,43,42
+12:19,Florida State,Mfiondu Kabengele,Free Throw,43,43
+12:19,Florida State,Mfiondu Kabengele,Free Throw,43,44
+12:02,Vermont,Robin Duncan,Missed Three Point Jumper,43,44
+12:02,Florida State,Mfiondu Kabengele,Defensive Rebound,43,44
+11:46,Florida State,David Nichols,Missed Three Point Jumper,43,44
+11:46,Vermont,Robin Duncan,Defensive Rebound,43,44
+11:39,Vermont,Isaiah Moll,Missed Three Point Jumper,43,44
+11:39,Vermont,Anthony Lamb,Offensive Rebound,43,44
+11:34,Florida State,Terance Mann,Foul,43,44
+11:34,Florida State,None,None,43,44
+11:34,Vermont,Anthony Lamb,Free Throw,44,44
+11:34,Vermont,Anthony Lamb,Free Throw,45,44
+11:20,Florida State,Mfiondu Kabengele,Missed Jumper,45,44
+11:20,Florida State,Florida State,Offensive Rebound,45,44
+11:17,Vermont,Anthony Lamb,Foul,45,44
+11:05,Florida State,Mfiondu Kabengele,Missed Jumper,45,44
+11:05,Vermont,Anthony Lamb,Defensive Rebound,45,44
+10:41,Vermont,Robin Duncan,Turnover,45,44
+10:41,Florida State,David Nichols,Steal,45,44
+10:19,Florida State,David Nichols,Missed Three Point Jumper,45,44
+10:19,Florida State,Terance Mann,Offensive Rebound,45,44
+10:14,Florida State,Terance Mann,Layup,45,46
+9:53,Vermont,Ernie Duncan,Turnover,45,46
+9:53,Florida State,Trent Forrest,Steal,45,46
+9:49,Florida State,Trent Forrest,Missed Layup,45,46
+9:49,Vermont,Samuel Dingba,Block,45,46
+9:49,Florida State,Trent Forrest,Offensive Rebound,45,46
+9:37,Florida State,David Nichols,Missed Jumper,45,46
+9:37,Florida State,Mfiondu Kabengele,Offensive Rebound,45,46
+9:33,Vermont,Samuel Dingba,Foul,45,46
+9:33,Florida State,Mfiondu Kabengele,Free Throw,45,47
+9:33,Florida State,Mfiondu Kabengele,Free Throw,45,48
+9:11,Vermont,Ernie Duncan,Missed Jumper,45,48
+9:11,Florida State,David Nichols,Defensive Rebound,45,48
+9:04,Florida State,Mfiondu Kabengele,Dunk,45,50
+9:01,Vermont,None,None,45,50
+8:40,Florida State,M.J. Walker,Foul,45,50
+8:39,Vermont,Stef Smith,Three Point Jumper,48,50
+8:21,Florida State,Raiquan Gray,Foul,48,50
+8:21,Florida State,Raiquan Gray,Turnover,48,50
+8:04,Vermont,Ben Shungu,Missed Layup,48,50
+8:04,Vermont,Vermont,Offensive Rebound,48,50
+8:02,Florida State,Raiquan Gray,Foul,48,50
+8:02,Florida State,None,None,48,50
+8:02,Vermont,Anthony Lamb,Missed Free Throw,48,50
+8:02,Florida State,Terance Mann,Defensive Rebound,48,50
+7:45,Vermont,Ernie Duncan,Foul,48,50
+7:45,Florida State,Terance Mann,Free Throw,48,51
+7:45,Florida State,Terance Mann,Free Throw,48,52
+7:22,Florida State,David Nichols,Foul,48,52
+7:22,Vermont,Anthony Lamb,Missed Free Throw,48,52
+7:22,Florida State,Devin Vassell,Defensive Rebound,48,52
+7:02,Florida State,Trent Forrest,Missed Jumper,48,52
+7:02,Florida State,David Nichols,Offensive Rebound,48,52
+6:57,Vermont,Stef Smith,Foul,48,52
+6:57,Florida State,David Nichols,Free Throw,48,53
+6:57,Florida State,David Nichols,Missed Free Throw,48,53
+6:57,Vermont,Isaiah Moll,Defensive Rebound,48,53
+6:41,Vermont,Stef Smith,Turnover,48,53
+6:31,Florida State,Devin Vassell,Missed Three Point Jumper,48,53
+6:31,Vermont,Isaiah Moll,Defensive Rebound,48,53
+6:18,Vermont,Anthony Lamb,Turnover,48,53
+6:18,Florida State,Mfiondu Kabengele,Steal,48,53
+6:12,Florida State,Terance Mann,Layup,48,55
+5:57,Vermont,Stef Smith,Three Point Jumper,51,55
+5:28,Florida State,Mfiondu Kabengele,Turnover,51,55
+5:20,Vermont,Anthony Lamb,Missed Three Point Jumper,51,55
+5:20,Florida State,Terance Mann,Defensive Rebound,51,55
+5:09,Florida State,M.J. Walker,Layup,51,57
+4:51,Vermont,Stef Smith,Missed Layup,51,57
+4:51,Florida State,M.J. Walker,Defensive Rebound,51,57
+4:28,Florida State,Terance Mann,Layup,51,59
+4:27,Vermont,None,None,51,59
+4:15,Florida State,Mfiondu Kabengele,Foul,51,59
+4:15,Vermont,Anthony Lamb,Free Throw,52,59
+4:15,Vermont,Anthony Lamb,Free Throw,53,59
+3:56,Florida State,Mfiondu Kabengele,Dunk,53,61
+3:37,Vermont,Stef Smith,Missed Layup,53,61
+3:37,Florida State,Terance Mann,Block,53,61
+3:37,Florida State,Terance Mann,Defensive Rebound,53,61
+3:35,Vermont,Stef Smith,Foul,53,61
+3:35,Florida State,Terance Mann,Free Throw,53,62
+3:35,Florida State,Terance Mann,Missed Free Throw,53,62
+3:35,Vermont,Everett Duncan,Defensive Rebound,53,62
+3:20,Vermont,Ernie Duncan,Three Point Jumper,56,62
+2:49,Florida State,M.J. Walker,Missed Jumper,56,62
+2:49,Florida State,Mfiondu Kabengele,Offensive Rebound,56,62
+2:43,Vermont,Everett Duncan,Foul,56,62
+2:43,Florida State,Mfiondu Kabengele,Free Throw,56,63
+2:43,Florida State,Mfiondu Kabengele,Free Throw,56,64
+2:38,Vermont,Stef Smith,Layup,58,64
+2:12,Vermont,Ernie Duncan,Foul,58,64
+2:12,Florida State,Terance Mann,Free Throw,58,65
+2:12,Florida State,Terance Mann,Free Throw,58,66
+2:12,Florida State,None,None,58,66
+1:57,Vermont,Anthony Lamb,Missed Three Point Jumper,58,66
+1:57,Florida State,Terance Mann,Defensive Rebound,58,66
+1:39,Vermont,Ben Shungu,Foul,58,66
+1:39,Florida State,Trent Forrest,Free Throw,58,67
+1:39,Florida State,Trent Forrest,Free Throw,58,68
+1:31,Vermont,Ben Shungu,Turnover,58,68
+1:31,Florida State,M.J. Walker,Steal,58,68
+1:31,Florida State,None,None,58,68
+1:26,Vermont,Stef Smith,Foul,58,68
+1:26,Florida State,Mfiondu Kabengele,Free Throw,58,69
+1:26,Florida State,Mfiondu Kabengele,Missed Free Throw,58,69
+1:26,Vermont,Stef Smith,Defensive Rebound,58,69
+1:21,Vermont,Everett Duncan,Missed Three Point Jumper,58,69
+1:21,Florida State,Devin Vassell,Defensive Rebound,58,69
+1:10,Vermont,Stef Smith,Foul,58,69
+1:10,Florida State,Terance Mann,Free Throw,58,70
+1:10,Florida State,Terance Mann,Free Throw,58,71
+1:05,Vermont,Ben Shungu,Three Point Jumper,61,71
+0:55,Florida State,None,None,61,71
+0:53,Vermont,Everett Duncan,Foul,61,71
+0:53,Florida State,Mfiondu Kabengele,Free Throw,61,72
+0:53,Florida State,Mfiondu Kabengele,Missed Free Throw,61,72
+0:53,Vermont,Ben Shungu,Defensive Rebound,61,72
+0:48,Vermont,Anthony Lamb,Missed Three Point Jumper,61,72
+0:48,Florida State,Mfiondu Kabengele,Defensive Rebound,61,72
+0:44,Florida State,Mfiondu Kabengele,Turnover,61,72
+0:44,Vermont,Ernie Duncan,Steal,61,72
+0:38,Vermont,Ernie Duncan,Three Point Jumper,64,72
+0:35,Vermont,Anthony Lamb,Foul,64,72
+0:35,Florida State,Trent Forrest,Free Throw,64,73
+0:35,Florida State,Trent Forrest,Free Throw,64,74
+0:28,Vermont,Anthony Lamb,Three Point Jumper,67,74
+0:24,Vermont,None,None,67,74
+0:19,Vermont,Everett Duncan,Foul,67,74
+0:19,Florida State,Devin Vassell,Free Throw,67,75
+0:19,Florida State,Devin Vassell,Free Throw,67,76
+0:14,Vermont,Ben Shungu,Layup,69,76
+0:00,Florida State,None,None,69,76

@@ -1,0 +1,289 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:41,New Hampshire,Chris Lester,Turnover,0,0
+19:22,Vermont,Stef Smith,Missed Layup,0,0
+19:22,New Hampshire,Chris Lester,Defensive Rebound,0,0
+19:02,New Hampshire,Josh Hopkins,Missed Jumper,0,0
+19:02,Vermont,Robin Duncan,Defensive Rebound,0,0
+18:41,Vermont,Anthony Lamb,Jumper,0,2
+18:05,New Hampshire,Chris Lester,Missed Jumper,0,2
+18:05,Vermont,Anthony Lamb,Defensive Rebound,0,2
+17:58,Vermont,Stef Smith,Turnover,0,2
+17:58,New Hampshire,Nick Guadarrama,Steal,0,2
+17:47,New Hampshire,Chris Lester,Missed Three Point Jumper,0,2
+17:47,Vermont,Robin Duncan,Defensive Rebound,0,2
+17:25,Vermont,Anthony Lamb,Jumper,0,4
+16:52,New Hampshire,Marque Maultsby,Jumper,2,4
+16:36,New Hampshire,Josh Hopkins,Foul,2,4
+16:36,Vermont,Stef Smith,Free Throw,2,5
+16:36,Vermont,Stef Smith,Missed Free Throw,2,5
+16:36,New Hampshire,Nick Guadarrama,Defensive Rebound,2,5
+16:20,New Hampshire,Nick Guadarrama,Missed Layup,2,5
+16:20,Vermont,Samuel Dingba,Defensive Rebound,2,5
+16:07,Vermont,Anthony Lamb,Turnover,2,5
+15:53,New Hampshire,Chris Lester,Layup,4,5
+15:34,Vermont,Anthony Lamb,Missed Jumper,4,5
+15:34,New Hampshire,Nick Guadarrama,Defensive Rebound,4,5
+15:22,Vermont,Stef Smith,Foul,4,5
+15:22,Vermont,None,None,4,5
+15:16,New Hampshire,Nick Guadarrama,Three Point Jumper,7,5
+14:43,Vermont,Ernie Duncan,Foul,7,5
+14:43,Vermont,Ernie Duncan,Turnover,7,5
+14:20,Vermont,Ernie Duncan,Foul,7,5
+14:05,New Hampshire,Chris Lester,Missed Three Point Jumper,7,5
+14:05,Vermont,Anthony Lamb,Defensive Rebound,7,5
+13:58,Vermont,Anthony Lamb,Layup,7,7
+13:40,New Hampshire,Josh Hopkins,Missed Three Point Jumper,7,7
+13:40,Vermont,Anthony Lamb,Defensive Rebound,7,7
+13:27,Vermont,Samuel Dingba,Layup,7,9
+12:52,New Hampshire,Jordan Reed,Missed Three Point Jumper,7,9
+12:52,Vermont,Stef Smith,Defensive Rebound,7,9
+12:38,Vermont,Anthony Lamb,Missed Three Point Jumper,7,9
+12:38,New Hampshire,Marque Maultsby,Defensive Rebound,7,9
+12:32,New Hampshire,Marque Maultsby,Three Point Jumper,10,9
+12:13,Vermont,Stef Smith,Missed Layup,10,9
+12:13,Vermont,Vermont,Offensive Rebound,10,9
+12:10,Vermont,Everett Duncan,Missed Three Point Jumper,10,9
+12:10,New Hampshire,David Watkins,Defensive Rebound,10,9
+12:03,New Hampshire,Mark Carbone,Missed Three Point Jumper,10,9
+12:03,Vermont,Anthony Lamb,Defensive Rebound,10,9
+11:48,Vermont,Anthony Lamb,Jumper,10,11
+11:19,New Hampshire,Jordan Reed,Foul,10,11
+11:19,New Hampshire,Jordan Reed,Turnover,10,11
+11:19,Vermont,None,None,10,11
+10:57,Vermont,Anthony Lamb,Three Point Jumper,10,14
+10:27,New Hampshire,Nick Guadarrama,Missed Layup,10,14
+10:27,Vermont,Everett Duncan,Defensive Rebound,10,14
+10:08,Vermont,Anthony Lamb,Missed Jumper,10,14
+10:08,Vermont,Robin Duncan,Offensive Rebound,10,14
+9:59,New Hampshire,Mark Carbone,Foul,10,14
+9:37,Vermont,Robin Duncan,Missed Three Point Jumper,10,14
+9:37,New Hampshire,Nick Guadarrama,Defensive Rebound,10,14
+9:11,New Hampshire,Mark Carbone,Layup,12,14
+8:54,New Hampshire,Marque Maultsby,Foul,12,14
+8:44,Vermont,Everett Duncan,Layup,12,16
+8:18,New Hampshire,David Watkins,Missed Three Point Jumper,12,16
+8:18,Vermont,Stef Smith,Defensive Rebound,12,16
+8:06,Vermont,Robin Duncan,Missed Three Point Jumper,12,16
+8:06,New Hampshire,David Watkins,Defensive Rebound,12,16
+8:04,Vermont,Ryan Davis,Foul,12,16
+7:44,Vermont,Ra Kpedi,Foul,12,16
+7:44,Vermont,None,None,12,16
+7:44,New Hampshire,David Watkins,Free Throw,13,16
+7:44,New Hampshire,David Watkins,Free Throw,14,16
+7:32,Vermont,Stef Smith,Jumper,14,18
+7:06,New Hampshire,Nick Guadarrama,Missed Three Point Jumper,14,18
+7:06,Vermont,Everett Duncan,Defensive Rebound,14,18
+6:47,Vermont,Ryan Davis,Three Point Jumper,14,21
+6:44,New Hampshire,None,None,14,21
+6:32,New Hampshire,David Watkins,Missed Jumper,14,21
+6:32,Vermont,Everett Duncan,Defensive Rebound,14,21
+6:12,Vermont,Ryan Davis,Missed Layup,14,21
+6:12,Vermont,Ryan Davis,Offensive Rebound,14,21
+6:11,Vermont,Ryan Davis,Layup,14,23
+6:00,New Hampshire,Marque Maultsby,Turnover,14,23
+5:48,Vermont,Stef Smith,Missed Three Point Jumper,14,23
+5:48,New Hampshire,Marque Maultsby,Defensive Rebound,14,23
+5:33,New Hampshire,Marque Maultsby,Jumper,16,23
+5:09,New Hampshire,Jordan Reed,Foul,16,23
+5:02,New Hampshire,Marque Maultsby,Foul,16,23
+5:02,Vermont,Robin Duncan,Free Throw,16,24
+5:02,Vermont,Robin Duncan,Free Throw,16,25
+4:32,New Hampshire,David Watkins,Foul,16,25
+4:32,New Hampshire,David Watkins,Turnover,16,25
+4:18,Vermont,Anthony Lamb,Layup,16,27
+3:54,Vermont,Everett Duncan,Foul,16,27
+3:54,Vermont,None,None,16,27
+3:54,New Hampshire,Josh Hopkins,Free Throw,17,27
+3:54,New Hampshire,Josh Hopkins,Free Throw,18,27
+3:54,New Hampshire,Josh Hopkins,Free Throw,19,27
+3:35,Vermont,Ben Shungu,Layup,19,29
+3:05,New Hampshire,Nick Guadarrama,Dunk,21,29
+2:46,Vermont,Stef Smith,Missed Jumper,21,29
+2:46,Vermont,None,Team Rebound,21,29
+2:46,New Hampshire,Nick Guadarrama,Foul,21,29
+2:46,Vermont,Samuel Dingba,Free Throw,21,30
+2:46,Vermont,Samuel Dingba,Free Throw,21,31
+2:21,New Hampshire,Mark Carbone,Missed Three Point Jumper,21,31
+2:21,Vermont,Ben Shungu,Defensive Rebound,21,31
+2:14,Vermont,Ben Shungu,Turnover,21,31
+2:09,New Hampshire,Marque Maultsby,Layup,23,31
+1:59,Vermont,Everett Duncan,Three Point Jumper,23,34
+1:26,New Hampshire,Nick Guadarrama,Three Point Jumper,26,34
+1:02,Vermont,Samuel Dingba,Layup,26,36
+0:35,New Hampshire,Nick Guadarrama,Missed Layup,26,36
+0:35,Vermont,Samuel Dingba,Defensive Rebound,26,36
+0:09,Vermont,Ben Shungu,Layup,26,38
+0:09,New Hampshire,Marque Maultsby,Foul,26,38
+0:09,Vermont,Ben Shungu,Missed Free Throw,26,38
+0:09,New Hampshire,Nick Guadarrama,Defensive Rebound,26,38
+0:00,New Hampshire,Josh Hopkins,Missed Three Point Jumper,26,38
+0:00,New Hampshire,Chris Lester,Offensive Rebound,26,38
+0:00,Vermont,None,None,26,38
+19:50,New Hampshire,Josh Hopkins,Foul,26,38
+19:50,New Hampshire,Josh Hopkins,Turnover,26,38
+19:27,Vermont,Robin Duncan,Missed Layup,26,38
+19:27,New Hampshire,Nick Guadarrama,Defensive Rebound,26,38
+19:17,New Hampshire,Marque Maultsby,Missed Layup,26,38
+19:17,Vermont,Stef Smith,Defensive Rebound,26,38
+19:11,Vermont,Anthony Lamb,Turnover,26,38
+18:45,New Hampshire,Nick Guadarrama,Turnover,26,38
+18:44,Vermont,Samuel Dingba,Steal,26,38
+18:28,Vermont,Stef Smith,Jumper,26,40
+18:00,New Hampshire,Jordan Reed,Turnover,26,40
+18:00,Vermont,Stef Smith,Steal,26,40
+17:52,New Hampshire,Jordan Reed,Foul,26,40
+17:52,Vermont,Samuel Dingba,Free Throw,26,41
+17:52,Vermont,Samuel Dingba,Free Throw,26,42
+17:28,New Hampshire,Nick Guadarrama,Turnover,26,42
+17:11,Vermont,Anthony Lamb,Layup,26,44
+16:58,New Hampshire,Josh Hopkins,Missed Three Point Jumper,26,44
+16:58,Vermont,Stef Smith,Defensive Rebound,26,44
+16:50,New Hampshire,Chris Lester,Foul,26,44
+16:50,Vermont,Anthony Lamb,Free Throw,26,45
+16:50,Vermont,Anthony Lamb,Free Throw,26,46
+16:20,Vermont,Samuel Dingba,Foul,26,46
+16:20,New Hampshire,David Hall,Missed Free Throw,26,46
+16:20,New Hampshire,None,Team Rebound,26,46
+16:20,New Hampshire,David Hall,Free Throw,27,46
+16:10,Vermont,Ernie Duncan,Three Point Jumper,27,49
+15:51,New Hampshire,Nick Guadarrama,Turnover,27,49
+15:51,Vermont,None,None,27,49
+15:37,Vermont,Stef Smith,Missed Layup,27,49
+15:37,New Hampshire,Nick Guadarrama,Defensive Rebound,27,49
+15:20,Vermont,Samuel Dingba,Foul,27,49
+15:20,New Hampshire,Mark Carbone,Free Throw,28,49
+15:20,New Hampshire,Mark Carbone,Free Throw,29,49
+15:10,Vermont,Ernie Duncan,Layup,29,51
+14:55,New Hampshire,Marque Maultsby,Missed Layup,29,51
+14:55,Vermont,Anthony Lamb,Defensive Rebound,29,51
+14:48,Vermont,Ernie Duncan,Turnover,29,51
+14:24,New Hampshire,David Watkins,Missed Jumper,29,51
+14:24,Vermont,Stef Smith,Defensive Rebound,29,51
+14:17,Vermont,Stef Smith,Missed Layup,29,51
+14:17,New Hampshire,Marque Maultsby,Defensive Rebound,29,51
+13:58,New Hampshire,Nick Guadarrama,Turnover,29,51
+13:31,Vermont,Anthony Lamb,Missed Jumper,29,51
+13:31,New Hampshire,David Watkins,Defensive Rebound,29,51
+13:21,New Hampshire,Josh Hopkins,Missed Three Point Jumper,29,51
+13:21,Vermont,Everett Duncan,Defensive Rebound,29,51
+13:14,New Hampshire,Marque Maultsby,Foul,29,51
+13:14,Vermont,Robin Duncan,Free Throw,29,52
+13:14,Vermont,Robin Duncan,Free Throw,29,53
+13:03,New Hampshire,Mark Carbone,Turnover,29,53
+13:03,Vermont,Anthony Lamb,Steal,29,53
+12:53,Vermont,Ernie Duncan,Missed Three Point Jumper,29,53
+12:53,New Hampshire,Mark Carbone,Defensive Rebound,29,53
+12:42,New Hampshire,Nick Guadarrama,Three Point Jumper,32,53
+12:40,New Hampshire,None,None,32,53
+12:40,Vermont,None,None,32,53
+12:26,Vermont,Anthony Lamb,Jumper,32,55
+11:58,New Hampshire,Jordan Reed,Jumper,34,55
+11:40,New Hampshire,Jordan Reed,Foul,34,55
+11:40,Vermont,None,None,34,55
+11:33,Vermont,Ernie Duncan,Jumper,34,57
+11:17,New Hampshire,David Hall,Turnover,34,57
+11:16,Vermont,Anthony Lamb,Steal,34,57
+11:04,Vermont,Everett Duncan,Missed Three Point Jumper,34,57
+11:04,Vermont,Ra Kpedi,Offensive Rebound,34,57
+11:00,New Hampshire,David Watkins,Foul,34,57
+11:00,Vermont,Ra Kpedi,Free Throw,34,58
+11:00,Vermont,Ra Kpedi,Missed Free Throw,34,58
+11:00,New Hampshire,Luke Rosinski,Defensive Rebound,34,58
+10:31,New Hampshire,Luke Rosinski,Missed Jumper,34,58
+10:31,Vermont,Ben Shungu,Defensive Rebound,34,58
+10:22,Vermont,Ernie Duncan,Missed Three Point Jumper,34,58
+10:19,Vermont,None,Team Rebound,34,58
+10:19,New Hampshire,Luke Rosinski,Foul,34,58
+10:19,Vermont,Ra Kpedi,Missed Free Throw,34,58
+10:19,Vermont,None,Team Rebound,34,58
+10:19,Vermont,Ra Kpedi,Missed Free Throw,34,58
+10:19,Vermont,None,Team Rebound,34,58
+10:08,Vermont,Anthony Lamb,Turnover,34,58
+10:08,New Hampshire,Nick Guadarrama,Steal,34,58
+10:07,Vermont,Anthony Lamb,Foul,34,58
+9:39,New Hampshire,Jordan Reed,Missed Three Point Jumper,34,58
+9:39,Vermont,Stef Smith,Defensive Rebound,34,58
+9:19,New Hampshire,Nick Guadarrama,Foul,34,58
+9:19,Vermont,Anthony Lamb,Free Throw,34,59
+9:18,Vermont,Anthony Lamb,Missed Free Throw,34,59
+9:18,New Hampshire,None,Team Rebound,34,59
+8:55,New Hampshire,Nick Guadarrama,Missed Three Point Jumper,34,59
+8:55,Vermont,Anthony Lamb,Defensive Rebound,34,59
+8:34,Vermont,Stef Smith,Three Point Jumper,34,62
+8:17,New Hampshire,Chris Lester,Jumper,36,62
+7:50,Vermont,None,None,36,62
+7:43,Vermont,Ben Shungu,Layup,36,64
+7:11,New Hampshire,Josh Hopkins,Missed Three Point Jumper,36,64
+7:11,New Hampshire,New Hampshire,Offensive Rebound,36,64
+7:11,New Hampshire,New Hampshire ,Turnover,36,64
+6:55,Vermont,Ben Shungu,Turnover,36,64
+6:55,New Hampshire,Nick Guadarrama,Steal,36,64
+6:54,Vermont,Ben Shungu,Foul,36,64
+6:36,New Hampshire,Chris Lester,Turnover,36,64
+6:35,Vermont,Ben Shungu,Steal,36,64
+6:31,Vermont,Ben Shungu,Layup,36,66
+6:11,New Hampshire,Nick Guadarrama,Turnover,36,66
+6:10,Vermont,Ra Kpedi,Steal,36,66
+5:59,Vermont,Ryan Davis,Missed Layup,36,66
+5:59,New Hampshire,Marque Maultsby,Defensive Rebound,36,66
+5:52,New Hampshire,Jordan Reed,Missed Three Point Jumper,36,66
+5:52,Vermont,Everett Duncan,Defensive Rebound,36,66
+5:32,Vermont,Stef Smith,Missed Three Point Jumper,36,66
+5:32,New Hampshire,Chris Lester,Defensive Rebound,36,66
+5:27,Vermont,Ra Kpedi,Foul,36,66
+5:14,Vermont,Everett Duncan,Foul,36,66
+5:14,New Hampshire,Josh Hopkins,Missed Free Throw,36,66
+5:14,New Hampshire,None,Team Rebound,36,66
+5:14,New Hampshire,Josh Hopkins,Free Throw,37,66
+4:54,New Hampshire,Nick Guadarrama,Foul,37,66
+4:54,Vermont,Ryan Davis,Missed Free Throw,37,66
+4:54,Vermont,None,Team Rebound,37,66
+4:54,Vermont,Ryan Davis,Free Throw,37,67
+4:27,New Hampshire,Josh Hopkins,Three Point Jumper,40,67
+4:09,Vermont,Stef Smith,Missed Layup,40,67
+4:09,New Hampshire,Luke Rosinski,Block,40,67
+4:08,New Hampshire,Luke Rosinski,Defensive Rebound,40,67
+3:55,New Hampshire,David Watkins,Missed Jumper,40,67
+3:55,Vermont,Ra Kpedi,Defensive Rebound,40,67
+3:44,Vermont,Everett Duncan,Missed Three Point Jumper,40,67
+3:44,New Hampshire,Luke Rosinski,Defensive Rebound,40,67
+3:39,New Hampshire,Josh Hopkins,Layup,42,67
+3:39,Vermont,Ben Shungu,Foul,42,67
+3:39,Vermont,None,None,42,67
+3:39,New Hampshire,Josh Hopkins,Missed Free Throw,42,67
+3:39,New Hampshire,David Watkins,Offensive Rebound,42,67
+3:38,Vermont,Ben Shungu,Foul,42,67
+3:38,New Hampshire,David Watkins,Missed Free Throw,42,67
+3:38,Vermont,Stef Smith,Defensive Rebound,42,67
+3:18,Vermont,Ra Kpedi,Dunk,42,69
+2:51,New Hampshire,Nick Guadarrama,Missed Jumper,42,69
+2:51,Vermont,Stef Smith,Defensive Rebound,42,69
+2:45,New Hampshire,Luke Rosinski,Foul,42,69
+2:45,Vermont,Ra Kpedi,Missed Free Throw,42,69
+2:45,Vermont,None,Team Rebound,42,69
+2:45,Vermont,Ra Kpedi,Free Throw,42,70
+2:32,New Hampshire,Marque Maultsby,Layup,44,70
+2:13,Vermont,Ben Shungu,Missed Jumper,44,70
+2:13,New Hampshire,David Watkins,Defensive Rebound,44,70
+2:12,New Hampshire,Marque Maultsby,Missed Layup,44,70
+2:12,Vermont,Ra Kpedi,Defensive Rebound,44,70
+1:44,Vermont,Stef Smith,Missed Three Point Jumper,44,70
+1:44,Vermont,Ryan Davis,Offensive Rebound,44,70
+1:42,Vermont,Ryan Davis,Missed Layup,44,70
+1:42,Vermont,Ra Kpedi,Offensive Rebound,44,70
+1:41,Vermont,Ra Kpedi,Layup,44,72
+1:41,New Hampshire,Luke Rosinski,Foul,44,72
+1:41,Vermont,Ra Kpedi,Free Throw,44,73
+1:27,New Hampshire,David Watkins,Turnover,44,73
+1:05,Vermont,Kevin Garrison,Missed Layup,44,73
+1:05,New Hampshire,New Hampshire,Defensive Rebound,44,73
+0:54,New Hampshire,Marque Maultsby,Missed Layup,44,73
+0:54,Vermont,Ryan Davis,Defensive Rebound,44,73
+0:29,Vermont,Ben Shungu,Missed Three Point Jumper,44,73
+0:29,New Hampshire,David Watkins,Defensive Rebound,44,73
+0:24,Vermont,Jake Lorenzo,Foul,44,73
+0:24,New Hampshire,Josh Hopkins,Missed Free Throw,44,73
+0:24,New Hampshire,None,Team Rebound,44,73
+0:24,New Hampshire,Josh Hopkins,Missed Free Throw,44,73
+0:24,Vermont,Everett Duncan,Defensive Rebound,44,73
+0:00,Vermont,None,None,44,73

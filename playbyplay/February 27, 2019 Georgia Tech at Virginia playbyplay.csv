@@ -1,0 +1,273 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Virginia,None,None,0,0
+19:44,Virginia,De'Andre Hunter,Three Point Jumper,0,3
+19:16,Georgia Tech,Michael Devoe,Jumper,2,3
+18:56,Virginia,De'Andre Hunter,Turnover,2,3
+18:56,Georgia Tech,Moses Wright,Steal,2,3
+18:49,Georgia Tech,Kristian Sjolund,Missed Jumper,2,3
+18:49,Georgia Tech,Kristian Sjolund,Offensive Rebound,2,3
+18:49,Georgia Tech,None,None,4,3
+18:28,Virginia,Mamadi Diakite,Jumper,4,5
+18:12,Georgia Tech,Jose Alvarado,Layup,6,5
+17:57,Georgia Tech,Jose Alvarado,Foul,6,5
+17:54,Virginia,Ty Jerome,Missed Jumper,6,5
+17:54,Georgia Tech,Michael Devoe,Block,6,5
+17:54,Georgia Tech,Moses Wright,Defensive Rebound,6,5
+17:35,Georgia Tech,James Banks III,Missed Jumper,6,5
+17:35,Virginia,Mamadi Diakite,Defensive Rebound,6,5
+17:16,Virginia,Kyle Guy,Missed Three Point Jumper,6,5
+17:16,Georgia Tech,Moses Wright,Defensive Rebound,6,5
+17:02,Georgia Tech,Michael Devoe,Turnover,6,5
+16:45,Virginia,Mamadi Diakite,Missed Jumper,6,5
+16:45,Virginia,De'Andre Hunter,Offensive Rebound,6,5
+16:38,Georgia Tech,James Banks III,Foul,6,5
+16:38,Virginia,De'Andre Hunter,Free Throw,6,6
+16:38,Virginia,De'Andre Hunter,Free Throw,6,7
+16:17,Virginia,Mamadi Diakite,Foul,6,7
+16:17,Georgia Tech,Moses Wright,Missed Free Throw,6,7
+16:17,Georgia Tech,None,Team Rebound,6,7
+16:17,Georgia Tech,Moses Wright,Missed Free Throw,6,7
+16:17,Virginia,Jack Salt,Defensive Rebound,6,7
+15:59,Virginia,Ty Jerome,Missed Jumper,6,7
+15:59,Georgia Tech,James Banks III,Defensive Rebound,6,7
+15:46,Georgia Tech,James Banks III,Jumper,8,7
+15:21,Virginia,Braxton Key,Missed Three Point Jumper,8,7
+15:21,Georgia Tech,Kristian Sjolund,Defensive Rebound,8,7
+14:58,Georgia Tech,Kristian Sjolund,Three Point Jumper,11,7
+14:42,Virginia,Braxton Key,Three Point Jumper,11,10
+14:17,Georgia Tech,Moses Wright,Turnover,11,10
+14:17,Virginia,None,None,11,10
+14:06,Virginia,De'Andre Hunter,Dunk,11,12
+14:06,Georgia Tech,Abdoulaye Gueye,Foul,11,12
+14:06,Virginia,De'Andre Hunter,Free Throw,11,13
+13:41,Georgia Tech,Abdoulaye Gueye,Missed Jumper,11,13
+13:41,Georgia Tech,Georgia Tech,Offensive Rebound,11,13
+13:34,Georgia Tech,Moses Wright,Missed Jumper,11,13
+13:34,Virginia,Braxton Key,Defensive Rebound,11,13
+13:13,Virginia,De'Andre Hunter,Layup,11,15
+12:49,Georgia Tech,Jose Alvarado,Missed Jumper,11,15
+12:49,Virginia,Braxton Key,Defensive Rebound,11,15
+12:35,Virginia,Kyle Guy,Three Point Jumper,11,18
+12:31,Georgia Tech,None,None,11,18
+12:19,Georgia Tech,James Banks III,Jumper,13,18
+12:00,Virginia,Kyle Guy,Missed Layup,13,18
+12:00,Georgia Tech,Kristian Sjolund,Defensive Rebound,13,18
+11:35,Georgia Tech,Michael Devoe,Turnover,13,18
+11:35,Virginia,Braxton Key,Steal,13,18
+11:21,Virginia,Kyle Guy,Three Point Jumper,13,21
+10:54,Georgia Tech,James Banks III,Missed Jumper,13,21
+10:54,Virginia,Ty Jerome,Defensive Rebound,13,21
+10:38,Virginia,Kyle Guy,Missed Three Point Jumper,13,21
+10:38,Georgia Tech,James Banks III,Defensive Rebound,13,21
+10:18,Georgia Tech,James Banks III,Missed Jumper,13,21
+10:18,Virginia,None,Team Rebound,13,21
+10:08,Georgia Tech,Moses Wright,Foul,13,21
+10:08,Virginia,None,None,13,21
+9:47,Virginia,Jay Huff,Dunk,13,23
+9:18,Virginia,De'Andre Hunter,Foul,13,23
+9:18,Georgia Tech,James Banks III,Free Throw,14,23
+9:18,Georgia Tech,James Banks III,Free Throw,15,23
+8:59,Virginia,De'Andre Hunter,Layup,15,25
+8:43,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,15,25
+8:43,Georgia Tech,Moses Wright,Offensive Rebound,15,25
+8:25,Georgia Tech,Kristian Sjolund,Missed Three Point Jumper,15,25
+8:25,Virginia,Jay Huff,Defensive Rebound,15,25
+8:08,Virginia,Ty Jerome,Three Point Jumper,15,28
+7:48,Georgia Tech,Kristian Sjolund,Turnover,15,28
+7:48,Virginia,None,None,15,28
+7:31,Virginia,De'Andre Hunter,Missed Three Point Jumper,15,28
+7:31,Virginia,Virginia,Offensive Rebound,15,28
+7:22,Virginia,Ty Jerome,Layup,15,30
+6:51,Georgia Tech,Brandon Alston,Missed Layup,15,30
+6:51,Virginia,Mamadi Diakite,Block,15,30
+6:51,Virginia,De'Andre Hunter,Defensive Rebound,15,30
+6:36,Virginia,De'Andre Hunter,Jumper,15,32
+6:10,Georgia Tech,James Banks III,Layup,17,32
+6:10,Virginia,Jay Huff,Foul,17,32
+6:10,Georgia Tech,James Banks III,Free Throw,18,32
+5:55,Virginia,Ty Jerome,Missed Jumper,18,32
+5:55,Virginia,Ty Jerome,Offensive Rebound,18,32
+5:55,Virginia,None,None,18,34
+5:36,Georgia Tech,Brandon Alston,Missed Three Point Jumper,18,34
+5:36,Virginia,Kyle Guy,Defensive Rebound,18,34
+5:20,Virginia,Ty Jerome,Turnover,18,34
+5:07,Georgia Tech,Michael Devoe,Missed Three Point Jumper,18,34
+5:07,Virginia,De'Andre Hunter,Defensive Rebound,18,34
+4:51,Virginia,De'Andre Hunter,Missed Three Point Jumper,18,34
+4:51,Georgia Tech,James Banks III,Defensive Rebound,18,34
+4:40,Georgia Tech,Curtis Haywood II,Missed Three Point Jumper,18,34
+4:40,Virginia,Ty Jerome,Defensive Rebound,18,34
+4:23,Virginia,Jay Huff,Missed Layup,18,34
+4:23,Georgia Tech,James Banks III,Defensive Rebound,18,34
+4:17,Georgia Tech,Jose Alvarado,Layup,20,34
+3:57,Virginia,Ty Jerome,Jumper,20,36
+3:28,Georgia Tech,James Banks III,Missed Layup,20,36
+3:28,Virginia,Jay Huff,Block,20,36
+3:28,Virginia,Jay Huff,Defensive Rebound,20,36
+3:09,Virginia,Ty Jerome,Missed Jumper,20,36
+3:09,Virginia,Jay Huff,Offensive Rebound,20,36
+3:09,Virginia,None,None,20,38
+3:05,Georgia Tech,None,None,20,38
+3:05,Virginia,None,None,20,38
+2:49,Georgia Tech,Abdoulaye Gueye,Missed Jumper,20,38
+2:49,Virginia,Kihei Clark,Defensive Rebound,20,38
+2:25,Virginia,De'Andre Hunter,Missed Jumper,20,38
+2:25,Virginia,Braxton Key,Offensive Rebound,20,38
+2:20,Georgia Tech,None,None,20,38
+2:20,Virginia,Braxton Key,Turnover,20,38
+2:20,Georgia Tech,Kristian Sjolund,Steal,20,38
+1:54,Georgia Tech,Shembari Phillips,Missed Layup,20,38
+1:54,Georgia Tech,Abdoulaye Gueye,Offensive Rebound,20,38
+1:46,Georgia Tech,Abdoulaye Gueye,Missed Jumper,20,38
+1:46,Virginia,Kihei Clark,Defensive Rebound,20,38
+1:26,Virginia,Kihei Clark,Three Point Jumper,20,41
+1:02,Georgia Tech,Moses Wright,Jumper,22,41
+0:42,Virginia,Kyle Guy,Missed Jumper,22,41
+0:42,Georgia Tech,Moses Wright,Block,22,41
+0:42,Georgia Tech,Moses Wright,Defensive Rebound,22,41
+0:35,Georgia Tech,Jose Alvarado,Missed Layup,22,41
+0:35,Georgia Tech,Moses Wright,Offensive Rebound,22,41
+0:31,Georgia Tech,Moses Wright,Missed Jumper,22,41
+0:31,Virginia,Jack Salt,Block,22,41
+0:31,Virginia,Virginia,Defensive Rebound,22,41
+0:31,Virginia,None,None,22,41
+0:12,Virginia,De'Andre Hunter,Foul,22,41
+0:12,Virginia,De'Andre Hunter,Turnover,22,41
+0:03,Georgia Tech,Michael Devoe,Missed Three Point Jumper,22,41
+0:03,Virginia,Braxton Key,Defensive Rebound,22,41
+0:00,Virginia,None,None,22,41
+20:00,Georgia Tech,None,None,22,41
+19:50,Georgia Tech,Kristian Sjolund,Missed Layup,22,41
+19:50,Virginia,Mamadi Diakite,Block,22,41
+19:50,Virginia,Mamadi Diakite,Defensive Rebound,22,41
+19:31,Virginia,Mamadi Diakite,Missed Jumper,22,41
+19:31,Georgia Tech,James Banks III,Defensive Rebound,22,41
+19:11,Georgia Tech,Michael Devoe,Missed Three Point Jumper,22,41
+19:11,Virginia,Mamadi Diakite,Defensive Rebound,22,41
+18:57,Virginia,Mamadi Diakite,Missed Jumper,22,41
+18:57,Virginia,Virginia,Offensive Rebound,22,41
+18:50,Virginia,Ty Jerome,Missed Three Point Jumper,22,41
+18:50,Virginia,Mamadi Diakite,Offensive Rebound,22,41
+18:46,Georgia Tech,Kristian Sjolund,Foul,22,41
+18:31,Virginia,Ty Jerome,Jumper,22,43
+18:07,Virginia,Kihei Clark,Foul,22,43
+17:58,Georgia Tech,Moses Wright,Layup,24,43
+17:44,Virginia,Kyle Guy,Three Point Jumper,24,46
+17:23,Georgia Tech,Moses Wright,Missed Jumper,24,46
+17:23,Virginia,Kyle Guy,Defensive Rebound,24,46
+17:08,Virginia,De'Andre Hunter,Layup,24,48
+16:44,Georgia Tech,Jose Alvarado,Missed Jumper,24,48
+16:44,Virginia,De'Andre Hunter,Defensive Rebound,24,48
+16:30,Virginia,De'Andre Hunter,Missed Three Point Jumper,24,48
+16:30,Georgia Tech,Moses Wright,Defensive Rebound,24,48
+16:15,Georgia Tech,Curtis Haywood II,Missed Layup,24,48
+16:15,Virginia,Mamadi Diakite,Defensive Rebound,24,48
+16:04,Virginia,Kihei Clark,Three Point Jumper,24,51
+15:58,Georgia Tech,None,None,24,51
+15:58,Virginia,None,None,24,51
+15:40,Georgia Tech,Moses Wright,Jumper,26,51
+15:19,Virginia,Ty Jerome,Jumper,26,53
+14:56,Georgia Tech,Abdoulaye Gueye,Dunk,28,53
+14:35,Georgia Tech,Khalid Moore,Foul,28,53
+14:35,Virginia,None,None,28,53
+14:35,Virginia,Ty Jerome,Free Throw,28,54
+14:35,Virginia,Ty Jerome,Missed Free Throw,28,54
+14:35,Georgia Tech,Evan Cole,Defensive Rebound,28,54
+14:18,Virginia,Jack Salt,Foul,28,54
+14:02,Georgia Tech,Abdoulaye Gueye,Jumper,30,54
+13:36,Virginia,Braxton Key,Turnover,30,54
+13:16,Virginia,Jack Salt,Foul,30,54
+13:11,Georgia Tech,Abdoulaye Gueye,Jumper,32,54
+12:48,Georgia Tech,Abdoulaye Gueye,Foul,32,54
+12:48,Virginia,De'Andre Hunter,Free Throw,32,55
+12:48,Virginia,De'Andre Hunter,Free Throw,32,56
+12:40,Georgia Tech,Abdoulaye Gueye,Turnover,32,56
+12:40,Virginia,Kyle Guy,Steal,32,56
+12:26,Virginia,Kihei Clark,Layup,32,58
+12:07,Virginia,Jay Huff,Foul,32,58
+11:50,Virginia,Kihei Clark,Foul,32,58
+11:50,Virginia,None,None,32,58
+11:50,Georgia Tech,Evan Cole,Free Throw,33,58
+11:50,Georgia Tech,Evan Cole,Missed Free Throw,33,58
+11:50,Virginia,Mamadi Diakite,Defensive Rebound,33,58
+11:36,Virginia,Kyle Guy,Turnover,33,58
+11:36,Georgia Tech,Jose Alvarado,Steal,33,58
+11:33,Georgia Tech,Jose Alvarado,Layup,35,58
+11:09,Virginia,Mamadi Diakite,Dunk,35,60
+10:45,Georgia Tech,Evan Cole,Missed Jumper,35,60
+10:45,Georgia Tech,James Banks III,Offensive Rebound,35,60
+10:39,Georgia Tech,Khalid Moore,Missed Layup,35,60
+10:39,Virginia,Mamadi Diakite,Block,35,60
+10:39,Virginia,Ty Jerome,Defensive Rebound,35,60
+10:26,Virginia,Braxton Key,Three Point Jumper,35,63
+10:03,Georgia Tech,Michael Devoe,Layup,37,63
+9:36,Virginia,Kyle Guy,Missed Three Point Jumper,37,63
+9:36,Georgia Tech,James Banks III,Defensive Rebound,37,63
+9:25,Georgia Tech,Michael Devoe,Three Point Jumper,40,63
+8:55,Georgia Tech,Jose Alvarado,Foul,40,63
+8:46,Virginia,Ty Jerome,Layup,40,65
+8:26,Georgia Tech,Shembari Phillips,Missed Three Point Jumper,40,65
+8:26,Virginia,Ty Jerome,Defensive Rebound,40,65
+8:13,Virginia,Ty Jerome,Jumper,40,67
+7:45,Georgia Tech,Jose Alvarado,Three Point Jumper,43,67
+7:27,Virginia,Jay Huff,Turnover,43,67
+7:27,Georgia Tech,Moses Wright,Steal,43,67
+7:16,Georgia Tech,Jose Alvarado,Three Point Jumper,46,67
+6:45,Georgia Tech,Jose Alvarado,Foul,46,67
+6:45,Virginia,None,None,46,67
+6:45,Virginia,Ty Jerome,Missed Free Throw,46,67
+6:45,Virginia,None,Team Rebound,46,67
+6:45,Virginia,Ty Jerome,Free Throw,46,68
+6:32,Georgia Tech,Michael Devoe,Missed Three Point Jumper,46,68
+6:32,Virginia,Kihei Clark,Defensive Rebound,46,68
+6:13,Virginia,Mamadi Diakite,Layup,46,70
+5:53,Georgia Tech,Jose Alvarado,Missed Jumper,46,70
+5:53,Virginia,Mamadi Diakite,Defensive Rebound,46,70
+5:44,Virginia,Braxton Key,Missed Layup,46,70
+5:44,Georgia Tech,Moses Wright,Defensive Rebound,46,70
+5:38,Georgia Tech,Shembari Phillips,Missed Three Point Jumper,46,70
+5:38,Virginia,Braxton Key,Defensive Rebound,46,70
+5:31,Georgia Tech,Moses Wright,Foul,46,70
+5:31,Virginia,Braxton Key,Free Throw,46,71
+5:31,Virginia,Braxton Key,Missed Free Throw,46,71
+5:31,Georgia Tech,Shembari Phillips,Defensive Rebound,46,71
+5:08,Georgia Tech,Michael Devoe,Three Point Jumper,49,71
+4:40,Virginia,Braxton Key,Missed Layup,49,71
+4:40,Virginia,Braxton Key,Offensive Rebound,49,71
+4:40,Georgia Tech,Brandon Alston,Foul,49,71
+4:40,Virginia,Braxton Key,Missed Free Throw,49,71
+4:40,Virginia,None,Team Rebound,49,71
+4:40,Virginia,Braxton Key,Free Throw,49,72
+4:30,Georgia Tech,Brandon Alston,Turnover,49,72
+4:12,Georgia Tech,Shembari Phillips,Foul,49,72
+4:12,Virginia,Kyle Guy,Free Throw,49,73
+4:12,Virginia,Kyle Guy,Free Throw,49,74
+4:02,Georgia Tech,Moses Wright,Turnover,49,74
+4:02,Virginia,Braxton Key,Steal,49,74
+3:38,Virginia,Kyle Guy,Missed Layup,49,74
+3:38,Virginia,Mamadi Diakite,Offensive Rebound,49,74
+3:35,Georgia Tech,Curtis Haywood II,Foul,49,74
+3:35,Virginia,None,None,49,74
+3:35,Virginia,Mamadi Diakite,Missed Free Throw,49,74
+3:35,Virginia,None,Team Rebound,49,74
+3:35,Virginia,Mamadi Diakite,Free Throw,49,75
+3:17,Georgia Tech,James Banks III,Dunk,51,75
+2:55,Virginia,Marco Anthony,Dunk,51,77
+2:27,Georgia Tech,Moses Wright,Missed Three Point Jumper,51,77
+2:27,Virginia,Francesco Badocchi,Defensive Rebound,51,77
+2:15,Virginia,Jay Huff,Dunk,51,79
+2:09,Georgia Tech,None,None,51,79
+2:01,Georgia Tech,James Banks III,Missed Jumper,51,79
+2:01,Virginia,Marco Anthony,Defensive Rebound,51,79
+1:30,Virginia,Marco Anthony,Missed Jumper,51,79
+1:30,Georgia Tech,Evan Cole,Block,51,79
+1:30,Virginia,Virginia,Offensive Rebound,51,79
+1:26,Virginia,Virginia ,Turnover,51,79
+1:17,Georgia Tech,Evan Cole,Missed Jumper,51,79
+1:17,Virginia,Marco Anthony,Defensive Rebound,51,79
+1:08,Virginia,Jay Huff,Dunk,51,81
+0:57,Georgia Tech,Jose Alvarado,Missed Three Point Jumper,51,81
+0:57,Virginia,Kody Stattmann,Defensive Rebound,51,81
+0:29,Virginia,Marco Anthony,Missed Jumper,51,81
+0:29,Virginia,Jay Huff,Offensive Rebound,51,81
+0:00,Virginia,None,None,51,81

@@ -1,0 +1,303 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:38,Duke,RJ Barrett,Three Point Jumper,3,0
+19:20,Virginia,Kyle Guy,Missed Jumper,3,0
+19:20,Duke,Zion Williamson,Defensive Rebound,3,0
+19:09,Duke,RJ Barrett,Missed Jumper,3,0
+19:09,Virginia,De'Andre Hunter,Block,3,0
+19:09,Virginia,De'Andre Hunter,Defensive Rebound,3,0
+18:41,Virginia,Ty Jerome,Missed Layup,3,0
+18:41,Duke,Zion Williamson,Defensive Rebound,3,0
+18:30,Duke,Zion Williamson,Turnover,3,0
+18:30,Virginia,Jack Salt,Steal,3,0
+18:10,Virginia,Mamadi Diakite,Turnover,3,0
+18:10,Duke,Zion Williamson,Steal,3,0
+18:07,Duke,Zion Williamson,Dunk,5,0
+17:48,Virginia,Kyle Guy,Turnover,5,0
+17:48,Duke,Cam Reddish,Steal,5,0
+17:38,Duke,RJ Barrett,Three Point Jumper,8,0
+17:17,Virginia,Mamadi Diakite,Jumper,8,2
+16:45,Duke,Tre Jones,Missed Jumper,8,2
+16:45,Duke,Tre Jones,Offensive Rebound,8,2
+16:41,Duke,Tre Jones,Turnover,8,2
+16:26,Duke,Marques Bolden,Foul,8,2
+16:14,Virginia,Kyle Guy,Missed Three Point Jumper,8,2
+16:14,Virginia,Jack Salt,Offensive Rebound,8,2
+16:10,Virginia,Jack Salt,Missed Layup,8,2
+16:10,Duke,Zion Williamson,Block,8,2
+16:10,Duke,Cam Reddish,Defensive Rebound,8,2
+15:40,Duke,Marques Bolden,Missed Layup,8,2
+15:40,Virginia,Mamadi Diakite,Block,8,2
+15:40,Virginia,Mamadi Diakite,Defensive Rebound,8,2
+15:23,Virginia,Jack Salt,Layup,8,4
+15:06,Duke,Zion Williamson,Three Point Jumper,11,4
+14:49,Virginia,Mamadi Diakite,Three Point Jumper,11,7
+14:39,Duke,Cam Reddish,Three Point Jumper,14,7
+14:14,Virginia,Mamadi Diakite,Layup,14,9
+14:00,Duke,RJ Barrett,Three Point Jumper,17,9
+13:40,Virginia,Kyle Guy,Missed Three Point Jumper,17,9
+13:40,Duke,Zion Williamson,Block,17,9
+13:40,Duke,Marques Bolden,Defensive Rebound,17,9
+13:33,Duke,Cam Reddish,Layup,19,9
+13:31,Virginia,None,None,19,9
+13:07,Virginia,Ty Jerome,Missed Jumper,19,9
+13:07,Duke,None,Team Rebound,19,9
+13:07,Virginia,Mamadi Diakite,Foul,19,9
+12:56,Duke,Tre Jones,Turnover,19,9
+12:35,Virginia,De'Andre Hunter,Jumper,19,11
+12:02,Duke,Cam Reddish,Missed Three Point Jumper,19,11
+12:02,Virginia,Ty Jerome,Defensive Rebound,19,11
+11:48,Virginia,De'Andre Hunter,Missed Jumper,19,11
+11:48,Duke,RJ Barrett,Defensive Rebound,19,11
+11:19,Duke,RJ Barrett,Three Point Jumper,22,11
+10:54,Virginia,De'Andre Hunter,Jumper,22,13
+10:27,Duke,Zion Williamson,Turnover,22,13
+10:27,Virginia,Kihei Clark,Steal,22,13
+10:16,Virginia,Kihei Clark,Missed Jumper,22,13
+10:16,Duke,Tre Jones,Defensive Rebound,22,13
+10:11,Virginia,De'Andre Hunter,Foul,22,13
+10:11,Virginia,None,None,22,13
+10:11,Duke,Zion Williamson,Free Throw,23,13
+10:11,Duke,Zion Williamson,Free Throw,24,13
+9:51,Virginia,Jay Huff,Dunk,24,15
+9:26,Duke,RJ Barrett,Foul,24,15
+9:26,Duke,RJ Barrett,Turnover,24,15
+9:09,Virginia,Braxton Key,Missed Three Point Jumper,24,15
+9:09,Virginia,Braxton Key,Offensive Rebound,24,15
+8:46,Virginia,De'Andre Hunter,Turnover,24,15
+8:46,Duke,Zion Williamson,Steal,24,15
+8:43,Duke,Zion Williamson,Layup,26,15
+8:25,Virginia,Jay Huff,Missed Jumper,26,15
+8:25,Duke,Tre Jones,Defensive Rebound,26,15
+8:10,Duke,RJ Barrett,Three Point Jumper,29,15
+7:43,Virginia,Braxton Key,Missed Jumper,29,15
+7:43,Virginia,Braxton Key,Offensive Rebound,29,15
+7:43,Virginia,None,None,29,17
+7:24,Duke,Marques Bolden,Turnover,29,17
+7:24,Virginia,None,None,29,17
+7:08,Virginia,Mamadi Diakite,Missed Layup,29,17
+7:08,Virginia,Virginia,Offensive Rebound,29,17
+6:49,Virginia,Kyle Guy,Missed Three Point Jumper,29,17
+6:49,Duke,RJ Barrett,Defensive Rebound,29,17
+6:33,Duke,RJ Barrett,Missed Three Point Jumper,29,17
+6:33,Virginia,Mamadi Diakite,Defensive Rebound,29,17
+6:26,Virginia,Jay Huff,Missed Layup,29,17
+6:26,Duke,Marques Bolden,Defensive Rebound,29,17
+6:10,Duke,Marques Bolden,Missed Jumper,29,17
+6:10,Virginia,Braxton Key,Defensive Rebound,29,17
+5:49,Virginia,Kyle Guy,Missed Jumper,29,17
+5:49,Virginia,Jay Huff,Offensive Rebound,29,17
+5:49,Virginia,Jay Huff,Missed Dunk,29,17
+5:49,Duke,Tre Jones,Defensive Rebound,29,17
+5:38,Duke,Zion Williamson,Missed Layup,29,17
+5:38,Duke,Marques Bolden,Offensive Rebound,29,17
+5:37,Virginia,Jay Huff,Foul,29,17
+5:37,Duke,Marques Bolden,Free Throw,30,17
+5:37,Duke,Marques Bolden,Free Throw,31,17
+5:09,Virginia,De'Andre Hunter,Jumper,31,19
+4:56,Duke,RJ Barrett,Missed Jumper,31,19
+4:56,Virginia,Mamadi Diakite,Defensive Rebound,31,19
+4:27,Virginia,Ty Jerome,Three Point Jumper,31,22
+4:19,Virginia,De'Andre Hunter,Foul,31,22
+4:19,Duke,Jack White,Layup,33,22
+3:48,Virginia,Kyle Guy,Turnover,33,22
+3:48,Duke,Javin DeLaurier,Steal,33,22
+3:41,Duke,RJ Barrett,Turnover,33,22
+3:41,Virginia,Jack Salt,Steal,33,22
+3:41,Virginia,None,None,33,22
+3:41,Virginia,None,None,33,22
+3:26,Virginia,Ty Jerome,Missed Three Point Jumper,33,22
+3:26,Virginia,Braxton Key,Offensive Rebound,33,22
+3:03,Virginia,Ty Jerome,Layup,33,24
+2:50,Duke,Cam Reddish,Three Point Jumper,36,24
+2:33,Virginia,Kyle Guy,Three Point Jumper,36,27
+2:21,Duke,RJ Barrett,Missed Three Point Jumper,36,27
+2:21,Virginia,Ty Jerome,Defensive Rebound,36,27
+2:04,Virginia,Kihei Clark,Three Point Jumper,36,30
+1:57,Duke,None,None,36,30
+1:40,Duke,Zion Williamson,Layup,38,30
+1:40,Virginia,Braxton Key,Foul,38,30
+1:40,Duke,Zion Williamson,Free Throw,39,30
+1:23,Virginia,Kyle Guy,Three Point Jumper,39,33
+1:00,Duke,RJ Barrett,Turnover,39,33
+0:36,Virginia,Kyle Guy,Layup,39,35
+0:03,Duke,Zion Williamson,Turnover,39,35
+0:03,Virginia,Ty Jerome,Steal,39,35
+0:00,Virginia,None,None,39,35
+20:00,Duke,None,None,39,35
+19:45,Duke,Cam Reddish,Missed Jumper,39,35
+19:45,Virginia,De'Andre Hunter,Defensive Rebound,39,35
+19:17,Virginia,Kihei Clark,Missed Jumper,39,35
+19:17,Duke,RJ Barrett,Defensive Rebound,39,35
+19:03,Duke,Tre Jones,Layup,41,35
+18:41,Virginia,Kyle Guy,Jumper,41,37
+18:27,Duke,Cam Reddish,Three Point Jumper,44,37
+18:05,Duke,RJ Barrett,Foul,44,37
+18:05,Virginia,Ty Jerome,Free Throw,44,38
+18:05,Virginia,Ty Jerome,Free Throw,44,39
+17:42,Duke,Marques Bolden,Turnover,44,39
+17:20,Virginia,Kyle Guy,Turnover,44,39
+17:20,Duke,RJ Barrett,Steal,44,39
+17:13,Duke,Cam Reddish,Three Point Jumper,47,39
+16:48,Duke,Marques Bolden,Foul,47,39
+16:48,Virginia,De'Andre Hunter,Free Throw,47,40
+16:48,Virginia,De'Andre Hunter,Free Throw,47,41
+16:28,Duke,Cam Reddish,Missed Three Point Jumper,47,41
+16:28,Duke,RJ Barrett,Offensive Rebound,47,41
+16:23,Duke,RJ Barrett,Layup,49,41
+16:03,Virginia,Kyle Guy,Missed Jumper,49,41
+16:03,Duke,Zion Williamson,Defensive Rebound,49,41
+15:50,Duke,Tre Jones,Missed Jumper,49,41
+15:50,Duke,RJ Barrett,Offensive Rebound,49,41
+15:45,Duke,Cam Reddish,Three Point Jumper,52,41
+15:44,Virginia,None,None,52,41
+15:44,Virginia,None,None,52,41
+15:24,Virginia,Kyle Guy,Turnover,52,41
+15:24,Duke,Zion Williamson,Steal,52,41
+15:13,Duke,RJ Barrett,Turnover,52,41
+15:13,Virginia,Ty Jerome,Steal,52,41
+15:13,Virginia,None,None,52,41
+15:13,Virginia,None,None,52,41
+14:47,Virginia,Kyle Guy,Missed Three Point Jumper,52,41
+14:47,Virginia,Braxton Key,Offensive Rebound,52,41
+14:34,Virginia,Kyle Guy,Layup,52,43
+14:34,Duke,Cam Reddish,Foul,52,43
+14:34,Virginia,Kyle Guy,Free Throw,52,44
+14:15,Duke,RJ Barrett,Turnover,52,44
+14:15,Virginia,Braxton Key,Steal,52,44
+14:02,Duke,Cam Reddish,Foul,52,44
+13:50,Virginia,Ty Jerome,Missed Three Point Jumper,52,44
+13:50,Virginia,De'Andre Hunter,Offensive Rebound,52,44
+13:45,Virginia,De'Andre Hunter,Turnover,52,44
+13:45,Duke,Cam Reddish,Steal,52,44
+13:42,Duke,RJ Barrett,Dunk,54,44
+13:22,Virginia,Braxton Key,Missed Layup,54,44
+13:22,Duke,Cam Reddish,Block,54,44
+13:22,Duke,Tre Jones,Defensive Rebound,54,44
+13:18,Virginia,Braxton Key,Foul,54,44
+13:11,Duke,Tre Jones,Missed Jumper,54,44
+13:11,Virginia,Jay Huff,Block,54,44
+13:11,Virginia,Kihei Clark,Defensive Rebound,54,44
+12:59,Virginia,Jay Huff,Three Point Jumper,54,47
+12:36,Duke,Zion Williamson,Missed Layup,54,47
+12:36,Virginia,Braxton Key,Block,54,47
+12:36,Virginia,Virginia,Defensive Rebound,54,47
+12:34,Duke,None,None,54,47
+12:20,Virginia,Braxton Key,Layup,54,49
+11:56,Duke,Tre Jones,Three Point Jumper,57,49
+11:33,Virginia,Kyle Guy,Missed Three Point Jumper,57,49
+11:33,Virginia,Ty Jerome,Offensive Rebound,57,49
+11:27,Virginia,Ty Jerome,Turnover,57,49
+11:27,Duke,Tre Jones,Steal,57,49
+11:21,Virginia,Kyle Guy,Foul,57,49
+11:21,Virginia,None,None,57,49
+11:21,Duke,Tre Jones,Free Throw,58,49
+11:21,Duke,Tre Jones,Free Throw,59,49
+11:10,Virginia,Jay Huff,Turnover,59,49
+11:10,Duke,Tre Jones,Steal,59,49
+10:59,Duke,Zion Williamson,Turnover,59,49
+10:35,Virginia,De'Andre Hunter,Missed Three Point Jumper,59,49
+10:35,Duke,Cam Reddish,Defensive Rebound,59,49
+10:12,Duke,RJ Barrett,Missed Three Point Jumper,59,49
+10:12,Virginia,Braxton Key,Defensive Rebound,59,49
+10:00,Virginia,Ty Jerome,Three Point Jumper,59,52
+9:28,Duke,Tre Jones,Jumper,61,52
+9:12,Virginia,Kihei Clark,Missed Three Point Jumper,61,52
+9:12,Duke,RJ Barrett,Defensive Rebound,61,52
+8:53,Duke,Zion Williamson,Turnover,61,52
+8:53,Virginia,Braxton Key,Steal,61,52
+8:30,Virginia,Ty Jerome,Layup,61,54
+8:11,Virginia,Jay Huff,Foul,61,54
+8:11,Duke,Marques Bolden,Free Throw,62,54
+8:11,Duke,Marques Bolden,Missed Free Throw,62,54
+8:11,Duke,Duke,Offensive Rebound,62,54
+8:06,Virginia,De'Andre Hunter,Foul,62,54
+8:06,Duke,RJ Barrett,Free Throw,63,54
+8:06,Duke,RJ Barrett,Missed Free Throw,63,54
+8:06,Virginia,De'Andre Hunter,Defensive Rebound,63,54
+7:45,Virginia,Braxton Key,Missed Layup,63,54
+7:45,Virginia,Jack Salt,Offensive Rebound,63,54
+7:41,Virginia,Jack Salt,Dunk,63,56
+7:23,Duke,RJ Barrett,Three Point Jumper,66,56
+7:05,Virginia,Jack Salt,Dunk,66,58
+6:35,Duke,Cam Reddish,Missed Three Point Jumper,66,58
+6:35,Virginia,Braxton Key,Defensive Rebound,66,58
+6:11,Virginia,Kyle Guy,Missed Three Point Jumper,66,58
+6:11,Virginia,Braxton Key,Offensive Rebound,66,58
+6:11,Virginia,Braxton Key,Turnover,66,58
+6:11,Duke,Javin DeLaurier,Steal,66,58
+5:48,Duke,Tre Jones,Missed Three Point Jumper,66,58
+5:48,Virginia,None,Team Rebound,66,58
+5:44,Duke,Jack White,Foul,66,58
+5:44,Virginia,None,None,66,58
+5:44,Virginia,Ty Jerome,Foul,66,58
+5:44,Virginia,Ty Jerome,Foul,66,58
+5:44,Duke,Javin DeLaurier,Foul,66,58
+5:44,Duke,Javin DeLaurier,Foul,66,58
+5:28,Virginia,De'Andre Hunter,Three Point Jumper,66,61
+5:07,Duke,Marques Bolden,Layup,68,61
+4:37,Virginia,De'Andre Hunter,Missed Three Point Jumper,68,61
+4:37,Duke,Zion Williamson,Block,68,61
+4:37,Virginia,Virginia,Offensive Rebound,68,61
+4:32,Virginia,Ty Jerome,Missed Three Point Jumper,68,61
+4:32,Virginia,Virginia,Offensive Rebound,68,61
+4:31,Virginia,Virginia ,Turnover,68,61
+4:09,Duke,RJ Barrett,Missed Jumper,68,61
+4:09,Virginia,Braxton Key,Block,68,61
+4:09,Duke,Zion Williamson,Offensive Rebound,68,61
+4:05,Duke,Zion Williamson,Layup,70,61
+3:45,Virginia,De'Andre Hunter,Missed Jumper,70,61
+3:45,Virginia,Braxton Key,Offensive Rebound,70,61
+3:37,Duke,Cam Reddish,Foul,70,61
+3:37,Virginia,None,None,70,61
+3:37,Virginia,Jack Salt,Missed Free Throw,70,61
+3:37,Virginia,None,Team Rebound,70,61
+3:37,Virginia,Jack Salt,Missed Free Throw,70,61
+3:37,Duke,None,Team Rebound,70,61
+3:15,Duke,Tre Jones,Jumper,72,61
+2:56,Virginia,Ty Jerome,Jumper,72,63
+2:36,Virginia,Jack Salt,Foul,72,63
+2:36,Duke,Zion Williamson,Missed Free Throw,72,63
+2:36,Duke,None,Team Rebound,72,63
+2:36,Duke,Zion Williamson,Free Throw,73,63
+2:28,Virginia,Jay Huff,Three Point Jumper,73,66
+1:56,Duke,RJ Barrett,Missed Three Point Jumper,73,66
+1:56,Duke,Zion Williamson,Offensive Rebound,73,66
+1:42,Duke,Zion Williamson,Dunk,75,66
+1:28,Virginia,Ty Jerome,Turnover,75,66
+1:28,Duke,Marques Bolden,Steal,75,66
+1:24,Virginia,Braxton Key,Foul,75,66
+1:24,Duke,Marques Bolden,Missed Free Throw,75,66
+1:24,Virginia,Braxton Key,Defensive Rebound,75,66
+1:18,Virginia,Braxton Key,Missed Layup,75,66
+1:18,Duke,Cam Reddish,Block,75,66
+1:18,Duke,RJ Barrett,Defensive Rebound,75,66
+1:15,Virginia,Ty Jerome,Foul,75,66
+1:15,Duke,RJ Barrett,Free Throw,76,66
+1:15,Duke,RJ Barrett,Missed Free Throw,76,66
+1:15,Virginia,Jay Huff,Defensive Rebound,76,66
+1:03,Virginia,Kyle Guy,Three Point Jumper,76,69
+1:03,Virginia,None,None,76,69
+0:59,Virginia,Kyle Guy,Foul,76,69
+0:59,Duke,RJ Barrett,Missed Free Throw,76,69
+0:59,Duke,Tre Jones,Offensive Rebound,76,69
+0:54,Virginia,Kihei Clark,Foul,76,69
+0:54,Duke,Tre Jones,Free Throw,77,69
+0:54,Duke,Tre Jones,Free Throw,78,69
+0:48,Virginia,De'Andre Hunter,Missed Three Point Jumper,78,69
+0:48,Duke,Jack White,Defensive Rebound,78,69
+0:40,Duke,Tre Jones,Turnover,78,69
+0:40,Virginia,Ty Jerome,Steal,78,69
+0:36,Virginia,Kyle Guy,Turnover,78,69
+0:36,Duke,Cam Reddish,Steal,78,69
+0:36,Virginia,Jay Huff,Foul,78,69
+0:36,Duke,Zion Williamson,Missed Free Throw,78,69
+0:36,Duke,None,Team Rebound,78,69
+0:36,Duke,Zion Williamson,Free Throw,79,69
+0:27,Virginia,Ty Jerome,Layup,79,71
+0:27,Duke,None,None,79,71
+0:24,Virginia,De'Andre Hunter,Foul,79,71
+0:24,Duke,RJ Barrett,Free Throw,80,71
+0:24,Duke,RJ Barrett,Free Throw,81,71
+0:17,Virginia,Ty Jerome,Turnover,81,71
+0:00,Virginia,None,None,81,71

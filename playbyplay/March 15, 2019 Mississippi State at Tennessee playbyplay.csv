@@ -1,0 +1,344 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Tennessee,None,None,0,0
+19:46,Tennessee,Jordan Bone,Turnover,0,0
+19:46,Mississippi State,Lamar Peters,Steal,0,0
+19:45,Tennessee,Admiral Schofield,Foul,0,0
+19:31,Mississippi State,Quinndary Weatherspoon,Jumper,2,0
+19:14,Tennessee,Grant Williams,Turnover,2,0
+19:04,Mississippi State,Tyson Carter,Missed Three Point Jumper,2,0
+19:04,Tennessee,Kyle Alexander,Defensive Rebound,2,0
+18:48,Tennessee,Jordan Bone,Missed Three Point Jumper,2,0
+18:48,Mississippi State,Quinndary Weatherspoon,Defensive Rebound,2,0
+18:36,Mississippi State,Lamar Peters,Missed Three Point Jumper,2,0
+18:31,Tennessee,Tennessee,Defensive Rebound,2,0
+18:20,Tennessee,Kyle Alexander,Missed Jumper,2,0
+18:20,Mississippi State,Abdul Ado,Defensive Rebound,2,0
+18:08,Mississippi State,Quinndary Weatherspoon,Layup,4,0
+17:48,Tennessee,Grant Williams,Jumper,4,2
+17:29,Mississippi State,Tyson Carter,Missed Three Point Jumper,4,2
+17:29,Tennessee,Admiral Schofield,Defensive Rebound,4,2
+17:08,Tennessee,Admiral Schofield,Jumper,4,4
+16:50,Mississippi State,Reggie Perry,Turnover,4,4
+16:33,Tennessee,Grant Williams,Missed Three Point Jumper,4,4
+16:33,Mississippi State,Reggie Perry,Defensive Rebound,4,4
+16:18,Mississippi State,Lamar Peters,Layup,6,4
+15:55,Tennessee,Grant Williams,Missed Jumper,6,4
+15:55,Tennessee,Kyle Alexander,Offensive Rebound,6,4
+15:49,Tennessee,Kyle Alexander,Jumper,6,6
+15:29,Mississippi State,Quinndary Weatherspoon,Turnover,6,6
+15:29,Tennessee,Kyle Alexander,Steal,6,6
+15:29,Tennessee,Lamonte Turner,Turnover,6,6
+15:29,Mississippi State,Lamar Peters,Steal,6,6
+15:29,Mississippi State,Abdul Ado,Turnover,6,6
+15:29,Tennessee,Lamonte Turner,Steal,6,6
+15:13,Tennessee,Grant Williams,Dunk,6,8
+14:50,Mississippi State,Lamar Peters,Three Point Jumper,9,8
+14:25,Tennessee,Grant Williams,Missed Jumper,9,8
+14:25,Mississippi State,Reggie Perry,Defensive Rebound,9,8
+14:07,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,9,8
+14:07,Tennessee,Jordan Bowden,Defensive Rebound,9,8
+13:39,Tennessee,Kyle Alexander,Missed Jumper,9,8
+13:39,Tennessee,Grant Williams,Offensive Rebound,9,8
+13:19,Tennessee,Kyle Alexander,Jumper,9,10
+13:01,Mississippi State,Lamar Peters,Turnover,9,10
+13:01,Tennessee,Kyle Alexander,Steal,9,10
+13:01,Mississippi State,Lamar Peters,Foul,9,10
+13:01,Tennessee,None,None,9,10
+12:49,Tennessee,John Fulkerson,Turnover,9,10
+12:49,Mississippi State,Robert Woodard,Steal,9,10
+12:19,Mississippi State,Robert Woodard,Missed Layup,9,10
+12:19,Mississippi State,Reggie Perry,Offensive Rebound,9,10
+12:15,Mississippi State,Reggie Perry,Missed Jumper,9,10
+12:15,Tennessee,John Fulkerson,Block,9,10
+12:15,Tennessee,Jordan Bone,Defensive Rebound,9,10
+11:52,Tennessee,Admiral Schofield,Missed Jumper,9,10
+11:52,Tennessee,Admiral Schofield,Offensive Rebound,9,10
+11:52,Tennessee,None,None,9,12
+11:27,Mississippi State,Tyson Carter,Missed Three Point Jumper,9,12
+11:27,Tennessee,Tennessee,Defensive Rebound,9,12
+11:25,Mississippi State,Aric Holman,Foul,9,12
+11:25,Tennessee,None,None,9,12
+11:16,Tennessee,Jordan Bowden,Missed Jumper,9,12
+11:16,Tennessee,John Fulkerson,Offensive Rebound,9,12
+11:15,Mississippi State,Robert Woodard,Foul,9,12
+10:52,Tennessee,John Fulkerson,Dunk,9,14
+10:29,Mississippi State,Lamar Peters,Missed Three Point Jumper,9,14
+10:29,Tennessee,Admiral Schofield,Defensive Rebound,9,14
+10:21,Mississippi State,Quinndary Weatherspoon,Foul,9,14
+10:19,Tennessee,Lamonte Turner,Turnover,9,14
+10:19,Mississippi State,Quinndary Weatherspoon,Steal,9,14
+10:13,Mississippi State,Quinndary Weatherspoon,Turnover,9,14
+10:13,Tennessee,John Fulkerson,Steal,9,14
+9:59,Tennessee,Admiral Schofield,Three Point Jumper,9,17
+9:56,Mississippi State,None,None,9,17
+9:34,Tennessee,Grant Williams,Foul,9,17
+9:34,Mississippi State,Reggie Perry,Missed Free Throw,9,17
+9:34,Mississippi State,None,Team Rebound,9,17
+9:34,Mississippi State,Reggie Perry,Missed Free Throw,9,17
+9:34,Tennessee,Grant Williams,Defensive Rebound,9,17
+9:21,Tennessee,Lamonte Turner,Missed Three Point Jumper,9,17
+9:21,Mississippi State,Lamar Peters,Block,9,17
+9:21,Mississippi State,Aric Holman,Defensive Rebound,9,17
+9:07,Mississippi State,Reggie Perry,Dunk,11,17
+8:56,Tennessee,Grant Williams,Dunk,11,19
+8:40,Mississippi State,Lamar Peters,Turnover,11,19
+8:40,Tennessee,Grant Williams,Steal,11,19
+8:25,Tennessee,Jalen Johnson,Turnover,11,19
+8:25,Mississippi State,Lamar Peters,Steal,11,19
+8:19,Mississippi State,Lamar Peters,Layup,13,19
+7:58,Tennessee,Kyle Alexander,Jumper,13,21
+7:28,Mississippi State,Tyson Carter,Missed Jumper,13,21
+7:28,Mississippi State,Aric Holman,Offensive Rebound,13,21
+7:28,Mississippi State,None,None,15,21
+7:20,Tennessee,Grant Williams,Missed Layup,15,21
+7:20,Tennessee,Kyle Alexander,Offensive Rebound,15,21
+7:16,Tennessee,Grant Williams,Jumper,15,23
+6:54,Mississippi State,Lamar Peters,Missed Three Point Jumper,15,23
+6:54,Mississippi State,Aric Holman,Offensive Rebound,15,23
+6:54,Mississippi State,Aric Holman,Missed Layup,15,23
+6:54,Tennessee,Kyle Alexander,Block,15,23
+6:54,Mississippi State,Reggie Perry,Offensive Rebound,15,23
+6:48,Mississippi State,Reggie Perry,Dunk,17,23
+6:43,Tennessee,None,None,17,23
+6:18,Mississippi State,Tyson Carter,Foul,17,23
+6:02,Tennessee,Grant Williams,Missed Jumper,17,23
+6:02,Tennessee,Jordan Bowden,Offensive Rebound,17,23
+5:57,Tennessee,Jordan Bowden,Missed Layup,17,23
+5:57,Tennessee,Kyle Alexander,Offensive Rebound,17,23
+5:57,Tennessee,None,None,17,25
+5:41,Mississippi State,Aric Holman,Three Point Jumper,20,25
+5:26,Tennessee,Yves Pons,Missed Layup,20,25
+5:26,Mississippi State,Aric Holman,Block,20,25
+5:26,Mississippi State,Robert Woodard,Defensive Rebound,20,25
+5:06,Mississippi State,Lamar Peters,Missed Jumper,20,25
+5:06,Tennessee,Jordan Bowden,Defensive Rebound,20,25
+4:50,Tennessee,Jordan Bowden,Three Point Jumper,20,28
+4:21,Mississippi State,Abdul Ado,Layup,22,28
+3:52,Tennessee,Jordan Bone,Missed Jumper,22,28
+3:52,Mississippi State,Robert Woodard,Defensive Rebound,22,28
+3:24,Mississippi State,Quinndary Weatherspoon,Turnover,22,28
+3:24,Tennessee,Lamonte Turner,Steal,22,28
+3:19,Tennessee,Jordan Bowden,Missed Three Point Jumper,22,28
+3:19,Tennessee,Tennessee,Offensive Rebound,22,28
+3:13,Tennessee,None,None,22,28
+3:08,Tennessee,Admiral Schofield,Missed Jumper,22,28
+3:08,Mississippi State,Mississippi State,Defensive Rebound,22,28
+2:56,Mississippi State,Reggie Perry,Layup,24,28
+2:38,Tennessee,Lamonte Turner,Layup,24,30
+2:23,Mississippi State,Lamar Peters,Missed Jumper,24,30
+2:23,Tennessee,Jordan Bone,Defensive Rebound,24,30
+2:11,Tennessee,Grant Williams,Layup,24,32
+1:53,Mississippi State,Quinndary Weatherspoon,Missed Jumper,24,32
+1:53,Mississippi State,Lamar Peters,Offensive Rebound,24,32
+1:45,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,24,32
+1:45,Tennessee,Grant Williams,Defensive Rebound,24,32
+1:34,Tennessee,Jordan Bowden,Missed Dunk,24,32
+1:34,Mississippi State,Abdul Ado,Defensive Rebound,24,32
+1:29,Mississippi State,Quinndary Weatherspoon,Layup,26,32
+1:04,Tennessee,Grant Williams,Missed Jumper,26,32
+1:04,Mississippi State,Abdul Ado,Block,26,32
+1:04,Mississippi State,Robert Woodard,Defensive Rebound,26,32
+0:55,Tennessee,Grant Williams,Foul,26,32
+0:55,Mississippi State,Quinndary Weatherspoon,Free Throw,27,32
+0:55,Mississippi State,Quinndary Weatherspoon,Free Throw,28,32
+0:49,Tennessee,Admiral Schofield,Layup,28,34
+0:17,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,28,34
+0:17,Mississippi State,Reggie Perry,Offensive Rebound,28,34
+0:08,Tennessee,Kyle Alexander,Foul,28,34
+0:08,Mississippi State,Robert Woodard,Missed Free Throw,28,34
+0:08,Mississippi State,None,Team Rebound,28,34
+0:08,Mississippi State,Robert Woodard,Missed Free Throw,28,34
+0:08,Mississippi State,Robert Woodard,Offensive Rebound,28,34
+0:03,Mississippi State,Lamar Peters,Missed Layup,28,34
+0:03,Tennessee,Lamonte Turner,Block,28,34
+0:03,Mississippi State,Reggie Perry,Offensive Rebound,28,34
+0:00,Tennessee,None,None,28,34
+20:00,Mississippi State,None,None,28,34
+19:45,Mississippi State,Lamar Peters,Turnover,28,34
+19:45,Tennessee,Kyle Alexander,Steal,28,34
+19:42,Tennessee,Jordan Bone,Layup,28,36
+19:24,Mississippi State,Quinndary Weatherspoon,Layup,30,36
+19:08,Tennessee,Lamonte Turner,Missed Jumper,30,36
+19:08,Tennessee,Kyle Alexander,Offensive Rebound,30,36
+19:03,Tennessee,Kyle Alexander,Missed Layup,30,36
+19:03,Mississippi State,Reggie Perry,Defensive Rebound,30,36
+18:45,Mississippi State,Reggie Perry,Three Point Jumper,33,36
+18:28,Tennessee,Grant Williams,Missed Layup,33,36
+18:28,Mississippi State,Abdul Ado,Block,33,36
+18:28,Mississippi State,Abdul Ado,Defensive Rebound,33,36
+18:07,Tennessee,Jordan Bone,Foul,33,36
+18:07,Mississippi State,Tyson Carter,Free Throw,34,36
+18:07,Mississippi State,Tyson Carter,Free Throw,35,36
+18:07,Mississippi State,Tyson Carter,Missed Free Throw,35,36
+18:07,Tennessee,Admiral Schofield,Defensive Rebound,35,36
+17:51,Tennessee,Grant Williams,Missed Three Point Jumper,35,36
+17:51,Mississippi State,Lamar Peters,Defensive Rebound,35,36
+17:42,Mississippi State,Quinndary Weatherspoon,Missed Layup,35,36
+17:42,Tennessee,Grant Williams,Defensive Rebound,35,36
+17:36,Tennessee,Admiral Schofield,Layup,35,38
+17:17,Mississippi State,Lamar Peters,Three Point Jumper,38,38
+16:53,Tennessee,Grant Williams,Dunk,38,40
+16:23,Mississippi State,Lamar Peters,Missed Three Point Jumper,38,40
+16:23,Tennessee,John Fulkerson,Defensive Rebound,38,40
+16:04,Tennessee,Jordan Bowden,Turnover,38,40
+15:47,Mississippi State,Tyson Carter,Layup,40,40
+15:33,Tennessee,Admiral Schofield,Missed Jumper,40,40
+15:33,Tennessee,Kyle Alexander,Offensive Rebound,40,40
+15:25,Tennessee,Kyle Alexander,Jumper,40,42
+15:05,Mississippi State,Quinndary Weatherspoon,Turnover,40,42
+15:05,Tennessee,Jordan Bone,Steal,40,42
+14:57,Tennessee,Jordan Bone,Missed Jumper,40,42
+14:57,Mississippi State,Robert Woodard,Defensive Rebound,40,42
+14:51,Mississippi State,Tyson Carter,Dunk,42,42
+14:18,Tennessee,Jordan Bone,Three Point Jumper,42,45
+13:59,Mississippi State,Tyson Carter,Missed Three Point Jumper,42,45
+13:59,Tennessee,Tennessee,Defensive Rebound,42,45
+13:56,Mississippi State,Aric Holman,Foul,42,45
+13:56,Tennessee,None,None,42,45
+13:40,Tennessee,Jordan Bowden,Missed Three Point Jumper,42,45
+13:40,Tennessee,John Fulkerson,Offensive Rebound,42,45
+13:21,Tennessee,Grant Williams,Turnover,42,45
+12:58,Mississippi State,Quinndary Weatherspoon,Layup,44,45
+12:31,Tennessee,Lamonte Turner,Jumper,44,47
+12:15,Mississippi State,Quinndary Weatherspoon,Missed Dunk,44,47
+12:15,Tennessee,Jordan Bowden,Block,44,47
+12:15,Tennessee,Lamonte Turner,Defensive Rebound,44,47
+12:06,Tennessee,Grant Williams,Jumper,44,49
+12:05,Mississippi State,None,None,44,49
+12:05,Tennessee,None,None,44,49
+11:45,Mississippi State,Robert Woodard,Missed Three Point Jumper,44,49
+11:45,Mississippi State,Reggie Perry,Offensive Rebound,44,49
+11:38,Mississippi State,Reggie Perry,Missed Layup,44,49
+11:38,Tennessee,Grant Williams,Block,44,49
+11:38,Mississippi State,Reggie Perry,Offensive Rebound,44,49
+11:36,Tennessee,Grant Williams,Foul,44,49
+11:36,Tennessee,None,None,44,49
+11:36,Mississippi State,Reggie Perry,Free Throw,45,49
+11:36,Mississippi State,Reggie Perry,Free Throw,46,49
+11:26,Tennessee,Lamonte Turner,Missed Layup,46,49
+11:26,Tennessee,Kyle Alexander,Offensive Rebound,46,49
+11:26,Tennessee,None,None,46,51
+11:05,Mississippi State,Abdul Ado,Missed Jumper,46,51
+11:05,Tennessee,Jordan Bone,Defensive Rebound,46,51
+10:57,Mississippi State,Lamar Peters,Foul,46,51
+10:53,Tennessee,Admiral Schofield,Layup,46,53
+10:53,Mississippi State,Reggie Perry,Foul,46,53
+10:53,Tennessee,Admiral Schofield,Missed Free Throw,46,53
+10:53,Tennessee,Tennessee,Offensive Rebound,46,53
+10:46,Tennessee,Jordan Bowden,Jumper,46,55
+10:20,Mississippi State,Quinndary Weatherspoon,Missed Three Point Jumper,46,55
+10:20,Tennessee,Jordan Bone,Defensive Rebound,46,55
+10:04,Tennessee,Admiral Schofield,Dunk,46,57
+10:04,Mississippi State,Robert Woodard,Foul,46,57
+10:04,Tennessee,Admiral Schofield,Missed Free Throw,46,57
+10:04,Mississippi State,Reggie Perry,Defensive Rebound,46,57
+9:42,Mississippi State,Quinndary Weatherspoon,Turnover,46,57
+9:42,Tennessee,Lamonte Turner,Steal,46,57
+9:33,Mississippi State,Lamar Peters,Foul,46,57
+9:33,Tennessee,Jordan Bowden,Free Throw,46,58
+9:33,Tennessee,Jordan Bowden,Free Throw,46,59
+9:24,Mississippi State,Quinndary Weatherspoon,Turnover,46,59
+9:24,Tennessee,Lamonte Turner,Steal,46,59
+9:20,Mississippi State,Quinndary Weatherspoon,Foul,46,59
+9:20,Tennessee,None,None,46,59
+9:10,Tennessee,Lamonte Turner,Missed Jumper,46,59
+9:10,Tennessee,Lamonte Turner,Offensive Rebound,46,59
+9:10,Tennessee,None,None,46,59
+9:10,Mississippi State,Abdul Ado,Defensive Rebound,46,59
+8:50,Mississippi State,Tyson Carter,Missed Jumper,46,59
+8:50,Mississippi State,Aric Holman,Offensive Rebound,46,59
+8:47,Mississippi State,Aric Holman,Missed Jumper,46,59
+8:47,Tennessee,Admiral Schofield,Block,46,59
+8:47,Tennessee,Admiral Schofield,Defensive Rebound,46,59
+8:46,Tennessee,None,None,46,59
+8:22,Tennessee,Jordan Bone,Missed Jumper,46,59
+8:22,Mississippi State,Tyson Carter,Defensive Rebound,46,59
+8:12,Mississippi State,Aric Holman,Three Point Jumper,49,59
+7:56,Tennessee,Jordan Bone,Missed Jumper,49,59
+7:56,Tennessee,Kyle Alexander,Offensive Rebound,49,59
+7:51,Tennessee,Jordan Bowden,Three Point Jumper,49,62
+7:29,Mississippi State,Lamar Peters,Layup,51,62
+7:00,Tennessee,Admiral Schofield,Three Point Jumper,51,65
+6:48,Tennessee,None,None,51,65
+6:39,Mississippi State,Reggie Perry,Layup,53,65
+6:19,Tennessee,John Fulkerson,Missed Jumper,53,65
+6:19,Mississippi State,Aric Holman,Defensive Rebound,53,65
+6:11,Mississippi State,Lamar Peters,Missed Layup,53,65
+6:11,Mississippi State,Lamar Peters,Offensive Rebound,53,65
+6:04,Mississippi State,Lamar Peters,Three Point Jumper,56,65
+5:56,Tennessee,Admiral Schofield,Jumper,56,67
+5:39,Mississippi State,Lamar Peters,Missed Three Point Jumper,56,67
+5:39,Mississippi State,Reggie Perry,Offensive Rebound,56,67
+5:37,Tennessee,Grant Williams,Foul,56,67
+5:27,Tennessee,Kyle Alexander,Foul,56,67
+5:27,Mississippi State,Robert Woodard,Missed Free Throw,56,67
+5:27,Mississippi State,None,Team Rebound,56,67
+5:27,Mississippi State,Robert Woodard,Free Throw,57,67
+5:02,Tennessee,Lamonte Turner,Turnover,57,67
+5:02,Mississippi State,Lamar Peters,Steal,57,67
+4:56,Tennessee,Jordan Bowden,Foul,57,67
+4:53,Mississippi State,Reggie Perry,Missed Jumper,57,67
+4:53,Tennessee,Kyle Alexander,Block,57,67
+4:53,Tennessee,Kyle Alexander,Defensive Rebound,57,67
+4:50,Mississippi State,Reggie Perry,Foul,57,67
+4:50,Tennessee,Admiral Schofield,Foul,57,67
+4:50,Tennessee,Admiral Schofield,Foul,57,67
+4:50,Mississippi State,Reggie Perry,Foul,57,67
+4:50,Mississippi State,Reggie Perry,Foul,57,67
+4:50,Tennessee,Kyle Alexander,Foul,57,67
+4:50,Tennessee,Kyle Alexander,Foul,57,67
+4:50,Mississippi State,Quinndary Weatherspoon,Missed Free Throw,57,67
+4:50,Mississippi State,None,Team Rebound,57,67
+4:50,Mississippi State,Quinndary Weatherspoon,Free Throw,58,67
+4:50,Tennessee,Kyle Alexander,Missed Free Throw,58,67
+4:50,Tennessee,Tennessee,Offensive Rebound,58,67
+4:37,Tennessee,Kyle Alexander,Dunk,58,69
+4:20,Mississippi State,Aric Holman,Three Point Jumper,61,69
+3:48,Tennessee,Kyle Alexander,Jumper,61,71
+3:26,Mississippi State,Aric Holman,Jumper,63,71
+3:17,Tennessee,None,None,63,71
+3:17,Tennessee,None,None,63,71
+3:11,Tennessee,Grant Williams,Missed Layup,63,71
+3:11,Mississippi State,Aric Holman,Defensive Rebound,63,71
+2:52,Mississippi State,Lamar Peters,Missed Three Point Jumper,63,71
+2:52,Tennessee,Admiral Schofield,Defensive Rebound,63,71
+2:40,Tennessee,Jordan Bone,Layup,63,73
+2:23,Mississippi State,Aric Holman,Three Point Jumper,66,73
+2:01,Tennessee,Grant Williams,Dunk,66,75
+1:33,Tennessee,Jordan Bowden,Foul,66,75
+1:33,Mississippi State,Quinndary Weatherspoon,Free Throw,67,75
+1:33,Mississippi State,Quinndary Weatherspoon,Missed Free Throw,67,75
+1:33,Tennessee,Admiral Schofield,Defensive Rebound,67,75
+1:19,Mississippi State,Lamar Peters,Foul,67,75
+1:19,Tennessee,Jordan Bone,Free Throw,67,76
+1:19,Tennessee,Jordan Bone,Free Throw,67,77
+1:14,Mississippi State,Aric Holman,Three Point Jumper,70,77
+1:03,Mississippi State,Lamar Peters,Foul,70,77
+1:03,Tennessee,Jordan Bone,Free Throw,70,78
+1:03,Tennessee,Jordan Bone,Free Throw,70,79
+0:47,Tennessee,Grant Williams,Foul,70,79
+0:47,Mississippi State,Aric Holman,Free Throw,71,79
+0:47,Mississippi State,Aric Holman,Missed Free Throw,71,79
+0:47,Tennessee,Jordan Bowden,Defensive Rebound,71,79
+0:45,Mississippi State,Tyson Carter,Foul,71,79
+0:45,Tennessee,Lamonte Turner,Free Throw,71,80
+0:45,Tennessee,Lamonte Turner,Missed Free Throw,71,80
+0:45,Mississippi State,Reggie Perry,Defensive Rebound,71,80
+0:36,Mississippi State,Reggie Perry,Missed Jumper,71,80
+0:36,Mississippi State,Robert Woodard,Offensive Rebound,71,80
+0:36,Mississippi State,Robert Woodard,Missed Dunk,71,80
+0:36,Tennessee,Jordan Bowden,Defensive Rebound,71,80
+0:29,Mississippi State,Tyson Carter,Foul,71,80
+0:29,Tennessee,Jordan Bone,Free Throw,71,81
+0:29,Tennessee,Jordan Bone,Free Throw,71,82
+0:22,Mississippi State,Tyson Carter,Missed Three Point Jumper,71,82
+0:22,Mississippi State,Robert Woodard,Offensive Rebound,71,82
+0:15,Mississippi State,Reggie Perry,Layup,73,82
+0:14,Mississippi State,Robert Woodard,Foul,73,82
+0:14,Tennessee,Jordan Bone,Missed Free Throw,73,82
+0:14,Tennessee,None,Team Rebound,73,82
+0:14,Tennessee,Jordan Bone,Free Throw,73,83
+0:09,Mississippi State,Quinndary Weatherspoon,Layup,75,83
+0:09,Tennessee,Kyle Alexander,Foul,75,83
+0:09,Mississippi State,Quinndary Weatherspoon,Free Throw,76,83
+0:00,Tennessee,None,None,76,83

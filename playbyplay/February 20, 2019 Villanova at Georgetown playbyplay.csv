@@ -1,0 +1,331 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:50,Villanova,Saddiq Bey,Missed Three Point Jumper,0,0
+19:47,Georgetown,Mac McClung,Defensive Rebound,0,0
+19:42,Villanova,Phil Booth,Foul,0,0
+19:32,Georgetown,Josh LeBlanc,Layup,0,2
+19:11,Villanova,Eric Paschall,Three Point Jumper,3,2
+18:44,Georgetown,James Akinjo,Missed Jumper,3,2
+18:40,Georgetown,Jessie Govan,Offensive Rebound,3,2
+18:40,Georgetown,Jessie Govan,Layup,3,4
+18:20,Villanova,Collin Gillespie,Missed Three Point Jumper,3,4
+18:17,Georgetown,James Akinjo,Defensive Rebound,3,4
+18:17,Villanova,Jermaine Samuels,Foul,3,4
+18:01,Georgetown,Jamorko Pickett,Missed Three Point Jumper,3,4
+17:57,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,3,4
+17:33,Villanova,Phil Booth,Three Point Jumper,6,4
+17:14,Georgetown,Mac McClung,Three Point Jumper,6,7
+16:41,Villanova,Collin Gillespie,Missed Three Point Jumper,6,7
+16:37,Georgetown,Josh LeBlanc,Defensive Rebound,6,7
+16:32,Georgetown,Jamorko Pickett,Missed Three Point Jumper,6,7
+16:28,Villanova,Saddiq Bey,Defensive Rebound,6,7
+16:18,Villanova,Phil Booth,Jumper,8,7
+15:52,Georgetown,Mac McClung,Turnover,8,7
+15:52,Georgetown,None,None,8,7
+15:22,Villanova,Joe Cremo,Missed Three Point Jumper,8,7
+15:20,Georgetown,Georgetown,Defensive Rebound,8,7
+15:09,Georgetown,Josh LeBlanc,Dunk,8,9
+14:43,Villanova,Saddiq Bey,Missed Jumper,8,9
+14:40,Georgetown,Josh LeBlanc,Defensive Rebound,8,9
+14:26,Georgetown,James Akinjo,Three Point Jumper,8,12
+14:02,Villanova,Jermaine Samuels,Foul,8,12
+14:02,Villanova,Jermaine Samuels,Turnover,8,12
+13:42,Georgetown,Mac McClung,Three Point Jumper,8,15
+13:17,Villanova,Eric Paschall,Dunk,10,15
+13:17,Georgetown,Jessie Govan,Foul,10,15
+13:17,Villanova,Eric Paschall,Free Throw,11,15
+12:58,Georgetown,Jessie Govan,Layup,11,17
+12:36,Villanova,Saddiq Bey,Three Point Jumper,14,17
+12:21,Georgetown,Jamorko Pickett,Missed Three Point Jumper,14,17
+12:18,Villanova,Saddiq Bey,Defensive Rebound,14,17
+12:13,Villanova,Phil Booth,Missed Three Point Jumper,14,17
+12:08,Villanova,Saddiq Bey,Offensive Rebound,14,17
+12:03,Villanova,Joe Cremo,Missed Three Point Jumper,14,17
+11:59,Georgetown,Jamorko Pickett,Defensive Rebound,14,17
+11:52,Georgetown,Jessie Govan,Missed Three Point Jumper,14,17
+11:49,Villanova,Phil Booth,Defensive Rebound,14,17
+11:39,Villanova,Phil Booth,Missed Jumper,14,17
+11:37,Villanova,Saddiq Bey,Offensive Rebound,14,17
+11:36,Georgetown,Josh LeBlanc,Foul,14,17
+11:36,Georgetown,None,None,14,17
+11:17,Georgetown,Trey Mourning,Foul,14,17
+11:17,Villanova,Eric Paschall,Free Throw,15,17
+11:17,Villanova,Eric Paschall,Missed Free Throw,15,17
+11:15,Georgetown,Kaleb Johnson,Defensive Rebound,15,17
+11:09,Georgetown,Jagan Mosely,Missed Three Point Jumper,15,17
+11:06,Georgetown,Kaleb Johnson,Offensive Rebound,15,17
+11:05,Georgetown,Kaleb Johnson,Layup,15,19
+10:37,Villanova,Dhamir Cosby-Roundtree,Dunk,17,19
+10:15,Georgetown,James Akinjo,Missed Three Point Jumper,17,19
+10:10,Villanova,Jahvon Quinerly,Defensive Rebound,17,19
+10:00,Villanova,Eric Paschall,Turnover,17,19
+10:00,Georgetown,Jamorko Pickett,Steal,17,19
+9:55,Georgetown,Kaleb Johnson,Layup,17,21
+9:22,Villanova,Phil Booth,Missed Jumper,17,21
+9:22,Georgetown,Jagan Mosely,Block,17,21
+9:21,Villanova,Villanova,Offensive Rebound,17,21
+9:21,Villanova,Villanova ,Turnover,17,21
+9:00,Georgetown,Trey Mourning,Jumper,17,23
+8:39,Georgetown,Greg Malinowski,Foul,17,23
+8:37,Villanova,Phil Booth,Jumper,19,23
+8:18,Villanova,Saddiq Bey,Foul,19,23
+8:05,Georgetown,Mac McClung,Three Point Jumper,19,26
+7:40,Villanova,Phil Booth,Three Point Jumper,22,26
+7:38,Georgetown,None,None,22,26
+7:12,Georgetown,Mac McClung,Turnover,22,26
+7:12,Villanova,Collin Gillespie,Steal,22,26
+6:53,Villanova,Collin Gillespie,Turnover,22,26
+6:53,Georgetown,Jahvon Blair,Steal,22,26
+6:48,Georgetown,Mac McClung,Three Point Jumper,22,29
+6:20,Villanova,Phil Booth,Turnover,22,29
+6:20,Georgetown,Kaleb Johnson,Steal,22,29
+6:19,Georgetown,Kaleb Johnson,Turnover,22,29
+6:13,Villanova,Phil Booth,Jumper,24,29
+6:13,Georgetown,Jagan Mosely,Foul,24,29
+6:13,Villanova,Phil Booth,Free Throw,25,29
+5:55,Georgetown,Jessie Govan,Missed Jumper,25,29
+5:51,Villanova,Phil Booth,Defensive Rebound,25,29
+5:41,Villanova,Eric Paschall,Missed Layup,25,29
+5:39,Georgetown,Kaleb Johnson,Defensive Rebound,25,29
+5:36,Georgetown,Mac McClung,Jumper,25,31
+5:35,Villanova,Dhamir Cosby-Roundtree,Foul,25,31
+5:35,Georgetown,Mac McClung,Free Throw,25,32
+5:23,Georgetown,Josh LeBlanc,Foul,25,32
+5:23,Villanova,Eric Paschall,Free Throw,26,32
+5:23,Villanova,Eric Paschall,Missed Free Throw,26,32
+5:21,Georgetown,Jessie Govan,Defensive Rebound,26,32
+5:13,Georgetown,Mac McClung,Missed Three Point Jumper,26,32
+5:08,Georgetown,Kaleb Johnson,Offensive Rebound,26,32
+4:40,Georgetown,Mac McClung,Missed Three Point Jumper,26,32
+4:37,Georgetown,Jessie Govan,Offensive Rebound,26,32
+4:37,Villanova,Dhamir Cosby-Roundtree,Foul,26,32
+4:37,Georgetown,Jessie Govan,Free Throw,26,33
+4:37,Georgetown,Jessie Govan,Free Throw,26,34
+4:19,Villanova,Phil Booth,Missed Three Point Jumper,26,34
+4:15,Georgetown,Jessie Govan,Defensive Rebound,26,34
+4:02,Georgetown,Mac McClung,Turnover,26,34
+4:02,Villanova,Collin Gillespie,Steal,26,34
+3:53,Villanova,Eric Paschall,Missed Three Point Jumper,26,34
+3:50,Georgetown,Jessie Govan,Defensive Rebound,26,34
+3:45,Georgetown,James Akinjo,Foul,26,34
+3:45,Georgetown,James Akinjo,Turnover,26,34
+3:45,Georgetown,None,None,26,34
+3:23,Villanova,Phil Booth,Layup,28,34
+3:00,Georgetown,Jamorko Pickett,Missed Three Point Jumper,28,34
+2:57,Villanova,Jermaine Samuels,Defensive Rebound,28,34
+2:50,Villanova,Joe Cremo,Missed Three Point Jumper,28,34
+2:48,Georgetown,Mac McClung,Defensive Rebound,28,34
+2:48,Villanova,Jermaine Samuels,Foul,28,34
+2:48,Georgetown,Mac McClung,Free Throw,28,35
+2:48,Georgetown,Mac McClung,Free Throw,28,36
+2:36,Villanova,Saddiq Bey,Missed Three Point Jumper,28,36
+2:32,Georgetown,James Akinjo,Defensive Rebound,28,36
+2:20,Georgetown,James Akinjo,Three Point Jumper,28,39
+1:57,Villanova,Collin Gillespie,Missed Layup,28,39
+1:53,Georgetown,Kaleb Johnson,Defensive Rebound,28,39
+1:45,Georgetown,Jessie Govan,Turnover,28,39
+1:15,Villanova,Joe Cremo,Missed Jumper,28,39
+1:13,Georgetown,Jessie Govan,Defensive Rebound,28,39
+1:07,Georgetown,Jamorko Pickett,Three Point Jumper,28,42
+1:06,Villanova,None,None,28,42
+0:49,Villanova,Phil Booth,Missed Jumper,28,42
+0:45,Georgetown,Kaleb Johnson,Defensive Rebound,28,42
+0:39,Georgetown,Jamorko Pickett,Missed Three Point Jumper,28,42
+0:35,Georgetown,Jessie Govan,Offensive Rebound,28,42
+0:34,Georgetown,Jessie Govan,Missed Layup,28,42
+0:34,Villanova,Eric Paschall,Block,28,42
+0:30,Villanova,Phil Booth,Defensive Rebound,28,42
+0:28,Villanova,Saddiq Bey,Dunk,30,42
+0:06,Georgetown,James Akinjo,Turnover,30,42
+0:06,Villanova,Saddiq Bey,Steal,30,42
+0:03,Georgetown,Mac McClung,Foul,30,42
+0:03,Villanova,Collin Gillespie,Free Throw,31,42
+0:03,Villanova,Collin Gillespie,Free Throw,32,42
+0:00,Georgetown,Mac McClung,Missed Three Point Jumper,32,42
+0:00,Georgetown,Georgetown,Offensive Rebound,32,42
+0:00,Georgetown,None,None,32,42
+19:40,Villanova,Eric Paschall,Missed Three Point Jumper,32,42
+19:36,Villanova,Saddiq Bey,Offensive Rebound,32,42
+19:34,Villanova,Phil Booth,Missed Three Point Jumper,32,42
+19:30,Georgetown,Jessie Govan,Defensive Rebound,32,42
+19:24,Georgetown,Josh LeBlanc,Foul,32,42
+19:24,Georgetown,Josh LeBlanc,Turnover,32,42
+19:07,Villanova,Collin Gillespie,Missed Three Point Jumper,32,42
+19:04,Georgetown,Josh LeBlanc,Defensive Rebound,32,42
+18:56,Georgetown,Mac McClung,Missed Layup,32,42
+18:53,Villanova,Eric Paschall,Defensive Rebound,32,42
+18:46,Villanova,Eric Paschall,Layup,34,42
+18:33,Georgetown,James Akinjo,Missed Three Point Jumper,34,42
+18:29,Villanova,Phil Booth,Defensive Rebound,34,42
+18:27,Villanova,Phil Booth,Foul,34,42
+18:27,Villanova,Phil Booth,Turnover,34,42
+18:14,Georgetown,Jamorko Pickett,Missed Jumper,34,42
+18:12,Georgetown,Jessie Govan,Offensive Rebound,34,42
+18:11,Georgetown,Jessie Govan,Layup,34,44
+17:48,Villanova,Eric Paschall,Missed Three Point Jumper,34,44
+17:44,Villanova,Saddiq Bey,Offensive Rebound,34,44
+17:42,Georgetown,Jessie Govan,Foul,34,44
+17:40,Villanova,Dhamir Cosby-Roundtree,Missed Layup,34,44
+17:38,Georgetown,Georgetown,Defensive Rebound,34,44
+17:29,Georgetown,Jamorko Pickett,Missed Three Point Jumper,34,44
+17:26,Villanova,Phil Booth,Defensive Rebound,34,44
+17:20,Villanova,Dhamir Cosby-Roundtree,Dunk,36,44
+17:19,Georgetown,None,None,36,44
+17:19,Georgetown,None,None,36,44
+16:51,Georgetown,Mac McClung,Turnover,36,44
+16:51,Villanova,Dhamir Cosby-Roundtree,Steal,36,44
+16:46,Villanova,Saddiq Bey,Dunk,38,44
+16:29,Georgetown,James Akinjo,Missed Jumper,38,44
+16:28,Georgetown,Jessie Govan,Offensive Rebound,38,44
+16:28,Georgetown,Jessie Govan,Layup,38,46
+16:28,Villanova,Dhamir Cosby-Roundtree,Foul,38,46
+16:28,Georgetown,Jessie Govan,Free Throw,38,47
+16:12,Villanova,Collin Gillespie,Layup,40,47
+15:48,Georgetown,Jessie Govan,Layup,40,49
+15:48,Villanova,Eric Paschall,Foul,40,49
+15:48,Georgetown,None,None,40,49
+15:48,Georgetown,Jessie Govan,Free Throw,40,50
+15:34,Villanova,Phil Booth,Three Point Jumper,43,50
+15:10,Villanova,Saddiq Bey,Foul,43,50
+15:10,Georgetown,Jamorko Pickett,Free Throw,43,51
+15:10,Georgetown,Jamorko Pickett,Missed Free Throw,43,51
+15:08,Villanova,Jermaine Samuels,Defensive Rebound,43,51
+14:48,Villanova,Saddiq Bey,Missed Three Point Jumper,43,51
+14:45,Georgetown,Jessie Govan,Defensive Rebound,43,51
+14:45,Villanova,Saddiq Bey,Foul,43,51
+14:31,Georgetown,Mac McClung,Jumper,43,53
+14:05,Georgetown,Kaleb Johnson,Foul,43,53
+13:57,Villanova,Eric Paschall,Missed Three Point Jumper,43,53
+13:53,Georgetown,James Akinjo,Defensive Rebound,43,53
+13:45,Georgetown,James Akinjo,Jumper,43,55
+13:19,Villanova,Collin Gillespie,Turnover,43,55
+13:19,Georgetown,James Akinjo,Steal,43,55
+13:13,Georgetown,Jessie Govan,Three Point Jumper,43,58
+13:11,Villanova,None,None,43,58
+12:56,Georgetown,Kaleb Johnson,Foul,43,58
+12:48,Villanova,Saddiq Bey,Missed Three Point Jumper,43,58
+12:45,Georgetown,Mac McClung,Defensive Rebound,43,58
+12:33,Georgetown,Mac McClung,Missed Three Point Jumper,43,58
+12:30,Georgetown,Kaleb Johnson,Offensive Rebound,43,58
+12:16,Villanova,Phil Booth,Foul,43,58
+12:14,Georgetown,Jessie Govan,Missed Jumper,43,58
+12:11,Villanova,Eric Paschall,Defensive Rebound,43,58
+12:02,Villanova,Eric Paschall,Three Point Jumper,46,58
+11:42,Georgetown,Jagan Mosely,Layup,46,60
+11:19,Villanova,Jahvon Quinerly,Three Point Jumper,49,60
+11:02,Georgetown,James Akinjo,Missed Jumper,49,60
+11:02,Villanova,Villanova,Defensive Rebound,49,60
+11:02,Georgetown,None,None,49,60
+10:51,Georgetown,Trey Mourning,Foul,49,60
+10:51,Villanova,Eric Paschall,Free Throw,50,60
+10:51,Villanova,Eric Paschall,Free Throw,51,60
+10:39,Georgetown,Trey Mourning,Three Point Jumper,51,63
+10:19,Villanova,Phil Booth,Missed Jumper,51,63
+10:16,Georgetown,Trey Mourning,Defensive Rebound,51,63
+10:12,Georgetown,Trey Mourning,Missed Three Point Jumper,51,63
+10:08,Villanova,Eric Paschall,Defensive Rebound,51,63
+9:59,Villanova,Joe Cremo,Missed Three Point Jumper,51,63
+9:55,Villanova,Jermaine Samuels,Offensive Rebound,51,63
+9:50,Villanova,Phil Booth,Missed Jumper,51,63
+9:46,Georgetown,Trey Mourning,Defensive Rebound,51,63
+9:21,Georgetown,Josh LeBlanc,Missed Jumper,51,63
+9:18,Villanova,Jermaine Samuels,Defensive Rebound,51,63
+9:13,Villanova,Phil Booth,Missed Three Point Jumper,51,63
+9:09,Villanova,Saddiq Bey,Offensive Rebound,51,63
+9:06,Villanova,Eric Paschall,Missed Three Point Jumper,51,63
+9:04,Georgetown,Trey Mourning,Defensive Rebound,51,63
+9:04,Villanova,Jermaine Samuels,Foul,51,63
+9:04,Georgetown,Trey Mourning,Missed Free Throw,51,63
+9:03,Villanova,Saddiq Bey,Defensive Rebound,51,63
+8:46,Villanova,Saddiq Bey,Jumper,53,63
+8:20,Georgetown,Greg Malinowski,Three Point Jumper,53,66
+8:01,Georgetown,Trey Mourning,Foul,53,66
+7:53,Georgetown,Josh LeBlanc,Foul,53,66
+7:53,Georgetown,None,None,53,66
+7:53,Villanova,Eric Paschall,Missed Free Throw,53,66
+7:50,Georgetown,Kaleb Johnson,Defensive Rebound,53,66
+7:24,Georgetown,Kaleb Johnson,Missed Jumper,53,66
+7:21,Georgetown,Trey Mourning,Offensive Rebound,53,66
+6:58,Georgetown,Greg Malinowski,Missed Three Point Jumper,53,66
+6:55,Villanova,Villanova,Defensive Rebound,53,66
+6:37,Villanova,Saddiq Bey,Missed Three Point Jumper,53,66
+6:34,Georgetown,Jahvon Blair,Defensive Rebound,53,66
+6:23,Georgetown,Jahvon Blair,Three Point Jumper,53,69
+5:58,Villanova,Phil Booth,Missed Three Point Jumper,53,69
+5:53,Villanova,Saddiq Bey,Offensive Rebound,53,69
+5:49,Georgetown,Greg Malinowski,Foul,53,69
+5:49,Villanova,Eric Paschall,Missed Free Throw,53,69
+5:49,Villanova,Villanova,Offensive Rebound,53,69
+5:49,Villanova,Eric Paschall,Free Throw,54,69
+5:31,Georgetown,Kaleb Johnson,Layup,54,71
+5:10,Villanova,Phil Booth,Turnover,54,71
+5:10,Georgetown,James Akinjo,Steal,54,71
+5:05,Villanova,Jermaine Samuels,Foul,54,71
+5:05,Georgetown,Mac McClung,Free Throw,54,72
+5:05,Georgetown,Mac McClung,Free Throw,54,73
+4:55,Villanova,Phil Booth,Jumper,56,73
+4:20,Georgetown,James Akinjo,Missed Three Point Jumper,56,73
+4:17,Villanova,Jahvon Quinerly,Defensive Rebound,56,73
+4:14,Villanova,Phil Booth,Missed Three Point Jumper,56,73
+4:11,Georgetown,Mac McClung,Defensive Rebound,56,73
+4:01,Villanova,Collin Gillespie,Foul,56,73
+4:01,Georgetown,Kaleb Johnson,Free Throw,56,74
+4:01,Georgetown,Kaleb Johnson,Free Throw,56,75
+3:48,Villanova,Eric Paschall,Missed Three Point Jumper,56,75
+3:45,Georgetown,Mac McClung,Defensive Rebound,56,75
+3:28,Georgetown,Mac McClung,Missed Jumper,56,75
+3:28,Villanova,Saddiq Bey,Block,56,75
+3:24,Villanova,Collin Gillespie,Defensive Rebound,56,75
+3:21,Georgetown,Jessie Govan,Foul,56,75
+3:21,Georgetown,None,None,56,75
+3:21,Villanova,Phil Booth,Free Throw,57,75
+3:21,Villanova,Phil Booth,Free Throw,58,75
+3:19,Georgetown,James Akinjo,Turnover,58,75
+3:09,Villanova,Phil Booth,Layup,60,75
+3:08,Villanova,None,None,60,75
+2:59,Georgetown,Greg Malinowski,Turnover,60,75
+2:59,Villanova,Brandon Slater,Steal,60,75
+2:54,Villanova,Brandon Slater,Turnover,60,75
+2:54,Georgetown,Mac McClung,Steal,60,75
+2:49,Georgetown,Jessie Govan,Dunk,60,77
+2:20,Georgetown,Mac McClung,Foul,60,77
+2:20,Villanova,Collin Gillespie,Free Throw,61,77
+2:20,Villanova,Collin Gillespie,Missed Free Throw,61,77
+2:19,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,61,77
+2:15,Villanova,Collin Gillespie,Three Point Jumper,64,77
+2:06,Villanova,Collin Gillespie,Foul,64,77
+2:06,Georgetown,James Akinjo,Free Throw,64,78
+2:06,Georgetown,James Akinjo,Free Throw,64,79
+1:56,Villanova,Jahvon Quinerly,Missed Three Point Jumper,64,79
+1:53,Georgetown,Georgetown,Defensive Rebound,64,79
+1:49,Georgetown,Mac McClung,Turnover,64,79
+1:49,Villanova,Saddiq Bey,Steal,64,79
+1:44,Villanova,Jahvon Quinerly,Layup,66,79
+1:40,Georgetown,Jamorko Pickett,Dunk,66,81
+1:22,Villanova,Phil Booth,Jumper,68,81
+1:21,Villanova,None,None,68,81
+1:16,Villanova,Dhamir Cosby-Roundtree,Foul,68,81
+1:16,Georgetown,Jamorko Pickett,Free Throw,68,82
+1:16,Georgetown,Jamorko Pickett,Missed Free Throw,68,82
+1:13,Villanova,Saddiq Bey,Defensive Rebound,68,82
+1:08,Villanova,Phil Booth,Missed Three Point Jumper,68,82
+1:06,Villanova,Collin Gillespie,Offensive Rebound,68,82
+1:06,Georgetown,James Akinjo,Foul,68,82
+1:05,Villanova,Collin Gillespie,Free Throw,69,82
+1:05,Villanova,Collin Gillespie,Free Throw,70,82
+0:59,Georgetown,Jessie Govan,Dunk,70,84
+0:56,Villanova,Collin Gillespie,Missed Three Point Jumper,70,84
+0:52,Villanova,Collin Gillespie,Offensive Rebound,70,84
+0:48,Villanova,Brandon Slater,Missed Three Point Jumper,70,84
+0:44,Villanova,Dhamir Cosby-Roundtree,Offensive Rebound,70,84
+0:42,Villanova,Brandon Slater,Missed Layup,70,84
+0:41,Georgetown,Greg Malinowski,Defensive Rebound,70,84
+0:40,Villanova,Dhamir Cosby-Roundtree,Foul,70,84
+0:40,Georgetown,Greg Malinowski,Missed Free Throw,70,84
+0:40,Georgetown,Georgetown,Offensive Rebound,70,84
+0:40,Georgetown,Greg Malinowski,Free Throw,70,85
+0:34,Villanova,Jahvon Quinerly,Missed Three Point Jumper,70,85
+0:32,Villanova,Villanova,Offensive Rebound,70,85
+0:30,Villanova,Collin Gillespie,Three Point Jumper,73,85
+0:03,Georgetown,Georgetown ,Turnover,73,85
+0:00,Georgetown,None,None,73,85
+0:00,Georgetown,None,None,73,85

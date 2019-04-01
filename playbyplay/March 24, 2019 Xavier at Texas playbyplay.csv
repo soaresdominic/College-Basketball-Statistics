@@ -1,0 +1,362 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas,None,None,0,0
+19:42,Xavier,Quentin Goodin,Foul,0,0
+19:39,Texas,Jericho Sims,Foul,0,0
+19:39,Texas,Jericho Sims,Turnover,0,0
+19:37,Xavier,Tyrique Jones,Turnover,0,0
+19:37,Texas,Dylan Osetkowski,Steal,0,0
+19:16,Texas,Dylan Osetkowski,Layup,0,2
+19:05,Xavier,Tyrique Jones,Dunk,2,2
+18:39,Xavier,Zach Hankins,Foul,2,2
+18:39,Texas,Jericho Sims,Missed Free Throw,2,2
+18:39,Texas,None,Team Rebound,2,2
+18:39,Texas,Jericho Sims,Free Throw,2,3
+18:32,Xavier,Naji Marshall,Three Point Jumper,5,3
+18:15,Texas,Matt Coleman III,Missed Three Point Jumper,5,3
+18:15,Texas,Jericho Sims,Offensive Rebound,5,3
+17:59,Texas,Courtney Ramey,Jumper,5,5
+17:42,Texas,Jericho Sims,Foul,5,5
+17:42,Xavier,Tyrique Jones,Missed Free Throw,5,5
+17:42,Xavier,None,Team Rebound,5,5
+17:42,Xavier,Tyrique Jones,Missed Free Throw,5,5
+17:42,Texas,Dylan Osetkowski,Defensive Rebound,5,5
+17:25,Texas,Dylan Osetkowski,Missed Jumper,5,5
+17:25,Xavier,Zach Hankins,Defensive Rebound,5,5
+17:13,Xavier,Zach Hankins,Jumper,7,5
+16:46,Texas,Courtney Ramey,Turnover,7,5
+16:46,Xavier,Zach Hankins,Steal,7,5
+16:41,Xavier,Zach Hankins,Turnover,7,5
+16:41,Texas,Jase Febres,Steal,7,5
+16:33,Texas,Jase Febres,Three Point Jumper,7,8
+16:05,Xavier,Naji Marshall,Missed Jumper,7,8
+16:05,Texas,Dylan Osetkowski,Defensive Rebound,7,8
+15:53,Texas,Jase Febres,Missed Three Point Jumper,7,8
+15:53,Xavier,Tyrique Jones,Defensive Rebound,7,8
+15:35,Xavier,Paul Scruggs,Turnover,7,8
+15:35,Texas,Courtney Ramey,Steal,7,8
+15:28,Xavier,Quentin Goodin,Foul,7,8
+15:28,Texas,None,None,7,8
+15:28,Texas,Dylan Osetkowski,Free Throw,7,9
+15:28,Texas,Dylan Osetkowski,Free Throw,7,10
+15:09,Xavier,Naji Marshall,Turnover,7,10
+14:55,Texas,Courtney Ramey,Missed Three Point Jumper,7,10
+14:55,Xavier,Naji Marshall,Defensive Rebound,7,10
+14:37,Xavier,Tyrique Jones,Layup,9,10
+14:07,Texas,Kerwin Roach II,Missed Jumper,9,10
+14:07,Xavier,Tyrique Jones,Defensive Rebound,9,10
+13:55,Xavier,Paul Scruggs,Missed Jumper,9,10
+13:55,Texas,Royce Hamm Jr.,Block,9,10
+13:55,Texas,Courtney Ramey,Defensive Rebound,9,10
+13:52,Xavier,Tyrique Jones,Foul,9,10
+13:38,Texas,Kerwin Roach II,Turnover,9,10
+13:32,Xavier,Naji Marshall,Missed Three Point Jumper,9,10
+13:32,Xavier,Zach Hankins,Offensive Rebound,9,10
+13:21,Xavier,Ryan Welage,Missed Three Point Jumper,9,10
+13:21,Texas,Matt Coleman III,Defensive Rebound,9,10
+13:10,Texas,Matt Coleman III,Missed Jumper,9,10
+13:10,Xavier,Zach Hankins,Defensive Rebound,9,10
+13:03,Xavier,Naji Marshall,Dunk,11,10
+12:57,Texas,Kerwin Roach II,Three Point Jumper,11,13
+12:39,Texas,Elijah Mitrou-Long,Foul,11,13
+12:29,Xavier,Naji Marshall,Turnover,11,13
+12:10,Texas,Matt Coleman III,Jumper,11,15
+11:49,Xavier,Naji Marshall,Missed Layup,11,15
+11:49,Xavier,Naji Marshall,Offensive Rebound,11,15
+11:49,Xavier,None,None,13,15
+11:34,Texas,Kerwin Roach II,Turnover,13,15
+11:34,Texas,None,None,13,15
+11:23,Xavier,Zach Hankins,Dunk,15,15
+11:05,Xavier,Naji Marshall,Foul,15,15
+11:05,Texas,Dylan Osetkowski,Missed Free Throw,15,15
+11:05,Texas,None,Team Rebound,15,15
+11:05,Texas,Dylan Osetkowski,Free Throw,15,16
+10:48,Xavier,Kyle Castlin,Jumper,17,16
+10:32,Texas,Jase Febres,Missed Three Point Jumper,17,16
+10:32,Xavier,Paul Scruggs,Defensive Rebound,17,16
+10:13,Xavier,Paul Scruggs,Missed Three Point Jumper,17,16
+10:13,Texas,Jase Febres,Defensive Rebound,17,16
+9:45,Texas,Dylan Osetkowski,Missed Layup,17,16
+9:45,Xavier,Zach Hankins,Defensive Rebound,17,16
+9:38,Xavier,Naji Marshall,Three Point Jumper,20,16
+9:29,Texas,Matt Coleman III,Layup,20,18
+9:06,Xavier,Zach Hankins,Missed Jumper,20,18
+9:06,Xavier,Xavier,Offensive Rebound,20,18
+9:00,Xavier,Paul Scruggs,Missed Layup,20,18
+9:00,Texas,Kerwin Roach II,Defensive Rebound,20,18
+8:51,Texas,Courtney Ramey,Missed Jumper,20,18
+8:51,Xavier,Kyle Castlin,Defensive Rebound,20,18
+8:41,Xavier,Naji Marshall,Missed Three Point Jumper,20,18
+8:41,Texas,Jericho Sims,Defensive Rebound,20,18
+8:31,Xavier,Paul Scruggs,Foul,20,18
+8:30,Texas,Kerwin Roach II,Missed Jumper,20,18
+8:30,Xavier,Tyrique Jones,Defensive Rebound,20,18
+8:16,Xavier,Ryan Welage,Missed Three Point Jumper,20,18
+8:16,Texas,Jase Febres,Defensive Rebound,20,18
+8:08,Xavier,Elias Harden,Foul,20,18
+8:08,Texas,Kerwin Roach II,Missed Free Throw,20,18
+8:08,Texas,None,Team Rebound,20,18
+8:08,Texas,Kerwin Roach II,Free Throw,20,19
+7:44,Xavier,Paul Scruggs,Foul,20,19
+7:44,Xavier,Paul Scruggs,Turnover,20,19
+7:44,Texas,None,None,20,19
+7:40,Texas,Jase Febres,Turnover,20,19
+7:40,Xavier,Tyrique Jones,Steal,20,19
+7:13,Xavier,Kyle Castlin,Turnover,20,19
+7:01,Texas,Courtney Ramey,Layup,20,21
+6:35,Xavier,Tyrique Jones,Dunk,22,21
+6:18,Texas,Jericho Sims,Dunk,22,23
+5:50,Xavier,Naji Marshall,Missed Jumper,22,23
+5:50,Texas,Courtney Ramey,Defensive Rebound,22,23
+5:40,Texas,Jericho Sims,Dunk,22,25
+5:16,Xavier,Tyrique Jones,Dunk,24,25
+4:54,Texas,Kerwin Roach II,Three Point Jumper,24,28
+4:25,Texas,Kerwin Roach II,Foul,24,28
+4:25,Xavier,Elias Harden,Missed Free Throw,24,28
+4:25,Xavier,None,Team Rebound,24,28
+4:25,Xavier,Elias Harden,Free Throw,25,28
+4:25,Xavier,Elias Harden,Free Throw,26,28
+4:13,Texas,Dylan Osetkowski,Missed Three Point Jumper,26,28
+4:13,Xavier,Zach Hankins,Defensive Rebound,26,28
+3:45,Texas,None,None,26,28
+3:45,Xavier,Elias Harden,Foul,26,28
+3:45,Xavier,Elias Harden,Foul,26,28
+3:45,Texas,Courtney Ramey,Foul,26,28
+3:45,Texas,Courtney Ramey,Foul,26,28
+3:41,Xavier,Elias Harden,Missed Three Point Jumper,26,28
+3:41,Texas,Royce Hamm Jr.,Defensive Rebound,26,28
+3:24,Texas,Matt Coleman III,Missed Three Point Jumper,26,28
+3:24,Texas,Dylan Osetkowski,Offensive Rebound,26,28
+2:55,Texas,Kerwin Roach II,Jumper,26,30
+2:36,Xavier,Zach Hankins,Jumper,28,30
+2:23,Texas,Courtney Ramey,Three Point Jumper,28,33
+2:03,Xavier,Quentin Goodin,Jumper,30,33
+1:45,Texas,Jericho Sims,Missed Layup,30,33
+1:45,Xavier,Naji Marshall,Defensive Rebound,30,33
+1:37,Xavier,Naji Marshall,Turnover,30,33
+1:19,Xavier,Zach Hankins,Foul,30,33
+1:19,Texas,Kerwin Roach II,Free Throw,30,34
+1:19,Texas,Kerwin Roach II,Free Throw,30,35
+1:00,Xavier,Tyrique Jones,Turnover,30,35
+0:42,Texas,Kerwin Roach II,Jumper,30,37
+0:42,Xavier,Kyle Castlin,Foul,30,37
+0:42,Texas,Kerwin Roach II,Free Throw,30,38
+0:42,Texas,None,None,30,38
+0:34,Texas,Gerald Liddell,Foul,30,38
+0:33,Xavier,Naji Marshall,Missed Jumper,30,38
+0:33,Texas,Dylan Osetkowski,Defensive Rebound,30,38
+0:02,Texas,Matt Coleman III,Missed Jumper,30,38
+0:02,Xavier,Ryan Welage,Defensive Rebound,30,38
+0:01,Xavier,Quentin Goodin,Jumper,32,38
+0:00,Texas,None,None,32,38
+20:00,Xavier,None,None,32,38
+19:49,Texas,Jericho Sims,Foul,32,38
+19:38,Xavier,Tyrique Jones,Jumper,34,38
+19:22,Texas,Matt Coleman III,Missed Jumper,34,38
+19:22,Xavier,Naji Marshall,Defensive Rebound,34,38
+19:16,Xavier,Naji Marshall,Three Point Jumper,37,38
+18:57,Texas,Courtney Ramey,Missed Jumper,37,38
+18:57,Xavier,Zach Hankins,Defensive Rebound,37,38
+18:46,Xavier,Tyrique Jones,Jumper,39,38
+18:42,Texas,None,None,39,38
+18:27,Texas,Jase Febres,Three Point Jumper,39,41
+18:02,Xavier,Tyrique Jones,Missed Layup,39,41
+18:02,Texas,Dylan Osetkowski,Block,39,41
+18:02,Xavier,Tyrique Jones,Offensive Rebound,39,41
+17:56,Xavier,Tyrique Jones,Layup,41,41
+17:56,Texas,Royce Hamm Jr.,Foul,41,41
+17:56,Xavier,Tyrique Jones,Free Throw,42,41
+17:44,Texas,Kerwin Roach II,Missed Layup,42,41
+17:44,Xavier,Zach Hankins,Defensive Rebound,42,41
+17:34,Xavier,Zach Hankins,Layup,44,41
+17:22,Texas,Jase Febres,Missed Three Point Jumper,44,41
+17:22,Xavier,Tyrique Jones,Defensive Rebound,44,41
+17:12,Xavier,Quentin Goodin,Turnover,44,41
+16:58,Texas,Dylan Osetkowski,Missed Three Point Jumper,44,41
+16:58,Xavier,Zach Hankins,Defensive Rebound,44,41
+16:44,Texas,Royce Hamm Jr.,Foul,44,41
+16:44,Xavier,Zach Hankins,Free Throw,45,41
+16:44,Xavier,Zach Hankins,Missed Free Throw,45,41
+16:44,Texas,Kerwin Roach II,Defensive Rebound,45,41
+16:29,Xavier,Zach Hankins,Foul,45,41
+16:29,Texas,Kerwin Roach II,Missed Free Throw,45,41
+16:29,Texas,None,Team Rebound,45,41
+16:29,Texas,Kerwin Roach II,Missed Free Throw,45,41
+16:29,Xavier,Tyrique Jones,Defensive Rebound,45,41
+15:58,Xavier,Xavier ,Turnover,45,41
+15:58,Texas,None,None,45,41
+15:31,Texas,Kerwin Roach II,Jumper,45,43
+15:12,Xavier,Naji Marshall,Missed Layup,45,43
+15:12,Xavier,Naji Marshall,Offensive Rebound,45,43
+15:06,Xavier,Naji Marshall,Layup,47,43
+14:50,Texas,Dylan Osetkowski,Missed Layup,47,43
+14:50,Xavier,Quentin Goodin,Defensive Rebound,47,43
+14:41,Xavier,Quentin Goodin,Missed Jumper,47,43
+14:41,Texas,Courtney Ramey,Defensive Rebound,47,43
+14:33,Texas,Jase Febres,Three Point Jumper,47,46
+14:12,Xavier,Paul Scruggs,Missed Three Point Jumper,47,46
+14:12,Texas,Matt Coleman III,Defensive Rebound,47,46
+14:06,Texas,Matt Coleman III,Turnover,47,46
+14:06,Xavier,Quentin Goodin,Steal,47,46
+13:47,Xavier,Tyrique Jones,Foul,47,46
+13:47,Xavier,Tyrique Jones,Turnover,47,46
+13:23,Texas,Matt Coleman III,Three Point Jumper,47,49
+12:54,Xavier,Naji Marshall,Missed Layup,47,49
+12:54,Texas,Jase Febres,Defensive Rebound,47,49
+12:45,Texas,Matt Coleman III,Missed Three Point Jumper,47,49
+12:39,Texas,Texas,Offensive Rebound,47,49
+12:34,Texas,Kerwin Roach II,Missed Jumper,47,49
+12:34,Texas,Kerwin Roach II,Offensive Rebound,47,49
+12:24,Xavier,Zach Hankins,Foul,47,49
+12:24,Xavier,None,None,47,49
+12:24,Texas,Kerwin Roach II,Free Throw,47,50
+12:24,Texas,Kerwin Roach II,Missed Free Throw,47,50
+12:24,Xavier,Tyrique Jones,Defensive Rebound,47,50
+12:10,Texas,Matt Coleman III,Foul,47,50
+12:09,Texas,Jase Febres,Foul,47,50
+12:09,Xavier,Naji Marshall,Missed Free Throw,47,50
+12:09,Xavier,None,Team Rebound,47,50
+12:09,Xavier,Naji Marshall,Free Throw,48,50
+11:48,Texas,Courtney Ramey,Three Point Jumper,48,53
+11:22,Xavier,Tyrique Jones,Jumper,50,53
+11:03,Texas,Courtney Ramey,Missed Jumper,50,53
+11:03,Xavier,Tyrique Jones,Defensive Rebound,50,53
+10:52,Xavier,Naji Marshall,Missed Three Point Jumper,50,53
+10:52,Texas,Kerwin Roach II,Defensive Rebound,50,53
+10:44,Texas,Kerwin Roach II,Layup,50,55
+10:25,Xavier,Paul Scruggs,Missed Jumper,50,55
+10:25,Texas,Jericho Sims,Defensive Rebound,50,55
+10:11,Texas,Jase Febres,Layup,50,57
+9:48,Xavier,Paul Scruggs,Missed Three Point Jumper,50,57
+9:48,Texas,Kerwin Roach II,Defensive Rebound,50,57
+9:38,Texas,Matt Coleman III,Missed Layup,50,57
+9:38,Texas,Matt Coleman III,Offensive Rebound,50,57
+9:28,Texas,Matt Coleman III,Missed Layup,50,57
+9:28,Xavier,Tyrique Jones,Defensive Rebound,50,57
+9:21,Texas,Matt Coleman III,Foul,50,57
+9:21,Xavier,Quentin Goodin,Free Throw,51,57
+9:21,Xavier,Quentin Goodin,Missed Free Throw,51,57
+9:21,Texas,Kerwin Roach II,Defensive Rebound,51,57
+8:52,Texas,Kerwin Roach II,Missed Layup,51,57
+8:52,Texas,Gerald Liddell,Offensive Rebound,51,57
+8:31,Texas,Courtney Ramey,Missed Three Point Jumper,51,57
+8:31,Texas,Dylan Osetkowski,Offensive Rebound,51,57
+8:12,Texas,Kerwin Roach II,Turnover,51,57
+7:46,Xavier,Kyle Castlin,Missed Three Point Jumper,51,57
+7:46,Texas,Kerwin Roach II,Defensive Rebound,51,57
+7:41,Xavier,Tyrique Jones,Foul,51,57
+7:41,Texas,None,None,51,57
+7:23,Texas,Jase Febres,Three Point Jumper,51,60
+7:00,Xavier,Quentin Goodin,Layup,53,60
+7:00,Texas,Kerwin Roach II,Foul,53,60
+7:00,Xavier,Quentin Goodin,Missed Free Throw,53,60
+7:00,Xavier,Paul Scruggs,Offensive Rebound,53,60
+7:00,Xavier,Paul Scruggs,Layup,55,60
+6:33,Xavier,Tyrique Jones,Foul,55,60
+6:33,Texas,Kerwin Roach II,Missed Free Throw,55,60
+6:33,Texas,None,Team Rebound,55,60
+6:33,Texas,Kerwin Roach II,Free Throw,55,61
+6:17,Xavier,Zach Hankins,Dunk,57,61
+6:01,Texas,Courtney Ramey,Missed Three Point Jumper,57,61
+6:01,Texas,Gerald Liddell,Offensive Rebound,57,61
+5:47,Texas,Matt Coleman III,Missed Jumper,57,61
+5:47,Texas,Jericho Sims,Offensive Rebound,57,61
+5:47,Texas,None,None,57,61
+5:47,Xavier,Naji Marshall,Defensive Rebound,57,61
+5:34,Xavier,Zach Hankins,Layup,59,61
+5:27,Texas,None,None,59,61
+5:17,Texas,Jericho Sims,Jumper,59,63
+4:53,Xavier,Quentin Goodin,Three Point Jumper,62,63
+4:29,Texas,Kerwin Roach II,Turnover,62,63
+4:14,Xavier,Paul Scruggs,Missed Three Point Jumper,62,63
+4:14,Texas,Courtney Ramey,Defensive Rebound,62,63
+4:04,Texas,Courtney Ramey,Jumper,62,65
+3:39,Xavier,Ryan Welage,Missed Jumper,62,65
+3:39,Xavier,Ryan Welage,Offensive Rebound,62,65
+3:35,Xavier,Ryan Welage,Missed Jumper,62,65
+3:35,Texas,Jericho Sims,Defensive Rebound,62,65
+3:31,Texas,None,None,62,65
+3:18,Texas,Kerwin Roach II,Turnover,62,65
+3:04,Xavier,Quentin Goodin,Three Point Jumper,65,65
+2:48,Texas,Jase Febres,Three Point Jumper,65,68
+2:18,Xavier,Naji Marshall,Layup,67,68
+2:00,Texas,Courtney Ramey,Jumper,67,70
+1:34,Texas,Jase Febres,Foul,67,70
+1:34,Xavier,Paul Scruggs,Missed Free Throw,67,70
+1:34,Xavier,None,Team Rebound,67,70
+1:34,Xavier,Paul Scruggs,Missed Free Throw,67,70
+1:34,Texas,Matt Coleman III,Defensive Rebound,67,70
+1:28,Texas,Kerwin Roach II,Missed Jumper,67,70
+1:28,Texas,Jericho Sims,Offensive Rebound,67,70
+1:24,Texas,Jericho Sims,Missed Jumper,67,70
+1:24,Texas,Jericho Sims,Offensive Rebound,67,70
+1:15,Texas,None,None,67,70
+1:04,Texas,Courtney Ramey,Missed Jumper,67,70
+1:04,Xavier,Quentin Goodin,Defensive Rebound,67,70
+0:45,Xavier,Tyrique Jones,Jumper,69,70
+0:27,Texas,Jase Febres,Missed Jumper,69,70
+0:27,Xavier,Naji Marshall,Defensive Rebound,69,70
+0:02,Texas,Kerwin Roach II,Foul,69,70
+0:02,Xavier,Quentin Goodin,Free Throw,70,70
+0:02,Texas,None,None,70,70
+0:02,Xavier,Quentin Goodin,Missed Free Throw,70,70
+0:02,Xavier,Zach Hankins,Offensive Rebound,70,70
+0:01,Xavier,Zach Hankins,Missed Layup,70,70
+0:01,Texas,Jericho Sims,Block,70,70
+0:01,Texas,Courtney Ramey,Defensive Rebound,70,70
+0:00,Texas,None,None,70,70
+5:00,Xavier,None,None,70,70
+4:45,Texas,Courtney Ramey,Foul,70,70
+4:45,Xavier,Naji Marshall,Missed Free Throw,70,70
+4:45,Xavier,None,Team Rebound,70,70
+4:45,Xavier,Naji Marshall,Free Throw,71,70
+4:30,Xavier,Naji Marshall,Foul,71,70
+4:30,Texas,Jericho Sims,Free Throw,71,71
+4:30,Texas,Jericho Sims,Free Throw,71,72
+4:14,Xavier,Tyrique Jones,Layup,73,72
+3:57,Texas,Courtney Ramey,Three Point Jumper,73,75
+3:26,Texas,Courtney Ramey,Foul,73,75
+3:22,Xavier,Quentin Goodin,Missed Three Point Jumper,73,75
+3:22,Xavier,Kyle Castlin,Offensive Rebound,73,75
+3:14,Xavier,Naji Marshall,Missed Layup,73,75
+3:14,Texas,Jase Febres,Block,73,75
+3:14,Texas,Courtney Ramey,Defensive Rebound,73,75
+2:49,Texas,Courtney Ramey,Missed Three Point Jumper,73,75
+2:49,Texas,Jericho Sims,Offensive Rebound,73,75
+2:43,Texas,Jase Febres,Missed Three Point Jumper,73,75
+2:43,Texas,Texas,Offensive Rebound,73,75
+2:37,Xavier,Naji Marshall,Foul,73,75
+2:37,Texas,Jericho Sims,Free Throw,73,76
+2:37,Texas,Jericho Sims,Free Throw,73,77
+2:26,Texas,Kerwin Roach II,Missed Jumper,73,77
+2:26,Texas,Jericho Sims,Offensive Rebound,73,77
+2:00,Texas,Courtney Ramey,Missed Jumper,73,77
+2:00,Xavier,Quentin Goodin,Defensive Rebound,73,77
+1:43,Xavier,Paul Scruggs,Jumper,75,77
+1:22,Texas,Jericho Sims,Missed Dunk,75,77
+1:22,Texas,Jericho Sims,Offensive Rebound,75,77
+1:20,Texas,None,None,75,77
+1:16,Texas,Matt Coleman III,Missed Jumper,75,77
+1:16,Xavier,Tyrique Jones,Defensive Rebound,75,77
+0:50,Texas,Jericho Sims,Foul,75,77
+0:50,Xavier,Tyrique Jones,Free Throw,76,77
+0:50,Xavier,Tyrique Jones,Missed Free Throw,76,77
+0:50,Texas,Courtney Ramey,Defensive Rebound,76,77
+0:43,Xavier,Kyle Castlin,Foul,76,77
+0:20,Xavier,Naji Marshall,Foul,76,77
+0:20,Texas,Kerwin Roach II,Free Throw,76,78
+0:20,Texas,Kerwin Roach II,Missed Free Throw,76,78
+0:20,Texas,Jase Febres,Offensive Rebound,76,78
+0:16,Xavier,Ryan Welage,Foul,76,78
+0:16,Texas,Kerwin Roach II,Missed Free Throw,76,78
+0:16,Texas,None,Team Rebound,76,78
+0:16,Texas,Kerwin Roach II,Missed Free Throw,76,78
+0:16,Xavier,Naji Marshall,Defensive Rebound,76,78
+0:04,Xavier,Naji Marshall,Missed Jumper,76,78
+0:04,Xavier,Tyrique Jones,Offensive Rebound,76,78
+0:04,Xavier,None,None,76,78
+0:04,Xavier,Paul Scruggs,Offensive Rebound,76,78
+0:02,Xavier,None,None,76,78
+0:02,Texas,None,None,76,78
+0:01,Xavier,Naji Marshall,Missed Jumper,76,78
+0:01,Xavier,None,Team Rebound,76,78
+0:00,Texas,None,None,76,78

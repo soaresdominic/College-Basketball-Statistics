@@ -1,0 +1,301 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:42,Chicago State,Rob Shaw,Layup,2,0
+19:19,Seattle,Mattia Da Campo,Layup,2,2
+18:57,Chicago State,Rob Shaw,Jumper,4,2
+18:44,Seattle,Myles Carter,Missed Dunk,4,2
+18:37,Chicago State,Rob Shaw,Defensive Rebound,4,2
+18:19,Chicago State,Patrick Szpir,Turnover,4,2
+18:03,Seattle,Terrell Brown,Turnover,4,2
+18:03,Chicago State,Cameron Bowles,Steal,4,2
+17:49,Chicago State,Anthony Harris,Three Point Jumper,7,2
+17:27,Chicago State,Patrick Szpir,Foul,7,2
+17:23,Chicago State,Cameron Bowles,Foul,7,2
+17:19,Seattle,Myles Carter,Missed Layup,7,2
+17:16,Chicago State,Cameron Bowles,Defensive Rebound,7,2
+17:09,Seattle,Mattia Da Campo,Foul,7,2
+17:05,Chicago State,Rob Shaw,Missed Jumper,7,2
+17:02,Seattle,Myles Carter,Defensive Rebound,7,2
+16:48,Seattle,Mattia Da Campo,Layup,7,4
+16:35,Chicago State,Travon Bell,Three Point Jumper,10,4
+16:15,Chicago State,Anthony Harris,Foul,10,4
+16:00,Seattle,Myles Carter,Layup,10,6
+15:43,Chicago State,Patrick Szpir,Jumper,12,6
+15:29,Seattle,Terrell Brown,Jumper,12,8
+15:13,Seattle,Myles Carter,Defensive Rebound,12,8
+14:56,Seattle,Riley Grigsby,Jumper,12,10
+14:39,Chicago State,None,Team Rebound,12,10
+14:39,Seattle,None,None,12,10
+14:17,Chicago State,Rob Shaw,Missed Jumper,12,10
+14:11,Seattle,Myles Carter,Defensive Rebound,12,10
+14:01,Seattle,Myles Carter,Foul,12,10
+14:01,Seattle,Myles Carter,Turnover,12,10
+13:45,Chicago State,Cameron Bowles,Missed Jumper,12,10
+13:40,Chicago State,Anthony Harris,Offensive Rebound,12,10
+13:40,Chicago State,Anthony Harris,Turnover,12,10
+13:16,Seattle,Myles Carter,Jumper,12,12
+12:53,Chicago State,Anthony Harris,Layup,14,12
+12:37,Seattle,Delante Jones,Missed Layup,14,12
+12:37,Chicago State,Patrick Szpir,Block,14,12
+12:37,Seattle,None,Team Rebound,14,12
+12:23,Seattle,Matej Kavas,Missed Three Point Jumper,14,12
+12:20,Chicago State,Noah Bigirumwami,Defensive Rebound,14,12
+12:14,Chicago State,Anthony Harris,Missed Three Point Jumper,14,12
+12:11,Seattle,Morgan Means,Defensive Rebound,14,12
+12:02,Seattle,Matej Kavas,Missed Three Point Jumper,14,12
+11:57,Chicago State,Cameron Bowles,Defensive Rebound,14,12
+11:46,Chicago State,Rob Shaw,Turnover,14,12
+11:46,Seattle,None,None,14,12
+11:20,Seattle,Terrell Brown,Layup,14,14
+11:10,Chicago State,Noah Bigirumwami,Foul,14,14
+11:10,Chicago State,Noah Bigirumwami,Turnover,14,14
+10:58,Seattle,Matej Kavas,Three Point Jumper,14,17
+10:34,Chicago State,Delshon Strickland,Missed Three Point Jumper,14,17
+10:33,Seattle,Mattia Da Campo,Defensive Rebound,14,17
+10:33,Chicago State,Noah Bigirumwami,Foul,14,17
+10:16,Seattle,Morgan Means,Turnover,14,17
+10:16,Seattle,None,None,14,17
+9:57,Chicago State,Delshon Strickland,Missed Three Point Jumper,14,17
+9:53,Seattle,Terrell Brown,Defensive Rebound,14,17
+9:39,Seattle,Terrell Brown,Turnover,14,17
+9:39,Chicago State,Rob Shaw,Steal,14,17
+9:34,Chicago State,Rob Shaw,Missed Layup,14,17
+9:28,Chicago State,Delshon Strickland,Offensive Rebound,14,17
+9:28,Chicago State,Delshon Strickland,Layup,16,17
+9:22,Seattle,Matej Kavas,Three Point Jumper,16,20
+8:57,Chicago State,Cameron Bowles,Turnover,16,20
+8:34,Seattle,Terrell Brown,Missed Jumper,16,20
+8:30,Chicago State,Cameron Bowles,Defensive Rebound,16,20
+8:13,Chicago State,Rob Shaw,Missed Jumper,16,20
+8:09,Seattle,Myles Carter,Defensive Rebound,16,20
+7:51,Seattle,Matej Kavas,Missed Jumper,16,20
+7:48,Chicago State,Anthony Harris,Defensive Rebound,16,20
+7:36,Chicago State,Patrick Szpir,Missed Layup,16,20
+7:31,Seattle,Ian Burke,Defensive Rebound,16,20
+7:11,Seattle,Terrell Brown,Missed Layup,16,20
+7:07,Seattle,Myles Carter,Offensive Rebound,16,20
+7:06,Seattle,Myles Carter,Dunk,16,22
+6:52,Seattle,Mattia Da Campo,Foul,16,22
+6:52,Seattle,None,None,16,22
+6:34,Chicago State,Eugene Witherspoon,Missed Layup,16,22
+6:31,Seattle,Myles Carter,Defensive Rebound,16,22
+6:20,Seattle,Riley Grigsby,Turnover,16,22
+6:08,Chicago State,Rob Shaw,Layup,18,22
+5:52,Seattle,Rip Economou,Missed Three Point Jumper,18,22
+5:48,Seattle,Myles Carter,Offensive Rebound,18,22
+5:45,Chicago State,Anthony Harris,Foul,18,22
+5:45,Seattle,Riley Grigsby,Missed Free Throw,18,22
+5:45,Seattle,None,Team Rebound,18,22
+5:45,Seattle,Riley Grigsby,Free Throw,18,23
+5:36,Chicago State,Noah Bigirumwami,Foul,18,23
+5:36,Chicago State,Noah Bigirumwami,Turnover,18,23
+5:22,Seattle,Rip Economou,Missed Three Point Jumper,18,23
+5:18,Chicago State,Patrick Szpir,Defensive Rebound,18,23
+4:52,Chicago State,Delshon Strickland,Missed Jumper,18,23
+4:49,Seattle,Riley Grigsby,Defensive Rebound,18,23
+4:22,Seattle,Rip Economou,Foul,18,25
+4:22,Chicago State,Delshon Strickland,Free Throw,19,25
+4:22,Chicago State,Delshon Strickland,Free Throw,20,25
+4:22,Chicago State,Delshon Strickland,Free Throw,21,25
+4:04,Seattle,Terrell Brown,Missed Three Point Jumper,21,25
+4:01,Chicago State,Eugene Witherspoon,Defensive Rebound,21,25
+3:53,Chicago State,Delshon Strickland,Layup,23,25
+3:35,Seattle,Terrell Brown,Jumper,23,27
+3:06,Chicago State,Travon Bell,Missed Jumper,23,27
+3:02,Seattle,Aaron Nettles,Defensive Rebound,23,27
+2:55,Seattle,Terrell Brown,Jumper,23,29
+2:45,Chicago State,Rob Shaw,Missed Jumper,23,29
+2:41,Seattle,Riley Grigsby,Defensive Rebound,23,29
+2:33,Seattle,Terrell Brown,Jumper,23,31
+2:32,Chicago State,Patrick Szpir,Foul,23,31
+2:32,Seattle,None,None,23,31
+2:32,Seattle,Terrell Brown,Missed Free Throw,23,31
+2:32,Chicago State,Patrick Szpir,Defensive Rebound,23,31
+2:17,Seattle,Aaron Nettles,Foul,23,31
+1:55,Chicago State,Delshon Strickland,Jumper,25,31
+1:49,Seattle,Terrell Brown,Jumper,25,33
+1:12,Chicago State,Rob Shaw,Missed Jumper,25,33
+1:11,Chicago State,None,Team Rebound,25,33
+1:11,Chicago State,None,None,25,33
+1:10,Chicago State,Chicago State ,Turnover,25,33
+0:59,Seattle,Aaron Nettles,Missed Three Point Jumper,25,33
+0:57,Chicago State,None,Team Rebound,25,33
+0:52,Chicago State,Cameron Bowles,Foul,25,33
+0:52,Chicago State,Cameron Bowles,Turnover,25,33
+0:39,Seattle,Delante Jones,Missed Three Point Jumper,25,33
+0:35,Chicago State,Eugene Witherspoon,Defensive Rebound,25,33
+0:25,Chicago State,Delshon Strickland,Missed Three Point Jumper,25,33
+0:22,Chicago State,Cameron Bowles,Offensive Rebound,25,33
+0:21,Chicago State,Cameron Bowles,Missed Layup,25,33
+0:15,Chicago State,Anthony Harris,Layup,27,33
+0:15,Chicago State,Anthony Harris,Offensive Rebound,27,33
+0:01,Seattle,Terrell Brown,Turnover,27,33
+0:01,Chicago State,Delshon Strickland,Steal,27,33
+0:00,Seattle,None,None,27,33
+19:44,Seattle,Terrell Brown,Offensive Rebound,27,33
+19:36,Seattle,Mattia Da Campo,Missed Three Point Jumper,27,33
+19:29,Seattle,Riley Grigsby,Offensive Rebound,27,33
+19:28,Seattle,Riley Grigsby,Missed Layup,27,33
+19:24,Seattle,Riley Grigsby,Offensive Rebound,27,33
+19:23,Seattle,Riley Grigsby,Layup,27,35
+19:13,Seattle,Riley Grigsby,Foul,27,35
+19:11,Chicago State,Anthony Harris,Layup,29,35
+18:50,Chicago State,Anthony Harris,Foul,29,35
+18:47,Seattle,Morgan Means,Missed Three Point Jumper,29,35
+18:45,Chicago State,Cameron Bowles,Defensive Rebound,29,35
+18:31,Chicago State,Delshon Strickland,Jumper,31,35
+18:05,Seattle,Mattia Da Campo,Turnover,31,35
+18:05,Chicago State,Anthony Harris,Steal,31,35
+18:00,Chicago State,Delshon Strickland,Layup,33,35
+17:32,Seattle,Myles Carter,Missed Layup,33,35
+17:29,Chicago State,Anthony Harris,Defensive Rebound,33,35
+17:01,Chicago State,Rob Shaw,Missed Jumper,33,35
+16:57,Seattle,Riley Grigsby,Defensive Rebound,33,35
+16:48,Seattle,Myles Carter,Missed Dunk,33,35
+16:44,Chicago State,Anthony Harris,Defensive Rebound,33,35
+16:43,Chicago State,Anthony Harris,Turnover,33,35
+16:43,Seattle,Terrell Brown,Steal,33,35
+16:38,Seattle,Terrell Brown,Dunk,33,37
+16:38,Chicago State,None,None,33,37
+16:38,Seattle,None,None,33,37
+16:17,Chicago State,Rob Shaw,Missed Three Point Jumper,33,37
+16:12,Seattle,Riley Grigsby,Defensive Rebound,33,37
+16:03,Seattle,Morgan Means,Missed Jumper,33,37
+16:03,Chicago State,Delshon Strickland,Block,33,37
+15:59,Chicago State,Delshon Strickland,Defensive Rebound,33,37
+15:56,Chicago State,Cameron Bowles,Missed Dunk,33,37
+15:49,Seattle,Myles Carter,Defensive Rebound,33,37
+15:44,Seattle,Delante Jones,Three Point Jumper,33,40
+15:29,Chicago State,Rob Shaw,Missed Layup,33,40
+15:25,Chicago State,Eugene Witherspoon,Offensive Rebound,33,40
+15:25,Chicago State,Eugene Witherspoon,Layup,35,40
+15:10,Seattle,Myles Carter,Missed Layup,35,40
+15:07,Seattle,Delante Jones,Offensive Rebound,35,40
+15:02,Seattle,Delante Jones,Missed Layup,35,40
+15:01,Seattle,Myles Carter,Offensive Rebound,35,40
+15:01,Chicago State,Delshon Strickland,Foul,35,40
+15:01,Seattle,None,None,35,40
+14:55,Chicago State,Patrick Szpir,Foul,35,40
+14:55,Seattle,Myles Carter,Free Throw,35,41
+14:55,Seattle,Myles Carter,Missed Free Throw,35,41
+14:55,Chicago State,Cameron Bowles,Defensive Rebound,35,41
+14:39,Chicago State,Delshon Strickland,Missed Jumper,35,41
+14:36,Seattle,Riley Grigsby,Defensive Rebound,35,41
+14:14,Seattle,Terrell Brown,Foul,35,41
+14:14,Seattle,Terrell Brown,Turnover,35,41
+13:58,Chicago State,Rob Shaw,Missed Jumper,35,41
+13:58,Seattle,Myles Carter,Block,35,41
+13:53,Seattle,Morgan Means,Defensive Rebound,35,41
+13:51,Seattle,Ian Burke,Missed Three Point Jumper,35,41
+13:48,Chicago State,Cameron Bowles,Defensive Rebound,35,41
+13:31,Chicago State,Anthony Harris,Missed Jumper,35,41
+13:27,Seattle,Delante Jones,Defensive Rebound,35,41
+13:00,Seattle,Morgan Means,Three Point Jumper,35,44
+12:37,Chicago State,Cameron Bowles,Jumper,37,44
+12:19,Seattle,Ian Burke,Turnover,37,44
+12:06,Chicago State,Rob Shaw,Missed Jumper,37,44
+12:02,Seattle,Ian Burke,Defensive Rebound,37,44
+11:57,Chicago State,Delshon Strickland,Foul,37,44
+11:57,Seattle,None,None,37,44
+11:37,Seattle,Myles Carter,Turnover,37,44
+11:28,Seattle,Riley Grigsby,Foul,37,44
+11:21,Chicago State,Delshon Strickland,Missed Jumper,37,44
+11:16,Seattle,Myles Carter,Defensive Rebound,37,44
+10:58,Seattle,Morgan Means,Missed Layup,37,44
+10:55,Seattle,Riley Grigsby,Offensive Rebound,37,44
+10:38,Chicago State,Michael Johnson,Foul,37,44
+10:38,Seattle,Terrell Brown,Free Throw,37,45
+10:38,Seattle,Terrell Brown,Free Throw,37,46
+10:30,Seattle,Riley Grigsby,Foul,37,46
+10:20,Chicago State,Noah Bigirumwami,Foul,37,46
+10:20,Chicago State,Noah Bigirumwami,Turnover,37,46
+9:58,Chicago State,Noah Bigirumwami,Foul,37,46
+9:58,Seattle,Mattia Da Campo,Free Throw,37,47
+9:58,Seattle,Mattia Da Campo,Free Throw,37,48
+9:51,Chicago State,Rob Shaw,Missed Jumper,37,48
+9:46,Seattle,Mattia Da Campo,Defensive Rebound,37,48
+9:44,Seattle,Morgan Means,Missed Layup,37,48
+9:40,Chicago State,Cameron Bowles,Defensive Rebound,37,48
+9:37,Chicago State,Delshon Strickland,Missed Layup,37,48
+9:30,Seattle,Delante Jones,Defensive Rebound,37,48
+9:21,Seattle,Delante Jones,Missed Jumper,37,48
+9:21,Seattle,Myles Carter,Offensive Rebound,37,48
+9:13,Seattle,Aaron Nettles,Three Point Jumper,37,51
+8:52,Chicago State,Rob Shaw,Jumper,39,51
+8:35,Seattle,Myles Carter,Missed Layup,39,51
+8:31,Seattle,Mattia Da Campo,Offensive Rebound,39,51
+8:31,Seattle,Mattia Da Campo,Layup,39,53
+8:05,Chicago State,Delshon Strickland,Missed Jumper,39,53
+8:03,Chicago State,None,Team Rebound,39,53
+7:59,Seattle,Terrell Brown,Foul,39,53
+7:59,Seattle,None,None,39,53
+7:59,Chicago State,Rob Shaw,Free Throw,40,53
+7:59,Chicago State,Rob Shaw,Free Throw,41,53
+7:35,Seattle,Mattia Da Campo,Offensive Rebound,41,53
+7:30,Seattle,Myles Carter,Dunk,41,55
+7:14,Chicago State,Delshon Strickland,Layup,43,55
+7:01,Seattle,Delante Jones,Missed Jumper,43,55
+6:57,Chicago State,Patrick Szpir,Defensive Rebound,43,55
+6:54,Chicago State,Delshon Strickland,Missed Three Point Jumper,43,55
+6:50,Seattle,Terrell Brown,Defensive Rebound,43,55
+6:47,Seattle,Terrell Brown,Layup,43,57
+6:31,Chicago State,Patrick Szpir,Turnover,43,57
+6:31,Seattle,Terrell Brown,Steal,43,57
+6:29,Seattle,Terrell Brown,Dunk,43,59
+6:29,Chicago State,None,None,43,59
+6:06,Chicago State,Rob Shaw,Layup,45,59
+5:52,Chicago State,Anthony Harris,Foul,45,59
+5:52,Seattle,Mattia Da Campo,Free Throw,45,60
+5:52,Seattle,Mattia Da Campo,Free Throw,45,61
+5:41,Chicago State,Delshon Strickland,Jumper,47,61
+5:15,Seattle,Morgan Means,Jumper,47,63
+5:11,Chicago State,Delshon Strickland,Foul,47,63
+4:57,Seattle,Morgan Means,Free Throw,47,64
+4:55,Chicago State,Anthony Harris,Turnover,47,64
+4:53,Seattle,Delante Jones,Three Point Jumper,47,67
+4:32,Chicago State,Cameron Bowles,Missed Jumper,47,67
+4:27,Seattle,Mattia Da Campo,Defensive Rebound,47,67
+4:18,Seattle,Morgan Means,Three Point Jumper,47,70
+4:18,Chicago State,Cameron Bowles,Foul,47,70
+4:18,Seattle,Delante Jones,Free Throw,47,71
+4:18,Seattle,Delante Jones,Free Throw,47,72
+4:04,Seattle,Morgan Means,Missed Jumper,47,72
+4:00,Seattle,Terrell Brown,Offensive Rebound,47,72
+3:50,Seattle,Delante Jones,Missed Three Point Jumper,47,72
+3:45,Chicago State,Eugene Witherspoon,Defensive Rebound,47,72
+3:41,Chicago State,Anthony Harris,Layup,49,72
+3:15,Seattle,Morgan Means,Missed Three Point Jumper,49,72
+3:11,Seattle,Delante Jones,Offensive Rebound,49,72
+2:54,Seattle,Delante Jones,Missed Three Point Jumper,49,72
+2:50,Seattle,Morgan Means,Offensive Rebound,49,72
+2:27,Seattle,Terrell Brown,Missed Jumper,49,72
+2:24,Seattle,Mattia Da Campo,Offensive Rebound,49,72
+2:23,Seattle,Morgan Means,Three Point Jumper,49,75
+2:03,Chicago State,Eugene Witherspoon,Missed Three Point Jumper,49,75
+2:00,Seattle,Morgan Means,Defensive Rebound,49,75
+1:42,Chicago State,Rob Shaw,Foul,49,75
+1:42,Seattle,None,None,49,75
+1:42,Seattle,Delante Jones,Free Throw,49,76
+1:42,Seattle,Delante Jones,Free Throw,49,77
+1:24,Chicago State,Jordan Reed,Missed Jumper,49,77
+1:21,Chicago State,Eugene Witherspoon,Offensive Rebound,49,77
+1:10,Seattle,Anand Hundal,Foul,49,77
+1:10,Chicago State,Eugene Witherspoon,Missed Free Throw,49,77
+1:10,Chicago State,None,Team Rebound,49,77
+1:10,Chicago State,Eugene Witherspoon,Missed Free Throw,49,77
+1:08,Chicago State,None,Team Rebound,49,77
+1:00,Chicago State,Jordan Reed,Three Point Jumper,52,77
+0:47,Seattle,Anand Hundal,Missed Three Point Jumper,52,77
+0:44,Chicago State,Anthony Harris,Defensive Rebound,52,77
+0:44,Seattle,Rip Economou,Foul,52,77
+0:44,Chicago State,Anthony Harris,Free Throw,53,77
+0:44,Chicago State,Anthony Harris,Free Throw,54,77
+0:26,Seattle,Rip Economou,Missed Three Point Jumper,54,77
+0:23,Chicago State,Patrick Szpir,Defensive Rebound,54,77
+0:15,Chicago State,Michael Johnson,Missed Three Point Jumper,54,77
+0:12,Chicago State,Eugene Witherspoon,Offensive Rebound,54,77
+0:10,Seattle,Joe Wall,Foul,54,77
+0:10,Chicago State,Eugene Witherspoon,Missed Free Throw,54,77
+0:10,Chicago State,Michael Johnson,Offensive Rebound,54,77
+0:06,Chicago State,Jordan Reed,Three Point Jumper,57,77
+0:00,Seattle,None,None,57,77
+0:00,Seattle,None,None,57,77

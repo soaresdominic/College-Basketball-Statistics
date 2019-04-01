@@ -1,0 +1,355 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Florida State,None,None,0,0
+19:47,Florida State,M.J. Walker,Turnover,0,0
+19:47,Wake Forest,Anthony Bilas,Steal,0,0
+19:42,Florida State,M.J. Walker,Foul,0,0
+19:42,Wake Forest,Chaundee Brown,Free Throw,0,1
+19:42,Wake Forest,Chaundee Brown,Free Throw,0,2
+19:27,Florida State,Christ Koumadje,Missed Jumper,0,2
+19:27,Wake Forest,Chaundee Brown,Defensive Rebound,0,2
+19:02,Wake Forest,Brandon Childress,Jumper,0,4
+18:46,Florida State,Phil Cofer,Missed Jumper,0,4
+18:46,Wake Forest,Anthony Bilas,Defensive Rebound,0,4
+18:18,Wake Forest,Brandon Childress,Jumper,0,6
+17:54,Florida State,Trent Forrest,Missed Jumper,0,6
+17:54,Wake Forest,Jaylen Hoard,Defensive Rebound,0,6
+17:43,Wake Forest,Jaylen Hoard,Layup,0,8
+17:34,Florida State,None,None,0,8
+17:14,Florida State,Phil Cofer,Missed Three Point Jumper,0,8
+17:14,Florida State,Trent Forrest,Offensive Rebound,0,8
+17:07,Florida State,Christ Koumadje,Dunk,2,8
+16:41,Wake Forest,Jaylen Hoard,Missed Layup,2,8
+16:41,Wake Forest,Wake Forest,Offensive Rebound,2,8
+16:25,Wake Forest,Brandon Childress,Missed Three Point Jumper,2,8
+16:25,Florida State,Mfiondu Kabengele,Defensive Rebound,2,8
+16:08,Florida State,Terance Mann,Missed Layup,2,8
+16:08,Wake Forest,Sharone Wright Jr.,Defensive Rebound,2,8
+15:54,Wake Forest,Ikenna Smart,Missed Layup,2,8
+15:54,Florida State,Mfiondu Kabengele,Defensive Rebound,2,8
+15:41,Florida State,Mfiondu Kabengele,Turnover,2,8
+15:41,Wake Forest,None,None,2,8
+15:23,Florida State,Trent Forrest,Foul,2,8
+15:23,Wake Forest,Chaundee Brown,Free Throw,2,9
+15:23,Wake Forest,Chaundee Brown,Free Throw,2,10
+15:08,Florida State,David Nichols,Missed Three Point Jumper,2,10
+15:08,Wake Forest,Sharone Wright Jr.,Defensive Rebound,2,10
+14:59,Wake Forest,Sharone Wright Jr.,Missed Jumper,2,10
+14:59,Wake Forest,Chaundee Brown,Offensive Rebound,2,10
+14:56,Wake Forest,Chaundee Brown,Layup,2,12
+14:26,Florida State,Mfiondu Kabengele,Foul,2,12
+14:26,Florida State,Mfiondu Kabengele,Turnover,2,12
+14:04,Wake Forest,Brandon Childress,Layup,2,14
+13:43,Wake Forest,Sunday Okeke,Foul,2,14
+13:34,Florida State,PJ Savoy,Missed Three Point Jumper,2,14
+13:34,Wake Forest,Wake Forest,Defensive Rebound,2,14
+13:20,Florida State,Terance Mann,Foul,2,14
+13:03,Wake Forest,Jaylen Hoard,Missed Jumper,2,14
+13:03,Florida State,David Nichols,Defensive Rebound,2,14
+12:54,Florida State,David Nichols,Three Point Jumper,5,14
+12:39,Florida State,Raiquan Gray,Foul,5,14
+12:39,Wake Forest,Sharone Wright Jr.,Free Throw,5,15
+12:39,Wake Forest,Sharone Wright Jr.,Free Throw,5,16
+12:30,Wake Forest,Sunday Okeke,Foul,5,16
+12:24,Florida State,Devin Vassell,Missed Three Point Jumper,5,16
+12:24,Florida State,Mfiondu Kabengele,Offensive Rebound,5,16
+12:17,Florida State,Mfiondu Kabengele,Layup,7,16
+12:03,Wake Forest,Sharone Wright Jr.,Turnover,7,16
+11:49,Florida State,David Nichols,Missed Three Point Jumper,7,16
+11:49,Wake Forest,Chaundee Brown,Defensive Rebound,7,16
+11:39,Wake Forest,Isaiah Mucius,Missed Jumper,7,16
+11:39,Wake Forest,Michael Wynn,Offensive Rebound,7,16
+11:36,Florida State,Raiquan Gray,Foul,7,16
+11:36,Wake Forest,None,None,7,16
+11:36,Wake Forest,Michael Wynn,Free Throw,7,17
+11:36,Wake Forest,Michael Wynn,Free Throw,7,18
+11:28,Florida State,Raiquan Gray,Layup,9,18
+11:04,Wake Forest,Michael Wynn,Missed Jumper,9,18
+11:04,Florida State,Mfiondu Kabengele,Block,9,18
+11:04,Florida State,David Nichols,Defensive Rebound,9,18
+10:54,Florida State,David Nichols,Missed Three Point Jumper,9,18
+10:54,Wake Forest,Chaundee Brown,Defensive Rebound,9,18
+10:27,Wake Forest,Brandon Childress,Turnover,9,18
+10:27,Florida State,Devin Vassell,Steal,9,18
+10:20,Florida State,Raiquan Gray,Layup,11,18
+10:01,Wake Forest,Chaundee Brown,Jumper,11,20
+9:38,Florida State,Mfiondu Kabengele,Turnover,11,20
+9:38,Wake Forest,Jaylen Hoard,Steal,11,20
+9:35,Wake Forest,Jaylen Hoard,Turnover,11,20
+9:35,Florida State,Anthony Polite,Steal,11,20
+9:29,Wake Forest,Jaylen Hoard,Foul,11,20
+9:29,Florida State,Anthony Polite,Free Throw,12,20
+9:29,Florida State,Anthony Polite,Free Throw,13,20
+9:02,Wake Forest,Jaylen Hoard,Turnover,13,20
+9:02,Florida State,Terance Mann,Steal,13,20
+8:52,Florida State,M.J. Walker,Missed Jumper,13,20
+8:52,Florida State,Christ Koumadje,Offensive Rebound,13,20
+8:47,Florida State,Christ Koumadje,Dunk,15,20
+8:45,Wake Forest,Sharone Wright Jr.,Foul,15,20
+8:45,Florida State,Christ Koumadje,Missed Free Throw,15,20
+8:45,Wake Forest,Ikenna Smart,Defensive Rebound,15,20
+8:23,Wake Forest,Sharone Wright Jr.,Missed Jumper,15,20
+8:23,Florida State,M.J. Walker,Defensive Rebound,15,20
+8:05,Wake Forest,Jaylen Hoard,Foul,15,20
+7:48,Florida State,Christ Koumadje,Missed Jumper,15,20
+7:48,Wake Forest,Ikenna Smart,Defensive Rebound,15,20
+7:37,Wake Forest,Brandon Childress,Missed Jumper,15,20
+7:37,Florida State,Christ Koumadje,Defensive Rebound,15,20
+7:23,Florida State,Phil Cofer,Missed Three Point Jumper,15,20
+7:23,Wake Forest,Ikenna Smart,Defensive Rebound,15,20
+7:14,Wake Forest,Chaundee Brown,Missed Jumper,15,20
+7:14,Florida State,Christ Koumadje,Defensive Rebound,15,20
+6:58,Florida State,Christ Koumadje,Dunk,17,20
+6:54,Wake Forest,None,None,17,20
+6:40,Wake Forest,Isaiah Mucius,Missed Jumper,17,20
+6:40,Florida State,Florida State,Defensive Rebound,17,20
+6:20,Florida State,Christ Koumadje,Jumper,19,20
+6:01,Wake Forest,Sharone Wright Jr.,Missed Layup,19,20
+6:01,Florida State,Christ Koumadje,Block,19,20
+6:01,Florida State,Christ Koumadje,Defensive Rebound,19,20
+5:50,Florida State,Phil Cofer,Missed Three Point Jumper,19,20
+5:50,Wake Forest,Ikenna Smart,Defensive Rebound,19,20
+5:34,Florida State,M.J. Walker,Foul,19,20
+5:34,Wake Forest,Brandon Childress,Free Throw,19,21
+5:34,Wake Forest,Brandon Childress,Free Throw,19,22
+5:18,Florida State,Phil Cofer,Turnover,19,22
+5:00,Wake Forest,Isaiah Mucius,Missed Three Point Jumper,19,22
+5:00,Florida State,Mfiondu Kabengele,Defensive Rebound,19,22
+4:43,Wake Forest,Ikenna Smart,Foul,19,22
+4:43,Florida State,Mfiondu Kabengele,Free Throw,20,22
+4:43,Florida State,Mfiondu Kabengele,Missed Free Throw,20,22
+4:43,Wake Forest,Ikenna Smart,Defensive Rebound,20,22
+4:20,Florida State,PJ Savoy,Foul,20,22
+4:20,Wake Forest,Isaiah Mucius,Free Throw,20,23
+4:20,Wake Forest,Isaiah Mucius,Free Throw,20,24
+4:06,Florida State,PJ Savoy,Missed Three Point Jumper,20,24
+4:06,Wake Forest,Sharone Wright Jr.,Defensive Rebound,20,24
+3:57,Wake Forest,Chaundee Brown,Missed Three Point Jumper,20,24
+3:57,Florida State,Mfiondu Kabengele,Defensive Rebound,20,24
+3:45,Wake Forest,Ikenna Smart,Foul,20,24
+3:45,Wake Forest,None,None,20,24
+3:45,Florida State,Mfiondu Kabengele,Missed Free Throw,20,24
+3:45,Wake Forest,Sunday Okeke,Defensive Rebound,20,24
+3:24,Wake Forest,Sharone Wright Jr.,Missed Three Point Jumper,20,24
+3:24,Florida State,David Nichols,Defensive Rebound,20,24
+3:04,Florida State,Terance Mann,Missed Three Point Jumper,20,24
+3:04,Wake Forest,Brandon Childress,Defensive Rebound,20,24
+2:55,Florida State,PJ Savoy,Foul,20,24
+2:55,Wake Forest,Isaiah Mucius,Free Throw,20,25
+2:55,Wake Forest,Isaiah Mucius,Free Throw,20,26
+2:37,Florida State,Devin Vassell,Three Point Jumper,23,26
+2:13,Wake Forest,Chaundee Brown,Three Point Jumper,23,29
+1:53,Florida State,Mfiondu Kabengele,Missed Jumper,23,29
+1:53,Wake Forest,Isaiah Mucius,Defensive Rebound,23,29
+1:43,Wake Forest,Chaundee Brown,Missed Layup,23,29
+1:43,Florida State,Terance Mann,Defensive Rebound,23,29
+1:35,Florida State,Mfiondu Kabengele,Missed Three Point Jumper,23,29
+1:35,Florida State,Devin Vassell,Offensive Rebound,23,29
+1:29,Wake Forest,Chaundee Brown,Foul,23,29
+1:29,Florida State,Devin Vassell,Missed Free Throw,23,29
+1:29,Florida State,None,Team Rebound,23,29
+1:29,Florida State,Devin Vassell,Free Throw,24,29
+1:11,Florida State,Terance Mann,Foul,24,29
+1:11,Wake Forest,Isaiah Mucius,Free Throw,24,30
+1:11,Wake Forest,Isaiah Mucius,Free Throw,24,31
+1:02,Florida State,Christ Koumadje,Missed Jumper,24,31
+1:02,Wake Forest,Sunday Okeke,Defensive Rebound,24,31
+0:41,Wake Forest,Isaiah Mucius,Missed Three Point Jumper,24,31
+0:41,Florida State,Christ Koumadje,Defensive Rebound,24,31
+0:26,Wake Forest,Isaiah Mucius,Foul,24,31
+0:26,Florida State,Christ Koumadje,Missed Free Throw,24,31
+0:26,Wake Forest,Sharone Wright Jr.,Defensive Rebound,24,31
+0:02,Wake Forest,Brandon Childress,Missed Layup,24,31
+0:02,Florida State,Christ Koumadje,Block,24,31
+0:02,Florida State,Christ Koumadje,Defensive Rebound,24,31
+0:00,Wake Forest,None,None,24,31
+20:00,Wake Forest,None,None,24,31
+19:47,Wake Forest,Sharone Wright Jr.,Missed Layup,24,31
+19:47,Florida State,Christ Koumadje,Block,24,31
+19:47,Florida State,Christ Koumadje,Defensive Rebound,24,31
+19:39,Florida State,M.J. Walker,Missed Three Point Jumper,24,31
+19:39,Florida State,Terance Mann,Offensive Rebound,24,31
+19:24,Florida State,Phil Cofer,Jumper,26,31
+18:56,Wake Forest,Jaylen Hoard,Missed Jumper,26,31
+18:56,Florida State,M.J. Walker,Defensive Rebound,26,31
+18:47,Wake Forest,Brandon Childress,Foul,26,31
+18:40,Florida State,Christ Koumadje,Missed Jumper,26,31
+18:40,Florida State,Phil Cofer,Offensive Rebound,26,31
+18:40,Florida State,None,None,28,31
+18:14,Wake Forest,Chaundee Brown,Missed Layup,28,31
+18:14,Wake Forest,Wake Forest,Offensive Rebound,28,31
+18:07,Wake Forest,Sharone Wright Jr.,Three Point Jumper,28,34
+17:58,Florida State,M.J. Walker,Missed Three Point Jumper,28,34
+17:58,Florida State,Christ Koumadje,Offensive Rebound,28,34
+17:38,Florida State,Phil Cofer,Missed Jumper,28,34
+17:38,Florida State,Christ Koumadje,Offensive Rebound,28,34
+17:28,Wake Forest,Ikenna Smart,Foul,28,34
+17:11,Wake Forest,Sunday Okeke,Foul,28,34
+17:10,Florida State,M.J. Walker,Missed Three Point Jumper,28,34
+17:10,Florida State,Phil Cofer,Offensive Rebound,28,34
+16:56,Florida State,Trent Forrest,Missed Jumper,28,34
+16:56,Wake Forest,Jaylen Hoard,Defensive Rebound,28,34
+16:48,Wake Forest,Chaundee Brown,Turnover,28,34
+16:48,Florida State,M.J. Walker,Steal,28,34
+16:43,Wake Forest,Sharone Wright Jr.,Foul,28,34
+16:43,Florida State,Trent Forrest,Free Throw,29,34
+16:43,Florida State,Trent Forrest,Free Throw,30,34
+16:13,Wake Forest,Wake Forest ,Turnover,30,34
+16:01,Florida State,M.J. Walker,Three Point Jumper,33,34
+15:46,Wake Forest,Brandon Childress,Layup,33,36
+15:46,Florida State,Christ Koumadje,Foul,33,36
+15:46,Wake Forest,None,None,33,36
+15:46,Wake Forest,Brandon Childress,Free Throw,33,37
+15:16,Florida State,Trent Forrest,Missed Jumper,33,37
+15:16,Wake Forest,Brandon Childress,Defensive Rebound,33,37
+14:56,Wake Forest,Jaylen Hoard,Missed Three Point Jumper,33,37
+14:56,Wake Forest,Sharone Wright Jr.,Offensive Rebound,33,37
+14:48,Wake Forest,Sharone Wright Jr.,Jumper,33,39
+14:19,Florida State,M.J. Walker,Missed Layup,33,39
+14:19,Wake Forest,Chaundee Brown,Defensive Rebound,33,39
+14:13,Wake Forest,Brandon Childress,Missed Three Point Jumper,33,39
+14:13,Florida State,M.J. Walker,Defensive Rebound,33,39
+14:02,Florida State,Trent Forrest,Three Point Jumper,36,39
+13:38,Wake Forest,Chaundee Brown,Missed Three Point Jumper,36,39
+13:38,Florida State,Christ Koumadje,Defensive Rebound,36,39
+13:26,Wake Forest,Brandon Childress,Foul,36,39
+13:17,Florida State,M.J. Walker,Turnover,36,39
+13:17,Wake Forest,Brandon Childress,Steal,36,39
+13:13,Florida State,David Nichols,Foul,36,39
+12:56,Wake Forest,Isaiah Mucius,Turnover,36,39
+12:56,Florida State,Raiquan Gray,Steal,36,39
+12:51,Florida State,Terance Mann,Dunk,38,39
+12:26,Florida State,David Nichols,Foul,38,39
+12:17,Florida State,M.J. Walker,Foul,38,39
+12:17,Florida State,David Nichols,Foul,38,39
+12:04,Wake Forest,Brandon Childress,Missed Layup,38,39
+12:04,Wake Forest,Sunday Okeke,Offensive Rebound,38,39
+12:04,Wake Forest,None,None,38,41
+12:04,Florida State,Raiquan Gray,Foul,38,41
+12:04,Wake Forest,Sunday Okeke,Missed Free Throw,38,41
+12:04,Florida State,Mfiondu Kabengele,Defensive Rebound,38,41
+11:58,Florida State,Mfiondu Kabengele,Dunk,40,41
+11:48,Florida State,Terance Mann,Foul,40,41
+11:48,Wake Forest,None,None,40,41
+11:48,Wake Forest,Sharone Wright Jr.,Free Throw,40,42
+11:48,Wake Forest,Sharone Wright Jr.,Free Throw,40,43
+11:25,Florida State,Trent Forrest,Missed Jumper,40,43
+11:25,Wake Forest,Chaundee Brown,Defensive Rebound,40,43
+11:09,Wake Forest,Isaiah Mucius,Missed Three Point Jumper,40,43
+11:09,Wake Forest,Ikenna Smart,Offensive Rebound,40,43
+11:01,Wake Forest,Ikenna Smart,Missed Jumper,40,43
+11:01,Wake Forest,Chaundee Brown,Offensive Rebound,40,43
+10:58,Wake Forest,Chaundee Brown,Missed Layup,40,43
+10:58,Wake Forest,Wake Forest,Offensive Rebound,40,43
+10:52,Wake Forest,Chaundee Brown,Missed Jumper,40,43
+10:52,Florida State,Mfiondu Kabengele,Block,40,43
+10:52,Wake Forest,Brandon Childress,Offensive Rebound,40,43
+10:37,Wake Forest,Brandon Childress,Jumper,40,45
+10:10,Florida State,Trent Forrest,Layup,42,45
+9:41,Wake Forest,Brandon Childress,Missed Layup,42,45
+9:41,Florida State,Mfiondu Kabengele,Block,42,45
+9:41,Florida State,Raiquan Gray,Defensive Rebound,42,45
+9:29,Florida State,PJ Savoy,Three Point Jumper,45,45
+9:12,Wake Forest,None,None,45,45
+9:00,Wake Forest,Brandon Childress,Missed Jumper,45,45
+9:00,Wake Forest,Isaiah Mucius,Offensive Rebound,45,45
+8:52,Wake Forest,Isaiah Mucius,Missed Jumper,45,45
+8:52,Florida State,Trent Forrest,Defensive Rebound,45,45
+8:18,Florida State,Terance Mann,Missed Jumper,45,45
+8:18,Wake Forest,Brandon Childress,Defensive Rebound,45,45
+8:07,Wake Forest,Michael Wynn,Missed Three Point Jumper,45,45
+8:07,Wake Forest,Isaiah Mucius,Offensive Rebound,45,45
+8:07,Florida State,Trent Forrest,Foul,45,45
+8:07,Wake Forest,Isaiah Mucius,Missed Free Throw,45,45
+8:07,Florida State,Terance Mann,Defensive Rebound,45,45
+7:59,Wake Forest,Michael Wynn,Foul,45,45
+7:59,Wake Forest,None,None,45,45
+7:47,Florida State,Terance Mann,Turnover,45,45
+7:47,Wake Forest,Isaiah Mucius,Steal,45,45
+7:45,Wake Forest,Isaiah Mucius,Turnover,45,45
+7:45,Florida State,M.J. Walker,Steal,45,45
+7:37,Florida State,Trent Forrest,Jumper,47,45
+7:23,Wake Forest,Chaundee Brown,Missed Jumper,47,45
+7:23,Florida State,Trent Forrest,Defensive Rebound,47,45
+7:10,Wake Forest,Isaiah Mucius,Foul,47,45
+7:10,Florida State,Terance Mann,Missed Free Throw,47,45
+7:10,Wake Forest,Ikenna Smart,Defensive Rebound,47,45
+6:58,Wake Forest,Brandon Childress,Missed Three Point Jumper,47,45
+6:58,Florida State,Terance Mann,Defensive Rebound,47,45
+6:49,Florida State,Phil Cofer,Layup,49,45
+6:17,Wake Forest,Brandon Childress,Missed Jumper,49,45
+6:17,Florida State,Terance Mann,Defensive Rebound,49,45
+6:03,Florida State,M.J. Walker,Three Point Jumper,52,45
+5:22,Wake Forest,Sunday Okeke,Missed Jumper,52,45
+5:22,Florida State,None,Team Rebound,52,45
+5:09,Florida State,Terance Mann,Layup,54,45
+5:09,Wake Forest,Sunday Okeke,Foul,54,45
+5:09,Florida State,Terance Mann,Missed Free Throw,54,45
+5:09,Florida State,Terance Mann,Offensive Rebound,54,45
+5:09,Florida State,Terance Mann,Jumper,56,45
+5:05,Wake Forest,None,None,56,45
+5:01,Wake Forest,Chaundee Brown,Missed Layup,56,45
+5:01,Florida State,M.J. Walker,Defensive Rebound,56,45
+4:51,Wake Forest,Sunday Okeke,Foul,56,45
+4:51,Florida State,Terance Mann,Free Throw,57,45
+4:51,Florida State,Terance Mann,Free Throw,58,45
+4:44,Wake Forest,Jaylen Hoard,Jumper,58,47
+4:44,Florida State,Trent Forrest,Foul,58,47
+4:44,Wake Forest,Jaylen Hoard,Free Throw,58,48
+4:21,Florida State,M.J. Walker,Missed Three Point Jumper,58,48
+4:21,Wake Forest,Brandon Childress,Defensive Rebound,58,48
+4:12,Wake Forest,Sharone Wright Jr.,Missed Layup,58,48
+4:12,Wake Forest,Jaylen Hoard,Offensive Rebound,58,48
+4:03,Wake Forest,Chaundee Brown,Missed Three Point Jumper,58,48
+4:03,Florida State,Mfiondu Kabengele,Defensive Rebound,58,48
+3:31,Florida State,Trent Forrest,Missed Jumper,58,48
+3:31,Florida State,Mfiondu Kabengele,Offensive Rebound,58,48
+3:23,Florida State,Mfiondu Kabengele,Dunk,60,48
+3:14,Florida State,Mfiondu Kabengele,Foul,60,48
+3:14,Wake Forest,None,None,60,48
+3:14,Wake Forest,Isaiah Mucius,Missed Free Throw,60,48
+3:14,Wake Forest,None,Team Rebound,60,48
+3:14,Wake Forest,Isaiah Mucius,Missed Free Throw,60,48
+3:14,Florida State,Phil Cofer,Defensive Rebound,60,48
+3:11,Wake Forest,Isaiah Mucius,Foul,60,48
+3:11,Florida State,Phil Cofer,Free Throw,61,48
+3:11,Florida State,Phil Cofer,Missed Free Throw,61,48
+3:11,Wake Forest,Chaundee Brown,Defensive Rebound,61,48
+3:02,Wake Forest,Brandon Childress,Missed Three Point Jumper,61,48
+3:02,Florida State,Terance Mann,Defensive Rebound,61,48
+2:34,Florida State,Phil Cofer,Dunk,63,48
+2:19,Florida State,Terance Mann,Foul,63,48
+2:19,Wake Forest,Isaiah Mucius,Free Throw,63,49
+2:19,Wake Forest,Isaiah Mucius,Free Throw,63,50
+2:16,Florida State,Phil Cofer,Turnover,63,50
+2:12,Wake Forest,Isaiah Mucius,Missed Three Point Jumper,63,50
+2:12,Wake Forest,Jaylen Hoard,Offensive Rebound,63,50
+2:07,Wake Forest,Jaylen Hoard,Layup,63,52
+2:07,Florida State,M.J. Walker,Foul,63,52
+2:07,Wake Forest,Jaylen Hoard,Missed Free Throw,63,52
+2:07,Florida State,Phil Cofer,Defensive Rebound,63,52
+1:52,Florida State,None,None,63,52
+1:40,Florida State,Trent Forrest,Missed Jumper,63,52
+1:40,Wake Forest,Isaiah Mucius,Defensive Rebound,63,52
+1:30,Wake Forest,Isaiah Mucius,Missed Dunk,63,52
+1:30,Wake Forest,Sharone Wright Jr.,Offensive Rebound,63,52
+1:26,Wake Forest,Isaiah Mucius,Layup,63,54
+1:13,Wake Forest,Brandon Childress,Foul,63,54
+1:13,Florida State,Trent Forrest,Missed Free Throw,63,54
+1:13,Florida State,None,Team Rebound,63,54
+1:13,Florida State,Trent Forrest,Free Throw,64,54
+1:03,Florida State,David Nichols,Foul,64,54
+1:03,Wake Forest,Sharone Wright Jr.,Missed Free Throw,64,54
+1:03,Wake Forest,None,Team Rebound,64,54
+1:03,Wake Forest,Sharone Wright Jr.,Missed Free Throw,64,54
+1:03,Florida State,Mfiondu Kabengele,Defensive Rebound,64,54
+0:55,Wake Forest,Chaundee Brown,Foul,64,54
+0:55,Florida State,Trent Forrest,Free Throw,65,54
+0:55,Florida State,Trent Forrest,Missed Free Throw,65,54
+0:55,Wake Forest,Chaundee Brown,Defensive Rebound,65,54
+0:48,Wake Forest,Brandon Childress,Missed Jumper,65,54
+0:48,Wake Forest,Isaiah Mucius,Offensive Rebound,65,54
+0:41,Wake Forest,Isaiah Mucius,Missed Jumper,65,54
+0:41,Florida State,Trent Forrest,Defensive Rebound,65,54
+0:08,Florida State,Florida State ,Turnover,65,54
+0:02,Wake Forest,Anthony Bilas,Three Point Jumper,65,57
+0:00,Wake Forest,None,None,65,57

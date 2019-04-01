@@ -1,0 +1,402 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:46,Duke,Zion Williamson,Layup,0,2
+19:26,Indiana,None,None,0,2
+19:20,Indiana,Romeo Langford,Layup,2,2
+18:58,Duke,Zion Williamson,Missed Three Point Jumper,2,2
+18:58,Duke,Marques Bolden,Offensive Rebound,2,2
+18:52,Duke,Zion Williamson,Dunk,2,4
+18:36,Indiana,Romeo Langford,Turnover,2,4
+18:36,Duke,Tre Jones,Steal,2,4
+18:29,Duke,Cam Reddish,Three Point Jumper,2,7
+18:09,Indiana,Rob Phinisee,Turnover,2,7
+18:09,Duke,Marques Bolden,Steal,2,7
+18:08,Indiana,Juwan Morgan,Foul,2,7
+18:04,Duke,RJ Barrett,Missed Layup,2,7
+18:04,Indiana,Romeo Langford,Block,2,7
+18:04,Duke,Tre Jones,Offensive Rebound,2,7
+17:54,Duke,Tre Jones,Layup,2,9
+17:49,Indiana,Justin Smith,Layup,4,9
+17:45,Duke,Zion Williamson,Dunk,4,11
+17:38,Indiana,Juwan Morgan,Missed Three Point Jumper,4,11
+17:38,Duke,RJ Barrett,Defensive Rebound,4,11
+17:13,Duke,Cam Reddish,Missed Jumper,4,11
+17:13,Indiana,Indiana,Defensive Rebound,4,11
+17:03,Indiana,Aljami Durham,Turnover,4,11
+17:03,Duke,Javin DeLaurier,Steal,4,11
+16:57,Duke,Cam Reddish,Missed Three Point Jumper,4,11
+16:57,Indiana,Juwan Morgan,Defensive Rebound,4,11
+16:48,Indiana,Juwan Morgan,Missed Jumper,4,11
+16:48,Indiana,Juwan Morgan,Offensive Rebound,4,11
+16:44,Indiana,Juwan Morgan,Missed Layup,4,11
+16:44,Duke,Zion Williamson,Block,4,11
+16:44,Indiana,Indiana,Offensive Rebound,4,11
+16:43,Indiana,Justin Smith,Turnover,4,11
+16:43,Duke,Javin DeLaurier,Steal,4,11
+16:30,Duke,Cam Reddish,Missed Three Point Jumper,4,11
+16:30,Indiana,Juwan Morgan,Defensive Rebound,4,11
+16:19,Indiana,Romeo Langford,Missed Jumper,4,11
+16:19,Indiana,Romeo Langford,Offensive Rebound,4,11
+16:19,Indiana,None,None,6,11
+16:05,Indiana,Juwan Morgan,Foul,6,11
+16:05,Duke,RJ Barrett,Free Throw,6,12
+16:05,Duke,RJ Barrett,Missed Free Throw,6,12
+16:05,Indiana,Romeo Langford,Defensive Rebound,6,12
+15:57,Indiana,Justin Smith,Layup,8,12
+15:44,Duke,RJ Barrett,Missed Three Point Jumper,8,12
+15:44,Indiana,Rob Phinisee,Defensive Rebound,8,12
+15:35,Indiana,Aljami Durham,Missed Three Point Jumper,8,12
+15:35,Duke,Tre Jones,Defensive Rebound,8,12
+15:28,Duke,Jack White,Three Point Jumper,8,15
+15:06,Indiana,Romeo Langford,Missed Three Point Jumper,8,15
+15:06,Duke,Duke,Defensive Rebound,8,15
+15:03,Duke,None,None,8,15
+14:50,Duke,None,None,8,15
+14:50,Duke,RJ Barrett,Missed Layup,8,15
+14:50,Indiana,De'Ron Davis,Block,8,15
+14:50,Duke,RJ Barrett,Offensive Rebound,8,15
+14:45,Duke,RJ Barrett,Jumper,8,17
+14:28,Indiana,De'Ron Davis,Layup,10,17
+14:15,Indiana,De'Ron Davis,Foul,10,17
+14:15,Duke,Cam Reddish,Missed Free Throw,10,17
+14:15,Duke,None,Team Rebound,10,17
+14:15,Duke,Cam Reddish,Missed Free Throw,10,17
+14:15,Indiana,Zach McRoberts,Defensive Rebound,10,17
+14:06,Indiana,Justin Smith,Missed Jumper,10,17
+14:06,Indiana,Justin Smith,Offensive Rebound,10,17
+14:00,Indiana,None,None,10,17
+13:59,Duke,RJ Barrett,Defensive Rebound,10,17
+13:52,Duke,Tre Jones,Layup,10,19
+13:30,Indiana,Rob Phinisee,Missed Layup,10,19
+13:30,Duke,Tre Jones,Defensive Rebound,10,19
+13:24,Duke,Jack White,Three Point Jumper,10,22
+13:19,Indiana,None,None,10,22
+13:10,Indiana,Devonte Green,Missed Three Point Jumper,10,22
+13:10,Indiana,Evan Fitzner,Offensive Rebound,10,22
+13:00,Indiana,Evan Fitzner,Missed Layup,10,22
+13:00,Duke,Zion Williamson,Defensive Rebound,10,22
+12:50,Indiana,De'Ron Davis,Foul,10,22
+12:50,Duke,Marques Bolden,Missed Free Throw,10,22
+12:50,Duke,None,Team Rebound,10,22
+12:50,Duke,Marques Bolden,Missed Free Throw,10,22
+12:50,Indiana,Zach McRoberts,Defensive Rebound,10,22
+12:39,Indiana,Zach McRoberts,Turnover,10,22
+12:39,Duke,Jordan Goldwire,Steal,10,22
+12:28,Duke,Cam Reddish,Missed Layup,10,22
+12:28,Duke,Zion Williamson,Offensive Rebound,10,22
+12:28,Duke,Zion Williamson,Turnover,10,22
+12:20,Duke,Jordan Goldwire,Foul,10,22
+12:03,Indiana,Romeo Langford,Missed Jumper,10,22
+12:03,Duke,Jack White,Defensive Rebound,10,22
+11:49,Duke,Jack White,Missed Three Point Jumper,10,22
+11:49,Indiana,Devonte Green,Defensive Rebound,10,22
+11:39,Indiana,Devonte Green,Turnover,10,22
+11:38,Duke,None,None,10,22
+11:25,Duke,Zion Williamson,Missed Layup,10,22
+11:25,Indiana,Justin Smith,Defensive Rebound,10,22
+11:15,Indiana,Justin Smith,Foul,10,22
+11:15,Indiana,Justin Smith,Turnover,10,22
+10:55,Duke,Tre Jones,Jumper,10,24
+10:30,Indiana,Aljami Durham,Missed Jumper,10,24
+10:30,Indiana,Evan Fitzner,Offensive Rebound,10,24
+10:30,Indiana,None,None,12,24
+10:22,Duke,RJ Barrett,Missed Jumper,12,24
+10:22,Indiana,Zach McRoberts,Defensive Rebound,12,24
+10:04,Indiana,Justin Smith,Turnover,12,24
+9:56,Duke,Zion Williamson,Layup,12,26
+9:39,Indiana,Aljami Durham,Missed Jumper,12,26
+9:39,Indiana,None,Team Rebound,12,26
+9:39,Duke,Tre Jones,Foul,12,26
+9:35,Indiana,Juwan Morgan,Missed Jumper,12,26
+9:35,Duke,RJ Barrett,Block,12,26
+9:35,Indiana,Rob Phinisee,Offensive Rebound,12,26
+9:22,Duke,RJ Barrett,Foul,12,26
+9:22,Indiana,Evan Fitzner,Missed Free Throw,12,26
+9:22,Indiana,None,Team Rebound,12,26
+9:22,Indiana,Evan Fitzner,Free Throw,13,26
+9:15,Duke,Cam Reddish,Missed Layup,13,26
+9:15,Indiana,Romeo Langford,Block,13,26
+9:15,Indiana,Aljami Durham,Defensive Rebound,13,26
+9:09,Indiana,Aljami Durham,Turnover,13,26
+8:54,Indiana,Rob Phinisee,Foul,13,26
+8:54,Duke,Zion Williamson,Missed Free Throw,13,26
+8:54,Duke,None,Team Rebound,13,26
+8:54,Duke,Zion Williamson,Free Throw,13,27
+8:38,Indiana,Romeo Langford,Jumper,15,27
+8:26,Duke,RJ Barrett,Missed Jumper,15,27
+8:26,Duke,RJ Barrett,Offensive Rebound,15,27
+8:19,Duke,RJ Barrett,Missed Jumper,15,27
+8:19,Duke,RJ Barrett,Offensive Rebound,15,27
+8:15,Duke,RJ Barrett,Layup,15,29
+8:07,Duke,Javin DeLaurier,Foul,15,29
+8:07,Indiana,Justin Smith,Missed Free Throw,15,29
+8:07,Indiana,None,Team Rebound,15,29
+8:07,Indiana,Justin Smith,Free Throw,16,29
+7:44,Duke,Javin DeLaurier,Foul,16,29
+7:44,Duke,Javin DeLaurier,Turnover,16,29
+7:44,Duke,None,None,16,29
+7:33,Indiana,Justin Smith,Turnover,16,29
+7:20,Duke,RJ Barrett,Jumper,16,31
+6:54,Indiana,Rob Phinisee,Missed Three Point Jumper,16,31
+6:54,Duke,RJ Barrett,Defensive Rebound,16,31
+6:47,Duke,Tre Jones,Missed Three Point Jumper,16,31
+6:47,Indiana,Romeo Langford,Defensive Rebound,16,31
+6:38,Indiana,Evan Fitzner,Three Point Jumper,19,31
+6:20,Duke,Zion Williamson,Missed Three Point Jumper,19,31
+6:20,Duke,Jack White,Offensive Rebound,19,31
+6:02,Duke,RJ Barrett,Missed Three Point Jumper,19,31
+6:02,Duke,Zion Williamson,Offensive Rebound,19,31
+5:58,Duke,Zion Williamson,Dunk,19,33
+5:19,Indiana,Justin Smith,Turnover,19,33
+5:19,Duke,Marques Bolden,Steal,19,33
+5:17,Duke,RJ Barrett,Layup,19,35
+5:17,Indiana,Aljami Durham,Foul,19,35
+5:17,Duke,RJ Barrett,Free Throw,19,36
+5:15,Duke,Tre Jones,Foul,19,36
+5:05,Indiana,Juwan Morgan,Layup,21,36
+5:04,Duke,Jack White,Foul,21,36
+5:04,Indiana,Juwan Morgan,Missed Free Throw,21,36
+5:04,Duke,Cam Reddish,Defensive Rebound,21,36
+5:03,Indiana,Evan Fitzner,Foul,21,36
+5:03,Duke,Cam Reddish,Missed Free Throw,21,36
+5:03,Indiana,Romeo Langford,Defensive Rebound,21,36
+4:46,Indiana,Evan Fitzner,Three Point Jumper,24,36
+4:29,Duke,Cam Reddish,Foul,24,36
+4:29,Duke,Cam Reddish,Turnover,24,36
+4:14,Indiana,Rob Phinisee,Turnover,24,36
+4:14,Duke,Zion Williamson,Steal,24,36
+4:10,Duke,Zion Williamson,Dunk,24,38
+4:04,Duke,Cam Reddish,Foul,24,38
+4:04,Indiana,Romeo Langford,Free Throw,25,38
+4:04,Indiana,Romeo Langford,Missed Free Throw,25,38
+4:04,Duke,RJ Barrett,Defensive Rebound,25,38
+3:48,Duke,Alex O'Connell,Turnover,25,38
+3:48,Indiana,Romeo Langford,Steal,25,38
+3:41,Indiana,Evan Fitzner,Turnover,25,38
+3:41,Duke,None,None,25,38
+3:39,Duke,Zion Williamson,Dunk,25,40
+3:24,Indiana,Evan Fitzner,Three Point Jumper,28,40
+3:04,Duke,RJ Barrett,Three Point Jumper,28,43
+2:33,Duke,Jordan Goldwire,Foul,28,43
+2:33,Indiana,Romeo Langford,Missed Free Throw,28,43
+2:33,Indiana,None,Team Rebound,28,43
+2:33,Indiana,Romeo Langford,Free Throw,29,43
+2:21,Duke,RJ Barrett,Layup,29,45
+2:03,Indiana,Evan Fitzner,Missed Jumper,29,45
+2:03,Duke,Marques Bolden,Block,29,45
+2:03,Duke,Tre Jones,Defensive Rebound,29,45
+1:53,Duke,None,None,29,45
+1:48,Duke,Tre Jones,Missed Jumper,29,45
+1:48,Duke,Tre Jones,Offensive Rebound,29,45
+1:39,Duke,Tre Jones,Jumper,29,47
+1:22,Indiana,Romeo Langford,Missed Jumper,29,47
+1:22,Duke,RJ Barrett,Defensive Rebound,29,47
+1:03,Duke,Zion Williamson,Layup,29,49
+0:56,Indiana,Devonte Green,Missed Three Point Jumper,29,49
+0:56,Indiana,Romeo Langford,Offensive Rebound,29,49
+0:48,Indiana,Romeo Langford,Missed Jumper,29,49
+0:48,Duke,Jack White,Defensive Rebound,29,49
+0:47,Indiana,Justin Smith,Foul,29,49
+0:47,Duke,Jack White,Free Throw,29,50
+0:47,Duke,Jack White,Free Throw,29,51
+0:36,Indiana,Romeo Langford,Missed Jumper,29,51
+0:36,Duke,Zion Williamson,Defensive Rebound,29,51
+0:08,Duke,Zion Williamson,Dunk,29,53
+0:02,Indiana,Romeo Langford,Missed Three Point Jumper,29,53
+0:02,Duke,None,Team Rebound,29,53
+0:00,Duke,None,None,29,53
+20:00,Indiana,None,None,29,53
+19:41,Indiana,Juwan Morgan,Turnover,29,53
+19:33,Duke,Cam Reddish,Turnover,29,53
+19:16,Indiana,Justin Smith,Missed Layup,29,53
+19:16,Duke,RJ Barrett,Defensive Rebound,29,53
+19:12,Duke,RJ Barrett,Turnover,29,53
+18:52,Indiana,Rob Phinisee,Turnover,29,53
+18:52,Duke,Tre Jones,Steal,29,53
+18:46,Duke,Tre Jones,Missed Jumper,29,53
+18:46,Indiana,Rob Phinisee,Block,29,53
+18:46,Indiana,Rob Phinisee,Defensive Rebound,29,53
+18:43,Duke,Cam Reddish,Foul,29,53
+18:43,Indiana,Justin Smith,Missed Free Throw,29,53
+18:43,Indiana,None,Team Rebound,29,53
+18:43,Indiana,Justin Smith,Free Throw,30,53
+18:31,Duke,Cam Reddish,Turnover,30,53
+18:31,Indiana,Justin Smith,Steal,30,53
+18:25,Indiana,Justin Smith,Missed Layup,30,53
+18:25,Indiana,Romeo Langford,Offensive Rebound,30,53
+18:23,Indiana,Romeo Langford,Missed Jumper,30,53
+18:23,Duke,Zion Williamson,Block,30,53
+18:23,Indiana,Indiana,Offensive Rebound,30,53
+18:22,Indiana,Devonte Green,Turnover,30,53
+18:22,Duke,Zion Williamson,Steal,30,53
+18:17,Duke,Tre Jones,Layup,30,55
+18:02,Indiana,Romeo Langford,Missed Three Point Jumper,30,55
+18:02,Duke,Zion Williamson,Defensive Rebound,30,55
+17:38,Indiana,Romeo Langford,Foul,30,55
+17:30,Indiana,Justin Smith,Foul,30,55
+17:26,Duke,RJ Barrett,Missed Jumper,30,55
+17:26,Indiana,Aljami Durham,Defensive Rebound,30,55
+17:21,Indiana,Romeo Langford,Turnover,30,55
+17:21,Indiana,None,None,30,55
+17:12,Duke,Zion Williamson,Turnover,30,55
+17:12,Indiana,Aljami Durham,Steal,30,55
+17:03,Indiana,Aljami Durham,Missed Three Point Jumper,30,55
+17:03,Duke,Jack White,Defensive Rebound,30,55
+16:48,Duke,RJ Barrett,Jumper,30,57
+16:26,Indiana,Juwan Morgan,Layup,32,57
+16:04,Duke,RJ Barrett,Missed Jumper,32,57
+16:04,Duke,Duke,Offensive Rebound,32,57
+16:01,Duke,Jack White,Missed Three Point Jumper,32,57
+16:01,Indiana,De'Ron Davis,Defensive Rebound,32,57
+15:49,Indiana,Devonte Green,Turnover,32,57
+15:49,Duke,None,None,32,57
+15:39,Duke,RJ Barrett,Turnover,32,57
+15:27,Duke,Jack White,Foul,32,57
+15:18,Duke,RJ Barrett,Foul,32,57
+15:08,Duke,RJ Barrett,Foul,32,57
+15:08,Indiana,De'Ron Davis,Free Throw,33,57
+15:08,Indiana,De'Ron Davis,Free Throw,34,57
+14:59,Duke,RJ Barrett,Three Point Jumper,34,60
+14:30,Indiana,Devonte Green,Jumper,36,60
+14:13,Indiana,Juwan Morgan,Foul,36,60
+14:13,Duke,Zion Williamson,Missed Free Throw,36,60
+14:13,Duke,None,Team Rebound,36,60
+14:13,Duke,Zion Williamson,Free Throw,36,61
+14:02,Indiana,Juwan Morgan,Layup,38,61
+13:50,Duke,RJ Barrett,Turnover,38,61
+13:50,Indiana,Devonte Green,Steal,38,61
+13:45,Indiana,Devonte Green,Missed Layup,38,61
+13:45,Duke,RJ Barrett,Block,38,61
+13:45,Indiana,Indiana,Offensive Rebound,38,61
+13:40,Duke,None,None,38,61
+13:30,Duke,Javin DeLaurier,Foul,38,61
+13:30,Indiana,Romeo Langford,Free Throw,39,61
+13:30,Indiana,Romeo Langford,Free Throw,40,61
+13:21,Duke,Zion Williamson,Layup,40,63
+13:11,Duke,Tre Jones,Foul,40,63
+13:03,Indiana,Juwan Morgan,Turnover,40,63
+13:03,Duke,RJ Barrett,Steal,40,63
+12:58,Duke,RJ Barrett,Dunk,40,65
+12:37,Indiana,De'Ron Davis,Missed Jumper,40,65
+12:37,Duke,Javin DeLaurier,Defensive Rebound,40,65
+12:30,Duke,Zion Williamson,Dunk,40,67
+12:10,Indiana,Zach McRoberts,Three Point Jumper,43,67
+12:02,Duke,RJ Barrett,Foul,43,67
+12:02,Duke,RJ Barrett,Turnover,43,67
+11:59,Duke,None,None,43,67
+11:49,Indiana,Romeo Langford,Missed Three Point Jumper,43,67
+11:49,Duke,Javin DeLaurier,Defensive Rebound,43,67
+11:25,Duke,Cam Reddish,Missed Jumper,43,67
+11:25,Indiana,Aljami Durham,Block,43,67
+11:25,Indiana,Aljami Durham,Defensive Rebound,43,67
+11:20,Duke,Jack White,Foul,43,67
+11:20,Indiana,Romeo Langford,Free Throw,44,67
+11:20,Indiana,Romeo Langford,Missed Free Throw,44,67
+11:20,Indiana,Rob Phinisee,Offensive Rebound,44,67
+11:20,Indiana,Rob Phinisee,Missed Layup,44,67
+11:20,Duke,Cam Reddish,Block,44,67
+11:20,Indiana,Evan Fitzner,Offensive Rebound,44,67
+11:05,Indiana,Juwan Morgan,Layup,46,67
+10:53,Duke,Cam Reddish,Three Point Jumper,46,70
+10:41,Indiana,Rob Phinisee,Layup,48,70
+10:14,Duke,Cam Reddish,Missed Three Point Jumper,48,70
+10:14,Indiana,Evan Fitzner,Defensive Rebound,48,70
+10:03,Indiana,Rob Phinisee,Missed Layup,48,70
+10:03,Duke,Marques Bolden,Block,48,70
+10:03,Duke,Zion Williamson,Defensive Rebound,48,70
+9:57,Duke,Cam Reddish,Turnover,48,70
+9:57,Indiana,Evan Fitzner,Steal,48,70
+9:48,Indiana,Aljami Durham,Three Point Jumper,51,70
+9:28,Indiana,Juwan Morgan,Foul,51,70
+9:28,Duke,Zion Williamson,Free Throw,51,71
+9:28,Duke,Zion Williamson,Missed Free Throw,51,71
+9:28,Indiana,De'Ron Davis,Defensive Rebound,51,71
+9:11,Duke,Marques Bolden,Foul,51,71
+9:11,Indiana,De'Ron Davis,Free Throw,52,71
+9:11,Indiana,De'Ron Davis,Missed Free Throw,52,71
+9:11,Indiana,Evan Fitzner,Offensive Rebound,52,71
+9:02,Indiana,Aljami Durham,Missed Jumper,52,71
+9:02,Duke,Marques Bolden,Block,52,71
+9:02,Indiana,Indiana,Offensive Rebound,52,71
+8:56,Indiana,Romeo Langford,Missed Dunk,52,71
+8:56,Duke,Jack White,Block,52,71
+8:56,Duke,Alex O'Connell,Defensive Rebound,52,71
+8:44,Duke,RJ Barrett,Foul,52,71
+8:44,Duke,RJ Barrett,Turnover,52,71
+8:27,Indiana,De'Ron Davis,Missed Jumper,52,71
+8:27,Duke,Marques Bolden,Defensive Rebound,52,71
+8:12,Duke,Tre Jones,Jumper,52,73
+8:12,Indiana,Rob Phinisee,Foul,52,73
+8:12,Duke,Tre Jones,Free Throw,52,74
+7:51,Indiana,Aljami Durham,Jumper,54,74
+7:17,Indiana,Zach McRoberts,Foul,54,74
+7:17,Duke,None,None,54,74
+7:17,Duke,Alex O'Connell,Free Throw,54,75
+7:17,Duke,Alex O'Connell,Free Throw,54,76
+6:54,Indiana,Aljami Durham,Layup,56,76
+6:22,Duke,Tre Jones,Missed Three Point Jumper,56,76
+6:22,Indiana,Indiana,Defensive Rebound,56,76
+6:10,Indiana,Rob Phinisee,Turnover,56,76
+6:10,Duke,Alex O'Connell,Steal,56,76
+6:07,Indiana,Zach McRoberts,Foul,56,76
+6:07,Indiana,De'Ron Davis,Foul,56,76
+6:07,Indiana,De'Ron Davis,Foul,56,76
+6:07,Duke,Alex O'Connell,Free Throw,56,77
+6:07,Duke,Alex O'Connell,Free Throw,56,78
+6:07,Duke,Alex O'Connell,Missed Free Throw,56,78
+6:07,Duke,None,Team Rebound,56,78
+6:07,Duke,Alex O'Connell,Free Throw,56,79
+5:50,Indiana,Devonte Green,Foul,56,79
+5:50,Duke,Tre Jones,Free Throw,56,80
+5:50,Duke,Tre Jones,Free Throw,56,81
+5:38,Indiana,Devonte Green,Missed Three Point Jumper,56,81
+5:38,Indiana,De'Ron Davis,Offensive Rebound,56,81
+5:26,Indiana,De'Ron Davis,Jumper,58,81
+5:05,Duke,Jack White,Missed Three Point Jumper,58,81
+5:05,Indiana,De'Ron Davis,Defensive Rebound,58,81
+4:49,Duke,Cam Reddish,Foul,58,81
+4:49,Indiana,Romeo Langford,Free Throw,59,81
+4:49,Indiana,Romeo Langford,Free Throw,60,81
+4:34,Duke,Alex O'Connell,Missed Jumper,60,81
+4:34,Duke,Marques Bolden,Offensive Rebound,60,81
+4:29,Duke,Marques Bolden,Turnover,60,81
+4:29,Duke,Marques Bolden,Foul,60,81
+4:22,Indiana,Devonte Green,Jumper,62,81
+3:57,Duke,Zion Williamson,Missed Layup,62,81
+3:57,Duke,Javin DeLaurier,Offensive Rebound,62,81
+3:52,Duke,Javin DeLaurier,Layup,62,83
+3:45,Indiana,De'Ron Davis,Missed Dunk,62,83
+3:45,Duke,Javin DeLaurier,Block,62,83
+3:45,Indiana,Indiana,Offensive Rebound,62,83
+3:38,Duke,None,None,62,83
+3:34,Indiana,De'Ron Davis,Jumper,64,83
+3:15,Duke,Cam Reddish,Layup,64,85
+2:57,Duke,Javin DeLaurier,Foul,64,85
+2:57,Indiana,De'Ron Davis,Missed Free Throw,64,85
+2:57,Indiana,None,Team Rebound,64,85
+2:57,Indiana,De'Ron Davis,Free Throw,65,85
+2:51,Duke,Cam Reddish,Three Point Jumper,65,88
+2:36,Indiana,Romeo Langford,Missed Jumper,65,88
+2:36,Duke,Jack White,Defensive Rebound,65,88
+2:01,Duke,Alex O'Connell,Missed Jumper,65,88
+2:01,Indiana,Juwan Morgan,Defensive Rebound,65,88
+1:54,Duke,Alex O'Connell,Foul,65,88
+1:54,Indiana,De'Ron Davis,Missed Free Throw,65,88
+1:54,Indiana,None,Team Rebound,65,88
+1:54,Indiana,De'Ron Davis,Missed Free Throw,65,88
+1:54,Duke,Jack White,Defensive Rebound,65,88
+1:40,Indiana,Devonte Green,Foul,65,88
+1:40,Duke,Cam Reddish,Missed Free Throw,65,88
+1:40,Duke,None,Team Rebound,65,88
+1:40,Duke,Cam Reddish,Free Throw,65,89
+1:31,Indiana,Aljami Durham,Missed Jumper,65,89
+1:31,Duke,Cam Reddish,Defensive Rebound,65,89
+1:17,Duke,Cam Reddish,Missed Three Point Jumper,65,89
+1:17,Indiana,Devonte Green,Defensive Rebound,65,89
+0:57,Indiana,Aljami Durham,Jumper,67,89
+0:39,Indiana,Devonte Green,Foul,67,89
+0:39,Duke,Cam Reddish,Missed Free Throw,67,89
+0:39,Duke,None,Team Rebound,67,89
+0:39,Duke,Cam Reddish,Free Throw,67,90
+0:27,Indiana,Jake Forrester,Dunk,69,90
+0:00,Duke,None,None,69,90

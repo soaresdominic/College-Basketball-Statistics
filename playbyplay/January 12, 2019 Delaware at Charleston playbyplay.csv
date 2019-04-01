@@ -1,0 +1,302 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:48,Delaware,Ithiel Horton,Three Point Jumper,3,0
+19:25,Charleston,Jarrell Brantley,Jumper,3,2
+18:56,Delaware,Ithiel Horton,Missed Jumper,3,2
+18:56,Charleston,Jarrell Brantley,Defensive Rebound,3,2
+18:39,Charleston,Nick Harris,Layup,3,4
+18:10,Delaware,Darian Bryant,Turnover,3,4
+18:09,Charleston,Grant Riller,Steal,3,4
+18:06,Charleston,Jarrell Brantley,Layup,3,6
+17:37,Delaware,Eric Carter,Missed Jumper,3,6
+17:37,Charleston,Jarrell Brantley,Defensive Rebound,3,6
+17:29,Charleston,Jarrell Brantley,Missed Jumper,3,6
+17:29,Delaware,Ithiel Horton,Defensive Rebound,3,6
+17:09,Delaware,Matt Veretto,Missed Three Point Jumper,3,6
+17:09,Charleston,Brevin Galloway,Defensive Rebound,3,6
+17:01,Charleston,Marquise Pointer,Three Point Jumper,3,9
+16:29,Delaware,Eric Carter,Jumper,5,9
+16:15,Charleston,Grant Riller,Three Point Jumper,5,12
+15:48,Delaware,Eric Carter,Turnover,5,12
+15:48,Charleston,None,None,5,12
+15:32,Charleston,Jarrell Brantley,Layup,5,14
+15:13,Delaware,Ithiel Horton,Turnover,5,14
+15:12,Charleston,Brevin Galloway,Steal,5,14
+15:09,Charleston,Brevin Galloway,Dunk,5,16
+15:09,Delaware,None,None,5,16
+14:39,Delaware,Darian Bryant,Missed Three Point Jumper,5,16
+14:39,Charleston,Nick Harris,Defensive Rebound,5,16
+14:33,Charleston,Marquise Pointer,Three Point Jumper,5,19
+14:07,Delaware,Eric Carter,Layup,7,19
+13:45,Charleston,Jarrell Brantley,Jumper,7,21
+13:26,Delaware,Eric Carter,Layup,9,21
+12:58,Charleston,Nick Harris,Missed Jumper,9,21
+12:58,Charleston,Brevin Galloway,Offensive Rebound,9,21
+12:53,Charleston,Brevin Galloway,Missed Layup,9,21
+12:53,Delaware,Eric Carter,Defensive Rebound,9,21
+12:44,Charleston,Grant Riller,Foul,9,21
+12:28,Charleston,Sam Miller,Foul,9,21
+12:28,Delaware,Eric Carter,Missed Free Throw,9,21
+12:28,Delaware,None,Team Rebound,9,21
+12:28,Delaware,Eric Carter,Free Throw,10,21
+12:15,Charleston,Sam Miller,Missed Three Point Jumper,10,21
+12:15,Delaware,Ithiel Horton,Defensive Rebound,10,21
+12:00,Delaware,Eric Carter,Missed Layup,10,21
+12:00,Charleston,Sam Miller,Block,10,21
+11:57,Charleston,Jaylen McManus,Defensive Rebound,10,21
+11:53,Charleston,Grant Riller,Missed Three Point Jumper,10,21
+11:53,Delaware,Ryan Allen,Defensive Rebound,10,21
+11:32,Delaware,Kevin Anderson,Missed Three Point Jumper,10,21
+11:32,Charleston,Jaylen McManus,Defensive Rebound,10,21
+11:05,Charleston,None,None,10,21
+11:00,Charleston,Brevin Galloway,Missed Three Point Jumper,10,21
+11:00,Delaware,Collin Goss,Defensive Rebound,10,21
+10:45,Delaware,Ryan Allen,Jumper,12,21
+10:27,Delaware,Collin Goss,Foul,12,21
+10:11,Charleston,Brevin Galloway,Missed Layup,12,21
+10:11,Delaware,Ryan Allen,Defensive Rebound,12,21
+9:49,Delaware,Ryan Allen,Missed Three Point Jumper,12,21
+9:49,Charleston,Jaylen Richard,Defensive Rebound,12,21
+9:41,Charleston,Jaylen Richard,Layup,12,23
+9:30,Delaware,Kevin Anderson,Missed Layup,12,23
+9:30,Charleston,Nick Harris,Block,12,23
+9:29,Delaware,Delaware,Offensive Rebound,12,23
+9:15,Delaware,Ryan Johnson,Missed Three Point Jumper,12,23
+9:15,Charleston,Jarrell Brantley,Defensive Rebound,12,23
+9:05,Charleston,Jaylen Richard,Missed Three Point Jumper,12,23
+9:05,Delaware,Collin Goss,Defensive Rebound,12,23
+8:44,Delaware,Ithiel Horton,Three Point Jumper,15,23
+8:24,Charleston,Nick Harris,Layup,15,25
+8:10,Delaware,Ithiel Horton,Missed Three Point Jumper,15,25
+8:10,Charleston,Jarrell Brantley,Defensive Rebound,15,25
+7:57,Charleston,Jarrell Brantley,Jumper,15,27
+7:36,Charleston,Brevin Galloway,Foul,15,27
+7:36,Charleston,None,None,15,27
+7:20,Delaware,Eric Carter,Foul,15,27
+7:20,Delaware,Eric Carter,Turnover,15,27
+7:05,Delaware,Ryan Johnson,Foul,15,27
+6:59,Charleston,Marquise Pointer,Missed Layup,15,27
+6:59,Delaware,Kevin Anderson,Block,15,27
+6:54,Delaware,Eric Carter,Defensive Rebound,15,27
+6:48,Delaware,Kevin Anderson,Turnover,15,27
+6:28,Charleston,Grant Riller,Jumper,15,29
+5:57,Delaware,Ryan Allen,Missed Three Point Jumper,15,29
+5:57,Charleston,Marquise Pointer,Defensive Rebound,15,29
+5:48,Delaware,Ryan Allen,Foul,15,29
+5:48,Charleston,Grant Riller,Missed Free Throw,15,29
+5:48,Charleston,None,Team Rebound,15,29
+5:48,Charleston,Grant Riller,Free Throw,15,30
+5:36,Delaware,Ryan Allen,Layup,17,30
+5:16,Delaware,Ryan Johnson,Foul,17,30
+5:16,Charleston,Zep Jasper,Foul,17,30
+5:16,Charleston,Zep Jasper,Turnover,17,30
+5:07,Delaware,Ryan Allen,Three Point Jumper,20,30
+4:48,Charleston,Marquise Pointer,Missed Layup,20,30
+4:48,Delaware,Eric Carter,Defensive Rebound,20,30
+4:41,Delaware,Ithiel Horton,Turnover,20,30
+4:31,Charleston,Jaylen McManus,Three Point Jumper,20,33
+3:58,Delaware,Eric Carter,Missed Jumper,20,33
+3:58,Charleston,Jaylen McManus,Defensive Rebound,20,33
+3:51,Delaware,Eric Carter,Foul,20,33
+3:51,Charleston,None,None,20,33
+3:51,Charleston,Jaylen McManus,Free Throw,20,34
+3:51,Charleston,Jaylen McManus,Missed Free Throw,20,34
+3:51,Delaware,Darian Bryant,Defensive Rebound,20,34
+3:36,Delaware,Kevin Anderson,Layup,22,34
+3:23,Charleston,Marquise Pointer,Missed Three Point Jumper,22,34
+3:23,Delaware,Eric Carter,Defensive Rebound,22,34
+3:20,Charleston,Jaylen McManus,Foul,22,34
+3:04,Delaware,Kevin Anderson,Jumper,24,34
+2:47,Charleston,Jaylen McManus,Turnover,24,34
+2:23,Delaware,Eric Carter,Missed Layup,24,34
+2:23,Charleston,Jarrell Brantley,Block,24,34
+2:22,Delaware,Delaware,Offensive Rebound,24,34
+2:20,Delaware,Ryan Allen,Missed Three Point Jumper,24,34
+2:20,Charleston,Brevin Galloway,Defensive Rebound,24,34
+1:51,Charleston,Grant Riller,Missed Layup,24,34
+1:51,Delaware,Eric Carter,Defensive Rebound,24,34
+1:32,Delaware,Kevin Anderson,Turnover,24,34
+1:08,Charleston,Zep Jasper,Missed Layup,24,34
+1:08,Delaware,Eric Carter,Block,24,34
+1:08,Delaware,Kevin Anderson,Defensive Rebound,24,34
+0:54,Delaware,Eric Carter,Foul,24,34
+0:54,Delaware,Eric Carter,Turnover,24,34
+0:41,Charleston,Jaylen McManus,Missed Layup,24,34
+0:41,Delaware,Collin Goss,Block,24,34
+0:40,Charleston,Jaylen McManus,Offensive Rebound,24,34
+0:26,Charleston,Brevin Galloway,Missed Three Point Jumper,24,34
+0:26,Charleston,Jaylen McManus,Offensive Rebound,24,34
+0:08,Charleston,Zep Jasper,Missed Three Point Jumper,24,34
+0:08,Delaware,Kevin Anderson,Defensive Rebound,24,34
+0:00,Delaware,Ithiel Horton,Missed Three Point Jumper,24,34
+0:00,Delaware,Collin Goss,Offensive Rebound,24,34
+0:00,Charleston,None,None,24,34
+19:45,Delaware,Kevin Anderson,Missed Three Point Jumper,24,34
+19:45,Delaware,Darian Bryant,Offensive Rebound,24,34
+19:41,Delaware,None,None,24,34
+19:41,Delaware,Darian Bryant,Offensive Rebound,24,34
+19:27,Delaware,Eric Carter,Missed Jumper,24,34
+19:27,Delaware,Darian Bryant,Offensive Rebound,24,34
+19:18,Delaware,Kevin Anderson,Missed Three Point Jumper,24,34
+19:18,Charleston,Brevin Galloway,Defensive Rebound,24,34
+19:00,Charleston,Jarrell Brantley,Missed Jumper,24,34
+19:00,Delaware,Ithiel Horton,Defensive Rebound,24,34
+18:42,Charleston,Nick Harris,Foul,24,34
+18:35,Delaware,Darian Bryant,Three Point Jumper,27,34
+18:33,Charleston,Nick Harris,Foul,27,34
+18:33,Charleston,Nick Harris,Turnover,27,34
+18:21,Delaware,Darian Bryant,Turnover,27,34
+18:02,Charleston,Nick Harris,Missed Layup,27,34
+18:02,Delaware,Eric Carter,Block,27,34
+18:00,Charleston,Nick Harris,Offensive Rebound,27,34
+17:55,Delaware,Ithiel Horton,Foul,27,34
+17:45,Charleston,Marquise Pointer,Turnover,27,34
+17:44,Delaware,Eric Carter,Steal,27,34
+17:38,Delaware,Ithiel Horton,Missed Three Point Jumper,27,34
+17:38,Charleston,Jarrell Brantley,Defensive Rebound,27,34
+17:32,Delaware,Kevin Anderson,Foul,27,34
+17:32,Charleston,Grant Riller,Free Throw,27,35
+17:32,Charleston,Grant Riller,Free Throw,27,36
+17:15,Delaware,Ryan Allen,Missed Three Point Jumper,27,36
+17:15,Charleston,Jarrell Brantley,Defensive Rebound,27,36
+17:00,Delaware,Kevin Anderson,Foul,27,36
+16:48,Charleston,Grant Riller,Missed Three Point Jumper,27,36
+16:48,Delaware,Kevin Anderson,Defensive Rebound,27,36
+16:39,Delaware,Kevin Anderson,Layup,29,36
+16:23,Charleston,Jarrell Brantley,Layup,29,38
+16:23,Delaware,Kevin Anderson,Foul,29,38
+16:23,Charleston,Jarrell Brantley,Missed Free Throw,29,38
+16:23,Delaware,Eric Carter,Defensive Rebound,29,38
+15:55,Delaware,Eric Carter,Dunk,31,38
+15:33,Charleston,Zep Jasper,Three Point Jumper,31,41
+15:09,Delaware,Ryan Allen,Jumper,33,41
+14:37,Charleston,Grant Riller,Three Point Jumper,33,44
+14:16,Charleston,None,None,33,44
+14:06,Delaware,Ithiel Horton,Missed Three Point Jumper,33,44
+14:06,Charleston,Jaylen McManus,Defensive Rebound,33,44
+13:53,Charleston,Jarrell Brantley,Missed Three Point Jumper,33,44
+13:53,Delaware,Ithiel Horton,Defensive Rebound,33,44
+13:40,Delaware,Eric Carter,Missed Jumper,33,44
+13:40,Charleston,Jarrell Brantley,Defensive Rebound,33,44
+13:22,Charleston,Jaylen McManus,Missed Three Point Jumper,33,44
+13:22,Delaware,Eric Carter,Defensive Rebound,33,44
+13:19,Charleston,Jarrell Brantley,Foul,33,44
+13:05,Delaware,Ithiel Horton,Missed Layup,33,44
+13:05,Charleston,Jaylen Richard,Defensive Rebound,33,44
+12:59,Charleston,Jarrell Brantley,Missed Three Point Jumper,33,44
+12:59,Charleston,Jarrell Brantley,Offensive Rebound,33,44
+12:32,Delaware,Darian Bryant,Foul,33,44
+12:32,Charleston,Jarrell Brantley,Free Throw,33,45
+12:32,Charleston,Jarrell Brantley,Missed Free Throw,33,45
+12:32,Delaware,Collin Goss,Defensive Rebound,33,45
+12:09,Delaware,Darian Bryant,Turnover,33,45
+11:53,Charleston,Jaylen Richard,Turnover,33,45
+11:51,Delaware,Kevin Anderson,Steal,33,45
+11:44,Delaware,Kevin Anderson,Turnover,33,45
+11:44,Charleston,None,None,33,45
+11:33,Charleston,Grant Riller,Layup,33,47
+11:19,Delaware,Ryan Allen,Three Point Jumper,36,47
+11:01,Delaware,Collin Goss,Foul,36,47
+11:01,Charleston,Sam Miller,Free Throw,36,48
+11:01,Charleston,Sam Miller,Free Throw,36,49
+10:43,Charleston,Sam Miller,Foul,36,49
+10:43,Delaware,Ryan Allen,Free Throw,37,49
+10:43,Delaware,Ryan Allen,Free Throw,38,49
+10:24,Charleston,Jaylen McManus,Missed Layup,38,49
+10:24,Delaware,Darian Bryant,Defensive Rebound,38,49
+10:08,Charleston,Sam Miller,Foul,38,49
+9:50,Delaware,Ryan Johnson,Turnover,38,49
+9:39,Charleston,Jarrell Brantley,Turnover,38,49
+9:24,Charleston,Grant Riller,Foul,38,49
+9:13,Delaware,Ryan Allen,Layup,40,49
+8:55,Charleston,Grant Riller,Turnover,40,49
+8:54,Delaware,Ryan Johnson,Steal,40,49
+8:47,Delaware,Kevin Anderson,Turnover,40,49
+8:46,Charleston,Brevin Galloway,Steal,40,49
+8:44,Charleston,Brevin Galloway,Dunk,40,51
+8:21,Delaware,Ryan Allen,Missed Three Point Jumper,40,51
+8:21,Charleston,Zep Jasper,Defensive Rebound,40,51
+8:03,Charleston,Zep Jasper,Three Point Jumper,40,54
+7:58,Delaware,None,None,40,54
+7:58,Charleston,None,None,40,54
+7:34,Delaware,Eric Carter,Jumper,42,54
+7:30,Charleston,Jarrell Brantley,Turnover,42,54
+7:30,Charleston,None,None,42,54
+7:09,Delaware,Eric Carter,Missed Jumper,42,54
+7:09,Charleston,Charleston,Defensive Rebound,42,54
+7:08,Charleston,Nick Harris,Block,42,54
+6:45,Charleston,Zep Jasper,Turnover,42,54
+6:45,Delaware,Ryan Johnson,Steal,42,54
+6:30,Delaware,Ryan Allen,Missed Three Point Jumper,42,54
+6:30,Charleston,Jarrell Brantley,Defensive Rebound,42,54
+6:21,Charleston,Jarrell Brantley,Layup,42,56
+6:01,Delaware,Ryan Johnson,Missed Three Point Jumper,42,56
+6:01,Charleston,Zep Jasper,Defensive Rebound,42,56
+5:52,Charleston,Grant Riller,Jumper,42,58
+5:28,Delaware,Ithiel Horton,Missed Three Point Jumper,42,58
+5:28,Charleston,Nick Harris,Defensive Rebound,42,58
+5:05,Charleston,Jarrell Brantley,Jumper,42,60
+4:57,Delaware,None,None,42,60
+4:37,Charleston,Marquise Pointer,Foul,42,60
+4:37,Delaware,Ryan Allen,Free Throw,43,60
+4:37,Delaware,Ryan Allen,Free Throw,44,60
+4:37,Delaware,Ryan Allen,Free Throw,45,60
+4:10,Charleston,Jarrell Brantley,Missed Three Point Jumper,45,60
+4:10,Charleston,Grant Riller,Offensive Rebound,45,60
+3:45,Charleston,Jarrell Brantley,Turnover,45,60
+3:44,Delaware,Darian Bryant,Steal,45,60
+3:37,Delaware,Darian Bryant,Turnover,45,60
+3:36,Charleston,Grant Riller,Steal,45,60
+3:34,Charleston,Grant Riller,Layup,45,62
+3:34,Delaware,Kevin Anderson,Foul,45,62
+3:34,Charleston,None,None,45,62
+3:34,Charleston,Grant Riller,Free Throw,45,63
+3:29,Charleston,Grant Riller,Foul,45,63
+3:29,Delaware,Kevin Anderson,Free Throw,46,63
+3:29,Delaware,Kevin Anderson,Missed Free Throw,46,63
+3:29,Charleston,Jarrell Brantley,Defensive Rebound,46,63
+3:10,Delaware,Darian Bryant,Foul,46,63
+3:10,Charleston,Jarrell Brantley,Missed Free Throw,46,63
+3:10,Charleston,None,Team Rebound,46,63
+3:10,Charleston,Jarrell Brantley,Free Throw,46,64
+3:01,Delaware,Ryan Allen,Layup,48,64
+2:39,Charleston,Grant Riller,Dunk,48,66
+2:38,Charleston,Grant Riller,Foul,48,66
+2:38,Charleston,Grant Riller,Foul,48,66
+2:38,Delaware,Ithiel Horton,Free Throw,49,66
+2:38,Delaware,Ithiel Horton,Free Throw,50,66
+2:25,Charleston,Marquise Pointer,Foul,50,66
+2:25,Delaware,Ryan Allen,Free Throw,51,66
+2:25,Delaware,Ryan Allen,Free Throw,52,66
+2:25,Delaware,None,None,52,66
+2:18,Charleston,Marquise Pointer,Turnover,52,66
+2:17,Delaware,Kevin Anderson,Steal,52,66
+2:11,Delaware,Ithiel Horton,Missed Three Point Jumper,52,66
+2:11,Delaware,Matt Veretto,Offensive Rebound,52,66
+2:08,Delaware,Ryan Allen,Missed Three Point Jumper,52,66
+2:08,Delaware,Ithiel Horton,Offensive Rebound,52,66
+2:07,Charleston,Marquise Pointer,Foul,52,66
+2:07,Delaware,Ithiel Horton,Free Throw,53,66
+2:07,Delaware,Ithiel Horton,Free Throw,54,66
+2:00,Charleston,Jaylen McManus,Turnover,54,66
+2:00,Delaware,Ithiel Horton,Steal,54,66
+1:51,Delaware,Ithiel Horton,Missed Layup,54,66
+1:51,Charleston,Jarrell Brantley,Defensive Rebound,54,66
+1:28,Charleston,Jaylen McManus,Layup,54,68
+1:16,Charleston,Zep Jasper,Foul,54,68
+1:16,Delaware,Kevin Anderson,Free Throw,55,68
+1:16,Delaware,Kevin Anderson,Free Throw,56,68
+1:04,Delaware,Ithiel Horton,Foul,56,68
+1:04,Charleston,Grant Riller,Free Throw,56,69
+1:04,Charleston,Grant Riller,Missed Free Throw,56,69
+1:04,Delaware,Matt Veretto,Defensive Rebound,56,69
+0:54,Delaware,Jacob Cushing,Missed Three Point Jumper,56,69
+0:54,Charleston,Marquise Pointer,Defensive Rebound,56,69
+0:52,Delaware,Ryan Allen,Foul,56,69
+0:52,Charleston,Marquise Pointer,Free Throw,56,70
+0:52,Charleston,Marquise Pointer,Free Throw,56,71
+0:46,Delaware,Jacob Cushing,Missed Three Point Jumper,56,71
+0:46,Charleston,Jarrell Brantley,Defensive Rebound,56,71
+0:15,Charleston,Brevin Galloway,Missed Three Point Jumper,56,71
+0:15,Delaware,Jacob Cushing,Defensive Rebound,56,71
+0:04,Delaware,Kevin Anderson,Layup,58,71
+0:00,Charleston,None,None,58,71

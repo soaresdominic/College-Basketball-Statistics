@@ -1,0 +1,306 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Creighton,None,None,0,0
+19:49,Creighton,Martin Krampelj,Dunk,0,2
+19:29,Villanova,Eric Paschall,Three Point Jumper,3,2
+19:06,Creighton,Martin Krampelj,Missed Layup,3,2
+19:06,Villanova,Jermaine Samuels,Block,3,2
+19:06,Villanova,Villanova,Defensive Rebound,3,2
+18:44,Villanova,Saddiq Bey,Three Point Jumper,6,2
+18:34,Creighton,Marcus Zegarowski,Foul,6,2
+18:34,Creighton,Marcus Zegarowski,Turnover,6,2
+18:19,Villanova,Phil Booth,Missed Three Point Jumper,6,2
+18:19,Creighton,Martin Krampelj,Defensive Rebound,6,2
+18:12,Creighton,Mitch Ballock,Missed Three Point Jumper,6,2
+18:12,Villanova,Saddiq Bey,Defensive Rebound,6,2
+17:48,Villanova,Eric Paschall,Missed Three Point Jumper,6,2
+17:48,Creighton,Marcus Zegarowski,Defensive Rebound,6,2
+17:34,Creighton,Davion Mintz,Missed Three Point Jumper,6,2
+17:34,Creighton,Mitch Ballock,Offensive Rebound,6,2
+17:28,Creighton,Ty-Shon Alexander,Three Point Jumper,6,5
+17:05,Villanova,Jermaine Samuels,Dunk,8,5
+16:55,Villanova,Phil Booth,Foul,8,5
+16:49,Creighton,Davion Mintz,Foul,8,5
+16:49,Creighton,Davion Mintz,Turnover,8,5
+16:37,Villanova,Saddiq Bey,Missed Three Point Jumper,8,5
+16:37,Creighton,Mitch Ballock,Defensive Rebound,8,5
+16:31,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,8,5
+16:31,Creighton,Creighton,Offensive Rebound,8,5
+16:13,Creighton,Mitch Ballock,Three Point Jumper,8,8
+15:46,Villanova,Joe Cremo,Missed Layup,8,8
+15:46,Creighton,Martin Krampelj,Defensive Rebound,8,8
+15:37,Villanova,Joe Cremo,Foul,8,8
+15:37,Creighton,None,None,8,8
+15:37,Creighton,Martin Krampelj,Free Throw,8,9
+15:37,Creighton,Martin Krampelj,Free Throw,8,10
+15:15,Villanova,Phil Booth,Jumper,10,10
+15:03,Creighton,Martin Krampelj,Layup,10,12
+14:39,Villanova,Eric Paschall,Turnover,10,12
+14:39,Creighton,Ty-Shon Alexander,Steal,10,12
+14:34,Creighton,Marcus Zegarowski,Missed Three Point Jumper,10,12
+14:34,Villanova,Phil Booth,Defensive Rebound,10,12
+14:18,Creighton,Davion Mintz,Foul,10,12
+14:09,Villanova,Phil Booth,Jumper,12,12
+13:49,Creighton,Kaleb Joseph,Three Point Jumper,12,15
+13:29,Villanova,Jahvon Quinerly,Missed Three Point Jumper,12,15
+13:29,Creighton,Ty-Shon Alexander,Defensive Rebound,12,15
+13:16,Creighton,Marcus Zegarowski,Missed Jumper,12,15
+13:16,Villanova,Phil Booth,Defensive Rebound,12,15
+13:10,Villanova,Jahvon Quinerly,Layup,14,15
+12:53,Creighton,Martin Krampelj,Missed Layup,14,15
+12:53,Creighton,Martin Krampelj,Offensive Rebound,14,15
+12:49,Creighton,Martin Krampelj,Dunk,14,17
+12:19,Villanova,Jermaine Samuels,Missed Dunk,14,17
+12:19,Creighton,Ty-Shon Alexander,Block,14,17
+12:19,Creighton,Marcus Zegarowski,Defensive Rebound,14,17
+12:10,Creighton,Ty-Shon Alexander,Three Point Jumper,14,20
+12:07,Villanova,None,None,14,20
+11:56,Villanova,Eric Paschall,Layup,16,20
+11:33,Creighton,Kaleb Joseph,Missed Jumper,16,20
+11:33,Villanova,Saddiq Bey,Defensive Rebound,16,20
+11:27,Creighton,Mitch Ballock,Foul,16,20
+11:25,Villanova,Collin Gillespie,Missed Jumper,16,20
+11:25,Creighton,Marcus Zegarowski,Defensive Rebound,16,20
+11:17,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,16,20
+11:17,Villanova,Jahvon Quinerly,Defensive Rebound,16,20
+11:08,Villanova,Cole Swider,Missed Three Point Jumper,16,20
+11:08,Creighton,Christian Bishop,Defensive Rebound,16,20
+10:48,Creighton,Christian Bishop,Layup,16,22
+10:19,Villanova,Saddiq Bey,Missed Jumper,16,22
+10:19,Creighton,Christian Bishop,Defensive Rebound,16,22
+10:10,Creighton,Christian Bishop,Layup,16,24
+10:10,Villanova,Cole Swider,Foul,16,24
+10:10,Creighton,Christian Bishop,Free Throw,16,25
+9:53,Villanova,Phil Booth,Jumper,18,25
+9:53,Creighton,Kaleb Joseph,Foul,18,25
+9:53,Villanova,Phil Booth,Free Throw,19,25
+9:28,Creighton,Christian Bishop,Dunk,19,27
+8:55,Villanova,Eric Paschall,Missed Three Point Jumper,19,27
+8:54,Villanova,Saddiq Bey,Offensive Rebound,19,27
+8:53,Villanova,None,None,21,27
+8:52,Creighton,Christian Bishop,Foul,21,27
+8:52,Villanova,Saddiq Bey,Missed Free Throw,21,27
+8:52,Creighton,Martin Krampelj,Defensive Rebound,21,27
+8:33,Creighton,Kaleb Joseph,Missed Jumper,21,27
+8:33,Villanova,Joe Cremo,Defensive Rebound,21,27
+8:19,Creighton,Connor Cashaw,Foul,21,27
+8:19,Villanova,Eric Paschall,Free Throw,22,27
+8:19,Villanova,Eric Paschall,Free Throw,23,27
+8:02,Creighton,Davion Mintz,Turnover,23,27
+7:49,Villanova,None,None,23,27
+7:49,Creighton,None,None,23,27
+7:47,Villanova,Phil Booth,Missed Three Point Jumper,23,27
+7:47,Creighton,Marcus Zegarowski,Defensive Rebound,23,27
+7:20,Creighton,Connor Cashaw,Missed Three Point Jumper,23,27
+7:19,Creighton,Creighton,Offensive Rebound,23,27
+7:00,Creighton,Martin Krampelj,Dunk,23,29
+6:38,Villanova,Jermaine Samuels,Missed Three Point Jumper,23,29
+6:38,Creighton,Marcus Zegarowski,Defensive Rebound,23,29
+6:20,Creighton,Marcus Zegarowski,Turnover,23,29
+6:20,Villanova,Collin Gillespie,Steal,23,29
+6:09,Villanova,Phil Booth,Layup,25,29
+6:03,Creighton,Connor Cashaw,Missed Three Point Jumper,25,29
+6:03,Villanova,Phil Booth,Defensive Rebound,25,29
+5:47,Villanova,Eric Paschall,Foul,25,29
+5:47,Villanova,Eric Paschall,Turnover,25,29
+5:23,Creighton,Martin Krampelj,Turnover,25,29
+5:23,Villanova,Dhamir Cosby-Roundtree,Steal,25,29
+5:17,Villanova,Eric Paschall,Dunk,27,29
+5:09,Creighton,Ty-Shon Alexander,Three Point Jumper,27,32
+4:45,Villanova,Jahvon Quinerly,Three Point Jumper,30,32
+4:30,Creighton,Ty-Shon Alexander,Layup,30,34
+4:05,Villanova,Dhamir Cosby-Roundtree,Missed Jumper,30,34
+4:05,Creighton,Martin Krampelj,Defensive Rebound,30,34
+3:59,Creighton,Davion Mintz,Missed Three Point Jumper,30,34
+3:59,Villanova,Jahvon Quinerly,Defensive Rebound,30,34
+3:39,Villanova,Phil Booth,Missed Three Point Jumper,30,34
+3:39,Creighton,Martin Krampelj,Defensive Rebound,30,34
+3:33,Creighton,Davion Mintz,Layup,30,36
+3:00,Villanova,Jahvon Quinerly,Missed Jumper,30,36
+3:00,Villanova,Eric Paschall,Offensive Rebound,30,36
+2:56,Villanova,Collin Gillespie,Three Point Jumper,33,36
+2:36,Creighton,Ty-Shon Alexander,Three Point Jumper,33,39
+2:03,Villanova,Collin Gillespie,Three Point Jumper,36,39
+1:55,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,36,39
+1:55,Villanova,Jahvon Quinerly,Defensive Rebound,36,39
+1:33,Villanova,Jahvon Quinerly,Turnover,36,39
+1:33,Creighton,Marcus Zegarowski,Steal,36,39
+1:17,Creighton,Ty-Shon Alexander,Three Point Jumper,36,42
+0:48,Villanova,Jahvon Quinerly,Jumper,38,42
+0:24,Villanova,Jahvon Quinerly,Foul,38,42
+0:24,Creighton,None,None,38,42
+0:04,Creighton,Ty-Shon Alexander,Missed Jumper,38,42
+0:04,Villanova,Jermaine Samuels,Defensive Rebound,38,42
+0:03,Villanova,Joe Cremo,Turnover,38,42
+0:03,Creighton,Ty-Shon Alexander,Steal,38,42
+0:01,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,38,42
+0:01,Villanova,Eric Paschall,Defensive Rebound,38,42
+0:00,Creighton,None,None,38,42
+20:00,Creighton,None,None,38,42
+19:37,Creighton,Mitch Ballock,Three Point Jumper,38,45
+19:19,Villanova,Eric Paschall,Missed Three Point Jumper,38,45
+19:19,Creighton,Davion Mintz,Defensive Rebound,38,45
+19:03,Villanova,Eric Paschall,Foul,38,45
+18:54,Creighton,Davion Mintz,Jumper,38,47
+18:19,Villanova,Eric Paschall,Layup,40,47
+18:13,Creighton,Davion Mintz,Missed Three Point Jumper,40,47
+18:13,Villanova,Eric Paschall,Defensive Rebound,40,47
+17:49,Creighton,Mitch Ballock,Foul,40,47
+17:49,Villanova,Phil Booth,Free Throw,41,47
+17:49,Villanova,Phil Booth,Free Throw,42,47
+17:49,Villanova,Phil Booth,Free Throw,43,47
+17:25,Creighton,Ty-Shon Alexander,Missed Jumper,43,47
+17:25,Villanova,Eric Paschall,Defensive Rebound,43,47
+17:09,Villanova,Phil Booth,Jumper,45,47
+16:50,Creighton,Marcus Zegarowski,Missed Layup,45,47
+16:50,Villanova,Collin Gillespie,Defensive Rebound,45,47
+16:42,Villanova,Phil Booth,Three Point Jumper,48,47
+16:28,Creighton,None,None,48,47
+16:16,Creighton,Marcus Zegarowski,Turnover,48,47
+16:16,Villanova,Collin Gillespie,Steal,48,47
+16:12,Villanova,Jermaine Samuels,Dunk,50,47
+16:12,Creighton,Martin Krampelj,Foul,50,47
+16:12,Villanova,Jermaine Samuels,Free Throw,51,47
+16:07,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,51,47
+16:07,Villanova,Phil Booth,Defensive Rebound,51,47
+15:59,Villanova,Saddiq Bey,Missed Three Point Jumper,51,47
+15:59,Creighton,Creighton,Defensive Rebound,51,47
+15:57,Creighton,None,None,51,47
+15:36,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,51,47
+15:36,Creighton,Martin Krampelj,Offensive Rebound,51,47
+15:28,Creighton,Marcus Zegarowski,Missed Three Point Jumper,51,47
+15:28,Villanova,Saddiq Bey,Defensive Rebound,51,47
+15:25,Villanova,Saddiq Bey,Turnover,51,47
+15:25,Creighton,Marcus Zegarowski,Steal,51,47
+15:13,Creighton,Ty-Shon Alexander,Foul,51,47
+15:13,Creighton,Ty-Shon Alexander,Turnover,51,47
+15:05,Villanova,Collin Gillespie,Missed Jumper,51,47
+15:05,Creighton,Martin Krampelj,Defensive Rebound,51,47
+14:41,Villanova,Joe Cremo,Foul,51,47
+14:41,Creighton,Davion Mintz,Free Throw,51,48
+14:41,Creighton,Davion Mintz,Free Throw,51,49
+14:30,Villanova,Joe Cremo,Missed Three Point Jumper,51,49
+14:30,Creighton,Ty-Shon Alexander,Defensive Rebound,51,49
+14:16,Creighton,Marcus Zegarowski,Layup,51,51
+14:01,Villanova,Eric Paschall,Turnover,51,51
+14:01,Creighton,Davion Mintz,Steal,51,51
+13:56,Creighton,Marcus Zegarowski,Missed Three Point Jumper,51,51
+13:56,Villanova,Collin Gillespie,Defensive Rebound,51,51
+13:47,Villanova,Collin Gillespie,Turnover,51,51
+13:47,Creighton,Ty-Shon Alexander,Steal,51,51
+13:27,Creighton,Ty-Shon Alexander,Layup,51,53
+12:59,Villanova,Phil Booth,Missed Layup,51,53
+12:59,Villanova,Villanova,Offensive Rebound,51,53
+12:49,Villanova,Phil Booth,Three Point Jumper,54,53
+12:24,Creighton,Kaleb Joseph,Missed Layup,54,53
+12:24,Villanova,Jermaine Samuels,Block,54,53
+12:24,Creighton,Kaleb Joseph,Offensive Rebound,54,53
+12:18,Villanova,None,None,54,53
+12:18,Creighton,Kaleb Joseph,Turnover,54,53
+12:18,Villanova,Phil Booth,Steal,54,53
+12:10,Creighton,Davion Mintz,Foul,54,53
+12:02,Villanova,Phil Booth,Three Point Jumper,57,53
+11:42,Villanova,Jahvon Quinerly,Foul,57,53
+11:42,Creighton,None,None,57,53
+11:38,Creighton,Ty-Shon Alexander,Turnover,57,53
+11:38,Villanova,Phil Booth,Steal,57,53
+11:36,Creighton,Ty-Shon Alexander,Foul,57,53
+11:22,Villanova,Phil Booth,Missed Jumper,57,53
+11:22,Villanova,Jermaine Samuels,Offensive Rebound,57,53
+11:17,Villanova,Jermaine Samuels,Missed Layup,57,53
+11:17,Creighton,Christian Bishop,Block,57,53
+11:17,Villanova,Jermaine Samuels,Offensive Rebound,57,53
+11:13,Villanova,Eric Paschall,Missed Three Point Jumper,57,53
+11:13,Villanova,Villanova,Offensive Rebound,57,53
+10:58,Villanova,Phil Booth,Foul,57,53
+10:58,Villanova,Phil Booth,Turnover,57,53
+10:41,Creighton,Kaleb Joseph,Missed Three Point Jumper,57,53
+10:41,Villanova,Eric Paschall,Defensive Rebound,57,53
+10:24,Villanova,Collin Gillespie,Three Point Jumper,60,53
+10:09,Creighton,Ty-Shon Alexander,Turnover,60,53
+10:09,Villanova,Collin Gillespie,Steal,60,53
+10:05,Villanova,Saddiq Bey,Missed Dunk,60,53
+10:05,Villanova,Jermaine Samuels,Offensive Rebound,60,53
+10:05,Villanova,None,None,62,53
+9:55,Creighton,None,None,62,53
+9:41,Creighton,Ty-Shon Alexander,Turnover,62,53
+9:41,Villanova,Jermaine Samuels,Steal,62,53
+9:36,Villanova,Saddiq Bey,Dunk,64,53
+9:14,Creighton,Mitch Ballock,Three Point Jumper,64,56
+8:37,Villanova,Villanova ,Turnover,64,56
+8:22,Creighton,Ty-Shon Alexander,Missed Layup,64,56
+8:22,Villanova,Collin Gillespie,Defensive Rebound,64,56
+8:20,Creighton,Ty-Shon Alexander,Foul,64,56
+8:06,Villanova,Eric Paschall,Layup,66,56
+7:48,Creighton,Mitch Ballock,Missed Jumper,66,56
+7:48,Creighton,Martin Krampelj,Offensive Rebound,66,56
+7:43,Villanova,Collin Gillespie,Foul,66,56
+7:43,Creighton,None,None,66,56
+7:40,Creighton,Mitch Ballock,Missed Three Point Jumper,66,56
+7:40,Villanova,Eric Paschall,Defensive Rebound,66,56
+7:13,Villanova,Collin Gillespie,Three Point Jumper,69,56
+7:02,Creighton,Davion Mintz,Three Point Jumper,69,59
+6:35,Creighton,Kaleb Joseph,Foul,69,59
+6:35,Villanova,Collin Gillespie,Free Throw,70,59
+6:35,Villanova,Collin Gillespie,Free Throw,71,59
+6:22,Creighton,Marcus Zegarowski,Missed Layup,71,59
+6:22,Creighton,Marcus Zegarowski,Offensive Rebound,71,59
+6:17,Creighton,Marcus Zegarowski,Missed Layup,71,59
+6:17,Villanova,Eric Paschall,Defensive Rebound,71,59
+6:01,Villanova,Collin Gillespie,Turnover,71,59
+6:01,Creighton,Mitch Ballock,Steal,71,59
+5:56,Creighton,Marcus Zegarowski,Three Point Jumper,71,62
+5:30,Villanova,Collin Gillespie,Missed Three Point Jumper,71,62
+5:30,Creighton,Marcus Zegarowski,Defensive Rebound,71,62
+5:22,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,71,62
+5:22,Villanova,Saddiq Bey,Defensive Rebound,71,62
+5:00,Villanova,Collin Gillespie,Missed Three Point Jumper,71,62
+5:00,Creighton,Martin Krampelj,Defensive Rebound,71,62
+4:52,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,71,62
+4:52,Villanova,Jermaine Samuels,Defensive Rebound,71,62
+4:39,Creighton,Ty-Shon Alexander,Foul,71,62
+4:39,Villanova,Phil Booth,Free Throw,72,62
+4:39,Villanova,Phil Booth,Free Throw,73,62
+4:21,Creighton,Mitch Ballock,Three Point Jumper,73,65
+4:01,Villanova,Phil Booth,Three Point Jumper,76,65
+3:52,Creighton,Marcus Zegarowski,Three Point Jumper,76,68
+3:29,Creighton,Marcus Zegarowski,Foul,76,68
+3:29,Creighton,None,None,76,68
+3:29,Villanova,Joe Cremo,Missed Free Throw,76,68
+3:29,Creighton,Ty-Shon Alexander,Defensive Rebound,76,68
+3:21,Villanova,Collin Gillespie,Foul,76,68
+3:17,Creighton,None,None,76,68
+3:13,Creighton,Martin Krampelj,Missed Three Point Jumper,76,68
+3:13,Villanova,Saddiq Bey,Defensive Rebound,76,68
+2:51,Villanova,Eric Paschall,Three Point Jumper,79,68
+2:43,Villanova,Eric Paschall,Foul,79,68
+2:43,Creighton,Marcus Zegarowski,Free Throw,79,69
+2:43,Creighton,Marcus Zegarowski,Free Throw,79,70
+2:35,Villanova,Collin Gillespie,Missed Three Point Jumper,79,70
+2:35,Creighton,Mitch Ballock,Defensive Rebound,79,70
+2:31,Villanova,Jermaine Samuels,Foul,79,70
+2:31,Creighton,Mitch Ballock,Free Throw,79,71
+2:31,Creighton,Mitch Ballock,Missed Free Throw,79,71
+2:31,Villanova,Jermaine Samuels,Defensive Rebound,79,71
+2:28,Creighton,Martin Krampelj,Foul,79,71
+2:28,Villanova,Jermaine Samuels,Missed Free Throw,79,71
+2:28,Villanova,None,Team Rebound,79,71
+2:28,Villanova,Jermaine Samuels,Free Throw,80,71
+2:13,Creighton,Martin Krampelj,Layup,80,73
+1:45,Villanova,Eric Paschall,Dunk,82,73
+1:38,Creighton,Davion Mintz,Turnover,82,73
+1:38,Villanova,Eric Paschall,Steal,82,73
+1:32,Villanova,Eric Paschall,Layup,84,73
+1:32,Creighton,Mitch Ballock,Foul,84,73
+1:32,Villanova,Eric Paschall,Free Throw,85,73
+1:25,Creighton,Martin Krampelj,Dunk,85,75
+1:12,Creighton,Martin Krampelj,Foul,85,75
+1:12,Villanova,Jermaine Samuels,Free Throw,86,75
+1:12,Villanova,Jermaine Samuels,Free Throw,87,75
+1:06,Creighton,Ty-Shon Alexander,Three Point Jumper,87,78
+0:36,Villanova,None,None,87,78
+0:35,Villanova,Jermaine Samuels,Layup,89,78
+0:35,Creighton,Marcus Zegarowski,Foul,89,78
+0:35,Villanova,Jermaine Samuels,Free Throw,90,78
+0:33,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,90,78
+0:33,Villanova,Cole Swider,Defensive Rebound,90,78
+0:00,Creighton,None,None,90,78

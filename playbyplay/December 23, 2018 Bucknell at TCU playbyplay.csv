@@ -1,0 +1,320 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,TCU,None,None,0,0
+19:36,TCU,Jaylen Fisher,Three Point Jumper,0,3
+19:27,Bucknell,Nate Sestina,Three Point Jumper,3,3
+19:11,TCU,Jaylen Fisher,Missed Three Point Jumper,3,3
+19:11,Bucknell,Jimmy Sotos,Defensive Rebound,3,3
+18:47,TCU,Jaylen Fisher,Foul,3,3
+18:47,Bucknell,Kimbal Mackenzie,Missed Free Throw,3,3
+18:47,Bucknell,None,Team Rebound,3,3
+18:47,Bucknell,Kimbal Mackenzie,Free Throw,4,3
+18:47,Bucknell,Kimbal Mackenzie,Free Throw,5,3
+18:36,TCU,Kevin Samuel,Missed Jumper,5,3
+18:36,Bucknell,Nate Sestina,Defensive Rebound,5,3
+18:32,Bucknell,Nate Sestina,Turnover,5,3
+18:32,TCU,Alex Robinson,Steal,5,3
+18:24,TCU,Alex Robinson,Missed Three Point Jumper,5,3
+18:24,Bucknell,Avi Toomer,Defensive Rebound,5,3
+18:11,Bucknell,Bruce Moore,Jumper,7,3
+17:48,Bucknell,Avi Toomer,Foul,7,3
+17:47,TCU,Alex Robinson,Turnover,7,3
+17:47,Bucknell,Jimmy Sotos,Steal,7,3
+17:44,TCU,Jaylen Fisher,Foul,7,3
+17:44,Bucknell,Kimbal Mackenzie,Free Throw,8,3
+17:44,Bucknell,Kimbal Mackenzie,Free Throw,9,3
+17:37,TCU,Kouat Noi,Three Point Jumper,9,6
+17:21,Bucknell,Nate Sestina,Missed Dunk,9,6
+17:21,TCU,JD Miller,Defensive Rebound,9,6
+17:05,TCU,Kouat Noi,Missed Three Point Jumper,9,6
+17:05,Bucknell,Jimmy Sotos,Defensive Rebound,9,6
+16:57,Bucknell,Jimmy Sotos,Missed Three Point Jumper,9,6
+16:57,TCU,Kouat Noi,Defensive Rebound,9,6
+16:42,Bucknell,Nate Sestina,Foul,9,6
+16:42,TCU,JD Miller,Free Throw,9,7
+16:42,TCU,JD Miller,Free Throw,9,8
+16:22,Bucknell,Jimmy Sotos,Layup,11,8
+16:02,TCU,Alex Robinson,Missed Three Point Jumper,11,8
+16:02,TCU,None,Team Rebound,11,8
+15:59,Bucknell,Nate Jones,Foul,11,8
+15:59,TCU,None,None,11,8
+15:46,Bucknell,Paul Newman,Foul,11,8
+15:46,TCU,Kouat Noi,Free Throw,11,9
+15:46,TCU,Kouat Noi,Free Throw,11,10
+15:22,Bucknell,Kimbal Mackenzie,Missed Layup,11,10
+15:22,TCU,Kouat Noi,Defensive Rebound,11,10
+15:15,TCU,Kouat Noi,Missed Three Point Jumper,11,10
+15:15,Bucknell,Kimbal Mackenzie,Defensive Rebound,11,10
+14:42,Bucknell,Nate Jones,Three Point Jumper,14,10
+14:30,TCU,Kouat Noi,Missed Three Point Jumper,14,10
+14:30,Bucknell,Bruce Moore,Defensive Rebound,14,10
+14:14,Bucknell,Paul Newman,Turnover,14,10
+14:14,TCU,Kouat Noi,Steal,14,10
+14:06,TCU,RJ Nembhard,Layup,14,12
+13:45,Bucknell,Bruce Moore,Turnover,14,12
+13:33,TCU,Desmond Bane,Three Point Jumper,14,15
+13:18,TCU,Kouat Noi,Foul,14,15
+13:04,Bucknell,Avi Toomer,Missed Three Point Jumper,14,15
+13:04,TCU,RJ Nembhard,Defensive Rebound,14,15
+12:31,TCU,Kevin Samuel,Layup,14,17
+12:25,Bucknell,Jimmy Sotos,Turnover,14,17
+12:25,TCU,Alex Robinson,Steal,14,17
+12:21,TCU,Alex Robinson,Layup,14,19
+12:18,Bucknell,None,None,14,19
+12:00,Bucknell,John Meeks,Turnover,14,19
+11:51,TCU,Alex Robinson,Layup,14,21
+11:32,TCU,Kevin Samuel,Foul,14,21
+11:32,Bucknell,Avi Toomer,Free Throw,15,21
+11:32,Bucknell,Avi Toomer,Free Throw,16,21
+11:22,TCU,Kouat Noi,Three Point Jumper,16,24
+10:59,Bucknell,Nate Sestina,Turnover,16,24
+10:59,TCU,RJ Nembhard,Steal,16,24
+10:57,Bucknell,Walter Ellis,Foul,16,24
+10:32,TCU,JD Miller,Missed Layup,16,24
+10:32,Bucknell,Jimmy Sotos,Defensive Rebound,16,24
+10:32,TCU,Kaden Archie,Foul,16,24
+10:26,Bucknell,Kimbal Mackenzie,Three Point Jumper,19,24
+10:09,TCU,JD Miller,Turnover,19,24
+10:09,Bucknell,Bruce Moore,Steal,19,24
+10:01,Bucknell,Nate Sestina,Missed Dunk,19,24
+10:01,TCU,RJ Nembhard,Defensive Rebound,19,24
+9:56,TCU,RJ Nembhard,Foul,19,24
+9:56,TCU,RJ Nembhard,Turnover,19,24
+9:45,TCU,JD Miller,Foul,19,24
+9:45,Bucknell,Nate Sestina,Free Throw,20,24
+9:45,Bucknell,Nate Sestina,Free Throw,21,24
+9:34,TCU,Alex Robinson,Jumper,21,26
+9:08,Bucknell,Ben Robertson,Layup,23,26
+8:51,TCU,Desmond Bane,Missed Three Point Jumper,23,26
+8:51,Bucknell,Ben Robertson,Defensive Rebound,23,26
+8:20,Bucknell,Kimbal Mackenzie,Layup,25,26
+7:54,TCU,Desmond Bane,Missed Three Point Jumper,25,26
+7:54,Bucknell,Avi Toomer,Defensive Rebound,25,26
+7:45,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,25,26
+7:45,TCU,Kevin Samuel,Defensive Rebound,25,26
+7:41,Bucknell,Kimbal Mackenzie,Foul,25,26
+7:41,TCU,None,None,25,26
+7:17,Bucknell,Paul Newman,Foul,25,26
+7:17,TCU,Jaylen Fisher,Free Throw,25,27
+7:17,TCU,Jaylen Fisher,Free Throw,25,28
+7:10,Bucknell,Jimmy Sotos,Missed Layup,25,28
+7:10,TCU,Desmond Bane,Defensive Rebound,25,28
+7:01,TCU,Kevin Samuel,Layup,25,30
+6:52,Bucknell,Nate Sestina,Turnover,25,30
+6:38,TCU,Kevin Samuel,Missed Layup,25,30
+6:38,TCU,Kevin Samuel,Offensive Rebound,25,30
+6:34,Bucknell,Avi Toomer,Foul,25,30
+6:34,TCU,Kevin Samuel,Free Throw,25,31
+6:34,TCU,Kevin Samuel,Free Throw,25,32
+6:24,Bucknell,Andrew Funk,Missed Three Point Jumper,25,32
+6:24,TCU,Desmond Bane,Defensive Rebound,25,32
+6:10,TCU,Kevin Samuel,Turnover,25,32
+5:54,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,25,32
+5:54,TCU,Desmond Bane,Defensive Rebound,25,32
+5:36,TCU,Alex Robinson,Missed Jumper,25,32
+5:36,TCU,TCU,Offensive Rebound,25,32
+5:23,TCU,Desmond Bane,Missed Jumper,25,32
+5:23,Bucknell,Bucknell,Defensive Rebound,25,32
+5:11,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,25,32
+5:11,Bucknell,Nate Sestina,Offensive Rebound,25,32
+5:07,Bucknell,Nate Sestina,Missed Layup,25,32
+5:07,Bucknell,Nate Sestina,Offensive Rebound,25,32
+5:05,TCU,Kevin Samuel,Foul,25,32
+5:05,Bucknell,Nate Sestina,Free Throw,26,32
+5:05,Bucknell,Nate Sestina,Free Throw,27,32
+4:50,TCU,Desmond Bane,Layup,27,34
+4:31,Bucknell,Nate Sestina,Three Point Jumper,30,34
+4:11,TCU,Alex Robinson,Turnover,30,34
+4:02,Bucknell,Nate Sestina,Layup,32,34
+3:58,TCU,None,None,32,34
+3:58,TCU,None,None,32,34
+3:35,TCU,JD Miller,Missed Layup,32,34
+3:35,Bucknell,Jimmy Sotos,Defensive Rebound,32,34
+3:29,Bucknell,Nate Jones,Three Point Jumper,35,34
+3:11,TCU,Desmond Bane,Missed Jumper,35,34
+3:11,Bucknell,None,Team Rebound,35,34
+3:07,Bucknell,Kimbal Mackenzie,Foul,35,34
+3:07,TCU,Kaden Archie,Missed Free Throw,35,34
+3:07,Bucknell,Bruce Moore,Defensive Rebound,35,34
+2:52,Bucknell,Bruce Moore,Jumper,37,34
+2:26,Bucknell,Bruce Moore,Foul,37,34
+2:26,TCU,Kouat Noi,Free Throw,37,35
+2:26,TCU,Kouat Noi,Free Throw,37,36
+2:18,Bucknell,Nate Sestina,Missed Three Point Jumper,37,36
+2:18,TCU,Desmond Bane,Defensive Rebound,37,36
+1:58,TCU,JD Miller,Dunk,37,38
+1:46,TCU,Kaden Archie,Foul,37,38
+1:46,Bucknell,Kimbal Mackenzie,Free Throw,38,38
+1:46,Bucknell,Kimbal Mackenzie,Free Throw,39,38
+1:27,TCU,JD Miller,Layup,39,40
+1:10,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,39,40
+1:10,Bucknell,Nate Sestina,Offensive Rebound,39,40
+1:10,Bucknell,None,None,41,40
+0:51,TCU,JD Miller,Dunk,41,42
+0:24,Bucknell,Bruce Moore,Turnover,41,42
+0:24,TCU,Kouat Noi,Steal,41,42
+0:18,TCU,Alex Robinson,Jumper,41,44
+0:04,Bucknell,Jimmy Sotos,Missed Three Point Jumper,41,44
+0:03,Bucknell,Bucknell,Offensive Rebound,41,44
+0:00,TCU,None,None,41,44
+20:00,Bucknell,None,None,41,44
+19:44,Bucknell,Nate Sestina,Turnover,41,44
+19:34,TCU,Desmond Bane,Three Point Jumper,41,47
+19:25,Bucknell,Nate Sestina,Missed Three Point Jumper,41,47
+19:25,TCU,Desmond Bane,Defensive Rebound,41,47
+19:09,TCU,Kevin Samuel,Layup,41,49
+18:40,Bucknell,Bruce Moore,Missed Three Point Jumper,41,49
+18:40,TCU,Alex Robinson,Defensive Rebound,41,49
+18:19,TCU,Jaylen Fisher,Three Point Jumper,41,52
+18:14,Bucknell,None,None,41,52
+17:54,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,41,52
+17:54,TCU,JD Miller,Defensive Rebound,41,52
+17:43,TCU,JD Miller,Missed Three Point Jumper,41,52
+17:43,TCU,Jaylen Fisher,Offensive Rebound,41,52
+17:15,TCU,Jaylen Fisher,Missed Three Point Jumper,41,52
+17:15,Bucknell,Nate Sestina,Defensive Rebound,41,52
+17:02,TCU,Alex Robinson,Foul,41,52
+17:02,Bucknell,Avi Toomer,Missed Free Throw,41,52
+17:02,Bucknell,None,Team Rebound,41,52
+17:02,Bucknell,Avi Toomer,Free Throw,42,52
+16:53,TCU,Alex Robinson,Missed Layup,42,52
+16:53,TCU,Kevin Samuel,Offensive Rebound,42,52
+16:53,TCU,None,None,42,54
+16:45,Bucknell,Jimmy Sotos,Missed Jumper,42,54
+16:39,TCU,Kevin Samuel,Defensive Rebound,42,54
+16:32,TCU,Desmond Bane,Layup,42,56
+16:12,Bucknell,Bruce Moore,Missed Three Point Jumper,42,56
+16:12,TCU,Kevin Samuel,Defensive Rebound,42,56
+16:00,Bucknell,Jimmy Sotos,Foul,42,56
+16:00,TCU,None,None,42,56
+16:00,TCU,Alex Robinson,Free Throw,42,57
+16:00,TCU,Alex Robinson,Missed Free Throw,42,57
+16:00,Bucknell,Bruce Moore,Defensive Rebound,42,57
+15:31,Bucknell,Jimmy Sotos,Turnover,42,57
+15:24,TCU,Alex Robinson,Missed Layup,42,57
+15:24,TCU,Kevin Samuel,Offensive Rebound,42,57
+15:24,TCU,None,None,42,59
+15:11,Bucknell,Kimbal Mackenzie,Missed Jumper,42,59
+15:11,TCU,JD Miller,Defensive Rebound,42,59
+14:42,TCU,JD Miller,Missed Three Point Jumper,42,59
+14:42,Bucknell,Nate Sestina,Defensive Rebound,42,59
+14:31,Bucknell,Bruce Moore,Missed Layup,42,59
+14:31,Bucknell,Bruce Moore,Offensive Rebound,42,59
+14:31,Bucknell,None,None,44,59
+14:19,TCU,None,None,44,59
+14:07,TCU,Kouat Noi,Missed Three Point Jumper,44,59
+14:07,TCU,Jaylen Fisher,Offensive Rebound,44,59
+14:02,TCU,Kouat Noi,Missed Three Point Jumper,44,59
+14:02,Bucknell,Jimmy Sotos,Defensive Rebound,44,59
+13:56,Bucknell,Jimmy Sotos,Turnover,44,59
+13:48,TCU,Kaden Archie,Missed Dunk,44,59
+13:48,TCU,Alex Robinson,Offensive Rebound,44,59
+13:44,TCU,Jaylen Fisher,Missed Three Point Jumper,44,59
+13:44,TCU,Kevin Samuel,Offensive Rebound,44,59
+13:28,TCU,Kevin Samuel,Layup,44,61
+13:06,Bucknell,Kimbal Mackenzie,Layup,46,61
+12:55,TCU,Kaden Archie,Missed Three Point Jumper,46,61
+12:55,TCU,Kevin Samuel,Offensive Rebound,46,61
+12:49,TCU,Kevin Samuel,Missed Layup,46,61
+12:49,Bucknell,Paul Newman,Defensive Rebound,46,61
+12:34,Bucknell,Nate Jones,Three Point Jumper,49,61
+12:24,Bucknell,Avi Toomer,Foul,49,61
+12:20,TCU,Desmond Bane,Missed Jumper,49,61
+12:20,TCU,JD Miller,Offensive Rebound,49,61
+12:07,TCU,Alex Robinson,Turnover,49,61
+11:49,Bucknell,Nate Jones,Three Point Jumper,52,61
+11:21,Bucknell,Paul Newman,Foul,52,61
+11:21,TCU,None,None,52,61
+11:21,TCU,JD Miller,Free Throw,52,62
+11:21,TCU,JD Miller,Free Throw,52,63
+11:08,Bucknell,Kimbal Mackenzie,Layup,54,63
+11:08,TCU,JD Miller,Foul,54,63
+11:08,Bucknell,Kimbal Mackenzie,Free Throw,55,63
+10:58,TCU,Kouat Noi,Turnover,55,63
+10:47,Bucknell,Kimbal Mackenzie,Missed Layup,55,63
+10:47,TCU,Kouat Noi,Defensive Rebound,55,63
+10:43,TCU,Jaylen Fisher,Three Point Jumper,55,66
+10:25,Bucknell,Paul Newman,Missed Layup,55,66
+10:25,Bucknell,Paul Newman,Offensive Rebound,55,66
+10:25,TCU,Kouat Noi,Foul,55,66
+10:25,Bucknell,Paul Newman,Free Throw,56,66
+10:25,Bucknell,Paul Newman,Missed Free Throw,56,66
+10:25,TCU,Kevin Samuel,Defensive Rebound,56,66
+10:11,Bucknell,Avi Toomer,Foul,56,66
+10:09,TCU,Jaylen Fisher,Missed Three Point Jumper,56,66
+10:09,Bucknell,Jimmy Sotos,Defensive Rebound,56,66
+9:45,Bucknell,Nate Sestina,Missed Layup,56,66
+9:45,TCU,Jaylen Fisher,Defensive Rebound,56,66
+9:26,TCU,Alex Robinson,Turnover,56,66
+9:17,Bucknell,Jimmy Sotos,Layup,58,66
+9:03,TCU,Jaylen Fisher,Missed Three Point Jumper,58,66
+9:03,Bucknell,Nate Sestina,Defensive Rebound,58,66
+8:58,Bucknell,Nate Sestina,Turnover,58,66
+8:58,TCU,Kendric Davis,Steal,58,66
+8:32,TCU,Desmond Bane,Missed Layup,58,66
+8:32,TCU,TCU,Offensive Rebound,58,66
+8:30,Bucknell,Jimmy Sotos,Foul,58,66
+8:05,TCU,Desmond Bane,Jumper,58,68
+7:52,TCU,Jaylen Fisher,Foul,58,68
+7:52,TCU,None,None,58,68
+7:33,TCU,Kevin Samuel,Foul,58,68
+7:19,Bucknell,Jimmy Sotos,Missed Three Point Jumper,58,68
+7:19,TCU,RJ Nembhard,Defensive Rebound,58,68
+6:57,TCU,Desmond Bane,Missed Three Point Jumper,58,68
+6:57,TCU,JD Miller,Offensive Rebound,58,68
+6:50,Bucknell,Nate Sestina,Foul,58,68
+6:50,TCU,JD Miller,Free Throw,58,69
+6:50,TCU,JD Miller,Free Throw,58,70
+6:29,Bucknell,Nate Sestina,Turnover,58,70
+6:18,TCU,Jaylen Fisher,Three Point Jumper,58,73
+5:54,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,58,73
+5:54,TCU,Desmond Bane,Defensive Rebound,58,73
+5:43,TCU,Desmond Bane,Layup,58,75
+5:33,Bucknell,Avi Toomer,Missed Three Point Jumper,58,75
+5:33,TCU,Kouat Noi,Defensive Rebound,58,75
+5:23,TCU,Jaylen Fisher,Missed Three Point Jumper,58,75
+5:23,Bucknell,None,Team Rebound,58,75
+5:18,TCU,JD Miller,Foul,58,75
+5:06,Bucknell,Jimmy Sotos,Missed Three Point Jumper,58,75
+5:06,TCU,Kouat Noi,Defensive Rebound,58,75
+4:35,TCU,JD Miller,Missed Layup,58,75
+4:35,Bucknell,Nate Sestina,Defensive Rebound,58,75
+4:28,Bucknell,Kimbal Mackenzie,Missed Layup,58,75
+4:28,Bucknell,Nate Sestina,Offensive Rebound,58,75
+4:21,Bucknell,Nate Sestina,Missed Dunk,58,75
+4:21,Bucknell,Paul Newman,Offensive Rebound,58,75
+4:21,Bucknell,Paul Newman,Turnover,58,75
+4:21,TCU,Jaylen Fisher,Steal,58,75
+4:21,Bucknell,Paul Newman,Foul,58,75
+4:21,TCU,Jaylen Fisher,Missed Free Throw,58,75
+4:21,Bucknell,Paul Newman,Defensive Rebound,58,75
+4:02,TCU,JD Miller,Foul,58,75
+4:02,Bucknell,Avi Toomer,Free Throw,59,75
+4:02,Bucknell,Avi Toomer,Free Throw,60,75
+3:35,TCU,Alex Robinson,Missed Layup,60,75
+3:35,TCU,Desmond Bane,Offensive Rebound,60,75
+3:30,TCU,Desmond Bane,Layup,60,77
+3:25,Bucknell,Bruce Moore,Dunk,62,77
+2:56,TCU,Kevin Samuel,Missed Jumper,62,77
+2:56,Bucknell,Nate Sestina,Defensive Rebound,62,77
+2:52,Bucknell,Avi Toomer,Three Point Jumper,65,77
+2:35,TCU,None,None,65,77
+2:35,TCU,None,None,65,77
+2:18,TCU,JD Miller,Turnover,65,77
+2:05,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,65,77
+2:05,TCU,JD Miller,Defensive Rebound,65,77
+1:30,TCU,Alex Robinson,Missed Layup,65,77
+1:30,Bucknell,Nate Sestina,Defensive Rebound,65,77
+1:25,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,65,77
+1:25,TCU,Kouat Noi,Defensive Rebound,65,77
+1:02,TCU,Kouat Noi,Three Point Jumper,65,80
+0:40,Bucknell,Kimbal Mackenzie,Missed Layup,65,80
+0:40,TCU,Kouat Noi,Defensive Rebound,65,80
+0:16,Bucknell,Avi Toomer,Foul,65,80
+0:16,TCU,Alex Robinson,Missed Free Throw,65,80
+0:16,TCU,None,Team Rebound,65,80
+0:16,TCU,Alex Robinson,Missed Free Throw,65,80
+0:16,Bucknell,Ben Robertson,Defensive Rebound,65,80
+0:16,Bucknell,Ben Robertson,Turnover,65,80
+0:16,TCU,Alex Robinson,Steal,65,80
+0:10,TCU,Alex Robinson,Layup,65,82
+0:00,TCU,None,None,65,82

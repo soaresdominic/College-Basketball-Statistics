@@ -1,0 +1,402 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,UMBC,Sam Schwietz,Jumper,0,2
+19:16,Hartford,Jason Dunne,Missed Three Point Jumper,0,2
+19:12,UMBC,Sam Schwietz,Defensive Rebound,0,2
+18:57,Hartford,Travis Weatherington,Foul,0,2
+18:57,UMBC,Sam Schwietz,Free Throw,0,3
+18:57,UMBC,Sam Schwietz,Missed Free Throw,0,3
+18:57,Hartford,John Carroll,Defensive Rebound,0,3
+18:34,Hartford,George Blagojevic,Missed Jumper,0,3
+18:31,UMBC,Arkel Lamar,Defensive Rebound,0,3
+18:23,UMBC,K.J. Jackson,Jumper,0,5
+17:48,Hartford,John Carroll,Missed Jumper,0,5
+17:46,UMBC,Sam Schwietz,Defensive Rebound,0,5
+17:42,UMBC,Joe Sherburne,Three Point Jumper,0,8
+17:42,Hartford,None,None,0,8
+17:28,Hartford,J.R. Lynch,Jumper,2,8
+16:54,Hartford,Jason Dunne,Foul,2,8
+16:47,UMBC,Joe Sherburne,Missed Jumper,2,8
+16:42,Hartford,John Carroll,Defensive Rebound,2,8
+16:29,Hartford,Travis Weatherington,Three Point Jumper,5,8
+16:11,UMBC,K.J. Jackson,Turnover,5,8
+16:11,Hartford,John Carroll,Steal,5,8
+15:43,Hartford,George Blagojevic,Missed Layup,5,8
+15:41,UMBC,Arkel Lamar,Defensive Rebound,5,8
+15:32,UMBC,Arkel Lamar,Three Point Jumper,5,11
+15:09,Hartford,Travis Weatherington,Missed Three Point Jumper,5,11
+15:07,UMBC,R.J. Eytle-Rock,Defensive Rebound,5,11
+14:56,UMBC,Joe Sherburne,Missed Three Point Jumper,5,11
+14:53,Hartford,J.R. Lynch,Defensive Rebound,5,11
+14:44,UMBC,None,None,5,11
+14:30,Hartford,John Carroll,Missed Jumper,5,11
+14:27,UMBC,Brandon Horvath,Defensive Rebound,5,11
+14:16,UMBC,Brandon Horvath,Layup,5,13
+13:56,Hartford,John Carroll,Turnover,5,13
+13:56,UMBC,Joe Sherburne,Steal,5,13
+13:51,UMBC,Arkel Lamar,Layup,5,15
+13:30,Hartford,Jason Dunne,Turnover,5,15
+13:30,UMBC,Joe Sherburne,Steal,5,15
+13:23,UMBC,K.J. Jackson,Missed Layup,5,15
+13:16,UMBC,Joe Sherburne,Offensive Rebound,5,15
+13:16,UMBC,Joe Sherburne,Layup,5,17
+12:52,Hartford,J.R. Lynch,Missed Three Point Jumper,5,17
+12:49,UMBC,Brandon Horvath,Defensive Rebound,5,17
+12:34,Hartford,J.R. Lynch,Foul,5,17
+12:14,UMBC,K.J. Jackson,Jumper,5,19
+11:58,UMBC,Brandon Horvath,Foul,5,19
+11:58,UMBC,None,None,5,19
+11:58,Hartford,George Blagojevic,Missed Free Throw,5,19
+11:58,Hartford,None,Team Rebound,5,19
+11:58,Hartford,George Blagojevic,Free Throw,6,19
+11:42,UMBC,K.J. Jackson,Missed Three Point Jumper,6,19
+11:39,UMBC,Joe Sherburne,Offensive Rebound,6,19
+11:38,UMBC,Brandon Horvath,Missed Layup,6,19
+11:38,Hartford,George Blagojevic,Block,6,19
+11:34,UMBC,Brandon Horvath,Offensive Rebound,6,19
+11:27,UMBC,K.J. Jackson,Missed Jumper,6,19
+11:24,UMBC,K.J. Jackson,Offensive Rebound,6,19
+11:20,UMBC,Joe Sherburne,Missed Jumper,6,19
+11:15,UMBC,Brandon Horvath,Offensive Rebound,6,19
+11:15,UMBC,Brandon Horvath,Layup,6,21
+10:48,Hartford,Travis Weatherington,Three Point Jumper,9,21
+10:21,UMBC,Ricky Council II,Missed Three Point Jumper,9,21
+10:17,Hartford,John Carroll,Defensive Rebound,9,21
+10:17,UMBC,Brandon Horvath,Foul,9,21
+10:06,Hartford,Travis Weatherington,Turnover,9,21
+10:06,UMBC,K.J. Jackson,Steal,9,21
+9:54,UMBC,Ricky Council II,Foul,9,21
+9:54,UMBC,Ricky Council II,Turnover,9,21
+9:35,Hartford,John Carroll,Turnover,9,21
+9:35,UMBC,R.J. Eytle-Rock,Steal,9,21
+9:28,UMBC,R.J. Eytle-Rock,Layup,9,23
+9:02,Hartford,John Carroll,Missed Three Point Jumper,9,23
+8:59,UMBC,Ricky Council II,Defensive Rebound,9,23
+8:52,UMBC,K.J. Jackson,Turnover,9,23
+8:52,Hartford,George Blagojevic,Steal,9,23
+8:38,UMBC,Sam Schwietz,Foul,9,23
+8:32,Hartford,J.R. Lynch,Missed Three Point Jumper,9,23
+8:27,Hartford,George Blagojevic,Offensive Rebound,9,23
+8:23,Hartford,Jason Dunne,Missed Layup,9,23
+8:20,Hartford,Travis Weatherington,Offensive Rebound,9,23
+8:16,UMBC,Sam Schwietz,Foul,9,23
+8:09,Hartford,Jason Dunne,Turnover,9,23
+8:09,UMBC,Nolan Gerrity,Steal,9,23
+7:43,UMBC,Arkel Lamar,Missed Three Point Jumper,9,23
+7:41,Hartford,Romain Boxus,Defensive Rebound,9,23
+7:36,UMBC,None,None,9,23
+7:30,Hartford,J.R. Lynch,Missed Layup,9,23
+7:27,UMBC,Joe Sherburne,Defensive Rebound,9,23
+7:06,UMBC,Nolan Gerrity,Layup,9,25
+6:42,Hartford,George Blagojevic,Turnover,9,25
+6:25,UMBC,Jose Placer,Jumper,9,27
+5:56,Hartford,Max Twyman,Turnover,9,27
+5:56,UMBC,Arkel Lamar,Steal,9,27
+5:36,Hartford,John Carroll,Foul,9,27
+5:36,UMBC,Nolan Gerrity,Missed Free Throw,9,27
+5:36,UMBC,None,Team Rebound,9,27
+5:36,UMBC,Nolan Gerrity,Free Throw,9,28
+5:21,Hartford,Jason Dunne,Turnover,9,28
+5:21,UMBC,R.J. Eytle-Rock,Steal,9,28
+5:16,UMBC,R.J. Eytle-Rock,Missed Layup,9,28
+5:13,Hartford,Jason Dunne,Defensive Rebound,9,28
+5:03,Hartford,Jason Dunne,Layup,11,28
+4:33,UMBC,Joe Sherburne,Missed Jumper,11,28
+4:31,UMBC,Nolan Gerrity,Offensive Rebound,11,28
+4:31,Hartford,Max Twyman,Foul,11,28
+4:10,UMBC,Jose Placer,Jumper,11,30
+3:52,UMBC,Nolan Gerrity,Foul,11,30
+3:52,UMBC,None,None,11,30
+3:52,Hartford,John Carroll,Free Throw,12,30
+3:52,Hartford,John Carroll,Free Throw,13,30
+3:37,UMBC,Arkel Lamar,Layup,13,32
+3:37,Hartford,George Blagojevic,Foul,13,32
+3:37,UMBC,Arkel Lamar,Free Throw,13,33
+3:10,Hartford,Travis Weatherington,Jumper,15,33
+2:46,UMBC,Josh Rosario,Turnover,15,33
+2:19,Hartford,John Carroll,Jumper,17,33
+1:58,UMBC,K.J. Jackson,Turnover,17,33
+1:58,Hartford,John Carroll,Steal,17,33
+1:53,Hartford,D.J. Mitchell,Missed Layup,17,33
+1:53,UMBC,Arkel Lamar,Block,17,33
+1:49,UMBC,Joe Sherburne,Defensive Rebound,17,33
+1:39,Hartford,D.J. Mitchell,Foul,17,33
+1:39,UMBC,Josh Rosario,Free Throw,17,34
+1:39,UMBC,Josh Rosario,Free Throw,17,35
+1:15,Hartford,J.R. Lynch,Missed Three Point Jumper,17,35
+1:12,Hartford,John Carroll,Offensive Rebound,17,35
+1:10,Hartford,Jason Dunne,Missed Three Point Jumper,17,35
+1:08,UMBC,Joe Sherburne,Defensive Rebound,17,35
+0:55,UMBC,Joe Sherburne,Layup,17,37
+0:42,UMBC,Josh Rosario,Foul,17,37
+0:42,Hartford,J.R. Lynch,Free Throw,18,37
+0:42,Hartford,J.R. Lynch,Missed Free Throw,18,37
+0:42,UMBC,Joe Sherburne,Defensive Rebound,18,37
+0:33,UMBC,Joe Sherburne,Missed Three Point Jumper,18,37
+0:30,Hartford,Travis Weatherington,Defensive Rebound,18,37
+0:04,Hartford,J.R. Lynch,Missed Three Point Jumper,18,37
+0:01,UMBC,Arkel Lamar,Defensive Rebound,18,37
+0:00,UMBC,None,None,18,37
+19:39,Hartford,John Carroll,Missed Three Point Jumper,18,37
+19:36,UMBC,Joe Sherburne,Defensive Rebound,18,37
+19:12,UMBC,Arkel Lamar,Layup,18,39
+18:49,Hartford,Jason Dunne,Missed Three Point Jumper,18,39
+18:47,Hartford,John Carroll,Offensive Rebound,18,39
+18:46,UMBC,K.J. Jackson,Foul,18,39
+18:35,Hartford,J.R. Lynch,Layup,20,39
+18:08,UMBC,R.J. Eytle-Rock,Three Point Jumper,20,42
+17:39,UMBC,Arkel Lamar,Foul,20,42
+17:39,Hartford,George Blagojevic,Free Throw,21,42
+17:39,Hartford,George Blagojevic,Missed Free Throw,21,42
+17:39,UMBC,Joe Sherburne,Defensive Rebound,21,42
+17:22,UMBC,Sam Schwietz,Layup,21,44
+17:14,Hartford,J.R. Lynch,Missed Layup,21,44
+17:14,UMBC,Sam Schwietz,Block,21,44
+17:13,UMBC,R.J. Eytle-Rock,Defensive Rebound,21,44
+17:00,UMBC,R.J. Eytle-Rock,Foul,21,44
+17:00,UMBC,R.J. Eytle-Rock,Turnover,21,44
+16:42,Hartford,Jason Dunne,Missed Layup,21,44
+16:39,UMBC,Arkel Lamar,Defensive Rebound,21,44
+16:17,UMBC,K.J. Jackson,Three Point Jumper,21,47
+16:06,Hartford,J.R. Lynch,Turnover,21,47
+16:06,UMBC,K.J. Jackson,Steal,21,47
+15:57,UMBC,Arkel Lamar,Missed Three Point Jumper,21,47
+15:54,Hartford,J.R. Lynch,Defensive Rebound,21,47
+15:48,UMBC,None,None,21,47
+15:36,Hartford,Travis Weatherington,Missed Jumper,21,47
+15:35,Hartford,George Blagojevic,Offensive Rebound,21,47
+15:35,UMBC,Arkel Lamar,Foul,21,47
+15:33,Hartford,J.R. Lynch,Three Point Jumper,24,47
+15:16,UMBC,R.J. Eytle-Rock,Three Point Jumper,24,50
+15:08,Hartford,Travis Weatherington,Three Point Jumper,27,50
+14:45,UMBC,K.J. Jackson,Turnover,27,50
+14:45,Hartford,John Carroll,Steal,27,50
+14:40,Hartford,J.R. Lynch,Missed Layup,27,50
+14:37,UMBC,Arkel Lamar,Defensive Rebound,27,50
+14:21,UMBC,K.J. Jackson,Missed Three Point Jumper,27,50
+14:18,Hartford,J.R. Lynch,Defensive Rebound,27,50
+13:44,UMBC,Brandon Horvath,Dunk,29,52
+13:28,UMBC,R.J. Eytle-Rock,Foul,29,52
+13:28,Hartford,Jason Dunne,Free Throw,30,52
+13:28,Hartford,Jason Dunne,Missed Free Throw,30,52
+13:28,Hartford,None,Team Rebound,30,52
+13:28,Hartford,Jason Dunne,Free Throw,31,52
+13:15,UMBC,Brandon Horvath,Dunk,31,54
+12:47,Hartford,Travis Weatherington,Missed Three Point Jumper,31,54
+12:45,UMBC,R.J. Eytle-Rock,Defensive Rebound,31,54
+12:38,UMBC,Ricky Council II,Missed Three Point Jumper,31,54
+12:35,Hartford,Jason Dunne,Defensive Rebound,31,54
+12:30,Hartford,Jason Dunne,Missed Jumper,31,54
+12:28,UMBC,Ricky Council II,Defensive Rebound,31,54
+12:08,Hartford,Jason Dunne,Foul,31,54
+12:08,UMBC,Brandon Horvath,Missed Free Throw,31,54
+12:08,UMBC,None,Team Rebound,31,54
+12:08,UMBC,Brandon Horvath,Missed Free Throw,31,54
+12:08,Hartford,Travis Weatherington,Defensive Rebound,31,54
+11:41,Hartford,John Carroll,Jumper,33,54
+11:19,UMBC,R.J. Eytle-Rock,Missed Three Point Jumper,33,54
+11:17,Hartford,John Carroll,Defensive Rebound,33,54
+11:08,Hartford,Travis Weatherington,Three Point Jumper,36,54
+10:42,UMBC,Jose Placer,Missed Jumper,36,54
+10:39,Hartford,D.J. Mitchell,Defensive Rebound,36,54
+10:31,UMBC,R.J. Eytle-Rock,Foul,36,54
+10:31,UMBC,None,None,36,54
+10:31,Hartford,Travis Weatherington,Free Throw,37,54
+10:31,Hartford,Travis Weatherington,Free Throw,38,54
+10:17,UMBC,K.J. Jackson,Missed Three Point Jumper,38,54
+10:14,Hartford,George Blagojevic,Defensive Rebound,38,54
+10:03,Hartford,J.R. Lynch,Missed Three Point Jumper,38,54
+9:59,UMBC,K.J. Jackson,Defensive Rebound,38,54
+9:53,UMBC,Jose Placer,Missed Three Point Jumper,38,54
+9:51,Hartford,D.J. Mitchell,Defensive Rebound,38,54
+9:48,Hartford,D.J. Mitchell,Missed Layup,38,54
+9:45,UMBC,K.J. Jackson,Defensive Rebound,38,54
+9:25,UMBC,Brandon Horvath,Missed Three Point Jumper,38,54
+9:21,Hartford,J.R. Lynch,Defensive Rebound,38,54
+9:20,UMBC,Brandon Horvath,Foul,38,54
+9:20,Hartford,John Carroll,Free Throw,39,54
+9:20,Hartford,John Carroll,Missed Free Throw,39,54
+9:19,UMBC,Joe Sherburne,Defensive Rebound,39,54
+9:11,Hartford,Travis Weatherington,Foul,39,54
+9:07,UMBC,K.J. Jackson,Turnover,39,54
+8:57,Hartford,Travis Weatherington,Missed Three Point Jumper,39,54
+8:52,UMBC,K.J. Jackson,Defensive Rebound,39,54
+8:31,UMBC,K.J. Jackson,Missed Three Point Jumper,39,54
+8:28,Hartford,Travis Weatherington,Defensive Rebound,39,54
+8:15,UMBC,Arkel Lamar,Foul,39,54
+8:15,Hartford,Travis Weatherington,Free Throw,40,54
+8:15,Hartford,Travis Weatherington,Free Throw,41,54
+8:15,UMBC,None,None,41,54
+8:15,UMBC,None,None,41,54
+8:03,Hartford,D.J. Mitchell,Foul,41,54
+8:03,UMBC,K.J. Jackson,Free Throw,41,55
+8:03,UMBC,K.J. Jackson,Free Throw,41,56
+7:51,Hartford,Travis Weatherington,Missed Three Point Jumper,41,56
+7:48,UMBC,K.J. Jackson,Defensive Rebound,41,56
+7:31,Hartford,Jason Dunne,Foul,41,56
+7:31,UMBC,None,None,41,56
+7:18,UMBC,Josh Rosario,Missed Three Point Jumper,41,56
+7:15,Hartford,Travis Weatherington,Defensive Rebound,41,56
+7:08,Hartford,Travis Weatherington,Three Point Jumper,44,56
+6:32,UMBC,Josh Rosario,Missed Jumper,44,56
+6:32,Hartford,Jason Dunne,Block,44,56
+6:29,Hartford,Travis Weatherington,Defensive Rebound,44,56
+6:24,Hartford,J.R. Lynch,Layup,46,56
+6:22,UMBC,None,None,46,56
+6:07,UMBC,Joe Sherburne,Turnover,46,56
+6:07,Hartford,George Blagojevic,Steal,46,56
+6:01,Hartford,George Blagojevic,Layup,48,56
+6:01,UMBC,Joe Sherburne,Foul,48,56
+6:01,Hartford,George Blagojevic,Free Throw,49,56
+5:45,Hartford,Jason Dunne,Foul,49,56
+5:43,UMBC,Joe Sherburne,Missed Layup,49,56
+5:43,UMBC,R.J. Eytle-Rock,Offensive Rebound,49,56
+5:43,UMBC,R.J. Eytle-Rock,Layup,49,58
+5:42,Hartford,John Carroll,Foul,49,58
+5:42,UMBC,R.J. Eytle-Rock,Free Throw,49,59
+5:32,Hartford,George Blagojevic,Dunk,51,59
+5:08,UMBC,R.J. Eytle-Rock,Turnover,51,59
+5:08,Hartford,Jason Dunne,Steal,51,59
+5:03,Hartford,John Carroll,Layup,53,59
+4:49,UMBC,Joe Sherburne,Turnover,53,59
+4:49,Hartford,John Carroll,Steal,53,59
+4:41,Hartford,J.R. Lynch,Turnover,53,59
+4:14,UMBC,Joe Sherburne,Missed Jumper,53,59
+4:11,UMBC,Brandon Horvath,Offensive Rebound,53,59
+3:52,UMBC,K.J. Jackson,Layup,53,61
+3:42,Hartford,George Blagojevic,Layup,55,61
+3:42,Hartford,None,None,55,61
+3:42,UMBC,None,None,55,61
+3:23,UMBC,R.J. Eytle-Rock,Missed Layup,55,61
+3:19,Hartford,John Carroll,Defensive Rebound,55,61
+3:06,Hartford,Travis Weatherington,Jumper,57,61
+2:49,UMBC,K.J. Jackson,Missed Layup,57,61
+2:46,UMBC,Joe Sherburne,Offensive Rebound,57,61
+2:30,UMBC,Arkel Lamar,Missed Three Point Jumper,57,61
+2:28,Hartford,Hartford,Defensive Rebound,57,61
+2:15,Hartford,George Blagojevic,Layup,59,61
+2:01,Hartford,J.R. Lynch,Foul,59,61
+2:01,UMBC,K.J. Jackson,Free Throw,59,62
+2:01,UMBC,K.J. Jackson,Free Throw,59,63
+1:47,Hartford,Jason Dunne,Three Point Jumper,62,63
+1:30,UMBC,K.J. Jackson,Missed Layup,62,63
+1:28,UMBC,Sam Schwietz,Offensive Rebound,62,63
+1:28,Hartford,John Carroll,Foul,62,63
+1:28,UMBC,Ricky Council II,Free Throw,62,64
+1:28,UMBC,Ricky Council II,Missed Free Throw,62,64
+1:28,UMBC,None,Team Rebound,62,64
+1:14,UMBC,R.J. Eytle-Rock,Missed Layup,62,64
+1:12,UMBC,R.J. Eytle-Rock,Offensive Rebound,62,64
+1:10,UMBC,Arkel Lamar,Missed Three Point Jumper,62,64
+1:08,Hartford,John Carroll,Defensive Rebound,62,64
+1:07,UMBC,Ricky Council II,Foul,62,64
+1:07,Hartford,John Carroll,Free Throw,63,64
+1:07,Hartford,John Carroll,Missed Free Throw,63,64
+1:07,UMBC,Arkel Lamar,Defensive Rebound,63,64
+0:40,UMBC,Joe Sherburne,Three Point Jumper,63,67
+0:27,Hartford,J.R. Lynch,Missed Three Point Jumper,63,67
+0:27,Hartford,J.R. Lynch,Offensive Rebound,63,67
+0:26,UMBC,K.J. Jackson,Foul,63,67
+0:26,Hartford,J.R. Lynch,Free Throw,64,67
+0:26,Hartford,J.R. Lynch,Free Throw,65,67
+0:22,Hartford,D.J. Mitchell,Foul,65,67
+0:22,UMBC,Joe Sherburne,Missed Free Throw,65,67
+0:22,Hartford,John Carroll,Defensive Rebound,65,67
+0:16,Hartford,J.R. Lynch,Layup,67,67
+0:16,UMBC,K.J. Jackson,Foul,67,67
+0:16,UMBC,None,None,67,67
+0:16,Hartford,J.R. Lynch,Free Throw,68,67
+0:16,Hartford,None,None,68,67
+0:03,Hartford,John Carroll,Foul,68,67
+0:03,UMBC,K.J. Jackson,Missed Free Throw,68,67
+0:03,UMBC,None,Team Rebound,68,67
+0:03,UMBC,K.J. Jackson,Free Throw,68,68
+0:00,UMBC,None,None,68,68
+4:39,UMBC,Brandon Horvath,Missed Layup,68,68
+4:37,UMBC,K.J. Jackson,Offensive Rebound,68,68
+4:34,UMBC,K.J. Jackson,Layup,68,70
+4:21,UMBC,Joe Sherburne,Foul,68,70
+4:21,Hartford,George Blagojevic,Free Throw,69,70
+4:21,Hartford,George Blagojevic,Free Throw,70,70
+4:06,UMBC,Joe Sherburne,Missed Three Point Jumper,70,70
+4:04,Hartford,Hartford,Defensive Rebound,70,70
+3:44,Hartford,Jason Dunne,Missed Three Point Jumper,70,70
+3:41,UMBC,K.J. Jackson,Defensive Rebound,70,70
+3:29,UMBC,K.J. Jackson,Turnover,70,70
+3:29,Hartford,Jason Dunne,Steal,70,70
+3:24,Hartford,J.R. Lynch,Layup,72,70
+3:06,UMBC,R.J. Eytle-Rock,Layup,72,72
+2:42,Hartford,J.R. Lynch,Missed Three Point Jumper,72,72
+2:40,UMBC,R.J. Eytle-Rock,Defensive Rebound,72,72
+2:14,UMBC,Arkel Lamar,Missed Jumper,72,72
+2:09,Hartford,John Carroll,Defensive Rebound,72,72
+1:47,Hartford,Jason Dunne,Missed Three Point Jumper,72,72
+1:43,UMBC,R.J. Eytle-Rock,Defensive Rebound,72,72
+1:40,Hartford,J.R. Lynch,Foul,72,72
+1:40,UMBC,R.J. Eytle-Rock,Free Throw,72,73
+1:40,UMBC,R.J. Eytle-Rock,Free Throw,72,74
+1:16,UMBC,Arkel Lamar,Foul,72,74
+1:16,Hartford,Travis Weatherington,Free Throw,73,74
+1:16,Hartford,Travis Weatherington,Free Throw,74,74
+0:50,UMBC,R.J. Eytle-Rock,Missed Layup,74,74
+0:49,Hartford,Hartford,Defensive Rebound,74,74
+0:23,Hartford,J.R. Lynch,Missed Three Point Jumper,74,74
+0:20,UMBC,Arkel Lamar,Defensive Rebound,74,74
+0:18,UMBC,Arkel Lamar,Turnover,74,74
+0:18,Hartford,J.R. Lynch,Steal,74,74
+0:15,UMBC,K.J. Jackson,Foul,74,74
+0:15,Hartford,J.R. Lynch,Free Throw,75,74
+0:15,Hartford,J.R. Lynch,Free Throw,76,74
+0:15,Hartford,None,None,76,74
+0:08,Hartford,John Carroll,Foul,76,74
+0:08,UMBC,Brandon Horvath,Free Throw,76,75
+0:08,UMBC,Brandon Horvath,Free Throw,76,76
+0:01,Hartford,J.R. Lynch,Missed Jumper,76,76
+0:01,UMBC,None,Team Rebound,76,76
+0:00,UMBC,None,None,76,76
+4:43,UMBC,Arkel Lamar,Layup,76,78
+4:25,Hartford,J.R. Lynch,Foul,76,78
+4:25,Hartford,J.R. Lynch,Turnover,76,78
+3:58,UMBC,Joe Sherburne,Missed Layup,76,78
+3:52,UMBC,Joe Sherburne,Offensive Rebound,76,78
+3:52,UMBC,Joe Sherburne,Layup,76,80
+3:34,Hartford,Travis Weatherington,Turnover,76,80
+3:34,UMBC,Brandon Horvath,Steal,76,80
+3:30,UMBC,R.J. Eytle-Rock,Turnover,76,80
+3:30,Hartford,George Blagojevic,Steal,76,80
+3:28,UMBC,Brandon Horvath,Foul,76,80
+3:28,Hartford,George Blagojevic,Free Throw,77,80
+3:28,Hartford,George Blagojevic,Free Throw,78,80
+3:06,UMBC,K.J. Jackson,Layup,78,82
+2:42,Hartford,Jason Dunne,Three Point Jumper,81,82
+2:41,Hartford,None,None,81,82
+2:18,UMBC,K.J. Jackson,Missed Layup,81,82
+2:12,UMBC,Brandon Horvath,Offensive Rebound,81,82
+2:12,UMBC,Brandon Horvath,Layup,81,84
+1:54,Hartford,J.R. Lynch,Three Point Jumper,84,84
+1:37,Hartford,J.R. Lynch,Foul,84,84
+1:37,UMBC,K.J. Jackson,Missed Free Throw,84,84
+1:37,UMBC,None,Team Rebound,84,84
+1:37,UMBC,K.J. Jackson,Free Throw,84,85
+1:13,UMBC,Joe Sherburne,Foul,84,85
+1:13,Hartford,George Blagojevic,Free Throw,85,85
+1:13,Hartford,George Blagojevic,Missed Free Throw,85,85
+1:13,UMBC,Joe Sherburne,Defensive Rebound,85,85
+0:52,UMBC,K.J. Jackson,Missed Layup,85,85
+0:51,Hartford,Travis Weatherington,Foul,85,85
+0:51,UMBC,Brandon Horvath,Free Throw,85,86
+0:51,UMBC,Brandon Horvath,Free Throw,85,87
+0:51,UMBC,Brandon Horvath,Offensive Rebound,85,87
+0:30,Hartford,D.J. Mitchell,Missed Jumper,85,87
+0:30,UMBC,K.J. Jackson,Block,85,87
+0:24,UMBC,K.J. Jackson,Defensive Rebound,85,87
+0:24,Hartford,George Blagojevic,Foul,85,87
+0:24,UMBC,K.J. Jackson,Free Throw,85,88
+0:24,UMBC,K.J. Jackson,Free Throw,85,89
+0:12,Hartford,Jason Dunne,Missed Three Point Jumper,85,89
+0:10,UMBC,R.J. Eytle-Rock,Defensive Rebound,85,89
+0:10,Hartford,Max Twyman,Foul,85,89
+0:10,UMBC,R.J. Eytle-Rock,Missed Free Throw,85,89
+0:10,UMBC,None,Team Rebound,85,89
+0:10,UMBC,R.J. Eytle-Rock,Free Throw,85,90
+0:00,UMBC,None,None,85,90
+0:00,UMBC,None,None,85,90

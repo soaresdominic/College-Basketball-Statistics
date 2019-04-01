@@ -1,0 +1,324 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,Florida,Jalen Hudson,Layup,0,2
+19:13,La Salle,David Beatty,Three Point Jumper,3,2
+18:52,Florida,Andrew Nembhard,Missed Layup,3,2
+18:52,La Salle,David Beatty,Defensive Rebound,3,2
+18:45,Florida,Keith Stone,Foul,3,2
+18:45,La Salle,Pookie Powell,Free Throw,4,2
+18:45,La Salle,Pookie Powell,Free Throw,5,2
+18:34,Florida,Jalen Hudson,Missed Three Point Jumper,5,2
+18:34,Florida,Kevarrius Hayes,Offensive Rebound,5,2
+18:31,La Salle,David Beatty,Foul,5,2
+18:31,Florida,Kevarrius Hayes,Missed Free Throw,5,2
+18:31,Florida,None,Team Rebound,5,2
+18:31,Florida,Kevarrius Hayes,Free Throw,5,3
+18:18,La Salle,Traci Carter,Missed Three Point Jumper,5,3
+18:18,La Salle,La Salle,Offensive Rebound,5,3
+18:02,Florida,Kevarrius Hayes,Foul,5,3
+18:02,La Salle,Jared Kimbrough,Missed Free Throw,5,3
+18:02,La Salle,None,Team Rebound,5,3
+18:02,La Salle,Jared Kimbrough,Missed Free Throw,5,3
+18:02,Florida,Jalen Hudson,Defensive Rebound,5,3
+17:53,Florida,Jalen Hudson,Jumper,5,5
+17:36,La Salle,Traci Carter,Missed Three Point Jumper,5,5
+17:36,La Salle,Jared Kimbrough,Offensive Rebound,5,5
+17:28,La Salle,None,None,5,5
+17:28,Florida,Andrew Nembhard,Defensive Rebound,5,5
+17:21,Florida,Kevarrius Hayes,Layup,5,7
+16:54,La Salle,Pookie Powell,Turnover,5,7
+16:51,Florida,KeVaughn Allen,Steal,5,7
+16:46,Florida,KeVaughn Allen,Turnover,5,7
+16:45,La Salle,Traci Carter,Steal,5,7
+16:24,Florida,KeVaughn Allen,Foul,5,7
+16:24,La Salle,Jared Kimbrough,Missed Free Throw,5,7
+16:24,La Salle,None,Team Rebound,5,7
+16:24,La Salle,Jared Kimbrough,Missed Free Throw,5,7
+16:24,Florida,Kevarrius Hayes,Defensive Rebound,5,7
+16:07,Florida,Kevarrius Hayes,Jumper,5,9
+15:48,La Salle,Jared Kimbrough,Layup,7,9
+15:46,Florida,None,None,7,9
+15:36,Florida,Andrew Nembhard,Missed Layup,7,9
+15:36,La Salle,Pookie Powell,Block,7,9
+15:35,Florida,Florida,Offensive Rebound,7,9
+15:34,Florida,Keyontae Johnson,Layup,7,11
+15:11,Florida,Kevarrius Hayes,Foul,7,11
+15:07,La Salle,Isiah Deas,Turnover,7,11
+15:04,Florida,Jalen Hudson,Steal,7,11
+15:03,La Salle,Ed Croswell,Foul,7,11
+14:46,Florida,Andrew Nembhard,Layup,7,13
+14:28,Florida,Keyontae Johnson,Foul,7,13
+14:07,La Salle,La Salle ,Turnover,7,13
+13:54,Florida,Keyontae Johnson,Missed Three Point Jumper,7,13
+13:54,La Salle,Miles Brookins,Defensive Rebound,7,13
+13:44,La Salle,Isiah Deas,Turnover,7,13
+13:43,Florida,Mike Okauru,Steal,7,13
+13:40,Florida,Mike Okauru,Dunk,7,15
+13:39,La Salle,None,None,7,15
+13:21,La Salle,Traci Carter,Jumper,9,15
+13:03,Florida,Isaiah Stokes,Missed Jumper,9,15
+13:03,Florida,Florida,Offensive Rebound,9,15
+12:56,Florida,Isaiah Stokes,Jumper,9,17
+12:34,La Salle,Traci Carter,Missed Layup,9,17
+12:34,Florida,Deaundrae Ballard,Defensive Rebound,9,17
+12:32,La Salle,Traci Carter,Foul,9,17
+12:25,Florida,Mike Okauru,Turnover,9,17
+12:23,La Salle,Pookie Powell,Steal,9,17
+12:21,La Salle,Pookie Powell,Dunk,11,17
+12:12,Florida,Deaundrae Ballard,Jumper,11,19
+11:59,La Salle,David Beatty,Turnover,11,19
+11:59,Florida,None,None,11,19
+11:51,La Salle,Miles Brookins,Foul,11,19
+11:29,Florida,KeVaughn Allen,Missed Three Point Jumper,11,19
+11:29,La Salle,Pookie Powell,Defensive Rebound,11,19
+11:18,La Salle,Pookie Powell,Missed Three Point Jumper,11,19
+11:18,Florida,Florida,Defensive Rebound,11,19
+11:06,Florida,Isaiah Stokes,Turnover,11,19
+10:55,La Salle,Miles Brookins,Turnover,11,19
+10:42,Florida,Noah Locke,Three Point Jumper,11,22
+10:25,La Salle,Ed Croswell,Dunk,13,22
+10:14,Florida,Noah Locke,Turnover,13,22
+9:53,La Salle,Jared Kimbrough,Missed Dunk,13,22
+9:53,Florida,Florida,Defensive Rebound,13,22
+9:44,Florida,Noah Locke,Missed Three Point Jumper,13,22
+9:44,Florida,Jalen Hudson,Offensive Rebound,13,22
+9:26,Florida,Jalen Hudson,Missed Three Point Jumper,13,22
+9:26,La Salle,Pookie Powell,Defensive Rebound,13,22
+9:17,La Salle,Pookie Powell,Missed Jumper,13,22
+9:17,La Salle,Ed Croswell,Offensive Rebound,13,22
+9:09,Florida,Noah Locke,Foul,13,22
+8:55,La Salle,Isiah Deas,Jumper,15,22
+8:40,Florida,Keith Stone,Layup,15,24
+8:21,La Salle,Isiah Deas,Missed Three Point Jumper,15,24
+8:21,Florida,Florida,Defensive Rebound,15,24
+8:19,La Salle,Ed Croswell,Foul,15,24
+8:01,La Salle,Isiah Deas,Foul,15,24
+8:01,Florida,Jalen Hudson,Missed Free Throw,15,24
+8:01,Florida,None,Team Rebound,15,24
+8:01,Florida,Jalen Hudson,Free Throw,15,25
+7:46,La Salle,Isiah Deas,Turnover,15,25
+7:46,Florida,Keith Stone,Steal,15,25
+7:46,La Salle,Miles Brookins,Foul,15,25
+7:46,Florida,None,None,15,25
+7:46,Florida,Keith Stone,Free Throw,15,26
+7:46,Florida,Keith Stone,Free Throw,15,27
+7:25,La Salle,David Beatty,Three Point Jumper,18,27
+7:15,Florida,Andrew Nembhard,Missed Jumper,18,27
+7:15,La Salle,Jared Kimbrough,Defensive Rebound,18,27
+7:03,La Salle,Miles Brookins,Layup,20,27
+7:03,Florida,Dontay Bassett,Foul,20,27
+7:03,La Salle,Miles Brookins,Free Throw,21,27
+6:37,Florida,Noah Locke,Missed Three Point Jumper,21,27
+6:37,La Salle,Jamir Moultrie,Defensive Rebound,21,27
+6:19,La Salle,Traci Carter,Missed Jumper,21,27
+6:19,Florida,Isaiah Stokes,Defensive Rebound,21,27
+6:11,Florida,KeVaughn Allen,Missed Three Point Jumper,21,27
+6:11,La Salle,Jared Kimbrough,Defensive Rebound,21,27
+5:53,La Salle,David Beatty,Missed Layup,21,27
+5:53,Florida,KeVaughn Allen,Defensive Rebound,21,27
+5:50,La Salle,Miles Brookins,Foul,21,27
+5:50,Florida,KeVaughn Allen,Free Throw,21,28
+5:50,Florida,KeVaughn Allen,Free Throw,21,29
+5:30,La Salle,David Beatty,Turnover,21,29
+5:20,La Salle,Pookie Powell,Foul,21,29
+5:20,Florida,KeVaughn Allen,Free Throw,21,30
+5:20,Florida,KeVaughn Allen,Free Throw,21,31
+5:10,La Salle,David Beatty,Layup,23,31
+5:05,La Salle,Jamir Moultrie,Foul,23,31
+5:05,Florida,KeVaughn Allen,Free Throw,23,32
+5:05,Florida,KeVaughn Allen,Free Throw,23,33
+4:40,La Salle,Isiah Deas,Missed Jumper,23,33
+4:40,Florida,Mike Okauru,Defensive Rebound,23,33
+4:09,La Salle,Jared Kimbrough,Foul,23,33
+4:09,Florida,Isaiah Stokes,Free Throw,23,34
+4:09,Florida,Isaiah Stokes,Free Throw,23,35
+3:51,La Salle,Isiah Deas,Layup,25,35
+3:38,Florida,Mike Okauru,Missed Jumper,25,35
+3:38,La Salle,Jared Kimbrough,Defensive Rebound,25,35
+3:22,La Salle,Pookie Powell,Turnover,25,35
+3:22,Florida,None,None,25,35
+3:02,Florida,Keith Stone,Missed Jumper,25,35
+3:02,La Salle,Cheddi Mosely,Defensive Rebound,25,35
+2:51,La Salle,Cheddi Mosely,Missed Three Point Jumper,25,35
+2:51,Florida,Keyontae Johnson,Defensive Rebound,25,35
+2:40,Florida,Mike Okauru,Turnover,25,35
+2:39,La Salle,Cheddi Mosely,Steal,25,35
+2:39,Florida,Mike Okauru,Foul,25,35
+2:39,La Salle,Cheddi Mosely,Free Throw,26,35
+2:39,La Salle,Cheddi Mosely,Free Throw,27,35
+2:09,Florida,Andrew Nembhard,Turnover,27,35
+2:06,La Salle,Jared Kimbrough,Steal,27,35
+1:52,La Salle,Isiah Deas,Missed Jumper,27,35
+1:52,Florida,Keith Stone,Defensive Rebound,27,35
+1:31,Florida,Andrew Nembhard,Layup,27,37
+1:05,La Salle,Pookie Powell,Three Point Jumper,30,37
+0:53,Florida,Jalen Hudson,Three Point Jumper,30,40
+0:31,La Salle,David Beatty,Turnover,30,40
+0:30,Florida,Andrew Nembhard,Steal,30,40
+0:27,Florida,Jalen Hudson,Turnover,30,40
+0:25,La Salle,Pookie Powell,Steal,30,40
+0:01,Florida,Isaiah Stokes,Foul,30,40
+0:01,La Salle,Pookie Powell,Free Throw,31,40
+0:01,La Salle,Pookie Powell,Free Throw,32,40
+0:01,Florida,None,None,32,40
+0:00,Florida,None,None,32,40
+19:43,La Salle,Miles Brookins,Foul,32,40
+19:35,Florida,Keith Stone,Turnover,32,40
+19:33,La Salle,Traci Carter,Steal,32,40
+19:13,La Salle,Isiah Deas,Missed Three Point Jumper,32,40
+19:13,Florida,Florida,Defensive Rebound,32,40
+19:00,Florida,Jalen Hudson,Missed Jumper,32,40
+19:00,Florida,Jalen Hudson,Offensive Rebound,32,40
+18:49,Florida,Andrew Nembhard,Missed Layup,32,40
+18:49,La Salle,Isiah Deas,Defensive Rebound,32,40
+18:36,La Salle,David Beatty,Turnover,32,40
+18:14,La Salle,Isiah Deas,Foul,32,40
+18:10,Florida,Keyontae Johnson,Jumper,32,42
+17:46,La Salle,Pookie Powell,Missed Three Point Jumper,32,42
+17:46,La Salle,Ed Croswell,Offensive Rebound,32,42
+17:41,La Salle,Traci Carter,Three Point Jumper,35,42
+17:26,Florida,Jalen Hudson,Missed Jumper,35,42
+17:26,La Salle,Ed Croswell,Defensive Rebound,35,42
+17:11,La Salle,David Beatty,Missed Three Point Jumper,35,42
+17:11,Florida,KeVaughn Allen,Defensive Rebound,35,42
+16:59,Florida,Jalen Hudson,Missed Jumper,35,42
+16:59,Florida,Kevarrius Hayes,Offensive Rebound,35,42
+16:57,La Salle,Ed Croswell,Foul,35,42
+16:57,Florida,Kevarrius Hayes,Free Throw,35,43
+16:57,Florida,Kevarrius Hayes,Missed Free Throw,35,43
+16:57,La Salle,Ed Croswell,Defensive Rebound,35,43
+16:28,La Salle,Traci Carter,Missed Three Point Jumper,35,43
+16:28,Florida,Keyontae Johnson,Defensive Rebound,35,43
+16:19,Florida,Keyontae Johnson,Layup,35,45
+16:06,La Salle,Pookie Powell,Missed Three Point Jumper,35,45
+16:06,Florida,Kevarrius Hayes,Defensive Rebound,35,45
+15:50,Florida,Kevarrius Hayes,Layup,35,47
+15:21,La Salle,Isiah Deas,Missed Jumper,35,47
+15:21,Florida,Kevarrius Hayes,Defensive Rebound,35,47
+15:03,Florida,Kevarrius Hayes,Jumper,35,49
+14:50,La Salle,None,None,35,49
+14:50,Florida,None,None,35,49
+14:32,La Salle,Pookie Powell,Missed Layup,35,49
+14:32,Florida,Kevarrius Hayes,Block,35,49
+14:30,La Salle,Jared Kimbrough,Offensive Rebound,35,49
+14:29,La Salle,La Salle ,Turnover,35,49
+14:17,Florida,Kevarrius Hayes,Layup,35,51
+13:55,La Salle,Isiah Deas,Turnover,35,51
+13:53,Florida,Keyontae Johnson,Steal,35,51
+13:44,La Salle,Traci Carter,Foul,35,51
+13:43,La Salle,Jared Kimbrough,Foul,35,51
+13:40,Florida,Keyontae Johnson,Dunk,35,53
+13:12,Florida,Deaundrae Ballard,Foul,35,53
+13:12,La Salle,Jared Kimbrough,Free Throw,36,53
+13:12,La Salle,Jared Kimbrough,Missed Free Throw,36,53
+13:12,Florida,Kevarrius Hayes,Defensive Rebound,36,53
+13:05,Florida,KeVaughn Allen,Missed Three Point Jumper,36,53
+13:05,La Salle,Cheddi Mosely,Defensive Rebound,36,53
+12:44,La Salle,Traci Carter,Turnover,36,53
+12:29,Florida,Isaiah Stokes,Missed Layup,36,53
+12:29,Florida,Deaundrae Ballard,Offensive Rebound,36,53
+12:24,Florida,None,None,36,55
+12:15,La Salle,Isiah Deas,Missed Three Point Jumper,36,55
+12:15,La Salle,La Salle,Offensive Rebound,36,55
+12:09,La Salle,Ed Croswell,Missed Jumper,36,55
+12:09,Florida,Keyontae Johnson,Defensive Rebound,36,55
+11:57,Florida,Isaiah Stokes,Jumper,36,57
+11:36,La Salle,Miles Brookins,Turnover,36,57
+11:34,Florida,Andrew Nembhard,Steal,36,57
+11:29,Florida,Keyontae Johnson,Dunk,36,59
+11:28,La Salle,None,None,36,59
+11:28,Florida,None,None,36,59
+11:10,La Salle,Ed Croswell,Layup,38,59
+10:55,Florida,Isaiah Stokes,Turnover,38,59
+10:55,Florida,Isaiah Stokes,Foul,38,59
+10:47,La Salle,Isiah Deas,Turnover,38,59
+10:46,Florida,Deaundrae Ballard,Steal,38,59
+10:44,Florida,Deaundrae Ballard,Layup,38,61
+10:23,Florida,Kevarrius Hayes,Foul,38,61
+10:23,La Salle,Ed Croswell,Missed Free Throw,38,61
+10:23,La Salle,None,Team Rebound,38,61
+10:23,La Salle,Ed Croswell,Free Throw,39,61
+10:16,La Salle,Ed Croswell,Foul,39,61
+10:16,Florida,Keyontae Johnson,Free Throw,39,62
+10:16,Florida,Keyontae Johnson,Free Throw,39,63
+10:00,La Salle,Cheddi Mosely,Missed Three Point Jumper,39,63
+10:00,La Salle,Traci Carter,Offensive Rebound,39,63
+9:45,La Salle,Pookie Powell,Missed Three Point Jumper,39,63
+9:45,Florida,Chase Johnson,Defensive Rebound,39,63
+9:37,Florida,Keyontae Johnson,Missed Jumper,39,63
+9:37,Florida,Chase Johnson,Offensive Rebound,39,63
+9:37,La Salle,Traci Carter,Foul,39,63
+9:37,Florida,Chase Johnson,Missed Free Throw,39,63
+9:37,La Salle,Miles Brookins,Defensive Rebound,39,63
+9:17,La Salle,Miles Brookins,Missed Three Point Jumper,39,63
+9:17,La Salle,Jared Kimbrough,Offensive Rebound,39,63
+9:07,La Salle,Pookie Powell,Three Point Jumper,42,63
+8:51,Florida,Chase Johnson,Missed Layup,42,63
+8:51,La Salle,Traci Carter,Defensive Rebound,42,63
+8:37,La Salle,Jared Kimbrough,Jumper,44,63
+8:29,Florida,Chase Johnson,Dunk,44,65
+8:06,La Salle,Jared Kimbrough,Turnover,44,65
+8:04,Florida,Andrew Nembhard,Steal,44,65
+8:01,Florida,Noah Locke,Missed Layup,44,65
+8:01,Florida,Chase Johnson,Offensive Rebound,44,65
+7:56,Florida,None,None,44,67
+7:30,La Salle,Pookie Powell,Layup,46,67
+7:16,Florida,Jalen Hudson,Missed Three Point Jumper,46,67
+7:16,La Salle,Cheddi Mosely,Defensive Rebound,46,67
+7:05,La Salle,Pookie Powell,Turnover,46,67
+7:05,Florida,None,None,46,67
+6:57,Florida,None,None,46,67
+6:51,La Salle,Traci Carter,Foul,46,67
+6:51,Florida,KeVaughn Allen,Free Throw,46,68
+6:51,Florida,KeVaughn Allen,Free Throw,46,69
+6:21,La Salle,David Beatty,Jumper,48,69
+5:59,Florida,Jalen Hudson,Three Point Jumper,48,72
+5:36,La Salle,Pookie Powell,Layup,50,72
+5:10,Florida,Jalen Hudson,Layup,50,74
+4:52,La Salle,David Beatty,Three Point Jumper,53,74
+4:14,Florida,Florida ,Turnover,53,74
+3:52,La Salle,Jamir Moultrie,Jumper,55,74
+3:52,Florida,Noah Locke,Foul,55,74
+3:52,Florida,None,None,55,74
+3:52,La Salle,Jamir Moultrie,Free Throw,56,74
+3:30,Florida,Jalen Hudson,Layup,56,76
+3:11,Florida,Keyontae Johnson,Foul,56,76
+2:56,La Salle,Ed Croswell,Turnover,56,76
+2:38,Florida,Isaiah Stokes,Layup,56,78
+2:38,La Salle,Ed Croswell,Foul,56,78
+2:38,Florida,Isaiah Stokes,Free Throw,56,79
+2:18,La Salle,Pookie Powell,Layup,58,79
+2:04,Florida,Chase Johnson,Layup,58,81
+1:50,Florida,Chase Johnson,Foul,58,81
+1:50,La Salle,Pookie Powell,Missed Free Throw,58,81
+1:50,La Salle,None,Team Rebound,58,81
+1:50,La Salle,Pookie Powell,Free Throw,59,81
+1:35,Florida,Andrew Fava,Turnover,59,81
+1:33,La Salle,Pookie Powell,Steal,59,81
+1:32,La Salle,Pookie Powell,Layup,61,81
+1:26,Florida,Mike Okauru,Turnover,61,81
+1:25,La Salle,David Beatty,Steal,61,81
+1:23,La Salle,David Beatty,Missed Three Point Jumper,61,81
+1:23,La Salle,Miles Brookins,Offensive Rebound,61,81
+1:19,La Salle,Pookie Powell,Missed Three Point Jumper,61,81
+1:19,Florida,Mike Okauru,Defensive Rebound,61,81
+1:07,Florida,None,None,61,81
+0:54,La Salle,Jared Kimbrough,Foul,61,81
+0:54,Florida,Dontay Bassett,Missed Free Throw,61,81
+0:54,Florida,None,Team Rebound,61,81
+0:54,Florida,Dontay Bassett,Missed Free Throw,61,81
+0:54,La Salle,Jared Kimbrough,Defensive Rebound,61,81
+0:46,La Salle,Isiah Deas,Three Point Jumper,64,81
+0:42,La Salle,Jamir Moultrie,Foul,64,81
+0:42,Florida,Andrew Fava,Missed Free Throw,64,81
+0:42,Florida,None,Team Rebound,64,81
+0:42,Florida,Andrew Fava,Free Throw,64,82
+0:33,La Salle,Isiah Deas,Missed Jumper,64,82
+0:33,La Salle,Miles Brookins,Offensive Rebound,64,82
+0:26,La Salle,Miles Brookins,Dunk,66,82
+0:18,Florida,Andrew Fava,Missed Three Point Jumper,66,82
+0:18,La Salle,Jared Kimbrough,Defensive Rebound,66,82
+0:17,La Salle,Isiah Deas,Three Point Jumper,69,82
+0:15,Florida,None,None,69,82
+0:01,Florida,Mak Krause,Turnover,69,82
+0:01,La Salle,Jared Kimbrough,Steal,69,82
+0:00,Florida,None,None,69,82

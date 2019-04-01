@@ -1,0 +1,358 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Kentucky,None,None,0,0
+19:51,Kentucky,Tyler Herro,Turnover,0,0
+19:28,Tennessee State,Donte Fitzpatrick-Dorsey,Missed Jumper,0,0
+19:28,Tennessee State,Stokley Chaffee Jr.,Offensive Rebound,0,0
+19:24,Tennessee State,Stokley Chaffee Jr.,Layup,2,0
+19:12,Kentucky,Tyler Herro,Jumper,2,2
+18:55,Kentucky,Tyler Herro,Foul,2,2
+18:55,Tennessee State,Kamar McKnight,Missed Free Throw,2,2
+18:55,Tennessee State,None,Team Rebound,2,2
+18:55,Tennessee State,Kamar McKnight,Free Throw,3,2
+18:41,Kentucky,PJ Washington,Jumper,3,4
+18:15,Tennessee State,Donte Fitzpatrick-Dorsey,Layup,5,4
+18:03,Tennessee State,Kamar McKnight,Foul,5,4
+17:50,Tennessee State,Stokley Chaffee Jr.,Foul,5,4
+17:50,Kentucky,Keldon Johnson,Missed Free Throw,5,4
+17:50,Kentucky,None,Team Rebound,5,4
+17:50,Kentucky,Keldon Johnson,Free Throw,5,5
+17:23,Tennessee State,Emmanuel Egbuta,Missed Layup,5,5
+17:23,Kentucky,PJ Washington,Defensive Rebound,5,5
+17:06,Kentucky,PJ Washington,Missed Three Point Jumper,5,5
+17:06,Tennessee State,Armani Chaney,Defensive Rebound,5,5
+16:57,Tennessee State,Armani Chaney,Layup,7,5
+16:47,Kentucky,Keldon Johnson,Missed Three Point Jumper,7,5
+16:47,Tennessee State,Donte Fitzpatrick-Dorsey,Defensive Rebound,7,5
+16:39,Tennessee State,Donte Fitzpatrick-Dorsey,Turnover,7,5
+16:27,Kentucky,Keldon Johnson,Turnover,7,5
+16:06,Tennessee State,DaJion Henderson,Missed Jumper,7,5
+16:06,Kentucky,EJ Montgomery,Block,7,5
+16:06,Kentucky,Reid Travis,Defensive Rebound,7,5
+15:49,Kentucky,Reid Travis,Turnover,7,5
+15:49,Tennessee State,Tripp Davis,Steal,7,5
+15:45,Tennessee State,Kamar McKnight,Layup,9,5
+15:37,Kentucky,Quade Green,Missed Three Point Jumper,9,5
+15:37,Tennessee State,Kamar McKnight,Defensive Rebound,9,5
+15:09,Kentucky,None,None,9,5
+15:03,Tennessee State,Tennessee State ,Turnover,9,5
+14:48,Kentucky,PJ Washington,Missed Jumper,9,5
+14:48,Tennessee State,Donte Fitzpatrick-Dorsey,Defensive Rebound,9,5
+14:29,Tennessee State,DaJion Henderson,Missed Jumper,9,5
+14:29,Kentucky,EJ Montgomery,Block,9,5
+14:29,Tennessee State,Tennessee State,Offensive Rebound,9,5
+14:22,Kentucky,PJ Washington,Foul,9,5
+14:22,Tennessee State,Donte Fitzpatrick-Dorsey,Missed Free Throw,9,5
+14:22,Tennessee State,None,Team Rebound,9,5
+14:22,Tennessee State,Donte Fitzpatrick-Dorsey,Missed Free Throw,9,5
+14:22,Kentucky,Reid Travis,Defensive Rebound,9,5
+14:06,Tennessee State,Daniel Cummings,Foul,9,5
+14:06,Kentucky,Reid Travis,Missed Free Throw,9,5
+14:06,Kentucky,None,Team Rebound,9,5
+14:06,Kentucky,Reid Travis,Free Throw,9,6
+13:51,Tennessee State,Donte Fitzpatrick-Dorsey,Missed Three Point Jumper,9,6
+13:51,Kentucky,EJ Montgomery,Defensive Rebound,9,6
+13:30,Kentucky,PJ Washington,Missed Jumper,9,6
+13:30,Tennessee State,Stokley Chaffee Jr.,Defensive Rebound,9,6
+13:04,Tennessee State,Tripp Davis,Three Point Jumper,12,6
+12:40,Kentucky,Quade Green,Missed Three Point Jumper,12,6
+12:40,Tennessee State,Dave Morris,Block,12,6
+12:40,Kentucky,EJ Montgomery,Offensive Rebound,12,6
+12:31,Kentucky,Ashton Hagans,Missed Three Point Jumper,12,6
+12:31,Kentucky,Reid Travis,Offensive Rebound,12,6
+12:26,Kentucky,Reid Travis,Layup,12,8
+11:51,Tennessee State,Tennessee State ,Turnover,12,8
+11:51,Kentucky,None,None,12,8
+11:31,Kentucky,Reid Travis,Turnover,12,8
+11:31,Tennessee State,Dave Morris,Steal,12,8
+11:17,Tennessee State,Stokley Chaffee Jr.,Missed Jumper,12,8
+11:17,Kentucky,Reid Travis,Defensive Rebound,12,8
+11:14,Tennessee State,Stokley Chaffee Jr.,Foul,12,8
+11:00,Kentucky,Immanuel Quickley,Missed Three Point Jumper,12,8
+11:00,Tennessee State,Dave Morris,Defensive Rebound,12,8
+10:40,Tennessee State,Michael Littlejohn,Turnover,12,8
+10:40,Kentucky,PJ Washington,Steal,12,8
+10:33,Kentucky,Tyler Herro,Missed Three Point Jumper,12,8
+10:33,Kentucky,Reid Travis,Offensive Rebound,12,8
+10:27,Tennessee State,Daniel Cummings,Foul,12,8
+10:27,Kentucky,Reid Travis,Free Throw,12,9
+10:27,Kentucky,Reid Travis,Free Throw,12,10
+10:14,Kentucky,Reid Travis,Foul,12,10
+10:13,Tennessee State,Emmanuel Egbuta,Layup,14,10
+9:52,Kentucky,Keldon Johnson,Missed Three Point Jumper,14,10
+9:52,Tennessee State,Kamar McKnight,Defensive Rebound,14,10
+9:44,Tennessee State,Kamar McKnight,Missed Jumper,14,10
+9:44,Kentucky,Keldon Johnson,Defensive Rebound,14,10
+9:37,Kentucky,Immanuel Quickley,Jumper,14,12
+9:06,Tennessee State,Dave Morris,Missed Jumper,14,12
+9:06,Kentucky,Keldon Johnson,Defensive Rebound,14,12
+9:00,Kentucky,Tyler Herro,Three Point Jumper,14,15
+8:45,Tennessee State,Emmanuel Egbuta,Missed Dunk,14,15
+8:45,Kentucky,Tyler Herro,Defensive Rebound,14,15
+8:42,Tennessee State,Armani Chaney,Foul,14,15
+8:35,Tennessee State,Emmanuel Egbuta,Foul,14,15
+8:35,Kentucky,PJ Washington,Free Throw,14,16
+8:35,Kentucky,PJ Washington,Free Throw,14,17
+8:24,Tennessee State,DaJion Henderson,Foul,14,17
+8:24,Tennessee State,DaJion Henderson,Turnover,14,17
+8:13,Kentucky,Keldon Johnson,Missed Jumper,14,17
+8:13,Kentucky,Keldon Johnson,Offensive Rebound,14,17
+8:10,Tennessee State,Kamar McKnight,Foul,14,17
+8:10,Kentucky,Keldon Johnson,Free Throw,14,18
+8:10,Kentucky,Keldon Johnson,Free Throw,14,19
+7:59,Tennessee State,Armani Chaney,Turnover,14,19
+7:55,Tennessee State,Armani Chaney,Foul,14,19
+7:55,Kentucky,None,None,14,19
+7:55,Kentucky,EJ Montgomery,Free Throw,14,20
+7:55,Kentucky,EJ Montgomery,Free Throw,14,21
+7:40,Tennessee State,Emmanuel Egbuta,Dunk,16,21
+7:40,Kentucky,Keldon Johnson,Foul,16,21
+7:40,Tennessee State,Emmanuel Egbuta,Free Throw,17,21
+7:25,Kentucky,Tyler Herro,Missed Three Point Jumper,17,21
+7:25,Tennessee State,Kamar McKnight,Defensive Rebound,17,21
+7:18,Tennessee State,Kamar McKnight,Missed Layup,17,21
+7:18,Tennessee State,Emmanuel Egbuta,Offensive Rebound,17,21
+7:14,Tennessee State,Emmanuel Egbuta,Layup,19,21
+7:09,Kentucky,None,None,19,21
+7:02,Tennessee State,DaJion Henderson,Foul,19,21
+7:02,Kentucky,Immanuel Quickley,Free Throw,19,22
+7:02,Kentucky,Immanuel Quickley,Free Throw,19,23
+6:49,Tennessee State,Donte Fitzpatrick-Dorsey,Missed Layup,19,23
+6:49,Kentucky,Quade Green,Defensive Rebound,19,23
+6:42,Kentucky,Ashton Hagans,Layup,19,25
+6:28,Kentucky,EJ Montgomery,Foul,19,25
+6:28,Tennessee State,Emmanuel Egbuta,Missed Free Throw,19,25
+6:28,Tennessee State,None,Team Rebound,19,25
+6:28,Tennessee State,Emmanuel Egbuta,Free Throw,20,25
+6:12,Kentucky,Quade Green,Missed Layup,20,25
+6:12,Kentucky,EJ Montgomery,Offensive Rebound,20,25
+6:12,Kentucky,None,None,20,25
+6:12,Kentucky,Quade Green,Offensive Rebound,20,25
+5:59,Kentucky,Quade Green,Missed Layup,20,25
+5:59,Tennessee State,Damarri Moore,Defensive Rebound,20,25
+5:48,Tennessee State,Armani Chaney,Missed Three Point Jumper,20,25
+5:48,Tennessee State,Kamar McKnight,Offensive Rebound,20,25
+5:27,Tennessee State,Armani Chaney,Missed Jumper,20,25
+5:27,Kentucky,PJ Washington,Block,20,25
+5:27,Tennessee State,Tennessee State,Offensive Rebound,20,25
+5:17,Tennessee State,Emmanuel Egbuta,Missed Jumper,20,25
+5:17,Kentucky,Keldon Johnson,Defensive Rebound,20,25
+5:10,Kentucky,Ashton Hagans,Missed Layup,20,25
+5:10,Tennessee State,Emmanuel Egbuta,Defensive Rebound,20,25
+4:45,Tennessee State,Kamar McKnight,Layup,22,25
+4:22,Tennessee State,Tripp Davis,Foul,22,25
+4:22,Kentucky,PJ Washington,Free Throw,22,26
+4:22,Kentucky,PJ Washington,Missed Free Throw,22,26
+4:22,Tennessee State,Emmanuel Egbuta,Defensive Rebound,22,26
+3:53,Tennessee State,Donte Fitzpatrick-Dorsey,Turnover,22,26
+3:53,Kentucky,None,None,22,26
+3:26,Kentucky,Quade Green,Turnover,22,26
+3:08,Tennessee State,Kamar McKnight,Missed Jumper,22,26
+3:08,Kentucky,PJ Washington,Defensive Rebound,22,26
+2:59,Kentucky,Keldon Johnson,Missed Dunk,22,26
+2:59,Tennessee State,Kamar McKnight,Defensive Rebound,22,26
+2:47,Kentucky,Reid Travis,Foul,22,26
+2:47,Tennessee State,Tennessee State ,Turnover,22,26
+2:40,Kentucky,Keldon Johnson,Jumper,22,28
+2:13,Tennessee State,Emmanuel Egbuta,Missed Layup,22,28
+2:13,Kentucky,PJ Washington,Defensive Rebound,22,28
+2:01,Kentucky,EJ Montgomery,Missed Jumper,22,28
+2:01,Kentucky,EJ Montgomery,Offensive Rebound,22,28
+2:01,Kentucky,None,None,22,30
+1:48,Tennessee State,None,None,22,30
+1:29,Tennessee State,Damarri Moore,Missed Layup,22,30
+1:29,Kentucky,PJ Washington,Defensive Rebound,22,30
+1:19,Tennessee State,Armani Chaney,Foul,22,30
+1:19,Kentucky,Keldon Johnson,Free Throw,22,31
+1:19,Kentucky,Keldon Johnson,Free Throw,22,32
+1:01,Tennessee State,Dave Morris,Missed Three Point Jumper,22,32
+1:01,Kentucky,Tyler Herro,Defensive Rebound,22,32
+0:52,Tennessee State,Donte Fitzpatrick-Dorsey,Foul,22,32
+0:52,Kentucky,EJ Montgomery,Free Throw,22,33
+0:52,Kentucky,EJ Montgomery,Missed Free Throw,22,33
+0:52,Tennessee State,Tennessee State,Defensive Rebound,22,33
+0:52,Kentucky,Keldon Johnson,Foul,22,33
+0:52,Tennessee State,Emmanuel Egbuta,Free Throw,23,33
+0:52,Tennessee State,Emmanuel Egbuta,Free Throw,24,33
+0:30,Kentucky,Quade Green,Layup,24,35
+0:02,Tennessee State,Kamar McKnight,Three Point Jumper,27,35
+0:00,Kentucky,None,None,27,35
+20:00,Tennessee State,None,None,27,35
+19:37,Tennessee State,Stokley Chaffee Jr.,Turnover,27,35
+19:15,Tennessee State,Stokley Chaffee Jr.,Foul,27,35
+19:00,Kentucky,PJ Washington,Missed Jumper,27,35
+19:00,Kentucky,Reid Travis,Offensive Rebound,27,35
+19:00,Kentucky,None,None,27,37
+18:37,Tennessee State,Emmanuel Egbuta,Missed Jumper,27,37
+18:37,Kentucky,Reid Travis,Block,27,37
+18:37,Kentucky,PJ Washington,Defensive Rebound,27,37
+18:29,Kentucky,Reid Travis,Layup,27,39
+18:29,Tennessee State,Stokley Chaffee Jr.,Foul,27,39
+18:29,Kentucky,Reid Travis,Free Throw,27,40
+18:12,Kentucky,Reid Travis,Foul,27,40
+18:09,Tennessee State,Kamar McKnight,Missed Jumper,27,40
+18:09,Tennessee State,Kamar McKnight,Offensive Rebound,27,40
+18:07,Kentucky,PJ Washington,Foul,27,40
+18:07,Tennessee State,Kamar McKnight,Free Throw,28,40
+18:07,Tennessee State,Kamar McKnight,Free Throw,29,40
+17:51,Kentucky,Tyler Herro,Missed Three Point Jumper,29,40
+17:51,Kentucky,PJ Washington,Offensive Rebound,29,40
+17:51,Kentucky,None,None,29,40
+17:51,Tennessee State,Emmanuel Egbuta,Defensive Rebound,29,40
+17:41,Tennessee State,DaJion Henderson,Foul,29,40
+17:41,Tennessee State,DaJion Henderson,Turnover,29,40
+17:24,Tennessee State,DaJion Henderson,Foul,29,40
+17:24,Kentucky,Keldon Johnson,Free Throw,29,41
+17:24,Kentucky,Keldon Johnson,Free Throw,29,42
+17:11,Tennessee State,Daniel Cummings,Three Point Jumper,32,42
+16:51,Tennessee State,Emmanuel Egbuta,Foul,32,42
+16:51,Kentucky,Keldon Johnson,Free Throw,32,43
+16:51,Kentucky,Keldon Johnson,Free Throw,32,44
+16:20,Tennessee State,Tennessee State ,Turnover,32,44
+16:10,Tennessee State,Donte Fitzpatrick-Dorsey,Foul,32,44
+16:05,Kentucky,Immanuel Quickley,Three Point Jumper,32,47
+15:42,Tennessee State,Daniel Cummings,Turnover,32,47
+15:42,Kentucky,Tyler Herro,Steal,32,47
+15:36,Tennessee State,Daniel Cummings,Foul,32,47
+15:36,Kentucky,None,None,32,47
+15:36,Kentucky,Keldon Johnson,Free Throw,32,48
+15:36,Kentucky,Keldon Johnson,Missed Free Throw,32,48
+15:36,Tennessee State,Emmanuel Egbuta,Defensive Rebound,32,48
+15:21,Tennessee State,Daniel Cummings,Turnover,32,48
+15:21,Kentucky,PJ Washington,Steal,32,48
+15:15,Tennessee State,Daniel Cummings,Foul,32,48
+15:15,Kentucky,PJ Washington,Missed Free Throw,32,48
+15:15,Kentucky,None,Team Rebound,32,48
+15:15,Kentucky,PJ Washington,Free Throw,32,49
+15:02,Tennessee State,Donte Fitzpatrick-Dorsey,Layup,34,49
+14:36,Kentucky,Immanuel Quickley,Missed Jumper,34,49
+14:36,Kentucky,Immanuel Quickley,Offensive Rebound,34,49
+14:31,Kentucky,Tyler Herro,Three Point Jumper,34,52
+14:11,Tennessee State,Donte Fitzpatrick-Dorsey,Missed Layup,34,52
+14:11,Kentucky,Tyler Herro,Defensive Rebound,34,52
+14:04,Kentucky,Immanuel Quickley,Turnover,34,52
+13:38,Kentucky,Keldon Johnson,Foul,34,52
+13:38,Tennessee State,Dave Morris,Free Throw,35,52
+13:38,Tennessee State,Dave Morris,Free Throw,36,52
+13:21,Kentucky,Quade Green,Turnover,36,52
+13:13,Tennessee State,Donte Fitzpatrick-Dorsey,Layup,38,52
+13:12,Kentucky,None,None,38,52
+13:01,Kentucky,Ashton Hagans,Turnover,38,52
+12:57,Tennessee State,Donte Fitzpatrick-Dorsey,Dunk,40,52
+12:50,Kentucky,Keldon Johnson,Jumper,40,54
+12:39,Tennessee State,Stokley Chaffee Jr.,Turnover,40,54
+12:24,Kentucky,Keldon Johnson,Jumper,40,56
+12:06,Tennessee State,Donte Fitzpatrick-Dorsey,Layup,42,56
+11:43,Kentucky,Quade Green,Turnover,42,56
+11:43,Kentucky,None,None,42,56
+11:28,Tennessee State,Dave Morris,Foul,42,56
+11:28,Tennessee State,Dave Morris,Turnover,42,56
+11:14,Kentucky,Keldon Johnson,Missed Jumper,42,56
+11:14,Kentucky,Reid Travis,Offensive Rebound,42,56
+11:10,Kentucky,Reid Travis,Layup,42,58
+10:55,Tennessee State,Emmanuel Egbuta,Missed Layup,42,58
+10:55,Kentucky,Reid Travis,Block,42,58
+10:55,Kentucky,Reid Travis,Defensive Rebound,42,58
+10:39,Kentucky,EJ Montgomery,Turnover,42,58
+10:14,Tennessee State,Dave Morris,Missed Three Point Jumper,42,58
+10:14,Kentucky,EJ Montgomery,Defensive Rebound,42,58
+10:07,Kentucky,Keldon Johnson,Layup,42,60
+9:41,Tennessee State,Donte Fitzpatrick-Dorsey,Missed Three Point Jumper,42,60
+9:41,Tennessee State,Stokley Chaffee Jr.,Offensive Rebound,42,60
+9:37,Tennessee State,Stokley Chaffee Jr.,Layup,44,60
+9:17,Kentucky,Tyler Herro,Missed Three Point Jumper,44,60
+9:17,Kentucky,Kentucky,Defensive Rebound,44,60
+9:12,Tennessee State,Kamar McKnight,Foul,44,60
+9:12,Kentucky,Reid Travis,Missed Free Throw,44,60
+9:12,Kentucky,Keldon Johnson,Offensive Rebound,44,60
+9:12,Kentucky,None,Team Rebound,44,60
+9:12,Kentucky,Reid Travis,Missed Free Throw,44,60
+9:09,Kentucky,Immanuel Quickley,Jumper,44,62
+8:36,Tennessee State,Armani Chaney,Missed Three Point Jumper,44,62
+8:36,Kentucky,Tyler Herro,Defensive Rebound,44,62
+8:19,Kentucky,Immanuel Quickley,Missed Jumper,44,62
+8:19,Tennessee State,Kamar McKnight,Defensive Rebound,44,62
+8:11,Tennessee State,Kamar McKnight,Missed Jumper,44,62
+8:11,Tennessee State,Stokley Chaffee Jr.,Offensive Rebound,44,62
+8:09,Kentucky,Reid Travis,Foul,44,62
+8:09,Tennessee State,Stokley Chaffee Jr.,Free Throw,45,62
+8:09,Tennessee State,Stokley Chaffee Jr.,Free Throw,46,62
+8:02,Kentucky,Keldon Johnson,Layup,46,64
+7:52,Tennessee State,Kamar McKnight,Missed Three Point Jumper,46,64
+7:52,Kentucky,Nick Richards,Defensive Rebound,46,64
+7:45,Kentucky,Keldon Johnson,Layup,46,66
+7:29,Tennessee State,Stokley Chaffee Jr.,Dunk,48,66
+7:15,Kentucky,Keldon Johnson,Missed Layup,48,66
+7:15,Kentucky,Keldon Johnson,Offensive Rebound,48,66
+7:14,Tennessee State,Tripp Davis,Foul,48,66
+7:14,Kentucky,None,None,48,66
+7:14,Kentucky,Keldon Johnson,Missed Free Throw,48,66
+7:14,Kentucky,None,Team Rebound,48,66
+7:14,Kentucky,Keldon Johnson,Free Throw,48,67
+6:58,Tennessee State,Donte Fitzpatrick-Dorsey,Three Point Jumper,51,67
+6:40,Kentucky,Quade Green,Three Point Jumper,51,70
+6:30,Tennessee State,Emmanuel Egbuta,Dunk,53,70
+6:14,Kentucky,Keldon Johnson,Missed Jumper,53,70
+6:14,Kentucky,PJ Washington,Offensive Rebound,53,70
+6:09,Kentucky,PJ Washington,Turnover,53,70
+6:09,Tennessee State,Kamar McKnight,Steal,53,70
+5:58,Kentucky,Nick Richards,Foul,53,70
+5:58,Tennessee State,Emmanuel Egbuta,Missed Free Throw,53,70
+5:58,Tennessee State,None,Team Rebound,53,70
+5:58,Tennessee State,Emmanuel Egbuta,Free Throw,54,70
+5:42,Tennessee State,Emmanuel Egbuta,Foul,54,70
+5:42,Kentucky,PJ Washington,Missed Free Throw,54,70
+5:42,Kentucky,None,Team Rebound,54,70
+5:42,Kentucky,PJ Washington,Missed Free Throw,54,70
+5:42,Tennessee State,Kamar McKnight,Defensive Rebound,54,70
+5:24,Tennessee State,Armani Chaney,Missed Three Point Jumper,54,70
+5:24,Tennessee State,Donte Fitzpatrick-Dorsey,Offensive Rebound,54,70
+5:07,Tennessee State,Donte Fitzpatrick-Dorsey,Layup,56,70
+5:07,Tennessee State,None,None,56,70
+5:02,Kentucky,Keldon Johnson,Turnover,56,70
+4:56,Tennessee State,Donte Fitzpatrick-Dorsey,Turnover,56,70
+4:53,Kentucky,Tyler Herro,Turnover,56,70
+4:53,Tennessee State,Emmanuel Egbuta,Steal,56,70
+4:47,Tennessee State,Donte Fitzpatrick-Dorsey,Three Point Jumper,59,70
+4:24,Tennessee State,Emmanuel Egbuta,Foul,59,70
+4:24,Kentucky,Reid Travis,Missed Free Throw,59,70
+4:24,Kentucky,None,Team Rebound,59,70
+4:24,Kentucky,Reid Travis,Free Throw,59,71
+3:59,Tennessee State,Armani Chaney,Missed Jumper,59,71
+3:59,Kentucky,Keldon Johnson,Defensive Rebound,59,71
+3:41,Kentucky,Keldon Johnson,Layup,59,73
+3:18,Tennessee State,Kamar McKnight,Missed Three Point Jumper,59,73
+3:18,Kentucky,Reid Travis,Defensive Rebound,59,73
+3:06,Tennessee State,Dave Morris,Foul,59,73
+3:06,Kentucky,None,None,59,73
+3:06,Kentucky,Keldon Johnson,Free Throw,59,74
+3:06,Kentucky,Keldon Johnson,Missed Free Throw,59,74
+3:06,Tennessee State,Donte Fitzpatrick-Dorsey,Defensive Rebound,59,74
+2:52,Tennessee State,Donte Fitzpatrick-Dorsey,Turnover,59,74
+2:40,Kentucky,Nick Richards,Dunk,59,76
+2:21,Kentucky,Keldon Johnson,Foul,59,76
+2:07,Tennessee State,Donte Fitzpatrick-Dorsey,Missed Three Point Jumper,59,76
+2:07,Tennessee State,Kamar McKnight,Offensive Rebound,59,76
+2:02,Tennessee State,Kamar McKnight,Turnover,59,76
+2:02,Kentucky,Nick Richards,Foul,59,76
+2:02,Kentucky,Nick Richards,Foul,59,76
+2:02,Tennessee State,Kamar McKnight,Missed Free Throw,59,76
+2:02,Tennessee State,None,Team Rebound,59,76
+2:02,Tennessee State,Kamar McKnight,Missed Free Throw,59,76
+2:02,Tennessee State,None,Team Rebound,59,76
+1:49,Kentucky,Keldon Johnson,Missed Layup,59,76
+1:49,Tennessee State,Emmanuel Egbuta,Defensive Rebound,59,76
+1:23,Tennessee State,Dave Morris,Missed Layup,59,76
+1:23,Kentucky,EJ Montgomery,Defensive Rebound,59,76
+1:17,Tennessee State,Stokley Chaffee Jr.,Foul,59,76
+1:17,Kentucky,Keldon Johnson,Free Throw,59,77
+1:17,Kentucky,Keldon Johnson,Missed Free Throw,59,77
+1:17,Kentucky,None,Team Rebound,59,77
+1:12,Kentucky,None,None,59,77
+1:04,Kentucky,Quade Green,Turnover,59,77
+1:04,Tennessee State,Emmanuel Egbuta,Steal,59,77
+0:56,Tennessee State,Tripp Davis,Three Point Jumper,62,77
+0:39,Kentucky,Ashton Hagans,Missed Jumper,62,77
+0:39,Tennessee State,Tennessee State,Defensive Rebound,62,77
+0:31,Tennessee State,Armani Chaney,Turnover,62,77
+0:31,Kentucky,Quade Green,Steal,62,77
+0:00,Kentucky,None,None,62,77

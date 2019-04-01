@@ -1,0 +1,300 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:32,Harvard,Bryce Aiken,Missed Jumper,0,0
+19:32,Cornell,Steven Julian,Defensive Rebound,0,0
+19:20,Cornell,Matt Morgan,Turnover,0,0
+19:19,Harvard,Chris Lewis,Steal,0,0
+19:16,Harvard,Noah Kirkwood,Missed Layup,0,0
+19:16,Cornell,Jimmy Boeheim,Defensive Rebound,0,0
+19:05,Harvard,Chris Lewis,Foul,0,0
+19:05,Cornell,Jimmy Boeheim,Missed Free Throw,0,0
+19:05,Cornell,None,Team Rebound,0,0
+19:05,Cornell,Jimmy Boeheim,Free Throw,1,0
+18:34,Harvard,Christian Juzang,Turnover,1,0
+18:33,Cornell,Matt Morgan,Steal,1,0
+18:21,Cornell,Josh Warren,Layup,3,0
+18:05,Harvard,Chris Lewis,Missed Jumper,3,0
+18:05,Cornell,Joel Davis,Defensive Rebound,3,0
+17:53,Cornell,Josh Warren,Turnover,3,0
+17:42,Harvard,Noah Kirkwood,Turnover,3,0
+17:20,Cornell,Matt Morgan,Three Point Jumper,6,0
+17:09,Cornell,Jimmy Boeheim,Foul,6,0
+17:01,Harvard,Noah Kirkwood,Layup,6,2
+16:35,Cornell,Joel Davis,Layup,8,2
+16:16,Harvard,Bryce Aiken,Layup,8,4
+16:03,Cornell,Matt Morgan,Missed Three Point Jumper,8,4
+16:03,Harvard,Noah Kirkwood,Defensive Rebound,8,4
+15:46,Harvard,Bryce Aiken,Missed Three Point Jumper,8,4
+15:46,Cornell,Josh Warren,Defensive Rebound,8,4
+15:41,Cornell,Josh Warren,Turnover,8,4
+15:41,Harvard,Noah Kirkwood,Steal,8,4
+15:41,Cornell,Josh Warren,Foul,8,4
+15:41,Harvard,None,None,8,4
+15:32,Harvard,Noah Kirkwood,Missed Three Point Jumper,8,4
+15:32,Cornell,Josh Warren,Defensive Rebound,8,4
+15:03,Cornell,Jimmy Boeheim,Turnover,8,4
+14:55,Harvard,Christian Juzang,Turnover,8,4
+14:41,Cornell,Josh Warren,Turnover,8,4
+14:28,Harvard,Bryce Aiken,Layup,8,6
+14:14,Cornell,Terrance McBride,Missed Three Point Jumper,8,6
+14:14,Harvard,Danilo Djuricic,Defensive Rebound,8,6
+13:45,Harvard,Noah Kirkwood,Missed Three Point Jumper,8,6
+13:45,Cornell,Jack Gordon,Defensive Rebound,8,6
+13:28,Harvard,Danilo Djuricic,Foul,8,6
+13:28,Cornell,Josh Warren,Free Throw,9,6
+13:28,Cornell,Josh Warren,Free Throw,10,6
+13:14,Harvard,Bryce Aiken,Turnover,10,6
+13:14,Cornell,Matt Morgan,Steal,10,6
+13:10,Cornell,Jake Kuhn,Three Point Jumper,13,6
+12:57,Harvard,Bryce Aiken,Three Point Jumper,13,9
+12:44,Cornell,Jack Gordon,Missed Three Point Jumper,13,9
+12:44,Harvard,Danilo Djuricic,Defensive Rebound,13,9
+12:32,Harvard,Danilo Djuricic,Turnover,13,9
+12:30,Cornell,Steven Julian,Steal,13,9
+12:28,Cornell,Jack Gordon,Turnover,13,9
+12:10,Harvard,Christian Juzang,Missed Three Point Jumper,13,9
+12:10,Harvard,Danilo Djuricic,Offensive Rebound,13,9
+11:58,Harvard,Chris Lewis,Jumper,13,11
+11:34,Cornell,Bryan Knapp,Turnover,13,11
+11:34,Cornell,Bryan Knapp,Foul,13,11
+11:34,Harvard,None,None,13,11
+11:24,Harvard,Danilo Djuricic,Turnover,13,11
+10:54,Cornell,Jake Kuhn,Missed Layup,13,11
+10:54,Harvard,Danilo Djuricic,Defensive Rebound,13,11
+10:40,Harvard,Chris Lewis,Missed Dunk,13,11
+10:40,Cornell,Steven Julian,Defensive Rebound,13,11
+10:22,Cornell,Josh Warren,Missed Layup,13,11
+10:22,Harvard,Robert Baker,Defensive Rebound,13,11
+10:11,Harvard,Chris Lewis,Layup,13,13
+9:42,Cornell,Terrance McBride,Turnover,13,13
+9:41,Harvard,Noah Kirkwood,Steal,13,13
+9:40,Harvard,Robert Baker,Turnover,13,13
+9:39,Cornell,Steven Julian,Steal,13,13
+9:18,Cornell,Jake Kuhn,Missed Three Point Jumper,13,13
+9:18,Harvard,Noah Kirkwood,Defensive Rebound,13,13
+8:53,Harvard,Noah Kirkwood,Missed Layup,13,13
+8:53,Cornell,Steven Julian,Defensive Rebound,13,13
+8:51,Harvard,Noah Kirkwood,Foul,13,13
+8:44,Harvard,Christian Juzang,Foul,13,13
+8:36,Cornell,Matt Morgan,Missed Three Point Jumper,13,13
+8:36,Harvard,Bryce Aiken,Defensive Rebound,13,13
+8:23,Harvard,Bryce Aiken,Layup,13,15
+7:59,Cornell,Jimmy Boeheim,Three Point Jumper,16,15
+7:41,Harvard,Chris Lewis,Layup,16,17
+7:13,Cornell,Matt Morgan,Jumper,18,17
+7:02,Harvard,Christian Juzang,Missed Three Point Jumper,18,17
+7:02,Cornell,Bryan Knapp,Defensive Rebound,18,17
+6:54,Harvard,Robert Baker,Foul,18,17
+6:54,Harvard,None,None,18,17
+6:54,Cornell,Jimmy Boeheim,Missed Free Throw,18,17
+6:54,Cornell,None,Team Rebound,18,17
+6:54,Cornell,Jimmy Boeheim,Free Throw,19,17
+6:47,Harvard,Danilo Djuricic,Three Point Jumper,19,20
+6:15,Cornell,Matt Morgan,Missed Three Point Jumper,19,20
+6:15,Harvard,Bryce Aiken,Defensive Rebound,19,20
+6:06,Harvard,Noah Kirkwood,Missed Layup,19,20
+6:06,Harvard,Noah Kirkwood,Offensive Rebound,19,20
+6:03,Harvard,None,None,19,22
+5:40,Cornell,Riley Voss,Missed Three Point Jumper,19,22
+5:40,Harvard,Henry Welsh,Defensive Rebound,19,22
+5:24,Harvard,Christian Juzang,Jumper,19,24
+5:09,Cornell,Riley Voss,Turnover,19,24
+5:08,Harvard,Bryce Aiken,Steal,19,24
+5:08,Cornell,Josh Warren,Foul,19,24
+4:47,Harvard,Bryce Aiken,Turnover,19,24
+4:27,Cornell,Jimmy Boeheim,Missed Three Point Jumper,19,24
+4:27,Harvard,Henry Welsh,Defensive Rebound,19,24
+4:18,Harvard,Bryce Aiken,Three Point Jumper,19,27
+4:00,Cornell,Matt Morgan,Turnover,19,27
+4:00,Cornell,Matt Morgan,Foul,19,27
+4:00,Harvard,None,None,19,27
+3:37,Harvard,Bryce Aiken,Layup,19,29
+3:37,Cornell,Steven Julian,Foul,19,29
+3:37,Harvard,Bryce Aiken,Free Throw,19,30
+3:13,Cornell,Steven Julian,Missed Jumper,19,30
+3:13,Harvard,Kale Catchings,Defensive Rebound,19,30
+3:04,Cornell,Jake Kuhn,Foul,19,30
+3:04,Harvard,Henry Welsh,Free Throw,19,31
+3:04,Harvard,Henry Welsh,Free Throw,19,32
+2:43,Cornell,Jimmy Boeheim,Missed Layup,19,32
+2:43,Harvard,Danilo Djuricic,Defensive Rebound,19,32
+2:35,Harvard,Danilo Djuricic,Missed Three Point Jumper,19,32
+2:35,Cornell,Josh Warren,Defensive Rebound,19,32
+2:28,Cornell,Cornell,Foul,19,32
+2:28,Harvard,Bryce Aiken,Free Throw,19,33
+2:28,Harvard,Bryce Aiken,Free Throw,19,34
+2:15,Cornell,Jake Kuhn,Layup,21,34
+2:15,Harvard,Christian Juzang,Foul,21,34
+2:15,Cornell,Jake Kuhn,Missed Free Throw,21,34
+2:15,Harvard,Danilo Djuricic,Defensive Rebound,21,34
+2:00,Harvard,Kale Catchings,Turnover,21,34
+2:00,Harvard,Kale Catchings,Foul,21,34
+1:44,Cornell,Matt Morgan,Turnover,21,34
+1:44,Harvard,Bryce Aiken,Steal,21,34
+1:35,Harvard,Rio Haskett,Turnover,21,34
+1:15,Cornell,Jake Kuhn,Missed Three Point Jumper,21,34
+1:15,Harvard,Henry Welsh,Defensive Rebound,21,34
+0:45,Harvard,Noah Kirkwood,Turnover,21,34
+0:45,Harvard,Noah Kirkwood,Foul,21,34
+0:45,Harvard,None,None,21,34
+0:39,Cornell,Matt Morgan,Missed Three Point Jumper,21,34
+0:39,Cornell,Bryan Knapp,Offensive Rebound,21,34
+0:19,Cornell,Matt Morgan,Turnover,21,34
+0:00,Harvard,None,None,21,34
+19:51,Cornell,Jimmy Boeheim,Turnover,21,34
+19:51,Harvard,Christian Juzang,Steal,21,34
+19:40,Harvard,Chris Lewis,Missed Jumper,21,34
+19:40,Cornell,Matt Morgan,Defensive Rebound,21,34
+19:36,Harvard,Christian Juzang,Foul,21,34
+19:24,Cornell,Matt Morgan,Turnover,21,34
+19:00,Harvard,Bryce Aiken,Jumper,21,36
+18:40,Cornell,Josh Warren,Three Point Jumper,24,36
+18:02,Harvard,Harvard ,Turnover,24,36
+17:41,Cornell,Joel Davis,Layup,26,36
+17:29,Harvard,Christian Juzang,Three Point Jumper,26,39
+17:16,Cornell,Terrance McBride,Missed Layup,26,39
+17:16,Harvard,Chris Lewis,Block,26,39
+17:16,Cornell,Cornell,Offensive Rebound,26,39
+17:13,Harvard,Robert Baker,Foul,26,39
+17:07,Cornell,Terrance McBride,Turnover,26,39
+16:43,Harvard,Chris Lewis,Missed Jumper,26,39
+16:43,Cornell,Steven Julian,Defensive Rebound,26,39
+16:31,Cornell,Jimmy Boeheim,Missed Three Point Jumper,26,39
+16:31,Harvard,Christian Juzang,Defensive Rebound,26,39
+16:13,Harvard,Robert Baker,Missed Jumper,26,39
+16:13,Cornell,Josh Warren,Defensive Rebound,26,39
+16:06,Cornell,Terrance McBride,Layup,28,39
+15:55,Harvard,None,None,28,39
+15:43,Harvard,Bryce Aiken,Jumper,28,41
+15:33,Harvard,Rio Haskett,Foul,28,41
+15:32,Cornell,Joel Davis,Missed Three Point Jumper,28,41
+15:32,Harvard,Robert Baker,Defensive Rebound,28,41
+15:05,Harvard,Rio Haskett,Missed Three Point Jumper,28,41
+15:05,Cornell,Jimmy Boeheim,Defensive Rebound,28,41
+14:58,Harvard,Noah Kirkwood,Foul,28,41
+14:39,Cornell,Josh Warren,Three Point Jumper,31,41
+14:18,Harvard,Henry Welsh,Turnover,31,41
+14:18,Cornell,Bryan Knapp,Steal,31,41
+14:14,Cornell,Jimmy Boeheim,Three Point Jumper,34,41
+14:09,Harvard,None,None,34,41
+14:09,Harvard,None,None,34,41
+13:52,Harvard,Bryce Aiken,Turnover,34,41
+13:36,Harvard,Henry Welsh,Foul,34,41
+13:36,Cornell,Josh Warren,Free Throw,35,41
+13:36,Cornell,Josh Warren,Free Throw,36,41
+13:17,Cornell,Jack Gordon,Foul,36,41
+13:10,Cornell,Matt Morgan,Foul,36,41
+13:06,Harvard,Bryce Aiken,Turnover,36,41
+12:51,Cornell,Matt Morgan,Turnover,36,41
+12:50,Harvard,Bryce Aiken,Steal,36,41
+12:48,Cornell,Troy Whiteside,Foul,36,41
+12:48,Harvard,Bryce Aiken,Missed Free Throw,36,41
+12:48,Harvard,None,Team Rebound,36,41
+12:48,Harvard,Bryce Aiken,Free Throw,36,42
+12:33,Cornell,Josh Warren,Missed Three Point Jumper,36,42
+12:33,Harvard,Rio Haskett,Defensive Rebound,36,42
+12:25,Cornell,Matt Morgan,Foul,36,42
+12:06,Harvard,Rio Haskett,Layup,36,44
+11:52,Cornell,Bryan Knapp,Missed Layup,36,44
+11:52,Harvard,Noah Kirkwood,Defensive Rebound,36,44
+11:30,Harvard,Rio Haskett,Turnover,36,44
+11:30,Harvard,None,None,36,44
+11:17,Cornell,Jimmy Boeheim,Layup,38,44
+10:56,Harvard,Chris Lewis,Missed Layup,38,44
+10:56,Cornell,Steven Julian,Defensive Rebound,38,44
+10:43,Cornell,Jimmy Boeheim,Three Point Jumper,41,44
+10:16,Harvard,Noah Kirkwood,Three Point Jumper,41,47
+9:57,Cornell,Jimmy Boeheim,Missed Three Point Jumper,41,47
+9:57,Harvard,Noah Kirkwood,Defensive Rebound,41,47
+9:39,Harvard,Chris Lewis,Turnover,41,47
+9:39,Harvard,Chris Lewis,Foul,41,47
+9:26,Cornell,Jimmy Boeheim,Three Point Jumper,44,47
+9:10,Harvard,Noah Kirkwood,Turnover,44,47
+9:10,Harvard,Noah Kirkwood,Foul,44,47
+8:54,Cornell,Josh Warren,Missed Layup,44,47
+8:54,Harvard,Chris Lewis,Block,44,47
+8:54,Cornell,Cornell,Offensive Rebound,44,47
+8:50,Cornell,None,None,44,47
+8:46,Cornell,Steven Julian,Three Point Jumper,47,47
+8:25,Cornell,Matt Morgan,Foul,47,47
+8:10,Harvard,Christian Juzang,Three Point Jumper,47,50
+7:55,Harvard,None,None,47,50
+7:38,Cornell,Josh Warren,Missed Layup,47,50
+7:38,Cornell,Josh Warren,Offensive Rebound,47,50
+7:35,Harvard,Rio Haskett,Foul,47,50
+7:35,Cornell,Josh Warren,Free Throw,48,50
+7:35,Cornell,Josh Warren,Free Throw,49,50
+7:19,Harvard,Bryce Aiken,Turnover,49,50
+7:18,Cornell,Josh Warren,Steal,49,50
+7:03,Cornell,Jimmy Boeheim,Missed Three Point Jumper,49,50
+7:03,Harvard,Rio Haskett,Defensive Rebound,49,50
+7:02,Cornell,Jake Kuhn,Foul,49,50
+6:52,Harvard,Rio Haskett,Turnover,49,50
+6:28,Cornell,Matt Morgan,Turnover,49,50
+6:27,Harvard,Chris Lewis,Steal,49,50
+6:09,Cornell,Steven Julian,Foul,49,50
+6:09,Harvard,Chris Lewis,Free Throw,49,51
+6:09,Harvard,Chris Lewis,Free Throw,49,52
+5:55,Harvard,Rio Haskett,Foul,49,52
+5:55,Cornell,Matt Morgan,Free Throw,50,52
+5:55,Cornell,Matt Morgan,Free Throw,51,52
+5:46,Cornell,Terrance McBride,Foul,51,52
+5:46,Harvard,Rio Haskett,Free Throw,51,53
+5:46,Harvard,Rio Haskett,Missed Free Throw,51,53
+5:46,Harvard,Chris Lewis,Offensive Rebound,51,53
+5:44,Harvard,Chris Lewis,Dunk,51,55
+5:32,Harvard,Robert Baker,Foul,51,55
+5:32,Cornell,Matt Morgan,Free Throw,52,55
+5:32,Cornell,Matt Morgan,Free Throw,53,55
+5:04,Harvard,Chris Lewis,Missed Jumper,53,55
+5:04,Cornell,Steven Julian,Defensive Rebound,53,55
+4:46,Cornell,Jimmy Boeheim,Missed Layup,53,55
+4:46,Harvard,Chris Lewis,Defensive Rebound,53,55
+4:15,Harvard,Bryce Aiken,Jumper,53,57
+4:02,Cornell,Terrance McBride,Layup,55,57
+4:00,Cornell,None,None,55,57
+4:00,Harvard,None,None,55,57
+3:50,Harvard,Harvard ,Turnover,55,57
+3:36,Harvard,Christian Juzang,Foul,55,57
+3:36,Cornell,Matt Morgan,Free Throw,56,57
+3:36,Cornell,Matt Morgan,Free Throw,57,57
+3:36,Cornell,Matt Morgan,Free Throw,58,57
+3:20,Cornell,Jack Gordon,Foul,58,57
+3:20,Harvard,Christian Juzang,Free Throw,58,58
+3:20,Harvard,Christian Juzang,Free Throw,58,59
+3:10,Cornell,Jack Gordon,Missed Three Point Jumper,58,59
+3:10,Harvard,Chris Lewis,Defensive Rebound,58,59
+2:44,Harvard,Bryce Aiken,Missed Three Point Jumper,58,59
+2:44,Cornell,Steven Julian,Defensive Rebound,58,59
+2:42,Harvard,Bryce Aiken,Foul,58,59
+2:42,Cornell,Steven Julian,Free Throw,59,59
+2:42,Cornell,Steven Julian,Missed Free Throw,59,59
+2:42,Harvard,Danilo Djuricic,Defensive Rebound,59,59
+2:34,Harvard,Bryce Aiken,Turnover,59,59
+2:34,Cornell,Terrance McBride,Steal,59,59
+2:05,Cornell,Matt Morgan,Layup,61,59
+2:05,Harvard,Chris Lewis,Foul,61,59
+2:05,Cornell,Matt Morgan,Free Throw,62,59
+1:48,Harvard,Christian Juzang,Jumper,62,61
+1:30,Cornell,Terrance McBride,Missed Jumper,62,61
+1:30,Harvard,Chris Lewis,Defensive Rebound,62,61
+1:19,Harvard,Bryce Aiken,Turnover,62,61
+1:18,Cornell,Steven Julian,Steal,62,61
+1:15,Cornell,Terrance McBride,Missed Layup,62,61
+1:15,Cornell,Steven Julian,Offensive Rebound,62,61
+1:09,Harvard,Noah Kirkwood,Foul,62,61
+1:09,Cornell,Steven Julian,Missed Free Throw,62,61
+1:09,Cornell,None,Team Rebound,62,61
+1:09,Cornell,Steven Julian,Missed Free Throw,62,61
+1:09,Harvard,Rio Haskett,Defensive Rebound,62,61
+0:58,Harvard,Christian Juzang,Missed Three Point Jumper,62,61
+0:58,Cornell,Cornell,Defensive Rebound,62,61
+0:33,Cornell,Terrance McBride,Three Point Jumper,65,61
+0:24,Cornell,Terrance McBride,Missed Three Point Jumper,65,61
+0:24,Cornell,Josh Warren,Offensive Rebound,65,61
+0:13,Harvard,Danilo Djuricic,Missed Three Point Jumper,65,61
+0:13,Harvard,Christian Juzang,Offensive Rebound,65,61
+0:02,Harvard,Danilo Djuricic,Turnover,65,61
+0:02,Harvard,Danilo Djuricic,Foul,65,61
+0:02,Cornell,Terrance McBride,Free Throw,66,61
+0:02,Cornell,Terrance McBride,Free Throw,67,61
+0:00,Harvard,None,None,67,61

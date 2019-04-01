@@ -1,0 +1,366 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Providence,None,None,0,0
+19:41,Providence,Maliek White,Turnover,0,0
+19:41,Arkansas,Gabe Osabuohien,Steal,0,0
+19:34,Arkansas,Adrio Bailey,Layup,2,0
+19:34,Providence,Nate Watson,Foul,2,0
+19:34,Arkansas,Adrio Bailey,Free Throw,3,0
+19:12,Providence,Nate Watson,Missed Layup,3,0
+19:12,Arkansas,Gabe Osabuohien,Block,3,0
+19:12,Arkansas,Jalen Harris,Defensive Rebound,3,0
+18:55,Arkansas,Gabe Osabuohien,Missed Layup,3,0
+18:55,Providence,Nate Watson,Block,3,0
+18:55,Providence,David Duke,Defensive Rebound,3,0
+18:55,Arkansas,Adrio Bailey,Foul,3,0
+18:55,Providence,Alpha Diallo,Missed Free Throw,3,0
+18:55,Providence,None,Team Rebound,3,0
+18:55,Providence,Alpha Diallo,Missed Free Throw,3,0
+18:55,Arkansas,Isaiah Joe,Defensive Rebound,3,0
+18:39,Arkansas,Desi Sills,Three Point Jumper,6,0
+18:16,Providence,A.J. Reeves,Missed Three Point Jumper,6,0
+18:16,Arkansas,Gabe Osabuohien,Defensive Rebound,6,0
+18:02,Arkansas,Isaiah Joe,Missed Jumper,6,0
+18:02,Providence,A.J. Reeves,Defensive Rebound,6,0
+17:50,Providence,Nate Watson,Layup,6,2
+17:50,Arkansas,Gabe Osabuohien,Foul,6,2
+17:50,Providence,Nate Watson,Free Throw,6,3
+17:33,Arkansas,Adrio Bailey,Missed Jumper,6,3
+17:33,Providence,A.J. Reeves,Defensive Rebound,6,3
+17:22,Providence,Maliek White,Missed Three Point Jumper,6,3
+17:22,Arkansas,Adrio Bailey,Defensive Rebound,6,3
+17:09,Arkansas,Gabe Osabuohien,Three Point Jumper,9,3
+16:54,Arkansas,Adrio Bailey,Foul,9,3
+16:42,Providence,David Duke,Layup,9,5
+16:29,Arkansas,Gabe Osabuohien,Missed Jumper,9,5
+16:29,Providence,Kalif Young,Block,9,5
+16:29,Arkansas,Gabe Osabuohien,Offensive Rebound,9,5
+16:27,Arkansas,Desi Sills,Missed Layup,9,5
+16:27,Providence,Alpha Diallo,Defensive Rebound,9,5
+16:18,Providence,A.J. Reeves,Missed Three Point Jumper,9,5
+16:18,Arkansas,Isaiah Joe,Defensive Rebound,9,5
+16:09,Arkansas,Isaiah Joe,Three Point Jumper,12,5
+15:44,Providence,None,None,12,5
+15:38,Providence,Maliek White,Missed Jumper,12,5
+15:38,Arkansas,Jalen Harris,Defensive Rebound,12,5
+15:30,Arkansas,Jalen Harris,Missed Jumper,12,5
+15:30,Providence,Maliek White,Block,12,5
+15:30,Providence,Alpha Diallo,Defensive Rebound,12,5
+15:22,Providence,Maliek White,Layup,12,7
+15:14,Arkansas,Jalen Harris,Turnover,12,7
+15:14,Providence,Alpha Diallo,Steal,12,7
+15:06,Providence,Alpha Diallo,Foul,12,7
+15:06,Providence,Alpha Diallo,Turnover,12,7
+14:48,Arkansas,Reggie Chaney,Turnover,12,7
+14:48,Providence,Alpha Diallo,Steal,12,7
+14:41,Providence,Isaiah Jackson,Missed Three Point Jumper,12,7
+14:41,Providence,Kalif Young,Offensive Rebound,12,7
+14:17,Providence,Kalif Young,Layup,12,9
+14:11,Arkansas,Ethan Henderson,Dunk,14,9
+13:59,Providence,Isaiah Jackson,Missed Three Point Jumper,14,9
+13:59,Arkansas,Arkansas,Defensive Rebound,14,9
+13:35,Arkansas,Keyshawn Embery-Simpson,Three Point Jumper,17,9
+13:12,Providence,Kalif Young,Missed Layup,17,9
+13:12,Arkansas,Reggie Chaney,Block,17,9
+13:12,Arkansas,Keyshawn Embery-Simpson,Defensive Rebound,17,9
+12:57,Arkansas,Mason Jones,Three Point Jumper,20,9
+12:56,Providence,None,None,20,9
+12:40,Providence,Makai Ashton-Langford,Missed Three Point Jumper,20,9
+12:40,Arkansas,Reggie Chaney,Defensive Rebound,20,9
+12:12,Providence,Jimmy Nichols Jr.,Foul,20,9
+12:09,Arkansas,Mason Jones,Missed Jumper,20,9
+12:09,Providence,Jimmy Nichols Jr.,Defensive Rebound,20,9
+11:59,Providence,Kalif Young,Layup,20,11
+11:50,Arkansas,Reggie Chaney,Missed Jumper,20,11
+11:50,Providence,Jimmy Nichols Jr.,Block,20,11
+11:50,Providence,Drew Edwards,Defensive Rebound,20,11
+11:41,Providence,Alpha Diallo,Layup,20,13
+11:37,Arkansas,None,None,20,13
+11:16,Arkansas,Desi Sills,Turnover,20,13
+11:09,Providence,Alpha Diallo,Dunk,20,15
+10:42,Arkansas,Reggie Chaney,Layup,22,15
+10:12,Providence,Drew Edwards,Missed Jumper,22,15
+10:12,Arkansas,Reggie Chaney,Block,22,15
+10:12,Arkansas,Jalen Harris,Defensive Rebound,22,15
+10:06,Arkansas,Reggie Chaney,Layup,24,15
+9:44,Arkansas,Gabe Osabuohien,Foul,24,15
+9:37,Providence,Jimmy Nichols Jr.,Missed Three Point Jumper,24,15
+9:37,Arkansas,Jalen Harris,Defensive Rebound,24,15
+9:23,Arkansas,Gabe Osabuohien,Layup,26,15
+9:01,Providence,Makai Ashton-Langford,Turnover,26,15
+9:01,Arkansas,Jalen Harris,Steal,26,15
+8:58,Providence,Drew Edwards,Foul,26,15
+8:43,Arkansas,Isaiah Joe,Missed Jumper,26,15
+8:43,Arkansas,Reggie Chaney,Offensive Rebound,26,15
+8:43,Arkansas,None,None,26,15
+8:43,Providence,Nate Watson,Defensive Rebound,26,15
+8:30,Providence,A.J. Reeves,Turnover,26,15
+8:18,Arkansas,Ethan Henderson,Layup,28,15
+7:57,Providence,A.J. Reeves,Missed Three Point Jumper,28,15
+7:57,Arkansas,Ethan Henderson,Defensive Rebound,28,15
+7:44,Providence,A.J. Reeves,Foul,28,15
+7:44,Providence,None,None,28,15
+7:44,Arkansas,Jalen Harris,Free Throw,29,15
+7:44,Arkansas,Jalen Harris,Free Throw,30,15
+7:29,Providence,Nate Watson,Jumper,30,17
+7:14,Arkansas,Isaiah Joe,Missed Three Point Jumper,30,17
+7:14,Arkansas,Ethan Henderson,Offensive Rebound,30,17
+6:56,Arkansas,Jalen Harris,Layup,32,17
+6:28,Providence,David Duke,Missed Jumper,32,17
+6:28,Arkansas,Mason Jones,Defensive Rebound,32,17
+6:11,Arkansas,Adrio Bailey,Turnover,32,17
+6:11,Providence,Alpha Diallo,Steal,32,17
+6:06,Arkansas,Mason Jones,Foul,32,17
+6:06,Providence,A.J. Reeves,Missed Free Throw,32,17
+6:06,Providence,None,Team Rebound,32,17
+6:06,Providence,A.J. Reeves,Missed Free Throw,32,17
+6:06,Arkansas,Ethan Henderson,Defensive Rebound,32,17
+5:56,Arkansas,Isaiah Joe,Missed Three Point Jumper,32,17
+5:56,Providence,Alpha Diallo,Defensive Rebound,32,17
+5:41,Providence,Nate Watson,Layup,32,19
+5:30,Arkansas,Ethan Henderson,Missed Jumper,32,19
+5:30,Providence,Alpha Diallo,Block,32,19
+5:30,Providence,Alpha Diallo,Defensive Rebound,32,19
+5:00,Providence,David Duke,Missed Jumper,32,19
+5:00,Arkansas,Ethan Henderson,Defensive Rebound,32,19
+4:50,Arkansas,Mason Jones,Layup,34,19
+4:37,Providence,David Duke,Missed Three Point Jumper,34,19
+4:37,Arkansas,Ethan Henderson,Defensive Rebound,34,19
+4:34,Providence,Nate Watson,Foul,34,19
+4:20,Arkansas,Desi Sills,Missed Three Point Jumper,34,19
+4:20,Providence,Isaiah Jackson,Defensive Rebound,34,19
+4:06,Arkansas,Reggie Chaney,Foul,34,19
+4:06,Providence,Alpha Diallo,Missed Free Throw,34,19
+4:06,Providence,None,Team Rebound,34,19
+4:06,Providence,Alpha Diallo,Free Throw,34,20
+3:55,Arkansas,Reggie Chaney,Layup,36,20
+3:45,Providence,Isaiah Jackson,Layup,36,22
+3:45,Providence,None,None,36,22
+3:45,Providence,None,None,36,22
+3:45,Arkansas,Desi Sills,Foul,36,22
+3:45,Providence,Isaiah Jackson,Free Throw,36,23
+3:37,Arkansas,Mason Jones,Missed Three Point Jumper,36,23
+3:37,Arkansas,Gabe Osabuohien,Offensive Rebound,36,23
+3:35,Providence,Kalif Young,Foul,36,23
+3:32,Providence,Isaiah Jackson,Foul,36,23
+3:32,Arkansas,Mason Jones,Free Throw,37,23
+3:32,Arkansas,Mason Jones,Free Throw,38,23
+3:18,Providence,David Duke,Missed Layup,38,23
+3:18,Arkansas,Reggie Chaney,Block,38,23
+3:18,Arkansas,Gabe Osabuohien,Defensive Rebound,38,23
+3:08,Providence,Kalif Young,Foul,38,23
+3:08,Arkansas,Isaiah Joe,Free Throw,39,23
+3:08,Arkansas,Isaiah Joe,Missed Free Throw,39,23
+3:08,Providence,Kalif Young,Defensive Rebound,39,23
+2:39,Arkansas,Gabe Osabuohien,Foul,39,23
+2:39,Providence,Maliek White,Free Throw,39,24
+2:39,Providence,Maliek White,Free Throw,39,25
+2:14,Arkansas,Mason Jones,Turnover,39,25
+2:14,Providence,Isaiah Jackson,Steal,39,25
+2:07,Providence,David Duke,Layup,39,27
+2:02,Arkansas,Desi Sills,Turnover,39,27
+2:02,Providence,Isaiah Jackson,Steal,39,27
+1:36,Providence,Kris Monroe,Missed Three Point Jumper,39,27
+1:36,Arkansas,Isaiah Joe,Defensive Rebound,39,27
+1:19,Arkansas,Isaiah Joe,Turnover,39,27
+1:11,Providence,David Duke,Layup,39,29
+0:41,Arkansas,Reggie Chaney,Layup,41,29
+0:23,Providence,Kalif Young,Layup,41,31
+0:04,Providence,Maliek White,Foul,41,31
+0:04,Arkansas,Jalen Harris,Missed Free Throw,41,31
+0:04,Arkansas,None,Team Rebound,41,31
+0:04,Arkansas,Jalen Harris,Free Throw,42,31
+0:02,Providence,Isaiah Jackson,Missed Three Point Jumper,42,31
+0:02,Arkansas,Isaiah Joe,Block,42,31
+0:02,Providence,Providence,Offensive Rebound,42,31
+0:00,Providence,None,None,42,31
+20:00,Arkansas,None,None,42,31
+19:47,Arkansas,Reggie Chaney,Layup,44,31
+19:30,Providence,David Duke,Turnover,44,31
+19:30,Arkansas,Jalen Harris,Steal,44,31
+19:24,Arkansas,Jalen Harris,Missed Jumper,44,31
+19:24,Providence,Alpha Diallo,Defensive Rebound,44,31
+19:15,Arkansas,Desi Sills,Foul,44,31
+19:15,Providence,Maliek White,Free Throw,44,32
+19:15,Providence,Maliek White,Free Throw,44,33
+18:58,Arkansas,Jalen Harris,Turnover,44,33
+18:58,Providence,Alpha Diallo,Steal,44,33
+18:43,Arkansas,Isaiah Joe,Foul,44,33
+18:43,Arkansas,Desi Sills,Foul,44,33
+18:43,Providence,David Duke,Missed Free Throw,44,33
+18:43,Providence,None,Team Rebound,44,33
+18:43,Providence,David Duke,Free Throw,44,34
+18:27,Arkansas,Mason Jones,Three Point Jumper,47,34
+18:02,Providence,Maliek White,Turnover,47,34
+18:02,Arkansas,Jalen Harris,Steal,47,34
+17:52,Arkansas,Isaiah Joe,Missed Three Point Jumper,47,34
+17:52,Arkansas,Isaiah Joe,Offensive Rebound,47,34
+17:38,Arkansas,Mason Jones,Missed Three Point Jumper,47,34
+17:38,Providence,Nate Watson,Defensive Rebound,47,34
+17:27,Providence,A.J. Reeves,Dunk,47,36
+17:10,Arkansas,Isaiah Joe,Layup,49,36
+17:10,Providence,Maliek White,Foul,49,36
+17:10,Arkansas,Isaiah Joe,Missed Free Throw,49,36
+17:10,Providence,Nate Watson,Defensive Rebound,49,36
+16:59,Providence,Nate Watson,Missed Layup,49,36
+16:59,Providence,Providence,Offensive Rebound,49,36
+16:59,Arkansas,Adrio Bailey,Foul,49,36
+16:59,Providence,Alpha Diallo,Missed Three Point Jumper,49,36
+16:59,Arkansas,Reggie Chaney,Defensive Rebound,49,36
+16:39,Arkansas,Isaiah Joe,Missed Three Point Jumper,49,36
+16:39,Providence,Alpha Diallo,Defensive Rebound,49,36
+16:12,Providence,A.J. Reeves,Missed Three Point Jumper,49,36
+16:12,Providence,Nate Watson,Offensive Rebound,49,36
+16:12,Providence,A.J. Reeves,Offensive Rebound,49,36
+16:05,Providence,Alpha Diallo,Missed Layup,49,36
+16:05,Arkansas,Reggie Chaney,Block,49,36
+16:05,Providence,Nate Watson,Offensive Rebound,49,36
+16:01,Providence,Isaiah Jackson,Turnover,49,36
+16:01,Providence,Isaiah Jackson,Foul,49,36
+16:00,Providence,None,None,49,36
+15:44,Arkansas,Isaiah Joe,Three Point Jumper,52,36
+15:23,Arkansas,Mason Jones,Foul,52,36
+15:23,Providence,Nate Watson,Free Throw,52,37
+15:23,Providence,Nate Watson,Free Throw,52,38
+15:19,Arkansas,Reggie Chaney,Layup,54,38
+14:52,Arkansas,Reggie Chaney,Foul,54,38
+14:52,Providence,Alpha Diallo,Free Throw,54,39
+14:52,Providence,Alpha Diallo,Missed Free Throw,54,39
+14:52,Providence,Alpha Diallo,Offensive Rebound,54,39
+14:48,Providence,Alpha Diallo,Missed Layup,54,39
+14:48,Arkansas,Reggie Chaney,Defensive Rebound,54,39
+14:42,Arkansas,Jalen Harris,Turnover,54,39
+14:42,Providence,Isaiah Jackson,Steal,54,39
+14:36,Providence,Drew Edwards,Layup,54,41
+14:30,Arkansas,Jalen Harris,Turnover,54,41
+14:30,Providence,Kalif Young,Steal,54,41
+14:24,Arkansas,Jalen Harris,Foul,54,41
+14:24,Arkansas,None,None,54,41
+14:24,Providence,Alpha Diallo,Free Throw,54,42
+14:24,Providence,Alpha Diallo,Free Throw,54,43
+14:10,Arkansas,Gabe Osabuohien,Jumper,56,43
+13:47,Providence,Drew Edwards,Three Point Jumper,56,46
+13:36,Arkansas,Desi Sills,Three Point Jumper,59,46
+13:17,Providence,Alpha Diallo,Missed Layup,59,46
+13:17,Arkansas,Reggie Chaney,Block,59,46
+13:17,Arkansas,Gabe Osabuohien,Defensive Rebound,59,46
+12:52,Arkansas,Reggie Chaney,Turnover,59,46
+12:52,Providence,Alpha Diallo,Steal,59,46
+12:48,Arkansas,Keyshawn Embery-Simpson,Foul,59,46
+12:48,Providence,Maliek White,Missed Free Throw,59,46
+12:48,Providence,None,Team Rebound,59,46
+12:48,Providence,Maliek White,Free Throw,59,47
+12:25,Arkansas,Mason Jones,Three Point Jumper,62,47
+11:51,Providence,Kalif Young,Missed Three Point Jumper,62,47
+11:51,Providence,Alpha Diallo,Offensive Rebound,62,47
+11:44,Providence,Isaiah Jackson,Missed Jumper,62,47
+11:44,Providence,Kalif Young,Offensive Rebound,62,47
+11:36,Providence,Alpha Diallo,Layup,62,49
+11:19,Arkansas,Desi Sills,Turnover,62,49
+11:19,Providence,None,None,62,49
+11:14,Providence,Drew Edwards,Missed Three Point Jumper,62,49
+11:14,Arkansas,Mason Jones,Defensive Rebound,62,49
+10:51,Arkansas,Ethan Henderson,Missed Jumper,62,49
+10:51,Providence,Alpha Diallo,Defensive Rebound,62,49
+10:22,Providence,Alpha Diallo,Missed Jumper,62,49
+10:22,Arkansas,Gabe Osabuohien,Defensive Rebound,62,49
+10:02,Providence,Isaiah Jackson,Foul,62,49
+9:45,Arkansas,Desi Sills,Missed Three Point Jumper,62,49
+9:45,Arkansas,Mason Jones,Offensive Rebound,62,49
+9:37,Arkansas,Isaiah Joe,Missed Three Point Jumper,62,49
+9:37,Providence,Makai Ashton-Langford,Block,62,49
+9:37,Arkansas,Gabe Osabuohien,Offensive Rebound,62,49
+9:37,Arkansas,Gabe Osabuohien,Layup,64,49
+9:37,Providence,Kalif Young,Foul,64,49
+9:37,Arkansas,Gabe Osabuohien,Free Throw,65,49
+9:15,Providence,Makai Ashton-Langford,Turnover,65,49
+9:15,Arkansas,Desi Sills,Steal,65,49
+9:08,Arkansas,Ethan Henderson,Dunk,67,49
+9:08,Providence,None,None,67,49
+8:54,Arkansas,Gabe Osabuohien,Foul,67,49
+8:54,Providence,Maliek White,Free Throw,67,50
+8:54,Providence,Maliek White,Free Throw,67,51
+8:41,Arkansas,Adrio Bailey,Dunk,69,51
+8:11,Arkansas,Jalen Harris,Foul,69,51
+8:00,Providence,None,None,69,51
+7:41,Providence,Isaiah Jackson,Missed Three Point Jumper,69,51
+7:41,Providence,Nate Watson,Offensive Rebound,69,51
+7:41,Providence,None,None,69,53
+7:17,Arkansas,Ethan Henderson,Missed Layup,69,53
+7:17,Providence,David Duke,Defensive Rebound,69,53
+7:07,Providence,Maliek White,Three Point Jumper,69,56
+7:07,Providence,None,None,69,56
+6:39,Arkansas,Jalen Harris,Missed Layup,69,56
+6:39,Arkansas,Reggie Chaney,Offensive Rebound,69,56
+6:39,Arkansas,None,None,71,56
+6:25,Arkansas,Reggie Chaney,Foul,71,56
+6:25,Providence,Nate Watson,Free Throw,71,57
+6:25,Providence,Nate Watson,Free Throw,71,58
+6:22,Providence,Maliek White,Foul,71,58
+5:54,Arkansas,Isaiah Joe,Missed Three Point Jumper,71,58
+5:54,Providence,Alpha Diallo,Defensive Rebound,71,58
+5:46,Providence,Maliek White,Turnover,71,58
+5:25,Providence,A.J. Reeves,Foul,71,58
+5:25,Arkansas,Desi Sills,Free Throw,72,58
+5:25,Arkansas,Desi Sills,Free Throw,73,58
+5:17,Providence,Alpha Diallo,Missed Three Point Jumper,73,58
+5:17,Providence,Nate Watson,Offensive Rebound,73,58
+5:06,Providence,Maliek White,Missed Three Point Jumper,73,58
+5:06,Arkansas,Mason Jones,Defensive Rebound,73,58
+4:55,Arkansas,Jalen Harris,Dunk,75,58
+4:41,Providence,Alpha Diallo,Jumper,75,60
+4:20,Arkansas,Adrio Bailey,Missed Jumper,75,60
+4:20,Providence,David Duke,Block,75,60
+4:20,Providence,David Duke,Defensive Rebound,75,60
+4:07,Providence,Isaiah Jackson,Missed Jumper,75,60
+4:07,Arkansas,Reggie Chaney,Block,75,60
+4:07,Providence,Maliek White,Offensive Rebound,75,60
+4:00,Providence,Alpha Diallo,Missed Three Point Jumper,75,60
+4:00,Arkansas,Isaiah Joe,Defensive Rebound,75,60
+3:59,Providence,Nate Watson,Foul,75,60
+3:59,Providence,None,None,75,60
+3:59,Arkansas,Isaiah Joe,Free Throw,76,60
+3:59,Arkansas,Isaiah Joe,Free Throw,77,60
+3:40,Providence,Nate Watson,Missed Layup,77,60
+3:40,Arkansas,Adrio Bailey,Defensive Rebound,77,60
+3:28,Arkansas,Adrio Bailey,Missed Jumper,77,60
+3:28,Providence,Nate Watson,Defensive Rebound,77,60
+3:19,Providence,Maliek White,Missed Layup,77,60
+3:19,Providence,Alpha Diallo,Offensive Rebound,77,60
+3:00,Providence,Alpha Diallo,Missed Layup,77,60
+3:00,Arkansas,Reggie Chaney,Block,77,60
+3:00,Providence,Maliek White,Offensive Rebound,77,60
+2:51,Providence,Maliek White,Jumper,77,62
+2:51,Arkansas,Adrio Bailey,Turnover,77,62
+2:51,Providence,Maliek White,Steal,77,62
+2:50,Providence,Maliek White,Dunk,77,64
+2:23,Arkansas,Jalen Harris,Turnover,77,64
+2:23,Providence,Alpha Diallo,Steal,77,64
+2:19,Providence,A.J. Reeves,Missed Layup,77,64
+2:19,Providence,Jimmy Nichols Jr.,Offensive Rebound,77,64
+2:15,Arkansas,Reggie Chaney,Foul,77,64
+2:15,Providence,Jimmy Nichols Jr.,Free Throw,77,65
+2:15,Providence,Jimmy Nichols Jr.,Free Throw,77,66
+2:13,Providence,A.J. Reeves,Foul,77,66
+2:13,Arkansas,Gabe Osabuohien,Free Throw,78,66
+2:13,Arkansas,Gabe Osabuohien,Missed Free Throw,78,66
+2:13,Providence,A.J. Reeves,Defensive Rebound,78,66
+1:52,Arkansas,Reggie Chaney,Foul,78,66
+1:52,Providence,A.J. Reeves,Missed Free Throw,78,66
+1:52,Providence,None,Team Rebound,78,66
+1:52,Providence,A.J. Reeves,Free Throw,78,67
+1:42,Providence,Alpha Diallo,Foul,78,67
+1:42,Arkansas,Mason Jones,Free Throw,79,67
+1:42,Arkansas,Mason Jones,Free Throw,80,67
+1:31,Providence,Alpha Diallo,Missed Three Point Jumper,80,67
+1:31,Arkansas,Jalen Harris,Block,80,67
+1:31,Arkansas,Gabe Osabuohien,Defensive Rebound,80,67
+1:27,Providence,Maliek White,Foul,80,67
+1:27,Arkansas,Isaiah Joe,Missed Free Throw,80,67
+1:27,Arkansas,None,Team Rebound,80,67
+1:27,Arkansas,Isaiah Joe,Free Throw,81,67
+1:17,Providence,Nate Watson,Dunk,81,69
+0:47,Arkansas,Jalen Harris,Missed Three Point Jumper,81,69
+0:47,Arkansas,Jalen Harris,Offensive Rebound,81,69
+0:26,Arkansas,Mason Jones,Three Point Jumper,84,69
+0:16,Providence,Maliek White,Three Point Jumper,84,72
+0:00,Providence,None,None,84,72

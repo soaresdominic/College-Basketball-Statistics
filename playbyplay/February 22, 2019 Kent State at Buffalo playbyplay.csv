@@ -1,0 +1,364 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Buffalo,None,None,0,0
+19:58,Buffalo,None,None,0,0
+19:45,Buffalo,Montell McRae,Turnover,0,0
+19:32,Kent State,Jaylin Walker,Jumper,2,0
+19:13,Kent State,Philip Whittington,Foul,2,0
+19:07,Buffalo,Jeremy Harris,Jumper,2,2
+18:49,Kent State,Philip Whittington,Missed Layup,2,2
+18:49,Kent State,C.J. Williamson,Offensive Rebound,2,2
+18:42,Kent State,C.J. Williamson,Missed Jumper,2,2
+18:42,Buffalo,CJ Massinburg,Defensive Rebound,2,2
+18:26,Buffalo,Davonta Jordan,Missed Three Point Jumper,2,2
+18:26,Kent State,C.J. Williamson,Defensive Rebound,2,2
+18:16,Kent State,None,None,2,2
+18:09,Kent State,Antonio Williams,Missed Jumper,2,2
+18:09,Kent State,Philip Whittington,Offensive Rebound,2,2
+18:00,Kent State,Philip Whittington,Missed Layup,2,2
+18:00,Buffalo,Jayvon Graves,Defensive Rebound,2,2
+17:38,Buffalo,CJ Massinburg,Jumper,2,4
+17:15,Kent State,C.J. Williamson,Turnover,2,4
+17:15,Buffalo,CJ Massinburg,Steal,2,4
+17:09,Buffalo,Davonta Jordan,Layup,2,6
+16:38,Kent State,Antonio Williams,Missed Jumper,2,6
+16:38,Buffalo,Buffalo,Defensive Rebound,2,6
+16:18,Buffalo,Jayvon Graves,Missed Three Point Jumper,2,6
+16:18,Kent State,Kent State,Defensive Rebound,2,6
+15:54,Kent State,C.J. Williamson,Missed Three Point Jumper,2,6
+15:54,Buffalo,Dontay Caruthers,Defensive Rebound,2,6
+15:40,Buffalo,Nick Perkins,Missed Three Point Jumper,2,6
+15:40,Buffalo,Davonta Jordan,Offensive Rebound,2,6
+15:32,Buffalo,Jayvon Graves,Missed Layup,2,6
+15:32,Kent State,Kent State,Defensive Rebound,2,6
+15:26,Buffalo,None,None,2,6
+15:11,Kent State,Jaylin Walker,Jumper,4,6
+14:47,Buffalo,Jeremy Harris,Missed Three Point Jumper,4,6
+14:47,Buffalo,Jayvon Graves,Offensive Rebound,4,6
+14:36,Buffalo,Nick Perkins,Missed Jumper,4,6
+14:36,Kent State,Antonio Williams,Defensive Rebound,4,6
+14:02,Kent State,Kent State ,Turnover,4,6
+13:50,Buffalo,Nick Perkins,Layup,4,8
+13:39,Buffalo,Dontay Caruthers,Foul,4,8
+13:39,Kent State,Jaylin Walker,Missed Free Throw,4,8
+13:39,Kent State,None,Team Rebound,4,8
+13:39,Kent State,Jaylin Walker,Missed Free Throw,4,8
+13:39,Kent State,None,Team Rebound,4,8
+13:39,Kent State,Jaylin Walker,Missed Free Throw,4,8
+13:39,Buffalo,Jayvon Graves,Defensive Rebound,4,8
+13:34,Kent State,Anthony Roberts,Foul,4,8
+13:34,Buffalo,Dontay Caruthers,Missed Free Throw,4,8
+13:34,Buffalo,None,Team Rebound,4,8
+13:34,Buffalo,Dontay Caruthers,Missed Free Throw,4,8
+13:34,Kent State,Philip Whittington,Defensive Rebound,4,8
+13:19,Buffalo,Jayvon Graves,Foul,4,8
+13:19,Kent State,Antonio Williams,Free Throw,5,8
+13:19,Kent State,Antonio Williams,Free Throw,6,8
+13:03,Buffalo,Jeenathan Williams,Missed Jumper,6,8
+13:03,Kent State,BJ Duling,Block,6,8
+13:03,Buffalo,Buffalo,Offensive Rebound,6,8
+12:58,Buffalo,Dontay Caruthers,Missed Layup,6,8
+12:58,Kent State,Philip Whittington,Defensive Rebound,6,8
+12:36,Kent State,Philip Whittington,Missed Jumper,6,8
+12:36,Kent State,BJ Duling,Offensive Rebound,6,8
+12:31,Kent State,BJ Duling,Missed Jumper,6,8
+12:31,Buffalo,Buffalo,Defensive Rebound,6,8
+12:14,Kent State,BJ Duling,Foul,6,8
+12:09,Buffalo,Dontay Caruthers,Missed Layup,6,8
+12:09,Kent State,BJ Duling,Defensive Rebound,6,8
+11:58,Kent State,Anthony Roberts,Missed Layup,6,8
+11:58,Kent State,Antonio Williams,Offensive Rebound,6,8
+11:52,Kent State,Antonio Williams,Layup,8,8
+11:42,Buffalo,None,None,8,8
+11:28,Buffalo,Buffalo ,Turnover,8,8
+11:18,Kent State,BJ Duling,Foul,8,8
+11:18,Kent State,BJ Duling,Turnover,8,8
+11:11,Buffalo,CJ Massinburg,Turnover,8,8
+10:59,Kent State,Anthony Roberts,Jumper,10,8
+10:47,Buffalo,Jeremy Harris,Jumper,10,10
+10:20,Kent State,Jalen Avery,Missed Three Point Jumper,10,10
+10:20,Kent State,Philip Whittington,Offensive Rebound,10,10
+10:12,Kent State,Philip Whittington,Turnover,10,10
+10:12,Buffalo,Jeremy Harris,Steal,10,10
+10:03,Buffalo,Nick Perkins,Layup,10,12
+10:03,Kent State,Anthony Roberts,Foul,10,12
+10:03,Buffalo,Nick Perkins,Missed Free Throw,10,12
+10:03,Kent State,Philip Whittington,Defensive Rebound,10,12
+9:53,Kent State,Philip Whittington,Turnover,10,12
+9:31,Buffalo,Nick Perkins,Jumper,10,14
+9:17,Kent State,Philip Whittington,Layup,12,14
+9:04,Buffalo,Davonta Jordan,Turnover,12,14
+8:48,Buffalo,Nick Perkins,Foul,12,14
+8:46,Kent State,Jaylin Walker,Missed Jumper,12,14
+8:46,Buffalo,Montell McRae,Defensive Rebound,12,14
+8:38,Buffalo,CJ Massinburg,Layup,12,16
+8:38,Kent State,Antonio Williams,Foul,12,16
+8:38,Buffalo,CJ Massinburg,Free Throw,12,17
+8:26,Kent State,C.J. Williamson,Turnover,12,17
+8:26,Buffalo,Davonta Jordan,Steal,12,17
+8:15,Buffalo,Jeremy Harris,Missed Three Point Jumper,12,17
+8:15,Kent State,C.J. Williamson,Defensive Rebound,12,17
+8:00,Kent State,Jalen Avery,Missed Three Point Jumper,12,17
+8:00,Kent State,Akiean Frederick,Offensive Rebound,12,17
+7:51,Buffalo,CJ Massinburg,Foul,12,17
+7:51,Buffalo,None,None,12,17
+7:51,Kent State,Jaylin Walker,Free Throw,13,17
+7:51,Kent State,Jaylin Walker,Free Throw,14,17
+7:30,Buffalo,Jayvon Graves,Missed Three Point Jumper,14,17
+7:30,Buffalo,CJ Massinburg,Offensive Rebound,14,17
+7:19,Buffalo,Buffalo ,Turnover,14,17
+7:02,Kent State,Antonio Williams,Missed Jumper,14,17
+7:02,Buffalo,Jayvon Graves,Block,14,17
+7:02,Buffalo,Montell McRae,Defensive Rebound,14,17
+6:50,Buffalo,CJ Massinburg,Layup,14,19
+6:31,Kent State,Antonio Williams,Foul,14,19
+6:31,Kent State,Antonio Williams,Turnover,14,19
+6:24,Buffalo,Dontay Caruthers,Missed Layup,14,19
+6:24,Buffalo,Montell McRae,Offensive Rebound,14,19
+6:24,Buffalo,Montell McRae,Dunk,14,21
+6:08,Buffalo,Davonta Jordan,Foul,14,21
+6:08,Kent State,None,None,14,21
+6:01,Kent State,Philip Whittington,Layup,16,21
+5:36,Buffalo,Jayvon Graves,Missed Jumper,16,21
+5:36,Kent State,Philip Whittington,Defensive Rebound,16,21
+5:26,Kent State,C.J. Williamson,Turnover,16,21
+5:07,Buffalo,Jeremy Harris,Missed Three Point Jumper,16,21
+5:07,Kent State,Mitch Peterson,Block,16,21
+5:07,Kent State,Mitch Peterson,Defensive Rebound,16,21
+4:58,Kent State,Jaylin Walker,Jumper,18,21
+4:40,Buffalo,Montell McRae,Foul,18,21
+4:40,Buffalo,Montell McRae,Turnover,18,21
+4:22,Kent State,Anthony Roberts,Jumper,20,21
+4:06,Buffalo,Ronaldo Segu,Layup,20,23
+3:43,Kent State,Anthony Roberts,Three Point Jumper,23,23
+3:33,Buffalo,Dontay Caruthers,Foul,23,23
+3:33,Buffalo,Dontay Caruthers,Turnover,23,23
+3:33,Buffalo,None,None,23,23
+3:16,Kent State,Jaylin Walker,Jumper,25,23
+2:53,Buffalo,None,None,25,23
+2:46,Buffalo,Jeenathan Williams,Missed Jumper,25,23
+2:46,Kent State,Philip Whittington,Defensive Rebound,25,23
+2:22,Buffalo,Jeenathan Williams,Foul,25,23
+2:22,Kent State,Philip Whittington,Missed Free Throw,25,23
+2:22,Buffalo,Nick Perkins,Defensive Rebound,25,23
+2:10,Kent State,Philip Whittington,Foul,25,23
+2:10,Buffalo,Nick Perkins,Free Throw,25,24
+2:10,Buffalo,Nick Perkins,Free Throw,25,25
+1:58,Kent State,BJ Duling,Layup,27,25
+1:48,Buffalo,Nick Perkins,Missed Three Point Jumper,27,25
+1:48,Buffalo,CJ Massinburg,Offensive Rebound,27,25
+1:41,Buffalo,CJ Massinburg,Missed Jumper,27,25
+1:41,Kent State,C.J. Williamson,Defensive Rebound,27,25
+1:27,Kent State,Anthony Roberts,Turnover,27,25
+1:22,Buffalo,Nick Perkins,Three Point Jumper,27,28
+1:01,Kent State,Anthony Roberts,Missed Jumper,27,28
+1:01,Buffalo,Jayvon Graves,Block,27,28
+1:01,Buffalo,Nick Perkins,Defensive Rebound,27,28
+0:48,Buffalo,Davonta Jordan,Missed Three Point Jumper,27,28
+0:48,Buffalo,Nick Perkins,Offensive Rebound,27,28
+0:44,Buffalo,Nick Perkins,Layup,27,30
+0:40,Kent State,Jaylin Walker,Turnover,27,30
+0:40,Buffalo,Davonta Jordan,Steal,27,30
+0:32,Buffalo,CJ Massinburg,Missed Three Point Jumper,27,30
+0:32,Buffalo,Jayvon Graves,Offensive Rebound,27,30
+0:32,Buffalo,Jayvon Graves,Dunk,27,32
+0:07,Kent State,Jalen Avery,Foul,27,32
+0:07,Kent State,Jalen Avery,Turnover,27,32
+0:07,Buffalo,None,None,27,32
+0:04,Buffalo,Nick Perkins,Three Point Jumper,27,35
+0:00,Buffalo,None,None,27,35
+20:00,Kent State,None,None,27,35
+19:52,Kent State,Jaylin Walker,Missed Three Point Jumper,27,35
+19:52,Kent State,C.J. Williamson,Offensive Rebound,27,35
+19:43,Kent State,C.J. Williamson,Turnover,27,35
+19:43,Buffalo,Nick Perkins,Steal,27,35
+19:37,Kent State,Philip Whittington,Foul,27,35
+19:26,Buffalo,Nick Perkins,Missed Jumper,27,35
+19:26,Kent State,Philip Whittington,Block,27,35
+19:26,Kent State,Jaylin Walker,Defensive Rebound,27,35
+19:20,Kent State,Jalen Avery,Missed Three Point Jumper,27,35
+19:20,Kent State,Philip Whittington,Offensive Rebound,27,35
+19:05,Kent State,Antonio Williams,Layup,29,35
+18:44,Buffalo,Jeremy Harris,Layup,29,37
+18:24,Kent State,Jaylin Walker,Missed Three Point Jumper,29,37
+18:24,Buffalo,Davonta Jordan,Defensive Rebound,29,37
+18:16,Buffalo,Jayvon Graves,Three Point Jumper,29,40
+18:04,Kent State,None,None,29,40
+17:51,Kent State,Akiean Frederick,Turnover,29,40
+17:37,Buffalo,Jeremy Harris,Missed Jumper,29,40
+17:37,Buffalo,Nick Perkins,Offensive Rebound,29,40
+17:24,Kent State,Akiean Frederick,Foul,29,40
+17:24,Buffalo,Nick Perkins,Free Throw,29,41
+17:24,Buffalo,Nick Perkins,Free Throw,29,42
+17:00,Kent State,Antonio Williams,Jumper,31,42
+16:49,Buffalo,CJ Massinburg,Three Point Jumper,31,45
+16:22,Kent State,Anthony Roberts,Turnover,31,45
+16:22,Buffalo,Nick Perkins,Steal,31,45
+16:10,Buffalo,CJ Massinburg,Missed Three Point Jumper,31,45
+16:10,Kent State,Philip Whittington,Defensive Rebound,31,45
+15:55,Kent State,Philip Whittington,Missed Layup,31,45
+15:55,Buffalo,Jeremy Harris,Block,31,45
+15:55,Kent State,Kent State,Offensive Rebound,31,45
+15:52,Buffalo,None,None,31,45
+15:49,Kent State,Jaylin Walker,Missed Three Point Jumper,31,45
+15:49,Buffalo,Jeremy Harris,Defensive Rebound,31,45
+15:40,Kent State,Anthony Roberts,Foul,31,45
+15:30,Buffalo,Jeremy Harris,Missed Layup,31,45
+15:30,Buffalo,Jeremy Harris,Offensive Rebound,31,45
+15:30,Buffalo,None,None,31,47
+15:15,Buffalo,Dontay Caruthers,Foul,31,47
+15:15,Kent State,Antonio Williams,Free Throw,32,47
+15:15,Kent State,Antonio Williams,Free Throw,33,47
+15:06,Buffalo,CJ Massinburg,Missed Layup,33,47
+15:06,Kent State,Anthony Roberts,Defensive Rebound,33,47
+14:55,Kent State,Anthony Roberts,Missed Three Point Jumper,33,47
+14:55,Kent State,Philip Whittington,Offensive Rebound,33,47
+14:43,Buffalo,Jayvon Graves,Foul,33,47
+14:40,Kent State,Jaylin Walker,Turnover,33,47
+14:40,Buffalo,CJ Massinburg,Steal,33,47
+14:33,Kent State,Anthony Roberts,Foul,33,47
+14:33,Buffalo,CJ Massinburg,Free Throw,33,48
+14:33,Buffalo,CJ Massinburg,Free Throw,33,49
+14:21,Kent State,Anthony Roberts,Missed Layup,33,49
+14:21,Buffalo,CJ Massinburg,Defensive Rebound,33,49
+14:09,Buffalo,Dontay Caruthers,Missed Three Point Jumper,33,49
+14:09,Kent State,Anthony Roberts,Defensive Rebound,33,49
+14:00,Kent State,Anthony Roberts,Layup,35,49
+13:52,Kent State,Antonio Williams,Foul,35,49
+13:52,Buffalo,Dontay Caruthers,Free Throw,35,50
+13:52,Buffalo,Dontay Caruthers,Free Throw,35,51
+13:39,Buffalo,Dontay Caruthers,Foul,35,51
+13:39,Kent State,Jaylin Walker,Free Throw,36,51
+13:39,Kent State,Jaylin Walker,Free Throw,37,51
+13:21,Buffalo,Jeenathan Williams,Missed Three Point Jumper,37,51
+13:21,Kent State,Antonio Williams,Defensive Rebound,37,51
+13:04,Kent State,Philip Whittington,Layup,39,51
+12:46,Buffalo,Jeremy Harris,Layup,39,53
+12:31,Kent State,BJ Duling,Missed Three Point Jumper,39,53
+12:31,Buffalo,Jayvon Graves,Defensive Rebound,39,53
+12:23,Buffalo,Nick Perkins,Missed Three Point Jumper,39,53
+12:23,Buffalo,Jeremy Harris,Offensive Rebound,39,53
+12:16,Buffalo,Davonta Jordan,Missed Three Point Jumper,39,53
+12:16,Buffalo,Jayvon Graves,Offensive Rebound,39,53
+12:06,Buffalo,Jeremy Harris,Missed Three Point Jumper,39,53
+12:06,Buffalo,Davonta Jordan,Offensive Rebound,39,53
+12:06,Buffalo,Davonta Jordan,Layup,39,55
+12:06,Kent State,BJ Duling,Foul,39,55
+12:06,Buffalo,Davonta Jordan,Missed Free Throw,39,55
+12:06,Kent State,Philip Whittington,Defensive Rebound,39,55
+11:47,Kent State,Philip Whittington,Missed Jumper,39,55
+11:47,Buffalo,Nick Perkins,Defensive Rebound,39,55
+11:37,Buffalo,Nick Perkins,Jumper,39,57
+11:37,Kent State,Antonio Williams,Foul,39,57
+11:37,Buffalo,Nick Perkins,Free Throw,39,58
+11:36,Buffalo,None,None,39,58
+11:27,Kent State,Jaylin Walker,Missed Jumper,39,58
+11:27,Buffalo,Davonta Jordan,Defensive Rebound,39,58
+11:19,Buffalo,Jayvon Graves,Missed Dunk,39,58
+11:19,Kent State,Jalen Avery,Block,39,58
+11:19,Kent State,Akiean Frederick,Defensive Rebound,39,58
+11:09,Kent State,Antonio Williams,Layup,41,58
+10:58,Buffalo,Davonta Jordan,Missed Three Point Jumper,41,58
+10:58,Buffalo,Nick Perkins,Offensive Rebound,41,58
+10:53,Kent State,Akiean Frederick,Foul,41,58
+10:53,Buffalo,Nick Perkins,Free Throw,41,59
+10:53,Buffalo,Nick Perkins,Free Throw,41,60
+10:42,Kent State,Akiean Frederick,Turnover,41,60
+10:42,Buffalo,Nick Perkins,Steal,41,60
+10:35,Buffalo,CJ Massinburg,Missed Three Point Jumper,41,60
+10:35,Kent State,Kent State,Defensive Rebound,41,60
+10:19,Buffalo,CJ Massinburg,Foul,41,60
+10:19,Kent State,Antonio Williams,Free Throw,42,60
+10:19,Kent State,Antonio Williams,Missed Free Throw,42,60
+10:19,Buffalo,Davonta Jordan,Defensive Rebound,42,60
+10:08,Buffalo,Nick Perkins,Missed Jumper,42,60
+10:08,Kent State,C.J. Williamson,Defensive Rebound,42,60
+9:54,Kent State,C.J. Williamson,Turnover,42,60
+9:54,Buffalo,CJ Massinburg,Steal,42,60
+9:47,Buffalo,Ronaldo Segu,Missed Jumper,42,60
+9:47,Kent State,Antonio Williams,Defensive Rebound,42,60
+9:40,Kent State,Antonio Williams,Layup,44,60
+9:27,Buffalo,CJ Massinburg,Layup,44,62
+9:08,Kent State,Antonio Williams,Missed Jumper,44,62
+9:08,Kent State,Philip Whittington,Offensive Rebound,44,62
+9:03,Kent State,Philip Whittington,Layup,46,62
+9:00,Kent State,None,None,46,62
+8:53,Buffalo,CJ Massinburg,Turnover,46,62
+8:53,Kent State,Antonio Williams,Steal,46,62
+8:47,Kent State,Anthony Roberts,Layup,48,62
+8:35,Buffalo,Jayvon Graves,Missed Three Point Jumper,48,62
+8:35,Buffalo,Jayvon Graves,Offensive Rebound,48,62
+8:26,Buffalo,Nick Perkins,Dunk,48,64
+8:06,Kent State,Anthony Roberts,Layup,50,64
+7:55,Buffalo,Davonta Jordan,Layup,50,66
+7:41,Kent State,Antonio Williams,Jumper,52,66
+7:18,Buffalo,Jeremy Harris,Dunk,52,68
+7:00,Kent State,Anthony Roberts,Missed Jumper,52,68
+7:00,Kent State,Jaylin Walker,Offensive Rebound,52,68
+6:52,Kent State,Jaylin Walker,Missed Jumper,52,68
+6:52,Buffalo,Davonta Jordan,Defensive Rebound,52,68
+6:37,Buffalo,CJ Massinburg,Layup,52,70
+6:37,Kent State,Philip Whittington,Foul,52,70
+6:37,Buffalo,None,None,52,70
+6:37,Buffalo,CJ Massinburg,Missed Free Throw,52,70
+6:37,Kent State,Jaylin Walker,Defensive Rebound,52,70
+6:18,Kent State,Antonio Williams,Missed Jumper,52,70
+6:18,Kent State,C.J. Williamson,Offensive Rebound,52,70
+6:13,Kent State,C.J. Williamson,Layup,54,70
+5:53,Buffalo,Jayvon Graves,Missed Three Point Jumper,54,70
+5:53,Kent State,Antonio Williams,Defensive Rebound,54,70
+5:43,Kent State,Antonio Williams,Foul,54,70
+5:43,Kent State,Antonio Williams,Turnover,54,70
+5:42,Buffalo,Davonta Jordan,Turnover,54,70
+5:42,Kent State,Jalen Avery,Steal,54,70
+5:15,Kent State,Jaylin Walker,Turnover,54,70
+5:02,Kent State,C.J. Williamson,Foul,54,70
+5:02,Buffalo,Dontay Caruthers,Missed Free Throw,54,70
+5:02,Buffalo,None,Team Rebound,54,70
+5:02,Buffalo,Dontay Caruthers,Missed Free Throw,54,70
+4:58,Buffalo,Davonta Jordan,Offensive Rebound,54,70
+4:58,Buffalo,Jeenathan Williams,Dunk,54,72
+4:58,Kent State,C.J. Williamson,Foul,54,72
+4:58,Buffalo,Jeenathan Williams,Missed Free Throw,54,72
+4:58,Kent State,Jalen Avery,Defensive Rebound,54,72
+4:51,Kent State,Anthony Roberts,Foul,54,72
+4:51,Kent State,Anthony Roberts,Turnover,54,72
+4:35,Buffalo,Jeenathan Williams,Missed Jumper,54,72
+4:35,Kent State,Philip Whittington,Defensive Rebound,54,72
+4:20,Buffalo,Dontay Caruthers,Foul,54,72
+4:18,Kent State,Jaylin Walker,Missed Three Point Jumper,54,72
+4:18,Buffalo,Montell McRae,Defensive Rebound,54,72
+4:01,Buffalo,Davonta Jordan,Missed Jumper,54,72
+4:01,Kent State,Jaylin Walker,Defensive Rebound,54,72
+3:51,Kent State,Jaylin Walker,Turnover,54,72
+3:51,Buffalo,Jayvon Graves,Steal,54,72
+3:47,Kent State,Jaylin Walker,Foul,54,72
+3:47,Buffalo,Jayvon Graves,Free Throw,54,73
+3:47,Buffalo,Jayvon Graves,Free Throw,54,74
+3:35,Kent State,Philip Whittington,Turnover,54,74
+3:35,Buffalo,CJ Massinburg,Steal,54,74
+3:27,Buffalo,CJ Massinburg,Layup,54,76
+3:06,Kent State,Jaylin Walker,Turnover,54,76
+3:06,Buffalo,CJ Massinburg,Steal,54,76
+2:54,Buffalo,Davonta Jordan,Layup,54,78
+2:44,Kent State,C.J. Williamson,Three Point Jumper,57,78
+2:24,Buffalo,Nick Perkins,Layup,57,80
+2:10,Kent State,C.J. Williamson,Missed Three Point Jumper,57,80
+2:10,Buffalo,CJ Massinburg,Defensive Rebound,57,80
+1:48,Buffalo,Davonta Jordan,Foul,57,80
+1:48,Buffalo,Davonta Jordan,Turnover,57,80
+1:38,Kent State,DeAndre Gholston,Missed Jumper,57,80
+1:38,Buffalo,Buffalo,Defensive Rebound,57,80
+1:10,Buffalo,Ronaldo Segu,Missed Three Point Jumper,57,80
+1:10,Kent State,Mitch Peterson,Defensive Rebound,57,80
+0:59,Kent State,BJ Duling,Missed Layup,57,80
+0:59,Kent State,Kent State,Offensive Rebound,57,80
+0:51,Kent State,Mitch Peterson,Missed Layup,57,80
+0:51,Buffalo,Jeenathan Williams,Block,57,80
+0:51,Kent State,Mitch Peterson,Offensive Rebound,57,80
+0:43,Kent State,BJ Duling,Missed Layup,57,80
+0:43,Buffalo,Tra'Von Fagan,Defensive Rebound,57,80
+0:36,Buffalo,Jeenathan Williams,Missed Three Point Jumper,57,80
+0:36,Kent State,C.J. Williamson,Defensive Rebound,57,80
+0:25,Kent State,C.J. Williamson,Turnover,57,80
+0:25,Buffalo,Jeenathan Williams,Steal,57,80
+0:00,Buffalo,None,None,57,80

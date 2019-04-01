@@ -1,0 +1,354 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:45,Pennsylvania,AJ Brodeur,Missed Jumper,0,0
+19:45,Delaware State,Saleik Edwards,Defensive Rebound,0,0
+19:31,Delaware State,Fahim Jenneto,Layup,0,2
+19:09,Pennsylvania,Devon Goodman,Missed Three Point Jumper,0,2
+19:09,Delaware State,Johquin Wiley,Defensive Rebound,0,2
+18:48,Delaware State,Ameer Bennett,Missed Layup,0,2
+18:48,Pennsylvania,Antonio Woods,Defensive Rebound,0,2
+18:40,Pennsylvania,Antonio Woods,Missed Layup,0,2
+18:40,Delaware State,Delaware State,Defensive Rebound,0,2
+18:25,Delaware State,Ameer Bennett,Layup,0,4
+18:11,Pennsylvania,Antonio Woods,Turnover,0,4
+17:57,Delaware State,Jonathan Mitchell,Missed Layup,0,4
+17:57,Delaware State,Ameer Bennett,Offensive Rebound,0,4
+17:53,Pennsylvania,Max Rothschild,Foul,0,4
+17:53,Delaware State,Ameer Bennett,Missed Free Throw,0,4
+17:53,Delaware State,None,Team Rebound,0,4
+17:53,Delaware State,Ameer Bennett,Free Throw,0,5
+17:34,Pennsylvania,Antonio Woods,Three Point Jumper,3,5
+17:18,Delaware State,Ameer Bennett,Missed Three Point Jumper,3,5
+17:18,Pennsylvania,Michael Wang,Defensive Rebound,3,5
+17:02,Pennsylvania,AJ Brodeur,Turnover,3,5
+16:45,Delaware State,Fahim Jenneto,Three Point Jumper,3,8
+16:32,Pennsylvania,Antonio Woods,Missed Three Point Jumper,3,8
+16:32,Delaware State,Jonathan Mitchell,Defensive Rebound,3,8
+16:22,Delaware State,Ronald Lucas,Missed Layup,3,8
+16:22,Pennsylvania,Antonio Woods,Block,3,8
+16:20,Pennsylvania,AJ Brodeur,Defensive Rebound,3,8
+16:13,Pennsylvania,Michael Wang,Jumper,5,8
+16:00,Delaware State,Ronald Lucas,Turnover,5,8
+15:58,Pennsylvania,Jake Silpe,Steal,5,8
+15:54,Pennsylvania,Jake Silpe,Layup,7,8
+15:38,Delaware State,Ronald Lucas,Foul,7,8
+15:38,Delaware State,Ronald Lucas,Turnover,7,8
+15:38,Delaware State,None,None,7,8
+15:27,Pennsylvania,Devon Goodman,Missed Jumper,7,8
+15:27,Delaware State,Saleik Edwards,Block,7,8
+15:26,Delaware State,Montrell Horsey,Defensive Rebound,7,8
+15:09,Delaware State,Saleik Edwards,Missed Three Point Jumper,7,8
+15:09,Pennsylvania,Devon Goodman,Defensive Rebound,7,8
+14:54,Pennsylvania,Antonio Woods,Missed Three Point Jumper,7,8
+14:54,Delaware State,Jonathan Mitchell,Defensive Rebound,7,8
+14:23,Delaware State,Ameer Bennett,Turnover,7,8
+14:22,Pennsylvania,Michael Wang,Steal,7,8
+14:14,Pennsylvania,Michael Wang,Three Point Jumper,10,8
+13:59,Delaware State,Montrell Horsey,Missed Layup,10,8
+13:59,Pennsylvania,AJ Brodeur,Defensive Rebound,10,8
+13:51,Pennsylvania,AJ Brodeur,Three Point Jumper,13,8
+13:28,Delaware State,Fahim Jenneto,Missed Jumper,13,8
+13:28,Pennsylvania,Jake Silpe,Defensive Rebound,13,8
+13:21,Pennsylvania,Antonio Woods,Missed Layup,13,8
+13:21,Delaware State,Jonathan Mitchell,Defensive Rebound,13,8
+13:14,Delaware State,Jonathan Mitchell,Turnover,13,8
+13:07,Pennsylvania,Devon Goodman,Missed Three Point Jumper,13,8
+13:07,Delaware State,Ronald Lucas,Defensive Rebound,13,8
+12:45,Delaware State,Ronald Lucas,Missed Jumper,13,8
+12:45,Delaware State,Myles Carter,Offensive Rebound,13,8
+12:28,Delaware State,Myles Carter,Three Point Jumper,13,11
+12:14,Pennsylvania,Devon Goodman,Three Point Jumper,16,11
+11:40,Delaware State,Johquin Wiley,Missed Jumper,16,11
+11:40,Pennsylvania,Jake Silpe,Defensive Rebound,16,11
+11:35,Pennsylvania,Jake Silpe,Turnover,16,11
+11:33,Delaware State,Montrell Horsey,Steal,16,11
+11:28,Delaware State,Montrell Horsey,Missed Three Point Jumper,16,11
+11:28,Pennsylvania,Jackson Donahue,Defensive Rebound,16,11
+11:09,Pennsylvania,Jake Silpe,Three Point Jumper,19,11
+10:44,Delaware State,Montrell Horsey,Missed Layup,19,11
+10:44,Pennsylvania,Max Rothschild,Defensive Rebound,19,11
+10:28,Pennsylvania,Michael Wang,Missed Three Point Jumper,19,11
+10:28,Delaware State,Myles Carter,Defensive Rebound,19,11
+10:13,Delaware State,Johquin Wiley,Three Point Jumper,19,14
+9:54,Pennsylvania,Jake Silpe,Layup,21,14
+9:39,Pennsylvania,Michael Wang,Foul,21,14
+9:39,Delaware State,None,None,21,14
+9:23,Delaware State,None,None,21,14
+9:21,Delaware State,Johquin Wiley,Turnover,21,14
+9:19,Pennsylvania,Max Rothschild,Steal,21,14
+9:16,Pennsylvania,Max Rothschild,Layup,23,14
+8:54,Delaware State,Johquin Wiley,Missed Three Point Jumper,23,14
+8:54,Pennsylvania,Jackson Donahue,Defensive Rebound,23,14
+8:39,Pennsylvania,Bryce Washington,Missed Three Point Jumper,23,14
+8:39,Pennsylvania,Jackson Donahue,Offensive Rebound,23,14
+8:34,Pennsylvania,Jackson Donahue,Missed Jumper,23,14
+8:34,Delaware State,Johquin Wiley,Defensive Rebound,23,14
+8:28,Delaware State,Jonathan Mitchell,Missed Three Point Jumper,23,14
+8:28,Delaware State,Fahim Jenneto,Offensive Rebound,23,14
+8:23,Delaware State,Johquin Wiley,Three Point Jumper,23,17
+8:06,Delaware State,Ameer Bennett,Foul,23,17
+8:06,Pennsylvania,Bryce Washington,Free Throw,24,17
+8:06,Pennsylvania,Bryce Washington,Free Throw,25,17
+7:51,Delaware State,Johquin Wiley,Missed Jumper,25,17
+7:51,Pennsylvania,AJ Brodeur,Defensive Rebound,25,17
+7:33,Pennsylvania,AJ Brodeur,Missed Jumper,25,17
+7:33,Delaware State,Ameer Bennett,Defensive Rebound,25,17
+7:26,Delaware State,Johquin Wiley,Foul,25,17
+7:26,Delaware State,Johquin Wiley,Turnover,25,17
+7:26,Delaware State,None,None,25,17
+7:08,Pennsylvania,Antonio Woods,Turnover,25,17
+7:07,Delaware State,Fahim Jenneto,Steal,25,17
+6:49,Delaware State,Jonathan Mitchell,Missed Jumper,25,17
+6:49,Pennsylvania,Michael Wang,Defensive Rebound,25,17
+6:43,Pennsylvania,Devon Goodman,Layup,27,17
+6:18,Delaware State,Ameer Bennett,Foul,27,17
+6:18,Delaware State,Fahim Jenneto,Turnover,27,17
+6:06,Pennsylvania,Jackson Donahue,Missed Jumper,27,17
+6:06,Delaware State,Ameer Bennett,Block,27,17
+6:05,Pennsylvania,Bryce Washington,Offensive Rebound,27,17
+6:01,Pennsylvania,Bryce Washington,Missed Jumper,27,17
+6:01,Pennsylvania,AJ Brodeur,Offensive Rebound,27,17
+5:59,Delaware State,Fahim Jenneto,Foul,27,17
+5:59,Pennsylvania,Michael Wang,Missed Free Throw,27,17
+5:59,Pennsylvania,None,Team Rebound,27,17
+5:59,Pennsylvania,Michael Wang,Free Throw,28,17
+5:48,Pennsylvania,Michael Wang,Foul,28,17
+5:43,Delaware State,Saleik Edwards,Missed Jumper,28,17
+5:43,Delaware State,Delaware State,Offensive Rebound,28,17
+5:42,Pennsylvania,Jake Silpe,Foul,28,17
+5:37,Delaware State,Saleik Edwards,Missed Jumper,28,17
+5:37,Pennsylvania,Antonio Woods,Defensive Rebound,28,17
+5:32,Pennsylvania,AJ Brodeur,Turnover,28,17
+5:12,Delaware State,Myles Carter,Missed Jumper,28,17
+5:12,Pennsylvania,AJ Brodeur,Defensive Rebound,28,17
+4:55,Delaware State,Myles Carter,Foul,28,17
+4:55,Pennsylvania,AJ Brodeur,Free Throw,29,17
+4:55,Pennsylvania,AJ Brodeur,Free Throw,30,17
+4:40,Delaware State,Ronald Lucas,Missed Jumper,30,17
+4:40,Pennsylvania,Bryce Washington,Defensive Rebound,30,17
+4:32,Pennsylvania,AJ Brodeur,Jumper,32,17
+4:18,Delaware State,Saleik Edwards,Missed Layup,32,17
+4:18,Pennsylvania,Bryce Washington,Block,32,17
+4:17,Pennsylvania,Jake Silpe,Defensive Rebound,32,17
+3:53,Delaware State,None,None,32,17
+3:49,Pennsylvania,Bryce Washington,Three Point Jumper,35,17
+3:21,Delaware State,Fahim Jenneto,Missed Jumper,35,17
+3:21,Pennsylvania,Bryce Washington,Block,35,17
+3:20,Pennsylvania,AJ Brodeur,Defensive Rebound,35,17
+2:57,Pennsylvania,Bryce Washington,Three Point Jumper,38,17
+2:39,Delaware State,Ronald Lucas,Dunk,38,19
+2:23,Delaware State,Ronald Lucas,Foul,38,19
+2:23,Pennsylvania,AJ Brodeur,Missed Free Throw,38,19
+2:23,Pennsylvania,None,Team Rebound,38,19
+2:23,Pennsylvania,AJ Brodeur,Missed Free Throw,38,19
+2:23,Delaware State,Jonathan Mitchell,Defensive Rebound,38,19
+2:06,Delaware State,Saleik Edwards,Missed Three Point Jumper,38,19
+2:06,Pennsylvania,AJ Brodeur,Defensive Rebound,38,19
+1:44,Pennsylvania,Antonio Woods,Three Point Jumper,41,19
+1:31,Delaware State,Jonathan Mitchell,Missed Jumper,41,19
+1:31,Pennsylvania,AJ Brodeur,Block,41,19
+1:30,Pennsylvania,AJ Brodeur,Defensive Rebound,41,19
+1:23,Pennsylvania,Jake Silpe,Missed Three Point Jumper,41,19
+1:23,Delaware State,Jonathan Mitchell,Defensive Rebound,41,19
+1:14,Delaware State,Jonathan Mitchell,Layup,41,21
+1:14,Pennsylvania,AJ Brodeur,Foul,41,21
+1:14,Delaware State,Jonathan Mitchell,Free Throw,41,22
+0:56,Pennsylvania,AJ Brodeur,Missed Jumper,41,22
+0:56,Delaware State,Fahim Jenneto,Defensive Rebound,41,22
+0:52,Pennsylvania,Devon Goodman,Foul,41,22
+0:43,Delaware State,Montrell Horsey,Missed Layup,41,22
+0:43,Pennsylvania,Jake Silpe,Defensive Rebound,41,22
+0:41,Delaware State,Montrell Horsey,Foul,41,22
+0:41,Pennsylvania,Jake Silpe,Missed Free Throw,41,22
+0:41,Delaware State,Delaware State,Defensive Rebound,41,22
+0:28,Delaware State,Jonathan Mitchell,Turnover,41,22
+0:28,Pennsylvania,Antonio Woods,Steal,41,22
+0:28,Delaware State,Jonathan Mitchell,Foul,41,22
+0:28,Pennsylvania,Antonio Woods,Missed Free Throw,41,22
+0:28,Delaware State,Jonathan Mitchell,Defensive Rebound,41,22
+0:15,Delaware State,Jonathan Mitchell,Jumper,41,24
+0:15,Pennsylvania,Bryce Washington,Foul,41,24
+0:15,Delaware State,Jonathan Mitchell,Missed Free Throw,41,24
+0:15,Pennsylvania,Antonio Woods,Defensive Rebound,41,24
+0:06,Pennsylvania,Devon Goodman,Missed Layup,41,24
+0:06,Delaware State,Jonathan Mitchell,Defensive Rebound,41,24
+0:00,Delaware State,Saleik Edwards,Three Point Jumper,41,27
+0:00,Delaware State,None,None,41,27
+19:43,Delaware State,Ameer Bennett,Missed Jumper,41,27
+19:43,Pennsylvania,Max Rothschild,Defensive Rebound,41,27
+19:32,Delaware State,Saleik Edwards,Foul,41,27
+19:32,Pennsylvania,AJ Brodeur,Free Throw,42,27
+19:32,Pennsylvania,AJ Brodeur,Missed Free Throw,42,27
+19:32,Delaware State,Saleik Edwards,Defensive Rebound,42,27
+19:12,Delaware State,Ameer Bennett,Turnover,42,27
+18:57,Pennsylvania,Bryce Washington,Three Point Jumper,45,27
+18:37,Delaware State,Saleik Edwards,Missed Jumper,45,27
+18:37,Pennsylvania,Bryce Washington,Defensive Rebound,45,27
+18:22,Delaware State,Ameer Bennett,Foul,45,27
+18:21,Delaware State,None,None,45,27
+18:21,Pennsylvania,Antonio Woods,Free Throw,46,27
+18:21,Pennsylvania,Antonio Woods,Free Throw,47,27
+18:09,Delaware State,Ronald Lucas,Jumper,47,29
+17:55,Pennsylvania,Max Rothschild,Layup,49,29
+17:46,Delaware State,Fahim Jenneto,Missed Three Point Jumper,49,29
+17:46,Pennsylvania,Devon Goodman,Defensive Rebound,49,29
+17:31,Delaware State,Fahim Jenneto,Foul,49,29
+17:31,Pennsylvania,Max Rothschild,Free Throw,50,29
+17:31,Pennsylvania,Max Rothschild,Missed Free Throw,50,29
+17:31,Delaware State,Myles Carter,Defensive Rebound,50,29
+17:14,Delaware State,Myles Carter,Missed Jumper,50,29
+17:14,Pennsylvania,Bryce Washington,Defensive Rebound,50,29
+17:07,Delaware State,Montrell Horsey,Foul,50,29
+16:55,Pennsylvania,AJ Brodeur,Missed Jumper,50,29
+16:55,Delaware State,Montrell Horsey,Defensive Rebound,50,29
+16:36,Delaware State,Fahim Jenneto,Missed Jumper,50,29
+16:36,Pennsylvania,Bryce Washington,Block,50,29
+16:36,Delaware State,Delaware State,Offensive Rebound,50,29
+16:26,Delaware State,Jordan Bushrod,Foul,50,29
+16:26,Delaware State,Jordan Bushrod,Turnover,50,29
+16:09,Pennsylvania,Antonio Woods,Turnover,50,29
+16:08,Delaware State,Johquin Wiley,Steal,50,29
+15:57,Delaware State,None,None,50,29
+15:48,Delaware State,Montrell Horsey,Turnover,50,29
+15:47,Pennsylvania,Devon Goodman,Steal,50,29
+15:45,Pennsylvania,Devon Goodman,Layup,52,29
+15:45,Pennsylvania,Devon Goodman,Free Throw,53,29
+15:29,Delaware State,Johquin Wiley,Missed Three Point Jumper,53,29
+15:29,Pennsylvania,AJ Brodeur,Defensive Rebound,53,29
+14:57,Pennsylvania,Devon Goodman,Missed Jumper,53,29
+14:57,Delaware State,Ameer Bennett,Defensive Rebound,53,29
+14:54,Pennsylvania,Jake Silpe,Foul,53,29
+14:36,Delaware State,Johquin Wiley,Missed Jumper,53,29
+14:36,Pennsylvania,Jarrod Simmons,Block,53,29
+14:33,Pennsylvania,Bryce Washington,Defensive Rebound,53,29
+14:25,Pennsylvania,Jake Silpe,Missed Layup,53,29
+14:25,Pennsylvania,Bryce Washington,Offensive Rebound,53,29
+14:19,Pennsylvania,Jackson Donahue,Foul,53,29
+14:19,Pennsylvania,Jackson Donahue,Turnover,53,29
+13:58,Pennsylvania,Antonio Woods,Foul,53,29
+13:38,Delaware State,Delaware State ,Turnover,53,29
+13:28,Pennsylvania,Jackson Donahue,Three Point Jumper,56,29
+13:07,Delaware State,Jonathan Mitchell,Missed Jumper,56,29
+13:07,Pennsylvania,Jarrod Simmons,Defensive Rebound,56,29
+13:03,Pennsylvania,Jarrod Simmons,Turnover,56,29
+12:57,Pennsylvania,Jake Silpe,Foul,56,29
+12:57,Delaware State,Johquin Wiley,Free Throw,56,30
+12:57,Delaware State,Johquin Wiley,Free Throw,56,31
+12:36,Pennsylvania,AJ Brodeur,Missed Three Point Jumper,56,31
+12:36,Delaware State,Jonathan Mitchell,Defensive Rebound,56,31
+12:21,Delaware State,Saleik Edwards,Missed Three Point Jumper,56,31
+12:21,Delaware State,Jonathan Mitchell,Offensive Rebound,56,31
+12:18,Delaware State,Jonathan Mitchell,Missed Layup,56,31
+12:18,Pennsylvania,Pennsylvania,Defensive Rebound,56,31
+12:09,Pennsylvania,Jackson Donahue,Missed Three Point Jumper,56,31
+12:09,Delaware State,Jonathan Mitchell,Defensive Rebound,56,31
+11:53,Delaware State,Ameer Bennett,Missed Three Point Jumper,56,31
+11:53,Pennsylvania,Max Rothschild,Defensive Rebound,56,31
+11:40,Delaware State,Ameer Bennett,Foul,56,31
+11:40,Delaware State,None,None,56,31
+11:40,Pennsylvania,Max Rothschild,Missed Free Throw,56,31
+11:40,Delaware State,Jonathan Mitchell,Defensive Rebound,56,31
+11:27,Delaware State,Jonathan Mitchell,Turnover,56,31
+11:26,Pennsylvania,Max Rothschild,Steal,56,31
+11:20,Pennsylvania,Devon Goodman,Missed Three Point Jumper,56,31
+11:20,Pennsylvania,AJ Brodeur,Offensive Rebound,56,31
+11:09,Pennsylvania,AJ Brodeur,Missed Jumper,56,31
+11:09,Delaware State,Jonathan Mitchell,Defensive Rebound,56,31
+11:02,Delaware State,Saleik Edwards,Missed Layup,56,31
+11:02,Pennsylvania,AJ Brodeur,Defensive Rebound,56,31
+10:45,Pennsylvania,Devon Goodman,Missed Three Point Jumper,56,31
+10:45,Pennsylvania,AJ Brodeur,Offensive Rebound,56,31
+10:42,Pennsylvania,AJ Brodeur,Layup,58,31
+10:27,Pennsylvania,Devon Goodman,Foul,58,31
+10:22,Pennsylvania,Bryce Washington,Foul,58,31
+10:22,Delaware State,Johquin Wiley,Free Throw,58,32
+10:22,Delaware State,Johquin Wiley,Missed Free Throw,58,32
+10:22,Pennsylvania,Bryce Washington,Defensive Rebound,58,32
+9:56,Pennsylvania,Jackson Donahue,Three Point Jumper,61,32
+9:37,Delaware State,Saleik Edwards,Missed Layup,61,32
+9:37,Pennsylvania,AJ Brodeur,Defensive Rebound,61,32
+9:32,Pennsylvania,Bryce Washington,Layup,63,32
+9:10,Delaware State,Myles Carter,Missed Jumper,63,32
+9:10,Pennsylvania,Bryce Washington,Defensive Rebound,63,32
+9:01,Pennsylvania,Bryce Washington,Layup,65,32
+9:01,Delaware State,Myles Carter,Foul,65,32
+9:01,Pennsylvania,Bryce Washington,Free Throw,66,32
+8:52,Pennsylvania,Jarrod Simmons,Foul,66,32
+8:52,Delaware State,Fahim Jenneto,Missed Free Throw,66,32
+8:52,Pennsylvania,Jakub Mijakowski,Defensive Rebound,66,32
+8:36,Pennsylvania,Jackson Donahue,Three Point Jumper,69,32
+8:23,Delaware State,Johquin Wiley,Three Point Jumper,69,35
+7:52,Pennsylvania,Jake Silpe,Missed Three Point Jumper,69,35
+7:52,Pennsylvania,Jarrod Simmons,Offensive Rebound,69,35
+7:48,Pennsylvania,Jarrod Simmons,Missed Layup,69,35
+7:48,Delaware State,Montrell Horsey,Defensive Rebound,69,35
+7:32,Delaware State,Johquin Wiley,Three Point Jumper,69,38
+7:14,Pennsylvania,Jackson Donahue,Missed Three Point Jumper,69,38
+7:14,Delaware State,Saleik Edwards,Defensive Rebound,69,38
+7:00,Delaware State,Montrell Horsey,Missed Layup,69,38
+7:00,Pennsylvania,Jarrod Simmons,Defensive Rebound,69,38
+6:47,Pennsylvania,Jakub Mijakowski,Missed Three Point Jumper,69,38
+6:47,Pennsylvania,Jarrod Simmons,Offensive Rebound,69,38
+6:32,Pennsylvania,Eddie Scott,Missed Three Point Jumper,69,38
+6:32,Delaware State,Fahim Jenneto,Defensive Rebound,69,38
+6:12,Delaware State,Johquin Wiley,Jumper,69,40
+6:04,Delaware State,Fahim Jenneto,Foul,69,40
+6:04,Delaware State,None,None,69,40
+6:04,Pennsylvania,Eddie Scott,Free Throw,70,40
+6:04,Pennsylvania,Eddie Scott,Free Throw,71,40
+5:51,Delaware State,Ronald Lucas,Missed Jumper,71,40
+5:51,Pennsylvania,Jakub Mijakowski,Defensive Rebound,71,40
+5:33,Pennsylvania,Eddie Scott,Foul,71,40
+5:33,Pennsylvania,Eddie Scott,Turnover,71,40
+5:23,Delaware State,Johquin Wiley,Missed Jumper,71,40
+5:23,Pennsylvania,Jake Silpe,Defensive Rebound,71,40
+5:08,Pennsylvania,Eddie Scott,Turnover,71,40
+4:46,Pennsylvania,Jake Silpe,Foul,71,40
+4:46,Delaware State,Johquin Wiley,Free Throw,71,41
+4:46,Delaware State,Johquin Wiley,Free Throw,71,42
+4:29,Pennsylvania,Eddie Scott,Three Point Jumper,74,42
+4:21,Delaware State,Justin Ryder,Missed Three Point Jumper,74,42
+4:21,Pennsylvania,Jakub Mijakowski,Defensive Rebound,74,42
+4:12,Delaware State,Myles Carter,Foul,74,42
+4:09,Pennsylvania,Jake Silpe,Free Throw,75,42
+4:09,Pennsylvania,Jake Silpe,Free Throw,76,42
+3:51,Delaware State,Saleik Edwards,Turnover,76,42
+3:50,Pennsylvania,Jake Silpe,Steal,76,42
+3:43,Pennsylvania,Eddie Scott,Missed Layup,76,42
+3:43,Delaware State,Myles Carter,Defensive Rebound,76,42
+3:25,Pennsylvania,Jarrod Simmons,Foul,76,42
+3:25,Delaware State,None,None,76,42
+3:25,Delaware State,Saleik Edwards,Free Throw,76,43
+3:25,Delaware State,Saleik Edwards,Free Throw,76,44
+3:06,Pennsylvania,Jarrod Simmons,Missed Jumper,76,44
+3:06,Delaware State,Ameer Bennett,Defensive Rebound,76,44
+2:59,Delaware State,Myles Carter,Missed Three Point Jumper,76,44
+2:59,Pennsylvania,Jarrod Simmons,Defensive Rebound,76,44
+2:40,Pennsylvania,Jakub Mijakowski,Turnover,76,44
+2:40,Delaware State,Johquin Wiley,Steal,76,44
+2:38,Pennsylvania,Jarrod Simmons,Foul,76,44
+2:38,Delaware State,Myles Carter,Free Throw,76,45
+2:38,Delaware State,Myles Carter,Free Throw,76,46
+2:24,Pennsylvania,Ray Jerome,Missed Three Point Jumper,76,46
+2:24,Delaware State,Johquin Wiley,Defensive Rebound,76,46
+2:14,Delaware State,Ameer Bennett,Layup,76,48
+1:56,Pennsylvania,Jake Silpe,Missed Three Point Jumper,76,48
+1:56,Delaware State,Myles Carter,Defensive Rebound,76,48
+1:48,Delaware State,Myles Carter,Missed Jumper,76,48
+1:48,Pennsylvania,Alex Imegwu,Defensive Rebound,76,48
+1:37,Pennsylvania,Jakub Mijakowski,Missed Three Point Jumper,76,48
+1:37,Delaware State,Ronald Lucas,Defensive Rebound,76,48
+1:25,Delaware State,Ameer Bennett,Missed Jumper,76,48
+1:25,Pennsylvania,Alex Imegwu,Defensive Rebound,76,48
+1:14,Pennsylvania,Alex Imegwu,Missed Three Point Jumper,76,48
+1:14,Delaware State,Myles Carter,Defensive Rebound,76,48
+0:56,Delaware State,Justin Ryder,Missed Three Point Jumper,76,48
+0:56,Pennsylvania,Ray Jerome,Defensive Rebound,76,48
+0:48,Pennsylvania,None,None,76,48
+0:43,Pennsylvania,Alex Imegwu,Foul,76,48
+0:43,Pennsylvania,Alex Imegwu,Turnover,76,48
+0:27,Delaware State,Jordan Bushrod,Missed Jumper,76,48
+0:27,Delaware State,Jordan Bushrod,Offensive Rebound,76,48
+0:09,Delaware State,Montrell Horsey,Missed Jumper,76,48
+0:09,Pennsylvania,Mark Jackson,Block,76,48
+0:08,Pennsylvania,Griffin Ryan,Defensive Rebound,76,48
+0:00,Delaware State,None,None,76,48

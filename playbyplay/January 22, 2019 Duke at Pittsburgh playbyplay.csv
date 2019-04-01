@@ -1,0 +1,340 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:41,Duke,RJ Barrett,Jumper,2,0
+19:20,Pittsburgh,Au'Diese Toney,Missed Jumper,2,0
+19:20,Duke,Jack White,Defensive Rebound,2,0
+19:03,Duke,Cam Reddish,Three Point Jumper,5,0
+18:44,Pittsburgh,Terrell Brown,Missed Three Point Jumper,5,0
+18:44,Duke,Jack White,Defensive Rebound,5,0
+18:36,Duke,Zion Williamson,Turnover,5,0
+18:26,Duke,Cam Reddish,Foul,5,0
+18:26,Pittsburgh,Terrell Brown,Free Throw,5,1
+18:26,Pittsburgh,Terrell Brown,Free Throw,5,2
+18:14,Duke,Cam Reddish,Missed Three Point Jumper,5,2
+18:14,Duke,Marques Bolden,Offensive Rebound,5,2
+18:09,Pittsburgh,Terrell Brown,Foul,5,2
+18:09,Duke,Marques Bolden,Free Throw,6,2
+18:09,Duke,Marques Bolden,Free Throw,7,2
+17:55,Pittsburgh,Au'Diese Toney,Missed Layup,7,2
+17:55,Pittsburgh,Terrell Brown,Offensive Rebound,7,2
+17:49,Pittsburgh,Terrell Brown,Dunk,7,4
+17:37,Duke,Jack White,Missed Three Point Jumper,7,4
+17:37,Duke,Zion Williamson,Offensive Rebound,7,4
+17:32,Duke,Zion Williamson,Dunk,9,4
+17:14,Pittsburgh,Xavier Johnson,Missed Layup,9,4
+17:14,Duke,Zion Williamson,Block,9,4
+17:14,Pittsburgh,Pittsburgh,Offensive Rebound,9,4
+17:07,Pittsburgh,Xavier Johnson,Layup,9,6
+16:46,Duke,RJ Barrett,Missed Jumper,9,6
+16:46,Duke,Marques Bolden,Offensive Rebound,9,6
+16:46,Pittsburgh,Malik Ellison,Foul,9,6
+16:41,Duke,RJ Barrett,Missed Three Point Jumper,9,6
+16:41,Pittsburgh,Malik Ellison,Defensive Rebound,9,6
+16:36,Pittsburgh,Malik Ellison,Turnover,9,6
+16:22,Duke,Zion Williamson,Layup,11,6
+16:22,Pittsburgh,Terrell Brown,Foul,11,6
+16:22,Duke,Zion Williamson,Missed Free Throw,11,6
+16:22,Pittsburgh,Trey McGowens,Defensive Rebound,11,6
+16:16,Pittsburgh,Trey McGowens,Layup,11,8
+16:16,Duke,Jack White,Foul,11,8
+16:16,Pittsburgh,Trey McGowens,Missed Free Throw,11,8
+16:16,Pittsburgh,Kene Chukwuka,Offensive Rebound,11,8
+16:03,Pittsburgh,Trey McGowens,Missed Three Point Jumper,11,8
+16:03,Duke,Jack White,Defensive Rebound,11,8
+15:48,Duke,RJ Barrett,Missed Three Point Jumper,11,8
+15:48,Pittsburgh,Terrell Brown,Block,11,8
+15:48,Pittsburgh,Au'Diese Toney,Defensive Rebound,11,8
+15:35,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,11,11
+15:20,Duke,Cam Reddish,Missed Jumper,11,11
+15:20,Pittsburgh,Xavier Johnson,Block,11,11
+15:19,Duke,Cam Reddish,Offensive Rebound,11,11
+15:04,Duke,RJ Barrett,Missed Jumper,11,11
+15:04,Pittsburgh,Xavier Johnson,Defensive Rebound,11,11
+14:54,Duke,Javin DeLaurier,Foul,11,11
+14:54,Pittsburgh,None,None,11,11
+14:41,Pittsburgh,Au'Diese Toney,Missed Three Point Jumper,11,11
+14:41,Duke,RJ Barrett,Defensive Rebound,11,11
+14:30,Duke,Cam Reddish,Missed Jumper,11,11
+14:30,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,11,11
+14:24,Pittsburgh,Trey McGowens,Layup,11,13
+14:14,Pittsburgh,Trey McGowens,Foul,11,13
+14:13,Duke,Zion Williamson,Layup,13,13
+13:55,Pittsburgh,Au'Diese Toney,Missed Three Point Jumper,13,13
+13:55,Duke,Cam Reddish,Defensive Rebound,13,13
+13:25,Duke,Marques Bolden,Dunk,15,13
+13:07,Pittsburgh,Jared Wilson-Frame,Three Point Jumper,15,16
+12:49,Pittsburgh,Au'Diese Toney,Foul,15,16
+12:47,Duke,Cam Reddish,Missed Jumper,15,16
+12:47,Duke,Zion Williamson,Offensive Rebound,15,16
+12:42,Duke,Zion Williamson,Layup,17,16
+12:29,Duke,Zion Williamson,Foul,17,16
+12:23,Pittsburgh,Xavier Johnson,Turnover,17,16
+12:10,Duke,RJ Barrett,Layup,19,16
+11:50,Pittsburgh,Jared Wilson-Frame,Turnover,19,16
+11:50,Duke,Jordan Goldwire,Steal,19,16
+11:45,Duke,Jordan Goldwire,Missed Layup,19,16
+11:45,Pittsburgh,Xavier Johnson,Defensive Rebound,19,16
+11:39,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,19,16
+11:39,Pittsburgh,Kene Chukwuka,Offensive Rebound,19,16
+11:26,Pittsburgh,Xavier Johnson,Missed Layup,19,16
+11:26,Duke,Marques Bolden,Block,19,16
+11:26,Duke,Duke,Defensive Rebound,19,16
+11:24,Pittsburgh,None,None,19,16
+11:12,Duke,RJ Barrett,Missed Jumper,19,16
+11:12,Duke,Duke,Offensive Rebound,19,16
+11:05,Duke,Zion Williamson,Three Point Jumper,22,16
+10:43,Pittsburgh,Au'Diese Toney,Missed Layup,22,16
+10:43,Duke,Cam Reddish,Defensive Rebound,22,16
+10:26,Duke,RJ Barrett,Missed Jumper,22,16
+10:26,Pittsburgh,Kene Chukwuka,Defensive Rebound,22,16
+10:18,Pittsburgh,Trey McGowens,Missed Layup,22,16
+10:18,Duke,Cam Reddish,Defensive Rebound,22,16
+10:18,Pittsburgh,Malik Ellison,Foul,22,16
+10:06,Duke,RJ Barrett,Three Point Jumper,25,16
+9:46,Pittsburgh,Au'Diese Toney,Turnover,25,16
+9:46,Duke,Jordan Goldwire,Steal,25,16
+9:37,Duke,RJ Barrett,Missed Layup,25,16
+9:37,Duke,Zion Williamson,Offensive Rebound,25,16
+9:37,Duke,None,None,27,16
+9:34,Pittsburgh,None,None,27,16
+9:10,Pittsburgh,Trey McGowens,Missed Three Point Jumper,27,16
+9:10,Duke,Javin DeLaurier,Defensive Rebound,27,16
+8:49,Duke,RJ Barrett,Missed Jumper,27,16
+8:49,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,27,16
+8:49,Pittsburgh,None,None,27,16
+8:37,Pittsburgh,Kene Chukwuka,Missed Layup,27,16
+8:37,Duke,Javin DeLaurier,Block,27,16
+8:37,Duke,Javin DeLaurier,Defensive Rebound,27,16
+8:21,Duke,Jordan Goldwire,Turnover,27,16
+8:03,Pittsburgh,Jared Wilson-Frame,Missed Layup,27,16
+8:03,Pittsburgh,Jared Wilson-Frame,Offensive Rebound,27,16
+7:58,Pittsburgh,Jared Wilson-Frame,Layup,27,18
+7:42,Duke,Cam Reddish,Three Point Jumper,30,18
+7:12,Pittsburgh,Xavier Johnson,Layup,30,20
+6:52,Duke,RJ Barrett,Jumper,32,20
+6:30,Pittsburgh,None,None,32,20
+6:20,Pittsburgh,Xavier Johnson,Layup,32,22
+6:04,Duke,RJ Barrett,Missed Jumper,32,22
+6:04,Duke,Marques Bolden,Offensive Rebound,32,22
+5:59,Duke,Cam Reddish,Missed Jumper,32,22
+5:59,Pittsburgh,Xavier Johnson,Defensive Rebound,32,22
+5:35,Pittsburgh,Terrell Brown,Missed Three Point Jumper,32,22
+5:35,Duke,Zion Williamson,Defensive Rebound,32,22
+5:18,Duke,Zion Williamson,Layup,34,22
+4:54,Pittsburgh,Xavier Johnson,Layup,34,24
+4:41,Duke,Cam Reddish,Missed Three Point Jumper,34,24
+4:41,Duke,Zion Williamson,Offensive Rebound,34,24
+4:35,Duke,Zion Williamson,Layup,36,24
+4:35,Pittsburgh,Terrell Brown,Foul,36,24
+4:35,Duke,Zion Williamson,Missed Free Throw,36,24
+4:35,Duke,Jack White,Offensive Rebound,36,24
+4:30,Duke,Javin DeLaurier,Missed Layup,36,24
+4:30,Pittsburgh,Kene Chukwuka,Defensive Rebound,36,24
+4:19,Pittsburgh,Xavier Johnson,Turnover,36,24
+4:19,Duke,Cam Reddish,Steal,36,24
+4:11,Pittsburgh,Jared Wilson-Frame,Foul,36,24
+4:11,Duke,Jack White,Free Throw,37,24
+4:11,Duke,Jack White,Free Throw,38,24
+3:53,Duke,Javin DeLaurier,Foul,38,24
+3:53,Pittsburgh,None,None,38,24
+3:53,Pittsburgh,Sidy N'Dir,Free Throw,38,25
+3:53,Pittsburgh,Sidy N'Dir,Missed Free Throw,38,25
+3:53,Duke,Marques Bolden,Defensive Rebound,38,25
+3:22,Duke,Marques Bolden,Missed Jumper,38,25
+3:22,Pittsburgh,Xavier Johnson,Defensive Rebound,38,25
+3:03,Pittsburgh,Xavier Johnson,Missed Layup,38,25
+3:03,Duke,Marques Bolden,Block,38,25
+3:03,Duke,RJ Barrett,Defensive Rebound,38,25
+2:56,Duke,RJ Barrett,Turnover,38,25
+2:40,Pittsburgh,Xavier Johnson,Turnover,38,25
+2:40,Duke,Marques Bolden,Steal,38,25
+2:33,Pittsburgh,Sidy N'Dir,Foul,38,25
+2:33,Duke,Marques Bolden,Missed Free Throw,38,25
+2:33,Duke,None,Team Rebound,38,25
+2:33,Duke,Marques Bolden,Free Throw,39,25
+2:18,Pittsburgh,Jared Wilson-Frame,Turnover,39,25
+2:03,Duke,Zion Williamson,Layup,41,25
+1:47,Pittsburgh,Trey McGowens,Missed Three Point Jumper,41,25
+1:47,Duke,Cam Reddish,Defensive Rebound,41,25
+1:32,Duke,Zion Williamson,Foul,41,25
+1:32,Duke,Zion Williamson,Turnover,41,25
+1:17,Pittsburgh,Au'Diese Toney,Missed Jumper,41,25
+1:17,Duke,Marques Bolden,Block,41,25
+1:17,Pittsburgh,Kene Chukwuka,Offensive Rebound,41,25
+1:17,Pittsburgh,None,None,41,25
+1:17,Duke,Marques Bolden,Defensive Rebound,41,25
+0:47,Pittsburgh,Xavier Johnson,Foul,41,25
+0:47,Duke,RJ Barrett,Free Throw,42,25
+0:47,Pittsburgh,Pittsburgh,Foul,42,25
+0:47,Pittsburgh,Pittsburgh,Foul,42,25
+0:47,Duke,RJ Barrett,Free Throw,43,25
+0:47,Duke,RJ Barrett,Missed Free Throw,43,25
+0:47,Duke,None,Team Rebound,43,25
+0:47,Duke,RJ Barrett,Free Throw,44,25
+0:35,Duke,Marques Bolden,Foul,44,25
+0:35,Pittsburgh,Au'Diese Toney,Missed Free Throw,44,25
+0:35,Duke,Marques Bolden,Defensive Rebound,44,25
+0:32,Duke,None,None,44,25
+0:09,Duke,Cam Reddish,Missed Three Point Jumper,44,25
+0:09,Pittsburgh,Pittsburgh,Defensive Rebound,44,25
+0:00,Pittsburgh,None,None,44,25
+20:00,Duke,None,None,44,25
+19:48,Duke,RJ Barrett,Layup,46,25
+19:30,Pittsburgh,Au'Diese Toney,Jumper,46,27
+19:07,Duke,RJ Barrett,Layup,48,27
+18:48,Pittsburgh,Malik Ellison,Turnover,48,27
+18:48,Duke,Zion Williamson,Steal,48,27
+18:44,Duke,Zion Williamson,Dunk,50,27
+18:19,Pittsburgh,Au'Diese Toney,Missed Jumper,50,27
+18:19,Pittsburgh,Terrell Brown,Offensive Rebound,50,27
+18:19,Pittsburgh,None,None,50,29
+17:57,Duke,Zion Williamson,Missed Three Point Jumper,50,29
+17:57,Pittsburgh,Terrell Brown,Defensive Rebound,50,29
+17:47,Pittsburgh,Trey McGowens,Jumper,50,31
+17:17,Duke,RJ Barrett,Missed Three Point Jumper,50,31
+17:17,Duke,Marques Bolden,Offensive Rebound,50,31
+17:11,Duke,Marques Bolden,Missed Layup,50,31
+17:11,Duke,Jack White,Offensive Rebound,50,31
+17:11,Duke,None,None,52,31
+16:49,Pittsburgh,Au'Diese Toney,Missed Jumper,52,31
+16:49,Duke,Marques Bolden,Block,52,31
+16:49,Pittsburgh,Pittsburgh,Offensive Rebound,52,31
+16:48,Pittsburgh,None,None,52,31
+16:43,Duke,Jack White,Foul,52,31
+16:43,Pittsburgh,Malik Ellison,Free Throw,52,32
+16:43,Pittsburgh,Malik Ellison,Free Throw,52,33
+16:32,Pittsburgh,Trey McGowens,Foul,52,33
+16:30,Duke,Cam Reddish,Missed Three Point Jumper,52,33
+16:30,Pittsburgh,Xavier Johnson,Defensive Rebound,52,33
+16:09,Pittsburgh,Trey McGowens,Missed Layup,52,33
+16:09,Duke,Duke,Defensive Rebound,52,33
+15:50,Pittsburgh,None,None,52,33
+15:45,Duke,Jack White,Foul,52,33
+15:45,Duke,Jack White,Turnover,52,33
+15:22,Pittsburgh,Malik Ellison,Turnover,52,33
+15:22,Duke,Zion Williamson,Steal,52,33
+15:19,Duke,RJ Barrett,Dunk,54,33
+15:06,Pittsburgh,Malik Ellison,Missed Jumper,54,33
+15:06,Duke,RJ Barrett,Defensive Rebound,54,33
+14:47,Pittsburgh,Xavier Johnson,Foul,54,33
+14:47,Duke,Cam Reddish,Free Throw,55,33
+14:47,Duke,Cam Reddish,Free Throw,56,33
+14:30,Pittsburgh,Trey McGowens,Turnover,56,33
+14:30,Duke,Cam Reddish,Steal,56,33
+14:25,Duke,Javin DeLaurier,Missed Layup,56,33
+14:25,Duke,RJ Barrett,Offensive Rebound,56,33
+14:19,Duke,RJ Barrett,Missed Layup,56,33
+14:19,Pittsburgh,Au'Diese Toney,Defensive Rebound,56,33
+14:14,Pittsburgh,Trey McGowens,Layup,56,35
+13:58,Duke,RJ Barrett,Foul,56,35
+13:58,Duke,RJ Barrett,Turnover,56,35
+13:41,Pittsburgh,Trey McGowens,Jumper,56,37
+13:14,Duke,RJ Barrett,Missed Three Point Jumper,56,37
+13:14,Duke,Zion Williamson,Offensive Rebound,56,37
+13:09,Duke,Cam Reddish,Three Point Jumper,59,37
+12:47,Pittsburgh,Sidy N'Dir,Jumper,59,39
+12:31,Duke,Cam Reddish,Jumper,61,39
+12:28,Duke,None,None,61,39
+12:12,Pittsburgh,Xavier Johnson,Foul,61,39
+12:12,Pittsburgh,Xavier Johnson,Turnover,61,39
+11:57,Duke,RJ Barrett,Turnover,61,39
+11:46,Duke,Zion Williamson,Foul,61,39
+11:46,Pittsburgh,Terrell Brown,Free Throw,61,40
+11:46,Pittsburgh,Terrell Brown,Free Throw,61,41
+11:21,Duke,Cam Reddish,Missed Three Point Jumper,61,41
+11:21,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,61,41
+11:09,Pittsburgh,Au'Diese Toney,Turnover,61,41
+11:09,Duke,RJ Barrett,Steal,61,41
+11:03,Duke,RJ Barrett,Missed Jumper,61,41
+11:03,Pittsburgh,Trey McGowens,Defensive Rebound,61,41
+10:56,Pittsburgh,Trey McGowens,Foul,61,41
+10:56,Pittsburgh,Trey McGowens,Turnover,61,41
+10:26,Duke,Jordan Goldwire,Missed Three Point Jumper,61,41
+10:26,Pittsburgh,Jared Wilson-Frame,Defensive Rebound,61,41
+10:16,Pittsburgh,Jared Wilson-Frame,Missed Layup,61,41
+10:16,Pittsburgh,Pittsburgh,Offensive Rebound,61,41
+9:53,Pittsburgh,Au'Diese Toney,Missed Jumper,61,41
+9:53,Duke,Marques Bolden,Defensive Rebound,61,41
+9:26,Duke,Zion Williamson,Missed Three Point Jumper,61,41
+9:26,Pittsburgh,Terrell Brown,Defensive Rebound,61,41
+9:15,Pittsburgh,Jared Wilson-Frame,Layup,61,43
+9:05,Duke,Marques Bolden,Missed Layup,61,43
+9:05,Pittsburgh,Au'Diese Toney,Defensive Rebound,61,43
+8:58,Pittsburgh,Trey McGowens,Jumper,61,45
+8:54,Duke,None,None,61,45
+8:39,Duke,RJ Barrett,Three Point Jumper,64,45
+8:23,Duke,Marques Bolden,Foul,64,45
+8:23,Pittsburgh,Au'Diese Toney,Free Throw,64,46
+8:23,Pittsburgh,Au'Diese Toney,Free Throw,64,47
+8:12,Duke,Cam Reddish,Missed Three Point Jumper,64,47
+8:12,Pittsburgh,Sidy N'Dir,Defensive Rebound,64,47
+8:08,Duke,Marques Bolden,Foul,64,47
+7:50,Duke,Marques Bolden,Foul,64,47
+7:50,Pittsburgh,None,None,64,47
+7:50,Pittsburgh,Au'Diese Toney,Free Throw,64,48
+7:50,Pittsburgh,Au'Diese Toney,Free Throw,64,49
+7:33,Pittsburgh,Kene Chukwuka,Foul,64,49
+7:33,Duke,Zion Williamson,Free Throw,65,49
+7:33,Duke,Zion Williamson,Free Throw,66,49
+7:20,Pittsburgh,Jared Wilson-Frame,Missed Three Point Jumper,66,49
+7:20,Duke,Jack White,Defensive Rebound,66,49
+6:53,Duke,Marques Bolden,Dunk,68,49
+6:34,Pittsburgh,Terrell Brown,Layup,68,51
+6:26,Duke,Zion Williamson,Layup,70,51
+5:52,Pittsburgh,Trey McGowens,Layup,70,53
+5:31,Duke,RJ Barrett,Three Point Jumper,73,53
+5:08,Duke,Zion Williamson,Foul,73,53
+5:08,Pittsburgh,Sidy N'Dir,Free Throw,73,54
+5:08,Pittsburgh,Sidy N'Dir,Free Throw,73,55
+5:01,Duke,Jack White,Turnover,73,55
+5:01,Pittsburgh,Trey McGowens,Steal,73,55
+4:57,Pittsburgh,Trey McGowens,Missed Dunk,73,55
+4:57,Duke,Jack White,Block,73,55
+4:57,Duke,RJ Barrett,Defensive Rebound,73,55
+4:35,Duke,RJ Barrett,Missed Jumper,73,55
+4:35,Pittsburgh,Terrell Brown,Block,73,55
+4:35,Duke,Duke,Offensive Rebound,73,55
+4:31,Duke,Cam Reddish,Missed Jumper,73,55
+4:31,Pittsburgh,Sidy N'Dir,Defensive Rebound,73,55
+4:25,Pittsburgh,Sidy N'Dir,Layup,73,57
+3:55,Pittsburgh,Trey McGowens,Foul,73,57
+3:55,Pittsburgh,None,None,73,57
+3:55,Duke,Javin DeLaurier,Free Throw,74,57
+3:55,Duke,Javin DeLaurier,Free Throw,75,57
+3:40,Pittsburgh,Trey McGowens,Missed Three Point Jumper,75,57
+3:40,Duke,Zion Williamson,Defensive Rebound,75,57
+3:10,Pittsburgh,Trey McGowens,Foul,75,57
+3:10,Duke,Cam Reddish,Free Throw,76,57
+3:10,Duke,Cam Reddish,Free Throw,77,57
+2:48,Pittsburgh,Sidy N'Dir,Missed Three Point Jumper,77,57
+2:48,Duke,Marques Bolden,Defensive Rebound,77,57
+2:28,Duke,Cam Reddish,Missed Three Point Jumper,77,57
+2:28,Pittsburgh,Terrell Brown,Defensive Rebound,77,57
+2:12,Pittsburgh,Au'Diese Toney,Three Point Jumper,77,60
+2:03,Duke,Cam Reddish,Turnover,77,60
+2:03,Pittsburgh,Sidy N'Dir,Steal,77,60
+1:51,Pittsburgh,Xavier Johnson,Turnover,77,60
+1:51,Duke,Cam Reddish,Steal,77,60
+1:45,Duke,RJ Barrett,Dunk,79,60
+1:29,Pittsburgh,Au'Diese Toney,Missed Jumper,79,60
+1:29,Pittsburgh,Au'Diese Toney,Offensive Rebound,79,60
+1:27,Pittsburgh,None,None,79,60
+1:25,Pittsburgh,Terrell Brown,Turnover,79,60
+1:25,Duke,RJ Barrett,Steal,79,60
+1:19,Duke,RJ Barrett,Turnover,79,60
+1:19,Pittsburgh,Xavier Johnson,Steal,79,60
+1:12,Pittsburgh,None,None,79,60
+0:56,Pittsburgh,Au'Diese Toney,Missed Three Point Jumper,79,60
+0:56,Pittsburgh,Terrell Brown,Offensive Rebound,79,60
+0:56,Duke,RJ Barrett,Foul,79,60
+0:56,Pittsburgh,Terrell Brown,Free Throw,79,61
+0:56,Pittsburgh,Terrell Brown,Free Throw,79,62
+0:39,Duke,Alex O'Connell,Missed Three Point Jumper,79,62
+0:39,Duke,Cam Reddish,Offensive Rebound,79,62
+0:33,Duke,Cam Reddish,Turnover,79,62
+0:33,Pittsburgh,Jared Wilson-Frame,Steal,79,62
+0:32,Duke,Cam Reddish,Foul,79,62
+0:32,Pittsburgh,Jared Wilson-Frame,Free Throw,79,63
+0:32,Pittsburgh,Jared Wilson-Frame,Free Throw,79,64
+0:01,Duke,Duke ,Turnover,79,64
+0:00,Pittsburgh,None,None,79,64

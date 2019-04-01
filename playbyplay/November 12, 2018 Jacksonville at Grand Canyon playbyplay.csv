@@ -1,0 +1,350 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:45,Jacksonville,Dave Bell,Foul,0,0
+19:45,Grand Canyon,Alessandro Lever,Free Throw,0,1
+19:45,Grand Canyon,Alessandro Lever,Free Throw,0,2
+19:26,Jacksonville,Tyreese Davis,Missed Layup,0,2
+19:23,Grand Canyon,Michael Finke,Defensive Rebound,0,2
+19:21,Grand Canyon,Oscar Frayer,Turnover,0,2
+19:05,Jacksonville,Aamahne Santos,Missed Jumper,0,2
+19:05,Grand Canyon,Trey Drechsel,Block,0,2
+19:01,Grand Canyon,Carlos Johnson,Defensive Rebound,0,2
+18:58,Grand Canyon,Oscar Frayer,Three Point Jumper,0,5
+18:37,Jacksonville,JD Notae,Missed Jumper,0,5
+18:30,Jacksonville,Tyreese Davis,Offensive Rebound,0,5
+18:29,Jacksonville,Tyreese Davis,Layup,2,5
+18:16,Grand Canyon,Alessandro Lever,Layup,2,7
+18:01,Jacksonville,Jace Hogan,Jumper,4,7
+17:50,Grand Canyon,Carlos Johnson,Turnover,4,7
+17:50,Jacksonville,Tyreese Davis,Steal,4,7
+17:33,Jacksonville,Jace Hogan,Foul,4,7
+17:33,Jacksonville,Jace Hogan,Turnover,4,7
+17:19,Grand Canyon,Alessandro Lever,Turnover,4,7
+16:54,Jacksonville,Jace Hogan,Layup,6,7
+16:44,Jacksonville,Jalyn Hinton,Foul,6,7
+16:27,Grand Canyon,Oscar Frayer,Missed Three Point Jumper,6,7
+16:23,Grand Canyon,Carlos Johnson,Offensive Rebound,6,7
+16:21,Grand Canyon,Carlos Johnson,Missed Layup,6,7
+16:16,Grand Canyon,Michael Finke,Layup,6,9
+16:16,Grand Canyon,Michael Finke,Offensive Rebound,6,9
+16:10,Grand Canyon,Trey Drechsel,Foul,6,9
+16:10,Jacksonville,Jalyn Hinton,Missed Free Throw,6,9
+16:10,Jacksonville,None,Team Rebound,6,9
+16:10,Jacksonville,Jalyn Hinton,Free Throw,7,9
+15:54,Grand Canyon,Trey Drechsel,Turnover,7,9
+15:54,Jacksonville,Aamahne Santos,Steal,7,9
+15:49,Jacksonville,Tyreese Davis,Missed Layup,7,9
+15:45,Grand Canyon,Michael Finke,Defensive Rebound,7,9
+15:37,Grand Canyon,Carlos Johnson,Missed Three Point Jumper,7,9
+15:35,Grand Canyon,Oscar Frayer,Offensive Rebound,7,9
+15:35,Grand Canyon,Oscar Frayer,Foul,7,9
+15:35,Grand Canyon,None,None,7,9
+15:16,Jacksonville,Jalyn Hinton,Dunk,9,9
+15:07,Jacksonville,JD Notae,Foul,9,9
+14:51,Grand Canyon,Trey Drechsel,Missed Jumper,9,9
+14:48,Jacksonville,Tyreese Davis,Defensive Rebound,9,9
+14:36,Jacksonville,Jace Hogan,Missed Jumper,9,9
+14:32,Grand Canyon,Alessandro Lever,Defensive Rebound,9,9
+14:25,Grand Canyon,Trey Drechsel,Missed Layup,9,9
+14:22,Jacksonville,Jalyn Hinton,Defensive Rebound,9,9
+14:02,Jacksonville,Aamahne Santos,Missed Layup,9,9
+13:56,Grand Canyon,Alessandro Lever,Defensive Rebound,9,9
+13:49,Grand Canyon,Carlos Johnson,Missed Three Point Jumper,9,9
+13:45,Grand Canyon,Michael Finke,Offensive Rebound,9,9
+13:21,Grand Canyon,Oscar Frayer,Missed Three Point Jumper,9,9
+13:16,Jacksonville,Aamahne Santos,Defensive Rebound,9,9
+13:13,Jacksonville,Dave Bell,Foul,9,9
+13:13,Jacksonville,Dave Bell,Turnover,9,9
+13:01,Grand Canyon,Alessandro Lever,Layup,9,11
+12:46,Grand Canyon,Oscar Frayer,Foul,9,11
+12:37,Grand Canyon,Gerard Martin,Foul,9,11
+12:35,Jacksonville,Jace Hogan,Turnover,9,11
+12:35,Grand Canyon,Gerard Martin,Steal,9,11
+12:16,Grand Canyon,Damari Milstead,Missed Layup,9,11
+12:12,Grand Canyon,Damari Milstead,Offensive Rebound,9,11
+12:11,Grand Canyon,Damari Milstead,Layup,9,13
+11:54,Jacksonville,DeAnthony McCallum,Missed Three Point Jumper,9,13
+11:50,Grand Canyon,Damari Milstead,Defensive Rebound,9,13
+11:42,Grand Canyon,Tim Finke,Jumper,9,15
+11:20,Jacksonville,JD Notae,Missed Three Point Jumper,9,15
+11:15,Grand Canyon,Tim Finke,Defensive Rebound,9,15
+11:04,Grand Canyon,Damari Milstead,Layup,9,17
+10:41,Jacksonville,Jace Hogan,Missed Jumper,9,17
+10:37,Grand Canyon,Tim Finke,Defensive Rebound,9,17
+10:26,Grand Canyon,Alessandro Lever,Missed Layup,9,17
+10:26,Jacksonville,DeAnthony McCallum,Defensive Rebound,9,17
+10:26,Grand Canyon,Gerard Martin,Foul,9,17
+10:26,Grand Canyon,Gerard Martin,Turnover,9,17
+10:26,Grand Canyon,None,None,9,17
+10:17,Jacksonville,Aamahne Santos,Missed Layup,9,17
+10:14,Grand Canyon,Matt Jackson,Defensive Rebound,9,17
+10:06,Grand Canyon,None,None,9,17
+9:56,Grand Canyon,Matt Jackson,Missed Three Point Jumper,9,17
+9:52,Jacksonville,Tyreese Davis,Defensive Rebound,9,17
+9:34,Jacksonville,Jalyn Hinton,Missed Layup,9,17
+9:30,Jacksonville,Jalyn Hinton,Offensive Rebound,9,17
+9:28,Jacksonville,Tanner Rubio,Three Point Jumper,12,17
+8:59,Grand Canyon,Matt Jackson,Jumper,12,19
+8:35,Jacksonville,Tyreese Davis,Missed Three Point Jumper,12,19
+8:29,Grand Canyon,Roberts Blumbergs,Defensive Rebound,12,19
+8:21,Jacksonville,Jalyn Hinton,Foul,12,19
+8:21,Grand Canyon,Damari Milstead,Free Throw,12,20
+8:21,Grand Canyon,Damari Milstead,Missed Free Throw,12,20
+8:20,Grand Canyon,Matt Jackson,Offensive Rebound,12,20
+8:18,Grand Canyon,Matt Jackson,Missed Layup,12,20
+8:18,Grand Canyon,Matt Jackson,Offensive Rebound,12,20
+8:18,Jacksonville,Corey Romich,Foul,12,20
+8:18,Grand Canyon,Matt Jackson,Missed Free Throw,12,20
+8:18,Jacksonville,None,Team Rebound,12,20
+8:18,Grand Canyon,Tim Finke,Foul,12,20
+8:18,Jacksonville,Corey Romich,Missed Free Throw,12,20
+8:18,Jacksonville,None,Team Rebound,12,20
+8:18,Jacksonville,Corey Romich,Missed Free Throw,12,20
+8:18,Jacksonville,None,Team Rebound,12,20
+7:55,Jacksonville,Aamahne Santos,Missed Three Point Jumper,12,20
+7:51,Grand Canyon,Matt Jackson,Defensive Rebound,12,20
+7:23,Grand Canyon,Damari Milstead,Jumper,12,22
+7:05,Jacksonville,Tanner Rubio,Missed Three Point Jumper,12,22
+6:59,Grand Canyon,Matt Jackson,Defensive Rebound,12,22
+6:55,Grand Canyon,None,None,12,22
+6:55,Jacksonville,Bryce Workman,Foul,12,22
+6:55,Grand Canyon,Roberts Blumbergs,Free Throw,12,23
+6:55,Grand Canyon,Roberts Blumbergs,Free Throw,12,24
+6:43,Grand Canyon,Roberts Blumbergs,Three Point Jumper,12,27
+6:26,Jacksonville,JD Notae,Layup,14,27
+6:06,Grand Canyon,Matt Jackson,Turnover,14,27
+6:06,Jacksonville,Tyreese Davis,Steal,14,27
+6:03,Jacksonville,Tyreese Davis,Turnover,14,27
+5:52,Grand Canyon,Roberts Blumbergs,Three Point Jumper,14,30
+5:37,Jacksonville,JD Notae,Turnover,14,30
+5:37,Jacksonville,None,None,14,30
+5:16,Grand Canyon,Carlos Johnson,Missed Jumper,14,30
+5:16,Jacksonville,Tyreese Davis,Block,14,30
+5:11,Jacksonville,Dave Bell,Defensive Rebound,14,30
+5:01,Grand Canyon,Carlos Johnson,Foul,14,30
+5:01,Jacksonville,JD Notae,Free Throw,15,30
+5:01,Jacksonville,JD Notae,Missed Free Throw,15,30
+4:59,Grand Canyon,Roberts Blumbergs,Defensive Rebound,15,30
+4:38,Grand Canyon,Tim Finke,Missed Three Point Jumper,15,30
+4:34,Grand Canyon,Matt Jackson,Offensive Rebound,15,30
+4:34,Grand Canyon,Matt Jackson,Missed Layup,15,30
+4:34,Jacksonville,Dave Bell,Block,15,30
+4:34,Grand Canyon,Grand Canyon,Offensive Rebound,15,30
+4:28,Grand Canyon,Trey Drechsel,Layup,15,32
+4:08,Jacksonville,Dave Bell,Dunk,17,32
+4:08,Grand Canyon,Trey Drechsel,Foul,17,32
+4:08,Jacksonville,Dave Bell,Missed Free Throw,17,32
+4:07,Grand Canyon,Tim Finke,Defensive Rebound,17,32
+3:44,Jacksonville,JD Notae,Foul,17,32
+3:44,Grand Canyon,None,None,17,32
+3:44,Grand Canyon,Tim Finke,Missed Free Throw,17,32
+3:44,Grand Canyon,None,Team Rebound,17,32
+3:44,Grand Canyon,Tim Finke,Free Throw,17,33
+3:19,Grand Canyon,Alessandro Lever,Foul,17,33
+3:19,Jacksonville,Tyreese Davis,Free Throw,18,33
+3:19,Jacksonville,Tyreese Davis,Free Throw,19,33
+2:59,Grand Canyon,Oscar Frayer,Jumper,19,35
+2:43,Jacksonville,Jace Hogan,Missed Jumper,19,35
+2:42,Grand Canyon,Grand Canyon,Defensive Rebound,19,35
+2:42,Jacksonville,None,None,19,35
+2:11,Grand Canyon,Alessandro Lever,Missed Jumper,19,35
+2:07,Grand Canyon,Michael Finke,Offensive Rebound,19,35
+2:05,Grand Canyon,Damari Milstead,Missed Layup,19,35
+2:02,Jacksonville,Tanner Rubio,Defensive Rebound,19,35
+1:52,Jacksonville,Dave Bell,Turnover,19,35
+1:52,Grand Canyon,Damari Milstead,Steal,19,35
+1:46,Grand Canyon,Damari Milstead,Missed Layup,19,35
+1:46,Jacksonville,Tyreese Davis,Block,19,35
+1:46,Grand Canyon,Grand Canyon,Offensive Rebound,19,35
+1:36,Grand Canyon,Tim Finke,Jumper,19,37
+1:13,Jacksonville,Aamahne Santos,Missed Three Point Jumper,19,37
+1:10,Grand Canyon,Damari Milstead,Defensive Rebound,19,37
+0:50,Grand Canyon,Michael Finke,Layup,19,39
+0:32,Jacksonville,Tanner Rubio,Three Point Jumper,22,39
+0:04,Grand Canyon,Oscar Frayer,Layup,22,41
+0:00,Grand Canyon,None,None,22,41
+19:43,Grand Canyon,Oscar Frayer,Missed Three Point Jumper,22,41
+19:40,Grand Canyon,Trey Drechsel,Offensive Rebound,22,41
+19:31,Jacksonville,Jace Hogan,Foul,22,41
+19:17,Jacksonville,Dave Bell,Foul,22,41
+19:17,Grand Canyon,Oscar Frayer,Missed Free Throw,22,41
+19:17,Grand Canyon,None,Team Rebound,22,41
+19:17,Grand Canyon,Oscar Frayer,Free Throw,22,42
+18:57,Jacksonville,JD Notae,Missed Three Point Jumper,22,42
+18:52,Grand Canyon,Trey Drechsel,Defensive Rebound,22,42
+18:50,Grand Canyon,Michael Finke,Turnover,22,42
+18:34,Jacksonville,Dave Bell,Foul,22,42
+18:34,Jacksonville,Dave Bell,Turnover,22,42
+18:23,Grand Canyon,Trey Drechsel,Layup,22,44
+18:12,Jacksonville,Jalyn Hinton,Turnover,22,44
+18:12,Grand Canyon,Carlos Johnson,Steal,22,44
+18:12,Grand Canyon,Carlos Johnson,Layup,22,46
+18:12,Jacksonville,Jalyn Hinton,Foul,22,46
+18:12,Grand Canyon,Carlos Johnson,Free Throw,22,47
+17:41,Jacksonville,Jacksonville ,Turnover,22,47
+17:17,Grand Canyon,Carlos Johnson,Missed Dunk,22,47
+17:12,Grand Canyon,Michael Finke,Offensive Rebound,22,47
+17:01,Grand Canyon,Oscar Frayer,Missed Jumper,22,47
+16:57,Jacksonville,Tanner Rubio,Defensive Rebound,22,47
+16:55,Jacksonville,JD Notae,Three Point Jumper,25,47
+16:37,Grand Canyon,Trey Drechsel,Missed Layup,25,47
+16:34,Jacksonville,Jace Hogan,Defensive Rebound,25,47
+16:31,Jacksonville,JD Notae,Turnover,25,47
+16:16,Grand Canyon,Alessandro Lever,Turnover,25,47
+16:00,Jacksonville,Jace Hogan,Jumper,27,47
+15:42,Grand Canyon,Trey Drechsel,Missed Three Point Jumper,27,47
+15:42,Jacksonville,Jalyn Hinton,Block,27,47
+15:40,Grand Canyon,Carlos Johnson,Offensive Rebound,27,47
+15:40,Jacksonville,Jace Hogan,Foul,27,47
+15:40,Grand Canyon,None,None,27,47
+15:40,Grand Canyon,Alessandro Lever,Free Throw,27,48
+15:40,Grand Canyon,Alessandro Lever,Free Throw,27,49
+15:19,Jacksonville,Tanner Rubio,Three Point Jumper,30,49
+15:03,Grand Canyon,Trey Drechsel,Turnover,30,49
+15:03,Jacksonville,Aamahne Santos,Steal,30,49
+14:57,Jacksonville,JD Notae,Missed Three Point Jumper,30,49
+14:51,Grand Canyon,Trey Drechsel,Defensive Rebound,30,49
+14:41,Grand Canyon,Alessandro Lever,Layup,30,51
+14:25,Jacksonville,Aamahne Santos,Missed Three Point Jumper,30,51
+14:21,Grand Canyon,Oscar Frayer,Defensive Rebound,30,51
+14:16,Grand Canyon,Alessandro Lever,Three Point Jumper,30,54
+13:47,Grand Canyon,Alessandro Lever,Foul,30,54
+13:44,Jacksonville,Tanner Rubio,Layup,32,54
+13:28,Grand Canyon,Oscar Frayer,Turnover,32,54
+13:28,Jacksonville,Tyreese Davis,Steal,32,54
+13:25,Jacksonville,Tyreese Davis,Layup,34,54
+13:25,Grand Canyon,Alessandro Lever,Foul,34,54
+13:25,Jacksonville,Tyreese Davis,Free Throw,35,54
+13:24,Grand Canyon,Carlos Johnson,Turnover,35,54
+13:24,Jacksonville,DeAnthony McCallum,Steal,35,54
+13:16,Jacksonville,Jalyn Hinton,Jumper,37,54
+13:16,Grand Canyon,None,None,37,54
+13:07,Grand Canyon,Michael Finke,Three Point Jumper,37,57
+13:04,Grand Canyon,Oscar Frayer,Foul,37,57
+13:04,Jacksonville,DeAnthony McCallum,Foul,37,57
+13:00,Grand Canyon,Oscar Frayer,Foul,37,57
+12:56,Grand Canyon,Tim Finke,Foul,37,57
+12:44,Jacksonville,Jalyn Hinton,Layup,39,57
+12:15,Grand Canyon,Michael Finke,Missed Three Point Jumper,39,57
+12:10,Jacksonville,Tyreese Davis,Defensive Rebound,39,57
+11:51,Jacksonville,Jace Hogan,Missed Jumper,39,57
+11:46,Grand Canyon,Trey Drechsel,Defensive Rebound,39,57
+11:42,Grand Canyon,Michael Finke,Missed Layup,39,57
+11:42,Jacksonville,Jace Hogan,Block,39,57
+11:37,Jacksonville,DeAnthony McCallum,Defensive Rebound,39,57
+11:37,Jacksonville,Tyreese Davis,Layup,41,57
+11:37,Grand Canyon,Carlos Johnson,Foul,41,57
+11:37,Grand Canyon,None,None,41,57
+11:37,Jacksonville,Tyreese Davis,Missed Free Throw,41,57
+11:37,Grand Canyon,Gerard Martin,Defensive Rebound,41,57
+11:21,Grand Canyon,Tim Finke,Missed Layup,41,57
+11:21,Jacksonville,Jalyn Hinton,Block,41,57
+11:15,Grand Canyon,Matt Jackson,Offensive Rebound,41,57
+11:14,Grand Canyon,Matt Jackson,Layup,41,59
+11:03,Jacksonville,JD Notae,Turnover,41,59
+10:43,Grand Canyon,Damari Milstead,Layup,41,61
+10:24,Jacksonville,JD Notae,Three Point Jumper,44,61
+10:03,Jacksonville,Tyreese Davis,Foul,44,61
+10:03,Grand Canyon,Matt Jackson,Missed Free Throw,44,61
+10:03,Grand Canyon,None,Team Rebound,44,61
+10:03,Grand Canyon,Matt Jackson,Free Throw,44,62
+9:55,Jacksonville,JD Notae,Turnover,44,62
+9:32,Grand Canyon,Damari Milstead,Missed Three Point Jumper,44,62
+9:28,Jacksonville,Tyreese Davis,Defensive Rebound,44,62
+9:23,Jacksonville,JD Notae,Missed Three Point Jumper,44,62
+9:20,Grand Canyon,Matt Jackson,Defensive Rebound,44,62
+9:09,Grand Canyon,Gerard Martin,Turnover,44,62
+9:09,Jacksonville,JD Notae,Steal,44,62
+9:03,Jacksonville,DeAnthony McCallum,Missed Jumper,44,62
+8:59,Grand Canyon,Roberts Blumbergs,Defensive Rebound,44,62
+8:41,Grand Canyon,Roberts Blumbergs,Missed Three Point Jumper,44,62
+8:38,Jacksonville,JD Notae,Defensive Rebound,44,62
+8:24,Jacksonville,Jalyn Hinton,Layup,46,62
+8:06,Grand Canyon,Matt Jackson,Layup,46,64
+7:46,Jacksonville,Tyreese Davis,Missed Layup,46,64
+7:43,Grand Canyon,Tim Finke,Defensive Rebound,46,64
+7:42,Grand Canyon,Tim Finke,Turnover,46,64
+7:42,Grand Canyon,None,None,46,64
+7:18,Jacksonville,Dave Bell,Layup,48,64
+7:02,Grand Canyon,Gerard Martin,Missed Three Point Jumper,48,64
+6:58,Jacksonville,Jalyn Hinton,Defensive Rebound,48,64
+6:42,Jacksonville,Jalyn Hinton,Layup,50,64
+6:27,Grand Canyon,Damari Milstead,Missed Jumper,50,64
+6:24,Jacksonville,Jalyn Hinton,Defensive Rebound,50,64
+6:19,Jacksonville,JD Notae,Missed Three Point Jumper,50,64
+6:15,Jacksonville,Dave Bell,Offensive Rebound,50,64
+6:14,Jacksonville,Dave Bell,Missed Dunk,50,64
+6:09,Grand Canyon,Tim Finke,Defensive Rebound,50,64
+6:08,Grand Canyon,Gerard Martin,Layup,50,66
+5:44,Jacksonville,Tanner Rubio,Missed Jumper,50,66
+5:37,Grand Canyon,Gerard Martin,Defensive Rebound,50,66
+5:30,Grand Canyon,Trey Drechsel,Missed Layup,50,66
+5:23,Jacksonville,Tanner Rubio,Defensive Rebound,50,66
+5:22,Jacksonville,Tyreese Davis,Missed Layup,50,66
+5:22,Jacksonville,Jace Hogan,Offensive Rebound,50,66
+5:22,Grand Canyon,Alessandro Lever,Foul,50,66
+5:22,Jacksonville,Jace Hogan,Free Throw,51,66
+5:22,Jacksonville,Jace Hogan,Free Throw,52,66
+4:54,Grand Canyon,Alessandro Lever,Missed Layup,52,66
+4:50,Jacksonville,Jace Hogan,Defensive Rebound,52,66
+4:49,Jacksonville,Tyreese Davis,Layup,54,66
+4:49,Grand Canyon,Carlos Johnson,Foul,54,66
+4:49,Jacksonville,Tyreese Davis,Free Throw,55,66
+4:39,Grand Canyon,Trey Drechsel,Layup,55,68
+4:39,Jacksonville,Tanner Rubio,Foul,55,68
+4:39,Grand Canyon,Trey Drechsel,Missed Free Throw,55,68
+4:39,Grand Canyon,Oscar Frayer,Offensive Rebound,55,68
+4:26,Grand Canyon,Carlos Johnson,Missed Three Point Jumper,55,68
+4:23,Grand Canyon,Oscar Frayer,Offensive Rebound,55,68
+4:16,Grand Canyon,Oscar Frayer,Missed Three Point Jumper,55,68
+4:12,Grand Canyon,Trey Drechsel,Offensive Rebound,55,68
+4:11,Grand Canyon,Trey Drechsel,Missed Layup,55,68
+4:09,Jacksonville,Jace Hogan,Defensive Rebound,55,68
+4:03,Jacksonville,Tanner Rubio,Missed Three Point Jumper,55,68
+3:59,Grand Canyon,Oscar Frayer,Defensive Rebound,55,68
+3:46,Grand Canyon,None,None,55,68
+3:35,Grand Canyon,Trey Drechsel,Turnover,55,68
+3:22,Jacksonville,Aamahne Santos,Missed Three Point Jumper,55,68
+3:19,Grand Canyon,Oscar Frayer,Defensive Rebound,55,68
+3:08,Grand Canyon,Carlos Johnson,Missed Layup,55,68
+3:06,Grand Canyon,Alessandro Lever,Offensive Rebound,55,68
+3:06,Jacksonville,DeAnthony McCallum,Foul,55,68
+3:06,Grand Canyon,Alessandro Lever,Free Throw,55,69
+3:06,Grand Canyon,Alessandro Lever,Free Throw,55,70
+2:52,Jacksonville,JD Notae,Turnover,55,70
+2:52,Grand Canyon,Trey Drechsel,Steal,55,70
+2:39,Grand Canyon,Carlos Johnson,Missed Three Point Jumper,55,70
+2:34,Jacksonville,Jalyn Hinton,Defensive Rebound,55,70
+2:30,Grand Canyon,Michael Finke,Foul,55,70
+2:30,Jacksonville,Jalyn Hinton,Missed Free Throw,55,70
+2:30,Jacksonville,None,Team Rebound,55,70
+2:30,Jacksonville,Jalyn Hinton,Missed Free Throw,55,70
+2:28,Grand Canyon,Tim Finke,Defensive Rebound,55,70
+2:01,Grand Canyon,Alessandro Lever,Missed Layup,55,70
+2:00,Grand Canyon,Tim Finke,Offensive Rebound,55,70
+2:00,Jacksonville,DeAnthony McCallum,Foul,55,70
+2:00,Grand Canyon,Tim Finke,Free Throw,55,71
+2:00,Grand Canyon,Tim Finke,Free Throw,55,72
+1:49,Jacksonville,Tanner Rubio,Missed Three Point Jumper,55,72
+1:45,Grand Canyon,Oscar Frayer,Defensive Rebound,55,72
+1:19,Grand Canyon,Tim Finke,Missed Jumper,55,72
+1:18,Grand Canyon,Grand Canyon,Offensive Rebound,55,72
+1:18,Jacksonville,Aamahne Santos,Foul,55,72
+1:18,Grand Canyon,Gerard Martin,Free Throw,55,73
+1:18,Grand Canyon,Gerard Martin,Free Throw,55,74
+1:10,Jacksonville,JD Notae,Missed Three Point Jumper,55,74
+1:06,Jacksonville,Jalyn Hinton,Offensive Rebound,55,74
+1:03,Jacksonville,Tyreese Davis,Missed Three Point Jumper,55,74
+0:57,Jacksonville,Tyreese Davis,Offensive Rebound,55,74
+0:54,Jacksonville,Aamahne Santos,Missed Three Point Jumper,55,74
+0:47,Grand Canyon,Tim Finke,Defensive Rebound,55,74
+0:46,Grand Canyon,Tim Finke,Turnover,55,74
+0:46,Jacksonville,JD Notae,Steal,55,74
+0:46,Grand Canyon,Oscar Frayer,Foul,55,74
+0:46,Jacksonville,JD Notae,Free Throw,56,74
+0:46,Jacksonville,JD Notae,Free Throw,57,74
+0:27,Grand Canyon,Gerard Martin,Layup,57,76
+0:23,Grand Canyon,Trey Drechsel,Foul,57,76
+0:23,Jacksonville,JD Notae,Free Throw,58,76
+0:23,Jacksonville,JD Notae,Free Throw,59,76
+0:00,Grand Canyon,None,None,59,76
+0:00,Grand Canyon,None,None,59,76

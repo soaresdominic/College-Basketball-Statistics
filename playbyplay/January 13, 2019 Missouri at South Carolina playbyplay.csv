@@ -1,0 +1,346 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:41,Missouri,Jeremiah Tilmon,Foul,0,0
+19:41,South Carolina,Keyshawn Bryant,Missed Free Throw,0,0
+19:41,South Carolina,None,Team Rebound,0,0
+19:41,South Carolina,Keyshawn Bryant,Free Throw,0,1
+19:20,Missouri,Jeremiah Tilmon,Dunk,2,1
+19:18,South Carolina,Chris Silva,Turnover,2,1
+18:55,South Carolina,Keyshawn Bryant,Foul,2,1
+18:51,Missouri,Mark Smith,Turnover,2,1
+18:41,South Carolina,Tre Campbell,Missed Jumper,2,1
+18:41,South Carolina,Maik Kotsar,Offensive Rebound,2,1
+18:29,South Carolina,Maik Kotsar,Turnover,2,1
+18:15,Missouri,Javon Pickett,Three Point Jumper,5,1
+18:03,South Carolina,Tre Campbell,Turnover,5,1
+18:03,South Carolina,Tre Campbell,Foul,5,1
+17:49,Missouri,Jeremiah Tilmon,Missed Layup,5,1
+17:49,South Carolina,Maik Kotsar,Block,5,1
+17:48,Missouri,Missouri,Offensive Rebound,5,1
+17:46,Missouri,Javon Pickett,Missed Layup,5,1
+17:46,South Carolina,Maik Kotsar,Block,5,1
+17:45,Missouri,Javon Pickett,Offensive Rebound,5,1
+17:37,Missouri,Torrence Watson,Turnover,5,1
+17:36,South Carolina,A.J. Lawson,Steal,5,1
+17:33,South Carolina,Tre Campbell,Three Point Jumper,5,4
+17:15,Missouri,Jordan Geist,Turnover,5,4
+17:14,South Carolina,Chris Silva,Steal,5,4
+17:11,South Carolina,Tre Campbell,Layup,5,6
+16:36,Missouri,Missouri ,Turnover,5,6
+16:16,South Carolina,Chris Silva,Jumper,5,8
+15:51,Missouri,Jordan Geist,Turnover,5,8
+15:50,South Carolina,Chris Silva,Steal,5,8
+15:46,Missouri,K.J. Santos,Foul,5,8
+15:46,South Carolina,None,None,5,8
+15:46,South Carolina,Hassani Gravett,Free Throw,5,9
+15:46,South Carolina,Hassani Gravett,Free Throw,5,10
+15:31,Missouri,Torrence Watson,Three Point Jumper,8,10
+15:23,South Carolina,Tre Campbell,Turnover,8,10
+15:22,Missouri,Mark Smith,Steal,8,10
+15:18,Missouri,Kevin Puryear,Turnover,8,10
+15:02,South Carolina,Tre Campbell,Three Point Jumper,8,13
+14:39,Missouri,Kevin Puryear,Missed Jumper,8,13
+14:39,South Carolina,A.J. Lawson,Defensive Rebound,8,13
+14:29,South Carolina,A.J. Lawson,Missed Three Point Jumper,8,13
+14:29,Missouri,Torrence Watson,Defensive Rebound,8,13
+14:20,Missouri,Torrence Watson,Three Point Jumper,11,13
+14:00,South Carolina,Hassani Gravett,Missed Three Point Jumper,11,13
+14:00,South Carolina,Maik Kotsar,Offensive Rebound,11,13
+13:49,South Carolina,Tre Campbell,Missed Three Point Jumper,11,13
+13:49,Missouri,None,Team Rebound,11,13
+13:46,South Carolina,Maik Kotsar,Foul,11,13
+13:33,Missouri,Jeremiah Tilmon,Jumper,13,13
+13:22,South Carolina,Felipe Haase,Three Point Jumper,13,16
+13:03,Missouri,Jeremiah Tilmon,Missed Layup,13,16
+13:03,Missouri,Xavier Pinson,Offensive Rebound,13,16
+12:59,Missouri,Xavier Pinson,Turnover,13,16
+12:57,South Carolina,Felipe Haase,Steal,13,16
+12:57,South Carolina,Felipe Haase,Turnover,13,16
+12:42,South Carolina,Maik Kotsar,Foul,13,16
+12:42,Missouri,Torrence Watson,Missed Free Throw,13,16
+12:42,Missouri,None,Team Rebound,13,16
+12:42,Missouri,Torrence Watson,Free Throw,14,16
+12:32,Missouri,Jordan Geist,Foul,14,16
+12:28,South Carolina,Felipe Haase,Missed Three Point Jumper,14,16
+12:28,Missouri,Kevin Puryear,Defensive Rebound,14,16
+12:08,Missouri,Jordan Geist,Layup,16,16
+12:00,Missouri,Torrence Watson,Foul,16,16
+12:00,South Carolina,None,None,16,16
+12:00,South Carolina,Hassani Gravett,Free Throw,16,17
+12:00,South Carolina,Hassani Gravett,Free Throw,16,18
+11:52,South Carolina,Felipe Haase,Foul,16,18
+11:44,Missouri,Kevin Puryear,Missed Jumper,16,18
+11:44,South Carolina,Felipe Haase,Defensive Rebound,16,18
+11:19,Missouri,Jeremiah Tilmon,Foul,16,18
+11:19,South Carolina,Alanzo Frink,Missed Free Throw,16,18
+11:19,South Carolina,None,Team Rebound,16,18
+11:19,South Carolina,Alanzo Frink,Free Throw,16,19
+11:06,Missouri,Mark Smith,Missed Three Point Jumper,16,19
+11:06,Missouri,Kevin Puryear,Offensive Rebound,16,19
+10:57,Missouri,Jordan Geist,Three Point Jumper,19,19
+10:35,South Carolina,Alanzo Frink,Missed Three Point Jumper,19,19
+10:35,Missouri,Jordan Geist,Defensive Rebound,19,19
+10:19,Missouri,Reed Nikko,Missed Jumper,19,19
+10:19,South Carolina,Alanzo Frink,Block,19,19
+10:18,South Carolina,Felipe Haase,Defensive Rebound,19,19
+10:03,South Carolina,Hassani Gravett,Missed Jumper,19,19
+10:03,Missouri,Missouri,Defensive Rebound,19,19
+9:35,Missouri,Kevin Puryear,Turnover,19,19
+9:20,South Carolina,Keyshawn Bryant,Layup,19,21
+9:05,Missouri,Kevin Puryear,Three Point Jumper,22,21
+8:43,Missouri,K.J. Santos,Foul,22,21
+8:43,South Carolina,Felipe Haase,Free Throw,22,22
+8:43,South Carolina,Felipe Haase,Free Throw,22,23
+8:16,Missouri,Jordan Geist,Missed Three Point Jumper,22,23
+8:16,South Carolina,Hassani Gravett,Defensive Rebound,22,23
+8:07,Missouri,Kevin Puryear,Foul,22,23
+8:07,South Carolina,Chris Silva,Free Throw,22,24
+8:07,South Carolina,Chris Silva,Free Throw,22,25
+7:55,South Carolina,Keyshawn Bryant,Foul,22,25
+7:55,South Carolina,None,None,22,25
+7:43,Missouri,Xavier Pinson,Turnover,22,25
+7:42,South Carolina,Chris Silva,Steal,22,25
+7:27,South Carolina,Evan Hinson,Turnover,22,25
+7:11,Missouri,Mitchell Smith,Turnover,22,25
+6:45,South Carolina,Hassani Gravett,Missed Three Point Jumper,22,25
+6:45,Missouri,Missouri,Defensive Rebound,22,25
+6:19,Missouri,Mark Smith,Turnover,22,25
+5:51,South Carolina,Alanzo Frink,Jumper,22,27
+5:34,South Carolina,Alanzo Frink,Turnover,22,27
+5:34,Missouri,Reed Nikko,Missed Free Throw,22,27
+5:34,South Carolina,Alanzo Frink,Defensive Rebound,22,27
+5:31,South Carolina,Alanzo Frink,Foul,22,27
+5:17,Missouri,Jordan Geist,Missed Three Point Jumper,22,27
+5:17,South Carolina,Hassani Gravett,Defensive Rebound,22,27
+4:49,South Carolina,Chris Silva,Missed Jumper,22,27
+4:49,South Carolina,Alanzo Frink,Offensive Rebound,22,27
+4:47,South Carolina,Alanzo Frink,Jumper,22,29
+4:40,South Carolina,A.J. Lawson,Foul,22,29
+4:36,Missouri,Jordan Geist,Missed Free Throw,22,29
+4:36,South Carolina,Chris Silva,Defensive Rebound,22,29
+4:07,South Carolina,Hassani Gravett,Missed Jumper,22,29
+4:07,South Carolina,Alanzo Frink,Offensive Rebound,22,29
+4:03,South Carolina,Alanzo Frink,Layup,22,31
+3:57,Missouri,Kevin Puryear,Missed Layup,22,31
+3:57,South Carolina,Alanzo Frink,Block,22,31
+3:56,South Carolina,Chris Silva,Defensive Rebound,22,31
+3:45,Missouri,Kevin Puryear,Foul,22,31
+3:45,South Carolina,Chris Silva,Free Throw,22,32
+3:45,South Carolina,Chris Silva,Free Throw,22,33
+3:32,Missouri,Javon Pickett,Jumper,24,33
+3:13,Missouri,Mark Smith,Foul,24,33
+3:13,South Carolina,Hassani Gravett,Free Throw,24,34
+3:13,South Carolina,Hassani Gravett,Free Throw,24,35
+2:56,Missouri,Mark Smith,Three Point Jumper,27,35
+2:38,South Carolina,Chris Silva,Turnover,27,35
+2:38,South Carolina,Chris Silva,Foul,27,35
+2:29,Missouri,Javon Pickett,Jumper,29,35
+2:13,South Carolina,A.J. Lawson,Jumper,29,37
+2:13,Missouri,Javon Pickett,Foul,29,37
+2:13,South Carolina,A.J. Lawson,Free Throw,29,38
+2:04,Missouri,Torrence Watson,Missed Three Point Jumper,29,38
+2:04,Missouri,Torrence Watson,Offensive Rebound,29,38
+1:59,Missouri,Torrence Watson,Missed Layup,29,38
+1:59,South Carolina,Chris Silva,Block,29,38
+1:58,South Carolina,Felipe Haase,Defensive Rebound,29,38
+1:36,South Carolina,Hassani Gravett,Missed Three Point Jumper,29,38
+1:36,Missouri,Mark Smith,Defensive Rebound,29,38
+1:28,Missouri,Javon Pickett,Missed Jumper,29,38
+1:28,South Carolina,Chris Silva,Block,29,38
+1:27,Missouri,Missouri,Offensive Rebound,29,38
+1:24,Missouri,Mark Smith,Three Point Jumper,32,38
+1:15,South Carolina,Chris Silva,Missed Three Point Jumper,32,38
+1:15,South Carolina,Felipe Haase,Offensive Rebound,32,38
+1:12,Missouri,Mark Smith,Foul,32,38
+1:12,South Carolina,Felipe Haase,Free Throw,32,39
+1:12,South Carolina,Felipe Haase,Free Throw,32,40
+1:01,Missouri,K.J. Santos,Dunk,34,40
+0:45,South Carolina,A.J. Lawson,Jumper,34,42
+0:10,Missouri,Jordan Geist,Jumper,36,42
+0:02,South Carolina,Tre Campbell,Missed Layup,36,42
+0:02,Missouri,K.J. Santos,Defensive Rebound,36,42
+0:00,South Carolina,None,None,36,42
+19:41,South Carolina,Keyshawn Bryant,Jumper,36,44
+19:20,South Carolina,Tre Campbell,Foul,36,44
+19:13,South Carolina,Chris Silva,Foul,36,44
+19:13,Missouri,Mark Smith,Free Throw,37,44
+19:13,Missouri,Mark Smith,Free Throw,38,44
+19:13,Missouri,Mark Smith,Free Throw,39,44
+19:02,South Carolina,A.J. Lawson,Three Point Jumper,39,47
+18:41,Missouri,Javon Pickett,Missed Jumper,39,47
+18:41,Missouri,Missouri,Offensive Rebound,39,47
+18:37,Missouri,Torrence Watson,Missed Layup,39,47
+18:37,South Carolina,Chris Silva,Block,39,47
+18:36,South Carolina,Tre Campbell,Defensive Rebound,39,47
+18:22,South Carolina,Chris Silva,Turnover,39,47
+18:12,South Carolina,A.J. Lawson,Foul,39,47
+18:05,Missouri,Jeremiah Tilmon,Turnover,39,47
+18:05,Missouri,Jeremiah Tilmon,Foul,39,47
+17:43,Missouri,Jeremiah Tilmon,Foul,39,47
+17:37,South Carolina,A.J. Lawson,Missed Three Point Jumper,39,47
+17:37,South Carolina,None,Team Rebound,39,47
+17:35,Missouri,Kevin Puryear,Foul,39,47
+17:30,South Carolina,Maik Kotsar,Layup,39,49
+17:30,Missouri,K.J. Santos,Foul,39,49
+17:30,South Carolina,Maik Kotsar,Free Throw,39,50
+17:17,Missouri,K.J. Santos,Turnover,39,50
+17:15,South Carolina,Maik Kotsar,Steal,39,50
+17:12,South Carolina,Keyshawn Bryant,Layup,39,52
+17:09,Missouri,None,None,39,52
+16:52,Missouri,Kevin Puryear,Missed Layup,39,52
+16:52,Missouri,Kevin Puryear,Offensive Rebound,39,52
+16:50,Missouri,None,None,41,52
+16:26,South Carolina,A.J. Lawson,Missed Three Point Jumper,41,52
+16:26,South Carolina,Maik Kotsar,Offensive Rebound,41,52
+16:14,South Carolina,Felipe Haase,Turnover,41,52
+15:58,South Carolina,Felipe Haase,Foul,41,52
+15:58,South Carolina,None,None,41,52
+15:45,Missouri,Torrence Watson,Missed Three Point Jumper,41,52
+15:45,South Carolina,A.J. Lawson,Defensive Rebound,41,52
+15:36,South Carolina,A.J. Lawson,Missed Layup,41,52
+15:36,South Carolina,Maik Kotsar,Offensive Rebound,41,52
+15:31,South Carolina,A.J. Lawson,Missed Three Point Jumper,41,52
+15:31,Missouri,Torrence Watson,Defensive Rebound,41,52
+15:24,Missouri,Mark Smith,Three Point Jumper,44,52
+15:00,South Carolina,Maik Kotsar,Missed Jumper,44,52
+15:00,Missouri,Torrence Watson,Defensive Rebound,44,52
+14:51,Missouri,Javon Pickett,Three Point Jumper,47,52
+14:48,South Carolina,None,None,47,52
+14:31,South Carolina,Chris Silva,Dunk,47,54
+14:07,Missouri,Mark Smith,Turnover,47,54
+13:49,Missouri,Javon Pickett,Foul,47,54
+13:49,South Carolina,Chris Silva,Free Throw,47,55
+13:49,South Carolina,Chris Silva,Free Throw,47,56
+13:23,Missouri,Jeremiah Tilmon,Missed Jumper,47,56
+13:23,Missouri,Javon Pickett,Offensive Rebound,47,56
+13:21,Missouri,None,None,49,56
+13:08,South Carolina,Keyshawn Bryant,Missed Three Point Jumper,49,56
+13:08,Missouri,Torrence Watson,Defensive Rebound,49,56
+12:58,Missouri,Jeremiah Tilmon,Turnover,49,56
+12:58,Missouri,Jeremiah Tilmon,Foul,49,56
+12:35,South Carolina,Chris Silva,Jumper,49,58
+12:28,South Carolina,A.J. Lawson,Foul,49,58
+12:19,Missouri,K.J. Santos,Missed Three Point Jumper,49,58
+12:19,South Carolina,Felipe Haase,Defensive Rebound,49,58
+12:06,South Carolina,Felipe Haase,Layup,49,60
+11:45,South Carolina,Chris Silva,Foul,49,60
+11:43,South Carolina,None,None,49,60
+11:43,Missouri,Reed Nikko,Free Throw,50,60
+11:43,Missouri,Reed Nikko,Free Throw,51,60
+11:22,South Carolina,Hassani Gravett,Turnover,51,60
+11:10,South Carolina,Alanzo Frink,Foul,51,60
+11:10,Missouri,Mark Smith,Free Throw,52,60
+11:10,Missouri,Mark Smith,Free Throw,53,60
+10:40,South Carolina,Tre Campbell,Turnover,53,60
+10:28,Missouri,Mark Smith,Missed Jumper,53,60
+10:28,Missouri,Mark Smith,Offensive Rebound,53,60
+10:13,Missouri,Jordan Geist,Layup,55,60
+9:55,Missouri,Reed Nikko,Foul,55,60
+9:55,South Carolina,Maik Kotsar,Free Throw,55,61
+9:55,South Carolina,Maik Kotsar,Missed Free Throw,55,61
+9:55,Missouri,Torrence Watson,Defensive Rebound,55,61
+9:41,Missouri,Kevin Puryear,Jumper,57,61
+9:41,South Carolina,Felipe Haase,Foul,57,61
+9:41,Missouri,Kevin Puryear,Free Throw,58,61
+9:23,Missouri,Reed Nikko,Foul,58,61
+9:23,South Carolina,Keyshawn Bryant,Missed Free Throw,58,61
+9:23,South Carolina,None,Team Rebound,58,61
+9:23,South Carolina,Keyshawn Bryant,Missed Free Throw,58,61
+9:23,Missouri,Mark Smith,Defensive Rebound,58,61
+8:59,Missouri,Torrence Watson,Missed Three Point Jumper,58,61
+8:59,South Carolina,Maik Kotsar,Defensive Rebound,58,61
+8:49,South Carolina,Tre Campbell,Missed Jumper,58,61
+8:49,South Carolina,Keyshawn Bryant,Offensive Rebound,58,61
+8:46,South Carolina,Keyshawn Bryant,Layup,58,63
+8:38,Missouri,Jordan Geist,Turnover,58,63
+8:24,Missouri,Javon Pickett,Foul,58,63
+8:24,South Carolina,Hassani Gravett,Free Throw,58,64
+8:24,South Carolina,Hassani Gravett,Free Throw,58,65
+8:17,South Carolina,Keyshawn Bryant,Foul,58,65
+8:17,Missouri,Javon Pickett,Free Throw,59,65
+8:17,Missouri,Javon Pickett,Free Throw,60,65
+7:58,South Carolina,Felipe Haase,Turnover,60,65
+7:57,Missouri,Javon Pickett,Steal,60,65
+7:54,South Carolina,Tre Campbell,Foul,60,65
+7:54,South Carolina,None,None,60,65
+7:54,Missouri,Javon Pickett,Free Throw,61,65
+7:54,Missouri,Javon Pickett,Free Throw,62,65
+7:41,South Carolina,Chris Silva,Layup,62,67
+7:41,Missouri,Kevin Puryear,Foul,62,67
+7:41,South Carolina,Chris Silva,Missed Free Throw,62,67
+7:41,Missouri,Reed Nikko,Defensive Rebound,62,67
+7:19,Missouri,Jordan Geist,Missed Three Point Jumper,62,67
+7:19,Missouri,Reed Nikko,Offensive Rebound,62,67
+7:13,Missouri,Reed Nikko,Turnover,62,67
+7:13,South Carolina,Maik Kotsar,Steal,62,67
+6:46,South Carolina,Keyshawn Bryant,Missed Jumper,62,67
+6:46,South Carolina,Maik Kotsar,Offensive Rebound,62,67
+6:43,South Carolina,Chris Silva,Missed Jumper,62,67
+6:43,South Carolina,Keyshawn Bryant,Offensive Rebound,62,67
+6:41,South Carolina,None,None,62,69
+6:12,Missouri,Jordan Geist,Turnover,62,69
+6:12,South Carolina,A.J. Lawson,Steal,62,69
+6:08,South Carolina,Keyshawn Bryant,Layup,62,71
+5:59,Missouri,None,None,62,71
+5:53,Missouri,Jordan Geist,Layup,64,71
+5:53,South Carolina,Maik Kotsar,Foul,64,71
+5:53,Missouri,Jordan Geist,Free Throw,65,71
+5:36,South Carolina,A.J. Lawson,Missed Jumper,65,71
+5:36,Missouri,Mark Smith,Defensive Rebound,65,71
+5:25,Missouri,Reed Nikko,Turnover,65,71
+5:25,Missouri,Reed Nikko,Foul,65,71
+5:11,South Carolina,Keyshawn Bryant,Jumper,65,73
+4:59,Missouri,Jordan Geist,Missed Three Point Jumper,65,73
+4:59,Missouri,Missouri,Offensive Rebound,65,73
+4:46,Missouri,Jordan Geist,Missed Jumper,65,73
+4:46,Missouri,K.J. Santos,Offensive Rebound,65,73
+4:38,Missouri,Javon Pickett,Jumper,67,73
+4:22,South Carolina,Chris Silva,Turnover,67,73
+4:22,Missouri,Javon Pickett,Steal,67,73
+4:13,South Carolina,Hassani Gravett,Foul,67,73
+4:13,Missouri,Jordan Geist,Missed Free Throw,67,73
+4:13,Missouri,None,Team Rebound,67,73
+4:13,Missouri,Jordan Geist,Missed Free Throw,67,73
+4:13,South Carolina,Chris Silva,Defensive Rebound,67,73
+3:52,South Carolina,Hassani Gravett,Missed Three Point Jumper,67,73
+3:52,Missouri,Reed Nikko,Defensive Rebound,67,73
+3:35,Missouri,K.J. Santos,Missed Jumper,67,73
+3:35,South Carolina,Maik Kotsar,Defensive Rebound,67,73
+3:26,South Carolina,Maik Kotsar,Turnover,67,73
+3:26,South Carolina,Maik Kotsar,Foul,67,73
+3:24,South Carolina,None,None,67,73
+3:13,Missouri,Javon Pickett,Three Point Jumper,70,73
+2:44,South Carolina,Felipe Haase,Three Point Jumper,70,76
+2:28,Missouri,Jordan Geist,Missed Layup,70,76
+2:28,South Carolina,Chris Silva,Defensive Rebound,70,76
+2:06,South Carolina,A.J. Lawson,Three Point Jumper,70,79
+1:43,Missouri,Torrence Watson,Turnover,70,79
+1:43,Missouri,Torrence Watson,Foul,70,79
+1:31,South Carolina,None,None,70,79
+1:21,South Carolina,Tre Campbell,Turnover,70,79
+1:21,Missouri,Jordan Geist,Missed Three Point Jumper,70,79
+1:21,Missouri,Ronnie Suggs,Offensive Rebound,70,79
+0:51,South Carolina,Hassani Gravett,Foul,70,79
+0:51,Missouri,Jordan Geist,Free Throw,71,79
+0:51,Missouri,Jordan Geist,Free Throw,72,79
+0:51,Missouri,Ronnie Suggs,Foul,72,79
+0:51,South Carolina,Hassani Gravett,Free Throw,72,80
+0:51,South Carolina,Hassani Gravett,Free Throw,72,81
+0:41,Missouri,Javon Pickett,Missed Three Point Jumper,72,81
+0:41,South Carolina,Felipe Haase,Defensive Rebound,72,81
+0:38,Missouri,Jordan Geist,Foul,72,81
+0:38,South Carolina,Felipe Haase,Free Throw,72,82
+0:38,South Carolina,Felipe Haase,Free Throw,72,83
+0:30,Missouri,Mark Smith,Missed Three Point Jumper,72,83
+0:30,Missouri,Reed Nikko,Offensive Rebound,72,83
+0:26,Missouri,None,None,74,83
+0:26,Missouri,None,None,74,83
+0:20,Missouri,Mark Smith,Foul,74,83
+0:20,South Carolina,Hassani Gravett,Free Throw,74,84
+0:20,South Carolina,Hassani Gravett,Free Throw,74,85
+0:08,Missouri,Mark Smith,Missed Three Point Jumper,74,85
+0:08,Missouri,Kevin Puryear,Offensive Rebound,74,85
+0:04,South Carolina,Chris Silva,Foul,74,85
+0:04,Missouri,Kevin Puryear,Missed Free Throw,74,85
+0:04,Missouri,None,Team Rebound,74,85
+0:04,Missouri,Kevin Puryear,Free Throw,75,85
+0:00,South Carolina,None,None,75,85

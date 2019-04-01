@@ -1,0 +1,350 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,Stanford,Cormac Ryan,Missed Three Point Jumper,0,0
+19:37,Stanford,Josh Sharma,Offensive Rebound,0,0
+19:30,Stanford,Oscar da Silva,Layup,0,2
+19:08,USC,Bennie Boatwright,Missed Jumper,0,2
+19:04,USC,Shaqquan Aaron,Offensive Rebound,0,2
+19:04,USC,Shaqquan Aaron,Missed Layup,0,2
+18:59,Stanford,Josh Sharma,Defensive Rebound,0,2
+18:56,Stanford,Bryce Wills,Missed Layup,0,2
+18:56,USC,Shaqquan Aaron,Block,0,2
+18:47,USC,Bennie Boatwright,Defensive Rebound,0,2
+18:46,USC,Derryck Thornton,Turnover,0,2
+18:46,Stanford,KZ Okpala,Steal,0,2
+18:37,Stanford,KZ Okpala,Missed Three Point Jumper,0,2
+18:37,USC,Victor Uyaelunmo,Defensive Rebound,0,2
+18:12,USC,Shaqquan Aaron,Missed Layup,0,2
+18:06,Stanford,Oscar da Silva,Defensive Rebound,0,2
+17:54,Stanford,KZ Okpala,Missed Three Point Jumper,0,2
+17:51,USC,Jonah Mathews,Defensive Rebound,0,2
+17:38,USC,Bennie Boatwright,Missed Three Point Jumper,0,2
+17:33,USC,Shaqquan Aaron,Offensive Rebound,0,2
+17:31,USC,Bennie Boatwright,Three Point Jumper,3,2
+17:09,Stanford,Oscar da Silva,Turnover,3,2
+17:04,USC,Derryck Thornton,Missed Layup,3,2
+17:04,Stanford,Josh Sharma,Block,3,2
+17:03,USC,USC,Offensive Rebound,3,2
+16:43,USC,Derryck Thornton,Missed Layup,3,2
+16:41,Stanford,Oscar da Silva,Defensive Rebound,3,2
+16:36,Stanford,KZ Okpala,Missed Layup,3,2
+16:36,USC,Victor Uyaelunmo,Block,3,2
+16:30,Stanford,KZ Okpala,Offensive Rebound,3,2
+16:27,Stanford,Oscar da Silva,Missed Jumper,3,2
+16:22,Stanford,Josh Sharma,Offensive Rebound,3,2
+16:22,Stanford,Josh Sharma,Missed Layup,3,2
+16:21,USC,Bennie Boatwright,Defensive Rebound,3,2
+16:03,USC,Bennie Boatwright,Layup,5,2
+15:48,Stanford,KZ Okpala,Missed Jumper,5,2
+15:45,USC,Shaqquan Aaron,Defensive Rebound,5,2
+15:39,USC,Shaqquan Aaron,Foul,5,2
+15:39,USC,Shaqquan Aaron,Turnover,5,2
+15:39,Stanford,None,None,5,2
+15:39,USC,Shaqquan Aaron,Foul,5,2
+15:39,Stanford,Cormac Ryan,Free Throw,5,3
+15:39,Stanford,Cormac Ryan,Free Throw,5,4
+15:30,Stanford,Josh Sharma,Missed Jumper,5,4
+15:27,USC,Bennie Boatwright,Defensive Rebound,5,4
+15:10,USC,Jonah Mathews,Layup,7,4
+14:55,Stanford,KZ Okpala,Layup,7,6
+14:55,USC,Nick Rakocevic,Foul,7,6
+14:55,Stanford,KZ Okpala,Free Throw,7,7
+14:45,USC,Elijah Weaver,Turnover,7,7
+14:45,Stanford,KZ Okpala,Steal,7,7
+14:39,Stanford,Oscar da Silva,Missed Layup,7,7
+14:39,USC,Jonah Mathews,Block,7,7
+14:38,Stanford,Stanford,Offensive Rebound,7,7
+14:36,Stanford,Josh Sharma,Turnover,7,7
+14:36,USC,Bennie Boatwright,Steal,7,7
+14:31,USC,Bennie Boatwright,Turnover,7,7
+14:31,Stanford,Cormac Ryan,Steal,7,7
+14:31,Stanford,None,None,7,7
+14:16,Stanford,Cormac Ryan,Turnover,7,7
+14:16,USC,Kevin Porter Jr.,Steal,7,7
+14:08,USC,Kevin Porter Jr.,Dunk,9,7
+13:57,Stanford,Bryce Wills,Missed Layup,9,7
+13:53,Stanford,Bryce Wills,Offensive Rebound,9,7
+13:40,Stanford,KZ Okpala,Jumper,9,9
+13:23,USC,Jonah Mathews,Turnover,9,9
+13:23,Stanford,KZ Okpala,Steal,9,9
+13:10,Stanford,KZ Okpala,Missed Jumper,9,9
+13:07,USC,Nick Rakocevic,Defensive Rebound,9,9
+13:01,USC,Nick Rakocevic,Jumper,11,9
+12:43,Stanford,Oscar da Silva,Turnover,11,9
+12:43,USC,Elijah Weaver,Steal,11,9
+12:40,Stanford,Bryce Wills,Foul,11,9
+12:39,USC,Bennie Boatwright,Free Throw,12,9
+12:39,USC,Bennie Boatwright,Free Throw,13,9
+12:11,Stanford,Bryce Wills,Jumper,13,11
+11:51,USC,Jonah Mathews,Three Point Jumper,16,11
+11:23,Stanford,Bryce Wills,Missed Layup,16,11
+11:20,USC,Kevin Porter Jr.,Defensive Rebound,16,11
+11:18,USC,Kevin Porter Jr.,Missed Layup,16,11
+11:15,USC,Jonah Mathews,Offensive Rebound,16,11
+11:03,Stanford,Josh Sharma,Foul,16,11
+11:03,Stanford,None,None,16,11
+11:03,USC,Nick Rakocevic,Free Throw,17,11
+11:02,USC,Nick Rakocevic,Missed Free Throw,17,11
+11:01,Stanford,Josh Sharma,Defensive Rebound,17,11
+10:51,Stanford,Stanford ,Turnover,17,11
+10:46,Stanford,Marcus Sheffield,Foul,17,11
+10:46,USC,Elijah Weaver,Free Throw,18,11
+10:46,USC,Elijah Weaver,Free Throw,19,11
+10:23,Stanford,Cormac Ryan,Missed Three Point Jumper,19,11
+10:20,USC,USC,Defensive Rebound,19,11
+10:07,Stanford,Cormac Ryan,Foul,19,11
+10:07,USC,Jonah Mathews,Free Throw,20,11
+10:06,USC,Jonah Mathews,Missed Free Throw,20,11
+10:05,Stanford,Josh Sharma,Defensive Rebound,20,11
+9:26,USC,Kevin Porter Jr.,Turnover,20,13
+9:12,Stanford,KZ Okpala,Missed Jumper,20,13
+9:05,Stanford,Oscar da Silva,Offensive Rebound,20,13
+9:05,Stanford,Oscar da Silva,Layup,20,15
+8:53,USC,Bennie Boatwright,Missed Jumper,20,15
+8:50,Stanford,Cormac Ryan,Defensive Rebound,20,15
+8:36,Stanford,KZ Okpala,Missed Three Point Jumper,20,15
+8:33,USC,Nick Rakocevic,Defensive Rebound,20,15
+8:27,USC,Nick Rakocevic,Dunk,22,15
+8:11,Stanford,Josh Sharma,Layup,22,17
+8:00,USC,Nick Rakocevic,Layup,24,17
+8:00,Stanford,Josh Sharma,Foul,24,17
+8:00,USC,Nick Rakocevic,Free Throw,25,17
+7:54,USC,Jonah Mathews,Foul,25,17
+7:54,Stanford,None,None,25,17
+7:34,Stanford,KZ Okpala,Turnover,25,17
+7:34,USC,Bennie Boatwright,Steal,25,17
+7:28,USC,Jonah Mathews,Missed Layup,25,17
+7:28,Stanford,Oscar da Silva,Block,25,17
+7:20,USC,Kevin Porter Jr.,Offensive Rebound,25,17
+7:18,USC,Jonah Mathews,Three Point Jumper,28,17
+7:09,USC,Bennie Boatwright,Foul,28,17
+6:55,Stanford,Cormac Ryan,Missed Three Point Jumper,28,17
+6:55,Stanford,None,Team Rebound,28,17
+6:55,USC,Bennie Boatwright,Foul,28,17
+6:48,Stanford,Oscar da Silva,Layup,28,19
+6:48,USC,J'Raan Brooks,Foul,28,19
+6:48,Stanford,Oscar da Silva,Free Throw,28,20
+6:22,USC,Kevin Porter Jr.,Layup,30,20
+6:22,Stanford,Lukas Kisunas,Foul,30,20
+6:22,USC,Kevin Porter Jr.,Free Throw,31,20
+6:13,Stanford,Lukas Kisunas,Missed Layup,31,20
+6:13,USC,Kevin Porter Jr.,Block,31,20
+6:04,USC,J'Raan Brooks,Defensive Rebound,31,20
+6:01,USC,Kevin Porter Jr.,Three Point Jumper,34,20
+5:47,Stanford,Lukas Kisunas,Layup,34,22
+5:17,USC,Jonah Mathews,Missed Layup,34,22
+5:17,Stanford,Oscar da Silva,Block,34,22
+5:10,Stanford,Oscar da Silva,Defensive Rebound,34,22
+5:06,Stanford,Cormac Ryan,Missed Three Point Jumper,34,22
+5:02,USC,Kevin Porter Jr.,Defensive Rebound,34,22
+4:51,USC,Kevin Porter Jr.,Missed Jumper,34,22
+4:51,Stanford,Marcus Sheffield,Block,34,22
+4:51,Stanford,Stanford,Defensive Rebound,34,22
+4:40,Stanford,Lukas Kisunas,Missed Layup,34,22
+4:38,Stanford,Lukas Kisunas,Offensive Rebound,34,22
+4:37,Stanford,Lukas Kisunas,Missed Layup,34,22
+4:34,Stanford,Oscar da Silva,Offensive Rebound,34,22
+4:33,Stanford,Oscar da Silva,Missed Layup,34,22
+4:29,Stanford,Lukas Kisunas,Offensive Rebound,34,22
+4:29,Stanford,Lukas Kisunas,Layup,34,24
+4:20,Stanford,Lukas Kisunas,Foul,34,24
+4:20,USC,Derryck Thornton,Free Throw,35,24
+4:18,USC,Derryck Thornton,Missed Free Throw,35,24
+4:17,Stanford,Marcus Sheffield,Defensive Rebound,35,24
+4:05,Stanford,Jaiden Delaire,Turnover,35,24
+3:46,USC,Derryck Thornton,Missed Jumper,35,24
+3:40,Stanford,Jaiden Delaire,Defensive Rebound,35,24
+3:28,Stanford,Marcus Sheffield,Missed Jumper,35,24
+3:26,USC,J'Raan Brooks,Defensive Rebound,35,24
+3:19,USC,Nick Rakocevic,Missed Layup,35,24
+3:19,Stanford,Oscar da Silva,Block,35,24
+3:14,Stanford,Oscar da Silva,Defensive Rebound,35,24
+3:14,USC,Elijah Weaver,Foul,35,24
+3:14,Stanford,None,None,35,24
+3:14,Stanford,KZ Okpala,Free Throw,35,25
+3:14,Stanford,KZ Okpala,Free Throw,35,26
+2:58,Stanford,KZ Okpala,Foul,35,26
+2:57,USC,Kevin Porter Jr.,Missed Free Throw,35,26
+2:56,Stanford,Jaiden Delaire,Defensive Rebound,35,26
+2:56,USC,Kevin Porter Jr.,Foul,35,26
+2:56,Stanford,Jaiden Delaire,Free Throw,35,27
+2:56,Stanford,Jaiden Delaire,Free Throw,35,28
+2:41,USC,Nick Rakocevic,Missed Dunk,35,28
+2:37,USC,Kevin Porter Jr.,Offensive Rebound,35,28
+2:37,USC,Kevin Porter Jr.,Missed Layup,35,28
+2:37,USC,Nick Rakocevic,Offensive Rebound,35,28
+2:37,Stanford,Oscar da Silva,Foul,35,28
+2:37,USC,Nick Rakocevic,Missed Free Throw,35,28
+2:37,USC,None,Team Rebound,35,28
+2:37,USC,Nick Rakocevic,Free Throw,36,28
+2:24,Stanford,Marcus Sheffield,Three Point Jumper,36,31
+2:21,USC,None,None,36,31
+2:07,USC,J'Raan Brooks,Layup,38,31
+1:57,Stanford,Oscar da Silva,Turnover,38,31
+1:44,USC,Nick Rakocevic,Missed Layup,38,31
+1:41,USC,Nick Rakocevic,Offensive Rebound,38,31
+1:41,USC,Nick Rakocevic,Missed Layup,38,31
+1:38,Stanford,Bryce Wills,Defensive Rebound,38,31
+1:37,Stanford,Bryce Wills,Layup,38,33
+1:13,USC,Elijah Weaver,Missed Layup,38,33
+1:08,Stanford,Marcus Sheffield,Defensive Rebound,38,33
+1:03,Stanford,Marcus Sheffield,Dunk,38,35
+0:31,USC,Kevin Porter Jr.,Dunk,40,35
+0:02,Stanford,Jaiden Delaire,Missed Three Point Jumper,40,35
+0:00,USC,Elijah Weaver,Defensive Rebound,40,35
+0:00,Stanford,None,None,40,35
+19:50,USC,Nick Rakocevic,Missed Layup,40,35
+19:50,Stanford,Josh Sharma,Block,40,35
+19:45,USC,Nick Rakocevic,Offensive Rebound,40,35
+19:44,USC,Nick Rakocevic,Turnover,40,35
+19:44,Stanford,Bryce Wills,Steal,40,35
+19:44,USC,Jonah Mathews,Foul,40,35
+19:32,Stanford,KZ Okpala,Jumper,40,37
+19:10,Stanford,Oscar da Silva,Foul,40,37
+19:10,USC,Bennie Boatwright,Free Throw,41,37
+19:08,USC,Bennie Boatwright,Missed Free Throw,41,37
+19:06,Stanford,Oscar da Silva,Defensive Rebound,41,37
+18:59,Stanford,Bryce Wills,Missed Layup,41,37
+18:55,USC,Nick Rakocevic,Defensive Rebound,41,37
+18:47,USC,Shaqquan Aaron,Turnover,41,37
+18:35,Stanford,Cormac Ryan,Turnover,41,37
+18:35,USC,Shaqquan Aaron,Steal,41,37
+18:35,Stanford,KZ Okpala,Foul,41,37
+18:33,USC,Shaqquan Aaron,Turnover,41,37
+18:33,Stanford,Oscar da Silva,Steal,41,37
+18:33,Stanford,KZ Okpala,Dunk,41,39
+18:30,Stanford,Oscar da Silva,Foul,41,39
+17:55,USC,Derryck Thornton,Jumper,43,39
+17:28,Stanford,Marcus Sheffield,Missed Three Point Jumper,43,39
+17:25,USC,Bennie Boatwright,Defensive Rebound,43,39
+17:07,USC,Bennie Boatwright,Layup,45,39
+16:48,Stanford,KZ Okpala,Missed Layup,45,39
+16:45,Stanford,Bryce Wills,Offensive Rebound,45,39
+16:37,Stanford,Cormac Ryan,Missed Three Point Jumper,45,39
+16:33,Stanford,Josh Sharma,Offensive Rebound,45,39
+16:24,Stanford,Josh Sharma,Dunk,45,41
+16:01,USC,Jonah Mathews,Missed Three Point Jumper,45,41
+15:58,USC,Bennie Boatwright,Offensive Rebound,45,41
+15:51,USC,Kevin Porter Jr.,Missed Three Point Jumper,45,41
+15:49,Stanford,Josh Sharma,Defensive Rebound,45,41
+15:42,Stanford,KZ Okpala,Jumper,45,43
+15:42,USC,None,None,45,43
+15:42,Stanford,None,None,45,43
+15:41,Stanford,None,None,45,43
+15:29,USC,Bennie Boatwright,Three Point Jumper,48,43
+15:18,USC,Bennie Boatwright,Foul,48,43
+15:18,Stanford,None,None,48,43
+15:04,Stanford,KZ Okpala,Missed Jumper,48,43
+15:00,Stanford,Josh Sharma,Offensive Rebound,48,43
+15:00,Stanford,Josh Sharma,Dunk,48,45
+14:41,USC,Jonah Mathews,Three Point Jumper,51,45
+14:16,Stanford,KZ Okpala,Missed Three Point Jumper,51,45
+14:14,USC,Derryck Thornton,Defensive Rebound,51,45
+14:08,Stanford,Cormac Ryan,Foul,51,45
+14:00,USC,Kevin Porter Jr.,Missed Jumper,51,45
+13:56,Stanford,Jaiden Delaire,Defensive Rebound,51,45
+13:37,Stanford,Bryce Wills,Three Point Jumper,51,48
+13:10,USC,Nick Rakocevic,Missed Layup,51,48
+13:05,Stanford,Bryce Wills,Defensive Rebound,51,48
+12:47,Stanford,KZ Okpala,Jumper,51,50
+12:27,USC,Bennie Boatwright,Turnover,51,50
+11:42,USC,Nick Rakocevic,Foul,51,52
+11:41,Stanford,None,None,51,52
+11:41,Stanford,None,None,51,52
+11:41,Stanford,Josh Sharma,Foul,51,52
+11:41,Stanford,None,None,51,52
+11:41,Stanford,None,None,51,52
+11:32,USC,Shaqquan Aaron,Jumper,53,52
+11:02,USC,Kevin Porter Jr.,Foul,53,52
+10:44,Stanford,Jaiden Delaire,Layup,53,54
+10:23,USC,Kevin Porter Jr.,Turnover,53,54
+10:23,Stanford,KZ Okpala,Steal,53,54
+10:23,USC,Kevin Porter Jr.,Foul,53,54
+10:04,Stanford,Jaiden Delaire,Turnover,53,54
+9:50,USC,Elijah Weaver,Turnover,53,54
+9:36,USC,Shaqquan Aaron,Foul,53,54
+9:36,Stanford,KZ Okpala,Free Throw,53,55
+9:32,Stanford,KZ Okpala,Missed Free Throw,53,55
+9:30,Stanford,Bryce Wills,Offensive Rebound,53,55
+9:27,Stanford,Marcus Sheffield,Layup,53,57
+9:11,USC,Elijah Weaver,Three Point Jumper,56,57
+8:56,Stanford,Josh Sharma,Dunk,56,59
+8:41,Stanford,KZ Okpala,Foul,56,59
+8:39,USC,Bennie Boatwright,Turnover,56,59
+8:16,Stanford,Oscar da Silva,Missed Three Point Jumper,56,59
+8:09,Stanford,Josh Sharma,Offensive Rebound,56,59
+8:09,Stanford,Josh Sharma,Layup,56,61
+8:07,USC,None,None,56,61
+8:07,Stanford,None,None,56,61
+7:52,USC,Bennie Boatwright,Jumper,58,61
+7:27,Stanford,Marcus Sheffield,Three Point Jumper,58,64
+7:09,USC,Kevin Porter Jr.,Missed Three Point Jumper,58,64
+7:07,USC,Nick Rakocevic,Offensive Rebound,58,64
+7:01,USC,Nick Rakocevic,Layup,60,64
+6:46,Stanford,Bryce Wills,Missed Layup,60,64
+6:46,USC,USC,Defensive Rebound,60,64
+6:28,USC,Kevin Porter Jr.,Missed Jumper,60,64
+6:26,USC,Bennie Boatwright,Offensive Rebound,60,64
+6:25,USC,Bennie Boatwright,Layup,62,64
+5:59,Stanford,Oscar da Silva,Missed Jumper,62,64
+5:59,USC,Nick Rakocevic,Defensive Rebound,62,64
+5:59,Stanford,Oscar da Silva,Foul,62,64
+5:59,USC,Nick Rakocevic,Free Throw,63,64
+5:59,USC,Nick Rakocevic,Free Throw,64,64
+5:44,Stanford,Josh Sharma,Foul,64,64
+5:44,Stanford,Josh Sharma,Turnover,64,64
+5:44,Stanford,None,None,64,64
+5:35,USC,Jonah Mathews,Layup,66,64
+5:18,Stanford,KZ Okpala,Missed Jumper,66,64
+5:15,USC,Kevin Porter Jr.,Defensive Rebound,66,64
+5:04,USC,Jonah Mathews,Turnover,66,64
+5:04,Stanford,Cormac Ryan,Steal,66,64
+5:00,Stanford,Bryce Wills,Missed Layup,66,64
+4:55,USC,Nick Rakocevic,Defensive Rebound,66,64
+4:31,USC,Nick Rakocevic,Layup,68,64
+4:13,Stanford,KZ Okpala,Jumper,68,66
+4:04,USC,Bennie Boatwright,Missed Three Point Jumper,68,66
+4:01,Stanford,KZ Okpala,Defensive Rebound,68,66
+3:58,USC,Derryck Thornton,Foul,68,66
+3:58,Stanford,None,None,68,66
+3:56,Stanford,KZ Okpala,Missed Free Throw,68,66
+3:50,Stanford,KZ Okpala,Offensive Rebound,68,66
+3:45,Stanford,Marcus Sheffield,Three Point Jumper,68,69
+3:18,Stanford,Marcus Sheffield,Foul,68,69
+3:18,USC,Derryck Thornton,Free Throw,69,69
+3:18,USC,Derryck Thornton,Free Throw,70,69
+2:59,Stanford,Oscar da Silva,Three Point Jumper,70,72
+2:46,USC,Jonah Mathews,Layup,72,72
+2:19,Stanford,KZ Okpala,Missed Three Point Jumper,72,72
+2:16,USC,Nick Rakocevic,Defensive Rebound,72,72
+2:00,USC,Derryck Thornton,Jumper,74,72
+1:38,Stanford,KZ Okpala,Foul,74,72
+1:38,Stanford,KZ Okpala,Turnover,74,72
+1:21,USC,Kevin Porter Jr.,Missed Jumper,74,72
+1:21,Stanford,Bryce Wills,Block,74,72
+1:19,USC,USC,Offensive Rebound,74,72
+1:09,Stanford,KZ Okpala,Foul,74,72
+1:09,USC,Bennie Boatwright,Free Throw,75,72
+1:09,USC,Bennie Boatwright,Free Throw,76,72
+1:01,Stanford,Bryce Wills,Turnover,76,72
+0:58,Stanford,Cormac Ryan,Foul,76,72
+0:58,USC,Derryck Thornton,Missed Free Throw,76,72
+0:58,USC,None,Team Rebound,76,72
+0:56,USC,Derryck Thornton,Missed Free Throw,76,72
+0:54,Stanford,Oscar da Silva,Defensive Rebound,76,72
+0:44,Stanford,Marcus Sheffield,Three Point Jumper,76,75
+0:44,Stanford,None,None,76,75
+0:28,USC,Nick Rakocevic,Turnover,76,75
+0:28,Stanford,Josh Sharma,Steal,76,75
+0:23,Stanford,None,None,76,75
+0:13,Stanford,Bryce Wills,Layup,76,77
+0:13,USC,Derryck Thornton,Foul,76,77
+0:12,Stanford,Bryce Wills,Missed Free Throw,76,77
+0:12,USC,Nick Rakocevic,Defensive Rebound,76,77
+0:12,USC,None,None,76,77
+0:02,USC,Bennie Boatwright,Missed Jumper,76,77
+0:02,Stanford,Bryce Wills,Defensive Rebound,76,77
+0:01,USC,Kevin Porter Jr.,Foul,76,77
+0:01,Stanford,Bryce Wills,Free Throw,76,78
+0:01,Stanford,Bryce Wills,Free Throw,76,79
+0:00,Stanford,None,None,76,77
+0:00,Stanford,None,None,76,79

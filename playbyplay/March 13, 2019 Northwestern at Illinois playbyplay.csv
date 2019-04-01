@@ -1,0 +1,352 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Illinois,None,None,0,0
+19:57,Northwestern,None,None,0,0
+19:42,Northwestern,Dererk Pardon,Missed Layup,0,0
+19:42,Illinois,Aaron Jordan,Defensive Rebound,0,0
+19:24,Illinois,Giorgi Bezhanishvili,Missed Layup,0,0
+19:24,Northwestern,Miller Kopp,Defensive Rebound,0,0
+19:15,Northwestern,Miller Kopp,Missed Layup,0,0
+19:15,Illinois,Aaron Jordan,Defensive Rebound,0,0
+19:15,Illinois,Trent Frazier,Missed Layup,0,0
+19:15,Northwestern,Miller Kopp,Block,0,0
+19:15,Northwestern,Anthony Gaines,Defensive Rebound,0,0
+18:52,Northwestern,Dererk Pardon,Missed Jumper,0,0
+18:52,Illinois,Da'Monte Williams,Defensive Rebound,0,0
+18:34,Illinois,Giorgi Bezhanishvili,Layup,0,2
+18:17,Northwestern,Anthony Gaines,Layup,2,2
+17:56,Illinois,Giorgi Bezhanishvili,Layup,2,4
+17:40,Northwestern,Miller Kopp,Layup,4,4
+17:10,Illinois,Aaron Jordan,Missed Layup,4,4
+17:10,Northwestern,Ryan Taylor,Defensive Rebound,4,4
+17:01,Northwestern,Ryan Taylor,Missed Jumper,4,4
+17:01,Illinois,Da'Monte Williams,Defensive Rebound,4,4
+16:53,Illinois,Trent Frazier,Missed Layup,4,4
+16:53,Northwestern,Anthony Gaines,Defensive Rebound,4,4
+16:44,Northwestern,Ryan Taylor,Missed Three Point Jumper,4,4
+16:44,Illinois,Aaron Jordan,Defensive Rebound,4,4
+16:37,Illinois,Ayo Dosunmu,Missed Three Point Jumper,4,4
+16:37,Northwestern,Miller Kopp,Defensive Rebound,4,4
+16:22,Northwestern,A.J. Turner,Missed Jumper,4,4
+16:22,Illinois,Giorgi Bezhanishvili,Defensive Rebound,4,4
+16:02,Illinois,Giorgi Bezhanishvili,Layup,4,6
+15:49,Illinois,None,None,4,6
+15:41,Northwestern,Miller Kopp,Turnover,4,6
+15:41,Illinois,Andres Feliz,Steal,4,6
+15:20,Illinois,Adonis De La Rosa,Turnover,4,6
+15:11,Northwestern,Ryan Greer,Missed Jumper,4,6
+15:11,Northwestern,Northwestern,Offensive Rebound,4,6
+15:09,Illinois,Adonis De La Rosa,Foul,4,6
+15:02,Northwestern,Ryan Greer,Foul,4,6
+15:02,Northwestern,Ryan Greer,Turnover,4,6
+14:52,Illinois,Kipper Nichols,Missed Jumper,4,6
+14:52,Northwestern,Ryan Taylor,Defensive Rebound,4,6
+14:33,Northwestern,Ryan Taylor,Missed Layup,4,6
+14:33,Illinois,Alan Griffin,Defensive Rebound,4,6
+14:26,Illinois,Tyler Underwood,Missed Three Point Jumper,4,6
+14:26,Illinois,Adonis De La Rosa,Offensive Rebound,4,6
+14:23,Northwestern,Barret Benson,Foul,4,6
+14:22,Illinois,Tyler Underwood,Turnover,4,6
+14:22,Northwestern,Anthony Gaines,Steal,4,6
+14:07,Northwestern,Ryan Greer,Missed Three Point Jumper,4,6
+14:07,Illinois,Tyler Underwood,Defensive Rebound,4,6
+14:02,Illinois,Tyler Underwood,Turnover,4,6
+14:02,Northwestern,Anthony Gaines,Steal,4,6
+13:58,Illinois,Giorgi Bezhanishvili,Layup,4,8
+13:58,Northwestern,Barret Benson,Foul,4,8
+13:58,Illinois,Giorgi Bezhanishvili,Free Throw,4,9
+13:52,Northwestern,Dererk Pardon,Jumper,6,9
+13:27,Illinois,Giorgi Bezhanishvili,Missed Jumper,6,9
+13:27,Northwestern,Ryan Greer,Defensive Rebound,6,9
+13:10,Northwestern,Ryan Greer,Missed Three Point Jumper,6,9
+13:10,Illinois,Trent Frazier,Defensive Rebound,6,9
+12:50,Illinois,Giorgi Bezhanishvili,Missed Jumper,6,9
+12:50,Northwestern,Ryan Greer,Defensive Rebound,6,9
+12:44,Northwestern,Anthony Gaines,Missed Three Point Jumper,6,9
+12:44,Northwestern,Aaron Falzon,Offensive Rebound,6,9
+12:36,Northwestern,Aaron Falzon,Missed Three Point Jumper,6,9
+12:36,Illinois,Kipper Nichols,Defensive Rebound,6,9
+12:05,Illinois,Da'Monte Williams,Turnover,6,9
+12:05,Northwestern,Ryan Greer,Steal,6,9
+11:59,Illinois,None,None,6,9
+11:52,Northwestern,Aaron Falzon,Three Point Jumper,9,9
+11:30,Illinois,Giorgi Bezhanishvili,Layup,9,11
+11:30,Northwestern,Anthony Gaines,Foul,9,11
+11:30,Illinois,Giorgi Bezhanishvili,Free Throw,9,12
+11:17,Northwestern,Miller Kopp,Jumper,11,12
+11:10,Illinois,Ayo Dosunmu,Foul,11,12
+11:10,Illinois,Ayo Dosunmu,Turnover,11,12
+11:04,Northwestern,Aaron Falzon,Missed Three Point Jumper,11,12
+11:04,Illinois,Da'Monte Williams,Defensive Rebound,11,12
+10:54,Illinois,Ayo Dosunmu,Missed Jumper,11,12
+10:54,Northwestern,Aaron Falzon,Defensive Rebound,11,12
+10:36,Northwestern,Miller Kopp,Missed Jumper,11,12
+10:36,Illinois,Da'Monte Williams,Defensive Rebound,11,12
+10:29,Illinois,Da'Monte Williams,Turnover,11,12
+10:29,Northwestern,Anthony Gaines,Steal,11,12
+10:15,Northwestern,A.J. Turner,Missed Three Point Jumper,11,12
+10:15,Illinois,Aaron Jordan,Defensive Rebound,11,12
+9:44,Illinois,Giorgi Bezhanishvili,Jumper,11,14
+9:23,Illinois,Da'Monte Williams,Foul,11,14
+9:13,Northwestern,A.J. Turner,Jumper,13,14
+9:01,Illinois,Adonis De La Rosa,Missed Layup,13,14
+9:01,Northwestern,Northwestern,Defensive Rebound,13,14
+8:57,Northwestern,A.J. Turner,Turnover,13,14
+8:57,Illinois,Kipper Nichols,Steal,13,14
+8:55,Northwestern,Miller Kopp,Foul,13,14
+8:55,Illinois,Kipper Nichols,Free Throw,13,15
+8:55,Illinois,Kipper Nichols,Free Throw,13,16
+8:40,Northwestern,Aaron Falzon,Missed Three Point Jumper,13,16
+8:40,Illinois,Kipper Nichols,Defensive Rebound,13,16
+8:30,Illinois,Ayo Dosunmu,Missed Three Point Jumper,13,16
+8:30,Northwestern,A.J. Turner,Defensive Rebound,13,16
+8:20,Northwestern,Miller Kopp,Three Point Jumper,16,16
+8:05,Northwestern,Barret Benson,Foul,16,16
+7:49,Illinois,Trent Frazier,Three Point Jumper,16,19
+7:31,Northwestern,A.J. Turner,Missed Three Point Jumper,16,19
+7:31,Illinois,Tyler Underwood,Defensive Rebound,16,19
+7:23,Illinois,Kipper Nichols,Missed Jumper,16,19
+7:23,Northwestern,Miller Kopp,Defensive Rebound,16,19
+7:16,Northwestern,A.J. Turner,Foul,16,19
+7:16,Northwestern,A.J. Turner,Turnover,16,19
+7:16,Illinois,None,None,16,19
+6:55,Illinois,Kipper Nichols,Missed Jumper,16,19
+6:55,Northwestern,Pete Nance,Defensive Rebound,16,19
+6:28,Northwestern,Anthony Gaines,Layup,18,19
+5:57,Illinois,Trent Frazier,Jumper,18,21
+5:40,Illinois,Kipper Nichols,Foul,18,21
+5:38,Illinois,Ayo Dosunmu,Foul,18,21
+5:27,Northwestern,Ryan Greer,Turnover,18,21
+5:17,Illinois,Aaron Jordan,Three Point Jumper,18,24
+4:55,Northwestern,Miller Kopp,Layup,20,24
+4:31,Illinois,Aaron Jordan,Missed Layup,20,24
+4:31,Northwestern,Miller Kopp,Defensive Rebound,20,24
+4:24,Northwestern,Miller Kopp,Missed Three Point Jumper,20,24
+4:24,Illinois,Andres Feliz,Defensive Rebound,20,24
+4:07,Illinois,Giorgi Bezhanishvili,Jumper,20,26
+3:44,Northwestern,Dererk Pardon,Three Point Jumper,23,26
+3:26,Illinois,Andres Feliz,Turnover,23,26
+3:26,Northwestern,Anthony Gaines,Steal,23,26
+3:21,Northwestern,Dererk Pardon,Missed Three Point Jumper,23,26
+3:21,Illinois,Andres Feliz,Defensive Rebound,23,26
+3:08,Northwestern,Anthony Gaines,Foul,23,26
+3:08,Illinois,None,None,23,26
+3:08,Illinois,Andres Feliz,Missed Free Throw,23,26
+3:08,Northwestern,Aaron Falzon,Defensive Rebound,23,26
+2:55,Northwestern,A.J. Turner,Layup,25,26
+2:37,Illinois,Da'Monte Williams,Missed Layup,25,26
+2:37,Northwestern,Miller Kopp,Defensive Rebound,25,26
+2:29,Northwestern,Ryan Taylor,Missed Three Point Jumper,25,26
+2:29,Northwestern,None,Team Rebound,25,26
+2:27,Illinois,Da'Monte Williams,Foul,25,26
+2:17,Northwestern,A.J. Turner,Missed Jumper,25,26
+2:17,Illinois,Andres Feliz,Defensive Rebound,25,26
+2:05,Illinois,Andres Feliz,Layup,25,28
+1:36,Northwestern,Aaron Falzon,Missed Three Point Jumper,25,28
+1:36,Northwestern,Miller Kopp,Offensive Rebound,25,28
+1:31,Northwestern,Miller Kopp,Turnover,25,28
+1:31,Illinois,Giorgi Bezhanishvili,Steal,25,28
+1:20,Illinois,Andres Feliz,Layup,25,30
+0:58,Illinois,Giorgi Bezhanishvili,Foul,25,30
+0:58,Northwestern,Dererk Pardon,Free Throw,26,30
+0:58,Northwestern,Dererk Pardon,Free Throw,27,30
+0:50,Illinois,Tevian Jones,Missed Three Point Jumper,27,30
+0:50,Illinois,Aaron Jordan,Offensive Rebound,27,30
+0:32,Illinois,Trent Frazier,Missed Jumper,27,30
+0:32,Northwestern,A.J. Turner,Defensive Rebound,27,30
+0:00,Northwestern,Dererk Pardon,Missed Jumper,27,30
+0:00,Northwestern,Aaron Falzon,Offensive Rebound,27,30
+0:00,Illinois,None,None,27,30
+20:00,Illinois,None,None,27,30
+19:34,Illinois,Giorgi Bezhanishvili,Jumper,27,32
+19:06,Northwestern,Dererk Pardon,Layup,29,32
+18:50,Illinois,Da'Monte Williams,Missed Three Point Jumper,29,32
+18:50,Northwestern,Dererk Pardon,Defensive Rebound,29,32
+18:41,Northwestern,A.J. Turner,Three Point Jumper,32,32
+18:19,Illinois,Giorgi Bezhanishvili,Jumper,32,34
+17:55,Northwestern,A.J. Turner,Three Point Jumper,35,34
+17:40,Illinois,Ayo Dosunmu,Missed Jumper,35,34
+17:40,Illinois,Ayo Dosunmu,Offensive Rebound,35,34
+17:32,Illinois,Ayo Dosunmu,Jumper,35,36
+17:22,Northwestern,Dererk Pardon,Dunk,37,36
+17:08,Illinois,Ayo Dosunmu,Missed Layup,37,36
+17:08,Northwestern,Anthony Gaines,Defensive Rebound,37,36
+17:08,Illinois,Ayo Dosunmu,Foul,37,36
+16:51,Northwestern,A.J. Turner,Layup,39,36
+16:43,Illinois,Trent Frazier,Layup,39,38
+16:26,Northwestern,Dererk Pardon,Missed Layup,39,38
+16:26,Illinois,Aaron Jordan,Defensive Rebound,39,38
+16:18,Illinois,Ayo Dosunmu,Layup,39,40
+16:18,Northwestern,Anthony Gaines,Foul,39,40
+16:18,Illinois,Ayo Dosunmu,Free Throw,39,41
+16:18,Northwestern,Anthony Gaines,Missed Layup,39,41
+16:18,Illinois,Da'Monte Williams,Block,39,41
+16:18,Northwestern,Northwestern,Offensive Rebound,39,41
+15:58,Illinois,None,None,39,41
+15:58,Illinois,Kipper Nichols,Foul,39,41
+15:48,Northwestern,A.J. Turner,Jumper,41,41
+15:33,Illinois,Trent Frazier,Missed Jumper,41,41
+15:33,Northwestern,Dererk Pardon,Defensive Rebound,41,41
+15:27,Northwestern,Miller Kopp,Layup,43,41
+15:21,Illinois,Ayo Dosunmu,Missed Layup,43,41
+15:21,Northwestern,Dererk Pardon,Defensive Rebound,43,41
+15:13,Northwestern,Miller Kopp,Missed Three Point Jumper,43,41
+15:13,Illinois,Da'Monte Williams,Defensive Rebound,43,41
+14:53,Illinois,Trent Frazier,Missed Three Point Jumper,43,41
+14:53,Northwestern,Ryan Greer,Defensive Rebound,43,41
+14:23,Northwestern,Ryan Taylor,Missed Three Point Jumper,43,41
+14:23,Northwestern,Ryan Taylor,Offensive Rebound,43,41
+14:18,Northwestern,Ryan Taylor,Layup,45,41
+13:47,Illinois,Da'Monte Williams,Missed Three Point Jumper,45,41
+13:47,Illinois,Kipper Nichols,Offensive Rebound,45,41
+13:24,Illinois,Ayo Dosunmu,Turnover,45,41
+13:24,Northwestern,Dererk Pardon,Steal,45,41
+13:18,Northwestern,A.J. Turner,Missed Three Point Jumper,45,41
+13:18,Illinois,Trent Frazier,Defensive Rebound,45,41
+13:07,Northwestern,Ryan Greer,Foul,45,41
+13:07,Illinois,Trent Frazier,Free Throw,45,42
+13:07,Illinois,Trent Frazier,Free Throw,45,43
+12:45,Northwestern,Barret Benson,Jumper,47,43
+12:17,Illinois,Andres Feliz,Missed Layup,47,43
+12:17,Northwestern,Barret Benson,Defensive Rebound,47,43
+11:56,Illinois,Giorgi Bezhanishvili,Foul,47,43
+11:56,Illinois,None,None,47,43
+11:56,Northwestern,Barret Benson,Free Throw,48,43
+11:56,Northwestern,Barret Benson,Missed Free Throw,48,43
+11:56,Illinois,Andres Feliz,Defensive Rebound,48,43
+11:35,Illinois,Giorgi Bezhanishvili,Layup,48,45
+11:12,Northwestern,Pete Nance,Missed Layup,48,45
+11:12,Illinois,Giorgi Bezhanishvili,Block,48,45
+11:12,Northwestern,Barret Benson,Offensive Rebound,48,45
+11:12,Illinois,Trent Frazier,Foul,48,45
+11:03,Northwestern,A.J. Turner,Missed Jumper,48,45
+11:03,Illinois,Giorgi Bezhanishvili,Defensive Rebound,48,45
+10:43,Illinois,Aaron Jordan,Missed Jumper,48,45
+10:43,Northwestern,Anthony Gaines,Defensive Rebound,48,45
+10:30,Northwestern,Ryan Greer,Foul,48,45
+10:30,Northwestern,Ryan Greer,Turnover,48,45
+10:12,Illinois,Trent Frazier,Three Point Jumper,48,48
+9:43,Northwestern,A.J. Turner,Missed Three Point Jumper,48,48
+9:43,Northwestern,Anthony Gaines,Offensive Rebound,48,48
+9:28,Illinois,Aaron Jordan,Foul,48,48
+9:28,Northwestern,A.J. Turner,Free Throw,49,48
+9:28,Northwestern,A.J. Turner,Missed Free Throw,49,48
+9:28,Illinois,Andres Feliz,Defensive Rebound,49,48
+9:05,Illinois,Giorgi Bezhanishvili,Layup,49,50
+8:45,Northwestern,Ryan Taylor,Missed Three Point Jumper,49,50
+8:45,Illinois,Ayo Dosunmu,Defensive Rebound,49,50
+8:10,Illinois,Illinois ,Turnover,49,50
+8:04,Northwestern,Ryan Taylor,Missed Three Point Jumper,49,50
+8:04,Northwestern,Dererk Pardon,Offensive Rebound,49,50
+7:58,Northwestern,Dererk Pardon,Layup,51,50
+7:45,Northwestern,Ryan Taylor,Foul,51,50
+7:45,Illinois,None,None,51,50
+7:25,Illinois,Trent Frazier,Jumper,51,52
+7:07,Northwestern,Aaron Falzon,Missed Three Point Jumper,51,52
+7:07,Illinois,Andres Feliz,Defensive Rebound,51,52
+6:36,Illinois,Andres Feliz,Missed Layup,51,52
+6:36,Illinois,Trent Frazier,Offensive Rebound,51,52
+6:29,Illinois,Trent Frazier,Missed Jumper,51,52
+6:29,Northwestern,Miller Kopp,Defensive Rebound,51,52
+6:20,Northwestern,A.J. Turner,Missed Three Point Jumper,51,52
+6:20,Illinois,Ayo Dosunmu,Defensive Rebound,51,52
+6:14,Illinois,Trent Frazier,Missed Three Point Jumper,51,52
+6:14,Northwestern,A.J. Turner,Defensive Rebound,51,52
+5:55,Northwestern,Anthony Gaines,Missed Jumper,51,52
+5:55,Illinois,Giorgi Bezhanishvili,Defensive Rebound,51,52
+5:34,Illinois,Ayo Dosunmu,Missed Three Point Jumper,51,52
+5:34,Northwestern,Aaron Falzon,Defensive Rebound,51,52
+5:17,Northwestern,Miller Kopp,Missed Three Point Jumper,51,52
+5:17,Illinois,Giorgi Bezhanishvili,Defensive Rebound,51,52
+4:53,Northwestern,Dererk Pardon,Foul,51,52
+4:53,Northwestern,Aaron Falzon,Foul,51,52
+4:50,Northwestern,Dererk Pardon,Foul,51,52
+4:50,Illinois,Trent Frazier,Free Throw,51,53
+4:50,Illinois,Trent Frazier,Free Throw,51,54
+4:41,Northwestern,None,None,51,54
+4:35,Northwestern,Dererk Pardon,Layup,53,54
+4:04,Illinois,Aaron Jordan,Missed Three Point Jumper,53,54
+4:04,Northwestern,Northwestern,Defensive Rebound,53,54
+3:59,Illinois,None,None,53,54
+3:37,Northwestern,Aaron Falzon,Turnover,53,54
+3:37,Illinois,Giorgi Bezhanishvili,Steal,53,54
+3:29,Illinois,Giorgi Bezhanishvili,Layup,53,56
+3:22,Northwestern,None,None,53,56
+3:18,Northwestern,A.J. Turner,Three Point Jumper,56,56
+2:57,Illinois,Trent Frazier,Layup,56,58
+2:36,Illinois,Giorgi Bezhanishvili,Foul,56,58
+2:36,Northwestern,Dererk Pardon,Free Throw,57,58
+2:36,Northwestern,Dererk Pardon,Free Throw,58,58
+2:14,Illinois,Trent Frazier,Missed Jumper,58,58
+2:14,Northwestern,A.J. Turner,Defensive Rebound,58,58
+1:51,Northwestern,Miller Kopp,Turnover,58,58
+1:51,Illinois,Aaron Jordan,Steal,58,58
+1:44,Illinois,None,None,58,58
+1:37,Illinois,Ayo Dosunmu,Turnover,58,58
+1:37,Northwestern,Anthony Gaines,Steal,58,58
+1:28,Illinois,Giorgi Bezhanishvili,Foul,58,58
+1:28,Northwestern,Anthony Gaines,Free Throw,59,58
+1:28,Northwestern,Anthony Gaines,Missed Free Throw,59,58
+1:28,Northwestern,Aaron Falzon,Offensive Rebound,59,58
+1:05,Northwestern,Miller Kopp,Missed Jumper,59,58
+1:05,Illinois,Aaron Jordan,Defensive Rebound,59,58
+0:35,Illinois,Andres Feliz,Missed Layup,59,58
+0:35,Northwestern,Miller Kopp,Block,59,58
+0:35,Illinois,Andres Feliz,Offensive Rebound,59,58
+0:35,Illinois,Andres Feliz,Layup,59,60
+0:35,Northwestern,Miller Kopp,Foul,59,60
+0:35,Illinois,Andres Feliz,Free Throw,59,61
+0:35,Illinois,None,None,59,61
+0:17,Illinois,Giorgi Bezhanishvili,Foul,59,61
+0:17,Northwestern,A.J. Turner,Free Throw,60,61
+0:17,Northwestern,A.J. Turner,Free Throw,61,61
+0:14,Illinois,None,None,61,61
+0:02,Illinois,Andres Feliz,Missed Layup,61,61
+0:02,Northwestern,Anthony Gaines,Block,61,61
+0:02,Illinois,Illinois,Offensive Rebound,61,61
+0:02,Northwestern,None,None,61,61
+0:00,Illinois,Andres Feliz,Missed Layup,61,61
+0:00,Illinois,None,Team Rebound,61,61
+0:00,Illinois,None,None,61,61
+5:00,Northwestern,None,None,61,61
+4:45,Northwestern,Aaron Falzon,Three Point Jumper,64,61
+4:11,Illinois,Aaron Jordan,Jumper,64,63
+3:55,Illinois,Kipper Nichols,Foul,64,63
+3:55,Northwestern,Aaron Falzon,Free Throw,65,63
+3:55,Northwestern,Aaron Falzon,Free Throw,66,63
+3:55,Northwestern,Aaron Falzon,Missed Free Throw,66,63
+3:55,Illinois,Andres Feliz,Defensive Rebound,66,63
+3:32,Northwestern,Miller Kopp,Foul,66,63
+3:32,Illinois,Andres Feliz,Free Throw,66,64
+3:32,Illinois,Andres Feliz,Free Throw,66,65
+3:08,Northwestern,A.J. Turner,Missed Three Point Jumper,66,65
+3:08,Illinois,Andres Feliz,Defensive Rebound,66,65
+3:00,Illinois,Trent Frazier,Three Point Jumper,66,68
+2:36,Northwestern,Aaron Falzon,Missed Three Point Jumper,66,68
+2:36,Northwestern,Anthony Gaines,Offensive Rebound,66,68
+2:28,Northwestern,Anthony Gaines,Missed Layup,66,68
+2:28,Illinois,Kipper Nichols,Defensive Rebound,66,68
+2:10,Illinois,Ayo Dosunmu,Three Point Jumper,66,71
+1:47,Northwestern,Aaron Falzon,Three Point Jumper,69,71
+1:09,Illinois,Andres Feliz,Jumper,69,73
+0:34,Northwestern,Anthony Gaines,Missed Three Point Jumper,69,73
+0:34,Northwestern,Anthony Gaines,Offensive Rebound,69,73
+0:29,Northwestern,Aaron Falzon,Missed Three Point Jumper,69,73
+0:29,Illinois,Aaron Jordan,Defensive Rebound,69,73
+0:28,Northwestern,Dererk Pardon,Foul,69,73
+0:28,Illinois,Aaron Jordan,Free Throw,69,74
+0:28,Illinois,Aaron Jordan,Missed Free Throw,69,74
+0:28,Northwestern,Anthony Gaines,Defensive Rebound,69,74
+0:22,Northwestern,Anthony Gaines,Missed Three Point Jumper,69,74
+0:22,Northwestern,Dererk Pardon,Offensive Rebound,69,74
+0:22,Northwestern,Dererk Pardon,Missed Jumper,69,74
+0:22,Northwestern,Anthony Gaines,Offensive Rebound,69,74
+0:10,Northwestern,Miller Kopp,Missed Three Point Jumper,69,74
+0:10,Illinois,Andres Feliz,Defensive Rebound,69,74
+0:07,Northwestern,Anthony Gaines,Foul,69,74
+0:07,Illinois,Andres Feliz,Missed Free Throw,69,74
+0:07,Illinois,None,Team Rebound,69,74
+0:07,Illinois,Andres Feliz,Missed Free Throw,69,74
+0:07,Northwestern,Barret Benson,Defensive Rebound,69,74
+0:01,Northwestern,A.J. Turner,Missed Jumper,69,74
+0:01,Illinois,Trent Frazier,Defensive Rebound,69,74
+0:00,Illinois,None,None,69,74

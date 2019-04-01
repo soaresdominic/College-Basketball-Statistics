@@ -1,0 +1,287 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Oregon,None,None,0,0
+19:40,Oregon,Payton Pritchard,Three Point Jumper,3,0
+19:20,Washington,Hameir Wright,Three Point Jumper,3,3
+18:56,Oregon,Louis King,Missed Jumper,3,3
+18:56,Washington,Washington,Defensive Rebound,3,3
+18:37,Washington,Noah Dickerson,Jumper,3,5
+18:16,Oregon,Payton Pritchard,Missed Three Point Jumper,3,5
+18:16,Washington,Hameir Wright,Defensive Rebound,3,5
+17:54,Washington,Hameir Wright,Turnover,3,5
+17:54,Oregon,Payton Pritchard,Steal,3,5
+17:47,Oregon,Payton Pritchard,Layup,5,5
+17:37,Washington,Noah Dickerson,Layup,5,7
+17:09,Oregon,Kenny Wooten,Missed Layup,5,7
+17:09,Washington,Hameir Wright,Block,5,7
+17:09,Oregon,Payton Pritchard,Offensive Rebound,5,7
+17:00,Oregon,Paul White,Turnover,5,7
+17:00,Washington,Hameir Wright,Steal,5,7
+16:36,Washington,Noah Dickerson,Missed Jumper,5,7
+16:36,Washington,Jaylen Nowell,Offensive Rebound,5,7
+16:30,Washington,Jaylen Nowell,Missed Jumper,5,7
+16:30,Oregon,Payton Pritchard,Defensive Rebound,5,7
+16:21,Oregon,Francis Okoro,Missed Layup,5,7
+16:21,Washington,Hameir Wright,Block,5,7
+16:21,Washington,Noah Dickerson,Defensive Rebound,5,7
+16:11,Washington,David Crisp,Missed Layup,5,7
+16:11,Washington,Matisse Thybulle,Offensive Rebound,5,7
+16:06,Washington,Matisse Thybulle,Missed Three Point Jumper,5,7
+16:06,Oregon,Kenny Wooten,Defensive Rebound,5,7
+15:36,Oregon,Louis King,Three Point Jumper,8,7
+15:15,Washington,Matisse Thybulle,Missed Three Point Jumper,8,7
+15:15,Washington,Washington,Offensive Rebound,8,7
+15:14,Oregon,Francis Okoro,Foul,8,7
+15:14,Washington,None,None,8,7
+14:59,Washington,David Crisp,Missed Three Point Jumper,8,7
+14:59,Oregon,Payton Pritchard,Defensive Rebound,8,7
+14:52,Oregon,Payton Pritchard,Turnover,8,7
+14:52,Washington,Hameir Wright,Steal,8,7
+14:42,Oregon,Paul White,Foul,8,7
+14:31,Washington,Matisse Thybulle,Missed Three Point Jumper,8,7
+14:31,Washington,Noah Dickerson,Offensive Rebound,8,7
+14:27,Washington,Noah Dickerson,Missed Layup,8,7
+14:27,Oregon,Payton Pritchard,Defensive Rebound,8,7
+14:22,Oregon,Payton Pritchard,Layup,10,7
+14:05,Washington,Noah Dickerson,Turnover,10,7
+14:05,Oregon,Will Richardson,Steal,10,7
+13:46,Oregon,Ehab Amin,Turnover,10,7
+13:19,Washington,Dominic Green,Three Point Jumper,10,10
+12:56,Oregon,Kenny Wooten,Missed Dunk,10,10
+12:56,Oregon,Kenny Wooten,Offensive Rebound,10,10
+12:47,Oregon,Kenny Wooten,Missed Layup,10,10
+12:47,Oregon,Payton Pritchard,Offensive Rebound,10,10
+12:40,Oregon,Ehab Amin,Missed Jumper,10,10
+12:40,Washington,Matisse Thybulle,Defensive Rebound,10,10
+12:26,Washington,Jaylen Nowell,Missed Three Point Jumper,10,10
+12:26,Oregon,Kenny Wooten,Defensive Rebound,10,10
+12:08,Oregon,Ehab Amin,Turnover,10,10
+12:08,Washington,Jaylen Nowell,Steal,10,10
+12:02,Washington,Dominic Green,Missed Three Point Jumper,10,10
+12:02,Oregon,Will Richardson,Defensive Rebound,10,10
+11:56,Oregon,Kenny Wooten,Turnover,10,10
+11:56,Washington,None,None,10,10
+11:36,Washington,Sam Timmins,Dunk,10,12
+11:13,Oregon,Ehab Amin,Missed Three Point Jumper,10,12
+11:13,Washington,Matisse Thybulle,Block,10,12
+11:13,Washington,Dominic Green,Defensive Rebound,10,12
+10:46,Oregon,Payton Pritchard,Foul,10,12
+10:40,Washington,Dominic Green,Missed Three Point Jumper,10,12
+10:40,Oregon,Victor Bailey Jr.,Defensive Rebound,10,12
+10:21,Oregon,Paul White,Missed Jumper,10,12
+10:21,Oregon,Francis Okoro,Offensive Rebound,10,12
+10:16,Washington,Sam Timmins,Foul,10,12
+10:16,Oregon,Francis Okoro,Missed Free Throw,10,12
+10:16,Oregon,None,Team Rebound,10,12
+10:16,Oregon,Francis Okoro,Missed Free Throw,10,12
+10:16,Washington,Jaylen Nowell,Defensive Rebound,10,12
+10:10,Washington,Nahziah Carter,Missed Three Point Jumper,10,12
+10:10,Washington,Sam Timmins,Offensive Rebound,10,12
+10:00,Washington,Sam Timmins,Turnover,10,12
+9:45,Oregon,Will Richardson,Turnover,10,12
+9:45,Washington,Jaylen Nowell,Steal,10,12
+9:40,Washington,Jaylen Nowell,Foul,10,12
+9:40,Washington,Jaylen Nowell,Turnover,10,12
+9:18,Oregon,Paul White,Layup,12,12
+9:18,Washington,Noah Dickerson,Foul,12,12
+9:18,Oregon,Paul White,Free Throw,13,12
+9:07,Washington,Jamal Bey,Jumper,13,14
+8:47,Oregon,Paul White,Missed Jumper,13,14
+8:47,Washington,Hameir Wright,Defensive Rebound,13,14
+8:19,Washington,Jaylen Nowell,Missed Jumper,13,14
+8:19,Oregon,Victor Bailey Jr.,Defensive Rebound,13,14
+8:08,Washington,Hameir Wright,Foul,13,14
+8:08,Oregon,Francis Okoro,Free Throw,14,14
+8:08,Oregon,Francis Okoro,Free Throw,15,14
+7:46,Washington,Jamal Bey,Missed Three Point Jumper,15,14
+7:46,Oregon,Miles Norris,Defensive Rebound,15,14
+7:13,Oregon,Victor Bailey Jr.,Three Point Jumper,18,14
+6:49,Oregon,Victor Bailey Jr.,Foul,18,14
+6:49,Washington,None,None,18,14
+6:38,Washington,Hameir Wright,Jumper,18,16
+6:05,Oregon,Will Richardson,Missed Three Point Jumper,18,16
+6:05,Washington,Noah Dickerson,Defensive Rebound,18,16
+5:48,Washington,Noah Dickerson,Turnover,18,16
+5:48,Oregon,Francis Okoro,Steal,18,16
+5:28,Oregon,Victor Bailey Jr.,Missed Three Point Jumper,18,16
+5:28,Oregon,Oregon,Offensive Rebound,18,16
+5:20,Oregon,Payton Pritchard,Three Point Jumper,21,16
+4:48,Washington,David Crisp,Jumper,21,18
+4:26,Oregon,Louis King,Missed Jumper,21,18
+4:26,Washington,Noah Dickerson,Defensive Rebound,21,18
+4:19,Washington,Jaylen Nowell,Layup,21,20
+4:12,Oregon,Payton Pritchard,Turnover,21,20
+3:48,Oregon,Kenny Wooten,Foul,21,20
+3:48,Washington,None,None,21,20
+3:27,Washington,Washington ,Turnover,21,20
+2:56,Oregon,Oregon ,Turnover,21,20
+2:38,Washington,David Crisp,Missed Jumper,21,20
+2:38,Oregon,Kenny Wooten,Defensive Rebound,21,20
+2:29,Washington,David Crisp,Foul,21,20
+2:27,Oregon,Paul White,Layup,23,20
+2:03,Washington,Jaylen Nowell,Layup,23,22
+1:42,Oregon,Louis King,Three Point Jumper,26,22
+1:26,Washington,Nahziah Carter,Layup,26,24
+1:09,Oregon,Paul White,Jumper,28,24
+0:42,Washington,Matisse Thybulle,Jumper,28,26
+0:15,Oregon,Paul White,Foul,28,26
+0:15,Oregon,Paul White,Turnover,28,26
+0:01,Washington,Nahziah Carter,Turnover,28,26
+0:01,Oregon,Ehab Amin,Steal,28,26
+0:00,Washington,None,None,28,26
+20:00,Washington,None,None,28,26
+19:42,Washington,Jaylen Nowell,Turnover,28,26
+19:42,Oregon,Kenny Wooten,Steal,28,26
+19:12,Oregon,Paul White,Missed Jumper,28,26
+19:12,Oregon,Kenny Wooten,Offensive Rebound,28,26
+19:08,Oregon,Kenny Wooten,Layup,30,26
+18:50,Washington,David Crisp,Missed Three Point Jumper,30,26
+18:50,Oregon,Francis Okoro,Defensive Rebound,30,26
+18:32,Oregon,Kenny Wooten,Turnover,30,26
+18:32,Washington,Matisse Thybulle,Steal,30,26
+18:28,Washington,Matisse Thybulle,Dunk,30,28
+18:05,Oregon,Francis Okoro,Missed Layup,30,28
+18:04,Washington,Noah Dickerson,Defensive Rebound,30,28
+18:00,Oregon,Payton Pritchard,Foul,30,28
+17:44,Washington,Noah Dickerson,Missed Dunk,30,28
+17:44,Oregon,Kenny Wooten,Block,30,28
+17:44,Oregon,Paul White,Defensive Rebound,30,28
+17:14,Washington,Jaylen Nowell,Foul,30,28
+17:14,Oregon,Louis King,Free Throw,31,28
+17:14,Oregon,Louis King,Free Throw,32,28
+17:14,Oregon,Louis King,Free Throw,33,28
+17:02,Washington,David Crisp,Missed Layup,33,28
+17:02,Oregon,Kenny Wooten,Block,33,28
+17:02,Oregon,Paul White,Defensive Rebound,33,28
+16:33,Oregon,Paul White,Missed Three Point Jumper,33,28
+16:33,Washington,Matisse Thybulle,Defensive Rebound,33,28
+16:25,Washington,Jaylen Nowell,Missed Jumper,33,28
+16:25,Oregon,Francis Okoro,Defensive Rebound,33,28
+15:52,Washington,Jaylen Nowell,Foul,33,28
+15:52,Washington,None,None,33,28
+15:48,Oregon,Louis King,Layup,35,28
+15:26,Washington,Nahziah Carter,Missed Three Point Jumper,35,28
+15:26,Oregon,Louis King,Defensive Rebound,35,28
+14:56,Oregon,Louis King,Missed Three Point Jumper,35,28
+14:56,Oregon,Louis King,Offensive Rebound,35,28
+14:50,Oregon,Louis King,Layup,37,28
+14:30,Washington,Noah Dickerson,Foul,37,28
+14:30,Washington,Noah Dickerson,Turnover,37,28
+14:30,Washington,None,None,37,28
+14:10,Washington,Jaylen Nowell,Foul,37,28
+13:57,Oregon,Payton Pritchard,Missed Three Point Jumper,37,28
+13:57,Washington,David Crisp,Defensive Rebound,37,28
+13:38,Washington,David Crisp,Missed Layup,37,28
+13:38,Oregon,Kenny Wooten,Block,37,28
+13:38,Washington,David Crisp,Offensive Rebound,37,28
+13:27,Washington,Nahziah Carter,Missed Layup,37,28
+13:27,Oregon,Kenny Wooten,Block,37,28
+13:27,Oregon,Louis King,Defensive Rebound,37,28
+13:04,Oregon,Kenny Wooten,Turnover,37,28
+13:04,Washington,Dominic Green,Steal,37,28
+12:45,Washington,Dominic Green,Missed Three Point Jumper,37,28
+12:45,Oregon,Kenny Wooten,Defensive Rebound,37,28
+12:21,Oregon,Louis King,Turnover,37,28
+12:21,Washington,David Crisp,Steal,37,28
+12:14,Washington,David Crisp,Turnover,37,28
+12:14,Oregon,Payton Pritchard,Steal,37,28
+12:10,Oregon,Payton Pritchard,Layup,39,28
+12:00,Washington,None,None,39,28
+12:00,Washington,None,None,39,28
+11:50,Oregon,Kenny Wooten,Foul,39,28
+11:37,Washington,Dominic Green,Missed Three Point Jumper,39,28
+11:37,Oregon,Payton Pritchard,Defensive Rebound,39,28
+11:25,Oregon,Paul White,Three Point Jumper,42,28
+11:04,Washington,Matisse Thybulle,Missed Jumper,42,28
+11:04,Washington,Washington,Offensive Rebound,42,28
+10:52,Washington,David Crisp,Missed Layup,42,28
+10:52,Washington,Noah Dickerson,Offensive Rebound,42,28
+10:48,Washington,Noah Dickerson,Missed Layup,42,28
+10:48,Oregon,Will Richardson,Defensive Rebound,42,28
+10:40,Washington,Matisse Thybulle,Foul,42,28
+10:40,Oregon,Will Richardson,Free Throw,43,28
+10:40,Oregon,Will Richardson,Free Throw,44,28
+10:27,Washington,Noah Dickerson,Layup,44,30
+10:09,Oregon,Paul White,Layup,46,30
+9:54,Oregon,Kenny Wooten,Foul,46,30
+9:52,Washington,David Crisp,Three Point Jumper,46,33
+9:30,Oregon,Will Richardson,Missed Three Point Jumper,46,33
+9:30,Washington,Dominic Green,Defensive Rebound,46,33
+9:04,Washington,Matisse Thybulle,Missed Three Point Jumper,46,33
+9:04,Oregon,Will Richardson,Defensive Rebound,46,33
+8:32,Washington,Noah Dickerson,Foul,46,33
+8:32,Oregon,Payton Pritchard,Free Throw,47,33
+8:32,Oregon,Payton Pritchard,Free Throw,48,33
+8:13,Washington,Nahziah Carter,Missed Jumper,48,33
+8:13,Oregon,Ehab Amin,Defensive Rebound,48,33
+7:51,Oregon,Louis King,Foul,48,33
+7:51,Oregon,Louis King,Turnover,48,33
+7:51,Washington,None,None,48,33
+7:32,Oregon,Francis Okoro,Foul,48,33
+7:32,Washington,Jaylen Nowell,Free Throw,48,34
+7:32,Washington,Jaylen Nowell,Free Throw,48,35
+7:04,Oregon,Paul White,Jumper,50,35
+6:56,Washington,Dominic Green,Turnover,50,35
+6:56,Oregon,Payton Pritchard,Steal,50,35
+6:45,Washington,Dominic Green,Foul,50,35
+6:45,Oregon,Will Richardson,Free Throw,51,35
+6:45,Oregon,Will Richardson,Free Throw,52,35
+6:19,Oregon,Louis King,Foul,52,35
+6:16,Washington,Hameir Wright,Missed Three Point Jumper,52,35
+6:16,Oregon,Ehab Amin,Defensive Rebound,52,35
+5:39,Oregon,Oregon ,Turnover,52,35
+5:30,Washington,Jaylen Nowell,Missed Jumper,52,35
+5:30,Oregon,Kenny Wooten,Defensive Rebound,52,35
+4:57,Oregon,Kenny Wooten,Dunk,54,35
+4:33,Washington,Nahziah Carter,Foul,54,35
+4:33,Washington,Nahziah Carter,Turnover,54,35
+4:25,Washington,Noah Dickerson,Foul,54,35
+4:25,Oregon,Louis King,Free Throw,55,35
+4:25,Oregon,Louis King,Free Throw,56,35
+4:06,Washington,Noah Dickerson,Foul,56,35
+4:06,Washington,Noah Dickerson,Turnover,56,35
+4:06,Oregon,Louis King,Foul,56,35
+4:06,Washington,Jaylen Nowell,Free Throw,56,36
+4:06,Oregon,Louis King,Foul,56,35
+4:06,Washington,Jaylen Nowell,Free Throw,56,37
+3:42,Oregon,Payton Pritchard,Layup,58,37
+3:24,Washington,Jamal Bey,Three Point Jumper,58,40
+3:12,Washington,Matisse Thybulle,Foul,58,40
+3:12,Washington,None,None,58,40
+3:12,Oregon,Payton Pritchard,Free Throw,59,40
+3:12,Oregon,Payton Pritchard,Free Throw,60,40
+2:53,Washington,Matisse Thybulle,Missed Layup,60,40
+2:53,Washington,Hameir Wright,Offensive Rebound,60,40
+2:48,Washington,Dominic Green,Three Point Jumper,60,43
+2:30,Washington,Dominic Green,Foul,60,43
+2:30,Oregon,Will Richardson,Free Throw,61,43
+2:30,Oregon,Will Richardson,Free Throw,62,43
+2:13,Oregon,Ehab Amin,Foul,62,43
+2:13,Washington,Nahziah Carter,Free Throw,62,44
+2:13,Washington,Nahziah Carter,Free Throw,62,45
+2:04,Washington,Jamal Bey,Foul,62,45
+2:04,Oregon,Ehab Amin,Free Throw,63,45
+2:04,Oregon,Ehab Amin,Free Throw,64,45
+1:56,Washington,Elijah Hardy,Turnover,64,45
+1:56,Oregon,Payton Pritchard,Steal,64,45
+1:52,Oregon,Payton Pritchard,Dunk,66,45
+1:51,Oregon,None,None,66,45
+1:37,Washington,Nahziah Carter,Missed Jumper,66,45
+1:37,Washington,Nahziah Carter,Offensive Rebound,66,45
+1:34,Oregon,Miles Norris,Foul,66,45
+1:34,Washington,Nahziah Carter,Free Throw,66,46
+1:34,Washington,Nahziah Carter,Missed Free Throw,66,46
+1:34,Washington,Washington,Offensive Rebound,66,46
+1:31,Washington,Dominic Green,Missed Three Point Jumper,66,46
+1:31,Oregon,Victor Bailey Jr.,Defensive Rebound,66,46
+0:59,Oregon,Will Richardson,Jumper,68,46
+0:59,Oregon,None,None,68,46
+0:53,Washington,Jamal Bey,Missed Three Point Jumper,68,46
+0:53,Oregon,Victor Bailey Jr.,Defensive Rebound,68,46
+0:49,Oregon,Will Richardson,Turnover,68,46
+0:49,Washington,Jamal Bey,Steal,68,46
+0:45,Washington,Jamal Bey,Layup,68,48
+0:41,Oregon,None,None,68,48
+0:12,Oregon,Oregon ,Turnover,68,48
+0:07,Washington,Elijah Hardy,Missed Three Point Jumper,68,48
+0:07,Oregon,Will Johnson,Defensive Rebound,68,48
+0:00,Washington,None,None,68,48

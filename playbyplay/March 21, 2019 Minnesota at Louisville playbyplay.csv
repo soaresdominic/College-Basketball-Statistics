@@ -1,0 +1,309 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Minnesota,None,None,0,0
+19:31,Minnesota,Amir Coffey,Missed Three Point Jumper,0,0
+19:31,Louisville,Jordan Nwora,Defensive Rebound,0,0
+19:02,Louisville,Dwayne Sutton,Missed Three Point Jumper,0,0
+19:02,Minnesota,Dupree McBrayer,Defensive Rebound,0,0
+18:40,Minnesota,Jordan Murphy,Turnover,0,0
+18:40,Louisville,Khwan Fore,Steal,0,0
+18:35,Louisville,Jordan Nwora,Dunk,0,2
+18:03,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,0,2
+18:03,Minnesota,Minnesota,Offensive Rebound,0,2
+18:00,Minnesota,Minnesota ,Turnover,0,2
+17:39,Louisville,Malik Williams,Missed Three Point Jumper,0,2
+17:39,Minnesota,Jordan Murphy,Defensive Rebound,0,2
+17:22,Louisville,Malik Williams,Foul,0,2
+17:22,Minnesota,Daniel Oturu,Free Throw,1,2
+17:22,Minnesota,Daniel Oturu,Missed Free Throw,1,2
+17:22,Minnesota,Gabe Kalscheur,Offensive Rebound,1,2
+17:18,Minnesota,Jordan Murphy,Missed Three Point Jumper,1,2
+17:18,Minnesota,Gabe Kalscheur,Offensive Rebound,1,2
+17:10,Minnesota,Jordan Murphy,Jumper,3,2
+16:58,Louisville,Khwan Fore,Missed Jumper,3,2
+16:58,Louisville,None,None,3,2
+16:58,Louisville,Malik Williams,Offensive Rebound,3,2
+16:53,Louisville,Dwayne Sutton,Layup,3,4
+16:26,Minnesota,Jordan Murphy,Missed Jumper,3,4
+16:26,Louisville,Christen Cunningham,Defensive Rebound,3,4
+16:00,Louisville,Jordan Nwora,Missed Jumper,3,4
+16:00,Minnesota,Gabe Kalscheur,Defensive Rebound,3,4
+15:44,Minnesota,Jordan Murphy,Layup,5,4
+15:23,Louisville,Dwayne Sutton,Missed Three Point Jumper,5,4
+15:23,Minnesota,Amir Coffey,Defensive Rebound,5,4
+15:13,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,5,4
+15:13,Louisville,Dwayne Sutton,Defensive Rebound,5,4
+14:59,Louisville,Christen Cunningham,Three Point Jumper,5,7
+14:35,Minnesota,Amir Coffey,Three Point Jumper,8,7
+14:14,Louisville,Dwayne Sutton,Missed Three Point Jumper,8,7
+14:14,Minnesota,Gabe Kalscheur,Defensive Rebound,8,7
+14:09,Minnesota,Gabe Kalscheur,Turnover,8,7
+14:09,Louisville,None,None,8,7
+13:58,Louisville,Christen Cunningham,Missed Three Point Jumper,8,7
+13:58,Minnesota,Dupree McBrayer,Defensive Rebound,8,7
+13:42,Minnesota,Daniel Oturu,Layup,10,7
+13:13,Louisville,Steven Enoch,Layup,10,9
+12:56,Minnesota,Daniel Oturu,Missed Jumper,10,9
+12:56,Louisville,Dwayne Sutton,Defensive Rebound,10,9
+12:42,Louisville,Steven Enoch,Layup,10,11
+12:18,Minnesota,Daniel Oturu,Missed Jumper,10,11
+12:18,Minnesota,Daniel Oturu,Offensive Rebound,10,11
+12:11,Minnesota,Amir Coffey,Jumper,12,11
+11:41,Louisville,Darius Perry,Missed Three Point Jumper,12,11
+11:41,Minnesota,Gabe Kalscheur,Defensive Rebound,12,11
+11:32,Minnesota,Dupree McBrayer,Missed Three Point Jumper,12,11
+11:32,Minnesota,Jordan Murphy,Offensive Rebound,12,11
+11:24,Minnesota,Dupree McBrayer,Missed Three Point Jumper,12,11
+11:24,Louisville,Jordan Nwora,Defensive Rebound,12,11
+11:15,Louisville,Jordan Nwora,Missed Jumper,12,11
+11:15,Minnesota,Amir Coffey,Block,12,11
+11:15,Louisville,Jordan Nwora,Offensive Rebound,12,11
+11:13,Louisville,Jordan Nwora,Missed Layup,12,11
+11:13,Minnesota,Jordan Murphy,Defensive Rebound,12,11
+11:13,Louisville,Steven Enoch,Foul,12,11
+11:13,Louisville,None,None,12,11
+10:46,Louisville,Darius Perry,Foul,12,11
+10:43,Minnesota,Amir Coffey,Missed Three Point Jumper,12,11
+10:43,Louisville,V.J. King,Defensive Rebound,12,11
+10:41,Minnesota,Jarvis Omersa,Foul,12,11
+10:28,Louisville,Jordan Nwora,Missed Three Point Jumper,12,11
+10:28,Louisville,V.J. King,Offensive Rebound,12,11
+10:21,Minnesota,Amir Coffey,Foul,12,11
+10:02,Louisville,Steven Enoch,Missed Layup,12,11
+10:02,Minnesota,Jarvis Omersa,Block,12,11
+10:02,Louisville,Steven Enoch,Offensive Rebound,12,11
+10:02,Minnesota,Jarvis Omersa,Foul,12,11
+10:00,Louisville,Ryan McMahon,Three Point Jumper,12,14
+9:28,Minnesota,Daniel Oturu,Missed Jumper,12,14
+9:28,Louisville,Dwayne Sutton,Defensive Rebound,12,14
+9:03,Louisville,Steven Enoch,Layup,12,16
+8:47,Louisville,Dwayne Sutton,Foul,12,16
+8:47,Minnesota,Jordan Murphy,Free Throw,13,16
+8:47,Minnesota,Jordan Murphy,Missed Free Throw,13,16
+8:47,Louisville,Dwayne Sutton,Defensive Rebound,13,16
+8:36,Louisville,Dwayne Sutton,Turnover,13,16
+8:36,Minnesota,Dupree McBrayer,Steal,13,16
+8:31,Minnesota,Amir Coffey,Layup,15,16
+8:11,Louisville,Christen Cunningham,Missed Jumper,15,16
+8:11,Louisville,Louisville,Offensive Rebound,15,16
+8:05,Minnesota,Michael Hurt,Foul,15,16
+8:05,Louisville,Dwayne Sutton,Missed Free Throw,15,16
+8:05,Louisville,None,Team Rebound,15,16
+8:05,Louisville,Dwayne Sutton,Free Throw,15,17
+7:46,Minnesota,Dupree McBrayer,Missed Three Point Jumper,15,17
+7:46,Louisville,Jordan Nwora,Defensive Rebound,15,17
+7:37,Louisville,Ryan McMahon,Turnover,15,17
+7:37,Minnesota,Daniel Oturu,Steal,15,17
+7:13,Minnesota,Dupree McBrayer,Three Point Jumper,18,17
+6:58,Louisville,Christen Cunningham,Missed Jumper,18,17
+6:58,Minnesota,Brock Stull,Defensive Rebound,18,17
+6:48,Minnesota,Amir Coffey,Three Point Jumper,21,17
+6:28,Louisville,Ryan McMahon,Missed Jumper,21,17
+6:28,Minnesota,Daniel Oturu,Defensive Rebound,21,17
+6:28,Louisville,Dwayne Sutton,Foul,21,17
+6:28,Louisville,None,None,21,17
+6:11,Minnesota,Jordan Murphy,Missed Layup,21,17
+6:11,Louisville,Jordan Nwora,Defensive Rebound,21,17
+5:47,Louisville,Malik Williams,Jumper,21,19
+5:20,Minnesota,Daniel Oturu,Layup,23,19
+5:09,Louisville,V.J. King,Missed Jumper,23,19
+5:09,Minnesota,Daniel Oturu,Defensive Rebound,23,19
+4:56,Minnesota,Gabe Kalscheur,Jumper,25,19
+4:24,Louisville,Jordan Nwora,Jumper,25,21
+4:07,Minnesota,Amir Coffey,Missed Three Point Jumper,25,21
+4:07,Louisville,Jordan Nwora,Defensive Rebound,25,21
+3:39,Louisville,Christen Cunningham,Foul,25,21
+3:39,Louisville,Christen Cunningham,Turnover,25,21
+3:39,Louisville,None,None,25,21
+3:18,Louisville,Jordan Nwora,Foul,25,21
+3:18,Minnesota,Jordan Murphy,Missed Free Throw,25,21
+3:18,Minnesota,Gabe Kalscheur,Offensive Rebound,25,21
+3:14,Minnesota,Gabe Kalscheur,Three Point Jumper,28,21
+2:56,Louisville,Jordan Nwora,Three Point Jumper,28,24
+2:34,Minnesota,Gabe Kalscheur,Three Point Jumper,31,24
+2:18,Louisville,Steven Enoch,Jumper,31,26
+2:02,Minnesota,Daniel Oturu,Layup,33,26
+2:02,Louisville,Steven Enoch,Foul,33,26
+2:02,Minnesota,Daniel Oturu,Missed Free Throw,33,26
+2:02,Louisville,Jordan Nwora,Defensive Rebound,33,26
+1:46,Minnesota,Jordan Murphy,Foul,33,26
+1:46,Louisville,Christen Cunningham,Free Throw,33,27
+1:46,Louisville,Christen Cunningham,Free Throw,33,28
+1:30,Minnesota,Daniel Oturu,Missed Jumper,33,28
+1:30,Louisville,Malik Williams,Defensive Rebound,33,28
+1:21,Louisville,Darius Perry,Three Point Jumper,33,31
+1:18,Minnesota,None,None,33,31
+0:51,Minnesota,Dupree McBrayer,Jumper,35,31
+0:30,Louisville,Khwan Fore,Layup,35,33
+0:06,Minnesota,Amir Coffey,Three Point Jumper,38,33
+0:00,Louisville,None,None,38,33
+20:00,Louisville,None,None,38,33
+19:50,Minnesota,Jordan Murphy,Three Point Jumper,41,33
+19:27,Louisville,Dwayne Sutton,Missed Three Point Jumper,41,33
+19:27,Minnesota,Amir Coffey,Defensive Rebound,41,33
+19:14,Minnesota,Gabe Kalscheur,Layup,43,33
+19:14,Louisville,Khwan Fore,Foul,43,33
+19:14,Minnesota,Gabe Kalscheur,Missed Free Throw,43,33
+19:14,Louisville,Steven Enoch,Defensive Rebound,43,33
+18:57,Minnesota,Daniel Oturu,Foul,43,33
+18:50,Louisville,Jordan Nwora,Three Point Jumper,43,36
+18:27,Minnesota,Amir Coffey,Missed Jumper,43,36
+18:27,Louisville,Jordan Nwora,Defensive Rebound,43,36
+18:15,Minnesota,Daniel Oturu,Foul,43,36
+18:01,Louisville,Steven Enoch,Jumper,43,38
+17:49,Louisville,Ryan McMahon,Foul,43,38
+17:48,Minnesota,Gabe Kalscheur,Three Point Jumper,46,38
+17:20,Louisville,Steven Enoch,Missed Jumper,46,38
+17:20,Minnesota,Jordan Murphy,Defensive Rebound,46,38
+17:12,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,46,38
+17:12,Louisville,Steven Enoch,Defensive Rebound,46,38
+17:02,Louisville,Ryan McMahon,Missed Three Point Jumper,46,38
+17:02,Minnesota,Gabe Kalscheur,Defensive Rebound,46,38
+16:42,Minnesota,Amir Coffey,Layup,48,38
+16:24,Louisville,Ryan McMahon,Missed Three Point Jumper,48,38
+16:24,Minnesota,Jordan Murphy,Defensive Rebound,48,38
+16:05,Minnesota,Jordan Murphy,Layup,50,38
+16:05,Louisville,Steven Enoch,Foul,50,38
+16:05,Minnesota,Jordan Murphy,Missed Free Throw,50,38
+16:05,Louisville,Louisville,Defensive Rebound,50,38
+15:41,Louisville,Jordan Nwora,Missed Jumper,50,38
+15:41,Minnesota,Dupree McBrayer,Defensive Rebound,50,38
+15:21,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,50,38
+15:21,Louisville,Steven Enoch,Defensive Rebound,50,38
+15:11,Louisville,Christen Cunningham,Missed Layup,50,38
+15:11,Louisville,Steven Enoch,Offensive Rebound,50,38
+14:57,Louisville,Steven Enoch,Missed Layup,50,38
+14:57,Louisville,Ryan McMahon,Offensive Rebound,50,38
+14:51,Louisville,Steven Enoch,Dunk,50,40
+14:44,Louisville,Jordan Nwora,Foul,50,40
+14:44,Louisville,None,None,50,40
+14:44,Minnesota,Jordan Murphy,Free Throw,51,40
+14:44,Minnesota,Jordan Murphy,Missed Free Throw,51,40
+14:44,Louisville,Jordan Nwora,Defensive Rebound,51,40
+14:21,Minnesota,Jordan Murphy,Foul,51,40
+14:01,Louisville,Darius Perry,Missed Jumper,51,40
+14:01,Louisville,Louisville,Offensive Rebound,51,40
+13:59,Louisville,Louisville ,Turnover,51,40
+13:42,Minnesota,Dupree McBrayer,Missed Three Point Jumper,51,40
+13:42,Minnesota,Jordan Murphy,Offensive Rebound,51,40
+13:33,Minnesota,Jordan Murphy,Jumper,53,40
+13:16,Minnesota,Dupree McBrayer,Foul,53,40
+13:16,Louisville,Darius Perry,Missed Free Throw,53,40
+13:16,Louisville,None,Team Rebound,53,40
+13:16,Louisville,Darius Perry,Free Throw,53,41
+13:16,Louisville,None,None,53,41
+13:16,Louisville,None,None,53,41
+12:50,Minnesota,Amir Coffey,Missed Jumper,53,41
+12:50,Louisville,Jordan Nwora,Defensive Rebound,53,41
+12:36,Louisville,Steven Enoch,Jumper,53,43
+12:29,Louisville,Darius Perry,Foul,53,43
+12:23,Minnesota,Gabe Kalscheur,Three Point Jumper,56,43
+12:04,Louisville,Jordan Nwora,Missed Three Point Jumper,56,43
+12:04,Minnesota,Amir Coffey,Defensive Rebound,56,43
+11:57,Minnesota,Dupree McBrayer,Missed Three Point Jumper,56,43
+11:57,Minnesota,Michael Hurt,Offensive Rebound,56,43
+11:51,Minnesota,Gabe Kalscheur,Three Point Jumper,59,43
+11:19,Louisville,Steven Enoch,Missed Jumper,59,43
+11:19,Minnesota,Daniel Oturu,Block,59,43
+11:19,Minnesota,Michael Hurt,Defensive Rebound,59,43
+10:54,Minnesota,Amir Coffey,Missed Three Point Jumper,59,43
+10:54,Louisville,Jordan Nwora,Defensive Rebound,59,43
+10:48,Louisville,Jordan Nwora,Foul,59,43
+10:48,Louisville,Jordan Nwora,Turnover,59,43
+10:48,Louisville,None,None,59,43
+10:25,Minnesota,Daniel Oturu,Missed Layup,59,43
+10:25,Louisville,Steven Enoch,Defensive Rebound,59,43
+10:18,Louisville,Darius Perry,Missed Three Point Jumper,59,43
+10:18,Minnesota,Gabe Kalscheur,Defensive Rebound,59,43
+9:48,Louisville,Christen Cunningham,Foul,59,43
+9:48,Minnesota,Gabe Kalscheur,Free Throw,60,43
+9:48,Minnesota,Gabe Kalscheur,Free Throw,61,43
+9:48,Minnesota,Gabe Kalscheur,Free Throw,62,43
+9:31,Minnesota,Daniel Oturu,Foul,62,43
+9:31,Louisville,Christen Cunningham,Free Throw,62,44
+9:31,Louisville,Christen Cunningham,Free Throw,62,45
+9:09,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,62,45
+9:09,Louisville,Darius Perry,Defensive Rebound,62,45
+8:58,Louisville,Khwan Fore,Three Point Jumper,62,48
+8:21,Minnesota,Amir Coffey,Turnover,62,48
+8:08,Louisville,Christen Cunningham,Layup,62,50
+7:46,Minnesota,Gabe Kalscheur,Layup,64,50
+7:44,Minnesota,None,None,64,50
+7:44,Louisville,None,None,64,50
+7:30,Minnesota,Gabe Kalscheur,Foul,64,50
+7:30,Louisville,Christen Cunningham,Free Throw,64,51
+7:30,Louisville,Christen Cunningham,Free Throw,64,52
+7:22,Minnesota,Amir Coffey,Missed Layup,64,52
+7:22,Minnesota,Minnesota,Offensive Rebound,64,52
+7:05,Minnesota,Jordan Murphy,Jumper,66,52
+6:50,Minnesota,Gabe Kalscheur,Foul,66,52
+6:50,Louisville,Christen Cunningham,Free Throw,66,53
+6:50,Louisville,Christen Cunningham,Free Throw,66,54
+6:29,Minnesota,Daniel Oturu,Layup,68,54
+6:08,Louisville,Khwan Fore,Jumper,68,56
+5:59,Minnesota,Dupree McBrayer,Layup,70,56
+5:46,Minnesota,Gabe Kalscheur,Foul,70,56
+5:46,Louisville,Christen Cunningham,Free Throw,70,57
+5:46,Louisville,Christen Cunningham,Free Throw,70,58
+5:29,Minnesota,Jordan Murphy,Three Point Jumper,73,58
+5:11,Louisville,Malik Williams,Three Point Jumper,73,61
+4:43,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,73,61
+4:43,Louisville,Darius Perry,Defensive Rebound,73,61
+4:32,Louisville,Darius Perry,Three Point Jumper,73,64
+4:11,Minnesota,Amir Coffey,Missed Layup,73,64
+4:11,Minnesota,Amir Coffey,Offensive Rebound,73,64
+4:10,Louisville,Malik Williams,Foul,73,64
+4:10,Minnesota,Amir Coffey,Missed Free Throw,73,64
+4:10,Minnesota,None,Team Rebound,73,64
+4:10,Minnesota,Amir Coffey,Free Throw,74,64
+3:56,Louisville,Dwayne Sutton,Missed Three Point Jumper,74,64
+3:56,Minnesota,Minnesota,Defensive Rebound,74,64
+3:52,Louisville,None,None,74,64
+3:52,Louisville,None,None,74,64
+3:21,Minnesota,Dupree McBrayer,Missed Jumper,74,64
+3:21,Minnesota,Daniel Oturu,Offensive Rebound,74,64
+3:18,Minnesota,Daniel Oturu,Layup,76,64
+2:51,Louisville,Dwayne Sutton,Missed Three Point Jumper,76,64
+2:51,Louisville,Malik Williams,Offensive Rebound,76,64
+2:44,Louisville,Darius Perry,Three Point Jumper,76,67
+2:13,Minnesota,Dupree McBrayer,Missed Jumper,76,67
+2:13,Louisville,Steven Enoch,Defensive Rebound,76,67
+2:05,Louisville,Darius Perry,Jumper,76,69
+1:38,Louisville,Darius Perry,Foul,76,69
+1:38,Minnesota,Dupree McBrayer,Missed Free Throw,76,69
+1:38,Louisville,Khwan Fore,Defensive Rebound,76,69
+1:25,Louisville,Christen Cunningham,Missed Three Point Jumper,76,69
+1:25,Minnesota,Daniel Oturu,Defensive Rebound,76,69
+1:00,Louisville,Khwan Fore,Foul,76,69
+1:00,Minnesota,Dupree McBrayer,Free Throw,77,69
+1:00,Minnesota,Dupree McBrayer,Free Throw,78,69
+0:52,Louisville,Ryan McMahon,Missed Three Point Jumper,78,69
+0:52,Minnesota,Daniel Oturu,Defensive Rebound,78,69
+0:48,Louisville,Jordan Nwora,Foul,78,69
+0:48,Minnesota,Daniel Oturu,Free Throw,79,69
+0:48,Minnesota,Daniel Oturu,Free Throw,80,69
+0:42,Minnesota,Daniel Oturu,Foul,80,69
+0:42,Louisville,Christen Cunningham,Free Throw,80,70
+0:42,Louisville,Christen Cunningham,Free Throw,80,71
+0:42,Louisville,None,None,80,71
+0:39,Minnesota,None,None,80,71
+0:39,Minnesota,None,None,80,71
+0:32,Louisville,Khwan Fore,Foul,80,71
+0:32,Minnesota,Dupree McBrayer,Free Throw,81,71
+0:32,Minnesota,Dupree McBrayer,Free Throw,82,71
+0:26,Louisville,Christen Cunningham,Layup,82,73
+0:26,Minnesota,Michael Hurt,Foul,82,73
+0:26,Louisville,Christen Cunningham,Free Throw,82,74
+0:26,Minnesota,Gabe Kalscheur,Turnover,82,74
+0:26,Louisville,Christen Cunningham,Steal,82,74
+0:23,Louisville,Malik Williams,Missed Three Point Jumper,82,74
+0:23,Minnesota,Amir Coffey,Defensive Rebound,82,74
+0:20,Louisville,Ryan McMahon,Foul,82,74
+0:20,Minnesota,Amir Coffey,Free Throw,83,74
+0:20,Minnesota,Amir Coffey,Free Throw,84,74
+0:15,Louisville,Christen Cunningham,Layup,84,76
+0:13,Louisville,Christen Cunningham,Foul,84,76
+0:13,Minnesota,Dupree McBrayer,Free Throw,85,76
+0:13,Minnesota,Dupree McBrayer,Free Throw,86,76
+0:07,Louisville,Christen Cunningham,Missed Layup,86,76
+0:07,Minnesota,Amir Coffey,Defensive Rebound,86,76
+0:00,Louisville,None,None,86,76

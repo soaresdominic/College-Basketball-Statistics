@@ -1,0 +1,302 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Clemson,None,None,0,0
+19:47,Clemson,Elijah Thomas,Foul,0,0
+19:47,Clemson,Elijah Thomas,Turnover,0,0
+19:36,Wright State,Loudon Love,Foul,0,0
+19:36,Wright State,Loudon Love,Turnover,0,0
+19:29,Clemson,Marcquise Reed,Jumper,0,2
+19:03,Wright State,Alan Vest,Missed Jumper,0,2
+19:03,Clemson,Aamir Simms,Defensive Rebound,0,2
+18:50,Clemson,Aamir Simms,Missed Three Point Jumper,0,2
+18:50,Wright State,Mark Hughes,Defensive Rebound,0,2
+18:38,Wright State,Parker Ernsthausen,Missed Three Point Jumper,0,2
+18:38,Clemson,David Skara,Defensive Rebound,0,2
+18:18,Clemson,Elijah Thomas,Layup,0,4
+17:58,Wright State,Loudon Love,Turnover,0,4
+17:58,Clemson,Aamir Simms,Steal,0,4
+17:48,Clemson,Clyde Trapp,Missed Layup,0,4
+17:48,Wright State,Loudon Love,Defensive Rebound,0,4
+17:20,Wright State,Mark Hughes,Jumper,2,4
+16:55,Clemson,Marcquise Reed,Layup,2,6
+16:35,Wright State,Billy Wampler,Missed Three Point Jumper,2,6
+16:35,Clemson,Marcquise Reed,Defensive Rebound,2,6
+16:16,Clemson,Marcquise Reed,Jumper,2,8
+15:57,Wright State,Malachi Smith,Missed Layup,2,8
+15:57,Clemson,John Newman III,Block,2,8
+15:57,Wright State,Wright State,Offensive Rebound,2,8
+15:56,Clemson,None,None,2,8
+15:45,Wright State,Billy Wampler,Missed Jumper,2,8
+15:45,Clemson,None,Team Rebound,2,8
+15:29,Clemson,Marcquise Reed,Missed Jumper,2,8
+15:29,Wright State,Skyelar Potter,Defensive Rebound,2,8
+15:18,Wright State,Cole Gentry,Missed Three Point Jumper,2,8
+15:18,Clemson,David Skara,Defensive Rebound,2,8
+15:01,Clemson,Clyde Trapp,Three Point Jumper,2,11
+14:39,Wright State,Malachi Smith,Turnover,2,11
+14:39,Clemson,David Skara,Steal,2,11
+14:35,Clemson,David Skara,Dunk,2,13
+14:13,Wright State,Skyelar Potter,Missed Layup,2,13
+14:13,Clemson,John Newman III,Block,2,13
+14:13,Wright State,Loudon Love,Offensive Rebound,2,13
+14:13,Wright State,Loudon Love,Missed Layup,2,13
+14:13,Clemson,Trey Jemison,Block,2,13
+14:12,Clemson,Clyde Trapp,Defensive Rebound,2,13
+14:00,Clemson,John Newman III,Three Point Jumper,2,16
+13:57,Wright State,None,None,2,16
+13:40,Wright State,Loudon Love,Layup,4,16
+13:18,Clemson,Clyde Trapp,Turnover,4,16
+13:18,Wright State,Billy Wampler,Steal,4,16
+13:15,Clemson,John Newman III,Foul,4,16
+13:15,Wright State,Billy Wampler,Free Throw,5,16
+13:15,Wright State,Billy Wampler,Free Throw,6,16
+12:57,Clemson,David Skara,Three Point Jumper,6,19
+12:40,Wright State,Mark Hughes,Three Point Jumper,9,19
+12:09,Clemson,David Skara,Missed Three Point Jumper,9,19
+12:09,Wright State,Mark Hughes,Defensive Rebound,9,19
+11:55,Clemson,None,None,9,19
+11:46,Wright State,Billy Wampler,Layup,11,19
+11:19,Clemson,Hunter Tyson,Missed Three Point Jumper,11,19
+11:19,Wright State,Mark Hughes,Defensive Rebound,11,19
+11:09,Wright State,Skyelar Potter,Three Point Jumper,14,19
+10:52,Clemson,David Skara,Three Point Jumper,14,22
+10:34,Wright State,Alan Vest,Missed Layup,14,22
+10:34,Clemson,Hunter Tyson,Block,14,22
+10:34,Wright State,Billy Wampler,Offensive Rebound,14,22
+10:27,Wright State,Billy Wampler,Layup,16,22
+10:05,Clemson,Hunter Tyson,Missed Layup,16,22
+10:05,Clemson,Hunter Tyson,Offensive Rebound,16,22
+10:00,Clemson,Hunter Tyson,Missed Layup,16,22
+10:00,Clemson,Clemson,Offensive Rebound,16,22
+9:45,Clemson,Marcquise Reed,Jumper,16,24
+9:26,Wright State,Mark Hughes,Missed Jumper,16,24
+9:26,Clemson,Clyde Trapp,Defensive Rebound,16,24
+9:02,Clemson,Marcquise Reed,Missed Jumper,16,24
+9:02,Clemson,Elijah Thomas,Offensive Rebound,16,24
+8:59,Wright State,Cole Gentry,Foul,16,24
+8:59,Clemson,Elijah Thomas,Free Throw,16,25
+8:59,Clemson,Elijah Thomas,Missed Free Throw,16,25
+8:59,Wright State,Skyelar Potter,Defensive Rebound,16,25
+8:43,Wright State,Malachi Smith,Jumper,18,25
+8:18,Clemson,Elijah Thomas,Layup,18,27
+8:02,Wright State,Skyelar Potter,Three Point Jumper,21,27
+7:49,Clemson,John Newman III,Turnover,21,27
+7:49,Wright State,Skyelar Potter,Steal,21,27
+7:44,Wright State,Skyelar Potter,Layup,23,27
+7:44,Clemson,Hunter Tyson,Foul,23,27
+7:44,Clemson,None,None,23,27
+7:44,Wright State,Skyelar Potter,Free Throw,24,27
+7:37,Clemson,Marcquise Reed,Missed Jumper,24,27
+7:37,Wright State,Cole Gentry,Defensive Rebound,24,27
+7:23,Wright State,Loudon Love,Layup,26,27
+6:59,Clemson,Marcquise Reed,Missed Jumper,26,27
+6:59,Wright State,Skyelar Potter,Defensive Rebound,26,27
+6:38,Wright State,Skyelar Potter,Missed Three Point Jumper,26,27
+6:38,Clemson,Javan White,Defensive Rebound,26,27
+6:26,Clemson,Clyde Trapp,Missed Jumper,26,27
+6:26,Clemson,Clemson,Offensive Rebound,26,27
+6:17,Clemson,Elijah Thomas,Turnover,26,27
+5:55,Wright State,Malachi Smith,Turnover,26,27
+5:55,Clemson,John Newman III,Steal,26,27
+5:44,Clemson,Elijah Thomas,Missed Jumper,26,27
+5:44,Wright State,Loudon Love,Defensive Rebound,26,27
+5:10,Wright State,Cole Gentry,Missed Layup,26,27
+5:10,Clemson,David Skara,Defensive Rebound,26,27
+5:00,Clemson,Marcquise Reed,Layup,26,29
+4:46,Wright State,Alan Vest,Turnover,26,29
+4:46,Clemson,Aamir Simms,Steal,26,29
+4:33,Clemson,John Newman III,Missed Three Point Jumper,26,29
+4:33,Wright State,Mark Hughes,Defensive Rebound,26,29
+4:15,Wright State,Billy Wampler,Three Point Jumper,29,29
+3:55,Clemson,Marcquise Reed,Missed Three Point Jumper,29,29
+3:55,Wright State,Alan Vest,Defensive Rebound,29,29
+3:27,Wright State,Cole Gentry,Missed Three Point Jumper,29,29
+3:27,Clemson,David Skara,Block,29,29
+3:27,Clemson,Clemson,Defensive Rebound,29,29
+3:23,Clemson,None,None,29,29
+3:08,Wright State,Skyelar Potter,Foul,29,29
+3:03,Clemson,David Skara,Missed Three Point Jumper,29,29
+3:03,Wright State,Mark Hughes,Defensive Rebound,29,29
+2:45,Wright State,Loudon Love,Layup,31,29
+2:16,Clemson,Marcquise Reed,Missed Jumper,31,29
+2:16,Wright State,Mark Hughes,Block,31,29
+2:16,Clemson,Clemson,Offensive Rebound,31,29
+2:12,Wright State,Mark Hughes,Foul,31,29
+2:12,Clemson,Marcquise Reed,Missed Free Throw,31,29
+2:12,Clemson,None,Team Rebound,31,29
+2:12,Clemson,Marcquise Reed,Missed Free Throw,31,29
+2:12,Wright State,Skyelar Potter,Defensive Rebound,31,29
+2:03,Wright State,Mark Hughes,Missed Three Point Jumper,31,29
+2:03,Clemson,David Skara,Defensive Rebound,31,29
+1:52,Clemson,Marcquise Reed,Turnover,31,29
+1:52,Wright State,Billy Wampler,Steal,31,29
+1:43,Wright State,Mark Hughes,Layup,33,29
+1:31,Clemson,None,None,33,29
+1:19,Clemson,Marcquise Reed,Layup,33,31
+1:01,Wright State,Mark Hughes,Turnover,33,31
+1:01,Clemson,Elijah Thomas,Steal,33,31
+0:54,Clemson,David Skara,Missed Three Point Jumper,33,31
+0:54,Wright State,Loudon Love,Defensive Rebound,33,31
+0:44,Clemson,Elijah Thomas,Foul,33,31
+0:33,Wright State,Loudon Love,Turnover,33,31
+0:33,Clemson,Javan White,Steal,33,31
+0:07,Clemson,Marcquise Reed,Jumper,33,33
+0:00,Clemson,None,None,33,33
+20:00,Wright State,None,None,33,33
+19:37,Wright State,Parker Ernsthausen,Missed Three Point Jumper,33,33
+19:37,Clemson,Clyde Trapp,Defensive Rebound,33,33
+19:23,Clemson,Elijah Thomas,Jumper,33,35
+19:00,Wright State,Loudon Love,Layup,35,35
+18:36,Clemson,Elijah Thomas,Dunk,35,37
+18:20,Clemson,Elijah Thomas,Foul,35,37
+18:20,Wright State,Mark Hughes,Free Throw,36,37
+18:20,Wright State,Mark Hughes,Free Throw,37,37
+18:05,Clemson,Aamir Simms,Missed Layup,37,37
+18:05,Clemson,David Skara,Offensive Rebound,37,37
+18:02,Clemson,David Skara,Layup,37,39
+17:35,Wright State,Cole Gentry,Three Point Jumper,40,39
+17:23,Clemson,Aamir Simms,Turnover,40,39
+17:23,Clemson,Aamir Simms,Foul,40,39
+16:56,Wright State,Billy Wampler,Three Point Jumper,43,39
+16:25,Clemson,Aamir Simms,Turnover,43,39
+16:25,Wright State,Skyelar Potter,Steal,43,39
+16:18,Wright State,Skyelar Potter,Missed Layup,43,39
+16:18,Clemson,Aamir Simms,Block,43,39
+16:18,Clemson,John Newman III,Defensive Rebound,43,39
+16:09,Clemson,Marcquise Reed,Turnover,43,39
+15:57,Wright State,Malachi Smith,Turnover,43,39
+15:57,Clemson,None,None,43,39
+15:43,Clemson,John Newman III,Jumper,43,41
+15:20,Wright State,Skyelar Potter,Turnover,43,41
+14:59,Clemson,Marcquise Reed,Missed Three Point Jumper,43,41
+14:59,Clemson,Aamir Simms,Offensive Rebound,43,41
+14:59,Clemson,None,None,43,41
+14:59,Wright State,Cole Gentry,Defensive Rebound,43,41
+14:42,Clemson,Aamir Simms,Foul,43,41
+14:42,Wright State,Skyelar Potter,Free Throw,44,41
+14:42,Wright State,Skyelar Potter,Free Throw,45,41
+14:18,Clemson,David Skara,Foul,45,41
+14:18,Clemson,David Skara,Turnover,45,41
+13:58,Wright State,Skyelar Potter,Missed Layup,45,41
+13:58,Clemson,Elijah Thomas,Block,45,41
+13:58,Wright State,Loudon Love,Offensive Rebound,45,41
+13:51,Wright State,Loudon Love,Layup,47,41
+13:41,Clemson,Marcquise Reed,Missed Jumper,47,41
+13:41,Clemson,David Skara,Offensive Rebound,47,41
+13:33,Clemson,Clyde Trapp,Jumper,47,43
+13:33,Wright State,Loudon Love,Foul,47,43
+13:33,Clemson,Clyde Trapp,Missed Free Throw,47,43
+13:33,Wright State,Skyelar Potter,Defensive Rebound,47,43
+13:13,Wright State,Billy Wampler,Missed Jumper,47,43
+13:13,Clemson,Elijah Thomas,Defensive Rebound,47,43
+12:58,Wright State,Loudon Love,Foul,47,43
+12:58,Clemson,Marcquise Reed,Free Throw,47,44
+12:58,Clemson,Marcquise Reed,Free Throw,47,45
+12:43,Wright State,Billy Wampler,Missed Three Point Jumper,47,45
+12:43,Clemson,Elijah Thomas,Defensive Rebound,47,45
+12:29,Clemson,David Skara,Three Point Jumper,47,48
+12:12,Wright State,Cole Gentry,Three Point Jumper,50,48
+11:51,Clemson,Marcquise Reed,Three Point Jumper,50,51
+11:50,Clemson,None,None,50,51
+11:50,Wright State,Skyelar Potter,Foul,50,51
+11:50,Clemson,Elijah Thomas,Free Throw,50,52
+11:50,Clemson,Elijah Thomas,Missed Free Throw,50,52
+11:50,Clemson,None,Team Rebound,50,52
+11:38,Clemson,Elijah Thomas,Jumper,50,54
+11:08,Wright State,Cole Gentry,Missed Jumper,50,54
+11:08,Clemson,Marcquise Reed,Defensive Rebound,50,54
+10:54,Clemson,David Skara,Missed Three Point Jumper,50,54
+10:54,Clemson,Marcquise Reed,Offensive Rebound,50,54
+10:50,Clemson,Marcquise Reed,Missed Layup,50,54
+10:50,Wright State,Cole Gentry,Defensive Rebound,50,54
+10:40,Wright State,Skyelar Potter,Missed Three Point Jumper,50,54
+10:40,Clemson,Aamir Simms,Defensive Rebound,50,54
+10:22,Clemson,Clyde Trapp,Missed Jumper,50,54
+10:22,Clemson,Elijah Thomas,Offensive Rebound,50,54
+10:15,Wright State,Parker Ernsthausen,Foul,50,54
+10:15,Clemson,Elijah Thomas,Free Throw,50,55
+10:15,Clemson,Elijah Thomas,Missed Free Throw,50,55
+10:15,Wright State,Loudon Love,Defensive Rebound,50,55
+10:03,Wright State,Billy Wampler,Missed Layup,50,55
+10:03,Wright State,Loudon Love,Offensive Rebound,50,55
+10:01,Wright State,Loudon Love,Layup,52,55
+9:39,Clemson,Elijah Thomas,Layup,52,57
+9:16,Wright State,Billy Wampler,Missed Layup,52,57
+9:16,Clemson,Elijah Thomas,Block,52,57
+9:16,Wright State,Billy Wampler,Offensive Rebound,52,57
+9:13,Clemson,David Skara,Foul,52,57
+9:13,Wright State,Billy Wampler,Free Throw,53,57
+9:13,Wright State,Billy Wampler,Free Throw,54,57
+8:57,Clemson,Clyde Trapp,Turnover,54,57
+8:36,Wright State,Loudon Love,Layup,56,57
+8:10,Clemson,David Skara,Missed Jumper,56,57
+8:10,Wright State,Cole Gentry,Defensive Rebound,56,57
+7:48,Wright State,Loudon Love,Missed Jumper,56,57
+7:48,Clemson,John Newman III,Defensive Rebound,56,57
+7:19,Clemson,Aamir Simms,Missed Jumper,56,57
+7:19,Clemson,John Newman III,Offensive Rebound,56,57
+7:15,Clemson,Clemson ,Turnover,56,57
+7:15,Clemson,None,None,56,57
+6:54,Wright State,Loudon Love,Missed Layup,56,57
+6:54,Clemson,Elijah Thomas,Block,56,57
+6:54,Wright State,Wright State,Offensive Rebound,56,57
+6:51,Clemson,John Newman III,Foul,56,57
+6:41,Wright State,Billy Wampler,Three Point Jumper,59,57
+6:15,Clemson,David Skara,Three Point Jumper,59,60
+5:55,Wright State,Billy Wampler,Missed Three Point Jumper,59,60
+5:55,Wright State,Cole Gentry,Offensive Rebound,59,60
+5:50,Wright State,Cole Gentry,Missed Three Point Jumper,59,60
+5:50,Clemson,David Skara,Defensive Rebound,59,60
+5:28,Clemson,Clyde Trapp,Missed Three Point Jumper,59,60
+5:28,Wright State,Loudon Love,Defensive Rebound,59,60
+5:12,Wright State,Mark Hughes,Missed Jumper,59,60
+5:12,Wright State,Parker Ernsthausen,Offensive Rebound,59,60
+5:08,Wright State,None,None,59,60
+4:57,Wright State,Loudon Love,Missed Layup,59,60
+4:57,Clemson,David Skara,Defensive Rebound,59,60
+4:33,Clemson,Elijah Thomas,Missed Layup,59,60
+4:33,Wright State,Cole Gentry,Defensive Rebound,59,60
+4:22,Wright State,Cole Gentry,Three Point Jumper,62,60
+4:03,Wright State,Skyelar Potter,Foul,62,60
+4:03,Clemson,Marcquise Reed,Free Throw,62,61
+4:03,Clemson,Marcquise Reed,Free Throw,62,62
+4:03,Clemson,Marcquise Reed,Free Throw,62,63
+3:46,Wright State,Loudon Love,Missed Jumper,62,63
+3:46,Clemson,David Skara,Defensive Rebound,62,63
+3:34,Wright State,Mark Hughes,Foul,62,63
+3:34,Clemson,None,None,62,63
+3:19,Clemson,Clyde Trapp,Three Point Jumper,62,66
+3:04,Wright State,Mark Hughes,Missed Three Point Jumper,62,66
+3:04,Clemson,Marcquise Reed,Defensive Rebound,62,66
+3:00,Clemson,Marcquise Reed,Turnover,62,66
+3:00,Wright State,Cole Gentry,Steal,62,66
+2:58,Wright State,Cole Gentry,Layup,64,66
+2:45,Clemson,Clyde Trapp,Jumper,64,68
+2:31,Wright State,Mark Hughes,Three Point Jumper,67,68
+2:05,Clemson,None,None,67,68
+2:00,Clemson,Marcquise Reed,Layup,67,70
+1:48,Wright State,Cole Gentry,Layup,69,70
+1:24,Wright State,Billy Wampler,Foul,69,70
+1:24,Clemson,Elijah Thomas,Free Throw,69,71
+1:24,Clemson,Elijah Thomas,Free Throw,69,72
+1:08,Wright State,Cole Gentry,Missed Three Point Jumper,69,72
+1:08,Wright State,Cole Gentry,Offensive Rebound,69,72
+0:56,Wright State,None,None,69,72
+0:49,Wright State,Parker Ernsthausen,Missed Three Point Jumper,69,72
+0:49,Wright State,Loudon Love,Offensive Rebound,69,72
+0:47,Clemson,Elijah Thomas,Foul,69,72
+0:47,Wright State,Loudon Love,Missed Free Throw,69,72
+0:47,Wright State,None,Team Rebound,69,72
+0:47,Wright State,Loudon Love,Missed Free Throw,69,72
+0:47,Clemson,Aamir Simms,Defensive Rebound,69,72
+0:24,Clemson,Marcquise Reed,Missed Layup,69,72
+0:24,Clemson,John Newman III,Offensive Rebound,69,72
+0:17,Wright State,Loudon Love,Foul,69,72
+0:17,Clemson,John Newman III,Missed Free Throw,69,72
+0:17,Clemson,None,Team Rebound,69,72
+0:17,Clemson,John Newman III,Free Throw,69,73
+0:10,Wright State,Billy Wampler,Missed Three Point Jumper,69,73
+0:10,Clemson,Clyde Trapp,Defensive Rebound,69,73
+0:01,Wright State,Loudon Love,Foul,69,73
+0:01,Clemson,Clyde Trapp,Free Throw,69,74
+0:01,Clemson,Clyde Trapp,Free Throw,69,75
+0:00,Clemson,None,None,69,75

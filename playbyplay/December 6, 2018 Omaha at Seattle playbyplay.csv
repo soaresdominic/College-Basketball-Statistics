@@ -1,0 +1,331 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:47,Seattle,Myles Carter,Missed Jumper,0,0
+19:46,Seattle,Terrell Brown,Offensive Rebound,0,0
+19:46,Omaha,KJ Robinson,Foul,0,0
+19:41,Seattle,Myles Carter,Turnover,0,0
+19:17,Omaha,Zach Jackson,Missed Layup,0,0
+19:11,Omaha,Matt Pile,Dunk,2,0
+19:11,Omaha,Matt Pile,Offensive Rebound,2,0
+19:04,Seattle,Myles Carter,Layup,2,2
+18:43,Omaha,Mitchell Hahn,Missed Jumper,2,2
+18:40,Seattle,Morgan Means,Defensive Rebound,2,2
+18:26,Seattle,Matej Kavas,Three Point Jumper,2,5
+18:15,Omaha,Zach Jackson,Foul,2,5
+18:15,Omaha,Zach Jackson,Turnover,2,5
+18:00,Seattle,Delante Jones,Three Point Jumper,2,8
+17:38,Omaha,JT Gibson,Three Point Jumper,5,8
+17:26,Seattle,Delante Jones,Missed Three Point Jumper,5,8
+17:25,Omaha,Matt Pile,Defensive Rebound,5,8
+17:24,Seattle,Myles Carter,Foul,5,8
+16:59,Omaha,None,None,5,8
+16:59,Seattle,None,Team Rebound,5,8
+16:49,Seattle,Morgan Means,Missed Three Point Jumper,5,8
+16:46,Omaha,Zach Jackson,Defensive Rebound,5,8
+16:46,Seattle,Terrell Brown,Foul,5,8
+16:46,Omaha,KJ Robinson,Missed Free Throw,5,8
+16:46,Omaha,None,Team Rebound,5,8
+16:46,Omaha,KJ Robinson,Missed Free Throw,5,8
+16:44,Seattle,Morgan Means,Defensive Rebound,5,8
+16:33,Seattle,Matej Kavas,Missed Jumper,5,8
+16:31,Omaha,None,Team Rebound,5,8
+16:23,Omaha,KJ Robinson,Missed Jumper,5,8
+16:23,Seattle,Myles Carter,Block,5,8
+16:23,Omaha,None,Team Rebound,5,8
+16:13,Seattle,Morgan Means,Foul,5,8
+16:07,Omaha,Matt Pile,Missed Layup,5,8
+16:07,Omaha,Matt Pile,Offensive Rebound,5,8
+16:05,Omaha,Mitchell Hahn,Missed Layup,5,8
+16:02,Omaha,Matt Pile,Layup,7,8
+16:02,Omaha,Matt Pile,Offensive Rebound,7,8
+15:49,Seattle,Delante Jones,Jumper,7,10
+15:35,Seattle,Myles Carter,Foul,7,10
+15:35,Seattle,None,None,7,10
+15:35,Omaha,JT Gibson,Free Throw,8,10
+15:35,Omaha,JT Gibson,Free Throw,9,10
+15:28,Seattle,Terrell Brown,Missed Jumper,9,10
+15:24,Seattle,Riley Grigsby,Offensive Rebound,9,10
+15:15,Seattle,Delante Jones,Turnover,9,10
+14:53,Omaha,Zach Jackson,Missed Jumper,9,10
+14:49,Seattle,Terrell Brown,Defensive Rebound,9,10
+14:30,Seattle,Matej Kavas,Three Point Jumper,9,13
+14:10,Omaha,JT Gibson,Missed Three Point Jumper,9,13
+14:06,Seattle,Terrell Brown,Defensive Rebound,9,13
+13:53,Seattle,Matej Kavas,Three Point Jumper,9,16
+13:51,Omaha,None,None,9,16
+13:38,Omaha,Wanjang Tut,Missed Jumper,9,16
+13:35,Seattle,Riley Grigsby,Defensive Rebound,9,16
+13:26,Seattle,Delante Jones,Three Point Jumper,9,19
+13:04,Omaha,Matt Pile,Missed Layup,9,19
+13:02,Seattle,Riley Grigsby,Defensive Rebound,9,19
+12:47,Seattle,Delante Jones,Missed Jumper,9,19
+12:44,Omaha,Matt Pile,Defensive Rebound,9,19
+12:25,Seattle,Delante Jones,Foul,9,19
+12:25,Omaha,Zach Jackson,Free Throw,10,19
+12:25,Omaha,Zach Jackson,Free Throw,11,19
+11:57,Seattle,Riley Grigsby,Layup,11,21
+11:45,Omaha,KJ Robinson,Missed Jumper,11,21
+11:45,Seattle,Terrell Brown,Block,11,21
+11:42,Omaha,Zach Jackson,Foul,11,21
+11:42,Seattle,None,None,11,21
+11:40,Seattle,Terrell Brown,Defensive Rebound,11,21
+11:35,Seattle,Aaron Nettles,Missed Three Point Jumper,11,21
+11:35,Omaha,None,Team Rebound,11,21
+11:14,Omaha,Brett Barney,Layup,13,21
+10:55,Omaha,Wanjang Tut,Foul,13,21
+10:49,Seattle,Matej Kavas,Turnover,13,21
+10:49,Omaha,JT Gibson,Steal,13,21
+10:47,Seattle,Aaron Nettles,Foul,13,21
+10:45,Omaha,JT Gibson,Layup,15,21
+10:31,Seattle,Terrell Brown,Jumper,15,23
+10:02,Omaha,Wanjang Tut,Jumper,17,23
+9:51,Seattle,Riley Grigsby,Layup,17,25
+9:38,Omaha,Wanjang Tut,Missed Jumper,17,25
+9:38,Seattle,Matej Kavas,Defensive Rebound,17,25
+9:38,Omaha,Brett Barney,Foul,17,25
+9:07,Seattle,Delante Jones,Missed Three Point Jumper,17,25
+9:07,Omaha,JT Gibson,Defensive Rebound,17,25
+9:07,Omaha,Brett Barney,Three Point Jumper,20,25
+9:05,Seattle,Myles Carter,Turnover,20,25
+8:46,Omaha,KJ Robinson,Three Point Jumper,23,25
+8:31,Seattle,Delante Jones,Missed Jumper,23,25
+8:27,Omaha,Mitchell Hahn,Defensive Rebound,23,25
+8:17,Omaha,Brett Barney,Layup,25,25
+8:10,Seattle,Myles Carter,Foul,25,25
+8:10,Omaha,Brett Barney,Free Throw,26,25
+7:50,Seattle,Matej Kavas,Missed Three Point Jumper,26,25
+7:48,Omaha,Brett Barney,Defensive Rebound,26,25
+7:39,Omaha,JT Gibson,Missed Three Point Jumper,26,25
+7:39,Seattle,Delante Jones,Block,26,25
+7:32,Seattle,Terrell Brown,Defensive Rebound,26,25
+7:32,Omaha,Brett Barney,Foul,26,25
+7:32,Seattle,None,None,26,25
+7:32,Seattle,Terrell Brown,Missed Free Throw,26,25
+7:32,Seattle,None,Team Rebound,26,25
+7:32,Seattle,Terrell Brown,Free Throw,26,26
+7:18,Omaha,JT Gibson,Missed Layup,26,26
+7:15,Seattle,Delante Jones,Defensive Rebound,26,26
+7:02,Seattle,Morgan Means,Missed Three Point Jumper,26,26
+7:00,Omaha,Ayo Akinwole,Defensive Rebound,26,26
+6:36,Omaha,Matt Pile,Turnover,26,26
+6:19,Seattle,Terrell Brown,Jumper,26,28
+6:07,Omaha,Mitchell Hahn,Missed Three Point Jumper,26,28
+6:05,Seattle,Terrell Brown,Defensive Rebound,26,28
+5:52,Seattle,Terrell Brown,Turnover,26,28
+5:30,Omaha,Mitchell Hahn,Three Point Jumper,29,28
+5:09,Seattle,Morgan Means,Missed Jumper,29,28
+5:07,Omaha,Matt Pile,Defensive Rebound,29,28
+5:00,Omaha,Matt Pile,Foul,29,28
+5:00,Omaha,Matt Pile,Turnover,29,28
+4:48,Omaha,Elishja Duplechan,Foul,29,28
+4:48,Seattle,Delante Jones,Free Throw,29,29
+4:48,Seattle,Delante Jones,Free Throw,29,30
+4:30,Omaha,Mitchell Hahn,Missed Three Point Jumper,29,30
+4:30,Seattle,None,Team Rebound,29,30
+4:11,Seattle,Riley Grigsby,Layup,29,32
+3:48,Omaha,Mitchell Hahn,Missed Three Point Jumper,29,32
+3:44,Seattle,Trey Hopkins,Defensive Rebound,29,32
+3:42,Omaha,Mitchell Hahn,Foul,29,32
+3:42,Seattle,None,None,29,32
+3:42,Seattle,Terrell Brown,Missed Free Throw,29,32
+3:42,Seattle,None,Team Rebound,29,32
+3:42,Seattle,Terrell Brown,Free Throw,29,33
+3:22,Omaha,KJ Robinson,Three Point Jumper,32,33
+3:02,Seattle,Trey Hopkins,Missed Three Point Jumper,32,33
+2:59,Omaha,Ayo Akinwole,Defensive Rebound,32,33
+2:55,Omaha,JT Gibson,Layup,34,33
+2:31,Seattle,Terrell Brown,Missed Layup,34,33
+2:29,Omaha,Matt Pile,Defensive Rebound,34,33
+2:14,Omaha,KJ Robinson,Missed Three Point Jumper,34,33
+2:12,Seattle,Matej Kavas,Defensive Rebound,34,33
+1:55,Seattle,Matej Kavas,Missed Three Point Jumper,34,33
+1:53,Omaha,Mitchell Hahn,Defensive Rebound,34,33
+1:37,Omaha,Mitchell Hahn,Missed Jumper,34,33
+1:33,Seattle,Terrell Brown,Defensive Rebound,34,33
+1:25,Seattle,Terrell Brown,Foul,34,33
+1:25,Seattle,Terrell Brown,Turnover,34,33
+1:13,Seattle,Riley Grigsby,Foul,34,33
+1:13,Omaha,Matt Pile,Free Throw,35,33
+1:13,Omaha,Matt Pile,Missed Free Throw,35,33
+1:11,Seattle,Morgan Means,Defensive Rebound,35,33
+0:51,Seattle,None,None,35,33
+0:39,Seattle,Delante Jones,Three Point Jumper,35,36
+0:31,Omaha,Ayo Akinwole,Turnover,35,36
+0:01,Seattle,Delante Jones,Three Point Jumper,35,39
+0:00,Seattle,None,None,35,39
+19:44,Seattle,Terrell Brown,Jumper,35,41
+19:33,Omaha,KJ Robinson,Foul,35,41
+19:33,Omaha,KJ Robinson,Turnover,35,41
+19:14,Omaha,JT Gibson,Foul,35,41
+18:55,Seattle,Morgan Means,Missed Three Point Jumper,35,41
+18:52,Omaha,Matt Pile,Defensive Rebound,35,41
+18:43,Omaha,Matt Pile,Layup,37,41
+18:24,Seattle,Morgan Means,Three Point Jumper,37,44
+17:55,Omaha,JT Gibson,Missed Jumper,37,44
+17:52,Seattle,Myles Carter,Defensive Rebound,37,44
+17:41,Seattle,Matej Kavas,Three Point Jumper,37,47
+17:19,Omaha,Mitchell Hahn,Missed Layup,37,47
+17:19,Seattle,Myles Carter,Block,37,47
+17:13,Seattle,Terrell Brown,Defensive Rebound,37,47
+17:13,Seattle,Morgan Means,Missed Three Point Jumper,37,47
+17:10,Seattle,Myles Carter,Offensive Rebound,37,47
+17:09,Seattle,Myles Carter,Missed Layup,37,47
+17:06,Omaha,Matt Pile,Defensive Rebound,37,47
+17:03,Omaha,KJ Robinson,Three Point Jumper,40,47
+16:38,Omaha,Matt Pile,Foul,40,47
+16:38,Seattle,Myles Carter,Missed Free Throw,40,47
+16:38,Seattle,None,Team Rebound,40,47
+16:38,Seattle,Myles Carter,Free Throw,40,48
+16:22,Omaha,JT Gibson,Layup,42,48
+16:09,Seattle,Myles Carter,Turnover,42,48
+15:46,Omaha,KJ Robinson,Three Point Jumper,45,48
+15:21,Seattle,Myles Carter,Missed Jumper,45,48
+15:17,Omaha,Matt Pile,Defensive Rebound,45,48
+15:05,Omaha,Mitchell Hahn,Missed Jumper,45,48
+15:02,Seattle,Myles Carter,Defensive Rebound,45,48
+14:53,Seattle,Delante Jones,Layup,45,50
+14:40,Omaha,Matt Pile,Missed Jumper,45,50
+14:38,Seattle,Terrell Brown,Defensive Rebound,45,50
+14:29,Seattle,Terrell Brown,Layup,45,52
+14:04,Omaha,Zach Jackson,Jumper,47,52
+14:04,Seattle,Terrell Brown,Foul,47,52
+14:04,Seattle,None,None,47,52
+14:04,Omaha,Zach Jackson,Free Throw,48,52
+13:45,Omaha,Brett Barney,Foul,48,52
+13:45,Seattle,Delante Jones,Missed Free Throw,48,52
+13:45,Seattle,None,Team Rebound,48,52
+13:45,Seattle,Delante Jones,Free Throw,48,53
+13:33,Omaha,Brett Barney,Layup,50,53
+13:33,Seattle,Terrell Brown,Foul,50,53
+13:33,Omaha,Brett Barney,Missed Free Throw,50,53
+13:33,Seattle,Riley Grigsby,Defensive Rebound,50,53
+13:33,Omaha,Wanjang Tut,Foul,50,53
+13:12,Seattle,Aaron Nettles,Layup,50,55
+12:56,Omaha,KJ Robinson,Missed Three Point Jumper,50,55
+12:56,Seattle,Matej Kavas,Defensive Rebound,50,55
+12:56,Omaha,Wanjang Tut,Foul,50,55
+12:41,Seattle,Riley Grigsby,Missed Three Point Jumper,50,55
+12:38,Omaha,Wanjang Tut,Defensive Rebound,50,55
+12:27,Omaha,Zach Jackson,Jumper,52,55
+12:10,Seattle,Riley Grigsby,Layup,52,57
+11:58,Omaha,KJ Robinson,Foul,52,57
+11:58,Omaha,KJ Robinson,Turnover,52,57
+11:39,Seattle,Matej Kavas,Missed Jumper,52,57
+11:36,Omaha,Wanjang Tut,Defensive Rebound,52,57
+11:30,Seattle,Morgan Means,Foul,52,57
+11:30,Seattle,None,None,52,57
+11:30,Omaha,Zach Jackson,Free Throw,53,57
+11:30,Omaha,Zach Jackson,Free Throw,54,57
+11:17,Omaha,Mitchell Hahn,Foul,54,57
+11:17,Seattle,Matej Kavas,Free Throw,54,58
+11:17,Seattle,Matej Kavas,Free Throw,54,59
+10:56,Omaha,Zach Jackson,Missed Jumper,54,59
+10:56,Seattle,Riley Grigsby,Block,54,59
+10:52,Seattle,Aaron Nettles,Defensive Rebound,54,59
+10:40,Seattle,Delante Jones,Jumper,54,61
+10:29,Omaha,Ayo Akinwole,Missed Layup,54,61
+10:29,Seattle,Riley Grigsby,Block,54,61
+10:26,Omaha,Ayo Akinwole,Foul,54,61
+10:26,Seattle,Matej Kavas,Free Throw,54,62
+10:26,Seattle,Matej Kavas,Free Throw,54,63
+10:25,Seattle,Matej Kavas,Defensive Rebound,54,63
+10:05,Omaha,JT Gibson,Missed Layup,54,63
+10:05,Seattle,Riley Grigsby,Block,54,63
+10:00,Omaha,Mitchell Hahn,Foul,54,63
+10:00,Seattle,Morgan Means,Free Throw,54,64
+10:00,Seattle,Morgan Means,Free Throw,54,65
+9:58,Seattle,Morgan Means,Defensive Rebound,54,65
+9:46,Omaha,KJ Robinson,Missed Jumper,54,65
+9:43,Omaha,Matt Pile,Offensive Rebound,54,65
+9:43,Seattle,Morgan Means,Foul,54,65
+9:43,Omaha,Matt Pile,Missed Free Throw,54,65
+9:43,Omaha,None,Team Rebound,54,65
+9:43,Omaha,Matt Pile,Free Throw,55,65
+9:26,Seattle,Delante Jones,Jumper,55,67
+9:00,Omaha,KJ Robinson,Three Point Jumper,58,67
+8:38,Seattle,Delante Jones,Missed Three Point Jumper,58,67
+8:35,Seattle,Morgan Means,Offensive Rebound,58,67
+8:35,Seattle,Morgan Means,Turnover,58,67
+8:35,Omaha,KJ Robinson,Steal,58,67
+8:17,Omaha,Zach Jackson,Three Point Jumper,61,67
+8:00,Seattle,Matej Kavas,Three Point Jumper,61,70
+7:53,Seattle,None,None,61,70
+7:29,Seattle,Morgan Means,Foul,61,70
+7:29,Seattle,None,None,61,70
+7:29,Omaha,KJ Robinson,Free Throw,62,70
+7:29,Omaha,KJ Robinson,Free Throw,63,70
+7:16,Seattle,Terrell Brown,Missed Layup,63,70
+7:16,Omaha,Wanjang Tut,Block,63,70
+7:10,Omaha,Zach Jackson,Defensive Rebound,63,70
+7:05,Omaha,JT Gibson,Turnover,63,70
+7:05,Seattle,Aaron Nettles,Steal,63,70
+7:02,Seattle,Delante Jones,Layup,63,72
+7:02,Omaha,Zach Jackson,Foul,63,72
+7:02,Seattle,Delante Jones,Free Throw,63,73
+6:53,Omaha,KJ Robinson,Turnover,63,73
+6:36,Seattle,Myles Carter,Jumper,63,75
+6:23,Omaha,Zach Jackson,Missed Layup,63,75
+6:23,Seattle,Delante Jones,Block,63,75
+6:11,Seattle,Aaron Nettles,Defensive Rebound,63,75
+6:05,Seattle,Terrell Brown,Missed Layup,63,75
+6:03,Seattle,Myles Carter,Offensive Rebound,63,75
+6:03,Seattle,Myles Carter,Layup,63,77
+6:03,Omaha,None,None,63,77
+5:48,Omaha,Mitchell Hahn,Missed Jumper,63,77
+5:45,Omaha,JT Gibson,Offensive Rebound,63,77
+5:43,Omaha,KJ Robinson,Missed Three Point Jumper,63,77
+5:40,Seattle,Myles Carter,Defensive Rebound,63,77
+5:11,Seattle,Matej Kavas,Missed Three Point Jumper,63,77
+5:10,Omaha,None,Team Rebound,63,77
+5:01,Omaha,KJ Robinson,Turnover,63,77
+4:40,Seattle,Aaron Nettles,Turnover,63,77
+4:40,Omaha,Matt Pile,Steal,63,77
+4:26,Omaha,Mitchell Hahn,Layup,65,77
+3:58,Seattle,Myles Carter,Turnover,65,77
+3:58,Omaha,KJ Robinson,Steal,65,77
+3:58,Seattle,Aaron Nettles,Foul,65,77
+3:57,Seattle,None,None,65,77
+3:53,Seattle,Morgan Means,Foul,65,77
+3:53,Omaha,Mitchell Hahn,Free Throw,66,77
+3:53,Omaha,Mitchell Hahn,Free Throw,67,77
+3:26,Seattle,Matej Kavas,Three Point Jumper,67,80
+3:15,Seattle,Aaron Nettles,Foul,67,80
+3:15,Omaha,JT Gibson,Free Throw,68,80
+3:15,Omaha,JT Gibson,Free Throw,69,80
+3:07,Omaha,JT Gibson,Foul,69,80
+3:07,Seattle,Matej Kavas,Free Throw,69,81
+3:07,Seattle,Matej Kavas,Free Throw,69,82
+2:50,Omaha,Zach Jackson,Missed Jumper,69,82
+2:47,Seattle,Terrell Brown,Defensive Rebound,69,82
+2:40,Seattle,Terrell Brown,Layup,69,84
+2:23,Omaha,KJ Robinson,Missed Three Point Jumper,69,84
+2:20,Omaha,Mitchell Hahn,Offensive Rebound,69,84
+2:17,Omaha,Zach Jackson,Missed Three Point Jumper,69,84
+2:17,Seattle,Delante Jones,Block,69,84
+2:12,Seattle,Terrell Brown,Defensive Rebound,69,84
+2:11,Seattle,Aaron Nettles,Missed Three Point Jumper,69,84
+2:11,Omaha,None,Team Rebound,69,84
+1:59,Omaha,Matt Pile,Dunk,71,84
+1:59,Omaha,None,None,71,84
+1:50,Omaha,JT Gibson,Foul,71,84
+1:50,Seattle,Aaron Nettles,Missed Free Throw,71,84
+1:50,Seattle,None,Team Rebound,71,84
+1:50,Seattle,Aaron Nettles,Free Throw,71,85
+1:36,Seattle,Matej Kavas,Foul,71,85
+1:36,Omaha,Matt Pile,Missed Free Throw,71,85
+1:36,Omaha,None,Team Rebound,71,85
+1:36,Omaha,Matt Pile,Missed Free Throw,71,85
+1:36,Seattle,Matej Kavas,Defensive Rebound,71,85
+1:19,Seattle,Matej Kavas,Turnover,71,85
+1:06,Omaha,Zach Jackson,Missed Three Point Jumper,71,85
+1:01,Seattle,Delante Jones,Defensive Rebound,71,85
+1:00,Seattle,Riley Grigsby,Dunk,71,87
+1:00,Omaha,Zach Jackson,Foul,71,87
+1:00,Seattle,Riley Grigsby,Free Throw,71,88
+1:00,Seattle,Riley Grigsby,Missed Free Throw,71,88
+1:00,Seattle,None,Team Rebound,71,88
+0:55,Seattle,Matej Kavas,Layup,71,90
+0:41,Omaha,Elishja Duplechan,Missed Jumper,71,90
+0:38,Seattle,Matej Kavas,Defensive Rebound,71,90
+0:11,Seattle,Seattle ,Turnover,71,90
+0:00,Seattle,None,None,71,90
+0:00,Seattle,None,None,71,90

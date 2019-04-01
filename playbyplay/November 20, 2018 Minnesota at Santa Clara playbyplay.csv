@@ -1,0 +1,362 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:35,Minnesota,Daniel Oturu,Missed Layup,0,0
+19:35,Minnesota,Minnesota,Offensive Rebound,0,0
+19:30,Minnesota,Gabe Kalscheur,Missed Jumper,0,0
+19:30,Minnesota,Jordan Murphy,Offensive Rebound,0,0
+19:21,Minnesota,Jordan Murphy,Missed Layup,0,0
+19:21,Santa Clara,Trey Wertz,Defensive Rebound,0,0
+19:12,Santa Clara,Fallou Ndoye,Foul,0,0
+19:12,Santa Clara,Fallou Ndoye,Turnover,0,0
+18:45,Santa Clara,Trey Wertz,Foul,0,0
+18:41,Minnesota,Dupree McBrayer,Missed Three Point Jumper,0,0
+18:41,Santa Clara,Josh Martin,Defensive Rebound,0,0
+18:26,Santa Clara,Josip Vrankic,Three Point Jumper,0,3
+17:59,Minnesota,Daniel Oturu,Missed Layup,0,3
+17:59,Minnesota,Daniel Oturu,Offensive Rebound,0,3
+17:56,Minnesota,Daniel Oturu,Missed Layup,0,3
+17:56,Santa Clara,Santa Clara,Defensive Rebound,0,3
+17:42,Santa Clara,Trey Wertz,Three Point Jumper,0,6
+17:32,Minnesota,Jordan Murphy,Missed Layup,0,6
+17:32,Minnesota,Jordan Murphy,Offensive Rebound,0,6
+17:29,Minnesota,Jordan Murphy,Layup,2,6
+17:29,Santa Clara,Trey Wertz,Foul,2,6
+17:29,Minnesota,Jordan Murphy,Free Throw,3,6
+17:16,Santa Clara,Josh Martin,Missed Layup,3,6
+17:16,Minnesota,Daniel Oturu,Block,3,6
+17:14,Santa Clara,Santa Clara,Offensive Rebound,3,6
+17:03,Minnesota,Daniel Oturu,Foul,3,6
+17:03,Santa Clara,Fallou Ndoye,Missed Free Throw,3,6
+17:03,Santa Clara,None,Team Rebound,3,6
+17:03,Santa Clara,Fallou Ndoye,Free Throw,3,7
+16:49,Minnesota,Daniel Oturu,Dunk,5,7
+16:20,Santa Clara,Josip Vrankic,Missed Three Point Jumper,5,7
+16:20,Minnesota,Daniel Oturu,Defensive Rebound,5,7
+16:07,Minnesota,Jordan Murphy,Missed Layup,5,7
+16:07,Minnesota,Daniel Oturu,Offensive Rebound,5,7
+16:01,Minnesota,Daniel Oturu,Turnover,5,7
+15:48,Santa Clara,Tahj Eaddy,Layup,5,9
+15:34,Minnesota,Gabe Kalscheur,Three Point Jumper,8,9
+15:08,Santa Clara,Josh Martin,Jumper,8,11
+14:58,Minnesota,Jordan Murphy,Missed Layup,8,11
+14:58,Minnesota,Jordan Murphy,Offensive Rebound,8,11
+14:53,Minnesota,Jordan Murphy,Turnover,8,11
+14:53,Santa Clara,None,None,8,11
+14:43,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,8,11
+14:43,Minnesota,Jordan Murphy,Defensive Rebound,8,11
+14:30,Minnesota,Amir Coffey,Three Point Jumper,11,11
+14:10,Santa Clara,Josip Vrankic,Layup,11,13
+13:51,Minnesota,Jordan Murphy,Missed Layup,11,13
+13:51,Minnesota,Minnesota,Offensive Rebound,11,13
+13:46,Minnesota,Gabe Kalscheur,Three Point Jumper,14,13
+13:04,Santa Clara,Keshawn Justice,Turnover,14,13
+12:55,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,14,13
+12:55,Santa Clara,Tahj Eaddy,Defensive Rebound,14,13
+12:34,Santa Clara,Trey Wertz,Missed Jumper,14,13
+12:34,Minnesota,Jordan Murphy,Defensive Rebound,14,13
+12:21,Minnesota,Amir Coffey,Missed Three Point Jumper,14,13
+12:21,Santa Clara,Trey Wertz,Defensive Rebound,14,13
+12:12,Santa Clara,Trey Wertz,Missed Layup,14,13
+12:12,Minnesota,Jordan Murphy,Defensive Rebound,14,13
+12:03,Minnesota,Matz Stockman,Missed Layup,14,13
+12:03,Santa Clara,Santa Clara,Defensive Rebound,14,13
+11:59,Santa Clara,None,None,14,13
+11:41,Santa Clara,Keshawn Justice,Layup,14,15
+11:21,Minnesota,Isaiah Washington,Jumper,16,15
+11:10,Minnesota,Isaiah Washington,Foul,16,15
+10:57,Santa Clara,Keshawn Justice,Three Point Jumper,16,18
+10:44,Minnesota,Matz Stockman,Jumper,18,18
+10:34,Santa Clara,Keshawn Justice,Jumper,18,20
+10:22,Minnesota,Brock Stull,Turnover,18,20
+10:21,Santa Clara,Tahj Eaddy,Steal,18,20
+10:19,Santa Clara,Tahj Eaddy,Layup,18,22
+10:18,Minnesota,None,None,18,22
+10:02,Minnesota,Isaiah Washington,Missed Jumper,18,22
+10:02,Santa Clara,None,Team Rebound,18,22
+10:01,Minnesota,Daniel Oturu,Foul,18,22
+9:52,Santa Clara,Keshawn Justice,Missed Three Point Jumper,18,22
+9:52,Minnesota,Jarvis Omersa,Defensive Rebound,18,22
+9:44,Minnesota,Dupree McBrayer,Missed Layup,18,22
+9:44,Minnesota,Minnesota,Offensive Rebound,18,22
+9:26,Santa Clara,Guglielmo Caruso,Foul,18,22
+9:25,Minnesota,Jordan Murphy,Missed Free Throw,18,22
+9:25,Minnesota,None,Team Rebound,18,22
+9:25,Minnesota,Jordan Murphy,Missed Free Throw,18,22
+9:25,Santa Clara,Santa Clara,Defensive Rebound,18,22
+9:07,Minnesota,Jordan Murphy,Foul,18,22
+9:07,Santa Clara,Guglielmo Caruso,Free Throw,18,23
+9:07,Santa Clara,Guglielmo Caruso,Free Throw,18,24
+8:53,Minnesota,Isaiah Washington,Missed Layup,18,24
+8:53,Minnesota,Jordan Murphy,Offensive Rebound,18,24
+8:43,Santa Clara,Zeke Richards,Foul,18,24
+8:42,Minnesota,Jordan Murphy,Missed Free Throw,18,24
+8:42,Minnesota,None,Team Rebound,18,24
+8:42,Minnesota,Jordan Murphy,Free Throw,19,24
+8:32,Santa Clara,Tahj Eaddy,Jumper,19,26
+8:11,Minnesota,Isaiah Washington,Foul,19,26
+8:11,Minnesota,Isaiah Washington,Turnover,19,26
+7:58,Santa Clara,Trey Wertz,Missed Three Point Jumper,19,26
+7:58,Minnesota,Minnesota,Defensive Rebound,19,26
+7:54,Minnesota,None,None,19,26
+7:43,Minnesota,Amir Coffey,Missed Jumper,19,26
+7:43,Santa Clara,Guglielmo Caruso,Defensive Rebound,19,26
+7:31,Minnesota,Gabe Kalscheur,Foul,19,26
+7:22,Santa Clara,Keshawn Justice,Missed Jumper,19,26
+7:21,Minnesota,Jarvis Omersa,Block,19,26
+7:20,Minnesota,Jordan Murphy,Defensive Rebound,19,26
+7:17,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,19,26
+7:16,Minnesota,Minnesota,Offensive Rebound,19,26
+6:59,Minnesota,Dupree McBrayer,Missed Three Point Jumper,19,26
+6:59,Minnesota,Minnesota,Offensive Rebound,19,26
+6:52,Santa Clara,Guglielmo Caruso,Foul,19,26
+6:45,Minnesota,Dupree McBrayer,Missed Three Point Jumper,19,26
+6:45,Santa Clara,Trey Wertz,Defensive Rebound,19,26
+6:14,Minnesota,Jordan Murphy,Foul,19,26
+6:14,Santa Clara,Tahj Eaddy,Missed Free Throw,19,26
+6:14,Minnesota,Jordan Murphy,Defensive Rebound,19,26
+6:06,Minnesota,Dupree McBrayer,Turnover,19,26
+6:05,Santa Clara,Tahj Eaddy,Steal,19,26
+5:52,Santa Clara,Keshawn Justice,Missed Three Point Jumper,19,26
+5:52,Minnesota,Jordan Murphy,Defensive Rebound,19,26
+5:38,Minnesota,Amir Coffey,Missed Layup,19,26
+5:38,Santa Clara,Fallou Ndoye,Defensive Rebound,19,26
+5:23,Santa Clara,Fallou Ndoye,Missed Layup,19,26
+5:23,Minnesota,Amir Coffey,Defensive Rebound,19,26
+5:07,Minnesota,Matz Stockman,Missed Layup,19,26
+5:07,Minnesota,Jordan Murphy,Offensive Rebound,19,26
+5:03,Minnesota,Jordan Murphy,Layup,21,26
+4:39,Santa Clara,Fallou Ndoye,Missed Layup,21,26
+4:39,Minnesota,Matz Stockman,Defensive Rebound,21,26
+4:24,Minnesota,Gabe Kalscheur,Three Point Jumper,24,26
+4:16,Santa Clara,None,None,24,26
+3:54,Santa Clara,Trey Wertz,Missed Layup,24,26
+3:54,Santa Clara,Keshawn Justice,Offensive Rebound,24,26
+3:27,Santa Clara,Josip Vrankic,Missed Layup,24,26
+3:27,Santa Clara,Josip Vrankic,Offensive Rebound,24,26
+3:22,Santa Clara,None,None,24,26
+3:22,Minnesota,Daniel Oturu,Defensive Rebound,24,26
+3:12,Minnesota,Gabe Kalscheur,Three Point Jumper,27,26
+2:48,Santa Clara,Tahj Eaddy,Three Point Jumper,27,29
+2:31,Minnesota,Gabe Kalscheur,Three Point Jumper,30,29
+2:17,Santa Clara,Josip Vrankic,Foul,30,29
+2:17,Santa Clara,Josip Vrankic,Turnover,30,29
+2:09,Minnesota,Gabe Kalscheur,Three Point Jumper,33,29
+1:53,Santa Clara,Tahj Eaddy,Turnover,33,29
+1:43,Minnesota,Amir Coffey,Turnover,33,29
+1:15,Santa Clara,Trey Wertz,Missed Three Point Jumper,33,29
+1:15,Minnesota,Michael Hurt,Defensive Rebound,33,29
+1:08,Minnesota,Dupree McBrayer,Missed Three Point Jumper,33,29
+1:08,Santa Clara,Josh Martin,Defensive Rebound,33,29
+0:58,Santa Clara,Trey Wertz,Foul,33,29
+0:58,Santa Clara,Trey Wertz,Turnover,33,29
+0:50,Minnesota,Dupree McBrayer,Missed Three Point Jumper,33,29
+0:50,Minnesota,Dupree McBrayer,Offensive Rebound,33,29
+0:43,Minnesota,Amir Coffey,Missed Layup,33,29
+0:43,Santa Clara,Zeke Richards,Block,33,29
+0:41,Santa Clara,Zeke Richards,Defensive Rebound,33,29
+0:35,Santa Clara,Tahj Eaddy,Turnover,33,29
+0:34,Minnesota,Michael Hurt,Steal,33,29
+0:06,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,33,29
+0:06,Santa Clara,Guglielmo Caruso,Defensive Rebound,33,29
+0:00,Santa Clara,None,None,33,29
+19:46,Minnesota,Amir Coffey,Layup,35,29
+19:34,Santa Clara,Tahj Eaddy,Missed Jumper,35,29
+19:34,Minnesota,Jordan Murphy,Defensive Rebound,35,29
+19:17,Minnesota,Daniel Oturu,Missed Jumper,35,29
+19:17,Santa Clara,Josip Vrankic,Defensive Rebound,35,29
+19:09,Santa Clara,Fallou Ndoye,Missed Layup,35,29
+19:09,Minnesota,Daniel Oturu,Block,35,29
+19:07,Minnesota,Daniel Oturu,Defensive Rebound,35,29
+19:00,Minnesota,Amir Coffey,Missed Jumper,35,29
+19:00,Santa Clara,Josh Martin,Defensive Rebound,35,29
+18:56,Minnesota,Jordan Murphy,Foul,35,29
+18:37,Santa Clara,Josip Vrankic,Missed Three Point Jumper,35,29
+18:37,Minnesota,Daniel Oturu,Defensive Rebound,35,29
+18:16,Santa Clara,Fallou Ndoye,Foul,35,29
+18:16,Minnesota,Daniel Oturu,Missed Free Throw,35,29
+18:16,Minnesota,None,Team Rebound,35,29
+18:16,Minnesota,Daniel Oturu,Free Throw,36,29
+18:09,Minnesota,Dupree McBrayer,Foul,36,29
+17:52,Santa Clara,Josip Vrankic,Layup,36,31
+17:44,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,36,31
+17:44,Santa Clara,Guglielmo Caruso,Defensive Rebound,36,31
+17:11,Santa Clara,Santa Clara ,Turnover,36,31
+16:57,Minnesota,Amir Coffey,Missed Layup,36,31
+16:57,Santa Clara,Guglielmo Caruso,Defensive Rebound,36,31
+16:51,Santa Clara,Josip Vrankic,Layup,36,33
+16:26,Minnesota,Gabe Kalscheur,Layup,38,33
+16:15,Santa Clara,Trey Wertz,Foul,38,33
+16:15,Santa Clara,Trey Wertz,Turnover,38,33
+16:02,Minnesota,Dupree McBrayer,Missed Jumper,38,33
+16:02,Santa Clara,Josh Martin,Defensive Rebound,38,33
+15:38,Santa Clara,Tahj Eaddy,Missed Layup,38,33
+15:38,Minnesota,Jordan Murphy,Defensive Rebound,38,33
+15:31,Minnesota,Amir Coffey,Turnover,38,33
+15:29,Santa Clara,Keshawn Justice,Steal,38,33
+15:25,Santa Clara,Josh Martin,Three Point Jumper,38,36
+15:17,Minnesota,None,None,38,36
+15:06,Minnesota,Amir Coffey,Missed Layup,38,36
+15:06,Santa Clara,Guglielmo Caruso,Block,38,36
+15:03,Minnesota,Minnesota,Offensive Rebound,38,36
+15:02,Minnesota,None,None,38,36
+14:51,Minnesota,Gabe Kalscheur,Three Point Jumper,41,36
+14:32,Santa Clara,Tahj Eaddy,Missed Jumper,41,36
+14:32,Minnesota,Minnesota,Defensive Rebound,41,36
+14:14,Minnesota,Jordan Murphy,Dunk,43,36
+14:14,Santa Clara,Josip Vrankic,Foul,43,36
+14:14,Minnesota,Jordan Murphy,Free Throw,44,36
+13:55,Santa Clara,Josip Vrankic,Layup,44,38
+13:32,Minnesota,Matz Stockman,Turnover,44,38
+13:10,Minnesota,Jarvis Omersa,Foul,44,38
+13:05,Santa Clara,Josh Martin,Turnover,44,38
+13:04,Minnesota,Isaiah Washington,Steal,44,38
+12:58,Minnesota,Dupree McBrayer,Missed Three Point Jumper,44,38
+12:58,Santa Clara,Santa Clara,Defensive Rebound,44,38
+12:43,Minnesota,Isaiah Washington,Foul,44,38
+12:39,Santa Clara,Keshawn Justice,Jumper,44,40
+12:29,Santa Clara,Josip Vrankic,Foul,44,40
+12:24,Minnesota,Gabe Kalscheur,Missed Three Point Jumper,44,40
+12:24,Santa Clara,Josh Martin,Block,44,40
+12:23,Santa Clara,Josh Martin,Defensive Rebound,44,40
+12:19,Santa Clara,Josh Martin,Missed Layup,44,40
+12:19,Minnesota,Gabe Kalscheur,Defensive Rebound,44,40
+11:58,Santa Clara,Josip Vrankic,Foul,44,40
+11:58,Minnesota,None,None,44,40
+11:58,Minnesota,Michael Hurt,Free Throw,45,40
+11:58,Minnesota,Michael Hurt,Free Throw,46,40
+11:49,Santa Clara,Tahj Eaddy,Three Point Jumper,46,43
+11:39,Minnesota,Isaiah Washington,Missed Layup,46,43
+11:39,Santa Clara,Tahj Eaddy,Defensive Rebound,46,43
+11:34,Santa Clara,Keshawn Justice,Three Point Jumper,46,46
+11:24,Minnesota,None,None,46,46
+11:11,Santa Clara,Guglielmo Caruso,Foul,46,46
+11:11,Minnesota,Amir Coffey,Free Throw,47,46
+11:11,Minnesota,Amir Coffey,Free Throw,48,46
+11:00,Santa Clara,Tahj Eaddy,Missed Jumper,48,46
+11:00,Santa Clara,Zeke Richards,Offensive Rebound,48,46
+10:55,Santa Clara,None,None,48,46
+10:55,Minnesota,Dupree McBrayer,Defensive Rebound,48,46
+10:42,Santa Clara,Guglielmo Caruso,Foul,48,46
+10:42,Minnesota,Jordan Murphy,Missed Free Throw,48,46
+10:42,Minnesota,None,Team Rebound,48,46
+10:42,Minnesota,Jordan Murphy,Free Throw,49,46
+10:29,Santa Clara,Keshawn Justice,Missed Three Point Jumper,49,46
+10:29,Minnesota,Minnesota,Defensive Rebound,49,46
+9:53,Santa Clara,Henrik Jadersten,Foul,49,46
+9:53,Minnesota,Jordan Murphy,Free Throw,50,46
+9:53,Minnesota,Jordan Murphy,Missed Free Throw,50,46
+9:53,Santa Clara,Zeke Richards,Defensive Rebound,50,46
+9:29,Santa Clara,Keshawn Justice,Missed Jumper,50,46
+9:29,Minnesota,Minnesota,Defensive Rebound,50,46
+9:11,Minnesota,Amir Coffey,Missed Jumper,50,46
+9:11,Minnesota,Daniel Oturu,Offensive Rebound,50,46
+9:05,Minnesota,Daniel Oturu,Layup,52,46
+9:05,Santa Clara,Zeke Richards,Foul,52,46
+9:05,Minnesota,Daniel Oturu,Free Throw,53,46
+8:58,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,53,46
+8:58,Minnesota,Minnesota,Defensive Rebound,53,46
+8:42,Minnesota,Jordan Murphy,Turnover,53,46
+8:40,Santa Clara,Henrik Jadersten,Steal,53,46
+8:31,Santa Clara,Tahj Eaddy,Layup,53,48
+8:07,Minnesota,Daniel Oturu,Layup,55,48
+7:50,Santa Clara,Guglielmo Caruso,Jumper,55,50
+7:34,Minnesota,Amir Coffey,Missed Layup,55,50
+7:34,Minnesota,Jordan Murphy,Offensive Rebound,55,50
+7:31,Santa Clara,Henrik Jadersten,Foul,55,50
+7:31,Minnesota,None,None,55,50
+7:31,Minnesota,Jordan Murphy,Free Throw,56,50
+7:31,Minnesota,Jordan Murphy,Missed Free Throw,56,50
+7:31,Santa Clara,Guglielmo Caruso,Defensive Rebound,56,50
+7:16,Santa Clara,Josh Martin,Missed Layup,56,50
+7:16,Minnesota,Daniel Oturu,Defensive Rebound,56,50
+6:48,Minnesota,Jordan Murphy,Missed Layup,56,50
+6:48,Santa Clara,Guglielmo Caruso,Defensive Rebound,56,50
+6:44,Minnesota,Daniel Oturu,Foul,56,50
+6:34,Santa Clara,Santa Clara ,Turnover,56,50
+6:24,Minnesota,Amir Coffey,Missed Layup,56,50
+6:24,Santa Clara,Keshawn Justice,Defensive Rebound,56,50
+6:12,Minnesota,Daniel Oturu,Foul,56,50
+6:12,Santa Clara,Guglielmo Caruso,Free Throw,56,51
+6:12,Santa Clara,Guglielmo Caruso,Missed Free Throw,56,51
+6:12,Minnesota,Jordan Murphy,Defensive Rebound,56,51
+5:57,Santa Clara,Tahj Eaddy,Foul,56,51
+5:54,Minnesota,Dupree McBrayer,Free Throw,57,51
+5:54,Minnesota,Dupree McBrayer,Free Throw,58,51
+5:47,Santa Clara,Trey Wertz,Layup,58,53
+5:36,Minnesota,Dupree McBrayer,Three Point Jumper,61,53
+5:21,Santa Clara,Trey Wertz,Missed Layup,61,53
+5:21,Minnesota,Dupree McBrayer,Defensive Rebound,61,53
+5:09,Santa Clara,Guglielmo Caruso,Foul,61,53
+5:09,Minnesota,Amir Coffey,Missed Free Throw,61,53
+5:09,Minnesota,None,Team Rebound,61,53
+5:09,Minnesota,Amir Coffey,Free Throw,62,53
+4:52,Santa Clara,Josh Martin,Three Point Jumper,62,56
+4:37,Minnesota,Dupree McBrayer,Missed Three Point Jumper,62,56
+4:37,Santa Clara,None,Team Rebound,62,56
+4:35,Minnesota,Jarvis Omersa,Foul,62,56
+4:35,Santa Clara,Josh Martin,Free Throw,62,57
+4:35,Santa Clara,Josh Martin,Missed Free Throw,62,57
+4:35,Minnesota,Gabe Kalscheur,Defensive Rebound,62,57
+4:16,Minnesota,Dupree McBrayer,Layup,64,57
+4:13,Santa Clara,Josip Vrankic,Foul,64,57
+4:13,Minnesota,Dupree McBrayer,Missed Free Throw,64,57
+4:13,Santa Clara,Josh Martin,Defensive Rebound,64,57
+4:00,Santa Clara,Tahj Eaddy,Missed Layup,64,57
+4:00,Minnesota,Jordan Murphy,Block,64,57
+3:58,Minnesota,Gabe Kalscheur,Defensive Rebound,64,57
+3:47,Minnesota,Amir Coffey,Layup,66,57
+3:47,Santa Clara,Josh Martin,Foul,66,57
+3:47,Minnesota,None,None,66,57
+3:47,Minnesota,Amir Coffey,Missed Free Throw,66,57
+3:47,Santa Clara,Josh Martin,Defensive Rebound,66,57
+3:40,Santa Clara,Tahj Eaddy,Foul,66,57
+3:40,Santa Clara,Tahj Eaddy,Turnover,66,57
+3:28,Minnesota,Gabe Kalscheur,Layup,68,57
+3:16,Santa Clara,Trey Wertz,Foul,68,57
+3:16,Santa Clara,Trey Wertz,Turnover,68,57
+3:16,Santa Clara,None,None,68,57
+3:14,Santa Clara,Santa Clara,Foul,68,57
+3:14,Santa Clara,Santa Clara,Foul,68,57
+3:14,Santa Clara,Santa Clara,Foul,68,57
+3:14,Minnesota,Gabe Kalscheur,Missed Free Throw,68,57
+3:14,Minnesota,None,Team Rebound,68,57
+3:14,Minnesota,Gabe Kalscheur,Missed Free Throw,68,57
+3:14,Minnesota,None,Team Rebound,68,57
+3:14,Minnesota,Dupree McBrayer,Free Throw,69,57
+3:14,Minnesota,Dupree McBrayer,Free Throw,70,57
+3:14,Minnesota,Dupree McBrayer,Free Throw,71,57
+3:14,Minnesota,Dupree McBrayer,Missed Free Throw,71,57
+3:14,Minnesota,None,Team Rebound,71,57
+2:58,Minnesota,Dupree McBrayer,Missed Three Point Jumper,71,57
+2:58,Santa Clara,Tahj Eaddy,Defensive Rebound,71,57
+2:50,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,71,57
+2:50,Minnesota,Minnesota,Defensive Rebound,71,57
+2:27,Minnesota,Dupree McBrayer,Layup,73,57
+2:11,Santa Clara,Keshawn Justice,Missed Three Point Jumper,73,57
+2:11,Minnesota,Jordan Murphy,Defensive Rebound,73,57
+2:00,Minnesota,Amir Coffey,Missed Dunk,73,57
+2:00,Santa Clara,Henrik Jadersten,Block,73,57
+2:00,Minnesota,Minnesota,Offensive Rebound,73,57
+1:55,Minnesota,Gabe Kalscheur,Missed Layup,73,57
+1:55,Minnesota,Jordan Murphy,Offensive Rebound,73,57
+1:53,Santa Clara,Henrik Jadersten,Foul,73,57
+1:53,Minnesota,Jordan Murphy,Missed Free Throw,73,57
+1:53,Minnesota,None,Team Rebound,73,57
+1:53,Minnesota,Jordan Murphy,Free Throw,74,57
+1:36,Santa Clara,Henrik Jadersten,Three Point Jumper,74,60
+1:36,Santa Clara,None,None,74,60
+1:15,Santa Clara,Josh Martin,Foul,74,60
+1:15,Minnesota,Amir Coffey,Free Throw,75,60
+1:14,Santa Clara,Josh Martin,Defensive Rebound,75,60
+1:14,Minnesota,Amir Coffey,Missed Free Throw,75,60
+1:08,Santa Clara,Tahj Eaddy,Three Point Jumper,75,63
+1:07,Santa Clara,None,None,75,63
+1:01,Santa Clara,Zeke Richards,Foul,77,63
+1:01,Minnesota,Dupree McBrayer,Free Throw,78,63
+1:01,Minnesota,Dupree McBrayer,Dunk,77,63
+1:00,Santa Clara,Tahj Eaddy,Three Point Jumper,78,66
+0:46,Santa Clara,Tahj Eaddy,Foul,78,66
+0:46,Minnesota,Jordan Murphy,Free Throw,79,66
+0:46,Minnesota,Jordan Murphy,Free Throw,80,66
+0:39,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,80,66
+0:39,Minnesota,Amir Coffey,Defensive Rebound,80,66
+0:00,Santa Clara,None,None,80,66

@@ -1,0 +1,379 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,New Mexico,None,None,0,0
+19:49,Colorado,Shane Gatling,Turnover,0,0
+19:49,New Mexico,Drue Drinnon,Steal,0,0
+19:40,New Mexico,Dane Kuiper,Dunk,0,2
+19:35,New Mexico,Dane Kuiper,Foul,0,2
+19:24,Colorado,McKinley Wright IV,Layup,2,2
+19:00,New Mexico,Vance Jackson,Missed Layup,2,2
+19:00,Colorado,Tyler Bey,Defensive Rebound,2,2
+18:48,Colorado,McKinley Wright IV,Turnover,2,2
+18:48,New Mexico,Dane Kuiper,Steal,2,2
+18:40,Colorado,Lucas Siewert,Foul,2,2
+18:21,New Mexico,Vance Jackson,Layup,2,4
+18:08,Colorado,Lucas Siewert,Three Point Jumper,5,4
+17:50,New Mexico,Dane Kuiper,Missed Layup,5,4
+17:50,Colorado,Tyler Bey,Block,5,4
+17:50,Colorado,Shane Gatling,Defensive Rebound,5,4
+17:35,Colorado,Shane Gatling,Foul,5,4
+17:35,Colorado,Shane Gatling,Turnover,5,4
+17:17,New Mexico,Corey Manigault,Missed Jumper,5,4
+17:17,New Mexico,Karim Ezzeddine,Offensive Rebound,5,4
+17:06,New Mexico,Karim Ezzeddine,Layup,5,6
+17:00,Colorado,Shane Gatling,Missed Layup,5,6
+17:00,New Mexico,Makuach Maluach,Block,5,6
+17:00,Colorado,D'Shawn Schwartz,Offensive Rebound,5,6
+16:43,Colorado,McKinley Wright IV,Missed Jumper,5,6
+16:43,New Mexico,Corey Manigault,Defensive Rebound,5,6
+16:33,New Mexico,Corey Manigault,Missed Layup,5,6
+16:33,Colorado,McKinley Wright IV,Defensive Rebound,5,6
+16:23,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,5,6
+16:23,Colorado,Lucas Siewert,Offensive Rebound,5,6
+16:22,New Mexico,Corey Manigault,Foul,5,6
+15:59,Colorado,Alexander Strating,Jumper,7,6
+15:50,New Mexico,Anthony Mathis,Three Point Jumper,7,9
+15:41,Colorado,Namon Wright,Missed Three Point Jumper,7,9
+15:41,New Mexico,None,None,7,9
+15:41,New Mexico,Keith McGee,Block,7,9
+15:41,Colorado,Lucas Siewert,Offensive Rebound,7,9
+15:41,New Mexico,Makuach Maluach,Foul,7,9
+15:41,New Mexico,None,None,7,9
+15:37,Colorado,Deleon Brown,Missed Three Point Jumper,7,9
+15:37,New Mexico,Vladimir Pinchuk,Defensive Rebound,7,9
+15:12,New Mexico,Vance Jackson,Layup,7,11
+15:05,Colorado,Lucas Siewert,Three Point Jumper,10,11
+14:42,New Mexico,Vladimir Pinchuk,Missed Jumper,10,11
+14:42,Colorado,McKinley Wright IV,Defensive Rebound,10,11
+14:33,Colorado,Lucas Siewert,Missed Three Point Jumper,10,11
+14:33,Colorado,Colorado,Offensive Rebound,10,11
+14:32,New Mexico,Vance Jackson,Foul,10,11
+14:21,Colorado,Alexander Strating,Turnover,10,11
+14:07,New Mexico,Keith McGee,Jumper,10,13
+14:07,Colorado,Daylen Kountz,Foul,10,13
+13:58,New Mexico,Corey Manigault,Layup,10,15
+13:53,Colorado,Tyler Bey,Turnover,10,15
+13:33,New Mexico,Anthony Mathis,Missed Jumper,10,15
+13:33,Colorado,Evan Battey,Defensive Rebound,10,15
+13:03,Colorado,Deleon Brown,Missed Jumper,10,15
+13:03,New Mexico,Karim Ezzeddine,Defensive Rebound,10,15
+12:42,New Mexico,Corey Manigault,Missed Layup,10,15
+12:42,New Mexico,Vance Jackson,Offensive Rebound,10,15
+12:39,New Mexico,Vance Jackson,Missed Layup,10,15
+12:39,Colorado,Colorado,Defensive Rebound,10,15
+12:29,Colorado,Namon Wright,Jumper,12,15
+12:13,New Mexico,Makuach Maluach,Missed Three Point Jumper,12,15
+12:13,Colorado,Evan Battey,Defensive Rebound,12,15
+12:04,Colorado,Evan Battey,Turnover,12,15
+12:04,New Mexico,Drue Drinnon,Steal,12,15
+11:59,New Mexico,Makuach Maluach,Three Point Jumper,12,18
+11:59,Colorado,Daylen Kountz,Turnover,12,18
+11:59,New Mexico,Anthony Mathis,Steal,12,18
+11:39,New Mexico,Vance Jackson,Missed Three Point Jumper,12,18
+11:39,New Mexico,Vance Jackson,Offensive Rebound,12,18
+11:34,New Mexico,Anthony Mathis,Three Point Jumper,12,21
+11:34,Colorado,None,None,12,21
+11:21,Colorado,D'Shawn Schwartz,Missed Jumper,12,21
+11:21,New Mexico,Makuach Maluach,Defensive Rebound,12,21
+11:03,New Mexico,Makuach Maluach,Turnover,12,21
+10:52,Colorado,Shane Gatling,Missed Three Point Jumper,12,21
+10:52,New Mexico,Makuach Maluach,Defensive Rebound,12,21
+10:36,New Mexico,Vance Jackson,Missed Layup,12,21
+10:36,Colorado,Colorado,Defensive Rebound,12,21
+10:30,New Mexico,Makuach Maluach,Foul,12,21
+10:30,Colorado,Shane Gatling,Free Throw,13,21
+10:30,Colorado,Shane Gatling,Missed Free Throw,13,21
+10:30,New Mexico,Corey Manigault,Defensive Rebound,13,21
+10:03,Colorado,McKinley Wright IV,Foul,13,21
+10:03,New Mexico,Dane Kuiper,Free Throw,13,22
+10:03,New Mexico,Dane Kuiper,Free Throw,13,23
+10:03,New Mexico,Dane Kuiper,Free Throw,13,24
+9:52,Colorado,McKinley Wright IV,Missed Jumper,13,24
+9:52,New Mexico,Vladimir Pinchuk,Defensive Rebound,13,24
+9:39,New Mexico,Keith McGee,Layup,13,26
+9:30,Colorado,Shane Gatling,Layup,15,26
+9:15,New Mexico,Vladimir Pinchuk,Missed Layup,15,26
+9:15,New Mexico,Vladimir Pinchuk,Offensive Rebound,15,26
+9:09,New Mexico,Vladimir Pinchuk,Layup,15,28
+8:59,Colorado,Shane Gatling,Turnover,15,28
+8:59,New Mexico,Vladimir Pinchuk,Steal,15,28
+8:53,New Mexico,Dane Kuiper,Missed Three Point Jumper,15,28
+8:53,Colorado,D'Shawn Schwartz,Defensive Rebound,15,28
+8:43,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,15,28
+8:43,Colorado,McKinley Wright IV,Offensive Rebound,15,28
+8:37,New Mexico,Keith McGee,Foul,15,28
+8:37,Colorado,McKinley Wright IV,Missed Free Throw,15,28
+8:37,Colorado,None,Team Rebound,15,28
+8:37,Colorado,McKinley Wright IV,Missed Free Throw,15,28
+8:37,Colorado,Evan Battey,Offensive Rebound,15,28
+8:31,New Mexico,Tavian Percy,Foul,15,28
+8:31,Colorado,McKinley Wright IV,Missed Free Throw,15,28
+8:31,New Mexico,Vance Jackson,Defensive Rebound,15,28
+8:31,New Mexico,Vance Jackson,Missed Jumper,15,28
+8:31,Colorado,Evan Battey,Defensive Rebound,15,28
+8:31,Colorado,Lucas Siewert,Missed Layup,15,28
+8:31,New Mexico,Drue Drinnon,Defensive Rebound,15,28
+7:44,New Mexico,None,None,15,28
+7:44,Colorado,D'Shawn Schwartz,Foul,15,28
+7:44,New Mexico,Anthony Mathis,Free Throw,15,29
+7:44,New Mexico,Anthony Mathis,Free Throw,15,30
+7:32,Colorado,Daylen Kountz,Missed Layup,15,30
+7:32,Colorado,Tyler Bey,Offensive Rebound,15,30
+7:32,Colorado,Tyler Bey,Missed Layup,15,30
+7:32,Colorado,Tyler Bey,Offensive Rebound,15,30
+7:32,Colorado,None,None,15,30
+7:32,New Mexico,Tavian Percy,Defensive Rebound,15,30
+7:06,New Mexico,Karim Ezzeddine,Layup,15,32
+6:50,Colorado,Evan Battey,Layup,17,32
+6:40,New Mexico,Drue Drinnon,Turnover,17,32
+6:40,Colorado,Tyler Bey,Steal,17,32
+6:36,New Mexico,Karim Ezzeddine,Foul,17,32
+6:36,Colorado,D'Shawn Schwartz,Free Throw,18,32
+6:36,Colorado,D'Shawn Schwartz,Free Throw,19,32
+6:17,New Mexico,Corey Manigault,Missed Layup,19,32
+6:17,Colorado,Tyler Bey,Block,19,32
+6:17,Colorado,Tyler Bey,Defensive Rebound,19,32
+6:05,Colorado,McKinley Wright IV,Missed Jumper,19,32
+6:05,Colorado,Evan Battey,Offensive Rebound,19,32
+5:58,Colorado,Evan Battey,Layup,21,32
+5:44,New Mexico,Dane Kuiper,Missed Three Point Jumper,21,32
+5:44,Colorado,McKinley Wright IV,Defensive Rebound,21,32
+5:42,Colorado,Tyler Bey,Layup,23,32
+5:42,New Mexico,None,None,23,32
+5:18,Colorado,Lucas Siewert,Foul,23,32
+5:18,New Mexico,Vance Jackson,Missed Free Throw,23,32
+5:18,New Mexico,None,Team Rebound,23,32
+5:18,New Mexico,Vance Jackson,Missed Free Throw,23,32
+5:18,Colorado,Tyler Bey,Defensive Rebound,23,32
+5:10,New Mexico,Dane Kuiper,Foul,23,32
+5:10,Colorado,Tyler Bey,Free Throw,24,32
+5:10,Colorado,Tyler Bey,Free Throw,25,32
+4:46,New Mexico,Vance Jackson,Missed Three Point Jumper,25,32
+4:46,Colorado,McKinley Wright IV,Defensive Rebound,25,32
+4:36,Colorado,McKinley Wright IV,Jumper,27,32
+4:17,New Mexico,Keith McGee,Missed Three Point Jumper,27,32
+4:17,Colorado,Namon Wright,Defensive Rebound,27,32
+3:53,Colorado,Deleon Brown,Missed Three Point Jumper,27,32
+3:53,New Mexico,None,Team Rebound,27,32
+3:51,New Mexico,None,None,27,32
+3:34,New Mexico,Vance Jackson,Turnover,27,32
+3:25,Colorado,D'Shawn Schwartz,Missed Layup,27,32
+3:25,Colorado,None,Team Rebound,27,32
+3:25,New Mexico,Makuach Maluach,Foul,27,32
+3:25,Colorado,Tyler Bey,Free Throw,28,32
+3:25,Colorado,Tyler Bey,Missed Free Throw,28,32
+3:25,New Mexico,Vance Jackson,Defensive Rebound,28,32
+3:20,Colorado,Namon Wright,Foul,28,32
+3:20,New Mexico,Anthony Mathis,Missed Free Throw,28,32
+3:20,Colorado,Tyler Bey,Defensive Rebound,28,32
+2:59,Colorado,Namon Wright,Missed Three Point Jumper,28,32
+2:59,Colorado,D'Shawn Schwartz,Offensive Rebound,28,32
+2:56,New Mexico,Drue Drinnon,Foul,28,32
+2:56,Colorado,D'Shawn Schwartz,Free Throw,29,32
+2:56,Colorado,D'Shawn Schwartz,Missed Free Throw,29,32
+2:56,New Mexico,Anthony Mathis,Defensive Rebound,29,32
+2:50,Colorado,Alexander Strating,Foul,29,32
+2:50,New Mexico,Corey Manigault,Free Throw,29,33
+2:50,New Mexico,Corey Manigault,Missed Free Throw,29,33
+2:50,Colorado,Namon Wright,Defensive Rebound,29,33
+2:42,Colorado,McKinley Wright IV,Foul,29,33
+2:42,Colorado,McKinley Wright IV,Turnover,29,33
+2:27,New Mexico,Dane Kuiper,Turnover,29,33
+2:27,Colorado,Tyler Bey,Steal,29,33
+2:22,Colorado,D'Shawn Schwartz,Missed Layup,29,33
+2:22,New Mexico,Dane Kuiper,Defensive Rebound,29,33
+2:11,New Mexico,Corey Manigault,Layup,29,35
+1:57,Colorado,Alexander Strating,Foul,29,35
+1:57,Colorado,Alexander Strating,Turnover,29,35
+1:48,New Mexico,Anthony Mathis,Three Point Jumper,29,38
+1:38,Colorado,Tyler Bey,Turnover,29,38
+1:38,New Mexico,Anthony Mathis,Steal,29,38
+1:36,New Mexico,Anthony Mathis,Three Point Jumper,29,41
+1:36,Colorado,None,None,29,41
+1:36,Colorado,None,None,29,41
+1:24,Colorado,Deleon Brown,Foul,29,41
+1:24,Colorado,Deleon Brown,Turnover,29,41
+1:15,New Mexico,Dane Kuiper,Jumper,29,43
+0:54,Colorado,Daylen Kountz,Missed Jumper,29,43
+0:54,New Mexico,Corey Manigault,Defensive Rebound,29,43
+0:44,New Mexico,Corey Manigault,Turnover,29,43
+0:44,Colorado,Daylen Kountz,Steal,29,43
+0:39,Colorado,Tyler Bey,Layup,31,43
+0:09,New Mexico,Drue Drinnon,Missed Three Point Jumper,31,43
+0:09,Colorado,Daylen Kountz,Defensive Rebound,31,43
+0:01,Colorado,Deleon Brown,Three Point Jumper,34,43
+0:00,New Mexico,None,None,34,43
+20:00,New Mexico,None,None,34,43
+19:46,New Mexico,Corey Manigault,Missed Jumper,34,43
+19:46,Colorado,Tyler Bey,Block,34,43
+19:46,New Mexico,New Mexico,Offensive Rebound,34,43
+19:41,New Mexico,Dane Kuiper,Jumper,34,45
+19:10,Colorado,McKinley Wright IV,Layup,36,45
+18:58,New Mexico,Corey Manigault,Missed Layup,36,45
+18:58,Colorado,Tyler Bey,Block,36,45
+18:58,Colorado,Lucas Siewert,Defensive Rebound,36,45
+18:49,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,36,45
+18:49,New Mexico,None,Team Rebound,36,45
+18:49,Colorado,Lucas Siewert,Foul,36,45
+18:42,New Mexico,Vance Jackson,Missed Three Point Jumper,36,45
+18:42,Colorado,D'Shawn Schwartz,Defensive Rebound,36,45
+18:19,Colorado,Shane Gatling,Layup,38,45
+18:06,New Mexico,Drue Drinnon,Layup,38,47
+17:49,Colorado,Shane Gatling,Missed Three Point Jumper,38,47
+17:49,New Mexico,None,Team Rebound,38,47
+17:35,New Mexico,Anthony Mathis,Missed Three Point Jumper,38,47
+17:35,Colorado,Evan Battey,Defensive Rebound,38,47
+17:23,Colorado,D'Shawn Schwartz,Missed Layup,38,47
+17:23,New Mexico,Dane Kuiper,Defensive Rebound,38,47
+17:14,Colorado,Shane Gatling,Foul,38,47
+17:12,New Mexico,Makuach Maluach,Missed Three Point Jumper,38,47
+17:12,Colorado,Shane Gatling,Defensive Rebound,38,47
+17:04,Colorado,McKinley Wright IV,Missed Three Point Jumper,38,47
+17:04,New Mexico,Karim Ezzeddine,Defensive Rebound,38,47
+16:52,New Mexico,Keith McGee,Missed Three Point Jumper,38,47
+16:52,New Mexico,Keith McGee,Offensive Rebound,38,47
+16:36,New Mexico,Anthony Mathis,Three Point Jumper,38,50
+16:21,Colorado,Evan Battey,Missed Layup,38,50
+16:21,New Mexico,Karim Ezzeddine,Block,38,50
+16:21,Colorado,Evan Battey,Offensive Rebound,38,50
+16:17,New Mexico,Makuach Maluach,Foul,38,50
+16:11,Colorado,Evan Battey,Missed Layup,38,50
+16:11,New Mexico,Vance Jackson,Defensive Rebound,38,50
+15:55,New Mexico,Karim Ezzeddine,Layup,38,52
+15:49,New Mexico,Keith McGee,Foul,38,52
+15:49,New Mexico,None,None,38,52
+15:31,Colorado,Deleon Brown,Missed Jumper,38,52
+15:31,New Mexico,Karim Ezzeddine,Defensive Rebound,38,52
+15:21,New Mexico,Vladimir Pinchuk,Turnover,38,52
+15:15,New Mexico,Drue Drinnon,Foul,38,52
+15:12,Colorado,Evan Battey,Layup,40,52
+14:56,Colorado,Alexander Strating,Foul,40,52
+14:56,New Mexico,Vladimir Pinchuk,Missed Free Throw,40,52
+14:56,New Mexico,None,Team Rebound,40,52
+14:56,New Mexico,Vladimir Pinchuk,Missed Free Throw,40,52
+14:56,Colorado,Evan Battey,Defensive Rebound,40,52
+14:45,Colorado,Tyler Bey,Missed Three Point Jumper,40,52
+14:45,New Mexico,Vladimir Pinchuk,Defensive Rebound,40,52
+14:38,New Mexico,Vance Jackson,Turnover,40,52
+14:38,Colorado,Deleon Brown,Steal,40,52
+14:32,New Mexico,Vladimir Pinchuk,Foul,40,52
+14:15,Colorado,Namon Wright,Layup,42,52
+14:15,New Mexico,Anthony Mathis,Foul,42,52
+14:15,Colorado,Namon Wright,Free Throw,43,52
+14:00,New Mexico,Karim Ezzeddine,Missed Layup,43,52
+14:00,Colorado,Evan Battey,Defensive Rebound,43,52
+13:35,Colorado,Deleon Brown,Missed Three Point Jumper,43,52
+13:35,New Mexico,Karim Ezzeddine,Defensive Rebound,43,52
+13:08,New Mexico,Dane Kuiper,Missed Layup,43,52
+13:08,Colorado,Tyler Bey,Defensive Rebound,43,52
+12:41,Colorado,Deleon Brown,Jumper,45,52
+12:30,New Mexico,Anthony Mathis,Missed Three Point Jumper,45,52
+12:30,New Mexico,Vance Jackson,Offensive Rebound,45,52
+12:12,New Mexico,Tavian Percy,Missed Jumper,45,52
+12:12,Colorado,Tyler Bey,Defensive Rebound,45,52
+11:46,New Mexico,Vance Jackson,Foul,45,52
+11:46,New Mexico,None,None,45,52
+11:46,Colorado,Deleon Brown,Free Throw,46,52
+11:46,Colorado,Deleon Brown,Missed Free Throw,46,52
+11:46,New Mexico,Corey Manigault,Defensive Rebound,46,52
+11:28,New Mexico,Vladimir Pinchuk,Missed Jumper,46,52
+11:28,Colorado,D'Shawn Schwartz,Defensive Rebound,46,52
+10:58,Colorado,McKinley Wright IV,Layup,48,52
+10:44,New Mexico,Keith McGee,Layup,48,54
+10:31,Colorado,McKinley Wright IV,Missed Jumper,48,54
+10:31,Colorado,Lucas Siewert,Offensive Rebound,48,54
+10:26,Colorado,Lucas Siewert,Layup,50,54
+10:11,New Mexico,Corey Manigault,Layup,50,56
+9:48,Colorado,Deleon Brown,Missed Jumper,50,56
+9:48,Colorado,Tyler Bey,Offensive Rebound,50,56
+9:48,New Mexico,Vladimir Pinchuk,Foul,50,56
+9:48,Colorado,Tyler Bey,Free Throw,51,56
+9:48,Colorado,Tyler Bey,Free Throw,52,56
+9:33,New Mexico,Makuach Maluach,Layup,52,58
+9:15,Colorado,Lucas Siewert,Layup,54,58
+9:02,New Mexico,Vance Jackson,Missed Layup,54,58
+9:02,Colorado,Tyler Bey,Block,54,58
+9:02,Colorado,Tyler Bey,Defensive Rebound,54,58
+8:52,Colorado,Tyler Bey,Three Point Jumper,57,58
+8:35,New Mexico,Makuach Maluach,Missed Jumper,57,58
+8:35,Colorado,McKinley Wright IV,Defensive Rebound,57,58
+8:28,Colorado,McKinley Wright IV,Turnover,57,58
+8:28,New Mexico,Vance Jackson,Steal,57,58
+8:23,New Mexico,Anthony Mathis,Three Point Jumper,57,61
+8:12,Colorado,Lucas Siewert,Missed Three Point Jumper,57,61
+8:12,New Mexico,None,Team Rebound,57,61
+8:10,Colorado,Tyler Bey,Foul,57,61
+8:02,New Mexico,Keith McGee,Missed Layup,57,61
+8:02,New Mexico,Vladimir Pinchuk,Offensive Rebound,57,61
+7:54,New Mexico,Vladimir Pinchuk,Missed Layup,57,61
+7:54,Colorado,Lucas Siewert,Defensive Rebound,57,61
+7:43,Colorado,Daylen Kountz,Missed Jumper,57,61
+7:43,New Mexico,Karim Ezzeddine,Defensive Rebound,57,61
+7:28,New Mexico,None,None,57,61
+7:14,New Mexico,Vance Jackson,Missed Jumper,57,61
+7:14,Colorado,Lucas Siewert,Block,57,61
+7:14,Colorado,Lucas Siewert,Defensive Rebound,57,61
+6:51,Colorado,Daylen Kountz,Layup,59,61
+6:28,New Mexico,Vance Jackson,Three Point Jumper,59,64
+6:14,Colorado,Daylen Kountz,Missed Layup,59,64
+6:14,New Mexico,Vance Jackson,Defensive Rebound,59,64
+6:03,New Mexico,Anthony Mathis,Missed Three Point Jumper,59,64
+6:03,Colorado,D'Shawn Schwartz,Defensive Rebound,59,64
+6:03,New Mexico,Dane Kuiper,Foul,59,64
+6:03,Colorado,Evan Battey,Free Throw,60,64
+6:03,Colorado,Evan Battey,Missed Free Throw,60,64
+6:03,New Mexico,Karim Ezzeddine,Defensive Rebound,60,64
+5:49,New Mexico,Vance Jackson,Missed Layup,60,64
+5:49,Colorado,McKinley Wright IV,Defensive Rebound,60,64
+5:40,Colorado,Evan Battey,Three Point Jumper,63,64
+5:11,Colorado,Deleon Brown,Foul,63,64
+5:10,New Mexico,Anthony Mathis,Turnover,63,64
+5:10,Colorado,Namon Wright,Steal,63,64
+5:09,New Mexico,Anthony Mathis,Foul,63,64
+5:09,Colorado,Namon Wright,Free Throw,64,64
+5:09,Colorado,Namon Wright,Missed Free Throw,64,64
+5:09,New Mexico,Vance Jackson,Defensive Rebound,64,64
+4:53,New Mexico,Vance Jackson,Missed Layup,64,64
+4:53,Colorado,Lucas Siewert,Defensive Rebound,64,64
+4:36,Colorado,McKinley Wright IV,Layup,66,64
+4:10,Colorado,Tyler Bey,Foul,66,64
+3:56,Colorado,Lucas Siewert,Foul,66,64
+3:56,New Mexico,None,None,66,64
+3:56,New Mexico,Corey Manigault,Missed Free Throw,66,64
+3:56,New Mexico,New Mexico,Defensive Rebound,66,64
+3:56,New Mexico,Corey Manigault,Free Throw,66,65
+3:32,New Mexico,Anthony Mathis,Foul,66,65
+3:32,Colorado,Namon Wright,Free Throw,67,65
+3:32,Colorado,Namon Wright,Free Throw,68,65
+3:20,New Mexico,Dane Kuiper,Jumper,68,67
+3:10,Colorado,McKinley Wright IV,Missed Jumper,68,67
+3:10,New Mexico,Corey Manigault,Defensive Rebound,68,67
+3:02,New Mexico,Makuach Maluach,Missed Three Point Jumper,68,67
+3:02,Colorado,McKinley Wright IV,Defensive Rebound,68,67
+2:37,Colorado,Tyler Bey,Layup,70,67
+2:17,New Mexico,Drue Drinnon,Turnover,70,67
+1:58,New Mexico,Karim Ezzeddine,Foul,70,67
+1:58,Colorado,Lucas Siewert,Free Throw,71,67
+1:58,Colorado,Lucas Siewert,Free Throw,72,67
+1:43,New Mexico,Corey Manigault,Missed Layup,72,67
+1:43,Colorado,Tyler Bey,Defensive Rebound,72,67
+1:35,New Mexico,Anthony Mathis,Foul,72,67
+1:35,Colorado,Deleon Brown,Missed Free Throw,72,67
+1:35,Colorado,None,Team Rebound,72,67
+1:35,Colorado,Deleon Brown,Free Throw,73,67
+1:15,New Mexico,Vladimir Pinchuk,Jumper,73,69
+0:55,New Mexico,Vance Jackson,Foul,73,69
+0:55,Colorado,Deleon Brown,Missed Free Throw,73,69
+0:55,Colorado,None,Team Rebound,73,69
+0:55,Colorado,Deleon Brown,Free Throw,74,69
+0:41,New Mexico,Vance Jackson,Three Point Jumper,74,72
+0:41,New Mexico,None,None,74,72
+0:15,Colorado,McKinley Wright IV,Layup,76,72
+0:07,New Mexico,Anthony Mathis,Three Point Jumper,76,75
+0:07,New Mexico,None,None,76,75
+0:05,New Mexico,Anthony Mathis,Foul,76,75
+0:05,Colorado,Lucas Siewert,Free Throw,77,75
+0:05,Colorado,None,None,77,75
+0:05,Colorado,Lucas Siewert,Free Throw,78,75
+0:01,New Mexico,Vance Jackson,Missed Three Point Jumper,78,75
+0:01,Colorado,Colorado,Defensive Rebound,78,75
+0:00,New Mexico,None,None,78,75

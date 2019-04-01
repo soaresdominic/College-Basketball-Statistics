@@ -1,0 +1,406 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:48,UCLA,Moses Brown,Missed Layup,0,0
+19:48,California,Grant Anticevich,Block,0,0
+19:48,California,California,Defensive Rebound,0,0
+19:38,UCLA,Moses Brown,Foul,0,0
+19:25,California,Connor Vanover,Turnover,0,0
+19:02,UCLA,Jaylen Hands,Missed Three Point Jumper,0,0
+18:58,California,Juhwan Harris-Dyson,Defensive Rebound,0,0
+18:52,California,Grant Anticevich,Three Point Jumper,3,0
+18:44,UCLA,Moses Brown,Missed Layup,3,0
+18:41,California,Jacobi Gordon,Defensive Rebound,3,0
+18:32,California,Jacobi Gordon,Missed Jumper,3,0
+18:28,California,California,Offensive Rebound,3,0
+18:12,California,Juhwan Harris-Dyson,Jumper,5,0
+18:05,California,Juhwan Harris-Dyson,Foul,5,0
+18:03,UCLA,Prince Ali,Missed Three Point Jumper,5,0
+18:02,California,Jacobi Gordon,Defensive Rebound,5,0
+18:02,UCLA,Jalen Hill,Foul,5,0
+17:47,California,Matt Bradley,Missed Three Point Jumper,5,0
+17:43,UCLA,Jalen Hill,Defensive Rebound,5,0
+17:36,UCLA,Jalen Hill,Layup,5,2
+17:06,California,Grant Anticevich,Jumper,7,2
+16:56,California,Juhwan Harris-Dyson,Foul,7,2
+16:54,UCLA,Kris Wilkes,Missed Three Point Jumper,7,2
+16:50,California,Grant Anticevich,Defensive Rebound,7,2
+16:47,UCLA,Prince Ali,Foul,7,2
+16:47,California,Matt Bradley,Free Throw,8,2
+16:47,California,Matt Bradley,Free Throw,9,2
+16:40,UCLA,Prince Ali,Three Point Jumper,9,5
+16:30,California,Grant Anticevich,Turnover,9,5
+16:30,UCLA,Prince Ali,Steal,9,5
+16:25,UCLA,Prince Ali,Turnover,9,5
+16:25,California,Grant Anticevich,Steal,9,5
+16:05,California,Connor Vanover,Missed Jumper,9,5
+16:02,UCLA,Jalen Hill,Defensive Rebound,9,5
+15:49,California,Darius McNeill,Foul,9,5
+15:49,UCLA,None,None,9,5
+15:35,UCLA,Chris Smith,Turnover,9,5
+15:13,California,Andre Kelly,Missed Jumper,9,5
+15:10,UCLA,Moses Brown,Defensive Rebound,9,5
+15:08,UCLA,Moses Brown,Turnover,9,5
+15:08,California,Matt Bradley,Steal,9,5
+15:00,California,Grant Anticevich,Missed Jumper,9,5
+14:56,UCLA,Cody Riley,Defensive Rebound,9,5
+14:49,UCLA,Moses Brown,Dunk,9,7
+14:19,California,Matt Bradley,Missed Jumper,9,7
+14:15,California,Andre Kelly,Offensive Rebound,9,7
+14:14,California,Justice Sueing,Missed Three Point Jumper,9,7
+14:10,UCLA,Jaylen Hands,Defensive Rebound,9,7
+13:56,UCLA,Jalen Hill,Turnover,9,7
+13:56,California,Darius McNeill,Steal,9,7
+13:51,California,Darius McNeill,Layup,11,7
+13:37,UCLA,David Singleton,Layup,11,9
+13:37,California,Andre Kelly,Foul,11,9
+13:36,UCLA,David Singleton,Free Throw,11,10
+13:33,California,Grant Anticevich,Turnover,11,10
+13:33,UCLA,Kris Wilkes,Steal,11,10
+13:26,UCLA,Kris Wilkes,Layup,11,12
+12:53,California,Jacobi Gordon,Missed Layup,11,12
+12:50,UCLA,Kris Wilkes,Defensive Rebound,11,12
+12:46,UCLA,Jules Bernard,Missed Three Point Jumper,11,12
+12:43,California,Justice Sueing,Defensive Rebound,11,12
+12:40,UCLA,Kris Wilkes,Foul,11,12
+12:40,California,Justice Sueing,Free Throw,12,12
+12:40,California,Justice Sueing,Free Throw,13,12
+12:24,UCLA,Kris Wilkes,Missed Three Point Jumper,13,12
+12:22,California,Jacobi Gordon,Defensive Rebound,13,12
+12:22,UCLA,Cody Riley,Foul,13,12
+12:11,California,Darius McNeill,Three Point Jumper,16,12
+12:03,UCLA,Kris Wilkes,Turnover,16,12
+12:03,California,Darius McNeill,Steal,16,12
+11:54,California,Roman Davis,Turnover,16,12
+11:54,UCLA,None,None,16,12
+11:39,UCLA,Jaylen Hands,Turnover,16,12
+11:33,UCLA,Cody Riley,Foul,16,12
+11:31,California,Darius McNeill,Free Throw,17,12
+11:31,California,Darius McNeill,Free Throw,18,12
+11:30,UCLA,Chris Smith,Jumper,18,14
+11:13,California,Connor Vanover,Missed Three Point Jumper,18,14
+11:11,UCLA,David Singleton,Defensive Rebound,18,14
+11:11,California,Matt Bradley,Foul,18,14
+11:01,UCLA,Kris Wilkes,Missed Layup,18,14
+11:01,California,Connor Vanover,Block,18,14
+10:53,UCLA,Kris Wilkes,Offensive Rebound,18,14
+10:53,UCLA,Kris Wilkes,Missed Layup,18,14
+10:49,UCLA,Kris Wilkes,Offensive Rebound,18,14
+10:49,UCLA,Kris Wilkes,Missed Layup,18,14
+10:48,California,Connor Vanover,Defensive Rebound,18,14
+10:46,California,Darius McNeill,Layup,20,14
+10:40,UCLA,David Singleton,Three Point Jumper,20,17
+10:20,California,Justice Sueing,Dunk,22,17
+10:12,UCLA,Kris Wilkes,Missed Three Point Jumper,22,17
+10:07,California,Roman Davis,Defensive Rebound,22,17
+10:07,California,Roman Davis,Turnover,22,17
+9:51,UCLA,David Singleton,Jumper,22,19
+9:51,California,Matt Bradley,Foul,22,19
+9:51,UCLA,David Singleton,Missed Free Throw,22,19
+9:48,California,Andre Kelly,Defensive Rebound,22,19
+9:30,California,Darius McNeill,Missed Three Point Jumper,22,19
+9:26,UCLA,Chris Smith,Defensive Rebound,22,19
+9:24,UCLA,Jaylen Hands,Missed Three Point Jumper,22,19
+9:20,California,Justice Sueing,Defensive Rebound,22,19
+9:16,UCLA,Chris Smith,Foul,22,19
+9:16,California,Justice Sueing,Free Throw,23,19
+9:16,California,Justice Sueing,Free Throw,24,19
+8:58,UCLA,Jules Bernard,Three Point Jumper,24,22
+8:34,UCLA,Jules Bernard,Foul,24,22
+8:34,California,Darius McNeill,Free Throw,25,22
+8:34,California,Darius McNeill,Free Throw,26,22
+8:18,UCLA,Jules Bernard,Foul,26,22
+8:18,UCLA,Jules Bernard,Turnover,26,22
+7:53,California,Juhwan Harris-Dyson,Missed Jumper,26,22
+7:49,UCLA,Prince Ali,Defensive Rebound,26,22
+7:36,UCLA,David Singleton,Three Point Jumper,26,25
+7:04,California,Darius McNeill,Missed Jumper,26,25
+7:02,UCLA,Moses Brown,Defensive Rebound,26,25
+7:01,UCLA,Moses Brown,Turnover,26,25
+7:01,California,Darius McNeill,Steal,26,25
+7:01,UCLA,None,None,26,25
+7:01,California,California ,Turnover,26,25
+6:52,UCLA,Moses Brown,Turnover,26,25
+6:52,California,Justice Sueing,Steal,26,25
+6:42,California,Andre Kelly,Missed Jumper,26,25
+6:42,UCLA,Moses Brown,Block,26,25
+6:39,California,Andre Kelly,Offensive Rebound,26,25
+6:39,California,Andre Kelly,Turnover,26,25
+6:31,UCLA,Kris Wilkes,Layup,26,27
+6:12,California,Roman Davis,Missed Jumper,26,27
+6:08,California,Matt Bradley,Offensive Rebound,26,27
+6:03,California,Justice Sueing,Layup,28,27
+6:03,UCLA,Moses Brown,Foul,28,27
+6:03,California,Justice Sueing,Free Throw,29,27
+5:52,UCLA,Prince Ali,Three Point Jumper,29,30
+5:51,California,Andre Kelly,Foul,29,30
+5:51,UCLA,Prince Ali,Free Throw,29,31
+5:42,California,Matt Bradley,Turnover,29,31
+5:37,UCLA,David Singleton,Missed Three Point Jumper,29,31
+5:32,California,Connor Vanover,Defensive Rebound,29,31
+5:29,California,Darius McNeill,Turnover,29,31
+5:29,UCLA,Jaylen Hands,Steal,29,31
+5:29,California,Darius McNeill,Foul,29,31
+5:29,UCLA,Jaylen Hands,Free Throw,29,32
+5:29,UCLA,Jaylen Hands,Free Throw,29,33
+5:25,California,Jacobi Gordon,Foul,29,33
+5:25,UCLA,Kris Wilkes,Free Throw,29,34
+5:25,UCLA,Kris Wilkes,Free Throw,29,35
+5:02,California,Jacobi Gordon,Turnover,29,35
+4:53,UCLA,Jaylen Hands,Missed Three Point Jumper,29,35
+4:48,California,Matt Bradley,Defensive Rebound,29,35
+4:43,California,Darius McNeill,Missed Three Point Jumper,29,35
+4:39,UCLA,Jalen Hill,Defensive Rebound,29,35
+4:34,UCLA,Prince Ali,Jumper,29,37
+4:27,California,None,None,29,37
+4:27,UCLA,None,None,29,37
+4:14,California,Grant Anticevich,Jumper,31,37
+3:53,UCLA,David Singleton,Three Point Jumper,31,40
+3:30,California,Connor Vanover,Jumper,33,40
+3:10,UCLA,Jaylen Hands,Jumper,33,42
+2:55,California,Connor Vanover,Dunk,35,42
+2:41,UCLA,Jaylen Hands,Turnover,35,42
+2:41,California,Grant Anticevich,Steal,35,42
+2:36,California,Grant Anticevich,Turnover,35,42
+2:36,UCLA,Jaylen Hands,Steal,35,42
+2:25,UCLA,Kris Wilkes,Layup,35,44
+2:16,California,Darius McNeill,Jumper,37,44
+1:58,UCLA,Kris Wilkes,Missed Layup,37,44
+1:57,UCLA,Jalen Hill,Offensive Rebound,37,44
+1:57,California,Grant Anticevich,Foul,37,44
+1:57,UCLA,Jalen Hill,Free Throw,37,45
+1:57,UCLA,Jalen Hill,Free Throw,37,46
+1:35,California,Matt Bradley,Missed Three Point Jumper,37,46
+1:30,UCLA,Alex Olesinski,Defensive Rebound,37,46
+1:23,UCLA,Chris Smith,Missed Three Point Jumper,37,46
+1:18,California,Justice Sueing,Defensive Rebound,37,46
+0:57,California,Matt Bradley,Turnover,37,46
+0:57,UCLA,Alex Olesinski,Steal,37,46
+0:51,UCLA,David Singleton,Missed Jumper,37,46
+0:49,UCLA,Kenneth Nwuba,Offensive Rebound,37,46
+0:49,California,Roman Davis,Foul,37,46
+0:49,UCLA,Kenneth Nwuba,Missed Free Throw,37,46
+0:49,UCLA,UCLA,Offensive Rebound,37,46
+0:49,UCLA,Kenneth Nwuba,Missed Free Throw,37,46
+0:47,California,Justice Sueing,Defensive Rebound,37,46
+0:32,California,Darius McNeill,Turnover,37,46
+0:32,UCLA,Chris Smith,Steal,37,46
+0:31,California,Matt Bradley,Foul,37,46
+0:31,UCLA,Chris Smith,Free Throw,37,47
+0:31,UCLA,Chris Smith,Free Throw,37,48
+0:18,California,Darius McNeill,Turnover,37,48
+0:18,UCLA,David Singleton,Steal,37,48
+0:14,UCLA,Prince Ali,Dunk,37,50
+0:05,UCLA,Prince Ali,Foul,37,50
+0:05,California,Justice Sueing,Free Throw,38,50
+0:05,California,Justice Sueing,Free Throw,39,50
+0:05,UCLA,None,None,39,50
+0:00,UCLA,Chris Smith,Turnover,39,50
+0:00,California,Darius McNeill,Steal,39,50
+0:00,California,Darius McNeill,Three Point Jumper,42,50
+0:00,UCLA,None,None,39,50
+19:43,UCLA,Kris Wilkes,Missed Jumper,42,50
+19:41,UCLA,Moses Brown,Offensive Rebound,42,50
+19:41,California,Juhwan Harris-Dyson,Foul,42,50
+19:39,UCLA,Chris Smith,Missed Jumper,42,50
+19:35,California,Justice Sueing,Defensive Rebound,42,50
+19:31,California,Darius McNeill,Missed Jumper,42,50
+19:28,UCLA,Moses Brown,Defensive Rebound,42,50
+19:24,UCLA,Moses Brown,Layup,42,52
+19:03,California,Justice Sueing,Turnover,42,52
+19:03,UCLA,Chris Smith,Steal,42,52
+18:57,UCLA,Prince Ali,Missed Layup,42,52
+18:50,UCLA,Moses Brown,Offensive Rebound,42,52
+18:50,UCLA,Moses Brown,Dunk,42,54
+18:44,California,Connor Vanover,Missed Three Point Jumper,42,54
+18:37,California,Justice Sueing,Offensive Rebound,42,54
+18:37,California,Justice Sueing,Layup,44,54
+18:19,UCLA,Jaylen Hands,Missed Three Point Jumper,44,54
+18:16,California,Darius McNeill,Defensive Rebound,44,54
+18:14,UCLA,Prince Ali,Foul,44,54
+18:14,UCLA,None,None,44,54
+17:57,California,Matt Bradley,Layup,46,54
+17:36,UCLA,Kris Wilkes,Layup,46,56
+17:06,California,Juhwan Harris-Dyson,Turnover,46,56
+16:56,UCLA,Kris Wilkes,Layup,46,58
+16:41,California,Matt Bradley,Missed Layup,46,58
+16:40,California,Connor Vanover,Offensive Rebound,46,58
+16:40,UCLA,Chris Smith,Foul,46,58
+16:40,California,Connor Vanover,Free Throw,47,58
+16:40,California,Connor Vanover,Free Throw,48,58
+16:32,UCLA,Prince Ali,Missed Dunk,48,58
+16:32,California,California,Defensive Rebound,48,58
+16:28,California,Connor Vanover,Jumper,50,58
+16:10,UCLA,Chris Smith,Missed Jumper,50,58
+16:10,California,Juhwan Harris-Dyson,Block,50,58
+16:06,UCLA,Prince Ali,Offensive Rebound,50,58
+16:06,California,Juhwan Harris-Dyson,Foul,50,58
+16:03,UCLA,Jaylen Hands,Turnover,50,58
+16:03,California,Darius McNeill,Steal,50,58
+15:58,California,Darius McNeill,Layup,52,58
+15:41,UCLA,Chris Smith,Turnover,52,58
+15:41,California,Matt Bradley,Steal,52,58
+15:37,California,Matt Bradley,Layup,54,58
+15:26,UCLA,Moses Brown,Dunk,54,60
+15:11,California,Matt Bradley,Jumper,56,60
+15:05,UCLA,Kris Wilkes,Missed Three Point Jumper,56,60
+14:57,UCLA,Chris Smith,Offensive Rebound,56,60
+14:57,UCLA,Chris Smith,Dunk,56,62
+14:39,California,Justice Sueing,Missed Three Point Jumper,56,62
+14:36,UCLA,Kris Wilkes,Defensive Rebound,56,62
+14:27,California,Jacobi Gordon,Foul,56,62
+14:27,UCLA,None,None,56,62
+14:27,UCLA,Moses Brown,Missed Free Throw,56,62
+14:27,UCLA,UCLA,Offensive Rebound,56,62
+14:27,UCLA,Moses Brown,Free Throw,56,63
+14:12,California,Justice Sueing,Turnover,56,63
+14:12,UCLA,Jules Bernard,Steal,56,63
+14:05,UCLA,Jules Bernard,Missed Jumper,56,63
+14:00,UCLA,Moses Brown,Offensive Rebound,56,63
+14:00,UCLA,Moses Brown,Dunk,56,65
+13:32,California,Jacobi Gordon,Missed Layup,56,65
+13:32,UCLA,Moses Brown,Block,56,65
+13:31,UCLA,UCLA,Defensive Rebound,56,65
+13:10,California,Darius McNeill,Foul,56,65
+13:10,UCLA,Chris Smith,Free Throw,56,66
+13:10,UCLA,Chris Smith,Free Throw,56,67
+13:01,California,Grant Anticevich,Missed Jumper,56,67
+12:55,California,Andre Kelly,Offensive Rebound,56,67
+12:55,California,Andre Kelly,Layup,58,67
+12:38,UCLA,Moses Brown,Missed Jumper,58,67
+12:38,California,Andre Kelly,Block,58,67
+12:37,UCLA,Moses Brown,Offensive Rebound,58,67
+12:37,UCLA,Moses Brown,Layup,58,69
+12:37,California,Andre Kelly,Foul,58,69
+12:37,UCLA,Moses Brown,Free Throw,58,70
+12:19,California,Darius McNeill,Missed Jumper,58,70
+12:16,UCLA,Moses Brown,Defensive Rebound,58,70
+12:16,UCLA,Moses Brown,Turnover,58,70
+12:16,California,Andre Kelly,Steal,58,70
+12:16,UCLA,Moses Brown,Foul,58,70
+12:16,California,Andre Kelly,Missed Free Throw,58,70
+12:16,California,California,Offensive Rebound,58,70
+12:16,California,Andre Kelly,Missed Free Throw,58,70
+12:14,UCLA,Chris Smith,Defensive Rebound,58,70
+12:03,UCLA,Kris Wilkes,Layup,58,72
+11:52,California,Andre Kelly,Missed Layup,58,72
+11:52,UCLA,Kris Wilkes,Block,58,72
+11:47,California,Grant Anticevich,Offensive Rebound,58,72
+11:45,California,Darius McNeill,Three Point Jumper,61,72
+11:40,California,Andre Kelly,Foul,61,72
+11:40,UCLA,None,None,61,72
+11:32,UCLA,Jules Bernard,Three Point Jumper,61,75
+11:14,California,Justice Sueing,Missed Jumper,61,75
+11:10,California,Grant Anticevich,Offensive Rebound,61,75
+11:01,UCLA,Jalen Hill,Foul,61,75
+11:01,California,Matt Bradley,Missed Free Throw,61,75
+11:01,California,California,Offensive Rebound,61,75
+11:01,California,Matt Bradley,Missed Free Throw,61,75
+10:58,UCLA,Jules Bernard,Defensive Rebound,61,75
+10:42,UCLA,Jules Bernard,Turnover,61,75
+10:42,California,Grant Anticevich,Steal,61,75
+10:26,California,Grant Anticevich,Jumper,63,75
+10:12,UCLA,Kris Wilkes,Turnover,63,75
+9:52,California,Justice Sueing,Missed Jumper,63,75
+9:49,UCLA,Jules Bernard,Defensive Rebound,63,75
+9:45,UCLA,Jalen Hill,Dunk,63,77
+9:23,California,Grant Anticevich,Missed Jumper,63,77
+9:22,California,Justice Sueing,Offensive Rebound,63,77
+9:22,California,Justice Sueing,Layup,65,77
+9:22,UCLA,Cody Riley,Foul,65,77
+9:22,California,Justice Sueing,Free Throw,66,77
+9:22,California,None,None,66,77
+9:14,UCLA,Kris Wilkes,Turnover,66,77
+9:14,California,Connor Vanover,Steal,66,77
+9:07,California,Matt Bradley,Missed Layup,66,77
+9:03,UCLA,Cody Riley,Defensive Rebound,66,77
+8:56,California,Grant Anticevich,Foul,66,77
+8:56,UCLA,Jules Bernard,Missed Free Throw,66,77
+8:53,California,Matt Bradley,Defensive Rebound,66,77
+8:38,California,Connor Vanover,Jumper,68,77
+8:19,UCLA,Kris Wilkes,Layup,68,79
+7:57,California,Matt Bradley,Missed Three Point Jumper,68,79
+7:53,UCLA,Cody Riley,Defensive Rebound,68,79
+7:50,UCLA,Jules Bernard,Three Point Jumper,68,82
+7:21,California,Darius McNeill,Missed Jumper,68,82
+7:16,UCLA,Jalen Hill,Defensive Rebound,68,82
+7:15,UCLA,David Singleton,Turnover,68,82
+7:15,California,Darius McNeill,Steal,68,82
+7:10,California,Connor Vanover,Missed Layup,68,82
+7:06,UCLA,Kris Wilkes,Defensive Rebound,68,82
+7:05,UCLA,Jules Bernard,Missed Three Point Jumper,68,82
+7:02,California,Connor Vanover,Defensive Rebound,68,82
+6:57,California,Matt Bradley,Layup,70,82
+6:57,UCLA,Kris Wilkes,Foul,70,82
+6:57,UCLA,None,None,70,82
+6:57,California,Matt Bradley,Free Throw,71,82
+6:28,UCLA,Jules Bernard,Three Point Jumper,71,85
+6:02,California,Darius McNeill,Missed Three Point Jumper,71,85
+5:58,UCLA,Chris Smith,Defensive Rebound,71,85
+5:54,UCLA,Jules Bernard,Missed Three Point Jumper,71,85
+5:51,UCLA,Moses Brown,Offensive Rebound,71,85
+5:51,California,Connor Vanover,Foul,71,85
+5:51,UCLA,Moses Brown,Missed Free Throw,71,85
+5:51,UCLA,UCLA,Offensive Rebound,71,85
+5:51,UCLA,Moses Brown,Missed Free Throw,71,85
+5:49,California,Justice Sueing,Defensive Rebound,71,85
+5:35,California,Matt Bradley,Turnover,71,85
+5:28,UCLA,Jaylen Hands,Missed Jumper,71,85
+5:24,UCLA,Prince Ali,Offensive Rebound,71,85
+5:22,UCLA,Prince Ali,Turnover,71,85
+5:12,California,Justice Sueing,Missed Layup,71,85
+5:08,California,Andre Kelly,Offensive Rebound,71,85
+5:08,California,Andre Kelly,Missed Layup,71,85
+5:06,UCLA,Jaylen Hands,Defensive Rebound,71,85
+5:04,UCLA,Moses Brown,Turnover,71,85
+5:04,California,Darius McNeill,Steal,71,85
+4:59,California,Darius McNeill,Layup,73,85
+4:43,California,Andre Kelly,Foul,73,85
+4:43,UCLA,Moses Brown,Missed Free Throw,73,85
+4:40,California,Jacobi Gordon,Defensive Rebound,73,85
+4:23,California,Jacobi Gordon,Missed Three Point Jumper,73,85
+4:20,UCLA,Cody Riley,Defensive Rebound,73,85
+4:17,UCLA,Moses Brown,Dunk,73,87
+3:52,California,Connor Vanover,Missed Three Point Jumper,73,87
+3:47,California,Jacobi Gordon,Offensive Rebound,73,87
+3:47,California,Jacobi Gordon,Layup,75,87
+3:41,UCLA,Chris Smith,Layup,75,89
+3:24,California,Jacobi Gordon,Missed Three Point Jumper,75,89
+3:21,UCLA,Prince Ali,Defensive Rebound,75,89
+3:19,California,Juhwan Harris-Dyson,Foul,75,89
+3:19,UCLA,None,None,75,89
+3:19,UCLA,Chris Smith,Free Throw,75,90
+3:19,UCLA,Chris Smith,Missed Free Throw,75,90
+3:16,California,Justice Sueing,Defensive Rebound,75,90
+3:00,California,Justice Sueing,Jumper,77,90
+2:46,UCLA,Jaylen Hands,Turnover,77,90
+2:46,California,Matt Bradley,Steal,77,90
+2:44,UCLA,Chris Smith,Foul,77,90
+2:44,California,Matt Bradley,Free Throw,78,90
+2:44,California,Matt Bradley,Free Throw,79,90
+2:36,California,Justice Sueing,Foul,79,90
+2:36,UCLA,Chris Smith,Free Throw,79,91
+2:36,UCLA,Chris Smith,Free Throw,79,92
+2:26,California,Matt Bradley,Jumper,81,92
+2:17,UCLA,Jaylen Hands,Turnover,81,92
+2:17,California,Jacobi Gordon,Steal,81,92
+2:17,UCLA,Jaylen Hands,Foul,81,92
+2:17,California,Jacobi Gordon,Free Throw,82,92
+2:17,California,Jacobi Gordon,Free Throw,83,92
+1:52,UCLA,Jaylen Hands,Missed Layup,83,92
+1:48,California,Jacobi Gordon,Defensive Rebound,83,92
+1:43,California,Justice Sueing,Missed Three Point Jumper,83,92
+1:39,UCLA,Prince Ali,Defensive Rebound,83,92
+1:12,UCLA,Jaylen Hands,Jumper,83,94
+0:57,California,Matt Bradley,Turnover,83,94
+0:57,UCLA,Chris Smith,Steal,83,94
+0:56,California,Justice Sueing,Foul,83,94
+0:56,UCLA,Chris Smith,Free Throw,83,95
+0:56,UCLA,Chris Smith,Free Throw,83,96
+0:47,California,Justice Sueing,Missed Three Point Jumper,83,96
+0:43,UCLA,Chris Smith,Defensive Rebound,83,96
+0:20,California,Justice Sueing,Foul,83,96
+0:20,UCLA,Kris Wilkes,Free Throw,83,97
+0:20,UCLA,Kris Wilkes,Free Throw,83,98
+0:05,California,Darius McNeill,Missed Three Point Jumper,83,98
+0:01,UCLA,Armani Dodson,Defensive Rebound,83,98
+0:00,UCLA,None,None,83,98
+0:00,UCLA,None,None,83,98

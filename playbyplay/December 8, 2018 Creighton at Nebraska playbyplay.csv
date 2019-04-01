@@ -1,0 +1,332 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:59,Creighton,None,None,0,0
+19:39,Creighton,Damien Jefferson,Turnover,0,0
+19:22,Nebraska,James Palmer Jr.,Three Point Jumper,0,3
+19:05,Creighton,Ty-Shon Alexander,Missed Jumper,0,3
+19:05,Creighton,Damien Jefferson,Offensive Rebound,0,3
+19:05,Creighton,None,None,2,3
+18:44,Nebraska,Thomas Allen,Missed Three Point Jumper,2,3
+18:44,Creighton,Damien Jefferson,Defensive Rebound,2,3
+18:36,Creighton,Martin Krampelj,Layup,4,3
+18:10,Nebraska,James Palmer Jr.,Three Point Jumper,4,6
+17:37,Creighton,Ty-Shon Alexander,Jumper,6,6
+17:27,Nebraska,James Palmer Jr.,Three Point Jumper,6,9
+17:12,Creighton,Martin Krampelj,Missed Jumper,6,9
+17:12,Nebraska,Isaac Copeland Jr.,Defensive Rebound,6,9
+17:03,Nebraska,Isaac Copeland Jr.,Missed Jumper,6,9
+17:03,Creighton,Martin Krampelj,Defensive Rebound,6,9
+16:57,Creighton,Ty-Shon Alexander,Three Point Jumper,9,9
+16:39,Nebraska,James Palmer Jr.,Missed Three Point Jumper,9,9
+16:39,Creighton,Martin Krampelj,Defensive Rebound,9,9
+16:22,Creighton,Damien Jefferson,Missed Jumper,9,9
+16:22,Nebraska,Isaiah Roby,Defensive Rebound,9,9
+16:09,Nebraska,Thomas Allen,Jumper,9,11
+15:52,Nebraska,James Palmer Jr.,Foul,9,11
+15:52,Nebraska,None,None,9,11
+15:52,Creighton,Martin Krampelj,Missed Free Throw,9,11
+15:52,Creighton,None,Team Rebound,9,11
+15:52,Creighton,Martin Krampelj,Missed Free Throw,9,11
+15:52,Nebraska,Isaiah Roby,Defensive Rebound,9,11
+15:29,Nebraska,Isaiah Roby,Jumper,9,13
+15:29,Creighton,Mitch Ballock,Foul,9,13
+15:29,Nebraska,Isaiah Roby,Free Throw,9,14
+15:07,Creighton,Damien Jefferson,Missed Three Point Jumper,9,14
+15:07,Nebraska,Thomas Allen,Defensive Rebound,9,14
+14:52,Nebraska,Isaac Copeland Jr.,Turnover,9,14
+14:41,Creighton,Ty-Shon Alexander,Missed Jumper,9,14
+14:41,Nebraska,Thomas Allen,Defensive Rebound,9,14
+14:33,Nebraska,Thomas Allen,Layup,9,16
+14:15,Creighton,Marcus Zegarowski,Turnover,9,16
+14:15,Nebraska,Tanner Borchardt,Steal,9,16
+14:07,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,9,16
+14:07,Creighton,Marcus Zegarowski,Defensive Rebound,9,16
+13:53,Nebraska,Tanner Borchardt,Foul,9,16
+13:53,Creighton,Kaleb Joseph,Missed Free Throw,9,16
+13:53,Creighton,None,Team Rebound,9,16
+13:53,Creighton,Kaleb Joseph,Free Throw,10,16
+13:47,Nebraska,Nebraska,Foul,10,16
+13:47,Creighton,Creighton,Foul,10,16
+13:33,Nebraska,James Palmer Jr.,Turnover,10,16
+13:33,Creighton,Ty-Shon Alexander,Steal,10,16
+13:26,Creighton,Ty-Shon Alexander,Missed Layup,10,16
+13:26,Creighton,Marcus Zegarowski,Offensive Rebound,10,16
+13:26,Creighton,Marcus Zegarowski,Missed Layup,10,16
+13:26,Nebraska,Tanner Borchardt,Defensive Rebound,10,16
+13:01,Nebraska,Thomas Allen,Layup,10,18
+12:47,Nebraska,James Palmer Jr.,Foul,10,18
+12:47,Creighton,Mitch Ballock,Free Throw,11,18
+12:47,Creighton,Mitch Ballock,Missed Free Throw,11,18
+12:47,Creighton,None,Team Rebound,11,18
+12:47,Creighton,Mitch Ballock,Free Throw,12,18
+12:26,Nebraska,Glynn Watson Jr.,Three Point Jumper,12,21
+12:13,Creighton,Samson Froling,Layup,14,21
+11:55,Nebraska,Glynn Watson Jr.,Missed Jumper,14,21
+11:55,Nebraska,Tanner Borchardt,Offensive Rebound,14,21
+11:55,Nebraska,Tanner Borchardt,Missed Layup,14,21
+11:55,Nebraska,Nana Akenten,Offensive Rebound,14,21
+11:32,Nebraska,Isaiah Roby,Jumper,14,23
+11:32,Creighton,Damien Jefferson,Foul,14,23
+11:32,Nebraska,None,None,14,23
+11:32,Nebraska,Isaiah Roby,Free Throw,14,24
+11:15,Creighton,Marcus Zegarowski,Missed Three Point Jumper,14,24
+11:15,Nebraska,Isaac Copeland Jr.,Defensive Rebound,14,24
+10:46,Nebraska,Thomas Allen,Three Point Jumper,14,27
+10:26,Creighton,Kaleb Joseph,Turnover,14,27
+10:12,Nebraska,Isaac Copeland Jr.,Three Point Jumper,14,30
+10:05,Creighton,None,None,14,30
+9:53,Creighton,Davion Mintz,Layup,16,30
+9:22,Nebraska,Isaiah Roby,Jumper,16,32
+9:06,Creighton,Connor Cashaw,Missed Jumper,16,32
+9:06,Nebraska,Isaiah Roby,Defensive Rebound,16,32
+8:53,Nebraska,Thomas Allen,Missed Three Point Jumper,16,32
+8:53,Creighton,Connor Cashaw,Defensive Rebound,16,32
+8:45,Creighton,Damien Jefferson,Missed Jumper,16,32
+8:45,Nebraska,Thomas Allen,Block,16,32
+8:45,Nebraska,Isaac Copeland Jr.,Defensive Rebound,16,32
+8:31,Nebraska,Isaiah Roby,Turnover,16,32
+8:31,Creighton,Damien Jefferson,Steal,16,32
+8:18,Creighton,Martin Krampelj,Missed Three Point Jumper,16,32
+8:18,Nebraska,Thomas Allen,Defensive Rebound,16,32
+8:10,Nebraska,Thomas Allen,Layup,16,34
+7:44,Nebraska,None,None,16,34
+7:38,Nebraska,None,None,16,34
+7:38,Creighton,Martin Krampelj,Turnover,16,34
+7:38,Nebraska,Glynn Watson Jr.,Steal,16,34
+7:37,Nebraska,None,None,16,34
+7:26,Nebraska,Nana Akenten,Three Point Jumper,16,37
+7:07,Creighton,Mitch Ballock,Three Point Jumper,19,37
+6:43,Nebraska,Isaac Copeland Jr.,Missed Jumper,19,37
+6:43,Creighton,Davion Mintz,Defensive Rebound,19,37
+6:33,Creighton,Davion Mintz,Turnover,19,37
+6:33,Nebraska,Glynn Watson Jr.,Steal,19,37
+6:24,Nebraska,Nana Akenten,Missed Jumper,19,37
+6:24,Creighton,Samson Froling,Defensive Rebound,19,37
+6:15,Creighton,Connor Cashaw,Missed Layup,19,37
+6:15,Nebraska,Isaiah Roby,Block,19,37
+6:15,Nebraska,Brady Heiman,Defensive Rebound,19,37
+5:56,Nebraska,Brady Heiman,Jumper,19,39
+5:44,Creighton,Ty-Shon Alexander,Missed Jumper,19,39
+5:44,Nebraska,Nana Akenten,Defensive Rebound,19,39
+5:29,Nebraska,Brady Heiman,Turnover,19,39
+5:29,Creighton,Connor Cashaw,Steal,19,39
+5:23,Creighton,Connor Cashaw,Missed Layup,19,39
+5:23,Nebraska,Nana Akenten,Block,19,39
+5:23,Creighton,Ty-Shon Alexander,Offensive Rebound,19,39
+5:07,Creighton,Connor Cashaw,Turnover,19,39
+5:07,Nebraska,Nana Akenten,Steal,19,39
+5:06,Nebraska,Nana Akenten,Missed Three Point Jumper,19,39
+5:05,Nebraska,Isaiah Roby,Offensive Rebound,19,39
+5:05,Nebraska,Isaiah Roby,Missed Layup,19,39
+5:05,Nebraska,Isaiah Roby,Offensive Rebound,19,39
+5:05,Creighton,Ty-Shon Alexander,Foul,19,39
+5:04,Nebraska,Isaiah Roby,Missed Free Throw,19,39
+5:04,Nebraska,Nebraska,Offensive Rebound,19,39
+5:04,Nebraska,Isaiah Roby,Free Throw,19,40
+4:49,Nebraska,Isaac Copeland Jr.,Foul,19,40
+4:45,Creighton,Mitch Ballock,Three Point Jumper,22,40
+4:28,Nebraska,Isaac Copeland Jr.,Missed Three Point Jumper,22,40
+4:28,Nebraska,Tanner Borchardt,Offensive Rebound,22,40
+4:19,Nebraska,James Palmer Jr.,Three Point Jumper,22,43
+4:11,Creighton,Damien Jefferson,Missed Three Point Jumper,22,43
+4:11,Creighton,Martin Krampelj,Offensive Rebound,22,43
+4:07,Nebraska,Tanner Borchardt,Foul,22,43
+4:02,Nebraska,Nana Akenten,Foul,22,43
+4:02,Creighton,Ty-Shon Alexander,Free Throw,23,43
+4:02,Creighton,Ty-Shon Alexander,Free Throw,24,43
+3:43,Nebraska,Thomas Allen,Jumper,24,45
+3:22,Nebraska,Isaiah Roby,Foul,24,45
+3:22,Nebraska,None,None,24,45
+3:22,Creighton,Marcus Zegarowski,Free Throw,25,45
+3:22,Creighton,Marcus Zegarowski,Free Throw,26,45
+3:10,Nebraska,Glynn Watson Jr.,Missed Jumper,26,45
+3:10,Nebraska,Nana Akenten,Offensive Rebound,26,45
+3:00,Nebraska,Nana Akenten,Missed Dunk,26,45
+3:00,Creighton,Marcus Zegarowski,Defensive Rebound,26,45
+2:58,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,26,45
+2:58,Nebraska,Nana Akenten,Defensive Rebound,26,45
+2:58,Creighton,Jacob Epperson,Foul,26,45
+2:58,Creighton,Jacob Epperson,Turnover,26,45
+2:40,Nebraska,Glynn Watson Jr.,Jumper,26,47
+2:25,Creighton,Mitch Ballock,Three Point Jumper,29,47
+1:59,Nebraska,Tanner Borchardt,Missed Jumper,29,47
+1:59,Creighton,Ty-Shon Alexander,Defensive Rebound,29,47
+1:50,Creighton,Mitch Ballock,Turnover,29,47
+1:50,Nebraska,Thomas Allen,Steal,29,47
+1:42,Nebraska,Glynn Watson Jr.,Missed Jumper,29,47
+1:42,Creighton,Ty-Shon Alexander,Defensive Rebound,29,47
+1:37,Nebraska,Brady Heiman,Foul,29,47
+1:37,Creighton,Ty-Shon Alexander,Free Throw,30,47
+1:37,Creighton,Ty-Shon Alexander,Free Throw,31,47
+1:10,Nebraska,None,None,31,47
+1:10,Nebraska,Nebraska ,Turnover,31,47
+1:02,Creighton,Marcus Zegarowski,Missed Three Point Jumper,31,47
+1:02,Nebraska,Brady Heiman,Defensive Rebound,31,47
+0:36,Nebraska,Glynn Watson Jr.,Turnover,31,47
+0:11,Creighton,Ty-Shon Alexander,Missed Jumper,31,47
+0:11,Nebraska,Brady Heiman,Block,31,47
+0:11,Creighton,Mitch Ballock,Offensive Rebound,31,47
+0:03,Creighton,Mitch Ballock,Three Point Jumper,34,47
+0:01,Nebraska,Isaac Copeland Jr.,Missed Three Point Jumper,34,47
+0:01,Creighton,Creighton,Defensive Rebound,34,47
+0:00,Nebraska,None,None,34,47
+20:00,Creighton,None,None,34,47
+19:50,Creighton,Mitch Ballock,Three Point Jumper,37,47
+19:18,Nebraska,Isaac Copeland Jr.,Dunk,37,49
+19:00,Creighton,Davion Mintz,Jumper,39,49
+18:43,Creighton,Davion Mintz,Foul,39,49
+18:34,Creighton,Martin Krampelj,Foul,39,49
+18:34,Nebraska,Thomas Allen,Free Throw,39,50
+18:34,Nebraska,Thomas Allen,Free Throw,39,51
+18:09,Creighton,Mitch Ballock,Three Point Jumper,42,51
+17:41,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,42,51
+17:41,Nebraska,Isaiah Roby,Offensive Rebound,42,51
+17:33,Creighton,Damien Jefferson,Foul,42,51
+17:33,Nebraska,Isaiah Roby,Free Throw,42,52
+17:33,Nebraska,Isaiah Roby,Missed Free Throw,42,52
+17:33,Creighton,Damien Jefferson,Defensive Rebound,42,52
+17:13,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,42,52
+17:13,Nebraska,Isaac Copeland Jr.,Defensive Rebound,42,52
+17:02,Nebraska,Isaiah Roby,Missed Three Point Jumper,42,52
+17:02,Creighton,Mitch Ballock,Defensive Rebound,42,52
+16:52,Creighton,Mitch Ballock,Missed Three Point Jumper,42,52
+16:52,Nebraska,Thomas Allen,Defensive Rebound,42,52
+16:41,Nebraska,None,None,42,52
+16:37,Nebraska,James Palmer Jr.,Three Point Jumper,42,55
+16:10,Creighton,Damien Jefferson,Missed Jumper,42,55
+16:10,Creighton,Mitch Ballock,Offensive Rebound,42,55
+16:04,Creighton,Davion Mintz,Jumper,44,55
+15:48,Nebraska,Isaiah Roby,Layup,44,57
+15:37,Creighton,Damien Jefferson,Three Point Jumper,47,57
+15:11,Nebraska,Isaiah Roby,Turnover,47,57
+15:11,Creighton,Damien Jefferson,Steal,47,57
+14:48,Creighton,Jacob Epperson,Missed Dunk,47,57
+14:48,Nebraska,Thomas Allen,Defensive Rebound,47,57
+14:42,Nebraska,Glynn Watson Jr.,Three Point Jumper,47,60
+14:19,Creighton,None,None,47,60
+14:16,Creighton,Mitch Ballock,Three Point Jumper,50,60
+13:51,Nebraska,James Palmer Jr.,Layup,50,62
+13:42,Nebraska,Glynn Watson Jr.,Foul,50,62
+13:30,Nebraska,Isaiah Roby,Foul,50,62
+13:26,Creighton,Kaleb Joseph,Jumper,52,62
+13:09,Creighton,Kaleb Joseph,Foul,52,62
+13:04,Nebraska,James Palmer Jr.,Missed Jumper,52,62
+13:04,Creighton,Martin Krampelj,Defensive Rebound,52,62
+12:55,Creighton,Martin Krampelj,Turnover,52,62
+12:55,Nebraska,Glynn Watson Jr.,Steal,52,62
+12:50,Nebraska,Thomas Allen,Three Point Jumper,52,65
+12:39,Creighton,Martin Krampelj,Layup,54,65
+12:13,Creighton,Kaleb Joseph,Foul,54,65
+12:09,Nebraska,Tanner Borchardt,Layup,54,67
+11:58,Nebraska,Isaac Copeland Jr.,Foul,54,67
+11:58,Nebraska,None,None,54,67
+11:55,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,54,67
+11:55,Nebraska,Tanner Borchardt,Defensive Rebound,54,67
+11:47,Nebraska,Thomas Allen,Missed Jumper,54,67
+11:47,Creighton,Damien Jefferson,Block,54,67
+11:47,Creighton,Kaleb Joseph,Defensive Rebound,54,67
+11:34,Creighton,Samson Froling,Jumper,56,67
+11:12,Nebraska,Glynn Watson Jr.,Missed Jumper,56,67
+11:12,Nebraska,Tanner Borchardt,Offensive Rebound,56,67
+10:53,Nebraska,Glynn Watson Jr.,Three Point Jumper,56,70
+10:32,Creighton,Samson Froling,Turnover,56,70
+10:32,Nebraska,James Palmer Jr.,Steal,56,70
+10:26,Nebraska,James Palmer Jr.,Missed Layup,56,70
+10:26,Nebraska,Isaac Copeland Jr.,Offensive Rebound,56,70
+10:26,Nebraska,None,None,56,72
+10:19,Creighton,None,None,56,72
+10:07,Creighton,Samson Froling,Missed Jumper,56,72
+10:07,Nebraska,Glynn Watson Jr.,Defensive Rebound,56,72
+9:44,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,56,72
+9:44,Creighton,Ty-Shon Alexander,Defensive Rebound,56,72
+9:36,Creighton,Davion Mintz,Turnover,56,72
+9:36,Nebraska,Nana Akenten,Steal,56,72
+9:36,Creighton,Davion Mintz,Foul,56,72
+9:22,Nebraska,Isaiah Roby,Missed Jumper,56,72
+9:22,Creighton,Connor Cashaw,Defensive Rebound,56,72
+9:08,Nebraska,Nana Akenten,Foul,56,72
+9:08,Creighton,Ty-Shon Alexander,Missed Free Throw,56,72
+9:08,Creighton,None,Team Rebound,56,72
+9:08,Creighton,Ty-Shon Alexander,Free Throw,57,72
+8:43,Nebraska,Isaiah Roby,Jumper,57,74
+8:19,Creighton,Davion Mintz,Three Point Jumper,60,74
+7:48,Nebraska,Nana Akenten,Missed Three Point Jumper,60,74
+7:48,Nebraska,Isaiah Roby,Offensive Rebound,60,74
+7:34,Creighton,Mitch Ballock,Foul,60,74
+7:34,Nebraska,None,None,60,74
+7:34,Nebraska,James Palmer Jr.,Free Throw,60,75
+7:34,Nebraska,James Palmer Jr.,Free Throw,60,76
+7:34,Nebraska,James Palmer Jr.,Free Throw,60,77
+7:26,Creighton,Martin Krampelj,Dunk,62,77
+7:00,Nebraska,Isaiah Roby,Turnover,62,77
+7:00,Creighton,Martin Krampelj,Steal,62,77
+6:51,Creighton,Davion Mintz,Jumper,64,77
+6:37,Nebraska,Isaiah Roby,Missed Three Point Jumper,64,77
+6:37,Creighton,Ty-Shon Alexander,Defensive Rebound,64,77
+6:30,Creighton,Davion Mintz,Missed Three Point Jumper,64,77
+6:30,Creighton,Martin Krampelj,Offensive Rebound,64,77
+6:11,Creighton,Davion Mintz,Three Point Jumper,67,77
+6:05,Nebraska,None,None,67,77
+5:39,Creighton,Ty-Shon Alexander,Foul,67,77
+5:39,Nebraska,James Palmer Jr.,Free Throw,67,78
+5:39,Nebraska,James Palmer Jr.,Free Throw,67,79
+5:39,Nebraska,James Palmer Jr.,Free Throw,67,80
+5:30,Creighton,Davion Mintz,Missed Jumper,67,80
+5:30,Creighton,Davion Mintz,Offensive Rebound,67,80
+5:26,Nebraska,Isaiah Roby,Foul,67,80
+5:26,Creighton,Davion Mintz,Missed Free Throw,67,80
+5:26,Creighton,None,Team Rebound,67,80
+5:26,Creighton,Davion Mintz,Free Throw,68,80
+4:59,Creighton,Martin Krampelj,Foul,68,80
+4:59,Nebraska,Isaac Copeland Jr.,Missed Free Throw,68,80
+4:59,Nebraska,None,Team Rebound,68,80
+4:59,Nebraska,Isaac Copeland Jr.,Free Throw,68,81
+4:50,Creighton,Davion Mintz,Missed Three Point Jumper,68,81
+4:50,Creighton,Damien Jefferson,Offensive Rebound,68,81
+4:41,Creighton,Damien Jefferson,Layup,70,81
+4:08,Nebraska,Thomas Allen,Missed Three Point Jumper,70,81
+4:08,Nebraska,Isaiah Roby,Offensive Rebound,70,81
+3:47,Nebraska,Isaac Copeland Jr.,Three Point Jumper,70,84
+3:32,Creighton,Martin Krampelj,Missed Jumper,70,84
+3:32,Creighton,Creighton,Offensive Rebound,70,84
+3:30,Nebraska,None,None,70,84
+3:29,Creighton,Mitch Ballock,Missed Three Point Jumper,70,84
+3:29,Nebraska,Glynn Watson Jr.,Defensive Rebound,70,84
+3:05,Nebraska,James Palmer Jr.,Jumper,70,86
+2:57,Creighton,Davion Mintz,Missed Three Point Jumper,70,86
+2:57,Nebraska,Isaac Copeland Jr.,Defensive Rebound,70,86
+2:49,Creighton,Mitch Ballock,Foul,70,86
+2:49,Nebraska,Glynn Watson Jr.,Free Throw,70,87
+2:49,Nebraska,Glynn Watson Jr.,Free Throw,70,88
+2:39,Creighton,Damien Jefferson,Layup,72,88
+2:29,Creighton,Damien Jefferson,Foul,72,88
+2:29,Nebraska,Isaiah Roby,Missed Free Throw,72,88
+2:29,Nebraska,None,Team Rebound,72,88
+2:29,Nebraska,Isaiah Roby,Free Throw,72,89
+2:20,Creighton,Mitch Ballock,Missed Three Point Jumper,72,89
+2:20,Nebraska,Glynn Watson Jr.,Defensive Rebound,72,89
+2:10,Nebraska,James Palmer Jr.,Layup,72,91
+2:01,Creighton,Marcus Zegarowski,Missed Three Point Jumper,72,91
+2:01,Creighton,Damien Jefferson,Offensive Rebound,72,91
+1:59,Nebraska,Glynn Watson Jr.,Foul,72,91
+1:59,Creighton,Damien Jefferson,Missed Free Throw,72,91
+1:59,Creighton,None,Team Rebound,72,91
+1:59,Creighton,Damien Jefferson,Missed Free Throw,72,91
+1:59,Creighton,Christian Bishop,Offensive Rebound,72,91
+1:47,Creighton,Christian Bishop,Missed Jumper,72,91
+1:47,Nebraska,Isaiah Roby,Block,72,91
+1:47,Nebraska,Isaac Copeland Jr.,Defensive Rebound,72,91
+1:23,Nebraska,James Palmer Jr.,Three Point Jumper,72,94
+1:10,Nebraska,Nana Akenten,Foul,72,94
+1:10,Creighton,Marcus Zegarowski,Free Throw,73,94
+1:10,Creighton,Marcus Zegarowski,Missed Free Throw,73,94
+1:10,Creighton,Christian Bishop,Offensive Rebound,73,94
+1:03,Creighton,Christian Bishop,Layup,75,94
+0:55,Nebraska,Nana Akenten,Turnover,75,94
+0:55,Creighton,Christian Bishop,Steal,75,94
+0:49,Creighton,Jordan Scurry,Missed Three Point Jumper,75,94
+0:49,Nebraska,Johnny Trueblood,Defensive Rebound,75,94
+0:34,Nebraska,Thorir Thorbjarnarson,Turnover,75,94
+0:34,Creighton,Kaleb Joseph,Steal,75,94
+0:25,Creighton,Kaleb Joseph,Turnover,75,94
+0:25,Nebraska,Nana Akenten,Steal,75,94
+0:00,Nebraska,None,None,75,94

@@ -1,0 +1,305 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Lipscomb,None,None,0,0
+19:59,Lipscomb,Garrison Mathews,Jumper,2,0
+19:35,Davidson,Luka Brajkovic,Missed Jumper,2,0
+19:35,Lipscomb,Eli Pepper,Defensive Rebound,2,0
+19:17,Lipscomb,Eli Pepper,Three Point Jumper,5,0
+18:44,Davidson,Luke Frampton,Three Point Jumper,5,3
+18:25,Lipscomb,Garrison Mathews,Missed Three Point Jumper,5,3
+18:25,Davidson,Luke Frampton,Defensive Rebound,5,3
+18:02,Davidson,Luke Frampton,Jumper,5,5
+17:41,Lipscomb,Garrison Mathews,Missed Layup,5,5
+17:41,Davidson,Luka Brajkovic,Defensive Rebound,5,5
+17:32,Davidson,Luke Frampton,Three Point Jumper,5,8
+17:31,Lipscomb,None,None,5,8
+17:11,Lipscomb,Michael Buckland,Three Point Jumper,8,8
+16:58,Davidson,Kellan Grady,Layup,8,10
+16:41,Lipscomb,Rob Marberry,Jumper,10,10
+16:31,Davidson,Luka Brajkovic,Missed Three Point Jumper,10,10
+16:31,Lipscomb,Jake Wolfe,Defensive Rebound,10,10
+16:08,Lipscomb,Matt Rose,Three Point Jumper,13,10
+15:56,Davidson,Kellan Grady,Missed Jumper,13,10
+15:56,Davidson,KiShawn Pritchett,Offensive Rebound,13,10
+15:41,Davidson,Kellan Grady,Layup,13,12
+15:25,Lipscomb,Kenny Cooper,Missed Layup,13,12
+15:25,Davidson,Bates Jones,Defensive Rebound,13,12
+15:02,Davidson,Kellan Grady,Three Point Jumper,13,15
+14:46,Lipscomb,Matt Rose,Three Point Jumper,16,15
+14:18,Davidson,KiShawn Pritchett,Three Point Jumper,16,18
+13:56,Lipscomb,Rob Marberry,Missed Jumper,16,18
+13:56,Davidson,Kellan Grady,Defensive Rebound,16,18
+13:47,Davidson,Luke Frampton,Layup,16,20
+13:34,Lipscomb,Andrew Fleming,Turnover,16,20
+13:34,Davidson,None,None,16,20
+13:28,Davidson,Jon Axel Gudmundsson,Turnover,16,20
+13:28,Lipscomb,Ahsan Asadullah,Steal,16,20
+13:10,Lipscomb,Matt Rose,Missed Three Point Jumper,16,20
+13:10,Davidson,Kellan Grady,Defensive Rebound,16,20
+12:45,Davidson,Kellan Grady,Missed Three Point Jumper,16,20
+12:45,Lipscomb,Garrison Mathews,Defensive Rebound,16,20
+12:33,Lipscomb,Andrew Fleming,Layup,18,20
+12:20,Davidson,Luka Brajkovic,Layup,18,22
+11:59,Lipscomb,Matt Rose,Missed Layup,18,22
+11:59,Davidson,Davidson,Defensive Rebound,18,22
+11:54,Davidson,None,None,18,22
+11:43,Davidson,Jon Axel Gudmundsson,Turnover,18,22
+11:30,Lipscomb,Ahsan Asadullah,Layup,20,22
+11:16,Davidson,Luke Frampton,Three Point Jumper,20,25
+11:05,Lipscomb,Kenny Cooper,Turnover,20,25
+11:05,Davidson,Jon Axel Gudmundsson,Steal,20,25
+10:38,Davidson,Luka Brajkovic,Layup,20,27
+10:16,Lipscomb,Ahsan Asadullah,Layup,22,27
+9:55,Davidson,Luke Frampton,Turnover,22,27
+9:45,Lipscomb,Eli Pepper,Turnover,22,27
+9:45,Davidson,Carter Collins,Steal,22,27
+9:39,Lipscomb,Nathan Moran,Foul,22,27
+9:26,Davidson,Kellan Grady,Three Point Jumper,22,30
+9:14,Lipscomb,Kenny Cooper,Three Point Jumper,25,30
+8:56,Davidson,Jon Axel Gudmundsson,Missed Layup,25,30
+8:56,Lipscomb,Eli Pepper,Defensive Rebound,25,30
+8:45,Lipscomb,Kenny Cooper,Missed Three Point Jumper,25,30
+8:45,Davidson,Carter Collins,Defensive Rebound,25,30
+8:36,Davidson,Carter Collins,Layup,25,32
+8:29,Lipscomb,Garrison Mathews,Layup,27,32
+8:06,Davidson,Luka Brajkovic,Dunk,27,34
+7:55,Lipscomb,Eli Pepper,Missed Jumper,27,34
+7:55,Davidson,Davidson,Defensive Rebound,27,34
+7:53,Davidson,None,None,27,34
+7:22,Davidson,Davidson ,Turnover,27,34
+7:02,Davidson,KiShawn Pritchett,Foul,27,34
+7:02,Lipscomb,Andrew Fleming,Free Throw,28,34
+7:02,Lipscomb,Andrew Fleming,Free Throw,29,34
+6:52,Davidson,Kellan Grady,Jumper,29,36
+6:37,Lipscomb,Rob Marberry,Jumper,31,36
+6:26,Davidson,Luke Frampton,Missed Three Point Jumper,31,36
+6:26,Lipscomb,Garrison Mathews,Defensive Rebound,31,36
+6:17,Lipscomb,Matt Rose,Missed Three Point Jumper,31,36
+6:17,Lipscomb,Rob Marberry,Offensive Rebound,31,36
+6:13,Davidson,Bates Jones,Foul,31,36
+6:07,Lipscomb,Eli Pepper,Turnover,31,36
+5:44,Davidson,Luke Frampton,Foul,31,36
+5:44,Davidson,Luke Frampton,Turnover,31,36
+5:31,Lipscomb,Rob Marberry,Layup,33,36
+5:23,Davidson,Jon Axel Gudmundsson,Turnover,33,36
+5:23,Lipscomb,Alex Jones,Steal,33,36
+5:17,Davidson,Jon Axel Gudmundsson,Foul,33,36
+5:17,Lipscomb,Rob Marberry,Free Throw,34,36
+5:17,Lipscomb,Rob Marberry,Free Throw,35,36
+4:59,Davidson,Kellan Grady,Missed Jumper,35,36
+4:59,Lipscomb,Alex Jones,Defensive Rebound,35,36
+4:45,Lipscomb,Garrison Mathews,Missed Three Point Jumper,35,36
+4:45,Davidson,Luka Brajkovic,Defensive Rebound,35,36
+4:31,Davidson,Jon Axel Gudmundsson,Three Point Jumper,35,39
+4:16,Lipscomb,Jake Wolfe,Turnover,35,39
+4:16,Davidson,Luka Brajkovic,Steal,35,39
+4:07,Davidson,Kellan Grady,Missed Jumper,35,39
+4:07,Lipscomb,Rob Marberry,Block,35,39
+4:07,Lipscomb,Andrew Fleming,Defensive Rebound,35,39
+3:58,Lipscomb,Rob Marberry,Missed Layup,35,39
+3:58,Lipscomb,Garrison Mathews,Offensive Rebound,35,39
+3:45,Lipscomb,Andrew Fleming,Turnover,35,39
+3:45,Davidson,Carter Collins,Steal,35,39
+3:42,Davidson,Carter Collins,Missed Layup,35,39
+3:42,Davidson,Carter Collins,Offensive Rebound,35,39
+3:38,Lipscomb,Andrew Fleming,Foul,35,39
+3:38,Davidson,None,None,35,39
+3:33,Davidson,Luke Frampton,Missed Three Point Jumper,35,39
+3:33,Lipscomb,Kenny Cooper,Defensive Rebound,35,39
+3:10,Lipscomb,Kenny Cooper,Missed Layup,35,39
+3:10,Davidson,Jon Axel Gudmundsson,Defensive Rebound,35,39
+2:53,Davidson,Luka Brajkovic,Turnover,35,39
+2:53,Lipscomb,Matt Rose,Steal,35,39
+2:43,Lipscomb,Rob Marberry,Layup,37,39
+2:40,Davidson,Luka Brajkovic,Turnover,37,39
+2:33,Lipscomb,Rob Marberry,Missed Jumper,37,39
+2:33,Davidson,Luka Brajkovic,Block,37,39
+2:33,Lipscomb,Rob Marberry,Offensive Rebound,37,39
+2:19,Lipscomb,Kenny Cooper,Three Point Jumper,40,39
+2:07,Lipscomb,Rob Marberry,Foul,40,39
+2:05,Davidson,Kellan Grady,Three Point Jumper,40,42
+1:42,Lipscomb,Jake Wolfe,Missed Jumper,40,42
+1:42,Davidson,Kellan Grady,Defensive Rebound,40,42
+1:16,Lipscomb,Jake Wolfe,Foul,40,42
+1:02,Davidson,Luke Frampton,Three Point Jumper,40,45
+0:40,Lipscomb,Ahsan Asadullah,Layup,42,45
+0:07,Davidson,Kellan Grady,Missed Jumper,42,45
+0:07,Davidson,Kellan Grady,Offensive Rebound,42,45
+0:02,Lipscomb,Kenny Cooper,Foul,42,45
+0:02,Davidson,Jon Axel Gudmundsson,Free Throw,42,46
+0:02,Davidson,Jon Axel Gudmundsson,Free Throw,42,47
+0:01,Lipscomb,Eli Pepper,Turnover,42,47
+0:01,Davidson,Carter Collins,Steal,42,47
+0:00,Davidson,None,None,42,47
+20:00,Davidson,None,None,42,47
+19:44,Davidson,Kellan Grady,Missed Layup,42,47
+19:44,Lipscomb,Garrison Mathews,Defensive Rebound,42,47
+19:23,Lipscomb,Michael Buckland,Turnover,42,47
+19:23,Davidson,Jon Axel Gudmundsson,Steal,42,47
+19:10,Davidson,Kellan Grady,Dunk,42,49
+19:05,Lipscomb,Garrison Mathews,Missed Three Point Jumper,42,49
+19:05,Davidson,Kellan Grady,Defensive Rebound,42,49
+18:47,Davidson,Luke Frampton,Missed Three Point Jumper,42,49
+18:47,Davidson,Luka Brajkovic,Offensive Rebound,42,49
+18:39,Davidson,KiShawn Pritchett,Missed Three Point Jumper,42,49
+18:39,Lipscomb,Kenny Cooper,Defensive Rebound,42,49
+18:25,Lipscomb,Rob Marberry,Layup,44,49
+18:15,Davidson,Jon Axel Gudmundsson,Foul,44,49
+18:15,Davidson,Jon Axel Gudmundsson,Turnover,44,49
+18:02,Davidson,Luka Brajkovic,Foul,44,49
+17:56,Lipscomb,Michael Buckland,Three Point Jumper,47,49
+17:42,Davidson,KiShawn Pritchett,Turnover,47,49
+17:42,Lipscomb,Kenny Cooper,Steal,47,49
+17:39,Lipscomb,Kenny Cooper,Turnover,47,49
+17:39,Davidson,Kellan Grady,Steal,47,49
+17:23,Davidson,Kellan Grady,Jumper,47,51
+16:59,Lipscomb,Garrison Mathews,Missed Jumper,47,51
+16:59,Davidson,KiShawn Pritchett,Defensive Rebound,47,51
+16:47,Lipscomb,Kenny Cooper,Foul,47,51
+16:47,Davidson,Jon Axel Gudmundsson,Free Throw,47,52
+16:47,Davidson,Jon Axel Gudmundsson,Free Throw,47,53
+16:34,Lipscomb,Andrew Fleming,Layup,49,53
+16:34,Davidson,Bates Jones,Foul,49,53
+16:34,Lipscomb,Andrew Fleming,Missed Free Throw,49,53
+16:34,Lipscomb,Eli Pepper,Offensive Rebound,49,53
+16:31,Lipscomb,Eli Pepper,Layup,51,53
+16:15,Davidson,Kellan Grady,Dunk,51,55
+16:05,Lipscomb,Eli Pepper,Turnover,51,55
+15:45,Davidson,Jon Axel Gudmundsson,Missed Jumper,51,55
+15:45,Lipscomb,Ahsan Asadullah,Block,51,55
+15:45,Davidson,Jon Axel Gudmundsson,Offensive Rebound,51,55
+15:38,Davidson,Luka Brajkovic,Missed Jumper,51,55
+15:38,Lipscomb,Michael Buckland,Defensive Rebound,51,55
+15:25,Lipscomb,Michael Buckland,Missed Three Point Jumper,51,55
+15:25,Davidson,Davidson,Defensive Rebound,51,55
+15:21,Davidson,None,None,51,55
+15:00,Davidson,Luke Frampton,Missed Three Point Jumper,51,55
+15:00,Lipscomb,Eli Pepper,Defensive Rebound,51,55
+14:44,Lipscomb,Ahsan Asadullah,Missed Layup,51,55
+14:44,Davidson,Kellan Grady,Defensive Rebound,51,55
+14:41,Lipscomb,Ahsan Asadullah,Foul,51,55
+14:16,Davidson,Luka Brajkovic,Jumper,51,57
+13:59,Lipscomb,Ahsan Asadullah,Missed Layup,51,57
+13:59,Davidson,Kellan Grady,Defensive Rebound,51,57
+13:39,Davidson,Jon Axel Gudmundsson,Missed Jumper,51,57
+13:39,Davidson,Jon Axel Gudmundsson,Offensive Rebound,51,57
+13:29,Davidson,Kellan Grady,Jumper,51,59
+13:16,Davidson,Luke Frampton,Foul,51,59
+13:13,Lipscomb,Garrison Mathews,Layup,53,59
+12:42,Davidson,Luke Frampton,Three Point Jumper,53,62
+12:29,Davidson,Carter Collins,Foul,53,62
+12:29,Lipscomb,Matt Rose,Free Throw,54,62
+12:29,Lipscomb,Matt Rose,Missed Free Throw,54,62
+12:29,Lipscomb,Rob Marberry,Offensive Rebound,54,62
+12:26,Lipscomb,Rob Marberry,Layup,56,62
+12:19,Davidson,Luka Brajkovic,Dunk,56,64
+11:57,Lipscomb,Garrison Mathews,Three Point Jumper,59,64
+11:28,Lipscomb,Rob Marberry,Foul,59,64
+11:28,Davidson,None,None,59,64
+11:25,Davidson,Luka Brajkovic,Jumper,59,66
+11:25,Lipscomb,Rob Marberry,Foul,59,66
+11:25,Davidson,Luka Brajkovic,Free Throw,59,67
+11:13,Davidson,Luka Brajkovic,Foul,59,67
+11:13,Lipscomb,Ahsan Asadullah,Free Throw,60,67
+11:13,Lipscomb,Ahsan Asadullah,Free Throw,61,67
+10:59,Davidson,Luke Frampton,Missed Three Point Jumper,61,67
+10:59,Davidson,Davidson,Offensive Rebound,61,67
+10:54,Davidson,Luka Brajkovic,Turnover,61,67
+10:54,Lipscomb,Kenny Cooper,Steal,61,67
+10:49,Lipscomb,Jake Wolfe,Missed Layup,61,67
+10:49,Lipscomb,Ahsan Asadullah,Offensive Rebound,61,67
+10:40,Davidson,Luke Frampton,Foul,61,67
+10:40,Lipscomb,Garrison Mathews,Free Throw,62,67
+10:40,Lipscomb,Garrison Mathews,Free Throw,63,67
+10:40,Lipscomb,Garrison Mathews,Free Throw,64,67
+10:31,Lipscomb,Kenny Cooper,Foul,64,67
+10:31,Davidson,Jon Axel Gudmundsson,Free Throw,64,68
+10:31,Davidson,Jon Axel Gudmundsson,Free Throw,64,69
+10:24,Davidson,Jon Axel Gudmundsson,Foul,64,69
+10:24,Lipscomb,Garrison Mathews,Free Throw,65,69
+10:24,Lipscomb,Garrison Mathews,Missed Free Throw,65,69
+10:24,Lipscomb,None,Team Rebound,65,69
+10:24,Lipscomb,Garrison Mathews,Free Throw,66,69
+9:57,Davidson,Kellan Grady,Missed Jumper,66,69
+9:57,Lipscomb,Garrison Mathews,Defensive Rebound,66,69
+9:46,Lipscomb,Kenny Cooper,Turnover,66,69
+9:32,Lipscomb,Garrison Mathews,Foul,66,69
+9:29,Davidson,Luke Frampton,Missed Three Point Jumper,66,69
+9:29,Lipscomb,Garrison Mathews,Defensive Rebound,66,69
+9:21,Lipscomb,Garrison Mathews,Foul,66,69
+9:21,Lipscomb,Garrison Mathews,Turnover,66,69
+9:09,Davidson,Kellan Grady,Foul,66,69
+9:09,Davidson,Kellan Grady,Turnover,66,69
+8:48,Lipscomb,Jake Wolfe,Missed Jumper,66,69
+8:48,Lipscomb,Ahsan Asadullah,Offensive Rebound,66,69
+8:44,Lipscomb,Ahsan Asadullah,Layup,68,69
+8:31,Davidson,Kellan Grady,Turnover,68,69
+8:31,Lipscomb,Kenny Cooper,Steal,68,69
+8:27,Lipscomb,Kenny Cooper,Layup,70,69
+8:06,Lipscomb,Garrison Mathews,Foul,70,69
+7:57,Davidson,Luka Brajkovic,Jumper,70,71
+7:42,Lipscomb,None,None,70,71
+7:42,Davidson,None,None,70,71
+7:32,Davidson,Luka Brajkovic,Foul,70,71
+7:32,Lipscomb,Rob Marberry,Missed Free Throw,70,71
+7:32,Lipscomb,None,Team Rebound,70,71
+7:32,Lipscomb,Rob Marberry,Free Throw,71,71
+7:18,Davidson,Luke Frampton,Missed Three Point Jumper,71,71
+7:18,Lipscomb,Michael Buckland,Defensive Rebound,71,71
+6:54,Lipscomb,Garrison Mathews,Missed Three Point Jumper,71,71
+6:54,Davidson,Jon Axel Gudmundsson,Defensive Rebound,71,71
+6:29,Davidson,Kellan Grady,Missed Jumper,71,71
+6:29,Lipscomb,Rob Marberry,Defensive Rebound,71,71
+6:12,Lipscomb,Michael Buckland,Missed Three Point Jumper,71,71
+6:12,Davidson,Jon Axel Gudmundsson,Defensive Rebound,71,71
+5:57,Lipscomb,Kenny Cooper,Foul,71,71
+5:57,Davidson,Jon Axel Gudmundsson,Foul,71,71
+5:57,Davidson,Jon Axel Gudmundsson,Turnover,71,71
+5:42,Lipscomb,Garrison Mathews,Missed Three Point Jumper,71,71
+5:42,Davidson,Carter Collins,Defensive Rebound,71,71
+5:32,Lipscomb,Rob Marberry,Foul,71,71
+5:32,Davidson,Kellan Grady,Missed Free Throw,71,71
+5:32,Davidson,None,Team Rebound,71,71
+5:32,Davidson,Kellan Grady,Missed Free Throw,71,71
+5:32,Lipscomb,Ahsan Asadullah,Defensive Rebound,71,71
+5:12,Lipscomb,Michael Buckland,Three Point Jumper,74,71
+4:42,Davidson,Luke Frampton,Missed Three Point Jumper,74,71
+4:42,Lipscomb,Alex Jones,Defensive Rebound,74,71
+4:25,Lipscomb,Michael Buckland,Layup,76,71
+4:25,Davidson,David Czerapowicz,Foul,76,71
+4:25,Lipscomb,Michael Buckland,Free Throw,77,71
+4:13,Davidson,Jon Axel Gudmundsson,Turnover,77,71
+4:13,Lipscomb,Eli Pepper,Steal,77,71
+3:46,Lipscomb,Garrison Mathews,Missed Jumper,77,71
+3:46,Davidson,Jon Axel Gudmundsson,Defensive Rebound,77,71
+3:39,Davidson,Kellan Grady,Three Point Jumper,77,74
+3:38,Davidson,None,None,77,74
+3:38,Davidson,None,None,77,74
+3:30,Lipscomb,Rob Marberry,Layup,79,74
+3:11,Davidson,Luka Brajkovic,Missed Jumper,79,74
+3:11,Davidson,Carter Collins,Offensive Rebound,79,74
+3:02,Davidson,Carter Collins,Jumper,79,76
+2:46,Lipscomb,Michael Buckland,Three Point Jumper,82,76
+2:29,Davidson,Kellan Grady,Three Point Jumper,82,79
+2:03,Lipscomb,Kenny Cooper,Missed Layup,82,79
+2:03,Davidson,Jon Axel Gudmundsson,Defensive Rebound,82,79
+1:46,Davidson,Luka Brajkovic,Missed Layup,82,79
+1:46,Lipscomb,Garrison Mathews,Defensive Rebound,82,79
+1:17,Lipscomb,Eli Pepper,Turnover,82,79
+1:17,Davidson,None,None,82,79
+1:05,Davidson,Kellan Grady,Missed Three Point Jumper,82,79
+1:05,Lipscomb,Eli Pepper,Defensive Rebound,82,79
+0:36,Lipscomb,Eli Pepper,Three Point Jumper,85,79
+0:20,Davidson,Jon Axel Gudmundsson,Missed Three Point Jumper,85,79
+0:20,Lipscomb,Michael Buckland,Defensive Rebound,85,79
+0:19,Davidson,Carter Collins,Foul,85,79
+0:19,Lipscomb,Michael Buckland,Free Throw,86,79
+0:19,Lipscomb,Michael Buckland,Free Throw,87,79
+0:12,Lipscomb,Ahsan Asadullah,Foul,87,79
+0:12,Davidson,Kellan Grady,Free Throw,87,80
+0:12,Davidson,Kellan Grady,Free Throw,87,81
+0:11,Davidson,Luke Frampton,Foul,87,81
+0:11,Lipscomb,Matt Rose,Free Throw,88,81
+0:11,Lipscomb,Matt Rose,Free Throw,89,81
+0:03,Davidson,Luke Frampton,Missed Three Point Jumper,89,81
+0:03,Lipscomb,Eli Pepper,Defensive Rebound,89,81
+0:00,Davidson,None,None,89,81

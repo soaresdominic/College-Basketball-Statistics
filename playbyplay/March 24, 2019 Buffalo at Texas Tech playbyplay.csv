@@ -1,0 +1,337 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas Tech,None,None,0,0
+19:59,Buffalo,None,None,0,0
+19:56,Buffalo,CJ Massinburg,Missed Layup,0,0
+19:56,Texas Tech,Jarrett Culver,Defensive Rebound,0,0
+19:47,Texas Tech,Jarrett Culver,Turnover,0,0
+19:41,Buffalo,Jayvon Graves,Missed Layup,0,0
+19:41,Texas Tech,Norense Odiase,Defensive Rebound,0,0
+19:00,Texas Tech,Jarrett Culver,Jumper,0,2
+18:51,Buffalo,Jeremy Harris,Missed Three Point Jumper,0,2
+18:51,Texas Tech,Norense Odiase,Defensive Rebound,0,2
+18:47,Texas Tech,Matt Mooney,Missed Jumper,0,2
+18:47,Texas Tech,Tariq Owens,Offensive Rebound,0,2
+18:14,Texas Tech,Tariq Owens,Jumper,0,4
+17:54,Buffalo,Jeremy Harris,Missed Three Point Jumper,0,4
+17:54,Texas Tech,Jarrett Culver,Defensive Rebound,0,4
+17:32,Texas Tech,Davide Moretti,Missed Three Point Jumper,0,4
+17:32,Texas Tech,Norense Odiase,Offensive Rebound,0,4
+17:23,Texas Tech,Matt Mooney,Missed Layup,0,4
+17:23,Texas Tech,Matt Mooney,Offensive Rebound,0,4
+17:14,Buffalo,Montell McRae,Foul,0,4
+17:14,Texas Tech,Norense Odiase,Free Throw,0,5
+17:14,Texas Tech,Norense Odiase,Free Throw,0,6
+17:03,Buffalo,Nick Perkins,Layup,2,6
+16:42,Texas Tech,Matt Mooney,Missed Layup,2,6
+16:42,Texas Tech,Norense Odiase,Offensive Rebound,2,6
+16:42,Texas Tech,None,None,2,8
+16:28,Texas Tech,Davide Moretti,Foul,2,8
+16:22,Buffalo,Nick Perkins,Missed Three Point Jumper,2,8
+16:22,Buffalo,Dontay Caruthers,Offensive Rebound,2,8
+16:15,Buffalo,CJ Massinburg,Missed Three Point Jumper,2,8
+16:15,Texas Tech,Norense Odiase,Defensive Rebound,2,8
+15:39,Texas Tech,Jarrett Culver,Layup,2,10
+15:34,Texas Tech,None,None,2,10
+15:28,Buffalo,Nick Perkins,Layup,4,10
+14:57,Texas Tech,Davide Moretti,Jumper,4,12
+14:49,Buffalo,Dontay Caruthers,Turnover,4,12
+14:24,Texas Tech,Brandone Francis,Jumper,4,14
+13:52,Buffalo,Dontay Caruthers,Missed Layup,4,14
+13:52,Texas Tech,Jarrett Culver,Block,4,14
+13:52,Texas Tech,Davide Moretti,Defensive Rebound,4,14
+13:41,Texas Tech,Brandone Francis,Turnover,4,14
+13:28,Buffalo,CJ Massinburg,Turnover,4,14
+13:28,Texas Tech,Deshawn Corprew,Steal,4,14
+13:09,Texas Tech,Davide Moretti,Missed Jumper,4,14
+13:09,Buffalo,Nick Perkins,Defensive Rebound,4,14
+12:54,Buffalo,Nick Perkins,Layup,6,14
+12:38,Texas Tech,Jarrett Culver,Missed Three Point Jumper,6,14
+12:38,Texas Tech,Norense Odiase,Offensive Rebound,6,14
+12:27,Texas Tech,Jarrett Culver,Jumper,6,16
+12:22,Buffalo,None,None,6,16
+12:11,Texas Tech,Tariq Owens,Foul,6,16
+12:11,Buffalo,Nick Perkins,Missed Free Throw,6,16
+12:11,Buffalo,None,Team Rebound,6,16
+12:11,Buffalo,Nick Perkins,Missed Free Throw,6,16
+12:11,Texas Tech,Jarrett Culver,Defensive Rebound,6,16
+11:56,Texas Tech,Jarrett Culver,Missed Three Point Jumper,6,16
+11:56,Buffalo,Jayvon Graves,Defensive Rebound,6,16
+11:29,Buffalo,Montell McRae,Missed Three Point Jumper,6,16
+11:29,Texas Tech,Matt Mooney,Defensive Rebound,6,16
+11:10,Texas Tech,Deshawn Corprew,Three Point Jumper,6,19
+10:58,Buffalo,Nick Perkins,Jumper,8,19
+10:46,Texas Tech,Matt Mooney,Turnover,8,19
+10:46,Buffalo,Dontay Caruthers,Steal,8,19
+10:37,Texas Tech,Deshawn Corprew,Foul,8,19
+10:37,Texas Tech,None,None,8,19
+10:37,Buffalo,Jeremy Harris,Turnover,8,19
+10:30,Texas Tech,Jarrett Culver,Turnover,8,19
+10:30,Buffalo,Davonta Jordan,Steal,8,19
+10:26,Buffalo,Davonta Jordan,Layup,10,19
+10:10,Texas Tech,Brandone Francis,Missed Three Point Jumper,10,19
+10:10,Texas Tech,Deshawn Corprew,Offensive Rebound,10,19
+10:00,Texas Tech,Davide Moretti,Missed Three Point Jumper,10,19
+10:00,Texas Tech,Norense Odiase,Offensive Rebound,10,19
+9:30,Texas Tech,Brandone Francis,Missed Jumper,10,19
+9:30,Buffalo,Nick Perkins,Defensive Rebound,10,19
+9:19,Buffalo,Davonta Jordan,Turnover,10,19
+9:19,Texas Tech,Brandone Francis,Steal,10,19
+9:07,Buffalo,Jayvon Graves,Foul,10,19
+9:07,Texas Tech,Norense Odiase,Missed Free Throw,10,19
+9:07,Texas Tech,None,Team Rebound,10,19
+9:07,Texas Tech,Norense Odiase,Free Throw,10,20
+8:57,Buffalo,Jeremy Harris,Missed Layup,10,20
+8:57,Texas Tech,Norense Odiase,Defensive Rebound,10,20
+8:48,Texas Tech,Jarrett Culver,Turnover,10,20
+8:48,Buffalo,Nick Perkins,Steal,10,20
+8:44,Buffalo,Nick Perkins,Dunk,12,20
+8:26,Buffalo,Jeenathan Williams,Foul,12,20
+8:16,Texas Tech,Matt Mooney,Missed Three Point Jumper,12,20
+8:16,Buffalo,Dontay Caruthers,Defensive Rebound,12,20
+8:03,Buffalo,Davonta Jordan,Three Point Jumper,15,20
+7:45,Texas Tech,Matt Mooney,Layup,15,22
+7:34,Texas Tech,Norense Odiase,Foul,15,22
+7:34,Buffalo,Nick Perkins,Free Throw,16,22
+7:34,Buffalo,Nick Perkins,Missed Free Throw,16,22
+7:34,Buffalo,CJ Massinburg,Offensive Rebound,16,22
+7:30,Texas Tech,None,None,16,22
+7:10,Texas Tech,Brandone Francis,Foul,16,22
+7:10,Buffalo,Dontay Caruthers,Free Throw,17,22
+7:10,Buffalo,Dontay Caruthers,Missed Free Throw,17,22
+7:10,Buffalo,Dontay Caruthers,Offensive Rebound,17,22
+7:10,Buffalo,Dontay Caruthers,Missed Layup,17,22
+7:10,Texas Tech,Jarrett Culver,Block,17,22
+7:10,Texas Tech,Matt Mooney,Defensive Rebound,17,22
+6:50,Texas Tech,Matt Mooney,Turnover,17,22
+6:35,Buffalo,Jeremy Harris,Missed Three Point Jumper,17,22
+6:35,Texas Tech,Jarrett Culver,Defensive Rebound,17,22
+6:23,Texas Tech,Matt Mooney,Missed Jumper,17,22
+6:23,Buffalo,Nick Perkins,Defensive Rebound,17,22
+6:21,Texas Tech,Matt Mooney,Foul,17,22
+6:11,Buffalo,Nick Perkins,Foul,17,22
+6:11,Buffalo,Nick Perkins,Turnover,17,22
+6:01,Texas Tech,Matt Mooney,Turnover,17,22
+5:41,Buffalo,Dontay Caruthers,Missed Three Point Jumper,17,22
+5:41,Buffalo,CJ Massinburg,Offensive Rebound,17,22
+5:34,Texas Tech,Deshawn Corprew,Foul,17,22
+5:34,Buffalo,CJ Massinburg,Free Throw,18,22
+5:34,Buffalo,CJ Massinburg,Free Throw,19,22
+5:19,Texas Tech,Matt Mooney,Missed Jumper,19,22
+5:19,Texas Tech,Tariq Owens,Offensive Rebound,19,22
+5:13,Texas Tech,Tariq Owens,Dunk,19,24
+5:07,Buffalo,Jeremy Harris,Three Point Jumper,22,24
+4:35,Texas Tech,Matt Mooney,Missed Jumper,22,24
+4:35,Texas Tech,Jarrett Culver,Offensive Rebound,22,24
+4:35,Texas Tech,None,None,22,24
+4:35,Buffalo,Dontay Caruthers,Defensive Rebound,22,24
+4:17,Buffalo,Jeremy Harris,Missed Jumper,22,24
+4:17,Buffalo,Jeremy Harris,Offensive Rebound,22,24
+4:08,Buffalo,CJ Massinburg,Missed Layup,22,24
+4:08,Texas Tech,Brandone Francis,Defensive Rebound,22,24
+3:48,Buffalo,Jeremy Harris,Foul,22,24
+3:48,Texas Tech,None,None,22,24
+3:47,Texas Tech,Davide Moretti,Missed Three Point Jumper,22,24
+3:47,Buffalo,CJ Massinburg,Defensive Rebound,22,24
+3:26,Buffalo,Davonta Jordan,Three Point Jumper,25,24
+3:00,Texas Tech,Tariq Owens,Layup,25,26
+3:00,Buffalo,CJ Massinburg,Foul,25,26
+3:00,Texas Tech,Tariq Owens,Missed Free Throw,25,26
+3:00,Buffalo,Nick Perkins,Defensive Rebound,25,26
+2:32,Buffalo,Davonta Jordan,Missed Jumper,25,26
+2:32,Buffalo,Davonta Jordan,Offensive Rebound,25,26
+2:26,Buffalo,Jeremy Harris,Turnover,25,26
+2:26,Texas Tech,Brandone Francis,Steal,25,26
+1:58,Buffalo,CJ Massinburg,Foul,25,26
+1:58,Texas Tech,Davide Moretti,Free Throw,25,27
+1:58,Texas Tech,Davide Moretti,Free Throw,25,28
+1:47,Buffalo,Davonta Jordan,Turnover,25,28
+1:47,Texas Tech,Matt Mooney,Steal,25,28
+1:43,Texas Tech,Matt Mooney,Three Point Jumper,25,31
+1:22,Texas Tech,Jarrett Culver,Foul,25,31
+1:22,Buffalo,Nick Perkins,Missed Free Throw,25,31
+1:22,Texas Tech,Norense Odiase,Defensive Rebound,25,31
+1:04,Texas Tech,Jarrett Culver,Missed Jumper,25,31
+1:04,Buffalo,Dontay Caruthers,Defensive Rebound,25,31
+0:40,Buffalo,Nick Perkins,Missed Jumper,25,31
+0:40,Texas Tech,Matt Mooney,Defensive Rebound,25,31
+0:28,Texas Tech,None,None,25,31
+0:07,Buffalo,Dontay Caruthers,Foul,25,31
+0:07,Texas Tech,Jarrett Culver,Free Throw,25,32
+0:07,Texas Tech,Jarrett Culver,Free Throw,25,33
+0:02,Buffalo,Davonta Jordan,Turnover,25,33
+0:02,Texas Tech,Matt Mooney,Steal,25,33
+0:00,Texas Tech,None,None,25,33
+20:00,Texas Tech,None,None,25,33
+19:50,Texas Tech,Davide Moretti,Turnover,25,33
+19:50,Buffalo,Dontay Caruthers,Steal,25,33
+19:43,Buffalo,Jeremy Harris,Missed Three Point Jumper,25,33
+19:43,Texas Tech,Davide Moretti,Defensive Rebound,25,33
+19:23,Texas Tech,Matt Mooney,Missed Three Point Jumper,25,33
+19:23,Texas Tech,Norense Odiase,Offensive Rebound,25,33
+19:18,Buffalo,Dontay Caruthers,Foul,25,33
+19:17,Texas Tech,Jarrett Culver,Missed Three Point Jumper,25,33
+19:17,Buffalo,CJ Massinburg,Defensive Rebound,25,33
+19:01,Texas Tech,Davide Moretti,Foul,25,33
+19:01,Buffalo,Davonta Jordan,Free Throw,26,33
+19:01,Buffalo,Davonta Jordan,Missed Free Throw,26,33
+19:01,Texas Tech,Norense Odiase,Defensive Rebound,26,33
+18:39,Buffalo,Nick Perkins,Foul,26,33
+18:39,Texas Tech,Matt Mooney,Free Throw,26,34
+18:39,Texas Tech,Matt Mooney,Free Throw,26,35
+18:26,Buffalo,Davonta Jordan,Foul,26,35
+18:26,Buffalo,Davonta Jordan,Turnover,26,35
+18:13,Texas Tech,Matt Mooney,Layup,26,37
+18:05,Buffalo,Davonta Jordan,Missed Three Point Jumper,26,37
+18:05,Texas Tech,Norense Odiase,Defensive Rebound,26,37
+17:39,Texas Tech,Norense Odiase,Layup,26,39
+17:39,Buffalo,Dontay Caruthers,Foul,26,39
+17:39,Texas Tech,Norense Odiase,Free Throw,26,40
+17:28,Buffalo,Davonta Jordan,Turnover,26,40
+17:28,Texas Tech,Jarrett Culver,Steal,26,40
+17:23,Texas Tech,Norense Odiase,Turnover,26,40
+17:23,Buffalo,Jayvon Graves,Steal,26,40
+17:17,Texas Tech,Brandone Francis,Foul,26,40
+17:17,Buffalo,Davonta Jordan,Free Throw,27,40
+17:17,Buffalo,Davonta Jordan,Missed Free Throw,27,40
+17:17,Buffalo,Nick Perkins,Offensive Rebound,27,40
+17:17,Buffalo,Nick Perkins,Foul,27,40
+17:17,Buffalo,Nick Perkins,Turnover,27,40
+17:11,Buffalo,Davonta Jordan,Foul,27,40
+17:05,Buffalo,Jayvon Graves,Foul,27,40
+17:05,Texas Tech,Jarrett Culver,Free Throw,27,41
+17:05,Texas Tech,Jarrett Culver,Missed Free Throw,27,41
+17:05,Texas Tech,Jarrett Culver,Offensive Rebound,27,41
+17:05,Texas Tech,Jarrett Culver,Missed Layup,27,41
+17:05,Buffalo,Nick Perkins,Defensive Rebound,27,41
+17:03,Texas Tech,Brandone Francis,Foul,27,41
+16:51,Buffalo,Jayvon Graves,Turnover,27,41
+16:34,Texas Tech,Matt Mooney,Missed Jumper,27,41
+16:34,Buffalo,Davonta Jordan,Defensive Rebound,27,41
+16:21,Buffalo,None,None,27,41
+16:16,Texas Tech,Norense Odiase,Foul,27,41
+16:16,Buffalo,CJ Massinburg,Free Throw,28,41
+16:16,Buffalo,CJ Massinburg,Missed Free Throw,28,41
+16:16,Texas Tech,Jarrett Culver,Defensive Rebound,28,41
+15:49,Texas Tech,Davide Moretti,Layup,28,43
+15:41,Buffalo,Dontay Caruthers,Missed Layup,28,43
+15:41,Texas Tech,Deshawn Corprew,Defensive Rebound,28,43
+15:26,Texas Tech,Matt Mooney,Jumper,28,45
+15:09,Buffalo,CJ Massinburg,Missed Three Point Jumper,28,45
+15:09,Texas Tech,Tariq Owens,Defensive Rebound,28,45
+14:47,Buffalo,Dontay Caruthers,Foul,28,45
+14:47,Texas Tech,None,None,28,45
+14:47,Texas Tech,Jarrett Culver,Missed Free Throw,28,45
+14:47,Buffalo,Jeremy Harris,Defensive Rebound,28,45
+14:47,Buffalo,CJ Massinburg,Missed Jumper,28,45
+14:47,Texas Tech,Jarrett Culver,Defensive Rebound,28,45
+14:15,Texas Tech,Jarrett Culver,Three Point Jumper,28,48
+14:02,Buffalo,Jayvon Graves,Missed Three Point Jumper,28,48
+14:02,Buffalo,Montell McRae,Offensive Rebound,28,48
+13:54,Buffalo,Davonta Jordan,Missed Three Point Jumper,28,48
+13:54,Texas Tech,Davide Moretti,Defensive Rebound,28,48
+13:48,Buffalo,Davonta Jordan,Foul,28,48
+13:48,Texas Tech,Davide Moretti,Free Throw,28,49
+13:48,Texas Tech,Davide Moretti,Free Throw,28,50
+13:44,Buffalo,Jeremy Harris,Missed Jumper,28,50
+13:44,Texas Tech,Tariq Owens,Defensive Rebound,28,50
+13:18,Texas Tech,Matt Mooney,Foul,28,50
+13:18,Texas Tech,Matt Mooney,Turnover,28,50
+13:06,Buffalo,Jayvon Graves,Missed Jumper,28,50
+13:06,Texas Tech,Davide Moretti,Defensive Rebound,28,50
+12:41,Buffalo,Jayvon Graves,Foul,28,50
+12:41,Texas Tech,Davide Moretti,Free Throw,28,51
+12:41,Texas Tech,Davide Moretti,Missed Free Throw,28,51
+12:41,Buffalo,Jeenathan Williams,Defensive Rebound,28,51
+12:27,Buffalo,Jeremy Harris,Jumper,30,51
+12:02,Texas Tech,Norense Odiase,Layup,30,53
+11:46,Buffalo,CJ Massinburg,Three Point Jumper,33,53
+11:26,Texas Tech,Jarrett Culver,Missed Jumper,33,53
+11:26,Texas Tech,Norense Odiase,Offensive Rebound,33,53
+11:19,Texas Tech,Kyler Edwards,Three Point Jumper,33,56
+11:04,Buffalo,Davonta Jordan,Turnover,33,56
+11:04,Texas Tech,None,None,33,56
+10:40,Texas Tech,Kyler Edwards,Three Point Jumper,33,59
+10:15,Buffalo,Nick Perkins,Missed Layup,33,59
+10:15,Texas Tech,Tariq Owens,Defensive Rebound,33,59
+9:46,Texas Tech,Matt Mooney,Missed Jumper,33,59
+9:46,Texas Tech,Norense Odiase,Offensive Rebound,33,59
+9:40,Texas Tech,Norense Odiase,Layup,33,61
+9:32,Buffalo,Jeremy Harris,Missed Three Point Jumper,33,61
+9:32,Buffalo,Nick Perkins,Offensive Rebound,33,61
+9:26,Texas Tech,Deshawn Corprew,Foul,33,61
+9:24,Buffalo,Nick Perkins,Missed Layup,33,61
+9:24,Texas Tech,Deshawn Corprew,Block,33,61
+9:24,Texas Tech,Brandone Francis,Defensive Rebound,33,61
+9:18,Buffalo,Dontay Caruthers,Foul,33,61
+9:18,Texas Tech,Brandone Francis,Free Throw,33,62
+9:18,Texas Tech,Brandone Francis,Missed Free Throw,33,62
+9:18,Texas Tech,Deshawn Corprew,Offensive Rebound,33,62
+9:07,Texas Tech,Brandone Francis,Missed Three Point Jumper,33,62
+9:07,Buffalo,Nick Perkins,Defensive Rebound,33,62
+8:56,Buffalo,Nick Perkins,Three Point Jumper,36,62
+8:34,Texas Tech,Davide Moretti,Layup,36,64
+8:19,Buffalo,CJ Massinburg,Three Point Jumper,39,64
+7:57,Texas Tech,Deshawn Corprew,Layup,39,66
+7:42,Buffalo,CJ Massinburg,Three Point Jumper,42,66
+7:23,Texas Tech,Jarrett Culver,Missed Layup,42,66
+7:23,Buffalo,CJ Massinburg,Block,42,66
+7:23,Buffalo,Jeremy Harris,Defensive Rebound,42,66
+7:10,Buffalo,CJ Massinburg,Turnover,42,66
+7:10,Texas Tech,Jarrett Culver,Steal,42,66
+7:04,Texas Tech,Jarrett Culver,Layup,42,68
+6:42,Buffalo,Nick Perkins,Foul,42,68
+6:42,Buffalo,Nick Perkins,Turnover,42,68
+6:42,Texas Tech,None,None,42,68
+6:21,Texas Tech,Jarrett Culver,Jumper,42,70
+6:04,Buffalo,CJ Massinburg,Missed Three Point Jumper,42,70
+6:04,Buffalo,Nick Perkins,Offensive Rebound,42,70
+6:01,Texas Tech,Tariq Owens,Foul,42,70
+6:01,Buffalo,Jayvon Graves,Free Throw,43,70
+6:01,Buffalo,Jayvon Graves,Missed Free Throw,43,70
+5:52,Texas Tech,Davide Moretti,Foul,43,70
+5:52,Buffalo,Nick Perkins,Free Throw,44,70
+5:52,Buffalo,Nick Perkins,Missed Free Throw,44,70
+5:52,Texas Tech,Tariq Owens,Defensive Rebound,44,70
+5:25,Texas Tech,Jarrett Culver,Missed Jumper,44,70
+5:25,Buffalo,Nick Perkins,Defensive Rebound,44,70
+5:18,Buffalo,Jeremy Harris,Missed Three Point Jumper,44,70
+5:18,Texas Tech,Tariq Owens,Defensive Rebound,44,70
+5:13,Buffalo,Davonta Jordan,Foul,44,70
+5:13,Texas Tech,Tariq Owens,Free Throw,44,71
+5:13,Texas Tech,Tariq Owens,Free Throw,44,72
+5:03,Buffalo,Nick Perkins,Jumper,46,72
+4:38,Texas Tech,Matt Mooney,Turnover,46,72
+4:38,Buffalo,Jeremy Harris,Steal,46,72
+4:31,Buffalo,CJ Massinburg,Dunk,48,72
+4:08,Texas Tech,Jarrett Culver,Turnover,48,72
+4:01,Buffalo,CJ Massinburg,Missed Three Point Jumper,48,72
+4:01,Texas Tech,Norense Odiase,Defensive Rebound,48,72
+3:58,Buffalo,Montell McRae,Foul,48,72
+3:58,Texas Tech,None,None,48,72
+3:58,Texas Tech,Norense Odiase,Free Throw,48,73
+3:58,Texas Tech,Norense Odiase,Free Throw,48,74
+3:44,Buffalo,Jeremy Harris,Layup,50,74
+3:22,Texas Tech,Tariq Owens,Layup,50,76
+3:15,Buffalo,Jeremy Harris,Missed Three Point Jumper,50,76
+3:15,Texas Tech,Jarrett Culver,Defensive Rebound,50,76
+2:45,Texas Tech,Jarrett Culver,Missed Layup,50,76
+2:45,Texas Tech,Jarrett Culver,Offensive Rebound,50,76
+2:39,Texas Tech,Jarrett Culver,Missed Layup,50,76
+2:39,Buffalo,Jeremy Harris,Defensive Rebound,50,76
+2:33,Buffalo,Montell McRae,Three Point Jumper,53,76
+1:48,Texas Tech,Jarrett Culver,Turnover,53,76
+1:48,Buffalo,CJ Massinburg,Steal,53,76
+1:48,Texas Tech,Jarrett Culver,Foul,53,76
+1:48,Buffalo,CJ Massinburg,Missed Free Throw,53,76
+1:48,Texas Tech,Brandone Francis,Defensive Rebound,53,76
+1:32,Texas Tech,Brandone Francis,Layup,53,78
+1:21,Buffalo,Davonta Jordan,Three Point Jumper,56,78
+0:53,Texas Tech,Matt Mooney,Missed Three Point Jumper,56,78
+0:53,Buffalo,Jeremy Harris,Defensive Rebound,56,78
+0:47,Texas Tech,Deshawn Corprew,Foul,56,78
+0:47,Buffalo,Jeremy Harris,Free Throw,57,78
+0:47,Buffalo,Jeremy Harris,Free Throw,58,78
+0:20,Texas Tech,Parker Hicks,Turnover,58,78
+0:18,Buffalo,Ronaldo Segu,Turnover,58,78
+0:18,Texas Tech,Avery Benson,Steal,58,78
+0:00,Texas Tech,None,None,58,78

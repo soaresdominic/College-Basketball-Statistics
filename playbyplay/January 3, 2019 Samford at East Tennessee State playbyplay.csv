@@ -1,0 +1,368 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:49,Samford,Ruben Guerrero,Turnover,0,0
+19:49,East Tennessee State,Daivien Williamson,Steal,0,0
+19:31,East Tennessee State,Patrick Good,Missed Three Point Jumper,0,0
+19:31,East Tennessee State,Bo Hodges,Offensive Rebound,0,0
+19:21,East Tennessee State,Daivien Williamson,Layup,0,2
+19:21,Samford,Ruben Guerrero,Foul,0,2
+19:21,East Tennessee State,Daivien Williamson,Free Throw,0,3
+18:58,Samford,Ruben Guerrero,Turnover,0,3
+18:54,East Tennessee State,Daivien Williamson,Layup,0,5
+18:53,East Tennessee State,Daivien Williamson,Steal,0,5
+18:28,Samford,Ruben Guerrero,Dunk,2,5
+18:12,East Tennessee State,Daivien Williamson,Missed Layup,2,5
+18:12,East Tennessee State,Jeromy Rodriguez,Offensive Rebound,2,5
+18:08,East Tennessee State,Daivien Williamson,Missed Three Point Jumper,2,5
+18:08,East Tennessee State,Jeromy Rodriguez,Offensive Rebound,2,5
+18:04,East Tennessee State,Jeromy Rodriguez,Layup,2,7
+17:48,East Tennessee State,Daivien Williamson,Foul,2,7
+17:38,Samford,Ruben Guerrero,Missed Jumper,2,7
+17:38,East Tennessee State,East Tennessee State,Defensive Rebound,2,7
+17:27,Samford,Josh Sharkey,Foul,2,7
+17:18,East Tennessee State,Bo Hodges,Missed Jumper,2,7
+17:18,Samford,None,Team Rebound,2,7
+17:01,East Tennessee State,Lucas N'Guessan,Foul,2,7
+17:01,Samford,Robert Allen,Free Throw,3,7
+17:01,Samford,Robert Allen,Free Throw,4,7
+16:47,East Tennessee State,Bo Hodges,Missed Three Point Jumper,4,7
+16:47,East Tennessee State,Jeromy Rodriguez,Offensive Rebound,4,7
+16:40,Samford,Robert Allen,Foul,4,7
+16:40,East Tennessee State,Bo Hodges,Free Throw,4,8
+16:40,East Tennessee State,Bo Hodges,Missed Free Throw,4,8
+16:40,Samford,Ruben Guerrero,Defensive Rebound,4,8
+16:28,Samford,Brandon Austin,Three Point Jumper,7,8
+16:00,East Tennessee State,Patrick Good,Missed Three Point Jumper,7,8
+16:00,Samford,Brandon Austin,Defensive Rebound,7,8
+15:44,Samford,Myron Gordon,Jumper,9,8
+15:23,East Tennessee State,Lucas N'Guessan,Turnover,9,8
+15:22,Samford,Robert Allen,Steal,9,8
+15:13,Samford,Robert Allen,Three Point Jumper,12,8
+14:50,East Tennessee State,Lucas N'Guessan,Jumper,12,10
+14:30,Samford,Robert Allen,Turnover,12,10
+14:28,East Tennessee State,Jeromy Rodriguez,Steal,12,10
+14:26,East Tennessee State,Patrick Good,Layup,12,12
+14:08,Samford,Brandon Austin,Turnover,12,12
+14:08,East Tennessee State,None,None,12,12
+13:57,East Tennessee State,Mladen Armus,Turnover,12,12
+13:56,Samford,Ruben Guerrero,Steal,12,12
+13:55,Samford,Ruben Guerrero,Turnover,12,12
+13:54,East Tennessee State,Jeromy Rodriguez,Steal,12,12
+13:52,East Tennessee State,Tray Boyd III,Missed Three Point Jumper,12,12
+13:52,East Tennessee State,Tray Boyd III,Offensive Rebound,12,12
+13:34,East Tennessee State,Tray Boyd III,Missed Three Point Jumper,12,12
+13:34,East Tennessee State,Mladen Armus,Offensive Rebound,12,12
+13:29,East Tennessee State,Mladen Armus,Layup,12,14
+13:13,Samford,Kevion Nolan,Turnover,12,14
+13:12,East Tennessee State,Mladen Armus,Steal,12,14
+13:00,East Tennessee State,Tray Boyd III,Missed Jumper,12,14
+13:00,Samford,Brandon Austin,Defensive Rebound,12,14
+12:42,East Tennessee State,Isaiah Tisdale,Foul,12,14
+12:38,East Tennessee State,Isaiah Tisdale,Foul,12,14
+12:32,Samford,Ruben Guerrero,Layup,14,14
+12:15,East Tennessee State,Kevon Tucker,Three Point Jumper,14,17
+11:44,Samford,DeAndre Thomas,Missed Three Point Jumper,14,17
+11:44,East Tennessee State,Mladen Armus,Defensive Rebound,14,17
+11:32,East Tennessee State,Tray Boyd III,Layup,14,19
+11:15,Samford,Josh Sharkey,Jumper,16,19
+10:56,East Tennessee State,Kevon Tucker,Foul,16,19
+10:56,East Tennessee State,Kevon Tucker,Turnover,16,19
+10:56,East Tennessee State,None,None,16,19
+10:37,Samford,Stefan Lakic,Missed Three Point Jumper,16,19
+10:37,East Tennessee State,Tray Boyd III,Defensive Rebound,16,19
+10:29,East Tennessee State,Tray Boyd III,Turnover,16,19
+10:13,Samford,Josh Sharkey,Missed Three Point Jumper,16,19
+10:13,East Tennessee State,D'Andre Bernard,Defensive Rebound,16,19
+10:04,East Tennessee State,Kevon Tucker,Missed Three Point Jumper,16,19
+10:04,East Tennessee State,Mladen Armus,Offensive Rebound,16,19
+9:59,East Tennessee State,Kevon Tucker,Three Point Jumper,16,22
+9:31,Samford,Stefan Lakic,Three Point Jumper,19,22
+9:02,East Tennessee State,Daivien Williamson,Layup,19,24
+8:44,Samford,Kevion Nolan,Missed Three Point Jumper,19,24
+8:44,East Tennessee State,Mladen Armus,Defensive Rebound,19,24
+8:16,East Tennessee State,Tray Boyd III,Three Point Jumper,19,27
+7:59,Samford,Josh Sharkey,Jumper,21,27
+7:45,East Tennessee State,Tray Boyd III,Missed Jumper,21,27
+7:45,East Tennessee State,D'Andre Bernard,Offensive Rebound,21,27
+7:42,East Tennessee State,D'Andre Bernard,Layup,21,29
+7:24,Samford,Kevion Nolan,Layup,23,29
+7:02,East Tennessee State,Tray Boyd III,Missed Three Point Jumper,23,29
+7:02,East Tennessee State,Mladen Armus,Offensive Rebound,23,29
+7:00,Samford,Logan Dye,Foul,23,29
+7:00,East Tennessee State,None,None,23,29
+7:00,East Tennessee State,Mladen Armus,Missed Free Throw,23,29
+7:00,East Tennessee State,None,Team Rebound,23,29
+7:00,East Tennessee State,Mladen Armus,Missed Free Throw,23,29
+7:00,Samford,Robert Allen,Defensive Rebound,23,29
+6:43,East Tennessee State,Mladen Armus,Foul,23,29
+6:42,Samford,Myron Gordon,Turnover,23,29
+6:41,East Tennessee State,Isaiah Tisdale,Steal,23,29
+6:40,East Tennessee State,Isaiah Tisdale,Dunk,23,31
+6:20,East Tennessee State,Bo Hodges,Foul,23,31
+6:20,Samford,Brandon Austin,Free Throw,24,31
+6:20,Samford,Brandon Austin,Free Throw,25,31
+5:58,East Tennessee State,Mladen Armus,Turnover,25,31
+5:56,Samford,Ruben Guerrero,Steal,25,31
+5:44,Samford,Robert Allen,Missed Three Point Jumper,25,31
+5:44,Samford,Brandon Austin,Offensive Rebound,25,31
+5:38,East Tennessee State,Bo Hodges,Foul,25,31
+5:38,Samford,Brandon Austin,Missed Free Throw,25,31
+5:38,Samford,None,Team Rebound,25,31
+5:38,Samford,Brandon Austin,Missed Free Throw,25,31
+5:38,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,25,31
+5:24,East Tennessee State,Jeromy Rodriguez,Turnover,25,31
+5:23,Samford,Ruben Guerrero,Steal,25,31
+5:13,Samford,Robert Allen,Layup,27,31
+4:45,East Tennessee State,Tray Boyd III,Three Point Jumper,27,34
+4:22,East Tennessee State,Lucas N'Guessan,Foul,27,34
+4:22,Samford,Ruben Guerrero,Free Throw,28,34
+4:22,Samford,Ruben Guerrero,Free Throw,29,34
+3:57,East Tennessee State,Jeromy Rodriguez,Jumper,29,36
+3:38,Samford,Myron Gordon,Missed Jumper,29,36
+3:38,East Tennessee State,Mladen Armus,Defensive Rebound,29,36
+3:30,East Tennessee State,None,None,29,36
+3:16,East Tennessee State,Tray Boyd III,Missed Three Point Jumper,29,36
+3:16,East Tennessee State,Mladen Armus,Offensive Rebound,29,36
+3:10,East Tennessee State,Daivien Williamson,Jumper,29,38
+2:52,Samford,Robert Allen,Turnover,29,38
+2:51,East Tennessee State,Kevon Tucker,Steal,29,38
+2:44,East Tennessee State,Kevon Tucker,Layup,29,40
+2:31,Samford,Josh Sharkey,Turnover,29,40
+2:31,East Tennessee State,Mladen Armus,Steal,29,40
+2:17,East Tennessee State,Mladen Armus,Dunk,29,42
+2:15,Samford,None,None,29,42
+1:59,East Tennessee State,Mladen Armus,Foul,29,42
+1:59,Samford,Josh Sharkey,Free Throw,30,42
+1:59,Samford,Josh Sharkey,Missed Free Throw,30,42
+1:59,East Tennessee State,James Harrison Jr.,Defensive Rebound,30,42
+1:47,East Tennessee State,Daivien Williamson,Missed Jumper,30,42
+1:47,Samford,Robert Allen,Defensive Rebound,30,42
+1:39,Samford,Ruben Guerrero,Layup,32,42
+1:21,East Tennessee State,Kevon Tucker,Three Point Jumper,32,45
+0:57,Samford,Ruben Guerrero,Turnover,32,45
+0:38,Samford,Logan Dye,Foul,32,45
+0:36,East Tennessee State,Tray Boyd III,Jumper,32,47
+0:00,Samford,Robert Allen,Missed Layup,32,47
+0:00,Samford,Robert Allen,Offensive Rebound,32,47
+0:00,East Tennessee State,None,None,32,47
+19:48,East Tennessee State,Jeromy Rodriguez,Jumper,32,49
+19:31,East Tennessee State,Bo Hodges,Foul,32,49
+19:27,Samford,Brandon Austin,Three Point Jumper,35,49
+19:11,Samford,Josh Sharkey,Foul,35,49
+19:08,East Tennessee State,Kevon Tucker,Missed Three Point Jumper,35,49
+19:08,Samford,Myron Gordon,Defensive Rebound,35,49
+18:59,Samford,Myron Gordon,Missed Jumper,35,49
+18:59,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,35,49
+18:33,East Tennessee State,Kevon Tucker,Missed Three Point Jumper,35,49
+18:33,Samford,Brandon Austin,Block,35,49
+18:31,East Tennessee State,Jeromy Rodriguez,Offensive Rebound,35,49
+18:29,East Tennessee State,Patrick Good,Missed Three Point Jumper,35,49
+18:29,Samford,Josh Sharkey,Defensive Rebound,35,49
+18:16,Samford,Ruben Guerrero,Missed Jumper,35,49
+18:16,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,35,49
+18:15,Samford,Robert Allen,Foul,35,49
+18:00,East Tennessee State,Daivien Williamson,Turnover,35,49
+17:59,Samford,Myron Gordon,Steal,35,49
+17:57,Samford,Josh Sharkey,Layup,37,49
+17:31,East Tennessee State,Jeromy Rodriguez,Jumper,37,51
+17:14,Samford,Robert Allen,Missed Jumper,37,51
+17:14,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,37,51
+17:05,East Tennessee State,Daivien Williamson,Missed Layup,37,51
+17:05,Samford,Samford,Defensive Rebound,37,51
+16:58,Samford,Josh Sharkey,Turnover,37,51
+16:57,East Tennessee State,Jeromy Rodriguez,Steal,37,51
+16:53,East Tennessee State,Patrick Good,Missed Three Point Jumper,37,51
+16:53,East Tennessee State,Kevon Tucker,Offensive Rebound,37,51
+16:44,East Tennessee State,Kevon Tucker,Missed Three Point Jumper,37,51
+16:44,Samford,Josh Sharkey,Defensive Rebound,37,51
+16:37,Samford,Myron Gordon,Missed Layup,37,51
+16:37,East Tennessee State,Jeromy Rodriguez,Block,37,51
+16:35,Samford,Samford,Offensive Rebound,37,51
+16:26,Samford,Ruben Guerrero,Missed Layup,37,51
+16:26,East Tennessee State,Mladen Armus,Defensive Rebound,37,51
+16:18,East Tennessee State,Kevon Tucker,Missed Jumper,37,51
+16:18,Samford,Josh Sharkey,Defensive Rebound,37,51
+16:01,Samford,Robert Allen,Missed Jumper,37,51
+16:01,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,37,51
+15:44,East Tennessee State,Mladen Armus,Missed Jumper,37,51
+15:44,Samford,Ruben Guerrero,Block,37,51
+15:43,Samford,Ruben Guerrero,Defensive Rebound,37,51
+15:29,Samford,Robert Allen,Three Point Jumper,40,51
+15:13,East Tennessee State,None,None,40,51
+15:02,East Tennessee State,Tray Boyd III,Turnover,40,51
+15:00,Samford,Ruben Guerrero,Steal,40,51
+14:52,Samford,Ruben Guerrero,Layup,42,51
+14:35,Samford,Ruben Guerrero,Foul,42,51
+14:35,East Tennessee State,Bo Hodges,Missed Free Throw,42,51
+14:35,East Tennessee State,None,Team Rebound,42,51
+14:35,East Tennessee State,Bo Hodges,Free Throw,42,52
+14:23,Samford,Myron Gordon,Missed Jumper,42,52
+14:23,East Tennessee State,Tray Boyd III,Block,42,52
+14:21,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,42,52
+14:18,East Tennessee State,Jeromy Rodriguez,Turnover,42,52
+14:17,Samford,Myron Gordon,Steal,42,52
+14:15,Samford,Myron Gordon,Layup,44,52
+13:57,Samford,Robert Allen,Foul,44,52
+13:57,East Tennessee State,Mladen Armus,Missed Free Throw,44,52
+13:57,East Tennessee State,None,Team Rebound,44,52
+13:57,East Tennessee State,Mladen Armus,Free Throw,44,53
+13:45,Samford,Ruben Guerrero,Missed Layup,44,53
+13:45,East Tennessee State,Jeromy Rodriguez,Block,44,53
+13:44,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,44,53
+13:39,East Tennessee State,Jeromy Rodriguez,Turnover,44,53
+13:38,Samford,Josh Sharkey,Steal,44,53
+13:32,Samford,Ruben Guerrero,Layup,46,53
+13:06,East Tennessee State,Mladen Armus,Missed Jumper,46,53
+13:06,Samford,Ruben Guerrero,Defensive Rebound,46,53
+12:46,Samford,Brandon Austin,Three Point Jumper,49,53
+12:42,East Tennessee State,None,None,49,53
+12:20,East Tennessee State,Bo Hodges,Missed Three Point Jumper,49,53
+12:20,East Tennessee State,Mladen Armus,Offensive Rebound,49,53
+12:16,East Tennessee State,Mladen Armus,Jumper,49,55
+12:00,Samford,Josh Sharkey,Layup,51,55
+11:46,East Tennessee State,Daivien Williamson,Turnover,51,55
+11:46,East Tennessee State,None,None,51,55
+11:40,Samford,Brandon Austin,Missed Three Point Jumper,51,55
+11:40,Samford,Stefan Lakic,Offensive Rebound,51,55
+11:25,Samford,Josh Sharkey,Missed Jumper,51,55
+11:25,Samford,Josh Sharkey,Offensive Rebound,51,55
+11:23,East Tennessee State,Bo Hodges,Foul,51,55
+11:10,Samford,Stefan Lakic,Missed Three Point Jumper,51,55
+11:10,East Tennessee State,Mladen Armus,Defensive Rebound,51,55
+10:37,East Tennessee State,Jeromy Rodriguez,Missed Jumper,51,55
+10:37,East Tennessee State,Mladen Armus,Offensive Rebound,51,55
+10:16,East Tennessee State,Isaiah Tisdale,Missed Jumper,51,55
+10:16,Samford,Ruben Guerrero,Block,51,55
+10:15,Samford,Josh Sharkey,Defensive Rebound,51,55
+9:51,East Tennessee State,Daivien Williamson,Foul,51,55
+9:36,Samford,Ruben Guerrero,Missed Layup,51,55
+9:36,East Tennessee State,Mladen Armus,Defensive Rebound,51,55
+9:14,East Tennessee State,Tray Boyd III,Jumper,51,57
+8:59,Samford,Josh Sharkey,Missed Three Point Jumper,51,57
+8:59,Samford,Ruben Guerrero,Offensive Rebound,51,57
+8:52,Samford,Myron Gordon,Missed Jumper,51,57
+8:52,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,51,57
+8:37,East Tennessee State,Tray Boyd III,Three Point Jumper,51,60
+8:19,East Tennessee State,Tray Boyd III,Foul,51,60
+8:11,Samford,Brandon Austin,Missed Three Point Jumper,51,60
+8:11,East Tennessee State,Daivien Williamson,Defensive Rebound,51,60
+8:02,East Tennessee State,Tray Boyd III,Missed Three Point Jumper,51,60
+8:02,Samford,Myron Gordon,Defensive Rebound,51,60
+7:56,Samford,Brandon Austin,Dunk,53,60
+7:38,East Tennessee State,Daivien Williamson,Missed Layup,53,60
+7:38,Samford,Myron Gordon,Defensive Rebound,53,60
+7:32,Samford,Josh Sharkey,Turnover,53,60
+7:32,East Tennessee State,None,None,53,60
+7:17,East Tennessee State,Tray Boyd III,Turnover,53,60
+7:05,Samford,Myron Gordon,Missed Jumper,53,60
+7:05,East Tennessee State,Mladen Armus,Defensive Rebound,53,60
+6:43,East Tennessee State,Isaiah Tisdale,Jumper,53,62
+6:28,Samford,Robert Allen,Missed Three Point Jumper,53,62
+6:28,East Tennessee State,Mladen Armus,Defensive Rebound,53,62
+6:21,Samford,DeAndre Thomas,Foul,53,62
+6:14,East Tennessee State,Daivien Williamson,Missed Three Point Jumper,53,62
+6:14,Samford,Ruben Guerrero,Defensive Rebound,53,62
+6:01,Samford,Ruben Guerrero,Jumper,55,62
+5:41,East Tennessee State,Tray Boyd III,Missed Jumper,55,62
+5:41,East Tennessee State,Jeromy Rodriguez,Offensive Rebound,55,62
+5:32,East Tennessee State,Jeromy Rodriguez,Layup,55,64
+5:26,Samford,Brandon Austin,Three Point Jumper,58,64
+5:04,Samford,Josh Sharkey,Foul,58,64
+5:04,East Tennessee State,Isaiah Tisdale,Missed Free Throw,58,64
+5:04,East Tennessee State,None,Team Rebound,58,64
+5:04,East Tennessee State,Isaiah Tisdale,Missed Free Throw,58,64
+5:04,East Tennessee State,None,Team Rebound,58,64
+5:04,East Tennessee State,Isaiah Tisdale,Free Throw,58,65
+4:57,Samford,Ruben Guerrero,Jumper,60,65
+4:54,Samford,None,None,60,65
+4:44,East Tennessee State,Tray Boyd III,Turnover,60,65
+4:44,Samford,Josh Sharkey,Steal,60,65
+4:44,Samford,Josh Sharkey,Turnover,60,65
+4:38,East Tennessee State,Mladen Armus,Layup,60,67
+4:38,Samford,Robert Allen,Foul,60,67
+4:38,East Tennessee State,Mladen Armus,Missed Free Throw,60,67
+4:38,Samford,Ruben Guerrero,Defensive Rebound,60,67
+4:24,Samford,Josh Sharkey,Missed Three Point Jumper,60,67
+4:24,East Tennessee State,Bo Hodges,Defensive Rebound,60,67
+4:20,East Tennessee State,Bo Hodges,Turnover,60,67
+4:09,Samford,Josh Sharkey,Missed Layup,60,67
+4:09,East Tennessee State,Bo Hodges,Defensive Rebound,60,67
+4:01,East Tennessee State,Mladen Armus,Layup,60,69
+3:32,Samford,Josh Sharkey,Missed Three Point Jumper,60,69
+3:32,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,60,69
+3:14,East Tennessee State,Bo Hodges,Turnover,60,69
+3:13,Samford,Josh Sharkey,Steal,60,69
+3:07,Samford,Josh Sharkey,Layup,62,69
+3:06,Samford,None,None,62,69
+3:06,East Tennessee State,None,None,62,69
+2:53,East Tennessee State,Tray Boyd III,Missed Three Point Jumper,62,69
+2:53,Samford,Brandon Austin,Defensive Rebound,62,69
+2:39,Samford,Robert Allen,Three Point Jumper,65,69
+2:25,East Tennessee State,Isaiah Tisdale,Missed Jumper,65,69
+2:25,Samford,Brandon Austin,Defensive Rebound,65,69
+1:59,Samford,Josh Sharkey,Turnover,65,69
+1:59,East Tennessee State,Lucas N'Guessan,Steal,65,69
+1:59,Samford,Josh Sharkey,Foul,65,69
+1:59,East Tennessee State,Lucas N'Guessan,Free Throw,65,70
+1:59,East Tennessee State,Lucas N'Guessan,Missed Free Throw,65,70
+1:59,Samford,Ruben Guerrero,Defensive Rebound,65,70
+1:50,Samford,Josh Sharkey,Missed Three Point Jumper,65,70
+1:50,Samford,Myron Gordon,Offensive Rebound,65,70
+1:44,Samford,Myron Gordon,Jumper,67,70
+1:36,East Tennessee State,Isaiah Tisdale,Turnover,67,70
+1:18,Samford,Myron Gordon,Three Point Jumper,70,70
+0:56,East Tennessee State,Tray Boyd III,Missed Layup,70,70
+0:53,Samford,Myron Gordon,Defensive Rebound,70,70
+0:39,Samford,Ruben Guerrero,Missed Jumper,70,70
+0:39,East Tennessee State,Mladen Armus,Block,70,70
+0:38,East Tennessee State,Mladen Armus,Defensive Rebound,70,70
+0:31,East Tennessee State,None,None,70,70
+0:09,East Tennessee State,Tray Boyd III,Missed Three Point Jumper,70,70
+0:09,East Tennessee State,Jeromy Rodriguez,Offensive Rebound,70,70
+0:00,East Tennessee State,Isaiah Tisdale,Missed Jumper,70,70
+0:00,Samford,Samford,Defensive Rebound,70,70
+0:00,East Tennessee State,None,None,70,70
+4:48,Samford,Josh Sharkey,Turnover,70,70
+4:35,East Tennessee State,Isaiah Tisdale,Missed Three Point Jumper,70,70
+4:35,East Tennessee State,Bo Hodges,Offensive Rebound,70,70
+4:10,East Tennessee State,Bo Hodges,Foul,70,70
+4:10,East Tennessee State,Bo Hodges,Turnover,70,70
+3:55,East Tennessee State,Patrick Good,Foul,70,70
+3:55,Samford,Josh Sharkey,Free Throw,71,70
+3:55,Samford,Josh Sharkey,Free Throw,72,70
+3:42,East Tennessee State,Patrick Good,Missed Three Point Jumper,72,70
+3:42,Samford,Robert Allen,Defensive Rebound,72,70
+3:18,Samford,Myron Gordon,Missed Three Point Jumper,72,70
+3:18,East Tennessee State,Mladen Armus,Defensive Rebound,72,70
+2:57,East Tennessee State,Tray Boyd III,Missed Three Point Jumper,72,70
+2:57,Samford,Ruben Guerrero,Defensive Rebound,72,70
+2:48,Samford,Brandon Austin,Missed Layup,72,70
+2:48,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,72,70
+2:29,East Tennessee State,Tray Boyd III,Layup,72,72
+2:11,Samford,Josh Sharkey,Turnover,72,72
+2:11,Samford,None,None,72,72
+1:45,Samford,Ruben Guerrero,Foul,72,72
+1:45,East Tennessee State,Jeromy Rodriguez,Free Throw,72,73
+1:45,East Tennessee State,Jeromy Rodriguez,Free Throw,72,74
+1:31,Samford,Brandon Austin,Missed Jumper,72,74
+1:31,East Tennessee State,Isaiah Tisdale,Block,72,74
+1:29,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,72,74
+1:09,East Tennessee State,Tray Boyd III,Missed Layup,72,74
+1:09,Samford,Robert Allen,Block,72,74
+1:08,East Tennessee State,Jeromy Rodriguez,Offensive Rebound,72,74
+1:05,East Tennessee State,Tray Boyd III,Three Point Jumper,72,77
+0:54,Samford,Josh Sharkey,Missed Layup,72,77
+0:54,East Tennessee State,Jeromy Rodriguez,Defensive Rebound,72,77
+0:49,East Tennessee State,Jeromy Rodriguez,Turnover,72,77
+0:48,Samford,Robert Allen,Steal,72,77
+0:45,Samford,Brandon Austin,Missed Three Point Jumper,72,77
+0:45,East Tennessee State,Mladen Armus,Defensive Rebound,72,77
+0:36,Samford,Ruben Guerrero,Foul,72,77
+0:36,East Tennessee State,Tray Boyd III,Free Throw,72,78
+0:36,East Tennessee State,Tray Boyd III,Free Throw,72,79
+0:31,Samford,Josh Sharkey,Turnover,72,79
+0:30,East Tennessee State,Isaiah Tisdale,Steal,72,79
+0:29,Samford,Brandon Austin,Foul,72,79
+0:29,East Tennessee State,Patrick Good,Free Throw,72,80
+0:29,East Tennessee State,Patrick Good,Free Throw,72,81
+0:20,Samford,Robert Allen,Turnover,72,81
+0:00,East Tennessee State,None,None,72,81

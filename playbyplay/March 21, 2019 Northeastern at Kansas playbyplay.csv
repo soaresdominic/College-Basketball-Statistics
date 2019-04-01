@@ -1,0 +1,316 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Northeastern,None,None,0,0
+19:35,Northeastern,Vasa Pusica,Missed Jumper,0,0
+19:35,Kansas,Devon Dotson,Defensive Rebound,0,0
+19:11,Kansas,David McCormack,Turnover,0,0
+19:11,Northeastern,Jordan Roland,Steal,0,0
+18:52,Northeastern,Bolden Brace,Missed Three Point Jumper,0,0
+18:52,Kansas,Ochai Agbaji,Defensive Rebound,0,0
+18:33,Kansas,Quentin Grimes,Missed Three Point Jumper,0,0
+18:33,Kansas,David McCormack,Offensive Rebound,0,0
+18:28,Kansas,Dedric Lawson,Three Point Jumper,0,3
+18:09,Kansas,Devon Dotson,Foul,0,3
+18:02,Northeastern,Jordan Roland,Three Point Jumper,3,3
+17:42,Northeastern,Jordan Roland,Foul,3,3
+17:42,Kansas,Dedric Lawson,Free Throw,3,4
+17:42,Kansas,Dedric Lawson,Free Throw,3,5
+17:13,Northeastern,Northeastern ,Turnover,3,5
+16:57,Kansas,Devon Dotson,Missed Three Point Jumper,3,5
+16:57,Northeastern,Bolden Brace,Defensive Rebound,3,5
+16:43,Northeastern,Jordan Roland,Three Point Jumper,6,5
+16:27,Kansas,Dedric Lawson,Missed Three Point Jumper,6,5
+16:27,Northeastern,Donnell Gresham Jr.,Defensive Rebound,6,5
+16:14,Northeastern,Anthony Green,Turnover,6,5
+16:14,Kansas,Dedric Lawson,Steal,6,5
+16:10,Kansas,Devon Dotson,Missed Layup,6,5
+16:10,Northeastern,Bolden Brace,Block,6,5
+16:10,Northeastern,Northeastern,Defensive Rebound,6,5
+15:45,Northeastern,Vasa Pusica,Missed Layup,6,5
+15:45,Kansas,Dedric Lawson,Block,6,5
+15:45,Northeastern,Shawn Occeus,Offensive Rebound,6,5
+15:36,Northeastern,Shawn Occeus,Missed Three Point Jumper,6,5
+15:36,Kansas,Dedric Lawson,Defensive Rebound,6,5
+15:28,Kansas,Quentin Grimes,Missed Layup,6,5
+15:28,Northeastern,Vasa Pusica,Block,6,5
+15:28,Kansas,Dedric Lawson,Offensive Rebound,6,5
+15:22,Kansas,Dedric Lawson,Layup,6,7
+15:06,Northeastern,Tomas Murphy,Three Point Jumper,9,7
+14:48,Kansas,Ochai Agbaji,Layup,9,9
+14:29,Northeastern,Tomas Murphy,Missed Three Point Jumper,9,9
+14:29,Northeastern,Jordan Roland,Offensive Rebound,9,9
+14:24,Northeastern,Jordan Roland,Missed Jumper,9,9
+14:24,Kansas,Kansas,Defensive Rebound,9,9
+14:22,Kansas,None,None,9,9
+14:02,Kansas,Marcus Garrett,Layup,9,11
+13:53,Northeastern,Vasa Pusica,Turnover,9,11
+13:53,Kansas,Marcus Garrett,Steal,9,11
+13:50,Kansas,Marcus Garrett,Layup,9,13
+13:34,Kansas,Marcus Garrett,Foul,9,13
+13:24,Northeastern,Donnell Gresham Jr.,Missed Three Point Jumper,9,13
+13:24,Kansas,Marcus Garrett,Defensive Rebound,9,13
+13:05,Northeastern,Shawn Occeus,Foul,9,13
+13:01,Kansas,Quentin Grimes,Missed Three Point Jumper,9,13
+13:01,Kansas,Dedric Lawson,Offensive Rebound,9,13
+12:51,Kansas,Dedric Lawson,Missed Three Point Jumper,9,13
+12:51,Northeastern,Donnell Gresham Jr.,Defensive Rebound,9,13
+12:47,Kansas,K.J. Lawson,Foul,9,13
+12:33,Northeastern,Jordan Roland,Jumper,11,13
+12:14,Kansas,K.J. Lawson,Missed Three Point Jumper,11,13
+12:14,Northeastern,Bolden Brace,Defensive Rebound,11,13
+12:02,Northeastern,Jordan Roland,Missed Jumper,11,13
+12:02,Kansas,Dedric Lawson,Defensive Rebound,11,13
+11:53,Northeastern,Jordan Roland,Foul,11,13
+11:53,Kansas,None,None,11,13
+11:53,Kansas,Devon Dotson,Free Throw,11,14
+11:53,Kansas,Devon Dotson,Free Throw,11,15
+11:40,Northeastern,Donnell Gresham Jr.,Missed Three Point Jumper,11,15
+11:40,Kansas,K.J. Lawson,Defensive Rebound,11,15
+11:34,Kansas,Devon Dotson,Layup,11,17
+11:34,Northeastern,Donnell Gresham Jr.,Foul,11,17
+11:34,Kansas,Devon Dotson,Free Throw,11,18
+11:05,Northeastern,Shawn Occeus,Jumper,13,18
+11:05,Kansas,Ochai Agbaji,Foul,13,18
+11:05,Northeastern,Shawn Occeus,Free Throw,14,18
+10:38,Kansas,K.J. Lawson,Missed Jumper,14,18
+10:38,Northeastern,Donnell Gresham Jr.,Defensive Rebound,14,18
+10:29,Northeastern,Donnell Gresham Jr.,Layup,16,18
+10:19,Kansas,Ochai Agbaji,Turnover,16,18
+10:01,Northeastern,Bolden Brace,Missed Layup,16,18
+10:01,Northeastern,Shawn Occeus,Offensive Rebound,16,18
+9:50,Northeastern,Vasa Pusica,Missed Layup,16,18
+9:50,Kansas,Quentin Grimes,Defensive Rebound,16,18
+9:42,Kansas,Marcus Garrett,Turnover,16,18
+9:28,Northeastern,Shawn Occeus,Missed Three Point Jumper,16,18
+9:28,Kansas,Ochai Agbaji,Defensive Rebound,16,18
+9:18,Kansas,Mitch Lightfoot,Dunk,16,20
+8:49,Kansas,Ochai Agbaji,Foul,16,20
+8:39,Northeastern,Vasa Pusica,Missed Layup,16,20
+8:39,Kansas,Mitch Lightfoot,Block,16,20
+8:39,Kansas,Marcus Garrett,Defensive Rebound,16,20
+8:22,Kansas,Charlie Moore,Missed Three Point Jumper,16,20
+8:22,Northeastern,Bolden Brace,Defensive Rebound,16,20
+8:06,Northeastern,Jordan Roland,Missed Three Point Jumper,16,20
+8:06,Northeastern,Bolden Brace,Offensive Rebound,16,20
+8:02,Northeastern,Vasa Pusica,Three Point Jumper,19,20
+7:34,Kansas,Devon Dotson,Layup,19,22
+7:16,Northeastern,Jordan Roland,Missed Three Point Jumper,19,22
+7:16,Kansas,Mitch Lightfoot,Defensive Rebound,19,22
+7:04,Kansas,Devon Dotson,Missed Three Point Jumper,19,22
+7:04,Northeastern,Bolden Brace,Defensive Rebound,19,22
+6:52,Northeastern,Vasa Pusica,Missed Three Point Jumper,19,22
+6:52,Kansas,Devon Dotson,Defensive Rebound,19,22
+6:35,Kansas,Charlie Moore,Missed Layup,19,22
+6:35,Northeastern,Donnell Gresham Jr.,Defensive Rebound,19,22
+6:28,Northeastern,Donnell Gresham Jr.,Missed Layup,19,22
+6:28,Kansas,Mitch Lightfoot,Defensive Rebound,19,22
+6:21,Kansas,None,None,19,22
+6:13,Kansas,Dedric Lawson,Layup,19,24
+5:42,Northeastern,Shawn Occeus,Turnover,19,24
+5:42,Kansas,Mitch Lightfoot,Steal,19,24
+5:34,Kansas,K.J. Lawson,Layup,19,26
+5:14,Northeastern,Tomas Murphy,Missed Jumper,19,26
+5:14,Kansas,Dedric Lawson,Defensive Rebound,19,26
+5:04,Kansas,K.J. Lawson,Jumper,19,28
+4:59,Northeastern,None,None,19,28
+4:59,Kansas,None,None,19,28
+4:33,Kansas,Mitch Lightfoot,Foul,19,28
+4:33,Northeastern,Anthony Green,Missed Free Throw,19,28
+4:33,Northeastern,None,Team Rebound,19,28
+4:33,Northeastern,Anthony Green,Missed Free Throw,19,28
+4:33,Kansas,Mitch Lightfoot,Defensive Rebound,19,28
+4:06,Kansas,Dedric Lawson,Three Point Jumper,19,31
+3:53,Northeastern,Bolden Brace,Three Point Jumper,22,31
+3:40,Kansas,Dedric Lawson,Missed Layup,22,31
+3:40,Kansas,Mitch Lightfoot,Offensive Rebound,22,31
+3:36,Kansas,Mitch Lightfoot,Turnover,22,31
+3:36,Northeastern,Donnell Gresham Jr.,Steal,22,31
+3:32,Northeastern,Jordan Roland,Missed Three Point Jumper,22,31
+3:32,Kansas,Kansas,Defensive Rebound,22,31
+3:29,Kansas,None,None,22,31
+3:23,Kansas,Dedric Lawson,Missed Jumper,22,31
+3:23,Kansas,Dedric Lawson,Offensive Rebound,22,31
+3:18,Kansas,Dedric Lawson,Layup,22,33
+2:54,Kansas,Dedric Lawson,Foul,22,33
+2:54,Northeastern,Anthony Green,Free Throw,23,33
+2:54,Northeastern,Anthony Green,Free Throw,24,33
+2:38,Kansas,Quentin Grimes,Missed Three Point Jumper,24,33
+2:38,Northeastern,Anthony Green,Defensive Rebound,24,33
+2:22,Northeastern,Vasa Pusica,Missed Layup,24,33
+2:22,Kansas,Quentin Grimes,Block,24,33
+2:22,Northeastern,Northeastern,Offensive Rebound,24,33
+2:06,Northeastern,Shawn Occeus,Turnover,24,33
+2:06,Kansas,Devon Dotson,Steal,24,33
+1:55,Kansas,Dedric Lawson,Layup,24,35
+1:32,Northeastern,Shawn Occeus,Missed Three Point Jumper,24,35
+1:32,Kansas,Devon Dotson,Defensive Rebound,24,35
+1:27,Kansas,K.J. Lawson,Missed Layup,24,35
+1:27,Northeastern,Bolden Brace,Block,24,35
+1:27,Kansas,Kansas,Offensive Rebound,24,35
+1:16,Kansas,Dedric Lawson,Missed Jumper,24,35
+1:16,Northeastern,Donnell Gresham Jr.,Defensive Rebound,24,35
+1:10,Kansas,Quentin Grimes,Foul,24,35
+1:10,Northeastern,Donnell Gresham Jr.,Missed Free Throw,24,35
+1:10,Northeastern,None,Team Rebound,24,35
+1:10,Northeastern,Donnell Gresham Jr.,Free Throw,25,35
+1:01,Northeastern,Donnell Gresham Jr.,Foul,25,35
+0:55,Kansas,Dedric Lawson,Missed Jumper,25,35
+0:55,Northeastern,Vasa Pusica,Defensive Rebound,25,35
+0:40,Northeastern,Vasa Pusica,Missed Layup,25,35
+0:40,Kansas,Dedric Lawson,Defensive Rebound,25,35
+0:38,Kansas,Devon Dotson,Layup,25,37
+0:03,Northeastern,Donnell Gresham Jr.,Missed Three Point Jumper,25,37
+0:03,Northeastern,Northeastern,Offensive Rebound,25,37
+0:03,Northeastern,Northeastern ,Turnover,25,37
+0:01,Kansas,Devon Dotson,Missed Three Point Jumper,25,37
+0:01,Northeastern,Donnell Gresham Jr.,Defensive Rebound,25,37
+0:00,Kansas,None,None,25,37
+20:00,Kansas,None,None,25,37
+19:44,Northeastern,Bolden Brace,Foul,25,37
+19:40,Kansas,Dedric Lawson,Turnover,25,37
+19:40,Northeastern,Anthony Green,Steal,25,37
+19:15,Northeastern,Jordan Roland,Missed Three Point Jumper,25,37
+19:15,Kansas,Mitch Lightfoot,Defensive Rebound,25,37
+18:52,Kansas,Marcus Garrett,Missed Jumper,25,37
+18:52,Northeastern,Bolden Brace,Defensive Rebound,25,37
+18:25,Northeastern,Jordan Roland,Jumper,27,37
+17:58,Northeastern,Bolden Brace,Foul,27,37
+17:58,Kansas,Mitch Lightfoot,Foul,27,37
+17:58,Kansas,Mitch Lightfoot,Turnover,27,37
+17:43,Northeastern,Jordan Roland,Missed Three Point Jumper,27,37
+17:43,Northeastern,Anthony Green,Offensive Rebound,27,37
+17:41,Kansas,Marcus Garrett,Foul,27,37
+17:41,Northeastern,Anthony Green,Free Throw,28,37
+17:41,Northeastern,Anthony Green,Missed Free Throw,28,37
+17:41,Kansas,Ochai Agbaji,Defensive Rebound,28,37
+17:26,Kansas,Ochai Agbaji,Turnover,28,37
+17:26,Northeastern,Vasa Pusica,Steal,28,37
+17:10,Northeastern,Anthony Green,Layup,30,37
+17:06,Kansas,None,None,30,37
+16:44,Kansas,Quentin Grimes,Three Point Jumper,30,40
+16:20,Northeastern,Anthony Green,Missed Jumper,30,40
+16:20,Kansas,Dedric Lawson,Defensive Rebound,30,40
+16:13,Kansas,Dedric Lawson,Three Point Jumper,30,43
+15:39,Northeastern,Vasa Pusica,Missed Three Point Jumper,30,43
+15:39,Kansas,Marcus Garrett,Defensive Rebound,30,43
+15:26,Kansas,Dedric Lawson,Layup,30,45
+15:11,Kansas,None,None,30,45
+15:04,Northeastern,Tomas Murphy,Missed Jumper,30,45
+15:04,Kansas,K.J. Lawson,Defensive Rebound,30,45
+14:51,Kansas,Devon Dotson,Layup,30,47
+14:29,Northeastern,Jordan Roland,Layup,32,47
+14:22,Kansas,Devon Dotson,Missed Layup,32,47
+14:22,Northeastern,Bolden Brace,Defensive Rebound,32,47
+14:15,Northeastern,Donnell Gresham Jr.,Missed Three Point Jumper,32,47
+14:15,Kansas,Dedric Lawson,Defensive Rebound,32,47
+14:05,Kansas,K.J. Lawson,Layup,32,49
+14:05,Northeastern,Tomas Murphy,Foul,32,49
+14:05,Kansas,K.J. Lawson,Missed Free Throw,32,49
+14:05,Northeastern,Bolden Brace,Defensive Rebound,32,49
+13:48,Northeastern,Tomas Murphy,Missed Jumper,32,49
+13:48,Kansas,K.J. Lawson,Defensive Rebound,32,49
+13:31,Kansas,Quentin Grimes,Turnover,32,49
+13:07,Northeastern,Shawn Occeus,Missed Layup,32,49
+13:07,Kansas,Ochai Agbaji,Block,32,49
+13:07,Kansas,Dedric Lawson,Defensive Rebound,32,49
+13:01,Kansas,K.J. Lawson,Missed Three Point Jumper,32,49
+13:01,Kansas,Ochai Agbaji,Offensive Rebound,32,49
+12:56,Kansas,Ochai Agbaji,Layup,32,51
+12:35,Northeastern,Jordan Roland,Missed Three Point Jumper,32,51
+12:35,Kansas,Dedric Lawson,Defensive Rebound,32,51
+12:26,Kansas,K.J. Lawson,Layup,32,53
+12:26,Northeastern,None,None,32,53
+12:26,Kansas,None,None,32,53
+11:57,Kansas,David McCormack,Foul,32,53
+11:32,Northeastern,Jason Strong,Missed Layup,32,53
+11:32,Kansas,Charlie Moore,Defensive Rebound,32,53
+11:21,Kansas,Ochai Agbaji,Turnover,32,53
+11:21,Northeastern,Anthony Green,Steal,32,53
+11:11,Northeastern,Myles Franklin,Missed Layup,32,53
+11:11,Kansas,David McCormack,Defensive Rebound,32,53
+11:04,Kansas,Charlie Moore,Layup,32,55
+10:51,Northeastern,Vasa Pusica,Three Point Jumper,35,55
+10:21,Kansas,Charlie Moore,Turnover,35,55
+10:21,Northeastern,Vasa Pusica,Steal,35,55
+10:17,Kansas,Quentin Grimes,Foul,35,55
+10:17,Northeastern,Vasa Pusica,Free Throw,36,55
+10:17,Northeastern,Vasa Pusica,Missed Free Throw,36,55
+10:17,Kansas,David McCormack,Defensive Rebound,36,55
+10:08,Kansas,K.J. Lawson,Layup,36,57
+9:55,Northeastern,Jeremy Miller,Turnover,36,57
+9:36,Kansas,Charlie Moore,Missed Three Point Jumper,36,57
+9:36,Kansas,David McCormack,Offensive Rebound,36,57
+9:26,Kansas,Devon Dotson,Layup,36,59
+9:08,Kansas,K.J. Lawson,Foul,36,59
+9:06,Northeastern,Vasa Pusica,Missed Three Point Jumper,36,59
+9:06,Kansas,Devon Dotson,Defensive Rebound,36,59
+8:54,Kansas,K.J. Lawson,Three Point Jumper,36,62
+8:37,Northeastern,Shawn Occeus,Turnover,36,62
+8:37,Kansas,Charlie Moore,Steal,36,62
+8:31,Northeastern,Vasa Pusica,Foul,36,62
+8:26,Kansas,Marcus Garrett,Missed Layup,36,62
+8:26,Kansas,Marcus Garrett,Offensive Rebound,36,62
+8:21,Kansas,Marcus Garrett,Layup,36,64
+8:09,Northeastern,Anthony Green,Turnover,36,64
+8:09,Kansas,Devon Dotson,Steal,36,64
+8:04,Northeastern,Bolden Brace,Foul,36,64
+8:04,Kansas,Devon Dotson,Free Throw,36,65
+8:04,Kansas,Devon Dotson,Free Throw,36,66
+7:43,Kansas,Charlie Moore,Foul,36,66
+7:43,Kansas,None,None,36,66
+7:21,Northeastern,Northeastern ,Turnover,36,66
+6:56,Kansas,K.J. Lawson,Turnover,36,66
+6:56,Northeastern,Bolden Brace,Steal,36,66
+6:45,Northeastern,Bolden Brace,Missed Three Point Jumper,36,66
+6:45,Kansas,David McCormack,Defensive Rebound,36,66
+6:31,Kansas,Devon Dotson,Three Point Jumper,36,69
+6:12,Northeastern,Bolden Brace,Missed Layup,36,69
+6:12,Northeastern,Bolden Brace,Offensive Rebound,36,69
+6:10,Kansas,Devon Dotson,Foul,36,69
+6:10,Northeastern,Bolden Brace,Free Throw,37,69
+6:10,Northeastern,Bolden Brace,Free Throw,38,69
+5:55,Kansas,Dedric Lawson,Missed Layup,38,69
+5:55,Northeastern,Donnell Gresham Jr.,Defensive Rebound,38,69
+5:48,Kansas,Charlie Moore,Foul,38,69
+5:48,Northeastern,Bolden Brace,Free Throw,39,69
+5:48,Northeastern,Bolden Brace,Free Throw,40,69
+5:29,Kansas,Dedric Lawson,Layup,40,71
+5:09,Kansas,Ochai Agbaji,Foul,40,71
+5:09,Northeastern,Donnell Gresham Jr.,Free Throw,41,71
+5:09,Northeastern,Donnell Gresham Jr.,Free Throw,42,71
+4:56,Northeastern,Bolden Brace,Foul,42,71
+4:56,Kansas,Dedric Lawson,Free Throw,42,72
+4:56,Kansas,Dedric Lawson,Free Throw,42,73
+4:32,Northeastern,Vasa Pusica,Missed Layup,42,73
+4:32,Northeastern,Jeremy Miller,Offensive Rebound,42,73
+4:27,Northeastern,Jeremy Miller,Layup,44,73
+4:14,Kansas,Charlie Moore,Turnover,44,73
+4:14,Northeastern,Shawn Occeus,Steal,44,73
+4:11,Northeastern,Shawn Occeus,Layup,46,73
+4:11,Kansas,Dedric Lawson,Foul,46,73
+4:11,Northeastern,Shawn Occeus,Free Throw,47,73
+3:56,Kansas,Quentin Grimes,Missed Three Point Jumper,47,73
+3:56,Kansas,Ochai Agbaji,Offensive Rebound,47,73
+3:51,Kansas,Ochai Agbaji,Layup,47,75
+3:42,Northeastern,Jeremy Miller,Layup,49,75
+3:15,Kansas,Marcus Garrett,Layup,49,77
+2:57,Northeastern,Vasa Pusica,Missed Three Point Jumper,49,77
+2:57,Kansas,Marcus Garrett,Defensive Rebound,49,77
+2:42,Kansas,Devon Dotson,Missed Three Point Jumper,49,77
+2:42,Northeastern,Donnell Gresham Jr.,Defensive Rebound,49,77
+2:36,Northeastern,Donnell Gresham Jr.,Layup,51,77
+2:28,Kansas,None,None,51,77
+2:28,Kansas,None,None,51,77
+2:12,Kansas,Ochai Agbaji,Jumper,51,79
+1:45,Northeastern,Jeremy Miller,Missed Three Point Jumper,51,79
+1:45,Kansas,Mitch Lightfoot,Defensive Rebound,51,79
+1:23,Northeastern,Shawn Occeus,Foul,51,79
+1:23,Kansas,Ochai Agbaji,Free Throw,51,80
+1:23,Kansas,Ochai Agbaji,Free Throw,51,81
+1:19,Kansas,Garrett Luinstra,Foul,51,81
+1:19,Northeastern,Myles Franklin,Free Throw,52,81
+1:19,Northeastern,Myles Franklin,Free Throw,53,81
+1:07,Kansas,Ochai Agbaji,Three Point Jumper,53,84
+0:50,Northeastern,Donnell Gresham Jr.,Missed Three Point Jumper,53,84
+0:50,Kansas,Mitch Lightfoot,Defensive Rebound,53,84
+0:19,Kansas,Mitch Lightfoot,Three Point Jumper,53,87
+0:00,Kansas,None,None,53,87

@@ -1,0 +1,389 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:44,Duke,RJ Barrett,Missed Three Point Jumper,0,0
+19:44,Duke,Marques Bolden,Offensive Rebound,0,0
+19:30,Duke,Zion Williamson,Turnover,0,0
+19:30,North Carolina,Luke Maye,Steal,0,0
+19:24,North Carolina,Cameron Johnson,Layup,2,0
+19:13,Duke,Jack White,Missed Three Point Jumper,2,0
+19:13,North Carolina,Luke Maye,Defensive Rebound,2,0
+18:56,North Carolina,Luke Maye,Layup,4,0
+18:35,Duke,Cam Reddish,Turnover,4,0
+18:29,North Carolina,Coby White,Missed Three Point Jumper,4,0
+18:29,Duke,Tre Jones,Defensive Rebound,4,0
+18:06,Duke,RJ Barrett,Three Point Jumper,4,3
+17:55,North Carolina,Coby White,Missed Layup,4,3
+17:55,Duke,Marques Bolden,Block,4,3
+17:55,North Carolina,North Carolina,Offensive Rebound,4,3
+17:55,North Carolina,Luke Maye,Layup,6,3
+17:37,Duke,Cam Reddish,Missed Jumper,6,3
+17:37,North Carolina,Garrison Brooks,Defensive Rebound,6,3
+17:25,North Carolina,Luke Maye,Jumper,8,3
+17:03,Duke,Jack White,Missed Three Point Jumper,8,3
+17:03,North Carolina,Kenny Williams,Defensive Rebound,8,3
+16:56,North Carolina,Cameron Johnson,Missed Three Point Jumper,8,3
+16:56,Duke,Tre Jones,Defensive Rebound,8,3
+16:33,Duke,Cam Reddish,Turnover,8,3
+16:23,North Carolina,Coby White,Turnover,8,3
+16:23,Duke,Tre Jones,Steal,8,3
+16:18,Duke,Tre Jones,Missed Layup,8,3
+16:18,North Carolina,Coby White,Block,8,3
+16:18,Duke,Duke,Offensive Rebound,8,3
+16:14,Duke,Cam Reddish,Missed Three Point Jumper,8,3
+16:14,North Carolina,Cameron Johnson,Defensive Rebound,8,3
+15:47,North Carolina,Cameron Johnson,Missed Three Point Jumper,8,3
+15:47,Duke,Cam Reddish,Defensive Rebound,8,3
+15:38,Duke,Cam Reddish,Missed Layup,8,3
+15:38,North Carolina,Garrison Brooks,Defensive Rebound,8,3
+15:29,North Carolina,Kenny Williams,Missed Three Point Jumper,8,3
+15:29,North Carolina,Garrison Brooks,Offensive Rebound,8,3
+15:25,North Carolina,Garrison Brooks,Layup,10,3
+15:05,Duke,Cam Reddish,Three Point Jumper,10,6
+14:58,Duke,Marques Bolden,Foul,10,6
+14:58,Duke,None,None,10,6
+14:58,North Carolina,Cameron Johnson,Free Throw,11,6
+14:58,North Carolina,Cameron Johnson,Free Throw,12,6
+14:45,Duke,RJ Barrett,Missed Three Point Jumper,12,6
+14:45,Duke,Marques Bolden,Offensive Rebound,12,6
+14:28,Duke,Marques Bolden,Foul,12,6
+14:28,Duke,Marques Bolden,Turnover,12,6
+14:20,North Carolina,Coby White,Missed Three Point Jumper,12,6
+14:20,North Carolina,Cameron Johnson,Offensive Rebound,12,6
+14:16,North Carolina,Cameron Johnson,Layup,14,6
+13:59,North Carolina,Nassir Little,Foul,14,6
+13:59,Duke,Cam Reddish,Missed Free Throw,14,6
+13:59,Duke,None,Team Rebound,14,6
+13:59,Duke,Cam Reddish,Free Throw,14,7
+13:48,North Carolina,Cameron Johnson,Dunk,16,7
+13:31,Duke,Cam Reddish,Missed Three Point Jumper,16,7
+13:31,Duke,Jack White,Offensive Rebound,16,7
+13:18,Duke,RJ Barrett,Jumper,16,9
+13:06,North Carolina,Nassir Little,Jumper,18,9
+12:50,Duke,Tre Jones,Missed Three Point Jumper,18,9
+12:50,North Carolina,Kenny Williams,Defensive Rebound,18,9
+12:39,North Carolina,Luke Maye,Missed Three Point Jumper,18,9
+12:39,Duke,Tre Jones,Defensive Rebound,18,9
+12:32,Duke,Cam Reddish,Missed Three Point Jumper,18,9
+12:32,North Carolina,Cameron Johnson,Defensive Rebound,18,9
+12:24,North Carolina,Luke Maye,Layup,20,9
+12:00,Duke,RJ Barrett,Missed Jumper,20,9
+12:00,North Carolina,Coby White,Block,20,9
+12:00,Duke,Duke,Offensive Rebound,20,9
+11:56,Duke,None,None,20,9
+11:52,Duke,Javin DeLaurier,Dunk,20,11
+11:45,North Carolina,Coby White,Turnover,20,11
+11:45,Duke,Javin DeLaurier,Steal,20,11
+11:41,Duke,Javin DeLaurier,Dunk,20,13
+11:30,North Carolina,Coby White,Turnover,20,13
+11:23,Duke,Tre Jones,Missed Jumper,20,13
+11:23,North Carolina,Garrison Brooks,Defensive Rebound,20,13
+11:05,North Carolina,Garrison Brooks,Layup,22,13
+10:50,Duke,Cam Reddish,Jumper,22,15
+10:42,North Carolina,Nassir Little,Missed Jumper,22,15
+10:42,North Carolina,Luke Maye,Offensive Rebound,22,15
+10:37,North Carolina,Luke Maye,Layup,24,15
+10:12,Duke,Tre Jones,Missed Layup,24,15
+10:12,Duke,RJ Barrett,Offensive Rebound,24,15
+10:12,Duke,None,None,24,17
+10:06,North Carolina,Luke Maye,Turnover,24,17
+10:06,Duke,Tre Jones,Steal,24,17
+10:01,Duke,Tre Jones,Turnover,24,17
+9:53,North Carolina,Garrison Brooks,Dunk,26,17
+9:32,Duke,Jack White,Missed Three Point Jumper,26,17
+9:32,Duke,Alex O'Connell,Offensive Rebound,26,17
+9:24,Duke,Alex O'Connell,Missed Three Point Jumper,26,17
+9:24,Duke,Jack White,Offensive Rebound,26,17
+9:18,Duke,RJ Barrett,Missed Three Point Jumper,26,17
+9:18,North Carolina,Garrison Brooks,Defensive Rebound,26,17
+9:09,North Carolina,Nassir Little,Turnover,26,17
+8:43,Duke,Tre Jones,Foul,26,17
+8:43,Duke,Tre Jones,Turnover,26,17
+8:34,North Carolina,Brandon Robinson,Missed Three Point Jumper,26,17
+8:34,North Carolina,Garrison Brooks,Offensive Rebound,26,17
+8:25,North Carolina,Luke Maye,Layup,28,17
+8:02,Duke,RJ Barrett,Missed Layup,28,17
+8:02,North Carolina,Luke Maye,Defensive Rebound,28,17
+7:52,North Carolina,Seventh Woods,Turnover,28,17
+7:52,Duke,Jack White,Steal,28,17
+7:40,Duke,RJ Barrett,Turnover,28,17
+7:40,North Carolina,Garrison Brooks,Steal,28,17
+7:32,North Carolina,Luke Maye,Missed Jumper,28,17
+7:32,Duke,Jack White,Defensive Rebound,28,17
+7:15,Duke,Alex O'Connell,Missed Three Point Jumper,28,17
+7:15,North Carolina,Luke Maye,Defensive Rebound,28,17
+6:57,North Carolina,Cameron Johnson,Missed Three Point Jumper,28,17
+6:57,North Carolina,Brandon Robinson,Offensive Rebound,28,17
+6:52,North Carolina,Brandon Robinson,Missed Three Point Jumper,28,17
+6:52,Duke,Tre Jones,Defensive Rebound,28,17
+6:20,Duke,Tre Jones,Missed Three Point Jumper,28,17
+6:20,North Carolina,Brandon Robinson,Defensive Rebound,28,17
+6:07,North Carolina,Garrison Brooks,Missed Dunk,28,17
+6:07,North Carolina,Luke Maye,Offensive Rebound,28,17
+6:04,North Carolina,Luke Maye,Layup,30,17
+6:02,Duke,None,None,30,17
+5:53,Duke,RJ Barrett,Missed Three Point Jumper,30,17
+5:53,North Carolina,None,Team Rebound,30,17
+5:48,Duke,Javin DeLaurier,Foul,30,17
+5:33,North Carolina,Coby White,Missed Three Point Jumper,30,17
+5:33,Duke,Tre Jones,Defensive Rebound,30,17
+5:21,Duke,Cam Reddish,Jumper,30,19
+5:21,North Carolina,Brandon Robinson,Foul,30,19
+5:21,Duke,Cam Reddish,Free Throw,30,20
+5:08,North Carolina,Coby White,Missed Jumper,30,20
+5:08,Duke,RJ Barrett,Defensive Rebound,30,20
+4:57,Duke,RJ Barrett,Jumper,30,22
+4:41,North Carolina,Cameron Johnson,Missed Three Point Jumper,30,22
+4:41,Duke,RJ Barrett,Defensive Rebound,30,22
+4:29,Duke,Cam Reddish,Missed Three Point Jumper,30,22
+4:29,Duke,Javin DeLaurier,Offensive Rebound,30,22
+4:23,Duke,Javin DeLaurier,Turnover,30,22
+4:23,North Carolina,Cameron Johnson,Steal,30,22
+4:18,North Carolina,Cameron Johnson,Layup,32,22
+4:04,Duke,Jordan Goldwire,Missed Three Point Jumper,32,22
+4:04,North Carolina,Coby White,Defensive Rebound,32,22
+3:56,North Carolina,Luke Maye,Missed Layup,32,22
+3:56,Duke,Javin DeLaurier,Block,32,22
+3:56,North Carolina,Kenny Williams,Offensive Rebound,32,22
+3:47,North Carolina,Kenny Williams,Missed Three Point Jumper,32,22
+3:47,Duke,RJ Barrett,Defensive Rebound,32,22
+3:42,Duke,Cam Reddish,Layup,32,24
+3:33,North Carolina,Coby White,Foul,32,24
+3:33,North Carolina,Coby White,Turnover,32,24
+3:33,Duke,None,None,32,24
+3:25,Duke,RJ Barrett,Jumper,32,26
+3:11,North Carolina,Luke Maye,Three Point Jumper,35,26
+2:45,Duke,Cam Reddish,Missed Jumper,35,26
+2:45,North Carolina,Nassir Little,Defensive Rebound,35,26
+2:42,North Carolina,Nassir Little,Turnover,35,26
+2:42,Duke,Cam Reddish,Steal,35,26
+2:40,Duke,Cam Reddish,Layup,35,28
+2:13,North Carolina,Coby White,Layup,37,28
+2:07,Duke,RJ Barrett,Dunk,37,30
+1:56,North Carolina,Coby White,Missed Jumper,37,30
+1:56,Duke,Marques Bolden,Block,37,30
+1:56,Duke,Tre Jones,Defensive Rebound,37,30
+1:50,Duke,Tre Jones,Foul,37,30
+1:50,Duke,Tre Jones,Turnover,37,30
+1:39,North Carolina,Luke Maye,Missed Three Point Jumper,37,30
+1:39,Duke,RJ Barrett,Defensive Rebound,37,30
+1:30,North Carolina,Seventh Woods,Foul,37,30
+1:30,Duke,RJ Barrett,Free Throw,37,31
+1:30,Duke,RJ Barrett,Free Throw,37,32
+1:23,North Carolina,Luke Maye,Missed Jumper,37,32
+1:23,Duke,RJ Barrett,Defensive Rebound,37,32
+1:15,Duke,RJ Barrett,Missed Three Point Jumper,37,32
+1:15,North Carolina,Luke Maye,Defensive Rebound,37,32
+1:04,Duke,Javin DeLaurier,Foul,37,32
+1:04,North Carolina,Luke Maye,Missed Free Throw,37,32
+1:04,North Carolina,None,Team Rebound,37,32
+1:04,North Carolina,Luke Maye,Free Throw,38,32
+0:56,Duke,Tre Jones,Missed Jumper,38,32
+0:56,North Carolina,Cameron Johnson,Defensive Rebound,38,32
+0:40,Duke,Javin DeLaurier,Foul,38,32
+0:40,North Carolina,Cameron Johnson,Free Throw,39,32
+0:40,North Carolina,Cameron Johnson,Free Throw,40,32
+0:18,Duke,Cam Reddish,Missed Three Point Jumper,40,32
+0:18,North Carolina,Seventh Woods,Defensive Rebound,40,32
+0:11,North Carolina,Cameron Johnson,Missed Layup,40,32
+0:11,Duke,Cam Reddish,Defensive Rebound,40,32
+0:08,Duke,Cam Reddish,Turnover,40,32
+0:08,North Carolina,Seventh Woods,Steal,40,32
+0:01,North Carolina,Garrison Brooks,Dunk,42,32
+0:00,Duke,None,None,42,32
+20:00,North Carolina,None,None,42,32
+19:49,North Carolina,Cameron Johnson,Jumper,44,32
+19:29,Duke,Marques Bolden,Missed Jumper,44,32
+19:29,North Carolina,Luke Maye,Defensive Rebound,44,32
+19:17,North Carolina,Coby White,Missed Jumper,44,32
+19:17,Duke,Alex O'Connell,Defensive Rebound,44,32
+19:07,Duke,Cam Reddish,Three Point Jumper,44,35
+18:43,North Carolina,Cameron Johnson,Layup,46,35
+18:23,Duke,RJ Barrett,Layup,46,37
+18:12,North Carolina,Luke Maye,Jumper,48,37
+17:48,Duke,RJ Barrett,Turnover,48,37
+17:48,North Carolina,Garrison Brooks,Steal,48,37
+17:41,Duke,Alex O'Connell,Foul,48,37
+17:35,North Carolina,Luke Maye,Layup,50,37
+17:25,Duke,Cam Reddish,Missed Three Point Jumper,50,37
+17:25,North Carolina,Luke Maye,Defensive Rebound,50,37
+17:18,North Carolina,Coby White,Layup,52,37
+17:08,Duke,None,None,52,37
+17:02,Duke,Alex O'Connell,Missed Three Point Jumper,52,37
+17:02,North Carolina,Coby White,Defensive Rebound,52,37
+16:44,North Carolina,Cameron Johnson,Jumper,54,37
+16:30,North Carolina,Cameron Johnson,Foul,54,37
+16:26,Duke,Tre Jones,Missed Three Point Jumper,54,37
+16:26,North Carolina,Luke Maye,Defensive Rebound,54,37
+16:11,North Carolina,Coby White,Three Point Jumper,57,37
+16:03,Duke,Alex O'Connell,Missed Layup,57,37
+16:03,North Carolina,Coby White,Defensive Rebound,57,37
+15:58,North Carolina,Cameron Johnson,Layup,59,37
+15:54,Duke,None,None,59,37
+15:47,Duke,Cam Reddish,Jumper,59,39
+15:23,North Carolina,Coby White,Turnover,59,39
+15:23,Duke,Tre Jones,Steal,59,39
+15:20,Duke,RJ Barrett,Turnover,59,39
+15:20,North Carolina,Brandon Robinson,Steal,59,39
+14:56,North Carolina,Luke Maye,Missed Three Point Jumper,59,39
+14:56,Duke,Javin DeLaurier,Defensive Rebound,59,39
+14:40,Duke,Cam Reddish,Layup,59,41
+14:40,North Carolina,Brandon Robinson,Foul,59,41
+14:40,Duke,Cam Reddish,Free Throw,59,42
+14:27,North Carolina,Coby White,Missed Three Point Jumper,59,42
+14:27,Duke,RJ Barrett,Defensive Rebound,59,42
+14:23,Duke,RJ Barrett,Turnover,59,42
+14:23,North Carolina,Luke Maye,Steal,59,42
+14:12,North Carolina,Luke Maye,Layup,61,42
+13:51,Duke,RJ Barrett,Three Point Jumper,61,45
+13:36,Duke,Jack White,Foul,61,45
+13:26,North Carolina,Cameron Johnson,Jumper,63,45
+13:09,Duke,Jack White,Missed Three Point Jumper,63,45
+13:09,North Carolina,Cameron Johnson,Defensive Rebound,63,45
+12:58,North Carolina,Nassir Little,Missed Jumper,63,45
+12:58,Duke,Jack White,Block,63,45
+12:58,Duke,RJ Barrett,Defensive Rebound,63,45
+12:49,Duke,Tre Jones,Three Point Jumper,63,48
+12:38,North Carolina,Nassir Little,Turnover,63,48
+12:38,Duke,Javin DeLaurier,Steal,63,48
+12:36,Duke,Javin DeLaurier,Turnover,63,48
+12:36,North Carolina,Cameron Johnson,Steal,63,48
+12:11,North Carolina,Brandon Robinson,Missed Three Point Jumper,63,48
+12:11,Duke,Tre Jones,Defensive Rebound,63,48
+12:00,North Carolina,Luke Maye,Foul,63,48
+12:00,Duke,None,None,63,48
+11:45,Duke,Jack White,Turnover,63,48
+11:45,Duke,Jack White,Foul,63,48
+11:38,North Carolina,Coby White,Missed Three Point Jumper,63,48
+11:38,Duke,Cam Reddish,Block,63,48
+11:38,Duke,Tre Jones,Defensive Rebound,63,48
+11:31,Duke,RJ Barrett,Missed Three Point Jumper,63,48
+11:31,North Carolina,Luke Maye,Defensive Rebound,63,48
+11:03,North Carolina,Luke Maye,Layup,65,48
+10:50,Duke,Cam Reddish,Three Point Jumper,65,51
+10:40,North Carolina,Luke Maye,Jumper,67,51
+10:33,North Carolina,Cameron Johnson,Foul,67,51
+10:29,Duke,Cam Reddish,Missed Layup,67,51
+10:29,North Carolina,Luke Maye,Defensive Rebound,67,51
+10:20,North Carolina,Seventh Woods,Missed Jumper,67,51
+10:20,Duke,Tre Jones,Block,67,51
+10:20,Duke,Duke,Defensive Rebound,67,51
+10:08,North Carolina,Kenny Williams,Foul,67,51
+10:08,Duke,RJ Barrett,Free Throw,67,52
+10:08,Duke,RJ Barrett,Missed Free Throw,67,52
+10:08,North Carolina,Cameron Johnson,Defensive Rebound,67,52
+9:49,North Carolina,Kenny Williams,Missed Three Point Jumper,67,52
+9:49,Duke,Cam Reddish,Defensive Rebound,67,52
+9:40,Duke,RJ Barrett,Layup,67,54
+9:26,North Carolina,Garrison Brooks,Layup,69,54
+9:10,North Carolina,Brandon Robinson,Foul,69,54
+9:10,Duke,Alex O'Connell,Free Throw,69,55
+9:10,Duke,Alex O'Connell,Missed Free Throw,69,55
+9:10,North Carolina,Brandon Robinson,Defensive Rebound,69,55
+9:01,North Carolina,Seventh Woods,Layup,71,55
+8:44,Duke,RJ Barrett,Turnover,71,55
+8:44,North Carolina,Seventh Woods,Steal,71,55
+8:33,Duke,Marques Bolden,Foul,71,55
+8:33,North Carolina,Seventh Woods,Missed Free Throw,71,55
+8:33,North Carolina,None,Team Rebound,71,55
+8:33,North Carolina,Seventh Woods,Free Throw,72,55
+8:25,Duke,Tre Jones,Missed Three Point Jumper,72,55
+8:25,Duke,Alex O'Connell,Offensive Rebound,72,55
+8:13,Duke,RJ Barrett,Missed Three Point Jumper,72,55
+8:13,North Carolina,Garrison Brooks,Defensive Rebound,72,55
+8:04,North Carolina,Seventh Woods,Layup,74,55
+7:48,Duke,Tre Jones,Missed Three Point Jumper,74,55
+7:48,Duke,RJ Barrett,Offensive Rebound,74,55
+7:44,Duke,RJ Barrett,Layup,74,57
+7:40,North Carolina,Seventh Woods,Turnover,74,57
+7:40,Duke,Tre Jones,Steal,74,57
+7:30,Duke,Jack White,Missed Three Point Jumper,74,57
+7:30,Duke,Javin DeLaurier,Offensive Rebound,74,57
+7:23,Duke,Jack White,Foul,74,57
+7:23,Duke,Jack White,Turnover,74,57
+7:23,Duke,None,None,74,57
+7:05,North Carolina,Luke Maye,Missed Jumper,74,57
+7:05,Duke,Alex O'Connell,Defensive Rebound,74,57
+6:51,Duke,RJ Barrett,Missed Jumper,74,57
+6:51,North Carolina,Kenny Williams,Defensive Rebound,74,57
+6:39,North Carolina,Garrison Brooks,Layup,76,57
+6:25,North Carolina,Brandon Robinson,Foul,76,57
+6:25,Duke,Cam Reddish,Missed Free Throw,76,57
+6:25,North Carolina,Luke Maye,Defensive Rebound,76,57
+6:00,North Carolina,Coby White,Turnover,76,57
+6:00,Duke,Javin DeLaurier,Steal,76,57
+5:55,Duke,Javin DeLaurier,Dunk,76,59
+5:31,North Carolina,Coby White,Missed Jumper,76,59
+5:31,Duke,RJ Barrett,Block,76,59
+5:31,Duke,Javin DeLaurier,Defensive Rebound,76,59
+5:23,Duke,Cam Reddish,Foul,76,59
+5:23,Duke,Cam Reddish,Turnover,76,59
+5:18,North Carolina,Seventh Woods,Turnover,76,59
+5:18,Duke,Jordan Goldwire,Steal,76,59
+5:11,Duke,Jordan Goldwire,Turnover,76,59
+5:11,North Carolina,Kenny Williams,Steal,76,59
+5:10,Duke,Javin DeLaurier,Foul,76,59
+5:10,North Carolina,Seventh Woods,Foul,76,59
+5:10,North Carolina,Seventh Woods,Missed Free Throw,76,59
+5:10,North Carolina,None,Team Rebound,76,59
+5:10,Duke,Jack White,Free Throw,76,60
+5:10,Duke,Jack White,Free Throw,76,61
+5:02,Duke,Cam Reddish,Missed Three Point Jumper,76,61
+5:02,North Carolina,Luke Maye,Defensive Rebound,76,61
+4:32,North Carolina,Luke Maye,Layup,78,61
+4:18,Duke,Tre Jones,Missed Layup,78,61
+4:18,North Carolina,Kenny Williams,Defensive Rebound,78,61
+4:03,North Carolina,Luke Maye,Missed Layup,78,61
+4:03,Duke,RJ Barrett,Defensive Rebound,78,61
+3:55,Duke,Jordan Goldwire,Missed Jumper,78,61
+3:55,Duke,RJ Barrett,Offensive Rebound,78,61
+3:52,North Carolina,Kenny Williams,Foul,78,61
+3:52,Duke,None,None,78,61
+3:52,Duke,RJ Barrett,Free Throw,78,62
+3:52,Duke,RJ Barrett,Free Throw,78,63
+3:34,Duke,Tre Jones,Foul,78,63
+3:34,North Carolina,Garrison Brooks,Free Throw,79,63
+3:34,North Carolina,Garrison Brooks,Free Throw,80,63
+3:26,Duke,Cam Reddish,Missed Jumper,80,63
+3:26,North Carolina,Coby White,Defensive Rebound,80,63
+3:04,North Carolina,Coby White,Missed Layup,80,63
+3:04,Duke,Jack White,Block,80,63
+3:04,Duke,RJ Barrett,Defensive Rebound,80,63
+2:57,North Carolina,Cameron Johnson,Foul,80,63
+2:57,Duke,RJ Barrett,Missed Free Throw,80,63
+2:57,Duke,None,Team Rebound,80,63
+2:57,Duke,RJ Barrett,Free Throw,80,64
+2:45,North Carolina,North Carolina ,Turnover,80,64
+2:44,Duke,Cam Reddish,Three Point Jumper,80,67
+2:44,Duke,None,None,80,67
+2:44,North Carolina,None,None,80,67
+2:35,North Carolina,Luke Maye,Turnover,80,67
+2:35,Duke,Jordan Goldwire,Steal,80,67
+2:31,Duke,RJ Barrett,Missed Three Point Jumper,80,67
+2:31,North Carolina,Cameron Johnson,Defensive Rebound,80,67
+2:21,North Carolina,Kenny Williams,Layup,82,67
+2:11,Duke,Jordan Goldwire,Missed Three Point Jumper,82,67
+2:11,North Carolina,Luke Maye,Defensive Rebound,82,67
+2:01,North Carolina,Cameron Johnson,Missed Jumper,82,67
+2:01,North Carolina,Garrison Brooks,Offensive Rebound,82,67
+1:52,North Carolina,Cameron Johnson,Layup,84,67
+1:52,Duke,Jack White,Foul,84,67
+1:52,North Carolina,Cameron Johnson,Missed Free Throw,84,67
+1:52,Duke,RJ Barrett,Defensive Rebound,84,67
+1:52,North Carolina,Garrison Brooks,Foul,84,67
+1:52,Duke,RJ Barrett,Free Throw,84,68
+1:52,Duke,RJ Barrett,Free Throw,84,69
+1:51,Duke,Jordan Goldwire,Foul,84,69
+1:51,North Carolina,Coby White,Free Throw,85,69
+1:51,North Carolina,Coby White,Free Throw,86,69
+1:35,Duke,Jack White,Turnover,86,69
+1:19,North Carolina,Cameron Johnson,Jumper,88,69
+1:10,Duke,RJ Barrett,Three Point Jumper,88,72
+1:10,Duke,None,None,88,72
+0:44,North Carolina,Luke Maye,Missed Layup,88,72
+0:44,North Carolina,Luke Maye,Offensive Rebound,88,72
+0:40,North Carolina,Luke Maye,Missed Layup,88,72
+0:40,Duke,Duke,Defensive Rebound,88,72
+0:37,Duke,Cam Reddish,Missed Three Point Jumper,88,72
+0:37,North Carolina,Coby White,Defensive Rebound,88,72
+0:02,North Carolina,North Carolina ,Turnover,88,72
+0:00,Duke,None,None,88,72

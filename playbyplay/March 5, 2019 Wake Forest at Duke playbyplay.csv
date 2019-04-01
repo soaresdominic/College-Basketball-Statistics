@@ -1,0 +1,355 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Wake Forest,None,None,0,0
+19:42,Wake Forest,Jaylen Hoard,Foul,0,0
+19:42,Wake Forest,Jaylen Hoard,Turnover,0,0
+19:30,Duke,RJ Barrett,Foul,0,0
+19:30,Duke,RJ Barrett,Turnover,0,0
+19:19,Wake Forest,Chaundee Brown,Missed Jumper,0,0
+19:19,Duke,Cam Reddish,Defensive Rebound,0,0
+19:10,Duke,Alex O'Connell,Missed Three Point Jumper,0,0
+19:10,Wake Forest,Chaundee Brown,Defensive Rebound,0,0
+18:49,Duke,Alex O'Connell,Foul,0,0
+18:49,Wake Forest,Jaylen Hoard,Missed Free Throw,0,0
+18:49,Wake Forest,None,Team Rebound,0,0
+18:49,Wake Forest,Jaylen Hoard,Free Throw,1,0
+18:34,Duke,RJ Barrett,Missed Three Point Jumper,1,0
+18:34,Wake Forest,Brandon Childress,Defensive Rebound,1,0
+18:20,Wake Forest,Ikenna Smart,Layup,3,0
+18:14,Duke,Cam Reddish,Missed Jumper,3,0
+18:14,Wake Forest,Ikenna Smart,Defensive Rebound,3,0
+18:06,Wake Forest,Brandon Childress,Turnover,3,0
+18:06,Duke,Tre Jones,Steal,3,0
+18:02,Duke,RJ Barrett,Layup,3,2
+18:02,Wake Forest,Sharone Wright Jr.,Foul,3,2
+18:02,Duke,RJ Barrett,Missed Free Throw,3,2
+18:02,Wake Forest,Jaylen Hoard,Defensive Rebound,3,2
+17:58,Wake Forest,Chaundee Brown,Missed Layup,3,2
+17:58,Duke,Antonio Vrankovic,Block,3,2
+17:58,Duke,Tre Jones,Defensive Rebound,3,2
+17:50,Duke,Cam Reddish,Missed Three Point Jumper,3,2
+17:50,Wake Forest,Ikenna Smart,Defensive Rebound,3,2
+17:45,Wake Forest,Brandon Childress,Turnover,3,2
+17:33,Duke,Cam Reddish,Foul,3,2
+17:33,Duke,Cam Reddish,Turnover,3,2
+17:11,Wake Forest,Jaylen Hoard,Jumper,5,2
+16:58,Duke,RJ Barrett,Missed Jumper,5,2
+16:58,Wake Forest,Chaundee Brown,Defensive Rebound,5,2
+16:51,Wake Forest,Chaundee Brown,Missed Three Point Jumper,5,2
+16:51,Duke,Tre Jones,Defensive Rebound,5,2
+16:43,Duke,Tre Jones,Jumper,5,4
+16:14,Wake Forest,Jaylen Hoard,Three Point Jumper,8,4
+15:56,Duke,Alex O'Connell,Three Point Jumper,8,7
+15:36,Wake Forest,Brandon Childress,Missed Jumper,8,7
+15:36,Duke,Marques Bolden,Block,8,7
+15:36,Duke,Tre Jones,Defensive Rebound,8,7
+15:30,Duke,Alex O'Connell,Missed Three Point Jumper,8,7
+15:30,Wake Forest,Wake Forest,Defensive Rebound,8,7
+15:26,Duke,None,None,8,7
+14:58,Wake Forest,Isaiah Mucius,Missed Three Point Jumper,8,7
+14:58,Wake Forest,Ikenna Smart,Offensive Rebound,8,7
+14:53,Wake Forest,Ikenna Smart,Missed Layup,8,7
+14:53,Duke,Marques Bolden,Defensive Rebound,8,7
+14:41,Duke,Tre Jones,Missed Jumper,8,7
+14:41,Wake Forest,Ikenna Smart,Defensive Rebound,8,7
+14:29,Wake Forest,Chaundee Brown,Three Point Jumper,11,7
+14:14,Duke,RJ Barrett,Layup,11,9
+13:57,Wake Forest,Brandon Childress,Missed Three Point Jumper,11,9
+13:57,Wake Forest,Ikenna Smart,Offensive Rebound,11,9
+13:53,Wake Forest,Torry Johnson,Missed Three Point Jumper,11,9
+13:53,Wake Forest,Isaiah Mucius,Offensive Rebound,11,9
+13:48,Wake Forest,Isaiah Mucius,Turnover,11,9
+13:48,Duke,Tre Jones,Steal,11,9
+13:41,Duke,Jack White,Missed Layup,11,9
+13:41,Wake Forest,Isaiah Mucius,Defensive Rebound,11,9
+13:35,Wake Forest,Brandon Childress,Missed Jumper,11,9
+13:35,Duke,RJ Barrett,Defensive Rebound,11,9
+13:17,Duke,RJ Barrett,Jumper,11,11
+12:50,Wake Forest,Chaundee Brown,Jumper,13,11
+12:38,Duke,Cam Reddish,Foul,13,11
+12:38,Duke,Cam Reddish,Turnover,13,11
+12:27,Duke,Javin DeLaurier,Foul,13,11
+12:27,Wake Forest,Sunday Okeke,Free Throw,14,11
+12:27,Wake Forest,Sunday Okeke,Free Throw,15,11
+12:20,Duke,RJ Barrett,Jumper,15,13
+11:59,Duke,Jack White,Foul,15,13
+11:59,Duke,None,None,15,13
+11:59,Wake Forest,Sunday Okeke,Missed Free Throw,15,13
+11:59,Wake Forest,None,Team Rebound,15,13
+11:59,Wake Forest,Sunday Okeke,Missed Free Throw,15,13
+11:59,Duke,Alex O'Connell,Defensive Rebound,15,13
+11:44,Duke,RJ Barrett,Layup,15,15
+11:19,Wake Forest,Sunday Okeke,Missed Layup,15,15
+11:19,Duke,Duke,Defensive Rebound,15,15
+11:00,Wake Forest,Sunday Okeke,Foul,15,15
+11:00,Duke,Javin DeLaurier,Missed Free Throw,15,15
+11:00,Duke,None,Team Rebound,15,15
+11:00,Duke,Javin DeLaurier,Free Throw,15,16
+10:32,Wake Forest,Torry Johnson,Turnover,15,16
+10:32,Duke,Tre Jones,Steal,15,16
+10:28,Duke,Tre Jones,Turnover,15,16
+10:11,Wake Forest,Jaylen Hoard,Layup,17,16
+9:56,Duke,RJ Barrett,Turnover,17,16
+9:38,Wake Forest,Ikenna Smart,Jumper,19,16
+9:27,Duke,Tre Jones,Missed Layup,19,16
+9:27,Duke,Marques Bolden,Offensive Rebound,19,16
+9:25,Duke,Marques Bolden,Layup,19,18
+9:25,Wake Forest,Jaylen Hoard,Foul,19,18
+9:25,Duke,Marques Bolden,Free Throw,19,19
+9:07,Wake Forest,Ikenna Smart,Jumper,21,19
+8:46,Wake Forest,Chaundee Brown,Foul,21,19
+8:46,Duke,RJ Barrett,Missed Free Throw,21,19
+8:46,Duke,None,Team Rebound,21,19
+8:46,Duke,RJ Barrett,Free Throw,21,20
+8:32,Wake Forest,Chaundee Brown,Layup,23,20
+8:08,Duke,Jack White,Three Point Jumper,23,23
+7:38,Wake Forest,Isaiah Mucius,Missed Jumper,23,23
+7:38,Duke,Jack White,Defensive Rebound,23,23
+7:30,Duke,Jack White,Three Point Jumper,23,26
+7:04,Wake Forest,Isaiah Mucius,Three Point Jumper,26,26
+6:50,Wake Forest,Torry Johnson,Foul,26,26
+6:50,Duke,None,None,26,26
+6:36,Duke,Javin DeLaurier,Turnover,26,26
+6:16,Wake Forest,Isaiah Mucius,Missed Three Point Jumper,26,26
+6:16,Duke,Jack White,Defensive Rebound,26,26
+6:00,Duke,Jack White,Missed Layup,26,26
+6:00,Wake Forest,Ikenna Smart,Defensive Rebound,26,26
+5:54,Wake Forest,Chaundee Brown,Missed Three Point Jumper,26,26
+5:54,Duke,Jack White,Defensive Rebound,26,26
+5:28,Duke,RJ Barrett,Jumper,26,28
+5:03,Wake Forest,Sharone Wright Jr.,Layup,28,28
+4:46,Duke,RJ Barrett,Missed Three Point Jumper,28,28
+4:46,Wake Forest,Brandon Childress,Defensive Rebound,28,28
+4:37,Wake Forest,Brandon Childress,Missed Three Point Jumper,28,28
+4:37,Duke,Jack White,Defensive Rebound,28,28
+4:28,Duke,RJ Barrett,Turnover,28,28
+4:19,Wake Forest,Sharone Wright Jr.,Jumper,30,28
+3:57,Duke,Cam Reddish,Foul,30,28
+3:57,Duke,Cam Reddish,Turnover,30,28
+3:54,Duke,None,None,30,28
+3:47,Wake Forest,Chaundee Brown,Missed Three Point Jumper,30,28
+3:47,Duke,Tre Jones,Defensive Rebound,30,28
+3:38,Duke,Jack White,Missed Three Point Jumper,30,28
+3:38,Wake Forest,Chaundee Brown,Defensive Rebound,30,28
+3:22,Wake Forest,Isaiah Mucius,Missed Jumper,30,28
+3:22,Duke,Marques Bolden,Defensive Rebound,30,28
+2:55,Duke,Tre Jones,Jumper,30,30
+2:43,Wake Forest,Brandon Childress,Jumper,32,30
+2:22,Duke,RJ Barrett,Missed Jumper,32,30
+2:22,Wake Forest,Chaundee Brown,Defensive Rebound,32,30
+2:12,Wake Forest,Sharone Wright Jr.,Missed Three Point Jumper,32,30
+2:12,Duke,Duke,Defensive Rebound,32,30
+1:48,Duke,RJ Barrett,Missed Dunk,32,30
+1:48,Wake Forest,Sharone Wright Jr.,Block,32,30
+1:48,Duke,RJ Barrett,Offensive Rebound,32,30
+1:46,Wake Forest,Brandon Childress,Foul,32,30
+1:46,Duke,RJ Barrett,Free Throw,32,31
+1:46,Duke,RJ Barrett,Free Throw,32,32
+1:37,Wake Forest,Chaundee Brown,Turnover,32,32
+1:21,Duke,Jack White,Missed Three Point Jumper,32,32
+1:21,Wake Forest,Wake Forest,Defensive Rebound,32,32
+1:14,Wake Forest,None,None,32,32
+0:57,Wake Forest,Chaundee Brown,Jumper,34,32
+0:44,Duke,Tre Jones,Missed Jumper,34,32
+0:44,Duke,Marques Bolden,Offensive Rebound,34,32
+0:40,Wake Forest,Chaundee Brown,Foul,34,32
+0:40,Duke,Marques Bolden,Missed Free Throw,34,32
+0:40,Duke,None,Team Rebound,34,32
+0:40,Duke,Marques Bolden,Free Throw,34,33
+0:25,Wake Forest,Isaiah Mucius,Missed Three Point Jumper,34,33
+0:25,Duke,Jordan Goldwire,Defensive Rebound,34,33
+0:25,Duke,Jordan Goldwire,Turnover,34,33
+0:25,Wake Forest,Isaiah Mucius,Steal,34,33
+0:14,Wake Forest,Brandon Childress,Missed Three Point Jumper,34,33
+0:14,Duke,Jack White,Defensive Rebound,34,33
+0:14,Wake Forest,Sunday Okeke,Foul,34,33
+0:14,Duke,Jack White,Free Throw,34,34
+0:14,Duke,Jack White,Free Throw,34,35
+0:09,Duke,None,None,34,35
+0:04,Wake Forest,Sharone Wright Jr.,Missed Jumper,34,35
+0:04,Duke,Jack White,Block,34,35
+0:04,Wake Forest,Wake Forest,Offensive Rebound,34,35
+0:01,Wake Forest,Chaundee Brown,Missed Jumper,34,35
+0:01,Duke,Jack White,Block,34,35
+0:01,Duke,None,Team Rebound,34,35
+0:00,Duke,None,None,34,35
+20:00,Duke,None,None,34,35
+19:31,Duke,Tre Jones,Layup,34,37
+19:09,Wake Forest,Jaylen Hoard,Missed Three Point Jumper,34,37
+19:09,Duke,Alex O'Connell,Defensive Rebound,34,37
+19:01,Duke,Cam Reddish,Missed Three Point Jumper,34,37
+19:01,Wake Forest,Sharone Wright Jr.,Defensive Rebound,34,37
+18:54,Wake Forest,Brandon Childress,Three Point Jumper,37,37
+18:35,Duke,RJ Barrett,Missed Jumper,37,37
+18:35,Wake Forest,Sharone Wright Jr.,Defensive Rebound,37,37
+18:24,Wake Forest,Jaylen Hoard,Missed Layup,37,37
+18:24,Duke,Marques Bolden,Block,37,37
+18:24,Duke,Marques Bolden,Defensive Rebound,37,37
+18:16,Duke,Cam Reddish,Missed Dunk,37,37
+18:16,Wake Forest,Chaundee Brown,Defensive Rebound,37,37
+18:09,Wake Forest,Chaundee Brown,Layup,39,37
+17:46,Wake Forest,Jaylen Hoard,Foul,39,37
+17:44,Duke,RJ Barrett,Layup,39,39
+17:44,Wake Forest,Sharone Wright Jr.,Foul,39,39
+17:44,Duke,RJ Barrett,Missed Free Throw,39,39
+17:44,Wake Forest,Ikenna Smart,Defensive Rebound,39,39
+17:36,Wake Forest,Brandon Childress,Jumper,41,39
+17:22,Duke,Cam Reddish,Missed Three Point Jumper,41,39
+17:22,Wake Forest,Brandon Childress,Defensive Rebound,41,39
+17:14,Wake Forest,Brandon Childress,Layup,43,39
+16:52,Duke,RJ Barrett,Missed Three Point Jumper,43,39
+16:52,Wake Forest,Brandon Childress,Defensive Rebound,43,39
+16:41,Wake Forest,Brandon Childress,Three Point Jumper,46,39
+16:27,Duke,RJ Barrett,Turnover,46,39
+16:27,Wake Forest,Chaundee Brown,Steal,46,39
+16:21,Wake Forest,Sharone Wright Jr.,Three Point Jumper,49,39
+16:14,Duke,None,None,49,39
+16:03,Duke,Tre Jones,Three Point Jumper,49,42
+15:39,Duke,Javin DeLaurier,Foul,49,42
+15:36,Duke,None,None,49,42
+15:21,Wake Forest,Brandon Childress,Missed Three Point Jumper,49,42
+15:21,Wake Forest,Chaundee Brown,Offensive Rebound,49,42
+15:16,Wake Forest,Chaundee Brown,Missed Jumper,49,42
+15:16,Duke,Javin DeLaurier,Defensive Rebound,49,42
+15:16,Wake Forest,Ikenna Smart,Foul,49,42
+14:57,Duke,RJ Barrett,Jumper,49,44
+14:35,Wake Forest,Ikenna Smart,Missed Layup,49,44
+14:35,Duke,Duke,Defensive Rebound,49,44
+14:19,Wake Forest,Sunday Okeke,Foul,49,44
+14:19,Duke,RJ Barrett,Free Throw,49,45
+14:19,Duke,RJ Barrett,Free Throw,49,46
+14:02,Wake Forest,Torry Johnson,Missed Jumper,49,46
+14:02,Duke,Tre Jones,Defensive Rebound,49,46
+13:53,Wake Forest,Sharone Wright Jr.,Foul,49,46
+13:45,Duke,Alex O'Connell,Missed Jumper,49,46
+13:45,Duke,Alex O'Connell,Offensive Rebound,49,46
+13:45,Duke,Alex O'Connell,Layup,49,48
+13:45,Wake Forest,Torry Johnson,Foul,49,48
+13:45,Wake Forest,None,None,49,48
+13:45,Duke,Alex O'Connell,Free Throw,49,49
+13:28,Wake Forest,Sharone Wright Jr.,Jumper,51,49
+13:06,Duke,Cam Reddish,Missed Three Point Jumper,51,49
+13:06,Duke,Cam Reddish,Offensive Rebound,51,49
+12:50,Duke,RJ Barrett,Missed Three Point Jumper,51,49
+12:50,Wake Forest,Torry Johnson,Defensive Rebound,51,49
+12:36,Wake Forest,Isaiah Mucius,Missed Jumper,51,49
+12:36,Duke,RJ Barrett,Defensive Rebound,51,49
+12:26,Wake Forest,Sunday Okeke,Foul,51,49
+12:26,Duke,RJ Barrett,Free Throw,51,50
+12:26,Duke,RJ Barrett,Missed Free Throw,51,50
+12:26,Duke,Jack White,Offensive Rebound,51,50
+12:24,Duke,Jack White,Missed Layup,51,50
+12:24,Duke,Jack White,Offensive Rebound,51,50
+12:20,Duke,Jack White,Missed Layup,51,50
+12:20,Wake Forest,Ikenna Smart,Defensive Rebound,51,50
+11:51,Wake Forest,Jaylen Hoard,Missed Jumper,51,50
+11:51,Duke,RJ Barrett,Block,51,50
+11:51,Duke,RJ Barrett,Defensive Rebound,51,50
+11:46,Duke,Cam Reddish,Three Point Jumper,51,53
+11:36,Wake Forest,Chaundee Brown,Missed Layup,51,53
+11:36,Wake Forest,Ikenna Smart,Offensive Rebound,51,53
+11:36,Wake Forest,None,None,51,53
+11:36,Duke,Tre Jones,Defensive Rebound,51,53
+11:28,Duke,Tre Jones,Missed Layup,51,53
+11:28,Wake Forest,Sharone Wright Jr.,Defensive Rebound,51,53
+11:24,Wake Forest,Sharone Wright Jr.,Missed Jumper,51,53
+11:24,Wake Forest,Wake Forest,Offensive Rebound,51,53
+11:17,Duke,None,None,51,53
+11:17,Duke,None,None,51,53
+11:00,Wake Forest,Isaiah Mucius,Missed Jumper,51,53
+11:00,Duke,Jordan Goldwire,Defensive Rebound,51,53
+10:42,Duke,RJ Barrett,Turnover,51,53
+10:24,Wake Forest,Jaylen Hoard,Missed Layup,51,53
+10:24,Duke,Jack White,Defensive Rebound,51,53
+10:14,Duke,Cam Reddish,Missed Jumper,51,53
+10:14,Wake Forest,Wake Forest,Defensive Rebound,51,53
+9:50,Wake Forest,Brandon Childress,Three Point Jumper,54,53
+9:32,Duke,Cam Reddish,Three Point Jumper,54,56
+9:06,Duke,Cam Reddish,Foul,54,56
+9:06,Wake Forest,Jaylen Hoard,Missed Free Throw,54,56
+9:06,Wake Forest,None,Team Rebound,54,56
+9:06,Wake Forest,Jaylen Hoard,Missed Free Throw,54,56
+9:06,Duke,Jack White,Defensive Rebound,54,56
+8:52,Duke,RJ Barrett,Missed Three Point Jumper,54,56
+8:52,Wake Forest,Jaylen Hoard,Defensive Rebound,54,56
+8:37,Wake Forest,Chaundee Brown,Jumper,56,56
+8:17,Duke,RJ Barrett,Layup,56,58
+7:54,Wake Forest,Brandon Childress,Missed Layup,56,58
+7:54,Duke,Tre Jones,Defensive Rebound,56,58
+7:49,Duke,RJ Barrett,Missed Three Point Jumper,56,58
+7:49,Duke,Tre Jones,Offensive Rebound,56,58
+7:43,Duke,Jack White,Missed Three Point Jumper,56,58
+7:43,Wake Forest,Jaylen Hoard,Defensive Rebound,56,58
+7:22,Wake Forest,Chaundee Brown,Jumper,58,58
+6:55,Wake Forest,Ikenna Smart,Foul,58,58
+6:55,Duke,None,None,58,58
+6:55,Duke,Tre Jones,Free Throw,58,59
+6:55,Duke,Tre Jones,Free Throw,58,60
+6:29,Wake Forest,Chaundee Brown,Jumper,60,60
+6:11,Duke,RJ Barrett,Missed Layup,60,60
+6:11,Duke,Jack White,Offensive Rebound,60,60
+6:11,Duke,Jack White,Missed Layup,60,60
+6:11,Duke,Duke,Offensive Rebound,60,60
+6:04,Wake Forest,Brandon Childress,Foul,60,60
+6:04,Duke,RJ Barrett,Missed Free Throw,60,60
+6:04,Wake Forest,Ikenna Smart,Defensive Rebound,60,60
+5:47,Duke,Jack White,Foul,60,60
+5:30,Wake Forest,None,None,60,60
+5:30,Duke,Jordan Goldwire,Foul,60,60
+5:24,Wake Forest,Brandon Childress,Missed Jumper,60,60
+5:24,Duke,Javin DeLaurier,Defensive Rebound,60,60
+5:07,Duke,RJ Barrett,Turnover,60,60
+5:07,Wake Forest,Torry Johnson,Steal,60,60
+5:01,Wake Forest,Torry Johnson,Layup,62,60
+4:35,Duke,Javin DeLaurier,Layup,62,62
+4:06,Wake Forest,Torry Johnson,Missed Layup,62,62
+4:06,Duke,RJ Barrett,Block,62,62
+4:06,Duke,Alex O'Connell,Defensive Rebound,62,62
+4:03,Duke,Alex O'Connell,Turnover,62,62
+4:00,Wake Forest,Sharone Wright Jr.,Foul,62,62
+4:00,Wake Forest,Sharone Wright Jr.,Turnover,62,62
+4:00,Duke,None,None,62,62
+3:39,Duke,Alex O'Connell,Three Point Jumper,62,65
+3:14,Wake Forest,Chaundee Brown,Turnover,62,65
+2:50,Wake Forest,Torry Johnson,Foul,62,65
+2:50,Duke,Tre Jones,Free Throw,62,66
+2:50,Duke,Tre Jones,Free Throw,62,67
+2:32,Wake Forest,Jaylen Hoard,Turnover,62,67
+2:16,Duke,RJ Barrett,Missed Jumper,62,67
+2:16,Wake Forest,Brandon Childress,Defensive Rebound,62,67
+2:08,Wake Forest,Torry Johnson,Missed Three Point Jumper,62,67
+2:08,Duke,RJ Barrett,Defensive Rebound,62,67
+2:04,Wake Forest,Chaundee Brown,Foul,62,67
+2:04,Duke,RJ Barrett,Missed Free Throw,62,67
+2:04,Duke,None,Team Rebound,62,67
+2:04,Duke,RJ Barrett,Missed Free Throw,62,67
+2:04,Wake Forest,Chaundee Brown,Defensive Rebound,62,67
+1:52,Wake Forest,Brandon Childress,Jumper,64,67
+1:46,Wake Forest,None,None,64,67
+1:24,Duke,RJ Barrett,Layup,64,69
+1:24,Wake Forest,Ikenna Smart,Foul,64,69
+1:24,Duke,RJ Barrett,Missed Free Throw,64,69
+1:24,Wake Forest,Jaylen Hoard,Defensive Rebound,64,69
+1:18,Duke,Javin DeLaurier,Foul,64,69
+1:18,Wake Forest,Chaundee Brown,Free Throw,65,69
+1:18,Wake Forest,Chaundee Brown,Free Throw,66,69
+1:04,Duke,RJ Barrett,Foul,66,69
+1:04,Duke,RJ Barrett,Turnover,66,69
+0:53,Wake Forest,Brandon Childress,Missed Three Point Jumper,66,69
+0:53,Wake Forest,Sharone Wright Jr.,Offensive Rebound,66,69
+0:47,Wake Forest,Sharone Wright Jr.,Missed Layup,66,69
+0:47,Wake Forest,Chaundee Brown,Offensive Rebound,66,69
+0:45,Wake Forest,Chaundee Brown,Missed Layup,66,69
+0:45,Wake Forest,Chaundee Brown,Offensive Rebound,66,69
+0:44,Duke,Jack White,Foul,66,69
+0:44,Wake Forest,Chaundee Brown,Free Throw,67,69
+0:44,Wake Forest,Chaundee Brown,Free Throw,68,69
+0:31,Duke,None,None,68,69
+0:19,Duke,RJ Barrett,Jumper,68,71
+0:17,Duke,None,None,68,71
+0:09,Wake Forest,Brandon Childress,Layup,70,71
+0:08,Duke,Jack White,Turnover,70,71
+0:06,Wake Forest,Brandon Childress,Missed Three Point Jumper,70,71
+0:06,Wake Forest,Chaundee Brown,Offensive Rebound,70,71
+0:01,Wake Forest,Chaundee Brown,Missed Layup,70,71
+0:01,Duke,Duke,Defensive Rebound,70,71
+0:00,Duke,None,None,70,71

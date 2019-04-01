@@ -1,0 +1,330 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:50,Santa Clara,Guglielmo Caruso,Turnover,0,0
+19:48,Loyola Marymount,Jeffery McClendon,Steal,0,0
+19:46,Loyola Marymount,Jeffery McClendon,Layup,0,2
+19:28,Loyola Marymount,Eli Scott,Foul,0,2
+19:28,Santa Clara,Josip Vrankic,Free Throw,1,2
+19:28,Santa Clara,Josip Vrankic,Free Throw,2,2
+19:01,Loyola Marymount,Eli Scott,Missed Layup,2,2
+19:01,Santa Clara,Josip Vrankic,Block,2,2
+18:59,Santa Clara,Josip Vrankic,Defensive Rebound,2,2
+18:39,Santa Clara,Trey Wertz,Missed Jumper,2,2
+18:39,Santa Clara,Guglielmo Caruso,Offensive Rebound,2,2
+18:35,Santa Clara,None,None,4,2
+18:11,Loyola Marymount,Dameane Douglas,Missed Layup,4,2
+18:11,Santa Clara,Keshawn Justice,Defensive Rebound,4,2
+18:03,Santa Clara,Tahj Eaddy,Three Point Jumper,7,2
+17:32,Loyola Marymount,James Batemon,Missed Jumper,7,2
+17:32,Santa Clara,Keshawn Justice,Defensive Rebound,7,2
+17:20,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,7,2
+17:20,Loyola Marymount,Petr Herman,Defensive Rebound,7,2
+17:06,Loyola Marymount,Petr Herman,Layup,7,4
+17:06,Santa Clara,Keshawn Justice,Foul,7,4
+17:06,Loyola Marymount,Petr Herman,Free Throw,7,5
+16:47,Santa Clara,Tahj Eaddy,Turnover,7,5
+16:27,Loyola Marymount,Petr Herman,Layup,7,7
+16:27,Santa Clara,Guglielmo Caruso,Foul,7,7
+16:27,Loyola Marymount,Petr Herman,Free Throw,7,8
+16:10,Santa Clara,Trey Wertz,Three Point Jumper,10,8
+15:47,Santa Clara,Keshawn Justice,Foul,10,8
+15:47,Loyola Marymount,None,None,10,8
+15:45,Loyola Marymount,Zafir Williams,Missed Layup,10,8
+15:45,Santa Clara,Guglielmo Caruso,Defensive Rebound,10,8
+15:11,Loyola Marymount,Joe Quintana,Foul,10,8
+15:11,Santa Clara,Tahj Eaddy,Free Throw,11,8
+15:11,Santa Clara,Tahj Eaddy,Free Throw,12,8
+14:55,Santa Clara,Josip Vrankic,Foul,12,8
+14:42,Loyola Marymount,Zafir Williams,Missed Three Point Jumper,12,8
+14:42,Loyola Marymount,Dameane Douglas,Offensive Rebound,12,8
+14:34,Loyola Marymount,Zafir Williams,Missed Layup,12,8
+14:34,Loyola Marymount,Petr Herman,Offensive Rebound,12,8
+14:32,Loyola Marymount,Petr Herman,Missed Layup,12,8
+14:32,Santa Clara,Henrik Jadersten,Defensive Rebound,12,8
+14:09,Santa Clara,Josip Vrankic,Missed Layup,12,8
+14:09,Santa Clara,Josip Vrankic,Offensive Rebound,12,8
+14:07,Santa Clara,None,None,14,8
+13:45,Loyola Marymount,James Batemon,Turnover,14,8
+13:29,Santa Clara,Tahj Eaddy,Turnover,14,8
+13:26,Loyola Marymount,Jeffery McClendon,Steal,14,8
+13:22,Loyola Marymount,James Batemon,Missed Layup,14,8
+13:22,Loyola Marymount,Loyola Marymount,Offensive Rebound,14,8
+13:04,Loyola Marymount,Mattias Markusson,Turnover,14,8
+13:03,Loyola Marymount,Mattias Markusson,Foul,14,8
+12:48,Loyola Marymount,James Batemon,Foul,14,8
+12:48,Santa Clara,Tahj Eaddy,Free Throw,15,8
+12:48,Santa Clara,Tahj Eaddy,Free Throw,16,8
+12:21,Loyola Marymount,Joe Quintana,Missed Three Point Jumper,16,8
+12:21,Santa Clara,Keshawn Justice,Defensive Rebound,16,8
+12:13,Santa Clara,Keshawn Justice,Three Point Jumper,19,8
+12:08,Loyola Marymount,None,None,19,8
+12:08,Loyola Marymount,None,None,19,8
+11:42,Santa Clara,Henrik Jadersten,Foul,19,8
+11:42,Loyola Marymount,Joe Quintana,Free Throw,19,9
+11:42,Loyola Marymount,Joe Quintana,Free Throw,19,10
+11:09,Santa Clara,Tahj Eaddy,Jumper,21,10
+10:52,Santa Clara,Trey Wertz,Foul,21,10
+10:52,Loyola Marymount,Jeffery McClendon,Free Throw,21,11
+10:52,Loyola Marymount,Jeffery McClendon,Free Throw,21,12
+10:43,Loyola Marymount,Joe Quintana,Foul,21,12
+10:35,Loyola Marymount,Jordan Bell,Foul,21,12
+10:35,Santa Clara,Josip Vrankic,Free Throw,22,12
+10:35,Santa Clara,Josip Vrankic,Free Throw,23,12
+10:27,Loyola Marymount,Jordan Bell,Turnover,23,12
+10:15,Santa Clara,Trey Wertz,Missed Three Point Jumper,23,12
+10:15,Loyola Marymount,Jeffery McClendon,Defensive Rebound,23,12
+10:03,Loyola Marymount,Dameane Douglas,Missed Layup,23,12
+10:03,Santa Clara,Guglielmo Caruso,Defensive Rebound,23,12
+9:57,Santa Clara,Tahj Eaddy,Turnover,23,12
+9:57,Loyola Marymount,James Batemon,Steal,23,12
+9:57,Santa Clara,Guglielmo Caruso,Foul,23,12
+9:57,Loyola Marymount,James Batemon,Free Throw,23,13
+9:57,Loyola Marymount,James Batemon,Free Throw,23,14
+9:42,Santa Clara,Josip Vrankic,Layup,25,14
+9:26,Loyola Marymount,Jordan Bell,Layup,25,16
+9:18,Santa Clara,Trey Wertz,Turnover,25,16
+9:18,Santa Clara,Trey Wertz,Foul,25,16
+9:05,Loyola Marymount,Jordan Bell,Turnover,25,16
+9:05,Loyola Marymount,Jordan Bell,Foul,25,16
+8:37,Santa Clara,Trey Wertz,Missed Jumper,25,16
+8:37,Santa Clara,Henrik Jadersten,Offensive Rebound,25,16
+8:37,Loyola Marymount,Zafir Williams,Foul,25,16
+8:37,Santa Clara,Josip Vrankic,Free Throw,26,16
+8:37,Santa Clara,Josip Vrankic,Free Throw,27,16
+8:23,Loyola Marymount,James Batemon,Jumper,27,18
+8:10,Santa Clara,Josip Vrankic,Three Point Jumper,30,18
+7:45,Loyola Marymount,Zafir Williams,Jumper,30,20
+7:45,Santa Clara,Max Dorward,Foul,30,20
+7:45,Loyola Marymount,None,None,30,20
+7:45,Loyola Marymount,Zafir Williams,Free Throw,30,21
+7:33,Santa Clara,Josip Vrankic,Turnover,30,21
+7:02,Loyola Marymount,Zafir Williams,Missed Three Point Jumper,30,21
+7:02,Loyola Marymount,Loyola Marymount,Offensive Rebound,30,21
+6:39,Loyola Marymount,Jeffery McClendon,Missed Jumper,30,21
+6:39,Santa Clara,Keshawn Justice,Defensive Rebound,30,21
+6:21,Santa Clara,Josip Vrankic,Layup,32,21
+6:09,Loyola Marymount,James Batemon,Jumper,32,23
+5:59,Santa Clara,Tahj Eaddy,Three Point Jumper,35,23
+5:31,Loyola Marymount,Zafir Williams,Turnover,35,23
+5:28,Santa Clara,Josip Vrankic,Steal,35,23
+5:27,Santa Clara,Trey Wertz,Turnover,35,23
+5:09,Santa Clara,Josip Vrankic,Foul,35,23
+5:09,Loyola Marymount,Dameane Douglas,Free Throw,35,24
+5:09,Loyola Marymount,Dameane Douglas,Free Throw,35,25
+4:46,Santa Clara,Keshawn Justice,Missed Three Point Jumper,35,25
+4:46,Loyola Marymount,Dameane Douglas,Defensive Rebound,35,25
+4:33,Loyola Marymount,Petr Herman,Turnover,35,25
+4:33,Loyola Marymount,Petr Herman,Foul,35,25
+4:17,Santa Clara,Ezekiel Richards,Dunk,37,25
+3:49,Loyola Marymount,Dameane Douglas,Missed Jumper,37,25
+3:49,Loyola Marymount,Mattias Markusson,Offensive Rebound,37,25
+3:46,Loyola Marymount,Mattias Markusson,Layup,37,27
+3:46,Santa Clara,Ezekiel Richards,Foul,37,27
+3:46,Loyola Marymount,None,None,37,27
+3:46,Loyola Marymount,Mattias Markusson,Foul,37,27
+3:46,Loyola Marymount,Mattias Markusson,Foul,37,27
+3:46,Santa Clara,Tahj Eaddy,Free Throw,38,27
+3:46,Santa Clara,Tahj Eaddy,Free Throw,39,27
+3:46,Loyola Marymount,Mattias Markusson,Missed Free Throw,39,27
+3:46,Santa Clara,Trey Wertz,Defensive Rebound,39,27
+3:26,Santa Clara,Guglielmo Caruso,Missed Jumper,39,27
+3:26,Loyola Marymount,Mattias Markusson,Defensive Rebound,39,27
+3:18,Loyola Marymount,Jordan Bell,Turnover,39,27
+2:47,Santa Clara,Trey Wertz,Missed Three Point Jumper,39,27
+2:47,Loyola Marymount,Erik Johansson,Defensive Rebound,39,27
+2:43,Santa Clara,Ezekiel Richards,Foul,39,27
+2:43,Loyola Marymount,Erik Johansson,Free Throw,39,28
+2:43,Loyola Marymount,Erik Johansson,Free Throw,39,29
+2:04,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,39,29
+2:04,Loyola Marymount,Erik Johansson,Defensive Rebound,39,29
+1:49,Loyola Marymount,James Batemon,Missed Layup,39,29
+1:49,Santa Clara,Trey Wertz,Defensive Rebound,39,29
+1:30,Santa Clara,Keshawn Justice,Three Point Jumper,42,29
+1:01,Loyola Marymount,Zafir Williams,Layup,42,31
+1:01,Santa Clara,Guglielmo Caruso,Foul,42,31
+1:01,Loyola Marymount,Zafir Williams,Missed Free Throw,42,31
+1:01,Santa Clara,Henrik Jadersten,Defensive Rebound,42,31
+0:45,Santa Clara,Tahj Eaddy,Three Point Jumper,45,31
+0:40,Loyola Marymount,James Batemon,Foul,45,31
+0:38,Santa Clara,Tahj Eaddy,Free Throw,46,31
+0:32,Loyola Marymount,James Batemon,Missed Layup,46,31
+0:32,Santa Clara,Henrik Jadersten,Block,46,31
+0:30,Santa Clara,Henrik Jadersten,Defensive Rebound,46,31
+0:14,Loyola Marymount,Jordan Bell,Foul,46,31
+0:14,Santa Clara,Tahj Eaddy,Free Throw,47,31
+0:14,Santa Clara,Tahj Eaddy,Free Throw,48,31
+0:05,Loyola Marymount,Zafir Williams,Missed Three Point Jumper,48,31
+0:05,Santa Clara,Henrik Jadersten,Defensive Rebound,48,31
+0:00,Loyola Marymount,None,None,48,31
+19:44,Loyola Marymount,Joe Quintana,Missed Three Point Jumper,48,31
+19:44,Santa Clara,Tahj Eaddy,Defensive Rebound,48,31
+19:27,Santa Clara,Guglielmo Caruso,Missed Three Point Jumper,48,31
+19:27,Loyola Marymount,Loyola Marymount,Defensive Rebound,48,31
+19:02,Loyola Marymount,Eli Scott,Turnover,48,31
+19:01,Santa Clara,Trey Wertz,Steal,48,31
+18:52,Santa Clara,Tahj Eaddy,Three Point Jumper,51,31
+18:27,Loyola Marymount,Dameane Douglas,Layup,51,33
+18:27,Santa Clara,Keshawn Justice,Foul,51,33
+18:27,Loyola Marymount,Dameane Douglas,Missed Free Throw,51,33
+18:27,Santa Clara,Guglielmo Caruso,Defensive Rebound,51,33
+18:18,Santa Clara,Guglielmo Caruso,Missed Three Point Jumper,51,33
+18:18,Santa Clara,None,Team Rebound,51,33
+18:14,Loyola Marymount,Eli Scott,Foul,51,33
+18:13,Santa Clara,Trey Wertz,Missed Three Point Jumper,51,33
+18:13,Loyola Marymount,James Batemon,Defensive Rebound,51,33
+18:08,Loyola Marymount,James Batemon,Layup,51,35
+18:04,Santa Clara,Tahj Eaddy,Foul,51,35
+18:04,Loyola Marymount,James Batemon,Missed Free Throw,51,35
+18:04,Loyola Marymount,James Batemon,Offensive Rebound,51,35
+18:02,Loyola Marymount,Mattias Markusson,Turnover,51,35
+17:47,Loyola Marymount,Jeffery McClendon,Foul,51,35
+17:32,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,51,35
+17:32,Loyola Marymount,Dameane Douglas,Defensive Rebound,51,35
+17:23,Santa Clara,Tahj Eaddy,Foul,51,35
+17:15,Loyola Marymount,James Batemon,Jumper,51,37
+16:47,Santa Clara,Josip Vrankic,Jumper,53,37
+16:47,Loyola Marymount,Eli Scott,Foul,53,37
+16:47,Santa Clara,Josip Vrankic,Free Throw,54,37
+16:29,Loyola Marymount,James Batemon,Turnover,54,37
+16:27,Santa Clara,Trey Wertz,Steal,54,37
+16:07,Santa Clara,Josip Vrankic,Turnover,54,37
+16:06,Loyola Marymount,James Batemon,Steal,54,37
+16:01,Loyola Marymount,Zafir Williams,Layup,54,39
+15:48,Santa Clara,Trey Wertz,Missed Three Point Jumper,54,39
+15:48,Loyola Marymount,Loyola Marymount,Defensive Rebound,54,39
+15:43,Loyola Marymount,None,None,54,39
+15:26,Loyola Marymount,James Batemon,Jumper,54,41
+15:06,Santa Clara,Josip Vrankic,Missed Layup,54,41
+15:06,Santa Clara,Guglielmo Caruso,Offensive Rebound,54,41
+15:03,Santa Clara,None,None,54,41
+15:03,Loyola Marymount,Jordan Bell,Defensive Rebound,54,41
+14:47,Loyola Marymount,Dameane Douglas,Layup,54,43
+14:46,Santa Clara,Guglielmo Caruso,Foul,54,43
+14:46,Loyola Marymount,Dameane Douglas,Free Throw,54,44
+14:32,Santa Clara,Josip Vrankic,Layup,56,44
+14:09,Loyola Marymount,Jordan Bell,Turnover,56,44
+14:08,Santa Clara,Keshawn Justice,Steal,56,44
+14:05,Santa Clara,Tahj Eaddy,Layup,58,44
+13:57,Loyola Marymount,None,None,58,44
+13:57,Loyola Marymount,None,None,58,44
+13:39,Santa Clara,Josip Vrankic,Foul,58,44
+13:39,Loyola Marymount,Zafir Williams,Free Throw,58,45
+13:16,Santa Clara,Josip Vrankic,Turnover,58,45
+13:16,Loyola Marymount,Dameane Douglas,Steal,58,45
+13:16,Loyola Marymount,None,None,58,45
+12:58,Loyola Marymount,James Batemon,Layup,58,47
+12:39,Santa Clara,Henrik Jadersten,Three Point Jumper,61,47
+12:12,Loyola Marymount,Petr Herman,Layup,61,49
+11:41,Santa Clara,Josip Vrankic,Layup,63,49
+11:21,Santa Clara,Henrik Jadersten,Foul,63,49
+11:21,Loyola Marymount,None,None,63,49
+11:20,Santa Clara,Henrik Jadersten,Foul,63,49
+11:20,Loyola Marymount,Mattias Markusson,Free Throw,63,50
+11:20,Loyola Marymount,Mattias Markusson,Free Throw,63,51
+11:08,Santa Clara,Tahj Eaddy,Turnover,63,51
+10:56,Loyola Marymount,Mattias Markusson,Missed Jumper,63,51
+10:56,Santa Clara,Henrik Jadersten,Defensive Rebound,63,51
+10:48,Loyola Marymount,James Batemon,Foul,63,51
+10:38,Loyola Marymount,Dameane Douglas,Foul,63,51
+10:29,Santa Clara,Henrik Jadersten,Missed Three Point Jumper,63,51
+10:29,Loyola Marymount,Zafir Williams,Defensive Rebound,63,51
+10:02,Loyola Marymount,James Batemon,Missed Three Point Jumper,63,51
+10:02,Santa Clara,Trey Wertz,Defensive Rebound,63,51
+9:48,Loyola Marymount,Joe Quintana,Foul,63,51
+9:29,Santa Clara,Josip Vrankic,Turnover,63,51
+9:28,Loyola Marymount,Jeffery McClendon,Steal,63,51
+9:21,Loyola Marymount,Zafir Williams,Layup,63,53
+8:58,Santa Clara,None,None,63,53
+8:49,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,63,53
+8:49,Santa Clara,Tahj Eaddy,Offensive Rebound,63,53
+8:45,Santa Clara,Tahj Eaddy,Missed Jumper,63,53
+8:45,Loyola Marymount,Joe Quintana,Defensive Rebound,63,53
+8:37,Loyola Marymount,Eli Scott,Turnover,63,53
+8:16,Santa Clara,Josip Vrankic,Missed Layup,63,53
+8:16,Santa Clara,Tahj Eaddy,Offensive Rebound,63,53
+8:11,Santa Clara,Keshawn Justice,Missed Three Point Jumper,63,53
+8:11,Loyola Marymount,Dameane Douglas,Defensive Rebound,63,53
+7:52,Loyola Marymount,Eli Scott,Layup,63,55
+7:25,Santa Clara,Trey Wertz,Turnover,63,55
+7:24,Loyola Marymount,Zafir Williams,Steal,63,55
+7:22,Loyola Marymount,Jeffery McClendon,Layup,63,57
+7:08,Santa Clara,None,None,63,57
+7:08,Loyola Marymount,None,None,63,57
+6:53,Loyola Marymount,Dameane Douglas,Foul,63,57
+6:34,Santa Clara,Tahj Eaddy,Free Throw,64,57
+6:28,Santa Clara,Tahj Eaddy,Missed Free Throw,64,57
+6:28,Loyola Marymount,Eli Scott,Defensive Rebound,64,57
+6:13,Loyola Marymount,Eli Scott,Layup,64,59
+6:00,Santa Clara,Josip Vrankic,Missed Layup,64,59
+6:00,Loyola Marymount,Zafir Williams,Block,64,59
+5:58,Loyola Marymount,Zafir Williams,Defensive Rebound,64,59
+5:43,Santa Clara,Tahj Eaddy,Foul,64,59
+5:43,Loyola Marymount,James Batemon,Free Throw,64,60
+5:43,Loyola Marymount,James Batemon,Free Throw,64,61
+5:19,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,64,61
+5:19,Santa Clara,Santa Clara,Offensive Rebound,64,61
+4:58,Santa Clara,Tahj Eaddy,Turnover,64,61
+4:56,Loyola Marymount,Jeffery McClendon,Steal,64,61
+4:55,Santa Clara,Tahj Eaddy,Foul,64,61
+4:55,Loyola Marymount,Dameane Douglas,Missed Free Throw,64,61
+4:55,Santa Clara,Guglielmo Caruso,Defensive Rebound,64,61
+4:36,Santa Clara,Trey Wertz,Turnover,64,61
+4:36,Santa Clara,Trey Wertz,Foul,64,61
+4:26,Loyola Marymount,James Batemon,Missed Layup,64,61
+4:26,Loyola Marymount,Joe Quintana,Offensive Rebound,64,61
+4:21,Loyola Marymount,None,None,64,61
+4:21,Santa Clara,Guglielmo Caruso,Defensive Rebound,64,61
+4:06,Santa Clara,Trey Wertz,Layup,66,61
+3:52,Loyola Marymount,Mattias Markusson,Turnover,66,61
+3:51,Santa Clara,Josip Vrankic,Steal,66,61
+3:48,Loyola Marymount,Dameane Douglas,Foul,66,61
+3:48,Loyola Marymount,None,None,66,61
+3:48,Santa Clara,Trey Wertz,Free Throw,67,61
+3:48,Santa Clara,Trey Wertz,Free Throw,68,61
+3:42,Santa Clara,Keshawn Justice,Foul,68,61
+3:42,Loyola Marymount,Dameane Douglas,Free Throw,68,62
+3:42,Loyola Marymount,Dameane Douglas,Free Throw,68,63
+3:19,Santa Clara,Josip Vrankic,Missed Jumper,68,63
+3:19,Loyola Marymount,Dameane Douglas,Defensive Rebound,68,63
+3:08,Loyola Marymount,Zafir Williams,Missed Three Point Jumper,68,63
+3:08,Loyola Marymount,Dameane Douglas,Offensive Rebound,68,63
+2:52,Santa Clara,Trey Wertz,Foul,68,63
+2:52,Loyola Marymount,James Batemon,Free Throw,68,64
+2:52,Loyola Marymount,James Batemon,Free Throw,68,65
+2:30,Loyola Marymount,James Batemon,Foul,68,65
+2:30,Santa Clara,Tahj Eaddy,Free Throw,69,65
+2:30,Santa Clara,Tahj Eaddy,Free Throw,70,65
+2:18,Loyola Marymount,James Batemon,Missed Three Point Jumper,70,65
+2:18,Loyola Marymount,Loyola Marymount,Offensive Rebound,70,65
+2:09,Loyola Marymount,Zafir Williams,Missed Three Point Jumper,70,65
+2:09,Loyola Marymount,James Batemon,Offensive Rebound,70,65
+2:06,Santa Clara,Trey Wertz,Foul,70,65
+2:06,Loyola Marymount,James Batemon,Free Throw,70,66
+2:06,Loyola Marymount,James Batemon,Free Throw,70,67
+2:04,Santa Clara,Josip Vrankic,Turnover,70,67
+2:04,Loyola Marymount,Dameane Douglas,Steal,70,67
+1:52,Santa Clara,Josip Vrankic,Foul,70,67
+1:52,Loyola Marymount,Eli Scott,Free Throw,70,68
+1:52,Loyola Marymount,Eli Scott,Free Throw,70,69
+1:50,Santa Clara,None,None,70,69
+1:33,Santa Clara,Guglielmo Caruso,Missed Layup,70,69
+1:33,Loyola Marymount,Eli Scott,Block,70,69
+1:30,Santa Clara,Keshawn Justice,Offensive Rebound,70,69
+1:11,Santa Clara,Josip Vrankic,Turnover,70,69
+0:58,Loyola Marymount,James Batemon,Missed Jumper,70,69
+0:58,Loyola Marymount,James Batemon,Offensive Rebound,70,69
+0:57,Santa Clara,Max Dorward,Foul,70,69
+0:57,Loyola Marymount,James Batemon,Free Throw,70,70
+0:57,Loyola Marymount,James Batemon,Free Throw,70,71
+0:43,Santa Clara,Guglielmo Caruso,Missed Jumper,70,71
+0:43,Loyola Marymount,Zafir Williams,Defensive Rebound,70,71
+0:13,Loyola Marymount,Dameane Douglas,Missed Jumper,70,71
+0:13,Loyola Marymount,Jeffery McClendon,Offensive Rebound,70,71
+0:10,Loyola Marymount,Jeffery McClendon,Missed Layup,70,71
+0:10,Loyola Marymount,Dameane Douglas,Offensive Rebound,70,71
+0:05,Santa Clara,Guglielmo Caruso,Foul,70,71
+0:05,Loyola Marymount,James Batemon,Missed Free Throw,70,71
+0:05,Loyola Marymount,None,Team Rebound,70,71
+0:05,Loyola Marymount,James Batemon,Free Throw,70,72
+0:00,Santa Clara,Tahj Eaddy,Missed Three Point Jumper,70,72
+0:00,Loyola Marymount,Loyola Marymount,Defensive Rebound,70,72
+0:00,Loyola Marymount,None,None,70,72

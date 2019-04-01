@@ -1,0 +1,349 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:49,UNC Wilmington,Ty Gadsden,Missed Three Point Jumper,0,0
+19:49,Elon,Kris Wooten,Defensive Rebound,0,0
+19:28,Elon,Steven Santa Ana,Layup,0,2
+19:13,UNC Wilmington,Jay Estime',Turnover,0,2
+18:47,Elon,Nathan Priddy,Missed Layup,0,2
+18:47,UNC Wilmington,Devontae Cacok,Block,0,2
+18:44,UNC Wilmington,Jeantal Cylla,Defensive Rebound,0,2
+18:36,UNC Wilmington,Jeantal Cylla,Layup,2,2
+18:22,Elon,Nathan Priddy,Three Point Jumper,2,5
+18:06,UNC Wilmington,Kai Toews,Foul,2,5
+18:06,UNC Wilmington,Kai Toews,Turnover,2,5
+17:50,Elon,Tyler Seibring,Jumper,2,7
+17:26,Elon,Tyler Seibring,Foul,2,7
+17:26,UNC Wilmington,Jeantal Cylla,Free Throw,3,7
+17:26,UNC Wilmington,Jeantal Cylla,Free Throw,4,7
+16:56,Elon,Steven Santa Ana,Missed Three Point Jumper,4,7
+16:56,UNC Wilmington,UNC Wilmington,Defensive Rebound,4,7
+16:46,Elon,Steven Santa Ana,Turnover,4,7
+16:46,UNC Wilmington,Ty Gadsden,Steal,4,7
+16:38,UNC Wilmington,Devontae Cacok,Layup,6,7
+16:30,Elon,Federico Poser,Missed Layup,6,7
+16:30,Elon,Federico Poser,Offensive Rebound,6,7
+16:24,UNC Wilmington,Jay Estime',Foul,6,7
+16:18,UNC Wilmington,Ty Gadsden,Foul,6,7
+16:18,Elon,Steven Santa Ana,Free Throw,6,8
+16:18,Elon,Steven Santa Ana,Free Throw,6,9
+15:59,UNC Wilmington,Devontae Cacok,Layup,8,9
+15:37,Elon,Sheldon Eberhardt,Missed Three Point Jumper,8,9
+15:37,UNC Wilmington,Devontae Cacok,Defensive Rebound,8,9
+15:29,UNC Wilmington,Jay Estime',Missed Three Point Jumper,8,9
+15:29,UNC Wilmington,Kai Toews,Offensive Rebound,8,9
+15:23,UNC Wilmington,Ty Gadsden,Three Point Jumper,11,9
+15:02,Elon,Tyler Seibring,Jumper,11,11
+14:51,UNC Wilmington,Devontae Cacok,Layup,13,11
+14:35,Elon,Kris Wooten,Jumper,13,13
+14:24,UNC Wilmington,Jay Estime',Missed Layup,13,13
+14:24,UNC Wilmington,Devontae Cacok,Offensive Rebound,13,13
+14:19,UNC Wilmington,Devontae Cacok,Layup,15,13
+13:56,Elon,Tyler Seibring,Missed Jumper,15,13
+13:56,UNC Wilmington,Devontae Cacok,Defensive Rebound,15,13
+13:47,UNC Wilmington,Jeantal Cylla,Turnover,15,13
+13:47,Elon,None,None,15,13
+13:38,Elon,Steven Santa Ana,Three Point Jumper,15,16
+13:21,UNC Wilmington,Jeantal Cylla,Foul,15,16
+12:51,UNC Wilmington,Jaylen Fornes,Layup,17,16
+12:38,Elon,Sheldon Eberhardt,Jumper,17,18
+12:23,UNC Wilmington,Jeantal Cylla,Missed Layup,17,18
+12:23,Elon,Tyler Seibring,Block,17,18
+12:21,UNC Wilmington,Jeantal Cylla,Offensive Rebound,17,18
+12:21,Elon,Tyler Seibring,Foul,17,18
+12:21,UNC Wilmington,Jeantal Cylla,Missed Free Throw,17,18
+12:21,UNC Wilmington,None,Team Rebound,17,18
+12:21,UNC Wilmington,Jeantal Cylla,Free Throw,18,18
+12:04,UNC Wilmington,None,Team Rebound,18,18
+12:04,Elon,Steven Santa Ana,Free Throw,18,19
+12:04,UNC Wilmington,Jaylen Fornes,Foul,18,18
+12:04,Elon,Steven Santa Ana,Missed Free Throw,18,18
+11:39,UNC Wilmington,Jaylen Fornes,Missed Three Point Jumper,18,19
+11:39,UNC Wilmington,Jaylen Sims,Offensive Rebound,18,19
+11:32,UNC Wilmington,Jaylen Sims,Dunk,20,19
+11:17,Elon,Steven Santa Ana,Missed Three Point Jumper,20,19
+11:17,UNC Wilmington,Jaylen Sims,Defensive Rebound,20,19
+11:02,UNC Wilmington,Ty Gadsden,Three Point Jumper,23,19
+10:44,Elon,Sheldon Eberhardt,Missed Layup,23,19
+10:44,Elon,Chuck Hannah,Offensive Rebound,23,19
+10:38,Elon,Chuck Hannah,Layup,23,21
+10:19,Elon,Simon Wright,Foul,23,21
+10:19,Elon,None,None,23,21
+10:10,UNC Wilmington,Jaylen Fornes,Three Point Jumper,26,21
+9:36,Elon,Sheldon Eberhardt,Missed Jumper,26,21
+9:36,Elon,Sheldon Eberhardt,Offensive Rebound,26,21
+9:33,Elon,Sheldon Eberhardt,Layup,26,23
+9:24,UNC Wilmington,Ty Gadsden,Missed Three Point Jumper,26,23
+9:24,Elon,Simon Wright,Defensive Rebound,26,23
+9:06,Elon,Sheldon Eberhardt,Foul,26,23
+9:06,Elon,Sheldon Eberhardt,Turnover,26,23
+8:57,UNC Wilmington,Ty Gadsden,Jumper,28,23
+8:37,UNC Wilmington,Devontae Cacok,Foul,28,23
+8:30,Elon,Steven Santa Ana,Missed Layup,28,23
+8:30,UNC Wilmington,Ty Gadsden,Defensive Rebound,28,23
+8:21,UNC Wilmington,Jeantal Cylla,Missed Layup,28,23
+8:21,Elon,Tyler Seibring,Defensive Rebound,28,23
+8:06,Elon,Chuck Hannah,Missed Three Point Jumper,28,23
+8:06,UNC Wilmington,Jay Estime',Defensive Rebound,28,23
+7:58,UNC Wilmington,Jeantal Cylla,Layup,30,23
+7:50,Elon,Kris Wooten,Layup,30,25
+7:33,UNC Wilmington,Devontae Cacok,Foul,30,25
+7:33,UNC Wilmington,Devontae Cacok,Turnover,30,25
+7:33,Elon,None,None,30,25
+7:26,Elon,Tyler Seibring,Missed Jumper,30,25
+7:26,Elon,Federico Poser,Offensive Rebound,30,25
+7:24,UNC Wilmington,Shawn O'Connell,Foul,30,25
+7:24,Elon,Federico Poser,Missed Free Throw,30,25
+7:24,UNC Wilmington,Jeantal Cylla,Defensive Rebound,30,25
+7:10,UNC Wilmington,Jay Estime',Three Point Jumper,33,25
+6:55,Elon,Nathan Priddy,Missed Three Point Jumper,33,25
+6:55,UNC Wilmington,Shawn O'Connell,Defensive Rebound,33,25
+6:43,Elon,Nathan Priddy,Foul,33,25
+6:29,UNC Wilmington,Jeantal Cylla,Three Point Jumper,36,25
+5:59,Elon,Sheldon Eberhardt,Missed Jumper,36,25
+5:59,Elon,Tyler Seibring,Offensive Rebound,36,25
+5:55,Elon,Tyler Seibring,Layup,36,27
+5:40,UNC Wilmington,Jeantal Cylla,Missed Jumper,36,27
+5:40,Elon,Steven Santa Ana,Defensive Rebound,36,27
+5:28,Elon,Sheldon Eberhardt,Turnover,36,27
+5:22,UNC Wilmington,Jay Estime',Missed Jumper,36,27
+5:22,Elon,Kris Wooten,Defensive Rebound,36,27
+5:08,Elon,Sheldon Eberhardt,Turnover,36,27
+4:59,UNC Wilmington,Ty Gadsden,Missed Three Point Jumper,36,27
+4:59,Elon,Steven Santa Ana,Defensive Rebound,36,27
+4:41,UNC Wilmington,Jeantal Cylla,Foul,36,27
+4:41,Elon,Steven Santa Ana,Free Throw,36,28
+4:41,Elon,Steven Santa Ana,Free Throw,36,29
+4:33,UNC Wilmington,Kai Toews,Missed Jumper,36,29
+4:33,Elon,Steven Santa Ana,Defensive Rebound,36,29
+4:24,Elon,Sheldon Eberhardt,Missed Jumper,36,29
+4:24,Elon,Chuck Hannah,Offensive Rebound,36,29
+4:20,Elon,Chuck Hannah,Jumper,36,31
+4:09,Elon,Federico Poser,Foul,36,31
+4:09,UNC Wilmington,Jaylen Sims,Free Throw,37,31
+4:09,UNC Wilmington,Jaylen Sims,Free Throw,38,31
+3:55,Elon,Tyler Seibring,Missed Layup,38,31
+3:55,UNC Wilmington,Jaylen Sims,Defensive Rebound,38,31
+3:40,UNC Wilmington,Jaylen Fornes,Turnover,38,31
+3:39,Elon,Tyler Seibring,Steal,38,31
+3:33,Elon,Chuck Hannah,Turnover,38,31
+3:31,UNC Wilmington,Kai Toews,Steal,38,31
+3:29,UNC Wilmington,Jay Estime',Layup,40,31
+3:05,Elon,Kris Wooten,Turnover,40,31
+3:04,UNC Wilmington,Ty Gadsden,Steal,40,31
+3:02,Elon,Steven Santa Ana,Foul,40,31
+3:02,Elon,None,None,40,31
+3:02,UNC Wilmington,Ty Gadsden,Free Throw,41,31
+3:02,UNC Wilmington,Ty Gadsden,Free Throw,42,31
+2:40,Elon,Steven Santa Ana,Missed Layup,42,31
+2:40,UNC Wilmington,Ty Taylor II,Defensive Rebound,42,31
+2:23,UNC Wilmington,Kai Toews,Layup,44,31
+2:20,Elon,None,None,44,31
+2:08,Elon,Steven Santa Ana,Layup,44,33
+1:40,Elon,Sheldon Eberhardt,Foul,44,33
+1:40,UNC Wilmington,Jaylen Sims,Missed Free Throw,44,33
+1:40,Elon,Andy Pack,Defensive Rebound,44,33
+1:19,Elon,Steven Santa Ana,Three Point Jumper,44,36
+1:02,UNC Wilmington,Jay Estime',Turnover,44,36
+1:01,Elon,Tyler Seibring,Steal,44,36
+0:44,Elon,Andy Pack,Missed Jumper,44,36
+0:44,UNC Wilmington,Jaylen Sims,Block,44,36
+0:39,UNC Wilmington,Ty Taylor II,Defensive Rebound,44,36
+0:35,UNC Wilmington,Jay Estime',Missed Three Point Jumper,44,36
+0:35,UNC Wilmington,Jaylen Sims,Offensive Rebound,44,36
+0:29,UNC Wilmington,Jaylen Sims,Layup,46,36
+0:03,Elon,Simon Wright,Layup,46,38
+0:00,Elon,None,None,46,38
+19:48,Elon,Steven Santa Ana,Missed Jumper,46,38
+19:48,UNC Wilmington,Devontae Cacok,Block,46,38
+19:48,Elon,Elon,Offensive Rebound,46,38
+19:45,Elon,Tyler Seibring,Missed Jumper,46,38
+19:45,UNC Wilmington,Devontae Cacok,Defensive Rebound,46,38
+19:26,UNC Wilmington,Jeantal Cylla,Missed Jumper,46,38
+19:26,Elon,Tyler Seibring,Defensive Rebound,46,38
+19:00,Elon,Kris Wooten,Three Point Jumper,46,41
+18:46,UNC Wilmington,Devontae Cacok,Layup,48,41
+18:27,Elon,Nathan Priddy,Missed Three Point Jumper,48,41
+18:27,UNC Wilmington,Devontae Cacok,Defensive Rebound,48,41
+18:15,UNC Wilmington,Jeantal Cylla,Layup,50,41
+18:04,Elon,Nathan Priddy,Missed Jumper,50,41
+18:04,UNC Wilmington,Ty Gadsden,Defensive Rebound,50,41
+17:53,UNC Wilmington,Jay Estime',Three Point Jumper,53,41
+17:33,UNC Wilmington,Ty Gadsden,Foul,53,41
+17:27,Elon,Steven Santa Ana,Layup,53,43
+17:17,UNC Wilmington,Jeantal Cylla,Turnover,53,43
+17:17,Elon,Tyler Seibring,Steal,53,43
+17:16,Elon,Steven Santa Ana,Layup,53,45
+17:02,UNC Wilmington,Jeantal Cylla,Missed Three Point Jumper,53,45
+17:02,UNC Wilmington,Devontae Cacok,Offensive Rebound,53,45
+16:28,Elon,Steven Santa Ana,Foul,53,45
+16:28,UNC Wilmington,Jeantal Cylla,Free Throw,54,45
+16:28,UNC Wilmington,Jeantal Cylla,Free Throw,55,45
+16:15,UNC Wilmington,Jaylen Sims,Foul,55,45
+16:02,Elon,Nathan Priddy,Missed Jumper,55,45
+16:02,UNC Wilmington,Devontae Cacok,Block,55,45
+15:59,UNC Wilmington,Kai Toews,Defensive Rebound,55,45
+15:56,UNC Wilmington,Kai Toews,Missed Layup,55,45
+15:56,UNC Wilmington,Devontae Cacok,Offensive Rebound,55,45
+15:53,UNC Wilmington,Devontae Cacok,Layup,57,45
+15:36,Elon,Tyler Seibring,Jumper,57,47
+15:16,UNC Wilmington,Jay Estime',Missed Three Point Jumper,57,47
+15:16,Elon,Tyler Seibring,Defensive Rebound,57,47
+15:04,Elon,Kris Wooten,Missed Three Point Jumper,57,47
+15:04,Elon,Kris Wooten,Offensive Rebound,57,47
+14:55,Elon,Tyler Seibring,Missed Three Point Jumper,57,47
+14:55,Elon,Elon,Offensive Rebound,57,47
+14:52,Elon,None,None,57,47
+14:48,UNC Wilmington,Jaylen Fornes,Foul,57,47
+14:48,Elon,Steven Santa Ana,Missed Free Throw,57,47
+14:48,Elon,None,Team Rebound,57,47
+14:48,Elon,Steven Santa Ana,Free Throw,57,48
+14:48,Elon,Steven Santa Ana,Free Throw,57,49
+14:30,UNC Wilmington,Jaylen Fornes,Missed Three Point Jumper,57,49
+14:30,UNC Wilmington,Jeantal Cylla,Offensive Rebound,57,49
+14:25,UNC Wilmington,Jeantal Cylla,Layup,59,49
+14:04,Elon,Tyler Seibring,Missed Three Point Jumper,59,49
+14:04,UNC Wilmington,Jeantal Cylla,Defensive Rebound,59,49
+13:56,UNC Wilmington,Kai Toews,Jumper,61,49
+13:27,Elon,Federico Poser,Missed Jumper,61,49
+13:27,UNC Wilmington,Devontae Cacok,Defensive Rebound,61,49
+13:17,UNC Wilmington,Devontae Cacok,Missed Layup,61,49
+13:17,Elon,Federico Poser,Defensive Rebound,61,49
+13:07,Elon,Tyler Seibring,Missed Layup,61,49
+13:07,UNC Wilmington,Jaylen Sims,Defensive Rebound,61,49
+13:04,UNC Wilmington,Jaylen Sims,Turnover,61,49
+13:02,Elon,Sheldon Eberhardt,Steal,61,49
+12:58,Elon,Federico Poser,Layup,61,51
+12:58,UNC Wilmington,Devontae Cacok,Foul,61,51
+12:58,Elon,Federico Poser,Free Throw,61,52
+12:47,UNC Wilmington,Jaylen Sims,Layup,63,52
+12:25,Elon,Andy Pack,Missed Layup,63,52
+12:25,Elon,Andy Pack,Offensive Rebound,63,52
+12:13,Elon,Federico Poser,Layup,63,54
+11:56,UNC Wilmington,Shawn O'Connell,Missed Layup,63,54
+11:56,Elon,Federico Poser,Block,63,54
+11:53,Elon,Nathan Priddy,Defensive Rebound,63,54
+11:50,Elon,Sheldon Eberhardt,Missed Three Point Jumper,63,54
+11:50,UNC Wilmington,Jeantal Cylla,Defensive Rebound,63,54
+11:43,UNC Wilmington,Jeantal Cylla,Missed Layup,63,54
+11:43,Elon,Andy Pack,Defensive Rebound,63,54
+11:37,Elon,Andy Pack,Turnover,63,54
+11:37,UNC Wilmington,Jaylen Sims,Steal,63,54
+11:37,UNC Wilmington,None,None,63,54
+11:25,UNC Wilmington,Ty Gadsden,Missed Jumper,63,54
+11:25,Elon,Elon,Defensive Rebound,63,54
+11:23,Elon,None,None,63,54
+10:59,Elon,Steven Santa Ana,Missed Layup,63,54
+10:59,Elon,Federico Poser,Offensive Rebound,63,54
+10:51,Elon,Tyler Seibring,Three Point Jumper,63,57
+10:36,UNC Wilmington,Devontae Cacok,Missed Jumper,63,57
+10:36,Elon,Tyler Seibring,Block,63,57
+10:36,UNC Wilmington,UNC Wilmington,Offensive Rebound,63,57
+10:34,UNC Wilmington,Devontae Cacok,Missed Jumper,63,57
+10:34,Elon,Andy Pack,Defensive Rebound,63,57
+10:12,Elon,Federico Poser,Jumper,63,59
+10:02,UNC Wilmington,Ty Gadsden,Three Point Jumper,66,59
+9:53,Elon,Andy Pack,Missed Three Point Jumper,66,59
+9:53,Elon,Federico Poser,Offensive Rebound,66,59
+9:47,Elon,Federico Poser,Layup,66,61
+9:35,UNC Wilmington,Jaylen Fornes,Missed Three Point Jumper,66,61
+9:35,Elon,Federico Poser,Defensive Rebound,66,61
+9:27,Elon,Sheldon Eberhardt,Turnover,66,61
+9:23,UNC Wilmington,Kai Toews,Steal,66,61
+9:22,UNC Wilmington,Kai Toews,Jumper,68,61
+9:08,Elon,Federico Poser,Missed Jumper,68,61
+9:08,Elon,Sheldon Eberhardt,Offensive Rebound,68,61
+9:05,Elon,Sheldon Eberhardt,Layup,68,63
+8:52,UNC Wilmington,Jeantal Cylla,Jumper,70,63
+8:19,Elon,Federico Poser,Turnover,70,63
+8:19,Elon,None,None,70,63
+8:03,UNC Wilmington,Kai Toews,Layup,72,63
+7:44,Elon,Nathan Priddy,Three Point Jumper,72,66
+7:24,UNC Wilmington,Kai Toews,Missed Layup,72,66
+7:24,UNC Wilmington,Jeantal Cylla,Offensive Rebound,72,66
+7:22,UNC Wilmington,Jeantal Cylla,Layup,74,66
+7:22,Elon,Chuck Hannah,Foul,74,66
+7:22,UNC Wilmington,Jeantal Cylla,Free Throw,75,66
+7:11,Elon,Kris Wooten,Missed Three Point Jumper,75,66
+7:11,UNC Wilmington,Jeantal Cylla,Defensive Rebound,75,66
+6:48,UNC Wilmington,Jeantal Cylla,Missed Jumper,75,66
+6:48,Elon,Kris Wooten,Defensive Rebound,75,66
+6:31,Elon,Tyler Seibring,Missed Three Point Jumper,75,66
+6:31,UNC Wilmington,Jaylen Sims,Defensive Rebound,75,66
+6:08,UNC Wilmington,Jay Estime',Turnover,75,66
+6:07,Elon,Kris Wooten,Steal,75,66
+5:54,Elon,Tyler Seibring,Missed Layup,75,66
+5:54,Elon,Chuck Hannah,Offensive Rebound,75,66
+5:48,Elon,Chuck Hannah,Missed Layup,75,66
+5:48,UNC Wilmington,Jeantal Cylla,Block,75,66
+5:47,UNC Wilmington,Kai Toews,Defensive Rebound,75,66
+5:27,UNC Wilmington,Ty Gadsden,Three Point Jumper,78,66
+5:22,Elon,None,None,78,66
+5:06,Elon,Tyler Seibring,Missed Three Point Jumper,78,66
+5:06,UNC Wilmington,Devontae Cacok,Defensive Rebound,78,66
+4:37,UNC Wilmington,Jaylen Sims,Three Point Jumper,81,66
+4:26,UNC Wilmington,Ty Gadsden,Foul,81,66
+4:21,Elon,Steven Santa Ana,Turnover,81,66
+4:21,UNC Wilmington,Ty Gadsden,Steal,81,66
+3:57,UNC Wilmington,Kai Toews,Missed Three Point Jumper,81,66
+3:57,UNC Wilmington,Devontae Cacok,Offensive Rebound,81,66
+3:49,UNC Wilmington,Jaylen Fornes,Missed Three Point Jumper,81,66
+3:49,Elon,Steven Santa Ana,Defensive Rebound,81,66
+3:38,Elon,Federico Poser,Missed Jumper,81,66
+3:38,UNC Wilmington,Devontae Cacok,Defensive Rebound,81,66
+3:08,UNC Wilmington,Kai Toews,Missed Three Point Jumper,81,66
+3:08,Elon,Elon,Defensive Rebound,81,66
+3:06,Elon,None,None,81,66
+2:57,UNC Wilmington,Ty Gadsden,Foul,81,66
+2:57,Elon,Steven Santa Ana,Free Throw,81,67
+2:57,Elon,Steven Santa Ana,Free Throw,81,68
+2:54,UNC Wilmington,None,None,81,68
+2:50,Elon,Chuck Hannah,Foul,81,68
+2:48,Elon,Nathan Priddy,Foul,81,68
+2:42,Elon,Sheldon Eberhardt,Foul,81,68
+2:40,UNC Wilmington,Kai Toews,Turnover,81,68
+2:35,Elon,Steven Santa Ana,Turnover,81,68
+2:35,UNC Wilmington,Jay Estime',Steal,81,68
+2:25,UNC Wilmington,Devontae Cacok,Turnover,81,68
+2:25,Elon,Tyler Seibring,Steal,81,68
+2:17,Elon,Sheldon Eberhardt,Three Point Jumper,81,71
+2:09,Elon,Steven Santa Ana,Foul,81,71
+1:57,UNC Wilmington,Devontae Cacok,Layup,83,71
+1:46,Elon,Tyler Seibring,Missed Three Point Jumper,83,71
+1:46,Elon,Chuck Hannah,Offensive Rebound,83,71
+1:41,Elon,Steven Santa Ana,Three Point Jumper,83,74
+1:40,Elon,None,None,83,74
+1:32,UNC Wilmington,Devontae Cacok,Dunk,85,74
+1:20,Elon,Tyler Seibring,Three Point Jumper,85,77
+1:12,Elon,Nathan Priddy,Foul,85,77
+1:12,UNC Wilmington,Kai Toews,Free Throw,86,77
+1:12,UNC Wilmington,Kai Toews,Missed Free Throw,86,77
+1:12,Elon,Tyler Seibring,Defensive Rebound,86,77
+1:04,Elon,Sheldon Eberhardt,Missed Layup,86,77
+1:04,Elon,Federico Poser,Offensive Rebound,86,77
+0:58,Elon,Federico Poser,Layup,86,79
+0:56,Elon,Andy Pack,Foul,86,79
+0:56,UNC Wilmington,Kai Toews,Missed Free Throw,86,79
+0:56,Elon,Tyler Seibring,Defensive Rebound,86,79
+0:42,UNC Wilmington,Jay Estime',Foul,86,79
+0:42,Elon,Steven Santa Ana,Missed Free Throw,86,79
+0:42,UNC Wilmington,Devontae Cacok,Defensive Rebound,86,79
+0:36,Elon,Steven Santa Ana,Foul,86,79
+0:36,UNC Wilmington,Jay Estime',Free Throw,87,79
+0:36,UNC Wilmington,Jay Estime',Free Throw,88,79
+0:33,Elon,Sheldon Eberhardt,Jumper,88,81
+0:27,Elon,Nathan Priddy,Foul,88,81
+0:27,UNC Wilmington,Kai Toews,Free Throw,89,81
+0:27,UNC Wilmington,Kai Toews,Missed Free Throw,89,81
+0:27,Elon,Tyler Seibring,Defensive Rebound,89,81
+0:18,Elon,Sheldon Eberhardt,Three Point Jumper,89,84
+0:11,Elon,Nathan Priddy,Foul,89,84
+0:11,UNC Wilmington,Jaylen Sims,Free Throw,90,84
+0:11,UNC Wilmington,Jaylen Sims,Free Throw,91,84
+0:05,UNC Wilmington,Jeantal Cylla,Foul,91,84
+0:05,Elon,Sheldon Eberhardt,Free Throw,91,85
+0:05,Elon,Sheldon Eberhardt,Free Throw,91,86
+0:05,Elon,Sheldon Eberhardt,Missed Free Throw,91,86
+0:05,UNC Wilmington,Jeantal Cylla,Defensive Rebound,91,86
+0:03,Elon,Federico Poser,Foul,91,86
+0:03,UNC Wilmington,Jeantal Cylla,Free Throw,92,86
+0:03,UNC Wilmington,Jeantal Cylla,Free Throw,93,86
+0:00,Elon,None,None,93,86

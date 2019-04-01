@@ -1,0 +1,357 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,Wisconsin,Khalil Iverson,Turnover,0,0
+19:44,Marquette,Theo John,Steal,0,0
+19:32,Marquette,Sacar Anim,Missed Three Point Jumper,0,0
+19:26,Wisconsin,None,Team Rebound,0,0
+19:21,Marquette,Theo John,Foul,0,0
+18:59,Wisconsin,Ethan Happ,Jumper,2,0
+18:39,Marquette,Joey Hauser,Layup,2,2
+18:21,Wisconsin,Khalil Iverson,Turnover,2,2
+18:02,Marquette,Markus Howard,Missed Jumper,2,2
+18:02,Wisconsin,Nate Reuvers,Block,2,2
+17:54,Wisconsin,Khalil Iverson,Defensive Rebound,2,2
+17:53,Wisconsin,Khalil Iverson,Turnover,2,2
+17:53,Marquette,Sam Hauser,Steal,2,2
+17:47,Marquette,Markus Howard,Three Point Jumper,2,5
+17:31,Wisconsin,Ethan Happ,Turnover,2,5
+17:31,Marquette,Joey Hauser,Steal,2,5
+17:12,Marquette,Markus Howard,Missed Three Point Jumper,2,5
+17:09,Wisconsin,Brad Davison,Defensive Rebound,2,5
+16:57,Wisconsin,Brad Davison,Missed Three Point Jumper,2,5
+16:53,Wisconsin,Ethan Happ,Offensive Rebound,2,5
+16:49,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,2,5
+16:44,Marquette,None,Team Rebound,2,5
+16:30,Marquette,Joey Hauser,Turnover,2,5
+16:01,Wisconsin,Ethan Happ,Layup,4,5
+15:51,Marquette,Markus Howard,Missed Jumper,4,5
+15:47,Wisconsin,D'Mitrik Trice,Defensive Rebound,4,5
+15:39,Wisconsin,Aleem Ford,Missed Three Point Jumper,4,5
+15:36,Marquette,Markus Howard,Defensive Rebound,4,5
+15:25,Marquette,Joey Hauser,Missed Three Point Jumper,4,5
+15:21,Wisconsin,Ethan Happ,Defensive Rebound,4,5
+15:08,Wisconsin,Brad Davison,Turnover,4,5
+15:08,Marquette,None,None,4,5
+14:54,Marquette,Markus Howard,Turnover,4,5
+14:44,Wisconsin,Kobe King,Turnover,4,5
+14:44,Marquette,Markus Howard,Steal,4,5
+14:41,Wisconsin,Kobe King,Foul,4,5
+14:41,Marquette,Markus Howard,Free Throw,4,6
+14:41,Marquette,Markus Howard,Free Throw,4,7
+14:26,Wisconsin,Aleem Ford,Dunk,6,7
+14:07,Marquette,Ed Morrow,Turnover,6,7
+14:07,Wisconsin,Ethan Happ,Steal,6,7
+14:00,Wisconsin,Ethan Happ,Missed Jumper,6,7
+13:56,Marquette,Sam Hauser,Defensive Rebound,6,7
+13:54,Marquette,Markus Howard,Missed Layup,6,7
+13:48,Marquette,Markus Howard,Offensive Rebound,6,7
+13:48,Marquette,Markus Howard,Layup,6,9
+13:31,Wisconsin,Kobe King,Missed Three Point Jumper,6,9
+13:25,Wisconsin,Ethan Happ,Offensive Rebound,6,9
+13:25,Wisconsin,Ethan Happ,Layup,8,9
+13:10,Marquette,Sacar Anim,Missed Jumper,8,9
+13:03,Wisconsin,Brevin Pritzl,Defensive Rebound,8,9
+12:54,Wisconsin,Ethan Happ,Layup,10,9
+12:44,Marquette,Sam Hauser,Three Point Jumper,10,12
+12:20,Wisconsin,Kobe King,Missed Layup,10,12
+12:20,Marquette,Brendan Bailey,Block,10,12
+12:15,Marquette,Ed Morrow,Defensive Rebound,10,12
+12:13,Marquette,Markus Howard,Missed Layup,10,12
+12:13,Wisconsin,None,Team Rebound,10,12
+12:13,Marquette,Ed Morrow,Foul,10,12
+11:47,Wisconsin,Aleem Ford,Three Point Jumper,13,12
+11:30,Marquette,Markus Howard,Missed Three Point Jumper,13,12
+11:24,Marquette,Theo John,Offensive Rebound,13,12
+11:24,Marquette,Theo John,Layup,13,14
+10:59,Wisconsin,Nate Reuvers,Missed Three Point Jumper,13,14
+10:54,Marquette,Joseph Chartouny,Defensive Rebound,13,14
+10:43,Marquette,None,None,13,14
+10:36,Marquette,Joey Hauser,Three Point Jumper,13,17
+10:13,Wisconsin,Nate Reuvers,Layup,15,17
+9:39,Marquette,Brendan Bailey,Missed Three Point Jumper,15,17
+9:32,Wisconsin,Wisconsin,Defensive Rebound,15,17
+9:15,Wisconsin,Brevin Pritzl,Missed Layup,15,17
+9:15,Marquette,Theo John,Block,15,17
+9:10,Marquette,Joseph Chartouny,Defensive Rebound,15,17
+9:02,Marquette,Joey Hauser,Missed Three Point Jumper,15,17
+8:58,Wisconsin,D'Mitrik Trice,Defensive Rebound,15,17
+8:53,Wisconsin,Nate Reuvers,Three Point Jumper,18,17
+8:20,Marquette,Markus Howard,Missed Jumper,18,17
+8:13,Marquette,Theo John,Offensive Rebound,18,17
+8:13,Marquette,Theo John,Missed Layup,18,17
+8:12,Wisconsin,Brad Davison,Defensive Rebound,18,17
+8:08,Marquette,Theo John,Foul,18,17
+8:08,Wisconsin,Nate Reuvers,Missed Free Throw,18,17
+8:08,Wisconsin,None,Team Rebound,18,17
+8:08,Wisconsin,Nate Reuvers,Free Throw,19,17
+7:51,Marquette,Sam Hauser,Missed Jumper,19,17
+7:47,Marquette,Sam Hauser,Offensive Rebound,19,17
+7:39,Marquette,None,None,19,17
+7:24,Marquette,Ed Morrow,Turnover,19,17
+7:05,Marquette,Sam Hauser,Defensive Rebound,19,17
+6:56,Marquette,Sam Hauser,Three Point Jumper,19,20
+6:35,Wisconsin,D'Mitrik Trice,Three Point Jumper,22,20
+6:02,Marquette,Markus Howard,Missed Layup,22,20
+5:58,Wisconsin,Aleem Ford,Defensive Rebound,22,20
+5:48,Wisconsin,Ethan Happ,Layup,24,20
+5:30,Marquette,Sacar Anim,Jumper,24,22
+5:02,Wisconsin,Aleem Ford,Missed Three Point Jumper,24,22
+5:00,Marquette,Ed Morrow,Defensive Rebound,24,22
+4:38,Marquette,Markus Howard,Missed Layup,24,22
+4:37,Wisconsin,Brevin Pritzl,Foul,24,22
+4:33,Marquette,Matt Heldt,Offensive Rebound,24,22
+4:33,Marquette,Sam Hauser,Missed Jumper,24,22
+4:27,Wisconsin,Khalil Iverson,Defensive Rebound,24,22
+4:09,Wisconsin,Aleem Ford,Three Point Jumper,27,22
+3:50,Marquette,Sam Hauser,Missed Jumper,27,22
+3:46,Wisconsin,D'Mitrik Trice,Defensive Rebound,27,22
+3:39,Wisconsin,Nate Reuvers,Missed Three Point Jumper,27,22
+3:36,Marquette,Sacar Anim,Defensive Rebound,27,22
+3:26,Marquette,Sacar Anim,Missed Jumper,27,22
+3:21,Wisconsin,Khalil Iverson,Defensive Rebound,27,22
+3:07,Wisconsin,Khalil Iverson,Turnover,27,22
+3:07,Marquette,Matt Heldt,Steal,27,22
+3:04,Wisconsin,Khalil Iverson,Foul,27,22
+3:04,Marquette,None,None,27,22
+3:04,Marquette,Markus Howard,Free Throw,27,23
+3:04,Marquette,Markus Howard,Free Throw,27,24
+3:04,Marquette,Markus Howard,Free Throw,27,25
+2:31,Wisconsin,Kobe King,Jumper,29,25
+2:17,Marquette,Markus Howard,Jumper,29,27
+2:17,Wisconsin,Kobe King,Foul,29,27
+2:17,Marquette,Markus Howard,Free Throw,29,28
+1:49,Wisconsin,Brevin Pritzl,Missed Three Point Jumper,29,28
+1:46,Marquette,Matt Heldt,Defensive Rebound,29,28
+1:35,Marquette,Sam Hauser,Missed Jumper,29,28
+1:32,Wisconsin,D'Mitrik Trice,Defensive Rebound,29,28
+1:08,Wisconsin,Nate Reuvers,Jumper,31,28
+0:40,Marquette,Sam Hauser,Jumper,31,30
+0:30,Wisconsin,None,None,31,30
+0:08,Wisconsin,Ethan Happ,Layup,33,30
+0:01,Marquette,Markus Howard,Layup,33,32
+0:00,Marquette,None,None,33,30
+19:43,Marquette,Markus Howard,Missed Jumper,33,32
+19:43,Marquette,Theo John,Foul,33,32
+19:38,Wisconsin,None,Team Rebound,33,32
+19:32,Marquette,Joey Hauser,Foul,33,32
+19:32,Wisconsin,Khalil Iverson,Missed Free Throw,33,32
+19:32,Wisconsin,None,Team Rebound,33,32
+19:32,Wisconsin,Khalil Iverson,Free Throw,34,32
+19:23,Marquette,Sacar Anim,Turnover,34,32
+19:23,Wisconsin,Ethan Happ,Steal,34,32
+19:19,Wisconsin,Ethan Happ,Layup,36,32
+19:19,Marquette,Joey Hauser,Foul,36,32
+19:18,Wisconsin,Ethan Happ,Missed Free Throw,36,32
+19:16,Marquette,Joey Hauser,Defensive Rebound,36,32
+19:05,Wisconsin,Khalil Iverson,Foul,36,32
+19:01,Wisconsin,D'Mitrik Trice,Foul,36,32
+19:01,Marquette,Markus Howard,Free Throw,36,33
+19:01,Marquette,Markus Howard,Free Throw,36,34
+18:50,Wisconsin,D'Mitrik Trice,Jumper,38,34
+18:31,Wisconsin,Ethan Happ,Foul,38,34
+18:29,Marquette,Joey Hauser,Missed Layup,38,34
+18:29,Wisconsin,Ethan Happ,Block,38,34
+18:22,Wisconsin,Brad Davison,Defensive Rebound,38,34
+18:03,Wisconsin,Ethan Happ,Missed Layup,38,34
+18:00,Marquette,Sam Hauser,Defensive Rebound,38,34
+17:54,Marquette,Sacar Anim,Missed Three Point Jumper,38,34
+17:53,Marquette,Ed Morrow,Foul,38,34
+17:46,Wisconsin,Nate Reuvers,Defensive Rebound,38,34
+17:22,Marquette,None,None,40,34
+16:58,Marquette,Markus Howard,Missed Jumper,40,34
+16:55,Wisconsin,D'Mitrik Trice,Defensive Rebound,40,34
+16:48,Wisconsin,Brad Davison,Missed Three Point Jumper,40,34
+16:44,Marquette,Sam Hauser,Defensive Rebound,40,34
+16:35,Marquette,Markus Howard,Layup,40,36
+16:35,Wisconsin,Aleem Ford,Foul,40,36
+16:35,Marquette,Markus Howard,Free Throw,40,37
+16:12,Marquette,Matt Heldt,Foul,40,37
+16:12,Wisconsin,D'Mitrik Trice,Missed Free Throw,40,37
+16:12,Wisconsin,None,Team Rebound,40,37
+16:12,Wisconsin,D'Mitrik Trice,Free Throw,41,37
+16:10,Wisconsin,D'Mitrik Trice,Missed Free Throw,41,37
+16:08,Marquette,Sam Hauser,Defensive Rebound,41,37
+16:01,Marquette,Joseph Chartouny,Missed Layup,41,37
+15:55,Wisconsin,Ethan Happ,Defensive Rebound,41,37
+15:39,Wisconsin,Ethan Happ,Layup,43,37
+15:18,Marquette,Sam Hauser,Jumper,43,39
+15:04,Wisconsin,Ethan Happ,Layup,45,39
+14:42,Marquette,Markus Howard,Missed Layup,45,39
+14:38,Marquette,Matt Heldt,Offensive Rebound,45,39
+14:37,Marquette,Sam Hauser,Layup,45,41
+13:50,Wisconsin,Brad Davison,Foul,47,41
+13:50,Marquette,None,None,47,41
+13:50,Marquette,Brendan Bailey,Free Throw,47,42
+13:50,Marquette,Brendan Bailey,Missed Free Throw,47,42
+13:50,Wisconsin,Nate Reuvers,Defensive Rebound,47,42
+13:50,Wisconsin,Brevin Pritzl,Turnover,47,42
+13:49,Marquette,Markus Howard,Missed Three Point Jumper,47,42
+13:47,Marquette,Markus Howard,Missed Jumper,47,42
+13:46,Marquette,Brendan Bailey,Offensive Rebound,47,42
+13:44,Wisconsin,Khalil Iverson,Defensive Rebound,47,42
+13:19,Wisconsin,Nate Reuvers,Missed Three Point Jumper,47,42
+13:16,Marquette,Sam Hauser,Defensive Rebound,47,42
+12:54,Wisconsin,Nate Reuvers,Foul,47,42
+12:54,Marquette,Sacar Anim,Free Throw,47,43
+12:53,Marquette,Sacar Anim,Missed Free Throw,47,43
+12:52,Wisconsin,Nate Reuvers,Defensive Rebound,47,43
+12:23,Wisconsin,Nate Reuvers,Missed Jumper,47,43
+12:23,Marquette,Theo John,Block,47,43
+12:23,Wisconsin,None,Team Rebound,47,43
+12:23,Wisconsin,Wisconsin ,Turnover,47,43
+12:05,Wisconsin,Brad Davison,Foul,47,43
+12:05,Marquette,Sacar Anim,Free Throw,47,44
+12:05,Marquette,Sacar Anim,Free Throw,47,45
+11:47,Marquette,Sam Hauser,Foul,47,45
+11:47,Marquette,None,None,47,45
+11:32,Marquette,Sam Hauser,Defensive Rebound,47,45
+11:27,Marquette,Markus Howard,Missed Jumper,47,45
+11:22,Wisconsin,Ethan Happ,Defensive Rebound,47,45
+11:16,Wisconsin,Ethan Happ,Dunk,49,45
+10:51,Marquette,Joey Hauser,Three Point Jumper,49,48
+10:21,Wisconsin,D'Mitrik Trice,Jumper,51,48
+10:05,Marquette,Sacar Anim,Turnover,51,48
+10:05,Wisconsin,Nate Reuvers,Steal,51,48
+9:54,Wisconsin,Ethan Happ,Turnover,51,48
+9:42,Wisconsin,Nate Reuvers,Foul,51,48
+9:41,Marquette,Theo John,Missed Free Throw,51,48
+9:39,Wisconsin,Nate Reuvers,Defensive Rebound,51,48
+9:17,Wisconsin,Brad Davison,Missed Three Point Jumper,51,48
+9:14,Marquette,Theo John,Defensive Rebound,51,48
+9:01,Marquette,Joseph Chartouny,Missed Layup,51,48
+8:54,Marquette,Theo John,Offensive Rebound,51,48
+8:54,Marquette,Theo John,Missed Layup,51,48
+8:53,Wisconsin,D'Mitrik Trice,Defensive Rebound,51,48
+8:50,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,51,48
+8:45,Marquette,Joseph Chartouny,Defensive Rebound,51,48
+8:10,Wisconsin,Nate Reuvers,Turnover,51,50
+7:35,Marquette,Sam Hauser,Missed Jumper,51,50
+7:32,Wisconsin,D'Mitrik Trice,Defensive Rebound,51,50
+7:13,Wisconsin,Aleem Ford,Missed Three Point Jumper,51,50
+7:10,Marquette,Joseph Chartouny,Defensive Rebound,51,50
+6:51,Marquette,Joseph Chartouny,Missed Layup,51,50
+6:48,Wisconsin,Ethan Happ,Defensive Rebound,51,50
+6:25,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,51,50
+6:22,Marquette,Theo John,Defensive Rebound,51,50
+5:56,Marquette,Theo John,Layup,51,52
+5:47,Wisconsin,None,None,51,52
+5:36,Wisconsin,None,None,51,52
+5:36,Marquette,Sacar Anim,Foul,51,52
+5:36,Wisconsin,Brad Davison,Missed Free Throw,51,52
+5:36,Wisconsin,None,Team Rebound,51,52
+5:36,Wisconsin,Brad Davison,Missed Free Throw,51,52
+5:36,Marquette,Sam Hauser,Defensive Rebound,51,52
+5:26,Marquette,Markus Howard,Turnover,51,52
+5:26,Wisconsin,Ethan Happ,Steal,51,52
+5:25,Wisconsin,Ethan Happ,Layup,53,52
+5:25,Marquette,Joey Hauser,Foul,53,52
+5:25,Wisconsin,Ethan Happ,Free Throw,54,52
+5:05,Marquette,Markus Howard,Jumper,54,54
+4:45,Wisconsin,Nate Reuvers,Three Point Jumper,57,54
+4:23,Marquette,Sacar Anim,Layup,57,56
+4:09,Marquette,Theo John,Foul,57,56
+4:08,Wisconsin,Brad Davison,Missed Free Throw,57,56
+4:07,Marquette,Sam Hauser,Defensive Rebound,57,56
+3:47,Marquette,Markus Howard,Missed Jumper,57,56
+3:42,Marquette,None,None,57,56
+3:39,Marquette,Marquette,Offensive Rebound,57,56
+3:25,Marquette,Joey Hauser,Three Point Jumper,57,59
+2:58,Marquette,Ed Morrow,Foul,57,59
+2:58,Wisconsin,D'Mitrik Trice,Free Throw,58,59
+2:58,Wisconsin,D'Mitrik Trice,Free Throw,59,59
+2:42,Marquette,Markus Howard,Missed Layup,59,59
+2:42,Marquette,Marquette,Offensive Rebound,59,59
+2:27,Marquette,Markus Howard,Missed Three Point Jumper,59,59
+2:26,Wisconsin,D'Mitrik Trice,Foul,59,59
+2:26,Marquette,Ed Morrow,Free Throw,59,60
+2:25,Marquette,Ed Morrow,Missed Free Throw,59,60
+2:22,Wisconsin,Ethan Happ,Defensive Rebound,59,60
+2:17,Marquette,Ed Morrow,Offensive Rebound,59,60
+2:05,Wisconsin,Ethan Happ,Layup,61,60
+1:49,Marquette,Markus Howard,Missed Three Point Jumper,61,60
+1:49,Wisconsin,Brad Davison,Foul,61,60
+1:49,Marquette,Sam Hauser,Free Throw,61,61
+1:47,Marquette,Sam Hauser,Offensive Rebound,61,61
+1:47,Marquette,Sam Hauser,Missed Free Throw,61,61
+1:46,Wisconsin,Ethan Happ,Defensive Rebound,61,61
+1:24,Wisconsin,Nate Reuvers,Missed Three Point Jumper,61,61
+1:22,Marquette,Ed Morrow,Defensive Rebound,61,61
+1:14,Marquette,None,None,61,61
+0:54,Marquette,Markus Howard,Missed Three Point Jumper,61,61
+0:52,Wisconsin,Khalil Iverson,Defensive Rebound,61,61
+0:35,Wisconsin,Ethan Happ,Missed Dunk,61,61
+0:35,Marquette,Ed Morrow,Block,61,61
+0:35,Wisconsin,Wisconsin,Offensive Rebound,61,61
+0:30,Wisconsin,D'Mitrik Trice,Turnover,61,61
+0:00,Marquette,Markus Howard,Missed Jumper,61,61
+0:00,Marquette,None,Team Rebound,61,61
+0:00,Marquette,None,None,61,61
+4:34,Marquette,Joey Hauser,Layup,61,63
+4:21,Wisconsin,Ethan Happ,Layup,63,63
+4:21,Marquette,Sam Hauser,Foul,63,63
+4:20,Wisconsin,Ethan Happ,Missed Free Throw,63,63
+4:18,Marquette,Sam Hauser,Defensive Rebound,63,63
+4:02,Marquette,Markus Howard,Jumper,63,65
+3:49,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,63,65
+3:35,Marquette,Ed Morrow,Defensive Rebound,63,65
+3:35,Wisconsin,Brad Davison,Foul,63,65
+3:35,Marquette,Joey Hauser,Free Throw,63,66
+3:35,Marquette,Joey Hauser,Free Throw,63,67
+3:13,Marquette,Sam Hauser,Missed Three Point Jumper,63,67
+3:09,Wisconsin,Ethan Happ,Defensive Rebound,63,67
+2:46,Marquette,Joey Hauser,Foul,63,67
+2:46,Wisconsin,Khalil Iverson,Free Throw,64,67
+2:46,Wisconsin,Khalil Iverson,Free Throw,65,67
+2:19,Marquette,Markus Howard,Missed Layup,65,67
+2:09,Marquette,Ed Morrow,Offensive Rebound,65,67
+2:09,Marquette,Ed Morrow,Missed Layup,65,67
+2:07,Marquette,Ed Morrow,Offensive Rebound,65,67
+2:07,Marquette,Ed Morrow,Layup,65,69
+2:00,Marquette,Sacar Anim,Foul,65,69
+2:00,Wisconsin,Khalil Iverson,Free Throw,66,69
+2:00,Wisconsin,Khalil Iverson,Missed Free Throw,66,69
+1:59,Marquette,Sam Hauser,Defensive Rebound,66,69
+1:41,Marquette,Markus Howard,Foul,66,69
+1:41,Marquette,Markus Howard,Turnover,66,69
+1:25,Wisconsin,Nate Reuvers,Missed Three Point Jumper,66,69
+1:22,Marquette,Sam Hauser,Defensive Rebound,66,69
+1:13,Marquette,None,None,66,69
+0:59,Wisconsin,Nate Reuvers,Foul,66,69
+0:59,Marquette,Markus Howard,Free Throw,66,70
+0:59,Marquette,Markus Howard,Free Throw,66,71
+0:46,Marquette,Ed Morrow,Foul,66,71
+0:46,Wisconsin,Ethan Happ,Missed Free Throw,66,71
+0:46,Wisconsin,None,Team Rebound,66,71
+0:46,Wisconsin,Ethan Happ,Free Throw,67,71
+0:46,Wisconsin,None,None,67,71
+0:44,Marquette,None,None,67,71
+0:41,Wisconsin,D'Mitrik Trice,Foul,67,71
+0:41,Marquette,Joseph Chartouny,Missed Free Throw,67,71
+0:41,Marquette,None,Team Rebound,67,71
+0:41,Marquette,Joseph Chartouny,Missed Free Throw,67,71
+0:38,Wisconsin,Khalil Iverson,Defensive Rebound,67,71
+0:30,Wisconsin,D'Mitrik Trice,Missed Three Point Jumper,67,71
+0:27,Marquette,Marquette,Defensive Rebound,67,71
+0:26,Wisconsin,Ethan Happ,Foul,67,71
+0:26,Marquette,Markus Howard,Missed Free Throw,67,71
+0:26,Marquette,None,Team Rebound,67,71
+0:26,Marquette,Markus Howard,Missed Free Throw,67,71
+0:24,Wisconsin,Ethan Happ,Defensive Rebound,67,71
+0:19,Wisconsin,D'Mitrik Trice,Turnover,67,71
+0:18,Wisconsin,Kobe King,Foul,67,71
+0:18,Marquette,Sacar Anim,Missed Free Throw,67,71
+0:18,Marquette,None,Team Rebound,67,71
+0:16,Marquette,Sacar Anim,Missed Free Throw,67,71
+0:15,Wisconsin,Khalil Iverson,Defensive Rebound,67,71
+0:09,Wisconsin,Brevin Pritzl,Missed Three Point Jumper,67,71
+0:09,Marquette,None,Team Rebound,67,71
+0:09,Wisconsin,Ethan Happ,Foul,67,71
+0:09,Marquette,Ed Morrow,Free Throw,67,72
+0:09,Marquette,Ed Morrow,Free Throw,67,73
+0:05,Wisconsin,Ethan Happ,Layup,69,73
+0:05,Wisconsin,None,None,69,73
+0:00,Wisconsin,Ethan Happ,Foul,69,73
+0:00,Marquette,Markus Howard,Free Throw,69,74
+0:00,Marquette,Markus Howard,Missed Free Throw,69,74
+0:00,Wisconsin,Ethan Happ,Defensive Rebound,69,74
+0:00,Marquette,None,None,69,73
+0:00,Marquette,None,None,69,74

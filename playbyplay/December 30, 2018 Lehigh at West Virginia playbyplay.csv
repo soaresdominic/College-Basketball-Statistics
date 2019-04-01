@@ -1,0 +1,330 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Lehigh,None,None,0,0
+19:55,Lehigh,Lance Tejada,Missed Three Point Jumper,0,0
+19:55,West Virginia,Wesley Harris,Defensive Rebound,0,0
+19:34,West Virginia,Logan Routt,Missed Jumper,0,0
+19:34,Lehigh,Jordan Cohen,Defensive Rebound,0,0
+19:19,Lehigh,Pat Andree,Missed Three Point Jumper,0,0
+19:19,West Virginia,Esa Ahmad,Defensive Rebound,0,0
+19:10,West Virginia,Chase Harler,Missed Three Point Jumper,0,0
+19:10,Lehigh,Jordan Cohen,Defensive Rebound,0,0
+19:04,Lehigh,Pat Andree,Layup,2,0
+18:41,West Virginia,Esa Ahmad,Jumper,2,2
+18:15,Lehigh,Jordan Cohen,Missed Jumper,2,2
+18:15,West Virginia,Logan Routt,Defensive Rebound,2,2
+17:56,West Virginia,Wesley Harris,Layup,2,4
+17:33,Lehigh,Pat Andree,Missed Jumper,2,4
+17:33,West Virginia,Wesley Harris,Block,2,4
+17:33,West Virginia,Esa Ahmad,Defensive Rebound,2,4
+17:25,West Virginia,Jordan McCabe,Three Point Jumper,2,7
+17:07,Lehigh,Kyle Leufroy,Turnover,2,7
+16:48,West Virginia,Derek Culver,Missed Jumper,2,7
+16:48,Lehigh,James Karnik,Defensive Rebound,2,7
+16:47,Lehigh,James Karnik,Turnover,2,7
+16:41,West Virginia,Derek Culver,Missed Jumper,2,7
+16:41,Lehigh,James Karnik,Defensive Rebound,2,7
+16:25,Lehigh,Kyle Leufroy,Three Point Jumper,5,7
+16:12,West Virginia,Esa Ahmad,Missed Three Point Jumper,5,7
+16:12,West Virginia,Derek Culver,Offensive Rebound,5,7
+16:12,West Virginia,None,None,5,9
+15:47,Lehigh,Kyle Leufroy,Layup,7,9
+15:47,West Virginia,Esa Ahmad,Foul,7,9
+15:47,West Virginia,None,None,7,9
+15:47,Lehigh,Kyle Leufroy,Free Throw,8,9
+15:22,West Virginia,Lamont West,Missed Three Point Jumper,8,9
+15:22,Lehigh,Jordan Cohen,Defensive Rebound,8,9
+15:09,Lehigh,James Karnik,Missed Dunk,8,9
+15:09,West Virginia,Lamont West,Block,8,9
+15:09,West Virginia,Jordan McCabe,Defensive Rebound,8,9
+14:38,West Virginia,Jordan McCabe,Jumper,8,11
+14:23,Lehigh,Jordan Cohen,Turnover,8,11
+14:04,West Virginia,Esa Ahmad,Missed Layup,8,11
+14:04,West Virginia,Esa Ahmad,Offensive Rebound,8,11
+13:54,West Virginia,Esa Ahmad,Missed Jumper,8,11
+13:54,Lehigh,Nic Lynch,Defensive Rebound,8,11
+13:47,Lehigh,Pat Andree,Three Point Jumper,11,11
+13:31,West Virginia,Jordan McCabe,Missed Three Point Jumper,11,11
+13:31,Lehigh,Pat Andree,Defensive Rebound,11,11
+13:21,Lehigh,Pat Andree,Missed Three Point Jumper,11,11
+13:21,West Virginia,Lamont West,Defensive Rebound,11,11
+13:12,West Virginia,James Bolden,Three Point Jumper,11,14
+12:46,Lehigh,Pat Andree,Three Point Jumper,14,14
+12:23,West Virginia,James Bolden,Missed Three Point Jumper,14,14
+12:23,West Virginia,West Virginia,Offensive Rebound,14,14
+12:11,West Virginia,Logan Routt,Jumper,14,16
+11:50,Lehigh,Jordan Cohen,Turnover,14,16
+11:50,West Virginia,Jermaine Haley,Steal,14,16
+11:44,West Virginia,Jermaine Haley,Layup,14,18
+11:31,Lehigh,Jeameril Wilson,Layup,16,18
+11:05,West Virginia,Brandon Knapper,Missed Three Point Jumper,16,18
+11:05,West Virginia,Logan Routt,Offensive Rebound,16,18
+11:05,Lehigh,Nic Lynch,Foul,16,18
+11:03,West Virginia,None,None,16,18
+10:56,Lehigh,Nic Lynch,Foul,16,18
+10:55,West Virginia,Jermaine Haley,Missed Three Point Jumper,16,18
+10:55,Lehigh,Kyle Leufroy,Defensive Rebound,16,18
+10:41,Lehigh,Jeameril Wilson,Dunk,18,18
+10:20,West Virginia,James Bolden,Missed Three Point Jumper,18,18
+10:20,West Virginia,Derek Culver,Offensive Rebound,18,18
+10:14,Lehigh,Jeameril Wilson,Foul,18,18
+10:14,West Virginia,Derek Culver,Missed Free Throw,18,18
+10:14,West Virginia,None,Team Rebound,18,18
+10:14,West Virginia,Derek Culver,Missed Free Throw,18,18
+10:14,Lehigh,James Karnik,Defensive Rebound,18,18
+9:50,Lehigh,Lance Tejada,Missed Three Point Jumper,18,18
+9:50,West Virginia,Derek Culver,Defensive Rebound,18,18
+9:42,West Virginia,Esa Ahmad,Turnover,18,18
+9:42,Lehigh,Lance Tejada,Steal,18,18
+9:37,Lehigh,Lance Tejada,Missed Layup,18,18
+9:37,West Virginia,Derek Culver,Defensive Rebound,18,18
+9:14,West Virginia,Jermaine Haley,Turnover,18,18
+9:14,Lehigh,Marques Wilson,Steal,18,18
+9:06,Lehigh,Jeameril Wilson,Missed Three Point Jumper,18,18
+9:06,Lehigh,Marques Wilson,Offensive Rebound,18,18
+9:01,Lehigh,Jeameril Wilson,Missed Jumper,18,18
+9:01,West Virginia,Esa Ahmad,Block,18,18
+9:01,West Virginia,James Bolden,Defensive Rebound,18,18
+8:41,West Virginia,Andrew Gordon,Foul,18,18
+8:41,West Virginia,Andrew Gordon,Turnover,18,18
+8:17,West Virginia,Wesley Harris,Foul,18,18
+8:17,West Virginia,Wesley Harris,Foul,18,18
+8:17,Lehigh,Lance Tejada,Missed Free Throw,18,18
+8:17,Lehigh,None,Team Rebound,18,18
+8:17,Lehigh,Lance Tejada,Free Throw,19,18
+8:11,Lehigh,James Karnik,Missed Jumper,19,18
+8:11,West Virginia,Andrew Gordon,Block,19,18
+8:11,West Virginia,Emmitt Matthews Jr.,Defensive Rebound,19,18
+7:45,West Virginia,Lamont West,Turnover,19,18
+7:45,West Virginia,None,None,19,18
+7:22,Lehigh,Pat Andree,Missed Jumper,19,18
+7:22,West Virginia,James Bolden,Defensive Rebound,19,18
+7:11,West Virginia,Lamont West,Missed Three Point Jumper,19,18
+7:11,West Virginia,James Bolden,Offensive Rebound,19,18
+7:02,West Virginia,James Bolden,Three Point Jumper,19,21
+6:49,Lehigh,Kyle Leufroy,Missed Jumper,19,21
+6:49,West Virginia,Andrew Gordon,Defensive Rebound,19,21
+6:42,West Virginia,James Bolden,Missed Three Point Jumper,19,21
+6:42,West Virginia,Andrew Gordon,Offensive Rebound,19,21
+6:42,Lehigh,James Karnik,Foul,19,21
+6:41,West Virginia,James Bolden,Three Point Jumper,19,24
+6:18,Lehigh,Caleb Bennett,Missed Layup,19,24
+6:18,Lehigh,Caleb Bennett,Offensive Rebound,19,24
+6:18,Lehigh,None,None,21,24
+5:50,West Virginia,Brandon Knapper,Turnover,21,24
+5:50,Lehigh,Jordan Cohen,Steal,21,24
+5:37,West Virginia,Emmitt Matthews Jr.,Foul,21,24
+5:37,Lehigh,Caleb Bennett,Free Throw,22,24
+5:37,Lehigh,Caleb Bennett,Free Throw,23,24
+5:24,West Virginia,James Bolden,Missed Three Point Jumper,23,24
+5:24,West Virginia,Lamont West,Offensive Rebound,23,24
+5:14,West Virginia,Lamont West,Missed Three Point Jumper,23,24
+5:14,West Virginia,James Bolden,Offensive Rebound,23,24
+5:08,Lehigh,Jeameril Wilson,Foul,23,24
+4:50,Lehigh,James Karnik,Foul,23,24
+4:50,West Virginia,Esa Ahmad,Free Throw,23,25
+4:50,West Virginia,Esa Ahmad,Free Throw,23,26
+4:27,Lehigh,Jordan Cohen,Turnover,23,26
+4:27,West Virginia,Jordan McCabe,Steal,23,26
+4:24,West Virginia,Jordan McCabe,Turnover,23,26
+4:24,Lehigh,Kyle Leufroy,Steal,23,26
+4:17,Lehigh,Pat Andree,Layup,25,26
+3:56,West Virginia,Lamont West,Missed Jumper,25,26
+3:56,Lehigh,Nic Lynch,Defensive Rebound,25,26
+3:56,West Virginia,Emmitt Matthews Jr.,Foul,25,26
+3:56,West Virginia,None,None,25,26
+3:38,Lehigh,Jordan Cohen,Jumper,27,26
+3:14,West Virginia,Wesley Harris,Three Point Jumper,27,29
+2:56,Lehigh,Pat Andree,Three Point Jumper,30,29
+2:35,West Virginia,Chase Harler,Missed Three Point Jumper,30,29
+2:35,West Virginia,Wesley Harris,Offensive Rebound,30,29
+2:35,West Virginia,None,None,30,31
+2:18,Lehigh,Pat Andree,Jumper,32,31
+1:52,West Virginia,James Bolden,Missed Jumper,32,31
+1:52,Lehigh,Jordan Cohen,Block,32,31
+1:52,West Virginia,James Bolden,Offensive Rebound,32,31
+1:50,West Virginia,James Bolden,Missed Jumper,32,31
+1:50,Lehigh,Pat Andree,Defensive Rebound,32,31
+1:50,West Virginia,Wesley Harris,Foul,32,31
+1:35,Lehigh,Pat Andree,Missed Jumper,32,31
+1:35,West Virginia,Lamont West,Defensive Rebound,32,31
+1:35,Lehigh,Jeameril Wilson,Foul,32,31
+1:35,West Virginia,Lamont West,Missed Free Throw,32,31
+1:35,Lehigh,Nic Lynch,Defensive Rebound,32,31
+1:27,Lehigh,Marques Wilson,Missed Jumper,32,31
+1:27,West Virginia,Lamont West,Defensive Rebound,32,31
+1:27,Lehigh,Marques Wilson,Foul,32,31
+1:27,West Virginia,Lamont West,Free Throw,32,32
+1:27,West Virginia,Lamont West,Free Throw,32,33
+1:16,Lehigh,Kyle Leufroy,Missed Jumper,32,33
+1:16,West Virginia,Chase Harler,Defensive Rebound,32,33
+1:08,West Virginia,Chase Harler,Three Point Jumper,32,36
+1:07,Lehigh,None,None,32,36
+0:50,Lehigh,Jordan Cohen,Jumper,34,36
+0:31,West Virginia,Esa Ahmad,Jumper,34,38
+0:00,West Virginia,None,None,34,38
+20:00,West Virginia,None,None,34,38
+19:50,Lehigh,Jordan Cohen,Foul,34,38
+19:33,West Virginia,Jordan McCabe,Missed Jumper,34,38
+19:33,West Virginia,Logan Routt,Offensive Rebound,34,38
+19:15,West Virginia,Wesley Harris,Missed Jumper,34,38
+19:15,Lehigh,Jordan Cohen,Defensive Rebound,34,38
+19:05,Lehigh,Lance Tejada,Missed Jumper,34,38
+19:05,West Virginia,Jordan McCabe,Defensive Rebound,34,38
+18:54,Lehigh,Kyle Leufroy,Foul,34,38
+18:51,West Virginia,Chase Harler,Missed Jumper,34,38
+18:51,Lehigh,Kyle Leufroy,Defensive Rebound,34,38
+18:46,West Virginia,Jordan McCabe,Foul,34,38
+18:46,Lehigh,Kyle Leufroy,Free Throw,35,38
+18:46,Lehigh,Kyle Leufroy,Free Throw,36,38
+18:30,West Virginia,Esa Ahmad,Turnover,36,38
+18:30,Lehigh,Kyle Leufroy,Steal,36,38
+18:25,Lehigh,Kyle Leufroy,Missed Layup,36,38
+18:25,West Virginia,Logan Routt,Defensive Rebound,36,38
+18:25,Lehigh,Lance Tejada,Foul,36,38
+18:08,West Virginia,Esa Ahmad,Missed Jumper,36,38
+18:08,Lehigh,Pat Andree,Defensive Rebound,36,38
+17:58,Lehigh,James Karnik,Layup,38,38
+17:48,West Virginia,Jordan McCabe,Missed Jumper,38,38
+17:48,Lehigh,Pat Andree,Defensive Rebound,38,38
+17:38,Lehigh,Pat Andree,Missed Jumper,38,38
+17:38,West Virginia,Esa Ahmad,Defensive Rebound,38,38
+17:25,West Virginia,Jordan McCabe,Missed Jumper,38,38
+17:25,Lehigh,Jordan Cohen,Block,38,38
+17:25,West Virginia,Jordan McCabe,Offensive Rebound,38,38
+17:18,West Virginia,Esa Ahmad,Three Point Jumper,38,41
+16:58,Lehigh,Jordan Cohen,Three Point Jumper,41,41
+16:58,West Virginia,Jordan McCabe,Foul,41,41
+16:58,Lehigh,Jordan Cohen,Free Throw,42,41
+16:31,West Virginia,James Bolden,Missed Jumper,42,41
+16:31,Lehigh,Kyle Leufroy,Defensive Rebound,42,41
+16:21,Lehigh,Pat Andree,Missed Three Point Jumper,42,41
+16:21,West Virginia,James Bolden,Defensive Rebound,42,41
+16:14,Lehigh,Jordan Cohen,Foul,42,41
+16:12,West Virginia,Derek Culver,Jumper,42,43
+15:56,West Virginia,James Bolden,Foul,42,43
+15:56,West Virginia,None,None,42,43
+15:55,Lehigh,Pat Andree,Missed Three Point Jumper,42,43
+15:55,Lehigh,Lance Tejada,Offensive Rebound,42,43
+15:47,Lehigh,Pat Andree,Turnover,42,43
+15:47,West Virginia,James Bolden,Steal,42,43
+15:41,West Virginia,Esa Ahmad,Dunk,42,45
+15:29,Lehigh,Kyle Leufroy,Jumper,44,45
+15:04,West Virginia,Esa Ahmad,Three Point Jumper,44,48
+14:46,Lehigh,Pat Andree,Turnover,44,48
+14:25,West Virginia,Wesley Harris,Turnover,44,48
+14:01,Lehigh,Lance Tejada,Missed Three Point Jumper,44,48
+14:01,West Virginia,Esa Ahmad,Defensive Rebound,44,48
+13:51,West Virginia,James Bolden,Jumper,44,50
+13:35,Lehigh,Lance Tejada,Turnover,44,50
+13:35,West Virginia,Logan Routt,Steal,44,50
+13:29,West Virginia,Chase Harler,Missed Three Point Jumper,44,50
+13:29,West Virginia,Esa Ahmad,Offensive Rebound,44,50
+13:26,West Virginia,Esa Ahmad,Missed Layup,44,50
+13:26,West Virginia,Esa Ahmad,Offensive Rebound,44,50
+13:26,Lehigh,Nic Lynch,Foul,44,50
+13:26,Lehigh,None,None,44,50
+13:13,West Virginia,James Bolden,Layup,44,52
+12:56,Lehigh,Kyle Leufroy,Jumper,46,52
+12:26,West Virginia,Esa Ahmad,Missed Three Point Jumper,46,52
+12:26,West Virginia,Logan Routt,Offensive Rebound,46,52
+12:26,Lehigh,Nic Lynch,Foul,46,52
+12:26,West Virginia,Logan Routt,Missed Free Throw,46,52
+12:26,West Virginia,None,Team Rebound,46,52
+12:26,West Virginia,Logan Routt,Missed Free Throw,46,52
+12:26,Lehigh,Jeameril Wilson,Defensive Rebound,46,52
+12:03,Lehigh,Lance Tejada,Three Point Jumper,49,52
+11:37,West Virginia,Logan Routt,Turnover,49,52
+11:37,West Virginia,None,None,49,52
+11:18,West Virginia,James Bolden,Foul,49,52
+11:18,Lehigh,Jordan Cohen,Missed Free Throw,49,52
+11:18,Lehigh,None,Team Rebound,49,52
+11:18,Lehigh,Jordan Cohen,Free Throw,50,52
+11:03,Lehigh,James Karnik,Foul,50,52
+11:03,West Virginia,Derek Culver,Free Throw,50,53
+11:03,West Virginia,Derek Culver,Missed Free Throw,50,53
+11:03,Lehigh,Caleb Bennett,Defensive Rebound,50,53
+10:48,Lehigh,Marques Wilson,Missed Three Point Jumper,50,53
+10:48,West Virginia,Wesley Harris,Defensive Rebound,50,53
+10:34,West Virginia,Lamont West,Missed Three Point Jumper,50,53
+10:34,West Virginia,Derek Culver,Offensive Rebound,50,53
+10:30,Lehigh,Pat Andree,Foul,50,53
+10:30,West Virginia,Derek Culver,Free Throw,50,54
+10:30,West Virginia,Derek Culver,Missed Free Throw,50,54
+10:30,Lehigh,James Karnik,Defensive Rebound,50,54
+10:01,Lehigh,Jordan Cohen,Missed Jumper,50,54
+10:01,West Virginia,Wesley Harris,Defensive Rebound,50,54
+9:36,West Virginia,Wesley Harris,Missed Three Point Jumper,50,54
+9:36,West Virginia,Derek Culver,Offensive Rebound,50,54
+9:27,West Virginia,James Bolden,Jumper,50,56
+9:03,Lehigh,Marques Wilson,Layup,52,56
+8:39,Lehigh,Marques Wilson,Foul,52,56
+8:39,West Virginia,James Bolden,Free Throw,52,57
+8:39,West Virginia,James Bolden,Free Throw,52,58
+8:39,West Virginia,James Bolden,Free Throw,52,59
+8:11,Lehigh,Pat Andree,Three Point Jumper,55,59
+7:47,West Virginia,Derek Culver,Turnover,55,59
+7:47,Lehigh,Jordan Cohen,Steal,55,59
+7:42,Lehigh,Jordan Cohen,Layup,57,59
+7:30,West Virginia,James Bolden,Turnover,57,59
+7:30,West Virginia,None,None,57,59
+7:08,Lehigh,Kyle Leufroy,Missed Jumper,57,59
+7:08,West Virginia,Esa Ahmad,Defensive Rebound,57,59
+7:08,Lehigh,James Karnik,Foul,57,59
+7:08,West Virginia,Esa Ahmad,Missed Free Throw,57,59
+7:08,West Virginia,None,Team Rebound,57,59
+7:08,West Virginia,Esa Ahmad,Free Throw,57,60
+6:45,Lehigh,Kyle Leufroy,Missed Three Point Jumper,57,60
+6:45,West Virginia,West Virginia,Defensive Rebound,57,60
+6:26,West Virginia,Esa Ahmad,Jumper,57,62
+6:06,Lehigh,Lance Tejada,Layup,59,62
+6:06,West Virginia,Chase Harler,Foul,59,62
+6:06,Lehigh,Lance Tejada,Missed Free Throw,59,62
+6:06,West Virginia,Derek Culver,Defensive Rebound,59,62
+5:54,West Virginia,Esa Ahmad,Missed Jumper,59,62
+5:54,West Virginia,Derek Culver,Offensive Rebound,59,62
+5:37,West Virginia,Derek Culver,Layup,59,64
+5:37,Lehigh,Nic Lynch,Foul,59,64
+5:37,West Virginia,Derek Culver,Free Throw,59,65
+5:13,Lehigh,Kyle Leufroy,Missed Jumper,59,65
+5:13,West Virginia,Derek Culver,Defensive Rebound,59,65
+5:05,West Virginia,Esa Ahmad,Missed Jumper,59,65
+5:05,West Virginia,Derek Culver,Offensive Rebound,59,65
+5:05,West Virginia,None,None,59,67
+5:04,Lehigh,None,None,59,67
+4:51,Lehigh,Lance Tejada,Missed Three Point Jumper,59,67
+4:51,West Virginia,Wesley Harris,Defensive Rebound,59,67
+4:34,West Virginia,Wesley Harris,Missed Three Point Jumper,59,67
+4:34,Lehigh,Jeameril Wilson,Defensive Rebound,59,67
+4:31,West Virginia,Derek Culver,Foul,59,67
+4:13,Lehigh,Jeameril Wilson,Missed Layup,59,67
+4:13,West Virginia,Derek Culver,Block,59,67
+4:13,West Virginia,Jermaine Haley,Defensive Rebound,59,67
+3:55,Lehigh,Lance Tejada,Foul,59,67
+3:55,West Virginia,None,None,59,67
+3:55,West Virginia,Esa Ahmad,Free Throw,59,68
+3:55,West Virginia,Esa Ahmad,Free Throw,59,69
+3:30,Lehigh,Pat Andree,Missed Three Point Jumper,59,69
+3:30,West Virginia,Derek Culver,Defensive Rebound,59,69
+3:08,West Virginia,Wesley Harris,Missed Jumper,59,69
+3:08,West Virginia,Esa Ahmad,Offensive Rebound,59,69
+3:08,West Virginia,None,None,59,71
+2:52,West Virginia,Derek Culver,Foul,59,71
+2:52,Lehigh,James Karnik,Free Throw,60,71
+2:52,Lehigh,James Karnik,Free Throw,61,71
+2:24,West Virginia,James Bolden,Three Point Jumper,61,74
+2:15,Lehigh,Lance Tejada,Three Point Jumper,64,74
+2:14,Lehigh,None,None,64,74
+1:49,West Virginia,Wesley Harris,Three Point Jumper,64,77
+1:33,West Virginia,Jermaine Haley,Foul,64,77
+1:33,Lehigh,Lance Tejada,Free Throw,65,77
+1:33,Lehigh,Lance Tejada,Missed Free Throw,65,77
+1:33,West Virginia,James Bolden,Defensive Rebound,65,77
+1:03,West Virginia,Esa Ahmad,Missed Three Point Jumper,65,77
+1:03,West Virginia,James Bolden,Offensive Rebound,65,77
+0:39,Lehigh,Marques Wilson,Foul,65,77
+0:39,West Virginia,James Bolden,Free Throw,65,78
+0:39,West Virginia,James Bolden,Missed Free Throw,65,78
+0:39,Lehigh,Marques Wilson,Defensive Rebound,65,78
+0:32,Lehigh,Jordan Cohen,Three Point Jumper,68,78
+0:01,West Virginia,West Virginia ,Turnover,68,78
+0:00,West Virginia,None,None,68,78

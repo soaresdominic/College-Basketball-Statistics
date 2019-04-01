@@ -1,0 +1,382 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:47,Utah State,Neemias Queta,Layup,0,2
+19:30,Alabama State,Fausto Pichardo,Turnover,0,2
+19:21,Utah State,Neemias Queta,Layup,0,4
+19:09,Alabama State,Fausto Pichardo,Turnover,0,4
+19:09,Alabama State,Fausto Pichardo,Foul,0,4
+18:58,Utah State,Quinn Taylor,Missed Three Point Jumper,0,4
+18:58,Alabama State,Leon Daniels,Defensive Rebound,0,4
+18:46,Alabama State,Kevin Holston,Missed Three Point Jumper,0,4
+18:46,Utah State,Crew Ainge,Defensive Rebound,0,4
+18:29,Utah State,Brock Miller,Missed Three Point Jumper,0,4
+18:29,Utah State,Quinn Taylor,Offensive Rebound,0,4
+18:25,Utah State,Quinn Taylor,Layup,0,6
+17:56,Utah State,Neemias Queta,Foul,0,6
+17:56,Alabama State,Fausto Pichardo,Missed Free Throw,0,6
+17:56,Alabama State,None,Team Rebound,0,6
+17:56,Alabama State,Fausto Pichardo,Free Throw,1,6
+17:41,Utah State,Neemias Queta,Layup,1,8
+17:22,Alabama State,Jacoby Ross,Missed Layup,1,8
+17:22,Utah State,Sam Merrill,Defensive Rebound,1,8
+17:14,Utah State,Sam Merrill,Turnover,1,8
+17:14,Alabama State,Kevin Holston,Missed Three Point Jumper,1,8
+17:14,Utah State,Sam Merrill,Defensive Rebound,1,8
+17:14,Utah State,Crew Ainge,Three Point Jumper,1,11
+17:07,Alabama State,Jacoby Ross,Missed Three Point Jumper,1,11
+17:07,Utah State,Quinn Taylor,Defensive Rebound,1,11
+17:05,Alabama State,AJ Farrar,Foul,1,11
+16:15,Utah State,Sam Merrill,Missed Layup,1,11
+16:15,Alabama State,AJ Farrar,Defensive Rebound,1,11
+16:04,Alabama State,Jacoby Ross,Turnover,1,11
+16:03,Utah State,Crew Ainge,Steal,1,11
+16:01,Alabama State,Kevin Holston,Foul,1,11
+15:42,Utah State,Dwayne Brown Jr.,Layup,1,13
+15:12,Alabama State,Reginald Gee,Missed Jumper,1,13
+15:12,Utah State,Dwayne Brown Jr.,Defensive Rebound,1,13
+15:01,Utah State,Neemias Queta,Turnover,1,13
+15:01,Utah State,Neemias Queta,Foul,1,13
+14:49,Alabama State,Jacoby Ross,Jumper,3,13
+14:23,Utah State,Diogo Brito,Three Point Jumper,3,16
+14:00,Alabama State,Tobi Ewuosho,Three Point Jumper,6,16
+13:37,Utah State,Ben Fakira,Layup,6,18
+13:20,Alabama State,Branden Johnson,Missed Layup,6,18
+13:20,Utah State,Dwayne Brown Jr.,Block,6,18
+13:19,Utah State,Ben Fakira,Defensive Rebound,6,18
+13:09,Utah State,Sam Merrill,Jumper,6,20
+13:00,Alabama State,None,None,6,20
+12:43,Alabama State,Tobi Ewuosho,Dunk,8,20
+12:43,Utah State,Ben Fakira,Foul,8,20
+12:43,Alabama State,Tobi Ewuosho,Free Throw,9,20
+12:27,Utah State,Ben Fakira,Turnover,9,20
+12:14,Alabama State,Tobi Ewuosho,Missed Jumper,9,20
+12:14,Utah State,Diogo Brito,Defensive Rebound,9,20
+12:05,Alabama State,Tobi Ewuosho,Foul,9,20
+12:05,Utah State,Tauriawn Knight,Free Throw,9,21
+12:05,Utah State,Tauriawn Knight,Free Throw,9,22
+11:54,Utah State,None,None,9,22
+11:38,Alabama State,Reginald Gee,Missed Jumper,9,22
+11:38,Utah State,Abel Porter,Defensive Rebound,9,22
+11:22,Utah State,Dwayne Brown Jr.,Turnover,9,22
+11:22,Utah State,Dwayne Brown Jr.,Foul,9,22
+11:00,Alabama State,Reginald Gee,Turnover,9,22
+10:59,Utah State,Sam Merrill,Steal,9,22
+10:48,Utah State,Brock Miller,Missed Three Point Jumper,9,22
+10:48,Alabama State,Gene Davis,Defensive Rebound,9,22
+10:39,Alabama State,Gene Davis,Turnover,9,22
+10:21,Utah State,Quinn Taylor,Missed Jumper,9,22
+10:21,Alabama State,Fausto Pichardo,Defensive Rebound,9,22
+10:14,Alabama State,Jacoby Ross,Missed Layup,9,22
+10:14,Utah State,Quinn Taylor,Block,9,22
+10:13,Alabama State,Alabama State,Offensive Rebound,9,22
+10:04,Alabama State,Jacoby Ross,Missed Layup,9,22
+10:04,Utah State,Sam Merrill,Defensive Rebound,9,22
+9:52,Utah State,Sam Merrill,Layup,9,24
+9:28,Alabama State,Leon Daniels,Missed Jumper,9,24
+9:28,Utah State,Abel Porter,Defensive Rebound,9,24
+9:19,Utah State,Brock Miller,Three Point Jumper,9,27
+8:57,Alabama State,Leon Daniels,Missed Three Point Jumper,9,27
+8:57,Utah State,Crew Ainge,Defensive Rebound,9,27
+8:51,Utah State,Sam Merrill,Three Point Jumper,9,30
+8:46,Alabama State,None,None,9,30
+8:30,Alabama State,Jacoby Ross,Missed Three Point Jumper,9,30
+8:30,Utah State,Utah State,Defensive Rebound,9,30
+8:18,Alabama State,Tobi Ewuosho,Foul,9,30
+8:13,Utah State,Sam Merrill,Layup,9,32
+8:13,Alabama State,Fausto Pichardo,Foul,9,32
+8:13,Utah State,Sam Merrill,Missed Free Throw,9,32
+8:13,Alabama State,Branden Johnson,Defensive Rebound,9,32
+7:59,Alabama State,Jacoby Ross,Missed Layup,9,32
+7:59,Utah State,Neemias Queta,Block,9,32
+7:59,Alabama State,Alabama State,Offensive Rebound,9,32
+7:59,Utah State,None,None,9,32
+7:45,Alabama State,Kevin Holston,Missed Layup,9,32
+7:45,Utah State,Neemias Queta,Block,9,32
+7:45,Utah State,Utah State,Defensive Rebound,9,32
+7:24,Utah State,Brock Miller,Missed Three Point Jumper,9,32
+7:24,Alabama State,Kevin Holston,Defensive Rebound,9,32
+7:17,Alabama State,Reginald Gee,Three Point Jumper,12,32
+6:59,Utah State,Diogo Brito,Turnover,12,32
+6:59,Utah State,Diogo Brito,Foul,12,32
+6:49,Alabama State,Kevin Holston,Turnover,12,32
+6:48,Utah State,Sam Merrill,Steal,12,32
+6:38,Utah State,Crew Ainge,Missed Three Point Jumper,12,32
+6:38,Alabama State,Reginald Gee,Defensive Rebound,12,32
+6:22,Alabama State,Branden Johnson,Layup,14,32
+6:02,Alabama State,Kevin Holston,Foul,14,32
+6:02,Utah State,Neemias Queta,Free Throw,14,33
+6:02,Utah State,Neemias Queta,Missed Free Throw,14,33
+6:02,Alabama State,Austin Rogers,Defensive Rebound,14,33
+5:47,Utah State,Tauriawn Knight,Foul,14,33
+5:40,Alabama State,Leon Daniels,Missed Jumper,14,33
+5:40,Utah State,Dwayne Brown Jr.,Defensive Rebound,14,33
+5:29,Utah State,Tauriawn Knight,Turnover,14,33
+5:21,Alabama State,Gene Davis,Missed Layup,14,33
+5:21,Utah State,Diogo Brito,Defensive Rebound,14,33
+5:11,Utah State,Diogo Brito,Missed Three Point Jumper,14,33
+5:11,Utah State,Dwayne Brown Jr.,Offensive Rebound,14,33
+5:06,Utah State,Dwayne Brown Jr.,Missed Layup,14,33
+5:06,Alabama State,Branden Johnson,Block,14,33
+5:04,Alabama State,Gene Davis,Defensive Rebound,14,33
+4:59,Utah State,Sam Merrill,Foul,14,33
+4:59,Alabama State,Jacoby Ross,Free Throw,15,33
+4:59,Alabama State,Jacoby Ross,Free Throw,16,33
+4:46,Utah State,Diogo Brito,Turnover,16,33
+4:45,Alabama State,Jacoby Ross,Steal,16,33
+4:41,Alabama State,Jacoby Ross,Missed Layup,16,33
+4:41,Utah State,Neemias Queta,Block,16,33
+4:41,Alabama State,Alabama State,Offensive Rebound,16,33
+4:32,Alabama State,Gene Davis,Layup,18,33
+4:16,Utah State,Dwayne Brown Jr.,Dunk,18,35
+4:11,Utah State,Diogo Brito,Foul,18,35
+4:06,Alabama State,Reginald Gee,Free Throw,19,35
+4:06,Alabama State,Reginald Gee,Free Throw,20,35
+4:00,Utah State,Dwayne Brown Jr.,Turnover,20,35
+3:59,Alabama State,Leon Daniels,Steal,20,35
+3:59,Utah State,Tauriawn Knight,Foul,20,35
+3:59,Utah State,None,None,20,35
+3:59,Alabama State,Leon Daniels,Free Throw,21,35
+3:59,Alabama State,Leon Daniels,Missed Free Throw,21,35
+3:59,Utah State,Quinn Taylor,Defensive Rebound,21,35
+3:43,Utah State,None,None,21,35
+3:28,Utah State,Dwayne Brown Jr.,Missed Three Point Jumper,21,35
+3:28,Alabama State,Leon Daniels,Defensive Rebound,21,35
+3:06,Alabama State,Ed Jones,Missed Three Point Jumper,21,35
+3:06,Utah State,Sam Merrill,Defensive Rebound,21,35
+3:01,Utah State,Brock Miller,Missed Three Point Jumper,21,35
+3:01,Alabama State,Austin Rogers,Defensive Rebound,21,35
+2:31,Alabama State,Leon Daniels,Layup,23,35
+2:31,Utah State,Brock Miller,Foul,23,35
+2:31,Alabama State,Leon Daniels,Missed Free Throw,23,35
+2:31,Utah State,Dwayne Brown Jr.,Defensive Rebound,23,35
+2:24,Alabama State,Leon Daniels,Foul,23,35
+2:24,Utah State,Sam Merrill,Free Throw,23,36
+2:24,Utah State,Sam Merrill,Free Throw,23,37
+2:10,Alabama State,Ed Jones,Three Point Jumper,26,37
+1:56,Utah State,Quinn Taylor,Three Point Jumper,26,40
+1:35,Alabama State,Reginald Gee,Missed Jumper,26,40
+1:35,Utah State,Crew Ainge,Defensive Rebound,26,40
+1:17,Utah State,Quinn Taylor,Layup,26,42
+1:00,Alabama State,Ed Jones,Missed Three Point Jumper,26,42
+1:00,Utah State,Crew Ainge,Defensive Rebound,26,42
+0:53,Alabama State,Ed Jones,Foul,26,42
+0:53,Utah State,Crew Ainge,Missed Free Throw,26,42
+0:53,Utah State,None,Team Rebound,26,42
+0:53,Utah State,Crew Ainge,Free Throw,26,43
+0:40,Utah State,Abel Porter,Foul,26,43
+0:40,Alabama State,Gene Davis,Free Throw,27,43
+0:40,Alabama State,Gene Davis,Free Throw,28,43
+0:32,Alabama State,Jacoby Ross,Foul,28,43
+0:32,Utah State,Crew Ainge,Missed Free Throw,28,43
+0:32,Utah State,None,Team Rebound,28,43
+0:32,Utah State,Crew Ainge,Free Throw,28,44
+0:04,Alabama State,Gene Davis,Missed Layup,28,44
+0:04,Utah State,Dwayne Brown Jr.,Defensive Rebound,28,44
+0:00,Utah State,None,None,28,44
+19:35,Alabama State,AJ Farrar,Foul,28,44
+19:35,Utah State,Quinn Taylor,Missed Jumper,28,44
+19:35,Utah State,Quinn Taylor,Offensive Rebound,28,44
+19:35,Utah State,Sam Merrill,Missed Three Point Jumper,28,44
+19:35,Alabama State,Kevin Holston,Defensive Rebound,28,44
+19:35,Alabama State,AJ Farrar,Three Point Jumper,31,44
+19:35,Utah State,Crew Ainge,Layup,31,46
+19:35,Alabama State,Jacoby Ross,Missed Jumper,31,46
+19:35,Utah State,Sam Merrill,Block,31,46
+19:35,Utah State,Crew Ainge,Defensive Rebound,31,46
+19:35,Utah State,Quinn Taylor,Missed Layup,31,46
+19:35,Alabama State,Kevin Holston,Block,31,46
+19:34,Utah State,Utah State,Offensive Rebound,31,46
+19:15,Utah State,Sam Merrill,Missed Three Point Jumper,31,46
+19:15,Utah State,Quinn Taylor,Offensive Rebound,31,46
+19:15,Utah State,Neemias Queta,Dunk,31,48
+17:58,Alabama State,AJ Farrar,Missed Three Point Jumper,31,48
+17:58,Utah State,Neemias Queta,Defensive Rebound,31,48
+17:45,Utah State,Sam Merrill,Layup,31,50
+17:45,Alabama State,AJ Farrar,Foul,31,50
+17:45,Utah State,Sam Merrill,Free Throw,31,51
+17:25,Alabama State,Kevin Holston,Turnover,31,51
+17:24,Utah State,Neemias Queta,Steal,31,51
+17:17,Utah State,Neemias Queta,Turnover,31,51
+17:17,Alabama State,Fausto Pichardo,Steal,31,51
+17:17,Alabama State,None,None,31,51
+17:03,Alabama State,Fausto Pichardo,Missed Layup,31,51
+17:03,Alabama State,Jacoby Ross,Offensive Rebound,31,51
+17:00,Alabama State,Jacoby Ross,Missed Three Point Jumper,31,51
+17:00,Utah State,Quinn Taylor,Defensive Rebound,31,51
+16:49,Utah State,Quinn Taylor,Missed Three Point Jumper,31,51
+16:49,Utah State,Neemias Queta,Offensive Rebound,31,51
+16:26,Utah State,Neemias Queta,Layup,31,53
+16:26,Alabama State,Fausto Pichardo,Foul,31,53
+16:26,Utah State,Neemias Queta,Missed Free Throw,31,53
+16:26,Alabama State,Tobi Ewuosho,Defensive Rebound,31,53
+16:12,Alabama State,Reginald Gee,Jumper,33,53
+15:59,Alabama State,Branden Johnson,Foul,33,53
+15:59,Utah State,Neemias Queta,Free Throw,33,54
+15:59,Utah State,Neemias Queta,Free Throw,33,55
+15:48,Alabama State,Reginald Gee,Missed Jumper,33,55
+15:48,Utah State,Crew Ainge,Defensive Rebound,33,55
+15:41,Alabama State,Gene Davis,Foul,33,55
+15:41,Utah State,None,None,33,55
+15:28,Utah State,Brock Miller,Jumper,33,57
+15:15,Alabama State,Jacoby Ross,Missed Jumper,33,57
+15:15,Alabama State,Branden Johnson,Offensive Rebound,33,57
+15:14,Utah State,Neemias Queta,Foul,33,57
+15:12,Utah State,Brock Miller,Foul,33,57
+15:12,Alabama State,Reginald Gee,Free Throw,34,57
+15:12,Alabama State,Reginald Gee,Free Throw,35,57
+15:02,Alabama State,Branden Johnson,Foul,35,57
+15:02,Utah State,Crew Ainge,Turnover,35,57
+15:01,Alabama State,Tobi Ewuosho,Steal,35,57
+14:57,Alabama State,Reginald Gee,Missed Three Point Jumper,35,57
+14:57,Utah State,Neemias Queta,Defensive Rebound,35,57
+14:38,Utah State,Dwayne Brown Jr.,Layup,35,59
+14:30,Alabama State,Jacoby Ross,Missed Three Point Jumper,35,59
+14:30,Utah State,Dwayne Brown Jr.,Defensive Rebound,35,59
+14:18,Utah State,Dwayne Brown Jr.,Layup,35,61
+13:57,Alabama State,Jacoby Ross,Turnover,35,61
+13:57,Utah State,Crew Ainge,Steal,35,61
+13:53,Utah State,Crew Ainge,Layup,35,63
+13:27,Utah State,Sam Merrill,Foul,35,63
+13:18,Utah State,Dwayne Brown Jr.,Foul,35,63
+13:16,Alabama State,Tobi Ewuosho,Missed Three Point Jumper,35,63
+13:16,Utah State,Neemias Queta,Defensive Rebound,35,63
+12:50,Alabama State,Leon Daniels,Foul,35,63
+12:50,Utah State,Tauriawn Knight,Free Throw,35,64
+12:50,Utah State,Tauriawn Knight,Missed Free Throw,35,64
+12:50,Alabama State,Tobi Ewuosho,Defensive Rebound,35,64
+12:39,Alabama State,Reginald Gee,Turnover,35,64
+12:39,Utah State,Tauriawn Knight,Steal,35,64
+12:26,Utah State,Dwayne Brown Jr.,Three Point Jumper,35,67
+11:57,Alabama State,Leon Daniels,Missed Layup,35,67
+11:57,Alabama State,Leon Daniels,Offensive Rebound,35,67
+11:52,Alabama State,Leon Daniels,Layup,37,67
+11:36,Utah State,Diogo Brito,Missed Three Point Jumper,37,67
+11:36,Alabama State,Leon Daniels,Defensive Rebound,37,67
+11:06,Utah State,Sam Merrill,Foul,37,67
+11:06,Utah State,None,None,37,67
+11:06,Alabama State,Leon Daniels,Free Throw,38,67
+11:06,Alabama State,Leon Daniels,Free Throw,39,67
+10:57,Utah State,Dwayne Brown Jr.,Missed Layup,39,67
+10:57,Alabama State,Leon Daniels,Defensive Rebound,39,67
+10:56,Utah State,Quinn Taylor,Foul,39,67
+10:39,Utah State,Dwayne Brown Jr.,Foul,39,67
+10:39,Alabama State,Fausto Pichardo,Missed Free Throw,39,67
+10:39,Utah State,Diogo Brito,Defensive Rebound,39,67
+10:29,Utah State,Tauriawn Knight,Turnover,39,67
+10:29,Alabama State,Kevin Holston,Steal,39,67
+10:25,Alabama State,Kevin Holston,Missed Layup,39,67
+10:25,Utah State,Dwayne Brown Jr.,Defensive Rebound,39,67
+10:18,Utah State,Diogo Brito,Turnover,39,67
+10:17,Alabama State,Gene Davis,Steal,39,67
+10:10,Utah State,Tauriawn Knight,Foul,39,67
+10:10,Alabama State,Tobi Ewuosho,Free Throw,40,67
+10:10,Alabama State,Tobi Ewuosho,Free Throw,41,67
+9:44,Utah State,Abel Porter,Turnover,41,67
+9:41,Alabama State,Fausto Pichardo,Steal,41,67
+9:40,Alabama State,Tobi Ewuosho,Layup,43,67
+9:13,Utah State,Sam Merrill,Missed Layup,43,67
+9:13,Alabama State,Leon Daniels,Block,43,67
+9:09,Alabama State,Leon Daniels,Defensive Rebound,43,67
+9:06,Alabama State,Kevin Holston,Missed Three Point Jumper,43,67
+9:06,Utah State,Sam Merrill,Defensive Rebound,43,67
+9:02,Alabama State,Leon Daniels,Foul,43,67
+9:02,Utah State,Sam Merrill,Free Throw,43,68
+9:02,Utah State,Sam Merrill,Free Throw,43,69
+8:53,Alabama State,Fausto Pichardo,Missed Layup,43,69
+8:53,Utah State,Quinn Taylor,Block,43,69
+8:52,Alabama State,Fausto Pichardo,Offensive Rebound,43,69
+8:42,Alabama State,Fausto Pichardo,Missed Layup,43,69
+8:42,Utah State,Neemias Queta,Defensive Rebound,43,69
+8:31,Utah State,Quinn Taylor,Layup,43,71
+8:14,Alabama State,Reginald Gee,Turnover,43,71
+8:10,Utah State,Sam Merrill,Steal,43,71
+8:07,Utah State,Brock Miller,Missed Three Point Jumper,43,71
+8:07,Alabama State,Kevin Holston,Defensive Rebound,43,71
+7:58,Utah State,Quinn Taylor,Foul,43,71
+7:58,Utah State,None,None,43,71
+7:58,Alabama State,Kevin Holston,Free Throw,44,71
+7:58,Alabama State,Kevin Holston,Free Throw,45,71
+7:47,Alabama State,Branden Johnson,Foul,45,71
+7:47,Utah State,Neemias Queta,Free Throw,45,72
+7:47,Utah State,Neemias Queta,Free Throw,45,73
+7:38,Alabama State,Kevin Holston,Missed Jumper,45,73
+7:38,Utah State,Neemias Queta,Defensive Rebound,45,73
+7:17,Utah State,Brock Miller,Missed Three Point Jumper,45,73
+7:17,Utah State,Quinn Taylor,Offensive Rebound,45,73
+7:11,Utah State,Abel Porter,Turnover,45,73
+7:11,Utah State,Abel Porter,Foul,45,73
+6:56,Alabama State,Tobi Ewuosho,Turnover,45,73
+6:55,Utah State,Abel Porter,Steal,45,73
+6:52,Utah State,Abel Porter,Turnover,45,73
+6:52,Alabama State,Kevin Holston,Steal,45,73
+6:52,Utah State,Abel Porter,Foul,45,73
+6:40,Alabama State,Reginald Gee,Missed Layup,45,73
+6:40,Utah State,Neemias Queta,Block,45,73
+6:37,Utah State,Quinn Taylor,Defensive Rebound,45,73
+6:17,Utah State,Neemias Queta,Turnover,45,73
+6:00,Alabama State,Reginald Gee,Missed Layup,45,73
+6:00,Alabama State,Reginald Gee,Offensive Rebound,45,73
+5:52,Alabama State,Austin Rogers,Missed Jumper,45,73
+5:52,Utah State,Quinn Taylor,Defensive Rebound,45,73
+5:42,Alabama State,Austin Rogers,Foul,45,73
+5:42,Utah State,Crew Ainge,Missed Free Throw,45,73
+5:42,Utah State,None,Team Rebound,45,73
+5:42,Alabama State,None,None,45,73
+5:42,Utah State,Dwayne Brown Jr.,Turnover,45,73
+5:29,Alabama State,Gene Davis,Turnover,45,73
+5:27,Utah State,Neemias Queta,Steal,45,73
+5:24,Utah State,Crew Ainge,Layup,45,75
+5:24,Alabama State,Kevin Holston,Foul,45,75
+5:24,Utah State,Crew Ainge,Missed Free Throw,45,75
+5:24,Alabama State,Tobi Ewuosho,Defensive Rebound,45,75
+5:00,Alabama State,Gene Davis,Turnover,45,75
+4:38,Utah State,Neemias Queta,Turnover,45,75
+4:19,Alabama State,Kevin Holston,Turnover,45,75
+4:18,Utah State,Diogo Brito,Steal,45,75
+4:14,Utah State,Dwayne Brown Jr.,Layup,45,77
+4:14,Alabama State,Reginald Gee,Foul,45,77
+4:14,Utah State,Dwayne Brown Jr.,Free Throw,45,78
+3:59,Alabama State,Kevin Holston,Missed Jumper,45,78
+3:59,Utah State,Crew Ainge,Block,45,78
+3:55,Utah State,Neemias Queta,Defensive Rebound,45,78
+3:48,Alabama State,Kevin Holston,Foul,45,78
+3:48,Utah State,None,None,45,78
+3:48,Utah State,Diogo Brito,Free Throw,45,79
+3:48,Utah State,Diogo Brito,Free Throw,45,80
+3:32,Alabama State,Reginald Gee,Turnover,45,80
+3:31,Utah State,Dwayne Brown Jr.,Steal,45,80
+3:16,Utah State,Ben Fakira,Turnover,45,80
+3:16,Utah State,Ben Fakira,Foul,45,80
+3:00,Alabama State,Jacoby Ross,Missed Jumper,45,80
+3:00,Alabama State,Leon Daniels,Offensive Rebound,45,80
+2:55,Alabama State,Leon Daniels,Missed Jumper,45,80
+2:55,Utah State,Ben Fakira,Defensive Rebound,45,80
+2:54,Alabama State,Branden Johnson,Foul,45,80
+2:54,Utah State,Ben Fakira,Free Throw,45,81
+2:54,Utah State,Ben Fakira,Missed Free Throw,45,81
+2:54,Alabama State,Reginald Gee,Defensive Rebound,45,81
+2:46,Alabama State,Jacoby Ross,Missed Jumper,45,81
+2:46,Alabama State,Tobi Ewuosho,Offensive Rebound,45,81
+2:42,Utah State,Ben Fakira,Foul,45,81
+2:42,Alabama State,Tobi Ewuosho,Free Throw,46,81
+2:42,Alabama State,Tobi Ewuosho,Missed Free Throw,46,81
+2:42,Utah State,Justin Bean,Defensive Rebound,46,81
+2:28,Utah State,Justin Bean,Missed Jumper,46,81
+2:28,Utah State,Justin Bean,Offensive Rebound,46,81
+2:24,Utah State,Diogo Brito,Missed Three Point Jumper,46,81
+2:24,Alabama State,Reginald Gee,Defensive Rebound,46,81
+2:05,Alabama State,Reginald Gee,Missed Three Point Jumper,46,81
+2:05,Utah State,Abel Porter,Defensive Rebound,46,81
+1:48,Utah State,Diogo Brito,Three Point Jumper,46,84
+1:30,Alabama State,Tobi Ewuosho,Turnover,46,84
+1:29,Utah State,Diogo Brito,Steal,46,84
+1:21,Utah State,Diogo Brito,Missed Three Point Jumper,46,84
+1:21,Utah State,Justin Bean,Offensive Rebound,46,84
+1:16,Utah State,Diogo Brito,Layup,46,86
+0:52,Alabama State,Jacoby Ross,Missed Three Point Jumper,46,86
+0:52,Utah State,Alek Johnson,Defensive Rebound,46,86
+0:24,Utah State,Abel Porter,Missed Three Point Jumper,46,86
+0:24,Alabama State,Leon Daniels,Defensive Rebound,46,86
+0:11,Utah State,Abel Porter,Foul,46,86
+0:11,Alabama State,Jacoby Ross,Free Throw,47,86
+0:11,Alabama State,Jacoby Ross,Free Throw,48,86
+0:00,Utah State,None,None,48,86

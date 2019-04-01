@@ -1,0 +1,295 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Colorado,None,None,0,0
+19:51,Charlotte,Jaylan McGill,Foul,0,0
+19:30,Colorado,Shane Gatling,Missed Three Point Jumper,0,0
+19:30,Charlotte,Charlotte,Defensive Rebound,0,0
+19:06,Charlotte,Jon Davis,Layup,0,2
+18:35,Colorado,Lucas Siewert,Layup,2,2
+18:14,Charlotte,Malik Martin,Missed Three Point Jumper,2,2
+18:14,Colorado,D'Shawn Schwartz,Defensive Rebound,2,2
+18:09,Colorado,D'Shawn Schwartz,Turnover,2,2
+18:09,Charlotte,Malik Martin,Steal,2,2
+18:06,Charlotte,Malik Martin,Layup,2,4
+17:45,Colorado,Tyler Bey,Turnover,2,4
+17:20,Charlotte,Milos Supica,Layup,2,6
+17:02,Colorado,Tyler Bey,Missed Jumper,2,6
+17:02,Charlotte,Brandon Younger,Defensive Rebound,2,6
+16:37,Charlotte,Milos Supica,Layup,2,8
+16:30,Colorado,None,None,2,8
+16:22,Colorado,Tyler Bey,Layup,4,8
+16:04,Colorado,Namon Wright,Foul,4,8
+15:59,Charlotte,Brandon Younger,Missed Three Point Jumper,4,8
+15:59,Colorado,Shane Gatling,Defensive Rebound,4,8
+15:37,Charlotte,Malik Martin,Foul,4,8
+15:34,Colorado,Namon Wright,Missed Three Point Jumper,4,8
+15:34,Charlotte,Brandon Younger,Defensive Rebound,4,8
+15:26,Charlotte,Jon Davis,Three Point Jumper,4,11
+15:06,Colorado,Lucas Siewert,Turnover,4,11
+15:06,Charlotte,Jaylan McGill,Steal,4,11
+14:59,Charlotte,Brandon Younger,Missed Jumper,4,11
+14:59,Colorado,Namon Wright,Defensive Rebound,4,11
+14:51,Colorado,Lucas Siewert,Three Point Jumper,7,11
+14:18,Charlotte,Brandon Younger,Missed Jumper,7,11
+14:18,Colorado,McKinley Wright IV,Defensive Rebound,7,11
+14:09,Colorado,Lucas Siewert,Missed Three Point Jumper,7,11
+14:09,Charlotte,Charlotte,Defensive Rebound,7,11
+13:41,Charlotte,Jaylan McGill,Layup,7,13
+13:24,Colorado,Lucas Siewert,Missed Jumper,7,13
+13:24,Charlotte,Malik Martin,Defensive Rebound,7,13
+13:04,Charlotte,None,None,7,13
+12:54,Charlotte,Charlotte ,Turnover,7,13
+12:38,Charlotte,Brandon Younger,Foul,7,13
+12:38,Colorado,Evan Battey,Free Throw,8,13
+12:38,Colorado,Evan Battey,Missed Free Throw,8,13
+12:38,Charlotte,Malik Martin,Defensive Rebound,8,13
+12:10,Charlotte,Jailan Haslem,Foul,8,13
+12:10,Charlotte,Jailan Haslem,Turnover,8,13
+12:01,Colorado,Namon Wright,Layup,10,13
+11:40,Charlotte,Jon Davis,Layup,10,15
+11:30,Colorado,Namon Wright,Turnover,10,15
+11:30,Charlotte,Malik Martin,Steal,10,15
+11:26,Charlotte,Malik Martin,Layup,10,17
+11:01,Colorado,Daylen Kountz,Turnover,10,17
+11:01,Charlotte,None,None,10,17
+10:44,Charlotte,Jon Davis,Missed Three Point Jumper,10,17
+10:44,Charlotte,Dravon Mangum,Offensive Rebound,10,17
+10:41,Colorado,Daylen Kountz,Foul,10,17
+10:09,Charlotte,Jaylan McGill,Missed Three Point Jumper,10,17
+10:09,Charlotte,Charlotte,Offensive Rebound,10,17
+10:09,Charlotte,Jaylan McGill,Turnover,10,17
+9:41,Colorado,Shane Gatling,Missed Jumper,10,17
+9:41,Charlotte,Brandon Younger,Block,10,17
+9:41,Colorado,Colorado,Offensive Rebound,10,17
+9:41,Colorado,Colorado ,Turnover,10,17
+9:29,Charlotte,John Kitoko,Missed Three Point Jumper,10,17
+9:29,Colorado,Tyler Bey,Defensive Rebound,10,17
+9:20,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,10,17
+9:20,Charlotte,John Kitoko,Defensive Rebound,10,17
+9:01,Charlotte,Brandon Younger,Missed Jumper,10,17
+9:01,Colorado,D'Shawn Schwartz,Defensive Rebound,10,17
+8:37,Colorado,Tyler Bey,Layup,12,17
+8:21,Charlotte,Jaylan McGill,Turnover,12,17
+8:21,Colorado,Shane Gatling,Steal,12,17
+8:18,Colorado,Shane Gatling,Missed Dunk,12,17
+8:18,Colorado,McKinley Wright IV,Offensive Rebound,12,17
+8:10,Colorado,McKinley Wright IV,Layup,14,17
+7:47,Charlotte,John Kitoko,Turnover,14,17
+7:47,Charlotte,None,None,14,17
+7:34,Colorado,Eli Parquet,Missed Three Point Jumper,14,17
+7:34,Charlotte,Malik Martin,Defensive Rebound,14,17
+7:13,Colorado,McKinley Wright IV,Foul,14,17
+7:13,Charlotte,Brandon Younger,Free Throw,14,18
+7:13,Charlotte,Brandon Younger,Free Throw,14,19
+6:54,Colorado,D'Shawn Schwartz,Layup,16,19
+6:26,Charlotte,Malik Martin,Layup,16,21
+6:26,Colorado,D'Shawn Schwartz,Foul,16,21
+6:26,Charlotte,Malik Martin,Missed Free Throw,16,21
+6:26,Charlotte,Malik Martin,Offensive Rebound,16,21
+6:06,Charlotte,Brandon Younger,Missed Three Point Jumper,16,21
+6:06,Colorado,McKinley Wright IV,Defensive Rebound,16,21
+5:36,Colorado,Evan Battey,Missed Jumper,16,21
+5:36,Charlotte,Milos Supica,Defensive Rebound,16,21
+5:21,Charlotte,Jaylan McGill,Layup,16,23
+5:21,Colorado,Lucas Siewert,Foul,16,23
+5:21,Charlotte,Milos Supica,Free Throw,16,24
+5:07,Colorado,Evan Battey,Layup,18,24
+4:39,Charlotte,Jon Davis,Missed Layup,18,24
+4:39,Colorado,Daylen Kountz,Defensive Rebound,18,24
+4:31,Charlotte,Milos Supica,Foul,18,24
+4:31,Colorado,Namon Wright,Free Throw,19,24
+4:31,Colorado,Namon Wright,Missed Free Throw,19,24
+4:31,Charlotte,Bo Blight,Defensive Rebound,19,24
+4:04,Charlotte,Milos Supica,Foul,19,24
+4:04,Charlotte,Milos Supica,Turnover,19,24
+3:39,Colorado,Daylen Kountz,Layup,21,24
+3:18,Charlotte,John Kitoko,Missed Three Point Jumper,21,24
+3:18,Colorado,Lucas Siewert,Defensive Rebound,21,24
+3:08,Colorado,Namon Wright,Layup,23,24
+2:53,Colorado,Evan Battey,Foul,23,24
+2:53,Charlotte,None,None,23,24
+2:39,Charlotte,Jailan Haslem,Foul,23,24
+2:39,Charlotte,Jailan Haslem,Turnover,23,24
+2:24,Charlotte,John Kitoko,Foul,23,24
+2:24,Colorado,Daylen Kountz,Free Throw,24,24
+2:24,Colorado,Daylen Kountz,Free Throw,25,24
+1:56,Charlotte,Jon Davis,Missed Layup,25,24
+1:56,Charlotte,Jon Davis,Offensive Rebound,25,24
+1:47,Charlotte,Jon Davis,Turnover,25,24
+1:47,Colorado,Daylen Kountz,Steal,25,24
+1:43,Charlotte,Brandon Younger,Foul,25,24
+1:43,Colorado,Namon Wright,Free Throw,26,24
+1:43,Colorado,Namon Wright,Free Throw,27,24
+1:18,Charlotte,Jaylan McGill,Turnover,27,24
+1:11,Colorado,Lucas Siewert,Three Point Jumper,30,24
+0:38,Charlotte,Jon Davis,Jumper,30,26
+0:06,Colorado,Namon Wright,Missed Three Point Jumper,30,26
+0:06,Colorado,McKinley Wright IV,Offensive Rebound,30,26
+0:02,Colorado,McKinley Wright IV,Missed Jumper,30,26
+0:02,Colorado,Colorado,Offensive Rebound,30,26
+0:02,Charlotte,Bo Blight,Foul,30,26
+0:02,Charlotte,Charlotte,Foul,30,26
+0:02,Charlotte,Charlotte,Foul,30,26
+0:02,Colorado,Namon Wright,Missed Free Throw,30,26
+0:02,Colorado,Namon Wright,Free Throw,31,26
+0:02,Charlotte,Charlotte,Foul,31,26
+0:02,Charlotte,Charlotte,Foul,31,26
+0:02,Colorado,Namon Wright,Free Throw,32,26
+0:02,Colorado,Namon Wright,Free Throw,33,26
+0:02,Colorado,Evan Battey,Free Throw,34,26
+0:02,Colorado,Evan Battey,Free Throw,35,26
+0:00,Charlotte,None,None,35,26
+20:00,Charlotte,None,None,35,26
+19:39,Colorado,Tyler Bey,Foul,35,26
+19:39,Charlotte,Dravon Mangum,Missed Free Throw,35,26
+19:39,Charlotte,None,Team Rebound,35,26
+19:39,Charlotte,Dravon Mangum,Free Throw,35,27
+19:20,Colorado,McKinley Wright IV,Turnover,35,27
+18:58,Charlotte,Brandon Younger,Missed Jumper,35,27
+18:58,Colorado,Tyler Bey,Defensive Rebound,35,27
+18:46,Colorado,Tyler Bey,Layup,37,27
+18:32,Charlotte,Jon Davis,Layup,37,29
+18:28,Colorado,Tyler Bey,Turnover,37,29
+18:28,Charlotte,Jon Davis,Steal,37,29
+18:27,Charlotte,Jon Davis,Missed Layup,37,29
+18:27,Colorado,Tyler Bey,Block,37,29
+18:27,Charlotte,Charlotte,Offensive Rebound,37,29
+18:14,Charlotte,Milos Supica,Turnover,37,29
+18:14,Colorado,Tyler Bey,Steal,37,29
+18:03,Colorado,Lucas Siewert,Missed Jumper,37,29
+18:03,Charlotte,Milos Supica,Block,37,29
+18:03,Colorado,Shane Gatling,Offensive Rebound,37,29
+17:57,Colorado,Shane Gatling,Missed Layup,37,29
+17:57,Charlotte,Milos Supica,Defensive Rebound,37,29
+17:57,Colorado,Tyler Bey,Foul,37,29
+17:46,Charlotte,Jon Davis,Turnover,37,29
+17:29,Charlotte,Dravon Mangum,Foul,37,29
+17:29,Colorado,Lucas Siewert,Free Throw,38,29
+17:29,Colorado,Lucas Siewert,Free Throw,39,29
+17:13,Charlotte,Dravon Mangum,Turnover,39,29
+17:00,Colorado,McKinley Wright IV,Turnover,39,29
+16:49,Charlotte,Milos Supica,Missed Layup,39,29
+16:49,Colorado,Tyler Bey,Defensive Rebound,39,29
+16:46,Charlotte,Milos Supica,Foul,39,29
+16:18,Colorado,McKinley Wright IV,Missed Three Point Jumper,39,29
+16:18,Colorado,Colorado,Offensive Rebound,39,29
+16:18,Colorado,Colorado ,Turnover,39,29
+16:04,Charlotte,Brandon Younger,Missed Three Point Jumper,39,29
+16:04,Colorado,McKinley Wright IV,Defensive Rebound,39,29
+15:54,Charlotte,Jailan Haslem,Foul,39,29
+15:54,Charlotte,None,None,39,29
+15:41,Colorado,D'Shawn Schwartz,Missed Layup,39,29
+15:41,Colorado,Colorado,Offensive Rebound,39,29
+15:35,Colorado,Lucas Siewert,Three Point Jumper,42,29
+15:09,Charlotte,Brandon Younger,Jumper,42,31
+15:09,Colorado,Lucas Siewert,Foul,42,31
+15:09,Charlotte,Brandon Younger,Free Throw,42,32
+15:01,Charlotte,Jaylan McGill,Foul,42,32
+14:55,Colorado,D'Shawn Schwartz,Jumper,44,32
+14:34,Charlotte,Jon Davis,Missed Layup,44,32
+14:34,Colorado,Tyler Bey,Defensive Rebound,44,32
+14:29,Colorado,Lucas Siewert,Missed Layup,44,32
+14:29,Charlotte,Brandon Younger,Block,44,32
+14:29,Colorado,Colorado,Offensive Rebound,44,32
+14:26,Colorado,Shane Gatling,Three Point Jumper,47,32
+14:06,Charlotte,Brandon Younger,Missed Jumper,47,32
+14:06,Colorado,Tyler Bey,Defensive Rebound,47,32
+13:57,Colorado,Lucas Siewert,Missed Layup,47,32
+13:57,Charlotte,Jailan Haslem,Block,47,32
+13:57,Charlotte,Brandon Younger,Defensive Rebound,47,32
+13:35,Charlotte,Jailan Haslem,Turnover,47,32
+13:35,Colorado,McKinley Wright IV,Steal,47,32
+13:29,Colorado,Tyler Bey,Dunk,49,32
+13:10,Colorado,D'Shawn Schwartz,Foul,49,32
+13:10,Charlotte,Jon Davis,Free Throw,49,33
+13:10,Charlotte,Jon Davis,Free Throw,49,34
+12:39,Colorado,McKinley Wright IV,Missed Layup,49,34
+12:39,Colorado,Lucas Siewert,Offensive Rebound,49,34
+12:39,Colorado,None,None,51,34
+12:24,Charlotte,Milos Supica,Layup,51,36
+12:12,Colorado,Namon Wright,Missed Layup,51,36
+12:12,Charlotte,Jon Davis,Defensive Rebound,51,36
+12:04,Colorado,McKinley Wright IV,Foul,51,36
+12:04,Charlotte,Jon Davis,Free Throw,51,37
+12:04,Charlotte,Jon Davis,Free Throw,51,38
+11:50,Colorado,Daylen Kountz,Three Point Jumper,54,38
+11:23,Charlotte,Brandon Younger,Missed Three Point Jumper,54,38
+11:23,Colorado,Lucas Siewert,Defensive Rebound,54,38
+11:17,Colorado,Daylen Kountz,Layup,56,38
+11:05,Colorado,Evan Battey,Foul,56,38
+11:05,Charlotte,None,None,56,38
+10:47,Charlotte,Jon Davis,Missed Three Point Jumper,56,38
+10:47,Charlotte,John Kitoko,Offensive Rebound,56,38
+10:30,Charlotte,Jaylan McGill,Missed Three Point Jumper,56,38
+10:30,Colorado,Namon Wright,Defensive Rebound,56,38
+10:26,Colorado,Namon Wright,Turnover,56,38
+10:05,Colorado,Eli Parquet,Foul,56,38
+10:05,Charlotte,Jon Davis,Free Throw,56,39
+9:49,Colorado,Daylen Kountz,Three Point Jumper,59,39
+9:16,Colorado,Evan Battey,Foul,59,39
+9:16,Charlotte,Jaylan McGill,Missed Free Throw,59,39
+9:16,Charlotte,None,Team Rebound,59,39
+9:16,Charlotte,Jaylan McGill,Free Throw,59,40
+8:56,Colorado,Lucas Siewert,Missed Jumper,59,40
+8:56,Colorado,Eli Parquet,Offensive Rebound,59,40
+8:56,Colorado,None,None,61,40
+8:29,Charlotte,Bo Blight,Missed Three Point Jumper,61,40
+8:29,Colorado,Namon Wright,Defensive Rebound,61,40
+8:09,Colorado,Lucas Siewert,Turnover,61,40
+7:52,Charlotte,John Kitoko,Missed Three Point Jumper,61,40
+7:52,Colorado,Lucas Siewert,Defensive Rebound,61,40
+7:41,Colorado,Tyler Bey,Turnover,61,40
+7:41,Charlotte,Milos Supica,Steal,61,40
+7:27,Charlotte,Jon Davis,Jumper,61,42
+7:10,Colorado,Lucas Siewert,Dunk,63,42
+6:40,Charlotte,John Kitoko,Turnover,63,42
+6:40,Colorado,Eli Parquet,Steal,63,42
+6:32,Colorado,Daylen Kountz,Turnover,63,42
+6:32,Charlotte,Milos Supica,Steal,63,42
+6:03,Colorado,Lucas Siewert,Foul,63,42
+6:03,Charlotte,None,None,63,42
+6:03,Charlotte,Jon Davis,Free Throw,63,43
+6:03,Charlotte,Jon Davis,Free Throw,63,44
+5:40,Colorado,Shane Gatling,Missed Three Point Jumper,63,44
+5:40,Colorado,Tyler Bey,Offensive Rebound,63,44
+5:32,Colorado,McKinley Wright IV,Missed Three Point Jumper,63,44
+5:32,Charlotte,Jon Davis,Defensive Rebound,63,44
+5:11,Charlotte,Milos Supica,Layup,63,46
+4:58,Colorado,Lucas Siewert,Missed Three Point Jumper,63,46
+4:58,Charlotte,Brandon Younger,Defensive Rebound,63,46
+4:33,Charlotte,Milos Supica,Layup,63,48
+4:11,Colorado,Shane Gatling,Missed Jumper,63,48
+4:11,Charlotte,Milos Supica,Defensive Rebound,63,48
+3:59,Charlotte,Jon Davis,Jumper,63,50
+3:49,Colorado,None,None,63,50
+3:36,Colorado,D'Shawn Schwartz,Layup,65,50
+3:09,Charlotte,Jaylan McGill,Missed Layup,65,50
+3:09,Colorado,Evan Battey,Block,65,50
+3:09,Charlotte,Charlotte,Offensive Rebound,65,50
+3:07,Charlotte,None,None,65,50
+3:05,Colorado,Evan Battey,Foul,65,50
+3:05,Charlotte,Jon Davis,Free Throw,65,51
+3:05,Charlotte,Jon Davis,Free Throw,65,52
+2:41,Colorado,McKinley Wright IV,Turnover,65,52
+2:41,Charlotte,Jailan Haslem,Steal,65,52
+2:35,Charlotte,Jailan Haslem,Turnover,65,52
+2:35,Colorado,D'Shawn Schwartz,Steal,65,52
+2:15,Colorado,McKinley Wright IV,Missed Three Point Jumper,65,52
+2:15,Colorado,Evan Battey,Offensive Rebound,65,52
+2:05,Colorado,D'Shawn Schwartz,Missed Layup,65,52
+2:05,Charlotte,Brandon Younger,Defensive Rebound,65,52
+1:49,Charlotte,Jon Davis,Missed Jumper,65,52
+1:49,Colorado,Lucas Siewert,Defensive Rebound,65,52
+1:38,Colorado,D'Shawn Schwartz,Three Point Jumper,68,52
+1:14,Charlotte,Bo Blight,Missed Three Point Jumper,68,52
+1:14,Colorado,Daylen Kountz,Defensive Rebound,68,52
+1:01,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,68,52
+1:01,Charlotte,Charlotte,Defensive Rebound,68,52
+0:40,Colorado,Eli Parquet,Foul,68,52
+0:40,Charlotte,Jon Davis,Free Throw,68,53
+0:40,Charlotte,Jon Davis,Missed Free Throw,68,53
+0:40,Colorado,Evan Battey,Defensive Rebound,68,53
+0:22,Colorado,Evan Battey,Missed Three Point Jumper,68,53
+0:22,Charlotte,Bo Blight,Defensive Rebound,68,53
+0:07,Charlotte,Jon Davis,Missed Three Point Jumper,68,53
+0:07,Colorado,Evan Battey,Defensive Rebound,68,53
+0:00,Charlotte,None,None,68,53

@@ -1,0 +1,283 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Xavier,None,None,0,0
+19:45,Xavier,Quentin Goodin,Missed Layup,0,0
+19:45,Villanova,Phil Booth,Defensive Rebound,0,0
+19:22,Villanova,Dhamir Cosby-Roundtree,Missed Jumper,0,0
+19:22,Xavier,Naji Marshall,Defensive Rebound,0,0
+19:16,Xavier,Naji Marshall,Turnover,0,0
+19:15,Villanova,Collin Gillespie,Missed Three Point Jumper,0,0
+19:15,Xavier,Tyrique Jones,Defensive Rebound,0,0
+18:58,Xavier,Zach Hankins,Missed Jumper,0,0
+18:58,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,0,0
+18:31,Villanova,Phil Booth,Jumper,2,0
+18:06,Xavier,Paul Scruggs,Layup,2,2
+17:38,Villanova,Eric Paschall,Layup,4,2
+17:16,Xavier,Paul Scruggs,Missed Three Point Jumper,4,2
+17:16,Villanova,Villanova,Defensive Rebound,4,2
+16:52,Villanova,Saddiq Bey,Three Point Jumper,7,2
+16:38,Villanova,Collin Gillespie,Foul,7,2
+16:38,Xavier,Xavier ,Turnover,7,2
+16:00,Villanova,Jahvon Quinerly,Missed Three Point Jumper,7,2
+16:00,Xavier,Paul Scruggs,Defensive Rebound,7,2
+15:42,Xavier,Quentin Goodin,Missed Jumper,7,2
+15:42,Villanova,Joe Cremo,Defensive Rebound,7,2
+15:22,Villanova,Phil Booth,Missed Three Point Jumper,7,2
+15:22,Xavier,Naji Marshall,Defensive Rebound,7,2
+15:15,Xavier,Naji Marshall,Missed Three Point Jumper,7,2
+15:15,Villanova,Dhamir Cosby-Roundtree,Defensive Rebound,7,2
+14:51,Villanova,Dhamir Cosby-Roundtree,Missed Dunk,7,2
+14:51,Xavier,Zach Hankins,Block,7,2
+14:51,Xavier,Tyrique Jones,Defensive Rebound,7,2
+14:37,Xavier,Zach Hankins,Layup,7,4
+14:15,Villanova,Joe Cremo,Missed Three Point Jumper,7,4
+14:15,Xavier,Naji Marshall,Defensive Rebound,7,4
+14:05,Xavier,Naji Marshall,Three Point Jumper,7,7
+13:38,Villanova,Jahvon Quinerly,Three Point Jumper,10,7
+13:21,Villanova,Dhamir Cosby-Roundtree,Foul,10,7
+13:21,Xavier,None,None,10,7
+13:21,Xavier,Naji Marshall,Missed Free Throw,10,7
+13:21,Xavier,None,Team Rebound,10,7
+13:21,Xavier,Naji Marshall,Missed Free Throw,10,7
+13:21,Villanova,Phil Booth,Defensive Rebound,10,7
+13:08,Villanova,Jahvon Quinerly,Layup,12,7
+12:47,Xavier,Quentin Goodin,Layup,12,9
+12:21,Villanova,Jermaine Samuels,Turnover,12,9
+12:21,Xavier,Tyrique Jones,Steal,12,9
+12:09,Xavier,Tyrique Jones,Turnover,12,9
+12:09,Villanova,Collin Gillespie,Steal,12,9
+11:59,Xavier,Paul Scruggs,Foul,12,9
+11:59,Xavier,None,None,12,9
+11:59,Villanova,Villanova ,Turnover,12,9
+11:43,Xavier,Quentin Goodin,Missed Layup,12,9
+11:43,Villanova,Eric Paschall,Block,12,9
+11:43,Villanova,Collin Gillespie,Defensive Rebound,12,9
+11:16,Villanova,Collin Gillespie,Three Point Jumper,15,9
+10:53,Xavier,Naji Marshall,Missed Three Point Jumper,15,9
+10:53,Xavier,Tyrique Jones,Offensive Rebound,15,9
+10:47,Xavier,Tyrique Jones,Layup,15,11
+10:25,Villanova,Eric Paschall,Three Point Jumper,18,11
+10:07,Xavier,Quentin Goodin,Turnover,18,11
+10:07,Villanova,Eric Paschall,Steal,18,11
+9:58,Villanova,Collin Gillespie,Missed Three Point Jumper,18,11
+9:58,Villanova,Saddiq Bey,Offensive Rebound,18,11
+9:36,Xavier,Tyrique Jones,Foul,18,11
+9:27,Villanova,Phil Booth,Missed Jumper,18,11
+9:27,Xavier,Kyle Castlin,Defensive Rebound,18,11
+9:05,Xavier,Elias Harden,Missed Three Point Jumper,18,11
+9:05,Villanova,Villanova,Defensive Rebound,18,11
+8:35,Villanova,Jermaine Samuels,Missed Three Point Jumper,18,11
+8:35,Villanova,Saddiq Bey,Offensive Rebound,18,11
+8:28,Villanova,Saddiq Bey,Missed Three Point Jumper,18,11
+8:28,Villanova,Jermaine Samuels,Offensive Rebound,18,11
+8:04,Villanova,Eric Paschall,Missed Jumper,18,11
+8:04,Villanova,Phil Booth,Offensive Rebound,18,11
+7:54,Xavier,Paul Scruggs,Foul,18,11
+7:54,Xavier,None,None,18,11
+7:53,Villanova,Phil Booth,Missed Three Point Jumper,18,11
+7:53,Villanova,Collin Gillespie,Offensive Rebound,18,11
+7:39,Villanova,Phil Booth,Jumper,20,11
+7:24,Xavier,Quentin Goodin,Three Point Jumper,20,14
+6:59,Villanova,Dhamir Cosby-Roundtree,Missed Dunk,20,14
+6:59,Xavier,Zach Hankins,Block,20,14
+6:59,Villanova,Jermaine Samuels,Offensive Rebound,20,14
+6:44,Villanova,Phil Booth,Foul,20,14
+6:44,Villanova,Phil Booth,Turnover,20,14
+6:36,Xavier,Quentin Goodin,Missed Three Point Jumper,20,14
+6:36,Villanova,Jahvon Quinerly,Defensive Rebound,20,14
+6:18,Villanova,Eric Paschall,Missed Three Point Jumper,20,14
+6:18,Xavier,Ryan Welage,Defensive Rebound,20,14
+6:05,Xavier,Zach Hankins,Dunk,20,16
+5:37,Villanova,Eric Paschall,Dunk,22,16
+5:15,Xavier,Elias Harden,Three Point Jumper,22,19
+4:53,Villanova,Phil Booth,Three Point Jumper,25,19
+4:24,Xavier,Naji Marshall,Jumper,25,21
+3:46,Villanova,Villanova ,Turnover,25,21
+3:46,Xavier,None,None,25,21
+3:35,Villanova,Dhamir Cosby-Roundtree,Foul,25,21
+3:25,Xavier,Tyrique Jones,Foul,25,21
+3:25,Xavier,Tyrique Jones,Turnover,25,21
+3:09,Villanova,Saddiq Bey,Missed Jumper,25,21
+3:09,Xavier,Zach Hankins,Defensive Rebound,25,21
+2:55,Villanova,Jermaine Samuels,Foul,25,21
+2:55,Xavier,Zach Hankins,Free Throw,25,22
+2:55,Xavier,Zach Hankins,Free Throw,25,23
+2:46,Villanova,Phil Booth,Three Point Jumper,28,23
+2:29,Xavier,Zach Hankins,Layup,28,25
+2:07,Xavier,Quentin Goodin,Foul,28,25
+2:03,Villanova,Phil Booth,Missed Three Point Jumper,28,25
+2:03,Xavier,Naji Marshall,Defensive Rebound,28,25
+1:49,Villanova,Collin Gillespie,Foul,28,25
+1:49,Xavier,Naji Marshall,Free Throw,28,26
+1:49,Xavier,Naji Marshall,Free Throw,28,27
+1:36,Villanova,Eric Paschall,Turnover,28,27
+1:20,Xavier,Elias Harden,Turnover,28,27
+1:20,Villanova,Jahvon Quinerly,Steal,28,27
+1:20,Villanova,None,None,28,27
+1:19,Villanova,Phil Booth,Layup,30,27
+1:05,Xavier,Naji Marshall,Turnover,30,27
+0:58,Villanova,Phil Booth,Foul,30,27
+0:58,Villanova,Phil Booth,Turnover,30,27
+0:45,Xavier,Zach Hankins,Missed Jumper,30,27
+0:45,Villanova,Saddiq Bey,Defensive Rebound,30,27
+0:28,Villanova,None,None,30,27
+0:11,Villanova,Phil Booth,Missed Three Point Jumper,30,27
+0:11,Villanova,Jermaine Samuels,Offensive Rebound,30,27
+0:01,Villanova,Jahvon Quinerly,Missed Three Point Jumper,30,27
+0:01,Xavier,Kyle Castlin,Defensive Rebound,30,27
+0:01,Xavier,Naji Marshall,Missed Three Point Jumper,30,27
+0:01,Villanova,Saddiq Bey,Defensive Rebound,30,27
+0:00,Xavier,None,None,30,27
+20:00,Xavier,None,None,30,27
+19:53,Xavier,Naji Marshall,Turnover,30,27
+19:53,Villanova,Eric Paschall,Steal,30,27
+19:20,Villanova,Saddiq Bey,Missed Three Point Jumper,30,27
+19:20,Xavier,Paul Scruggs,Defensive Rebound,30,27
+19:07,Xavier,Zach Hankins,Dunk,30,29
+18:41,Villanova,Collin Gillespie,Three Point Jumper,33,29
+18:26,Xavier,Paul Scruggs,Layup,33,31
+17:54,Villanova,Collin Gillespie,Missed Three Point Jumper,33,31
+17:54,Xavier,Quentin Goodin,Block,33,31
+17:54,Xavier,Zach Hankins,Defensive Rebound,33,31
+17:43,Xavier,Quentin Goodin,Missed Three Point Jumper,33,31
+17:43,Villanova,Saddiq Bey,Defensive Rebound,33,31
+17:15,Villanova,Saddiq Bey,Three Point Jumper,36,31
+16:56,Xavier,Paul Scruggs,Three Point Jumper,36,34
+16:31,Villanova,Eric Paschall,Three Point Jumper,39,34
+16:07,Xavier,Naji Marshall,Jumper,39,36
+15:40,Villanova,Eric Paschall,Foul,39,36
+15:40,Villanova,Eric Paschall,Turnover,39,36
+15:40,Xavier,None,None,39,36
+15:35,Xavier,Quentin Goodin,Missed Layup,39,36
+15:35,Villanova,Jermaine Samuels,Block,39,36
+15:35,Villanova,Phil Booth,Defensive Rebound,39,36
+15:29,Xavier,Tyrique Jones,Foul,39,36
+15:09,Villanova,Saddiq Bey,Missed Three Point Jumper,39,36
+15:09,Xavier,Paul Scruggs,Defensive Rebound,39,36
+14:49,Xavier,Zach Hankins,Missed Jumper,39,36
+14:49,Villanova,Jermaine Samuels,Defensive Rebound,39,36
+14:24,Villanova,Phil Booth,Missed Jumper,39,36
+14:24,Xavier,Quentin Goodin,Defensive Rebound,39,36
+14:11,Xavier,Elias Harden,Missed Three Point Jumper,39,36
+14:11,Xavier,Zach Hankins,Offensive Rebound,39,36
+13:59,Xavier,Elias Harden,Jumper,39,38
+13:33,Villanova,Eric Paschall,Three Point Jumper,42,38
+13:18,Xavier,Quentin Goodin,Three Point Jumper,42,41
+12:48,Villanova,Phil Booth,Missed Three Point Jumper,42,41
+12:48,Villanova,Saddiq Bey,Offensive Rebound,42,41
+12:41,Villanova,Saddiq Bey,Dunk,44,41
+12:32,Xavier,Paul Scruggs,Missed Jumper,44,41
+12:32,Villanova,Jahvon Quinerly,Defensive Rebound,44,41
+12:04,Villanova,Phil Booth,Missed Layup,44,41
+12:04,Xavier,Paul Scruggs,Defensive Rebound,44,41
+12:03,Villanova,Eric Paschall,Foul,44,41
+11:51,Xavier,Elias Harden,Three Point Jumper,44,44
+11:18,Xavier,Quentin Goodin,Foul,44,44
+11:18,Xavier,None,None,44,44
+11:05,Villanova,Saddiq Bey,Missed Three Point Jumper,44,44
+11:05,Xavier,Naji Marshall,Defensive Rebound,44,44
+10:56,Xavier,Quentin Goodin,Missed Three Point Jumper,44,44
+10:56,Villanova,Saddiq Bey,Defensive Rebound,44,44
+10:31,Villanova,Jahvon Quinerly,Missed Three Point Jumper,44,44
+10:31,Xavier,Quentin Goodin,Defensive Rebound,44,44
+10:21,Xavier,Naji Marshall,Layup,44,46
+10:20,Villanova,None,None,44,46
+10:03,Villanova,Eric Paschall,Missed Jumper,44,46
+10:03,Xavier,Naji Marshall,Defensive Rebound,44,46
+9:55,Xavier,Quentin Goodin,Missed Three Point Jumper,44,46
+9:55,Xavier,Tyrique Jones,Offensive Rebound,44,46
+9:38,Xavier,Naji Marshall,Three Point Jumper,44,49
+9:10,Villanova,Phil Booth,Turnover,44,49
+8:55,Xavier,Paul Scruggs,Three Point Jumper,44,52
+8:35,Villanova,Eric Paschall,Missed Jumper,44,52
+8:35,Xavier,Quentin Goodin,Defensive Rebound,44,52
+8:14,Xavier,Naji Marshall,Jumper,44,54
+7:53,Villanova,Phil Booth,Missed Three Point Jumper,44,54
+7:53,Xavier,Paul Scruggs,Defensive Rebound,44,54
+7:47,Xavier,Naji Marshall,Missed Three Point Jumper,44,54
+7:47,Villanova,Villanova,Defensive Rebound,44,54
+7:40,Xavier,None,None,44,54
+7:16,Villanova,Eric Paschall,Missed Three Point Jumper,44,54
+7:16,Xavier,Tyrique Jones,Defensive Rebound,44,54
+6:47,Villanova,Collin Gillespie,Foul,44,54
+6:47,Xavier,Paul Scruggs,Free Throw,44,55
+6:47,Xavier,Paul Scruggs,Free Throw,44,56
+6:38,Villanova,Collin Gillespie,Missed Three Point Jumper,44,56
+6:38,Xavier,Quentin Goodin,Defensive Rebound,44,56
+6:25,Xavier,Quentin Goodin,Layup,44,58
+6:14,Xavier,Elias Harden,Foul,44,58
+6:08,Villanova,Phil Booth,Missed Jumper,44,58
+6:08,Villanova,Saddiq Bey,Offensive Rebound,44,58
+5:59,Villanova,Phil Booth,Missed Jumper,44,58
+5:59,Xavier,Tyrique Jones,Block,44,58
+5:59,Xavier,Tyrique Jones,Defensive Rebound,44,58
+5:38,Villanova,Phil Booth,Foul,44,58
+5:38,Villanova,None,None,44,58
+5:17,Xavier,Naji Marshall,Missed Three Point Jumper,44,58
+5:17,Villanova,Collin Gillespie,Defensive Rebound,44,58
+5:04,Villanova,Jahvon Quinerly,Turnover,44,58
+5:04,Xavier,Naji Marshall,Steal,44,58
+4:58,Villanova,Jermaine Samuels,Foul,44,58
+4:41,Xavier,Quentin Goodin,Foul,44,58
+4:41,Xavier,Quentin Goodin,Turnover,44,58
+4:33,Xavier,Tyrique Jones,Foul,44,58
+4:30,Xavier,Naji Marshall,Foul,44,58
+4:27,Villanova,Phil Booth,Missed Three Point Jumper,44,58
+4:27,Xavier,Elias Harden,Defensive Rebound,44,58
+4:03,Xavier,Zach Hankins,Missed Dunk,44,58
+4:03,Villanova,Eric Paschall,Block,44,58
+4:03,Xavier,Zach Hankins,Offensive Rebound,44,58
+4:00,Villanova,Joe Cremo,Foul,44,58
+4:00,Xavier,None,None,44,58
+3:56,Xavier,Paul Scruggs,Missed Three Point Jumper,44,58
+3:56,Villanova,Phil Booth,Defensive Rebound,44,58
+3:37,Villanova,Joe Cremo,Layup,46,58
+3:11,Villanova,Jahvon Quinerly,Foul,46,58
+3:11,Xavier,Naji Marshall,Free Throw,46,59
+3:11,Xavier,Naji Marshall,Missed Free Throw,46,59
+3:11,Villanova,Joe Cremo,Defensive Rebound,46,59
+2:59,Villanova,Jahvon Quinerly,Missed Three Point Jumper,46,59
+2:59,Villanova,Jahvon Quinerly,Offensive Rebound,46,59
+2:54,Villanova,Jahvon Quinerly,Missed Jumper,46,59
+2:54,Xavier,Naji Marshall,Defensive Rebound,46,59
+2:29,Xavier,Naji Marshall,Missed Three Point Jumper,46,59
+2:29,Xavier,Tyrique Jones,Offensive Rebound,46,59
+2:24,Xavier,Tyrique Jones,Dunk,46,61
+2:20,Villanova,None,None,46,61
+2:12,Xavier,Elias Harden,Foul,46,61
+2:12,Villanova,Eric Paschall,Free Throw,47,61
+2:12,Villanova,Eric Paschall,Free Throw,48,61
+2:08,Xavier,None,None,48,61
+1:50,Villanova,Collin Gillespie,Foul,48,61
+1:50,Xavier,Quentin Goodin,Free Throw,48,62
+1:50,Xavier,Quentin Goodin,Missed Free Throw,48,62
+1:50,Villanova,Eric Paschall,Defensive Rebound,48,62
+1:44,Villanova,Eric Paschall,Turnover,48,62
+1:44,Xavier,Quentin Goodin,Steal,48,62
+1:38,Villanova,Jermaine Samuels,Foul,48,62
+1:38,Xavier,Quentin Goodin,Missed Free Throw,48,62
+1:38,Xavier,None,Team Rebound,48,62
+1:38,Xavier,Quentin Goodin,Missed Free Throw,48,62
+1:38,Villanova,Phil Booth,Defensive Rebound,48,62
+1:32,Villanova,Phil Booth,Layup,50,62
+1:24,Villanova,Collin Gillespie,Foul,50,62
+1:24,Xavier,Paul Scruggs,Missed Free Throw,50,62
+1:24,Xavier,None,Team Rebound,50,62
+1:24,Xavier,Paul Scruggs,Free Throw,50,63
+1:19,Villanova,Joe Cremo,Missed Three Point Jumper,50,63
+1:19,Villanova,Eric Paschall,Offensive Rebound,50,63
+1:19,Villanova,None,None,52,63
+1:07,Xavier,Quentin Goodin,Turnover,52,63
+1:07,Villanova,Saddiq Bey,Steal,52,63
+1:06,Xavier,Quentin Goodin,Foul,52,63
+1:06,Villanova,Eric Paschall,Free Throw,53,63
+1:06,Villanova,Eric Paschall,Free Throw,54,63
+1:02,Xavier,Tyrique Jones,Dunk,54,65
+0:50,Villanova,Joe Cremo,Missed Three Point Jumper,54,65
+0:50,Xavier,Paul Scruggs,Defensive Rebound,54,65
+0:41,Villanova,Phil Booth,Foul,54,65
+0:41,Xavier,Paul Scruggs,Missed Free Throw,54,65
+0:41,Xavier,None,Team Rebound,54,65
+0:41,Xavier,Paul Scruggs,Free Throw,54,66
+0:31,Villanova,Jahvon Quinerly,Missed Three Point Jumper,54,66
+0:31,Xavier,Tyrique Jones,Defensive Rebound,54,66
+0:00,Xavier,None,None,54,66

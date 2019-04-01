@@ -1,0 +1,264 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Gonzaga,None,None,0,0
+19:50,Saint Mary's,Malik Fitts,Foul,0,0
+19:38,Gonzaga,Corey Kispert,Three Point Jumper,0,3
+19:18,Saint Mary's,Matthias Tass,Turnover,0,3
+19:11,Gonzaga,Josh Perkins,Missed Jumper,0,3
+19:11,Saint Mary's,Jordan Ford,Defensive Rebound,0,3
+18:47,Saint Mary's,Tommy Kuhse,Missed Jumper,0,3
+18:47,Gonzaga,Brandon Clarke,Defensive Rebound,0,3
+18:32,Saint Mary's,Jordan Hunter,Foul,0,3
+18:32,Gonzaga,Brandon Clarke,Free Throw,0,4
+18:32,Gonzaga,Brandon Clarke,Free Throw,0,5
+18:06,Saint Mary's,Tanner Krebs,Jumper,2,5
+17:53,Gonzaga,Rui Hachimura,Jumper,2,7
+17:25,Gonzaga,Corey Kispert,Foul,2,7
+17:20,Saint Mary's,Tommy Kuhse,Missed Jumper,2,7
+17:20,Gonzaga,Rui Hachimura,Defensive Rebound,2,7
+17:06,Gonzaga,Brandon Clarke,Jumper,2,9
+16:44,Saint Mary's,Tanner Krebs,Three Point Jumper,5,9
+16:22,Gonzaga,Josh Perkins,Turnover,5,9
+16:22,Saint Mary's,Matthias Tass,Steal,5,9
+16:13,Saint Mary's,Jordan Ford,Layup,7,9
+16:03,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,7,9
+16:03,Saint Mary's,Jordan Hunter,Defensive Rebound,7,9
+15:54,Saint Mary's,Matthias Tass,Turnover,7,9
+15:54,Gonzaga,None,None,7,9
+15:37,Saint Mary's,Malik Fitts,Foul,7,9
+15:37,Gonzaga,Rui Hachimura,Missed Free Throw,7,9
+15:37,Gonzaga,None,Team Rebound,7,9
+15:37,Gonzaga,Rui Hachimura,Missed Free Throw,7,9
+15:37,Saint Mary's,Tanner Krebs,Defensive Rebound,7,9
+15:13,Saint Mary's,Tanner Krebs,Layup,9,9
+15:01,Gonzaga,Zach Norvell Jr.,Turnover,9,9
+15:01,Saint Mary's,Jordan Ford,Steal,9,9
+14:42,Saint Mary's,Jordan Hunter,Missed Layup,9,9
+14:42,Gonzaga,Brandon Clarke,Defensive Rebound,9,9
+14:29,Gonzaga,Rui Hachimura,Missed Jumper,9,9
+14:29,Saint Mary's,Jordan Hunter,Defensive Rebound,9,9
+14:21,Saint Mary's,Jordan Ford,Missed Three Point Jumper,9,9
+14:21,Saint Mary's,Jordan Hunter,Offensive Rebound,9,9
+13:56,Saint Mary's,Tanner Krebs,Jumper,11,9
+13:43,Gonzaga,Josh Perkins,Missed Three Point Jumper,11,9
+13:43,Saint Mary's,Jordan Hunter,Defensive Rebound,11,9
+13:23,Saint Mary's,Matthias Tass,Missed Layup,11,9
+13:23,Gonzaga,Killian Tillie,Defensive Rebound,11,9
+13:10,Gonzaga,Killian Tillie,Jumper,11,11
+12:45,Saint Mary's,Matthias Tass,Missed Layup,11,11
+12:45,Gonzaga,Geno Crandall,Defensive Rebound,11,11
+12:40,Gonzaga,Zach Norvell Jr.,Foul,11,11
+12:40,Gonzaga,Zach Norvell Jr.,Turnover,11,11
+12:18,Saint Mary's,Matthias Tass,Turnover,11,11
+11:56,Gonzaga,Brandon Clarke,Layup,11,13
+11:31,Saint Mary's,Dan Fotu,Missed Jumper,11,13
+11:31,Gonzaga,Brandon Clarke,Block,11,13
+11:31,Saint Mary's,Saint Mary's,Offensive Rebound,11,13
+11:31,Gonzaga,None,None,11,13
+11:25,Saint Mary's,Jordan Hunter,Jumper,13,13
+11:01,Gonzaga,Geno Crandall,Missed Three Point Jumper,13,13
+11:01,Saint Mary's,Dan Fotu,Defensive Rebound,13,13
+10:34,Saint Mary's,Jordan Ford,Layup,15,13
+10:10,Gonzaga,Josh Perkins,Missed Jumper,15,13
+10:10,Gonzaga,Jeremy Jones,Offensive Rebound,15,13
+10:01,Gonzaga,Brandon Clarke,Layup,15,15
+9:42,Saint Mary's,Dan Fotu,Turnover,15,15
+9:42,Gonzaga,Rui Hachimura,Steal,15,15
+9:38,Gonzaga,Rui Hachimura,Dunk,15,17
+9:04,Saint Mary's,Tommy Kuhse,Layup,17,17
+8:54,Saint Mary's,Dan Fotu,Foul,17,17
+8:54,Gonzaga,Rui Hachimura,Free Throw,17,18
+8:54,Gonzaga,Rui Hachimura,Free Throw,17,19
+8:34,Saint Mary's,Jordan Ford,Missed Layup,17,19
+8:34,Gonzaga,Brandon Clarke,Defensive Rebound,17,19
+8:25,Gonzaga,Rui Hachimura,Missed Jumper,17,19
+8:25,Saint Mary's,Jordan Hunter,Defensive Rebound,17,19
+8:04,Saint Mary's,Tanner Krebs,Jumper,19,19
+7:37,Gonzaga,Rui Hachimura,Turnover,19,19
+7:37,Gonzaga,None,None,19,19
+7:06,Saint Mary's,Jordan Ford,Missed Jumper,19,19
+7:06,Gonzaga,Corey Kispert,Defensive Rebound,19,19
+6:50,Gonzaga,Brandon Clarke,Turnover,19,19
+6:50,Saint Mary's,Matthias Tass,Steal,19,19
+6:33,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,19,19
+6:33,Saint Mary's,Jordan Hunter,Offensive Rebound,19,19
+6:15,Saint Mary's,Jordan Hunter,Layup,21,19
+6:03,Gonzaga,Zach Norvell Jr.,Missed Jumper,21,19
+6:03,Saint Mary's,Jordan Hunter,Defensive Rebound,21,19
+5:42,Gonzaga,Zach Norvell Jr.,Foul,21,19
+5:42,Saint Mary's,Tanner Krebs,Free Throw,22,19
+5:42,Saint Mary's,Tanner Krebs,Free Throw,23,19
+5:30,Gonzaga,Zach Norvell Jr.,Missed Layup,23,19
+5:30,Saint Mary's,Matthias Tass,Defensive Rebound,23,19
+5:10,Saint Mary's,Matthias Tass,Missed Layup,23,19
+5:10,Saint Mary's,Jordan Hunter,Offensive Rebound,23,19
+5:05,Saint Mary's,Jordan Hunter,Missed Layup,23,19
+5:05,Gonzaga,Rui Hachimura,Defensive Rebound,23,19
+4:53,Saint Mary's,Jordan Hunter,Foul,23,19
+4:53,Gonzaga,Rui Hachimura,Free Throw,23,20
+4:53,Gonzaga,Rui Hachimura,Missed Free Throw,23,20
+4:53,Saint Mary's,Saint Mary's,Defensive Rebound,23,20
+4:36,Saint Mary's,Matthias Tass,Dunk,25,20
+4:17,Gonzaga,Josh Perkins,Layup,25,22
+3:46,Saint Mary's,Tanner Krebs,Missed Jumper,25,22
+3:46,Gonzaga,Zach Norvell Jr.,Defensive Rebound,25,22
+3:39,Gonzaga,Josh Perkins,Missed Three Point Jumper,25,22
+3:39,Saint Mary's,Tommy Kuhse,Defensive Rebound,25,22
+3:10,Saint Mary's,Tommy Kuhse,Missed Three Point Jumper,25,22
+3:10,Saint Mary's,Jock Perry,Offensive Rebound,25,22
+2:52,Saint Mary's,Tanner Krebs,Turnover,25,22
+2:52,Gonzaga,Josh Perkins,Steal,25,22
+2:40,Gonzaga,Josh Perkins,Turnover,25,22
+2:40,Saint Mary's,Tanner Krebs,Steal,25,22
+2:30,Saint Mary's,Jock Perry,Turnover,25,22
+2:30,Gonzaga,Corey Kispert,Steal,25,22
+2:28,Gonzaga,Josh Perkins,Turnover,25,22
+2:28,Saint Mary's,Tanner Krebs,Steal,25,22
+2:25,Gonzaga,Killian Tillie,Foul,25,22
+2:25,Gonzaga,None,None,25,22
+2:09,Saint Mary's,Jordan Ford,Jumper,27,22
+1:44,Saint Mary's,Matthias Tass,Foul,27,22
+1:37,Gonzaga,Rui Hachimura,Missed Three Point Jumper,27,22
+1:37,Saint Mary's,Matthias Tass,Defensive Rebound,27,22
+1:06,Saint Mary's,Jock Perry,Missed Layup,27,22
+1:06,Gonzaga,Rui Hachimura,Defensive Rebound,27,22
+0:46,Gonzaga,Josh Perkins,Missed Jumper,27,22
+0:46,Gonzaga,Brandon Clarke,Offensive Rebound,27,22
+0:43,Gonzaga,Brandon Clarke,Layup,27,24
+0:15,Saint Mary's,Tommy Kuhse,Missed Layup,27,24
+0:15,Gonzaga,Brandon Clarke,Defensive Rebound,27,24
+0:01,Gonzaga,Jeremy Jones,Missed Three Point Jumper,27,24
+0:01,Saint Mary's,Saint Mary's,Defensive Rebound,27,24
+0:00,Gonzaga,None,None,27,24
+20:00,Saint Mary's,None,None,27,24
+19:31,Saint Mary's,Jordan Hunter,Jumper,29,24
+19:16,Gonzaga,Josh Perkins,Jumper,29,26
+18:58,Saint Mary's,Jordan Ford,Missed Three Point Jumper,29,26
+18:58,Gonzaga,Corey Kispert,Defensive Rebound,29,26
+18:53,Gonzaga,Josh Perkins,Turnover,29,26
+18:53,Saint Mary's,Jordan Hunter,Steal,29,26
+18:30,Saint Mary's,Malik Fitts,Layup,31,26
+18:20,Gonzaga,Rui Hachimura,Layup,31,28
+17:56,Saint Mary's,Tommy Kuhse,Missed Three Point Jumper,31,28
+17:56,Gonzaga,Brandon Clarke,Defensive Rebound,31,28
+17:45,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,31,28
+17:45,Saint Mary's,Malik Fitts,Defensive Rebound,31,28
+17:14,Saint Mary's,Saint Mary's ,Turnover,31,28
+17:00,Gonzaga,Brandon Clarke,Foul,31,28
+17:00,Gonzaga,Brandon Clarke,Turnover,31,28
+16:38,Saint Mary's,Malik Fitts,Three Point Jumper,34,28
+16:25,Gonzaga,Zach Norvell Jr.,Layup,34,30
+15:58,Saint Mary's,Jordan Ford,Turnover,34,30
+15:58,Gonzaga,Josh Perkins,Steal,34,30
+15:50,Gonzaga,Josh Perkins,Layup,34,32
+15:27,Gonzaga,Corey Kispert,Foul,34,32
+15:27,Gonzaga,None,None,34,32
+15:27,Saint Mary's,Jordan Hunter,Free Throw,35,32
+15:27,Saint Mary's,Jordan Hunter,Missed Free Throw,35,32
+15:27,Gonzaga,Rui Hachimura,Defensive Rebound,35,32
+15:10,Gonzaga,Brandon Clarke,Missed Jumper,35,32
+15:10,Saint Mary's,Malik Fitts,Defensive Rebound,35,32
+14:46,Saint Mary's,Tommy Kuhse,Layup,37,32
+14:21,Saint Mary's,Tommy Kuhse,Foul,37,32
+14:21,Gonzaga,Josh Perkins,Free Throw,37,33
+14:21,Gonzaga,Josh Perkins,Free Throw,37,34
+14:05,Saint Mary's,Malik Fitts,Three Point Jumper,40,34
+13:55,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,40,34
+13:55,Saint Mary's,Jordan Hunter,Defensive Rebound,40,34
+13:23,Saint Mary's,Tommy Kuhse,Missed Layup,40,34
+13:23,Gonzaga,Rui Hachimura,Defensive Rebound,40,34
+13:23,Saint Mary's,Jordan Hunter,Foul,40,34
+13:12,Gonzaga,Zach Norvell Jr.,Missed Jumper,40,34
+13:12,Saint Mary's,Jordan Hunter,Defensive Rebound,40,34
+12:41,Saint Mary's,Malik Fitts,Missed Jumper,40,34
+12:41,Gonzaga,Geno Crandall,Defensive Rebound,40,34
+12:30,Gonzaga,Brandon Clarke,Jumper,40,36
+12:00,Gonzaga,Geno Crandall,Foul,40,36
+12:00,Gonzaga,None,None,40,36
+11:43,Saint Mary's,Tanner Krebs,Turnover,40,36
+11:28,Gonzaga,Killian Tillie,Three Point Jumper,40,39
+11:07,Saint Mary's,Tommy Kuhse,Turnover,40,39
+10:56,Gonzaga,Zach Norvell Jr.,Missed Jumper,40,39
+10:56,Saint Mary's,Matthias Tass,Defensive Rebound,40,39
+10:35,Saint Mary's,Jordan Ford,Missed Jumper,40,39
+10:35,Gonzaga,Zach Norvell Jr.,Foul,40,39
+10:35,Saint Mary's,Saint Mary's,Offensive Rebound,40,39
+10:32,Saint Mary's,Jordan Ford,Layup,42,39
+10:12,Gonzaga,Geno Crandall,Missed Layup,42,39
+10:12,Saint Mary's,Jordan Hunter,Block,42,39
+10:12,Saint Mary's,Jordan Hunter,Defensive Rebound,42,39
+9:52,Gonzaga,Geno Crandall,Foul,42,39
+9:36,Gonzaga,Zach Norvell Jr.,Foul,42,39
+9:34,Saint Mary's,Jordan Ford,Missed Three Point Jumper,42,39
+9:34,Gonzaga,Josh Perkins,Defensive Rebound,42,39
+9:25,Gonzaga,Killian Tillie,Missed Three Point Jumper,42,39
+9:25,Gonzaga,Corey Kispert,Offensive Rebound,42,39
+9:25,Saint Mary's,Jordan Ford,Foul,42,39
+9:17,Gonzaga,Corey Kispert,Jumper,42,41
+8:58,Saint Mary's,Tommy Kuhse,Turnover,42,41
+8:58,Gonzaga,Geno Crandall,Steal,42,41
+8:48,Gonzaga,Josh Perkins,Missed Three Point Jumper,42,41
+8:48,Saint Mary's,Matthias Tass,Defensive Rebound,42,41
+8:19,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,42,41
+8:19,Saint Mary's,Jordan Hunter,Offensive Rebound,42,41
+8:19,Saint Mary's,Jordan Hunter,Layup,44,41
+8:19,Gonzaga,Killian Tillie,Foul,44,41
+8:19,Saint Mary's,Jordan Hunter,Free Throw,45,41
+8:08,Gonzaga,Rui Hachimura,Turnover,45,41
+7:39,Saint Mary's,Jordan Ford,Three Point Jumper,48,41
+7:32,Gonzaga,None,None,48,41
+7:32,Gonzaga,None,None,48,41
+7:21,Gonzaga,Josh Perkins,Jumper,48,43
+6:50,Gonzaga,None,None,48,43
+6:44,Saint Mary's,Tanner Krebs,Missed Three Point Jumper,48,43
+6:44,Gonzaga,Gonzaga,Defensive Rebound,48,43
+6:34,Gonzaga,Josh Perkins,Missed Jumper,48,43
+6:34,Saint Mary's,Jordan Hunter,Defensive Rebound,48,43
+6:04,Saint Mary's,Jordan Hunter,Jumper,50,43
+5:52,Saint Mary's,Jordan Hunter,Foul,50,43
+5:52,Gonzaga,Brandon Clarke,Free Throw,50,44
+5:52,Gonzaga,Brandon Clarke,Free Throw,50,45
+5:29,Gonzaga,Jeremy Jones,Foul,50,45
+5:29,Saint Mary's,Jordan Ford,Free Throw,51,45
+5:29,Saint Mary's,Jordan Ford,Free Throw,52,45
+5:18,Gonzaga,Zach Norvell Jr.,Turnover,52,45
+4:50,Saint Mary's,Matthias Tass,Missed Layup,52,45
+4:50,Gonzaga,Zach Norvell Jr.,Block,52,45
+4:50,Gonzaga,Zach Norvell Jr.,Defensive Rebound,52,45
+4:45,Saint Mary's,Malik Fitts,Foul,52,45
+4:40,Gonzaga,Josh Perkins,Turnover,52,45
+4:40,Saint Mary's,Tanner Krebs,Steal,52,45
+4:10,Saint Mary's,Jordan Ford,Missed Three Point Jumper,52,45
+4:10,Gonzaga,Brandon Clarke,Defensive Rebound,52,45
+3:55,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,52,45
+3:55,Gonzaga,Jeremy Jones,Offensive Rebound,52,45
+3:52,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,52,45
+3:52,Saint Mary's,Malik Fitts,Defensive Rebound,52,45
+3:32,Saint Mary's,Tommy Kuhse,Layup,54,45
+3:28,Gonzaga,None,None,54,45
+3:28,Gonzaga,None,None,54,45
+3:21,Gonzaga,Brandon Clarke,Layup,54,47
+2:47,Saint Mary's,Jordan Ford,Missed Layup,54,47
+2:47,Gonzaga,Jeremy Jones,Defensive Rebound,54,47
+2:39,Gonzaga,Josh Perkins,Missed Layup,54,47
+2:39,Saint Mary's,Jordan Hunter,Defensive Rebound,54,47
+2:09,Saint Mary's,Tommy Kuhse,Jumper,56,47
+1:53,Saint Mary's,Matthias Tass,Foul,56,47
+1:43,Gonzaga,Zach Norvell Jr.,Missed Three Point Jumper,56,47
+1:43,Saint Mary's,Tommy Kuhse,Defensive Rebound,56,47
+1:13,Saint Mary's,Jordan Ford,Missed Three Point Jumper,56,47
+1:13,Gonzaga,Josh Perkins,Defensive Rebound,56,47
+1:05,Gonzaga,Josh Perkins,Missed Layup,56,47
+1:05,Saint Mary's,Tommy Kuhse,Defensive Rebound,56,47
+0:50,Gonzaga,Jeremy Jones,Foul,56,47
+0:50,Saint Mary's,Jordan Ford,Free Throw,57,47
+0:50,Saint Mary's,Jordan Ford,Free Throw,58,47
+0:40,Gonzaga,Corey Kispert,Missed Three Point Jumper,58,47
+0:40,Gonzaga,Brandon Clarke,Offensive Rebound,58,47
+0:36,Gonzaga,Josh Perkins,Missed Layup,58,47
+0:36,Saint Mary's,Jordan Hunter,Defensive Rebound,58,47
+0:29,Gonzaga,Josh Perkins,Foul,58,47
+0:29,Saint Mary's,Jordan Ford,Free Throw,59,47
+0:29,Saint Mary's,Jordan Ford,Free Throw,60,47
+0:24,Gonzaga,Brandon Clarke,Missed Three Point Jumper,60,47
+0:24,Saint Mary's,Matthias Tass,Defensive Rebound,60,47
+0:00,Gonzaga,None,None,60,47

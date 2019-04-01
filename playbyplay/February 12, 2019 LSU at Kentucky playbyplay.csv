@@ -1,0 +1,328 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,LSU,None,None,0,0
+19:42,Kentucky,Ashton Hagans,Foul,0,0
+19:27,Kentucky,Reid Travis,Foul,0,0
+19:27,LSU,Kavell Bigby-Williams,Free Throw,1,0
+19:27,LSU,Kavell Bigby-Williams,Missed Free Throw,1,0
+19:27,Kentucky,PJ Washington,Defensive Rebound,1,0
+19:15,Kentucky,Tyler Herro,Missed Jumper,1,0
+19:15,LSU,Marlon Taylor,Defensive Rebound,1,0
+19:02,LSU,Tremont Waters,Turnover,1,0
+18:54,Kentucky,Keldon Johnson,Jumper,1,2
+18:36,LSU,Tremont Waters,Three Point Jumper,4,2
+18:16,Kentucky,PJ Washington,Layup,4,4
+18:16,LSU,Skylar Mays,Foul,4,4
+18:16,Kentucky,PJ Washington,Free Throw,4,5
+18:01,LSU,Marlon Taylor,Three Point Jumper,7,5
+17:43,Kentucky,Immanuel Quickley,Three Point Jumper,7,8
+17:21,LSU,Tremont Waters,Missed Jumper,7,8
+17:21,Kentucky,Keldon Johnson,Defensive Rebound,7,8
+17:10,Kentucky,PJ Washington,Missed Three Point Jumper,7,8
+17:10,LSU,Kavell Bigby-Williams,Defensive Rebound,7,8
+16:50,LSU,Skylar Mays,Missed Layup,7,8
+16:50,Kentucky,Immanuel Quickley,Defensive Rebound,7,8
+16:43,Kentucky,Tyler Herro,Missed Three Point Jumper,7,8
+16:43,LSU,LSU,Defensive Rebound,7,8
+16:21,LSU,Marlon Taylor,Layup,9,8
+16:06,Kentucky,Keldon Johnson,Jumper,9,10
+15:45,LSU,Tremont Waters,Missed Jumper,9,10
+15:45,Kentucky,Kentucky,Defensive Rebound,9,10
+15:43,Kentucky,None,None,9,10
+15:35,Kentucky,Immanuel Quickley,Missed Three Point Jumper,9,10
+15:35,Kentucky,PJ Washington,Offensive Rebound,9,10
+15:31,Kentucky,PJ Washington,Layup,9,12
+15:09,LSU,Naz Reid,Three Point Jumper,12,12
+14:43,Kentucky,Tyler Herro,Missed Jumper,12,12
+14:43,Kentucky,Reid Travis,Offensive Rebound,12,12
+14:38,LSU,Naz Reid,Foul,12,12
+14:38,Kentucky,Reid Travis,Free Throw,12,13
+14:38,Kentucky,Reid Travis,Free Throw,12,14
+14:19,LSU,Naz Reid,Missed Three Point Jumper,12,14
+14:19,Kentucky,Immanuel Quickley,Defensive Rebound,12,14
+13:52,LSU,Ja'vonte Smart,Foul,12,14
+13:52,Kentucky,Keldon Johnson,Free Throw,12,15
+13:52,Kentucky,Keldon Johnson,Free Throw,12,16
+13:39,LSU,Marlon Taylor,Dunk,14,16
+13:06,Kentucky,EJ Montgomery,Missed Layup,14,16
+13:06,LSU,Kavell Bigby-Williams,Block,14,16
+13:06,LSU,Darius Days,Defensive Rebound,14,16
+12:53,LSU,Tremont Waters,Missed Layup,14,16
+12:53,Kentucky,Ashton Hagans,Defensive Rebound,14,16
+12:45,Kentucky,Tyler Herro,Missed Jumper,14,16
+12:45,Kentucky,EJ Montgomery,Offensive Rebound,14,16
+12:40,Kentucky,EJ Montgomery,Layup,14,18
+12:26,Kentucky,Tyler Herro,Foul,14,18
+12:19,LSU,Ja'vonte Smart,Layup,16,18
+11:53,Kentucky,Jemarl Baker Jr.,Missed Three Point Jumper,16,18
+11:53,Kentucky,Kentucky,Offensive Rebound,16,18
+11:49,LSU,Emmitt Williams,Foul,16,18
+11:49,Kentucky,None,None,16,18
+11:45,Kentucky,Ashton Hagans,Layup,16,20
+11:26,LSU,Emmitt Williams,Turnover,16,20
+11:14,Kentucky,EJ Montgomery,Missed Jumper,16,20
+11:14,Kentucky,EJ Montgomery,Offensive Rebound,16,20
+11:08,LSU,Darius Days,Foul,16,20
+11:08,Kentucky,Nick Richards,Missed Free Throw,16,20
+11:08,Kentucky,None,Team Rebound,16,20
+11:08,Kentucky,Nick Richards,Free Throw,16,21
+10:59,Kentucky,Ashton Hagans,Foul,16,21
+10:59,LSU,Ja'vonte Smart,Free Throw,17,21
+10:59,LSU,Ja'vonte Smart,Free Throw,18,21
+10:58,LSU,Darius Days,Foul,18,21
+10:43,Kentucky,Immanuel Quickley,Turnover,18,21
+10:43,LSU,Marlon Taylor,Steal,18,21
+10:20,LSU,Marlon Taylor,Missed Three Point Jumper,18,21
+10:20,LSU,Naz Reid,Offensive Rebound,18,21
+10:16,LSU,Naz Reid,Missed Jumper,18,21
+10:16,Kentucky,Immanuel Quickley,Defensive Rebound,18,21
+10:10,Kentucky,PJ Washington,Turnover,18,21
+10:10,LSU,Naz Reid,Steal,18,21
+10:00,LSU,Ja'vonte Smart,Missed Three Point Jumper,18,21
+10:00,LSU,Naz Reid,Offensive Rebound,18,21
+9:53,LSU,Skylar Mays,Missed Three Point Jumper,18,21
+9:53,Kentucky,Keldon Johnson,Defensive Rebound,18,21
+9:47,Kentucky,Tyler Herro,Layup,18,23
+9:32,LSU,Naz Reid,Missed Layup,18,23
+9:32,LSU,Emmitt Williams,Offensive Rebound,18,23
+9:27,LSU,Emmitt Williams,Turnover,18,23
+9:24,LSU,Marlon Taylor,Foul,18,23
+9:24,Kentucky,Keldon Johnson,Missed Free Throw,18,23
+9:24,LSU,Naz Reid,Defensive Rebound,18,23
+9:09,LSU,Emmitt Williams,Layup,20,23
+9:00,LSU,Emmitt Williams,Foul,20,23
+9:00,Kentucky,Keldon Johnson,Free Throw,20,24
+9:00,Kentucky,Keldon Johnson,Missed Free Throw,20,24
+9:00,LSU,Kavell Bigby-Williams,Defensive Rebound,20,24
+8:44,LSU,Ja'vonte Smart,Missed Layup,20,24
+8:44,Kentucky,Immanuel Quickley,Defensive Rebound,20,24
+8:38,LSU,Naz Reid,Foul,20,24
+8:38,Kentucky,EJ Montgomery,Free Throw,20,25
+8:38,Kentucky,EJ Montgomery,Free Throw,20,26
+8:19,Kentucky,Immanuel Quickley,Foul,20,26
+8:19,LSU,Tremont Waters,Free Throw,21,26
+8:19,LSU,Tremont Waters,Free Throw,22,26
+8:03,Kentucky,Reid Travis,Three Point Jumper,22,29
+7:34,Kentucky,EJ Montgomery,Foul,22,29
+7:34,Kentucky,None,None,22,29
+7:34,LSU,Ja'vonte Smart,Free Throw,23,29
+7:34,LSU,Ja'vonte Smart,Free Throw,24,29
+7:27,Kentucky,EJ Montgomery,Missed Layup,24,29
+7:27,LSU,Kavell Bigby-Williams,Block,24,29
+7:27,Kentucky,Kentucky,Offensive Rebound,24,29
+7:12,Kentucky,Reid Travis,Missed Jumper,24,29
+7:12,LSU,Darius Days,Defensive Rebound,24,29
+6:49,LSU,Darius Days,Three Point Jumper,27,29
+6:19,Kentucky,Immanuel Quickley,Turnover,27,29
+6:19,LSU,Skylar Mays,Steal,27,29
+6:00,LSU,Ja'vonte Smart,Missed Jumper,27,29
+6:00,Kentucky,PJ Washington,Defensive Rebound,27,29
+5:38,Kentucky,Immanuel Quickley,Turnover,27,29
+5:26,LSU,Skylar Mays,Turnover,27,29
+5:26,Kentucky,Keldon Johnson,Steal,27,29
+5:26,Kentucky,None,None,27,29
+5:09,Kentucky,PJ Washington,Missed Jumper,27,29
+5:09,LSU,Kavell Bigby-Williams,Defensive Rebound,27,29
+4:46,LSU,Skylar Mays,Three Point Jumper,30,29
+4:22,Kentucky,Keldon Johnson,Jumper,30,31
+4:02,LSU,Tremont Waters,Missed Three Point Jumper,30,31
+4:02,Kentucky,PJ Washington,Defensive Rebound,30,31
+3:54,Kentucky,Tyler Herro,Jumper,30,33
+3:34,LSU,Skylar Mays,Missed Layup,30,33
+3:34,Kentucky,Tyler Herro,Block,30,33
+3:34,Kentucky,Reid Travis,Defensive Rebound,30,33
+3:25,Kentucky,Reid Travis,Missed Three Point Jumper,30,33
+3:25,Kentucky,PJ Washington,Offensive Rebound,30,33
+3:23,LSU,Darius Days,Foul,30,33
+3:23,Kentucky,None,None,30,33
+3:23,Kentucky,PJ Washington,Missed Free Throw,30,33
+3:23,Kentucky,None,Team Rebound,30,33
+3:23,Kentucky,PJ Washington,Free Throw,30,34
+3:04,Kentucky,Immanuel Quickley,Foul,30,34
+3:04,LSU,Tremont Waters,Free Throw,31,34
+3:04,LSU,Tremont Waters,Free Throw,32,34
+2:46,Kentucky,PJ Washington,Jumper,32,36
+2:25,LSU,Skylar Mays,Missed Three Point Jumper,32,36
+2:25,Kentucky,Keldon Johnson,Defensive Rebound,32,36
+1:57,Kentucky,PJ Washington,Missed Jumper,32,36
+1:57,LSU,Emmitt Williams,Defensive Rebound,32,36
+1:54,Kentucky,PJ Washington,Foul,32,36
+1:54,LSU,Emmitt Williams,Missed Free Throw,32,36
+1:54,Kentucky,PJ Washington,Defensive Rebound,32,36
+1:42,Kentucky,Reid Travis,Dunk,32,38
+1:36,LSU,None,None,32,38
+1:18,LSU,Tremont Waters,Missed Three Point Jumper,32,38
+1:18,Kentucky,Keldon Johnson,Defensive Rebound,32,38
+1:09,Kentucky,Immanuel Quickley,Missed Jumper,32,38
+1:09,LSU,Naz Reid,Defensive Rebound,32,38
+0:57,LSU,Naz Reid,Missed Jumper,32,38
+0:57,Kentucky,Reid Travis,Defensive Rebound,32,38
+0:52,Kentucky,None,None,32,38
+0:35,Kentucky,Tyler Herro,Jumper,32,40
+0:13,LSU,Skylar Mays,Missed Three Point Jumper,32,40
+0:13,Kentucky,Reid Travis,Defensive Rebound,32,40
+0:05,Kentucky,Keldon Johnson,Missed Three Point Jumper,32,40
+0:05,LSU,Naz Reid,Defensive Rebound,32,40
+0:00,Kentucky,None,None,32,40
+20:00,LSU,None,None,32,40
+19:51,LSU,Marlon Taylor,Turnover,32,40
+19:25,Kentucky,Reid Travis,Turnover,32,40
+19:25,LSU,Tremont Waters,Steal,32,40
+19:03,Kentucky,Tyler Herro,Foul,32,40
+19:03,LSU,Skylar Mays,Missed Free Throw,32,40
+19:03,LSU,None,Team Rebound,32,40
+19:03,LSU,Skylar Mays,Free Throw,33,40
+18:56,Kentucky,Reid Travis,Layup,33,42
+18:41,LSU,Marlon Taylor,Missed Three Point Jumper,33,42
+18:41,LSU,LSU,Offensive Rebound,33,42
+18:38,Kentucky,PJ Washington,Foul,33,42
+18:32,LSU,Naz Reid,Jumper,35,42
+18:19,Kentucky,PJ Washington,Layup,35,44
+17:55,Kentucky,Reid Travis,Foul,35,44
+17:55,LSU,Skylar Mays,Free Throw,36,44
+17:55,LSU,Skylar Mays,Free Throw,37,44
+17:37,Kentucky,Tyler Herro,Missed Three Point Jumper,37,44
+17:37,Kentucky,Reid Travis,Offensive Rebound,37,44
+17:22,Kentucky,Ashton Hagans,Jumper,37,46
+17:07,LSU,Tremont Waters,Jumper,39,46
+16:51,Kentucky,Keldon Johnson,Jumper,39,48
+16:39,LSU,Kavell Bigby-Williams,Layup,41,48
+16:18,Kentucky,PJ Washington,Turnover,41,48
+16:18,LSU,Tremont Waters,Steal,41,48
+16:03,LSU,Skylar Mays,Missed Three Point Jumper,41,48
+16:03,LSU,Naz Reid,Offensive Rebound,41,48
+15:59,LSU,Naz Reid,Layup,43,48
+15:42,Kentucky,Keldon Johnson,Missed Jumper,43,48
+15:42,LSU,Skylar Mays,Defensive Rebound,43,48
+15:27,LSU,Ja'vonte Smart,Missed Jumper,43,48
+15:27,Kentucky,PJ Washington,Defensive Rebound,43,48
+15:19,LSU,Naz Reid,Foul,43,48
+15:19,Kentucky,None,None,43,48
+15:19,Kentucky,Keldon Johnson,Missed Free Throw,43,48
+15:19,Kentucky,None,Team Rebound,43,48
+15:19,Kentucky,Keldon Johnson,Missed Free Throw,43,48
+15:19,LSU,Ja'vonte Smart,Defensive Rebound,43,48
+15:04,LSU,Skylar Mays,Missed Layup,43,48
+15:04,Kentucky,Kentucky,Defensive Rebound,43,48
+14:47,Kentucky,Immanuel Quickley,Missed Three Point Jumper,43,48
+14:47,LSU,Ja'vonte Smart,Defensive Rebound,43,48
+14:40,LSU,Skylar Mays,Missed Layup,43,48
+14:40,Kentucky,PJ Washington,Defensive Rebound,43,48
+14:16,Kentucky,PJ Washington,Turnover,43,48
+14:16,LSU,Skylar Mays,Steal,43,48
+14:11,LSU,Skylar Mays,Dunk,45,48
+13:50,LSU,Naz Reid,Foul,45,48
+13:50,Kentucky,PJ Washington,Free Throw,45,49
+13:50,Kentucky,PJ Washington,Missed Free Throw,45,49
+13:50,LSU,Darius Days,Defensive Rebound,45,49
+13:49,Kentucky,Immanuel Quickley,Foul,45,49
+13:18,LSU,LSU ,Turnover,45,49
+13:11,LSU,Darius Days,Foul,45,49
+12:59,Kentucky,Jemarl Baker Jr.,Missed Three Point Jumper,45,49
+12:58,LSU,Tremont Waters,Defensive Rebound,45,49
+12:57,Kentucky,PJ Washington,Foul,45,49
+12:32,LSU,Skylar Mays,Layup,47,49
+12:32,Kentucky,Reid Travis,Foul,47,49
+12:32,LSU,Skylar Mays,Free Throw,48,49
+12:16,Kentucky,Tyler Herro,Three Point Jumper,48,52
+12:03,LSU,Tremont Waters,Missed Layup,48,52
+12:03,LSU,Emmitt Williams,Offensive Rebound,48,52
+11:59,LSU,Emmitt Williams,Layup,50,52
+11:36,Kentucky,Ashton Hagans,Missed Layup,50,52
+11:36,LSU,Emmitt Williams,Block,50,52
+11:36,Kentucky,Reid Travis,Offensive Rebound,50,52
+11:31,Kentucky,None,None,50,52
+11:31,Kentucky,None,None,50,52
+11:08,Kentucky,Tyler Herro,Missed Jumper,50,52
+11:08,Kentucky,Kentucky,Offensive Rebound,50,52
+10:50,Kentucky,Reid Travis,Missed Layup,50,52
+10:50,Kentucky,EJ Montgomery,Offensive Rebound,50,52
+10:45,Kentucky,EJ Montgomery,Dunk,50,54
+10:38,LSU,Tremont Waters,Missed Three Point Jumper,50,54
+10:38,Kentucky,EJ Montgomery,Defensive Rebound,50,54
+10:13,Kentucky,Ashton Hagans,Missed Jumper,50,54
+10:13,LSU,Skylar Mays,Defensive Rebound,50,54
+10:03,LSU,Ja'vonte Smart,Missed Three Point Jumper,50,54
+10:03,LSU,Emmitt Williams,Offensive Rebound,50,54
+9:54,LSU,Emmitt Williams,Dunk,52,54
+9:25,Kentucky,Keldon Johnson,Missed Jumper,52,54
+9:25,LSU,Emmitt Williams,Defensive Rebound,52,54
+9:17,Kentucky,Ashton Hagans,Foul,52,54
+9:17,LSU,Tremont Waters,Free Throw,53,54
+9:17,LSU,Tremont Waters,Free Throw,54,54
+8:56,LSU,Skylar Mays,Foul,54,54
+8:56,Kentucky,PJ Washington,Free Throw,54,55
+8:56,Kentucky,PJ Washington,Free Throw,54,56
+8:42,LSU,Tremont Waters,Missed Layup,54,56
+8:42,LSU,Emmitt Williams,Offensive Rebound,54,56
+8:40,Kentucky,PJ Washington,Foul,54,56
+8:40,LSU,Emmitt Williams,Free Throw,55,56
+8:40,LSU,Emmitt Williams,Free Throw,56,56
+8:24,Kentucky,Immanuel Quickley,Missed Three Point Jumper,56,56
+8:24,LSU,Kavell Bigby-Williams,Defensive Rebound,56,56
+8:15,LSU,Emmitt Williams,Layup,58,56
+8:08,Kentucky,None,None,58,56
+7:45,Kentucky,Reid Travis,Missed Three Point Jumper,58,56
+7:45,LSU,LSU,Defensive Rebound,58,56
+7:43,Kentucky,None,None,58,56
+7:19,LSU,Tremont Waters,Missed Three Point Jumper,58,56
+7:19,Kentucky,Reid Travis,Defensive Rebound,58,56
+6:50,Kentucky,Keldon Johnson,Missed Jumper,58,56
+6:50,LSU,Emmitt Williams,Block,58,56
+6:50,Kentucky,EJ Montgomery,Offensive Rebound,58,56
+6:40,Kentucky,Ashton Hagans,Missed Three Point Jumper,58,56
+6:40,LSU,Ja'vonte Smart,Defensive Rebound,58,56
+6:35,LSU,Emmitt Williams,Layup,60,56
+6:12,Kentucky,Keldon Johnson,Three Point Jumper,60,59
+5:46,LSU,Ja'vonte Smart,Layup,62,59
+5:21,Kentucky,Tyler Herro,Turnover,62,59
+5:21,LSU,Tremont Waters,Steal,62,59
+5:14,LSU,Tremont Waters,Turnover,62,59
+5:14,Kentucky,Tyler Herro,Steal,62,59
+5:09,Kentucky,Tyler Herro,Missed Jumper,62,59
+5:09,Kentucky,Kentucky,Offensive Rebound,62,59
+4:50,Kentucky,PJ Washington,Missed Layup,62,59
+4:50,Kentucky,PJ Washington,Offensive Rebound,62,59
+4:44,Kentucky,Tyler Herro,Three Point Jumper,62,62
+4:24,LSU,Naz Reid,Turnover,62,62
+4:24,Kentucky,PJ Washington,Steal,62,62
+4:09,Kentucky,PJ Washington,Missed Jumper,62,62
+4:09,LSU,Naz Reid,Defensive Rebound,62,62
+3:50,LSU,Naz Reid,Three Point Jumper,65,62
+3:44,LSU,None,None,65,62
+3:44,Kentucky,None,None,65,62
+3:34,Kentucky,PJ Washington,Layup,65,64
+3:13,LSU,Tremont Waters,Layup,67,64
+2:47,Kentucky,PJ Washington,Missed Three Point Jumper,67,64
+2:47,LSU,LSU,Defensive Rebound,67,64
+2:19,LSU,Skylar Mays,Missed Three Point Jumper,67,64
+2:19,LSU,Ja'vonte Smart,Offensive Rebound,67,64
+2:14,LSU,Naz Reid,Layup,69,64
+1:58,Kentucky,PJ Washington,Layup,69,66
+1:58,LSU,Kavell Bigby-Williams,Foul,69,66
+1:58,Kentucky,PJ Washington,Free Throw,69,67
+1:35,LSU,Naz Reid,Missed Three Point Jumper,69,67
+1:35,Kentucky,Keldon Johnson,Defensive Rebound,69,67
+1:25,Kentucky,None,None,69,67
+1:13,Kentucky,PJ Washington,Jumper,69,69
+1:03,LSU,None,None,69,69
+0:48,LSU,Tremont Waters,Missed Jumper,69,69
+0:48,Kentucky,Tyler Herro,Defensive Rebound,69,69
+0:28,Kentucky,Keldon Johnson,Missed Jumper,69,69
+0:28,Kentucky,Reid Travis,Offensive Rebound,69,69
+0:23,Kentucky,Reid Travis,Turnover,69,69
+0:23,LSU,Naz Reid,Steal,69,69
+0:20,Kentucky,Tyler Herro,Foul,69,69
+0:20,LSU,Tremont Waters,Free Throw,70,69
+0:20,LSU,Tremont Waters,Free Throw,71,69
+0:13,Kentucky,Tyler Herro,Missed Three Point Jumper,71,69
+0:13,Kentucky,Reid Travis,Offensive Rebound,71,69
+0:08,LSU,Marlon Taylor,Foul,71,69
+0:08,Kentucky,None,None,71,69
+0:06,LSU,Marlon Taylor,Foul,71,69
+0:06,Kentucky,Keldon Johnson,Free Throw,71,70
+0:06,Kentucky,Keldon Johnson,Free Throw,71,71
+0:01,LSU,Skylar Mays,Missed Layup,71,71
+0:01,LSU,Kavell Bigby-Williams,Offensive Rebound,71,71
+0:00,LSU,None,None,73,71
+0:00,Kentucky,None,None,73,71
+0:00,Kentucky,None,None,73,71

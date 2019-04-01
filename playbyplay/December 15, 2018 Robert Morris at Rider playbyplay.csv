@@ -1,0 +1,338 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,Rider,Dimencio Vaughn,Turnover,0,0
+19:43,Robert Morris,Matty McConnell,Steal,0,0
+19:39,Rider,Stevie Jordan,Foul,0,0
+19:39,Robert Morris,Matty McConnell,Missed Free Throw,0,0
+19:39,Robert Morris,None,Team Rebound,0,0
+19:39,Robert Morris,Matty McConnell,Free Throw,1,0
+19:17,Rider,Ajiri Ogemuno-Johnson,Layup,1,2
+18:50,Robert Morris,Charles Bain,Missed Three Point Jumper,1,2
+18:42,Rider,Kimar Williams,Defensive Rebound,1,2
+18:42,Rider,Ajiri Ogemuno-Johnson,Turnover,1,2
+18:31,Robert Morris,Charles Bain,Turnover,1,2
+18:31,Rider,Stevie Jordan,Steal,1,2
+18:26,Robert Morris,Matty McConnell,Foul,1,2
+18:26,Rider,Anthony Durham,Missed Free Throw,1,2
+18:26,Rider,None,Team Rebound,1,2
+18:26,Rider,Anthony Durham,Missed Free Throw,1,2
+18:24,Robert Morris,Charles Bain,Defensive Rebound,1,2
+18:17,Robert Morris,Jon Williams,Turnover,1,2
+18:17,Rider,Stevie Jordan,Steal,1,2
+17:54,Rider,Stevie Jordan,Jumper,1,4
+17:32,Robert Morris,Matty McConnell,Missed Three Point Jumper,1,4
+17:29,Rider,Rider,Defensive Rebound,1,4
+17:04,Rider,Kimar Williams,Missed Jumper,1,4
+17:01,Rider,Stevie Jordan,Offensive Rebound,1,4
+16:59,Rider,Kimar Williams,Layup,1,6
+16:44,Robert Morris,Yannis Mendy,Turnover,1,6
+16:44,Rider,Dimencio Vaughn,Steal,1,6
+16:36,Robert Morris,Yannis Mendy,Foul,1,6
+16:31,Rider,Dimencio Vaughn,Missed Jumper,1,6
+16:27,Rider,Dimencio Vaughn,Offensive Rebound,1,6
+16:26,Rider,Dimencio Vaughn,Turnover,1,6
+16:24,Robert Morris,Dante Treacy,Foul,1,6
+16:24,Robert Morris,Dante Treacy,Turnover,1,6
+16:20,Rider,Stevie Jordan,Three Point Jumper,1,9
+16:17,Robert Morris,None,None,1,9
+16:17,Rider,None,None,1,9
+16:15,Robert Morris,Koby Thomas,Turnover,1,9
+16:15,Rider,Stevie Jordan,Steal,1,9
+16:09,Rider,Dimencio Vaughn,Turnover,1,9
+15:45,Robert Morris,Cameron Wilbon,Missed Jumper,1,9
+15:41,Rider,Stevie Jordan,Defensive Rebound,1,9
+15:37,Rider,Anthony Durham,Missed Layup,1,9
+15:32,Robert Morris,Dante Treacy,Defensive Rebound,1,9
+15:25,Robert Morris,Koby Thomas,Layup,3,9
+15:16,Rider,Tyere Marshall,Foul,3,9
+15:16,Rider,Tyere Marshall,Turnover,3,9
+15:12,Robert Morris,Dante Treacy,Turnover,3,9
+15:12,Rider,Tyere Marshall,Steal,3,9
+15:05,Rider,Anthony Durham,Turnover,3,9
+14:43,Robert Morris,Dante Treacy,Missed Layup,3,9
+14:39,Rider,Dimencio Vaughn,Defensive Rebound,3,9
+14:26,Rider,Ahmad Gilbert,Foul,3,11
+14:23,Robert Morris,Dante Treacy,Turnover,3,11
+14:23,Rider,Stevie Jordan,Steal,3,11
+14:23,Robert Morris,Dante Treacy,Foul,3,11
+14:23,Rider,Stevie Jordan,Missed Free Throw,3,11
+14:23,Rider,None,Team Rebound,3,11
+14:23,Rider,Stevie Jordan,Free Throw,3,12
+14:09,Robert Morris,Koby Thomas,Missed Jumper,3,12
+14:04,Rider,Stevie Jordan,Defensive Rebound,3,12
+14:01,Robert Morris,Jon Williams,Foul,3,12
+13:42,Robert Morris,Malik Petteway,Defensive Rebound,3,12
+13:34,Robert Morris,Koby Thomas,Turnover,3,12
+13:34,Rider,Frederick Scott,Steal,3,12
+13:25,Rider,Kimar Williams,Missed Jumper,3,12
+13:25,Robert Morris,Josh Williams,Block,3,12
+13:16,Robert Morris,Jon Williams,Defensive Rebound,3,12
+13:08,Robert Morris,Josh Williams,Three Point Jumper,6,12
+12:43,Rider,Ahmad Gilbert,Missed Three Point Jumper,6,12
+12:43,Robert Morris,Cameron Wilbon,Block,6,12
+12:33,Robert Morris,Jon Williams,Defensive Rebound,6,12
+12:28,Robert Morris,Jon Williams,Missed Three Point Jumper,6,12
+12:22,Rider,Tyere Marshall,Defensive Rebound,6,12
+11:58,Rider,Ahmad Gilbert,Layup,6,14
+11:38,Robert Morris,Jon Williams,Three Point Jumper,9,14
+11:16,Robert Morris,Malik Petteway,Foul,9,14
+11:16,Rider,None,None,9,14
+11:16,Rider,Jordan Allen,Free Throw,9,15
+11:16,Rider,Jordan Allen,Missed Free Throw,9,15
+11:14,Robert Morris,Charles Bain,Defensive Rebound,9,15
+11:00,Robert Morris,Josh Williams,Missed Three Point Jumper,9,15
+10:55,Rider,Kimar Williams,Defensive Rebound,9,15
+10:39,Rider,Dimencio Vaughn,Layup,9,17
+10:22,Robert Morris,Charles Bain,Missed Three Point Jumper,9,17
+10:17,Rider,Tyere Marshall,Defensive Rebound,9,17
+10:08,Rider,Dimencio Vaughn,Missed Jumper,9,17
+10:02,Robert Morris,Charles Bain,Defensive Rebound,9,17
+9:57,Robert Morris,Sayveon McEwen,Missed Three Point Jumper,9,17
+9:53,Rider,Tyere Marshall,Defensive Rebound,9,17
+9:43,Rider,Frederick Scott,Missed Three Point Jumper,9,17
+9:40,Robert Morris,Jon Williams,Defensive Rebound,9,17
+9:25,Robert Morris,Charles Bain,Missed Jumper,9,17
+9:25,Rider,Tyere Marshall,Defensive Rebound,9,17
+9:25,Robert Morris,Yannis Mendy,Foul,9,17
+9:25,Rider,Tyere Marshall,Missed Free Throw,9,17
+9:23,Robert Morris,Chris Coalmon,Defensive Rebound,9,17
+9:17,Robert Morris,Sayveon McEwen,Missed Three Point Jumper,9,17
+9:12,Rider,Frederick Scott,Defensive Rebound,9,17
+9:07,Rider,Dimencio Vaughn,Missed Three Point Jumper,9,17
+9:02,Robert Morris,Yannis Mendy,Defensive Rebound,9,17
+9:01,Robert Morris,Yannis Mendy,Turnover,9,17
+9:01,Rider,Stevie Jordan,Steal,9,17
+8:56,Robert Morris,Yannis Mendy,Foul,9,17
+8:56,Rider,Tyere Marshall,Missed Free Throw,9,17
+8:56,Rider,None,Team Rebound,9,17
+8:56,Rider,Tyere Marshall,Free Throw,9,18
+8:46,Rider,Ajiri Ogemuno-Johnson,Foul,9,18
+8:46,Robert Morris,Malik Petteway,Free Throw,10,18
+8:46,Robert Morris,Malik Petteway,Missed Free Throw,10,18
+8:45,Rider,Frederick Scott,Defensive Rebound,10,18
+8:35,Rider,Frederick Scott,Layup,10,20
+8:08,Robert Morris,Jon Williams,Missed Three Point Jumper,10,20
+8:02,Robert Morris,Robert Morris,Offensive Rebound,10,20
+7:53,Robert Morris,Josh Williams,Three Point Jumper,13,20
+7:37,Robert Morris,Malik Petteway,Block,13,20
+7:27,Robert Morris,Josh Williams,Defensive Rebound,13,20
+7:26,Robert Morris,Chris Coalmon,Turnover,13,20
+7:26,Rider,None,None,13,20
+7:07,Robert Morris,Chris Coalmon,Turnover,13,22
+6:46,Rider,Dimencio Vaughn,Foul,13,22
+6:46,Rider,Dimencio Vaughn,Turnover,13,22
+6:42,Robert Morris,Cameron Wilbon,Turnover,13,22
+6:42,Rider,Dimencio Vaughn,Steal,13,22
+6:36,Rider,Dimencio Vaughn,Foul,13,22
+6:36,Rider,Dimencio Vaughn,Turnover,13,22
+6:33,Robert Morris,Cameron Wilbon,Turnover,13,22
+6:33,Rider,Devine Eke,Steal,13,22
+6:27,Rider,Devine Eke,Layup,13,24
+6:22,Robert Morris,Josh Williams,Turnover,13,24
+6:22,Rider,Rider ,Turnover,13,24
+6:03,Robert Morris,Koby Thomas,Missed Three Point Jumper,13,24
+6:00,Rider,Devine Eke,Defensive Rebound,13,24
+5:50,Rider,Frederick Scott,Turnover,13,24
+5:50,Robert Morris,Jon Williams,Steal,13,24
+5:44,Robert Morris,Koby Thomas,Dunk,15,24
+5:22,Rider,Anthony Durham,Missed Three Point Jumper,15,24
+5:19,Robert Morris,Cameron Wilbon,Defensive Rebound,15,24
+5:19,Rider,Frederick Scott,Foul,15,24
+5:19,Rider,None,None,15,24
+5:19,Rider,None,None,15,24
+5:19,Robert Morris,Cameron Wilbon,Missed Free Throw,15,24
+5:17,Rider,Ajiri Ogemuno-Johnson,Defensive Rebound,15,24
+5:11,Rider,Stevie Jordan,Turnover,15,24
+5:05,Robert Morris,Jon Williams,Turnover,15,24
+4:54,Robert Morris,Josh Williams,Foul,15,24
+4:54,Rider,Stevie Jordan,Free Throw,15,25
+4:54,Rider,Stevie Jordan,Free Throw,15,26
+4:45,Robert Morris,Koby Thomas,Turnover,15,26
+4:45,Rider,Devine Eke,Steal,15,26
+4:40,Rider,Stevie Jordan,Layup,15,28
+4:21,Robert Morris,Koby Thomas,Jumper,17,28
+3:53,Robert Morris,Koby Thomas,Defensive Rebound,17,28
+3:53,Rider,Tyere Marshall,Foul,17,28
+3:53,Rider,None,None,17,28
+3:53,Robert Morris,Koby Thomas,Missed Free Throw,17,28
+3:21,Rider,Jordan Allen,Missed Three Point Jumper,17,28
+3:21,Robert Morris,Matty McConnell,Block,17,28
+3:16,Robert Morris,Jon Williams,Defensive Rebound,17,28
+2:57,Rider,Karamoko Cisse,Defensive Rebound,17,28
+2:51,Robert Morris,Chris Coalmon,Foul,17,28
+2:51,Rider,Karamoko Cisse,Free Throw,17,29
+2:51,Rider,Karamoko Cisse,Free Throw,17,30
+2:39,Robert Morris,Jon Williams,Missed Three Point Jumper,17,30
+2:34,Robert Morris,Charles Bain,Offensive Rebound,17,30
+2:33,Robert Morris,Charles Bain,Missed Layup,17,30
+2:31,Rider,Karamoko Cisse,Foul,17,30
+2:31,Robert Morris,Malik Petteway,Missed Free Throw,17,30
+2:31,Robert Morris,None,Team Rebound,17,30
+2:31,Robert Morris,Malik Petteway,Free Throw,18,30
+2:30,Robert Morris,Malik Petteway,Offensive Rebound,18,30
+2:11,Rider,Karamoko Cisse,Turnover,18,30
+2:11,Robert Morris,Malik Petteway,Steal,18,30
+1:57,Robert Morris,Charles Bain,Three Point Jumper,21,30
+1:38,Rider,Anthony Durham,Three Point Jumper,21,33
+1:10,Rider,Stevie Jordan,Foul,21,33
+1:10,Robert Morris,Josh Williams,Free Throw,22,33
+1:10,Robert Morris,Josh Williams,Free Throw,23,33
+0:46,Rider,Frederick Scott,Three Point Jumper,23,36
+0:19,Robert Morris,Charles Bain,Turnover,23,36
+0:06,Rider,Ahmad Gilbert,Missed Three Point Jumper,23,36
+0:02,Robert Morris,Matty McConnell,Defensive Rebound,23,36
+0:00,Rider,None,None,23,36
+19:40,Robert Morris,Matty McConnell,Foul,23,36
+19:40,Rider,Stevie Jordan,Free Throw,23,37
+19:40,Rider,Stevie Jordan,Free Throw,23,38
+19:31,Rider,Anthony Durham,Foul,23,38
+19:27,Robert Morris,Charles Bain,Turnover,23,38
+19:15,Rider,Stevie Jordan,Turnover,23,38
+19:06,Robert Morris,Charles Bain,Layup,25,38
+18:41,Rider,Ajiri Ogemuno-Johnson,Foul,25,38
+18:41,Rider,Ajiri Ogemuno-Johnson,Turnover,25,38
+18:18,Rider,Tyere Marshall,Block,25,38
+18:18,Robert Morris,Robert Morris,Offensive Rebound,25,38
+18:14,Robert Morris,Jon Williams,Turnover,25,38
+18:14,Rider,Anthony Durham,Steal,25,38
+18:09,Rider,Anthony Durham,Layup,25,40
+17:46,Rider,Kimar Williams,Foul,25,40
+17:30,Robert Morris,Josh Williams,Missed Three Point Jumper,25,40
+17:24,Rider,Stevie Jordan,Defensive Rebound,25,40
+17:20,Rider,Anthony Durham,Missed Three Point Jumper,25,40
+17:15,Robert Morris,Yannis Mendy,Defensive Rebound,25,40
+17:09,Robert Morris,Jon Williams,Three Point Jumper,28,40
+16:40,Rider,Tyere Marshall,Missed Layup,28,40
+16:36,Robert Morris,Yannis Mendy,Defensive Rebound,28,40
+16:26,Robert Morris,Matty McConnell,Layup,30,40
+16:26,Rider,Anthony Durham,Foul,30,40
+16:26,Robert Morris,Matty McConnell,Missed Free Throw,30,40
+16:23,Rider,Tyere Marshall,Defensive Rebound,30,40
+16:13,Robert Morris,Koby Thomas,Foul,30,40
+16:04,Rider,Stevie Jordan,Turnover,30,40
+16:04,Robert Morris,Jon Williams,Steal,30,40
+16:01,Robert Morris,Yannis Mendy,Turnover,30,40
+15:46,Robert Morris,Yannis Mendy,Foul,30,40
+15:46,Rider,None,None,30,40
+15:42,Rider,Jordan Allen,Three Point Jumper,30,43
+15:32,Robert Morris,Josh Williams,Turnover,30,43
+15:22,Rider,Jordan Allen,Missed Jumper,30,43
+15:19,Robert Morris,Matty McConnell,Defensive Rebound,30,43
+15:03,Robert Morris,Koby Thomas,Missed Layup,30,43
+14:56,Rider,Jordan Allen,Defensive Rebound,30,43
+14:52,Rider,Tyere Marshall,Turnover,30,43
+14:52,Rider,Tyere Marshall,Foul,30,43
+14:52,Robert Morris,Cameron Wilbon,Turnover,30,43
+14:52,Rider,Devine Eke,Steal,30,43
+14:37,Rider,Jordan Allen,Missed Layup,30,43
+14:35,Rider,Jordan Allen,Offensive Rebound,30,43
+14:33,Rider,Jordan Allen,Layup,30,45
+14:24,Robert Morris,Koby Thomas,Turnover,30,45
+14:10,Rider,Dimencio Vaughn,Jumper,30,47
+13:34,Robert Morris,Malik Petteway,Missed Jumper,30,47
+13:31,Rider,Dimencio Vaughn,Defensive Rebound,30,47
+13:26,Rider,Stevie Jordan,Foul,30,47
+13:26,Rider,Stevie Jordan,Turnover,30,47
+13:12,Robert Morris,Jon Williams,Missed Three Point Jumper,30,47
+13:06,Robert Morris,Josh Williams,Offensive Rebound,30,47
+13:05,Robert Morris,Josh Williams,Missed Three Point Jumper,30,47
+12:59,Robert Morris,Malik Petteway,Offensive Rebound,30,47
+12:59,Robert Morris,Malik Petteway,Layup,32,47
+12:41,Robert Morris,Chris Coalmon,Foul,32,47
+12:32,Rider,Anthony Durham,Layup,32,49
+12:32,Robert Morris,Jon Williams,Foul,32,49
+12:32,Rider,Anthony Durham,Free Throw,32,50
+12:26,Robert Morris,Matty McConnell,Turnover,32,50
+12:07,Rider,Kimar Williams,Turnover,32,50
+12:07,Robert Morris,Matty McConnell,Steal,32,50
+12:02,Robert Morris,Matty McConnell,Turnover,32,50
+11:55,Rider,Jordan Allen,Missed Three Point Jumper,32,50
+11:50,Robert Morris,Malik Petteway,Defensive Rebound,32,50
+11:35,Robert Morris,Malik Petteway,Missed Jumper,32,50
+11:32,Rider,Devine Eke,Defensive Rebound,32,50
+11:06,Robert Morris,Malik Petteway,Foul,32,50
+11:06,Rider,Devine Eke,Free Throw,32,51
+11:06,Rider,Devine Eke,Missed Free Throw,32,51
+11:05,Robert Morris,Malik Petteway,Defensive Rebound,32,51
+10:41,Robert Morris,Malik Petteway,Missed Jumper,32,51
+10:41,Rider,Devine Eke,Block,32,51
+10:37,Robert Morris,Chris Coalmon,Offensive Rebound,32,51
+10:37,Rider,Jordan Allen,Foul,32,51
+10:37,Robert Morris,Chris Coalmon,Free Throw,33,51
+10:37,Robert Morris,Chris Coalmon,Missed Free Throw,33,51
+10:35,Rider,Frederick Scott,Defensive Rebound,33,51
+10:17,Rider,Frederick Scott,Missed Three Point Jumper,33,51
+10:10,Robert Morris,Chris Coalmon,Defensive Rebound,33,51
+10:05,Robert Morris,Josh Williams,Missed Three Point Jumper,33,51
+10:00,Robert Morris,Josh Williams,Offensive Rebound,33,51
+9:55,Robert Morris,Malik Petteway,Turnover,33,51
+9:55,Rider,Anthony Durham,Steal,33,51
+9:50,Rider,Jordan Allen,Layup,33,53
+9:37,Robert Morris,Josh Williams,Missed Three Point Jumper,33,53
+9:32,Rider,Kimar Williams,Defensive Rebound,33,53
+9:13,Rider,Devine Eke,Layup,33,55
+8:52,Robert Morris,Josh Williams,Three Point Jumper,36,55
+8:33,Rider,Frederick Scott,Turnover,36,55
+8:33,Robert Morris,Dante Treacy,Steal,36,55
+8:27,Robert Morris,Josh Williams,Turnover,36,55
+8:27,Rider,Kimar Williams,Steal,36,55
+8:22,Rider,Ahmad Gilbert,Layup,36,57
+8:02,Robert Morris,Charles Bain,Missed Three Point Jumper,36,57
+7:57,Rider,Kimar Williams,Defensive Rebound,36,57
+7:49,Rider,Frederick Scott,Dunk,36,59
+7:31,Robert Morris,Josh Williams,Three Point Jumper,39,59
+7:09,Rider,Frederick Scott,Layup,39,61
+6:58,Robert Morris,Josh Williams,Three Point Jumper,42,61
+6:33,Rider,Kimar Williams,Missed Jumper,42,61
+6:32,Robert Morris,Robert Morris,Defensive Rebound,42,61
+6:30,Rider,None,None,42,61
+6:21,Robert Morris,Josh Williams,Missed Three Point Jumper,42,61
+6:17,Rider,Stevie Jordan,Defensive Rebound,42,61
+6:13,Rider,Jordan Allen,Missed Three Point Jumper,42,61
+6:08,Rider,Jordan Allen,Offensive Rebound,42,61
+6:06,Rider,Jordan Allen,Missed Layup,42,61
+5:59,Rider,Jordan Allen,Offensive Rebound,42,61
+5:57,Rider,Jordan Allen,Missed Layup,42,61
+5:54,Robert Morris,Charles Bain,Defensive Rebound,42,61
+5:40,Robert Morris,Dante Treacy,Turnover,42,61
+5:40,Rider,Dimencio Vaughn,Steal,42,61
+5:35,Rider,Stevie Jordan,Layup,42,63
+5:18,Robert Morris,Charles Bain,Foul,42,63
+5:18,Robert Morris,Charles Bain,Turnover,42,63
+4:55,Rider,Jordan Allen,Three Point Jumper,42,66
+4:36,Robert Morris,Josh Williams,Missed Three Point Jumper,42,66
+4:33,Rider,Ahmad Gilbert,Defensive Rebound,42,66
+4:30,Rider,Jordan Allen,Turnover,42,66
+4:30,Robert Morris,Koby Thomas,Steal,42,66
+4:23,Robert Morris,Josh Williams,Missed Three Point Jumper,42,66
+4:20,Robert Morris,Dante Treacy,Offensive Rebound,42,66
+4:17,Rider,None,None,42,66
+4:17,Rider,None,None,42,66
+4:14,Robert Morris,Charles Bain,Jumper,44,66
+3:54,Rider,Tyere Marshall,Missed Jumper,44,66
+3:53,Rider,Rider,Offensive Rebound,44,66
+3:29,Rider,Jordan Allen,Missed Three Point Jumper,44,66
+3:25,Rider,Anthony Durham,Offensive Rebound,44,66
+3:09,Rider,Stevie Jordan,Missed Layup,44,66
+3:05,Robert Morris,Josh Williams,Defensive Rebound,44,66
+3:01,Robert Morris,Jon Williams,Missed Three Point Jumper,44,66
+2:58,Robert Morris,Charles Bain,Layup,46,66
+2:58,Robert Morris,Charles Bain,Offensive Rebound,46,66
+2:58,Rider,Anthony Durham,Foul,46,66
+2:58,Robert Morris,Charles Bain,Missed Free Throw,46,66
+2:56,Rider,Anthony Durham,Defensive Rebound,46,66
+2:32,Rider,Kimar Williams,Missed Jumper,46,66
+2:29,Robert Morris,Dante Treacy,Defensive Rebound,46,66
+2:21,Rider,Karamoko Cisse,Foul,46,66
+2:21,Robert Morris,Malik Petteway,Free Throw,47,66
+2:21,Robert Morris,Malik Petteway,Missed Free Throw,47,66
+2:19,Rider,Devine Eke,Defensive Rebound,47,66
+1:51,Rider,Stevie Jordan,Three Point Jumper,47,69
+1:40,Robert Morris,Josh Williams,Three Point Jumper,50,69
+1:11,Rider,Karamoko Cisse,Turnover,50,69
+1:11,Robert Morris,Malik Petteway,Steal,50,69
+1:02,Robert Morris,Charles Bain,Missed Three Point Jumper,50,69
+0:56,Rider,Kimar Williams,Defensive Rebound,50,69
+0:28,Rider,Rider ,Turnover,50,69
+0:18,Robert Morris,Jon Williams,Missed Three Point Jumper,50,69
+0:15,Rider,Anthony Durham,Defensive Rebound,50,69
+0:00,Rider,None,None,50,69

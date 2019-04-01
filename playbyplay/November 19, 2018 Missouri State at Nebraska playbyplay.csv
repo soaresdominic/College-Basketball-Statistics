@@ -1,0 +1,310 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Nebraska,None,None,0,0
+19:46,Nebraska,James Palmer Jr.,Missed Three Point Jumper,0,0
+19:46,Missouri State,Jarred Dixon,Defensive Rebound,0,0
+19:21,Missouri State,Szymon Wojcik,Missed Three Point Jumper,0,0
+19:21,Nebraska,Isaac Copeland Jr.,Defensive Rebound,0,0
+19:13,Nebraska,Glynn Watson Jr.,Three Point Jumper,0,3
+18:52,Missouri State,Keandre Cook,Missed Three Point Jumper,0,3
+18:52,Nebraska,Isaiah Roby,Defensive Rebound,0,3
+18:39,Nebraska,Glynn Watson Jr.,Turnover,0,3
+18:23,Missouri State,Josh Webster,Turnover,0,3
+18:23,Nebraska,Thomas Allen,Steal,0,3
+18:13,Nebraska,James Palmer Jr.,Foul,0,3
+18:13,Nebraska,James Palmer Jr.,Turnover,0,3
+18:04,Missouri State,Keandre Cook,Missed Three Point Jumper,0,3
+18:04,Nebraska,Isaiah Roby,Defensive Rebound,0,3
+17:55,Nebraska,Isaiah Roby,Missed Layup,0,3
+17:55,Missouri State,Obediah Church,Block,0,3
+17:55,Nebraska,Nebraska,Offensive Rebound,0,3
+17:48,Nebraska,Isaac Copeland Jr.,Missed Three Point Jumper,0,3
+17:48,Missouri State,Obediah Church,Defensive Rebound,0,3
+17:33,Missouri State,Szymon Wojcik,Turnover,0,3
+17:24,Nebraska,James Palmer Jr.,Three Point Jumper,0,6
+16:59,Missouri State,Jarred Dixon,Layup,2,6
+16:38,Missouri State,Szymon Wojcik,Foul,2,6
+16:32,Nebraska,James Palmer Jr.,Missed Jumper,2,6
+16:32,Missouri State,Obediah Church,Defensive Rebound,2,6
+16:26,Missouri State,Obediah Church,Turnover,2,6
+16:26,Nebraska,Thomas Allen,Steal,2,6
+16:19,Nebraska,Isaac Copeland Jr.,Missed Jumper,2,6
+16:19,Nebraska,James Palmer Jr.,Offensive Rebound,2,6
+16:01,Nebraska,James Palmer Jr.,Turnover,2,6
+16:01,Missouri State,Josh Webster,Steal,2,6
+15:48,Missouri State,Kabir Mohammed,Three Point Jumper,5,6
+15:34,Nebraska,Isaac Copeland Jr.,Turnover,5,6
+15:34,Nebraska,None,None,5,6
+15:23,Missouri State,Keandre Cook,Layup,7,6
+15:01,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,7,6
+15:01,Nebraska,Tanner Borchardt,Offensive Rebound,7,6
+14:52,Nebraska,Tanner Borchardt,Layup,7,8
+14:36,Missouri State,Keandre Cook,Missed Three Point Jumper,7,8
+14:36,Nebraska,Tanner Borchardt,Defensive Rebound,7,8
+14:30,Nebraska,Thomas Allen,Missed Three Point Jumper,7,8
+14:30,Missouri State,Keandre Cook,Defensive Rebound,7,8
+14:14,Missouri State,Josh Webster,Layup,9,8
+14:14,Nebraska,Tanner Borchardt,Foul,9,8
+14:14,Missouri State,Josh Webster,Free Throw,10,8
+14:04,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,10,8
+14:04,Nebraska,Tanner Borchardt,Offensive Rebound,10,8
+13:59,Missouri State,Keandre Cook,Foul,10,8
+13:50,Nebraska,Nana Akenten,Three Point Jumper,10,11
+13:25,Missouri State,Szymon Wojcik,Turnover,10,11
+13:02,Nebraska,Isaiah Roby,Missed Three Point Jumper,10,11
+13:02,Missouri State,Szymon Wojcik,Defensive Rebound,10,11
+12:53,Missouri State,Szymon Wojcik,Foul,10,11
+12:53,Missouri State,Szymon Wojcik,Turnover,10,11
+12:35,Nebraska,Nana Akenten,Layup,10,13
+12:16,Missouri State,Ryan Kreklow,Missed Three Point Jumper,10,13
+12:16,Nebraska,Glynn Watson Jr.,Defensive Rebound,10,13
+12:06,Nebraska,Isaiah Roby,Missed Three Point Jumper,10,13
+12:06,Missouri State,Keandre Cook,Defensive Rebound,10,13
+11:50,Missouri State,Kabir Mohammed,Missed Jumper,10,13
+11:50,Nebraska,Isaiah Roby,Block,10,13
+11:50,Missouri State,Ryan Kreklow,Offensive Rebound,10,13
+11:23,Missouri State,Obediah Church,Missed Layup,10,13
+11:23,Nebraska,Tanner Borchardt,Block,10,13
+11:23,Nebraska,Tanner Borchardt,Defensive Rebound,10,13
+11:05,Nebraska,Glynn Watson Jr.,Jumper,10,15
+11:00,Missouri State,Kabir Mohammed,Jumper,12,15
+10:41,Nebraska,Glynn Watson Jr.,Jumper,12,17
+10:25,Nebraska,None,None,12,17
+10:15,Missouri State,Josh Webster,Turnover,12,17
+10:08,Nebraska,Isaiah Roby,Layup,12,19
+9:53,Missouri State,Keandre Cook,Missed Jumper,12,19
+9:52,Missouri State,Keandre Cook,Offensive Rebound,12,19
+9:48,Missouri State,Keandre Cook,Missed Layup,12,19
+9:46,Nebraska,Isaac Copeland Jr.,Defensive Rebound,12,19
+9:33,Nebraska,Thomas Allen,Missed Three Point Jumper,12,19
+9:32,Nebraska,Isaac Copeland Jr.,Offensive Rebound,12,19
+9:21,Nebraska,Glynn Watson Jr.,Missed Jumper,12,19
+9:21,Missouri State,Jarred Dixon,Defensive Rebound,12,19
+9:11,Missouri State,Jarred Dixon,Layup,14,19
+8:52,Nebraska,James Palmer Jr.,Missed Three Point Jumper,14,19
+8:51,Missouri State,Josh Webster,Defensive Rebound,14,19
+8:46,Missouri State,Jarred Dixon,Missed Three Point Jumper,14,19
+8:45,Nebraska,Glynn Watson Jr.,Defensive Rebound,14,19
+8:39,Nebraska,Glynn Watson Jr.,Turnover,14,19
+8:38,Missouri State,Josh Webster,Steal,14,19
+8:34,Missouri State,Jarred Dixon,Missed Layup,14,19
+8:33,Nebraska,Isaiah Roby,Block,14,19
+8:32,Missouri State,Missouri State,Offensive Rebound,14,19
+8:18,Missouri State,Kabir Mohammed,Missed Layup,14,19
+8:17,Nebraska,Amir Harris,Defensive Rebound,14,19
+8:06,Nebraska,James Palmer Jr.,Foul,14,19
+8:05,Nebraska,James Palmer Jr.,Turnover,14,19
+7:47,Missouri State,Keandre Cook,Missed Jumper,14,19
+7:46,Nebraska,Brady Heiman,Defensive Rebound,14,19
+7:39,Nebraska,Isaac Copeland Jr.,Missed Jumper,14,19
+7:38,Missouri State,Jarred Dixon,Defensive Rebound,14,19
+7:29,Missouri State,Szymon Wojcik,Turnover,14,19
+7:28,Nebraska,Amir Harris,Steal,14,19
+7:11,Nebraska,Isaac Copeland Jr.,Three Point Jumper,14,22
+6:47,Missouri State,Szymon Wojcik,Missed Three Point Jumper,14,22
+6:47,Nebraska,Amir Harris,Defensive Rebound,14,22
+6:28,Nebraska,Isaac Copeland Jr.,Layup,14,24
+6:25,Missouri State,None,None,14,24
+6:25,Nebraska,None,None,14,24
+6:07,Missouri State,Keandre Cook,Turnover,14,24
+5:53,Nebraska,Isaac Copeland Jr.,Jumper,14,26
+5:35,Missouri State,Obediah Church,Turnover,14,26
+5:15,Nebraska,Isaac Copeland Jr.,Turnover,14,26
+5:15,Missouri State,Obediah Church,Steal,14,26
+5:08,Missouri State,Ryan Kreklow,Missed Three Point Jumper,14,26
+5:08,Missouri State,Kabir Mohammed,Offensive Rebound,14,26
+5:02,Missouri State,Kabir Mohammed,Missed Layup,14,26
+5:02,Nebraska,Brady Heiman,Block,14,26
+5:02,Missouri State,Kabir Mohammed,Offensive Rebound,14,26
+5:01,Nebraska,Brady Heiman,Foul,14,26
+5:01,Missouri State,Kabir Mohammed,Free Throw,15,26
+5:01,Missouri State,Kabir Mohammed,Missed Free Throw,15,26
+5:01,Nebraska,Isaac Copeland Jr.,Defensive Rebound,15,26
+4:50,Nebraska,Nana Akenten,Missed Three Point Jumper,15,26
+4:50,Missouri State,Obediah Church,Defensive Rebound,15,26
+4:23,Missouri State,Keandre Cook,Jumper,17,26
+4:23,Nebraska,Nana Akenten,Foul,17,26
+4:23,Missouri State,Keandre Cook,Free Throw,18,26
+4:04,Nebraska,Isaac Copeland Jr.,Jumper,18,28
+3:46,Missouri State,Keandre Cook,Three Point Jumper,21,28
+3:23,Missouri State,Jarred Dixon,Foul,21,28
+3:23,Nebraska,None,None,21,28
+3:23,Nebraska,Isaac Copeland Jr.,Free Throw,21,29
+3:23,Nebraska,Isaac Copeland Jr.,Missed Free Throw,21,29
+3:23,Missouri State,Obediah Church,Defensive Rebound,21,29
+3:07,Missouri State,Keandre Cook,Missed Jumper,21,29
+3:07,Nebraska,Isaac Copeland Jr.,Block,21,29
+3:07,Missouri State,Missouri State,Offensive Rebound,21,29
+2:58,Missouri State,Josh Webster,Jumper,23,29
+2:38,Nebraska,Isaac Copeland Jr.,Missed Jumper,23,29
+2:38,Missouri State,Josh Webster,Defensive Rebound,23,29
+2:33,Missouri State,Keandre Cook,Three Point Jumper,26,29
+2:33,Nebraska,None,None,26,29
+2:04,Missouri State,Kabir Mohammed,Foul,26,29
+1:58,Nebraska,Glynn Watson Jr.,Three Point Jumper,26,32
+1:13,Missouri State,Keandre Cook,Missed Jumper,26,32
+1:13,Missouri State,Obediah Church,Offensive Rebound,26,32
+1:07,Missouri State,Obediah Church,Turnover,26,32
+1:07,Nebraska,Thomas Allen,Steal,26,32
+1:06,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,26,32
+1:06,Nebraska,Isaiah Roby,Offensive Rebound,26,32
+1:06,Missouri State,Josh Webster,Foul,26,32
+1:06,Nebraska,Isaiah Roby,Free Throw,26,33
+1:06,Nebraska,Isaiah Roby,Missed Free Throw,26,33
+1:06,Missouri State,Obediah Church,Defensive Rebound,26,33
+1:00,Missouri State,Josh Webster,Turnover,26,33
+1:00,Nebraska,Thomas Allen,Steal,26,33
+0:55,Nebraska,Thomas Allen,Three Point Jumper,26,36
+0:34,Missouri State,None,None,26,36
+0:29,Nebraska,Isaac Copeland Jr.,Foul,26,36
+0:19,Missouri State,Jarred Dixon,Three Point Jumper,29,36
+0:01,Nebraska,Thomas Allen,Missed Jumper,29,36
+0:01,Missouri State,Keandre Cook,Defensive Rebound,29,36
+0:00,Nebraska,None,None,29,36
+20:00,Nebraska,None,None,29,36
+19:43,Nebraska,Isaiah Roby,Missed Jumper,29,36
+19:43,Missouri State,Szymon Wojcik,Defensive Rebound,29,36
+19:29,Missouri State,Obediah Church,Missed Jumper,29,36
+19:29,Nebraska,Isaiah Roby,Defensive Rebound,29,36
+19:21,Missouri State,Jarred Dixon,Foul,29,36
+19:21,Nebraska,Isaac Copeland Jr.,Free Throw,29,37
+19:21,Nebraska,Isaac Copeland Jr.,Free Throw,29,38
+19:06,Missouri State,Jarred Dixon,Three Point Jumper,32,38
+18:39,Nebraska,James Palmer Jr.,Missed Three Point Jumper,32,38
+18:39,Nebraska,Isaiah Roby,Offensive Rebound,32,38
+18:39,Nebraska,Isaiah Roby,Layup,32,40
+18:23,Missouri State,Keandre Cook,Turnover,32,40
+18:10,Nebraska,James Palmer Jr.,Turnover,32,40
+18:10,Missouri State,Keandre Cook,Steal,32,40
+18:04,Missouri State,Szymon Wojcik,Three Point Jumper,35,40
+17:45,Nebraska,Thomas Allen,Missed Jumper,35,40
+17:45,Missouri State,Szymon Wojcik,Defensive Rebound,35,40
+17:37,Nebraska,Isaiah Roby,Foul,35,40
+17:26,Missouri State,Keandre Cook,Turnover,35,40
+17:03,Nebraska,Glynn Watson Jr.,Three Point Jumper,35,43
+16:30,Missouri State,Obediah Church,Dunk,37,43
+16:30,Missouri State,Obediah Church,Foul,37,43
+16:30,Nebraska,Isaac Copeland Jr.,Missed Free Throw,37,43
+16:30,Nebraska,None,Team Rebound,37,43
+16:17,Nebraska,James Palmer Jr.,Missed Three Point Jumper,37,43
+16:17,Missouri State,Szymon Wojcik,Defensive Rebound,37,43
+15:56,Missouri State,Keandre Cook,Missed Three Point Jumper,37,43
+15:56,Nebraska,Thomas Allen,Defensive Rebound,37,43
+15:45,Nebraska,James Palmer Jr.,Missed Three Point Jumper,37,43
+15:45,Nebraska,Isaac Copeland Jr.,Offensive Rebound,37,43
+15:41,Nebraska,Isaac Copeland Jr.,Jumper,37,45
+15:41,Missouri State,Keandre Cook,Foul,37,45
+15:41,Nebraska,None,None,37,45
+15:41,Nebraska,Isaac Copeland Jr.,Missed Free Throw,37,45
+15:41,Missouri State,Ryan Kreklow,Defensive Rebound,37,45
+15:17,Missouri State,Ryan Kreklow,Missed Three Point Jumper,37,45
+15:17,Nebraska,Isaac Copeland Jr.,Defensive Rebound,37,45
+14:57,Nebraska,James Palmer Jr.,Three Point Jumper,37,48
+14:40,Missouri State,Ryan Kreklow,Turnover,37,48
+14:40,Nebraska,Thomas Allen,Steal,37,48
+14:38,Nebraska,Thomas Allen,Layup,37,50
+14:35,Missouri State,None,None,37,50
+14:28,Missouri State,Jarred Dixon,Missed Jumper,37,50
+14:28,Missouri State,Obediah Church,Offensive Rebound,37,50
+14:28,Missouri State,None,None,39,50
+14:10,Nebraska,Isaac Copeland Jr.,Jumper,39,52
+13:39,Missouri State,Kabir Mohammed,Jumper,41,52
+13:24,Nebraska,James Palmer Jr.,Missed Three Point Jumper,41,52
+13:24,Missouri State,Obediah Church,Defensive Rebound,41,52
+13:16,Missouri State,Josh Webster,Layup,43,52
+12:53,Nebraska,Isaiah Roby,Layup,43,54
+12:38,Missouri State,Keandre Cook,Missed Layup,43,54
+12:38,Nebraska,Thomas Allen,Defensive Rebound,43,54
+12:33,Missouri State,Jarred Dixon,Foul,43,54
+12:19,Nebraska,Isaac Copeland Jr.,Missed Jumper,43,54
+12:19,Missouri State,Keandre Cook,Defensive Rebound,43,54
+12:08,Missouri State,Keandre Cook,Turnover,43,54
+12:08,Nebraska,Isaac Copeland Jr.,Steal,43,54
+12:04,Nebraska,James Palmer Jr.,Dunk,43,56
+11:50,Missouri State,Keandre Cook,Layup,45,56
+11:50,Nebraska,Isaac Copeland Jr.,Foul,45,56
+11:50,Nebraska,None,None,45,56
+11:50,Missouri State,Keandre Cook,Free Throw,46,56
+11:28,Nebraska,Isaac Copeland Jr.,Jumper,46,58
+11:00,Missouri State,Jarred Dixon,Jumper,48,58
+10:39,Nebraska,James Palmer Jr.,Missed Three Point Jumper,48,58
+10:39,Missouri State,Obediah Church,Defensive Rebound,48,58
+10:24,Nebraska,Isaiah Roby,Foul,48,58
+10:24,Missouri State,Keandre Cook,Free Throw,49,58
+10:24,Missouri State,Keandre Cook,Missed Free Throw,49,58
+10:24,Nebraska,James Palmer Jr.,Defensive Rebound,49,58
+10:06,Nebraska,Glynn Watson Jr.,Missed Three Point Jumper,49,58
+10:06,Missouri State,Keandre Cook,Defensive Rebound,49,58
+9:57,Missouri State,Jarred Dixon,Missed Three Point Jumper,49,58
+9:57,Nebraska,James Palmer Jr.,Defensive Rebound,49,58
+9:43,Nebraska,Thomas Allen,Three Point Jumper,49,61
+9:21,Missouri State,Jan Wojcik,Turnover,49,61
+9:09,Missouri State,Jan Wojcik,Foul,49,61
+8:58,Nebraska,Isaac Copeland Jr.,Three Point Jumper,49,64
+8:41,Missouri State,Keandre Cook,Jumper,51,64
+8:41,Missouri State,None,None,51,64
+8:16,Nebraska,Nana Akenten,Missed Three Point Jumper,51,64
+8:16,Missouri State,Keandre Cook,Defensive Rebound,51,64
+8:04,Missouri State,Szymon Wojcik,Missed Three Point Jumper,51,64
+8:04,Missouri State,Kabir Mohammed,Offensive Rebound,51,64
+8:04,Missouri State,Kabir Mohammed,Turnover,51,64
+8:04,Nebraska,Glynn Watson Jr.,Steal,51,64
+7:47,Nebraska,James Palmer Jr.,Turnover,51,64
+7:47,Nebraska,None,None,51,64
+7:31,Missouri State,Keandre Cook,Missed Layup,51,64
+7:31,Missouri State,Kabir Mohammed,Offensive Rebound,51,64
+7:31,Nebraska,Isaiah Roby,Foul,51,64
+7:31,Missouri State,Keandre Cook,Free Throw,53,64
+7:31,Missouri State,Keandre Cook,Free Throw,52,64
+7:14,Nebraska,Isaiah Roby,Missed Three Point Jumper,53,64
+7:14,Missouri State,Obediah Church,Defensive Rebound,53,64
+7:02,Missouri State,Josh Webster,Missed Layup,53,64
+7:02,Nebraska,Tanner Borchardt,Defensive Rebound,53,64
+6:51,Missouri State,Obediah Church,Foul,53,64
+6:51,Nebraska,Isaiah Roby,Free Throw,53,65
+6:51,Nebraska,Isaiah Roby,Free Throw,53,66
+6:35,Missouri State,Szymon Wojcik,Missed Jumper,53,66
+6:35,Nebraska,Isaiah Roby,Block,53,66
+6:35,Nebraska,Isaac Copeland Jr.,Defensive Rebound,53,66
+6:25,Nebraska,Nana Akenten,Three Point Jumper,53,69
+6:13,Missouri State,Ryan Kreklow,Missed Jumper,53,69
+6:13,Nebraska,Isaiah Roby,Defensive Rebound,53,69
+5:51,Missouri State,Ryan Kreklow,Foul,53,69
+5:51,Nebraska,Isaiah Roby,Free Throw,53,70
+5:51,Nebraska,Isaiah Roby,Free Throw,53,71
+5:39,Missouri State,Keandre Cook,Three Point Jumper,56,71
+5:12,Nebraska,Isaiah Roby,Layup,56,73
+4:52,Missouri State,Josh Webster,Missed Three Point Jumper,56,73
+4:52,Nebraska,James Palmer Jr.,Defensive Rebound,56,73
+4:41,Nebraska,Isaac Copeland Jr.,Dunk,56,75
+4:23,Missouri State,Jarred Dixon,Missed Jumper,56,75
+4:23,Nebraska,Isaiah Roby,Defensive Rebound,56,75
+3:55,Nebraska,Glynn Watson Jr.,Three Point Jumper,56,78
+3:40,Nebraska,Nana Akenten,Foul,56,78
+3:40,Nebraska,None,None,56,78
+3:35,Missouri State,Kabir Mohammed,Jumper,58,78
+3:05,Nebraska,Nana Akenten,Three Point Jumper,58,81
+2:48,Missouri State,Keandre Cook,Missed Three Point Jumper,58,81
+2:48,Nebraska,Nana Akenten,Defensive Rebound,58,81
+2:34,Missouri State,Keandre Cook,Foul,58,81
+2:34,Nebraska,Tanner Borchardt,Free Throw,58,82
+2:34,Nebraska,Tanner Borchardt,Missed Free Throw,58,82
+2:34,Missouri State,Kabir Mohammed,Defensive Rebound,58,82
+2:28,Missouri State,Ryan Kreklow,Missed Three Point Jumper,58,82
+2:28,Nebraska,Brady Heiman,Defensive Rebound,58,82
+2:09,Nebraska,Johnny Trueblood,Layup,58,84
+1:53,Missouri State,Ross Owens,Missed Three Point Jumper,58,84
+1:53,Nebraska,Amir Harris,Defensive Rebound,58,84
+1:35,Nebraska,Johnny Trueblood,Turnover,58,84
+1:27,Missouri State,Ross Owens,Missed Three Point Jumper,58,84
+1:27,Missouri State,Szymon Wojcik,Offensive Rebound,58,84
+1:21,Missouri State,Szymon Wojcik,Jumper,60,84
+0:58,Missouri State,Ross Owens,Foul,60,84
+0:58,Nebraska,Brady Heiman,Free Throw,60,85
+0:58,Nebraska,Brady Heiman,Missed Free Throw,60,85
+0:58,Missouri State,Ross Owens,Defensive Rebound,60,85
+0:48,Missouri State,Darian Scott,Jumper,62,85
+0:40,Nebraska,Justin Costello,Missed Three Point Jumper,62,85
+0:40,Missouri State,Missouri State,Defensive Rebound,62,85
+0:28,Missouri State,Szymon Wojcik,Turnover,62,85
+0:28,Nebraska,Justin Costello,Steal,62,85
+0:00,Nebraska,None,None,62,85

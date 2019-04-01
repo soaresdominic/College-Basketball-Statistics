@@ -1,0 +1,503 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:50,Youngstown State,Naz Bohannon,Turnover,0,0
+19:49,Central Michigan,Robert Montgomery,Steal,0,0
+19:46,Central Michigan,Larry Austin Jr.,Layup,2,0
+19:36,Youngstown State,Noe Anabir,Layup,2,2
+19:28,Central Michigan,Shawn Roundtree,Missed Layup,2,2
+19:28,Youngstown State,Garrett Covington,Defensive Rebound,2,2
+19:15,Youngstown State,Garrett Covington,Jumper,2,4
+18:44,Central Michigan,Larry Austin Jr.,Missed Jumper,2,4
+18:44,Central Michigan,Kevin McKay,Offensive Rebound,2,4
+18:42,Central Michigan,Kevin McKay,Missed Jumper,2,4
+18:42,Youngstown State,Naz Bohannon,Defensive Rebound,2,4
+18:32,Youngstown State,Garrett Covington,Three Point Jumper,2,7
+17:57,Central Michigan,Robert Montgomery,Turnover,2,7
+17:34,Youngstown State,Darius Quisenberry,Missed Jumper,2,7
+17:34,Central Michigan,Larry Austin Jr.,Defensive Rebound,2,7
+17:27,Youngstown State,Noe Anabir,Foul,2,7
+17:17,Central Michigan,Larry Austin Jr.,Turnover,2,7
+17:10,Youngstown State,Noe Anabir,Foul,2,7
+17:10,Youngstown State,Noe Anabir,Turnover,2,7
+16:44,Central Michigan,David DiLeo,Missed Three Point Jumper,2,7
+16:44,Youngstown State,Garrett Covington,Defensive Rebound,2,7
+16:26,Youngstown State,Naz Bohannon,Jumper,2,9
+16:10,Central Michigan,Shawn Roundtree,Missed Jumper,2,9
+16:10,Youngstown State,Olamide Pedersen,Block,2,9
+16:08,Youngstown State,Garrett Covington,Defensive Rebound,2,9
+16:04,Youngstown State,Darius Quisenberry,Missed Three Point Jumper,2,9
+16:04,Central Michigan,Kevin McKay,Defensive Rebound,2,9
+15:42,Central Michigan,Kevin McKay,Missed Layup,2,9
+15:42,Central Michigan,Romelo Burrell,Offensive Rebound,2,9
+15:40,Central Michigan,Romelo Burrell,Turnover,2,9
+15:38,Youngstown State,Garrett Covington,Steal,2,9
+15:31,Youngstown State,Darius Quisenberry,Turnover,2,9
+15:31,Youngstown State,None,None,2,9
+15:13,Central Michigan,Robert Montgomery,Three Point Jumper,5,9
+15:00,Youngstown State,Devin Morgan,Turnover,5,9
+14:59,Central Michigan,Larry Austin Jr.,Steal,5,9
+14:56,Central Michigan,Larry Austin Jr.,Layup,7,9
+14:40,Youngstown State,Donel Cathcart III,Missed Three Point Jumper,7,9
+14:40,Youngstown State,Garrett Covington,Offensive Rebound,7,9
+14:38,Central Michigan,Romelo Burrell,Foul,7,9
+14:38,Youngstown State,Garrett Covington,Free Throw,7,10
+14:38,Youngstown State,Garrett Covington,Free Throw,7,11
+14:31,Central Michigan,Matt Beachler,Three Point Jumper,10,11
+14:03,Youngstown State,Garrett Covington,Three Point Jumper,10,14
+13:55,Central Michigan,Larry Austin Jr.,Turnover,10,14
+13:54,Youngstown State,Donel Cathcart III,Steal,10,14
+13:53,Youngstown State,Donel Cathcart III,Layup,10,16
+13:28,Youngstown State,Devin Morgan,Foul,10,16
+13:28,Central Michigan,Larry Austin Jr.,Missed Free Throw,10,16
+13:28,Central Michigan,None,Team Rebound,10,16
+13:28,Central Michigan,Larry Austin Jr.,Free Throw,11,16
+13:18,Youngstown State,Donel Cathcart III,Turnover,11,16
+13:04,Central Michigan,David DiLeo,Jumper,13,16
+12:41,Central Michigan,Dallas Morgan,Foul,13,16
+12:38,Youngstown State,Devin Morgan,Missed Three Point Jumper,13,16
+12:38,Central Michigan,None,Team Rebound,13,16
+12:35,Youngstown State,Olamide Pedersen,Foul,13,16
+12:24,Youngstown State,Olamide Pedersen,Foul,13,16
+12:24,Central Michigan,Shawn Roundtree,Free Throw,14,16
+12:24,Central Michigan,Shawn Roundtree,Free Throw,15,16
+12:16,Youngstown State,Kendale Hampton,Turnover,15,16
+12:15,Central Michigan,Larry Austin Jr.,Steal,15,16
+12:10,Central Michigan,Larry Austin Jr.,Missed Layup,15,16
+12:10,Youngstown State,Antwan Maxwell Jr.,Defensive Rebound,15,16
+11:44,Youngstown State,Kendale Hampton,Missed Three Point Jumper,15,16
+11:44,Central Michigan,Larry Austin Jr.,Defensive Rebound,15,16
+11:36,Youngstown State,Kendale Hampton,Foul,15,16
+11:36,Youngstown State,None,None,15,16
+11:36,Central Michigan,Dallas Morgan,Free Throw,16,16
+11:36,Central Michigan,Dallas Morgan,Missed Free Throw,16,16
+11:36,Youngstown State,Donel Cathcart III,Defensive Rebound,16,16
+11:29,Youngstown State,Donel Cathcart III,Turnover,16,16
+11:28,Central Michigan,Shawn Roundtree,Steal,16,16
+11:03,Central Michigan,David DiLeo,Missed Jumper,16,16
+11:03,Central Michigan,David DiLeo,Offensive Rebound,16,16
+11:00,Central Michigan,David DiLeo,Missed Jumper,16,16
+11:00,Youngstown State,Darius Quisenberry,Defensive Rebound,16,16
+10:53,Youngstown State,Donel Cathcart III,Dunk,16,18
+10:25,Central Michigan,Shawn Roundtree,Turnover,16,18
+10:24,Youngstown State,Naz Bohannon,Steal,16,18
+10:19,Central Michigan,Shawn Roundtree,Foul,16,18
+10:02,Central Michigan,Robert Montgomery,Foul,16,18
+10:02,Youngstown State,Antwan Maxwell Jr.,Missed Free Throw,16,18
+10:02,Youngstown State,None,Team Rebound,16,18
+10:02,Youngstown State,Antwan Maxwell Jr.,Free Throw,16,19
+9:52,Central Michigan,Robert Montgomery,Missed Jumper,16,19
+9:52,Central Michigan,Larry Austin Jr.,Offensive Rebound,16,19
+9:49,Central Michigan,Larry Austin Jr.,Missed Jumper,16,19
+9:49,Youngstown State,Antwan Maxwell Jr.,Defensive Rebound,16,19
+9:41,Youngstown State,Antwan Maxwell Jr.,Turnover,16,19
+9:27,Central Michigan,Kevin McKay,Missed Jumper,16,19
+9:27,Youngstown State,Antwan Maxwell Jr.,Block,16,19
+9:25,Central Michigan,Kevin McKay,Offensive Rebound,16,19
+9:15,Central Michigan,Matt Beachler,Three Point Jumper,19,19
+8:45,Youngstown State,Antwan Maxwell Jr.,Turnover,19,19
+8:44,Central Michigan,Kevin McKay,Steal,19,19
+8:42,Central Michigan,Kevin McKay,Layup,21,19
+8:18,Youngstown State,Antwan Maxwell Jr.,Dunk,21,21
+7:56,Central Michigan,Kevin McKay,Missed Three Point Jumper,21,21
+7:56,Youngstown State,Garrett Covington,Defensive Rebound,21,21
+7:47,Youngstown State,Naz Bohannon,Missed Layup,21,21
+7:47,Central Michigan,Matt Beachler,Block,21,21
+7:46,Central Michigan,Larry Austin Jr.,Defensive Rebound,21,21
+7:40,Central Michigan,Robert Montgomery,Layup,23,21
+7:36,Youngstown State,Naz Bohannon,Turnover,23,21
+7:35,Central Michigan,Kevin McKay,Steal,23,21
+7:34,Central Michigan,Kevin McKay,Layup,25,21
+7:34,Youngstown State,None,None,25,21
+7:34,Youngstown State,None,None,25,21
+7:15,Youngstown State,Naz Bohannon,Missed Layup,25,21
+7:15,Central Michigan,Larry Austin Jr.,Defensive Rebound,25,21
+6:51,Central Michigan,Innocent Nwoko,Dunk,27,21
+6:36,Youngstown State,Darius Quisenberry,Missed Three Point Jumper,27,21
+6:36,Central Michigan,David DiLeo,Defensive Rebound,27,21
+6:25,Central Michigan,Shawn Roundtree,Jumper,29,21
+6:13,Youngstown State,Kendale Hampton,Layup,29,23
+5:56,Youngstown State,Jelani Simmons,Foul,29,23
+5:56,Central Michigan,David DiLeo,Missed Free Throw,29,23
+5:56,Youngstown State,Kendale Hampton,Defensive Rebound,29,23
+5:33,Youngstown State,Alex Holcombe,Layup,29,25
+5:06,Central Michigan,Dallas Morgan,Three Point Jumper,32,25
+4:33,Youngstown State,Devin Morgan,Missed Layup,32,25
+4:33,Central Michigan,Robert Montgomery,Block,32,25
+4:32,Youngstown State,Youngstown State,Offensive Rebound,32,25
+4:32,Central Michigan,Robert Montgomery,Foul,32,25
+4:32,Youngstown State,Devin Morgan,Free Throw,32,26
+4:32,Youngstown State,Devin Morgan,Free Throw,32,27
+4:32,Central Michigan,Robert Montgomery,Foul,32,27
+4:27,Youngstown State,Devin Morgan,Jumper,32,29
+4:06,Central Michigan,Kevin McKay,Layup,34,29
+3:55,Youngstown State,Devin Morgan,Turnover,34,29
+3:54,Central Michigan,Dallas Morgan,Steal,34,29
+3:53,Central Michigan,Dallas Morgan,Layup,36,29
+3:53,Youngstown State,Devin Morgan,Foul,36,29
+3:53,Youngstown State,None,None,36,29
+3:53,Central Michigan,Dallas Morgan,Free Throw,37,29
+3:43,Youngstown State,Garrett Covington,Turnover,37,29
+3:42,Central Michigan,Kevin McKay,Steal,37,29
+3:40,Central Michigan,Kevin McKay,Layup,39,29
+3:28,Youngstown State,Naz Bohannon,Turnover,39,29
+3:27,Central Michigan,Larry Austin Jr.,Steal,39,29
+3:26,Central Michigan,Larry Austin Jr.,Layup,41,29
+3:26,Youngstown State,Naz Bohannon,Foul,41,29
+3:26,Central Michigan,Larry Austin Jr.,Free Throw,42,29
+3:18,Youngstown State,Garrett Covington,Three Point Jumper,42,32
+3:02,Central Michigan,Dallas Morgan,Missed Three Point Jumper,42,32
+3:02,Central Michigan,Kevin McKay,Offensive Rebound,42,32
+2:56,Central Michigan,Kevin McKay,Missed Jumper,42,32
+2:56,Central Michigan,Kevin McKay,Offensive Rebound,42,32
+2:54,Central Michigan,Kevin McKay,Missed Jumper,42,32
+2:54,Youngstown State,Naz Bohannon,Block,42,32
+2:53,Central Michigan,Central Michigan,Offensive Rebound,42,32
+2:36,Central Michigan,Shawn Roundtree,Missed Three Point Jumper,42,32
+2:36,Youngstown State,Naz Bohannon,Defensive Rebound,42,32
+2:28,Youngstown State,Naz Bohannon,Layup,42,34
+2:10,Central Michigan,Dallas Morgan,Turnover,42,34
+1:49,Youngstown State,Garrett Covington,Missed Jumper,42,34
+1:49,Central Michigan,Kevin McKay,Defensive Rebound,42,34
+1:42,Central Michigan,Shawn Roundtree,Turnover,42,34
+1:32,Youngstown State,Naz Bohannon,Turnover,42,34
+1:09,Central Michigan,Larry Austin Jr.,Missed Jumper,42,34
+1:09,Youngstown State,Jelani Simmons,Defensive Rebound,42,34
+1:02,Central Michigan,Larry Austin Jr.,Foul,42,34
+1:02,Youngstown State,Darius Quisenberry,Free Throw,42,35
+1:02,Youngstown State,Darius Quisenberry,Free Throw,42,36
+0:54,Youngstown State,Donel Cathcart III,Foul,42,36
+0:54,Central Michigan,Shawn Roundtree,Free Throw,43,36
+0:54,Central Michigan,Shawn Roundtree,Missed Free Throw,43,36
+0:54,Youngstown State,Naz Bohannon,Defensive Rebound,43,36
+0:49,Youngstown State,Darius Quisenberry,Layup,43,38
+0:29,Central Michigan,Larry Austin Jr.,Jumper,45,38
+0:05,Youngstown State,Darius Quisenberry,Missed Layup,45,38
+0:05,Central Michigan,Matt Beachler,Defensive Rebound,45,38
+0:00,Youngstown State,None,None,45,38
+19:38,Central Michigan,Robert Montgomery,Layup,47,38
+19:27,Youngstown State,Darius Quisenberry,Turnover,47,38
+19:25,Central Michigan,Larry Austin Jr.,Steal,47,38
+19:24,Central Michigan,Larry Austin Jr.,Layup,49,38
+19:13,Youngstown State,Naz Bohannon,Missed Layup,49,38
+19:13,Youngstown State,Olamide Pedersen,Offensive Rebound,49,38
+19:11,Youngstown State,Olamide Pedersen,Missed Layup,49,38
+19:11,Youngstown State,Garrett Covington,Offensive Rebound,49,38
+19:06,Youngstown State,Garrett Covington,Turnover,49,38
+19:05,Central Michigan,Kevin McKay,Steal,49,38
+19:02,Central Michigan,Kevin McKay,Foul,49,38
+19:02,Central Michigan,Kevin McKay,Turnover,49,38
+18:38,Youngstown State,Naz Bohannon,Layup,49,40
+18:14,Central Michigan,Larry Austin Jr.,Turnover,49,40
+18:13,Youngstown State,Jelani Simmons,Steal,49,40
+18:10,Youngstown State,Jelani Simmons,Missed Layup,49,40
+18:10,Central Michigan,Kevin McKay,Block,49,40
+18:10,Youngstown State,Youngstown State,Offensive Rebound,49,40
+18:05,Youngstown State,Darius Quisenberry,Turnover,49,40
+18:03,Central Michigan,Shawn Roundtree,Steal,49,40
+17:59,Central Michigan,Kevin McKay,Turnover,49,40
+17:58,Youngstown State,Naz Bohannon,Steal,49,40
+17:54,Central Michigan,David DiLeo,Foul,49,40
+17:54,Youngstown State,Garrett Covington,Missed Free Throw,49,40
+17:54,Youngstown State,None,Team Rebound,49,40
+17:54,Youngstown State,Garrett Covington,Free Throw,49,41
+17:23,Central Michigan,Central Michigan ,Turnover,49,41
+17:04,Youngstown State,Jelani Simmons,Missed Jumper,49,41
+17:04,Central Michigan,Larry Austin Jr.,Defensive Rebound,49,41
+16:57,Central Michigan,David DiLeo,Missed Three Point Jumper,49,41
+16:57,Youngstown State,Olamide Pedersen,Defensive Rebound,49,41
+16:45,Youngstown State,Garrett Covington,Missed Jumper,49,41
+16:45,Central Michigan,Larry Austin Jr.,Defensive Rebound,49,41
+16:32,Youngstown State,Olamide Pedersen,Foul,49,41
+16:32,Central Michigan,David DiLeo,Missed Free Throw,49,41
+16:32,Central Michigan,None,Team Rebound,49,41
+16:32,Central Michigan,David DiLeo,Free Throw,50,41
+16:19,Youngstown State,Devin Morgan,Missed Jumper,50,41
+16:19,Youngstown State,Devin Morgan,Offensive Rebound,50,41
+16:16,Youngstown State,Devin Morgan,Jumper,50,43
+16:01,Youngstown State,Kendale Hampton,Foul,50,43
+16:01,Central Michigan,Romelo Burrell,Foul,50,43
+16:01,Central Michigan,Romelo Burrell,Turnover,50,43
+15:53,Central Michigan,Matt Beachler,Foul,50,43
+15:53,Youngstown State,None,None,50,43
+15:37,Youngstown State,Devin Morgan,Jumper,50,45
+15:30,Central Michigan,Dallas Morgan,Three Point Jumper,53,45
+15:11,Youngstown State,Devin Morgan,Missed Three Point Jumper,53,45
+15:11,Central Michigan,Romelo Burrell,Defensive Rebound,53,45
+15:05,Central Michigan,Romelo Burrell,Turnover,53,45
+15:04,Youngstown State,Alex Holcombe,Steal,53,45
+15:00,Youngstown State,Devin Morgan,Missed Jumper,53,45
+15:00,Youngstown State,Donel Cathcart III,Offensive Rebound,53,45
+14:58,Youngstown State,Donel Cathcart III,Missed Three Point Jumper,53,45
+14:58,Youngstown State,Devin Morgan,Offensive Rebound,53,45
+14:53,Youngstown State,Jelani Simmons,Missed Three Point Jumper,53,45
+14:53,Central Michigan,Larry Austin Jr.,Defensive Rebound,53,45
+14:50,Youngstown State,Devin Morgan,Foul,53,45
+14:22,Central Michigan,Robert Montgomery,Jumper,55,45
+14:03,Youngstown State,Donel Cathcart III,Three Point Jumper,55,48
+13:36,Central Michigan,Robert Montgomery,Missed Three Point Jumper,55,48
+13:36,Youngstown State,Naz Bohannon,Defensive Rebound,55,48
+13:26,Youngstown State,Naz Bohannon,Layup,55,50
+13:02,Youngstown State,Garrett Covington,Foul,55,50
+13:02,Central Michigan,Larry Austin Jr.,Missed Free Throw,55,50
+13:02,Central Michigan,None,Team Rebound,55,50
+13:02,Central Michigan,Larry Austin Jr.,Free Throw,56,50
+12:54,Youngstown State,Garrett Covington,Jumper,56,52
+12:24,Central Michigan,Shawn Roundtree,Missed Jumper,56,52
+12:24,Youngstown State,Naz Bohannon,Defensive Rebound,56,52
+12:21,Central Michigan,David DiLeo,Foul,56,52
+12:09,Youngstown State,Garrett Covington,Missed Three Point Jumper,56,52
+12:09,Central Michigan,Larry Austin Jr.,Defensive Rebound,56,52
+12:01,Youngstown State,Noe Anabir,Foul,56,52
+12:01,Central Michigan,Larry Austin Jr.,Missed Free Throw,56,52
+12:01,Central Michigan,None,Team Rebound,56,52
+12:01,Central Michigan,Larry Austin Jr.,Missed Free Throw,56,52
+12:01,Youngstown State,Olamide Pedersen,Defensive Rebound,56,52
+11:54,Youngstown State,Devin Morgan,Missed Jumper,56,52
+11:54,Youngstown State,Garrett Covington,Offensive Rebound,56,52
+11:44,Central Michigan,Matt Beachler,Foul,56,52
+11:44,Youngstown State,None,None,56,52
+11:23,Youngstown State,Naz Bohannon,Jumper,56,54
+10:52,Central Michigan,Shawn Roundtree,Missed Layup,56,54
+10:52,Youngstown State,Olamide Pedersen,Block,56,54
+10:51,Youngstown State,Garrett Covington,Defensive Rebound,56,54
+10:44,Youngstown State,Jelani Simmons,Missed Three Point Jumper,56,54
+10:44,Youngstown State,Olamide Pedersen,Offensive Rebound,56,54
+10:40,Youngstown State,Devin Morgan,Missed Three Point Jumper,56,54
+10:40,Youngstown State,Naz Bohannon,Offensive Rebound,56,54
+10:36,Youngstown State,Naz Bohannon,Missed Layup,56,54
+10:36,Central Michigan,Kevin McKay,Defensive Rebound,56,54
+10:36,Central Michigan,Kevin McKay,Block,56,54
+10:28,Central Michigan,Shawn Roundtree,Missed Layup,56,54
+10:28,Youngstown State,Naz Bohannon,Defensive Rebound,56,54
+10:28,Youngstown State,Olamide Pedersen,Block,56,54
+10:26,Youngstown State,Naz Bohannon,Missed Free Throw,56,54
+10:26,Central Michigan,Larry Austin Jr.,Defensive Rebound,56,54
+10:26,Central Michigan,Kevin McKay,Foul,56,54
+10:12,Central Michigan,Larry Austin Jr.,Missed Jumper,56,54
+10:12,Central Michigan,Larry Austin Jr.,Offensive Rebound,56,54
+10:09,Youngstown State,Garrett Covington,Foul,56,54
+10:09,Central Michigan,Larry Austin Jr.,Missed Free Throw,56,54
+10:09,Central Michigan,None,Team Rebound,56,54
+10:09,Central Michigan,Larry Austin Jr.,Free Throw,57,54
+9:50,Youngstown State,Devin Morgan,Layup,57,56
+9:24,Central Michigan,Larry Austin Jr.,Jumper,59,56
+9:04,Youngstown State,Garrett Covington,Jumper,59,58
+8:27,Central Michigan,Robert Montgomery,Dunk,61,58
+8:05,Youngstown State,Devin Morgan,Three Point Jumper,61,61
+7:36,Central Michigan,Larry Austin Jr.,Missed Layup,61,61
+7:36,Youngstown State,Olamide Pedersen,Block,61,61
+7:34,Central Michigan,David DiLeo,Offensive Rebound,61,61
+7:31,Central Michigan,Shawn Roundtree,Missed Three Point Jumper,61,61
+7:31,Youngstown State,Olamide Pedersen,Defensive Rebound,61,61
+7:10,Youngstown State,Jelani Simmons,Missed Three Point Jumper,61,61
+7:10,Central Michigan,David DiLeo,Defensive Rebound,61,61
+7:03,Central Michigan,Larry Austin Jr.,Layup,63,61
+6:40,Youngstown State,Jelani Simmons,Turnover,63,61
+6:39,Central Michigan,Shawn Roundtree,Steal,63,61
+6:37,Central Michigan,Shawn Roundtree,Layup,65,61
+6:33,Youngstown State,None,None,65,61
+6:33,Youngstown State,None,None,65,61
+6:12,Youngstown State,Darius Quisenberry,Missed Layup,65,61
+6:12,Central Michigan,David DiLeo,Defensive Rebound,65,61
+5:50,Central Michigan,Robert Montgomery,Missed Jumper,65,61
+5:50,Youngstown State,Naz Bohannon,Defensive Rebound,65,61
+5:41,Youngstown State,Garrett Covington,Missed Three Point Jumper,65,61
+5:41,Central Michigan,Robert Montgomery,Defensive Rebound,65,61
+5:38,Youngstown State,Noe Anabir,Foul,65,61
+5:38,Youngstown State,None,None,65,61
+5:38,Central Michigan,Robert Montgomery,Free Throw,66,61
+5:38,Central Michigan,Robert Montgomery,Missed Free Throw,66,61
+5:38,Youngstown State,Garrett Covington,Defensive Rebound,66,61
+5:20,Youngstown State,Naz Bohannon,Missed Jumper,66,61
+5:20,Youngstown State,Noe Anabir,Offensive Rebound,66,61
+5:17,Youngstown State,None,None,66,63
+5:06,Central Michigan,Larry Austin Jr.,Missed Layup,66,63
+5:06,Youngstown State,Garrett Covington,Defensive Rebound,66,63
+4:58,Central Michigan,Robert Montgomery,Foul,66,63
+4:58,Youngstown State,Noe Anabir,Missed Free Throw,66,63
+4:58,Central Michigan,Kevin McKay,Defensive Rebound,66,63
+4:29,Central Michigan,Robert Montgomery,Turnover,66,63
+3:54,Youngstown State,Devin Morgan,Three Point Jumper,66,66
+3:52,Youngstown State,Noe Anabir,Foul,66,66
+3:52,Youngstown State,None,None,66,66
+3:52,Central Michigan,Larry Austin Jr.,Missed Free Throw,66,66
+3:52,Central Michigan,None,Team Rebound,66,66
+3:52,Central Michigan,Larry Austin Jr.,Missed Free Throw,66,66
+3:52,Youngstown State,Naz Bohannon,Defensive Rebound,66,66
+3:29,Youngstown State,Garrett Covington,Missed Jumper,66,66
+3:29,Youngstown State,Youngstown State,Offensive Rebound,66,66
+3:24,Youngstown State,Naz Bohannon,Turnover,66,66
+3:23,Central Michigan,Kevin McKay,Steal,66,66
+3:06,Central Michigan,Robert Montgomery,Jumper,68,66
+2:37,Youngstown State,Garrett Covington,Missed Three Point Jumper,68,66
+2:37,Youngstown State,Naz Bohannon,Offensive Rebound,68,66
+2:29,Youngstown State,Naz Bohannon,Missed Jumper,68,66
+2:29,Youngstown State,Olamide Pedersen,Offensive Rebound,68,66
+2:13,Youngstown State,Devin Morgan,Missed Three Point Jumper,68,66
+2:13,Youngstown State,Garrett Covington,Offensive Rebound,68,66
+1:58,Youngstown State,Donel Cathcart III,Missed Three Point Jumper,68,66
+1:58,Youngstown State,Naz Bohannon,Offensive Rebound,68,66
+1:53,Youngstown State,Naz Bohannon,Turnover,68,66
+1:42,Central Michigan,Robert Montgomery,Turnover,68,66
+1:19,Youngstown State,Devin Morgan,Jumper,68,68
+0:57,Central Michigan,Larry Austin Jr.,Missed Jumper,68,68
+0:57,Youngstown State,Garrett Covington,Defensive Rebound,68,68
+0:27,Youngstown State,Devin Morgan,Missed Three Point Jumper,68,68
+0:27,Central Michigan,Central Michigan,Defensive Rebound,68,68
+0:25,Central Michigan,None,None,68,68
+0:05,Central Michigan,Larry Austin Jr.,Missed Layup,68,68
+0:05,Youngstown State,Naz Bohannon,Defensive Rebound,68,68
+0:03,Youngstown State,Devin Morgan,Missed Three Point Jumper,68,68
+0:03,Youngstown State,Olamide Pedersen,Offensive Rebound,68,68
+0:01,Youngstown State,None,None,68,68
+0:01,Youngstown State,Garrett Covington,Missed Three Point Jumper,68,68
+0:01,Youngstown State,None,Team Rebound,68,68
+0:00,Youngstown State,Naz Bohannon,Missed Three Point Jumper,68,68
+0:00,Central Michigan,David DiLeo,Defensive Rebound,68,68
+0:00,Youngstown State,None,None,68,68
+4:34,Central Michigan,Robert Montgomery,Three Point Jumper,71,68
+4:05,Youngstown State,Donel Cathcart III,Three Point Jumper,71,71
+3:42,Youngstown State,Garrett Covington,Foul,71,71
+3:42,Central Michigan,Larry Austin Jr.,Free Throw,72,71
+3:42,Central Michigan,Larry Austin Jr.,Free Throw,73,71
+3:13,Youngstown State,Garrett Covington,Jumper,73,73
+3:01,Youngstown State,Devin Morgan,Foul,73,73
+3:01,Central Michigan,Shawn Roundtree,Free Throw,74,73
+3:01,Central Michigan,Shawn Roundtree,Free Throw,75,73
+3:01,Central Michigan,None,None,75,73
+2:39,Youngstown State,Devin Morgan,Missed Three Point Jumper,75,73
+2:39,Central Michigan,Shawn Roundtree,Defensive Rebound,75,73
+2:33,Youngstown State,Naz Bohannon,Foul,75,73
+2:33,Central Michigan,Shawn Roundtree,Missed Free Throw,75,73
+2:33,Central Michigan,None,Team Rebound,75,73
+2:33,Central Michigan,Shawn Roundtree,Free Throw,76,73
+2:13,Youngstown State,Naz Bohannon,Missed Jumper,76,73
+2:13,Youngstown State,Naz Bohannon,Offensive Rebound,76,73
+1:51,Youngstown State,Donel Cathcart III,Missed Three Point Jumper,76,73
+1:51,Central Michigan,Kevin McKay,Defensive Rebound,76,73
+1:21,Central Michigan,Larry Austin Jr.,Missed Jumper,76,73
+1:21,Central Michigan,Robert Montgomery,Offensive Rebound,76,73
+1:16,Youngstown State,Olamide Pedersen,Block,76,73
+1:16,Central Michigan,Robert Montgomery,Missed Jumper,76,73
+1:16,Youngstown State,Olamide Pedersen,Defensive Rebound,76,73
+1:10,Youngstown State,None,None,76,73
+0:59,Central Michigan,Robert Montgomery,Foul,76,73
+0:59,Youngstown State,Garrett Covington,Missed Free Throw,76,73
+0:59,Youngstown State,None,Team Rebound,76,73
+0:59,Youngstown State,Garrett Covington,Free Throw,76,74
+0:35,Central Michigan,Larry Austin Jr.,Missed Jumper,76,74
+0:35,Youngstown State,Olamide Pedersen,Defensive Rebound,76,74
+0:22,Youngstown State,Devin Morgan,Layup,76,76
+0:12,Youngstown State,None,None,76,76
+0:12,Youngstown State,None,None,76,76
+0:02,Central Michigan,Shawn Roundtree,Turnover,76,76
+0:02,Youngstown State,None,None,76,76
+0:00,Youngstown State,None,None,82,82
+4:36,Central Michigan,Shawn Roundtree,Missed Jumper,76,76
+4:36,Youngstown State,Naz Bohannon,Defensive Rebound,76,76
+4:20,Youngstown State,Devin Morgan,Missed Three Point Jumper,76,76
+4:20,Central Michigan,David DiLeo,Defensive Rebound,76,76
+4:11,Central Michigan,Larry Austin Jr.,Layup,78,76
+4:09,Youngstown State,Devin Morgan,Three Point Jumper,78,79
+3:36,Central Michigan,Shawn Roundtree,Missed Three Point Jumper,78,79
+3:36,Central Michigan,Central Michigan,Offensive Rebound,78,79
+3:18,Central Michigan,Larry Austin Jr.,Turnover,78,79
+3:00,Youngstown State,Naz Bohannon,Missed Jumper,78,79
+3:00,Central Michigan,David DiLeo,Defensive Rebound,78,79
+2:33,Youngstown State,Donel Cathcart III,Foul,78,79
+2:33,Central Michigan,David DiLeo,Free Throw,79,79
+2:33,Central Michigan,David DiLeo,Missed Free Throw,79,79
+2:33,Youngstown State,Naz Bohannon,Defensive Rebound,79,79
+2:17,Youngstown State,Donel Cathcart III,Missed Jumper,79,79
+2:17,Central Michigan,Robert Montgomery,Block,79,79
+2:17,Youngstown State,Youngstown State,Offensive Rebound,79,79
+2:17,Youngstown State,Naz Bohannon,Turnover,79,79
+1:52,Central Michigan,Robert Montgomery,Missed Three Point Jumper,79,79
+1:52,Youngstown State,Naz Bohannon,Defensive Rebound,79,79
+1:43,Central Michigan,Robert Montgomery,Foul,79,79
+1:43,Youngstown State,Naz Bohannon,Free Throw,79,80
+1:43,Youngstown State,Naz Bohannon,Missed Free Throw,79,80
+1:43,Central Michigan,Kevin McKay,Defensive Rebound,79,80
+1:28,Central Michigan,Shawn Roundtree,Layup,81,80
+1:12,Youngstown State,Donel Cathcart III,Jumper,81,82
+0:55,Central Michigan,Shawn Roundtree,Turnover,81,82
+0:55,Youngstown State,Garrett Covington,Steal,81,82
+0:34,Youngstown State,Devin Morgan,Missed Jumper,81,82
+0:34,Youngstown State,Devin Morgan,Offensive Rebound,81,82
+0:18,Central Michigan,Shawn Roundtree,Foul,81,82
+0:18,Youngstown State,Devin Morgan,Missed Free Throw,81,82
+0:18,Youngstown State,None,Team Rebound,81,82
+0:18,Youngstown State,Devin Morgan,Missed Free Throw,81,82
+0:18,Central Michigan,David DiLeo,Defensive Rebound,81,82
+0:11,Youngstown State,Olamide Pedersen,Foul,81,82
+0:11,Central Michigan,Shawn Roundtree,Missed Free Throw,81,82
+0:11,Central Michigan,None,Team Rebound,81,82
+0:11,Central Michigan,Shawn Roundtree,Free Throw,82,82
+0:11,Central Michigan,None,None,82,82
+0:11,Youngstown State,Devin Morgan,Missed Three Point Jumper,82,82
+0:11,Youngstown State,Naz Bohannon,Offensive Rebound,82,82
+0:11,Youngstown State,None,None,82,82
+0:00,Youngstown State,Naz Bohannon,Missed Three Point Jumper,82,82
+0:00,Central Michigan,None,Team Rebound,82,82
+0:00,Youngstown State,None,None,76,76
+4:32,Central Michigan,Shawn Roundtree,Layup,84,82
+4:08,Youngstown State,Devin Morgan,Layup,84,84
+3:47,Central Michigan,Larry Austin Jr.,Missed Jumper,84,84
+3:47,Youngstown State,Olamide Pedersen,Block,84,84
+3:46,Central Michigan,Central Michigan,Offensive Rebound,84,84
+3:46,Central Michigan,None,None,84,84
+3:37,Central Michigan,Shawn Roundtree,Jumper,86,84
+3:20,Youngstown State,Naz Bohannon,Missed Jumper,86,84
+3:20,Central Michigan,David DiLeo,Defensive Rebound,86,84
+3:14,Central Michigan,Larry Austin Jr.,Layup,88,84
+2:49,Youngstown State,Darius Quisenberry,Turnover,88,84
+2:48,Central Michigan,Shawn Roundtree,Steal,88,84
+2:46,Central Michigan,Shawn Roundtree,Layup,90,84
+2:46,Youngstown State,Darius Quisenberry,Foul,90,84
+2:46,Central Michigan,Shawn Roundtree,Free Throw,91,84
+2:32,Youngstown State,Devin Morgan,Missed Jumper,91,84
+2:32,Central Michigan,Dallas Morgan,Defensive Rebound,91,84
+2:09,Central Michigan,Shawn Roundtree,Jumper,93,84
+2:01,Youngstown State,Donel Cathcart III,Missed Three Point Jumper,93,84
+2:01,Central Michigan,Dallas Morgan,Defensive Rebound,93,84
+1:30,Central Michigan,Kevin McKay,Missed Jumper,93,84
+1:30,Central Michigan,Kevin McKay,Offensive Rebound,93,84
+1:27,Youngstown State,Olamide Pedersen,Foul,93,84
+1:27,Central Michigan,Kevin McKay,Free Throw,94,84
+1:27,Central Michigan,Kevin McKay,Missed Free Throw,94,84
+1:27,Youngstown State,Donel Cathcart III,Defensive Rebound,94,84
+1:21,Youngstown State,Garrett Covington,Three Point Jumper,94,87
+1:13,Central Michigan,Shawn Roundtree,Turnover,94,87
+1:12,Youngstown State,Devin Morgan,Steal,94,87
+1:11,Youngstown State,Garrett Covington,Missed Three Point Jumper,94,87
+1:11,Youngstown State,Naz Bohannon,Offensive Rebound,94,87
+1:04,Youngstown State,Devin Morgan,Missed Three Point Jumper,94,87
+1:04,Youngstown State,Naz Bohannon,Offensive Rebound,94,87
+0:55,Youngstown State,Devin Morgan,Missed Jumper,94,87
+0:55,Central Michigan,Larry Austin Jr.,Block,94,87
+0:52,Central Michigan,David DiLeo,Defensive Rebound,94,87
+0:42,Youngstown State,Garrett Covington,Foul,94,87
+0:42,Central Michigan,Shawn Roundtree,Missed Free Throw,94,87
+0:42,Central Michigan,None,Team Rebound,94,87
+0:42,Central Michigan,Shawn Roundtree,Free Throw,95,87
+0:34,Youngstown State,Devin Morgan,Missed Three Point Jumper,95,87
+0:34,Youngstown State,Naz Bohannon,Offensive Rebound,95,87
+0:32,Youngstown State,Naz Bohannon,Jumper,95,89
+0:31,Central Michigan,Larry Austin Jr.,Foul,95,89
+0:31,Youngstown State,Naz Bohannon,Free Throw,95,90
+0:31,Youngstown State,Jelani Simmons,Foul,95,90
+0:31,Central Michigan,Dallas Morgan,Free Throw,96,90
+0:31,Central Michigan,Dallas Morgan,Free Throw,97,90
+0:23,Youngstown State,Donel Cathcart III,Missed Jumper,97,90
+0:23,Youngstown State,Donel Cathcart III,Offensive Rebound,97,90
+0:22,Youngstown State,Donel Cathcart III,Jumper,97,92
+0:17,Youngstown State,Devin Morgan,Foul,97,92
+0:17,Central Michigan,Dallas Morgan,Free Throw,98,92
+0:17,Central Michigan,Dallas Morgan,Free Throw,99,92
+0:11,Youngstown State,Darius Quisenberry,Layup,99,94
+0:10,Youngstown State,Darius Quisenberry,Foul,99,94
+0:10,Central Michigan,Dallas Morgan,Missed Free Throw,99,94
+0:10,Central Michigan,None,Team Rebound,99,94
+0:10,Central Michigan,Dallas Morgan,Free Throw,100,94
+0:03,Youngstown State,Darius Quisenberry,Missed Three Point Jumper,100,94
+0:03,Central Michigan,Kevin McKay,Defensive Rebound,100,94
+0:00,Youngstown State,None,None,100,94

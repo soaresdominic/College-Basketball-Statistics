@@ -1,0 +1,283 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:56,Boston University,Alex Vilarino,Foul,0,0
+19:56,Colgate,Will Rayman,Free Throw,1,0
+19:56,Colgate,Will Rayman,Missed Free Throw,1,0
+19:56,Colgate,Rapolas Ivanauskas,Offensive Rebound,1,0
+19:51,Colgate,Rapolas Ivanauskas,Jumper,3,0
+19:34,Boston University,Fletcher Tynen,Missed Layup,3,0
+19:34,Colgate,Dana Batt,Block,3,0
+19:32,Colgate,Will Rayman,Defensive Rebound,3,0
+19:08,Colgate,Will Rayman,Missed Three Point Jumper,3,0
+19:08,Boston University,Tyler Scanlon,Defensive Rebound,3,0
+18:42,Boston University,Fletcher Tynen,Missed Three Point Jumper,3,0
+18:42,Colgate,Jordan Burns,Defensive Rebound,3,0
+18:27,Colgate,Jordan Burns,Layup,5,0
+18:24,Boston University,None,None,5,0
+17:56,Boston University,Max Mahoney,Missed Jumper,5,0
+17:56,Colgate,Dana Batt,Defensive Rebound,5,0
+17:45,Colgate,Tucker Richardson,Turnover,5,0
+17:43,Boston University,Javante McCoy,Steal,5,0
+17:39,Boston University,Javante McCoy,Missed Layup,5,0
+17:39,Boston University,Fletcher Tynen,Offensive Rebound,5,0
+17:34,Boston University,Fletcher Tynen,Turnover,5,0
+17:33,Colgate,Will Rayman,Steal,5,0
+17:17,Colgate,Jordan Burns,Jumper,7,0
+16:50,Boston University,Tyler Scanlon,Jumper,7,2
+16:28,Boston University,Javante McCoy,Foul,7,2
+16:28,Colgate,Will Rayman,Free Throw,8,2
+16:28,Colgate,Will Rayman,Free Throw,9,2
+16:05,Boston University,Tyler Scanlon,Turnover,9,2
+16:03,Colgate,Rapolas Ivanauskas,Steal,9,2
+15:40,Colgate,Rapolas Ivanauskas,Layup,11,2
+15:27,Boston University,Tyler Scanlon,Foul,11,2
+15:27,Boston University,Tyler Scanlon,Turnover,11,2
+15:09,Colgate,Jordan Burns,Jumper,13,2
+14:53,Boston University,Tyler Scanlon,Turnover,13,2
+14:51,Colgate,Will Rayman,Steal,13,2
+14:31,Colgate,Jordan Burns,Missed Three Point Jumper,13,2
+14:31,Boston University,Javante McCoy,Defensive Rebound,13,2
+14:24,Boston University,Tyler Scanlon,Three Point Jumper,13,5
+14:09,Colgate,Tucker Richardson,Missed Layup,13,5
+14:09,Colgate,Will Rayman,Offensive Rebound,13,5
+14:04,Colgate,None,None,13,5
+13:42,Boston University,Tyler Scanlon,Foul,13,5
+13:42,Colgate,Will Rayman,Missed Free Throw,13,5
+13:42,Colgate,None,Team Rebound,13,5
+13:42,Colgate,Will Rayman,Free Throw,14,5
+13:31,Boston University,Jordan Guest,Missed Three Point Jumper,14,5
+13:31,Colgate,Rapolas Ivanauskas,Defensive Rebound,14,5
+13:22,Colgate,Rapolas Ivanauskas,Turnover,14,5
+13:10,Boston University,Jordan Guest,Missed Three Point Jumper,14,5
+13:10,Colgate,Malcolm Regisford,Defensive Rebound,14,5
+12:59,Colgate,Malcolm Regisford,Layup,16,5
+12:42,Boston University,Jordan Guest,Layup,16,7
+12:25,Colgate,Rapolas Ivanauskas,Layup,18,7
+12:09,Boston University,Max Mahoney,Layup,18,9
+12:09,Colgate,Will Rayman,Foul,18,9
+12:09,Boston University,Max Mahoney,Free Throw,18,10
+11:39,Colgate,Rapolas Ivanauskas,Missed Layup,18,10
+11:39,Colgate,Rapolas Ivanauskas,Offensive Rebound,18,10
+11:34,Boston University,Jonas Harper,Foul,18,10
+11:33,Boston University,None,None,18,10
+11:15,Colgate,Jordan Burns,Three Point Jumper,21,10
+11:02,Boston University,Javante McCoy,Turnover,21,10
+10:50,Colgate,Malcolm Regisford,Missed Jumper,21,10
+10:50,Boston University,Jordan Guest,Defensive Rebound,21,10
+10:35,Boston University,Jonas Harper,Three Point Jumper,21,13
+10:10,Colgate,Jordan Burns,Missed Jumper,21,13
+10:10,Boston University,Fletcher Tynen,Defensive Rebound,21,13
+9:56,Boston University,Alex Vilarino,Turnover,21,13
+9:55,Colgate,Jack Ferguson,Steal,21,13
+9:50,Colgate,Jordan Burns,Missed Layup,21,13
+9:50,Boston University,Max Mahoney,Defensive Rebound,21,13
+9:44,Boston University,Alex Vilarino,Layup,21,15
+9:25,Colgate,Jack Ferguson,Missed Three Point Jumper,21,15
+9:25,Boston University,Fletcher Tynen,Defensive Rebound,21,15
+9:10,Boston University,Sukhmail Mathon,Missed Jumper,21,15
+9:10,Colgate,Malcolm Regisford,Defensive Rebound,21,15
+8:57,Colgate,Malcolm Regisford,Missed Jumper,21,15
+8:57,Boston University,Fletcher Tynen,Defensive Rebound,21,15
+8:36,Boston University,Andrew Petcash,Missed Three Point Jumper,21,15
+8:36,Colgate,Malcolm Regisford,Defensive Rebound,21,15
+8:23,Colgate,Malcolm Regisford,Layup,23,15
+8:04,Boston University,Andrew Petcash,Three Point Jumper,23,18
+7:51,Colgate,Rapolas Ivanauskas,Missed Jumper,23,18
+7:51,Colgate,Malcolm Regisford,Offensive Rebound,23,18
+7:41,Colgate,Jack Ferguson,Three Point Jumper,26,18
+7:22,Colgate,Francisco Amiel,Foul,26,18
+7:22,Boston University,None,None,26,18
+7:14,Boston University,Tyler Scanlon,Missed Three Point Jumper,26,18
+7:14,Boston University,Max Mahoney,Offensive Rebound,26,18
+6:57,Boston University,Jordan Guest,Layup,26,20
+6:43,Colgate,Jack Ferguson,Three Point Jumper,29,20
+6:31,Boston University,Andrew Petcash,Missed Three Point Jumper,29,20
+6:31,Boston University,Boston University,Offensive Rebound,29,20
+6:29,Colgate,Will Rayman,Foul,29,20
+6:19,Boston University,Alex Vilarino,Jumper,29,22
+6:03,Colgate,Francisco Amiel,Three Point Jumper,32,22
+5:44,Boston University,Jordan Guest,Three Point Jumper,32,25
+5:25,Colgate,Dana Batt,Turnover,32,25
+5:24,Boston University,Jordan Guest,Steal,32,25
+5:11,Boston University,Alex Vilarino,Missed Three Point Jumper,32,25
+5:11,Boston University,Jordan Guest,Offensive Rebound,32,25
+5:08,Colgate,Dana Batt,Foul,32,25
+4:59,Boston University,Max Mahoney,Missed Jumper,32,25
+4:59,Boston University,Boston University,Offensive Rebound,32,25
+4:58,Colgate,Sam Lindgren,Foul,32,25
+4:55,Boston University,Jordan Guest,Missed Layup,32,25
+4:55,Colgate,Sam Lindgren,Defensive Rebound,32,25
+4:42,Colgate,Jack Ferguson,Three Point Jumper,35,25
+4:24,Boston University,Tyler Scanlon,Jumper,35,27
+4:02,Colgate,Tucker Richardson,Three Point Jumper,38,27
+3:46,Boston University,Alex Vilarino,Jumper,38,29
+3:19,Colgate,Dana Batt,Layup,40,29
+2:55,Boston University,Javante McCoy,Missed Jumper,40,29
+2:55,Boston University,Max Mahoney,Offensive Rebound,40,29
+2:40,Colgate,Tucker Richardson,Foul,40,29
+2:40,Boston University,None,None,40,29
+2:22,Boston University,Jack Hemphill,Missed Jumper,40,29
+2:22,Colgate,Dana Batt,Block,40,29
+2:19,Colgate,Dana Batt,Defensive Rebound,40,29
+2:10,Colgate,Jordan Burns,Missed Jumper,40,29
+2:10,Boston University,Sukhmail Mathon,Defensive Rebound,40,29
+1:50,Boston University,Jack Hemphill,Missed Three Point Jumper,40,29
+1:50,Boston University,Javante McCoy,Offensive Rebound,40,29
+1:43,Colgate,Rapolas Ivanauskas,Foul,40,29
+1:43,Boston University,Javante McCoy,Free Throw,40,30
+1:43,Boston University,Javante McCoy,Free Throw,40,31
+1:21,Colgate,Will Rayman,Missed Three Point Jumper,40,31
+1:21,Colgate,Dana Batt,Offensive Rebound,40,31
+1:13,Colgate,Tucker Richardson,Missed Three Point Jumper,40,31
+1:13,Colgate,Rapolas Ivanauskas,Offensive Rebound,40,31
+1:08,Boston University,Sukhmail Mathon,Foul,40,31
+1:08,Colgate,Rapolas Ivanauskas,Free Throw,41,31
+1:08,Colgate,Rapolas Ivanauskas,Free Throw,42,31
+0:55,Boston University,Max Mahoney,Layup,42,33
+0:27,Colgate,Rapolas Ivanauskas,Missed Jumper,42,33
+0:27,Boston University,Sukhmail Mathon,Defensive Rebound,42,33
+0:02,Boston University,Javante McCoy,Missed Three Point Jumper,42,33
+0:02,Colgate,Rapolas Ivanauskas,Defensive Rebound,42,33
+0:00,Boston University,None,None,42,33
+19:48,Boston University,Tyler Scanlon,Missed Jumper,42,33
+19:48,Colgate,Dana Batt,Block,42,33
+19:46,Colgate,Jordan Burns,Defensive Rebound,42,33
+19:26,Colgate,Rapolas Ivanauskas,Missed Jumper,42,33
+19:26,Boston University,Alex Vilarino,Defensive Rebound,42,33
+19:19,Boston University,Alex Vilarino,Layup,42,35
+18:56,Colgate,Tucker Richardson,Missed Three Point Jumper,42,35
+18:56,Boston University,Jordan Guest,Defensive Rebound,42,35
+18:35,Boston University,Javante McCoy,Jumper,42,37
+18:20,Boston University,Jordan Guest,Foul,42,37
+18:02,Colgate,Tucker Richardson,Missed Three Point Jumper,42,37
+18:02,Boston University,Tyler Scanlon,Defensive Rebound,42,37
+17:53,Boston University,Javante McCoy,Turnover,42,37
+17:50,Colgate,Tucker Richardson,Steal,42,37
+17:47,Colgate,Will Rayman,Missed Jumper,42,37
+17:47,Boston University,Alex Vilarino,Defensive Rebound,42,37
+17:33,Boston University,Javante McCoy,Missed Three Point Jumper,42,37
+17:33,Colgate,Rapolas Ivanauskas,Defensive Rebound,42,37
+17:27,Colgate,Tucker Richardson,Missed Layup,42,37
+17:27,Boston University,Jordan Guest,Defensive Rebound,42,37
+17:07,Boston University,Jordan Guest,Turnover,42,37
+17:06,Colgate,Jordan Burns,Steal,42,37
+17:03,Colgate,Jordan Burns,Layup,44,37
+16:44,Boston University,Jordan Guest,Layup,44,39
+16:22,Boston University,Max Mahoney,Foul,44,39
+16:22,Colgate,Rapolas Ivanauskas,Free Throw,45,39
+16:22,Colgate,Rapolas Ivanauskas,Missed Free Throw,45,39
+16:22,Boston University,Jordan Guest,Defensive Rebound,45,39
+16:03,Boston University,Jordan Guest,Missed Jumper,45,39
+16:03,Boston University,Jonas Harper,Offensive Rebound,45,39
+15:55,Colgate,Jordan Burns,Foul,45,39
+15:55,Boston University,None,None,45,39
+15:55,Boston University,Tyler Scanlon,Free Throw,45,40
+15:55,Boston University,Tyler Scanlon,Free Throw,45,41
+15:33,Colgate,Jordan Burns,Missed Jumper,45,41
+15:33,Boston University,Sukhmail Mathon,Defensive Rebound,45,41
+15:16,Boston University,Jordan Guest,Missed Layup,45,41
+15:16,Colgate,Dana Batt,Block,45,41
+15:14,Colgate,Tucker Richardson,Defensive Rebound,45,41
+15:03,Colgate,Rapolas Ivanauskas,Turnover,45,41
+14:45,Boston University,Javante McCoy,Turnover,45,41
+14:43,Colgate,Jordan Burns,Steal,45,41
+14:29,Colgate,Will Rayman,Missed Layup,45,41
+14:29,Boston University,Javante McCoy,Block,45,41
+14:27,Colgate,Dana Batt,Offensive Rebound,45,41
+14:25,Colgate,Dana Batt,Layup,47,41
+14:07,Boston University,Javante McCoy,Missed Jumper,47,41
+14:07,Colgate,Rapolas Ivanauskas,Defensive Rebound,47,41
+13:55,Boston University,Jonas Harper,Foul,47,41
+13:54,Colgate,Jordan Burns,Missed Three Point Jumper,47,41
+13:54,Boston University,Max Mahoney,Defensive Rebound,47,41
+13:47,Boston University,Tyler Scanlon,Jumper,47,43
+13:30,Colgate,Malcolm Regisford,Layup,49,43
+13:10,Boston University,Tyler Scanlon,Missed Jumper,49,43
+13:10,Colgate,Tucker Richardson,Defensive Rebound,49,43
+13:01,Colgate,Jordan Burns,Missed Three Point Jumper,49,43
+13:01,Boston University,Sukhmail Mathon,Defensive Rebound,49,43
+12:41,Boston University,Sukhmail Mathon,Missed Three Point Jumper,49,43
+12:41,Boston University,Tyler Scanlon,Offensive Rebound,49,43
+12:34,Boston University,Tyler Scanlon,Missed Three Point Jumper,49,43
+12:34,Colgate,Will Rayman,Defensive Rebound,49,43
+12:33,Boston University,Max Mahoney,Foul,49,43
+12:33,Colgate,Jordan Burns,Free Throw,50,43
+12:33,Colgate,Jordan Burns,Free Throw,51,43
+12:18,Colgate,Rapolas Ivanauskas,Missed Three Point Jumper,51,43
+12:18,Boston University,Sukhmail Mathon,Defensive Rebound,51,43
+11:58,Boston University,Jonas Harper,Missed Layup,51,43
+11:58,Colgate,Rapolas Ivanauskas,Defensive Rebound,51,43
+11:44,Colgate,Francisco Amiel,Three Point Jumper,54,43
+11:28,Boston University,Tyler Scanlon,Three Point Jumper,54,46
+11:12,Colgate,Jordan Burns,Jumper,56,46
+10:56,Boston University,Jack Hemphill,Missed Three Point Jumper,56,46
+10:56,Colgate,Malcolm Regisford,Defensive Rebound,56,46
+10:45,Colgate,Rapolas Ivanauskas,Jumper,58,46
+10:20,Boston University,Jonas Harper,Missed Three Point Jumper,58,46
+10:20,Boston University,Tyler Scanlon,Offensive Rebound,58,46
+10:14,Boston University,Jonas Harper,Three Point Jumper,58,49
+9:51,Colgate,Rapolas Ivanauskas,Missed Layup,58,49
+9:51,Boston University,Tyler Scanlon,Defensive Rebound,58,49
+9:34,Colgate,Jordan Burns,Foul,58,49
+9:28,Boston University,None,None,58,49
+9:07,Boston University,Boston University ,Turnover,58,49
+8:46,Boston University,Jordan Guest,Foul,58,49
+8:32,Colgate,Will Rayman,Jumper,60,49
+8:18,Colgate,Francisco Amiel,Foul,60,49
+8:04,Colgate,Francisco Amiel,Foul,60,49
+8:04,Boston University,Max Mahoney,Free Throw,60,50
+8:04,Boston University,Max Mahoney,Free Throw,60,51
+7:53,Colgate,Malcolm Regisford,Dunk,62,51
+7:43,Boston University,Javante McCoy,Missed Three Point Jumper,62,51
+7:43,Colgate,Jordan Burns,Defensive Rebound,62,51
+7:24,Boston University,None,None,62,51
+7:15,Boston University,Max Mahoney,Foul,62,51
+7:03,Colgate,Will Rayman,Jumper,64,51
+6:36,Boston University,Andrew Petcash,Missed Three Point Jumper,64,51
+6:36,Colgate,Malcolm Regisford,Defensive Rebound,64,51
+6:18,Colgate,Will Rayman,Missed Three Point Jumper,64,51
+6:18,Boston University,Jordan Guest,Defensive Rebound,64,51
+6:15,Colgate,Malcolm Regisford,Foul,64,51
+6:07,Boston University,Jordan Guest,Foul,64,51
+6:07,Boston University,Jordan Guest,Turnover,64,51
+5:57,Colgate,Jordan Burns,Missed Jumper,64,51
+5:57,Colgate,Malcolm Regisford,Offensive Rebound,64,51
+5:53,Boston University,Max Mahoney,Foul,64,51
+5:53,Colgate,Malcolm Regisford,Missed Free Throw,64,51
+5:53,Colgate,None,Team Rebound,64,51
+5:53,Colgate,Malcolm Regisford,Free Throw,65,51
+5:39,Boston University,Andrew Petcash,Missed Three Point Jumper,65,51
+5:39,Colgate,Malcolm Regisford,Defensive Rebound,65,51
+5:18,Boston University,Jordan Guest,Foul,65,51
+5:18,Colgate,Will Rayman,Free Throw,66,51
+5:18,Colgate,Will Rayman,Free Throw,67,51
+5:11,Boston University,Tyler Scanlon,Missed Jumper,67,51
+5:11,Colgate,Will Rayman,Defensive Rebound,67,51
+4:55,Colgate,Francisco Amiel,Turnover,67,51
+4:54,Boston University,Tyler Scanlon,Steal,67,51
+4:43,Boston University,Javante McCoy,Missed Jumper,67,51
+4:43,Colgate,Rapolas Ivanauskas,Defensive Rebound,67,51
+4:17,Colgate,Rapolas Ivanauskas,Layup,69,51
+4:09,Boston University,None,None,69,51
+3:55,Boston University,Jonas Harper,Three Point Jumper,69,54
+3:28,Colgate,Will Rayman,Layup,71,54
+3:15,Colgate,Tucker Richardson,Foul,71,54
+3:15,Boston University,None,None,71,54
+3:15,Boston University,Alex Vilarino,Turnover,71,54
+2:48,Colgate,Jordan Burns,Missed Three Point Jumper,71,54
+2:48,Colgate,Rapolas Ivanauskas,Offensive Rebound,71,54
+2:32,Colgate,Malcolm Regisford,Layup,73,54
+2:18,Boston University,Max Mahoney,Missed Jumper,73,54
+2:18,Colgate,Tucker Richardson,Defensive Rebound,73,54
+1:53,Boston University,Max Mahoney,Foul,73,54
+1:53,Colgate,Rapolas Ivanauskas,Free Throw,74,54
+1:53,Colgate,Rapolas Ivanauskas,Free Throw,75,54
+1:38,Colgate,Rapolas Ivanauskas,Foul,75,54
+1:38,Boston University,Fletcher Tynen,Missed Free Throw,75,54
+1:38,Colgate,Malcolm Regisford,Defensive Rebound,75,54
+1:10,Colgate,Rapolas Ivanauskas,Layup,77,54
+0:54,Boston University,Kamali Chambers,Turnover,77,54
+0:36,Colgate,Sam Lindgren,Turnover,77,54
+0:26,Colgate,Jack Ferguson,Foul,77,54
+0:26,Boston University,Fletcher Tynen,Free Throw,77,55
+0:26,Boston University,Fletcher Tynen,Free Throw,77,56
+0:00,Boston University,None,None,77,56

@@ -1,0 +1,480 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:45,Memphis,Tyler Harris,Turnover,0,0
+19:24,Yale,Trey Phills,Missed Layup,0,0
+19:20,Memphis,Isaiah Maurice,Defensive Rebound,0,0
+19:10,Memphis,Kyvon Davenport,Missed Layup,0,0
+19:10,Yale,Jordan Bruner,Block,0,0
+19:06,Yale,Jordan Bruner,Defensive Rebound,0,0
+18:52,Yale,Miye Oni,Layup,2,0
+18:38,Yale,Miye Oni,Foul,2,0
+18:21,Yale,Jordan Bruner,Foul,2,0
+18:21,Memphis,Jeremiah Martin,Missed Free Throw,2,0
+18:21,Memphis,None,Team Rebound,2,0
+18:21,Memphis,Jeremiah Martin,Free Throw,2,1
+18:16,Yale,Alex Copeland,Turnover,2,1
+18:16,Memphis,Jeremiah Martin,Steal,2,1
+18:14,Memphis,Jeremiah Martin,Foul,2,1
+18:14,Memphis,Jeremiah Martin,Turnover,2,1
+18:11,Yale,Alex Copeland,Turnover,2,1
+18:11,Memphis,Tyler Harris,Steal,2,1
+17:27,Yale,Miye Oni,Turnover,2,3
+17:10,Yale,Blake Reynolds,Defensive Rebound,2,3
+16:59,Yale,Jordan Bruner,Missed Layup,2,3
+16:56,Yale,Jordan Bruner,Offensive Rebound,2,3
+16:55,Memphis,Kyvon Davenport,Foul,2,3
+16:55,Yale,Jordan Bruner,Free Throw,3,3
+16:55,Yale,Jordan Bruner,Free Throw,4,3
+16:47,Yale,Trey Phills,Foul,4,3
+16:47,Memphis,Tyler Harris,Free Throw,4,4
+16:47,Memphis,Tyler Harris,Free Throw,4,5
+16:47,Memphis,Tyler Harris,Free Throw,4,6
+16:36,Memphis,Isaiah Maurice,Foul,4,6
+16:36,Yale,Trey Phills,Free Throw,5,6
+16:36,Yale,Trey Phills,Free Throw,6,6
+16:19,Memphis,Jeremiah Martin,Turnover,6,6
+16:19,Yale,Alex Copeland,Steal,6,6
+16:15,Yale,Alex Copeland,Missed Layup,6,6
+16:09,Yale,Jordan Bruner,Offensive Rebound,6,6
+16:09,Yale,Jordan Bruner,Layup,8,6
+16:09,Yale,Jordan Bruner,Foul,8,6
+16:09,Memphis,Isaiah Maurice,Free Throw,8,7
+16:09,Memphis,Isaiah Maurice,Free Throw,8,8
+15:55,Yale,Miye Oni,Missed Three Point Jumper,8,8
+15:51,Memphis,Kareem Brewton Jr.,Defensive Rebound,8,8
+15:48,Memphis,Mike Parks Jr.,Layup,8,10
+15:32,Yale,Azar Swain,Three Point Jumper,11,10
+15:06,Yale,Blake Reynolds,Three Point Jumper,14,12
+14:48,Memphis,Raynere Thornton,Turnover,14,12
+14:48,Yale,Azar Swain,Steal,14,12
+14:44,Yale,Alex Copeland,Missed Layup,14,12
+14:44,Memphis,Mike Parks Jr.,Block,14,12
+14:43,Yale,Yale,Offensive Rebound,14,12
+14:43,Memphis,None,None,14,12
+14:38,Yale,Alex Copeland,Turnover,14,12
+14:38,Memphis,Kareem Brewton Jr.,Steal,14,12
+14:22,Memphis,Antwann Jones,Jumper,14,14
+14:00,Yale,Azar Swain,Three Point Jumper,17,14
+13:39,Memphis,Kareem Brewton Jr.,Missed Jumper,17,14
+13:36,Memphis,Mike Parks Jr.,Offensive Rebound,17,14
+13:34,Memphis,Mike Parks Jr.,Missed Layup,17,14
+13:28,Memphis,Mike Parks Jr.,Offensive Rebound,17,14
+13:28,Memphis,Mike Parks Jr.,Layup,17,16
+13:08,Memphis,Raynere Thornton,Foul,17,16
+13:05,Yale,Azar Swain,Three Point Jumper,20,16
+12:53,Memphis,Mike Parks Jr.,Foul,20,16
+12:53,Memphis,Mike Parks Jr.,Turnover,20,16
+12:38,Yale,Trey Phills,Three Point Jumper,23,16
+12:23,Memphis,David Wingett,Missed Three Point Jumper,23,16
+12:21,Memphis,None,Team Rebound,23,16
+12:21,Yale,Paul Atkinson,Foul,23,16
+12:02,Memphis,Alex Lomax,Jumper,23,18
+11:46,Yale,Azar Swain,Missed Three Point Jumper,23,18
+11:42,Memphis,Alex Lomax,Defensive Rebound,23,18
+11:38,Memphis,Alex Lomax,Layup,23,20
+11:27,Yale,Azar Swain,Foul,23,20
+11:27,Yale,Azar Swain,Turnover,23,20
+11:27,Memphis,None,None,23,20
+11:18,Yale,Paul Atkinson,Foul,23,20
+11:18,Memphis,Kyvon Davenport,Free Throw,23,21
+11:18,Memphis,Kyvon Davenport,Missed Free Throw,23,21
+11:16,Yale,Blake Reynolds,Defensive Rebound,23,21
+10:57,Yale,Miye Oni,Three Point Jumper,26,21
+10:48,Memphis,Alex Lomax,Missed Jumper,26,21
+10:46,Memphis,Alex Lomax,Offensive Rebound,26,21
+10:46,Memphis,Alex Lomax,Missed Layup,26,21
+10:46,Yale,None,Team Rebound,26,21
+10:46,Memphis,Isaiah Maurice,Foul,26,21
+10:23,Yale,Trey Phills,Missed Layup,26,21
+10:23,Memphis,Kyvon Davenport,Block,26,21
+10:23,Memphis,Isaiah Maurice,Defensive Rebound,26,21
+10:22,Yale,Trey Phills,Foul,26,21
+10:22,Memphis,Isaiah Maurice,Free Throw,26,22
+10:22,Memphis,Isaiah Maurice,Free Throw,26,23
+10:00,Yale,Matthue Cotton,Missed Three Point Jumper,26,23
+9:56,Yale,Austin Williams,Offensive Rebound,26,23
+9:53,Yale,Austin Williams,Layup,28,23
+9:39,Yale,Blake Reynolds,Foul,28,23
+9:39,Memphis,Mike Parks Jr.,Free Throw,28,24
+9:38,Memphis,Mike Parks Jr.,Missed Free Throw,28,24
+9:36,Yale,Miye Oni,Defensive Rebound,28,24
+9:22,Yale,Blake Reynolds,Missed Three Point Jumper,28,24
+9:18,Memphis,Tyler Harris,Defensive Rebound,28,24
+9:12,Memphis,Tyler Harris,Layup,28,26
+8:55,Yale,Blake Reynolds,Missed Layup,28,26
+8:52,Memphis,Mike Parks Jr.,Defensive Rebound,28,26
+8:47,Memphis,Jeremiah Martin,Missed Layup,28,26
+8:44,Memphis,Kyvon Davenport,Offensive Rebound,28,26
+8:44,Memphis,Kyvon Davenport,Missed Dunk,28,26
+8:43,Yale,Austin Williams,Defensive Rebound,28,26
+8:43,Memphis,Kyvon Davenport,Foul,28,26
+8:43,Yale,Austin Williams,Free Throw,29,26
+8:43,Yale,Austin Williams,Missed Free Throw,29,26
+8:40,Memphis,Antwann Jones,Defensive Rebound,29,26
+8:23,Memphis,Antwann Jones,Missed Three Point Jumper,29,26
+8:20,Yale,Trey Phills,Defensive Rebound,29,26
+8:16,Yale,Trey Phills,Layup,31,26
+7:44,Memphis,Jeremiah Martin,Layup,31,28
+7:22,Yale,Matthue Cotton,Missed Jumper,31,28
+7:21,Memphis,None,Team Rebound,31,28
+7:21,Yale,Austin Williams,Foul,31,28
+7:21,Memphis,None,None,31,28
+7:21,Memphis,Mike Parks Jr.,Missed Free Throw,31,28
+7:21,Memphis,None,Team Rebound,31,28
+7:21,Memphis,Mike Parks Jr.,Free Throw,31,29
+7:15,Yale,Isaiah Kelly,Foul,31,29
+7:15,Yale,Isaiah Kelly,Turnover,31,29
+6:59,Yale,Blake Reynolds,Foul,31,29
+6:59,Memphis,Mike Parks Jr.,Free Throw,31,30
+6:59,Memphis,Mike Parks Jr.,Missed Free Throw,31,30
+6:57,Yale,Isaiah Kelly,Defensive Rebound,31,30
+6:56,Yale,Isaiah Kelly,Turnover,31,30
+6:56,Memphis,Alex Lomax,Steal,31,30
+6:51,Memphis,Alex Lomax,Layup,31,32
+6:42,Yale,Azar Swain,Turnover,31,32
+6:39,Memphis,Mike Parks Jr.,Turnover,31,32
+6:39,Yale,Alex Copeland,Steal,31,32
+6:34,Yale,Alex Copeland,Jumper,33,32
+6:27,Memphis,Raynere Thornton,Jumper,33,34
+6:07,Memphis,Antwann Jones,Foul,33,34
+6:07,Yale,Alex Copeland,Free Throw,34,34
+6:07,Yale,Alex Copeland,Missed Free Throw,34,34
+6:07,Yale,None,Team Rebound,34,34
+6:07,Yale,Alex Copeland,Free Throw,35,34
+5:53,Memphis,Antwann Jones,Layup,35,36
+5:43,Yale,Miye Oni,Turnover,35,36
+5:43,Memphis,Antwann Jones,Steal,35,36
+5:38,Memphis,Antwann Jones,Missed Layup,35,36
+5:33,Yale,Miye Oni,Defensive Rebound,35,36
+5:33,Yale,Yale ,Turnover,35,36
+5:23,Yale,Alex Copeland,Foul,35,36
+5:23,Memphis,Kareem Brewton Jr.,Free Throw,35,37
+5:23,Memphis,Kareem Brewton Jr.,Missed Free Throw,35,37
+5:20,Yale,Miye Oni,Defensive Rebound,35,37
+5:08,Yale,Alex Copeland,Missed Jumper,35,37
+5:04,Memphis,Raynere Thornton,Defensive Rebound,35,37
+5:00,Memphis,Kareem Brewton Jr.,Missed Jumper,35,37
+4:56,Memphis,Kareem Brewton Jr.,Offensive Rebound,35,37
+4:56,Memphis,Kareem Brewton Jr.,Layup,35,39
+4:56,Yale,None,None,35,39
+4:41,Memphis,Antwann Jones,Foul,35,39
+4:41,Yale,Miye Oni,Free Throw,36,39
+4:41,Yale,Miye Oni,Free Throw,37,39
+4:34,Memphis,Antwann Jones,Missed Three Point Jumper,37,39
+4:31,Memphis,Jeremiah Martin,Offensive Rebound,37,39
+4:08,Memphis,Victor Enoh,Turnover,37,39
+4:01,Yale,Miye Oni,Missed Three Point Jumper,37,39
+3:57,Memphis,Kareem Brewton Jr.,Defensive Rebound,37,39
+3:39,Memphis,Kareem Brewton Jr.,Jumper,37,41
+3:24,Yale,Alex Copeland,Missed Three Point Jumper,37,41
+3:19,Memphis,Jeremiah Martin,Defensive Rebound,37,41
+3:16,Memphis,Jeremiah Martin,Missed Layup,37,41
+3:11,Memphis,Kareem Brewton Jr.,Offensive Rebound,37,41
+3:11,Memphis,Kareem Brewton Jr.,Missed Layup,37,41
+3:10,Yale,Paul Atkinson,Defensive Rebound,37,41
+2:59,Yale,Azar Swain,Missed Three Point Jumper,37,41
+2:55,Memphis,Kareem Brewton Jr.,Defensive Rebound,37,41
+2:47,Yale,Paul Atkinson,Foul,37,41
+2:47,Memphis,None,None,37,41
+2:47,Memphis,Victor Enoh,Missed Free Throw,37,41
+2:47,Memphis,None,Team Rebound,37,41
+2:47,Memphis,Victor Enoh,Missed Free Throw,37,41
+2:45,Yale,Blake Reynolds,Defensive Rebound,37,41
+2:30,Memphis,Jeremiah Martin,Foul,37,41
+2:30,Yale,Blake Reynolds,Free Throw,38,41
+2:28,Yale,Blake Reynolds,Missed Free Throw,38,41
+2:26,Memphis,Alex Lomax,Defensive Rebound,38,41
+2:15,Yale,Austin Williams,Foul,38,41
+2:15,Memphis,Alex Lomax,Free Throw,38,42
+2:15,Memphis,Alex Lomax,Free Throw,38,43
+2:01,Yale,Miye Oni,Foul,38,43
+2:01,Yale,Miye Oni,Turnover,38,43
+1:48,Memphis,Raynere Thornton,Turnover,38,43
+1:48,Yale,Blake Reynolds,Steal,38,43
+1:44,Yale,Miye Oni,Layup,40,43
+1:35,Memphis,Mike Parks Jr.,Missed Jumper,40,43
+1:27,Memphis,Mike Parks Jr.,Offensive Rebound,40,43
+1:27,Memphis,Mike Parks Jr.,Layup,40,45
+1:05,Yale,Azar Swain,Jumper,42,45
+0:53,Memphis,Tyler Harris,Missed Three Point Jumper,42,45
+0:49,Yale,Miye Oni,Defensive Rebound,42,45
+0:39,Yale,Miye Oni,Missed Layup,42,45
+0:39,Memphis,David Wingett,Block,42,45
+0:38,Yale,Yale,Offensive Rebound,42,45
+0:37,Yale,Blake Reynolds,Three Point Jumper,45,45
+0:15,Memphis,None,None,45,45
+0:12,Yale,Jameel Alausa,Foul,45,45
+0:12,Memphis,Alex Lomax,Free Throw,45,46
+0:12,Memphis,Alex Lomax,Free Throw,45,47
+0:02,Yale,Matthue Cotton,Missed Three Point Jumper,45,47
+0:00,Yale,Yale,Offensive Rebound,45,47
+0:00,Memphis,None,None,45,47
+19:35,Memphis,Isaiah Maurice,Defensive Rebound,45,47
+19:28,Memphis,Tyler Harris,Missed Jumper,45,47
+19:28,Yale,Trey Phills,Block,45,47
+19:22,Memphis,Tyler Harris,Offensive Rebound,45,47
+19:21,Memphis,Isaiah Maurice,Missed Three Point Jumper,45,47
+19:18,Yale,Miye Oni,Defensive Rebound,45,47
+19:17,Yale,Alex Copeland,Missed Layup,45,47
+19:17,Memphis,Isaiah Maurice,Block,45,47
+19:12,Memphis,Kyvon Davenport,Defensive Rebound,45,47
+19:10,Memphis,Jeremiah Martin,Missed Jumper,45,47
+19:05,Memphis,Isaiah Maurice,Offensive Rebound,45,47
+19:05,Memphis,Isaiah Maurice,Layup,45,49
+19:00,Yale,Jordan Bruner,Layup,47,49
+19:00,Memphis,Isaiah Maurice,Foul,47,49
+19:00,Yale,Jordan Bruner,Free Throw,48,49
+18:48,Memphis,Kyvon Davenport,Missed Layup,48,49
+18:43,Yale,Alex Copeland,Defensive Rebound,48,49
+18:27,Yale,Blake Reynolds,Missed Three Point Jumper,48,49
+18:23,Memphis,Isaiah Maurice,Defensive Rebound,48,49
+18:19,Memphis,Isaiah Maurice,Layup,48,51
+17:58,Yale,Blake Reynolds,Jumper,50,51
+17:35,Memphis,Alex Lomax,Turnover,50,51
+17:07,Memphis,Isaiah Maurice,Foul,50,51
+17:07,Yale,Alex Copeland,Free Throw,51,51
+17:07,Yale,Alex Copeland,Free Throw,52,51
+17:00,Memphis,Tyler Harris,Three Point Jumper,52,54
+16:40,Yale,Jordan Bruner,Missed Jumper,52,54
+16:35,Yale,Jordan Bruner,Offensive Rebound,52,54
+16:35,Yale,Jordan Bruner,Layup,54,54
+16:15,Memphis,Tyler Harris,Three Point Jumper,54,57
+16:00,Yale,Trey Phills,Missed Three Point Jumper,54,57
+15:56,Memphis,Raynere Thornton,Defensive Rebound,54,57
+15:55,Memphis,None,None,54,57
+15:55,Memphis,Raynere Thornton,Turnover,54,57
+15:55,Memphis,None,None,54,57
+15:35,Yale,Miye Oni,Turnover,54,57
+15:21,Memphis,Alex Lomax,Turnover,54,57
+15:21,Yale,Blake Reynolds,Steal,54,57
+15:16,Yale,Miye Oni,Turnover,54,57
+15:16,Memphis,Jeremiah Martin,Steal,54,57
+15:08,Memphis,Tyler Harris,Missed Three Point Jumper,54,57
+15:05,Yale,Jordan Bruner,Defensive Rebound,54,57
+14:59,Yale,Miye Oni,Turnover,54,57
+14:49,Memphis,Kyvon Davenport,Three Point Jumper,54,60
+14:17,Yale,Azar Swain,Turnover,54,60
+14:17,Memphis,Kareem Brewton Jr.,Steal,54,60
+14:13,Memphis,Tyler Harris,Layup,54,62
+14:05,Memphis,Tyler Harris,Foul,54,62
+13:55,Yale,Paul Atkinson,Layup,56,62
+13:33,Yale,Trey Phills,Foul,56,62
+13:18,Memphis,Raynere Thornton,Layup,56,64
+12:53,Yale,Trey Phills,Turnover,56,64
+12:53,Memphis,Raynere Thornton,Steal,56,64
+12:50,Memphis,Raynere Thornton,Turnover,56,64
+12:50,Yale,Azar Swain,Steal,56,64
+12:47,Yale,Paul Atkinson,Dunk,58,64
+12:17,Yale,Matthue Cotton,Foul,58,64
+11:43,Yale,Azar Swain,Three Point Jumper,61,64
+11:22,Yale,Eric Monroe,Foul,61,64
+11:22,Memphis,None,None,61,64
+11:10,Memphis,Kareem Brewton Jr.,Missed Jumper,61,64
+11:06,Yale,Blake Reynolds,Defensive Rebound,61,64
+10:44,Yale,Paul Atkinson,Dunk,63,64
+10:20,Memphis,Tyler Harris,Three Point Jumper,63,67
+9:57,Yale,Miye Oni,Missed Jumper,63,67
+9:54,Yale,Blake Reynolds,Offensive Rebound,63,67
+9:52,Yale,Azar Swain,Turnover,63,67
+9:43,Memphis,Tyler Harris,Missed Three Point Jumper,63,67
+9:40,Memphis,Raynere Thornton,Offensive Rebound,63,67
+9:38,Yale,Azar Swain,Foul,63,67
+9:31,Yale,Blake Reynolds,Foul,63,67
+9:31,Memphis,Antwann Jones,Missed Free Throw,63,67
+9:31,Memphis,None,Team Rebound,63,67
+9:31,Memphis,Antwann Jones,Free Throw,63,68
+9:12,Yale,Miye Oni,Turnover,63,68
+9:12,Memphis,Alex Lomax,Steal,63,68
+9:08,Memphis,Alex Lomax,Missed Layup,63,68
+9:05,Yale,Miye Oni,Defensive Rebound,63,68
+9:05,Yale,Miye Oni,Turnover,63,68
+9:05,Memphis,Alex Lomax,Steal,63,68
+8:55,Yale,Jordan Bruner,Foul,63,68
+8:55,Memphis,Antwann Jones,Free Throw,63,69
+8:55,Memphis,Antwann Jones,Free Throw,63,70
+8:40,Yale,Jordan Bruner,Layup,65,70
+8:24,Memphis,Antwann Jones,Missed Three Point Jumper,65,70
+8:21,Yale,Azar Swain,Defensive Rebound,65,70
+7:58,Yale,Jordan Bruner,Layup,67,70
+7:45,Yale,Eric Monroe,Foul,67,70
+7:45,Memphis,None,None,67,70
+7:45,Memphis,Alex Lomax,Free Throw,67,71
+7:45,Memphis,Alex Lomax,Missed Free Throw,67,71
+7:43,Memphis,Kyvon Davenport,Offensive Rebound,67,71
+7:34,Memphis,Kyvon Davenport,Missed Three Point Jumper,67,71
+7:31,Yale,Alex Copeland,Defensive Rebound,67,71
+7:04,Yale,Jordan Bruner,Missed Three Point Jumper,67,71
+7:02,Memphis,None,Team Rebound,67,71
+6:51,Memphis,Jeremiah Martin,Turnover,67,71
+6:40,Yale,Paul Atkinson,Layup,69,71
+6:30,Memphis,Raynere Thornton,Missed Three Point Jumper,69,71
+6:26,Yale,Jordan Bruner,Defensive Rebound,69,71
+6:02,Yale,Alex Copeland,Missed Jumper,69,71
+5:59,Memphis,Raynere Thornton,Defensive Rebound,69,71
+5:38,Memphis,Kareem Brewton Jr.,Missed Three Point Jumper,69,71
+5:35,Memphis,Kyvon Davenport,Offensive Rebound,69,71
+5:33,Memphis,Jeremiah Martin,Three Point Jumper,69,74
+5:20,Yale,Jordan Bruner,Turnover,69,74
+5:20,Yale,Jordan Bruner,Foul,69,74
+5:11,Memphis,None,None,69,74
+5:11,Memphis,None,None,69,74
+4:55,Memphis,Alex Lomax,Missed Three Point Jumper,69,74
+4:52,Yale,Eric Monroe,Defensive Rebound,69,74
+4:31,Yale,Miye Oni,Layup,71,74
+4:08,Memphis,Jeremiah Martin,Missed Three Point Jumper,71,74
+4:05,Yale,Blake Reynolds,Defensive Rebound,71,74
+3:54,Memphis,Alex Lomax,Foul,71,74
+3:54,Memphis,None,None,71,74
+3:46,Yale,Miye Oni,Layup,73,74
+3:33,Yale,Blake Reynolds,Foul,73,74
+3:33,Memphis,Kyvon Davenport,Missed Free Throw,73,74
+3:24,Yale,Trey Phills,Foul,73,74
+3:24,Yale,Trey Phills,Turnover,73,74
+3:15,Memphis,Tyler Harris,Turnover,73,74
+3:15,Yale,Eric Monroe,Steal,73,74
+3:11,Yale,Eric Monroe,Layup,75,74
+3:10,Memphis,Kyvon Davenport,Foul,75,74
+3:10,Yale,Eric Monroe,Free Throw,76,74
+3:02,Memphis,Jeremiah Martin,Missed Jumper,76,74
+2:58,Yale,Miye Oni,Defensive Rebound,76,74
+2:46,Yale,Paul Atkinson,Turnover,76,74
+2:46,Yale,Paul Atkinson,Foul,76,74
+2:33,Yale,Paul Atkinson,Foul,76,74
+2:33,Memphis,Jeremiah Martin,Missed Free Throw,76,74
+2:33,Memphis,None,Team Rebound,76,74
+2:33,Memphis,Jeremiah Martin,Free Throw,76,75
+2:15,Memphis,Mike Parks Jr.,Foul,76,75
+2:15,Yale,Miye Oni,Free Throw,77,75
+2:15,Yale,Miye Oni,Free Throw,78,75
+2:03,Memphis,Alex Lomax,Missed Jumper,78,75
+1:59,Yale,Jordan Bruner,Defensive Rebound,78,75
+1:43,Yale,Azar Swain,Three Point Jumper,81,75
+1:39,Memphis,None,None,81,75
+1:39,Memphis,None,None,81,75
+1:27,Memphis,Jeremiah Martin,Layup,81,77
+1:08,Yale,Miye Oni,Turnover,81,77
+1:08,Memphis,Kareem Brewton Jr.,Steal,81,77
+1:04,Memphis,Kareem Brewton Jr.,Layup,81,79
+0:45,Yale,Miye Oni,Missed Dunk,81,79
+0:43,Yale,Blake Reynolds,Offensive Rebound,81,79
+0:43,Memphis,Kareem Brewton Jr.,Foul,81,79
+0:43,Yale,Blake Reynolds,Free Throw,82,79
+0:42,Yale,Blake Reynolds,Missed Free Throw,82,79
+0:40,Memphis,Mike Parks Jr.,Defensive Rebound,82,79
+0:35,Yale,Jordan Bruner,Foul,82,79
+0:35,Memphis,Tyler Harris,Missed Free Throw,82,79
+0:35,Memphis,None,Team Rebound,82,79
+0:35,Memphis,Tyler Harris,Free Throw,82,80
+0:31,Yale,None,None,82,80
+0:15,Memphis,Kareem Brewton Jr.,Foul,82,80
+0:15,Memphis,None,None,82,80
+0:15,Yale,Blake Reynolds,Free Throw,83,80
+0:14,Yale,Blake Reynolds,Missed Free Throw,83,80
+0:13,Memphis,Alex Lomax,Defensive Rebound,83,80
+0:06,Memphis,Tyler Harris,Missed Three Point Jumper,83,80
+0:04,Memphis,Memphis,Offensive Rebound,83,80
+0:02,Yale,Trey Phills,Foul,83,80
+0:02,Memphis,Tyler Harris,Free Throw,83,81
+0:02,Memphis,Tyler Harris,Free Throw,83,82
+0:02,Yale,None,None,83,82
+0:02,Memphis,Tyler Harris,Free Throw,83,83
+0:02,Yale,None,None,83,83
+0:00,Memphis,None,None,83,83
+4:48,Yale,Miye Oni,Missed Three Point Jumper,83,83
+4:45,Yale,Azar Swain,Offensive Rebound,83,83
+4:30,Yale,Alex Copeland,Jumper,85,83
+4:14,Memphis,Kyvon Davenport,Missed Layup,85,83
+4:14,Yale,Miye Oni,Block,85,83
+4:09,Memphis,Memphis,Offensive Rebound,85,83
+3:57,Memphis,Tyler Harris,Missed Three Point Jumper,85,83
+3:54,Yale,Blake Reynolds,Defensive Rebound,85,83
+3:34,Yale,Alex Copeland,Three Point Jumper,88,83
+3:22,Memphis,Kareem Brewton Jr.,Layup,88,85
+3:09,Yale,Alex Copeland,Layup,90,85
+2:54,Yale,Blake Reynolds,Foul,90,85
+2:54,Memphis,Jeremiah Martin,Free Throw,90,86
+2:54,Memphis,Jeremiah Martin,Free Throw,90,87
+2:45,Yale,Eric Monroe,Turnover,90,87
+2:39,Yale,Azar Swain,Foul,90,87
+2:39,Memphis,Jeremiah Martin,Missed Free Throw,90,87
+2:39,Memphis,None,Team Rebound,90,87
+2:39,Memphis,Jeremiah Martin,Missed Free Throw,90,87
+2:37,Yale,Austin Williams,Defensive Rebound,90,87
+2:32,Yale,Alex Copeland,Missed Jumper,90,87
+2:26,Memphis,Kareem Brewton Jr.,Defensive Rebound,90,87
+2:24,Memphis,Alex Lomax,Turnover,90,87
+2:24,Yale,Azar Swain,Steal,90,87
+2:23,Memphis,Kareem Brewton Jr.,Foul,90,87
+2:23,Yale,Miye Oni,Missed Free Throw,90,87
+2:23,Yale,None,Team Rebound,90,87
+2:23,Yale,Miye Oni,Missed Free Throw,90,87
+2:23,Yale,None,Team Rebound,90,87
+2:15,Yale,Eric Monroe,Turnover,90,87
+2:15,Memphis,Jeremiah Martin,Steal,90,87
+2:11,Memphis,Jeremiah Martin,Layup,90,89
+1:58,Memphis,Tyler Harris,Foul,90,89
+1:58,Yale,Alex Copeland,Free Throw,91,89
+1:58,Yale,Alex Copeland,Free Throw,92,89
+1:46,Memphis,Kyvon Davenport,Dunk,92,91
+1:11,Yale,Alex Copeland,Jumper,94,91
+0:58,Memphis,Tyler Harris,Missed Three Point Jumper,94,91
+0:54,Yale,Alex Copeland,Defensive Rebound,94,91
+0:49,Memphis,Jeremiah Martin,Foul,94,91
+0:49,Yale,Alex Copeland,Free Throw,95,91
+0:49,Yale,Alex Copeland,Free Throw,96,91
+0:41,Memphis,Kyvon Davenport,Layup,96,93
+0:41,Yale,Austin Williams,Foul,96,93
+0:41,Memphis,Kyvon Davenport,Free Throw,96,94
+0:15,Yale,Alex Copeland,Missed Jumper,96,94
+0:11,Memphis,Kareem Brewton Jr.,Defensive Rebound,96,94
+0:08,Yale,Austin Williams,Foul,96,94
+0:08,Memphis,Jeremiah Martin,Free Throw,96,95
+0:08,Memphis,Jeremiah Martin,Missed Free Throw,96,95
+0:06,Memphis,Kyvon Davenport,Offensive Rebound,96,95
+0:06,Memphis,None,None,96,95
+0:03,Memphis,None,Team Rebound,96,95
+0:03,Memphis,Kyvon Davenport,Free Throw,96,96
+0:03,Yale,Azar Swain,Foul,96,95
+0:03,Memphis,Kyvon Davenport,Missed Free Throw,96,95
+0:03,Yale,None,None,96,95
+0:00,Memphis,None,None,96,95
+4:28,Yale,Azar Swain,Missed Three Point Jumper,96,96
+4:25,Memphis,Tyler Harris,Defensive Rebound,96,96
+4:11,Memphis,Jeremiah Martin,Layup,96,98
+3:52,Yale,Alex Copeland,Missed Jumper,96,98
+3:49,Memphis,Jeremiah Martin,Defensive Rebound,96,98
+3:33,Memphis,Kareem Brewton Jr.,Three Point Jumper,96,101
+3:16,Yale,Miye Oni,Missed Three Point Jumper,96,101
+3:12,Memphis,Kyvon Davenport,Defensive Rebound,96,101
+2:51,Memphis,Jeremiah Martin,Missed Three Point Jumper,96,101
+2:47,Yale,Miye Oni,Defensive Rebound,96,101
+2:30,Yale,Miye Oni,Missed Three Point Jumper,96,101
+2:27,Memphis,Alex Lomax,Defensive Rebound,96,101
+2:11,Memphis,Alex Lomax,Layup,96,103
+2:01,Yale,Alex Copeland,Missed Layup,96,103
+1:56,Memphis,Kyvon Davenport,Defensive Rebound,96,103
+1:33,Yale,Austin Williams,Foul,96,103
+1:33,Memphis,Jeremiah Martin,Free Throw,96,104
+1:33,Memphis,Jeremiah Martin,Free Throw,96,105
+1:27,Yale,None,None,96,105
+1:27,Memphis,None,None,96,105
+1:19,Yale,Eric Monroe,Three Point Jumper,99,105
+0:42,Memphis,Jeremiah Martin,Missed Jumper,99,105
+0:37,Memphis,Jeremiah Martin,Offensive Rebound,99,105
+0:37,Yale,Miye Oni,Foul,99,105
+0:37,Memphis,Jeremiah Martin,Missed Free Throw,99,105
+0:37,Memphis,None,Team Rebound,99,105
+0:37,Memphis,Jeremiah Martin,Free Throw,99,106
+0:32,Yale,Miye Oni,Missed Three Point Jumper,99,106
+0:28,Memphis,Kyvon Davenport,Defensive Rebound,99,106
+0:25,Yale,Matthue Cotton,Foul,99,106
+0:25,Memphis,Jeremiah Martin,Missed Free Throw,99,106
+0:25,Memphis,None,Team Rebound,99,106
+0:25,Memphis,Jeremiah Martin,Free Throw,99,107
+0:19,Yale,Alex Copeland,Three Point Jumper,102,107
+0:17,Yale,Eric Monroe,Foul,102,107
+0:17,Memphis,Tyler Harris,Free Throw,102,108
+0:17,Memphis,Tyler Harris,Free Throw,102,109
+0:11,Yale,Alex Copeland,Missed Three Point Jumper,102,109
+0:08,Memphis,Memphis,Defensive Rebound,102,109
+0:00,Memphis,None,None,102,109
+0:00,Memphis,None,None,102,109

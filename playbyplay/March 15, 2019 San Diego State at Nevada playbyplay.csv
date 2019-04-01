@@ -1,0 +1,311 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,San Diego State,None,None,0,0
+19:49,San Diego State,Nathan Mensah,Missed Layup,0,0
+19:49,Nevada,Trey Porter,Block,0,0
+19:49,Nevada,Cody Martin,Defensive Rebound,0,0
+19:40,Nevada,Cody Martin,Turnover,0,0
+19:40,San Diego State,Jalen McDaniels,Steal,0,0
+19:33,San Diego State,Jalen McDaniels,Layup,2,0
+19:03,Nevada,Caleb Martin,Foul,2,0
+19:03,Nevada,Caleb Martin,Turnover,2,0
+18:56,Nevada,Caleb Martin,Foul,2,0
+18:47,San Diego State,Jalen McDaniels,Missed Jumper,2,0
+18:47,San Diego State,Nathan Mensah,Offensive Rebound,2,0
+18:42,San Diego State,Nathan Mensah,Missed Layup,2,0
+18:42,Nevada,Trey Porter,Defensive Rebound,2,0
+18:33,San Diego State,Nathan Mensah,Foul,2,0
+18:29,Nevada,Cody Martin,Jumper,2,2
+18:13,San Diego State,Nathan Mensah,Missed Jumper,2,2
+18:13,Nevada,Jazz Johnson,Defensive Rebound,2,2
+17:48,Nevada,Cody Martin,Missed Three Point Jumper,2,2
+17:48,San Diego State,Matt Mitchell,Defensive Rebound,2,2
+17:39,San Diego State,Matt Mitchell,Layup,4,2
+17:19,Nevada,Trey Porter,Jumper,4,4
+16:58,San Diego State,Devin Watson,Three Point Jumper,7,4
+16:36,Nevada,Jazz Johnson,Three Point Jumper,7,7
+16:08,San Diego State,Matt Mitchell,Jumper,9,7
+15:54,Nevada,Cody Martin,Three Point Jumper,9,10
+15:16,Nevada,Cody Martin,Foul,9,10
+15:16,Nevada,None,None,9,10
+15:16,San Diego State,Devin Watson,Free Throw,10,10
+15:16,San Diego State,Devin Watson,Free Throw,11,10
+15:16,San Diego State,Devin Watson,Free Throw,12,10
+14:58,Nevada,Cody Martin,Jumper,12,12
+14:34,San Diego State,Jalen McDaniels,Missed Jumper,12,12
+14:34,Nevada,Trey Porter,Defensive Rebound,12,12
+14:18,Nevada,Tre'Shawn Thurman,Missed Jumper,12,12
+14:18,Nevada,Trey Porter,Offensive Rebound,12,12
+14:08,Nevada,Cody Martin,Missed Jumper,12,12
+14:08,San Diego State,Matt Mitchell,Defensive Rebound,12,12
+14:00,San Diego State,Matt Mitchell,Turnover,12,12
+14:00,Nevada,Corey Henson,Steal,12,12
+13:53,Nevada,Trey Porter,Missed Layup,12,12
+13:53,Nevada,Tre'Shawn Thurman,Offensive Rebound,12,12
+13:45,Nevada,Trey Porter,Missed Jumper,12,12
+13:45,San Diego State,Jalen McDaniels,Defensive Rebound,12,12
+13:36,San Diego State,Jalen McDaniels,Missed Jumper,12,12
+13:36,Nevada,Nevada,Defensive Rebound,12,12
+13:20,Nevada,Tre'Shawn Thurman,Three Point Jumper,12,15
+12:54,San Diego State,Jeremy Hemsley,Layup,14,15
+12:40,Nevada,Cody Martin,Jumper,14,17
+12:22,San Diego State,Devin Watson,Missed Three Point Jumper,14,17
+12:22,San Diego State,Aguek Arop,Offensive Rebound,14,17
+12:17,San Diego State,Nolan Narain,Layup,16,17
+12:02,San Diego State,Jordan Schakel,Foul,16,17
+11:55,San Diego State,Nolan Narain,Foul,16,17
+11:55,Nevada,None,None,16,17
+11:46,Nevada,Cody Martin,Missed Jumper,16,17
+11:46,San Diego State,Devin Watson,Defensive Rebound,16,17
+11:38,San Diego State,Jeremy Hemsley,Layup,18,17
+11:21,Nevada,Jordan Brown,Jumper,18,19
+10:53,San Diego State,Adam Seiko,Layup,20,19
+10:44,Nevada,Cody Martin,Three Point Jumper,20,22
+10:15,San Diego State,Jeremy Hemsley,Turnover,20,22
+10:09,Nevada,Jordan Brown,Foul,20,22
+10:09,Nevada,Jordan Brown,Turnover,20,22
+9:49,San Diego State,Nathan Mensah,Missed Jumper,20,22
+9:49,Nevada,Trey Porter,Block,20,22
+9:49,Nevada,Trey Porter,Defensive Rebound,20,22
+9:33,San Diego State,Matt Mitchell,Foul,20,22
+9:20,Nevada,Tre'Shawn Thurman,Missed Layup,20,22
+9:20,San Diego State,Devin Watson,Defensive Rebound,20,22
+9:13,San Diego State,Devin Watson,Layup,22,22
+8:58,Nevada,Trey Porter,Jumper,22,24
+8:27,San Diego State,Jalen McDaniels,Dunk,24,24
+8:06,Nevada,Corey Henson,Missed Jumper,24,24
+8:06,San Diego State,Nathan Mensah,Defensive Rebound,24,24
+7:46,San Diego State,Nathan Mensah,Missed Jumper,24,24
+7:46,Nevada,Tre'Shawn Thurman,Defensive Rebound,24,24
+7:42,Nevada,Corey Henson,Foul,24,24
+7:42,Nevada,Corey Henson,Turnover,24,24
+7:42,Nevada,None,None,24,24
+7:36,San Diego State,Jalen McDaniels,Three Point Jumper,27,24
+7:20,Nevada,Jordan Brown,Turnover,27,24
+7:20,San Diego State,Jalen McDaniels,Steal,27,24
+7:17,San Diego State,Adam Seiko,Turnover,27,24
+7:17,Nevada,Tre'Shawn Thurman,Steal,27,24
+7:10,San Diego State,Adam Seiko,Foul,27,24
+7:05,Nevada,Cody Martin,Jumper,27,26
+6:49,San Diego State,Adam Seiko,Foul,27,26
+6:49,San Diego State,Adam Seiko,Turnover,27,26
+6:34,San Diego State,Nolan Narain,Foul,27,26
+6:34,Nevada,Jordan Brown,Free Throw,27,27
+6:34,Nevada,Jordan Brown,Missed Free Throw,27,27
+6:34,San Diego State,Aguek Arop,Defensive Rebound,27,27
+6:12,San Diego State,Jeremy Hemsley,Missed Three Point Jumper,27,27
+6:12,San Diego State,Devin Watson,Offensive Rebound,27,27
+5:57,San Diego State,Jeremy Hemsley,Foul,27,27
+5:57,San Diego State,Jeremy Hemsley,Turnover,27,27
+5:34,Nevada,Jordan Brown,Missed Jumper,27,27
+5:34,San Diego State,Jalen McDaniels,Defensive Rebound,27,27
+5:18,San Diego State,Jalen McDaniels,Jumper,29,27
+5:04,Nevada,Jazz Johnson,Missed Three Point Jumper,29,27
+5:04,San Diego State,Aguek Arop,Defensive Rebound,29,27
+4:39,San Diego State,Matt Mitchell,Three Point Jumper,32,27
+4:23,Nevada,Tre'Shawn Thurman,Missed Three Point Jumper,32,27
+4:23,San Diego State,Matt Mitchell,Defensive Rebound,32,27
+4:13,San Diego State,Aguek Arop,Missed Layup,32,27
+4:13,Nevada,Tre'Shawn Thurman,Defensive Rebound,32,27
+4:06,Nevada,Cody Martin,Missed Layup,32,27
+4:06,San Diego State,Jeremy Hemsley,Defensive Rebound,32,27
+3:57,San Diego State,Matt Mitchell,Missed Three Point Jumper,32,27
+3:57,Nevada,Cody Martin,Defensive Rebound,32,27
+3:44,Nevada,Tre'Shawn Thurman,Foul,32,27
+3:44,Nevada,Tre'Shawn Thurman,Turnover,32,27
+3:44,Nevada,None,None,32,27
+3:28,San Diego State,Matt Mitchell,Missed Jumper,32,27
+3:28,Nevada,Trey Porter,Defensive Rebound,32,27
+3:07,Nevada,Cody Martin,Missed Three Point Jumper,32,27
+3:07,San Diego State,Jalen McDaniels,Defensive Rebound,32,27
+2:49,San Diego State,Matt Mitchell,Missed Jumper,32,27
+2:49,Nevada,Tre'Shawn Thurman,Defensive Rebound,32,27
+2:43,Nevada,Jazz Johnson,Turnover,32,27
+2:43,San Diego State,Nathan Mensah,Steal,32,27
+2:35,San Diego State,None,None,32,27
+2:32,San Diego State,Jalen McDaniels,Missed Jumper,32,27
+2:32,Nevada,Jazz Johnson,Defensive Rebound,32,27
+2:06,Nevada,Tre'Shawn Thurman,Missed Three Point Jumper,32,27
+2:06,San Diego State,Jalen McDaniels,Defensive Rebound,32,27
+1:56,San Diego State,Devin Watson,Missed Three Point Jumper,32,27
+1:56,Nevada,Jazz Johnson,Defensive Rebound,32,27
+1:48,Nevada,Jazz Johnson,Missed Jumper,32,27
+1:48,Nevada,Tre'Shawn Thurman,Offensive Rebound,32,27
+1:44,Nevada,Tre'Shawn Thurman,Dunk,32,29
+1:44,Nevada,Trey Porter,Foul,32,29
+1:44,San Diego State,Jalen McDaniels,Missed Free Throw,32,29
+1:44,San Diego State,None,Team Rebound,32,29
+1:44,San Diego State,Jalen McDaniels,Missed Free Throw,32,29
+1:44,San Diego State,San Diego State,Offensive Rebound,32,29
+1:17,San Diego State,Devin Watson,Missed Jumper,32,29
+1:17,San Diego State,Nathan Mensah,Offensive Rebound,32,29
+1:11,San Diego State,Nathan Mensah,Missed Jumper,32,29
+1:11,San Diego State,Jalen McDaniels,Offensive Rebound,32,29
+1:07,San Diego State,None,None,32,29
+1:07,Nevada,Cody Martin,Defensive Rebound,32,29
+0:45,Nevada,Corey Henson,Missed Three Point Jumper,32,29
+0:45,San Diego State,San Diego State,Defensive Rebound,32,29
+0:30,San Diego State,Jordan Schakel,Jumper,34,29
+0:08,Nevada,Cody Martin,Missed Three Point Jumper,34,29
+0:08,Nevada,Tre'Shawn Thurman,Offensive Rebound,34,29
+0:00,Nevada,None,None,34,29
+20:00,San Diego State,None,None,34,29
+19:45,San Diego State,Devin Watson,Three Point Jumper,37,29
+19:12,Nevada,Caleb Martin,Missed Three Point Jumper,37,29
+19:12,San Diego State,Devin Watson,Defensive Rebound,37,29
+19:03,San Diego State,Devin Watson,Three Point Jumper,40,29
+18:56,Nevada,None,None,40,29
+18:45,Nevada,Trey Porter,Missed Dunk,40,29
+18:45,San Diego State,Jalen McDaniels,Defensive Rebound,40,29
+18:30,San Diego State,Jeremy Hemsley,Layup,42,29
+18:18,Nevada,Trey Porter,Foul,42,29
+18:18,Nevada,Trey Porter,Turnover,42,29
+17:50,San Diego State,Matt Mitchell,Missed Jumper,42,29
+17:50,Nevada,Trey Porter,Defensive Rebound,42,29
+17:47,San Diego State,Jalen McDaniels,Foul,42,29
+17:30,Nevada,Tre'Shawn Thurman,Layup,42,31
+17:09,San Diego State,Matt Mitchell,Turnover,42,31
+17:09,Nevada,Caleb Martin,Steal,42,31
+16:59,Nevada,Corey Henson,Missed Three Point Jumper,42,31
+16:59,Nevada,Nevada,Offensive Rebound,42,31
+16:55,San Diego State,Nathan Mensah,Foul,42,31
+16:49,Nevada,Jazz Johnson,Layup,42,33
+16:25,San Diego State,Jalen McDaniels,Foul,42,33
+16:25,San Diego State,Jalen McDaniels,Turnover,42,33
+16:16,Nevada,Jazz Johnson,Three Point Jumper,42,36
+16:03,San Diego State,None,None,42,36
+15:47,San Diego State,Matt Mitchell,Layup,44,36
+15:28,Nevada,Jazz Johnson,Missed Layup,44,36
+15:28,San Diego State,Aguek Arop,Block,44,36
+15:28,Nevada,Nevada,Offensive Rebound,44,36
+15:23,Nevada,Caleb Martin,Missed Three Point Jumper,44,36
+15:23,San Diego State,Jalen McDaniels,Defensive Rebound,44,36
+15:08,San Diego State,Jeremy Hemsley,Missed Layup,44,36
+15:08,Nevada,Jazz Johnson,Defensive Rebound,44,36
+15:06,Nevada,None,None,44,36
+14:52,Nevada,Caleb Martin,Missed Layup,44,36
+14:52,Nevada,Caleb Martin,Offensive Rebound,44,36
+14:43,San Diego State,Aguek Arop,Foul,44,36
+14:43,Nevada,Caleb Martin,Missed Free Throw,44,36
+14:43,Nevada,None,Team Rebound,44,36
+14:43,Nevada,Caleb Martin,Free Throw,44,37
+14:26,San Diego State,Devin Watson,Missed Layup,44,37
+14:26,Nevada,Trey Porter,Block,44,37
+14:26,Nevada,Trey Porter,Defensive Rebound,44,37
+14:12,Nevada,Tre'Shawn Thurman,Layup,44,39
+13:48,San Diego State,Jeremy Hemsley,Turnover,44,39
+13:48,Nevada,Jazz Johnson,Steal,44,39
+13:37,San Diego State,Matt Mitchell,Foul,44,39
+13:37,Nevada,Trey Porter,Missed Free Throw,44,39
+13:37,Nevada,None,Team Rebound,44,39
+13:37,Nevada,Trey Porter,Free Throw,44,40
+13:11,San Diego State,Jalen McDaniels,Missed Jumper,44,40
+13:11,Nevada,Tre'Shawn Thurman,Defensive Rebound,44,40
+12:53,Nevada,Jazz Johnson,Missed Three Point Jumper,44,40
+12:53,San Diego State,San Diego State,Defensive Rebound,44,40
+12:33,San Diego State,Nathan Mensah,Layup,46,40
+12:18,Nevada,Caleb Martin,Three Point Jumper,46,43
+11:43,San Diego State,Jalen McDaniels,Foul,46,43
+11:43,San Diego State,Jalen McDaniels,Turnover,46,43
+11:43,Nevada,None,None,46,43
+11:23,Nevada,Caleb Martin,Missed Three Point Jumper,46,43
+11:23,Nevada,Tre'Shawn Thurman,Offensive Rebound,46,43
+11:07,Nevada,Jazz Johnson,Missed Jumper,46,43
+11:07,San Diego State,Devin Watson,Defensive Rebound,46,43
+10:52,San Diego State,Nathan Mensah,Missed Dunk,46,43
+10:52,Nevada,Tre'Shawn Thurman,Block,46,43
+10:52,Nevada,Cody Martin,Defensive Rebound,46,43
+10:41,Nevada,Caleb Martin,Dunk,46,45
+10:15,San Diego State,Matt Mitchell,Missed Three Point Jumper,46,45
+10:15,Nevada,Caleb Martin,Defensive Rebound,46,45
+10:03,Nevada,Cody Martin,Layup,46,47
+10:02,San Diego State,None,None,46,47
+9:38,San Diego State,Aguek Arop,Missed Three Point Jumper,46,47
+9:38,Nevada,Caleb Martin,Defensive Rebound,46,47
+9:28,Nevada,Tre'Shawn Thurman,Turnover,46,47
+9:18,San Diego State,Jalen McDaniels,Missed Jumper,46,47
+9:18,Nevada,Cody Martin,Defensive Rebound,46,47
+8:55,San Diego State,Jalen McDaniels,Foul,46,47
+8:55,Nevada,Trey Porter,Free Throw,46,48
+8:55,Nevada,Trey Porter,Free Throw,46,49
+8:39,San Diego State,Matt Mitchell,Turnover,46,49
+8:39,Nevada,Cody Martin,Steal,46,49
+8:21,San Diego State,Matt Mitchell,Foul,46,49
+8:21,Nevada,Caleb Martin,Missed Free Throw,46,49
+8:21,San Diego State,Nolan Narain,Defensive Rebound,46,49
+8:01,San Diego State,Devin Watson,Three Point Jumper,49,49
+7:31,Nevada,Tre'Shawn Thurman,Layup,49,51
+7:03,San Diego State,Devin Watson,Missed Three Point Jumper,49,51
+7:03,Nevada,Caleb Martin,Defensive Rebound,49,51
+6:37,Nevada,Cody Martin,Missed Jumper,49,51
+6:37,Nevada,Tre'Shawn Thurman,Offensive Rebound,49,51
+6:33,Nevada,Tre'Shawn Thurman,Foul,49,51
+6:32,Nevada,Tre'Shawn Thurman,Turnover,49,51
+6:32,Nevada,None,None,49,51
+6:23,Nevada,Tre'Shawn Thurman,Foul,49,51
+6:05,San Diego State,Jeremy Hemsley,Missed Jumper,49,51
+6:05,Nevada,Trey Porter,Defensive Rebound,49,51
+5:39,Nevada,Jazz Johnson,Foul,49,51
+5:39,Nevada,Jazz Johnson,Turnover,49,51
+5:11,San Diego State,Jeremy Hemsley,Jumper,51,51
+4:47,San Diego State,Jordan Schakel,Foul,51,51
+4:47,Nevada,Cody Martin,Missed Free Throw,51,51
+4:47,Nevada,None,Team Rebound,51,51
+4:47,Nevada,Cody Martin,Missed Free Throw,51,51
+4:47,Nevada,Tre'Shawn Thurman,Offensive Rebound,51,51
+4:45,Nevada,None,None,51,51
+4:22,Nevada,Tre'Shawn Thurman,Missed Layup,51,51
+4:22,San Diego State,Jalen McDaniels,Defensive Rebound,51,51
+4:02,San Diego State,Nathan Mensah,Layup,53,51
+3:31,Nevada,Cody Martin,Foul,53,51
+3:31,Nevada,Cody Martin,Turnover,53,51
+3:31,Nevada,None,None,53,51
+3:20,San Diego State,Jalen McDaniels,Missed Layup,53,51
+3:20,Nevada,Tre'Shawn Thurman,Block,53,51
+3:20,Nevada,Tre'Shawn Thurman,Defensive Rebound,53,51
+3:07,Nevada,Caleb Martin,Missed Layup,53,51
+3:07,Nevada,Trey Porter,Offensive Rebound,53,51
+2:59,Nevada,Trey Porter,Missed Layup,53,51
+2:59,San Diego State,Jalen McDaniels,Defensive Rebound,53,51
+2:40,San Diego State,Jalen McDaniels,Jumper,55,51
+2:24,Nevada,Tre'Shawn Thurman,Missed Three Point Jumper,55,51
+2:24,San Diego State,Matt Mitchell,Defensive Rebound,55,51
+1:58,San Diego State,Jalen McDaniels,Missed Jumper,55,51
+1:58,Nevada,Cody Martin,Defensive Rebound,55,51
+1:46,Nevada,Cody Martin,Missed Three Point Jumper,55,51
+1:46,San Diego State,Jeremy Hemsley,Defensive Rebound,55,51
+1:09,Nevada,Cody Martin,Foul,55,51
+1:09,San Diego State,Jalen McDaniels,Free Throw,56,51
+1:09,San Diego State,Jalen McDaniels,Missed Free Throw,56,51
+1:09,Nevada,Trey Porter,Defensive Rebound,56,51
+1:01,Nevada,Jazz Johnson,Missed Three Point Jumper,56,51
+1:01,San Diego State,Jalen McDaniels,Defensive Rebound,56,51
+0:30,Nevada,Caleb Martin,Foul,56,51
+0:30,San Diego State,Matt Mitchell,Free Throw,57,51
+0:30,San Diego State,Matt Mitchell,Free Throw,58,51
+0:26,Nevada,Caleb Martin,Missed Three Point Jumper,58,51
+0:26,Nevada,Nevada,Offensive Rebound,58,51
+0:23,San Diego State,Jalen McDaniels,Foul,58,51
+0:23,Nevada,Trey Porter,Missed Free Throw,58,51
+0:23,Nevada,None,Team Rebound,58,51
+0:23,Nevada,Trey Porter,Free Throw,58,52
+0:22,Nevada,Jazz Johnson,Foul,58,52
+0:22,San Diego State,Jordan Schakel,Free Throw,59,52
+0:22,San Diego State,Jordan Schakel,Free Throw,60,52
+0:17,Nevada,Caleb Martin,Missed Three Point Jumper,60,52
+0:17,San Diego State,Jeremy Hemsley,Defensive Rebound,60,52
+0:14,Nevada,Caleb Martin,Foul,60,52
+0:14,San Diego State,Jeremy Hemsley,Free Throw,61,52
+0:14,San Diego State,Jeremy Hemsley,Free Throw,62,52
+0:10,Nevada,Caleb Martin,Layup,62,54
+0:09,Nevada,Caleb Martin,Foul,62,54
+0:09,San Diego State,Devin Watson,Free Throw,63,54
+0:09,San Diego State,Devin Watson,Free Throw,64,54
+0:04,Nevada,Cody Martin,Missed Three Point Jumper,64,54
+0:04,Nevada,Nisre Zouzoua,Offensive Rebound,64,54
+0:04,Nevada,None,None,64,56
+0:03,San Diego State,None,None,64,56
+0:02,Nevada,Jazz Johnson,Foul,64,56
+0:02,San Diego State,Devin Watson,Missed Free Throw,64,56
+0:02,San Diego State,None,Team Rebound,64,56
+0:02,San Diego State,Devin Watson,Free Throw,65,56
+0:00,Nevada,None,None,65,56

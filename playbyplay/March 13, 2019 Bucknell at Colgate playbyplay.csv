@@ -1,0 +1,330 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Colgate,None,None,0,0
+19:46,Colgate,Will Rayman,Missed Layup,0,0
+19:46,Colgate,Will Rayman,Offensive Rebound,0,0
+19:41,Colgate,Will Rayman,Layup,0,2
+19:30,Bucknell,Bruce Moore,Missed Three Point Jumper,0,2
+19:30,Bucknell,Nate Sestina,Offensive Rebound,0,2
+19:25,Bucknell,Nate Sestina,Missed Jumper,0,2
+19:25,Colgate,Rapolas Ivanauskas,Defensive Rebound,0,2
+19:16,Colgate,Rapolas Ivanauskas,Missed Three Point Jumper,0,2
+19:16,Bucknell,Nate Sestina,Defensive Rebound,0,2
+19:04,Bucknell,Nate Sestina,Three Point Jumper,3,2
+18:42,Colgate,Rapolas Ivanauskas,Jumper,3,4
+18:13,Bucknell,Bruce Moore,Missed Layup,3,4
+18:13,Colgate,Dana Batt,Defensive Rebound,3,4
+18:01,Colgate,Dana Batt,Turnover,3,4
+17:48,Bucknell,Jimmy Sotos,Turnover,3,4
+17:48,Colgate,Tucker Richardson,Steal,3,4
+17:32,Colgate,Rapolas Ivanauskas,Missed Jumper,3,4
+17:32,Bucknell,Bruce Moore,Defensive Rebound,3,4
+17:20,Bucknell,Kimbal Mackenzie,Missed Jumper,3,4
+17:20,Colgate,Will Rayman,Defensive Rebound,3,4
+17:05,Colgate,Jordan Burns,Missed Three Point Jumper,3,4
+17:05,Bucknell,Avi Toomer,Defensive Rebound,3,4
+16:50,Bucknell,Nate Sestina,Layup,5,4
+16:27,Colgate,Rapolas Ivanauskas,Three Point Jumper,5,7
+16:08,Bucknell,Bruce Moore,Missed Jumper,5,7
+16:08,Colgate,Will Rayman,Defensive Rebound,5,7
+15:56,Colgate,Dana Batt,Jumper,5,9
+15:47,Bucknell,Jimmy Sotos,Jumper,7,9
+15:33,Colgate,Will Rayman,Three Point Jumper,7,12
+15:12,Colgate,Tucker Richardson,Foul,7,12
+15:12,Colgate,None,None,7,12
+15:12,Bucknell,Kimbal Mackenzie,Free Throw,8,12
+15:12,Bucknell,Kimbal Mackenzie,Missed Free Throw,8,12
+15:12,Colgate,Dana Batt,Defensive Rebound,8,12
+14:58,Colgate,Jordan Burns,Missed Jumper,8,12
+14:58,Colgate,Rapolas Ivanauskas,Offensive Rebound,8,12
+14:53,Colgate,Rapolas Ivanauskas,Layup,8,14
+14:37,Bucknell,Avi Toomer,Layup,10,14
+14:14,Colgate,Rapolas Ivanauskas,Jumper,10,16
+13:52,Bucknell,Paul Newman,Missed Jumper,10,16
+13:52,Colgate,Will Rayman,Block,10,16
+13:52,Colgate,Rapolas Ivanauskas,Defensive Rebound,10,16
+13:34,Colgate,Rapolas Ivanauskas,Missed Three Point Jumper,10,16
+13:34,Bucknell,Kimbal Mackenzie,Defensive Rebound,10,16
+13:20,Bucknell,Paul Newman,Layup,12,16
+13:03,Colgate,Jordan Burns,Three Point Jumper,12,19
+12:38,Bucknell,John Meeks,Missed Three Point Jumper,12,19
+12:38,Colgate,Jordan Burns,Defensive Rebound,12,19
+12:24,Colgate,Will Rayman,Missed Three Point Jumper,12,19
+12:24,Bucknell,Andrew Funk,Defensive Rebound,12,19
+12:12,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,12,19
+12:12,Bucknell,Avi Toomer,Offensive Rebound,12,19
+12:04,Bucknell,Avi Toomer,Missed Three Point Jumper,12,19
+12:04,Colgate,Colgate,Defensive Rebound,12,19
+11:59,Colgate,None,None,12,19
+11:59,Bucknell,Paul Newman,Foul,12,19
+11:42,Colgate,Rapolas Ivanauskas,Missed Three Point Jumper,12,19
+11:42,Colgate,Will Rayman,Offensive Rebound,12,19
+11:34,Bucknell,Nate Sestina,Foul,12,19
+11:34,Colgate,Will Rayman,Free Throw,12,20
+11:34,Colgate,Will Rayman,Free Throw,12,21
+11:15,Bucknell,Jimmy Sotos,Missed Three Point Jumper,12,21
+11:15,Bucknell,Nate Jones,Offensive Rebound,12,21
+11:04,Bucknell,Nate Jones,Turnover,12,21
+11:04,Colgate,Jack Ferguson,Steal,12,21
+11:00,Colgate,Will Rayman,Missed Three Point Jumper,12,21
+11:00,Bucknell,Nate Sestina,Defensive Rebound,12,21
+10:54,Bucknell,Nate Jones,Missed Three Point Jumper,12,21
+10:54,Colgate,Malcolm Regisford,Defensive Rebound,12,21
+10:30,Colgate,Will Rayman,Turnover,12,21
+10:20,Bucknell,Kimbal Mackenzie,Three Point Jumper,15,21
+9:57,Colgate,Rapolas Ivanauskas,Missed Jumper,15,21
+9:57,Colgate,Rapolas Ivanauskas,Offensive Rebound,15,21
+9:52,Colgate,Rapolas Ivanauskas,Missed Layup,15,21
+9:52,Colgate,Rapolas Ivanauskas,Offensive Rebound,15,21
+9:42,Colgate,Rapolas Ivanauskas,Missed Jumper,15,21
+9:42,Bucknell,Nate Jones,Defensive Rebound,15,21
+9:32,Bucknell,Kimbal Mackenzie,Turnover,15,21
+9:08,Bucknell,Jimmy Sotos,Foul,15,21
+8:59,Colgate,Jordan Burns,Three Point Jumper,15,24
+8:37,Colgate,Malcolm Regisford,Foul,15,24
+8:37,Bucknell,Paul Newman,Missed Free Throw,15,24
+8:37,Bucknell,None,Team Rebound,15,24
+8:37,Bucknell,Paul Newman,Missed Free Throw,15,24
+8:37,Colgate,Francisco Amiel,Defensive Rebound,15,24
+8:28,Colgate,Jack Ferguson,Turnover,15,24
+8:16,Bucknell,Andrew Funk,Layup,17,24
+7:57,Bucknell,Kimbal Mackenzie,Foul,17,24
+7:57,Colgate,None,None,17,24
+7:57,Colgate,Jordan Burns,Free Throw,17,25
+7:57,Colgate,Jordan Burns,Free Throw,17,26
+7:46,Bucknell,Avi Toomer,Turnover,17,26
+7:46,Colgate,Rapolas Ivanauskas,Steal,17,26
+7:28,Colgate,Malcolm Regisford,Jumper,17,28
+7:20,Bucknell,Nate Sestina,Missed Jumper,17,28
+7:20,Bucknell,Avi Toomer,Offensive Rebound,17,28
+7:18,Colgate,Rapolas Ivanauskas,Foul,17,28
+7:18,Bucknell,Avi Toomer,Free Throw,18,28
+7:18,Bucknell,Avi Toomer,Free Throw,19,28
+7:04,Colgate,Jordan Burns,Three Point Jumper,19,31
+6:39,Bucknell,Jimmy Sotos,Missed Layup,19,31
+6:39,Colgate,Colgate,Defensive Rebound,19,31
+6:31,Bucknell,Bruce Moore,Foul,19,31
+6:30,Colgate,Jordan Burns,Three Point Jumper,19,34
+6:26,Bucknell,None,None,19,34
+6:11,Bucknell,Nate Sestina,Missed Layup,19,34
+6:11,Colgate,Malcolm Regisford,Block,19,34
+6:11,Colgate,Malcolm Regisford,Defensive Rebound,19,34
+6:07,Bucknell,Avi Toomer,Foul,19,34
+5:58,Bucknell,Avi Toomer,Foul,19,34
+5:58,Colgate,Jordan Burns,Free Throw,19,35
+5:58,Colgate,Jordan Burns,Free Throw,19,36
+5:49,Bucknell,Jimmy Sotos,Missed Three Point Jumper,19,36
+5:49,Colgate,Malcolm Regisford,Defensive Rebound,19,36
+5:28,Colgate,Jack Ferguson,Turnover,19,36
+5:28,Bucknell,Andrew Funk,Steal,19,36
+5:25,Bucknell,John Meeks,Foul,19,36
+5:25,Bucknell,John Meeks,Turnover,19,36
+5:07,Colgate,Jordan Burns,Foul,19,36
+5:07,Colgate,Jordan Burns,Turnover,19,36
+4:48,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,19,36
+4:48,Bucknell,Bucknell,Offensive Rebound,19,36
+4:32,Bucknell,Kimbal Mackenzie,Missed Layup,19,36
+4:32,Bucknell,Nate Sestina,Offensive Rebound,19,36
+4:23,Bucknell,Nate Sestina,Layup,21,36
+4:15,Colgate,Jordan Burns,Missed Three Point Jumper,21,36
+4:15,Bucknell,Bucknell,Defensive Rebound,21,36
+3:41,Bucknell,Andrew Funk,Three Point Jumper,24,36
+3:09,Bucknell,Bruce Moore,Foul,24,36
+3:09,Colgate,None,None,24,36
+3:09,Colgate,Jack Ferguson,Free Throw,24,37
+3:09,Colgate,Jack Ferguson,Free Throw,24,38
+3:01,Bucknell,Nate Sestina,Three Point Jumper,27,38
+2:24,Bucknell,Kimbal Mackenzie,Foul,27,38
+2:24,Colgate,Dana Batt,Free Throw,27,39
+2:24,Colgate,Dana Batt,Free Throw,27,40
+2:15,Bucknell,Nate Sestina,Missed Three Point Jumper,27,40
+2:15,Colgate,Will Rayman,Defensive Rebound,27,40
+2:03,Colgate,Jordan Burns,Layup,27,42
+1:43,Bucknell,Andrew Funk,Missed Layup,27,42
+1:43,Colgate,Dana Batt,Defensive Rebound,27,42
+1:32,Bucknell,Jimmy Sotos,Foul,27,42
+1:32,Colgate,Jordan Burns,Missed Free Throw,27,42
+1:32,Colgate,None,Team Rebound,27,42
+1:32,Colgate,Jordan Burns,Free Throw,27,43
+1:14,Bucknell,Jimmy Sotos,Missed Three Point Jumper,27,43
+1:14,Colgate,Tucker Richardson,Defensive Rebound,27,43
+0:55,Colgate,Rapolas Ivanauskas,Turnover,27,43
+0:43,Bucknell,Kimbal Mackenzie,Layup,29,43
+0:43,Colgate,Dana Batt,Foul,29,43
+0:43,Colgate,None,None,29,43
+0:43,Bucknell,Kimbal Mackenzie,Free Throw,30,43
+0:22,Colgate,Jordan Burns,Missed Jumper,30,43
+0:21,Colgate,Dana Batt,Offensive Rebound,30,43
+0:15,Colgate,Dana Batt,Missed Layup,30,43
+0:14,Bucknell,Nate Sestina,Block,30,43
+0:13,Bucknell,Kimbal Mackenzie,Defensive Rebound,30,43
+0:05,Bucknell,Andrew Funk,Missed Three Point Jumper,30,43
+0:05,Colgate,Rapolas Ivanauskas,Defensive Rebound,30,43
+0:00,Colgate,None,None,30,43
+20:00,Bucknell,None,None,30,43
+19:37,Bucknell,Kimbal Mackenzie,Three Point Jumper,33,43
+19:05,Colgate,Jordan Burns,Jumper,33,45
+18:49,Colgate,Rapolas Ivanauskas,Foul,33,45
+18:40,Bucknell,Kimbal Mackenzie,Three Point Jumper,36,45
+18:19,Colgate,Will Rayman,Turnover,36,45
+18:19,Bucknell,Kimbal Mackenzie,Steal,36,45
+18:11,Bucknell,Kimbal Mackenzie,Three Point Jumper,39,45
+17:55,Bucknell,Avi Toomer,Foul,39,45
+17:52,Colgate,Will Rayman,Three Point Jumper,39,48
+17:44,Bucknell,Kimbal Mackenzie,Three Point Jumper,42,48
+17:18,Colgate,Will Rayman,Missed Jumper,42,48
+17:18,Bucknell,Kimbal Mackenzie,Defensive Rebound,42,48
+17:11,Colgate,Jordan Burns,Foul,42,48
+17:11,Bucknell,Kimbal Mackenzie,Free Throw,43,48
+17:11,Bucknell,Kimbal Mackenzie,Free Throw,44,48
+16:57,Colgate,Dana Batt,Layup,44,50
+16:47,Bucknell,Bruce Moore,Layup,46,50
+16:35,Colgate,Dana Batt,Turnover,46,50
+16:35,Bucknell,Kimbal Mackenzie,Steal,46,50
+16:27,Bucknell,Kimbal Mackenzie,Missed Layup,46,50
+16:27,Colgate,Dana Batt,Defensive Rebound,46,50
+16:17,Bucknell,Jimmy Sotos,Foul,46,50
+16:04,Colgate,Rapolas Ivanauskas,Turnover,46,50
+15:48,Colgate,Rapolas Ivanauskas,Foul,46,50
+15:48,Colgate,None,None,46,50
+15:48,Bucknell,Kimbal Mackenzie,Free Throw,47,50
+15:48,Bucknell,Kimbal Mackenzie,Free Throw,48,50
+15:23,Colgate,Jordan Burns,Missed Three Point Jumper,48,50
+15:23,Colgate,Colgate,Offensive Rebound,48,50
+15:17,Colgate,Colgate ,Turnover,48,50
+15:09,Bucknell,Nate Sestina,Turnover,48,50
+15:09,Colgate,Jordan Burns,Steal,48,50
+14:34,Colgate,Tucker Richardson,Jumper,48,52
+14:08,Bucknell,Andrew Funk,Turnover,48,52
+14:08,Colgate,Jordan Burns,Steal,48,52
+14:00,Colgate,Will Rayman,Layup,48,54
+14:00,Bucknell,Nate Sestina,Foul,48,54
+14:00,Bucknell,None,None,48,54
+14:00,Colgate,Will Rayman,Missed Free Throw,48,54
+14:00,Bucknell,Andrew Funk,Defensive Rebound,48,54
+13:49,Bucknell,Kimbal Mackenzie,Turnover,48,54
+13:49,Colgate,Will Rayman,Steal,48,54
+13:43,Colgate,Jordan Burns,Layup,48,56
+13:30,Bucknell,Nate Sestina,Layup,50,56
+13:30,Colgate,Malcolm Regisford,Foul,50,56
+13:30,Bucknell,Nate Sestina,Free Throw,51,56
+13:19,Colgate,Tucker Richardson,Missed Layup,51,56
+13:19,Bucknell,Bucknell,Defensive Rebound,51,56
+12:58,Bucknell,Bruce Moore,Missed Three Point Jumper,51,56
+12:58,Colgate,Will Rayman,Defensive Rebound,51,56
+12:36,Colgate,Malcolm Regisford,Layup,51,58
+12:22,Bucknell,Nate Sestina,Three Point Jumper,54,58
+11:59,Colgate,Jack Ferguson,Three Point Jumper,54,61
+11:42,Colgate,Will Rayman,Foul,54,61
+11:42,Colgate,None,None,54,61
+11:31,Bucknell,Bruce Moore,Missed Three Point Jumper,54,61
+11:31,Colgate,Francisco Amiel,Defensive Rebound,54,61
+11:13,Colgate,Malcolm Regisford,Missed Jumper,54,61
+11:13,Bucknell,Nate Sestina,Defensive Rebound,54,61
+10:49,Colgate,None,None,54,61
+10:49,Bucknell,Avi Toomer,Turnover,54,61
+10:49,Colgate,Francisco Amiel,Steal,54,61
+10:36,Bucknell,Avi Toomer,Foul,54,61
+10:36,Colgate,Jordan Burns,Free Throw,54,62
+10:36,Colgate,Jordan Burns,Free Throw,54,63
+10:24,Colgate,Francisco Amiel,Foul,54,63
+10:24,Bucknell,Bruce Moore,Free Throw,55,63
+10:24,Bucknell,Bruce Moore,Free Throw,56,63
+10:12,Colgate,Rapolas Ivanauskas,Three Point Jumper,56,66
+9:50,Colgate,Rapolas Ivanauskas,Foul,56,66
+9:50,Bucknell,Bruce Moore,Free Throw,57,66
+9:50,Bucknell,Bruce Moore,Free Throw,58,66
+9:40,Colgate,Jordan Burns,Three Point Jumper,58,69
+9:17,Bucknell,Nate Sestina,Missed Layup,58,69
+9:17,Colgate,Jordan Burns,Defensive Rebound,58,69
+9:12,Bucknell,Nate Sestina,Foul,58,69
+9:06,Colgate,Will Rayman,Missed Three Point Jumper,58,69
+9:06,Colgate,Jack Ferguson,Offensive Rebound,58,69
+9:00,Colgate,Jordan Burns,Three Point Jumper,58,72
+8:57,Bucknell,None,None,58,72
+8:32,Bucknell,Bruce Moore,Foul,58,72
+8:32,Bucknell,Bruce Moore,Turnover,58,72
+8:25,Bucknell,Kimbal Mackenzie,Foul,58,72
+8:25,Colgate,Jordan Burns,Missed Free Throw,58,72
+8:25,Colgate,None,Team Rebound,58,72
+8:25,Colgate,Jordan Burns,Free Throw,58,73
+8:17,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,58,73
+8:17,Colgate,Colgate,Defensive Rebound,58,73
+8:00,Bucknell,Nate Sestina,Foul,58,73
+8:00,Colgate,None,None,58,73
+8:00,Colgate,Jordan Burns,Free Throw,58,74
+8:00,Colgate,Jordan Burns,Missed Free Throw,58,74
+8:00,Bucknell,John Meeks,Defensive Rebound,58,74
+7:47,Colgate,Will Rayman,Foul,58,74
+7:47,Bucknell,Nate Sestina,Missed Free Throw,58,74
+7:47,Bucknell,None,Team Rebound,58,74
+7:47,Bucknell,Nate Sestina,Free Throw,59,74
+7:31,Colgate,Francisco Amiel,Jumper,59,76
+7:16,Colgate,Will Rayman,Foul,59,76
+7:16,Bucknell,Kimbal Mackenzie,Missed Free Throw,59,76
+7:16,Bucknell,Bucknell,Offensive Rebound,59,76
+7:09,Bucknell,Jimmy Sotos,Turnover,59,76
+7:09,Colgate,Will Rayman,Steal,59,76
+6:52,Colgate,Will Rayman,Jumper,59,78
+6:42,Colgate,Dana Batt,Foul,59,78
+6:42,Bucknell,Nate Sestina,Free Throw,60,78
+6:42,Bucknell,Nate Sestina,Free Throw,61,78
+6:34,Colgate,Jordan Burns,Jumper,61,80
+6:21,Bucknell,Avi Toomer,Three Point Jumper,64,80
+5:57,Colgate,Will Rayman,Missed Jumper,64,80
+5:57,Bucknell,John Meeks,Defensive Rebound,64,80
+5:48,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,64,80
+5:48,Colgate,Jack Ferguson,Defensive Rebound,64,80
+5:14,Colgate,Colgate ,Turnover,64,80
+5:02,Bucknell,Nate Sestina,Layup,66,80
+4:39,Colgate,Francisco Amiel,Turnover,66,80
+4:25,Bucknell,Kimbal Mackenzie,Missed Jumper,66,80
+4:25,Colgate,Will Rayman,Defensive Rebound,66,80
+4:21,Bucknell,Nate Sestina,Foul,66,80
+4:21,Colgate,Will Rayman,Free Throw,66,81
+4:21,Colgate,Will Rayman,Free Throw,66,82
+4:15,Bucknell,John Meeks,Three Point Jumper,69,82
+3:46,Colgate,Francisco Amiel,Three Point Jumper,69,85
+3:31,Bucknell,John Meeks,Three Point Jumper,72,85
+3:02,Colgate,Jordan Burns,Missed Jumper,72,85
+3:02,Bucknell,Bruce Moore,Defensive Rebound,72,85
+2:57,Colgate,Dana Batt,Foul,72,85
+2:57,Colgate,None,None,72,85
+2:57,Bucknell,Bruce Moore,Free Throw,73,85
+2:57,Bucknell,Bruce Moore,Free Throw,74,85
+2:33,Colgate,Tucker Richardson,Layup,74,87
+2:15,Bucknell,John Meeks,Turnover,74,87
+2:15,Colgate,Jordan Burns,Steal,74,87
+2:04,Colgate,Francisco Amiel,Turnover,74,87
+2:04,Bucknell,John Meeks,Steal,74,87
+1:56,Bucknell,John Meeks,Dunk,76,87
+1:50,Bucknell,Bruce Moore,Foul,76,87
+1:50,Colgate,Francisco Amiel,Free Throw,76,88
+1:50,Colgate,Francisco Amiel,Free Throw,76,89
+1:46,Bucknell,Avi Toomer,Three Point Jumper,79,89
+1:38,Colgate,None,None,79,89
+1:31,Colgate,Will Rayman,Dunk,79,91
+1:19,Bucknell,Jimmy Sotos,Missed Three Point Jumper,79,91
+1:19,Colgate,Rapolas Ivanauskas,Defensive Rebound,79,91
+1:13,Bucknell,Bruce Moore,Foul,79,91
+1:13,Colgate,Rapolas Ivanauskas,Missed Free Throw,79,91
+1:13,Colgate,None,Team Rebound,79,91
+1:13,Colgate,Rapolas Ivanauskas,Missed Free Throw,79,91
+1:13,Bucknell,Bruce Moore,Defensive Rebound,79,91
+1:04,Colgate,Jordan Burns,Foul,79,91
+1:04,Bucknell,Bruce Moore,Missed Free Throw,79,91
+1:04,Bucknell,None,Team Rebound,79,91
+1:04,Bucknell,Bruce Moore,Free Throw,80,91
+1:03,Bucknell,Paul Newman,Foul,80,91
+1:03,Colgate,Rapolas Ivanauskas,Free Throw,80,92
+1:03,Colgate,Rapolas Ivanauskas,Free Throw,80,93
+0:56,Bucknell,Avi Toomer,Missed Three Point Jumper,80,93
+0:56,Colgate,Tucker Richardson,Block,80,93
+0:56,Colgate,Tucker Richardson,Defensive Rebound,80,93
+0:51,Bucknell,Avi Toomer,Foul,80,93
+0:51,Colgate,Tucker Richardson,Missed Free Throw,80,93
+0:51,Colgate,None,Team Rebound,80,93
+0:51,Colgate,Tucker Richardson,Free Throw,80,94
+0:47,Bucknell,Kimbal Mackenzie,Missed Three Point Jumper,80,94
+0:47,Colgate,Rapolas Ivanauskas,Defensive Rebound,80,94
+0:14,Colgate,Colgate ,Turnover,80,94
+0:00,Colgate,None,None,80,94

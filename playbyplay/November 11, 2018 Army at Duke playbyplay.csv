@@ -1,0 +1,353 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Army,None,None,0,0
+19:43,Army,Josh Caldwell,Missed Jumper,0,0
+19:43,Duke,Tre Jones,Defensive Rebound,0,0
+19:34,Duke,RJ Barrett,Missed Jumper,0,0
+19:34,Army,Tommy Funk,Defensive Rebound,0,0
+19:26,Army,Josh Caldwell,Layup,2,0
+19:16,Duke,Zion Williamson,Jumper,2,2
+18:59,Army,Matt Wilson,Missed Jumper,2,2
+18:59,Duke,Zion Williamson,Defensive Rebound,2,2
+18:51,Duke,RJ Barrett,Missed Three Point Jumper,2,2
+18:51,Army,Josh Caldwell,Defensive Rebound,2,2
+18:38,Army,Matt Wilson,Missed Layup,2,2
+18:38,Duke,Cam Reddish,Defensive Rebound,2,2
+18:27,Army,Jacob Kessler,Foul,2,2
+18:21,Duke,RJ Barrett,Missed Three Point Jumper,2,2
+18:21,Duke,Zion Williamson,Offensive Rebound,2,2
+18:15,Duke,Zion Williamson,Dunk,2,4
+18:04,Army,Tommy Funk,Turnover,2,4
+18:04,Duke,Tre Jones,Steal,2,4
+17:56,Duke,Tre Jones,Turnover,2,4
+17:52,Army,Jordan Fox,Jumper,4,4
+17:23,Duke,Cam Reddish,Three Point Jumper,4,7
+17:07,Army,Alex King,Three Point Jumper,7,7
+16:53,Duke,RJ Barrett,Three Point Jumper,7,10
+16:22,Army,Jordan Fox,Missed Three Point Jumper,7,10
+16:22,Army,Alex King,Offensive Rebound,7,10
+16:15,Army,Alex King,Turnover,7,10
+16:06,Duke,Zion Williamson,Layup,7,12
+15:58,Army,Ben Kinker,Three Point Jumper,10,12
+15:46,Duke,Cam Reddish,Three Point Jumper,10,15
+15:29,Army,Aaron Duhart,Missed Layup,10,15
+15:29,Duke,Tre Jones,Defensive Rebound,10,15
+15:26,Duke,RJ Barrett,Turnover,10,15
+15:26,Duke,None,None,10,15
+15:18,Army,Ben Kinker,Three Point Jumper,13,15
+15:01,Duke,RJ Barrett,Layup,13,17
+14:47,Army,Josh Caldwell,Missed Three Point Jumper,13,17
+14:47,Duke,Javin DeLaurier,Defensive Rebound,13,17
+14:36,Duke,Cam Reddish,Three Point Jumper,13,20
+14:09,Army,Tommy Funk,Missed Three Point Jumper,13,20
+14:09,Duke,RJ Barrett,Defensive Rebound,13,20
+13:46,Duke,Cam Reddish,Missed Layup,13,20
+13:46,Duke,Marques Bolden,Offensive Rebound,13,20
+13:46,Duke,Marques Bolden,Missed Layup,13,20
+13:46,Army,Matt Wilson,Defensive Rebound,13,20
+13:35,Army,Jacob Kessler,Layup,15,20
+13:24,Duke,RJ Barrett,Missed Three Point Jumper,15,20
+13:24,Army,Jordan Fox,Defensive Rebound,15,20
+13:16,Army,Matt Wilson,Missed Jumper,15,20
+13:16,Duke,Marques Bolden,Block,15,20
+13:16,Duke,Tre Jones,Defensive Rebound,15,20
+13:07,Army,Josh Caldwell,Foul,15,20
+13:00,Duke,RJ Barrett,Turnover,15,20
+13:00,Army,Matt Wilson,Layup,17,20
+12:40,Duke,Marques Bolden,Foul,17,20
+12:40,Army,Matt Wilson,Missed Free Throw,17,20
+12:40,Duke,Zion Williamson,Defensive Rebound,17,20
+12:12,Army,Lonnie Grayson,Foul,17,20
+12:08,Duke,Zion Williamson,Jumper,17,22
+11:52,Army,Lonnie Grayson,Missed Layup,17,22
+11:52,Duke,Zion Williamson,Defensive Rebound,17,22
+11:44,Duke,Zion Williamson,Layup,17,24
+11:40,Duke,Marques Bolden,Foul,17,24
+11:40,Duke,None,None,17,24
+11:39,Duke,None,None,17,24
+11:39,Army,Jordan Fox,Three Point Jumper,20,24
+11:31,Duke,Cam Reddish,Missed Jumper,20,24
+11:31,Duke,Cam Reddish,Offensive Rebound,20,24
+11:24,Duke,Cam Reddish,Dunk,20,26
+11:13,Army,Lonnie Grayson,Missed Jumper,20,26
+11:13,Duke,Jack White,Defensive Rebound,20,26
+11:07,Duke,Jack White,Three Point Jumper,20,29
+10:43,Army,Matt Wilson,Jumper,22,29
+10:33,Duke,Cam Reddish,Missed Three Point Jumper,22,29
+10:33,Army,Tommy Funk,Defensive Rebound,22,29
+10:21,Army,Tommy Funk,Missed Layup,22,29
+10:21,Army,Matt Wilson,Offensive Rebound,22,29
+10:12,Duke,Zion Williamson,Foul,22,29
+10:12,Army,Matt Wilson,Missed Free Throw,22,29
+10:12,Army,None,Team Rebound,22,29
+10:12,Army,Matt Wilson,Free Throw,23,29
+10:02,Army,Ben Kinker,Foul,23,29
+10:00,Duke,Jack White,Missed Three Point Jumper,23,29
+10:00,Army,Josh Caldwell,Defensive Rebound,23,29
+9:49,Army,Tommy Funk,Layup,25,29
+9:40,Army,Ben Kinker,Foul,25,29
+9:40,Duke,Zion Williamson,Free Throw,25,30
+9:40,Duke,Zion Williamson,Free Throw,25,31
+9:23,Army,Ben Kinker,Missed Three Point Jumper,25,31
+9:23,Duke,Marques Bolden,Defensive Rebound,25,31
+9:05,Duke,RJ Barrett,Three Point Jumper,25,34
+8:52,Army,Josh Caldwell,Turnover,25,34
+8:52,Duke,Cam Reddish,Steal,25,34
+8:48,Duke,None,None,25,34
+8:48,Duke,Zion Williamson,Layup,25,36
+8:44,Duke,RJ Barrett,Foul,25,36
+8:33,Army,Tucker Blackwell,Missed Jumper,25,36
+8:33,Duke,Zion Williamson,Defensive Rebound,25,36
+8:27,Duke,Zion Williamson,Turnover,25,36
+8:27,Army,Tommy Funk,Steal,25,36
+8:21,Army,Tucker Blackwell,Three Point Jumper,28,36
+8:09,Duke,RJ Barrett,Turnover,28,36
+8:09,Army,Tommy Funk,Steal,28,36
+8:03,Army,Tommy Funk,Layup,30,36
+8:01,Duke,None,None,30,36
+7:45,Duke,Javin DeLaurier,Turnover,30,36
+7:25,Army,Josh Caldwell,Turnover,30,36
+7:25,Duke,Zion Williamson,Steal,30,36
+7:20,Duke,Zion Williamson,Dunk,30,38
+7:11,Army,Aaron Duhart,Missed Layup,30,38
+7:11,Duke,Zion Williamson,Defensive Rebound,30,38
+7:01,Duke,Cam Reddish,Missed Three Point Jumper,30,38
+7:01,Army,Matt Wilson,Defensive Rebound,30,38
+6:41,Army,Alex King,Three Point Jumper,33,38
+6:21,Duke,Cam Reddish,Missed Three Point Jumper,33,38
+6:21,Army,Josh Caldwell,Defensive Rebound,33,38
+6:13,Army,Josh Caldwell,Missed Jumper,33,38
+6:13,Duke,Zion Williamson,Block,33,38
+6:13,Duke,Cam Reddish,Defensive Rebound,33,38
+6:06,Duke,RJ Barrett,Missed Layup,33,38
+6:06,Duke,Javin DeLaurier,Offensive Rebound,33,38
+6:06,Duke,None,None,33,40
+6:06,Army,Aaron Duhart,Foul,33,40
+6:06,Duke,Javin DeLaurier,Missed Free Throw,33,40
+6:06,Army,Matt Wilson,Defensive Rebound,33,40
+5:45,Duke,Cam Reddish,Foul,33,40
+5:45,Army,Matt Wilson,Free Throw,34,40
+5:45,Army,Matt Wilson,Free Throw,35,40
+5:23,Duke,Cam Reddish,Missed Jumper,35,40
+5:23,Army,Matt Wilson,Defensive Rebound,35,40
+5:03,Army,Matt Wilson,Layup,37,40
+4:50,Duke,RJ Barrett,Missed Three Point Jumper,37,40
+4:50,Duke,Jack White,Offensive Rebound,37,40
+4:40,Duke,Cam Reddish,Missed Jumper,37,40
+4:40,Duke,Cam Reddish,Offensive Rebound,37,40
+4:30,Duke,Jordan Goldwire,Missed Three Point Jumper,37,40
+4:30,Army,Josh Caldwell,Defensive Rebound,37,40
+4:24,Army,Josh Caldwell,Missed Dunk,37,40
+4:24,Duke,Duke,Defensive Rebound,37,40
+4:12,Duke,RJ Barrett,Missed Three Point Jumper,37,40
+4:12,Duke,Jordan Goldwire,Offensive Rebound,37,40
+4:04,Duke,Alex O'Connell,Three Point Jumper,37,43
+3:49,Army,Jacob Kessler,Missed Layup,37,43
+3:49,Duke,Jack White,Block,37,43
+3:49,Duke,Jack White,Defensive Rebound,37,43
+3:38,Duke,Alex O'Connell,Missed Three Point Jumper,37,43
+3:38,Army,Jacob Kessler,Defensive Rebound,37,43
+3:29,Army,Jordan Fox,Missed Three Point Jumper,37,43
+3:29,Duke,Duke,Defensive Rebound,37,43
+3:26,Duke,None,None,37,43
+3:12,Army,Tucker Blackwell,Foul,37,43
+3:12,Duke,Zion Williamson,Free Throw,37,44
+3:12,Duke,Zion Williamson,Missed Free Throw,37,44
+3:12,Army,Alex King,Defensive Rebound,37,44
+3:01,Army,Tucker Blackwell,Three Point Jumper,40,44
+2:46,Duke,Cam Reddish,Missed Jumper,40,44
+2:46,Army,Ben Kinker,Defensive Rebound,40,44
+2:34,Army,Ben Kinker,Dunk,42,44
+2:19,Duke,Zion Williamson,Jumper,42,46
+2:08,Army,Alex King,Missed Three Point Jumper,42,46
+2:08,Duke,Cam Reddish,Defensive Rebound,42,46
+1:58,Army,Alex King,Foul,42,46
+1:58,Duke,Tre Jones,Free Throw,42,47
+1:58,Duke,Tre Jones,Free Throw,42,48
+1:48,Army,Matt Wilson,Missed Layup,42,48
+1:48,Duke,Cam Reddish,Defensive Rebound,42,48
+1:34,Duke,Tre Jones,Missed Jumper,42,48
+1:34,Army,None,Team Rebound,42,48
+1:32,Duke,RJ Barrett,Foul,42,48
+1:21,Army,Tommy Funk,Turnover,42,48
+1:21,Duke,Javin DeLaurier,Steal,42,48
+1:05,Duke,Cam Reddish,Missed Jumper,42,48
+1:05,Army,Alex King,Defensive Rebound,42,48
+1:00,Army,Tommy Funk,Missed Three Point Jumper,42,48
+1:00,Army,Alex King,Offensive Rebound,42,48
+1:00,Army,Alex King,Missed Layup,42,48
+1:00,Army,Alex King,Offensive Rebound,42,48
+0:53,Army,Alex King,Missed Layup,42,48
+0:53,Duke,Javin DeLaurier,Defensive Rebound,42,48
+0:37,Duke,Zion Williamson,Layup,42,50
+0:26,Army,Alex King,Missed Three Point Jumper,42,50
+0:26,Duke,Javin DeLaurier,Defensive Rebound,42,50
+0:01,Duke,Zion Williamson,Missed Three Point Jumper,42,50
+0:01,Army,None,Team Rebound,42,50
+0:00,Duke,None,None,42,50
+20:00,Army,None,None,42,50
+19:43,Army,Jacob Kessler,Missed Layup,42,50
+19:43,Duke,Marques Bolden,Block,42,50
+19:43,Army,Josh Caldwell,Offensive Rebound,42,50
+19:24,Army,Jordan Fox,Three Point Jumper,45,50
+19:15,Duke,Marques Bolden,Missed Three Point Jumper,45,50
+19:15,Army,Matt Wilson,Defensive Rebound,45,50
+18:56,Army,Jordan Fox,Missed Three Point Jumper,45,50
+18:56,Army,Jacob Kessler,Offensive Rebound,45,50
+18:50,Army,Jacob Kessler,Layup,47,50
+18:41,Duke,Tre Jones,Missed Jumper,47,50
+18:36,Duke,Zion Williamson,Offensive Rebound,47,50
+18:35,Duke,Zion Williamson,Missed Layup,47,50
+18:35,Duke,Zion Williamson,Offensive Rebound,47,50
+18:35,Duke,Cam Reddish,Missed Three Point Jumper,47,50
+18:11,Duke,Zion Williamson,Offensive Rebound,47,50
+18:04,Army,Matt Wilson,Foul,47,50
+18:04,Army,Jacob Kessler,Foul,47,50
+18:04,Duke,Cam Reddish,Three Point Jumper,47,53
+18:04,Army,Matt Wilson,Layup,49,53
+18:03,Duke,Cam Reddish,Three Point Jumper,49,56
+17:53,Army,Josh Caldwell,Missed Jumper,49,56
+17:53,Duke,Marques Bolden,Defensive Rebound,49,56
+17:35,Army,Jacob Kessler,Foul,49,56
+17:24,Duke,RJ Barrett,Jumper,49,58
+17:13,Army,Alex King,Missed Layup,49,58
+17:13,Duke,Cam Reddish,Defensive Rebound,49,58
+17:05,Duke,RJ Barrett,Missed Three Point Jumper,49,58
+17:05,Duke,Zion Williamson,Offensive Rebound,49,58
+16:51,Army,Tucker Blackwell,Foul,49,58
+16:45,Duke,Marques Bolden,Missed Jumper,49,58
+16:45,Army,Ben Kinker,Block,49,58
+16:45,Army,Ben Kinker,Defensive Rebound,49,58
+16:32,Army,Aaron Duhart,Turnover,49,58
+16:32,Duke,Marques Bolden,Steal,49,58
+16:29,Duke,RJ Barrett,Dunk,49,60
+16:24,Army,None,None,49,60
+16:10,Army,Jordan Fox,Turnover,49,60
+16:10,Duke,RJ Barrett,Steal,49,60
+16:04,Duke,RJ Barrett,Missed Layup,49,60
+16:04,Army,Aaron Duhart,Defensive Rebound,49,60
+15:57,Army,Jordan Fox,Missed Three Point Jumper,49,60
+15:57,Army,Tucker Blackwell,Offensive Rebound,49,60
+15:57,Army,Alex King,Jumper,51,60
+15:35,Duke,None,None,51,60
+15:35,Army,Ben Kinker,Foul,51,60
+15:34,Duke,Zion Williamson,Free Throw,51,61
+15:34,Duke,Zion Williamson,Missed Free Throw,51,61
+15:34,Army,Alex King,Defensive Rebound,51,61
+15:15,Army,Matt Wilson,Missed Jumper,51,61
+15:15,Duke,Zion Williamson,Defensive Rebound,51,61
+15:06,Army,Alex King,Foul,51,61
+15:06,Duke,Zion Williamson,Free Throw,51,62
+15:06,Duke,Zion Williamson,Missed Free Throw,51,62
+15:06,Army,Matt Wilson,Defensive Rebound,51,62
+14:57,Army,Tommy Funk,Missed Layup,51,62
+14:57,Army,Matt Wilson,Offensive Rebound,51,62
+14:49,Army,Matt Wilson,Layup,53,62
+14:42,Duke,Cam Reddish,Turnover,53,62
+14:42,Army,Josh Caldwell,Steal,53,62
+14:38,Duke,Cam Reddish,Foul,53,62
+14:22,Army,Matt Wilson,Jumper,55,62
+14:03,Duke,RJ Barrett,Dunk,55,64
+13:53,Army,Alex King,Missed Three Point Jumper,55,64
+13:53,Duke,Zion Williamson,Defensive Rebound,55,64
+13:38,Duke,Zion Williamson,Missed Jumper,55,64
+13:38,Army,Josh Caldwell,Defensive Rebound,55,64
+13:30,Army,Alex King,Missed Layup,55,64
+13:30,Duke,Zion Williamson,Block,55,64
+13:30,Army,Army,Offensive Rebound,55,64
+13:30,Army,Jordan Fox,Missed Three Point Jumper,55,64
+13:30,Army,Army,Offensive Rebound,55,64
+13:17,Army,Tommy Funk,Missed Layup,55,64
+13:17,Duke,Zion Williamson,Block,55,64
+13:17,Army,Army,Offensive Rebound,55,64
+13:11,Army,Josh Caldwell,Missed Jumper,55,64
+13:11,Duke,Zion Williamson,Block,55,64
+13:11,Duke,RJ Barrett,Defensive Rebound,55,64
+12:59,Duke,RJ Barrett,Layup,55,66
+12:59,Army,Jordan Fox,Foul,55,66
+12:59,Duke,RJ Barrett,Free Throw,55,67
+12:52,Army,Tommy Funk,Three Point Jumper,58,67
+12:32,Duke,Jack White,Missed Three Point Jumper,58,67
+12:32,Army,Josh Caldwell,Defensive Rebound,58,67
+12:16,Army,Tommy Funk,Three Point Jumper,61,67
+11:51,Duke,Cam Reddish,Missed Three Point Jumper,61,67
+11:51,Army,Tommy Funk,Defensive Rebound,61,67
+11:42,Duke,Jack White,Foul,61,67
+11:42,Duke,None,None,61,67
+11:38,Army,Jordan Fox,Missed Jumper,61,67
+11:38,Duke,Javin DeLaurier,Defensive Rebound,61,67
+11:28,Duke,Cam Reddish,Jumper,61,69
+11:01,Army,Tommy Funk,Missed Layup,61,69
+11:01,Duke,RJ Barrett,Defensive Rebound,61,69
+10:53,Duke,Cam Reddish,Three Point Jumper,61,72
+10:41,Army,Jordan Fox,Missed Three Point Jumper,61,72
+10:41,Duke,Jack White,Defensive Rebound,61,72
+10:33,Duke,RJ Barrett,Three Point Jumper,61,75
+10:23,Army,None,None,61,75
+10:10,Army,Josh Caldwell,Missed Layup,61,75
+10:10,Duke,Zion Williamson,Block,61,75
+10:10,Duke,RJ Barrett,Defensive Rebound,61,75
+9:56,Duke,Jack White,Missed Three Point Jumper,61,75
+9:56,Army,Josh Caldwell,Defensive Rebound,61,75
+9:35,Army,Jordan Fox,Foul,61,75
+9:35,Army,Jordan Fox,Turnover,61,75
+9:21,Duke,Cam Reddish,Three Point Jumper,61,78
+9:10,Army,Tommy Funk,Layup,63,78
+8:51,Duke,Cam Reddish,Missed Three Point Jumper,63,78
+8:51,Army,Josh Caldwell,Defensive Rebound,63,78
+8:33,Duke,RJ Barrett,Foul,63,78
+8:27,Army,Josh Caldwell,Missed Layup,63,78
+8:27,Duke,Zion Williamson,Block,63,78
+8:27,Army,Army,Offensive Rebound,63,78
+8:20,Duke,Zion Williamson,Foul,63,78
+8:09,Army,Alex King,Missed Jumper,63,78
+8:09,Duke,Duke,Defensive Rebound,63,78
+7:58,Duke,RJ Barrett,Turnover,63,78
+7:58,Duke,None,None,63,78
+7:42,Army,Alex King,Missed Three Point Jumper,63,78
+7:42,Duke,Zion Williamson,Defensive Rebound,63,78
+7:17,Duke,RJ Barrett,Layup,63,80
+7:17,Army,Matt Wilson,Foul,63,80
+7:17,Duke,RJ Barrett,Free Throw,63,81
+7:02,Army,Alex King,Three Point Jumper,66,81
+6:44,Duke,Jack White,Three Point Jumper,66,84
+6:37,Army,Jordan Fox,Layup,68,84
+6:10,Duke,RJ Barrett,Missed Layup,68,84
+6:10,Army,Matt Wilson,Defensive Rebound,68,84
+6:03,Army,Jordan Fox,Missed Three Point Jumper,68,84
+6:03,Duke,Zion Williamson,Defensive Rebound,68,84
+5:33,Duke,RJ Barrett,Turnover,68,84
+5:22,Army,Jordan Fox,Turnover,68,84
+5:22,Duke,Jack White,Steal,68,84
+5:06,Duke,Tre Jones,Three Point Jumper,68,87
+4:53,Army,Jordan Fox,Missed Three Point Jumper,68,87
+4:53,Army,Army,Offensive Rebound,68,87
+4:34,Army,Tommy Funk,Turnover,68,87
+4:34,Duke,Cam Reddish,Steal,68,87
+4:28,Duke,Cam Reddish,Turnover,68,87
+4:28,Army,Tucker Blackwell,Steal,68,87
+4:19,Army,Tucker Blackwell,Missed Three Point Jumper,68,87
+4:19,Duke,Zion Williamson,Defensive Rebound,68,87
+3:53,Duke,Jack White,Missed Three Point Jumper,68,87
+3:53,Duke,Zion Williamson,Offensive Rebound,68,87
+3:48,Duke,Zion Williamson,Layup,68,89
+3:35,Army,Tommy Funk,Missed Three Point Jumper,68,89
+3:35,Duke,RJ Barrett,Defensive Rebound,68,89
+3:17,Duke,Tre Jones,Turnover,68,89
+3:17,Duke,None,None,68,89
+3:10,Duke,Cam Reddish,Foul,68,89
+3:10,Army,Lonnie Grayson,Missed Free Throw,68,89
+3:10,Army,None,Team Rebound,68,89
+3:10,Army,Lonnie Grayson,Free Throw,69,89
+2:50,Duke,Zion Williamson,Layup,69,91
+2:31,Army,Tucker Blackwell,Missed Three Point Jumper,69,91
+2:31,Duke,RJ Barrett,Defensive Rebound,69,91
+2:02,Duke,Tre Jones,Three Point Jumper,69,94
+1:31,Army,John Emezie,Missed Jumper,69,94
+1:31,Duke,Jordan Goldwire,Defensive Rebound,69,94
+1:15,Duke,Alex O'Connell,Missed Three Point Jumper,69,94
+1:15,Army,Lonnie Grayson,Defensive Rebound,69,94
+0:57,Army,John Emezie,Three Point Jumper,72,94
+0:22,Duke,Duke ,Turnover,72,94
+0:05,Army,Lonnie Grayson,Missed Layup,72,94
+0:05,Duke,Alex O'Connell,Defensive Rebound,72,94
+0:00,Duke,None,None,72,94

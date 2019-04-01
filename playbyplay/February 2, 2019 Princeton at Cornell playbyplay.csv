@@ -1,0 +1,336 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,Cornell,Jimmy Boeheim,Missed Layup,0,0
+19:44,Princeton,Myles Stephens,Defensive Rebound,0,0
+19:27,Princeton,Richmond Aririguzoh,Layup,2,0
+19:03,Cornell,Joel Davis,Missed Three Point Jumper,2,0
+19:03,Princeton,Ryan Schwieger,Defensive Rebound,2,0
+18:52,Princeton,Jaelin Llewellyn,Layup,4,0
+18:20,Cornell,Joel Davis,Layup,4,2
+17:55,Princeton,Ryan Schwieger,Layup,6,2
+17:31,Cornell,Matt Morgan,Jumper,6,4
+16:58,Princeton,Princeton ,Turnover,6,4
+16:47,Cornell,Josh Warren,Missed Layup,6,4
+16:47,Princeton,Myles Stephens,Defensive Rebound,6,4
+16:30,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,6,4
+16:30,Cornell,Cornell,Defensive Rebound,6,4
+16:14,Cornell,Jimmy Boeheim,Missed Layup,6,4
+16:14,Cornell,Steven Julian,Offensive Rebound,6,4
+16:11,Cornell,Steven Julian,Layup,6,6
+15:51,Princeton,Jerome Desrosiers,Jumper,8,6
+15:36,Cornell,Joel Davis,Missed Layup,8,6
+15:36,Princeton,Jerome Desrosiers,Defensive Rebound,8,6
+15:13,Cornell,Josh Warren,Foul,8,6
+15:13,Cornell,None,None,8,6
+15:13,Princeton,Myles Stephens,Free Throw,9,6
+15:13,Princeton,Myles Stephens,Free Throw,10,6
+14:45,Cornell,Steven Julian,Missed Three Point Jumper,10,6
+14:45,Princeton,Richmond Aririguzoh,Defensive Rebound,10,6
+14:18,Princeton,Ryan Schwieger,Jumper,12,6
+14:00,Cornell,Josh Warren,Missed Three Point Jumper,12,6
+14:00,Princeton,Richmond Aririguzoh,Defensive Rebound,12,6
+13:52,Princeton,Jaelin Llewellyn,Missed Layup,12,6
+13:52,Cornell,Steven Julian,Block,12,6
+13:50,Princeton,Richmond Aririguzoh,Offensive Rebound,12,6
+13:48,Princeton,Myles Stephens,Turnover,12,6
+13:48,Princeton,Myles Stephens,Foul,12,6
+13:34,Cornell,Matt Morgan,Layup,12,8
+13:11,Princeton,Jerome Desrosiers,Turnover,12,8
+13:10,Cornell,Terrance McBride,Steal,12,8
+13:08,Princeton,Jose Morales,Foul,12,8
+12:42,Cornell,Matt Morgan,Jumper,12,10
+12:25,Princeton,Sebastian Much,Turnover,12,10
+12:25,Princeton,Sebastian Much,Foul,12,10
+12:12,Cornell,Josh Warren,Missed Jumper,12,10
+12:12,Princeton,Ryan Schwieger,Block,12,10
+12:11,Princeton,Ryan Schwieger,Defensive Rebound,12,10
+11:59,Princeton,Sebastian Much,Missed Jumper,12,10
+11:59,Cornell,Jack Gordon,Defensive Rebound,12,10
+11:32,Cornell,Jake Kuhn,Turnover,12,10
+11:31,Princeton,Jerome Desrosiers,Steal,12,10
+11:20,Princeton,Ryan Schwieger,Layup,14,10
+10:55,Cornell,Terrance McBride,Jumper,14,12
+10:34,Princeton,Jose Morales,Missed Three Point Jumper,14,12
+10:34,Cornell,Jake Kuhn,Defensive Rebound,14,12
+10:10,Cornell,Terrance McBride,Missed Three Point Jumper,14,12
+10:10,Princeton,Jaelin Llewellyn,Defensive Rebound,14,12
+9:51,Princeton,Jerome Desrosiers,Layup,16,12
+9:21,Cornell,Terrance McBride,Missed Layup,16,12
+9:21,Princeton,Jerome Desrosiers,Defensive Rebound,16,12
+9:13,Princeton,Jose Morales,Missed Layup,16,12
+9:13,Cornell,Jake Kuhn,Defensive Rebound,16,12
+8:56,Cornell,Jimmy Boeheim,Turnover,16,12
+8:55,Princeton,Jaelin Llewellyn,Steal,16,12
+8:50,Princeton,Jaelin Llewellyn,Layup,18,12
+8:34,Cornell,None,None,18,12
+8:34,Cornell,None,None,18,12
+8:28,Cornell,Jake Kuhn,Missed Three Point Jumper,18,12
+8:28,Princeton,Sebastian Much,Defensive Rebound,18,12
+8:11,Princeton,Jaelin Llewellyn,Missed Layup,18,12
+8:11,Cornell,Jake Kuhn,Defensive Rebound,18,12
+7:49,Cornell,Steven Julian,Jumper,18,14
+7:34,Cornell,Steven Julian,Foul,18,14
+7:34,Cornell,None,None,18,14
+7:15,Princeton,Myles Stephens,Missed Jumper,18,14
+7:15,Cornell,Cornell,Defensive Rebound,18,14
+6:51,Cornell,Bryan Knapp,Three Point Jumper,18,17
+6:29,Princeton,Richmond Aririguzoh,Layup,20,17
+6:15,Cornell,Josh Warren,Layup,20,19
+5:57,Princeton,Myles Stephens,Three Point Jumper,23,19
+5:42,Cornell,Matt Morgan,Missed Three Point Jumper,23,19
+5:42,Princeton,Jaelin Llewellyn,Defensive Rebound,23,19
+5:15,Princeton,Richmond Aririguzoh,Turnover,23,19
+4:56,Cornell,Josh Warren,Three Point Jumper,23,22
+4:35,Princeton,Jose Morales,Turnover,23,22
+4:35,Princeton,Jose Morales,Foul,23,22
+4:26,Cornell,Matt Morgan,Turnover,23,22
+4:26,Cornell,Matt Morgan,Foul,23,22
+4:17,Princeton,Sebastian Much,Turnover,23,22
+4:16,Cornell,Jake Kuhn,Steal,23,22
+4:03,Cornell,Steven Julian,Missed Layup,23,22
+4:03,Princeton,Jose Morales,Defensive Rebound,23,22
+3:55,Cornell,Bryan Knapp,Foul,23,22
+3:55,Cornell,None,None,23,22
+3:54,Cornell,None,None,23,22
+3:44,Princeton,Ryan Schwieger,Turnover,23,22
+3:42,Cornell,Matt Morgan,Steal,23,22
+3:25,Cornell,Riley Voss,Missed Three Point Jumper,23,22
+3:25,Cornell,Steven Julian,Offensive Rebound,23,22
+3:20,Cornell,Matt Morgan,Missed Three Point Jumper,23,22
+3:20,Princeton,Jaelin Llewellyn,Defensive Rebound,23,22
+3:06,Cornell,Riley Voss,Foul,23,22
+2:59,Princeton,Ryan Schwieger,Missed Layup,23,22
+2:59,Cornell,Steven Julian,Block,23,22
+2:58,Cornell,Matt Morgan,Defensive Rebound,23,22
+2:54,Princeton,Sebastian Much,Foul,23,22
+2:33,Cornell,Riley Voss,Missed Layup,23,22
+2:33,Cornell,Steven Julian,Offensive Rebound,23,22
+2:31,Princeton,Richmond Aririguzoh,Foul,23,22
+2:31,Cornell,Steven Julian,Missed Free Throw,23,22
+2:31,Cornell,None,Team Rebound,23,22
+2:31,Cornell,Steven Julian,Free Throw,23,23
+2:17,Princeton,Richmond Aririguzoh,Layup,25,23
+2:17,Cornell,Josh Warren,Foul,25,23
+2:17,Princeton,Richmond Aririguzoh,Free Throw,26,23
+1:47,Cornell,Riley Voss,Missed Layup,26,23
+1:47,Princeton,Richmond Aririguzoh,Defensive Rebound,26,23
+1:32,Princeton,Richmond Aririguzoh,Turnover,26,23
+1:16,Cornell,Matt Morgan,Missed Three Point Jumper,26,23
+1:16,Cornell,Jimmy Boeheim,Offensive Rebound,26,23
+1:13,Cornell,Jimmy Boeheim,Missed Jumper,26,23
+1:13,Princeton,Myles Stephens,Defensive Rebound,26,23
+0:55,Princeton,Jerome Desrosiers,Three Point Jumper,29,23
+0:42,Cornell,Matt Morgan,Missed Layup,29,23
+0:42,Princeton,Myles Stephens,Block,29,23
+0:41,Cornell,Bryan Knapp,Offensive Rebound,29,23
+0:35,Cornell,Riley Voss,Missed Three Point Jumper,29,23
+0:35,Princeton,Ryan Schwieger,Defensive Rebound,29,23
+0:27,Princeton,None,None,29,23
+0:03,Princeton,Ryan Schwieger,Jumper,31,23
+0:00,Cornell,None,None,31,23
+19:46,Princeton,Myles Stephens,Missed Three Point Jumper,31,23
+19:46,Princeton,Richmond Aririguzoh,Offensive Rebound,31,23
+19:34,Cornell,Josh Warren,Foul,31,23
+19:34,Princeton,Richmond Aririguzoh,Missed Free Throw,31,23
+19:34,Princeton,None,Team Rebound,31,23
+19:34,Princeton,Richmond Aririguzoh,Free Throw,32,23
+19:18,Princeton,Ryan Schwieger,Foul,32,23
+19:09,Cornell,Steven Julian,Layup,32,25
+18:42,Princeton,Ryan Schwieger,Jumper,34,25
+18:35,Cornell,Matt Morgan,Turnover,34,25
+18:35,Cornell,Matt Morgan,Foul,34,25
+18:16,Princeton,Ryan Schwieger,Missed Jumper,34,25
+18:16,Cornell,Joel Davis,Defensive Rebound,34,25
+18:08,Princeton,Jerome Desrosiers,Foul,34,25
+18:08,Cornell,Joel Davis,Missed Free Throw,34,25
+18:08,Cornell,None,Team Rebound,34,25
+18:08,Cornell,Joel Davis,Missed Free Throw,34,25
+18:08,Princeton,Jerome Desrosiers,Defensive Rebound,34,25
+17:39,Cornell,Steven Julian,Foul,34,25
+17:39,Princeton,Ryan Schwieger,Free Throw,35,25
+17:39,Princeton,Ryan Schwieger,Missed Free Throw,35,25
+17:39,Cornell,Steven Julian,Defensive Rebound,35,25
+17:21,Cornell,Jimmy Boeheim,Missed Layup,35,25
+17:21,Princeton,Myles Stephens,Defensive Rebound,35,25
+17:20,Cornell,Joel Davis,Foul,35,25
+17:06,Princeton,Jaelin Llewellyn,Turnover,35,25
+17:05,Cornell,Joel Davis,Steal,35,25
+17:00,Cornell,Steven Julian,Dunk,35,27
+16:41,Princeton,Richmond Aririguzoh,Layup,37,27
+16:41,Cornell,Jimmy Boeheim,Foul,37,27
+16:41,Princeton,Richmond Aririguzoh,Free Throw,38,27
+16:27,Cornell,Josh Warren,Layup,38,29
+16:07,Princeton,Richmond Aririguzoh,Turnover,38,29
+16:06,Cornell,Steven Julian,Steal,38,29
+16:04,Princeton,Jerome Desrosiers,Foul,38,29
+16:04,Cornell,Steven Julian,Missed Free Throw,38,29
+16:04,Cornell,None,Team Rebound,38,29
+16:04,Cornell,Steven Julian,Free Throw,38,30
+15:43,Princeton,Myles Stephens,Jumper,40,30
+15:24,Princeton,Jose Morales,Foul,40,30
+15:24,Cornell,None,None,40,30
+15:24,Cornell,Josh Warren,Free Throw,40,31
+15:24,Cornell,Josh Warren,Free Throw,40,32
+14:59,Princeton,Ryan Schwieger,Missed Layup,40,32
+14:59,Cornell,Joel Davis,Block,40,32
+14:58,Cornell,Steven Julian,Defensive Rebound,40,32
+14:54,Cornell,Matt Morgan,Layup,40,34
+14:22,Princeton,Ryan Schwieger,Missed Three Point Jumper,40,34
+14:22,Cornell,Josh Warren,Defensive Rebound,40,34
+14:06,Cornell,Matt Morgan,Layup,40,36
+13:38,Princeton,Ryan Schwieger,Layup,42,36
+13:09,Cornell,Matt Morgan,Three Point Jumper,42,39
+12:52,Cornell,Joel Davis,Foul,42,39
+12:36,Princeton,Ryan Schwieger,Missed Jumper,42,39
+12:36,Cornell,Joel Davis,Defensive Rebound,42,39
+12:09,Cornell,Josh Warren,Layup,42,41
+11:39,Cornell,None,None,42,41
+11:37,Cornell,Jack Gordon,Foul,42,41
+11:37,Cornell,None,None,42,41
+11:37,Princeton,Richmond Aririguzoh,Free Throw,43,41
+11:37,Princeton,Richmond Aririguzoh,Free Throw,44,41
+11:24,Cornell,Jack Gordon,Missed Jumper,44,41
+11:24,Cornell,Josh Warren,Offensive Rebound,44,41
+11:23,Cornell,Josh Warren,Layup,44,43
+11:23,Princeton,Drew Friberg,Foul,44,43
+11:23,Cornell,Josh Warren,Free Throw,44,44
+11:02,Cornell,Steven Julian,Foul,44,44
+11:02,Princeton,Richmond Aririguzoh,Free Throw,45,44
+11:02,Princeton,Richmond Aririguzoh,Free Throw,46,44
+10:49,Cornell,Jack Gordon,Jumper,46,46
+10:49,Princeton,Ethan Wright,Foul,46,46
+10:49,Cornell,Jack Gordon,Free Throw,46,47
+10:32,Princeton,Richmond Aririguzoh,Dunk,48,47
+10:20,Cornell,Terrance McBride,Missed Three Point Jumper,48,47
+10:20,Princeton,Myles Stephens,Defensive Rebound,48,47
+9:55,Princeton,Jose Morales,Layup,50,47
+9:32,Cornell,Jack Gordon,Missed Jumper,50,47
+9:32,Princeton,Ethan Wright,Defensive Rebound,50,47
+9:05,Princeton,Myles Stephens,Missed Three Point Jumper,50,47
+9:05,Cornell,Josh Warren,Defensive Rebound,50,47
+8:52,Cornell,Josh Warren,Turnover,50,47
+8:50,Princeton,Ethan Wright,Steal,50,47
+8:32,Princeton,Ryan Schwieger,Missed Three Point Jumper,50,47
+8:32,Cornell,Bryan Knapp,Defensive Rebound,50,47
+8:21,Cornell,Matt Morgan,Missed Layup,50,47
+8:21,Princeton,Richmond Aririguzoh,Block,50,47
+8:19,Princeton,Ryan Schwieger,Defensive Rebound,50,47
+8:08,Princeton,Jose Morales,Turnover,50,47
+8:07,Cornell,Terrance McBride,Steal,50,47
+8:03,Cornell,Terrance McBride,Layup,50,49
+8:01,Cornell,None,None,50,49
+7:28,Princeton,Jerome Desrosiers,Missed Jumper,50,49
+7:28,Cornell,Joel Davis,Defensive Rebound,50,49
+7:02,Cornell,Jimmy Boeheim,Jumper,50,51
+6:33,Princeton,Jerome Desrosiers,Missed Jumper,50,51
+6:33,Cornell,Joel Davis,Defensive Rebound,50,51
+6:26,Princeton,Jerome Desrosiers,Foul,50,51
+6:26,Cornell,Joel Davis,Missed Free Throw,50,51
+6:26,Princeton,Jerome Desrosiers,Defensive Rebound,50,51
+6:02,Princeton,Myles Stephens,Layup,52,51
+5:52,Cornell,Joel Davis,Missed Three Point Jumper,52,51
+5:52,Princeton,Myles Stephens,Defensive Rebound,52,51
+5:22,Princeton,Myles Stephens,Turnover,52,51
+4:54,Cornell,Terrance McBride,Missed Jumper,52,51
+4:54,Princeton,Jerome Desrosiers,Defensive Rebound,52,51
+4:38,Princeton,Ryan Schwieger,Missed Jumper,52,51
+4:38,Cornell,Steven Julian,Defensive Rebound,52,51
+4:30,Cornell,Steven Julian,Missed Layup,52,51
+4:30,Cornell,Steven Julian,Offensive Rebound,52,51
+4:26,Cornell,Matt Morgan,Missed Three Point Jumper,52,51
+4:26,Princeton,Princeton,Defensive Rebound,52,51
+4:23,Princeton,None,None,52,51
+4:01,Princeton,Myles Stephens,Jumper,54,51
+3:29,Cornell,Jimmy Boeheim,Missed Three Point Jumper,54,51
+3:29,Princeton,Jerome Desrosiers,Defensive Rebound,54,51
+3:11,Princeton,Jose Morales,Layup,56,51
+3:04,Princeton,Jose Morales,Foul,56,51
+3:04,Cornell,Terrance McBride,Missed Free Throw,56,51
+3:04,Cornell,None,Team Rebound,56,51
+3:04,Cornell,Terrance McBride,Free Throw,56,52
+2:36,Princeton,Jose Morales,Missed Three Point Jumper,56,52
+2:36,Cornell,Steven Julian,Defensive Rebound,56,52
+2:19,Cornell,Jimmy Boeheim,Missed Layup,56,52
+2:19,Cornell,Jimmy Boeheim,Offensive Rebound,56,52
+2:17,Cornell,Jimmy Boeheim,Missed Layup,56,52
+2:17,Princeton,Jose Morales,Defensive Rebound,56,52
+2:06,Princeton,Jose Morales,Turnover,56,52
+2:05,Cornell,Steven Julian,Steal,56,52
+2:03,Cornell,Steven Julian,Dunk,56,54
+1:27,Princeton,Jerome Desrosiers,Missed Layup,56,54
+1:27,Cornell,Steven Julian,Block,56,54
+1:26,Cornell,Josh Warren,Defensive Rebound,56,54
+1:02,Cornell,None,None,56,54
+0:59,Cornell,Jack Gordon,Missed Three Point Jumper,56,54
+0:59,Princeton,Jerome Desrosiers,Defensive Rebound,56,54
+0:51,Princeton,None,None,56,54
+0:26,Princeton,Jose Morales,Missed Three Point Jumper,56,54
+0:26,Princeton,Princeton,Offensive Rebound,56,54
+0:24,Princeton,Princeton ,Turnover,56,54
+0:18,Princeton,Richmond Aririguzoh,Foul,56,54
+0:18,Cornell,Josh Warren,Free Throw,56,55
+0:18,Cornell,Josh Warren,Free Throw,56,56
+0:18,Princeton,None,None,56,56
+0:01,Princeton,Jose Morales,Missed Layup,56,56
+0:01,Princeton,Myles Stephens,Offensive Rebound,56,56
+0:00,Princeton,Myles Stephens,Missed Layup,56,56
+0:00,Cornell,Cornell,Defensive Rebound,56,56
+0:00,Cornell,None,None,56,56
+4:38,Cornell,Jack Gordon,Foul,56,56
+4:38,Princeton,Myles Stephens,Free Throw,57,56
+4:38,Princeton,Myles Stephens,Free Throw,58,56
+4:27,Cornell,Matt Morgan,Three Point Jumper,58,59
+3:49,Princeton,Richmond Aririguzoh,Dunk,60,59
+3:34,Cornell,Josh Warren,Turnover,60,59
+3:34,Princeton,Myles Stephens,Steal,60,59
+3:17,Princeton,Myles Stephens,Jumper,62,59
+3:10,Cornell,Jack Gordon,Turnover,62,59
+3:10,Cornell,Jack Gordon,Foul,62,59
+3:08,Princeton,Myles Stephens,Turnover,62,59
+3:07,Cornell,Jack Gordon,Steal,62,59
+2:52,Cornell,Matt Morgan,Missed Three Point Jumper,62,59
+2:52,Cornell,Josh Warren,Offensive Rebound,62,59
+2:48,Cornell,Jack Gordon,Missed Three Point Jumper,62,59
+2:48,Cornell,Josh Warren,Offensive Rebound,62,59
+2:33,Cornell,Josh Warren,Missed Jumper,62,59
+2:33,Princeton,Jerome Desrosiers,Defensive Rebound,62,59
+2:13,Princeton,Richmond Aririguzoh,Turnover,62,59
+1:51,Cornell,Jimmy Boeheim,Missed Three Point Jumper,62,59
+1:51,Princeton,Myles Stephens,Defensive Rebound,62,59
+1:45,Princeton,Myles Stephens,Turnover,62,59
+1:45,Cornell,Matt Morgan,Steal,62,59
+1:32,Cornell,Steven Julian,Missed Three Point Jumper,62,59
+1:32,Princeton,Ryan Schwieger,Defensive Rebound,62,59
+1:23,Cornell,Jack Gordon,Foul,62,59
+1:23,Princeton,Ryan Schwieger,Missed Free Throw,62,59
+1:23,Princeton,None,Team Rebound,62,59
+1:23,Princeton,Ryan Schwieger,Free Throw,63,59
+1:17,Cornell,Matt Morgan,Turnover,63,59
+1:16,Princeton,Myles Stephens,Steal,63,59
+1:03,Cornell,Bryan Knapp,Foul,63,59
+1:03,Princeton,Jose Morales,Free Throw,64,59
+1:03,Princeton,Jose Morales,Free Throw,65,59
+0:58,Cornell,Matt Morgan,Turnover,65,59
+0:51,Cornell,Matt Morgan,Foul,65,59
+0:51,Princeton,Jose Morales,Free Throw,66,59
+0:51,Princeton,Jose Morales,Missed Free Throw,66,59
+0:51,Cornell,Jack Gordon,Defensive Rebound,66,59
+0:42,Cornell,Jake Kuhn,Layup,66,61
+0:42,Cornell,None,None,66,61
+0:33,Cornell,Bryan Knapp,Foul,66,61
+0:33,Princeton,Richmond Aririguzoh,Missed Free Throw,66,61
+0:33,Princeton,None,Team Rebound,66,61
+0:33,Princeton,Richmond Aririguzoh,Free Throw,67,61
+0:21,Cornell,Matt Morgan,Turnover,67,61
+0:19,Cornell,Joel Davis,Foul,67,61
+0:19,Princeton,Jose Morales,Free Throw,68,61
+0:19,Princeton,Jose Morales,Free Throw,69,61
+0:16,Cornell,Matt Morgan,Turnover,69,61
+0:13,Cornell,Bryan Knapp,Foul,69,61
+0:13,Princeton,Jerome Desrosiers,Missed Free Throw,69,61
+0:13,Princeton,None,Team Rebound,69,61
+0:13,Princeton,Jerome Desrosiers,Free Throw,70,61
+0:07,Cornell,Bryan Knapp,Missed Layup,70,61
+0:07,Cornell,Joel Davis,Offensive Rebound,70,61
+0:03,Cornell,Jack Gordon,Missed Jumper,70,61
+0:03,Princeton,Jerome Desrosiers,Defensive Rebound,70,61
+0:00,Cornell,None,None,70,61

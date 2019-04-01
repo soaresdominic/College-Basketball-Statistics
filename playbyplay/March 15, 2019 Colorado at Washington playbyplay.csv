@@ -1,0 +1,357 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Washington,None,None,0,0
+19:50,Washington,Jaylen Nowell,Missed Jumper,0,0
+19:50,Colorado,McKinley Wright IV,Defensive Rebound,0,0
+19:27,Colorado,Shane Gatling,Missed Three Point Jumper,0,0
+19:27,Colorado,D'Shawn Schwartz,Offensive Rebound,0,0
+19:19,Colorado,D'Shawn Schwartz,Layup,2,0
+18:54,Washington,David Crisp,Missed Three Point Jumper,2,0
+18:54,Colorado,Tyler Bey,Defensive Rebound,2,0
+18:46,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,2,0
+18:46,Colorado,Colorado,Offensive Rebound,2,0
+18:32,Colorado,McKinley Wright IV,Missed Three Point Jumper,2,0
+18:32,Colorado,Tyler Bey,Offensive Rebound,2,0
+18:27,Colorado,Tyler Bey,Layup,4,0
+18:12,Washington,David Crisp,Turnover,4,0
+18:12,Colorado,Evan Battey,Steal,4,0
+18:06,Colorado,D'Shawn Schwartz,Three Point Jumper,7,0
+18:03,Washington,None,None,7,0
+17:55,Washington,David Crisp,Missed Jumper,7,0
+17:55,Colorado,Tyler Bey,Block,7,0
+17:55,Washington,Washington,Offensive Rebound,7,0
+17:43,Washington,Noah Dickerson,Turnover,7,0
+17:43,Colorado,Shane Gatling,Steal,7,0
+17:34,Washington,Matisse Thybulle,Foul,7,0
+17:18,Colorado,Tyler Bey,Turnover,7,0
+17:18,Washington,Jaylen Nowell,Steal,7,0
+17:07,Washington,Dominic Green,Missed Three Point Jumper,7,0
+17:07,Colorado,Tyler Bey,Defensive Rebound,7,0
+16:41,Washington,Noah Dickerson,Foul,7,0
+16:41,Colorado,Tyler Bey,Missed Free Throw,7,0
+16:41,Colorado,None,Team Rebound,7,0
+16:41,Colorado,Tyler Bey,Free Throw,8,0
+16:30,Washington,Matisse Thybulle,Foul,8,0
+16:30,Washington,Matisse Thybulle,Turnover,8,0
+16:13,Colorado,Shane Gatling,Turnover,8,0
+16:13,Washington,Nahziah Carter,Steal,8,0
+15:48,Colorado,Shane Gatling,Foul,8,0
+15:48,Washington,None,None,8,0
+15:45,Washington,Nahziah Carter,Missed Jumper,8,0
+15:45,Washington,Dominic Green,Offensive Rebound,8,0
+15:41,Washington,Dominic Green,Three Point Jumper,8,3
+15:21,Colorado,Daylen Kountz,Layup,10,3
+15:08,Washington,Nahziah Carter,Missed Jumper,10,3
+15:08,Colorado,Colorado,Defensive Rebound,10,3
+15:06,Washington,Sam Timmins,Foul,10,3
+14:40,Colorado,Tyler Bey,Missed Jumper,10,3
+14:40,Washington,Jaylen Nowell,Defensive Rebound,10,3
+14:33,Washington,Jaylen Nowell,Missed Three Point Jumper,10,3
+14:33,Colorado,Daylen Kountz,Defensive Rebound,10,3
+14:25,Colorado,McKinley Wright IV,Turnover,10,3
+14:25,Washington,Nahziah Carter,Steal,10,3
+14:02,Washington,Jaylen Nowell,Missed Jumper,10,3
+14:02,Washington,Sam Timmins,Offensive Rebound,10,3
+14:02,Washington,Sam Timmins,Missed Layup,10,3
+14:02,Colorado,Tyler Bey,Block,10,3
+14:02,Washington,Dominic Green,Offensive Rebound,10,3
+13:52,Washington,Nahziah Carter,Three Point Jumper,10,6
+13:33,Colorado,Tyler Bey,Jumper,12,6
+13:12,Washington,Jaylen Nowell,Jumper,12,8
+12:51,Colorado,McKinley Wright IV,Missed Jumper,12,8
+12:51,Washington,Matisse Thybulle,Block,12,8
+12:51,Colorado,McKinley Wright IV,Offensive Rebound,12,8
+12:46,Washington,Sam Timmins,Foul,12,8
+12:46,Colorado,McKinley Wright IV,Free Throw,13,8
+12:46,Colorado,McKinley Wright IV,Free Throw,14,8
+12:33,Washington,Nahziah Carter,Layup,14,10
+12:03,Colorado,Shane Gatling,Missed Jumper,14,10
+12:03,Washington,Noah Dickerson,Defensive Rebound,14,10
+11:42,Washington,Matisse Thybulle,Missed Three Point Jumper,14,10
+11:42,Colorado,Lucas Siewert,Defensive Rebound,14,10
+11:32,Colorado,Evan Battey,Jumper,16,10
+11:09,Washington,Matisse Thybulle,Dunk,16,12
+10:43,Colorado,Lucas Siewert,Jumper,18,12
+10:15,Colorado,Evan Battey,Foul,18,12
+10:15,Washington,None,None,18,12
+10:15,Washington,Noah Dickerson,Free Throw,18,13
+10:15,Washington,Noah Dickerson,Free Throw,18,14
+10:01,Colorado,Shane Gatling,Missed Jumper,18,14
+10:01,Washington,Matisse Thybulle,Defensive Rebound,18,14
+9:38,Washington,David Crisp,Turnover,18,14
+9:38,Colorado,Tyler Bey,Steal,18,14
+9:07,Colorado,Colorado ,Turnover,18,14
+8:53,Washington,David Crisp,Missed Layup,18,14
+8:53,Colorado,Colorado,Defensive Rebound,18,14
+8:29,Colorado,Tyler Bey,Missed Layup,18,14
+8:29,Washington,Jamal Bey,Defensive Rebound,18,14
+8:17,Washington,Matisse Thybulle,Three Point Jumper,18,17
+7:57,Washington,Jaylen Nowell,Foul,18,17
+7:57,Washington,None,None,18,17
+7:53,Colorado,Shane Gatling,Turnover,18,17
+7:53,Washington,Matisse Thybulle,Steal,18,17
+7:49,Washington,Matisse Thybulle,Dunk,18,19
+7:49,Colorado,McKinley Wright IV,Missed Layup,18,19
+7:49,Washington,Matisse Thybulle,Block,18,19
+7:49,Washington,Jaylen Nowell,Defensive Rebound,18,19
+7:16,Washington,David Crisp,Layup,18,21
+7:06,Colorado,Shane Gatling,Three Point Jumper,21,21
+6:47,Washington,Matisse Thybulle,Missed Three Point Jumper,21,21
+6:47,Colorado,Tyler Bey,Defensive Rebound,21,21
+6:27,Colorado,Shane Gatling,Missed Three Point Jumper,21,21
+6:27,Washington,Noah Dickerson,Defensive Rebound,21,21
+6:17,Washington,David Crisp,Missed Three Point Jumper,21,21
+6:17,Colorado,Evan Battey,Defensive Rebound,21,21
+6:12,Colorado,McKinley Wright IV,Turnover,21,21
+6:07,Washington,Noah Dickerson,Foul,21,21
+6:07,Washington,Noah Dickerson,Turnover,21,21
+5:47,Colorado,Evan Battey,Missed Jumper,21,21
+5:47,Washington,Matisse Thybulle,Defensive Rebound,21,21
+5:33,Washington,Matisse Thybulle,Turnover,21,21
+5:19,Washington,Sam Timmins,Foul,21,21
+5:19,Colorado,Tyler Bey,Free Throw,22,21
+5:19,Colorado,Tyler Bey,Free Throw,23,21
+5:05,Washington,Dominic Green,Missed Three Point Jumper,23,21
+5:05,Colorado,McKinley Wright IV,Defensive Rebound,23,21
+4:54,Colorado,D'Shawn Schwartz,Three Point Jumper,26,21
+4:36,Washington,Jaylen Nowell,Missed Three Point Jumper,26,21
+4:36,Colorado,Tyler Bey,Defensive Rebound,26,21
+4:17,Colorado,Tyler Bey,Jumper,28,21
+4:14,Washington,None,None,28,21
+3:58,Washington,Nahziah Carter,Turnover,28,21
+3:45,Colorado,D'Shawn Schwartz,Turnover,28,21
+3:45,Washington,Hameir Wright,Steal,28,21
+3:24,Washington,Matisse Thybulle,Missed Jumper,28,21
+3:24,Washington,Washington,Offensive Rebound,28,21
+3:12,Colorado,Daylen Kountz,Foul,28,21
+3:12,Colorado,Tyler Bey,Foul,28,21
+2:58,Washington,Dominic Green,Three Point Jumper,28,24
+2:30,Colorado,D'Shawn Schwartz,Turnover,28,24
+2:30,Washington,Dominic Green,Steal,28,24
+2:24,Washington,Nahziah Carter,Missed Three Point Jumper,28,24
+2:24,Colorado,McKinley Wright IV,Defensive Rebound,28,24
+2:21,Washington,Hameir Wright,Foul,28,24
+2:21,Colorado,McKinley Wright IV,Free Throw,29,24
+2:21,Colorado,McKinley Wright IV,Free Throw,30,24
+2:02,Washington,Jaylen Nowell,Layup,30,26
+1:33,Colorado,Tyler Bey,Missed Layup,30,26
+1:33,Washington,Jaylen Nowell,Defensive Rebound,30,26
+1:24,Washington,Hameir Wright,Missed Three Point Jumper,30,26
+1:24,Colorado,D'Shawn Schwartz,Defensive Rebound,30,26
+1:13,Colorado,None,None,30,26
+0:55,Colorado,D'Shawn Schwartz,Turnover,30,26
+0:55,Washington,Hameir Wright,Steal,30,26
+0:35,Colorado,Lucas Siewert,Foul,30,26
+0:35,Washington,Hameir Wright,Missed Free Throw,30,26
+0:35,Washington,None,Team Rebound,30,26
+0:35,Washington,Hameir Wright,Free Throw,30,27
+0:09,Colorado,Lucas Siewert,Three Point Jumper,33,27
+0:03,Washington,Jaylen Nowell,Missed Three Point Jumper,33,27
+0:03,Colorado,McKinley Wright IV,Block,33,27
+0:03,Washington,Washington,Offensive Rebound,33,27
+0:00,Washington,None,None,33,27
+20:00,Colorado,None,None,33,27
+19:47,Colorado,McKinley Wright IV,Missed Three Point Jumper,33,27
+19:47,Washington,David Crisp,Defensive Rebound,33,27
+19:30,Washington,Noah Dickerson,Missed Jumper,33,27
+19:30,Colorado,Shane Gatling,Defensive Rebound,33,27
+19:08,Washington,Noah Dickerson,Foul,33,27
+18:53,Colorado,McKinley Wright IV,Missed Jumper,33,27
+18:53,Colorado,Tyler Bey,Offensive Rebound,33,27
+18:48,Colorado,Tyler Bey,Missed Jumper,33,27
+18:48,Washington,Jaylen Nowell,Defensive Rebound,33,27
+18:16,Washington,David Crisp,Three Point Jumper,33,30
+17:57,Colorado,Tyler Bey,Missed Layup,33,30
+17:57,Washington,Hameir Wright,Block,33,30
+17:57,Washington,Noah Dickerson,Defensive Rebound,33,30
+17:48,Washington,David Crisp,Missed Three Point Jumper,33,30
+17:48,Washington,Hameir Wright,Offensive Rebound,33,30
+17:37,Washington,Jaylen Nowell,Missed Jumper,33,30
+17:37,Washington,Washington,Offensive Rebound,33,30
+17:37,Colorado,Evan Battey,Foul,33,30
+17:35,Washington,Matisse Thybulle,Three Point Jumper,33,33
+17:14,Washington,Matisse Thybulle,Foul,33,33
+17:14,Colorado,Tyler Bey,Free Throw,34,33
+17:14,Colorado,Tyler Bey,Free Throw,35,33
+17:00,Washington,Jaylen Nowell,Missed Jumper,35,33
+17:00,Colorado,McKinley Wright IV,Defensive Rebound,35,33
+16:54,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,35,33
+16:54,Colorado,Lucas Siewert,Offensive Rebound,35,33
+16:48,Washington,Jaylen Nowell,Foul,35,33
+16:48,Colorado,D'Shawn Schwartz,Missed Free Throw,35,33
+16:48,Colorado,None,Team Rebound,35,33
+16:48,Colorado,D'Shawn Schwartz,Missed Free Throw,35,33
+16:48,Washington,Noah Dickerson,Defensive Rebound,35,33
+16:32,Washington,Jaylen Nowell,Layup,35,35
+16:32,Colorado,D'Shawn Schwartz,Foul,35,35
+16:32,Washington,Jaylen Nowell,Free Throw,35,36
+16:23,Colorado,Shane Gatling,Missed Three Point Jumper,35,36
+16:23,Washington,Jaylen Nowell,Defensive Rebound,35,36
+16:17,Washington,Jaylen Nowell,Turnover,35,36
+16:17,Colorado,McKinley Wright IV,Steal,35,36
+16:12,Colorado,McKinley Wright IV,Missed Three Point Jumper,35,36
+16:12,Colorado,D'Shawn Schwartz,Offensive Rebound,35,36
+16:07,Colorado,D'Shawn Schwartz,Turnover,35,36
+16:07,Washington,Hameir Wright,Steal,35,36
+15:57,Washington,Jaylen Nowell,Jumper,35,38
+15:37,Colorado,Tyler Bey,Turnover,35,38
+15:37,Washington,Noah Dickerson,Steal,35,38
+15:30,Colorado,Shane Gatling,Foul,35,38
+15:30,Washington,None,None,35,38
+15:28,Washington,Noah Dickerson,Missed Jumper,35,38
+15:28,Colorado,Lucas Siewert,Defensive Rebound,35,38
+15:11,Colorado,Lucas Siewert,Turnover,35,38
+15:11,Washington,Hameir Wright,Steal,35,38
+14:55,Washington,Nahziah Carter,Layup,35,40
+14:55,Colorado,D'Shawn Schwartz,Foul,35,40
+14:55,Washington,Nahziah Carter,Free Throw,35,41
+14:28,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,35,41
+14:28,Colorado,Lucas Siewert,Offensive Rebound,35,41
+14:18,Colorado,McKinley Wright IV,Turnover,35,41
+14:03,Washington,Nahziah Carter,Layup,35,43
+13:56,Colorado,None,None,35,43
+13:30,Colorado,Colorado ,Turnover,35,43
+13:08,Washington,Dominic Green,Missed Three Point Jumper,35,43
+13:08,Colorado,Colorado,Defensive Rebound,35,43
+13:04,Washington,Nahziah Carter,Foul,35,43
+12:47,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,35,43
+12:47,Colorado,Tyler Bey,Offensive Rebound,35,43
+12:42,Colorado,Tyler Bey,Layup,37,43
+12:21,Washington,Jaylen Nowell,Missed Jumper,37,43
+12:21,Colorado,McKinley Wright IV,Defensive Rebound,37,43
+12:08,Washington,Hameir Wright,Foul,37,43
+12:08,Colorado,Tyler Bey,Free Throw,38,43
+12:08,Colorado,Tyler Bey,Missed Free Throw,38,43
+12:08,Washington,Noah Dickerson,Defensive Rebound,38,43
+11:44,Colorado,Daylen Kountz,Foul,38,43
+11:44,Washington,None,None,38,43
+11:44,Washington,Nahziah Carter,Free Throw,38,44
+11:44,Washington,Nahziah Carter,Free Throw,38,45
+11:18,Colorado,Daylen Kountz,Missed Jumper,38,45
+11:18,Washington,Matisse Thybulle,Block,38,45
+11:18,Colorado,Colorado,Offensive Rebound,38,45
+11:17,Colorado,Evan Battey,Missed Layup,38,45
+11:17,Washington,Noah Dickerson,Defensive Rebound,38,45
+11:02,Washington,David Crisp,Missed Jumper,38,45
+11:02,Colorado,Tyler Bey,Defensive Rebound,38,45
+10:41,Colorado,McKinley Wright IV,Missed Three Point Jumper,38,45
+10:41,Washington,Noah Dickerson,Defensive Rebound,38,45
+10:31,Washington,Jaylen Nowell,Three Point Jumper,38,48
+10:09,Colorado,McKinley Wright IV,Turnover,38,48
+10:09,Washington,Nahziah Carter,Steal,38,48
+9:54,Washington,Noah Dickerson,Layup,38,50
+9:44,Colorado,None,None,38,50
+9:33,Colorado,D'Shawn Schwartz,Missed Layup,38,50
+9:33,Washington,Noah Dickerson,Defensive Rebound,38,50
+9:24,Washington,Jaylen Nowell,Missed Jumper,38,50
+9:24,Colorado,Tyler Bey,Defensive Rebound,38,50
+9:03,Colorado,Evan Battey,Turnover,38,50
+9:03,Washington,Jaylen Nowell,Steal,38,50
+8:57,Colorado,Shane Gatling,Foul,38,50
+8:57,Washington,Matisse Thybulle,Free Throw,38,51
+8:57,Washington,Matisse Thybulle,Free Throw,38,52
+8:43,Colorado,Evan Battey,Layup,40,52
+8:21,Washington,David Crisp,Missed Three Point Jumper,40,52
+8:21,Washington,Washington,Offensive Rebound,40,52
+8:00,Washington,Jaylen Nowell,Foul,40,52
+8:00,Washington,Jaylen Nowell,Turnover,40,52
+8:00,Washington,None,None,40,52
+7:40,Colorado,Lucas Siewert,Missed Three Point Jumper,40,52
+7:40,Colorado,Colorado,Offensive Rebound,40,52
+7:32,Colorado,D'Shawn Schwartz,Turnover,40,52
+7:32,Washington,Jaylen Nowell,Steal,40,52
+7:12,Washington,David Crisp,Foul,40,52
+7:12,Washington,David Crisp,Turnover,40,52
+6:46,Colorado,Daylen Kountz,Three Point Jumper,43,52
+6:18,Washington,Noah Dickerson,Layup,43,54
+6:18,Colorado,Lucas Siewert,Foul,43,54
+6:18,Washington,Noah Dickerson,Missed Free Throw,43,54
+6:18,Colorado,Lucas Siewert,Defensive Rebound,43,54
+6:11,Colorado,Daylen Kountz,Missed Three Point Jumper,43,54
+6:11,Colorado,Shane Gatling,Offensive Rebound,43,54
+6:03,Colorado,Shane Gatling,Missed Three Point Jumper,43,54
+6:03,Washington,Noah Dickerson,Defensive Rebound,43,54
+5:36,Washington,Matisse Thybulle,Missed Three Point Jumper,43,54
+5:36,Colorado,Tyler Bey,Defensive Rebound,43,54
+5:15,Washington,Hameir Wright,Foul,43,54
+5:15,Colorado,Tyler Bey,Free Throw,44,54
+5:15,Colorado,Tyler Bey,Free Throw,45,54
+5:09,Colorado,McKinley Wright IV,Foul,45,54
+5:09,Washington,Nahziah Carter,Free Throw,45,55
+5:09,Washington,Nahziah Carter,Missed Free Throw,45,55
+5:09,Colorado,Tyler Bey,Defensive Rebound,45,55
+4:47,Washington,Matisse Thybulle,Foul,45,55
+4:47,Colorado,Shane Gatling,Free Throw,46,55
+4:47,Colorado,Shane Gatling,Free Throw,47,55
+4:30,Colorado,Lucas Siewert,Foul,47,55
+4:30,Washington,Nahziah Carter,Free Throw,47,56
+4:30,Washington,Nahziah Carter,Missed Free Throw,47,56
+4:30,Colorado,Lucas Siewert,Defensive Rebound,47,56
+4:15,Colorado,Evan Battey,Missed Layup,47,56
+4:15,Washington,Noah Dickerson,Defensive Rebound,47,56
+3:51,Washington,David Crisp,Missed Three Point Jumper,47,56
+3:51,Colorado,McKinley Wright IV,Defensive Rebound,47,56
+3:43,Colorado,McKinley Wright IV,Missed Layup,47,56
+3:43,Washington,Noah Dickerson,Defensive Rebound,47,56
+3:37,Washington,Jaylen Nowell,Layup,47,58
+3:10,Washington,Matisse Thybulle,Foul,47,58
+3:10,Washington,None,None,47,58
+3:10,Colorado,Shane Gatling,Missed Free Throw,47,58
+3:10,Colorado,None,Team Rebound,47,58
+3:10,Colorado,Shane Gatling,Free Throw,48,58
+2:42,Colorado,McKinley Wright IV,Foul,48,58
+2:42,Washington,David Crisp,Missed Free Throw,48,58
+2:42,Washington,None,Team Rebound,48,58
+2:42,Washington,David Crisp,Free Throw,48,59
+2:34,Colorado,Tyler Bey,Missed Jumper,48,59
+2:34,Colorado,Evan Battey,Offensive Rebound,48,59
+2:28,Washington,David Crisp,Foul,48,59
+2:28,Colorado,Evan Battey,Free Throw,49,59
+2:28,Colorado,Evan Battey,Free Throw,50,59
+2:25,Colorado,Shane Gatling,Foul,50,59
+2:25,Washington,David Crisp,Missed Free Throw,50,59
+2:25,Washington,None,Team Rebound,50,59
+2:25,Washington,David Crisp,Free Throw,50,60
+2:11,Colorado,Evan Battey,Layup,52,60
+1:47,Washington,David Crisp,Missed Three Point Jumper,52,60
+1:47,Colorado,Tyler Bey,Defensive Rebound,52,60
+1:34,Colorado,McKinley Wright IV,Missed Three Point Jumper,52,60
+1:34,Colorado,Tyler Bey,Offensive Rebound,52,60
+1:34,Washington,Hameir Wright,Foul,52,60
+1:34,Washington,None,None,52,60
+1:34,Colorado,Tyler Bey,Free Throw,53,60
+1:34,Colorado,Tyler Bey,Free Throw,54,60
+1:33,Washington,None,None,54,60
+1:19,Colorado,Evan Battey,Foul,54,60
+1:19,Washington,Noah Dickerson,Missed Free Throw,54,60
+1:19,Washington,None,Team Rebound,54,60
+1:19,Washington,Noah Dickerson,Missed Free Throw,54,60
+1:19,Colorado,Tyler Bey,Defensive Rebound,54,60
+1:07,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,54,60
+1:07,Colorado,Colorado,Offensive Rebound,54,60
+1:01,Washington,Hameir Wright,Foul,54,60
+1:01,Colorado,Tyler Bey,Free Throw,55,60
+1:01,Colorado,Tyler Bey,Free Throw,56,60
+0:53,Colorado,Daylen Kountz,Foul,56,60
+0:53,Washington,David Crisp,Free Throw,56,61
+0:53,Washington,David Crisp,Missed Free Throw,56,61
+0:53,Colorado,Tyler Bey,Defensive Rebound,56,61
+0:38,Colorado,Shane Gatling,Foul,56,61
+0:38,Colorado,Shane Gatling,Turnover,56,61
+0:37,Colorado,Tyler Bey,Foul,56,61
+0:37,Washington,Noah Dickerson,Missed Free Throw,56,61
+0:37,Washington,None,Team Rebound,56,61
+0:37,Washington,Noah Dickerson,Free Throw,56,62
+0:29,Colorado,Daylen Kountz,Missed Three Point Jumper,56,62
+0:29,Colorado,Tyler Bey,Offensive Rebound,56,62
+0:29,Colorado,None,None,58,62
+0:25,Colorado,None,None,58,62
+0:22,Colorado,Lucas Siewert,Foul,58,62
+0:22,Washington,Dominic Green,Free Throw,58,63
+0:22,Washington,Dominic Green,Free Throw,58,64
+0:18,Colorado,McKinley Wright IV,Three Point Jumper,61,64
+0:11,Washington,David Crisp,Layup,61,66
+0:02,Colorado,Daylen Kountz,Missed Three Point Jumper,61,66
+0:02,Colorado,Lucas Siewert,Offensive Rebound,61,66
+0:02,Colorado,Lucas Siewert,Missed Layup,61,66
+0:02,Colorado,Lucas Siewert,Offensive Rebound,61,66
+0:00,Washington,None,None,61,66

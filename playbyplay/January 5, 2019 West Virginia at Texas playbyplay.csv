@@ -1,0 +1,284 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas,None,None,0,0
+19:33,Texas,Elijah Mitrou-Long,Missed Layup,0,0
+19:33,West Virginia,Jermaine Haley,Defensive Rebound,0,0
+19:13,West Virginia,Logan Routt,Foul,0,0
+19:13,West Virginia,Logan Routt,Turnover,0,0
+18:55,West Virginia,Esa Ahmad,Foul,0,0
+18:47,Texas,Matt Coleman III,Layup,0,2
+18:26,West Virginia,Esa Ahmad,Missed Jumper,0,2
+18:26,West Virginia,Logan Routt,Offensive Rebound,0,2
+18:16,West Virginia,Wesley Harris,Missed Jumper,0,2
+18:15,Texas,Jaxson Hayes,Block,0,2
+18:13,West Virginia,West Virginia,Offensive Rebound,0,2
+17:58,West Virginia,Esa Ahmad,Missed Three Point Jumper,0,2
+17:58,Texas,Texas,Defensive Rebound,0,2
+17:44,Texas,Jaxson Hayes,Foul,0,2
+17:44,Texas,Jaxson Hayes,Turnover,0,2
+17:31,West Virginia,Esa Ahmad,Layup,2,2
+17:09,Texas,Elijah Mitrou-Long,Turnover,2,2
+16:52,West Virginia,James Bolden,Missed Three Point Jumper,2,2
+16:52,Texas,Dylan Osetkowski,Defensive Rebound,2,2
+16:39,Texas,Matt Coleman III,Missed Jumper,2,2
+16:39,West Virginia,Esa Ahmad,Defensive Rebound,2,2
+16:39,West Virginia,James Bolden,Foul,2,2
+16:10,West Virginia,James Bolden,Turnover,2,2
+15:58,Texas,Kerwin Roach II,Turnover,2,2
+15:58,West Virginia,Wesley Harris,Steal,2,2
+15:53,West Virginia,Derek Culver,Layup,4,2
+15:28,Texas,Elijah Mitrou-Long,Three Point Jumper,4,5
+15:07,Texas,Kerwin Roach II,Foul,4,5
+15:07,Texas,None,None,4,5
+15:06,West Virginia,Jermaine Haley,Turnover,4,5
+15:06,Texas,Elijah Mitrou-Long,Steal,4,5
+14:50,Texas,Jase Febres,Turnover,4,5
+14:50,West Virginia,Esa Ahmad,Steal,4,5
+14:36,Texas,Matt Coleman III,Foul,4,5
+14:18,West Virginia,Derek Culver,Jumper,6,5
+13:50,Texas,Dylan Osetkowski,Layup,6,7
+13:26,West Virginia,Wesley Harris,Three Point Jumper,9,7
+12:59,Texas,Elijah Mitrou-Long,Layup,9,9
+12:54,West Virginia,James Bolden,Foul,9,9
+12:54,West Virginia,James Bolden,Turnover,9,9
+12:47,Texas,Jase Febres,Layup,9,11
+12:28,West Virginia,Wesley Harris,Turnover,9,11
+12:28,West Virginia,Derek Culver,Foul,9,11
+12:28,Texas,Kerwin Roach II,Steal,9,11
+12:16,Texas,Kerwin Roach II,Turnover,9,11
+12:16,West Virginia,Wesley Harris,Steal,9,11
+11:55,West Virginia,Wesley Harris,Missed Jumper,9,11
+11:55,Texas,Jase Febres,Defensive Rebound,9,11
+11:50,West Virginia,Jermaine Haley,Foul,9,11
+11:49,Texas,None,None,9,11
+11:38,West Virginia,Wesley Harris,Foul,9,11
+11:38,Texas,Dylan Osetkowski,Missed Free Throw,9,11
+11:38,Texas,None,Team Rebound,9,11
+11:38,Texas,Dylan Osetkowski,Free Throw,9,12
+11:38,West Virginia,Wesley Harris,Missed Layup,9,12
+11:38,Texas,Jaxson Hayes,Block,9,12
+11:38,West Virginia,Andrew Gordon,Offensive Rebound,9,12
+11:12,West Virginia,Andrew Gordon,Dunk,11,12
+10:44,Texas,Kerwin Roach II,Missed Three Point Jumper,11,12
+10:42,West Virginia,Andrew Gordon,Defensive Rebound,11,12
+10:42,Texas,Jase Febres,Foul,11,12
+10:41,West Virginia,None,None,11,12
+10:19,West Virginia,Andrew Gordon,Missed Jumper,11,12
+10:19,Texas,Elijah Mitrou-Long,Defensive Rebound,11,12
+10:06,West Virginia,Andrew Gordon,Foul,11,12
+10:06,Texas,Jaxson Hayes,Free Throw,11,13
+10:06,Texas,Jaxson Hayes,Free Throw,11,14
+9:46,West Virginia,Chase Harler,Missed Three Point Jumper,11,14
+9:46,Texas,Elijah Mitrou-Long,Defensive Rebound,11,14
+9:38,Texas,Elijah Mitrou-Long,Missed Jumper,11,14
+9:38,West Virginia,Derek Culver,Defensive Rebound,11,14
+9:15,West Virginia,Lamont West,Missed Three Point Jumper,11,14
+9:15,Texas,Jaxson Hayes,Defensive Rebound,11,14
+9:04,Texas,Matt Coleman III,Three Point Jumper,11,17
+8:39,West Virginia,Jermaine Haley,Missed Three Point Jumper,11,17
+8:39,West Virginia,Esa Ahmad,Offensive Rebound,11,17
+8:39,West Virginia,Esa Ahmad,Layup,13,17
+8:11,Texas,Kerwin Roach II,Turnover,13,17
+7:58,West Virginia,Jordan McCabe,Three Point Jumper,16,17
+7:42,Texas,Kerwin Roach II,Missed Three Point Jumper,16,17
+7:42,West Virginia,Derek Culver,Defensive Rebound,16,17
+7:31,West Virginia,Lamont West,Missed Three Point Jumper,16,17
+7:31,Texas,Kerwin Roach II,Block,16,17
+7:31,Texas,Dylan Osetkowski,Defensive Rebound,16,17
+7:14,West Virginia,Jordan McCabe,Foul,16,17
+7:14,Texas,None,None,16,17
+7:14,Texas,Courtney Ramey,Missed Free Throw,16,17
+7:14,West Virginia,Derek Culver,Defensive Rebound,16,17
+6:50,West Virginia,Jordan McCabe,Turnover,16,17
+6:50,Texas,Matt Coleman III,Steal,16,17
+6:26,West Virginia,Wesley Harris,Foul,16,17
+6:26,Texas,Dylan Osetkowski,Free Throw,16,18
+6:26,Texas,Dylan Osetkowski,Free Throw,16,19
+6:13,West Virginia,Jermaine Haley,Missed Three Point Jumper,16,19
+6:13,West Virginia,Derek Culver,Offensive Rebound,16,19
+6:09,Texas,Royce Hamm Jr.,Foul,16,19
+6:05,West Virginia,Lamont West,Missed Three Point Jumper,16,19
+6:05,Texas,Matt Coleman III,Defensive Rebound,16,19
+5:55,Texas,Courtney Ramey,Layup,16,21
+5:42,West Virginia,Derek Culver,Jumper,18,21
+5:30,Texas,Courtney Ramey,Three Point Jumper,18,24
+5:13,Texas,Courtney Ramey,Foul,18,24
+5:00,West Virginia,Jordan McCabe,Three Point Jumper,21,24
+4:30,Texas,Jaxson Hayes,Jumper,21,26
+4:14,Texas,Jaxson Hayes,Foul,21,26
+4:14,West Virginia,Esa Ahmad,Free Throw,22,26
+4:14,West Virginia,Esa Ahmad,Missed Free Throw,22,26
+4:14,Texas,Courtney Ramey,Defensive Rebound,22,26
+4:10,Texas,Matt Coleman III,Missed Three Point Jumper,22,26
+4:10,West Virginia,Jordan McCabe,Defensive Rebound,22,26
+4:00,West Virginia,Derek Culver,Missed Jumper,22,26
+4:00,Texas,Jase Febres,Defensive Rebound,22,26
+3:34,Texas,None,None,22,26
+3:25,Texas,Jase Febres,Turnover,22,26
+3:12,Texas,Jase Febres,Foul,22,26
+3:12,West Virginia,Esa Ahmad,Free Throw,23,26
+3:12,West Virginia,Esa Ahmad,Missed Free Throw,23,26
+3:12,Texas,None,Team Rebound,23,26
+2:50,Texas,Jase Febres,Missed Three Point Jumper,23,26
+2:50,Texas,Kerwin Roach II,Offensive Rebound,23,26
+2:14,Texas,Matt Coleman III,Layup,23,28
+1:48,West Virginia,Derek Culver,Jumper,25,28
+1:31,Texas,Matt Coleman III,Layup,25,30
+1:15,Texas,Matt Coleman III,Foul,25,30
+1:15,West Virginia,Jordan McCabe,Free Throw,26,30
+1:15,West Virginia,Jordan McCabe,Missed Free Throw,26,30
+1:15,Texas,Kerwin Roach II,Defensive Rebound,26,30
+1:08,Texas,Kerwin Roach II,Missed Three Point Jumper,26,30
+1:08,Texas,Elijah Mitrou-Long,Offensive Rebound,26,30
+0:42,Texas,Dylan Osetkowski,Layup,26,32
+0:26,West Virginia,Lamont West,Turnover,26,32
+0:24,Texas,None,None,26,32
+0:05,Texas,Courtney Ramey,Missed Layup,26,32
+0:05,West Virginia,Jordan McCabe,Defensive Rebound,26,32
+0:00,Texas,None,None,26,32
+20:00,West Virginia,None,None,26,32
+19:47,West Virginia,Andrew Gordon,Layup,28,32
+19:31,Texas,Kerwin Roach II,Layup,28,34
+18:59,West Virginia,Andrew Gordon,Missed Layup,28,34
+18:59,Texas,Jaxson Hayes,Block,28,34
+18:59,West Virginia,Jermaine Haley,Offensive Rebound,28,34
+18:54,West Virginia,West Virginia ,Turnover,28,34
+18:32,West Virginia,Jordan McCabe,Foul,28,34
+18:15,West Virginia,Wesley Harris,Foul,28,34
+18:15,Texas,Kerwin Roach II,Missed Free Throw,28,34
+18:15,Texas,None,Team Rebound,28,34
+18:15,Texas,Kerwin Roach II,Free Throw,28,35
+17:54,Texas,Jaxson Hayes,Foul,28,35
+17:52,West Virginia,Derek Culver,Missed Jumper,28,35
+17:52,Texas,Dylan Osetkowski,Defensive Rebound,28,35
+17:35,Texas,Elijah Mitrou-Long,Missed Jumper,28,35
+17:35,West Virginia,Lamont West,Defensive Rebound,28,35
+17:17,Texas,Royce Hamm Jr.,Foul,28,35
+17:16,West Virginia,Lamont West,Missed Three Point Jumper,28,35
+17:16,West Virginia,Derek Culver,Offensive Rebound,28,35
+17:10,West Virginia,Derek Culver,Jumper,30,35
+16:35,Texas,Matt Coleman III,Missed Three Point Jumper,30,35
+16:35,West Virginia,Esa Ahmad,Defensive Rebound,30,35
+16:24,West Virginia,Derek Culver,Missed Jumper,30,35
+16:24,Texas,Kerwin Roach II,Defensive Rebound,30,35
+15:57,Texas,Dylan Osetkowski,Three Point Jumper,30,38
+15:38,Texas,Royce Hamm Jr.,Foul,30,38
+15:38,Texas,None,None,30,38
+15:35,West Virginia,James Bolden,Jumper,32,38
+15:35,Texas,Jase Febres,Foul,32,38
+15:35,West Virginia,James Bolden,Free Throw,33,38
+15:14,Texas,Kerwin Roach II,Turnover,33,38
+15:14,West Virginia,Lamont West,Steal,33,38
+15:08,West Virginia,James Bolden,Three Point Jumper,36,38
+14:40,West Virginia,Esa Ahmad,Foul,36,38
+14:28,Texas,Kerwin Roach II,Missed Jumper,36,38
+14:28,West Virginia,Esa Ahmad,Defensive Rebound,36,38
+14:06,West Virginia,James Bolden,Missed Three Point Jumper,36,38
+14:06,Texas,Kerwin Roach II,Defensive Rebound,36,38
+13:55,Texas,Kerwin Roach II,Foul,36,38
+13:55,Texas,Kerwin Roach II,Turnover,36,38
+13:41,West Virginia,Esa Ahmad,Missed Jumper,36,38
+13:41,West Virginia,Derek Culver,Offensive Rebound,36,38
+13:36,Texas,Dylan Osetkowski,Foul,36,38
+13:36,West Virginia,Derek Culver,Free Throw,37,38
+13:36,West Virginia,Derek Culver,Missed Free Throw,37,38
+13:36,Texas,Kerwin Roach II,Defensive Rebound,37,38
+13:18,West Virginia,Derek Culver,Foul,37,38
+13:18,Texas,Dylan Osetkowski,Missed Free Throw,37,38
+13:18,Texas,None,Team Rebound,37,38
+13:18,Texas,Dylan Osetkowski,Free Throw,37,39
+13:15,Texas,Kerwin Roach II,Foul,37,39
+13:15,West Virginia,Lamont West,Missed Free Throw,37,39
+13:15,Texas,Matt Coleman III,Defensive Rebound,37,39
+13:05,Texas,Jase Febres,Missed Three Point Jumper,37,39
+13:05,Texas,Dylan Osetkowski,Offensive Rebound,37,39
+12:43,Texas,Jase Febres,Missed Layup,37,39
+12:43,West Virginia,West Virginia,Defensive Rebound,37,39
+12:26,West Virginia,Andrew Gordon,Turnover,37,39
+12:05,Texas,Jase Febres,Layup,37,41
+11:42,West Virginia,Andrew Gordon,Missed Jumper,37,41
+11:42,Texas,Matt Coleman III,Defensive Rebound,37,41
+11:42,Texas,Matt Coleman III,Foul,37,41
+11:42,Texas,Courtney Ramey,Turnover,37,41
+11:28,Texas,None,None,37,41
+11:28,West Virginia,Esa Ahmad,Free Throw,38,41
+11:28,West Virginia,Esa Ahmad,Free Throw,39,41
+11:14,Texas,Kerwin Roach II,Missed Layup,39,41
+11:14,West Virginia,Esa Ahmad,Block,39,41
+11:14,West Virginia,Wesley Harris,Defensive Rebound,39,41
+10:58,West Virginia,Derek Culver,Turnover,39,41
+10:43,Texas,Matt Coleman III,Layup,39,43
+10:24,West Virginia,James Bolden,Missed Jumper,39,43
+10:24,West Virginia,Derek Culver,Offensive Rebound,39,43
+10:21,West Virginia,Derek Culver,Layup,41,43
+9:56,West Virginia,Jermaine Haley,Foul,41,43
+9:52,West Virginia,Derek Culver,Foul,41,43
+9:39,West Virginia,Wesley Harris,Foul,41,43
+9:39,Texas,Elijah Mitrou-Long,Free Throw,41,44
+9:39,Texas,Elijah Mitrou-Long,Missed Free Throw,41,44
+9:39,Texas,Jaxson Hayes,Offensive Rebound,41,44
+9:21,West Virginia,Jermaine Haley,Foul,41,44
+9:21,Texas,Elijah Mitrou-Long,Free Throw,41,45
+9:21,Texas,Elijah Mitrou-Long,Free Throw,41,46
+8:55,West Virginia,Wesley Harris,Missed Three Point Jumper,41,46
+8:55,Texas,Matt Coleman III,Defensive Rebound,41,46
+8:49,Texas,Dylan Osetkowski,Three Point Jumper,41,49
+8:33,West Virginia,None,None,41,49
+8:24,West Virginia,James Bolden,Layup,43,49
+8:03,Texas,Matt Coleman III,Missed Three Point Jumper,43,49
+8:03,West Virginia,Wesley Harris,Defensive Rebound,43,49
+7:35,West Virginia,James Bolden,Missed Three Point Jumper,43,49
+7:35,Texas,Elijah Mitrou-Long,Block,43,49
+7:35,Texas,Jaxson Hayes,Defensive Rebound,43,49
+7:09,Texas,Jase Febres,Missed Three Point Jumper,43,49
+7:09,Texas,Dylan Osetkowski,Offensive Rebound,43,49
+6:50,Texas,Jaxson Hayes,Turnover,43,49
+6:50,Texas,Jaxson Hayes,Foul,43,49
+6:50,Texas,None,None,43,49
+6:41,West Virginia,James Bolden,Three Point Jumper,46,49
+6:07,Texas,Elijah Mitrou-Long,Layup,46,51
+5:41,West Virginia,Derek Culver,Jumper,48,51
+5:07,Texas,Kerwin Roach II,Missed Jumper,48,51
+5:07,West Virginia,James Bolden,Block,48,51
+5:05,Texas,Royce Hamm Jr.,Offensive Rebound,48,51
+5:03,Texas,Royce Hamm Jr.,Missed Jumper,48,51
+5:03,Texas,Dylan Osetkowski,Offensive Rebound,48,51
+5:03,Texas,None,None,48,51
+5:03,West Virginia,Derek Culver,Defensive Rebound,48,51
+4:44,Texas,Elijah Mitrou-Long,Foul,48,51
+4:44,West Virginia,James Bolden,Free Throw,49,51
+4:44,West Virginia,James Bolden,Free Throw,50,51
+4:19,Texas,Elijah Mitrou-Long,Missed Three Point Jumper,50,51
+4:19,Texas,Kerwin Roach II,Offensive Rebound,50,51
+4:19,Texas,None,None,50,53
+3:50,West Virginia,Wesley Harris,Missed Three Point Jumper,50,53
+3:50,West Virginia,Jordan McCabe,Offensive Rebound,50,53
+3:36,West Virginia,None,None,50,53
+3:36,Texas,None,None,50,53
+3:26,West Virginia,James Bolden,Missed Jumper,50,53
+3:26,Texas,Jaxson Hayes,Block,50,53
+3:26,West Virginia,West Virginia,Offensive Rebound,50,53
+3:20,West Virginia,Derek Culver,Missed Jumper,50,53
+3:20,West Virginia,Esa Ahmad,Offensive Rebound,50,53
+3:14,West Virginia,West Virginia ,Turnover,50,53
+2:50,West Virginia,Esa Ahmad,Foul,50,53
+2:50,Texas,Matt Coleman III,Missed Free Throw,50,53
+2:50,Texas,None,Team Rebound,50,53
+2:50,Texas,Matt Coleman III,Free Throw,50,54
+2:32,West Virginia,Esa Ahmad,Missed Three Point Jumper,50,54
+2:32,West Virginia,Derek Culver,Offensive Rebound,50,54
+2:27,West Virginia,Derek Culver,Layup,52,54
+2:02,Texas,Jaxson Hayes,Dunk,52,56
+1:40,West Virginia,Esa Ahmad,Missed Layup,52,56
+1:40,West Virginia,Esa Ahmad,Offensive Rebound,52,56
+1:40,West Virginia,None,None,54,56
+1:09,Texas,Matt Coleman III,Three Point Jumper,54,59
+1:02,Texas,None,None,54,59
+0:46,West Virginia,Jordan McCabe,Missed Three Point Jumper,54,59
+0:41,Texas,Dylan Osetkowski,Block,54,59
+0:41,Texas,Dylan Osetkowski,Defensive Rebound,54,59
+0:34,West Virginia,Wesley Harris,Foul,54,59
+0:34,Texas,Matt Coleman III,Free Throw,54,60
+0:34,Texas,Matt Coleman III,Free Throw,54,61
+0:27,West Virginia,James Bolden,Turnover,54,61
+0:27,Texas,Dylan Osetkowski,Steal,54,61
+0:00,Texas,None,None,54,61

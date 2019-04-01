@@ -1,0 +1,339 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Alabama,None,None,0,0
+19:46,Alabama,Herbert Jones,Layup,2,0
+19:26,Vanderbilt,Saben Lee,Turnover,2,0
+19:17,Alabama,Donta Hall,Dunk,4,0
+18:46,Vanderbilt,Saben Lee,Jumper,4,2
+18:27,Alabama,Dazon Ingram,Turnover,4,2
+18:27,Vanderbilt,Saben Lee,Steal,4,2
+18:21,Vanderbilt,Simisola Shittu,Layup,4,4
+18:06,Alabama,Herbert Jones,Missed Jumper,4,4
+18:06,Vanderbilt,Aaron Nesmith,Defensive Rebound,4,4
+17:55,Alabama,Dazon Ingram,Foul,4,4
+17:55,Vanderbilt,Clevon Brown,Missed Free Throw,4,4
+17:55,Vanderbilt,None,Team Rebound,4,4
+17:55,Vanderbilt,Clevon Brown,Free Throw,4,5
+17:34,Alabama,Tevin Mack,Missed Layup,4,5
+17:34,Alabama,Tevin Mack,Offensive Rebound,4,5
+17:27,Alabama,Tevin Mack,Layup,6,5
+17:09,Vanderbilt,Aaron Nesmith,Missed Three Point Jumper,6,5
+17:09,Alabama,Kira Lewis Jr.,Defensive Rebound,6,5
+16:55,Alabama,Dazon Ingram,Three Point Jumper,9,5
+16:30,Vanderbilt,Matt Ryan,Missed Three Point Jumper,9,5
+16:30,Alabama,Dazon Ingram,Defensive Rebound,9,5
+16:22,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,9,5
+16:22,Vanderbilt,Aaron Nesmith,Defensive Rebound,9,5
+16:12,Vanderbilt,Matt Ryan,Three Point Jumper,9,8
+16:02,Alabama,Donta Hall,Missed Jumper,9,8
+16:02,Vanderbilt,Aaron Nesmith,Defensive Rebound,9,8
+15:50,Vanderbilt,Clevon Brown,Missed Jumper,9,8
+15:50,Alabama,Tevin Mack,Block,9,8
+15:50,Alabama,Tevin Mack,Defensive Rebound,9,8
+15:42,Alabama,Kira Lewis Jr.,Layup,11,8
+15:25,Vanderbilt,None,None,11,8
+15:18,Vanderbilt,Clevon Brown,Three Point Jumper,11,11
+14:56,Alabama,Tevin Mack,Missed Three Point Jumper,11,11
+14:56,Vanderbilt,Joe Toye,Defensive Rebound,11,11
+14:45,Alabama,Kira Lewis Jr.,Foul,11,11
+14:28,Vanderbilt,Saben Lee,Layup,11,13
+14:18,Alabama,Tevin Mack,Missed Jumper,11,13
+14:18,Vanderbilt,Matthew Moyer,Defensive Rebound,11,13
+14:09,Vanderbilt,Clevon Brown,Missed Layup,11,13
+14:09,Alabama,Dazon Ingram,Defensive Rebound,11,13
+13:59,Alabama,Dazon Ingram,Foul,11,13
+13:59,Alabama,Dazon Ingram,Turnover,11,13
+13:41,Vanderbilt,Joe Toye,Turnover,11,13
+13:20,Alabama,John Petty,Turnover,11,13
+13:20,Vanderbilt,Saben Lee,Steal,11,13
+13:15,Vanderbilt,Joe Toye,Missed Layup,11,13
+13:15,Alabama,Daniel Giddens,Block,11,13
+13:15,Alabama,Riley Norris,Defensive Rebound,11,13
+13:06,Alabama,Kira Lewis Jr.,Jumper,13,13
+12:47,Vanderbilt,Matthew Moyer,Missed Jumper,13,13
+12:47,Alabama,Riley Norris,Defensive Rebound,13,13
+12:37,Alabama,Tevin Mack,Three Point Jumper,16,13
+12:37,Vanderbilt,None,None,16,13
+12:13,Vanderbilt,Joe Toye,Missed Jumper,16,13
+12:13,Alabama,Riley Norris,Defensive Rebound,16,13
+12:05,Alabama,Tevin Mack,Missed Three Point Jumper,16,13
+12:05,Vanderbilt,Saben Lee,Defensive Rebound,16,13
+11:48,Vanderbilt,None,None,16,13
+11:34,Alabama,Daniel Giddens,Foul,16,13
+11:34,Vanderbilt,Aaron Nesmith,Missed Free Throw,16,13
+11:34,Vanderbilt,None,Team Rebound,16,13
+11:34,Vanderbilt,Aaron Nesmith,Free Throw,16,14
+11:17,Alabama,Daniel Giddens,Missed Jumper,16,14
+11:17,Alabama,Riley Norris,Offensive Rebound,16,14
+11:09,Alabama,Riley Norris,Missed Layup,16,14
+11:09,Alabama,Herbert Jones,Offensive Rebound,16,14
+11:03,Alabama,Herbert Jones,Layup,18,14
+10:58,Vanderbilt,Simisola Shittu,Missed Layup,18,14
+10:58,Alabama,Daniel Giddens,Block,18,14
+10:58,Alabama,John Petty,Defensive Rebound,18,14
+10:48,Alabama,John Petty,Missed Layup,18,14
+10:48,Vanderbilt,Yanni Wetzell,Defensive Rebound,18,14
+10:24,Vanderbilt,Yanni Wetzell,Layup,18,16
+10:14,Alabama,Kira Lewis Jr.,Jumper,20,16
+9:57,Vanderbilt,Yanni Wetzell,Layup,20,18
+9:41,Alabama,Riley Norris,Missed Three Point Jumper,20,18
+9:41,Vanderbilt,Vanderbilt,Defensive Rebound,20,18
+9:20,Vanderbilt,Yanni Wetzell,Foul,20,18
+9:20,Vanderbilt,Yanni Wetzell,Turnover,20,18
+8:51,Alabama,Avery Johnson Jr.,Missed Three Point Jumper,20,18
+8:51,Vanderbilt,Aaron Nesmith,Defensive Rebound,20,18
+8:38,Vanderbilt,Saben Lee,Turnover,20,18
+8:17,Alabama,Avery Johnson Jr.,Missed Jumper,20,18
+8:17,Alabama,Donta Hall,Offensive Rebound,20,18
+7:59,Vanderbilt,Yanni Wetzell,Foul,20,18
+7:59,Vanderbilt,None,None,20,18
+7:59,Alabama,Donta Hall,Free Throw,21,18
+7:59,Alabama,Donta Hall,Free Throw,22,18
+7:46,Alabama,Avery Johnson Jr.,Foul,22,18
+7:44,Alabama,Donta Hall,Foul,22,18
+7:43,Vanderbilt,Clevon Brown,Missed Free Throw,22,18
+7:42,Vanderbilt,None,Team Rebound,22,18
+7:41,Vanderbilt,Clevon Brown,Free Throw,22,19
+7:28,Alabama,John Petty,Dunk,24,19
+6:51,Vanderbilt,Aaron Nesmith,Missed Three Point Jumper,24,19
+6:51,Alabama,Donta Hall,Defensive Rebound,24,19
+6:45,Alabama,Riley Norris,Three Point Jumper,27,19
+6:11,Vanderbilt,Simisola Shittu,Turnover,27,19
+6:11,Alabama,John Petty,Steal,27,19
+6:08,Vanderbilt,Aaron Nesmith,Foul,27,19
+5:55,Alabama,Avery Johnson Jr.,Missed Layup,27,19
+5:55,Vanderbilt,Clevon Brown,Block,27,19
+5:55,Alabama,Alabama,Offensive Rebound,27,19
+5:44,Alabama,Donta Hall,Three Point Jumper,30,19
+5:13,Alabama,Donta Hall,Foul,30,19
+5:13,Vanderbilt,Matt Ryan,Free Throw,30,20
+5:13,Vanderbilt,Matt Ryan,Free Throw,30,21
+5:01,Vanderbilt,Saben Lee,Foul,30,21
+5:01,Alabama,Kira Lewis Jr.,Free Throw,31,21
+5:01,Alabama,Kira Lewis Jr.,Free Throw,32,21
+4:42,Vanderbilt,Matt Ryan,Three Point Jumper,32,24
+4:28,Alabama,Tevin Mack,Missed Jumper,32,24
+4:28,Vanderbilt,Saben Lee,Defensive Rebound,32,24
+4:16,Vanderbilt,Matt Ryan,Missed Three Point Jumper,32,24
+4:16,Alabama,Herbert Jones,Defensive Rebound,32,24
+4:07,Alabama,Tevin Mack,Missed Layup,32,24
+4:07,Vanderbilt,Joe Toye,Block,32,24
+4:07,Vanderbilt,Joe Toye,Defensive Rebound,32,24
+3:54,Vanderbilt,Joe Toye,Three Point Jumper,32,27
+3:21,Alabama,Kira Lewis Jr.,Three Point Jumper,35,27
+2:58,Vanderbilt,Clevon Brown,Foul,35,27
+2:58,Vanderbilt,Clevon Brown,Turnover,35,27
+2:58,Vanderbilt,None,None,35,27
+2:42,Alabama,Daniel Giddens,Missed Jumper,35,27
+2:42,Vanderbilt,Saben Lee,Defensive Rebound,35,27
+2:32,Vanderbilt,Matt Ryan,Missed Three Point Jumper,35,27
+2:32,Alabama,Riley Norris,Defensive Rebound,35,27
+2:11,Alabama,Riley Norris,Missed Layup,35,27
+2:11,Vanderbilt,Clevon Brown,Block,35,27
+2:11,Vanderbilt,Simisola Shittu,Defensive Rebound,35,27
+2:04,Alabama,Herbert Jones,Foul,35,27
+2:04,Vanderbilt,Simisola Shittu,Free Throw,35,28
+2:04,Vanderbilt,Simisola Shittu,Missed Free Throw,35,28
+2:04,Alabama,Riley Norris,Defensive Rebound,35,28
+1:41,Vanderbilt,Matt Ryan,Foul,35,28
+1:41,Alabama,Daniel Giddens,Missed Free Throw,35,28
+1:41,Alabama,None,Team Rebound,35,28
+1:41,Alabama,Daniel Giddens,Free Throw,36,28
+1:13,Vanderbilt,Joe Toye,Missed Three Point Jumper,36,28
+1:13,Alabama,Tevin Mack,Defensive Rebound,36,28
+1:04,Alabama,Riley Norris,Missed Three Point Jumper,36,28
+1:04,Vanderbilt,Saben Lee,Defensive Rebound,36,28
+0:50,Vanderbilt,Matt Ryan,Missed Three Point Jumper,36,28
+0:50,Alabama,Daniel Giddens,Defensive Rebound,36,28
+0:44,Alabama,Daniel Giddens,Turnover,36,28
+0:44,Vanderbilt,Simisola Shittu,Steal,36,28
+0:37,Vanderbilt,Joe Toye,Missed Three Point Jumper,36,28
+0:37,Vanderbilt,Saben Lee,Offensive Rebound,36,28
+0:37,Vanderbilt,Saben Lee,Layup,36,30
+0:37,Alabama,None,None,36,30
+0:11,Alabama,Kira Lewis Jr.,Layup,38,30
+0:03,Alabama,Riley Norris,Foul,38,30
+0:03,Vanderbilt,Clevon Brown,Free Throw,38,31
+0:03,Vanderbilt,Clevon Brown,Missed Free Throw,38,31
+0:03,Alabama,Tevin Mack,Defensive Rebound,38,31
+0:00,Vanderbilt,None,None,38,31
+20:00,Vanderbilt,None,None,38,31
+19:40,Vanderbilt,Simisola Shittu,Jumper,38,33
+19:27,Vanderbilt,Simisola Shittu,Foul,38,33
+19:27,Alabama,Herbert Jones,Free Throw,39,33
+19:27,Alabama,Herbert Jones,Missed Free Throw,39,33
+19:27,Vanderbilt,Matt Ryan,Defensive Rebound,39,33
+19:21,Vanderbilt,Saben Lee,Dunk,39,35
+19:02,Alabama,Herbert Jones,Jumper,41,35
+18:30,Vanderbilt,Aaron Nesmith,Missed Layup,41,35
+18:30,Alabama,Alabama,Defensive Rebound,41,35
+18:17,Alabama,Herbert Jones,Layup,43,35
+17:46,Vanderbilt,Simisola Shittu,Missed Jumper,43,35
+17:46,Alabama,Donta Hall,Defensive Rebound,43,35
+17:39,Alabama,Dazon Ingram,Three Point Jumper,46,35
+17:24,Vanderbilt,None,None,46,35
+17:07,Vanderbilt,Saben Lee,Missed Layup,46,35
+17:07,Alabama,Donta Hall,Defensive Rebound,46,35
+16:56,Alabama,Dazon Ingram,Missed Layup,46,35
+16:56,Vanderbilt,Vanderbilt,Defensive Rebound,46,35
+16:40,Vanderbilt,Clevon Brown,Turnover,46,35
+16:40,Vanderbilt,Clevon Brown,Foul,46,35
+16:40,Vanderbilt,Saben Lee,Foul,46,35
+16:09,Alabama,Kira Lewis Jr.,Three Point Jumper,49,35
+15:52,Vanderbilt,Matthew Moyer,Missed Three Point Jumper,49,35
+15:52,Vanderbilt,Matt Ryan,Offensive Rebound,49,35
+15:47,Vanderbilt,Matthew Moyer,Missed Layup,49,35
+15:47,Vanderbilt,Matt Ryan,Offensive Rebound,49,35
+15:42,Alabama,Donta Hall,Foul,49,35
+15:42,Vanderbilt,None,None,49,35
+15:42,Vanderbilt,Matthew Moyer,Free Throw,49,36
+15:42,Vanderbilt,Matthew Moyer,Free Throw,49,37
+15:18,Alabama,Tevin Mack,Missed Three Point Jumper,49,37
+15:18,Alabama,Herbert Jones,Offensive Rebound,49,37
+15:06,Alabama,Herbert Jones,Missed Jumper,49,37
+15:06,Vanderbilt,Clevon Brown,Block,49,37
+15:06,Vanderbilt,Matt Ryan,Defensive Rebound,49,37
+14:44,Alabama,Herbert Jones,Foul,49,37
+14:36,Vanderbilt,Matt Ryan,Missed Three Point Jumper,49,37
+14:36,Alabama,Kira Lewis Jr.,Defensive Rebound,49,37
+14:23,Vanderbilt,Matt Ryan,Foul,49,37
+14:23,Alabama,Kira Lewis Jr.,Free Throw,50,37
+14:23,Alabama,Kira Lewis Jr.,Free Throw,51,37
+14:05,Alabama,Riley Norris,Foul,51,37
+14:05,Vanderbilt,Aaron Nesmith,Free Throw,51,38
+14:05,Vanderbilt,Aaron Nesmith,Free Throw,51,39
+13:49,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,51,39
+13:49,Vanderbilt,Matthew Moyer,Defensive Rebound,51,39
+13:25,Vanderbilt,Matthew Moyer,Turnover,51,39
+13:25,Alabama,Dazon Ingram,Steal,51,39
+13:20,Alabama,John Petty,Three Point Jumper,54,39
+12:55,Vanderbilt,Saben Lee,Missed Layup,54,39
+12:55,Alabama,Daniel Giddens,Block,54,39
+12:55,Vanderbilt,Joe Toye,Offensive Rebound,54,39
+12:54,Alabama,Daniel Giddens,Foul,54,39
+12:54,Vanderbilt,Joe Toye,Missed Free Throw,54,39
+12:54,Vanderbilt,None,Team Rebound,54,39
+12:54,Vanderbilt,Joe Toye,Missed Free Throw,54,39
+12:54,Alabama,Dazon Ingram,Defensive Rebound,54,39
+12:42,Alabama,Daniel Giddens,Jumper,56,39
+12:22,Vanderbilt,Saben Lee,Jumper,56,41
+12:12,Alabama,Riley Norris,Missed Three Point Jumper,56,41
+12:12,Vanderbilt,Aaron Nesmith,Defensive Rebound,56,41
+12:00,Vanderbilt,Saben Lee,Jumper,56,43
+12:00,Alabama,Kira Lewis Jr.,Foul,56,43
+12:00,Vanderbilt,None,None,56,43
+12:00,Vanderbilt,Saben Lee,Missed Free Throw,56,43
+12:00,Alabama,Riley Norris,Defensive Rebound,56,43
+11:44,Alabama,Riley Norris,Three Point Jumper,59,43
+11:24,Vanderbilt,Aaron Nesmith,Missed Three Point Jumper,59,43
+11:24,Alabama,Alabama,Defensive Rebound,59,43
+11:03,Alabama,John Petty,Missed Jumper,59,43
+11:03,Vanderbilt,Simisola Shittu,Defensive Rebound,59,43
+10:54,Vanderbilt,Simisola Shittu,Missed Jumper,59,43
+10:54,Alabama,Alabama,Defensive Rebound,59,43
+10:40,Alabama,Dazon Ingram,Three Point Jumper,62,43
+10:16,Vanderbilt,Saben Lee,Missed Three Point Jumper,62,43
+10:16,Alabama,Daniel Giddens,Defensive Rebound,62,43
+10:07,Alabama,Herbert Jones,Turnover,62,43
+10:07,Vanderbilt,Saben Lee,Steal,62,43
+10:03,Vanderbilt,Saben Lee,Missed Layup,62,43
+10:03,Alabama,Alabama,Defensive Rebound,62,43
+9:53,Alabama,Dazon Ingram,Missed Layup,62,43
+9:53,Vanderbilt,Aaron Nesmith,Defensive Rebound,62,43
+9:48,Vanderbilt,Saben Lee,Three Point Jumper,62,46
+9:28,Alabama,Herbert Jones,Turnover,62,46
+9:28,Vanderbilt,Yanni Wetzell,Steal,62,46
+9:14,Alabama,Daniel Giddens,Foul,62,46
+9:14,Vanderbilt,Simisola Shittu,Free Throw,62,47
+9:14,Alabama,Daniel Giddens,Turnover,62,46
+9:14,Vanderbilt,Simisola Shittu,Missed Free Throw,62,47
+9:14,Vanderbilt,None,Team Rebound,62,47
+9:13,Vanderbilt,Joe Toye,Turnover,62,47
+8:58,Alabama,John Petty,Three Point Jumper,65,47
+8:19,Vanderbilt,Joe Toye,Three Point Jumper,65,50
+7:57,Alabama,Riley Norris,Turnover,65,50
+7:57,Vanderbilt,None,None,65,50
+7:44,Vanderbilt,Simisola Shittu,Turnover,65,50
+7:44,Alabama,Herbert Jones,Steal,65,50
+7:38,Alabama,Dazon Ingram,Turnover,65,50
+7:26,Vanderbilt,Simisola Shittu,Layup,65,52
+7:16,Alabama,Kira Lewis Jr.,Missed Jumper,65,52
+7:16,Alabama,Alabama,Offensive Rebound,65,52
+6:49,Alabama,John Petty,Missed Three Point Jumper,65,52
+6:49,Alabama,Herbert Jones,Offensive Rebound,65,52
+6:32,Alabama,Kira Lewis Jr.,Missed Jumper,65,52
+6:32,Vanderbilt,Simisola Shittu,Block,65,52
+6:32,Vanderbilt,Simisola Shittu,Defensive Rebound,65,52
+6:24,Vanderbilt,Aaron Nesmith,Three Point Jumper,65,55
+6:07,Alabama,Donta Hall,Turnover,65,55
+5:53,Alabama,Kira Lewis Jr.,Foul,65,55
+5:53,Vanderbilt,Saben Lee,Free Throw,65,56
+5:53,Vanderbilt,Saben Lee,Free Throw,65,57
+5:46,Alabama,Kira Lewis Jr.,Turnover,65,57
+5:46,Vanderbilt,Simisola Shittu,Steal,65,57
+5:40,Alabama,Tevin Mack,Foul,65,57
+5:40,Vanderbilt,Simisola Shittu,Missed Free Throw,65,57
+5:40,Vanderbilt,None,Team Rebound,65,57
+5:40,Vanderbilt,Simisola Shittu,Free Throw,65,58
+5:30,Alabama,Tevin Mack,Missed Three Point Jumper,65,58
+5:30,Vanderbilt,Aaron Nesmith,Defensive Rebound,65,58
+5:22,Vanderbilt,Simisola Shittu,Layup,65,60
+5:21,Alabama,None,None,65,60
+5:06,Alabama,Kira Lewis Jr.,Turnover,65,60
+4:50,Vanderbilt,Simisola Shittu,Missed Layup,65,60
+4:50,Alabama,Riley Norris,Defensive Rebound,65,60
+4:24,Alabama,Donta Hall,Missed Jumper,65,60
+4:24,Vanderbilt,Yanni Wetzell,Defensive Rebound,65,60
+4:18,Alabama,Riley Norris,Foul,65,60
+4:18,Vanderbilt,Saben Lee,Missed Free Throw,65,60
+4:18,Alabama,Riley Norris,Defensive Rebound,65,60
+3:58,Vanderbilt,Aaron Nesmith,Foul,65,60
+3:58,Vanderbilt,None,None,65,60
+3:43,Alabama,Kira Lewis Jr.,Missed Layup,65,60
+3:43,Alabama,Alabama,Offensive Rebound,65,60
+3:28,Alabama,Donta Hall,Missed Jumper,65,60
+3:28,Vanderbilt,Yanni Wetzell,Defensive Rebound,65,60
+3:00,Vanderbilt,Yanni Wetzell,Missed Jumper,65,60
+3:00,Alabama,Riley Norris,Defensive Rebound,65,60
+2:37,Alabama,Riley Norris,Missed Jumper,65,60
+2:37,Alabama,Alabama,Offensive Rebound,65,60
+2:37,Vanderbilt,Aaron Nesmith,Foul,65,60
+2:13,Vanderbilt,Simisola Shittu,Foul,65,60
+2:13,Alabama,Riley Norris,Free Throw,66,60
+2:13,Alabama,Riley Norris,Free Throw,67,60
+2:13,Alabama,Riley Norris,Free Throw,68,60
+2:05,Alabama,Herbert Jones,Foul,68,60
+2:05,Vanderbilt,Saben Lee,Free Throw,68,61
+2:05,Vanderbilt,Saben Lee,Free Throw,68,62
+1:48,Alabama,Riley Norris,Three Point Jumper,71,62
+1:28,Vanderbilt,Aaron Nesmith,Missed Three Point Jumper,71,62
+1:28,Alabama,Riley Norris,Block,71,62
+1:28,Alabama,Dazon Ingram,Defensive Rebound,71,62
+1:25,Vanderbilt,Joe Toye,Foul,71,62
+1:25,Alabama,Dazon Ingram,Free Throw,72,62
+1:25,Alabama,Dazon Ingram,Free Throw,73,62
+1:18,Vanderbilt,Saben Lee,Layup,73,64
+1:17,Vanderbilt,None,None,73,64
+1:14,Vanderbilt,Aaron Nesmith,Foul,73,64
+1:14,Alabama,Riley Norris,Free Throw,74,64
+1:14,Alabama,Riley Norris,Missed Free Throw,74,64
+1:14,Vanderbilt,Matt Ryan,Defensive Rebound,74,64
+1:05,Vanderbilt,Joe Toye,Missed Three Point Jumper,74,64
+1:05,Vanderbilt,Simisola Shittu,Offensive Rebound,74,64
+0:57,Vanderbilt,Simisola Shittu,Missed Layup,74,64
+0:57,Alabama,Riley Norris,Defensive Rebound,74,64
+0:56,Vanderbilt,Joe Toye,Foul,74,64
+0:56,Alabama,Dazon Ingram,Missed Free Throw,74,64
+0:56,Alabama,None,Team Rebound,74,64
+0:56,Alabama,Dazon Ingram,Free Throw,75,64
+0:49,Vanderbilt,Joe Toye,Turnover,75,64
+0:49,Alabama,John Petty,Steal,75,64
+0:49,Vanderbilt,Joe Toye,Foul,75,64
+0:49,Alabama,Riley Norris,Free Throw,76,64
+0:49,Alabama,Riley Norris,Free Throw,77,64
+0:39,Vanderbilt,Simisola Shittu,Missed Layup,77,64
+0:39,Alabama,Riley Norris,Defensive Rebound,77,64
+0:07,Alabama,Lawson Schaffer,Missed Three Point Jumper,77,64
+0:07,Alabama,Alabama,Offensive Rebound,77,64
+0:07,Alabama,Alabama ,Turnover,77,64
+0:01,Vanderbilt,Saben Lee,Three Point Jumper,77,67
+0:00,Vanderbilt,None,None,77,67

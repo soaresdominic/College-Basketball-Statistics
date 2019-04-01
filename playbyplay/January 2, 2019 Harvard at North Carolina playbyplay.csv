@@ -1,0 +1,335 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Harvard,None,None,0,0
+19:46,Harvard,Corey Johnson,Missed Layup,0,0
+19:46,Harvard,Chris Lewis,Offensive Rebound,0,0
+19:39,Harvard,Chris Lewis,Layup,2,0
+19:28,North Carolina,Garrison Brooks,Layup,2,2
+19:20,Harvard,Danilo Djuricic,Missed Layup,2,2
+19:20,North Carolina,Kenny Williams,Defensive Rebound,2,2
+19:12,North Carolina,Kenny Williams,Missed Three Point Jumper,2,2
+19:12,Harvard,Justin Bassey,Defensive Rebound,2,2
+19:02,North Carolina,Garrison Brooks,Foul,2,2
+19:02,Harvard,Justin Bassey,Missed Free Throw,2,2
+19:02,Harvard,None,Team Rebound,2,2
+19:02,Harvard,Justin Bassey,Missed Free Throw,2,2
+19:02,North Carolina,Luke Maye,Defensive Rebound,2,2
+18:48,North Carolina,Garrison Brooks,Jumper,2,4
+18:25,Harvard,Danilo Djuricic,Dunk,4,4
+18:15,North Carolina,Luke Maye,Layup,4,6
+17:49,Harvard,Christian Juzang,Turnover,4,6
+17:38,North Carolina,Cameron Johnson,Missed Jumper,4,6
+17:38,Harvard,Chris Lewis,Defensive Rebound,4,6
+17:29,Harvard,Corey Johnson,Missed Layup,4,6
+17:29,North Carolina,Kenny Williams,Block,4,6
+17:29,North Carolina,Garrison Brooks,Defensive Rebound,4,6
+17:21,North Carolina,Coby White,Layup,4,8
+16:58,Harvard,Danilo Djuricic,Three Point Jumper,7,8
+16:44,North Carolina,Coby White,Missed Three Point Jumper,7,8
+16:44,Harvard,Justin Bassey,Defensive Rebound,7,8
+16:23,Harvard,Corey Johnson,Missed Three Point Jumper,7,8
+16:23,North Carolina,Coby White,Defensive Rebound,7,8
+16:05,North Carolina,Garrison Brooks,Missed Jumper,7,8
+16:05,Harvard,Justin Bassey,Defensive Rebound,7,8
+15:36,North Carolina,Garrison Brooks,Foul,7,8
+15:36,North Carolina,None,None,7,8
+15:21,Harvard,Justin Bassey,Turnover,7,8
+15:21,North Carolina,Nassir Little,Steal,7,8
+15:04,North Carolina,Cameron Johnson,Missed Jumper,7,8
+15:04,North Carolina,Luke Maye,Offensive Rebound,7,8
+15:03,Harvard,Noah Kirkwood,Foul,7,8
+15:03,North Carolina,Luke Maye,Free Throw,7,9
+15:03,North Carolina,Luke Maye,Free Throw,7,10
+14:41,Harvard,Spencer Freedman,Missed Three Point Jumper,7,10
+14:41,North Carolina,Cameron Johnson,Defensive Rebound,7,10
+14:35,North Carolina,Cameron Johnson,Turnover,7,10
+14:35,Harvard,Noah Kirkwood,Steal,7,10
+14:15,Harvard,Henry Welsh,Missed Jumper,7,10
+14:15,North Carolina,Coby White,Defensive Rebound,7,10
+14:07,Harvard,Spencer Freedman,Foul,7,10
+14:01,North Carolina,Luke Maye,Layup,7,12
+13:47,Harvard,Henry Welsh,Missed Layup,7,12
+13:47,North Carolina,Nassir Little,Defensive Rebound,7,12
+13:39,North Carolina,Cameron Johnson,Layup,7,14
+13:36,Harvard,None,None,7,14
+13:19,Harvard,Robert Baker,Three Point Jumper,10,14
+13:02,North Carolina,Luke Maye,Missed Three Point Jumper,10,14
+13:02,Harvard,Henry Welsh,Defensive Rebound,10,14
+12:36,Harvard,Spencer Freedman,Missed Three Point Jumper,10,14
+12:36,North Carolina,Seventh Woods,Defensive Rebound,10,14
+12:24,North Carolina,Nassir Little,Missed Three Point Jumper,10,14
+12:24,Harvard,Rio Haskett,Defensive Rebound,10,14
+12:09,Harvard,Spencer Freedman,Turnover,10,14
+12:09,North Carolina,Seventh Woods,Steal,10,14
+12:01,North Carolina,Seventh Woods,Missed Layup,10,14
+12:01,Harvard,Chris Lewis,Block,10,14
+12:01,North Carolina,North Carolina,Offensive Rebound,10,14
+11:50,North Carolina,Luke Maye,Three Point Jumper,10,17
+11:23,Harvard,Justin Bassey,Foul,10,17
+11:23,Harvard,Justin Bassey,Turnover,10,17
+11:23,North Carolina,None,None,10,17
+11:11,North Carolina,Seventh Woods,Turnover,10,17
+10:53,North Carolina,Luke Maye,Foul,10,17
+10:53,Harvard,Christian Juzang,Free Throw,11,17
+10:53,Harvard,Christian Juzang,Free Throw,12,17
+10:53,Harvard,Christian Juzang,Free Throw,13,17
+10:34,North Carolina,Luke Maye,Missed Layup,13,17
+10:34,Harvard,Chris Lewis,Block,13,17
+10:34,North Carolina,Kenny Williams,Offensive Rebound,13,17
+10:23,North Carolina,Luke Maye,Missed Jumper,13,17
+10:23,North Carolina,Nassir Little,Offensive Rebound,13,17
+10:13,North Carolina,Kenny Williams,Missed Three Point Jumper,13,17
+10:13,Harvard,Chris Lewis,Defensive Rebound,13,17
+10:13,North Carolina,Brandon Robinson,Foul,13,17
+9:57,Harvard,Christian Juzang,Three Point Jumper,16,17
+9:36,North Carolina,Andrew Platek,Missed Three Point Jumper,16,17
+9:36,Harvard,Noah Kirkwood,Defensive Rebound,16,17
+9:06,Harvard,Mason Forbes,Layup,18,17
+9:00,North Carolina,Coby White,Jumper,18,19
+8:57,Harvard,None,None,18,19
+8:46,Harvard,Corey Johnson,Turnover,18,19
+8:25,North Carolina,Cameron Johnson,Missed Three Point Jumper,18,19
+8:25,Harvard,Justin Bassey,Defensive Rebound,18,19
+8:02,Harvard,Justin Bassey,Layup,20,19
+7:55,North Carolina,Cameron Johnson,Layup,20,21
+7:35,Harvard,Justin Bassey,Turnover,20,21
+7:35,North Carolina,Coby White,Steal,20,21
+7:35,North Carolina,None,None,20,21
+7:35,North Carolina,None,None,20,21
+7:28,North Carolina,Cameron Johnson,Three Point Jumper,20,24
+7:15,Harvard,Danilo Djuricic,Turnover,20,24
+7:15,North Carolina,Coby White,Steal,20,24
+7:07,North Carolina,Coby White,Turnover,20,24
+6:54,Harvard,Spencer Freedman,Turnover,20,24
+6:27,North Carolina,Coby White,Missed Three Point Jumper,20,24
+6:27,Harvard,Justin Bassey,Defensive Rebound,20,24
+6:20,Harvard,Justin Bassey,Missed Three Point Jumper,20,24
+6:20,North Carolina,Brandon Robinson,Defensive Rebound,20,24
+6:10,North Carolina,Garrison Brooks,Missed Layup,20,24
+6:10,Harvard,Justin Bassey,Defensive Rebound,20,24
+6:03,Harvard,Danilo Djuricic,Turnover,20,24
+6:03,North Carolina,Cameron Johnson,Steal,20,24
+5:47,North Carolina,Brandon Robinson,Missed Jumper,20,24
+5:47,Harvard,Justin Bassey,Defensive Rebound,20,24
+5:15,Harvard,Harvard ,Turnover,20,24
+5:03,North Carolina,Nassir Little,Missed Jumper,20,24
+5:03,Harvard,Chris Lewis,Block,20,24
+5:03,Harvard,Noah Kirkwood,Defensive Rebound,20,24
+4:51,North Carolina,Seventh Woods,Foul,20,24
+4:51,Harvard,Chris Lewis,Free Throw,21,24
+4:51,Harvard,Chris Lewis,Missed Free Throw,21,24
+4:51,North Carolina,Luke Maye,Defensive Rebound,21,24
+4:37,Harvard,Justin Bassey,Foul,21,24
+4:37,North Carolina,Luke Maye,Free Throw,21,25
+4:37,North Carolina,Luke Maye,Missed Free Throw,21,25
+4:37,Harvard,Mason Forbes,Defensive Rebound,21,25
+4:12,Harvard,Christian Juzang,Turnover,21,25
+4:12,North Carolina,Kenny Williams,Steal,21,25
+4:08,North Carolina,Nassir Little,Dunk,21,27
+3:47,North Carolina,Luke Maye,Foul,21,27
+3:47,North Carolina,None,None,21,27
+3:47,Harvard,Justin Bassey,Missed Free Throw,21,27
+3:47,Harvard,None,Team Rebound,21,27
+3:47,Harvard,Justin Bassey,Missed Free Throw,21,27
+3:47,North Carolina,Nassir Little,Defensive Rebound,21,27
+3:43,North Carolina,Kenny Williams,Layup,21,29
+3:17,North Carolina,Leaky Black,Foul,21,29
+3:17,Harvard,Noah Kirkwood,Free Throw,22,29
+3:17,Harvard,Noah Kirkwood,Free Throw,23,29
+2:58,North Carolina,Cameron Johnson,Three Point Jumper,23,32
+2:40,Harvard,Noah Kirkwood,Turnover,23,32
+2:40,North Carolina,Leaky Black,Steal,23,32
+2:36,North Carolina,Kenny Williams,Layup,23,34
+2:27,Harvard,Robert Baker,Layup,25,34
+2:10,North Carolina,Nassir Little,Layup,25,36
+2:10,Harvard,Robert Baker,Foul,25,36
+2:10,North Carolina,Nassir Little,Free Throw,25,37
+2:02,Harvard,Noah Kirkwood,Three Point Jumper,28,37
+1:52,North Carolina,Cameron Johnson,Missed Three Point Jumper,28,37
+1:52,Harvard,Danilo Djuricic,Defensive Rebound,28,37
+1:40,Harvard,Christian Juzang,Three Point Jumper,31,37
+1:12,North Carolina,Nassir Little,Layup,31,39
+0:56,Harvard,Christian Juzang,Missed Jumper,31,39
+0:56,North Carolina,Kenny Williams,Block,31,39
+0:56,North Carolina,Cameron Johnson,Defensive Rebound,31,39
+0:45,North Carolina,Seventh Woods,Missed Layup,31,39
+0:45,Harvard,Justin Bassey,Block,31,39
+0:45,North Carolina,Seventh Woods,Offensive Rebound,31,39
+0:37,North Carolina,Kenny Williams,Layup,31,41
+0:02,Harvard,Danilo Djuricic,Missed Three Point Jumper,31,41
+0:02,North Carolina,Cameron Johnson,Defensive Rebound,31,41
+0:01,North Carolina,Cameron Johnson,Turnover,31,41
+0:01,Harvard,Christian Juzang,Missed Jumper,31,41
+0:01,North Carolina,North Carolina,Defensive Rebound,31,41
+0:00,North Carolina,None,None,31,41
+20:00,Harvard,None,None,31,41
+19:52,Harvard,Justin Bassey,Layup,33,41
+19:35,Harvard,Danilo Djuricic,Foul,33,41
+19:35,North Carolina,Garrison Brooks,Free Throw,33,42
+19:35,North Carolina,Garrison Brooks,Missed Free Throw,33,42
+19:35,Harvard,Justin Bassey,Defensive Rebound,33,42
+19:17,Harvard,Corey Johnson,Missed Three Point Jumper,33,42
+19:17,North Carolina,Luke Maye,Defensive Rebound,33,42
+19:06,North Carolina,Coby White,Missed Three Point Jumper,33,42
+19:06,Harvard,Chris Lewis,Defensive Rebound,33,42
+18:38,Harvard,Justin Bassey,Missed Layup,33,42
+18:38,Harvard,Danilo Djuricic,Offensive Rebound,33,42
+18:33,Harvard,Danilo Djuricic,Layup,35,42
+18:28,North Carolina,Coby White,Missed Jumper,35,42
+18:28,North Carolina,Luke Maye,Offensive Rebound,35,42
+18:12,North Carolina,Luke Maye,Layup,35,44
+17:53,Harvard,Corey Johnson,Turnover,35,44
+17:53,North Carolina,Kenny Williams,Steal,35,44
+17:46,North Carolina,Seventh Woods,Missed Layup,35,44
+17:46,Harvard,Justin Bassey,Block,35,44
+17:46,North Carolina,North Carolina,Offensive Rebound,35,44
+17:36,North Carolina,Cameron Johnson,Turnover,35,44
+17:36,Harvard,Justin Bassey,Steal,35,44
+17:21,Harvard,Danilo Djuricic,Missed Three Point Jumper,35,44
+17:21,North Carolina,Kenny Williams,Defensive Rebound,35,44
+17:12,North Carolina,Kenny Williams,Turnover,35,44
+17:12,Harvard,Chris Lewis,Steal,35,44
+16:58,Harvard,Chris Lewis,Layup,37,44
+16:41,North Carolina,Cameron Johnson,Missed Jumper,37,44
+16:41,Harvard,Harvard,Defensive Rebound,37,44
+16:41,North Carolina,Brandon Huffman,Foul,37,44
+16:25,Harvard,Mason Forbes,Layup,39,44
+16:09,North Carolina,Luke Maye,Missed Three Point Jumper,39,44
+16:09,Harvard,Christian Juzang,Defensive Rebound,39,44
+16:04,Harvard,Henry Welsh,Foul,39,44
+16:04,Harvard,Henry Welsh,Turnover,39,44
+15:40,North Carolina,Coby White,Jumper,39,46
+15:19,Harvard,Henry Welsh,Missed Jumper,39,46
+15:19,North Carolina,North Carolina,Defensive Rebound,39,46
+15:15,North Carolina,Coby White,Layup,39,48
+15:15,Harvard,Noah Kirkwood,Foul,39,48
+15:15,North Carolina,Coby White,Free Throw,39,49
+14:48,Harvard,Christian Juzang,Missed Three Point Jumper,39,49
+14:48,North Carolina,Nassir Little,Defensive Rebound,39,49
+14:29,North Carolina,Garrison Brooks,Missed Jumper,39,49
+14:29,Harvard,Harvard,Defensive Rebound,39,49
+14:09,North Carolina,Nassir Little,Foul,39,49
+14:09,Harvard,Mason Forbes,Missed Free Throw,39,49
+14:09,Harvard,None,Team Rebound,39,49
+14:09,Harvard,Mason Forbes,Free Throw,40,49
+13:56,North Carolina,Coby White,Missed Three Point Jumper,40,49
+13:56,North Carolina,Garrison Brooks,Offensive Rebound,40,49
+13:55,Harvard,Henry Welsh,Foul,40,49
+13:55,North Carolina,Garrison Brooks,Free Throw,40,50
+13:55,North Carolina,Garrison Brooks,Free Throw,40,51
+13:43,Harvard,Noah Kirkwood,Turnover,40,51
+13:34,Harvard,Kale Catchings,Foul,40,51
+13:24,North Carolina,Nassir Little,Three Point Jumper,40,54
+13:08,Harvard,Spencer Freedman,Turnover,40,54
+12:54,North Carolina,Garrison Brooks,Missed Jumper,40,54
+12:54,Harvard,Chris Lewis,Block,40,54
+12:54,Harvard,Chris Lewis,Defensive Rebound,40,54
+12:32,Harvard,Noah Kirkwood,Missed Three Point Jumper,40,54
+12:32,Harvard,Mason Forbes,Offensive Rebound,40,54
+12:17,Harvard,Noah Kirkwood,Missed Jumper,40,54
+12:17,North Carolina,North Carolina,Defensive Rebound,40,54
+12:03,North Carolina,Nassir Little,Missed Layup,40,54
+12:03,Harvard,Chris Lewis,Defensive Rebound,40,54
+11:44,Harvard,Noah Kirkwood,Missed Three Point Jumper,40,54
+11:44,North Carolina,Nassir Little,Defensive Rebound,40,54
+11:39,Harvard,Kale Catchings,Foul,40,54
+11:39,North Carolina,None,None,40,54
+11:39,North Carolina,Coby White,Free Throw,40,55
+11:39,North Carolina,Coby White,Free Throw,40,56
+11:10,Harvard,Danilo Djuricic,Missed Layup,40,56
+11:10,North Carolina,Leaky Black,Defensive Rebound,40,56
+11:01,North Carolina,Leaky Black,Three Point Jumper,40,59
+11:01,Harvard,None,None,40,59
+10:39,Harvard,Corey Johnson,Missed Three Point Jumper,40,59
+10:39,Harvard,Christian Juzang,Offensive Rebound,40,59
+10:27,North Carolina,Leaky Black,Foul,40,59
+10:08,Harvard,Mason Forbes,Missed Jumper,40,59
+10:08,North Carolina,Coby White,Defensive Rebound,40,59
+9:57,North Carolina,Cameron Johnson,Missed Jumper,40,59
+9:57,Harvard,Justin Bassey,Defensive Rebound,40,59
+9:29,Harvard,Christian Juzang,Turnover,40,59
+9:05,North Carolina,Luke Maye,Missed Layup,40,59
+9:05,Harvard,Henry Welsh,Defensive Rebound,40,59
+8:56,Harvard,Corey Johnson,Missed Three Point Jumper,40,59
+8:56,Harvard,Justin Bassey,Offensive Rebound,40,59
+8:44,Harvard,Henry Welsh,Missed Layup,40,59
+8:44,North Carolina,Nassir Little,Block,40,59
+8:44,North Carolina,Garrison Brooks,Defensive Rebound,40,59
+8:39,Harvard,Justin Bassey,Foul,40,59
+8:39,North Carolina,Cameron Johnson,Free Throw,40,60
+8:39,North Carolina,Cameron Johnson,Missed Free Throw,40,60
+8:39,Harvard,Justin Bassey,Defensive Rebound,40,60
+8:39,Harvard,Christian Juzang,Missed Three Point Jumper,40,60
+8:39,North Carolina,Nassir Little,Defensive Rebound,40,60
+8:17,North Carolina,Nassir Little,Turnover,40,60
+8:05,Harvard,Corey Johnson,Turnover,40,60
+8:05,North Carolina,Cameron Johnson,Steal,40,60
+7:51,North Carolina,Cameron Johnson,Foul,40,60
+7:51,North Carolina,Cameron Johnson,Turnover,40,60
+7:46,North Carolina,None,None,40,60
+7:46,Harvard,Henry Welsh,Jumper,42,60
+7:29,Harvard,Rio Haskett,Foul,42,60
+7:29,North Carolina,Kenny Williams,Free Throw,42,61
+7:29,North Carolina,Kenny Williams,Free Throw,42,62
+7:01,Harvard,Corey Johnson,Missed Three Point Jumper,42,62
+7:01,North Carolina,Cameron Johnson,Defensive Rebound,42,62
+6:52,Harvard,Christian Juzang,Foul,42,62
+6:52,North Carolina,Nassir Little,Free Throw,42,63
+6:52,North Carolina,Nassir Little,Free Throw,42,64
+6:33,Harvard,Henry Welsh,Missed Jumper,42,64
+6:33,North Carolina,Luke Maye,Defensive Rebound,42,64
+6:20,Harvard,Henry Welsh,Foul,42,64
+6:20,North Carolina,Coby White,Free Throw,42,65
+6:20,North Carolina,Coby White,Free Throw,42,66
+6:05,Harvard,Corey Johnson,Three Point Jumper,45,66
+5:54,North Carolina,Cameron Johnson,Missed Jumper,45,66
+5:54,Harvard,Henry Welsh,Block,45,66
+5:54,Harvard,Corey Johnson,Defensive Rebound,45,66
+5:44,North Carolina,Nassir Little,Foul,45,66
+5:28,North Carolina,Seventh Woods,Foul,45,66
+5:16,Harvard,Robert Baker,Three Point Jumper,48,66
+5:00,North Carolina,Luke Maye,Missed Three Point Jumper,48,66
+5:00,Harvard,Rio Haskett,Defensive Rebound,48,66
+4:54,Harvard,Rio Haskett,Turnover,48,66
+4:54,North Carolina,Nassir Little,Steal,48,66
+4:49,North Carolina,Seventh Woods,Turnover,48,66
+4:49,Harvard,Robert Baker,Steal,48,66
+4:38,Harvard,Robert Baker,Missed Three Point Jumper,48,66
+4:38,North Carolina,Nassir Little,Defensive Rebound,48,66
+4:21,North Carolina,Kenny Williams,Three Point Jumper,48,69
+4:07,Harvard,Rio Haskett,Three Point Jumper,51,69
+3:58,North Carolina,Leaky Black,Jumper,51,71
+3:37,Harvard,Chris Lewis,Layup,53,71
+3:25,North Carolina,Cameron Johnson,Turnover,53,71
+3:25,North Carolina,None,None,53,71
+3:08,Harvard,Chris Lewis,Jumper,55,71
+3:03,North Carolina,Brandon Robinson,Turnover,55,71
+2:55,Harvard,Corey Johnson,Missed Layup,55,71
+2:55,North Carolina,Coby White,Defensive Rebound,55,71
+2:42,North Carolina,Cameron Johnson,Missed Three Point Jumper,55,71
+2:42,Harvard,Robert Baker,Block,55,71
+2:42,Harvard,Corey Johnson,Defensive Rebound,55,71
+2:35,Harvard,Corey Johnson,Turnover,55,71
+2:35,North Carolina,Cameron Johnson,Steal,55,71
+2:31,North Carolina,Coby White,Missed Jumper,55,71
+2:31,Harvard,Harvard,Defensive Rebound,55,71
+2:18,Harvard,Robert Baker,Layup,57,71
+1:57,North Carolina,Coby White,Missed Jumper,57,71
+1:57,Harvard,Chris Lewis,Defensive Rebound,57,71
+1:50,Harvard,Christian Juzang,Turnover,57,71
+1:50,North Carolina,Leaky Black,Steal,57,71
+1:43,North Carolina,Luke Maye,Layup,57,73
+1:18,Harvard,Chris Lewis,Missed Jumper,57,73
+1:18,North Carolina,Luke Maye,Defensive Rebound,57,73
+1:09,North Carolina,Cameron Johnson,Dunk,57,75
+1:06,North Carolina,None,None,57,75
+0:42,Harvard,Robert Baker,Missed Three Point Jumper,57,75
+0:42,North Carolina,Brandon Robinson,Defensive Rebound,57,75
+0:24,North Carolina,Brandon Robinson,Missed Three Point Jumper,57,75
+0:24,Harvard,Spencer Freedman,Defensive Rebound,57,75
+0:18,Harvard,Spencer Freedman,Turnover,57,75
+0:09,Harvard,Spencer Freedman,Foul,57,75
+0:09,North Carolina,Brandon Robinson,Free Throw,57,76
+0:09,North Carolina,Brandon Robinson,Free Throw,57,77
+0:01,Harvard,Tommy McCarthy,Missed Jumper,57,77
+0:01,North Carolina,Brandon Huffman,Defensive Rebound,57,77
+0:00,North Carolina,None,None,57,77

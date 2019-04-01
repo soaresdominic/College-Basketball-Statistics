@@ -1,0 +1,285 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Michigan,None,None,0,0
+19:47,Michigan,Jordan Poole,Missed Jumper,0,0
+19:47,Maryland,Bruno Fernando,Defensive Rebound,0,0
+19:26,Maryland,Jalen Smith,Missed Layup,0,0
+19:26,Michigan,Jon Teske,Block,0,0
+19:26,Michigan,Ignas Brazdeikis,Defensive Rebound,0,0
+19:19,Michigan,Zavier Simpson,Three Point Jumper,0,3
+18:57,Maryland,Eric Ayala,Turnover,0,3
+18:57,Michigan,Zavier Simpson,Steal,0,3
+18:51,Michigan,Zavier Simpson,Turnover,0,3
+18:34,Maryland,Bruno Fernando,Missed Layup,0,3
+18:34,Michigan,Zavier Simpson,Defensive Rebound,0,3
+18:20,Michigan,Jon Teske,Missed Three Point Jumper,0,3
+18:20,Maryland,Jalen Smith,Defensive Rebound,0,3
+17:52,Maryland,Anthony Cowan Jr.,Missed Jumper,0,3
+17:52,Michigan,Jon Teske,Defensive Rebound,0,3
+17:42,Michigan,Ignas Brazdeikis,Three Point Jumper,0,6
+17:20,Maryland,Jalen Smith,Layup,2,6
+16:55,Michigan,Charles Matthews,Jumper,2,8
+16:39,Maryland,Eric Ayala,Missed Three Point Jumper,2,8
+16:39,Michigan,Ignas Brazdeikis,Defensive Rebound,2,8
+16:33,Maryland,Jalen Smith,Foul,2,8
+16:17,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,2,8
+16:17,Maryland,Eric Ayala,Defensive Rebound,2,8
+16:04,Maryland,Bruno Fernando,Missed Layup,2,8
+16:04,Michigan,Zavier Simpson,Defensive Rebound,2,8
+15:59,Michigan,Charles Matthews,Dunk,2,10
+15:32,Maryland,Darryl Morsell,Turnover,2,10
+15:32,Michigan,None,None,2,10
+15:17,Michigan,Jon Teske,Missed Three Point Jumper,2,10
+15:17,Michigan,Ignas Brazdeikis,Offensive Rebound,2,10
+15:11,Michigan,Ignas Brazdeikis,Layup,2,12
+14:48,Maryland,Bruno Fernando,Missed Layup,2,12
+14:48,Michigan,Ignas Brazdeikis,Defensive Rebound,2,12
+14:42,Michigan,Charles Matthews,Layup,2,14
+14:40,Maryland,None,None,2,14
+14:22,Maryland,Anthony Cowan Jr.,Missed Layup,2,14
+14:22,Michigan,Brandon Johns Jr.,Defensive Rebound,2,14
+14:15,Michigan,Jordan Poole,Missed Three Point Jumper,2,14
+14:15,Maryland,Maryland,Defensive Rebound,2,14
+13:49,Maryland,Jalen Smith,Layup,4,14
+13:49,Michigan,Ignas Brazdeikis,Foul,4,14
+13:49,Maryland,Jalen Smith,Missed Free Throw,4,14
+13:49,Michigan,Charles Matthews,Defensive Rebound,4,14
+13:17,Michigan,Michigan ,Turnover,4,14
+13:10,Maryland,Anthony Cowan Jr.,Turnover,4,14
+13:10,Michigan,Jordan Poole,Steal,4,14
+13:06,Michigan,Zavier Simpson,Layup,4,16
+12:48,Maryland,Serrel Smith Jr.,Missed Three Point Jumper,4,16
+12:48,Maryland,Anthony Cowan Jr.,Offensive Rebound,4,16
+12:37,Maryland,Joshua Tomaic,Turnover,4,16
+12:25,Maryland,Eric Ayala,Foul,4,16
+12:25,Michigan,Jon Teske,Missed Free Throw,4,16
+12:25,Michigan,None,Team Rebound,4,16
+12:25,Michigan,Jon Teske,Missed Free Throw,4,16
+12:25,Maryland,Jalen Smith,Defensive Rebound,4,16
+12:12,Maryland,Jalen Smith,Missed Jumper,4,16
+12:12,Michigan,Jon Teske,Defensive Rebound,4,16
+11:57,Michigan,Charles Matthews,Turnover,4,16
+11:57,Maryland,Eric Ayala,Steal,4,16
+11:57,Maryland,None,None,4,16
+11:57,Michigan,None,None,4,16
+11:47,Maryland,Bruno Fernando,Turnover,4,16
+11:43,Michigan,Ignas Brazdeikis,Turnover,4,16
+11:37,Maryland,Ricky Lindo Jr.,Dunk,6,16
+11:37,Michigan,Charles Matthews,Foul,6,16
+11:37,Maryland,Ricky Lindo Jr.,Missed Free Throw,6,16
+11:37,Michigan,Isaiah Livers,Defensive Rebound,6,16
+11:28,Michigan,Isaiah Livers,Missed Three Point Jumper,6,16
+11:28,Michigan,Ignas Brazdeikis,Offensive Rebound,6,16
+11:06,Michigan,Isaiah Livers,Three Point Jumper,6,19
+10:47,Maryland,Darryl Morsell,Turnover,6,19
+10:33,Michigan,Isaiah Livers,Missed Three Point Jumper,6,19
+10:33,Maryland,Bruno Fernando,Defensive Rebound,6,19
+10:08,Maryland,Eric Ayala,Missed Three Point Jumper,6,19
+10:08,Michigan,Charles Matthews,Defensive Rebound,6,19
+9:57,Michigan,Eli Brooks,Missed Jumper,6,19
+9:57,Maryland,Darryl Morsell,Defensive Rebound,6,19
+9:42,Maryland,Darryl Morsell,Turnover,6,19
+9:42,Michigan,Zavier Simpson,Steal,6,19
+9:39,Michigan,Charles Matthews,Dunk,6,21
+9:07,Maryland,Bruno Fernando,Missed Layup,6,21
+9:07,Maryland,Bruno Fernando,Offensive Rebound,6,21
+9:05,Michigan,Zavier Simpson,Foul,6,21
+8:55,Maryland,Darryl Morsell,Layup,8,21
+8:43,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,8,21
+8:43,Maryland,Ricky Lindo Jr.,Defensive Rebound,8,21
+8:22,Maryland,Eric Ayala,Missed Layup,8,21
+8:22,Michigan,Jon Teske,Defensive Rebound,8,21
+8:11,Michigan,Jon Teske,Missed Jumper,8,21
+8:11,Maryland,Ricky Lindo Jr.,Defensive Rebound,8,21
+7:59,Maryland,Jalen Smith,Missed Three Point Jumper,8,21
+7:59,Michigan,Jordan Poole,Defensive Rebound,8,21
+7:42,Michigan,Ignas Brazdeikis,Missed Layup,8,21
+7:42,Maryland,Jalen Smith,Defensive Rebound,8,21
+7:22,Maryland,Eric Ayala,Missed Layup,8,21
+7:22,Maryland,Ricky Lindo Jr.,Offensive Rebound,8,21
+7:17,Maryland,Ricky Lindo Jr.,Missed Layup,8,21
+7:17,Michigan,Jon Teske,Block,8,21
+7:17,Michigan,Isaiah Livers,Defensive Rebound,8,21
+7:12,Michigan,Isaiah Livers,Dunk,8,23
+7:11,Maryland,None,None,8,23
+7:11,Michigan,None,None,8,23
+6:57,Maryland,Anthony Cowan Jr.,Jumper,10,23
+6:36,Michigan,Jordan Poole,Missed Three Point Jumper,10,23
+6:36,Maryland,Bruno Fernando,Defensive Rebound,10,23
+6:25,Michigan,Zavier Simpson,Foul,10,23
+6:18,Maryland,Bruno Fernando,Turnover,10,23
+6:11,Michigan,Charles Matthews,Missed Layup,10,23
+6:11,Maryland,Jalen Smith,Block,10,23
+6:11,Michigan,Charles Matthews,Offensive Rebound,10,23
+6:04,Michigan,Jon Teske,Missed Three Point Jumper,10,23
+6:04,Maryland,Jalen Smith,Defensive Rebound,10,23
+5:41,Maryland,Darryl Morsell,Turnover,10,23
+5:22,Michigan,David DeJulius,Layup,10,25
+5:01,Michigan,Brandon Johns Jr.,Foul,10,25
+5:00,Maryland,Aaron Wiggins,Turnover,10,25
+5:00,Michigan,Brandon Johns Jr.,Steal,10,25
+4:43,Michigan,Brandon Johns Jr.,Missed Layup,10,25
+4:43,Maryland,Aaron Wiggins,Defensive Rebound,10,25
+4:38,Maryland,Aaron Wiggins,Turnover,10,25
+4:38,Michigan,David DeJulius,Steal,10,25
+4:31,Michigan,Jordan Poole,Turnover,10,25
+4:16,Maryland,Aaron Wiggins,Three Point Jumper,13,25
+3:53,Michigan,Charles Matthews,Foul,13,25
+3:53,Michigan,Charles Matthews,Turnover,13,25
+3:53,Michigan,None,None,13,25
+3:39,Maryland,Aaron Wiggins,Three Point Jumper,16,25
+3:21,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,16,25
+3:21,Maryland,Eric Ayala,Defensive Rebound,16,25
+3:05,Maryland,Ricky Lindo Jr.,Foul,16,25
+3:05,Maryland,Ricky Lindo Jr.,Turnover,16,25
+2:54,Michigan,Isaiah Livers,Jumper,16,27
+2:24,Maryland,Jalen Smith,Missed Three Point Jumper,16,27
+2:24,Michigan,Jordan Poole,Defensive Rebound,16,27
+2:16,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,16,27
+2:16,Maryland,Ricky Lindo Jr.,Defensive Rebound,16,27
+2:10,Maryland,Anthony Cowan Jr.,Turnover,16,27
+2:10,Michigan,Jon Teske,Steal,16,27
+1:47,Michigan,David DeJulius,Missed Three Point Jumper,16,27
+1:47,Maryland,Ricky Lindo Jr.,Defensive Rebound,16,27
+1:21,Michigan,Jon Teske,Foul,16,27
+1:21,Maryland,Jalen Smith,Free Throw,17,27
+1:21,Maryland,Jalen Smith,Free Throw,18,27
+1:00,Michigan,Jon Teske,Missed Jumper,18,27
+1:00,Maryland,Ricky Lindo Jr.,Defensive Rebound,18,27
+0:38,Maryland,Jalen Smith,Missed Layup,18,27
+0:38,Michigan,Isaiah Livers,Block,18,27
+0:38,Michigan,Eli Brooks,Defensive Rebound,18,27
+0:21,Michigan,None,None,18,27
+0:12,Maryland,Darryl Morsell,Foul,18,27
+0:02,Michigan,Jordan Poole,Missed Jumper,18,27
+0:02,Michigan,None,Team Rebound,18,27
+0:00,Michigan,None,None,18,27
+20:00,Michigan,None,None,18,27
+19:45,Maryland,Darryl Morsell,Foul,18,27
+19:45,Michigan,Jordan Poole,Free Throw,18,28
+19:45,Michigan,Jordan Poole,Free Throw,18,29
+19:31,Maryland,Bruno Fernando,Jumper,20,29
+19:08,Michigan,Ignas Brazdeikis,Missed Three Point Jumper,20,29
+19:08,Michigan,Charles Matthews,Offensive Rebound,20,29
+18:59,Michigan,Charles Matthews,Missed Three Point Jumper,20,29
+18:59,Maryland,Eric Ayala,Defensive Rebound,20,29
+18:39,Maryland,Bruno Fernando,Turnover,20,29
+18:39,Michigan,Ignas Brazdeikis,Steal,20,29
+18:34,Michigan,Charles Matthews,Dunk,20,31
+18:15,Maryland,Anthony Cowan Jr.,Three Point Jumper,23,31
+17:49,Michigan,Jon Teske,Dunk,23,33
+17:28,Maryland,Anthony Cowan Jr.,Three Point Jumper,26,33
+17:04,Michigan,Zavier Simpson,Missed Jumper,26,33
+17:04,Michigan,Charles Matthews,Offensive Rebound,26,33
+16:56,Maryland,Darryl Morsell,Foul,26,33
+16:53,Michigan,Ignas Brazdeikis,Three Point Jumper,26,36
+16:32,Maryland,Bruno Fernando,Dunk,28,36
+16:09,Michigan,Charles Matthews,Jumper,28,38
+15:38,Maryland,Bruno Fernando,Layup,30,38
+15:16,Michigan,Jon Teske,Missed Jumper,30,38
+15:16,Maryland,Jalen Smith,Defensive Rebound,30,38
+14:58,Michigan,Jon Teske,Foul,30,38
+14:58,Michigan,None,None,30,38
+14:53,Michigan,Brandon Johns Jr.,Foul,30,38
+14:40,Michigan,Brandon Johns Jr.,Foul,30,38
+14:30,Maryland,Bruno Fernando,Layup,32,38
+14:11,Michigan,Ignas Brazdeikis,Missed Layup,32,38
+14:11,Maryland,Aaron Wiggins,Defensive Rebound,32,38
+13:49,Maryland,Eric Ayala,Missed Three Point Jumper,32,38
+13:49,Michigan,Jordan Poole,Defensive Rebound,32,38
+13:41,Maryland,Aaron Wiggins,Foul,32,38
+13:31,Michigan,Jon Teske,Missed Three Point Jumper,32,38
+13:31,Maryland,Eric Ayala,Defensive Rebound,32,38
+13:06,Maryland,Jalen Smith,Missed Jumper,32,38
+13:06,Michigan,None,Team Rebound,32,38
+13:03,Maryland,Jalen Smith,Foul,32,38
+12:46,Michigan,Jordan Poole,Layup,32,40
+12:25,Maryland,Anthony Cowan Jr.,Turnover,32,40
+12:09,Michigan,Charles Matthews,Missed Jumper,32,40
+12:09,Maryland,Anthony Cowan Jr.,Defensive Rebound,32,40
+11:53,Maryland,Aaron Wiggins,Layup,34,40
+11:25,Maryland,Anthony Cowan Jr.,Foul,34,40
+11:25,Michigan,None,None,34,40
+11:25,Michigan,Jordan Poole,Free Throw,34,41
+11:25,Michigan,Jordan Poole,Free Throw,34,42
+11:14,Maryland,Bruno Fernando,Missed Jumper,34,42
+11:14,Maryland,Bruno Fernando,Offensive Rebound,34,42
+11:10,Michigan,Jon Teske,Foul,34,42
+11:10,Maryland,Bruno Fernando,Free Throw,35,42
+11:10,Maryland,Bruno Fernando,Free Throw,36,42
+10:51,Michigan,Jordan Poole,Missed Three Point Jumper,36,42
+10:51,Maryland,Ricky Lindo Jr.,Defensive Rebound,36,42
+10:26,Maryland,Serrel Smith Jr.,Three Point Jumper,39,42
+9:56,Michigan,Jon Teske,Missed Three Point Jumper,39,42
+9:56,Maryland,Aaron Wiggins,Defensive Rebound,39,42
+9:29,Maryland,Anthony Cowan Jr.,Missed Three Point Jumper,39,42
+9:29,Michigan,Isaiah Livers,Defensive Rebound,39,42
+9:22,Michigan,Jordan Poole,Layup,39,44
+9:02,Maryland,Aaron Wiggins,Missed Layup,39,44
+9:02,Michigan,Isaiah Livers,Defensive Rebound,39,44
+8:52,Michigan,Zavier Simpson,Three Point Jumper,39,47
+8:41,Maryland,None,None,39,47
+8:26,Michigan,Ignas Brazdeikis,Foul,39,47
+8:23,Maryland,Serrel Smith Jr.,Missed Jumper,39,47
+8:23,Michigan,Zavier Simpson,Defensive Rebound,39,47
+8:01,Michigan,Charles Matthews,Missed Jumper,39,47
+8:01,Maryland,Anthony Cowan Jr.,Defensive Rebound,39,47
+7:49,Maryland,Aaron Wiggins,Missed Three Point Jumper,39,47
+7:49,Maryland,Maryland,Offensive Rebound,39,47
+7:45,Michigan,None,None,39,47
+7:44,Maryland,Aaron Wiggins,Three Point Jumper,42,47
+7:19,Michigan,Jon Teske,Missed Three Point Jumper,42,47
+7:19,Maryland,Anthony Cowan Jr.,Defensive Rebound,42,47
+6:55,Maryland,Anthony Cowan Jr.,Missed Layup,42,47
+6:55,Michigan,Jon Teske,Defensive Rebound,42,47
+6:50,Michigan,Ignas Brazdeikis,Three Point Jumper,42,50
+6:13,Maryland,Anthony Cowan Jr.,Missed Three Point Jumper,42,50
+6:13,Maryland,Aaron Wiggins,Offensive Rebound,42,50
+6:08,Maryland,Aaron Wiggins,Missed Layup,42,50
+6:08,Michigan,Jon Teske,Block,42,50
+6:08,Michigan,Zavier Simpson,Defensive Rebound,42,50
+6:01,Michigan,Isaiah Livers,Missed Three Point Jumper,42,50
+6:01,Maryland,Anthony Cowan Jr.,Defensive Rebound,42,50
+5:55,Maryland,Aaron Wiggins,Missed Three Point Jumper,42,50
+5:55,Maryland,Bruno Fernando,Offensive Rebound,42,50
+5:48,Maryland,Bruno Fernando,Layup,44,50
+5:23,Michigan,Charles Matthews,Missed Jumper,44,50
+5:23,Maryland,Bruno Fernando,Defensive Rebound,44,50
+5:14,Maryland,Jalen Smith,Missed Layup,44,50
+5:14,Michigan,None,Team Rebound,44,50
+5:12,Maryland,Jalen Smith,Foul,44,50
+4:55,Michigan,Jon Teske,Dunk,44,52
+4:34,Maryland,Anthony Cowan Jr.,Missed Three Point Jumper,44,52
+4:34,Maryland,Eric Ayala,Offensive Rebound,44,52
+4:30,Maryland,Eric Ayala,Missed Three Point Jumper,44,52
+4:30,Maryland,Aaron Wiggins,Offensive Rebound,44,52
+4:23,Maryland,Anthony Cowan Jr.,Missed Three Point Jumper,44,52
+4:23,Michigan,Zavier Simpson,Defensive Rebound,44,52
+4:12,Michigan,Jon Teske,Dunk,44,54
+3:45,Maryland,Aaron Wiggins,Missed Three Point Jumper,44,54
+3:45,Maryland,Bruno Fernando,Offensive Rebound,44,54
+3:40,Maryland,Anthony Cowan Jr.,Missed Three Point Jumper,44,54
+3:40,Maryland,Aaron Wiggins,Offensive Rebound,44,54
+3:40,Maryland,None,None,46,54
+3:16,Michigan,Jon Teske,Three Point Jumper,46,57
+2:47,Michigan,Jon Teske,Foul,46,57
+2:47,Michigan,None,None,46,57
+2:47,Maryland,Aaron Wiggins,Free Throw,47,57
+2:47,Maryland,Aaron Wiggins,Free Throw,48,57
+2:33,Michigan,Zavier Simpson,Jumper,48,59
+2:07,Maryland,Jalen Smith,Dunk,50,59
+1:53,Maryland,Anthony Cowan Jr.,Foul,50,59
+1:53,Michigan,Zavier Simpson,Free Throw,50,60
+1:53,Michigan,Zavier Simpson,Free Throw,50,61
+1:43,Maryland,Jalen Smith,Turnover,50,61
+1:12,Maryland,Anthony Cowan Jr.,Foul,50,61
+1:12,Michigan,Ignas Brazdeikis,Free Throw,50,62
+1:12,Michigan,Ignas Brazdeikis,Free Throw,50,63
+1:12,Michigan,None,None,50,63
+1:02,Maryland,Anthony Cowan Jr.,Layup,52,63
+0:31,Michigan,Zavier Simpson,Missed Layup,52,63
+0:31,Maryland,Bruno Fernando,Block,52,63
+0:31,Michigan,Charles Matthews,Offensive Rebound,52,63
+0:27,Michigan,Charles Matthews,Jumper,52,65
+0:19,Maryland,Eric Ayala,Missed Three Point Jumper,52,65
+0:19,Michigan,Jordan Poole,Defensive Rebound,52,65
+0:00,Michigan,None,None,52,65

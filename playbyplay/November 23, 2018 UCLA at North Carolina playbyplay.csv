@@ -1,0 +1,357 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:55,North Carolina,Coby White,Turnover,0,0
+19:54,UCLA,Jalen Hill,Steal,0,0
+19:32,UCLA,Moses Brown,Layup,2,0
+19:12,UCLA,Moses Brown,Foul,2,0
+19:12,North Carolina,Luke Maye,Free Throw,2,1
+19:12,North Carolina,Luke Maye,Free Throw,2,2
+19:00,UCLA,Kris Wilkes,Jumper,4,2
+18:48,North Carolina,Cameron Johnson,Missed Jumper,4,2
+18:48,UCLA,Moses Brown,Defensive Rebound,4,2
+18:27,UCLA,Prince Ali,Layup,6,2
+18:03,North Carolina,Coby White,Layup,6,4
+17:33,UCLA,Moses Brown,Layup,8,4
+17:21,North Carolina,Garrison Brooks,Missed Jumper,8,4
+17:21,UCLA,Moses Brown,Block,8,4
+17:19,UCLA,Kris Wilkes,Defensive Rebound,8,4
+17:00,UCLA,Kris Wilkes,Turnover,8,4
+16:58,North Carolina,Garrison Brooks,Steal,8,4
+16:54,North Carolina,Kenny Williams,Three Point Jumper,8,7
+16:35,UCLA,Moses Brown,Foul,8,7
+16:31,UCLA,Moses Brown,Turnover,8,7
+16:23,North Carolina,Kenny Williams,Missed Jumper,8,7
+16:23,UCLA,Cody Riley,Defensive Rebound,8,7
+16:15,UCLA,Jaylen Hands,Layup,10,7
+16:09,UCLA,Prince Ali,Foul,10,7
+16:09,North Carolina,Coby White,Free Throw,10,8
+16:09,North Carolina,Coby White,Free Throw,10,9
+15:59,UCLA,Cody Riley,Layup,12,9
+15:48,North Carolina,Garrison Brooks,Missed Jumper,12,9
+15:48,North Carolina,None,Team Rebound,12,9
+15:46,North Carolina,Luke Maye,Foul,12,9
+15:46,North Carolina,None,None,12,9
+15:29,UCLA,Prince Ali,Three Point Jumper,15,9
+15:22,North Carolina,Cameron Johnson,Missed Three Point Jumper,15,9
+15:22,UCLA,Cody Riley,Defensive Rebound,15,9
+15:14,UCLA,Chris Smith,Missed Three Point Jumper,15,9
+15:14,North Carolina,Luke Maye,Defensive Rebound,15,9
+15:05,North Carolina,Coby White,Missed Layup,15,9
+15:05,North Carolina,North Carolina,Offensive Rebound,15,9
+14:51,North Carolina,Sterling Manley,Layup,15,11
+14:36,UCLA,Chris Smith,Jumper,17,11
+14:15,North Carolina,Luke Maye,Missed Jumper,17,11
+14:15,UCLA,UCLA,Defensive Rebound,17,11
+13:59,UCLA,Jules Bernard,Missed Layup,17,11
+13:59,UCLA,Jules Bernard,Offensive Rebound,17,11
+13:54,UCLA,Jules Bernard,Turnover,17,11
+13:52,North Carolina,Luke Maye,Steal,17,11
+13:51,North Carolina,Luke Maye,Turnover,17,11
+13:50,UCLA,Chris Smith,Steal,17,11
+13:46,UCLA,Kris Wilkes,Three Point Jumper,20,11
+13:31,North Carolina,Coby White,Three Point Jumper,20,14
+13:11,UCLA,Jaylen Hands,Missed Three Point Jumper,20,14
+13:11,North Carolina,Sterling Manley,Defensive Rebound,20,14
+13:02,North Carolina,Coby White,Three Point Jumper,20,17
+12:45,UCLA,Kris Wilkes,Missed Three Point Jumper,20,17
+12:45,North Carolina,North Carolina,Defensive Rebound,20,17
+12:31,North Carolina,Nassir Little,Missed Jumper,20,17
+12:31,UCLA,Chris Smith,Defensive Rebound,20,17
+12:12,UCLA,Cody Riley,Layup,22,17
+11:55,North Carolina,Nassir Little,Missed Jumper,22,17
+11:55,UCLA,Jules Bernard,Defensive Rebound,22,17
+11:48,North Carolina,Garrison Brooks,Foul,22,17
+11:47,North Carolina,None,None,22,17
+11:47,UCLA,Jules Bernard,Free Throw,23,17
+11:47,UCLA,Jules Bernard,Free Throw,24,17
+11:27,North Carolina,Brandon Robinson,Missed Three Point Jumper,24,17
+11:27,UCLA,Jules Bernard,Defensive Rebound,24,17
+11:14,UCLA,Jalen Hill,Missed Jumper,24,17
+11:14,North Carolina,Sterling Manley,Defensive Rebound,24,17
+10:58,North Carolina,Sterling Manley,Turnover,24,17
+10:41,North Carolina,Sterling Manley,Foul,24,17
+10:41,UCLA,Kris Wilkes,Free Throw,25,17
+10:41,UCLA,Kris Wilkes,Missed Free Throw,25,17
+10:41,North Carolina,Garrison Brooks,Defensive Rebound,25,17
+10:35,North Carolina,Nassir Little,Layup,25,19
+10:20,North Carolina,Nassir Little,Foul,25,19
+10:16,UCLA,Chris Smith,Turnover,25,19
+10:13,North Carolina,Cameron Johnson,Missed Three Point Jumper,25,19
+10:13,UCLA,Moses Brown,Defensive Rebound,25,19
+9:49,North Carolina,Cameron Johnson,Foul,25,19
+9:49,UCLA,Moses Brown,Missed Free Throw,25,19
+9:49,UCLA,None,Team Rebound,25,19
+9:49,UCLA,Moses Brown,Free Throw,26,19
+9:43,North Carolina,Coby White,Missed Three Point Jumper,26,19
+9:43,North Carolina,North Carolina,Offensive Rebound,26,19
+9:40,North Carolina,Coby White,Turnover,26,19
+9:39,UCLA,David Singleton,Steal,26,19
+9:31,UCLA,David Singleton,Three Point Jumper,29,19
+9:23,North Carolina,Luke Maye,Missed Three Point Jumper,29,19
+9:23,UCLA,Jaylen Hands,Defensive Rebound,29,19
+9:16,UCLA,Prince Ali,Missed Three Point Jumper,29,19
+9:16,UCLA,Jalen Hill,Offensive Rebound,29,19
+9:12,North Carolina,Coby White,Foul,29,19
+9:02,UCLA,Jaylen Hands,Missed Three Point Jumper,29,19
+9:02,North Carolina,Luke Maye,Defensive Rebound,29,19
+8:54,North Carolina,Kenny Williams,Layup,29,21
+8:40,UCLA,Jalen Hill,Turnover,29,21
+8:30,North Carolina,Cameron Johnson,Missed Jumper,29,21
+8:30,UCLA,Cody Riley,Defensive Rebound,29,21
+8:00,UCLA,Jaylen Hands,Missed Layup,29,21
+8:00,UCLA,UCLA,Offensive Rebound,29,21
+7:58,North Carolina,None,None,29,21
+7:33,UCLA,Chris Smith,Three Point Jumper,32,21
+7:22,North Carolina,Luke Maye,Layup,32,23
+6:56,UCLA,Prince Ali,Missed Layup,32,23
+6:56,North Carolina,Garrison Brooks,Block,32,23
+6:54,North Carolina,Brandon Robinson,Defensive Rebound,32,23
+6:49,North Carolina,Kenny Williams,Layup,32,25
+6:49,UCLA,Prince Ali,Foul,32,25
+6:49,North Carolina,Kenny Williams,Free Throw,32,26
+6:34,North Carolina,Kenny Williams,Foul,32,26
+6:34,UCLA,Kris Wilkes,Free Throw,33,26
+6:34,UCLA,Kris Wilkes,Free Throw,34,26
+6:25,North Carolina,Coby White,Three Point Jumper,34,29
+6:05,North Carolina,Luke Maye,Foul,34,29
+6:05,UCLA,Kris Wilkes,Free Throw,35,29
+6:05,UCLA,Kris Wilkes,Free Throw,36,29
+5:56,North Carolina,Kenny Williams,Turnover,36,29
+5:37,UCLA,Jaylen Hands,Turnover,36,29
+5:35,North Carolina,Brandon Robinson,Steal,36,29
+5:29,North Carolina,Coby White,Dunk,36,31
+5:12,UCLA,Kris Wilkes,Missed Three Point Jumper,36,31
+5:12,UCLA,Prince Ali,Offensive Rebound,36,31
+4:49,UCLA,Prince Ali,Three Point Jumper,39,31
+4:31,North Carolina,Luke Maye,Missed Jumper,39,31
+4:31,North Carolina,None,Team Rebound,39,31
+4:30,North Carolina,Garrison Brooks,Foul,39,31
+4:30,UCLA,Cody Riley,Missed Free Throw,39,31
+4:30,North Carolina,Nassir Little,Defensive Rebound,39,31
+4:23,North Carolina,Leaky Black,Three Point Jumper,39,34
+4:03,North Carolina,Coby White,Foul,39,34
+4:03,UCLA,Chris Smith,Free Throw,40,34
+4:03,UCLA,Chris Smith,Free Throw,41,34
+3:45,UCLA,Cody Riley,Foul,41,34
+3:44,North Carolina,None,None,41,34
+3:44,North Carolina,Coby White,Missed Free Throw,41,34
+3:44,North Carolina,None,Team Rebound,41,34
+3:44,North Carolina,Coby White,Missed Free Throw,41,34
+3:44,UCLA,Cody Riley,Defensive Rebound,41,34
+3:31,UCLA,Cody Riley,Missed Layup,41,34
+3:31,UCLA,Cody Riley,Offensive Rebound,41,34
+3:29,North Carolina,Nassir Little,Foul,41,34
+3:29,UCLA,Cody Riley,Free Throw,42,34
+3:29,UCLA,Cody Riley,Free Throw,43,34
+3:18,UCLA,Kris Wilkes,Foul,43,34
+3:09,North Carolina,Luke Maye,Missed Jumper,43,34
+3:09,North Carolina,Brandon Robinson,Offensive Rebound,43,34
+3:05,North Carolina,Brandon Robinson,Layup,43,36
+2:52,UCLA,Kris Wilkes,Layup,45,36
+2:45,North Carolina,Nassir Little,Dunk,45,38
+2:38,UCLA,Jaylen Hands,Foul,45,38
+2:38,UCLA,Jaylen Hands,Turnover,45,38
+2:25,North Carolina,Nassir Little,Missed Jumper,45,38
+2:25,UCLA,Cody Riley,Defensive Rebound,45,38
+2:18,UCLA,Chris Smith,Missed Three Point Jumper,45,38
+2:18,North Carolina,Nassir Little,Defensive Rebound,45,38
+2:01,North Carolina,Cameron Johnson,Missed Layup,45,38
+2:01,UCLA,Cody Riley,Defensive Rebound,45,38
+1:42,UCLA,None,None,45,38
+1:35,North Carolina,Leaky Black,Foul,45,38
+1:35,UCLA,Cody Riley,Free Throw,46,38
+1:35,UCLA,Cody Riley,Missed Free Throw,46,38
+1:35,North Carolina,Cameron Johnson,Defensive Rebound,46,38
+1:05,North Carolina,Kenny Williams,Missed Three Point Jumper,46,38
+1:05,UCLA,Kris Wilkes,Defensive Rebound,46,38
+0:34,UCLA,Jaylen Hands,Missed Jumper,46,38
+0:34,North Carolina,Cameron Johnson,Defensive Rebound,46,38
+0:05,North Carolina,Cameron Johnson,Three Point Jumper,46,41
+0:00,North Carolina,None,None,46,41
+19:43,UCLA,Moses Brown,Missed Dunk,46,41
+19:43,North Carolina,Cameron Johnson,Defensive Rebound,46,41
+19:37,North Carolina,Garrison Brooks,Missed Layup,46,41
+19:37,UCLA,Jalen Hill,Block,46,41
+19:35,UCLA,Prince Ali,Defensive Rebound,46,41
+19:30,UCLA,Jaylen Hands,Missed Jumper,46,41
+19:30,UCLA,Moses Brown,Offensive Rebound,46,41
+19:26,UCLA,Moses Brown,Missed Layup,46,41
+19:26,North Carolina,Garrison Brooks,Block,46,41
+19:24,North Carolina,North Carolina,Defensive Rebound,46,41
+19:08,North Carolina,Cameron Johnson,Three Point Jumper,46,44
+18:48,UCLA,Moses Brown,Layup,48,44
+18:39,North Carolina,Cameron Johnson,Layup,48,46
+18:18,UCLA,Jaylen Hands,Turnover,48,46
+18:17,North Carolina,Cameron Johnson,Steal,48,46
+18:14,North Carolina,Cameron Johnson,Layup,48,48
+18:07,UCLA,None,None,48,48
+18:07,North Carolina,None,None,48,48
+17:49,UCLA,Kris Wilkes,Three Point Jumper,51,48
+17:29,UCLA,Moses Brown,Foul,51,48
+17:20,North Carolina,Cameron Johnson,Layup,51,50
+16:54,UCLA,Prince Ali,Missed Three Point Jumper,51,50
+16:54,North Carolina,Coby White,Defensive Rebound,51,50
+16:41,North Carolina,Coby White,Missed Three Point Jumper,51,50
+16:41,North Carolina,Luke Maye,Offensive Rebound,51,50
+16:37,North Carolina,Luke Maye,Jumper,51,52
+16:22,North Carolina,Coby White,Foul,51,52
+16:21,UCLA,Jaylen Hands,Three Point Jumper,54,52
+15:58,North Carolina,Luke Maye,Three Point Jumper,54,55
+15:40,UCLA,Jaylen Hands,Missed Layup,54,55
+15:40,North Carolina,Leaky Black,Block,54,55
+15:38,North Carolina,Leaky Black,Defensive Rebound,54,55
+15:34,North Carolina,Kenny Williams,Layup,54,57
+15:05,UCLA,Jaylen Hands,Three Point Jumper,57,57
+14:54,North Carolina,Luke Maye,Missed Three Point Jumper,57,57
+14:54,North Carolina,None,Team Rebound,57,57
+14:51,North Carolina,Leaky Black,Foul,57,57
+14:51,North Carolina,None,None,57,57
+14:40,North Carolina,Garrison Brooks,Foul,57,57
+14:40,UCLA,Cody Riley,Free Throw,58,57
+14:40,UCLA,Cody Riley,Free Throw,59,57
+14:21,North Carolina,Leaky Black,Missed Jumper,59,57
+14:21,UCLA,Chris Smith,Defensive Rebound,59,57
+13:57,UCLA,Jaylen Hands,Turnover,59,57
+13:57,North Carolina,Brandon Robinson,Steal,59,57
+13:37,North Carolina,Luke Maye,Three Point Jumper,59,60
+13:18,UCLA,Jaylen Hands,Three Point Jumper,62,60
+13:11,UCLA,Kris Wilkes,Foul,62,60
+13:00,UCLA,Jaylen Hands,Foul,62,60
+12:51,UCLA,Chris Smith,Foul,62,60
+12:51,North Carolina,Nassir Little,Missed Free Throw,62,60
+12:51,North Carolina,None,Team Rebound,62,60
+12:51,North Carolina,Nassir Little,Free Throw,62,61
+12:22,UCLA,Jules Bernard,Missed Layup,62,61
+12:22,UCLA,Jalen Hill,Offensive Rebound,62,61
+12:20,UCLA,UCLA ,Turnover,62,61
+12:01,North Carolina,Nassir Little,Dunk,62,63
+11:58,North Carolina,None,None,62,63
+11:32,UCLA,Jaylen Hands,Missed Three Point Jumper,62,63
+11:32,UCLA,Moses Brown,Offensive Rebound,62,63
+11:28,UCLA,Moses Brown,Missed Jumper,62,63
+11:28,North Carolina,Kenny Williams,Defensive Rebound,62,63
+11:18,UCLA,Moses Brown,Foul,62,63
+11:01,North Carolina,Nassir Little,Jumper,62,65
+10:35,UCLA,Cody Riley,Missed Layup,62,65
+10:35,North Carolina,Kenny Williams,Defensive Rebound,62,65
+10:25,North Carolina,Nassir Little,Missed Three Point Jumper,62,65
+10:25,UCLA,Jules Bernard,Defensive Rebound,62,65
+10:15,UCLA,Jules Bernard,Foul,62,65
+10:15,UCLA,Jules Bernard,Turnover,62,65
+10:00,UCLA,Cody Riley,Foul,62,65
+10:00,North Carolina,Luke Maye,Free Throw,62,66
+10:00,North Carolina,Luke Maye,Missed Free Throw,62,66
+10:00,North Carolina,Cameron Johnson,Offensive Rebound,62,66
+9:56,North Carolina,Coby White,Three Point Jumper,62,69
+9:44,UCLA,None,None,62,69
+9:35,UCLA,Prince Ali,Turnover,62,69
+9:34,North Carolina,Luke Maye,Steal,62,69
+9:32,UCLA,Prince Ali,Foul,62,69
+9:32,North Carolina,Kenny Williams,Free Throw,62,70
+9:32,North Carolina,Kenny Williams,Free Throw,62,71
+9:20,UCLA,Cody Riley,Layup,64,71
+9:12,North Carolina,Coby White,Missed Three Point Jumper,64,71
+9:12,North Carolina,Kenny Williams,Offensive Rebound,64,71
+9:01,North Carolina,Kenny Williams,Three Point Jumper,64,74
+8:45,UCLA,Jaylen Hands,Missed Three Point Jumper,64,74
+8:45,North Carolina,Kenny Williams,Defensive Rebound,64,74
+8:36,North Carolina,Nassir Little,Missed Layup,64,74
+8:36,UCLA,Cody Riley,Block,64,74
+8:34,North Carolina,Nassir Little,Offensive Rebound,64,74
+8:34,UCLA,Cody Riley,Foul,64,74
+8:34,North Carolina,Nassir Little,Free Throw,64,75
+8:34,North Carolina,Nassir Little,Free Throw,64,76
+8:21,UCLA,Kris Wilkes,Missed Layup,64,76
+8:21,UCLA,Kris Wilkes,Offensive Rebound,64,76
+8:08,North Carolina,Luke Maye,Foul,67,76
+8:08,UCLA,Kris Wilkes,Three Point Jumper,67,76
+8:08,UCLA,Kris Wilkes,Missed Free Throw,67,76
+8:08,North Carolina,Luke Maye,Defensive Rebound,67,76
+7:57,North Carolina,Cameron Johnson,Turnover,67,76
+7:56,UCLA,Jaylen Hands,Steal,67,76
+7:54,UCLA,Jaylen Hands,Missed Layup,67,76
+7:54,UCLA,Kris Wilkes,Offensive Rebound,67,76
+7:50,UCLA,Kris Wilkes,Layup,69,76
+7:40,UCLA,Moses Brown,Foul,69,76
+7:40,North Carolina,None,None,69,76
+7:40,North Carolina,Garrison Brooks,Free Throw,69,77
+7:40,North Carolina,Garrison Brooks,Free Throw,69,78
+7:24,North Carolina,Garrison Brooks,Foul,69,78
+7:11,UCLA,Jaylen Hands,Jumper,71,78
+7:11,North Carolina,Coby White,Foul,71,78
+7:11,UCLA,Jaylen Hands,Missed Free Throw,71,78
+7:11,North Carolina,Luke Maye,Defensive Rebound,71,78
+6:53,North Carolina,Kenny Williams,Missed Three Point Jumper,71,78
+6:53,UCLA,Jaylen Hands,Defensive Rebound,71,78
+6:41,UCLA,Cody Riley,Missed Layup,71,78
+6:41,North Carolina,Luke Maye,Defensive Rebound,71,78
+6:22,North Carolina,Nassir Little,Layup,71,80
+5:58,UCLA,Prince Ali,Missed Jumper,71,80
+5:58,North Carolina,Luke Maye,Defensive Rebound,71,80
+5:40,North Carolina,Cameron Johnson,Missed Jumper,71,80
+5:40,UCLA,Cody Riley,Defensive Rebound,71,80
+5:28,UCLA,Jaylen Hands,Missed Three Point Jumper,71,80
+5:28,UCLA,UCLA,Offensive Rebound,71,80
+5:21,UCLA,Chris Smith,Turnover,71,80
+5:09,North Carolina,Luke Maye,Missed Three Point Jumper,71,80
+5:09,UCLA,UCLA,Defensive Rebound,71,80
+4:40,UCLA,Chris Smith,Missed Three Point Jumper,71,80
+4:40,North Carolina,Cameron Johnson,Defensive Rebound,71,80
+4:29,UCLA,Chris Smith,Foul,71,80
+4:29,North Carolina,Nassir Little,Missed Free Throw,71,80
+4:29,North Carolina,None,Team Rebound,71,80
+4:29,North Carolina,Nassir Little,Free Throw,71,81
+4:14,UCLA,Kris Wilkes,Layup,73,81
+4:05,UCLA,Cody Riley,Foul,73,81
+4:05,North Carolina,Luke Maye,Free Throw,73,82
+4:05,North Carolina,Luke Maye,Free Throw,73,83
+3:47,UCLA,Chris Smith,Missed Jumper,73,83
+3:47,North Carolina,Nassir Little,Defensive Rebound,73,83
+3:40,North Carolina,Cameron Johnson,Layup,73,85
+3:31,UCLA,Jaylen Hands,Missed Layup,73,85
+3:31,North Carolina,Luke Maye,Defensive Rebound,73,85
+3:24,North Carolina,Nassir Little,Missed Layup,73,85
+3:24,UCLA,Kris Wilkes,Block,73,85
+3:22,North Carolina,Cameron Johnson,Offensive Rebound,73,85
+3:19,North Carolina,Leaky Black,Layup,73,87
+3:19,North Carolina,None,None,73,87
+2:54,UCLA,Chris Smith,Missed Layup,73,87
+2:54,UCLA,Jalen Hill,Offensive Rebound,73,87
+2:50,UCLA,Jalen Hill,Dunk,75,87
+2:36,UCLA,Prince Ali,Foul,75,87
+2:36,North Carolina,Luke Maye,Free Throw,75,88
+2:36,North Carolina,Luke Maye,Missed Free Throw,75,88
+2:36,UCLA,Chris Smith,Defensive Rebound,75,88
+2:24,North Carolina,Luke Maye,Foul,75,88
+2:24,UCLA,Jalen Hill,Missed Free Throw,75,88
+2:24,UCLA,None,Team Rebound,75,88
+2:24,UCLA,Jalen Hill,Missed Free Throw,75,88
+2:24,North Carolina,Cameron Johnson,Defensive Rebound,75,88
+1:54,North Carolina,Coby White,Missed Dunk,75,88
+1:54,UCLA,Jalen Hill,Block,75,88
+1:54,North Carolina,North Carolina,Offensive Rebound,75,88
+1:52,North Carolina,Nassir Little,Missed Layup,75,88
+1:52,UCLA,Jules Bernard,Defensive Rebound,75,88
+1:43,North Carolina,Luke Maye,Foul,75,88
+1:43,UCLA,Jaylen Hands,Missed Free Throw,75,88
+1:43,UCLA,None,Team Rebound,75,88
+1:43,UCLA,Jaylen Hands,Free Throw,76,88
+1:13,North Carolina,Cameron Johnson,Missed Jumper,76,88
+1:13,UCLA,Jules Bernard,Defensive Rebound,76,88
+1:07,UCLA,Jules Bernard,Layup,78,88
+0:55,UCLA,Jules Bernard,Foul,78,88
+0:55,North Carolina,Coby White,Free Throw,78,89
+0:55,North Carolina,Coby White,Missed Free Throw,78,89
+0:55,UCLA,Cody Riley,Defensive Rebound,78,89
+0:48,North Carolina,Leaky Black,Foul,78,89
+0:48,UCLA,Jaylen Hands,Missed Free Throw,78,89
+0:48,North Carolina,North Carolina,Defensive Rebound,78,89
+0:34,North Carolina,None,None,78,89
+0:31,UCLA,Kris Wilkes,Foul,78,89
+0:31,North Carolina,K.J. Smith,Free Throw,78,90
+0:31,North Carolina,K.J. Smith,Free Throw,78,91
+0:27,UCLA,Jaylen Hands,Missed Layup,78,91
+0:27,North Carolina,Brandon Huffman,Defensive Rebound,78,91
+0:18,North Carolina,K.J. Smith,Layup,78,93
+0:18,UCLA,Jules Bernard,Foul,78,93
+0:18,North Carolina,K.J. Smith,Free Throw,78,94
+0:00,North Carolina,None,None,78,94

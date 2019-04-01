@@ -1,0 +1,276 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Lipscomb,None,None,0,0
+19:44,Liberty,Lovell Cabbil Jr.,Foul,0,0
+19:44,Lipscomb,Garrison Mathews,Missed Free Throw,0,0
+19:44,Lipscomb,None,Team Rebound,0,0
+19:44,Lipscomb,Garrison Mathews,Free Throw,0,1
+19:24,Liberty,Lovell Cabbil Jr.,Missed Layup,0,1
+19:24,Lipscomb,Michael Buckland,Block,0,1
+19:24,Liberty,Scottie James,Offensive Rebound,0,1
+19:13,Liberty,None,None,0,1
+19:13,Liberty,Liberty ,Turnover,0,1
+18:51,Lipscomb,Michael Buckland,Missed Three Point Jumper,0,1
+18:51,Liberty,Scottie James,Defensive Rebound,0,1
+18:28,Liberty,Scottie James,Layup,2,1
+18:17,Liberty,Caleb Homesley,Foul,2,1
+18:06,Lipscomb,Garrison Mathews,Missed Three Point Jumper,2,1
+18:06,Liberty,Liberty,Defensive Rebound,2,1
+17:44,Liberty,Keenan Gumbs,Missed Layup,2,1
+17:44,Lipscomb,Rob Marberry,Defensive Rebound,2,1
+17:29,Lipscomb,Eli Pepper,Layup,2,3
+17:13,Liberty,Scottie James,Layup,4,3
+17:13,Lipscomb,Michael Buckland,Foul,4,3
+17:13,Liberty,Scottie James,Free Throw,5,3
+17:01,Lipscomb,Rob Marberry,Layup,5,5
+16:31,Liberty,Scottie James,Layup,7,5
+16:20,Lipscomb,Kenny Cooper,Missed Three Point Jumper,7,5
+16:20,Liberty,Scottie James,Defensive Rebound,7,5
+15:53,Liberty,Darius McGhee,Missed Three Point Jumper,7,5
+15:53,Lipscomb,Kenny Cooper,Defensive Rebound,7,5
+15:27,Lipscomb,Michael Buckland,Missed Jumper,7,5
+15:27,Liberty,Darius McGhee,Defensive Rebound,7,5
+15:08,Liberty,Elijah Cuffee,Foul,7,5
+15:08,Liberty,Elijah Cuffee,Turnover,7,5
+15:08,Lipscomb,None,None,7,5
+14:56,Lipscomb,Garrison Mathews,Three Point Jumper,7,8
+14:25,Liberty,Caleb Homesley,Missed Three Point Jumper,7,8
+14:25,Lipscomb,Kenny Cooper,Defensive Rebound,7,8
+14:09,Lipscomb,Ahsan Asadullah,Jumper,7,10
+13:47,Liberty,Myo Baxter-Bell,Layup,9,10
+13:36,Lipscomb,Kenny Cooper,Missed Jumper,9,10
+13:36,Lipscomb,Ahsan Asadullah,Offensive Rebound,9,10
+13:36,Lipscomb,None,None,9,10
+13:36,Lipscomb,Ahsan Asadullah,Offensive Rebound,9,10
+13:36,Lipscomb,None,None,9,10
+13:36,Lipscomb,Ahsan Asadullah,Offensive Rebound,9,10
+13:36,Lipscomb,None,None,9,12
+13:12,Liberty,Myo Baxter-Bell,Missed Jumper,9,12
+13:12,Lipscomb,Ahsan Asadullah,Block,9,12
+13:12,Liberty,Caleb Homesley,Offensive Rebound,9,12
+13:05,Liberty,Lovell Cabbil Jr.,Missed Three Point Jumper,9,12
+13:05,Lipscomb,Ahsan Asadullah,Defensive Rebound,9,12
+12:40,Liberty,Keenan Gumbs,Foul,9,12
+12:33,Lipscomb,Garrison Mathews,Missed Jumper,9,12
+12:33,Liberty,Lovell Cabbil Jr.,Defensive Rebound,9,12
+12:27,Liberty,Georgie Pacheco-Ortiz,Missed Three Point Jumper,9,12
+12:27,Lipscomb,Ahsan Asadullah,Defensive Rebound,9,12
+12:17,Lipscomb,Ahsan Asadullah,Missed Layup,9,12
+12:17,Liberty,Scottie James,Block,9,12
+12:17,Lipscomb,Ahsan Asadullah,Offensive Rebound,9,12
+12:08,Lipscomb,Nathan Moran,Missed Three Point Jumper,9,12
+12:08,Liberty,Scottie James,Defensive Rebound,9,12
+11:48,Lipscomb,Ahsan Asadullah,Foul,9,12
+11:48,Lipscomb,None,None,9,12
+11:46,Liberty,Georgie Pacheco-Ortiz,Jumper,11,12
+11:26,Lipscomb,Nathan Moran,Missed Three Point Jumper,11,12
+11:26,Liberty,Caleb Homesley,Defensive Rebound,11,12
+11:26,Lipscomb,Jake Wolfe,Foul,11,12
+11:09,Liberty,Elijah Cuffee,Missed Three Point Jumper,11,12
+11:09,Lipscomb,Michael Buckland,Defensive Rebound,11,12
+10:57,Lipscomb,Eli Pepper,Dunk,11,14
+10:37,Liberty,Georgie Pacheco-Ortiz,Missed Three Point Jumper,11,14
+10:37,Lipscomb,Rob Marberry,Defensive Rebound,11,14
+10:17,Lipscomb,Rob Marberry,Layup,11,16
+10:02,Liberty,Caleb Homesley,Missed Jumper,11,16
+10:02,Lipscomb,Jake Wolfe,Defensive Rebound,11,16
+9:44,Lipscomb,Eli Pepper,Missed Three Point Jumper,11,16
+9:44,Liberty,Scottie James,Defensive Rebound,11,16
+9:19,Liberty,Georgie Pacheco-Ortiz,Jumper,13,16
+8:52,Lipscomb,Rob Marberry,Jumper,13,18
+8:27,Liberty,Elijah Cuffee,Missed Three Point Jumper,13,18
+8:27,Liberty,Elijah Cuffee,Offensive Rebound,13,18
+8:16,Lipscomb,Michael Buckland,Foul,13,18
+8:05,Liberty,Keenan Gumbs,Three Point Jumper,16,18
+7:48,Lipscomb,Garrison Mathews,Missed Three Point Jumper,16,18
+7:48,Liberty,Keenan Gumbs,Defensive Rebound,16,18
+7:26,Liberty,Myo Baxter-Bell,Turnover,16,18
+7:13,Lipscomb,Kenny Cooper,Missed Jumper,16,18
+7:13,Lipscomb,Kenny Cooper,Offensive Rebound,16,18
+7:13,Liberty,Myo Baxter-Bell,Foul,16,18
+7:13,Lipscomb,None,None,16,18
+7:13,Lipscomb,Kenny Cooper,Free Throw,16,19
+7:13,Lipscomb,Kenny Cooper,Missed Free Throw,16,19
+7:13,Liberty,Caleb Homesley,Defensive Rebound,16,19
+6:48,Liberty,Caleb Homesley,Missed Jumper,16,19
+6:48,Lipscomb,Kenny Cooper,Defensive Rebound,16,19
+6:40,Liberty,Keenan Gumbs,Foul,16,19
+6:37,Lipscomb,Kenny Cooper,Layup,16,21
+6:20,Liberty,Elijah Cuffee,Missed Three Point Jumper,16,21
+6:20,Lipscomb,Andrew Fleming,Defensive Rebound,16,21
+6:08,Lipscomb,Kenny Cooper,Three Point Jumper,16,24
+5:50,Liberty,Darius McGhee,Jumper,18,24
+5:41,Lipscomb,Kenny Cooper,Layup,18,26
+5:21,Liberty,Caleb Homesley,Layup,20,26
+5:13,Lipscomb,Garrison Mathews,Missed Layup,20,26
+5:13,Lipscomb,Ahsan Asadullah,Offensive Rebound,20,26
+5:13,Lipscomb,None,None,20,26
+5:13,Liberty,Darius McGhee,Defensive Rebound,20,26
+4:58,Liberty,Caleb Homesley,Turnover,20,26
+4:58,Lipscomb,Ahsan Asadullah,Steal,20,26
+4:53,Lipscomb,Ahsan Asadullah,Layup,20,28
+4:34,Liberty,Lovell Cabbil Jr.,Turnover,20,28
+4:34,Lipscomb,Eli Pepper,Steal,20,28
+4:31,Lipscomb,Eli Pepper,Missed Layup,20,28
+4:31,Liberty,Caleb Homesley,Defensive Rebound,20,28
+4:24,Liberty,Darius McGhee,Missed Three Point Jumper,20,28
+4:24,Lipscomb,Garrison Mathews,Defensive Rebound,20,28
+4:14,Lipscomb,Andrew Fleming,Missed Three Point Jumper,20,28
+4:14,Liberty,Lovell Cabbil Jr.,Defensive Rebound,20,28
+3:52,Liberty,Lovell Cabbil Jr.,Turnover,20,28
+3:52,Lipscomb,Ahsan Asadullah,Steal,20,28
+3:45,Lipscomb,Kenny Cooper,Missed Layup,20,28
+3:45,Liberty,Darius McGhee,Block,20,28
+3:45,Liberty,Caleb Homesley,Defensive Rebound,20,28
+3:29,Liberty,Elijah Cuffee,Layup,22,28
+3:15,Lipscomb,Eli Pepper,Foul,22,28
+3:15,Lipscomb,Eli Pepper,Turnover,22,28
+3:15,Lipscomb,None,None,22,28
+2:54,Liberty,Scottie James,Missed Layup,22,28
+2:54,Liberty,Keenan Gumbs,Offensive Rebound,22,28
+2:54,Lipscomb,Rob Marberry,Foul,22,28
+2:54,Liberty,Keenan Gumbs,Free Throw,23,28
+2:54,Liberty,Keenan Gumbs,Missed Free Throw,23,28
+2:54,Lipscomb,Eli Pepper,Defensive Rebound,23,28
+2:38,Lipscomb,Michael Buckland,Turnover,23,28
+2:22,Liberty,Lovell Cabbil Jr.,Jumper,25,28
+2:07,Lipscomb,Rob Marberry,Missed Layup,25,28
+2:07,Liberty,Lovell Cabbil Jr.,Defensive Rebound,25,28
+1:38,Lipscomb,Kenny Cooper,Foul,25,28
+1:38,Liberty,Georgie Pacheco-Ortiz,Free Throw,26,28
+1:38,Liberty,Georgie Pacheco-Ortiz,Free Throw,27,28
+1:24,Lipscomb,Rob Marberry,Missed Layup,27,28
+1:24,Liberty,Caleb Homesley,Defensive Rebound,27,28
+0:53,Liberty,Georgie Pacheco-Ortiz,Missed Jumper,27,28
+0:53,Lipscomb,Matt Rose,Defensive Rebound,27,28
+0:26,Lipscomb,Rob Marberry,Missed Jumper,27,28
+0:26,Liberty,Elijah Cuffee,Defensive Rebound,27,28
+0:01,Liberty,Lovell Cabbil Jr.,Layup,29,28
+0:00,Lipscomb,None,None,29,28
+20:00,Lipscomb,None,None,29,28
+19:53,Lipscomb,Rob Marberry,Layup,29,30
+19:27,Liberty,Scottie James,Missed Layup,29,30
+19:27,Lipscomb,Michael Buckland,Defensive Rebound,29,30
+19:19,Lipscomb,Kenny Cooper,Layup,29,32
+18:54,Liberty,Lovell Cabbil Jr.,Jumper,31,32
+18:30,Lipscomb,Rob Marberry,Foul,31,32
+18:30,Lipscomb,Rob Marberry,Turnover,31,32
+18:04,Liberty,Georgie Pacheco-Ortiz,Layup,33,32
+17:44,Lipscomb,Garrison Mathews,Three Point Jumper,33,35
+17:17,Liberty,Georgie Pacheco-Ortiz,Three Point Jumper,36,35
+16:51,Lipscomb,Rob Marberry,Jumper,36,37
+16:23,Liberty,Elijah Cuffee,Three Point Jumper,39,37
+16:15,Liberty,Caleb Homesley,Foul,39,37
+16:08,Lipscomb,Rob Marberry,Layup,39,39
+15:44,Liberty,Lovell Cabbil Jr.,Layup,41,39
+15:20,Lipscomb,Garrison Mathews,Jumper,41,41
+14:49,Liberty,Lovell Cabbil Jr.,Missed Jumper,41,41
+14:49,Lipscomb,Garrison Mathews,Defensive Rebound,41,41
+14:39,Lipscomb,Garrison Mathews,Foul,41,41
+14:39,Lipscomb,Garrison Mathews,Turnover,41,41
+14:39,Lipscomb,None,None,41,41
+14:25,Liberty,Elijah Cuffee,Layup,43,41
+14:25,Lipscomb,Ahsan Asadullah,Foul,43,41
+14:25,Liberty,Elijah Cuffee,Free Throw,44,41
+14:07,Lipscomb,Matt Rose,Missed Three Point Jumper,44,41
+14:07,Liberty,Elijah Cuffee,Defensive Rebound,44,41
+13:50,Liberty,Darius McGhee,Missed Three Point Jumper,44,41
+13:50,Lipscomb,Ahsan Asadullah,Defensive Rebound,44,41
+13:33,Liberty,Keenan Gumbs,Foul,44,41
+13:31,Lipscomb,Nathan Moran,Missed Three Point Jumper,44,41
+13:31,Liberty,Georgie Pacheco-Ortiz,Defensive Rebound,44,41
+13:17,Liberty,Myo Baxter-Bell,Missed Layup,44,41
+13:17,Lipscomb,Matt Rose,Defensive Rebound,44,41
+12:59,Lipscomb,Ahsan Asadullah,Layup,44,43
+12:37,Liberty,Caleb Homesley,Missed Jumper,44,43
+12:37,Lipscomb,Ahsan Asadullah,Defensive Rebound,44,43
+12:25,Liberty,Elijah Cuffee,Foul,44,43
+12:25,Lipscomb,Garrison Mathews,Free Throw,44,44
+12:25,Lipscomb,Garrison Mathews,Free Throw,44,45
+12:02,Liberty,Caleb Homesley,Layup,46,45
+11:58,Lipscomb,Kenny Cooper,Turnover,46,45
+11:58,Liberty,Lovell Cabbil Jr.,Steal,46,45
+11:53,Liberty,Scottie James,Missed Layup,46,45
+11:53,Liberty,Lovell Cabbil Jr.,Offensive Rebound,46,45
+11:43,Liberty,Lovell Cabbil Jr.,Missed Jumper,46,45
+11:43,Liberty,Scottie James,Offensive Rebound,46,45
+11:43,Lipscomb,Eli Pepper,Foul,46,45
+11:43,Lipscomb,None,None,46,45
+11:30,Liberty,Caleb Homesley,Three Point Jumper,49,45
+11:14,Lipscomb,Ahsan Asadullah,Turnover,49,45
+10:45,Liberty,None,None,49,45
+10:38,Liberty,Darius McGhee,Missed Three Point Jumper,49,45
+10:38,Lipscomb,Eli Pepper,Defensive Rebound,49,45
+10:28,Lipscomb,Garrison Mathews,Three Point Jumper,49,48
+9:56,Liberty,Caleb Homesley,Missed Three Point Jumper,49,48
+9:56,Lipscomb,Michael Buckland,Defensive Rebound,49,48
+9:51,Lipscomb,Kenny Cooper,Layup,49,50
+9:25,Liberty,Lovell Cabbil Jr.,Three Point Jumper,52,50
+9:23,Liberty,None,None,52,50
+8:54,Lipscomb,Michael Buckland,Three Point Jumper,52,53
+8:26,Liberty,Georgie Pacheco-Ortiz,Jumper,54,53
+7:59,Lipscomb,Garrison Mathews,Turnover,54,53
+7:59,Lipscomb,None,None,54,53
+7:36,Liberty,Lovell Cabbil Jr.,Missed Layup,54,53
+7:36,Lipscomb,Rob Marberry,Block,54,53
+7:36,Lipscomb,Michael Buckland,Defensive Rebound,54,53
+7:23,Liberty,Elijah Cuffee,Foul,54,53
+7:23,Lipscomb,Garrison Mathews,Free Throw,54,54
+7:23,Lipscomb,Garrison Mathews,Free Throw,54,55
+7:12,Liberty,Scottie James,Layup,56,55
+6:58,Lipscomb,Garrison Mathews,Turnover,56,55
+6:34,Liberty,Scottie James,Layup,58,55
+6:26,Liberty,Elijah Cuffee,Foul,58,55
+6:18,Lipscomb,Garrison Mathews,Missed Three Point Jumper,58,55
+6:18,Liberty,Liberty,Defensive Rebound,58,55
+5:51,Liberty,Caleb Homesley,Missed Three Point Jumper,58,55
+5:51,Lipscomb,Eli Pepper,Defensive Rebound,58,55
+5:31,Lipscomb,Rob Marberry,Layup,58,57
+4:54,Liberty,Lovell Cabbil Jr.,Three Point Jumper,61,57
+4:41,Lipscomb,Garrison Mathews,Missed Layup,61,57
+4:41,Liberty,Darius McGhee,Defensive Rebound,61,57
+4:24,Liberty,Scottie James,Foul,61,57
+4:24,Liberty,Scottie James,Turnover,61,57
+4:14,Lipscomb,Kenny Cooper,Jumper,61,59
+3:58,Lipscomb,Eli Pepper,Foul,61,59
+3:58,Lipscomb,None,None,61,59
+3:44,Lipscomb,Eli Pepper,Foul,61,59
+3:44,Liberty,Caleb Homesley,Free Throw,62,59
+3:44,Liberty,Caleb Homesley,Free Throw,63,59
+3:31,Lipscomb,Garrison Mathews,Three Point Jumper,63,62
+3:29,Lipscomb,None,None,63,62
+3:01,Liberty,Georgie Pacheco-Ortiz,Missed Three Point Jumper,63,62
+3:01,Lipscomb,Garrison Mathews,Defensive Rebound,63,62
+2:42,Lipscomb,Rob Marberry,Layup,63,64
+2:24,Liberty,Georgie Pacheco-Ortiz,Missed Layup,63,64
+2:24,Liberty,Scottie James,Offensive Rebound,63,64
+2:16,Liberty,Scottie James,Layup,65,64
+2:08,Lipscomb,Kenny Cooper,Foul,65,64
+2:08,Lipscomb,Kenny Cooper,Turnover,65,64
+1:39,Liberty,Lovell Cabbil Jr.,Missed Jumper,65,64
+1:39,Lipscomb,Garrison Mathews,Defensive Rebound,65,64
+1:31,Liberty,Caleb Homesley,Foul,65,64
+1:31,Lipscomb,Garrison Mathews,Free Throw,65,65
+1:31,Lipscomb,Garrison Mathews,Free Throw,65,66
+1:30,Liberty,Georgie Pacheco-Ortiz,Turnover,65,66
+1:16,Lipscomb,Garrison Mathews,Turnover,65,66
+1:16,Liberty,Caleb Homesley,Steal,65,66
+0:57,Liberty,Scottie James,Layup,67,66
+0:44,Lipscomb,Rob Marberry,Missed Layup,67,66
+0:44,Lipscomb,Lipscomb,Offensive Rebound,67,66
+0:41,Lipscomb,Rob Marberry,Missed Jumper,67,66
+0:41,Liberty,Georgie Pacheco-Ortiz,Defensive Rebound,67,66
+0:21,Liberty,None,None,67,66
+0:14,Liberty,Georgie Pacheco-Ortiz,Three Point Jumper,70,66
+0:09,Lipscomb,Rob Marberry,Layup,70,68
+0:09,Liberty,Lovell Cabbil Jr.,Foul,70,68
+0:09,Lipscomb,Rob Marberry,Missed Free Throw,70,68
+0:09,Liberty,Scottie James,Defensive Rebound,70,68
+0:08,Lipscomb,Rob Marberry,Foul,70,68
+0:08,Liberty,Scottie James,Free Throw,71,68
+0:08,Liberty,Scottie James,Free Throw,72,68
+0:01,Lipscomb,Garrison Mathews,Missed Three Point Jumper,72,68
+0:01,Liberty,Caleb Homesley,Defensive Rebound,72,68
+0:01,Lipscomb,Matt Rose,Foul,72,68
+0:01,Liberty,Caleb Homesley,Free Throw,73,68
+0:01,Liberty,Caleb Homesley,Free Throw,74,68
+0:00,Lipscomb,None,None,74,68

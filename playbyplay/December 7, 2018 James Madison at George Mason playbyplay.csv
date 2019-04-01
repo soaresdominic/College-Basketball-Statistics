@@ -1,0 +1,357 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,George Mason,Justin Kier,Missed Layup,0,0
+19:44,James Madison,Dwight Wilson,Defensive Rebound,0,0
+19:25,James Madison,Matt Lewis,Three Point Jumper,3,0
+18:58,George Mason,Jarred Reuter,Jumper,3,2
+18:28,James Madison,Stuckey Mosley,Missed Three Point Jumper,3,2
+18:28,George Mason,Javon Greene,Defensive Rebound,3,2
+18:19,George Mason,Goanar Mar,Missed Three Point Jumper,3,2
+18:19,James Madison,Zach Jacobs,Defensive Rebound,3,2
+18:01,James Madison,Stuckey Mosley,Jumper,5,2
+17:39,James Madison,Dwight Wilson,Foul,5,2
+17:18,George Mason,Jarred Reuter,Missed Jumper,5,2
+17:18,James Madison,Dwight Wilson,Block,5,2
+17:18,George Mason,None,Team Rebound,5,2
+17:18,George Mason,George Mason ,Turnover,5,2
+16:52,James Madison,Dwight Wilson,Jumper,7,2
+16:41,James Madison,Darius Banks,Foul,7,2
+16:28,George Mason,Javon Greene,Three Point Jumper,7,5
+16:13,James Madison,Matt Lewis,Missed Jumper,7,5
+16:13,George Mason,Jarred Reuter,Defensive Rebound,7,5
+16:04,George Mason,Otis Livingston II,Three Point Jumper,7,8
+15:42,James Madison,Darius Banks,Turnover,7,8
+15:41,George Mason,Justin Kier,Steal,7,8
+15:37,George Mason,Justin Kier,Layup,7,10
+15:37,James Madison,None,None,7,10
+15:23,James Madison,Dwight Wilson,Foul,7,10
+15:23,James Madison,Dwight Wilson,Turnover,7,10
+15:05,George Mason,Otis Livingston II,Turnover,7,10
+14:41,James Madison,Matt Lewis,Three Point Jumper,10,10
+14:25,George Mason,Otis Livingston II,Missed Three Point Jumper,10,10
+14:25,James Madison,Zach Jacobs,Defensive Rebound,10,10
+14:13,George Mason,AJ Wilson,Foul,10,10
+14:13,James Madison,Stuckey Mosley,Free Throw,11,10
+14:13,James Madison,Stuckey Mosley,Free Throw,12,10
+14:00,George Mason,AJ Wilson,Missed Jumper,12,10
+14:00,James Madison,Zach Jacobs,Block,12,10
+13:59,James Madison,Zach Jacobs,Defensive Rebound,12,10
+13:51,James Madison,Matt Lewis,Three Point Jumper,15,10
+13:35,James Madison,Develle Phillips,Foul,15,10
+13:31,James Madison,Darius Banks,Foul,15,10
+13:19,George Mason,Ian Boyd,Layup,15,12
+12:56,James Madison,Develle Phillips,Turnover,15,12
+12:56,George Mason,Justin Kier,Steal,15,12
+12:37,George Mason,Jarred Reuter,Missed Jumper,15,12
+12:37,James Madison,Develle Phillips,Defensive Rebound,15,12
+12:20,George Mason,Jarred Reuter,Foul,15,12
+12:08,James Madison,Stuckey Mosley,Turnover,15,12
+12:07,George Mason,Justin Kier,Steal,15,12
+12:04,George Mason,Justin Kier,Missed Layup,15,12
+12:04,James Madison,Develle Phillips,Defensive Rebound,15,12
+11:52,James Madison,Stuckey Mosley,Missed Jumper,15,12
+11:52,George Mason,Otis Livingston II,Defensive Rebound,15,12
+11:43,George Mason,Otis Livingston II,Missed Jumper,15,12
+11:43,George Mason,Goanar Mar,Offensive Rebound,15,12
+11:38,George Mason,Goanar Mar,Jumper,15,14
+11:09,James Madison,Matt Lewis,Missed Jumper,15,14
+11:09,James Madison,Greg Jones,Offensive Rebound,15,14
+11:05,James Madison,Greg Jones,Missed Jumper,15,14
+11:05,George Mason,Justin Kier,Block,15,14
+11:03,George Mason,Jarred Reuter,Defensive Rebound,15,14
+10:58,George Mason,Justin Kier,Missed Three Point Jumper,15,14
+10:58,James Madison,Deshon Parker,Defensive Rebound,15,14
+10:37,James Madison,Develle Phillips,Turnover,15,14
+10:36,George Mason,Otis Livingston II,Steal,15,14
+10:30,George Mason,Otis Livingston II,Layup,15,16
+10:15,James Madison,Deshon Parker,Missed Jumper,15,16
+10:12,George Mason,None,None,15,16
+10:12,James Madison,James Madison,Offensive Rebound,15,16
+10:12,George Mason,None,None,15,16
+10:04,George Mason,Ian Boyd,Foul,15,16
+10:03,James Madison,Stuckey Mosley,Three Point Jumper,18,16
+9:44,George Mason,Javon Greene,Missed Three Point Jumper,18,16
+9:44,George Mason,Goanar Mar,Offensive Rebound,18,16
+9:21,George Mason,Greg Calixte,Missed Jumper,18,16
+9:21,James Madison,Zach Jacobs,Defensive Rebound,18,16
+9:00,James Madison,Stuckey Mosley,Missed Jumper,18,16
+9:00,George Mason,Goanar Mar,Defensive Rebound,18,16
+8:52,George Mason,Ian Boyd,Missed Three Point Jumper,18,16
+8:52,James Madison,Zach Jacobs,Defensive Rebound,18,16
+8:32,George Mason,Ian Boyd,Foul,18,16
+8:32,James Madison,Stuckey Mosley,Free Throw,19,16
+8:32,James Madison,Stuckey Mosley,Free Throw,20,16
+8:12,George Mason,Justin Kier,Jumper,20,18
+7:56,James Madison,Matt Lewis,Missed Jumper,20,18
+7:56,George Mason,Justin Kier,Defensive Rebound,20,18
+7:45,James Madison,Stuckey Mosley,Foul,20,18
+7:45,George Mason,None,None,20,18
+7:36,George Mason,Jarred Reuter,Jumper,20,20
+7:02,James Madison,Deshon Parker,Three Point Jumper,23,20
+6:45,George Mason,Jarred Reuter,Missed Jumper,23,20
+6:44,George Mason,Goanar Mar,Offensive Rebound,23,20
+6:43,James Madison,Stuckey Mosley,Foul,23,20
+6:43,George Mason,Goanar Mar,Missed Free Throw,23,20
+6:43,George Mason,None,Team Rebound,23,20
+6:43,George Mason,Goanar Mar,Free Throw,23,21
+6:26,James Madison,Zach Jacobs,Turnover,23,21
+6:25,George Mason,Justin Kier,Steal,23,21
+6:22,George Mason,Justin Kier,Missed Layup,23,21
+6:21,James Madison,Zach Jacobs,Block,23,21
+6:20,James Madison,Deshon Parker,Defensive Rebound,23,21
+5:53,George Mason,Javon Greene,Foul,23,21
+5:53,James Madison,Deshon Parker,Missed Free Throw,23,21
+5:53,James Madison,None,Team Rebound,23,21
+5:53,James Madison,Deshon Parker,Free Throw,24,21
+5:36,George Mason,Otis Livingston II,Missed Three Point Jumper,24,21
+5:36,George Mason,Goanar Mar,Offensive Rebound,24,21
+5:25,George Mason,Goanar Mar,Missed Jumper,24,21
+5:24,James Madison,Zach Jacobs,Block,24,21
+5:22,George Mason,George Mason,Offensive Rebound,24,21
+5:00,George Mason,Javon Greene,Turnover,24,21
+4:59,James Madison,Zach Jacobs,Steal,24,21
+4:39,James Madison,Develle Phillips,Missed Jumper,24,21
+4:39,George Mason,Otis Livingston II,Defensive Rebound,24,21
+4:29,George Mason,Justin Kier,Jumper,24,23
+4:00,James Madison,Matt Lewis,Turnover,24,23
+3:56,George Mason,Javon Greene,Steal,24,23
+3:54,George Mason,Javon Greene,Layup,24,25
+3:24,James Madison,Develle Phillips,Jumper,26,25
+3:09,George Mason,Goanar Mar,Missed Three Point Jumper,26,25
+3:09,James Madison,Develle Phillips,Defensive Rebound,26,25
+2:48,James Madison,Zach Jacobs,Turnover,26,25
+2:48,George Mason,None,None,26,25
+2:37,George Mason,Otis Livingston II,Missed Three Point Jumper,26,25
+2:37,James Madison,Develle Phillips,Defensive Rebound,26,25
+2:10,James Madison,Develle Phillips,Turnover,26,25
+1:57,George Mason,Justin Kier,Missed Three Point Jumper,26,25
+1:57,James Madison,Develle Phillips,Defensive Rebound,26,25
+1:42,James Madison,Greg Jones,Turnover,26,25
+1:41,George Mason,Otis Livingston II,Steal,26,25
+1:39,James Madison,Greg Jones,Foul,26,25
+1:39,George Mason,Otis Livingston II,Free Throw,26,26
+1:39,George Mason,Otis Livingston II,Free Throw,26,27
+1:15,James Madison,Matt Lewis,Missed Jumper,26,27
+1:13,James Madison,Develle Phillips,Offensive Rebound,26,27
+1:12,James Madison,Develle Phillips,Turnover,26,27
+0:57,James Madison,Greg Jones,Foul,26,27
+0:57,George Mason,Greg Calixte,Missed Free Throw,26,27
+0:57,George Mason,None,Team Rebound,26,27
+0:57,George Mason,Greg Calixte,Missed Free Throw,26,27
+0:57,James Madison,Greg Jones,Defensive Rebound,26,27
+0:28,James Madison,Develle Phillips,Turnover,26,27
+0:28,George Mason,Otis Livingston II,Steal,26,27
+0:24,George Mason,Justin Kier,Layup,26,29
+0:03,James Madison,Matt Lewis,Missed Three Point Jumper,26,29
+0:03,George Mason,Otis Livingston II,Defensive Rebound,26,29
+0:03,George Mason,Otis Livingston II,Turnover,26,29
+0:02,James Madison,Antanee Pinkard,Steal,26,29
+0:01,James Madison,Antanee Pinkard,Missed Jumper,26,29
+0:01,George Mason,George Mason,Defensive Rebound,26,29
+0:00,George Mason,None,None,26,29
+19:50,George Mason,Otis Livingston II,Missed Three Point Jumper,26,29
+19:50,James Madison,Zach Jacobs,Defensive Rebound,26,29
+19:24,James Madison,Dwight Wilson,Missed Dunk,26,29
+19:24,George Mason,Jarred Reuter,Defensive Rebound,26,29
+19:03,George Mason,Otis Livingston II,Layup,26,31
+18:39,James Madison,Stuckey Mosley,Missed Jumper,26,31
+18:39,George Mason,Javon Greene,Defensive Rebound,26,31
+18:31,George Mason,Javon Greene,Turnover,26,31
+18:30,James Madison,Darius Banks,Steal,26,31
+18:19,James Madison,Stuckey Mosley,Three Point Jumper,29,31
+18:00,George Mason,Jarred Reuter,Missed Jumper,29,31
+18:00,George Mason,Jarred Reuter,Offensive Rebound,29,31
+17:55,George Mason,Jarred Reuter,Missed Jumper,29,31
+17:55,James Madison,Matt Lewis,Defensive Rebound,29,31
+17:47,James Madison,Zach Jacobs,Missed Jumper,29,31
+17:47,George Mason,Jarred Reuter,Defensive Rebound,29,31
+17:36,George Mason,Jarred Reuter,Jumper,29,33
+17:36,James Madison,Zach Jacobs,Foul,29,33
+17:36,George Mason,Jarred Reuter,Free Throw,29,34
+17:19,James Madison,Matt Lewis,Jumper,31,34
+17:00,George Mason,Greg Calixte,Foul,31,34
+17:00,George Mason,Greg Calixte,Turnover,31,34
+16:40,James Madison,Stuckey Mosley,Missed Three Point Jumper,31,34
+16:40,George Mason,Justin Kier,Block,31,34
+16:38,George Mason,Otis Livingston II,Defensive Rebound,31,34
+16:34,George Mason,Otis Livingston II,Missed Layup,31,34
+16:34,James Madison,Matt Lewis,Defensive Rebound,31,34
+16:28,James Madison,Darius Banks,Three Point Jumper,34,34
+16:13,George Mason,Otis Livingston II,Foul,34,34
+16:13,George Mason,Otis Livingston II,Turnover,34,34
+15:53,James Madison,Matt Lewis,Jumper,36,34
+15:36,George Mason,Otis Livingston II,Missed Layup,36,34
+15:36,George Mason,Goanar Mar,Offensive Rebound,36,34
+15:32,George Mason,Goanar Mar,Missed Jumper,36,34
+15:32,James Madison,Matt Lewis,Defensive Rebound,36,34
+15:20,James Madison,Darius Banks,Turnover,36,34
+15:19,George Mason,Justin Kier,Steal,36,34
+15:16,George Mason,Justin Kier,Layup,36,36
+14:57,James Madison,Deshon Parker,Missed Three Point Jumper,36,36
+14:57,George Mason,Justin Kier,Defensive Rebound,36,36
+14:54,George Mason,Otis Livingston II,Layup,36,38
+14:53,James Madison,Darius Banks,Foul,36,38
+14:53,George Mason,None,None,36,38
+14:53,George Mason,Otis Livingston II,Free Throw,36,39
+14:49,George Mason,Otis Livingston II,Foul,36,39
+14:35,James Madison,Matt Lewis,Missed Three Point Jumper,36,39
+14:35,George Mason,Ian Boyd,Defensive Rebound,36,39
+14:16,James Madison,Stuckey Mosley,Foul,36,39
+14:16,George Mason,Justin Kier,Free Throw,36,40
+14:16,George Mason,Justin Kier,Free Throw,36,41
+13:56,James Madison,Matt Lewis,Missed Jumper,36,41
+13:56,George Mason,Greg Calixte,Defensive Rebound,36,41
+13:45,George Mason,Goanar Mar,Missed Jumper,36,41
+13:45,James Madison,Stuckey Mosley,Defensive Rebound,36,41
+13:13,James Madison,Matt Lewis,Missed Jumper,36,41
+13:10,George Mason,Greg Calixte,Defensive Rebound,36,41
+13:10,James Madison,Matt Lewis,Foul,36,41
+12:58,George Mason,Jarred Reuter,Missed Jumper,36,41
+12:56,James Madison,Dwight Wilson,Defensive Rebound,36,41
+12:56,George Mason,Ian Boyd,Foul,36,41
+12:34,James Madison,Stuckey Mosley,Jumper,38,41
+12:21,George Mason,Justin Kier,Foul,38,41
+12:21,George Mason,Justin Kier,Foul,38,41
+12:21,James Madison,Stuckey Mosley,Foul,38,41
+12:21,James Madison,Stuckey Mosley,Foul,38,41
+12:06,George Mason,Justin Kier,Turnover,38,41
+12:04,James Madison,Darius Banks,Steal,38,41
+11:58,George Mason,Justin Kier,Foul,38,41
+11:58,George Mason,None,None,38,41
+11:49,James Madison,Matt Lewis,Turnover,38,41
+11:48,George Mason,Justin Kier,Steal,38,41
+11:40,James Madison,Zach Jacobs,Foul,38,41
+11:40,George Mason,Justin Kier,Free Throw,38,42
+11:40,George Mason,Justin Kier,Missed Free Throw,38,42
+11:40,James Madison,Dwight Wilson,Defensive Rebound,38,42
+11:25,James Madison,Darius Banks,Missed Jumper,38,42
+11:25,George Mason,AJ Wilson,Block,38,42
+11:25,James Madison,James Madison,Offensive Rebound,38,42
+11:23,James Madison,Dwight Wilson,Missed Jumper,38,42
+11:23,George Mason,Otis Livingston II,Defensive Rebound,38,42
+11:20,James Madison,James Madison,Foul,38,42
+11:20,George Mason,Otis Livingston II,Free Throw,38,43
+11:20,George Mason,Otis Livingston II,Free Throw,38,44
+11:09,George Mason,Goanar Mar,Missed Three Point Jumper,38,44
+11:07,James Madison,Dwight Wilson,Defensive Rebound,38,44
+11:07,George Mason,AJ Wilson,Foul,38,44
+11:07,James Madison,Deshon Parker,Free Throw,39,44
+11:07,James Madison,Deshon Parker,Missed Free Throw,39,44
+11:07,George Mason,AJ Wilson,Defensive Rebound,39,44
+10:50,George Mason,Javon Greene,Missed Jumper,39,44
+10:49,George Mason,George Mason,Offensive Rebound,39,44
+10:44,George Mason,Goanar Mar,Missed Three Point Jumper,39,44
+10:44,George Mason,AJ Wilson,Offensive Rebound,39,44
+10:35,George Mason,AJ Wilson,Jumper,39,46
+10:02,James Madison,Matt Lewis,Jumper,41,46
+9:40,George Mason,Otis Livingston II,Layup,41,48
+9:33,James Madison,None,None,41,48
+9:20,George Mason,Otis Livingston II,Foul,41,48
+9:20,James Madison,Darius Banks,Missed Free Throw,41,48
+9:20,George Mason,Justin Kier,Defensive Rebound,41,48
+9:11,George Mason,AJ Wilson,Turnover,41,48
+9:11,James Madison,Zach Jacobs,Steal,41,48
+8:53,James Madison,Stuckey Mosley,Missed Three Point Jumper,41,48
+8:53,George Mason,Justin Kier,Defensive Rebound,41,48
+8:33,George Mason,Otis Livingston II,Three Point Jumper,41,51
+8:07,James Madison,Zach Jacobs,Missed Three Point Jumper,41,51
+8:07,James Madison,Stuckey Mosley,Offensive Rebound,41,51
+7:58,James Madison,Stuckey Mosley,Missed Layup,41,51
+7:58,George Mason,AJ Wilson,Defensive Rebound,41,51
+7:46,George Mason,Justin Kier,Missed Jumper,41,51
+7:46,James Madison,Matt Lewis,Defensive Rebound,41,51
+7:36,James Madison,Stuckey Mosley,Missed Three Point Jumper,41,51
+7:36,George Mason,Justin Kier,Defensive Rebound,41,51
+7:17,George Mason,AJ Wilson,Missed Jumper,41,51
+7:17,James Madison,Darius Banks,Defensive Rebound,41,51
+7:14,James Madison,Darius Banks,Turnover,41,51
+7:14,George Mason,None,None,41,51
+6:52,George Mason,Ian Boyd,Missed Jumper,41,51
+6:52,George Mason,Greg Calixte,Offensive Rebound,41,51
+6:51,George Mason,Greg Calixte,Dunk,41,53
+6:25,James Madison,Matt Lewis,Missed Three Point Jumper,41,53
+6:25,James Madison,Develle Phillips,Offensive Rebound,41,53
+6:21,James Madison,Develle Phillips,Turnover,41,53
+6:20,George Mason,Ian Boyd,Steal,41,53
+6:15,James Madison,Zach Jacobs,Foul,41,53
+6:15,George Mason,Ian Boyd,Free Throw,41,54
+6:15,George Mason,Ian Boyd,Missed Free Throw,41,54
+6:15,James Madison,Stuckey Mosley,Defensive Rebound,41,54
+6:00,James Madison,Stuckey Mosley,Three Point Jumper,44,54
+5:59,James Madison,None,None,44,54
+5:45,George Mason,Ian Boyd,Turnover,44,54
+5:43,James Madison,Darius Banks,Steal,44,54
+5:28,George Mason,Greg Calixte,Foul,44,54
+5:28,James Madison,Develle Phillips,Missed Free Throw,44,54
+5:28,George Mason,Greg Calixte,Defensive Rebound,44,54
+5:10,George Mason,Justin Kier,Turnover,44,54
+4:46,James Madison,Matt Lewis,Missed Jumper,44,54
+4:46,George Mason,Goanar Mar,Block,44,54
+4:46,James Madison,James Madison,Offensive Rebound,44,54
+4:39,James Madison,Stuckey Mosley,Missed Jumper,44,54
+4:39,George Mason,Justin Kier,Defensive Rebound,44,54
+4:32,George Mason,Justin Kier,Layup,44,56
+4:19,James Madison,Matt Lewis,Missed Layup,44,56
+4:17,James Madison,Develle Phillips,Offensive Rebound,44,56
+4:05,James Madison,Matt Lewis,Missed Three Point Jumper,44,56
+4:01,George Mason,George Mason,Defensive Rebound,44,56
+3:37,George Mason,Goanar Mar,Missed Jumper,44,56
+3:37,James Madison,Develle Phillips,Defensive Rebound,44,56
+3:27,James Madison,Stuckey Mosley,Layup,46,56
+3:11,George Mason,Greg Calixte,Jumper,46,58
+2:52,James Madison,Stuckey Mosley,Missed Three Point Jumper,46,58
+2:52,James Madison,Darius Banks,Offensive Rebound,46,58
+2:47,James Madison,Darius Banks,Missed Jumper,46,58
+2:47,James Madison,Matt Lewis,Offensive Rebound,46,58
+2:44,James Madison,Matt Lewis,Jumper,48,58
+2:31,George Mason,Javon Greene,Missed Three Point Jumper,48,58
+2:31,James Madison,Matt Lewis,Defensive Rebound,48,58
+2:28,George Mason,Goanar Mar,Foul,48,58
+2:28,George Mason,None,None,48,58
+2:28,James Madison,Matt Lewis,Free Throw,49,58
+2:28,James Madison,Matt Lewis,Missed Free Throw,49,58
+2:28,George Mason,Justin Kier,Defensive Rebound,49,58
+2:06,George Mason,Javon Greene,Missed Jumper,49,58
+2:06,George Mason,AJ Wilson,Offensive Rebound,49,58
+2:00,George Mason,None,None,49,60
+1:48,George Mason,Goanar Mar,Foul,49,60
+1:48,James Madison,Darius Banks,Free Throw,50,60
+1:48,James Madison,Darius Banks,Missed Free Throw,50,60
+1:48,George Mason,Justin Kier,Defensive Rebound,50,60
+1:19,George Mason,Justin Kier,Missed Layup,50,60
+1:19,James Madison,Matt Lewis,Defensive Rebound,50,60
+1:11,James Madison,Matt Lewis,Missed Layup,50,60
+1:11,James Madison,Matt Lewis,Offensive Rebound,50,60
+1:08,James Madison,Matt Lewis,Missed Jumper,50,60
+1:08,James Madison,James Madison,Offensive Rebound,50,60
+1:05,George Mason,Javon Greene,Foul,50,60
+1:05,James Madison,Stuckey Mosley,Free Throw,51,60
+1:05,James Madison,Stuckey Mosley,Missed Free Throw,51,60
+1:05,George Mason,Justin Kier,Defensive Rebound,51,60
+0:36,James Madison,Darius Banks,Foul,51,60
+0:36,George Mason,Goanar Mar,Free Throw,51,61
+0:36,George Mason,Goanar Mar,Free Throw,51,62
+0:31,James Madison,Stuckey Mosley,Missed Three Point Jumper,51,62
+0:27,James Madison,Dwight Wilson,Offensive Rebound,51,62
+0:26,James Madison,Dwight Wilson,Jumper,53,62
+0:26,James Madison,Matt Lewis,Foul,53,62
+0:26,George Mason,Javon Greene,Missed Free Throw,53,62
+0:26,George Mason,None,Team Rebound,53,62
+0:26,George Mason,Javon Greene,Free Throw,53,63
+0:20,George Mason,AJ Wilson,Foul,53,63
+0:20,James Madison,Matt Lewis,Foul,53,63
+0:20,James Madison,Matt Lewis,Foul,53,63
+0:20,George Mason,Otis Livingston II,Free Throw,53,64
+0:20,George Mason,Otis Livingston II,Free Throw,53,65
+0:20,James Madison,Matt Lewis,Missed Free Throw,53,65
+0:20,James Madison,None,Team Rebound,53,65
+0:20,James Madison,Matt Lewis,Missed Free Throw,53,65
+0:20,George Mason,Justin Kier,Defensive Rebound,53,65
+0:15,James Madison,Matt Lewis,Foul,53,65
+0:15,George Mason,Justin Kier,Missed Free Throw,53,65
+0:15,George Mason,None,Team Rebound,53,65
+0:15,George Mason,Justin Kier,Free Throw,53,66
+0:10,James Madison,Matt Lewis,Missed Three Point Jumper,53,66
+0:07,James Madison,Dwight Wilson,Offensive Rebound,53,66
+0:05,James Madison,Dwight Wilson,Missed Dunk,53,66
+0:04,George Mason,Justin Kier,Defensive Rebound,53,66
+0:00,George Mason,None,None,53,66

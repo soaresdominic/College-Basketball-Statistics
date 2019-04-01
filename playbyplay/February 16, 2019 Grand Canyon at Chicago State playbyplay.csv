@@ -1,0 +1,288 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:45,Grand Canyon,Michael Finke,Foul,0,0
+19:45,Grand Canyon,Michael Finke,Turnover,0,0
+19:32,Chicago State,Rob Shaw,Turnover,0,0
+19:30,Grand Canyon,Alessandro Lever,Steal,0,0
+19:22,Grand Canyon,Michael Finke,Jumper,2,0
+18:59,Chicago State,Travon Bell,Missed Three Point Jumper,2,0
+18:59,Grand Canyon,Alessandro Lever,Defensive Rebound,2,0
+18:45,Grand Canyon,Alessandro Lever,Missed Three Point Jumper,2,0
+18:45,Grand Canyon,Oscar Frayer,Offensive Rebound,2,0
+18:41,Grand Canyon,None,None,4,0
+18:29,Chicago State,Patrick Szpir,Foul,4,0
+18:29,Chicago State,Patrick Szpir,Turnover,4,0
+17:58,Grand Canyon,Alessandro Lever,Missed Layup,4,0
+17:58,Chicago State,Anthony Harris,Defensive Rebound,4,0
+17:51,Chicago State,Rob Shaw,Turnover,4,0
+17:50,Grand Canyon,Carlos Johnson,Steal,4,0
+17:42,Grand Canyon,Michael Finke,Jumper,6,0
+17:14,Chicago State,Rob Shaw,Missed Jumper,6,0
+17:14,Grand Canyon,Oscar Frayer,Defensive Rebound,6,0
+17:04,Grand Canyon,Alessandro Lever,Missed Three Point Jumper,6,0
+17:04,Chicago State,None,Team Rebound,6,0
+16:42,Chicago State,Rob Shaw,Turnover,6,0
+16:41,Grand Canyon,Damari Milstead,Steal,6,0
+16:38,Grand Canyon,Damari Milstead,Layup,8,0
+16:37,Chicago State,None,None,8,0
+16:27,Chicago State,Delshon Strickland,Turnover,8,0
+16:27,Grand Canyon,Alessandro Lever,Steal,8,0
+16:14,Grand Canyon,Carlos Johnson,Layup,10,0
+15:56,Chicago State,None,None,10,0
+15:56,Chicago State,None,None,10,0
+15:47,Grand Canyon,Oscar Frayer,Foul,10,0
+15:28,Chicago State,Cameron Bowles,Missed Layup,10,0
+15:28,Grand Canyon,Alessandro Lever,Defensive Rebound,10,0
+15:13,Grand Canyon,Carlos Johnson,Missed Three Point Jumper,10,0
+15:13,Chicago State,Anthony Harris,Defensive Rebound,10,0
+14:51,Chicago State,Anthony Harris,Turnover,10,0
+14:36,Grand Canyon,Oscar Frayer,Three Point Jumper,13,0
+14:19,Chicago State,Michael Johnson,Turnover,13,0
+14:18,Grand Canyon,Damari Milstead,Steal,13,0
+14:14,Grand Canyon,Oscar Frayer,Missed Three Point Jumper,13,0
+14:14,Grand Canyon,Alessandro Lever,Offensive Rebound,13,0
+14:08,Grand Canyon,Alessandro Lever,Jumper,15,0
+14:06,Chicago State,None,None,15,0
+13:49,Chicago State,Eugene Witherspoon,Missed Three Point Jumper,15,0
+13:49,Grand Canyon,Michael Finke,Defensive Rebound,15,0
+13:34,Grand Canyon,Carlos Johnson,Dunk,17,0
+13:19,Chicago State,Patrick Szpir,Foul,17,0
+13:19,Grand Canyon,Carlos Johnson,Missed Free Throw,17,0
+13:19,Grand Canyon,None,Team Rebound,17,0
+13:19,Chicago State,Patrick Szpir,Free Throw,17,1
+12:43,Grand Canyon,Michael Finke,Missed Jumper,17,1
+12:43,Chicago State,Rob Shaw,Defensive Rebound,17,1
+12:34,Chicago State,Patrick Szpir,Missed Layup,17,1
+12:34,Chicago State,Chicago State,Offensive Rebound,17,1
+12:26,Chicago State,Cameron Bowles,Missed Jumper,17,1
+12:26,Grand Canyon,Damari Milstead,Defensive Rebound,17,1
+12:11,Chicago State,Travon Bell,Foul,17,1
+12:09,Chicago State,Patrick Szpir,Jumper,17,3
+11:46,Grand Canyon,Michael Finke,Layup,19,3
+11:20,Grand Canyon,Matt Jackson,Missed Jumper,19,3
+11:20,Chicago State,Rob Shaw,Defensive Rebound,19,3
+11:03,Chicago State,Cameron Bowles,Turnover,19,3
+11:03,Chicago State,None,None,19,3
+10:52,Grand Canyon,Carlos Johnson,Jumper,21,3
+10:23,Chicago State,Anthony Harris,Missed Jumper,21,3
+10:23,Grand Canyon,Trey Drechsel,Defensive Rebound,21,3
+10:02,Grand Canyon,Trey Drechsel,Missed Three Point Jumper,21,3
+10:02,Grand Canyon,Tim Finke,Offensive Rebound,21,3
+9:52,Chicago State,Anthony Harris,Foul,21,3
+9:52,Grand Canyon,Tim Finke,Missed Free Throw,21,3
+9:52,Grand Canyon,None,Team Rebound,21,3
+9:52,Grand Canyon,Carlos Johnson,Missed Free Throw,21,3
+9:52,Chicago State,Rob Shaw,Defensive Rebound,21,3
+9:43,Chicago State,Anthony Harris,Missed Three Point Jumper,21,3
+9:43,Grand Canyon,Carlos Johnson,Defensive Rebound,21,3
+9:30,Grand Canyon,Matt Jackson,Missed Three Point Jumper,21,3
+9:30,Chicago State,Anthony Harris,Defensive Rebound,21,3
+9:24,Chicago State,Rob Shaw,Layup,21,5
+8:57,Grand Canyon,Trey Drechsel,Layup,23,5
+8:50,Chicago State,Travon Bell,Layup,23,7
+8:37,Grand Canyon,None,None,23,7
+8:18,Grand Canyon,Tim Finke,Three Point Jumper,26,7
+7:55,Chicago State,Patrick Szpir,Layup,26,9
+7:39,Grand Canyon,Matt Jackson,Layup,28,9
+7:12,Chicago State,Patrick Szpir,Missed Jumper,28,9
+7:12,Grand Canyon,Trey Drechsel,Defensive Rebound,28,9
+7:02,Grand Canyon,Roberts Blumbergs,Missed Three Point Jumper,28,9
+7:02,Chicago State,Travon Bell,Defensive Rebound,28,9
+6:53,Grand Canyon,Roberts Blumbergs,Foul,28,9
+6:53,Chicago State,None,None,28,9
+6:53,Chicago State,Anthony Harris,Free Throw,28,10
+6:53,Chicago State,Anthony Harris,Free Throw,28,11
+6:45,Grand Canyon,Michael Finke,Jumper,30,11
+6:29,Chicago State,Anthony Harris,Three Point Jumper,30,14
+6:05,Grand Canyon,Michael Finke,Layup,32,14
+5:57,Chicago State,Anthony Harris,Three Point Jumper,32,17
+5:35,Grand Canyon,Michael Finke,Three Point Jumper,35,17
+5:23,Chicago State,Rob Shaw,Turnover,35,17
+5:23,Grand Canyon,Damari Milstead,Steal,35,17
+5:23,Grand Canyon,Carlos Johnson,Foul,35,17
+4:51,Chicago State,Jordan Reed,Foul,35,17
+4:51,Grand Canyon,Damari Milstead,Missed Free Throw,35,17
+4:51,Grand Canyon,None,Team Rebound,35,17
+4:51,Grand Canyon,Damari Milstead,Free Throw,36,17
+4:30,Chicago State,Cameron Bowles,Layup,36,19
+4:11,Grand Canyon,Carlos Johnson,Turnover,36,19
+3:55,Chicago State,Cameron Bowles,Missed Jumper,36,19
+3:52,Grand Canyon,Michael Finke,Offensive Rebound,36,19
+3:39,Grand Canyon,Damari Milstead,Jumper,38,19
+3:27,Chicago State,Anthony Harris,Missed Layup,38,19
+3:27,Chicago State,Anthony Harris,Offensive Rebound,38,19
+3:09,Chicago State,Travon Bell,Missed Three Point Jumper,38,19
+3:09,Grand Canyon,Damari Milstead,Defensive Rebound,38,19
+3:02,Grand Canyon,Alessandro Lever,Three Point Jumper,41,19
+2:48,Grand Canyon,Oscar Frayer,Foul,41,19
+2:48,Chicago State,None,None,41,19
+2:35,Chicago State,Rob Shaw,Jumper,41,21
+2:21,Grand Canyon,Carlos Johnson,Jumper,43,21
+2:21,Chicago State,Cameron Bowles,Foul,43,21
+2:21,Grand Canyon,Carlos Johnson,Missed Free Throw,43,21
+2:21,Chicago State,Eugene Witherspoon,Defensive Rebound,43,21
+1:55,Chicago State,Rob Shaw,Jumper,43,23
+1:43,Grand Canyon,Alessandro Lever,Three Point Jumper,46,23
+1:18,Chicago State,Anthony Harris,Turnover,46,23
+1:17,Grand Canyon,Carlos Johnson,Steal,46,23
+1:13,Grand Canyon,Carlos Johnson,Missed Layup,46,23
+1:13,Grand Canyon,Michael Finke,Offensive Rebound,46,23
+1:09,Grand Canyon,None,None,48,23
+1:00,Grand Canyon,Carlos Johnson,Foul,48,23
+1:00,Chicago State,Ken Odiase,Missed Free Throw,48,23
+1:00,Chicago State,None,Team Rebound,48,23
+1:00,Chicago State,Ken Odiase,Missed Free Throw,48,23
+1:00,Grand Canyon,Tim Finke,Defensive Rebound,48,23
+0:47,Chicago State,Rob Shaw,Foul,48,23
+0:47,Grand Canyon,Damari Milstead,Missed Free Throw,48,23
+0:47,Chicago State,Cameron Bowles,Defensive Rebound,48,23
+0:39,Chicago State,Rob Shaw,Missed Jumper,48,23
+0:39,Grand Canyon,Alessandro Lever,Defensive Rebound,48,23
+0:13,Grand Canyon,Alessandro Lever,Three Point Jumper,51,23
+0:01,Chicago State,Cameron Bowles,Missed Three Point Jumper,51,23
+0:01,Grand Canyon,Alessandro Lever,Defensive Rebound,51,23
+0:00,Chicago State,None,None,51,23
+19:40,Chicago State,Travon Bell,Missed Three Point Jumper,51,23
+19:40,Grand Canyon,Oscar Frayer,Defensive Rebound,51,23
+19:27,Grand Canyon,Carlos Johnson,Turnover,51,23
+19:12,Chicago State,Patrick Szpir,Jumper,51,25
+19:00,Grand Canyon,Carlos Johnson,Layup,53,25
+18:55,Chicago State,Anthony Harris,Foul,53,25
+18:55,Grand Canyon,Carlos Johnson,Free Throw,54,25
+18:45,Chicago State,Travon Bell,Three Point Jumper,54,28
+18:29,Grand Canyon,Carlos Johnson,Layup,56,28
+18:29,Chicago State,Patrick Szpir,Foul,56,28
+18:29,Grand Canyon,Carlos Johnson,Free Throw,57,28
+18:14,Chicago State,Ken Odiase,Missed Layup,57,28
+18:14,Grand Canyon,Oscar Frayer,Defensive Rebound,57,28
+18:05,Grand Canyon,Carlos Johnson,Three Point Jumper,60,28
+17:51,Chicago State,Ken Odiase,Missed Jumper,60,28
+17:51,Chicago State,Chicago State,Defensive Rebound,60,28
+17:39,Grand Canyon,Alessandro Lever,Foul,60,28
+17:36,Chicago State,Travon Bell,Three Point Jumper,60,31
+17:20,Grand Canyon,Roberts Blumbergs,Foul,60,31
+17:20,Grand Canyon,Roberts Blumbergs,Turnover,60,31
+17:06,Chicago State,Rob Shaw,Layup,60,33
+16:46,Chicago State,Anthony Harris,Foul,60,33
+16:35,Grand Canyon,Carlos Johnson,Missed Jumper,60,33
+16:35,Grand Canyon,Michael Finke,Offensive Rebound,60,33
+16:31,Chicago State,Cameron Bowles,Foul,60,33
+16:31,Grand Canyon,Michael Finke,Free Throw,61,33
+16:31,Grand Canyon,Michael Finke,Missed Free Throw,61,33
+16:31,Chicago State,Ken Odiase,Defensive Rebound,61,33
+16:10,Chicago State,Cameron Bowles,Layup,61,35
+15:41,Grand Canyon,Michael Finke,Missed Layup,61,35
+15:41,Chicago State,Cameron Bowles,Defensive Rebound,61,35
+15:35,Chicago State,Anthony Harris,Turnover,61,35
+15:35,Chicago State,None,None,61,35
+15:26,Grand Canyon,Michael Finke,Three Point Jumper,64,35
+14:56,Chicago State,Ken Odiase,Missed Layup,64,35
+14:56,Grand Canyon,Damari Milstead,Defensive Rebound,64,35
+14:46,Grand Canyon,Roberts Blumbergs,Missed Layup,64,35
+14:46,Grand Canyon,Roberts Blumbergs,Offensive Rebound,64,35
+14:36,Chicago State,Travon Bell,Foul,64,35
+14:19,Grand Canyon,None,None,66,35
+14:13,Chicago State,Rob Shaw,Jumper,66,37
+13:41,Grand Canyon,Carlos Johnson,Turnover,66,37
+13:41,Chicago State,Patrick Szpir,Steal,66,37
+13:30,Chicago State,Travon Bell,Missed Three Point Jumper,66,37
+13:30,Grand Canyon,Tim Finke,Defensive Rebound,66,37
+13:18,Chicago State,Cameron Bowles,Foul,66,37
+13:18,Grand Canyon,Carlos Johnson,Free Throw,67,37
+13:18,Grand Canyon,Carlos Johnson,Free Throw,68,37
+13:01,Chicago State,Rob Shaw,Jumper,68,39
+12:42,Grand Canyon,Tim Finke,Missed Layup,68,39
+12:42,Chicago State,Rob Shaw,Defensive Rebound,68,39
+12:36,Chicago State,Cameron Bowles,Layup,68,41
+12:36,Grand Canyon,Trey Drechsel,Foul,68,41
+12:36,Chicago State,Cameron Bowles,Free Throw,68,42
+12:19,Grand Canyon,Alessandro Lever,Layup,70,42
+12:06,Chicago State,Rob Shaw,Missed Layup,70,42
+12:06,Grand Canyon,Alessandro Lever,Defensive Rebound,70,42
+11:50,Grand Canyon,Carlos Johnson,Foul,70,42
+11:50,Grand Canyon,Carlos Johnson,Turnover,70,42
+11:50,Chicago State,None,None,70,42
+11:28,Chicago State,Cameron Bowles,Missed Layup,70,42
+11:28,Chicago State,Chicago State,Offensive Rebound,70,42
+11:26,Grand Canyon,Carlos Johnson,Foul,70,42
+11:08,Chicago State,Cameron Bowles,Missed Jumper,70,42
+11:08,Grand Canyon,Tim Finke,Defensive Rebound,70,42
+10:50,Grand Canyon,Tim Finke,Turnover,70,42
+10:48,Chicago State,Cameron Bowles,Steal,70,42
+10:44,Chicago State,Anthony Harris,Missed Three Point Jumper,70,42
+10:44,Grand Canyon,Tim Finke,Defensive Rebound,70,42
+10:32,Chicago State,Rob Shaw,Foul,70,42
+10:32,Grand Canyon,Michael Finke,Missed Free Throw,70,42
+10:32,Grand Canyon,Alessandro Lever,Defensive Rebound,70,42
+10:29,Grand Canyon,Trey Drechsel,Three Point Jumper,73,42
+10:11,Chicago State,Jordan Reed,Three Point Jumper,73,45
+9:54,Grand Canyon,Alessandro Lever,Three Point Jumper,76,45
+9:20,Grand Canyon,Alessandro Lever,Foul,76,45
+9:16,Chicago State,Rob Shaw,Jumper,76,47
+9:00,Grand Canyon,Trey Drechsel,Missed Jumper,76,47
+9:00,Chicago State,Patrick Szpir,Defensive Rebound,76,47
+8:50,Chicago State,Travon Bell,Missed Three Point Jumper,76,47
+8:50,Grand Canyon,Trey Drechsel,Defensive Rebound,76,47
+8:37,Grand Canyon,Oscar Frayer,Missed Three Point Jumper,76,47
+8:37,Chicago State,Patrick Szpir,Defensive Rebound,76,47
+8:27,Chicago State,Rob Shaw,Missed Layup,76,47
+8:27,Grand Canyon,Tim Finke,Block,76,47
+8:22,Grand Canyon,Tim Finke,Defensive Rebound,76,47
+8:09,Grand Canyon,Tim Finke,Missed Jumper,76,47
+8:09,Grand Canyon,Matt Jackson,Offensive Rebound,76,47
+8:04,Grand Canyon,Trey Drechsel,Three Point Jumper,79,47
+7:42,Grand Canyon,Oscar Frayer,Foul,79,47
+7:42,Chicago State,None,None,79,47
+7:42,Chicago State,Rob Shaw,Free Throw,79,48
+7:42,Chicago State,Rob Shaw,Free Throw,79,49
+7:30,Chicago State,Anthony Harris,Turnover,79,49
+7:24,Grand Canyon,Damari Milstead,Turnover,79,49
+7:11,Chicago State,Delundre Dixon,Missed Jumper,79,49
+7:11,Grand Canyon,Brent Hibbitts,Defensive Rebound,79,49
+6:58,Grand Canyon,Matt Jackson,Missed Jumper,79,49
+6:58,Chicago State,Delshon Strickland,Defensive Rebound,79,49
+6:48,Grand Canyon,Michael Finke,Jumper,81,49
+6:42,Chicago State,Noah Bigirumwami,Foul,81,49
+6:42,Grand Canyon,Michael Finke,Free Throw,82,49
+6:33,Grand Canyon,Brent Hibbitts,Missed Three Point Jumper,82,49
+6:33,Chicago State,Ken Odiase,Defensive Rebound,82,49
+6:07,Chicago State,Patrick Szpir,Turnover,82,49
+6:06,Grand Canyon,Trey Drechsel,Steal,82,49
+5:57,Grand Canyon,Trey Drechsel,Missed Three Point Jumper,82,49
+5:57,Chicago State,Ken Odiase,Defensive Rebound,82,49
+5:50,Chicago State,Anthony Harris,Layup,82,51
+5:25,Grand Canyon,Trey Drechsel,Missed Three Point Jumper,82,51
+5:25,Chicago State,Patrick Szpir,Defensive Rebound,82,51
+5:10,Chicago State,Patrick Szpir,Layup,82,53
+4:49,Grand Canyon,Roberts Blumbergs,Turnover,82,53
+4:48,Chicago State,Cameron Bowles,Steal,82,53
+4:44,Chicago State,Anthony Harris,Missed Layup,82,53
+4:44,Grand Canyon,Damari Milstead,Defensive Rebound,82,53
+4:22,Grand Canyon,Roberts Blumbergs,Missed Three Point Jumper,82,53
+4:22,Chicago State,Travon Bell,Defensive Rebound,82,53
+4:17,Grand Canyon,Roberts Blumbergs,Foul,82,53
+4:17,Chicago State,Patrick Szpir,Missed Layup,82,53
+4:17,Grand Canyon,J.J. Rhymes,Defensive Rebound,82,53
+4:06,Grand Canyon,Raef Gerdes,Missed Jumper,82,53
+4:06,Chicago State,Chicago State,Defensive Rebound,82,53
+3:50,Chicago State,None,None,82,53
+3:38,Grand Canyon,Trey Drechsel,Foul,82,53
+3:38,Chicago State,Rob Shaw,Missed Free Throw,82,53
+3:38,Chicago State,None,Team Rebound,82,53
+3:38,Chicago State,Rob Shaw,Missed Free Throw,82,53
+3:38,Grand Canyon,Roberts Blumbergs,Offensive Rebound,82,53
+3:20,Grand Canyon,Raef Gerdes,Turnover,82,53
+3:19,Chicago State,Anthony Harris,Steal,82,53
+3:17,Chicago State,Anthony Harris,Dunk,82,55
+2:45,Grand Canyon,Matt Jackson,Missed Jumper,82,55
+2:45,Chicago State,Anthony Harris,Defensive Rebound,82,55
+2:19,Chicago State,Eugene Witherspoon,Layup,82,57
+2:06,Grand Canyon,Roberts Blumbergs,Layup,84,57
+1:39,Chicago State,Cameron Bowles,Missed Three Point Jumper,84,57
+1:39,Grand Canyon,Tim Finke,Defensive Rebound,84,57
+1:25,Grand Canyon,Matt Jackson,Missed Layup,84,57
+1:25,Chicago State,Eugene Witherspoon,Defensive Rebound,84,57
+1:18,Chicago State,Anthony Harris,Missed Three Point Jumper,84,57
+1:18,Grand Canyon,Trey Drechsel,Defensive Rebound,84,57
+1:00,Grand Canyon,Roberts Blumbergs,Three Point Jumper,87,57
+0:45,Chicago State,Ken Odiase,Layup,87,59
+0:28,Grand Canyon,Raef Gerdes,Three Point Jumper,90,59

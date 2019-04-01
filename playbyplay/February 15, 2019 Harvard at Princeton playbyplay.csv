@@ -1,0 +1,320 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:44,Harvard,Justin Bassey,Jumper,2,0
+19:32,Princeton,Devin Cannady,Missed Three Point Jumper,2,0
+19:32,Harvard,Justin Bassey,Defensive Rebound,2,0
+19:17,Harvard,Chris Lewis,Turnover,2,0
+19:16,Princeton,Myles Stephens,Steal,2,0
+19:09,Princeton,Jerome Desrosiers,Turnover,2,0
+19:08,Harvard,Bryce Aiken,Steal,2,0
+19:05,Harvard,Bryce Aiken,Missed Three Point Jumper,2,0
+19:05,Princeton,Jerome Desrosiers,Defensive Rebound,2,0
+18:48,Princeton,Myles Stephens,Missed Jumper,2,0
+18:48,Harvard,Chris Lewis,Block,2,0
+18:46,Harvard,Bryce Aiken,Defensive Rebound,2,0
+18:36,Harvard,Robert Baker,Turnover,2,0
+18:21,Princeton,Jerome Desrosiers,Three Point Jumper,2,3
+17:57,Harvard,Chris Lewis,Jumper,4,3
+17:35,Princeton,Jerome Desrosiers,Missed Layup,4,3
+17:35,Harvard,Chris Lewis,Block,4,3
+17:34,Harvard,Robert Baker,Defensive Rebound,4,3
+17:16,Harvard,Bryce Aiken,Layup,6,3
+17:01,Princeton,Jerome Desrosiers,Layup,6,5
+16:46,Harvard,Chris Lewis,Missed Jumper,6,5
+16:46,Princeton,Jerome Desrosiers,Defensive Rebound,6,5
+16:36,Harvard,Chris Lewis,Foul,6,5
+16:36,Princeton,Myles Stephens,Free Throw,6,6
+16:36,Princeton,Myles Stephens,Missed Free Throw,6,6
+16:36,Harvard,Bryce Aiken,Defensive Rebound,6,6
+16:13,Harvard,Henry Welsh,Missed Layup,6,6
+16:13,Princeton,Sebastian Much,Defensive Rebound,6,6
+15:56,Princeton,Jerome Desrosiers,Missed Three Point Jumper,6,6
+15:56,Harvard,Bryce Aiken,Defensive Rebound,6,6
+15:39,Harvard,Henry Welsh,Turnover,6,6
+15:39,Princeton,None,None,6,6
+15:26,Princeton,Devin Cannady,Layup,6,8
+15:14,Harvard,Danilo Djuricic,Missed Jumper,6,8
+15:14,Princeton,Ryan Schwieger,Defensive Rebound,6,8
+15:04,Princeton,Sebastian Much,Three Point Jumper,6,11
+14:50,Harvard,Bryce Aiken,Missed Layup,6,11
+14:50,Princeton,Devin Cannady,Defensive Rebound,6,11
+14:42,Princeton,Ryan Schwieger,Missed Three Point Jumper,6,11
+14:42,Harvard,Justin Bassey,Defensive Rebound,6,11
+14:18,Princeton,Ryan Schwieger,Foul,6,11
+14:18,Harvard,Justin Bassey,Free Throw,7,11
+14:18,Harvard,Justin Bassey,Free Throw,8,11
+14:03,Princeton,Richmond Aririguzoh,Layup,8,13
+13:46,Harvard,Danilo Djuricic,Missed Jumper,8,13
+13:46,Princeton,Richmond Aririguzoh,Defensive Rebound,8,13
+13:24,Princeton,Richmond Aririguzoh,Turnover,8,13
+13:23,Harvard,Rio Haskett,Steal,8,13
+13:17,Harvard,Noah Kirkwood,Turnover,8,13
+12:56,Princeton,Richmond Aririguzoh,Layup,8,15
+12:44,Princeton,Jose Morales,Foul,8,15
+12:44,Harvard,Bryce Aiken,Free Throw,9,15
+12:44,Harvard,Bryce Aiken,Missed Free Throw,9,15
+12:44,Princeton,Jerome Desrosiers,Defensive Rebound,9,15
+12:32,Princeton,Myles Stephens,Missed Three Point Jumper,9,15
+12:32,Harvard,Danilo Djuricic,Defensive Rebound,9,15
+12:22,Harvard,Bryce Aiken,Three Point Jumper,12,15
+12:07,Princeton,Devin Cannady,Layup,12,17
+12:07,Harvard,Rio Haskett,Foul,12,17
+12:07,Princeton,Devin Cannady,Missed Free Throw,12,17
+12:07,Harvard,Danilo Djuricic,Defensive Rebound,12,17
+11:55,Harvard,Noah Kirkwood,Three Point Jumper,15,17
+11:34,Harvard,Danilo Djuricic,Foul,15,17
+11:34,Princeton,None,None,15,17
+11:34,Princeton,Richmond Aririguzoh,Free Throw,15,18
+11:34,Princeton,Richmond Aririguzoh,Free Throw,15,19
+11:24,Harvard,Noah Kirkwood,Foul,15,19
+11:24,Harvard,Noah Kirkwood,Turnover,15,19
+11:18,Princeton,Sebastian Much,Foul,15,19
+11:18,Princeton,Sebastian Much,Turnover,15,19
+10:57,Princeton,Myles Stephens,Foul,15,19
+10:44,Harvard,Christian Juzang,Jumper,17,19
+10:29,Princeton,Devin Cannady,Missed Three Point Jumper,17,19
+10:29,Harvard,Robert Baker,Defensive Rebound,17,19
+10:07,Harvard,Chris Lewis,Jumper,19,19
+9:52,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,19,19
+9:52,Harvard,Chris Lewis,Defensive Rebound,19,19
+9:33,Harvard,Christian Juzang,Jumper,21,19
+9:02,Princeton,Jaelin Llewellyn,Foul,21,19
+9:02,Princeton,Jaelin Llewellyn,Turnover,21,19
+8:44,Harvard,Bryce Aiken,Turnover,21,19
+8:44,Princeton,Myles Stephens,Steal,21,19
+8:26,Princeton,Devin Cannady,Missed Three Point Jumper,21,19
+8:26,Harvard,Harvard,Defensive Rebound,21,19
+8:10,Harvard,Justin Bassey,Missed Three Point Jumper,21,19
+8:10,Harvard,Christian Juzang,Offensive Rebound,21,19
+8:06,Harvard,Christian Juzang,Missed Three Point Jumper,21,19
+8:06,Princeton,Devin Cannady,Defensive Rebound,21,19
+7:55,Princeton,Devin Cannady,Layup,21,21
+7:39,Harvard,Christian Juzang,Missed Jumper,21,21
+7:39,Princeton,Devin Cannady,Defensive Rebound,21,21
+7:30,Princeton,Richmond Aririguzoh,Dunk,21,23
+7:11,Harvard,Henry Welsh,Missed Three Point Jumper,21,23
+7:11,Harvard,Henry Welsh,Offensive Rebound,21,23
+6:56,Harvard,Christian Juzang,Missed Jumper,21,23
+6:56,Princeton,Richmond Aririguzoh,Defensive Rebound,21,23
+6:51,Princeton,Ryan Schwieger,Foul,21,23
+6:51,Princeton,Ryan Schwieger,Turnover,21,23
+6:51,Princeton,None,None,21,23
+6:39,Harvard,Henry Welsh,Missed Jumper,21,23
+6:39,Princeton,Devin Cannady,Defensive Rebound,21,23
+6:20,Princeton,Richmond Aririguzoh,Missed Layup,21,23
+6:20,Harvard,Henry Welsh,Block,21,23
+6:20,Harvard,Harvard,Defensive Rebound,21,23
+6:05,Harvard,Chris Lewis,Missed Jumper,21,23
+6:05,Princeton,Richmond Aririguzoh,Defensive Rebound,21,23
+5:54,Princeton,Jose Morales,Missed Layup,21,23
+5:54,Harvard,Chris Lewis,Block,21,23
+5:52,Harvard,Noah Kirkwood,Defensive Rebound,21,23
+5:49,Harvard,Bryce Aiken,Layup,23,23
+5:25,Princeton,Devin Cannady,Missed Three Point Jumper,23,23
+5:25,Princeton,Jose Morales,Offensive Rebound,23,23
+5:20,Princeton,Jose Morales,Turnover,23,23
+5:10,Princeton,Richmond Aririguzoh,Foul,23,23
+5:10,Harvard,Justin Bassey,Free Throw,24,23
+5:10,Harvard,Justin Bassey,Free Throw,25,23
+4:47,Princeton,Richmond Aririguzoh,Turnover,25,23
+4:46,Harvard,Justin Bassey,Steal,25,23
+4:33,Harvard,Justin Bassey,Layup,27,23
+4:32,Princeton,None,None,27,23
+4:17,Harvard,Chris Lewis,Foul,27,23
+4:08,Princeton,Myles Stephens,Missed Jumper,27,23
+4:08,Harvard,Justin Bassey,Defensive Rebound,27,23
+3:54,Princeton,None,None,27,23
+3:45,Harvard,Bryce Aiken,Missed Three Point Jumper,27,23
+3:45,Princeton,Jerome Desrosiers,Defensive Rebound,27,23
+3:12,Princeton,Princeton ,Turnover,27,23
+2:55,Harvard,Noah Kirkwood,Jumper,29,23
+2:37,Princeton,Myles Stephens,Layup,29,25
+2:12,Harvard,Noah Kirkwood,Three Point Jumper,32,25
+1:51,Harvard,Bryce Aiken,Foul,32,25
+1:36,Princeton,Jaelin Llewellyn,Three Point Jumper,32,28
+1:17,Harvard,Henry Welsh,Missed Jumper,32,28
+1:17,Princeton,Jerome Desrosiers,Defensive Rebound,32,28
+1:04,Princeton,Sebastian Much,Turnover,32,28
+0:47,Harvard,Rio Haskett,Turnover,32,28
+0:41,Princeton,Sebastian Much,Three Point Jumper,32,31
+0:06,Princeton,Myles Stephens,Foul,32,31
+0:06,Harvard,Bryce Aiken,Missed Free Throw,32,31
+0:06,Harvard,None,Team Rebound,32,31
+0:06,Harvard,Bryce Aiken,Free Throw,33,31
+0:02,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,33,31
+0:02,Harvard,Robert Baker,Defensive Rebound,33,31
+0:00,Princeton,None,None,33,31
+19:48,Harvard,Chris Lewis,Missed Jumper,33,31
+19:48,Princeton,Richmond Aririguzoh,Defensive Rebound,33,31
+19:47,Harvard,Chris Lewis,Foul,33,31
+19:34,Princeton,Jaelin Llewellyn,Jumper,33,33
+19:15,Harvard,Bryce Aiken,Turnover,33,33
+19:15,Princeton,Myles Stephens,Steal,33,33
+19:04,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,33,33
+19:04,Harvard,Justin Bassey,Defensive Rebound,33,33
+18:42,Harvard,Chris Lewis,Jumper,35,33
+18:33,Princeton,Jerome Desrosiers,Turnover,35,33
+18:32,Harvard,Christian Juzang,Steal,35,33
+18:27,Harvard,Bryce Aiken,Jumper,37,33
+18:08,Princeton,Jerome Desrosiers,Layup,37,35
+17:47,Harvard,Robert Baker,Three Point Jumper,40,35
+17:27,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,40,35
+17:27,Princeton,Richmond Aririguzoh,Offensive Rebound,40,35
+17:17,Harvard,Robert Baker,Foul,40,35
+17:17,Princeton,Devin Cannady,Free Throw,40,36
+17:17,Princeton,Devin Cannady,Free Throw,40,37
+17:01,Harvard,Bryce Aiken,Layup,42,37
+16:48,Princeton,Sebastian Much,Three Point Jumper,42,40
+16:20,Princeton,Richmond Aririguzoh,Foul,42,40
+16:20,Harvard,Chris Lewis,Missed Free Throw,42,40
+16:20,Harvard,None,Team Rebound,42,40
+16:20,Harvard,Chris Lewis,Free Throw,43,40
+15:51,Harvard,Noah Kirkwood,Foul,43,40
+15:51,Princeton,None,None,43,40
+15:51,Princeton,Devin Cannady,Free Throw,43,41
+15:51,Princeton,Devin Cannady,Free Throw,43,42
+15:28,Harvard,Christian Juzang,Three Point Jumper,46,42
+15:10,Princeton,Sebastian Much,Three Point Jumper,46,45
+14:49,Harvard,Henry Welsh,Foul,46,45
+14:49,Harvard,Henry Welsh,Turnover,46,45
+14:35,Princeton,Max Johns,Missed Jumper,46,45
+14:35,Harvard,Robert Baker,Block,46,45
+14:35,Princeton,Princeton,Offensive Rebound,46,45
+14:24,Princeton,Sebastian Much,Missed Three Point Jumper,46,45
+14:24,Harvard,Robert Baker,Block,46,45
+14:22,Princeton,Devin Cannady,Offensive Rebound,46,45
+14:19,Princeton,Devin Cannady,Missed Layup,46,45
+14:19,Harvard,Bryce Aiken,Defensive Rebound,46,45
+14:11,Harvard,Bryce Aiken,Missed Three Point Jumper,46,45
+14:11,Harvard,Christian Juzang,Offensive Rebound,46,45
+14:01,Harvard,Bryce Aiken,Missed Layup,46,45
+14:01,Princeton,Sebastian Much,Defensive Rebound,46,45
+13:38,Princeton,Sebastian Much,Layup,46,47
+13:13,Princeton,Jaelin Llewellyn,Foul,46,47
+13:08,Harvard,Christian Juzang,Missed Jumper,46,47
+13:08,Princeton,Devin Cannady,Defensive Rebound,46,47
+12:57,Harvard,Chris Lewis,Foul,46,47
+12:57,Princeton,Myles Stephens,Free Throw,46,48
+12:57,Princeton,Myles Stephens,Free Throw,46,49
+12:45,Harvard,Robert Baker,Missed Three Point Jumper,46,49
+12:45,Princeton,Myles Stephens,Defensive Rebound,46,49
+12:20,Princeton,Myles Stephens,Missed Jumper,46,49
+12:20,Princeton,Richmond Aririguzoh,Offensive Rebound,46,49
+12:16,Harvard,Robert Baker,Foul,46,49
+12:16,Princeton,Richmond Aririguzoh,Missed Free Throw,46,49
+12:16,Princeton,None,Team Rebound,46,49
+12:16,Princeton,Richmond Aririguzoh,Missed Free Throw,46,49
+12:16,Harvard,Robert Baker,Defensive Rebound,46,49
+12:01,Harvard,Robert Baker,Turnover,46,49
+12:01,Princeton,Jose Morales,Steal,46,49
+11:56,Princeton,Jose Morales,Turnover,46,49
+11:56,Harvard,Noah Kirkwood,Steal,46,49
+11:52,Harvard,Noah Kirkwood,Layup,48,49
+11:34,Princeton,Devin Cannady,Three Point Jumper,48,52
+11:15,Harvard,Justin Bassey,Missed Layup,48,52
+11:15,Princeton,Devin Cannady,Block,48,52
+11:15,Harvard,Noah Kirkwood,Offensive Rebound,48,52
+11:12,Princeton,Jose Morales,Foul,48,52
+11:12,Princeton,None,None,48,52
+11:05,Harvard,Noah Kirkwood,Missed Three Point Jumper,48,52
+11:05,Princeton,Jaelin Llewellyn,Defensive Rebound,48,52
+10:44,Princeton,Myles Stephens,Missed Jumper,48,52
+10:44,Harvard,Christian Juzang,Defensive Rebound,48,52
+10:29,Harvard,Noah Kirkwood,Missed Layup,48,52
+10:29,Princeton,Richmond Aririguzoh,Block,48,52
+10:27,Harvard,Henry Welsh,Offensive Rebound,48,52
+10:23,Harvard,Henry Welsh,Turnover,48,52
+10:23,Princeton,Devin Cannady,Steal,48,52
+10:23,Harvard,Noah Kirkwood,Foul,48,52
+10:23,Princeton,Devin Cannady,Missed Free Throw,48,52
+10:23,Harvard,Justin Bassey,Defensive Rebound,48,52
+10:11,Harvard,Bryce Aiken,Missed Layup,48,52
+10:11,Princeton,Richmond Aririguzoh,Defensive Rebound,48,52
+10:03,Princeton,Devin Cannady,Missed Three Point Jumper,48,52
+10:03,Princeton,Jaelin Llewellyn,Offensive Rebound,48,52
+9:53,Princeton,Sebastian Much,Foul,48,52
+9:53,Princeton,Sebastian Much,Turnover,48,52
+9:33,Harvard,Noah Kirkwood,Missed Layup,48,52
+9:33,Harvard,Chris Lewis,Offensive Rebound,48,52
+9:21,Harvard,Chris Lewis,Missed Layup,48,52
+9:21,Harvard,Chris Lewis,Offensive Rebound,48,52
+9:13,Harvard,Christian Juzang,Missed Three Point Jumper,48,52
+9:13,Princeton,Myles Stephens,Defensive Rebound,48,52
+8:53,Princeton,Sebastian Much,Missed Three Point Jumper,48,52
+8:53,Princeton,Princeton,Offensive Rebound,48,52
+8:33,Princeton,Richmond Aririguzoh,Layup,48,54
+8:20,Harvard,Christian Juzang,Missed Jumper,48,54
+8:20,Harvard,Justin Bassey,Offensive Rebound,48,54
+8:10,Harvard,Bryce Aiken,Layup,50,54
+8:08,Harvard,None,None,50,54
+8:08,Princeton,None,None,50,54
+7:53,Princeton,Richmond Aririguzoh,Layup,50,56
+7:36,Harvard,Bryce Aiken,Three Point Jumper,53,56
+7:34,Princeton,Jose Morales,Foul,53,56
+7:34,Princeton,None,None,53,56
+7:34,Harvard,Bryce Aiken,Free Throw,54,56
+7:14,Princeton,Sebastian Much,Missed Jumper,54,56
+7:14,Harvard,Chris Lewis,Defensive Rebound,54,56
+6:52,Harvard,Noah Kirkwood,Three Point Jumper,57,56
+6:34,Princeton,Richmond Aririguzoh,Turnover,57,56
+6:12,Harvard,Chris Lewis,Jumper,59,56
+6:02,Princeton,None,None,59,56
+5:53,Princeton,Max Johns,Three Point Jumper,59,59
+5:39,Princeton,Sebastian Much,Foul,59,59
+5:39,Harvard,Bryce Aiken,Free Throw,60,59
+5:39,Harvard,Bryce Aiken,Free Throw,61,59
+5:27,Princeton,Jaelin Llewellyn,Missed Layup,61,59
+5:27,Harvard,Chris Lewis,Defensive Rebound,61,59
+5:17,Harvard,Bryce Aiken,Three Point Jumper,64,59
+5:01,Harvard,Chris Lewis,Foul,64,59
+5:01,Princeton,Richmond Aririguzoh,Free Throw,64,60
+5:01,Princeton,Richmond Aririguzoh,Missed Free Throw,64,60
+5:01,Harvard,Noah Kirkwood,Defensive Rebound,64,60
+4:41,Harvard,Bryce Aiken,Three Point Jumper,67,60
+4:18,Princeton,Richmond Aririguzoh,Missed Jumper,67,60
+4:18,Harvard,Noah Kirkwood,Defensive Rebound,67,60
+3:53,Harvard,Noah Kirkwood,Three Point Jumper,70,60
+3:32,Princeton,Sebastian Much,Missed Jumper,70,60
+3:32,Princeton,Richmond Aririguzoh,Offensive Rebound,70,60
+3:24,Princeton,Richmond Aririguzoh,Layup,70,62
+3:23,Princeton,None,None,70,62
+3:23,Princeton,None,None,70,62
+2:56,Harvard,Noah Kirkwood,Missed Layup,70,62
+2:56,Princeton,Richmond Aririguzoh,Defensive Rebound,70,62
+2:40,Harvard,Noah Kirkwood,Foul,70,62
+2:40,Princeton,Myles Stephens,Free Throw,70,63
+2:40,Princeton,Myles Stephens,Free Throw,70,64
+2:14,Harvard,Bryce Aiken,Layup,72,64
+2:01,Princeton,Myles Stephens,Missed Three Point Jumper,72,64
+2:01,Harvard,Christian Juzang,Defensive Rebound,72,64
+1:58,Princeton,Jaelin Llewellyn,Foul,72,64
+1:58,Harvard,Christian Juzang,Missed Free Throw,72,64
+1:58,Princeton,Richmond Aririguzoh,Defensive Rebound,72,64
+1:52,Princeton,Devin Cannady,Missed Three Point Jumper,72,64
+1:52,Harvard,Justin Bassey,Defensive Rebound,72,64
+1:26,Harvard,Justin Bassey,Missed Three Point Jumper,72,64
+1:26,Princeton,Richmond Aririguzoh,Defensive Rebound,72,64
+1:16,Princeton,Jaelin Llewellyn,Missed Jumper,72,64
+1:16,Harvard,Christian Juzang,Defensive Rebound,72,64
+1:00,Princeton,Myles Stephens,Foul,72,64
+1:00,Harvard,Bryce Aiken,Free Throw,73,64
+1:00,Harvard,Bryce Aiken,Free Throw,74,64
+0:51,Princeton,Devin Cannady,Layup,74,66
+0:38,Princeton,Devin Cannady,Foul,74,66
+0:38,Harvard,Noah Kirkwood,Missed Free Throw,74,66
+0:38,Princeton,Myles Stephens,Defensive Rebound,74,66
+0:32,Princeton,Myles Stephens,Layup,74,68
+0:31,Princeton,None,None,74,68
+0:28,Princeton,Max Johns,Foul,74,68
+0:28,Harvard,Justin Bassey,Free Throw,75,68
+0:28,Harvard,Justin Bassey,Free Throw,76,68
+0:22,Harvard,Justin Bassey,Foul,76,68
+0:22,Princeton,Jaelin Llewellyn,Missed Free Throw,76,68
+0:22,Princeton,None,Team Rebound,76,68
+0:22,Princeton,Jaelin Llewellyn,Free Throw,76,69
+0:17,Princeton,None,None,76,69
+0:16,Princeton,Myles Stephens,Foul,76,69
+0:16,Harvard,Bryce Aiken,Free Throw,77,69
+0:16,Harvard,Bryce Aiken,Free Throw,78,69
+0:11,Princeton,Devin Cannady,Missed Dunk,78,69
+0:11,Harvard,Bryce Aiken,Defensive Rebound,78,69
+0:00,Princeton,None,None,78,69

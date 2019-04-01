@@ -1,0 +1,367 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas Tech,None,None,0,0
+19:34,Texas Tech,Davide Moretti,Jumper,0,2
+19:34,West Virginia,None,None,0,2
+19:05,West Virginia,Lamont West,Turnover,0,2
+19:05,Texas Tech,Jarrett Culver,Steal,0,2
+19:00,Texas Tech,Jarrett Culver,Dunk,0,4
+18:27,Texas Tech,Norense Odiase,Foul,0,4
+18:27,West Virginia,Derek Culver,Free Throw,1,4
+18:27,West Virginia,Derek Culver,Free Throw,2,4
+18:14,Texas Tech,Jarrett Culver,Turnover,2,4
+18:14,West Virginia,Jordan McCabe,Steal,2,4
+18:10,West Virginia,Lamont West,Missed Dunk,2,4
+18:10,West Virginia,Jordan McCabe,Offensive Rebound,2,4
+18:03,West Virginia,Emmitt Matthews Jr.,Three Point Jumper,5,4
+17:42,Texas Tech,Davide Moretti,Three Point Jumper,5,7
+17:23,West Virginia,Derek Culver,Missed Layup,5,7
+17:23,West Virginia,Jermaine Haley,Offensive Rebound,5,7
+17:18,West Virginia,Jermaine Haley,Missed Layup,5,7
+17:18,Texas Tech,Texas Tech,Defensive Rebound,5,7
+17:00,Texas Tech,Jarrett Culver,Missed Three Point Jumper,5,7
+17:00,West Virginia,Derek Culver,Defensive Rebound,5,7
+16:54,West Virginia,Jermaine Haley,Missed Layup,5,7
+16:54,West Virginia,Jermaine Haley,Offensive Rebound,5,7
+16:50,West Virginia,Jermaine Haley,Layup,7,7
+16:28,Texas Tech,Davide Moretti,Turnover,7,7
+16:28,West Virginia,Derek Culver,Steal,7,7
+16:12,West Virginia,Emmitt Matthews Jr.,Dunk,9,7
+16:00,Texas Tech,None,None,9,7
+15:49,Texas Tech,Brandone Francis,Missed Layup,9,7
+15:49,West Virginia,Emmitt Matthews Jr.,Block,9,7
+15:49,West Virginia,Logan Routt,Defensive Rebound,9,7
+15:39,West Virginia,Logan Routt,Layup,11,7
+15:20,West Virginia,Lamont West,Foul,11,7
+15:20,Texas Tech,Tariq Owens,Free Throw,11,8
+15:20,Texas Tech,Tariq Owens,Free Throw,11,9
+15:05,West Virginia,Jordan McCabe,Missed Layup,11,9
+15:05,West Virginia,Logan Routt,Offensive Rebound,11,9
+14:58,West Virginia,Logan Routt,Missed Layup,11,9
+14:58,West Virginia,Logan Routt,Offensive Rebound,11,9
+14:53,West Virginia,Logan Routt,Missed Layup,11,9
+14:53,Texas Tech,Norense Odiase,Block,11,9
+14:53,West Virginia,Logan Routt,Offensive Rebound,11,9
+14:53,West Virginia,Jordan McCabe,Missed Three Point Jumper,11,9
+14:53,Texas Tech,Davide Moretti,Defensive Rebound,11,9
+14:53,West Virginia,Logan Routt,Foul,11,9
+14:46,Texas Tech,Jarrett Culver,Missed Jumper,11,9
+14:46,West Virginia,Lamont West,Defensive Rebound,11,9
+14:22,West Virginia,Lamont West,Turnover,11,9
+14:11,Texas Tech,Deshawn Corprew,Missed Jumper,11,9
+14:11,West Virginia,Jermaine Haley,Defensive Rebound,11,9
+13:59,West Virginia,Jordan McCabe,Three Point Jumper,14,9
+13:38,Texas Tech,Matt Mooney,Turnover,14,9
+13:38,West Virginia,Jordan McCabe,Steal,14,9
+13:29,West Virginia,Emmitt Matthews Jr.,Missed Three Point Jumper,14,9
+13:29,Texas Tech,Kyler Edwards,Defensive Rebound,14,9
+13:14,Texas Tech,Deshawn Corprew,Turnover,14,9
+13:14,West Virginia,Jermaine Haley,Steal,14,9
+13:10,West Virginia,Jermaine Haley,Dunk,16,9
+12:53,West Virginia,Jermaine Haley,Foul,16,9
+12:48,Texas Tech,Matt Mooney,Missed Three Point Jumper,16,9
+12:48,West Virginia,Derek Culver,Defensive Rebound,16,9
+12:30,West Virginia,Brandon Knapper,Turnover,16,9
+12:30,Texas Tech,Davide Moretti,Steal,16,9
+12:12,West Virginia,Derek Culver,Foul,16,9
+12:04,West Virginia,Brandon Knapper,Foul,16,9
+11:57,Texas Tech,Jarrett Culver,Layup,16,11
+11:46,West Virginia,Lamont West,Three Point Jumper,19,11
+11:29,Texas Tech,Tariq Owens,Missed Jumper,19,11
+11:29,West Virginia,Derek Culver,Block,19,11
+11:29,West Virginia,Brandon Knapper,Defensive Rebound,19,11
+11:23,West Virginia,Chase Harler,Layup,21,11
+11:22,Texas Tech,None,None,21,11
+11:22,Texas Tech,None,None,21,11
+11:09,Texas Tech,Brandone Francis,Missed Three Point Jumper,21,11
+11:09,West Virginia,Derek Culver,Defensive Rebound,21,11
+10:57,West Virginia,None,None,21,11
+10:57,West Virginia,Jordan McCabe,Turnover,21,11
+10:57,Texas Tech,Jarrett Culver,Steal,21,11
+10:38,Texas Tech,Matt Mooney,Turnover,21,11
+10:38,West Virginia,Lamont West,Steal,21,11
+10:24,West Virginia,Brandon Knapper,Missed Jumper,21,11
+10:24,West Virginia,Derek Culver,Offensive Rebound,21,11
+10:20,West Virginia,Derek Culver,Layup,23,11
+9:59,Texas Tech,Jarrett Culver,Missed Three Point Jumper,23,11
+9:59,West Virginia,Jordan McCabe,Defensive Rebound,23,11
+9:52,West Virginia,Lamont West,Three Point Jumper,26,11
+9:39,Texas Tech,Matt Mooney,Missed Layup,26,11
+9:39,West Virginia,Derek Culver,Defensive Rebound,26,11
+9:24,West Virginia,Brandon Knapper,Jumper,28,11
+9:24,Texas Tech,None,None,28,11
+9:13,Texas Tech,Matt Mooney,Missed Jumper,28,11
+9:13,West Virginia,Andrew Gordon,Defensive Rebound,28,11
+9:09,Texas Tech,Norense Odiase,Foul,28,11
+8:55,West Virginia,Andrew Gordon,Missed Jumper,28,11
+8:55,Texas Tech,Avery Benson,Defensive Rebound,28,11
+8:48,Texas Tech,None,None,28,11
+8:21,Texas Tech,Jarrett Culver,Missed Jumper,28,11
+8:21,West Virginia,Jermaine Haley,Defensive Rebound,28,11
+8:13,West Virginia,Jermaine Haley,Turnover,28,11
+8:13,Texas Tech,Jarrett Culver,Steal,28,11
+8:00,Texas Tech,Davide Moretti,Missed Jumper,28,11
+8:00,West Virginia,Brandon Knapper,Defensive Rebound,28,11
+7:55,Texas Tech,Tariq Owens,Foul,28,11
+7:55,Texas Tech,None,None,28,11
+7:51,West Virginia,Emmitt Matthews Jr.,Turnover,28,11
+7:51,Texas Tech,Deshawn Corprew,Steal,28,11
+7:44,Texas Tech,Davide Moretti,Missed Three Point Jumper,28,11
+7:44,West Virginia,Jermaine Haley,Defensive Rebound,28,11
+7:35,West Virginia,Jordan McCabe,Turnover,28,11
+7:35,Texas Tech,Davide Moretti,Steal,28,11
+7:09,Texas Tech,Deshawn Corprew,Jumper,28,13
+6:49,Texas Tech,Davide Moretti,Foul,28,13
+6:39,West Virginia,Jordan McCabe,Missed Jumper,28,13
+6:39,Texas Tech,Deshawn Corprew,Defensive Rebound,28,13
+6:23,Texas Tech,Jarrett Culver,Layup,28,15
+6:08,West Virginia,Jordan McCabe,Missed Jumper,28,15
+6:08,West Virginia,Emmitt Matthews Jr.,Offensive Rebound,28,15
+6:03,West Virginia,Lamont West,Missed Three Point Jumper,28,15
+6:03,West Virginia,Emmitt Matthews Jr.,Offensive Rebound,28,15
+5:59,West Virginia,Emmitt Matthews Jr.,Layup,30,15
+5:37,Texas Tech,Matt Mooney,Three Point Jumper,30,18
+5:25,Texas Tech,None,None,30,18
+5:25,West Virginia,None,None,30,18
+5:15,West Virginia,Emmitt Matthews Jr.,Layup,32,18
+5:15,Texas Tech,Brandone Francis,Foul,32,18
+5:15,West Virginia,Emmitt Matthews Jr.,Free Throw,33,18
+4:52,Texas Tech,Kyler Edwards,Jumper,33,20
+4:31,West Virginia,Jermaine Haley,Turnover,33,20
+4:19,Texas Tech,Matt Mooney,Missed Three Point Jumper,33,20
+4:19,Texas Tech,Norense Odiase,Offensive Rebound,33,20
+4:11,Texas Tech,Brandone Francis,Three Point Jumper,33,23
+3:50,West Virginia,Brandon Knapper,Turnover,33,23
+3:50,Texas Tech,None,None,33,23
+3:50,Texas Tech,Matt Mooney,Steal,33,23
+3:50,Texas Tech,None,None,33,23
+3:41,Texas Tech,Matt Mooney,Missed Layup,33,23
+3:41,Texas Tech,Norense Odiase,Offensive Rebound,33,23
+3:36,Texas Tech,Norense Odiase,Dunk,33,25
+3:15,West Virginia,Derek Culver,Turnover,33,25
+2:49,West Virginia,Jordan McCabe,Foul,33,25
+2:49,Texas Tech,Matt Mooney,Free Throw,33,26
+2:49,Texas Tech,Matt Mooney,Free Throw,33,27
+2:39,West Virginia,Lamont West,Missed Layup,33,27
+2:39,Texas Tech,Tariq Owens,Block,33,27
+2:39,Texas Tech,Jarrett Culver,Defensive Rebound,33,27
+2:28,Texas Tech,Jarrett Culver,Turnover,33,27
+2:11,West Virginia,Derek Culver,Missed Dunk,33,27
+2:11,Texas Tech,Tariq Owens,Defensive Rebound,33,27
+1:51,West Virginia,Emmitt Matthews Jr.,Foul,33,27
+1:51,Texas Tech,Tariq Owens,Free Throw,33,28
+1:51,Texas Tech,Tariq Owens,Free Throw,33,29
+1:42,West Virginia,Emmitt Matthews Jr.,Missed Layup,33,29
+1:42,West Virginia,Derek Culver,Offensive Rebound,33,29
+1:35,West Virginia,Derek Culver,Missed Layup,33,29
+1:35,West Virginia,Emmitt Matthews Jr.,Offensive Rebound,33,29
+1:30,West Virginia,Emmitt Matthews Jr.,Missed Layup,33,29
+1:30,Texas Tech,Jarrett Culver,Defensive Rebound,33,29
+1:21,Texas Tech,Jarrett Culver,Missed Three Point Jumper,33,29
+1:21,West Virginia,Lamont West,Defensive Rebound,33,29
+1:14,West Virginia,Jordan McCabe,Missed Layup,33,29
+1:14,West Virginia,Derek Culver,Offensive Rebound,33,29
+1:13,Texas Tech,Brandone Francis,Foul,33,29
+0:57,West Virginia,Emmitt Matthews Jr.,Jumper,35,29
+0:46,Texas Tech,Matt Mooney,Turnover,35,29
+0:46,West Virginia,Emmitt Matthews Jr.,Steal,35,29
+0:38,West Virginia,Emmitt Matthews Jr.,Dunk,37,29
+0:38,Texas Tech,Tariq Owens,Foul,37,29
+0:38,West Virginia,Emmitt Matthews Jr.,Free Throw,38,29
+0:10,Texas Tech,Jarrett Culver,Turnover,38,29
+0:03,West Virginia,Jordan McCabe,Missed Three Point Jumper,38,29
+0:03,Texas Tech,Tariq Owens,Defensive Rebound,38,29
+0:00,Texas Tech,None,None,38,29
+20:00,West Virginia,None,None,38,29
+19:52,Texas Tech,Norense Odiase,Foul,38,29
+19:42,West Virginia,Lamont West,Missed Jumper,38,29
+19:42,West Virginia,Emmitt Matthews Jr.,Offensive Rebound,38,29
+19:36,West Virginia,Lamont West,Jumper,40,29
+19:22,Texas Tech,Davide Moretti,Layup,40,31
+19:11,West Virginia,Jordan McCabe,Missed Layup,40,31
+19:11,Texas Tech,Norense Odiase,Block,40,31
+19:11,West Virginia,West Virginia,Offensive Rebound,40,31
+18:52,West Virginia,Derek Culver,Missed Jumper,40,31
+18:52,West Virginia,Emmitt Matthews Jr.,Offensive Rebound,40,31
+18:51,Texas Tech,Matt Mooney,Foul,40,31
+18:51,West Virginia,Emmitt Matthews Jr.,Free Throw,41,31
+18:51,West Virginia,Emmitt Matthews Jr.,Free Throw,42,31
+18:33,Texas Tech,Davide Moretti,Turnover,42,31
+18:33,West Virginia,Brandon Knapper,Steal,42,31
+18:26,West Virginia,Brandon Knapper,Missed Three Point Jumper,42,31
+18:26,West Virginia,West Virginia,Offensive Rebound,42,31
+18:19,West Virginia,Emmitt Matthews Jr.,Missed Three Point Jumper,42,31
+18:19,Texas Tech,Jarrett Culver,Defensive Rebound,42,31
+17:56,West Virginia,Lamont West,Foul,42,31
+17:42,Texas Tech,Brandone Francis,Turnover,42,31
+17:30,West Virginia,Brandon Knapper,Turnover,42,31
+17:30,Texas Tech,Davide Moretti,Steal,42,31
+17:23,Texas Tech,Davide Moretti,Turnover,42,31
+17:23,West Virginia,Jermaine Haley,Steal,42,31
+17:14,West Virginia,Jermaine Haley,Turnover,42,31
+17:04,Texas Tech,Tariq Owens,Dunk,42,33
+16:36,West Virginia,Emmitt Matthews Jr.,Jumper,44,33
+16:21,Texas Tech,Jarrett Culver,Turnover,44,33
+16:21,West Virginia,Jordan McCabe,Steal,44,33
+16:15,Texas Tech,Matt Mooney,Foul,44,33
+16:15,West Virginia,Jermaine Haley,Free Throw,45,33
+16:15,West Virginia,Jermaine Haley,Free Throw,46,33
+16:06,West Virginia,Lamont West,Foul,46,33
+16:06,Texas Tech,Jarrett Culver,Free Throw,46,34
+16:06,Texas Tech,Jarrett Culver,Missed Free Throw,46,34
+16:06,West Virginia,Derek Culver,Defensive Rebound,46,34
+15:59,West Virginia,Emmitt Matthews Jr.,Turnover,46,34
+15:59,Texas Tech,Jarrett Culver,Steal,46,34
+15:52,West Virginia,Derek Culver,Foul,46,34
+15:52,Texas Tech,None,None,46,34
+15:52,Texas Tech,Jarrett Culver,Free Throw,46,35
+15:52,Texas Tech,Jarrett Culver,Free Throw,46,36
+15:35,West Virginia,Derek Culver,Missed Jumper,46,36
+15:35,West Virginia,Emmitt Matthews Jr.,Offensive Rebound,46,36
+15:30,West Virginia,Emmitt Matthews Jr.,Layup,48,36
+15:10,Texas Tech,Jarrett Culver,Missed Jumper,48,36
+15:10,Texas Tech,Matt Mooney,Offensive Rebound,48,36
+15:03,Texas Tech,Matt Mooney,Turnover,48,36
+15:03,West Virginia,Chase Harler,Steal,48,36
+14:48,West Virginia,Jordan McCabe,Jumper,50,36
+14:18,Texas Tech,Jarrett Culver,Jumper,50,38
+13:55,West Virginia,Jermaine Haley,Foul,50,38
+13:55,West Virginia,Jermaine Haley,Turnover,50,38
+13:43,Texas Tech,Davide Moretti,Missed Layup,50,38
+13:43,Texas Tech,Tariq Owens,Offensive Rebound,50,38
+13:39,Texas Tech,Tariq Owens,Layup,50,40
+13:31,West Virginia,Jordan McCabe,Layup,52,40
+13:31,Texas Tech,Kyler Edwards,Foul,52,40
+13:31,West Virginia,Jordan McCabe,Free Throw,53,40
+13:18,West Virginia,Chase Harler,Foul,53,40
+13:18,Texas Tech,Brandone Francis,Turnover,53,40
+13:18,West Virginia,Jordan McCabe,Steal,53,40
+13:08,West Virginia,Lamont West,Missed Three Point Jumper,53,40
+13:08,Texas Tech,Jarrett Culver,Defensive Rebound,53,40
+13:02,Texas Tech,Jarrett Culver,Layup,53,42
+12:37,West Virginia,Chase Harler,Layup,55,42
+12:25,Texas Tech,Tariq Owens,Dunk,55,44
+12:11,West Virginia,Chase Harler,Three Point Jumper,58,44
+11:50,Texas Tech,None,None,58,44
+11:39,Texas Tech,Norense Odiase,Missed Jumper,58,44
+11:39,West Virginia,Emmitt Matthews Jr.,Defensive Rebound,58,44
+11:16,West Virginia,Jermaine Haley,Turnover,58,44
+11:16,Texas Tech,Norense Odiase,Steal,58,44
+11:12,Texas Tech,Matt Mooney,Three Point Jumper,58,47
+10:53,Texas Tech,Davide Moretti,Foul,58,47
+10:46,West Virginia,Lamont West,Missed Jumper,58,47
+10:46,Texas Tech,Brandone Francis,Defensive Rebound,58,47
+10:37,Texas Tech,Matt Mooney,Missed Layup,58,47
+10:37,West Virginia,Logan Routt,Block,58,47
+10:37,West Virginia,Lamont West,Defensive Rebound,58,47
+10:24,West Virginia,Lamont West,Missed Layup,58,47
+10:24,Texas Tech,Tariq Owens,Block,58,47
+10:24,Texas Tech,Jarrett Culver,Defensive Rebound,58,47
+10:09,Texas Tech,Tariq Owens,Turnover,58,47
+10:09,West Virginia,Emmitt Matthews Jr.,Steal,58,47
+10:07,Texas Tech,Tariq Owens,Foul,58,47
+10:07,West Virginia,Logan Routt,Missed Free Throw,58,47
+10:07,West Virginia,None,Team Rebound,58,47
+10:07,West Virginia,Logan Routt,Missed Free Throw,58,47
+10:07,Texas Tech,Jarrett Culver,Defensive Rebound,58,47
+9:56,Texas Tech,Davide Moretti,Missed Three Point Jumper,58,47
+9:56,West Virginia,Lamont West,Defensive Rebound,58,47
+9:38,West Virginia,Emmitt Matthews Jr.,Jumper,60,47
+9:18,West Virginia,Emmitt Matthews Jr.,Foul,60,47
+9:11,Texas Tech,Matt Mooney,Missed Jumper,60,47
+9:11,Texas Tech,Tariq Owens,Offensive Rebound,60,47
+9:07,Texas Tech,Davide Moretti,Missed Three Point Jumper,60,47
+9:07,West Virginia,Derek Culver,Defensive Rebound,60,47
+8:45,West Virginia,Jordan McCabe,Missed Jumper,60,47
+8:45,West Virginia,Jordan McCabe,Offensive Rebound,60,47
+8:33,West Virginia,Emmitt Matthews Jr.,Three Point Jumper,63,47
+8:29,West Virginia,Lamont West,Foul,63,47
+8:29,Texas Tech,Matt Mooney,Free Throw,63,48
+8:29,Texas Tech,Matt Mooney,Free Throw,63,49
+8:16,West Virginia,Jordan McCabe,Turnover,63,49
+8:16,Texas Tech,Norense Odiase,Steal,63,49
+7:56,Texas Tech,Kyler Edwards,Missed Jumper,63,49
+7:56,West Virginia,Jordan McCabe,Defensive Rebound,63,49
+7:43,West Virginia,Chase Harler,Missed Three Point Jumper,63,49
+7:43,Texas Tech,Brandone Francis,Defensive Rebound,63,49
+7:34,Texas Tech,Matt Mooney,Three Point Jumper,63,52
+7:14,West Virginia,Jordan McCabe,Missed Jumper,63,52
+7:14,Texas Tech,Texas Tech,Defensive Rebound,63,52
+7:14,Texas Tech,None,None,63,52
+7:07,Texas Tech,Jarrett Culver,Missed Jumper,63,52
+7:07,West Virginia,West Virginia,Defensive Rebound,63,52
+6:39,West Virginia,Jermaine Haley,Missed Three Point Jumper,63,52
+6:39,Texas Tech,Jarrett Culver,Defensive Rebound,63,52
+6:25,Texas Tech,Jarrett Culver,Missed Layup,63,52
+6:25,Texas Tech,Jarrett Culver,Offensive Rebound,63,52
+6:20,Texas Tech,Jarrett Culver,Layup,63,54
+6:14,West Virginia,Jordan McCabe,Missed Three Point Jumper,63,54
+6:14,Texas Tech,Davide Moretti,Defensive Rebound,63,54
+6:01,West Virginia,Jermaine Haley,Foul,63,54
+6:01,Texas Tech,Matt Mooney,Missed Free Throw,63,54
+6:01,West Virginia,Derek Culver,Defensive Rebound,63,54
+5:48,Texas Tech,Matt Mooney,Foul,63,54
+5:48,West Virginia,Jermaine Haley,Free Throw,64,54
+5:48,West Virginia,Jermaine Haley,Free Throw,65,54
+5:40,Texas Tech,Jarrett Culver,Layup,65,56
+5:20,West Virginia,Derek Culver,Missed Jumper,65,56
+5:20,Texas Tech,Texas Tech,Defensive Rebound,65,56
+5:20,West Virginia,None,None,65,56
+5:20,Texas Tech,None,None,65,56
+5:08,Texas Tech,Jarrett Culver,Missed Three Point Jumper,65,56
+5:08,West Virginia,Derek Culver,Defensive Rebound,65,56
+4:49,West Virginia,Jordan McCabe,Turnover,65,56
+4:49,Texas Tech,Jarrett Culver,Steal,65,56
+4:41,Texas Tech,Brandone Francis,Layup,65,58
+4:26,West Virginia,Jordan McCabe,Missed Jumper,65,58
+4:26,Texas Tech,Matt Mooney,Defensive Rebound,65,58
+4:19,Texas Tech,Davide Moretti,Three Point Jumper,65,61
+3:51,West Virginia,Jordan McCabe,Three Point Jumper,68,61
+3:38,West Virginia,Jermaine Haley,Foul,68,61
+3:38,Texas Tech,None,None,68,61
+3:38,Texas Tech,Tariq Owens,Free Throw,68,62
+3:38,Texas Tech,Tariq Owens,Free Throw,68,63
+3:16,West Virginia,Jordan McCabe,Missed Layup,68,63
+3:16,Texas Tech,Tariq Owens,Block,68,63
+3:16,Texas Tech,Davide Moretti,Defensive Rebound,68,63
+3:09,Texas Tech,Jarrett Culver,Dunk,68,65
+2:42,West Virginia,Jordan McCabe,Missed Three Point Jumper,68,65
+2:42,Texas Tech,Tariq Owens,Defensive Rebound,68,65
+2:40,West Virginia,Derek Culver,Foul,68,65
+2:40,Texas Tech,Tariq Owens,Free Throw,68,66
+2:40,Texas Tech,Tariq Owens,Free Throw,68,67
+2:10,West Virginia,Jordan McCabe,Missed Three Point Jumper,68,67
+2:10,Texas Tech,Jarrett Culver,Block,68,67
+2:10,Texas Tech,Jarrett Culver,Defensive Rebound,68,67
+2:03,Texas Tech,Jarrett Culver,Layup,68,69
+1:48,West Virginia,None,None,68,69
+1:38,Texas Tech,Tariq Owens,Foul,68,69
+1:38,West Virginia,Derek Culver,Free Throw,69,69
+1:38,West Virginia,Derek Culver,Free Throw,70,69
+1:28,Texas Tech,Jarrett Culver,Missed Jumper,70,69
+1:28,West Virginia,Derek Culver,Defensive Rebound,70,69
+1:06,West Virginia,Derek Culver,Missed Jumper,70,69
+1:06,West Virginia,Lamont West,Offensive Rebound,70,69
+1:04,Texas Tech,Brandone Francis,Foul,70,69
+1:04,West Virginia,Lamont West,Free Throw,71,69
+1:04,West Virginia,Lamont West,Free Throw,72,69
+0:56,Texas Tech,Jarrett Culver,Missed Layup,72,69
+0:56,Texas Tech,Jarrett Culver,Offensive Rebound,72,69
+0:52,Texas Tech,Jarrett Culver,Layup,72,71
+0:26,West Virginia,Jermaine Haley,Layup,74,71
+0:26,Texas Tech,Tariq Owens,Foul,74,71
+0:26,West Virginia,Jermaine Haley,Free Throw,75,71
+0:23,Texas Tech,Jarrett Culver,Jumper,75,73
+0:23,West Virginia,Emmitt Matthews Jr.,Foul,75,73
+0:23,Texas Tech,Jarrett Culver,Free Throw,75,74
+0:23,Texas Tech,None,None,75,74
+0:19,Texas Tech,Davide Moretti,Foul,75,74
+0:19,West Virginia,Jordan McCabe,Free Throw,76,74
+0:19,West Virginia,Jordan McCabe,Free Throw,77,74
+0:11,Texas Tech,Jarrett Culver,Missed Three Point Jumper,77,74
+0:11,West Virginia,Emmitt Matthews Jr.,Defensive Rebound,77,74
+0:08,Texas Tech,Matt Mooney,Foul,77,74
+0:08,West Virginia,Emmitt Matthews Jr.,Free Throw,78,74
+0:08,West Virginia,Emmitt Matthews Jr.,Free Throw,79,74
+0:04,Texas Tech,Jarrett Culver,Missed Three Point Jumper,79,74
+0:04,West Virginia,Derek Culver,Defensive Rebound,79,74
+0:00,Texas Tech,None,None,79,74

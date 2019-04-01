@@ -1,0 +1,345 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Jacksonville,None,None,0,0
+19:51,Jacksonville,Jace Hogan,Missed Jumper,0,0
+19:51,Indiana,Juwan Morgan,Block,0,0
+19:51,Indiana,Indiana,Defensive Rebound,0,0
+19:33,Indiana,Devonte Green,Missed Jumper,0,0
+19:33,Jacksonville,Jace Hogan,Defensive Rebound,0,0
+19:23,Jacksonville,Jace Hogan,Layup,2,0
+19:10,Indiana,Devonte Green,Turnover,2,0
+19:01,Jacksonville,Jalyn Hinton,Layup,4,0
+18:32,Indiana,Juwan Morgan,Layup,4,2
+18:16,Jacksonville,Jace Hogan,Missed Jumper,4,2
+18:16,Indiana,Juwan Morgan,Defensive Rebound,4,2
+18:10,Indiana,Justin Smith,Dunk,4,4
+17:50,Jacksonville,Jace Hogan,Missed Layup,4,4
+17:50,Jacksonville,Jalyn Hinton,Offensive Rebound,4,4
+17:45,Jacksonville,Jalyn Hinton,Missed Jumper,4,4
+17:45,Indiana,Devonte Green,Defensive Rebound,4,4
+17:32,Indiana,Devonte Green,Missed Three Point Jumper,4,4
+17:32,Jacksonville,Jalyn Hinton,Defensive Rebound,4,4
+17:21,Jacksonville,Jalyn Hinton,Missed Layup,4,4
+17:21,Indiana,Juwan Morgan,Block,4,4
+17:21,Indiana,Juwan Morgan,Defensive Rebound,4,4
+17:12,Jacksonville,Tanner Rubio,Foul,4,4
+17:12,Indiana,Devonte Green,Missed Free Throw,4,4
+17:12,Indiana,None,Team Rebound,4,4
+17:12,Indiana,Devonte Green,Free Throw,4,5
+16:53,Jacksonville,Tyreese Davis,Layup,6,5
+16:32,Indiana,Romeo Langford,Missed Three Point Jumper,6,5
+16:32,Jacksonville,Jace Hogan,Defensive Rebound,6,5
+16:14,Jacksonville,Aamahne Santos,Missed Three Point Jumper,6,5
+16:14,Indiana,Juwan Morgan,Defensive Rebound,6,5
+16:03,Indiana,Aljami Durham,Layup,6,7
+15:42,Indiana,None,None,6,7
+15:42,Indiana,Aljami Durham,Foul,6,7
+15:42,Jacksonville,Dave Bell,Missed Free Throw,6,7
+15:42,Jacksonville,None,Team Rebound,6,7
+15:42,Jacksonville,Dave Bell,Missed Free Throw,6,7
+15:42,Indiana,Romeo Langford,Defensive Rebound,6,7
+15:24,Indiana,Juwan Morgan,Layup,6,9
+15:05,Jacksonville,JD Notae,Three Point Jumper,9,9
+14:50,Indiana,Aljami Durham,Turnover,9,9
+14:50,Jacksonville,Tyreese Davis,Steal,9,9
+14:48,Jacksonville,Tyreese Davis,Three Point Jumper,12,9
+14:33,Indiana,Devonte Green,Missed Layup,12,9
+14:33,Jacksonville,JD Notae,Defensive Rebound,12,9
+14:27,Jacksonville,Aamahne Santos,Missed Three Point Jumper,12,9
+14:27,Jacksonville,Jace Hogan,Offensive Rebound,12,9
+14:22,Jacksonville,Jace Hogan,Layup,14,9
+14:03,Indiana,Aljami Durham,Three Point Jumper,14,12
+13:30,Jacksonville,Jace Hogan,Missed Jumper,14,12
+13:30,Indiana,Juwan Morgan,Defensive Rebound,14,12
+13:18,Indiana,Romeo Langford,Jumper,14,14
+12:58,Jacksonville,Dave Bell,Turnover,14,14
+12:58,Indiana,Juwan Morgan,Steal,14,14
+12:48,Jacksonville,Tyreese Davis,Foul,14,14
+12:48,Indiana,Justin Smith,Free Throw,14,15
+12:48,Indiana,Justin Smith,Missed Free Throw,14,15
+12:48,Jacksonville,Jalyn Hinton,Defensive Rebound,14,15
+12:22,Jacksonville,Jace Hogan,Missed Jumper,14,15
+12:22,Indiana,Damezi Anderson,Defensive Rebound,14,15
+12:08,Indiana,Damezi Anderson,Three Point Jumper,14,18
+11:39,Indiana,Justin Smith,Foul,14,18
+11:39,Indiana,None,None,14,18
+11:39,Jacksonville,Tyreese Davis,Free Throw,15,18
+11:39,Jacksonville,Tyreese Davis,Free Throw,16,18
+11:20,Indiana,Romeo Langford,Missed Jumper,16,18
+11:20,Jacksonville,JD Notae,Defensive Rebound,16,18
+10:59,Jacksonville,JD Notae,Missed Three Point Jumper,16,18
+10:59,Indiana,Juwan Morgan,Defensive Rebound,16,18
+10:46,Jacksonville,DeAnthony McCallum,Foul,16,18
+10:46,Indiana,Devonte Green,Free Throw,16,19
+10:46,Indiana,Devonte Green,Missed Free Throw,16,19
+10:46,Jacksonville,Jace Hogan,Defensive Rebound,16,19
+10:36,Jacksonville,Jalyn Hinton,Missed Layup,16,19
+10:36,Indiana,Juwan Morgan,Block,16,19
+10:36,Jacksonville,Jalyn Hinton,Offensive Rebound,16,19
+10:22,Jacksonville,Jace Hogan,Turnover,16,19
+10:22,Indiana,Devonte Green,Steal,16,19
+10:18,Indiana,Juwan Morgan,Dunk,16,21
+10:03,Jacksonville,Jace Hogan,Missed Layup,16,21
+10:03,Indiana,Evan Fitzner,Defensive Rebound,16,21
+9:54,Indiana,Romeo Langford,Dunk,16,23
+9:39,Indiana,Romeo Langford,Foul,16,23
+9:28,Indiana,De'Ron Davis,Foul,16,23
+9:28,Jacksonville,Dave Bell,Missed Free Throw,16,23
+9:28,Jacksonville,None,Team Rebound,16,23
+9:28,Jacksonville,Dave Bell,Free Throw,17,23
+9:19,Indiana,Damezi Anderson,Missed Three Point Jumper,17,23
+9:19,Indiana,De'Ron Davis,Offensive Rebound,17,23
+9:12,Jacksonville,Jalyn Hinton,Foul,17,23
+9:12,Indiana,Evan Fitzner,Missed Free Throw,17,23
+9:12,Indiana,None,Team Rebound,17,23
+9:12,Indiana,Evan Fitzner,Free Throw,17,24
+8:57,Jacksonville,Jalyn Hinton,Missed Layup,17,24
+8:57,Indiana,Evan Fitzner,Block,17,24
+8:57,Jacksonville,Dave Bell,Offensive Rebound,17,24
+8:49,Jacksonville,Dave Bell,Missed Jumper,17,24
+8:49,Indiana,Indiana,Defensive Rebound,17,24
+8:36,Indiana,Devonte Green,Missed Three Point Jumper,17,24
+8:36,Indiana,Juwan Morgan,Offensive Rebound,17,24
+8:33,Jacksonville,Dave Bell,Foul,17,24
+8:30,Indiana,Aljami Durham,Turnover,17,24
+8:30,Jacksonville,JD Notae,Steal,17,24
+8:19,Jacksonville,Jalyn Hinton,Turnover,17,24
+8:19,Indiana,Juwan Morgan,Steal,17,24
+8:04,Jacksonville,Bryce Workman,Foul,17,24
+7:52,Indiana,Damezi Anderson,Missed Jumper,17,24
+7:52,Jacksonville,JD Notae,Defensive Rebound,17,24
+7:43,Jacksonville,JD Notae,Turnover,17,24
+7:43,Indiana,Devonte Green,Steal,17,24
+7:38,Indiana,Aljami Durham,Dunk,17,26
+7:19,Jacksonville,JD Notae,Jumper,19,26
+7:03,Indiana,Evan Fitzner,Missed Three Point Jumper,19,26
+7:03,Jacksonville,JD Notae,Defensive Rebound,19,26
+6:46,Jacksonville,Bryce Workman,Missed Jumper,19,26
+6:46,Jacksonville,Jalyn Hinton,Offensive Rebound,19,26
+6:46,Jacksonville,None,None,21,26
+6:25,Indiana,Devonte Green,Three Point Jumper,21,29
+6:02,Jacksonville,JD Notae,Missed Three Point Jumper,21,29
+6:02,Indiana,Damezi Anderson,Defensive Rebound,21,29
+5:54,Indiana,Juwan Morgan,Turnover,21,29
+5:54,Jacksonville,JD Notae,Steal,21,29
+5:47,Jacksonville,Tanner Rubio,Missed Three Point Jumper,21,29
+5:47,Indiana,Evan Fitzner,Defensive Rebound,21,29
+5:35,Indiana,Damezi Anderson,Turnover,21,29
+5:35,Indiana,None,None,21,29
+5:25,Jacksonville,Aamahne Santos,Missed Jumper,21,29
+5:25,Indiana,Aljami Durham,Defensive Rebound,21,29
+4:58,Jacksonville,Tanner Rubio,Foul,21,29
+4:58,Indiana,Aljami Durham,Free Throw,21,30
+4:58,Indiana,Aljami Durham,Free Throw,21,31
+4:43,Jacksonville,JD Notae,Missed Three Point Jumper,21,31
+4:43,Indiana,Juwan Morgan,Defensive Rebound,21,31
+4:28,Indiana,Romeo Langford,Missed Three Point Jumper,21,31
+4:28,Jacksonville,Jalyn Hinton,Defensive Rebound,21,31
+4:04,Jacksonville,Tyreese Davis,Missed Three Point Jumper,21,31
+4:04,Indiana,Aljami Durham,Defensive Rebound,21,31
+3:49,Indiana,Romeo Langford,Jumper,21,33
+3:36,Jacksonville,JD Notae,Layup,23,33
+3:26,Indiana,Romeo Langford,Layup,23,35
+3:17,Jacksonville,Jace Hogan,Jumper,25,35
+2:46,Indiana,Juwan Morgan,Jumper,25,37
+2:30,Jacksonville,Aamahne Santos,Turnover,25,37
+2:29,Indiana,None,None,25,37
+2:19,Indiana,Aljami Durham,Three Point Jumper,25,40
+2:02,Jacksonville,Jace Hogan,Missed Jumper,25,40
+2:02,Jacksonville,JD Notae,Offensive Rebound,25,40
+2:02,Jacksonville,None,None,27,40
+1:33,Indiana,Devonte Green,Missed Three Point Jumper,27,40
+1:33,Jacksonville,Jalyn Hinton,Defensive Rebound,27,40
+1:10,Indiana,Juwan Morgan,Foul,27,40
+1:10,Jacksonville,Jace Hogan,Missed Free Throw,27,40
+1:10,Jacksonville,None,Team Rebound,27,40
+1:10,Jacksonville,Jace Hogan,Free Throw,28,40
+0:56,Indiana,Devonte Green,Missed Jumper,28,40
+0:56,Indiana,Devonte Green,Offensive Rebound,28,40
+0:51,Indiana,Justin Smith,Layup,28,42
+0:42,Jacksonville,None,None,28,42
+0:30,Indiana,Justin Smith,Foul,28,42
+0:30,Jacksonville,Jalyn Hinton,Missed Free Throw,28,42
+0:30,Jacksonville,None,Team Rebound,28,42
+0:30,Jacksonville,Jalyn Hinton,Free Throw,29,42
+0:04,Indiana,Devonte Green,Jumper,29,44
+0:00,Indiana,None,None,29,44
+20:00,Indiana,None,None,29,44
+19:48,Jacksonville,Aamahne Santos,Foul,29,44
+19:48,Indiana,Devonte Green,Free Throw,29,45
+19:48,Indiana,Devonte Green,Free Throw,29,46
+19:34,Jacksonville,Jalyn Hinton,Missed Jumper,29,46
+19:34,Indiana,Juwan Morgan,Defensive Rebound,29,46
+19:16,Indiana,Justin Smith,Layup,29,48
+18:54,Jacksonville,Jacksonville ,Turnover,29,48
+18:43,Indiana,Romeo Langford,Jumper,29,50
+18:29,Jacksonville,None,None,29,50
+18:21,Jacksonville,DeAnthony McCallum,Missed Jumper,29,50
+18:21,Indiana,Justin Smith,Block,29,50
+18:21,Indiana,Devonte Green,Defensive Rebound,29,50
+18:07,Indiana,Justin Smith,Jumper,29,52
+17:58,Jacksonville,Jace Hogan,Missed Jumper,29,52
+17:58,Indiana,Devonte Green,Defensive Rebound,29,52
+17:46,Indiana,Justin Smith,Missed Jumper,29,52
+17:46,Jacksonville,Jace Hogan,Block,29,52
+17:46,Jacksonville,Jace Hogan,Defensive Rebound,29,52
+17:37,Jacksonville,DeAnthony McCallum,Missed Three Point Jumper,29,52
+17:37,Indiana,Juwan Morgan,Defensive Rebound,29,52
+17:32,Indiana,Justin Smith,Layup,29,54
+17:17,Jacksonville,JD Notae,Missed Jumper,29,54
+17:17,Jacksonville,JD Notae,Offensive Rebound,29,54
+17:06,Indiana,Justin Smith,Foul,29,54
+17:06,Jacksonville,Jalyn Hinton,Missed Free Throw,29,54
+17:06,Jacksonville,None,Team Rebound,29,54
+17:06,Jacksonville,Jalyn Hinton,Free Throw,30,54
+16:53,Indiana,Devonte Green,Jumper,30,56
+16:42,Jacksonville,JD Notae,Turnover,30,56
+16:30,Indiana,Evan Fitzner,Turnover,30,56
+16:14,Jacksonville,JD Notae,Missed Jumper,30,56
+16:14,Jacksonville,Dave Bell,Offensive Rebound,30,56
+16:09,Indiana,Devonte Green,Foul,30,56
+15:59,Jacksonville,JD Notae,Turnover,30,56
+15:59,Indiana,None,None,30,56
+15:41,Indiana,Aljami Durham,Turnover,30,56
+15:34,Jacksonville,Tyreese Davis,Turnover,30,56
+15:26,Indiana,Evan Fitzner,Layup,30,58
+14:51,Jacksonville,Jace Hogan,Turnover,30,58
+14:33,Indiana,Aljami Durham,Missed Three Point Jumper,30,58
+14:33,Jacksonville,Jalyn Hinton,Defensive Rebound,30,58
+14:20,Indiana,Juwan Morgan,Foul,30,58
+14:20,Jacksonville,Dave Bell,Free Throw,31,58
+14:20,Jacksonville,Dave Bell,Free Throw,32,58
+14:11,Indiana,Evan Fitzner,Missed Three Point Jumper,32,58
+14:11,Jacksonville,Dave Bell,Defensive Rebound,32,58
+13:58,Indiana,De'Ron Davis,Foul,32,58
+13:56,Jacksonville,Tyreese Davis,Missed Layup,32,58
+13:56,Indiana,Romeo Langford,Block,32,58
+13:56,Indiana,Romeo Langford,Defensive Rebound,32,58
+13:50,Indiana,Romeo Langford,Turnover,32,58
+13:50,Jacksonville,Tyreese Davis,Steal,32,58
+13:44,Jacksonville,Jace Hogan,Layup,34,58
+13:31,Indiana,Damezi Anderson,Three Point Jumper,34,61
+13:09,Jacksonville,Jace Hogan,Missed Jumper,34,61
+13:09,Indiana,Evan Fitzner,Defensive Rebound,34,61
+13:03,Indiana,Damezi Anderson,Three Point Jumper,34,64
+12:59,Jacksonville,None,None,34,64
+12:50,Jacksonville,JD Notae,Missed Jumper,34,64
+12:50,Indiana,Romeo Langford,Defensive Rebound,34,64
+12:45,Indiana,De'Ron Davis,Dunk,34,66
+12:31,Jacksonville,Tyreese Davis,Jumper,36,66
+12:19,Indiana,Devonte Green,Missed Three Point Jumper,36,66
+12:19,Jacksonville,Dave Bell,Defensive Rebound,36,66
+12:03,Jacksonville,None,None,36,66
+11:57,Indiana,De'Ron Davis,Foul,36,66
+11:57,Indiana,None,None,36,66
+11:57,Jacksonville,Bryce Workman,Missed Free Throw,36,66
+11:57,Jacksonville,None,Team Rebound,36,66
+11:57,Jacksonville,Bryce Workman,Missed Free Throw,36,66
+11:57,Indiana,Damezi Anderson,Defensive Rebound,36,66
+11:30,Indiana,Aljami Durham,Jumper,36,68
+11:25,Jacksonville,Aamahne Santos,Turnover,36,68
+11:25,Indiana,Aljami Durham,Steal,36,68
+11:13,Jacksonville,Aamahne Santos,Foul,36,68
+11:07,Indiana,Devonte Green,Turnover,36,68
+10:54,Indiana,Aljami Durham,Foul,36,68
+10:42,Jacksonville,Bryce Workman,Missed Jumper,36,68
+10:42,Indiana,Juwan Morgan,Defensive Rebound,36,68
+10:25,Jacksonville,Tyreese Davis,Foul,36,68
+10:25,Indiana,Romeo Langford,Free Throw,36,69
+10:25,Indiana,Romeo Langford,Free Throw,36,70
+10:03,Indiana,Justin Smith,Foul,36,70
+10:03,Jacksonville,Dave Bell,Free Throw,37,70
+10:03,Jacksonville,Dave Bell,Free Throw,38,70
+9:52,Indiana,Justin Smith,Dunk,38,72
+9:36,Indiana,Devonte Green,Foul,38,72
+9:36,Jacksonville,JD Notae,Free Throw,39,72
+9:36,Jacksonville,JD Notae,Free Throw,40,72
+9:21,Indiana,Aljami Durham,Three Point Jumper,40,75
+9:03,Jacksonville,Dave Bell,Jumper,42,75
+8:36,Indiana,Aljami Durham,Missed Three Point Jumper,42,75
+8:36,Jacksonville,Jacksonville,Defensive Rebound,42,75
+8:14,Indiana,Devonte Green,Foul,42,75
+8:14,Jacksonville,Jalyn Hinton,Missed Free Throw,42,75
+8:14,Jacksonville,None,Team Rebound,42,75
+8:14,Jacksonville,Jalyn Hinton,Missed Free Throw,42,75
+8:14,Indiana,De'Ron Davis,Defensive Rebound,42,75
+7:59,Jacksonville,Jalyn Hinton,Foul,42,75
+7:59,Indiana,None,None,42,75
+7:58,Indiana,Juwan Morgan,Layup,42,77
+7:51,Jacksonville,Jace Hogan,Layup,44,77
+7:39,Jacksonville,JD Notae,Foul,44,77
+7:24,Indiana,De'Ron Davis,Foul,44,77
+7:24,Indiana,De'Ron Davis,Turnover,44,77
+7:10,Jacksonville,Jace Hogan,Layup,46,77
+7:01,Indiana,Romeo Langford,Three Point Jumper,46,80
+6:44,Jacksonville,Tanner Rubio,Turnover,46,80
+6:37,Jacksonville,Tyreese Davis,Foul,46,80
+6:29,Jacksonville,Tyreese Davis,Foul,46,80
+6:29,Indiana,Romeo Langford,Missed Free Throw,46,80
+6:29,Jacksonville,Jalyn Hinton,Defensive Rebound,46,80
+6:12,Jacksonville,Tyreese Davis,Missed Jumper,46,80
+6:12,Jacksonville,Jace Hogan,Offensive Rebound,46,80
+6:08,Jacksonville,Jace Hogan,Layup,48,80
+5:54,Indiana,Clifton Moore,Turnover,48,80
+5:54,Indiana,Clifton Moore,Foul,48,80
+5:46,Jacksonville,JD Notae,Three Point Jumper,51,80
+5:24,Jacksonville,Jace Hogan,Foul,51,80
+5:24,Indiana,Aljami Durham,Missed Free Throw,51,80
+5:24,Indiana,None,Team Rebound,51,80
+5:24,Indiana,Aljami Durham,Free Throw,51,81
+5:15,Jacksonville,JD Notae,Missed Layup,51,81
+5:15,Jacksonville,JD Notae,Offensive Rebound,51,81
+5:09,Indiana,Clifton Moore,Foul,51,81
+5:09,Jacksonville,JD Notae,Missed Free Throw,51,81
+5:09,Jacksonville,None,Team Rebound,51,81
+5:09,Jacksonville,JD Notae,Free Throw,52,81
+5:03,Jacksonville,JD Notae,Foul,52,81
+5:03,Indiana,Jake Forrester,Free Throw,52,82
+5:03,Indiana,Jake Forrester,Free Throw,52,83
+4:59,Jacksonville,Jace Hogan,Jumper,54,83
+4:33,Indiana,Clifton Moore,Layup,54,85
+4:24,Jacksonville,Derrick Flowers,Missed Three Point Jumper,54,85
+4:24,Indiana,Aljami Durham,Defensive Rebound,54,85
+4:04,Indiana,Jake Forrester,Layup,54,87
+4:04,Jacksonville,Derrick Flowers,Foul,54,87
+4:04,Indiana,Jake Forrester,Missed Free Throw,54,87
+4:04,Jacksonville,Jalyn Hinton,Defensive Rebound,54,87
+3:53,Indiana,Aljami Durham,Foul,54,87
+3:53,Indiana,None,None,54,87
+3:53,Jacksonville,JD Notae,Missed Free Throw,54,87
+3:53,Jacksonville,None,Team Rebound,54,87
+3:53,Jacksonville,JD Notae,Missed Free Throw,54,87
+3:53,Indiana,Damezi Anderson,Defensive Rebound,54,87
+3:39,Indiana,Jake Forrester,Missed Jumper,54,87
+3:39,Jacksonville,JD Notae,Defensive Rebound,54,87
+3:32,Jacksonville,Jalyn Hinton,Dunk,56,87
+3:17,Jacksonville,Derrick Flowers,Foul,56,87
+3:17,Indiana,Devonte Green,Free Throw,56,88
+3:17,Indiana,Devonte Green,Free Throw,56,89
+3:10,Jacksonville,Jalyn Hinton,Dunk,58,89
+2:56,Jacksonville,DeAnthony McCallum,Foul,58,89
+2:56,Indiana,Jake Forrester,Missed Free Throw,58,89
+2:56,Indiana,None,Team Rebound,58,89
+2:56,Indiana,Jake Forrester,Free Throw,58,90
+2:41,Jacksonville,Aamahne Santos,Jumper,60,90
+2:16,Jacksonville,Jalyn Hinton,Foul,60,90
+2:16,Indiana,Clifton Moore,Missed Free Throw,60,90
+2:16,Indiana,None,Team Rebound,60,90
+2:16,Indiana,Clifton Moore,Missed Free Throw,60,90
+2:16,Jacksonville,Jalyn Hinton,Defensive Rebound,60,90
+2:12,Jacksonville,Jalyn Hinton,Turnover,60,90
+2:12,Indiana,Clifton Moore,Steal,60,90
+1:57,Indiana,Jake Forrester,Layup,60,92
+1:43,Jacksonville,Aamahne Santos,Jumper,62,92
+1:27,Indiana,Damezi Anderson,Missed Three Point Jumper,62,92
+1:27,Jacksonville,Jalyn Hinton,Defensive Rebound,62,92
+1:17,Jacksonville,Aamahne Santos,Missed Three Point Jumper,62,92
+1:17,Indiana,Johnny Jager,Defensive Rebound,62,92
+1:06,Indiana,Damezi Anderson,Turnover,62,92
+0:53,Jacksonville,Bryce Workman,Layup,64,92
+0:38,Indiana,Vijay Blackmon,Layup,64,94
+0:29,Jacksonville,KJ Fitzgerald,Missed Layup,64,94
+0:29,Indiana,Jake Forrester,Block,64,94
+0:29,Jacksonville,Bryce Workman,Offensive Rebound,64,94
+0:29,Jacksonville,None,None,64,94
+0:29,Indiana,Johnny Jager,Defensive Rebound,64,94
+0:00,Indiana,None,None,64,94

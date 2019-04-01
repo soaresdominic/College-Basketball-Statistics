@@ -1,0 +1,363 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Duke,None,None,0,0
+19:42,Duke,Cam Reddish,Three Point Jumper,0,3
+19:21,St. John's,Mustapha Heron,Dunk,2,3
+19:08,Duke,Tre Jones,Three Point Jumper,2,6
+18:43,St. John's,Shamorie Ponds,Missed Three Point Jumper,2,6
+18:43,St. John's,Justin Simon,Offensive Rebound,2,6
+18:37,St. John's,Marvin Clark II,Three Point Jumper,5,6
+18:23,Duke,Cam Reddish,Three Point Jumper,5,9
+18:03,St. John's,Marvin Clark II,Missed Three Point Jumper,5,9
+18:03,Duke,RJ Barrett,Defensive Rebound,5,9
+17:38,Duke,Marques Bolden,Layup,5,11
+17:13,St. John's,Marvin Clark II,Turnover,5,11
+17:13,Duke,RJ Barrett,Steal,5,11
+17:05,St. John's,Justin Simon,Foul,5,11
+17:05,Duke,RJ Barrett,Missed Free Throw,5,11
+17:05,Duke,None,Team Rebound,5,11
+17:05,Duke,RJ Barrett,Free Throw,5,12
+16:50,St. John's,LJ Figueroa,Missed Three Point Jumper,5,12
+16:50,Duke,RJ Barrett,Defensive Rebound,5,12
+16:45,Duke,RJ Barrett,Turnover,5,12
+16:45,St. John's,Shamorie Ponds,Steal,5,12
+16:39,St. John's,Marvin Clark II,Layup,7,12
+16:39,Duke,Cam Reddish,Foul,7,12
+16:39,St. John's,Marvin Clark II,Free Throw,8,12
+16:27,Duke,Zion Williamson,Layup,8,14
+16:09,St. John's,Marvin Clark II,Three Point Jumper,11,14
+15:52,Duke,Tre Jones,Turnover,11,14
+15:52,St. John's,Mustapha Heron,Steal,11,14
+15:38,St. John's,None,None,11,14
+15:38,Duke,None,None,11,14
+15:36,St. John's,LJ Figueroa,Missed Layup,11,14
+15:36,St. John's,LJ Figueroa,Offensive Rebound,11,14
+15:36,St. John's,None,None,11,14
+15:36,Duke,Marques Bolden,Defensive Rebound,11,14
+15:27,Duke,Tre Jones,Turnover,11,14
+15:27,St. John's,Shamorie Ponds,Steal,11,14
+15:23,St. John's,LJ Figueroa,Layup,13,14
+15:01,Duke,Tre Jones,Missed Jumper,13,14
+15:01,Duke,RJ Barrett,Offensive Rebound,13,14
+14:56,Duke,RJ Barrett,Layup,13,16
+14:43,St. John's,Mustapha Heron,Three Point Jumper,16,16
+14:28,Duke,RJ Barrett,Turnover,16,16
+14:12,Duke,Marques Bolden,Foul,16,16
+14:11,St. John's,Marvin Clark II,Three Point Jumper,19,16
+13:55,Duke,Cam Reddish,Three Point Jumper,19,19
+13:33,St. John's,Mustapha Heron,Missed Three Point Jumper,19,19
+13:33,St. John's,LJ Figueroa,Offensive Rebound,19,19
+13:22,St. John's,LJ Figueroa,Jumper,21,19
+13:00,St. John's,Marvin Clark II,Foul,21,19
+13:00,Duke,Cam Reddish,Free Throw,21,20
+13:00,Duke,Cam Reddish,Free Throw,21,21
+12:51,St. John's,Bryan Trimble Jr.,Turnover,21,21
+12:51,Duke,RJ Barrett,Steal,21,21
+12:46,Duke,RJ Barrett,Dunk,21,23
+12:23,St. John's,Shamorie Ponds,Turnover,21,23
+12:23,Duke,Tre Jones,Steal,21,23
+12:00,Duke,Tre Jones,Missed Jumper,21,23
+12:00,St. John's,Marvin Clark II,Defensive Rebound,21,23
+11:45,St. John's,LJ Figueroa,Missed Three Point Jumper,21,23
+11:45,Duke,Cam Reddish,Defensive Rebound,21,23
+11:38,St. John's,Marvin Clark II,Foul,21,23
+11:38,Duke,None,None,21,23
+11:38,Duke,Cam Reddish,Free Throw,21,24
+11:38,Duke,Cam Reddish,Free Throw,21,25
+11:28,Duke,Marques Bolden,Turnover,21,25
+11:28,St. John's,Sedee Keita,Steal,21,25
+11:05,St. John's,Mustapha Heron,Missed Layup,21,25
+11:05,Duke,Zion Williamson,Block,21,25
+11:05,Duke,RJ Barrett,Defensive Rebound,21,25
+10:56,Duke,Tre Jones,Missed Three Point Jumper,21,25
+10:56,Duke,Tre Jones,Offensive Rebound,21,25
+10:51,Duke,RJ Barrett,Missed Three Point Jumper,21,25
+10:51,Duke,Zion Williamson,Offensive Rebound,21,25
+10:47,Duke,Zion Williamson,Missed Layup,21,25
+10:47,St. John's,Shamorie Ponds,Defensive Rebound,21,25
+10:42,St. John's,Mustapha Heron,Dunk,23,25
+10:25,Duke,Zion Williamson,Three Point Jumper,23,28
+10:08,St. John's,Shamorie Ponds,Missed Jumper,23,28
+10:08,Duke,RJ Barrett,Block,23,28
+10:08,Duke,Zion Williamson,Defensive Rebound,23,28
+10:00,St. John's,Sedee Keita,Foul,23,28
+9:51,Duke,Tre Jones,Missed Jumper,23,28
+9:51,St. John's,Shamorie Ponds,Defensive Rebound,23,28
+9:39,St. John's,LJ Figueroa,Missed Three Point Jumper,23,28
+9:39,Duke,RJ Barrett,Defensive Rebound,23,28
+9:24,Duke,Zion Williamson,Missed Three Point Jumper,23,28
+9:24,St. John's,LJ Figueroa,Defensive Rebound,23,28
+8:59,St. John's,Shamorie Ponds,Turnover,23,28
+8:59,Duke,Zion Williamson,Steal,23,28
+8:59,Duke,None,None,23,28
+8:44,Duke,Zion Williamson,Foul,23,28
+8:44,Duke,Zion Williamson,Turnover,23,28
+8:34,St. John's,Justin Simon,Missed Layup,23,28
+8:34,Duke,Tre Jones,Defensive Rebound,23,28
+8:19,Duke,Cam Reddish,Missed Three Point Jumper,23,28
+8:19,St. John's,Justin Simon,Defensive Rebound,23,28
+8:12,St. John's,Justin Simon,Missed Layup,23,28
+8:12,St. John's,LJ Figueroa,Offensive Rebound,23,28
+8:08,St. John's,LJ Figueroa,Layup,25,28
+7:47,St. John's,Mustapha Heron,Foul,25,28
+7:47,Duke,None,None,25,28
+7:47,Duke,Javin DeLaurier,Free Throw,25,29
+7:47,Duke,Javin DeLaurier,Missed Free Throw,25,29
+7:47,St. John's,LJ Figueroa,Defensive Rebound,25,29
+7:30,St. John's,LJ Figueroa,Missed Three Point Jumper,25,29
+7:30,Duke,RJ Barrett,Defensive Rebound,25,29
+7:11,St. John's,Justin Simon,Foul,25,29
+7:08,Duke,RJ Barrett,Missed Three Point Jumper,25,29
+7:08,St. John's,Sedee Keita,Defensive Rebound,25,29
+6:58,Duke,Javin DeLaurier,Foul,25,29
+6:57,Duke,Javin DeLaurier,Foul,25,29
+6:48,St. John's,Shamorie Ponds,Turnover,25,29
+6:48,Duke,Zion Williamson,Steal,25,29
+6:44,Duke,Zion Williamson,Dunk,25,31
+6:44,St. John's,None,None,25,31
+6:33,St. John's,LJ Figueroa,Layup,27,31
+6:16,Duke,RJ Barrett,Missed Three Point Jumper,27,31
+6:16,St. John's,Shamorie Ponds,Defensive Rebound,27,31
+6:05,St. John's,Mustapha Heron,Missed Three Point Jumper,27,31
+6:05,Duke,Marques Bolden,Defensive Rebound,27,31
+5:47,St. John's,Marvin Clark II,Foul,27,31
+5:47,Duke,Zion Williamson,Missed Free Throw,27,31
+5:47,St. John's,LJ Figueroa,Defensive Rebound,27,31
+5:27,St. John's,Mustapha Heron,Missed Three Point Jumper,27,31
+5:27,Duke,Marques Bolden,Defensive Rebound,27,31
+5:07,Duke,Zion Williamson,Layup,27,33
+4:50,St. John's,Mustapha Heron,Jumper,29,33
+4:32,Duke,Cam Reddish,Missed Three Point Jumper,29,33
+4:32,Duke,Marques Bolden,Offensive Rebound,29,33
+4:32,Duke,None,None,29,35
+4:15,St. John's,None,None,29,35
+4:09,St. John's,Shamorie Ponds,Missed Three Point Jumper,29,35
+4:09,St. John's,Sedee Keita,Offensive Rebound,29,35
+4:02,St. John's,Sedee Keita,Layup,31,35
+3:49,Duke,Zion Williamson,Turnover,31,35
+3:29,St. John's,LJ Figueroa,Jumper,33,35
+3:15,Duke,RJ Barrett,Missed Three Point Jumper,33,35
+3:15,St. John's,St. John's,Defensive Rebound,33,35
+3:07,St. John's,Shamorie Ponds,Turnover,33,35
+3:07,Duke,Tre Jones,Steal,33,35
+3:02,Duke,Tre Jones,Layup,33,37
+2:48,St. John's,Shamorie Ponds,Missed Layup,33,37
+2:48,Duke,Marques Bolden,Block,33,37
+2:48,Duke,RJ Barrett,Defensive Rebound,33,37
+2:41,Duke,Zion Williamson,Layup,33,39
+2:18,St. John's,Mustapha Heron,Missed Jumper,33,39
+2:18,Duke,Cam Reddish,Defensive Rebound,33,39
+1:55,St. John's,Mustapha Heron,Foul,33,39
+1:55,Duke,RJ Barrett,Missed Free Throw,33,39
+1:55,Duke,None,Team Rebound,33,39
+1:55,Duke,RJ Barrett,Missed Free Throw,33,39
+1:55,Duke,Zion Williamson,Offensive Rebound,33,39
+1:53,Duke,Zion Williamson,Layup,33,41
+1:31,St. John's,LJ Figueroa,Missed Three Point Jumper,33,41
+1:31,St. John's,Sedee Keita,Offensive Rebound,33,41
+1:31,St. John's,None,None,35,41
+1:15,St. John's,Sedee Keita,Foul,35,41
+1:15,Duke,Zion Williamson,Free Throw,35,42
+1:15,Duke,Zion Williamson,Free Throw,35,43
+0:58,St. John's,LJ Figueroa,Layup,37,43
+0:41,Duke,Zion Williamson,Layup,37,45
+0:28,St. John's,Shamorie Ponds,Turnover,37,45
+0:28,Duke,Zion Williamson,Steal,37,45
+0:24,Duke,Zion Williamson,Dunk,37,47
+0:05,Duke,Tre Jones,Foul,37,47
+0:01,St. John's,Shamorie Ponds,Missed Jumper,37,47
+0:01,Duke,RJ Barrett,Defensive Rebound,37,47
+0:00,Duke,None,None,37,47
+20:00,St. John's,None,None,37,47
+19:49,Duke,Tre Jones,Foul,37,47
+19:49,St. John's,Shamorie Ponds,Free Throw,38,47
+19:49,St. John's,Shamorie Ponds,Free Throw,39,47
+19:37,Duke,Zion Williamson,Missed Layup,39,47
+19:37,St. John's,Marvin Clark II,Block,39,47
+19:37,St. John's,Mustapha Heron,Defensive Rebound,39,47
+19:30,St. John's,Mustapha Heron,Missed Layup,39,47
+19:30,Duke,Marques Bolden,Defensive Rebound,39,47
+19:11,Duke,Marques Bolden,Missed Three Point Jumper,39,47
+19:11,St. John's,Mustapha Heron,Defensive Rebound,39,47
+19:02,St. John's,Justin Simon,Missed Jumper,39,47
+19:02,Duke,RJ Barrett,Defensive Rebound,39,47
+18:51,Duke,RJ Barrett,Layup,39,49
+18:36,St. John's,Marvin Clark II,Missed Three Point Jumper,39,49
+18:36,Duke,RJ Barrett,Defensive Rebound,39,49
+18:17,Duke,RJ Barrett,Jumper,39,51
+17:56,Duke,None,None,39,51
+17:56,St. John's,LJ Figueroa,Turnover,39,51
+17:56,Duke,Cam Reddish,Steal,39,51
+17:47,Duke,Cam Reddish,Missed Three Point Jumper,39,51
+17:47,Duke,Tre Jones,Offensive Rebound,39,51
+17:39,St. John's,Marvin Clark II,Foul,39,51
+17:39,Duke,Marques Bolden,Free Throw,39,52
+17:39,Duke,Marques Bolden,Missed Free Throw,39,52
+17:39,St. John's,LJ Figueroa,Defensive Rebound,39,52
+17:38,St. John's,LJ Figueroa,Turnover,39,52
+17:38,Duke,Zion Williamson,Steal,39,52
+17:36,Duke,Zion Williamson,Layup,39,54
+17:36,St. John's,Sedee Keita,Foul,39,54
+17:36,Duke,Zion Williamson,Missed Free Throw,39,54
+17:36,St. John's,Sedee Keita,Defensive Rebound,39,54
+17:25,St. John's,Mustapha Heron,Missed Three Point Jumper,39,54
+17:25,Duke,Marques Bolden,Defensive Rebound,39,54
+17:13,Duke,Marques Bolden,Dunk,39,56
+17:12,St. John's,None,None,39,56
+16:57,St. John's,Justin Simon,Turnover,39,56
+16:57,Duke,Marques Bolden,Steal,39,56
+16:51,St. John's,Sedee Keita,Foul,39,56
+16:51,Duke,Tre Jones,Free Throw,39,57
+16:51,Duke,Tre Jones,Free Throw,39,58
+16:35,St. John's,Justin Simon,Missed Layup,39,58
+16:35,Duke,Zion Williamson,Block,39,58
+16:35,St. John's,St. John's,Offensive Rebound,39,58
+16:32,St. John's,Shamorie Ponds,Missed Jumper,39,58
+16:32,Duke,Tre Jones,Defensive Rebound,39,58
+16:20,Duke,Cam Reddish,Three Point Jumper,39,61
+16:01,St. John's,Mustapha Heron,Missed Jumper,39,61
+16:01,Duke,RJ Barrett,Defensive Rebound,39,61
+15:53,Duke,Cam Reddish,Missed Three Point Jumper,39,61
+15:53,Duke,Cam Reddish,Offensive Rebound,39,61
+15:47,Duke,None,None,39,61
+15:39,Duke,Zion Williamson,Layup,39,63
+15:27,St. John's,Shamorie Ponds,Layup,41,63
+15:20,St. John's,Greg Williams Jr.,Foul,41,63
+15:20,Duke,RJ Barrett,Missed Free Throw,41,63
+15:20,Duke,None,Team Rebound,41,63
+15:20,Duke,RJ Barrett,Free Throw,41,64
+15:16,St. John's,Greg Williams Jr.,Turnover,41,64
+15:16,Duke,Tre Jones,Steal,41,64
+15:11,Duke,Zion Williamson,Dunk,41,66
+14:53,Duke,Tre Jones,Foul,41,66
+14:53,St. John's,Shamorie Ponds,Free Throw,42,66
+14:53,St. John's,Shamorie Ponds,Free Throw,43,66
+14:26,Duke,Marques Bolden,Layup,43,68
+14:26,St. John's,Mustapha Heron,Foul,43,68
+14:26,Duke,Marques Bolden,Free Throw,43,69
+14:17,St. John's,Shamorie Ponds,Layup,45,69
+14:17,Duke,Cam Reddish,Foul,45,69
+14:17,St. John's,Shamorie Ponds,Free Throw,46,69
+13:53,St. John's,Bryan Trimble Jr.,Foul,46,69
+13:48,Duke,RJ Barrett,Missed Jumper,46,69
+13:48,Duke,Javin DeLaurier,Offensive Rebound,46,69
+13:42,Duke,Javin DeLaurier,Layup,46,71
+13:27,St. John's,Justin Simon,Turnover,46,71
+13:27,Duke,Zion Williamson,Steal,46,71
+13:23,Duke,Cam Reddish,Turnover,46,71
+13:23,St. John's,Shamorie Ponds,Steal,46,71
+13:20,St. John's,Shamorie Ponds,Layup,48,71
+13:01,Duke,Javin DeLaurier,Layup,48,73
+12:39,St. John's,LJ Figueroa,Missed Three Point Jumper,48,73
+12:39,Duke,RJ Barrett,Defensive Rebound,48,73
+12:30,Duke,RJ Barrett,Missed Jumper,48,73
+12:30,St. John's,Marvin Clark II,Defensive Rebound,48,73
+12:24,St. John's,LJ Figueroa,Missed Jumper,48,73
+12:24,Duke,Tre Jones,Defensive Rebound,48,73
+12:19,Duke,Tre Jones,Jumper,48,75
+12:02,St. John's,Bryan Trimble Jr.,Three Point Jumper,51,75
+11:47,St. John's,Bryan Trimble Jr.,Foul,51,75
+11:47,Duke,None,None,51,75
+11:47,Duke,RJ Barrett,Missed Free Throw,51,75
+11:47,Duke,None,Team Rebound,51,75
+11:47,Duke,RJ Barrett,Free Throw,51,76
+11:46,Duke,RJ Barrett,Turnover,51,76
+11:37,St. John's,Marvin Clark II,Missed Three Point Jumper,51,76
+11:37,Duke,Alex O'Connell,Defensive Rebound,51,76
+11:20,Duke,Zion Williamson,Missed Three Point Jumper,51,76
+11:20,Duke,Jack White,Offensive Rebound,51,76
+11:05,St. John's,None,None,51,76
+11:05,Duke,Alex O'Connell,Turnover,51,76
+11:05,St. John's,Justin Simon,Steal,51,76
+10:56,St. John's,Marvin Clark II,Missed Three Point Jumper,51,76
+10:56,Duke,Zion Williamson,Defensive Rebound,51,76
+10:34,Duke,RJ Barrett,Missed Three Point Jumper,51,76
+10:25,Duke,Javin DeLaurier,Offensive Rebound,51,76
+10:25,Duke,RJ Barrett,Missed Layup,51,76
+10:25,St. John's,LJ Figueroa,Defensive Rebound,51,76
+10:18,St. John's,Bryan Trimble Jr.,Missed Three Point Jumper,51,76
+10:18,Duke,Jack White,Defensive Rebound,51,76
+10:12,Duke,Jack White,Turnover,51,76
+10:12,St. John's,LJ Figueroa,Steal,51,76
+10:12,St. John's,Mustapha Heron,Turnover,51,76
+10:12,St. John's,Mustapha Heron,Foul,51,76
+10:10,Duke,Cam Reddish,Missed Three Point Jumper,51,76
+10:10,St. John's,Marvin Clark II,Defensive Rebound,51,76
+9:50,St. John's,Shamorie Ponds,Missed Layup,51,76
+9:50,St. John's,Greg Williams Jr.,Offensive Rebound,51,76
+9:45,Duke,Zion Williamson,Foul,51,76
+9:45,St. John's,Greg Williams Jr.,Missed Free Throw,51,76
+9:45,St. John's,None,Team Rebound,51,76
+9:45,St. John's,Greg Williams Jr.,Free Throw,52,76
+9:39,Duke,Tre Jones,Turnover,52,76
+9:16,St. John's,Justin Simon,Jumper,54,76
+8:54,Duke,Cam Reddish,Missed Three Point Jumper,54,76
+8:54,Duke,Zion Williamson,Offensive Rebound,54,76
+8:49,Duke,Zion Williamson,Dunk,54,78
+8:35,St. John's,Marvin Clark II,Missed Three Point Jumper,54,78
+8:35,Duke,Zion Williamson,Defensive Rebound,54,78
+8:06,Duke,Cam Reddish,Turnover,54,78
+7:55,St. John's,None,None,54,78
+7:47,St. John's,Sedee Keita,Missed Jumper,54,78
+7:47,Duke,Tre Jones,Defensive Rebound,54,78
+7:43,Duke,Tre Jones,Turnover,54,78
+7:41,St. John's,Justin Simon,Layup,56,78
+7:07,Duke,Zion Williamson,Dunk,56,80
+6:48,St. John's,LJ Figueroa,Layup,58,80
+6:32,Duke,RJ Barrett,Jumper,58,82
+6:20,St. John's,LJ Figueroa,Missed Three Point Jumper,58,82
+6:20,Duke,Tre Jones,Defensive Rebound,58,82
+6:00,Duke,Zion Williamson,Turnover,58,82
+6:00,St. John's,Shamorie Ponds,Steal,58,82
+5:54,St. John's,Marvin Clark II,Missed Three Point Jumper,58,82
+5:54,St. John's,Marvin Clark II,Offensive Rebound,58,82
+5:46,St. John's,Justin Simon,Turnover,58,82
+5:27,Duke,Marques Bolden,Missed Three Point Jumper,58,82
+5:27,St. John's,St. John's,Defensive Rebound,58,82
+5:08,St. John's,LJ Figueroa,Turnover,58,82
+4:49,Duke,Tre Jones,Jumper,58,84
+4:29,St. John's,Sedee Keita,Missed Jumper,58,84
+4:29,Duke,Javin DeLaurier,Defensive Rebound,58,84
+4:20,Duke,Tre Jones,Turnover,58,84
+4:20,St. John's,Mustapha Heron,Steal,58,84
+4:15,St. John's,Shamorie Ponds,Missed Layup,58,84
+4:15,Duke,RJ Barrett,Defensive Rebound,58,84
+4:05,Duke,RJ Barrett,Missed Layup,58,84
+4:05,Duke,RJ Barrett,Offensive Rebound,58,84
+4:02,Duke,RJ Barrett,Layup,58,86
+4:02,Duke,None,None,58,86
+3:57,Duke,Javin DeLaurier,Foul,58,86
+3:50,St. John's,Mustapha Heron,Missed Jumper,58,86
+3:50,Duke,Jack White,Defensive Rebound,58,86
+3:26,Duke,Tre Jones,Jumper,58,88
+3:03,St. John's,LJ Figueroa,Missed Jumper,58,88
+3:03,Duke,Jack White,Block,58,88
+3:03,Duke,Javin DeLaurier,Defensive Rebound,58,88
+2:31,Duke,Jack White,Missed Three Point Jumper,58,88
+2:31,Duke,Javin DeLaurier,Offensive Rebound,58,88
+2:05,Duke,None,None,58,88
+2:02,Duke,Jordan Goldwire,Turnover,58,88
+1:59,St. John's,Justin Simon,Missed Dunk,58,88
+1:59,St. John's,Greg Williams Jr.,Offensive Rebound,58,88
+1:51,St. John's,Justin Simon,Missed Three Point Jumper,58,88
+1:51,St. John's,St. John's,Offensive Rebound,58,88
+1:42,St. John's,Sedee Keita,Missed Jumper,58,88
+1:42,Duke,Jack White,Defensive Rebound,58,88
+1:31,Duke,None,None,58,88
+1:20,Duke,Alex O'Connell,Missed Three Point Jumper,58,88
+1:20,Duke,Duke,Offensive Rebound,58,88
+1:16,Duke,Jordan Goldwire,Turnover,58,88
+1:16,St. John's,LJ Figueroa,Steal,58,88
+1:07,Duke,Jack White,Foul,58,88
+1:07,St. John's,Mustapha Heron,Missed Free Throw,58,88
+1:07,St. John's,None,Team Rebound,58,88
+1:07,St. John's,Mustapha Heron,Free Throw,59,88
+0:46,Duke,Jordan Goldwire,Three Point Jumper,59,91
+0:39,St. John's,Mustapha Heron,Missed Jumper,59,91
+0:39,Duke,Antonio Vrankovic,Block,59,91
+0:39,St. John's,Mustapha Heron,Offensive Rebound,59,91
+0:36,Duke,Justin Robinson,Foul,59,91
+0:36,St. John's,Sedee Keita,Free Throw,60,91
+0:36,St. John's,Sedee Keita,Free Throw,61,91
+0:13,Duke,Jordan Goldwire,Missed Three Point Jumper,61,91
+0:13,Duke,Alex O'Connell,Offensive Rebound,61,91
+0:00,Duke,None,None,61,91

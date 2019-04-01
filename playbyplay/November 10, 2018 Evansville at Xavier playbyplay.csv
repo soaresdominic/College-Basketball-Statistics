@@ -1,0 +1,358 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:35,Xavier,Naji Marshall,Foul,0,0
+19:35,Xavier,Naji Marshall,Turnover,0,0
+19:27,Evansville,Shea Feehan,Layup,2,0
+19:08,Xavier,Tyrique Jones,Dunk,2,2
+18:33,Evansville,Evan Kuhlman,Three Point Jumper,5,2
+18:10,Xavier,Tyrique Jones,Layup,5,4
+18:10,Evansville,K.J. Riley,Foul,5,4
+18:10,Xavier,Tyrique Jones,Missed Free Throw,5,4
+18:10,Evansville,John Hall,Defensive Rebound,5,4
+17:59,Evansville,Evan Kuhlman,Missed Three Point Jumper,5,4
+17:59,Xavier,Tyrique Jones,Defensive Rebound,5,4
+17:49,Xavier,Ryan Welage,Missed Three Point Jumper,5,4
+17:49,Xavier,Tyrique Jones,Offensive Rebound,5,4
+17:40,Evansville,John Hall,Foul,5,4
+17:40,Xavier,Naji Marshall,Free Throw,5,5
+17:40,Xavier,Naji Marshall,Missed Free Throw,5,5
+17:40,Evansville,John Hall,Defensive Rebound,5,5
+17:28,Evansville,Marty Hill,Three Point Jumper,8,5
+17:09,Xavier,Paul Scruggs,Layup,8,7
+16:45,Evansville,John Hall,Missed Three Point Jumper,8,7
+16:45,Xavier,Xavier,Defensive Rebound,8,7
+16:25,Xavier,Ryan Welage,Missed Three Point Jumper,8,7
+16:25,Xavier,Tyrique Jones,Offensive Rebound,8,7
+16:16,Xavier,Naji Marshall,Missed Three Point Jumper,8,7
+16:16,Xavier,Paul Scruggs,Offensive Rebound,8,7
+16:11,Xavier,Paul Scruggs,Missed Layup,8,7
+16:11,Evansville,Evan Kuhlman,Defensive Rebound,8,7
+15:47,Xavier,Paul Scruggs,Foul,8,7
+15:47,Xavier,None,None,8,7
+15:47,Evansville,John Hall,Free Throw,9,7
+15:47,Evansville,John Hall,Free Throw,10,7
+15:32,Xavier,Paul Scruggs,Three Point Jumper,10,10
+15:09,Evansville,Marty Hill,Jumper,12,10
+14:53,Evansville,Marty Hill,Foul,12,10
+14:42,Xavier,Naji Marshall,Missed Jumper,12,10
+14:42,Evansville,Evan Kuhlman,Defensive Rebound,12,10
+14:30,Evansville,Marty Hill,Missed Jumper,12,10
+14:30,Xavier,Naji Marshall,Defensive Rebound,12,10
+14:18,Xavier,Quentin Goodin,Missed Three Point Jumper,12,10
+14:18,Evansville,Marty Hill,Defensive Rebound,12,10
+13:58,Xavier,Zach Hankins,Foul,12,10
+13:56,Evansville,Shea Feehan,Missed Three Point Jumper,12,10
+13:56,Xavier,Naji Marshall,Defensive Rebound,12,10
+13:48,Xavier,Zach Hankins,Layup,12,12
+13:48,Evansville,Evan Kuhlman,Foul,12,12
+13:48,Xavier,Zach Hankins,Free Throw,12,13
+13:41,Evansville,Shea Feehan,Missed Jumper,12,13
+13:41,Xavier,Naji Marshall,Defensive Rebound,12,13
+13:33,Xavier,Naji Marshall,Three Point Jumper,12,16
+13:01,Evansville,K.J. Riley,Turnover,12,16
+12:55,Xavier,Keonte Kennedy,Missed Layup,12,16
+12:55,Evansville,Noah Frederking,Defensive Rebound,12,16
+12:25,Xavier,Keonte Kennedy,Foul,12,16
+12:25,Evansville,K.J. Riley,Free Throw,13,16
+12:25,Evansville,K.J. Riley,Free Throw,14,16
+12:12,Xavier,Naji Marshall,Turnover,14,16
+12:08,Evansville,Shamar Givance,Missed Layup,14,16
+12:08,Xavier,Quentin Goodin,Block,14,16
+12:04,Xavier,Naji Marshall,Defensive Rebound,14,16
+12:00,Xavier,Quentin Goodin,Layup,14,18
+11:45,Evansville,Marty Hill,Three Point Jumper,17,18
+11:30,Xavier,Naji Marshall,Layup,17,20
+11:18,Xavier,Zach Hankins,Foul,17,20
+11:18,Xavier,None,None,17,20
+11:11,Xavier,Quentin Goodin,Foul,17,20
+10:55,Evansville,K.J. Riley,Missed Layup,17,20
+10:55,Xavier,Tyrique Jones,Block,17,20
+10:53,Xavier,Xavier,Defensive Rebound,17,20
+10:32,Xavier,Quentin Goodin,Three Point Jumper,17,23
+10:19,Evansville,Marty Hill,Three Point Jumper,20,23
+10:01,Xavier,Quentin Goodin,Three Point Jumper,20,26
+9:40,Evansville,John Hall,Missed Three Point Jumper,20,26
+9:40,Xavier,Quentin Goodin,Defensive Rebound,20,26
+9:30,Evansville,Shamar Givance,Foul,20,26
+9:30,Xavier,Quentin Goodin,Free Throw,20,27
+9:30,Xavier,Quentin Goodin,Missed Free Throw,20,27
+9:30,Evansville,John Hall,Defensive Rebound,20,27
+9:13,Evansville,John Hall,Missed Layup,20,27
+9:13,Xavier,Tyrique Jones,Defensive Rebound,20,27
+9:08,Xavier,Quentin Goodin,Three Point Jumper,20,30
+8:43,Evansville,Evan Kuhlman,Missed Jumper,20,30
+8:43,Xavier,Tyrique Jones,Defensive Rebound,20,30
+8:35,Xavier,Quentin Goodin,Missed Layup,20,30
+8:35,Xavier,Kyle Castlin,Offensive Rebound,20,30
+8:31,Xavier,Kyle Castlin,Layup,20,32
+8:24,Evansville,None,None,20,32
+8:24,Xavier,None,None,20,32
+8:12,Evansville,Marty Hill,Missed Jumper,20,32
+8:12,Xavier,Naji Marshall,Defensive Rebound,20,32
+7:57,Xavier,Tyrique Jones,Missed Layup,20,32
+7:57,Evansville,Evan Kuhlman,Defensive Rebound,20,32
+7:30,Evansville,Marty Hill,Missed Three Point Jumper,20,32
+7:30,Xavier,Dontarius James,Defensive Rebound,20,32
+7:20,Xavier,Paul Scruggs,Three Point Jumper,20,35
+6:54,Evansville,K.J. Riley,Layup,22,35
+6:54,Xavier,Dontarius James,Foul,22,35
+6:54,Evansville,K.J. Riley,Free Throw,23,35
+6:37,Xavier,Keonte Kennedy,Missed Jumper,23,35
+6:37,Xavier,Tyrique Jones,Offensive Rebound,23,35
+6:34,Evansville,Evan Kuhlman,Foul,23,35
+6:19,Xavier,Tyrique Jones,Foul,23,35
+6:19,Xavier,Tyrique Jones,Turnover,23,35
+6:04,Evansville,John Hall,Turnover,23,35
+6:03,Xavier,Paul Scruggs,Steal,23,35
+6:00,Xavier,Tyrique Jones,Dunk,23,37
+5:38,Evansville,Marty Hill,Missed Three Point Jumper,23,37
+5:38,Xavier,Naji Marshall,Defensive Rebound,23,37
+5:26,Xavier,Paul Scruggs,Missed Three Point Jumper,23,37
+5:26,Evansville,K.J. Riley,Defensive Rebound,23,37
+5:15,Evansville,Evan Kuhlman,Three Point Jumper,26,37
+4:56,Evansville,Marty Hill,Foul,26,37
+4:56,Xavier,Ryan Welage,Free Throw,26,38
+4:56,Xavier,Ryan Welage,Free Throw,26,39
+4:44,Evansville,Shea Feehan,Missed Layup,26,39
+4:44,Xavier,Tyrique Jones,Block,26,39
+4:42,Evansville,John Hall,Offensive Rebound,26,39
+4:38,Evansville,John Hall,Layup,28,39
+4:18,Xavier,Tyrique Jones,Layup,28,41
+4:03,Evansville,Marty Hill,Missed Jumper,28,41
+4:03,Xavier,Tyrique Jones,Block,28,41
+4:02,Xavier,Tyrique Jones,Defensive Rebound,28,41
+3:51,Xavier,Paul Scruggs,Layup,28,43
+3:46,Xavier,None,None,28,43
+3:46,Evansville,Marty Hill,Foul,28,43
+3:46,Xavier,Paul Scruggs,Foul,28,43
+3:46,Xavier,None,None,28,43
+3:46,Evansville,Marty Hill,Foul,28,43
+3:46,Xavier,Paul Scruggs,Foul,28,43
+3:46,Xavier,None,None,28,43
+3:45,Xavier,None,None,28,43
+3:28,Evansville,Shea Feehan,Jumper,30,43
+3:23,Xavier,Naji Marshall,Turnover,30,43
+3:23,Evansville,K.J. Riley,Steal,30,43
+3:23,Evansville,K.J. Riley,Layup,32,43
+3:23,Xavier,Naji Marshall,Foul,32,43
+3:23,Evansville,K.J. Riley,Missed Free Throw,32,43
+3:23,Xavier,Naji Marshall,Defensive Rebound,32,43
+3:13,Xavier,Ryan Welage,Turnover,32,43
+3:13,Xavier,None,None,32,43
+3:02,Xavier,Elias Harden,Foul,32,43
+3:02,Evansville,K.J. Riley,Free Throw,33,43
+3:02,Evansville,K.J. Riley,Missed Free Throw,33,43
+3:02,Xavier,Naji Marshall,Defensive Rebound,33,43
+2:53,Xavier,Elias Harden,Missed Three Point Jumper,33,43
+2:53,Evansville,John Hall,Defensive Rebound,33,43
+2:43,Evansville,Evan Kuhlman,Three Point Jumper,36,43
+2:38,Xavier,None,None,36,43
+2:22,Xavier,Zach Hankins,Dunk,36,45
+2:03,Evansville,Shea Feehan,Three Point Jumper,39,45
+2:03,Xavier,Ryan Welage,Foul,39,45
+2:03,Evansville,Shea Feehan,Free Throw,40,45
+1:46,Xavier,Naji Marshall,Missed Jumper,40,45
+1:46,Xavier,Kyle Castlin,Offensive Rebound,40,45
+1:46,Evansville,Shea Feehan,Foul,40,45
+1:43,Xavier,Kyle Castlin,Free Throw,40,46
+1:43,Xavier,Kyle Castlin,Free Throw,40,47
+1:32,Xavier,Naji Marshall,Foul,40,47
+1:32,Evansville,K.J. Riley,Free Throw,41,47
+1:32,Evansville,K.J. Riley,Free Throw,42,47
+1:18,Xavier,Tyrique Jones,Missed Layup,42,47
+1:18,Xavier,Tyrique Jones,Offensive Rebound,42,47
+1:07,Xavier,Quentin Goodin,Layup,42,49
+0:51,Evansville,Noah Frederking,Three Point Jumper,45,49
+0:33,Xavier,Paul Scruggs,Missed Three Point Jumper,45,49
+0:33,Evansville,Shea Feehan,Defensive Rebound,45,49
+0:03,Evansville,K.J. Riley,Missed Three Point Jumper,45,49
+0:03,Xavier,Kyle Castlin,Defensive Rebound,45,49
+0:00,Xavier,None,None,45,49
+19:50,Evansville,Shea Feehan,Three Point Jumper,48,49
+19:22,Xavier,Quentin Goodin,Missed Three Point Jumper,48,49
+19:22,Xavier,Ryan Welage,Offensive Rebound,48,49
+19:15,Xavier,Paul Scruggs,Three Point Jumper,48,52
+18:55,Evansville,Shea Feehan,Missed Layup,48,52
+18:55,Xavier,Paul Scruggs,Defensive Rebound,48,52
+18:46,Evansville,K.J. Riley,Foul,48,52
+18:46,Xavier,Paul Scruggs,Free Throw,48,53
+18:46,Xavier,Paul Scruggs,Free Throw,48,54
+18:37,Evansville,John Hall,Three Point Jumper,51,54
+18:24,Xavier,Tyrique Jones,Missed Layup,51,54
+18:24,Xavier,Tyrique Jones,Offensive Rebound,51,54
+18:08,Xavier,Ryan Welage,Three Point Jumper,51,57
+17:53,Evansville,Shea Feehan,Missed Three Point Jumper,51,57
+17:53,Xavier,Paul Scruggs,Defensive Rebound,51,57
+17:41,Xavier,Paul Scruggs,Missed Jumper,51,57
+17:41,Evansville,K.J. Riley,Block,51,57
+17:40,Xavier,Kyle Castlin,Offensive Rebound,51,57
+17:37,Xavier,Kyle Castlin,Layup,51,59
+17:37,Evansville,Marty Hill,Foul,51,59
+17:37,Xavier,Kyle Castlin,Missed Free Throw,51,59
+17:37,Evansville,John Hall,Defensive Rebound,51,59
+17:18,Evansville,K.J. Riley,Layup,53,59
+16:54,Xavier,Tyrique Jones,Turnover,53,59
+16:39,Evansville,Evan Kuhlman,Missed Three Point Jumper,53,59
+16:39,Xavier,Tyrique Jones,Defensive Rebound,53,59
+16:22,Evansville,Shea Feehan,Foul,53,59
+16:19,Xavier,Kyle Castlin,Turnover,53,59
+16:17,Evansville,Evan Kuhlman,Steal,53,59
+16:08,Evansville,K.J. Riley,Layup,55,59
+15:50,Xavier,Quentin Goodin,Missed Layup,55,59
+15:50,Evansville,John Hall,Defensive Rebound,55,59
+15:33,Xavier,None,None,55,59
+15:24,Evansville,Shea Feehan,Three Point Jumper,58,59
+15:10,Xavier,Quentin Goodin,Foul,58,59
+15:10,Xavier,Quentin Goodin,Foul,58,59
+15:10,Evansville,Shea Feehan,Free Throw,59,59
+15:10,Evansville,Shea Feehan,Missed Free Throw,59,59
+15:10,Evansville,None,Team Rebound,59,59
+15:10,Xavier,Quentin Goodin,Foul,58,59
+15:05,Evansville,Evan Kuhlman,Foul,59,59
+15:05,Evansville,Evan Kuhlman,Turnover,59,59
+14:53,Evansville,Evan Kuhlman,Foul,59,59
+14:53,Xavier,Zach Hankins,Free Throw,59,60
+14:53,Xavier,Zach Hankins,Missed Free Throw,59,60
+14:53,Xavier,Kyle Castlin,Offensive Rebound,59,60
+14:42,Xavier,Zach Hankins,Layup,59,62
+14:23,Evansville,John Hall,Three Point Jumper,62,62
+14:06,Evansville,K.J. Riley,Foul,62,62
+14:06,Xavier,Zach Hankins,Free Throw,62,63
+14:06,Xavier,Zach Hankins,Free Throw,62,64
+13:51,Evansville,Noah Frederking,Missed Three Point Jumper,62,64
+13:51,Evansville,Shea Feehan,Offensive Rebound,62,64
+13:46,Evansville,Noah Frederking,Three Point Jumper,65,64
+13:27,Xavier,Zach Hankins,Dunk,65,66
+13:11,Evansville,Shamar Givance,Foul,65,66
+13:11,Evansville,Shamar Givance,Turnover,65,66
+13:01,Xavier,Zach Hankins,Missed Layup,65,66
+13:01,Evansville,K.J. Riley,Defensive Rebound,65,66
+12:59,Xavier,Naji Marshall,Foul,65,66
+12:45,Evansville,K.J. Riley,Missed Layup,65,66
+12:45,Xavier,Paul Scruggs,Defensive Rebound,65,66
+12:38,Xavier,Ryan Welage,Missed Three Point Jumper,65,66
+12:38,Xavier,Ryan Welage,Offensive Rebound,65,66
+12:14,Xavier,Paul Scruggs,Turnover,65,66
+12:14,Evansville,Shamar Givance,Steal,65,66
+12:14,Evansville,None,None,65,66
+12:14,Xavier,None,None,65,66
+12:04,Evansville,K.J. Riley,Missed Layup,65,66
+12:04,Xavier,Zach Hankins,Block,65,66
+12:02,Xavier,Zach Hankins,Defensive Rebound,65,66
+11:50,Xavier,Keonte Kennedy,Three Point Jumper,65,69
+11:30,Evansville,Shea Feehan,Three Point Jumper,68,69
+11:07,Xavier,Paul Scruggs,Missed Three Point Jumper,68,69
+11:07,Evansville,Shamar Givance,Defensive Rebound,68,69
+10:41,Evansville,Shea Feehan,Missed Three Point Jumper,68,69
+10:41,Xavier,Keonte Kennedy,Defensive Rebound,68,69
+10:26,Xavier,Zach Hankins,Dunk,68,71
+10:10,Evansville,K.J. Riley,Turnover,68,71
+10:08,Xavier,Keonte Kennedy,Steal,68,71
+10:06,Xavier,Keonte Kennedy,Missed Layup,68,71
+10:06,Xavier,Paul Scruggs,Offensive Rebound,68,71
+10:02,Evansville,Shamar Givance,Foul,68,71
+10:02,Xavier,None,None,68,71
+10:02,Xavier,Paul Scruggs,Missed Free Throw,68,71
+10:02,Xavier,None,Team Rebound,68,71
+10:02,Xavier,Paul Scruggs,Free Throw,68,72
+9:39,Evansville,Shamar Givance,Turnover,68,72
+9:38,Xavier,Kyle Castlin,Steal,68,72
+9:32,Xavier,Kyle Castlin,Turnover,68,72
+9:32,Evansville,Shea Feehan,Steal,68,72
+9:12,Evansville,Evan Kuhlman,Three Point Jumper,71,72
+8:54,Evansville,Shea Feehan,Foul,71,72
+8:54,Xavier,Keonte Kennedy,Missed Free Throw,71,72
+8:54,Evansville,John Hall,Defensive Rebound,71,72
+8:34,Evansville,Marty Hill,Missed Layup,71,72
+8:34,Xavier,Tyrique Jones,Defensive Rebound,71,72
+8:24,Xavier,Elias Harden,Missed Three Point Jumper,71,72
+8:18,Xavier,Xavier,Offensive Rebound,71,72
+8:18,Xavier,Kyle Castlin,Missed Free Throw,71,72
+8:18,Xavier,None,Team Rebound,71,72
+8:18,Evansville,K.J. Riley,Foul,71,72
+8:18,Xavier,Kyle Castlin,Missed Free Throw,71,72
+8:18,Xavier,Tyrique Jones,Offensive Rebound,71,72
+8:06,Xavier,Paul Scruggs,Layup,71,74
+7:57,Evansville,John Hall,Turnover,71,74
+7:57,Xavier,None,None,71,74
+7:44,Xavier,Tyrique Jones,Layup,71,76
+7:44,Evansville,John Hall,Foul,71,76
+7:44,Xavier,Tyrique Jones,Free Throw,71,77
+7:32,Evansville,Marty Hill,Missed Jumper,71,77
+7:32,Xavier,Tyrique Jones,Defensive Rebound,71,77
+7:27,Evansville,Marty Hill,Foul,71,77
+7:27,Xavier,Tyrique Jones,Missed Free Throw,71,77
+7:27,Xavier,None,Team Rebound,71,77
+7:27,Xavier,Tyrique Jones,Free Throw,71,78
+7:15,Xavier,Elias Harden,Foul,71,78
+7:15,Evansville,None,None,71,78
+7:01,Evansville,K.J. Riley,Missed Layup,71,78
+7:01,Xavier,Tyrique Jones,Block,71,78
+7:00,Evansville,K.J. Riley,Offensive Rebound,71,78
+6:58,Evansville,K.J. Riley,Layup,73,78
+6:58,Xavier,Keonte Kennedy,Foul,73,78
+6:58,Evansville,K.J. Riley,Free Throw,74,78
+6:41,Xavier,Keonte Kennedy,Missed Three Point Jumper,74,78
+6:41,Evansville,Shea Feehan,Defensive Rebound,74,78
+6:15,Evansville,John Hall,Layup,76,78
+6:01,Xavier,Paul Scruggs,Three Point Jumper,76,81
+5:41,Evansville,Shea Feehan,Missed Three Point Jumper,76,81
+5:41,Xavier,Tyrique Jones,Defensive Rebound,76,81
+5:29,Xavier,Tyrique Jones,Dunk,76,83
+5:01,Evansville,Shea Feehan,Missed Three Point Jumper,76,83
+5:01,Xavier,Tyrique Jones,Defensive Rebound,76,83
+4:47,Xavier,Paul Scruggs,Missed Jumper,76,83
+4:47,Xavier,Tyrique Jones,Offensive Rebound,76,83
+4:44,Xavier,Tyrique Jones,Dunk,76,85
+4:21,Evansville,Shamar Givance,Missed Three Point Jumper,76,85
+4:21,Xavier,Tyrique Jones,Defensive Rebound,76,85
+4:10,Xavier,Paul Scruggs,Missed Layup,76,85
+4:10,Xavier,Paul Scruggs,Offensive Rebound,76,85
+4:07,Xavier,Paul Scruggs,Layup,76,87
+3:45,Xavier,Paul Scruggs,Foul,76,87
+3:45,Xavier,None,None,76,87
+3:45,Evansville,Shea Feehan,Free Throw,77,87
+3:45,Evansville,Shea Feehan,Free Throw,78,87
+3:17,Xavier,Tyrique Jones,Missed Layup,78,87
+3:17,Xavier,Tyrique Jones,Offensive Rebound,78,87
+3:15,Xavier,Tyrique Jones,Dunk,78,89
+2:54,Evansville,John Hall,Turnover,78,89
+2:52,Xavier,Tyrique Jones,Steal,78,89
+2:50,Xavier,Naji Marshall,Missed Layup,78,89
+2:50,Evansville,K.J. Riley,Defensive Rebound,78,89
+2:36,Evansville,K.J. Riley,Three Point Jumper,81,89
+1:59,Xavier,Elias Harden,Missed Jumper,81,89
+1:59,Xavier,Tyrique Jones,Offensive Rebound,81,89
+1:56,Evansville,Evan Kuhlman,Foul,81,89
+1:56,Xavier,Tyrique Jones,Missed Free Throw,81,89
+1:56,Xavier,None,Team Rebound,81,89
+1:56,Xavier,Tyrique Jones,Free Throw,81,90
+1:44,Evansville,Shea Feehan,Missed Jumper,81,90
+1:44,Xavier,Tyrique Jones,Defensive Rebound,81,90
+1:34,Xavier,Naji Marshall,Turnover,81,90
+1:17,Xavier,Elias Harden,Foul,81,90
+1:17,Evansville,Noah Frederking,Free Throw,82,90
+1:17,Evansville,Noah Frederking,Missed Free Throw,82,90
+1:17,Xavier,Kyle Castlin,Defensive Rebound,82,90
+0:52,Xavier,Elias Harden,Turnover,82,90
+0:51,Evansville,Shamar Givance,Steal,82,90
+0:37,Evansville,Noah Frederking,Three Point Jumper,85,90
+0:36,Evansville,None,None,85,90
+0:29,Xavier,Naji Marshall,Foul,85,90
+0:29,Xavier,Naji Marshall,Turnover,85,90
+0:23,Evansville,Shamar Givance,Foul,85,90
+0:23,Evansville,Shamar Givance,Turnover,85,90
+0:18,Xavier,None,None,85,90
+0:17,Evansville,Shea Feehan,Foul,85,90
+0:17,Xavier,Paul Scruggs,Missed Free Throw,85,90
+0:17,Xavier,None,Team Rebound,85,90
+0:17,Xavier,Paul Scruggs,Free Throw,85,91
+0:11,Evansville,K.J. Riley,Missed Three Point Jumper,85,91
+0:11,Xavier,Elias Harden,Defensive Rebound,85,91
+0:07,Evansville,John Hall,Foul,85,91
+0:07,Xavier,Elias Harden,Missed Free Throw,85,91
+0:07,Xavier,None,Team Rebound,85,91
+0:07,Xavier,Elias Harden,Missed Free Throw,85,91
+0:07,Evansville,John Hall,Defensive Rebound,85,91
+0:02,Evansville,Noah Frederking,Missed Three Point Jumper,85,91
+0:02,Xavier,Xavier,Defensive Rebound,85,91
+0:00,Xavier,None,None,85,91

@@ -1,0 +1,379 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Alabama,None,None,0,0
+19:39,Alabama,Dazon Ingram,Turnover,0,0
+19:20,LSU,Ja'vonte Smart,Jumper,2,0
+18:57,Alabama,John Petty,Turnover,2,0
+18:57,LSU,Skylar Mays,Steal,2,0
+18:42,LSU,Kavell Bigby-Williams,Missed Jumper,2,0
+18:42,LSU,Marlon Taylor,Offensive Rebound,2,0
+18:39,LSU,Marlon Taylor,Missed Layup,2,0
+18:39,Alabama,Donta Hall,Defensive Rebound,2,0
+18:23,Alabama,Dazon Ingram,Missed Layup,2,0
+18:23,LSU,Naz Reid,Defensive Rebound,2,0
+18:08,LSU,Naz Reid,Missed Three Point Jumper,2,0
+18:08,LSU,Skylar Mays,Offensive Rebound,2,0
+18:03,LSU,Skylar Mays,Layup,4,0
+17:52,Alabama,Kira Lewis Jr.,Missed Jumper,4,0
+17:52,LSU,Naz Reid,Defensive Rebound,4,0
+17:44,LSU,Ja'vonte Smart,Missed Three Point Jumper,4,0
+17:44,LSU,Marlon Taylor,Offensive Rebound,4,0
+17:36,LSU,Ja'vonte Smart,Three Point Jumper,7,0
+17:32,Alabama,None,None,7,0
+17:32,LSU,Marlon Taylor,Foul,7,0
+17:32,Alabama,John Petty,Free Throw,7,1
+17:32,Alabama,John Petty,Free Throw,7,2
+17:11,Alabama,Riley Norris,Missed Three Point Jumper,7,2
+17:11,Alabama,Riley Norris,Offensive Rebound,7,2
+17:02,Alabama,John Petty,Missed Layup,7,2
+17:02,Alabama,Donta Hall,Offensive Rebound,7,2
+17:02,Alabama,Donta Hall,Dunk,7,4
+16:37,Alabama,Riley Norris,Foul,7,4
+16:15,LSU,Ja'vonte Smart,Three Point Jumper,10,4
+16:11,Alabama,Herbert Jones,Missed Three Point Jumper,10,4
+16:11,LSU,Marlon Taylor,Defensive Rebound,10,4
+16:05,LSU,Ja'vonte Smart,Missed Three Point Jumper,10,4
+16:05,Alabama,Riley Norris,Defensive Rebound,10,4
+16:02,LSU,Naz Reid,Foul,10,4
+15:52,Alabama,John Petty,Missed Three Point Jumper,10,4
+15:52,Alabama,Herbert Jones,Offensive Rebound,10,4
+15:46,Alabama,Herbert Jones,Jumper,10,6
+15:21,LSU,Ja'vonte Smart,Missed Jumper,10,6
+15:21,Alabama,Riley Norris,Defensive Rebound,10,6
+15:12,LSU,Marlon Taylor,Foul,10,6
+15:12,Alabama,None,None,10,6
+15:12,Alabama,Herbert Jones,Free Throw,10,7
+15:12,Alabama,Herbert Jones,Missed Free Throw,10,7
+15:12,LSU,Darius Days,Defensive Rebound,10,7
+14:53,LSU,Ja'vonte Smart,Layup,12,7
+14:40,Alabama,Kira Lewis Jr.,Turnover,12,7
+14:40,LSU,Ja'vonte Smart,Steal,12,7
+14:35,LSU,Ja'vonte Smart,Layup,14,7
+14:12,Alabama,Herbert Jones,Three Point Jumper,14,10
+13:43,LSU,Ja'vonte Smart,Missed Jumper,14,10
+13:43,Alabama,Herbert Jones,Block,14,10
+13:43,LSU,LSU,Offensive Rebound,14,10
+13:38,LSU,Darius Days,Missed Jumper,14,10
+13:38,Alabama,Daniel Giddens,Defensive Rebound,14,10
+13:37,LSU,Kavell Bigby-Williams,Foul,14,10
+13:23,Alabama,Kira Lewis Jr.,Missed Jumper,14,10
+13:23,LSU,Skylar Mays,Defensive Rebound,14,10
+13:15,LSU,Emmitt Williams,Foul,14,10
+13:15,LSU,Emmitt Williams,Turnover,14,10
+13:07,Alabama,Daniel Giddens,Turnover,14,10
+13:07,Alabama,Daniel Giddens,Foul,14,10
+12:59,LSU,Tremont Waters,Three Point Jumper,17,10
+12:47,Alabama,Dazon Ingram,Missed Three Point Jumper,17,10
+12:47,Alabama,John Petty,Offensive Rebound,17,10
+12:42,Alabama,John Petty,Missed Layup,17,10
+12:42,LSU,Darius Days,Defensive Rebound,17,10
+12:30,LSU,Darius Days,Missed Three Point Jumper,17,10
+12:30,Alabama,Tevin Mack,Defensive Rebound,17,10
+12:16,LSU,Emmitt Williams,Foul,17,10
+12:16,Alabama,John Petty,Missed Free Throw,17,10
+12:16,Alabama,None,Team Rebound,17,10
+12:16,Alabama,John Petty,Missed Free Throw,17,10
+12:16,LSU,Darius Days,Defensive Rebound,17,10
+12:00,LSU,Skylar Mays,Missed Three Point Jumper,17,10
+12:00,Alabama,John Petty,Defensive Rebound,17,10
+11:51,Alabama,Dazon Ingram,Missed Layup,17,10
+11:51,LSU,Skylar Mays,Defensive Rebound,17,10
+11:37,Alabama,Dazon Ingram,Foul,17,10
+11:37,Alabama,None,None,17,10
+11:37,LSU,Ja'vonte Smart,Missed Free Throw,17,10
+11:37,LSU,None,Team Rebound,17,10
+11:37,LSU,Ja'vonte Smart,Free Throw,18,10
+11:27,Alabama,Herbert Jones,Missed Layup,18,10
+11:27,LSU,Tremont Waters,Defensive Rebound,18,10
+11:11,LSU,Kavell Bigby-Williams,Layup,20,10
+10:52,Alabama,Kira Lewis Jr.,Missed Layup,20,10
+10:52,LSU,Tremont Waters,Block,20,10
+10:52,Alabama,Alabama,Offensive Rebound,20,10
+10:43,Alabama,Riley Norris,Missed Jumper,20,10
+10:43,LSU,Darius Days,Defensive Rebound,20,10
+10:28,LSU,Ja'vonte Smart,Missed Layup,20,10
+10:28,LSU,Kavell Bigby-Williams,Offensive Rebound,20,10
+10:28,LSU,None,None,20,10
+10:28,Alabama,Herbert Jones,Defensive Rebound,20,10
+10:17,Alabama,Tevin Mack,Missed Three Point Jumper,20,10
+10:17,LSU,Kavell Bigby-Williams,Defensive Rebound,20,10
+9:57,Alabama,Kira Lewis Jr.,Foul,20,10
+9:43,Alabama,Donta Hall,Foul,20,10
+9:43,LSU,Kavell Bigby-Williams,Missed Free Throw,20,10
+9:43,LSU,None,Team Rebound,20,10
+9:43,LSU,Kavell Bigby-Williams,Free Throw,21,10
+9:29,Alabama,Herbert Jones,Three Point Jumper,21,13
+9:15,Alabama,Kira Lewis Jr.,Foul,21,13
+9:15,LSU,Emmitt Williams,Free Throw,22,13
+9:15,LSU,Emmitt Williams,Free Throw,23,13
+9:00,Alabama,Kira Lewis Jr.,Missed Jumper,23,13
+9:00,LSU,Darius Days,Defensive Rebound,23,13
+8:50,LSU,Naz Reid,Missed Dunk,23,13
+8:50,Alabama,Herbert Jones,Block,23,13
+8:50,Alabama,Kira Lewis Jr.,Defensive Rebound,23,13
+8:44,LSU,Darius Days,Foul,23,13
+8:44,Alabama,Herbert Jones,Foul,23,13
+8:44,Alabama,Herbert Jones,Foul,23,13
+8:44,LSU,Darius Days,Foul,23,13
+8:44,LSU,Darius Days,Foul,23,13
+8:44,Alabama,Kira Lewis Jr.,Missed Free Throw,23,13
+8:44,Alabama,None,Team Rebound,23,13
+8:44,Alabama,Kira Lewis Jr.,Free Throw,23,14
+8:21,LSU,Naz Reid,Turnover,23,14
+8:09,Alabama,Kira Lewis Jr.,Missed Jumper,23,14
+8:09,LSU,Naz Reid,Defensive Rebound,23,14
+7:50,LSU,Marlon Taylor,Missed Jumper,23,14
+7:50,Alabama,Donta Hall,Defensive Rebound,23,14
+7:38,Alabama,Riley Norris,Missed Three Point Jumper,23,14
+7:38,Alabama,Riley Norris,Offensive Rebound,23,14
+7:28,Alabama,John Petty,Layup,23,16
+6:58,LSU,Tremont Waters,Missed Three Point Jumper,23,16
+6:58,Alabama,Riley Norris,Defensive Rebound,23,16
+6:49,LSU,Naz Reid,Foul,23,16
+6:49,Alabama,None,None,23,16
+6:49,Alabama,Donta Hall,Missed Free Throw,23,16
+6:49,Alabama,None,Team Rebound,23,16
+6:49,Alabama,Donta Hall,Missed Free Throw,23,16
+6:49,LSU,Skylar Mays,Defensive Rebound,23,16
+6:19,LSU,LSU ,Turnover,23,16
+6:06,Alabama,John Petty,Three Point Jumper,23,19
+5:43,LSU,Skylar Mays,Missed Jumper,23,19
+5:43,LSU,Emmitt Williams,Offensive Rebound,23,19
+5:36,LSU,Skylar Mays,Turnover,23,19
+5:29,LSU,Ja'vonte Smart,Foul,23,19
+5:29,Alabama,John Petty,Free Throw,23,20
+5:29,Alabama,John Petty,Free Throw,23,21
+5:05,LSU,Skylar Mays,Missed Three Point Jumper,23,21
+5:05,LSU,Darius Days,Offensive Rebound,23,21
+5:01,Alabama,Donta Hall,Foul,23,21
+5:01,LSU,Darius Days,Missed Free Throw,23,21
+5:01,LSU,None,Team Rebound,23,21
+5:01,LSU,Darius Days,Missed Free Throw,23,21
+5:01,Alabama,Daniel Giddens,Defensive Rebound,23,21
+4:46,LSU,Darius Days,Foul,23,21
+4:46,Alabama,Daniel Giddens,Missed Free Throw,23,21
+4:46,Alabama,None,Team Rebound,23,21
+4:46,Alabama,Daniel Giddens,Missed Free Throw,23,21
+4:46,LSU,Kavell Bigby-Williams,Defensive Rebound,23,21
+4:24,LSU,Kavell Bigby-Williams,Missed Layup,23,21
+4:24,LSU,Naz Reid,Offensive Rebound,23,21
+4:24,LSU,None,None,23,21
+4:24,Alabama,Galin Smith,Defensive Rebound,23,21
+4:16,Alabama,John Petty,Missed Three Point Jumper,23,21
+4:16,Alabama,Daniel Giddens,Offensive Rebound,23,21
+4:12,Alabama,Herbert Jones,Missed Jumper,23,21
+4:12,LSU,Kavell Bigby-Williams,Defensive Rebound,23,21
+3:52,Alabama,Herbert Jones,Foul,23,21
+3:52,Alabama,None,None,23,21
+3:52,LSU,Kavell Bigby-Williams,Missed Free Throw,23,21
+3:52,Alabama,Galin Smith,Defensive Rebound,23,21
+3:40,Alabama,Daniel Giddens,Missed Three Point Jumper,23,21
+3:40,Alabama,Tevin Mack,Offensive Rebound,23,21
+3:35,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,23,21
+3:35,LSU,LSU,Defensive Rebound,23,21
+3:29,Alabama,Galin Smith,Foul,23,21
+3:29,LSU,Naz Reid,Missed Free Throw,23,21
+3:29,LSU,None,Team Rebound,23,21
+3:29,LSU,Naz Reid,Missed Free Throw,23,21
+3:29,Alabama,Riley Norris,Defensive Rebound,23,21
+3:17,Alabama,John Petty,Three Point Jumper,23,24
+2:47,LSU,Skylar Mays,Jumper,25,24
+2:19,Alabama,Galin Smith,Turnover,25,24
+2:19,LSU,Tremont Waters,Steal,25,24
+2:12,LSU,Ja'vonte Smart,Missed Layup,25,24
+2:12,Alabama,Tevin Mack,Defensive Rebound,25,24
+2:07,Alabama,Tevin Mack,Turnover,25,24
+2:07,LSU,Tremont Waters,Steal,25,24
+2:04,LSU,Naz Reid,Dunk,27,24
+1:42,Alabama,Riley Norris,Jumper,27,26
+1:06,LSU,Tremont Waters,Missed Three Point Jumper,27,26
+1:06,Alabama,Kira Lewis Jr.,Defensive Rebound,27,26
+1:00,Alabama,Kira Lewis Jr.,Layup,27,28
+0:50,LSU,None,None,27,28
+0:45,LSU,Naz Reid,Jumper,29,28
+0:25,Alabama,John Petty,Turnover,29,28
+0:25,LSU,Skylar Mays,Steal,29,28
+0:06,LSU,Tremont Waters,Turnover,29,28
+0:01,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,29,28
+0:01,LSU,LSU,Defensive Rebound,29,28
+0:00,Alabama,None,None,29,28
+20:00,LSU,None,None,29,28
+19:47,LSU,Kavell Bigby-Williams,Layup,31,28
+19:31,Alabama,Tevin Mack,Missed Jumper,31,28
+19:31,LSU,LSU,Defensive Rebound,31,28
+19:15,LSU,Ja'vonte Smart,Jumper,33,28
+19:06,LSU,Kavell Bigby-Williams,Foul,33,28
+19:06,Alabama,Dazon Ingram,Free Throw,33,29
+19:06,Alabama,Dazon Ingram,Missed Free Throw,33,29
+19:06,LSU,Naz Reid,Defensive Rebound,33,29
+18:53,LSU,Naz Reid,Missed Jumper,33,29
+18:53,LSU,Kavell Bigby-Williams,Offensive Rebound,33,29
+18:50,Alabama,Tevin Mack,Foul,33,29
+18:47,LSU,Naz Reid,Jumper,35,29
+18:34,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,35,29
+18:34,LSU,Ja'vonte Smart,Defensive Rebound,35,29
+18:31,Alabama,Tevin Mack,Foul,35,29
+18:14,LSU,Skylar Mays,Missed Three Point Jumper,35,29
+18:14,LSU,Marlon Taylor,Offensive Rebound,35,29
+18:14,LSU,Marlon Taylor,Dunk,37,29
+17:52,LSU,Naz Reid,Foul,37,29
+17:48,Alabama,Riley Norris,Missed Three Point Jumper,37,29
+17:48,Alabama,Kira Lewis Jr.,Offensive Rebound,37,29
+17:44,Alabama,Kira Lewis Jr.,Missed Jumper,37,29
+17:44,LSU,Naz Reid,Defensive Rebound,37,29
+17:34,LSU,Naz Reid,Missed Layup,37,29
+17:34,Alabama,Dazon Ingram,Defensive Rebound,37,29
+17:21,Alabama,Donta Hall,Jumper,37,31
+16:55,LSU,Marlon Taylor,Missed Three Point Jumper,37,31
+16:55,Alabama,Donta Hall,Defensive Rebound,37,31
+16:49,Alabama,Dazon Ingram,Turnover,37,31
+16:31,LSU,Marlon Taylor,Missed Jumper,37,31
+16:31,Alabama,Donta Hall,Defensive Rebound,37,31
+16:19,LSU,Marlon Taylor,Foul,37,31
+16:19,Alabama,John Petty,Free Throw,37,32
+16:19,Alabama,John Petty,Free Throw,37,33
+16:02,LSU,Skylar Mays,Missed Jumper,37,33
+16:02,LSU,Kavell Bigby-Williams,Offensive Rebound,37,33
+16:02,LSU,None,None,37,33
+16:02,Alabama,Riley Norris,Defensive Rebound,37,33
+15:57,Alabama,None,None,37,33
+15:43,Alabama,John Petty,Missed Jumper,37,33
+15:43,Alabama,Donta Hall,Offensive Rebound,37,33
+15:36,Alabama,John Petty,Missed Three Point Jumper,37,33
+15:36,Alabama,Donta Hall,Offensive Rebound,37,33
+15:33,LSU,Kavell Bigby-Williams,Foul,37,33
+15:21,Alabama,Riley Norris,Jumper,37,35
+14:58,LSU,Naz Reid,Turnover,37,35
+14:38,Alabama,Dazon Ingram,Missed Three Point Jumper,37,35
+14:38,LSU,Emmitt Williams,Defensive Rebound,37,35
+14:33,LSU,Emmitt Williams,Turnover,37,35
+14:24,Alabama,Kira Lewis Jr.,Missed Layup,37,35
+14:24,LSU,Emmitt Williams,Block,37,35
+14:24,LSU,Naz Reid,Defensive Rebound,37,35
+14:14,LSU,Naz Reid,Missed Three Point Jumper,37,35
+14:14,LSU,Emmitt Williams,Offensive Rebound,37,35
+14:12,Alabama,Riley Norris,Foul,37,35
+14:12,Alabama,Alabama,Foul,37,35
+14:12,Alabama,Alabama,Foul,37,35
+14:12,LSU,Skylar Mays,Free Throw,38,35
+14:12,LSU,Skylar Mays,Free Throw,39,35
+14:02,LSU,Tremont Waters,Missed Layup,39,35
+14:02,LSU,Tremont Waters,Offensive Rebound,39,35
+13:44,LSU,Ja'vonte Smart,Missed Layup,39,35
+13:44,Alabama,Donta Hall,Block,39,35
+13:44,Alabama,Donta Hall,Defensive Rebound,39,35
+13:39,Alabama,Kira Lewis Jr.,Layup,39,37
+13:23,LSU,Tremont Waters,Jumper,41,37
+13:08,Alabama,Riley Norris,Three Point Jumper,41,40
+12:49,LSU,Emmitt Williams,Foul,41,40
+12:49,LSU,Emmitt Williams,Turnover,41,40
+12:43,Alabama,Kira Lewis Jr.,Jumper,41,42
+12:22,LSU,Tremont Waters,Missed Jumper,41,42
+12:22,Alabama,Herbert Jones,Defensive Rebound,41,42
+12:17,LSU,Emmitt Williams,Foul,41,42
+11:59,Alabama,Donta Hall,Layup,41,44
+11:59,Alabama,None,None,41,44
+11:59,LSU,Darius Days,Foul,41,44
+11:59,Alabama,None,None,41,44
+11:59,Alabama,Donta Hall,Free Throw,41,45
+11:43,LSU,Naz Reid,Missed Three Point Jumper,41,45
+11:43,Alabama,John Petty,Defensive Rebound,41,45
+11:22,Alabama,Riley Norris,Jumper,41,47
+10:58,LSU,Naz Reid,Jumper,43,47
+10:40,Alabama,Donta Hall,Dunk,43,49
+10:08,LSU,Kavell Bigby-Williams,Missed Jumper,43,49
+10:08,LSU,Naz Reid,Offensive Rebound,43,49
+10:05,LSU,Naz Reid,Layup,45,49
+9:49,Alabama,Herbert Jones,Missed Layup,45,49
+9:49,LSU,Kavell Bigby-Williams,Block,45,49
+9:49,LSU,Naz Reid,Defensive Rebound,45,49
+9:38,Alabama,Riley Norris,Foul,45,49
+9:38,LSU,Skylar Mays,Free Throw,46,49
+9:38,LSU,Skylar Mays,Free Throw,47,49
+9:22,Alabama,Herbert Jones,Turnover,47,49
+9:01,LSU,Ja'vonte Smart,Missed Jumper,47,49
+9:01,Alabama,Donta Hall,Defensive Rebound,47,49
+8:50,Alabama,John Petty,Missed Three Point Jumper,47,49
+8:50,LSU,Naz Reid,Defensive Rebound,47,49
+8:41,LSU,Kavell Bigby-Williams,Layup,49,49
+8:30,Alabama,None,None,49,49
+8:17,Alabama,Donta Hall,Dunk,49,51
+8:17,LSU,Kavell Bigby-Williams,Foul,49,51
+8:17,Alabama,Donta Hall,Missed Free Throw,49,51
+8:17,LSU,Naz Reid,Defensive Rebound,49,51
+8:03,LSU,Marlon Taylor,Turnover,49,51
+7:48,Alabama,Herbert Jones,Missed Jumper,49,51
+7:48,Alabama,Riley Norris,Offensive Rebound,49,51
+7:44,LSU,Marlon Taylor,Foul,49,51
+7:44,Alabama,None,None,49,51
+7:44,Alabama,Riley Norris,Free Throw,49,52
+7:44,Alabama,Riley Norris,Free Throw,49,53
+7:34,LSU,Naz Reid,Missed Jumper,49,53
+7:34,Alabama,Riley Norris,Defensive Rebound,49,53
+7:15,Alabama,Herbert Jones,Missed Jumper,49,53
+7:15,LSU,Skylar Mays,Defensive Rebound,49,53
+6:58,LSU,Ja'vonte Smart,Layup,51,53
+6:42,Alabama,Kira Lewis Jr.,Turnover,51,53
+6:42,LSU,Skylar Mays,Steal,51,53
+6:38,LSU,Skylar Mays,Layup,53,53
+6:17,Alabama,Donta Hall,Layup,53,55
+6:17,LSU,Emmitt Williams,Foul,53,55
+6:17,Alabama,Donta Hall,Free Throw,53,56
+5:58,Alabama,Dazon Ingram,Foul,53,56
+5:46,LSU,Naz Reid,Layup,55,56
+5:35,Alabama,Kira Lewis Jr.,Missed Jumper,55,56
+5:35,LSU,Naz Reid,Defensive Rebound,55,56
+5:21,LSU,Ja'vonte Smart,Jumper,57,56
+5:13,Alabama,John Petty,Three Point Jumper,57,59
+4:59,LSU,Darius Days,Three Point Jumper,60,59
+4:29,LSU,Tremont Waters,Foul,60,59
+4:29,Alabama,Dazon Ingram,Foul,60,59
+4:23,Alabama,Riley Norris,Missed Three Point Jumper,60,59
+4:23,LSU,Naz Reid,Defensive Rebound,60,59
+4:11,LSU,Ja'vonte Smart,Turnover,60,59
+4:11,Alabama,Herbert Jones,Steal,60,59
+4:05,Alabama,Kira Lewis Jr.,Missed Jumper,60,59
+4:05,LSU,Darius Days,Defensive Rebound,60,59
+3:57,LSU,Darius Days,Layup,62,59
+3:57,Alabama,Riley Norris,Foul,62,59
+3:57,Alabama,None,None,62,59
+3:57,LSU,Darius Days,Missed Free Throw,62,59
+3:57,Alabama,Donta Hall,Defensive Rebound,62,59
+3:57,Alabama,Donta Hall,Turnover,62,59
+3:57,LSU,Ja'vonte Smart,Steal,62,59
+3:34,LSU,Naz Reid,Missed Jumper,62,59
+3:34,Alabama,Kira Lewis Jr.,Defensive Rebound,62,59
+3:25,Alabama,Tevin Mack,Missed Three Point Jumper,62,59
+3:25,LSU,Skylar Mays,Defensive Rebound,62,59
+3:18,LSU,Skylar Mays,Layup,64,59
+3:00,Alabama,Kira Lewis Jr.,Missed Three Point Jumper,64,59
+3:00,LSU,Darius Days,Defensive Rebound,64,59
+2:37,LSU,Naz Reid,Foul,64,59
+2:37,LSU,Naz Reid,Turnover,64,59
+2:24,Alabama,Herbert Jones,Layup,64,61
+2:14,LSU,None,None,64,61
+2:05,LSU,Ja'vonte Smart,Missed Three Point Jumper,64,61
+2:05,Alabama,John Petty,Defensive Rebound,64,61
+1:39,Alabama,Riley Norris,Layup,64,63
+1:15,LSU,Skylar Mays,Layup,66,63
+0:51,Alabama,Riley Norris,Turnover,66,63
+0:51,LSU,Tremont Waters,Steal,66,63
+0:47,LSU,Skylar Mays,Dunk,68,63
+0:42,Alabama,None,None,68,63
+0:35,Alabama,Donta Hall,Missed Jumper,68,63
+0:35,LSU,Marlon Taylor,Defensive Rebound,68,63
+0:29,Alabama,Herbert Jones,Foul,68,63
+0:29,LSU,Marlon Taylor,Free Throw,69,63
+0:29,LSU,Marlon Taylor,Free Throw,70,63
+0:29,Alabama,None,None,70,63
+0:22,Alabama,John Petty,Three Point Jumper,70,66
+0:18,Alabama,Kira Lewis Jr.,Foul,70,66
+0:18,LSU,Skylar Mays,Free Throw,71,66
+0:18,LSU,Skylar Mays,Free Throw,72,66
+0:10,Alabama,John Petty,Three Point Jumper,72,69
+0:09,LSU,None,None,72,69
+0:08,Alabama,John Petty,Foul,72,69
+0:08,LSU,Skylar Mays,Free Throw,73,69
+0:08,LSU,Skylar Mays,Free Throw,74,69
+0:06,Alabama,Kira Lewis Jr.,Turnover,74,69
+0:06,LSU,Tremont Waters,Steal,74,69
+0:00,Alabama,None,None,74,69

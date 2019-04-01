@@ -1,0 +1,356 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Murray State,None,None,0,0
+19:47,Murray State,KJ Williams,Missed Jumper,0,0
+19:47,Marquette,Sam Hauser,Defensive Rebound,0,0
+19:25,Marquette,Joey Hauser,Missed Three Point Jumper,0,0
+19:25,Murray State,Tevin Brown,Defensive Rebound,0,0
+19:05,Murray State,KJ Williams,Layup,2,0
+18:36,Marquette,Sacar Anim,Missed Three Point Jumper,2,0
+18:36,Marquette,Joey Hauser,Offensive Rebound,2,0
+18:31,Marquette,Joey Hauser,Layup,2,2
+18:11,Murray State,Darnell Cowart,Missed Jumper,2,2
+18:11,Marquette,Sam Hauser,Defensive Rebound,2,2
+18:01,Marquette,Markus Howard,Three Point Jumper,2,5
+17:34,Murray State,Ja Morant,Three Point Jumper,5,5
+17:02,Marquette,Markus Howard,Jumper,5,7
+17:02,Murray State,Shaq Buchanan,Foul,5,7
+17:02,Marquette,Markus Howard,Free Throw,5,8
+16:47,Murray State,Shaq Buchanan,Missed Three Point Jumper,5,8
+16:47,Murray State,Darnell Cowart,Offensive Rebound,5,8
+16:42,Murray State,KJ Williams,Jumper,7,8
+16:26,Marquette,Markus Howard,Missed Jumper,7,8
+16:26,Marquette,Theo John,Offensive Rebound,7,8
+16:21,Marquette,Sam Hauser,Missed Jumper,7,8
+16:21,Murray State,Ja Morant,Defensive Rebound,7,8
+16:10,Murray State,Tevin Brown,Three Point Jumper,10,8
+15:51,Marquette,Joey Hauser,Jumper,10,10
+15:51,Murray State,KJ Williams,Foul,10,10
+15:51,Marquette,None,None,10,10
+15:51,Marquette,Joey Hauser,Missed Free Throw,10,10
+15:51,Murray State,Brion Sanchious,Defensive Rebound,10,10
+15:36,Murray State,Darnell Cowart,Layup,12,10
+15:13,Marquette,Joey Hauser,Missed Jumper,12,10
+15:13,Murray State,Ja Morant,Defensive Rebound,12,10
+14:51,Murray State,Tevin Brown,Three Point Jumper,15,10
+14:32,Marquette,Markus Howard,Missed Three Point Jumper,15,10
+14:32,Murray State,Darnell Cowart,Defensive Rebound,15,10
+14:19,Murray State,Shaq Buchanan,Three Point Jumper,18,10
+14:10,Marquette,None,None,18,10
+13:54,Marquette,Ed Morrow,Turnover,18,10
+13:39,Marquette,Joey Hauser,Foul,18,10
+13:29,Murray State,Brion Sanchious,Missed Jumper,18,10
+13:29,Marquette,Ed Morrow,Block,18,10
+13:29,Marquette,Sam Hauser,Defensive Rebound,18,10
+13:21,Marquette,Markus Howard,Turnover,18,10
+13:21,Murray State,Darnell Cowart,Steal,18,10
+13:01,Marquette,Sacar Anim,Foul,18,10
+12:52,Murray State,Shaq Buchanan,Jumper,20,10
+12:35,Murray State,Tevin Brown,Foul,20,10
+12:27,Marquette,Sam Hauser,Three Point Jumper,20,13
+12:03,Murray State,Darnell Cowart,Missed Layup,20,13
+12:03,Marquette,Joey Hauser,Defensive Rebound,20,13
+11:55,Marquette,Markus Howard,Layup,20,15
+11:32,Marquette,Markus Howard,Foul,20,15
+11:31,Marquette,None,None,20,15
+11:31,Murray State,Darnell Cowart,Missed Free Throw,20,15
+11:31,Murray State,None,Team Rebound,20,15
+11:31,Murray State,Darnell Cowart,Missed Free Throw,20,15
+11:31,Marquette,Sam Hauser,Defensive Rebound,20,15
+11:16,Marquette,Joey Hauser,Missed Jumper,20,15
+11:16,Marquette,Marquette,Offensive Rebound,20,15
+11:04,Marquette,Markus Howard,Jumper,20,17
+10:41,Murray State,KJ Williams,Turnover,20,17
+10:41,Marquette,Markus Howard,Steal,20,17
+10:41,Marquette,None,None,20,17
+10:34,Marquette,Markus Howard,Three Point Jumper,20,20
+10:08,Murray State,Shaq Buchanan,Missed Three Point Jumper,20,20
+10:08,Marquette,Brendan Bailey,Defensive Rebound,20,20
+9:59,Marquette,Markus Howard,Missed Jumper,20,20
+9:59,Murray State,Shaq Buchanan,Defensive Rebound,20,20
+9:53,Murray State,Tevin Brown,Three Point Jumper,23,20
+9:25,Marquette,Sam Hauser,Jumper,23,22
+9:15,Murray State,Ja Morant,Missed Layup,23,22
+9:15,Marquette,Sam Hauser,Defensive Rebound,23,22
+9:04,Murray State,KJ Williams,Foul,23,22
+9:03,Marquette,Markus Howard,Missed Three Point Jumper,23,22
+9:03,Murray State,Jaiveon Eaves,Defensive Rebound,23,22
+8:51,Murray State,Jaiveon Eaves,Missed Three Point Jumper,23,22
+8:51,Marquette,Markus Howard,Defensive Rebound,23,22
+8:44,Marquette,Theo John,Turnover,23,22
+8:35,Murray State,Ja Morant,Missed Jumper,23,22
+8:35,Marquette,Sam Hauser,Defensive Rebound,23,22
+8:28,Marquette,Markus Howard,Missed Jumper,23,22
+8:28,Marquette,Theo John,Offensive Rebound,23,22
+8:17,Murray State,Jaiveon Eaves,Foul,23,22
+8:05,Marquette,Sam Hauser,Missed Three Point Jumper,23,22
+8:05,Murray State,Shaq Buchanan,Defensive Rebound,23,22
+7:52,Murray State,Ja Morant,Turnover,23,22
+7:52,Marquette,Joseph Chartouny,Steal,23,22
+7:42,Marquette,Joseph Chartouny,Turnover,23,22
+7:42,Marquette,None,None,23,22
+7:30,Murray State,Jaiveon Eaves,Turnover,23,22
+7:30,Marquette,Brendan Bailey,Steal,23,22
+7:24,Marquette,Brendan Bailey,Dunk,23,24
+7:07,Murray State,Darnell Cowart,Missed Jumper,23,24
+7:07,Marquette,Theo John,Defensive Rebound,23,24
+6:58,Marquette,Markus Howard,Missed Layup,23,24
+6:58,Murray State,Devin Gilmore,Block,23,24
+6:58,Marquette,Marquette,Offensive Rebound,23,24
+6:52,Marquette,Markus Howard,Missed Three Point Jumper,23,24
+6:52,Murray State,Ja Morant,Defensive Rebound,23,24
+6:45,Marquette,Brendan Bailey,Foul,23,24
+6:45,Murray State,Ja Morant,Free Throw,24,24
+6:45,Murray State,Ja Morant,Free Throw,25,24
+6:32,Marquette,Sam Hauser,Missed Jumper,25,24
+6:32,Murray State,Ja Morant,Defensive Rebound,25,24
+6:23,Murray State,Ja Morant,Turnover,25,24
+6:01,Marquette,Joey Hauser,Turnover,25,24
+5:51,Marquette,Theo John,Foul,25,24
+5:51,Murray State,Devin Gilmore,Free Throw,26,24
+5:51,Murray State,Devin Gilmore,Free Throw,27,24
+5:31,Marquette,Sacar Anim,Turnover,27,24
+5:31,Murray State,Shaq Buchanan,Steal,27,24
+5:25,Marquette,Joey Hauser,Foul,27,24
+5:25,Murray State,Shaq Buchanan,Missed Free Throw,27,24
+5:25,Murray State,None,Team Rebound,27,24
+5:25,Murray State,Shaq Buchanan,Free Throw,28,24
+5:09,Marquette,Markus Howard,Three Point Jumper,28,27
+4:54,Marquette,Theo John,Foul,28,27
+4:54,Murray State,Ja Morant,Free Throw,29,27
+4:54,Murray State,Ja Morant,Free Throw,30,27
+4:43,Marquette,Markus Howard,Missed Jumper,30,27
+4:43,Murray State,Shaq Buchanan,Defensive Rebound,30,27
+4:40,Marquette,Markus Howard,Foul,30,27
+4:40,Murray State,Shaq Buchanan,Missed Free Throw,30,27
+4:40,Marquette,Sam Hauser,Defensive Rebound,30,27
+4:30,Marquette,Brendan Bailey,Missed Three Point Jumper,30,27
+4:30,Murray State,Shaq Buchanan,Defensive Rebound,30,27
+4:20,Murray State,Tevin Brown,Three Point Jumper,33,27
+3:55,Marquette,Sacar Anim,Missed Three Point Jumper,33,27
+3:55,Marquette,Brendan Bailey,Offensive Rebound,33,27
+3:52,Murray State,Tevin Brown,Foul,33,27
+3:52,Marquette,None,None,33,27
+3:52,Marquette,Brendan Bailey,Missed Free Throw,33,27
+3:52,Marquette,None,Team Rebound,33,27
+3:52,Marquette,Brendan Bailey,Free Throw,33,28
+3:40,Murray State,Jaiveon Eaves,Three Point Jumper,36,28
+3:16,Marquette,Ed Morrow,Layup,36,30
+2:59,Marquette,Sam Hauser,Foul,36,30
+2:59,Murray State,Devin Gilmore,Free Throw,37,30
+2:59,Murray State,Devin Gilmore,Missed Free Throw,37,30
+2:59,Marquette,Sam Hauser,Defensive Rebound,37,30
+2:42,Marquette,Sam Hauser,Three Point Jumper,37,33
+2:26,Murray State,Ja Morant,Turnover,37,33
+2:26,Marquette,Brendan Bailey,Steal,37,33
+2:19,Marquette,Joseph Chartouny,Missed Layup,37,33
+2:19,Marquette,Marquette,Offensive Rebound,37,33
+2:17,Marquette,Sacar Anim,Missed Three Point Jumper,37,33
+2:17,Marquette,Ed Morrow,Offensive Rebound,37,33
+2:00,Marquette,Ed Morrow,Layup,37,35
+1:39,Murray State,Ja Morant,Turnover,37,35
+1:39,Marquette,Joseph Chartouny,Steal,37,35
+1:31,Marquette,Sam Hauser,Missed Jumper,37,35
+1:31,Marquette,Ed Morrow,Offensive Rebound,37,35
+1:28,Marquette,Ed Morrow,Foul,37,35
+1:28,Marquette,Ed Morrow,Turnover,37,35
+1:08,Murray State,Devin Gilmore,Dunk,39,35
+0:42,Marquette,Brendan Bailey,Turnover,39,35
+0:42,Murray State,Shaq Buchanan,Steal,39,35
+0:36,Murray State,Shaq Buchanan,Missed Jumper,39,35
+0:36,Marquette,Ed Morrow,Block,39,35
+0:36,Marquette,Sam Hauser,Defensive Rebound,39,35
+0:31,Marquette,Brendan Bailey,Missed Three Point Jumper,39,35
+0:31,Murray State,Darnell Cowart,Defensive Rebound,39,35
+0:07,Murray State,Ja Morant,Three Point Jumper,42,35
+0:00,Marquette,None,None,42,35
+20:00,Murray State,None,None,42,35
+19:52,Murray State,Shaq Buchanan,Missed Three Point Jumper,42,35
+19:52,Murray State,Darnell Cowart,Offensive Rebound,42,35
+19:48,Murray State,Darnell Cowart,Missed Layup,42,35
+19:48,Marquette,Theo John,Block,42,35
+19:48,Murray State,Darnell Cowart,Offensive Rebound,42,35
+19:45,Murray State,Darnell Cowart,Missed Jumper,42,35
+19:45,Marquette,Sam Hauser,Block,42,35
+19:45,Murray State,Darnell Cowart,Offensive Rebound,42,35
+19:27,Murray State,KJ Williams,Dunk,44,35
+19:03,Marquette,Sam Hauser,Missed Jumper,44,35
+19:03,Murray State,Ja Morant,Defensive Rebound,44,35
+18:53,Murray State,Shaq Buchanan,Layup,46,35
+18:42,Marquette,None,None,46,35
+18:37,Marquette,Joey Hauser,Missed Three Point Jumper,46,35
+18:37,Marquette,Theo John,Offensive Rebound,46,35
+18:27,Marquette,Theo John,Missed Jumper,46,35
+18:27,Murray State,Tevin Brown,Defensive Rebound,46,35
+18:10,Murray State,Ja Morant,Layup,48,35
+18:10,Marquette,Sacar Anim,Foul,48,35
+18:10,Murray State,Ja Morant,Free Throw,49,35
+18:00,Marquette,Markus Howard,Missed Jumper,49,35
+18:00,Murray State,KJ Williams,Block,49,35
+18:00,Marquette,Theo John,Offensive Rebound,49,35
+17:47,Marquette,Markus Howard,Three Point Jumper,49,38
+17:35,Murray State,Ja Morant,Dunk,51,38
+17:13,Marquette,Theo John,Missed Jumper,51,38
+17:13,Murray State,Ja Morant,Defensive Rebound,51,38
+17:02,Murray State,Ja Morant,Missed Layup,51,38
+17:02,Marquette,Theo John,Block,51,38
+17:02,Marquette,Theo John,Defensive Rebound,51,38
+16:50,Marquette,Sam Hauser,Missed Three Point Jumper,51,38
+16:50,Murray State,Ja Morant,Defensive Rebound,51,38
+16:37,Murray State,Tevin Brown,Layup,53,38
+16:23,Marquette,Markus Howard,Layup,53,40
+16:14,Murray State,Tevin Brown,Missed Three Point Jumper,53,40
+16:14,Marquette,Brendan Bailey,Defensive Rebound,53,40
+16:10,Murray State,Shaq Buchanan,Foul,53,40
+16:04,Marquette,Markus Howard,Missed Three Point Jumper,53,40
+16:04,Murray State,Tevin Brown,Defensive Rebound,53,40
+15:44,Murray State,Shaq Buchanan,Missed Jumper,53,40
+15:44,Murray State,KJ Williams,Offensive Rebound,53,40
+15:38,Murray State,KJ Williams,Layup,55,40
+15:22,Marquette,Markus Howard,Missed Three Point Jumper,55,40
+15:22,Murray State,Murray State,Defensive Rebound,55,40
+15:15,Marquette,Theo John,Foul,55,40
+15:15,Marquette,None,None,55,40
+14:52,Murray State,KJ Williams,Missed Jumper,55,40
+14:52,Marquette,Ed Morrow,Defensive Rebound,55,40
+14:45,Marquette,Markus Howard,Missed Jumper,55,40
+14:45,Murray State,Ja Morant,Defensive Rebound,55,40
+14:39,Murray State,Shaq Buchanan,Dunk,57,40
+14:32,Marquette,Markus Howard,Turnover,57,40
+14:32,Murray State,Darnell Cowart,Steal,57,40
+14:27,Marquette,Sam Hauser,Foul,57,40
+14:27,Murray State,Darnell Cowart,Missed Free Throw,57,40
+14:27,Murray State,None,Team Rebound,57,40
+14:27,Murray State,Darnell Cowart,Missed Free Throw,57,40
+14:27,Marquette,Ed Morrow,Defensive Rebound,57,40
+14:12,Marquette,Ed Morrow,Missed Dunk,57,40
+14:12,Murray State,KJ Williams,Defensive Rebound,57,40
+13:58,Murray State,Ja Morant,Turnover,57,40
+13:58,Marquette,Brendan Bailey,Steal,57,40
+13:53,Marquette,Brendan Bailey,Missed Jumper,57,40
+13:53,Marquette,Ed Morrow,Offensive Rebound,57,40
+13:53,Marquette,Ed Morrow,Missed Jumper,57,40
+13:53,Murray State,Tevin Brown,Block,57,40
+13:53,Murray State,Murray State,Defensive Rebound,57,40
+13:46,Murray State,Tevin Brown,Missed Three Point Jumper,57,40
+13:46,Marquette,Sam Hauser,Defensive Rebound,57,40
+13:38,Marquette,Markus Howard,Missed Three Point Jumper,57,40
+13:38,Murray State,Tevin Brown,Defensive Rebound,57,40
+13:31,Murray State,Tevin Brown,Missed Layup,57,40
+13:31,Marquette,Joey Hauser,Defensive Rebound,57,40
+13:31,Murray State,Devin Gilmore,Foul,57,40
+13:05,Marquette,Sam Hauser,Jumper,57,42
+12:52,Murray State,Ja Morant,Turnover,57,42
+12:34,Marquette,Joey Hauser,Missed Jumper,57,42
+12:34,Marquette,Ed Morrow,Offensive Rebound,57,42
+12:34,Marquette,Ed Morrow,Missed Jumper,57,42
+12:34,Marquette,Ed Morrow,Offensive Rebound,57,42
+12:29,Marquette,Ed Morrow,Missed Jumper,57,42
+12:29,Murray State,Darnell Cowart,Block,57,42
+12:29,Murray State,Darnell Cowart,Defensive Rebound,57,42
+12:22,Murray State,Tevin Brown,Three Point Jumper,60,42
+12:06,Marquette,Sam Hauser,Foul,60,42
+12:06,Marquette,Sam Hauser,Turnover,60,42
+11:56,Murray State,Devin Gilmore,Missed Jumper,60,42
+11:56,Murray State,Devin Gilmore,Offensive Rebound,60,42
+11:46,Marquette,Theo John,Foul,60,42
+11:46,Marquette,None,None,60,42
+11:27,Murray State,Ja Morant,Missed Jumper,60,42
+11:27,Murray State,KJ Williams,Offensive Rebound,60,42
+11:23,Murray State,KJ Williams,Layup,62,42
+11:06,Murray State,Devin Gilmore,Foul,62,42
+11:06,Marquette,Joey Hauser,Free Throw,62,43
+11:06,Marquette,Joey Hauser,Free Throw,62,44
+10:50,Murray State,Tevin Brown,Missed Three Point Jumper,62,44
+10:50,Marquette,Brendan Bailey,Defensive Rebound,62,44
+10:29,Marquette,Theo John,Turnover,62,44
+10:29,Murray State,Devin Gilmore,Steal,62,44
+10:20,Murray State,Shaq Buchanan,Layup,64,44
+10:01,Marquette,Sam Hauser,Missed Jumper,64,44
+10:01,Murray State,Tevin Brown,Defensive Rebound,64,44
+9:29,Murray State,Devin Gilmore,Turnover,64,44
+9:18,Marquette,Markus Howard,Missed Jumper,64,44
+9:18,Murray State,Shaq Buchanan,Block,64,44
+9:18,Marquette,Marquette,Offensive Rebound,64,44
+9:11,Marquette,Sam Hauser,Missed Layup,64,44
+9:11,Marquette,Ed Morrow,Offensive Rebound,64,44
+9:05,Marquette,Ed Morrow,Dunk,64,46
+8:43,Murray State,Darnell Cowart,Layup,66,46
+8:12,Marquette,Markus Howard,Turnover,66,46
+8:12,Murray State,Shaq Buchanan,Steal,66,46
+8:07,Murray State,Shaq Buchanan,Layup,68,46
+7:59,Marquette,None,None,68,46
+7:49,Marquette,Brendan Bailey,Layup,68,48
+7:28,Murray State,KJ Williams,Layup,70,48
+7:09,Marquette,Joey Hauser,Layup,70,50
+7:09,Murray State,KJ Williams,Foul,70,50
+7:09,Marquette,Joey Hauser,Missed Free Throw,70,50
+7:09,Murray State,Tevin Brown,Defensive Rebound,70,50
+6:49,Murray State,Darnell Cowart,Turnover,70,50
+6:49,Marquette,Sam Hauser,Steal,70,50
+6:44,Marquette,Sam Hauser,Three Point Jumper,70,53
+6:14,Murray State,Darnell Cowart,Layup,72,53
+6:03,Murray State,Darnell Cowart,Foul,72,53
+6:01,Marquette,Sam Hauser,Missed Three Point Jumper,72,53
+6:01,Murray State,Ja Morant,Defensive Rebound,72,53
+5:30,Murray State,Tevin Brown,Missed Layup,72,53
+5:30,Murray State,Darnell Cowart,Offensive Rebound,72,53
+5:28,Marquette,Brendan Bailey,Foul,72,53
+5:28,Murray State,Darnell Cowart,Free Throw,73,53
+5:28,Murray State,Darnell Cowart,Missed Free Throw,73,53
+5:28,Marquette,Joey Hauser,Defensive Rebound,73,53
+5:20,Marquette,Brendan Bailey,Missed Three Point Jumper,73,53
+5:20,Marquette,Markus Howard,Offensive Rebound,73,53
+5:13,Marquette,Markus Howard,Missed Three Point Jumper,73,53
+5:13,Murray State,Shaq Buchanan,Defensive Rebound,73,53
+4:51,Marquette,Joey Hauser,Foul,73,53
+4:51,Murray State,Darnell Cowart,Free Throw,74,53
+4:51,Murray State,Darnell Cowart,Free Throw,75,53
+4:42,Marquette,Sam Hauser,Missed Jumper,75,53
+4:42,Murray State,Ja Morant,Defensive Rebound,75,53
+4:18,Marquette,Joey Hauser,Foul,75,53
+4:18,Murray State,Darnell Cowart,Missed Free Throw,75,53
+4:18,Marquette,Ed Morrow,Defensive Rebound,75,53
+4:14,Marquette,Markus Howard,Layup,75,55
+3:59,Murray State,Shaq Buchanan,Missed Three Point Jumper,75,55
+3:59,Marquette,Ed Morrow,Defensive Rebound,75,55
+3:43,Marquette,Sam Hauser,Jumper,75,57
+3:43,Marquette,Sam Hauser,Free Throw,75,58
+3:43,Murray State,Shaq Buchanan,Foul,75,58
+3:43,Marquette,None,None,75,58
+3:38,Marquette,Brendan Bailey,Foul,75,58
+3:38,Murray State,Tevin Brown,Free Throw,76,58
+3:38,Murray State,Tevin Brown,Free Throw,77,58
+3:30,Marquette,Brendan Bailey,Three Point Jumper,77,61
+3:17,Murray State,KJ Williams,Layup,79,61
+3:17,Marquette,Markus Howard,Foul,79,61
+3:17,Murray State,KJ Williams,Missed Free Throw,79,61
+3:17,Marquette,Ed Morrow,Defensive Rebound,79,61
+3:09,Marquette,Markus Howard,Missed Three Point Jumper,79,61
+3:09,Murray State,KJ Williams,Defensive Rebound,79,61
+2:55,Murray State,Ja Morant,Turnover,79,61
+2:55,Marquette,Sam Hauser,Steal,79,61
+2:50,Marquette,Markus Howard,Missed Three Point Jumper,79,61
+2:50,Marquette,Marquette,Offensive Rebound,79,61
+2:47,Marquette,Sam Hauser,Missed Three Point Jumper,79,61
+2:47,Marquette,Brendan Bailey,Offensive Rebound,79,61
+2:41,Marquette,Markus Howard,Missed Three Point Jumper,79,61
+2:41,Murray State,Ja Morant,Defensive Rebound,79,61
+2:33,Murray State,KJ Williams,Dunk,81,61
+2:15,Murray State,Tevin Brown,Foul,81,61
+2:15,Marquette,Markus Howard,Free Throw,81,62
+2:15,Marquette,Markus Howard,Missed Free Throw,81,62
+2:15,Murray State,Shaq Buchanan,Defensive Rebound,81,62
+1:50,Murray State,Tevin Brown,Missed Three Point Jumper,81,62
+1:50,Marquette,Sacar Anim,Defensive Rebound,81,62
+1:40,Murray State,Darnell Cowart,Foul,81,62
+1:40,Marquette,Markus Howard,Free Throw,81,63
+1:40,Marquette,Markus Howard,Free Throw,81,64
+1:11,Murray State,Ja Morant,Layup,83,64
+1:07,Murray State,None,None,83,64
+1:05,Marquette,Brendan Bailey,Missed Three Point Jumper,83,64
+1:05,Murray State,Devin Gilmore,Defensive Rebound,83,64
+0:39,Murray State,Jalen Johnson,Turnover,83,64
+0:39,Marquette,Cam Marotta,Steal,83,64
+0:28,Marquette,Brendan Bailey,Missed Jumper,83,64
+0:28,Murray State,Jalen Johnson,Defensive Rebound,83,64
+0:00,Marquette,None,None,83,64

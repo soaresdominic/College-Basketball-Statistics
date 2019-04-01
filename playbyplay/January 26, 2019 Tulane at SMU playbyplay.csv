@@ -1,0 +1,331 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Tulane,None,None,0,0
+19:45,Tulane,Jordan Cornish,Layup,2,0
+19:24,SMU,Isiaha Mike,Turnover,2,0
+19:24,Tulane,Caleb Daniels,Steal,2,0
+19:19,Tulane,Connor Crabtree,Missed Three Point Jumper,2,0
+19:19,SMU,Ethan Chargois,Defensive Rebound,2,0
+18:45,SMU,Isiaha Mike,Turnover,2,0
+18:25,Tulane,Kevin Zhang,Missed Three Point Jumper,2,0
+18:25,SMU,Nat Dixon,Defensive Rebound,2,0
+18:16,SMU,Jahmal McMurray,Three Point Jumper,2,3
+17:49,Tulane,Samir Sehic,Layup,4,3
+17:25,SMU,Nat Dixon,Missed Three Point Jumper,4,3
+17:25,SMU,Ethan Chargois,Offensive Rebound,4,3
+17:05,SMU,Ethan Chargois,Three Point Jumper,4,6
+16:40,Tulane,Jordan Cornish,Missed Jumper,4,6
+16:40,SMU,Ethan Chargois,Defensive Rebound,4,6
+16:30,SMU,Isiaha Mike,Turnover,4,6
+16:14,Tulane,Samir Sehic,Foul,4,6
+16:14,Tulane,Samir Sehic,Turnover,4,6
+15:50,SMU,Jimmy Whitt Jr.,Missed Jumper,4,6
+15:50,Tulane,Jordan Cornish,Defensive Rebound,4,6
+15:42,Tulane,Kevin Zhang,Three Point Jumper,7,6
+15:24,SMU,Ethan Chargois,Jumper,7,8
+15:02,Tulane,Caleb Daniels,Three Point Jumper,10,8
+14:36,SMU,Ethan Chargois,Missed Three Point Jumper,10,8
+14:36,Tulane,Tulane,Defensive Rebound,10,8
+14:32,SMU,None,None,10,8
+14:20,Tulane,Blake Paul,Dunk,12,8
+13:52,SMU,Jimmy Whitt Jr.,Jumper,12,10
+13:20,Tulane,Blake Paul,Missed Jumper,12,10
+13:20,SMU,Ethan Chargois,Defensive Rebound,12,10
+13:10,SMU,Jahmal McMurray,Missed Three Point Jumper,12,10
+13:10,SMU,Nat Dixon,Offensive Rebound,12,10
+12:52,Tulane,Blake Paul,Foul,12,10
+12:52,SMU,Jimmy Whitt Jr.,Free Throw,12,11
+12:52,SMU,Jimmy Whitt Jr.,Missed Free Throw,12,11
+12:52,Tulane,Kevin Zhang,Defensive Rebound,12,11
+12:37,Tulane,Caleb Daniels,Turnover,12,11
+12:37,SMU,Jimmy Whitt Jr.,Steal,12,11
+12:27,SMU,Jimmy Whitt Jr.,Missed Layup,12,11
+12:27,Tulane,Blake Paul,Defensive Rebound,12,11
+12:18,Tulane,Connor Crabtree,Layup,14,11
+11:56,SMU,Ethan Chargois,Missed Jumper,14,11
+11:56,Tulane,Kevin Zhang,Defensive Rebound,14,11
+11:43,SMU,Feron Hunt,Foul,14,11
+11:43,SMU,None,None,14,11
+11:43,Tulane,Kevin Zhang,Free Throw,15,11
+11:43,Tulane,Kevin Zhang,Free Throw,16,11
+11:43,Tulane,Kevin Zhang,Missed Free Throw,16,11
+11:43,SMU,Feron Hunt,Defensive Rebound,16,11
+11:26,SMU,Jahmar Young Jr.,Missed Jumper,16,11
+11:26,Tulane,Jordan Cornish,Defensive Rebound,16,11
+11:16,Tulane,Kevin Zhang,Turnover,16,11
+10:50,SMU,Jimmy Whitt Jr.,Missed Three Point Jumper,16,11
+10:50,Tulane,Jordan Cornish,Defensive Rebound,16,11
+10:26,Tulane,Moses Wood,Missed Jumper,16,11
+10:26,SMU,Feron Hunt,Block,16,11
+10:26,SMU,Feron Hunt,Defensive Rebound,16,11
+10:24,SMU,Feron Hunt,Turnover,16,11
+10:21,Tulane,Kevin Zhang,Turnover,16,11
+10:04,SMU,Jahmal McMurray,Three Point Jumper,16,14
+9:35,Tulane,Caleb Daniels,Turnover,16,14
+9:35,SMU,Isiaha Mike,Steal,16,14
+9:27,SMU,Jahmal McMurray,Jumper,16,16
+9:02,Tulane,Caleb Daniels,Foul,16,16
+9:02,Tulane,Caleb Daniels,Turnover,16,16
+8:48,SMU,Ethan Chargois,Dunk,16,18
+8:30,Tulane,Blake Paul,Layup,18,18
+8:12,SMU,Isiaha Mike,Dunk,18,20
+7:54,SMU,Ethan Chargois,Foul,18,20
+7:54,SMU,None,None,18,20
+7:54,Tulane,Blake Paul,Free Throw,19,20
+7:54,Tulane,Blake Paul,Free Throw,20,20
+7:35,SMU,Ethan Chargois,Missed Jumper,20,20
+7:35,Tulane,Moses Wood,Defensive Rebound,20,20
+7:17,Tulane,Samir Sehic,Missed Three Point Jumper,20,20
+7:17,SMU,Jimmy Whitt Jr.,Defensive Rebound,20,20
+7:05,SMU,Nat Dixon,Missed Layup,20,20
+7:05,SMU,Ethan Chargois,Offensive Rebound,20,20
+7:05,SMU,Ethan Chargois,Missed Layup,20,20
+7:05,SMU,Ethan Chargois,Offensive Rebound,20,20
+7:05,SMU,None,None,20,20
+7:05,Tulane,Jordan Cornish,Defensive Rebound,20,20
+6:53,Tulane,Jordan Cornish,Layup,22,20
+6:38,SMU,Isiaha Mike,Missed Jumper,22,20
+6:38,Tulane,Jordan Cornish,Defensive Rebound,22,20
+6:31,Tulane,Jordan Cornish,Turnover,22,20
+6:31,SMU,Isiaha Mike,Steal,22,20
+6:24,SMU,Ethan Chargois,Layup,22,22
+6:01,Tulane,Moses Wood,Three Point Jumper,25,22
+5:41,SMU,Isiaha Mike,Three Point Jumper,25,25
+5:15,Tulane,Samir Sehic,Missed Layup,25,25
+5:15,Tulane,Samir Sehic,Offensive Rebound,25,25
+5:15,Tulane,Samir Sehic,Missed Layup,25,25
+5:15,SMU,Jahmal McMurray,Block,25,25
+5:15,SMU,Jahmal McMurray,Defensive Rebound,25,25
+5:06,SMU,Jahmal McMurray,Missed Jumper,25,25
+5:06,Tulane,Blake Paul,Defensive Rebound,25,25
+5:01,Tulane,Shakwon Barrett,Layup,27,25
+5:01,SMU,Isiaha Mike,Foul,27,25
+5:01,Tulane,Shakwon Barrett,Free Throw,28,25
+4:47,SMU,Nat Dixon,Missed Three Point Jumper,28,25
+4:47,Tulane,Caleb Daniels,Defensive Rebound,28,25
+4:31,Tulane,Caleb Daniels,Missed Three Point Jumper,28,25
+4:31,SMU,William Douglas,Defensive Rebound,28,25
+4:18,SMU,Isiaha Mike,Three Point Jumper,28,28
+3:56,SMU,William Douglas,Foul,28,28
+3:56,SMU,None,None,28,28
+3:56,Tulane,Caleb Daniels,Free Throw,29,28
+3:56,Tulane,Caleb Daniels,Free Throw,30,28
+3:30,SMU,Jahmal McMurray,Jumper,30,30
+3:19,Tulane,Caleb Daniels,Missed Three Point Jumper,30,30
+3:19,SMU,Feron Hunt,Defensive Rebound,30,30
+2:57,SMU,Isiaha Mike,Missed Layup,30,30
+2:57,Tulane,Samir Sehic,Defensive Rebound,30,30
+2:50,Tulane,Samir Sehic,Missed Three Point Jumper,30,30
+2:50,SMU,Jahmal McMurray,Defensive Rebound,30,30
+2:33,SMU,Isiaha Mike,Turnover,30,30
+2:33,Tulane,Kevin Zhang,Steal,30,30
+2:27,Tulane,Samir Sehic,Layup,32,30
+2:13,SMU,Jahmal McMurray,Turnover,32,30
+1:49,Tulane,Caleb Daniels,Foul,32,30
+1:49,Tulane,Caleb Daniels,Turnover,32,30
+1:27,SMU,Nat Dixon,Missed Three Point Jumper,32,30
+1:27,Tulane,Connor Crabtree,Defensive Rebound,32,30
+1:07,SMU,Jimmy Whitt Jr.,Foul,32,30
+1:00,Tulane,Jordan Cornish,Missed Layup,32,30
+1:00,SMU,Ethan Chargois,Defensive Rebound,32,30
+0:53,Tulane,Connor Crabtree,Foul,32,30
+0:53,SMU,Jahmal McMurray,Free Throw,32,31
+0:53,SMU,Jahmal McMurray,Free Throw,32,32
+0:42,Tulane,Jordan Cornish,Turnover,32,32
+0:42,SMU,Feron Hunt,Steal,32,32
+0:26,SMU,Ethan Chargois,Missed Jumper,32,32
+0:26,Tulane,Kevin Zhang,Defensive Rebound,32,32
+0:18,Tulane,None,None,32,32
+0:00,Tulane,Kevin Zhang,Three Point Jumper,35,32
+0:00,SMU,None,None,35,32
+20:00,SMU,None,None,35,32
+19:41,SMU,Jahmal McMurray,Missed Jumper,35,32
+19:41,Tulane,Jordan Cornish,Defensive Rebound,35,32
+19:31,Tulane,Kevin Zhang,Turnover,35,32
+19:31,SMU,Nat Dixon,Steal,35,32
+19:25,SMU,Jimmy Whitt Jr.,Turnover,35,32
+19:25,Tulane,Caleb Daniels,Steal,35,32
+19:16,Tulane,Connor Crabtree,Jumper,37,32
+18:59,SMU,Jahmal McMurray,Layup,37,34
+18:43,Tulane,Jordan Cornish,Missed Jumper,37,34
+18:43,SMU,Ethan Chargois,Defensive Rebound,37,34
+18:19,SMU,Isiaha Mike,Jumper,37,36
+18:19,Tulane,Samir Sehic,Foul,37,36
+18:19,SMU,Isiaha Mike,Free Throw,37,37
+18:08,Tulane,Kevin Zhang,Missed Three Point Jumper,37,37
+18:08,Tulane,Tulane,Offensive Rebound,37,37
+18:05,Tulane,None,None,37,37
+17:46,Tulane,Caleb Daniels,Jumper,39,37
+17:32,SMU,Jimmy Whitt Jr.,Missed Dunk,39,37
+17:32,Tulane,Jordan Cornish,Defensive Rebound,39,37
+17:17,Tulane,Connor Crabtree,Missed Three Point Jumper,39,37
+17:17,SMU,Isiaha Mike,Block,39,37
+17:17,Tulane,Samir Sehic,Offensive Rebound,39,37
+17:08,Tulane,Samir Sehic,Missed Layup,39,37
+17:08,Tulane,Samir Sehic,Offensive Rebound,39,37
+17:01,Tulane,Samir Sehic,Missed Layup,39,37
+17:01,SMU,Ethan Chargois,Block,39,37
+17:01,SMU,Nat Dixon,Defensive Rebound,39,37
+16:51,SMU,Jahmal McMurray,Missed Three Point Jumper,39,37
+16:51,Tulane,Samir Sehic,Defensive Rebound,39,37
+16:46,SMU,Ethan Chargois,Foul,39,37
+16:46,Tulane,Jordan Cornish,Free Throw,40,37
+16:46,Tulane,Jordan Cornish,Free Throw,41,37
+16:37,SMU,Isiaha Mike,Missed Layup,41,37
+16:37,Tulane,Kevin Zhang,Block,41,37
+16:37,SMU,Jimmy Whitt Jr.,Offensive Rebound,41,37
+16:28,SMU,Ethan Chargois,Missed Three Point Jumper,41,37
+16:28,Tulane,Samir Sehic,Defensive Rebound,41,37
+16:26,SMU,Ethan Chargois,Foul,41,37
+16:13,Tulane,Connor Crabtree,Missed Layup,41,37
+16:13,SMU,Feron Hunt,Block,41,37
+16:13,SMU,Jimmy Whitt Jr.,Defensive Rebound,41,37
+16:02,SMU,Jahmal McMurray,Three Point Jumper,41,40
+15:38,Tulane,Jordan Cornish,Foul,41,40
+15:38,Tulane,Jordan Cornish,Turnover,41,40
+15:38,SMU,None,None,41,40
+15:28,SMU,Nat Dixon,Missed Three Point Jumper,41,40
+15:28,SMU,SMU,Offensive Rebound,41,40
+15:22,SMU,Jimmy Whitt Jr.,Missed Jumper,41,40
+15:22,Tulane,Samir Sehic,Defensive Rebound,41,40
+14:56,Tulane,Kevin Zhang,Missed Jumper,41,40
+14:56,SMU,Feron Hunt,Defensive Rebound,41,40
+14:47,SMU,Jahmal McMurray,Missed Layup,41,40
+14:47,Tulane,Samir Sehic,Defensive Rebound,41,40
+14:38,Tulane,Caleb Daniels,Missed Layup,41,40
+14:38,Tulane,Caleb Daniels,Offensive Rebound,41,40
+14:38,SMU,Feron Hunt,Foul,41,40
+14:38,Tulane,Caleb Daniels,Free Throw,42,40
+14:38,Tulane,Caleb Daniels,Free Throw,43,40
+14:27,SMU,Feron Hunt,Layup,43,42
+14:09,Tulane,Connor Crabtree,Turnover,43,42
+13:58,SMU,Isiaha Mike,Three Point Jumper,43,45
+13:40,Tulane,Jordan Cornish,Three Point Jumper,46,45
+13:25,Tulane,Jordan Cornish,Foul,46,45
+13:22,SMU,Jahmal McMurray,Turnover,46,45
+13:08,Tulane,Blake Paul,Layup,48,45
+12:52,SMU,Jahmal McMurray,Three Point Jumper,48,48
+12:28,Tulane,Jordan Cornish,Three Point Jumper,51,48
+11:55,SMU,Feron Hunt,Missed Dunk,51,48
+11:54,SMU,Feron Hunt,Offensive Rebound,51,48
+11:52,SMU,None,None,51,48
+11:38,SMU,Ethan Chargois,Missed Three Point Jumper,51,48
+11:38,SMU,Isiaha Mike,Offensive Rebound,51,48
+11:31,SMU,Jahmal McMurray,Missed Jumper,51,48
+11:31,Tulane,Moses Wood,Defensive Rebound,51,48
+11:23,SMU,Feron Hunt,Foul,51,48
+11:19,Tulane,Caleb Daniels,Missed Three Point Jumper,51,48
+11:19,Tulane,Blake Paul,Offensive Rebound,51,48
+11:19,SMU,Ethan Chargois,Foul,51,48
+11:09,Tulane,Blake Paul,Jumper,53,48
+10:53,SMU,Jahmal McMurray,Missed Three Point Jumper,53,48
+10:53,Tulane,Caleb Daniels,Defensive Rebound,53,48
+10:42,Tulane,Kevin Zhang,Missed Jumper,53,48
+10:42,Tulane,Kevin Zhang,Offensive Rebound,53,48
+10:32,Tulane,Blake Paul,Missed Jumper,53,48
+10:32,SMU,Jimmy Whitt Jr.,Defensive Rebound,53,48
+10:30,Tulane,Kevin Zhang,Foul,53,48
+10:18,SMU,Isiaha Mike,Three Point Jumper,53,51
+9:57,Tulane,Kevin Zhang,Missed Three Point Jumper,53,51
+9:57,Tulane,Jordan Cornish,Offensive Rebound,53,51
+9:50,SMU,Nat Dixon,Foul,53,51
+9:50,Tulane,Kevin Zhang,Missed Free Throw,53,51
+9:50,Tulane,None,Team Rebound,53,51
+9:50,Tulane,Kevin Zhang,Free Throw,54,51
+9:35,SMU,Nat Dixon,Three Point Jumper,54,54
+9:18,Tulane,Kevin Zhang,Missed Three Point Jumper,54,54
+9:18,Tulane,Blake Paul,Offensive Rebound,54,54
+9:08,Tulane,Jordan Cornish,Turnover,54,54
+9:08,SMU,Feron Hunt,Steal,54,54
+8:56,SMU,Feron Hunt,Layup,54,56
+8:34,Tulane,Caleb Daniels,Missed Jumper,54,56
+8:34,Tulane,Tulane,Offensive Rebound,54,56
+8:21,Tulane,Jordan Cornish,Turnover,54,56
+8:21,SMU,Jahmal McMurray,Steal,54,56
+8:17,SMU,Jahmal McMurray,Layup,54,58
+8:02,Tulane,Kevin Zhang,Turnover,54,58
+8:02,SMU,Isiaha Mike,Steal,54,58
+7:57,Tulane,Jordan Cornish,Foul,54,58
+7:57,SMU,None,None,54,58
+7:48,Tulane,Blake Paul,Foul,54,58
+7:48,SMU,Jimmy Whitt Jr.,Missed Free Throw,54,58
+7:48,SMU,None,Team Rebound,54,58
+7:48,SMU,Jimmy Whitt Jr.,Free Throw,54,59
+7:30,Tulane,Moses Wood,Three Point Jumper,57,59
+7:09,SMU,Jahmal McMurray,Missed Three Point Jumper,57,59
+7:09,SMU,Feron Hunt,Missed Layup,57,59
+7:07,SMU,Feron Hunt,Offensive Rebound,57,59
+7:07,SMU,Feron Hunt,Offensive Rebound,57,59
+7:03,Tulane,Blake Paul,Foul,57,59
+7:03,SMU,Feron Hunt,Free Throw,57,60
+7:03,SMU,Feron Hunt,Missed Free Throw,57,60
+7:03,Tulane,Kevin Zhang,Defensive Rebound,57,60
+6:41,Tulane,Caleb Daniels,Three Point Jumper,60,60
+6:23,Tulane,Caleb Daniels,Foul,60,60
+6:23,SMU,Jahmal McMurray,Free Throw,60,61
+6:23,SMU,Jahmal McMurray,Free Throw,60,62
+5:54,Tulane,Caleb Daniels,Missed Three Point Jumper,60,62
+5:54,SMU,Jimmy Whitt Jr.,Defensive Rebound,60,62
+5:34,SMU,Feron Hunt,Missed Three Point Jumper,60,62
+5:34,SMU,SMU,Offensive Rebound,60,62
+5:33,Tulane,Moses Wood,Foul,60,62
+5:33,SMU,Nat Dixon,Free Throw,60,63
+5:33,SMU,Nat Dixon,Free Throw,60,64
+5:08,Tulane,Caleb Daniels,Missed Layup,60,64
+5:08,Tulane,Samir Sehic,Offensive Rebound,60,64
+5:08,Tulane,None,None,62,64
+4:50,Tulane,Samir Sehic,Foul,62,64
+4:50,SMU,Ethan Chargois,Free Throw,62,65
+4:50,SMU,Ethan Chargois,Free Throw,62,66
+4:31,SMU,Ethan Chargois,Foul,62,66
+4:31,Tulane,Moses Wood,Free Throw,63,66
+4:31,Tulane,Moses Wood,Free Throw,64,66
+4:16,SMU,Jimmy Whitt Jr.,Jumper,64,68
+3:56,SMU,Feron Hunt,Foul,64,68
+3:56,SMU,None,None,64,68
+3:56,Tulane,Caleb Daniels,Missed Free Throw,64,68
+3:56,Tulane,None,Team Rebound,64,68
+3:56,Tulane,Caleb Daniels,Missed Free Throw,64,68
+3:56,Tulane,Kevin Zhang,Offensive Rebound,64,68
+3:49,Tulane,Samir Sehic,Layup,66,68
+3:33,SMU,Jahmal McMurray,Three Point Jumper,66,71
+3:06,Tulane,Caleb Daniels,Missed Jumper,66,71
+3:06,SMU,Isiaha Mike,Defensive Rebound,66,71
+2:44,SMU,Isiaha Mike,Three Point Jumper,66,74
+2:23,Tulane,Kevin Zhang,Missed Three Point Jumper,66,74
+2:23,SMU,Jahmal McMurray,Defensive Rebound,66,74
+2:12,SMU,Jahmal McMurray,Layup,66,76
+2:01,SMU,Jimmy Whitt Jr.,Foul,66,76
+2:01,Tulane,Jordan Cornish,Free Throw,67,76
+2:01,Tulane,Jordan Cornish,Free Throw,68,76
+1:55,Tulane,Kevin Zhang,Foul,68,76
+1:55,SMU,Nat Dixon,Free Throw,68,77
+1:55,SMU,Nat Dixon,Free Throw,68,78
+1:37,Tulane,Moses Wood,Jumper,70,78
+1:23,SMU,Feron Hunt,Dunk,70,80
+1:13,Tulane,Caleb Daniels,Missed Three Point Jumper,70,80
+1:13,SMU,Jimmy Whitt Jr.,Defensive Rebound,70,80
+1:09,Tulane,Caleb Daniels,Foul,70,80
+1:09,SMU,Jimmy Whitt Jr.,Missed Free Throw,70,80
+1:09,SMU,None,Team Rebound,70,80
+1:09,SMU,Jimmy Whitt Jr.,Free Throw,70,81
+1:01,SMU,Jimmy Whitt Jr.,Foul,70,81
+1:01,Tulane,Jordan Cornish,Missed Free Throw,70,81
+1:01,Tulane,None,Team Rebound,70,81
+1:01,Tulane,Jordan Cornish,Missed Free Throw,70,81
+1:01,SMU,Isiaha Mike,Defensive Rebound,70,81
+0:43,Tulane,Moses Wood,Foul,70,81
+0:43,SMU,Nat Dixon,Free Throw,70,82
+0:43,SMU,Nat Dixon,Free Throw,70,83
+0:34,Tulane,Jordan Cornish,Three Point Jumper,73,83
+0:30,Tulane,Jordan Cornish,Foul,73,83
+0:30,SMU,Jimmy Whitt Jr.,Missed Free Throw,73,83
+0:30,SMU,None,Team Rebound,73,83
+0:30,SMU,Jimmy Whitt Jr.,Missed Free Throw,73,83
+0:30,Tulane,Samir Sehic,Defensive Rebound,73,83
+0:19,Tulane,Caleb Daniels,Turnover,73,83
+0:19,SMU,Nat Dixon,Steal,73,83
+0:15,SMU,Nat Dixon,Dunk,73,85
+0:07,Tulane,Samir Sehic,Layup,75,85
+0:04,SMU,Feron Hunt,Turnover,75,85
+0:04,Tulane,Caleb Daniels,Steal,75,85
+0:00,SMU,None,None,75,85

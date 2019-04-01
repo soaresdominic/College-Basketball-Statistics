@@ -1,0 +1,327 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Murray State,None,None,0,0
+19:38,Murray State,Tevin Brown,Turnover,0,0
+19:38,Jacksonville State,Christian Cunningham,Steal,0,0
+19:32,Jacksonville State,Jamall Gregory,Layup,2,0
+19:14,Murray State,Ja Morant,Jumper,2,2
+18:39,Jacksonville State,Jamall Gregory,Jumper,4,2
+18:33,Murray State,Shaq Buchanan,Missed Layup,4,2
+18:33,Jacksonville State,Christian Cunningham,Defensive Rebound,4,2
+18:25,Jacksonville State,Ty Hudson,Turnover,4,2
+18:25,Murray State,Shaq Buchanan,Steal,4,2
+18:21,Murray State,Ja Morant,Dunk,4,4
+18:06,Jacksonville State,Marlon Hunter,Missed Jumper,4,4
+18:06,Murray State,Darnell Cowart,Defensive Rebound,4,4
+17:58,Murray State,Tevin Brown,Missed Three Point Jumper,4,4
+17:58,Jacksonville State,Jason Burnell,Defensive Rebound,4,4
+17:34,Jacksonville State,Marlon Hunter,Jumper,6,4
+17:08,Jacksonville State,Marlon Hunter,Foul,6,4
+17:08,Murray State,Ja Morant,Free Throw,6,5
+17:08,Murray State,Ja Morant,Free Throw,6,6
+16:53,Jacksonville State,Jason Burnell,Missed Jumper,6,6
+16:53,Murray State,Tevin Brown,Defensive Rebound,6,6
+16:37,Murray State,KJ Williams,Dunk,6,8
+16:18,Murray State,KJ Williams,Foul,6,8
+16:09,Jacksonville State,Jamall Gregory,Three Point Jumper,9,8
+15:54,Murray State,Ja Morant,Layup,9,10
+15:28,Jacksonville State,Jamall Gregory,Missed Jumper,9,10
+15:28,Jacksonville State,Christian Cunningham,Offensive Rebound,9,10
+15:20,Jacksonville State,Christian Cunningham,Missed Layup,9,10
+15:20,Murray State,Brion Sanchious,Block,9,10
+15:20,Jacksonville State,Jason Burnell,Offensive Rebound,9,10
+15:11,Jacksonville State,Jason Burnell,Layup,11,10
+14:58,Murray State,Ja Morant,Missed Three Point Jumper,11,10
+14:58,Jacksonville State,Detrick Mostella,Defensive Rebound,11,10
+14:45,Jacksonville State,Jason Burnell,Missed Three Point Jumper,11,10
+14:45,Murray State,Darnell Cowart,Defensive Rebound,11,10
+14:43,Jacksonville State,Ty Hudson,Foul,11,10
+14:43,Murray State,None,None,11,10
+14:43,Murray State,Ja Morant,Missed Free Throw,11,10
+14:43,Murray State,None,Team Rebound,11,10
+14:43,Murray State,Ja Morant,Free Throw,11,11
+14:33,Jacksonville State,Marlon Hunter,Turnover,11,11
+14:20,Murray State,Ja Morant,Three Point Jumper,11,14
+13:55,Jacksonville State,Jason Burnell,Missed Three Point Jumper,11,14
+13:55,Jacksonville State,Detrick Mostella,Offensive Rebound,11,14
+13:53,Murray State,Darnell Cowart,Foul,11,14
+13:51,Jacksonville State,Ty Hudson,Turnover,11,14
+13:39,Murray State,Ja Morant,Jumper,11,16
+13:20,Murray State,Ja Morant,Foul,11,16
+13:20,Jacksonville State,Detrick Mostella,Free Throw,12,16
+13:20,Jacksonville State,Detrick Mostella,Missed Free Throw,12,16
+13:20,Jacksonville State,Christian Cunningham,Offensive Rebound,12,16
+13:06,Jacksonville State,Detrick Mostella,Missed Three Point Jumper,12,16
+13:06,Murray State,Tevin Brown,Defensive Rebound,12,16
+12:59,Murray State,Ja Morant,Turnover,12,16
+12:59,Jacksonville State,Jason Burnell,Steal,12,16
+12:52,Jacksonville State,Maurice Dunlap,Layup,14,16
+12:30,Murray State,Shaq Buchanan,Turnover,14,16
+12:08,Jacksonville State,Jason Burnell,Jumper,16,16
+11:47,Murray State,Shaq Buchanan,Missed Three Point Jumper,16,16
+11:47,Jacksonville State,Detrick Mostella,Defensive Rebound,16,16
+11:42,Jacksonville State,Detrick Mostella,Turnover,16,16
+11:42,Murray State,Shaq Buchanan,Steal,16,16
+11:41,Murray State,None,None,16,16
+11:38,Murray State,Jaiveon Eaves,Missed Three Point Jumper,16,16
+11:38,Murray State,Darnell Cowart,Offensive Rebound,16,16
+11:32,Murray State,Darnell Cowart,Layup,16,18
+11:09,Jacksonville State,Marlon Hunter,Missed Jumper,16,18
+11:09,Murray State,Jaiveon Eaves,Defensive Rebound,16,18
+10:52,Murray State,Ja Morant,Layup,16,20
+10:22,Jacksonville State,Christian Cunningham,Dunk,18,20
+10:03,Murray State,Jaiveon Eaves,Missed Jumper,18,20
+10:03,Jacksonville State,Jason Burnell,Defensive Rebound,18,20
+9:51,Jacksonville State,Detrick Mostella,Three Point Jumper,21,20
+9:28,Murray State,Darnell Cowart,Turnover,21,20
+9:28,Jacksonville State,Maurice Dunlap,Steal,21,20
+9:20,Jacksonville State,Maurice Dunlap,Missed Layup,21,20
+9:20,Murray State,Shaq Buchanan,Block,21,20
+9:20,Jacksonville State,Marlon Hunter,Offensive Rebound,21,20
+9:12,Jacksonville State,Marlon Hunter,Layup,23,20
+9:05,Murray State,Devin Gilmore,Missed Jumper,23,20
+9:05,Murray State,Darnell Cowart,Offensive Rebound,23,20
+9:04,Jacksonville State,Maurice Dunlap,Foul,23,20
+9:04,Murray State,Tevin Brown,Turnover,23,20
+8:50,Jacksonville State,Jacara Cross,Missed Jumper,23,20
+8:50,Murray State,Darnell Cowart,Defensive Rebound,23,20
+8:44,Murray State,Tevin Brown,Missed Three Point Jumper,23,20
+8:44,Murray State,Shaq Buchanan,Offensive Rebound,23,20
+8:44,Murray State,None,None,23,22
+8:14,Jacksonville State,Maurice Dunlap,Missed Jumper,23,22
+8:14,Jacksonville State,Jacksonville State,Offensive Rebound,23,22
+8:13,Jacksonville State,Jamall Gregory,Missed Three Point Jumper,23,22
+8:13,Murray State,Shaq Buchanan,Defensive Rebound,23,22
+8:10,Jacksonville State,Jacara Cross,Foul,23,22
+7:57,Jacksonville State,Jason Burnell,Foul,23,22
+7:57,Murray State,None,None,23,22
+7:57,Murray State,Darnell Cowart,Free Throw,23,23
+7:57,Murray State,Darnell Cowart,Free Throw,23,24
+7:34,Jacksonville State,Jamall Gregory,Turnover,23,24
+7:23,Murray State,Brion Sanchious,Turnover,23,24
+7:23,Jacksonville State,Jason Burnell,Steal,23,24
+7:18,Jacksonville State,Jason Burnell,Layup,25,24
+7:18,Murray State,Brion Sanchious,Foul,25,24
+7:18,Jacksonville State,Jason Burnell,Foul,25,24
+7:18,Murray State,Ja Morant,Free Throw,25,25
+7:18,Jacksonville State,Jason Burnell,Foul,25,24
+7:18,Murray State,Ja Morant,Missed Free Throw,25,25
+7:18,Jacksonville State,None,Team Rebound,25,25
+7:18,Jacksonville State,Jason Burnell,Free Throw,26,25
+7:02,Murray State,Tevin Brown,Three Point Jumper,26,28
+6:37,Jacksonville State,Jamall Gregory,Missed Jumper,26,28
+6:37,Jacksonville State,Jacara Cross,Offensive Rebound,26,28
+6:37,Jacksonville State,None,None,28,28
+6:20,Murray State,Ja Morant,Missed Three Point Jumper,28,28
+6:20,Jacksonville State,Christian Cunningham,Defensive Rebound,28,28
+6:09,Jacksonville State,Detrick Mostella,Missed Jumper,28,28
+6:09,Murray State,Ja Morant,Defensive Rebound,28,28
+6:02,Murray State,Ja Morant,Missed Layup,28,28
+6:02,Jacksonville State,Christian Cunningham,Block,28,28
+6:02,Jacksonville State,Christian Cunningham,Defensive Rebound,28,28
+5:50,Jacksonville State,Jamall Gregory,Turnover,28,28
+5:50,Murray State,Ja Morant,Steal,28,28
+5:42,Jacksonville State,Jamall Gregory,Foul,28,28
+5:42,Murray State,Brion Sanchious,Free Throw,28,29
+5:42,Murray State,Brion Sanchious,Free Throw,28,30
+5:32,Jacksonville State,Maurice Dunlap,Turnover,28,30
+5:26,Murray State,Tevin Brown,Three Point Jumper,28,33
+5:20,Jacksonville State,None,None,28,33
+5:12,Jacksonville State,Ty Hudson,Turnover,28,33
+5:09,Murray State,KJ Williams,Dunk,28,35
+4:55,Jacksonville State,None,None,28,35
+4:43,Jacksonville State,Detrick Mostella,Missed Jumper,28,35
+4:43,Murray State,Ja Morant,Defensive Rebound,28,35
+4:27,Murray State,Darnell Cowart,Missed Jumper,28,35
+4:27,Jacksonville State,Ty Hudson,Defensive Rebound,28,35
+4:06,Jacksonville State,Ty Hudson,Missed Jumper,28,35
+4:06,Murray State,Darnell Cowart,Defensive Rebound,28,35
+3:59,Murray State,Ja Morant,Turnover,28,35
+3:59,Jacksonville State,Jacara Cross,Steal,28,35
+3:48,Jacksonville State,Jamall Gregory,Missed Layup,28,35
+3:48,Murray State,Darnell Cowart,Defensive Rebound,28,35
+3:41,Murray State,Tevin Brown,Missed Three Point Jumper,28,35
+3:41,Murray State,Tevin Brown,Offensive Rebound,28,35
+3:33,Murray State,Shaq Buchanan,Three Point Jumper,28,38
+3:09,Jacksonville State,Christian Cunningham,Jumper,30,38
+2:36,Murray State,KJ Williams,Layup,30,40
+2:36,Murray State,None,None,30,40
+2:18,Jacksonville State,Christian Cunningham,Turnover,30,40
+2:05,Murray State,KJ Williams,Dunk,30,42
+1:34,Murray State,Tevin Brown,Foul,30,42
+1:21,Jacksonville State,Marlon Hunter,Missed Three Point Jumper,30,42
+1:21,Murray State,Tevin Brown,Defensive Rebound,30,42
+1:15,Murray State,Tevin Brown,Missed Three Point Jumper,30,42
+1:15,Jacksonville State,Marlon Hunter,Defensive Rebound,30,42
+0:52,Murray State,KJ Williams,Foul,30,42
+0:52,Jacksonville State,Jamall Gregory,Free Throw,31,42
+0:52,Jacksonville State,Jamall Gregory,Missed Free Throw,31,42
+0:52,Murray State,Darnell Cowart,Defensive Rebound,31,42
+0:42,Murray State,Ja Morant,Turnover,31,42
+0:22,Jacksonville State,Jamall Gregory,Turnover,31,42
+0:22,Murray State,Tevin Brown,Steal,31,42
+0:18,Murray State,Tevin Brown,Missed Dunk,31,42
+0:18,Jacksonville State,Jamall Gregory,Block,31,42
+0:18,Murray State,Murray State,Offensive Rebound,31,42
+0:18,Murray State,None,None,31,42
+0:18,Murray State,Brion Sanchious,Turnover,31,42
+0:06,Jacksonville State,Jamall Gregory,Dunk,33,42
+0:00,Murray State,None,None,33,42
+20:00,Jacksonville State,None,None,33,42
+19:40,Jacksonville State,Jason Burnell,Missed Jumper,33,42
+19:40,Murray State,Darnell Cowart,Defensive Rebound,33,42
+19:25,Murray State,KJ Williams,Layup,33,44
+19:06,Jacksonville State,Marlon Hunter,Jumper,35,44
+18:57,Jacksonville State,Jamall Gregory,Foul,35,44
+18:44,Murray State,Darnell Cowart,Missed Jumper,35,44
+18:44,Jacksonville State,Jason Burnell,Defensive Rebound,35,44
+18:34,Jacksonville State,Ty Hudson,Missed Jumper,35,44
+18:34,Murray State,Shaq Buchanan,Block,35,44
+18:34,Murray State,KJ Williams,Defensive Rebound,35,44
+18:22,Murray State,Ja Morant,Turnover,35,44
+18:22,Jacksonville State,Jason Burnell,Steal,35,44
+18:18,Jacksonville State,Jason Burnell,Layup,37,44
+17:57,Murray State,Darnell Cowart,Missed Layup,37,44
+17:57,Jacksonville State,Christian Cunningham,Defensive Rebound,37,44
+17:51,Jacksonville State,Jamall Gregory,Layup,39,44
+17:30,Murray State,Shaq Buchanan,Missed Jumper,39,44
+17:30,Jacksonville State,Christian Cunningham,Block,39,44
+17:30,Jacksonville State,Marlon Hunter,Defensive Rebound,39,44
+17:13,Jacksonville State,Marlon Hunter,Missed Jumper,39,44
+17:13,Murray State,Murray State,Defensive Rebound,39,44
+16:48,Murray State,Tevin Brown,Missed Three Point Jumper,39,44
+16:48,Jacksonville State,Jason Burnell,Defensive Rebound,39,44
+16:46,Murray State,Darnell Cowart,Foul,39,44
+16:31,Jacksonville State,Christian Cunningham,Layup,41,44
+16:06,Murray State,Ja Morant,Missed Three Point Jumper,41,44
+16:06,Jacksonville State,Jamall Gregory,Defensive Rebound,41,44
+15:51,Jacksonville State,Marlon Hunter,Turnover,41,44
+15:51,Murray State,None,None,41,44
+15:33,Murray State,Darnell Cowart,Jumper,41,46
+15:11,Jacksonville State,Jamall Gregory,Layup,43,46
+14:49,Murray State,Darnell Cowart,Turnover,43,46
+14:49,Jacksonville State,Marlon Hunter,Steal,43,46
+14:39,Jacksonville State,Jason Burnell,Jumper,45,46
+14:15,Jacksonville State,Jamall Gregory,Foul,45,46
+14:15,Murray State,Brion Sanchious,Free Throw,45,47
+14:15,Murray State,Brion Sanchious,Free Throw,45,48
+13:55,Jacksonville State,Jason Burnell,Missed Jumper,45,48
+13:55,Murray State,Tevin Brown,Defensive Rebound,45,48
+13:45,Murray State,KJ Williams,Missed Jumper,45,48
+13:45,Jacksonville State,Detrick Mostella,Defensive Rebound,45,48
+13:34,Jacksonville State,Detrick Mostella,Missed Jumper,45,48
+13:34,Jacksonville State,Christian Cunningham,Offensive Rebound,45,48
+13:34,Jacksonville State,None,None,47,48
+13:15,Jacksonville State,Detrick Mostella,Foul,47,48
+13:01,Murray State,Shaq Buchanan,Missed Three Point Jumper,47,48
+13:01,Jacksonville State,Jason Burnell,Defensive Rebound,47,48
+12:44,Jacksonville State,Jason Burnell,Jumper,49,48
+12:23,Murray State,Ja Morant,Turnover,49,48
+12:16,Murray State,Brion Sanchious,Foul,49,48
+12:06,Jacksonville State,Christian Cunningham,Layup,51,48
+11:56,Murray State,Ja Morant,Turnover,51,48
+11:56,Jacksonville State,Marlon Hunter,Steal,51,48
+11:51,Jacksonville State,Marlon Hunter,Layup,53,48
+11:50,Murray State,None,None,53,48
+11:50,Murray State,None,None,53,48
+11:38,Murray State,Shaq Buchanan,Jumper,53,50
+11:10,Jacksonville State,Detrick Mostella,Missed Three Point Jumper,53,50
+11:10,Murray State,Ja Morant,Defensive Rebound,53,50
+11:03,Jacksonville State,Detrick Mostella,Foul,53,50
+11:03,Murray State,None,None,53,50
+11:03,Murray State,Ja Morant,Free Throw,53,51
+11:03,Murray State,Ja Morant,Free Throw,53,52
+10:58,Murray State,Darnell Cowart,Jumper,53,54
+10:24,Murray State,Shaq Buchanan,Foul,53,54
+10:19,Jacksonville State,Jason Burnell,Jumper,55,54
+10:02,Murray State,Ja Morant,Layup,55,56
+10:02,Jacksonville State,Christian Cunningham,Foul,55,56
+10:02,Murray State,Ja Morant,Missed Free Throw,55,56
+10:02,Jacksonville State,Jason Burnell,Defensive Rebound,55,56
+9:40,Jacksonville State,Jason Burnell,Layup,57,56
+9:40,Murray State,Tevin Brown,Foul,57,56
+9:40,Jacksonville State,Jason Burnell,Free Throw,58,56
+9:22,Murray State,Tevin Brown,Missed Three Point Jumper,58,56
+9:22,Jacksonville State,Jason Burnell,Defensive Rebound,58,56
+9:12,Jacksonville State,Jamall Gregory,Layup,60,56
+8:41,Murray State,Brion Sanchious,Missed Layup,60,56
+8:41,Jacksonville State,Jason Burnell,Block,60,56
+8:41,Murray State,Murray State,Offensive Rebound,60,56
+8:39,Murray State,Murray State ,Turnover,60,56
+8:26,Jacksonville State,Marlon Hunter,Missed Jumper,60,56
+8:26,Jacksonville State,Jason Burnell,Offensive Rebound,60,56
+8:15,Jacksonville State,Marlon Hunter,Missed Layup,60,56
+8:15,Jacksonville State,Marlon Hunter,Offensive Rebound,60,56
+7:49,Jacksonville State,Jamall Gregory,Layup,62,56
+7:35,Murray State,Ja Morant,Jumper,62,58
+7:35,Murray State,None,None,62,58
+7:35,Murray State,None,None,62,58
+7:35,Murray State,None,None,62,58
+7:35,Murray State,None,None,62,58
+7:35,Jacksonville State,Marlon Hunter,Defensive Rebound,62,58
+7:35,Jacksonville State,Marlon Hunter,Foul,62,58
+7:35,Murray State,Ja Morant,Missed Free Throw,62,58
+7:14,Jacksonville State,Detrick Mostella,Missed Three Point Jumper,62,58
+7:14,Jacksonville State,Christian Cunningham,Offensive Rebound,62,58
+7:07,Jacksonville State,Christian Cunningham,Layup,64,58
+6:52,Murray State,Darnell Cowart,Missed Layup,64,58
+6:52,Jacksonville State,Christian Cunningham,Block,64,58
+6:52,Murray State,Darnell Cowart,Offensive Rebound,64,58
+6:52,Murray State,Darnell Cowart,Layup,64,60
+6:48,Jacksonville State,Jason Burnell,Foul,64,60
+6:48,Murray State,Darnell Cowart,Free Throw,64,61
+6:31,Jacksonville State,Jason Burnell,Missed Jumper,64,61
+6:29,Jacksonville State,Christian Cunningham,Offensive Rebound,64,61
+6:28,Murray State,KJ Williams,Foul,64,61
+6:28,Jacksonville State,Christian Cunningham,Missed Free Throw,64,61
+6:28,Jacksonville State,None,Team Rebound,64,61
+6:28,Jacksonville State,Christian Cunningham,Free Throw,65,61
+6:15,Jacksonville State,Christian Cunningham,Foul,65,61
+6:15,Murray State,Ja Morant,Free Throw,65,62
+6:15,Murray State,Ja Morant,Free Throw,65,63
+6:04,Jacksonville State,Jason Burnell,Missed Three Point Jumper,65,63
+6:04,Murray State,Tevin Brown,Defensive Rebound,65,63
+5:43,Murray State,Ja Morant,Missed Jumper,65,63
+5:43,Jacksonville State,Christian Cunningham,Defensive Rebound,65,63
+5:20,Jacksonville State,Jason Burnell,Jumper,67,63
+5:00,Jacksonville State,Christian Cunningham,Foul,67,63
+5:00,Murray State,Ja Morant,Missed Free Throw,67,63
+5:00,Murray State,None,Team Rebound,67,63
+5:00,Murray State,Ja Morant,Free Throw,67,64
+4:45,Jacksonville State,Jamall Gregory,Turnover,67,64
+4:45,Murray State,Darnell Cowart,Steal,67,64
+4:28,Murray State,Ja Morant,Turnover,67,64
+4:13,Jacksonville State,Jason Burnell,Missed Jumper,67,64
+4:13,Murray State,Ja Morant,Defensive Rebound,67,64
+4:02,Murray State,Shaq Buchanan,Three Point Jumper,67,67
+3:34,Jacksonville State,Jamall Gregory,Missed Three Point Jumper,67,67
+3:34,Murray State,Ja Morant,Defensive Rebound,67,67
+3:25,Murray State,Shaq Buchanan,Three Point Jumper,67,70
+3:12,Jacksonville State,None,None,67,70
+3:12,Murray State,None,None,67,70
+3:04,Jacksonville State,Detrick Mostella,Missed Jumper,67,70
+3:04,Murray State,Darnell Cowart,Defensive Rebound,67,70
+2:53,Murray State,Tevin Brown,Missed Three Point Jumper,67,70
+2:53,Jacksonville State,Jason Burnell,Defensive Rebound,67,70
+2:38,Jacksonville State,Jason Burnell,Jumper,69,70
+2:08,Murray State,Jaiveon Eaves,Three Point Jumper,69,73
+1:50,Jacksonville State,Marlon Hunter,Missed Three Point Jumper,69,73
+1:50,Murray State,Darnell Cowart,Defensive Rebound,69,73
+1:27,Jacksonville State,Detrick Mostella,Foul,69,73
+1:27,Murray State,Darnell Cowart,Missed Free Throw,69,73
+1:27,Murray State,None,Team Rebound,69,73
+1:27,Murray State,Darnell Cowart,Missed Free Throw,69,73
+1:27,Jacksonville State,Jason Burnell,Defensive Rebound,69,73
+1:20,Murray State,Shaq Buchanan,Foul,69,73
+1:11,Jacksonville State,De'Torrion Ware,Three Point Jumper,72,73
+0:55,Murray State,None,None,72,73
+0:37,Murray State,Tevin Brown,Missed Three Point Jumper,72,73
+0:37,Jacksonville State,Christian Cunningham,Defensive Rebound,72,73
+0:24,Jacksonville State,Ty Hudson,Missed Layup,72,73
+0:24,Jacksonville State,Christian Cunningham,Offensive Rebound,72,73
+0:24,Jacksonville State,Christian Cunningham,Layup,74,73
+0:08,Murray State,Ja Morant,Jumper,74,75
+0:08,Jacksonville State,Marlon Hunter,Foul,74,76
+0:08,Murray State,Ja Morant,Free Throw,74,76
+0:02,Jacksonville State,Detrick Mostella,Missed Three Point Jumper,74,76
+0:02,Murray State,Ja Morant,Defensive Rebound,74,76
+0:00,Murray State,None,None,74,76

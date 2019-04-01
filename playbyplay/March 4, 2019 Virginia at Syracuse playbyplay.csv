@@ -1,0 +1,295 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Virginia,None,None,0,0
+19:35,Virginia,De'Andre Hunter,Turnover,0,0
+19:35,Syracuse,Paschal Chukwu,Steal,0,0
+19:24,Virginia,Jack Salt,Foul,0,0
+19:24,Syracuse,Paschal Chukwu,Free Throw,0,1
+19:24,Syracuse,Paschal Chukwu,Free Throw,0,2
+19:16,Virginia,Ty Jerome,Missed Jumper,0,2
+19:16,Syracuse,Oshae Brissett,Defensive Rebound,0,2
+19:03,Syracuse,Tyus Battle,Missed Jumper,0,2
+19:03,Virginia,De'Andre Hunter,Defensive Rebound,0,2
+18:47,Virginia,Kyle Guy,Missed Three Point Jumper,0,2
+18:47,Syracuse,Oshae Brissett,Defensive Rebound,0,2
+18:28,Syracuse,Oshae Brissett,Missed Three Point Jumper,0,2
+18:28,Virginia,Kyle Guy,Defensive Rebound,0,2
+18:09,Virginia,Kyle Guy,Three Point Jumper,3,2
+18:09,Syracuse,Frank Howard,Three Point Jumper,3,5
+17:21,Virginia,Ty Jerome,Three Point Jumper,6,5
+16:53,Syracuse,Tyus Battle,Missed Three Point Jumper,6,5
+16:53,Virginia,De'Andre Hunter,Block,6,5
+16:53,Syracuse,Syracuse,Offensive Rebound,6,5
+16:50,Syracuse,Oshae Brissett,Missed Jumper,6,5
+16:50,Syracuse,Paschal Chukwu,Offensive Rebound,6,5
+16:48,Syracuse,Syracuse ,Turnover,6,5
+16:46,Virginia,Ty Jerome,Missed Three Point Jumper,6,5
+16:46,Syracuse,Oshae Brissett,Defensive Rebound,6,5
+16:18,Syracuse,Oshae Brissett,Missed Jumper,6,5
+16:18,Syracuse,Syracuse,Offensive Rebound,6,5
+16:10,Virginia,Jack Salt,Foul,6,5
+16:05,Syracuse,Oshae Brissett,Layup,6,7
+15:48,Virginia,Ty Jerome,Turnover,6,7
+15:48,Syracuse,Elijah Hughes,Steal,6,7
+15:38,Syracuse,Frank Howard,Missed Jumper,6,7
+15:38,Syracuse,Paschal Chukwu,Offensive Rebound,6,7
+15:19,Syracuse,Tyus Battle,Missed Three Point Jumper,6,7
+15:19,Virginia,Ty Jerome,Defensive Rebound,6,7
+15:17,Syracuse,None,None,6,7
+14:53,Virginia,Mamadi Diakite,Missed Layup,6,7
+14:53,Syracuse,Oshae Brissett,Block,6,7
+14:53,Syracuse,Frank Howard,Defensive Rebound,6,7
+14:35,Syracuse,Oshae Brissett,Foul,6,7
+14:35,Syracuse,Oshae Brissett,Turnover,6,7
+14:35,Virginia,Ty Jerome,Missed Free Throw,6,7
+14:35,Virginia,None,Team Rebound,6,7
+14:35,Virginia,Ty Jerome,Free Throw,7,7
+14:35,Syracuse,Oshae Brissett,Foul,7,7
+14:25,Virginia,Kyle Guy,Three Point Jumper,10,7
+14:07,Syracuse,Elijah Hughes,Missed Three Point Jumper,10,7
+14:07,Syracuse,Marek Dolezaj,Offensive Rebound,10,7
+14:03,Syracuse,None,None,10,7
+13:50,Virginia,Kyle Guy,Foul,10,7
+13:50,Syracuse,Elijah Hughes,Free Throw,10,8
+13:50,Syracuse,Elijah Hughes,Free Throw,10,9
+13:50,Syracuse,Elijah Hughes,Free Throw,10,10
+13:40,Virginia,Mamadi Diakite,Missed Layup,10,10
+13:40,Syracuse,Paschal Chukwu,Defensive Rebound,10,10
+13:33,Syracuse,Frank Howard,Missed Layup,10,10
+13:33,Virginia,Kyle Guy,Defensive Rebound,10,10
+13:17,Virginia,Ty Jerome,Three Point Jumper,13,10
+13:05,Syracuse,Paschal Chukwu,Dunk,13,12
+12:41,Virginia,Ty Jerome,Turnover,13,12
+12:41,Syracuse,Marek Dolezaj,Steal,13,12
+12:30,Syracuse,Elijah Hughes,Three Point Jumper,13,15
+12:09,Virginia,Braxton Key,Missed Layup,13,15
+12:09,Virginia,Mamadi Diakite,Offensive Rebound,13,15
+12:09,Virginia,None,None,13,15
+12:09,Virginia,Virginia,Offensive Rebound,13,15
+11:55,Syracuse,Paschal Chukwu,Foul,13,15
+11:55,Syracuse,None,None,13,15
+11:47,Virginia,De'Andre Hunter,Three Point Jumper,16,15
+11:17,Virginia,Braxton Key,Foul,16,15
+11:14,Syracuse,Tyus Battle,Missed Layup,16,15
+11:14,Syracuse,Paschal Chukwu,Offensive Rebound,16,15
+11:07,Syracuse,Paschal Chukwu,Dunk,16,17
+10:48,Virginia,De'Andre Hunter,Turnover,16,17
+10:48,Syracuse,Elijah Hughes,Steal,16,17
+10:39,Syracuse,Elijah Hughes,Missed Three Point Jumper,16,17
+10:39,Virginia,Virginia,Defensive Rebound,16,17
+10:17,Virginia,Jay Huff,Missed Jumper,16,17
+10:17,Syracuse,Buddy Boeheim,Defensive Rebound,16,17
+10:09,Syracuse,Marek Dolezaj,Turnover,16,17
+10:09,Virginia,Ty Jerome,Steal,16,17
+9:55,Syracuse,Elijah Hughes,Foul,16,17
+9:41,Virginia,Ty Jerome,Three Point Jumper,19,17
+9:21,Virginia,Ty Jerome,Foul,19,17
+9:13,Syracuse,Tyus Battle,Jumper,19,19
+8:51,Virginia,Braxton Key,Layup,21,19
+8:33,Syracuse,Buddy Boeheim,Missed Three Point Jumper,21,19
+8:33,Virginia,Kihei Clark,Defensive Rebound,21,19
+7:52,Virginia,Jay Huff,Turnover,21,19
+7:49,Syracuse,Buddy Boeheim,Three Point Jumper,21,22
+7:24,Virginia,None,None,21,22
+7:24,Syracuse,None,None,21,22
+7:20,Virginia,De'Andre Hunter,Three Point Jumper,24,22
+6:49,Syracuse,Tyus Battle,Jumper,24,24
+6:33,Virginia,De'Andre Hunter,Missed Three Point Jumper,24,24
+6:33,Syracuse,Tyus Battle,Defensive Rebound,24,24
+6:12,Syracuse,Tyus Battle,Missed Jumper,24,24
+6:12,Syracuse,Oshae Brissett,Offensive Rebound,24,24
+6:01,Syracuse,Buddy Boeheim,Missed Three Point Jumper,24,24
+6:01,Virginia,Ty Jerome,Defensive Rebound,24,24
+5:45,Virginia,De'Andre Hunter,Turnover,24,24
+5:45,Syracuse,Paschal Chukwu,Steal,24,24
+5:28,Syracuse,Tyus Battle,Missed Jumper,24,24
+5:28,Syracuse,Paschal Chukwu,Offensive Rebound,24,24
+5:28,Syracuse,None,None,24,26
+5:28,Virginia,Mamadi Diakite,Foul,24,26
+5:28,Syracuse,Paschal Chukwu,Missed Free Throw,24,26
+5:28,Virginia,Jack Salt,Defensive Rebound,24,26
+5:11,Syracuse,Buddy Boeheim,Foul,24,26
+5:11,Virginia,Kyle Guy,Missed Free Throw,24,26
+5:11,Virginia,None,Team Rebound,24,26
+5:11,Virginia,Kyle Guy,Free Throw,25,26
+4:48,Syracuse,Frank Howard,Turnover,25,26
+4:48,Virginia,Ty Jerome,Steal,25,26
+4:43,Virginia,Braxton Key,Foul,25,26
+4:43,Virginia,Braxton Key,Turnover,25,26
+4:37,Syracuse,Buddy Boeheim,Jumper,25,28
+4:13,Virginia,De'Andre Hunter,Missed Three Point Jumper,25,28
+4:13,Syracuse,Oshae Brissett,Defensive Rebound,25,28
+4:00,Syracuse,Buddy Boeheim,Three Point Jumper,25,31
+3:32,Virginia,De'Andre Hunter,Jumper,27,31
+3:32,Syracuse,Paschal Chukwu,Foul,27,31
+3:32,Syracuse,None,None,27,31
+3:32,Virginia,De'Andre Hunter,Missed Free Throw,27,31
+3:32,Syracuse,Marek Dolezaj,Defensive Rebound,27,31
+3:02,Syracuse,Oshae Brissett,Missed Layup,27,31
+3:02,Virginia,Mamadi Diakite,Block,27,31
+3:02,Virginia,Mamadi Diakite,Defensive Rebound,27,31
+2:53,Syracuse,Tyus Battle,Foul,27,31
+2:53,Virginia,De'Andre Hunter,Free Throw,28,31
+2:53,Virginia,De'Andre Hunter,Free Throw,29,31
+2:33,Syracuse,Tyus Battle,Missed Jumper,29,31
+2:33,Virginia,De'Andre Hunter,Defensive Rebound,29,31
+2:20,Virginia,Kyle Guy,Three Point Jumper,32,31
+1:51,Syracuse,Frank Howard,Missed Jumper,32,31
+1:51,Virginia,Kyle Guy,Defensive Rebound,32,31
+1:39,Virginia,Kyle Guy,Turnover,32,31
+1:39,Syracuse,Marek Dolezaj,Steal,32,31
+1:30,Syracuse,Oshae Brissett,Missed Three Point Jumper,32,31
+1:30,Virginia,Ty Jerome,Defensive Rebound,32,31
+1:08,Virginia,Jack Salt,Missed Layup,32,31
+1:08,Syracuse,Marek Dolezaj,Defensive Rebound,32,31
+0:42,Syracuse,Frank Howard,Three Point Jumper,32,34
+0:05,Virginia,Mamadi Diakite,Missed Jumper,32,34
+0:05,Syracuse,Tyus Battle,Defensive Rebound,32,34
+0:00,Syracuse,None,None,32,34
+20:00,Syracuse,None,None,32,34
+19:46,Syracuse,Oshae Brissett,Layup,32,36
+19:21,Virginia,Kihei Clark,Missed Three Point Jumper,32,36
+19:21,Syracuse,Elijah Hughes,Defensive Rebound,32,36
+18:56,Syracuse,Frank Howard,Missed Three Point Jumper,32,36
+18:56,Virginia,Kyle Guy,Defensive Rebound,32,36
+18:42,Virginia,De'Andre Hunter,Jumper,34,36
+18:15,Syracuse,Paschal Chukwu,Turnover,34,36
+18:15,Virginia,Jack Salt,Steal,34,36
+17:49,Virginia,Ty Jerome,Missed Jumper,34,36
+17:49,Virginia,De'Andre Hunter,Offensive Rebound,34,36
+17:43,Virginia,Kyle Guy,Three Point Jumper,37,36
+17:24,Syracuse,Elijah Hughes,Layup,37,38
+16:57,Syracuse,Elijah Hughes,Foul,37,38
+16:57,Virginia,Jack Salt,Missed Free Throw,37,38
+16:57,Virginia,None,Team Rebound,37,38
+16:57,Virginia,Jack Salt,Missed Free Throw,37,38
+16:57,Syracuse,Oshae Brissett,Defensive Rebound,37,38
+16:55,Syracuse,Elijah Hughes,Missed Three Point Jumper,37,38
+16:55,Virginia,Jack Salt,Defensive Rebound,37,38
+16:44,Virginia,De'Andre Hunter,Turnover,37,38
+16:44,Syracuse,Oshae Brissett,Steal,37,38
+16:33,Virginia,Jack Salt,Foul,37,38
+16:22,Syracuse,Tyus Battle,Missed Jumper,37,38
+16:22,Syracuse,Oshae Brissett,Offensive Rebound,37,38
+16:09,Virginia,Braxton Key,Foul,37,38
+16:09,Syracuse,Oshae Brissett,Free Throw,37,39
+16:09,Syracuse,Oshae Brissett,Free Throw,37,40
+15:54,Virginia,Ty Jerome,Three Point Jumper,40,40
+15:41,Syracuse,Buddy Boeheim,Missed Three Point Jumper,40,40
+15:41,Virginia,Mamadi Diakite,Defensive Rebound,40,40
+15:28,Virginia,Jay Huff,Layup,42,40
+15:09,Syracuse,Tyus Battle,Three Point Jumper,42,43
+14:41,Virginia,De'Andre Hunter,Three Point Jumper,45,43
+14:27,Syracuse,Marek Dolezaj,Missed Three Point Jumper,45,43
+14:27,Virginia,De'Andre Hunter,Defensive Rebound,45,43
+14:14,Virginia,Mamadi Diakite,Missed Dunk,45,43
+14:14,Syracuse,Marek Dolezaj,Block,45,43
+14:14,Syracuse,Oshae Brissett,Defensive Rebound,45,43
+14:07,Syracuse,None,None,45,43
+14:07,Syracuse,Tyus Battle,Missed Jumper,45,43
+14:07,Syracuse,Paschal Chukwu,Offensive Rebound,45,43
+13:47,Syracuse,Paschal Chukwu,Missed Jumper,45,43
+13:47,Virginia,Mamadi Diakite,Block,45,43
+13:47,Virginia,De'Andre Hunter,Defensive Rebound,45,43
+13:30,Virginia,Mamadi Diakite,Layup,47,43
+12:58,Syracuse,Buddy Boeheim,Turnover,47,43
+12:58,Virginia,Jay Huff,Steal,47,43
+12:38,Virginia,De'Andre Hunter,Missed Jumper,47,43
+12:38,Syracuse,Tyus Battle,Defensive Rebound,47,43
+12:26,Syracuse,Tyus Battle,Missed Three Point Jumper,47,43
+12:26,Virginia,Kyle Guy,Defensive Rebound,47,43
+12:07,Syracuse,Tyus Battle,Foul,47,43
+11:52,Virginia,Ty Jerome,Three Point Jumper,50,43
+11:40,Syracuse,None,None,50,43
+11:23,Syracuse,Oshae Brissett,Missed Jumper,50,43
+11:23,Virginia,Kyle Guy,Defensive Rebound,50,43
+11:04,Virginia,Kyle Guy,Missed Three Point Jumper,50,43
+11:04,Syracuse,Marek Dolezaj,Defensive Rebound,50,43
+10:41,Syracuse,Marek Dolezaj,Missed Three Point Jumper,50,43
+10:41,Virginia,Mamadi Diakite,Defensive Rebound,50,43
+10:29,Virginia,Kyle Guy,Three Point Jumper,53,43
+10:19,Syracuse,None,None,53,43
+10:09,Syracuse,Frank Howard,Turnover,53,43
+10:09,Virginia,Ty Jerome,Steal,53,43
+9:54,Virginia,De'Andre Hunter,Missed Layup,53,43
+9:54,Syracuse,Marek Dolezaj,Defensive Rebound,53,43
+9:45,Syracuse,Buddy Boeheim,Three Point Jumper,53,46
+9:24,Virginia,Mamadi Diakite,Layup,55,46
+9:24,Syracuse,Paschal Chukwu,Foul,55,46
+9:24,Virginia,Mamadi Diakite,Missed Free Throw,55,46
+9:24,Virginia,De'Andre Hunter,Offensive Rebound,55,46
+9:12,Virginia,De'Andre Hunter,Missed Jumper,55,46
+9:12,Syracuse,Buddy Boeheim,Defensive Rebound,55,46
+8:50,Syracuse,Tyus Battle,Missed Jumper,55,46
+8:50,Virginia,De'Andre Hunter,Block,55,46
+8:50,Virginia,Jay Huff,Defensive Rebound,55,46
+8:23,Virginia,Kyle Guy,Three Point Jumper,58,46
+8:07,Syracuse,Frank Howard,Turnover,58,46
+8:07,Virginia,Kyle Guy,Steal,58,46
+8:05,Syracuse,Buddy Boeheim,Foul,58,46
+7:53,Virginia,De'Andre Hunter,Three Point Jumper,61,46
+7:30,Virginia,Ty Jerome,Foul,61,46
+7:30,Syracuse,None,None,61,46
+7:15,Virginia,Jay Huff,Foul,61,46
+6:58,Syracuse,Tyus Battle,Missed Jumper,61,46
+6:58,Virginia,De'Andre Hunter,Block,61,46
+6:58,Syracuse,Paschal Chukwu,Offensive Rebound,61,46
+6:46,Syracuse,Marek Dolezaj,Missed Jumper,61,46
+6:46,Virginia,Mamadi Diakite,Block,61,46
+6:46,Virginia,Mamadi Diakite,Defensive Rebound,61,46
+6:41,Virginia,Mamadi Diakite,Dunk,63,46
+6:32,Virginia,Jay Huff,Foul,63,46
+6:27,Syracuse,Buddy Boeheim,Missed Jumper,63,46
+6:27,Virginia,Jay Huff,Defensive Rebound,63,46
+6:08,Virginia,Kyle Guy,Three Point Jumper,66,46
+5:52,Syracuse,Marek Dolezaj,Turnover,66,46
+5:52,Virginia,Ty Jerome,Steal,66,46
+5:39,Virginia,De'Andre Hunter,Missed Layup,66,46
+5:39,Syracuse,Paschal Chukwu,Block,66,46
+5:39,Virginia,Kyle Guy,Offensive Rebound,66,46
+5:39,Syracuse,Elijah Hughes,Foul,66,46
+5:28,Virginia,Kyle Guy,Three Point Jumper,69,46
+5:13,Syracuse,Tyus Battle,Missed Three Point Jumper,69,46
+5:13,Syracuse,Syracuse,Offensive Rebound,69,46
+5:08,Virginia,Jay Huff,Foul,69,46
+5:06,Syracuse,Elijah Hughes,Three Point Jumper,69,49
+4:22,Virginia,De'Andre Hunter,Three Point Jumper,72,49
+4:04,Syracuse,Buddy Boeheim,Missed Three Point Jumper,72,49
+4:04,Virginia,Jay Huff,Defensive Rebound,72,49
+3:39,Virginia,Mamadi Diakite,Layup,74,49
+3:39,Syracuse,Paschal Chukwu,Foul,74,49
+3:39,Syracuse,None,None,74,49
+3:39,Virginia,Mamadi Diakite,Free Throw,75,49
+3:20,Syracuse,Buddy Boeheim,Missed Jumper,75,49
+3:20,Virginia,Mamadi Diakite,Block,75,49
+3:20,Syracuse,Paschal Chukwu,Offensive Rebound,75,49
+3:18,Virginia,Jay Huff,Foul,75,49
+3:18,Syracuse,Paschal Chukwu,Missed Free Throw,75,49
+3:18,Virginia,Jay Huff,Defensive Rebound,75,49
+3:02,Virginia,Ty Jerome,Missed Jumper,75,49
+3:02,Virginia,Jay Huff,Offensive Rebound,75,49
+2:42,Virginia,Jay Huff,Dunk,77,49
+2:35,Syracuse,Tyus Battle,Jumper,77,51
+2:07,Virginia,Marco Anthony,Missed Jumper,77,51
+2:07,Syracuse,Paschal Chukwu,Block,77,51
+2:07,Syracuse,Tyus Battle,Defensive Rebound,77,51
+1:56,Syracuse,Buddy Boeheim,Missed Three Point Jumper,77,51
+1:56,Virginia,Kody Stattmann,Defensive Rebound,77,51
+1:48,Virginia,Kody Stattmann,Turnover,77,51
+1:48,Syracuse,Elijah Hughes,Steal,77,51
+1:44,Syracuse,Tyus Battle,Missed Layup,77,51
+1:44,Virginia,Jayden Nixon,Block,77,51
+1:44,Syracuse,Tyus Battle,Offensive Rebound,77,51
+1:44,Syracuse,Tyus Battle,Layup,77,53
+1:44,Virginia,Kody Stattmann,Foul,77,53
+1:44,Syracuse,Tyus Battle,Missed Free Throw,77,53
+1:44,Virginia,Virginia,Defensive Rebound,77,53
+1:14,Virginia,Marco Anthony,Turnover,77,53
+1:14,Syracuse,Adrian Autry,Steal,77,53
+0:58,Syracuse,Adrian Autry,Turnover,77,53
+0:43,Virginia,Kody Stattmann,Missed Three Point Jumper,77,53
+0:43,Virginia,Jayden Nixon,Offensive Rebound,77,53
+0:43,Virginia,None,None,79,53
+0:26,Virginia,Marco Anthony,Foul,79,53
+0:26,Syracuse,Adrian Autry,Missed Free Throw,79,53
+0:26,Virginia,Austin Katstra,Defensive Rebound,79,53
+0:00,Syracuse,None,None,79,53

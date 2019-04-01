@@ -1,0 +1,362 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:52,Saint Peter's,Davauhnte Turner,Jumper,0,2
+19:41,Saint Peter's,Manny Dixon,Foul,0,2
+19:27,Lafayette,Paulius Zalys,Turnover,0,2
+19:11,Saint Peter's,Davauhnte Turner,Three Point Jumper,0,5
+18:52,Lafayette,Paulius Zalys,Layup,2,5
+18:33,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,2,5
+18:33,Lafayette,Paulius Zalys,Defensive Rebound,2,5
+18:11,Lafayette,Paulius Zalys,Missed Layup,2,5
+18:11,Saint Peter's,Quinn Taylor,Defensive Rebound,2,5
+17:54,Saint Peter's,Cameron Jones,Missed Three Point Jumper,2,5
+17:54,Lafayette,Justin Jaworski,Defensive Rebound,2,5
+17:45,Lafayette,Kyle Stout,Three Point Jumper,5,5
+17:21,Lafayette,Myles Cherry,Foul,5,5
+17:21,Saint Peter's,Cameron Jones,Turnover,5,5
+17:19,Lafayette,Paulius Zalys,Turnover,5,5
+17:07,Saint Peter's,Samuel Idowu,Turnover,5,5
+16:52,Lafayette,Alex Petrie,Missed Layup,5,5
+16:52,Lafayette,Myles Cherry,Offensive Rebound,5,5
+16:47,Lafayette,Myles Cherry,Layup,7,5
+16:36,Lafayette,Kyle Stout,Foul,7,5
+16:36,Saint Peter's,Mamadou Ndiaye,Free Throw,7,6
+16:36,Saint Peter's,Mamadou Ndiaye,Missed Free Throw,7,6
+16:36,Saint Peter's,Cameron Jones,Offensive Rebound,7,6
+16:25,Saint Peter's,Davauhnte Turner,Missed Layup,7,6
+16:25,Lafayette,Lafayette,Defensive Rebound,7,6
+16:23,Saint Peter's,Davauhnte Turner,Foul,7,6
+16:14,Lafayette,Myles Cherry,Turnover,7,6
+16:12,Saint Peter's,Mamadou Ndiaye,Steal,7,6
+16:12,Saint Peter's,Mamadou Ndiaye,Turnover,7,6
+16:02,Lafayette,Kyle Stout,Missed Three Point Jumper,7,6
+16:02,Saint Peter's,Cameron Jones,Defensive Rebound,7,6
+15:46,Saint Peter's,Davauhnte Turner,Missed Jumper,7,6
+15:46,Lafayette,Alex Petrie,Defensive Rebound,7,6
+15:38,Saint Peter's,Cameron Jones,Foul,7,6
+15:38,Lafayette,None,None,7,6
+15:38,Lafayette,Alex Petrie,Free Throw,8,6
+15:38,Lafayette,Alex Petrie,Free Throw,9,6
+15:21,Lafayette,Lukas Jarrett,Foul,9,6
+15:13,Saint Peter's,Dallas Watson,Missed Three Point Jumper,9,6
+15:13,Saint Peter's,Manny Dixon,Offensive Rebound,9,6
+15:08,Saint Peter's,KC Ndefo,Missed Three Point Jumper,9,6
+15:08,Lafayette,Kyle Stout,Defensive Rebound,9,6
+14:53,Lafayette,Kyle Stout,Missed Three Point Jumper,9,6
+14:53,Saint Peter's,KC Ndefo,Defensive Rebound,9,6
+14:36,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,9,6
+14:36,Lafayette,Kyle Stout,Defensive Rebound,9,6
+14:26,Lafayette,Lukas Jarrett,Missed Three Point Jumper,9,6
+14:26,Lafayette,Myles Cherry,Offensive Rebound,9,6
+14:21,Lafayette,Myles Cherry,Missed Layup,9,6
+14:21,Saint Peter's,Manny Dixon,Defensive Rebound,9,6
+13:58,Saint Peter's,KC Ndefo,Missed Layup,9,6
+13:58,Lafayette,Lafayette,Defensive Rebound,9,6
+13:56,Lafayette,Tyrone Perry,Foul,9,6
+13:56,Saint Peter's,KC Ndefo,Foul,9,6
+13:43,Lafayette,Alex Petrie,Missed Jumper,9,6
+13:43,Lafayette,Myles Cherry,Offensive Rebound,9,6
+13:39,Lafayette,Tyrone Perry,Missed Three Point Jumper,9,6
+13:39,Lafayette,Isaac Suffren,Offensive Rebound,9,6
+13:34,Lafayette,Alex Petrie,Three Point Jumper,12,6
+13:29,Saint Peter's,None,None,12,6
+13:20,Saint Peter's,Saint Peter's ,Turnover,12,6
+13:15,Lafayette,Justin Jaworski,Three Point Jumper,15,6
+13:14,Saint Peter's,Samuel Idowu,Three Point Jumper,15,9
+13:14,Lafayette,Tyrone Perry,Three Point Jumper,18,9
+12:08,Saint Peter's,Quinn Taylor,Turnover,18,9
+12:03,Lafayette,Tyrone Perry,Turnover,18,9
+11:43,Saint Peter's,Manny Dixon,Three Point Jumper,18,12
+11:18,Lafayette,Paulius Zalys,Jumper,20,12
+10:54,Saint Peter's,Cameron Jones,Three Point Jumper,20,15
+10:31,Lafayette,Alex Petrie,Missed Layup,20,15
+10:31,Saint Peter's,Samuel Idowu,Block,20,15
+10:31,Lafayette,Lafayette,Offensive Rebound,20,15
+10:18,Lafayette,Kyle Stout,Missed Three Point Jumper,20,15
+10:18,Saint Peter's,Quinn Taylor,Defensive Rebound,20,15
+10:11,Saint Peter's,Quinn Taylor,Missed Layup,20,15
+10:11,Lafayette,Alex Petrie,Defensive Rebound,20,15
+10:00,Lafayette,Justin Jaworski,Missed Three Point Jumper,20,15
+10:00,Saint Peter's,Quinn Taylor,Defensive Rebound,20,15
+9:41,Saint Peter's,Samuel Idowu,Layup,20,17
+9:25,Lafayette,Paulius Zalys,Foul,20,17
+9:06,Saint Peter's,Quinn Taylor,Missed Layup,20,17
+9:06,Saint Peter's,Quinn Taylor,Offensive Rebound,20,17
+9:01,Saint Peter's,Quinn Taylor,Missed Layup,20,17
+9:01,Lafayette,Lafayette,Defensive Rebound,20,17
+8:41,Lafayette,Justin Jaworski,Turnover,20,17
+8:40,Saint Peter's,Cameron Jones,Steal,20,17
+8:35,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,20,17
+8:35,Lafayette,Isaac Suffren,Defensive Rebound,20,17
+8:27,Lafayette,Isaac Suffren,Layup,22,17
+8:25,Saint Peter's,Samuel Idowu,Foul,22,17
+8:25,Lafayette,Isaac Suffren,Free Throw,23,17
+8:06,Lafayette,Lukas Jarrett,Turnover,23,17
+8:06,Saint Peter's,Samuel Idowu,Foul,23,17
+7:40,Lafayette,Alex Petrie,Missed Jumper,23,17
+7:40,Lafayette,Myles Cherry,Offensive Rebound,23,17
+7:28,Lafayette,Alex Petrie,Three Point Jumper,26,17
+7:05,Saint Peter's,Dallas Watson,Jumper,26,19
+6:43,Lafayette,Alex Petrie,Jumper,28,19
+6:24,Lafayette,Isaac Suffren,Foul,28,19
+6:24,Saint Peter's,None,None,28,19
+6:10,Saint Peter's,Dallas Watson,Three Point Jumper,28,22
+6:08,Saint Peter's,Dallas Watson,Foul,28,22
+6:03,Lafayette,Isaac Suffren,Free Throw,29,22
+5:57,Lafayette,Isaac Suffren,Free Throw,30,22
+5:40,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,30,22
+5:40,Lafayette,Myles Cherry,Defensive Rebound,30,22
+5:29,Lafayette,Alex Petrie,Jumper,32,22
+5:16,Saint Peter's,KC Ndefo,Layup,32,24
+4:54,Saint Peter's,Manny Dixon,Foul,32,24
+4:53,Lafayette,Alex Petrie,Missed Free Throw,32,24
+4:53,Saint Peter's,Davauhnte Turner,Defensive Rebound,32,24
+4:48,Saint Peter's,Cameron Jones,Three Point Jumper,32,27
+4:37,Lafayette,Alex Petrie,Missed Three Point Jumper,32,27
+4:37,Lafayette,Kyle Stout,Offensive Rebound,32,27
+4:33,Lafayette,Paulius Zalys,Missed Three Point Jumper,32,27
+4:33,Saint Peter's,Dallas Watson,Defensive Rebound,32,27
+4:25,Saint Peter's,KC Ndefo,Turnover,32,27
+3:55,Lafayette,Alex Petrie,Missed Three Point Jumper,32,27
+3:55,Saint Peter's,Davauhnte Turner,Defensive Rebound,32,27
+3:47,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,32,27
+3:47,Saint Peter's,Davauhnte Turner,Offensive Rebound,32,27
+3:42,Saint Peter's,KC Ndefo,Layup,32,29
+3:24,Lafayette,Paulius Zalys,Missed Layup,32,29
+3:24,Saint Peter's,Cameron Jones,Defensive Rebound,32,29
+3:13,Saint Peter's,KC Ndefo,Dunk,32,31
+3:10,Lafayette,Dylan Hastings,Foul,32,31
+3:10,Lafayette,None,None,32,31
+3:10,Saint Peter's,KC Ndefo,Free Throw,32,32
+2:45,Lafayette,Justin Jaworski,Three Point Jumper,35,32
+2:27,Saint Peter's,Cameron Jones,Missed Jumper,35,32
+2:27,Lafayette,Myles Cherry,Defensive Rebound,35,32
+2:12,Lafayette,Kyle Stout,Three Point Jumper,38,32
+1:44,Saint Peter's,Mamadou Ndiaye,Missed Layup,38,32
+1:44,Lafayette,Tyrone Perry,Defensive Rebound,38,32
+1:38,Lafayette,Tyrone Perry,Turnover,38,32
+1:23,Saint Peter's,Dallas Watson,Turnover,38,32
+1:21,Lafayette,Tyrone Perry,Steal,38,32
+1:13,Lafayette,Paulius Zalys,Turnover,38,32
+1:13,Lafayette,Paulius Zalys,Foul,38,32
+0:50,Lafayette,Justin Jaworski,Foul,38,32
+0:45,Saint Peter's,Davauhnte Turner,Missed Jumper,38,32
+0:45,Saint Peter's,Saint Peter's,Offensive Rebound,38,32
+0:43,Saint Peter's,Mamadou Ndiaye,Missed Free Throw,38,32
+0:43,Lafayette,Alex Petrie,Defensive Rebound,38,32
+0:41,Lafayette,Justin Jaworski,Jumper,40,32
+0:24,Lafayette,Lukas Jarrett,Foul,40,32
+0:24,Saint Peter's,Mamadou Ndiaye,Free Throw,40,33
+0:24,Saint Peter's,Mamadou Ndiaye,Missed Free Throw,40,33
+0:24,Lafayette,Paulius Zalys,Defensive Rebound,40,33
+0:04,Lafayette,Alex Petrie,Foul,40,33
+0:04,Lafayette,Alex Petrie,Turnover,40,33
+0:04,Saint Peter's,None,None,40,33
+0:00,Saint Peter's,None,None,40,32
+19:43,Saint Peter's,Quinn Taylor,Missed Three Point Jumper,40,33
+19:43,Lafayette,Justin Jaworski,Defensive Rebound,40,33
+19:29,Lafayette,Justin Jaworski,Missed Three Point Jumper,40,33
+19:29,Lafayette,Dylan Hastings,Offensive Rebound,40,33
+19:16,Lafayette,Kyle Stout,Missed Three Point Jumper,40,33
+19:16,Saint Peter's,Cameron Jones,Defensive Rebound,40,33
+19:07,Saint Peter's,Cameron Jones,Missed Layup,40,33
+19:07,Saint Peter's,Samuel Idowu,Offensive Rebound,40,33
+19:05,Saint Peter's,None,None,40,35
+18:48,Lafayette,Myles Cherry,Foul,40,35
+18:48,Lafayette,Myles Cherry,Turnover,40,35
+18:37,Saint Peter's,Samuel Idowu,Foul,40,35
+18:37,Saint Peter's,Samuel Idowu,Turnover,40,35
+18:23,Lafayette,Paulius Zalys,Layup,42,35
+18:02,Lafayette,Paulius Zalys,Foul,42,35
+18:02,Saint Peter's,Quinn Taylor,Free Throw,42,36
+18:02,Saint Peter's,Quinn Taylor,Free Throw,42,37
+17:34,Lafayette,Justin Jaworski,Three Point Jumper,45,37
+17:14,Saint Peter's,Majur Majak,Turnover,45,37
+17:02,Lafayette,Kyle Stout,Three Point Jumper,48,37
+16:56,Saint Peter's,None,None,48,37
+16:56,Saint Peter's,None,None,48,37
+16:43,Saint Peter's,KC Ndefo,Missed Layup,48,37
+16:43,Saint Peter's,Quinn Taylor,Offensive Rebound,48,37
+16:40,Saint Peter's,Quinn Taylor,Layup,48,39
+16:20,Lafayette,Isaac Suffren,Missed Layup,48,39
+16:20,Saint Peter's,KC Ndefo,Block,48,39
+16:18,Saint Peter's,KC Ndefo,Defensive Rebound,48,39
+16:14,Lafayette,Dylan Hastings,Foul,48,39
+16:14,Saint Peter's,Cameron Jones,Free Throw,48,40
+16:14,Saint Peter's,Cameron Jones,Free Throw,48,41
+15:57,Lafayette,Justin Jaworski,Three Point Jumper,51,41
+15:42,Saint Peter's,Cameron Jones,Three Point Jumper,51,44
+15:19,Lafayette,Myles Cherry,Layup,53,44
+15:05,Saint Peter's,Quinn Taylor,Missed Jumper,53,44
+15:05,Lafayette,Myles Cherry,Defensive Rebound,53,44
+14:54,Lafayette,Alex Petrie,Missed Three Point Jumper,53,44
+14:54,Saint Peter's,KC Ndefo,Defensive Rebound,53,44
+14:44,Saint Peter's,Davauhnte Turner,Layup,53,46
+14:28,Lafayette,Alex Petrie,Missed Layup,53,46
+14:28,Lafayette,Tyrone Perry,Offensive Rebound,53,46
+14:26,Saint Peter's,Cameron Jones,Foul,53,46
+14:26,Saint Peter's,None,None,53,46
+14:10,Lafayette,Myles Cherry,Layup,55,46
+13:50,Saint Peter's,KC Ndefo,Jumper,55,48
+13:50,Lafayette,Dylan Hastings,Foul,55,48
+13:50,Saint Peter's,KC Ndefo,Missed Free Throw,55,48
+13:50,Lafayette,Justin Jaworski,Defensive Rebound,55,48
+13:25,Lafayette,Tyrone Perry,Missed Three Point Jumper,55,48
+13:25,Saint Peter's,KC Ndefo,Defensive Rebound,55,48
+13:16,Lafayette,Tyrone Perry,Foul,55,48
+12:58,Saint Peter's,KC Ndefo,Missed Layup,55,48
+12:58,Lafayette,Myles Cherry,Defensive Rebound,55,48
+12:50,Lafayette,Justin Jaworski,Three Point Jumper,58,48
+12:22,Saint Peter's,Dallas Watson,Missed Three Point Jumper,58,48
+12:22,Lafayette,Paulius Zalys,Defensive Rebound,58,48
+12:05,Lafayette,Paulius Zalys,Turnover,58,48
+11:46,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,58,48
+11:46,Lafayette,Dylan Hastings,Defensive Rebound,58,48
+11:28,Lafayette,Dylan Hastings,Missed Three Point Jumper,58,48
+11:28,Saint Peter's,KC Ndefo,Defensive Rebound,58,48
+11:20,Saint Peter's,Davauhnte Turner,Layup,58,50
+11:11,Lafayette,None,None,58,50
+11:11,Saint Peter's,None,None,58,50
+11:03,Lafayette,Justin Jaworski,Three Point Jumper,61,50
+11:02,Saint Peter's,KC Ndefo,Foul,61,50
+11:02,Lafayette,Justin Jaworski,Free Throw,62,50
+10:43,Saint Peter's,Cameron Jones,Missed Three Point Jumper,62,50
+10:43,Saint Peter's,Samuel Idowu,Offensive Rebound,62,50
+10:27,Saint Peter's,Samuel Idowu,Three Point Jumper,62,53
+10:08,Saint Peter's,Samuel Idowu,Foul,62,53
+9:56,Lafayette,Kyle Stout,Missed Jumper,62,53
+9:56,Saint Peter's,KC Ndefo,Block,62,53
+9:55,Saint Peter's,KC Ndefo,Defensive Rebound,62,53
+9:51,Saint Peter's,Cameron Jones,Missed Layup,62,53
+9:51,Lafayette,Justin Jaworski,Defensive Rebound,62,53
+9:44,Lafayette,Kyle Stout,Layup,64,53
+9:31,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,64,53
+9:31,Saint Peter's,Quinn Taylor,Offensive Rebound,64,53
+9:27,Lafayette,Paulius Zalys,Foul,64,53
+9:24,Saint Peter's,KC Ndefo,Foul,64,53
+9:24,Saint Peter's,KC Ndefo,Turnover,64,53
+9:11,Lafayette,Alex Petrie,Layup,66,53
+8:41,Saint Peter's,Dallas Watson,Three Point Jumper,66,56
+8:26,Lafayette,Kyle Stout,Three Point Jumper,69,56
+8:14,Saint Peter's,Davauhnte Turner,Three Point Jumper,69,59
+7:46,Lafayette,Alex Petrie,Missed Jumper,69,59
+7:46,Saint Peter's,KC Ndefo,Defensive Rebound,69,59
+7:39,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,69,59
+7:39,Lafayette,Dylan Hastings,Defensive Rebound,69,59
+7:28,Lafayette,None,None,69,59
+7:28,Saint Peter's,None,None,69,59
+7:09,Lafayette,Alex Petrie,Jumper,71,59
+6:46,Saint Peter's,Davauhnte Turner,Layup,71,61
+6:25,Lafayette,Alex Petrie,Missed Three Point Jumper,71,61
+6:25,Saint Peter's,Cameron Jones,Defensive Rebound,71,61
+6:18,Saint Peter's,Cameron Jones,Jumper,71,63
+5:52,Lafayette,Justin Jaworski,Missed Three Point Jumper,71,63
+5:52,Saint Peter's,Saint Peter's,Defensive Rebound,71,63
+5:50,Lafayette,Dylan Hastings,Foul,71,63
+5:50,Saint Peter's,Manny Dixon,Free Throw,71,64
+5:50,Saint Peter's,Manny Dixon,Free Throw,71,65
+5:42,Saint Peter's,Quinn Taylor,Foul,71,65
+5:27,Lafayette,Alex Petrie,Missed Jumper,71,65
+5:27,Saint Peter's,KC Ndefo,Defensive Rebound,71,65
+5:16,Saint Peter's,Davauhnte Turner,Layup,71,67
+5:09,Saint Peter's,Davauhnte Turner,Foul,71,67
+5:09,Lafayette,Tyrone Perry,Free Throw,72,67
+5:09,Lafayette,Tyrone Perry,Free Throw,73,67
+4:47,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,73,67
+4:47,Saint Peter's,Davauhnte Turner,Offensive Rebound,73,67
+4:41,Saint Peter's,Manny Dixon,Layup,73,69
+4:33,Lafayette,Isaac Suffren,Foul,73,69
+4:33,Lafayette,Isaac Suffren,Turnover,73,69
+4:09,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,73,69
+4:09,Saint Peter's,KC Ndefo,Offensive Rebound,73,69
+4:04,Saint Peter's,KC Ndefo,Missed Layup,73,69
+4:04,Saint Peter's,KC Ndefo,Offensive Rebound,73,69
+4:00,Saint Peter's,KC Ndefo,Layup,73,71
+4:00,Saint Peter's,None,None,73,71
+3:34,Lafayette,Paulius Zalys,Missed Three Point Jumper,73,71
+3:34,Lafayette,Myles Cherry,Offensive Rebound,73,71
+3:30,Lafayette,Myles Cherry,Missed Layup,73,71
+3:30,Lafayette,Myles Cherry,Offensive Rebound,73,71
+3:28,Lafayette,Myles Cherry,Missed Layup,73,71
+3:28,Saint Peter's,Cameron Jones,Defensive Rebound,73,71
+3:09,Saint Peter's,Manny Dixon,Missed Three Point Jumper,73,71
+3:09,Saint Peter's,Davauhnte Turner,Offensive Rebound,73,71
+3:02,Saint Peter's,Cameron Jones,Missed Three Point Jumper,73,71
+3:02,Saint Peter's,Cameron Jones,Offensive Rebound,73,71
+2:31,Saint Peter's,Cameron Jones,Missed Three Point Jumper,73,71
+2:31,Lafayette,Paulius Zalys,Defensive Rebound,73,71
+2:29,Saint Peter's,Manny Dixon,Foul,73,71
+2:29,Lafayette,Paulius Zalys,Free Throw,74,71
+2:29,Lafayette,Paulius Zalys,Missed Free Throw,74,71
+2:29,Saint Peter's,Quinn Taylor,Defensive Rebound,74,71
+2:05,Saint Peter's,Davauhnte Turner,Jumper,74,73
+1:50,Lafayette,Kyle Stout,Three Point Jumper,77,73
+1:38,Saint Peter's,None,None,77,73
+1:30,Saint Peter's,Manny Dixon,Missed Three Point Jumper,77,73
+1:30,Saint Peter's,Samuel Idowu,Offensive Rebound,77,73
+1:29,Lafayette,Kyle Stout,Foul,77,73
+1:29,Saint Peter's,Samuel Idowu,Free Throw,77,74
+1:29,Saint Peter's,Samuel Idowu,Free Throw,77,75
+1:04,Lafayette,Kyle Stout,Missed Three Point Jumper,77,75
+1:04,Saint Peter's,Cameron Jones,Defensive Rebound,77,75
+0:49,Saint Peter's,KC Ndefo,Dunk,77,77
+0:49,Lafayette,Myles Cherry,Foul,77,77
+0:49,Saint Peter's,KC Ndefo,Free Throw,77,78
+0:38,Lafayette,Alex Petrie,Missed Jumper,77,78
+0:38,Saint Peter's,Davauhnte Turner,Defensive Rebound,77,78
+0:32,Lafayette,Kyle Stout,Foul,77,78
+0:32,Saint Peter's,Quinn Taylor,Missed Free Throw,77,78
+0:32,Saint Peter's,None,Team Rebound,77,78
+0:32,Saint Peter's,Quinn Taylor,Free Throw,77,79
+0:21,Lafayette,Alex Petrie,Jumper,79,79
+0:21,Saint Peter's,Quinn Taylor,Foul,79,79
+0:21,Lafayette,Alex Petrie,Missed Free Throw,79,79
+0:21,Saint Peter's,Saint Peter's,Defensive Rebound,79,79
+0:00,Saint Peter's,Davauhnte Turner,Missed Jumper,79,79
+0:00,Lafayette,None,Team Rebound,79,79
+0:00,Saint Peter's,None,None,79,78
+4:45,Lafayette,Alex Petrie,Missed Jumper,79,79
+4:45,Saint Peter's,Manny Dixon,Defensive Rebound,79,79
+4:36,Saint Peter's,Dallas Watson,Missed Layup,79,79
+4:36,Lafayette,Sean Good,Defensive Rebound,79,79
+4:22,Lafayette,Justin Jaworski,Turnover,79,79
+4:21,Saint Peter's,KC Ndefo,Steal,79,79
+4:19,Saint Peter's,KC Ndefo,Dunk,79,81
+4:02,Lafayette,Justin Jaworski,Foul,79,81
+4:02,Lafayette,Justin Jaworski,Turnover,79,81
+3:44,Saint Peter's,Samuel Idowu,Missed Jumper,79,81
+3:44,Lafayette,Myles Cherry,Defensive Rebound,79,81
+3:39,Lafayette,Myles Cherry,Turnover,79,81
+3:24,Saint Peter's,Samuel Idowu,Three Point Jumper,79,84
+3:07,Lafayette,Alex Petrie,Missed Jumper,79,84
+3:07,Saint Peter's,Cameron Jones,Defensive Rebound,79,84
+2:46,Saint Peter's,Cameron Jones,Turnover,79,84
+2:45,Lafayette,Justin Jaworski,Steal,79,84
+2:41,Lafayette,Alex Petrie,Missed Layup,79,84
+2:41,Saint Peter's,Cameron Jones,Defensive Rebound,79,84
+2:31,Saint Peter's,None,None,79,84
+2:24,Saint Peter's,Dallas Watson,Missed Three Point Jumper,79,84
+2:24,Lafayette,Justin Jaworski,Defensive Rebound,79,84
+2:06,Saint Peter's,Dallas Watson,Foul,79,84
+2:06,Lafayette,Justin Jaworski,Free Throw,80,84
+2:06,Lafayette,Justin Jaworski,Free Throw,81,84
+1:41,Saint Peter's,Davauhnte Turner,Three Point Jumper,81,87
+1:18,Saint Peter's,KC Ndefo,Foul,81,87
+1:18,Lafayette,Justin Jaworski,Free Throw,82,87
+1:18,Lafayette,Justin Jaworski,Free Throw,83,87
+0:59,Lafayette,Lukas Jarrett,Foul,83,87
+0:59,Saint Peter's,Cameron Jones,Free Throw,83,88
+0:59,Saint Peter's,Cameron Jones,Free Throw,83,89
+0:43,Saint Peter's,Cameron Jones,Foul,83,89
+0:43,Lafayette,Justin Jaworski,Free Throw,84,89
+0:43,Lafayette,Justin Jaworski,Free Throw,85,89
+0:43,Lafayette,Justin Jaworski,Free Throw,86,89
+0:43,Lafayette,None,None,86,89
+0:18,Saint Peter's,Davauhnte Turner,Layup,86,91
+0:12,Lafayette,Justin Jaworski,Missed Three Point Jumper,86,91
+0:10,Saint Peter's,Manny Dixon,Defensive Rebound,86,91
+0:08,Lafayette,Tyrone Perry,Foul,86,91
+0:08,Saint Peter's,Davauhnte Turner,Free Throw,86,92
+0:08,Saint Peter's,Davauhnte Turner,Free Throw,86,93
+0:02,Lafayette,Justin Jaworski,Missed Three Point Jumper,86,93
+0:02,Saint Peter's,None,Team Rebound,86,93
+0:00,Saint Peter's,None,None,86,93

@@ -1,0 +1,305 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:45,Northwestern,A.J. Turner,Missed Three Point Jumper,0,0
+19:42,Columbia,Tai Bibbs,Defensive Rebound,0,0
+19:32,Northwestern,Vic Law,Foul,0,0
+19:11,Columbia,Tai Bibbs,Missed Jumper,0,0
+19:10,Columbia,Randy Brumant,Offensive Rebound,0,0
+19:08,Columbia,Randy Brumant,Turnover,0,0
+18:58,Northwestern,Dererk Pardon,Missed Three Point Jumper,0,0
+18:55,Columbia,Randy Brumant,Defensive Rebound,0,0
+18:44,Columbia,Gabe Stefanini,Turnover,0,0
+18:29,Northwestern,Ryan Taylor,Three Point Jumper,0,3
+18:01,Columbia,Patrick Tape,Layup,2,3
+17:50,Columbia,Tai Bibbs,Foul,2,3
+17:50,Northwestern,Dererk Pardon,Missed Free Throw,2,3
+17:50,Northwestern,None,Team Rebound,2,3
+17:50,Northwestern,Dererk Pardon,Free Throw,2,4
+17:20,Columbia,Randy Brumant,Foul,4,4
+17:07,Northwestern,A.J. Turner,Missed Three Point Jumper,4,4
+17:04,Columbia,Randy Brumant,Defensive Rebound,4,4
+16:55,Columbia,Gabe Stefanini,Layup,6,4
+16:29,Northwestern,Dererk Pardon,Missed Layup,6,4
+16:26,Columbia,Randy Brumant,Defensive Rebound,6,4
+16:01,Columbia,Patrick Tape,Foul,6,4
+16:01,Columbia,Patrick Tape,Turnover,6,4
+15:54,Northwestern,Miller Kopp,Foul,6,4
+15:54,Northwestern,Miller Kopp,Turnover,6,4
+15:54,Northwestern,None,None,6,4
+15:41,Columbia,Tai Bibbs,Missed Three Point Jumper,6,4
+15:38,Northwestern,A.J. Turner,Defensive Rebound,6,4
+15:35,Columbia,Randy Brumant,Foul,6,4
+15:35,Northwestern,Vic Law,Missed Free Throw,6,4
+15:35,Northwestern,None,Team Rebound,6,4
+15:35,Northwestern,Vic Law,Free Throw,6,5
+15:19,Columbia,Gabe Stefanini,Missed Jumper,6,5
+15:12,Columbia,Rodney Hunter,Offensive Rebound,6,5
+15:11,Columbia,Ike Nweke,Layup,8,5
+14:44,Northwestern,Vic Law,Three Point Jumper,8,8
+14:17,Columbia,Ike Nweke,Missed Layup,8,8
+14:15,Northwestern,Ryan Taylor,Defensive Rebound,8,8
+13:58,Northwestern,Vic Law,Missed Jumper,8,8
+13:55,Columbia,Tai Bibbs,Defensive Rebound,8,8
+13:46,Columbia,Rodney Hunter,Turnover,8,8
+13:33,Northwestern,Ryan Taylor,Missed Three Point Jumper,8,8
+13:30,Columbia,Rodney Hunter,Defensive Rebound,8,8
+13:03,Columbia,Ike Nweke,Layup,10,8
+13:03,Northwestern,Barret Benson,Foul,10,8
+13:03,Columbia,Ike Nweke,Missed Free Throw,10,8
+13:03,Northwestern,Barret Benson,Defensive Rebound,10,8
+12:20,Northwestern,Ryan Greer,Foul,10,10
+12:20,Columbia,CJ Davis,Free Throw,11,10
+12:20,Columbia,CJ Davis,Free Throw,12,10
+12:05,Northwestern,Pete Nance,Missed Jumper,12,10
+12:02,Columbia,Ike Nweke,Defensive Rebound,12,10
+11:49,Columbia,Quinton Adlesh,Missed Jumper,12,10
+11:49,Northwestern,Dererk Pardon,Block,12,10
+11:45,Columbia,CJ Davis,Offensive Rebound,12,10
+11:35,Columbia,Rodney Hunter,Missed Jumper,12,10
+11:33,Northwestern,A.J. Turner,Defensive Rebound,12,10
+11:29,Northwestern,Ryan Greer,Missed Three Point Jumper,12,10
+11:26,Columbia,Ike Nweke,Defensive Rebound,12,10
+11:08,Columbia,CJ Davis,Missed Jumper,12,10
+11:04,Northwestern,Anthony Gaines,Defensive Rebound,12,10
+10:59,Northwestern,A.J. Turner,Missed Three Point Jumper,12,10
+10:54,Columbia,CJ Davis,Defensive Rebound,12,10
+10:49,Columbia,Quinton Adlesh,Missed Layup,12,10
+10:44,Northwestern,Pete Nance,Defensive Rebound,12,10
+10:41,Northwestern,Dererk Pardon,Foul,12,10
+10:41,Northwestern,Dererk Pardon,Turnover,12,10
+10:41,Northwestern,None,None,12,10
+10:33,Columbia,Maka Ellis,Turnover,12,10
+10:25,Northwestern,Dererk Pardon,Jumper,12,12
+10:08,Columbia,Ike Nweke,Turnover,12,12
+9:56,Northwestern,None,None,12,12
+9:40,Columbia,Rodney Hunter,Foul,12,12
+9:28,Northwestern,Vic Law,Missed Three Point Jumper,12,12
+9:24,Columbia,Patrick Tape,Defensive Rebound,12,12
+9:17,Northwestern,A.J. Turner,Foul,12,12
+9:17,Columbia,Patrick Tape,Free Throw,13,12
+9:17,Columbia,Patrick Tape,Free Throw,14,12
+9:01,Northwestern,Ryan Taylor,Missed Jumper,14,12
+8:58,Columbia,Patrick Tape,Defensive Rebound,14,12
+8:51,Columbia,Gabe Stefanini,Missed Layup,14,12
+8:48,Northwestern,Ryan Taylor,Defensive Rebound,14,12
+8:44,Northwestern,Ryan Taylor,Missed Jumper,14,12
+8:40,Columbia,Gabe Stefanini,Defensive Rebound,14,12
+8:19,Columbia,Randy Brumant,Dunk,16,12
+8:00,Northwestern,Vic Law,Jumper,16,14
+7:44,Columbia,Jake Killingsworth,Foul,16,14
+7:44,Columbia,Jake Killingsworth,Turnover,16,14
+7:44,Northwestern,None,None,16,14
+7:21,Northwestern,Ryan Taylor,Missed Jumper,16,14
+7:21,Columbia,Gabe Stefanini,Defensive Rebound,16,14
+7:21,Northwestern,Dererk Pardon,Foul,16,14
+7:21,Columbia,Ike Nweke,Missed Free Throw,16,14
+7:21,Northwestern,Northwestern,Defensive Rebound,16,14
+6:55,Northwestern,Ryan Taylor,Turnover,16,14
+6:55,Columbia,Ike Nweke,Steal,16,14
+6:48,Columbia,Gabe Stefanini,Missed Layup,16,14
+6:45,Northwestern,Barret Benson,Defensive Rebound,16,14
+6:43,Columbia,Jake Killingsworth,Foul,16,14
+6:43,Northwestern,Anthony Gaines,Missed Free Throw,16,14
+6:43,Northwestern,None,Team Rebound,16,14
+6:43,Northwestern,Anthony Gaines,Free Throw,16,15
+6:18,Columbia,Tai Bibbs,Missed Layup,16,15
+6:15,Northwestern,Vic Law,Defensive Rebound,16,15
+6:07,Northwestern,Ryan Taylor,Three Point Jumper,16,18
+5:43,Northwestern,Anthony Gaines,Foul,16,18
+5:43,Columbia,Ike Nweke,Free Throw,17,18
+5:43,Columbia,Ike Nweke,Free Throw,18,18
+5:33,Northwestern,Vic Law,Missed Jumper,18,18
+5:28,Columbia,Tai Bibbs,Defensive Rebound,18,18
+5:13,Columbia,Ike Nweke,Turnover,18,18
+5:13,Northwestern,Vic Law,Steal,18,18
+5:02,Northwestern,Vic Law,Three Point Jumper,18,21
+4:37,Columbia,Quinton Adlesh,Missed Jumper,18,21
+4:34,Northwestern,Barret Benson,Defensive Rebound,18,21
+4:24,Northwestern,Barret Benson,Layup,18,23
+4:07,Columbia,Tai Bibbs,Turnover,18,23
+4:07,Columbia,None,None,18,23
+3:58,Northwestern,Vic Law,Jumper,18,25
+3:36,Northwestern,A.J. Turner,Defensive Rebound,18,25
+3:30,Northwestern,Pete Nance,Missed Three Point Jumper,18,25
+3:27,Columbia,Quinton Adlesh,Defensive Rebound,18,25
+3:21,Columbia,Patrick Tape,Layup,20,25
+3:01,Northwestern,Pete Nance,Foul,20,25
+3:01,Northwestern,Pete Nance,Turnover,20,25
+2:50,Columbia,Patrick Tape,Layup,22,25
+2:27,Northwestern,A.J. Turner,Missed Layup,22,25
+2:27,Northwestern,Northwestern,Offensive Rebound,22,25
+2:27,Columbia,Peter Barba,Foul,22,25
+2:27,Northwestern,Barret Benson,Free Throw,22,26
+2:27,Northwestern,Barret Benson,Free Throw,22,27
+2:20,Northwestern,Anthony Gaines,Foul,22,27
+2:20,Columbia,Ike Nweke,Free Throw,23,27
+2:20,Columbia,Ike Nweke,Missed Free Throw,23,27
+2:20,Northwestern,Barret Benson,Defensive Rebound,23,27
+2:07,Northwestern,A.J. Turner,Turnover,23,27
+2:07,Columbia,Gabe Stefanini,Steal,23,27
+1:54,Columbia,Quinton Adlesh,Missed Jumper,23,27
+1:54,Northwestern,Vic Law,Block,23,27
+1:50,Northwestern,A.J. Turner,Free Throw,23,28
+1:50,Northwestern,Barret Benson,Defensive Rebound,23,27
+1:50,Columbia,Quinton Adlesh,Foul,23,27
+1:50,Northwestern,A.J. Turner,Free Throw,23,29
+1:36,Columbia,Quinton Adlesh,Three Point Jumper,26,29
+1:15,Northwestern,A.J. Turner,Three Point Jumper,26,32
+0:52,Columbia,Quinton Adlesh,Turnover,26,32
+0:52,Northwestern,Pete Nance,Steal,26,32
+0:47,Columbia,Peter Barba,Foul,26,32
+0:47,Northwestern,Ryan Taylor,Free Throw,26,33
+0:47,Northwestern,Ryan Taylor,Free Throw,26,34
+0:23,Columbia,Quinton Adlesh,Three Point Jumper,29,34
+0:02,Northwestern,Vic Law,Three Point Jumper,29,37
+0:00,Northwestern,None,None,29,37
+19:48,Northwestern,Ryan Taylor,Three Point Jumper,29,40
+19:25,Columbia,Randy Brumant,Missed Jumper,29,40
+19:21,Columbia,Gabe Stefanini,Offensive Rebound,29,40
+19:20,Columbia,Jake Killingsworth,Three Point Jumper,32,40
+19:06,Northwestern,Miller Kopp,Jumper,32,42
+19:06,Columbia,Randy Brumant,Foul,32,42
+19:06,Northwestern,Miller Kopp,Missed Free Throw,32,42
+19:06,Columbia,Randy Brumant,Defensive Rebound,32,42
+18:48,Columbia,Randy Brumant,Missed Dunk,32,42
+18:43,Northwestern,Vic Law,Defensive Rebound,32,42
+18:20,Northwestern,Vic Law,Missed Three Point Jumper,32,42
+18:18,Columbia,Gabe Stefanini,Defensive Rebound,32,42
+18:12,Columbia,Patrick Tape,Missed Jumper,32,42
+18:08,Northwestern,A.J. Turner,Defensive Rebound,32,42
+18:07,Northwestern,Miller Kopp,Missed Layup,32,42
+18:07,Columbia,Rodney Hunter,Block,32,42
+18:06,Northwestern,Northwestern,Offensive Rebound,32,42
+18:02,Columbia,Patrick Tape,Foul,32,42
+17:54,Northwestern,Vic Law,Missed Jumper,32,42
+17:52,Northwestern,Dererk Pardon,Offensive Rebound,32,42
+17:51,Northwestern,Dererk Pardon,Layup,32,44
+17:27,Columbia,Gabe Stefanini,Missed Jumper,32,44
+17:22,Northwestern,Dererk Pardon,Defensive Rebound,32,44
+17:02,Columbia,Gabe Stefanini,Foul,32,44
+17:02,Northwestern,Dererk Pardon,Missed Free Throw,32,44
+17:02,Northwestern,None,Team Rebound,32,44
+17:02,Northwestern,Dererk Pardon,Free Throw,32,45
+16:42,Columbia,Gabe Stefanini,Layup,34,45
+16:17,Northwestern,A.J. Turner,Missed Three Point Jumper,34,45
+16:14,Northwestern,Dererk Pardon,Offensive Rebound,34,45
+16:13,Northwestern,Dererk Pardon,Missed Layup,34,45
+16:10,Columbia,Patrick Tape,Defensive Rebound,34,45
+15:57,Northwestern,Vic Law,Foul,34,45
+15:57,Northwestern,None,None,34,45
+15:53,Columbia,Gabe Stefanini,Turnover,34,45
+15:32,Northwestern,Miller Kopp,Turnover,34,45
+15:32,Columbia,Gabe Stefanini,Steal,34,45
+15:28,Columbia,Gabe Stefanini,Missed Layup,34,45
+15:24,Northwestern,Miller Kopp,Defensive Rebound,34,45
+15:12,Northwestern,Vic Law,Layup,34,47
+15:12,Columbia,Patrick Tape,Foul,34,47
+15:12,Northwestern,Vic Law,Free Throw,34,48
+14:55,Columbia,Gabe Stefanini,Missed Three Point Jumper,34,48
+14:53,Northwestern,Northwestern,Defensive Rebound,34,48
+14:32,Northwestern,Ryan Taylor,Three Point Jumper,34,51
+14:26,Columbia,None,None,34,51
+14:09,Columbia,Gabe Stefanini,Missed Layup,34,51
+14:06,Northwestern,Dererk Pardon,Defensive Rebound,34,51
+13:42,Northwestern,Anthony Gaines,Missed Three Point Jumper,34,51
+13:39,Northwestern,Dererk Pardon,Offensive Rebound,34,51
+13:36,Northwestern,Vic Law,Missed Three Point Jumper,34,51
+13:32,Columbia,Ike Nweke,Defensive Rebound,34,51
+13:18,Columbia,Gabe Stefanini,Turnover,34,51
+13:01,Northwestern,Anthony Gaines,Turnover,34,51
+13:01,Columbia,Rodney Hunter,Steal,34,51
+12:50,Columbia,Jake Killingsworth,Missed Three Point Jumper,34,51
+12:46,Northwestern,A.J. Turner,Defensive Rebound,34,51
+12:44,Northwestern,A.J. Turner,Turnover,34,51
+12:44,Columbia,CJ Davis,Steal,34,51
+12:38,Columbia,Quinton Adlesh,Three Point Jumper,37,51
+12:35,Columbia,None,None,37,51
+12:25,Northwestern,Anthony Gaines,Turnover,37,51
+12:25,Columbia,CJ Davis,Steal,37,51
+12:22,Columbia,CJ Davis,Layup,39,51
+12:22,Northwestern,None,None,39,51
+12:08,Northwestern,Pete Nance,Three Point Jumper,39,54
+11:50,Northwestern,Vic Law,Foul,39,54
+11:33,Columbia,Quinton Adlesh,Missed Three Point Jumper,39,54
+11:30,Northwestern,Pete Nance,Defensive Rebound,39,54
+11:26,Northwestern,Vic Law,Layup,39,56
+11:10,Northwestern,Ryan Taylor,Foul,39,56
+11:06,Columbia,Quinton Adlesh,Missed Three Point Jumper,39,56
+11:04,Northwestern,Dererk Pardon,Defensive Rebound,39,56
+10:43,Columbia,Quinton Adlesh,Foul,39,56
+10:39,Northwestern,Pete Nance,Missed Jumper,39,56
+10:36,Columbia,Ike Nweke,Defensive Rebound,39,56
+10:24,Columbia,Quinton Adlesh,Layup,41,56
+9:57,Northwestern,Dererk Pardon,Missed Dunk,41,56
+9:57,Columbia,Randy Brumant,Block,41,56
+9:53,Columbia,Randy Brumant,Defensive Rebound,41,56
+9:45,Columbia,Ike Nweke,Missed Jumper,41,56
+9:42,Northwestern,Dererk Pardon,Defensive Rebound,41,56
+9:30,Columbia,CJ Davis,Foul,41,56
+9:30,Northwestern,Dererk Pardon,Free Throw,41,57
+9:30,Northwestern,Dererk Pardon,Free Throw,41,58
+9:14,Columbia,Patrick Tape,Layup,43,58
+8:42,Northwestern,Dererk Pardon,Layup,43,60
+8:27,Columbia,Patrick Tape,Layup,45,60
+8:16,Northwestern,Pete Nance,Dunk,45,62
+8:01,Columbia,Jake Killingsworth,Missed Three Point Jumper,45,62
+7:58,Northwestern,Vic Law,Defensive Rebound,45,62
+7:41,Northwestern,None,None,45,62
+7:37,Northwestern,Ryan Taylor,Missed Jumper,45,62
+7:35,Columbia,Jake Killingsworth,Defensive Rebound,45,62
+7:24,Columbia,Gabe Stefanini,Jumper,47,62
+7:12,Northwestern,Ryan Greer,Layup,47,64
+6:59,Columbia,None,None,49,64
+6:59,Northwestern,None,None,49,64
+6:46,Columbia,Randy Brumant,Foul,49,64
+6:46,Northwestern,Vic Law,Free Throw,49,65
+6:46,Northwestern,Vic Law,Free Throw,49,66
+6:36,Columbia,Quinton Adlesh,Missed Three Point Jumper,49,66
+6:34,Northwestern,A.J. Turner,Defensive Rebound,49,66
+6:06,Northwestern,Pete Nance,Missed Three Point Jumper,49,66
+6:04,Columbia,Quinton Adlesh,Defensive Rebound,49,66
+5:52,Columbia,Quinton Adlesh,Three Point Jumper,52,66
+5:36,Columbia,Patrick Tape,Foul,52,66
+5:36,Northwestern,Ryan Taylor,Free Throw,52,67
+5:36,Northwestern,Ryan Taylor,Free Throw,52,68
+5:27,Columbia,Gabe Stefanini,Turnover,52,68
+5:27,Northwestern,Pete Nance,Steal,52,68
+5:16,Northwestern,Pete Nance,Missed Jumper,52,68
+5:13,Columbia,Rodney Hunter,Defensive Rebound,52,68
+5:08,Columbia,Maka Ellis,Missed Three Point Jumper,52,68
+5:04,Northwestern,A.J. Turner,Defensive Rebound,52,68
+4:41,Northwestern,Ryan Taylor,Missed Jumper,52,68
+4:38,Columbia,Patrick Tape,Defensive Rebound,52,68
+4:34,Northwestern,Ryan Taylor,Foul,52,68
+4:16,Northwestern,Dererk Pardon,Foul,52,68
+4:10,Columbia,Patrick Tape,Layup,54,68
+3:43,Northwestern,Vic Law,Missed Layup,54,68
+3:43,Columbia,Rodney Hunter,Block,54,68
+3:39,Columbia,Maka Ellis,Defensive Rebound,54,68
+3:32,Columbia,Quinton Adlesh,Missed Three Point Jumper,54,68
+3:30,Northwestern,Dererk Pardon,Defensive Rebound,54,68
+3:23,Northwestern,Ryan Taylor,Three Point Jumper,54,71
+3:01,Columbia,Gabe Stefanini,Missed Jumper,54,71
+2:57,Columbia,Rodney Hunter,Offensive Rebound,54,71
+2:55,Columbia,Quinton Adlesh,Missed Three Point Jumper,54,71
+2:52,Northwestern,Pete Nance,Defensive Rebound,54,71
+2:30,Northwestern,Pete Nance,Turnover,54,71
+2:30,Northwestern,None,None,54,71
+2:16,Northwestern,Pete Nance,Foul,54,71
+2:06,Columbia,CJ Davis,Missed Layup,54,71
+2:04,Northwestern,Dererk Pardon,Defensive Rebound,54,71
+1:49,Northwestern,Ryan Taylor,Missed Three Point Jumper,54,71
+1:46,Northwestern,Dererk Pardon,Offensive Rebound,54,71
+1:27,Northwestern,Ryan Taylor,Missed Jumper,54,71
+1:26,Northwestern,Pete Nance,Offensive Rebound,54,71
+1:26,Columbia,Peter Barba,Foul,54,71
+1:26,Northwestern,Dererk Pardon,Free Throw,54,72
+1:26,Northwestern,Dererk Pardon,Free Throw,54,73
+1:09,Columbia,Ike Nweke,Missed Jumper,54,73
+1:06,Columbia,Tai Bibbs,Offensive Rebound,54,73
+1:05,Columbia,Tai Bibbs,Missed Layup,54,73
+1:02,Northwestern,Vic Law,Defensive Rebound,54,73
+0:41,Northwestern,Ryan Taylor,Jumper,54,75
+0:29,Columbia,Peter Barba,Missed Three Point Jumper,54,75
+0:26,Northwestern,Vic Law,Defensive Rebound,54,75
+0:00,Northwestern,None,None,54,75
+0:00,Northwestern,None,None,54,75

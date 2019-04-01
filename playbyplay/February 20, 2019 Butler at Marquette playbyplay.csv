@@ -1,0 +1,316 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Marquette,None,None,0,0
+19:47,Marquette,Sam Hauser,Missed Three Point Jumper,0,0
+19:47,Butler,Kamar Baldwin,Defensive Rebound,0,0
+19:28,Butler,Joey Brunk,Turnover,0,0
+19:17,Marquette,Joey Hauser,Missed Jumper,0,0
+19:17,Butler,Sean McDermott,Defensive Rebound,0,0
+19:09,Butler,Aaron Thompson,Missed Layup,0,0
+19:09,Marquette,Theo John,Block,0,0
+19:09,Marquette,Sacar Anim,Defensive Rebound,0,0
+18:54,Marquette,Sam Hauser,Missed Jumper,0,0
+18:54,Butler,Butler,Defensive Rebound,0,0
+18:29,Butler,Jordan Tucker,Three Point Jumper,3,0
+18:09,Marquette,Joey Hauser,Turnover,3,0
+18:09,Butler,Jordan Tucker,Steal,3,0
+18:04,Butler,Jordan Tucker,Layup,5,0
+17:41,Marquette,Joey Hauser,Layup,5,2
+17:24,Butler,Kamar Baldwin,Jumper,7,2
+17:09,Marquette,Joey Hauser,Missed Three Point Jumper,7,2
+17:09,Butler,Jordan Tucker,Defensive Rebound,7,2
+16:48,Butler,Jordan Tucker,Missed Three Point Jumper,7,2
+16:48,Marquette,Theo John,Defensive Rebound,7,2
+16:39,Marquette,Markus Howard,Three Point Jumper,7,5
+16:39,Butler,Jordan Tucker,Foul,7,5
+16:39,Marquette,Markus Howard,Free Throw,7,6
+16:27,Butler,Sean McDermott,Turnover,7,6
+16:27,Butler,Sean McDermott,Foul,7,6
+16:08,Marquette,Markus Howard,Layup,7,8
+15:58,Butler,Sean McDermott,Three Point Jumper,10,8
+15:39,Marquette,Markus Howard,Layup,10,10
+15:16,Butler,Joey Brunk,Missed Jumper,10,10
+15:16,Marquette,Theo John,Block,10,10
+15:12,Marquette,None,None,10,10
+15:12,Butler,Joey Brunk,Offensive Rebound,10,10
+15:12,Marquette,Theo John,Foul,10,10
+15:11,Marquette,None,None,10,10
+14:55,Butler,Jordan Tucker,Missed Jumper,10,10
+14:55,Marquette,Sam Hauser,Block,10,10
+14:55,Butler,Butler,Offensive Rebound,10,10
+14:51,Butler,Sean McDermott,Missed Layup,10,10
+14:51,Butler,Sean McDermott,Offensive Rebound,10,10
+14:47,Marquette,Sacar Anim,Foul,10,10
+14:47,Marquette,Joey Hauser,Foul,10,10
+14:29,Butler,Paul Jorgensen,Turnover,10,10
+14:29,Marquette,Markus Howard,Steal,10,10
+14:23,Butler,Kamar Baldwin,Foul,10,10
+14:23,Marquette,Sacar Anim,Missed Free Throw,10,10
+14:23,Marquette,None,Team Rebound,10,10
+14:23,Marquette,Sacar Anim,Missed Free Throw,10,10
+14:23,Marquette,Sam Hauser,Offensive Rebound,10,10
+14:07,Marquette,Markus Howard,Missed Three Point Jumper,10,10
+14:07,Butler,Jordan Tucker,Defensive Rebound,10,10
+13:58,Butler,Jordan Tucker,Missed Jumper,10,10
+13:58,Marquette,Sacar Anim,Defensive Rebound,10,10
+13:45,Marquette,Sam Hauser,Turnover,10,10
+13:37,Butler,Sean McDermott,Three Point Jumper,13,10
+13:06,Marquette,Brendan Bailey,Missed Three Point Jumper,13,10
+13:06,Butler,Henry Baddley,Defensive Rebound,13,10
+12:49,Butler,Henry Baddley,Missed Jumper,13,10
+12:49,Marquette,Brendan Bailey,Block,13,10
+12:49,Marquette,Markus Howard,Defensive Rebound,13,10
+12:38,Marquette,Ed Morrow,Layup,13,12
+12:22,Butler,Kamar Baldwin,Turnover,13,12
+12:22,Marquette,Ed Morrow,Steal,13,12
+12:08,Marquette,Sam Hauser,Missed Layup,13,12
+12:08,Butler,Nate Fowler,Defensive Rebound,13,12
+11:59,Butler,Paul Jorgensen,Missed Three Point Jumper,13,12
+11:59,Marquette,Sacar Anim,Defensive Rebound,13,12
+11:47,Marquette,Markus Howard,Missed Three Point Jumper,13,12
+11:47,Butler,Paul Jorgensen,Defensive Rebound,13,12
+11:39,Butler,Paul Jorgensen,Missed Jumper,13,12
+11:39,Butler,Sean McDermott,Offensive Rebound,13,12
+11:33,Butler,Sean McDermott,Missed Layup,13,12
+11:33,Marquette,Sam Hauser,Defensive Rebound,13,12
+11:23,Marquette,Sam Hauser,Missed Three Point Jumper,13,12
+11:23,Marquette,Ed Morrow,Offensive Rebound,13,12
+11:16,Marquette,Ed Morrow,Layup,13,14
+11:00,Butler,Sean McDermott,Layup,15,14
+10:37,Marquette,Markus Howard,Missed Jumper,15,14
+10:37,Butler,Paul Jorgensen,Defensive Rebound,15,14
+10:24,Butler,Kamar Baldwin,Layup,17,14
+9:50,Marquette,Brendan Bailey,Missed Jumper,17,14
+9:50,Butler,Paul Jorgensen,Defensive Rebound,17,14
+9:38,Marquette,Markus Howard,Foul,17,14
+9:38,Marquette,None,None,17,14
+9:38,Butler,Paul Jorgensen,Free Throw,18,14
+9:38,Butler,Paul Jorgensen,Free Throw,19,14
+9:17,Marquette,Joey Hauser,Missed Layup,19,14
+9:17,Butler,Christian David,Block,19,14
+9:17,Butler,Christian David,Defensive Rebound,19,14
+8:46,Butler,Christian David,Turnover,19,14
+8:46,Marquette,Jamal Cain,Steal,19,14
+8:24,Marquette,Jamal Cain,Jumper,19,16
+8:11,Butler,Paul Jorgensen,Layup,21,16
+7:45,Marquette,Theo John,Dunk,21,18
+7:17,Butler,Aaron Thompson,Jumper,23,18
+6:48,Marquette,Joseph Chartouny,Turnover,23,18
+6:48,Butler,Christian David,Steal,23,18
+6:43,Butler,Paul Jorgensen,Three Point Jumper,26,18
+6:28,Marquette,Joey Hauser,Missed Jumper,26,18
+6:28,Butler,Paul Jorgensen,Defensive Rebound,26,18
+6:13,Butler,Henry Baddley,Missed Three Point Jumper,26,18
+6:13,Marquette,Theo John,Defensive Rebound,26,18
+5:50,Marquette,Markus Howard,Missed Jumper,26,18
+5:50,Marquette,Markus Howard,Offensive Rebound,26,18
+5:48,Butler,Aaron Thompson,Foul,26,18
+5:48,Marquette,None,None,26,18
+5:32,Marquette,Sacar Anim,Turnover,26,18
+5:20,Butler,Sean McDermott,Missed Three Point Jumper,26,18
+5:20,Marquette,Markus Howard,Defensive Rebound,26,18
+5:03,Marquette,Theo John,Missed Layup,26,18
+5:03,Butler,Kamar Baldwin,Defensive Rebound,26,18
+4:55,Butler,Kamar Baldwin,Turnover,26,18
+4:42,Marquette,Joey Hauser,Missed Three Point Jumper,26,18
+4:42,Butler,Aaron Thompson,Defensive Rebound,26,18
+4:19,Butler,Jordan Tucker,Missed Three Point Jumper,26,18
+4:19,Marquette,Sam Hauser,Defensive Rebound,26,18
+4:04,Marquette,Markus Howard,Missed Layup,26,18
+4:04,Marquette,Theo John,Offensive Rebound,26,18
+4:04,Butler,Sean McDermott,Foul,26,18
+4:04,Marquette,Theo John,Free Throw,26,19
+4:04,Marquette,Theo John,Free Throw,26,20
+3:38,Marquette,None,None,26,20
+3:32,Butler,Kamar Baldwin,Missed Jumper,26,20
+3:32,Butler,Nate Fowler,Offensive Rebound,26,20
+3:23,Butler,Nate Fowler,Layup,28,20
+3:23,Butler,Sean McDermott,Foul,28,20
+3:12,Marquette,Joey Hauser,Layup,28,22
+2:42,Butler,Nate Fowler,Turnover,28,22
+2:12,Marquette,Sam Hauser,Turnover,28,22
+1:49,Butler,Christian David,Missed Three Point Jumper,28,22
+1:49,Marquette,None,Team Rebound,28,22
+1:31,Marquette,Theo John,Dunk,28,24
+1:19,Butler,Christian David,Layup,30,24
+1:04,Marquette,Markus Howard,Three Point Jumper,30,27
+1:03,Butler,Joey Brunk,Foul,30,27
+0:56,Marquette,Markus Howard,Missed Three Point Jumper,30,27
+0:56,Butler,Paul Jorgensen,Defensive Rebound,30,27
+0:46,Butler,Aaron Thompson,Missed Jumper,30,27
+0:46,Marquette,Joey Hauser,Defensive Rebound,30,27
+0:28,Marquette,Theo John,Dunk,30,29
+0:18,Butler,None,None,30,29
+0:12,Marquette,Sacar Anim,Foul,30,29
+0:08,Marquette,Jamal Cain,Foul,30,29
+0:02,Butler,Kamar Baldwin,Turnover,30,29
+0:02,Marquette,Jamal Cain,Steal,30,29
+0:00,Marquette,None,None,30,29
+20:00,Butler,None,None,30,29
+19:49,Butler,Sean McDermott,Three Point Jumper,33,29
+19:30,Marquette,Sam Hauser,Turnover,33,29
+19:18,Butler,Jordan Tucker,Missed Three Point Jumper,33,29
+19:18,Butler,Sean McDermott,Offensive Rebound,33,29
+19:12,Butler,Sean McDermott,Layup,35,29
+18:56,Marquette,Sacar Anim,Missed Jumper,35,29
+18:56,Butler,Kamar Baldwin,Defensive Rebound,35,29
+18:32,Butler,Joey Brunk,Layup,37,29
+18:24,Marquette,None,None,37,29
+18:09,Butler,Aaron Thompson,Foul,37,29
+18:08,Marquette,Sam Hauser,Jumper,37,31
+17:55,Marquette,Sacar Anim,Foul,37,31
+17:43,Butler,Joey Brunk,Turnover,37,31
+17:26,Marquette,Joey Hauser,Missed Jumper,37,31
+17:26,Butler,Sean McDermott,Defensive Rebound,37,31
+17:09,Butler,Joey Brunk,Missed Layup,37,31
+17:09,Marquette,Joey Hauser,Block,37,31
+17:09,Marquette,Theo John,Defensive Rebound,37,31
+16:59,Marquette,Markus Howard,Missed Three Point Jumper,37,31
+16:59,Marquette,Theo John,Offensive Rebound,37,31
+16:58,Butler,Sean McDermott,Foul,37,31
+16:58,Marquette,Theo John,Missed Free Throw,37,31
+16:58,Marquette,None,Team Rebound,37,31
+16:58,Marquette,Theo John,Free Throw,37,32
+16:43,Butler,Sean McDermott,Missed Jumper,37,32
+16:43,Marquette,Markus Howard,Defensive Rebound,37,32
+16:34,Marquette,Markus Howard,Missed Three Point Jumper,37,32
+16:34,Butler,Jordan Tucker,Defensive Rebound,37,32
+16:16,Butler,Kamar Baldwin,Missed Three Point Jumper,37,32
+16:16,Butler,Nate Fowler,Offensive Rebound,37,32
+15:56,Butler,Aaron Thompson,Turnover,37,32
+15:56,Marquette,None,None,37,32
+15:50,Marquette,Sam Hauser,Three Point Jumper,37,35
+15:27,Butler,Nate Fowler,Missed Three Point Jumper,37,35
+15:27,Marquette,Theo John,Defensive Rebound,37,35
+15:11,Marquette,Theo John,Jumper,37,37
+15:00,Butler,None,None,37,37
+14:48,Butler,Kamar Baldwin,Layup,39,37
+14:34,Marquette,Markus Howard,Three Point Jumper,39,40
+14:16,Butler,Henry Baddley,Missed Three Point Jumper,39,40
+14:16,Butler,Christian David,Offensive Rebound,39,40
+14:09,Butler,Paul Jorgensen,Three Point Jumper,42,40
+13:40,Marquette,Sam Hauser,Missed Jumper,42,40
+13:40,Marquette,Jamal Cain,Offensive Rebound,42,40
+13:40,Marquette,Jamal Cain,Turnover,42,40
+13:40,Butler,Henry Baddley,Steal,42,40
+13:33,Butler,Paul Jorgensen,Missed Three Point Jumper,42,40
+13:33,Marquette,Theo John,Defensive Rebound,42,40
+13:21,Marquette,Jamal Cain,Three Point Jumper,42,43
+12:45,Marquette,Brendan Bailey,Foul,42,43
+12:45,Butler,Kamar Baldwin,Free Throw,43,43
+12:45,Butler,Kamar Baldwin,Free Throw,44,43
+12:26,Marquette,Theo John,Jumper,44,45
+12:05,Butler,Christian David,Missed Three Point Jumper,44,45
+12:05,Marquette,Jamal Cain,Defensive Rebound,44,45
+11:54,Marquette,None,None,44,45
+11:47,Marquette,Sacar Anim,Jumper,44,47
+11:26,Butler,Aaron Thompson,Foul,44,47
+11:26,Butler,Aaron Thompson,Turnover,44,47
+11:16,Marquette,Markus Howard,Turnover,44,47
+11:16,Butler,Sean McDermott,Steal,44,47
+11:00,Butler,Kamar Baldwin,Missed Jumper,44,47
+11:00,Marquette,Theo John,Defensive Rebound,44,47
+10:41,Marquette,Markus Howard,Three Point Jumper,44,50
+10:22,Marquette,Jamal Cain,Foul,44,50
+10:09,Butler,Aaron Thompson,Missed Jumper,44,50
+10:09,Marquette,Markus Howard,Defensive Rebound,44,50
+9:59,Marquette,Sam Hauser,Layup,44,52
+9:33,Butler,Sean McDermott,Missed Jumper,44,52
+9:33,Marquette,Jamal Cain,Defensive Rebound,44,52
+9:24,Marquette,Markus Howard,Missed Three Point Jumper,44,52
+9:24,Marquette,Markus Howard,Offensive Rebound,44,52
+9:19,Marquette,Markus Howard,Missed Jumper,44,52
+9:19,Marquette,Jamal Cain,Offensive Rebound,44,52
+9:18,Marquette,Markus Howard,Turnover,44,52
+9:02,Butler,Aaron Thompson,Turnover,44,52
+8:49,Marquette,Markus Howard,Missed Three Point Jumper,44,52
+8:49,Marquette,Theo John,Offensive Rebound,44,52
+8:43,Marquette,Theo John,Layup,44,54
+8:23,Butler,Kamar Baldwin,Foul,44,54
+8:23,Butler,Kamar Baldwin,Turnover,44,54
+8:23,Butler,None,None,44,54
+7:58,Marquette,Markus Howard,Turnover,44,54
+7:58,Butler,Nate Fowler,Steal,44,54
+7:53,Butler,Kamar Baldwin,Turnover,44,54
+7:53,Marquette,Markus Howard,Steal,44,54
+7:47,Marquette,Sacar Anim,Missed Jumper,44,54
+7:47,Butler,Kamar Baldwin,Defensive Rebound,44,54
+7:26,Butler,Jordan Tucker,Three Point Jumper,47,54
+6:53,Marquette,Markus Howard,Three Point Jumper,47,57
+6:53,Butler,Aaron Thompson,Foul,47,57
+6:53,Marquette,Markus Howard,Free Throw,47,58
+6:34,Butler,Sean McDermott,Layup,49,58
+6:34,Marquette,Joey Hauser,Foul,49,58
+6:34,Butler,Sean McDermott,Free Throw,50,58
+6:12,Marquette,Markus Howard,Foul,50,58
+6:12,Marquette,Markus Howard,Turnover,50,58
+6:02,Butler,Paul Jorgensen,Missed Jumper,50,58
+6:02,Marquette,Theo John,Block,50,58
+6:02,Marquette,Sacar Anim,Defensive Rebound,50,58
+5:47,Marquette,Joey Hauser,Missed Layup,50,58
+5:47,Marquette,Joey Hauser,Offensive Rebound,50,58
+5:47,Marquette,None,None,50,60
+5:27,Butler,Henry Baddley,Missed Three Point Jumper,50,60
+5:27,Marquette,Theo John,Defensive Rebound,50,60
+5:13,Marquette,Markus Howard,Turnover,50,60
+4:58,Butler,Kamar Baldwin,Layup,52,60
+4:36,Marquette,Sam Hauser,Dunk,52,62
+4:21,Butler,Joey Brunk,Missed Three Point Jumper,52,62
+4:21,Marquette,Sacar Anim,Defensive Rebound,52,62
+3:59,Marquette,Sacar Anim,Three Point Jumper,52,65
+3:40,Butler,Kamar Baldwin,Turnover,52,65
+3:40,Marquette,None,None,52,65
+3:36,Marquette,Markus Howard,Turnover,52,65
+3:15,Butler,Paul Jorgensen,Missed Jumper,52,65
+3:15,Marquette,Theo John,Defensive Rebound,52,65
+2:52,Marquette,Markus Howard,Jumper,52,67
+2:41,Butler,Sean McDermott,Three Point Jumper,55,67
+2:41,Marquette,Joey Hauser,Foul,55,67
+2:41,Butler,Sean McDermott,Missed Free Throw,55,67
+2:41,Marquette,Sam Hauser,Defensive Rebound,55,67
+2:17,Marquette,Sam Hauser,Missed Jumper,55,67
+2:17,Marquette,Sam Hauser,Offensive Rebound,55,67
+2:13,Marquette,Markus Howard,Three Point Jumper,55,70
+2:00,Marquette,Joey Hauser,Foul,55,70
+2:00,Butler,Sean McDermott,Free Throw,56,70
+2:00,Butler,Sean McDermott,Free Throw,57,70
+1:50,Butler,Jordan Tucker,Foul,57,70
+1:50,Marquette,Joey Hauser,Free Throw,57,71
+1:50,Marquette,Joey Hauser,Free Throw,57,72
+1:45,Butler,Paul Jorgensen,Missed Three Point Jumper,57,72
+1:45,Butler,Sean McDermott,Offensive Rebound,57,72
+1:42,Marquette,Joey Hauser,Foul,57,72
+1:42,Butler,Sean McDermott,Free Throw,58,72
+1:42,Butler,Sean McDermott,Free Throw,59,72
+1:41,Marquette,Markus Howard,Turnover,59,72
+1:41,Butler,Aaron Thompson,Steal,59,72
+1:36,Butler,Aaron Thompson,Layup,61,72
+1:31,Marquette,None,None,61,72
+1:23,Butler,Kamar Baldwin,Foul,61,72
+1:23,Marquette,Sam Hauser,Free Throw,61,73
+1:23,Marquette,Sam Hauser,Free Throw,61,74
+1:15,Butler,Aaron Thompson,Missed Layup,61,74
+1:15,Butler,Sean McDermott,Offensive Rebound,61,74
+1:15,Butler,Sean McDermott,Dunk,63,74
+1:12,Butler,None,None,63,74
+1:09,Marquette,Sacar Anim,Turnover,63,74
+1:09,Butler,Kamar Baldwin,Steal,63,74
+1:08,Butler,Kamar Baldwin,Missed Three Point Jumper,63,74
+1:08,Butler,Sean McDermott,Offensive Rebound,63,74
+1:05,Marquette,Sam Hauser,Foul,63,74
+1:05,Butler,Sean McDermott,Free Throw,64,74
+1:05,Butler,Sean McDermott,Free Throw,65,74
+1:00,Butler,Kamar Baldwin,Foul,65,74
+1:00,Marquette,Sacar Anim,Free Throw,65,75
+1:00,Marquette,Sacar Anim,Missed Free Throw,65,75
+1:00,Butler,Kamar Baldwin,Defensive Rebound,65,75
+0:53,Butler,Kamar Baldwin,Layup,67,75
+0:41,Butler,Jordan Tucker,Foul,67,75
+0:41,Marquette,Markus Howard,Free Throw,67,76
+0:41,Marquette,Markus Howard,Free Throw,67,77
+0:35,Butler,Aaron Thompson,Layup,69,77
+0:32,Butler,Aaron Thompson,Foul,69,77
+0:32,Marquette,Brendan Bailey,Free Throw,69,78
+0:32,Marquette,Brendan Bailey,Free Throw,69,79
+0:26,Butler,Paul Jorgensen,Missed Jumper,69,79
+0:26,Marquette,Joseph Chartouny,Defensive Rebound,69,79
+0:00,Marquette,None,None,69,79

@@ -1,0 +1,361 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,UCLA,None,None,0,0
+19:47,UCLA,David Singleton,Missed Three Point Jumper,0,0
+19:47,Colorado,Colorado,Defensive Rebound,0,0
+19:19,Colorado,Shane Gatling,Three Point Jumper,0,3
+19:06,UCLA,Kris Wilkes,Missed Jumper,0,3
+19:06,Colorado,Tyler Bey,Defensive Rebound,0,3
+18:48,Colorado,Tyler Bey,Layup,0,5
+18:20,UCLA,Chris Smith,Missed Jumper,0,5
+18:20,Colorado,Tyler Bey,Defensive Rebound,0,5
+18:04,Colorado,Tyler Bey,Layup,0,7
+17:51,UCLA,Chris Smith,Missed Jumper,0,7
+17:51,Colorado,Tyler Bey,Block,0,7
+17:51,UCLA,Chris Smith,Offensive Rebound,0,7
+17:51,UCLA,David Singleton,Three Point Jumper,3,7
+17:51,Colorado,McKinley Wright IV,Missed Jumper,3,7
+17:51,Colorado,Evan Battey,Offensive Rebound,3,7
+17:32,Colorado,Evan Battey,Missed Layup,3,7
+17:32,UCLA,Moses Brown,Block,3,7
+17:32,Colorado,Tyler Bey,Offensive Rebound,3,7
+17:32,Colorado,Tyler Bey,Missed Layup,3,7
+17:18,UCLA,Chris Smith,Defensive Rebound,3,7
+17:06,UCLA,Chris Smith,Foul,3,7
+17:06,UCLA,Chris Smith,Turnover,3,7
+16:54,Colorado,D'Shawn Schwartz,Three Point Jumper,3,10
+16:45,Colorado,Evan Battey,Foul,3,10
+16:45,UCLA,Jaylen Hands,Free Throw,4,10
+16:45,UCLA,Jaylen Hands,Free Throw,5,10
+16:32,Colorado,Lucas Siewert,Jumper,5,12
+16:21,UCLA,Jaylen Hands,Missed Jumper,5,12
+16:21,Colorado,Tyler Bey,Defensive Rebound,5,12
+15:55,Colorado,None,None,5,12
+15:49,Colorado,Daylen Kountz,Missed Jumper,5,12
+15:49,UCLA,Kris Wilkes,Defensive Rebound,5,12
+15:35,UCLA,Kris Wilkes,Missed Three Point Jumper,5,12
+15:35,Colorado,McKinley Wright IV,Defensive Rebound,5,12
+15:24,Colorado,McKinley Wright IV,Three Point Jumper,5,15
+15:02,UCLA,Jalen Hill,Missed Jumper,5,15
+14:26,Colorado,McKinley Wright IV,Defensive Rebound,5,15
+14:14,Colorado,Tyler Bey,Missed Layup,5,15
+14:14,UCLA,Alex Olesinski,Defensive Rebound,5,15
+14:10,UCLA,Jules Bernard,Missed Three Point Jumper,5,15
+14:10,UCLA,Alex Olesinski,Offensive Rebound,5,15
+14:10,UCLA,Alex Olesinski,Missed Layup,5,15
+14:10,Colorado,D'Shawn Schwartz,Defensive Rebound,5,15
+14:10,Colorado,Lucas Siewert,Turnover,5,15
+14:10,UCLA,Jules Bernard,Steal,5,15
+14:06,UCLA,Jules Bernard,Foul,5,15
+14:06,UCLA,Jules Bernard,Turnover,5,15
+14:02,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,5,15
+14:02,UCLA,Jules Bernard,Defensive Rebound,5,15
+13:48,Colorado,Daylen Kountz,Foul,5,15
+13:39,Colorado,Daylen Kountz,Foul,5,15
+13:34,Colorado,McKinley Wright IV,Foul,5,15
+13:34,UCLA,Jaylen Hands,Free Throw,6,15
+13:34,UCLA,Jaylen Hands,Free Throw,7,15
+13:12,Colorado,Evan Battey,Missed Jumper,7,15
+13:12,UCLA,Cody Riley,Defensive Rebound,7,15
+12:53,UCLA,Jaylen Hands,Missed Three Point Jumper,7,15
+12:53,Colorado,D'Shawn Schwartz,Defensive Rebound,7,15
+12:43,Colorado,Shane Gatling,Missed Three Point Jumper,7,15
+12:43,UCLA,Jaylen Hands,Defensive Rebound,7,15
+12:25,UCLA,Cody Riley,Layup,9,15
+12:04,Colorado,D'Shawn Schwartz,Missed Jumper,9,15
+12:04,UCLA,Cody Riley,Block,9,15
+12:04,UCLA,Jaylen Hands,Defensive Rebound,9,15
+11:45,UCLA,Jules Bernard,Missed Jumper,9,15
+11:45,Colorado,McKinley Wright IV,Defensive Rebound,9,15
+11:38,Colorado,McKinley Wright IV,Layup,9,17
+11:16,UCLA,Alex Olesinski,Turnover,9,17
+11:16,Colorado,Lucas Siewert,Steal,9,17
+11:09,Colorado,McKinley Wright IV,Missed Three Point Jumper,9,17
+11:09,UCLA,Jalen Hill,Defensive Rebound,9,17
+10:58,UCLA,Jaylen Hands,Layup,11,17
+10:58,Colorado,D'Shawn Schwartz,Foul,11,17
+10:58,Colorado,None,None,11,17
+10:58,UCLA,Jaylen Hands,Free Throw,12,17
+10:36,Colorado,Tyler Bey,Jumper,12,19
+10:20,UCLA,Moses Brown,Foul,12,19
+10:20,UCLA,Moses Brown,Turnover,12,19
+9:52,Colorado,Lucas Siewert,Three Point Jumper,12,22
+9:38,UCLA,Kris Wilkes,Missed Layup,12,22
+9:38,Colorado,Tyler Bey,Defensive Rebound,12,22
+9:31,Colorado,Shane Gatling,Missed Three Point Jumper,12,22
+9:31,UCLA,Kris Wilkes,Defensive Rebound,12,22
+9:14,UCLA,Cody Riley,Three Point Jumper,15,22
+8:43,UCLA,Cody Riley,Foul,15,22
+8:26,Colorado,Tyler Bey,Missed Jumper,15,22
+8:26,UCLA,Jalen Hill,Defensive Rebound,15,22
+8:25,Colorado,Alexander Strating,Foul,15,22
+8:03,UCLA,Kris Wilkes,Missed Jumper,15,22
+8:03,Colorado,Alexander Strating,Defensive Rebound,15,22
+7:56,Colorado,McKinley Wright IV,Turnover,15,22
+7:56,UCLA,Jalen Hill,Steal,15,22
+7:39,UCLA,David Singleton,Missed Jumper,15,22
+7:39,Colorado,McKinley Wright IV,Defensive Rebound,15,22
+7:35,UCLA,David Singleton,Foul,15,22
+7:35,Colorado,None,None,15,22
+7:35,Colorado,Shane Gatling,Free Throw,15,23
+7:35,Colorado,Shane Gatling,Free Throw,15,24
+7:17,UCLA,Chris Smith,Jumper,17,24
+6:48,Colorado,Lucas Siewert,Missed Jumper,17,24
+6:48,Colorado,Evan Battey,Offensive Rebound,17,24
+6:48,Colorado,Evan Battey,Missed Layup,17,24
+6:48,UCLA,Moses Brown,Block,17,24
+6:39,Colorado,Colorado,Offensive Rebound,17,24
+6:32,Colorado,Lucas Siewert,Missed Three Point Jumper,17,24
+6:32,UCLA,Moses Brown,Defensive Rebound,17,24
+6:20,Colorado,Evan Battey,Foul,17,24
+6:20,UCLA,Moses Brown,Missed Free Throw,17,24
+6:20,Colorado,Colorado,Defensive Rebound,17,24
+5:56,Colorado,Shane Gatling,Missed Three Point Jumper,17,24
+5:56,UCLA,Moses Brown,Defensive Rebound,17,24
+5:46,UCLA,Jaylen Hands,Three Point Jumper,20,24
+5:12,Colorado,Alexander Strating,Layup,20,26
+5:00,UCLA,Moses Brown,Foul,20,26
+5:00,UCLA,Moses Brown,Turnover,20,26
+4:52,Colorado,McKinley Wright IV,Turnover,20,26
+4:52,UCLA,Moses Brown,Steal,20,26
+4:47,UCLA,Jaylen Hands,Turnover,20,26
+4:47,Colorado,Shane Gatling,Steal,20,26
+4:41,Colorado,Shane Gatling,Layup,20,28
+4:33,UCLA,None,None,20,28
+4:29,UCLA,Chris Smith,Missed Jumper,20,28
+4:29,Colorado,Tyler Bey,Defensive Rebound,20,28
+4:10,Colorado,Tyler Bey,Missed Jumper,20,28
+4:10,UCLA,Cody Riley,Defensive Rebound,20,28
+4:03,UCLA,Jaylen Hands,Turnover,20,28
+3:42,UCLA,Jaylen Hands,Foul,20,28
+3:42,Colorado,None,None,20,28
+3:42,Colorado,Shane Gatling,Free Throw,20,29
+3:42,Colorado,Shane Gatling,Free Throw,20,30
+3:31,Colorado,Tyler Bey,Foul,20,30
+3:31,UCLA,Kris Wilkes,Free Throw,21,30
+3:31,UCLA,Kris Wilkes,Missed Free Throw,21,30
+3:31,Colorado,Tyler Bey,Defensive Rebound,21,30
+3:20,Colorado,Shane Gatling,Missed Three Point Jumper,21,30
+3:20,UCLA,Cody Riley,Defensive Rebound,21,30
+3:09,UCLA,Kris Wilkes,Missed Three Point Jumper,21,30
+3:09,Colorado,Tyler Bey,Defensive Rebound,21,30
+2:41,Colorado,McKinley Wright IV,Missed Jumper,21,30
+2:41,UCLA,Cody Riley,Block,21,30
+2:41,UCLA,Cody Riley,Defensive Rebound,21,30
+2:29,UCLA,Kris Wilkes,Dunk,23,30
+2:08,Colorado,Tyler Bey,Missed Layup,23,30
+2:08,UCLA,Jalen Hill,Block,23,30
+2:08,UCLA,Jaylen Hands,Defensive Rebound,23,30
+2:02,UCLA,Kris Wilkes,Layup,25,30
+2:01,Colorado,None,None,25,30
+1:47,Colorado,Tyler Bey,Dunk,25,32
+1:47,UCLA,Jalen Hill,Foul,25,32
+1:47,Colorado,Tyler Bey,Missed Free Throw,25,32
+1:47,UCLA,Cody Riley,Defensive Rebound,25,32
+1:33,UCLA,Kris Wilkes,Layup,27,32
+1:14,Colorado,Tyler Bey,Missed Jumper,27,32
+1:14,Colorado,Alexander Strating,Offensive Rebound,27,32
+1:07,Colorado,Tyler Bey,Jumper,27,34
+0:51,UCLA,Kris Wilkes,Missed Jumper,27,34
+0:51,Colorado,McKinley Wright IV,Defensive Rebound,27,34
+0:35,UCLA,Cody Riley,Foul,27,34
+0:35,Colorado,D'Shawn Schwartz,Missed Free Throw,27,34
+0:35,Colorado,None,Team Rebound,27,34
+0:35,Colorado,D'Shawn Schwartz,Free Throw,27,35
+0:24,UCLA,Jaylen Hands,Missed Three Point Jumper,27,35
+0:24,Colorado,Tyler Bey,Defensive Rebound,27,35
+0:01,Colorado,McKinley Wright IV,Layup,27,37
+0:00,Colorado,None,None,27,37
+20:00,Colorado,None,None,27,37
+19:51,Colorado,Shane Gatling,Jumper,27,39
+19:29,Colorado,Lucas Siewert,Foul,27,39
+19:20,UCLA,Chris Smith,Jumper,29,39
+19:01,Colorado,Tyler Bey,Missed Jumper,29,39
+19:01,Colorado,D'Shawn Schwartz,Offensive Rebound,29,39
+19:01,Colorado,D'Shawn Schwartz,Dunk,29,41
+18:26,UCLA,Kris Wilkes,Missed Three Point Jumper,29,41
+18:26,Colorado,Colorado,Defensive Rebound,29,41
+18:09,Colorado,Tyler Bey,Dunk,29,43
+18:03,UCLA,None,None,29,43
+17:49,UCLA,Cody Riley,Missed Jumper,29,43
+17:49,Colorado,Lucas Siewert,Defensive Rebound,29,43
+17:36,Colorado,Shane Gatling,Missed Three Point Jumper,29,43
+17:36,UCLA,Cody Riley,Defensive Rebound,29,43
+17:30,UCLA,Jules Bernard,Missed Layup,29,43
+17:30,UCLA,Cody Riley,Offensive Rebound,29,43
+17:30,Colorado,Lucas Siewert,Foul,29,43
+17:30,UCLA,Cody Riley,Free Throw,30,43
+17:30,UCLA,Cody Riley,Missed Free Throw,30,43
+17:30,UCLA,Cody Riley,Offensive Rebound,30,43
+17:30,UCLA,Cody Riley,Missed Layup,30,43
+17:30,Colorado,Tyler Bey,Block,30,43
+17:30,Colorado,D'Shawn Schwartz,Defensive Rebound,30,43
+17:24,UCLA,Cody Riley,Foul,30,43
+17:06,UCLA,Jalen Hill,Foul,30,43
+17:00,Colorado,Daylen Kountz,Turnover,30,43
+16:40,UCLA,Cody Riley,Missed Layup,30,43
+16:40,Colorado,Tyler Bey,Defensive Rebound,30,43
+16:32,Colorado,Daylen Kountz,Missed Three Point Jumper,30,43
+16:32,Colorado,Tyler Bey,Offensive Rebound,30,43
+16:32,Colorado,None,None,30,45
+16:14,UCLA,Jalen Hill,Missed Layup,30,45
+16:14,Colorado,Evan Battey,Defensive Rebound,30,45
+16:06,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,30,45
+16:06,UCLA,Jalen Hill,Defensive Rebound,30,45
+15:59,UCLA,Jaylen Hands,Three Point Jumper,33,45
+15:31,Colorado,D'Shawn Schwartz,Three Point Jumper,33,48
+15:05,UCLA,Jalen Hill,Missed Layup,33,48
+15:05,Colorado,Evan Battey,Block,33,48
+15:05,Colorado,Daylen Kountz,Defensive Rebound,33,48
+14:54,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,33,48
+14:54,UCLA,Jalen Hill,Defensive Rebound,33,48
+14:46,Colorado,McKinley Wright IV,Foul,33,48
+14:46,Colorado,None,None,33,48
+14:38,UCLA,Kris Wilkes,Layup,35,48
+14:24,Colorado,Evan Battey,Turnover,35,48
+14:24,UCLA,Jules Bernard,Steal,35,48
+14:11,UCLA,David Singleton,Missed Three Point Jumper,35,48
+14:11,Colorado,D'Shawn Schwartz,Defensive Rebound,35,48
+13:58,UCLA,Moses Brown,Foul,35,48
+13:58,Colorado,Shane Gatling,Free Throw,35,49
+13:58,Colorado,Shane Gatling,Free Throw,35,50
+13:46,UCLA,Kris Wilkes,Missed Layup,35,50
+13:46,UCLA,Kris Wilkes,Offensive Rebound,35,50
+13:28,UCLA,Kris Wilkes,Layup,37,50
+13:21,Colorado,Daylen Kountz,Turnover,37,50
+13:21,UCLA,Jules Bernard,Steal,37,50
+13:13,UCLA,Jules Bernard,Layup,39,50
+12:58,Colorado,Shane Gatling,Jumper,39,52
+12:46,UCLA,Moses Brown,Missed Jumper,39,52
+12:46,Colorado,Lucas Siewert,Defensive Rebound,39,52
+12:29,Colorado,Daylen Kountz,Layup,39,54
+12:17,UCLA,Jules Bernard,Three Point Jumper,42,54
+11:53,Colorado,Evan Battey,Missed Layup,42,54
+11:53,UCLA,Moses Brown,Block,42,54
+11:53,UCLA,Moses Brown,Defensive Rebound,42,54
+11:44,UCLA,Jules Bernard,Turnover,42,54
+11:44,Colorado,Shane Gatling,Steal,42,54
+11:39,Colorado,Shane Gatling,Dunk,42,56
+11:28,UCLA,Moses Brown,Jumper,44,56
+11:28,Colorado,None,None,44,56
+11:20,UCLA,Moses Brown,Free Throw,45,56
+11:20,Colorado,None,None,45,56
+11:20,Colorado,Lucas Siewert,Foul,45,56
+10:59,Colorado,D'Shawn Schwartz,Missed Jumper,45,56
+10:59,UCLA,Moses Brown,Block,45,56
+10:59,UCLA,Jules Bernard,Defensive Rebound,45,56
+10:53,UCLA,Jules Bernard,Missed Layup,45,56
+10:53,Colorado,McKinley Wright IV,Block,45,56
+10:53,UCLA,UCLA,Offensive Rebound,45,56
+10:39,UCLA,Moses Brown,Missed Layup,45,56
+10:39,Colorado,Tyler Bey,Defensive Rebound,45,56
+10:18,Colorado,Tyler Bey,Layup,45,58
+10:18,UCLA,Chris Smith,Foul,45,58
+10:18,Colorado,Tyler Bey,Free Throw,45,59
+10:02,UCLA,Moses Brown,Missed Layup,45,59
+10:02,Colorado,McKinley Wright IV,Defensive Rebound,45,59
+9:54,Colorado,Tyler Bey,Dunk,45,61
+9:42,UCLA,Kris Wilkes,Three Point Jumper,48,61
+9:21,UCLA,Moses Brown,Foul,48,61
+9:00,Colorado,Colorado ,Turnover,48,61
+8:58,UCLA,Kris Wilkes,Missed Three Point Jumper,48,61
+8:58,Colorado,Daylen Kountz,Defensive Rebound,48,61
+8:52,Colorado,Tyler Bey,Layup,48,63
+8:44,UCLA,Jalen Hill,Missed Layup,48,63
+8:44,Colorado,Tyler Bey,Defensive Rebound,48,63
+8:30,Colorado,Daylen Kountz,Missed Layup,48,63
+8:30,UCLA,Kris Wilkes,Defensive Rebound,48,63
+8:20,UCLA,Jules Bernard,Layup,50,63
+7:59,Colorado,D'Shawn Schwartz,Jumper,50,65
+7:50,UCLA,Jaylen Hands,Missed Three Point Jumper,50,65
+7:50,Colorado,McKinley Wright IV,Defensive Rebound,50,65
+7:39,Colorado,D'Shawn Schwartz,Layup,50,67
+7:18,UCLA,None,None,50,67
+7:18,Colorado,None,None,50,67
+7:01,UCLA,Cody Riley,Missed Jumper,50,67
+7:01,UCLA,UCLA,Offensive Rebound,50,67
+6:55,Colorado,Evan Battey,Foul,50,67
+6:51,UCLA,Alex Olesinski,Three Point Jumper,53,67
+6:31,UCLA,Jaylen Hands,Foul,53,67
+6:31,Colorado,McKinley Wright IV,Free Throw,53,68
+6:31,Colorado,McKinley Wright IV,Free Throw,53,69
+6:23,Colorado,D'Shawn Schwartz,Foul,53,69
+6:23,UCLA,Kris Wilkes,Free Throw,54,69
+6:23,UCLA,Kris Wilkes,Free Throw,55,69
+6:23,UCLA,Kris Wilkes,Free Throw,56,69
+5:55,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,56,69
+5:55,Colorado,Colorado,Offensive Rebound,56,69
+5:53,Colorado,Colorado ,Turnover,56,69
+5:46,UCLA,Kris Wilkes,Missed Jumper,56,69
+5:46,Colorado,D'Shawn Schwartz,Defensive Rebound,56,69
+5:14,Colorado,McKinley Wright IV,Missed Layup,56,69
+5:14,Colorado,McKinley Wright IV,Offensive Rebound,56,69
+5:13,UCLA,Alex Olesinski,Defensive Rebound,56,69
+5:13,Colorado,McKinley Wright IV,Missed Layup,56,69
+5:13,UCLA,Jaylen Hands,Missed Layup,56,69
+5:13,Colorado,Lucas Siewert,Defensive Rebound,56,69
+5:13,UCLA,Cody Riley,Foul,56,69
+5:13,Colorado,Shane Gatling,Free Throw,56,70
+5:13,Colorado,Shane Gatling,Free Throw,56,71
+5:02,UCLA,Jaylen Hands,Jumper,58,71
+5:02,Colorado,Evan Battey,Foul,58,71
+5:02,UCLA,Jaylen Hands,Free Throw,59,71
+4:52,Colorado,D'Shawn Schwartz,Missed Three Point Jumper,59,71
+4:52,UCLA,Kris Wilkes,Defensive Rebound,59,71
+4:47,UCLA,Jaylen Hands,Missed Three Point Jumper,59,71
+4:47,Colorado,McKinley Wright IV,Defensive Rebound,59,71
+4:15,Colorado,Shane Gatling,Three Point Jumper,59,74
+3:59,UCLA,Kris Wilkes,Turnover,59,74
+3:59,Colorado,Shane Gatling,Steal,59,74
+3:53,Colorado,Tyler Bey,Dunk,59,76
+3:39,Colorado,Alexander Strating,Foul,59,76
+3:39,Colorado,None,None,59,76
+3:39,UCLA,Kris Wilkes,Free Throw,60,76
+3:39,UCLA,Kris Wilkes,Free Throw,61,76
+3:31,Colorado,Tyler Bey,Dunk,61,78
+3:23,UCLA,Jaylen Hands,Layup,63,78
+3:11,Colorado,Tyler Bey,Dunk,63,80
+3:07,UCLA,Chris Smith,Foul,63,80
+3:07,UCLA,Chris Smith,Turnover,63,80
+3:02,UCLA,Jules Bernard,Foul,63,80
+3:02,Colorado,Shane Gatling,Free Throw,63,81
+3:02,Colorado,Shane Gatling,Free Throw,63,82
+2:55,UCLA,Jaylen Hands,Missed Layup,63,82
+2:55,UCLA,UCLA,Offensive Rebound,63,82
+2:52,UCLA,Chris Smith,Missed Three Point Jumper,63,82
+2:52,Colorado,Evan Battey,Defensive Rebound,63,82
+2:50,UCLA,Kenneth Nwuba,Foul,63,82
+2:50,Colorado,Evan Battey,Free Throw,63,83
+2:50,Colorado,Evan Battey,Free Throw,63,84
+2:42,Colorado,D'Shawn Schwartz,Foul,63,84
+2:42,UCLA,Kris Wilkes,Missed Free Throw,63,84
+2:42,UCLA,None,Team Rebound,63,84
+2:42,UCLA,Kris Wilkes,Missed Free Throw,63,84
+2:42,Colorado,Evan Battey,Defensive Rebound,63,84
+2:41,UCLA,Kenneth Nwuba,Foul,63,84
+2:41,Colorado,Evan Battey,Free Throw,63,85
+2:41,Colorado,Evan Battey,Free Throw,63,86
+2:36,UCLA,Jaylen Hands,Turnover,63,86
+2:29,Colorado,Shane Gatling,Jumper,63,88
+2:08,UCLA,Jules Bernard,Jumper,65,88
+1:44,Colorado,Shane Gatling,Missed Three Point Jumper,65,88
+1:44,Colorado,Evan Battey,Offensive Rebound,65,88
+1:34,Colorado,D'Shawn Schwartz,Layup,65,90
+1:22,Colorado,Alexander Strating,Foul,65,90
+1:22,UCLA,Kenneth Nwuba,Missed Free Throw,65,90
+1:22,UCLA,None,Team Rebound,65,90
+1:22,UCLA,Kenneth Nwuba,Free Throw,66,90
+1:14,Colorado,Alexander Strating,Turnover,66,90
+1:14,UCLA,Kenneth Nwuba,Steal,66,90
+1:09,UCLA,Russell Stong,Missed Layup,66,90
+1:09,Colorado,Alexander Strating,Block,66,90
+1:09,UCLA,UCLA,Offensive Rebound,66,90
+1:06,UCLA,Jules Bernard,Layup,68,90
+0:57,Colorado,Daylen Kountz,Missed Layup,68,90
+0:57,UCLA,Kenneth Nwuba,Defensive Rebound,68,90
+0:44,Colorado,Aidan McQuade,Foul,68,90
+0:44,UCLA,Jules Bernard,Missed Free Throw,68,90
+0:44,UCLA,None,Team Rebound,68,90
+0:44,UCLA,Jules Bernard,Missed Free Throw,68,90
+0:44,Colorado,Daylen Kountz,Defensive Rebound,68,90
+0:21,Colorado,Daylen Kountz,Three Point Jumper,68,93
+0:00,Colorado,None,None,68,93

@@ -1,0 +1,375 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:47,UCLA,Prince Ali,Missed Three Point Jumper,0,0
+19:43,UCLA,Jaylen Hands,Offensive Rebound,0,0
+19:39,UCLA,Jaylen Hands,Jumper,0,2
+19:11,Arizona State,Romello White,Missed Layup,0,2
+19:07,UCLA,Jalen Hill,Defensive Rebound,0,2
+18:57,UCLA,Moses Brown,Missed Jumper,0,2
+18:56,Arizona State,Arizona State,Defensive Rebound,0,2
+18:43,Arizona State,Zylan Cheatham,Turnover,0,2
+18:29,UCLA,Jalen Hill,Dunk,0,4
+18:18,Arizona State,Remy Martin,Missed Layup,0,4
+18:15,Arizona State,Zylan Cheatham,Offensive Rebound,0,4
+18:13,Arizona State,Zylan Cheatham,Missed Layup,0,4
+18:09,UCLA,Moses Brown,Defensive Rebound,0,4
+17:54,UCLA,Jaylen Hands,Three Point Jumper,0,7
+17:44,Arizona State,Luguentz Dort,Turnover,0,7
+17:34,UCLA,Kris Wilkes,Missed Layup,0,7
+17:30,UCLA,Moses Brown,Offensive Rebound,0,7
+17:30,UCLA,Moses Brown,Layup,0,9
+17:13,Arizona State,Luguentz Dort,Missed Three Point Jumper,0,9
+17:09,UCLA,Kris Wilkes,Defensive Rebound,0,9
+17:05,Arizona State,Rob Edwards,Foul,0,9
+17:05,UCLA,Prince Ali,Free Throw,0,10
+17:05,UCLA,Prince Ali,Free Throw,0,11
+16:56,Arizona State,Taeshon Cherry,Three Point Jumper,3,11
+16:42,Arizona State,De'Quon Lake,Foul,3,11
+16:37,UCLA,Moses Brown,Missed Jumper,3,11
+16:33,Arizona State,Taeshon Cherry,Defensive Rebound,3,11
+16:27,Arizona State,De'Quon Lake,Layup,5,11
+16:18,UCLA,Kris Wilkes,Layup,5,13
+16:09,Arizona State,De'Quon Lake,Dunk,7,13
+15:56,UCLA,Prince Ali,Missed Jumper,7,13
+15:53,Arizona State,Rob Edwards,Defensive Rebound,7,13
+15:40,UCLA,Moses Brown,Foul,7,13
+15:40,UCLA,None,None,7,13
+15:40,Arizona State,De'Quon Lake,Free Throw,8,13
+15:40,Arizona State,De'Quon Lake,Free Throw,9,13
+15:22,UCLA,Kris Wilkes,Three Point Jumper,9,16
+15:08,Arizona State,Taeshon Cherry,Missed Three Point Jumper,9,16
+15:04,UCLA,Kris Wilkes,Defensive Rebound,9,16
+14:56,UCLA,Jalen Hill,Jumper,9,18
+14:39,Arizona State,Remy Martin,Missed Three Point Jumper,9,18
+14:36,UCLA,Jaylen Hands,Defensive Rebound,9,18
+14:31,UCLA,Kris Wilkes,Missed Layup,9,18
+14:27,Arizona State,Taeshon Cherry,Defensive Rebound,9,18
+14:15,Arizona State,Rob Edwards,Missed Three Point Jumper,9,18
+14:11,UCLA,Kris Wilkes,Defensive Rebound,9,18
+14:11,UCLA,Kris Wilkes,Foul,9,18
+14:11,Arizona State,Taeshon Cherry,Free Throw,10,18
+14:11,Arizona State,Taeshon Cherry,Free Throw,11,18
+14:05,Arizona State,Kimani Lawrence,Missed Three Point Jumper,11,18
+14:00,Arizona State,Taeshon Cherry,Offensive Rebound,11,18
+14:00,Arizona State,Taeshon Cherry,Missed Layup,11,18
+13:57,Arizona State,Kimani Lawrence,Offensive Rebound,11,18
+13:48,Arizona State,Kimani Lawrence,Missed Layup,11,18
+13:48,UCLA,UCLA,Defensive Rebound,11,18
+13:40,UCLA,Prince Ali,Missed Three Point Jumper,11,18
+13:34,UCLA,Cody Riley,Offensive Rebound,11,18
+13:34,UCLA,Cody Riley,Dunk,11,20
+13:24,Arizona State,Taeshon Cherry,Missed Jumper,11,20
+13:17,Arizona State,De'Quon Lake,Offensive Rebound,11,20
+13:17,Arizona State,De'Quon Lake,Missed Layup,11,20
+13:14,Arizona State,De'Quon Lake,Offensive Rebound,11,20
+13:14,Arizona State,De'Quon Lake,Layup,13,20
+13:10,UCLA,Jalen Hill,Foul,13,20
+13:10,UCLA,Jalen Hill,Turnover,13,20
+12:55,Arizona State,Luguentz Dort,Turnover,13,20
+12:36,UCLA,David Singleton,Missed Three Point Jumper,13,20
+12:33,Arizona State,Remy Martin,Defensive Rebound,13,20
+12:31,Arizona State,Luguentz Dort,Missed Layup,13,20
+12:30,UCLA,Cody Riley,Defensive Rebound,13,20
+12:30,Arizona State,Kimani Lawrence,Foul,13,20
+12:15,UCLA,Cody Riley,Turnover,13,20
+12:11,Arizona State,Zylan Cheatham,Layup,15,20
+11:51,UCLA,Cody Riley,Dunk,15,22
+11:35,Arizona State,Kimani Lawrence,Missed Three Point Jumper,15,22
+11:33,UCLA,UCLA,Defensive Rebound,15,22
+11:33,UCLA,None,None,15,22
+11:14,UCLA,Chris Smith,Layup,15,24
+10:49,Arizona State,Luguentz Dort,Missed Three Point Jumper,15,24
+10:43,UCLA,Cody Riley,Defensive Rebound,15,24
+10:35,UCLA,Moses Brown,Missed Layup,15,24
+10:32,Arizona State,Zylan Cheatham,Defensive Rebound,15,24
+10:27,Arizona State,Luguentz Dort,Layup,17,24
+10:15,UCLA,Chris Smith,Missed Layup,17,24
+10:15,Arizona State,Zylan Cheatham,Defensive Rebound,17,24
+10:15,UCLA,Chris Smith,Foul,17,24
+10:09,Arizona State,Remy Martin,Turnover,17,24
+10:09,UCLA,Jules Bernard,Steal,17,24
+10:08,UCLA,Jules Bernard,Missed Layup,17,24
+10:08,Arizona State,Rob Edwards,Block,17,24
+10:08,UCLA,Chris Smith,Offensive Rebound,17,24
+10:08,UCLA,Chris Smith,Layup,17,26
+10:03,Arizona State,Rob Edwards,Missed Jumper,17,26
+9:59,UCLA,Jules Bernard,Defensive Rebound,17,26
+9:54,Arizona State,Rob Edwards,Foul,17,26
+9:49,UCLA,Jules Bernard,Free Throw,17,27
+9:49,UCLA,Jules Bernard,Missed Free Throw,17,27
+9:47,Arizona State,Romello White,Defensive Rebound,17,27
+9:38,Arizona State,Kimani Lawrence,Three Point Jumper,20,27
+9:17,UCLA,Chris Smith,Turnover,20,27
+9:04,Arizona State,Kimani Lawrence,Missed Jumper,20,27
+9:02,Arizona State,Kimani Lawrence,Offensive Rebound,20,27
+9:02,UCLA,Jules Bernard,Foul,20,27
+9:02,Arizona State,Kimani Lawrence,Free Throw,21,27
+9:02,Arizona State,Kimani Lawrence,Free Throw,22,27
+8:33,UCLA,Jaylen Hands,Missed Jumper,22,27
+8:32,Arizona State,Arizona State,Defensive Rebound,22,27
+8:05,Arizona State,Luguentz Dort,Missed Three Point Jumper,22,27
+8:00,Arizona State,Romello White,Offensive Rebound,22,27
+7:59,Arizona State,Romello White,Dunk,24,27
+7:30,UCLA,Jaylen Hands,Foul,24,27
+7:30,UCLA,Jaylen Hands,Turnover,24,27
+7:30,UCLA,None,None,24,27
+7:19,Arizona State,Luguentz Dort,Jumper,26,27
+6:55,UCLA,Kris Wilkes,Turnover,26,27
+6:52,Arizona State,Remy Martin,Dunk,28,27
+6:35,UCLA,Moses Brown,Dunk,28,29
+6:22,Arizona State,Kimani Lawrence,Missed Three Point Jumper,28,29
+6:18,Arizona State,Romello White,Offensive Rebound,28,29
+6:16,Arizona State,Romello White,Missed Jumper,28,29
+6:11,Arizona State,Romello White,Offensive Rebound,28,29
+6:11,Arizona State,Romello White,Layup,30,29
+5:58,UCLA,Kris Wilkes,Three Point Jumper,30,32
+5:38,Arizona State,Kimani Lawrence,Layup,32,32
+5:32,UCLA,Jaylen Hands,Missed Three Point Jumper,32,32
+5:28,Arizona State,Kimani Lawrence,Defensive Rebound,32,32
+5:23,Arizona State,Romello White,Dunk,34,32
+5:23,UCLA,None,None,34,32
+4:56,UCLA,Cody Riley,Missed Jumper,34,32
+4:52,Arizona State,Zylan Cheatham,Defensive Rebound,34,32
+4:50,Arizona State,Kimani Lawrence,Missed Three Point Jumper,34,32
+4:48,UCLA,Cody Riley,Defensive Rebound,34,32
+4:48,Arizona State,De'Quon Lake,Foul,34,32
+4:29,UCLA,David Singleton,Three Point Jumper,34,35
+4:21,Arizona State,Luguentz Dort,Turnover,34,35
+4:16,UCLA,Jules Bernard,Missed Layup,34,35
+4:16,Arizona State,Kimani Lawrence,Defensive Rebound,34,35
+4:16,UCLA,Jalen Hill,Foul,34,35
+4:16,Arizona State,Kimani Lawrence,Free Throw,35,35
+4:16,Arizona State,Kimani Lawrence,Free Throw,36,35
+3:55,UCLA,David Singleton,Missed Jumper,36,35
+3:52,UCLA,Jalen Hill,Offensive Rebound,36,35
+3:51,UCLA,Jalen Hill,Missed Jumper,36,35
+3:47,Arizona State,Zylan Cheatham,Defensive Rebound,36,35
+3:40,Arizona State,Remy Martin,Missed Three Point Jumper,36,35
+3:37,UCLA,Jalen Hill,Defensive Rebound,36,35
+3:37,UCLA,Jalen Hill,Turnover,36,35
+3:37,UCLA,None,None,36,35
+3:20,Arizona State,Romello White,Missed Layup,36,35
+3:16,UCLA,Cody Riley,Defensive Rebound,36,35
+3:14,UCLA,Chris Smith,Turnover,36,35
+3:14,Arizona State,Kimani Lawrence,Steal,36,35
+3:07,Arizona State,Luguentz Dort,Missed Jumper,36,35
+3:06,UCLA,Cody Riley,Defensive Rebound,36,35
+3:06,Arizona State,Kimani Lawrence,Foul,36,35
+2:56,UCLA,Cody Riley,Turnover,36,35
+2:22,UCLA,Cody Riley,Foul,36,35
+2:21,Arizona State,Zylan Cheatham,Missed Free Throw,36,35
+2:20,UCLA,Cody Riley,Defensive Rebound,36,35
+2:10,UCLA,David Singleton,Layup,36,37
+1:53,Arizona State,Zylan Cheatham,Layup,38,37
+1:38,UCLA,Jules Bernard,Three Point Jumper,38,40
+1:09,Arizona State,Rob Edwards,Jumper,40,40
+0:55,Arizona State,Romello White,Foul,40,40
+0:55,UCLA,Jalen Hill,Free Throw,40,41
+0:55,UCLA,Jalen Hill,Missed Free Throw,40,41
+0:53,Arizona State,Zylan Cheatham,Defensive Rebound,40,41
+0:48,Arizona State,Luguentz Dort,Layup,42,41
+0:48,UCLA,Jalen Hill,Foul,42,41
+0:48,Arizona State,Luguentz Dort,Missed Free Throw,42,41
+0:46,UCLA,Cody Riley,Defensive Rebound,42,41
+0:20,UCLA,David Singleton,Three Point Jumper,42,44
+0:09,UCLA,David Singleton,Foul,42,44
+0:09,Arizona State,Zylan Cheatham,Free Throw,43,44
+0:09,Arizona State,Zylan Cheatham,Missed Free Throw,43,44
+0:08,UCLA,Moses Brown,Defensive Rebound,43,44
+0:00,UCLA,David Singleton,Missed Three Point Jumper,43,44
+0:00,UCLA,UCLA,Offensive Rebound,43,44
+0:00,UCLA,None,None,43,44
+19:43,Arizona State,Zylan Cheatham,Jumper,45,44
+19:20,UCLA,Moses Brown,Turnover,45,44
+19:20,Arizona State,Romello White,Steal,45,44
+19:12,Arizona State,Rob Edwards,Missed Three Point Jumper,45,44
+19:08,UCLA,Jaylen Hands,Defensive Rebound,45,44
+19:07,UCLA,Prince Ali,Dunk,45,46
+18:46,Arizona State,Remy Martin,Three Point Jumper,48,46
+18:29,UCLA,Kris Wilkes,Layup,48,48
+18:11,Arizona State,Romello White,Foul,48,48
+18:11,Arizona State,Romello White,Turnover,48,48
+17:56,UCLA,Cody Riley,Missed Three Point Jumper,48,48
+17:51,Arizona State,Zylan Cheatham,Defensive Rebound,48,48
+17:48,Arizona State,Luguentz Dort,Layup,50,48
+17:36,UCLA,Kris Wilkes,Three Point Jumper,50,51
+17:24,Arizona State,Kimani Lawrence,Dunk,52,51
+17:04,UCLA,Prince Ali,Three Point Jumper,52,54
+16:53,Arizona State,Luguentz Dort,Missed Layup,52,54
+16:53,UCLA,Moses Brown,Block,52,54
+16:48,UCLA,Kris Wilkes,Defensive Rebound,52,54
+16:45,UCLA,Prince Ali,Missed Three Point Jumper,52,54
+16:42,Arizona State,Kimani Lawrence,Defensive Rebound,52,54
+16:36,Arizona State,Remy Martin,Layup,54,54
+16:26,UCLA,Jaylen Hands,Missed Jumper,54,54
+16:22,Arizona State,Luguentz Dort,Defensive Rebound,54,54
+16:04,Arizona State,Remy Martin,Missed Three Point Jumper,54,54
+16:00,UCLA,Moses Brown,Defensive Rebound,54,54
+15:44,UCLA,Prince Ali,Missed Layup,54,54
+15:41,Arizona State,Arizona State,Defensive Rebound,54,54
+15:41,UCLA,None,None,54,54
+15:24,Arizona State,Remy Martin,Three Point Jumper,57,54
+15:09,Arizona State,Vitaliy Shibel,Foul,57,54
+15:09,UCLA,Chris Smith,Missed Free Throw,57,54
+15:09,UCLA,UCLA,Offensive Rebound,57,54
+15:09,UCLA,Chris Smith,Free Throw,57,55
+14:47,Arizona State,Kimani Lawrence,Layup,59,55
+14:31,UCLA,Kris Wilkes,Missed Three Point Jumper,59,55
+14:26,Arizona State,Rob Edwards,Defensive Rebound,59,55
+14:21,Arizona State,Remy Martin,Jumper,61,55
+14:16,UCLA,None,None,61,55
+14:09,Arizona State,De'Quon Lake,Foul,61,55
+14:02,UCLA,Cody Riley,Turnover,61,55
+13:53,Arizona State,Vitaliy Shibel,Foul,61,55
+13:53,Arizona State,Vitaliy Shibel,Turnover,61,55
+13:40,UCLA,Moses Brown,Layup,61,57
+13:21,Arizona State,Remy Martin,Missed Three Point Jumper,61,57
+13:17,UCLA,Jalen Hill,Defensive Rebound,61,57
+13:03,UCLA,Kris Wilkes,Turnover,61,57
+13:03,Arizona State,Rob Edwards,Steal,61,57
+12:59,Arizona State,Rob Edwards,Turnover,61,57
+12:47,UCLA,Moses Brown,Turnover,61,57
+12:47,Arizona State,Zylan Cheatham,Steal,61,57
+12:37,Arizona State,Remy Martin,Three Point Jumper,64,57
+12:24,Arizona State,De'Quon Lake,Foul,64,57
+12:24,UCLA,Kris Wilkes,Free Throw,64,58
+12:24,UCLA,Kris Wilkes,Free Throw,64,59
+12:03,Arizona State,Rob Edwards,Three Point Jumper,67,59
+11:41,UCLA,Kris Wilkes,Missed Jumper,67,59
+11:37,Arizona State,Luguentz Dort,Defensive Rebound,67,59
+11:32,Arizona State,Rob Edwards,Three Point Jumper,70,59
+11:23,UCLA,None,None,70,59
+11:23,UCLA,None,None,70,59
+11:10,Arizona State,Romello White,Foul,70,59
+11:08,UCLA,Prince Ali,Turnover,70,59
+11:00,UCLA,Prince Ali,Foul,70,59
+10:55,Arizona State,Romello White,Turnover,70,59
+10:45,UCLA,Kris Wilkes,Missed Three Point Jumper,70,59
+10:44,Arizona State,Romello White,Defensive Rebound,70,59
+10:44,UCLA,Moses Brown,Foul,70,59
+10:27,Arizona State,Rob Edwards,Missed Jumper,70,59
+10:23,Arizona State,Zylan Cheatham,Offensive Rebound,70,59
+10:23,Arizona State,Rob Edwards,Turnover,70,59
+10:15,Arizona State,Luguentz Dort,Foul,70,59
+10:15,UCLA,Jaylen Hands,Missed Free Throw,70,59
+10:13,Arizona State,Zylan Cheatham,Defensive Rebound,70,59
+9:52,Arizona State,Zylan Cheatham,Missed Layup,70,59
+9:52,UCLA,Jalen Hill,Block,70,59
+9:45,UCLA,Jules Bernard,Defensive Rebound,70,59
+9:39,UCLA,Jaylen Hands,Missed Layup,70,59
+9:37,Arizona State,Arizona State,Defensive Rebound,70,59
+9:23,Arizona State,Rob Edwards,Turnover,70,59
+9:23,UCLA,Cody Riley,Steal,70,59
+9:13,Arizona State,Kimani Lawrence,Foul,70,59
+9:13,UCLA,Jules Bernard,Missed Free Throw,70,59
+9:13,UCLA,UCLA,Offensive Rebound,70,59
+9:13,UCLA,Jules Bernard,Missed Free Throw,70,59
+9:10,Arizona State,Zylan Cheatham,Defensive Rebound,70,59
+9:04,Arizona State,None,None,70,59
+8:54,Arizona State,Rob Edwards,Missed Three Point Jumper,70,59
+8:50,Arizona State,Luguentz Dort,Offensive Rebound,70,59
+8:48,Arizona State,Romello White,Missed Layup,70,59
+8:48,UCLA,Cody Riley,Defensive Rebound,70,59
+8:42,UCLA,Jaylen Hands,Missed Free Throw,70,60
+8:42,Arizona State,Zylan Cheatham,Foul,70,59
+8:42,UCLA,Jaylen Hands,Free Throw,70,60
+8:39,Arizona State,Zylan Cheatham,Defensive Rebound,70,60
+8:23,Arizona State,Luguentz Dort,Layup,72,60
+8:16,UCLA,Jaylen Hands,Dunk,72,62
+8:04,Arizona State,Luguentz Dort,Turnover,72,62
+8:04,UCLA,Cody Riley,Steal,72,62
+7:59,UCLA,Jaylen Hands,Dunk,72,64
+7:59,UCLA,None,None,72,64
+7:31,Arizona State,Remy Martin,Missed Three Point Jumper,72,64
+7:27,UCLA,Jaylen Hands,Defensive Rebound,72,64
+7:24,UCLA,Prince Ali,Missed Jumper,72,64
+7:20,UCLA,Jules Bernard,Offensive Rebound,72,64
+7:19,UCLA,Jules Bernard,Missed Layup,72,64
+7:14,UCLA,Jalen Hill,Offensive Rebound,72,64
+7:14,UCLA,Jalen Hill,Missed Layup,72,64
+7:12,Arizona State,Zylan Cheatham,Defensive Rebound,72,64
+6:58,Arizona State,Luguentz Dort,Missed Three Point Jumper,72,64
+6:52,UCLA,Prince Ali,Defensive Rebound,72,64
+6:48,UCLA,Jules Bernard,Missed Layup,72,64
+6:47,UCLA,Jalen Hill,Offensive Rebound,72,64
+6:47,Arizona State,Kimani Lawrence,Foul,72,64
+6:47,UCLA,Jalen Hill,Missed Free Throw,72,64
+6:47,UCLA,UCLA,Offensive Rebound,72,64
+6:47,UCLA,Jalen Hill,Missed Free Throw,72,64
+6:45,Arizona State,Zylan Cheatham,Defensive Rebound,72,64
+6:35,Arizona State,Zylan Cheatham,Layup,74,64
+6:13,Arizona State,Zylan Cheatham,Foul,74,64
+6:13,UCLA,Jules Bernard,Free Throw,74,65
+6:13,UCLA,Jules Bernard,Free Throw,74,66
+5:50,Arizona State,Luguentz Dort,Turnover,74,66
+5:50,UCLA,Jaylen Hands,Steal,74,66
+5:36,UCLA,Kris Wilkes,Missed Three Point Jumper,74,66
+5:31,Arizona State,Zylan Cheatham,Defensive Rebound,74,66
+5:18,Arizona State,Rob Edwards,Missed Three Point Jumper,74,66
+5:15,UCLA,Jalen Hill,Defensive Rebound,74,66
+5:03,UCLA,Jaylen Hands,Missed Three Point Jumper,74,66
+5:00,Arizona State,Zylan Cheatham,Defensive Rebound,74,66
+4:47,UCLA,Jalen Hill,Foul,74,66
+4:47,Arizona State,Romello White,Missed Free Throw,74,66
+4:47,Arizona State,Arizona State,Offensive Rebound,74,66
+4:47,Arizona State,Romello White,Missed Free Throw,74,66
+4:47,Arizona State,Luguentz Dort,Offensive Rebound,74,66
+4:30,Arizona State,Luguentz Dort,Dunk,76,66
+4:30,UCLA,Kris Wilkes,Foul,76,66
+4:30,Arizona State,Luguentz Dort,Free Throw,77,66
+4:29,UCLA,Kris Wilkes,Foul,77,66
+4:29,Arizona State,Luguentz Dort,Foul,77,66
+4:21,UCLA,Cody Riley,Layup,77,68
+3:56,Arizona State,Luguentz Dort,Foul,77,68
+3:56,Arizona State,Luguentz Dort,Turnover,77,68
+3:56,UCLA,None,None,77,68
+3:41,UCLA,Kris Wilkes,Turnover,77,68
+3:41,Arizona State,Zylan Cheatham,Steal,77,68
+3:14,Arizona State,Luguentz Dort,Missed Three Point Jumper,77,68
+3:11,Arizona State,Romello White,Offensive Rebound,77,68
+3:11,UCLA,Kris Wilkes,Foul,77,68
+3:01,Arizona State,Remy Martin,Missed Three Point Jumper,77,68
+2:56,Arizona State,Zylan Cheatham,Offensive Rebound,77,68
+2:55,Arizona State,Zylan Cheatham,Turnover,77,68
+2:55,UCLA,Prince Ali,Steal,77,68
+2:49,UCLA,Jaylen Hands,Dunk,77,70
+2:24,UCLA,Jaylen Hands,Foul,77,70
+2:24,Arizona State,Luguentz Dort,Free Throw,78,70
+2:24,Arizona State,Luguentz Dort,Missed Free Throw,78,70
+2:21,UCLA,Jalen Hill,Defensive Rebound,78,70
+2:14,UCLA,Kris Wilkes,Missed Three Point Jumper,78,70
+2:09,UCLA,Prince Ali,Offensive Rebound,78,70
+2:06,UCLA,Prince Ali,Missed Three Point Jumper,78,70
+2:01,UCLA,Kris Wilkes,Offensive Rebound,78,70
+1:59,UCLA,Kris Wilkes,Missed Layup,78,70
+1:55,Arizona State,Zylan Cheatham,Defensive Rebound,78,70
+1:45,Arizona State,Rob Edwards,Missed Jumper,78,70
+1:41,Arizona State,Rob Edwards,Offensive Rebound,78,70
+1:36,Arizona State,Remy Martin,Turnover,78,70
+1:36,UCLA,Kris Wilkes,Steal,78,70
+1:27,UCLA,Jaylen Hands,Missed Three Point Jumper,78,70
+1:25,UCLA,Cody Riley,Offensive Rebound,78,70
+1:25,UCLA,Cody Riley,Foul,78,70
+1:25,UCLA,Cody Riley,Turnover,78,70
+0:57,Arizona State,Luguentz Dort,Dunk,80,70
+0:52,UCLA,Prince Ali,Missed Layup,80,70
+0:45,Arizona State,Zylan Cheatham,Defensive Rebound,80,70
+0:45,UCLA,Prince Ali,Foul,80,70
+0:45,Arizona State,Rob Edwards,Free Throw,81,70
+0:45,Arizona State,Rob Edwards,Free Throw,82,70
+0:43,UCLA,Cody Riley,Missed Three Point Jumper,82,70
+0:43,Arizona State,Zylan Cheatham,Defensive Rebound,82,70
+0:28,Arizona State,Kimani Lawrence,Turnover,82,70
+0:28,UCLA,Prince Ali,Steal,82,70
+0:24,Arizona State,Luguentz Dort,Foul,82,70
+0:24,UCLA,Kris Wilkes,Missed Free Throw,82,70
+0:24,UCLA,UCLA,Offensive Rebound,82,70
+0:24,UCLA,Kris Wilkes,Missed Free Throw,82,70
+0:24,UCLA,UCLA,Offensive Rebound,82,70
+0:18,UCLA,Jaylen Hands,Three Point Jumper,82,73
+0:07,UCLA,David Singleton,Foul,82,73
+0:07,Arizona State,Kimani Lawrence,Free Throw,83,73
+0:07,Arizona State,Kimani Lawrence,Free Throw,84,73
+0:03,UCLA,David Singleton,Missed Three Point Jumper,84,73
+0:00,Arizona State,Zylan Cheatham,Defensive Rebound,84,73
+0:00,UCLA,None,None,84,73
+0:00,UCLA,None,None,84,73

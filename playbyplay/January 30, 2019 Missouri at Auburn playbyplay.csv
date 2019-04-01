@@ -1,0 +1,338 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:40,Auburn,Jared Harper,Jumper,0,2
+19:14,Missouri,Jeremiah Tilmon,Layup,2,2
+19:00,Auburn,Bryce Brown,Three Point Jumper,2,5
+18:45,Missouri,Xavier Pinson,Three Point Jumper,5,5
+18:30,Auburn,Anfernee McLemore,Three Point Jumper,5,8
+18:13,Missouri,Javon Pickett,Missed Three Point Jumper,5,8
+18:13,Auburn,None,Team Rebound,5,8
+18:12,Missouri,Jeremiah Tilmon,Foul,5,8
+17:47,Auburn,Bryce Brown,Three Point Jumper,5,11
+17:26,Missouri,Jordan Geist,Missed Three Point Jumper,5,11
+17:26,Missouri,Jeremiah Tilmon,Offensive Rebound,5,11
+17:22,Missouri,Jeremiah Tilmon,Layup,7,11
+17:12,Auburn,Anfernee McLemore,Missed Three Point Jumper,7,11
+17:12,Missouri,K.J. Santos,Defensive Rebound,7,11
+16:59,Missouri,K.J. Santos,Missed Layup,7,11
+16:59,Auburn,Anfernee McLemore,Defensive Rebound,7,11
+16:51,Auburn,Jared Harper,Missed Three Point Jumper,7,11
+16:51,Missouri,Jordan Geist,Defensive Rebound,7,11
+16:34,Missouri,Jordan Geist,Missed Jumper,7,11
+16:34,Auburn,Anfernee McLemore,Defensive Rebound,7,11
+16:27,Missouri,Xavier Pinson,Foul,7,11
+16:22,Auburn,Chuma Okeke,Missed Three Point Jumper,7,11
+16:22,Missouri,Reed Nikko,Defensive Rebound,7,11
+15:56,Missouri,Jordan Geist,Foul,7,11
+15:56,Missouri,Jordan Geist,Turnover,7,11
+15:56,Auburn,None,None,7,11
+15:44,Auburn,Horace Spencer,Missed Jumper,7,11
+15:44,Missouri,Kevin Puryear,Defensive Rebound,7,11
+15:31,Auburn,Danjel Purifoy,Foul,7,11
+15:21,Auburn,Jared Harper,Foul,7,11
+15:11,Missouri,Torrence Watson,Turnover,7,11
+15:00,Auburn,Jared Harper,Jumper,7,13
+14:32,Missouri,Ronnie Suggs,Missed Jumper,7,13
+14:32,Auburn,Danjel Purifoy,Defensive Rebound,7,13
+14:06,Auburn,Malik Dunbar,Missed Three Point Jumper,7,13
+14:06,Missouri,Jordan Geist,Defensive Rebound,7,13
+14:01,Auburn,Bryce Brown,Foul,7,13
+13:42,Missouri,Torrence Watson,Three Point Jumper,10,13
+13:28,Auburn,Danjel Purifoy,Missed Three Point Jumper,10,13
+13:28,Auburn,J'Von McCormick,Offensive Rebound,10,13
+13:10,Auburn,Danjel Purifoy,Missed Layup,10,13
+13:10,Missouri,Jeremiah Tilmon,Defensive Rebound,10,13
+12:49,Missouri,Jeremiah Tilmon,Dunk,12,13
+12:40,Auburn,J'Von McCormick,Layup,12,15
+12:20,Missouri,Kevin Puryear,Missed Three Point Jumper,12,15
+12:20,Auburn,J'Von McCormick,Defensive Rebound,12,15
+12:09,Auburn,Horace Spencer,Missed Three Point Jumper,12,15
+12:09,Missouri,Jordan Geist,Defensive Rebound,12,15
+11:59,Missouri,Ronnie Suggs,Foul,12,15
+11:59,Missouri,Ronnie Suggs,Turnover,12,15
+11:59,Auburn,None,None,12,15
+11:48,Auburn,Anfernee McLemore,Layup,12,17
+11:48,Missouri,Reed Nikko,Foul,12,17
+11:48,Auburn,Anfernee McLemore,Missed Free Throw,12,17
+11:48,Auburn,Chuma Okeke,Offensive Rebound,12,17
+11:28,Missouri,Mitchell Smith,Foul,12,17
+11:27,Auburn,Malik Dunbar,Turnover,12,17
+11:26,Missouri,Torrence Watson,Steal,12,17
+11:24,Missouri,Reed Nikko,Layup,14,17
+10:55,Auburn,J'Von McCormick,Missed Jumper,14,17
+10:55,Missouri,Reed Nikko,Defensive Rebound,14,17
+10:41,Missouri,Mitchell Smith,Missed Three Point Jumper,14,17
+10:41,Auburn,Malik Dunbar,Defensive Rebound,14,17
+10:30,Auburn,Chuma Okeke,Missed Layup,14,17
+10:30,Missouri,Reed Nikko,Block,14,17
+10:27,Missouri,Reed Nikko,Defensive Rebound,14,17
+10:20,Missouri,Xavier Pinson,Turnover,14,17
+10:12,Auburn,Anfernee McLemore,Missed Three Point Jumper,14,17
+10:12,Missouri,Javon Pickett,Defensive Rebound,14,17
+9:57,Missouri,Javon Pickett,Layup,16,17
+9:41,Auburn,Bryce Brown,Missed Three Point Jumper,16,17
+9:41,Missouri,Jordan Geist,Defensive Rebound,16,17
+9:31,Auburn,Anfernee McLemore,Foul,16,17
+9:31,Auburn,J'Von McCormick,Foul,16,17
+9:22,Missouri,Jordan Geist,Missed Three Point Jumper,16,17
+9:22,Auburn,Chuma Okeke,Defensive Rebound,16,17
+9:13,Auburn,Bryce Brown,Missed Three Point Jumper,16,17
+9:13,Missouri,Javon Pickett,Defensive Rebound,16,17
+8:42,Missouri,Jeremiah Tilmon,Dunk,18,17
+8:06,Auburn,Samir Doughty,Missed Three Point Jumper,18,17
+8:06,Missouri,Missouri,Defensive Rebound,18,17
+7:43,Missouri,Torrence Watson,Layup,20,17
+7:43,Auburn,Samir Doughty,Foul,20,17
+7:43,Auburn,None,None,20,17
+7:43,Missouri,Torrence Watson,Missed Free Throw,20,17
+7:43,Auburn,Samir Doughty,Defensive Rebound,20,17
+7:32,Auburn,Chuma Okeke,Jumper,20,19
+7:10,Missouri,Kevin Puryear,Turnover,20,19
+6:58,Auburn,Bryce Brown,Missed Three Point Jumper,20,19
+6:58,Auburn,Horace Spencer,Offensive Rebound,20,19
+6:54,Missouri,Mitchell Smith,Foul,20,19
+6:54,Auburn,Horace Spencer,Missed Free Throw,20,19
+6:54,Auburn,None,Team Rebound,20,19
+6:54,Auburn,Horace Spencer,Missed Free Throw,20,19
+6:54,Missouri,Torrence Watson,Defensive Rebound,20,19
+6:48,Missouri,Xavier Pinson,Missed Three Point Jumper,20,19
+6:48,Auburn,Bryce Brown,Defensive Rebound,20,19
+6:21,Missouri,K.J. Santos,Foul,20,19
+6:21,Auburn,Bryce Brown,Free Throw,20,20
+6:21,Auburn,Bryce Brown,Free Throw,20,21
+6:15,Missouri,Torrence Watson,Missed Three Point Jumper,20,21
+6:15,Missouri,Torrence Watson,Offensive Rebound,20,21
+6:10,Missouri,Jordan Geist,Three Point Jumper,23,21
+5:43,Auburn,Jared Harper,Missed Three Point Jumper,23,21
+5:43,Auburn,Chuma Okeke,Offensive Rebound,23,21
+5:34,Auburn,Samir Doughty,Missed Layup,23,21
+5:34,Missouri,Torrence Watson,Defensive Rebound,23,21
+5:32,Auburn,Horace Spencer,Foul,23,21
+5:32,Missouri,Torrence Watson,Missed Free Throw,23,21
+5:32,Auburn,Samir Doughty,Defensive Rebound,23,21
+5:16,Auburn,Chuma Okeke,Three Point Jumper,23,24
+5:08,Missouri,Xavier Pinson,Turnover,23,24
+5:02,Auburn,Jared Harper,Missed Layup,23,24
+5:02,Missouri,Jordan Geist,Defensive Rebound,23,24
+4:53,Auburn,Malik Dunbar,Foul,23,24
+4:53,Missouri,Torrence Watson,Free Throw,24,24
+4:53,Missouri,Torrence Watson,Free Throw,25,24
+4:38,Auburn,Anfernee McLemore,Missed Three Point Jumper,25,24
+4:38,Auburn,Samir Doughty,Offensive Rebound,25,24
+4:33,Auburn,Samir Doughty,Layup,25,26
+3:59,Missouri,Jordan Geist,Missed Jumper,25,26
+3:59,Auburn,Chuma Okeke,Block,25,26
+3:58,Missouri,Jordan Geist,Offensive Rebound,25,26
+3:58,Missouri,Jordan Geist,Turnover,25,26
+3:58,Auburn,None,None,25,26
+3:42,Auburn,Samir Doughty,Missed Three Point Jumper,25,26
+3:42,Missouri,Mitchell Smith,Defensive Rebound,25,26
+3:22,Missouri,Javon Pickett,Foul,25,26
+3:22,Missouri,Javon Pickett,Turnover,25,26
+3:12,Auburn,Chuma Okeke,Three Point Jumper,25,29
+2:47,Missouri,Jordan Geist,Three Point Jumper,28,29
+2:29,Auburn,Anfernee McLemore,Missed Three Point Jumper,28,29
+2:29,Missouri,Mitchell Smith,Defensive Rebound,28,29
+2:12,Missouri,Torrence Watson,Missed Three Point Jumper,28,29
+2:12,Missouri,Ronnie Suggs,Offensive Rebound,28,29
+2:08,Missouri,Ronnie Suggs,Missed Layup,28,29
+2:08,Auburn,Samir Doughty,Block,28,29
+2:06,Auburn,Bryce Brown,Defensive Rebound,28,29
+2:02,Auburn,Bryce Brown,Missed Three Point Jumper,28,29
+2:02,Missouri,Ronnie Suggs,Defensive Rebound,28,29
+1:31,Missouri,Mitchell Smith,Missed Three Point Jumper,28,29
+1:31,Missouri,Jordan Geist,Offensive Rebound,28,29
+1:27,Missouri,Jordan Geist,Missed Jumper,28,29
+1:27,Auburn,Chuma Okeke,Defensive Rebound,28,29
+1:25,Missouri,Mitchell Smith,Foul,28,29
+1:25,Auburn,Chuma Okeke,Free Throw,28,30
+1:25,Auburn,Chuma Okeke,Missed Free Throw,28,30
+1:25,Missouri,Kevin Puryear,Defensive Rebound,28,30
+1:00,Missouri,Xavier Pinson,Missed Three Point Jumper,28,30
+1:00,Auburn,Malik Dunbar,Defensive Rebound,28,30
+0:46,Auburn,J'Von McCormick,Jumper,28,32
+0:32,Missouri,Torrence Watson,Three Point Jumper,31,32
+0:02,Auburn,Chuma Okeke,Jumper,31,34
+0:00,Auburn,None,None,31,34
+19:46,Auburn,Jared Harper,Foul,31,34
+19:43,Missouri,Jeremiah Tilmon,Turnover,31,34
+19:42,Auburn,Samir Doughty,Steal,31,34
+19:41,Auburn,Samir Doughty,Turnover,31,34
+19:41,Missouri,Xavier Pinson,Steal,31,34
+19:41,Auburn,Samir Doughty,Foul,31,34
+19:28,Missouri,Jeremiah Tilmon,Jumper,33,34
+19:28,Auburn,Anfernee McLemore,Foul,33,34
+19:28,Missouri,Jeremiah Tilmon,Missed Free Throw,33,34
+19:28,Auburn,Jared Harper,Defensive Rebound,33,34
+19:07,Auburn,Samir Doughty,Three Point Jumper,33,37
+18:35,Missouri,Kevin Puryear,Missed Jumper,33,37
+18:35,Auburn,Chuma Okeke,Defensive Rebound,33,37
+18:28,Auburn,Jared Harper,Missed Three Point Jumper,33,37
+18:28,Auburn,Anfernee McLemore,Offensive Rebound,33,37
+18:22,Auburn,Bryce Brown,Three Point Jumper,33,40
+18:19,Missouri,None,None,33,40
+18:03,Missouri,Xavier Pinson,Missed Jumper,33,40
+18:03,Auburn,Samir Doughty,Defensive Rebound,33,40
+17:55,Auburn,Bryce Brown,Three Point Jumper,33,43
+17:45,Missouri,Javon Pickett,Dunk,35,43
+17:34,Missouri,Torrence Watson,Foul,35,43
+17:34,Auburn,Jared Harper,Free Throw,35,44
+17:34,Auburn,Jared Harper,Missed Free Throw,35,44
+17:34,Missouri,Torrence Watson,Defensive Rebound,35,44
+17:21,Auburn,Anfernee McLemore,Foul,35,44
+17:18,Missouri,Xavier Pinson,Turnover,35,44
+17:01,Auburn,Samir Doughty,Missed Layup,35,44
+17:01,Missouri,Mitchell Smith,Block,35,44
+17:00,Missouri,None,Team Rebound,35,44
+17:00,Auburn,Samir Doughty,Foul,35,44
+16:43,Missouri,Javon Pickett,Missed Three Point Jumper,35,44
+16:43,Auburn,Chuma Okeke,Defensive Rebound,35,44
+16:36,Auburn,Jared Harper,Foul,35,44
+16:36,Auburn,Jared Harper,Turnover,35,44
+16:34,Missouri,Javon Pickett,Turnover,35,44
+16:32,Auburn,Bryce Brown,Steal,35,44
+16:31,Auburn,Jared Harper,Three Point Jumper,35,47
+16:07,Missouri,Jeremiah Tilmon,Missed Jumper,35,47
+16:07,Missouri,Javon Pickett,Offensive Rebound,35,47
+15:58,Missouri,Torrence Watson,Missed Three Point Jumper,35,47
+15:58,Auburn,Chuma Okeke,Defensive Rebound,35,47
+15:52,Auburn,Jared Harper,Turnover,35,47
+15:51,Missouri,Jordan Geist,Steal,35,47
+15:49,Missouri,Jordan Geist,Missed Layup,35,47
+15:49,Auburn,Chuma Okeke,Block,35,47
+15:47,Missouri,Mitchell Smith,Offensive Rebound,35,47
+15:43,Missouri,Mitchell Smith,Layup,37,47
+15:28,Auburn,Horace Spencer,Three Point Jumper,37,50
+15:04,Missouri,Torrence Watson,Missed Layup,37,50
+15:04,Auburn,Horace Spencer,Block,37,50
+15:03,Auburn,Chuma Okeke,Defensive Rebound,37,50
+14:40,Auburn,Bryce Brown,Missed Three Point Jumper,37,50
+14:40,Auburn,Jared Harper,Offensive Rebound,37,50
+14:33,Auburn,Malik Dunbar,Three Point Jumper,37,53
+14:06,Auburn,Horace Spencer,Foul,37,53
+14:06,Auburn,None,None,37,53
+14:06,Missouri,Jeremiah Tilmon,Free Throw,38,53
+14:06,Missouri,Jeremiah Tilmon,Free Throw,39,53
+13:52,Auburn,Horace Spencer,Turnover,39,53
+13:52,Missouri,Mitchell Smith,Steal,39,53
+13:52,Missouri,Mitchell Smith,Turnover,39,53
+13:50,Missouri,Javon Pickett,Foul,39,53
+13:44,Auburn,Jared Harper,Missed Jumper,39,53
+13:44,Auburn,Horace Spencer,Offensive Rebound,39,53
+13:42,Auburn,None,None,39,55
+13:42,Missouri,Reed Nikko,Foul,39,55
+13:42,Auburn,Horace Spencer,Free Throw,39,56
+13:20,Missouri,Jeremiah Tilmon,Turnover,39,56
+13:16,Auburn,Malik Dunbar,Three Point Jumper,39,59
+12:45,Missouri,Xavier Pinson,Turnover,39,59
+12:44,Auburn,Danjel Purifoy,Steal,39,59
+12:41,Auburn,Jared Harper,Layup,39,61
+12:34,Missouri,Xavier Pinson,Turnover,39,61
+12:15,Auburn,Malik Dunbar,Foul,39,61
+12:15,Auburn,Malik Dunbar,Turnover,39,61
+12:12,Missouri,Javon Pickett,Foul,39,61
+12:12,Missouri,Javon Pickett,Turnover,39,61
+11:54,Auburn,Bryce Brown,Missed Three Point Jumper,39,61
+11:54,Missouri,Jeremiah Tilmon,Defensive Rebound,39,61
+11:39,Missouri,Jeremiah Tilmon,Turnover,39,61
+11:39,Auburn,None,None,39,61
+11:26,Auburn,Danjel Purifoy,Three Point Jumper,39,64
+11:04,Missouri,Torrence Watson,Missed Three Point Jumper,39,64
+11:04,Auburn,Bryce Brown,Defensive Rebound,39,64
+10:57,Auburn,Malik Dunbar,Missed Three Point Jumper,39,64
+10:57,Missouri,Jordan Geist,Defensive Rebound,39,64
+10:49,Missouri,Jordan Geist,Three Point Jumper,42,64
+10:31,Auburn,Malik Dunbar,Turnover,42,64
+10:30,Missouri,Jeremiah Tilmon,Steal,42,64
+10:25,Missouri,Xavier Pinson,Missed Layup,42,64
+10:25,Auburn,Horace Spencer,Block,42,64
+10:23,Missouri,Jeremiah Tilmon,Offensive Rebound,42,64
+10:19,Missouri,Jeremiah Tilmon,Layup,44,64
+10:14,Auburn,Horace Spencer,Missed Jumper,44,64
+10:14,Missouri,Javon Pickett,Defensive Rebound,44,64
+10:02,Missouri,Javon Pickett,Missed Layup,44,64
+10:02,Missouri,Jeremiah Tilmon,Offensive Rebound,44,64
+9:59,Missouri,Jeremiah Tilmon,Missed Layup,44,64
+9:59,Auburn,Horace Spencer,Defensive Rebound,44,64
+9:36,Auburn,Horace Spencer,Turnover,44,64
+9:15,Missouri,Torrence Watson,Missed Layup,44,64
+9:15,Auburn,Anfernee McLemore,Defensive Rebound,44,64
+8:48,Auburn,Jared Harper,Missed Three Point Jumper,44,64
+8:48,Missouri,Xavier Pinson,Defensive Rebound,44,64
+8:40,Missouri,Torrence Watson,Missed Three Point Jumper,44,64
+8:40,Auburn,Anfernee McLemore,Defensive Rebound,44,64
+8:34,Missouri,Xavier Pinson,Foul,44,64
+8:30,Auburn,Jared Harper,Layup,44,66
+8:23,Missouri,Jordan Geist,Missed Three Point Jumper,44,66
+8:23,Auburn,Chuma Okeke,Defensive Rebound,44,66
+8:14,Auburn,Bryce Brown,Turnover,44,66
+7:53,Missouri,Kevin Puryear,Missed Layup,44,66
+7:53,Auburn,Chuma Okeke,Defensive Rebound,44,66
+7:46,Missouri,Javon Pickett,Foul,44,66
+7:46,Auburn,None,None,44,66
+7:35,Auburn,Anfernee McLemore,Three Point Jumper,44,69
+7:10,Missouri,Xavier Pinson,Turnover,44,69
+6:57,Auburn,Anfernee McLemore,Missed Three Point Jumper,44,69
+6:57,Auburn,Chuma Okeke,Offensive Rebound,44,69
+6:56,Auburn,Chuma Okeke,Layup,44,71
+6:53,Missouri,Javon Pickett,Foul,44,71
+6:53,Auburn,Chuma Okeke,Free Throw,44,72
+6:35,Auburn,Anfernee McLemore,Foul,44,72
+6:35,Missouri,Jeremiah Tilmon,Free Throw,45,72
+6:35,Missouri,Jeremiah Tilmon,Missed Free Throw,45,72
+6:35,Auburn,Samir Doughty,Defensive Rebound,45,72
+6:13,Auburn,Jared Harper,Missed Three Point Jumper,45,72
+6:13,Missouri,Mitchell Smith,Defensive Rebound,45,72
+6:03,Missouri,Torrence Watson,Missed Three Point Jumper,45,72
+6:03,Auburn,Bryce Brown,Defensive Rebound,45,72
+5:42,Auburn,Chuma Okeke,Missed Three Point Jumper,45,72
+5:42,Missouri,Missouri,Defensive Rebound,45,72
+5:37,Missouri,Reed Nikko,Layup,47,72
+5:37,Auburn,Samir Doughty,Foul,47,72
+5:37,Missouri,Reed Nikko,Free Throw,48,72
+5:08,Auburn,Samir Doughty,Jumper,48,74
+4:57,Missouri,Xavier Pinson,Jumper,50,74
+4:35,Auburn,Samir Doughty,Missed Three Point Jumper,50,74
+4:35,Missouri,Jordan Geist,Defensive Rebound,50,74
+4:12,Missouri,Jordan Geist,Missed Three Point Jumper,50,74
+4:12,Auburn,Chuma Okeke,Defensive Rebound,50,74
+4:07,Auburn,Jared Harper,Dunk,50,76
+3:48,Missouri,Xavier Pinson,Three Point Jumper,53,76
+3:35,Missouri,Xavier Pinson,Foul,53,76
+3:35,Auburn,None,None,53,76
+3:35,Auburn,Jared Harper,Free Throw,53,77
+3:35,Auburn,Jared Harper,Free Throw,53,78
+3:14,Missouri,Torrence Watson,Turnover,53,78
+3:11,Auburn,Danjel Purifoy,Steal,53,78
+3:10,Auburn,Danjel Purifoy,Dunk,53,80
+2:41,Missouri,Jordan Geist,Turnover,53,80
+2:39,Auburn,J'Von McCormick,Steal,53,80
+2:37,Auburn,J'Von McCormick,Dunk,53,82
+2:22,Auburn,Cole Blackstock,Foul,53,82
+2:22,Missouri,Xavier Pinson,Free Throw,54,82
+2:22,Missouri,Xavier Pinson,Missed Free Throw,54,82
+2:22,Missouri,None,Team Rebound,54,82
+2:22,Missouri,Xavier Pinson,Free Throw,55,82
+2:04,Auburn,Danjel Purifoy,Three Point Jumper,55,85
+1:49,Missouri,Jordan Geist,Layup,57,85
+1:32,Auburn,Chase Maasdorp,Missed Layup,57,85
+1:32,Missouri,Reed Nikko,Block,57,85
+1:32,Auburn,Auburn,Offensive Rebound,57,85
+1:27,Auburn,Myles Parker,Missed Jumper,57,85
+1:27,Auburn,Cole Blackstock,Offensive Rebound,57,85
+1:22,Missouri,Reed Nikko,Foul,57,85
+1:22,Auburn,Cole Blackstock,Missed Free Throw,57,85
+1:22,Auburn,None,Team Rebound,57,85
+1:22,Auburn,Cole Blackstock,Free Throw,57,86
+1:16,Auburn,Chase Maasdorp,Foul,57,86
+1:16,Missouri,Xavier Pinson,Missed Free Throw,57,86
+1:16,Missouri,None,Team Rebound,57,86
+1:16,Missouri,Xavier Pinson,Free Throw,58,86
+0:56,Auburn,Myles Parker,Layup,58,88
+0:56,Missouri,Mitchell Smith,Foul,58,88
+0:56,Auburn,Myles Parker,Free Throw,58,89
+0:47,Missouri,Xavier Pinson,Missed Jumper,58,89
+0:47,Missouri,Missouri,Offensive Rebound,58,89
+0:35,Missouri,Torrence Watson,Missed Jumper,58,89
+0:35,Auburn,Will Macoy,Defensive Rebound,58,89
+0:27,Auburn,Devontae Williams,Three Point Jumper,58,92
+0:00,Auburn,None,None,58,92

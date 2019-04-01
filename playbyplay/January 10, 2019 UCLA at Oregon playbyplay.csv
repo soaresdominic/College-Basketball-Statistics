@@ -1,0 +1,420 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Oregon,None,None,0,0
+19:58,Oregon,Louis King,Turnover,0,0
+19:58,UCLA,Prince Ali,Steal,0,0
+19:52,UCLA,Jaylen Hands,Layup,2,0
+19:39,Oregon,Victor Bailey Jr.,Missed Three Point Jumper,2,0
+19:39,UCLA,Jaylen Hands,Defensive Rebound,2,0
+19:15,UCLA,Jaylen Hands,Missed Three Point Jumper,2,0
+19:15,Oregon,Paul White,Defensive Rebound,2,0
+19:04,Oregon,Victor Bailey Jr.,Missed Three Point Jumper,2,0
+19:04,UCLA,Kris Wilkes,Defensive Rebound,2,0
+18:56,UCLA,Kris Wilkes,Turnover,2,0
+18:56,Oregon,Victor Bailey Jr.,Steal,2,0
+18:47,Oregon,Victor Bailey Jr.,Turnover,2,0
+18:47,UCLA,Kris Wilkes,Turnover,2,0
+18:47,Oregon,Francis Okoro,Steal,2,0
+18:41,Oregon,Louis King,Layup,2,2
+18:03,UCLA,Moses Brown,Dunk,4,2
+17:54,Oregon,Payton Pritchard,Turnover,4,2
+17:45,UCLA,Prince Ali,Turnover,4,2
+17:28,Oregon,Louis King,Three Point Jumper,4,5
+17:14,UCLA,Kris Wilkes,Jumper,6,5
+17:00,Oregon,Louis King,Missed Jumper,6,5
+17:00,Oregon,Oregon,Offensive Rebound,6,5
+17:00,Oregon,Louis King,Turnover,6,5
+16:55,UCLA,Kris Wilkes,Layup,8,5
+16:37,Oregon,Miles Norris,Jumper,8,7
+16:17,UCLA,Prince Ali,Three Point Jumper,11,7
+15:55,Oregon,Paul White,Jumper,11,9
+15:17,Oregon,Paul White,Foul,11,9
+15:17,Oregon,None,None,11,9
+15:17,UCLA,Jaylen Hands,Missed Free Throw,11,9
+15:17,UCLA,Jaylen Hands,Free Throw,12,9
+14:56,Oregon,Will Richardson,Jumper,12,11
+14:38,UCLA,Moses Brown,Dunk,14,11
+14:21,Oregon,Will Richardson,Missed Three Point Jumper,14,11
+14:21,UCLA,Jaylen Hands,Defensive Rebound,14,11
+14:13,UCLA,Jaylen Hands,Turnover,14,11
+14:13,Oregon,Will Richardson,Steal,14,11
+14:06,Oregon,Paul White,Three Point Jumper,14,14
+13:58,UCLA,Jaylen Hands,Turnover,14,14
+13:36,Oregon,Miles Norris,Missed Jumper,14,14
+13:36,UCLA,Kris Wilkes,Block,14,14
+13:36,Oregon,Will Richardson,Offensive Rebound,14,14
+13:17,Oregon,Payton Pritchard,Missed Three Point Jumper,14,14
+13:17,UCLA,Jaylen Hands,Defensive Rebound,14,14
+13:09,UCLA,Kris Wilkes,Layup,16,14
+12:45,Oregon,Paul White,Missed Jumper,16,14
+12:45,UCLA,Kris Wilkes,Defensive Rebound,16,14
+12:19,UCLA,Kris Wilkes,Turnover,16,14
+12:19,Oregon,Paul White,Steal,16,14
+12:09,Oregon,Louis King,Layup,16,16
+12:00,Oregon,Louis King,Foul,16,16
+11:59,UCLA,Jalen Hill,Dunk,18,16
+11:40,UCLA,Jalen Hill,Foul,18,16
+11:40,Oregon,None,None,18,16
+11:40,Oregon,Paul White,Free Throw,18,17
+11:40,Oregon,Paul White,Missed Free Throw,18,17
+11:40,UCLA,Jalen Hill,Defensive Rebound,18,17
+11:33,UCLA,Kris Wilkes,Foul,18,17
+11:33,UCLA,Kris Wilkes,Turnover,18,17
+11:10,Oregon,Victor Bailey Jr.,Missed Three Point Jumper,18,17
+11:10,UCLA,Jules Bernard,Defensive Rebound,18,17
+11:02,UCLA,Jalen Hill,Dunk,20,17
+10:32,Oregon,Will Richardson,Turnover,20,17
+10:15,UCLA,Jules Bernard,Jumper,22,17
+9:49,Oregon,Francis Okoro,Jumper,22,19
+9:22,UCLA,David Singleton,Missed Three Point Jumper,22,19
+9:22,Oregon,Louis King,Defensive Rebound,22,19
+9:11,Oregon,Louis King,Missed Three Point Jumper,22,19
+9:11,UCLA,Jalen Hill,Defensive Rebound,22,19
+8:54,UCLA,Jules Bernard,Turnover,22,19
+8:54,Oregon,Ehab Amin,Steal,22,19
+8:20,Oregon,Louis King,Turnover,22,19
+8:20,UCLA,David Singleton,Steal,22,19
+8:13,UCLA,David Singleton,Missed Jumper,22,19
+8:13,UCLA,Moses Brown,Offensive Rebound,22,19
+8:06,UCLA,Moses Brown,Missed Jumper,22,19
+8:06,UCLA,Moses Brown,Offensive Rebound,22,19
+8:00,UCLA,Moses Brown,Missed Jumper,22,19
+8:00,Oregon,Payton Pritchard,Defensive Rebound,22,19
+7:52,Oregon,Payton Pritchard,Missed Layup,22,19
+7:51,Oregon,Will Richardson,Offensive Rebound,22,19
+7:50,Oregon,Will Richardson,Layup,22,21
+7:50,Oregon,Louis King,Foul,22,21
+7:50,Oregon,None,None,22,21
+7:48,Oregon,None,None,22,21
+7:46,UCLA,Kris Wilkes,Missed Three Point Jumper,22,21
+7:46,Oregon,Payton Pritchard,Defensive Rebound,22,21
+7:38,Oregon,Ehab Amin,Missed Jumper,22,21
+7:38,UCLA,Prince Ali,Defensive Rebound,22,21
+7:38,UCLA,Jalen Hill,Missed Layup,22,21
+7:38,UCLA,Jalen Hill,Offensive Rebound,22,21
+7:32,UCLA,Jalen Hill,Jumper,24,21
+7:32,Oregon,Francis Okoro,Foul,24,21
+7:32,UCLA,Jalen Hill,Free Throw,25,21
+7:18,Oregon,Ehab Amin,Missed Three Point Jumper,25,21
+7:18,Oregon,Francis Okoro,Offensive Rebound,25,21
+7:08,Oregon,Payton Pritchard,Missed Three Point Jumper,25,21
+7:08,UCLA,Kris Wilkes,Defensive Rebound,25,21
+7:04,Oregon,Paul White,Foul,25,21
+6:59,UCLA,Kris Wilkes,Missed Three Point Jumper,25,21
+6:59,Oregon,Victor Bailey Jr.,Defensive Rebound,25,21
+6:38,Oregon,Francis Okoro,Dunk,25,23
+6:10,Oregon,Payton Pritchard,Foul,25,23
+6:07,UCLA,Prince Ali,Missed Three Point Jumper,25,23
+6:07,Oregon,Payton Pritchard,Defensive Rebound,25,23
+5:47,Oregon,Paul White,Turnover,25,23
+5:47,UCLA,Moses Brown,Steal,25,23
+5:42,UCLA,Jaylen Hands,Turnover,25,23
+5:42,Oregon,Paul White,Steal,25,23
+5:41,Oregon,Paul White,Layup,25,25
+5:41,UCLA,Alex Olesinski,Foul,25,25
+5:41,Oregon,Paul White,Missed Free Throw,25,25
+5:41,UCLA,Moses Brown,Defensive Rebound,25,25
+5:32,UCLA,Jaylen Hands,Missed Jumper,25,25
+5:32,UCLA,Moses Brown,Offensive Rebound,25,25
+5:31,Oregon,Francis Okoro,Foul,25,25
+5:31,UCLA,Moses Brown,Free Throw,26,25
+5:31,UCLA,Moses Brown,Missed Free Throw,26,25
+5:31,UCLA,UCLA,Offensive Rebound,26,25
+5:23,UCLA,Prince Ali,Missed Three Point Jumper,26,25
+5:23,Oregon,Oregon,Defensive Rebound,26,25
+5:05,Oregon,Victor Bailey Jr.,Missed Three Point Jumper,26,25
+5:05,UCLA,Kris Wilkes,Defensive Rebound,26,25
+4:58,UCLA,Kris Wilkes,Turnover,26,25
+4:58,Oregon,Ehab Amin,Steal,26,25
+4:53,Oregon,Ehab Amin,Layup,26,27
+4:29,UCLA,Alex Olesinski,Missed Three Point Jumper,26,27
+4:29,Oregon,Ehab Amin,Defensive Rebound,26,27
+4:08,Oregon,Victor Bailey Jr.,Turnover,26,27
+4:00,UCLA,David Singleton,Turnover,26,27
+4:00,Oregon,Ehab Amin,Steal,26,27
+3:53,Oregon,Will Richardson,Missed Layup,26,27
+3:53,UCLA,David Singleton,Block,26,27
+3:53,Oregon,Victor Bailey Jr.,Offensive Rebound,26,27
+3:53,Oregon,None,None,26,29
+3:26,UCLA,Alex Olesinski,Turnover,26,29
+3:26,Oregon,None,None,26,29
+3:19,Oregon,Victor Bailey Jr.,Three Point Jumper,26,32
+2:55,UCLA,Jaylen Hands,Missed Three Point Jumper,26,32
+2:55,Oregon,Oregon,Defensive Rebound,26,32
+2:51,UCLA,Kenneth Nwuba,Foul,26,32
+2:37,Oregon,Will Richardson,Three Point Jumper,26,35
+2:11,UCLA,Cody Riley,Missed Jumper,26,35
+2:11,Oregon,Miles Norris,Block,26,35
+2:11,Oregon,Victor Bailey Jr.,Defensive Rebound,26,35
+2:04,Oregon,Victor Bailey Jr.,Layup,26,37
+2:04,Oregon,None,None,26,37
+2:04,UCLA,None,None,26,37
+1:41,UCLA,Chris Smith,Foul,26,37
+1:41,UCLA,Chris Smith,Turnover,26,37
+1:35,Oregon,Ehab Amin,Missed Three Point Jumper,26,37
+1:35,UCLA,Moses Brown,Defensive Rebound,26,37
+1:23,UCLA,None,None,26,37
+1:07,UCLA,Moses Brown,Dunk,28,37
+1:00,Oregon,Victor Bailey Jr.,Jumper,28,39
+0:45,UCLA,Kris Wilkes,Turnover,28,39
+0:45,Oregon,Ehab Amin,Steal,28,39
+0:35,UCLA,Jalen Hill,Foul,28,39
+0:35,Oregon,Miles Norris,Missed Free Throw,28,39
+0:35,Oregon,None,Team Rebound,28,39
+0:35,Oregon,Miles Norris,Missed Free Throw,28,39
+0:35,UCLA,Kris Wilkes,Defensive Rebound,28,39
+0:09,Oregon,Will Richardson,Foul,28,39
+0:09,UCLA,Prince Ali,Free Throw,29,39
+0:09,UCLA,Prince Ali,Missed Free Throw,29,39
+0:09,UCLA,UCLA,Offensive Rebound,29,39
+0:03,UCLA,Kris Wilkes,Three Point Jumper,32,39
+0:00,Oregon,None,None,32,39
+20:00,Oregon,None,None,32,39
+19:35,Oregon,Victor Bailey Jr.,Jumper,32,41
+19:12,UCLA,Kris Wilkes,Jumper,34,41
+18:42,UCLA,Moses Brown,Foul,34,41
+18:42,Oregon,Francis Okoro,Missed Free Throw,34,41
+18:42,Oregon,None,Team Rebound,34,41
+18:42,Oregon,Francis Okoro,Free Throw,34,42
+18:26,UCLA,Kris Wilkes,Missed Jumper,34,42
+18:26,Oregon,Francis Okoro,Block,34,42
+18:26,UCLA,Jalen Hill,Offensive Rebound,34,42
+18:26,Oregon,Francis Okoro,Foul,34,42
+18:24,UCLA,Jaylen Hands,Missed Three Point Jumper,34,42
+18:24,UCLA,Jaylen Hands,Offensive Rebound,34,42
+18:16,UCLA,Prince Ali,Jumper,36,42
+17:50,Oregon,Louis King,Missed Three Point Jumper,36,42
+17:50,UCLA,UCLA,Defensive Rebound,36,42
+17:22,UCLA,Kris Wilkes,Missed Three Point Jumper,36,42
+17:22,Oregon,Payton Pritchard,Defensive Rebound,36,42
+17:14,Oregon,Victor Bailey Jr.,Three Point Jumper,36,45
+16:54,Oregon,Victor Bailey Jr.,Foul,36,45
+16:52,UCLA,Prince Ali,Three Point Jumper,39,45
+16:27,Oregon,Victor Bailey Jr.,Missed Jumper,39,45
+16:27,UCLA,Moses Brown,Defensive Rebound,39,45
+16:11,UCLA,Jaylen Hands,Missed Jumper,39,45
+16:11,Oregon,Victor Bailey Jr.,Defensive Rebound,39,45
+16:00,Oregon,Paul White,Missed Three Point Jumper,39,45
+16:00,UCLA,Moses Brown,Defensive Rebound,39,45
+15:53,UCLA,Prince Ali,Turnover,39,45
+15:53,Oregon,None,None,39,45
+15:33,Oregon,Miles Norris,Missed Jumper,39,45
+15:33,UCLA,David Singleton,Defensive Rebound,39,45
+15:22,Oregon,Paul White,Foul,39,45
+15:09,UCLA,Cody Riley,Turnover,39,45
+15:09,Oregon,Paul White,Steal,39,45
+14:53,Oregon,Paul White,Jumper,39,47
+14:32,UCLA,David Singleton,Missed Jumper,39,47
+14:32,Oregon,Paul White,Defensive Rebound,39,47
+14:07,UCLA,Cody Riley,Foul,39,47
+14:07,Oregon,Miles Norris,Missed Free Throw,39,47
+14:07,Oregon,None,Team Rebound,39,47
+14:07,Oregon,Miles Norris,Free Throw,39,48
+14:07,Oregon,Miles Norris,Missed Free Throw,39,48
+14:07,Oregon,Ehab Amin,Offensive Rebound,39,48
+14:01,Oregon,Will Richardson,Missed Jumper,39,48
+14:01,Oregon,Ehab Amin,Offensive Rebound,39,48
+14:01,Oregon,None,None,39,48
+14:01,Oregon,Louis King,Offensive Rebound,39,48
+13:47,Oregon,Louis King,Jumper,39,50
+13:35,UCLA,None,None,39,50
+13:22,UCLA,Jaylen Hands,Jumper,41,50
+13:04,Oregon,Ehab Amin,Missed Jumper,41,50
+13:04,UCLA,Jalen Hill,Defensive Rebound,41,50
+12:43,UCLA,Jaylen Hands,Turnover,41,50
+12:43,Oregon,Louis King,Jumper,41,52
+12:36,Oregon,Ehab Amin,Foul,41,52
+12:17,Oregon,Ehab Amin,Foul,41,52
+12:17,UCLA,Prince Ali,Free Throw,42,52
+12:17,UCLA,Prince Ali,Missed Free Throw,42,52
+12:17,Oregon,Louis King,Defensive Rebound,42,52
+11:56,Oregon,Will Richardson,Missed Jumper,42,52
+11:56,Oregon,Will Richardson,Offensive Rebound,42,52
+11:47,Oregon,Victor Bailey Jr.,Missed Jumper,42,52
+11:47,UCLA,Moses Brown,Defensive Rebound,42,52
+11:36,UCLA,Kris Wilkes,Foul,42,52
+11:36,UCLA,Kris Wilkes,Turnover,42,52
+11:21,Oregon,Payton Pritchard,Missed Three Point Jumper,42,52
+11:21,Oregon,Louis King,Offensive Rebound,42,52
+11:21,Oregon,None,None,42,52
+11:21,UCLA,Moses Brown,Defensive Rebound,42,52
+10:58,UCLA,Kris Wilkes,Missed Three Point Jumper,42,52
+10:58,Oregon,Oregon,Defensive Rebound,42,52
+10:53,UCLA,Jules Bernard,Foul,42,52
+10:30,Oregon,Paul White,Jumper,42,54
+10:19,UCLA,Prince Ali,Jumper,44,54
+10:05,Oregon,Victor Bailey Jr.,Missed Three Point Jumper,44,54
+10:05,UCLA,Kris Wilkes,Defensive Rebound,44,54
+9:55,UCLA,Moses Brown,Dunk,46,54
+9:46,Oregon,Louis King,Three Point Jumper,46,57
+9:27,UCLA,Jaylen Hands,Foul,46,57
+9:27,UCLA,Jaylen Hands,Turnover,46,57
+9:17,Oregon,Louis King,Three Point Jumper,46,60
+8:59,UCLA,None,None,46,60
+8:50,Oregon,Louis King,Foul,46,60
+8:50,UCLA,Cody Riley,Missed Free Throw,46,60
+8:50,UCLA,None,Team Rebound,46,60
+8:50,UCLA,Cody Riley,Missed Free Throw,46,60
+8:50,Oregon,Paul White,Defensive Rebound,46,60
+8:23,Oregon,Victor Bailey Jr.,Missed Three Point Jumper,46,60
+8:23,UCLA,UCLA,Defensive Rebound,46,60
+8:06,UCLA,Prince Ali,Missed Three Point Jumper,46,60
+8:06,Oregon,Louis King,Defensive Rebound,46,60
+8:02,Oregon,None,None,46,60
+8:02,Oregon,None,None,46,60
+7:59,UCLA,Cody Riley,Foul,46,60
+7:59,Oregon,None,None,46,60
+7:56,Oregon,Paul White,Layup,46,62
+7:47,UCLA,David Singleton,Missed Three Point Jumper,46,62
+7:47,UCLA,Cody Riley,Offensive Rebound,46,62
+7:44,Oregon,Victor Bailey Jr.,Foul,46,62
+7:44,UCLA,Cody Riley,Free Throw,47,62
+7:44,UCLA,Cody Riley,Missed Free Throw,47,62
+7:44,Oregon,Louis King,Defensive Rebound,47,62
+7:33,Oregon,Louis King,Turnover,47,62
+7:33,UCLA,Jalen Hill,Steal,47,62
+7:21,Oregon,Louis King,Foul,47,62
+7:21,UCLA,Jalen Hill,Free Throw,48,62
+7:21,UCLA,Jalen Hill,Missed Free Throw,48,62
+7:21,UCLA,Jalen Hill,Offensive Rebound,48,62
+7:17,UCLA,Jaylen Hands,Missed Three Point Jumper,48,62
+7:17,Oregon,Oregon,Defensive Rebound,48,62
+7:15,UCLA,Kris Wilkes,Foul,48,62
+7:15,Oregon,Ehab Amin,Free Throw,48,63
+7:15,Oregon,Ehab Amin,Missed Free Throw,48,63
+7:15,UCLA,Jalen Hill,Defensive Rebound,48,63
+7:12,UCLA,Jalen Hill,Turnover,48,63
+7:12,Oregon,Ehab Amin,Steal,48,63
+6:59,Oregon,Paul White,Layup,48,65
+6:35,UCLA,David Singleton,Jumper,50,65
+6:23,Oregon,Ehab Amin,Turnover,50,65
+6:23,UCLA,David Singleton,Steal,50,65
+6:16,UCLA,Jaylen Hands,Dunk,52,65
+5:44,Oregon,Paul White,Missed Three Point Jumper,52,65
+5:44,UCLA,Chris Smith,Defensive Rebound,52,65
+5:30,UCLA,Jaylen Hands,Missed Three Point Jumper,52,65
+5:30,UCLA,Jalen Hill,Offensive Rebound,52,65
+5:23,Oregon,Will Richardson,Foul,52,65
+5:23,UCLA,Jalen Hill,Free Throw,53,65
+5:23,UCLA,Jalen Hill,Missed Free Throw,53,65
+5:23,Oregon,Payton Pritchard,Defensive Rebound,53,65
+5:02,Oregon,Paul White,Missed Jumper,53,65
+5:02,UCLA,Jalen Hill,Defensive Rebound,53,65
+4:58,Oregon,Will Richardson,Foul,53,65
+4:58,UCLA,Jalen Hill,Free Throw,54,65
+4:58,UCLA,Jalen Hill,Missed Free Throw,54,65
+4:58,UCLA,Jules Bernard,Offensive Rebound,54,65
+4:55,UCLA,Jules Bernard,Missed Jumper,54,65
+4:55,Oregon,Payton Pritchard,Defensive Rebound,54,65
+4:21,Oregon,Payton Pritchard,Turnover,54,65
+4:21,UCLA,Moses Brown,Steal,54,65
+4:15,UCLA,Jaylen Hands,Turnover,54,65
+4:15,Oregon,Paul White,Steal,54,65
+4:06,Oregon,None,None,54,65
+3:53,Oregon,Louis King,Missed Three Point Jumper,54,65
+3:53,Oregon,Paul White,Offensive Rebound,54,65
+3:41,UCLA,Chris Smith,Foul,54,65
+3:41,Oregon,Victor Bailey Jr.,Free Throw,54,66
+3:41,Oregon,Victor Bailey Jr.,Free Throw,54,67
+3:28,UCLA,Kris Wilkes,Missed Jumper,54,67
+3:28,UCLA,Kris Wilkes,Offensive Rebound,54,67
+3:25,UCLA,Kris Wilkes,Layup,56,67
+3:25,Oregon,Victor Bailey Jr.,Foul,56,67
+3:25,UCLA,Kris Wilkes,Free Throw,57,67
+3:21,UCLA,Prince Ali,Foul,57,67
+3:21,Oregon,Will Richardson,Missed Free Throw,57,67
+3:21,UCLA,Moses Brown,Defensive Rebound,57,67
+3:14,UCLA,Prince Ali,Turnover,57,67
+3:14,Oregon,Louis King,Steal,57,67
+3:10,Oregon,Will Richardson,Layup,57,69
+3:10,UCLA,Jaylen Hands,Foul,57,69
+3:10,Oregon,Will Richardson,Missed Free Throw,57,69
+3:10,UCLA,Chris Smith,Defensive Rebound,57,69
+2:55,UCLA,Jaylen Hands,Missed Jumper,57,69
+2:55,UCLA,Chris Smith,Offensive Rebound,57,69
+2:55,UCLA,None,None,59,69
+2:35,Oregon,Louis King,Three Point Jumper,59,72
+2:21,UCLA,Prince Ali,Three Point Jumper,62,72
+2:15,UCLA,None,None,62,72
+2:10,Oregon,Victor Bailey Jr.,Missed Jumper,62,72
+2:10,UCLA,Kris Wilkes,Block,62,72
+2:10,Oregon,Oregon,Offensive Rebound,62,72
+2:08,Oregon,Louis King,Missed Three Point Jumper,62,72
+2:08,Oregon,Paul White,Offensive Rebound,62,72
+1:40,Oregon,Will Richardson,Missed Layup,62,72
+1:40,UCLA,Jaylen Hands,Defensive Rebound,62,72
+1:33,UCLA,Chris Smith,Three Point Jumper,65,72
+1:26,Oregon,None,None,65,72
+1:01,Oregon,Victor Bailey Jr.,Missed Three Point Jumper,65,72
+1:01,Oregon,Louis King,Offensive Rebound,65,72
+1:01,Oregon,None,None,65,74
+0:47,UCLA,Jules Bernard,Three Point Jumper,68,74
+0:44,UCLA,Prince Ali,Foul,68,74
+0:44,Oregon,Payton Pritchard,Free Throw,68,75
+0:44,Oregon,Payton Pritchard,Free Throw,68,76
+0:38,UCLA,Jaylen Hands,Three Point Jumper,71,76
+0:36,Oregon,Payton Pritchard,Turnover,71,76
+0:36,UCLA,Prince Ali,Steal,71,76
+0:33,Oregon,Ehab Amin,Foul,71,76
+0:33,UCLA,Jaylen Hands,Free Throw,72,76
+0:33,UCLA,Jaylen Hands,Free Throw,73,76
+0:33,UCLA,Jaylen Hands,Free Throw,74,76
+0:20,UCLA,Jules Bernard,Foul,74,76
+0:20,Oregon,Victor Bailey Jr.,Free Throw,74,77
+0:20,Oregon,Victor Bailey Jr.,Free Throw,74,78
+0:07,UCLA,Jaylen Hands,Missed Jumper,74,78
+0:07,UCLA,Prince Ali,Offensive Rebound,74,78
+0:03,UCLA,Prince Ali,Three Point Jumper,77,78
+0:03,UCLA,Chris Smith,Foul,77,78
+0:03,Oregon,Payton Pritchard,Free Throw,77,79
+0:03,Oregon,Payton Pritchard,Free Throw,77,80
+0:02,Oregon,Will Richardson,Foul,77,80
+0:02,UCLA,Jaylen Hands,Free Throw,78,80
+0:02,UCLA,Jaylen Hands,Missed Free Throw,78,80
+0:02,UCLA,Chris Smith,Offensive Rebound,78,80
+0:01,UCLA,Chris Smith,Layup,80,80
+0:01,Oregon,Payton Pritchard,Foul,80,80
+0:01,UCLA,Chris Smith,Missed Free Throw,80,80
+0:01,Oregon,Payton Pritchard,Defensive Rebound,80,80
+0:00,Oregon,None,None,80,80
+5:00,Oregon,None,None,80,80
+4:45,Oregon,Will Richardson,Missed Jumper,80,80
+4:45,UCLA,Moses Brown,Block,80,80
+4:45,UCLA,Chris Smith,Defensive Rebound,80,80
+4:34,UCLA,Jalen Hill,Foul,80,80
+4:12,Oregon,Payton Pritchard,Missed Three Point Jumper,80,80
+4:12,Oregon,Victor Bailey Jr.,Offensive Rebound,80,80
+3:49,Oregon,Victor Bailey Jr.,Jumper,80,82
+3:24,UCLA,Jaylen Hands,Missed Three Point Jumper,80,82
+3:24,Oregon,Oregon,Defensive Rebound,80,82
+3:09,Oregon,Louis King,Missed Jumper,80,82
+3:09,Oregon,Louis King,Offensive Rebound,80,82
+2:59,Oregon,Paul White,Missed Three Point Jumper,80,82
+2:59,Oregon,Oregon,Offensive Rebound,80,82
+2:59,UCLA,Chris Smith,Foul,80,82
+2:59,Oregon,Will Richardson,Free Throw,80,83
+2:59,Oregon,Will Richardson,Free Throw,80,84
+2:43,Oregon,Victor Bailey Jr.,Foul,80,84
+2:43,UCLA,Prince Ali,Free Throw,81,84
+2:43,UCLA,Prince Ali,Free Throw,82,84
+2:25,Oregon,Paul White,Missed Jumper,82,84
+2:25,Oregon,Louis King,Offensive Rebound,82,84
+2:15,Oregon,Will Richardson,Missed Jumper,82,84
+2:15,UCLA,Jalen Hill,Defensive Rebound,82,84
+2:06,UCLA,Moses Brown,Turnover,82,84
+2:01,Oregon,Victor Bailey Jr.,Missed Three Point Jumper,82,84
+2:01,UCLA,Jaylen Hands,Defensive Rebound,82,84
+1:41,UCLA,Prince Ali,Jumper,84,84
+1:16,Oregon,Louis King,Missed Jumper,84,84
+1:16,UCLA,Prince Ali,Defensive Rebound,84,84
+0:53,UCLA,Jaylen Hands,Jumper,86,84
+0:21,Oregon,Payton Pritchard,Missed Three Point Jumper,86,84
+0:21,UCLA,Moses Brown,Defensive Rebound,86,84
+0:18,Oregon,Paul White,Foul,86,84
+0:18,UCLA,Moses Brown,Free Throw,87,84
+0:18,Oregon,None,None,87,84
+0:18,Oregon,None,None,87,84
+0:18,UCLA,Moses Brown,Missed Free Throw,87,84
+0:18,Oregon,Louis King,Defensive Rebound,87,84
+0:03,Oregon,Louis King,Missed Three Point Jumper,87,84
+0:03,UCLA,UCLA,Defensive Rebound,87,84
+0:00,Oregon,None,None,87,84

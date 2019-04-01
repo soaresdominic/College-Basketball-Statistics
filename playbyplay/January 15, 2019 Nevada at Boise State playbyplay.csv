@@ -1,0 +1,311 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Nevada,None,None,0,0
+19:48,Nevada,Trey Porter,Missed Jumper,0,0
+19:48,Boise State,Marcus Dickinson,Defensive Rebound,0,0
+19:23,Boise State,RJ Williams,Jumper,0,2
+18:52,Nevada,Trey Porter,Turnover,0,2
+18:52,Boise State,RJ Williams,Steal,0,2
+18:47,Boise State,RJ Williams,Turnover,0,2
+18:35,Nevada,Jordan Caroline,Missed Jumper,0,2
+18:35,Nevada,Trey Porter,Offensive Rebound,0,2
+18:28,Nevada,Trey Porter,Layup,2,2
+18:11,Boise State,Justinian Jessup,Three Point Jumper,2,5
+17:56,Nevada,Cody Martin,Jumper,4,5
+17:49,Boise State,Marcus Dickinson,Turnover,4,5
+17:49,Nevada,Corey Henson,Steal,4,5
+17:43,Nevada,Corey Henson,Layup,6,5
+17:23,Boise State,Marcus Dickinson,Three Point Jumper,6,8
+16:55,Nevada,Caleb Martin,Missed Three Point Jumper,6,8
+16:55,Boise State,Alex Hobbs,Defensive Rebound,6,8
+16:48,Boise State,Justinian Jessup,Missed Three Point Jumper,6,8
+16:48,Nevada,Jordan Caroline,Defensive Rebound,6,8
+16:38,Nevada,Caleb Martin,Three Point Jumper,9,8
+16:18,Boise State,Zach Haney,Missed Jumper,9,8
+16:18,Nevada,Caleb Martin,Defensive Rebound,9,8
+16:10,Nevada,Caleb Martin,Three Point Jumper,12,8
+15:47,Boise State,Alex Hobbs,Missed Jumper,12,8
+15:47,Nevada,Nevada,Defensive Rebound,12,8
+15:42,Boise State,None,None,12,8
+15:27,Nevada,Trey Porter,Dunk,14,8
+14:55,Boise State,RJ Williams,Turnover,14,8
+14:55,Boise State,RJ Williams,Foul,14,8
+14:36,Nevada,Caleb Martin,Missed Three Point Jumper,14,8
+14:36,Nevada,Nevada,Offensive Rebound,14,8
+14:30,Boise State,Derrick Alston,Foul,14,8
+14:19,Nevada,Jordan Caroline,Layup,16,8
+14:00,Boise State,Justinian Jessup,Missed Three Point Jumper,16,8
+14:00,Nevada,Jazz Johnson,Defensive Rebound,16,8
+13:50,Boise State,Justinian Jessup,Foul,16,8
+13:48,Nevada,Jazz Johnson,Missed Three Point Jumper,16,8
+13:48,Boise State,Marcus Dickinson,Defensive Rebound,16,8
+13:38,Boise State,Marcus Dickinson,Layup,16,10
+13:30,Nevada,Jordan Caroline,Layup,18,10
+13:30,Boise State,David Wacker,Foul,18,10
+13:30,Boise State,None,None,18,10
+13:30,Nevada,Jordan Caroline,Missed Free Throw,18,10
+13:30,Boise State,Boise State,Defensive Rebound,18,10
+13:30,Nevada,Jordan Brown,Foul,18,10
+13:08,Boise State,David Wacker,Foul,18,10
+13:08,Boise State,David Wacker,Turnover,18,10
+13:02,Nevada,Jordan Caroline,Turnover,18,10
+13:02,Boise State,Marcus Dickinson,Steal,18,10
+12:47,Nevada,Caleb Martin,Foul,18,10
+12:47,Boise State,Derrick Alston,Free Throw,18,11
+12:47,Boise State,Derrick Alston,Free Throw,18,12
+12:35,Nevada,Caleb Martin,Missed Three Point Jumper,18,12
+12:35,Boise State,Derrick Alston,Defensive Rebound,18,12
+12:25,Nevada,Corey Henson,Foul,18,12
+12:25,Boise State,Pat Dembley,Missed Free Throw,18,12
+12:25,Boise State,None,Team Rebound,18,12
+12:25,Boise State,Pat Dembley,Missed Free Throw,18,12
+12:25,Nevada,Tre'Shawn Thurman,Defensive Rebound,18,12
+12:09,Boise State,Marcus Dickinson,Foul,18,12
+12:09,Nevada,Caleb Martin,Missed Free Throw,18,12
+12:09,Nevada,None,Team Rebound,18,12
+12:09,Nevada,Caleb Martin,Free Throw,19,12
+11:51,Nevada,Caleb Martin,Foul,19,12
+11:51,Boise State,None,None,19,12
+11:51,Boise State,Zach Haney,Free Throw,19,13
+11:51,Boise State,Zach Haney,Free Throw,19,14
+11:33,Nevada,Jordan Caroline,Three Point Jumper,22,14
+11:15,Boise State,Pat Dembley,Turnover,22,14
+10:57,Nevada,Jazz Johnson,Jumper,24,14
+10:37,Boise State,Justinian Jessup,Missed Layup,24,14
+10:37,Boise State,RJ Williams,Offensive Rebound,24,14
+10:26,Boise State,RJ Williams,Missed Layup,24,14
+10:26,Nevada,Corey Henson,Defensive Rebound,24,14
+10:16,Nevada,Jordan Caroline,Missed Three Point Jumper,24,14
+10:16,Nevada,Jordan Caroline,Offensive Rebound,24,14
+10:11,Nevada,Corey Henson,Turnover,24,14
+9:57,Boise State,RJ Williams,Turnover,24,14
+9:47,Nevada,Cody Martin,Missed Jumper,24,14
+9:47,Boise State,RJ Williams,Defensive Rebound,24,14
+9:21,Boise State,RJ Williams,Missed Three Point Jumper,24,14
+9:21,Nevada,Jazz Johnson,Defensive Rebound,24,14
+9:04,Boise State,RJ Williams,Foul,24,14
+9:04,Nevada,Jordan Caroline,Free Throw,25,14
+9:04,Nevada,Jordan Caroline,Free Throw,26,14
+8:42,Boise State,Alex Hobbs,Jumper,26,16
+8:19,Nevada,Tre'Shawn Thurman,Foul,26,16
+8:19,Nevada,Tre'Shawn Thurman,Turnover,26,16
+8:11,Boise State,Alex Hobbs,Three Point Jumper,26,19
+7:55,Boise State,Justinian Jessup,Foul,26,19
+7:55,Boise State,None,None,26,19
+7:55,Nevada,Trey Porter,Free Throw,27,19
+7:55,Nevada,Trey Porter,Free Throw,28,19
+7:38,Boise State,None,None,28,19
+7:35,Boise State,Alex Hobbs,Jumper,28,21
+7:20,Boise State,Zach Haney,Foul,28,21
+7:20,Nevada,Trey Porter,Free Throw,29,21
+7:20,Nevada,Trey Porter,Free Throw,30,21
+7:09,Boise State,Alex Hobbs,Layup,30,23
+6:56,Nevada,Jordan Caroline,Missed Three Point Jumper,30,23
+6:56,Boise State,Zach Haney,Defensive Rebound,30,23
+6:38,Boise State,Pat Dembley,Missed Three Point Jumper,30,23
+6:38,Nevada,Jordan Caroline,Defensive Rebound,30,23
+6:27,Nevada,Jordan Caroline,Missed Layup,30,23
+6:27,Boise State,Zach Haney,Defensive Rebound,30,23
+6:10,Nevada,Trey Porter,Foul,30,23
+6:10,Boise State,Marcus Dickinson,Missed Free Throw,30,23
+6:10,Boise State,None,Team Rebound,30,23
+6:10,Boise State,Marcus Dickinson,Free Throw,30,24
+5:51,Nevada,Trey Porter,Dunk,32,24
+5:44,Nevada,Trey Porter,Foul,32,24
+5:44,Boise State,David Wacker,Free Throw,32,25
+5:44,Boise State,David Wacker,Missed Free Throw,32,25
+5:44,Nevada,Jordan Caroline,Defensive Rebound,32,25
+5:31,Nevada,Cody Martin,Missed Three Point Jumper,32,25
+5:31,Boise State,Alex Hobbs,Defensive Rebound,32,25
+5:22,Boise State,Alex Hobbs,Missed Three Point Jumper,32,25
+5:22,Nevada,Jazz Johnson,Defensive Rebound,32,25
+5:12,Nevada,Cody Martin,Layup,34,25
+5:01,Boise State,Derrick Alston,Jumper,34,27
+4:38,Nevada,Jordan Caroline,Missed Jumper,34,27
+4:38,Boise State,Pat Dembley,Defensive Rebound,34,27
+4:31,Boise State,Marcus Dickinson,Missed Three Point Jumper,34,27
+4:31,Nevada,Jordan Caroline,Defensive Rebound,34,27
+4:19,Nevada,Tre'Shawn Thurman,Missed Three Point Jumper,34,27
+4:19,Boise State,Alex Hobbs,Defensive Rebound,34,27
+4:08,Boise State,Pat Dembley,Missed Three Point Jumper,34,27
+4:08,Nevada,Tre'Shawn Thurman,Defensive Rebound,34,27
+3:57,Nevada,Jazz Johnson,Turnover,34,27
+3:57,Boise State,Marcus Dickinson,Steal,34,27
+3:57,Boise State,None,None,34,27
+3:54,Boise State,David Wacker,Turnover,34,27
+3:54,Nevada,Jazz Johnson,Steal,34,27
+3:25,Nevada,Corey Henson,Three Point Jumper,37,27
+3:08,Boise State,Justinian Jessup,Layup,37,29
+3:08,Nevada,Corey Henson,Foul,37,29
+3:08,Boise State,Justinian Jessup,Free Throw,37,30
+2:35,Nevada,Jazz Johnson,Foul,37,30
+2:35,Nevada,Jazz Johnson,Turnover,37,30
+2:18,Boise State,Alex Hobbs,Missed Jumper,37,30
+2:18,Nevada,Jordan Caroline,Defensive Rebound,37,30
+2:11,Boise State,Justinian Jessup,Foul,37,30
+2:11,Nevada,Jordan Caroline,Missed Free Throw,37,30
+2:11,Nevada,None,Team Rebound,37,30
+2:11,Nevada,Jordan Caroline,Free Throw,38,30
+1:55,Boise State,Derrick Alston,Missed Three Point Jumper,38,30
+1:55,Nevada,Jordan Caroline,Defensive Rebound,38,30
+1:27,Nevada,Corey Henson,Turnover,38,30
+1:14,Boise State,Zach Haney,Missed Jumper,38,30
+1:14,Nevada,Corey Henson,Defensive Rebound,38,30
+1:04,Boise State,Pat Dembley,Foul,38,30
+1:04,Nevada,Corey Henson,Free Throw,39,30
+1:04,Nevada,Corey Henson,Free Throw,40,30
+0:43,Nevada,Corey Henson,Foul,40,30
+0:43,Boise State,Pat Dembley,Missed Free Throw,40,30
+0:43,Boise State,None,Team Rebound,40,30
+0:43,Boise State,Pat Dembley,Free Throw,40,31
+0:28,Nevada,Corey Henson,Turnover,40,31
+0:28,Boise State,Zach Haney,Steal,40,31
+0:03,Boise State,Alex Hobbs,Missed Three Point Jumper,40,31
+0:03,Boise State,None,Team Rebound,40,31
+0:00,Boise State,None,None,40,31
+20:00,Nevada,None,None,40,31
+19:32,Nevada,Jordan Caroline,Turnover,40,31
+19:32,Boise State,Pat Dembley,Steal,40,31
+19:27,Boise State,Zach Haney,Layup,40,33
+19:09,Nevada,Cody Martin,Jumper,42,33
+18:54,Boise State,Zach Haney,Missed Layup,42,33
+18:54,Nevada,Trey Porter,Defensive Rebound,42,33
+18:33,Boise State,Pat Dembley,Foul,42,33
+18:21,Nevada,Caleb Martin,Missed Three Point Jumper,42,33
+18:21,Boise State,Alex Hobbs,Defensive Rebound,42,33
+18:14,Boise State,Derrick Alston,Missed Layup,42,33
+18:14,Nevada,Jordan Caroline,Defensive Rebound,42,33
+18:00,Nevada,Trey Porter,Missed Jumper,42,33
+18:00,Boise State,Alex Hobbs,Defensive Rebound,42,33
+17:53,Nevada,Trey Porter,Foul,42,33
+17:44,Boise State,Alex Hobbs,Layup,42,35
+17:15,Nevada,Jordan Caroline,Three Point Jumper,45,35
+16:47,Boise State,Pat Dembley,Missed Three Point Jumper,45,35
+16:47,Boise State,Derrick Alston,Offensive Rebound,45,35
+16:38,Boise State,Derrick Alston,Layup,45,37
+16:38,Nevada,Caleb Martin,Foul,45,37
+16:38,Boise State,Derrick Alston,Free Throw,45,38
+16:18,Nevada,Cody Martin,Missed Jumper,45,38
+16:18,Boise State,Alex Hobbs,Defensive Rebound,45,38
+15:59,Boise State,Zach Haney,Missed Jumper,45,38
+15:59,Nevada,Jordan Caroline,Defensive Rebound,45,38
+15:51,Nevada,Jordan Caroline,Layup,47,38
+15:28,Boise State,None,None,47,38
+15:16,Boise State,Marcus Dickinson,Missed Three Point Jumper,47,38
+15:16,Boise State,Boise State,Offensive Rebound,47,38
+15:02,Boise State,Justinian Jessup,Layup,47,40
+14:52,Nevada,Jordan Caroline,Foul,47,40
+14:52,Nevada,Jordan Caroline,Turnover,47,40
+14:33,Boise State,Marcus Dickinson,Three Point Jumper,47,43
+14:07,Nevada,Caleb Martin,Three Point Jumper,50,43
+13:46,Boise State,Alex Hobbs,Missed Jumper,50,43
+13:46,Boise State,David Wacker,Offensive Rebound,50,43
+13:30,Boise State,Derrick Alston,Jumper,50,45
+13:21,Nevada,Jordan Caroline,Turnover,50,45
+13:21,Boise State,Derrick Alston,Steal,50,45
+13:03,Nevada,Caleb Martin,Foul,50,45
+12:59,Boise State,Alex Hobbs,Jumper,50,47
+12:40,Nevada,Tre'Shawn Thurman,Missed Jumper,50,47
+12:40,Boise State,David Wacker,Block,50,47
+12:40,Boise State,Derrick Alston,Defensive Rebound,50,47
+12:30,Boise State,Derrick Alston,Dunk,50,49
+12:30,Nevada,Tre'Shawn Thurman,Foul,50,49
+12:30,Boise State,Derrick Alston,Free Throw,50,50
+12:06,Nevada,Cody Martin,Jumper,52,50
+11:55,Boise State,David Wacker,Turnover,52,50
+11:55,Nevada,Cody Martin,Steal,52,50
+11:43,Nevada,Trey Porter,Dunk,54,50
+11:24,Boise State,Alex Hobbs,Turnover,54,50
+11:24,Nevada,Corey Henson,Steal,54,50
+11:16,Nevada,Jordan Caroline,Turnover,54,50
+11:16,Boise State,Alex Hobbs,Steal,54,50
+11:10,Nevada,Cody Martin,Foul,54,50
+11:10,Boise State,None,None,54,50
+11:00,Nevada,Trey Porter,Foul,54,50
+11:00,Boise State,David Wacker,Free Throw,54,51
+11:00,Boise State,David Wacker,Free Throw,54,52
+10:43,Boise State,Derrick Alston,Foul,54,52
+10:37,Nevada,Jazz Johnson,Jumper,56,52
+10:11,Boise State,Derrick Alston,Missed Three Point Jumper,56,52
+10:11,Nevada,Tre'Shawn Thurman,Defensive Rebound,56,52
+10:04,Nevada,Corey Henson,Missed Three Point Jumper,56,52
+10:04,Boise State,Derrick Alston,Defensive Rebound,56,52
+9:56,Boise State,Justinian Jessup,Dunk,56,54
+9:49,Nevada,Jazz Johnson,Three Point Jumper,59,54
+9:33,Boise State,Justinian Jessup,Missed Three Point Jumper,59,54
+9:33,Nevada,Jordan Caroline,Defensive Rebound,59,54
+9:18,Nevada,Tre'Shawn Thurman,Jumper,61,54
+8:48,Boise State,Justinian Jessup,Three Point Jumper,61,57
+8:44,Boise State,None,None,61,57
+8:38,Nevada,Cody Martin,Layup,63,57
+8:16,Boise State,Zach Haney,Missed Layup,63,57
+8:16,Nevada,Tre'Shawn Thurman,Block,63,57
+8:16,Nevada,Corey Henson,Defensive Rebound,63,57
+7:58,Nevada,Jazz Johnson,Missed Three Point Jumper,63,57
+7:58,Boise State,Zach Haney,Defensive Rebound,63,57
+7:46,Nevada,Tre'Shawn Thurman,Foul,63,57
+7:46,Boise State,None,None,63,57
+7:46,Boise State,Marcus Dickinson,Free Throw,63,58
+7:46,Boise State,Marcus Dickinson,Free Throw,63,59
+7:35,Nevada,Cody Martin,Layup,65,59
+7:03,Boise State,Justinian Jessup,Missed Three Point Jumper,65,59
+7:03,Nevada,Jazz Johnson,Defensive Rebound,65,59
+6:41,Boise State,Zach Haney,Foul,65,59
+6:41,Nevada,Tre'Shawn Thurman,Missed Free Throw,65,59
+6:41,Nevada,None,Team Rebound,65,59
+6:41,Nevada,Tre'Shawn Thurman,Missed Free Throw,65,59
+6:41,Boise State,Derrick Alston,Defensive Rebound,65,59
+6:24,Boise State,Derrick Alston,Missed Jumper,65,59
+6:24,Nevada,Corey Henson,Defensive Rebound,65,59
+6:09,Nevada,Jordan Caroline,Foul,65,59
+6:09,Nevada,Jordan Caroline,Turnover,65,59
+6:09,Boise State,Marcus Dickinson,Missed Jumper,65,59
+6:09,Boise State,Marcus Dickinson,Offensive Rebound,65,59
+5:59,Boise State,Marcus Dickinson,Missed Layup,65,59
+5:59,Nevada,Jordan Caroline,Block,65,59
+5:59,Boise State,Boise State,Offensive Rebound,65,59
+5:43,Boise State,Justinian Jessup,Jumper,65,61
+5:21,Nevada,Cody Martin,Missed Jumper,65,61
+5:21,Boise State,Marcus Dickinson,Defensive Rebound,65,61
+5:03,Boise State,Alex Hobbs,Layup,65,63
+4:41,Nevada,Jazz Johnson,Three Point Jumper,68,63
+4:41,Nevada,Tre'Shawn Thurman,Foul,68,63
+4:41,Boise State,Derrick Alston,Free Throw,68,64
+4:41,Boise State,Derrick Alston,Free Throw,68,65
+4:18,Nevada,Caleb Martin,Missed Three Point Jumper,68,65
+4:18,Boise State,Justinian Jessup,Defensive Rebound,68,65
+3:55,Boise State,Derrick Alston,Missed Jumper,68,65
+3:55,Nevada,Jordan Caroline,Block,68,65
+3:55,Nevada,Jordan Caroline,Defensive Rebound,68,65
+3:48,Nevada,Jordan Caroline,Turnover,68,65
+3:48,Boise State,None,None,68,65
+3:34,Boise State,Justinian Jessup,Layup,68,67
+3:04,Nevada,Caleb Martin,Missed Three Point Jumper,68,67
+3:04,Boise State,Justinian Jessup,Defensive Rebound,68,67
+2:54,Boise State,Alex Hobbs,Missed Three Point Jumper,68,67
+2:54,Nevada,Jordan Caroline,Defensive Rebound,68,67
+2:39,Nevada,Corey Henson,Missed Three Point Jumper,68,67
+2:39,Nevada,None,Team Rebound,68,67
+2:35,Boise State,Derrick Alston,Foul,68,67
+2:31,Nevada,Caleb Martin,Missed Three Point Jumper,68,67
+2:31,Boise State,Derrick Alston,Defensive Rebound,68,67
+2:10,Nevada,Corey Henson,Foul,68,67
+2:10,Boise State,Alex Hobbs,Free Throw,68,68
+2:10,Boise State,Alex Hobbs,Free Throw,68,69
+1:52,Boise State,David Wacker,Foul,68,69
+1:52,Nevada,Cody Martin,Missed Free Throw,68,69
+1:52,Nevada,None,Team Rebound,68,69
+1:52,Nevada,Cody Martin,Free Throw,69,69
+1:42,Boise State,Alex Hobbs,Layup,69,71
+1:24,Nevada,Caleb Martin,Missed Three Point Jumper,69,71
+1:24,Boise State,Alex Hobbs,Defensive Rebound,69,71
+0:51,Boise State,Justinian Jessup,Missed Jumper,69,71
+0:51,Boise State,Boise State,Offensive Rebound,69,71
+0:47,Boise State,None,None,69,71
+0:25,Boise State,Justinian Jessup,Missed Jumper,69,71
+0:25,Nevada,Jordan Caroline,Defensive Rebound,69,71
+0:04,Nevada,Cody Martin,Three Point Jumper,72,71
+0:04,Boise State,None,None,72,71
+0:04,Nevada,None,None,72,71
+0:02,Boise State,Justinian Jessup,Missed Three Point Jumper,72,71
+0:02,Boise State,None,Team Rebound,72,71
+0:00,Boise State,None,None,72,71

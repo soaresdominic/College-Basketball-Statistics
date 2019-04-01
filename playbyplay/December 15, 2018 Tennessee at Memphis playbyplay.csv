@@ -1,0 +1,411 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Tennessee,None,None,0,0
+19:57,Tennessee,Kyle Alexander,Dunk,2,0
+19:31,Tennessee,Jordan Bone,Foul,2,0
+19:31,Memphis,Tyler Harris,Free Throw,2,1
+19:31,Memphis,Tyler Harris,Free Throw,2,2
+19:31,Memphis,Tyler Harris,Free Throw,2,3
+19:23,Tennessee,Yves Pons,Three Point Jumper,5,3
+19:05,Memphis,Tyler Harris,Missed Jumper,5,3
+19:05,Tennessee,Kyle Alexander,Defensive Rebound,5,3
+18:57,Tennessee,Jordan Bone,Turnover,5,3
+18:57,Memphis,Raynere Thornton,Steal,5,3
+18:51,Memphis,Jeremiah Martin,Missed Three Point Jumper,5,3
+18:51,Tennessee,Admiral Schofield,Defensive Rebound,5,3
+18:36,Tennessee,Yves Pons,Layup,7,3
+18:11,Memphis,Jeremiah Martin,Missed Layup,7,3
+18:11,Memphis,Mike Parks Jr.,Offensive Rebound,7,3
+18:05,Memphis,Mike Parks Jr.,Layup,7,5
+17:50,Tennessee,Jordan Bone,Foul,7,5
+17:50,Tennessee,Jordan Bone,Turnover,7,5
+17:30,Memphis,Raynere Thornton,Missed Jumper,7,5
+17:30,Tennessee,Yves Pons,Defensive Rebound,7,5
+17:23,Tennessee,Admiral Schofield,Three Point Jumper,10,5
+17:09,Memphis,Alex Lomax,Turnover,10,5
+17:09,Tennessee,Admiral Schofield,Steal,10,5
+16:47,Memphis,Alex Lomax,Foul,10,5
+16:47,Tennessee,Grant Williams,Free Throw,11,5
+16:47,Tennessee,Grant Williams,Free Throw,12,5
+16:41,Memphis,Jeremiah Martin,Missed Three Point Jumper,12,5
+16:41,Tennessee,Grant Williams,Defensive Rebound,12,5
+16:36,Memphis,Kyvon Davenport,Foul,12,5
+16:23,Tennessee,Admiral Schofield,Three Point Jumper,15,5
+16:17,Memphis,None,None,15,5
+16:17,Memphis,None,None,15,5
+16:08,Memphis,Tyler Harris,Missed Three Point Jumper,15,5
+16:08,Memphis,Mike Parks Jr.,Offensive Rebound,15,5
+16:01,Memphis,Mike Parks Jr.,Missed Layup,15,5
+16:01,Tennessee,Kyle Alexander,Block,15,5
+16:01,Memphis,Mike Parks Jr.,Offensive Rebound,15,5
+16:01,Memphis,Mike Parks Jr.,Missed Layup,15,5
+16:01,Tennessee,Tennessee,Defensive Rebound,15,5
+15:48,Tennessee,Admiral Schofield,Missed Three Point Jumper,15,5
+15:48,Tennessee,Kyle Alexander,Offensive Rebound,15,5
+15:44,Tennessee,Kyle Alexander,Layup,17,5
+15:31,Tennessee,Yves Pons,Foul,17,5
+15:29,Memphis,Kyvon Davenport,Missed Three Point Jumper,17,5
+15:29,Tennessee,Grant Williams,Defensive Rebound,17,5
+15:17,Tennessee,Grant Williams,Missed Jumper,17,5
+15:17,Memphis,Kyvon Davenport,Defensive Rebound,17,5
+14:56,Memphis,Isaiah Maurice,Missed Jumper,17,5
+14:56,Tennessee,John Fulkerson,Defensive Rebound,17,5
+14:48,Tennessee,Grant Williams,Jumper,19,5
+14:24,Memphis,Kyvon Davenport,Missed Layup,19,5
+14:24,Tennessee,Grant Williams,Block,19,5
+14:24,Memphis,Kyvon Davenport,Offensive Rebound,19,5
+14:19,Memphis,Kyvon Davenport,Missed Layup,19,5
+14:19,Tennessee,John Fulkerson,Block,19,5
+14:19,Tennessee,Jordan Bowden,Defensive Rebound,19,5
+14:13,Tennessee,Admiral Schofield,Foul,19,5
+14:13,Tennessee,Admiral Schofield,Turnover,19,5
+13:56,Memphis,Kareem Brewton Jr.,Turnover,19,5
+13:56,Tennessee,Jalen Johnson,Steal,19,5
+13:48,Tennessee,Jordan Bowden,Missed Layup,19,5
+13:48,Memphis,Kyvon Davenport,Block,19,5
+13:48,Memphis,Jeremiah Martin,Defensive Rebound,19,5
+13:45,Memphis,Kyvon Davenport,Three Point Jumper,19,8
+13:29,Tennessee,Grant Williams,Layup,21,8
+13:11,Memphis,Tyler Harris,Missed Three Point Jumper,21,8
+13:11,Tennessee,Admiral Schofield,Defensive Rebound,21,8
+13:00,Memphis,Tyler Harris,Foul,21,8
+12:57,Tennessee,Jordan Bone,Missed Three Point Jumper,21,8
+12:57,Tennessee,John Fulkerson,Offensive Rebound,21,8
+12:51,Tennessee,John Fulkerson,Missed Dunk,21,8
+12:51,Tennessee,John Fulkerson,Offensive Rebound,21,8
+12:45,Tennessee,John Fulkerson,Turnover,21,8
+12:45,Memphis,Jeremiah Martin,Steal,21,8
+12:45,Tennessee,Yves Pons,Foul,21,8
+12:45,Memphis,Jeremiah Martin,Free Throw,21,9
+12:45,Memphis,Jeremiah Martin,Free Throw,21,10
+12:22,Memphis,Isaiah Maurice,Foul,21,10
+12:22,Tennessee,John Fulkerson,Free Throw,23,10
+12:22,Tennessee,John Fulkerson,Free Throw,22,10
+12:22,Memphis,Isaiah Maurice,Foul,23,10
+12:09,Tennessee,Jalen Johnson,Missed Three Point Jumper,23,10
+12:09,Tennessee,John Fulkerson,Offensive Rebound,23,10
+11:50,Tennessee,Admiral Schofield,Turnover,23,10
+11:50,Memphis,None,None,23,10
+11:40,Tennessee,Kyle Alexander,Foul,23,10
+11:40,Memphis,Victor Enoh,Free Throw,23,11
+11:40,Memphis,Victor Enoh,Missed Free Throw,23,11
+11:40,Tennessee,Kyle Alexander,Defensive Rebound,23,11
+11:13,Tennessee,Grant Williams,Missed Three Point Jumper,23,11
+11:13,Memphis,Victor Enoh,Defensive Rebound,23,11
+10:58,Memphis,Kareem Brewton Jr.,Three Point Jumper,23,14
+10:32,Tennessee,Kyle Alexander,Missed Jumper,23,14
+10:32,Memphis,Jeremiah Martin,Defensive Rebound,23,14
+10:26,Memphis,Jeremiah Martin,Missed Jumper,23,14
+10:26,Tennessee,Grant Williams,Defensive Rebound,23,14
+10:17,Memphis,Kareem Brewton Jr.,Foul,23,14
+10:12,Tennessee,Kyle Alexander,Turnover,23,14
+10:12,Memphis,Antwann Jones,Steal,23,14
+10:06,Memphis,Antwann Jones,Missed Jumper,23,14
+10:06,Memphis,Kyvon Davenport,Offensive Rebound,23,14
+10:01,Memphis,None,None,23,14
+10:00,Memphis,Kareem Brewton Jr.,Missed Three Point Jumper,23,14
+10:00,Memphis,Raynere Thornton,Offensive Rebound,23,14
+9:56,Memphis,Raynere Thornton,Missed Layup,23,14
+9:56,Memphis,Raynere Thornton,Offensive Rebound,23,14
+9:51,Memphis,Raynere Thornton,Turnover,23,14
+9:51,Tennessee,John Fulkerson,Steal,23,14
+9:44,Tennessee,Admiral Schofield,Missed Three Point Jumper,23,14
+9:44,Memphis,Alex Lomax,Defensive Rebound,23,14
+9:36,Memphis,Kareem Brewton Jr.,Jumper,23,16
+9:34,Memphis,Victor Enoh,Foul,23,16
+9:34,Tennessee,Jordan Bowden,Free Throw,24,16
+9:34,Tennessee,Jordan Bowden,Free Throw,25,16
+9:25,Memphis,Raynere Thornton,Layup,25,18
+9:25,Tennessee,Grant Williams,Foul,25,18
+9:25,Memphis,Raynere Thornton,Free Throw,25,19
+9:05,Tennessee,Grant Williams,Layup,27,19
+9:05,Memphis,Kareem Brewton Jr.,Foul,27,19
+9:05,Tennessee,Grant Williams,Free Throw,28,19
+8:55,Tennessee,Yves Pons,Foul,28,19
+8:55,Memphis,Alex Lomax,Free Throw,28,20
+8:55,Memphis,Alex Lomax,Missed Free Throw,28,20
+8:55,Tennessee,John Fulkerson,Defensive Rebound,28,20
+8:42,Tennessee,Admiral Schofield,Turnover,28,20
+8:33,Memphis,Antwann Jones,Missed Three Point Jumper,28,20
+8:33,Tennessee,Kyle Alexander,Defensive Rebound,28,20
+8:30,Memphis,Kareem Brewton Jr.,Foul,28,20
+8:30,Tennessee,Kyle Alexander,Missed Free Throw,28,20
+8:30,Memphis,Raynere Thornton,Defensive Rebound,28,20
+8:15,Tennessee,John Fulkerson,Foul,28,20
+8:15,Memphis,Alex Lomax,Free Throw,28,21
+8:15,Memphis,Alex Lomax,Free Throw,28,22
+8:04,Tennessee,Jordan Bowden,Turnover,28,22
+8:04,Memphis,Raynere Thornton,Steal,28,22
+7:59,Memphis,Tyler Harris,Missed Three Point Jumper,28,22
+7:59,Tennessee,Tennessee,Defensive Rebound,28,22
+7:56,Memphis,None,None,28,22
+7:46,Tennessee,Grant Williams,Layup,30,22
+7:46,Memphis,Raynere Thornton,Foul,30,22
+7:46,Tennessee,Grant Williams,Free Throw,31,22
+7:23,Memphis,Alex Lomax,Missed Three Point Jumper,31,22
+7:23,Memphis,Raynere Thornton,Offensive Rebound,31,22
+7:23,Memphis,None,None,31,22
+7:23,Memphis,Kyvon Davenport,Offensive Rebound,31,22
+7:23,Memphis,None,None,31,24
+7:06,Tennessee,Jordan Bowden,Missed Three Point Jumper,31,24
+7:06,Tennessee,Tennessee,Offensive Rebound,31,24
+6:46,Tennessee,Grant Williams,Missed Jumper,31,24
+6:46,Tennessee,Kyle Alexander,Offensive Rebound,31,24
+6:42,Memphis,Raynere Thornton,Foul,31,24
+6:42,Tennessee,Kyle Alexander,Free Throw,32,24
+6:42,Tennessee,Kyle Alexander,Missed Free Throw,32,24
+6:42,Tennessee,Admiral Schofield,Offensive Rebound,32,24
+6:42,Tennessee,Jordan Bowden,Missed Three Point Jumper,32,24
+6:42,Memphis,Kyvon Davenport,Defensive Rebound,32,24
+6:24,Memphis,Raynere Thornton,Missed Three Point Jumper,32,24
+6:24,Tennessee,Kyle Alexander,Block,32,24
+6:24,Tennessee,Kyle Alexander,Defensive Rebound,32,24
+6:13,Tennessee,Kyle Alexander,Three Point Jumper,35,24
+5:46,Memphis,Kyvon Davenport,Foul,35,24
+5:46,Memphis,Kyvon Davenport,Turnover,35,24
+5:37,Tennessee,Jordan Bowden,Dunk,37,24
+5:02,Tennessee,Kyle Alexander,Foul,37,24
+5:02,Memphis,Jeremiah Martin,Missed Free Throw,37,24
+5:02,Memphis,None,Team Rebound,37,24
+5:02,Memphis,Jeremiah Martin,Free Throw,37,25
+4:41,Tennessee,Jordan Bowden,Three Point Jumper,40,25
+4:30,Memphis,Jeremiah Martin,Missed Layup,40,25
+4:30,Tennessee,Admiral Schofield,Defensive Rebound,40,25
+4:24,Tennessee,Jordan Bowden,Missed Three Point Jumper,40,25
+4:24,Memphis,Raynere Thornton,Defensive Rebound,40,25
+4:15,Memphis,Alex Lomax,Missed Jumper,40,25
+4:15,Tennessee,Admiral Schofield,Defensive Rebound,40,25
+3:52,Tennessee,Admiral Schofield,Three Point Jumper,43,25
+3:41,Memphis,None,None,43,25
+3:41,Memphis,None,None,43,25
+3:34,Memphis,Antwann Jones,Missed Three Point Jumper,43,25
+3:34,Memphis,Jeremiah Martin,Offensive Rebound,43,25
+3:27,Memphis,Tyler Harris,Jumper,43,27
+3:15,Tennessee,Grant Williams,Missed Jumper,43,27
+3:15,Memphis,Raynere Thornton,Defensive Rebound,43,27
+2:53,Memphis,Mike Parks Jr.,Layup,43,29
+2:30,Tennessee,John Fulkerson,Layup,45,29
+2:03,Memphis,Mike Parks Jr.,Jumper,45,31
+1:44,Memphis,Mike Parks Jr.,Foul,45,31
+1:44,Tennessee,Jordan Bone,Missed Free Throw,45,31
+1:44,Tennessee,None,Team Rebound,45,31
+1:44,Tennessee,Jordan Bone,Free Throw,46,31
+1:17,Memphis,Tyler Harris,Missed Three Point Jumper,46,31
+1:17,Memphis,Jeremiah Martin,Offensive Rebound,46,31
+1:11,Memphis,Jeremiah Martin,Turnover,46,31
+1:04,Memphis,Raynere Thornton,Foul,46,31
+1:04,Tennessee,Grant Williams,Free Throw,47,31
+1:04,Tennessee,Grant Williams,Free Throw,48,31
+1:04,Tennessee,None,None,48,31
+1:00,Memphis,Alex Lomax,Missed Jumper,48,31
+1:00,Tennessee,Admiral Schofield,Defensive Rebound,48,31
+0:42,Tennessee,Grant Williams,Turnover,48,31
+0:42,Memphis,Jeremiah Martin,Steal,48,31
+0:28,Tennessee,Grant Williams,Foul,48,31
+0:28,Memphis,Antwann Jones,Free Throw,48,32
+0:28,Memphis,Antwann Jones,Free Throw,48,33
+0:12,Memphis,Alex Lomax,Foul,48,33
+0:12,Tennessee,Jordan Bone,Free Throw,49,33
+0:12,Tennessee,Jordan Bone,Free Throw,50,33
+0:02,Memphis,Antwann Jones,Layup,50,35
+0:00,Memphis,None,None,50,35
+20:00,Tennessee,None,None,50,35
+19:34,Tennessee,Yves Pons,Missed Three Point Jumper,50,35
+19:34,Memphis,None,Team Rebound,50,35
+19:31,Tennessee,Kyle Alexander,Foul,50,35
+19:15,Memphis,Alex Lomax,Jumper,50,37
+19:01,Memphis,Raynere Thornton,Foul,50,37
+18:59,Tennessee,Yves Pons,Missed Three Point Jumper,50,37
+18:59,Memphis,Jeremiah Martin,Defensive Rebound,50,37
+18:47,Memphis,Alex Lomax,Missed Jumper,50,37
+18:47,Tennessee,Admiral Schofield,Defensive Rebound,50,37
+18:36,Tennessee,Yves Pons,Jumper,52,37
+18:16,Memphis,Kyvon Davenport,Layup,52,39
+18:02,Memphis,Jeremiah Martin,Foul,52,39
+18:02,Tennessee,Grant Williams,Missed Free Throw,52,39
+18:02,Tennessee,None,Team Rebound,52,39
+18:02,Tennessee,Grant Williams,Missed Free Throw,52,39
+18:02,Memphis,Alex Lomax,Defensive Rebound,52,39
+17:53,Memphis,Tyler Harris,Missed Three Point Jumper,52,39
+17:53,Tennessee,Admiral Schofield,Defensive Rebound,52,39
+17:45,Tennessee,Jordan Bone,Missed Layup,52,39
+17:45,Memphis,Kyvon Davenport,Block,52,39
+17:45,Memphis,Tyler Harris,Defensive Rebound,52,39
+17:36,Memphis,Tyler Harris,Layup,52,41
+17:23,Tennessee,Grant Williams,Three Point Jumper,55,41
+17:10,Memphis,Jeremiah Martin,Three Point Jumper,55,44
+16:59,Tennessee,Jordan Bone,Jumper,57,44
+16:48,Memphis,Kyvon Davenport,Dunk,57,46
+16:22,Tennessee,Grant Williams,Missed Jumper,57,46
+16:22,Tennessee,Admiral Schofield,Offensive Rebound,57,46
+16:19,Memphis,Mike Parks Jr.,Foul,57,46
+16:19,Memphis,None,None,57,46
+16:19,Tennessee,Admiral Schofield,Free Throw,58,46
+16:19,Tennessee,Admiral Schofield,Free Throw,59,46
+16:04,Memphis,Jeremiah Martin,Missed Three Point Jumper,59,46
+16:04,Tennessee,Jordan Bowden,Defensive Rebound,59,46
+15:57,Tennessee,Admiral Schofield,Turnover,59,46
+15:57,Memphis,Jeremiah Martin,Steal,59,46
+15:51,Tennessee,Jordan Bowden,Foul,59,46
+15:51,Memphis,None,None,59,46
+15:47,Memphis,Tyler Harris,Missed Three Point Jumper,59,46
+15:47,Memphis,Kyvon Davenport,Offensive Rebound,59,46
+15:43,Memphis,Antwann Jones,Turnover,59,46
+15:34,Tennessee,Admiral Schofield,Layup,61,46
+15:13,Tennessee,John Fulkerson,Foul,61,46
+15:07,Memphis,Kyvon Davenport,Missed Layup,61,46
+15:07,Memphis,Kyvon Davenport,Offensive Rebound,61,46
+15:04,Tennessee,Grant Williams,Foul,61,46
+14:57,Memphis,Jeremiah Martin,Jumper,61,48
+14:57,Tennessee,Jordan Bowden,Foul,61,48
+14:57,Memphis,Jeremiah Martin,Missed Free Throw,61,48
+14:57,Tennessee,Admiral Schofield,Defensive Rebound,61,48
+14:48,Memphis,Mike Parks Jr.,Foul,61,48
+14:45,Tennessee,Admiral Schofield,Jumper,63,48
+14:30,Tennessee,Jordan Bowden,Foul,63,48
+14:15,Memphis,Kyvon Davenport,Dunk,63,50
+14:01,Tennessee,Jordan Bone,Turnover,63,50
+14:01,Memphis,Jeremiah Martin,Steal,63,50
+13:52,Memphis,Kyvon Davenport,Missed Jumper,63,50
+13:52,Tennessee,Admiral Schofield,Block,63,50
+13:52,Tennessee,Admiral Schofield,Defensive Rebound,63,50
+13:41,Tennessee,Kyle Alexander,Missed Jumper,63,50
+13:41,Memphis,Antwann Jones,Defensive Rebound,63,50
+13:21,Memphis,Kyvon Davenport,Layup,63,52
+13:16,Tennessee,None,None,63,52
+13:12,Tennessee,Yves Pons,Turnover,63,52
+13:12,Memphis,Kareem Brewton Jr.,Steal,63,52
+13:04,Memphis,Kareem Brewton Jr.,Layup,63,54
+12:49,Tennessee,Yves Pons,Foul,63,54
+12:49,Tennessee,Admiral Schofield,Turnover,63,54
+12:37,Memphis,Jeremiah Martin,Missed Three Point Jumper,63,54
+12:37,Memphis,Victor Enoh,Offensive Rebound,63,54
+12:25,Memphis,Jeremiah Martin,Missed Layup,63,54
+12:25,Tennessee,Kyle Alexander,Block,63,54
+12:25,Tennessee,Jordan Bowden,Defensive Rebound,63,54
+12:22,Tennessee,Jordan Bowden,Turnover,63,54
+12:22,Memphis,Antwann Jones,Steal,63,54
+12:11,Memphis,Tyler Harris,Missed Three Point Jumper,63,54
+12:11,Tennessee,Tennessee,Defensive Rebound,63,54
+11:53,Tennessee,Kyle Alexander,Missed Three Point Jumper,63,54
+11:53,Memphis,Tyler Harris,Defensive Rebound,63,54
+11:45,Memphis,Antwann Jones,Jumper,63,56
+11:16,Tennessee,Admiral Schofield,Layup,65,56
+11:16,Memphis,Victor Enoh,Foul,65,56
+11:16,Memphis,None,None,65,56
+11:16,Tennessee,Admiral Schofield,Free Throw,66,56
+11:12,Memphis,Kareem Brewton Jr.,Missed Jumper,66,56
+11:12,Tennessee,Grant Williams,Defensive Rebound,66,56
+10:47,Tennessee,Jordan Bone,Missed Three Point Jumper,66,56
+10:47,Memphis,Jeremiah Martin,Defensive Rebound,66,56
+10:29,Memphis,Antwann Jones,Foul,66,56
+10:29,Memphis,Antwann Jones,Turnover,66,56
+10:12,Memphis,Antwann Jones,Foul,66,56
+10:12,Tennessee,Admiral Schofield,Free Throw,67,56
+10:12,Tennessee,Admiral Schofield,Free Throw,68,56
+10:07,Memphis,Kyvon Davenport,Three Point Jumper,68,59
+9:50,Memphis,Tyler Harris,Foul,68,59
+9:50,Tennessee,Jordan Bowden,Free Throw,69,59
+9:50,Tennessee,Jordan Bowden,Free Throw,70,59
+9:39,Memphis,Kyvon Davenport,Three Point Jumper,70,62
+9:16,Tennessee,Jalen Johnson,Three Point Jumper,73,62
+8:59,Memphis,Alex Lomax,Foul,73,62
+8:59,Memphis,Alex Lomax,Turnover,73,62
+8:47,Tennessee,Admiral Schofield,Three Point Jumper,76,62
+8:28,Tennessee,Jalen Johnson,Foul,76,62
+8:28,Memphis,Kyvon Davenport,Free Throw,76,63
+8:28,Memphis,Kyvon Davenport,Free Throw,76,64
+8:28,Memphis,Kyvon Davenport,Missed Free Throw,76,64
+8:28,Tennessee,Kyle Alexander,Defensive Rebound,76,64
+8:17,Tennessee,Grant Williams,Foul,76,64
+8:17,Tennessee,Grant Williams,Turnover,76,64
+8:02,Tennessee,Kyle Alexander,Foul,76,64
+8:02,Memphis,Kyvon Davenport,Free Throw,76,65
+8:02,Memphis,Kyvon Davenport,Missed Free Throw,76,65
+8:02,Tennessee,John Fulkerson,Defensive Rebound,76,65
+7:37,Tennessee,Admiral Schofield,Missed Three Point Jumper,76,65
+7:34,Tennessee,Kyle Alexander,Offensive Rebound,76,65
+7:32,Tennessee,Tennessee ,Turnover,76,65
+7:32,Memphis,None,None,76,65
+7:16,Memphis,Jeremiah Martin,Missed Layup,76,65
+7:16,Tennessee,John Fulkerson,Block,76,65
+7:16,Tennessee,Kyle Alexander,Defensive Rebound,76,65
+7:06,Tennessee,Jordan Bone,Jumper,78,65
+6:57,Memphis,Alex Lomax,Missed Layup,78,65
+6:57,Tennessee,Kyle Alexander,Block,78,65
+6:57,Memphis,Kyvon Davenport,Offensive Rebound,78,65
+6:46,Memphis,Kyvon Davenport,Layup,78,67
+6:23,Tennessee,Jordan Bone,Missed Three Point Jumper,78,67
+6:23,Tennessee,None,Team Rebound,78,67
+6:19,Memphis,Mike Parks Jr.,Foul,78,67
+6:19,Tennessee,Kyle Alexander,Free Throw,79,67
+6:19,Tennessee,Kyle Alexander,Free Throw,80,67
+6:13,Memphis,Kyvon Davenport,Three Point Jumper,80,70
+5:55,Tennessee,Grant Williams,Jumper,82,70
+5:44,Memphis,Kyvon Davenport,Layup,82,72
+5:32,Tennessee,Jordan Bone,Missed Jumper,82,72
+5:32,Tennessee,Jordan Bowden,Offensive Rebound,82,72
+5:26,Memphis,Alex Lomax,Foul,82,72
+5:26,Tennessee,Jordan Bowden,Free Throw,83,72
+5:26,Tennessee,Jordan Bowden,Free Throw,84,72
+5:11,Memphis,Jeremiah Martin,Missed Three Point Jumper,84,72
+5:11,Tennessee,Grant Williams,Block,84,72
+5:11,Memphis,Kyvon Davenport,Offensive Rebound,84,72
+5:05,Memphis,Kyvon Davenport,Layup,84,74
+4:40,Memphis,Jeremiah Martin,Foul,84,74
+4:40,Tennessee,John Fulkerson,Free Throw,85,74
+4:40,Tennessee,John Fulkerson,Missed Free Throw,85,74
+4:40,Tennessee,None,Team Rebound,85,74
+4:39,Memphis,Kyvon Davenport,Foul,85,74
+4:39,Tennessee,Admiral Schofield,Free Throw,86,74
+4:39,Tennessee,Admiral Schofield,Free Throw,87,74
+4:29,Memphis,Tyler Harris,Turnover,87,74
+4:29,Tennessee,Derrick Walker,Steal,87,74
+4:21,Tennessee,Jordan Bone,Dunk,89,74
+4:12,Memphis,Mike Parks Jr.,Layup,89,76
+3:55,Memphis,Tyler Harris,Foul,89,76
+3:55,Memphis,None,None,89,76
+3:55,Tennessee,Jordan Bone,Free Throw,90,76
+3:55,Tennessee,Jordan Bone,Free Throw,91,76
+3:42,Memphis,Raynere Thornton,Three Point Jumper,91,79
+3:22,Tennessee,Admiral Schofield,Layup,93,79
+3:01,Memphis,Kareem Brewton Jr.,Layup,93,81
+2:45,Memphis,Kareem Brewton Jr.,Foul,93,81
+2:45,Tennessee,Jordan Bowden,Free Throw,94,81
+2:45,Tennessee,Jordan Bowden,Missed Free Throw,94,81
+2:45,Memphis,Kyvon Davenport,Defensive Rebound,94,81
+2:32,Memphis,Tyler Harris,Three Point Jumper,94,84
+2:16,Memphis,Tyler Harris,Foul,94,84
+2:16,Tennessee,Jordan Bone,Free Throw,95,84
+2:16,Tennessee,Jordan Bone,Free Throw,96,84
+2:12,Memphis,Alex Lomax,Missed Jumper,96,84
+2:12,Memphis,Kyvon Davenport,Offensive Rebound,96,84
+2:02,Memphis,Tyler Harris,Missed Three Point Jumper,96,84
+2:02,Tennessee,Jordan Bowden,Defensive Rebound,96,84
+1:41,Tennessee,Admiral Schofield,Missed Three Point Jumper,96,84
+1:41,Tennessee,Jordan Bone,Offensive Rebound,96,84
+1:25,Memphis,Tyler Harris,Foul,96,84
+1:25,Tennessee,Jordan Bone,Free Throw,97,84
+1:25,Tennessee,Jordan Bone,Free Throw,98,84
+1:18,Memphis,Alex Lomax,Layup,98,86
+0:58,Tennessee,Jordan Bone,Turnover,98,86
+0:58,Memphis,Alex Lomax,Steal,98,86
+0:53,Memphis,Jeremiah Martin,Missed Dunk,98,86
+0:53,Memphis,Kareem Brewton Jr.,Offensive Rebound,98,86
+0:50,Memphis,Raynere Thornton,Three Point Jumper,98,89
+0:47,Memphis,None,None,98,89
+0:47,Tennessee,Jordan Bone,Foul,98,89
+0:47,Tennessee,Jordan Bone,Foul,98,89
+0:47,Memphis,Alex Lomax,Foul,98,89
+0:47,Memphis,Jeremiah Martin,Foul,98,89
+0:47,Tennessee,Jordan Bone,Free Throw,99,89
+0:47,Memphis,Alex Lomax,Foul,98,89
+0:47,Memphis,Jeremiah Martin,Foul,98,89
+0:47,Tennessee,Jordan Bone,Free Throw,100,89
+0:45,Memphis,Antwann Jones,Foul,100,89
+0:45,Tennessee,Admiral Schofield,Free Throw,101,89
+0:45,Tennessee,Admiral Schofield,Free Throw,102,89
+0:34,Memphis,Antwann Jones,Missed Jumper,102,89
+0:34,Tennessee,Tennessee,Defensive Rebound,102,89
+0:07,Tennessee,Jordan Bone,Turnover,102,89
+0:04,Memphis,Antwann Jones,Three Point Jumper,102,92
+0:00,Memphis,None,None,102,92

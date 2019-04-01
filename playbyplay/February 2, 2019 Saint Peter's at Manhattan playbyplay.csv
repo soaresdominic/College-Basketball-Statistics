@@ -1,0 +1,337 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:37,Manhattan,Nehemiah Mack,Missed Layup,0,0
+19:37,Manhattan,Manhattan,Offensive Rebound,0,0
+19:16,Saint Peter's,Samuel Idowu,Foul,0,0
+19:16,Manhattan,Warren Williams,Free Throw,0,1
+19:16,Manhattan,Warren Williams,Missed Free Throw,0,1
+19:16,Saint Peter's,Samuel Idowu,Defensive Rebound,0,1
+18:49,Saint Peter's,Samuel Idowu,Layup,2,1
+18:33,Manhattan,Nehemiah Mack,Turnover,2,1
+18:32,Saint Peter's,Klay Brown,Steal,2,1
+18:24,Saint Peter's,Klay Brown,Turnover,2,1
+18:22,Manhattan,Nehemiah Mack,Steal,2,1
+18:20,Manhattan,Nehemiah Mack,Layup,2,3
+18:19,Manhattan,Nehemiah Mack,Foul,2,3
+17:54,Saint Peter's,Quinn Taylor,Missed Layup,2,3
+17:54,Manhattan,Elijah Buchanan,Defensive Rebound,2,3
+17:38,Manhattan,Christian Hinckson,Three Point Jumper,2,6
+17:17,Saint Peter's,Klay Brown,Missed Three Point Jumper,2,6
+17:17,Saint Peter's,Quinn Taylor,Offensive Rebound,2,6
+17:17,Manhattan,Christian Hinckson,Foul,2,6
+17:12,Saint Peter's,Davauhnte Turner,Turnover,2,6
+16:45,Manhattan,Elijah Buchanan,Missed Layup,2,6
+16:45,Saint Peter's,Samuel Idowu,Block,2,6
+16:43,Saint Peter's,Davauhnte Turner,Defensive Rebound,2,6
+16:36,Manhattan,Elijah Buchanan,Foul,2,6
+16:28,Saint Peter's,Davauhnte Turner,Turnover,2,6
+16:05,Manhattan,Ibrahima Diallo,Foul,2,6
+16:05,Manhattan,Ibrahima Diallo,Turnover,2,6
+15:48,Saint Peter's,Dallas Watson,Missed Three Point Jumper,2,6
+15:48,Manhattan,Ibrahima Diallo,Defensive Rebound,2,6
+15:32,Manhattan,None,None,2,6
+15:18,Manhattan,Ibrahima Diallo,Missed Layup,2,6
+15:18,Saint Peter's,Samuel Idowu,Block,2,6
+15:16,Saint Peter's,Samuel Idowu,Defensive Rebound,2,6
+14:55,Saint Peter's,KC Ndefo,Turnover,2,6
+14:53,Manhattan,Samir Stewart,Steal,2,6
+14:52,Manhattan,Samir Stewart,Layup,2,8
+14:36,Saint Peter's,Manny Dixon,Layup,4,8
+14:36,Manhattan,Ibrahima Diallo,Foul,4,8
+14:36,Saint Peter's,Manny Dixon,Free Throw,5,8
+14:27,Saint Peter's,Derrick Woods,Foul,5,8
+14:27,Manhattan,Ebube Ebube,Missed Free Throw,5,8
+14:27,Manhattan,None,Team Rebound,5,8
+14:27,Manhattan,Ebube Ebube,Free Throw,5,9
+14:16,Saint Peter's,Manny Dixon,Foul,5,9
+14:16,Saint Peter's,Manny Dixon,Turnover,5,9
+13:58,Manhattan,Samir Stewart,Three Point Jumper,5,12
+13:27,Saint Peter's,KC Ndefo,Missed Jumper,5,12
+13:27,Manhattan,Ebube Ebube,Block,5,12
+13:27,Saint Peter's,KC Ndefo,Offensive Rebound,5,12
+13:27,Manhattan,Thomas Capuano,Foul,5,12
+13:14,Saint Peter's,Dallas Watson,Missed Jumper,5,12
+13:14,Manhattan,Elijah Buchanan,Defensive Rebound,5,12
+13:05,Manhattan,Tykei Greene,Missed Three Point Jumper,5,12
+13:05,Saint Peter's,Quinn Taylor,Defensive Rebound,5,12
+12:59,Saint Peter's,Davauhnte Turner,Turnover,5,12
+12:48,Manhattan,Elijah Buchanan,Jumper,5,14
+12:34,Saint Peter's,Dallas Watson,Turnover,5,14
+12:33,Manhattan,Elijah Buchanan,Steal,5,14
+12:18,Manhattan,Warren Williams,Dunk,5,16
+12:17,Saint Peter's,None,None,5,16
+12:17,Manhattan,None,None,5,16
+12:17,Manhattan,None,None,5,16
+11:53,Saint Peter's,Davauhnte Turner,Missed Jumper,5,16
+11:52,Manhattan,Elijah Buchanan,Block,5,16
+11:51,Manhattan,Warren Williams,Defensive Rebound,5,16
+11:19,Manhattan,Elijah Buchanan,Missed Three Point Jumper,5,16
+11:19,Saint Peter's,Samuel Idowu,Defensive Rebound,5,16
+10:52,Saint Peter's,Klay Brown,Turnover,5,16
+10:51,Manhattan,Elijah Buchanan,Steal,5,16
+10:44,Manhattan,Ebube Ebube,Missed Three Point Jumper,5,16
+10:44,Saint Peter's,Quinn Taylor,Defensive Rebound,5,16
+10:36,Saint Peter's,Quinn Taylor,Missed Layup,5,16
+10:36,Manhattan,Warren Williams,Defensive Rebound,5,16
+10:16,Manhattan,Samir Stewart,Missed Three Point Jumper,5,16
+10:16,Saint Peter's,Klay Brown,Defensive Rebound,5,16
+10:08,Manhattan,Warren Williams,Foul,5,16
+10:07,Saint Peter's,Davauhnte Turner,Free Throw,6,16
+10:07,Saint Peter's,Davauhnte Turner,Free Throw,7,16
+10:07,Manhattan,Tyler Reynolds,Missed Three Point Jumper,7,16
+10:07,Saint Peter's,Samuel Idowu,Defensive Rebound,7,16
+9:38,Saint Peter's,Klay Brown,Missed Three Point Jumper,7,16
+9:38,Saint Peter's,Manny Dixon,Offensive Rebound,7,16
+9:33,Saint Peter's,Manny Dixon,Layup,9,16
+9:33,Manhattan,None,None,9,16
+9:05,Manhattan,Tyler Reynolds,Jumper,9,18
+8:37,Saint Peter's,Samuel Idowu,Missed Dunk,9,18
+8:37,Manhattan,Tyler Reynolds,Defensive Rebound,9,18
+8:13,Saint Peter's,Davauhnte Turner,Foul,9,18
+8:13,Saint Peter's,Quinn Taylor,Foul,9,18
+8:08,Manhattan,Tyler Reynolds,Three Point Jumper,9,21
+7:50,Saint Peter's,Quinn Taylor,Missed Jumper,9,21
+7:50,Saint Peter's,Samuel Idowu,Offensive Rebound,9,21
+7:45,Saint Peter's,Samuel Idowu,Missed Layup,9,21
+7:45,Manhattan,Christian Hinckson,Defensive Rebound,9,21
+7:19,Manhattan,Thomas Capuano,Missed Three Point Jumper,9,21
+7:19,Saint Peter's,Manny Dixon,Defensive Rebound,9,21
+6:53,Manhattan,None,None,9,21
+6:46,Manhattan,None,None,9,21
+6:46,Manhattan,Nehemiah Mack,Foul,9,21
+6:46,Manhattan,None,None,9,21
+6:46,Saint Peter's,Davauhnte Turner,Free Throw,10,21
+6:46,Saint Peter's,Davauhnte Turner,Free Throw,11,21
+6:21,Manhattan,Daniel Schreier,Missed Three Point Jumper,11,21
+6:20,Manhattan,Elijah Buchanan,Offensive Rebound,11,21
+5:58,Manhattan,Elijah Buchanan,Layup,11,23
+5:36,Saint Peter's,Manny Dixon,Jumper,13,23
+5:17,Manhattan,Samir Stewart,Three Point Jumper,13,26
+4:46,Saint Peter's,Dallas Watson,Missed Three Point Jumper,13,26
+4:46,Saint Peter's,Manny Dixon,Offensive Rebound,13,26
+4:42,Saint Peter's,Manny Dixon,Missed Layup,13,26
+4:42,Manhattan,Daniel Schreier,Block,13,26
+4:41,Manhattan,Tyler Reynolds,Defensive Rebound,13,26
+4:15,Manhattan,Tyler Reynolds,Jumper,13,28
+3:56,Saint Peter's,Samuel Idowu,Missed Layup,13,28
+3:56,Manhattan,Daniel Schreier,Defensive Rebound,13,28
+3:41,Saint Peter's,Dallas Watson,Foul,13,28
+3:23,Manhattan,Christian Hinckson,Missed Layup,13,28
+3:23,Saint Peter's,Derrick Woods,Block,13,28
+3:20,Manhattan,Christian Hinckson,Offensive Rebound,13,28
+3:19,Manhattan,Christian Hinckson,Missed Layup,13,28
+3:19,Saint Peter's,Klay Brown,Defensive Rebound,13,28
+3:15,Saint Peter's,Dallas Watson,Foul,13,28
+3:15,Saint Peter's,Dallas Watson,Turnover,13,28
+2:52,Manhattan,Christian Hinckson,Turnover,13,28
+2:34,Saint Peter's,Derrick Woods,Missed Jumper,13,28
+2:34,Manhattan,Tykei Greene,Defensive Rebound,13,28
+2:10,Manhattan,Christian Hinckson,Turnover,13,28
+2:09,Saint Peter's,Quinn Taylor,Steal,13,28
+2:05,Saint Peter's,Manny Dixon,Jumper,15,28
+1:40,Manhattan,Ethan Lasko,Missed Layup,15,28
+1:40,Saint Peter's,Klay Brown,Defensive Rebound,15,28
+1:34,Saint Peter's,Quinn Taylor,Missed Dunk,15,28
+1:34,Saint Peter's,Dallas Watson,Offensive Rebound,15,28
+1:10,Manhattan,Warren Williams,Foul,15,28
+1:10,Saint Peter's,Derrick Woods,Missed Free Throw,15,28
+1:10,Saint Peter's,None,Team Rebound,15,28
+1:10,Saint Peter's,Derrick Woods,Free Throw,16,28
+0:47,Manhattan,Ebube Ebube,Foul,16,28
+0:47,Manhattan,Ebube Ebube,Turnover,16,28
+0:31,Saint Peter's,Quinn Taylor,Layup,18,28
+0:02,Manhattan,Ebube Ebube,Missed Three Point Jumper,18,28
+0:01,Saint Peter's,Klay Brown,Defensive Rebound,18,28
+0:00,Saint Peter's,Derrick Woods,Foul,18,28
+0:00,Manhattan,None,None,18,28
+20:00,Manhattan,Samir Stewart,Free Throw,18,29
+20:00,Manhattan,Samir Stewart,Free Throw,18,30
+19:36,Saint Peter's,Quinn Taylor,Foul,18,30
+19:33,Manhattan,Tyler Reynolds,Layup,18,32
+19:18,Saint Peter's,Klay Brown,Turnover,18,32
+19:17,Manhattan,Tyler Reynolds,Steal,18,32
+19:16,Manhattan,Thomas Capuano,Turnover,18,32
+19:06,Saint Peter's,Dallas Watson,Turnover,18,32
+19:04,Manhattan,Samir Stewart,Steal,18,32
+18:45,Manhattan,Ebube Ebube,Foul,18,32
+18:45,Manhattan,Ebube Ebube,Turnover,18,32
+18:29,Saint Peter's,Manny Dixon,Missed Three Point Jumper,18,32
+18:29,Saint Peter's,Klay Brown,Offensive Rebound,18,32
+18:25,Saint Peter's,Klay Brown,Layup,20,32
+17:59,Manhattan,Ebube Ebube,Missed Jumper,20,32
+17:59,Saint Peter's,Samuel Idowu,Defensive Rebound,20,32
+17:40,Manhattan,Ebube Ebube,Foul,20,32
+17:25,Saint Peter's,Quinn Taylor,Missed Jumper,20,32
+17:25,Saint Peter's,Samuel Idowu,Offensive Rebound,20,32
+17:22,Saint Peter's,Samuel Idowu,Missed Three Point Jumper,20,32
+17:22,Saint Peter's,Quinn Taylor,Offensive Rebound,20,32
+17:19,Saint Peter's,Quinn Taylor,Layup,22,32
+17:06,Manhattan,Tyler Reynolds,Missed Three Point Jumper,22,32
+17:06,Manhattan,Warren Williams,Offensive Rebound,22,32
+17:02,Manhattan,Warren Williams,Layup,22,34
+16:46,Manhattan,Warren Williams,Foul,22,34
+16:45,Saint Peter's,Dallas Watson,Turnover,22,34
+16:45,Manhattan,Nehemiah Mack,Steal,22,34
+16:45,Saint Peter's,Manny Dixon,Foul,22,34
+16:22,Manhattan,Daniel Schreier,Turnover,22,34
+16:19,Saint Peter's,Manny Dixon,Steal,22,34
+16:17,Saint Peter's,Manny Dixon,Missed Layup,22,34
+16:17,Manhattan,Tyler Reynolds,Block,22,34
+16:17,Saint Peter's,Saint Peter's,Offensive Rebound,22,34
+16:16,Manhattan,Tyler Reynolds,Foul,22,34
+16:05,Saint Peter's,Quinn Taylor,Turnover,22,34
+16:04,Manhattan,Tyler Reynolds,Steal,22,34
+15:46,Manhattan,None,None,22,34
+15:45,Manhattan,Tyler Reynolds,Missed Jumper,22,34
+15:45,Manhattan,Manhattan,Offensive Rebound,22,34
+15:33,Manhattan,Elijah Buchanan,Missed Three Point Jumper,22,34
+15:33,Saint Peter's,Quinn Taylor,Defensive Rebound,22,34
+15:31,Manhattan,Daniel Schreier,Foul,22,34
+15:23,Manhattan,Elijah Buchanan,Foul,22,34
+15:08,Saint Peter's,Manny Dixon,Missed Three Point Jumper,22,34
+15:08,Manhattan,Ibrahima Diallo,Defensive Rebound,22,34
+15:07,Saint Peter's,Samuel Idowu,Foul,22,34
+14:42,Manhattan,Ibrahima Diallo,Missed Layup,22,34
+14:41,Saint Peter's,Klay Brown,Block,22,34
+14:40,Saint Peter's,Klay Brown,Defensive Rebound,22,34
+14:37,Manhattan,Nehemiah Mack,Foul,22,34
+14:37,Saint Peter's,Klay Brown,Missed Free Throw,22,34
+14:37,Saint Peter's,None,Team Rebound,22,34
+14:37,Saint Peter's,Klay Brown,Free Throw,23,34
+14:18,Manhattan,Elijah Buchanan,Missed Layup,23,34
+14:18,Saint Peter's,Quinn Taylor,Defensive Rebound,23,34
+14:13,Manhattan,Ibrahima Diallo,Foul,23,34
+14:13,Saint Peter's,Klay Brown,Missed Free Throw,23,34
+14:13,Manhattan,Tykei Greene,Defensive Rebound,23,34
+14:04,Saint Peter's,Klay Brown,Foul,23,34
+13:44,Saint Peter's,Manny Dixon,Foul,23,34
+13:44,Manhattan,Christian Hinckson,Free Throw,23,35
+13:44,Manhattan,Christian Hinckson,Free Throw,23,36
+13:19,Saint Peter's,Klay Brown,Missed Jumper,23,36
+13:19,Manhattan,Tykei Greene,Defensive Rebound,23,36
+13:11,Manhattan,Tykei Greene,Layup,23,38
+13:06,Saint Peter's,None,None,23,38
+13:06,Manhattan,None,None,23,38
+12:58,Saint Peter's,Davauhnte Turner,Turnover,23,38
+12:57,Manhattan,Samir Stewart,Steal,23,38
+12:56,Saint Peter's,Manny Dixon,Foul,23,38
+12:56,Manhattan,Elijah Buchanan,Free Throw,23,39
+12:56,Manhattan,Elijah Buchanan,Missed Free Throw,23,39
+12:56,Manhattan,None,Team Rebound,23,39
+12:44,Saint Peter's,Davauhnte Turner,Foul,23,39
+12:44,Manhattan,Samir Stewart,Free Throw,23,40
+12:44,Manhattan,Samir Stewart,Free Throw,23,41
+12:12,Saint Peter's,Dallas Watson,Turnover,23,41
+12:11,Manhattan,Christian Hinckson,Steal,23,41
+11:56,Saint Peter's,Davauhnte Turner,Foul,23,41
+11:56,Manhattan,Samir Stewart,Missed Free Throw,23,41
+11:56,Manhattan,None,Team Rebound,23,41
+11:56,Manhattan,Samir Stewart,Free Throw,23,42
+11:56,Manhattan,Samir Stewart,Missed Free Throw,23,42
+11:56,Saint Peter's,Derrick Woods,Defensive Rebound,23,42
+11:50,Manhattan,Samir Stewart,Foul,23,42
+11:50,Saint Peter's,Davauhnte Turner,Missed Free Throw,23,42
+11:50,Manhattan,Tykei Greene,Defensive Rebound,23,42
+11:25,Saint Peter's,KC Ndefo,Foul,23,42
+11:25,Manhattan,Ebube Ebube,Free Throw,23,43
+11:25,Manhattan,Ebube Ebube,Missed Free Throw,23,43
+11:25,Saint Peter's,Derrick Woods,Defensive Rebound,23,43
+11:02,Saint Peter's,KC Ndefo,Dunk,25,43
+10:37,Manhattan,Tykei Greene,Missed Layup,25,43
+10:37,Manhattan,Ebube Ebube,Offensive Rebound,25,43
+10:34,Manhattan,None,None,25,45
+10:07,Manhattan,Nehemiah Mack,Foul,25,45
+10:07,Saint Peter's,Dallas Watson,Free Throw,26,45
+10:07,Saint Peter's,Dallas Watson,Free Throw,27,45
+10:07,Saint Peter's,Davauhnte Turner,Foul,27,45
+10:07,Manhattan,Christian Hinckson,Free Throw,27,46
+10:07,Manhattan,Christian Hinckson,Free Throw,27,47
+9:47,Saint Peter's,Davauhnte Turner,Missed Three Point Jumper,27,47
+9:47,Manhattan,Tykei Greene,Defensive Rebound,27,47
+9:40,Manhattan,Tykei Greene,Turnover,27,47
+9:19,Saint Peter's,Manny Dixon,Layup,29,47
+8:59,Manhattan,Thomas Capuano,Turnover,29,47
+8:59,Saint Peter's,Manny Dixon,Steal,29,47
+8:59,Manhattan,Warren Williams,Foul,29,47
+8:59,Saint Peter's,Manny Dixon,Free Throw,30,47
+8:59,Saint Peter's,Manny Dixon,Free Throw,31,47
+8:43,Saint Peter's,Derrick Woods,Foul,31,47
+8:43,Manhattan,Warren Williams,Free Throw,31,48
+8:43,Manhattan,Warren Williams,Free Throw,31,49
+8:38,Saint Peter's,Quinn Taylor,Turnover,31,49
+8:37,Manhattan,Ibrahima Diallo,Steal,31,49
+8:29,Manhattan,Elijah Buchanan,Turnover,31,49
+8:12,Saint Peter's,Quinn Taylor,Turnover,31,49
+8:04,Manhattan,Ethan Lasko,Missed Three Point Jumper,31,49
+8:04,Saint Peter's,KC Ndefo,Defensive Rebound,31,49
+7:55,Manhattan,Ibrahima Diallo,Foul,31,49
+7:55,Manhattan,None,None,31,49
+7:55,Saint Peter's,Derrick Woods,Free Throw,32,49
+7:55,Saint Peter's,Derrick Woods,Free Throw,33,49
+7:25,Manhattan,Tyler Reynolds,Missed Jumper,33,49
+7:25,Saint Peter's,Samuel Idowu,Defensive Rebound,33,49
+7:12,Saint Peter's,Manny Dixon,Turnover,33,49
+7:11,Manhattan,Samir Stewart,Steal,33,49
+6:42,Manhattan,Ibrahima Diallo,Missed Jumper,33,49
+6:42,Saint Peter's,Samuel Idowu,Block,33,49
+6:42,Saint Peter's,Saint Peter's,Defensive Rebound,33,49
+6:26,Manhattan,Nehemiah Mack,Foul,33,49
+6:26,Saint Peter's,Dallas Watson,Missed Free Throw,33,49
+6:26,Saint Peter's,None,Team Rebound,33,49
+6:26,Saint Peter's,Dallas Watson,Missed Free Throw,33,49
+6:26,Manhattan,Elijah Buchanan,Defensive Rebound,33,49
+6:06,Manhattan,Tyler Reynolds,Missed Jumper,33,49
+6:06,Manhattan,Ebube Ebube,Offensive Rebound,33,49
+6:05,Manhattan,Samir Stewart,Three Point Jumper,33,52
+6:04,Manhattan,None,None,33,52
+5:45,Saint Peter's,Samuel Idowu,Layup,35,52
+5:25,Manhattan,Christian Hinckson,Missed Layup,35,52
+5:25,Saint Peter's,KC Ndefo,Block,35,52
+5:23,Saint Peter's,KC Ndefo,Defensive Rebound,35,52
+5:20,Saint Peter's,Manny Dixon,Turnover,35,52
+5:19,Manhattan,Samir Stewart,Steal,35,52
+5:03,Manhattan,Elijah Buchanan,Three Point Jumper,35,55
+4:46,Saint Peter's,Manny Dixon,Three Point Jumper,38,55
+4:13,Manhattan,Ebube Ebube,Missed Three Point Jumper,38,55
+4:13,Saint Peter's,Samuel Idowu,Defensive Rebound,38,55
+3:55,Saint Peter's,Manny Dixon,Layup,40,55
+3:51,Saint Peter's,None,None,40,55
+3:51,Manhattan,None,None,40,55
+3:49,Saint Peter's,Dallas Watson,Foul,40,55
+3:49,Manhattan,Elijah Buchanan,Free Throw,40,56
+3:49,Manhattan,Elijah Buchanan,Free Throw,40,57
+3:35,Saint Peter's,Samuel Idowu,Foul,40,57
+3:35,Saint Peter's,Samuel Idowu,Turnover,40,57
+3:08,Saint Peter's,Manny Dixon,Foul,40,57
+3:08,Manhattan,Tykei Greene,Missed Free Throw,40,57
+3:08,Manhattan,None,Team Rebound,40,57
+3:08,Manhattan,Tykei Greene,Free Throw,40,58
+2:45,Saint Peter's,Samuel Idowu,Missed Jumper,40,58
+2:45,Saint Peter's,KC Ndefo,Offensive Rebound,40,58
+2:42,Manhattan,Daniel Schreier,Foul,40,58
+2:42,Saint Peter's,KC Ndefo,Free Throw,41,58
+2:42,Saint Peter's,KC Ndefo,Free Throw,42,58
+2:30,Manhattan,Samir Stewart,Turnover,42,58
+2:28,Saint Peter's,KC Ndefo,Steal,42,58
+2:10,Saint Peter's,KC Ndefo,Missed Jumper,42,58
+2:10,Saint Peter's,KC Ndefo,Offensive Rebound,42,58
+2:08,Manhattan,Ebube Ebube,Foul,42,58
+2:08,Saint Peter's,KC Ndefo,Missed Free Throw,42,58
+2:08,Saint Peter's,None,Team Rebound,42,58
+2:08,Saint Peter's,KC Ndefo,Free Throw,43,58
+1:43,Manhattan,Samir Stewart,Three Point Jumper,43,61
+1:32,Saint Peter's,KC Ndefo,Foul,43,61
+1:32,Saint Peter's,KC Ndefo,Turnover,43,61
+1:13,Manhattan,Jesse Boyce,Missed Jumper,43,61
+1:13,Saint Peter's,Quinn Taylor,Defensive Rebound,43,61
+1:05,Manhattan,Kevin Salis,Foul,43,61
+1:05,Saint Peter's,Majur Majak,Free Throw,44,61
+1:05,Saint Peter's,Majur Majak,Free Throw,45,61
+0:47,Manhattan,Matt Maloney,Three Point Jumper,45,64
+0:31,Saint Peter's,Klay Brown,Layup,47,64
+0:31,Manhattan,Daniel Schreier,Foul,47,64
+0:31,Saint Peter's,Klay Brown,Missed Free Throw,47,64
+0:31,Manhattan,Daniel Schreier,Defensive Rebound,47,64
+0:03,Manhattan,Matt Maloney,Missed Three Point Jumper,47,64
+0:02,Saint Peter's,Dallas Watson,Defensive Rebound,47,64
+0:01,Saint Peter's,Dallas Watson,Three Point Jumper,50,64
+0:00,Manhattan,None,None,50,64

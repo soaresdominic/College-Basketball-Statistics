@@ -1,0 +1,364 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:48,Seattle,Myles Carter,Turnover,0,0
+19:48,California,Paris Austin,Steal,0,0
+19:26,California,Darius McNeill,Layup,0,2
+19:26,Seattle,Mattia Da Campo,Foul,0,2
+19:26,California,Darius McNeill,Missed Free Throw,0,2
+19:23,Seattle,Myles Carter,Defensive Rebound,0,2
+19:07,Seattle,Morgan Means,Jumper,2,2
+18:36,California,Paris Austin,Missed Layup,2,2
+18:33,California,Andre Kelly,Offensive Rebound,2,2
+18:33,Seattle,Mattia Da Campo,Foul,2,2
+18:29,California,Justice Sueing,Missed Three Point Jumper,2,2
+18:25,Seattle,Morgan Means,Defensive Rebound,2,2
+18:23,Seattle,Morgan Means,Layup,4,2
+17:47,California,Justice Sueing,Missed Jumper,4,2
+17:47,California,California,Offensive Rebound,4,2
+17:47,California,Grant Anticevich,Foul,4,2
+17:47,California,Grant Anticevich,Turnover,4,2
+17:34,Seattle,Terrell Brown,Missed Layup,4,2
+17:34,California,Andre Kelly,Block,4,2
+17:29,California,Andre Kelly,Defensive Rebound,4,2
+17:24,California,Grant Anticevich,Foul,4,2
+17:24,California,Grant Anticevich,Turnover,4,2
+17:08,Seattle,Myles Carter,Missed Layup,4,2
+17:05,Seattle,Myles Carter,Offensive Rebound,4,2
+17:03,Seattle,Myles Carter,Layup,6,2
+16:47,California,Roman Davis,Turnover,6,2
+16:47,Seattle,Morgan Means,Steal,6,2
+16:42,Seattle,Morgan Means,Layup,8,2
+16:38,California,None,None,8,2
+16:21,California,Roman Davis,Jumper,8,4
+16:04,Seattle,Delante Jones,Missed Jumper,8,4
+16:04,Seattle,Mattia Da Campo,Offensive Rebound,8,4
+16:04,California,Paris Austin,Foul,8,4
+15:49,California,Roman Davis,Foul,8,4
+15:49,California,None,None,8,4
+15:43,California,Juhwan Harris-Dyson,Foul,8,4
+15:43,Seattle,Delante Jones,Free Throw,9,4
+15:43,Seattle,Delante Jones,Free Throw,10,4
+15:18,California,Darius McNeill,Missed Jumper,10,4
+15:14,Seattle,Myles Carter,Defensive Rebound,10,4
+14:35,California,Paris Austin,Missed Jumper,12,4
+14:31,Seattle,Delante Jones,Defensive Rebound,12,4
+14:23,California,Roman Davis,Foul,12,4
+14:16,Seattle,Myles Carter,Jumper,14,4
+13:55,California,Juhwan Harris-Dyson,Turnover,14,4
+13:55,Seattle,Terrell Brown,Steal,14,4
+13:40,Seattle,Terrell Brown,Layup,16,4
+13:18,Seattle,Morgan Means,Foul,16,4
+13:12,California,Andre Kelly,Missed Jumper,16,4
+13:08,Seattle,Myles Carter,Defensive Rebound,16,4
+12:51,Seattle,Terrell Brown,Jumper,18,4
+12:51,California,Juhwan Harris-Dyson,Foul,18,4
+12:51,Seattle,Terrell Brown,Free Throw,19,4
+12:35,California,Darius McNeill,Missed Jumper,19,4
+12:32,Seattle,Terrell Brown,Defensive Rebound,19,4
+12:11,Seattle,Myles Carter,Jumper,21,4
+11:45,Seattle,Riley Grigsby,Foul,21,4
+11:45,California,None,None,21,4
+11:30,Seattle,Riley Grigsby,Foul,21,4
+11:30,California,Justice Sueing,Free Throw,21,5
+11:30,California,Justice Sueing,Free Throw,21,6
+11:09,Seattle,Delante Jones,Jumper,23,6
+10:44,California,Justice Sueing,Layup,23,8
+10:44,Seattle,Riley Grigsby,Foul,23,8
+10:44,California,Justice Sueing,Free Throw,23,9
+10:33,Seattle,Morgan Means,Turnover,23,9
+10:23,California,Paris Austin,Missed Layup,23,9
+10:20,Seattle,Myles Carter,Defensive Rebound,23,9
+10:07,Seattle,Trey Hopkins,Foul,23,9
+10:07,Seattle,Trey Hopkins,Turnover,23,9
+9:49,California,Andre Kelly,Turnover,23,9
+9:49,Seattle,Delante Jones,Steal,23,9
+9:40,Seattle,Delante Jones,Missed Jumper,23,9
+9:34,Seattle,Trey Hopkins,Offensive Rebound,23,9
+9:34,Seattle,Trey Hopkins,Layup,25,9
+9:17,Seattle,Terrell Brown,Foul,25,9
+9:17,California,Paris Austin,Free Throw,25,10
+9:17,California,Paris Austin,Free Throw,25,11
+9:07,California,Darius McNeill,Foul,25,11
+9:07,Seattle,Morgan Means,Free Throw,26,11
+9:07,Seattle,Morgan Means,Free Throw,27,11
+8:54,California,Matt Bradley,Missed Jumper,27,11
+8:51,Seattle,Myles Carter,Defensive Rebound,27,11
+8:40,Seattle,Delante Jones,Turnover,27,11
+8:40,California,Andre Kelly,Steal,27,11
+8:11,California,Andre Kelly,Missed Layup,27,11
+8:08,California,Justice Sueing,Offensive Rebound,27,11
+7:54,California,Matt Bradley,Missed Jumper,27,11
+7:50,Seattle,Myles Carter,Defensive Rebound,27,11
+7:36,Seattle,Myles Carter,Layup,29,11
+7:15,California,Justice Sueing,Three Point Jumper,29,14
+6:55,Seattle,Morgan Means,Missed Three Point Jumper,29,14
+6:52,Seattle,Seattle,Offensive Rebound,29,14
+6:52,California,None,None,29,14
+6:45,Seattle,Myles Carter,Missed Jumper,29,14
+6:45,Seattle,Seattle,Offensive Rebound,29,14
+6:39,Seattle,Myles Carter,Jumper,31,14
+6:15,California,Darius McNeill,Three Point Jumper,31,17
+5:59,Seattle,Trey Hopkins,Missed Three Point Jumper,31,17
+5:56,California,Justice Sueing,Defensive Rebound,31,17
+5:54,Seattle,Myles Carter,Foul,31,17
+5:54,California,Justice Sueing,Free Throw,31,18
+5:54,California,Justice Sueing,Free Throw,31,19
+5:24,Seattle,Morgan Means,Turnover,31,19
+5:24,California,Jacobi Gordon,Steal,31,19
+5:12,California,Darius McNeill,Missed Layup,31,19
+5:12,Seattle,Myles Carter,Block,31,19
+5:07,Seattle,Morgan Means,Defensive Rebound,31,19
+4:58,Seattle,Terrell Brown,Missed Layup,31,19
+4:58,California,Andre Kelly,Block,31,19
+4:58,Seattle,Seattle,Offensive Rebound,31,19
+4:43,California,Justice Sueing,Foul,31,19
+4:43,Seattle,Myles Carter,Missed Free Throw,31,19
+4:43,Seattle,None,Team Rebound,31,19
+4:43,Seattle,Myles Carter,Missed Free Throw,31,19
+4:41,California,Andre Kelly,Defensive Rebound,31,19
+4:13,California,Darius McNeill,Layup,31,21
+3:57,Seattle,Terrell Brown,Missed Three Point Jumper,31,21
+3:56,Seattle,Seattle,Offensive Rebound,31,21
+3:56,California,Jacobi Gordon,Foul,31,21
+3:56,Seattle,Morgan Means,Free Throw,32,21
+3:56,Seattle,Morgan Means,Free Throw,33,21
+3:56,California,None,None,33,21
+3:44,Seattle,Aaron Nettles,Foul,33,21
+3:44,California,Paris Austin,Free Throw,33,22
+3:44,California,California ,Turnover,33,22
+3:34,Seattle,Delante Jones,Missed Layup,33,22
+3:34,California,Juhwan Harris-Dyson,Block,33,22
+3:32,California,Paris Austin,Defensive Rebound,33,22
+3:32,California,Paris Austin,Foul,33,22
+3:32,California,Paris Austin,Turnover,33,22
+3:14,Seattle,Delante Jones,Jumper,35,22
+2:39,Seattle,Terrell Brown,Foul,35,22
+2:39,California,Andre Kelly,Free Throw,35,23
+2:39,California,Andre Kelly,Missed Free Throw,35,23
+2:36,Seattle,Riley Grigsby,Defensive Rebound,35,23
+2:19,Seattle,Delante Jones,Three Point Jumper,38,23
+2:02,California,Darius McNeill,Three Point Jumper,38,26
+1:46,Seattle,Morgan Means,Turnover,38,26
+1:31,California,Juhwan Harris-Dyson,Dunk,38,28
+1:16,California,Darius McNeill,Foul,38,28
+1:16,Seattle,Morgan Means,Free Throw,39,28
+1:16,Seattle,Morgan Means,Free Throw,40,28
+1:03,Seattle,Aaron Nettles,Foul,40,28
+1:03,California,Matt Bradley,Missed Free Throw,40,28
+1:03,California,None,Team Rebound,40,28
+1:03,California,Matt Bradley,Free Throw,40,29
+1:02,Seattle,Mattia Da Campo,Turnover,40,29
+1:02,California,Juhwan Harris-Dyson,Steal,40,29
+0:57,California,Justice Sueing,Layup,40,31
+0:28,Seattle,Morgan Means,Missed Three Point Jumper,40,31
+0:24,Seattle,Myles Carter,Offensive Rebound,40,31
+0:22,Seattle,None,None,40,31
+0:10,Seattle,Morgan Means,Turnover,40,31
+0:10,California,Matt Bradley,Steal,40,31
+0:00,California,None,None,40,31
+19:46,Seattle,Myles Carter,Missed Jumper,40,31
+19:42,California,Andre Kelly,Defensive Rebound,40,31
+19:26,California,Darius McNeill,Layup,40,33
+19:07,Seattle,Delante Jones,Missed Jumper,40,33
+19:03,California,Paris Austin,Defensive Rebound,40,33
+19:00,California,Paris Austin,Layup,40,35
+18:48,California,Paris Austin,Foul,40,35
+18:37,Seattle,Myles Carter,Jumper,42,35
+18:18,California,Darius McNeill,Jumper,42,37
+18:00,Seattle,Delante Jones,Missed Three Point Jumper,42,37
+17:55,California,Darius McNeill,Defensive Rebound,42,37
+17:48,California,Paris Austin,Missed Layup,42,37
+17:45,Seattle,Myles Carter,Defensive Rebound,42,37
+17:42,California,Darius McNeill,Foul,42,37
+17:37,Seattle,Terrell Brown,Missed Layup,42,37
+17:35,Seattle,Terrell Brown,Offensive Rebound,42,37
+17:35,California,Andre Kelly,Foul,42,37
+17:35,Seattle,Terrell Brown,Missed Free Throw,42,37
+17:35,Seattle,None,Team Rebound,42,37
+17:35,Seattle,Terrell Brown,Free Throw,43,37
+17:19,California,Darius McNeill,Missed Three Point Jumper,43,37
+17:16,California,Andre Kelly,Offensive Rebound,43,37
+17:14,California,Andre Kelly,Turnover,43,37
+17:09,Seattle,Myles Carter,Dunk,45,37
+16:51,California,Justice Sueing,Layup,45,39
+16:51,Seattle,Delante Jones,Foul,45,39
+16:51,California,Justice Sueing,Free Throw,45,40
+16:35,Seattle,Morgan Means,Missed Three Point Jumper,45,40
+16:32,California,Andre Kelly,Defensive Rebound,45,40
+16:22,California,Justice Sueing,Missed Three Point Jumper,45,40
+16:18,California,Andre Kelly,Offensive Rebound,45,40
+15:55,California,Darius McNeill,Missed Three Point Jumper,45,40
+15:51,Seattle,Mattia Da Campo,Defensive Rebound,45,40
+15:37,Seattle,Terrell Brown,Missed Jumper,45,40
+15:34,California,Andre Kelly,Defensive Rebound,45,40
+15:11,California,Andre Kelly,Layup,45,42
+14:48,California,Andre Kelly,Foul,45,42
+14:48,California,None,None,45,42
+14:39,Seattle,Terrell Brown,Layup,47,42
+14:29,Seattle,Morgan Means,Foul,47,42
+14:19,California,Andre Kelly,Jumper,47,44
+14:00,Seattle,Myles Carter,Missed Jumper,47,44
+13:57,California,Paris Austin,Defensive Rebound,47,44
+13:51,California,Paris Austin,Layup,47,46
+13:32,Seattle,Morgan Means,Missed Layup,47,46
+13:29,California,Grant Anticevich,Defensive Rebound,47,46
+13:04,California,Paris Austin,Missed Layup,47,46
+13:03,California,Grant Anticevich,Offensive Rebound,47,46
+13:03,California,Grant Anticevich,Missed Layup,47,46
+13:03,California,Grant Anticevich,Offensive Rebound,47,46
+13:03,Seattle,None,None,47,46
+12:44,California,Paris Austin,Layup,47,48
+12:21,Seattle,Delante Jones,Missed Jumper,47,48
+12:19,Seattle,Myles Carter,Offensive Rebound,47,48
+12:19,Seattle,Myles Carter,Layup,49,48
+12:19,California,Andre Kelly,Foul,49,48
+12:19,Seattle,Myles Carter,Free Throw,50,48
+12:06,California,Grant Anticevich,Missed Three Point Jumper,50,48
+12:04,California,Juhwan Harris-Dyson,Offensive Rebound,50,48
+11:59,California,Justice Sueing,Missed Jumper,50,48
+11:57,Seattle,Myles Carter,Defensive Rebound,50,48
+11:35,Seattle,Morgan Means,Missed Jumper,50,48
+11:32,California,Paris Austin,Defensive Rebound,50,48
+11:18,California,Paris Austin,Turnover,50,48
+11:18,Seattle,Mattia Da Campo,Steal,50,48
+11:11,Seattle,Morgan Means,Missed Layup,50,48
+11:10,Seattle,Morgan Means,Offensive Rebound,50,48
+11:10,Seattle,None,None,50,48
+11:02,Seattle,Delante Jones,Missed Layup,50,48
+11:02,California,Justice Sueing,Defensive Rebound,50,48
+11:02,Seattle,Mattia Da Campo,Foul,50,48
+10:48,Seattle,Mattia Da Campo,Foul,50,48
+10:48,California,Juhwan Harris-Dyson,Turnover,50,48
+10:43,California,Justice Sueing,Foul,50,48
+10:31,California,Justice Sueing,Defensive Rebound,50,48
+10:22,California,Justice Sueing,Missed Layup,50,48
+10:19,Seattle,Delante Jones,Defensive Rebound,50,48
+10:05,Seattle,Morgan Means,Missed Jumper,50,48
+10:02,California,Juhwan Harris-Dyson,Defensive Rebound,50,48
+9:45,California,Grant Anticevich,Three Point Jumper,50,51
+9:32,Seattle,Terrell Brown,Missed Jumper,50,51
+9:30,California,Juhwan Harris-Dyson,Defensive Rebound,50,51
+9:23,California,Juhwan Harris-Dyson,Missed Layup,50,51
+9:20,Seattle,Morgan Means,Defensive Rebound,50,51
+9:03,Seattle,Delante Jones,Missed Layup,50,51
+8:58,Seattle,Terrell Brown,Offensive Rebound,50,51
+8:58,Seattle,Terrell Brown,Layup,52,51
+8:43,California,Darius McNeill,Missed Jumper,52,51
+8:38,Seattle,Myles Carter,Defensive Rebound,52,51
+8:27,California,Darius McNeill,Foul,52,51
+8:27,Seattle,Morgan Means,Free Throw,53,51
+8:27,Seattle,Morgan Means,Free Throw,54,51
+8:13,California,Paris Austin,Missed Jumper,54,51
+8:13,California,California,Offensive Rebound,54,51
+8:13,Seattle,Delante Jones,Foul,54,51
+8:04,Seattle,Morgan Means,Foul,54,51
+7:50,California,Juhwan Harris-Dyson,Missed Jumper,54,51
+7:45,Seattle,Terrell Brown,Defensive Rebound,54,51
+7:14,Seattle,Myles Carter,Jumper,56,51
+6:58,Seattle,Myles Carter,Foul,56,51
+6:58,California,None,None,56,51
+6:58,California,Paris Austin,Free Throw,56,52
+6:58,California,Paris Austin,Free Throw,56,53
+6:43,Seattle,Myles Carter,Turnover,56,53
+6:29,California,Matt Bradley,Turnover,56,53
+6:29,Seattle,Mattia Da Campo,Steal,56,53
+6:16,Seattle,Myles Carter,Foul,56,53
+6:16,Seattle,Myles Carter,Turnover,56,53
+5:57,Seattle,Terrell Brown,Foul,56,53
+5:57,California,Paris Austin,Missed Free Throw,56,53
+5:55,Seattle,Delante Jones,Defensive Rebound,56,53
+5:38,Seattle,Myles Carter,Missed Layup,56,53
+5:38,California,Andre Kelly,Block,56,53
+5:31,Seattle,Myles Carter,Offensive Rebound,56,53
+5:28,Seattle,Myles Carter,Missed Jumper,56,53
+5:24,California,Juhwan Harris-Dyson,Defensive Rebound,56,53
+5:13,California,Paris Austin,Turnover,56,53
+4:58,Seattle,Morgan Means,Missed Jumper,56,53
+4:58,California,Andre Kelly,Block,56,53
+4:52,Seattle,Morgan Means,Offensive Rebound,56,53
+4:50,Seattle,Delante Jones,Three Point Jumper,59,53
+4:31,California,Darius McNeill,Missed Three Point Jumper,59,53
+4:28,California,Andre Kelly,Offensive Rebound,59,53
+4:20,California,Paris Austin,Jumper,59,55
+3:59,Seattle,Myles Carter,Layup,61,55
+3:36,California,Andre Kelly,Missed Layup,61,55
+3:33,Seattle,Terrell Brown,Defensive Rebound,61,55
+3:30,California,Andre Kelly,Foul,61,55
+3:30,California,None,None,61,55
+3:30,Seattle,Myles Carter,Free Throw,62,55
+3:30,Seattle,Myles Carter,Free Throw,63,55
+3:04,Seattle,Myles Carter,Foul,63,55
+3:04,California,Darius McNeill,Free Throw,63,56
+3:04,California,Darius McNeill,Missed Free Throw,63,56
+3:02,Seattle,Terrell Brown,Defensive Rebound,63,56
+2:44,Seattle,Delante Jones,Jumper,65,56
+2:24,California,Juhwan Harris-Dyson,Turnover,65,56
+2:24,Seattle,Terrell Brown,Steal,65,56
+2:18,Seattle,Morgan Means,Layup,67,56
+2:16,California,None,None,67,56
+1:49,Seattle,Morgan Means,Foul,67,56
+1:49,California,Darius McNeill,Free Throw,67,57
+1:49,California,Darius McNeill,Free Throw,67,58
+1:36,California,Matt Bradley,Foul,67,58
+1:36,Seattle,Morgan Means,Free Throw,68,58
+1:36,Seattle,Morgan Means,Free Throw,69,58
+1:31,California,Paris Austin,Layup,69,60
+1:31,Seattle,Terrell Brown,Foul,69,60
+1:31,California,Paris Austin,Free Throw,69,61
+1:24,Seattle,Delante Jones,Turnover,69,61
+1:12,California,Andre Kelly,Missed Layup,69,61
+1:11,California,Andre Kelly,Offensive Rebound,69,61
+1:11,Seattle,Mattia Da Campo,Foul,69,61
+1:11,California,Andre Kelly,Free Throw,69,62
+1:11,California,Andre Kelly,Free Throw,69,63
+1:09,California,Juhwan Harris-Dyson,Foul,69,63
+1:09,Seattle,Morgan Means,Free Throw,70,63
+1:09,Seattle,Morgan Means,Free Throw,71,63
+0:58,California,None,None,71,63
+0:57,California,Darius McNeill,Layup,71,65
+0:55,California,Andre Kelly,Foul,71,65
+0:55,Seattle,Morgan Means,Free Throw,72,65
+0:55,Seattle,Morgan Means,Free Throw,73,65
+0:45,Seattle,Terrell Brown,Foul,73,65
+0:45,California,Matt Bradley,Missed Free Throw,73,65
+0:45,California,None,Team Rebound,73,65
+0:45,California,Matt Bradley,Free Throw,73,66
+0:45,Seattle,None,None,73,66
+0:45,California,Paris Austin,Missed Layup,73,66
+0:45,California,Matt Bradley,Offensive Rebound,73,66
+0:44,California,Jacobi Gordon,Foul,73,66
+0:44,Seattle,Myles Carter,Missed Free Throw,73,66
+0:44,Seattle,None,Team Rebound,73,66
+0:44,Seattle,Myles Carter,Free Throw,74,66
+0:37,California,Justice Sueing,Missed Three Point Jumper,74,66
+0:33,Seattle,Morgan Means,Defensive Rebound,74,66
+0:33,California,Matt Bradley,Foul,74,66
+0:33,Seattle,Morgan Means,Free Throw,75,66
+0:33,Seattle,Morgan Means,Free Throw,76,66
+0:28,Seattle,Trey Hopkins,Foul,76,66
+0:28,California,Paris Austin,Free Throw,76,67
+0:28,California,Paris Austin,Free Throw,76,68
+0:26,California,Matt Bradley,Foul,76,68
+0:26,Seattle,Aaron Nettles,Missed Free Throw,76,68
+0:26,Seattle,None,Team Rebound,76,68
+0:26,Seattle,Aaron Nettles,Missed Free Throw,76,68
+0:26,California,Paris Austin,Defensive Rebound,76,68
+0:26,Seattle,Aaron Nettles,Foul,76,68
+0:26,California,Paris Austin,Free Throw,76,69
+0:26,California,Paris Austin,Free Throw,76,70
+0:26,California,None,None,76,70
+0:25,California,Justice Sueing,Foul,76,70
+0:25,Seattle,Aaron Nettles,Free Throw,77,70
+0:18,Seattle,Aaron Nettles,Free Throw,78,70
+0:18,California,Justice Sueing,Missed Three Point Jumper,78,70
+0:18,Seattle,Trey Hopkins,Defensive Rebound,78,70
+0:18,California,Matt Bradley,Foul,78,70
+0:18,Seattle,Aaron Nettles,Free Throw,79,70
+0:18,Seattle,Aaron Nettles,Free Throw,80,70
+0:14,California,Darius McNeill,Missed Three Point Jumper,80,70
+0:11,Seattle,Delante Jones,Defensive Rebound,80,70
+0:11,California,Matt Bradley,Foul,80,70
+0:11,Seattle,Delante Jones,Free Throw,81,70
+0:11,Seattle,Delante Jones,Free Throw,82,70
+0:04,California,Jacobi Gordon,Three Point Jumper,82,73
+0:00,California,None,None,82,73
+0:00,California,None,None,82,73

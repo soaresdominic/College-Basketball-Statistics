@@ -1,0 +1,352 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Purdue,None,None,0,0
+19:47,Purdue,Carsen Edwards,Missed Three Point Jumper,0,0
+19:47,Purdue,Evan Boudreaux,Offensive Rebound,0,0
+19:39,Purdue,Ryan Cline,Missed Three Point Jumper,0,0
+19:39,Purdue,Evan Boudreaux,Offensive Rebound,0,0
+19:21,Purdue,Nojel Eastern,Jumper,2,0
+19:08,Michigan State,Nick Ward,Missed Layup,2,0
+19:08,Michigan State,Kenny Goins,Offensive Rebound,2,0
+19:04,Michigan State,Nick Ward,Missed Layup,2,0
+19:04,Purdue,Grady Eifert,Defensive Rebound,2,0
+18:51,Purdue,Carsen Edwards,Layup,4,0
+18:36,Michigan State,Kyle Ahrens,Layup,4,2
+18:21,Purdue,Evan Boudreaux,Layup,6,2
+18:09,Michigan State,Matt McQuaid,Turnover,6,2
+17:48,Purdue,Grady Eifert,Turnover,6,2
+17:48,Michigan State,Kenny Goins,Steal,6,2
+17:36,Michigan State,Xavier Tillman,Foul,6,2
+17:36,Michigan State,Xavier Tillman,Turnover,6,2
+17:11,Purdue,Carsen Edwards,Missed Three Point Jumper,6,2
+17:11,Michigan State,Kenny Goins,Defensive Rebound,6,2
+17:01,Michigan State,Kyle Ahrens,Turnover,6,2
+17:01,Purdue,Grady Eifert,Steal,6,2
+16:57,Purdue,Ryan Cline,Three Point Jumper,9,2
+16:32,Michigan State,Matt McQuaid,Foul,9,2
+16:32,Michigan State,Matt McQuaid,Turnover,9,2
+16:22,Purdue,Matt Haarms,Missed Layup,9,2
+16:22,Michigan State,Nick Ward,Block,9,2
+16:22,Purdue,Grady Eifert,Offensive Rebound,9,2
+16:14,Purdue,Carsen Edwards,Turnover,9,2
+16:14,Michigan State,Cassius Winston,Steal,9,2
+16:08,Michigan State,Aaron Henry,Dunk,9,4
+15:42,Purdue,Matt Haarms,Missed Jumper,9,4
+15:42,Michigan State,Kyle Ahrens,Defensive Rebound,9,4
+15:33,Purdue,Matt Haarms,Foul,9,4
+15:33,Michigan State,None,None,9,4
+15:33,Michigan State,Nick Ward,Free Throw,9,5
+15:33,Michigan State,Nick Ward,Free Throw,9,6
+15:19,Purdue,Ryan Cline,Missed Three Point Jumper,9,6
+15:19,Michigan State,Kenny Goins,Defensive Rebound,9,6
+14:56,Purdue,Eric Hunter Jr.,Foul,9,6
+14:49,Michigan State,Nick Ward,Missed Layup,9,6
+14:49,Purdue,Aaron Wheeler,Defensive Rebound,9,6
+14:41,Purdue,Aaron Wheeler,Missed Three Point Jumper,9,6
+14:41,Michigan State,Kenny Goins,Defensive Rebound,9,6
+14:31,Michigan State,Cassius Winston,Missed Layup,9,6
+14:31,Purdue,Matt Haarms,Block,9,6
+14:31,Michigan State,Michigan State,Offensive Rebound,9,6
+14:23,Michigan State,Xavier Tillman,Missed Three Point Jumper,9,6
+14:23,Purdue,Ryan Cline,Defensive Rebound,9,6
+14:08,Purdue,Nojel Eastern,Turnover,9,6
+14:08,Michigan State,Aaron Henry,Steal,9,6
+13:59,Michigan State,Nick Ward,Dunk,9,8
+13:37,Purdue,Ryan Cline,Missed Three Point Jumper,9,8
+13:37,Purdue,Aaron Wheeler,Offensive Rebound,9,8
+13:27,Purdue,Carsen Edwards,Three Point Jumper,12,8
+12:55,Michigan State,Aaron Henry,Missed Three Point Jumper,12,8
+12:55,Purdue,Aaron Wheeler,Defensive Rebound,12,8
+12:41,Purdue,Carsen Edwards,Missed Layup,12,8
+12:41,Michigan State,Nick Ward,Defensive Rebound,12,8
+12:36,Michigan State,Cassius Winston,Turnover,12,8
+12:36,Purdue,Aaron Wheeler,Steal,12,8
+12:14,Purdue,Matt Haarms,Missed Layup,12,8
+12:14,Michigan State,Nick Ward,Defensive Rebound,12,8
+12:14,Purdue,Matt Haarms,Foul,12,8
+12:00,Michigan State,Matt McQuaid,Missed Three Point Jumper,12,8
+12:00,Michigan State,Xavier Tillman,Offensive Rebound,12,8
+11:53,Michigan State,Xavier Tillman,Layup,12,10
+11:29,Purdue,Trevion Williams,Missed Layup,12,10
+11:29,Purdue,Trevion Williams,Offensive Rebound,12,10
+11:24,Purdue,Trevion Williams,Dunk,14,10
+11:10,Michigan State,Kyle Ahrens,Layup,14,12
+10:43,Purdue,Nojel Eastern,Missed Layup,14,12
+10:43,Michigan State,Kenny Goins,Block,14,12
+10:43,Purdue,Trevion Williams,Offensive Rebound,14,12
+10:36,Purdue,Trevion Williams,Layup,16,12
+10:31,Michigan State,Xavier Tillman,Layup,16,14
+10:16,Purdue,Aaron Wheeler,Missed Three Point Jumper,16,14
+10:16,Michigan State,Kyle Ahrens,Defensive Rebound,16,14
+10:07,Michigan State,Matt McQuaid,Three Point Jumper,16,17
+9:43,Purdue,Carsen Edwards,Foul,16,17
+9:43,Purdue,Carsen Edwards,Turnover,16,17
+9:42,Michigan State,None,None,16,17
+9:17,Michigan State,Matt McQuaid,Missed Jumper,16,17
+9:17,Michigan State,Xavier Tillman,Offensive Rebound,16,17
+8:52,Michigan State,Kenny Goins,Three Point Jumper,16,20
+8:31,Purdue,Sasha Stefanovic,Missed Three Point Jumper,16,20
+8:31,Michigan State,Michigan State,Defensive Rebound,16,20
+8:02,Michigan State,Cassius Winston,Missed Three Point Jumper,16,20
+8:02,Michigan State,Michigan State,Offensive Rebound,16,20
+7:57,Michigan State,None,None,16,20
+7:31,Michigan State,Gabe Brown,Three Point Jumper,16,23
+7:10,Michigan State,Kyle Ahrens,Foul,16,23
+7:06,Purdue,Carsen Edwards,Missed Three Point Jumper,16,23
+7:06,Purdue,Grady Eifert,Offensive Rebound,16,23
+7:02,Purdue,Grady Eifert,Missed Layup,16,23
+7:02,Michigan State,Gabe Brown,Defensive Rebound,16,23
+6:45,Michigan State,Kenny Goins,Foul,16,23
+6:45,Michigan State,Kenny Goins,Turnover,16,23
+6:35,Purdue,Ryan Cline,Missed Jumper,16,23
+6:35,Michigan State,Nick Ward,Block,16,23
+6:35,Purdue,Purdue,Offensive Rebound,16,23
+6:28,Purdue,Nojel Eastern,Missed Jumper,16,23
+6:28,Michigan State,Nick Ward,Defensive Rebound,16,23
+6:16,Michigan State,Nick Ward,Missed Jumper,16,23
+6:16,Purdue,Nojel Eastern,Defensive Rebound,16,23
+6:03,Purdue,Evan Boudreaux,Missed Jumper,16,23
+6:03,Michigan State,Nick Ward,Block,16,23
+6:03,Purdue,Ryan Cline,Offensive Rebound,16,23
+5:50,Purdue,Ryan Cline,Three Point Jumper,19,23
+5:41,Michigan State,Xavier Tillman,Missed Three Point Jumper,19,23
+5:41,Michigan State,Nick Ward,Offensive Rebound,19,23
+5:35,Michigan State,None,None,19,23
+5:34,Michigan State,Cassius Winston,Missed Three Point Jumper,19,23
+5:34,Michigan State,Kyle Ahrens,Offensive Rebound,19,23
+5:22,Michigan State,Kyle Ahrens,Missed Three Point Jumper,19,23
+5:22,Michigan State,Matt McQuaid,Offensive Rebound,19,23
+5:22,Michigan State,Matt McQuaid,Missed Jumper,19,23
+5:22,Michigan State,Xavier Tillman,Offensive Rebound,19,23
+5:16,Michigan State,Nick Ward,Jumper,19,25
+4:51,Purdue,Nojel Eastern,Layup,21,25
+4:42,Michigan State,Xavier Tillman,Layup,21,27
+4:24,Purdue,Evan Boudreaux,Three Point Jumper,24,27
+4:07,Michigan State,Nick Ward,Turnover,24,27
+4:07,Purdue,Evan Boudreaux,Steal,24,27
+4:00,Purdue,Aaron Wheeler,Missed Three Point Jumper,24,27
+4:00,Michigan State,Nick Ward,Defensive Rebound,24,27
+3:54,Michigan State,Cassius Winston,Three Point Jumper,24,30
+3:20,Purdue,Evan Boudreaux,Missed Layup,24,30
+3:20,Michigan State,Nick Ward,Defensive Rebound,24,30
+3:13,Michigan State,Cassius Winston,Layup,24,32
+3:11,Purdue,None,None,24,32
+2:55,Purdue,Nojel Eastern,Turnover,24,32
+2:32,Michigan State,Xavier Tillman,Missed Layup,24,32
+2:32,Michigan State,Michigan State,Offensive Rebound,24,32
+2:16,Michigan State,Kenny Goins,Missed Layup,24,32
+2:16,Michigan State,Kenny Goins,Offensive Rebound,24,32
+2:10,Michigan State,Matt McQuaid,Three Point Jumper,24,35
+1:46,Purdue,Carsen Edwards,Missed Three Point Jumper,24,35
+1:46,Michigan State,Aaron Henry,Defensive Rebound,24,35
+1:39,Michigan State,Matt McQuaid,Missed Three Point Jumper,24,35
+1:39,Purdue,Nojel Eastern,Defensive Rebound,24,35
+1:29,Michigan State,Aaron Henry,Foul,24,35
+1:29,Purdue,Nojel Eastern,Missed Free Throw,24,35
+1:29,Purdue,None,Team Rebound,24,35
+1:29,Purdue,Nojel Eastern,Missed Free Throw,24,35
+1:25,Purdue,Trevion Williams,Offensive Rebound,24,35
+1:24,Purdue,Trevion Williams,Missed Layup,24,35
+1:23,Michigan State,Kenny Goins,Block,24,35
+1:16,Michigan State,Aaron Henry,Defensive Rebound,24,35
+1:02,Purdue,Nojel Eastern,Foul,24,35
+1:02,Michigan State,Cassius Winston,Missed Free Throw,24,35
+1:02,Michigan State,None,Team Rebound,24,35
+1:02,Michigan State,Cassius Winston,Free Throw,24,36
+1:02,Michigan State,Cassius Winston,Free Throw,24,37
+0:38,Purdue,Carsen Edwards,Missed Three Point Jumper,24,37
+0:37,Purdue,Trevion Williams,Offensive Rebound,24,37
+0:36,Michigan State,Nick Ward,Foul,24,37
+0:25,Purdue,Trevion Williams,Jumper,26,37
+0:17,Michigan State,None,None,26,37
+0:01,Purdue,Nojel Eastern,Foul,26,37
+0:01,Michigan State,Cassius Winston,Free Throw,26,38
+0:01,Michigan State,Cassius Winston,Free Throw,26,39
+0:00,Michigan State,None,None,26,39
+20:00,Purdue,None,None,26,39
+19:39,Purdue,Ryan Cline,Three Point Jumper,29,39
+19:28,Michigan State,Cassius Winston,Turnover,29,39
+19:28,Purdue,Ryan Cline,Steal,29,39
+19:27,Michigan State,Nick Ward,Foul,29,39
+19:13,Purdue,Matt Haarms,Layup,31,39
+19:04,Michigan State,Kyle Ahrens,Missed Three Point Jumper,31,39
+19:04,Michigan State,Kenny Goins,Offensive Rebound,31,39
+19:00,Michigan State,Cassius Winston,Three Point Jumper,31,42
+18:34,Purdue,Nojel Eastern,Missed Layup,31,42
+18:34,Michigan State,Kenny Goins,Defensive Rebound,31,42
+18:17,Michigan State,Cassius Winston,Missed Three Point Jumper,31,42
+18:17,Purdue,Grady Eifert,Defensive Rebound,31,42
+18:15,Michigan State,Matt McQuaid,Foul,31,42
+18:05,Purdue,Carsen Edwards,Missed Three Point Jumper,31,42
+18:05,Michigan State,Cassius Winston,Defensive Rebound,31,42
+17:55,Purdue,Matt Haarms,Foul,31,42
+17:53,Michigan State,Cassius Winston,Foul,31,42
+17:53,Michigan State,Cassius Winston,Turnover,31,42
+17:44,Purdue,Sasha Stefanovic,Missed Three Point Jumper,31,42
+17:44,Michigan State,Kenny Goins,Defensive Rebound,31,42
+17:30,Purdue,Sasha Stefanovic,Foul,31,42
+17:30,Michigan State,Nick Ward,Free Throw,31,43
+17:30,Michigan State,Nick Ward,Free Throw,31,44
+17:21,Michigan State,Kenny Goins,Foul,31,44
+17:21,Purdue,Trevion Williams,Missed Free Throw,31,44
+17:21,Purdue,None,Team Rebound,31,44
+17:21,Purdue,Trevion Williams,Free Throw,32,44
+16:55,Michigan State,Kenny Goins,Missed Three Point Jumper,32,44
+16:55,Purdue,Trevion Williams,Defensive Rebound,32,44
+16:52,Purdue,Trevion Williams,Turnover,32,44
+16:41,Michigan State,Xavier Tillman,Missed Jumper,32,44
+16:41,Purdue,Grady Eifert,Defensive Rebound,32,44
+16:27,Purdue,Trevion Williams,Jumper,34,44
+16:21,Purdue,Sasha Stefanovic,Foul,34,44
+16:19,Michigan State,Cassius Winston,Missed Jumper,34,44
+16:19,Michigan State,Cassius Winston,Offensive Rebound,34,44
+16:15,Michigan State,Matt McQuaid,Three Point Jumper,34,47
+15:50,Purdue,Trevion Williams,Missed Layup,34,47
+15:50,Michigan State,Kenny Goins,Block,34,47
+15:40,Purdue,Trevion Williams,Offensive Rebound,34,47
+15:40,Purdue,Grady Eifert,Layup,36,47
+15:40,Purdue,Grady Eifert,Foul,36,47
+15:40,Michigan State,None,None,36,47
+15:22,Michigan State,Kenny Goins,Missed Three Point Jumper,36,47
+15:22,Michigan State,Xavier Tillman,Offensive Rebound,36,47
+15:14,Michigan State,Cassius Winston,Three Point Jumper,36,50
+14:49,Purdue,Carsen Edwards,Missed Jumper,36,50
+14:49,Purdue,Nojel Eastern,Offensive Rebound,36,50
+14:44,Purdue,Nojel Eastern,Layup,38,50
+14:39,Michigan State,Kenny Goins,Missed Three Point Jumper,38,50
+14:39,Purdue,Trevion Williams,Defensive Rebound,38,50
+14:26,Purdue,Nojel Eastern,Missed Jumper,38,50
+14:26,Purdue,Trevion Williams,Offensive Rebound,38,50
+14:22,Purdue,Trevion Williams,Layup,40,50
+14:08,Michigan State,Kyle Ahrens,Missed Three Point Jumper,40,50
+14:08,Purdue,Trevion Williams,Defensive Rebound,40,50
+13:56,Purdue,Carsen Edwards,Missed Three Point Jumper,40,50
+13:56,Purdue,Grady Eifert,Offensive Rebound,40,50
+13:41,Michigan State,Xavier Tillman,Foul,40,50
+13:27,Purdue,Ryan Cline,Missed Three Point Jumper,40,50
+13:27,Purdue,Matt Haarms,Offensive Rebound,40,50
+13:23,Michigan State,Xavier Tillman,Foul,40,50
+13:23,Purdue,Carsen Edwards,Missed Three Point Jumper,40,50
+13:23,Purdue,Matt Haarms,Offensive Rebound,40,50
+13:16,Purdue,Ryan Cline,Three Point Jumper,43,50
+12:54,Purdue,Matt Haarms,Foul,43,50
+12:34,Michigan State,Kyle Ahrens,Missed Three Point Jumper,43,50
+12:34,Michigan State,Michigan State,Offensive Rebound,43,50
+12:33,Michigan State,Michigan State ,Turnover,43,50
+12:20,Purdue,Aaron Wheeler,Missed Three Point Jumper,43,50
+12:20,Michigan State,Cassius Winston,Defensive Rebound,43,50
+12:10,Michigan State,Nick Ward,Layup,43,52
+11:56,Michigan State,Matt McQuaid,Foul,43,52
+11:56,Michigan State,None,None,43,52
+11:56,Purdue,Carsen Edwards,Free Throw,44,52
+11:56,Purdue,Carsen Edwards,Free Throw,45,52
+11:35,Michigan State,Nick Ward,Missed Layup,45,52
+11:35,Purdue,Trevion Williams,Block,45,52
+11:35,Purdue,Trevion Williams,Defensive Rebound,45,52
+11:29,Purdue,Carsen Edwards,Three Point Jumper,48,52
+11:17,Purdue,Trevion Williams,Foul,48,52
+11:17,Michigan State,Nick Ward,Foul,48,52
+11:05,Purdue,Eric Hunter Jr.,Foul,48,52
+11:05,Michigan State,Cassius Winston,Missed Free Throw,48,52
+11:05,Michigan State,None,Team Rebound,48,52
+11:05,Michigan State,Cassius Winston,Free Throw,48,53
+10:48,Purdue,Carsen Edwards,Turnover,48,53
+10:21,Michigan State,Aaron Henry,Jumper,48,55
+10:04,Purdue,Carsen Edwards,Turnover,48,55
+10:04,Michigan State,Kenny Goins,Steal,48,55
+9:59,Michigan State,Cassius Winston,Layup,48,57
+9:55,Purdue,None,None,48,57
+9:42,Michigan State,Kenny Goins,Foul,48,57
+9:42,Purdue,Grady Eifert,Free Throw,49,57
+9:42,Purdue,Grady Eifert,Free Throw,50,57
+9:34,Michigan State,Xavier Tillman,Layup,50,59
+9:05,Michigan State,Cassius Winston,Foul,50,59
+9:05,Purdue,Nojel Eastern,Free Throw,51,59
+9:05,Purdue,Nojel Eastern,Missed Free Throw,51,59
+9:05,Purdue,Trevion Williams,Offensive Rebound,51,59
+8:44,Purdue,Grady Eifert,Turnover,51,59
+8:44,Michigan State,Xavier Tillman,Steal,51,59
+8:37,Purdue,Trevion Williams,Foul,51,59
+8:37,Michigan State,Xavier Tillman,Free Throw,51,60
+8:37,Michigan State,Xavier Tillman,Missed Free Throw,51,60
+8:37,Purdue,Nojel Eastern,Defensive Rebound,51,60
+8:13,Purdue,Ryan Cline,Missed Jumper,51,60
+8:13,Michigan State,Cassius Winston,Defensive Rebound,51,60
+7:43,Michigan State,Cassius Winston,Turnover,51,60
+7:43,Purdue,Trevion Williams,Steal,51,60
+7:38,Michigan State,Xavier Tillman,Foul,51,60
+7:38,Michigan State,None,None,51,60
+7:38,Purdue,Grady Eifert,Free Throw,52,60
+7:38,Purdue,Grady Eifert,Free Throw,53,60
+7:26,Purdue,Trevion Williams,Foul,53,60
+7:26,Michigan State,Nick Ward,Free Throw,53,61
+7:26,Michigan State,Nick Ward,Free Throw,53,62
+7:13,Purdue,Ryan Cline,Missed Three Point Jumper,53,62
+7:13,Michigan State,Cassius Winston,Defensive Rebound,53,62
+6:49,Michigan State,Aaron Henry,Missed Jumper,53,62
+6:49,Michigan State,Nick Ward,Offensive Rebound,53,62
+6:49,Michigan State,None,None,53,64
+6:27,Purdue,Trevion Williams,Jumper,55,64
+6:17,Michigan State,Nick Ward,Turnover,55,64
+6:17,Purdue,Grady Eifert,Steal,55,64
+6:10,Michigan State,Aaron Henry,Foul,55,64
+6:10,Purdue,Carsen Edwards,Missed Free Throw,55,64
+6:10,Purdue,None,Team Rebound,55,64
+6:10,Purdue,Carsen Edwards,Free Throw,56,64
+6:03,Michigan State,Kenny Goins,Jumper,56,66
+5:48,Purdue,Grady Eifert,Missed Three Point Jumper,56,66
+5:48,Purdue,Matt Haarms,Offensive Rebound,56,66
+5:45,Michigan State,FlagrantFoul,Foul,56,66
+5:45,Purdue,Matt Haarms,Free Throw,57,66
+5:45,Purdue,Matt Haarms,Missed Free Throw,57,66
+5:45,Purdue,None,Team Rebound,57,66
+5:44,Michigan State,Aaron Henry,Foul,57,66
+5:44,Purdue,Matt Haarms,Free Throw,58,66
+5:44,Purdue,Matt Haarms,Missed Free Throw,58,66
+5:44,Michigan State,Xavier Tillman,Defensive Rebound,58,66
+5:43,Purdue,Grady Eifert,Foul,58,66
+5:43,Michigan State,Xavier Tillman,Free Throw,58,67
+5:43,Michigan State,Xavier Tillman,Free Throw,58,68
+5:23,Purdue,Nojel Eastern,Missed Jumper,58,68
+5:23,Michigan State,Michigan State,Defensive Rebound,58,68
+4:55,Michigan State,Cassius Winston,Three Point Jumper,58,71
+4:29,Purdue,Ryan Cline,Missed Three Point Jumper,58,71
+4:29,Michigan State,Michigan State,Defensive Rebound,58,71
+4:03,Michigan State,Cassius Winston,Turnover,58,71
+3:54,Purdue,Carsen Edwards,Missed Three Point Jumper,58,71
+3:54,Michigan State,Aaron Henry,Defensive Rebound,58,71
+3:29,Michigan State,Cassius Winston,Missed Jumper,58,71
+3:29,Michigan State,Nick Ward,Offensive Rebound,58,71
+3:25,Michigan State,Nick Ward,Layup,58,73
+3:07,Purdue,Carsen Edwards,Missed Three Point Jumper,58,73
+3:07,Michigan State,Cassius Winston,Defensive Rebound,58,73
+2:47,Michigan State,Cassius Winston,Layup,58,75
+2:43,Purdue,None,None,58,75
+2:34,Purdue,Trevion Williams,Missed Jumper,58,75
+2:34,Michigan State,Kenny Goins,Defensive Rebound,58,75
+2:13,Michigan State,Cassius Winston,Missed Jumper,58,75
+2:13,Purdue,Trevion Williams,Defensive Rebound,58,75
+2:06,Purdue,Carsen Edwards,Missed Three Point Jumper,58,75
+2:06,Michigan State,Nick Ward,Defensive Rebound,58,75
+1:36,Michigan State,Matt McQuaid,Missed Three Point Jumper,58,75
+1:36,Michigan State,Kenny Goins,Offensive Rebound,58,75
+1:28,Purdue,Eric Hunter Jr.,Foul,58,75
+1:28,Michigan State,Kenny Goins,Free Throw,58,76
+1:28,Michigan State,Kenny Goins,Free Throw,58,77
+1:10,Purdue,Nojel Eastern,Missed Layup,58,77
+1:10,Michigan State,Aaron Henry,Block,58,77
+1:10,Michigan State,Kenny Goins,Defensive Rebound,58,77
+1:01,Michigan State,None,None,58,77
+0:47,Michigan State,Thomas Kithier,Foul,58,77
+0:47,Michigan State,Thomas Kithier,Turnover,58,77
+0:47,Purdue,Aaron Wheeler,Steal,58,77
+0:47,Purdue,Aaron Wheeler,Missed Free Throw,58,77
+0:47,Purdue,None,Team Rebound,58,77
+0:47,Purdue,Aaron Wheeler,Free Throw,59,77
+0:32,Michigan State,Marcus Bingham Jr.,Missed Three Point Jumper,59,77
+0:32,Purdue,Sasha Stefanovic,Defensive Rebound,59,77
+0:18,Michigan State,Marcus Bingham Jr.,Foul,59,77
+0:18,Purdue,Nojel Eastern,Missed Free Throw,59,77
+0:18,Purdue,None,Team Rebound,59,77
+0:18,Purdue,Nojel Eastern,Missed Free Throw,59,77
+0:18,Michigan State,Conner George,Defensive Rebound,59,77
+0:00,Michigan State,None,None,59,77

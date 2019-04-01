@@ -1,0 +1,360 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:43,UMass,Luwane Pipkins,Layup,0,2
+19:23,UMass Lowell,Obadiah Noel,Missed Jumper,0,2
+19:23,UMass,Rashaan Holloway,Defensive Rebound,0,2
+19:14,UMass Lowell,Connor Bennett,Foul,0,2
+18:50,UMass,Curtis Cobb,Missed Jumper,0,2
+18:50,UMass Lowell,None,Team Rebound,0,2
+18:35,UMass Lowell,Connor Bennett,Jumper,2,2
+18:24,UMass,Luwane Pipkins,Missed Three Point Jumper,2,2
+18:24,UMass,Rashaan Holloway,Offensive Rebound,2,2
+18:14,UMass,Jonathan Laurent,Jumper,2,4
+18:07,UMass,Luwane Pipkins,Foul,2,4
+17:52,UMass Lowell,Ryan Jones,Missed Jumper,2,4
+17:52,UMass,Curtis Cobb,Defensive Rebound,2,4
+17:37,UMass,Rashaan Holloway,Turnover,2,4
+17:33,UMass Lowell,Ryan Jones,Steal,2,4
+17:24,UMass Lowell,Obadiah Noel,Jumper,4,4
+17:10,UMass,Rashaan Holloway,Layup,4,6
+17:10,UMass Lowell,Connor Bennett,Foul,4,6
+17:10,UMass,Rashaan Holloway,Missed Free Throw,4,6
+17:10,UMass Lowell,Josh Gantz,Defensive Rebound,4,6
+17:03,UMass Lowell,Christian Lutete,Missed Three Point Jumper,4,6
+17:03,UMass Lowell,UMass Lowell,Offensive Rebound,4,6
+16:54,UMass Lowell,Christian Lutete,Missed Three Point Jumper,4,6
+16:54,UMass,Rashaan Holloway,Defensive Rebound,4,6
+16:36,UMass,Curtis Cobb,Missed Three Point Jumper,4,6
+16:36,UMass,None,Team Rebound,4,6
+16:34,UMass Lowell,Christian Lutete,Foul,4,6
+16:27,UMass,Keon Clergeot,Turnover,4,6
+16:25,UMass Lowell,Josh Gantz,Steal,4,6
+16:18,UMass Lowell,Josh Gantz,Missed Layup,4,6
+16:18,UMass,Jonathan Laurent,Defensive Rebound,4,6
+16:10,UMass,Carl Pierre,Three Point Jumper,4,9
+15:54,UMass Lowell,Josh Gantz,Three Point Jumper,7,9
+15:39,UMass,Carl Pierre,Missed Jumper,7,9
+15:39,UMass Lowell,UMass Lowell,Defensive Rebound,7,9
+15:30,UMass,None,None,7,9
+15:14,UMass Lowell,Joey Glynn,Missed Jumper,7,9
+15:14,UMass Lowell,Joey Glynn,Offensive Rebound,7,9
+15:08,UMass Lowell,Joey Glynn,Layup,9,9
+14:56,UMass,Samba Diallo,Layup,9,11
+14:56,UMass Lowell,Ryan Jones,Foul,9,11
+14:56,UMass,Samba Diallo,Free Throw,9,12
+14:53,UMass Lowell,Bryce Daley,Missed Three Point Jumper,9,12
+14:53,UMass Lowell,Bryce Daley,Offensive Rebound,9,12
+14:47,UMass Lowell,Obadiah Noel,Dunk,11,12
+14:34,UMass,Carl Pierre,Three Point Jumper,11,15
+14:12,UMass Lowell,Joey Glynn,Layup,13,15
+13:48,UMass,Samba Diallo,Missed Jumper,13,15
+13:48,UMass Lowell,Bryce Daley,Defensive Rebound,13,15
+13:43,UMass Lowell,Obadiah Noel,Missed Layup,13,15
+13:43,UMass,Luwane Pipkins,Defensive Rebound,13,15
+13:37,UMass,Luwane Pipkins,Three Point Jumper,13,18
+13:06,UMass Lowell,Ryan Jones,Missed Three Point Jumper,13,18
+13:06,UMass,Luwane Pipkins,Defensive Rebound,13,18
+13:02,UMass,Luwane Pipkins,Missed Layup,13,18
+13:02,UMass Lowell,Ryan Jones,Defensive Rebound,13,18
+12:51,UMass Lowell,Obadiah Noel,Three Point Jumper,16,18
+12:27,UMass,Luwane Pipkins,Missed Layup,16,18
+12:27,UMass Lowell,Josh Gantz,Defensive Rebound,16,18
+12:19,UMass,Sy Chatman,Foul,16,18
+12:19,UMass Lowell,Josh Gantz,Free Throw,17,18
+12:19,UMass Lowell,Josh Gantz,Free Throw,18,18
+12:19,UMass Lowell,Josh Gantz,Free Throw,19,18
+12:08,UMass,Rashaan Holloway,Layup,19,20
+12:08,UMass Lowell,Josh Gantz,Foul,19,20
+12:08,UMass,Rashaan Holloway,Missed Free Throw,19,20
+12:08,UMass,Keon Clergeot,Offensive Rebound,19,20
+11:53,UMass,Keon Clergeot,Missed Three Point Jumper,19,20
+11:53,UMass,UMass,Offensive Rebound,19,20
+11:53,UMass,None,None,19,20
+11:44,UMass,Tre Wood,Missed Layup,19,20
+11:44,UMass Lowell,Josh Gantz,Defensive Rebound,19,20
+11:36,UMass Lowell,Josh Gantz,Missed Three Point Jumper,19,20
+11:36,UMass,Rashaan Holloway,Defensive Rebound,19,20
+11:23,UMass,Luwane Pipkins,Three Point Jumper,19,23
+11:03,UMass Lowell,Joey Glynn,Missed Layup,19,23
+11:03,UMass,Rashaan Holloway,Defensive Rebound,19,23
+10:56,UMass,Curtis Cobb,Turnover,19,23
+10:44,UMass Lowell,Joey Glynn,Missed Layup,19,23
+10:44,UMass,Rashaan Holloway,Block,19,23
+10:44,UMass,UMass,Defensive Rebound,19,23
+10:21,UMass,Jonathan Laurent,Dunk,19,25
+9:58,UMass Lowell,Ryan Jones,Missed Three Point Jumper,19,25
+9:58,UMass,Rashaan Holloway,Defensive Rebound,19,25
+9:49,UMass,Luwane Pipkins,Missed Jumper,19,25
+9:49,UMass Lowell,None,Team Rebound,19,25
+9:47,UMass,Rashaan Holloway,Foul,19,25
+9:27,UMass Lowell,Darius Henderson,Jumper,21,25
+9:18,UMass,Luwane Pipkins,Turnover,21,25
+9:17,UMass Lowell,Bryce Daley,Steal,21,25
+9:14,UMass Lowell,Bryce Daley,Layup,23,25
+8:56,UMass,Jonathan Laurent,Turnover,23,25
+8:54,UMass Lowell,Bryce Daley,Steal,23,25
+8:51,UMass Lowell,Bryce Daley,Foul,23,25
+8:51,UMass Lowell,Bryce Daley,Turnover,23,25
+8:39,UMass,Luwane Pipkins,Layup,23,27
+8:39,UMass Lowell,Ryan Jones,Foul,23,27
+8:39,UMass,Luwane Pipkins,Free Throw,23,28
+8:23,UMass Lowell,Christian Lutete,Missed Three Point Jumper,23,28
+8:23,UMass,Jonathan Laurent,Defensive Rebound,23,28
+8:09,UMass,Carl Pierre,Missed Jumper,23,28
+8:09,UMass Lowell,Christian Lutete,Defensive Rebound,23,28
+7:52,UMass Lowell,Darius Henderson,Jumper,25,28
+7:38,UMass,Jonathan Laurent,Layup,25,30
+7:19,UMass Lowell,Darius Henderson,Missed Jumper,25,30
+7:19,UMass,Luwane Pipkins,Defensive Rebound,25,30
+7:08,UMass,Luwane Pipkins,Missed Three Point Jumper,25,30
+7:08,UMass Lowell,Shawn Jones,Defensive Rebound,25,30
+6:58,UMass Lowell,Bryce Daley,Missed Three Point Jumper,25,30
+6:58,UMass,Jonathan Laurent,Defensive Rebound,25,30
+6:52,UMass,Carl Pierre,Layup,25,32
+6:48,UMass Lowell,None,None,25,32
+6:30,UMass Lowell,Christian Lutete,Missed Layup,25,32
+6:30,UMass,Samba Diallo,Block,25,32
+6:30,UMass,Samba Diallo,Defensive Rebound,25,32
+6:17,UMass,Samba Diallo,Missed Layup,25,32
+6:17,UMass Lowell,Ryan Jones,Block,25,32
+6:15,UMass Lowell,Darius Henderson,Defensive Rebound,25,32
+6:15,UMass Lowell,Darius Henderson,Foul,25,32
+6:15,UMass Lowell,Darius Henderson,Turnover,25,32
+5:59,UMass Lowell,Obadiah Noel,Foul,25,32
+5:59,UMass,Keon Clergeot,Free Throw,25,33
+5:59,UMass,Keon Clergeot,Free Throw,25,34
+5:50,UMass Lowell,Darius Henderson,Layup,27,34
+5:29,UMass,Tre Wood,Turnover,27,34
+5:27,UMass Lowell,Shawn Jones,Steal,27,34
+5:20,UMass Lowell,Christian Lutete,Layup,29,34
+5:05,UMass,Rashaan Holloway,Turnover,29,34
+4:54,UMass Lowell,Christian Lutete,Layup,31,34
+4:54,UMass,Jonathan Laurent,Foul,31,34
+4:54,UMass Lowell,Christian Lutete,Free Throw,32,34
+4:43,UMass,Luwane Pipkins,Missed Three Point Jumper,32,34
+4:43,UMass Lowell,Christian Lutete,Defensive Rebound,32,34
+4:34,UMass,Rashaan Holloway,Foul,32,34
+4:34,UMass Lowell,Obadiah Noel,Free Throw,33,34
+4:34,UMass Lowell,Obadiah Noel,Free Throw,34,34
+4:12,UMass,Carl Pierre,Layup,34,36
+4:05,UMass,Luwane Pipkins,Foul,34,36
+4:05,UMass Lowell,Shawn Jones,Foul,34,36
+4:05,UMass Lowell,Shawn Jones,Turnover,34,36
+3:45,UMass,Jonathan Laurent,Missed Three Point Jumper,34,36
+3:45,UMass Lowell,UMass Lowell,Defensive Rebound,34,36
+3:39,UMass,None,None,34,36
+3:31,UMass,Tre Wood,Foul,34,36
+3:31,UMass Lowell,Shawn Jones,Missed Free Throw,34,36
+3:31,UMass,Sy Chatman,Defensive Rebound,34,36
+3:03,UMass,Carl Pierre,Jumper,34,38
+2:36,UMass Lowell,Obadiah Noel,Missed Three Point Jumper,34,38
+2:36,UMass,Keon Clergeot,Defensive Rebound,34,38
+2:29,UMass,Keon Clergeot,Missed Jumper,34,38
+2:29,UMass Lowell,Christian Lutete,Defensive Rebound,34,38
+2:16,UMass Lowell,Obadiah Noel,Missed Jumper,34,38
+2:16,UMass,Sy Chatman,Defensive Rebound,34,38
+1:58,UMass Lowell,Joey Glynn,Foul,34,38
+1:58,UMass,Jonathan Laurent,Missed Free Throw,34,38
+1:58,UMass,None,Team Rebound,34,38
+1:58,UMass,Jonathan Laurent,Missed Free Throw,34,38
+1:58,UMass Lowell,Bryce Daley,Defensive Rebound,34,38
+1:43,UMass Lowell,Josh Gantz,Missed Layup,34,38
+1:43,UMass Lowell,Josh Gantz,Offensive Rebound,34,38
+1:39,UMass Lowell,Josh Gantz,Missed Jumper,34,38
+1:39,UMass Lowell,UMass Lowell,Offensive Rebound,34,38
+1:27,UMass Lowell,Bryce Daley,Missed Layup,34,38
+1:27,UMass Lowell,Bryce Daley,Offensive Rebound,34,38
+1:22,UMass Lowell,Christian Lutete,Three Point Jumper,37,38
+1:05,UMass,Curtis Cobb,Layup,37,40
+0:50,UMass Lowell,Josh Gantz,Turnover,37,40
+0:28,UMass,Keon Clergeot,Missed Layup,37,40
+0:28,UMass,Jonathan Laurent,Offensive Rebound,37,40
+0:23,UMass,Jonathan Laurent,Layup,37,42
+0:09,UMass Lowell,Christian Lutete,Turnover,37,42
+0:01,UMass,Carl Pierre,Missed Three Point Jumper,37,42
+0:01,UMass Lowell,None,Team Rebound,37,42
+0:01,UMass,Sy Chatman,Foul,37,42
+0:01,UMass Lowell,Joey Glynn,Free Throw,38,42
+0:01,UMass Lowell,Joey Glynn,Free Throw,39,42
+0:00,UMass,None,None,39,42
+19:41,UMass,Jonathan Laurent,Turnover,39,42
+19:38,UMass Lowell,Josh Gantz,Steal,39,42
+19:34,UMass Lowell,Ryan Jones,Missed Jumper,39,42
+19:34,UMass,Rashaan Holloway,Defensive Rebound,39,42
+19:29,UMass,Curtis Cobb,Turnover,39,42
+19:05,UMass Lowell,Christian Lutete,Layup,41,42
+18:51,UMass,Rashaan Holloway,Dunk,41,44
+18:34,UMass,Jonathan Laurent,Foul,41,44
+18:21,UMass Lowell,Josh Gantz,Missed Three Point Jumper,41,44
+18:21,UMass,Rashaan Holloway,Defensive Rebound,41,44
+18:09,UMass,Luwane Pipkins,Missed Jumper,41,44
+18:09,UMass,Rashaan Holloway,Offensive Rebound,41,44
+18:05,UMass,Rashaan Holloway,Missed Jumper,41,44
+18:05,UMass Lowell,Christian Lutete,Defensive Rebound,41,44
+17:52,UMass Lowell,Joey Glynn,Jumper,43,44
+17:29,UMass,Jonathan Laurent,Missed Jumper,43,44
+17:29,UMass,Rashaan Holloway,Offensive Rebound,43,44
+17:16,UMass,Curtis Cobb,Layup,43,46
+17:10,UMass Lowell,Christian Lutete,Layup,45,46
+16:50,UMass,Carl Pierre,Three Point Jumper,45,49
+16:32,UMass Lowell,Joey Glynn,Missed Three Point Jumper,45,49
+16:32,UMass Lowell,UMass Lowell,Offensive Rebound,45,49
+16:28,UMass Lowell,Joey Glynn,Layup,47,49
+16:18,UMass,Carl Pierre,Missed Jumper,47,49
+16:18,UMass Lowell,Josh Gantz,Defensive Rebound,47,49
+16:12,UMass Lowell,Ryan Jones,Missed Layup,47,49
+16:12,UMass Lowell,Christian Lutete,Offensive Rebound,47,49
+16:08,UMass,Curtis Cobb,Foul,47,49
+16:08,UMass Lowell,Christian Lutete,Free Throw,48,49
+16:08,UMass Lowell,Christian Lutete,Missed Free Throw,48,49
+16:08,UMass,Curtis Cobb,Defensive Rebound,48,49
+15:49,UMass,Curtis Cobb,Missed Three Point Jumper,48,49
+15:49,UMass,Sy Chatman,Offensive Rebound,48,49
+15:45,UMass,Sy Chatman,Layup,48,51
+15:40,UMass Lowell,Joey Glynn,Turnover,48,51
+15:40,UMass,Curtis Cobb,Steal,48,51
+15:40,UMass,Curtis Cobb,Layup,48,53
+15:10,UMass Lowell,Christian Lutete,Foul,48,53
+15:10,UMass Lowell,Christian Lutete,Turnover,48,53
+15:10,UMass,None,None,48,53
+14:57,UMass,Carl Pierre,Missed Three Point Jumper,48,53
+14:57,UMass Lowell,Christian Lutete,Defensive Rebound,48,53
+14:46,UMass Lowell,Joey Glynn,Foul,48,53
+14:46,UMass Lowell,Joey Glynn,Turnover,48,53
+14:32,UMass,Luwane Pipkins,Turnover,48,53
+14:32,UMass Lowell,Joey Glynn,Steal,48,53
+14:13,UMass Lowell,Darius Henderson,Missed Jumper,48,53
+14:13,UMass Lowell,Joey Glynn,Offensive Rebound,48,53
+14:07,UMass,Jonathan Laurent,Foul,48,53
+14:07,UMass Lowell,Joey Glynn,Free Throw,49,53
+14:07,UMass Lowell,Joey Glynn,Missed Free Throw,49,53
+14:07,UMass,Kieran Hayward,Defensive Rebound,49,53
+13:47,UMass Lowell,Bryce Daley,Foul,49,53
+13:44,UMass,Luwane Pipkins,Three Point Jumper,49,56
+13:25,UMass Lowell,Josh Gantz,Layup,51,56
+13:12,UMass,Carl Pierre,Jumper,51,58
+12:59,UMass Lowell,Joey Glynn,Missed Jumper,51,58
+12:59,UMass,Keon Clergeot,Defensive Rebound,51,58
+12:52,UMass,Carl Pierre,Layup,51,60
+12:40,UMass,Kieran Hayward,Foul,51,60
+12:34,UMass Lowell,Christian Lutete,Layup,53,60
+12:15,UMass,Luwane Pipkins,Missed Three Point Jumper,53,60
+12:15,UMass Lowell,Christian Lutete,Defensive Rebound,53,60
+11:52,UMass Lowell,Christian Lutete,Missed Layup,53,60
+11:52,UMass,Kieran Hayward,Block,53,60
+11:48,UMass,Sy Chatman,Defensive Rebound,53,60
+11:43,UMass,Kieran Hayward,Foul,53,60
+11:43,UMass,Kieran Hayward,Turnover,53,60
+11:43,UMass,None,None,53,60
+11:18,UMass,Kieran Hayward,Foul,53,60
+11:04,UMass Lowell,Obadiah Noel,Missed Jumper,53,60
+11:04,UMass,Rashaan Holloway,Defensive Rebound,53,60
+10:48,UMass,Curtis Cobb,Layup,53,62
+10:33,UMass Lowell,Bryce Daley,Missed Layup,53,62
+10:33,UMass Lowell,Josh Gantz,Offensive Rebound,53,62
+10:29,UMass Lowell,Josh Gantz,Layup,55,62
+10:08,UMass,Keon Clergeot,Missed Three Point Jumper,55,62
+10:08,UMass,None,Team Rebound,55,62
+10:06,UMass Lowell,Obadiah Noel,Foul,55,62
+10:02,UMass,Rashaan Holloway,Missed Jumper,55,62
+10:02,UMass,Kieran Hayward,Offensive Rebound,55,62
+9:57,UMass,None,None,55,64
+9:52,UMass Lowell,Ryan Jones,Jumper,57,64
+9:34,UMass,Kieran Hayward,Turnover,57,64
+9:25,UMass Lowell,Bryce Daley,Turnover,57,64
+9:05,UMass,Curtis Cobb,Layup,57,66
+8:42,UMass Lowell,Ryan Jones,Missed Three Point Jumper,57,66
+8:42,UMass,Keon Clergeot,Defensive Rebound,57,66
+8:19,UMass,Keon Clergeot,Layup,57,68
+8:19,UMass Lowell,Darius Henderson,Foul,57,68
+8:19,UMass,Keon Clergeot,Free Throw,57,69
+8:03,UMass Lowell,Ryan Jones,Missed Three Point Jumper,57,69
+8:03,UMass,Keon Clergeot,Defensive Rebound,57,69
+7:57,UMass,Keon Clergeot,Dunk,57,71
+7:40,UMass Lowell,Christian Lutete,Missed Three Point Jumper,57,71
+7:40,UMass,Curtis Cobb,Defensive Rebound,57,71
+7:13,UMass,Samba Diallo,Turnover,57,71
+7:13,UMass,None,None,57,71
+6:54,UMass Lowell,Obadiah Noel,Missed Jumper,57,71
+6:54,UMass,Curtis Cobb,Defensive Rebound,57,71
+6:33,UMass Lowell,Josh Gantz,Foul,57,71
+6:33,UMass,Samba Diallo,Missed Free Throw,57,71
+6:33,UMass,None,Team Rebound,57,71
+6:33,UMass,Samba Diallo,Missed Free Throw,57,71
+6:33,UMass Lowell,Christian Lutete,Defensive Rebound,57,71
+6:16,UMass Lowell,Joey Glynn,Missed Layup,57,71
+6:16,UMass,Rashaan Holloway,Block,57,71
+6:14,UMass,Curtis Cobb,Defensive Rebound,57,71
+6:09,UMass,Carl Pierre,Missed Three Point Jumper,57,71
+6:09,UMass,Carl Pierre,Offensive Rebound,57,71
+6:05,UMass,Carl Pierre,Jumper,57,73
+5:42,UMass Lowell,Shawn Jones,Missed Layup,57,73
+5:42,UMass Lowell,UMass Lowell,Offensive Rebound,57,73
+5:34,UMass Lowell,Joey Glynn,Jumper,59,73
+5:21,UMass Lowell,Obadiah Noel,Foul,59,73
+5:21,UMass,Luwane Pipkins,Missed Free Throw,59,73
+5:21,UMass Lowell,Christian Lutete,Defensive Rebound,59,73
+5:12,UMass Lowell,Josh Gantz,Three Point Jumper,62,73
+4:47,UMass Lowell,Josh Gantz,Foul,62,73
+4:47,UMass,Rashaan Holloway,Missed Free Throw,62,73
+4:47,UMass Lowell,Christian Lutete,Defensive Rebound,62,73
+4:26,UMass Lowell,Shawn Jones,Missed Three Point Jumper,62,73
+4:26,UMass Lowell,Obadiah Noel,Offensive Rebound,62,73
+4:25,UMass Lowell,None,None,62,73
+4:22,UMass Lowell,Joey Glynn,Turnover,62,73
+4:21,UMass,Luwane Pipkins,Steal,62,73
+4:21,UMass Lowell,Joey Glynn,Foul,62,73
+4:21,UMass,Curtis Cobb,Free Throw,62,74
+4:21,UMass,Curtis Cobb,Missed Free Throw,62,74
+4:21,UMass,Sy Chatman,Offensive Rebound,62,74
+4:19,UMass Lowell,Christian Lutete,Foul,62,74
+4:19,UMass,Sy Chatman,Missed Free Throw,62,74
+4:19,UMass,None,Team Rebound,62,74
+4:17,UMass,Sy Chatman,Free Throw,62,75
+4:04,UMass Lowell,Josh Gantz,Three Point Jumper,65,75
+3:40,UMass,Sy Chatman,Turnover,65,75
+3:38,UMass Lowell,Obadiah Noel,Steal,65,75
+3:36,UMass Lowell,Christian Lutete,Layup,67,75
+3:16,UMass Lowell,Joey Glynn,Foul,67,75
+3:16,UMass,None,None,67,75
+3:16,UMass,Luwane Pipkins,Free Throw,67,76
+3:16,UMass,Luwane Pipkins,Free Throw,67,77
+3:03,UMass Lowell,Joey Glynn,Jumper,69,77
+3:03,UMass,Curtis Cobb,Foul,69,77
+3:03,UMass Lowell,Joey Glynn,Free Throw,70,77
+2:40,UMass,Luwane Pipkins,Missed Three Point Jumper,70,77
+2:40,UMass,UMass,Offensive Rebound,70,77
+2:39,UMass Lowell,None,None,70,77
+2:36,UMass,Carl Pierre,Missed Three Point Jumper,70,77
+2:36,UMass Lowell,Shawn Jones,Defensive Rebound,70,77
+2:31,UMass Lowell,Obadiah Noel,Three Point Jumper,73,77
+2:29,UMass Lowell,None,None,73,77
+2:16,UMass Lowell,Shawn Jones,Foul,73,77
+2:16,UMass,Luwane Pipkins,Free Throw,73,78
+2:16,UMass,Luwane Pipkins,Free Throw,73,79
+1:57,UMass Lowell,Christian Lutete,Turnover,73,79
+1:41,UMass Lowell,Josh Gantz,Foul,73,79
+1:41,UMass,Jonathan Laurent,Free Throw,73,80
+1:41,UMass,Jonathan Laurent,Free Throw,73,81
+1:27,UMass Lowell,Shawn Jones,Turnover,73,81
+1:08,UMass,Rashaan Holloway,Foul,73,81
+1:08,UMass,Rashaan Holloway,Turnover,73,81
+0:53,UMass Lowell,Shawn Jones,Missed Layup,73,81
+0:53,UMass Lowell,Obadiah Noel,Offensive Rebound,73,81
+0:47,UMass Lowell,Obadiah Noel,Missed Three Point Jumper,73,81
+0:47,UMass Lowell,None,Team Rebound,73,81
+0:45,UMass,Rashaan Holloway,Foul,73,81
+0:45,UMass Lowell,Joey Glynn,Free Throw,74,81
+0:45,UMass Lowell,Joey Glynn,Free Throw,75,81
+0:36,UMass Lowell,Bryce Daley,Foul,75,81
+0:36,UMass,Curtis Cobb,Free Throw,75,82
+0:36,UMass,Curtis Cobb,Missed Free Throw,75,82
+0:36,UMass Lowell,Bryce Daley,Defensive Rebound,75,82
+0:26,UMass Lowell,Josh Gantz,Missed Three Point Jumper,75,82
+0:26,UMass,Carl Pierre,Defensive Rebound,75,82
+0:22,UMass Lowell,Josh Gantz,Foul,75,82
+0:22,UMass,Luwane Pipkins,Free Throw,75,83
+0:22,UMass,Luwane Pipkins,Missed Free Throw,75,83
+0:22,UMass Lowell,Christian Lutete,Defensive Rebound,75,83
+0:12,UMass Lowell,Christian Lutete,Missed Jumper,75,83
+0:12,UMass,Curtis Cobb,Defensive Rebound,75,83
+0:00,UMass,None,None,75,83

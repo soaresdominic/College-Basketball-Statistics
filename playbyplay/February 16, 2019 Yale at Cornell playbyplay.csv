@@ -1,0 +1,335 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:57,Cornell,Joel Davis,Layup,0,2
+19:41,Yale,Alex Copeland,Turnover,0,2
+19:40,Cornell,Matt Morgan,Steal,0,2
+19:38,Cornell,Matt Morgan,Missed Three Point Jumper,0,2
+19:38,Cornell,Josh Warren,Offensive Rebound,0,2
+19:31,Cornell,Jimmy Boeheim,Layup,0,4
+19:16,Yale,Miye Oni,Missed Three Point Jumper,0,4
+19:16,Cornell,Matt Morgan,Defensive Rebound,0,4
+19:07,Cornell,Joel Davis,Layup,0,6
+18:41,Yale,Jordan Bruner,Turnover,0,6
+18:40,Cornell,Jimmy Boeheim,Steal,0,6
+18:20,Cornell,Matt Morgan,Layup,0,8
+18:17,Yale,None,None,0,8
+18:03,Yale,Trey Phills,Layup,2,8
+18:03,Cornell,Matt Morgan,Foul,2,8
+18:00,Yale,Trey Phills,Missed Free Throw,2,8
+18:00,Cornell,Steven Julian,Defensive Rebound,2,8
+17:53,Cornell,Steven Julian,Turnover,2,8
+17:52,Yale,Blake Reynolds,Steal,2,8
+17:49,Yale,Alex Copeland,Three Point Jumper,5,8
+17:22,Cornell,Steven Julian,Dunk,5,10
+17:01,Yale,Jordan Bruner,Missed Jumper,5,10
+17:01,Yale,Jordan Bruner,Offensive Rebound,5,10
+16:59,Yale,Jordan Bruner,Layup,7,10
+16:37,Yale,Miye Oni,Foul,7,10
+16:37,Cornell,Steven Julian,Free Throw,7,11
+16:37,Cornell,Steven Julian,Missed Free Throw,7,11
+16:37,Yale,Miye Oni,Defensive Rebound,7,11
+16:25,Yale,Blake Reynolds,Layup,9,11
+16:11,Cornell,Jimmy Boeheim,Missed Three Point Jumper,9,11
+16:11,Yale,Trey Phills,Defensive Rebound,9,11
+16:03,Yale,Blake Reynolds,Three Point Jumper,12,11
+15:45,Yale,Trey Phills,Foul,12,11
+15:45,Cornell,None,None,12,11
+15:44,Cornell,Joel Davis,Turnover,12,11
+15:19,Yale,Alex Copeland,Layup,14,11
+14:58,Cornell,Jimmy Boeheim,Layup,14,13
+14:44,Yale,Alex Copeland,Jumper,16,13
+14:23,Cornell,Bryan Knapp,Turnover,16,13
+14:05,Yale,Azar Swain,Three Point Jumper,19,13
+13:58,Cornell,Jimmy Boeheim,Missed Three Point Jumper,19,13
+13:58,Yale,Azar Swain,Defensive Rebound,19,13
+13:48,Yale,Paul Atkinson,Missed Layup,19,13
+13:48,Yale,Blake Reynolds,Offensive Rebound,19,13
+13:43,Yale,Azar Swain,Missed Three Point Jumper,19,13
+13:43,Yale,Blake Reynolds,Offensive Rebound,19,13
+13:32,Yale,Paul Atkinson,Missed Jumper,19,13
+13:32,Cornell,Matt Morgan,Defensive Rebound,19,13
+13:20,Cornell,Josh Warren,Three Point Jumper,19,16
+12:58,Yale,Miye Oni,Missed Layup,19,16
+12:58,Cornell,Josh Warren,Defensive Rebound,19,16
+12:52,Cornell,Bryan Knapp,Missed Layup,19,16
+12:52,Yale,Miye Oni,Block,19,16
+12:50,Yale,Trey Phills,Defensive Rebound,19,16
+12:42,Yale,Paul Atkinson,Dunk,21,16
+12:26,Cornell,Jimmy Boeheim,Missed Three Point Jumper,21,16
+12:26,Yale,Azar Swain,Defensive Rebound,21,16
+12:14,Yale,Miye Oni,Missed Three Point Jumper,21,16
+12:14,Cornell,Josh Warren,Defensive Rebound,21,16
+11:53,Cornell,Matt Morgan,Layup,21,18
+11:38,Cornell,Terrance McBride,Foul,21,18
+11:38,Cornell,None,None,21,18
+11:36,Yale,Azar Swain,Missed Three Point Jumper,21,18
+11:36,Cornell,Terrance McBride,Defensive Rebound,21,18
+11:23,Cornell,Steven Julian,Missed Three Point Jumper,21,18
+11:23,Yale,Paul Atkinson,Defensive Rebound,21,18
+10:43,Yale,Azar Swain,Missed Jumper,21,18
+10:43,Cornell,Steven Julian,Defensive Rebound,21,18
+10:35,Cornell,Terrance McBride,Jumper,21,20
+10:17,Yale,Paul Atkinson,Layup,23,20
+9:48,Cornell,Jimmy Boeheim,Layup,23,22
+9:31,Yale,Jalen Gabbidon,Turnover,23,22
+9:29,Cornell,Terrance McBride,Steal,23,22
+9:24,Cornell,Terrance McBride,Missed Jumper,23,22
+9:24,Yale,Jordan Bruner,Defensive Rebound,23,22
+9:06,Yale,Trey Phills,Three Point Jumper,26,22
+8:46,Cornell,Jimmy Boeheim,Turnover,26,22
+8:34,Yale,Alex Copeland,Turnover,26,22
+8:34,Cornell,Terrance McBride,Steal,26,22
+8:14,Cornell,Jack Gordon,Layup,26,24
+7:53,Cornell,Jack Gordon,Foul,26,24
+7:53,Cornell,None,None,26,24
+7:51,Yale,Blake Reynolds,Three Point Jumper,29,24
+7:30,Yale,Alex Copeland,Foul,29,24
+7:30,Cornell,Jack Gordon,Free Throw,29,25
+7:30,Cornell,Jack Gordon,Free Throw,29,26
+7:24,Yale,Miye Oni,Layup,31,26
+7:15,Cornell,Matt Morgan,Three Point Jumper,31,29
+6:55,Yale,Miye Oni,Turnover,31,29
+6:55,Cornell,Matt Morgan,Steal,31,29
+6:37,Cornell,Matt Morgan,Missed Three Point Jumper,31,29
+6:37,Yale,Miye Oni,Defensive Rebound,31,29
+6:28,Yale,Miye Oni,Layup,33,29
+6:28,Cornell,Troy Whiteside,Foul,33,29
+6:28,Yale,Miye Oni,Missed Free Throw,33,29
+6:28,Cornell,Josh Warren,Defensive Rebound,33,29
+6:10,Cornell,Jack Gordon,Missed Layup,33,29
+6:10,Yale,Jordan Bruner,Block,33,29
+6:09,Yale,Blake Reynolds,Defensive Rebound,33,29
+6:02,Yale,Alex Copeland,Missed Jumper,33,29
+6:02,Cornell,Jimmy Boeheim,Defensive Rebound,33,29
+5:56,Yale,Eric Monroe,Foul,33,29
+5:38,Cornell,Josh Warren,Missed Jumper,33,29
+5:38,Yale,Miye Oni,Defensive Rebound,33,29
+5:28,Cornell,Josh Warren,Foul,33,29
+5:25,Yale,Paul Atkinson,Layup,35,29
+5:07,Cornell,Josh Warren,Missed Layup,35,29
+5:07,Yale,Miye Oni,Defensive Rebound,35,29
+4:43,Yale,Alex Copeland,Missed Jumper,35,29
+4:43,Yale,Paul Atkinson,Offensive Rebound,35,29
+4:32,Yale,Blake Reynolds,Missed Three Point Jumper,35,29
+4:32,Cornell,Terrance McBride,Defensive Rebound,35,29
+4:18,Cornell,Josh Warren,Missed Three Point Jumper,35,29
+4:18,Yale,Miye Oni,Defensive Rebound,35,29
+4:09,Yale,Miye Oni,Missed Three Point Jumper,35,29
+4:09,Cornell,Matt Morgan,Defensive Rebound,35,29
+3:54,Cornell,Steven Julian,Missed Layup,35,29
+3:54,Yale,Eric Monroe,Defensive Rebound,35,29
+3:34,Cornell,Jimmy Boeheim,Foul,35,29
+3:34,Cornell,None,None,35,29
+3:34,Yale,Paul Atkinson,Missed Free Throw,35,29
+3:34,Yale,None,Team Rebound,35,29
+3:34,Yale,Paul Atkinson,Free Throw,36,29
+3:19,Cornell,Matt Morgan,Jumper,36,31
+2:58,Yale,Miye Oni,Missed Layup,36,31
+2:58,Yale,Paul Atkinson,Offensive Rebound,36,31
+2:56,Yale,Paul Atkinson,Layup,38,31
+2:38,Cornell,Terrance McBride,Layup,38,33
+2:07,Yale,Azar Swain,Three Point Jumper,41,33
+1:44,Cornell,Matt Morgan,Missed Three Point Jumper,41,33
+1:44,Yale,Trey Phills,Block,41,33
+1:41,Yale,Paul Atkinson,Defensive Rebound,41,33
+1:37,Yale,Jordan Bruner,Layup,43,33
+1:27,Cornell,None,None,43,33
+1:20,Cornell,Matt Morgan,Missed Layup,43,33
+1:20,Yale,Jordan Bruner,Block,43,33
+1:20,Cornell,Cornell,Offensive Rebound,43,33
+1:19,Cornell,Matt Morgan,Three Point Jumper,43,36
+1:05,Yale,Jordan Bruner,Missed Three Point Jumper,43,36
+1:05,Cornell,Matt Morgan,Defensive Rebound,43,36
+0:44,Cornell,Terrance McBride,Missed Jumper,43,36
+0:44,Yale,Miye Oni,Defensive Rebound,43,36
+0:34,Yale,Paul Atkinson,Missed Layup,43,36
+0:34,Cornell,Josh Warren,Defensive Rebound,43,36
+0:06,Cornell,Matt Morgan,Layup,43,38
+0:00,Yale,Trey Phills,Layup,45,38
+0:00,Cornell,None,None,45,38
+19:48,Cornell,Josh Warren,Layup,45,40
+19:23,Yale,Blake Reynolds,Missed Jumper,45,40
+19:23,Cornell,Steven Julian,Block,45,40
+19:22,Yale,Jordan Bruner,Offensive Rebound,45,40
+19:22,Cornell,Steven Julian,Foul,45,40
+19:22,Yale,Jordan Bruner,Free Throw,46,40
+19:22,Yale,Jordan Bruner,Free Throw,47,40
+18:55,Cornell,Matt Morgan,Turnover,47,40
+18:54,Yale,Jordan Bruner,Steal,47,40
+18:50,Yale,Miye Oni,Missed Layup,47,40
+18:50,Cornell,Steven Julian,Block,47,40
+18:49,Cornell,Matt Morgan,Defensive Rebound,47,40
+18:27,Cornell,Jimmy Boeheim,Jumper,47,42
+18:18,Cornell,Josh Warren,Foul,47,42
+18:12,Yale,Miye Oni,Missed Layup,47,42
+18:12,Cornell,Joel Davis,Block,47,42
+18:11,Yale,Blake Reynolds,Offensive Rebound,47,42
+18:06,Yale,Alex Copeland,Missed Layup,47,42
+18:06,Cornell,Steven Julian,Block,47,42
+18:04,Cornell,Steven Julian,Defensive Rebound,47,42
+18:00,Cornell,Matt Morgan,Three Point Jumper,47,45
+17:39,Yale,Alex Copeland,Missed Layup,47,45
+17:39,Cornell,Steven Julian,Block,47,45
+17:37,Cornell,Steven Julian,Defensive Rebound,47,45
+17:29,Yale,Blake Reynolds,Foul,47,45
+17:25,Yale,Blake Reynolds,Foul,47,45
+17:25,Cornell,Matt Morgan,Free Throw,47,46
+17:25,Cornell,Matt Morgan,Free Throw,47,47
+17:07,Yale,Blake Reynolds,Turnover,47,47
+17:06,Cornell,Joel Davis,Steal,47,47
+17:05,Yale,Blake Reynolds,Foul,47,47
+16:54,Cornell,Jimmy Boeheim,Three Point Jumper,47,50
+16:28,Yale,Miye Oni,Missed Layup,47,50
+16:28,Yale,Jordan Bruner,Offensive Rebound,47,50
+16:25,Yale,Jordan Bruner,Dunk,49,50
+16:17,Yale,Miye Oni,Foul,49,50
+16:17,Cornell,Matt Morgan,Free Throw,49,51
+16:17,Cornell,Matt Morgan,Free Throw,49,52
+16:01,Yale,Paul Atkinson,Layup,51,52
+15:29,Cornell,Jimmy Boeheim,Three Point Jumper,51,55
+15:04,Yale,Alex Copeland,Turnover,51,55
+15:04,Cornell,Jimmy Boeheim,Steal,51,55
+14:53,Cornell,Josh Warren,Layup,51,57
+14:32,Yale,Miye Oni,Missed Three Point Jumper,51,57
+14:32,Yale,Jordan Bruner,Offensive Rebound,51,57
+14:31,Cornell,Terrance McBride,Foul,51,57
+14:31,Cornell,None,None,51,57
+14:31,Yale,Jordan Bruner,Free Throw,52,57
+14:31,Yale,Jordan Bruner,Free Throw,53,57
+14:06,Cornell,Terrance McBride,Missed Jumper,53,57
+14:06,Yale,Yale,Defensive Rebound,53,57
+13:52,Cornell,Terrance McBride,Foul,53,57
+13:50,Yale,Azar Swain,Missed Jumper,53,57
+13:50,Yale,Paul Atkinson,Offensive Rebound,53,57
+13:45,Yale,Paul Atkinson,Missed Layup,53,57
+13:45,Cornell,Matt Morgan,Defensive Rebound,53,57
+13:38,Cornell,Matt Morgan,Turnover,53,57
+13:38,Yale,Miye Oni,Steal,53,57
+13:34,Yale,Jordan Bruner,Dunk,55,57
+13:17,Cornell,Matt Morgan,Three Point Jumper,55,60
+12:47,Yale,Paul Atkinson,Dunk,57,60
+12:16,Cornell,Matt Morgan,Layup,57,62
+11:58,Yale,Miye Oni,Layup,59,62
+11:34,Cornell,Matt Morgan,Missed Three Point Jumper,59,62
+11:34,Yale,Jordan Bruner,Defensive Rebound,59,62
+11:25,Yale,Paul Atkinson,Layup,61,62
+11:06,Yale,Azar Swain,Foul,61,62
+11:06,Cornell,None,None,61,62
+11:03,Cornell,Josh Warren,Missed Jumper,61,62
+11:03,Yale,Azar Swain,Defensive Rebound,61,62
+10:57,Yale,Paul Atkinson,Dunk,63,62
+10:44,Cornell,Josh Warren,Missed Three Point Jumper,63,62
+10:44,Cornell,Terrance McBride,Offensive Rebound,63,62
+10:34,Cornell,Troy Whiteside,Missed Three Point Jumper,63,62
+10:34,Yale,Paul Atkinson,Defensive Rebound,63,62
+10:27,Yale,Azar Swain,Missed Three Point Jumper,63,62
+10:27,Yale,Azar Swain,Offensive Rebound,63,62
+10:20,Yale,Azar Swain,Layup,65,62
+10:06,Cornell,Matt Morgan,Turnover,65,62
+10:06,Cornell,Matt Morgan,Foul,65,62
+9:52,Yale,Blake Reynolds,Missed Three Point Jumper,65,62
+9:52,Yale,Paul Atkinson,Offensive Rebound,65,62
+9:48,Yale,None,None,67,62
+9:32,Yale,Azar Swain,Foul,67,62
+9:31,Cornell,Terrance McBride,Turnover,67,62
+9:30,Yale,Miye Oni,Steal,67,62
+9:27,Cornell,Jack Gordon,Foul,67,62
+9:27,Yale,Miye Oni,Free Throw,68,62
+9:27,Yale,Miye Oni,Free Throw,69,62
+9:13,Yale,Miye Oni,Foul,69,62
+9:13,Cornell,Jimmy Boeheim,Free Throw,69,63
+9:13,Cornell,Jimmy Boeheim,Free Throw,69,64
+8:59,Yale,Alex Copeland,Layup,71,64
+8:42,Cornell,Matt Morgan,Missed Layup,71,64
+8:42,Yale,Paul Atkinson,Defensive Rebound,71,64
+8:36,Yale,Miye Oni,Layup,73,64
+8:24,Cornell,None,None,73,64
+8:13,Yale,Azar Swain,Foul,73,64
+8:13,Cornell,Matt Morgan,Free Throw,73,65
+8:13,Cornell,Matt Morgan,Free Throw,73,66
+7:58,Yale,Alex Copeland,Missed Jumper,73,66
+7:58,Cornell,Jimmy Boeheim,Defensive Rebound,73,66
+7:51,Cornell,Matt Morgan,Three Point Jumper,73,69
+7:26,Yale,Trey Phills,Missed Layup,73,69
+7:26,Cornell,Jimmy Boeheim,Block,73,69
+7:24,Yale,Jordan Bruner,Offensive Rebound,73,69
+7:21,Yale,Jordan Bruner,Turnover,73,69
+7:20,Cornell,Joel Davis,Steal,73,69
+7:13,Yale,Blake Reynolds,Foul,73,69
+7:13,Cornell,None,None,73,69
+7:13,Cornell,Matt Morgan,Free Throw,73,70
+7:13,Cornell,Matt Morgan,Free Throw,73,71
+6:57,Yale,Miye Oni,Missed Jumper,73,71
+6:57,Yale,Paul Atkinson,Offensive Rebound,73,71
+6:56,Cornell,Josh Warren,Foul,73,71
+6:56,Yale,Paul Atkinson,Free Throw,74,71
+6:56,Yale,Paul Atkinson,Free Throw,75,71
+6:41,Cornell,Jimmy Boeheim,Missed Layup,75,71
+6:41,Yale,Miye Oni,Block,75,71
+6:41,Cornell,Cornell,Offensive Rebound,75,71
+6:26,Cornell,Josh Warren,Missed Layup,75,71
+6:26,Yale,Jordan Bruner,Defensive Rebound,75,71
+5:55,Cornell,Josh Warren,Foul,75,71
+5:55,Yale,Jordan Bruner,Free Throw,76,71
+5:55,Yale,Jordan Bruner,Free Throw,77,71
+5:37,Yale,Trey Phills,Foul,77,71
+5:37,Cornell,Matt Morgan,Free Throw,77,72
+5:37,Cornell,Matt Morgan,Free Throw,77,73
+5:22,Yale,Miye Oni,Three Point Jumper,80,73
+5:09,Cornell,Matt Morgan,Missed Layup,80,73
+5:09,Cornell,Steven Julian,Offensive Rebound,80,73
+5:08,Yale,Trey Phills,Block,80,73
+5:05,Cornell,Jack Gordon,Three Point Jumper,80,76
+4:40,Cornell,Jack Gordon,Foul,80,76
+4:40,Yale,Miye Oni,Free Throw,81,76
+4:40,Yale,Miye Oni,Free Throw,82,76
+4:32,Cornell,Matt Morgan,Turnover,82,76
+4:31,Yale,Alex Copeland,Steal,82,76
+4:31,Yale,Alex Copeland,Turnover,82,76
+4:31,Cornell,Matt Morgan,Steal,82,76
+4:10,Cornell,Jack Gordon,Layup,82,78
+3:50,Cornell,Steven Julian,Foul,82,78
+3:50,Cornell,None,None,82,78
+3:50,Yale,Paul Atkinson,Free Throw,83,78
+3:50,Yale,Paul Atkinson,Free Throw,84,78
+3:43,Yale,Alex Copeland,Foul,84,78
+3:43,Cornell,Jack Gordon,Free Throw,84,79
+3:43,Cornell,Jack Gordon,Missed Free Throw,84,79
+3:43,Yale,Miye Oni,Defensive Rebound,84,79
+3:20,Yale,Jordan Bruner,Three Point Jumper,87,79
+3:04,Yale,Miye Oni,Foul,87,79
+3:04,Cornell,Jimmy Boeheim,Missed Free Throw,87,79
+3:04,Cornell,None,Team Rebound,87,79
+3:04,Cornell,Jimmy Boeheim,Free Throw,87,80
+2:42,Yale,Miye Oni,Three Point Jumper,90,80
+2:29,Cornell,Jimmy Boeheim,Three Point Jumper,90,83
+2:24,Cornell,None,None,90,83
+1:54,Cornell,Steven Julian,Foul,90,83
+1:54,Yale,Jordan Bruner,Free Throw,91,83
+1:54,Yale,Jordan Bruner,Missed Free Throw,91,83
+1:54,Cornell,Josh Warren,Defensive Rebound,91,83
+1:41,Cornell,Matt Morgan,Missed Layup,91,83
+1:41,Yale,Paul Atkinson,Defensive Rebound,91,83
+1:35,Yale,Jordan Bruner,Dunk,93,83
+1:22,Cornell,Josh Warren,Missed Three Point Jumper,93,83
+1:22,Cornell,Jack Gordon,Offensive Rebound,93,83
+1:21,Yale,Alex Copeland,Foul,93,83
+1:21,Cornell,Jack Gordon,Free Throw,93,84
+1:21,Cornell,Jack Gordon,Free Throw,93,85
+0:52,Yale,Blake Reynolds,Missed Jumper,93,85
+0:52,Cornell,Cornell,Defensive Rebound,93,85
+0:38,Cornell,Jimmy Boeheim,Jumper,93,87
+0:38,Cornell,None,None,93,87
+0:37,Yale,Miye Oni,Dunk,95,87
+0:31,Yale,Jordan Bruner,Foul,95,87
+0:31,Cornell,Jack Gordon,Free Throw,95,88
+0:31,Cornell,Jack Gordon,Free Throw,95,89
+0:31,Cornell,Jack Gordon,Free Throw,95,90
+0:24,Cornell,Josh Warren,Foul,95,90
+0:24,Yale,Trey Phills,Free Throw,96,90
+0:24,Yale,Trey Phills,Missed Free Throw,96,90
+0:24,Yale,Yale,Offensive Rebound,96,90
+0:16,Yale,Alex Copeland,Missed Three Point Jumper,96,90
+0:16,Cornell,Jimmy Boeheim,Defensive Rebound,96,90
+0:09,Cornell,Jimmy Boeheim,Layup,96,92
+0:05,Yale,Jordan Bruner,Layup,98,92
+0:00,Cornell,None,None,98,92

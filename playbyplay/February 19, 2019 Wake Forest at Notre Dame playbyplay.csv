@@ -1,0 +1,307 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Notre Dame,None,None,0,0
+19:57,Notre Dame,None,None,0,0
+19:43,Notre Dame,John Mooney,Turnover,0,0
+19:43,Wake Forest,Olivier Sarr,Steal,0,0
+19:26,Wake Forest,Jaylen Hoard,Missed Jumper,0,0
+19:26,Notre Dame,John Mooney,Defensive Rebound,0,0
+19:03,Notre Dame,D.J. Harvey,Missed Jumper,0,0
+19:03,Wake Forest,Chaundee Brown,Defensive Rebound,0,0
+18:53,Wake Forest,Olivier Sarr,Jumper,2,0
+18:29,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,2,0
+18:29,Wake Forest,Jaylen Hoard,Defensive Rebound,2,0
+18:19,Notre Dame,D.J. Harvey,Foul,2,0
+18:16,Wake Forest,Brandon Childress,Three Point Jumper,5,0
+17:45,Notre Dame,Prentiss Hubb,Jumper,5,2
+17:20,Wake Forest,Chaundee Brown,Jumper,7,2
+16:53,Notre Dame,TJ Gibbs,Three Point Jumper,7,5
+16:37,Wake Forest,Sharone Wright Jr.,Jumper,9,5
+16:18,Notre Dame,TJ Gibbs,Jumper,9,7
+15:55,Wake Forest,Brandon Childress,Three Point Jumper,12,7
+15:37,Notre Dame,TJ Gibbs,Three Point Jumper,12,10
+15:19,Wake Forest,Olivier Sarr,Three Point Jumper,15,10
+15:01,Notre Dame,TJ Gibbs,Three Point Jumper,15,13
+14:45,Wake Forest,Jaylen Hoard,Jumper,17,13
+14:26,Notre Dame,D.J. Harvey,Missed Three Point Jumper,17,13
+14:26,Wake Forest,Brandon Childress,Defensive Rebound,17,13
+14:17,Wake Forest,Sharone Wright Jr.,Missed Three Point Jumper,17,13
+14:17,Wake Forest,Chaundee Brown,Offensive Rebound,17,13
+14:11,Wake Forest,Chaundee Brown,Turnover,17,13
+14:11,Notre Dame,Nikola Djogo,Steal,17,13
+14:08,Notre Dame,TJ Gibbs,Dunk,17,15
+13:44,Wake Forest,Jaylen Hoard,Missed Jumper,17,15
+13:44,Notre Dame,John Mooney,Block,17,15
+13:44,Notre Dame,John Mooney,Defensive Rebound,17,15
+13:34,Notre Dame,John Mooney,Turnover,17,15
+13:34,Wake Forest,Brandon Childress,Steal,17,15
+13:30,Wake Forest,Chaundee Brown,Layup,19,15
+13:08,Notre Dame,Prentiss Hubb,Three Point Jumper,19,18
+12:52,Wake Forest,Jaylen Hoard,Missed Three Point Jumper,19,18
+12:52,Notre Dame,Notre Dame,Defensive Rebound,19,18
+12:46,Notre Dame,None,None,19,18
+12:28,Notre Dame,Prentiss Hubb,Jumper,19,20
+12:12,Wake Forest,Isaiah Mucius,Missed Jumper,19,20
+12:12,Notre Dame,Nate Laszewski,Defensive Rebound,19,20
+11:50,Notre Dame,Juwan Durham,Jumper,19,22
+11:50,Wake Forest,Olivier Sarr,Foul,19,22
+11:50,Notre Dame,Juwan Durham,Missed Free Throw,19,22
+11:50,Wake Forest,Ikenna Smart,Defensive Rebound,19,22
+11:48,Notre Dame,None,None,19,22
+11:29,Wake Forest,Torry Johnson,Three Point Jumper,22,22
+10:55,Notre Dame,TJ Gibbs,Jumper,22,24
+10:32,Wake Forest,Isaiah Mucius,Missed Jumper,22,24
+10:32,Wake Forest,Isaiah Mucius,Offensive Rebound,22,24
+10:25,Wake Forest,Isaiah Mucius,Turnover,22,24
+10:25,Notre Dame,Juwan Durham,Steal,22,24
+10:21,Notre Dame,Nate Laszewski,Missed Three Point Jumper,22,24
+10:21,Wake Forest,Isaiah Mucius,Defensive Rebound,22,24
+10:10,Wake Forest,Torry Johnson,Missed Three Point Jumper,22,24
+10:10,Wake Forest,Ikenna Smart,Offensive Rebound,22,24
+10:04,Notre Dame,Dane Goodwin,Foul,22,24
+9:38,Wake Forest,Brandon Childress,Three Point Jumper,25,24
+9:09,Wake Forest,Torry Johnson,Foul,25,24
+9:09,Notre Dame,TJ Gibbs,Free Throw,25,25
+9:09,Notre Dame,TJ Gibbs,Free Throw,25,26
+8:46,Wake Forest,Olivier Sarr,Turnover,25,26
+8:27,Notre Dame,Juwan Durham,Dunk,25,28
+8:09,Wake Forest,Chaundee Brown,Turnover,25,28
+7:52,Notre Dame,John Mooney,Turnover,25,28
+7:52,Wake Forest,Brandon Childress,Steal,25,28
+7:52,Notre Dame,Prentiss Hubb,Foul,25,28
+7:52,Notre Dame,None,None,25,28
+7:29,Wake Forest,Jaylen Hoard,Layup,27,28
+7:02,Notre Dame,TJ Gibbs,Missed Three Point Jumper,27,28
+7:02,Notre Dame,John Mooney,Offensive Rebound,27,28
+6:54,Notre Dame,John Mooney,Missed Layup,27,28
+6:54,Wake Forest,Olivier Sarr,Block,27,28
+6:54,Notre Dame,TJ Gibbs,Offensive Rebound,27,28
+6:48,Notre Dame,D.J. Harvey,Three Point Jumper,27,31
+6:36,Wake Forest,Olivier Sarr,Dunk,29,31
+6:20,Wake Forest,Brandon Childress,Foul,29,31
+6:08,Notre Dame,D.J. Harvey,Missed Three Point Jumper,29,31
+6:08,Wake Forest,Brandon Childress,Defensive Rebound,29,31
+5:58,Wake Forest,Sharone Wright Jr.,Missed Three Point Jumper,29,31
+5:58,Notre Dame,Notre Dame,Defensive Rebound,29,31
+5:40,Notre Dame,John Mooney,Missed Jumper,29,31
+5:40,Wake Forest,Olivier Sarr,Defensive Rebound,29,31
+5:29,Wake Forest,Chaundee Brown,Missed Three Point Jumper,29,31
+5:29,Notre Dame,Nikola Djogo,Defensive Rebound,29,31
+4:53,Notre Dame,Notre Dame ,Turnover,29,31
+4:42,Wake Forest,Olivier Sarr,Foul,29,31
+4:42,Wake Forest,Olivier Sarr,Turnover,29,31
+4:30,Notre Dame,Juwan Durham,Dunk,29,33
+4:04,Wake Forest,Jaylen Hoard,Missed Jumper,29,33
+4:04,Notre Dame,Dane Goodwin,Defensive Rebound,29,33
+3:43,Notre Dame,John Mooney,Three Point Jumper,29,36
+3:37,Wake Forest,None,None,29,36
+3:21,Wake Forest,Ikenna Smart,Jumper,31,36
+2:58,Notre Dame,Dane Goodwin,Missed Layup,31,36
+2:58,Wake Forest,Ikenna Smart,Defensive Rebound,31,36
+2:49,Notre Dame,Prentiss Hubb,Foul,31,36
+2:36,Wake Forest,Isaiah Mucius,Foul,31,36
+2:36,Wake Forest,Isaiah Mucius,Turnover,31,36
+2:11,Notre Dame,D.J. Harvey,Missed Three Point Jumper,31,36
+2:11,Wake Forest,Torry Johnson,Defensive Rebound,31,36
+2:05,Notre Dame,D.J. Harvey,Foul,31,36
+1:51,Wake Forest,Ikenna Smart,Missed Jumper,31,36
+1:51,Notre Dame,John Mooney,Defensive Rebound,31,36
+1:27,Notre Dame,John Mooney,Missed Three Point Jumper,31,36
+1:27,Wake Forest,Chaundee Brown,Defensive Rebound,31,36
+1:20,Wake Forest,Chaundee Brown,Jumper,33,36
+0:59,Notre Dame,John Mooney,Missed Three Point Jumper,33,36
+0:59,Notre Dame,John Mooney,Offensive Rebound,33,36
+0:49,Notre Dame,John Mooney,Foul,33,36
+0:49,Notre Dame,John Mooney,Turnover,33,36
+0:34,Wake Forest,Jaylen Hoard,Missed Three Point Jumper,33,36
+0:34,Notre Dame,Juwan Durham,Defensive Rebound,33,36
+0:20,Notre Dame,None,None,33,36
+0:08,Notre Dame,Dane Goodwin,Missed Three Point Jumper,33,36
+0:08,Wake Forest,Chaundee Brown,Defensive Rebound,33,36
+0:02,Notre Dame,Juwan Durham,Foul,33,36
+0:02,Wake Forest,Chaundee Brown,Free Throw,34,36
+0:02,Wake Forest,Chaundee Brown,Free Throw,35,36
+0:02,Wake Forest,Chaundee Brown,Missed Free Throw,35,36
+0:02,Notre Dame,Juwan Durham,Defensive Rebound,35,36
+0:00,Notre Dame,None,None,36,36
+20:00,Wake Forest,None,None,35,36
+19:46,Wake Forest,Olivier Sarr,Jumper,37,36
+19:07,Notre Dame,D.J. Harvey,Jumper,37,38
+18:54,Wake Forest,Olivier Sarr,Turnover,37,38
+18:41,Notre Dame,John Mooney,Missed Three Point Jumper,37,38
+18:41,Wake Forest,Brandon Childress,Defensive Rebound,37,38
+18:32,Wake Forest,Jaylen Hoard,Layup,39,38
+18:32,Notre Dame,Nikola Djogo,Foul,39,38
+18:32,Wake Forest,Jaylen Hoard,Missed Free Throw,39,38
+18:32,Wake Forest,Torry Johnson,Offensive Rebound,39,38
+18:26,Wake Forest,Chaundee Brown,Missed Layup,39,38
+18:26,Wake Forest,Olivier Sarr,Offensive Rebound,39,38
+18:26,Notre Dame,D.J. Harvey,Foul,39,38
+18:26,Wake Forest,Olivier Sarr,Missed Free Throw,39,38
+18:26,Wake Forest,None,Team Rebound,39,38
+18:26,Wake Forest,Olivier Sarr,Free Throw,40,38
+18:09,Notre Dame,Prentiss Hubb,Three Point Jumper,40,41
+17:52,Wake Forest,Jaylen Hoard,Turnover,40,41
+17:52,Notre Dame,D.J. Harvey,Steal,40,41
+17:42,Notre Dame,D.J. Harvey,Jumper,40,43
+17:20,Wake Forest,Olivier Sarr,Layup,42,43
+17:20,Notre Dame,Juwan Durham,Foul,42,43
+17:20,Wake Forest,Olivier Sarr,Missed Free Throw,42,43
+17:20,Wake Forest,Chaundee Brown,Missed Layup,42,43
+17:20,Notre Dame,Juwan Durham,Block,42,43
+17:20,Notre Dame,Dane Goodwin,Defensive Rebound,42,43
+17:20,Wake Forest,Chaundee Brown,Offensive Rebound,42,43
+17:08,Notre Dame,D.J. Harvey,Missed Three Point Jumper,42,43
+17:08,Wake Forest,Ikenna Smart,Defensive Rebound,42,43
+16:29,Wake Forest,Ikenna Smart,Missed Jumper,42,43
+16:29,Wake Forest,Wake Forest,Offensive Rebound,42,43
+16:19,Wake Forest,Ikenna Smart,Missed Jumper,42,43
+16:19,Notre Dame,Prentiss Hubb,Defensive Rebound,42,43
+15:56,Notre Dame,D.J. Harvey,Turnover,42,43
+15:56,Notre Dame,None,None,42,43
+15:46,Wake Forest,Ikenna Smart,Foul,42,43
+15:46,Wake Forest,Ikenna Smart,Turnover,42,43
+15:41,Notre Dame,John Mooney,Dunk,42,45
+15:20,Notre Dame,Nate Laszewski,Foul,42,45
+15:20,Wake Forest,Isaiah Mucius,Free Throw,43,45
+15:20,Wake Forest,Isaiah Mucius,Missed Free Throw,43,45
+15:20,Notre Dame,John Mooney,Defensive Rebound,43,45
+15:11,Notre Dame,TJ Gibbs,Jumper,43,47
+14:55,Wake Forest,Isaiah Mucius,Missed Jumper,43,47
+14:55,Notre Dame,Nikola Djogo,Defensive Rebound,43,47
+14:32,Notre Dame,Prentiss Hubb,Turnover,43,47
+14:32,Wake Forest,Brandon Childress,Steal,43,47
+14:32,Notre Dame,Nate Laszewski,Foul,43,47
+14:08,Wake Forest,Brandon Childress,Missed Three Point Jumper,43,47
+14:08,Wake Forest,Isaiah Mucius,Offensive Rebound,43,47
+14:02,Wake Forest,Isaiah Mucius,Layup,45,47
+13:48,Wake Forest,Jaylen Hoard,Foul,45,47
+13:48,Notre Dame,John Mooney,Missed Free Throw,45,47
+13:48,Notre Dame,None,Team Rebound,45,47
+13:48,Notre Dame,John Mooney,Free Throw,45,48
+13:26,Wake Forest,Sharone Wright Jr.,Three Point Jumper,48,48
+13:12,Wake Forest,Sharone Wright Jr.,Foul,48,48
+13:03,Wake Forest,Ikenna Smart,Foul,48,48
+12:49,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,48,48
+12:49,Wake Forest,Jaylen Hoard,Defensive Rebound,48,48
+12:44,Wake Forest,Jaylen Hoard,Turnover,48,48
+12:23,Notre Dame,TJ Gibbs,Missed Three Point Jumper,48,48
+12:23,Wake Forest,Brandon Childress,Defensive Rebound,48,48
+12:17,Notre Dame,John Mooney,Foul,48,48
+12:04,Wake Forest,Isaiah Mucius,Missed Three Point Jumper,48,48
+12:04,Notre Dame,TJ Gibbs,Defensive Rebound,48,48
+11:52,Notre Dame,Juwan Durham,Missed Jumper,48,48
+11:52,Wake Forest,Brandon Childress,Defensive Rebound,48,48
+11:42,Wake Forest,Ikenna Smart,Missed Jumper,48,48
+11:42,Notre Dame,Juwan Durham,Block,48,48
+11:42,Notre Dame,Prentiss Hubb,Defensive Rebound,48,48
+11:33,Notre Dame,TJ Gibbs,Missed Jumper,48,48
+11:33,Wake Forest,Isaiah Mucius,Defensive Rebound,48,48
+11:25,Notre Dame,None,None,48,48
+11:02,Notre Dame,TJ Gibbs,Foul,48,48
+11:02,Wake Forest,Brandon Childress,Free Throw,49,48
+11:02,Wake Forest,Brandon Childress,Free Throw,50,48
+10:58,Notre Dame,John Mooney,Missed Layup,50,48
+10:58,Wake Forest,Jaylen Hoard,Defensive Rebound,50,48
+10:39,Wake Forest,Chaundee Brown,Turnover,50,48
+10:39,Notre Dame,Prentiss Hubb,Steal,50,48
+10:33,Notre Dame,John Mooney,Layup,50,50
+10:33,Wake Forest,Brandon Childress,Foul,50,50
+10:33,Notre Dame,John Mooney,Free Throw,50,51
+10:12,Wake Forest,Jaylen Hoard,Missed Jumper,50,51
+10:12,Wake Forest,Olivier Sarr,Offensive Rebound,50,51
+10:07,Wake Forest,Olivier Sarr,Missed Jumper,50,51
+10:07,Wake Forest,Olivier Sarr,Offensive Rebound,50,51
+9:51,Wake Forest,Torry Johnson,Jumper,52,51
+9:32,Notre Dame,Dane Goodwin,Missed Jumper,52,51
+9:32,Notre Dame,John Mooney,Offensive Rebound,52,51
+9:31,Wake Forest,Chaundee Brown,Foul,52,51
+9:31,Notre Dame,John Mooney,Free Throw,52,52
+9:31,Notre Dame,John Mooney,Free Throw,52,53
+9:12,Wake Forest,Brandon Childress,Three Point Jumper,55,53
+8:54,Notre Dame,Prentiss Hubb,Turnover,55,53
+8:54,Wake Forest,Torry Johnson,Steal,55,53
+8:49,Wake Forest,Sharone Wright Jr.,Layup,57,53
+8:42,Notre Dame,None,None,57,53
+8:31,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,57,53
+8:31,Wake Forest,Olivier Sarr,Defensive Rebound,57,53
+8:12,Wake Forest,Sharone Wright Jr.,Missed Jumper,57,53
+8:12,Notre Dame,John Mooney,Defensive Rebound,57,53
+8:00,Notre Dame,TJ Gibbs,Missed Jumper,57,53
+8:00,Notre Dame,Dane Goodwin,Offensive Rebound,57,53
+7:55,Wake Forest,Torry Johnson,Foul,57,53
+7:55,Notre Dame,Dane Goodwin,Free Throw,57,54
+7:55,Notre Dame,Dane Goodwin,Free Throw,57,55
+7:37,Wake Forest,Jaylen Hoard,Missed Layup,57,55
+7:37,Notre Dame,D.J. Harvey,Block,57,55
+7:37,Wake Forest,Jaylen Hoard,Offensive Rebound,57,55
+7:33,Notre Dame,TJ Gibbs,Foul,57,55
+7:33,Wake Forest,Jaylen Hoard,Free Throw,58,55
+7:33,Wake Forest,Jaylen Hoard,Free Throw,59,55
+7:15,Notre Dame,Dane Goodwin,Turnover,59,55
+7:15,Wake Forest,Sharone Wright Jr.,Steal,59,55
+7:10,Wake Forest,Sharone Wright Jr.,Dunk,61,55
+6:51,Notre Dame,John Mooney,Layup,61,57
+6:33,Wake Forest,Brandon Childress,Three Point Jumper,64,57
+6:07,Notre Dame,Prentiss Hubb,Turnover,64,57
+5:47,Notre Dame,Dane Goodwin,Foul,64,57
+5:47,Wake Forest,Torry Johnson,Missed Free Throw,64,57
+5:47,Wake Forest,None,Team Rebound,64,57
+5:47,Wake Forest,Torry Johnson,Free Throw,65,57
+5:47,Wake Forest,Torry Johnson,Free Throw,66,57
+5:33,Notre Dame,TJ Gibbs,Jumper,66,59
+5:15,Wake Forest,Olivier Sarr,Missed Three Point Jumper,66,59
+5:15,Notre Dame,Nikola Djogo,Defensive Rebound,66,59
+5:06,Notre Dame,John Mooney,Three Point Jumper,66,62
+4:55,Wake Forest,None,None,66,62
+4:42,Wake Forest,Jaylen Hoard,Missed Jumper,66,62
+4:42,Notre Dame,John Mooney,Defensive Rebound,66,62
+4:24,Notre Dame,John Mooney,Missed Three Point Jumper,66,62
+4:24,Notre Dame,Nikola Djogo,Offensive Rebound,66,62
+4:10,Wake Forest,Torry Johnson,Foul,66,62
+4:10,Notre Dame,TJ Gibbs,Free Throw,66,63
+4:10,Notre Dame,TJ Gibbs,Free Throw,66,64
+3:52,Wake Forest,Olivier Sarr,Turnover,66,64
+3:52,Notre Dame,None,None,66,64
+3:36,Wake Forest,Olivier Sarr,Foul,66,64
+3:36,Notre Dame,Nate Laszewski,Missed Free Throw,66,64
+3:36,Notre Dame,None,Team Rebound,66,64
+3:36,Notre Dame,Nate Laszewski,Free Throw,66,65
+3:18,Wake Forest,Brandon Childress,Missed Three Point Jumper,66,65
+3:18,Notre Dame,Nikola Djogo,Defensive Rebound,66,65
+2:56,Wake Forest,Torry Johnson,Foul,66,65
+2:56,Notre Dame,Prentiss Hubb,Free Throw,66,66
+2:56,Notre Dame,Prentiss Hubb,Missed Free Throw,66,66
+2:56,Wake Forest,Jaylen Hoard,Defensive Rebound,66,66
+2:43,Wake Forest,Jaylen Hoard,Layup,68,66
+2:23,Notre Dame,Nate Laszewski,Missed Three Point Jumper,68,66
+2:23,Wake Forest,Jaylen Hoard,Defensive Rebound,68,66
+1:50,Wake Forest,Chaundee Brown,Turnover,68,66
+1:30,Notre Dame,Prentiss Hubb,Missed Layup,68,66
+1:30,Wake Forest,Olivier Sarr,Block,68,66
+1:30,Wake Forest,Brandon Childress,Defensive Rebound,68,66
+1:07,Wake Forest,Olivier Sarr,Jumper,70,66
+0:53,Notre Dame,Prentiss Hubb,Turnover,70,66
+0:53,Wake Forest,Torry Johnson,Steal,70,66
+0:47,Wake Forest,Olivier Sarr,Turnover,70,66
+0:47,Notre Dame,TJ Gibbs,Steal,70,66
+0:47,Notre Dame,None,None,70,66
+0:47,Notre Dame,None,None,70,66
+0:44,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,70,66
+0:44,Wake Forest,Brandon Childress,Defensive Rebound,70,66
+0:37,Notre Dame,Nikola Djogo,Foul,70,66
+0:37,Wake Forest,Brandon Childress,Free Throw,71,66
+0:37,Wake Forest,Brandon Childress,Missed Free Throw,71,66
+0:37,Notre Dame,Nikola Djogo,Defensive Rebound,71,66
+0:27,Wake Forest,Olivier Sarr,Foul,71,66
+0:27,Notre Dame,D.J. Harvey,Free Throw,71,67
+0:27,Notre Dame,D.J. Harvey,Free Throw,71,68
+0:15,Notre Dame,Dane Goodwin,Foul,71,68
+0:15,Wake Forest,Torry Johnson,Free Throw,72,68
+0:15,Wake Forest,Torry Johnson,Free Throw,73,68
+0:15,Wake Forest,None,None,73,68
+0:10,Notre Dame,Prentiss Hubb,Missed Three Point Jumper,73,68
+0:10,Wake Forest,Chaundee Brown,Defensive Rebound,73,68
+0:04,Notre Dame,Prentiss Hubb,Foul,73,68
+0:04,Wake Forest,Brandon Childress,Free Throw,74,68
+0:04,Wake Forest,Brandon Childress,Free Throw,75,68
+0:00,Notre Dame,None,None,75,68

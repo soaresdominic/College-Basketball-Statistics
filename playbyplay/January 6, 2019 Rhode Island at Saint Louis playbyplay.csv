@@ -1,0 +1,339 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Rhode Island,None,None,0,0
+19:40,Rhode Island,Cyril Langevine,Missed Layup,0,0
+19:40,Saint Louis,Hasahn French,Block,0,0
+19:40,Saint Louis,D.J. Foreman,Defensive Rebound,0,0
+19:14,Saint Louis,Hasahn French,Dunk,0,2
+18:49,Rhode Island,Christion Thompson,Turnover,0,2
+18:49,Saint Louis,Hasahn French,Steal,0,2
+18:34,Saint Louis,Javon Bess,Missed Jumper,0,2
+18:34,Saint Louis,Jordan Goodwin,Offensive Rebound,0,2
+18:20,Saint Louis,Javon Bess,Three Point Jumper,0,5
+17:57,Rhode Island,Christion Thompson,Turnover,0,5
+17:47,Saint Louis,D.J. Foreman,Turnover,0,5
+17:47,Rhode Island,Jeff Dowtin,Steal,0,5
+17:40,Rhode Island,Tyrese Martin,Layup,2,5
+17:27,Saint Louis,Tramaine Isabell Jr.,Layup,2,7
+17:14,Rhode Island,Tyrese Martin,Missed Three Point Jumper,2,7
+17:14,Saint Louis,D.J. Foreman,Defensive Rebound,2,7
+17:04,Saint Louis,Javon Bess,Missed Three Point Jumper,2,7
+17:04,Rhode Island,Jermaine Harris,Defensive Rebound,2,7
+16:52,Rhode Island,Dana Tate,Missed Three Point Jumper,2,7
+16:52,Saint Louis,D.J. Foreman,Defensive Rebound,2,7
+16:29,Rhode Island,Cyril Langevine,Foul,2,7
+16:29,Saint Louis,Hasahn French,Missed Free Throw,2,7
+16:29,Saint Louis,None,Team Rebound,2,7
+16:29,Saint Louis,Hasahn French,Missed Free Throw,2,7
+16:29,Rhode Island,Dana Tate,Defensive Rebound,2,7
+16:13,Rhode Island,Jermaine Harris,Jumper,4,7
+15:57,Saint Louis,Javon Bess,Jumper,4,9
+15:43,Rhode Island,Jeff Dowtin,Turnover,4,9
+15:43,Saint Louis,Hasahn French,Steal,4,9
+15:39,Saint Louis,Tramaine Isabell Jr.,Layup,4,11
+15:26,Rhode Island,Jeff Dowtin,Jumper,6,11
+15:09,Saint Louis,Javon Bess,Missed Three Point Jumper,6,11
+15:09,Rhode Island,Cyril Langevine,Defensive Rebound,6,11
+14:50,Rhode Island,Jermaine Harris,Missed Jumper,6,11
+14:50,Rhode Island,Cyril Langevine,Offensive Rebound,6,11
+14:45,Saint Louis,Jordan Goodwin,Foul,6,11
+14:45,Rhode Island,Cyril Langevine,Free Throw,7,11
+14:45,Rhode Island,Cyril Langevine,Free Throw,8,11
+14:26,Saint Louis,Jordan Goodwin,Turnover,8,11
+14:07,Rhode Island,Jermaine Harris,Missed Jumper,8,11
+14:07,Saint Louis,Hasahn French,Block,8,11
+14:07,Saint Louis,KC Hankton,Defensive Rebound,8,11
+13:53,Saint Louis,KC Hankton,Missed Three Point Jumper,8,11
+13:53,Saint Louis,Fred Thatch Jr.,Offensive Rebound,8,11
+13:46,Saint Louis,Fred Thatch Jr.,Missed Layup,8,11
+13:46,Rhode Island,Jeff Dowtin,Defensive Rebound,8,11
+13:38,Rhode Island,Jeff Dowtin,Missed Jumper,8,11
+13:38,Saint Louis,Javon Bess,Defensive Rebound,8,11
+13:17,Saint Louis,Tramaine Isabell Jr.,Layup,8,13
+13:02,Saint Louis,Fred Thatch Jr.,Foul,8,13
+12:56,Saint Louis,Hasahn French,Foul,8,13
+12:56,Rhode Island,Cyril Langevine,Missed Free Throw,8,13
+12:56,Rhode Island,None,Team Rebound,8,13
+12:56,Rhode Island,Cyril Langevine,Missed Free Throw,8,13
+12:56,Saint Louis,KC Hankton,Defensive Rebound,8,13
+12:47,Saint Louis,KC Hankton,Missed Jumper,8,13
+12:47,Rhode Island,Tyrese Martin,Defensive Rebound,8,13
+12:17,Rhode Island,Cyril Langevine,Turnover,8,13
+11:56,Saint Louis,Fred Thatch Jr.,Missed Three Point Jumper,8,13
+11:56,Rhode Island,Cyril Langevine,Defensive Rebound,8,13
+11:44,Rhode Island,Jeff Dowtin,Missed Jumper,8,13
+11:44,Saint Louis,D.J. Foreman,Block,8,13
+11:44,Rhode Island,Rhode Island,Offensive Rebound,8,13
+11:42,Saint Louis,None,None,8,13
+11:25,Saint Louis,KC Hankton,Foul,8,13
+11:25,Rhode Island,Jeff Dowtin,Free Throw,9,13
+11:25,Rhode Island,Jeff Dowtin,Free Throw,10,13
+11:07,Saint Louis,Jordan Goodwin,Missed Three Point Jumper,10,13
+11:07,Saint Louis,KC Hankton,Offensive Rebound,10,13
+10:58,Saint Louis,KC Hankton,Missed Layup,10,13
+10:58,Rhode Island,Cyril Langevine,Defensive Rebound,10,13
+10:44,Rhode Island,Christion Thompson,Missed Three Point Jumper,10,13
+10:44,Saint Louis,Hasahn French,Defensive Rebound,10,13
+10:27,Saint Louis,Tramaine Isabell Jr.,Missed Jumper,10,13
+10:27,Rhode Island,Dana Tate,Defensive Rebound,10,13
+10:21,Rhode Island,Dana Tate,Jumper,12,13
+9:49,Saint Louis,Hasahn French,Layup,12,15
+9:40,Rhode Island,Cyril Langevine,Missed Layup,12,15
+9:40,Saint Louis,Hasahn French,Defensive Rebound,12,15
+9:32,Saint Louis,Dion Wiley,Missed Three Point Jumper,12,15
+9:32,Rhode Island,Rhode Island,Defensive Rebound,12,15
+9:11,Rhode Island,Christion Thompson,Turnover,12,15
+9:01,Saint Louis,Jordan Goodwin,Missed Jumper,12,15
+9:01,Rhode Island,Cyril Langevine,Defensive Rebound,12,15
+8:48,Rhode Island,Dana Tate,Missed Three Point Jumper,12,15
+8:48,Saint Louis,Jordan Goodwin,Defensive Rebound,12,15
+8:30,Saint Louis,Tramaine Isabell Jr.,Turnover,12,15
+8:30,Rhode Island,Christion Thompson,Steal,12,15
+8:07,Rhode Island,Christion Thompson,Missed Three Point Jumper,12,15
+8:07,Saint Louis,Jordan Goodwin,Defensive Rebound,12,15
+7:44,Saint Louis,Hasahn French,Missed Layup,12,15
+7:44,Rhode Island,Dana Tate,Defensive Rebound,12,15
+7:28,Rhode Island,Cyril Langevine,Missed Jumper,12,15
+7:28,Saint Louis,Hasahn French,Defensive Rebound,12,15
+7:16,Saint Louis,Tramaine Isabell Jr.,Turnover,12,15
+7:16,Saint Louis,None,None,12,15
+7:00,Rhode Island,Omar Silverio,Missed Layup,12,15
+7:00,Saint Louis,Jordan Goodwin,Block,12,15
+7:00,Saint Louis,Hasahn French,Defensive Rebound,12,15
+6:45,Saint Louis,Javon Bess,Three Point Jumper,12,18
+6:26,Rhode Island,Cyril Langevine,Layup,14,18
+6:21,Saint Louis,Jordan Goodwin,Turnover,14,18
+6:21,Rhode Island,Jeff Dowtin,Steal,14,18
+6:14,Rhode Island,Jeff Dowtin,Missed Three Point Jumper,14,18
+6:14,Saint Louis,Jordan Goodwin,Defensive Rebound,14,18
+6:06,Saint Louis,Tramaine Isabell Jr.,Layup,14,20
+5:57,Rhode Island,Tyrese Martin,Three Point Jumper,17,20
+5:33,Saint Louis,Fred Thatch Jr.,Missed Layup,17,20
+5:33,Saint Louis,Hasahn French,Offensive Rebound,17,20
+5:18,Rhode Island,Cyril Langevine,Foul,17,20
+5:18,Saint Louis,Hasahn French,Missed Free Throw,17,20
+5:18,Saint Louis,None,Team Rebound,17,20
+5:18,Saint Louis,Hasahn French,Missed Free Throw,17,20
+5:18,Saint Louis,Jordan Goodwin,Offensive Rebound,17,20
+5:18,Saint Louis,Jordan Goodwin,Missed Layup,17,20
+5:18,Rhode Island,Christion Thompson,Defensive Rebound,17,20
+4:54,Rhode Island,Cyril Langevine,Missed Three Point Jumper,17,20
+4:54,Saint Louis,Jordan Goodwin,Defensive Rebound,17,20
+4:54,Rhode Island,Ryan Preston,Foul,17,20
+4:43,Saint Louis,Fred Thatch Jr.,Missed Jumper,17,20
+4:43,Rhode Island,Ryan Preston,Block,17,20
+4:43,Rhode Island,Tyrese Martin,Defensive Rebound,17,20
+4:35,Rhode Island,Tyrese Martin,Missed Layup,17,20
+4:35,Rhode Island,Christion Thompson,Offensive Rebound,17,20
+4:28,Rhode Island,Christion Thompson,Layup,19,20
+4:15,Saint Louis,Hasahn French,Layup,19,22
+3:58,Rhode Island,Omar Silverio,Missed Jumper,19,22
+3:58,Saint Louis,Hasahn French,Block,19,22
+3:58,Rhode Island,Dana Tate,Offensive Rebound,19,22
+3:40,Rhode Island,Dana Tate,Layup,21,22
+3:38,Rhode Island,Ryan Preston,Foul,21,22
+3:38,Saint Louis,None,None,21,22
+3:38,Saint Louis,Tramaine Isabell Jr.,Missed Free Throw,21,22
+3:38,Saint Louis,None,Team Rebound,21,22
+3:38,Saint Louis,Tramaine Isabell Jr.,Free Throw,21,23
+3:28,Rhode Island,Christion Thompson,Turnover,21,23
+3:28,Saint Louis,Javon Bess,Steal,21,23
+3:28,Rhode Island,Christion Thompson,Foul,21,23
+3:17,Saint Louis,Hasahn French,Missed Jumper,21,23
+3:17,Rhode Island,Tyrese Martin,Defensive Rebound,21,23
+3:09,Rhode Island,Tyrese Martin,Missed Layup,21,23
+3:09,Saint Louis,Hasahn French,Defensive Rebound,21,23
+2:43,Saint Louis,Jordan Goodwin,Missed Jumper,21,23
+2:43,Rhode Island,Ryan Preston,Block,21,23
+2:43,Rhode Island,Dana Tate,Defensive Rebound,21,23
+2:30,Rhode Island,None,None,21,23
+2:22,Rhode Island,Dana Tate,Three Point Jumper,24,23
+2:01,Saint Louis,Hasahn French,Layup,24,25
+1:47,Rhode Island,Dana Tate,Turnover,24,25
+1:47,Saint Louis,Hasahn French,Steal,24,25
+1:33,Saint Louis,Hasahn French,Missed Jumper,24,25
+1:33,Rhode Island,Dana Tate,Defensive Rebound,24,25
+1:29,Saint Louis,Jordan Goodwin,Foul,24,25
+1:13,Saint Louis,D.J. Foreman,Foul,24,25
+1:13,Rhode Island,Christion Thompson,Free Throw,25,25
+1:13,Rhode Island,Christion Thompson,Missed Free Throw,25,25
+1:13,Rhode Island,None,Team Rebound,25,25
+1:13,Rhode Island,Christion Thompson,Missed Free Throw,25,25
+1:13,Saint Louis,D.J. Foreman,Defensive Rebound,25,25
+1:10,Saint Louis,None,None,25,25
+0:52,Saint Louis,Tramaine Isabell Jr.,Missed Three Point Jumper,25,25
+0:52,Rhode Island,Ryan Preston,Defensive Rebound,25,25
+0:22,Rhode Island,Jeff Dowtin,Missed Jumper,25,25
+0:22,Saint Louis,Javon Bess,Defensive Rebound,25,25
+0:02,Saint Louis,Tramaine Isabell Jr.,Missed Three Point Jumper,25,25
+0:02,Rhode Island,Christion Thompson,Defensive Rebound,25,25
+0:00,Saint Louis,None,None,25,25
+20:00,Saint Louis,None,None,25,25
+19:44,Saint Louis,D.J. Foreman,Dunk,25,27
+19:19,Rhode Island,Cyril Langevine,Missed Layup,25,27
+19:19,Saint Louis,Jordan Goodwin,Defensive Rebound,25,27
+19:10,Saint Louis,Tramaine Isabell Jr.,Missed Layup,25,27
+19:10,Saint Louis,Hasahn French,Offensive Rebound,25,27
+19:01,Saint Louis,Hasahn French,Missed Layup,25,27
+19:01,Rhode Island,Cyril Langevine,Defensive Rebound,25,27
+18:55,Rhode Island,Tyrese Martin,Three Point Jumper,28,27
+18:47,Saint Louis,Tramaine Isabell Jr.,Three Point Jumper,28,30
+18:34,Rhode Island,Christion Thompson,Jumper,30,30
+18:16,Saint Louis,Jordan Goodwin,Three Point Jumper,30,33
+17:53,Saint Louis,Tramaine Isabell Jr.,Foul,30,33
+17:53,Rhode Island,Jeff Dowtin,Free Throw,31,33
+17:53,Rhode Island,Jeff Dowtin,Free Throw,32,33
+17:42,Rhode Island,Christion Thompson,Foul,32,33
+17:38,Saint Louis,Javon Bess,Jumper,32,35
+17:09,Saint Louis,D.J. Foreman,Foul,32,35
+17:09,Rhode Island,Cyril Langevine,Free Throw,33,35
+17:09,Rhode Island,Cyril Langevine,Free Throw,34,35
+16:43,Rhode Island,Christion Thompson,Foul,34,35
+16:43,Saint Louis,D.J. Foreman,Free Throw,34,36
+16:43,Saint Louis,D.J. Foreman,Missed Free Throw,34,36
+16:43,Rhode Island,Christion Thompson,Defensive Rebound,34,36
+16:43,Rhode Island,Tyrese Martin,Three Point Jumper,37,36
+15:55,Saint Louis,Hasahn French,Missed Jumper,37,36
+15:55,Rhode Island,Cyril Langevine,Block,37,36
+15:55,Saint Louis,Jordan Goodwin,Offensive Rebound,37,36
+15:55,Rhode Island,Christion Thompson,Foul,37,36
+15:55,Saint Louis,None,None,37,36
+15:44,Rhode Island,Cyril Langevine,Foul,37,36
+15:44,Saint Louis,D.J. Foreman,Missed Free Throw,37,36
+15:44,Saint Louis,None,Team Rebound,37,36
+15:44,Saint Louis,D.J. Foreman,Free Throw,37,37
+15:16,Rhode Island,Jeff Dowtin,Missed Jumper,37,37
+15:16,Rhode Island,Dana Tate,Offensive Rebound,37,37
+15:12,Saint Louis,Jordan Goodwin,Foul,37,37
+14:48,Rhode Island,Jermaine Harris,Turnover,37,37
+14:48,Saint Louis,D.J. Foreman,Steal,37,37
+14:37,Saint Louis,D.J. Foreman,Turnover,37,37
+14:37,Rhode Island,Dana Tate,Steal,37,37
+14:34,Rhode Island,Omar Silverio,Layup,39,37
+14:09,Saint Louis,Javon Bess,Turnover,39,37
+14:09,Rhode Island,Jeff Dowtin,Steal,39,37
+14:00,Rhode Island,Jermaine Harris,Turnover,39,37
+14:00,Saint Louis,Jordan Goodwin,Steal,39,37
+13:57,Saint Louis,Tramaine Isabell Jr.,Missed Three Point Jumper,39,37
+13:57,Rhode Island,Rhode Island,Defensive Rebound,39,37
+13:40,Rhode Island,Dana Tate,Missed Three Point Jumper,39,37
+13:40,Saint Louis,Hasahn French,Defensive Rebound,39,37
+13:18,Saint Louis,None,None,39,37
+13:18,Saint Louis,None,None,39,37
+13:00,Saint Louis,Hasahn French,Missed Jumper,39,37
+13:00,Rhode Island,Dana Tate,Defensive Rebound,39,37
+12:37,Rhode Island,Tyrese Martin,Jumper,41,37
+12:19,Saint Louis,D.J. Foreman,Turnover,41,37
+12:19,Rhode Island,Jeff Dowtin,Steal,41,37
+12:15,Rhode Island,Dana Tate,Layup,43,37
+12:08,Saint Louis,None,None,43,37
+12:08,Saint Louis,None,None,43,37
+11:42,Rhode Island,Jermaine Harris,Foul,43,37
+11:42,Saint Louis,Fred Thatch Jr.,Free Throw,43,38
+11:42,Saint Louis,Fred Thatch Jr.,Missed Free Throw,43,38
+11:42,Saint Louis,Javon Bess,Offensive Rebound,43,38
+11:37,Saint Louis,Javon Bess,Missed Jumper,43,38
+11:37,Saint Louis,Hasahn French,Offensive Rebound,43,38
+11:32,Saint Louis,Hasahn French,Missed Layup,43,38
+11:32,Rhode Island,Tyrese Martin,Defensive Rebound,43,38
+11:11,Rhode Island,Jermaine Harris,Foul,43,38
+11:11,Rhode Island,Jermaine Harris,Turnover,43,38
+10:56,Saint Louis,Javon Bess,Three Point Jumper,43,41
+10:41,Rhode Island,Dana Tate,Missed Jumper,43,41
+10:41,Saint Louis,Hasahn French,Defensive Rebound,43,41
+10:23,Saint Louis,Fred Thatch Jr.,Missed Jumper,43,41
+10:23,Rhode Island,Omar Silverio,Defensive Rebound,43,41
+10:13,Rhode Island,Omar Silverio,Missed Jumper,43,41
+10:13,Saint Louis,Fred Thatch Jr.,Defensive Rebound,43,41
+10:11,Rhode Island,Dana Tate,Foul,43,41
+10:11,Saint Louis,Fred Thatch Jr.,Free Throw,43,42
+10:11,Saint Louis,Fred Thatch Jr.,Missed Free Throw,43,42
+10:11,Rhode Island,Cyril Langevine,Defensive Rebound,43,42
+9:52,Rhode Island,Dana Tate,Turnover,43,42
+9:52,Saint Louis,Javon Bess,Steal,43,42
+9:48,Saint Louis,Javon Bess,Layup,43,44
+9:38,Rhode Island,Tyrese Martin,Turnover,43,44
+9:38,Rhode Island,None,None,43,44
+9:27,Saint Louis,KC Hankton,Turnover,43,44
+9:27,Rhode Island,Tyrese Martin,Steal,43,44
+9:23,Rhode Island,Tyrese Martin,Layup,45,44
+9:08,Saint Louis,Hasahn French,Dunk,45,46
+8:57,Rhode Island,Christion Thompson,Missed Three Point Jumper,45,46
+8:57,Saint Louis,Tramaine Isabell Jr.,Defensive Rebound,45,46
+8:49,Saint Louis,KC Hankton,Three Point Jumper,45,49
+8:49,Rhode Island,Christion Thompson,Foul,45,49
+8:49,Saint Louis,KC Hankton,Free Throw,45,50
+8:37,Saint Louis,Hasahn French,Foul,45,50
+8:37,Rhode Island,Jeff Dowtin,Missed Three Point Jumper,45,50
+8:37,Rhode Island,Tyrese Martin,Offensive Rebound,45,50
+8:37,Rhode Island,Tyrese Martin,Missed Layup,45,50
+8:37,Rhode Island,Tyrese Martin,Offensive Rebound,45,50
+8:29,Rhode Island,Tyrese Martin,Three Point Jumper,48,50
+7:51,Saint Louis,KC Hankton,Missed Three Point Jumper,48,50
+7:51,Rhode Island,Dana Tate,Defensive Rebound,48,50
+7:41,Rhode Island,Jeff Dowtin,Turnover,48,50
+7:41,Saint Louis,None,None,48,50
+7:37,Saint Louis,Javon Bess,Three Point Jumper,48,53
+7:01,Rhode Island,Jeff Dowtin,Three Point Jumper,51,53
+6:42,Saint Louis,Fred Thatch Jr.,Turnover,51,53
+6:25,Rhode Island,Tyrese Martin,Missed Three Point Jumper,51,53
+6:25,Saint Louis,KC Hankton,Defensive Rebound,51,53
+6:17,Saint Louis,Fred Thatch Jr.,Turnover,51,53
+6:17,Rhode Island,Jeff Dowtin,Steal,51,53
+5:57,Rhode Island,Tyrese Martin,Missed Layup,51,53
+5:57,Saint Louis,Hasahn French,Defensive Rebound,51,53
+5:46,Saint Louis,Tramaine Isabell Jr.,Missed Three Point Jumper,51,53
+5:46,Rhode Island,Dana Tate,Defensive Rebound,51,53
+5:16,Rhode Island,Jeff Dowtin,Foul,51,53
+5:16,Rhode Island,Jeff Dowtin,Turnover,51,53
+5:16,Rhode Island,Rhode Island,Foul,51,53
+5:16,Saint Louis,Javon Bess,Missed Free Throw,51,53
+5:16,Saint Louis,None,Team Rebound,51,53
+5:16,Saint Louis,Javon Bess,Free Throw,51,54
+5:07,Saint Louis,KC Hankton,Missed Three Point Jumper,51,54
+5:07,Rhode Island,Cyril Langevine,Defensive Rebound,51,54
+4:55,Saint Louis,Hasahn French,Foul,51,54
+4:33,Saint Louis,Javon Bess,Foul,51,54
+4:19,Rhode Island,Jeff Dowtin,Missed Jumper,51,54
+4:19,Rhode Island,Rhode Island,Offensive Rebound,51,54
+4:09,Saint Louis,Hasahn French,Foul,51,54
+4:09,Rhode Island,Cyril Langevine,Missed Free Throw,51,54
+4:09,Saint Louis,Javon Bess,Defensive Rebound,51,54
+4:09,Rhode Island,Ryan Preston,Foul,51,54
+4:09,Saint Louis,Javon Bess,Missed Free Throw,51,54
+4:09,Saint Louis,None,Team Rebound,51,54
+4:09,Saint Louis,Javon Bess,Free Throw,51,55
+3:52,Rhode Island,Cyril Langevine,Missed Layup,51,55
+3:52,Rhode Island,Cyril Langevine,Offensive Rebound,51,55
+3:45,Rhode Island,Cyril Langevine,Missed Layup,51,55
+3:45,Saint Louis,Tramaine Isabell Jr.,Defensive Rebound,51,55
+3:38,Saint Louis,Tramaine Isabell Jr.,Missed Three Point Jumper,51,55
+3:38,Rhode Island,Cyril Langevine,Defensive Rebound,51,55
+3:18,Rhode Island,Tyrese Martin,Missed Jumper,51,55
+3:18,Rhode Island,Jermaine Harris,Offensive Rebound,51,55
+3:10,Rhode Island,Jermaine Harris,Turnover,51,55
+3:10,Saint Louis,Jordan Goodwin,Steal,51,55
+2:47,Saint Louis,Javon Bess,Jumper,51,57
+2:24,Rhode Island,None,None,51,57
+2:24,Saint Louis,None,None,51,57
+2:03,Saint Louis,KC Hankton,Foul,51,57
+2:03,Rhode Island,Jeff Dowtin,Free Throw,52,57
+2:03,Rhode Island,Jeff Dowtin,Free Throw,53,57
+1:39,Saint Louis,Javon Bess,Missed Three Point Jumper,53,57
+1:39,Saint Louis,KC Hankton,Offensive Rebound,53,57
+1:12,Saint Louis,Jordan Goodwin,Turnover,53,57
+0:45,Rhode Island,None,None,53,57
+0:45,Rhode Island,None,None,53,57
+0:43,Rhode Island,Jeff Dowtin,Missed Three Point Jumper,53,57
+0:43,Saint Louis,Jordan Goodwin,Defensive Rebound,53,57
+0:34,Rhode Island,Tyrese Martin,Foul,53,57
+0:34,Saint Louis,Tramaine Isabell Jr.,Missed Free Throw,53,57
+0:34,Saint Louis,None,Team Rebound,53,57
+0:34,Saint Louis,Tramaine Isabell Jr.,Free Throw,53,58
+0:30,Rhode Island,Jeff Dowtin,Foul,53,58
+0:30,Rhode Island,Jeff Dowtin,Turnover,53,58
+0:29,Rhode Island,Dana Tate,Foul,53,58
+0:29,Saint Louis,Javon Bess,Free Throw,53,59
+0:29,Saint Louis,Javon Bess,Free Throw,53,60
+0:25,Rhode Island,Jeff Dowtin,Turnover,53,60
+0:25,Saint Louis,Javon Bess,Steal,53,60
+0:00,Saint Louis,None,None,53,60

@@ -1,0 +1,329 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Clemson,None,None,0,0
+19:45,Clemson,David Skara,Three Point Jumper,0,3
+19:26,Clemson,David Skara,Foul,0,3
+19:15,Florida State,M.J. Walker,Missed Layup,0,3
+19:15,Clemson,Elijah Thomas,Block,0,3
+19:15,Florida State,Florida State,Offensive Rebound,0,3
+19:11,Florida State,Christ Koumadje,Jumper,2,3
+18:51,Clemson,Marcquise Reed,Missed Three Point Jumper,2,3
+18:51,Florida State,Florida State,Defensive Rebound,2,3
+18:38,Florida State,Christ Koumadje,Foul,2,3
+18:38,Florida State,Christ Koumadje,Turnover,2,3
+18:23,Clemson,Elijah Thomas,Layup,2,5
+18:08,Florida State,M.J. Walker,Turnover,2,5
+18:08,Clemson,Shelton Mitchell,Steal,2,5
+18:03,Florida State,M.J. Walker,Foul,2,5
+18:03,Clemson,David Skara,Free Throw,2,6
+18:03,Clemson,David Skara,Missed Free Throw,2,6
+18:03,Florida State,Christ Koumadje,Defensive Rebound,2,6
+17:39,Florida State,M.J. Walker,Missed Three Point Jumper,2,6
+17:39,Clemson,Clemson,Defensive Rebound,2,6
+17:23,Clemson,Elijah Thomas,Missed Jumper,2,6
+17:23,Clemson,David Skara,Offensive Rebound,2,6
+17:14,Clemson,Shelton Mitchell,Missed Three Point Jumper,2,6
+17:14,Florida State,Trent Forrest,Defensive Rebound,2,6
+17:05,Florida State,Phil Cofer,Missed Three Point Jumper,2,6
+17:05,Clemson,Marcquise Reed,Defensive Rebound,2,6
+17:02,Florida State,Terance Mann,Foul,2,6
+16:38,Clemson,Aamir Simms,Foul,2,6
+16:38,Clemson,Aamir Simms,Turnover,2,6
+16:26,Florida State,Phil Cofer,Missed Three Point Jumper,2,6
+16:26,Clemson,Shelton Mitchell,Defensive Rebound,2,6
+16:17,Clemson,Shelton Mitchell,Missed Jumper,2,6
+16:17,Florida State,Christ Koumadje,Defensive Rebound,2,6
+16:07,Florida State,Trent Forrest,Layup,4,6
+15:48,Clemson,Elijah Thomas,Missed Jumper,4,6
+15:48,Florida State,Christ Koumadje,Block,4,6
+15:48,Florida State,M.J. Walker,Defensive Rebound,4,6
+15:39,Florida State,Phil Cofer,Dunk,6,6
+15:19,Clemson,Clyde Trapp,Missed Jumper,6,6
+15:19,Florida State,Trent Forrest,Defensive Rebound,6,6
+14:59,Florida State,Terance Mann,Three Point Jumper,9,6
+14:33,Clemson,Clyde Trapp,Missed Three Point Jumper,9,6
+14:33,Florida State,Trent Forrest,Defensive Rebound,9,6
+14:19,Clemson,Marcquise Reed,Foul,9,6
+14:19,Clemson,None,None,9,6
+14:19,Florida State,M.J. Walker,Missed Free Throw,9,6
+14:19,Florida State,None,Team Rebound,9,6
+14:19,Florida State,M.J. Walker,Free Throw,10,6
+13:55,Clemson,Clyde Trapp,Turnover,10,6
+13:55,Florida State,David Nichols,Steal,10,6
+13:53,Clemson,Shelton Mitchell,Foul,10,6
+13:37,Florida State,Mfiondu Kabengele,Jumper,12,6
+13:21,Clemson,Clyde Trapp,Missed Layup,12,6
+13:21,Florida State,Mfiondu Kabengele,Block,12,6
+13:21,Clemson,Elijah Thomas,Offensive Rebound,12,6
+13:18,Florida State,PJ Savoy,Foul,12,6
+13:15,Clemson,Elijah Thomas,Dunk,12,8
+13:02,Florida State,David Nichols,Missed Layup,12,8
+13:02,Clemson,Marcquise Reed,Defensive Rebound,12,8
+12:56,Clemson,Marcquise Reed,Layup,12,10
+12:39,Florida State,Terance Mann,Missed Three Point Jumper,12,10
+12:39,Florida State,Mfiondu Kabengele,Offensive Rebound,12,10
+12:32,Florida State,Mfiondu Kabengele,Layup,14,10
+12:14,Clemson,Clyde Trapp,Turnover,14,10
+12:14,Florida State,Terance Mann,Steal,14,10
+12:00,Florida State,Mfiondu Kabengele,Missed Jumper,14,10
+12:00,Clemson,Clemson,Defensive Rebound,14,10
+12:00,Clemson,None,None,14,10
+11:43,Clemson,Marcquise Reed,Jumper,14,12
+11:25,Florida State,David Nichols,Missed Jumper,14,12
+11:25,Clemson,Elijah Thomas,Defensive Rebound,14,12
+11:04,Florida State,David Nichols,Foul,14,12
+10:54,Clemson,Clyde Trapp,Missed Three Point Jumper,14,12
+10:54,Florida State,Mfiondu Kabengele,Defensive Rebound,14,12
+10:34,Florida State,Mfiondu Kabengele,Missed Jumper,14,12
+10:34,Florida State,Raiquan Gray,Offensive Rebound,14,12
+10:27,Florida State,PJ Savoy,Three Point Jumper,17,12
+10:27,Clemson,Elijah Thomas,Missed Layup,17,12
+10:27,Florida State,David Nichols,Defensive Rebound,17,12
+9:55,Florida State,Raiquan Gray,Missed Layup,17,12
+9:55,Clemson,John Newman III,Defensive Rebound,17,12
+9:48,Clemson,Elijah Thomas,Missed Layup,17,12
+9:48,Florida State,Mfiondu Kabengele,Block,17,12
+9:48,Florida State,Mfiondu Kabengele,Defensive Rebound,17,12
+9:39,Florida State,PJ Savoy,Missed Three Point Jumper,17,12
+9:39,Florida State,Mfiondu Kabengele,Offensive Rebound,17,12
+9:31,Florida State,Mfiondu Kabengele,Layup,19,12
+9:27,Clemson,None,None,19,12
+9:16,Florida State,Devin Vassell,Foul,19,12
+9:08,Clemson,Elijah Thomas,Layup,19,14
+8:53,Florida State,Raiquan Gray,Jumper,21,14
+8:36,Clemson,Elijah Thomas,Turnover,21,14
+8:30,Florida State,Trent Forrest,Turnover,21,14
+8:30,Clemson,Shelton Mitchell,Steal,21,14
+8:25,Clemson,Marcquise Reed,Missed Three Point Jumper,21,14
+8:25,Florida State,Christ Koumadje,Defensive Rebound,21,14
+8:16,Florida State,Terance Mann,Turnover,21,14
+8:02,Clemson,Aamir Simms,Missed Three Point Jumper,21,14
+8:02,Florida State,Christ Koumadje,Defensive Rebound,21,14
+7:43,Florida State,Christ Koumadje,Missed Jumper,21,14
+7:43,Florida State,Christ Koumadje,Offensive Rebound,21,14
+7:38,Clemson,Elijah Thomas,Foul,21,14
+7:38,Clemson,None,None,21,14
+7:38,Florida State,Christ Koumadje,Free Throw,22,14
+7:38,Florida State,Christ Koumadje,Free Throw,23,14
+7:23,Clemson,Marcquise Reed,Missed Jumper,23,14
+7:23,Florida State,Trent Forrest,Defensive Rebound,23,14
+6:53,Florida State,Christ Koumadje,Missed Layup,23,14
+6:53,Clemson,Aamir Simms,Defensive Rebound,23,14
+6:46,Clemson,Shelton Mitchell,Three Point Jumper,23,17
+6:46,Florida State,Trent Forrest,Foul,23,17
+6:46,Clemson,Shelton Mitchell,Free Throw,23,18
+6:27,Florida State,Terance Mann,Missed Jumper,23,18
+6:27,Clemson,Aamir Simms,Defensive Rebound,23,18
+6:20,Clemson,Marcquise Reed,Three Point Jumper,23,21
+6:04,Florida State,Trent Forrest,Missed Layup,23,21
+6:04,Clemson,Aamir Simms,Block,23,21
+6:04,Clemson,Shelton Mitchell,Defensive Rebound,23,21
+5:53,Clemson,Shelton Mitchell,Missed Layup,23,21
+5:53,Florida State,Christ Koumadje,Defensive Rebound,23,21
+5:50,Florida State,None,None,23,21
+5:42,Florida State,M.J. Walker,Missed Jumper,23,21
+5:42,Clemson,Trey Jemison,Defensive Rebound,23,21
+5:39,Florida State,Christ Koumadje,Foul,23,21
+5:39,Clemson,Trey Jemison,Missed Free Throw,23,21
+5:39,Florida State,Phil Cofer,Defensive Rebound,23,21
+5:23,Florida State,Trent Forrest,Dunk,25,21
+5:08,Clemson,Aamir Simms,Missed Three Point Jumper,25,21
+5:08,Florida State,Mfiondu Kabengele,Defensive Rebound,25,21
+5:04,Clemson,Trey Jemison,Foul,25,21
+4:49,Florida State,Mfiondu Kabengele,Layup,27,21
+4:33,Clemson,Marcquise Reed,Missed Three Point Jumper,27,21
+4:33,Florida State,Mfiondu Kabengele,Defensive Rebound,27,21
+4:20,Florida State,Phil Cofer,Turnover,27,21
+4:20,Clemson,Marcquise Reed,Steal,27,21
+4:16,Clemson,Marcquise Reed,Missed Jumper,27,21
+4:16,Florida State,Mfiondu Kabengele,Defensive Rebound,27,21
+4:00,Florida State,Mfiondu Kabengele,Jumper,29,21
+3:41,Clemson,Elijah Thomas,Turnover,29,21
+3:40,Clemson,None,None,29,21
+3:26,Florida State,Terance Mann,Missed Layup,29,21
+3:26,Clemson,David Skara,Defensive Rebound,29,21
+3:18,Clemson,Elijah Thomas,Turnover,29,21
+3:18,Clemson,Elijah Thomas,Foul,29,21
+2:56,Florida State,Mfiondu Kabengele,Jumper,31,21
+2:26,Clemson,Elijah Thomas,Missed Layup,31,21
+2:26,Clemson,Elijah Thomas,Offensive Rebound,31,21
+2:21,Clemson,Elijah Thomas,Turnover,31,21
+2:21,Florida State,Mfiondu Kabengele,Steal,31,21
+2:13,Florida State,Trent Forrest,Layup,33,21
+2:02,Clemson,None,None,33,21
+1:47,Clemson,David Skara,Layup,33,23
+1:24,Florida State,Phil Cofer,Foul,33,23
+1:24,Florida State,Phil Cofer,Turnover,33,23
+1:09,Clemson,Clyde Trapp,Missed Jumper,33,23
+1:09,Florida State,Raiquan Gray,Defensive Rebound,33,23
+0:58,Florida State,M.J. Walker,Three Point Jumper,36,23
+0:29,Clemson,Shelton Mitchell,Missed Three Point Jumper,36,23
+0:29,Florida State,Trent Forrest,Defensive Rebound,36,23
+0:02,Florida State,Trent Forrest,Layup,38,23
+0:00,Clemson,None,None,38,23
+20:00,Florida State,None,None,38,23
+19:50,Florida State,Christ Koumadje,Dunk,40,23
+19:37,Clemson,Shelton Mitchell,Missed Three Point Jumper,40,23
+19:37,Clemson,Aamir Simms,Offensive Rebound,40,23
+19:30,Clemson,Shelton Mitchell,Missed Three Point Jumper,40,23
+19:30,Florida State,Terance Mann,Defensive Rebound,40,23
+19:21,Florida State,Terance Mann,Missed Layup,40,23
+19:21,Clemson,Elijah Thomas,Defensive Rebound,40,23
+19:14,Clemson,Marcquise Reed,Three Point Jumper,40,26
+18:43,Florida State,Terance Mann,Layup,42,26
+18:33,Florida State,Phil Cofer,Foul,42,26
+18:33,Clemson,Aamir Simms,Free Throw,42,27
+18:33,Clemson,Aamir Simms,Free Throw,42,28
+18:25,Clemson,Aamir Simms,Foul,42,28
+18:25,Florida State,Terance Mann,Free Throw,43,28
+18:25,Florida State,Terance Mann,Free Throw,44,28
+18:07,Clemson,Shelton Mitchell,Three Point Jumper,44,31
+17:46,Florida State,Trent Forrest,Missed Jumper,44,31
+17:46,Clemson,Elijah Thomas,Block,44,31
+17:46,Florida State,Florida State,Offensive Rebound,44,31
+17:35,Florida State,Phil Cofer,Three Point Jumper,47,31
+17:23,Clemson,Marcquise Reed,Missed Jumper,47,31
+17:23,Florida State,Trent Forrest,Defensive Rebound,47,31
+17:14,Florida State,Christ Koumadje,Dunk,49,31
+16:56,Clemson,Marcquise Reed,Three Point Jumper,49,34
+16:33,Florida State,Trent Forrest,Turnover,49,34
+16:33,Clemson,Shelton Mitchell,Steal,49,34
+16:27,Clemson,Aamir Simms,Layup,49,36
+16:11,Florida State,Phil Cofer,Missed Dunk,49,36
+16:11,Florida State,Christ Koumadje,Offensive Rebound,49,36
+16:05,Florida State,Christ Koumadje,Dunk,51,36
+15:51,Clemson,David Skara,Missed Layup,51,36
+15:51,Florida State,Christ Koumadje,Block,51,36
+15:51,Clemson,Clemson,Offensive Rebound,51,36
+15:51,Clemson,None,None,51,36
+15:48,Clemson,Marcquise Reed,Turnover,51,36
+15:48,Florida State,Trent Forrest,Steal,51,36
+15:29,Florida State,M.J. Walker,Jumper,53,36
+15:19,Florida State,M.J. Walker,Foul,53,36
+15:05,Florida State,David Nichols,Foul,53,36
+14:49,Clemson,Elijah Thomas,Layup,53,38
+14:30,Florida State,David Nichols,Missed Three Point Jumper,53,38
+14:30,Clemson,Aamir Simms,Defensive Rebound,53,38
+14:15,Clemson,Shelton Mitchell,Foul,53,38
+14:15,Clemson,Shelton Mitchell,Turnover,53,38
+14:00,Florida State,PJ Savoy,Turnover,53,38
+13:36,Clemson,Shelton Mitchell,Missed Three Point Jumper,53,38
+13:36,Florida State,Mfiondu Kabengele,Defensive Rebound,53,38
+13:22,Florida State,PJ Savoy,Missed Three Point Jumper,53,38
+13:22,Clemson,Shelton Mitchell,Defensive Rebound,53,38
+13:13,Florida State,Mfiondu Kabengele,Foul,53,38
+13:13,Clemson,Marcquise Reed,Free Throw,53,39
+13:13,Clemson,Marcquise Reed,Missed Free Throw,53,39
+13:13,Clemson,None,Team Rebound,53,39
+13:13,Clemson,Marcquise Reed,Free Throw,53,40
+12:47,Florida State,David Nichols,Missed Layup,53,40
+12:47,Clemson,Elijah Thomas,Block,53,40
+12:47,Clemson,Elijah Thomas,Defensive Rebound,53,40
+12:42,Clemson,Marcquise Reed,Turnover,53,40
+12:25,Florida State,Raiquan Gray,Turnover,53,40
+12:25,Florida State,Raiquan Gray,Foul,53,40
+12:04,Florida State,Raiquan Gray,Foul,53,40
+11:58,Clemson,Hunter Tyson,Missed Three Point Jumper,53,40
+11:58,Florida State,Mfiondu Kabengele,Defensive Rebound,53,40
+11:41,Clemson,Elijah Thomas,Foul,53,40
+11:41,Clemson,None,None,53,40
+11:37,Florida State,PJ Savoy,Three Point Jumper,56,40
+11:22,Clemson,Aamir Simms,Three Point Jumper,56,43
+11:08,Florida State,PJ Savoy,Missed Three Point Jumper,56,43
+11:08,Clemson,Hunter Tyson,Defensive Rebound,56,43
+10:53,Clemson,Aamir Simms,Missed Three Point Jumper,56,43
+10:53,Florida State,David Nichols,Defensive Rebound,56,43
+10:43,Florida State,David Nichols,Three Point Jumper,59,43
+10:25,Clemson,Clyde Trapp,Missed Three Point Jumper,59,43
+10:25,Clemson,Clyde Trapp,Offensive Rebound,59,43
+10:21,Florida State,Raiquan Gray,Foul,59,43
+10:21,Clemson,Clyde Trapp,Free Throw,59,44
+10:21,Clemson,Clyde Trapp,Free Throw,59,45
+9:55,Clemson,Marcquise Reed,Foul,59,45
+9:54,Florida State,Mfiondu Kabengele,Foul,59,45
+9:54,Florida State,Mfiondu Kabengele,Turnover,59,45
+9:36,Clemson,Marcquise Reed,Layup,59,47
+9:15,Clemson,Aamir Simms,Foul,59,47
+9:06,Florida State,Mfiondu Kabengele,Missed Jumper,59,47
+9:06,Clemson,Clemson,Defensive Rebound,59,47
+8:45,Clemson,Clyde Trapp,Missed Layup,59,47
+8:45,Clemson,Elijah Thomas,Offensive Rebound,59,47
+8:41,Clemson,Elijah Thomas,Layup,59,49
+8:41,Florida State,Phil Cofer,Foul,59,49
+8:41,Clemson,Elijah Thomas,Free Throw,59,50
+8:18,Florida State,M.J. Walker,Foul,59,50
+8:18,Florida State,M.J. Walker,Turnover,59,50
+8:18,Florida State,None,None,59,50
+8:13,Clemson,Elijah Thomas,Missed Layup,59,50
+8:13,Clemson,David Skara,Offensive Rebound,59,50
+8:08,Clemson,David Skara,Layup,59,52
+7:41,Florida State,Terance Mann,Missed Three Point Jumper,59,52
+7:41,Florida State,Mfiondu Kabengele,Offensive Rebound,59,52
+7:34,Florida State,Mfiondu Kabengele,Layup,61,52
+7:24,Florida State,Terance Mann,Foul,61,52
+7:24,Clemson,None,None,61,52
+7:24,Clemson,Marcquise Reed,Free Throw,61,53
+7:24,Clemson,Marcquise Reed,Missed Free Throw,61,53
+7:24,Florida State,Phil Cofer,Defensive Rebound,61,53
+7:00,Florida State,Trent Forrest,Jumper,63,53
+6:32,Clemson,Elijah Thomas,Missed Jumper,63,53
+6:32,Florida State,Mfiondu Kabengele,Defensive Rebound,63,53
+6:19,Florida State,Mfiondu Kabengele,Three Point Jumper,66,53
+5:57,Clemson,None,None,66,53
+5:57,Clemson,Clyde Trapp,Turnover,66,53
+5:39,Florida State,Phil Cofer,Missed Three Point Jumper,66,53
+5:39,Florida State,Terance Mann,Offensive Rebound,66,53
+5:35,Clemson,Hunter Tyson,Foul,66,53
+5:35,Florida State,Trent Forrest,Missed Free Throw,66,53
+5:35,Florida State,None,Team Rebound,66,53
+5:35,Florida State,Trent Forrest,Free Throw,67,53
+5:13,Clemson,Elijah Thomas,Layup,67,55
+4:50,Florida State,Mfiondu Kabengele,Missed Layup,67,55
+4:50,Clemson,Hunter Tyson,Defensive Rebound,67,55
+4:25,Clemson,Elijah Thomas,Missed Jumper,67,55
+4:25,Florida State,Phil Cofer,Defensive Rebound,67,55
+4:04,Florida State,Trent Forrest,Missed Layup,67,55
+4:04,Florida State,Terance Mann,Offensive Rebound,67,55
+3:42,Florida State,Mfiondu Kabengele,Turnover,67,55
+3:42,Clemson,Shelton Mitchell,Steal,67,55
+3:36,Clemson,Marcquise Reed,Layup,67,57
+3:07,Florida State,Mfiondu Kabengele,Layup,69,57
+3:07,Clemson,Elijah Thomas,Foul,69,57
+3:07,Clemson,None,None,69,57
+3:07,Florida State,Mfiondu Kabengele,Missed Free Throw,69,57
+3:07,Clemson,Marcquise Reed,Defensive Rebound,69,57
+3:03,Clemson,Marcquise Reed,Missed Jumper,69,57
+3:03,Florida State,Phil Cofer,Defensive Rebound,69,57
+2:28,Florida State,Terance Mann,Missed Layup,69,57
+2:28,Clemson,Hunter Tyson,Defensive Rebound,69,57
+2:23,Clemson,Shelton Mitchell,Jumper,69,59
+1:54,Clemson,Hunter Tyson,Foul,69,59
+1:54,Florida State,Trent Forrest,Free Throw,70,59
+1:54,Florida State,Trent Forrest,Missed Free Throw,70,59
+1:54,Clemson,Marcquise Reed,Defensive Rebound,70,59
+1:47,Clemson,Marcquise Reed,Missed Layup,70,59
+1:47,Florida State,Trent Forrest,Defensive Rebound,70,59
+1:46,Clemson,Elijah Thomas,Foul,70,59
+1:46,Florida State,Trent Forrest,Free Throw,71,59
+1:46,Florida State,Trent Forrest,Free Throw,72,59
+1:35,Clemson,Shelton Mitchell,Three Point Jumper,72,62
+1:27,Clemson,David Skara,Foul,72,62
+1:27,Florida State,M.J. Walker,Free Throw,73,62
+1:27,Florida State,M.J. Walker,Missed Free Throw,73,62
+1:27,Clemson,Aamir Simms,Defensive Rebound,73,62
+1:19,Clemson,Clyde Trapp,Missed Layup,73,62
+1:19,Florida State,Trent Forrest,Defensive Rebound,73,62
+1:08,Clemson,Aamir Simms,Foul,73,62
+1:08,Florida State,M.J. Walker,Free Throw,74,62
+1:08,Florida State,M.J. Walker,Free Throw,75,62
+1:02,Florida State,M.J. Walker,Foul,75,62
+1:02,Clemson,Clyde Trapp,Missed Free Throw,75,62
+1:02,Clemson,None,Team Rebound,75,62
+1:02,Clemson,Clyde Trapp,Missed Free Throw,75,62
+1:02,Florida State,Terance Mann,Defensive Rebound,75,62
+0:57,Florida State,Terance Mann,Dunk,77,62
+0:48,Clemson,Marcquise Reed,Missed Layup,77,62
+0:48,Florida State,Terance Mann,Defensive Rebound,77,62
+0:26,Florida State,Terance Mann,Missed Three Point Jumper,77,62
+0:26,Clemson,Shelton Mitchell,Defensive Rebound,77,62
+0:18,Clemson,David Skara,Layup,77,64
+0:00,Clemson,None,None,77,64

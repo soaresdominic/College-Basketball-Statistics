@@ -1,0 +1,410 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:57,Bowling Green,Dylan Frye,Foul,0,0
+19:38,Central Michigan,Robert Montgomery,Missed Jumper,0,0
+19:38,Bowling Green,Demajeo Wiggins,Defensive Rebound,0,0
+19:23,Bowling Green,Caleb Fields,Three Point Jumper,3,0
+19:02,Central Michigan,Kevin McKay,Layup,3,2
+18:44,Bowling Green,Demajeo Wiggins,Missed Jumper,3,2
+18:44,Central Michigan,Kevin McKay,Block,3,2
+18:42,Bowling Green,Justin Turner,Offensive Rebound,3,2
+18:39,Central Michigan,Larry Austin Jr.,Foul,3,2
+18:39,Bowling Green,Daeqwon Plowden,Free Throw,4,2
+18:37,Bowling Green,Daeqwon Plowden,Missed Free Throw,4,2
+18:37,Central Michigan,David DiLeo,Defensive Rebound,4,2
+18:26,Bowling Green,Daeqwon Plowden,Foul,4,2
+18:26,Central Michigan,Robert Montgomery,Free Throw,4,3
+18:26,Central Michigan,Robert Montgomery,Missed Free Throw,4,3
+18:26,Bowling Green,Caleb Fields,Defensive Rebound,4,3
+18:19,Bowling Green,Justin Turner,Jumper,6,3
+17:57,Central Michigan,Kevin McKay,Missed Three Point Jumper,6,3
+17:57,Bowling Green,Demajeo Wiggins,Defensive Rebound,6,3
+17:48,Bowling Green,Demajeo Wiggins,Turnover,6,3
+17:48,Bowling Green,Demajeo Wiggins,Foul,6,3
+17:36,Central Michigan,Shawn Roundtree,Jumper,6,5
+17:22,Bowling Green,Dylan Frye,Three Point Jumper,9,5
+17:12,Central Michigan,Kevin McKay,Turnover,9,5
+17:12,Central Michigan,Kevin McKay,Foul,9,5
+16:53,Bowling Green,Daeqwon Plowden,Three Point Jumper,12,5
+16:31,Central Michigan,David DiLeo,Missed Three Point Jumper,12,5
+16:31,Bowling Green,Daeqwon Plowden,Defensive Rebound,12,5
+16:16,Bowling Green,Caleb Fields,Missed Three Point Jumper,12,5
+16:16,Central Michigan,Shawn Roundtree,Defensive Rebound,12,5
+15:56,Central Michigan,Larry Austin Jr.,Missed Layup,12,5
+15:56,Bowling Green,Demajeo Wiggins,Defensive Rebound,12,5
+15:46,Bowling Green,Daeqwon Plowden,Turnover,12,5
+15:46,Bowling Green,Daeqwon Plowden,Foul,12,5
+15:46,Central Michigan,None,None,12,5
+15:36,Central Michigan,Kevin McKay,Layup,12,7
+15:07,Bowling Green,Justin Turner,Missed Layup,12,7
+15:07,Bowling Green,Demajeo Wiggins,Offensive Rebound,12,7
+15:01,Bowling Green,Demajeo Wiggins,Missed Layup,12,7
+15:01,Central Michigan,Larry Austin Jr.,Block,12,7
+15:00,Central Michigan,Central Michigan,Defensive Rebound,12,7
+14:47,Bowling Green,Caleb Fields,Foul,12,7
+14:47,Central Michigan,Larry Austin Jr.,Free Throw,12,8
+14:47,Central Michigan,Larry Austin Jr.,Missed Free Throw,12,8
+14:47,Bowling Green,Marlon Sierra,Defensive Rebound,12,8
+14:32,Bowling Green,Michael Laster,Turnover,12,8
+14:31,Central Michigan,Matt Beachler,Steal,12,8
+14:29,Central Michigan,Larry Austin Jr.,Layup,12,10
+14:13,Bowling Green,Marlon Sierra,Jumper,14,10
+13:50,Central Michigan,Robert Montgomery,Missed Layup,14,10
+13:50,Bowling Green,Jeffrey Uju,Defensive Rebound,14,10
+13:37,Bowling Green,Michael Laster,Missed Jumper,14,10
+13:37,Central Michigan,Robert Montgomery,Defensive Rebound,14,10
+13:17,Central Michigan,Kevin McKay,Turnover,14,10
+13:17,Central Michigan,Kevin McKay,Foul,14,10
+13:02,Bowling Green,Michael Laster,Layup,16,10
+12:56,Central Michigan,Shawn Roundtree,Turnover,16,10
+12:37,Bowling Green,Michael Laster,Missed Three Point Jumper,16,10
+12:37,Central Michigan,Matt Beachler,Defensive Rebound,16,10
+12:30,Central Michigan,Matt Beachler,Layup,16,12
+12:02,Bowling Green,Justin Turner,Missed Jumper,16,12
+12:02,Central Michigan,David DiLeo,Defensive Rebound,16,12
+11:53,Bowling Green,Marlon Sierra,Foul,16,12
+11:53,Central Michigan,None,None,16,12
+11:45,Central Michigan,David DiLeo,Missed Three Point Jumper,16,12
+11:45,Bowling Green,Marlon Sierra,Defensive Rebound,16,12
+11:21,Bowling Green,Jeffrey Uju,Missed Layup,16,12
+11:21,Central Michigan,Robert Montgomery,Defensive Rebound,16,12
+11:12,Central Michigan,Robert Montgomery,Missed Three Point Jumper,16,12
+11:12,Central Michigan,Shawn Roundtree,Offensive Rebound,16,12
+10:52,Central Michigan,Shawn Roundtree,Missed Jumper,16,12
+10:52,Bowling Green,Michael Laster,Defensive Rebound,16,12
+10:50,Central Michigan,Robert Montgomery,Foul,16,12
+10:38,Bowling Green,Antwon Lillard,Missed Layup,16,12
+10:38,Central Michigan,David DiLeo,Block,16,12
+10:35,Central Michigan,Larry Austin Jr.,Defensive Rebound,16,12
+10:31,Central Michigan,Larry Austin Jr.,Layup,16,14
+10:19,Central Michigan,Shawn Roundtree,Foul,16,14
+10:19,Bowling Green,Demajeo Wiggins,Missed Free Throw,16,14
+10:19,Bowling Green,None,Team Rebound,16,14
+10:19,Bowling Green,Demajeo Wiggins,Free Throw,17,14
+10:09,Bowling Green,Dylan Frye,Foul,17,14
+10:09,Central Michigan,Robert Montgomery,Free Throw,17,15
+10:09,Central Michigan,Robert Montgomery,Missed Free Throw,17,15
+10:09,Bowling Green,Antwon Lillard,Defensive Rebound,17,15
+9:54,Bowling Green,Antwon Lillard,Turnover,17,15
+9:38,Central Michigan,Larry Austin Jr.,Layup,17,17
+9:26,Bowling Green,Michael Laster,Turnover,17,17
+9:24,Central Michigan,Larry Austin Jr.,Steal,17,17
+9:22,Central Michigan,Larry Austin Jr.,Missed Layup,17,17
+9:22,Bowling Green,Marlon Sierra,Block,17,17
+9:22,Central Michigan,Central Michigan,Offensive Rebound,17,17
+9:08,Central Michigan,Kevin McKay,Missed Layup,17,17
+9:08,Bowling Green,Michael Laster,Defensive Rebound,17,17
+8:56,Bowling Green,Justin Turner,Missed Three Point Jumper,17,17
+8:56,Central Michigan,Kevin McKay,Defensive Rebound,17,17
+8:45,Central Michigan,Larry Austin Jr.,Missed Layup,17,17
+8:45,Bowling Green,Antwon Lillard,Block,17,17
+8:43,Bowling Green,Demajeo Wiggins,Defensive Rebound,17,17
+8:37,Bowling Green,Michael Laster,Missed Layup,17,17
+8:37,Central Michigan,Kevin McKay,Block,17,17
+8:37,Bowling Green,Bowling Green,Offensive Rebound,17,17
+8:28,Bowling Green,Matiss Kulackovskis,Missed Jumper,17,17
+8:28,Central Michigan,Innocent Nwoko,Block,17,17
+8:26,Central Michigan,Shawn Roundtree,Defensive Rebound,17,17
+8:22,Central Michigan,Shawn Roundtree,Missed Layup,17,17
+8:22,Bowling Green,Demajeo Wiggins,Block,17,17
+8:20,Central Michigan,Innocent Nwoko,Offensive Rebound,17,17
+8:17,Central Michigan,Innocent Nwoko,Missed Layup,17,17
+8:17,Bowling Green,Demajeo Wiggins,Defensive Rebound,17,17
+8:09,Central Michigan,Innocent Nwoko,Foul,17,17
+8:09,Bowling Green,Demajeo Wiggins,Free Throw,18,17
+8:09,Bowling Green,Demajeo Wiggins,Free Throw,19,17
+7:55,Central Michigan,Larry Austin Jr.,Layup,19,19
+7:27,Bowling Green,Antwon Lillard,Missed Three Point Jumper,19,19
+7:27,Bowling Green,Matiss Kulackovskis,Offensive Rebound,19,19
+7:22,Bowling Green,Matiss Kulackovskis,Layup,21,19
+7:22,Central Michigan,None,None,21,19
+7:06,Central Michigan,Shawn Roundtree,Missed Three Point Jumper,21,19
+7:06,Bowling Green,Bowling Green,Defensive Rebound,21,19
+6:28,Bowling Green,Matiss Kulackovskis,Three Point Jumper,24,19
+6:21,Central Michigan,Kevin McKay,Missed Layup,24,19
+6:21,Bowling Green,Demajeo Wiggins,Defensive Rebound,24,19
+6:15,Bowling Green,Matiss Kulackovskis,Three Point Jumper,27,19
+6:00,Central Michigan,Robert Montgomery,Jumper,27,21
+5:40,Bowling Green,Michael Laster,Missed Layup,27,21
+5:40,Bowling Green,Michael Laster,Offensive Rebound,27,21
+5:36,Bowling Green,Michael Laster,Missed Layup,27,21
+5:36,Central Michigan,Larry Austin Jr.,Defensive Rebound,27,21
+5:30,Central Michigan,Larry Austin Jr.,Turnover,27,21
+5:13,Bowling Green,Justin Turner,Missed Layup,27,21
+5:13,Bowling Green,Demajeo Wiggins,Offensive Rebound,27,21
+5:11,Bowling Green,Demajeo Wiggins,Missed Layup,27,21
+5:11,Bowling Green,Bowling Green,Offensive Rebound,27,21
+4:47,Bowling Green,Antwon Lillard,Layup,29,21
+4:37,Central Michigan,Dallas Morgan,Missed Layup,29,21
+4:37,Central Michigan,Central Michigan,Offensive Rebound,29,21
+4:36,Bowling Green,Justin Turner,Foul,29,21
+4:36,Central Michigan,Robert Montgomery,Free Throw,29,22
+4:36,Central Michigan,Robert Montgomery,Free Throw,29,23
+4:12,Bowling Green,Matiss Kulackovskis,Missed Jumper,29,23
+4:12,Central Michigan,Robert Montgomery,Defensive Rebound,29,23
+3:48,Central Michigan,Shawn Roundtree,Missed Three Point Jumper,29,23
+3:48,Bowling Green,Demajeo Wiggins,Defensive Rebound,29,23
+3:46,Central Michigan,David DiLeo,Foul,29,23
+3:46,Central Michigan,None,None,29,23
+3:46,Bowling Green,Demajeo Wiggins,Missed Free Throw,29,23
+3:46,Central Michigan,Larry Austin Jr.,Defensive Rebound,29,23
+3:30,Central Michigan,Larry Austin Jr.,Layup,29,25
+3:13,Bowling Green,Justin Turner,Three Point Jumper,32,25
+2:44,Central Michigan,Robert Montgomery,Missed Three Point Jumper,32,25
+2:44,Central Michigan,Larry Austin Jr.,Offensive Rebound,32,25
+2:40,Central Michigan,Larry Austin Jr.,Layup,32,27
+2:25,Bowling Green,Justin Turner,Missed Three Point Jumper,32,27
+2:25,Central Michigan,Shawn Roundtree,Defensive Rebound,32,27
+2:20,Central Michigan,Shawn Roundtree,Turnover,32,27
+2:18,Bowling Green,Michael Laster,Steal,32,27
+2:17,Bowling Green,Michael Laster,Layup,34,27
+2:05,Bowling Green,Michael Laster,Foul,34,27
+2:05,Central Michigan,Larry Austin Jr.,Free Throw,34,28
+2:05,Central Michigan,Larry Austin Jr.,Free Throw,34,29
+1:49,Bowling Green,Matiss Kulackovskis,Missed Jumper,34,29
+1:49,Central Michigan,Robert Montgomery,Defensive Rebound,34,29
+1:25,Central Michigan,Matt Beachler,Turnover,34,29
+1:24,Bowling Green,Justin Turner,Steal,34,29
+1:21,Bowling Green,Justin Turner,Missed Layup,34,29
+1:21,Bowling Green,Antwon Lillard,Offensive Rebound,34,29
+1:19,Bowling Green,Antwon Lillard,Layup,36,29
+0:55,Central Michigan,Larry Austin Jr.,Turnover,36,29
+0:55,Bowling Green,Antwon Lillard,Steal,36,29
+0:52,Bowling Green,Matiss Kulackovskis,Layup,38,29
+0:23,Central Michigan,Robert Montgomery,Layup,38,31
+0:00,Bowling Green,Justin Turner,Turnover,38,31
+0:00,Central Michigan,Larry Austin Jr.,Steal,38,31
+0:00,Central Michigan,None,None,38,31
+19:36,Bowling Green,Dylan Frye,Layup,40,31
+19:19,Central Michigan,Shawn Roundtree,Turnover,40,31
+19:18,Bowling Green,Dylan Frye,Steal,40,31
+19:14,Bowling Green,Dylan Frye,Layup,42,31
+18:55,Central Michigan,Larry Austin Jr.,Layup,42,33
+18:34,Bowling Green,Daeqwon Plowden,Missed Jumper,42,33
+18:34,Central Michigan,Larry Austin Jr.,Defensive Rebound,42,33
+18:27,Central Michigan,David DiLeo,Missed Three Point Jumper,42,33
+18:27,Bowling Green,Demajeo Wiggins,Defensive Rebound,42,33
+18:04,Bowling Green,Justin Turner,Layup,44,33
+17:58,Central Michigan,Kevin McKay,Missed Layup,44,33
+17:58,Central Michigan,Central Michigan,Offensive Rebound,44,33
+17:42,Central Michigan,David DiLeo,Jumper,44,35
+17:27,Central Michigan,Shawn Roundtree,Foul,44,35
+17:27,Bowling Green,Dylan Frye,Free Throw,45,35
+17:27,Bowling Green,Dylan Frye,Free Throw,46,35
+17:16,Central Michigan,Larry Austin Jr.,Layup,46,37
+17:00,Central Michigan,David DiLeo,Foul,46,37
+17:00,Bowling Green,Demajeo Wiggins,Missed Free Throw,46,37
+17:00,Bowling Green,None,Team Rebound,46,37
+17:00,Bowling Green,Demajeo Wiggins,Missed Free Throw,46,37
+17:00,Central Michigan,David DiLeo,Defensive Rebound,46,37
+16:45,Central Michigan,Larry Austin Jr.,Turnover,46,37
+16:32,Bowling Green,Justin Turner,Missed Three Point Jumper,46,37
+16:32,Bowling Green,Daeqwon Plowden,Offensive Rebound,46,37
+16:27,Bowling Green,Daeqwon Plowden,Missed Jumper,46,37
+16:27,Central Michigan,Dallas Morgan,Defensive Rebound,46,37
+16:17,Bowling Green,Antwon Lillard,Foul,46,37
+16:09,Central Michigan,Dallas Morgan,Missed Three Point Jumper,46,37
+16:09,Bowling Green,Daeqwon Plowden,Defensive Rebound,46,37
+16:01,Bowling Green,Dylan Frye,Missed Jumper,46,37
+16:01,Central Michigan,Shawn Roundtree,Defensive Rebound,46,37
+15:55,Bowling Green,Daeqwon Plowden,Foul,46,37
+15:55,Central Michigan,None,None,46,37
+15:55,Central Michigan,Shawn Roundtree,Missed Free Throw,46,37
+15:55,Central Michigan,None,Team Rebound,46,37
+15:55,Central Michigan,Shawn Roundtree,Free Throw,46,38
+15:32,Bowling Green,Marlon Sierra,Missed Jumper,46,38
+15:32,Central Michigan,Larry Austin Jr.,Defensive Rebound,46,38
+15:21,Central Michigan,Shawn Roundtree,Missed Three Point Jumper,46,38
+15:21,Central Michigan,Kevin McKay,Offensive Rebound,46,38
+15:01,Central Michigan,Robert Montgomery,Missed Three Point Jumper,46,38
+15:01,Central Michigan,Central Michigan,Offensive Rebound,46,38
+15:00,Bowling Green,Antwon Lillard,Foul,46,38
+14:57,Central Michigan,Shawn Roundtree,Missed Three Point Jumper,46,38
+14:57,Bowling Green,Marlon Sierra,Defensive Rebound,46,38
+14:37,Bowling Green,Justin Turner,Three Point Jumper,49,38
+14:12,Central Michigan,Robert Montgomery,Missed Jumper,49,38
+14:12,Bowling Green,Michael Laster,Defensive Rebound,49,38
+13:55,Bowling Green,Michael Laster,Three Point Jumper,52,38
+13:34,Central Michigan,Larry Austin Jr.,Turnover,52,38
+13:34,Bowling Green,Michael Laster,Steal,52,38
+13:32,Central Michigan,Shawn Roundtree,Foul,52,38
+13:28,Bowling Green,Justin Turner,Turnover,52,38
+13:27,Central Michigan,David DiLeo,Steal,52,38
+13:23,Central Michigan,Larry Austin Jr.,Missed Layup,52,38
+13:23,Bowling Green,Jeffrey Uju,Defensive Rebound,52,38
+13:16,Bowling Green,Michael Laster,Missed Three Point Jumper,52,38
+13:16,Bowling Green,Bowling Green,Offensive Rebound,52,38
+13:14,Central Michigan,Matt Beachler,Foul,52,38
+13:14,Central Michigan,None,None,52,38
+13:14,Central Michigan,None,None,52,38
+12:51,Bowling Green,Justin Turner,Missed Three Point Jumper,52,38
+12:51,Central Michigan,Shawn Roundtree,Defensive Rebound,52,38
+12:46,Central Michigan,Matt Beachler,Missed Three Point Jumper,52,38
+12:46,Bowling Green,Bowling Green,Defensive Rebound,52,38
+12:28,Bowling Green,Michael Laster,Layup,54,38
+12:15,Bowling Green,Jeffrey Uju,Foul,54,38
+12:13,Central Michigan,Matt Beachler,Three Point Jumper,54,41
+11:46,Bowling Green,Antwon Lillard,Jumper,56,41
+11:38,Central Michigan,David DiLeo,Three Point Jumper,56,44
+11:10,Bowling Green,Jeffrey Uju,Missed Layup,56,44
+11:10,Central Michigan,Larry Austin Jr.,Block,56,44
+11:08,Central Michigan,Matt Beachler,Defensive Rebound,56,44
+11:05,Bowling Green,Jeffrey Uju,Foul,56,44
+11:05,Central Michigan,None,None,56,44
+11:05,Central Michigan,Shawn Roundtree,Free Throw,56,45
+11:05,Central Michigan,Shawn Roundtree,Free Throw,56,46
+10:50,Bowling Green,Michael Laster,Jumper,58,46
+10:34,Central Michigan,Dallas Morgan,Three Point Jumper,58,49
+10:26,Central Michigan,Larry Austin Jr.,Foul,58,49
+10:22,Bowling Green,Demajeo Wiggins,Dunk,60,49
+10:07,Bowling Green,Demajeo Wiggins,Foul,60,49
+10:07,Central Michigan,Romelo Burrell,Free Throw,60,50
+10:07,Central Michigan,Romelo Burrell,Free Throw,60,51
+10:00,Bowling Green,Antwon Lillard,Three Point Jumper,63,51
+9:50,Central Michigan,Dallas Morgan,Layup,63,53
+9:42,Bowling Green,Antwon Lillard,Missed Three Point Jumper,63,53
+9:42,Central Michigan,Central Michigan,Defensive Rebound,63,53
+9:27,Central Michigan,Dallas Morgan,Missed Three Point Jumper,63,53
+9:27,Central Michigan,Larry Austin Jr.,Offensive Rebound,63,53
+9:21,Bowling Green,Demajeo Wiggins,Foul,63,53
+9:21,Central Michigan,Larry Austin Jr.,Free Throw,63,54
+9:21,Central Michigan,Larry Austin Jr.,Free Throw,63,55
+9:00,Bowling Green,Michael Laster,Jumper,65,55
+8:50,Central Michigan,David DiLeo,Jumper,65,57
+8:42,Bowling Green,None,None,65,57
+8:30,Bowling Green,Demajeo Wiggins,Missed Jumper,65,57
+8:30,Central Michigan,Shawn Roundtree,Defensive Rebound,65,57
+8:23,Central Michigan,David DiLeo,Three Point Jumper,65,60
+7:57,Bowling Green,Michael Laster,Turnover,65,60
+7:56,Central Michigan,Matt Beachler,Steal,65,60
+7:36,Central Michigan,Shawn Roundtree,Missed Layup,65,60
+7:36,Bowling Green,Dylan Frye,Block,65,60
+7:33,Central Michigan,Larry Austin Jr.,Offensive Rebound,65,60
+7:30,Central Michigan,David DiLeo,Missed Three Point Jumper,65,60
+7:30,Bowling Green,Matiss Kulackovskis,Defensive Rebound,65,60
+7:10,Bowling Green,Michael Laster,Missed Jumper,65,60
+7:10,Central Michigan,Larry Austin Jr.,Defensive Rebound,65,60
+7:08,Central Michigan,None,None,65,60
+6:53,Central Michigan,Dallas Morgan,Three Point Jumper,65,63
+6:21,Bowling Green,Dylan Frye,Missed Three Point Jumper,65,63
+6:21,Central Michigan,Dallas Morgan,Defensive Rebound,65,63
+6:11,Central Michigan,Dallas Morgan,Three Point Jumper,65,66
+6:07,Bowling Green,None,None,65,66
+5:51,Bowling Green,Justin Turner,Missed Jumper,65,66
+5:51,Bowling Green,Justin Turner,Offensive Rebound,65,66
+5:45,Bowling Green,Dylan Frye,Missed Three Point Jumper,65,66
+5:45,Central Michigan,Larry Austin Jr.,Defensive Rebound,65,66
+5:42,Bowling Green,Demajeo Wiggins,Foul,65,66
+5:42,Central Michigan,Robert Montgomery,Missed Free Throw,65,66
+5:42,Bowling Green,Antwon Lillard,Defensive Rebound,65,66
+5:24,Bowling Green,Demajeo Wiggins,Missed Jumper,65,66
+5:24,Central Michigan,David DiLeo,Block,65,66
+5:21,Central Michigan,Larry Austin Jr.,Defensive Rebound,65,66
+5:18,Bowling Green,Dylan Frye,Foul,65,66
+5:18,Central Michigan,Larry Austin Jr.,Free Throw,65,67
+5:18,Central Michigan,Larry Austin Jr.,Free Throw,65,68
+5:04,Bowling Green,Demajeo Wiggins,Layup,67,68
+5:04,Central Michigan,Dallas Morgan,Foul,67,68
+5:04,Bowling Green,Demajeo Wiggins,Missed Free Throw,67,68
+5:04,Central Michigan,David DiLeo,Defensive Rebound,67,68
+4:51,Bowling Green,Michael Laster,Foul,67,68
+4:51,Central Michigan,Shawn Roundtree,Free Throw,67,69
+4:51,Central Michigan,Shawn Roundtree,Free Throw,67,70
+4:32,Bowling Green,Demajeo Wiggins,Turnover,67,70
+4:17,Central Michigan,Dallas Morgan,Missed Three Point Jumper,67,70
+4:17,Bowling Green,Demajeo Wiggins,Defensive Rebound,67,70
+4:00,Bowling Green,Dylan Frye,Missed Jumper,67,70
+4:00,Central Michigan,Kevin McKay,Defensive Rebound,67,70
+3:51,Central Michigan,Dallas Morgan,Missed Three Point Jumper,67,70
+3:51,Bowling Green,Antwon Lillard,Defensive Rebound,67,70
+3:36,Bowling Green,Justin Turner,Jumper,69,70
+3:33,Central Michigan,None,None,69,70
+3:09,Central Michigan,Kevin McKay,Three Point Jumper,69,73
+2:46,Bowling Green,Justin Turner,Layup,71,73
+2:39,Central Michigan,Shawn Roundtree,Missed Three Point Jumper,71,73
+2:39,Bowling Green,Demajeo Wiggins,Defensive Rebound,71,73
+2:24,Bowling Green,Michael Laster,Missed Jumper,71,73
+2:24,Bowling Green,Demajeo Wiggins,Offensive Rebound,71,73
+2:23,Central Michigan,Matt Beachler,Foul,71,73
+2:23,Bowling Green,Demajeo Wiggins,Missed Free Throw,71,73
+2:23,Bowling Green,None,Team Rebound,71,73
+2:23,Bowling Green,Demajeo Wiggins,Free Throw,72,73
+2:07,Central Michigan,Larry Austin Jr.,Three Point Jumper,72,76
+1:50,Bowling Green,Justin Turner,Missed Jumper,72,76
+1:50,Central Michigan,Kevin McKay,Defensive Rebound,72,76
+1:35,Bowling Green,Dylan Frye,Foul,72,76
+1:33,Central Michigan,Shawn Roundtree,Free Throw,72,77
+1:33,Central Michigan,Shawn Roundtree,Free Throw,72,78
+1:22,Bowling Green,Michael Laster,Missed Layup,72,78
+1:22,Central Michigan,Central Michigan,Defensive Rebound,72,78
+1:13,Central Michigan,Larry Austin Jr.,Turnover,72,78
+1:12,Bowling Green,Dylan Frye,Steal,72,78
+1:10,Bowling Green,Dylan Frye,Layup,74,78
+0:56,Bowling Green,Michael Laster,Foul,74,78
+0:56,Central Michigan,Larry Austin Jr.,Missed Free Throw,74,78
+0:56,Central Michigan,None,Team Rebound,74,78
+0:56,Central Michigan,Larry Austin Jr.,Missed Free Throw,74,78
+0:56,Bowling Green,Demajeo Wiggins,Defensive Rebound,74,78
+0:43,Bowling Green,Justin Turner,Layup,76,78
+0:14,Central Michigan,David DiLeo,Missed Three Point Jumper,76,78
+0:14,Bowling Green,Michael Laster,Defensive Rebound,76,78
+0:07,Central Michigan,Shawn Roundtree,Foul,76,78
+0:07,Bowling Green,Justin Turner,Free Throw,77,78
+0:07,Bowling Green,Justin Turner,Free Throw,78,78
+0:00,Central Michigan,Larry Austin Jr.,Turnover,78,78
+0:00,Bowling Green,Justin Turner,Steal,78,78
+0:00,Bowling Green,Justin Turner,Missed Three Point Jumper,78,78
+0:00,Bowling Green,None,Team Rebound,78,78
+0:00,Central Michigan,None,None,78,78
+4:44,Bowling Green,Antwon Lillard,Layup,80,78
+4:21,Bowling Green,Justin Turner,Foul,80,78
+4:21,Central Michigan,Larry Austin Jr.,Missed Free Throw,80,78
+4:21,Central Michigan,None,Team Rebound,80,78
+4:21,Central Michigan,Larry Austin Jr.,Missed Free Throw,80,78
+4:21,Bowling Green,Demajeo Wiggins,Defensive Rebound,80,78
+4:00,Bowling Green,Michael Laster,Jumper,82,78
+3:40,Bowling Green,Dylan Frye,Foul,82,78
+3:40,Central Michigan,Kevin McKay,Missed Free Throw,82,78
+3:40,Central Michigan,None,Team Rebound,82,78
+3:40,Central Michigan,Kevin McKay,Free Throw,82,79
+3:38,Bowling Green,Antwon Lillard,Turnover,82,79
+3:37,Central Michigan,Larry Austin Jr.,Steal,82,79
+3:35,Central Michigan,Shawn Roundtree,Layup,82,81
+3:15,Bowling Green,Michael Laster,Jumper,84,81
+3:01,Central Michigan,Kevin McKay,Three Point Jumper,84,84
+2:48,Bowling Green,Justin Turner,Layup,86,84
+2:48,Central Michigan,Robert Montgomery,Foul,86,84
+2:48,Bowling Green,Justin Turner,Free Throw,87,84
+2:40,Bowling Green,Michael Laster,Foul,87,84
+2:40,Central Michigan,Shawn Roundtree,Free Throw,87,85
+2:40,Central Michigan,Shawn Roundtree,Free Throw,87,86
+2:14,Bowling Green,Justin Turner,Missed Layup,87,86
+2:14,Bowling Green,Antwon Lillard,Offensive Rebound,87,86
+2:10,Bowling Green,None,None,87,86
+2:10,Central Michigan,Kevin McKay,Defensive Rebound,87,86
+2:07,Bowling Green,Caleb Fields,Foul,87,86
+2:07,Central Michigan,Shawn Roundtree,Free Throw,87,87
+2:07,Central Michigan,Shawn Roundtree,Missed Free Throw,87,87
+2:07,Bowling Green,Antwon Lillard,Defensive Rebound,87,87
+1:53,Bowling Green,Justin Turner,Three Point Jumper,90,87
+1:42,Central Michigan,Shawn Roundtree,Missed Layup,90,87
+1:42,Central Michigan,Robert Montgomery,Offensive Rebound,90,87
+1:21,Central Michigan,Larry Austin Jr.,Missed Three Point Jumper,90,87
+1:21,Bowling Green,Demajeo Wiggins,Defensive Rebound,90,87
+1:01,Bowling Green,Justin Turner,Jumper,92,87
+0:50,Central Michigan,Robert Montgomery,Turnover,92,87
+0:48,Bowling Green,Caleb Fields,Steal,92,87
+0:46,Central Michigan,Kevin McKay,Foul,92,87
+0:46,Bowling Green,Justin Turner,Free Throw,93,87
+0:46,Bowling Green,Justin Turner,Free Throw,94,87
+0:40,Central Michigan,Shawn Roundtree,Turnover,94,87
+0:39,Bowling Green,Caleb Fields,Steal,94,87
+0:37,Central Michigan,Dallas Morgan,Foul,94,87
+0:36,Bowling Green,Justin Turner,Free Throw,95,87
+0:36,Bowling Green,Justin Turner,Free Throw,96,87
+0:32,Central Michigan,Larry Austin Jr.,Turnover,96,87
+0:32,Bowling Green,Michael Laster,Steal,96,87
+0:30,Bowling Green,None,None,96,87
+0:30,Central Michigan,None,None,96,87
+0:29,Central Michigan,Kevin McKay,Foul,96,87
+0:29,Bowling Green,Michael Laster,Missed Free Throw,96,87
+0:29,Bowling Green,None,Team Rebound,96,87

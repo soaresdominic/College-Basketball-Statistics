@@ -1,0 +1,506 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:47,Boston University,Max Mahoney,Layup,2,0
+19:23,Loyola (MD),KaVaughn Scott,Turnover,2,0
+19:21,Boston University,Tyler Scanlon,Steal,2,0
+19:12,Boston University,Max Mahoney,Layup,4,0
+18:48,Loyola (MD),Jaylin Andrews,Missed Layup,4,0
+18:48,Boston University,Tyler Scanlon,Block,4,0
+18:48,Loyola (MD),Loyola (MD),Offensive Rebound,4,0
+18:39,Loyola (MD),Andrew Kostecka,Missed Jumper,4,0
+18:39,Boston University,Tyler Scanlon,Defensive Rebound,4,0
+18:29,Boston University,Max Mahoney,Jumper,6,0
+18:12,Loyola (MD),Chuck Champion,Missed Jumper,6,0
+18:12,Boston University,Fletcher Tynen,Defensive Rebound,6,0
+18:06,Loyola (MD),Jaylin Andrews,Foul,6,0
+17:52,Boston University,Javante McCoy,Layup,8,0
+17:21,Loyola (MD),Isaiah Hart,Turnover,8,0
+17:20,Boston University,Alex Vilarino,Steal,8,0
+17:20,Boston University,Alex Vilarino,Steal,8,0
+17:16,Boston University,Javante McCoy,Layup,10,0
+17:16,Loyola (MD),None,None,10,0
+17:02,Loyola (MD),Casmir Ochiaka,Missed Layup,10,0
+17:02,Boston University,Max Mahoney,Block,10,0
+17:02,Loyola (MD),None,Team Rebound,10,0
+17:00,Boston University,Jonas Harper,Foul,10,0
+16:51,Loyola (MD),KaVaughn Scott,Turnover,10,0
+16:50,Boston University,Javante McCoy,Steal,10,0
+16:34,Boston University,Alex Vilarino,Turnover,10,0
+16:24,Loyola (MD),Andrew Kostecka,Layup,10,2
+16:05,Boston University,Alex Vilarino,Missed Layup,10,2
+16:05,Loyola (MD),KaVaughn Scott,Defensive Rebound,10,2
+15:51,Loyola (MD),Sam Norton,Missed Three Point Jumper,10,2
+15:51,Boston University,Javante McCoy,Defensive Rebound,10,2
+15:43,Boston University,Tyler Scanlon,Three Point Jumper,13,2
+15:27,Loyola (MD),Chuck Champion,Missed Three Point Jumper,13,2
+15:27,Boston University,Tyler Scanlon,Defensive Rebound,13,2
+15:18,Boston University,Alex Vilarino,Turnover,13,2
+15:18,Boston University,Alex Vilarino,Turnover,13,2
+15:18,Loyola (MD),None,None,13,2
+14:59,Loyola (MD),Kenny Jones,Missed Three Point Jumper,13,2
+14:59,Boston University,Tyler Scanlon,Defensive Rebound,13,2
+14:41,Boston University,Jack Hemphill,Turnover,13,2
+14:30,Boston University,Jack Hemphill,Foul,13,2
+14:30,Boston University,Jack Hemphill,Foul,13,2
+14:30,Loyola (MD),KaVaughn Scott,Missed Free Throw,13,2
+14:30,Loyola (MD),None,Team Rebound,13,2
+14:30,Loyola (MD),KaVaughn Scott,Missed Free Throw,13,2
+14:30,Boston University,Tyler Scanlon,Defensive Rebound,13,2
+14:08,Boston University,Jonas Harper,Turnover,13,2
+14:07,Loyola (MD),KaVaughn Scott,Steal,13,2
+13:46,Loyola (MD),Andrew Kostecka,Layup,13,4
+13:31,Boston University,Jack Hemphill,Missed Three Point Jumper,13,4
+13:31,Loyola (MD),Sam Norton,Defensive Rebound,13,4
+13:21,Loyola (MD),Isaiah Hart,Jumper,13,6
+13:07,Loyola (MD),Andrew Kostecka,Foul,13,6
+13:07,Loyola (MD),Andrew Kostecka,Foul,13,6
+12:55,Boston University,Max Mahoney,Missed Layup,13,6
+12:55,Loyola (MD),Andrew Kostecka,Defensive Rebound,13,6
+12:55,Boston University,Max Mahoney,Missed Layup,13,6
+12:55,Loyola (MD),Andrew Kostecka,Defensive Rebound,13,6
+12:43,Loyola (MD),Andrew Kostecka,Layup,13,8
+12:19,Boston University,Max Mahoney,Jumper,15,8
+12:13,Loyola (MD),Casmir Ochiaka,Foul,15,8
+12:13,Loyola (MD),Casmir Ochiaka,Turnover,15,8
+12:13,Loyola (MD),Casmir Ochiaka,Turnover,15,8
+12:02,Boston University,Javante McCoy,Three Point Jumper,18,8
+12:02,Boston University,Javante McCoy,Three Point Jumper,18,8
+11:46,Loyola (MD),Chuck Champion,Layup,18,10
+11:46,Loyola (MD),Chuck Champion,Layup,18,10
+11:45,Boston University,None,None,18,10
+11:45,Loyola (MD),None,None,18,10
+11:34,Boston University,Max Mahoney,Missed Layup,18,10
+11:34,Boston University,Max Mahoney,Offensive Rebound,18,10
+11:34,Boston University,Max Mahoney,Offensive Rebound,18,10
+11:25,Boston University,Garrett Pascoe,Turnover,18,10
+11:24,Loyola (MD),Kenny Jones,Steal,18,10
+11:21,Loyola (MD),Andrew Kostecka,Layup,18,12
+11:03,Loyola (MD),Casmir Ochiaka,Foul,18,12
+11:03,Boston University,Max Mahoney,Free Throw,19,12
+11:03,Boston University,Max Mahoney,Free Throw,19,12
+11:03,Boston University,Max Mahoney,Free Throw,20,12
+11:03,Boston University,Max Mahoney,Free Throw,20,12
+10:51,Loyola (MD),Jaylin Andrews,Missed Three Point Jumper,20,12
+10:51,Loyola (MD),Jaylin Andrews,Missed Three Point Jumper,20,12
+10:51,Boston University,Andrew Petcash,Defensive Rebound,20,12
+10:30,Boston University,Max Mahoney,Jumper,22,12
+10:30,Boston University,Max Mahoney,Jumper,22,12
+10:09,Loyola (MD),Kenny Jones,Missed Layup,22,12
+10:09,Boston University,Andrew Petcash,Block,22,12
+10:09,Boston University,Andrew Petcash,Block,22,12
+10:09,Loyola (MD),Loyola (MD),Offensive Rebound,22,12
+9:54,Loyola (MD),Isaiah Hart,Three Point Jumper,22,15
+9:25,Boston University,Garrett Pascoe,Missed Jumper,22,15
+9:25,Boston University,Max Mahoney,Offensive Rebound,22,15
+9:21,Loyola (MD),Andrew Kostecka,Foul,22,15
+9:21,Loyola (MD),Andrew Kostecka,Foul,22,15
+9:21,Boston University,Max Mahoney,Free Throw,23,15
+9:21,Boston University,Max Mahoney,Free Throw,23,15
+9:21,Boston University,Max Mahoney,Free Throw,24,15
+9:05,Loyola (MD),KaVaughn Scott,Turnover,24,15
+9:04,Boston University,Andrew Petcash,Steal,24,15
+9:04,Boston University,Andrew Petcash,Steal,24,15
+8:56,Loyola (MD),KaVaughn Scott,Foul,24,15
+8:56,Loyola (MD),KaVaughn Scott,Foul,24,15
+8:49,Boston University,Max Mahoney,Jumper,26,15
+8:49,Boston University,Max Mahoney,Jumper,26,15
+8:32,Loyola (MD),Sam Norton,Turnover,26,15
+8:31,Boston University,Max Mahoney,Steal,26,15
+8:29,Boston University,Max Mahoney,Turnover,26,15
+8:29,Loyola (MD),Sam Norton,Steal,26,15
+8:26,Loyola (MD),Chuck Champion,Missed Three Point Jumper,26,15
+8:26,Loyola (MD),KaVaughn Scott,Offensive Rebound,26,15
+8:10,Loyola (MD),Jaylin Andrews,Foul,26,15
+8:10,Loyola (MD),Jaylin Andrews,Turnover,26,15
+8:10,Loyola (MD),Jaylin Andrews,Turnover,26,15
+8:00,Boston University,Javante McCoy,Missed Three Point Jumper,26,15
+8:00,Loyola (MD),Kenny Jones,Defensive Rebound,26,15
+8:00,Boston University,Javante McCoy,Missed Three Point Jumper,26,15
+8:00,Loyola (MD),Kenny Jones,Defensive Rebound,26,15
+7:49,Loyola (MD),Andrew Kostecka,Missed Jumper,26,15
+7:49,Loyola (MD),Andrew Kostecka,Missed Jumper,26,15
+7:49,Boston University,Fletcher Tynen,Defensive Rebound,26,15
+7:49,Boston University,Fletcher Tynen,Defensive Rebound,26,15
+7:34,Loyola (MD),None,None,26,15
+7:24,Boston University,Jordan Guest,Layup,28,15
+7:08,Loyola (MD),Isaiah Hart,Missed Jumper,28,15
+7:08,Boston University,Alex Vilarino,Block,28,15
+7:08,Loyola (MD),Isaiah Hart,Missed Jumper,28,15
+7:08,Boston University,Alex Vilarino,Block,28,15
+7:07,Loyola (MD),Loyola (MD),Offensive Rebound,28,15
+7:07,Loyola (MD),Loyola (MD),Offensive Rebound,28,15
+7:02,Boston University,Fletcher Tynen,Foul,28,15
+7:02,Loyola (MD),Andrew Kostecka,Free Throw,28,16
+7:02,Loyola (MD),Andrew Kostecka,Free Throw,28,16
+7:02,Loyola (MD),Andrew Kostecka,Free Throw,28,17
+7:02,Loyola (MD),Andrew Kostecka,Free Throw,28,17
+6:47,Boston University,Javante McCoy,Turnover,28,17
+6:47,Boston University,Javante McCoy,Turnover,28,17
+6:46,Loyola (MD),Andrew Kostecka,Steal,28,17
+6:46,Loyola (MD),Andrew Kostecka,Steal,28,17
+6:42,Loyola (MD),Andrew Kostecka,Missed Layup,28,17
+6:42,Loyola (MD),Andrew Kostecka,Missed Layup,28,17
+6:42,Loyola (MD),Loyola (MD),Offensive Rebound,28,17
+6:36,Boston University,Tyler Scanlon,Foul,28,17
+6:27,Loyola (MD),Kenny Jones,Turnover,28,17
+6:27,Loyola (MD),Kenny Jones,Turnover,28,17
+6:26,Boston University,Javante McCoy,Steal,28,17
+6:26,Boston University,Javante McCoy,Steal,28,17
+6:19,Boston University,Javante McCoy,Missed Three Point Jumper,28,17
+6:19,Loyola (MD),Loyola (MD),Defensive Rebound,28,17
+6:19,Boston University,Javante McCoy,Missed Three Point Jumper,28,17
+6:19,Loyola (MD),Loyola (MD),Defensive Rebound,28,17
+6:02,Boston University,Fletcher Tynen,Foul,28,17
+6:02,Boston University,Fletcher Tynen,Foul,28,17
+5:51,Loyola (MD),Andrew Kostecka,Missed Layup,28,17
+5:51,Loyola (MD),Andrew Kostecka,Offensive Rebound,28,17
+5:51,Loyola (MD),Andrew Kostecka,Missed Layup,28,17
+5:51,Loyola (MD),Andrew Kostecka,Offensive Rebound,28,17
+5:49,Loyola (MD),Andrew Kostecka,Layup,28,19
+5:49,Loyola (MD),Andrew Kostecka,Layup,28,19
+5:32,Boston University,Jonas Harper,Three Point Jumper,31,19
+5:32,Boston University,Jonas Harper,Three Point Jumper,31,19
+5:08,Loyola (MD),KaVaughn Scott,Missed Layup,31,19
+5:08,Boston University,Jordan Guest,Defensive Rebound,31,19
+5:08,Loyola (MD),KaVaughn Scott,Missed Layup,31,19
+5:08,Boston University,Jordan Guest,Defensive Rebound,31,19
+4:52,Boston University,Javante McCoy,Missed Three Point Jumper,31,19
+4:52,Loyola (MD),Andrew Kostecka,Defensive Rebound,31,19
+4:52,Boston University,Javante McCoy,Missed Three Point Jumper,31,19
+4:52,Loyola (MD),Andrew Kostecka,Defensive Rebound,31,19
+4:32,Loyola (MD),KaVaughn Scott,Missed Layup,31,19
+4:32,Boston University,Jonas Harper,Defensive Rebound,31,19
+4:32,Boston University,Jonas Harper,Defensive Rebound,31,19
+4:26,Boston University,Tyler Scanlon,Missed Three Point Jumper,31,19
+4:26,Loyola (MD),KaVaughn Scott,Defensive Rebound,31,19
+4:13,Loyola (MD),KaVaughn Scott,Layup,31,21
+4:13,Loyola (MD),KaVaughn Scott,Layup,31,21
+4:13,Boston University,Tyler Scanlon,Foul,31,21
+4:13,Boston University,Tyler Scanlon,Foul,31,21
+4:13,Loyola (MD),KaVaughn Scott,Free Throw,31,22
+4:13,Loyola (MD),KaVaughn Scott,Free Throw,31,22
+3:52,Boston University,Max Mahoney,Missed Layup,31,22
+3:52,Boston University,Max Mahoney,Offensive Rebound,31,22
+3:52,Boston University,Max Mahoney,Offensive Rebound,31,22
+3:36,Boston University,Sukhmail Mathon,Missed Layup,31,22
+3:36,Loyola (MD),Casmir Ochiaka,Defensive Rebound,31,22
+3:36,Boston University,Sukhmail Mathon,Missed Layup,31,22
+3:36,Loyola (MD),Casmir Ochiaka,Defensive Rebound,31,22
+3:08,Loyola (MD),Isaiah Hart,Missed Layup,31,22
+3:08,Boston University,Max Mahoney,Block,31,22
+3:07,Boston University,Sukhmail Mathon,Defensive Rebound,31,22
+2:51,Boston University,Javante McCoy,Turnover,31,22
+2:50,Loyola (MD),Chuck Champion,Steal,31,22
+2:50,Loyola (MD),Chuck Champion,Steal,31,22
+2:45,Loyola (MD),Casmir Ochiaka,Dunk,31,24
+2:45,Loyola (MD),Casmir Ochiaka,Dunk,31,24
+2:20,Boston University,Jonas Harper,Three Point Jumper,34,24
+1:59,Boston University,Sukhmail Mathon,Foul,34,24
+1:59,Boston University,Sukhmail Mathon,Foul,34,24
+1:59,Loyola (MD),None,None,34,24
+1:59,Loyola (MD),None,None,34,24
+1:59,Loyola (MD),James Fives,Missed Free Throw,34,24
+1:59,Loyola (MD),James Fives,Missed Free Throw,34,24
+1:59,Loyola (MD),None,Team Rebound,34,24
+1:59,Loyola (MD),None,Team Rebound,34,24
+1:59,Loyola (MD),James Fives,Missed Free Throw,34,24
+1:59,Loyola (MD),None,Team Rebound,34,24
+1:59,Loyola (MD),James Fives,Free Throw,34,25
+1:59,Loyola (MD),James Fives,Free Throw,34,25
+1:38,Boston University,Javante McCoy,Turnover,34,25
+1:38,Boston University,Javante McCoy,Turnover,34,25
+1:37,Loyola (MD),Jaylin Andrews,Steal,34,25
+1:37,Loyola (MD),Jaylin Andrews,Steal,34,25
+1:28,Loyola (MD),Casmir Ochiaka,Missed Layup,34,25
+1:28,Boston University,Max Mahoney,Block,34,25
+1:28,Loyola (MD),Casmir Ochiaka,Missed Layup,34,25
+1:28,Boston University,Max Mahoney,Block,34,25
+1:27,Loyola (MD),Loyola (MD),Offensive Rebound,34,25
+1:27,Loyola (MD),Loyola (MD),Offensive Rebound,34,25
+1:12,Loyola (MD),Kenny Jones,Missed Jumper,34,25
+1:12,Loyola (MD),Kenny Jones,Missed Jumper,34,25
+1:12,Boston University,Alex Vilarino,Defensive Rebound,34,25
+1:06,Boston University,Max Mahoney,Layup,36,25
+1:06,Boston University,Max Mahoney,Layup,36,25
+0:52,Boston University,Jonas Harper,Foul,36,25
+0:52,Boston University,Jonas Harper,Foul,36,25
+0:52,Loyola (MD),James Fives,Free Throw,36,26
+0:52,Loyola (MD),James Fives,Free Throw,36,26
+0:52,Loyola (MD),James Fives,Free Throw,36,27
+0:52,Loyola (MD),James Fives,Free Throw,36,27
+0:44,Boston University,Andrew Petcash,Missed Three Point Jumper,36,27
+0:44,Loyola (MD),None,Team Rebound,36,27
+0:44,Boston University,Andrew Petcash,Missed Three Point Jumper,36,27
+0:44,Loyola (MD),None,Team Rebound,36,27
+0:39,Boston University,Max Mahoney,Foul,36,27
+0:39,Boston University,Max Mahoney,Foul,36,27
+0:39,Loyola (MD),Casmir Ochiaka,Free Throw,36,28
+0:39,Loyola (MD),Casmir Ochiaka,Free Throw,36,28
+0:39,Loyola (MD),Casmir Ochiaka,Missed Free Throw,36,28
+0:39,Boston University,Max Mahoney,Defensive Rebound,36,28
+0:39,Loyola (MD),Casmir Ochiaka,Missed Free Throw,36,28
+0:39,Boston University,Max Mahoney,Defensive Rebound,36,28
+0:24,Boston University,Andrew Petcash,Missed Three Point Jumper,36,28
+0:24,Loyola (MD),Jaylin Andrews,Defensive Rebound,36,28
+0:24,Boston University,Andrew Petcash,Missed Three Point Jumper,36,28
+0:24,Loyola (MD),Jaylin Andrews,Defensive Rebound,36,28
+0:00,Loyola (MD),Isaiah Hart,Missed Jumper,36,28
+0:00,Loyola (MD),None,Team Rebound,36,28
+0:00,Loyola (MD),None,None,36,28
+19:35,Boston University,Max Mahoney,Turnover,36,28
+19:34,Loyola (MD),Chuck Champion,Steal,36,28
+19:29,Loyola (MD),KaVaughn Scott,Foul,36,28
+19:29,Loyola (MD),KaVaughn Scott,Turnover,36,28
+19:16,Boston University,Alex Vilarino,Missed Jumper,36,28
+19:16,Boston University,Max Mahoney,Offensive Rebound,36,28
+19:11,Boston University,Tyler Scanlon,Jumper,38,28
+18:50,Loyola (MD),Andrew Kostecka,Jumper,38,30
+18:32,Boston University,Max Mahoney,Layup,40,30
+18:17,Loyola (MD),Chuck Champion,Layup,40,32
+17:59,Boston University,Javante McCoy,Layup,42,32
+17:41,Loyola (MD),Andrew Kostecka,Three Point Jumper,42,35
+17:41,Loyola (MD),Andrew Kostecka,Three Point Jumper,42,35
+17:37,Boston University,None,None,42,35
+17:37,Boston University,None,None,42,35
+17:37,Loyola (MD),None,None,42,35
+17:14,Boston University,Alex Vilarino,Turnover,42,35
+17:13,Loyola (MD),Jaylin Andrews,Steal,42,35
+17:13,Loyola (MD),Jaylin Andrews,Steal,42,35
+17:10,Boston University,Fletcher Tynen,Foul,42,35
+17:10,Loyola (MD),Jaylin Andrews,Missed Free Throw,42,35
+17:10,Loyola (MD),None,Team Rebound,42,35
+17:10,Loyola (MD),Jaylin Andrews,Free Throw,42,36
+17:10,Loyola (MD),Jaylin Andrews,Free Throw,42,36
+17:00,Loyola (MD),Isaiah Hart,Foul,42,36
+17:00,Boston University,Max Mahoney,Free Throw,43,36
+17:00,Boston University,Max Mahoney,Free Throw,44,36
+16:45,Loyola (MD),KaVaughn Scott,Missed Layup,44,36
+16:45,Boston University,Alex Vilarino,Block,44,36
+16:44,Boston University,Boston University,Defensive Rebound,44,36
+16:22,Boston University,Max Mahoney,Missed Jumper,44,36
+16:22,Loyola (MD),Jaylin Andrews,Defensive Rebound,44,36
+16:09,Boston University,Max Mahoney,Foul,44,36
+16:06,Loyola (MD),Andrew Kostecka,Jumper,44,38
+15:51,Boston University,Jonas Harper,Three Point Jumper,47,38
+15:37,Loyola (MD),Chuck Champion,Missed Jumper,47,38
+15:37,Loyola (MD),None,Team Rebound,47,38
+15:34,Boston University,Jonas Harper,Foul,47,38
+15:34,Loyola (MD),None,None,47,38
+15:32,Loyola (MD),Andrew Kostecka,Missed Jumper,47,38
+15:32,Boston University,Max Mahoney,Defensive Rebound,47,38
+15:27,Boston University,Garrett Pascoe,Foul,47,38
+15:27,Boston University,Garrett Pascoe,Turnover,47,38
+15:16,Loyola (MD),Andrew Kostecka,Turnover,47,38
+15:16,Loyola (MD),Andrew Kostecka,Turnover,47,38
+15:08,Boston University,Javante McCoy,Turnover,47,38
+14:54,Loyola (MD),Chuck Champion,Missed Three Point Jumper,47,38
+14:54,Loyola (MD),Jaylin Andrews,Offensive Rebound,47,38
+14:50,Loyola (MD),Jaylin Andrews,Dunk,47,40
+14:33,Boston University,Javante McCoy,Jumper,49,40
+14:18,Boston University,Andrew Petcash,Foul,49,40
+14:17,Loyola (MD),Andrew Kostecka,Turnover,49,40
+13:54,Boston University,Garrett Pascoe,Missed Jumper,49,40
+13:54,Loyola (MD),Casmir Ochiaka,Defensive Rebound,49,40
+13:46,Boston University,Andrew Petcash,Foul,49,40
+13:46,Loyola (MD),Isaiah Hart,Missed Free Throw,49,40
+13:46,Loyola (MD),None,Team Rebound,49,40
+13:46,Loyola (MD),Isaiah Hart,Free Throw,49,41
+13:26,Boston University,Andrew Petcash,Three Point Jumper,52,41
+13:06,Boston University,Jack Hemphill,Foul,52,41
+13:06,Loyola (MD),Casmir Ochiaka,Missed Free Throw,52,41
+13:06,Boston University,Tyler Scanlon,Defensive Rebound,52,41
+13:06,Boston University,Tyler Scanlon,Defensive Rebound,52,41
+12:35,Boston University,Boston University ,Turnover,52,41
+12:19,Loyola (MD),Casmir Ochiaka,Layup,52,43
+12:04,Loyola (MD),Andrew Kostecka,Foul,52,43
+12:02,Loyola (MD),Casmir Ochiaka,Foul,52,43
+12:02,Boston University,Max Mahoney,Layup,54,43
+12:02,Boston University,Max Mahoney,Free Throw,55,43
+11:35,Loyola (MD),Kenny Jones,Missed Three Point Jumper,55,43
+11:35,Loyola (MD),Kenny Jones,Missed Three Point Jumper,55,43
+11:35,Loyola (MD),James Fives,Offensive Rebound,55,43
+11:28,Loyola (MD),Chuck Champion,Three Point Jumper,55,46
+11:09,Boston University,Andrew Petcash,Missed Three Point Jumper,55,46
+11:09,Loyola (MD),James Fives,Defensive Rebound,55,46
+11:09,Loyola (MD),James Fives,Defensive Rebound,55,46
+10:53,Loyola (MD),Chuck Champion,Jumper,55,48
+10:28,Boston University,Javante McCoy,Missed Three Point Jumper,55,48
+10:28,Loyola (MD),Casmir Ochiaka,Defensive Rebound,55,48
+10:09,Loyola (MD),James Fives,Three Point Jumper,55,51
+9:54,Boston University,Javante McCoy,Missed Layup,55,51
+9:54,Boston University,Javante McCoy,Offensive Rebound,55,51
+9:39,Boston University,Javante McCoy,Missed Three Point Jumper,55,51
+9:39,Loyola (MD),Chuck Champion,Defensive Rebound,55,51
+9:05,Loyola (MD),Casmir Ochiaka,Missed Jumper,55,51
+9:05,Boston University,Garrett Pascoe,Defensive Rebound,55,51
+8:53,Boston University,Max Mahoney,Missed Layup,55,51
+8:53,Loyola (MD),Casmir Ochiaka,Defensive Rebound,55,51
+8:46,Loyola (MD),Chuck Champion,Missed Three Point Jumper,55,51
+8:46,Boston University,None,Team Rebound,55,51
+8:43,Loyola (MD),Casmir Ochiaka,Foul,55,51
+8:43,Loyola (MD),Loyola (MD),Foul,55,51
+8:43,Loyola (MD),None,None,55,51
+8:43,Loyola (MD),None,None,55,51
+8:43,Boston University,Tyler Scanlon,Free Throw,56,51
+8:43,Boston University,Tyler Scanlon,Free Throw,57,51
+8:43,Loyola (MD),Loyola (MD),Foul,55,51
+8:33,Boston University,Garrett Pascoe,Turnover,57,51
+8:32,Loyola (MD),Andrew Kostecka,Steal,57,51
+8:30,Loyola (MD),Andrew Kostecka,Dunk,57,53
+8:14,Boston University,Tyler Scanlon,Turnover,57,53
+8:14,Boston University,Tyler Scanlon,Turnover,57,53
+8:13,Loyola (MD),Isaiah Hart,Steal,57,53
+7:50,Boston University,Fletcher Tynen,Foul,57,53
+7:50,Loyola (MD),None,None,57,53
+7:50,Loyola (MD),KaVaughn Scott,Free Throw,57,54
+7:50,Loyola (MD),KaVaughn Scott,Free Throw,57,55
+7:50,Loyola (MD),KaVaughn Scott,Free Throw,57,55
+7:27,Boston University,Alex Vilarino,Missed Layup,57,55
+7:27,Loyola (MD),Jaylin Andrews,Defensive Rebound,57,55
+7:03,Loyola (MD),KaVaughn Scott,Missed Jumper,57,55
+7:03,Boston University,Tyler Scanlon,Defensive Rebound,57,55
+6:50,Boston University,Javante McCoy,Jumper,59,55
+6:32,Loyola (MD),Jaylin Andrews,Three Point Jumper,59,58
+6:11,Boston University,Tyler Scanlon,Missed Three Point Jumper,59,58
+6:11,Loyola (MD),Andrew Kostecka,Defensive Rebound,59,58
+6:11,Loyola (MD),Andrew Kostecka,Defensive Rebound,59,58
+6:09,Boston University,Sukhmail Mathon,Foul,59,58
+6:09,Boston University,Sukhmail Mathon,Foul,59,58
+6:09,Loyola (MD),Andrew Kostecka,Free Throw,59,59
+6:09,Loyola (MD),Andrew Kostecka,Free Throw,59,60
+6:08,Boston University,Sukhmail Mathon,Foul,59,58
+6:08,Boston University,Sukhmail Mathon,Foul,59,58
+5:54,Boston University,Jordan Guest,Layup,61,60
+5:30,Loyola (MD),KaVaughn Scott,Turnover,61,60
+5:29,Boston University,Max Mahoney,Steal,61,60
+5:25,Boston University,Alex Vilarino,Layup,63,60
+5:25,Boston University,Alex Vilarino,Layup,63,60
+5:25,Loyola (MD),Andrew Kostecka,Foul,63,60
+5:25,Boston University,Alex Vilarino,Free Throw,64,60
+5:25,Boston University,Alex Vilarino,Free Throw,64,60
+5:20,Loyola (MD),None,None,64,60
+5:20,Loyola (MD),None,None,64,60
+5:06,Loyola (MD),Isaiah Hart,Missed Layup,64,60
+5:06,Boston University,Alex Vilarino,Block,64,60
+5:06,Loyola (MD),Loyola (MD),Offensive Rebound,64,60
+5:06,Loyola (MD),Loyola (MD),Offensive Rebound,64,60
+4:59,Loyola (MD),Chuck Champion,Missed Jumper,64,60
+4:59,Boston University,Jonas Harper,Defensive Rebound,64,60
+4:39,Loyola (MD),KaVaughn Scott,Foul,64,60
+4:39,Boston University,Max Mahoney,Missed Free Throw,64,60
+4:39,Boston University,Max Mahoney,Missed Free Throw,64,60
+4:39,Loyola (MD),KaVaughn Scott,Defensive Rebound,64,60
+4:39,Loyola (MD),KaVaughn Scott,Defensive Rebound,64,60
+4:30,Loyola (MD),Chuck Champion,Turnover,64,60
+4:30,Loyola (MD),Chuck Champion,Turnover,64,60
+4:29,Boston University,Javante McCoy,Steal,64,60
+4:29,Boston University,Javante McCoy,Steal,64,60
+4:22,Boston University,Max Mahoney,Foul,64,60
+4:22,Boston University,Max Mahoney,Foul,64,60
+4:22,Boston University,Max Mahoney,Turnover,64,60
+3:55,Loyola (MD),Jaylin Andrews,Missed Three Point Jumper,64,60
+3:55,Boston University,Max Mahoney,Block,64,60
+3:55,Loyola (MD),Jaylin Andrews,Missed Three Point Jumper,64,60
+3:55,Boston University,Max Mahoney,Block,64,60
+3:53,Loyola (MD),KaVaughn Scott,Offensive Rebound,64,60
+3:53,Loyola (MD),KaVaughn Scott,Offensive Rebound,64,60
+3:52,Boston University,Javante McCoy,Foul,64,60
+3:52,Boston University,Javante McCoy,Foul,64,60
+3:52,Loyola (MD),None,None,64,60
+3:50,Loyola (MD),KaVaughn Scott,Free Throw,64,61
+3:50,Loyola (MD),KaVaughn Scott,Free Throw,64,61
+3:50,Loyola (MD),KaVaughn Scott,Free Throw,64,62
+3:37,Boston University,Javante McCoy,Missed Three Point Jumper,64,62
+3:37,Boston University,Javante McCoy,Missed Three Point Jumper,64,62
+3:37,Loyola (MD),James Fives,Defensive Rebound,64,62
+3:12,Loyola (MD),KaVaughn Scott,Layup,64,64
+3:12,Loyola (MD),KaVaughn Scott,Layup,64,64
+2:49,Boston University,Jonas Harper,Three Point Jumper,67,64
+2:32,Loyola (MD),James Fives,Missed Three Point Jumper,67,64
+2:32,Boston University,Jonas Harper,Defensive Rebound,67,64
+2:10,Boston University,Tyler Scanlon,Turnover,67,64
+2:09,Loyola (MD),Chuck Champion,Steal,67,64
+2:06,Loyola (MD),Isaiah Hart,Missed Layup,67,64
+2:06,Loyola (MD),Chuck Champion,Offensive Rebound,67,64
+2:06,Loyola (MD),Chuck Champion,Offensive Rebound,67,64
+2:03,Loyola (MD),Chuck Champion,Jumper,67,66
+2:03,Loyola (MD),Chuck Champion,Jumper,67,66
+1:52,Boston University,Tyler Scanlon,Turnover,67,66
+1:52,Boston University,Tyler Scanlon,Turnover,67,66
+1:51,Loyola (MD),Andrew Kostecka,Steal,67,66
+1:51,Loyola (MD),Andrew Kostecka,Steal,67,66
+1:49,Loyola (MD),Andrew Kostecka,Dunk,67,68
+1:40,Boston University,None,None,67,68
+1:40,Boston University,None,None,67,68
+1:28,Loyola (MD),KaVaughn Scott,Foul,67,68
+1:28,Loyola (MD),KaVaughn Scott,Foul,67,68
+1:28,Boston University,Max Mahoney,Free Throw,68,68
+1:28,Boston University,Max Mahoney,Free Throw,68,68
+1:28,Boston University,Max Mahoney,Free Throw,69,68
+1:28,Boston University,Max Mahoney,Free Throw,69,68
+1:14,Loyola (MD),Chuck Champion,Missed Jumper,69,68
+1:14,Boston University,Alex Vilarino,Defensive Rebound,69,68
+0:52,Boston University,Max Mahoney,Missed Jumper,69,68
+0:52,Loyola (MD),KaVaughn Scott,Defensive Rebound,69,68
+0:52,Loyola (MD),KaVaughn Scott,Defensive Rebound,69,68
+0:41,Boston University,Max Mahoney,Foul,69,68
+0:41,Boston University,Max Mahoney,Foul,69,68
+0:41,Loyola (MD),KaVaughn Scott,Missed Free Throw,69,68
+0:41,Loyola (MD),None,Team Rebound,69,68
+0:41,Loyola (MD),KaVaughn Scott,Free Throw,69,69
+0:22,Boston University,Max Mahoney,Turnover,69,69
+0:22,Loyola (MD),None,None,69,69
+0:04,Loyola (MD),None,None,69,69
+0:04,Loyola (MD),None,None,69,69
+0:01,Loyola (MD),Andrew Kostecka,Missed Jumper,69,69
+0:01,Loyola (MD),None,Team Rebound,69,69
+0:00,Loyola (MD),None,None,69,69
+4:35,Loyola (MD),KaVaughn Scott,Turnover,69,69
+4:12,Boston University,Jonas Harper,Missed Layup,69,69
+4:12,Loyola (MD),Isaiah Hart,Defensive Rebound,69,69
+4:07,Loyola (MD),Isaiah Hart,Turnover,69,69
+4:07,Boston University,Jonas Harper,Steal,69,69
+3:58,Boston University,Javante McCoy,Missed Jumper,69,69
+3:58,Boston University,Max Mahoney,Offensive Rebound,69,69
+3:55,Boston University,Max Mahoney,Layup,71,69
+3:43,Loyola (MD),Andrew Kostecka,Jumper,71,71
+3:43,Boston University,Jonas Harper,Foul,71,71
+3:43,Loyola (MD),Andrew Kostecka,Free Throw,71,72
+3:26,Boston University,Max Mahoney,Layup,73,72
+2:59,Loyola (MD),Andrew Kostecka,Missed Three Point Jumper,73,72
+2:59,Boston University,Alex Vilarino,Defensive Rebound,73,72
+2:35,Boston University,Max Mahoney,Missed Layup,73,72
+2:35,Boston University,Boston University,Offensive Rebound,73,72
+2:31,Boston University,Max Mahoney,Missed Jumper,73,72
+2:31,Loyola (MD),James Fives,Defensive Rebound,73,72
+2:31,Loyola (MD),James Fives,Defensive Rebound,73,72
+2:10,Loyola (MD),Casmir Ochiaka,Turnover,73,72
+2:09,Boston University,Jonas Harper,Steal,73,72
+1:44,Boston University,Tyler Scanlon,Turnover,73,72
+1:43,Loyola (MD),Isaiah Hart,Steal,73,72
+1:38,Boston University,Javante McCoy,Foul,73,72
+1:38,Loyola (MD),Isaiah Hart,Missed Free Throw,73,72
+1:38,Loyola (MD),None,Team Rebound,73,72
+1:38,Loyola (MD),Isaiah Hart,Missed Free Throw,73,72
+1:38,Loyola (MD),James Fives,Offensive Rebound,73,72
+1:36,Boston University,Tyler Scanlon,Foul,73,72
+1:36,Loyola (MD),James Fives,Free Throw,73,73
+1:36,Loyola (MD),James Fives,Free Throw,73,74
+1:24,Boston University,Tyler Scanlon,Turnover,73,74
+1:24,Boston University,None,None,73,74
+1:24,Loyola (MD),None,None,73,74
+1:14,Boston University,Jonas Harper,Missed Three Point Jumper,73,74
+1:14,Loyola (MD),Chuck Champion,Defensive Rebound,73,74
+0:49,Loyola (MD),Isaiah Hart,Three Point Jumper,73,77
+0:35,Boston University,Javante McCoy,Turnover,73,77
+0:34,Loyola (MD),Isaiah Hart,Steal,73,77
+0:29,Boston University,Andrew Petcash,Foul,73,77
+0:29,Loyola (MD),Isaiah Hart,Free Throw,73,78
+0:29,Loyola (MD),Isaiah Hart,Free Throw,73,79
+0:21,Boston University,Javante McCoy,Missed Three Point Jumper,73,79
+0:21,Loyola (MD),James Fives,Defensive Rebound,73,79
+0:19,Boston University,Jordan Guest,Foul,73,79
+0:19,Loyola (MD),James Fives,Free Throw,73,80
+0:19,Loyola (MD),James Fives,Free Throw,73,81
+0:08,Boston University,Jonas Harper,Missed Three Point Jumper,73,81
+0:08,Loyola (MD),Isaiah Hart,Defensive Rebound,73,81
+0:00,Loyola (MD),None,None,73,81

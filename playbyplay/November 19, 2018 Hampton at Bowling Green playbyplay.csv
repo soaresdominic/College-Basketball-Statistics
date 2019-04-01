@@ -1,0 +1,364 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:46,Hampton,Trevond Barnes,Turnover,0,0
+19:46,Hampton,Trevond Barnes,Foul,0,0
+19:29,Bowling Green,Demajeo Wiggins,Jumper,0,2
+19:16,Hampton,Kalin Fisher,Missed Jumper,0,2
+19:16,Bowling Green,Justin Turner,Block,0,2
+19:10,Bowling Green,Antwon Lillard,Defensive Rebound,0,2
+19:07,Bowling Green,Antwon Lillard,Missed Jumper,0,2
+19:07,Hampton,Jermaine Marrow,Defensive Rebound,0,2
+19:02,Hampton,Akim Mitchell,Missed Three Point Jumper,0,2
+19:02,Hampton,Benjamin Stanley,Offensive Rebound,0,2
+18:58,Hampton,Benjamin Stanley,Layup,2,2
+18:46,Bowling Green,Demajeo Wiggins,Dunk,2,4
+18:35,Hampton,Trevond Barnes,Three Point Jumper,5,4
+18:13,Hampton,Trevond Barnes,Foul,5,4
+18:12,Hampton,Austin Colbert,Foul,5,4
+18:12,Bowling Green,Demajeo Wiggins,Turnover,5,4
+18:11,Hampton,Akim Mitchell,Steal,5,4
+18:04,Bowling Green,Antwon Lillard,Foul,5,4
+18:04,Hampton,Jermaine Marrow,Missed Free Throw,5,4
+18:04,Hampton,None,Team Rebound,5,4
+18:04,Hampton,Jermaine Marrow,Free Throw,6,4
+17:49,Bowling Green,Demajeo Wiggins,Missed Jumper,6,4
+17:49,Hampton,Austin Colbert,Block,6,4
+17:46,Hampton,Austin Colbert,Defensive Rebound,6,4
+17:42,Hampton,Kalin Fisher,Missed Jumper,6,4
+17:42,Bowling Green,Demajeo Wiggins,Defensive Rebound,6,4
+17:33,Bowling Green,Justin Turner,Missed Jumper,6,4
+17:33,Hampton,Hampton,Defensive Rebound,6,4
+17:09,Hampton,Benjamin Stanley,Layup,8,4
+16:56,Bowling Green,Dylan Frye,Layup,8,6
+16:50,Hampton,Jermaine Marrow,Three Point Jumper,11,6
+16:38,Bowling Green,Dylan Frye,Missed Three Point Jumper,11,6
+16:38,Hampton,Akim Mitchell,Defensive Rebound,11,6
+16:28,Hampton,Jermaine Marrow,Turnover,11,6
+16:28,Hampton,Jermaine Marrow,Foul,11,6
+16:12,Bowling Green,Dylan Frye,Missed Three Point Jumper,11,6
+16:12,Bowling Green,Bowling Green,Offensive Rebound,11,6
+16:04,Bowling Green,Antwon Lillard,Missed Three Point Jumper,11,6
+16:04,Bowling Green,Justin Turner,Offensive Rebound,11,6
+16:01,Bowling Green,Justin Turner,Missed Layup,11,6
+16:01,Hampton,Hampton,Defensive Rebound,11,6
+15:58,Bowling Green,None,None,11,6
+15:46,Hampton,Austin Colbert,Missed Three Point Jumper,11,6
+15:46,Bowling Green,Daeqwon Plowden,Defensive Rebound,11,6
+15:24,Bowling Green,Justin Turner,Layup,11,8
+15:10,Hampton,Jermaine Marrow,Three Point Jumper,14,8
+14:54,Bowling Green,Dylan Frye,Turnover,14,8
+14:53,Hampton,Jermaine Marrow,Steal,14,8
+14:52,Bowling Green,Dylan Frye,Foul,14,8
+14:35,Hampton,Jermaine Marrow,Missed Layup,14,8
+14:35,Hampton,Akim Mitchell,Offensive Rebound,14,8
+14:33,Bowling Green,Daeqwon Plowden,Foul,14,8
+14:33,Hampton,Austin Colbert,Free Throw,15,8
+14:33,Hampton,Austin Colbert,Free Throw,16,8
+14:20,Bowling Green,Jeffrey Uju,Layup,16,10
+14:06,Hampton,Jermaine Marrow,Missed Jumper,16,10
+14:06,Bowling Green,Daeqwon Plowden,Defensive Rebound,16,10
+13:45,Bowling Green,Jeffrey Uju,Missed Three Point Jumper,16,10
+13:45,Bowling Green,Daeqwon Plowden,Offensive Rebound,16,10
+13:42,Hampton,Austin Colbert,Foul,16,10
+13:41,Bowling Green,Demajeo Wiggins,Missed Jumper,16,10
+13:41,Bowling Green,Daeqwon Plowden,Offensive Rebound,16,10
+13:38,Bowling Green,Daeqwon Plowden,Layup,16,12
+13:29,Hampton,Lysander Bracey,Three Point Jumper,19,12
+13:19,Bowling Green,Michael Laster,Missed Jumper,19,12
+13:19,Hampton,Kalin Fisher,Defensive Rebound,19,12
+13:10,Hampton,Kalin Fisher,Missed Jumper,19,12
+13:10,Bowling Green,Marlon Sierra,Defensive Rebound,19,12
+12:49,Bowling Green,Daeqwon Plowden,Jumper,19,14
+12:16,Bowling Green,Marlon Sierra,Foul,19,14
+12:16,Hampton,Austin Colbert,Missed Free Throw,19,14
+12:16,Hampton,None,Team Rebound,19,14
+12:16,Hampton,Austin Colbert,Free Throw,20,14
+12:07,Bowling Green,Michael Laster,Jumper,20,16
+11:52,Hampton,Jermaine Marrow,Turnover,20,16
+11:52,Hampton,Jermaine Marrow,Foul,20,16
+11:52,Bowling Green,None,None,20,16
+11:38,Bowling Green,Daeqwon Plowden,Layup,20,18
+11:26,Hampton,Kalin Fisher,Jumper,22,18
+11:07,Bowling Green,Marlon Sierra,Missed Jumper,22,18
+11:07,Hampton,Devon Oakley,Defensive Rebound,22,18
+11:00,Hampton,Kalin Fisher,Turnover,22,18
+10:59,Bowling Green,Michael Laster,Steal,22,18
+10:54,Bowling Green,Michael Laster,Missed Three Point Jumper,22,18
+10:54,Bowling Green,Daeqwon Plowden,Offensive Rebound,22,18
+10:50,Bowling Green,Daeqwon Plowden,Turnover,22,18
+10:48,Hampton,Kalin Fisher,Steal,22,18
+10:45,Hampton,Austin Colbert,Layup,24,18
+10:28,Bowling Green,Daeqwon Plowden,Three Point Jumper,24,21
+10:14,Hampton,Austin Colbert,Three Point Jumper,27,21
+9:55,Bowling Green,Michael Laster,Layup,27,23
+9:42,Bowling Green,Tayler Mattos,Foul,27,23
+9:42,Hampton,Jermaine Marrow,Free Throw,28,23
+9:42,Hampton,Jermaine Marrow,Free Throw,29,23
+9:34,Bowling Green,Michael Laster,Jumper,29,25
+9:11,Hampton,Devon Oakley,Missed Layup,29,25
+9:11,Bowling Green,Daeqwon Plowden,Block,29,25
+9:09,Bowling Green,Daeqwon Plowden,Defensive Rebound,29,25
+8:53,Bowling Green,Michael Laster,Missed Jumper,29,25
+8:53,Bowling Green,Daeqwon Plowden,Offensive Rebound,29,25
+8:30,Bowling Green,Demajeo Wiggins,Missed Layup,29,25
+8:30,Hampton,Kalin Fisher,Defensive Rebound,29,25
+8:23,Hampton,Kalin Fisher,Missed Jumper,29,25
+8:23,Bowling Green,Demajeo Wiggins,Defensive Rebound,29,25
+8:09,Bowling Green,Daeqwon Plowden,Missed Three Point Jumper,29,25
+8:09,Hampton,Devon Oakley,Defensive Rebound,29,25
+7:43,Hampton,Kalin Fisher,Turnover,29,25
+7:40,Bowling Green,Demajeo Wiggins,Steal,29,25
+7:28,Bowling Green,None,None,29,25
+7:20,Bowling Green,Caleb Fields,Three Point Jumper,29,28
+7:04,Bowling Green,Caleb Fields,Foul,29,28
+7:03,Hampton,Jermaine Marrow,Turnover,29,28
+7:01,Bowling Green,Michael Laster,Steal,29,28
+6:59,Bowling Green,Michael Laster,Missed Layup,29,28
+6:59,Hampton,Ricquall Smoot,Defensive Rebound,29,28
+6:45,Hampton,Jermaine Marrow,Three Point Jumper,32,28
+6:18,Hampton,Ricquall Smoot,Foul,32,28
+6:18,Bowling Green,Demajeo Wiggins,Free Throw,32,29
+6:18,Bowling Green,Demajeo Wiggins,Free Throw,32,30
+5:57,Hampton,Jermaine Marrow,Layup,34,30
+5:38,Bowling Green,Justin Turner,Missed Three Point Jumper,34,30
+5:38,Bowling Green,Demajeo Wiggins,Offensive Rebound,34,30
+5:31,Bowling Green,Demajeo Wiggins,Turnover,34,30
+5:30,Hampton,Lysander Bracey,Steal,34,30
+5:28,Hampton,Lysander Bracey,Missed Layup,34,30
+5:28,Bowling Green,Justin Turner,Block,34,30
+5:26,Hampton,Jermaine Marrow,Offensive Rebound,34,30
+5:24,Bowling Green,Dylan Frye,Foul,34,30
+5:24,Hampton,Jermaine Marrow,Missed Free Throw,34,30
+5:24,Hampton,None,Team Rebound,34,30
+5:24,Hampton,Jermaine Marrow,Free Throw,35,30
+5:02,Bowling Green,Justin Turner,Turnover,35,30
+5:02,Bowling Green,Justin Turner,Foul,35,30
+4:49,Hampton,Kalin Fisher,Turnover,35,30
+4:46,Bowling Green,Michael Laster,Steal,35,30
+4:44,Bowling Green,Michael Laster,Layup,35,32
+4:20,Hampton,Jermaine Marrow,Three Point Jumper,38,32
+4:02,Bowling Green,Caleb Fields,Missed Jumper,38,32
+4:02,Hampton,Benjamin Stanley,Defensive Rebound,38,32
+3:51,Hampton,Akim Mitchell,Jumper,40,32
+3:27,Bowling Green,Justin Turner,Jumper,40,34
+3:14,Hampton,None,None,40,34
+3:01,Hampton,Akim Mitchell,Missed Three Point Jumper,40,34
+3:01,Hampton,Austin Colbert,Offensive Rebound,40,34
+2:58,Bowling Green,Jeffrey Uju,Foul,40,34
+2:58,Hampton,Austin Colbert,Free Throw,41,34
+2:58,Hampton,Austin Colbert,Free Throw,42,34
+2:39,Bowling Green,Caleb Fields,Three Point Jumper,42,37
+2:21,Hampton,Benjamin Stanley,Layup,44,37
+1:58,Bowling Green,Justin Turner,Missed Jumper,44,37
+1:58,Hampton,Benjamin Stanley,Defensive Rebound,44,37
+1:53,Hampton,Jermaine Marrow,Missed Three Point Jumper,44,37
+1:53,Bowling Green,Demajeo Wiggins,Defensive Rebound,44,37
+1:44,Bowling Green,Justin Turner,Missed Jumper,44,37
+1:44,Hampton,Austin Colbert,Defensive Rebound,44,37
+1:27,Hampton,Benjamin Stanley,Three Point Jumper,47,37
+0:59,Hampton,Akim Mitchell,Foul,47,37
+0:59,Bowling Green,Michael Laster,Free Throw,47,38
+0:59,Bowling Green,Michael Laster,Missed Free Throw,47,38
+0:59,Hampton,Kalin Fisher,Defensive Rebound,47,38
+0:49,Hampton,Jermaine Marrow,Three Point Jumper,50,38
+0:35,Bowling Green,Demajeo Wiggins,Layup,50,40
+0:09,Hampton,Kalin Fisher,Turnover,50,40
+0:05,Bowling Green,Michael Laster,Layup,50,42
+0:03,Bowling Green,Michael Laster,Steal,50,40
+0:00,Bowling Green,None,None,50,42
+19:51,Bowling Green,Demajeo Wiggins,Missed Layup,50,42
+19:51,Hampton,Trevond Barnes,Block,50,42
+19:49,Hampton,Kalin Fisher,Defensive Rebound,50,42
+19:46,Hampton,Jermaine Marrow,Missed Three Point Jumper,50,42
+19:46,Hampton,Akim Mitchell,Offensive Rebound,50,42
+19:24,Hampton,Akim Mitchell,Three Point Jumper,53,42
+19:07,Bowling Green,Dylan Frye,Missed Layup,53,42
+19:07,Hampton,Benjamin Stanley,Defensive Rebound,53,42
+19:01,Hampton,Jermaine Marrow,Missed Jumper,53,42
+19:01,Bowling Green,Demajeo Wiggins,Defensive Rebound,53,42
+18:50,Bowling Green,Justin Turner,Layup,53,44
+18:24,Hampton,Kalin Fisher,Three Point Jumper,56,44
+17:52,Bowling Green,Dylan Frye,Missed Three Point Jumper,56,44
+17:46,Bowling Green,Demajeo Wiggins,Offensive Rebound,56,44
+17:42,Bowling Green,Demajeo Wiggins,Missed Layup,56,44
+17:42,Hampton,Trevond Barnes,Defensive Rebound,56,44
+17:40,Hampton,Kalin Fisher,Turnover,56,44
+17:27,Bowling Green,Justin Turner,Jumper,56,46
+17:17,Hampton,Trevond Barnes,Missed Three Point Jumper,56,46
+17:17,Bowling Green,Justin Turner,Defensive Rebound,56,46
+17:09,Bowling Green,Justin Turner,Jumper,56,48
+16:58,Hampton,Jermaine Marrow,Layup,58,48
+16:42,Bowling Green,Justin Turner,Three Point Jumper,58,51
+16:27,Hampton,Jermaine Marrow,Turnover,58,51
+16:27,Hampton,Jermaine Marrow,Foul,58,51
+16:16,Bowling Green,None,None,58,51
+16:00,Bowling Green,Dylan Frye,Missed Three Point Jumper,58,51
+16:00,Hampton,Hampton,Defensive Rebound,58,51
+15:39,Hampton,Benjamin Stanley,Missed Jumper,58,51
+15:39,Bowling Green,Antwon Lillard,Defensive Rebound,58,51
+15:21,Hampton,Trevond Barnes,Foul,58,51
+15:21,Bowling Green,None,None,58,51
+15:21,Bowling Green,Antwon Lillard,Missed Free Throw,58,51
+15:21,Bowling Green,None,Team Rebound,58,51
+15:21,Bowling Green,Antwon Lillard,Free Throw,58,52
+14:53,Hampton,Kalin Fisher,Missed Three Point Jumper,58,52
+14:53,Bowling Green,Antwon Lillard,Block,58,52
+14:51,Bowling Green,Michael Laster,Defensive Rebound,58,52
+14:37,Bowling Green,Michael Laster,Turnover,58,52
+14:35,Hampton,Jermaine Marrow,Steal,58,52
+14:28,Bowling Green,Jeffrey Uju,Foul,58,52
+14:19,Hampton,Austin Colbert,Turnover,58,52
+14:18,Bowling Green,Jeffrey Uju,Steal,58,52
+14:11,Bowling Green,Antwon Lillard,Missed Layup,58,52
+14:11,Hampton,Hampton,Defensive Rebound,58,52
+13:54,Hampton,Kalin Fisher,Turnover,58,52
+13:54,Hampton,Kalin Fisher,Foul,58,52
+13:43,Bowling Green,Justin Turner,Missed Layup,58,52
+13:43,Bowling Green,Jeffrey Uju,Offensive Rebound,58,52
+13:40,Bowling Green,Michael Laster,Turnover,58,52
+13:17,Hampton,Kalin Fisher,Missed Jumper,58,52
+13:17,Bowling Green,Demajeo Wiggins,Defensive Rebound,58,52
+13:04,Hampton,Austin Colbert,Foul,58,52
+13:02,Bowling Green,Demajeo Wiggins,Missed Jumper,58,52
+13:02,Hampton,Akim Mitchell,Defensive Rebound,58,52
+12:55,Hampton,Jermaine Marrow,Missed Three Point Jumper,58,52
+12:55,Hampton,Austin Colbert,Offensive Rebound,58,52
+12:52,Hampton,Akim Mitchell,Missed Three Point Jumper,58,52
+12:52,Hampton,Benjamin Stanley,Offensive Rebound,58,52
+12:48,Bowling Green,Jeffrey Uju,Foul,58,52
+12:44,Hampton,Lysander Bracey,Missed Three Point Jumper,58,52
+12:44,Hampton,Lysander Bracey,Offensive Rebound,58,52
+12:29,Hampton,Jermaine Marrow,Layup,60,52
+12:29,Bowling Green,Daeqwon Plowden,Foul,60,52
+12:29,Hampton,Jermaine Marrow,Free Throw,61,52
+12:05,Bowling Green,Michael Laster,Layup,61,54
+11:49,Hampton,Jermaine Marrow,Missed Layup,61,54
+11:49,Bowling Green,Demajeo Wiggins,Defensive Rebound,61,54
+11:32,Bowling Green,Caleb Fields,Missed Layup,61,54
+11:32,Hampton,Ricquall Smoot,Defensive Rebound,61,54
+11:30,Bowling Green,Demajeo Wiggins,Foul,61,54
+11:30,Bowling Green,None,None,61,54
+11:17,Hampton,Lysander Bracey,Missed Layup,61,54
+11:17,Bowling Green,Marlon Sierra,Block,61,54
+11:13,Hampton,Ricquall Smoot,Offensive Rebound,61,54
+11:09,Hampton,Lysander Bracey,Missed Three Point Jumper,61,54
+11:09,Bowling Green,Michael Laster,Block,61,54
+11:07,Bowling Green,Bowling Green,Defensive Rebound,61,54
+10:54,Bowling Green,Daeqwon Plowden,Missed Jumper,61,54
+10:54,Bowling Green,Antwon Lillard,Offensive Rebound,61,54
+10:50,Hampton,Akim Mitchell,Foul,61,54
+10:48,Bowling Green,Antwon Lillard,Three Point Jumper,61,57
+10:34,Bowling Green,Antwon Lillard,Foul,61,57
+10:18,Hampton,Benjamin Stanley,Turnover,61,57
+10:18,Hampton,Benjamin Stanley,Foul,61,57
+10:08,Bowling Green,Justin Turner,Missed Jumper,61,57
+10:08,Hampton,Lysander Bracey,Defensive Rebound,61,57
+10:02,Hampton,Lysander Bracey,Turnover,61,57
+10:01,Bowling Green,Antwon Lillard,Steal,61,57
+9:56,Hampton,Akim Mitchell,Foul,61,57
+9:56,Bowling Green,Antwon Lillard,Free Throw,61,58
+9:56,Bowling Green,Antwon Lillard,Free Throw,61,59
+9:40,Hampton,Jermaine Marrow,Jumper,63,59
+9:20,Bowling Green,Antwon Lillard,Missed Jumper,63,59
+9:20,Hampton,Jermaine Marrow,Defensive Rebound,63,59
+9:09,Bowling Green,Marlon Sierra,Foul,63,59
+9:09,Hampton,Akim Mitchell,Free Throw,64,59
+9:09,Hampton,Akim Mitchell,Free Throw,65,59
+8:56,Bowling Green,Justin Turner,Jumper,65,61
+8:37,Hampton,Kalin Fisher,Turnover,65,61
+8:34,Bowling Green,Antwon Lillard,Steal,65,61
+8:33,Hampton,Jermaine Marrow,Foul,65,61
+8:33,Hampton,Benjamin Stanley,Foul,65,61
+8:33,Bowling Green,Antwon Lillard,Missed Free Throw,65,61
+8:33,Bowling Green,None,Team Rebound,65,61
+8:33,Bowling Green,Antwon Lillard,Free Throw,65,62
+8:33,Bowling Green,Antwon Lillard,Missed Free Throw,65,62
+8:33,Hampton,Kalin Fisher,Defensive Rebound,65,62
+8:14,Hampton,Jermaine Marrow,Missed Layup,65,62
+8:14,Bowling Green,Marlon Sierra,Defensive Rebound,65,62
+8:06,Bowling Green,Justin Turner,Missed Jumper,65,62
+8:06,Hampton,Akim Mitchell,Defensive Rebound,65,62
+8:03,Bowling Green,Daeqwon Plowden,Foul,65,62
+8:03,Hampton,Akim Mitchell,Free Throw,66,62
+8:03,Hampton,Akim Mitchell,Free Throw,67,62
+7:52,Bowling Green,Dylan Frye,Turnover,67,62
+7:52,Hampton,Kalin Fisher,Steal,67,62
+7:48,Bowling Green,Daeqwon Plowden,Foul,67,62
+7:48,Bowling Green,None,None,67,62
+7:48,Hampton,Kalin Fisher,Free Throw,68,62
+7:48,Hampton,Kalin Fisher,Free Throw,69,62
+7:30,Bowling Green,Demajeo Wiggins,Layup,69,64
+7:30,Hampton,Trevond Barnes,Foul,69,64
+7:30,Bowling Green,Demajeo Wiggins,Missed Free Throw,69,64
+7:30,Hampton,Kalin Fisher,Defensive Rebound,69,64
+7:14,Hampton,Akim Mitchell,Missed Three Point Jumper,69,64
+7:14,Bowling Green,Bowling Green,Defensive Rebound,69,64
+7:00,Bowling Green,Michael Laster,Jumper,69,66
+6:42,Hampton,Jermaine Marrow,Missed Three Point Jumper,69,66
+6:42,Bowling Green,Michael Laster,Defensive Rebound,69,66
+6:33,Bowling Green,Michael Laster,Missed Jumper,69,66
+6:33,Hampton,Kalin Fisher,Defensive Rebound,69,66
+6:27,Hampton,Kalin Fisher,Missed Layup,69,66
+6:27,Bowling Green,Daeqwon Plowden,Block,69,66
+6:26,Hampton,Hampton,Offensive Rebound,69,66
+6:26,Hampton,Akim Mitchell,Three Point Jumper,72,66
+5:58,Bowling Green,Justin Turner,Missed Jumper,72,66
+5:58,Hampton,Jermaine Marrow,Defensive Rebound,72,66
+5:49,Hampton,Kalin Fisher,Turnover,72,66
+5:48,Bowling Green,Antwon Lillard,Steal,72,66
+5:48,Hampton,Trevond Barnes,Foul,72,66
+5:48,Bowling Green,Antwon Lillard,Free Throw,72,67
+5:48,Bowling Green,Antwon Lillard,Free Throw,72,68
+5:37,Hampton,Austin Colbert,Missed Three Point Jumper,72,68
+5:37,Bowling Green,Michael Laster,Defensive Rebound,72,68
+5:30,Bowling Green,Justin Turner,Layup,72,70
+5:18,Hampton,None,None,72,70
+5:07,Hampton,Kalin Fisher,Missed Three Point Jumper,72,70
+5:07,Bowling Green,Daeqwon Plowden,Defensive Rebound,72,70
+4:41,Bowling Green,Antwon Lillard,Turnover,72,70
+4:24,Hampton,Kalin Fisher,Missed Jumper,72,70
+4:24,Bowling Green,Demajeo Wiggins,Defensive Rebound,72,70
+4:12,Bowling Green,Justin Turner,Layup,72,72
+4:00,Hampton,Austin Colbert,Turnover,72,72
+4:00,Hampton,Austin Colbert,Foul,72,72
+4:00,Bowling Green,None,None,72,72
+3:43,Bowling Green,Justin Turner,Layup,72,74
+3:24,Hampton,Trey Carver,Missed Jumper,72,74
+3:24,Bowling Green,Justin Turner,Defensive Rebound,72,74
+3:11,Bowling Green,Justin Turner,Missed Layup,72,74
+3:11,Hampton,Austin Colbert,Block,72,74
+3:11,Bowling Green,Bowling Green,Offensive Rebound,72,74
+3:09,Bowling Green,None,None,72,74
+3:07,Bowling Green,Antwon Lillard,Turnover,72,74
+3:06,Hampton,Akim Mitchell,Steal,72,74
+3:02,Hampton,Jermaine Marrow,Missed Layup,72,74
+3:02,Bowling Green,Bowling Green,Defensive Rebound,72,74
+2:43,Bowling Green,Justin Turner,Missed Jumper,72,74
+2:43,Hampton,Jermaine Marrow,Defensive Rebound,72,74
+2:34,Hampton,Kalin Fisher,Missed Jumper,72,74
+2:34,Bowling Green,Antwon Lillard,Block,72,74
+2:32,Bowling Green,Demajeo Wiggins,Defensive Rebound,72,74
+2:13,Hampton,Austin Colbert,Foul,72,74
+2:13,Bowling Green,Demajeo Wiggins,Missed Free Throw,72,74
+2:13,Bowling Green,None,Team Rebound,72,74
+2:13,Bowling Green,Demajeo Wiggins,Free Throw,72,75
+1:56,Bowling Green,Demajeo Wiggins,Foul,72,75
+1:56,Hampton,Benjamin Stanley,Free Throw,73,75
+1:56,Hampton,Benjamin Stanley,Missed Free Throw,73,75
+1:56,Bowling Green,Antwon Lillard,Defensive Rebound,73,75
+1:31,Bowling Green,Daeqwon Plowden,Layup,73,77
+1:23,Bowling Green,Justin Turner,Foul,73,77
+1:23,Hampton,Jermaine Marrow,Free Throw,74,77
+1:23,Hampton,Jermaine Marrow,Missed Free Throw,74,77
+1:23,Bowling Green,Antwon Lillard,Defensive Rebound,74,77
+1:01,Bowling Green,Antwon Lillard,Jumper,74,79
+0:54,Hampton,Kalin Fisher,Three Point Jumper,77,79
+0:51,Hampton,None,None,77,79
+0:31,Bowling Green,Demajeo Wiggins,Turnover,77,79
+0:31,Bowling Green,Demajeo Wiggins,Foul,77,79
+0:22,Hampton,Kalin Fisher,Jumper,79,79
+0:07,Bowling Green,Justin Turner,Missed Jumper,79,79
+0:04,Bowling Green,Antwon Lillard,Offensive Rebound,79,79
+0:03,Bowling Green,Antwon Lillard,Missed Layup,79,79
+0:01,Bowling Green,Demajeo Wiggins,Offensive Rebound,79,79
+0:01,Bowling Green,None,None,79,81
+0:00,Bowling Green,None,None,79,81

@@ -1,0 +1,396 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:35,Texas Tech,Matt Mooney,Turnover,0,0
+19:14,Memphis,Mike Parks Jr.,Missed Layup,0,0
+19:14,Memphis,Mike Parks Jr.,Offensive Rebound,0,0
+19:00,Texas Tech,Norense Odiase,Foul,0,0
+18:50,Memphis,Raynere Thornton,Missed Jumper,0,0
+18:50,Memphis,None,Team Rebound,0,0
+18:48,Texas Tech,Davide Moretti,Foul,0,0
+18:48,Memphis,Tyler Harris,Missed Three Point Jumper,0,0
+18:48,Texas Tech,Tariq Owens,Defensive Rebound,0,0
+18:30,Memphis,Tyler Harris,Foul,0,0
+18:22,Memphis,Jeremiah Martin,Foul,0,0
+18:21,Texas Tech,Tariq Owens,Missed Layup,0,0
+18:21,Texas Tech,Tariq Owens,Offensive Rebound,0,0
+18:11,Texas Tech,Tariq Owens,Turnover,0,0
+18:11,Memphis,Jeremiah Martin,Steal,0,0
+18:05,Memphis,Alex Lomax,Missed Layup,0,0
+18:05,Memphis,Mike Parks Jr.,Offensive Rebound,0,0
+18:00,Memphis,None,None,0,2
+17:52,Texas Tech,Jarrett Culver,Missed Three Point Jumper,0,2
+17:52,Texas Tech,Tariq Owens,Offensive Rebound,0,2
+17:32,Texas Tech,Tariq Owens,Dunk,2,2
+17:15,Memphis,Raynere Thornton,Missed Jumper,2,2
+17:15,Texas Tech,Brandone Francis,Defensive Rebound,2,2
+17:05,Memphis,Mike Parks Jr.,Foul,2,2
+17:05,Texas Tech,Jarrett Culver,Free Throw,3,2
+17:03,Texas Tech,Jarrett Culver,Missed Free Throw,3,2
+17:03,Memphis,Raynere Thornton,Defensive Rebound,3,2
+16:50,Memphis,Tyler Harris,Missed Jumper,3,2
+16:50,Memphis,Tyler Harris,Offensive Rebound,3,2
+16:46,Memphis,Tyler Harris,Jumper,3,4
+16:33,Texas Tech,Kyler Edwards,Missed Three Point Jumper,3,4
+16:33,Memphis,Raynere Thornton,Defensive Rebound,3,4
+16:25,Memphis,Jeremiah Martin,Jumper,3,6
+16:02,Texas Tech,Deshawn Corprew,Missed Jumper,3,6
+16:02,Memphis,Isaiah Maurice,Block,3,6
+16:00,Memphis,Memphis,Defensive Rebound,3,6
+15:54,Memphis,None,None,3,6
+15:45,Memphis,Kyvon Davenport,Turnover,3,6
+15:44,Texas Tech,Norense Odiase,Steal,3,6
+15:34,Texas Tech,Davide Moretti,Missed Jumper,3,6
+15:34,Memphis,Jeremiah Martin,Defensive Rebound,3,6
+15:12,Memphis,Tyler Harris,Jumper,3,8
+14:44,Texas Tech,Matt Mooney,Missed Jumper,3,8
+14:44,Texas Tech,Texas Tech,Offensive Rebound,3,8
+14:34,Texas Tech,Jarrett Culver,Missed Jumper,3,8
+14:34,Memphis,Isaiah Maurice,Defensive Rebound,3,8
+14:11,Memphis,Kareem Brewton Jr.,Layup,3,10
+13:40,Texas Tech,Jarrett Culver,Missed Three Point Jumper,3,10
+13:40,Texas Tech,Tariq Owens,Offensive Rebound,3,10
+13:37,Texas Tech,Tariq Owens,Turnover,3,10
+13:36,Memphis,Tyler Harris,Steal,3,10
+13:34,Memphis,Jeremiah Martin,Missed Three Point Jumper,3,10
+13:34,Memphis,Isaiah Maurice,Offensive Rebound,3,10
+13:19,Memphis,Isaiah Maurice,Missed Three Point Jumper,3,10
+13:19,Texas Tech,Tariq Owens,Defensive Rebound,3,10
+13:08,Texas Tech,Kyler Edwards,Three Point Jumper,6,10
+12:49,Texas Tech,Tariq Owens,Foul,6,10
+12:45,Memphis,Jeremiah Martin,Free Throw,6,11
+12:45,Memphis,Jeremiah Martin,Free Throw,6,12
+12:30,Memphis,Kareem Brewton Jr.,Foul,6,12
+12:28,Texas Tech,Norense Odiase,Layup,8,12
+12:09,Memphis,Kyvon Davenport,Layup,8,14
+12:09,Texas Tech,Norense Odiase,Foul,8,14
+12:09,Memphis,Kyvon Davenport,Free Throw,8,15
+11:55,Texas Tech,Davide Moretti,Layup,10,15
+11:43,Memphis,Kareem Brewton Jr.,Turnover,10,15
+11:42,Memphis,None,None,10,15
+11:35,Texas Tech,Matt Mooney,Turnover,10,15
+11:18,Texas Tech,Norense Odiase,Foul,10,15
+11:16,Memphis,Kareem Brewton Jr.,Turnover,10,15
+10:58,Memphis,Alex Lomax,Foul,10,15
+10:58,Texas Tech,Matt Mooney,Free Throw,11,15
+10:58,Texas Tech,Matt Mooney,Missed Free Throw,11,15
+10:58,Memphis,Kyvon Davenport,Defensive Rebound,11,15
+10:49,Memphis,Antwann Jones,Turnover,11,15
+10:27,Texas Tech,Malik Ondigo,Missed Jumper,11,15
+10:27,Memphis,None,Team Rebound,11,15
+10:27,Texas Tech,Kyler Edwards,Foul,11,15
+10:19,Memphis,Jeremiah Martin,Missed Three Point Jumper,11,15
+10:19,Memphis,Alex Lomax,Offensive Rebound,11,15
+10:02,Memphis,Mike Parks Jr.,Missed Jumper,11,15
+10:02,Texas Tech,Malik Ondigo,Defensive Rebound,11,15
+9:57,Texas Tech,Malik Ondigo,Turnover,11,15
+9:56,Memphis,Alex Lomax,Steal,11,15
+9:53,Memphis,Alex Lomax,Missed Layup,11,15
+9:53,Texas Tech,Tariq Owens,Defensive Rebound,11,15
+9:39,Texas Tech,Tariq Owens,Layup,13,15
+9:12,Memphis,Tyler Harris,Three Point Jumper,13,18
+8:45,Texas Tech,Jarrett Culver,Foul,13,18
+8:45,Texas Tech,Jarrett Culver,Turnover,13,18
+8:33,Memphis,Jeremiah Martin,Turnover,13,18
+8:14,Texas Tech,Davide Moretti,Turnover,13,18
+8:12,Memphis,Alex Lomax,Steal,13,18
+8:10,Memphis,Jeremiah Martin,Missed Layup,13,18
+8:10,Texas Tech,Jarrett Culver,Block,13,18
+8:10,Memphis,Memphis,Offensive Rebound,13,18
+8:07,Memphis,Tyler Harris,Turnover,13,18
+7:54,Texas Tech,Tariq Owens,Dunk,15,18
+7:38,Memphis,Alex Lomax,Missed Three Point Jumper,15,18
+7:38,Texas Tech,Matt Mooney,Defensive Rebound,15,18
+7:28,Texas Tech,Matt Mooney,Missed Jumper,15,18
+7:28,Texas Tech,Deshawn Corprew,Offensive Rebound,15,18
+7:24,Texas Tech,None,None,17,18
+7:08,Memphis,Raynere Thornton,Missed Jumper,17,18
+7:08,Memphis,Mike Parks Jr.,Offensive Rebound,17,18
+7:05,Memphis,Mike Parks Jr.,Layup,17,20
+6:48,Texas Tech,Kyler Edwards,Missed Jumper,17,20
+6:48,Memphis,Alex Lomax,Defensive Rebound,17,20
+6:41,Texas Tech,Kyler Edwards,Foul,17,20
+6:41,Memphis,None,None,17,20
+6:41,Memphis,Alex Lomax,Free Throw,17,21
+6:41,Memphis,Alex Lomax,Free Throw,17,22
+6:26,Texas Tech,Jarrett Culver,Turnover,17,22
+6:25,Memphis,Alex Lomax,Steal,17,22
+6:15,Memphis,Kyvon Davenport,Missed Layup,17,22
+6:15,Texas Tech,Deshawn Corprew,Block,17,22
+6:13,Texas Tech,Davide Moretti,Defensive Rebound,17,22
+6:04,Texas Tech,Jarrett Culver,Layup,19,22
+5:53,Memphis,Tyler Harris,Missed Jumper,19,22
+5:53,Texas Tech,Davide Moretti,Defensive Rebound,19,22
+5:35,Texas Tech,Davide Moretti,Missed Three Point Jumper,19,22
+5:35,Memphis,Memphis,Defensive Rebound,19,22
+5:14,Memphis,Kyvon Davenport,Foul,19,22
+5:14,Memphis,Kyvon Davenport,Turnover,19,22
+4:58,Texas Tech,Jarrett Culver,Missed Layup,19,22
+4:58,Texas Tech,Jarrett Culver,Offensive Rebound,19,22
+4:46,Memphis,Kyvon Davenport,Foul,19,22
+4:46,Texas Tech,Deshawn Corprew,Missed Free Throw,19,22
+4:46,Texas Tech,None,Team Rebound,19,22
+4:46,Texas Tech,Deshawn Corprew,Free Throw,20,22
+4:31,Memphis,Tyler Harris,Three Point Jumper,20,25
+4:05,Memphis,Raynere Thornton,Foul,20,25
+4:05,Texas Tech,Kyler Edwards,Turnover,20,25
+4:00,Memphis,Jeremiah Martin,Missed Layup,20,25
+4:00,Texas Tech,Tariq Owens,Block,20,25
+3:59,Memphis,Antwann Jones,Offensive Rebound,20,25
+3:57,Memphis,Tyler Harris,Three Point Jumper,20,28
+3:39,Texas Tech,Davide Moretti,Missed Three Point Jumper,20,28
+3:39,Memphis,Antwann Jones,Defensive Rebound,20,28
+3:22,Memphis,Jeremiah Martin,Missed Three Point Jumper,20,28
+3:22,Texas Tech,None,Team Rebound,20,28
+3:14,Memphis,Isaiah Maurice,Foul,20,28
+3:14,Memphis,None,None,20,28
+3:14,Texas Tech,Malik Ondigo,Missed Free Throw,20,28
+3:14,Memphis,Isaiah Maurice,Defensive Rebound,20,28
+3:13,Texas Tech,Tariq Owens,Foul,20,28
+3:13,Memphis,Isaiah Maurice,Free Throw,20,29
+3:13,Memphis,Isaiah Maurice,Free Throw,20,30
+3:05,Texas Tech,Brandone Francis,Layup,22,30
+2:38,Memphis,Isaiah Maurice,Missed Jumper,22,30
+2:38,Texas Tech,Davide Moretti,Defensive Rebound,22,30
+2:26,Texas Tech,Davide Moretti,Missed Three Point Jumper,22,30
+2:26,Memphis,Memphis,Defensive Rebound,22,30
+2:11,Memphis,Antwann Jones,Missed Jumper,22,30
+2:11,Memphis,Memphis,Offensive Rebound,22,30
+2:02,Texas Tech,Tariq Owens,Foul,22,30
+2:02,Memphis,Isaiah Maurice,Free Throw,22,31
+2:02,Memphis,Isaiah Maurice,Free Throw,22,32
+1:51,Memphis,Isaiah Maurice,Foul,22,32
+1:51,Texas Tech,Deshawn Corprew,Missed Free Throw,22,32
+1:51,Texas Tech,None,Team Rebound,22,32
+1:51,Texas Tech,Deshawn Corprew,Free Throw,23,32
+1:41,Memphis,Isaiah Maurice,Layup,23,34
+1:34,Texas Tech,Jarrett Culver,Turnover,23,34
+1:26,Memphis,Tyler Harris,Missed Three Point Jumper,23,34
+1:26,Texas Tech,Texas Tech,Defensive Rebound,23,34
+1:22,Memphis,Isaiah Maurice,Foul,23,34
+1:22,Texas Tech,Brandone Francis,Free Throw,24,34
+1:22,Texas Tech,Brandone Francis,Free Throw,25,34
+0:55,Memphis,Kareem Brewton Jr.,Jumper,25,36
+0:35,Texas Tech,None,None,25,36
+0:33,Texas Tech,Jarrett Culver,Three Point Jumper,28,36
+0:25,Memphis,None,None,28,36
+0:06,Memphis,Kareem Brewton Jr.,Missed Jumper,28,36
+0:06,Memphis,Raynere Thornton,Offensive Rebound,28,36
+0:05,Memphis,Raynere Thornton,Missed Layup,28,36
+0:05,Memphis,Memphis,Offensive Rebound,28,36
+0:05,Texas Tech,Davide Moretti,Foul,28,36
+0:05,Memphis,Raynere Thornton,Missed Free Throw,28,36
+0:05,Memphis,None,Team Rebound,28,36
+0:05,Memphis,Raynere Thornton,Free Throw,28,37
+0:00,Memphis,None,None,28,37
+19:47,Texas Tech,Brandone Francis,Missed Jumper,28,37
+19:47,Memphis,Alex Lomax,Defensive Rebound,28,37
+19:33,Memphis,Alex Lomax,Foul,28,37
+19:33,Memphis,Alex Lomax,Turnover,28,37
+19:19,Memphis,Mike Parks Jr.,Foul,28,37
+19:16,Memphis,Jeremiah Martin,Foul,28,37
+19:16,Texas Tech,Jarrett Culver,Missed Free Throw,28,37
+19:16,Texas Tech,None,Team Rebound,28,37
+19:16,Texas Tech,Jarrett Culver,Free Throw,29,37
+18:55,Texas Tech,Brandone Francis,Foul,29,37
+18:55,Memphis,Alex Lomax,Missed Free Throw,29,37
+18:55,Memphis,None,Team Rebound,29,37
+18:55,Memphis,Alex Lomax,Free Throw,29,38
+18:42,Texas Tech,Jarrett Culver,Missed Jumper,29,38
+18:42,Memphis,Raynere Thornton,Block,29,38
+18:40,Texas Tech,Jarrett Culver,Offensive Rebound,29,38
+18:38,Texas Tech,Jarrett Culver,Missed Jumper,29,38
+18:38,Memphis,Jeremiah Martin,Defensive Rebound,29,38
+18:34,Memphis,Tyler Harris,Turnover,29,38
+18:16,Texas Tech,Brandone Francis,Turnover,29,38
+18:08,Memphis,Tyler Harris,Turnover,29,38
+18:08,Texas Tech,Matt Mooney,Steal,29,38
+18:05,Texas Tech,Matt Mooney,Turnover,29,38
+18:05,Memphis,Tyler Harris,Steal,29,38
+17:59,Memphis,Jeremiah Martin,Layup,29,40
+17:41,Texas Tech,Brandone Francis,Missed Three Point Jumper,29,40
+17:41,Texas Tech,Tariq Owens,Offensive Rebound,29,40
+17:35,Texas Tech,Jarrett Culver,Layup,31,40
+17:19,Memphis,Jeremiah Martin,Turnover,31,40
+17:17,Texas Tech,Matt Mooney,Steal,31,40
+17:13,Texas Tech,Matt Mooney,Turnover,31,40
+17:13,Memphis,Alex Lomax,Steal,31,40
+16:53,Memphis,Mike Parks Jr.,Dunk,31,42
+16:33,Texas Tech,Matt Mooney,Missed Three Point Jumper,31,42
+16:33,Memphis,Jeremiah Martin,Defensive Rebound,31,42
+16:20,Memphis,Raynere Thornton,Layup,31,44
+16:08,Texas Tech,Jarrett Culver,Jumper,33,44
+15:38,Memphis,Alex Lomax,Missed Jumper,33,44
+15:38,Texas Tech,Tariq Owens,Defensive Rebound,33,44
+15:30,Texas Tech,Jarrett Culver,Turnover,33,44
+15:29,Memphis,Jeremiah Martin,Steal,33,44
+15:22,Memphis,Tyler Harris,Missed Layup,33,44
+15:22,Texas Tech,Tariq Owens,Block,33,44
+15:21,Memphis,Alex Lomax,Offensive Rebound,33,44
+15:18,Texas Tech,Tariq Owens,Foul,33,44
+15:18,Memphis,None,None,33,44
+15:18,Memphis,Kyvon Davenport,Layup,33,46
+15:18,Texas Tech,Davide Moretti,Foul,33,46
+15:18,Memphis,Kyvon Davenport,Missed Free Throw,33,46
+15:18,Texas Tech,Jarrett Culver,Defensive Rebound,33,46
+15:04,Texas Tech,Brandone Francis,Three Point Jumper,36,46
+14:37,Memphis,Mike Parks Jr.,Turnover,36,46
+14:27,Memphis,Isaiah Maurice,Foul,36,46
+14:27,Texas Tech,Kyler Edwards,Turnover,36,46
+14:25,Memphis,Kyvon Davenport,Steal,36,46
+14:24,Texas Tech,Brandone Francis,Foul,36,46
+14:24,Memphis,Kyvon Davenport,Missed Free Throw,36,46
+14:24,Memphis,None,Team Rebound,36,46
+14:24,Memphis,Kyvon Davenport,Missed Free Throw,36,46
+14:24,Texas Tech,Deshawn Corprew,Defensive Rebound,36,46
+14:06,Texas Tech,Brandone Francis,Missed Layup,36,46
+14:06,Memphis,Kyvon Davenport,Defensive Rebound,36,46
+13:54,Memphis,Kareem Brewton Jr.,Turnover,36,46
+13:52,Texas Tech,Jarrett Culver,Steal,36,46
+13:44,Texas Tech,Jarrett Culver,Missed Layup,36,46
+13:44,Texas Tech,Jarrett Culver,Offensive Rebound,36,46
+13:42,Texas Tech,Jarrett Culver,Missed Layup,36,46
+13:42,Texas Tech,Deshawn Corprew,Offensive Rebound,36,46
+13:37,Memphis,Kareem Brewton Jr.,Foul,36,46
+13:28,Texas Tech,Matt Mooney,Layup,38,46
+12:57,Texas Tech,Brandone Francis,Foul,38,46
+12:57,Memphis,Kareem Brewton Jr.,Free Throw,38,47
+12:57,Memphis,Kareem Brewton Jr.,Missed Free Throw,38,47
+12:57,Texas Tech,Matt Mooney,Defensive Rebound,38,47
+12:48,Texas Tech,Matt Mooney,Jumper,40,47
+12:27,Memphis,Kareem Brewton Jr.,Missed Jumper,40,47
+12:27,Texas Tech,Deshawn Corprew,Defensive Rebound,40,47
+12:14,Texas Tech,Kyler Edwards,Missed Jumper,40,47
+12:14,Memphis,Alex Lomax,Defensive Rebound,40,47
+11:46,Memphis,Kareem Brewton Jr.,Layup,40,49
+11:46,Texas Tech,Matt Mooney,Foul,40,49
+11:46,Memphis,None,None,40,49
+11:46,Memphis,Kareem Brewton Jr.,Free Throw,40,50
+11:31,Memphis,Antwann Jones,Foul,40,50
+11:25,Texas Tech,Davide Moretti,Jumper,42,50
+11:02,Texas Tech,Jarrett Culver,Foul,42,50
+11:02,Memphis,Kyvon Davenport,Free Throw,42,51
+11:02,Memphis,Kyvon Davenport,Free Throw,42,52
+10:48,Texas Tech,Deshawn Corprew,Layup,44,52
+10:24,Memphis,Kyvon Davenport,Layup,44,54
+10:04,Texas Tech,Davide Moretti,Turnover,44,54
+10:04,Memphis,Tyler Harris,Steal,44,54
+9:55,Memphis,Alex Lomax,Jumper,44,56
+9:31,Texas Tech,Matt Mooney,Missed Jumper,44,56
+9:31,Texas Tech,Jarrett Culver,Offensive Rebound,44,56
+9:29,Memphis,Alex Lomax,Foul,44,56
+9:29,Texas Tech,Jarrett Culver,Missed Free Throw,44,56
+9:29,Texas Tech,None,Team Rebound,44,56
+9:29,Texas Tech,Jarrett Culver,Free Throw,45,56
+9:09,Texas Tech,Davide Moretti,Foul,45,56
+9:09,Memphis,Jeremiah Martin,Missed Free Throw,45,56
+9:09,Memphis,None,Team Rebound,45,56
+9:09,Memphis,Jeremiah Martin,Free Throw,45,57
+9:03,Texas Tech,Deshawn Corprew,Jumper,47,57
+8:46,Memphis,Alex Lomax,Missed Layup,47,57
+8:46,Texas Tech,Tariq Owens,Block,47,57
+8:44,Texas Tech,Deshawn Corprew,Defensive Rebound,47,57
+8:33,Memphis,Alex Lomax,Foul,47,57
+8:33,Texas Tech,Deshawn Corprew,Free Throw,48,57
+8:33,Texas Tech,Deshawn Corprew,Free Throw,49,57
+8:20,Memphis,Kyvon Davenport,Missed Layup,49,57
+8:20,Texas Tech,Tariq Owens,Block,49,57
+8:18,Texas Tech,Brandone Francis,Defensive Rebound,49,57
+8:11,Texas Tech,Deshawn Corprew,Layup,51,57
+8:07,Memphis,None,None,51,57
+8:07,Memphis,None,None,51,57
+7:55,Memphis,Tyler Harris,Missed Three Point Jumper,51,57
+7:55,Memphis,Kareem Brewton Jr.,Offensive Rebound,51,57
+7:28,Texas Tech,Deshawn Corprew,Foul,51,57
+7:28,Memphis,Kyvon Davenport,Missed Free Throw,51,57
+7:28,Memphis,None,Team Rebound,51,57
+7:28,Memphis,Kyvon Davenport,Missed Free Throw,51,57
+7:28,Memphis,Kareem Brewton Jr.,Offensive Rebound,51,57
+7:16,Memphis,Jeremiah Martin,Missed Layup,51,57
+7:16,Memphis,Kyvon Davenport,Offensive Rebound,51,57
+7:14,Memphis,Kyvon Davenport,Layup,51,59
+6:59,Texas Tech,Jarrett Culver,Turnover,51,59
+6:45,Memphis,Kareem Brewton Jr.,Missed Layup,51,59
+6:45,Memphis,Kareem Brewton Jr.,Offensive Rebound,51,59
+6:41,Memphis,None,None,51,59
+6:41,Texas Tech,Texas Tech,Defensive Rebound,51,59
+6:30,Texas Tech,Matt Mooney,Missed Layup,51,59
+6:30,Memphis,Alex Lomax,Defensive Rebound,51,59
+6:09,Memphis,Kyvon Davenport,Turnover,51,59
+6:08,Texas Tech,Jarrett Culver,Steal,51,59
+6:01,Texas Tech,Jarrett Culver,Dunk,53,59
+5:46,Memphis,Tyler Harris,Missed Three Point Jumper,53,59
+5:46,Texas Tech,Kyler Edwards,Defensive Rebound,53,59
+5:41,Memphis,Kareem Brewton Jr.,Foul,53,59
+5:41,Texas Tech,Kyler Edwards,Free Throw,54,59
+5:41,Texas Tech,Kyler Edwards,Free Throw,55,59
+5:24,Memphis,Jeremiah Martin,Turnover,55,59
+5:22,Texas Tech,Tariq Owens,Steal,55,59
+5:07,Texas Tech,Jarrett Culver,Missed Three Point Jumper,55,59
+5:07,Memphis,Alex Lomax,Defensive Rebound,55,59
+5:03,Memphis,Alex Lomax,Turnover,55,59
+5:03,Texas Tech,Kyler Edwards,Steal,55,59
+5:01,Texas Tech,Jarrett Culver,Layup,57,59
+4:45,Memphis,Alex Lomax,Missed Layup,57,59
+4:45,Texas Tech,Brandone Francis,Defensive Rebound,57,59
+4:36,Texas Tech,Tariq Owens,Layup,59,59
+4:35,Memphis,Raynere Thornton,Foul,59,59
+4:35,Texas Tech,Tariq Owens,Free Throw,60,59
+4:29,Memphis,None,None,60,59
+4:29,Memphis,None,None,60,59
+4:21,Memphis,Jeremiah Martin,Missed Jumper,60,59
+4:21,Texas Tech,Tariq Owens,Block,60,59
+4:20,Texas Tech,Tariq Owens,Defensive Rebound,60,59
+4:18,Memphis,Raynere Thornton,Foul,60,59
+4:18,Texas Tech,Tariq Owens,Free Throw,61,59
+4:18,Texas Tech,Tariq Owens,Free Throw,62,59
+4:00,Texas Tech,Davide Moretti,Foul,62,59
+4:00,Memphis,Tyler Harris,Free Throw,62,60
+4:00,Memphis,Tyler Harris,Free Throw,62,61
+3:49,Memphis,Raynere Thornton,Foul,62,61
+3:49,Texas Tech,Jarrett Culver,Free Throw,63,61
+3:49,Texas Tech,Jarrett Culver,Free Throw,64,61
+3:37,Memphis,Jeremiah Martin,Missed Layup,64,61
+3:37,Texas Tech,Tariq Owens,Block,64,61
+3:35,Memphis,Memphis,Offensive Rebound,64,61
+3:29,Memphis,Kyvon Davenport,Jumper,64,63
+3:29,Texas Tech,Matt Mooney,Foul,64,63
+3:29,Memphis,Kyvon Davenport,Missed Free Throw,64,63
+3:29,Texas Tech,Tariq Owens,Defensive Rebound,64,63
+3:11,Texas Tech,Brandone Francis,Three Point Jumper,67,63
+2:46,Memphis,Kyvon Davenport,Missed Layup,67,63
+2:46,Texas Tech,Tariq Owens,Block,67,63
+2:46,Texas Tech,Tariq Owens,Defensive Rebound,67,63
+2:24,Texas Tech,Tariq Owens,Dunk,69,63
+2:11,Memphis,Jeremiah Martin,Missed Three Point Jumper,69,63
+2:11,Memphis,Raynere Thornton,Offensive Rebound,69,63
+2:07,Memphis,Raynere Thornton,Missed Layup,69,63
+2:07,Memphis,Kyvon Davenport,Offensive Rebound,69,63
+2:03,Memphis,Kyvon Davenport,Missed Layup,69,63
+2:03,Texas Tech,Jarrett Culver,Defensive Rebound,69,63
+2:00,Texas Tech,Kyler Edwards,Layup,71,63
+1:58,Memphis,None,None,71,63
+1:31,Memphis,Jeremiah Martin,Missed Three Point Jumper,71,63
+1:31,Texas Tech,Jarrett Culver,Block,71,63
+1:31,Memphis,Memphis,Offensive Rebound,71,63
+1:31,Memphis,Memphis ,Turnover,71,63
+1:29,Memphis,Tyler Harris,Foul,71,63
+1:29,Texas Tech,Matt Mooney,Missed Free Throw,71,63
+1:29,Texas Tech,None,Team Rebound,71,63
+1:29,Texas Tech,Matt Mooney,Free Throw,72,63
+1:18,Memphis,Kyvon Davenport,Missed Layup,72,63
+1:18,Texas Tech,Tariq Owens,Block,72,63
+1:15,Memphis,Alex Lomax,Offensive Rebound,72,63
+1:13,Memphis,Alex Lomax,Layup,72,65
+0:55,Memphis,Jeremiah Martin,Foul,72,65
+0:55,Texas Tech,Matt Mooney,Free Throw,73,65
+0:55,Texas Tech,Matt Mooney,Free Throw,74,65
+0:50,Memphis,Tyler Harris,Jumper,74,67
+0:45,Memphis,Tyler Harris,Foul,74,67
+0:45,Texas Tech,Jarrett Culver,Free Throw,75,67
+0:45,Texas Tech,Jarrett Culver,Free Throw,76,67
+0:37,Memphis,Tyler Harris,Missed Three Point Jumper,76,67
+0:37,Texas Tech,Matt Mooney,Defensive Rebound,76,67
+0:31,Texas Tech,Kyler Edwards,Layup,78,67
+0:30,Texas Tech,None,None,78,67
+0:23,Memphis,Alex Lomax,Turnover,78,67
+0:22,Texas Tech,Matt Mooney,Steal,78,67
+0:00,Memphis,None,None,78,67

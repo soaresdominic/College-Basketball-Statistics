@@ -1,0 +1,332 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:39,Lafayette,Alex Petrie,Jumper,0,2
+19:15,Princeton,Jose Morales,Missed Three Point Jumper,0,2
+19:15,Lafayette,Isaac Suffren,Defensive Rebound,0,2
+19:01,Lafayette,Alex Petrie,Missed Three Point Jumper,0,2
+19:01,Princeton,Devin Cannady,Defensive Rebound,0,2
+18:54,Princeton,Devin Cannady,Layup,2,2
+18:29,Lafayette,Paulius Zalys,Jumper,2,4
+18:12,Princeton,Devin Cannady,Missed Jumper,2,4
+18:12,Lafayette,Isaac Suffren,Defensive Rebound,2,4
+18:01,Lafayette,Alex Petrie,Missed Jumper,2,4
+18:01,Princeton,Jose Morales,Defensive Rebound,2,4
+17:52,Princeton,Jaelin Llewellyn,Missed Three Point Jumper,2,4
+17:52,Princeton,Richmond Aririguzoh,Offensive Rebound,2,4
+17:34,Lafayette,Justin Jaworski,Foul,2,4
+17:34,Princeton,Devin Cannady,Free Throw,3,4
+17:34,Princeton,Devin Cannady,Free Throw,4,4
+17:34,Princeton,Devin Cannady,Free Throw,5,4
+17:25,Princeton,Jose Morales,Foul,5,4
+17:22,Lafayette,Justin Jaworski,Free Throw,5,5
+17:22,Lafayette,Justin Jaworski,Free Throw,5,6
+17:22,Princeton,Richmond Aririguzoh,Jumper,7,6
+16:55,Lafayette,Myles Cherry,Missed Three Point Jumper,7,6
+16:55,Princeton,Jose Morales,Defensive Rebound,7,6
+16:45,Princeton,Richmond Aririguzoh,Dunk,9,6
+16:10,Lafayette,Alex Petrie,Jumper,9,8
+15:55,Princeton,Jose Morales,Missed Three Point Jumper,9,8
+15:55,Lafayette,Myles Cherry,Defensive Rebound,9,8
+15:34,Lafayette,Isaac Suffren,Missed Three Point Jumper,9,8
+15:34,Princeton,Myles Stephens,Defensive Rebound,9,8
+15:26,Lafayette,Paulius Zalys,Foul,9,8
+15:26,Lafayette,None,None,9,8
+15:26,Princeton,Myles Stephens,Missed Free Throw,9,8
+15:26,Princeton,None,Team Rebound,9,8
+15:26,Princeton,Myles Stephens,Free Throw,10,8
+15:02,Lafayette,Justin Jaworski,Layup,10,10
+14:51,Princeton,Devin Cannady,Jumper,12,10
+14:29,Lafayette,Alex Petrie,Three Point Jumper,12,13
+14:13,Princeton,Myles Stephens,Missed Three Point Jumper,12,13
+14:13,Lafayette,E.J. Stephens,Defensive Rebound,12,13
+14:07,Lafayette,E.J. Stephens,Missed Three Point Jumper,12,13
+14:07,Princeton,Devin Cannady,Defensive Rebound,12,13
+13:59,Princeton,Devin Cannady,Jumper,14,13
+13:45,Lafayette,Alex Petrie,Missed Jumper,14,13
+13:45,Princeton,Myles Stephens,Defensive Rebound,14,13
+13:33,Princeton,Jaelin Llewellyn,Turnover,14,13
+13:33,Lafayette,Justin Jaworski,Steal,14,13
+13:07,Lafayette,Alex Petrie,Missed Layup,14,13
+13:07,Princeton,Jerome Desrosiers,Defensive Rebound,14,13
+12:52,Princeton,Jerome Desrosiers,Missed Three Point Jumper,14,13
+12:52,Lafayette,Alex Petrie,Defensive Rebound,14,13
+12:29,Lafayette,Dylan Hastings,Missed Three Point Jumper,14,13
+12:29,Princeton,Devin Cannady,Defensive Rebound,14,13
+12:16,Princeton,Devin Cannady,Missed Three Point Jumper,14,13
+12:16,Princeton,Jerome Desrosiers,Offensive Rebound,14,13
+11:58,Princeton,Jerome Desrosiers,Turnover,14,13
+11:56,Lafayette,E.J. Stephens,Steal,14,13
+11:48,Lafayette,E.J. Stephens,Missed Three Point Jumper,14,13
+11:48,Princeton,Sebastian Much,Defensive Rebound,14,13
+11:46,Lafayette,Dylan Hastings,Foul,14,13
+11:46,Lafayette,None,None,14,13
+11:33,Princeton,Sebastian Much,Three Point Jumper,17,13
+11:16,Lafayette,Kyle Stout,Three Point Jumper,17,16
+11:04,Princeton,Jerome Desrosiers,Three Point Jumper,20,16
+10:52,Lafayette,Dylan Hastings,Missed Three Point Jumper,20,16
+10:52,Princeton,Jerome Desrosiers,Defensive Rebound,20,16
+10:43,Princeton,Devin Cannady,Missed Jumper,20,16
+10:43,Lafayette,Dylan Hastings,Defensive Rebound,20,16
+10:35,Lafayette,Kyle Stout,Three Point Jumper,20,19
+10:14,Princeton,Jose Morales,Layup,22,19
+9:41,Lafayette,Lukas Jarrett,Missed Jumper,22,19
+9:41,Princeton,Devin Cannady,Defensive Rebound,22,19
+9:32,Lafayette,Lukas Jarrett,Foul,22,19
+9:16,Princeton,Jose Morales,Missed Three Point Jumper,22,19
+9:16,Lafayette,E.J. Stephens,Defensive Rebound,22,19
+9:01,Lafayette,Myles Cherry,Missed Three Point Jumper,22,19
+9:01,Princeton,Devin Cannady,Defensive Rebound,22,19
+8:52,Princeton,Jaelin Llewellyn,Missed Jumper,22,19
+8:52,Lafayette,Myles Cherry,Defensive Rebound,22,19
+8:38,Lafayette,Kyle Stout,Missed Three Point Jumper,22,19
+8:38,Lafayette,Myles Cherry,Offensive Rebound,22,19
+8:36,Lafayette,Myles Cherry,Layup,22,21
+8:21,Princeton,Devin Cannady,Missed Jumper,22,21
+8:21,Lafayette,Paulius Zalys,Defensive Rebound,22,21
+8:10,Lafayette,E.J. Stephens,Jumper,22,23
+7:58,Princeton,Sebastian Much,Missed Three Point Jumper,22,23
+7:58,Lafayette,E.J. Stephens,Defensive Rebound,22,23
+7:40,Lafayette,None,None,22,23
+7:33,Lafayette,Kyle Stout,Missed Jumper,22,23
+7:33,Princeton,Jaelin Llewellyn,Defensive Rebound,22,23
+7:33,Lafayette,Kyle Stout,Foul,22,23
+7:33,Lafayette,None,None,22,23
+7:24,Princeton,Jaelin Llewellyn,Missed Layup,22,23
+7:24,Lafayette,Sean Good,Defensive Rebound,22,23
+7:19,Lafayette,Isaac Suffren,Turnover,22,23
+7:17,Princeton,Myles Stephens,Steal,22,23
+7:08,Princeton,Jose Morales,Layup,24,23
+6:44,Princeton,Ryan Schwieger,Foul,24,23
+6:44,Lafayette,Isaac Suffren,Missed Free Throw,24,23
+6:44,Lafayette,None,Team Rebound,24,23
+6:44,Lafayette,Isaac Suffren,Missed Free Throw,24,23
+6:44,Princeton,Myles Stephens,Defensive Rebound,24,23
+6:32,Princeton,Jaelin Llewellyn,Layup,26,23
+6:15,Lafayette,Alex Petrie,Missed Jumper,26,23
+6:15,Princeton,Jaelin Llewellyn,Defensive Rebound,26,23
+6:03,Princeton,Myles Stephens,Layup,28,23
+5:55,Lafayette,None,None,28,23
+5:46,Lafayette,Justin Jaworski,Three Point Jumper,28,26
+5:22,Princeton,Richmond Aririguzoh,Missed Layup,28,26
+5:22,Lafayette,Paulius Zalys,Defensive Rebound,28,26
+5:04,Lafayette,Justin Jaworski,Three Point Jumper,28,29
+4:38,Princeton,Ryan Schwieger,Layup,30,29
+4:27,Princeton,Richmond Aririguzoh,Foul,30,29
+4:27,Lafayette,Myles Cherry,Missed Free Throw,30,29
+4:27,Lafayette,None,Team Rebound,30,29
+4:27,Lafayette,Myles Cherry,Free Throw,30,30
+4:18,Princeton,Jaelin Llewellyn,Layup,32,30
+3:48,Lafayette,Paulius Zalys,Missed Jumper,32,30
+3:48,Princeton,Jaelin Llewellyn,Defensive Rebound,32,30
+3:37,Princeton,Jaelin Llewellyn,Missed Layup,32,30
+3:37,Lafayette,Paulius Zalys,Defensive Rebound,32,30
+3:20,Lafayette,Paulius Zalys,Missed Three Point Jumper,32,30
+3:20,Princeton,Myles Stephens,Defensive Rebound,32,30
+2:55,Princeton,Devin Cannady,Missed Three Point Jumper,32,30
+2:55,Princeton,Sebastian Much,Offensive Rebound,32,30
+2:41,Princeton,Sebastian Much,Missed Jumper,32,30
+2:41,Princeton,Devin Cannady,Offensive Rebound,32,30
+2:36,Princeton,Devin Cannady,Missed Three Point Jumper,32,30
+2:36,Lafayette,Justin Jaworski,Defensive Rebound,32,30
+2:28,Princeton,Myles Stephens,Foul,32,30
+2:28,Lafayette,None,None,32,30
+2:28,Lafayette,Isaac Suffren,Missed Free Throw,32,30
+2:28,Lafayette,None,Team Rebound,32,30
+2:28,Lafayette,Isaac Suffren,Free Throw,32,31
+2:14,Princeton,Richmond Aririguzoh,Layup,34,31
+1:50,Lafayette,Lukas Jarrett,Missed Three Point Jumper,34,31
+1:50,Princeton,Devin Cannady,Defensive Rebound,34,31
+1:38,Princeton,Myles Stephens,Missed Layup,34,31
+1:38,Princeton,Richmond Aririguzoh,Offensive Rebound,34,31
+1:35,Princeton,Richmond Aririguzoh,Dunk,36,31
+1:17,Lafayette,Lukas Jarrett,Missed Three Point Jumper,36,31
+1:17,Lafayette,Paulius Zalys,Offensive Rebound,36,31
+1:11,Lafayette,Paulius Zalys,Jumper,36,33
+0:56,Princeton,Myles Stephens,Three Point Jumper,39,33
+0:44,Princeton,Devin Cannady,Foul,39,33
+0:44,Lafayette,Paulius Zalys,Free Throw,39,34
+0:44,Lafayette,Paulius Zalys,Free Throw,39,35
+0:38,Princeton,Jaelin Llewellyn,Layup,41,35
+0:12,Lafayette,Justin Jaworski,Missed Three Point Jumper,41,35
+0:12,Princeton,Jose Morales,Block,41,35
+0:12,Lafayette,Lafayette,Offensive Rebound,41,35
+0:12,Princeton,None,None,41,35
+0:06,Lafayette,Justin Jaworski,Missed Three Point Jumper,41,35
+0:06,Lafayette,Sean Good,Offensive Rebound,41,35
+0:00,Lafayette,Alex Petrie,Missed Three Point Jumper,41,35
+0:00,Lafayette,None,Team Rebound,41,35
+0:00,Lafayette,None,None,41,35
+19:53,Princeton,Jaelin Llewellyn,Turnover,41,35
+19:34,Lafayette,Paulius Zalys,Turnover,41,35
+19:15,Princeton,Jose Morales,Three Point Jumper,44,35
+18:44,Lafayette,Isaac Suffren,Turnover,44,35
+18:33,Princeton,Jaelin Llewellyn,Three Point Jumper,47,35
+18:26,Lafayette,None,None,47,35
+18:10,Lafayette,Paulius Zalys,Missed Jumper,47,35
+18:10,Lafayette,Lafayette,Offensive Rebound,47,35
+18:05,Lafayette,Paulius Zalys,Layup,47,37
+18:05,Princeton,Richmond Aririguzoh,Foul,47,37
+18:05,Lafayette,Paulius Zalys,Free Throw,47,38
+17:39,Princeton,Myles Stephens,Missed Jumper,47,38
+17:39,Lafayette,Kyle Stout,Defensive Rebound,47,38
+17:30,Princeton,Myles Stephens,Foul,47,38
+17:20,Princeton,Jose Morales,Foul,47,38
+17:05,Lafayette,Paulius Zalys,Turnover,47,38
+17:00,Princeton,Myles Stephens,Layup,49,38
+16:44,Princeton,Myles Stephens,Missed Free Throw,49,38
+16:44,Lafayette,Paulius Zalys,Defensive Rebound,49,38
+16:37,Lafayette,Kyle Stout,Missed Three Point Jumper,49,38
+16:37,Princeton,Jerome Desrosiers,Defensive Rebound,49,38
+16:26,Princeton,Devin Cannady,Three Point Jumper,52,38
+16:13,Princeton,Jaelin Llewellyn,Foul,52,38
+16:12,Lafayette,E.J. Stephens,Turnover,52,38
+16:09,Princeton,Sebastian Much,Steal,52,38
+16:01,Princeton,Jaelin Llewellyn,Missed Jumper,52,38
+16:01,Princeton,Jaelin Llewellyn,Offensive Rebound,52,38
+15:55,Princeton,Jaelin Llewellyn,Missed Layup,52,38
+15:55,Lafayette,E.J. Stephens,Defensive Rebound,52,38
+15:52,Lafayette,Paulius Zalys,Turnover,52,38
+15:50,Princeton,Jaelin Llewellyn,Steal,52,38
+15:49,Princeton,Jaelin Llewellyn,Layup,54,38
+15:34,Lafayette,Isaac Suffren,Jumper,54,40
+15:34,Princeton,Ryan Schwieger,Foul,54,40
+15:34,Lafayette,Isaac Suffren,Free Throw,54,41
+15:17,Lafayette,Lukas Jarrett,Foul,54,41
+15:17,Princeton,Sebastian Much,Missed Free Throw,54,41
+15:17,Princeton,None,Team Rebound,54,41
+15:17,Princeton,Sebastian Much,Missed Free Throw,54,41
+15:17,Lafayette,Isaac Suffren,Defensive Rebound,54,41
+15:07,Lafayette,Isaac Suffren,Missed Layup,54,41
+15:07,Princeton,Jerome Desrosiers,Defensive Rebound,54,41
+15:03,Princeton,Devin Cannady,Three Point Jumper,57,41
+14:46,Lafayette,Isaac Suffren,Turnover,57,41
+14:46,Lafayette,Isaac Suffren,Foul,57,41
+14:23,Princeton,Devin Cannady,Missed Three Point Jumper,57,41
+14:23,Lafayette,Myles Cherry,Defensive Rebound,57,41
+14:23,Princeton,Sebastian Much,Foul,57,41
+14:23,Princeton,Sebastian Much,Foul,57,41
+14:23,Princeton,Sebastian Much,Foul,57,41
+14:23,Lafayette,Alex Petrie,Free Throw,57,42
+14:23,Lafayette,Alex Petrie,Free Throw,57,43
+14:23,Lafayette,Alex Petrie,Free Throw,57,44
+14:23,Lafayette,Alex Petrie,Free Throw,57,45
+14:08,Lafayette,Alex Petrie,Missed Jumper,57,45
+14:08,Princeton,Jerome Desrosiers,Defensive Rebound,57,45
+14:03,Lafayette,Isaac Suffren,Foul,57,45
+14:03,Princeton,Devin Cannady,Free Throw,58,45
+14:03,Princeton,Devin Cannady,Free Throw,59,45
+13:35,Lafayette,Isaac Suffren,Missed Jumper,59,45
+13:35,Princeton,Jerome Desrosiers,Defensive Rebound,59,45
+13:12,Princeton,Jose Morales,Missed Jumper,59,45
+13:12,Lafayette,Alex Petrie,Defensive Rebound,59,45
+12:55,Lafayette,Myles Cherry,Layup,59,47
+12:36,Lafayette,Myles Cherry,Foul,59,47
+12:36,Princeton,Richmond Aririguzoh,Free Throw,60,47
+12:36,Princeton,Richmond Aririguzoh,Free Throw,61,47
+12:18,Lafayette,E.J. Stephens,Three Point Jumper,61,50
+12:00,Princeton,Devin Cannady,Missed Three Point Jumper,61,50
+12:00,Lafayette,Paulius Zalys,Defensive Rebound,61,50
+11:50,Lafayette,Alex Petrie,Missed Jumper,61,50
+11:50,Lafayette,Justin Jaworski,Offensive Rebound,61,50
+11:46,Lafayette,Paulius Zalys,Three Point Jumper,61,53
+11:25,Princeton,Jerome Desrosiers,Missed Jumper,61,53
+11:25,Lafayette,Paulius Zalys,Defensive Rebound,61,53
+11:16,Lafayette,Alex Petrie,Missed Three Point Jumper,61,53
+11:16,Lafayette,Justin Jaworski,Offensive Rebound,61,53
+11:12,Lafayette,Justin Jaworski,Layup,61,55
+11:12,Princeton,Devin Cannady,Foul,61,55
+11:12,Lafayette,None,None,61,55
+11:12,Lafayette,Justin Jaworski,Free Throw,61,56
+10:51,Princeton,Jose Morales,Three Point Jumper,64,56
+10:32,Lafayette,Lukas Jarrett,Layup,64,58
+10:15,Princeton,Devin Cannady,Missed Three Point Jumper,64,58
+10:15,Lafayette,Lukas Jarrett,Defensive Rebound,64,58
+10:11,Lafayette,E.J. Stephens,Turnover,64,58
+10:00,Princeton,Jaelin Llewellyn,Missed Layup,64,58
+10:00,Lafayette,E.J. Stephens,Defensive Rebound,64,58
+9:41,Lafayette,Isaac Suffren,Three Point Jumper,64,61
+9:29,Princeton,None,None,64,61
+9:19,Princeton,Myles Stephens,Dunk,66,61
+8:51,Lafayette,Isaac Suffren,Missed Layup,66,61
+8:51,Princeton,Myles Stephens,Defensive Rebound,66,61
+8:43,Princeton,Myles Stephens,Layup,68,61
+8:36,Lafayette,None,None,68,61
+8:28,Lafayette,Myles Cherry,Turnover,68,61
+8:28,Lafayette,Myles Cherry,Foul,68,61
+8:16,Princeton,Myles Stephens,Missed Layup,68,61
+8:16,Lafayette,Paulius Zalys,Defensive Rebound,68,61
+8:08,Lafayette,Kyle Stout,Turnover,68,61
+7:54,Princeton,Devin Cannady,Missed Three Point Jumper,68,61
+7:54,Princeton,Jaelin Llewellyn,Offensive Rebound,68,61
+7:44,Princeton,Jose Morales,Missed Three Point Jumper,68,61
+7:44,Lafayette,Kyle Stout,Defensive Rebound,68,61
+7:28,Lafayette,Alex Petrie,Missed Jumper,68,61
+7:28,Princeton,Sebastian Much,Defensive Rebound,68,61
+7:08,Princeton,Sebastian Much,Missed Jumper,68,61
+7:08,Lafayette,Justin Jaworski,Defensive Rebound,68,61
+6:56,Lafayette,Paulius Zalys,Layup,68,63
+6:45,Princeton,Jaelin Llewellyn,Missed Layup,68,63
+6:45,Lafayette,Myles Cherry,Block,68,63
+6:43,Lafayette,Paulius Zalys,Defensive Rebound,68,63
+6:35,Lafayette,Paulius Zalys,Turnover,68,63
+6:33,Princeton,Devin Cannady,Steal,68,63
+6:26,Princeton,Devin Cannady,Missed Three Point Jumper,68,63
+6:26,Lafayette,Paulius Zalys,Defensive Rebound,68,63
+6:10,Lafayette,Paulius Zalys,Jumper,68,65
+5:45,Princeton,Myles Stephens,Missed Layup,68,65
+5:45,Lafayette,Myles Cherry,Defensive Rebound,68,65
+5:30,Lafayette,Paulius Zalys,Missed Three Point Jumper,68,65
+5:30,Princeton,Devin Cannady,Defensive Rebound,68,65
+5:30,Lafayette,Myles Cherry,Foul,68,65
+5:30,Princeton,Myles Stephens,Missed Free Throw,68,65
+5:30,Lafayette,Lukas Jarrett,Defensive Rebound,68,65
+5:01,Lafayette,Dylan Hastings,Missed Three Point Jumper,68,65
+5:01,Lafayette,Lukas Jarrett,Offensive Rebound,68,65
+4:46,Princeton,Jose Morales,Foul,68,65
+4:46,Lafayette,Lukas Jarrett,Free Throw,68,66
+4:46,Lafayette,Lukas Jarrett,Free Throw,68,67
+4:28,Princeton,Devin Cannady,Layup,70,67
+3:59,Lafayette,Alex Petrie,Jumper,70,69
+3:41,Princeton,Devin Cannady,Jumper,72,69
+3:27,Lafayette,Justin Jaworski,Missed Three Point Jumper,72,69
+3:27,Princeton,Devin Cannady,Defensive Rebound,72,69
+3:19,Princeton,Devin Cannady,Missed Layup,72,69
+3:19,Lafayette,Lafayette,Defensive Rebound,72,69
+3:19,Lafayette,None,None,72,69
+3:00,Lafayette,Alex Petrie,Missed Jumper,72,69
+3:00,Princeton,Devin Cannady,Defensive Rebound,72,69
+2:35,Princeton,Jaelin Llewellyn,Missed Jumper,72,69
+2:35,Princeton,Richmond Aririguzoh,Offensive Rebound,72,69
+2:04,Princeton,Jose Morales,Missed Jumper,72,69
+2:04,Lafayette,Lafayette,Defensive Rebound,72,69
+1:58,Princeton,Myles Stephens,Foul,72,69
+1:58,Lafayette,Paulius Zalys,Free Throw,72,70
+1:58,Lafayette,Paulius Zalys,Free Throw,72,71
+1:33,Princeton,Richmond Aririguzoh,Layup,74,71
+1:27,Lafayette,None,None,74,71
+1:23,Lafayette,Justin Jaworski,Missed Three Point Jumper,74,71
+1:23,Princeton,Devin Cannady,Defensive Rebound,74,71
+1:09,Princeton,Richmond Aririguzoh,Dunk,76,71
+0:56,Lafayette,Paulius Zalys,Jumper,76,73
+0:48,Princeton,None,None,76,73
+0:28,Princeton,Devin Cannady,Missed Three Point Jumper,76,73
+0:28,Lafayette,Myles Cherry,Defensive Rebound,76,73
+0:11,Lafayette,Justin Jaworski,Layup,76,75
+0:10,Lafayette,Paulius Zalys,Foul,76,75
+0:10,Princeton,Myles Stephens,Free Throw,77,75
+0:10,Princeton,Myles Stephens,Free Throw,78,75
+0:09,Princeton,Myles Stephens,Foul,78,75
+0:09,Lafayette,Justin Jaworski,Free Throw,78,76
+0:06,Lafayette,Justin Jaworski,Missed Free Throw,78,76
+0:06,Lafayette,None,Team Rebound,78,76
+0:05,Lafayette,E.J. Stephens,Foul,78,76
+0:05,Princeton,Devin Cannady,Free Throw,79,76
+0:05,Princeton,Devin Cannady,Free Throw,80,76
+0:02,Lafayette,Justin Jaworski,Three Point Jumper,80,79
+0:02,Princeton,None,None,80,79
+0:02,Lafayette,Isaac Suffren,Foul,80,79
+0:02,Princeton,Devin Cannady,Missed Free Throw,80,79
+0:02,Princeton,None,Team Rebound,80,79
+0:02,Princeton,Devin Cannady,Free Throw,81,79
+0:01,Lafayette,Justin Jaworski,Missed Three Point Jumper,81,79
+0:00,Lafayette,None,Team Rebound,81,79
+0:00,Lafayette,None,None,80,79

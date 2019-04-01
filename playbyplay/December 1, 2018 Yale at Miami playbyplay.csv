@@ -1,0 +1,316 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:48,Yale,Alex Copeland,Dunk,2,0
+19:21,Miami,Anthony Lawrence II,Foul,2,0
+19:21,Miami,Anthony Lawrence II,Turnover,2,0
+19:03,Yale,Blake Reynolds,Turnover,2,0
+19:01,Miami,Anthony Lawrence II,Steal,2,0
+18:56,Miami,Chris Lykes,Turnover,2,0
+18:55,Yale,Trey Phills,Steal,2,0
+18:52,Yale,Trey Phills,Foul,2,0
+18:52,Yale,Trey Phills,Turnover,2,0
+18:38,Miami,Deng Gak,Missed Jumper,2,0
+18:38,Yale,Jordan Bruner,Defensive Rebound,2,0
+18:29,Yale,Jordan Bruner,Missed Three Point Jumper,2,0
+18:29,Miami,Zach Johnson,Defensive Rebound,2,0
+18:21,Miami,Chris Lykes,Missed Three Point Jumper,2,0
+18:21,Miami,Ebuka Izundu,Offensive Rebound,2,0
+18:16,Miami,Ebuka Izundu,Layup,2,2
+17:59,Yale,Blake Reynolds,Jumper,4,2
+17:46,Miami,Anthony Lawrence II,Missed Three Point Jumper,4,2
+17:46,Yale,Trey Phills,Defensive Rebound,4,2
+17:42,Yale,Miye Oni,Dunk,6,2
+17:16,Miami,Chris Lykes,Jumper,6,4
+17:03,Yale,Alex Copeland,Missed Jumper,6,4
+17:03,Miami,Ebuka Izundu,Defensive Rebound,6,4
+16:45,Yale,Jordan Bruner,Foul,6,4
+16:45,Miami,Zach Johnson,Free Throw,6,5
+16:45,Miami,Zach Johnson,Free Throw,6,6
+16:31,Yale,Blake Reynolds,Missed Three Point Jumper,6,6
+16:31,Miami,Anthony Lawrence II,Defensive Rebound,6,6
+16:17,Miami,Zach Johnson,Missed Three Point Jumper,6,6
+16:17,Yale,Jordan Bruner,Defensive Rebound,6,6
+16:06,Yale,Miye Oni,Layup,8,6
+15:45,Miami,Ebuka Izundu,Jumper,8,8
+15:25,Yale,Jordan Bruner,Dunk,10,8
+15:04,Miami,Chris Lykes,Missed Jumper,10,8
+15:04,Miami,Deng Gak,Offensive Rebound,10,8
+15:02,Yale,Blake Reynolds,Foul,10,8
+15:00,Miami,None,None,10,8
+15:00,Miami,Deng Gak,Missed Free Throw,10,8
+15:00,Miami,None,Team Rebound,10,8
+15:00,Miami,Deng Gak,Free Throw,10,9
+14:39,Yale,Paul Atkinson,Dunk,12,9
+14:09,Miami,Dejan Vasiljevic,Three Point Jumper,12,12
+13:52,Miami,Ebuka Izundu,Foul,12,12
+13:52,Yale,Miye Oni,Missed Free Throw,12,12
+13:52,Yale,None,Team Rebound,12,12
+13:52,Yale,Miye Oni,Free Throw,13,12
+13:25,Miami,Anthony Lawrence II,Missed Three Point Jumper,13,12
+13:25,Yale,Azar Swain,Defensive Rebound,13,12
+13:16,Yale,Miye Oni,Missed Three Point Jumper,13,12
+13:16,Miami,Anthony Lawrence II,Defensive Rebound,13,12
+13:13,Yale,Jordan Bruner,Foul,13,12
+12:54,Miami,Dejan Vasiljevic,Turnover,13,12
+12:53,Yale,Paul Atkinson,Steal,13,12
+12:36,Yale,Miye Oni,Jumper,15,12
+12:11,Miami,Chris Lykes,Missed Three Point Jumper,15,12
+12:11,Yale,Blake Reynolds,Defensive Rebound,15,12
+12:00,Yale,Alex Copeland,Missed Layup,15,12
+12:00,Miami,Deng Gak,Block,15,12
+11:58,Miami,Anthony Lawrence II,Defensive Rebound,15,12
+11:54,Miami,Chris Lykes,Turnover,15,12
+11:52,Yale,Blake Reynolds,Steal,15,12
+11:48,Yale,Azar Swain,Turnover,15,12
+11:47,Miami,Anthony Lawrence II,Steal,15,12
+11:45,Miami,Chris Lykes,Layup,15,14
+11:30,Yale,Blake Reynolds,Turnover,15,14
+11:29,Miami,None,None,15,14
+11:06,Miami,Anthony Mack,Missed Three Point Jumper,15,14
+11:06,Yale,Azar Swain,Defensive Rebound,15,14
+10:54,Miami,Anthony Mack,Foul,15,14
+10:40,Yale,Blake Reynolds,Missed Jumper,15,14
+10:40,Miami,Dejan Vasiljevic,Defensive Rebound,15,14
+10:28,Miami,Anthony Lawrence II,Missed Layup,15,14
+10:28,Yale,Blake Reynolds,Block,15,14
+10:26,Yale,Paul Atkinson,Defensive Rebound,15,14
+10:20,Miami,Sam Waardenburg,Foul,15,14
+10:20,Yale,Paul Atkinson,Free Throw,16,14
+10:20,Yale,Paul Atkinson,Missed Free Throw,16,14
+10:20,Miami,Anthony Mack,Defensive Rebound,16,14
+10:01,Miami,Anthony Mack,Turnover,16,14
+9:50,Yale,Azar Swain,Jumper,18,14
+9:33,Miami,Chris Lykes,Layup,18,16
+9:19,Yale,Trey Phills,Missed Layup,18,16
+9:19,Miami,Ebuka Izundu,Block,18,16
+9:17,Miami,Dejan Vasiljevic,Defensive Rebound,18,16
+9:11,Yale,Azar Swain,Foul,18,16
+9:11,Miami,Dejan Vasiljevic,Free Throw,18,17
+9:11,Miami,Dejan Vasiljevic,Free Throw,18,18
+9:11,Miami,Dejan Vasiljevic,Free Throw,18,19
+9:00,Yale,Miye Oni,Jumper,20,19
+8:41,Yale,Blake Reynolds,Foul,20,19
+8:41,Miami,Ebuka Izundu,Free Throw,20,20
+8:41,Miami,Ebuka Izundu,Free Throw,20,21
+8:28,Yale,Alex Copeland,Missed Jumper,20,21
+8:28,Miami,Anthony Mack,Defensive Rebound,20,21
+8:18,Miami,Dejan Vasiljevic,Three Point Jumper,20,24
+8:04,Yale,Azar Swain,Missed Three Point Jumper,20,24
+8:04,Miami,Dejan Vasiljevic,Defensive Rebound,20,24
+7:53,Miami,Chris Lykes,Turnover,20,24
+7:52,Yale,Alex Copeland,Steal,20,24
+7:49,Yale,Alex Copeland,Layup,22,24
+7:47,Miami,Dejan Vasiljevic,Foul,22,24
+7:47,Miami,None,None,22,24
+7:47,Yale,Alex Copeland,Free Throw,23,24
+7:32,Miami,Chris Lykes,Missed Layup,23,24
+7:32,Miami,Ebuka Izundu,Offensive Rebound,23,24
+7:29,Miami,Ebuka Izundu,Layup,23,26
+6:55,Yale,Yale ,Turnover,23,26
+6:40,Miami,Ebuka Izundu,Jumper,23,28
+6:40,Yale,Paul Atkinson,Foul,23,28
+6:40,Miami,Ebuka Izundu,Missed Free Throw,23,28
+6:40,Yale,Miye Oni,Defensive Rebound,23,28
+6:20,Miami,Ebuka Izundu,Foul,23,28
+6:20,Yale,Miye Oni,Free Throw,24,28
+6:20,Yale,Miye Oni,Missed Free Throw,24,28
+6:20,Miami,Dejan Vasiljevic,Defensive Rebound,24,28
+6:03,Miami,Anthony Lawrence II,Layup,24,30
+5:31,Yale,Paul Atkinson,Layup,26,30
+5:14,Miami,Anthony Lawrence II,Missed Three Point Jumper,26,30
+5:14,Miami,Dejan Vasiljevic,Offensive Rebound,26,30
+5:11,Miami,Dejan Vasiljevic,Layup,26,32
+4:58,Yale,Jordan Bruner,Jumper,28,32
+4:39,Miami,Chris Lykes,Missed Three Point Jumper,28,32
+4:39,Miami,Deng Gak,Offensive Rebound,28,32
+4:36,Miami,Deng Gak,Layup,28,34
+4:29,Yale,None,None,28,34
+4:29,Miami,None,None,28,34
+4:13,Yale,Paul Atkinson,Missed Layup,28,34
+4:13,Miami,Miami,Defensive Rebound,28,34
+4:12,Yale,Jordan Bruner,Foul,28,34
+4:12,Miami,Deng Gak,Free Throw,28,35
+4:12,Miami,Deng Gak,Free Throw,28,36
+3:56,Miami,Zach Johnson,Foul,28,36
+3:56,Yale,Miye Oni,Free Throw,29,36
+3:56,Yale,Miye Oni,Free Throw,30,36
+3:48,Miami,Dejan Vasiljevic,Three Point Jumper,30,39
+3:26,Yale,Alex Copeland,Missed Three Point Jumper,30,39
+3:26,Miami,Anthony Lawrence II,Defensive Rebound,30,39
+3:20,Miami,Chris Lykes,Turnover,30,39
+3:18,Yale,Isaiah Kelly,Steal,30,39
+3:15,Yale,Miye Oni,Layup,32,39
+3:00,Miami,Anthony Lawrence II,Three Point Jumper,32,42
+2:41,Yale,Miye Oni,Three Point Jumper,35,42
+2:26,Yale,Isaiah Kelly,Foul,35,42
+2:26,Miami,Zach Johnson,Free Throw,35,43
+2:26,Miami,Zach Johnson,Free Throw,35,44
+2:14,Yale,Alex Copeland,Jumper,37,44
+1:44,Miami,Anthony Lawrence II,Layup,37,46
+1:24,Yale,Paul Atkinson,Layup,39,46
+0:58,Miami,Anthony Mack,Missed Jumper,39,46
+0:58,Yale,Miye Oni,Defensive Rebound,39,46
+0:48,Yale,Alex Copeland,Missed Three Point Jumper,39,46
+0:48,Miami,Anthony Lawrence II,Defensive Rebound,39,46
+0:40,Miami,Chris Lykes,Three Point Jumper,39,49
+0:17,Yale,Isaiah Kelly,Turnover,39,49
+0:14,Miami,None,None,39,49
+0:03,Miami,Chris Lykes,Turnover,39,49
+0:03,Yale,Isaiah Kelly,Turnover,39,49
+0:02,Miami,Dejan Vasiljevic,Steal,39,49
+0:00,Miami,Dejan Vasiljevic,Missed Three Point Jumper,39,49
+0:00,Miami,None,Team Rebound,39,49
+0:00,Miami,None,None,39,49
+19:39,Miami,Ebuka Izundu,Jumper,39,51
+19:24,Yale,Alex Copeland,Missed Layup,39,51
+19:24,Yale,Paul Atkinson,Offensive Rebound,39,51
+19:20,Yale,Paul Atkinson,Layup,41,51
+18:55,Miami,Ebuka Izundu,Missed Jumper,41,51
+18:55,Yale,Yale,Defensive Rebound,41,51
+18:52,Miami,Deng Gak,Foul,41,51
+18:40,Miami,Chris Lykes,Foul,41,51
+18:36,Yale,Miye Oni,Foul,41,51
+18:36,Yale,Miye Oni,Turnover,41,51
+18:17,Miami,Ebuka Izundu,Jumper,41,53
+17:57,Yale,Paul Atkinson,Missed Layup,41,53
+17:57,Miami,Ebuka Izundu,Defensive Rebound,41,53
+17:49,Miami,Deng Gak,Turnover,41,53
+17:46,Yale,Miye Oni,Steal,41,53
+17:43,Yale,Blake Reynolds,Turnover,41,53
+17:42,Miami,Zach Johnson,Steal,41,53
+17:37,Miami,Zach Johnson,Layup,41,55
+17:37,Yale,Miye Oni,Foul,41,55
+17:37,Miami,Zach Johnson,Free Throw,41,56
+17:26,Yale,Blake Reynolds,Three Point Jumper,44,56
+17:00,Miami,Ebuka Izundu,Missed Jumper,44,56
+17:00,Yale,Trey Phills,Defensive Rebound,44,56
+16:50,Yale,Trey Phills,Missed Three Point Jumper,44,56
+16:50,Yale,Paul Atkinson,Offensive Rebound,44,56
+16:46,Yale,Paul Atkinson,Layup,46,56
+16:24,Miami,Zach Johnson,Missed Jumper,46,56
+16:24,Yale,Alex Copeland,Defensive Rebound,46,56
+16:18,Yale,Alex Copeland,Missed Layup,46,56
+16:18,Miami,Deng Gak,Block,46,56
+16:16,Yale,Blake Reynolds,Offensive Rebound,46,56
+16:07,Yale,Miye Oni,Missed Three Point Jumper,46,56
+16:07,Miami,Deng Gak,Defensive Rebound,46,56
+15:55,Yale,Trey Phills,Foul,46,56
+15:53,Miami,None,None,46,56
+15:53,Miami,Chris Lykes,Free Throw,46,57
+15:53,Miami,Chris Lykes,Missed Free Throw,46,57
+15:53,Yale,Miye Oni,Defensive Rebound,46,57
+15:27,Yale,Miye Oni,Layup,48,57
+15:04,Miami,Anthony Lawrence II,Missed Three Point Jumper,48,57
+15:04,Yale,Azar Swain,Defensive Rebound,48,57
+14:54,Yale,Paul Atkinson,Layup,50,57
+14:35,Miami,Ebuka Izundu,Missed Jumper,50,57
+14:35,Yale,Jordan Bruner,Defensive Rebound,50,57
+14:24,Yale,Jordan Bruner,Three Point Jumper,53,57
+14:12,Miami,None,None,53,57
+14:12,Miami,None,None,53,57
+14:00,Miami,Dejan Vasiljevic,Missed Three Point Jumper,53,57
+14:00,Yale,Trey Phills,Defensive Rebound,53,57
+13:40,Yale,Miye Oni,Layup,55,57
+13:17,Miami,Chris Lykes,Missed Jumper,55,57
+13:17,Miami,Anthony Lawrence II,Offensive Rebound,55,57
+13:14,Miami,None,None,55,57
+13:14,Yale,Jordan Bruner,Defensive Rebound,55,57
+12:58,Yale,Blake Reynolds,Missed Three Point Jumper,55,57
+12:58,Miami,Anthony Lawrence II,Defensive Rebound,55,57
+12:47,Miami,Chris Lykes,Jumper,55,59
+12:31,Yale,Miye Oni,Missed Three Point Jumper,55,59
+12:31,Miami,Ebuka Izundu,Defensive Rebound,55,59
+12:11,Miami,Ebuka Izundu,Dunk,55,61
+11:55,Yale,Blake Reynolds,Layup,57,61
+11:41,Miami,Dejan Vasiljevic,Three Point Jumper,57,64
+11:19,Yale,Miye Oni,Jumper,59,64
+11:03,Miami,Zach Johnson,Layup,59,66
+10:56,Yale,Miye Oni,Turnover,59,66
+10:54,Miami,Chris Lykes,Steal,59,66
+10:53,Miami,Zach Johnson,Dunk,59,68
+10:40,Miami,Chris Lykes,Foul,59,68
+10:39,Miami,None,None,59,68
+10:24,Yale,Azar Swain,Missed Three Point Jumper,59,68
+10:24,Miami,Ebuka Izundu,Defensive Rebound,59,68
+10:05,Miami,Anthony Mack,Missed Jumper,59,68
+10:05,Yale,Miye Oni,Defensive Rebound,59,68
+9:45,Yale,Blake Reynolds,Three Point Jumper,62,68
+9:09,Miami,Anthony Lawrence II,Turnover,62,68
+9:07,Yale,Alex Copeland,Steal,62,68
+8:52,Yale,Azar Swain,Missed Three Point Jumper,62,68
+8:52,Miami,Anthony Lawrence II,Defensive Rebound,62,68
+8:42,Miami,Dejan Vasiljevic,Missed Three Point Jumper,62,68
+8:42,Yale,Azar Swain,Defensive Rebound,62,68
+8:26,Yale,Jordan Bruner,Layup,64,68
+8:00,Miami,Zach Johnson,Missed Jumper,64,68
+8:00,Yale,Miye Oni,Defensive Rebound,64,68
+7:56,Yale,Miye Oni,Layup,66,68
+7:41,Miami,Anthony Lawrence II,Missed Three Point Jumper,66,68
+7:41,Yale,Alex Copeland,Defensive Rebound,66,68
+7:32,Yale,Alex Copeland,Missed Layup,66,68
+7:32,Miami,Ebuka Izundu,Defensive Rebound,66,68
+7:12,Miami,Ebuka Izundu,Jumper,66,70
+7:12,Yale,Miye Oni,Foul,66,70
+7:12,Miami,None,None,66,70
+7:12,Miami,Ebuka Izundu,Free Throw,66,71
+7:03,Yale,Blake Reynolds,Missed Three Point Jumper,66,71
+7:03,Miami,Dejan Vasiljevic,Defensive Rebound,66,71
+6:33,Miami,Dejan Vasiljevic,Missed Three Point Jumper,66,71
+6:33,Yale,Miye Oni,Defensive Rebound,66,71
+6:21,Yale,Paul Atkinson,Layup,68,71
+5:55,Miami,Chris Lykes,Missed Three Point Jumper,68,71
+5:55,Yale,Azar Swain,Block,68,71
+5:54,Miami,Miami,Offensive Rebound,68,71
+5:52,Miami,Zach Johnson,Missed Three Point Jumper,68,71
+5:52,Yale,Paul Atkinson,Defensive Rebound,68,71
+5:36,Miami,Dejan Vasiljevic,Foul,68,71
+5:33,Yale,Trey Phills,Missed Free Throw,68,71
+5:33,Yale,None,Team Rebound,68,71
+5:33,Yale,Trey Phills,Free Throw,69,71
+5:17,Miami,Dejan Vasiljevic,Missed Jumper,69,71
+5:17,Yale,Yale,Defensive Rebound,69,71
+5:04,Yale,Alex Copeland,Turnover,69,71
+4:57,Miami,Chris Lykes,Missed Jumper,69,71
+4:57,Yale,Alex Copeland,Defensive Rebound,69,71
+4:48,Miami,Dejan Vasiljevic,Foul,69,71
+4:39,Yale,Miye Oni,Missed Jumper,69,71
+4:39,Miami,Ebuka Izundu,Defensive Rebound,69,71
+4:18,Yale,Paul Atkinson,Foul,69,71
+4:14,Yale,Trey Phills,Foul,69,71
+3:56,Miami,Dejan Vasiljevic,Missed Three Point Jumper,69,71
+3:56,Yale,Trey Phills,Defensive Rebound,69,71
+3:39,Yale,Paul Atkinson,Layup,71,71
+3:36,Miami,None,None,71,71
+3:21,Miami,Anthony Lawrence II,Layup,71,73
+2:58,Yale,Miye Oni,Missed Layup,71,73
+2:58,Miami,Ebuka Izundu,Block,71,73
+2:56,Miami,Zach Johnson,Defensive Rebound,71,73
+2:53,Miami,Dejan Vasiljevic,Missed Three Point Jumper,71,73
+2:53,Yale,Paul Atkinson,Defensive Rebound,71,73
+2:31,Miami,Anthony Lawrence II,Foul,71,73
+2:31,Yale,Jordan Bruner,Free Throw,72,73
+2:31,Yale,Jordan Bruner,Free Throw,73,73
+2:09,Miami,Zach Johnson,Missed Jumper,73,73
+2:09,Yale,Blake Reynolds,Defensive Rebound,73,73
+1:51,Yale,Jordan Bruner,Missed Jumper,73,73
+1:51,Miami,Zach Johnson,Defensive Rebound,73,73
+1:46,Miami,Zach Johnson,Foul,73,73
+1:46,Miami,Zach Johnson,Turnover,73,73
+1:30,Miami,Anthony Lawrence II,Foul,73,73
+1:30,Yale,Miye Oni,Free Throw,74,73
+1:30,Yale,Miye Oni,Free Throw,75,73
+1:22,Miami,Anthony Lawrence II,Missed Three Point Jumper,75,73
+1:22,Yale,Trey Phills,Defensive Rebound,75,73
+0:58,Yale,Trey Phills,Missed Layup,75,73
+0:58,Miami,Ebuka Izundu,Defensive Rebound,75,73
+0:52,Miami,None,None,75,73
+0:43,Miami,Zach Johnson,Missed Layup,75,73
+0:43,Yale,Blake Reynolds,Defensive Rebound,75,73
+0:15,Yale,Azar Swain,Missed Three Point Jumper,75,73
+0:15,Yale,Jordan Bruner,Offensive Rebound,75,73
+0:10,Miami,Chris Lykes,Foul,75,73
+0:10,Yale,Miye Oni,Free Throw,76,73
+0:10,Miami,None,None,76,73
+0:10,Yale,Miye Oni,Free Throw,77,73
+0:06,Miami,Anthony Lawrence II,Missed Three Point Jumper,77,73
+0:06,Yale,Trey Phills,Defensive Rebound,77,73
+0:00,Miami,None,None,77,73

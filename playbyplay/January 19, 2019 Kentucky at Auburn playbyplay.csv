@@ -1,0 +1,330 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Auburn,None,None,0,0
+19:46,Auburn,Jared Harper,Layup,0,2
+19:25,Kentucky,PJ Washington,Turnover,0,2
+19:25,Auburn,Chuma Okeke,Steal,0,2
+19:18,Auburn,Jared Harper,Missed Three Point Jumper,0,2
+19:18,Kentucky,Reid Travis,Defensive Rebound,0,2
+18:49,Kentucky,Ashton Hagans,Foul,0,2
+18:49,Kentucky,Ashton Hagans,Turnover,0,2
+18:36,Auburn,Chuma Okeke,Missed Layup,0,2
+18:36,Kentucky,PJ Washington,Block,0,2
+18:36,Kentucky,Ashton Hagans,Defensive Rebound,0,2
+18:19,Kentucky,Reid Travis,Layup,2,2
+18:19,Auburn,Anfernee McLemore,Foul,2,2
+18:19,Kentucky,Reid Travis,Free Throw,3,2
+18:14,Auburn,Anfernee McLemore,Missed Three Point Jumper,3,2
+18:14,Kentucky,Reid Travis,Defensive Rebound,3,2
+17:52,Kentucky,Keldon Johnson,Missed Jumper,3,2
+17:52,Kentucky,Keldon Johnson,Offensive Rebound,3,2
+17:42,Kentucky,Keldon Johnson,Turnover,3,2
+17:42,Auburn,Jared Harper,Steal,3,2
+17:29,Auburn,Jared Harper,Missed Jumper,3,2
+17:29,Auburn,Chuma Okeke,Offensive Rebound,3,2
+17:13,Auburn,Samir Doughty,Missed Three Point Jumper,3,2
+17:13,Kentucky,PJ Washington,Defensive Rebound,3,2
+17:13,Kentucky,Ashton Hagans,Turnover,3,2
+16:49,Auburn,Chuma Okeke,Missed Three Point Jumper,3,2
+16:49,Kentucky,Reid Travis,Defensive Rebound,3,2
+16:34,Kentucky,PJ Washington,Three Point Jumper,6,2
+16:12,Auburn,Jared Harper,Layup,6,4
+15:37,Kentucky,Reid Travis,Dunk,8,4
+15:06,Kentucky,Reid Travis,Foul,8,4
+15:06,Auburn,None,None,8,4
+15:06,Auburn,Samir Doughty,Free Throw,8,5
+15:06,Auburn,Samir Doughty,Free Throw,8,6
+14:49,Kentucky,Ashton Hagans,Layup,10,6
+14:20,Auburn,Jared Harper,Missed Jumper,10,6
+14:20,Kentucky,PJ Washington,Defensive Rebound,10,6
+14:12,Kentucky,Immanuel Quickley,Missed Three Point Jumper,10,6
+14:12,Auburn,Malik Dunbar,Defensive Rebound,10,6
+13:51,Auburn,Bryce Brown,Three Point Jumper,10,9
+13:26,Auburn,Bryce Brown,Foul,10,9
+13:26,Kentucky,PJ Washington,Free Throw,11,9
+13:26,Kentucky,PJ Washington,Missed Free Throw,11,9
+13:26,Kentucky,Kentucky,Offensive Rebound,11,9
+12:59,Kentucky,Immanuel Quickley,Missed Jumper,11,9
+12:59,Auburn,Malik Dunbar,Defensive Rebound,11,9
+12:43,Auburn,Bryce Brown,Missed Three Point Jumper,11,9
+12:43,Kentucky,EJ Montgomery,Defensive Rebound,11,9
+12:34,Auburn,J'Von McCormick,Foul,11,9
+12:34,Kentucky,Nick Richards,Free Throw,12,9
+12:34,Kentucky,Nick Richards,Missed Free Throw,12,9
+12:34,Auburn,Malik Dunbar,Defensive Rebound,12,9
+12:06,Auburn,Bryce Brown,Turnover,12,9
+12:06,Kentucky,Nick Richards,Steal,12,9
+11:56,Kentucky,EJ Montgomery,Missed Jumper,12,9
+11:56,Auburn,Horace Spencer,Defensive Rebound,12,9
+11:45,Kentucky,Immanuel Quickley,Foul,12,9
+11:45,Auburn,None,None,12,9
+11:42,Auburn,Malik Dunbar,Missed Three Point Jumper,12,9
+11:42,Kentucky,Ashton Hagans,Defensive Rebound,12,9
+11:33,Kentucky,Jemarl Baker Jr.,Missed Three Point Jumper,12,9
+11:33,Auburn,Auburn,Defensive Rebound,12,9
+11:24,Auburn,J'Von McCormick,Missed Layup,12,9
+11:24,Kentucky,Reid Travis,Block,12,9
+11:24,Kentucky,PJ Washington,Defensive Rebound,12,9
+11:13,Kentucky,Keldon Johnson,Dunk,14,9
+10:59,Auburn,Malik Dunbar,Missed Three Point Jumper,14,9
+10:59,Auburn,J'Von McCormick,Offensive Rebound,14,9
+10:46,Auburn,Anfernee McLemore,Missed Three Point Jumper,14,9
+10:46,Kentucky,Ashton Hagans,Defensive Rebound,14,9
+10:31,Kentucky,Keldon Johnson,Missed Three Point Jumper,14,9
+10:31,Auburn,Malik Dunbar,Defensive Rebound,14,9
+10:21,Auburn,Malik Dunbar,Three Point Jumper,14,12
+10:05,Kentucky,Keldon Johnson,Layup,16,12
+9:55,Auburn,Malik Dunbar,Three Point Jumper,16,15
+9:40,Kentucky,PJ Washington,Missed Three Point Jumper,16,15
+9:40,Kentucky,Reid Travis,Offensive Rebound,16,15
+9:32,Kentucky,Keldon Johnson,Missed Three Point Jumper,16,15
+9:32,Kentucky,PJ Washington,Offensive Rebound,16,15
+9:24,Kentucky,Ashton Hagans,Missed Layup,16,15
+9:24,Auburn,Anfernee McLemore,Block,16,15
+9:24,Auburn,Anfernee McLemore,Defensive Rebound,16,15
+9:24,Kentucky,Jemarl Baker Jr.,Foul,16,15
+9:24,Auburn,Chuma Okeke,Foul,16,15
+9:24,Auburn,Chuma Okeke,Foul,16,15
+9:24,Kentucky,PJ Washington,Foul,16,15
+9:24,Kentucky,PJ Washington,Foul,16,15
+9:07,Auburn,Samir Doughty,Missed Layup,16,15
+9:07,Kentucky,Tyler Herro,Defensive Rebound,16,15
+8:49,Kentucky,Tyler Herro,Missed Jumper,16,15
+8:49,Kentucky,Reid Travis,Offensive Rebound,16,15
+8:38,Kentucky,Reid Travis,Dunk,18,15
+8:31,Auburn,Chuma Okeke,Layup,18,17
+8:14,Auburn,Malik Dunbar,Foul,18,17
+8:14,Auburn,Anfernee McLemore,Foul,18,17
+8:00,Kentucky,Reid Travis,Foul,18,17
+8:00,Kentucky,Reid Travis,Turnover,18,17
+8:00,Auburn,None,None,18,17
+7:42,Auburn,Samir Doughty,Three Point Jumper,18,20
+7:05,Kentucky,PJ Washington,Missed Jumper,18,20
+7:05,Auburn,Horace Spencer,Block,18,20
+7:05,Auburn,Chuma Okeke,Defensive Rebound,18,20
+6:58,Auburn,Horace Spencer,Turnover,18,20
+6:40,Kentucky,Keldon Johnson,Dunk,20,20
+6:26,Auburn,Horace Spencer,Dunk,20,22
+6:01,Kentucky,Tyler Herro,Missed Three Point Jumper,20,22
+6:01,Kentucky,Reid Travis,Offensive Rebound,20,22
+5:55,Auburn,Samir Doughty,Foul,20,22
+5:55,Kentucky,Tyler Herro,Free Throw,21,22
+5:55,Kentucky,Tyler Herro,Free Throw,22,22
+5:34,Auburn,Jared Harper,Three Point Jumper,22,25
+5:24,Kentucky,Ashton Hagans,Layup,24,25
+5:24,Auburn,Horace Spencer,Foul,24,25
+5:24,Kentucky,Ashton Hagans,Missed Free Throw,24,25
+5:24,Auburn,Horace Spencer,Defensive Rebound,24,25
+5:22,Kentucky,Nick Richards,Foul,24,25
+5:22,Auburn,Horace Spencer,Missed Free Throw,24,25
+5:22,Auburn,Chuma Okeke,Offensive Rebound,24,25
+5:07,Auburn,Horace Spencer,Turnover,24,25
+4:47,Auburn,Jared Harper,Foul,24,25
+4:47,Kentucky,Ashton Hagans,Free Throw,25,25
+4:47,Kentucky,Ashton Hagans,Free Throw,26,25
+4:34,Kentucky,EJ Montgomery,Foul,26,25
+4:34,Auburn,Jared Harper,Missed Free Throw,26,25
+4:34,Auburn,None,Team Rebound,26,25
+4:34,Auburn,Jared Harper,Free Throw,26,26
+4:34,Auburn,Jared Harper,Free Throw,26,27
+4:10,Auburn,Danjel Purifoy,Foul,26,27
+4:10,Kentucky,PJ Washington,Missed Free Throw,26,27
+4:10,Kentucky,None,Team Rebound,26,27
+4:10,Kentucky,PJ Washington,Free Throw,27,27
+3:58,Auburn,Horace Spencer,Turnover,27,27
+3:58,Auburn,None,None,27,27
+3:29,Kentucky,Tyler Herro,Missed Jumper,27,27
+3:29,Auburn,Horace Spencer,Defensive Rebound,27,27
+3:09,Auburn,Jared Harper,Missed Three Point Jumper,27,27
+3:09,Kentucky,Tyler Herro,Defensive Rebound,27,27
+2:49,Kentucky,PJ Washington,Turnover,27,27
+2:38,Auburn,Danjel Purifoy,Missed Three Point Jumper,27,27
+2:38,Auburn,Auburn,Offensive Rebound,27,27
+2:38,Kentucky,EJ Montgomery,Foul,27,27
+2:38,Auburn,Jared Harper,Missed Free Throw,27,27
+2:38,Kentucky,Nick Richards,Defensive Rebound,27,27
+2:27,Kentucky,EJ Montgomery,Missed Jumper,27,27
+2:26,Auburn,Chuma Okeke,Defensive Rebound,27,27
+2:17,Auburn,Jared Harper,Missed Layup,27,27
+2:16,Auburn,Horace Spencer,Offensive Rebound,27,27
+2:13,Auburn,Horace Spencer,Missed Dunk,27,27
+2:13,Auburn,Horace Spencer,Offensive Rebound,27,27
+1:53,Auburn,Jared Harper,Turnover,27,27
+1:53,Kentucky,Ashton Hagans,Steal,27,27
+1:45,Kentucky,Tyler Herro,Missed Layup,27,27
+1:45,Kentucky,Keldon Johnson,Offensive Rebound,27,27
+1:45,Kentucky,None,None,29,27
+1:18,Auburn,Bryce Brown,Turnover,29,27
+1:18,Kentucky,EJ Montgomery,Steal,29,27
+1:04,Kentucky,Keldon Johnson,Three Point Jumper,32,27
+0:40,Auburn,Bryce Brown,Turnover,32,27
+0:40,Kentucky,Tyler Herro,Steal,32,27
+0:25,Kentucky,Tyler Herro,Three Point Jumper,35,27
+0:06,Auburn,Jared Harper,Missed Three Point Jumper,35,27
+0:06,Kentucky,Ashton Hagans,Defensive Rebound,35,27
+0:00,Auburn,None,None,35,27
+20:00,Kentucky,None,None,35,27
+19:40,Kentucky,Reid Travis,Layup,37,27
+19:12,Auburn,Chuma Okeke,Layup,37,29
+18:47,Kentucky,Keldon Johnson,Layup,39,29
+18:47,Auburn,Anfernee McLemore,Foul,39,29
+18:47,Kentucky,Keldon Johnson,Free Throw,40,29
+18:29,Auburn,Chuma Okeke,Missed Three Point Jumper,40,29
+18:29,Kentucky,PJ Washington,Defensive Rebound,40,29
+18:16,Kentucky,PJ Washington,Jumper,42,29
+17:43,Auburn,Anfernee McLemore,Missed Layup,42,29
+17:43,Kentucky,Ashton Hagans,Defensive Rebound,42,29
+17:35,Kentucky,Tyler Herro,Three Point Jumper,45,29
+17:29,Auburn,None,None,45,29
+17:20,Auburn,Bryce Brown,Jumper,45,31
+17:05,Kentucky,PJ Washington,Missed Layup,45,31
+17:05,Auburn,Horace Spencer,Block,45,31
+17:05,Kentucky,PJ Washington,Offensive Rebound,45,31
+17:03,Kentucky,PJ Washington,Layup,47,31
+17:03,Auburn,Chuma Okeke,Foul,47,31
+17:03,Kentucky,PJ Washington,Free Throw,48,31
+16:47,Auburn,Chuma Okeke,Layup,48,33
+16:40,Kentucky,Ashton Hagans,Turnover,48,33
+16:40,Auburn,Bryce Brown,Steal,48,33
+16:36,Auburn,Horace Spencer,Foul,48,33
+16:36,Auburn,Horace Spencer,Turnover,48,33
+16:36,Kentucky,Tyler Herro,Turnover,48,33
+16:36,Kentucky,Tyler Herro,Foul,48,33
+16:32,Auburn,Bryce Brown,Three Point Jumper,48,36
+16:32,Kentucky,PJ Washington,Foul,48,36
+16:32,Auburn,Bryce Brown,Free Throw,48,37
+16:12,Auburn,Chuma Okeke,Foul,48,37
+16:01,Kentucky,Tyler Herro,Missed Three Point Jumper,48,37
+16:01,Auburn,Chuma Okeke,Defensive Rebound,48,37
+15:51,Auburn,Malik Dunbar,Layup,48,39
+15:33,Kentucky,PJ Washington,Layup,50,39
+15:25,Auburn,Bryce Brown,Three Point Jumper,50,42
+15:06,Kentucky,Keldon Johnson,Three Point Jumper,53,42
+14:35,Kentucky,Ashton Hagans,Foul,53,42
+14:34,Auburn,None,None,53,42
+14:26,Auburn,Danjel Purifoy,Missed Jumper,53,42
+14:26,Auburn,Malik Dunbar,Offensive Rebound,53,42
+14:25,Kentucky,Nick Richards,Foul,53,42
+14:25,Auburn,Anfernee McLemore,Free Throw,53,43
+14:25,Auburn,Anfernee McLemore,Free Throw,53,44
+13:55,Kentucky,Tyler Herro,Turnover,53,44
+13:52,Auburn,J'Von McCormick,Turnover,53,44
+13:52,Kentucky,Immanuel Quickley,Steal,53,44
+13:49,Auburn,J'Von McCormick,Foul,53,44
+13:49,Kentucky,Immanuel Quickley,Free Throw,54,44
+13:49,Kentucky,Immanuel Quickley,Free Throw,55,44
+13:39,Kentucky,Nick Richards,Foul,55,44
+13:39,Auburn,Anfernee McLemore,Missed Free Throw,55,44
+13:39,Auburn,None,Team Rebound,55,44
+13:39,Auburn,Anfernee McLemore,Missed Free Throw,55,44
+13:39,Auburn,Malik Dunbar,Offensive Rebound,55,44
+13:35,Kentucky,Keldon Johnson,Foul,55,44
+13:14,Auburn,J'Von McCormick,Missed Layup,55,44
+13:14,Kentucky,Immanuel Quickley,Defensive Rebound,55,44
+12:58,Kentucky,Tyler Herro,Layup,57,44
+12:46,Auburn,Danjel Purifoy,Three Point Jumper,57,47
+12:28,Auburn,Malik Dunbar,Foul,57,47
+12:09,Kentucky,Immanuel Quickley,Jumper,59,47
+11:52,Auburn,Danjel Purifoy,Missed Three Point Jumper,59,47
+11:52,Kentucky,Jemarl Baker Jr.,Defensive Rebound,59,47
+11:27,Kentucky,Jemarl Baker Jr.,Turnover,59,47
+11:27,Auburn,Malik Dunbar,Steal,59,47
+11:19,Auburn,Malik Dunbar,Layup,59,49
+10:56,Auburn,Danjel Purifoy,Foul,59,49
+10:56,Auburn,None,None,59,49
+10:56,Kentucky,PJ Washington,Free Throw,60,49
+10:56,Kentucky,PJ Washington,Missed Free Throw,60,49
+10:56,Auburn,Samir Doughty,Defensive Rebound,60,49
+10:40,Auburn,Jared Harper,Turnover,60,49
+10:40,Kentucky,Reid Travis,Steal,60,49
+10:28,Kentucky,Reid Travis,Layup,62,49
+10:12,Auburn,Chuma Okeke,Missed Three Point Jumper,62,49
+10:12,Kentucky,Ashton Hagans,Defensive Rebound,62,49
+9:46,Auburn,Anfernee McLemore,Foul,62,49
+9:46,Kentucky,Reid Travis,Free Throw,63,49
+9:46,Kentucky,Reid Travis,Free Throw,64,49
+9:30,Auburn,Chuma Okeke,Three Point Jumper,64,52
+8:59,Auburn,Horace Spencer,Foul,64,52
+8:59,Kentucky,Reid Travis,Free Throw,65,52
+8:59,Kentucky,Reid Travis,Free Throw,66,52
+8:48,Kentucky,Tyler Herro,Foul,66,52
+8:48,Auburn,Bryce Brown,Free Throw,66,53
+8:48,Auburn,Bryce Brown,Free Throw,66,54
+8:48,Auburn,Bryce Brown,Free Throw,66,55
+8:30,Kentucky,Reid Travis,Missed Jumper,66,55
+8:30,Auburn,Horace Spencer,Defensive Rebound,66,55
+8:01,Auburn,Chuma Okeke,Dunk,66,57
+7:35,Kentucky,EJ Montgomery,Turnover,66,57
+7:35,Auburn,None,None,66,57
+7:12,Auburn,Bryce Brown,Three Point Jumper,66,60
+6:57,Auburn,Malik Dunbar,Foul,66,60
+6:57,Kentucky,Keldon Johnson,Missed Free Throw,66,60
+6:57,Kentucky,None,Team Rebound,66,60
+6:57,Kentucky,Keldon Johnson,Missed Free Throw,66,60
+6:57,Auburn,Malik Dunbar,Defensive Rebound,66,60
+6:45,Auburn,Bryce Brown,Three Point Jumper,66,63
+6:23,Kentucky,Reid Travis,Dunk,68,63
+6:05,Auburn,Chuma Okeke,Missed Three Point Jumper,68,63
+6:05,Kentucky,Ashton Hagans,Defensive Rebound,68,63
+5:41,Kentucky,Keldon Johnson,Missed Three Point Jumper,68,63
+5:41,Auburn,Horace Spencer,Defensive Rebound,68,63
+5:28,Auburn,Jared Harper,Turnover,68,63
+5:28,Kentucky,PJ Washington,Steal,68,63
+5:22,Kentucky,Tyler Herro,Layup,70,63
+5:22,Auburn,Horace Spencer,Foul,70,63
+5:22,Kentucky,Tyler Herro,Free Throw,71,63
+5:20,Auburn,Bryce Brown,Dunk,71,65
+4:49,Kentucky,Tyler Herro,Jumper,73,65
+4:33,Kentucky,Reid Travis,Foul,73,65
+4:33,Auburn,Jared Harper,Free Throw,73,66
+4:33,Auburn,Jared Harper,Free Throw,73,67
+4:20,Kentucky,Ashton Hagans,Missed Jumper,73,67
+4:20,Auburn,Horace Spencer,Defensive Rebound,73,67
+4:06,Auburn,Bryce Brown,Three Point Jumper,73,70
+3:46,Kentucky,Tyler Herro,Three Point Jumper,76,70
+3:26,Auburn,Jared Harper,Missed Three Point Jumper,76,70
+3:26,Kentucky,Tyler Herro,Defensive Rebound,76,70
+3:04,Kentucky,Tyler Herro,Turnover,76,70
+3:04,Auburn,Horace Spencer,Steal,76,70
+2:59,Auburn,Jared Harper,Layup,76,72
+2:59,Kentucky,Reid Travis,Foul,76,72
+2:59,Auburn,None,None,76,72
+2:59,Auburn,Jared Harper,Free Throw,76,73
+2:33,Kentucky,PJ Washington,Missed Jumper,76,73
+2:33,Auburn,Chuma Okeke,Block,76,73
+2:33,Kentucky,PJ Washington,Offensive Rebound,76,73
+2:33,Kentucky,PJ Washington,Foul,76,73
+2:33,Kentucky,PJ Washington,Turnover,76,73
+2:26,Auburn,Chuma Okeke,Missed Jumper,76,73
+2:26,Kentucky,Reid Travis,Defensive Rebound,76,73
+2:04,Auburn,Anfernee McLemore,Foul,76,73
+2:04,Kentucky,Keldon Johnson,Free Throw,77,73
+2:04,Kentucky,Keldon Johnson,Free Throw,78,73
+2:04,Kentucky,None,None,78,73
+1:53,Kentucky,PJ Washington,Foul,78,73
+1:53,Auburn,Bryce Brown,Free Throw,78,74
+1:53,Auburn,Bryce Brown,Free Throw,78,75
+1:47,Auburn,Malik Dunbar,Missed Jumper,78,75
+1:47,Kentucky,Keldon Johnson,Defensive Rebound,78,75
+1:46,Auburn,Malik Dunbar,Foul,78,75
+1:46,Kentucky,Keldon Johnson,Missed Free Throw,78,75
+1:46,Kentucky,None,Team Rebound,78,75
+1:46,Kentucky,Keldon Johnson,Free Throw,79,75
+1:30,Auburn,Horace Spencer,Jumper,79,77
+0:58,Kentucky,Tyler Herro,Missed Three Point Jumper,79,77
+0:58,Auburn,Auburn,Defensive Rebound,79,77
+0:32,Auburn,Jared Harper,Three Point Jumper,79,80
+0:24,Auburn,Jared Harper,Foul,79,80
+0:24,Kentucky,Tyler Herro,Free Throw,80,80
+0:24,Auburn,None,None,80,80
+0:24,Kentucky,Tyler Herro,Free Throw,81,80
+0:24,Kentucky,None,None,81,80
+0:06,Auburn,Jared Harper,Missed Layup,81,80
+0:06,Kentucky,Immanuel Quickley,Defensive Rebound,81,80
+0:03,Auburn,Horace Spencer,Foul,81,80
+0:03,Kentucky,Immanuel Quickley,Free Throw,82,80
+0:03,Auburn,None,None,82,80
+0:03,Kentucky,Immanuel Quickley,Missed Free Throw,82,80
+0:03,Auburn,Chuma Okeke,Defensive Rebound,82,80
+0:02,Auburn,Samir Doughty,Missed Three Point Jumper,82,80
+0:02,Auburn,Auburn,Offensive Rebound,82,80
+0:00,Auburn,None,None,82,80

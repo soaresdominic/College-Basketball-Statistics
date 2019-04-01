@@ -1,0 +1,304 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+19:39,Nevada,Tre'Shawn Thurman,Jumper,2,0
+19:13,Air Force,A.J. Walker,Three Point Jumper,2,3
+18:53,Nevada,Trey Porter,Turnover,2,3
+18:30,Air Force,A.J. Walker,Turnover,2,3
+18:28,Nevada,Tre'Shawn Thurman,Steal,2,3
+18:24,Nevada,Cody Martin,Missed Jumper,2,3
+18:24,Air Force,Lavelle Scottie,Defensive Rebound,2,3
+18:15,Air Force,Chris Joyce,Missed Layup,2,3
+18:15,Nevada,Jordan Caroline,Defensive Rebound,2,3
+18:04,Nevada,Caleb Martin,Jumper,4,3
+17:52,Air Force,Lavelle Scottie,Missed Three Point Jumper,4,3
+17:52,Nevada,Trey Porter,Defensive Rebound,4,3
+17:40,Nevada,Caleb Martin,Missed Jumper,4,3
+17:40,Nevada,Caleb Martin,Offensive Rebound,4,3
+17:38,Nevada,Caleb Martin,Missed Layup,4,3
+17:38,Air Force,Caleb Morris,Defensive Rebound,4,3
+17:28,Air Force,Caleb Morris,Missed Three Point Jumper,4,3
+17:28,Air Force,Lavelle Scottie,Offensive Rebound,4,3
+17:16,Air Force,Ryan Swan,Layup,4,5
+16:57,Nevada,Trey Porter,Missed Layup,4,5
+16:57,Air Force,Ryan Swan,Block,4,5
+16:57,Nevada,Nevada,Offensive Rebound,4,5
+16:43,Nevada,Nevada ,Turnover,4,5
+16:25,Air Force,Ryan Swan,Missed Jumper,4,5
+16:25,Nevada,Jordan Brown,Block,4,5
+16:22,Air Force,Ryan Swan,Offensive Rebound,4,5
+16:19,Air Force,A.J. Walker,Three Point Jumper,4,8
+16:09,Nevada,Jordan Caroline,Jumper,6,8
+15:52,Air Force,Ryan Swan,Missed Layup,6,8
+15:52,Nevada,Jordan Caroline,Defensive Rebound,6,8
+15:44,Nevada,Tre'Shawn Thurman,Turnover,6,8
+15:42,Air Force,Lavelle Scottie,Steal,6,8
+15:34,Air Force,Lavelle Scottie,Three Point Jumper,6,11
+15:12,Nevada,Jordan Caroline,Missed Jumper,6,11
+15:12,Air Force,Chris Joyce,Defensive Rebound,6,11
+14:58,Air Force,Ryan Swan,Layup,6,13
+14:34,Nevada,Cody Martin,Three Point Jumper,9,13
+14:15,Nevada,Tre'Shawn Thurman,Foul,9,13
+14:15,Air Force,None,None,9,13
+13:52,Air Force,Keaton Van Soelen,Turnover,9,13
+13:51,Nevada,Cody Martin,Steal,9,13
+13:40,Nevada,Jazz Johnson,Three Point Jumper,12,13
+13:20,Air Force,Lavelle Scottie,Missed Jumper,12,13
+13:20,Nevada,Caleb Martin,Defensive Rebound,12,13
+13:09,Nevada,Jordan Caroline,Missed Jumper,12,13
+13:09,Air Force,Keaton Van Soelen,Defensive Rebound,12,13
+12:51,Air Force,A.J. Walker,Missed Layup,12,13
+12:51,Nevada,Cody Martin,Defensive Rebound,12,13
+12:43,Nevada,Jazz Johnson,Three Point Jumper,15,13
+12:18,Air Force,Lavelle Scottie,Missed Three Point Jumper,15,13
+12:18,Nevada,Nevada,Defensive Rebound,15,13
+11:55,Air Force,None,None,15,13
+11:52,Nevada,Jordan Caroline,Missed Layup,15,13
+11:52,Nevada,Jordan Caroline,Offensive Rebound,15,13
+11:49,Nevada,Jordan Caroline,Layup,17,13
+11:31,Air Force,Ryan Swan,Layup,17,15
+11:11,Nevada,Caleb Martin,Missed Three Point Jumper,17,15
+11:11,Nevada,Caleb Martin,Offensive Rebound,17,15
+11:04,Nevada,Cody Martin,Three Point Jumper,20,15
+10:44,Air Force,Ameka Akaya,Jumper,20,17
+10:27,Nevada,Caleb Martin,Three Point Jumper,23,17
+10:09,Air Force,Ryan Swan,Three Point Jumper,23,20
+9:45,Nevada,Cody Martin,Three Point Jumper,26,20
+9:34,Air Force,A.J. Walker,Missed Layup,26,20
+9:34,Nevada,Caleb Martin,Block,26,20
+9:32,Nevada,Corey Henson,Defensive Rebound,26,20
+9:29,Nevada,Jordan Caroline,Foul,26,20
+9:29,Nevada,Jordan Caroline,Turnover,26,20
+9:03,Air Force,Sid Tomes,Missed Three Point Jumper,26,20
+9:03,Air Force,Ryan Swan,Offensive Rebound,26,20
+8:50,Air Force,Chris Joyce,Missed Layup,26,20
+8:50,Nevada,Cody Martin,Block,26,20
+8:47,Nevada,Tre'Shawn Thurman,Defensive Rebound,26,20
+8:43,Nevada,Corey Henson,Missed Three Point Jumper,26,20
+8:43,Air Force,Sid Tomes,Defensive Rebound,26,20
+8:38,Air Force,LeSean Brown,Layup,26,22
+8:38,Nevada,Corey Henson,Foul,26,22
+8:34,Air Force,LeSean Brown,Missed Free Throw,26,22
+8:34,Nevada,Jordan Caroline,Defensive Rebound,26,22
+8:15,Nevada,Corey Henson,Missed Three Point Jumper,26,22
+8:15,Air Force,LeSean Brown,Defensive Rebound,26,22
+8:00,Air Force,Chris Joyce,Three Point Jumper,26,25
+7:29,Nevada,Jazz Johnson,Three Point Jumper,29,25
+7:07,Air Force,None,None,29,25
+7:04,Air Force,Lavelle Scottie,Missed Jumper,29,25
+7:04,Nevada,Tre'Shawn Thurman,Block,29,25
+7:02,Nevada,Cody Martin,Defensive Rebound,29,25
+7:02,Air Force,Lavelle Scottie,Foul,29,25
+6:46,Nevada,Cody Martin,Layup,31,25
+6:30,Nevada,Tre'Shawn Thurman,Foul,31,25
+6:30,Air Force,Ryan Swan,Missed Free Throw,31,25
+6:30,Air Force,None,Team Rebound,31,25
+6:30,Air Force,Ryan Swan,Free Throw,31,26
+6:25,Nevada,Trey Porter,Dunk,33,26
+6:03,Air Force,Caleb Morris,Missed Three Point Jumper,33,26
+6:03,Nevada,Trey Porter,Defensive Rebound,33,26
+5:48,Nevada,Jordan Caroline,Missed Jumper,33,26
+5:48,Air Force,Chris Joyce,Defensive Rebound,33,26
+5:32,Air Force,Lavelle Scottie,Missed Three Point Jumper,33,26
+5:32,Nevada,Caleb Martin,Defensive Rebound,33,26
+5:26,Nevada,Jazz Johnson,Missed Three Point Jumper,33,26
+5:26,Air Force,Ryan Swan,Defensive Rebound,33,26
+5:13,Air Force,Lavelle Scottie,Layup,33,28
+4:48,Nevada,Trey Porter,Jumper,35,28
+4:27,Air Force,Lavelle Scottie,Missed Jumper,35,28
+4:27,Nevada,Trey Porter,Defensive Rebound,35,28
+4:18,Nevada,Jordan Caroline,Missed Three Point Jumper,35,28
+4:18,Air Force,Lavelle Scottie,Defensive Rebound,35,28
+4:05,Air Force,A.J. Walker,Layup,35,30
+3:45,Nevada,Cody Martin,Missed Three Point Jumper,35,30
+3:45,Nevada,Jordan Caroline,Offensive Rebound,35,30
+3:43,Air Force,Caleb Morris,Foul,35,30
+3:42,Air Force,None,None,35,30
+3:42,Nevada,Jordan Caroline,Free Throw,36,30
+3:42,Nevada,Jordan Caroline,Free Throw,37,30
+3:30,Air Force,Caleb Morris,Three Point Jumper,37,33
+3:30,Nevada,Jazz Johnson,Foul,37,33
+3:30,Air Force,Caleb Morris,Free Throw,37,34
+3:12,Air Force,Keaton Van Soelen,Foul,37,34
+3:12,Nevada,Cody Martin,Free Throw,38,34
+3:12,Nevada,Cody Martin,Missed Free Throw,38,34
+3:12,Air Force,Chris Joyce,Defensive Rebound,38,34
+3:03,Air Force,Chris Joyce,Layup,38,36
+2:55,Air Force,Chris Joyce,Foul,38,36
+2:41,Nevada,Caleb Martin,Three Point Jumper,41,36
+2:17,Air Force,Ryan Swan,Missed Jumper,41,36
+2:17,Nevada,Caleb Martin,Defensive Rebound,41,36
+2:10,Nevada,Caleb Martin,Missed Jumper,41,36
+2:10,Air Force,A.J. Walker,Block,41,36
+2:08,Air Force,Lavelle Scottie,Defensive Rebound,41,36
+1:58,Air Force,Ryan Swan,Missed Jumper,41,36
+1:58,Nevada,Cody Martin,Defensive Rebound,41,36
+1:51,Nevada,Cody Martin,Turnover,41,36
+1:51,Air Force,A.J. Walker,Steal,41,36
+1:50,Air Force,None,None,41,36
+1:29,Air Force,A.J. Walker,Missed Three Point Jumper,41,36
+1:29,Nevada,Caleb Martin,Defensive Rebound,41,36
+1:03,Air Force,A.J. Walker,Foul,41,36
+1:03,Nevada,Caleb Martin,Missed Free Throw,41,36
+1:03,Nevada,None,Team Rebound,41,36
+1:03,Nevada,Caleb Martin,Missed Free Throw,41,36
+1:03,Nevada,None,Team Rebound,41,36
+1:03,Nevada,Caleb Martin,Free Throw,42,36
+0:46,Air Force,Lavelle Scottie,Three Point Jumper,42,39
+0:36,Nevada,Jazz Johnson,Three Point Jumper,45,39
+0:05,Air Force,A.J. Walker,Layup,45,41
+0:00,Nevada,Caleb Martin,Missed Jumper,45,41
+0:00,Air Force,Air Force,Defensive Rebound,45,41
+0:00,Air Force,None,None,45,41
+19:33,Air Force,A.J. Walker,Three Point Jumper,45,44
+19:09,Nevada,Tre'Shawn Thurman,Layup,47,44
+18:42,Air Force,Caleb Morris,Three Point Jumper,47,47
+18:19,Nevada,Tre'Shawn Thurman,Jumper,49,47
+18:19,Air Force,Ryan Swan,Foul,49,47
+18:19,Nevada,Tre'Shawn Thurman,Free Throw,50,47
+17:51,Air Force,Caleb Morris,Missed Three Point Jumper,50,47
+17:51,Nevada,Trey Porter,Defensive Rebound,50,47
+17:44,Nevada,Caleb Martin,Dunk,52,47
+17:31,Air Force,Chris Joyce,Layup,52,49
+17:24,Nevada,Caleb Martin,Missed Layup,52,49
+17:24,Nevada,Trey Porter,Offensive Rebound,52,49
+17:21,Air Force,Ryan Swan,Foul,52,49
+17:21,Nevada,Trey Porter,Free Throw,53,49
+17:21,Nevada,Trey Porter,Free Throw,54,49
+17:06,Air Force,Ryan Swan,Turnover,54,49
+16:51,Nevada,Caleb Martin,Three Point Jumper,57,49
+16:30,Air Force,Chris Joyce,Missed Three Point Jumper,57,49
+16:30,Nevada,Tre'Shawn Thurman,Defensive Rebound,57,49
+16:10,Nevada,Jazz Johnson,Jumper,59,49
+15:57,Nevada,Corey Henson,Foul,59,49
+15:57,Air Force,None,None,59,49
+15:55,Air Force,Ryan Swan,Layup,59,51
+15:25,Nevada,Jazz Johnson,Turnover,59,51
+15:23,Air Force,Lavelle Scottie,Steal,59,51
+15:20,Air Force,Chris Joyce,Dunk,59,53
+15:00,Nevada,Jazz Johnson,Missed Jumper,59,53
+15:00,Air Force,Ryan Swan,Defensive Rebound,59,53
+14:37,Air Force,Lavelle Scottie,Jumper,59,55
+14:21,Nevada,Trey Porter,Missed Jumper,59,55
+14:21,Air Force,Ryan Swan,Block,59,55
+14:19,Air Force,Lavelle Scottie,Defensive Rebound,59,55
+14:12,Nevada,Tre'Shawn Thurman,Foul,59,55
+13:56,Air Force,A.J. Walker,Missed Three Point Jumper,59,55
+13:56,Nevada,Jazz Johnson,Defensive Rebound,59,55
+13:49,Nevada,Jazz Johnson,Three Point Jumper,62,55
+13:31,Nevada,Cody Martin,Foul,62,55
+13:25,Air Force,Sid Tomes,Turnover,62,55
+13:24,Nevada,Jordan Caroline,Steal,62,55
+13:22,Nevada,Cody Martin,Layup,64,55
+13:22,Air Force,Sid Tomes,Foul,64,55
+13:20,Nevada,Cody Martin,Missed Free Throw,64,55
+13:20,Air Force,Lavelle Scottie,Defensive Rebound,64,55
+13:07,Air Force,Lavelle Scottie,Turnover,64,55
+12:47,Nevada,Jazz Johnson,Three Point Jumper,67,55
+12:46,Nevada,None,None,67,55
+12:46,Air Force,None,None,67,55
+12:24,Air Force,Ryan Swan,Missed Layup,67,55
+12:24,Nevada,Caleb Martin,Defensive Rebound,67,55
+12:12,Nevada,Trey Porter,Layup,69,55
+12:01,Air Force,Lavelle Scottie,Missed Three Point Jumper,69,55
+12:01,Nevada,Trey Porter,Defensive Rebound,69,55
+11:52,Nevada,Caleb Martin,Dunk,71,55
+11:19,Nevada,Trey Porter,Foul,71,55
+11:19,Air Force,None,None,71,55
+11:19,Air Force,A.J. Walker,Free Throw,71,56
+11:19,Air Force,A.J. Walker,Free Throw,71,57
+11:00,Nevada,Cody Martin,Missed Three Point Jumper,71,57
+11:00,Air Force,Lavelle Scottie,Defensive Rebound,71,57
+10:32,Air Force,Caleb Morris,Missed Jumper,71,57
+10:32,Nevada,Jazz Johnson,Defensive Rebound,71,57
+10:09,Air Force,Caleb Morris,Foul,71,57
+10:03,Nevada,Caleb Martin,Missed Three Point Jumper,71,57
+10:03,Nevada,Nevada,Offensive Rebound,71,57
+9:58,Air Force,A.J. Walker,Foul,71,57
+9:39,Air Force,Ameka Akaya,Foul,71,57
+9:39,Nevada,Jazz Johnson,Free Throw,72,57
+9:39,Nevada,Jazz Johnson,Missed Free Throw,72,57
+9:39,Air Force,Lavelle Scottie,Defensive Rebound,72,57
+9:25,Air Force,Ameka Akaya,Missed Layup,72,57
+9:25,Nevada,Cody Martin,Block,72,57
+9:23,Nevada,Tre'Shawn Thurman,Defensive Rebound,72,57
+9:20,Nevada,Jazz Johnson,Three Point Jumper,75,57
+9:02,Air Force,A.J. Walker,Jumper,75,59
+9:02,Nevada,Cody Martin,Foul,75,59
+9:02,Air Force,A.J. Walker,Free Throw,75,60
+8:52,Nevada,Jazz Johnson,Missed Three Point Jumper,75,60
+8:52,Air Force,LeSean Brown,Defensive Rebound,75,60
+8:33,Nevada,Caleb Martin,Foul,75,60
+8:30,Air Force,Caleb Morris,Missed Three Point Jumper,75,60
+8:30,Air Force,Air Force,Offensive Rebound,75,60
+8:11,Air Force,Lavelle Scottie,Turnover,75,60
+8:03,Nevada,Jordan Caroline,Missed Jumper,75,60
+8:03,Nevada,Jordan Caroline,Offensive Rebound,75,60
+7:58,Air Force,Lavelle Scottie,Foul,75,60
+7:57,Air Force,None,None,75,60
+7:57,Nevada,Jordan Caroline,Free Throw,76,60
+7:57,Nevada,Jordan Caroline,Free Throw,77,60
+7:45,Air Force,Chris Joyce,Turnover,77,60
+7:32,Nevada,Jordan Caroline,Missed Layup,77,60
+7:32,Air Force,Ryan Swan,Block,77,60
+7:31,Nevada,Jordan Caroline,Offensive Rebound,77,60
+7:30,Nevada,Jordan Caroline,Missed Layup,77,60
+7:30,Air Force,Ryan Swan,Defensive Rebound,77,60
+7:23,Air Force,Caleb Morris,Layup,77,62
+7:04,Nevada,Cody Martin,Jumper,79,62
+6:44,Air Force,Ryan Swan,Three Point Jumper,79,65
+6:42,Nevada,Jordan Caroline,Foul,79,65
+6:42,Air Force,Ryan Swan,Missed Free Throw,79,65
+6:42,Nevada,Jordan Caroline,Defensive Rebound,79,65
+6:18,Nevada,Jazz Johnson,Jumper,81,65
+5:58,Air Force,Lavelle Scottie,Missed Jumper,81,65
+5:58,Nevada,Tre'Shawn Thurman,Block,81,65
+5:56,Nevada,Tre'Shawn Thurman,Defensive Rebound,81,65
+5:40,Nevada,Caleb Martin,Missed Three Point Jumper,81,65
+5:40,Air Force,Caleb Morris,Defensive Rebound,81,65
+5:20,Air Force,Ryan Swan,Three Point Jumper,81,68
+5:00,Nevada,Jordan Caroline,Layup,83,68
+4:44,Air Force,Lavelle Scottie,Turnover,83,68
+4:41,Nevada,Cody Martin,Steal,83,68
+4:37,Nevada,Jazz Johnson,Missed Three Point Jumper,83,68
+4:37,Air Force,Lavelle Scottie,Defensive Rebound,83,68
+4:36,Nevada,Cody Martin,Foul,83,68
+4:36,Air Force,Lavelle Scottie,Missed Free Throw,83,68
+4:36,Nevada,Jordan Caroline,Defensive Rebound,83,68
+4:28,Air Force,Caleb Morris,Foul,83,68
+4:28,Nevada,Jazz Johnson,Missed Free Throw,83,68
+4:28,Air Force,Lavelle Scottie,Defensive Rebound,83,68
+4:27,Nevada,Jordan Caroline,Foul,83,68
+4:27,Air Force,Lavelle Scottie,Free Throw,83,69
+4:27,Air Force,Lavelle Scottie,Free Throw,83,70
+4:21,Nevada,Jordan Caroline,Missed Three Point Jumper,83,70
+4:21,Air Force,Ameka Akaya,Defensive Rebound,83,70
+4:02,Air Force,Ameka Akaya,Missed Three Point Jumper,83,70
+4:02,Air Force,Chris Joyce,Offensive Rebound,83,70
+3:58,Air Force,Chris Joyce,Layup,83,72
+3:32,Nevada,Tre'Shawn Thurman,Jumper,85,72
+3:16,Air Force,Ameka Akaya,Layup,85,74
+2:48,Nevada,Cody Martin,Layup,87,74
+2:24,Air Force,Ryan Swan,Foul,87,74
+2:24,Air Force,Ryan Swan,Turnover,87,74
+2:24,Air Force,None,None,87,74
+1:59,Nevada,Cody Martin,Missed Jumper,87,74
+1:59,Air Force,A.J. Walker,Defensive Rebound,87,74
+1:49,Air Force,Ryan Swan,Three Point Jumper,87,77
+1:49,Air Force,None,None,87,77
+1:26,Nevada,Tre'Shawn Thurman,Jumper,89,77
+1:16,Air Force,A.J. Walker,Turnover,89,77
+1:14,Nevada,Jazz Johnson,Steal,89,77
+1:09,Air Force,Caleb Morris,Foul,89,77
+1:09,Nevada,Jazz Johnson,Missed Free Throw,89,77
+1:09,Nevada,None,Team Rebound,89,77
+1:09,Nevada,Jazz Johnson,Free Throw,90,77
+0:55,Nevada,Tre'Shawn Thurman,Foul,90,77
+0:55,Air Force,Lavelle Scottie,Missed Free Throw,90,77
+0:55,Air Force,None,Team Rebound,90,77
+0:55,Air Force,Lavelle Scottie,Free Throw,90,78
+0:36,Nevada,Caleb Martin,Missed Three Point Jumper,90,78
+0:36,Air Force,A.J. Walker,Defensive Rebound,90,78
+0:22,Nevada,Tre'Shawn Thurman,Foul,90,78
+0:22,Air Force,Pervis Louder,Free Throw,90,79
+0:22,Air Force,Pervis Louder,Missed Free Throw,90,79
+0:22,Nevada,Jordan Caroline,Defensive Rebound,90,79
+0:00,Air Force,None,None,90,79
