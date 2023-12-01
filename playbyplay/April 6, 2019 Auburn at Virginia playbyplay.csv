@@ -1,0 +1,271 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Auburn,None,None,0,0
+19:27,Auburn,Auburn ,Turnover,0,0
+19:08,Virginia,Kyle Guy,Missed Jumper,0,0
+19:08,Auburn,Malik Dunbar,Defensive Rebound,0,0
+18:49,Auburn,Jared Harper,Missed Three Point Jumper,0,0
+18:49,Virginia,Kyle Guy,Defensive Rebound,0,0
+18:28,Virginia,Mamadi Diakite,Layup,0,2
+18:13,Auburn,Bryce Brown,Missed Jumper,0,2
+18:13,Virginia,Ty Jerome,Defensive Rebound,0,2
+17:59,Auburn,Malik Dunbar,Foul,0,2
+17:59,Virginia,Ty Jerome,Missed Free Throw,0,2
+17:59,Virginia,None,Team Rebound,0,2
+17:59,Virginia,Ty Jerome,Free Throw,0,3
+17:43,Auburn,Anfernee McLemore,Missed Three Point Jumper,0,3
+17:43,Auburn,Danjel Purifoy,Offensive Rebound,0,3
+17:40,Auburn,Danjel Purifoy,Jumper,2,3
+17:22,Virginia,Kihei Clark,Layup,2,5
+16:55,Auburn,Anfernee McLemore,Dunk,4,5
+16:33,Virginia,De'Andre Hunter,Missed Jumper,4,5
+16:33,Auburn,Anfernee McLemore,Defensive Rebound,4,5
+16:25,Auburn,Jared Harper,Turnover,4,5
+16:25,Auburn,Jared Harper,Foul,4,5
+16:11,Virginia,Kyle Guy,Three Point Jumper,4,8
+15:55,Auburn,Bryce Brown,Three Point Jumper,7,8
+15:31,Virginia,Kyle Guy,Missed Three Point Jumper,7,8
+15:31,Auburn,Samir Doughty,Defensive Rebound,7,8
+15:09,Auburn,Bryce Brown,Missed Three Point Jumper,7,8
+15:09,Virginia,Ty Jerome,Defensive Rebound,7,8
+14:49,Virginia,Ty Jerome,Missed Jumper,7,8
+14:49,Auburn,Bryce Brown,Defensive Rebound,7,8
+14:43,Auburn,Samir Doughty,Missed Three Point Jumper,7,8
+14:43,Auburn,Horace Spencer,Offensive Rebound,7,8
+14:37,Virginia,None,None,7,8
+14:23,Auburn,Samir Doughty,Layup,9,8
+14:05,Auburn,Horace Spencer,Foul,9,8
+13:45,Virginia,Ty Jerome,Layup,9,10
+13:30,Virginia,Jack Salt,Foul,9,10
+13:30,Auburn,Samir Doughty,Free Throw,10,10
+13:30,Auburn,Samir Doughty,Free Throw,11,10
+13:04,Virginia,De'Andre Hunter,Missed Jumper,11,10
+13:04,Auburn,Samir Doughty,Defensive Rebound,11,10
+12:59,Virginia,Jack Salt,Foul,11,10
+12:40,Auburn,Austin Wiley,Jumper,13,10
+12:11,Virginia,Kihei Clark,Missed Jumper,13,10
+12:11,Virginia,Mamadi Diakite,Offensive Rebound,13,10
+11:55,Virginia,Mamadi Diakite,Missed Jumper,13,10
+11:55,Auburn,Danjel Purifoy,Defensive Rebound,13,10
+11:48,Auburn,Danjel Purifoy,Missed Three Point Jumper,13,10
+11:48,Virginia,Braxton Key,Defensive Rebound,13,10
+11:32,Virginia,Kihei Clark,Missed Layup,13,10
+11:32,Auburn,Austin Wiley,Defensive Rebound,13,10
+11:26,Auburn,Jared Harper,Turnover,13,10
+11:20,Virginia,Kyle Guy,Layup,13,12
+11:05,Auburn,J'Von McCormick,Foul,13,12
+11:05,Auburn,J'Von McCormick,Turnover,13,12
+11:05,Virginia,None,None,13,12
+11:05,Virginia,Kyle Guy,Turnover,13,12
+11:05,Virginia,Kyle Guy,Foul,13,12
+11:01,Auburn,Austin Wiley,Missed Jumper,13,12
+11:01,Virginia,Ty Jerome,Defensive Rebound,13,12
+10:49,Virginia,Ty Jerome,Layup,13,14
+10:49,Auburn,Malik Dunbar,Foul,13,14
+10:49,Virginia,Ty Jerome,Missed Free Throw,13,14
+10:49,Auburn,Samir Doughty,Defensive Rebound,13,14
+10:32,Auburn,Jared Harper,Missed Three Point Jumper,13,14
+10:32,Virginia,Mamadi Diakite,Defensive Rebound,13,14
+10:16,Virginia,De'Andre Hunter,Jumper,13,16
+9:59,Auburn,Danjel Purifoy,Missed Three Point Jumper,13,16
+9:59,Virginia,Mamadi Diakite,Defensive Rebound,13,16
+9:43,Virginia,De'Andre Hunter,Missed Jumper,13,16
+9:43,Auburn,Anfernee McLemore,Defensive Rebound,13,16
+9:30,Auburn,J'Von McCormick,Missed Layup,13,16
+9:30,Virginia,Braxton Key,Block,13,16
+9:30,Auburn,Auburn,Offensive Rebound,13,16
+9:14,Auburn,J'Von McCormick,Missed Three Point Jumper,13,16
+9:14,Auburn,Danjel Purifoy,Offensive Rebound,13,16
+9:08,Auburn,Bryce Brown,Missed Three Point Jumper,13,16
+9:08,Virginia,Braxton Key,Defensive Rebound,13,16
+8:37,Virginia,Ty Jerome,Jumper,13,18
+8:18,Auburn,Anfernee McLemore,Dunk,15,18
+8:01,Virginia,Mamadi Diakite,Missed Three Point Jumper,15,18
+8:01,Auburn,Samir Doughty,Defensive Rebound,15,18
+7:52,Auburn,J'Von McCormick,Layup,17,18
+7:31,Virginia,Braxton Key,Dunk,17,20
+7:08,Auburn,Samir Doughty,Missed Three Point Jumper,17,20
+7:08,Virginia,Mamadi Diakite,Defensive Rebound,17,20
+7:03,Virginia,None,None,17,20
+6:45,Virginia,De'Andre Hunter,Layup,17,22
+6:28,Auburn,Samir Doughty,Three Point Jumper,20,22
+6:02,Virginia,Ty Jerome,Missed Three Point Jumper,20,22
+6:02,Auburn,Bryce Brown,Defensive Rebound,20,22
+5:40,Virginia,De'Andre Hunter,Foul,20,22
+5:40,Auburn,Danjel Purifoy,Free Throw,21,22
+5:40,Auburn,Danjel Purifoy,Free Throw,22,22
+5:28,Virginia,Mamadi Diakite,Turnover,22,22
+5:15,Auburn,Samir Doughty,Missed Layup,22,22
+5:15,Virginia,Mamadi Diakite,Block,22,22
+5:15,Virginia,Kyle Guy,Defensive Rebound,22,22
+4:43,Virginia,Virginia ,Turnover,22,22
+4:16,Auburn,Jared Harper,Layup,24,22
+3:52,Virginia,Ty Jerome,Missed Three Point Jumper,24,22
+3:52,Virginia,De'Andre Hunter,Offensive Rebound,24,22
+3:48,Virginia,Ty Jerome,Three Point Jumper,24,25
+3:26,Auburn,Samir Doughty,Missed Layup,24,25
+3:26,Auburn,Anfernee McLemore,Offensive Rebound,24,25
+2:56,Auburn,Horace Spencer,Jumper,26,25
+2:34,Virginia,Kyle Guy,Missed Three Point Jumper,26,25
+2:34,Auburn,Anfernee McLemore,Defensive Rebound,26,25
+2:03,Auburn,Samir Doughty,Missed Layup,26,25
+2:03,Virginia,De'Andre Hunter,Block,26,25
+2:03,Virginia,Ty Jerome,Defensive Rebound,26,25
+1:40,Virginia,Kyle Guy,Missed Jumper,26,25
+1:40,Auburn,Anfernee McLemore,Defensive Rebound,26,25
+1:31,Auburn,Jared Harper,Layup,28,25
+1:10,Virginia,Ty Jerome,Missed Jumper,28,25
+1:10,Virginia,Kihei Clark,Offensive Rebound,28,25
+1:05,Virginia,Ty Jerome,Three Point Jumper,28,28
+0:40,Auburn,Anfernee McLemore,Three Point Jumper,31,28
+0:13,Virginia,De'Andre Hunter,Missed Three Point Jumper,31,28
+0:13,Auburn,Anfernee McLemore,Defensive Rebound,31,28
+0:01,Auburn,Jared Harper,Missed Three Point Jumper,31,28
+0:01,Virginia,Mamadi Diakite,Block,31,28
+0:01,Auburn,Jared Harper,Offensive Rebound,31,28
+0:00,Virginia,None,None,31,28
+20:00,Virginia,None,None,31,28
+19:46,Virginia,De'Andre Hunter,Dunk,31,30
+19:24,Auburn,Malik Dunbar,Missed Three Point Jumper,31,30
+19:24,Virginia,Ty Jerome,Defensive Rebound,31,30
+19:07,Auburn,Anfernee McLemore,Foul,31,30
+19:07,Virginia,De'Andre Hunter,Missed Free Throw,31,30
+19:07,Virginia,None,Team Rebound,31,30
+19:07,Virginia,De'Andre Hunter,Missed Free Throw,31,30
+19:07,Auburn,Anfernee McLemore,Defensive Rebound,31,30
+18:45,Auburn,Malik Dunbar,Missed Three Point Jumper,31,30
+18:45,Virginia,Mamadi Diakite,Defensive Rebound,31,30
+18:28,Virginia,De'Andre Hunter,Jumper,31,32
+18:01,Auburn,Bryce Brown,Missed Dunk,31,32
+18:01,Virginia,De'Andre Hunter,Block,31,32
+18:01,Virginia,Ty Jerome,Defensive Rebound,31,32
+17:41,Virginia,Ty Jerome,Missed Three Point Jumper,31,32
+17:41,Auburn,Anfernee McLemore,Defensive Rebound,31,32
+17:34,Auburn,Jared Harper,Turnover,31,32
+17:34,Virginia,Kihei Clark,Steal,31,32
+17:30,Virginia,Kihei Clark,Layup,31,34
+16:59,Auburn,Danjel Purifoy,Missed Three Point Jumper,31,34
+16:59,Auburn,Malik Dunbar,Offensive Rebound,31,34
+16:52,Auburn,Malik Dunbar,Missed Layup,31,34
+16:52,Virginia,Mamadi Diakite,Block,31,34
+16:52,Virginia,Kihei Clark,Defensive Rebound,31,34
+16:30,Virginia,De'Andre Hunter,Turnover,31,34
+16:30,Auburn,Anfernee McLemore,Steal,31,34
+16:17,Auburn,Malik Dunbar,Missed Three Point Jumper,31,34
+16:17,Virginia,De'Andre Hunter,Defensive Rebound,31,34
+15:53,Virginia,Mamadi Diakite,Missed Three Point Jumper,31,34
+15:53,Auburn,Anfernee McLemore,Defensive Rebound,31,34
+15:29,Auburn,Bryce Brown,Missed Three Point Jumper,31,34
+15:29,Virginia,Ty Jerome,Defensive Rebound,31,34
+15:04,Virginia,Ty Jerome,Turnover,31,34
+15:04,Auburn,Danjel Purifoy,Steal,31,34
+14:38,Auburn,Jared Harper,Missed Layup,31,34
+14:38,Virginia,Ty Jerome,Defensive Rebound,31,34
+14:28,Auburn,Anfernee McLemore,Foul,31,34
+14:28,Virginia,None,None,31,34
+14:28,Virginia,Kihei Clark,Free Throw,31,35
+14:28,Virginia,Kihei Clark,Free Throw,31,36
+14:15,Auburn,Jared Harper,Three Point Jumper,34,36
+13:47,Virginia,Ty Jerome,Turnover,34,36
+13:47,Auburn,Horace Spencer,Steal,34,36
+13:41,Auburn,Samir Doughty,Layup,36,36
+13:28,Virginia,Kyle Guy,Missed Three Point Jumper,36,36
+13:28,Virginia,De'Andre Hunter,Offensive Rebound,36,36
+13:21,Virginia,De'Andre Hunter,Layup,36,38
+13:04,Auburn,Samir Doughty,Missed Three Point Jumper,36,38
+13:04,Virginia,Jack Salt,Defensive Rebound,36,38
+12:39,Virginia,De'Andre Hunter,Layup,36,40
+12:27,Virginia,Ty Jerome,Foul,36,40
+12:27,Auburn,J'Von McCormick,Free Throw,37,40
+12:27,Auburn,J'Von McCormick,Free Throw,38,40
+12:09,Virginia,Kyle Guy,Layup,38,42
+11:49,Auburn,J'Von McCormick,Jumper,40,42
+11:25,Virginia,Kyle Guy,Jumper,40,44
+10:57,Auburn,Danjel Purifoy,Missed Layup,40,44
+10:57,Virginia,Mamadi Diakite,Block,40,44
+10:57,Virginia,De'Andre Hunter,Defensive Rebound,40,44
+10:39,Auburn,Danjel Purifoy,Foul,40,44
+10:39,Virginia,None,None,40,44
+10:19,Virginia,Jack Salt,Missed Jumper,40,44
+10:19,Auburn,Austin Wiley,Block,40,44
+10:19,Auburn,Auburn,Defensive Rebound,40,44
+9:53,Auburn,Samir Doughty,Three Point Jumper,43,44
+9:31,Virginia,Kihei Clark,Three Point Jumper,43,47
+9:14,Auburn,Bryce Brown,Missed Three Point Jumper,43,47
+9:14,Virginia,Mamadi Diakite,Defensive Rebound,43,47
+8:54,Virginia,Ty Jerome,Three Point Jumper,43,50
+8:26,Auburn,Danjel Purifoy,Missed Three Point Jumper,43,50
+8:26,Virginia,Jack Salt,Defensive Rebound,43,50
+7:52,Virginia,Kihei Clark,Missed Layup,43,50
+7:52,Auburn,Austin Wiley,Block,43,50
+7:52,Virginia,Virginia,Offensive Rebound,43,50
+7:52,Virginia,None,None,43,50
+7:51,Virginia,Virginia ,Turnover,43,50
+7:43,Virginia,Ty Jerome,Foul,43,50
+7:43,Auburn,Danjel Purifoy,Missed Free Throw,43,50
+7:43,Auburn,None,Team Rebound,43,50
+7:43,Auburn,Danjel Purifoy,Free Throw,44,50
+7:30,Virginia,Kyle Guy,Missed Three Point Jumper,44,50
+7:30,Auburn,Anfernee McLemore,Defensive Rebound,44,50
+7:22,Auburn,Jared Harper,Three Point Jumper,47,50
+6:46,Virginia,Ty Jerome,Jumper,47,52
+6:20,Auburn,Jared Harper,Missed Three Point Jumper,47,52
+6:20,Virginia,Virginia,Defensive Rebound,47,52
+6:16,Virginia,None,None,47,52
+6:00,Virginia,De'Andre Hunter,Layup,47,54
+5:42,Auburn,J'Von McCormick,Missed Layup,47,54
+5:42,Virginia,Ty Jerome,Block,47,54
+5:42,Virginia,Kyle Guy,Defensive Rebound,47,54
+5:24,Virginia,Ty Jerome,Three Point Jumper,47,57
+5:14,Auburn,None,None,47,57
+5:03,Virginia,Ty Jerome,Foul,47,57
+5:03,Auburn,Samir Doughty,Missed Free Throw,47,57
+5:03,Auburn,None,Team Rebound,47,57
+5:03,Auburn,Samir Doughty,Free Throw,48,57
+4:36,Virginia,Ty Jerome,Missed Jumper,48,57
+4:36,Auburn,Anfernee McLemore,Defensive Rebound,48,57
+4:32,Virginia,Ty Jerome,Foul,48,57
+4:24,Auburn,Bryce Brown,Three Point Jumper,51,57
+3:46,Virginia,De'Andre Hunter,Turnover,51,57
+3:45,Virginia,None,None,51,57
+3:34,Auburn,Bryce Brown,Missed Three Point Jumper,51,57
+3:34,Auburn,Samir Doughty,Offensive Rebound,51,57
+3:29,Auburn,Bryce Brown,Three Point Jumper,54,57
+3:04,Virginia,Kihei Clark,Missed Layup,54,57
+3:04,Auburn,Anfernee McLemore,Block,54,57
+3:04,Auburn,Danjel Purifoy,Defensive Rebound,54,57
+2:55,Auburn,Jared Harper,Missed Layup,54,57
+2:55,Virginia,Mamadi Diakite,Block,54,57
+2:55,Auburn,Auburn,Offensive Rebound,54,57
+2:46,Auburn,Danjel Purifoy,Jumper,56,57
+2:17,Auburn,Anfernee McLemore,Foul,56,57
+2:17,Virginia,Mamadi Diakite,Missed Free Throw,56,57
+2:17,Virginia,None,Team Rebound,56,57
+2:17,Virginia,Mamadi Diakite,Missed Free Throw,56,57
+2:17,Auburn,Anfernee McLemore,Defensive Rebound,56,57
+1:57,Auburn,Bryce Brown,Three Point Jumper,59,57
+1:29,Virginia,Ty Jerome,Missed Three Point Jumper,59,57
+1:29,Auburn,Danjel Purifoy,Defensive Rebound,59,57
+1:05,Auburn,Bryce Brown,Missed Three Point Jumper,59,57
+1:05,Virginia,De'Andre Hunter,Defensive Rebound,59,57
+0:33,Virginia,Ty Jerome,Missed Three Point Jumper,59,57
+0:33,Auburn,Bryce Brown,Defensive Rebound,59,57
+0:20,Auburn,None,None,59,57
+0:19,Virginia,Braxton Key,Foul,59,57
+0:18,Virginia,Kihei Clark,Foul,59,57
+0:17,Virginia,Mamadi Diakite,Foul,59,57
+0:17,Auburn,Anfernee McLemore,Free Throw,60,57
+0:17,Auburn,Anfernee McLemore,Free Throw,61,57
+0:09,Virginia,Kyle Guy,Three Point Jumper,61,60
+0:07,Virginia,Kihei Clark,Foul,61,60
+0:07,Auburn,Jared Harper,Free Throw,62,60
+0:07,Auburn,Jared Harper,Missed Free Throw,62,60
+0:07,Virginia,Ty Jerome,Defensive Rebound,62,60
+0:05,Auburn,Samir Doughty,Foul,62,60
+0:02,Auburn,Bryce Brown,Foul,62,60
+0:02,Virginia,None,None,62,60
+0:01,Auburn,Samir Doughty,Foul,62,60
+0:01,Virginia,Kyle Guy,Free Throw,62,61
+0:01,Virginia,Kyle Guy,Free Throw,62,62
+0:01,Auburn,None,None,62,62
+0:01,Virginia,Kyle Guy,Free Throw,62,63
+0:00,Virginia,None,None,62,63

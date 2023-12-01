@@ -7,12 +7,15 @@ from game import Game
 
 def main():
 	#getTeamWebsites()
-	teamWebsiteList = loadTeamWebsites()
+	#teamWebsiteList = loadTeamWebsites()
 	#print(teamWebsiteList)
-	teamScheduleList = loadGameLinks(teamWebsiteList)
+	#teamScheduleList = loadGameLinks(teamWebsiteList)
+	#teamScheduleList = loadSchedules()
+	#print(teamScheduleList)
 	#saveGameLinks(teamScheduleList)
+
 	gameLinks = openGameLinksFromFile()
-	gameList = readGames(gameLinks)
+	readGames(gameLinks)
 
 
 
@@ -20,16 +23,15 @@ def main():
 def readGames(gameLinks):
 	#Game("401083394")
 	i = 0
-	for gameID in gameLinks[4800:]:
+	for gameID in gameLinks:
 		i+=1
 		print(i)
 		Game(gameID.split("\n")[0])
-	return True
 
 
 
 def openGameLinksFromFile():
-	text_file = open("gameLinks.txt", "r")
+	text_file = open("gameLinks_rest.txt", "r")
 	lines = text_file.readlines()
 	text_file.close()
 	return lines
@@ -46,11 +48,12 @@ def saveGameLinks(teamScheduleList):
 			gameLink = game.find_all("a")[0]
 			link = str(gameLink['href']).split("=")[1]
 			if(link not in links):
+				print(link)
 				links.append(link)
 		i += 1
 		print(i)
 
-	with open('gameLinks.txt', 'w') as f:
+	with open('gameLink1.txt', 'w') as f:
 	    for l in links:
 	        f.write("%s\n" % l)
 
@@ -68,6 +71,14 @@ def loadGameLinks(teamWebsiteList):
 		teamScheduleList.append(scheduleUrl)
 	return teamScheduleList
 
+
+
+def loadSchedules():
+	text_file = open("teamSchedules.txt", "r")
+	lines = text_file.readlines()
+	lines = [x.split("\n")[0] for x in lines]
+	text_file.close()
+	return lines
 
 
 def loadTeamWebsites():

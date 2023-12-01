@@ -1,0 +1,283 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Houston,None,None,0,0
+19:39,Houston,Armoni Brooks,Three Point Jumper,3,0
+19:19,Kentucky,Tyler Herro,Jumper,3,2
+18:58,Houston,Galen Robinson Jr.,Turnover,3,2
+18:48,Kentucky,Keldon Johnson,Jumper,3,4
+18:17,Houston,Galen Robinson Jr.,Missed Jumper,3,4
+18:17,Kentucky,EJ Montgomery,Defensive Rebound,3,4
+18:08,Kentucky,Ashton Hagans,Turnover,3,4
+18:08,Houston,Armoni Brooks,Steal,3,4
+18:03,Houston,Galen Robinson Jr.,Layup,5,4
+17:48,Houston,Fabian White Jr.,Foul,5,4
+17:41,Kentucky,Keldon Johnson,Missed Three Point Jumper,5,4
+17:41,Kentucky,EJ Montgomery,Offensive Rebound,5,4
+17:27,Kentucky,Keldon Johnson,Missed Three Point Jumper,5,4
+17:27,Houston,Galen Robinson Jr.,Defensive Rebound,5,4
+17:23,Kentucky,Ashton Hagans,Foul,5,4
+17:10,Houston,Breaon Brady,Missed Jumper,5,4
+17:10,Kentucky,EJ Montgomery,Block,5,4
+17:10,Kentucky,Ashton Hagans,Defensive Rebound,5,4
+17:04,Kentucky,Reid Travis,Dunk,5,6
+16:37,Houston,Galen Robinson Jr.,Layup,7,6
+16:09,Houston,Breaon Brady,Foul,7,6
+15:51,Kentucky,Tyler Herro,Missed Three Point Jumper,7,6
+15:51,Kentucky,Keldon Johnson,Offensive Rebound,7,6
+15:41,Houston,Armoni Brooks,Foul,7,6
+15:41,Kentucky,None,None,7,6
+15:35,Kentucky,Tyler Herro,Turnover,7,6
+15:35,Houston,Galen Robinson Jr.,Steal,7,6
+15:30,Houston,Armoni Brooks,Missed Three Point Jumper,7,6
+15:30,Kentucky,Tyler Herro,Defensive Rebound,7,6
+15:07,Kentucky,PJ Washington,Jumper,7,8
+14:41,Kentucky,Tyler Herro,Foul,7,8
+14:41,Houston,Corey Davis Jr.,Free Throw,8,8
+14:41,Houston,Corey Davis Jr.,Missed Free Throw,8,8
+14:41,Kentucky,Reid Travis,Defensive Rebound,8,8
+14:13,Kentucky,Immanuel Quickley,Missed Jumper,8,8
+14:13,Houston,Corey Davis Jr.,Defensive Rebound,8,8
+14:00,Houston,Corey Davis Jr.,Missed Three Point Jumper,8,8
+14:00,Kentucky,Immanuel Quickley,Defensive Rebound,8,8
+13:47,Kentucky,Reid Travis,Missed Jumper,8,8
+13:47,Kentucky,Reid Travis,Offensive Rebound,8,8
+13:47,Kentucky,PJ Washington,Turnover,8,8
+13:47,Kentucky,PJ Washington,Foul,8,8
+13:33,Houston,Armoni Brooks,Jumper,10,8
+13:13,Kentucky,Keldon Johnson,Jumper,10,10
+12:54,Houston,Galen Robinson Jr.,Missed Layup,10,10
+12:54,Kentucky,Keldon Johnson,Defensive Rebound,10,10
+12:36,Kentucky,Ashton Hagans,Turnover,10,10
+12:36,Houston,Armoni Brooks,Steal,10,10
+12:08,Houston,Armoni Brooks,Missed Three Point Jumper,10,10
+12:08,Kentucky,Ashton Hagans,Defensive Rebound,10,10
+11:42,Houston,Corey Davis Jr.,Foul,10,10
+11:42,Kentucky,None,None,10,10
+11:25,Kentucky,Ashton Hagans,Missed Three Point Jumper,10,10
+11:25,Houston,Fabian White Jr.,Foul,10,10
+11:25,Kentucky,None,Team Rebound,10,10
+11:04,Kentucky,Tyler Herro,Missed Jumper,10,10
+11:04,Houston,Brison Gresham,Defensive Rebound,10,10
+10:50,Houston,Dejon Jarreau,Turnover,10,10
+10:50,Kentucky,Tyler Herro,Steal,10,10
+10:43,Kentucky,Ashton Hagans,Layup,10,12
+10:41,Kentucky,Ashton Hagans,Foul,10,12
+10:31,Kentucky,Immanuel Quickley,Foul,10,12
+10:31,Houston,Dejon Jarreau,Free Throw,11,12
+10:31,Houston,Dejon Jarreau,Free Throw,12,12
+10:09,Houston,Brison Gresham,Foul,12,12
+9:56,Houston,Brison Gresham,Foul,12,12
+9:56,Kentucky,Reid Travis,Free Throw,12,13
+9:56,Kentucky,Reid Travis,Free Throw,12,14
+9:35,Houston,Nate Hinton,Missed Jumper,12,14
+9:35,Kentucky,Reid Travis,Defensive Rebound,12,14
+9:26,Kentucky,PJ Washington,Dunk,12,16
+9:23,Houston,None,None,12,16
+9:16,Houston,Cedrick Alley Jr.,Turnover,12,16
+9:16,Kentucky,Immanuel Quickley,Steal,12,16
+8:54,Kentucky,Immanuel Quickley,Three Point Jumper,12,19
+8:39,Houston,Dejon Jarreau,Jumper,14,19
+8:17,Kentucky,PJ Washington,Jumper,14,21
+7:56,Houston,Dejon Jarreau,Missed Three Point Jumper,14,21
+7:56,Kentucky,Kentucky,Defensive Rebound,14,21
+7:48,Kentucky,None,None,14,21
+7:37,Houston,Breaon Brady,Foul,14,21
+7:37,Kentucky,Reid Travis,Missed Free Throw,14,21
+7:37,Houston,Galen Robinson Jr.,Defensive Rebound,14,21
+7:12,Houston,Galen Robinson Jr.,Layup,16,21
+6:40,Kentucky,Reid Travis,Turnover,16,21
+6:40,Houston,Corey Davis Jr.,Steal,16,21
+6:25,Houston,Chris Harris Jr.,Turnover,16,21
+6:25,Kentucky,Keldon Johnson,Steal,16,21
+6:20,Kentucky,Tyler Herro,Layup,16,23
+6:00,Houston,Galen Robinson Jr.,Jumper,18,23
+5:47,Kentucky,Tyler Herro,Missed Jumper,18,23
+5:47,Houston,Nate Hinton,Defensive Rebound,18,23
+5:40,Houston,Nate Hinton,Layup,20,23
+5:17,Houston,Nate Hinton,Foul,20,23
+5:17,Kentucky,PJ Washington,Free Throw,20,24
+5:17,Kentucky,PJ Washington,Free Throw,20,25
+4:57,Houston,Nate Hinton,Missed Jumper,20,25
+4:57,Kentucky,Reid Travis,Defensive Rebound,20,25
+4:34,Kentucky,Keldon Johnson,Three Point Jumper,20,28
+4:16,Houston,Galen Robinson Jr.,Missed Jumper,20,28
+4:16,Houston,Galen Robinson Jr.,Offensive Rebound,20,28
+4:08,Houston,Corey Davis Jr.,Missed Jumper,20,28
+4:08,Kentucky,EJ Montgomery,Defensive Rebound,20,28
+3:43,Kentucky,Tyler Herro,Jumper,20,30
+3:43,Houston,None,None,20,30
+3:32,Kentucky,EJ Montgomery,Foul,20,30
+3:32,Houston,Corey Davis Jr.,Free Throw,21,30
+3:32,Houston,Corey Davis Jr.,Free Throw,22,30
+3:16,Kentucky,Jemarl Baker Jr.,Missed Jumper,22,30
+3:16,Houston,Dejon Jarreau,Defensive Rebound,22,30
+3:07,Houston,Corey Davis Jr.,Jumper,24,30
+3:05,Kentucky,None,None,24,30
+2:39,Kentucky,Keldon Johnson,Missed Jumper,24,30
+2:39,Houston,Chris Harris Jr.,Block,24,30
+2:39,Kentucky,Reid Travis,Offensive Rebound,24,30
+2:35,Kentucky,Kentucky ,Turnover,24,30
+2:23,Houston,Galen Robinson Jr.,Missed Jumper,24,30
+2:23,Kentucky,Immanuel Quickley,Defensive Rebound,24,30
+2:07,Houston,Dejon Jarreau,Foul,24,30
+2:07,Kentucky,Tyler Herro,Free Throw,24,31
+2:07,Kentucky,Tyler Herro,Free Throw,24,32
+1:55,Houston,Corey Davis Jr.,Missed Three Point Jumper,24,32
+1:55,Kentucky,Tyler Herro,Defensive Rebound,24,32
+1:31,Kentucky,Immanuel Quickley,Three Point Jumper,24,35
+1:05,Houston,Corey Davis Jr.,Turnover,24,35
+1:05,Kentucky,EJ Montgomery,Steal,24,35
+0:41,Kentucky,Tyler Herro,Missed Jumper,24,35
+0:41,Kentucky,EJ Montgomery,Offensive Rebound,24,35
+0:31,Kentucky,EJ Montgomery,Layup,24,37
+0:06,Houston,Dejon Jarreau,Jumper,26,37
+0:00,Kentucky,None,None,26,37
+20:00,Kentucky,None,None,26,37
+19:37,Kentucky,Tyler Herro,Jumper,26,39
+19:22,Houston,Corey Davis Jr.,Missed Three Point Jumper,26,39
+19:22,Kentucky,Reid Travis,Defensive Rebound,26,39
+19:11,Kentucky,Keldon Johnson,Missed Three Point Jumper,26,39
+19:11,Kentucky,EJ Montgomery,Offensive Rebound,26,39
+18:36,Kentucky,Reid Travis,Turnover,26,39
+18:36,Houston,Breaon Brady,Steal,26,39
+18:17,Houston,Armoni Brooks,Missed Jumper,26,39
+18:17,Kentucky,None,Team Rebound,26,39
+18:15,Houston,Fabian White Jr.,Foul,26,39
+18:07,Kentucky,Tyler Herro,Missed Jumper,26,39
+18:07,Houston,Fabian White Jr.,Defensive Rebound,26,39
+17:55,Kentucky,Ashton Hagans,Foul,26,39
+17:55,Houston,Galen Robinson Jr.,Free Throw,27,39
+17:55,Houston,Galen Robinson Jr.,Free Throw,28,39
+17:39,Kentucky,PJ Washington,Turnover,28,39
+17:39,Houston,Corey Davis Jr.,Steal,28,39
+17:33,Houston,Armoni Brooks,Three Point Jumper,31,39
+17:09,Kentucky,PJ Washington,Dunk,31,41
+16:44,Houston,Breaon Brady,Turnover,31,41
+16:26,Houston,Galen Robinson Jr.,Foul,31,41
+16:09,Kentucky,Immanuel Quickley,Missed Jumper,31,41
+16:09,Houston,Fabian White Jr.,Defensive Rebound,31,41
+16:05,Kentucky,Reid Travis,Foul,31,41
+15:46,Houston,Galen Robinson Jr.,Turnover,31,41
+15:46,Kentucky,None,None,31,41
+15:29,Kentucky,Keldon Johnson,Missed Jumper,31,41
+15:29,Houston,Nate Hinton,Defensive Rebound,31,41
+15:23,Houston,Corey Davis Jr.,Three Point Jumper,34,41
+15:02,Kentucky,Keldon Johnson,Missed Jumper,34,41
+15:02,Kentucky,Reid Travis,Offensive Rebound,34,41
+14:46,Kentucky,Tyler Herro,Jumper,34,43
+14:17,Houston,Fabian White Jr.,Missed Jumper,34,43
+14:17,Kentucky,Keldon Johnson,Defensive Rebound,34,43
+13:57,Kentucky,Reid Travis,Foul,34,43
+13:57,Kentucky,Reid Travis,Turnover,34,43
+13:43,Houston,Corey Davis Jr.,Jumper,36,43
+13:25,Kentucky,Tyler Herro,Missed Three Point Jumper,36,43
+13:25,Houston,Houston,Defensive Rebound,36,43
+13:06,Houston,Corey Davis Jr.,Missed Three Point Jumper,36,43
+13:06,Houston,Nate Hinton,Offensive Rebound,36,43
+12:53,Houston,Corey Davis Jr.,Missed Jumper,36,43
+12:53,Houston,Chris Harris Jr.,Offensive Rebound,36,43
+12:35,Houston,Fabian White Jr.,Jumper,38,43
+12:34,Kentucky,None,None,38,43
+12:16,Kentucky,Nick Richards,Missed Jumper,38,43
+12:16,Kentucky,Keldon Johnson,Offensive Rebound,38,43
+11:57,Kentucky,Keldon Johnson,Missed Layup,38,43
+11:57,Kentucky,Nick Richards,Offensive Rebound,38,43
+11:51,Kentucky,Nick Richards,Layup,38,45
+11:37,Kentucky,None,None,38,45
+11:34,Houston,Corey Davis Jr.,Missed Jumper,38,45
+11:34,Kentucky,Keldon Johnson,Defensive Rebound,38,45
+11:31,Houston,Brison Gresham,Foul,38,45
+11:16,Kentucky,Keldon Johnson,Missed Jumper,38,45
+11:16,Houston,Fabian White Jr.,Defensive Rebound,38,45
+11:13,Kentucky,Keldon Johnson,Foul,38,45
+11:02,Houston,Fabian White Jr.,Missed Jumper,38,45
+11:02,Houston,Brison Gresham,Offensive Rebound,38,45
+10:55,Houston,Armoni Brooks,Three Point Jumper,41,45
+10:37,Houston,Brison Gresham,Foul,41,45
+10:31,Kentucky,Ashton Hagans,Turnover,41,45
+10:10,Houston,Galen Robinson Jr.,Missed Jumper,41,45
+10:10,Kentucky,Reid Travis,Defensive Rebound,41,45
+10:02,Houston,Galen Robinson Jr.,Foul,41,45
+9:41,Kentucky,PJ Washington,Turnover,41,45
+9:22,Houston,Fabian White Jr.,Missed Jumper,41,45
+9:22,Houston,Armoni Brooks,Offensive Rebound,41,45
+9:16,Houston,Corey Davis Jr.,Missed Three Point Jumper,41,45
+9:16,Kentucky,Reid Travis,Defensive Rebound,41,45
+9:03,Kentucky,Tyler Herro,Jumper,41,47
+8:37,Houston,Galen Robinson Jr.,Missed Layup,41,47
+8:37,Kentucky,PJ Washington,Defensive Rebound,41,47
+8:09,Kentucky,Ashton Hagans,Turnover,41,47
+7:54,Houston,Fabian White Jr.,Missed Jumper,41,47
+7:54,Kentucky,Reid Travis,Defensive Rebound,41,47
+7:34,Kentucky,PJ Washington,Missed Jumper,41,47
+7:34,Kentucky,Reid Travis,Offensive Rebound,41,47
+7:24,Houston,Nate Hinton,Foul,41,47
+7:24,Kentucky,None,None,41,47
+7:22,Houston,Dejon Jarreau,Foul,41,47
+7:22,Kentucky,Tyler Herro,Missed Free Throw,41,47
+7:22,Houston,Armoni Brooks,Defensive Rebound,41,47
+7:07,Kentucky,Reid Travis,Foul,41,47
+7:07,Houston,Dejon Jarreau,Free Throw,42,47
+7:07,Houston,Dejon Jarreau,Missed Free Throw,42,47
+7:07,Kentucky,Keldon Johnson,Defensive Rebound,42,47
+6:49,Houston,Chris Harris Jr.,Foul,42,47
+6:49,Kentucky,PJ Washington,Missed Free Throw,42,47
+6:49,Kentucky,None,Team Rebound,42,47
+6:49,Kentucky,PJ Washington,Missed Free Throw,42,47
+6:49,Houston,Dejon Jarreau,Defensive Rebound,42,47
+6:28,Houston,Armoni Brooks,Missed Three Point Jumper,42,47
+6:28,Houston,Fabian White Jr.,Offensive Rebound,42,47
+6:16,Houston,None,None,42,47
+6:01,Houston,None,None,42,47
+5:56,Houston,Armoni Brooks,Three Point Jumper,45,47
+5:33,Kentucky,Tyler Herro,Foul,45,47
+5:33,Kentucky,Tyler Herro,Turnover,45,47
+5:16,Kentucky,PJ Washington,Foul,45,47
+5:16,Houston,Fabian White Jr.,Missed Free Throw,45,47
+5:16,Houston,None,Team Rebound,45,47
+5:16,Houston,Fabian White Jr.,Free Throw,46,47
+5:01,Kentucky,PJ Washington,Jumper,46,49
+4:38,Houston,Corey Davis Jr.,Missed Three Point Jumper,46,49
+4:38,Houston,Chris Harris Jr.,Offensive Rebound,46,49
+4:30,Houston,Armoni Brooks,Missed Three Point Jumper,46,49
+4:30,Houston,Houston,Offensive Rebound,46,49
+4:23,Houston,Armoni Brooks,Three Point Jumper,49,49
+4:07,Kentucky,Keldon Johnson,Missed Three Point Jumper,49,49
+4:07,Houston,Corey Davis Jr.,Defensive Rebound,49,49
+3:38,Houston,Corey Davis Jr.,Jumper,51,49
+3:25,Houston,Fabian White Jr.,Foul,51,49
+3:25,Kentucky,PJ Washington,Free Throw,51,50
+3:25,Kentucky,PJ Washington,Free Throw,51,51
+3:12,Houston,Armoni Brooks,Three Point Jumper,54,51
+2:52,Kentucky,Immanuel Quickley,Missed Three Point Jumper,54,51
+2:52,Kentucky,Kentucky,Offensive Rebound,54,51
+2:52,Houston,Brison Gresham,Foul,54,51
+2:52,Kentucky,Reid Travis,Free Throw,54,52
+2:52,Kentucky,Reid Travis,Free Throw,54,53
+2:39,Houston,Armoni Brooks,Missed Three Point Jumper,54,53
+2:39,Kentucky,Keldon Johnson,Defensive Rebound,54,53
+2:23,Kentucky,PJ Washington,Missed Jumper,54,53
+2:08,Houston,Chris Harris Jr.,Foul,54,53
+2:08,Kentucky,Ashton Hagans,Free Throw,54,54
+2:08,Kentucky,Ashton Hagans,Free Throw,54,55
+1:50,Houston,Dejon Jarreau,Layup,56,55
+1:30,Kentucky,Reid Travis,Turnover,56,55
+1:16,Houston,Corey Davis Jr.,Jumper,58,55
+1:05,Kentucky,None,None,58,55
+0:56,Kentucky,PJ Washington,Jumper,58,57
+0:56,Houston,Fabian White Jr.,Foul,58,57
+0:56,Kentucky,PJ Washington,Missed Free Throw,58,57
+0:56,Houston,Dejon Jarreau,Defensive Rebound,58,57
+0:36,Houston,Corey Davis Jr.,Missed Jumper,58,57
+0:36,Kentucky,PJ Washington,Block,58,57
+0:36,Kentucky,Tyler Herro,Defensive Rebound,58,57
+0:25,Kentucky,Tyler Herro,Three Point Jumper,58,60
+0:25,Houston,None,None,58,60
+0:25,Kentucky,None,None,58,60
+0:18,Houston,Corey Davis Jr.,Missed Jumper,58,60
+0:18,Kentucky,Ashton Hagans,Defensive Rebound,58,60
+0:14,Houston,Dejon Jarreau,Foul,58,60
+0:14,Kentucky,Tyler Herro,Free Throw,58,61
+0:14,Kentucky,Tyler Herro,Free Throw,58,62
+0:08,Houston,Armoni Brooks,Missed Three Point Jumper,58,62
+0:08,Kentucky,PJ Washington,Defensive Rebound,58,62
+0:00,Kentucky,None,None,58,62

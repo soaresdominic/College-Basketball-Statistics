@@ -1,0 +1,311 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,TCU,None,None,0,0
+19:46,TCU,Alex Robinson,Missed Jumper,0,0
+19:46,Creighton,Martin Krampelj,Defensive Rebound,0,0
+19:37,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,0,0
+19:37,TCU,Alex Robinson,Defensive Rebound,0,0
+19:14,Creighton,Mitch Ballock,Foul,0,0
+19:14,TCU,JD Miller,Free Throw,0,1
+19:14,TCU,JD Miller,Free Throw,0,2
+19:03,Creighton,Marcus Zegarowski,Turnover,0,2
+18:44,TCU,JD Miller,Missed Three Point Jumper,0,2
+18:44,Creighton,Marcus Zegarowski,Defensive Rebound,0,2
+18:35,Creighton,Mitch Ballock,Missed Three Point Jumper,0,2
+18:35,TCU,Kouat Noi,Defensive Rebound,0,2
+18:20,TCU,JD Miller,Turnover,0,2
+18:20,Creighton,Ty-Shon Alexander,Steal,0,2
+18:15,TCU,Desmond Bane,Foul,0,2
+18:15,Creighton,Davion Mintz,Free Throw,1,2
+18:15,Creighton,Davion Mintz,Free Throw,2,2
+18:08,TCU,Desmond Bane,Jumper,2,4
+17:53,Creighton,Ty-Shon Alexander,Layup,4,4
+17:46,TCU,Alex Robinson,Turnover,4,4
+17:46,Creighton,Marcus Zegarowski,Steal,4,4
+17:31,Creighton,Martin Krampelj,Missed Layup,4,4
+17:31,TCU,Kevin Samuel,Defensive Rebound,4,4
+17:22,TCU,Kouat Noi,Missed Three Point Jumper,4,4
+17:22,TCU,JD Miller,Offensive Rebound,4,4
+17:04,TCU,Kouat Noi,Turnover,4,4
+16:53,Creighton,Davion Mintz,Missed Three Point Jumper,4,4
+16:53,TCU,Alex Robinson,Defensive Rebound,4,4
+16:34,TCU,JD Miller,Missed Jumper,4,4
+16:34,Creighton,Martin Krampelj,Defensive Rebound,4,4
+16:21,TCU,Kevin Samuel,Foul,4,4
+16:21,Creighton,Martin Krampelj,Missed Free Throw,4,4
+16:21,Creighton,None,Team Rebound,4,4
+16:21,Creighton,Martin Krampelj,Missed Free Throw,4,4
+16:21,TCU,Alex Robinson,Defensive Rebound,4,4
+16:09,TCU,Kevin Samuel,Missed Jumper,4,4
+16:09,Creighton,Martin Krampelj,Defensive Rebound,4,4
+16:00,Creighton,Martin Krampelj,Turnover,4,4
+16:00,TCU,Alex Robinson,Steal,4,4
+15:55,TCU,Alex Robinson,Missed Jumper,4,4
+15:55,Creighton,Martin Krampelj,Defensive Rebound,4,4
+15:48,Creighton,Davion Mintz,Layup,6,4
+15:27,Creighton,Marcus Zegarowski,Foul,6,4
+15:27,TCU,None,None,6,4
+15:21,TCU,Kouat Noi,Layup,6,6
+14:56,TCU,Alex Robinson,Foul,6,6
+14:56,Creighton,Ty-Shon Alexander,Free Throw,7,6
+14:56,Creighton,Ty-Shon Alexander,Free Throw,8,6
+14:42,TCU,Kevin Samuel,Missed Jumper,8,6
+14:42,Creighton,Ty-Shon Alexander,Defensive Rebound,8,6
+14:24,Creighton,Davion Mintz,Turnover,8,6
+14:24,TCU,Kevin Samuel,Steal,8,6
+14:12,TCU,Kendric Davis,Turnover,8,6
+13:55,Creighton,Marcus Zegarowski,Three Point Jumper,11,6
+13:36,TCU,Kouat Noi,Three Point Jumper,11,9
+13:27,Creighton,Marcus Zegarowski,Missed Layup,11,9
+13:27,TCU,Kevin Samuel,Block,11,9
+13:27,TCU,Kendric Davis,Defensive Rebound,11,9
+13:22,TCU,RJ Nembhard,Dunk,11,11
+13:05,Creighton,Christian Bishop,Dunk,13,11
+12:39,TCU,RJ Nembhard,Missed Three Point Jumper,13,11
+12:39,Creighton,Connor Cashaw,Defensive Rebound,13,11
+12:30,Creighton,Ty-Shon Alexander,Three Point Jumper,16,11
+12:25,TCU,None,None,16,11
+12:00,TCU,Kouat Noi,Layup,16,13
+12:00,Creighton,Kaleb Joseph,Foul,16,13
+12:00,TCU,Kouat Noi,Missed Free Throw,16,13
+12:00,Creighton,Mitch Ballock,Defensive Rebound,16,13
+11:50,Creighton,Martin Krampelj,Dunk,18,13
+11:29,TCU,JD Miller,Missed Jumper,18,13
+11:29,Creighton,Kaleb Joseph,Defensive Rebound,18,13
+11:10,Creighton,Davion Mintz,Missed Layup,18,13
+11:10,TCU,Alex Robinson,Defensive Rebound,18,13
+11:00,TCU,Kouat Noi,Missed Three Point Jumper,18,13
+11:00,Creighton,Connor Cashaw,Defensive Rebound,18,13
+10:50,Creighton,Martin Krampelj,Jumper,20,13
+10:28,TCU,RJ Nembhard,Three Point Jumper,20,16
+9:52,Creighton,Davion Mintz,Missed Three Point Jumper,20,16
+9:52,Creighton,Creighton,Offensive Rebound,20,16
+9:47,Creighton,Creighton ,Turnover,20,16
+9:34,TCU,Kendric Davis,Jumper,20,18
+9:23,Creighton,Martin Krampelj,Three Point Jumper,23,18
+9:01,TCU,Kendric Davis,Missed Layup,23,18
+9:01,Creighton,Kaleb Joseph,Block,23,18
+9:01,Creighton,Martin Krampelj,Defensive Rebound,23,18
+8:44,Creighton,Martin Krampelj,Turnover,23,18
+8:32,TCU,Desmond Bane,Missed Three Point Jumper,23,18
+8:32,Creighton,Christian Bishop,Defensive Rebound,23,18
+8:15,Creighton,Ty-Shon Alexander,Turnover,23,18
+8:15,TCU,Kendric Davis,Steal,23,18
+8:10,TCU,Kendric Davis,Missed Jumper,23,18
+8:10,TCU,Desmond Bane,Offensive Rebound,23,18
+8:10,TCU,None,None,23,18
+8:10,Creighton,Mitch Ballock,Defensive Rebound,23,18
+8:01,Creighton,Christian Bishop,Turnover,23,18
+7:58,TCU,RJ Nembhard,Missed Three Point Jumper,23,18
+7:58,TCU,Kouat Noi,Offensive Rebound,23,18
+7:38,TCU,RJ Nembhard,Turnover,23,18
+7:38,TCU,None,None,23,18
+7:25,Creighton,Davion Mintz,Layup,25,18
+7:05,TCU,Kouat Noi,Three Point Jumper,25,21
+6:41,Creighton,Christian Bishop,Layup,27,21
+6:24,TCU,Kouat Noi,Three Point Jumper,27,24
+5:58,Creighton,Mitch Ballock,Turnover,27,24
+5:34,TCU,Alex Robinson,Layup,27,26
+5:19,TCU,Desmond Bane,Foul,27,26
+5:19,Creighton,Christian Bishop,Missed Free Throw,27,26
+5:19,Creighton,None,Team Rebound,27,26
+5:19,Creighton,Christian Bishop,Missed Free Throw,27,26
+5:19,Creighton,Kaleb Joseph,Offensive Rebound,27,26
+5:18,Creighton,Marcus Zegarowski,Three Point Jumper,30,26
+4:51,TCU,JD Miller,Turnover,30,26
+4:20,Creighton,Creighton ,Turnover,30,26
+3:59,TCU,JD Miller,Layup,30,28
+3:45,Creighton,Ty-Shon Alexander,Turnover,30,28
+3:45,TCU,None,None,30,28
+3:39,TCU,Kouat Noi,Foul,30,28
+3:39,TCU,Kouat Noi,Turnover,30,28
+3:18,Creighton,Kaleb Joseph,Missed Jumper,30,28
+3:18,TCU,Alex Robinson,Defensive Rebound,30,28
+3:06,TCU,RJ Nembhard,Missed Layup,30,28
+3:06,Creighton,Martin Krampelj,Block,30,28
+3:06,Creighton,Creighton,Defensive Rebound,30,28
+2:48,Creighton,Marcus Zegarowski,Missed Three Point Jumper,30,28
+2:48,TCU,Kendric Davis,Defensive Rebound,30,28
+2:22,TCU,Kouat Noi,Missed Three Point Jumper,30,28
+2:22,Creighton,Marcus Zegarowski,Defensive Rebound,30,28
+2:08,Creighton,Martin Krampelj,Turnover,30,28
+2:08,TCU,Alex Robinson,Steal,30,28
+1:54,Creighton,Connor Cashaw,Foul,30,28
+1:44,Creighton,Marcus Zegarowski,Foul,30,28
+1:44,TCU,JD Miller,Free Throw,30,29
+1:44,TCU,JD Miller,Free Throw,30,30
+1:30,Creighton,Davion Mintz,Missed Jumper,30,30
+1:30,Creighton,Christian Bishop,Offensive Rebound,30,30
+1:17,Creighton,Davion Mintz,Turnover,30,30
+1:16,TCU,Desmond Bane,Missed Jumper,30,30
+1:16,Creighton,Ty-Shon Alexander,Defensive Rebound,30,30
+1:10,Creighton,Mitch Ballock,Three Point Jumper,33,30
+0:37,TCU,JD Miller,Missed Dunk,33,30
+0:37,Creighton,Christian Bishop,Block,33,30
+0:37,Creighton,Kaleb Joseph,Defensive Rebound,33,30
+0:08,Creighton,Ty-Shon Alexander,Missed Jumper,33,30
+0:08,TCU,Desmond Bane,Defensive Rebound,33,30
+0:00,TCU,None,None,33,30
+20:00,Creighton,None,None,33,30
+19:33,Creighton,Martin Krampelj,Missed Three Point Jumper,33,30
+19:33,TCU,Alex Robinson,Defensive Rebound,33,30
+19:23,TCU,Kouat Noi,Three Point Jumper,33,33
+18:53,Creighton,Marcus Zegarowski,Missed Jumper,33,33
+18:53,TCU,Kouat Noi,Defensive Rebound,33,33
+18:37,Creighton,Ty-Shon Alexander,Foul,33,33
+18:37,TCU,Kouat Noi,Free Throw,33,34
+18:37,TCU,Kouat Noi,Free Throw,33,35
+18:37,TCU,Kouat Noi,Free Throw,33,36
+18:34,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,33,36
+18:34,TCU,Kouat Noi,Defensive Rebound,33,36
+18:23,TCU,Desmond Bane,Missed Layup,33,36
+18:23,TCU,Kevin Samuel,Offensive Rebound,33,36
+18:20,TCU,Kevin Samuel,Dunk,33,38
+18:00,Creighton,Marcus Zegarowski,Turnover,33,38
+17:50,TCU,JD Miller,Dunk,33,40
+17:42,Creighton,None,None,33,40
+17:18,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,33,40
+17:18,Creighton,Mitch Ballock,Offensive Rebound,33,40
+17:07,Creighton,Davion Mintz,Missed Three Point Jumper,33,40
+17:07,TCU,JD Miller,Defensive Rebound,33,40
+16:53,TCU,Desmond Bane,Layup,33,42
+16:47,Creighton,Martin Krampelj,Missed Three Point Jumper,33,42
+16:47,TCU,Alex Robinson,Defensive Rebound,33,42
+16:36,Creighton,Ty-Shon Alexander,Foul,33,42
+16:36,TCU,Kevin Samuel,Missed Free Throw,33,42
+16:36,TCU,None,Team Rebound,33,42
+16:36,TCU,Kevin Samuel,Free Throw,33,43
+16:20,Creighton,Marcus Zegarowski,Missed Jumper,33,43
+16:20,TCU,JD Miller,Defensive Rebound,33,43
+16:08,TCU,Kouat Noi,Three Point Jumper,33,46
+16:01,Creighton,Mitch Ballock,Three Point Jumper,36,46
+15:43,Creighton,Christian Bishop,Foul,36,46
+15:43,TCU,None,None,36,46
+15:43,TCU,JD Miller,Free Throw,36,47
+15:43,TCU,JD Miller,Missed Free Throw,36,47
+15:43,Creighton,Ty-Shon Alexander,Defensive Rebound,36,47
+15:27,Creighton,Marcus Zegarowski,Missed Three Point Jumper,36,47
+15:27,TCU,JD Miller,Defensive Rebound,36,47
+15:16,TCU,JD Miller,Missed Three Point Jumper,36,47
+15:16,TCU,Kevin Samuel,Offensive Rebound,36,47
+14:53,TCU,JD Miller,Layup,36,49
+14:44,Creighton,Christian Bishop,Dunk,38,49
+14:19,TCU,Kevin Samuel,Turnover,38,49
+14:19,TCU,Kevin Samuel,Foul,38,49
+14:07,Creighton,Ty-Shon Alexander,Three Point Jumper,41,49
+13:42,TCU,Alex Robinson,Missed Three Point Jumper,41,49
+13:42,Creighton,Christian Bishop,Defensive Rebound,41,49
+13:34,Creighton,Marcus Zegarowski,Missed Three Point Jumper,41,49
+13:34,Creighton,Ty-Shon Alexander,Offensive Rebound,41,49
+13:18,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,41,49
+13:18,Creighton,Kaleb Joseph,Offensive Rebound,41,49
+13:11,Creighton,Mitch Ballock,Missed Three Point Jumper,41,49
+13:11,TCU,Kouat Noi,Defensive Rebound,41,49
+13:00,TCU,Kouat Noi,Three Point Jumper,41,52
+12:53,TCU,None,None,41,52
+12:30,Creighton,Kaleb Joseph,Turnover,41,52
+12:30,TCU,Kouat Noi,Steal,41,52
+12:09,Creighton,Connor Cashaw,Foul,41,52
+12:09,TCU,RJ Nembhard,Missed Free Throw,41,52
+12:09,TCU,None,Team Rebound,41,52
+12:09,TCU,RJ Nembhard,Free Throw,41,53
+11:51,Creighton,Davion Mintz,Missed Layup,41,53
+11:51,TCU,Kevin Samuel,Block,41,53
+11:51,Creighton,Davion Mintz,Offensive Rebound,41,53
+11:42,Creighton,Connor Cashaw,Missed Jumper,41,53
+11:42,Creighton,Christian Bishop,Offensive Rebound,41,53
+11:37,Creighton,Christian Bishop,Missed Layup,41,53
+11:37,Creighton,Christian Bishop,Offensive Rebound,41,53
+11:37,Creighton,None,None,41,53
+11:37,TCU,RJ Nembhard,Defensive Rebound,41,53
+11:25,TCU,Alex Robinson,Turnover,41,53
+11:25,Creighton,Connor Cashaw,Steal,41,53
+11:06,Creighton,Mitch Ballock,Missed Three Point Jumper,41,53
+11:06,Creighton,Davion Mintz,Offensive Rebound,41,53
+11:01,Creighton,Davion Mintz,Jumper,43,53
+10:38,TCU,JD Miller,Jumper,43,55
+10:18,TCU,None,None,43,55
+10:13,Creighton,Davion Mintz,Turnover,43,55
+10:13,TCU,Kevin Samuel,Steal,43,55
+10:08,Creighton,Marcus Zegarowski,Foul,43,55
+10:08,TCU,Kendric Davis,Free Throw,43,56
+10:08,TCU,Kendric Davis,Free Throw,43,57
+9:47,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,43,57
+9:47,TCU,Alex Robinson,Defensive Rebound,43,57
+9:26,TCU,Alex Robinson,Layup,43,59
+8:58,TCU,Alex Robinson,Foul,43,59
+8:45,Creighton,Samson Froling,Missed Jumper,43,59
+8:45,TCU,Kevin Samuel,Block,43,59
+8:45,TCU,Alex Robinson,Defensive Rebound,43,59
+8:18,TCU,Kouat Noi,Missed Layup,43,59
+8:18,Creighton,Mitch Ballock,Block,43,59
+8:18,TCU,Kouat Noi,Offensive Rebound,43,59
+8:09,TCU,Kendric Davis,Missed Three Point Jumper,43,59
+8:09,Creighton,Samson Froling,Defensive Rebound,43,59
+8:05,Creighton,Mitch Ballock,Layup,45,59
+7:44,TCU,Kouat Noi,Missed Three Point Jumper,45,59
+7:44,TCU,Desmond Bane,Offensive Rebound,45,59
+7:40,TCU,Desmond Bane,Layup,45,61
+7:31,Creighton,Mitch Ballock,Three Point Jumper,48,61
+7:15,Creighton,Mitch Ballock,Foul,48,61
+7:15,TCU,None,None,48,61
+6:59,TCU,Kendric Davis,Missed Jumper,48,61
+6:59,Creighton,Christian Bishop,Defensive Rebound,48,61
+6:49,Creighton,Mitch Ballock,Missed Three Point Jumper,48,61
+6:49,TCU,Desmond Bane,Defensive Rebound,48,61
+6:24,TCU,Alex Robinson,Layup,48,63
+6:10,Creighton,Mitch Ballock,Three Point Jumper,51,63
+5:40,TCU,Kouat Noi,Missed Three Point Jumper,51,63
+5:40,Creighton,Marcus Zegarowski,Defensive Rebound,51,63
+5:30,Creighton,Marcus Zegarowski,Missed Layup,51,63
+5:30,TCU,Kevin Samuel,Block,51,63
+5:30,TCU,Alex Robinson,Defensive Rebound,51,63
+5:20,TCU,Alex Robinson,Turnover,51,63
+5:08,TCU,Kevin Samuel,Foul,51,63
+5:06,TCU,JD Miller,Foul,51,63
+5:03,Creighton,Mitch Ballock,Missed Three Point Jumper,51,63
+5:03,Creighton,Damien Jefferson,Offensive Rebound,51,63
+4:40,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,51,63
+4:40,TCU,Alex Robinson,Defensive Rebound,51,63
+4:08,TCU,Alex Robinson,Layup,51,65
+4:06,Creighton,None,None,51,65
+3:54,Creighton,Mitch Ballock,Missed Three Point Jumper,51,65
+3:54,TCU,RJ Nembhard,Defensive Rebound,51,65
+3:29,TCU,Alex Robinson,Layup,51,67
+3:15,TCU,JD Miller,Foul,51,67
+3:15,Creighton,Christian Bishop,Missed Free Throw,51,67
+3:15,Creighton,None,Team Rebound,51,67
+3:15,Creighton,Christian Bishop,Free Throw,52,67
+2:54,TCU,JD Miller,Missed Layup,52,67
+2:54,Creighton,Ty-Shon Alexander,Block,52,67
+2:54,TCU,TCU,Offensive Rebound,52,67
+2:51,TCU,JD Miller,Dunk,52,69
+2:39,Creighton,Davion Mintz,Missed Jumper,52,69
+2:39,TCU,Desmond Bane,Defensive Rebound,52,69
+2:28,TCU,Alex Robinson,Layup,52,71
+2:17,Creighton,Davion Mintz,Missed Three Point Jumper,52,71
+2:17,TCU,Kouat Noi,Defensive Rebound,52,71
+1:52,TCU,RJ Nembhard,Missed Layup,52,71
+1:52,Creighton,Mitch Ballock,Defensive Rebound,52,71
+1:45,Creighton,Ty-Shon Alexander,Missed Three Point Jumper,52,71
+1:45,TCU,JD Miller,Defensive Rebound,52,71
+1:37,Creighton,Davion Mintz,Foul,52,71
+1:23,TCU,Alex Robinson,Turnover,52,71
+1:23,Creighton,Connor Cashaw,Steal,52,71
+1:18,Creighton,Christian Bishop,Dunk,54,71
+1:05,TCU,Alex Robinson,Turnover,54,71
+1:05,Creighton,Christian Bishop,Steal,54,71
+1:00,TCU,Desmond Bane,Foul,54,71
+1:00,Creighton,Kaleb Joseph,Missed Free Throw,54,71
+1:00,Creighton,None,Team Rebound,54,71
+1:00,Creighton,Kaleb Joseph,Free Throw,55,71
+0:43,TCU,Kouat Noi,Missed Three Point Jumper,55,71
+0:43,Creighton,Creighton,Defensive Rebound,55,71
+0:32,TCU,Kendric Davis,Foul,55,71
+0:32,Creighton,Christian Bishop,Missed Free Throw,55,71
+0:32,Creighton,None,Team Rebound,55,71
+0:32,Creighton,Christian Bishop,Free Throw,56,71
+0:28,TCU,RJ Nembhard,Turnover,56,71
+0:28,Creighton,Connor Cashaw,Steal,56,71
+0:25,Creighton,Connor Cashaw,Jumper,58,71
+0:23,TCU,None,None,58,71
+0:00,TCU,None,None,58,71

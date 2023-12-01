@@ -1,0 +1,354 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Lipscomb,None,None,0,0
+19:40,Lipscomb,Eli Pepper,Turnover,0,0
+19:40,NC State,Wyatt Walker,Steal,0,0
+19:30,NC State,Markell Johnson,Missed Layup,0,0
+19:30,NC State,Markell Johnson,Offensive Rebound,0,0
+19:29,NC State,None,None,0,0
+19:26,Lipscomb,Eli Pepper,Defensive Rebound,0,0
+19:16,Lipscomb,Eli Pepper,Missed Three Point Jumper,0,0
+19:16,NC State,Torin Dorn,Defensive Rebound,0,0
+18:54,NC State,C.J. Bryce,Jumper,0,2
+18:30,Lipscomb,Garrison Mathews,Missed Jumper,0,2
+18:30,Lipscomb,Eli Pepper,Offensive Rebound,0,2
+18:00,Lipscomb,Kenny Cooper,Missed Three Point Jumper,0,2
+18:00,NC State,Braxton Beverly,Defensive Rebound,0,2
+17:55,NC State,Torin Dorn,Jumper,0,4
+17:44,Lipscomb,Garrison Mathews,Three Point Jumper,3,4
+17:36,NC State,C.J. Bryce,Missed Three Point Jumper,3,4
+17:36,Lipscomb,Eli Pepper,Defensive Rebound,3,4
+17:29,Lipscomb,Eli Pepper,Turnover,3,4
+17:29,NC State,Torin Dorn,Steal,3,4
+17:25,NC State,Torin Dorn,Layup,3,6
+17:15,NC State,Markell Johnson,Foul,3,6
+17:15,Lipscomb,Garrison Mathews,Free Throw,4,6
+17:15,Lipscomb,Garrison Mathews,Free Throw,5,6
+17:15,Lipscomb,Garrison Mathews,Free Throw,6,6
+17:03,NC State,Torin Dorn,Layup,6,8
+16:52,Lipscomb,Eli Pepper,Missed Layup,6,8
+16:52,NC State,Wyatt Walker,Block,6,8
+16:52,NC State,Wyatt Walker,Defensive Rebound,6,8
+16:42,NC State,Torin Dorn,Layup,6,10
+16:28,Lipscomb,Garrison Mathews,Three Point Jumper,9,10
+16:15,NC State,Braxton Beverly,Three Point Jumper,9,13
+15:53,Lipscomb,Michael Buckland,Missed Three Point Jumper,9,13
+15:53,NC State,Torin Dorn,Defensive Rebound,9,13
+15:45,NC State,Torin Dorn,Missed Layup,9,13
+15:45,NC State,C.J. Bryce,Offensive Rebound,9,13
+15:45,NC State,None,None,9,13
+15:45,Lipscomb,Eli Pepper,Defensive Rebound,9,13
+15:35,Lipscomb,Garrison Mathews,Layup,11,13
+15:25,NC State,Markell Johnson,Foul,11,13
+15:25,NC State,Markell Johnson,Turnover,11,13
+15:25,NC State,None,None,11,13
+14:58,Lipscomb,Rob Marberry,Jumper,13,13
+14:37,NC State,DJ Funderburk,Jumper,13,15
+14:19,Lipscomb,Rob Marberry,Layup,15,15
+14:07,NC State,Braxton Beverly,Missed Three Point Jumper,15,15
+14:07,Lipscomb,Garrison Mathews,Defensive Rebound,15,15
+13:52,Lipscomb,Matt Rose,Three Point Jumper,18,15
+13:36,NC State,Torin Dorn,Layup,18,17
+13:36,Lipscomb,Nathan Moran,Foul,18,17
+13:36,NC State,Torin Dorn,Free Throw,18,18
+13:15,Lipscomb,Michael Buckland,Missed Layup,18,18
+13:15,NC State,DJ Funderburk,Block,18,18
+13:15,NC State,Blake Harris,Defensive Rebound,18,18
+13:02,Lipscomb,Nathan Moran,Foul,18,18
+12:56,NC State,Torin Dorn,Layup,18,20
+12:40,Lipscomb,Ahsan Asadullah,Layup,20,20
+12:29,NC State,DJ Funderburk,Missed Layup,20,20
+12:29,Lipscomb,Ahsan Asadullah,Block,20,20
+12:29,Lipscomb,Matt Rose,Defensive Rebound,20,20
+12:11,Lipscomb,Michael Buckland,Turnover,20,20
+12:11,NC State,Torin Dorn,Steal,20,20
+12:06,Lipscomb,Michael Buckland,Foul,20,20
+12:06,NC State,Torin Dorn,Free Throw,20,21
+12:06,NC State,Torin Dorn,Free Throw,20,22
+11:37,Lipscomb,Garrison Mathews,Missed Jumper,20,22
+11:37,Lipscomb,Garrison Mathews,Offensive Rebound,20,22
+11:31,Lipscomb,Garrison Mathews,Layup,22,22
+11:27,NC State,None,None,22,22
+11:18,NC State,Devon Daniels,Missed Jumper,22,22
+11:18,Lipscomb,Garrison Mathews,Defensive Rebound,22,22
+11:12,NC State,Blake Harris,Foul,22,22
+11:10,Lipscomb,Garrison Mathews,Three Point Jumper,25,22
+10:50,Lipscomb,Kenny Cooper,Foul,25,22
+10:50,NC State,Wyatt Walker,Free Throw,25,23
+10:50,NC State,Wyatt Walker,Missed Free Throw,25,23
+10:50,Lipscomb,Garrison Mathews,Defensive Rebound,25,23
+10:45,Lipscomb,Rob Marberry,Turnover,25,23
+10:45,NC State,Blake Harris,Steal,25,23
+10:38,NC State,Blake Harris,Dunk,25,25
+10:20,NC State,Jericole Hellems,Foul,25,25
+10:20,Lipscomb,Matt Rose,Free Throw,26,25
+10:20,Lipscomb,Matt Rose,Missed Free Throw,26,25
+10:20,NC State,Wyatt Walker,Defensive Rebound,26,25
+10:11,NC State,Blake Harris,Missed Jumper,26,25
+10:11,Lipscomb,Matt Rose,Defensive Rebound,26,25
+9:58,Lipscomb,Kenny Cooper,Missed Three Point Jumper,26,25
+9:58,NC State,Wyatt Walker,Defensive Rebound,26,25
+9:29,NC State,Devon Daniels,Missed Jumper,26,25
+9:29,Lipscomb,Garrison Mathews,Defensive Rebound,26,25
+9:11,Lipscomb,Rob Marberry,Missed Jumper,26,25
+9:11,NC State,Blake Harris,Defensive Rebound,26,25
+9:03,NC State,Jericole Hellems,Three Point Jumper,26,28
+8:43,Lipscomb,Kenny Cooper,Missed Layup,26,28
+8:43,NC State,Wyatt Walker,Defensive Rebound,26,28
+8:36,NC State,Devon Daniels,Layup,26,30
+8:34,Lipscomb,None,None,26,30
+8:28,Lipscomb,Jake Wolfe,Missed Layup,26,30
+8:28,NC State,Wyatt Walker,Defensive Rebound,26,30
+8:28,NC State,C.J. Bryce,Foul,26,30
+8:22,NC State,C.J. Bryce,Turnover,26,30
+8:05,NC State,Wyatt Walker,Foul,26,30
+8:04,Lipscomb,Andrew Fleming,Turnover,26,30
+7:51,NC State,Braxton Beverly,Missed Three Point Jumper,26,30
+7:51,Lipscomb,Matt Rose,Defensive Rebound,26,30
+7:24,NC State,Jericole Hellems,Foul,26,30
+7:24,NC State,None,None,26,30
+7:24,Lipscomb,Andrew Fleming,Missed Free Throw,26,30
+7:24,Lipscomb,None,Team Rebound,26,30
+7:24,Lipscomb,Andrew Fleming,Free Throw,27,30
+7:11,NC State,DJ Funderburk,Turnover,27,30
+7:11,Lipscomb,Kenny Cooper,Steal,27,30
+7:05,Lipscomb,Jake Wolfe,Missed Layup,27,30
+7:05,NC State,Devon Daniels,Block,27,30
+7:05,NC State,C.J. Bryce,Defensive Rebound,27,30
+6:58,NC State,Braxton Beverly,Missed Layup,27,30
+6:58,Lipscomb,Ahsan Asadullah,Block,27,30
+6:58,Lipscomb,Lipscomb,Defensive Rebound,27,30
+6:46,Lipscomb,Andrew Fleming,Missed Layup,27,30
+6:46,NC State,Braxton Beverly,Defensive Rebound,27,30
+6:38,NC State,Torin Dorn,Layup,27,32
+6:26,Lipscomb,Garrison Mathews,Missed Three Point Jumper,27,32
+6:26,NC State,Braxton Beverly,Defensive Rebound,27,32
+6:17,NC State,C.J. Bryce,Jumper,27,34
+6:04,Lipscomb,Andrew Fleming,Three Point Jumper,30,34
+5:46,NC State,Torin Dorn,Layup,30,36
+5:22,Lipscomb,Andrew Fleming,Missed Three Point Jumper,30,36
+5:22,Lipscomb,Jake Wolfe,Offensive Rebound,30,36
+5:15,Lipscomb,Ahsan Asadullah,Layup,32,36
+4:59,NC State,Braxton Beverly,Missed Jumper,32,36
+4:59,Lipscomb,Kenny Cooper,Defensive Rebound,32,36
+4:52,Lipscomb,Kenny Cooper,Turnover,32,36
+4:52,NC State,C.J. Bryce,Steal,32,36
+4:42,NC State,Devon Daniels,Missed Three Point Jumper,32,36
+4:42,NC State,NC State,Offensive Rebound,32,36
+4:38,NC State,C.J. Bryce,Layup,32,38
+4:07,Lipscomb,Garrison Mathews,Missed Jumper,32,38
+4:07,NC State,C.J. Bryce,Defensive Rebound,32,38
+3:57,NC State,C.J. Bryce,Missed Three Point Jumper,32,38
+3:57,Lipscomb,Michael Buckland,Defensive Rebound,32,38
+3:50,Lipscomb,Garrison Mathews,Three Point Jumper,35,38
+3:29,Lipscomb,Michael Buckland,Foul,35,38
+3:29,NC State,None,None,35,38
+3:29,NC State,Braxton Beverly,Missed Free Throw,35,38
+3:29,NC State,None,Team Rebound,35,38
+3:29,NC State,Braxton Beverly,Missed Free Throw,35,38
+3:29,Lipscomb,Eli Pepper,Defensive Rebound,35,38
+3:13,Lipscomb,Garrison Mathews,Missed Three Point Jumper,35,38
+3:13,NC State,C.J. Bryce,Defensive Rebound,35,38
+3:03,NC State,Torin Dorn,Layup,35,40
+2:43,Lipscomb,Rob Marberry,Missed Jumper,35,40
+2:43,NC State,Braxton Beverly,Defensive Rebound,35,40
+2:23,NC State,C.J. Bryce,Missed Layup,35,40
+2:23,NC State,Torin Dorn,Offensive Rebound,35,40
+2:23,NC State,Torin Dorn,Missed Layup,35,40
+2:23,Lipscomb,Rob Marberry,Block,35,40
+2:23,NC State,Torin Dorn,Offensive Rebound,35,40
+2:17,NC State,None,None,35,40
+2:17,NC State,C.J. Bryce,Layup,35,42
+2:04,Lipscomb,Kenny Cooper,Missed Layup,35,42
+2:04,NC State,DJ Funderburk,Block,35,42
+2:04,Lipscomb,Jake Wolfe,Offensive Rebound,35,42
+1:55,Lipscomb,Rob Marberry,Missed Jumper,35,42
+1:55,NC State,Blake Harris,Defensive Rebound,35,42
+1:45,NC State,Blake Harris,Turnover,35,42
+1:25,Lipscomb,Rob Marberry,Missed Jumper,35,42
+1:25,Lipscomb,Nathan Moran,Offensive Rebound,35,42
+1:17,Lipscomb,Nathan Moran,Jumper,37,42
+0:58,NC State,C.J. Bryce,Jumper,37,44
+0:42,NC State,Blake Harris,Foul,37,44
+0:29,NC State,Eric Lockett,Foul,37,44
+0:29,Lipscomb,Garrison Mathews,Free Throw,38,44
+0:29,Lipscomb,Garrison Mathews,Missed Free Throw,38,44
+0:29,NC State,Blake Harris,Defensive Rebound,38,44
+0:22,NC State,None,None,38,44
+0:02,NC State,Braxton Beverly,Three Point Jumper,38,47
+0:00,NC State,None,None,38,47
+20:00,Lipscomb,None,None,38,47
+19:46,Lipscomb,Eli Pepper,Layup,40,47
+19:24,NC State,Wyatt Walker,Turnover,40,47
+19:24,Lipscomb,Garrison Mathews,Steal,40,47
+19:17,Lipscomb,Eli Pepper,Dunk,42,47
+19:01,NC State,Torin Dorn,Jumper,42,49
+18:32,Lipscomb,Kenny Cooper,Three Point Jumper,45,49
+18:15,NC State,C.J. Bryce,Missed Three Point Jumper,45,49
+18:15,Lipscomb,Kenny Cooper,Defensive Rebound,45,49
+18:05,Lipscomb,Garrison Mathews,Layup,47,49
+17:47,NC State,Markell Johnson,Jumper,47,51
+17:38,Lipscomb,Kenny Cooper,Missed Jumper,47,51
+17:38,NC State,Markell Johnson,Block,47,51
+17:38,Lipscomb,Rob Marberry,Offensive Rebound,47,51
+17:28,Lipscomb,Rob Marberry,Jumper,49,51
+17:13,NC State,Torin Dorn,Jumper,49,53
+16:53,Lipscomb,Eli Pepper,Foul,49,53
+16:53,Lipscomb,Eli Pepper,Turnover,49,53
+16:29,NC State,Devon Daniels,Three Point Jumper,49,56
+16:16,NC State,Devon Daniels,Foul,49,56
+16:13,Lipscomb,Kenny Cooper,Missed Three Point Jumper,49,56
+16:13,NC State,Wyatt Walker,Defensive Rebound,49,56
+16:02,Lipscomb,Garrison Mathews,Foul,49,56
+15:58,NC State,Torin Dorn,Missed Layup,49,56
+15:58,NC State,Torin Dorn,Offensive Rebound,49,56
+15:55,NC State,Torin Dorn,Missed Layup,49,56
+15:55,Lipscomb,Ahsan Asadullah,Block,49,56
+15:55,NC State,NC State,Offensive Rebound,49,56
+15:55,NC State,None,None,49,56
+15:50,NC State,DJ Funderburk,Missed Layup,49,56
+15:50,Lipscomb,Kenny Cooper,Block,49,56
+15:50,Lipscomb,Kenny Cooper,Defensive Rebound,49,56
+15:36,Lipscomb,Garrison Mathews,Three Point Jumper,52,56
+15:22,NC State,Devon Daniels,Missed Three Point Jumper,52,56
+15:22,Lipscomb,Ahsan Asadullah,Defensive Rebound,52,56
+15:20,NC State,DJ Funderburk,Foul,52,56
+15:16,NC State,Braxton Beverly,Foul,52,56
+15:14,Lipscomb,Kenny Cooper,Turnover,52,56
+15:03,NC State,Blake Harris,Turnover,52,56
+15:03,Lipscomb,Ahsan Asadullah,Steal,52,56
+14:46,Lipscomb,Ahsan Asadullah,Missed Layup,52,56
+14:46,NC State,DJ Funderburk,Defensive Rebound,52,56
+14:33,NC State,Braxton Beverly,Foul,52,56
+14:33,NC State,Braxton Beverly,Turnover,52,56
+14:25,Lipscomb,Kenny Cooper,Missed Three Point Jumper,52,56
+14:25,NC State,Torin Dorn,Defensive Rebound,52,56
+14:20,NC State,Torin Dorn,Turnover,52,56
+14:20,Lipscomb,Kenny Cooper,Steal,52,56
+14:12,Lipscomb,Garrison Mathews,Three Point Jumper,55,56
+13:57,NC State,Blake Harris,Turnover,55,56
+13:57,Lipscomb,Garrison Mathews,Steal,55,56
+13:47,Lipscomb,Garrison Mathews,Jumper,57,56
+13:30,Lipscomb,Kenny Cooper,Foul,57,56
+13:23,NC State,Torin Dorn,Layup,57,58
+13:08,Lipscomb,Garrison Mathews,Three Point Jumper,60,58
+12:51,NC State,Devon Daniels,Missed Layup,60,58
+12:51,NC State,DJ Funderburk,Offensive Rebound,60,58
+12:51,NC State,DJ Funderburk,Dunk,60,60
+12:37,Lipscomb,Ahsan Asadullah,Layup,62,60
+12:23,NC State,Devon Daniels,Turnover,62,60
+12:23,Lipscomb,Kenny Cooper,Steal,62,60
+11:52,Lipscomb,Michael Buckland,Three Point Jumper,65,60
+11:39,NC State,DJ Funderburk,Jumper,65,62
+11:17,Lipscomb,Garrison Mathews,Missed Jumper,65,62
+11:17,NC State,C.J. Bryce,Defensive Rebound,65,62
+10:56,NC State,Devon Daniels,Three Point Jumper,65,65
+10:45,NC State,C.J. Bryce,Foul,65,65
+10:45,NC State,None,None,65,65
+10:45,Lipscomb,Garrison Mathews,Missed Free Throw,65,65
+10:45,Lipscomb,None,Team Rebound,65,65
+10:45,Lipscomb,Garrison Mathews,Free Throw,66,65
+10:29,NC State,Devon Daniels,Missed Jumper,66,65
+10:29,Lipscomb,Garrison Mathews,Defensive Rebound,66,65
+10:22,Lipscomb,Garrison Mathews,Missed Three Point Jumper,66,65
+10:22,NC State,Torin Dorn,Defensive Rebound,66,65
+10:02,NC State,Markell Johnson,Three Point Jumper,66,68
+9:40,Lipscomb,Rob Marberry,Layup,68,68
+9:40,NC State,NC State,Foul,68,68
+9:40,Lipscomb,Garrison Mathews,Free Throw,69,68
+9:40,Lipscomb,Garrison Mathews,Free Throw,70,68
+9:25,NC State,Devon Daniels,Missed Three Point Jumper,70,68
+9:25,NC State,Devon Daniels,Offensive Rebound,70,68
+9:18,NC State,Markell Johnson,Three Point Jumper,70,71
+9:01,Lipscomb,Kenny Cooper,Turnover,70,71
+8:55,NC State,Markell Johnson,Three Point Jumper,70,74
+8:35,Lipscomb,Eli Pepper,Missed Three Point Jumper,70,74
+8:32,Lipscomb,Kenny Cooper,Offensive Rebound,70,74
+8:30,Lipscomb,Kenny Cooper,Layup,72,74
+8:28,Lipscomb,None,None,72,74
+8:28,NC State,None,None,72,74
+8:17,Lipscomb,Kenny Cooper,Foul,72,74
+8:17,NC State,Markell Johnson,Free Throw,72,75
+8:17,NC State,Markell Johnson,Free Throw,72,76
+7:55,Lipscomb,Matt Rose,Three Point Jumper,75,76
+7:29,NC State,Torin Dorn,Missed Layup,75,76
+7:29,NC State,Wyatt Walker,Offensive Rebound,75,76
+7:29,NC State,None,None,75,78
+7:21,NC State,None,None,75,78
+7:14,Lipscomb,Garrison Mathews,Layup,77,78
+6:44,NC State,Torin Dorn,Layup,77,80
+6:23,Lipscomb,Garrison Mathews,Missed Three Point Jumper,77,80
+6:23,Lipscomb,Matt Rose,Offensive Rebound,77,80
+6:23,NC State,Wyatt Walker,Foul,77,80
+6:19,Lipscomb,Matt Rose,Missed Three Point Jumper,77,80
+6:19,Lipscomb,Lipscomb,Offensive Rebound,77,80
+6:19,NC State,Devon Daniels,Foul,77,80
+6:15,Lipscomb,Matt Rose,Layup,79,80
+6:01,NC State,Braxton Beverly,Missed Three Point Jumper,79,80
+6:01,Lipscomb,Matt Rose,Block,79,80
+6:01,NC State,Wyatt Walker,Offensive Rebound,79,80
+5:55,NC State,Torin Dorn,Jumper,79,82
+5:39,Lipscomb,Rob Marberry,Missed Layup,79,82
+5:39,NC State,Devon Daniels,Block,79,82
+5:39,NC State,Torin Dorn,Defensive Rebound,79,82
+5:29,NC State,Braxton Beverly,Missed Layup,79,82
+5:29,NC State,Wyatt Walker,Offensive Rebound,79,82
+5:19,NC State,Wyatt Walker,Missed Layup,79,82
+5:19,Lipscomb,Michael Buckland,Defensive Rebound,79,82
+5:13,Lipscomb,Kenny Cooper,Layup,81,82
+4:57,NC State,Devon Daniels,Missed Three Point Jumper,81,82
+4:57,Lipscomb,Garrison Mathews,Defensive Rebound,81,82
+4:48,Lipscomb,Garrison Mathews,Turnover,81,82
+4:48,NC State,Markell Johnson,Steal,81,82
+4:25,NC State,Torin Dorn,Jumper,81,84
+4:17,Lipscomb,Michael Buckland,Turnover,81,84
+4:17,NC State,Markell Johnson,Steal,81,84
+4:13,NC State,Torin Dorn,Missed Layup,81,84
+4:13,NC State,Torin Dorn,Offensive Rebound,81,84
+4:13,NC State,None,None,81,84
+4:13,NC State,Markell Johnson,Offensive Rebound,81,84
+4:04,Lipscomb,Kenny Cooper,Foul,81,84
+4:04,NC State,Markell Johnson,Free Throw,81,85
+4:04,NC State,Markell Johnson,Missed Free Throw,81,85
+4:04,Lipscomb,Matt Rose,Defensive Rebound,81,85
+3:52,Lipscomb,Garrison Mathews,Three Point Jumper,84,85
+3:51,NC State,None,None,84,85
+3:39,Lipscomb,Eli Pepper,Foul,84,85
+3:39,NC State,Torin Dorn,Missed Free Throw,84,85
+3:39,NC State,None,Team Rebound,84,85
+3:39,NC State,Torin Dorn,Free Throw,84,86
+3:21,Lipscomb,Eli Pepper,Missed Layup,84,86
+3:21,NC State,Wyatt Walker,Block,84,86
+3:21,NC State,Wyatt Walker,Defensive Rebound,84,86
+3:06,NC State,Devon Daniels,Layup,84,88
+2:40,Lipscomb,Garrison Mathews,Missed Three Point Jumper,84,88
+2:40,NC State,NC State,Defensive Rebound,84,88
+2:10,NC State,Markell Johnson,Missed Jumper,84,88
+1:53,NC State,Devon Daniels,Offensive Rebound,84,88
+1:53,NC State,Wyatt Walker,Turnover,84,88
+1:53,NC State,Wyatt Walker,Foul,84,88
+1:43,Lipscomb,Garrison Mathews,Missed Jumper,84,88
+1:43,Lipscomb,Ahsan Asadullah,Offensive Rebound,84,88
+1:40,NC State,Torin Dorn,Foul,84,88
+1:40,Lipscomb,Ahsan Asadullah,Free Throw,85,88
+1:40,Lipscomb,Ahsan Asadullah,Free Throw,86,88
+1:36,NC State,None,None,86,88
+1:24,NC State,Markell Johnson,Missed Layup,86,88
+1:24,Lipscomb,Ahsan Asadullah,Block,86,88
+1:24,Lipscomb,Garrison Mathews,Defensive Rebound,86,88
+1:11,Lipscomb,Garrison Mathews,Dunk,88,88
+0:49,NC State,Markell Johnson,Three Point Jumper,88,91
+0:42,NC State,None,None,88,91
+0:35,Lipscomb,None,None,88,91
+0:27,NC State,Wyatt Walker,Foul,88,91
+0:27,Lipscomb,Garrison Mathews,Missed Free Throw,88,91
+0:27,Lipscomb,None,Team Rebound,88,91
+0:27,Lipscomb,Garrison Mathews,Free Throw,89,91
+0:26,Lipscomb,Alex Jones,Foul,89,91
+0:24,NC State,Torin Dorn,Turnover,89,91
+0:24,Lipscomb,Kenny Cooper,Steal,89,91
+0:24,Lipscomb,Kenny Cooper,Three Point Jumper,92,91
+0:15,NC State,None,None,92,91
+0:08,NC State,Markell Johnson,Layup,92,93
+0:04,Lipscomb,Kenny Cooper,Jumper,94,93
+0:02,Lipscomb,None,None,94,93
+0:00,NC State,None,None,94,93

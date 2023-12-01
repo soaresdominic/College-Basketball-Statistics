@@ -1,0 +1,465 @@
+(min 5 attempts)
+Players that shoot perfect after making aat least one: (only jump shots)
+['UCLA - Prince Ali Shot 2 1.0, Shot 1 0.2692307692307692', 1.0]  (5/5)
+['VCU - Marcus Evans Shot 3 1.0, Shot 2 0.5', 1.0]   (5/5)
+
+(min 5 attempts)
+Players that shoot perfect after making at least one: (jump shots and layups)
+['Cleveland State - Tyree Appleby Shot 4 1.0, Shot 3 0.5', 1.0]
+['CSU Bakersfield - James Suber Shot 3 1.0, Shot 2 0.5833333333333334', 1.0]
+['Davidson - KiShawn Pritchett Shot 3 1.0, Shot 2 0.2777777777777778', 1.0]
+['Bethune-Cookman - Soufiyane Diakite Shot 2 1.0, Shot 1 0.4', 1.0]
+['LSU - Skylar Mays Shot 3 1.0, Shot 2 0.47368421052631576', 1.0]
+['Oregon State - Kylor Kelley Shot 2 1.0, Shot 1 0.4166666666666667', 1.0]
+['Nevada - TreShawn Thurman Shot 4 1.0, Shot 3 0.5555555555555556', 1.0]
+['Norfolk State - Alex Long Shot 3 1.0, Shot 2 0.46153846153846156', 1.0]
+['Jacksonville - Jalyn Hinton Shot 2 1.0, Shot 1 0.5625', 1.0]
+['South Carolina Upstate - Brandon Martin Shot 2 1.0, Shot 1 0.28', 1.0]
+['Milwaukee - Vance Johnson Shot 3 1.0, Shot 2 0.35714285714285715', 1.0]
+['New Mexico State - JoJo Zamora Shot 3 1.0, Shot 2 0.45454545454545453', 1.0]
+['South Dakota State - Skyler Flatten Shot 4 1.0, Shot 3 0.4166666666666667', 1.0]
+['UMBC - Sam Schwietz Shot 1 1.0, Shot 0 0.6190476190476191', 1.0]
+['Abilene Christian - Jalone Friday Shot 3 1.0, Shot 2 0.3181818181818182', 1.0]
+['Cincinnati - Tre Scott Shot 3 1.0, Shot 2 0.36', 1.0]
+['Michigan State - Nick Ward Shot 5 1.0, Shot 4 0.8333333333333334', 1.0]
+['East Carolina - Jayden Gardner Shot 4 1.0, Shot 3 0.4666666666666667', 1.0]
+['Florida - Kevarrius Hayes Shot 3 1.0, Shot 2 0.6153846153846154', 1.0]
+['Little Rock - Deondre Burns Shot 3 1.0, Shot 2 0.375', 1.0]
+['Baylor - Freddie Gillespie Shot 2 1.0, Shot 1 0.6666666666666666', 1.0]
+['South Dakota - Matt Johns Shot 1 1.0, Shot 0 0.3333333333333333', 1.0]
+
+##################################################################
+Streakiest shooters ranking: (jummpers and layups)
+
+(min 10 attempts for each shot, and minimum 100 attempts for shot 0)
+total difference of % from previous shots = shot1 % - shot0 % + shot2 % - shot1 %...
+
+top 20 bottom 20 results:
+Lafayette - E.J. Stephens,-42.34234234234234
+Lafayette - E.J. Stephens,"['47/111', '15/38', '0/11', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Furman - Alex Hunter,-40.852130325814535
+Furman - Alex Hunter,"['67/133', '25/59', '2/21', '1/2', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Nicholls - Danny Garrick,-39.557739557739566
+Nicholls - Danny Garrick,"['54/111', '13/47', '1/11', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Central Arkansas - Hayden Koval,-37.177747625508815
+Central Arkansas - Hayden Koval,"['62/134', '25/57', '14/23', '1/11', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Idaho State - Balint Mocsan,-37.11598746081504
+Northern Arizona - Cameron Shelton,-35.072463768115945
+Northern Arizona - Cameron Shelton,"['48/115', '18/43', '1/15', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Presbyterian - Francois Lewis,-33.5978835978836
+Toledo - Willie Jackson,-33.50877192982456
+Boise State - Justinian Jessup,-33.333333333333336
+Arkansas - Mason Jones,-32.37250554323724
+UT Martin - Delfincko Bogan,-31.103896103896105
+Belmont - Grayson Murphy,-30.536130536130536
+Southern Illinois - Kavion Pippen,-30.4442036836403
+Maryland - Darryl Morsell,-30.208333333333332
+Loyola (MD) - Jaylin Andrews,-30.0
+Sam Houston State - Albert Almanza,-29.629629629629633
+Syracuse - Elijah Hughes,-29.2755787901419
+Sam Houston State - Chad Bowie,-29.169840060929168
+James Madison - Matt Lewis,-29.09806728704366
+Texas Tech - Davide Moretti,-28.90625
+
+Rhode Island - Tyrese Martin,26.016260162601622
+Utah State - Neemias Queta,26.270417422867506
+BYU - Zac Seljaas,26.38146167557932
+UNC Greensboro - Kyrin Galloway,26.678876678876684
+Northern Illinois - Eugene German,26.83982683982684
+CSU Northridge - Terrell Gomez,27.248023715415016
+Oakland - Braden Norris,27.48319641523525
+Iowa - Joe Wieskamp,27.565982404692086
+Baylor - Mark Vital,27.619047619047613
+Nevada - TreShawn Thurman,28.437917222963954
+Notre Dame - Nate Laszewski,28.85375494071146
+Cincinnati - Cane Broome,29.251700680272105
+New Orleans - Scott Plaisance Jr.,29.608006672226857
+Army - Matt Wilson,32.532467532467535
+Northern Kentucky - Zaynah Robinson,32.6844262295082
+Stanford - Oscar da Silva,32.814710042432814
+Stanford - Oscar Da Silva,"['12/31', '4/10', '1/3', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Central Arkansas - Thatch Unruh,34.036144578313255
+Central Arkansas - Thatch Unruh,"['68/166', '28/59', '12/24', '9/12', '2/9', '0/2', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Bowling Green - Demajeo Wiggins,35.63725490196078
+Bowling Green - Demajeo Wiggins,"['49/120', '22/42', '13/17', '5/9', '2/3', '1/1', '1/1', '1/1', '0/0', '0/0', '0/0']"
+Villanova - Eric Paschall,36.344537815126046
+Villanova - Eric Paschall,"['92/238', '39/85', '14/39', '9/12', '2/8', '1/2', '0/1', '0/0', '0/0', '0/0', '0/0']"
+Bowling Green - Daeqwon Plowden,40.0
+Bowling Green - Daeqwon Plowden,"['35/100', '15/31', '9/12', '3/8', '1/3', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0']"
+
+
+total difference of % from shot0 = shot1 % - shot0 % + shot2 % - shot0 %...
+Boise State - Justinian Jessup,-62.154415164123904
+Boise State - Justinian Jessup,"['108/216', '38/103', '12/35', '2/12', '1/2', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Nicholls - Danny Garrick,-60.5468137383031
+Nicholls - Danny Garrick,"['54/111', '13/47', '1/11', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Presbyterian - Francois Lewis,-55.41109327626182
+Presbyterian - Francois Lewis,"['95/189', '37/89', '13/35', '2/12', '1/1', '1/1', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Toledo - Willie Jackson,-52.40215924426451
+Toledo - Willie Jackson,"['61/114', '18/52', '3/15', '2/2', '1/2', '1/1', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Furman - Alex Hunter,-48.8551888195064
+Furman - Alex Hunter,"['67/133', '25/59', '2/21', '1/2', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Kansas - Devon Dotson,-45.35509685802033
+Lafayette - E.J. Stephens,-45.21100047415837
+Vermont - Anthony Lamb,-44.57314457314456
+Jacksonville State - Ty Hudson,-43.88111888111888
+Manhattan - Tyler Reynolds,-43.03348986305992
+UC Santa Barbara - ArMond Davis,-42.13568935427574
+Loyola (MD) - Jaylin Andrews,-41.782945736434115
+Marist - Darius Hines,-41.778499278499275
+Illinois - Ayo Dosunmu,-40.790040087169416
+Butler - Kamar Baldwin,-40.22110910479894
+Texas Tech - Davide Moretti,-39.73193267419962
+American - Stacy Beckton Jr.,-39.25840978593273
+Butler - Jordan Tucker,-39.23240938166312
+UT Martin - Delfincko Bogan,-39.05032467532468
+Nicholls - Jeremiah Jefferson,-38.787878787878796
+
+Seton Hall - Quincy McKnight,39.096976083277454
+South Alabama - Josh Ajayi,39.33329828066669
+Stanford - Oscar da Silva,39.362138978874846
+Northern Kentucky - Zaynah Robinson,39.86209570225964
+Eastern Michigan - Elijah Minnie,39.92694213728948
+La Salle - Pookie Powell,39.95427881297445
+Villanova - Eric Paschall,40.81340228399051
+Louisville - Christen Cunningham,41.005119330881826
+UNC Greensboro - Kyrin Galloway,41.849816849816854
+Fairleigh Dickinson - Darnell Edge,42.67399267399268
+Stetson - Kenny Aninye,43.3993399339934
+Iowa - Joe Wieskamp,47.1481636642927
+Bowling Green - Demajeo Wiggins,47.18487394957983
+Bowling Green - Demajeo Wiggins,"['49/120', '22/42', '13/17', '5/9', '2/3', '1/1', '1/1', '1/1', '0/0', '0/0', '0/0']"
+Central Arkansas - Thatch Unruh,49.566060853583835
+Central Arkansas - Thatch Unruh,"['68/166', '28/59', '12/24', '9/12', '2/9', '0/2', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Northern Illinois - Eugene German,52.14454576156704
+Northern Illinois - Eugene German,"['106/231', '50/99', '26/47', '12/21', '8/11', '3/6', '1/3', '0/0', '0/0', '0/0', '0/0']"
+Bowling Green - Daeqwon Plowden,53.38709677419355
+Bowling Green - Daeqwon Plowden,"['35/100', '15/31', '9/12', '3/8', '1/3', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Missouri State - Tulio Da Silva,58.33496189173343
+Missouri State - Tulio Da Silva,"['50/119', '24/43', '13/21', '8/12', '3/7', '3/3', '2/3', '1/2', '0/0', '0/0', '0/0']"
+Tulsa - DaQuan Jeffries,59.16713463511493
+Tulsa - DaQuan Jeffries,"['56/145', '30/49', '16/27', '6/11', '3/5', '2/3', '0/2', '0/0', '0/0', '0/0', '0/0']"
+Army - Matt Wilson,69.78184336393292
+Army - Matt Wilson,"['69/140', '47/67', '21/39', '11/18', '9/11', '6/9', '3/5', '2/3', '1/1', '1/1', '1/1']"
+Indiana - Juwan Morgan,71.82595928005965
+Indiana - Juwan Morgan,"['81/172', '42/76', '21/37', '15/19', '9/13', '7/9', '4/5', '3/4', '2/2', '1/2', '0/1']"
+
+
+
+Streakiest shooters ranking: (jummpers only)
+(min 10 attempts for each shot, and minimum 100 attempts for shot 0)
+total difference of % from previous shots = shot1 % - shot0 % + shot2 % - shot1 %...
+
+Iowa State - Nick Weiler-Babb,-36.111111111111114
+Iowa State - Nick Weiler-Babb,"['52/144', '17/47', '0/13', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Texas Tech - Davide Moretti,-32.5712143928036
+Texas Tech - Davide Moretti,"['63/116', '25/52', '5/23', '3/5', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Syracuse - Oshae Brissett,-30.4635761589404
+Syracuse - Oshae Brissett,"['46/151', '14/41', '0/11', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Gonzaga - Corey Kispert,-29.719764011799413
+Gonzaga - Corey Kispert,"['43/113', '13/34', '1/12', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+South Alabama - Rodrick Sikes,-29.606625258799173
+South Alabama - Rodrick Sikes,"['63/161', '23/59', '2/21', '0/2', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+South Dakota State - Mike Daum,-29.40705128205128
+San Diego State - Devin Watson,-29.116638078902227
+Campbell - Chris Clemons,-28.652281570569507
+Campbell - Chris Clemons,"['97/257', '34/94', '12/32', '1/11', '1/1', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Nicholls - Danny Garrick,-27.564102564102562
+Nicholls - Danny Garrick,"['46/104', '13/39', '2/12', '0/2', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Stanford - KZ Okpala,-27.435897435897434
+SMU - Ethan Chargois,-27.375886524822697
+Xavier - Paul Scruggs,-26.967688483844245
+Northern Iowa - Spencer Haldeman,-26.308345120226313
+UCF - Aubrey Dawkins,-26.193181818181817
+St. Francis (PA) - Andre Wolford,-25.88522588522589
+Richmond - Jacob Gilyard,-25.639097744360903
+Hartford - John Carroll,-25.293350717079534
+USC - Bennie Boatwright,-25.26954177897575
+North Dakota State - Vinnie Shahid,-25.06666666666667
+TCU - Alex Robinson,-24.837812789620017
+
+Akron - Daniel Utomi,25.272960822093776
+Eastern Kentucky - Nick Mayo,25.67340067340067
+UNLV - Joel Ntambwe,26.328502415458942
+McNeese - James Harvey,26.992753623188403
+East Tennessee State - Tray Boyd III,27.01149425287356
+NC State - Braxton Beverly,28.235294117647058
+Monmouth - Deion Hammond,28.778467908902694
+Omaha - KJ Robinson,28.83116883116884
+Ole Miss - Devontae Shuler,29.36507936507936
+Abilene Christian - Jaren Lewis,29.761904761904766
+Youngstown State - Darius Quisenberry,30.109890109890113
+Bucknell - Nate Sestina,30.634278002699055
+St. Francis (PA) - Isaiah Blackmon,30.641025641025642
+Houston Baptist - Ian DuBose,31.328671328671327
+Houston Baptist - Ian DuBose,"['42/130', '15/38', '7/11', '2/5', '1/2', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Northern Kentucky - Tyler Sharpe,31.47189349112426
+Louisiana Tech - Anthony Duruji,31.784511784511782
+UT Arlington - Brian Warren,33.10210876803552
+Murray State - Ja Morant,34.68992248062015
+Murray State - Ja Morant,"['55/172', '19/49', '10/15', '3/9', '1/3', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Milwaukee - DeAndre Abram,37.78103616813294
+Milwaukee - DeAndre Abram,"['65/186', '12/59', '8/11', '3/7', '1/3', '1/1', '0/1', '0/0', '0/0', '0/0', '0/0']"
+New Orleans - Bryson Robinson,42.87587412587413
+New Orleans - Bryson Robinson,"['37/143', '16/33', '11/16', '3/10', '2/2', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0']"
+
+
+
+
+
+total difference of % from shot0 = shot1 % - shot0 % + shot2 % - shot0 %...
+
+Texas Tech - Davide Moretti,-38.80463614346674
+Texas Tech - Davide Moretti,"['63/116', '25/52', '5/23', '3/5', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Nicholls - Danny Garrick,-38.46153846153847
+Nicholls - Danny Garrick,"['46/104', '13/39', '2/12', '0/2', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Iowa State - Nick Weiler-Babb,-36.05200945626477
+Iowa State - Nick Weiler-Babb,"['52/144', '17/47', '0/13', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+USC - Bennie Boatwright,-34.90603515736263
+USC - Bennie Boatwright,"['99/212', '33/93', '14/29', '3/14', '1/3', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+NC State - C.J. Bryce,-34.8544266191325
+NC State - C.J. Bryce,"['67/153', '18/55', '3/15', '0/3', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Furman - Alex Hunter,-34.0028665028665
+Furman - Alex Hunter,"['47/111', '13/40', '2/11', '1/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Montana State - Ladan Ricketts,-33.70467453036261
+Loyola (MD) - Isaiah Hart,-31.88142770719903
+Stanford - KZ Okpala,-31.84149184149184
+Belmont - Dylan Windler,-31.639584057467275
+Vermont - Anthony Lamb,-30.95030514385353
+Campbell - Chris Clemons,-30.468450127569252
+Richmond - Jacob Gilyard,-30.225563909774444
+Colorado State - Kris Martin,-30.179694519317167
+Syracuse - Frank Howard,-30.146627565982403
+Campbell - Andrew Eudy,-29.761904761904766
+South Alabama - Rodrick Sikes,-29.754009193950242
+Gonzaga - Corey Kispert,-29.537567239285096
+St. Francis (PA) - Andre Wolford,-29.470800202507526
+Saint Peters - Davauhnte Turner,-29.305873379099918
+
+High Point - Jahaad Proctor,35.73857364932416
+NC State - Braxton Beverly,36.05392156862745
+Cornell - Jimmy Boeheim,36.98771965143366
+Eastern Michigan - Elijah Minnie,37.74239207360226
+Arkansas State - Marquis Eaton,37.878787878787875
+Houston Baptist - Ian DuBose,38.494663231505335
+Omaha - KJ Robinson,38.83116883116883
+Prairie View A&M - Gerard Andrus,39.291782983371775
+Fairleigh Dickinson - Darnell Edge,39.69437969437969
+Duquesne - Tavian Dunn-Martin,40.549511340586385
+Murray State - Ja Morant,41.488688498655264
+Harvard - Bryce Aiken,41.96367337005819
+Louisiana Tech - DaQuan Bracey,42.201540436456995
+Abilene Christian - Jaren Lewis,42.85714285714286
+Abilene Christian - Jaren Lewis,"['40/140', '15/36', '7/12', '1/5', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+St. Francis (PA) - Isaiah Blackmon,44.88420181968569
+St. Francis (PA) - Isaiah Blackmon,"['36/130', '13/31', '7/12', '2/6', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Arkansas - Isaiah Joe,45.82609072115852
+Arkansas - Isaiah Joe,"['73/197', '20/67', '14/20', '8/14', '2/7', '0/2', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Loyola (MD) - Andrew Kostecka,46.539783762657386
+Loyola (MD) - Andrew Kostecka,"['60/166', '21/53', '14/19', '5/12', '0/3', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Tulsa - DaQuan Jeffries,47.290926051987995
+Tulsa - DaQuan Jeffries,"['33/113', '14/27', '7/13', '2/5', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+Eastern Michigan - Kevin McAdoo,53.43822843822842
+Eastern Michigan - Kevin McAdoo,"['25/104', '15/22', '4/12', '1/4', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0', '0/0']"
+New Orleans - Bryson Robinson,65.48659673659674
+New Orleans - Bryson Robinson,"['37/143', '16/33', '11/16', '3/10', '2/2', '0/1', '0/0', '0/0', '0/0', '0/0', '0/0']"
+
+##################################################################
+[compared to 0]
+(min 5 attempts)
+Number of people who shoot better after 1 made basket:
+1816 worse
+3402 total
+=53.3% shoot worse on their second attempt
+
+(min 5 attempts)
+Number of people who shoot better after 2 made than 0:
+1380 worse
+2564 total
+=53.8% shoot worse on their third attempt
+
+(min 5 attempts)
+Number of people who shoot better after 3 made than 0:
+749 worse
+1434 total
+=52.2% shoot worse on their fourth attempt
+
+(min 5 attempts)
+Number of people who shoot better after 4 made than 0:
+219 worse
+414 total
+=52.8% shoot worse on their fifth attempt
+
+Top and bottom 20 for each category:
+shot1:
+"Liberty - Keegan McDowell Shot 1 0.18181818181818182, Shot 0 0.6153846153846154",-43.35664335664336
+"California Baptist - Zach Pirog Shot 1 0.2, Shot 0 0.6333333333333333",-43.33333333333333
+"Illinois State - Isaac Gassman Shot 1 0.1875, Shot 0 0.5555555555555556",-36.80555555555556
+"Arizona State - DeQuon Lake Shot 1 0.4, Shot 0 0.7666666666666667",-36.66666666666667
+"Vanderbilt - Clevon Brown Shot 1 0.07142857142857142, Shot 0 0.42857142857142855",-35.71428571428571
+"Wichita State - Asbjorn Midtgaard Shot 1 0.3333333333333333, Shot 0 0.6857142857142857",-35.23809523809524
+"Miami (OH) - Milos Jovic Shot 1 0.2727272727272727, Shot 0 0.6153846153846154",-34.265734265734274
+"Oregon - Miles Norris Shot 1 0.29411764705882354, Shot 0 0.6363636363636364",-34.22459893048128
+"Butler - Christian David Shot 1 0.1, Shot 0 0.4411764705882353",-34.11764705882353
+"Miami (OH) - Elijah McNamara Shot 1 0.0, Shot 0 0.3333333333333333",-33.33333333333333
+"Portland - Franklin Porter Shot 1 0.14705882352941177, Shot 0 0.4659090909090909",-31.885026737967912
+"Illinois State - Rey Idowu Shot 1 0.3333333333333333, Shot 0 0.6486486486486487",-31.531531531531538
+"CSU Bakersfield - Justin McCall Shot 1 0.2, Shot 0 0.5135135135135135",-31.351351351351347
+"Missouri State - Szymon Wojcik Shot 1 0.09090909090909091, Shot 0 0.4",-30.909090909090907
+"Florida State - Devin Vassell Shot 1 0.19230769230769232, Shot 0 0.5",-30.76923076923077
+"Saint Peters - Derrick Woods Shot 1 0.3076923076923077, Shot 0 0.6153846153846154",-30.76923076923077
+"Elon - Chuck Hannah Shot 1 0.28, Shot 0 0.5873015873015873",-30.73015873015873
+"UC Riverside - Ajani Kennedy Shot 1 0.25925925925925924, Shot 0 0.5660377358490566",-30.677847658979733
+"Akron - Jeremy Roscoe Shot 1 0.08333333333333333, Shot 0 0.3877551020408163",-30.4421768707483
+"Purdue Fort Wayne - Cameron Benford Shot 1 0.09090909090909091, Shot 0 0.39473684210526316",-30.38277511961722
+
+"Florida State - Anthony Polite Shot 1 0.6, Shot 0 0.3125",28.749999999999996
+"Old Dominion - Elbert Robinson III Shot 1 0.7, Shot 0 0.4117647058823529",28.823529411764703
+"Idaho - Xavier Smith Shot 1 0.6153846153846154, Shot 0 0.3269230769230769",28.84615384615385
+"Chattanooga - Thomas Smallwood Shot 1 0.65, Shot 0 0.35135135135135137",29.864864864864867
+"Marquette - Ed Morrow Shot 1 0.7692307692307693, Shot 0 0.46774193548387094",30.148883374689834
+"Charleston - Jaylen Richard Shot 1 0.625, Shot 0 0.32075471698113206",30.424528301886795
+"UMass - Tre Wood Shot 1 0.5384615384615384, Shot 0 0.23333333333333334",30.51282051282051
+"Mississippi Valley State - Gregory Jones-Rollins Shot 1 0.6, Shot 0 0.29411764705882354",30.588235294117645
+"UMBC - Max Curran Shot 1 0.7, Shot 0 0.39285714285714285",30.71428571428571
+"North Carolina A&T - Ibrahim Sylla Shot 1 0.7333333333333333, Shot 0 0.4186046511627907",31.472868217054256
+"Gonzaga - Killian Tillie Shot 1 0.7272727272727273, Shot 0 0.4117647058823529",31.550802139037437
+"Buffalo - Montell McRae Shot 1 0.7222222222222222, Shot 0 0.40298507462686567",31.923714759535653
+"Jackson State - Lemmie Howard Shot 1 0.6666666666666666, Shot 0 0.3469387755102041",31.972789115646254
+"Alabama A&M - Gerron Scissum Shot 1 0.6551724137931034, Shot 0 0.3333333333333333",32.18390804597701
+"Northern Kentucky - Chris Vogt Shot 1 0.75, Shot 0 0.425531914893617",32.4468085106383
+"UMass - Sy Chatman Shot 1 0.7272727272727273, Shot 0 0.4",32.72727272727273
+"Purdue - Eric Hunter Jr. Shot 1 0.5454545454545454, Shot 0 0.20634920634920634",33.91053391053391
+"Wofford - Ryan Larson Shot 1 0.6666666666666666, Shot 0 0.3148148148148148",35.18518518518518
+"Portland - Jacob Tryon Shot 1 0.7142857142857143, Shot 0 0.3114754098360656",40.28103044496487
+"Rutgers - Shaq Carter Shot 1 0.8333333333333334, Shot 0 0.425531914893617",40.780141843971634
+
+shot2:
+"Lafayette - E.J. Stephens Shot 2 0.0, Shot 1 0.42342342342342343",-42.34234234234234
+"Furman - Alex Hunter Shot 2 0.09523809523809523, Shot 1 0.5037593984962406",-40.85213032581454
+"Nicholls - Danny Garrick Shot 2 0.09090909090909091, Shot 1 0.4864864864864865",-39.55773955773956
+"Oregon - Bol Bol Shot 2 0.25, Shot 1 0.6333333333333333",-38.33333333333333
+"Colgate - Malcolm Regisford Shot 2 0.4, Shot 1 0.7678571428571429",-36.78571428571429
+"BYU - Nick Emery Shot 2 0.07692307692307693, Shot 1 0.43478260869565216",-35.785953177257525
+"Northern Arizona - Cameron Shelton Shot 2 0.06666666666666667, Shot 1 0.41739130434782606",-35.07246376811594
+"Long Beach State - KJ Byers Shot 2 0.08333333333333333, Shot 1 0.425531914893617",-34.21985815602837
+"Toledo - Willie Jackson Shot 2 0.2, Shot 1 0.5350877192982456",-33.50877192982456
+"Western Illinois - Brandon Gilbeck Shot 2 0.23529411764705882, Shot 1 0.5698924731182796",-33.45983554712208
+"Idaho - Scott Blakney Shot 2 0.2222222222222222, Shot 1 0.5540540540540541",-33.18318318318318
+"Xavier - Tyrique Jones Shot 2 0.3125, Shot 1 0.6276595744680851",-31.515957446808507
+"Maryland - Darryl Morsell Shot 2 0.16666666666666666, Shot 1 0.46875",-30.208333333333336
+"Loyola (MD) - Jaylin Andrews Shot 2 0.16666666666666666, Shot 1 0.4666666666666667",-30.000000000000004
+"Penn State - Jamari Wheeler Shot 2 0.1, Shot 1 0.4",-30.000000000000004
+"CSU Bakersfield - Taze Moore Shot 2 0.1, Shot 1 0.3977272727272727",-29.772727272727273
+"Sam Houston State - Albert Almanza Shot 2 0.08333333333333333, Shot 1 0.37962962962962965",-29.629629629629633
+"Sam Houston State - Chad Bowie Shot 2 0.15384615384615385, Shot 1 0.44554455445544555",-29.169840060929168
+"California Baptist - Dejon Davis Shot 2 0.18181818181818182, Shot 1 0.47126436781609193",-28.94461859979101
+"UMass Lowell - Darius Henderson Shot 2 0.25, Shot 1 0.5384615384615384",-28.846153846153843
+
+"Georgia Southern - Montae Glenn Shot 2 0.7894736842105263, Shot 1 0.5121951219512195",27.72785622593068
+"South Carolina State - Janai Raynor-Powell Shot 2 0.6, Shot 1 0.32222222222222224",27.777777777777775
+"Georgia Tech - Moses Wright Shot 2 0.6153846153846154, Shot 1 0.3333333333333333",28.20512820512821
+"New Hampshire - Josh Hopkins Shot 2 0.6, Shot 1 0.31746031746031744",28.253968253968253
+"Nevada - TreShawn Thurman Shot 2 0.7142857142857143, Shot 1 0.42990654205607476",28.437917222963954
+"Notre Dame - Nate Laszewski Shot 2 0.6363636363636364, Shot 1 0.34782608695652173",28.85375494071146
+"Cal Poly - Mark Crowe Shot 2 0.7, Shot 1 0.4111111111111111",28.888888888888886
+"Cincinnati - Cane Broome Shot 2 0.6666666666666666, Shot 1 0.3741496598639456",29.2517006802721
+"New Orleans - Scott Plaisance Jr. Shot 2 0.7272727272727273, Shot 1 0.43119266055045874",29.608006672226857
+"Oklahoma - Rashard Odomes Shot 2 0.7857142857142857, Shot 1 0.48717948717948717",29.853479853479854
+"UIC - Rob Howard Jr. Shot 2 0.7, Shot 1 0.39473684210526316",30.526315789473678
+"Florida A&M - Justin Ravenel Shot 2 0.6666666666666666, Shot 1 0.34375",32.291666666666664
+"Northern Kentucky - Zaynah Robinson Shot 2 0.6875, Shot 1 0.36065573770491804",32.6844262295082
+"Stanford - Oscar da Silva Shot 2 0.7142857142857143, Shot 1 0.38613861386138615",32.814710042432814
+"Incarnate Word - Antoine Smith Jr. Shot 2 0.7857142857142857, Shot 1 0.45348837209302323",33.222591362126245
+"Lipscomb - Michael Buckland Shot 2 0.7272727272727273, Shot 1 0.3815789473684211",34.569377990430624
+"Bowling Green - Demajeo Wiggins Shot 2 0.7647058823529411, Shot 1 0.4083333333333333",35.63725490196078
+"Bowling Green - Daeqwon Plowden Shot 2 0.75, Shot 1 0.35",40.0
+"Oregon State - Kylor Kelley Shot 2 1.0, Shot 1 0.5636363636363636",43.63636363636364
+"Lafayette - Lukas Jarrett Shot 2 0.9, Shot 1 0.4074074074074074",49.25925925925927
+
+shot3:
+"Central Arkansas - Hayden Koval Shot 3 0.09090909090909091, Shot 2 0.4626865671641791",-37.177747625508815
+"Idaho State - Balint Mocsan Shot 3 0.09090909090909091, Shot 2 0.46206896551724136",-37.11598746081505
+"Columbia - Patrick Tape Shot 3 0.3333333333333333, Shot 2 0.6794871794871795",-34.61538461538462
+"Presbyterian - Francois Lewis Shot 3 0.16666666666666666, Shot 2 0.5026455026455027",-33.5978835978836
+"Boise State - Justinian Jessup Shot 3 0.16666666666666666, Shot 2 0.5",-33.333333333333336
+"Arkansas - Mason Jones Shot 3 0.09090909090909091, Shot 2 0.4146341463414634",-32.37250554323725
+"Incarnate Word - Augustine Ene Shot 3 0.2, Shot 2 0.5135135135135135",-31.351351351351347
+"UT Martin - Delfincko Bogan Shot 3 0.18181818181818182, Shot 2 0.4928571428571429",-31.103896103896105
+"Minnesota - Daniel Oturu Shot 3 0.2, Shot 2 0.5083333333333333",-30.83333333333333
+"Belmont - Grayson Murphy Shot 3 0.18181818181818182, Shot 2 0.48717948717948717",-30.536130536130536
+"Southern Illinois - Kavion Pippen Shot 3 0.23076923076923078, Shot 2 0.5352112676056338",-30.444203683640296
+"Troy - Alex Hicks Shot 3 0.1, Shot 2 0.40441176470588236",-30.44117647058824
+"Syracuse - Elijah Hughes Shot 3 0.15384615384615385, Shot 2 0.44660194174757284",-29.2755787901419
+"James Madison - Matt Lewis Shot 3 0.09090909090909091, Shot 2 0.38188976377952755",-29.098067287043662
+"Northern Arizona - Luke Avdalovic Shot 3 0.2, Shot 2 0.49038461538461536",-29.038461538461537
+"Texas Tech - Davide Moretti Shot 3 0.25, Shot 2 0.5390625",-28.90625
+"California Baptist - Jordan Heading Shot 3 0.2, Shot 2 0.4691358024691358",-26.913580246913575
+"Austin Peay - Steve Harris Shot 3 0.18181818181818182, Shot 2 0.4507042253521127",-26.888604353393085
+"North Carolina - Luke Maye Shot 3 0.2, Shot 2 0.45867768595041325",-25.867768595041323
+"UTSA - Jhivvan Jackson Shot 3 0.125, Shot 2 0.3805031446540881",-25.550314465408807
+
+"Kansas - Lagerald Vick Shot 3 0.7, Shot 2 0.45925925925925926",24.07407407407407
+"Miami - Ebuka Izundu Shot 3 0.9090909090909091, Shot 2 0.6666666666666666",24.242424242424242
+"Loyola (MD) - Andrew Kostecka Shot 3 0.7368421052631579, Shot 2 0.4915254237288136",24.531668153434428
+"Missouri State - Tulio Da Silva Shot 3 0.6666666666666666, Shot 2 0.42016806722689076",24.649859943977585
+"Dayton - Obadiah Toppin Shot 3 0.8, Shot 2 0.5533980582524272",24.660194174757287
+"Northern Kentucky - Tyler Sharpe Shot 3 0.6428571428571429, Shot 2 0.3953488372093023",24.75083056478406
+"Kent State - Antonio Williams Shot 3 0.7, Shot 2 0.45098039215686275",24.90196078431372
+"CSU Northridge - Terrell Gomez Shot 3 0.6875, Shot 2 0.4150197628458498",27.24802371541502
+"Iowa - Joe Wieskamp Shot 3 0.7272727272727273, Shot 2 0.45161290322580644",27.565982404692086
+"Howard - Chad Lott Shot 3 0.7, Shot 2 0.4153846153846154",28.461538461538456
+"Indiana - Juwan Morgan Shot 3 0.7894736842105263, Shot 2 0.47093023255813954",31.85434516523868
+"Kansas - Dedric Lawson Shot 3 0.8, Shot 2 0.4740740740740741",32.592592592592595
+"TCU - Desmond Bane Shot 3 0.8125, Shot 2 0.4861111111111111",32.63888888888889
+"Central Arkansas - Thatch Unruh Shot 3 0.75, Shot 2 0.40963855421686746",34.036144578313255
+"Villanova - Eric Paschall Shot 3 0.75, Shot 2 0.3865546218487395",36.344537815126046
+"North Carolina Central - Raasean Davis Shot 3 0.9, Shot 2 0.5225225225225225",37.74774774774775
+"Memphis - Kareem Brewton Jr. Shot 3 0.8, Shot 2 0.41843971631205673",38.15602836879433
+"High Point - Ricky Madison Shot 3 0.9, Shot 2 0.5154639175257731",38.453608247422686
+"Omaha - KJ Robinson Shot 3 0.8, Shot 2 0.41134751773049644",38.865248226950364
+"Eastern Kentucky - Nick Mayo Shot 3 0.8461538461538461, Shot 2 0.4268292682926829",41.93245778611632
+
+shot4:
+"San Diego - Isaiah Pineiro Shot 4 0.18181818181818182, Shot 3 0.46184738955823296",-28.002920774005112
+"SE Louisiana - Moses Greenwood Shot 4 0.36363636363636365, Shot 3 0.6258992805755396",-26.22629169391759
+"Gonzaga - Rui Hachimura Shot 4 0.2857142857142857, Shot 3 0.5428571428571428",-25.71428571428571
+"Furman - Matt Rafferty Shot 4 0.4, Shot 3 0.6",-19.999999999999996
+"Elon - Tyler Seibring Shot 4 0.3, Shot 3 0.4860335195530726",-18.60335195530726
+"Bowling Green - Justin Turner Shot 4 0.3, Shot 3 0.4666666666666667",-16.666666666666668
+"Northern Colorado - Jordan Davis Shot 4 0.3076923076923077, Shot 3 0.4732824427480916",-16.559013505578392
+"Binghamton - Sam Sessoms Shot 4 0.3, Shot 3 0.4591439688715953",-15.914396887159532
+"Boston University - Max Mahoney Shot 4 0.5, Shot 3 0.6323529411764706",-13.235294117647056
+"Eastern Washington - Mason Peatling Shot 4 0.4166666666666667, Shot 3 0.5462962962962963",-12.96296296296296
+"St. Johns - LJ Figueroa Shot 4 0.36363636363636365, Shot 3 0.4864864864864865",-12.285012285012286
+"Tennessee - Grant Williams Shot 4 0.45454545454545453, Shot 3 0.5675675675675675",-11.302211302211301
+"Loyola-Chicago - Cameron Krutwig Shot 4 0.5454545454545454, Shot 3 0.6546762589928058",-10.922171353826037
+"Loyola (MD) - Andrew Kostecka Shot 4 0.38461538461538464, Shot 3 0.4915254237288136",-10.691003911342895
+"Michigan State - Cassius Winston Shot 4 0.4, Shot 3 0.4962121212121212",-9.62121212121212
+"Fairleigh Dickinson - Darnell Edge Shot 4 0.3333333333333333, Shot 3 0.40384615384615385",-7.051282051282054
+"The Citadel - Lew Stallworth Shot 4 0.42857142857142855, Shot 3 0.4946808510638298",-6.610942249240126
+"Eastern Kentucky - Nick Mayo Shot 4 0.36363636363636365, Shot 3 0.4268292682926829",-6.319290465631927
+"TCU - Desmond Bane Shot 4 0.45454545454545453, Shot 3 0.4861111111111111",-3.1565656565656575
+"Charleston - Grant Riller Shot 4 0.5, Shot 3 0.5305164319248826",-3.0516431924882625
+
+"Memphis - Jeremiah Martin Shot 4 0.45454545454545453, Shot 3 0.420863309352518",3.3682145192936552
+"LIU Brooklyn - Raiquan Clark Shot 4 0.5, Shot 3 0.46511627906976744",3.4883720930232567
+"Murray State - Ja Morant Shot 4 0.5, Shot 3 0.46484375",3.515625
+"Lipscomb - Rob Marberry Shot 4 0.6, Shot 3 0.5575221238938053",4.2477876106194685
+"Wright State - Loudon Love Shot 4 0.5454545454545454, Shot 3 0.48058252427184467",6.4872021182700745
+"Montana - Sayeed Pridgett Shot 4 0.6153846153846154, Shot 3 0.535483870967742",7.990074441687344
+"Georgia Southern - Tookie Brown Shot 4 0.5454545454545454, Shot 3 0.4648648648648649",8.058968058968052
+"Richmond - Grant Golden Shot 4 0.6, Shot 3 0.5186915887850467",8.130841121495324
+"Sam Houston State - Kai Mitchell Shot 4 0.6, Shot 3 0.5149253731343284",8.507462686567157
+"Duke - Zion Williamson Shot 4 0.75, Shot 3 0.6376811594202898",11.231884057971019
+"Omaha - Zach Jackson Shot 4 0.6, Shot 3 0.4742268041237113",12.577319587628866
+"Marquette - Markus Howard Shot 4 0.5454545454545454, Shot 3 0.4046242774566474",14.083026799789799
+"South Alabama - Josh Ajayi Shot 4 0.6363636363636364, Shot 3 0.4935897435897436",14.277389277389274
+"Saint Marys - Jordan Ford Shot 4 0.7, Shot 3 0.5134099616858238",18.65900383141762
+"Northern Illinois - Dante Thorpe Shot 4 0.7, Shot 3 0.4966442953020134",20.335570469798654
+"Indiana - Juwan Morgan Shot 4 0.6923076923076923, Shot 3 0.47093023255813954",22.137745974955276
+"Richmond - Nathan Cayo Shot 4 0.8, Shot 3 0.5573770491803278",24.262295081967224
+"Northern Illinois - Eugene German Shot 4 0.7272727272727273, Shot 3 0.4588744588744589",26.83982683982684
+"Army - Matt Wilson Shot 4 0.8181818181818182, Shot 3 0.4928571428571429",32.532467532467535
+"Iona - E.J. Crawford Shot 4 0.9, Shot 3 0.520618556701031",37.93814432989691
+###########################################################################

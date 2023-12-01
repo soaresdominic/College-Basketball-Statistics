@@ -1,0 +1,327 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas Tech,None,None,0,0
+19:30,Texas Tech,Jarrett Culver,Missed Jumper,0,0
+19:30,Virginia,Ty Jerome,Defensive Rebound,0,0
+19:00,Virginia,De'Andre Hunter,Missed Layup,0,0
+19:00,Texas Tech,Tariq Owens,Defensive Rebound,0,0
+18:29,Texas Tech,Davide Moretti,Missed Jumper,0,0
+18:29,Virginia,Kihei Clark,Defensive Rebound,0,0
+18:11,Virginia,Mamadi Diakite,Jumper,0,2
+17:55,Texas Tech,Davide Moretti,Missed Three Point Jumper,0,2
+17:55,Virginia,Mamadi Diakite,Defensive Rebound,0,2
+17:32,Virginia,De'Andre Hunter,Missed Jumper,0,2
+17:32,Texas Tech,Norense Odiase,Defensive Rebound,0,2
+17:21,Virginia,Kihei Clark,Foul,0,2
+17:21,Texas Tech,Jarrett Culver,Free Throw,1,2
+17:21,Texas Tech,Jarrett Culver,Free Throw,2,2
+16:46,Virginia,Kihei Clark,Missed Jumper,2,2
+16:46,Texas Tech,Brandone Francis,Defensive Rebound,2,2
+16:30,Texas Tech,Matt Mooney,Missed Three Point Jumper,2,2
+16:30,Virginia,De'Andre Hunter,Defensive Rebound,2,2
+16:17,Virginia,Ty Jerome,Missed Three Point Jumper,2,2
+16:17,Texas Tech,Matt Mooney,Defensive Rebound,2,2
+16:10,Virginia,Ty Jerome,Foul,2,2
+16:10,Texas Tech,Jarrett Culver,Missed Free Throw,2,2
+16:10,Texas Tech,None,Team Rebound,2,2
+16:10,Texas Tech,Jarrett Culver,Free Throw,3,2
+15:51,Virginia,Braxton Key,Turnover,3,2
+15:51,Texas Tech,Davide Moretti,Steal,3,2
+15:51,Virginia,None,None,3,2
+15:30,Texas Tech,Jarrett Culver,Missed Jumper,3,2
+15:30,Virginia,Kyle Guy,Defensive Rebound,3,2
+15:13,Virginia,Mamadi Diakite,Foul,3,2
+15:13,Virginia,Mamadi Diakite,Turnover,3,2
+14:49,Texas Tech,Matt Mooney,Missed Three Point Jumper,3,2
+14:49,Texas Tech,Jarrett Culver,Offensive Rebound,3,2
+14:43,Texas Tech,Matt Mooney,Turnover,3,2
+14:43,Virginia,Kyle Guy,Steal,3,2
+14:35,Virginia,Kyle Guy,Jumper,3,4
+14:13,Texas Tech,Tariq Owens,Missed Three Point Jumper,3,4
+14:13,Virginia,Braxton Key,Defensive Rebound,3,4
+13:47,Virginia,Ty Jerome,Missed Jumper,3,4
+13:47,Virginia,Mamadi Diakite,Offensive Rebound,3,4
+13:41,Virginia,Ty Jerome,Three Point Jumper,3,7
+13:23,Texas Tech,Jarrett Culver,Missed Dunk,3,7
+13:23,Virginia,Mamadi Diakite,Block,3,7
+13:23,Virginia,Kyle Guy,Defensive Rebound,3,7
+13:10,Virginia,De'Andre Hunter,Missed Three Point Jumper,3,7
+13:10,Texas Tech,Brandone Francis,Defensive Rebound,3,7
+13:05,Texas Tech,Jarrett Culver,Turnover,3,7
+13:05,Virginia,Mamadi Diakite,Steal,3,7
+12:58,Virginia,Braxton Key,Dunk,3,9
+12:56,Texas Tech,None,None,3,9
+12:49,Texas Tech,Davide Moretti,Three Point Jumper,6,9
+12:17,Virginia,Kyle Guy,Three Point Jumper,6,12
+12:02,Texas Tech,Jarrett Culver,Missed Jumper,6,12
+12:02,Virginia,De'Andre Hunter,Defensive Rebound,6,12
+11:24,Texas Tech,Davide Moretti,Foul,6,12
+11:24,Virginia,None,None,6,12
+11:24,Virginia,De'Andre Hunter,Missed Free Throw,6,12
+11:24,Virginia,None,Team Rebound,6,12
+11:24,Virginia,De'Andre Hunter,Free Throw,6,13
+10:59,Texas Tech,Matt Mooney,Missed Jumper,6,13
+10:59,Virginia,Braxton Key,Defensive Rebound,6,13
+10:31,Virginia,Mamadi Diakite,Jumper,6,15
+10:15,Virginia,Kyle Guy,Foul,6,15
+10:15,Texas Tech,Tariq Owens,Free Throw,7,15
+10:15,Texas Tech,Tariq Owens,Missed Free Throw,7,15
+10:15,Virginia,Mamadi Diakite,Defensive Rebound,7,15
+9:54,Virginia,De'Andre Hunter,Missed Layup,7,15
+9:54,Texas Tech,Matt Mooney,Block,7,15
+9:54,Virginia,Ty Jerome,Offensive Rebound,7,15
+9:54,Virginia,De'Andre Hunter,Missed Layup,7,15
+9:54,Texas Tech,Tariq Owens,Block,7,15
+9:54,Virginia,Ty Jerome,Offensive Rebound,7,15
+9:54,Texas Tech,Tariq Owens,Foul,7,15
+9:54,Virginia,De'Andre Hunter,Free Throw,7,16
+9:54,Virginia,De'Andre Hunter,Free Throw,7,17
+9:34,Texas Tech,Brandone Francis,Three Point Jumper,10,17
+9:12,Virginia,Ty Jerome,Missed Layup,10,17
+9:12,Texas Tech,Tariq Owens,Defensive Rebound,10,17
+9:05,Texas Tech,Kyler Edwards,Three Point Jumper,13,17
+8:41,Virginia,Kyle Guy,Missed Three Point Jumper,13,17
+8:41,Virginia,Mamadi Diakite,Offensive Rebound,13,17
+8:35,Virginia,Ty Jerome,Jumper,13,19
+8:21,Texas Tech,Brandone Francis,Three Point Jumper,16,19
+8:00,Virginia,De'Andre Hunter,Missed Jumper,16,19
+8:00,Texas Tech,Brandone Francis,Defensive Rebound,16,19
+7:54,Virginia,Mamadi Diakite,Foul,16,19
+7:54,Virginia,None,None,16,19
+7:42,Texas Tech,Brandone Francis,Missed Jumper,16,19
+7:42,Texas Tech,Tariq Owens,Offensive Rebound,16,19
+7:33,Texas Tech,Davide Moretti,Three Point Jumper,19,19
+7:02,Virginia,Kyle Guy,Layup,19,21
+6:39,Texas Tech,Tariq Owens,Dunk,21,21
+6:05,Virginia,Jay Huff,Missed Three Point Jumper,21,21
+6:05,Virginia,Ty Jerome,Offensive Rebound,21,21
+5:59,Virginia,Ty Jerome,Missed Three Point Jumper,21,21
+5:59,Texas Tech,Jarrett Culver,Defensive Rebound,21,21
+5:53,Texas Tech,Jarrett Culver,Missed Three Point Jumper,21,21
+5:53,Virginia,Ty Jerome,Defensive Rebound,21,21
+5:41,Virginia,Kyle Guy,Missed Jumper,21,21
+5:41,Texas Tech,Tariq Owens,Defensive Rebound,21,21
+5:22,Virginia,Jay Huff,Foul,21,21
+5:22,Texas Tech,Kyler Edwards,Free Throw,22,21
+5:22,Texas Tech,Kyler Edwards,Free Throw,23,21
+5:04,Virginia,Kyle Guy,Turnover,23,21
+4:53,Texas Tech,Matt Mooney,Jumper,25,21
+4:25,Virginia,Kihei Clark,Three Point Jumper,25,24
+3:57,Texas Tech,Deshawn Corprew,Missed Three Point Jumper,25,24
+3:57,Virginia,Jack Salt,Defensive Rebound,25,24
+3:57,Texas Tech,Norense Odiase,Foul,25,24
+3:57,Virginia,None,None,25,24
+3:48,Virginia,De'Andre Hunter,Missed Jumper,25,24
+3:48,Texas Tech,Norense Odiase,Defensive Rebound,25,24
+3:41,Texas Tech,Norense Odiase,Turnover,25,24
+3:25,Virginia,Jack Salt,Turnover,25,24
+3:25,Texas Tech,Matt Mooney,Steal,25,24
+3:14,Texas Tech,Brandone Francis,Jumper,27,24
+3:00,Virginia,Kyle Guy,Three Point Jumper,27,27
+2:29,Virginia,Jack Salt,Foul,27,27
+2:29,Texas Tech,Davide Moretti,Free Throw,28,27
+2:29,Texas Tech,Davide Moretti,Free Throw,29,27
+2:13,Virginia,Kyle Guy,Missed Three Point Jumper,29,27
+2:13,Virginia,Kihei Clark,Offensive Rebound,29,27
+2:10,Virginia,Kihei Clark,Turnover,29,27
+2:10,Texas Tech,Matt Mooney,Steal,29,27
+1:57,Texas Tech,Davide Moretti,Missed Three Point Jumper,29,27
+1:57,Virginia,Kyle Guy,Defensive Rebound,29,27
+1:36,Texas Tech,Davide Moretti,Foul,29,27
+1:29,Virginia,De'Andre Hunter,Jumper,29,29
+1:08,Texas Tech,Jarrett Culver,Missed Layup,29,29
+1:08,Virginia,Braxton Key,Defensive Rebound,29,29
+0:53,Virginia,Braxton Key,Missed Jumper,29,29
+0:53,Texas Tech,Kyler Edwards,Defensive Rebound,29,29
+0:24,Texas Tech,Tariq Owens,Missed Jumper,29,29
+0:24,Virginia,Virginia,Defensive Rebound,29,29
+0:01,Virginia,Ty Jerome,Three Point Jumper,29,32
+0:00,Virginia,None,None,29,32
+20:00,Virginia,None,None,29,32
+19:48,Virginia,Kyle Guy,Three Point Jumper,29,35
+19:16,Texas Tech,Tariq Owens,Turnover,29,35
+19:05,Texas Tech,Tariq Owens,Foul,29,35
+19:05,Virginia,De'Andre Hunter,Free Throw,29,36
+19:05,Virginia,De'Andre Hunter,Free Throw,29,37
+18:40,Texas Tech,Jarrett Culver,Missed Layup,29,37
+18:40,Texas Tech,Tariq Owens,Offensive Rebound,29,37
+18:34,Texas Tech,Brandone Francis,Missed Three Point Jumper,29,37
+18:34,Virginia,De'Andre Hunter,Defensive Rebound,29,37
+18:31,Texas Tech,Tariq Owens,Foul,29,37
+18:18,Virginia,Mamadi Diakite,Missed Three Point Jumper,29,37
+18:18,Texas Tech,Jarrett Culver,Defensive Rebound,29,37
+18:10,Texas Tech,Jarrett Culver,Missed Three Point Jumper,29,37
+18:10,Virginia,Ty Jerome,Defensive Rebound,29,37
+17:54,Texas Tech,Norense Odiase,Foul,29,37
+17:54,Virginia,Mamadi Diakite,Free Throw,29,38
+17:54,Virginia,Mamadi Diakite,Missed Free Throw,29,38
+17:54,Texas Tech,Jarrett Culver,Defensive Rebound,29,38
+17:45,Texas Tech,Brandone Francis,Jumper,31,38
+17:23,Texas Tech,None,None,31,38
+17:23,Virginia,Ty Jerome,Turnover,31,38
+17:23,Texas Tech,Jarrett Culver,Steal,31,38
+17:05,Virginia,Kyle Guy,Foul,31,38
+16:54,Texas Tech,Brandone Francis,Missed Three Point Jumper,31,38
+16:54,Texas Tech,Jarrett Culver,Offensive Rebound,31,38
+16:54,Virginia,Braxton Key,Foul,31,38
+16:51,Texas Tech,Jarrett Culver,Turnover,31,38
+16:37,Virginia,De'Andre Hunter,Layup,31,40
+16:18,Texas Tech,Brandone Francis,Turnover,31,40
+16:18,Virginia,Ty Jerome,Steal,31,40
+15:52,Virginia,Braxton Key,Missed Three Point Jumper,31,40
+15:52,Texas Tech,Kyler Edwards,Defensive Rebound,31,40
+15:28,Texas Tech,Jarrett Culver,Layup,33,40
+14:59,Virginia,Kyle Guy,Jumper,33,42
+14:33,Texas Tech,Jarrett Culver,Layup,35,42
+14:15,Virginia,Kihei Clark,Turnover,35,42
+14:15,Virginia,None,None,35,42
+14:15,Texas Tech,Davide Moretti,Steal,35,42
+14:15,Virginia,None,None,35,42
+13:59,Texas Tech,Kyler Edwards,Three Point Jumper,38,42
+13:25,Virginia,De'Andre Hunter,Three Point Jumper,38,45
+13:08,Texas Tech,Brandone Francis,Three Point Jumper,41,45
+12:46,Virginia,Ty Jerome,Jumper,41,47
+12:17,Virginia,Kihei Clark,Foul,41,47
+12:14,Texas Tech,Jarrett Culver,Missed Three Point Jumper,41,47
+12:14,Virginia,Braxton Key,Defensive Rebound,41,47
+11:45,Virginia,De'Andre Hunter,Three Point Jumper,41,50
+11:24,Virginia,None,None,41,50
+11:18,Virginia,De'Andre Hunter,Foul,41,50
+11:15,Texas Tech,Jarrett Culver,Jumper,43,50
+10:53,Texas Tech,Deshawn Corprew,Foul,43,50
+10:38,Virginia,Ty Jerome,Missed Jumper,43,50
+10:38,Virginia,Braxton Key,Offensive Rebound,43,50
+10:38,Virginia,None,None,43,50
+10:38,Virginia,Braxton Key,Offensive Rebound,43,50
+10:38,Virginia,None,None,43,50
+10:22,Virginia,Kyle Guy,Three Point Jumper,43,53
+10:12,Texas Tech,Kyler Edwards,Missed Three Point Jumper,43,53
+10:12,Virginia,Braxton Key,Defensive Rebound,43,53
+9:52,Texas Tech,Tariq Owens,Foul,43,53
+9:30,Virginia,De'Andre Hunter,Turnover,43,53
+9:26,Texas Tech,Davide Moretti,Layup,45,53
+9:00,Virginia,Ty Jerome,Missed Three Point Jumper,45,53
+9:00,Texas Tech,Davide Moretti,Defensive Rebound,45,53
+8:51,Texas Tech,Davide Moretti,Layup,47,53
+8:16,Virginia,Ty Jerome,Jumper,47,55
+8:03,Texas Tech,Jarrett Culver,Foul,47,55
+8:03,Texas Tech,Jarrett Culver,Turnover,47,55
+7:31,Virginia,Kyle Guy,Missed Three Point Jumper,47,55
+7:31,Texas Tech,Kyler Edwards,Defensive Rebound,47,55
+7:22,Virginia,Braxton Key,Foul,47,55
+7:22,Virginia,None,None,47,55
+7:04,Texas Tech,Brandone Francis,Jumper,49,55
+6:35,Virginia,Ty Jerome,Jumper,49,57
+6:16,Texas Tech,Jarrett Culver,Missed Layup,49,57
+6:16,Texas Tech,Jarrett Culver,Offensive Rebound,49,57
+6:16,Texas Tech,None,None,51,57
+5:46,Virginia,Kyle Guy,Missed Three Point Jumper,51,57
+5:46,Virginia,De'Andre Hunter,Offensive Rebound,51,57
+5:46,Virginia,De'Andre Hunter,Layup,51,59
+5:46,Texas Tech,Tariq Owens,Foul,51,59
+5:46,Virginia,De'Andre Hunter,Missed Free Throw,51,59
+5:46,Texas Tech,Jarrett Culver,Defensive Rebound,51,59
+5:32,Texas Tech,Kyler Edwards,Jumper,53,59
+5:14,Virginia,De'Andre Hunter,Turnover,53,59
+5:14,Texas Tech,Jarrett Culver,Steal,53,59
+5:02,Texas Tech,Davide Moretti,Missed Three Point Jumper,53,59
+5:02,Virginia,Braxton Key,Defensive Rebound,53,59
+4:47,Virginia,None,None,53,59
+4:35,Virginia,Mamadi Diakite,Missed Jumper,53,59
+4:35,Texas Tech,Norense Odiase,Defensive Rebound,53,59
+4:23,Texas Tech,Matt Mooney,Three Point Jumper,56,59
+3:48,Virginia,Ty Jerome,Missed Three Point Jumper,56,59
+3:48,Texas Tech,Brandone Francis,Defensive Rebound,56,59
+3:28,Texas Tech,Norense Odiase,Layup,58,59
+3:28,Virginia,Mamadi Diakite,Foul,58,59
+3:28,Virginia,None,None,58,59
+3:28,Texas Tech,Norense Odiase,Free Throw,59,59
+2:54,Virginia,Kyle Guy,Missed Three Point Jumper,59,59
+2:54,Virginia,Mamadi Diakite,Offensive Rebound,59,59
+2:54,Texas Tech,Brandone Francis,Foul,59,59
+2:54,Virginia,Mamadi Diakite,Free Throw,59,60
+2:54,Virginia,Mamadi Diakite,Free Throw,59,61
+2:38,Texas Tech,Jarrett Culver,Missed Jumper,59,61
+2:38,Texas Tech,Jarrett Culver,Offensive Rebound,59,61
+2:38,Virginia,Kyle Guy,Foul,59,61
+2:38,Texas Tech,Jarrett Culver,Free Throw,60,61
+2:38,Texas Tech,Jarrett Culver,Free Throw,61,61
+2:21,Virginia,De'Andre Hunter,Jumper,61,63
+2:01,Texas Tech,Jarrett Culver,Missed Three Point Jumper,61,63
+2:01,Virginia,Ty Jerome,Defensive Rebound,61,63
+1:45,Virginia,Kyle Guy,Layup,61,65
+1:31,Texas Tech,Davide Moretti,Three Point Jumper,64,65
+1:31,Texas Tech,None,None,64,65
+1:08,Virginia,De'Andre Hunter,Missed Jumper,64,65
+1:08,Texas Tech,Norense Odiase,Block,64,65
+1:08,Texas Tech,Norense Odiase,Defensive Rebound,64,65
+0:42,Texas Tech,Brandone Francis,Missed Three Point Jumper,64,65
+0:42,Texas Tech,Jarrett Culver,Offensive Rebound,64,65
+0:42,Texas Tech,None,None,64,65
+0:35,Texas Tech,Jarrett Culver,Layup,66,65
+0:35,Texas Tech,None,None,66,65
+0:22,Virginia,Ty Jerome,Missed Jumper,66,65
+0:22,Texas Tech,Norense Odiase,Defensive Rebound,66,65
+0:22,Virginia,Braxton Key,Foul,66,65
+0:22,Texas Tech,Norense Odiase,Free Throw,67,65
+0:22,Texas Tech,Norense Odiase,Free Throw,68,65
+0:12,Virginia,De'Andre Hunter,Three Point Jumper,68,68
+0:05,Texas Tech,Jarrett Culver,Missed Three Point Jumper,68,68
+0:05,Virginia,De'Andre Hunter,Defensive Rebound,68,68
+0:02,Virginia,De'Andre Hunter,Turnover,68,68
+0:01,Texas Tech,None,None,68,68
+0:01,Virginia,None,None,68,68
+0:01,Texas Tech,Jarrett Culver,Missed Jumper,68,68
+0:01,Virginia,Braxton Key,Block,68,68
+0:01,Texas Tech,Texas Tech,Offensive Rebound,68,68
+0:00,Virginia,None,None,68,68
+5:00,Virginia,None,None,68,68
+4:37,Virginia,Kyle Guy,Missed Jumper,68,68
+4:37,Virginia,De'Andre Hunter,Offensive Rebound,68,68
+4:37,Texas Tech,Jarrett Culver,Foul,68,68
+4:37,Virginia,De'Andre Hunter,Free Throw,68,69
+4:37,Virginia,De'Andre Hunter,Free Throw,68,70
+4:23,Texas Tech,Matt Mooney,Three Point Jumper,71,70
+4:07,Virginia,Ty Jerome,Missed Jumper,71,70
+4:07,Texas Tech,Norense Odiase,Defensive Rebound,71,70
+3:53,Texas Tech,Jarrett Culver,Missed Jumper,71,70
+3:53,Virginia,Mamadi Diakite,Defensive Rebound,71,70
+3:37,Virginia,De'Andre Hunter,Turnover,71,70
+3:09,Texas Tech,Matt Mooney,Jumper,73,70
+2:45,Texas Tech,Davide Moretti,Foul,73,70
+2:45,Virginia,Kyle Guy,Free Throw,73,71
+2:45,Virginia,Kyle Guy,Free Throw,73,72
+2:27,Texas Tech,Davide Moretti,Missed Jumper,73,72
+2:27,Virginia,Ty Jerome,Defensive Rebound,73,72
+2:10,Virginia,De'Andre Hunter,Three Point Jumper,73,75
+1:52,Texas Tech,Jarrett Culver,Missed Layup,73,75
+1:52,Virginia,Mamadi Diakite,Block,73,75
+1:52,Texas Tech,Texas Tech,Offensive Rebound,73,75
+1:40,Texas Tech,Matt Mooney,Missed Three Point Jumper,73,75
+1:40,Virginia,Braxton Key,Defensive Rebound,73,75
+1:06,Virginia,Ty Jerome,Missed Jumper,73,75
+1:06,Texas Tech,Davide Moretti,Defensive Rebound,73,75
+1:06,Texas Tech,Davide Moretti,Turnover,73,75
+1:06,Virginia,De'Andre Hunter,Steal,73,75
+0:41,Texas Tech,Matt Mooney,Foul,73,75
+0:41,Virginia,Ty Jerome,Free Throw,73,76
+0:41,Virginia,Ty Jerome,Free Throw,73,77
+0:31,Texas Tech,Brandone Francis,Missed Three Point Jumper,73,77
+0:31,Virginia,Braxton Key,Defensive Rebound,73,77
+0:31,Texas Tech,Davide Moretti,Foul,73,77
+0:31,Virginia,Kyle Guy,Free Throw,73,78
+0:31,Virginia,Kyle Guy,Free Throw,73,79
+0:24,Texas Tech,Jarrett Culver,Missed Three Point Jumper,73,79
+0:24,Virginia,Mamadi Diakite,Defensive Rebound,73,79
+0:23,Texas Tech,Matt Mooney,Foul,73,79
+0:23,Virginia,Mamadi Diakite,Free Throw,73,80
+0:23,Virginia,Mamadi Diakite,Free Throw,73,81
+0:16,Texas Tech,Kyler Edwards,Layup,75,81
+0:16,Texas Tech,None,None,75,81
+0:14,Virginia,Braxton Key,Dunk,75,83
+0:08,Texas Tech,Brandone Francis,Layup,77,83
+0:08,Texas Tech,Matt Mooney,Foul,77,83
+0:08,Virginia,Braxton Key,Free Throw,77,84
+0:08,Virginia,Braxton Key,Free Throw,77,85
+0:02,Texas Tech,Matt Mooney,Missed Three Point Jumper,77,85
+0:02,Virginia,De'Andre Hunter,Defensive Rebound,77,85
+0:00,Virginia,None,None,77,85

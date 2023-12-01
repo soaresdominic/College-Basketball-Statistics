@@ -1,0 +1,23 @@
+I wanted to look at dunks in college basketball last season as it's not a common stat outside of the very informative infographics on zion and his love for anime. The things I wanted to look at were total dunks per player, total dunks per team, and differential in team dunks vs opposing team dunks.
+
+The dataset is scraped from ESPN.com play by plays from each game of each D1 team vs a D1 team in NCAA college basketball. Not all play by plays are complete, and not all games have a play by play on ESPN.com. Essentially this skews data for teams in small market leagues that don't have the people to make play by plays or are incomplete.
+
+The first graph shows total dunks by individual players: [graph 1](https://imgur.com/4PRcHAJ)
+The second shows top and bottom 10 teams for dunks / opponent dunk: [graph 2](https://imgur.com/iGWTtJm)
+The others show a scatter plot of total team dunks vs. total opponent dunks: [graph 3](https://imgur.com/piUIeNP), [graph 4](https://imgur.com/qeNhQA5)
+
+First Graph Notes:
+-The only teams with two players in the top 20 total dunks individually are Xavier (Tyrique Jones, Zach Hankins) and Gonzaga (Rui Hachimura, Brandon Clarke)
+-Daniel Gafford has more dunks than 296 teams, 84% (296) of teams in NCAA D1. For reference, Hachimura at #20 has more dunks than 55% (194) of teams.
+
+Second Graph Notes:
+-Guess it helps to have one of the tallest people in the world on your team to keep your dunk ratio high
+-Anyone who follows the game knows FSU and Gonzaga were definitely going to be up there, especially after FSU put 8 dunks to 0 on Gonzaga last year in the tournament, and Gonzaga showcased that even without killian tillie they had some of the best big men in the nation when they beat Duke and were going to play half their season in 7th or 8th best conference in the nation, the dangerous WCC. But it's nice to see Yale as #4.
+
+Third Graph Notes:
+The third graph is a little more interesting. From the linear fit line we get a general equation for the total opponent dunks based on a team's total dunks. This is about 1 opponent dunk per a team's 4 dunks. Then just add 37 onto this number.
+
+The linear fit line has an equation of y=.2553x + 37.42. Solving for x=.2553x + 37.42 gives us the number of dunks that your team needs to make before you can, on average, dunk more than your opponents in a season. This data is heavily skewed because of the lack of a lot of teams play by plays, but the concept remains the same. x = 50.248 dunks. So your team needs to get over 50 dunks to most likely average more than what you give up. How neat is that. Such a nice round number. Just two dunks a game. But honestly, a lot of non-existent play by play data skews this so don't take it as a perfect representation.
+
+One last thing, it's pretty amazing that Zion Williamson (6'7") has the same number of dunks as Taco Fall (7'6"). But this is even amazinger: [graph 5](https://imgur.com/QzNaFv3)
+[all graphs](https://imgur.com/a/kxF41yS)

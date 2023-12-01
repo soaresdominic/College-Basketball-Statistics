@@ -1,0 +1,305 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Purdue,None,None,0,0
+19:36,Purdue,Ryan Cline,Three Point Jumper,3,0
+19:07,Virginia,Mamadi Diakite,Jumper,3,2
+18:39,Purdue,Matt Haarms,Layup,5,2
+18:12,Virginia,Ty Jerome,Jumper,5,4
+17:55,Purdue,Carsen Edwards,Three Point Jumper,8,4
+17:23,Virginia,Mamadi Diakite,Layup,8,6
+17:01,Purdue,Carsen Edwards,Three Point Jumper,11,6
+16:31,Virginia,Kyle Guy,Jumper,11,8
+16:10,Purdue,Carsen Edwards,Missed Three Point Jumper,11,8
+16:10,Virginia,Kyle Guy,Defensive Rebound,11,8
+15:40,Virginia,Ty Jerome,Missed Three Point Jumper,11,8
+15:40,Virginia,De'Andre Hunter,Offensive Rebound,11,8
+15:34,Purdue,Grady Eifert,Foul,11,8
+15:34,Virginia,None,None,11,8
+15:22,Virginia,Kyle Guy,Missed Three Point Jumper,11,8
+15:22,Virginia,De'Andre Hunter,Offensive Rebound,11,8
+15:19,Virginia,Mamadi Diakite,Dunk,11,10
+14:56,Purdue,Nojel Eastern,Missed Layup,11,10
+14:56,Virginia,Mamadi Diakite,Block,11,10
+14:56,Virginia,Kyle Guy,Defensive Rebound,11,10
+14:48,Virginia,Ty Jerome,Missed Three Point Jumper,11,10
+14:48,Purdue,Aaron Wheeler,Defensive Rebound,11,10
+14:37,Purdue,Aaron Wheeler,Missed Three Point Jumper,11,10
+14:37,Virginia,Kihei Clark,Defensive Rebound,11,10
+14:13,Virginia,De'Andre Hunter,Missed Jumper,11,10
+14:13,Purdue,Nojel Eastern,Defensive Rebound,11,10
+13:45,Purdue,Ryan Cline,Three Point Jumper,14,10
+13:15,Virginia,De'Andre Hunter,Layup,14,12
+12:53,Purdue,Nojel Eastern,Missed Layup,14,12
+12:53,Virginia,Mamadi Diakite,Block,14,12
+12:53,Virginia,De'Andre Hunter,Defensive Rebound,14,12
+12:34,Virginia,De'Andre Hunter,Missed Three Point Jumper,14,12
+12:34,Purdue,Ryan Cline,Defensive Rebound,14,12
+12:00,Purdue,Purdue ,Turnover,14,12
+11:39,Virginia,Kyle Guy,Missed Layup,14,12
+11:39,Purdue,Aaron Wheeler,Defensive Rebound,14,12
+11:15,Purdue,Trevion Williams,Missed Layup,14,12
+11:15,Purdue,Aaron Wheeler,Offensive Rebound,14,12
+11:08,Purdue,Eric Hunter Jr.,Three Point Jumper,17,12
+10:46,Virginia,Braxton Key,Missed Layup,17,12
+10:46,Purdue,Aaron Wheeler,Block,17,12
+10:46,Purdue,Trevion Williams,Defensive Rebound,17,12
+10:33,Virginia,Kihei Clark,Foul,17,12
+10:33,Virginia,None,None,17,12
+10:33,Purdue,Carsen Edwards,Free Throw,18,12
+10:33,Purdue,Carsen Edwards,Free Throw,19,12
+10:20,Virginia,Braxton Key,Missed Three Point Jumper,19,12
+10:20,Purdue,Eric Hunter Jr.,Defensive Rebound,19,12
+10:10,Purdue,Trevion Williams,Turnover,19,12
+10:10,Virginia,Braxton Key,Steal,19,12
+10:06,Virginia,Ty Jerome,Turnover,19,12
+9:46,Purdue,Aaron Wheeler,Three Point Jumper,22,12
+9:21,Virginia,Kyle Guy,Missed Three Point Jumper,22,12
+9:21,Virginia,Jack Salt,Offensive Rebound,22,12
+9:17,Purdue,Carsen Edwards,Foul,22,12
+9:17,Virginia,Kyle Guy,Missed Free Throw,22,12
+9:17,Virginia,None,Team Rebound,22,12
+9:17,Virginia,Kyle Guy,Free Throw,22,13
+9:17,Virginia,Kyle Guy,Free Throw,22,14
+8:58,Purdue,Aaron Wheeler,Missed Three Point Jumper,22,14
+8:58,Virginia,Jack Salt,Defensive Rebound,22,14
+8:37,Virginia,Mamadi Diakite,Jumper,22,16
+8:14,Purdue,Carsen Edwards,Three Point Jumper,25,16
+7:56,Purdue,Nojel Eastern,Foul,25,16
+7:56,Virginia,None,None,25,16
+7:47,Virginia,Ty Jerome,Three Point Jumper,25,19
+7:26,Purdue,Carsen Edwards,Missed Three Point Jumper,25,19
+7:26,Virginia,De'Andre Hunter,Defensive Rebound,25,19
+7:00,Virginia,Ty Jerome,Missed Three Point Jumper,25,19
+7:00,Purdue,Grady Eifert,Defensive Rebound,25,19
+6:40,Virginia,Ty Jerome,Foul,25,19
+6:31,Purdue,Grady Eifert,Missed Three Point Jumper,25,19
+6:31,Purdue,Matt Haarms,Offensive Rebound,25,19
+6:30,Virginia,Kihei Clark,Foul,25,19
+6:13,Purdue,Matt Haarms,Turnover,25,19
+5:59,Virginia,Ty Jerome,Missed Jumper,25,19
+5:59,Purdue,Ryan Cline,Defensive Rebound,25,19
+5:49,Purdue,Ryan Cline,Missed Three Point Jumper,25,19
+5:49,Virginia,Kyle Guy,Defensive Rebound,25,19
+5:24,Virginia,Jack Salt,Jumper,25,21
+5:03,Purdue,Ryan Cline,Missed Three Point Jumper,25,21
+5:03,Virginia,Kyle Guy,Defensive Rebound,25,21
+4:47,Virginia,Ty Jerome,Three Point Jumper,25,24
+4:21,Purdue,Carsen Edwards,Jumper,27,24
+4:00,Virginia,De'Andre Hunter,Jumper,27,26
+3:45,Purdue,Carsen Edwards,Three Point Jumper,30,26
+3:23,Virginia,Kyle Guy,Missed Three Point Jumper,30,26
+3:23,Virginia,Ty Jerome,Offensive Rebound,30,26
+3:14,Virginia,Kyle Guy,Missed Jumper,30,26
+3:14,Purdue,Matt Haarms,Block,30,26
+3:14,Purdue,Ryan Cline,Defensive Rebound,30,26
+3:13,Virginia,None,None,30,26
+2:57,Purdue,Carsen Edwards,Missed Three Point Jumper,30,26
+2:57,Purdue,Aaron Wheeler,Offensive Rebound,30,26
+2:49,Purdue,Aaron Wheeler,Missed Three Point Jumper,30,26
+2:49,Virginia,Ty Jerome,Defensive Rebound,30,26
+2:26,Virginia,Mamadi Diakite,Missed Three Point Jumper,30,26
+2:26,Purdue,Carsen Edwards,Defensive Rebound,30,26
+2:09,Purdue,Ryan Cline,Missed Three Point Jumper,30,26
+2:09,Virginia,Jack Salt,Defensive Rebound,30,26
+1:55,Purdue,Ryan Cline,Foul,30,26
+1:52,Virginia,Mamadi Diakite,Missed Layup,30,26
+1:52,Purdue,Trevion Williams,Block,30,26
+1:52,Virginia,Mamadi Diakite,Offensive Rebound,30,26
+1:52,Purdue,Trevion Williams,Foul,30,26
+1:52,Virginia,Jack Salt,Free Throw,30,27
+1:52,Virginia,Jack Salt,Missed Free Throw,30,27
+1:52,Purdue,Aaron Wheeler,Defensive Rebound,30,27
+1:33,Virginia,De'Andre Hunter,Foul,30,27
+1:29,Purdue,Carsen Edwards,Missed Three Point Jumper,30,27
+1:29,Virginia,Mamadi Diakite,Defensive Rebound,30,27
+1:04,Virginia,Kihei Clark,Missed Three Point Jumper,30,27
+1:04,Virginia,Kihei Clark,Offensive Rebound,30,27
+1:00,Virginia,Mamadi Diakite,Layup,30,29
+0:29,Purdue,Ryan Cline,Missed Jumper,30,29
+0:29,Virginia,Mamadi Diakite,Defensive Rebound,30,29
+0:01,Purdue,Eric Hunter Jr.,Foul,30,29
+0:01,Virginia,None,None,30,29
+0:01,Virginia,Mamadi Diakite,Missed Jumper,30,29
+0:01,Purdue,Aaron Wheeler,Defensive Rebound,30,29
+0:00,Virginia,None,None,30,29
+20:00,Virginia,None,None,30,29
+19:33,Virginia,Kyle Guy,Three Point Jumper,30,32
+19:12,Purdue,Matt Haarms,Missed Jumper,30,32
+19:12,Virginia,Ty Jerome,Defensive Rebound,30,32
+18:47,Virginia,Ty Jerome,Missed Jumper,30,32
+18:47,Purdue,Matt Haarms,Defensive Rebound,30,32
+18:44,Virginia,Ty Jerome,Foul,30,32
+18:22,Purdue,Carsen Edwards,Turnover,30,32
+18:22,Virginia,De'Andre Hunter,Steal,30,32
+18:05,Virginia,Kyle Guy,Three Point Jumper,30,35
+17:47,Purdue,Carsen Edwards,Missed Three Point Jumper,30,35
+17:47,Virginia,Mamadi Diakite,Defensive Rebound,30,35
+17:30,Virginia,Jack Salt,Foul,30,35
+17:30,Virginia,Jack Salt,Turnover,30,35
+17:10,Purdue,Nojel Eastern,Layup,32,35
+16:47,Virginia,Ty Jerome,Jumper,32,37
+16:47,Purdue,Carsen Edwards,Foul,32,37
+16:47,Virginia,Ty Jerome,Free Throw,32,38
+16:23,Virginia,De'Andre Hunter,Foul,32,38
+16:17,Purdue,Matt Haarms,Missed Three Point Jumper,32,38
+16:17,Virginia,Jack Salt,Defensive Rebound,32,38
+15:47,Virginia,Mamadi Diakite,Missed Layup,32,38
+15:47,Purdue,Nojel Eastern,Defensive Rebound,32,38
+15:43,Purdue,Nojel Eastern,Layup,34,38
+15:18,Virginia,Kyle Guy,Three Point Jumper,34,41
+14:58,Purdue,Matt Haarms,Jumper,36,41
+14:39,Purdue,Carsen Edwards,Foul,36,41
+14:39,Virginia,None,None,36,41
+14:39,Virginia,Mamadi Diakite,Free Throw,36,42
+14:39,Virginia,Mamadi Diakite,Free Throw,36,43
+14:24,Virginia,Mamadi Diakite,Foul,36,43
+14:24,Purdue,Aaron Wheeler,Missed Free Throw,36,43
+14:24,Purdue,None,Team Rebound,36,43
+14:24,Purdue,Aaron Wheeler,Free Throw,37,43
+14:02,Virginia,Ty Jerome,Missed Jumper,37,43
+14:02,Virginia,De'Andre Hunter,Offensive Rebound,37,43
+13:58,Virginia,De'Andre Hunter,Layup,37,45
+13:43,Purdue,Carsen Edwards,Three Point Jumper,40,45
+13:22,Virginia,Ty Jerome,Three Point Jumper,40,48
+13:07,Purdue,Carsen Edwards,Three Point Jumper,43,48
+12:36,Virginia,De'Andre Hunter,Missed Jumper,43,48
+12:36,Virginia,Jack Salt,Offensive Rebound,43,48
+12:18,Virginia,Mamadi Diakite,Missed Jumper,43,48
+12:18,Virginia,Jack Salt,Offensive Rebound,43,48
+12:15,Virginia,Jack Salt,Layup,43,50
+12:03,Purdue,Carsen Edwards,Three Point Jumper,46,50
+11:41,Virginia,Kyle Guy,Three Point Jumper,46,53
+11:36,Virginia,None,None,46,53
+11:22,Purdue,Trevion Williams,Jumper,48,53
+11:04,Virginia,Kyle Guy,Missed Three Point Jumper,48,53
+11:04,Purdue,Trevion Williams,Defensive Rebound,48,53
+10:47,Purdue,Carsen Edwards,Jumper,50,53
+10:17,Purdue,Eric Hunter Jr.,Foul,50,53
+10:17,Virginia,None,None,50,53
+10:17,Virginia,Ty Jerome,Free Throw,50,54
+10:17,Virginia,Ty Jerome,Free Throw,50,55
+10:05,Purdue,Carsen Edwards,Missed Three Point Jumper,50,55
+10:05,Virginia,Kyle Guy,Defensive Rebound,50,55
+9:43,Virginia,Kyle Guy,Turnover,50,55
+9:43,Purdue,Trevion Williams,Steal,50,55
+9:38,Purdue,Eric Hunter Jr.,Layup,52,55
+9:16,Virginia,Kihei Clark,Missed Three Point Jumper,52,55
+9:16,Virginia,Mamadi Diakite,Offensive Rebound,52,55
+9:12,Purdue,Aaron Wheeler,Foul,52,55
+8:58,Virginia,Ty Jerome,Missed Jumper,52,55
+8:58,Virginia,Kihei Clark,Offensive Rebound,52,55
+8:48,Virginia,Kyle Guy,Three Point Jumper,52,58
+8:33,Purdue,Carsen Edwards,Three Point Jumper,55,58
+8:10,Virginia,De'Andre Hunter,Missed Jumper,55,58
+8:10,Virginia,Jack Salt,Offensive Rebound,55,58
+7:58,Virginia,Kyle Guy,Missed Three Point Jumper,55,58
+7:58,Purdue,Trevion Williams,Defensive Rebound,55,58
+7:46,Purdue,Carsen Edwards,Missed Three Point Jumper,55,58
+7:46,Virginia,Kyle Guy,Defensive Rebound,55,58
+7:46,Purdue,Trevion Williams,Foul,55,58
+7:46,Virginia,None,None,55,58
+7:20,Virginia,Jack Salt,Missed Jumper,55,58
+7:20,Purdue,Trevion Williams,Defensive Rebound,55,58
+7:19,Virginia,Mamadi Diakite,Foul,55,58
+7:10,Purdue,Trevion Williams,Jumper,57,58
+6:47,Virginia,Ty Jerome,Three Point Jumper,57,61
+6:25,Purdue,Trevion Williams,Missed Jumper,57,61
+6:25,Virginia,Mamadi Diakite,Block,57,61
+6:25,Purdue,Eric Hunter Jr.,Offensive Rebound,57,61
+6:20,Purdue,Matt Haarms,Turnover,57,61
+6:20,Virginia,Jack Salt,Steal,57,61
+5:56,Virginia,De'Andre Hunter,Missed Jumper,57,61
+5:56,Virginia,Kyle Guy,Offensive Rebound,57,61
+5:52,Virginia,Kyle Guy,Layup,57,63
+5:31,Purdue,Eric Hunter Jr.,Missed Three Point Jumper,57,63
+5:31,Purdue,Trevion Williams,Offensive Rebound,57,63
+5:16,Purdue,Carsen Edwards,Three Point Jumper,60,63
+4:48,Virginia,Ty Jerome,Missed Three Point Jumper,60,63
+4:48,Purdue,Eric Hunter Jr.,Defensive Rebound,60,63
+4:45,Virginia,Ty Jerome,Foul,60,63
+4:39,Purdue,Carsen Edwards,Layup,62,63
+4:13,Virginia,Kyle Guy,Missed Jumper,62,63
+4:13,Purdue,Trevion Williams,Defensive Rebound,62,63
+4:01,Purdue,Carsen Edwards,Missed Jumper,62,63
+4:01,Purdue,Nojel Eastern,Offensive Rebound,62,63
+3:56,Purdue,Nojel Eastern,Layup,64,63
+3:36,Purdue,Trevion Williams,Foul,64,63
+3:36,Virginia,None,None,64,63
+3:34,Virginia,Kyle Guy,Layup,64,65
+3:21,Virginia,Kihei Clark,Foul,64,65
+3:21,Purdue,Carsen Edwards,Free Throw,65,65
+3:21,Purdue,Carsen Edwards,Free Throw,66,65
+3:09,Purdue,Trevion Williams,Foul,66,65
+3:09,Virginia,Ty Jerome,Free Throw,66,66
+3:09,Virginia,Ty Jerome,Free Throw,66,67
+3:09,Virginia,None,None,66,67
+3:05,Purdue,Carsen Edwards,Turnover,66,67
+3:05,Virginia,Kihei Clark,Steal,66,67
+2:58,Virginia,Kyle Guy,Missed Layup,66,67
+2:58,Purdue,Trevion Williams,Defensive Rebound,66,67
+2:46,Purdue,Trevion Williams,Turnover,66,67
+2:46,Virginia,Kyle Guy,Steal,66,67
+2:23,Virginia,Ty Jerome,Missed Three Point Jumper,66,67
+2:23,Virginia,Mamadi Diakite,Offensive Rebound,66,67
+1:57,Virginia,Ty Jerome,Missed Three Point Jumper,66,67
+1:57,Virginia,Kihei Clark,Offensive Rebound,66,67
+1:27,Virginia,Ty Jerome,Missed Jumper,66,67
+1:27,Purdue,Matt Haarms,Block,66,67
+1:27,Purdue,Matt Haarms,Defensive Rebound,66,67
+1:15,Purdue,None,None,66,67
+1:11,Purdue,Carsen Edwards,Three Point Jumper,69,67
+0:45,Virginia,Kyle Guy,Missed Three Point Jumper,69,67
+0:45,Virginia,Kyle Guy,Offensive Rebound,69,67
+0:43,Virginia,Kyle Guy,Turnover,69,67
+0:21,Purdue,Carsen Edwards,Missed Three Point Jumper,69,67
+0:21,Purdue,Grady Eifert,Offensive Rebound,69,67
+0:17,Virginia,Jack Salt,Foul,69,67
+0:17,Purdue,Ryan Cline,Free Throw,70,67
+0:17,Purdue,Ryan Cline,Missed Free Throw,70,67
+0:17,Virginia,Ty Jerome,Defensive Rebound,70,67
+0:05,Purdue,Nojel Eastern,Foul,70,67
+0:05,Virginia,Ty Jerome,Free Throw,70,68
+0:05,Virginia,Ty Jerome,Missed Free Throw,70,68
+0:05,Virginia,Mamadi Diakite,Offensive Rebound,70,68
+0:01,Virginia,Mamadi Diakite,Jumper,70,70
+0:00,Virginia,None,None,70,70
+5:00,Purdue,None,None,70,70
+4:42,Purdue,Carsen Edwards,Turnover,70,70
+4:42,Virginia,Kihei Clark,Steal,70,70
+4:19,Virginia,Kyle Guy,Missed Three Point Jumper,70,70
+4:19,Purdue,Carsen Edwards,Defensive Rebound,70,70
+3:51,Purdue,Matt Haarms,Layup,72,70
+3:19,Virginia,Ty Jerome,Jumper,72,72
+2:59,Purdue,Matt Haarms,Missed Jumper,72,72
+2:59,Virginia,Mamadi Diakite,Block,72,72
+2:59,Virginia,Virginia,Defensive Rebound,72,72
+2:38,Virginia,De'Andre Hunter,Missed Layup,72,72
+2:38,Purdue,Matt Haarms,Block,72,72
+2:38,Purdue,Grady Eifert,Defensive Rebound,72,72
+2:13,Purdue,Ryan Cline,Missed Jumper,72,72
+2:13,Purdue,Nojel Eastern,Offensive Rebound,72,72
+2:12,Virginia,Ty Jerome,Foul,72,72
+2:12,Purdue,Nojel Eastern,Free Throw,73,72
+2:12,Purdue,Nojel Eastern,Missed Free Throw,73,72
+2:12,Virginia,Mamadi Diakite,Defensive Rebound,73,72
+1:43,Purdue,Matt Haarms,Foul,73,72
+1:43,Virginia,De'Andre Hunter,Free Throw,73,73
+1:43,Virginia,De'Andre Hunter,Free Throw,73,74
+1:30,Purdue,Carsen Edwards,Missed Jumper,73,74
+1:30,Virginia,Kyle Guy,Defensive Rebound,73,74
+1:00,Virginia,De'Andre Hunter,Turnover,73,74
+0:59,Purdue,None,None,73,74
+0:43,Purdue,Carsen Edwards,Jumper,75,74
+0:28,Virginia,De'Andre Hunter,Layup,75,76
+0:26,Virginia,None,None,75,76
+0:07,Purdue,Carsen Edwards,Missed Three Point Jumper,75,76
+0:07,Virginia,Kyle Guy,Defensive Rebound,75,76
+0:05,Purdue,Aaron Wheeler,Foul,75,76
+0:05,Virginia,Kyle Guy,Free Throw,75,77
+0:05,Virginia,Kyle Guy,Free Throw,75,78
+0:05,Virginia,None,None,75,78
+0:02,Purdue,None,None,75,78
+0:01,Purdue,Carsen Edwards,Turnover,75,78
+0:01,Purdue,Ryan Cline,Foul,75,78
+0:01,Virginia,Kihei Clark,Free Throw,75,79
+0:01,Virginia,Kihei Clark,Free Throw,75,80
+0:00,Virginia,None,None,75,80

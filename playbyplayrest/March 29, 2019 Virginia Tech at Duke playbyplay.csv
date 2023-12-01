@@ -1,0 +1,306 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Virginia Tech,None,None,0,0
+19:42,Virginia Tech,Ahmed Hill,Three Point Jumper,3,0
+19:25,Duke,Zion Williamson,Layup,3,2
+18:57,Virginia Tech,Kerry Blackshear Jr.,Turnover,3,2
+18:45,Duke,Alex O'Connell,Turnover,3,2
+18:36,Virginia Tech,Nickeil Alexander-Walker,Turnover,3,2
+18:36,Duke,Zion Williamson,Steal,3,2
+18:18,Duke,RJ Barrett,Missed Jumper,3,2
+18:18,Virginia Tech,Kerry Blackshear Jr.,Block,3,2
+18:18,Duke,Duke,Offensive Rebound,3,2
+18:12,Duke,Alex O'Connell,Missed Three Point Jumper,3,2
+18:12,Virginia Tech,Ahmed Hill,Defensive Rebound,3,2
+18:02,Duke,RJ Barrett,Foul,3,2
+18:02,Virginia Tech,Nickeil Alexander-Walker,Free Throw,4,2
+18:02,Virginia Tech,Nickeil Alexander-Walker,Free Throw,5,2
+17:51,Duke,RJ Barrett,Missed Jumper,5,2
+17:51,Duke,Zion Williamson,Offensive Rebound,5,2
+17:46,Duke,Zion Williamson,Dunk,5,4
+17:30,Virginia Tech,Kerry Blackshear Jr.,Jumper,7,4
+16:54,Duke,Alex O'Connell,Layup,7,6
+16:47,Virginia Tech,Ahmed Hill,Three Point Jumper,10,6
+16:29,Duke,Tre Jones,Missed Jumper,10,6
+16:29,Virginia Tech,Nickeil Alexander-Walker,Defensive Rebound,10,6
+16:16,Virginia Tech,Ahmed Hill,Missed Dunk,10,6
+16:16,Duke,Javin DeLaurier,Block,10,6
+16:16,Duke,Javin DeLaurier,Defensive Rebound,10,6
+16:06,Duke,Zion Williamson,Three Point Jumper,10,9
+15:44,Virginia Tech,Wabissa Bede,Layup,12,9
+15:24,Duke,RJ Barrett,Missed Three Point Jumper,12,9
+15:24,Virginia Tech,Ahmed Hill,Defensive Rebound,12,9
+15:04,Virginia Tech,Wabissa Bede,Three Point Jumper,15,9
+14:41,Duke,Javin DeLaurier,Dunk,15,11
+14:21,Virginia Tech,Nickeil Alexander-Walker,Missed Three Point Jumper,15,11
+14:21,Virginia Tech,Ahmed Hill,Offensive Rebound,15,11
+13:53,Virginia Tech,Wabissa Bede,Missed Three Point Jumper,15,11
+13:53,Virginia Tech,Virginia Tech,Offensive Rebound,15,11
+13:53,Duke,None,None,15,11
+13:36,Virginia Tech,Nickeil Alexander-Walker,Foul,15,11
+13:36,Virginia Tech,Nickeil Alexander-Walker,Turnover,15,11
+13:18,Duke,Zion Williamson,Missed Layup,15,11
+13:18,Virginia Tech,Kerry Blackshear Jr.,Block,15,11
+13:18,Duke,Zion Williamson,Offensive Rebound,15,11
+13:12,Duke,Tre Jones,Three Point Jumper,15,14
+12:46,Duke,Marques Bolden,Foul,15,14
+12:46,Virginia Tech,Kerry Blackshear Jr.,Free Throw,16,14
+12:46,Virginia Tech,Kerry Blackshear Jr.,Free Throw,17,14
+12:31,Duke,Tre Jones,Three Point Jumper,17,17
+11:57,Virginia Tech,Kerry Blackshear Jr.,Missed Jumper,17,17
+11:57,Duke,Zion Williamson,Block,17,17
+11:57,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,17,17
+11:50,Virginia Tech,Ty Outlaw,Missed Three Point Jumper,17,17
+11:50,Duke,RJ Barrett,Defensive Rebound,17,17
+11:39,Duke,Jack White,Turnover,17,17
+11:39,Virginia Tech,Justin Robinson,Steal,17,17
+11:34,Virginia Tech,Ahmed Hill,Dunk,19,17
+11:16,Duke,Tre Jones,Missed Three Point Jumper,19,17
+11:16,Virginia Tech,Virginia Tech,Defensive Rebound,19,17
+11:16,Duke,None,None,19,17
+10:51,Virginia Tech,Ty Outlaw,Turnover,19,17
+10:22,Duke,Javin DeLaurier,Dunk,19,19
+9:54,Virginia Tech,Kerry Blackshear Jr.,Layup,21,19
+9:45,Duke,Zion Williamson,Turnover,21,19
+9:45,Virginia Tech,Justin Robinson,Steal,21,19
+9:39,Duke,Javin DeLaurier,Foul,21,19
+9:39,Virginia Tech,Ahmed Hill,Missed Three Point Jumper,21,19
+9:39,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,21,19
+9:35,Virginia Tech,Nickeil Alexander-Walker,Missed Three Point Jumper,21,19
+9:35,Duke,RJ Barrett,Defensive Rebound,21,19
+9:30,Virginia Tech,Kerry Blackshear Jr.,Foul,21,19
+8:59,Duke,RJ Barrett,Missed Three Point Jumper,21,19
+8:59,Duke,Zion Williamson,Offensive Rebound,21,19
+8:59,Duke,Zion Williamson,Layup,21,21
+8:59,Virginia Tech,P.J. Horne,Foul,21,21
+8:59,Duke,Zion Williamson,Missed Free Throw,21,21
+8:59,Virginia Tech,Ahmed Hill,Defensive Rebound,21,21
+8:44,Virginia Tech,Wabissa Bede,Three Point Jumper,24,21
+8:12,Duke,Zion Williamson,Missed Three Point Jumper,24,21
+8:12,Virginia Tech,Virginia Tech,Defensive Rebound,24,21
+7:53,Virginia Tech,Justin Robinson,Turnover,24,21
+7:53,Duke,Marques Bolden,Steal,24,21
+7:46,Duke,RJ Barrett,Layup,24,23
+7:18,Virginia Tech,Nickeil Alexander-Walker,Missed Layup,24,23
+7:18,Duke,Marques Bolden,Block,24,23
+7:18,Duke,Marques Bolden,Defensive Rebound,24,23
+7:09,Duke,Marques Bolden,Foul,24,23
+7:09,Duke,Marques Bolden,Turnover,24,23
+7:09,Duke,None,None,24,23
+6:55,Virginia Tech,Justin Robinson,Missed Three Point Jumper,24,23
+6:55,Duke,Alex O'Connell,Defensive Rebound,24,23
+6:31,Duke,Tre Jones,Layup,24,25
+6:31,Virginia Tech,Nickeil Alexander-Walker,Foul,24,25
+6:31,Duke,Tre Jones,Free Throw,24,26
+6:10,Virginia Tech,Justin Robinson,Turnover,24,26
+6:10,Duke,Javin DeLaurier,Steal,24,26
+5:59,Duke,Alex O'Connell,Layup,24,28
+5:45,Virginia Tech,Justin Robinson,Three Point Jumper,27,28
+5:22,Duke,Zion Williamson,Missed Jumper,27,28
+5:22,Virginia Tech,Kerry Blackshear Jr.,Defensive Rebound,27,28
+5:16,Virginia Tech,Ahmed Hill,Three Point Jumper,30,28
+4:59,Duke,Zion Williamson,Layup,30,30
+4:33,Virginia Tech,Justin Robinson,Three Point Jumper,33,30
+4:10,Virginia Tech,Ahmed Hill,Foul,33,30
+3:55,Duke,Tre Jones,Missed Jumper,33,30
+3:55,Virginia Tech,None,Team Rebound,33,30
+3:55,Duke,None,None,33,30
+3:43,Virginia Tech,Ahmed Hill,Missed Three Point Jumper,33,30
+3:43,Duke,Zion Williamson,Defensive Rebound,33,30
+3:27,Duke,Tre Jones,Three Point Jumper,33,33
+3:08,Virginia Tech,Justin Robinson,Missed Layup,33,33
+3:08,Duke,Marques Bolden,Block,33,33
+3:08,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,33,33
+3:08,Virginia Tech,Kerry Blackshear Jr.,Missed Layup,33,33
+3:08,Duke,Zion Williamson,Block,33,33
+3:08,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,33,33
+3:08,Duke,Marques Bolden,Foul,33,33
+3:08,Virginia Tech,Kerry Blackshear Jr.,Missed Free Throw,33,33
+3:08,Virginia Tech,None,Team Rebound,33,33
+3:08,Virginia Tech,Kerry Blackshear Jr.,Free Throw,34,33
+3:00,Duke,RJ Barrett,Turnover,34,33
+3:00,Virginia Tech,Isaiah Wilkins,Steal,34,33
+2:49,Virginia Tech,P.J. Horne,Missed Three Point Jumper,34,33
+2:49,Duke,Alex O'Connell,Defensive Rebound,34,33
+2:30,Duke,Alex O'Connell,Missed Three Point Jumper,34,33
+2:30,Virginia Tech,Justin Robinson,Defensive Rebound,34,33
+2:03,Virginia Tech,Ahmed Hill,Missed Jumper,34,33
+2:03,Duke,Alex O'Connell,Defensive Rebound,34,33
+1:51,Duke,RJ Barrett,Missed Three Point Jumper,34,33
+1:51,Virginia Tech,Isaiah Wilkins,Defensive Rebound,34,33
+1:25,Virginia Tech,Isaiah Wilkins,Missed Three Point Jumper,34,33
+1:25,Virginia Tech,Wabissa Bede,Offensive Rebound,34,33
+1:18,Virginia Tech,Wabissa Bede,Layup,36,33
+1:18,Duke,None,None,36,33
+1:03,Duke,RJ Barrett,Turnover,36,33
+1:03,Virginia Tech,Kerry Blackshear Jr.,Steal,36,33
+0:58,Virginia Tech,Ahmed Hill,Layup,38,33
+0:41,Duke,RJ Barrett,Foul,38,33
+0:41,Duke,RJ Barrett,Turnover,38,33
+0:29,Virginia Tech,Kerry Blackshear Jr.,Missed Three Point Jumper,38,33
+0:29,Duke,Alex O'Connell,Defensive Rebound,38,33
+0:04,Virginia Tech,Ty Outlaw,Foul,38,33
+0:03,Virginia Tech,Ahmed Hill,Foul,38,33
+0:03,Duke,RJ Barrett,Free Throw,38,34
+0:03,Virginia Tech,None,None,38,34
+0:03,Duke,RJ Barrett,Missed Free Throw,38,34
+0:03,Virginia Tech,Ahmed Hill,Defensive Rebound,38,34
+0:00,Duke,None,None,38,34
+20:00,Duke,None,None,38,34
+19:48,Duke,RJ Barrett,Layup,38,36
+19:22,Virginia Tech,Ty Outlaw,Missed Layup,38,36
+19:22,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,38,36
+19:22,Virginia Tech,None,None,38,36
+19:22,Virginia Tech,Virginia Tech,Offensive Rebound,38,36
+19:21,Virginia Tech,Kerry Blackshear Jr.,Missed Three Point Jumper,38,36
+19:21,Duke,Javin DeLaurier,Defensive Rebound,38,36
+19:08,Duke,Tre Jones,Missed Layup,38,36
+19:08,Duke,Tre Jones,Offensive Rebound,38,36
+19:01,Duke,Alex O'Connell,Missed Three Point Jumper,38,36
+19:01,Virginia Tech,Kerry Blackshear Jr.,Defensive Rebound,38,36
+18:42,Virginia Tech,Ty Outlaw,Missed Jumper,38,36
+18:42,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,38,36
+18:37,Duke,Javin DeLaurier,Foul,38,36
+18:37,Virginia Tech,Kerry Blackshear Jr.,Missed Free Throw,38,36
+18:37,Virginia Tech,None,Team Rebound,38,36
+18:37,Virginia Tech,Kerry Blackshear Jr.,Free Throw,39,36
+18:28,Duke,Tre Jones,Jumper,39,38
+17:59,Virginia Tech,Wabissa Bede,Missed Three Point Jumper,39,38
+17:59,Duke,Tre Jones,Defensive Rebound,39,38
+17:53,Duke,Zion Williamson,Layup,39,40
+17:34,Virginia Tech,Nickeil Alexander-Walker,Missed Jumper,39,40
+17:34,Virginia Tech,Virginia Tech,Offensive Rebound,39,40
+17:29,Virginia Tech,Ty Outlaw,Three Point Jumper,42,40
+17:16,Duke,RJ Barrett,Layup,42,42
+16:58,Virginia Tech,Nickeil Alexander-Walker,Layup,44,42
+16:49,Duke,RJ Barrett,Turnover,44,42
+16:21,Virginia Tech,Ty Outlaw,Missed Jumper,44,42
+16:21,Duke,Marques Bolden,Defensive Rebound,44,42
+16:14,Virginia Tech,Ty Outlaw,Foul,44,42
+16:14,Duke,RJ Barrett,Free Throw,44,43
+16:14,Duke,RJ Barrett,Free Throw,44,44
+16:02,Virginia Tech,Ty Outlaw,Layup,46,44
+15:48,Duke,Zion Williamson,Layup,46,46
+15:29,Duke,None,None,46,46
+15:15,Virginia Tech,Justin Robinson,Layup,48,46
+14:56,Duke,RJ Barrett,Missed Three Point Jumper,48,46
+14:56,Virginia Tech,Kerry Blackshear Jr.,Defensive Rebound,48,46
+14:28,Virginia Tech,Nickeil Alexander-Walker,Missed Three Point Jumper,48,46
+14:28,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,48,46
+14:22,Virginia Tech,Kerry Blackshear Jr.,Missed Jumper,48,46
+14:22,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,48,46
+14:22,Virginia Tech,None,None,48,46
+14:22,Duke,RJ Barrett,Defensive Rebound,48,46
+14:08,Duke,RJ Barrett,Jumper,48,48
+14:08,Virginia Tech,Kerry Blackshear Jr.,Foul,48,48
+14:08,Duke,RJ Barrett,Free Throw,48,49
+13:40,Virginia Tech,Isaiah Wilkins,Layup,50,49
+13:19,Duke,Alex O'Connell,Turnover,50,49
+13:05,Virginia Tech,Kerry Blackshear Jr.,Turnover,50,49
+12:59,Duke,RJ Barrett,Layup,50,51
+12:40,Virginia Tech,Kerry Blackshear Jr.,Layup,52,51
+12:23,Duke,Tre Jones,Missed Three Point Jumper,52,51
+12:23,Virginia Tech,Justin Robinson,Defensive Rebound,52,51
+12:15,Virginia Tech,Justin Robinson,Turnover,52,51
+12:15,Duke,RJ Barrett,Steal,52,51
+12:08,Duke,RJ Barrett,Layup,52,53
+11:50,Virginia Tech,Justin Robinson,Missed Layup,52,53
+11:50,Duke,Alex O'Connell,Defensive Rebound,52,53
+11:50,Virginia Tech,Kerry Blackshear Jr.,Foul,52,53
+11:50,Duke,None,None,52,53
+11:36,Duke,Tre Jones,Three Point Jumper,52,56
+11:11,Virginia Tech,Isaiah Wilkins,Missed Three Point Jumper,52,56
+11:11,Duke,Alex O'Connell,Defensive Rebound,52,56
+10:46,Duke,RJ Barrett,Missed Three Point Jumper,52,56
+10:46,Virginia Tech,P.J. Horne,Defensive Rebound,52,56
+10:41,Virginia Tech,Nickeil Alexander-Walker,Turnover,52,56
+10:41,Duke,Tre Jones,Steal,52,56
+10:31,Duke,Zion Williamson,Dunk,52,58
+10:23,Virginia Tech,None,None,52,58
+10:03,Virginia Tech,Kerry Blackshear Jr.,Missed Layup,52,58
+10:03,Duke,Marques Bolden,Defensive Rebound,52,58
+9:36,Duke,RJ Barrett,Missed Three Point Jumper,52,58
+9:36,Virginia Tech,Justin Robinson,Defensive Rebound,52,58
+9:36,Virginia Tech,Kerry Blackshear Jr.,Turnover,52,58
+9:11,Duke,Tre Jones,Missed Jumper,52,58
+9:11,Virginia Tech,Wabissa Bede,Defensive Rebound,52,58
+8:57,Virginia Tech,Wabissa Bede,Turnover,52,58
+8:57,Duke,Alex O'Connell,Steal,52,58
+8:47,Duke,Marques Bolden,Layup,52,60
+8:28,Virginia Tech,Justin Robinson,Layup,54,60
+8:28,Duke,Marques Bolden,Foul,54,60
+8:28,Virginia Tech,Justin Robinson,Free Throw,55,60
+8:13,Duke,RJ Barrett,Jumper,55,62
+7:55,Virginia Tech,Nickeil Alexander-Walker,Jumper,57,62
+7:41,Duke,RJ Barrett,Turnover,57,62
+7:41,Duke,None,None,57,62
+7:27,Virginia Tech,Nickeil Alexander-Walker,Missed Jumper,57,62
+7:27,Duke,Tre Jones,Defensive Rebound,57,62
+7:08,Duke,Zion Williamson,Layup,57,64
+6:50,Duke,RJ Barrett,Foul,57,64
+6:50,Virginia Tech,Justin Robinson,Free Throw,58,64
+6:50,Virginia Tech,Justin Robinson,Missed Free Throw,58,64
+6:50,Duke,Zion Williamson,Defensive Rebound,58,64
+6:34,Duke,Zion Williamson,Foul,58,64
+6:34,Duke,Zion Williamson,Turnover,58,64
+6:23,Virginia Tech,Kerry Blackshear Jr.,Jumper,60,64
+6:23,Duke,Javin DeLaurier,Foul,60,64
+6:23,Virginia Tech,Kerry Blackshear Jr.,Free Throw,61,64
+6:11,Virginia Tech,Ahmed Hill,Foul,61,64
+6:00,Duke,RJ Barrett,Missed Three Point Jumper,61,64
+6:00,Duke,Alex O'Connell,Offensive Rebound,61,64
+5:39,Duke,RJ Barrett,Missed Jumper,61,64
+5:39,Virginia Tech,Nickeil Alexander-Walker,Block,61,64
+5:39,Virginia Tech,Kerry Blackshear Jr.,Defensive Rebound,61,64
+5:27,Virginia Tech,Justin Robinson,Missed Layup,61,64
+5:27,Duke,Zion Williamson,Block,61,64
+5:27,Duke,Tre Jones,Defensive Rebound,61,64
+5:27,Duke,Tre Jones,Jumper,61,66
+5:27,Duke,None,None,61,66
+5:10,Virginia Tech,Nickeil Alexander-Walker,Three Point Jumper,64,66
+4:52,Duke,Zion Williamson,Layup,64,68
+4:24,Virginia Tech,Ahmed Hill,Missed Jumper,64,68
+4:24,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,64,68
+4:24,Virginia Tech,None,None,64,68
+4:24,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,64,68
+4:24,Duke,Zion Williamson,Foul,64,68
+4:24,Virginia Tech,Kerry Blackshear Jr.,Free Throw,65,68
+4:24,Virginia Tech,Kerry Blackshear Jr.,Free Throw,66,68
+4:02,Virginia Tech,Ahmed Hill,Foul,66,68
+3:49,Duke,Tre Jones,Three Point Jumper,66,71
+3:21,Virginia Tech,Nickeil Alexander-Walker,Missed Three Point Jumper,66,71
+3:21,Duke,Marques Bolden,Defensive Rebound,66,71
+3:02,Duke,Zion Williamson,Dunk,66,73
+2:53,Virginia Tech,None,None,66,73
+2:39,Duke,RJ Barrett,Foul,66,73
+2:39,Virginia Tech,Kerry Blackshear Jr.,Free Throw,67,73
+2:39,Virginia Tech,Kerry Blackshear Jr.,Missed Free Throw,67,73
+2:39,Duke,RJ Barrett,Defensive Rebound,67,73
+2:16,Duke,Marques Bolden,Missed Layup,67,73
+2:16,Virginia Tech,Kerry Blackshear Jr.,Defensive Rebound,67,73
+2:06,Virginia Tech,Ahmed Hill,Layup,69,73
+1:40,Virginia Tech,Ty Outlaw,Foul,69,73
+1:21,Duke,Alex O'Connell,Missed Three Point Jumper,69,73
+1:21,Duke,Marques Bolden,Offensive Rebound,69,73
+1:21,Duke,None,None,69,73
+1:21,Duke,Marques Bolden,Offensive Rebound,69,73
+1:21,Virginia Tech,Kerry Blackshear Jr.,Foul,69,73
+1:21,Duke,Marques Bolden,Free Throw,69,74
+1:21,Duke,Marques Bolden,Free Throw,69,75
+1:10,Virginia Tech,Kerry Blackshear Jr.,Layup,71,75
+0:38,Duke,Zion Williamson,Foul,71,75
+0:38,Duke,Zion Williamson,Turnover,71,75
+0:29,Duke,Tre Jones,Foul,71,75
+0:29,Virginia Tech,Justin Robinson,Free Throw,72,75
+0:29,Virginia Tech,Justin Robinson,Free Throw,73,75
+0:29,Virginia Tech,P.J. Horne,Foul,73,75
+0:29,Duke,Tre Jones,Missed Free Throw,73,75
+0:29,Virginia Tech,Ahmed Hill,Defensive Rebound,73,75
+0:06,Virginia Tech,Ahmed Hill,Missed Three Point Jumper,73,75
+0:06,Virginia Tech,Kerry Blackshear Jr.,Offensive Rebound,73,75
+0:05,Virginia Tech,None,None,73,75
+0:05,Duke,None,None,73,75
+0:05,Virginia Tech,Ty Outlaw,Missed Three Point Jumper,73,75
+0:05,Virginia Tech,Virginia Tech,Offensive Rebound,73,75
+0:01,Virginia Tech,Ahmed Hill,Missed Layup,73,75
+0:01,Duke,Zion Williamson,Defensive Rebound,73,75
+0:00,Duke,None,None,73,75

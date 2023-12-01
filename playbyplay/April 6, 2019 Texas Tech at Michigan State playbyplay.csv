@@ -1,0 +1,280 @@
+TIME,TEAM,PLAYER,ACTION,AWAYSCORE,HOMESCORE
+20:00,Texas Tech,None,None,0,0
+19:49,Texas Tech,Matt Mooney,Turnover,0,0
+19:48,Texas Tech,Norense Odiase,Foul,0,0
+19:20,Michigan State,Matt McQuaid,Three Point Jumper,0,3
+18:51,Texas Tech,Matt Mooney,Missed Jumper,0,3
+18:51,Texas Tech,Norense Odiase,Offensive Rebound,0,3
+18:47,Texas Tech,Tariq Owens,Three Point Jumper,3,3
+18:34,Michigan State,Kenny Goins,Turnover,3,3
+18:34,Texas Tech,Tariq Owens,Steal,3,3
+18:28,Michigan State,Aaron Henry,Foul,3,3
+18:28,Texas Tech,Jarrett Culver,Free Throw,4,3
+18:28,Texas Tech,Jarrett Culver,Missed Free Throw,4,3
+18:28,Michigan State,Kenny Goins,Defensive Rebound,4,3
+18:22,Michigan State,Aaron Henry,Three Point Jumper,4,6
+17:59,Texas Tech,Davide Moretti,Turnover,4,6
+17:37,Michigan State,Matt McQuaid,Missed Jumper,4,6
+17:37,Texas Tech,Jarrett Culver,Defensive Rebound,4,6
+17:19,Texas Tech,Brandone Francis,Jumper,6,6
+16:54,Michigan State,Xavier Tillman,Turnover,6,6
+16:27,Texas Tech,Davide Moretti,Turnover,6,6
+16:04,Michigan State,Nick Ward,Foul,6,6
+16:04,Michigan State,Nick Ward,Turnover,6,6
+15:53,Texas Tech,Jarrett Culver,Missed Jumper,6,6
+15:53,Texas Tech,Norense Odiase,Offensive Rebound,6,6
+15:48,Michigan State,None,None,6,6
+15:40,Texas Tech,Tariq Owens,Dunk,8,6
+15:08,Michigan State,Matt McQuaid,Missed Three Point Jumper,8,6
+15:08,Michigan State,Michigan State,Offensive Rebound,8,6
+14:50,Michigan State,Cassius Winston,Turnover,8,6
+14:37,Texas Tech,Brandone Francis,Missed Three Point Jumper,8,6
+14:37,Michigan State,Michigan State,Defensive Rebound,8,6
+14:12,Michigan State,None,None,8,6
+14:10,Michigan State,Cassius Winston,Missed Three Point Jumper,8,6
+14:10,Texas Tech,Tariq Owens,Defensive Rebound,8,6
+13:57,Texas Tech,Deshawn Corprew,Turnover,8,6
+13:53,Michigan State,Matt McQuaid,Layup,8,8
+13:53,Texas Tech,Kyler Edwards,Foul,8,8
+13:53,Michigan State,Matt McQuaid,Free Throw,8,9
+13:45,Texas Tech,Davide Moretti,Missed Three Point Jumper,8,9
+13:45,Michigan State,Nick Ward,Defensive Rebound,8,9
+13:22,Michigan State,Matt McQuaid,Three Point Jumper,8,12
+12:51,Texas Tech,Jarrett Culver,Missed Jumper,8,12
+12:51,Michigan State,Michigan State,Defensive Rebound,8,12
+12:33,Michigan State,Gabe Brown,Missed Three Point Jumper,8,12
+12:33,Texas Tech,Norense Odiase,Defensive Rebound,8,12
+12:16,Texas Tech,Kyler Edwards,Three Point Jumper,11,12
+11:55,Michigan State,Cassius Winston,Jumper,11,14
+11:39,Michigan State,None,None,11,14
+11:32,Michigan State,Aaron Henry,Foul,11,14
+11:23,Texas Tech,Jarrett Culver,Missed Jumper,11,14
+11:23,Michigan State,Kenny Goins,Defensive Rebound,11,14
+11:08,Texas Tech,Matt Mooney,Foul,11,14
+10:51,Michigan State,Gabe Brown,Missed Three Point Jumper,11,14
+10:51,Michigan State,Xavier Tillman,Offensive Rebound,11,14
+10:47,Texas Tech,Brandone Francis,Foul,11,14
+10:37,Texas Tech,Davide Moretti,Foul,11,14
+10:37,Michigan State,Cassius Winston,Free Throw,11,15
+10:37,Michigan State,Cassius Winston,Free Throw,11,16
+10:18,Texas Tech,Matt Mooney,Three Point Jumper,14,16
+10:09,Michigan State,Cassius Winston,Missed Jumper,14,16
+10:09,Texas Tech,Jarrett Culver,Block,14,16
+10:09,Texas Tech,Norense Odiase,Defensive Rebound,14,16
+9:57,Texas Tech,Matt Mooney,Jumper,16,16
+9:35,Texas Tech,Norense Odiase,Foul,16,16
+9:23,Michigan State,Nick Ward,Missed Jumper,16,16
+9:23,Texas Tech,Kyler Edwards,Defensive Rebound,16,16
+9:13,Texas Tech,Kyler Edwards,Missed Jumper,16,16
+9:13,Michigan State,Gabe Brown,Defensive Rebound,16,16
+8:52,Michigan State,Nick Ward,Foul,16,16
+8:52,Michigan State,Nick Ward,Turnover,16,16
+8:43,Texas Tech,Brandone Francis,Three Point Jumper,19,16
+8:18,Michigan State,Cassius Winston,Missed Three Point Jumper,19,16
+8:18,Texas Tech,Kyler Edwards,Defensive Rebound,19,16
+7:58,Texas Tech,Davide Moretti,Missed Jumper,19,16
+7:58,Michigan State,Gabe Brown,Defensive Rebound,19,16
+7:37,Michigan State,Cassius Winston,Layup,19,18
+7:21,Texas Tech,Jarrett Culver,Foul,19,18
+7:21,Texas Tech,Jarrett Culver,Turnover,19,18
+7:21,Michigan State,None,None,19,18
+7:04,Michigan State,Matt McQuaid,Missed Three Point Jumper,19,18
+7:04,Texas Tech,Tariq Owens,Defensive Rebound,19,18
+6:45,Texas Tech,Jarrett Culver,Missed Layup,19,18
+6:45,Michigan State,Kenny Goins,Block,19,18
+6:45,Michigan State,Xavier Tillman,Defensive Rebound,19,18
+6:23,Michigan State,Cassius Winston,Missed Jumper,19,18
+6:23,Michigan State,Xavier Tillman,Offensive Rebound,19,18
+6:19,Michigan State,Xavier Tillman,Missed Layup,19,18
+6:19,Michigan State,Gabe Brown,Offensive Rebound,19,18
+6:04,Michigan State,Gabe Brown,Missed Three Point Jumper,19,18
+6:04,Texas Tech,Jarrett Culver,Defensive Rebound,19,18
+5:44,Texas Tech,Kyler Edwards,Missed Three Point Jumper,19,18
+5:44,Michigan State,Gabe Brown,Defensive Rebound,19,18
+5:34,Texas Tech,Jarrett Culver,Foul,19,18
+5:34,Michigan State,Matt McQuaid,Missed Free Throw,19,18
+5:34,Texas Tech,Deshawn Corprew,Defensive Rebound,19,18
+5:15,Michigan State,Cassius Winston,Foul,19,18
+5:15,Texas Tech,Matt Mooney,Free Throw,20,18
+5:15,Texas Tech,Matt Mooney,Free Throw,21,18
+4:59,Michigan State,Cassius Winston,Turnover,21,18
+4:59,Texas Tech,Matt Mooney,Steal,21,18
+4:48,Texas Tech,Matt Mooney,Missed Three Point Jumper,21,18
+4:48,Michigan State,Gabe Brown,Defensive Rebound,21,18
+4:35,Texas Tech,Tariq Owens,Foul,21,18
+4:35,Michigan State,Xavier Tillman,Missed Free Throw,21,18
+4:35,Texas Tech,Tariq Owens,Defensive Rebound,21,18
+4:10,Texas Tech,Brandone Francis,Missed Three Point Jumper,21,18
+4:10,Michigan State,Cassius Winston,Defensive Rebound,21,18
+4:03,Michigan State,Matt McQuaid,Missed Layup,21,18
+4:03,Texas Tech,Jarrett Culver,Defensive Rebound,21,18
+3:58,Texas Tech,Davide Moretti,Missed Three Point Jumper,21,18
+3:58,Michigan State,Kenny Goins,Defensive Rebound,21,18
+3:28,Michigan State,Xavier Tillman,Missed Layup,21,18
+3:28,Texas Tech,Tariq Owens,Block,21,18
+3:28,Texas Tech,Davide Moretti,Defensive Rebound,21,18
+3:17,Texas Tech,Jarrett Culver,Missed Three Point Jumper,21,18
+3:17,Michigan State,Kenny Goins,Defensive Rebound,21,18
+2:52,Michigan State,Matt McQuaid,Missed Layup,21,18
+2:52,Texas Tech,Tariq Owens,Defensive Rebound,21,18
+2:33,Texas Tech,Tariq Owens,Missed Three Point Jumper,21,18
+2:33,Texas Tech,None,Team Rebound,21,18
+2:30,Texas Tech,None,None,21,18
+2:30,Michigan State,None,None,21,18
+2:09,Texas Tech,Matt Mooney,Jumper,23,18
+1:32,Michigan State,Michigan State ,Turnover,23,18
+1:24,Texas Tech,Jarrett Culver,Missed Jumper,23,18
+1:24,Michigan State,Matt McQuaid,Defensive Rebound,23,18
+1:09,Michigan State,Cassius Winston,Three Point Jumper,23,21
+0:44,Texas Tech,Matt Mooney,Missed Jumper,23,21
+0:44,Michigan State,Xavier Tillman,Defensive Rebound,23,21
+0:21,Michigan State,None,None,23,21
+0:12,Michigan State,Xavier Tillman,Missed Layup,23,21
+0:12,Texas Tech,Tariq Owens,Block,23,21
+0:12,Texas Tech,Brandone Francis,Defensive Rebound,23,21
+0:02,Texas Tech,Matt Mooney,Missed Three Point Jumper,23,21
+0:02,Michigan State,Cassius Winston,Defensive Rebound,23,21
+0:00,Michigan State,None,None,23,21
+20:00,Michigan State,None,None,23,21
+19:54,Michigan State,Kenny Goins,Missed Three Point Jumper,23,21
+19:54,Michigan State,Aaron Henry,Offensive Rebound,23,21
+19:54,Michigan State,None,None,23,23
+19:18,Texas Tech,Davide Moretti,Three Point Jumper,26,23
+18:51,Michigan State,Matt McQuaid,Turnover,26,23
+18:41,Michigan State,Matt McQuaid,Foul,26,23
+18:28,Texas Tech,Jarrett Culver,Missed Jumper,26,23
+18:28,Michigan State,Xavier Tillman,Defensive Rebound,26,23
+18:11,Michigan State,Kenny Goins,Missed Three Point Jumper,26,23
+18:11,Texas Tech,Norense Odiase,Defensive Rebound,26,23
+17:55,Michigan State,Xavier Tillman,Foul,26,23
+17:41,Texas Tech,Davide Moretti,Layup,28,23
+17:18,Michigan State,Matt McQuaid,Three Point Jumper,28,26
+16:51,Texas Tech,Tariq Owens,Jumper,30,26
+16:34,Texas Tech,Brandone Francis,Foul,30,26
+16:34,Michigan State,Aaron Henry,Free Throw,30,27
+16:34,Michigan State,Aaron Henry,Free Throw,30,28
+16:21,Texas Tech,Brandone Francis,Jumper,32,28
+16:03,Michigan State,Cassius Winston,Turnover,32,28
+16:03,Texas Tech,Norense Odiase,Steal,32,28
+15:52,Texas Tech,Jarrett Culver,Turnover,32,28
+15:52,Michigan State,Cassius Winston,Steal,32,28
+15:42,Michigan State,Cassius Winston,Missed Three Point Jumper,32,28
+15:42,Michigan State,Kenny Goins,Offensive Rebound,32,28
+15:32,Michigan State,None,None,32,28
+15:30,Texas Tech,Kyler Edwards,Foul,32,28
+15:23,Texas Tech,Jarrett Culver,Foul,32,28
+15:23,Michigan State,Nick Ward,Missed Free Throw,32,28
+15:23,Michigan State,None,Team Rebound,32,28
+15:23,Michigan State,Nick Ward,Free Throw,32,29
+14:59,Texas Tech,Matt Mooney,Missed Jumper,32,29
+14:59,Michigan State,Matt McQuaid,Defensive Rebound,32,29
+14:47,Michigan State,Cassius Winston,Missed Jumper,32,29
+14:47,Texas Tech,Tariq Owens,Block,32,29
+14:47,Michigan State,Nick Ward,Offensive Rebound,32,29
+14:44,Michigan State,Nick Ward,Missed Layup,32,29
+14:44,Texas Tech,Kyler Edwards,Defensive Rebound,32,29
+14:31,Texas Tech,Brandone Francis,Layup,34,29
+14:05,Michigan State,Nick Ward,Layup,34,31
+13:51,Texas Tech,Matt Mooney,Layup,36,31
+13:36,Michigan State,Kenny Goins,Missed Three Point Jumper,36,31
+13:36,Texas Tech,Davide Moretti,Defensive Rebound,36,31
+13:06,Texas Tech,Kyler Edwards,Layup,38,31
+13:06,Michigan State,Cassius Winston,Foul,38,31
+13:06,Texas Tech,Kyler Edwards,Free Throw,39,31
+12:44,Michigan State,Nick Ward,Layup,39,33
+12:17,Texas Tech,Matt Mooney,Three Point Jumper,42,33
+11:44,Michigan State,Cassius Winston,Missed Three Point Jumper,42,33
+11:44,Texas Tech,Norense Odiase,Defensive Rebound,42,33
+11:18,Texas Tech,Matt Mooney,Three Point Jumper,45,33
+11:14,Michigan State,None,None,45,33
+10:59,Texas Tech,Brandone Francis,Foul,45,33
+10:59,Michigan State,None,None,45,33
+10:52,Michigan State,Xavier Tillman,Missed Layup,45,33
+10:52,Texas Tech,Matt Mooney,Defensive Rebound,45,33
+10:24,Texas Tech,Kyler Edwards,Missed Layup,45,33
+10:24,Michigan State,Xavier Tillman,Defensive Rebound,45,33
+10:07,Michigan State,Xavier Tillman,Layup,45,35
+9:52,Michigan State,Matt McQuaid,Foul,45,35
+9:41,Texas Tech,Matt Mooney,Three Point Jumper,48,35
+9:22,Michigan State,Cassius Winston,Three Point Jumper,48,38
+9:04,Texas Tech,Jarrett Culver,Jumper,50,38
+8:39,Michigan State,Cassius Winston,Missed Jumper,50,38
+8:39,Texas Tech,Jarrett Culver,Defensive Rebound,50,38
+8:10,Texas Tech,Jarrett Culver,Turnover,50,38
+8:01,Michigan State,Xavier Tillman,Three Point Jumper,50,41
+7:39,Texas Tech,Matt Mooney,Missed Three Point Jumper,50,41
+7:39,Michigan State,Nick Ward,Defensive Rebound,50,41
+7:30,Texas Tech,Matt Mooney,Foul,50,41
+7:30,Michigan State,None,None,50,41
+7:30,Michigan State,Cassius Winston,Free Throw,50,42
+7:30,Michigan State,Cassius Winston,Free Throw,50,43
+7:12,Texas Tech,Matt Mooney,Jumper,52,43
+6:52,Texas Tech,Matt Mooney,Foul,52,43
+6:52,Michigan State,Cassius Winston,Free Throw,52,44
+6:52,Michigan State,Cassius Winston,Free Throw,52,45
+6:30,Texas Tech,Brandone Francis,Missed Three Point Jumper,52,45
+6:30,Michigan State,Aaron Henry,Defensive Rebound,52,45
+6:22,Michigan State,Matt McQuaid,Missed Three Point Jumper,52,45
+6:22,Texas Tech,Matt Mooney,Defensive Rebound,52,45
+6:00,Texas Tech,Jarrett Culver,Missed Three Point Jumper,52,45
+6:00,Michigan State,Aaron Henry,Defensive Rebound,52,45
+5:41,Michigan State,Cassius Winston,Missed Jumper,52,45
+5:41,Michigan State,Xavier Tillman,Offensive Rebound,52,45
+5:38,Texas Tech,Tariq Owens,Foul,52,45
+5:38,Michigan State,Xavier Tillman,Free Throw,52,46
+5:38,Michigan State,Xavier Tillman,Free Throw,52,47
+5:15,Texas Tech,Davide Moretti,Missed Three Point Jumper,52,47
+5:15,Michigan State,Nick Ward,Defensive Rebound,52,47
+5:09,Michigan State,Cassius Winston,Missed Three Point Jumper,52,47
+5:09,Texas Tech,Kyler Edwards,Defensive Rebound,52,47
+4:47,Michigan State,Cassius Winston,Foul,52,47
+4:36,Texas Tech,Matt Mooney,Missed Three Point Jumper,52,47
+4:36,Michigan State,Michigan State,Defensive Rebound,52,47
+4:11,Texas Tech,Kyler Edwards,Foul,52,47
+4:11,Michigan State,Nick Ward,Missed Free Throw,52,47
+4:11,Texas Tech,Norense Odiase,Defensive Rebound,52,47
+3:48,Texas Tech,Brandone Francis,Missed Layup,52,47
+3:48,Texas Tech,Norense Odiase,Offensive Rebound,52,47
+3:44,Michigan State,Kenny Goins,Foul,52,47
+3:44,Michigan State,None,None,52,47
+3:44,Texas Tech,Norense Odiase,Missed Free Throw,52,47
+3:44,Texas Tech,None,Team Rebound,52,47
+3:44,Texas Tech,Norense Odiase,Missed Free Throw,52,47
+3:44,Michigan State,Kenny Goins,Defensive Rebound,52,47
+3:25,Texas Tech,Norense Odiase,Foul,52,47
+3:25,Michigan State,Aaron Henry,Free Throw,52,48
+3:25,Michigan State,Aaron Henry,Free Throw,52,49
+3:04,Texas Tech,Matt Mooney,Missed Layup,52,49
+3:04,Michigan State,Xavier Tillman,Defensive Rebound,52,49
+2:55,Michigan State,Aaron Henry,Layup,52,51
+2:29,Texas Tech,Jarrett Culver,Jumper,54,51
+2:28,Texas Tech,None,None,54,51
+2:17,Michigan State,Cassius Winston,Foul,54,51
+2:17,Michigan State,Cassius Winston,Turnover,54,51
+2:01,Texas Tech,Jarrett Culver,Missed Jumper,54,51
+2:01,Michigan State,Xavier Tillman,Block,54,51
+2:01,Michigan State,Kenny Goins,Defensive Rebound,54,51
+1:52,Michigan State,Matt McQuaid,Missed Three Point Jumper,54,51
+1:52,Texas Tech,Matt Mooney,Defensive Rebound,54,51
+1:32,Michigan State,Xavier Tillman,Foul,54,51
+1:32,Texas Tech,Jarrett Culver,Free Throw,55,51
+1:32,Texas Tech,Jarrett Culver,Missed Free Throw,55,51
+1:32,Michigan State,Kenny Goins,Defensive Rebound,55,51
+1:22,Michigan State,Xavier Tillman,Turnover,55,51
+1:22,Texas Tech,Norense Odiase,Steal,55,51
+1:01,Texas Tech,Jarrett Culver,Three Point Jumper,58,51
+0:55,Michigan State,None,None,58,51
+0:45,Michigan State,Kenny Goins,Missed Three Point Jumper,58,51
+0:45,Texas Tech,Norense Odiase,Defensive Rebound,58,51
+0:40,Michigan State,Xavier Tillman,Foul,58,51
+0:40,Texas Tech,Norense Odiase,Free Throw,59,51
+0:40,Texas Tech,Norense Odiase,Free Throw,60,51
+0:33,Michigan State,Cassius Winston,Missed Jumper,60,51
+0:33,Texas Tech,Jarrett Culver,Defensive Rebound,60,51
+0:28,Michigan State,Xavier Tillman,Foul,60,51
+0:28,Texas Tech,Jarrett Culver,Missed Free Throw,60,51
+0:28,Texas Tech,None,Team Rebound,60,51
+0:28,Texas Tech,Jarrett Culver,Free Throw,61,51
+0:15,Michigan State,Cassius Winston,Missed Three Point Jumper,61,51
+0:15,Texas Tech,Brandone Francis,Defensive Rebound,61,51
+0:00,Michigan State,None,None,61,51
